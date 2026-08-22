@@ -1,6 +1,6 @@
 backend:
   name: github
-  repo: d7cky/d7cky.github.io
+  repo: quangduc97/sachhiem.net
   branch: main
 site_url: https://sachhiem.net
 display_url: https://sachhiem.net

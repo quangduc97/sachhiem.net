@@ -14,7 +14,7 @@ const SITE_ROOT = path.resolve(path.dirname(fileURLToPath(import.meta.url)), '..
 const AUTHORS_META_FILE = path.join(SITE_ROOT, 'src/data/authors-meta.json');
 const OUT_FILE = path.join(SITE_ROOT, 'public/admin/config.yml');
 
-const REPO = 'd7cky/d7cky.github.io'; // ← đổi nếu repo khác tên
+const REPO = 'quangduc97/sachhiem.net';
 
 const authors = JSON.parse(fs.readFileSync(AUTHORS_META_FILE, 'utf8'));
 const categories = [...new Set(Object.values(CATEGORY_MAP))].sort((a, b) => a.localeCompare(b, 'vi'));
