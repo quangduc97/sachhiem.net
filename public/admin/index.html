@@ -9,6 +9,13 @@
   <body>
     <!-- Netlify Identity: cổng đăng nhập cho Decap CMS trên GitHub Pages -->
     <script src="https://identity.netlify.com/v1/netlify-identity-widget.js"></script>
+    <script>
+      // Admin đặt ngoài Netlify (GitHub Pages) nên phải trỏ tường minh
+      // về instance Identity của site Netlify.
+      window.netlifyIdentity.init({
+        APIUrl: 'https://monumental-sunburst-4bc155.netlify.app/.netlify/identity',
+      });
+    </script>
     <script src="https://unpkg.com/decap-cms@^3.0.0/dist/decap-cms.js"></script>
   </body>
 </html>
