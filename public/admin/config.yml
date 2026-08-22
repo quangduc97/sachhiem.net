@@ -1,9 +1,8 @@
 backend:
-  name: github
-  repo: quangduc97/sachhiem.net
+  name: git-gateway
   branch: main
-site_url: https://sachhiem.net
-display_url: https://sachhiem.net
+site_url: https://quangduc97.github.io/sachhiem.net/
+display_url: https://quangduc97.github.io/sachhiem.net/
 locale: vi
 media_folder: public/uploads
 public_folder: /uploads

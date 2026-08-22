@@ -14,7 +14,7 @@ const SITE_ROOT = path.resolve(path.dirname(fileURLToPath(import.meta.url)), '..
 const AUTHORS_META_FILE = path.join(SITE_ROOT, 'src/data/authors-meta.json');
 const OUT_FILE = path.join(SITE_ROOT, 'public/admin/config.yml');
 
-const REPO = 'quangduc97/sachhiem.net';
+const REPO = 'quangduc97/sachhiem.net'; // dùng cho hướng dẫn/ghi chú; backend là git-gateway
 
 const authors = JSON.parse(fs.readFileSync(AUTHORS_META_FILE, 'utf8'));
 const categories = [...new Set(Object.values(CATEGORY_MAP))].sort((a, b) => a.localeCompare(b, 'vi'));
@@ -59,9 +59,10 @@ const collections = Object.entries(authors).map(([slug, info]) => ({
 }));
 
 const config = {
-  backend: { name: 'github', repo: REPO, branch: 'main' },
-  site_url: 'https://sachhiem.net',
-  display_url: 'https://sachhiem.net',
+  // git-gateway: đăng nhập qua Netlify Identity (không cần lưu token cá nhân)
+  backend: { name: 'git-gateway', branch: 'main' },
+  site_url: 'https://quangduc97.github.io/sachhiem.net/',
+  display_url: 'https://quangduc97.github.io/sachhiem.net/',
   locale: 'vi',
   media_folder: 'public/uploads',
   public_folder: '/uploads',
