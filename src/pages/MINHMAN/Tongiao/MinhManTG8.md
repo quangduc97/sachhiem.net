@@ -2,7 +2,7 @@
 layout: ../../../layouts/Article.astro
 title: "Hòa Thượng Hồng Hạc (Minh Mẫn)"
 author: "Minh Mẫn"
-source: "https://sachhiem.net/null"
+source: "/null"
 lang: vi
 wordCount: 1651
 image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/MINHMAN/file:///C:/SACHHIEM/images/mail.gif"
@@ -107,7 +107,7 @@ Gửi bài này cho bạn bè</a></td>
 		<table border="0" cellpadding="0" cellspacing="0" id="bgcolor7" width="100%" colspan="2" height="16">
 			<tbody><tr>
 				<td width="100%" bgcolor="White" align="left" valign="top" height="16">
-				<a href="https://sachhiem.net/MINHMAN/MMdir.php">
+				<a href="/MINHMAN/MMdir">
 				<p class="trang">Trang Minh Mẫn</p></a></td>
 			</tr>
 			<tr>
@@ -131,7 +131,7 @@ Gửi bài này cho bạn bè</a></td>
 	<tbody><tr>
 		<td width="100%" bgcolor="White" align="left" valign="top" height="16">	
 
-			<a href="https://sachhiem.net/MINHMAN/MMdir.php"><p class="trang">Trang Minh Mẫn</p></a>
+			<a href="/MINHMAN/MMdir"><p class="trang">Trang Minh Mẫn</p></a>
 
 </td>
 	</tr>

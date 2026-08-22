@@ -3,7 +3,7 @@ layout: ../../../layouts/Article.astro
 title: "Vài Câu Hỏi Về Thánh Kinh"
 author: "FB Việt Đức/ Những Người Từ Bỏ Niềm Tin Thiên Chúa"
 date: 2024-10-24
-source: "https://sachhiem.net/TONGIAO/FB/FBVietDuc.php"
+source: "/TONGIAO/FB/FBVietDuc"
 category: "Chính trị"
 lang: vi
 wordCount: 2323

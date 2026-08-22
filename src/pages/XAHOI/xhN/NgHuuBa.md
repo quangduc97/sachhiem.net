@@ -2,7 +2,7 @@
 layout: ../../../layouts/Article.astro
 title: "Quanh Hiện Tượng Thích Phước Huệ"
 author: "Nguyễn Hữu Ba"
-source: "https://sachhiem.net/null"
+source: "/null"
 category: "Xã hội"
 lang: vi
 wordCount: 5908
@@ -21,7 +21,7 @@ image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nhacu.jpg"
 		
 		<table border="0" cellpadding="10" width="100%" cols="3">
 			<tbody><tr>
-				<td width="172"><a href="https://sachhiem.net/">
+				<td width="172"><a href="/">
 				<img border="0" src="https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nhacu.jpg" width="49" height="20"></a></td>
 				
 				<td valign="top" style="text-align:right"><i><font size="2">18 tháng 9, 2008

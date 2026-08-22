@@ -3,7 +3,7 @@ layout: ../../../layouts/Article.astro
 title: "Nhà Ngô Đàn Áp Phật Giáo Đêm 20 tháng 8 năm 1963"
 author: "Trần Quang Diệu chú giải- Nguyễn Hữu Tín"
 date: 2013-09-01
-source: "https://sachhiem.net/LICHSU/TR/TQD33_danap.php"
+source: "/LICHSU/TR/TQD33_danap"
 category: "Đối thoại"
 lang: vi
 wordCount: 4962

@@ -2,15 +2,15 @@
 layout: ../../../layouts/Article.astro
 title: "Luận Điệu Phi Dân Tộc của Kẻ Phản Dân Tộc"
 author: "Trần Chung Ngọc"
-source: "https://sachhiem.net/TCN/TCNdt/TCNdt048.php"
+source: "/TCN/TCNdt/TCNdt048"
 category: "Đối thoại"
 lang: vi
 wordCount: 8146
-image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.devhttps://sachhiem.net/images/nha.jpg"
+image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/LICHSU/IMG/NGODD/NgoDD_Diaster.jpg"
 ---
 
 <table border="0" width="250" align="center">
-    <tbody><tr><td width="106"><a href="https://sachhiem.net/index.php"><img border="0" src="https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.devhttps://sachhiem.net/images/nha.jpg"></a>    </td>
+    <tbody><tr><td width="106">    </td>
 <td valign="top" width="210"><p>28 tháng 9,  2010</p></td></tr></tbody></table>
 	
 		
@@ -79,7 +79,7 @@ image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.devhttps://sachhiem.net/
 	đoạn điển hình của Minh Võ.</p>
 	<p>
 	 Trước đây, trong bài “<i>Vài Nét Về Cụ Hồ</i>”:
-	<a href="https://www.sachhiem.net/TCN/TCNls/TCNls04.php">
+	<a href="/TCN/TCNls/TCNls04">
 	https://www.sachhiem.net/TCN/TCNls/TCNls04. php</a>, 
 	<a href="https://www.giaodiemonline.com/noidung_detail.php?newsid=587">
 	https://www.giaodiemonline.com/noidung_detail.php?newsid=587</a>, tôi đã từng 
@@ -255,7 +255,7 @@ image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.devhttps://sachhiem.net/
 	lọt vào tay Ngô Đình Diệm chỉ có trong 9 năm mà đất nước đã thành thế nào. 
 	Nhất Chúa, nhì Cha, thứ ba Ngô Tổng Thống? Đã có ai quên câu này chưa? Ông 
 	Minh Võ cần phải đọc bài
-	<a href="https://www.sachhiem.net/NMQ/HOSOTOIAC/CH63_1a.php">
+	<a href="/NMQ/HOSOTOIAC/CH63_1a">
 	https://www.sachhiem.net/NMQ/HOSOTOIAC/CH63_1a.php</a>: <i>NGÔ ĐÌNH DIỆM: CON 
 	NGƯỜI VÀ TỘI ÁC </i>của Giáo sư sử chính thống Nguyễn Mạnh Quang. Tôi hi 
 	vọng ông Minh Võ có thể dùng lý luận và tài liệu thay vì cảm tính cá nhân để 
@@ -679,7 +679,7 @@ image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.devhttps://sachhiem.net/
 	chiều ý ông Minh Võ để bàn qua về hai nhân vật mà ông Minh Võ cho là “đối 
 	thủ” , hay “kỳ phùng địch thủ”. Về Cụ Hồ thì không cần phải nói gì vì lịch 
 	sử thế giới đã viết rất rõ ràng [Xin đọc:
-	<a href="https://www.sachhiem.net/TCN/TCNls/TCNls04.php">
+	<a href="/TCN/TCNls/TCNls04">
 	https://www.sachhiem.net/TCN/TCNls/TCNls04.php</a>,] </p>
 	
 	<p class="center">

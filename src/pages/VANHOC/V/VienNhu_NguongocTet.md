@@ -3,7 +3,7 @@ layout: ../../../layouts/Article.astro
 title: "NGUỒN GỐC TẾT VIỆT"
 author: "Viên Như"
 date: 2019-12-31
-source: "https://sachhiem.net/VANHOC/V/VienNhu_NguongocTet.php"
+source: "/VANHOC/V/VienNhu_NguongocTet"
 category: "Chính trị"
 lang: vi
 wordCount: 19246

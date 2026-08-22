@@ -2,7 +2,7 @@
 layout: ../../../layouts/Article.astro
 title: "VIETNAM WHY DID WE GO?"
 author: "AVRO MANHATTAN"
-source: "https://sachhiem.net/source: https://sachhiem.net/SACHNGOAI/Ydidwego_files/vietnam.htm"
+source: "/source: https://sachhiem.net/SACHNGOAI/Ydidwego_files/vietnam.htm"
 lang: en
 wordCount: 2882
 image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/SACHNGOAI/file:///C:/SACHHIEM/images/mail.gif"
@@ -60,7 +60,7 @@ Gửi bài này cho bạn bè</a></td>
 				the Papacy. His books were #1 on the <em>Forbidden Index </em>
 				for the past 50 years!!</font></p>
 				<p align="center">
-				<a href="https://sachhiem.net/SACHNGOAI/Ydidwego_files/avro.htm">
+				<a href="/SACHNGOAI/Ydidwego_files/avro">
 				<font size="4">More About the Author:</font></a></p>
 				
 
@@ -92,7 +92,7 @@ Gửi bài này cho bạn bè</a></td>
 		<h3 align="center"><font size="5"><a name="Contents"><u>
 		Contents</u></a></font></h3>
 		&nbsp;<p><font size="4">
-				<a href="https://sachhiem.net/SACHNGOAI/Ydidwego_files/publish.htm">Publisher's 
+				<a href="/SACHNGOAI/Ydidwego_files/publish">Publisher's 
 				Foreword</a></font>
 				</p>
 				<p><a href="/SACHNGOAI/file:///C:/SACHHIEM/SACHNGOAI/Ydidwego_files/Preface">
@@ -100,7 +100,7 @@ Gửi bài này cho bạn bè</a></td>
 				
 				</p>
 				<h3 align="center">
-				<a href="https://sachhiem.net/SACHNGOAI/Ydidwego_files/Chapter1.htm">
+				<a href="/SACHNGOAI/Ydidwego_files/Chapter1">
 				<font>Chapter 1</font></a></h3>
 				<p align="center"><font color="#ff0000" size="4">
 				<u>Preliminaries.</u></font></p>
@@ -119,7 +119,7 @@ Gửi bài này cho bạn bè</a></td>
 
 
 				<p align="center"><font size="4">
-				<a href="https://sachhiem.net/SACHNGOAI/Ydidwego_files/Chapter2.htm">Chapter 2</a></font></p>
+				<a href="/SACHNGOAI/Ydidwego_files/Chapter2">Chapter 2</a></font></p>
 				<p align="center"><font color="#ff0000" size="4">
 				<u>The Vatican-American Grand Alliance</u></font></p>
 				<p align="left"><font size="3">Reasons Which Prompted the U.S. to Commit Herself to the War in 
@@ -134,7 +134,7 @@ Gửi bài này cho bạn bè</a></td>
 
 
 				<p align="center"><font size="4">
-				<a href="https://sachhiem.net/SACHNGOAI/Ydidwego_files/Chapter3.htm">Chapter 3</a></font></p>
+				<a href="/SACHNGOAI/Ydidwego_files/Chapter3">Chapter 3</a></font></p>
 				<p align="center"><font color="#ff0000" size="4">
 				<u>Fatimaization of the West</u></font></p>
 				<p align="left"><font size="3">Religious and Ideological Preliminaries to the Vietnamese War.<br>
@@ -148,7 +148,7 @@ Gửi bài này cho bạn bè</a></td>
 
 			
 				<p align="center"><font size="4">
-				<a href="https://sachhiem.net/SACHNGOAI/Ydidwego_files/Chapter4.htm">Chapter 4</a></font></p>
+				<a href="/SACHNGOAI/Ydidwego_files/Chapter4">Chapter 4</a></font></p>
 				<p align="center"><font color="#ff0000" size="4">
 				<u>The Pope's Blessing for a Preventive War</u></font></p>
 				<p align="left"><font size="3">The Secretary of the U.S. Navy, Secret Chamberlain of the Pope, 
@@ -163,7 +163,7 @@ Gửi bài này cho bạn bè</a></td>
 
 				
 				<p align="center"><font size="4">
-				<a href="https://sachhiem.net/SACHNGOAI/Ydidwego_files/Chapter5.htm">Chapter 5</a></font></p>
+				<a href="/SACHNGOAI/Ydidwego_files/Chapter5">Chapter 5</a></font></p>
 				<p align="center"><font color="#ff0000" size="4">
 				<u>The Miraculous Zig-Zagging Sun</u></font></p>
 				<p align="left"><font>Pope Pius XII Uses Religious 
@@ -181,7 +181,7 @@ Gửi bài này cho bạn bè</a></td>
 
 
 				<p align="center"><font size="4">
-				<a href="https://sachhiem.net/SACHNGOAI/Ydidwego_files/Chapter6.htm">Chapter 6</a></font></p>
+				<a href="/SACHNGOAI/Ydidwego_files/Chapter6">Chapter 6</a></font></p>
 				<p align="center"><font color="#ff0000" size="4">
 				<u>The Pope's "Preventive War" Miscarries.</u></font></p>
 				<p align="left"><font>U.S. Admirals, Generals and 
@@ -202,7 +202,7 @@ Gửi bài này cho bạn bè</a></td>
 
 
 				<p align="center"><font size="4">
-				<a href="https://sachhiem.net/SACHNGOAI/Ydidwego_files/Chapter7.htm">Chapter 7</a></font></p>
+				<a href="/SACHNGOAI/Ydidwego_files/Chapter7">Chapter 7</a></font></p>
 				<p align="center"><font color="#ff0000" size="4">
 				<u>The Men Behind the Vietnamese War.</u></font></p>
 				<p align="left"><font>Politicians, Generals, and 
@@ -222,7 +222,7 @@ Gửi bài này cho bạn bè</a></td>
 
 
 				<p align="center"><font size="4">
-				<a href="https://sachhiem.net/SACHNGOAI/Ydidwego_files/Chapter8.htm">Chapter 8</a></font></p>
+				<a href="/SACHNGOAI/Ydidwego_files/Chapter8">Chapter 8</a></font></p>
 				<p align="center"><font color="#ff0000" size="4">
 				<u>The Virgin Mary Goes South.</u></font></p>
 				<p align="left"><font>The Catholic Imponderable in 
@@ -247,7 +247,7 @@ Gửi bài này cho bạn bè</a></td>
 
 
 				<p align="center"><font size="4">
-				<a href="https://sachhiem.net/SACHNGOAI/Ydidwego_files/Chapter9.htm">Chapter 9</a></font></p>
+				<a href="/SACHNGOAI/Ydidwego_files/Chapter9">Chapter 9</a></font></p>
 				<p align="center"><font color="#ff0000" size="4">
 				<u>The Pius-Spellman-Dulles Secret Scheme.</u></font></p>
 				<p align="left"><font>The U.S. Taxpayer Finances 
@@ -268,7 +268,7 @@ Gửi bài này cho bạn bè</a></td>
 
 
 				<p align="center"><font size="4">
-				<a href="https://sachhiem.net/SACHNGOAI/Ydidwego_files/Chapter10.htm">Chapter 10</a></font></p>
+				<a href="/SACHNGOAI/Ydidwego_files/Chapter10">Chapter 10</a></font></p>
 				<p align="center"><font color="#ff0000" size="4">
 				<u>The Promotion of Catholic Totalitarianism.</u></font></p>
 				<p align="left"><font>"Individuals Considered 
@@ -286,7 +286,7 @@ Gửi bài này cho bạn bè</a></td>
 
 
 				<p align="center"><font size="4">
-				<a href="https://sachhiem.net/SACHNGOAI/Ydidwego_files/Chapter11.htm">Chapter 11</a></font></p>
+				<a href="/SACHNGOAI/Ydidwego_files/Chapter11">Chapter 11</a></font></p>
 				<p align="center"><font color="#ff0000" size="4">
 				<u>Consolidation of Terrorism</u></font></p>
 				<p align="left"><font>Anti-Protestant Legislation - 
@@ -309,7 +309,7 @@ Gửi bài này cho bạn bè</a></td>
 
 
 				<p align="center"><font size="4">
-				<a href="https://sachhiem.net/SACHNGOAI/Ydidwego_files/Chapter12.htm">Chapter 12</a></font></p>
+				<a href="/SACHNGOAI/Ydidwego_files/Chapter12">Chapter 12</a></font></p>
 				<p align="center"><font color="#ff0000"><u>A CIA 
 				Spy Plane Cancels a Summit Meeting</u></font></p>
 				<p align="left"><font>The Cardinal Spellman War 
@@ -329,7 +329,7 @@ Gửi bài này cho bạn bè</a></td>
 
 
 				<p align="center"><font size="4">
-				<a href="https://sachhiem.net/SACHNGOAI/Ydidwego_files/Chapter13.htm">Chapter 13</a></font></p>
+				<a href="/SACHNGOAI/Ydidwego_files/Chapter13">Chapter 13</a></font></p>
 				<p align="center"><font color="#ff0000" size="4">
 				<u>The Vatican Attempts to Prevent Peace</u></font></p>
 				<p align="left"><font>Pope John XXIII Rejects 
@@ -349,7 +349,7 @@ Gửi bài này cho bạn bè</a></td>
 				"Unlimited"commitment in Vietnam.</font>
 
 				</p><p align="center"><font size="4">
-				<a href="https://sachhiem.net/SACHNGOAI/Ydidwego_files/Chapter14.htm">Chapter 14</a></font></p>
+				<a href="/SACHNGOAI/Ydidwego_files/Chapter14">Chapter 14</a></font></p>
 				<p align="center"><font color="#ff0000" size="4">
 				<u>Religious Persecutions and Suicides by Fire</u></font></p>
 				<p align="left"><font>World Opinion Forces U.S. to 
@@ -368,7 +368,7 @@ Gửi bài này cho bạn bè</a></td>
 
 
 				<p align="center"><font size="4">
-				<a href="https://sachhiem.net/SACHNGOAI/Ydidwego_files/Chapter15.htm">Chapter15</a></font></p>
+				<a href="/SACHNGOAI/Ydidwego_files/Chapter15">Chapter15</a></font></p>
 				<p align="center"><font color="#ff0000" size="4">
 				<u>End of the Catholic Dictatorship</u></font></p>
 				<p align="left"><font>Assassinations of Two 
@@ -389,7 +389,7 @@ Gửi bài này cho bạn bè</a></td>
 
 
 				<p align="center"><font>
-				<a href="https://sachhiem.net/SACHNGOAI/Ydidwego_files/Chapter16.htm">
+				<a href="/SACHNGOAI/Ydidwego_files/Chapter16">
 				<font size="4">Chapter 16</font></a> </font></p>
 				<p align="center"><font color="#ff0000" size="4">
 				<u>Catholic Expansionism in Southeast Asia in the 19th Century</u></font></p>
@@ -406,7 +406,7 @@ Gửi bài này cho bạn bè</a></td>
 				Vietnam during the last century.</font>
 
 				</p><p align="center"><font>
-				<a href="https://sachhiem.net/SACHNGOAI/Ydidwego_files/Chapter17.htm">
+				<a href="/SACHNGOAI/Ydidwego_files/Chapter17">
 				<font size="4">Chapter 17</font></a> </font></p>
 				<p align="center"><font color="#ff0000" size="4">
 				<u>Early History of Catholic Power in Siam and China</u></font></p>
@@ -424,7 +424,7 @@ Gửi bài này cho bạn bè</a></td>
 				China.</font></p>
 
 				<p align="center"><font size="4">
-				<a href="https://sachhiem.net/SACHNGOAI/Ydidwego_files/Chapter18.htm">Chapter 18</a></font></p>
+				<a href="/SACHNGOAI/Ydidwego_files/Chapter18">Chapter 18</a></font></p>
 				<p align="center"><font color="#ff0000" size="4">
 				<u>History of Catholic Aggressiveness in Japan</u></font></p>
 				<p align="left"><font>Conversions, Rebellions, 
@@ -448,7 +448,7 @@ Gửi bài này cho bạn bè</a></td>
 
 
 				<p align="center"><font size="4">
-				<a href="https://sachhiem.net/SACHNGOAI/Ydidwego_files/Chapter19.htm">Chapter 19</a></font></p>
+				<a href="/SACHNGOAI/Ydidwego_files/Chapter19">Chapter 19</a></font></p>
 				<p align="center"><font color="#ff0000" size="4">
 				<u>Creation of a Dangerous Alliance</u></font></p>
 				<p align="left"><font>Retrospective Assessment of 
@@ -463,7 +463,7 @@ Gửi bài này cho bạn bè</a></td>
 				trio which helped the U.S. into the war in Vietnam.</font>
 
 				</p><p align="center"><font size="4">
-				<a href="https://sachhiem.net/SACHNGOAI/Ydidwego_files/Chapter20.htm">Chapter 20</a></font></p>
+				<a href="/SACHNGOAI/Ydidwego_files/Chapter20">Chapter 20</a></font></p>
 				<p align="center"><font color="#ff0000" size="4">
 				<u>The Two Catholic Presidents and a Revolutionary Pope</u></font></p>
 				<p><font>The Collapse of the U.S.-Vatican Grand 
@@ -484,7 +484,7 @@ Gửi bài này cho bạn bè</a></td>
 
 
 				<p align="center"><font size="4">
-				<a href="https://sachhiem.net/SACHNGOAI/Ydidwego_files/Chapter21.htm">Chapter 21</a></font></p>
+				<a href="/SACHNGOAI/Ydidwego_files/Chapter21">Chapter 21</a></font></p>
 				<p align="center"><u><font color="#ff0000" size="4">Secret Deal Between the Pope and the Communists of North Vietnam.</font></u></p>
 				<p><font>The Vatican Prepares for a United Marxist 
 				Vietnam.</font></p>
@@ -498,7 +498,7 @@ Gửi bài này cho bạn bè</a></td>
 				Chi Minh outfoxes the pope.</font></p>
 
 				<p align="center"><font size="4">
-				<a href="https://sachhiem.net/SACHNGOAI/Ydidwego_files/Chapter22.htm">Chapter 22</a></font></p>
+				<a href="/SACHNGOAI/Ydidwego_files/Chapter22">Chapter 22</a></font></p>
 				<p align="center"><font color="#ff0000" size="4">
 				<u>The Final Disaster</u></font></p>
 				<p><font color="#000000" size="3">Disintegration of 
@@ -522,7 +522,7 @@ Gửi bài này cho bạn bè</a></td>
 	</td> </tr>
 	</tbody></table></td></tr>
 
-<tr> <td align="center" valign="top" height="3" bgcolor="#FEFEDA" background="../../images/BGtopY.gif"> <center>  <a href="https://sachhiem.net/SNGOAIdir.php"><img src="https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/MuclucButton.gif"> </a>  </center></td></tr>
+<tr> <td align="center" valign="top" height="3" bgcolor="#FEFEDA" background="../../images/BGtopY.gif"> <center>  <a href="/SNGOAIdir"><img src="https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/MuclucButton.gif"> </a>  </center></td></tr>
 
 
 <tr><td colspan="2"> 

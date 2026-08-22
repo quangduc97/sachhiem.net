@@ -3,7 +3,7 @@ layout: ../../../layouts/Article.astro
 title: "Vatican sẽ mở hồ sơ về Giáo hoàng Pius XII bị cho là \"ủng hộ Hitler\""
 author: "Tin BBC tiếng Việt"
 date: 2019-03-04
-source: "https://sachhiem.net/TONGIAO/tgT/TinBBC8.php"
+source: "/TONGIAO/tgT/TinBBC8"
 category: "Chính trị"
 lang: vi
 wordCount: 612

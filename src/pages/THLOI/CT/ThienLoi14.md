@@ -3,7 +3,7 @@ layout: ../../../layouts/Article.astro
 title: "Thực Dân Biến Tướng"
 author: "Thiên Lôi"
 date: 2013-04-29
-source: "https://sachhiem.net/index.php?content=showrecipe&id=5623"
+source: "/THLOI/CT/ThienLoi14"
 category: "Tác giả"
 lang: vi
 wordCount: 3195

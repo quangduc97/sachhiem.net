@@ -2,14 +2,14 @@
 layout: ../../../layouts/Article.astro
 title: "VỀ MỘT BÀI BÁO TRÊN \"SÀI GÒN NHỎ\""
 author: "Trần Chung Ngọc"
-source: "https://sachhiem.net/TCN/TCNdt/TCNdt008.php"
+source: "/TCN/TCNdt/TCNdt008"
 category: "Đối thoại"
 lang: vi
 wordCount: 6290
-image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nha.jpg"
+image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/THOISU_CT/Hinh/CCCB/Saigonnho_0.jpg"
 ---
 
-<p align="center"><a href="/index"><img hspace="20" border="0" src="https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nha.jpg"></a>26 tháng 8, 2007 </p>
+<p align="center">26 tháng 8, 2007 </p>
         <p><b>Vài Lời Nói Đầu</b> </p>
         <p><span class="First">T</span>ừ hơn 10 năm nay, khi chọn con đường giải hoặc Công Giáo nói riêng, Ki Tô Giáo nói chung, và viết những bài phê bình, thời sự, chính trị v..v.. thuộc loại “<i>lội ngược dòng hải ngoại</i>”, tôi đã biết chắc chắn sẽ có nhiều chống đối và đã sửa soạn tâm tư để đối phó với một triết lý:&nbsp;nếu ai phê bình đúng thì phải coi họ như là bậc thầy mà học hỏi, nếu họ viết sai thì chẳng liên quan gì đến mình, và <b>nếu họ không thảo luận trên các chủ đề mình viết mà lại dùng thủ đoạn hạ cấp để chụp mũ, bôi nhọ cá nhân hay bịa đặt những điều riêng tư về cá nhân hay gia đình mình thì lại càng không đáng phải để ý đến.</b>&nbsp;Bởi vì những thủ đoạn hạ cấp này chúng ta thấy không thiếu gì trên những diễn đàn truyền thông hải ngoại: báo chí, phát thanh, tuyên ngôn v..v…</p>
         <p>Viết ra những sự thật về Công Giáo [phiên âm chính xác nhất từ “Roman Catholicism” phải là “Đạo Ca-tô Rô-ma”] nói riêng và Ki Tô Giáo [Christianity] nói chung, là chắc chắn mua lấy những sự chống đối, nhất là về phía Ca-Tô Rô-ma, vì như trong một kịch bản, Samuel Butler đã viết một lời đối thoại đối với một linh mục, rằng: <i>“người Ca Tô không sợ tội lỗi, chỉ sợ sự thật.”</i>&nbsp;Vì với tâm cảnh sợ sự thật này nên khi chính sự thật đến gõ cửa thì thái độ của những người Ki Tô Giáo nói chung là đóng sập cửa vào mặt sự thật, và dùng những thủ đoạn không mấy đẹp để vu khống, bôi nhọ những người đã có hảo tâm mang sự thật đến cho họ mong họ được giải thoát ra khỏi những ngục tù tâm linh. </p>

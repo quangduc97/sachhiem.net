@@ -3,7 +3,7 @@ layout: ../../../layouts/Article.astro
 title: "Vạch Mặt Cái Gọi Là \"Tọa Đàm Khoa Học\""
 author: "FB Tuệ Phong"
 date: 2022-06-01
-source: "https://sachhiem.net/LICHSU/FB/FBTuePhong.php"
+source: "/LICHSU/FB/FBTuePhong"
 category: "Chính trị"
 lang: vi
 wordCount: 1925

@@ -3,7 +3,7 @@ layout: ../../../layouts/Article.astro
 title: "Sự Thật Về “Đế Quốc Việt Nam”"
 author: "Trần Khách Quan"
 date: 2017-11-20
-source: "https://sachhiem.net/THOISU_CT/ChuK/Khachquan_10.php"
+source: "/THOISU_CT/ChuK/Khachquan_10"
 category: "Chính trị"
 lang: vi
 wordCount: 2072
@@ -59,7 +59,7 @@ image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/LICHSU/IMG/NANDOI/Ch
     
     <p>____________ </p>
     <p><b>Bài đọc thêm:</b></p>
-    <p><a href="https://sachhiem.net/NMQ/PCD/NMQ053.php">- <b>Việt Nam Có Độc Lập Tự Do Từ Chính Quyền Trần Trọng Kim Hay Không?</b></a> (Nguyễn Mạnh Quang) </p>
+    <p><a href="/NMQ/PCD/NMQ053">- <b>Việt Nam Có Độc Lập Tự Do Từ Chính Quyền Trần Trọng Kim Hay Không?</b></a> (Nguyễn Mạnh Quang) </p>
     <p>-&nbsp;<a href="https://congdoansonloc.blogspot.com/2015/02/nan-oi-at-dau-duoi-ong-kinh-nhiep-anh.html"><b>Nạn Đói Ất Dậu Dưới Ống Kính Nhiếp Ảnh Gia Võ An Ninh</b>&nbsp;</a></p>
     <p align="center"><img src="https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/LICHSU/IMG/NANDOI/Xin-an-Hanoi.jpg" width="400" height="256" alt=""></p>
     <p align="center">người dân các vùng Thanh Nghệ, Thái Bình, Nam Định, Vĩnh Phúc… lũ lượt kéo về Hà Nội mong kiếm được miếng ăn duy trì sự sống. Phố xá tràn ngập người ăn xin và xác người chết đói.&nbsp;</p>

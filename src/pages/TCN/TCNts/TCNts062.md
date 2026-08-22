@@ -3,16 +3,16 @@ layout: ../../../layouts/Article.astro
 title: "Tôi Đọc: “Nationalist In The Vietnam Wars: Memoirs Of A Victim Turned Soldier”"
 author: "của Nguyễn Công Luận"
 date: 2012-11-15
-source: "https://sachhiem.net/index.php?content=showrecipe&id=5449"
+source: "/TCN/TCNts/TCNts062"
 category: "Chính trị"
 lang: vi
 wordCount: 13775
-image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nha.jpg"
+image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/SACHNGOAI/Hinhanh/BIASACH/Nationalist.jpg"
 ---
 
 <table border="0" align="center" width="250">
           <tbody><tr>
-            <td width="100"><a href="https://sachhiem.net/index.php"><img border="0" src="https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nha.jpg"></a></td>
+            <td width="100"></td>
 	<td valign="top" style="text-align:right">15-Nov-2012</td>
           </tr></tbody></table>
 	    
@@ -580,7 +580,7 @@ image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nha.jpg"
             chính trị rất khôn ngoan với tầm&nbsp; nhìn xa của ông Hồ nhưng bị chống
             đối vì lòng yêu nước bài Pháp đang sôi sục và không biết rõ về Hiệp
             định 6/3. Muốn hiểu bước đi chính trị này của ông Hồ, hãy đọc Nguyễn
-            Mạnh Quang trong bài <a href="https://sachhiem.net/NMQ/PCD/NMQ038.php"><i>Đánh
+            Mạnh Quang trong bài <a href="/NMQ/PCD/NMQ038"><i>Đánh
             Lận Danh Nhân</i>: </a> https://sachhiem.net/NMQ/PCD/NMQ038.php,
             mới đăng trên sachhiem.net, về thực trạng những người VNQDĐ đi theo
             đoàn quân Tàu Ô vào Việt Nam.</p>

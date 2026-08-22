@@ -3,7 +3,7 @@ layout: ../../../layouts/Article.astro
 title: "CHẾT dưới tay TRUNG QUỐC"
 author: "Peter Navarro"
 date: 2017-01-05
-source: "https://sachhiem.net/SACHNGOAI/snP/PeterNavaro.php"
+source: "/SACHNGOAI/snP/PeterNavaro"
 category: "Chính trị"
 lang: vi
 wordCount: 2791

@@ -3,7 +3,7 @@ layout: ../../../layouts/Article.astro
 title: "Công lý nào cho Lê Quốc Quân?"
 author: "Võ Khánh Linh"
 date: 2013-10-03
-source: "https://sachhiem.net/THOISU_CT/ChuV/VoKhanhLinh06.php"
+source: "/THOISU_CT/ChuV/VoKhanhLinh06"
 category: "Chính trị"
 lang: vi
 wordCount: 1076
@@ -25,4 +25,4 @@ image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/sqdot.gif"
 <p class="nguonL">Nguồn <a href="https://vokhanhlinh98.blogspot.com/2013/10/cong-ly-nao-cho-le-quoc-quan.html">https://vokhanhlinh98.blogspot.com/2013/10/cong-ly-nao-cho-le-quoc-quan.html</a></p>
 <p>__________________ </p>
 <p><b>Mời đọc bài liên hệ:</b></p>
-<p>- <a href="https://sachhiem.net/TCN/TCNts/TCNts009.php">NED VÀ VỤ BẮT GIỮ LÊ QUỐC QUÂN</a> (Trần Chung Ngọc)</p>
+<p>- <a href="/TCN/TCNts/TCNts009">NED VÀ VỤ BẮT GIỮ LÊ QUỐC QUÂN</a> (Trần Chung Ngọc)</p>

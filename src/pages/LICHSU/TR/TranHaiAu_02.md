@@ -3,7 +3,7 @@ layout: ../../../layouts/Article.astro
 title: "Bộ Phim Tài Liệu - Nam Bộ: Xưa và Nay"
 author: "Trần Hải Âu giới thiệu"
 date: 2021-03-06
-source: "https://sachhiem.net/LICHSU/TR/TranHaiAu_02.php"
+source: "/LICHSU/TR/TranHaiAu_02"
 category: "Chính trị"
 lang: vi
 wordCount: 793

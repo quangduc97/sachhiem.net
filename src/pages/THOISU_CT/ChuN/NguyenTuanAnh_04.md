@@ -3,7 +3,7 @@ layout: ../../../layouts/Article.astro
 title: "Cứ Thiết Nghĩ Thì Ăn Nhằm Gì?"
 author: "Nguyễn Tuấn Anh"
 date: 2024-06-15
-source: "https://sachhiem.net/THOISU_CT/ChuN/NguyenTuanAnh_04.php"
+source: "/THOISU_CT/ChuN/NguyenTuanAnh_04"
 category: "Chính trị"
 lang: vi
 wordCount: 119

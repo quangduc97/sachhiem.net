@@ -2,14 +2,13 @@
 layout: ../../layouts/Article.astro
 title: "Hồ Chí Minh: Chân Dung Một Con Người"
 author: "Sưu tầm liên mạng"
-source: "https://sachhiem.net/LICHSU/YoutubeCuHo.php"
+source: "/LICHSU/YoutubeCuHo"
 category: "Lịch sử"
 lang: vi
 wordCount: 192
-image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nha.jpg"
 ---
 
-<p align="center"> <a href="/index"><img border="0" src="https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nha.jpg" align="middle" hspace="20"></a> 5 tháng 2, 2009	</p>
+<p align="center">  5 tháng 2, 2009	</p>
 <table border="0" width="80%">
 		<tbody><tr><td width="30%" valign="top">
 		<p><i>LTS: Tài liệu hình sống động sau đây về cụ Hồ Chí Minh tìm được trên mạng youtube. Những khúc phim, những giờ phút lịch sử rất cảm động này, người miền Nam chưa hề tham dự, chưa từng được chứng kiến. Đó cũng là lý do ở hải ngoại, hầu hết vốn bị tuyên truyền bởi chính quyền miền Nam trước kia, đã có những bài viết mạt sát thậm tệ ông Hồ Chí Minh một cách vô căn cứ và mất lương tâm. </i> </p>

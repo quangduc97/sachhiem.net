@@ -3,7 +3,7 @@ layout: ../../../layouts/Article.astro
 title: "Kiểm Chứng Sự Kiện: Các Ứng Cử Viên Cộng Hòa Luồn Lách Sự Thật"
 author: "Mike Wilson"
 date: 2015-08-07
-source: "https://sachhiem.net/THOISU_CT/ChuM/MikeWilson_04.php"
+source: "/THOISU_CT/ChuM/MikeWilson_04"
 category: "Chính trị"
 lang: vi
 wordCount: 1066

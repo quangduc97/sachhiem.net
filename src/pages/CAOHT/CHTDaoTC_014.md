@@ -2,7 +2,7 @@
 layout: ../../layouts/Article.astro
 title: "CHÍNH SÁCH ÁP CHẾ XÂM LĂNG và THÔN TÍNH (tt)"
 author: "Cao Huy Thuần"
-source: "https://sachhiem.net/CAOHT/CHTDaoTC_014.php"
+source: "/CAOHT/CHTDaoTC_014"
 category: "Tác giả"
 lang: vi
 wordCount: 9070

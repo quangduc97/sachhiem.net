@@ -2,7 +2,7 @@
 layout: ../../../layouts/Article.astro
 title: "Câu Hỏi Đầu Năm: Vatican Có Xứng Đáng"
 author: "Bùi Thanh Tòng"
-source: "https://sachhiem.net/null"
+source: "/null"
 category: "Tác giả"
 lang: vi
 wordCount: 1320

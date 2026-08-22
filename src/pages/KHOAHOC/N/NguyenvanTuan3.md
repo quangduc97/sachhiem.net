@@ -1,7 +1,7 @@
 ---
 layout: ../../../layouts/Article.astro
 title: "Quản lí dự án nghiên cứu khoa học (Nguyễn văn Tuấn)"
-source: "https://sachhiem.net/null"
+source: "/null"
 category: "Khoa học"
 lang: vi
 wordCount: 5214

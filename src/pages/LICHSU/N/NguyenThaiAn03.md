@@ -3,7 +3,7 @@ layout: ../../../layouts/Article.astro
 title: "Trái Bồ Hòn Cũng Méo!"
 author: "Nguyễn Thái An"
 date: 2013-10-22
-source: "https://sachhiem.net/LICHSU/N/NguyenThaiAn03.php"
+source: "/LICHSU/N/NguyenThaiAn03"
 category: "Lịch sử"
 lang: vi
 wordCount: 575
@@ -35,5 +35,5 @@ image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/DOITHOAI/IMG/traiboq
 <img src="https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/LICHSU/IMG/VNchuS/NguyenThaiAn_tuongquan.jpg" width="600" height="792"><br clear="ALL">
     </p>
 ___________________
-<p>Các bài của GS sử học Nguyễn Thái An: link <a href="https://sachhiem.net/LICHSU/N/ListNTA.inc.php" target="_blank">https://sachhiem.net/LICHSU/N/ListNTA.inc.php</a></p>
+<p>Các bài của GS sử học Nguyễn Thái An: link <a href="/LICHSU/N/ListNTA.inc" target="_blank">https://sachhiem.net/LICHSU/N/ListNTA.inc.php</a></p>
   <hr>

@@ -1,7 +1,7 @@
 ---
 layout: ../../../layouts/Article.astro
 title: "Cuộc Chiến Sau Lưng Tôi (Đào Viên)"
-source: "https://sachhiem.net/&nbsp;"
+source: "/&nbsp;"
 category: "Chính trị"
 lang: vi
 wordCount: 1581
@@ -33,7 +33,7 @@ image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nhacu.jpg"
 			
 	
 			<table border="0" cellpadding="10" width="90%" cols="2" align="center"><tbody><tr>
-				<td><a href="https://sachhiem.net/">
+				<td><a href="/">
 				<img src="https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nhacu.jpg" border="0"></a></td>
 	<td valign="top">	<span lang="en-us">07 tháng 1 2009</span></td></tr></tbody></table>
 

@@ -3,7 +3,7 @@ layout: ../../layouts/Article.astro
 title: "Đọc Cuốn Tiểu Thuyết “HỘI THỀ”!"
 author: "Nguyễn Văn Thịnh"
 date: 2014-08-02
-source: "https://sachhiem.net/NGVTHINH/NguyenvThinh_02.php"
+source: "/NGVTHINH/NguyenvThinh_02"
 category: "Chính trị"
 lang: vi
 wordCount: 6684

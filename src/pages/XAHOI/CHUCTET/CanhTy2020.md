@@ -3,7 +3,7 @@ layout: ../../../layouts/Article.astro
 title: "Thiệp Chúc của thân hữu"
 author: "Trang nhà"
 date: 2020-01-13
-source: "https://sachhiem.net/XAHOI/CHUCTET/CanhTy2020.php"
+source: "/XAHOI/CHUCTET/CanhTy2020"
 category: "Chính trị"
 lang: vi
 wordCount: 108

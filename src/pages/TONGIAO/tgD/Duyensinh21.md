@@ -3,7 +3,7 @@ layout: ../../../layouts/Article.astro
 title: "Trận Giặc Ca-Thô-Líc Trên Toàn Châu Á"
 author: "Duyên Sinh"
 date: 2018-09-07
-source: "https://sachhiem.net/TONGIAO/tgD/Duyensinh21.php"
+source: "/TONGIAO/tgD/Duyensinh21"
 category: "Tác giả"
 lang: vi
 wordCount: 8247

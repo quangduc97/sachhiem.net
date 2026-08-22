@@ -2,14 +2,14 @@
 layout: ../../../layouts/Article.astro
 title: "LỊCH SỬ HOA KỲ"
 author: "(3 tác giả)"
-source: "https://sachhiem.net/NMQ/LSHK/LSHK03.php"
+source: "/NMQ/LSHK/LSHK03"
 category: "Lịch sử"
 lang: vi
 wordCount: 11521
-image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nha.jpg"
+image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/print.gif"
 ---
 
-<p align="center"><a href="https://sachhiem.net/index.php"><img border="0" hspace="20" src="https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nha.jpg"></a> | <a target="_blank" href="/NMQ/LSHK/LSHK03"><img border="0" src="https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/print.gif" width="18" height="18"></a> bản rời | <a target="_blank" href="/NMQ/LSHK/LSHKmain"> « &nbsp;Xem Mục Lục »</a> |  12 tháng 9, 2009</p>
+<p align="center"> | <a target="_blank" href="/NMQ/LSHK/LSHK03"><img border="0" src="https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/print.gif" width="18" height="18"></a> bản rời | <a target="_blank" href="/NMQ/LSHK/LSHKmain"> « &nbsp;Xem Mục Lục »</a> |  12 tháng 9, 2009</p>
 <p><a href="/NMQ/LSHK/LSHK02">(tiếp theo Chương hai)</a></p>
 
 
@@ -1007,5 +1007,5 @@ quốc gia khác có thể đến định cư lập nghiệp tại Tân Thế Gi
 Tây Ban Nha ngăn chặn. Trong chương tới, chúng ta sẽ tìm hiểu Anh quốc đã thành 
 lập các thuộc địa ở Bắc Mỹ như thế nào.</p>
 
-<p>(còn tiếp :<a href="https://sachhiem.net/NMQ/LSHK/LSHK04.php"> Chương IV</a>)</p>
+<p>(còn tiếp :<a href="/NMQ/LSHK/LSHK04"> Chương IV</a>)</p>
 <p> <font face="Symbol">Ó</font> <font face="Monotype Corsiva">sachhiem.net copyright</font></p>

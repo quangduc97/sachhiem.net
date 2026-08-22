@@ -3,14 +3,13 @@ layout: ../../layouts/Article.astro
 title: "Tự Do Cho Mẹ"
 author: "Lý Thái Xuân"
 date: 2015-12-21
-source: "https://sachhiem.net/LTX/LyThaiXH25.php"
+source: "/LTX/LyThaiXH25"
 category: "Xã hội"
 lang: vi
 wordCount: 1349
-image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nha.jpg"
 ---
 
-<p align="center"><a href="https://www.sachhiem.net/"> <img border="0" src="https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nha.jpg"></a> đăng lại 21-Dec-2015</p>
+<p align="center"> đăng lại 21-Dec-2015</p>
 
 <p><span class="First">C</span>ó phải Mẹ chỉ trở nên đẹp và đáng  yêu khi ta xa mẹ, hoặc mẹ già hay mẹ chết? Chứ không à? Từ xưa nay, những bài  viết về Mẹ thường là do những tác giả đã bị mất mẹ hay xa mẹ sáng tác mà thôi.  </p>
 <p>Đọc thử vài đoạn thơ&nbsp;  đăng đó đây ..</p>

@@ -3,7 +3,7 @@ layout: ../../../layouts/Article.astro
 title: "Đối Thoại Với Người Đạo Thiên Chúa Việt Nam: Đức Tin"
 author: "Duyên Sinh"
 date: 2015-11-07
-source: "https://sachhiem.net/TONGIAO/tgD/Duyensinh15.php"
+source: "/TONGIAO/tgD/Duyensinh15"
 category: "Tác giả"
 lang: vi
 wordCount: 3120

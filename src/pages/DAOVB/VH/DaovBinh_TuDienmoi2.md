@@ -3,7 +3,7 @@ layout: ../../../layouts/Article.astro
 title: "Tự Điển Tiếng Việt Đổi Đời - 2"
 author: "Đào Văn Bình"
 date: 2017-05-06
-source: "https://sachhiem.net/DAOVB/VH/DaovBinh_TuDienmoi2.php"
+source: "/DAOVB/VH/DaovBinh_TuDienmoi2"
 category: "Văn hóa"
 lang: vi
 wordCount: 4009
@@ -13,7 +13,7 @@ image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/DAOVB/VH/phuot.jpg"
 <div class="tomluoc">
   <p><i>Thật đau buồn! Tiếng Việt- một ngôn ngữ được tổ tiên  sáng tạo, dày công vun đắp, tô bồi với một kho tàng học thuật, văn chương lừng  lẫy, nay đang bị tiếng Anh lấn áp, loại bỏ giống như thời thuộc địa vậy.</i> (ĐVB)</p>
 </div>
-<p align="center"><a href="https://sachhiem.net/DAOVB/VH/DaovBinh_TuDienmoi.php">(tiếp kỳ 1)</a></p>
+<p align="center"><a href="/DAOVB/VH/DaovBinh_TuDienmoi">(tiếp kỳ 1)</a></p>
 <p align="center"><img src="https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/DAOVB/VH/phuot.jpg" width="400" height="265" alt=""></p>
 <p><span class="green">D. </span> </p>
 <p><b><i>- Dân du lịch/đi chơi</i> </b>trở thành<b> <i>phượt thủ</i></b> (VnExpress). Tôi không  hiểu họ lấy chữ “<b><i>phượt</i></b>” ở đâu ra. Có thể từ tiếng Miên? (SH - <a href="https://vi.wiktionary.org/wiki/ph%C6%B0%E1%BB%A3t#Ti.E1.BA.BFng_Vi.E1.BB.87t">xem định nghĩa của vi.wiktionary</a>) </p>
@@ -95,4 +95,4 @@ image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/DAOVB/VH/phuot.jpg"
 <p> (Còn tiếp)  </p>
 
 <hr>
- <p><a href="https://sachhiem.net/DAOVB/DVBdir.php">-- Link các bài viết của tác giả Đào Văn Bình --</a> </p>
+ <p><a href="/DAOVB/DVBdir">-- Link các bài viết của tác giả Đào Văn Bình --</a> </p>

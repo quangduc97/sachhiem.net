@@ -2,7 +2,7 @@
 layout: ../../../layouts/Article.astro
 title: "Vì Sao Chúng Ta Đã Đi Việt Nam ?"
 author: "Trần Thanh Lưu dịch cuốn"
-source: "https://sachhiem.net/null"
+source: "/null"
 category: "Sách ngoại văn"
 lang: vi
 wordCount: 4523

@@ -3,7 +3,7 @@ layout: ../../layouts/Article.astro
 title: "Tiếng gọi Miền Trung - Quê hương bão lụt nữa rồi!"
 author: "TNT Mặc Giang"
 date: 2017-11-08
-source: "https://sachhiem.net/VANHOC/MacGiang.php"
+source: "/VANHOC/MacGiang"
 category: "Chính trị"
 lang: vi
 wordCount: 491

@@ -3,7 +3,7 @@ layout: ../../../layouts/Article.astro
 title: "Tri Ân “Thương Phế Binh VNCH”!"
 author: "Nguyễn Trọng Nghĩa"
 date: 2015-02-12
-source: "https://sachhiem.net/TONGIAO/tgN/NgTnghia_DCCT1.php"
+source: "/TONGIAO/tgN/NgTnghia_DCCT1"
 category: "Tác giả"
 lang: vi
 wordCount: 1233
@@ -50,5 +50,5 @@ image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/LICHSU/TONY/Tannhan/
 <p>Trước kẻ bị quỷ ám Chúa Giê – su chỉ nói “Ma quỷ hãy ra khỏi  người này!” và hôm nay, xin Chúa hãy lên tiếng <i>“Ma quỷ, hãy ra khỏi Dòng Chúa Cứu thế!</i>”</p>
 <p class="TacgiaL">  Nguyễn Trọng Nghĩa</p>
 
-<p>(Xem bài trước: <a href="https://sachhiem.net/TONGIAO/tgN/NgTnghia_DCCT.php">DCCT gán ghép "Dân Oan”</a>!)</p>
+<p>(Xem bài trước: <a href="/TONGIAO/tgN/NgTnghia_DCCT">DCCT gán ghép "Dân Oan”</a>!)</p>
 <p>_______________</p>

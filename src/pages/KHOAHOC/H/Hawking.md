@@ -3,7 +3,7 @@ layout: ../../../layouts/Article.astro
 title: "Vũ Trụ Giãn Nở, Thượng Đế Ở Nơi Mô ?"
 author: "Nguyên tác: Stephen Hawking"
 date: 2013-03-03
-source: "https://sachhiem.net/KHOAHOC/H/Hawking.php"
+source: "/KHOAHOC/H/Hawking"
 category: "Khoa học"
 lang: vi
 wordCount: 3960
@@ -40,4 +40,4 @@ Tác phẩm</p>
      <p>Trong mô hình của Friedmann tất cả các thiên hà đều chuyển   động ra xa nhau. Tình huống này khá giống một quả bóng bay, trên mặt có vẽ nhiều   chấm màu, đang được thổi căng lên từ từ. Khi quả bóng căng lên, khoảng cách giữa   các chấm màu tăng lên, nhưng không thể nói chấm màu nào là trung tâm của sự giãn   nở đó. Hơn nữa các chấm càng xa nhau thì chúng chuyển động ra xa nhau càng   nhanh. Tương tự như vậy, trong mô hình của Friedmann vận tốc mà hai thiên hà   chuyển động ra xa nhau tỷ lệ với những khoảng cách giữa chúng. Như vậy, mô hình   này tiên đoán rằng mọi sự dịch về phía đỏ của một thiên hà tỷ lệ thuận với   khoảng cách từ nó đến chúng ta, đúng như Hubble đã phát hiện. </p>
      <p>Mặc dù thành công   của mô hình và tiên đoán của nó về những quan sát của Hubble, nhưng công trình   của Friedmann ít được biết tới, cho tới khi những mô hình tương tự được phát   minh bởi nhà vật lý Mỹ Howard Robertson và nhà toán học Anh Arthur Walker, để   giải thích phát hiện của Hubble về sự giãn nở đều của vũ trụ. </p>
      
-     <p>Nguồn: <a href="https://sachhiem.net/index.php?content=showemail&amp;id=244">https://sachhiem.net/index.php?content=showemail&amp;id=244</a></p>
+     <p>Nguồn: <a href="/net/KHOAHOC/H/Hawking">https://sachhiem.net/index.php?content=showemail&amp;id=244</a></p>

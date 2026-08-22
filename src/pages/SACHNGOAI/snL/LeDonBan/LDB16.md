@@ -3,7 +3,7 @@ layout: ../../../../layouts/Article.astro
 title: "Harari: Coronavirus Có Thay Đổi Thái Độ Của Chúng Ta Với Cái Chết?"
 author: "Harari/Lê Dọn Bàn dịch"
 date: 2020-04-25
-source: "https://sachhiem.net/SACHNGOAI/snL/LeDonBan/LDB16.php"
+source: "/SACHNGOAI/snL/LeDonBan/LDB16"
 category: "Tác giả"
 lang: vi
 wordCount: 3185

@@ -2,16 +2,15 @@
 layout: ../../layouts/Article.astro
 title: "Gặp Chủ Nhiệm Đề Án Mới"
 author: "NGUYỄN HOÀN"
-source: "https://sachhiem.net/NGHOAN/NgHoanXH01.php"
+source: "/NGHOAN/NgHoanXH01"
 category: "Chính trị"
 lang: vi
 wordCount: 2450
-image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nha.jpg"
+image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/NGHOAN/IMG/QuangTri_mukdahan.jpg"
 ---
 
 <table border="0" align="center" cellpadding="1" width="250"><tbody><tr>
-	<td width="100"><a href="https://www.sachhiem.net/">
-	<img border="0" src="https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nha.jpg"></a></td>	
+	<td width="100"></td>	
     <td valign="top">	16 tháng 4,  2010 </td></tr></tbody></table>
 			<p>Đề án Khu Kinh tế Đông Nam Quảng Trị, cảng biển nước sâu Mỹ Thuỷ 
 			do các nhà khoa học đề xuất và lập nên sau một thời gian xem xét, 

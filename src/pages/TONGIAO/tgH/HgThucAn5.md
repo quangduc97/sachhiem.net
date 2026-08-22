@@ -3,7 +3,7 @@ layout: ../../../layouts/Article.astro
 title: "Đều Là Nạn Nhân Của Đức Tin Trong Độc Thần Giáo"
 author: "Hoàng Thục An"
 date: 2015-01-10
-source: "https://sachhiem.net/TONGIAO/tgH/HgThucAn5.php"
+source: "/TONGIAO/tgH/HgThucAn5"
 category: "Tác giả"
 lang: vi
 wordCount: 1317
@@ -26,7 +26,7 @@ wordCount: 1317
      <p>Thử truy xét cội nguồn cuộc chiến tranh xâm lăng nước ta gần 100 năm của thực dân Pháp xem nó xuất phát từ đâu. Phải chăng nó đã khởi đầu từ ĐỨC TIN độc thần giáo? Bạn đừng đổ thừa tại triều đình (nhà nước) ta gây ra như một số sử liệu đã sai lầm.  </p>
      <p>Một quốc gia độc lập, một nền văn hóa nhân bản, một dân tộc hiền hòa chung sống hạnh phúc hài hòa với ít nhứt là 3 tín ngưỡng khác nhau (Nho - Thích - Lão) tam giáo đồng nguyên. Đặt nặng đạo hiếu với đấng sinh thành cùng quốc tổ. Bỗng nhiên người da trắng mắt xanh mũi mỏ vận áo chùng đen tay cầm chữ thập (thập giá) và quyển Thánh kinh đến dụ dỗ. Ban đầu họ nhắm vào giới cùng đinh thất học bằng vật thực. Vì đói nghèo - ngu dốt, vì sự sống còn họ buộc phải nuốt nước mắt chấp nhận bỏ bàn thờ gia tiên để đổi lấy cái ăn. Bỏ đi một truyền thống, một tập quán bất ly thân để đổi lấy miếng ăn là cả 1 sự đau khổ. Để bị mang tội ngỗ nghịch, bội phản giống nòi phải bị luật vua phép nước trừng phạt.  </p>
      <p>Tất nhiên họ phải bị luật vua phép nước xét xử, và những kẻ ngoại nhân (giáo sĩ Catholicisme) gây xáo trộn văn hóa nước nhà phải bị trục xuất. Lỗi đó do ai gây ra ? Giáo sĩ da trắng hay triều đình (quốc gia) VN ?  </p>
-     <p>...Rồi việc gì đã xảy ra tiếp theo sau đó chắc không cần nói ra ở đây vì sách sử đa chiều, đa quốc gia đã nói hết rồi. Nếu bạn chưa biết xin thử đọc Luận án tiến sĩ chính trị học của giáo sư Cao Huy Thuần:  <a href="https://sachhiem.net/CAOHT/DaoTC_000.php"> <b><i>Đạo Thiên Chúa và chủ nghĩa Thực dân tại VN</i></b></a> với 100% tài liệu khảo cứu là của MEP và Bộ thuộc địa Pháp.  </p>
+     <p>...Rồi việc gì đã xảy ra tiếp theo sau đó chắc không cần nói ra ở đây vì sách sử đa chiều, đa quốc gia đã nói hết rồi. Nếu bạn chưa biết xin thử đọc Luận án tiến sĩ chính trị học của giáo sư Cao Huy Thuần:  <a href="/CAOHT/DaoTC_000"> <b><i>Đạo Thiên Chúa và chủ nghĩa Thực dân tại VN</i></b></a> với 100% tài liệu khảo cứu là của MEP và Bộ thuộc địa Pháp.  </p>
      <p>Rõ ràng VN mình đã là nạn nhân của cuộc chiến mà nguyên nhân đầu tiên là do ĐỨC TIN của tín hữu (giáo sĩ ngoại/nội và con chiên) Catholicisme gây ra, nó là một cuộc Thánh chiến từ ngoài mang vào đổ lên đầu cả 1 dân tộc hiền hòa với 1 nền văn hóa nhân bản.</p>
      <p>Trong khuôn khổ 1 cuộc trao đổi ngắn như thế này, tôi chỉ xin nêu 1 ví dụ duy nhứt ấy và xin không nêu thêm những sự kiện thánh chiến khác trên thế giới. Thiết nghĩ cũng đã đủ lắm rồi. </p>
      <p>Nhìn lại sự kiện 3 ngày qua ở Paris. Dù Tổng Thống Pháp, nguyên thủ quốc gia trên thế giới, chức sắc lãnh đạo mọi tôn giáo, và nhứt là Hồi Giáo đã cực lực lên án cuộc tắm máu trong 3 ngày qua. Tất cả đều cho là do "khủng bố" mà không do nơi "<i>niềm tôn giáo</i>". Nếu tôi là tổng thống hay lãnh tụ tôn giáo tôi cũng phải tuyên bố như vậy, cũng có cùng thái độ đó. Nhưng đó là thái độ chính trị cần thiết nhằm tái lập trật tự trị an, duy trì đoàn  kết quốc gia trong 1 xã hội đa văn hóa, tự do, và dân chủ.  </p>
@@ -51,4 +51,4 @@ wordCount: 1317
 <p> Tự do ngôn luận là thế! Ông ta Tuyên bố cho ý kiến của ông ta thôi!</p>
 <p class="TacgiaL"> Diễm Chi</p>
      <p>(xem những lá thư trước:)</p>
-<p><a href="https://sachhiem.net/index.php?content=showemail&amp;id=842">Tín đồ  Ca-tô xoay ngang - đỗ lỗi cho báo chí biếm họa Pháp - Xúc phạm niềm tin tôn  giáo</a>(https://sachhiem.net/index.php?content=showemail&amp;id=842)</p>
+<p><a href="/hop-thu/842">Tín đồ  Ca-tô xoay ngang - đỗ lỗi cho báo chí biếm họa Pháp - Xúc phạm niềm tin tôn  giáo</a>(https://sachhiem.net/index.php?content=showemail&amp;id=842)</p>

@@ -3,7 +3,7 @@ layout: ../../layouts/Article.astro
 title: "\"Tình Cảm Của Tôi Đối Với Chủ Tịch Hồ Chí Minh là Tuyệt Đối!\""
 author: "Lý Thái Xuân/VOV5"
 date: 2026-05-18
-source: "https://sachhiem.net/LTX/LyThaiTS21.php"
+source: "/LTX/LyThaiTS21"
 category: "Chính trị"
 lang: vi
 wordCount: 1261

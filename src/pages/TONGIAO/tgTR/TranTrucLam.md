@@ -2,7 +2,7 @@
 layout: ../../../layouts/Article.astro
 title: "Chuyện Tin Lành ở Á châu:"
 author: "Trần Trúc-Lâm"
-source: "https://sachhiem.net/null"
+source: "/null"
 category: "Tác giả"
 lang: vi
 wordCount: 2809

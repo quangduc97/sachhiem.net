@@ -2,18 +2,17 @@
 layout: ../../../layouts/Article.astro
 title: "Kitô Giáo – Tuyển Tập Kế Hoạch Cải Đạo Á Châu"
 author: "Giao Điểm giới thiệu"
-source: "https://sachhiem.net/TCN/TCNtg/TCN156_kitohoa.php"
+source: "/TCN/TCNtg/TCN156_kitohoa"
 lang: vi
 wordCount: 1609
-image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nha.jpg"
+image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/TONGIAO/IMG/SACH/kitogiao-caidao-achau.jpg"
 ---
 
-<p align="center"> <a href="/index"><img border="0" src="https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nha.jpg" align="middle" hspace="20"></a> </p>
-     <div class="tomluoc">
+<div class="tomluoc">
       <p><i>LTS: Qua các hoạt động dồn dập của Vatican ở Việt Nam mà bề ngoài có vẻ không có hại mà còn "lợi lạc về giáo dục và xã hội", người nhạy cảm sẽ dễ nhận ra đó là công trình xây dựng nền móng hạ tầng cơ sở, làm bàn đạp tạo dễ dàng cho sự xâm lăng văn hóa và chính trị. Chúng tôi xin được hâm nóng lại những bài trong Tuyển  tập “<b>Kitô giáo – Kế hoạch Cải đạo Á châu</b>” gồm nhiều tác giả  do Nhà xuất bản Á Châu phát hành vào năm 2005.  Bản điện tử chia làm 3 bài với "Lời Nói Đầu" dưới đây của báo điện tử giaodiemonline.com:</i></p>
-      <p><i>- <a href="https://sachhiem.net/TCN/TCNtg/TCN156_caidao.php">“Công Giáo, Tin Lành và Sách lược cải đạo Á châu"</a> của Trần Chung Ngọc </i></p>
-      <p><i>- <a href="https://sachhiem.net/TONGIAO/tgTH/ThichNhatTu.php">Phê bình “Thần học Ky-tô giáo theo Cung cách Á châu” của Mục sư Choan Seng Song  của Đại Đức Thích Nhật Từ</a></i>, và</p>
-      <p><i>-  <a href="https://sachhiem.net/TONGIAO/tgN/NgoTrieuLich.php">Nhận Định Về Văn Kiện “Tông Huấn Giáo Hội Tại Châu Á của tác giả Ngô Triệu Lịch.</a></i></p>
+      <p><i>- <a href="/TCN/TCNtg/TCN156_caidao">“Công Giáo, Tin Lành và Sách lược cải đạo Á châu"</a> của Trần Chung Ngọc </i></p>
+      <p><i>- <a href="/TONGIAO/tgTH/ThichNhatTu">Phê bình “Thần học Ky-tô giáo theo Cung cách Á châu” của Mục sư Choan Seng Song  của Đại Đức Thích Nhật Từ</a></i>, và</p>
+      <p><i>-  <a href="/TONGIAO/tgN/NgoTrieuLich">Nhận Định Về Văn Kiện “Tông Huấn Giáo Hội Tại Châu Á của tác giả Ngô Triệu Lịch.</a></i></p>
      </div>
        <p align="center"><img src="https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/TONGIAO/IMG/SACH/kitogiao-caidao-achau.jpg" width="150" height="224" alt="Kitô giáo – Kế hoạch Cải đạo Á châu"></p>
        <p align="center"><b> Lời  Nói Đầu </b></p>
@@ -41,6 +40,6 @@ image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nha.jpg"
 <p>
      <b>Giao Điểm, Hè 2005</b></p>
      <p>Nguồn https://giaodiemonline.com/2009/07/caidao3.htm </p>
-<p>Mời đọc bài của GS Trần Chung Ngọc --&gt;: <a href="https://sachhiem.net/TCN/TCNtg/TCN156_caidao.php"> Công Giáo, Tin Lành Và Sách Lược Cải Đạo Á Châu</a></p>
+<p>Mời đọc bài của GS Trần Chung Ngọc --&gt;: <a href="/TCN/TCNtg/TCN156_caidao"> Công Giáo, Tin Lành Và Sách Lược Cải Đạo Á Châu</a></p>
 <div align="center"><div class="fb-share-button" data-layout="button" data-size="large" data-actiob="like" data-show-faces="true" data-share="true" data-mobile-iframe="true"></div>
 </div>

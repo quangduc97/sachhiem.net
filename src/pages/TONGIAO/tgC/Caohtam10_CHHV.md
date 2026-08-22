@@ -3,7 +3,7 @@ layout: ../../../layouts/Article.astro
 title: "Chào mừng TS Cù Huy Hà Vũ"
 author: "Cao Hữu Tâm"
 date: 2014-04-09
-source: "https://sachhiem.net/TONGIAO/tgC/Caohtam10_CHHV.php"
+source: "/TONGIAO/tgC/Caohtam10_CHHV"
 category: "Tác giả"
 lang: vi
 wordCount: 3395

@@ -2,7 +2,7 @@
 layout: ../../../layouts/Article.astro
 title: "THƯ NGỎ GỬI CÁM ƠN"
 author: "Trần Chung Ngọc"
-source: "https://sachhiem.net/null"
+source: "/null"
 lang: vi
 wordCount: 1740
 image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/TCN/file:///C:/SACHHIEM/images/nhacu.jpg"
@@ -34,7 +34,7 @@ image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/TCN/file:///C:/SACHH
 	<tbody><tr><td bgcolor="White" align="justify" valign="top">
 <blockquote><table border="0" cellpadding="10" width="80%" cols="2"><tbody><tr>
 	<td valign="top">  
-<a href="https://sachhiem.net/">  
+<a href="/">  
 <img border="0" src="https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/TCN/file:///C:/SACHHIEM/images/nhacu.jpg" width="49" height="20"></a></td>
 	<td valign="top" style="text-align:right">	<i><font size="2">03 tháng 2, 2008
 	</font>

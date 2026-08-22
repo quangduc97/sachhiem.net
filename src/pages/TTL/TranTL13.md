@@ -3,7 +3,7 @@ layout: ../../layouts/Article.astro
 title: "Tôi Đọc Tiếp Đặng Thúy BN587:"
 author: "Trần Tiên Long"
 date: 2012-01-01
-source: "https://sachhiem.net/TTL/TranTL13.php"
+source: "/TTL/TranTL13"
 category: "Tác giả"
 lang: vi
 wordCount: 4437
@@ -54,7 +54,7 @@ image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/TONGIAO/IMG/TRUYENDA
       <p align="center"><img src="https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/DOITHOAI/IMG/Doithoai1.jpg" alt=" mạt sát" width="124" height="130"></p>
 
 <p><span class="First">N</span>hững
-  gì tôi đã trình bày trong bài <a href="https://sachhiem.net/TTL/TranTL12.php">Tôi Đọc Thúy Đặng BN
+  gì tôi đã trình bày trong bài <a href="/TTL/TranTL12">Tôi Đọc Thúy Đặng BN
     587: Phản Biện Hay Mạt Sát Biện?</a>, sau khi đọc những bài của ông ĐT phản bác hai tác giả
   Gs. NMQ và Gs. TCN, thì chỉ thuần túy liên hệ đến phần kỹ thuật lý luận của
   tác giả ĐT hơn là tranh cãi về những dữ kiện chi tiết của một bài viết. Bởi
@@ -174,7 +174,7 @@ image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/TONGIAO/IMG/TRUYENDA
       ông ĐT thì tuyệt đối chưa làm.</b>”</i> (Hết
       trích)</p>
 <p>Quí
-    đọc giả có thể đọc lại bài <a href="https://sachhiem.net/NMQ/HOSOTOIAC/CH63_1g.php">Ngô
+    đọc giả có thể đọc lại bài <a href="/NMQ/HOSOTOIAC/CH63_1g">Ngô
     Đình Diệm: Con Người Và Tội Ác, Chương IX.- Một Số Những Việc Làm Tàn Ngược
     Của Ông Diệm của Gs. NMQ</a> mà
     ông Hòa Bình đã đưa vào diễn đàn, để kiểm chứng những chi tiết Gs. NMQ viết
@@ -251,7 +251,7 @@ image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/TONGIAO/IMG/TRUYENDA
       lý luận của những nhà hữu thần đang dùng khi bàn về sự dữ.”</i> (Hết
       trích). </p>
 <p>
-      Nguồn: <a href="https://www.sachhiem.net/TTL/TranTL04.php" target="_blank">https://www.sachhiem.net/TTL/TranTL04.php</a></p>
+      Nguồn: <a href="/TTL/TranTL04" target="_blank">https://www.sachhiem.net/TTL/TranTL04.php</a></p>
 <p>Vậy đây là một thí dụ để làm
     rõ sự khác biệt giữa hai cách lý luận: một dựa trên lý trí và một dựa trên
     đức tin. Một lần nữa, kiểu cách mạt sát biện của ông ĐT đã phát khởi từ một
@@ -389,7 +389,7 @@ image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/TONGIAO/IMG/TRUYENDA
 <span class="TacgiaL">Trần
 Tiên Long</span>
 
-<p> Dẫn: Email của nick DangThuy: <a href="https://sachhiem.net/EMAILS/emailD/DangThuy.php">https://sachhiem.net/EMAILS/emailD/DangThuy.php</a></p>
+<p> Dẫn: Email của nick DangThuy: <a href="/EMAILS/emailD/DangThuy">https://sachhiem.net/EMAILS/emailD/DangThuy.php</a></p>
 
 
 

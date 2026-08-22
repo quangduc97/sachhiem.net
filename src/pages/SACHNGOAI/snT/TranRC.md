@@ -2,7 +2,7 @@
 layout: ../../../layouts/Article.astro
 title: "Vua chiên Catô nên ra trước tòa"
 author: "Richard Dawkins"
-source: "https://sachhiem.net/null"
+source: "/null"
 category: "Tác giả"
 lang: vi
 wordCount: 4288

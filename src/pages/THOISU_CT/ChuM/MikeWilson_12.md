@@ -3,7 +3,7 @@ layout: ../../../layouts/Article.astro
 title: "Nguy Cơ Nào Việt Nam Có - Mỹ Không Có"
 author: "Mike Wilson"
 date: 2016-05-27
-source: "https://sachhiem.net/THOISU_CT/ChuM/MikeWilson_12.php"
+source: "/THOISU_CT/ChuM/MikeWilson_12"
 category: "Chính trị"
 lang: vi
 wordCount: 896
@@ -38,7 +38,7 @@ From: Mike Wilson &lt;wilsonaca@yahoo.com&gt;<br>
    <i>- không phải để chia rẽ tranh quyền hay rước giặc vào nhà để làm tay sai cho giặc như các con chiên VN đã làm thời từ thực dân Pháp    và Diệm-Thiệu đã làm trong thời Mỹ xâm lược VN 1955-1975. </i></p>
  <p>nth-fl</p>
  <p>(Xin xem bài liên quan: "Vấn Nạn Chung Của Các Nước Âu Mỹ Ngày Nay": 
-   <a href="https://sachhiem.net/THOISU_CT/ChuM/MikeWilson_13.php">https://sachhiem.net/THOISU_CT/ChuM/MikeWilson_13.php</a>)</p>
+   <a href="/THOISU_CT/ChuM/MikeWilson_13">https://sachhiem.net/THOISU_CT/ChuM/MikeWilson_13.php</a>)</p>
  
  <p align="center"><img src="https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/THOISU_CT/Hinh/CCCB/VietTan_etc.JPG" width="400" height="295" alt="Việt Tân và Khóa học nhân quyền"></p>
  <p align="center">Ảnh trong bài <a href="https://nhandanvietnam.wordpress.com/tag/viet-tan/"><i> "Thất Bại Thảm Hại Của Việt Tân Và Khóa Học Nhân Quyền Tại Thái Hà" của nhandanvietnam.wordpress.com</i></a></p>

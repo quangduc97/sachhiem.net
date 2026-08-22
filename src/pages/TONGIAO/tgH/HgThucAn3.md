@@ -3,7 +3,7 @@ layout: ../../../layouts/Article.astro
 title: "Tôn Giáo Chỉ Là Phương Tiện"
 author: "Hoàng Thục An"
 date: 2013-02-07
-source: "https://sachhiem.net/TONGIAO/tgH/HgThucAn3.php"
+source: "/TONGIAO/tgH/HgThucAn3"
 category: "Tác giả"
 lang: vi
 wordCount: 5378
@@ -15,7 +15,7 @@ image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/LICHSU/IMG/Bontaysai
     
     
 
-     <p><i>LTS: Bài viết <a href="https://sachhiem.net/TCN/TCNdt/TCNdt066.php">Tại Sao Người Ca-Tô Lại Sợ Giao Điểm ? Vì Họ Sợ Sự Thật</a>(https://sachhiem.net/TCN/TCNdt/TCNdt066.php)  của GS Trần Chung Ngọc được bạn đọc loan tải trên nhiều diễn đàn thư tín, và cũng đã có nhiều ý kiến biểu lộ đồng tình, và một vài phản bác. Trong số thư phản bác, có ý kiến của ông Vũ Linh Châu, người đã từng có những ý kiến giả vờ đạo đức với ý đồ dập tắt những bài vạch trần mặt trái của đạo Chúa trong dòng lịch sử Việt Nam.  Mục "Thư, Ý Kiến Ngắn" của trang nhà có đăng một vài thư tiêu biểu của VLC (2012-07-05 - <a href="/TONGIAO/index.php?content=showemail&amp;id=124">Ông chiên Vũ Linh Châu - các đề nghị - ngưng tranh luận</a> -  ; 2012-05-30 - <a href="/TONGIAO/index.php?content=showemail&amp;id=108">Ông con chiên Vũ linh Châu hỏi Trái Tim HT Thích Qủang Đức?</a> ...). Lần này cũng vậy. Xin xem thư của ông Vũ Linh Châu ở dưới, và sau đây là thư phúc đáp của ông Hoàng Thục An. Kính mời bạn đọc (SH)</i></p>
+     <p><i>LTS: Bài viết <a href="/TCN/TCNdt/TCNdt066">Tại Sao Người Ca-Tô Lại Sợ Giao Điểm ? Vì Họ Sợ Sự Thật</a>(https://sachhiem.net/TCN/TCNdt/TCNdt066.php)  của GS Trần Chung Ngọc được bạn đọc loan tải trên nhiều diễn đàn thư tín, và cũng đã có nhiều ý kiến biểu lộ đồng tình, và một vài phản bác. Trong số thư phản bác, có ý kiến của ông Vũ Linh Châu, người đã từng có những ý kiến giả vờ đạo đức với ý đồ dập tắt những bài vạch trần mặt trái của đạo Chúa trong dòng lịch sử Việt Nam.  Mục "Thư, Ý Kiến Ngắn" của trang nhà có đăng một vài thư tiêu biểu của VLC (2012-07-05 - <a href="/net/LICHSU/TR/TQD15">Ông chiên Vũ Linh Châu - các đề nghị - ngưng tranh luận</a> -  ; 2012-05-30 - <a href="/hop-thu/108">Ông con chiên Vũ linh Châu hỏi Trái Tim HT Thích Qủang Đức?</a> ...). Lần này cũng vậy. Xin xem thư của ông Vũ Linh Châu ở dưới, và sau đây là thư phúc đáp của ông Hoàng Thục An. Kính mời bạn đọc (SH)</i></p>
      <hr>
      <p><i><b>Subject:</b> Trả lời ông Vũ Linh Châu: ...tôn giáo chỉ là phương tiện, gây căm   thù oán ghét giữa đồng bào Việt Nam ruột thịt mới là cứu cánh. <br>
       <b>From: </b>Hoang Thuc An <br>

@@ -3,7 +3,7 @@ layout: ../../layouts/Article.astro
 title: "Thấy người sang bắt quàng làm họ"
 author: "Phạm Uyên Bác"
 date: 2018-03-15
-source: "https://sachhiem.net/DOITHOAI/PhamUyenBac.php"
+source: "/DOITHOAI/PhamUyenBac"
 category: "Chính trị"
 lang: vi
 wordCount: 381

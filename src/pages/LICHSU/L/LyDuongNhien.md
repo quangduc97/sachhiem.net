@@ -2,7 +2,7 @@
 layout: ../../../layouts/Article.astro
 title: "NGUYỄN TRƯỜNG TỘ LÀ DANH NHÂN VIỆT NAM?"
 author: "Lý Đương Nhiên"
-source: "https://sachhiem.net/LICHSU/L/LyDuongNhien.php"
+source: "/LICHSU/L/LyDuongNhien"
 category: "Lịch sử"
 lang: vi
 wordCount: 7300
@@ -91,8 +91,8 @@ image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/print.gif"
           <p class="TacgiaL">Lý Đương Nhiên </p>
           
           <p>Cùng tác giả:</p>
-          <li><a href="https://sachhiem.net/LICHSU/L/LyDuongNhien.php">Nguyễn Trường Tộ Là Danh Nhân Việt Nam ? </a> </li>
-          <li><a href="https://sachhiem.net/LICHSU/L/LyDuongNhien1.php">Chữ "Plusieurs Soldats" Thời A.D. Rhodes</a> </li>
+          <li><a href="/LICHSU/L/LyDuongNhien">Nguyễn Trường Tộ Là Danh Nhân Việt Nam ? </a> </li>
+          <li><a href="/LICHSU/L/LyDuongNhien1">Chữ "Plusieurs Soldats" Thời A.D. Rhodes</a> </li>
           <hr>
           <p>Bài liên quan:</p>
-          <p><a href="https://sachhiem.net/LICHSU/S/SH_NTT.php">Xét Lại Huyền Thoại "Nguyễn Trường Tộ" </a> </p>
+          <p><a href="/LICHSU/S/SH_NTT">Xét Lại Huyền Thoại "Nguyễn Trường Tộ" </a> </p>

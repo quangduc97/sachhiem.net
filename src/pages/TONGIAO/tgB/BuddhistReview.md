@@ -2,7 +2,7 @@
 layout: ../../../layouts/Article.astro
 title: "Giáo Phái Làng Mai \"Pháp Môn Thiền Ôm\""
 author: "Đất Lành The Buddhist Review, số đầu năm 2001, tr 68 – tr 70"
-source: "https://sachhiem.net/Sư cô Chân Không, thầy Pháp Khâm, thầy Pháp Ấn tại Tu viện Lộc Uyển"
+source: "/Sư cô Chân Không, thầy Pháp Khâm, thầy Pháp Ấn tại Tu viện Lộc Uyển"
 category: "Tác giả"
 lang: vi
 wordCount: 2264
@@ -262,7 +262,7 @@ image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/BATNHA/LocUyen_PKham
 	<p><a href="/NDX/NDX016">- Những bạo hành ở Tu viện Bát Nhã - xin giải thích giùm tôi (Nguyễn Đắc Xuân)</a></p>
 	<p><a href="/MINHMAN/Tongiao/MinhManTG45">- Liêm Sĩ và Dũng Khí (Minh Mẫn)</a></p>
 	<p><a href="/TCN/TCNts/TCNts046">- Vài Ý Kiến Xung Quanh Vụ Tu Viện Bát Nhã -1 (Trần Chung Ngọc)</a></p>
-	<p>- <a href="https://sachhiem.net/TONGIAO/BuddhistReview.php">Sinh Hoạt Tâm Linh Tại Tu Viện Lộc Uyển  (Đất Lành)</a></p>
+	<p>- <a href="/TONGIAO/BuddhistReview">Sinh Hoạt Tâm Linh Tại Tu Viện Lộc Uyển  (Đất Lành)</a></p>
 	<p>- <a href="/DOITHOAI/ChungAnh">Ai là người phải xin lỗi trong sự kiện Bát Nhã? (Chung Anh)
 	</a> </p>
 		<p>- <a href="/EMAILS/C/Caphetoi41">Về vụ lộn xộn ở Bát Nhã (CPT)

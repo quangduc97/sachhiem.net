@@ -2,7 +2,7 @@
 layout: ../../../layouts/Article.astro
 title: "Chúa giáng sinh vào ngày 17/6"
 author: "Minh Long"
-source: "https://sachhiem.net/nguồn: https://vnexpress.net/GL/Khoa-hoc/2008/12/3BA09609/"
+source: "/nguồn: https://vnexpress.net/GL/Khoa-hoc/2008/12/3BA09609/"
 category: "Tác giả"
 lang: vi
 wordCount: 573
@@ -33,7 +33,7 @@ image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nhacu.jpg"
 <blockquote>
 	<table border="0" cellpadding="0" width="80%" cols="2">
 		<tbody><tr>
-			<td><a href="https://sachhiem.net/">
+			<td><a href="/">
 			<img border="0" src="https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nhacu.jpg" width="49" height="20"></a></td>
 			<td valign="top" style="text-align:right">14 tháng 12, 2008
 	</td>

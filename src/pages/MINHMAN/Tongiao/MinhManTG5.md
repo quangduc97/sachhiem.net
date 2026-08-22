@@ -2,7 +2,7 @@
 layout: ../../../layouts/Article.astro
 title: "PHẬT GIÁO VIỆT NAM"
 author: "Minh Mẫn"
-source: "https://sachhiem.net/null"
+source: "/null"
 lang: vi
 wordCount: 9778
 image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/MINHMAN/file:///C:/SACHHIEM/images/mail.gif"
@@ -714,7 +714,7 @@ nhau, hợp tác nhau, để xây dựng lại một PGVN mà suốt nhiều th�
 	<tbody><tr>
 		<td width="100%" bgcolor="White" align="left" valign="top" height="16">	
 
-			<a href="https://sachhiem.net/MINHMAN/MMdir.php"><p class="trang">Trang Minh Mẫn</p></a>
+			<a href="/MINHMAN/MMdir"><p class="trang">Trang Minh Mẫn</p></a>
 
 </td>
 	</tr>
@@ -745,7 +745,7 @@ nhau, hợp tác nhau, để xây dựng lại một PGVN mà suốt nhiều th�
 	<tbody><tr>
 		<td width="100%" bgcolor="White" align="left" valign="top" height="16">	
 
-			<a href="https://sachhiem.net/MINHMAN/MMdir.php"><p class="trang">Trang Minh Mẫn</p></a>
+			<a href="/MINHMAN/MMdir"><p class="trang">Trang Minh Mẫn</p></a>
 
 </td>
 	</tr>

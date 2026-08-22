@@ -3,7 +3,7 @@ layout: ../../../layouts/Article.astro
 title: "Hồng Y Của Vatican Ca Tụng Trí Tuệ Phật Giáo"
 author: "Daily Star"
 date: 2012-04-16
-source: "https://sachhiem.net/TONGIAO/tgD/Dailystar.php"
+source: "/TONGIAO/tgD/Dailystar"
 category: "Tác giả"
 lang: vi
 wordCount: 448

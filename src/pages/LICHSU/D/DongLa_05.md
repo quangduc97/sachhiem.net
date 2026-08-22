@@ -3,7 +3,7 @@ layout: ../../../layouts/Article.astro
 title: "ĐIỆN BIÊN PHỦ - “NÊN THIÊN SỬ VÀNG”"
 author: "Đông La"
 date: 2025-01-03
-source: "https://sachhiem.net/LICHSU/D/DongLa_05.php"
+source: "/LICHSU/D/DongLa_05"
 category: "Chính trị"
 lang: vi
 wordCount: 6134

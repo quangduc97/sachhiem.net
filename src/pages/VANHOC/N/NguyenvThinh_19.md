@@ -3,7 +3,7 @@ layout: ../../../layouts/Article.astro
 title: "ĐỪNG CHƠI VỚI LỬA!"
 author: "Nguyễn Văn Thịnh"
 date: 2017-10-22
-source: "https://sachhiem.net/VANHOC/N/NguyenvThinh_19.php"
+source: "/VANHOC/N/NguyenvThinh_19"
 category: "Lịch sử"
 lang: vi
 wordCount: 4286
@@ -51,4 +51,4 @@ image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/LICHSU/IMG/DIENBIEN/
 <p>____________</p>
 <p><b>Bài đọc thêm:</b></p>
 <p>- <i>Sự thật về ngọn đuốc Lê Văn Tám</i> (Lý Châu Hoàn) - <a href="https://tuanbaovannghetphcm.vn/su-that-ve-duoc-song-le-van-tam/">Tuần Báo Văn Nghệ TP.HCM số 383</a></p>
-<p>- <a href="https://www.sachhiem.net/VANHOC/TVHAC/Vanhac24.php">Lê Văn Tám: Lửa Bất Diệt </a>(Trần Vân Hạc)</p>
+<p>- <a href="/VANHOC/TVHAC/Vanhac24">Lê Văn Tám: Lửa Bất Diệt </a>(Trần Vân Hạc)</p>

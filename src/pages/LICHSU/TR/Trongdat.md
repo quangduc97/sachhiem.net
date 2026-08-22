@@ -3,7 +3,7 @@ layout: ../../../layouts/Article.astro
 title: "Đại Tướng Dương Văn Minh, Công Và Tội"
 author: "Trọng Đạt / Đàn Chim Việt"
 date: 2012-04-28
-source: "https://sachhiem.net/LICHSU/TR/Trongdat.php"
+source: "/LICHSU/TR/Trongdat"
 category: "Lịch sử"
 lang: vi
 wordCount: 4693

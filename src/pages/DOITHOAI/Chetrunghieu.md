@@ -1,7 +1,7 @@
 ---
 layout: ../../layouts/Article.astro
 title: "HAI BÀI THƠ HẬN"
-source: "https://sachhiem.net/null"
+source: "/null"
 category: "Đối thoại"
 lang: vi
 wordCount: 1163

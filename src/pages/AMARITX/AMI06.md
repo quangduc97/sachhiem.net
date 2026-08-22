@@ -3,7 +3,7 @@ layout: ../../layouts/Article.astro
 title: "Hiến Pháp “Của Chúng Ta”"
 author: "AMARI TX"
 date: 2013-02-20
-source: "https://sachhiem.net/AMARITX/AMI06.php"
+source: "/AMARITX/AMI06"
 category: "Chính trị"
 lang: vi
 wordCount: 1571

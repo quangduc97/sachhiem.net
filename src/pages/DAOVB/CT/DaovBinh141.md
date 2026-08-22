@@ -3,7 +3,7 @@ layout: ../../../layouts/Article.astro
 title: "Nguy Cơ Khác Biệt Tôn Giáo"
 author: "Đào Văn Bình"
 date: 2021-07-08
-source: "https://sachhiem.net/DAOVB/CT/DaovBinh141.php"
+source: "/DAOVB/CT/DaovBinh141"
 category: "Chính trị"
 lang: vi
 wordCount: 1884

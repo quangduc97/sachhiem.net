@@ -6,7 +6,7 @@ source: "https://cgi.ebay.com/The-War-Behind-Me-by-Deborah-Nelson-(2008)-S&H-$2.
 category: "Chính trị"
 lang: vi
 wordCount: 3909
-image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nha.jpg"
+image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/SACHNGOAI/Hinhanh/BIASACH/TheWarBehind.jpg"
 ---
 
 <div align="center" style="position: relative; left: 0; top: 0"> 
@@ -32,7 +32,7 @@ image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nha.jpg"
       <td bgcolor="White" valign="top"><div style="padding-left: 30px; padding-right: 30px">
         <table border="0" cellpadding="10" width="90%" cols="2" align="center">
          <tbody><tr>
-          <td><a href="/index"> <img src="https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nha.jpg" border="0"></a></td>
+          <td></td>
           <td valign="top" width="236"> 31 tháng 12, 2008 </td>
          </tr>
         </tbody></table>

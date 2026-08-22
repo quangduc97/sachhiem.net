@@ -3,7 +3,7 @@ layout: ../../layouts/Article.astro
 title: "Giám Mục Bá Đa Lộc Giúp Nguyễn Ánh Thế Nào Khi Hiệp Ước Verseilles Chưa Thi Hành?"
 author: "Lý Thái Xuân"
 date: 2022-04-25
-source: "https://sachhiem.net/LTX/LyThaiLS13.php"
+source: "/LTX/LyThaiLS13"
 category: "Lịch sử"
 lang: vi
 wordCount: 535

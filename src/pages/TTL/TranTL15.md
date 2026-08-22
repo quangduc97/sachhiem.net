@@ -3,7 +3,7 @@ layout: ../../layouts/Article.astro
 title: "Tại Sao Tôi Là Người Không Tin?"
 author: "Robert Green Ingersoll / Trần Tiên Long dịch"
 date: 2012-02-04
-source: "https://sachhiem.net/TTL/TranTL15.php"
+source: "/TTL/TranTL15"
 category: "Tác giả"
 lang: vi
 wordCount: 5647
@@ -784,7 +784,7 @@ image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/SACHNGOAI/Hinhanh/PE
                                           December, 1889. <a href="https://www.holysmoke.org/an/rgi.htm">https://www.holysmoke.org/an/rgi.htm</a> -
                                           AGNOSTIC.ZIP (Phần I)] </p>
                                           
-    <p><a href="https://sachhiem.net/TTL/TranTL15a.php">(Xem tiếp Phần II ---&gt;)</a></p>
+    <p><a href="/TTL/TranTL15a">(Xem tiếp Phần II ---&gt;)</a></p>
 
 
 <hr>

@@ -3,7 +3,7 @@ layout: ../../../layouts/Article.astro
 title: "Hòa Thượng Thích Quảng Đức,"
 author: "TS Trần Hồng Liên"
 date: 2017-06-11
-source: "https://sachhiem.net/TONGIAO/tgTR/TranHongLien.php"
+source: "/TONGIAO/tgTR/TranHongLien"
 category: "Tác giả"
 lang: vi
 wordCount: 2087

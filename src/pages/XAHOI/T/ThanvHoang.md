@@ -6,7 +6,7 @@ source: "https://tuanvietnam.net/vn/nhanvattrongngay/5337/index.aspx"
 category: "Chính trị"
 lang: vi
 wordCount: 3046
-image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nha.jpg"
+image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/IMG/ThaygiaotreDangVSoa.jpg"
 ---
 
 <p class="Tuaduoi">Giáo sư trẻ nhất VN  </p>
@@ -14,7 +14,7 @@ image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nha.jpg"
 	
 		
 		
-  <p align="center"> <a href="https://sachhiem.net/index.php"><img border="0" src="https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nha.jpg" hspace="20"></a>
+  <p align="center"> 
 		26 tháng 11, 2008</p>
 					
 										<p><strong>Hơn 

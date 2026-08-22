@@ -2,7 +2,7 @@
 layout: ../../../layouts/Article.astro
 title: "Nhật Ký Biển Đông: Cuối Cùng Ô. Trump Vẫn Cần Đông Nam Á"
 author: "Đào Văn Bình"
-source: "https://sachhiem.net/DAOVB/CT/DaovBinh86.php"
+source: "/DAOVB/CT/DaovBinh86"
 category: "Chính trị"
 lang: vi
 wordCount: 7550

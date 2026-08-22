@@ -2,7 +2,7 @@
 layout: ../../layouts/Article.astro
 title: "Gallileo"
 author: "Lý Thái Xuân sưu tầm"
-source: "https://sachhiem.net/LTX/LyThaiKH03.php"
+source: "/LTX/LyThaiKH03"
 category: "Khoa học"
 lang: en
 wordCount: 334

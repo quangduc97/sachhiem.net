@@ -3,7 +3,7 @@ layout: ../../../layouts/Article.astro
 title: "Giáo Phận Buffalo, NY,Tuyên bố Phá Sản vì Bị hơn 900 đơn tố cáo “Lạm Dụng Tình Dục Trẻ Em\", Nhiều Hơn Bất Kỳ Giáo Phận Nào"
 author: "FB Đại Thắng (chuyển Việt)"
 date: 2022-12-22
-source: "https://sachhiem.net/TONGIAO/FB/FBDaiThang02.php"
+source: "/TONGIAO/FB/FBDaiThang02"
 category: "Chính trị"
 lang: vi
 wordCount: 1303
@@ -38,4 +38,4 @@ image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/TONGIAO/IMG/TINHDUC/
 <p class="TacgiaL">Đại Thắng (chuyển ngữ)
 </p>
  <p class="nguonL">Nguồn <a href="https://buffalonews.com/news/local/buffalo-diocese-hit-with-900-abuse-claims-in-bankruptcy-court-more-than-any-diocese/article_e31cc530-feaa-11eb-9703-ebc280569a5c.html?fbclid=IwAR1WVWOLorFNpkqR00CkHR5x23Uq7kfJz1Bst3ri0X2XxznfgblKngUhk3A">The Buffalo News</a></p>
-  <p><a href="https://sachhiem.net/TONGIAO/ListTinhDuc.inc.php"> Những bài về các tu sĩ TCG lạm dụng tình dục </a> </p>
+  <p><a href="/TONGIAO/ListTinhDuc.inc"> Những bài về các tu sĩ TCG lạm dụng tình dục </a> </p>

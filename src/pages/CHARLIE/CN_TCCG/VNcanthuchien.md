@@ -2,14 +2,13 @@
 layout: ../../../layouts/Article.astro
 title: "Thực Chất Đạo Công Giáo và Các Đạo Thờ Chúa"
 author: "Charlie Nguyễn"
-source: "https://sachhiem.net/CHARLIE/CN_TCCG/VNcanthuchien.php"
+source: "/CHARLIE/CN_TCCG/VNcanthuchien"
 category: "Tác giả"
 lang: vi
 wordCount: 7329
-image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nha.jpg"
 ---
 
-<p align="center"><a href="/index"><img hspace="20" border="0" src="https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nha.jpg"></a><b><font face="Symbol" size="5"><a target="_top" href="/CHARLIE/CN_TCCG/CN_TCCGdir">¿</a></font></b> trở ra mục lục | 2-8-2013 </p>
+<p align="center"><b><font face="Symbol" size="5"><a target="_top" href="/CHARLIE/CN_TCCG/CN_TCCGdir">¿</a></font></b> trở ra mục lục | 2-8-2013 </p>
 <p class="TuaDoLeft">Việt Nam Cần Thưc Hiện Những Biện Pháp Mạnh Để 
 			Đối Phó Với Quốc Nạn Công Giáo – Tin Lành. </p>
 <p> (Để riêng tặng hai người đã gợi ý  cho tôi viết bài này: TG., Úc châu và HNL., Thụy sĩ)  </p>

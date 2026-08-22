@@ -3,7 +3,7 @@ layout: ../../../layouts/Article.astro
 title: "Nhật Ký Biển Đông: Thế Giới Mệt Nhoài, Lo Lắng"
 author: "Đào Văn Bình"
 date: 2017-02-17
-source: "https://sachhiem.net/DAOVB/CT/DaovBinh82.php"
+source: "/DAOVB/CT/DaovBinh82"
 category: "Chính trị"
 lang: vi
 wordCount: 5223

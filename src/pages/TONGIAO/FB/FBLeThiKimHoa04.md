@@ -3,7 +3,7 @@ layout: ../../../layouts/Article.astro
 title: "Công Giáo Cấm Trẻ Em Của Họ Theo Học Các Trường Ngoài Công Giáo"
 author: "Cựu LM Emmett McLoughlin/ Lê Thị Kim Hoa st"
 date: 2022-12-16
-source: "https://sachhiem.net/TONGIAO/FB/FBLeThiKimHoa04.php"
+source: "/TONGIAO/FB/FBLeThiKimHoa04"
 category: "Tác giả"
 lang: vi
 wordCount: 3469

@@ -3,7 +3,7 @@ layout: ../../../layouts/Article.astro
 title: "Khủng Bố ISIS"
 author: "Duyên Sinh"
 date: 2015-04-08
-source: "https://sachhiem.net/TONGIAO/tgD/Duyensinh12.php"
+source: "/TONGIAO/tgD/Duyensinh12"
 category: "Tác giả"
 lang: vi
 wordCount: 23084
@@ -594,7 +594,7 @@ Viết những dòng này, tôi xin nhắc nhở là đừng đợi cho tới kh
 <p>
   [27] <a href="https://vi.wikipedia.org/wiki/FULRO">FULRO: https://vi.wikipedia.org/wiki/FULRO</a> </p>
 <p>
-  [28] <a href="https://sachhiem.net/TCN/TCNdt/TCNdt006.php">Ôn lại vài nét về Thầy Nhất Hạnh : https://sachhiem.net/TCN/TCNdt/TCNdt006.php</a> </p>
+  [28] <a href="/TCN/TCNdt/TCNdt006">Ôn lại vài nét về Thầy Nhất Hạnh : https://sachhiem.net/TCN/TCNdt/TCNdt006.php</a> </p>
 <p>
   [29] Vietnam: Lotus in a Sea of Fire, Thich Nhat Hanh,  ISBN 0-8090-1334-7, trang X.</p>
 <p>

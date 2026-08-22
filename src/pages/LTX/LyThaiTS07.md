@@ -3,7 +3,7 @@ layout: ../../layouts/Article.astro
 title: "Cảm Xúc Dâng Tràn Hội Trường Dân Chủ"
 author: "Lý Thái ghi"
 date: 2012-09-07
-source: "https://sachhiem.net/LTX/LyThaiTS07.php"
+source: "/LTX/LyThaiTS07"
 category: "Chính trị"
 lang: vi
 wordCount: 357

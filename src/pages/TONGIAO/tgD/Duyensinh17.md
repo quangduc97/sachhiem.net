@@ -2,17 +2,17 @@
 layout: ../../../layouts/Article.astro
 title: "Đối Thoại Với Người Đạo Thiên Chúa Việt Nam"
 author: "Duyên Sinh"
-source: "https://sachhiem.net/TONGIAO/tgD/Duyensinh17.php"
+source: "/TONGIAO/tgD/Duyensinh17"
 category: "Tác giả"
 lang: vi
 wordCount: 2234
-image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nha.jpg"
+image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/SCENERY/TrauBo.jpg"
 ---
 
 <p class="Tuaduoi">Chỉ Thấy Một Lỗi Typo -  Bao Nhiêu Trâu Bò Không Kể!</p>
 
  
-<p align="center"><a href="/TONGIAO/index"><img hspace="20" border="0" src="https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nha.jpg"></a> </p>
+
 <div class="tomluoc">
  <p><i>"Sao ngươi chỉ nhìn thấy cái rác trong mắt anh em ngươi, mà chẳng thấy cây đà trong mắt mình?" Kinh Matthew 07:3 [“And why beholdest thou the mote that is in thy brother's eye, but considerest not the beam that is in thine own eye?”] <a href="https://www.kingjamesbibleonline.org/Matthew-07-3/">(nguồn: KingJamesBibleonline.org)</a>  </i> (SH)</p>
 </div>
@@ -151,7 +151,7 @@ image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nha.jpg"
 <p>   Không phân biệt được ĐÚNG - SAI  thì làm sao thuyết phục được người khác,  thưa ông??? </p>
  <p>Nếu ông thấy văn ngôn ý  tưởng của Trần Tiến Long nào đó phù hợp với mình, thì hai người hãy trao đổi  hay tranh luận với nhau, kêu gọi <b><i>"quý vị Công giáo" </i></b>làm gì?</p>
 <p>  .............................. </p>
-<p><a href="https://sachhiem.net/TONGIAO/tgD/Duyensinh16.php">(Xin đọc bài liên hệ) ---&gt; </a></p>
+<p><a href="/TONGIAO/tgD/Duyensinh16">(Xin đọc bài liên hệ) ---&gt; </a></p>
 <p>Nguồn: emails</p>
           <hr>
  <p align="center"> <b class="MUC">Mục Lục   Duyên Sinh</b></p>

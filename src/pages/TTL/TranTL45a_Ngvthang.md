@@ -3,7 +3,7 @@ layout: ../../layouts/Article.astro
 title: "Tôi Đọc Thiện Ý Nguyễn Văn Thắng:"
 author: "Trần Tiên Long"
 date: 2013-11-24
-source: "https://sachhiem.net/TTL/TranTL45a_Ngvthang.php"
+source: "/TTL/TranTL45a_Ngvthang"
 category: "Lịch sử"
 lang: vi
 wordCount: 5654
@@ -52,21 +52,21 @@ Sau đây, người viết sẽ  trình bày những quan điểm sai lầm củ
     Thưa ông Lữ Giang, tôi  biết ông đã từng chụp mũ, xuyên tạc và vu khống nhiều người, kể cả tôi, bằng  những luận chứng vu vơ, chẳng có gì là thuyết phục. Việc in ấn một số sách vở  hoặc kinh sách thuần túy tôn giáo ở Việt Nam để tiết kiệm chi phí là một việc đơn  giản, bình thường, chẳng phải là nghiêm trọng. Như vậy, cái <i>“giấy giới  thiệu Giao Điểm của công an”</i> mà ông đã trưng ra không chứng minh được  điều gì để hỗ trợ cho lời cáo buộc của ông, huống hồ trang nhà Sachhiem chẳng  có dính dáng gì tới cái giấy đó. Thực khó mà tin đấy là lối chứng minh để buộc  tội của một ông cựu Thẩm Phán Việt Nam! </p>
   <p>
     Cũng cần ghi nhận thêm rằng vấn đề thường xuyên chụp mũ, vu cáo  tổ chức Giao Điểm là của cộng sản, đã bị tòa Superior Court of California, 415  West Ocean Blvd, Long Beach, Ca 90802, Case No. # 009482, phạt ông Nguyễn văn  Thạch (Thomas Nguyen) số tiền $75,228 đô. Tiền lời mỗi năm theo luật định là  10%. Từ April 5, 1993 đến nay đã 20 năm. Công ty chuyên đòi tiền nợ đang tìm  kiếm đương sự. </p>
-  <p class="nguonL">(Nguồn: <a href="https://sachhiem.net/index.php?content=showemail&amp;id=104">https://sachhiem.net/index.php?content=showemail&amp;id=104</a>)</p>
+  <p class="nguonL">(Nguồn: <a href="/net/TCN/TCNts/TCNts056">https://sachhiem.net/index.php?content=showemail&amp;id=104</a>)</p>
   <p>Xin chuyển lại dưới  đây cái <i>“giấy giới thiệu Giao Điểm của công an”</i> (*) mà ông Lữ  Giang đã trưng ra như là một bằng chứng để quí đọc giả tường. </p>
   <p align="center"><img src="https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/DOITHOAI/IMG/GiaoDiemCongAn.jpg" width="100%"></p>
   <p> Trân trọng,</p>
   <p class="TacgiaL">Trần Tiên Long</p>
   <p class="indent50">______________</p>
   <p class="indent50">(*) Bài liên hệ:</p>
-  <p class="indent50">- <a href="https://sachhiem.net/XAHOI/xhB/BuiHQ.php">Phỏng Vấn Ông Bùi Hồng Quang Về Một Văn Thư của Cục An Ninh Cục An Ninh Bộ Công An</a> (PV sachhiem)</p>
+  <p class="indent50">- <a href="/XAHOI/xhB/BuiHQ">Phỏng Vấn Ông Bùi Hồng Quang Về Một Văn Thư của Cục An Ninh Cục An Ninh Bộ Công An</a> (PV sachhiem)</p>
   <p> _______________</p>
 </div>
 <p>Đó là chưa kể về hình  thức cái <i>“giấy giới thiệu Giao Điểm của công an”</i> trên. Xem một  bản sao với nhiều sửa đổi như vậy, chẳng có tòa án nào có thể chấp nhận đó là  một bằng chứng có giá trị để buộc tội. Ngay cái tên Bùi Hồng Quang cũng đã bị  sửa đổi với tên họ “Bùi” bằng chữ viết tay, còn tên “Hồng Quang” lại bằng chữ  đánh máy. Chữ “MẬT” để trong khung cũng là chữ viết tay thêm vào sau. Chỉ cần  một cái máy <i>copier</i> thì ai ai cũng có thể tự do thêm bớt  được. </p>
 <p>
 Như vậy, câu hỏi được  đặt ra là nhóm Giao Điểm chỉ lẻ tẻ có đôi ba tác giả già yếu bệnh tật gần chết  thì tại sao người Ca-tô phải sợ hãi đến nỗi đặt thành một vấn đề lớn? Đó cũng  là thái độ lo sợ chung của một số đông người Ca-tô mà chúng ta thường bắt gặp  trong các diễn đàn, điển hình là lời hô hào thành lập Ủy Ban Khởi Kiện Giao  Điểm của bà Bác sĩ Tiến sĩ Nguyễn Thị Thanh và Giáo sư Thiện Ý Nguyễn Văn Thắng  từ nhiều năm qua. </p>
 <p>
-(Nguồn: <a href="https://sachhiem.net/EMAILS/emailN/NguyethiThanh1.php" target="_blank">https://sachhiem.net/EMAILS/emailN/NguyethiThanh1.php</a> ) </p>
+(Nguồn: <a href="/EMAILS/emailN/NguyethiThanh1" target="_blank">https://sachhiem.net/EMAILS/emailN/NguyethiThanh1.php</a> ) </p>
 <p>
 Có lẽ câu trả lời  thuyết phục nhất là tại vì nhóm Giao Điểm chỉ có mục đích phục vụ chân lý;  trong khi các tác giả khác chỉ biết lo bảo vệ tôn giáo của họ, bất chấp cả sự  thật. Nhưng khổ nỗi cho họ là không có tôn giáo nào có thể cao trọng hơn sự  thật, kể cả Thiên Chúa giáo</p>
 <p> <a name="n2" class="TuaDoLeft" href="/TTL/#tit2">  ▪  2. Liên kết vô thần với cộng sản</a></p>

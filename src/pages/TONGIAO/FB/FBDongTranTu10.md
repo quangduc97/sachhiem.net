@@ -3,7 +3,7 @@ layout: ../../../layouts/Article.astro
 title: "Cuồng Tín Phát Sinh Lúc Nào?"
 author: "Đồng Trần Tử"
 date: 2025-03-10
-source: "https://sachhiem.net/TONGIAO/FB/FBDongTranTu10.php"
+source: "/TONGIAO/FB/FBDongTranTu10"
 category: "Tác giả"
 lang: vi
 wordCount: 909

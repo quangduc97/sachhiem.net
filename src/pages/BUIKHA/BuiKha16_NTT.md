@@ -3,7 +3,7 @@ layout: ../../layouts/Article.astro
 title: "Nguyễn Trường Tộ:"
 author: "Bùi Kha"
 date: 2011-12-12
-source: "https://sachhiem.net/BUIKHA/BuiKha16_NTT.php"
+source: "/BUIKHA/BuiKha16_NTT"
 category: "Lịch sử"
 lang: vi
 wordCount: 8660

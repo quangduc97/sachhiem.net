@@ -3,7 +3,7 @@ layout: ../../../layouts/Article.astro
 title: "Đợi Đến Lúc Chót Mới Có Thái Độ"
 author: "Cao Hữu Tâm"
 date: 2015-01-30
-source: "https://sachhiem.net/TONGIAO/tgC/Caohtam26.php"
+source: "/TONGIAO/tgC/Caohtam26"
 category: "Tác giả"
 lang: vi
 wordCount: 1963

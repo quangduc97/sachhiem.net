@@ -2,7 +2,7 @@
 layout: ../../../layouts/Article.astro
 title: "Tra Tấn Trẻ Em"
 author: "By William Rivers Pitt"
-source: "https://sachhiem.net/(chủ bút mạng Truthout.org)"
+source: "/(chủ bút mạng Truthout.org)"
 lang: vi
 wordCount: 2279
 image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/SACHNGOAI/file:///C:/SACHHIEM/images/mail.gif"

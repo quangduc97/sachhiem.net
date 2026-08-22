@@ -3,7 +3,7 @@ layout: ../../../layouts/Article.astro
 title: "Giáo Hoàng Francis: Loài Vật Được Lên Thiên Đường !"
 author: "John Thomas Didymus - Digital Journal/ Nguyễn Ri dịch"
 date: 2014-12-14
-source: "https://sachhiem.net/TONGIAO/tgN/NguyenRi_07.php"
+source: "/TONGIAO/tgN/NguyenRi_07"
 category: "Tác giả"
 lang: vi
 wordCount: 1275
@@ -45,4 +45,4 @@ image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/TONGIAO/IMG/VATICAN/
 https://www.businessinsider.com/pope-francis-animals-go-to-heaven-2014-12
  </a>&nbsp;</p>
 __________________
- <p>Các bài của Nguyễn Ri: link <a href="https://sachhiem.net/TONGIAO/tgN/ListRiNguyen.inc.php" target="_blank">https://sachhiem.net/TONGIAO/tgN/ListRiNguyen.inc.php</a></p>
+ <p>Các bài của Nguyễn Ri: link <a href="/TONGIAO/tgN/ListRiNguyen.inc" target="_blank">https://sachhiem.net/TONGIAO/tgN/ListRiNguyen.inc.php</a></p>

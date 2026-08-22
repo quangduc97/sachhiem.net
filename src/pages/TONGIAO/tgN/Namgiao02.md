@@ -2,15 +2,14 @@
 layout: ../../../layouts/Article.astro
 title: "15 Căn Bệnh Của Giáo Triều Roma Cần Chữa Trị"
 author: "Nam Giao tổng hợp"
-source: "https://sachhiem.net/TONGIAO/tgN/Namgiao02.php"
+source: "/TONGIAO/tgN/Namgiao02"
 category: "Tác giả"
 lang: vi
 wordCount: 4632
-image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nha.jpg"
+image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/TONGIAO/IMG/VATICAN/POPE/Francis2014.jpg"
 ---
 
-<p align="center"><a href="https://www.sachhiem.net/">
-<img border="0" src="https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nha.jpg"></a>04 Jul 2015 </p>  
+<p align="center">04 Jul 2015 </p>  
 <p> <i>LTS: Bài này có hai phần: Phần "Giới thiệu" được trích từ 
     <a href="https://www.danchimviet.info/archives/92508/giao-hoang-dua-giao-trieu-the-tham-nhan-mua-giang-sinh/2014/12">https://www.danchimviet.info/,  "Tổng hợp theo Yahoonews"</a>. Tiếp theo, phần thân bài ("15 Căn bệnh của giáo  triều Roma cần chữa trị") của G. Trần Đức Anh, OP/Radio Vatican, do Antoni Phạm đăng ở  
     <a href="https://conglyvahoabinh.org/15-can-benh-cua-giao-trieu-roma-can-chua-tri/2014/12/">https://conglyvahoabinh.org/ </a>, và Radio Vatican: <a href="https://vi.radiovaticana.va/storico/2014/12/23/15_c%C4%83n_b%E1%BB%87nh_c%E1%BB%A7a_gi%C3%A1o_tri%E1%BB%81u_roma_c%E1%BA%A7n_ch%E1%BB%AFa_tr%E1%BB%8B/vie-841446">https://vi.radiovaticana.va/ </a> (SH)</i></p>

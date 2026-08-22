@@ -1,7 +1,7 @@
 ---
 layout: ../../layouts/Article.astro
 title: "Video Lễ Quốc Táng của cụ Hồ (SH sưu tầm)"
-source: "https://sachhiem.net/null"
+source: "/null"
 lang: vi
 wordCount: 22
 ---

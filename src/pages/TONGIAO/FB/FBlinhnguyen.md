@@ -3,7 +3,7 @@ layout: ../../../layouts/Article.astro
 title: "Một Câu Chuyện Lịch Sử Của Giáo Phận Bùi Chu"
 author: "FB Linh Nguyễn"
 date: 2019-05-22
-source: "https://sachhiem.net/TONGIAO/FB/FBlinhnguyen.php"
+source: "/TONGIAO/FB/FBlinhnguyen"
 category: "Chính trị"
 lang: vi
 wordCount: 2508
@@ -35,10 +35,10 @@ image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/TONGIAO/IMG/CGchongC
  
  <hr>
  <p class="CHUONG"><b>Đọc thêm:</b></p>
- <p><a href="https://sachhiem.net/SACHNGOAI/snT/TThL5.php"><b>I- Phát Diệm: Chủ Nghĩa Dân Tộc, Tôn Giáo, Và Nét Nhận Dạng Trong Chiến Tranh Pháp-Việt Minh</b></a>, Ronald H. Spector, <i>Người Dịch: Trần Thanh Lưu. </i></p>
+ <p><a href="/SACHNGOAI/snT/TThL5"><b>I- Phát Diệm: Chủ Nghĩa Dân Tộc, Tôn Giáo, Và Nét Nhận Dạng Trong Chiến Tranh Pháp-Việt Minh</b></a>, Ronald H. Spector, <i>Người Dịch: Trần Thanh Lưu. </i></p>
  <p align="center"><img src="https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/TONGIAO/IMG/CHURCH/PhatDiem.gif" width="400" height="283" alt="">`f</p>
  <p>Trích đoạn: </p>
- <p><b>"</b>Trong nhiều cách thì Phát Diệm là một mô hình thu nhỏ của  các giòng chồng chéo của chủ nghĩa khu vực, chủ nghĩa quốc gia, và tôn giáo.  Vào năm 1945 đó là một khu vực rặc Ca-tô giáo trong một nước Việt Nam đa số phi  Ki-tô. Giám mục của nó, Cha chánh nhất Thaddeus Lê Hữu Từ, hành xử không chỉ là  lãnh đạo tinh thần mà là một nhà cai trị thế tục gần như tuyệt đối.<a href="https://sachhiem.net/en_eig"> </a> &nbsp;Giáo  phận Phát Diệm bao gồm hầu hết các tỉnh Ninh Bình và Thanh Hóa. Giáo dân Ca-tô  chiếm khoảng 25 phần trăm tổng dân số, nhưng nhiều làng mạc và các huyện gần  100 phần trăm người Ca-tô giáo.</p>
+ <p><b>"</b>Trong nhiều cách thì Phát Diệm là một mô hình thu nhỏ của  các giòng chồng chéo của chủ nghĩa khu vực, chủ nghĩa quốc gia, và tôn giáo.  Vào năm 1945 đó là một khu vực rặc Ca-tô giáo trong một nước Việt Nam đa số phi  Ki-tô. Giám mục của nó, Cha chánh nhất Thaddeus Lê Hữu Từ, hành xử không chỉ là  lãnh đạo tinh thần mà là một nhà cai trị thế tục gần như tuyệt đối.<a href="/en_eig"> </a> &nbsp;Giáo  phận Phát Diệm bao gồm hầu hết các tỉnh Ninh Bình và Thanh Hóa. Giáo dân Ca-tô  chiếm khoảng 25 phần trăm tổng dân số, nhưng nhiều làng mạc và các huyện gần  100 phần trăm người Ca-tô giáo.</p>
  <p>   Một nhà báo Pháp mô tả:</p>
  <p> <i>Phát Diệm và giáo phận kế cận Bùi Chu  là một miền phong kiến, một lãnh địa của giáo hội nhân danh Chúa. Cảnh quan rặc  nhà dòng. Mỗi quảng trường chính trên địa bàn có một nhà thờ rộng lớn trấn áp  và vượt trên tất cả mọi thứ…. Mỗi khu vực với ngôi nhà thờ nằm ở chính giữa là  một họ đạo; quản hạt là một lãnh chúa và giáo dân là nông nô của ông ta.</i></p>
  <p><i>   Vì lợi ích cho thể xác và linh hồn của đám nông dân, họ đã  được thống trị bởi một đội quân nhỏ của các tu sĩ người Á châu với khuôn mặt  béo tốt và áo chùng láng bóng; chưa kể đến một đám nữ tu người An Nam</i>.</p>
@@ -50,7 +50,7 @@ image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/TONGIAO/IMG/CGchongC
    <p><b>Chú thích:</b><br>
      (*) Theo tài liệu <a href="https://content.time.com/time/magazine/article/0,9171,805651,00.html">Eric Gibbs, “Battle of Indo-China,”</a> Đức Cha Lê Hữu Từ đã có một đội dân quân kháng Pháp và cũng để bảo vệ giáo dân trước Việt Minh, con số được ước tính trong sách nói có lúc đã lên đến 6,000 người. Ủng hộ và yểm trợ cho ngài về mặt chiến sự, được biết có ông Ngô Cao Tùng, chức danh thiếu tá, có nguồn gốc là Việt Nam Quốc Dân Đảng. Lực lượng vũ trang của ông Tùng được ước tính cũng có khoảng 1,700 người [<a href="https://www.nguoi-viet.com/dien-dan/bui-chu-phat-diem-vi-sao-la-lich-su/"><i>Bùi Chu-Phát Diệm, vì sao là lịch sử?</i></a> - Tuấn Khanh]</p>
  </div>
- <p><a href="https://sachhiem.net/CHARLIE/CN_TCCG/Vaitro.php"><b>II- Vai trò của chính quyền trong mối tương quan Công giáo - Dân tộc</b></a> (Charlie Nguyễn), trích đoạn từ trang 114 -117:</p>
+ <p><a href="/CHARLIE/CN_TCCG/Vaitro"><b>II- Vai trò của chính quyền trong mối tương quan Công giáo - Dân tộc</b></a> (Charlie Nguyễn), trích đoạn từ trang 114 -117:</p>
  <p class="PicLeft"><img src="https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/CHARLIE/IMG/CGvaDaochua.jpg" width="151" height="229" alt=""></p>
  <p>Từ hậu bán thế kỷ 19, đạo Công giáo tại Việt Nam thoát khỏi sự bách hại của triều đình và của các phong trào Văn Thân, Cần Vương.... Song song với sự đô hộ của thực dân mau chóng phát triển lớn mạnh như diều gặp gió. Chiến thắng Điện Biên Phủ 1954 oai hùng lẫm liệt đã vĩnh viễn chấm dứt ách đô hộ của thực dân Pháp. Trong khi chiến thắng Điện Biên là niềm vui lớn và là niềm tự hào vô hạn của mọi người Việt Nam yêu nước thì <i>“biến cố Điện Biên”</i> lại làm cho những người Công giáo lo sợ và đau khổ ghê gớm.</p>
  <p>Lý do là vì những người Công giáo đã xin quân đội viễn chinh Pháp võ trang để thành lập những khu tự trị. Khởi đầu là khu tự trị Công giáo Phát Diệm từ đầu năm 1947, Bùi Chu từ 1948 và Thái Bình từ 1949. Từ các căn cứ của khu tự trị, người Công giáo đã mang súng đạn đi cướp phá những làng bên lương sát hại nhiều lương dân chỉ vì những lương dân này tỏ ý bất mãn với truyền thống phản quốc thân Tây của đại đa số người Công giáo.</p>

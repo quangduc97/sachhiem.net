@@ -3,7 +3,7 @@ layout: ../../../layouts/Article.astro
 title: "Trump Đã Vượt Giới Hạn Cuối Cùng Của Chủ Nghĩa Tân Phát Xít"
 author: "Michael Tomasky"
 date: 2020-12-12
-source: "https://sachhiem.net/THOISU_CT/ChuM/MikeWilson_28.php"
+source: "/THOISU_CT/ChuM/MikeWilson_28"
 category: "Chính trị"
 lang: vi
 wordCount: 1997

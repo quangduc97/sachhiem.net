@@ -3,7 +3,7 @@ layout: ../../../layouts/Article.astro
 title: "Dân Chúng Không Còn Tôn Trọng Đạo Chúa"
 author: "SH sưu tầm"
 date: 2025-02-12
-source: "https://sachhiem.net/TONGIAO/tgT/TinCatholic1.php"
+source: "/TONGIAO/tgT/TinCatholic1"
 category: "Chính trị"
 lang: vi
 wordCount: 460

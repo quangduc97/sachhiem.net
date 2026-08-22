@@ -3,7 +3,7 @@ layout: ../../layouts/Article.astro
 title: "Tôi Đọc Nguyễn Hoài Vân"
 author: "Trần Tiên Long"
 date: 2012-04-15
-source: "https://sachhiem.net/TTL/TranTL18.php"
+source: "/TTL/TranTL18"
 category: "Tác giả"
 lang: vi
 wordCount: 4919

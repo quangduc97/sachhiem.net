@@ -2,7 +2,7 @@
 layout: ../../../layouts/Article.astro
 title: "Thế giới phẫn nộ và lo ngại"
 date: 2007-12-29
-source: "https://sachhiem.net/nguồn: https://voanews.com/vietnamese/2007-12-29-voa1.cfm"
+source: "/nguồn: https://voanews.com/vietnamese/2007-12-29-voa1.cfm"
 category: "Chính trị"
 lang: vi
 wordCount: 771

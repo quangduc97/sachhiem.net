@@ -2,15 +2,14 @@
 layout: ../../layouts/Article.astro
 title: "Cuộc Chơi Hơn Nửa Đời Người"
 author: "Hoàng Nguyên Nhuận"
-source: "https://sachhiem.net/HOANGNN/Hoang13.php"
+source: "/HOANGNN/Hoang13"
 category: "Chính trị"
 lang: vi
 wordCount: 8853
-image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nha.jpg"
+image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/HOANGNN/Hinh/09_hnn.jpg"
 ---
 
-<p align="center"><a href="https://www.sachhiem.net/">
-	<img border="0" src="https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nha.jpg"></a>06 tháng 4, 2008
+<p align="center">06 tháng 4, 2008
  </p>
 <p class="MsoNormal"><img src="https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/HOANGNN/Hinh/09_hnn.jpg" alt="09_hnn.jpg (27839 bytes)" width="158" height="233" class="PicLeft">
 		<big>P</big>hật Đản 1963 - Phật Đản 2003. Nếu phục vụ đạo pháp và dân 

@@ -2,14 +2,13 @@
 layout: ../../../layouts/Article.astro
 title: "Ảo Ảnh Của Tâm"
 author: "Đào Văn Bình"
-source: "https://sachhiem.net/DAOVB/VH/DaovBinh_triet.php"
+source: "/DAOVB/VH/DaovBinh_triet"
 category: "Văn hóa"
 lang: vi
 wordCount: 2287
-image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/HOANHLINH/images/nha.jpg"
+image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/CANHDEP/AnhTrang.jpg"
 ---
 
-<p align="center"><a href="/index"><img hspace="20" border="0" src="https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/HOANHLINH/images/nha.jpg"></a> </p>
 <div class="tomluoc">
   <p><i>... Thế giới càng văn minh, nhu cầu vật chất càng nhiều, con người càng sống với ảo tưởng. Ảo tưởng về sự giàu sang, về trí thức, về vẻ đẹp, về tài năng, về đức độ, về quyền uy, về chân lý, về sự thánh thiện. <br>
       - Rất nhiều người mang ảo tưởng là mình thánh thiện nhưng thực ra họ chẳng thánh thiện gì cả. <br>
@@ -172,4 +171,4 @@ image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/HOANHLINH/images/nha
 <p>  (3)<i> Mới đây nhất  tại Hoa Kỳ, một người ăn mày sống vô gia cư (homless) nhặt được một cái ví  trong đó có 3300 đô-la, đã đem tới sở cảnh sát trả lại vì ông ta thấy đây  không phải tiền của ông.Hai nông dân nghèo ở Nghệ Tĩnh nhặt được  300 triệu đồng đã đem trả lại cho chủ nhân.</i></p>
 
 <hr>
- <p><a href="https://sachhiem.net/DAOVB/DVBdir.php">-- Link các bài viết của tác giả Đào Văn Bình --</a> </p>
+ <p><a href="/DAOVB/DVBdir">-- Link các bài viết của tác giả Đào Văn Bình --</a> </p>

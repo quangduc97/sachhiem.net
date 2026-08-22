@@ -2,10 +2,9 @@
 layout: ../../../layouts/Article.astro
 title: "VÀI Ý KIẾN XUNG QUANH VỤ TU VIỆN BÁT NHÃ"
 author: "Trần Chung Ngọc"
-source: "https://sachhiem.net/null"
+source: "/null"
 lang: vi
 wordCount: 10642
-image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nha.jpg"
 ---
 
 <div align="center" style="position: relative; left: 0; top: 0">
@@ -20,8 +19,7 @@ image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nha.jpg"
 <tr><td width="100%">
 <div style="padding-left: 50px; padding-right: 50px"> 
 <table border="0" cellpadding="1" width="86%" cols="2"><tbody><tr>
-<td><a href="https://www.sachhiem.net/">
-<img border="0" src="https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nha.jpg"></a></td>
+<td></td>
 <td valign="top" width="210"><p>22 tháng 10,  2009</p></td></tr></tbody></table>
 <p><a href="/TCN/TCNts046">1</a> &nbsp;<b><a href="/TCN/TCNts046a"> 2</a></b> </p>
 <p>(tiếp theo)</p>
@@ -320,7 +318,7 @@ problems than assets. It offers me a God I cannot respect, much less
 worship.]</p>
 <p>4) <u>Linh mục Công giáo James Kavanaugh</u> viết về “Huyền Thoại Cứu 
 Rỗi” trong cuốn <i>Sự Sinh Ra Của Thiên Chúa </i>(The Birth of God),<i> </i>
-xin đọc:<font size="2"> <a href="https://sachhiem.net/TCN/TCNtg/TCN36.php">
+xin đọc:<font size="2"> <a href="/TCN/TCNtg/TCN36">
 https://sachhiem.net/TCN/TCNtg/TCN36.php</a></font>:</p>
 <div style="padding-left: 50px">
 <i> Nhưng đối với con người hiện đại. <u>chuyện hi sinh của Giê-su 
@@ -895,7 +893,7 @@ be thanked for your interesting lecture</u>.</i><font face="Marlett">py</font></
 <p><a href="/NDX/NDX016">- Những bạo hành ở Tu viện Bát Nhã - xin giải thích giùm tôi (Nguyễn Đắc Xuân)</a></p>
 <p><a href="/MINHMAN/Tongiao/MinhManTG45">- Liêm Sĩ và Dũng Khí (Minh Mẫn)</a></p>
 <p><a href="/TCN/TCNts046">- Vài Ý Kiến Xung Quanh Vụ Tu Viện Bát Nhã -1 (Trần Chung Ngọc)</a></p>
-<p>- <a href="https://sachhiem.net/TONGIAO/BuddhistReview.php">Sinh Hoạt Tâm Linh Tại Tu Viện Lộc Uyển  (Đất Lành)</a></p>
+<p>- <a href="/TONGIAO/BuddhistReview">Sinh Hoạt Tâm Linh Tại Tu Viện Lộc Uyển  (Đất Lành)</a></p>
 <p>- <a href="/DOITHOAI/ChungAnh">Ai là người phải xin lỗi trong sự kiện Bát Nhã? (Chung Anh)
 </a> </p>
 <p>- <a href="/EMAILS/C/Caphetoi41">Về vụ lộn xộn ở Bát Nhã (CPT)

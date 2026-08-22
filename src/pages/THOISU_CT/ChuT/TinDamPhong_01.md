@@ -3,7 +3,7 @@ layout: ../../../layouts/Article.astro
 title: "Thư của ông Nguyễn Thanh Tú, con trai của cố ký giả Đạm Phong,"
 author: "Nguyễn Thanh Tú"
 date: 2016-03-22
-source: "https://sachhiem.net/THOISU_CT/ChuT/TinDamPhong_01.php"
+source: "/THOISU_CT/ChuT/TinDamPhong_01"
 category: "Chính trị"
 lang: vi
 wordCount: 3806
@@ -148,16 +148,16 @@ image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/THOISU_CT/Hinh/FRONT
   <p> <a href="/THOISU_CT/ChuT/TinDamPhong">https://sachhiem.net/THOISU_CT/ChuT/TinDamPhong.php</a></p>
   <p>- Khủng Bố Ở Little Saigon - Cuộc Điều Tra Đã Bắt Đầu (PBS Frontline)</p>
 <p>
-    <a href="https://sachhiem.net/THOISU_CT/ChuT/TinProPublica.php">https://sachhiem.net/THOISU_CT/ChuT/TinProPublica.php</a></p>
+    <a href="/THOISU_CT/ChuT/TinProPublica">https://sachhiem.net/THOISU_CT/ChuT/TinProPublica.php</a></p>
   <p>- Trình Chiếu Trên Truyền Hình Mỹ Cuộc Điều Tra Về Khủng Bố tại Tiểu Sài Gòn (www.pbs.org)</p>
 <p>
-    <a href="https://sachhiem.net/XAHOI/T/TheFront.php">https://sachhiem.net/XAHOI/T/TheFront.php</a></p>
+    <a href="/XAHOI/T/TheFront">https://sachhiem.net/XAHOI/T/TheFront.php</a></p>
   <p>- Việt Tân Là Gì? (Phạm Văn Thành)</p>
 <p>
-    <a href="https://sachhiem.net/THOISU_CT/ChuT/TinPhamVThanh.php">https://sachhiem.net/THOISU_CT/ChuT/TinPhamVThanh.php</a></p>
+    <a href="/THOISU_CT/ChuT/TinPhamVThanh">https://sachhiem.net/THOISU_CT/ChuT/TinPhamVThanh.php</a></p>
   <p>- Phỏng Vấn Các Nhân Vật Liên Quan Trong Phim "Terror In Little Saigon" (Người Việt và CaliToday)</p>
 <p>
-    <a href="https://sachhiem.net/THOISU_CT/ChuT/TinNgViet01.php">https://sachhiem.net/THOISU_CT/ChuT/TinNgViet01.php</a></p>
+    <a href="/THOISU_CT/ChuT/TinNgViet01">https://sachhiem.net/THOISU_CT/ChuT/TinNgViet01.php</a></p>
   <p>- Tài Liệu Cáo Giác Hoạt Động Chính Trị và Tội Ác của Mặt Trận Hoàng Cơ Minh (Thư viện Phạm Văn Thành)</p>
 <p>
-  <a href="https://sachhiem.net/THOISU_CT/ChuT/TinPhamVThanh01.php">https://sachhiem.net/THOISU_CT/ChuT/TinPhamVThanh01.php</a></p>
+  <a href="/THOISU_CT/ChuT/TinPhamVThanh01">https://sachhiem.net/THOISU_CT/ChuT/TinPhamVThanh01.php</a></p>

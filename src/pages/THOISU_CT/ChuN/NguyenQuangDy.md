@@ -3,7 +3,7 @@ layout: ../../../layouts/Article.astro
 title: "Trung Quốc Trỗi Dậy Và Suy Tàn: Giới Hạn Của Quyền Lực"
 author: "Nguyễn Quang Dy"
 date: 2016-04-18
-source: "https://sachhiem.net/THOISU_CT/ChuN/NguyenQuangDy.php"
+source: "/THOISU_CT/ChuN/NguyenQuangDy"
 category: "Chính trị"
 lang: vi
 wordCount: 5238

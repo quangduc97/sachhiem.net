@@ -3,7 +3,7 @@ layout: ../../../layouts/Article.astro
 title: "Tại Sao Trung Quốc-Một Nước Lớn- Lại Hành Động Trơ Tráo Như Thế?"
 author: "Nguyễn Hồng Trân"
 date: 2014-06-22
-source: "https://sachhiem.net/LICHSU/N/NgHgTran_TS04.php"
+source: "/LICHSU/N/NgHgTran_TS04"
 category: "Lịch sử"
 lang: vi
 wordCount: 1566

@@ -3,7 +3,7 @@ layout: ../../../layouts/Article.astro
 title: "CẦU NGUYỆN \"ĐÒI ĐẤT\":"
 author: "Trần Minh Khoa"
 date: 2008-09-10
-source: "https://sachhiem.net/nguồn: https://huongsenviet.blogspot.com/2008/09/cu-nguyn-i-t-s-tht-no-s-gii-phng-cc-anh.html"
+source: "/nguồn: https://huongsenviet.blogspot.com/2008/09/cu-nguyn-i-t-s-tht-no-s-gii-phng-cc-anh.html"
 category: "Tác giả"
 lang: vi
 wordCount: 7012
@@ -39,7 +39,7 @@ image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nhacu.jpg"
 
 		<table border="0" cellpadding="10" width="100%" cols="3"><tbody><tr>
 		<td>&nbsp;</td>
-		<td><a href="https://sachhiem.net/"><img border="0" src="https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nhacu.jpg"></a></td>
+		<td><a href="/"><img border="0" src="https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nhacu.jpg"></a></td>
 	<td valign="top">13 tháng 9, 2008
 	</td></tr></tbody></table>
 <div style="padding-left: 20px; padding-right: 20px; padding-top: 15px; padding-bottom: 15px">

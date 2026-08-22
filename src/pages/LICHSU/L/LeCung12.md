@@ -3,7 +3,7 @@ layout: ../../../layouts/Article.astro
 title: "PHONG TRÀO PHẬT GIÁO Ở KHÁNH HOÀ NĂM 1963"
 author: "GS Lê Cung* & Nguyễn Trung Triều**"
 date: 2021-07-06
-source: "https://sachhiem.net/LICHSU/L/LeCung12.php"
+source: "/LICHSU/L/LeCung12"
 category: "Chính trị"
 lang: vi
 wordCount: 8658

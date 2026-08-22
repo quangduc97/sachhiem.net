@@ -3,7 +3,7 @@ layout: ../../../layouts/Article.astro
 title: "Làm Nghề Nào Ăn Nghề Ấy!"
 author: "Nguyễn Tuấn Anh"
 date: 2024-06-15
-source: "https://sachhiem.net/THOISU_CT/ChuN/NguyenTuanAnh_03.php"
+source: "/THOISU_CT/ChuN/NguyenTuanAnh_03"
 category: "Chính trị"
 lang: vi
 wordCount: 172

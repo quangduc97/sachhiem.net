@@ -2,7 +2,7 @@
 layout: ../../../layouts/Article.astro
 title: "Tác động của toàn cầu hóa"
 author: "Mai Thị Quý"
-source: "https://sachhiem.net/tạp chí Triết học đăng trên www.chungta.com"
+source: "/tạp chí Triết học đăng trên www.chungta.com"
 category: "Chính trị"
 lang: vi
 wordCount: 4026

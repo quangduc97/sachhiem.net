@@ -3,7 +3,7 @@ layout: ../../../layouts/Article.astro
 title: "Căng Thẳng Mỹ - Thổ Gia Tăng Sau Vụ Đảo Chính Hụt Ở Turkey"
 author: "Mike Wilson"
 date: 2016-07-17
-source: "https://sachhiem.net/THOISU_CT/ChuM/MikeWilson_14.php"
+source: "/THOISU_CT/ChuM/MikeWilson_14"
 category: "Chính trị"
 lang: vi
 wordCount: 1334

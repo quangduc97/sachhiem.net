@@ -6,10 +6,10 @@ source: "https://sachhiem.net"
 category: "Chính trị"
 lang: vi
 wordCount: 3
-image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nha.jpg"
+image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/XAHOI/IMG/Search.jpg"
 ---
 
-<p align="center"><a href="https://www.sachhiem.net/"> <img border="0" src="https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nha.jpg"></a> ngày </p>
+<p align="center"> ngày </p>
   
   <p align="center"><img src="https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/XAHOI/IMG/Search.jpg" width="420" height="315"></p>
   

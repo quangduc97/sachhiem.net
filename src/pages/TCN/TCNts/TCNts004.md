@@ -2,14 +2,13 @@
 layout: ../../../layouts/Article.astro
 title: "TẢN MẠN VỀ CHỐNG CỘNG !!"
 author: "Trần Chung Ngọc"
-source: "https://sachhiem.net/index.php?content=showrecipe&id=345"
+source: "/TCN/TCNts/TCNts004"
 category: "Chính trị"
 lang: vi
 wordCount: 10635
-image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nha.jpg"
 ---
 
-<p align="center"><a href="/index"><img hspace="20" border="0" src="https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nha.jpg"></a>	30&nbsp; tháng 5, 2007	</p>
+<p align="center">	30&nbsp; tháng 5, 2007	</p>
 		<p>
 		<span class="First">K</span>ể từ ngày tôi “tự cưỡng bách di 
 		tản” khỏi Saigon vào mấy ngày cuối tháng 4, 1975, nay đã hơn 30 năm sống 

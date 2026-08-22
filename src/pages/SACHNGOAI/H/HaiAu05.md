@@ -3,7 +3,7 @@ layout: ../../../layouts/Article.astro
 title: "Linh Mục Khu Vực Detroit Lấy Trộm Tiền Bị 27 Tháng Tù"
 author: "By Associated Press"
 date: 2015-12-01
-source: "https://sachhiem.net/SACHNGOAI/H/HaiAu05.php"
+source: "/SACHNGOAI/H/HaiAu05"
 category: "Chính trị"
 lang: vi
 wordCount: 787

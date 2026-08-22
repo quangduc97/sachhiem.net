@@ -3,7 +3,7 @@ layout: ../../../layouts/Article.astro
 title: "Những Chuyện Kể Của PHGV"
 author: "Phượng Hoàng GV"
 date: 2015-11-06
-source: "https://sachhiem.net/LICHSU/P/PhuongHoang09.php"
+source: "/LICHSU/P/PhuongHoang09"
 category: "Lịch sử"
 lang: vi
 wordCount: 1026
@@ -54,5 +54,5 @@ Subject: Re: Phép Lạ Thánh Địa Hành hương Đức Mẹ  TàPao - YouTub
 <div align="center"><div class="fb-share-button" data-layout="button" data-size="large" data-actiob="like" data-show-faces="true" data-share="true" data-mobile-iframe="true"></div>
 </div>
 <hr> 
-<p>Các chuyện kể của Phượng Hoàng Gò Vấp: link <a href="https://sachhiem.net/LICHSU/P/ListPHGV.inc.php" target="_blank">https://sachhiem.net/LICHSU/N/ListPHGV.inc.php</a></p>  
+<p>Các chuyện kể của Phượng Hoàng Gò Vấp: link <a href="/LICHSU/P/ListPHGV.inc" target="_blank">https://sachhiem.net/LICHSU/N/ListPHGV.inc.php</a></p>  
   <hr>

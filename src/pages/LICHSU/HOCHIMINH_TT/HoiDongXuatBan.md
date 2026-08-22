@@ -3,7 +3,7 @@ layout: ../../../layouts/Article.astro
 title: "Hồ Chí Minh Toàn Tập"
 author: "Hội Đồng Xuất Bản"
 date: 2025-11-05
-source: "https://sachhiem.net/LICHSU/HOCHIMINH_TT/HoiDongXuatBan.php"
+source: "/LICHSU/HOCHIMINH_TT/HoiDongXuatBan"
 category: "Lịch sử"
 lang: vi
 wordCount: 73
@@ -29,4 +29,4 @@ image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/LICHSU/HOCHIMINH_TT/
  <p class="nguonL"> Bạn đọc sưu tầm và gửi trang nhà</p>
  <p>_________</p>
  <p><b>Đọc thêm:</b></p>
- <p>- <a href="https://sachhiem.net/LICHSU/HOCHIMINH_TT/LichSuNuocTa.php">Lịch Sử Nước Ta.</a></p>
+ <p>- <a href="/LICHSU/HOCHIMINH_TT/LichSuNuocTa">Lịch Sử Nước Ta.</a></p>

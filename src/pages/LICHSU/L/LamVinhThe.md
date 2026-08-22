@@ -3,7 +3,7 @@ layout: ../../../layouts/Article.astro
 title: "Đánh Giá Tài Liệu Trong Việc Nghiên Cứu Lịch Sử Việt Nam Cộng Hòa"
 author: "Lâm Vĩnh Thế"
 date: 2016-05-20
-source: "https://sachhiem.net/LICHSU/L/LamVinhThe.php"
+source: "/LICHSU/L/LamVinhThe"
 category: "Chính trị"
 lang: vi
 wordCount: 13193
@@ -11,7 +11,7 @@ image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/LICHSU/IMG/SACH/Danh
 ---
 
 <div class="tomluoc">
-    <p> <i>LTS:  Phần trình bày của tác giả về cách đánh giá tài liệu rất xuất sắc. Nội dung bao quát nhiều vấn đề thực tiễn dễ nhận biết và dễ áp dụng học hỏi. Nếu được kết hợp thêm một vài yếu tố  chủ quan nữa, như người nghiên cứu "cần phải có can đảm, và trí thông minh" để đánh giá các sự kiện,  <a href="https://sachhiem.net/NMQ/VNCHTT/NMQ04.php">(xem thí dụ kiểm chứng các con số thống kê chẳng hạn, mà tác giả Nguyễn Mạnh Quang đề cập trong Chương 4 quyển VNĐNCHTT)</a> thì bài viết càng trọn vẹn hơn. Tuy nhiên, có một khía cạnh nhỏ  "Kinh nghiệm của người viết bài này tương đối giới hạn. Lý do chánh là vì trọng tâm nghiên cứu của người viết chỉ là giai đoạn ngắn ngủi giữa hai nền cộng hòa, 1963-1967."  Thực ra, khách quan mà nói, thời Đệ Nhất Cộng Hòa, là thời gian khai sinh ra chế độ VNCH, là gốc của chế độ VNCH, đáng lý cần được tìm hiểu và nghiên cứu hơn là thời gian sau năm 1963. (SH) </i></p>
+    <p> <i>LTS:  Phần trình bày của tác giả về cách đánh giá tài liệu rất xuất sắc. Nội dung bao quát nhiều vấn đề thực tiễn dễ nhận biết và dễ áp dụng học hỏi. Nếu được kết hợp thêm một vài yếu tố  chủ quan nữa, như người nghiên cứu "cần phải có can đảm, và trí thông minh" để đánh giá các sự kiện,  <a href="/NMQ/VNCHTT/NMQ04">(xem thí dụ kiểm chứng các con số thống kê chẳng hạn, mà tác giả Nguyễn Mạnh Quang đề cập trong Chương 4 quyển VNĐNCHTT)</a> thì bài viết càng trọn vẹn hơn. Tuy nhiên, có một khía cạnh nhỏ  "Kinh nghiệm của người viết bài này tương đối giới hạn. Lý do chánh là vì trọng tâm nghiên cứu của người viết chỉ là giai đoạn ngắn ngủi giữa hai nền cộng hòa, 1963-1967."  Thực ra, khách quan mà nói, thời Đệ Nhất Cộng Hòa, là thời gian khai sinh ra chế độ VNCH, là gốc của chế độ VNCH, đáng lý cần được tìm hiểu và nghiên cứu hơn là thời gian sau năm 1963. (SH) </i></p>
   </div>
    <p><span class="First">S</span>ách báo Anh ngữ đã được xuất bản về  Việt Nam Cộng Hòa (VNCH) và về Chiến tranh Việt Nam trong hơn nửa thế kỷ vừa  qua chiếm môt số lượng có thể nói là khổng lồ. Gần đây hơn, trong khoảng thời  gian độ hai mươi năm qua, chúng ta thấy xuất hiện khá nhiều sách báo Việt ngữ  đã được xuất bản tại hải ngoại về nhiều vấn đề, sự kiện, biến cố trong các lãnh  vực chính trị, quân sự của VNCH truớc năm 1975. Một phần rất lớn những cuốn  sách và bài báo thuộc loại này do những vị đã từng có hoạt động trong chính  quyền hoặc quân lực VNCH, ngay cả có tham dự vào chính các biến cố chính trị,  quân sự đó. Các tác giả, do đó, thuờng có khuynh huớng ghi lại các biến cố với  khá nhiều chi tiết. Tuy nhiên, đa số các tác giả đều viết lại các biến cố theo  ký ức của mình, nhiều khi không dựa vào bất cứ tài liệu nào nên sự chính xác  của các chi tiết mà họ ghi lại không cao lắm. Bản thân tác giả bài viết này đã  thực hiện khá nhiều cuộc nghiên cứu về lịch sử của VNCH, đặc biệt chú trọng vào  giai đoạn 1963-1967. Trong quá trình nghiên cứu, nguời viết không tránh khỏi  phải đọc khá nhiều những tài liệu nói trên.</p>
    <p>     Bài viết này đuợc soạn thảo để chia  xẻ với độc giả những kinh nghiệm trong việc đánh giá tài liệu có liên quan đến  lịch sử của VNCH.</p>

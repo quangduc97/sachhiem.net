@@ -1,7 +1,7 @@
 ---
 layout: ../../layouts/Article.astro
 title: "Các Bài Về Ngô Đình Diệm"
-source: "https://sachhiem.net/null"
+source: "/null"
 lang: vi
 wordCount: 160
 ---

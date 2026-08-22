@@ -3,7 +3,7 @@ layout: ../../../layouts/Article.astro
 title: "[VATICANOLOGY] - Hồng Y Parolin Nói Dèm, Trung Quốc Đáp Trả Mạnh - Bài 2"
 author: "Minh Thạnh"
 date: 2022-05-26
-source: "https://sachhiem.net/TONGIAO/tgM/MinhThanh33z.php"
+source: "/TONGIAO/tgM/MinhThanh33z"
 category: "Chính trị"
 lang: vi
 wordCount: 4682

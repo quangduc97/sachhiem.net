@@ -2,11 +2,10 @@
 layout: ../../../layouts/Article.astro
 title: "THUYẾT VŨ TRỤ BIG BANG"
 author: "Nguyễn Tiến Đạt"
-source: "https://sachhiem.net/null"
+source: "/null"
 category: "Khoa học"
 lang: vi
 wordCount: 5969
-image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nha.jpg"
 ---
 
 <div align="center" style="position: relative; left: 0; top: 0">
@@ -26,8 +25,7 @@ image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nha.jpg"
 	<div style="padding-left: 50px; padding-right: 50px">
 
 		<table border="0" cellpadding="10" width="600" cols="2"><tbody><tr>
-		<td><a href="/index">
-		<img border="0" src="https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nha.jpg"></a></td>
+		<td></td>
 		<td valign="top" style="text-align:right">15 tháng 8,  2010
 	</td></tr></tbody></table>
 		<p><i>LTS: Bài viết sau đây được giới thiệu như là một cái nhìn về Thuyết Vũ Trụ qua một số tuyên bố phê bình các thuyết về vũ trụ. Dù tựa đề có tính cách học trình,  thật ra nội dung không thuần túy là một bài giáo khoa,  xin được  thận trọng giới thiệu bài viết như  ý kiến của tác giả.  (SH)</i>   </p>

@@ -2,14 +2,14 @@
 layout: ../../../layouts/Article.astro
 title: "Sắc chỉ cổ về Hoàng Sa được tìm thấy"
 author: "Tin BBC"
-source: "https://sachhiem.net/LICHSU/T/TinBBC.php"
+source: "/LICHSU/T/TinBBC"
 category: "Lịch sử"
 lang: vi
 wordCount: 516
-image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nha.jpg"
+image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/LICHSU/IMG/SacchiHSTS.jpg"
 ---
 
-<p align="center"><a href="/LICHSU/index"><img hspace="20" border="0" src="https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nha.jpg"></a>02 tháng 4, 2009 </p>	
+<p align="center">02 tháng 4, 2009 </p>	
 <p class="PicLeft"><img border="0" src="https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/LICHSU/IMG/SacchiHSTS.jpg" longdesc="https://www.bbc.co.uk/worldservice/assets/images/2009/04/090402142340_document_226.jpg" width="226" height="170" hspace="10"> <br>  Ảnh BBC </p>
  	<p><span class="First">T</span>ại tỉnh Quảng Ngãi, người ta vừa phát hiện một sắc chỉ bốn 
 		trang của Triều đình nhà Nguyễn liên quan đến quần đảo Hoàng Sa, được 
@@ -45,15 +45,15 @@ image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nha.jpg"
 	<img border="0" src="https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/speaker.jpg" width="24" height="20"> </a> </p>
 	<hr align="left" width="50%">
   <p><b>Bài khác, cùng đề tài</b></p>
-  <p>1- <a href="https://sachhiem.net/LICHSU/H/Haichien_GGtienlang.php">"Hải Chiến Hoàng Sa": Thêm một ý kiến khẳng định  cấp chỉ huy bất tài và hèn nhát</a></p>
+  <p>1- <a href="/LICHSU/H/Haichien_GGtienlang">"Hải Chiến Hoàng Sa": Thêm một ý kiến khẳng định  cấp chỉ huy bất tài và hèn nhát</a></p>
   <p>2. <a href="/THOISU_CT/ChuG/Giaochi"> Trận Hoàng Sa -34 năm về trước</a> (Giao Chỉ, San Jose)</p>
-  <p>3. <a href="https://sachhiem.net/THOISU_CT/ChuN/NgnThhTung02.php">Về Hải chiến Hoàng Sa và Báo chí Việt Nam</a> (Nguyễn Thanh Tùng) </p>
+  <p>3. <a href="/THOISU_CT/ChuN/NgnThhTung02">Về Hải chiến Hoàng Sa và Báo chí Việt Nam</a> (Nguyễn Thanh Tùng) </p>
   <p>4. <a href="/LICHSU/H/HoangSa">Cựu binh: Hoàng Sa đáng ra không mất!</a> (Tin BBC)</p>
   <p>5. <a href="/LICHSU/H/HoangSa">Về chuyện VNCH hủy bỏ kế họach phái phi cơ đánh trả đũa quân Trung Cộng sau Hải chiến Hoàng Sa</a> (Phạm Trần)</p>
-  <p>6. <a href="https://sachhiem.net/LICHSU/T/TinBBC.php">Sắc chỉ cổ về Hoàng Sa được tìm thấy</a> (Tin BBC) </p>
-  <p>7. <a href="https://sachhiem.net/THOISU_CT/ChuN/NgnThhTung03.php">Tài liệu của Mỹ từ báo cáo của người Mỹ bị bắt tại Hoàng Sa</a> (Nguyễn Thanh Tùng) </p>
-  <p>8. <a href="https://sachhiem.net/LICHSU/H/HaichienHS_bimat.php">Bí Mật Về "Hải Chiến Hoàng Sa 1974" và Những Điều Chưa Biế</a>t (Thanh Niên Đất Việt) </p>
-<p>9. <a href="https://sachhiem.net/THOISU_CT/ChuD/DangvHoa.php">Việt Nam Cộng Hòa Dâng Đảo Hoàng Sa Cho Trung Cộng</a> (Đặng Văn Hoa) </p>
+  <p>6. <a href="/LICHSU/T/TinBBC">Sắc chỉ cổ về Hoàng Sa được tìm thấy</a> (Tin BBC) </p>
+  <p>7. <a href="/THOISU_CT/ChuN/NgnThhTung03">Tài liệu của Mỹ từ báo cáo của người Mỹ bị bắt tại Hoàng Sa</a> (Nguyễn Thanh Tùng) </p>
+  <p>8. <a href="/LICHSU/H/HaichienHS_bimat">Bí Mật Về "Hải Chiến Hoàng Sa 1974" và Những Điều Chưa Biế</a>t (Thanh Niên Đất Việt) </p>
+<p>9. <a href="/THOISU_CT/ChuD/DangvHoa">Việt Nam Cộng Hòa Dâng Đảo Hoàng Sa Cho Trung Cộng</a> (Đặng Văn Hoa) </p>
   
 <hr>
 <p class="TuaDenLeft"><b>Những bài về Trường Sa &amp; Hoàng Sa đăng trong sachhiem.net<a href="/LICHSU/H/HoangSa_list"> --- &gt; </a></b></p>

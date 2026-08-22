@@ -3,7 +3,7 @@ layout: ../../../layouts/Article.astro
 title: "Không Được Xúc Phạm Vong Linh Liệt Sỹ"
 author: "Nguyễn Văn Thịnh"
 date: 2017-03-24
-source: "https://sachhiem.net/VANHOC/N/NguyenvThinh_15.php"
+source: "/VANHOC/N/NguyenvThinh_15"
 category: "Lịch sử"
 lang: vi
 wordCount: 2647

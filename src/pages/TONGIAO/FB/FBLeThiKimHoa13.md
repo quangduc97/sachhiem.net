@@ -3,7 +3,7 @@ layout: ../../../layouts/Article.astro
 title: "VALENTINE - Ngày Lễ Tình Nhân:"
 author: "Lê thị Kim Hoa sưu tầm"
 date: 2026-02-14
-source: "https://sachhiem.net/TONGIAO/FB/FBLeThiKimHoa13.php"
+source: "/TONGIAO/FB/FBLeThiKimHoa13"
 category: "Chính trị"
 lang: vi
 wordCount: 1802

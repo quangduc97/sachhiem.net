@@ -3,7 +3,7 @@ layout: ../../../layouts/Article.astro
 title: "G.H. Phanxicô I Thú Nhận Và Xin Tha Thứ"
 author: "Cao Hữu Tâm"
 date: 2014-04-25
-source: "https://sachhiem.net/TONGIAO/tgC/Caohtam12.php"
+source: "/TONGIAO/tgC/Caohtam12"
 category: "Tác giả"
 lang: vi
 wordCount: 1156

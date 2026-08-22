@@ -3,16 +3,15 @@ layout: ../../../layouts/Article.astro
 title: "Giám Mục Công Giáo Thú Nhận Có 2 Đứa Con Và Từ Chức"
 author: "Liên Mạng- Maria Phượng chuyển ngữ"
 date: 2012-01-04
-source: "https://sachhiem.net/TONGIAO/tgR/Reuters01.php"
+source: "/TONGIAO/tgR/Reuters01"
 category: "Tác giả"
 lang: vi
 wordCount: 1326
-image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nha.jpg"
+image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.devhttps://sachhiem.net/TONGIAO/IMG/TINHDUC/BspGabinoZavala.jpg"
 ---
 
 <table border="0" cellpadding="1" width="80%" cols="2"><tbody><tr>
-        <td width="220"><a href="/index">
-          <img border="0" src="https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nha.jpg"></a></td>
+        <td width="220"></td>
     <td valign="top" width="286"></td></tr></tbody></table>
     
 

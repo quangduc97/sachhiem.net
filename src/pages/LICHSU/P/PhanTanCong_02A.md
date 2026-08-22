@@ -2,18 +2,17 @@
 layout: ../../../layouts/Article.astro
 title: "NGÀY 10 THÁNG 3 NĂM 1975 - tiếp theo"
 author: "Phan Tấn Công"
-source: "https://sachhiem.net/LICHSU/P/PhanTanCong_02A.php"
+source: "/LICHSU/P/PhanTanCong_02A"
 category: "Chính trị"
 lang: vi
 wordCount: 8520
-image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nha.jpg"
+image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/Dot.jpg"
 ---
 
-<p align="center"><a href="https://www.sachhiem.net/">
-<img border="0" src="https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nha.jpg"></a>10-Mar 
+<p align="center">10-Mar 
 -2026</p>
  <div class="tomluoc">
- <p>(kỳ trước: <a href="https://sachhiem.net/LICHSU/P/PhanTanCong_02.php">Tan Tác Cảnh Chợ Chiều</a>)</p> 
+ <p>(kỳ trước: <a href="/LICHSU/P/PhanTanCong_02">Tan Tác Cảnh Chợ Chiều</a>)</p> 
 <p><i>Mấy ngày làm xong hóa đơn thu tiền thì tôi đã có chỗ bàn làm việc ngay cái phòng tôi ở mới đây thôi, mở cửa ra đường lộ bên kia là Câu Lạc Bộ SQ cũ. Lúc này có nhiều phóng viên tìm gặp tôi, cũng như các anh trên Tỉnh nghe tên tôi, họ mến mộ đến thăm hỏi, cái bọn CM 30 xu lại đem lòng ghét ganh, tụ tâp nói xấu tôi. </i></p>
  </div>
 <p><img src="https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/Dot.jpg" width="10" height="10" alt=""> GIÃ TỪ SỰ NGHIỆP ĐIỆN LỰC. </p>

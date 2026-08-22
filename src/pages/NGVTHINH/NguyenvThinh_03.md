@@ -3,7 +3,7 @@ layout: ../../layouts/Article.astro
 title: "Kẻ Láng Giềng Bất Hảo!"
 author: "BS. Nguyễn Văn Thịnh"
 date: 2014-10-11
-source: "https://sachhiem.net/NGVTHINH/NguyenvThinh_03.php"
+source: "/NGVTHINH/NguyenvThinh_03"
 category: "Chính trị"
 lang: vi
 wordCount: 3494

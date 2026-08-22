@@ -2,10 +2,10 @@
 layout: ../../../layouts/Article.astro
 title: "VĂN HÓA và TUẦN VĂN HÓA PHẬT GIÁO"
 author: "Minh Mẫn"
-source: "https://sachhiem.net/null"
+source: "/null"
 lang: vi
 wordCount: 2088
-image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nha.jpg"
+image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/MINHMAN/img/TuanVanhoa.JPG"
 ---
 
 <div align="center" style="position: relative; left: 0; top: 0">
@@ -21,8 +21,7 @@ image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nha.jpg"
 <tr><td width="100%">
 <div style="padding-left: 50px; padding-right: 50px"> 
 	<table border="0" cellpadding="1" width="86%" cols="2"><tbody><tr>
-	<td><a href="https://www.sachhiem.net/">
-	<img border="0" src="https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nha.jpg"></a></td>
+	<td></td>
 <td valign="top" width="210"><p>12 tháng 12, 2009</p></td></tr></tbody></table>
 	
 		<p><span class="First"><b><font size="5">
@@ -237,7 +236,7 @@ image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nha.jpg"
 
 <tr><td colspan="2"> 
 
-			<a href="https://sachhiem.net/MINHMAN/MMdir.php"><p class="trang">Trang Minh Mẫn</p></a>
+			<a href="/MINHMAN/MMdir"><p class="trang">Trang Minh Mẫn</p></a>
 
 </td></tr>
 

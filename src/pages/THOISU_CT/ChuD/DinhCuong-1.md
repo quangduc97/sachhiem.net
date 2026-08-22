@@ -3,7 +3,7 @@ layout: ../../../layouts/Article.astro
 title: "Babylift Operation – Thêm Một Sự Thật Đau Lòng"
 author: "Đinh Cương"
 date: 2016-07-16
-source: "https://sachhiem.net/THOISU_CT/ChuD/DinhCuong-1.php"
+source: "/THOISU_CT/ChuD/DinhCuong-1"
 category: "Chính trị"
 lang: vi
 wordCount: 876
@@ -20,7 +20,7 @@ image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/THOISU_CT/Hinh/US-VN
  <p align="center"><img src="https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/THOISU_CT/Hinh/US-VN/BabyLift_C5A_Galaxy.jpg" width="450" height="299" alt="chiếc chở cô nhi bị rơi C-5A Galaxy"></p>
  <p align="center"><i>Chiếc máy bay chở cô nhi bị rơi </i><a href="https://photos.mlive.com/4466/gallery/operating_baby_lift_40th_reuni/index.html#/0">Ảnh "Vietnam War Fall Of Saigon Photo Gallery"</a></p>
  <p>Bấy giờ người ta mới biết đến Babylift Operation do chính TT. G. Ford phát động từ một ngày trước đó. Chiến dịch này cốt dùng 30 chuyến bay để mang 3300 trẻ được cho là từ các viện mồ côi đến 4 vùng là Mỹ, Canada, Châu Âu và Úc để giao cho các cha mẹ nuôi đã đăng ký từ trước. Trong số này có Nguyễn Thị Cẩm Tú được mấy tháng tuổi. Khi được cha mẹ nuôi nhận đến Úc thì cô được đổi tên thành Cath Turner.</p>
-<p>37 năm sau, cô là một phóng viên của Al Jazeera đã tìm lại được mẹ ruột ở TP HCM sau vài chuyến quay về VN; đã làm một phóng sự dài mang tên <a href="https://sachhiem.net/XAHOI/xhH/HuyenLam0.php">“So Close So Far Away” (Tuy Gần Mà Xa)</a>. Có rất nhiều trẻ trong Chiến dịch này khi lớn lên đã về lại quê xưa cốt tìm người thân, với nhiều kết quả khác nhau.</p>
+<p>37 năm sau, cô là một phóng viên của Al Jazeera đã tìm lại được mẹ ruột ở TP HCM sau vài chuyến quay về VN; đã làm một phóng sự dài mang tên <a href="/XAHOI/xhH/HuyenLam0">“So Close So Far Away” (Tuy Gần Mà Xa)</a>. Có rất nhiều trẻ trong Chiến dịch này khi lớn lên đã về lại quê xưa cốt tìm người thân, với nhiều kết quả khác nhau.</p>
 <p align="center"><img src="https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/THOISU_CT/Hinh/US-VN/CathTurner_home.jpg" width="480" height="270" alt=""></p>
 <p align="center"><i>Ảnh của trang </i><a href="https://www.aljazeera.com/programmes/aljazeeracorrespondent/2012/10/201210101123347249.html">aljazeera.com</a></p>
 <p>Điều đáng nói về bộ phim phóng sự kể trên, Cath Turner đã tìm được một trong những kẻ thiết kế Chiến dịch Babylift Operation còn sống ở L.A., California, đó là Frank W. Snepp. Ông ta không lạ gì với chiến tranh VN, kẻ đã viết cuốn Decent Interval nổi danh, được phát hành năm 1977. </p>
@@ -46,4 +46,4 @@ image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/THOISU_CT/Hinh/US-VN
   <p>_________________</p>
   <p><b>Cùng đề tài:</b></p>
   <p>- <i>Tuy Gần Mà Xa! Nỗi Buồn Con Chốt Thí</i> (Huyền Lam)</p>
-  <p><a href="https://sachhiem.net/XAHOI/xhH/HuyenLam0.php">https://sachhiem.net/XAHOI/xhH/HuyenLam0.php</a></p>
+  <p><a href="/XAHOI/xhH/HuyenLam0">https://sachhiem.net/XAHOI/xhH/HuyenLam0.php</a></p>

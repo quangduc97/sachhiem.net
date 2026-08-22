@@ -2,7 +2,7 @@
 layout: ../../../layouts/Article.astro
 title: "Tại Sao Dòng Giống Việt Lại Tồn Tại Một Bọn Lai Căng Khốn Nạn Đến Vậy?"
 date: 2016-10-18
-source: "https://sachhiem.net/THOISU_CT/ChuM/MiLuDau_02.php"
+source: "/THOISU_CT/ChuM/MiLuDau_02"
 category: "Chính trị"
 lang: vi
 wordCount: 1110

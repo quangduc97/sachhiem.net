@@ -3,7 +3,7 @@ layout: ../../../layouts/Article.astro
 title: "Cao Đẹp Làm Sao!"
 author: "Văn Thi Các"
 date: 2016-07-08
-source: "https://sachhiem.net/XAHOI/xhV/VanCatThi.php"
+source: "/XAHOI/xhV/VanCatThi"
 category: "Chính trị"
 lang: vi
 wordCount: 947

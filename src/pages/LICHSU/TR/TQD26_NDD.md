@@ -3,7 +3,7 @@ layout: ../../../layouts/Article.astro
 title: "Lá Thư Của Bà Nhu"
 author: "Trần Quang Diệu trích thuật"
 date: 2013-05-13
-source: "https://sachhiem.net/index.php?content=showrecipe&id=5636"
+source: "/LICHSU/TR/TQD26_NDD"
 category: "Lịch sử"
 lang: vi
 wordCount: 2023

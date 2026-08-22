@@ -3,7 +3,7 @@ layout: ../../../layouts/Article.astro
 title: "Lá Thư Gửi TT Obama Của Người Phụ Nữ Việt Nam Nguyện Hiến Xác Cho Nhà Khoa Học Mỹ"
 author: "Phạm Thị Nhí"
 date: 2016-05-24
-source: "https://sachhiem.net/THOISU_CT/ChuT/TinSoha01.php"
+source: "/THOISU_CT/ChuT/TinSoha01"
 category: "Chính trị"
 lang: vi
 wordCount: 4792

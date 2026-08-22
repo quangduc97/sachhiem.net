@@ -3,7 +3,7 @@ layout: ../../../layouts/Article.astro
 title: "Nhận Rõ Trò Gạ Gẫm Muốn Tưởng Nhớ Tên Gián Điệp Đắc Lộ"
 author: "SDBP"
 date: 2016-02-28
-source: "https://sachhiem.net/TONGIAO/tgS/SonDa2.php"
+source: "/TONGIAO/tgS/SonDa2"
 category: "Chính trị"
 lang: vi
 wordCount: 2427
@@ -50,7 +50,7 @@ image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/PEOPLE/TranDu
     ...................................................................</p>
 <p>
     <b>Tại sao họ phải phá chùa mà xây nhà thờ như vậy?</b></p>
-  <p> Theo lá thư đề ngày 6-5-1887 của Giám-mục Puginier gửi Bộ Trưởng Hải Quân và Thuộc Địa Pháp: <i>“J'affirme  que du moment où le Tonkin deviendra Chrétien, il deviendra aussi la petite  France de L' Extreme-Orient, absolument comme les iles Philippines sont une  petite Espagne."</i> Bác Bửu-Biền dịch: <i>“<b>Tôi khẳng định rằng ngày nào mà Bắc Kỳ (Tonkin) biến thành một xứ Thiên Chúa giáo thì nó sẽ trở thành một nước Pháp Bé Nhỏ ở Viễn Đông (Extrême - Orient), giống hệt như Phi Luât Tân (</b>Philippines<b>),  một nước Tây Ban Nha Nhỏ</b>.”</i>(<a href="https://sachhiem.net/BUIKHA/BuiKha01_NTT.php">Nguyễn-Kha &amp; Trần-Chung-Ngọc, Nguyễn-Trường-Tộ: Thực Chất Con Người &amp; Di Thảo </a>(Garden Grove,  CA: Giao Điểm, 1998), tr 126.)</p>
+  <p> Theo lá thư đề ngày 6-5-1887 của Giám-mục Puginier gửi Bộ Trưởng Hải Quân và Thuộc Địa Pháp: <i>“J'affirme  que du moment où le Tonkin deviendra Chrétien, il deviendra aussi la petite  France de L' Extreme-Orient, absolument comme les iles Philippines sont une  petite Espagne."</i> Bác Bửu-Biền dịch: <i>“<b>Tôi khẳng định rằng ngày nào mà Bắc Kỳ (Tonkin) biến thành một xứ Thiên Chúa giáo thì nó sẽ trở thành một nước Pháp Bé Nhỏ ở Viễn Đông (Extrême - Orient), giống hệt như Phi Luât Tân (</b>Philippines<b>),  một nước Tây Ban Nha Nhỏ</b>.”</i>(<a href="/BUIKHA/BuiKha01_NTT">Nguyễn-Kha &amp; Trần-Chung-Ngọc, Nguyễn-Trường-Tộ: Thực Chất Con Người &amp; Di Thảo </a>(Garden Grove,  CA: Giao Điểm, 1998), tr 126.)</p>
   <p align="center"><img src="https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/BUIKHA/img/NgTTo.jpg" width="200" height="306" alt="Nguyễn Trường Tộ"></p>
   <p>____________</p>
 <p>

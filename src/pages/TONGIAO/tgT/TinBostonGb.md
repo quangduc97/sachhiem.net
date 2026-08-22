@@ -3,7 +3,7 @@ layout: ../../../layouts/Article.astro
 title: "Linh Mục Bị 3 Năm Tù Vì Trộm Tiền Họ Đạo Vegas Để Cờ Bạc"
 author: "Thông Cáo Báo Chí"
 date: 2012-02-02
-source: "https://sachhiem.net/TONGIAO/tgT/TinBostonGb.php"
+source: "/TONGIAO/tgT/TinBostonGb"
 category: "Tác giả"
 lang: vi
 wordCount: 724

@@ -3,7 +3,7 @@ layout: ../../layouts/Article.astro
 title: "Bẻ Gãy Các Luận Cứ Của Thiên Chúa Giáo"
 author: "Trần Tiên Long giới thiệu"
 date: 2016-07-06
-source: "https://sachhiem.net/null"
+source: "/null"
 category: "Đối thoại"
 lang: vi
 wordCount: 3587
@@ -26,7 +26,7 @@ image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/SACHNGOAI/Hinhanh/BI
 		<p class="Tuaduoi">Beyond Belief - A Buddhist Critique of Fundamentalist Christianity </p>
 		
 		</div>
-  <p>[Nguồn: <a href="https://sachhiem.net/SACHNGOAI/BEYOND/BYDBLF02.php">https://sachhiem.net/SACHNGOAI/BEYOND/BYDBLF02.php</a>]</p>
+  <p>[Nguồn: <a href="/SACHNGOAI/BEYOND/BYDBLF02">https://sachhiem.net/SACHNGOAI/BEYOND/BYDBLF02.php</a>]</p>
   
 <div class="danbai">
   <p><b>Gồm có: </b> <br>
@@ -78,9 +78,9 @@ image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/SACHNGOAI/Hinhanh/BI
  <a href="/TTL/#eig" name="neig"><p class="TuaDoLeft"> <b>Lời Chứng </b></p></a>
  <p>   Sau khi mọi luận cứ  đều thất bại, cuối cùng người tín đồ Thiên Chúa giáo có thể sẽ cố thuyết phục  chúng ta rằng Chúa Trời hiện hữu bằng cách đánh vào mối xúc động của người đối  thoại. Một tín đồ như thế sẽ nói, và có thể nói một cách rất thành thực, rằng “<i>Tôi  thường không có hạnh phúc và sống bất mãn, nhưng sau khi hiến mình cho Chúa  Trời thì tôi sung sướng và bình an với chính mình</i>” Các lời chứng đó có thể  làm ta cảm động sâu xa, nhưng họ chứng minh được cái gì? Có hàng triệu người  cũng sống hạnh phúc và có ý nghĩa như vậy sau khi họ theo Phật giáo, Ấn Độ  giáo, hay Hồi giáo. Tương tự như thế, sự thật là có nhiều người mà cuộc sống đã  chẳng thay đổi gì tốt hơn sau khi họ trở thành tín đồ Thiên Chúa giáo – đôi lúc  các nhược điểm xưa và các vấn nạn cũ trong cuộc sống vẫn còn đó. Thế thì luận  cứ này, cũng như tất cả mọi luận cứ khác, chẳng chứng minh được sự hiện hữu của  Chúa Trời của Thiên Chúa giáo. </p>
 <p class="TacgiaL">   A.L. De Silva </p>
-<p class="nguonL">[Nguồn: <a href="https://sachhiem.net/SACHNGOAI/BEYOND/BYDBLF02.php">https://sachhiem.net/SACHNGOAI/BEYOND/BYDBLF02.php</a>]</p>
+<p class="nguonL">[Nguồn: <a href="/SACHNGOAI/BEYOND/BYDBLF02">https://sachhiem.net/SACHNGOAI/BEYOND/BYDBLF02.php</a>]</p>
 <p class="nguonL">Link  <a href="/TTL/TranTL73">https://sachhiem.net/TTL/TranTL73.php </a></p>
  <hr>
-<p><a href="https://sachhiem.net/TTL/List.inc.php">Các bài của Trần Tiên Long » </a></p>
+<p><a href="/TTL/List.inc">Các bài của Trần Tiên Long » </a></p>
 
 <hr>

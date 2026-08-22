@@ -3,7 +3,7 @@ layout: ../../../layouts/Article.astro
 title: "Bí Mật Về \"Hải Chiến Hoàng Sa 1974\" và Những Điều Chưa Biết"
 author: "Thanh Niên Đất Việt"
 date: 2014-01-19
-source: "https://sachhiem.net/LICHSU/H/HaichienHS_bimat.php"
+source: "/LICHSU/H/HaichienHS_bimat"
 category: "Lịch sử"
 lang: vi
 wordCount: 6837

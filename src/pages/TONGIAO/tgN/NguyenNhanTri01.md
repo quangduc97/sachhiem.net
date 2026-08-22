@@ -3,14 +3,14 @@ layout: ../../../layouts/Article.astro
 title: "Thắc Mắc Về Phục Sinh"
 author: "Nguyễn Nhân Trí"
 date: 2017-04-18
-source: "https://sachhiem.net/TONGIAO/tgN/NguyenNhanTri01.php"
+source: "/TONGIAO/tgN/NguyenNhanTri01"
 category: "Chính trị"
 lang: vi
 wordCount: 4511
-image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nha.jpg"
+image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/TONGIAO/IMG/JESUS/Phucsinh_motrong.jpg"
 ---
 
-<p align="center"><a href="https://www.sachhiem.net/"> <img border="0" src="https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nha.jpg"></a> ngày 18-Apr-2017</p>
+<p align="center"> ngày 18-Apr-2017</p>
   <p align="center"> <a href="https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.devhttps://www.damau.org/wp-content/uploads/2017/04/Easter-picture-for-nnt-article.jpg"> <img border="0" width="217" height="287" src="https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/TONGIAO/IMG/JESUS/Phucsinh_motrong.jpg" alt="Easter picture for nnt article"></a></p>
   <p><span class="First">T</span>ôi  có nhiều thắc mắc về khái niệm Phục Sinh.</p>
 <p>    Trong  quá trình khảo cứu, những giải thích tôi tìm gặp thường chỉ đưa đến các thắc  mắc mới nữa. Và những giải thích cho các thắc mắc mới nầy cũng lại chỉ đưa đến  các thắc mắc khác hơn nữa.</p>

@@ -3,11 +3,11 @@ layout: ../../../layouts/Article.astro
 title: "Cuốn Sách... Giết Người"
 author: "Theo Hạnh Nguyên (Tuổi Trẻ/New York Times)"
 date: 2011-11-29
-source: "https://sachhiem.net/null"
+source: "/null"
 category: "Tác giả"
 lang: vi
 wordCount: 1384
-image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.devhttps://sachhiem.net/images/nha.jpg"
+image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.devhttps://sachhiem.net/TONGIAO/IMG/LINHMUC/MichaelDebiPearl.jpg"
 ---
 
 <div align="center" style="position: relative; left: 0; top: 0">
@@ -23,8 +23,7 @@ image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.devhttps://sachhiem.net/
 <tr><td width="100%">
 <div style="padding-left: 50px; padding-right: 50px"> 
 	<table border="0" cellpadding="1" width="80%" cols="2"><tbody><tr>
-	<td><a href="https://sachhiem.net/index.php">
-	<img border="0" src="https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.devhttps://sachhiem.net/images/nha.jpg"></a></td>
+	<td></td>
 <td valign="top" width="232">	</td>
 </tr>	</tbody></table>
  <p><i>LTS: "<b>Cuốn sách... giết người</b>" là tựa bài báo đăng trên trang mạng Tiền Phong ngày 29 tháng 11, 2011 (https://www.tienphong.vn/Khoa-Giao/Giao-Duc/559571/Cuon-sach-giet-nguoi-tpol.html.)<br>
@@ -35,7 +34,7 @@ image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.devhttps://sachhiem.net/
       đạo Ki-tô mà các nhà truyền giáo vẫn làm từ bao nhiêu thế kỷ trước
      đây ở Á châu mà sachhiem.net đã có nhiều bài nói đến, tiêu biểu là Alexander
      de Rhodes. Riêng về ông Michael Pearl, Sachhiem.net đã có nói đến trong
-   đề tài <a href="https://sachhiem.net/TONGIAO/tgT/TinPTVN1.php">"Truyện
+   đề tài <a href="/TONGIAO/tgT/TinPTVN1">"Truyện
        Tranh Ki-tô Giáo Bôi Bẩn Các Tôn Giáo Khác"</a> (https://sachhiem.net/TONGIAO/tgT/TinPTVN1.php).
        Xin những cơ quan có trách nhiệm về việc bảo tồn và phát huy văn hóa 
 hết sức quan tâm đến các tác phẩm tương tự.  Những kiểu truyền đạo  này không

@@ -3,7 +3,7 @@ layout: ../../../layouts/Article.astro
 title: "TP Đà Nẵng đã tiếp thu ý kiến, ngưng đặt tên đường cho Rhodes"
 author: "GS Lê Cung"
 date: 2019-11-21
-source: "https://sachhiem.net/THOISU_CT/SH/TpDaNang_tenduong.php"
+source: "/THOISU_CT/SH/TpDaNang_tenduong"
 category: "Chính trị"
 lang: vi
 wordCount: 414
@@ -30,8 +30,8 @@ image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/TONGIAO/IMG/LINHMUC/
  <p class="nguonL">Nguồn email gửi cho nhóm trí thức.</p>
  <p>___________</p>
  <p><b>Bài liên quan: </b></p>
- <p>- V/V Đặt Tên Đường Ở TP Đà Nẵng - Thư Kiến Nghị Của Một Nhóm Trí Thức Trong Nước &nbsp;(Xin đọc <a href="https://www.sachhiem.net/DOITHOAI/Rhodes.php">https://sachhiem.net/DOITHOAI/Rhodes.php</a>)</p>
- <p>- Các bài trong trang nhà liên quan đến nhân vật Alexandre De Rhodes: <a href="https://sachhiem.net/TONGIAO/ListRhodes.inc.php">https://sachhiem.net/TONGIAO/ListRhodes.inc.php</a></p>
+ <p>- V/V Đặt Tên Đường Ở TP Đà Nẵng - Thư Kiến Nghị Của Một Nhóm Trí Thức Trong Nước &nbsp;(Xin đọc <a href="/DOITHOAI/Rhodes">https://sachhiem.net/DOITHOAI/Rhodes.php</a>)</p>
+ <p>- Các bài trong trang nhà liên quan đến nhân vật Alexandre De Rhodes: <a href="/TONGIAO/ListRhodes.inc">https://sachhiem.net/TONGIAO/ListRhodes.inc.php</a></p>
  <p>___________</p>
  <p><b>Phụ lục:</b></p>
  <p class="Tuaduoi">Ảnh chụp văn thư chính thức:</p>

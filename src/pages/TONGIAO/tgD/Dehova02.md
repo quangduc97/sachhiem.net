@@ -3,16 +3,16 @@ layout: ../../../layouts/Article.astro
 title: "‘Giám Mục’ Ấu Dâm Bị Kết Án 330 Năm Tù"
 author: "Dê Hô Va chuyển ngữ"
 date: 2012-09-20
-source: "https://sachhiem.net/TONGIAO/tgD/Dehova02.php"
+source: "/TONGIAO/tgD/Dehova02"
 category: "Tác giả"
 lang: vi
 wordCount: 1119
-image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nha.jpg"
+image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/TONGIAO/IMG/TINHDUC/OscarDPerez.jpg"
 ---
 
 <table border="0" cellpadding="0" width="250" align="center">
 		  <tbody><tr>
-	<td width="125"><a href="/index"><img border="0" src="https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nha.jpg"></a></td>
+	<td width="125"></td>
     <td valign="top">20-Sep-2012</td>
 		</tr></tbody></table>
 

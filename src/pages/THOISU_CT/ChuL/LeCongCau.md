@@ -3,16 +3,16 @@ layout: ../../../layouts/Article.astro
 title: "Lời Cảnh Báo Đến Ông Liên Thành"
 author: "Lê Công Cầu"
 date: 2012-06-18
-source: "https://sachhiem.net/THOISU_CT/ChuL/LeCongCau.php"
+source: "/THOISU_CT/ChuL/LeCongCau"
 category: "Chính trị"
 lang: vi
 wordCount: 2936
-image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nha.jpg"
+image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/TONGIAO/IMG/PHAPNAN/tuongdaiTQD.jpg"
 ---
 
 <table border="0" cellpadding="0" width="250" align="center">
             <tbody><tr>
-              <td width="125"><a href="/index"><img border="0" src="https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nha.jpg"></a></td>
+              <td width="125"></td>
               <td valign="middle">18-Jun-2012</td>
             </tr>
           </tbody></table>

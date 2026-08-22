@@ -3,7 +3,7 @@ layout: ../../../layouts/Article.astro
 title: "Cảnh Giác Với Bạo Lực Tôn Giáo"
 author: "Đào Văn Bình"
 date: 2019-04-22
-source: "https://sachhiem.net/DAOVB/TG/DaovBinh12.php"
+source: "/DAOVB/TG/DaovBinh12"
 category: "Tác giả"
 lang: vi
 wordCount: 1889

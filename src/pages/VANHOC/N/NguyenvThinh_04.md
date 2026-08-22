@@ -3,7 +3,7 @@ layout: ../../../layouts/Article.astro
 title: "CÁI ĐÈN CÙ TRẦN ĐĨNH"
 author: "BS. Nguyễn Văn Thịnh"
 date: 2014-11-18
-source: "https://sachhiem.net/VANHOC/N/NguyenvThinh_04.php"
+source: "/VANHOC/N/NguyenvThinh_04"
 category: "Chính trị"
 lang: vi
 wordCount: 8758
@@ -57,4 +57,4 @@ image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/MISC/DenCu.jp
 <p class="nguonL"> tác giả gửi bản điện tử </p>
 
 ___________________
-<p>Các bài của Nguyễn Văn Thịnh: link <a href="https://sachhiem.net/VANHOC/N/ListNVTh.inc.php" target="_blank">https://sachhiem.net/VANHOC/N/ListNVTh.inc.php</a></p>
+<p>Các bài của Nguyễn Văn Thịnh: link <a href="/VANHOC/N/ListNVTh.inc" target="_blank">https://sachhiem.net/VANHOC/N/ListNVTh.inc.php</a></p>

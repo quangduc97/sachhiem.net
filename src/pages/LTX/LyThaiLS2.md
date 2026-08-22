@@ -3,7 +3,7 @@ layout: ../../layouts/Article.astro
 title: "Chiến Tranh Việt Nam Và Một Vài Con Số"
 author: "Lý Thái Xuân sưu tầm"
 date: 2016-06-05
-source: "https://sachhiem.net/LTX/LyThaiLS2.php"
+source: "/LTX/LyThaiLS2"
 category: "Lịch sử"
 lang: vi
 wordCount: 673

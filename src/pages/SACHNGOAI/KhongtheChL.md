@@ -2,7 +2,7 @@
 layout: ../../layouts/Article.astro
 title: "KHÔNG THỂ CHUỘC LỖI"
 author: "ALLEN HASSAN"
-source: "https://sachhiem.net/nguồn: https://giaodiemonline.com/2007/07/chuocloi.htm"
+source: "/nguồn: https://giaodiemonline.com/2007/07/chuocloi.htm"
 lang: vi
 wordCount: 8788
 image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/SACHNGOAI/file:///C:/SACHHIEM/images/mail.gif"

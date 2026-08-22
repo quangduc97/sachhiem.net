@@ -3,7 +3,7 @@ layout: ../../../../layouts/Article.astro
 title: "Thông điệp chính trị cuối cùng của Bertrand Russell về Palestine (1970)"
 author: "Bertrand Russell/ Lê Dọn Bàn dịch"
 date: 2023-11-12
-source: "https://sachhiem.net/SACHNGOAI/snL/LeDonBan/LDB17.php"
+source: "/SACHNGOAI/snL/LeDonBan/LDB17"
 category: "Tác giả"
 lang: vi
 wordCount: 3388

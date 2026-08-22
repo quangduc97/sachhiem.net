@@ -3,7 +3,7 @@ layout: ../../../layouts/Article.astro
 title: "Một Văn Kiện Của ITCCS (International Tribunal into Crimes of Church and State)"
 author: "Trần Chung Ngọc dịch"
 date: 2013-09-25
-source: "https://sachhiem.net/index.php?content=showrecipe&id=5765"
+source: "/TCN/TCNtg/TCN151_ITCCS"
 lang: vi
 wordCount: 3792
 image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/TONGIAO/IMG/VATICAN/POPE/TCN151_ITCCS_FrancisI.jpg"
@@ -56,8 +56,8 @@ image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/TONGIAO/IMG/VATICAN/
  <p><b>Nhà Nước và nhân dân phi Ca-tô cũng  nênnghĩ đến chuyện đòi lại những cơ sở, chùa chiền của Phật Giáo và của quốc  gia </b> mà trước đây đã bị Ca-tô Giáo dựa vào thế lực thực dân Pháp và chính quyền  Ca-tô ở miền Nam cưỡng đoạt.&nbsp; Người Ca-tô  cũng nên suy nghĩ về “hội thánh” của mình trước những sự kiện về Vatican và  Giáo hội Ca-tô Rô-ma trên diễn đàn quốc tế. (TCN)</p>
  <p>_________________</p>
  <p>[SH: xin đọc thêm :</p>
- <p> - <a href="https://sachhiem.net/TONGIAO/TOAKHAM/QuocThang.php">"<i>Đã đến lúc phải khôi phục Báo Thiên: Tinh Hoa Việt Tộc</i>"</a> của Quốc Thắng. </p>
- <p>- <a href="https://sachhiem.net/LTX/LyThaiTS10.php"><i>Tòa Án ITCCS Tuyên Bố: Giáo Hội Ca Tô Rô Ma Là Một Tổ Chức Tội Phạm Quốc Tế </i></a> của Lý Thái. </p>
+ <p> - <a href="/TONGIAO/TOAKHAM/QuocThang">"<i>Đã đến lúc phải khôi phục Báo Thiên: Tinh Hoa Việt Tộc</i>"</a> của Quốc Thắng. </p>
+ <p>- <a href="/LTX/LyThaiTS10"><i>Tòa Án ITCCS Tuyên Bố: Giáo Hội Ca Tô Rô Ma Là Một Tổ Chức Tội Phạm Quốc Tế </i></a> của Lý Thái. </p>
 </div>
 
 
@@ -121,9 +121,9 @@ image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/TONGIAO/IMG/VATICAN/
 <p>  ICLCJ - 04/08/13 </p>
 <p>____________________ </p>
 <p><b>Bài liên quan:</b></p>
-<p>-<a href="https://sachhiem.net/LTX/LyThaiTS10.php"> ITCCS Tuyên Bố: Giáo Hội Ca Tô Rô Ma Là Một Tổ Chức Tội Phạm Quốc Tế </a>(Lý Thái tổng hợp) </p>
-<p>- <a href="https://sachhiem.net/TCN/TCNtg/TCN151_ITCCS.php">Một Văn Kiện Của ITCCS [Tòa Án Quốc Tế Xét Xử Tội Ác Của Giáo Hội và Chính Quyền]</a> - Trần Chung Ngọc dịch </p>
-<p>- <a href="https://sachhiem.net/TONGIAO/tgT/TinBBC4.php">Vatican Sẽ Điều Trần Trước LHQ Về Ấu Dâm</a> (Tin BBC) </p>
+<p>-<a href="/LTX/LyThaiTS10"> ITCCS Tuyên Bố: Giáo Hội Ca Tô Rô Ma Là Một Tổ Chức Tội Phạm Quốc Tế </a>(Lý Thái tổng hợp) </p>
+<p>- <a href="/TCN/TCNtg/TCN151_ITCCS">Một Văn Kiện Của ITCCS [Tòa Án Quốc Tế Xét Xử Tội Ác Của Giáo Hội và Chính Quyền]</a> - Trần Chung Ngọc dịch </p>
+<p>- <a href="/TONGIAO/tgT/TinBBC4">Vatican Sẽ Điều Trần Trước LHQ Về Ấu Dâm</a> (Tin BBC) </p>
 
 
  <hr>

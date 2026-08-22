@@ -3,14 +3,14 @@ layout: ../../../layouts/Article.astro
 title: "Đảo chìm: \"Thần bút\" của người lính biển Trường Sa"
 author: "Nguyễn Lương Phán"
 date: 2009-03-01
-source: "https://sachhiem.net/VANHOC/N/NguyenLuongPhan.php"
+source: "/VANHOC/N/NguyenLuongPhan"
 category: "Văn hóa"
 lang: vi
 wordCount: 3230
-image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nha.jpg"
+image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/VANHOC/Hinh/TranDangKhoa.jpg"
 ---
 
-<p align="center"><a href="https://www.sachhiem.net/"> <img border="0" src="https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nha.jpg"></a> 25 tháng 6,  2009
+<p align="center"> 25 tháng 6,  2009
 	</p>
 		<p><span class="Date">https://hocmoingay.blogspot.com/2009/03/ao-chim-than-but-cua-nguoi-linh-bien.html ngày 3/01/09</span></p>
 		<p>

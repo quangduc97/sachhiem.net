@@ -3,7 +3,7 @@ layout: ../../../layouts/Article.astro
 title: "Những Tiền Đề Xác Lập Vai Trò Phật Giáo"
 author: "GS Lê Cung *"
 date: 2021-06-10
-source: "https://sachhiem.net/LICHSU/L/LeCung11b.php"
+source: "/LICHSU/L/LeCung11b"
 category: "Chính trị"
 lang: vi
 wordCount: 4211

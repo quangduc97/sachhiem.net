@@ -3,7 +3,7 @@ layout: ../../../layouts/Article.astro
 title: "Chút Kỷ Niệm Về Cố Giáo Sư Trần Chung Ngọc"
 author: "Ngô Triệu Lịch"
 date: 2019-01-27
-source: "https://sachhiem.net/TONGIAO/tgN/NgoTrieuLich_04.php"
+source: "/TONGIAO/tgN/NgoTrieuLich_04"
 category: "Tác giả"
 lang: vi
 wordCount: 6440
@@ -32,7 +32,7 @@ image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/MISC/1nennhan
     </div>
     <p align="center"><img src="https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/CHUCTET/CauRongDaNang.jpg" width="400" height="229" alt=""></p>
     <p align="center"><i>Cầu Rồng Đà Nẵng phun lửa, nước trong 4 đêm dịp Tết Nguyên đán</i></p>
-    <p><a href="https://sachhiem.net/DOITHOAI/HoangVu1.php" class="TuaChuong">LINH VẬT RỒNG TRONG Ý THỨC HỆ TIN LÀNH</a></p>
+    <p><a href="/DOITHOAI/HoangVu1" class="TuaChuong">LINH VẬT RỒNG TRONG Ý THỨC HỆ TIN LÀNH</a></p>
     <p>Phê bình truyền thuyết “Con Rồng Cháu Tiên” Nhân đọc điện thư “thách đấu” với GS Trần Chung Ngọc của Tiến sĩ Lê Anh Huy</p>
     <p> Cuối tháng 12/2004, Giáo sư Trần Chung Ngọc cho công bố điện thư trao đổi giữa ông và Tiến sĩ Lê Anh Huy trên mạng lưới Giao Điểm. Được biết Ts Lê Anh Huy thách thức tranh luận với Gs Trần Chung Ngọc về “Thuyết Tiến Hóa”, nhưng Gs Trần Chung Ngọc đã không chấp nhận tranh luận, vì ông cho rằng việc đó phí thì giờ, vô ích. Trong các điện thư của Lê Anh Huy, tôi chú ý một đoạn nguyên văn như sau:</p>
     <p><i>“Thuyết Tiến Hóa là một atheist (spiritual) belief. Nó cũng như thuyết Con Rồng Cháu Tiên vậy. Người có học cũng như người bình dân, ai cũng có thể tin vào thuyết này. Trong bài “con rồng cháu tiên” tôi có viết vấn đề spiritual belief nó nằm trong mặt phẳng tâm linh, sâu hơn, bao trùm hơn, mặt phẳng tâm trí. Mặt phẳng tâm linh không che mặt phẳng tâm trí…</i>”</p>
@@ -86,11 +86,11 @@ image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/MISC/1nennhan
     <p><i>“-Hãy tỉnh lại đi, ông Tiến sĩ ơi !"</i></p>
  <p>___________</p>
  <p><b>Cùng tác giả:</b></p>
- <p>- <a href="https://sachhiem.net/TONGIAO/tgN/NgoTrieuLich_02.php">Về Một Vấn Đề “Gây Khó Chịu” Của Vatican Nhưng Không Phải Cho Người Châu Á</a> (Ngô triệu Lịch) </p>
- <p>- <a href="https://sachhiem.net/TONGIAO/tgN/NgoTrieuLich_01.php">Giêsu Có Phải Là Một Tiên Tri Không? </a>
+ <p>- <a href="/TONGIAO/tgN/NgoTrieuLich_02">Về Một Vấn Đề “Gây Khó Chịu” Của Vatican Nhưng Không Phải Cho Người Châu Á</a> (Ngô triệu Lịch) </p>
+ <p>- <a href="/TONGIAO/tgN/NgoTrieuLich_01">Giêsu Có Phải Là Một Tiên Tri Không? </a>
 (Ngô triệu Lịch)</p>
- <p>- <a href="https://sachhiem.net/TONGIAO/tgN/NgoTrieuLich.php">Nhận Định Về Văn Kiện “Tông Huấn Giáo Hội Tại Châu Á”</a> (Ecclesia In Asia) - (Ngô triệu Lịch) </p>
- <p>- <a href="https://sachhiem.net/TONGIAO/tgN/NgoTrieuLich_03.php">Sách Lược Mục Vụ Của Vatican - Hội Nhập Văn Hóa Hay Xâm Lăng Văn Hóa?</a> (Ngô Triệu Lịch)
+ <p>- <a href="/TONGIAO/tgN/NgoTrieuLich">Nhận Định Về Văn Kiện “Tông Huấn Giáo Hội Tại Châu Á”</a> (Ecclesia In Asia) - (Ngô triệu Lịch) </p>
+ <p>- <a href="/TONGIAO/tgN/NgoTrieuLich_03">Sách Lược Mục Vụ Của Vatican - Hội Nhập Văn Hóa Hay Xâm Lăng Văn Hóa?</a> (Ngô Triệu Lịch)
 
 </p>
- <p>- <a href="https://sachhiem.net/TONGIAO/tgN/NgoTrieuLich_04.php">Chút Kỷ Niệm Về Cố Giáo Sư Trần Chung Ngọc </a>(Ngô Triệu Lịch)</p>
+ <p>- <a href="/TONGIAO/tgN/NgoTrieuLich_04">Chút Kỷ Niệm Về Cố Giáo Sư Trần Chung Ngọc </a>(Ngô Triệu Lịch)</p>

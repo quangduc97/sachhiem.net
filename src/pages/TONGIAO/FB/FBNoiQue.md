@@ -3,7 +3,7 @@ layout: ../../../layouts/Article.astro
 title: "Tin Lành Phê Bình Giáo Hội La Mã"
 author: "FB Noi Que"
 date: 2026-04-28
-source: "https://sachhiem.net/TONGIAO/FB/FBNoiQue.php"
+source: "/TONGIAO/FB/FBNoiQue"
 category: "Tác giả"
 lang: vi
 wordCount: 891

@@ -3,15 +3,15 @@ layout: ../../../layouts/Article.astro
 title: "Hiểu Biết Về Tâm Năng Dưỡng Sinh Và Đạo Phật"
 author: "Lê văn Cường"
 date: 2012-04-24
-source: "https://sachhiem.net/KHOAHOC/L/Levc_4.php"
+source: "/KHOAHOC/L/Levc_4"
 category: "Khoa học"
 lang: vi
 wordCount: 6208
-image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nha.jpg"
+image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/TONGIAO/IMG/PHAT/Phat_Gupta.jpg"
 ---
 
 <table border="0" cellpadding="1" align="center" width="250">
-<tbody><tr><td width="100"><a href="/index"><img border="0" src="https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nha.jpg"></a></td>
+<tbody><tr><td width="100"></td>
 		<td valign="top" width="198">24-Apr-2012</td>
 	</tr>
 </tbody></table>
@@ -129,7 +129,7 @@ image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nha.jpg"
   tỷ năm, (từ khi vũ trụ co về một điểm kỳ dị không có kích thước và bùng nổ
   lan rộng ra, nhiệt độ nguội dần đã tạo ra mọi ngân hà, thiên hà, thế giới vật
   chất trong vũ trụ như trái đất hiện nay).  Nhưng
-    thời gian trôi tại các Hố đen rất chậm (xem bài "<a href="https://sachhiem.net/index.php?content=showrecipe&amp;id=5252">Vận
+    thời gian trôi tại các Hố đen rất chậm (xem bài "<a href="/KHOAHOC/L/Levc_2">Vận
   Tốc Ánh Sáng Trong Không Gian Của Hố Đen</a>", cùng tác giả), và  mới đây,
   các nhà khoa học Tây Ban Nha khẳng định,<a href="https://www.khoahoc.com.vn/khampha/vu-tru/40121_Thoi-gian-co-the-ngung-troi.aspx"> vũ
     trụ sẽ ngừng giãn nở vào một ngày nào đó trong tương lai và khi ấy thời gian

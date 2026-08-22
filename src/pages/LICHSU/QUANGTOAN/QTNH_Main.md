@@ -2,7 +2,7 @@
 layout: ../../../layouts/Article.astro
 title: "Những Hoạt Động Của Bọn Phản Động Đội Lốt TCG"
 author: "Quang Toản - Nguyễn Hoài"
-source: "https://sachhiem.net/LICHSU/QUANGTOAN/QTNH_Main.php"
+source: "/LICHSU/QUANGTOAN/QTNH_Main"
 lang: vi
 wordCount: 5
 ---
@@ -18,7 +18,7 @@ wordCount: 5
 
 	 <iframe name="QTNH" src="/LICHSU/QUANGTOAN/QTNH_0.php" width="100%" height="2000" marginwidth="5" marginheight="5" hspace="0" vspace="0" frameborder="0" scrolling="auto" target="_blank"></iframe> 
  </td> </tr>
-<tr><td colspan="2"> <a href="https://sachhiem.net/LICHSU/QUANGTOAN/QTNH_Main.php"> <p class="trang">Trang Tài Liệu Tham Khảo</p>  </a>
+<tr><td colspan="2"> <a href="/LICHSU/QUANGTOAN/QTNH_Main"> <p class="trang">Trang Tài Liệu Tham Khảo</p>  </a>
 </td></tr>
 </tbody></table>
 </div>

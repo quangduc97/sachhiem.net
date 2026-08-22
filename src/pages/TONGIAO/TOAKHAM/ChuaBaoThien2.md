@@ -2,14 +2,14 @@
 layout: ../../../layouts/Article.astro
 title: "Từ Chùa Báo Thiên đến Tòa Khâm Sứ"
 author: "Sách Hiếm"
-source: "https://sachhiem.net/TONGIAO/TOAKHAM/ChuaBaoThien2.php"
+source: "/TONGIAO/TOAKHAM/ChuaBaoThien2"
 category: "Tác giả"
 lang: vi
 wordCount: 6647
-image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nha.jpg"
+image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/TONGIAO/IMG/Toakham/ToakhamNTD.jpg"
 ---
 
-<p align="center"><a href="https://sachhiem.net/index.php"><img border="0" hspace="20" src="https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nha.jpg"></a>28 tháng 5, 2008</p>
+<p align="center">28 tháng 5, 2008</p>
 	<p> <a href="/TONGIAO/SachTKS">1</a>&nbsp; <a href="/TONGIAO/TOAKHAM/ChuaBaoThien">2</a>&nbsp;
 <a href="/TONGIAO/TOAKHAM/ChuaBaoThien1">3</a>&nbsp;<b> <a href="/TONGIAO/TOAKHAM/ChuaBaoThien2">4</a></b></p>
 

@@ -3,7 +3,7 @@ layout: ../../../layouts/Article.astro
 title: "Bob Kerrey và “Thảm Kịch Mỹ” của Việt Nam"
 author: "Nguyễn Việt Thanh/ NYTimes/ Kevin Trần dịch"
 date: 2016-06-20
-source: "https://sachhiem.net/SACHNGOAI/snT/TranKevin_05.php"
+source: "/SACHNGOAI/snT/TranKevin_05"
 category: "Chính trị"
 lang: vi
 wordCount: 2485

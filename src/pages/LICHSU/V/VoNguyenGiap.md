@@ -3,7 +3,7 @@ layout: ../../../layouts/Article.astro
 title: "Nhân Dân Việt Nam Nhất Định Thắng Lợi,"
 author: "Đại Tướng Võ Nguyên Giáp"
 date: 2013-06-09
-source: "https://sachhiem.net/LICHSU/V/VoNguyenGiap.php"
+source: "/LICHSU/V/VoNguyenGiap"
 category: "Tác giả"
 lang: vi
 wordCount: 7131

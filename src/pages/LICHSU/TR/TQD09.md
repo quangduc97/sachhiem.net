@@ -3,15 +3,15 @@ layout: ../../../layouts/Article.astro
 title: "Đổ Lỗi Phật Giáo Làm Mất Miền Nam"
 author: "Trần Quang Diệu"
 date: 2012-03-27
-source: "https://sachhiem.net/LICHSU/TR/TQD09.php"
+source: "/LICHSU/TR/TQD09"
 category: "Lịch sử"
 lang: vi
 wordCount: 6076
-image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nha.jpg"
+image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/TONGIAO/IMG/CHUA/Chua1cot.jpg"
 ---
 
 <table border="0" cellpadding="0" width="250" align="center"><tbody><tr>
-	<td width="125"><a href="/index"><img border="0" src="https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nha.jpg"></a></td>
+	<td width="125"></td>
 <td valign="middle">27-Mar-2012</td>
 		</tr></tbody></table>
 
@@ -87,7 +87,7 @@ image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nha.jpg"
 <p>
                   Nhưng, những điều dựng chuyện ba xạo đó (nói rằng ông Diệm
                   giúp xây chùa Vĩnh Nghiêm, Xá Lợi…) đã sớm bị  bác bỏ bằng
-                    những sự kiện không thể phủ bác qua bài "<a href="https://sachhiem.net/LICHSU/TR/TQD08.php">Ông
+                    những sự kiện không thể phủ bác qua bài "<a href="/LICHSU/TR/TQD08">Ông
                     Ngô Đình Diệm Có Giúp Cho Phật Giáo Trong Việc Xây Cất Chùa
                     Chiền Không?</a>" (https://sachhiem.net/LICHSU/TR/TQD08.php) cùng
                     tác giả. Đơn giản chỉ vì đó là những

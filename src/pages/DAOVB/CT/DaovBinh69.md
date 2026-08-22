@@ -3,7 +3,7 @@ layout: ../../../layouts/Article.astro
 title: "Biển Đông: Trái Mìn Nổ Chậm?"
 author: "Đào Văn Bình"
 date: 2016-08-15
-source: "https://sachhiem.net/DAOVB/CT/DaovBinh69.php"
+source: "/DAOVB/CT/DaovBinh69"
 category: "Chính trị"
 lang: vi
 wordCount: 3592

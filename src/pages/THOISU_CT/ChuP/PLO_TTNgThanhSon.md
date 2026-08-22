@@ -3,7 +3,7 @@ layout: ../../../layouts/Article.astro
 title: "Thứ trưởng Ngoại giao Nguyễn Thanh Sơn:"
 author: "Thanh Mận /PLO thực hiện"
 date: 2014-05-02
-source: "https://sachhiem.net/THOISU_CT/ChuP/PLO_TTNgThanhSon.php"
+source: "/THOISU_CT/ChuP/PLO_TTNgThanhSon"
 category: "Chính trị"
 lang: vi
 wordCount: 1751

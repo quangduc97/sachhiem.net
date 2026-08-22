@@ -3,7 +3,7 @@ layout: ../../../layouts/Article.astro
 title: "Vĩnh biệt Chủ Tịch Nước Trần Đại Quang"
 author: "Trang nhà sachhiem.net"
 date: 2018-09-26
-source: "https://sachhiem.net/XAHOI/CHIABUON/Chiabuon14.php"
+source: "/XAHOI/CHIABUON/Chiabuon14"
 lang: vi
 wordCount: 922
 image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/LICHSU/IMG/NGODD/TDQ1.JPG"

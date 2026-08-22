@@ -3,15 +3,14 @@ layout: ../../../layouts/Article.astro
 title: "Lê Văn Tám Có Thật, Không Phải Truyền Thuyết - 2"
 author: "Cao Đức Trường/ TBVN_TPHCM"
 date: 2020-12-14
-source: "https://sachhiem.net/LICHSU/T/TuanBaoVanNghe01.php"
+source: "/LICHSU/T/TuanBaoVanNghe01"
 category: "Chính trị"
 lang: vi
 wordCount: 6290
-image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nha.jpg"
+image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/LICHSU/IMG/NHANVAT/LevanTam_cothat.JPG"
 ---
 
-<p align="center"><a href="https://www.sachhiem.net/">
-<img border="0" src="https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nha.jpg"></a> 
+<p align="center"> 
 ngày 14-Dec-2020</p>
  <div class="tomluoc">
    <p><i>Tên Tám là tên có thật, còn Lê Văn Tám, nếu đó là một phần của người đội trưởng Lê Văn Châu thì cũng là một việc gắn kết hợp lý, khi nói tới Lê Văn Tám ta lại nhớ tới Lê Văn Châu, chỉ vậy thôi, có lẽ cũng làm ấm lòng người đã hy sinh và người còn được hưởng hòa bình, độc lập hôm nay</i>.</p>

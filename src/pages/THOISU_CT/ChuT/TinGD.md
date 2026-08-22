@@ -3,7 +3,7 @@ layout: ../../../layouts/Article.astro
 title: "Trung Quốc Ráo Riết Thu Thập Bản Đồ Ở Hải Ngoại, Cảnh Báo Với Việt Nam"
 author: "Hồng Thủy/ Giaoduc.net"
 date: 2016-06-17
-source: "https://sachhiem.net/THOISU_CT/ChuT/TinGD.php"
+source: "/THOISU_CT/ChuT/TinGD"
 category: "Chính trị"
 lang: vi
 wordCount: 2995

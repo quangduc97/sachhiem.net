@@ -2,15 +2,15 @@
 layout: ../../../layouts/Article.astro
 title: "Về Vài Thắc Mắc Của \"Giới Trẻ\""
 author: "Trần Chung Ngọc"
-source: "https://sachhiem.net/TCN/TCNdt/TCNdt049.php"
+source: "/TCN/TCNdt/TCNdt049"
 category: "Đối thoại"
 lang: vi
 wordCount: 8896
-image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.devhttps://sachhiem.net/images/nha.jpg"
+image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/DOITHOAI/IMG/Doithoai3.jpg"
 ---
 
 <table border="0" width="250" align="center">
-    <tbody><tr><td width="106"><a href="https://sachhiem.net/index.php"><img border="0" src="https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.devhttps://sachhiem.net/images/nha.jpg"></a>    </td>
+    <tbody><tr><td width="106">    </td>
 <td valign="top" width="210"><p>26 tháng 9,  2010</p></td></tr></tbody></table>
 	
 		
@@ -339,10 +339,10 @@ image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.devhttps://sachhiem.net/
 	bịa ra và bắt “giới trẻ” học tập. </p>
 	<p>Hiện nay tài liệu lịch sử về chính quyền 
 	Ngô Đình Diệm đã rõ ràng. “Giới trẻ” có thể đọc trên
-	<a href="https://www.sachhiem.net/TCN/TCNls/TCNls06.php">
+	<a href="/TCN/TCNls/TCNls06">
 	https://www.sachhiem.net/TCN/TCNls/TCNls06.php</a>, bài “<i>Vài Nét Về Cụ 
 	Diệm</i>”, hoặc trên
-	<a href="https://www.sachhiem.net/NMQ/HOSOTOIAC/CH63_1a.php">
+	<a href="/NMQ/HOSOTOIAC/CH63_1a">
 	https://www.sachhiem.net/NMQ/HOSOTOIAC/CH63_1a.php</a>, bài “<i>Ngô Đình Diệm: Con Người Và Tội Ác</i>” của Giáo 
 	sư Nguyễn Mạnh Quang. </p>
 	<p>Còn chuyện đế quốc Mỹ có tàn ác dã man không thì 
@@ -352,7 +352,7 @@ image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.devhttps://sachhiem.net/
 	bài “<i>American Terrorism and Genocide of the Vietnamese People, 1945-1974</i>”. 
 	Bài này đã được dịch ra tiếng Việt là CHỦ NGHĨA KHỦNG BỐ VÀ DIỆT CHỦNG DÂN 
 	TỘC VIỆT NAM CỦA MỸ 1945 – 1974 và đăng trên 
-	<a href="https://www.sachhiem.net/TCN/TCNts/TCNts25.php">
+	<a href="/TCN/TCNts/TCNts25">
 	https://www.sachhiem.net/TCN/TCNts/TCNts25.php</a> với bản gốc bằng tiếng 
 	Anh<b>. </b>Sau đây là vài đoạn ngắn trong đó:</p>
 	

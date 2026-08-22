@@ -2,14 +2,14 @@
 layout: ../../layouts/Article.astro
 title: "Măng Đòi Chống Bão"
 author: "Bé Hằng"
-source: "https://sachhiem.net/DOITHOAI/LeMinhHang.php"
+source: "/DOITHOAI/LeMinhHang"
 category: "Đối thoại"
 lang: vi
 wordCount: 7646
-image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nha.jpg"
+image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/TONGIAO/IMG/CHURCH/HonchanChua.jpg"
 ---
 
-<table border="0" align="center" width="250">   <tbody><tr>    <td width="100"><a href="https://sachhiem.net/index.php"><img border="0" src="https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nha.jpg"></a></td> 
+<table border="0" align="center" width="250">   <tbody><tr>    <td width="100"></td> 
 <td><p>22 tháng 12, 2010</p>
 	</td></tr></tbody></table>
 

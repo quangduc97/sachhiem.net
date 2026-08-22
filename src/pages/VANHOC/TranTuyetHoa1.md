@@ -2,11 +2,11 @@
 layout: ../../layouts/Article.astro
 title: "Nhạc sĩ Phạm Thế Mỹ,"
 author: "Trần Tuyết Hoa"
-source: "https://sachhiem.net/VHPG - 20/10/07"
+source: "/VHPG - 20/10/07"
 category: "Văn hóa"
 lang: vi
 wordCount: 2787
-image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nha.jpg"
+image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/VANHOC/Hinh/PhamtheMy.jpg"
 ---
 
 <div align="center" style="position: relative; left: 0; top: 0">
@@ -34,7 +34,7 @@ image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nha.jpg"
 <div style="padding-left: 50px; padding-right: 50px"> 
 
 		<table border="0" width="600"><tbody><tr>
-			<td><a href="/index"><img border="0" src="https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nha.jpg"></a></td>
+			<td></td>
 				
 	<td valign="top">	27 tháng 10, 2007
 	</td></tr></tbody></table>

@@ -3,7 +3,7 @@ layout: ../../../layouts/Article.astro
 title: "Nhật Ký Biển Đông: Chiến Tranh Nguyên Tử Gần Kề?"
 author: "Đào Văn Bình"
 date: 2018-11-08
-source: "https://sachhiem.net/DAOVB/CT/DaovBinh121.php"
+source: "/DAOVB/CT/DaovBinh121"
 category: "Chính trị"
 lang: vi
 wordCount: 6714

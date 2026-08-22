@@ -3,7 +3,7 @@ layout: ../../../layouts/Article.astro
 title: "HỒ SƠ MẬT 1963"
 author: "Nhóm Thiện Pháp thực hiện"
 date: 2013-12-30
-source: "https://sachhiem.net/LICHSU/T/ThienPhap.php"
+source: "/LICHSU/T/ThienPhap"
 category: "Tác giả"
 lang: vi
 wordCount: 4874

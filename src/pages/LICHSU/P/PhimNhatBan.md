@@ -3,7 +3,7 @@ layout: ../../../layouts/Article.astro
 title: "Việt Nam Thống Nhất"
 author: "Văn Hóa Việt Nam TV"
 date: 2014-05-03
-source: "https://sachhiem.net/LICHSU/P/PhimNhatBan.php"
+source: "/LICHSU/P/PhimNhatBan"
 category: "Tác giả"
 lang: vi
 wordCount: 500

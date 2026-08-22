@@ -3,7 +3,7 @@ layout: ../../../layouts/Article.astro
 title: "Phật Tử và Cộng Đồng Mạng Lên Tiếng"
 author: "Minh Thạnh"
 date: 2017-04-08
-source: "https://sachhiem.net/TONGIAO/tgM/MinhThanh15.php"
+source: "/TONGIAO/tgM/MinhThanh15"
 category: "Tác giả"
 lang: vi
 wordCount: 10252

@@ -2,16 +2,15 @@
 layout: ../../../layouts/Article.astro
 title: "GIÁO HỘI LA MÃ:"
 author: "- Nguyễn Mạnh Quang -"
-source: "https://sachhiem.net/NMQ/HOSOTOIAC/CHdannhap2.php"
+source: "/NMQ/HOSOTOIAC/CHdannhap2"
 lang: vi
 wordCount: 16622
-image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nha.jpg"
 ---
 
 <p class="Tuaduoi">LỊCH SỬ VÀ HỒ SƠ TỘI ÁC </p>
 	
 
-	<p align="center"><a href="/index"><img hspace="20" border="0" src="https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nha.jpg"></a> đăng ngày 10 Sep, 2007</p>
+	<p align="center"> đăng ngày 10 Sep, 2007</p>
  <p align="center"> <a href="/NMQ/HOSOTOIAC/CHdannhap">« </a>&nbsp;<a href="/NMQ/HOSOTOIAC/VATICAN_Main"> ● </a>&nbsp;<a href="/NMQ/HOSOTOIAC/CH01">»</a> </p>
 <center>
 <p class="CHUONG">CHƯƠNG DẪN NHẬP</p>

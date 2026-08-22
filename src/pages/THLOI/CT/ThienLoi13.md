@@ -3,7 +3,7 @@ layout: ../../../layouts/Article.astro
 title: "“Ăn Cơm Quốc Gia Thờ Ma Vatican”"
 author: "Thiên Lôi"
 date: 2013-02-14
-source: "https://sachhiem.net/THLOI/CT/ThienLoi13.php"
+source: "/THLOI/CT/ThienLoi13"
 category: "Chính trị"
 lang: vi
 wordCount: 5431
@@ -162,7 +162,7 @@ image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/TONGIAO/IMG/VATICAN/
           <p> Nguyên là khi quân Pháp tấn công Đà Nẵng, y có mặt trong đám giáo gian Bắc kỳ theo vào làm  lính tập cho Pháp. Về sau hắn được gởi đến nhà dòng Pénang để được huấn luyện  thêm mà bọn cố đạo gọi là “học đạo”, rồi trở về theo tướng Charner đánh phá   Quảng Nam năm 1861. </p>
           <p> Đến tháng   chạp cùng năm thì bọn cố đạo xúi giục tên Phụng ra Bắc, mạo xưng là Lê duy Minh   dòng dõi nhà Lê, rồi tự xưng là minh chủ, (nên còn dược gọi là Lê Duy Phụng) cùng với một   người đạo trưởng (cở ‘trùm sò’ bây giờ) tên là Trường làm mưu chủ, và tên Ước,   tên Độ dấy binh ở Quảng Yên. Đảng tên Phụng đem quân giặc Khách ở ngoài bể vào   đánh lấy phủ Hải-Ninh, rồi lại thông với giặc Khách và giặc ta ở các tỉnh, để   làm loạn ở Bắc kỳ. Tháng ba năm 1862, ở Bắc Ninh có tên cai tổng Nguyễn Văn   Thịnh (tục gọi là cai tổng Vàng) xưng làm nguyên súy, nhập đảng với tên Phụng,   đem binh đi đánh phủ Lạng Giang, huyện Yên Dũng, và vây thành Bắc Ninh. Vào năm   Tự Đức thứ 16, 1863, uy thế của giặc rất lớn và tình hình thật khẩn trương cho   triều đình. Có lúc chúng tập hợp hơn 500 chiếc thuyền ở đảo Các Bà và ở núi Đồ   Sơn, có ý muốn đem quân vào đánh Kinh đô. </p>
           <p> Tuy vậy,   sau 4 năm vất vả, quan quân triều đình dưới quyền thống lĩnh của quân-vụ   đại-thần Nguyễn Tri Phương rốt lại cũng tiêu diệt được đám giáo gian phản động   này vào năm 1865. </p>
-          <p>(Xem <a href="https://sachhiem.net/THLOI/CT/ThienLoi1.php">‘Vì Sao Đám Dân Chúa...” trong SH</a>)</p>
+          <p>(Xem <a href="/THLOI/CT/ThienLoi1">‘Vì Sao Đám Dân Chúa...” trong SH</a>)</p>
           <hr width="30%" align="left">
           <p><br>
             @ Chiến Tranh  Chống Quân Xâm Lược Pháp: <a href="https://vi.wikipedia.org/wiki/Chi%E1%BA%BFn_tranh_Ph%C3%A1p-%C4%90%E1%BA%A1i_Nam_(1858-1884)">https://vi.wikipedia.org/wiki/...</a></p>

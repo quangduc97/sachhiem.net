@@ -3,15 +3,15 @@ layout: ../../../layouts/Article.astro
 title: "Olympic 2012:"
 author: "Trần Chung Ngọc"
 date: 2012-08-26
-source: "https://sachhiem.net/TCN/TCNdt/TCNdt063.php"
+source: "/TCN/TCNdt/TCNdt063.php"
 category: "Đối thoại"
 lang: en
 wordCount: 4642
-image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nha.jpg"
+image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/SACHNGOAI/Hinhanh/BIASACH/HowWell.jpg"
 ---
 
 <table border="0" width="250" align="center">
-    <tbody><tr><td width="100"><a href="https://sachhiem.net/index.php"><img border="0" src="https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nha.jpg"></a>    </td>   
+    <tbody><tr><td width="100">    </td>   
     <td width="257"></td>
     </tr></tbody></table>
     <p><strong><i>Chúng ta biết được bao nhiêu về những lợi nhuận mà sự mê tín
@@ -361,7 +361,7 @@ or submit to the church)</p></td>
     <p>Trần Chung Ngọc</p>
     <p>Gõ vội ngày 17 tháng 8, 2012 </p>
 <hr> <p>Mời đọc thêm: </p>
-<p><a href="https://sachhiem.net/TTL/TranTL28.php"> Cái Rốn Của Vũ Trụ </a></p>
+<p><a href="/TTL/TranTL28"> Cái Rốn Của Vũ Trụ </a></p>
 
 
 <hr>

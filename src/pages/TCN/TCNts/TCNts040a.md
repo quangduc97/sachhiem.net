@@ -3,7 +3,7 @@ layout: ../../../layouts/Article.astro
 title: "Kiến Thức 30/4 Qua Các Danh Nhân"
 author: "Trần Chung Ngọc"
 date: 2014-05-04
-source: "https://sachhiem.net/TCN/TCNts/TCNts040a.php"
+source: "/TCN/TCNts/TCNts040a"
 category: "Chính trị"
 lang: vi
 wordCount: 6287
@@ -218,7 +218,7 @@ kiện củ khoai”.
   <a href="https://www.intellnet.org/resources/american_terrorism/Vietnamesevictims.html">
   https://www.intellnet.org/ </a>. 
   Bài này đã được đăng trên trang nhà Sách Hiếm:
-  <a href="https://www.sachhiem.net/TCN/TCNts/TCNts25.php">
+  <a href="/TCN/TCNts/TCNts25">
     https://www.sachhiem.net/TCN/TCNts/TCNts25.php</a> với nguyên bản bằng tiếng Anh.</p>
 <div class="indent50">
   <p><i>Những tội phạm chiến tranh thuộc Thủy, Lục, Không quân Hoa Kỳ đã tàn 

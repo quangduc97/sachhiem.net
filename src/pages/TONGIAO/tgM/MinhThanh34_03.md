@@ -3,7 +3,7 @@ layout: ../../../layouts/Article.astro
 title: "[VATICANOLOGY] Cờ Trắng Cho Ukraina: Bài Học Cay Đắng Cho Quốc Gia Nào Tin Vào Chính Quyền Vatican (Bài 1)"
 author: "Minh Thạnh"
 date: 2024-03-11
-source: "https://sachhiem.net/TONGIAO/tgM/MinhThanh34_03.php"
+source: "/TONGIAO/tgM/MinhThanh34_03"
 category: "Chính trị"
 lang: vi
 wordCount: 7088

@@ -2,7 +2,7 @@
 layout: ../../../layouts/Article.astro
 title: "Bia Công Thần Alexandre De Rhodes Do Pháp Dựng Tại Hà Nội Năm 1941"
 author: "Viên Như"
-source: "https://sachhiem.net/&nbsp;"
+source: "/&nbsp;"
 category: "Chính trị"
 lang: vi
 wordCount: 15881
@@ -279,7 +279,7 @@ image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/LICHSU/IMG/ALEX/Bia_
  <p>- <a href="https://vnexpress.net/thoi-su/can-ton-vinh-nguoi-viet-gop-cong-hinh-thanh-chu-quoc-ngu-4034412.html">Cần tôn vinh người Việt góp công hình thành chữ quốc ngữ. </a>- Nguyễn Đông, Chủ nhật, 29/12/2019</p>
  <p>- <a href="https://www.msn.com/vi-vn/entertainment/news/%C4%91%C3%A0-n%E1%BA%B5ng-s%E1%BA%BD-%C4%91%E1%BA%B7t-t%C3%AAn-%C4%91%C6%B0%E1%BB%9Dng-%C3%B4ng-t%E1%BB%95-ch%E1%BB%AF-qu%E1%BB%91c-ng%E1%BB%AF-khi-%C4%91i%E1%BB%81u-ki%E1%BB%87n-ch%C3%ADn-mu%E1%BB%93i/ar-BBYqJpF">Đà Nẵng sẽ đặt tên đường "ông tổ" chữ Quốc ngữ khi điều kiện chín muồi. </a> Hoàng Văn Minh 29/12/2019</p>
  <p>- <a href="https://cadn.com.vn/news/71_218461_100-nam-tri-an-ton-vinh-chu-quoc-ngu-.aspx">100 năm tri ân, tôn vinh chữ Quốc ngữ!</a> PHAN THỦY 1/1/2020</p>
- <p>-<a href="https://sachhiem.net/DOITHOAI/Rhodes2.php"> Nhóm người gửi kiến nghị không đặt tên đường hai giáo sĩ: "<i>Chúng tôi bị khủng bố!</i>" </a></p>
- <p><a href="https://sachhiem.net/LICHSU/ListQUOCNGU.inc.php">- Những bài viết liên quan đến "Chữ Quốc Ngữ"</a></p>
+ <p>-<a href="/DOITHOAI/Rhodes2"> Nhóm người gửi kiến nghị không đặt tên đường hai giáo sĩ: "<i>Chúng tôi bị khủng bố!</i>" </a></p>
+ <p><a href="/LICHSU/ListQUOCNGU.inc">- Những bài viết liên quan đến "Chữ Quốc Ngữ"</a></p>
  <p><img src="https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/THOISU_CT/Hinh/VIETNAM/DONGTAM/TT_NXP.jpg" width="300" height="294" alt=""><img src="https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/THOISU_CT/Hinh/VIETNAM/DONGTAM/FB_CG.jpg" width="400" height="711" alt=""></p>
  <p><img src="https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/THOISU_CT/Hinh/VIETNAM/VUONRAU_LH/linhmuc.jpg" width="400" height="711" alt=""></p>

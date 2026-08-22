@@ -3,7 +3,7 @@ layout: ../../../layouts/Article.astro
 title: "Washington Lấy Tư Cách Gì Để Chỉ Trích Hà Nội Trước Thềm Chuyến Thăm Của Tổng Thống Putin"
 author: "Sharma Rachana"
 date: 2024-06-22
-source: "https://sachhiem.net/SACHNGOAI/FB/SharmaRachana_01.php"
+source: "/SACHNGOAI/FB/SharmaRachana_01"
 category: "Chính trị"
 lang: vi
 wordCount: 4773

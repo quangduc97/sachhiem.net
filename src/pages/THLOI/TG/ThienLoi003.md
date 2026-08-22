@@ -2,14 +2,14 @@
 layout: ../../../layouts/Article.astro
 title: "Cha Henry, Một Người Cha Bí Mật"
 author: "Gary Tuchman và Katherine Wojtecki / CNN"
-source: "https://sachhiem.net/THLOI/TG/ThienLoi003.php"
+source: "/THLOI/TG/ThienLoi003"
 category: "Tác giả"
 lang: vi
 wordCount: 1948
-image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nha.jpg"
+image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/TONGIAO/IMG/LINHMUC/ChaHenry.jpg"
 ---
 
-<p align="center">  <a href="/index"><img border="0" src="https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nha.jpg"></a> 18 tháng 12, 2009	</p>
+<p align="center">   18 tháng 12, 2009	</p>
 <p><img src="https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/TONGIAO/IMG/LINHMUC/ChaHenry.jpg" align="left" hspace="10">O'Fallon, 
 Missouri (CNN) - Nathan Halbach 22 tuổi, được chẩn đoán mắc bệnh ung thư não gần 
 chết. Cậu ta  biết “chuyện kinh hoàng” đang chờ chực phía trước.</p>

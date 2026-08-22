@@ -3,7 +3,7 @@ layout: ../../../layouts/Article.astro
 title: "45 Năm Ngày Giải Phóng Quảng Ngãi!"
 author: "Chế Trung Hiếu"
 date: 2020-03-23
-source: "https://sachhiem.net/THOISU_CT/ChuC/Chetrunghieu02.php"
+source: "/THOISU_CT/ChuC/Chetrunghieu02"
 category: "Chính trị"
 lang: vi
 wordCount: 2351

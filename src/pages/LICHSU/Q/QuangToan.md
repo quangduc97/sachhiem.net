@@ -2,11 +2,11 @@
 layout: ../../../layouts/Article.astro
 title: "Những tổ chức đội lốt Công giáo chống lại Kháng chiến"
 author: "Quang Toản và Nguyễn Hoài"
-source: "https://sachhiem.net/nguồn https://www.giaodiem.com/doithoaiIII/Buichu_phatdiem.htm"
+source: "/nguồn https://www.giaodiem.com/doithoaiIII/Buichu_phatdiem.htm"
 category: "Chính trị"
 lang: vi
 wordCount: 4402
-image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nha.jpg"
+image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/sqdot.gif"
 ---
 
 <div align="center" style="position: relative; left: 0; top: 0">
@@ -36,8 +36,7 @@ image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nha.jpg"
 				<div style="padding-left: 40px; padding-right: 40px">
 					<table border="0" cellpadding="10" width="600" cols="2">
 						<tbody><tr>
-							<td width="174"><a href="/index">
-							<img border="0" src="https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nha.jpg"></a></td>
+							<td width="174"></td>
 							<td valign="top">12 tháng 3, 2009
 	</td>
 						</tr>

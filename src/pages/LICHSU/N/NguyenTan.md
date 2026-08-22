@@ -3,7 +3,7 @@ layout: ../../../layouts/Article.astro
 title: "Lịch Sử Về Cái Tên Của Làng An Bằng"
 author: "Nguyễn Tấn"
 date: 2012-04-08
-source: "https://sachhiem.net/LICHSU/N/NguyenTan.php"
+source: "/LICHSU/N/NguyenTan"
 category: "Lịch sử"
 lang: vi
 wordCount: 1844
@@ -173,11 +173,11 @@ image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/LICHSU/IMG/NguyenTan
 		<p><b>Chú thích:</b></p>
 		<p><a name="note1" href="/LICHSU/#1">(1)</a> Động lực khiến cô Bạo theo đạo không
 		  phải là<b> ơn Chúa</b> nào cả, nhưng là vì ảnh hưởng xúi giục do thế lực của chủ nhà
-		  có đạo, mà cô Bạo chỉ là người giúp việc. Xin xem bài  <a href="https://sachhiem.net/XAHOI/xhL/LeMinhTuu.php">"Việc
+		  có đạo, mà cô Bạo chỉ là người giúp việc. Xin xem bài  <a href="/XAHOI/xhL/LeMinhTuu">"Việc
 		    Tranh Chấp Đất Của Giáo Xứ An Bằng" https://sachhiem.net/XAHOI/xhL/LeMinhTuu.php</a> của
 	      Lê Minh Tựu sẽ rõ.</p>
 		<p><a name="note2" href="/LICHSU/#2">(2)</a> Muốn hiểu sự thật về mấy chữ "<b>Không
-		    biết cố nói thế nào</b>", xin xem bài <a href="https://sachhiem.net/XAHOI/xhL/LeMinhTuu.php">"Việc
+		    biết cố nói thế nào</b>", xin xem bài <a href="/XAHOI/xhL/LeMinhTuu">"Việc
 		    Tranh Chấp Đất Của Giáo Xứ An Bằng" https://sachhiem.net/XAHOI/xhL/LeMinhTuu.php</a> của
 		    Lê Minh Tựu. Về những chữ "<b>trở lại đạo Chúa</b>" mà linh mục xài,
 		    chúng tôi xem là không đúng, gia đình ông Văn Hòa trưóc đây chưa
@@ -188,7 +188,7 @@ image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/LICHSU/IMG/NguyenTan
 <hr width="30%" align="left">
 		<p>■ Các bài liên hệ đến chủ đề:</p>
 		<p><a href="/LICHSU/N/LeMinhTuu">- Gốc Gác Lang An Bằng (Lê Minh Tựu)</a></p>
-		<p>- <a href="https://sachhiem.net/LICHSU/N/NguyenTan.php">Lịch Sử Tên Làng
+		<p>- <a href="/LICHSU/N/NguyenTan">Lịch Sử Tên Làng
 	      An Bằng (Nguyễn Tấn)</a></p>
 		
 <hr>

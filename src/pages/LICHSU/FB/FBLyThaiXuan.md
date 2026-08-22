@@ -3,7 +3,7 @@ layout: ../../../layouts/Article.astro
 title: "Việc Cho Phép Học Sinh Bỏ Qua Môn Lịch Sử"
 author: "FB Lý Thái Xuân"
 date: 2022-04-24
-source: "https://sachhiem.net/LICHSU/FB/FBLyThaiXuan.php"
+source: "/LICHSU/FB/FBLyThaiXuan"
 category: "Chính trị"
 lang: vi
 wordCount: 2544

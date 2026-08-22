@@ -3,7 +3,7 @@ layout: ../../layouts/Article.astro
 title: "Chúa Yêu Thương “Cách Riêng”"
 author: "Lý Thái Xuân"
 date: 2014-04-04
-source: "https://sachhiem.net/LTX/LythaiTG13.php"
+source: "/LTX/LythaiTG13"
 category: "Tác giả"
 lang: vi
 wordCount: 1256

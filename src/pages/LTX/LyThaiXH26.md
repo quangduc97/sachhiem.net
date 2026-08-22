@@ -3,7 +3,7 @@ layout: ../../layouts/Article.astro
 title: "Hai Niềm Vui"
 author: "Lý Thái Xuân"
 date: 2015-12-21
-source: "https://sachhiem.net/LTX/LyThaiXH26.php"
+source: "/LTX/LyThaiXH26"
 category: "Xã hội"
 lang: vi
 wordCount: 706

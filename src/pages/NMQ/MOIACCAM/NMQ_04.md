@@ -2,17 +2,17 @@
 layout: ../../../layouts/Article.astro
 title: "Mối Ác Cảm Của Nhân Dân Thế Giới"
 author: "Nguyễn Mạnh Quang"
-source: "https://sachhiem.net/NMQ/MOIACCAM/NMQ_04.php"
+source: "/NMQ/MOIACCAM/NMQ_04"
 category: "Tác giả"
 lang: vi
 wordCount: 9888
-image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nha.jpg"
+image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/print.gif"
 ---
 
 <p class="Tuaduoi">Đối Với Giáo Hội La Mã </p>
      
      
-     <p align="center"><a href="/index"><img hspace="20" border="0" src="https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nha.jpg"></a>   bản rời <a href="/NMQ/MOIACCAM/NMQ_00" target="top"> <img border="0" src="https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/print.gif" width="18" height="18"> </a>   |      toàn tập <a target="_top" href="/NMQ/MOIACCAM/MoiAcCam_Main"> ☞ </a>  | 02 tháng 4, 2010 </p>
+     <p align="center">   bản rời <a href="/NMQ/MOIACCAM/NMQ_00" target="top"> <img border="0" src="https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/print.gif" width="18" height="18"> </a>   |      toàn tập <a target="_top" href="/NMQ/MOIACCAM/MoiAcCam_Main"> ☞ </a>  | 02 tháng 4, 2010 </p>
      
      <p class="CHUONG">CHƯƠNG 5</p>
      <p class="TuaChuong">QUYỀN LỰC LÀM CHO NỘI BỘ  GIÁO HỘI LA MÃ XÂU XÉ LẪN NHAU VÀ PHÂN HÓA</p>
@@ -137,7 +137,7 @@ image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nha.jpg"
      <p> <a name="_edn60" href="/NMQ/#_ednref60">[60]</a> Arnold Schrier &amp; T. Walter Wallbank, <i> Living World History</i> (Glenview, Illinois: Scott, Foresman and Company,       1975), p. 398. Nguyên văn: “A third measure, the Act of Settlement of 1691, provided that no Roman Catholic could be ruler of England, automatically excluding the descendants of James II by his second wife.”</p>
      <p> <a name="_edn61" href="/NMQ/#_ednref61">[61]</a> Malachi Martin, <i>The Decline And Fall Of The Roman Church</i> (New       York: Putnam ’s, 1981) pp. 232-233.       Nguyên Văn: "First, France, "eldest daughter of the church "he used to call it, abolished all religion, beheaded its king, enthroned Reason officially as supreme deity, massacred over 17,000 priests and over 30,000 nuns as well as forty-seven bishops, abolished all seminaries, schools, religious orders, burned all churches and libraries, then sent the Corsian Bonaparte to liberate italy and Rome." "Just as you please," wrote the Paris government to the Corsian. "Destroy Rome and the papacy utterly " "We are the friends of the descandants of Brutus and the Scipios... Our intention is to restore the Capitol to free the Roman people from their long slavery," The Corsian declared in May 1796, just before taking Rome.       Then the capture, and the humiliation of the Peace of Tolentino between the papacy and the Corsian: a ransom of 46,000 scudi in three installement (Pius melted down all available silver and gold ornaments); 100 objects d'art and 500 rare manuscripts from Vatican; the opening of all papal harbors to the French fleet; renunciation of all property in italy and France and Naples and Sicily - everywhere. "They made us their prisoner Spina," mutters Pius. "Peace treaty! Bah!" The Vatican and Quirinal were occupied by French troops. They deposed Pius, and created the republic of Rome...." </p>
      <p> <a name="_edn62" href="/NMQ/#_ednref62">[62]</a> J.E. Boshier, The French Revolution       (New York: W. W Norton &amp; Company, 1988), p 155. (Tell me, Frenchmen, is it possible? if that man you call the Holly Father takes it into his head to oppose your laws, do you dare, are you stupid and base enough, to give them up? What do you expect from a Pope? Screw the Pope, believe me; it is your turn at last; for ten centuries the Pope has screwed you."</p>
-     <p> <a name="_edn63" href="/NMQ/#_ednref63">[63]</a> Nguồn: <a target="_top" href="https://www.bibliotecapleyades.net/vatican/esp_vatican32.htm"> "20 Reasons To Abandon Christianity" By: Chaz Bufe </a>, Trần Chung Ngọc giới       thiệu "20 LÝ DO ĐỂ TỪ BỎ KI-TÔ GIÁO" <a target="_top" href="https://sachhiem.net/TCN/TCNtg/TCN78.php"> https://sachhiem.net/TCN/TCNtg/TCN78.php</a> </p>
-     <p> <a name="_edn64" href="/NMQ/#_ednref64">[64]</a>Trần Chung Ngọc. “<i>Vài nét về sự       suy thóai của Ki-tô Giáo ở Tây Phương</i>. Nguồn: <a target="_top" href="https://sachhiem.net/TCN/TCNtg/TCN09.php.%20Ngày%2028/8/%202007"> https://sachhiem.net/TCN/TCNtg/TCN09.php</a>.</p>
+     <p> <a name="_edn63" href="/NMQ/#_ednref63">[63]</a> Nguồn: <a target="_top" href="https://www.bibliotecapleyades.net/vatican/esp_vatican32.htm"> "20 Reasons To Abandon Christianity" By: Chaz Bufe </a>, Trần Chung Ngọc giới       thiệu "20 LÝ DO ĐỂ TỪ BỎ KI-TÔ GIÁO" <a target="_top" href="/TCN/TCNtg/TCN78"> https://sachhiem.net/TCN/TCNtg/TCN78.php</a> </p>
+     <p> <a name="_edn64" href="/NMQ/#_ednref64">[64]</a>Trần Chung Ngọc. “<i>Vài nét về sự       suy thóai của Ki-tô Giáo ở Tây Phương</i>. Nguồn: <a target="_top" href="/TCN/TCNtg/TCN09.php.%20Ngày%2028/8/%202007"> https://sachhiem.net/TCN/TCNtg/TCN09.php</a>.</p>
      <p> <a name="_edn65" href="/NMQ/#_ednref65">[65]</a> Nhiều tác giả<i>, Vatican Thú Tội và       Xin Lỗi? </i>(Garden Grove, CA: Giao Điểm, 2000), tr. 245-246.</p>
-     <p> <a name="_edn66" href="/NMQ/#_ednref66">[66]</a> Bài <a target="_top" href="https://giaodiemonline.com/2008/01/matna.htm">"Các Giáo Hoàng"       https://giaodiemonline.com/</a> và "<a target="_top" href="https://sachhiem.net/TCN/TCNtg/TCN27.php">VÀI       NHẬN XÉT NHÂN ĐỌC THƯ CỦA GH BENEDICT XVI GỬI NGƯỜI CA-TÔ RÔ-MA Ở TRUNG QUỐC"       https://sachhiem.net</a> </p>
+     <p> <a name="_edn66" href="/NMQ/#_ednref66">[66]</a> Bài <a target="_top" href="https://giaodiemonline.com/2008/01/matna.htm">"Các Giáo Hoàng"       https://giaodiemonline.com/</a> và "<a target="_top" href="/TCN/TCNtg/TCN27">VÀI       NHẬN XÉT NHÂN ĐỌC THƯ CỦA GH BENEDICT XVI GỬI NGƯỜI CA-TÔ RÔ-MA Ở TRUNG QUỐC"       https://sachhiem.net</a> </p>

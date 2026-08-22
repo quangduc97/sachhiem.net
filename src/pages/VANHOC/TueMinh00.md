@@ -3,17 +3,16 @@ layout: ../../layouts/Article.astro
 title: "Cảm tác BODH GAYA"
 author: "Tuệ Minh"
 date: 2012-03-31
-source: "https://sachhiem.net/VANHOC/TueMinh00.php"
+source: "/VANHOC/TueMinh00"
 category: "Văn hóa"
 lang: vi
 wordCount: 399
-image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nha.jpg"
+image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/TONGIAO/IMG/CHUA/bodedaotrang.jpg"
 ---
 
 <table border="0" cellpadding="1" width="250" align="center">
 		<tbody><tr>
-			<td><a href="/index">
-			<img border="0" src="https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nha.jpg"></a></td>
+			<td></td>
 			<td valign="top" width="244">
 			</td>
 		</tr>
@@ -108,7 +107,7 @@ image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nha.jpg"
           <p>Bodh Gaya 22.2.12</p>
           <hr>
 <p><b>Những bài khác của Tuệ Minh:</b></p>
-<p>- <a href="https://sachhiem.net/VANHOC/TueMinh00.php">Cảm tác BODH GAYA (Bồ Đề Đạo Tràng) </a></p>
-<p>- <a href="https://sachhiem.net/VANHOC/TueMinh01.php">Uống Trà </a></p>
-<p>- <a href="https://sachhiem.net/VANHOC/TueMinh02.php">Khí Phách Việt</a> </p>
+<p>- <a href="/VANHOC/TueMinh00">Cảm tác BODH GAYA (Bồ Đề Đạo Tràng) </a></p>
+<p>- <a href="/VANHOC/TueMinh01">Uống Trà </a></p>
+<p>- <a href="/VANHOC/TueMinh02">Khí Phách Việt</a> </p>
     </div>

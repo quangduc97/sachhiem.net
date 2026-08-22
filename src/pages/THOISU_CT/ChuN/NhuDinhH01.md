@@ -3,16 +3,16 @@ layout: ../../../layouts/Article.astro
 title: "Nguồn Gốc Và Thế-Trận Đối Đầu Giữa Trung Hoa Và Nhật Bản"
 author: "Nhữ Đình Hùng"
 date: 2012-09-25
-source: "https://sachhiem.net/THOISU_CT/ChuN/NhuDinhH01.php"
+source: "/THOISU_CT/ChuN/NhuDinhH01"
 category: "Chính trị"
 lang: vi
 wordCount: 2688
-image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nha.jpg"
+image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/THOISU_CT/Hinh/JAPAN/NhuDinhH01_Senkaku-Shoto.jpg"
 ---
 
 <table border="0" cellpadding="0" width="250" align="center">
             <tbody><tr>
-              <td width="125"><a href="/index"><img border="0" src="https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nha.jpg"></a></td>
+              <td width="125"></td>
               <td valign="middle">25-Sep-2012</td>
             </tr>
           </tbody></table>

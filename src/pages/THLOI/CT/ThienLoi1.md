@@ -2,15 +2,14 @@
 layout: ../../../layouts/Article.astro
 title: "VÌ SAO ĐÁM DÂN CHÚA VIỆT LẠI CHỐNG CỘNG ĐIÊN CUỒNG ?"
 author: "Thiên Lôi"
-source: "https://sachhiem.net/THLOI/CT/ThienLoi1.php"
+source: "/THLOI/CT/ThienLoi1"
 category: "Chính trị"
 lang: vi
 wordCount: 19472
-image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nha.jpg"
+image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/TONGIAO/IMG/JESUS/Bathapgia.jpg"
 ---
 
-<p align="center"><a href="https://www.sachhiem.net/">
-	<img border="0" src="https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nha.jpg"></a> 28 tháng 11, 2007 </p>
+<p align="center"> 28 tháng 11, 2007 </p>
  <h4>“Ai bảo Ca-tô là khổ?<br>
    Ca-tô sướng lắm chứ!<br>
    Đè đầu dân, nô lệ thực dân<br>

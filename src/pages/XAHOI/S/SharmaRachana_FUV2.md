@@ -2,15 +2,14 @@
 layout: ../../../layouts/Article.astro
 title: "Chương Trình Fulbright Và Ngoại Giao Công Chúng Hoa Kỳ: Chương 2"
 author: "Sharma Rachana"
-source: "https://sachhiem.net/XAHOI/S/SharmaRachana_FUV2.php"
+source: "/XAHOI/S/SharmaRachana_FUV2"
 category: "Xã hội"
 lang: vi
 wordCount: 14619
-image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nha.jpg"
+image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/THOISU_CT/Hinh/FULBRIGHT/FUV-Ch2_1.jpg"
 ---
 
-<p align="center"><a href="https://www.sachhiem.net/">
-<img border="0" src="https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nha.jpg"></a> 
+<p align="center"> 
 August 27, 2024</p>
 <p class="TuaDoLeft">Chương 2: Khám phá cơ sở lý thuyết cho ngoại giao trao đổi</p>
 <p> Ngoại giao công chúng là một lĩnh vực học thuật tương đối mới, lấy ý tưởng từ các nghiên cứu truyền thông, khoa học chính trị và quan hệ quốc tế. Trong những năm gần đây, đã có những nỗ lực nhằm tạo ra và cải thiện các định nghĩa, mô hình và khuôn khổ lý thuyết về ngoại giao công chúng (Gilboa, 2008; Gregory, 2008). Tuy nhiên, hầu hết các tài liệu đều bao gồm các lịch sử thể chế mô tả và các khuyến nghị chính sách thiếu chiều sâu phân tích. Điều này đặc biệt đúng trong trường hợp của Hoa Kỳ. Phần lớn các tài liệu về ngoại giao công chúng của Hoa Kỳ đều do những người hành nghề trước đây viết và dựa trên các quan sát của họ (Dizard, 1961; Tuch, 1990; Arndt, 2005; Kiehl, 2006).&nbsp;<strong><em>Rất ít nghiên cứu áp dụng các lý thuyết của các lĩnh vực mẹ được đề cập ở trên vào thực tiễn ngoại giao công chúng. Có rất nhiều công trình lý thuyết trong tâm lý học, truyền thông và khoa học chính trị có liên quan đến ngoại giao công chúng, nhưng chúng hiếm khi được sử dụng.</em></strong>&nbsp;Một ngoại lệ đáng chú ý là cuộc khám phá của Giles Scott-Smith về lý thuyết trao đổi và quan hệ quốc tế (Scott-Smith, 2008). Cách tiếp cận của ông chứng minh cách các nhà nghiên cứu ngoại giao công chúng có thể áp dụng các ý tưởng của các lĩnh vực khác để hiểu rõ hơn về nền tảng lý thuyết đằng sau các hoạt động ngoại giao công chúng. Thay vì phát minh ra các cấu trúc lý thuyết mới để nghiên cứu ngoại giao công chúng, các học giả có thể sử dụng bản chất liên ngành của nó để mượn các khái niệm có liên quan từ các lĩnh vực khác. Điều này cho phép họ hưởng lợi từ nghiên cứu hiện có và áp dụng theo những cách mới vào các hoạt động ngoại giao công chúng.</p>

@@ -3,7 +3,7 @@ layout: ../../layouts/Article.astro
 title: "ALEXANDRE DE RHODES & VẤN ĐỀ CHỮ QUỐC NGỮ"
 author: "Bùi Kha"
 date: 2018-07-12
-source: "https://sachhiem.net/BUIKHA/BuiKha_Rhodes_0.php"
+source: "/BUIKHA/BuiKha_Rhodes_0"
 category: "Lịch sử"
 lang: vi
 wordCount: 7384
@@ -167,5 +167,5 @@ image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/LICHSU/IMG/ALEX/ADRh
 <p class="TacgiaL">&nbsp;Bùi Kha</p>
 <p>  <i>31-7-1996</i></p>
 <p>_______________</p>
-     <p><a href="/BUIKHA/#_ftnref1" name="_ftn1">(1)</a>1. <i>The Extreme Oath of the Jesuits (Lời thề Dòng  Tên)</i>, Bùi Xuân Phú dịch, website: <i><a href="https://sachhiem.net/EMAILS/emailT/TanPhan2.php">https://sachhiem.net/EMAILS/emailT/TanPhan2.php</a>. </i></p>
+     <p><a href="/BUIKHA/#_ftnref1" name="_ftn1">(1)</a>1. <i>The Extreme Oath of the Jesuits (Lời thề Dòng  Tên)</i>, Bùi Xuân Phú dịch, website: <i><a href="/EMAILS/emailT/TanPhan2">https://sachhiem.net/EMAILS/emailT/TanPhan2.php</a>. </i></p>
      <p><a href="/BUIKHA/#_ftnref2" name="_ftn2">(2) </a> . “Christianisme  et Colonialisme au Vietnam,  1857-1914”.&nbsp;&nbsp;  </p>

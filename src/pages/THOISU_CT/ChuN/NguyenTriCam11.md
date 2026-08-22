@@ -2,7 +2,7 @@
 layout: ../../../layouts/Article.astro
 title: "Chuột Chạy Cùng Sào!"
 author: "Nguyễn Trí Cảm"
-source: "https://sachhiem.net/THOISU_CT/ChuN/NguyenTriCam11.php"
+source: "/THOISU_CT/ChuN/NguyenTriCam11"
 category: "Chính trị"
 lang: vi
 wordCount: 2133

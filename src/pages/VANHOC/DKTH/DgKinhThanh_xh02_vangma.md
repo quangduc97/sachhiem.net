@@ -2,15 +2,14 @@
 layout: ../../../layouts/Article.astro
 title: "Một Góc Nhìn Khác Về Vàng Mã"
 author: "Dương Kinh Thành"
-source: "https://sachhiem.net/VANHOC/DKTH/DgKinhThanh_xh02_vangma.php"
+source: "/VANHOC/DKTH/DgKinhThanh_xh02_vangma"
 category: "Xã hội"
 lang: vi
 wordCount: 2259
-image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nha.jpg"
+image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/XAHOI/IMG/TapQuan/VangmaO.jpg"
 ---
 
-<p align="center"><a href="https://www.sachhiem.net/">
-	<img border="0" src="https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nha.jpg"></a>  18 tháng 12,&nbsp;   2010 </p> 
+<p align="center">  18 tháng 12,&nbsp;   2010 </p> 
 	
 	<p> <span class="First">T</span>rước tiên,&nbsp;  người 
 	viết bài này xin được nói ngay quan điểm của mình rằng,&nbsp; rất khó chịu khi 

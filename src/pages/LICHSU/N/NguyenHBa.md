@@ -3,7 +3,7 @@ layout: ../../../layouts/Article.astro
 title: "L.M. Trần Lục - Một đoạn trong cuốn \"Hội Hè Đình Đám\" của Toan Ánh"
 author: "Nguyễn Hữu Ba"
 date: 2014-01-24
-source: "https://sachhiem.net/LICHSU/N/NguyenHBa.php"
+source: "/LICHSU/N/NguyenHBa"
 category: "Tác giả"
 lang: vi
 wordCount: 1350
@@ -11,8 +11,8 @@ image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/TONGIAO/IMG/LINHMUC/
 ---
 
 <p><b>Dẫn:</b>  <i>Vấn đề đạo Ca-tô Rô-ma trong lịch sử Việt Nam đã được những người dân có tâm hồn dân tộc tìm hiểu và thuộc lòng các hành động phản quốc của một số lãnh đạo tinh thần của họ. Thế nhưng các con chiên không hề hay biết (vì biết sẽ có tội) và không hề nhận tội, tiếp tục viết những bài để bênh vực chủ chăn của họ. Và đây là một trong những cuộc trao đổi rất ngắn phát sinh  trong chuỗi thư tín dưới đây sau bài viết của ông Duyên Lãng Hà Tiến Nhất.. </i>(SH) </p>
-    <p>● 2014-01-24 -&nbsp;<a href="https://sachhiem.net/index.php?content=showemail&amp;id=514"><b>Vì sao cấm đạo Thiên Chúa? - GH JohnPaul II đã trả lời trong lời thú nhận núi tội thứ 5&nbsp;</b></a>-&nbsp;<i>Trần Chung Ngọc&nbsp;</i>-</p>
-    <p>● 2014-01-24 -&nbsp;<a href="https://sachhiem.net/index.php?content=showemail&amp;id=513"><b>Ai muốn tái diễn lịch sử - Nguyên Nhân Đưa Đến Việc Cấm Đạo&nbsp;</b></a>-&nbsp;<i>Duyên Lãng HTN - Trần Tiên Long&nbsp;</i>-</p><hr>
+    <p>● 2014-01-24 -&nbsp;<a href="/hop-thu/514"><b>Vì sao cấm đạo Thiên Chúa? - GH JohnPaul II đã trả lời trong lời thú nhận núi tội thứ 5&nbsp;</b></a>-&nbsp;<i>Trần Chung Ngọc&nbsp;</i>-</p>
+    <p>● 2014-01-24 -&nbsp;<a href="/net/NMQ/VANHOAXD/NMQvh00"><b>Ai muốn tái diễn lịch sử - Nguyên Nhân Đưa Đến Việc Cấm Đạo&nbsp;</b></a>-&nbsp;<i>Duyên Lãng HTN - Trần Tiên Long&nbsp;</i>-</p><hr>
     <p><i>Subject: Re: Tản Mạn Quanh Cuốn &amp;quot;Linh  Mục Trần Lục&amp;quot;<br>
      From: "Ba Nguyen"<br>
      Date: 1/24/14 6:09 am</i><br>
@@ -51,5 +51,4 @@ image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/TONGIAO/IMG/LINHMUC/
 		<p class="Tuaduoi">Tản Mạn Quanh Cuốn "Linh Mục Trần    Lục"</p>
 	
 
-<p align="center"><a href="https://www.sachhiem.net/">
-	<img border="0" src="https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nha.jpg"></a>  05      tháng 4, 2009</p>
+<p align="center">  05      tháng 4, 2009</p>

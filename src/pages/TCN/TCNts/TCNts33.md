@@ -2,16 +2,16 @@
 layout: ../../../layouts/Article.astro
 title: "VAALA: FROM PROLOGUE TO EPILOGUE, OR"
 author: "Trần Chung Ngọc"
-source: "https://sachhiem.net/TCN/TCNts/TCNts33.php"
+source: "/TCN/TCNts/TCNts33"
 lang: en
 wordCount: 8164
-image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nha.jpg"
+image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/TCN/Hinh/TCNts33-8.jpg"
 ---
 
 <p class="Tuaduoi">[Nhưng Bị Bóp Nghẹt]</p>
           
           
-          <p align="center"><a href="https://www.sachhiem.net/"> <img border="0" src="https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nha.jpg"></a> 04 tháng 2, 2009 </p>
+          <p align="center"> 04 tháng 2, 2009 </p>
           <center>
             <img border="0" src="https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/TCN/Hinh/TCNts33-8.jpg" width="280" height="198">
           </center>

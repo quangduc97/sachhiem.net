@@ -2,11 +2,11 @@
 layout: ../../../layouts/Article.astro
 title: "Tôi Đọc Tân-Ước:"
 author: "Gã Học Trò"
-source: "https://sachhiem.net/null"
+source: "/null"
 category: "Tác giả"
 lang: vi
 wordCount: 4481
-image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nha.jpg"
+image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/IMG/BIBLE/thanhmarc.jpg"
 ---
 
 <div align="center" style="position: relative; left: 0; top: 0">
@@ -24,8 +24,7 @@ image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nha.jpg"
 	<tr> <td width="100%" style="text-align: justify" valign="top"> 
 		<div style="padding-left: 50px; padding-right: 50px;">
 		<table border="0" cellpadding="0" width="600" cols="2"><tbody><tr>
-				<td width="389"><a href="/index">
-				<img border="0" src="https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nha.jpg"></a></td>
+				<td width="389"></td>
 	<td valign="top">16 tháng 7, 2010	</td></tr></tbody></table>
 			<p><u>Kính gởi</u>: Tòa soạn Sách Hiếm,</p>
 			

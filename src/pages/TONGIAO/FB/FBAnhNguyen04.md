@@ -3,7 +3,7 @@ layout: ../../../layouts/Article.astro
 title: "Đâu Là Nguyên Nhân Thực Sự Để Khoa Học Gia Nguyễn Xuân Vinh Cải Đạo Thành Con Chiên?"
 author: "Anh Nguyễn"
 date: 2022-08-03
-source: "https://sachhiem.net/TONGIAO/FB/FBAnhNguyen04.php"
+source: "/TONGIAO/FB/FBAnhNguyen04"
 category: "Chính trị"
 lang: vi
 wordCount: 1440
@@ -15,7 +15,7 @@ image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/THOISU_CT/Hinh/NHANV
    <p align="center"><img src="https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/THOISU_CT/Hinh/NHANVAT/NguyenXuanVinh_damtang28Jul2022.PNG" width="450" height="417" alt=""></p>
  </div>
 
-<p><span class="First">K</span>hoa Học Gia Nguyễn Xuân Vinh là một nhân vật khá có tiếng tăm ở Hoa Kỳ  trong lĩnh vực chinh phục không gian. Ông từng là tư lệnh không quân dưới thời  con chiên Ngô Đình Diệm, sau đó bị cách chức vì sự kiện phi công ném bom dinh  độc lập để rồi sau đó du học Hoa Kỳ vào năm 1962. Sau khi người vợ của ông mất, ông đã tái hôn với một bà (nghe nói đang có chồng ở Úc Châu) trong giới phóng viên, đạo CGLM, và ông đã cải đạo theo người vợ mới (xem <a href="https://www.youtube.com/watch?v=EzM1U6nMTBM">Giáo Sư VN Nổi Tiếng theo Đạo Công Giáo</a>), thành  con chiên Công giáo La Mã  với tên "thánh" là Alphonso ngày <a href="https://songtinmungtinhyeu.org/?open=contents&amp;display=2&amp;id=4463">19 tháng 10 - 2016</a>. Điều này khiến nhiều người đặt dấu hỏi về nguyên nhân nào  khiến ông suy thoái như vậy <a href="https://sachhiem.net/index.php?content=showemail&amp;id=1850">(xin xem "Chuyện GS Nguyễn Xuân Vinh mới gia nhập Đạo Công Giáo... theo diện Hôn Thê" ở link này)</a>. </p>
+<p><span class="First">K</span>hoa Học Gia Nguyễn Xuân Vinh là một nhân vật khá có tiếng tăm ở Hoa Kỳ  trong lĩnh vực chinh phục không gian. Ông từng là tư lệnh không quân dưới thời  con chiên Ngô Đình Diệm, sau đó bị cách chức vì sự kiện phi công ném bom dinh  độc lập để rồi sau đó du học Hoa Kỳ vào năm 1962. Sau khi người vợ của ông mất, ông đã tái hôn với một bà (nghe nói đang có chồng ở Úc Châu) trong giới phóng viên, đạo CGLM, và ông đã cải đạo theo người vợ mới (xem <a href="https://www.youtube.com/watch?v=EzM1U6nMTBM">Giáo Sư VN Nổi Tiếng theo Đạo Công Giáo</a>), thành  con chiên Công giáo La Mã  với tên "thánh" là Alphonso ngày <a href="https://songtinmungtinhyeu.org/?open=contents&amp;display=2&amp;id=4463">19 tháng 10 - 2016</a>. Điều này khiến nhiều người đặt dấu hỏi về nguyên nhân nào  khiến ông suy thoái như vậy <a href="/net/index">(xin xem "Chuyện GS Nguyễn Xuân Vinh mới gia nhập Đạo Công Giáo... theo diện Hôn Thê" ở link này)</a>. </p>
 <p align="center"><img src="https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/TONGIAO/IMG/TRUYENDAO/CAIDAO_GSNguyenXuanVinh2016.jpg" width="400" height="266" alt=""></p>
 <p align="center"><img src="https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/TONGIAO/IMG/TRUYENDAO/CAIDAO_GSNguyenXuanVinh2016a.jpg" width="400" height="266" alt=""></p>
 <p align="center">Ảnh của https://songtinmungtinhyeu.org/</p>

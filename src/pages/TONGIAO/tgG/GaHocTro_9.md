@@ -2,11 +2,11 @@
 layout: ../../../layouts/Article.astro
 title: "Vài Cảm Nghĩ Về"
 author: "Gã Học Trò"
-source: "https://sachhiem.net/null"
+source: "/null"
 category: "Tác giả"
 lang: vi
 wordCount: 2055
-image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nha.jpg"
+image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/IMG/VATICAN/POPE/Ben16-Dec2010.jpg"
 ---
 
 <div align="center" style="position: relative; left: 0; top: 0">
@@ -27,8 +27,7 @@ image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nha.jpg"
 		<div style="padding-left: 50px; padding-right: 50px">
 
 		<table border="0" cellpadding="0" width="600">
-<tbody><tr><td><a href="/index">
-	<img border="0" src="https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nha.jpg"></a></td>
+<tbody><tr><td></td>
 	<td valign="top" style="text-align:right"><i><font size="2">29 tháng 12, 2010
 	</font>	</i>
 	</td></tr></tbody></table>
@@ -201,8 +200,8 @@ image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nha.jpg"
 		<hr width="30%" align="left">
 <p class="TuaDenLeft">
 Bài liên quan cùng đề tài: </p>
-<p><a href="https://sachhiem.net/TONGIAO/tgG/GaHocTro_9.php">- Vài Cảm Nghĩ Về “Sứ Điệp” Của Giáo Hoàng Bênêđictô XVI (Gã Học Trò)</a></p>
-<p>- <a href="https://sachhiem.net/TCN/TCNtg/TCN106.php">Tôi Đọc "Sứ Điệp Hòa Bình" Của GH Benedict XVI (Trần Chung Ngọc)
+<p><a href="/TONGIAO/tgG/GaHocTro_9">- Vài Cảm Nghĩ Về “Sứ Điệp” Của Giáo Hoàng Bênêđictô XVI (Gã Học Trò)</a></p>
+<p>- <a href="/TCN/TCNtg/TCN106">Tôi Đọc "Sứ Điệp Hòa Bình" Của GH Benedict XVI (Trần Chung Ngọc)
 </a>
 </p>
 	

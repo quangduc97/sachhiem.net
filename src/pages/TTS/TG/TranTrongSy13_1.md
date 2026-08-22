@@ -3,7 +3,7 @@ layout: ../../../layouts/Article.astro
 title: "TÍNH KHÔNG & HƯ VÔ CHỦ NGHĨA (II)"
 author: "Trần Trọng Sỹ"
 date: 2021-05-19
-source: "https://sachhiem.net/TTS/TG/TranTrongSy13_1.php"
+source: "/TTS/TG/TranTrongSy13_1"
 category: "Tác giả"
 lang: vi
 wordCount: 6588
@@ -48,7 +48,7 @@ image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/DECOR/number1
 <p>  Vào thời đại của Descartes, loài người chưa sở hữu máy bay hoặc bom nguyên tử.  Nhưng nếu là sự toàn hảo của Thiên Chúa khiến con người chế ra máy bay, thì  chẳng lẽ cũng chính cái toàn hảo của Thiên Chúa khiến con người chế ra bom hạt  nhân ? </p>
 <p>  Vào thời đại của Descartes, triết học chỉ lo đi tìm cái <i>tôi</i>, chứ chưa  dám nghĩ đến cái <i>không tôi</i> như thuyết duyên khởi “cái này có vì cái kia có, cái này không vì cái kia  không, cái này sinh vì cái kia sinh, cái này diệt vì cái kia diệt.” Sartre cũng nói một câu tương tự, nhưng lãng mạn hơn: <span class="baochi">Nous ne sommes-nous qu'aux yeux des autres et c'est à partir du regard des  autres que nous nous assumons comme nous-mêmes</span><i> – Chúng ta chỉ hiện diện trong mắt  của tha nhân mà thôi, nghĩa là từ cái nhìn của tha nhân mà chúng ta xác định được  chúng ta là ai.</i> </p>
 <p>Ngay khi Descartes tìm cách chứng  minh sự có mặt của tôi, bằng sự nghi ngờ của chính tôi, ông đã dùng một tiền đề  không nội hàm để cố gắng biện minh cho một tiền đề không nội hàm khác. Mặt  khác, ông còn mâu thuẫn dựa vào một thuộc tính để chứng minh tính thực của chủ  thể, tựa như muốn chứng minh một người chết thì nhìn vào chiếc quan tài đựng  xác chết. Vào thời kỳ mà bản thể học chưa thành hình, những khám phá của  Descartes, đứng trên chiều duy tâm luận, rất được tán thưởng…cho đến khi hư vô  chủ nghĩa ra đời. </p>
-<p>  Tôi đã viết về thời kỳ hoài nghi  với nhiều triết gia đứng lên biện minh cho hiện tính của Thượng đế trong bài <a href="https://sachhiem.net/TTS/VH/TranTrongSy_vh7.php">Xét Lại Vụ Đánh Cuộc của Pascal</a>.</p>
+<p>  Tôi đã viết về thời kỳ hoài nghi  với nhiều triết gia đứng lên biện minh cho hiện tính của Thượng đế trong bài <a href="/TTS/VH/TranTrongSy_vh7">Xét Lại Vụ Đánh Cuộc của Pascal</a>.</p>
 <p>  Người sống không cần được chứng mình bằng hơi thở của hắn, dù rằng nếu hắn tắt  thở thì hắn sẽ chết. Vô tình, Descartes đã tiên báo sự ra đi vĩnh viễn của <i>cái  tôi</i> và Thượng Đế toàn năng chứa đựng trong chiếc hộp nạm vàng Cogito của  ông như Hegel khen tặng.</p>
 <p>Thuật toán của Descartes đưa ra  nhiều đáp số cho cùng một câu hỏi. Ai làm việc trong các lĩnh vực khoa học đều  từng biết sự châm biếm về những kết quả mang tính Cartésien, một lô độc đắc mà  10 người đánh cuộc thì có ít nhất 9 người trúng. </p>
 <p>Như được trình bày trên phần  trước, hư vô chủ nghĩa từ chối mọi giá trị, đặc biệt là giá trị thần quyền -  Thượng Đế. </p>
@@ -113,7 +113,7 @@ image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/DECOR/number1
 <p>  Xin mượn một  lời của Sartre để kết luận phần này, nhất là để trả lời cho những ai tin rằng,  sau khi Thượng Đế chết đi, thì thế giới chỉ còn lại chủ nghĩa vô thần: <i>Thượng  Đế đã chết, nhưng con người không vì vậy mà vô thần. Sự thiếu vắng một đấng  linh thiêng, kết hợp với sự vĩnh cửu của nhu cầu tín ngưỡng nơi con người thời  đại mới, đây là vụ làm ăn lớn của ngày nay cũng như của hôm qua.</i></p>
 <p class="baochi"> Dieu est mort, mais l'homme n'est pas, pour autant, devenu athée. Ce  silence du transcendant, joint à la permanence du besoin religieux chez l'homme  moderne, voilà la grande affaire aujourd'hui comme hier.</p>
 <p>  Với Sartre, có lẽ nhiều người chưa quen cách chơi chữ của  ông. Tôi xin mạn phép diễn nôm từ <i>affair </i>ra văn chương bình dân, để mọi  người cùng hiểu: affaire, business, làm ăn, là danh từ chỉ về giao dịch, buôn  bán. Đã là giao dịch, buôn bán, tất phải có cung cầu. Cung là sản phẩm, cầu là  người tiêu dùng. Sartre muốn nói ở đây rằng mê tín từ xưa đến nay là nhu cầu,  thượng đế là mặt hàng. Chúng ta chỉ như trẻ con, Thượng Đế như các con búp bế,  trẻ con ném con búp bế này, thì lại đòi con búp bế khác. Chỉ khi nào chúng lớn  lên, các con búp bế không cần ném cũng tự mất. Khổ nỗi, nhân loại không bao giờ  trưởng thành <img src="https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/sqdot.gif" width="10" height="10"></p>
-<p>(Xin đón đọc phần  3: <a href="https://sachhiem.net/TTS/TG/TranTrongSy13_2.php">Tính Không</a>)</p>
+<p>(Xin đón đọc phần  3: <a href="/TTS/TG/TranTrongSy13_2">Tính Không</a>)</p>
 
 <p class="TacgiaL">Trần Trọng Sỹ </p>
  <p class="nguonL">Nguồn: tác giả gửi cho trang nhà sachhiem.net</p>

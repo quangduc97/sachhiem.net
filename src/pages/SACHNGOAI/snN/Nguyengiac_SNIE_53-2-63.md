@@ -3,7 +3,7 @@ layout: ../../../layouts/Article.astro
 title: "Bản Đánh Giá Tình Báo Quốc Gia Đặc Biệt"
 author: "Nguyên Giác dịch"
 date: 2013-06-02
-source: "https://sachhiem.net/SACHNGOAI/snN/Nguyengiac_SNIE_53-2-63.php"
+source: "/SACHNGOAI/snN/Nguyengiac_SNIE_53-2-63"
 category: "Lịch sử"
 lang: vi
 wordCount: 5098

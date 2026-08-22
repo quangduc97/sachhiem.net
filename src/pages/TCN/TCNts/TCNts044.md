@@ -2,10 +2,9 @@
 layout: ../../../layouts/Article.astro
 title: "To Whom It May Concern"
 author: "Trần Chung Ngọc"
-source: "https://sachhiem.net/null"
+source: "/null"
 lang: en
 wordCount: 3406
-image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nha.jpg"
 ---
 
 <div align="center" style="position: relative; left: 0; top: 0">
@@ -22,7 +21,7 @@ image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nha.jpg"
 <tr> <td width="100%"> 
 <div style="padding-left: 50px; padding-right:50px">
 <table border="0" cellpadding="10" width="600" cols="2"><tbody><tr>
-<td><a href="/index"><img border="0" src="https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nha.jpg"></a></td>
+<td></td>
 	<td valign="top" style="text-align:right">24 tháng 9,  2009</td></tr></tbody></table>
 		
 											<p>				
@@ -807,7 +806,7 @@ image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nha.jpg"
 																Hoàng</i> trong 
 																các Links sau 
 																đây:
-																<a href="https://www.sachhiem.net/TCNtg/TCN20.php%20trên%20trang%20nhà%20sachhiem.net">https://www.sachhiem.net/TCNtg/TCN20.php 
+																<a href="/TCNtg/TCN20.php%20trên%20trang%20nhà%20sachhiem.net">https://www.sachhiem.net/TCNtg/TCN20.php 
 																trên trang nhà 
 																sachhiem.net</a>, 
 																hoặc
@@ -842,7 +841,7 @@ image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nha.jpg"
 																định gì về các 
 																Linh mục, xin 
 																hãy vào đọc
-																<a href="https://www.sachhiem.net/TCNtg/TCN18.php">
+																<a href="/TCNtg/TCN18">
 	<i>https://www.sachhiem.net/TCNtg/TCN18.php</i></a>&nbsp; 
 																hoặc <i>
 	<a href="https://www.giaodiemonline.com/../noidung_detail.php?newsid=494">https://www.giaodiemonline.com/noidung_detail.php?newsid=494</a>&nbsp;</i></p>
@@ -895,17 +894,17 @@ image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nha.jpg"
 																sử - 
 	<a href="/TCNtg/CGchinhsu/CGCS3"> <i>
 	Lịch sử Đặc biệt của Công giáo</i>,</a> 
-	Một Khảo luận qua các tài liệu Lịch sử. [<a href="https://sachhiem.net/TCN/TCNtg/CGchinhsu/CGCS3.php">https://sachhiem.net/TCN/TCNtg/CGchinhsu/CGCS3.php</a>]&nbsp; hay [<a href="https://www.giaodiemonline.com/../2009/09/cgcs-5.htm">https://www.giaodiemonline.com/ 2009/09/cgcs-5.htm</a>]&nbsp;</p>
+	Một Khảo luận qua các tài liệu Lịch sử. [<a href="/TCN/TCNtg/CGchinhsu/CGCS3">https://sachhiem.net/TCN/TCNtg/CGchinhsu/CGCS3.php</a>]&nbsp; hay [<a href="https://www.giaodiemonline.com/../2009/09/cgcs-5.htm">https://www.giaodiemonline.com/ 2009/09/cgcs-5.htm</a>]&nbsp;</p>
 	<p><b>2-&nbsp;&nbsp; </b>Công giáo Chính 
 																sử - 
-	<a href="https://sachhiem.net/TCN/TCNtg/3NGOI/TCN72.php"> <i>
+	<a href="/TCN/TCNtg/3NGOI/TCN72"> <i>
 	Về Ba ngôi Thiên 
 																Chúa</i>,</a> 
 																Một Khảo luận 
 																trong Ánh sáng 
 																của Thánh Kinh 
 																và Giáo lý Công 
-																giáo. [<a href="https://sachhiem.net/TCN/TCNtg/3NGOI/TCN72.php">https://sachhiem.net/TCN/TCNtg/3NGOI/TCN72.php</a>] hay [<a href="https://www.giaodiemonline.com/../2009/09/cgcs-2.htm">https://www. giaodiemonline.com/ 2009/09/cgcs-2.htm</a>]&nbsp;</p>
+																giáo. [<a href="/TCN/TCNtg/3NGOI/TCN72">https://sachhiem.net/TCN/TCNtg/3NGOI/TCN72.php</a>] hay [<a href="https://www.giaodiemonline.com/../2009/09/cgcs-2.htm">https://www. giaodiemonline.com/ 2009/09/cgcs-2.htm</a>]&nbsp;</p>
 	<p><b>3-&nbsp;&nbsp; </b>Công giáo Chính 
 																sử - <i>
 	<a href="/TCNtg/CGchinhsu/CGCS8">Xung quanh vấn 
@@ -917,7 +916,7 @@ image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nha.jpg"
 																Nam</a></i>, Một 
 																Khảo luận qua 
 																các tài liệu 
-																Lịch sử. [<a href="https://sachhiem.net/TCN/TCNtg/CGchinhsu/CGCS8.php">https://sachhiem.net/ TCNtg/CGchinhsu/CGCS8.php</a>]<span lang="en-us">
+																Lịch sử. [<a href="/TCN/TCNtg/CGchinhsu/CGCS8">https://sachhiem.net/ TCNtg/CGchinhsu/CGCS8.php</a>]<span lang="en-us">
 	</span>&nbsp;hay [<a href="https://www.giaodiemonline.com/../2009/09/images/cgcs-3.htm">https://www.giaodiemonline.com/2009/09/images/cgcs-3.htm</a>]&nbsp;<b>&nbsp;</b>&nbsp;
 																</p>
 	<p>Với những tài 

@@ -3,7 +3,7 @@ layout: ../../../layouts/Article.astro
 title: "Chúa Jesus nói: \"Nước Ta Không Thuộc Về Thế Gian Này\""
 author: "Kinh Kha/ FB Thiên Chúa Giáo Và Tội Ác Với Nhân Loại"
 date: 2018-10-17
-source: "https://sachhiem.net/TONGIAO/FB/KinhKha.php"
+source: "/TONGIAO/FB/KinhKha"
 category: "Chính trị"
 lang: vi
 wordCount: 8088
@@ -37,8 +37,8 @@ image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/TONGIAO/IMG/CHUA/Chu
 <p class="nguonL">Nguồn<a href="https://www.facebook.com/groups/1993155514291442/permalink/2166296713643987/"> FB Thiên Chúa Giáo Và Tội Ác Với Nhân Loại</a></p>
 <p>____________<br>
   <b>Mời đọc thêm: </b></p>
-<p>- <a href="https://sachhiem.net/NMQ/HOSOTOIAC/CH29.php">Vatican cướp chùa chiếm đất để xây nhà thờ</a> (Nguyễn Mạnh Quang)</p>
-<p>- <a href="https://sachhiem.net/TONGIAO/TOAKHAM/Lythai.php">Mốc Thời Gian Cho Chùa Báo Thiên (Nhân vụ TGM Ngô Quang Kiệt và Tòa Khâm sứ)</a> Lý Thái</p>
+<p>- <a href="/NMQ/HOSOTOIAC/CH29">Vatican cướp chùa chiếm đất để xây nhà thờ</a> (Nguyễn Mạnh Quang)</p>
+<p>- <a href="/TONGIAO/TOAKHAM/Lythai">Mốc Thời Gian Cho Chùa Báo Thiên (Nhân vụ TGM Ngô Quang Kiệt và Tòa Khâm sứ)</a> Lý Thái</p>
 
 
 <p class="TuaChuong">_______________  Nhận xét _____________</p>

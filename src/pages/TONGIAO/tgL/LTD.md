@@ -3,14 +3,14 @@ layout: ../../../layouts/Article.astro
 title: "Một Nửa (Nội Dung Của) Tân Ước Là Giả Mạo"
 author: "John Blake / CNN – 2011-05-13"
 date: 2012-11-02
-source: "https://sachhiem.net/TONGIAO/tgL/LTD.php"
+source: "/TONGIAO/tgL/LTD"
 category: "Chính trị"
 lang: vi
 wordCount: 3024
-image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nha.jpg"
+image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/SACHNGOAI/Hinhanh/BIASACH/Forge.jpg"
 ---
 
-<table border="0" cellpadding="0" width="250" align="center"> <tbody><tr>   <td width="125"><a href="/index"><img border="0" src="https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nha.jpg"></a></td>   <td valign="middle">02-Nov-2012</td> 
+<table border="0" cellpadding="0" width="250" align="center"> <tbody><tr>   <td width="125"></td>   <td valign="middle">02-Nov-2012</td> 
           </tr>
           </tbody></table>
           <p><span class="First">M</span>ột người đàn ông yếu đuối bị trói ngồi trong một xà lim ướt át và lạnh lẽo. Trước đây, ông ta đã từng thoát chết nhưng giờ đây ông biết rằng giây phút hành hình đã đến gần kề.</p>

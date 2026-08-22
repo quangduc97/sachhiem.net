@@ -2,16 +2,16 @@
 layout: ../../../layouts/Article.astro
 title: "Thành Kính Phân Ưu (SH)"
 author: "Tòa Soạn Sách Hiếm"
-source: "https://sachhiem.net/null"
+source: "/null"
 category: "Xã hội"
 lang: vi
 wordCount: 153
-image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nha.jpg"
+image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/IMG/LyKhoiViet.gif"
 ---
 
 <p class="Tuaduoi">Thành Kính Phân Ưu </p>
    
-   <p align="center"><a href="https://www.sachhiem.net/"> <img border="0" src="https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nha.jpg"></a>12 tháng 8, 2008</p>
+   <p align="center">12 tháng 8, 2008</p>
 
 <p style="text-align: center" class="Tuaduoi">Chúng tôi vừa nhận được tin buồn, anh</p>
 

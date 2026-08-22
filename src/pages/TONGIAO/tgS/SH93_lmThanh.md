@@ -3,7 +3,7 @@ layout: ../../../layouts/Article.astro
 title: "Vụ LM Giuse Trần Ngọc Thanh - Tâm Lý Của Giáo Dân Thế Nào?"
 author: "SH tổng lược"
 date: 2022-02-14
-source: "https://sachhiem.net/TONGIAO/tgS/SH93_lmThanh.php"
+source: "/TONGIAO/tgS/SH93_lmThanh"
 category: "Chính trị"
 lang: vi
 wordCount: 1856

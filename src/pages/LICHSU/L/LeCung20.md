@@ -3,7 +3,7 @@ layout: ../../../layouts/Article.astro
 title: "Sinh Viên, Học Sinh Các Đô Thị Miền Nam Trong Phong Trào Phật Giáo Năm 1963"
 author: "GS Lê Cung*"
 date: 2021-11-15
-source: "https://sachhiem.net/LICHSU/L/LeCung20.php"
+source: "/LICHSU/L/LeCung20"
 category: "Chính trị"
 lang: vi
 wordCount: 7759

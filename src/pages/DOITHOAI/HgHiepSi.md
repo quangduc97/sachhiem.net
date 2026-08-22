@@ -3,7 +3,7 @@ layout: ../../layouts/Article.astro
 title: "Thơ Gởi Ông Bằng Phong Đặng Văn Âu"
 author: "Hoàng Hiệp Sĩ"
 date: 2016-06-13
-source: "https://sachhiem.net/DOITHOAI/HgHiepSi.php"
+source: "/DOITHOAI/HgHiepSi"
 category: "Chính trị"
 lang: vi
 wordCount: 9819
@@ -48,7 +48,7 @@ image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/HOANHLINH/HINH/bia.j
   <i>Hình bìa “Bốn Mươi Năm Nói Láo” của Vũ  Bằng </i><br>
   <i>Toàn văn (tiếng Việt) Tuyên Ngôn của  nhóm Tự Do Tiến Bộ (“Nhóm” Caravelle)</i></p>
   <p>Tháng tư cùng năm 1960,  18 thân hào, nhân sĩ họp công khai ở Hotel Carravelle, mà sau này báo chí gọi tắt  là nhóm Carravelle, ra Tuyên Ngôn yêu cầu chính phủ cải tổ, thay đổi để có thể  chống cộng và trị an hữu hiệu hơn với lời kêu gọi hợp lý, thuyết phục, ôn hòa  nêu rõ những nguy kịch của tinh hình. Thay vì cứu xét và trả lời, tất cả những  người này đều bị mật vụ của Diệm, Nhu đang đêm tới bắt đi vô ngục tù. Ông hảy vào  Internet mà đọc Tuyên ngôn của 18 nhân sĩ gởi nhà Ngô: “TUYÊN NGÔN CỦA 18 NHÂN  VẬT THUỘC NHÓM "TỰ DO TIẾN BỘ" GỞI TỔNG THỐNG VIỆT NAM Cộng HÒA, SÀI  GÒN”. </p>
-<p>    [ <a href="https://sachhiem.net/HOANHLINH/VNMLphlucD.php">https://sachhiem.net/HOANHLINH/VNMLphlucD.php</a> ]</p>
+<p>    [ <a href="/HOANHLINH/VNMLphlucD">https://sachhiem.net/HOANHLINH/VNMLphlucD.php</a> ]</p>
   <p>Tháng 11/1960, nhận thấy  sự tác hại, gian dối, hủy diệt của “chế độ băng đảng” (chữ của Alfred McCoy  trong tác phẩm THE DIEM’S DYNASTY AND THE NHU BANDITS). Theo sự điều tra của  tác giả này thì Ngô Đình Nhu dùng phương tiện quân sự và HKVN để buôn bán nha  phiến từ Lào về VN. Và tới tháng 12/1959 thì đã mở lại tất&nbsp; cả 2000 tiệm hút thuốc phiện tại SG và Chợ Lớn.  Ông cũng có thể xem chi tiết này trong <i>Việt  Nam Máu Lửa Quê Hương Tôi</i> (VNMLQHT) của Hoành Linh Đỗ Mậu. Đại Tá Nguyễn  Chánh Thi đã không chịu nổi sự thối nát của chế độ, sau khi khám phá thêm Ngô  Đình Thục đã khai thác gỗ tốt ở Định Quán và đóng thuế, cung cấp thuốc trụ sinh  cho Việt Cộng nên đã đứng lên làm cuộc đảo chánh 11-11-1960 mong lật đổ chế độ  “Băng Đảng” bất tài, tham nhũng, đàn áp nhân dân. Cuộc đảo chánh bất thành,  nhưng cũng làm nô nức lòng người.</p>
 <p>    Tháng 7 năm 1962, hai  phi công Nguyễn Văn Cử và Phạm Phú Quốc đã can đảm ném bom phòng làm việc của  nhà Ngô, với mong muốn xóa sổ chế độ, nhưng đại cuộc bất thành.</p>
 <p align="center"><img src="https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/LICHSU/IMG/NGODD/12Nov1960_daochinhhut.jpg" width="320" height="261" alt=""> <img src="https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/LICHSU/IMG/NGODD/DinhDLbibom_baNhu.jpg" width="299" height="212" alt=""></p>
@@ -61,7 +61,7 @@ Dinh Độc Lập bị hai  phi cơ của Không Quân không kích ngày 27-2-1
   </ul>
   <ul>
     <li><i>Việt  Nam Cộng Hòa Đệ Nhất Toàn Thư</i> của GS Sử Nguyễn Mạnh  Quang<br>
-      <a href="https://sachhiem.net/NMQ/VNCHTT/NMQ00.php">https://sachhiem.net/NMQ/VNCHTT/NMQ00.php</a></li>
+      <a href="/NMQ/VNCHTT/NMQ00">https://sachhiem.net/NMQ/VNCHTT/NMQ00.php</a></li>
   </ul>
   <ul>
     <li><i>Hồ  Sơ Mật 1963 Từ Các Nguồn tài Liệu Của Chính Phủ Mỹ</i> của Nhóm Thiện Pháp<br>
@@ -69,7 +69,7 @@ Dinh Độc Lập bị hai  phi cơ của Không Quân không kích ngày 27-2-1
   </ul>
   <ul>
     <li><i>Năm  Mươi Năm Nhin Lại 1963-2013</i> Tuyển tập của nhóm Thiện Pháp (Gồm  99 Tác giả)<br>
-      <a href="https://sachhiem.net/index.php?content=showrecipe&amp;id=5794">https://sachhiem.net/index.php?content=showrecipe&amp;id=5794</a></li>
+      <a href="/LICHSU/S/SH_NDD50nam">https://sachhiem.net/index.php?content=showrecipe&amp;id=5794</a></li>
   </ul>
   <ul>
     <li><i>Ngô  Đình Diệm: Nước Bại Theo Một Người </i>của Giáo sư Hồ Sỹ Khuê.<br>
@@ -138,7 +138,7 @@ Dinh Độc Lập bị hai  phi cơ của Không Quân không kích ngày 27-2-1
 <p>    2/Của Dennis Bloodworth  – Phóng viên kỳ cựu Anh Quốc, viết phóng sự và phân tích chuyên nghiệp về chiến  tranh Đông Nam Á: “<i>Cho tới năm 1963, mật vụ của Diệm đã bắt giữ  hoặc đẩy vào tay những kẻ thù hầu như mọi người quốc gia có tên tuổi đã chiến  đấu cho tự do của đất nước trong 20 năm trước. Ông ta và gia đình mình đã đàn  áp mọi đối lập, chất đầy nhà tù, bịt miệng báo chí, gian lận bầu cử, và bám vào  quyền lực</i>.” </p>
   <p>Ông ĐVÂ, tất cả những  nhận định của những người ngoại quốc về chế độ nhà Ngô, đều không phải là những  nhà sư PG, hay những người Phật Tử, và cũng không phải là CS, đúng không? Vậy  thì, chế độ rõ ràng, thể hiện ra là một chế độ bạo lực, khủng bố, kém cỏi, chia  rẽ, kỳ thị, bất tài, tham nhũng.</p>
 <p>    Và ông ĐVÂ, nếu ông muốn  ca tụng chế độ xấu xa đó, và đặt chúng lên đầu thờ thì mặc kệ ông. Cớ sao ông lại  viết nguyên một bài dài trí trá, lưu manh, đầy dẫy thiếu sót để mắng mỏ toàn thể  nhân dân miền Nam là “<i>Không chịu ngộ ra,  để tôn vinh vị Tổng Thống anh minh</i>”, nhưng lại chính là những kẻ đã tàn hại  đất nước, gây biết bao khổ đau chia rẽ, là sao hả???</p>
-<p>    Ông điên khùng, hay đần  độn, lú lẫn rồi? Hay cả hai? Ngạn ngữ của Việt Nam có câu : “Chó nhẩy bàn độc”.  Ông hiểu câu này không? Ý của nó là mỉa mai, miệt thị những kẻ bất tài, xấu xa,  ác độc đã nhờ vận động hậu trường mà lên ngôi vị cao nhất. Ngô Đình Diệm là một  trường hợp này. Ông hãy vào link này để đọc những nhận xét của một  con chiên thứ “thiệt”. Con chiên Nguyễn Gia Kiểng : <a href="https://sachhiem.net/THOISU_CT/ChuN/NguyenGiaKieng.php">Nhìn Lại Giai Đoạn  Ngô Đình Diệm - sachhiem.net, https://sachhiem.net/THOISU_CT/ChuN/NguyenGiaKieng.php</a> ) </p>
+<p>    Ông điên khùng, hay đần  độn, lú lẫn rồi? Hay cả hai? Ngạn ngữ của Việt Nam có câu : “Chó nhẩy bàn độc”.  Ông hiểu câu này không? Ý của nó là mỉa mai, miệt thị những kẻ bất tài, xấu xa,  ác độc đã nhờ vận động hậu trường mà lên ngôi vị cao nhất. Ngô Đình Diệm là một  trường hợp này. Ông hãy vào link này để đọc những nhận xét của một  con chiên thứ “thiệt”. Con chiên Nguyễn Gia Kiểng : <a href="/THOISU_CT/ChuN/NguyenGiaKieng">Nhìn Lại Giai Đoạn  Ngô Đình Diệm - sachhiem.net, https://sachhiem.net/THOISU_CT/ChuN/NguyenGiaKieng.php</a> ) </p>
   <p>Đọc bài này, ông  sẽ ngạc nhiên khi đọc được các tố cáo thẳng thừng của một con chiên với chế độ  cũng là một con chiên cuồng tín là Ngô Đình Diệm. Tuy nhiên để giúp đỡ cho trí  thông minh của ông, tôi cũng trích một số những điểm chính trong bài đó của tác  giả:</p>
   <p> &lt;Bắt đầu trích&gt;: </p>
   <div class="indent50">
@@ -231,7 +231,7 @@ Dinh Độc Lập bị hai  phi cơ của Không Quân không kích ngày 27-2-1
   <p>Ông ĐVÂ, ông cũng hèn hạ  nữa, khi viết về GS Tràn Trung Ngọc như sau : “…<i>Bởi vì nếu anh là một Phật tử chân chính đi tìm tự do thì anh phải  khuyên Tiến sĩ Trần Chung Ngọc không nên chửi Công Giáo</i>…”. Chẳng phải chỉ  có TS TCN viết những sự thật về Catô Lích mà ông gọi là chửi “Công Giáo” , mà  còn có GS Nguyễn Mạnh Quang, Bác sĩ Nguyễn Văn Thọ, Kỹ sư Trần Tiên Long và Thẩm  Phám Nguyễn Chấn nữa. Tất cả đều đã từng hay đang là giáo dân đấy!</p>
 <p>    Và tôi cũng đã đọc tất  cả những bài viết của những vị này, nhưng tôi chưa hề thấy họ viết bịa đặt một  điều gì. Riêng TS TCN thì tất cả những bài của ông đều trích dịch, ghi rõ xuất  xứ từ những bài viết sự thật về cái gọi là Catô Lích của những người ngoại quốc,  trong đó là những người đã từng là Hồng Y, Tổng Giám Mục, Giám Mục, linh Mục,  những giáo sư “thần học” của các trường Đại Học Catô, nay họ cởi áo ra đời sống  dân sự và viết về những sự thật về tôn giáo của họ. Và đặc biệt, trong tất cả  những bài viết của GS TCN ông luôn luôn hỏi : <i>“Ai thấy tôi sai điều gì thì cứ  lên tiếng”.</i> Và giáo hội Catô VN cả hàng bao nhiêu con người có học, trí thức  chưa ai dám chất vấn một cách nghiêm túc những điều ông ta viết cả. Hầu hết, chỉ  biết “chửi” và/hoặc “chụp nón cối” như ông mà thôi!</p>
 <p>    Ông ĐVÂ, tại sao lúc TS  TCN còn sống trên cõi ta bà này, ông lại không dám viết bài chất vấn, mà ông lại  kỳ vọng ở ông Trần Quang Thuận làm điều này? Ông không đủ trí thức, khả năng,  và tư duy chăng?</p>
-<p>    Ông hãy mở mang kiến thức  về Catô Lích (mà ông trịnh trọng gọi là Công Giáo) bằng cách vào <i>Giao Điểm </i>[<a href="https://giaodiemonline.com/">https://giaodiemonline.com/</a>] và <i>Sách Hiếm</i> [<a href="https://sachhiem.net/">https://sachhiem.net/</a>] để đọc những bài viết của những người có lương tri, chuyên viết về sự thật về  cái đạo gọi là Catô Lích đó. </p>
+<p>    Ông hãy mở mang kiến thức  về Catô Lích (mà ông trịnh trọng gọi là Công Giáo) bằng cách vào <i>Giao Điểm </i>[<a href="https://giaodiemonline.com/">https://giaodiemonline.com/</a>] và <i>Sách Hiếm</i> [<a href="/">https://sachhiem.net/</a>] để đọc những bài viết của những người có lương tri, chuyên viết về sự thật về  cái đạo gọi là Catô Lích đó. </p>
   <p>Để tôi động não ông  thêm một lần về Catô lích nghen :</p>
 <p> Vào ngày 12 tháng 3 năm 2000    <a href="https://www.theguardian.com/world/2000/mar/13/catholicism.religion">(www.theguardian.com)</a>,  Vatican đăng đàn xin lỗi toàn thể nhân loại về 7 núi tội lỗi của “Công Giáo” với  nhân loại. Trong đó có những tội như : Buôn bán nô lệ, khuyến khích bạo loạn,  diệt chủng, kỳ thị, kỳ thị đàn bà v..v.. (Mà theo tôi, Vatican nên xin lỗi tội  thứ 8 với toàn thể nhân loại đó là tội Lạc dẫn, tức là tội lừa phỉnh những kẻ  tín đồ nhẹ dạ để trục lợi cho mình. Ông hãy đọc cái Webside này để mở mang kiến  thức về cái gọi là “Công Giáo” nghen   <a href="https://dlv.vn/2013/09/kinh-thanh-hay-kinh-ac.html#axzz4AkkSkNMH">Kinh Thánh hay Kinh Ác?</a> .</p>
 <p align="center"><img src="https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/TONGIAO/IMG/VATICAN/Apologymass.jpg" width="250" height="166" alt=""></p>

@@ -2,14 +2,12 @@
 layout: ../../layouts/Article.astro
 title: "CHÂN DUNG MỘT CHIẾN SĨ TỰ DO CÀ RĂNG CĂNG TAI"
 author: "Hoàng Đông Tà giới thiệu"
-source: "https://sachhiem.net/HOANGNN/Hoang20.php"
+source: "/HOANGNN/Hoang20"
 lang: vi
 wordCount: 2692
-image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nha.jpg"
 ---
 
-<p align="center"><a href="https://www.sachhiem.net/">
-	<img hspace="20" border="0" src="https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nha.jpg"></a> ngày 22 tháng 11, 2008</p>
+<p align="center"> ngày 22 tháng 11, 2008</p>
 
 	<p>Đông Tà tôi không tin mằt mình nữa khi đọc bản tin kiểm 
 	thính của Đài Á Châu Tự Do ngày 18/10/2008 với tựa đề như sau:</p>

@@ -3,7 +3,7 @@ layout: ../../../layouts/Article.astro
 title: "Tâm Linh Cây Cỏ & Con Người *"
 author: "Nguyễn Mộng Khôi"
 date: 2014-08-28
-source: "https://sachhiem.net/value"
+source: "/value"
 category: "Khoa học"
 lang: vi
 wordCount: 3106

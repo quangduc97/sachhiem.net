@@ -3,7 +3,7 @@ layout: ../../../layouts/Article.astro
 title: "Thảm Kịch Của Những Người Tự Nhận mình là Chúa Cứu Thế"
 author: "Tin Báo An Ninh Thủ Đô"
 date: 2013-02-22
-source: "https://sachhiem.net/TONGIAO/IMG/JESUS/TinANTD_AJMiller_MarySuzanneLuck.jpg"
+source: "/TONGIAO/IMG/JESUS/TinANTD_AJMiller_MarySuzanneLuck.jpg"
 category: "Tác giả"
 lang: vi
 wordCount: 1230
@@ -70,4 +70,4 @@ Trang Hà&nbsp;</p>
 
 <p class="nguonL">nguồn <a href="https://www.anninhthudo.vn/Ky-la/Tham-kich-cua-nhung-nguoi-tu-nhan-minh-la-Chua-cuu-the/508506.antd">https://www.anninhthudo.vn/Ky-la/Tham-kich-cua-nhung-nguoi-tu-nhan-minh-la-Chua-cuu-the/508506.antd</a><a href="https://www.baomoi.com/Tham-kich-cua-nhung-nguoi-tu-nhan-minh-la-Chua-cuu-the/119/11530744.epi"></a></p>
 
-<a href="https://sachhiem.net/indexTG.php"><p class="trang">Trang Tôn Giáo </p></a>
+<a href="/indexTG"><p class="trang">Trang Tôn Giáo </p></a>

@@ -2,7 +2,7 @@
 layout: ../../../layouts/Article.astro
 title: "Linh Hồn Và Cõi Âm"
 author: "Bùi Duy Tâm"
-source: "https://sachhiem.net/null"
+source: "/null"
 category: "Tác giả"
 lang: vi
 wordCount: 3524

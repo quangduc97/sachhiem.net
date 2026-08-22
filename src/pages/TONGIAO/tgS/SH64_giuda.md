@@ -3,7 +3,7 @@ layout: ../../../layouts/Article.astro
 title: "Chúa Quan Phòng, Chúa Che Chở!"
 author: "Giu Đà"
 date: 2016-01-30
-source: "https://sachhiem.net/TONGIAO/tgS/SH64_giuda.php"
+source: "/TONGIAO/tgS/SH64_giuda"
 category: "Tác giả"
 lang: vi
 wordCount: 127

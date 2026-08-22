@@ -3,7 +3,7 @@ layout: ../../../layouts/Article.astro
 title: "Huyền Thoại Chúa Giê-Su- Trinh Nữ Và Thầy Tế"
 author: "Mark Gibbs / Nguyễn Trí Cảm dịch"
 date: 2014-05-26
-source: "https://sachhiem.net/TONGIAO/NGTRCAM/NguyenTriCam35a.php"
+source: "/TONGIAO/NGTRCAM/NguyenTriCam35a"
 category: "Tác giả"
 lang: vi
 wordCount: 3571
@@ -14,7 +14,7 @@ image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/SACHNGOAI/Hinhanh/BI
   
  
   
-     <p><a href="https://sachhiem.net/TONGIAO/NGTRCAM/NguyenTriCam35.php">(Bấm để xem bản dịch Việt) </a></p>
+     <p><a href="/TONGIAO/NGTRCAM/NguyenTriCam35">(Bấm để xem bản dịch Việt) </a></p>
      <p align="center"><img width="150" height="217" src="https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/SACHNGOAI/Hinhanh/BIASACH/TheVirgin_Priest.JPG" alt="https://www.sachhiem.net/SACHNGOAI/Hinhanh/BIASACH/TheVirgin_Priest.JPG"></p>
        <p class="TuaDenLeft"><b>Bản Anh ngữ:</b></p>
     <p class="TuaDenLeft">When Was the First Christmas?

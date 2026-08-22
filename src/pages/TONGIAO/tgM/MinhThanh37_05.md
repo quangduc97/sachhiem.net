@@ -3,7 +3,7 @@ layout: ../../../layouts/Article.astro
 title: "[VATICANOLOGY] - Hồng Y Nguyễn Văn Thuận"
 author: "Minh Thạnh"
 date: 2024-06-03
-source: "https://sachhiem.net/TONGIAO/tgM/MinhThanh37_05.php"
+source: "/TONGIAO/tgM/MinhThanh37_05"
 category: "Chính trị"
 lang: vi
 wordCount: 3074
@@ -20,7 +20,7 @@ image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/TONGIAO/IMG/GIAMMUC/
  </div>
  <p align="center"><img src="https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/TONGIAO/IMG/GIAMMUC/GM_NguyenVanThuan.JPG" width="350" height="500" alt=""></p>
  <p>BẠN ĐỌC HỎI “BẰNG CHỨNG.”.</p>
- <p>Phản hồi bài “[Vaticanology] <a href="https://sachhiem.net/TONGIAO/tgM/MinhThanh37_04.php"><i>Hình mẫu phong thánh quan chức  Chính quyền Vatican chống cộng kiểu Hồng y Nguyễn Văn Thuận: Hồng y Josep Beran  (Tiệp Khắc)</i></a>” bạn đọc Quang Sang có nêu đề xuất: “<i>Xin tác giả Minh Thạnh lên  bài những bằng chứng chống cộng của ông Nguyễn Văn Thuận cho độc giả được  biết</i>”.</p>
+ <p>Phản hồi bài “[Vaticanology] <a href="/TONGIAO/tgM/MinhThanh37_04"><i>Hình mẫu phong thánh quan chức  Chính quyền Vatican chống cộng kiểu Hồng y Nguyễn Văn Thuận: Hồng y Josep Beran  (Tiệp Khắc)</i></a>” bạn đọc Quang Sang có nêu đề xuất: “<i>Xin tác giả Minh Thạnh lên  bài những bằng chứng chống cộng của ông Nguyễn Văn Thuận cho độc giả được  biết</i>”.</p>
  <p>Đề xuất này rất khó nhưng rất dễ thực hiện. Rất khó vì nếu đi  vào chi tiết, Hồng y Phanxicô Xaviê Nguyễn Văn Thuận đã làm những việc gì, ngày  nào, ở đâu, chống cộng như thế nào, kết quả ra sao, căn cứ tài liệu nào…, thì  như thế phải cần đầu tư đến mức một công trình nghiên cứu khoa học lịch sử.</p>
  <p>Rất dễ là vì, trong khuôn khổ một bài viết đăng Facebook, việc  căn cứ những sự việc hiển nhiên, rõ ràng mọi người đều biết, để từ đó nêu câu  hỏi phân tich, làm sáng tỏ vấn đề theo như đề xuất, thì trong tầm tay của tôi.</p>
  <p>Hồng y Nguyễn Văn Thuận chống cộng là việc rõ ràng hiển nhiên.  Có thể nêu câu hỏi ngược lại với bạn đọc Quang Sang, rằng liệu có ai đi nói  Tổng giám mục Phaolô Nguyễn Văn Bình chống cộng không. Do sự thật hiển nhiên,  nhận định như thế là không thể, huống nữa là yêu cầu các “bằng chứng”.</p>

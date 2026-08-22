@@ -2,11 +2,10 @@
 layout: ../../../layouts/Article.astro
 title: "Nhật Ký Điện Tử Cô Long"
 author: "SH giới thiệu"
-source: "https://sachhiem.net/null"
+source: "/null"
 category: "Tác giả"
 lang: vi
 wordCount: 87
-image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nha.jpg"
 ---
 
 <div align="center" style="position: relative; left: 0; top: 0">
@@ -21,8 +20,7 @@ image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nha.jpg"
 <tr><td width="950">
 <table border="0" cellpadding="1" align="center" width="850">
 	<tbody><tr>
-		<td><a href="/index">
-		<img border="0" src="https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nha.jpg"></a> </td>
+		<td> </td>
 		<td>
 		</td>
 		<td valign="top" width="210">

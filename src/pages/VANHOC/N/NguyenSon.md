@@ -3,7 +3,7 @@ layout: ../../../layouts/Article.astro
 title: "Bài Ngũ Cú Nhân Ngày 30/4"
 author: "Sơn Nguyễn"
 date: 2018-04-30
-source: "https://sachhiem.net/VANHOC/N/NguyenSon.php"
+source: "/VANHOC/N/NguyenSon"
 category: "Chính trị"
 lang: vi
 wordCount: 298

@@ -2,7 +2,7 @@
 layout: ../../layouts/Article.astro
 title: "Khóc anh Phạm Thế Mỹ"
 author: "Trần Tuyết Hoa"
-source: "https://sachhiem.net/null"
+source: "/null"
 category: "Văn hóa"
 lang: vi
 wordCount: 1063

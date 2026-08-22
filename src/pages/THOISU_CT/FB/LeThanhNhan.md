@@ -3,7 +3,7 @@ layout: ../../../layouts/Article.astro
 title: "Linh Mục Thì Biết Gì Về Đặc Khu Kinh Tế Mà Hô Hào Biểu Tình"
 author: "FB Lê Thanh Nhàn"
 date: 2018-08-05
-source: "https://sachhiem.net/THOISU_CT/FB/LeThanhNhan.php"
+source: "/THOISU_CT/FB/LeThanhNhan"
 category: "Chính trị"
 lang: vi
 wordCount: 3836

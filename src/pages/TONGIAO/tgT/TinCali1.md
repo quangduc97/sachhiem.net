@@ -3,7 +3,7 @@ layout: ../../../layouts/Article.astro
 title: "Bắc California: 66 Giáo Sĩ Bị Buộc Tội Lạm Dụng Tình Dục Đã Được Xác Định Trong 116 Vụ Kiện"
 author: "East Bay Times/ John WoolFox"
 date: 2022-11-30
-source: "https://sachhiem.net/TONGIAO/tgT/TinCali1.php"
+source: "/TONGIAO/tgT/TinCali1"
 category: "Chính trị"
 lang: vi
 wordCount: 1278

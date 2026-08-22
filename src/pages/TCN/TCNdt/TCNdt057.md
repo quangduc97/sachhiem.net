@@ -3,16 +3,16 @@ layout: ../../../layouts/Article.astro
 title: "Trả Lời Một Trí Thức Trẻ"
 author: "Trần Chung Ngọc"
 date: 2011-12-13
-source: "https://sachhiem.net/TCN/TCNdt/TCNdt057.php"
+source: "/TCN/TCNdt/TCNdt057"
 category: "Đối thoại"
 lang: vi
 wordCount: 2188
-image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.devhttps://sachhiem.net/images/nha.jpg"
+image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/SACHNGOAI/Hinhanh/PEOPLE/RichardDawkins.jpg"
 ---
 
 <table border="0" align="center">
     <tbody><tr>
-    <td width="143"><a href="https://sachhiem.net/index.php"><img border="0" src="https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.devhttps://sachhiem.net/images/nha.jpg"></a>    </td>   
+    <td width="143">    </td>   
     <td width="257"></td>
     </tr></tbody></table>
     <p><span class="First">T</span>ôi được sachhiem chuyển cho thư sau đây và hi vọng tôi trả lời.  </p>

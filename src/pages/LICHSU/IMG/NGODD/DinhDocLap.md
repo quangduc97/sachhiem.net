@@ -1,7 +1,7 @@
 ---
 layout: ../../../../layouts/Article.astro
 title: "Dinh Độc Lập Ngày Nay (Sưu Tầm)"
-source: "https://sachhiem.net/null"
+source: "/null"
 category: "Lịch sử"
 lang: vi
 wordCount: 34

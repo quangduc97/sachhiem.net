@@ -3,7 +3,7 @@ layout: ../../../layouts/Article.astro
 title: "Sau Một Năm Không Chúa, Cựu Mục Sư Ryan Bell Không Còn Tin Tôn Giáo Nữa"
 author: "News Service | By Chris Stedman"
 date: 2015-01-07
-source: "https://sachhiem.net/TONGIAO/tgH/HaiAu01.php"
+source: "/TONGIAO/tgH/HaiAu01"
 category: "Tác giả"
 lang: vi
 wordCount: 1883
@@ -41,7 +41,7 @@ image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/TONGIAO/IMG/MUCSU/Mu
  <p class="TacgiaL">H.A.</p>
  <p>________________</p>
  <p class="TuaDoLeft">Phụ Lục:</p>
- <p class="TuaDenLeft">1 ●  <a href="https://sachhiem.net/printemail.php?id=831" target="_blank" align="right">Thư, Ý kiến ngắn cùng đề tài: </a></p>
+ <p class="TuaDenLeft">1 ●  <a href="/printemail.php?id=831" target="_blank" align="right">Thư, Ý kiến ngắn cùng đề tài: </a></p>
 <p> <strong>Mục sư Ryan Bell: Không Có Chúa</strong></p>
 <p> <i>From:  "Vo phi long V v0philong@yahoo.com [Thoiluan]" <br>
 Sent: Sunday, December 28, 2014 1:07 PM<br>

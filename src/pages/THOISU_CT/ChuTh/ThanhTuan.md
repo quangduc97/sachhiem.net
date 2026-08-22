@@ -2,15 +2,15 @@
 layout: ../../../layouts/Article.astro
 title: "Lời xin lỗi muộn màng"
 author: "THANH TUẤN"
-source: "https://sachhiem.net/THOISU_CT/ChuTh/ThanhTuan.php"
+source: "/THOISU_CT/ChuTh/ThanhTuan"
 category: "Lịch sử"
 lang: vi
 wordCount: 902
-image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nha.jpg"
+image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/LICHSU/IMG/MYLAI/mylai01.jpg"
 ---
 
 <table border="0" cellpadding="1" align="center" width="250">
-        <tbody><tr><td width="100"><a href="https://sachhiem.net/index.php"><img border="0" src="https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nha.jpg"></a></td>
+        <tbody><tr><td width="100"></td>
 			<td valign="top" width="228">  ngày 23 tháng 8, 2009
 			</td>
 		</tr>

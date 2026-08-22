@@ -3,7 +3,7 @@ layout: ../../../layouts/Article.astro
 title: "\"Quốc Gia Cờ Vàng\" có \"Giấy Khai Sanh\" hay không ?"
 author: "Cầu Móng"
 date: 2021-04-29
-source: "https://sachhiem.net/LICHSU/CAUMONG/CauMong.php"
+source: "/LICHSU/CAUMONG/CauMong"
 category: "Chính trị"
 lang: vi
 wordCount: 24

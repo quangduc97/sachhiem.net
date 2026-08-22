@@ -3,17 +3,16 @@ layout: ../../../layouts/Article.astro
 title: "Chân Dung \"Người Việt Quốc Gia\""
 author: "Nguyễn Mạnh Quang"
 date: 2012-12-15
-source: "https://sachhiem.net/NMQ/ChanDungVNCH/QMN04.php"
+source: "/NMQ/ChanDungVNCH/QMN04"
 lang: vi
 wordCount: 12688
-image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/HOANHLINH/images/nha.jpg"
+image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/HOANHLINH/images/print.gif"
 ---
 
 <p class="Tuaduoi">Và Lá Cờ Vàng Ba Sọc Đỏ</p>
 		
 		
-		<p align="center"><a href="/index">
-				<img hspace="20" border="0" src="https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/HOANHLINH/images/nha.jpg"></a> 
+		<p align="center"> 
 <a target="_top" href="/NMQ/ChanDungVNCH/QMN08a"><img hspace="20" border="0" src="https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/HOANHLINH/images/print.gif" width="18" height="18"> bản in</a> 	<a target="_top" href="/NMQ/ChanDungVNCH/ChanDung_Main"><img hspace="20" border="0" src="https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/HOANHLINH/images/Leftarrow.gif" width="13" height="13">  mục lục</a>  mới bổ túc 15-Dec-2012</p> 
  		<p>Toàn tập:&nbsp; <a href="/NMQ/ChanDungVNCH/QMN00a">Dàn bài</a></p>
 			<p class="MUC">CHƯƠNG 4</p>
@@ -808,7 +807,7 @@ image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/HOANHLINH/images/nha
 			11//9/2008, hoặc là tiểu mục 16 (tiểu mục chót) trong Chương 12 ở 
 			dưới, quý vị sẽ thấy rõ cái hình ảnh thê thảm này. Độc giả cũng có 
 			thể kiểm chứng sự kiện này bằng cách xem các hình ảnh kỷ niệm ngày 30 tháng 4 ở trang này:</p>
-			<p><a href="https://sachhiem.net/EMAILS/TonyNgo24.php#SLIDE_SHOW_5:">https://sachhiem.net/EMAILS/TonyNgo24.php#SLIDE_SHOW_5:</a></p>
+			<p><a href="/EMAILS/TonyNgo24#SLIDE_SHOW_5:">https://sachhiem.net/EMAILS/TonyNgo24.php#SLIDE_SHOW_5:</a></p>
 			<p>Phần trình bày trên đây cho chúng ta thấy rõ “<i>lá cờ 
 			vàng ba sọc</i>” do chính Giáo Hội La Mã chủ động họa kiểu 
 			đưa ra với mục đích làm<b> biểu tượng cho quyền lực của Vatican ở 

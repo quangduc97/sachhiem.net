@@ -3,7 +3,7 @@ layout: ../../../layouts/Article.astro
 title: "John Paul II Và Sự Sụp Đổ Của Chủ Nghĩa Cộng Sản"
 author: "Jane Barnes & Helen Whitney /"
 date: 2023-11-22
-source: "https://sachhiem.net/SACHNGOAI/FB/FBSonHa.php"
+source: "/SACHNGOAI/FB/FBSonHa"
 category: "Chính trị"
 lang: vi
 wordCount: 6077

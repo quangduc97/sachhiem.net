@@ -3,7 +3,7 @@ layout: ../../../layouts/Article.astro
 title: "Đi tìm bà Nhu, gặp ông Đại úy (II)"
 author: "Trần Giao Thủy"
 date: 2014-03-07
-source: "https://sachhiem.net/LICHSU/TR/Trangiaothuy_baNhu2.php"
+source: "/LICHSU/TR/Trangiaothuy_baNhu2"
 category: "Tác giả"
 lang: vi
 wordCount: 8809

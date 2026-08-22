@@ -3,7 +3,7 @@ layout: ../../../layouts/Article.astro
 title: "Giáo Lý Kitô Giáo Khiến Chúa Jesus Ăn Thịt Chính Mình"
 author: "Đồng Trần Tử"
 date: 2024-09-20
-source: "https://sachhiem.net/TONGIAO/FB/FBDongTranTu07.php"
+source: "/TONGIAO/FB/FBDongTranTu07"
 category: "Tác giả"
 lang: vi
 wordCount: 1542

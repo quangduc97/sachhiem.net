@@ -3,7 +3,7 @@ layout: ../../../layouts/Article.astro
 title: "Câu Chuyện Về Địa Lý Mồ Mả Của Nhà Ngô"
 author: "Nguyễn Hồng Hải"
 date: 2014-11-02
-source: "https://sachhiem.net/LICHSU/N/NgHongHai_01.php"
+source: "/LICHSU/N/NgHongHai_01"
 category: "Chính trị"
 lang: vi
 wordCount: 887
@@ -27,7 +27,7 @@ To: "sachhiem@sachhiem.net"</i></p>
       Cho Cha lấy mặc ra uy trên tòa</i>." </p>
     <p>thì ai ngu gì mà dịch mộ!</p>
   </div>
-<p>Sau đó không lâu, mộ Ngô Đình Khả, ngôi mộ có được bằng thủ đoạn gian manh kia đã bị trời đánh <a href="https://sachhiem.net/LICHSU/V/Vanthu.php">(xem bài "<i>Tổng Giám Mục Ngô Đình Thục:
+<p>Sau đó không lâu, mộ Ngô Đình Khả, ngôi mộ có được bằng thủ đoạn gian manh kia đã bị trời đánh <a href="/LICHSU/V/Vanthu">(xem bài "<i>Tổng Giám Mục Ngô Đình Thục:
 Nhiều Tham Vọng Nhiều Cay Đắng</i>" của Văn Thư</a>.)    </p>
 <p>Anh em nhà Diệm theo đạo Chúa mà không biết câu </p>
   <p>"<i>Các ngươi xử người ta nhự thế nào thì, các ngươi sẽ cũng bị xử như thế đó!</i>" </p>

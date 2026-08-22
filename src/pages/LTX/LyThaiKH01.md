@@ -2,7 +2,7 @@
 layout: ../../layouts/Article.astro
 title: "Góc đối của những tia cực quang trên bầu trời Colorado"
 author: "Lý Thái Xuân sưu tầm"
-source: "https://sachhiem.net/LTX/LyThaiKH01.php"
+source: "/LTX/LyThaiKH01"
 category: "Khoa học"
 lang: vi
 wordCount: 211

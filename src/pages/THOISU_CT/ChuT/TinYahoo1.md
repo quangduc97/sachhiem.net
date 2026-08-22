@@ -2,7 +2,7 @@
 layout: ../../../layouts/Article.astro
 title: "Giáo Hoàng Hành Hương Đến Quốc Gia"
 author: "Nicole Winfield/AP"
-source: "https://sachhiem.net/null"
+source: "/null"
 category: "Tác giả"
 lang: vi
 wordCount: 2078

@@ -3,7 +3,7 @@ layout: ../../../layouts/Article.astro
 title: "Rời Bỏ Ki-tô Giáo Là Cả Một Quá Trình Dài"
 author: "Hiên Trần"
 date: 2026-08-16
-source: "https://sachhiem.net/TONGIAO/FB/FBHienTran_08.php"
+source: "/TONGIAO/FB/FBHienTran_08"
 category: "Tác giả"
 lang: vi
 wordCount: 1048

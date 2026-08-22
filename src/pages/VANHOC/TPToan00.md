@@ -3,7 +3,7 @@ layout: ../../layouts/Article.astro
 title: "Ý Nghĩa của một câu phong dao"
 author: "Thích Phước Toàn"
 date: 2014-01-02
-source: "https://sachhiem.net/VANHOC/TPToan00.php"
+source: "/VANHOC/TPToan00"
 category: "Văn hóa"
 lang: vi
 wordCount: 1881
@@ -61,4 +61,4 @@ image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/TONGIAO/IMG/SU/tu_ta
  Tacoma, 12/23/14 </p>
 <p>___________________</p>
 <p><b>Bài liên quan:</b></p>
-<p>- <a href="https://sachhiem.net/LICHSU/L/LyNhuThe01.php">Côn Đảo: Nơi Lịch Sử Có Thể Khác</a> (Lý Như Thế)</p>
+<p>- <a href="/LICHSU/L/LyNhuThe01">Côn Đảo: Nơi Lịch Sử Có Thể Khác</a> (Lý Như Thế)</p>

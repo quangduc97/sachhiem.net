@@ -3,7 +3,7 @@ layout: ../../../layouts/Article.astro
 title: "Đã Quá Nhiều Nhân Nhượng Khi Hình Ảnh Tăng, Ni Bị Xúc Phạm Quá Nhiều"
 author: "Dương Kinh Thành"
 date: 2020-11-21
-source: "https://sachhiem.net/VANHOC/DKTH/DgKinhThanh_xh10.php"
+source: "/VANHOC/DKTH/DgKinhThanh_xh10"
 category: "Tác giả"
 lang: vi
 wordCount: 1758

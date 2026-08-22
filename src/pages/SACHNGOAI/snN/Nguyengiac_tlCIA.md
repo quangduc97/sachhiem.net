@@ -3,7 +3,7 @@ layout: ../../../layouts/Article.astro
 title: "Tài Liệu Giải Mật Của CIA"
 author: "Sưu tầm của NGTT"
 date: 2016-06-01
-source: "https://sachhiem.net/SACHNGOAI/snN/Nguyengiac_tlCIA.php"
+source: "/SACHNGOAI/snN/Nguyengiac_tlCIA"
 category: "Lịch sử"
 lang: vi
 wordCount: 1036

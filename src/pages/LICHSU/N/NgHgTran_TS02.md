@@ -3,15 +3,15 @@ layout: ../../../layouts/Article.astro
 title: "Tôi Đã Đọc Hồi Ký “Bên Nhau Trọn Đời” Của Bà Nguyễn Thụy Nga"
 author: "Nguyễn Hồng Trân"
 date: 2012-06-27
-source: "https://sachhiem.net/LICHSU/N/NgHgTran_TS02.php"
+source: "/LICHSU/N/NgHgTran_TS02"
 category: "Lịch sử"
 lang: vi
 wordCount: 27553
-image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nha.jpg"
+image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/COVER/biaUL.jpg"
 ---
 
 <table border="0" cellpadding="1" align="center" width="250">
-        <tbody><tr><td width="100"><a href="https://sachhiem.net/index.php"><img border="0" src="https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nha.jpg"></a></td>
+        <tbody><tr><td width="100"></td>
 		<td valign="top" width="205"> </td>
 	</tr>
 </tbody></table> 

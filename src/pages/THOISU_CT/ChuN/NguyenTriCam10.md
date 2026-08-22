@@ -3,7 +3,7 @@ layout: ../../../layouts/Article.astro
 title: "Đàm phán hạt nhân giữa Hoa Kỳ và Việt Nam"
 author: "By Ai Yang (China Daily)"
 date: 2010-08-06
-source: "https://sachhiem.net/THOISU_CT/ChuN/NguyenTriCam10.php"
+source: "/THOISU_CT/ChuN/NguyenTriCam10"
 category: "Chính trị"
 lang: vi
 wordCount: 1447

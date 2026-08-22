@@ -2,15 +2,15 @@
 layout: ../../../layouts/Article.astro
 title: "Các bài tường thuật về sự lạm dụng (tình dục)"
 author: "Nguyễn Trí Cảm chuyển ngữ"
-source: "https://sachhiem.net/TONGIAO/NGTRCAM/NguyenTriCam010b.php"
+source: "/TONGIAO/NGTRCAM/NguyenTriCam010b"
 category: "Tác giả"
 lang: vi
 wordCount: 10112
-image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nha.jpg"
+image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/IMG/PristRapeNuns.jpg"
 ---
 
 <table border="0" cellpadding="1" width="250" align="center"><tbody><tr>
-	<td><a href="https://www.sachhiem.net/"><img border="0" src="https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nha.jpg"></a></td>
+	<td></td>
 <td valign="top" width="195"><p> ngày 11 tháng 7, 2009 </p>	</td>
 							</tr>
 						</tbody></table>

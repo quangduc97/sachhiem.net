@@ -2,16 +2,16 @@
 layout: ../../layouts/Article.astro
 title: "Tại sao Hồng Y Francis Spellman"
 author: "Cécilia Trần Thị Vĩnh Tường"
-source: "https://sachhiem.net/TRTVT/TTVT_LS02.php"
+source: "/TRTVT/TTVT_LS02"
 category: "Lịch sử"
 lang: vi
 wordCount: 8631
-image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nha.jpg"
+image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/LICHSU/IMG/HoaKy/USSconstitution.jpg"
 ---
 
 <table border="0" cellpadding="0" width="250" align="center">
             <tbody><tr>
-              <td width="125"><a href="/index"><img border="0" src="https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nha.jpg"></a></td>
+              <td width="125"></td>
 			<td valign="top" style="text-align:right">13 tháng 11, 2010</td></tr></tbody></table>
 			
 			<div style="border-top: 1px solid #949494; border-bottom: 1px solid #949494; padding-left: 50px; padding-right: 50px; padding-top: 4px; padding-bottom: 4px; background-color: #E0E0E2">
@@ -908,7 +908,7 @@ Nhà thờ Urakami, 850 người chết cháy khi đang cầu nguyện </p>
 			(7) <a href="https://www.reformation.org/vietnam.html">https://www.reformation.org/vietnam.html</a>, </p>
 			<p>
 			 
-			<a href="https://sachhiem.net/LICHSU/AVRO/AVRO_01.php">
+			<a href="/LICHSU/AVRO/AVRO_01">
 			https://sachhiem.net/LICHSU/AVRO/AVRO_01.php</a>
 			- dịch giả Trần Thanh Lưu</p>
 			<p>
@@ -935,7 +935,7 @@ Nhà thờ Urakami, 850 người chết cháy khi đang cầu nguyện </p>
 			trang 164.
 			</p>
 			<p>(14)
-			<a href="https://sachhiem.net/SACHNGOAI/HoangKhoi.php">
+			<a href="/SACHNGOAI/HoangKhoi">
 			https://sachhiem.net/SACHNGOAI/HoangKhoi.php</a></p>
 			<p>(15)
 			<a href="https://www.30giorni.it/us/articolo.asp?id=9049">https://www.30giorni.it/us/articolo.asp?id=9049</a></p>

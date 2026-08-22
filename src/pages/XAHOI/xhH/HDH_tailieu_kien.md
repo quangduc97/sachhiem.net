@@ -3,7 +3,7 @@ layout: ../../../layouts/Article.astro
 title: "Kiện Cáo Lúc Ông Hoàng Duy Hùng Làm Nghị Viên ở Houston - Phần I"
 author: "SH sưu tầm"
 date: 2023-09-09
-source: "https://sachhiem.net/XAHOI/xhH/HDH_tailieu_kien.php"
+source: "/XAHOI/xhH/HDH_tailieu_kien"
 category: "Chính trị"
 lang: vi
 wordCount: 7404
@@ -55,7 +55,7 @@ image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/THOISU_CT/Hinh/HDH/2
 <p>  Báo  Đẹp  xin trích đăng lại những tin tức trong tuần qua của các đồng nghiệp Hoa Kỳ với phần trích dịch của các cộng tác viên, hầu phục vụ cho quý độc giả không có phương tiện theo dõi tin tức của truyền thông Mỹ và một số thư, ý kiến của đồng hương gốc Việt liên quan đến vụ Nannygate. Trong tương lai, báo Đẹp sẽ tiếp tục xin phép trích đăng những tin tức mới có liên hệ đến ông nghị Al Hoàng, đến danh dự và uy tín của cộng đồng người Mỹ gốc Việt, vì có thể … một con sâu làm sầu nồi canh nếu ông nghị Al Hoàng là một nhà làm luật thành phố  thực sự vi luật để thủ lợi riêng mà gây họa lây cho những người láng giềng gốc Việt yêu nước hoài niệm thủ đô cũ của chúng ta, nhưng nếu ông nghị bị hàm oan thì chắc chắn cộng đồng chúng ta cũng không thể ngồi yên để người bản xứ hiểu lầm chung cho cả dân tộc.</p>
 <p>  Mời quý độc giả tuần tự theo dõi tin tức trích từ báo, đài Anh ngữ tại Houston, với hy vọng là các đài, các báo Việt ngữ khác trong thành phố cũng sẽ nhập cuộc để phục vụ hữu hiệu hơn cho độc giả, thính giả tại địa phương mình hoạt động.</p>
 <p>  <strong>ĐẸP MAGAZINE</strong></p>
-<p><a href="https://sachhiem.net/XAHOI/xhH/HDH_tailieu_Eng.php">[mời xem nguyên bản Anh ngữ ở link này]</a></p>
+<p><a href="/XAHOI/xhH/HDH_tailieu_Eng">[mời xem nguyên bản Anh ngữ ở link này]</a></p>
 <p align="center"><img src="https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/THOISU_CT/Hinh/HDH/2012_11Jul_HDH.JPG" width="400" height="335" alt=""></p>
 <p><strong>1- <u>TIN  NÓNG CỦA ĐÀI TRUYỀN HÌNH 11 KHOU TV TỐI 14-6-2011</u></strong> </p>
 <p>  <strong>ĐỂ ĐỔI TÊN ĐUỜNG 1 NGHỊ VIÊN TẠI HOUSTON BỊ TỐ CÁO LÀ GIẢ MẠO CHỮ KÝ</strong> </p>
@@ -204,7 +204,7 @@ image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/THOISU_CT/Hinh/HDH/2
 <p class="TacgiaL">Phúc Linh</p>
  <p class="nguonL">Nguồn<a href="https://chungtoimuontudo.wordpress.com/2011/06/23/ngh%e1%bb%8b-vien-al-hoang-%e1%bb%9f-houston-v%e1%bb%9bi-v%e1%bb%a5-gi%e1%ba%a3-m%e1%ba%a1o-ch%e1%bb%af-ky-d%e1%bb%83-xin-d%e1%bb%95i-ten-d%c6%b0%e1%bb%9dng/"> Báo Đẹp: Chungtoimuontudo.wordpress.com, ngày June 23, 2011 </a></p>
  
- <p><a href="https://sachhiem.net/XAHOI/xhH/HDH_tailieu_Eng.php">[mời xem nguyên bản Anh ngữ ở link này]</a></p>
+ <p><a href="/XAHOI/xhH/HDH_tailieu_Eng">[mời xem nguyên bản Anh ngữ ở link này]</a></p>
  <p>______________</p>
  <p><b>Bài đọc thêm:</b></p>
- <p>- Bạo Động Xảy Ra Trong Ngày Bầu Cử Dân Biểu Đơn Vị 149 - Houston, Texas (<a href="https://xaydunghouston.com/HoustonCoGiLa/797khihaiungcuviengocviet.htm">báo điện tử xaydunghouston.com</a>); đăng lại ở SH <a href="https://sachhiem.net/XAHOI/xhH/HDH_tailieu_kien02.php">(xem link)</a></p>
+ <p>- Bạo Động Xảy Ra Trong Ngày Bầu Cử Dân Biểu Đơn Vị 149 - Houston, Texas (<a href="https://xaydunghouston.com/HoustonCoGiLa/797khihaiungcuviengocviet.htm">báo điện tử xaydunghouston.com</a>); đăng lại ở SH <a href="/XAHOI/xhH/HDH_tailieu_kien02">(xem link)</a></p>

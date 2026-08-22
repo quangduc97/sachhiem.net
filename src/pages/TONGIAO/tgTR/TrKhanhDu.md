@@ -3,7 +3,7 @@ layout: ../../../layouts/Article.astro
 title: "Tâm Sự Một Người \"Công Giáo Tỉnh Ngộ\""
 author: "Khanh Du"
 date: 2012-02-16
-source: "https://sachhiem.net/TONGIAO/tgTR/TrKhanhDu.php"
+source: "/TONGIAO/tgTR/TrKhanhDu"
 category: "Tác giả"
 lang: vi
 wordCount: 1327
@@ -110,22 +110,22 @@ nhận thức của cháu bắt đầu thay đổi từ từ....” (KD)</p>
 <p>-------------------</p>
 <p><b>Phản hồi 1:</b></p>
 <p><b>-</b>
-      <a href="https://sachhiem.net/index.php?content=showemail&amp;id=60"> Nguyễn Đức
+      <a href="/net/TONGIAO/tgTR/TrKhanhDu"> Nguyễn Đức
         Quốc: Tâm Sự Một Người "Công Giáo Tỉnh Ngộ" </a>      </p>
 <p><b>Phản hồi 2:</b></p>
 <p>
-          <a href="https://sachhiem.net/index.php?content=showemail&amp;id=60"> - SGM
+          <a href="/net/TONGIAO/tgTR/TrKhanhDu"> - SGM
           (newsaigonsd@yahoo.com): Gửi Bạn N.Đ. Quốc - Tâm Sự Một Người "Công
           Giáo Tỉnh Ngộ" </a>          </p>
 <p><b>Phản hồi 3:</b></p>
 <p>
-            <a href="https://sachhiem.net/index.php?content=showemail&amp;id=61">- Trần
+            <a href="/net/index">- Trần
             Tiên Long: Re: Gửi Bạn N.Đ. Quốc - Công Giáo Không Còn Là Một Nguyên Khối </a>            </p>
 <p><b>Phản hồi 4:</b></p>
 <p>
-  <a href="https://sachhiem.net/index.php?content=showemail&amp;id=62"> - Nguyễn Hữu
+  <a href="/net/TONGIAO/tgTR/TrKhanhDu"> - Nguyễn Hữu
     Ba: Re: Gửi Bạn N.Đ. Quốc - Tâm Sự Một Người "Công Giáo Tỉnh Ngộ" </a></p>
 <p><b>Phản hồi 5:</b></p>
 <p>
-<a href="https://sachhiem.net/index.php?content=showemail&amp;id=63"> - Trần Khanh Du:
+<a href="/net/TONGIAO/tgTR/TrKhanhDu"> - Trần Khanh Du:
 Trả lời Bạn N.Đ. Quốc - Tâm Sự Một Người "Công Giáo Tỉnh Ngộ"  (phần 2) </a></p>

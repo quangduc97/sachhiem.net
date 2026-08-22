@@ -3,7 +3,7 @@ layout: ../../../layouts/Article.astro
 title: "Giê-su Có Thực Hay Không ?"
 author: "Mark W. Thomas"
 date: 2013-12-24
-source: "https://sachhiem.net/SACHNGOAI/snT/TThL4.php"
+source: "/SACHNGOAI/snT/TThL4"
 category: "Chính trị"
 lang: vi
 wordCount: 7395

@@ -3,7 +3,7 @@ layout: ../../../layouts/Article.astro
 title: "Dấu Giày Vatican Trên Quê Hương Tôi - Tập 1"
 author: "Nguyễn Mạnh Quang"
 date: 2021-06-28
-source: "https://sachhiem.net/28-Jun-2021"
+source: "/28-Jun-2021"
 lang: vi
 wordCount: 284
 image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/NMQ/DAUGIAY/NMQ_BIATRUOC_sm.png"
@@ -15,11 +15,11 @@ image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/NMQ/DAUGIAY/NMQ_BIAT
 	<center>
 	  <img src="https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/NMQ/DAUGIAY/NMQ_BIATRUOC_sm.png" width="250" height="382" alt="">
 	  
- 	<p align="center"><a href="/index"><img src="https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nha.jpg" border="0" title="trở vê trang nhà"></a></p></center>
+ 	</center>
     
 		
 	
-	<p><a target="DauGiay" href="https://sachhiem.net/NMQ/DAUGIAY/DauGiay00.php#DẪN_NHẬP_">Dẫn nhập</a></p>
+	<p><a target="DauGiay" href="/NMQ/DAUGIAY/DauGiay00#DẪN_NHẬP_">Dẫn nhập</a></p>
 	<p>Chương 1: <a href="/NMQ/DAUGIAY/DauGiay01">Những khu rừng tội ác loạn luân, tham tàn và man rợ trong kinh thánh Ki-tô</a> <a href="/NMQ/DAUGIAY/DauGiay01c"></a></p>
     <p>Chương 2: <a href="/NMQ/DAUGIAY/DauGiay02">Tổng quát về khu rừng tội lỗi của GHLM trong gần 2000 năm qua.</a> <a href="/NMQ/DAUGIAY/DauGiay02c"></a></p>
     <p>Chương 3: <a href="/NMQ/DAUGIAY/DauGiay03">Các đại diện Chúa thực sự chỉ là những tên ác quỷ và dâm tặc.</a> <a href="/NMQ/DAUGIAY/DauGiay03"> </a><a href="/NMQ/DAUGIAY/DauGiay03d"></a></p>

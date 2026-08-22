@@ -3,7 +3,7 @@ layout: ../../../layouts/Article.astro
 title: "Phá Vỡ Sự Im Lặng:"
 author: "Phụ Đề Việt Ngữ"
 date: 2016-03-10
-source: "https://sachhiem.net/TONGIAO/tgS/Spotlight01.php"
+source: "/TONGIAO/tgS/Spotlight01"
 category: "Tác giả"
 lang: vi
 wordCount: 263
@@ -23,4 +23,4 @@ image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/SACHNGOAI/Hinhanh/SP
 <p>Giải thưởng thường niên  lần thứ 50 của Hiệp hội Phê bình Phim Mỹ (NSFC) công bố danh sách tác phẩm được  vinh danh hôm 3/1. Spotlight (Tâm Điểm) thắng giải&nbsp;"Phim hay nhất" và "Kịch bản  hay nhất". </p>
 <p><strong>Giáo hội công giáo  hoàn toàn không ủng hộ bộ phim này.</strong></p>
 <hr><p><b>Mời xem thêm:</b></p>
-<p>- <a href="https://sachhiem.net/TONGIAO/tgS/Spotlight.php">SPOTLIGHT - Khi Tội Ác Không Còn Được Dung Dưỡng Dưới Bàn Tay Bao Bọc Của Chúa (Kênh14.VN)</a></p>
+<p>- <a href="/TONGIAO/tgS/Spotlight">SPOTLIGHT - Khi Tội Ác Không Còn Được Dung Dưỡng Dưới Bàn Tay Bao Bọc Của Chúa (Kênh14.VN)</a></p>

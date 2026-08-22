@@ -3,7 +3,7 @@ layout: ../../../layouts/Article.astro
 title: "Việt Nam Quốc Sử Hùng Ca"
 author: "Cầu Móng NTTTLA"
 date: 2023-06-06
-source: "https://sachhiem.net/LICHSU/CAUMONG/CauMong_01.php"
+source: "/LICHSU/CAUMONG/CauMong_01"
 category: "Lịch sử"
 lang: vi
 wordCount: 10

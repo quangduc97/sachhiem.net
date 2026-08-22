@@ -3,7 +3,7 @@ layout: ../../../layouts/Article.astro
 title: "Sự Thương-Ghét Của Con Người"
 author: "Đào Văn Bình"
 date: 2016-01-05
-source: "https://sachhiem.net/DAOVB/TG/DaovBinh10.php"
+source: "/DAOVB/TG/DaovBinh10"
 category: "Tác giả"
 lang: vi
 wordCount: 3393

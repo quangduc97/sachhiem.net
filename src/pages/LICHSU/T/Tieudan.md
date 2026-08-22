@@ -3,16 +3,16 @@ layout: ../../../layouts/Article.astro
 title: "Cảm Nghĩ Về Sự Cáo Chung Của Một Chế Độ Độc Tài"
 author: "Tiểu Dân"
 date: 2012-10-24
-source: "https://sachhiem.net/LICHSU/T/Tieudan.php"
+source: "/LICHSU/T/Tieudan"
 category: "Chính trị"
 lang: vi
 wordCount: 3081
-image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nha.jpg"
+image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/LICHSU/IMG/NGODD/danmungquandoi1b_saulatdo.jpg"
 ---
 
 <table border="0" cellpadding="0" width="250" align="center">
             <tbody><tr>
-              <td width="125"><a href="/index"><img border="0" src="https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nha.jpg"></a></td>
+              <td width="125"></td>
               <td valign="middle">24-Oct-2012</td>
             </tr>
           </tbody></table>

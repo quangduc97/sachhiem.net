@@ -3,7 +3,7 @@ layout: ../../../layouts/Article.astro
 title: "Nhận Xét Về Các Phát Biểu Của Linh Mục Phêrô Nguyễn Văn Khải Về Nguồn Gốc Mảnh Đất Nhà Thờ Lớn"
 author: "Lý Thái Xuân"
 date: 2026-02-02
-source: "https://sachhiem.net/TONGIAO/TOAKHAM/Lythai1.php"
+source: "/TONGIAO/TOAKHAM/Lythai1"
 category: "Tác giả"
 lang: vi
 wordCount: 4477
@@ -45,7 +45,7 @@ image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/TONGIAO/IMG/LINHMUC/
   <p><i>Nếu  có dựa vào một tài liệu nào thì đó lại là <b>tài  liệu không đáng tin</b>.</i></p>
 </div>
 <p>Ngoài ra, những câu tuyên bố rời rạc đó cũng sai be sai bét. Thí dụ  câu: “<i>Sự thật là chính quyền của Nhà Lê  cũng như Nhà Tây Sơn cuối thế kỷ XVIII đã cho lấy gạch đổ nát của chùa Báo  Thiên để đắp vá tường thành Thăng Long</i>.” </p>
-<p>Ông không ghi niên đại (cái mà ông  đòi hỏi người ta) và cũng không căn cứ gì cả. Đúng ra, theo tài liệu “Tang  Thương Ngẫu Lục” của danh sĩ Phạm Đình Hổ, thì khoảng năm 1791, năm Giáp Dần,  có ghi: “<i>Đức Thái Tổ Hoàng đế tiên triều  (Lê Lợi)</i> (có tài liệu ghi tên vua phải là Quang Trung, vì lúc này Vua Lê Lợi  không còn nữa<i>) đào lấy những gạch đá ở nền  tháp cũ để tu bổ thành lũy Thăng Long.” </i> Ở đây chỉ nói đến tháp, chớ không  nói đến Chùa. (Xem trích dân ở bài <a href="https://sachhiem.net/TONGIAO/NguyenAnTiem.php">"Hà Nội: Từ Chùa  Báo Thiên Đến Nhà Thờ Lớn" của Nguyễn An Tiêm</a>.)</p>
+<p>Ông không ghi niên đại (cái mà ông  đòi hỏi người ta) và cũng không căn cứ gì cả. Đúng ra, theo tài liệu “Tang  Thương Ngẫu Lục” của danh sĩ Phạm Đình Hổ, thì khoảng năm 1791, năm Giáp Dần,  có ghi: “<i>Đức Thái Tổ Hoàng đế tiên triều  (Lê Lợi)</i> (có tài liệu ghi tên vua phải là Quang Trung, vì lúc này Vua Lê Lợi  không còn nữa<i>) đào lấy những gạch đá ở nền  tháp cũ để tu bổ thành lũy Thăng Long.” </i> Ở đây chỉ nói đến tháp, chớ không  nói đến Chùa. (Xem trích dân ở bài <a href="/TONGIAO/NguyenAnTiem">"Hà Nội: Từ Chùa  Báo Thiên Đến Nhà Thờ Lớn" của Nguyễn An Tiêm</a>.)</p>
 <p>Đó là cách mà ông đại diện Chúa “lý luận” từ xưa nay  <a href="https://www.facebook.com/reel/1444135780110311">trong công tác “Chống Cộng” của ông</a>. Có lẽ vì thế mà ông được mấy câu bình luận  kiểu như nick Đại Hải Thủy!!!</p>
 <p>Cũng trong bài viết này, ông Khải nhiều lần muốn xác nhận  là giữa các quan Pháp&nbsp; không cùng phe với  Giáo hội La mã.</p>
 <p>Ngoài ra, linh mục Khải còn tái bút thêm một kiểu rất “ba  gai” như sau:</p>
@@ -87,7 +87,7 @@ image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/TONGIAO/IMG/LINHMUC/
 <p>Thông tin từ tấm ảnh và được Linh mục Khải ghi ở trên này  chỉ nói lên sự kiện là có một ngôi nhà thờ bằng gỗ xây trước đó và bị tàn phá  trước khi xây lại năm 1883. Nhưng không  rõ ngôi nhà thờ trước đó được <b>xây lúc  nào</b> và <b>nguồn gốc </b>mảnh đất đó như  thế nào. </p>
 <p>Cháu linh mục Khải có đồng ý với nhận xét của tôi không?  Bây giờ tôi cho biết thêm cái chi tiết cần biết mà thông tin trên còn thiếu đó.</p>
 <p class="indent50">“<b><i>Năm 1873</i></b><i>, được sự đồng ý của chính quyền thuộc địa, Giáo hội Công giáo chiếm một  khu đất thuộc chùa Báo Thiên và cho xây dựng ở đây một <b>nhà thờ bằng gỗ.</b> Đến năm 1883 chùa Báo Thiên hoàn toàn được phá bỏ  để <b>xây dựng Nhà thờ lớn Hà Nội</b></i>.”</p>
-<p>Đoạn văn đó trích từ bài viết của tác giả <i>Trần Minh Khoa:</i> Lịch sử -  Pháp lý - Hiện thực - Tình người (trả lời Lê Tuấn Huy về vụ đòi "toà  khâm") theo Blog Sen Việt <a href="https://sachhiem.net/DOITHOAI/TranMinhKhoa.php">https://sachhiem.net/DOITHOAI/TranMinhKhoa.php</a></p>
+<p>Đoạn văn đó trích từ bài viết của tác giả <i>Trần Minh Khoa:</i> Lịch sử -  Pháp lý - Hiện thực - Tình người (trả lời Lê Tuấn Huy về vụ đòi "toà  khâm") theo Blog Sen Việt <a href="/DOITHOAI/TranMinhKhoa">https://sachhiem.net/DOITHOAI/TranMinhKhoa.php</a></p>
 <p>Thông  tin này hoàn toàn phù hợp với bức hình “<i>tái  xây dựng ngôi nhà thờ</i>” năm 1883 mà cháu linh mục Khải đăng trong bài, và  cũng ăn khớp với các thông tin khác chung quanh sự liên hệ giữa Nhà Thờ Lớn với  Chùa Báo Thiên, mà chúng ta sẽ được nghe trong phần trình bày sau. </p>
 <p>Tóm lại, bài viết ngày 26 tháng 12, 2025 của cháu linh mục  Khải không chứng minh được bất cứ điều gì mới lạ, và chẳng có giá trị gì về mặt  chuyên nghiệp cả?</p>
 <p>Trên web Talawas, có ảnh chụp nhà nguyện đầu tiên của Hội Truyền Giáo xây bằng gỗ, ghi là năm 1876 (có lẽ là năm hoàn thành):</p>
@@ -149,7 +149,7 @@ image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/TONGIAO/IMG/LINHMUC/
   <p align="center"><img src="https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/TONGIAO/IMG/SACH/TAILIEU_p125_Bonnal.jpg" width="450" height="464" alt=""></p>
   <p> Bài dịch của trang này được sử dụng trong nhiều bài nghiên cứu nguồn gốc mảnh đất mà Nhà Thờ Lớn nằm trên đó.</p>
   <p>..“<i>Phá hủy ngôi chùa và chiếm lấy miếng đất, việc đó xem ra chẳng có gì dễ dàng hơn trong thời điểm chinh phục mà chúng ta đang tiến hành, nhưng bản thân tôi, đúng theo lẽ, e ngại phạm sự lạm quyền khi làm như vậy, và tôi chọn giải pháp thỉnh ý ông Tổng đốc Nguyễn Hữu Độ. Ông nầy rất có thiện cảm với vị giám mục, cũng như tôi, ông muốn làm cho ngài hài lòng; sau đây là cách thức ông gỡ mối khó khăn. Trước hết ông cho truy tìm xem còn có kẻ hậu duệ nào..</i>."</p>
-  <p>Xin đọc tiếp ở bài "<a href="https://sachhiem.net/LICHSU/P/PTVN.php">Chùa Báo Thiên có bị thực dân Pháp và tay sai phá đi xây Nhà thờ Lớn?" (Phật Tử ViệtNam)</a></p>
+  <p>Xin đọc tiếp ở bài "<a href="/LICHSU/P/PTVN">Chùa Báo Thiên có bị thực dân Pháp và tay sai phá đi xây Nhà thờ Lớn?" (Phật Tử ViệtNam)</a></p>
   <p class="sub"><b>4. Trong  phần bình luận dưới bài của Linh  mục Khải,</b> có một vị khách trả lời cho một vị khách khác, tên An Trần. Trong phần bình luận xuất sắc này, nick Khánh Trinh Vũ giới thiệu rất kỹ về tài liệu của André Masson như sau.  </p>
   <p align="center"><img src="https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/TONGIAO/IMG/LINHMUC/PheroNGVANKHAI/Comment_KhanhTrinhVo.JPG" width="541" height="1136" alt=""></p>
   <p><span class="sub">Thiết tưởng đây là câu trả lời rất tỉ mỉ và rốt ráo cho đề tài mà ông Khải muốn "tranh đấu" chống lại dư luận.</span></p>
@@ -163,7 +163,7 @@ image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/TONGIAO/IMG/LINHMUC/
 
  <p> <b>Chùa Báo Thiên có bị thực dân Pháp và tay sai phá đi  xây Nhà thờ Lớn?</b></p>
 <p><i>Phật Tử Việt Nam</i> 
-(<a href="https://sachhiem.net/LICHSU/P/PTVN.php">https://sachhiem.net/LICHSU/P/PTVN.php</a>)</p>
+(<a href="/LICHSU/P/PTVN">https://sachhiem.net/LICHSU/P/PTVN.php</a>)</p>
 <p>Rất mong bài này sẽ giúp giải tỏa thêm những thắc mắc còn sót lại sau rất nhiều cuộc tranh đấu cho sự thật lịch sử liên quan đến Nhà Thờ Lớn, và số phận hẩm hiu của Chùa Báo Thiên.</p>
 <p>Kính chúc quí độc giả một ngày an bình.</p>
 

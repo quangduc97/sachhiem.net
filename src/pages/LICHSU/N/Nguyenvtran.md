@@ -3,7 +3,7 @@ layout: ../../../layouts/Article.astro
 title: "Ông Ngô Đình Diệm: Chí Sĩ Và Tổng Thống"
 author: "Nguyễn Văn Trần /DCV"
 date: 2013-11-04
-source: "https://sachhiem.net/LICHSU/N/Nguyenvtran.php"
+source: "/LICHSU/N/Nguyenvtran"
 category: "Chính trị"
 lang: vi
 wordCount: 5439

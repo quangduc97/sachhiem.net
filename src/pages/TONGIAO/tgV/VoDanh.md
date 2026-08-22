@@ -2,18 +2,17 @@
 layout: ../../../layouts/Article.astro
 title: "Những Quyển Sách Phê Bình"
 author: "Vô Danh Sưu Tầm"
-source: "https://sachhiem.net/TONGIAO/tgV/VoDanh.php"
+source: "/TONGIAO/tgV/VoDanh"
 category: "Tác giả"
 lang: vi
 wordCount: 18274
-image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nha.jpg"
+image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/PheBinhCG_files/Thanhkinh1.jpg"
 ---
 
 <p style="text-align: center" class="Tuaduoi">Thiên Chúa Giáo La Mã</p>
 		
  
- <p align="center"><a href="https://www.sachhiem.net/">
-<img border="0" src="https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nha.jpg"></a> 07 tháng 10, 2007
+ <p align="center"> 07 tháng 10, 2007
 	</p>
 <p style="text-align: center"><img border="0" src="https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/PheBinhCG_files/Thanhkinh1.jpg" width="216" height="322"></p>
 <p>

@@ -2,10 +2,10 @@
 layout: ../../../layouts/Article.astro
 title: "Ki-tô Giáo - Công Giáo: Bản Chất & Thực Chất (Trần Chung Ngọc)"
 author: "Trần Chung Ngọc"
-source: "https://sachhiem.net/null"
+source: "/null"
 lang: vi
 wordCount: 18952
-image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nha.jpg"
+image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/SACHNGOAI/Hinhanh/BIASACH/GoingB5.jpg"
 ---
 
 <div align="center" style="position:  relative; left:  0; top:  0">
@@ -25,8 +25,7 @@ image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nha.jpg"
 <tr><td width="100%">
 <div style="padding-left:  50px; padding-right:  50px"> 
 	<table border="0" cellpadding="1" width="86%" cols="2" height="39"><tbody><tr>
-	<td><a href="/TCN/http: //www.sachhiem.net/">
-	<img border="0" src="https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nha.jpg"></a></td>
+	<td></td>
 <td valign="top" width="210"><p>05 tháng 2,  2010</p></td></tr></tbody></table>
 		<p class="MsoNormal" style="line-height: normal"><i>LTS: Đã có quá nhiều 
 		đề mục về đạo Ki-tô được viết bởi Giáo sư Trần Chung Ngọc. &nbsp;Nhưng với 
@@ -39,7 +38,7 @@ image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nha.jpg"
 		không ngờ mới nhất là những Mục Sư Tin Lành đã có thể nói lên những lời 
 		phản dân tộc, và vô tổ quốc một cách trắng trợn, ngược ngạo như thế. 
 		Trong bài
-		<a href="https://sachhiem.net/TONGIAO/tgN/NguyenLam.php">
+		<a href="/TONGIAO/tgN/NguyenLam">
 		"Nhân Vụ Đồng Chiêm - Quạ Thì Đen”, tác giả Nguyễn Lâm</a> đã cho xem 
 		một tấm ảnh chụp các mục sư trong một buổi hành lễ Noel vừa qua, nhìn 
 		không khác những người lệch lạc, hay nói cách khác, bệnh tâm thần. Trong 
@@ -262,7 +261,7 @@ image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nha.jpg"
 	<p> Một phần chi tiết những núi tội ác của Giáo hội 
 	Công giáo hoàn vũ đã được trình bày qua loạt bài về <i>“Công Giáo Hắc Sử”</i> 
 	đã đăng trên sachhiem.net và giaodiemonline.com. Độc giả có thể đọc loạt 
-	bài này: <a href="https://www.sachhiem.net/TCN/TCNtg/CGchinhsu/CGCS3.php">
+	bài này: <a href="/TCN/TCNtg/CGchinhsu/CGCS3">
 	https://www.sachhiem.net/TCN/TCNtg/CGchinhsu/CGCS3.php</a> và nhiều bài khác 
 	về thực chất Công giáo trong hai trang nhà trên. Bài viết này chỉ có mục 
 	đích hé mở cánh cửa để cho chút ánh sáng sự thật có thể lọt vào trong những 
@@ -431,7 +430,7 @@ image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nha.jpg"
 	đại sảnh Methodist ở Westminster, Luân Đôn, để nghe một cuộc tranh luận về 
 	chủ đề “<i>Giáo hội Công giáo có phải là một lực lượng để tạo nên sự tốt đẹp 
 	trong thế giới không?”</i> 
-	<a href="https://www.sachhiem.net/TCN/TCNdt/TCNdt042.php">[Is the Catholic Church a force for good in the 
+	<a href="/TCN/TCNdt/TCNdt042">[Is the Catholic Church a force for good in the 
 	World?] thuộc chương trình <i>Intelligence Squared Debate</i></a><i>,</i> một diễn đàn 
 	tranh luận thiết lập ở Anh trước đây 6 năm. Điều khiển cuộc tranh luận là nữ 
 	ký giả Zeinab Badawi, tốt nghiệp đại học Oxford về chính trị, triết học và 
@@ -924,7 +923,7 @@ image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nha.jpg"
 	xâm chiếm Việt Nam, biến Việt Nam thành thuộc địa của Pháp. Trong số này 
 	chúng ta phải kể đến những Giám mục Huc, Retord, Pellerin, Gauthier, 
 	Puginier v..v.. [Xin đọc bài “Nhân Vụ Đồng Chiêm” – Quạ Thì Đen” của Nguyễn 
-	Lâm trên <a href="https://www.sachhiem.net/TONGIAO/tgN/NguyenLam.php">
+	Lâm trên <a href="/TONGIAO/tgN/NguyenLam">
 	https://www.sachhiem.net/TONGIAO/tgN/NguyenLam.php</a> ngày 1/2/2009]</p>
 	<p>Tất cả đều có những hoạt động gián điệp với sự tiếp tay của một số không 
 	nhỏ tín đồ Công giáo bản xứ. Hiện nay, những sử liệu về hoạt động gián điệp 
@@ -1134,7 +1133,7 @@ image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nha.jpg"
 	đức của một số không nhỏ Giáo hoàng, tôi đã viết bài <i>“Đây! Những</i> <i>
 	“Đức Thánh Cha”, Đại Diện Của Chúa Ki-Tô trên Trần và là Chủ Chăn của Giáo 
 	Hội Công Giáo :Thiên Khải, Duy Nhất, Thánh Thiện, Tông truyền,”</i> đăng 
-	trên sachhiem.net: <a href="https://www.sachhiem.net/TCN/TCNtg/TCN20.php">https://www.sachhiem.net/TCN/TCNtg/TCN20.php</a>, 
+	trên sachhiem.net: <a href="/TCN/TCNtg/TCN20">https://www.sachhiem.net/TCN/TCNtg/TCN20.php</a>, 
 	tôi sẽ không nhắc lại những chi tiết trong đó nữa. Ở đây, tôi chỉ nêu lên 
 	một số sự kiện tổng quát để chứng minh là:</p>
 	<p> <i>“<u>Đọc lịch sử Giáo hội Công Giáo từ đầu cho đến 
@@ -1201,7 +1200,7 @@ image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nha.jpg"
 	phải đi truyền đạo trên khắp thế giới.</p>
 	<p> Quý độc giả có thể đọc chi tiết chứng minh ba sự ngụy tạo chính này 
 	trên trang nhà sachhiem.net:
-	<a href="https://www.sachhiem.net/TCN/TCNtg/Giesu/Giesulaai3.php">
+	<a href="/TCN/TCNtg/Giesu/Giesulaai3">
 	https://www.sachhiem.net/TCN/TCNtg/Giesu/Giesulaai3.php</a> </p>
 	<p> Quý độc giả cũng có thể đọc bài “<i>Những Tài liệu 
 	Ngụy Tạo và Quyền Lực Giáo Hoàng</i>” [Forged Documents and Papal Power] của 

@@ -3,16 +3,16 @@ layout: ../../layouts/Article.astro
 title: "Trao Đổi Với Nhà Phê Bình Sách Hiếm"
 author: "Trần Tiên Long"
 date: 2012-10-15
-source: "https://sachhiem.net/TTL/TTLkh04.php"
+source: "/TTL/TTLkh04"
 category: "Đối thoại"
 lang: vi
 wordCount: 3736
-image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nha.jpg"
+image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/DOITHOAI/IMG/profile.jpg"
 ---
 
 <table border="0" cellpadding="0" width="250" align="center">
             <tbody><tr>
-              <td width="125"><a href="/index"><img border="0" src="https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nha.jpg"></a></td>
+              <td width="125"></td>
               <td valign="middle">15-Oct-2012</td>
             </tr>
           </tbody></table>

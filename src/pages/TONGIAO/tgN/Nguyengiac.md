@@ -3,7 +3,7 @@ layout: ../../../layouts/Article.astro
 title: "Phật Giáo và Hòa Bình Chân Thực"
 author: "Nguyên Giác"
 date: 2014-04-23
-source: "https://sachhiem.net/TONGIAO/tgN/Nguyengiac.php"
+source: "/TONGIAO/tgN/Nguyengiac"
 category: "Tác giả"
 lang: vi
 wordCount: 4180
@@ -212,7 +212,7 @@ image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/TONGIAO/IMG/bocauhoa
   <p><strong>________________</strong></p>
   <p><strong>GHI CHÚ:</strong> </p>
 <p>
-    (1) Sở Tình Báo Trung  Ương Hoa Kỳ CIA đã rải Kinh Thánh Cơ Đốc trong vùng Đông Dương, và đã dùng một  số giáo sĩ làm tai mắt... (<a href="https://sachhiem.net/THOISU_CT/ChuTh/ThienPhap.php">Thiện Pháp. Nhìn Về Ảnh Hưởng Tôn Giáo.</a> Link: <span class="Fade"> https://thuvienhoasen.org/D_1-2_2-94_14-1_5-50_6-1_15-1_4-20290_17-94/nhin-ve-anh-huong-ton-giao.html#detail) </span></p>
+    (1) Sở Tình Báo Trung  Ương Hoa Kỳ CIA đã rải Kinh Thánh Cơ Đốc trong vùng Đông Dương, và đã dùng một  số giáo sĩ làm tai mắt... (<a href="/THOISU_CT/ChuTh/ThienPhap">Thiện Pháp. Nhìn Về Ảnh Hưởng Tôn Giáo.</a> Link: <span class="Fade"> https://thuvienhoasen.org/D_1-2_2-94_14-1_5-50_6-1_15-1_4-20290_17-94/nhin-ve-anh-huong-ton-giao.html#detail) </span></p>
 <p>
     (2)  BBC, Oct 5, 2001: Buddha rises again. <span class="Fade"> (<a href="https://news.bbc.co.uk/2/hi/south_asia/1581411.stm">https://news.bbc.co.uk/2/hi/south_asia/1581411.stm</a>)</span></p>
 <p> [<i>Phần <span class="Fade">chữ lợt</span> là của người post bài lên mạng</i>]</p>

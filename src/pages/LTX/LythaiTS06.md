@@ -2,7 +2,7 @@
 layout: ../../layouts/Article.astro
 title: "Diễn Biến Chính Trị Ở Libya"
 author: "Lý Thái ghi"
-source: "https://sachhiem.net/LTX/LyThaiTS06.php"
+source: "/LTX/LyThaiTS06"
 category: "Chính trị"
 lang: vi
 wordCount: 1849

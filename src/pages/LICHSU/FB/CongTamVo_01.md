@@ -3,7 +3,7 @@ layout: ../../../layouts/Article.astro
 title: "Gọi VNCH là quốc gia để đòi lại quần đảo Hoàng Sa thiệt sao?"
 author: "Công Tâm Võ"
 date: 2022-05-05
-source: "https://sachhiem.net/LICHSU/FB/CongTamVo_01.php"
+source: "/LICHSU/FB/CongTamVo_01"
 category: "Chính trị"
 lang: vi
 wordCount: 1120

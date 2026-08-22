@@ -3,7 +3,7 @@ layout: ../../../layouts/Article.astro
 title: "Tinh Thần Đại Sư Khuông Việt Trong"
 author: "Lê Cung*"
 date: 2021-06-10
-source: "https://sachhiem.net/LICHSU/L/LeCung11.php"
+source: "/LICHSU/L/LeCung11"
 category: "Chính trị"
 lang: vi
 wordCount: 5000

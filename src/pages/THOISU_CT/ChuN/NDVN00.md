@@ -2,10 +2,10 @@
 layout: ../../../layouts/Article.astro
 title: "Bài toán nan giải"
 author: "Tú Anh/ RFI"
-source: "https://sachhiem.net/null"
+source: "/null"
 lang: vi
 wordCount: 820
-image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nha.jpg"
+image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/Hinh/TRUNGDONG/RebelsRocket.jpg"
 ---
 
 <div align="center" style="position: relative; left: 0; top: 0">
@@ -30,8 +30,7 @@ image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nha.jpg"
 		<div style="padding-left: 50px; padding-right: 50px;">
 		<table border="0" cellpadding="0" width="600"><tbody><tr>
 				<td width="425">
-				<a href="/index">
-				<img border="0" src="https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nha.jpg"></a></td>
+				</td>
 	<td valign="top">	<font size="2">06 tháng 4 , 2011
 	</font>
 	</td></tr></tbody></table>

@@ -3,7 +3,7 @@ layout: ../../../layouts/Article.astro
 title: "1. TRỪ TÀ"
 author: "Trần Chung Ngọc"
 date: 2012-03-28
-source: "https://sachhiem.net/index.php?content=showrecipe&id=5274"
+source: "/TCN/TCNts/TCNts056"
 category: "Chính trị"
 lang: vi
 wordCount: 10647
@@ -216,12 +216,12 @@ image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/COVER/22Giaod
         nạn nhân tình dục của các Linh mục loạn dâm</u>?</i> </p>
         
         <p class="TuaDoLeft"><b>Sử Liệu : Lịch sử các Giáo Hoàng:</b></p>
-        <p><i><a href="https://giaodiemonline.com/2007/06/duccha.htm">https://giaodiemonline.com/2007/06/duccha.htm</a></i> <i><a href="https://sachhiem.net/TCN/TCNtg/TCN20.php"><br>
+        <p><i><a href="https://giaodiemonline.com/2007/06/duccha.htm">https://giaodiemonline.com/2007/06/duccha.htm</a></i> <i><a href="/TCN/TCNtg/TCN20"><br>
         https://sachhiem.net/TCN/TCNtg/TCN20.php</a></i></p>
         
         <p><b>Vấn nạn Linh mục loạn dâm: </b><br>
-        <i><a href="https://sachhiem.net/TCN/TCNtg/TCN97.php">https://sachhiem.net/TCN/TCNtg/TCN97.php</a></i> <br>
-        <a href="https://giaodiemonline.com/2010/05/loandam.htm">https://giaodiemonline.com/2010/05/loandam.htm</a> <a href="https://www.sachhiem.net/TONGIAO/tgS/SH15.php"><br>
+        <i><a href="/TCN/TCNtg/TCN97">https://sachhiem.net/TCN/TCNtg/TCN97.php</a></i> <br>
+        <a href="https://giaodiemonline.com/2010/05/loandam.htm">https://giaodiemonline.com/2010/05/loandam.htm</a> <a href="/TONGIAO/tgS/SH15"><br>
         https://www.sachhiem.net/TONGIAO/tgS/SH15.php</a><i> </i></p>
         <p><i> </i><i>Tại sao cho tới ngày nay mà những người Công Giáo
             Việt Nam ngu ngơ vẫn luôn luôn mở miệng ra là ca tụng Công Giáo là
@@ -237,21 +237,21 @@ image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/COVER/22Giaod
         <p class="TuaDoLeft"><b>Tài Liệu: Sự Phá Sản Tâm
             Linh   &amp; Đạo Đức
           Của Giáo Hội Công Giáo:</b></p>
-        <p><a href="https://www.sachhiem.net/index.php?content=showrecipe&amp;id=5236">https://www.sachhiem.net/index.php?content=showrecipe&amp;id=5236</a></p>
+        <p><a href="/TCN/TCNtg/TCN122">https://www.sachhiem.net/index.php?content=showrecipe&amp;id=5236</a></p>
         
         <p>Chính Thống Nga vs. Công Giáo Việt:<br> 
-        <a href="https://www.sachhiem.net/index.php?content=showrecipe&amp;id=5228">https://www.sachhiem.net/index.php?content=showrecipe&amp;id=5228</a></p>
+        <a href="/TCN/TCNtg/TCN121">https://www.sachhiem.net/index.php?content=showrecipe&amp;id=5228</a></p>
         
         <p>“KHÔNG THẦN” và “CÓ THẦN” : HAI ANH EM THÍCH ANH NÀO
           ?? :<br> 
-          <a href="https://www.sachhiem.net/TCN/TCNtg/TCN11.php">https://www.sachhiem.net/TCN/TCNtg/TCN11.php</a></p>
+          <a href="/TCN/TCNtg/TCN11">https://www.sachhiem.net/TCN/TCNtg/TCN11.php</a></p>
         
         <p>Di Hại Của “Nền Đạo Lý Thiên-La Đắc-Lộ” Nhân Đọc Cuốn
           “Hành Trình Và Truyền Giáo” Của Alexandre de Rhodes:<br> 
-          <a href="https://sachhiem.net/TCN/TCNls/TCNls01.php">https://sachhiem.net/TCN/TCNls/TCNls01.php</a></p>
+          <a href="/TCN/TCNls/TCNls01">https://sachhiem.net/TCN/TCNls/TCNls01.php</a></p>
         
         <p class="TuaDoLeft">Phật Giáo - Ki Tô Giáo Đối Chiếu Qua Những Nhận Định Điển Hình Của Một Số Danh Nhân Trí Thức Thế Giới :</p>
-        <p><a href="https://www.sachhiem.net/TCN/TCNtg/TCN56.php">https://www.sachhiem.net/TCN/TCNtg/TCN56.php</a></p>
+        <p><a href="/TCN/TCNtg/TCN56">https://www.sachhiem.net/TCN/TCNtg/TCN56.php</a></p>
         <p class="PicLeft"> <img src="https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/CHARLIE/IMG/BVCsmall.jpg" width="150" height="197"></p>
         <p> Đặc
           biệt, trong những tác phẩm thuộc loại trừ tà này, chúng ta phải kể
@@ -260,10 +260,10 @@ image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/COVER/22Giaod
           “<i>Công Giáo : Huyền Thoại Và Tội Ác</i>”, Giao Điểm xuất bản, 2001;
           “<i>Công Giáo Trên Bờ Vực Thẳm</i>”, Giao Điểm xuất bản, 2002, "<i>Thực
           chất đạo Công giáo &amp; các đạo Chúa</i>" (2003), và "<i>Thế giới
-          Hồi giáo xưa và nay</i>"   (2004) link: <a href="https://www.sachhiem.net/index.php?content=PagingCNsub">https://www.sachhiem.net/index.php?content=PagingCNsub</a> .
+          Hồi giáo xưa và nay</i>"   (2004) link: https://www.sachhiem.net/index.php?content=PagingCNsub .
           Ngoài ra chúng ta cũng còn phải kể Bác sĩ Nguyễn Văn Thọ, một trí thức
           Công giáo khác với 30 năm tuổi đạo, với tác phẩm: “<i>Công Giáo: Nhận
-          Định Mới Về Tín Lý Và Giáo Lý</i>”, Giao Điểm xuất bản, 2007, link: <a href="https://www.sachhiem.net/NVTho/NVThodir.php">https://www.sachhiem.net/NVTho/NVThodir.php</a> .</p>
+          Định Mới Về Tín Lý Và Giáo Lý</i>”, Giao Điểm xuất bản, 2007, link: <a href="/NVTho/NVThodir">https://www.sachhiem.net/NVTho/NVThodir.php</a> .</p>
         <p> Đọc giả Giao Điểm, có lẽ chỉ biết đến mục tiêu “trừ
           tà” này của Giao Điểm qua những bài viết về những sự thật của Ki Tô
           Giáo nói chung, Công giáo nói riêng, chứ không biết đến hai mục kia:
@@ -542,7 +542,7 @@ image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/COVER/22Giaod
           phê bình trong cuốn “<i>Đối Thoại Với Giáo Hoàng Gioan Phao-Lồ II Nhân
           Đọc Cuốn Bước Qua Nhưỡng Cửa Hi Vọng</i>”, có lẽ vì Giao Điểm biết
           tôi đã viết trên vài tập san Phật Giáo. Đây là diễn đàn truyền thông
-          duy nhất mà tôi cộng tác, và sau này với trang nhà Sách Hiếm ( <a href="https://sachhiem.net/">https://sachhiem.net/</a> )
+          duy nhất mà tôi cộng tác, và sau này với trang nhà Sách Hiếm ( <a href="/">https://sachhiem.net/</a> )
           từ năm 2006. Cho tới ngày nay tôi không hề viết cho bất cứ diễn đàn
           truyền thông nào khác, nhưng tôi biết qua bạn bè, vì những bài tôi
           viết không giữ bản quyền nên có những người mà tôi không hề quen biết

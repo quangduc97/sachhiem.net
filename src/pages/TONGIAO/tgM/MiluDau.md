@@ -3,7 +3,7 @@ layout: ../../../layouts/Article.astro
 title: "GH. Francis Làm Gì Ở Myanmar?"
 author: "M.D."
 date: 2017-11-29
-source: "https://sachhiem.net/TONGIAO/tgM/MiluDau.php"
+source: "/TONGIAO/tgM/MiluDau"
 category: "Chính trị"
 lang: vi
 wordCount: 1264

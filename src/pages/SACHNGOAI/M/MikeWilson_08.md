@@ -3,7 +3,7 @@ layout: ../../../layouts/Article.astro
 title: "Tại Sao Nước Mỹ Có Quá Nhiều Bạo Động Bằng Súng Đạn ...?! Lí Do Chủng Tộc !!"
 author: "Mike Wilson lược dịch"
 date: 2022-07-19
-source: "https://sachhiem.net/SACHNGOAI/M/MikeWilson_08.php"
+source: "/SACHNGOAI/M/MikeWilson_08"
 category: "Chính trị"
 lang: vi
 wordCount: 1665

@@ -2,13 +2,13 @@
 layout: ../../../layouts/Article.astro
 title: "Họ và Chúng Ta"
 author: "Nguyễn Mạnh Quang"
-source: "https://sachhiem.net/NMQ/HOVATA/NMQhvt-2.php"
+source: "/NMQ/HOVATA/NMQhvt-2"
 lang: vi
 wordCount: 42666
-image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nha.jpg"
+image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/print.gif"
 ---
 
-<p align="center"><a href="https://www.sachhiem.net/"> <img border="0" src="https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nha.jpg"></a> | <a target="_blank" href="/NMQ/HOVATA/NMQhvt-2"> <img border="0" src="https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/print.gif" width="18" height="18"> </a>bản in  |<b><font face="Symbol" size="5"><a target="_top" href="/NMQ/HOVATA/NMQhvtCover">¿</a></font></b> trở ra mục lục | 29Dec08</p>
+<p align="center"> | <a target="_blank" href="/NMQ/HOVATA/NMQhvt-2"> <img border="0" src="https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/print.gif" width="18" height="18"> </a>bản in  |<b><font face="Symbol" size="5"><a target="_top" href="/NMQ/HOVATA/NMQhvtCover">¿</a></font></b> trở ra mục lục | 29Dec08</p>
           <p><a href="/NMQ/HOVATA/NMQhvt-1"> <img border="0" src="https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/Leftarrow.gif" width="13" height="13"> </a>bài trước <font face="Symbol">\</font> bài sau <a href="/NMQ/HOVATA/NMQhvt-3"> <img border="0" src="https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/Next.gif" width="13" height="13"> </a> </p>
           <p class="CHUONG">PHẦN II</p>
           <p class="MUC">NHỮNG ĐIỂM KHÁC NHAU GIỮA HỌ VÀ CHÚNG TA</p>
@@ -150,7 +150,7 @@ image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nha.jpg"
           <p><b>13.-</b> Chúng ta cho rằng <b>những người tốt </b>là những  người vô tư, không ích kỷ, không vị lợi, không vơ vào, không lấn  lướt những người khác, sẵn sàng giúp đỡ những người khác  khi người ta cần được giúp đỡ, và <b>những người xấu</b> là  những người có những ác tính như gian giảo, xảo quyệt, thiên vị,  ích kỷ, gian tham, hám lợi, háo danh, háo sát, hung dữ, thèm  khát quyền lực, lố bịch, trịch thượng, xấc xược, ngược ngạo, bốc  hốt, vơ vào, lấn lướt những người khác, băng xăng, xun xoe, bợ  đỡ những người quyền thế hay có địa vị cao, khinh khi, làm oai,  làm phách, hách dịch và bắt nạt những người lép vế thế cô.</p>
           <p>Trái lại, họ cho rằng tất cả những gì không thuộc về hay  không phải là của Giáo Hội La Mã đều là tội ác, đều là xấu xa,  đều là man di, đều là mọi rợ, và cho rằng, tất cả những gì thuộc  về hay của Giáo Hội La Mã đều tốt đẹp, đều thánh thiện mà trong  thực tế Giáo Hội và tín đồ của Giáo Hội đều mang những ác tính  tham tàn, bạo ngược, xãc xược, lấn lướt, vơ vào, hung dữ, háo  sát, khát máu, v.v… Chính vì những ác tính này mà Giáo Hội  trong gần hai ngàn năm qua đã gây ra hàng chục rặng núi tội ác  chống lại nhân loại. </p>
           <p><b>14.- </b>Chúng ta coi cô ALINE REBEAUD, người đã làm những  việc từ thiện từ đầu thập niên 1990 cho đến ngày nay, là một  người tốt, một vị nữ thánh hiếm có ở trên cõi đời này. Cô là  người Thụy Sĩ. Trong chuyến đi du lịch ở Việt Nam, tình cờ gặp  một em bé đang hấp hối ở một vỉa đường, bên cạnh một đóng rác,  động lòng trắc ẩn, cô đem em bé này về cứu giúp chạy chữa và  nuôi dưỡng. Sau đó, cô quyết định ở lại Việt Nam để tiếp tục làm  từ thiện cứu giúp những trẻ em bất hạnh như trường hợp em bé  trên đây. Thế là kể từ đó, cô đi gom các trẻ em mồ côi sống  lang thang ở ngoài đường phố về sống chung một mái nhà, rồi  chạy đây chạy đó, vận động quyên tiền bạc để nuôi dưỡng các em. Hành  động như vậy là những hành động cao đẹp, và cá nhân cô xứng đáng  được tôn vinh lên hàng bậc thánh.</p>
-          <p>Trái lại, ở hải ngoại, vừa mới bắt đầu nói là giúp đỡ Cô  Tim, thì họ liền tấn công, ngăn cản, đặt điều kiện, đòi hỏi cô  phải đứng chào lá cờ "<i>ba que tượng trưng cho Chúa Ba Ngôi của  họ.</i>" Không được, họ liền biến cô thành kẻ "có tội"! <a href="https://sachhiem.net/XAHOI/TIMAline1.php">Xin xem nơi  link này. </a></p>
+          <p>Trái lại, ở hải ngoại, vừa mới bắt đầu nói là giúp đỡ Cô  Tim, thì họ liền tấn công, ngăn cản, đặt điều kiện, đòi hỏi cô  phải đứng chào lá cờ "<i>ba que tượng trưng cho Chúa Ba Ngôi của  họ.</i>" Không được, họ liền biến cô thành kẻ "có tội"! <a href="/XAHOI/TIMAline1">Xin xem nơi  link này. </a></p>
           <p><b>15.-</b> Chúng ta tôn trọng quyền tự do tôn giáo và các  quyền tự do  khác của những người khác đúng như lời dạy của Nho  Giáo “<i>kỷ sử bất dục vật thi ư nhân</i>.”</p>
           <p>Trái lại, họ không bao giờ tôn trọng quyền tự do tôn giáo và  các quyền tự do khác của những người khác vì rằng: </p>
           <p>“<i>Đức Giáo Hoàng Grégoire XVI đã gọi  tự do báo chí là ”thứ tự do tai hại nhất, đáng ghét nhất kinh  tởm nhất mà một số người dám đòi hỏi một cách ồn ào cuồng nhiệt  và quảng bá khắp nơi....[</i><a name="_ednref36" title="" href="/NMQ/#_edn36"><i><b>[36]</b></i></a><i>]</i></p>

@@ -2,7 +2,7 @@
 layout: ../../../layouts/Article.astro
 title: "Cờ vàng: chuyện nhiều tập"
 author: "Nguyễn Trí Cảm"
-source: "https://sachhiem.net/THOISU_CT/ChuN/NguyenTriCam7.php"
+source: "/THOISU_CT/ChuN/NguyenTriCam7"
 category: "Chính trị"
 lang: vi
 wordCount: 3285

@@ -2,15 +2,14 @@
 layout: ../../../layouts/Article.astro
 title: "Tình Cảm Dân Tộc Với Sinh Vật Huyền Thoại"
 author: "Minh Mẫn"
-source: "https://sachhiem.net/MINHMAN/Chinhtri/Minhman18.php"
+source: "/MINHMAN/Chinhtri/Minhman18"
 lang: vi
 wordCount: 1945
-image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nha.jpg"
 ---
 
 <table border="0" align="center" cellpadding="1" width="250">
     <tbody><tr>
-      <td width="110"><a href="https://www.sachhiem.net/"> <img border="0" src="https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nha.jpg"></a></td>
+      <td width="110"></td>
       <td valign="top"> 07 tháng 3, 2011 
   </td></tr></tbody></table>
 	<p>“<i>Thưa ông tiến sĩ Long và thưa các bạn: Người dân Hà Nội và cả nước rất muốn khẩn cấp cứu chữa cụ rùa không phải vì người ta mê tín, không phải vì người ta hy vọng những phép màu mà rùa mang lại. Đơn giản vì người ta quý trọng lịch sử, quý trọng văn hóa dân tộc, kính trọng cha ông</i>.” 

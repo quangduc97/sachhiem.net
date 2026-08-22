@@ -3,7 +3,7 @@ layout: ../../../layouts/Article.astro
 title: "Nữ Tướng Bùi Thị Xuân: \"Chúa Công Ta Tay Kiếm, Tay Cờ Làm Lên Sự Nghiệp,"
 author: "Tr. T. Nguyễn Thanh Tuấn"
 date: 2022-06-03
-source: "https://sachhiem.net/LICHSU/FB/FBTongCucLeuBao.php"
+source: "/LICHSU/FB/FBTongCucLeuBao"
 category: "Lịch sử"
 lang: vi
 wordCount: 2975

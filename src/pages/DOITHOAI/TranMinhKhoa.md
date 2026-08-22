@@ -2,7 +2,7 @@
 layout: ../../layouts/Article.astro
 title: "Lịch sử - Pháp lý - Hiện thực - Tình người"
 author: "Trần Minh Khoa"
-source: "https://sachhiem.net/theo Blog Sen Việt"
+source: "/theo Blog Sen Việt"
 category: "Đối thoại"
 lang: vi
 wordCount: 3498

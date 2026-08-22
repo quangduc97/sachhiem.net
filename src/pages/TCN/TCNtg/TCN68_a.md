@@ -2,17 +2,16 @@
 layout: ../../../layouts/Article.astro
 title: "CON ĐƯỜNG CHUYỂN HÓA"
 author: "Trần Chung Ngọc"
-source: "https://sachhiem.net/TCN/TCNtg/TCN68_a.php"
+source: "/TCN/TCNtg/TCN68_a"
 lang: vi
 wordCount: 1244
-image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nha.jpg"
+image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/DOITHOAI/IMG/ChuaPhat.jpg"
 ---
 
 <p class="Tuaduoi">hay TẢN MẠN VỀ...PHẬT &amp; GIÊSU</p>
 		
 
- <p align="center"><a href="https://www.sachhiem.net/">
-<img border="0" src="https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nha.jpg"></a>   ngày 29 tháng 4, 2009</p>
+ <p align="center">   ngày 29 tháng 4, 2009</p>
 <p class="baochi"><a href="/TCN/TCNtg/TCN68">(xem bài đầu)..</a>.</p>
 <p> <span class="First">T</span>rên đây chỉ là vài ý kiến của tôi về những khó khăn mà 
 Ki Tô Giáo sẽ phải đối diện nếu muốn chuyển đổi theo lý tưởng của Thầy Nhất Hạnh 

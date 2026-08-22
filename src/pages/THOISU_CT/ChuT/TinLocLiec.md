@@ -3,7 +3,7 @@ layout: ../../../layouts/Article.astro
 title: "Chuyện Ông Obama Công Du Việt Nam, Bị Cắn Gấu Quần"
 author: "Thiên Lý/ Locliec.blogspot.com"
 date: 2016-05-26
-source: "https://sachhiem.net/THOISU_CT/ChuT/TinLocLiec.php"
+source: "/THOISU_CT/ChuT/TinLocLiec"
 category: "Chính trị"
 lang: vi
 wordCount: 3799

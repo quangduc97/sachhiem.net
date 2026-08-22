@@ -3,7 +3,7 @@ layout: ../../../layouts/Article.astro
 title: "Sao Hỏa Có Dưỡng Khí Trước Địa Cầu"
 author: "Minh Long/ VN-Express"
 date: 2013-06-20
-source: "https://sachhiem.net/KHOAHOC/SH/Suutam03.php"
+source: "/KHOAHOC/SH/Suutam03"
 category: "Khoa học"
 lang: vi
 wordCount: 485

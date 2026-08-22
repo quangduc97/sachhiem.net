@@ -3,7 +3,7 @@ layout: ../../../layouts/Article.astro
 title: "AI TÍN và Bài Giảng nổi Tiếng của TGM Bùi Văn Đọc"
 author: "Tin Hội Đồng Giám Mục VN"
 date: 2018-03-12
-source: "https://sachhiem.net/TONGIAO/tgT/TinHDGMVN01.php"
+source: "/TONGIAO/tgT/TinHDGMVN01"
 category: "Chính trị"
 lang: vi
 wordCount: 1104

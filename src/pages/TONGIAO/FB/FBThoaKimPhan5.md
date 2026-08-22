@@ -3,7 +3,7 @@ layout: ../../../layouts/Article.astro
 title: "ĐƠN TỐ CÁO Số 5: Thả Sói về tàn sát đàn chiên"
 author: "Phan thị Kim Thoa"
 date: 2024-03-11
-source: "https://sachhiem.net/TONGIAO/FB/FBThoaKimPhan5.php"
+source: "/TONGIAO/FB/FBThoaKimPhan5"
 category: "Chính trị"
 lang: vi
 wordCount: 1809

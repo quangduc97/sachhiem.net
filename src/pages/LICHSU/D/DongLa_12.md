@@ -3,7 +3,7 @@ layout: ../../../layouts/Article.astro
 title: "Thông Báo - Ngưng Chiến"
 author: "Đông La"
 date: 2026-04-26
-source: "https://sachhiem.net/LICHSU/D/DongLa_12.php"
+source: "/LICHSU/D/DongLa_12"
 category: "Chính trị"
 lang: vi
 wordCount: 2187

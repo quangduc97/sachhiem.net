@@ -3,7 +3,7 @@ layout: ../../../layouts/Article.astro
 title: "Mùa Phật Ðản Ðẫm Máu"
 author: "Nguyên Vũ"
 date: 2017-08-11
-source: "https://sachhiem.net/LICHSU/N/Namgiao_05.php"
+source: "/LICHSU/N/Namgiao_05"
 category: "Chính trị"
 lang: vi
 wordCount: 33109

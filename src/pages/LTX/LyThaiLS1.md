@@ -3,7 +3,7 @@ layout: ../../layouts/Article.astro
 title: "Nhận Dạng Sắc Dân Cụ Hồ Chí Minh Là Chuyện Nhảm Nhí"
 author: "Lý Thái Xuân"
 date: 2016-05-23
-source: "https://sachhiem.net/LTX/LyThaiLS1.php"
+source: "/LTX/LyThaiLS1"
 category: "Lịch sử"
 lang: vi
 wordCount: 7031
@@ -14,10 +14,10 @@ image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/SACHNGOAI/Hinhanh/BI
  <p>Việc này không có ý nghĩa gì cả. Chưa kể, việc làm cũng thiếu nghiêm túc, nếu không muốn nói là gian xảo. Những tấm ảnh lấy từ trên mạng một cách vô tội vạ, có nguồn gốc từ đề tài khác, nhân vật khác, địa dư khác,... không liên quan gì đến chủ thể. Nói gọn lại, <i>"râu ông nọ cắm cằm bà kia,"</i> là chuyện  trẻ con, không hề đứng đắn. Còn lại, những đoạn văn khác bới bèo ra bọ về những chuyện ngoại sử, vặt vãnh, cũng không ai chú ý là vì chúng không thể đem đổi được công nghiệp với đất nước của ông Hồ. </p>
  <p>Ngay cả khi tác giả nhắc đến chuyện báo <a href="https://www.polskatimes.pl/artykul/775659,dwunastu-najbardziej-krwawych-dyktatorow-w-historii-xx-wieku-galeria,1,3,id,t,sm,sg.html#galeria-material">Polska Times  (ngày 05 tháng 3, 2013  11:35:53)</a>, xếp hạng ông Hồ nằm trong 13 nhà độc tài đẫm máu nhất thế kỷ 20, (<a href="https://pl.legaltechnique.org/articles/istoriya/13-krovavih-diktatorov-20-veka-bull-novosti-v-fotografiyah.html">Trzynastu najbardziej krwawych dyktatorów w historii XX wieku [GALERIA]</a>)  cũng vô giá trị vì những lý do sau.</p>
  <p>1). Câu nói trong tờ Polska Times về cụ Hồ rằng <i>"qua 24 năm cầm quyền của mình </i>(SH - cụ Hồ)<i> đã gây ra cái chết của 1,7 triệu người Việt qua cuộc chiến tranh đẫm máu"</i> cho thấy đó chỉ là một sự "đổ tội" một cách nghịch lý và mang tính cách phe phái chính trị,  theo phe chống lại quyền lợi của dân Việt Nam,  thiếu vô tư, chứ không phải là một việc nghiên cứu khách quan. </p>
- <p>Tờ báo đổ hết trách nhiệm về sự tổn thất nhân mạng liên hệ trong cuộc chiến dài 24 năm cho  cụ Hồ là kẻ chống ngoại xâm, mà không nói gì đến Pháp, Mỹ,  là những kẻ xâm lăng trên lãnh thổ Việt Nam.  Chưa kể, tờ báo đã bỏ lơ sự tàn ác của gia đình họ Ngô, vì muốn nhân danh quyền lực, muốn cải đạo toàn dân cho Vatican, dùng chiêu bài "chống Cộng và tố Cộng" đã giết hại oan ức và tra tấn tàn ác biết bao nhiêu người trong <a href="https://sachhiem.net/LICHSU/TR/TQD06.php">9 năm máu lửa</a>. </p>
+ <p>Tờ báo đổ hết trách nhiệm về sự tổn thất nhân mạng liên hệ trong cuộc chiến dài 24 năm cho  cụ Hồ là kẻ chống ngoại xâm, mà không nói gì đến Pháp, Mỹ,  là những kẻ xâm lăng trên lãnh thổ Việt Nam.  Chưa kể, tờ báo đã bỏ lơ sự tàn ác của gia đình họ Ngô, vì muốn nhân danh quyền lực, muốn cải đạo toàn dân cho Vatican, dùng chiêu bài "chống Cộng và tố Cộng" đã giết hại oan ức và tra tấn tàn ác biết bao nhiêu người trong <a href="/LICHSU/TR/TQD06">9 năm máu lửa</a>. </p>
  <p>2). Hơn nữa, sự xếp hạng của báo này chỉ xét <i>"các nhà độc tài thuộc 3 thể chế chính trị: Phát xít, Cộng sản và Quân phiệt"</i> mà không kể đến những tên độc tài thuộc phe gọi là "Tự Do". Trong khi, sách "Tyrants, History’s 100 Most Evil Despots and Dictators" của Nigel Cawthorne, Barnes &amp; Noble, NY, 2004, <i>(Những Bạo Chúa, 100 Tên Chuyên Quyền và Độc Tài Ác Nhất Trong Lịch Sử</i>)  có cả tên Ngô Đình Diệm  mà lại không có tên Hồ Chí Minh trong danh sách này. </p>
  <p align="center"><img src="https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/SACHNGOAI/Hinhanh/BIASACH/100Tyrants_286.jpg" width="286" height="408" alt=""><img src="https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/SACHNGOAI/Hinhanh/BIASACH/100Tyrants_NDD300.jpg" width="300" height="400" alt=""></p>
- <p align="center"><a href="https://sachhiem.net/LICHSU/TR/TQD27_3dieu.php">(xem Ba Điều Căn Bản Nhà Ngô Để Lại Cho... Lịch Sử)</a> </p>
+ <p align="center"><a href="/LICHSU/TR/TQD27_3dieu">(xem Ba Điều Căn Bản Nhà Ngô Để Lại Cho... Lịch Sử)</a> </p>
  <p><b>"Nhận xét của bạn đọc"</b> dưới bài báo của Polska Times có nhiều ý kiến lên án sự xếp hạng này đã bỏ qua tất cả những tội ác bên phe "tự do," như Mỹ chẳng hạn. Người có tên Leon X viết rằng:  "Co za plugawy ranking. Gdzie jest Johnson, Nixon i Bush ? Czy wy myślicie, że macie do czynienia z głupkami ?) tạm dịch là </p>
  <p>"<i>Thật là một cách xếp hạng bẩn thỉu! Sao không kể Johnson, Nixon, và Tổng thống Bush? Bạn nghĩ rằng bạn đang nói chuyện với những người ngu đần chắc?</i>"(Có vị nào giỏi tiếng Ba-lan xin góp ý điều chỉnh giùm nếu cần). </p>
  <p>Người có tên SŁAWA cho rằng "Do grona krwawych dyktatorów XX wieku, nie wiedzieć czemu nie dopisano dyktatora, który po dziś dzień morduje bezkarnie. Ten dyktator to reżim USA i pod taką nazwą należy go wpisać jak czternastego, który od Korei poprzez Wietnam, Irak, Afganistan i inne konflikty wymordował nie mniej niż 4 mln ludzi różnych narodowości. Dlaczego pomija się te statystyki amerykańskich zbrodni dlaczego świat milcz. Czy Wietnam, Irak czy Afganistan zagrażali światu. Dlaczego światowe organizacje, media pomijają zbrodnie amerykańskie. Przecież oni też podobnie jak Hitler palili żywcem ludzi wystarczy chociażby wspomnieć zbrodnie w Me Lai. Właśnie tam palono ludzi żywcem przy użyciu napalmu, gwałcono i mordowano kobiety, zbijano niewinne i bezbronne dzieci i co o tym wszyscy zapominają. Autor tego zestawienia dyktatorów powinien je pilnie uzupełnić o USA - jako ciągle funkcjonujący reżim dyktatorski." Tạm lược ý là: </p>
@@ -51,7 +51,7 @@ image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/SACHNGOAI/Hinhanh/BI
 <p class="TacgiaL">Lý Thái Xuân</p>
  <p>_____________</p>
  <p><b>Mời đọc thêm:</b></p>
- <p><a href="https://sachhiem.net/LICHSU/V/VuThuHien.php">- "Tác Phẩm Giả Tưởng" Về Hồ Chí Minh</a> (Vũ Thư Hiên)</p>
+ <p><a href="/LICHSU/V/VuThuHien">- "Tác Phẩm Giả Tưởng" Về Hồ Chí Minh</a> (Vũ Thư Hiên)</p>
  
  <hr> 
 <p class="MUC"><b>Phụ Đính:</b></p>

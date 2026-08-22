@@ -2,10 +2,10 @@
 layout: ../../../layouts/Article.astro
 title: "Ngày lễ Độc Lập Hoa kỳ"
 author: "Võ Thị Diệu Hằng"
-source: "https://sachhiem.net/nguồn: https://vietsciences.free.fr/lichsu/lichsu_ngaydoclap_hoaky.htm"
+source: "/nguồn: https://vietsciences.free.fr/lichsu/lichsu_ngaydoclap_hoaky.htm"
 lang: vi
 wordCount: 2709
-image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nha.jpg"
+image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.devhttps://vietsciences.free.fr/lichsu/lichsucacnuoc/images/phaobong.jpg"
 ---
 
 <div align="center" style="position: relative; left: 0; top: 0">
@@ -25,8 +25,7 @@ image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nha.jpg"
 		<div style="padding-left: 40px; padding-right: 40px;">
 		<table border="0" cellpadding="0" width="600" cols="2"><tbody><tr>
 <td width="425">
-<a href="/index">
-<img border="0" src="https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nha.jpg"></a></td>
+</td>
 	<td valign="top"><i>28 tháng 6, 2008	</i>
 	</td></tr></tbody></table>
 	

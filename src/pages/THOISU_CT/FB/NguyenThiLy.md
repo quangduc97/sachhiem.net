@@ -3,7 +3,7 @@ layout: ../../../layouts/Article.astro
 title: "Thảm Họa Hiroshima, Nagasaki Và Bài Học Về Thủ Đoạn Chính Trị Quân Sự Tàn Bạo Của Mỹ"
 author: "FB Nguyễn Thị Lý"
 date: 2018-08-06
-source: "https://sachhiem.net/THOISU_CT/FB/NguyenThiLy.php"
+source: "/THOISU_CT/FB/NguyenThiLy"
 category: "Chính trị"
 lang: vi
 wordCount: 3619

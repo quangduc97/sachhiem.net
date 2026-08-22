@@ -2,16 +2,15 @@
 layout: ../../layouts/Article.astro
 title: "trong nhạc Trịnh Công Sơn"
 author: "Nguyễn Hoàn"
-source: "https://sachhiem.net/NGHOAN/NgHoan00.php"
+source: "/NGHOAN/NgHoan00"
 category: "Văn hóa"
 lang: vi
 wordCount: 7090
-image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nha.jpg"
+image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/sqdot.gif"
 ---
 
 <table border="0" align="center" cellpadding="1" width="250"><tbody><tr>
-	<td width="100"><a href="https://www.sachhiem.net/">
-	<img border="0" src="https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nha.jpg"></a></td>				
+	<td width="100"></td>				
 	<td valign="top" width="225">	14 tháng 4,  2009
 	</td></tr></tbody></table>
 

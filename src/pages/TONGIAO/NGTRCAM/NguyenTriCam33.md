@@ -3,7 +3,7 @@ layout: ../../../layouts/Article.astro
 title: "Lễ Giáng Sinh Đầu Tiên Có Từ Khi Nào ?"
 author: "D.M. Murdock/Acharya S/ Nguyễn Trí Cảm dịch"
 date: 2013-12-26
-source: "https://sachhiem.net/TONGIAO/NGTRCAM/NguyenTriCam33.php"
+source: "/TONGIAO/NGTRCAM/NguyenTriCam33"
 category: "Tác giả"
 lang: vi
 wordCount: 4392

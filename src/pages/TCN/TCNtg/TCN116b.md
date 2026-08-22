@@ -3,20 +3,20 @@ layout: ../../../layouts/Article.astro
 title: "Vài Điều Mê Tín: Không Thể Hiểu Nổi"
 author: "Trần Chung Ngọc"
 date: 2011-12-03
-source: "https://sachhiem.net/null"
+source: "/null"
 category: "Tác giả"
 lang: vi
 wordCount: 3269
-image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nha.jpg"
+image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/SACHNGOAI/Hinhanh/BIASACH/PuttingAway.jpg"
 ---
 
 <table border="0" align="center" cellpadding="1" width="80%" cols="2">
       <tbody><tr>
-        <td width="74"><a href="/index"><img border="0" src="https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nha.jpg"></a></td>
+        <td width="74"></td>
         <td valign="top" width="514"></td>
         </tr>
     </tbody></table>
-    <p><a href="https://sachhiem.net/TCN/TCNtg/TCN116.php">1</a>  <a href="https://sachhiem.net/TCN/TCNtg/TCN116a.php">2</a>  <b>3</b> </p>
+    <p><a href="/TCN/TCNtg/TCN116">1</a>  <a href="/TCN/TCNtg/TCN116a">2</a>  <b>3</b> </p>
     
     
     <p><span class="First">T</span>rên

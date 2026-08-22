@@ -2,7 +2,7 @@
 layout: ../../../layouts/Article.astro
 title: "LÒNG \"YÊU NƯỚC\""
 author: "Peter Hai giới thiệu"
-source: "https://sachhiem.net/null"
+source: "/null"
 category: "Tác giả"
 lang: vi
 wordCount: 6663
@@ -37,7 +37,7 @@ image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nhacu.jpg"
 	<tbody><tr><td bgcolor="White" align="justify" valign="top">
 		
 		<table border="0" cellpadding="10" width="100%" cols="2"><tbody><tr>
-				<td valign="top"><a href="https://sachhiem.net/"><img border="0" src="https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nhacu.jpg" width="49" height="20"></a></td>
+				<td valign="top"><a href="/"><img border="0" src="https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nhacu.jpg" width="49" height="20"></a></td>
 	<td valign="top"><font size="2">&nbsp;ngày 27 tháng 09, 2008
 	</font>
 	</td></tr></tbody></table>
@@ -209,7 +209,7 @@ image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nhacu.jpg"
 			cho giáo dân Việt Nam. </p>
 			<p class="TacgiaL">Thái Duy Tuấn </p>
 			
-			<p class="TuaDoLeft">			<a href="https://sachhiem.net/TCN/TCNts/TCNts27.php">Nhận định của học giả Trần Chung Ngọc </a></p>
+			<p class="TuaDoLeft">			<a href="/TCN/TCNts/TCNts27">Nhận định của học giả Trần Chung Ngọc </a></p>
 			<hr align="left" width="60%">
 			
 			<p>HỠI NHỮNG CON CHIÊN GHẺ…NÊN THỨC TỈNH, ĐỪNG TIẾP TỤC LÀM NGƯỜI 
@@ -601,10 +601,10 @@ image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nhacu.jpg"
 			<p>Đáng thương thay một người cha tinh thần của biết bao con chiên 
 			lại có một tâm hồn lạc loài đến vậy! </p>
 			<p class="TacgiaL">From: haipm_vn@yahoo.com </p>
-			<a href="https://sachhiem.net/TCN/TCNts/TCNts27.php">
+			<a href="/TCN/TCNts/TCNts27">
 			
 		<hr>
-		</a><p><a href="https://sachhiem.net/TCN/TCNts/TCNts27.php"></a><a href="/CacbaiDoiDat">Các bài cùng đề tài</a></p>
+		</a><p><a href="/TCN/TCNts/TCNts27"></a><a href="/CacbaiDoiDat">Các bài cùng đề tài</a></p>
 		</div>
 		</td></tr>
 </tbody></table>

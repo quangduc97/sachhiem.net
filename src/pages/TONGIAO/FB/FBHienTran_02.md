@@ -3,7 +3,7 @@ layout: ../../../layouts/Article.astro
 title: "Hiện Tượng Thần Thánh Hóa Charlie Kirk - Quá Trình Xây Dựng Một Giê-Su"
 author: "Hiên Trần"
 date: 2026-02-24
-source: "https://sachhiem.net/TONGIAO/FB/FBHienTran_02.php"
+source: "/TONGIAO/FB/FBHienTran_02"
 category: "Tác giả"
 lang: vi
 wordCount: 991

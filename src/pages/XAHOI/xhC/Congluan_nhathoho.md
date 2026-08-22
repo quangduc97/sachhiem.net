@@ -3,7 +3,7 @@ layout: ../../../layouts/Article.astro
 title: "Đi Tìm Sự Thật Về Nhà thờ Của"
 author: "Ngọc Niên/ Công Luận"
 date: 2013-03-23
-source: "https://sachhiem.net/XAHOI/xhC/Congluan_nhathoho.php"
+source: "/XAHOI/xhC/Congluan_nhathoho"
 category: "Xã hội"
 lang: vi
 wordCount: 3171

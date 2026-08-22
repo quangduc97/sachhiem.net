@@ -3,7 +3,7 @@ layout: ../../../layouts/Article.astro
 title: "Vài Ý Kiến Ngắn Về “Thỉnh Nguyện Thư\""
 author: "Trần Chung Ngọc"
 date: 2012-03-08
-source: "https://sachhiem.net/index.php?content=showrecipe&id=5248"
+source: "/TCN/TCNts/TCNts055"
 category: "Chính trị"
 lang: vi
 wordCount: 1611
@@ -71,7 +71,7 @@ image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/THOISU_CT/Hinh/CCCB/
               đại thành công cho “cộng đồng”.</p>
         <p> Phản ứng của người ngoài “cộng đồng “ ra sao, chúng ta có thể đọc
         một số ý kiến điển hình trên Sách Hiếm:<br> 
-        <a href="https://www.sachhiem.net/index.php?content=showemail&amp;id=74" target="_blank"> https://www.sachhiem.net/index.php?content=showemail&amp;id=74 </a></p>
+        <a href="/net/index" target="_blank"> https://www.sachhiem.net/index.php?content=showemail&amp;id=74 </a></p>
         <p align="center"><img src="https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/THOISU_CT/Hinh/CCCB/TNT_Eisenh_Exe_Off_Bd_So_Ct_Aud.jpg"></p>
         <p align="center"><i>Biệt thự Eisenhower Executive Office Building, South
           Court Auditorium <br>
@@ -130,24 +130,24 @@ image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/THOISU_CT/Hinh/CCCB/
            <p class="TacgiaL"><strong>Trần Chung Ngọc</strong></p>
  
 <p><b>Các bài cùng đề tài:</b> </p>
-    <p>● - <a href="https://sachhiem.net/TCN/TCNts/TCNts055.php"> Vài Ý Kiến Ngắn Về “Thỉnh Nguyện Thư"</a> - <i> Trần Chung Ngọc </i>- </p>
-    <p>● - <a href="https://sachhiem.net/THOISU_CT/ChuV/VoKhanhLinh.php">Thỉnh
+    <p>● - <a href="/TCN/TCNts/TCNts055"> Vài Ý Kiến Ngắn Về “Thỉnh Nguyện Thư"</a> - <i> Trần Chung Ngọc </i>- </p>
+    <p>● - <a href="/THOISU_CT/ChuV/VoKhanhLinh">Thỉnh
         Nguyện Thư - Hơn 30 năm vẫn chưa tỉnh cơn mê! </a> - <i> Võ Khánh Linh </i>- </p>
-    <p>● - <a href="https://sachhiem.net/XICHLOV/XichloViet07.php"> Thỉnh Nguyện
+    <p>● - <a href="/XICHLOV/XichloViet07"> Thỉnh Nguyện
         Thư - Vỡ Mộng </a> - <i> Xích Lô Việt </i>- </p>
-    <p>● - <a href="https://sachhiem.net/THOISU_CT/ChuN/NguyenPhHung.php">Thỉnh
+    <p>● - <a href="/THOISU_CT/ChuN/NguyenPhHung">Thỉnh
         Nguyện Thư - Một cuộc lường gạt chính trị vĩ đại </a> - <i> Nguyễn Phương
         Hùng </i></p>
-    <p>● - <a href="https://sachhiem.net/index.php?content=showemail&amp;id=74">Đồ
+    <p>● - <a href="/net/index">Đồ
         Nói Láo - và Những Phản Ứng Linh Tinh Về Thỉnh Nguyện Thư</a> - <i>Nguyễn
         Phương Hùng </i> </p>
-    <p> ● - <a href="https://sachhiem.net/index.php?content=showemail&amp;id=73">Tin
+    <p> ● - <a href="/net/index">Tin
         Nổ Tung: Vụ gặp gỡ tại Toà Bạch Ốc TRĂM VOI KHÔNG ĐƯỢC BÁT NƯỚC XÁO</a> - <i>Gia
         Cat </i></p>
-    <p> ● - <a href="https://sachhiem.net/index.php?content=showemail&amp;id=72">Thỉnh
+    <p> ● - <a href="/net/XICHLOV/XichloViet06">Thỉnh
         Nguyện Thư: Việt Dzũng cầm nhầm chữ ký của đồng bào để đe dọa TT Barack
         Obama</a> - <i>Nga Phan </i></p>
-    <p> ● - <a href="https://sachhiem.net/THOISU_CT/ChuN/NguyenPhHung.php">Thỉnh
+    <p> ● - <a href="/THOISU_CT/ChuN/NguyenPhHung">Thỉnh
         Nguyện Thư - Một cuộc lường gạt chính trị vĩ đại </a> - <i> Nguyễn Phương
         Hùng </i></p>
     <hr>

@@ -3,7 +3,7 @@ layout: ../../../layouts/Article.astro
 title: "Cuộc gọi điện thoại chúc mừng những người bạn đã bầu cho Trump"
 author: "Phúc Nguyễn"
 date: 2016-11-09
-source: "https://sachhiem.net/THOISU_CT/ChuN/NTPhuc02.php"
+source: "/THOISU_CT/ChuN/NTPhuc02"
 category: "Chính trị"
 lang: vi
 wordCount: 965

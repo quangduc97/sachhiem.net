@@ -3,7 +3,7 @@ layout: ../../../layouts/Article.astro
 title: "Phạm Nhân Học Thiền Trong Trại Giam"
 author: "Trần Tuấn/ CAND"
 date: 2016-07-14
-source: "https://sachhiem.net/XAHOI/xhC/CAND.php"
+source: "/XAHOI/xhC/CAND"
 category: "Chính trị"
 lang: vi
 wordCount: 849

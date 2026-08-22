@@ -3,7 +3,7 @@ layout: ../../../layouts/Article.astro
 title: "Bằng chứng lịch sử về danh tướng"
 author: "Trúc Diệp Thanh"
 date: 2014-04-10
-source: "https://sachhiem.net/LICHSU/TRDTH/TrucDiepThanh06.php"
+source: "/LICHSU/TRDTH/TrucDiepThanh06"
 category: "Lịch sử"
 lang: vi
 wordCount: 6149
@@ -77,9 +77,9 @@ image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/LICHSU/TRDTH/IMG/DoD
 <p>6-Từ điển Nhân vật lịch sử Việt nam  (Nguyễn  Quang Thắng-Nguyễn Bá Thế).  </p>
 <p>__________________&nbsp;&nbsp;&nbsp;</p>
 <p><b>Những bài liên quan:</b></p>
-<p><a href="https://sachhiem.net/LICHSU/TRDTH/TrucDiepThanh06.php"> - Đã tìm được lai lịch hoàn chỉnh của Đô đốc Đông Lĩnh hầu Đặng Tiến </a> (Trúc Diệp Thanh)</p>
-<p><a href="https://sachhiem.net/LICHSU/TRDTH/TrucDiepThanh05.php">- Đâu Là Thông Điệp Đích Thực Từ Các Di Bản Đời Tây Sơn Ở Lương Xá</a>, Hà Nội (Trúc Diệp Thanh) </p>
-<p><a href="https://sachhiem.net/LICHSU/TRDTH/TrucDiepThanh02.php">- Sự thật về “Đô đốc Đặng Tiến Đông” ở Lương Xá! </a> (Trúc Diệp Thanh) </p>
-<p>- <a href="https://sachhiem.net/LICHSU/TRDTH/TrucDiepThanh.php"> Đông Lĩnh hầu Đặng Tiến Giản, vị đô đốc Tây Sơn qua các di vật ở Lương Xá</a>, Hà Nội 
+<p><a href="/LICHSU/TRDTH/TrucDiepThanh06"> - Đã tìm được lai lịch hoàn chỉnh của Đô đốc Đông Lĩnh hầu Đặng Tiến </a> (Trúc Diệp Thanh)</p>
+<p><a href="/LICHSU/TRDTH/TrucDiepThanh05">- Đâu Là Thông Điệp Đích Thực Từ Các Di Bản Đời Tây Sơn Ở Lương Xá</a>, Hà Nội (Trúc Diệp Thanh) </p>
+<p><a href="/LICHSU/TRDTH/TrucDiepThanh02">- Sự thật về “Đô đốc Đặng Tiến Đông” ở Lương Xá! </a> (Trúc Diệp Thanh) </p>
+<p>- <a href="/LICHSU/TRDTH/TrucDiepThanh"> Đông Lĩnh hầu Đặng Tiến Giản, vị đô đốc Tây Sơn qua các di vật ở Lương Xá</a>, Hà Nội 
   (Trúc Diệp Thanh), </p>
-<p>- <a href="https://sachhiem.net/LICHSU/TRDTH/TrucDiepThanh07.php"> Phát Hiện Mới Về Các Di Vật Đời Tây Sơn Ở Chùa Thủy Lâm Và Chùa Trăm Gian (Chương Mỹ-H</a></p>
+<p>- <a href="/LICHSU/TRDTH/TrucDiepThanh07"> Phát Hiện Mới Về Các Di Vật Đời Tây Sơn Ở Chùa Thủy Lâm Và Chùa Trăm Gian (Chương Mỹ-H</a></p>

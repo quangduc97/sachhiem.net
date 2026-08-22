@@ -3,7 +3,7 @@ layout: ../../../layouts/Article.astro
 title: "[VATICANOLOGY] - Ukraina, Ba Lan Triệu Đại Sứ Chính Quyền Vatican Đến Để “Mắng Mỏ” Giáo Hoàng?"
 author: "Minh Thạnh"
 date: 2022-09-03
-source: "https://sachhiem.net/TONGIAO/tgM/MinhThanh39.php"
+source: "/TONGIAO/tgM/MinhThanh39"
 category: "Tác giả"
 lang: vi
 wordCount: 2990

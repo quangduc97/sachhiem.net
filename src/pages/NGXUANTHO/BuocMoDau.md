@@ -3,18 +3,17 @@ layout: ../../layouts/Article.astro
 title: "Bước Mở Đầu Của Sự Thiết Lập Hệ Thống Thuộc Địa Pháp Ở Việt Nam"
 author: "TS Nguyễn Xuân Thọ"
 date: 2023-02-13
-source: "https://sachhiem.net/NGXUANTHO/BuocMoDau.php"
+source: "/NGXUANTHO/BuocMoDau"
 category: "Lịch sử"
 lang: vi
 wordCount: 954
-image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nha.jpg"
+image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/LICHSU/IMG/SACH/BuocMoDauHeThong.jpg"
 ---
 
 <p class="Tuaduoi">Lời Đầu</p>
 
 
-  <p align="center"><a href="https://www.sachhiem.net/">
-<img border="0" src="https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nha.jpg"></a>| <a target="_blank" href="https://sachhiem.net/NGXUANTHO/BuocMoDau_Main.php"><span lang="en-us"><b><font face="Symbol">¿</font></b></span> trở ra mục lục</a>| 13-Feb-2023</p>
+  <p align="center">| <a target="_blank" href="/NGXUANTHO/BuocMoDau_Main"><span lang="en-us"><b><font face="Symbol">¿</font></b></span> trở ra mục lục</a>| 13-Feb-2023</p>
   <p align="center"><img src="https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/LICHSU/IMG/SACH/BuocMoDauHeThong.jpg" width="222" height="305" alt=""></p> 
 
  

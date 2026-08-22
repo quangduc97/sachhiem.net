@@ -3,7 +3,7 @@ layout: ../../layouts/Article.astro
 title: "Sự Mầu Nhiệm"
 author: "Nguyễn Đại Giang"
 date: 2013-06-13
-source: "https://sachhiem.net/VANHOC/Daigiang03_truyen2.php"
+source: "/VANHOC/Daigiang03_truyen2"
 category: "Văn hóa"
 lang: vi
 wordCount: 1582

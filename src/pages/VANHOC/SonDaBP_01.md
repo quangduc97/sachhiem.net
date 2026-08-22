@@ -3,7 +3,7 @@ layout: ../../layouts/Article.astro
 title: "Tâm Từ Bi Của Một Đức Vua"
 author: "Sơn Dã Bần Phu"
 date: 2026-05-20
-source: "https://sachhiem.net/VANHOC/SonDaBP_01.php"
+source: "/VANHOC/SonDaBP_01"
 category: "Chính trị"
 lang: vi
 wordCount: 2108

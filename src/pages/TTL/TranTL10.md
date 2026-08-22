@@ -2,11 +2,11 @@
 layout: ../../layouts/Article.astro
 title: "Không Thể Có Thượng Đế"
 author: "by Richard Dawkins"
-source: "https://sachhiem.net/Bản Anh ngữ: https://www.secularhumanism.org/library/fi/dawkins_18_3.html"
+source: "/Bản Anh ngữ: https://www.secularhumanism.org/library/fi/dawkins_18_3.html"
 category: "Tác giả"
 lang: vi
 wordCount: 4814
-image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nha.jpg"
+image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/SACHNGOAI/Hinhanh/PEOPLE/RichardDawkins.jpg"
 ---
 
 <div style="background-color: #E0E0E4">
@@ -17,7 +17,7 @@ image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nha.jpg"
 		
 
 
- <p align="center"><a href="/index"><img border="0" hspace="20" src="https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nha.jpg"></a>  09 tháng 4, 2011</p>
+ <p align="center">  09 tháng 4, 2011</p>
 		<p class="center"><i>
 		<img border="0" src="https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/SACHNGOAI/Hinhanh/PEOPLE/RichardDawkins.jpg" width="132" height="167"></i></p>
 		<p class="center"><u>Richard Dawkins </u> </p>

@@ -2,7 +2,7 @@
 layout: ../../layouts/Article.astro
 title: "Những Tờ Tuyên Cáo"
 author: "Lý Thái"
-source: "https://sachhiem.net/LTX/LyThaiTS04.php"
+source: "/LTX/LyThaiTS04"
 category: "Chính trị"
 lang: vi
 wordCount: 3341

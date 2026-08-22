@@ -2,7 +2,7 @@
 layout: ../../../layouts/Article.astro
 title: "Ngày Cựu Chiến Binh"
 author: "sưu tầm"
-source: "https://sachhiem.net/null"
+source: "/null"
 category: "Chính trị"
 lang: vi
 wordCount: 379

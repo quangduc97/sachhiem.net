@@ -3,7 +3,7 @@ layout: ../../../layouts/Article.astro
 title: "Buồn Không Tên - Tản Mạn Về Những Lời Ca"
 author: "Lê Anh-Tuấn"
 date: 2018-11-28
-source: "https://sachhiem.net/TTS/VH/LAT1.php"
+source: "/TTS/VH/LAT1"
 category: "Tác giả"
 lang: vi
 wordCount: 6822

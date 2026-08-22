@@ -2,7 +2,7 @@
 layout: ../../layouts/Article.astro
 title: "Những Lá Cờ Độc Lập Trên Thế Giới"
 author: "Lý Thái"
-source: "https://sachhiem.net/LTX/LyThaiTS02.php"
+source: "/LTX/LyThaiTS02"
 category: "Chính trị"
 lang: vi
 wordCount: 2369

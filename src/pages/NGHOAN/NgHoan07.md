@@ -2,16 +2,15 @@
 layout: ../../layouts/Article.astro
 title: "Festival Huế"
 author: "Bút ký - Nguyễn Hoàn"
-source: "https://sachhiem.net/NGHOAN/NgHoan07.php"
+source: "/NGHOAN/NgHoan07"
 category: "Văn hóa"
 lang: vi
 wordCount: 5450
-image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nha.jpg"
+image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/VANHOC/Hinh/hoasiLeBaDang.jpg"
 ---
 
 <table border="0" align="center" cellpadding="1" width="250"><tbody><tr>
-	<td width="100"><a href="https://www.sachhiem.net/">
-	<img border="0" src="https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nha.jpg"></a></td>
+	<td width="100"></td>
 			<td valign="top" width="210">
 			<p>17 tháng 1,   2010 </p></td>
 		</tr>

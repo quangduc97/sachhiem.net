@@ -3,7 +3,7 @@ layout: ../../layouts/Article.astro
 title: "Tấm Thiệp Mùa Đông"
 author: "Lý Thái Xuân"
 date: 2014-12-26
-source: "https://sachhiem.net/LTX/LyThaiXH17.php"
+source: "/LTX/LyThaiXH17"
 category: "Xã hội"
 lang: vi
 wordCount: 3694
@@ -32,7 +32,7 @@ image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/TONGIAO/IMG/CHURCH/L
 	<p class="PicRgt"> <img src="https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/TONGIAO/IMG/BIBLE/Abraham_gietcon.jpg" width="300" height="436"> </p>
     <p> <a name="n2" class="TuaDenLeft" href="/LTX/#tit2">  ▪   Ý Nghĩa của Dâng Hiến </a></p> 
     <p>Thân phụ tôi ngoan đạo gần như tuyệt đối, tin tưởng ở sự "dâng hiến" cho Chúa bằng cách "dâng hiến" đứa con đầu lòng cho nhà dòng. Ông đọc nhiều chuyện trong thánh kinh (<a href="https://www.biblegateway.com/passage/?search=Xu%E1%BA%A5t+H%C3%A0nh+13&amp;version=BPT">Xuất Hành 13,1-2</a>: CHÚA bảo Mô-se, 2 “<i>Hãy dâng mọi con đầu lòng cho ta. Tất cả những con đầu lòng trong Ít-ra-en, bất kỳ người hay súc vật đều thuộc về ta</i>,”) thân phụ tôi có lẽ bắt chước ông Abraham giết Isaac, đứa con duy nhất, để cúng tế Chúa Trời. </p>
-	<p class="indent50"><i>Khi Isamel trưởng thành, Chúa thử lòng Abraham bằng cách ra lệnh cho ông phải giết đứa con trai yêu quí của mình và đốt nó bằng củi lửa như những vật hy sinh khác (Koran 37:102-112). Abraham tuân lệnh Chúa nên dẫn Ismael lên núi Arafat (cách Mecca 16 dặm) để giết. Nhưng khi Abraham vừa mới vung đao lên để giết con thì Thiên chúa ngăn lại. Chúa hứa cho Ismael sau này trở thành tổ phụ của một dân tộc lớn. Về sau, Ismael có 12 người con trai là tổ tiên của 12 giống dân Ả rập. (</i>Điều này cũng tương tự như Kinh thánh Cựu ước Do thái chép rằng : cháu nội của Abraham là Gia-cóp có 12 con trai là tổ phụ của 12 bộ lạc Do thái. Kinh thánh Tân ước cũng chép : Chúa Jesus chọn 12 tông đồ để lãnh đạo 12 bộ lạc Do thái chứ không phải để truyền đạo khắp thế gian<i>.)</i> [xem <a href="https://sachhiem.net/CHARLIE/CN_TCCG/Abraham.php">"Truyền Thống Abraham Dưới Ánh Sáng Khoa Học Khảo Cổ"</a> của Charlie Nguyễn]</p>
+	<p class="indent50"><i>Khi Isamel trưởng thành, Chúa thử lòng Abraham bằng cách ra lệnh cho ông phải giết đứa con trai yêu quí của mình và đốt nó bằng củi lửa như những vật hy sinh khác (Koran 37:102-112). Abraham tuân lệnh Chúa nên dẫn Ismael lên núi Arafat (cách Mecca 16 dặm) để giết. Nhưng khi Abraham vừa mới vung đao lên để giết con thì Thiên chúa ngăn lại. Chúa hứa cho Ismael sau này trở thành tổ phụ của một dân tộc lớn. Về sau, Ismael có 12 người con trai là tổ tiên của 12 giống dân Ả rập. (</i>Điều này cũng tương tự như Kinh thánh Cựu ước Do thái chép rằng : cháu nội của Abraham là Gia-cóp có 12 con trai là tổ phụ của 12 bộ lạc Do thái. Kinh thánh Tân ước cũng chép : Chúa Jesus chọn 12 tông đồ để lãnh đạo 12 bộ lạc Do thái chứ không phải để truyền đạo khắp thế gian<i>.)</i> [xem <a href="/CHARLIE/CN_TCCG/Abraham">"Truyền Thống Abraham Dưới Ánh Sáng Khoa Học Khảo Cổ"</a> của Charlie Nguyễn]</p>
 	<p>Đó là câu chuyện mà chúng tôi thường nghe thân phụ tôi kể.  Ông say mê những câu chuyện mà ông gọi là "<i>gương thánh</i>", nên noi gương chước "hy sinh" đứa con gái đầu lòng cho nhà dòng. Thế là ông giao phó cho nhà dòng, không cần biết người ta có làm tình làm tội chị tôi cũng như các "ma soeurs" khác cũng đang tuổi thơ ngây như thế, trong khi ở nhà tự hào rằng mình đã làm một việc "<i>nên thánh</i>." Chỉ có điều, khi thân phụ tôi dâng hiến đứa con đầu lòng cho nhà dòng thì không có Chúa ra cản lại!</p>
 	<p>Bà nội tôi mỗi năm đều tìm cách dắt tôi đi thăm chị T.M.. Lúc đó, chị đang ở Cù Lao Giêng. Lần đầu thăm chị, nhà dòng cho hai bà cháu vào trọ và đối đãi như khách thân quí: được ăn chung với các ma soeurs những thức ăn lạ, kiểu Tây, được cho bàn chải đánh răng,... Đó là những hình ảnh mà trong tuổi ngây thơ và gia cảnh nghèo nàn, tôi cảm thấy hãnh diện được đối đãi tử tế "<i>vì có người chị đi tu</i>," Tất cả người theo đạo Chúa đều nghĩ như thế. Dường như tôi đã đọc một vài lá thư của chị gửi về, kể lể tổng quát việc này nọ, đại ý là khá cực khổ, nhưng sẽ chịu đựng hết <i>"vì Chúa"</i>. Chị còn làm thơ nữa, và tôi âm thầm khóc mỗi lần đọc thư chị. Nhưng, cũng như tất cả những người trong gia đình, tôi vẫn xem như chuyện đó là lẽ đương nhiên. </p>
 <p> <a name="n3" class="TuaDenLeft" href="/LTX/#tit3">  ▪   Tiếng nức nở trước cổng tu viện </a></p>
@@ -92,8 +92,8 @@ image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/TONGIAO/IMG/CHURCH/L
 <p class="TacgiaL">Lý Thái Xuân</p>
 <hr>
 <p class="TuaDenLeft">Bài cùng chủ đề:</p>
-<p>- <a href="https://sachhiem.net/BUIKHA/BuiKha8.php">Noel - Mừng Giáng Sinh (Bùi Kha)</a></p>
-<p>- <a href="https://sachhiem.net/LTX/LyThaiXH14.php">Những Chủ Đề Mới Trong Thiệp Chúc Mùa Đông (Lý Thái)</a></p>
-<p>- <a href="https://sachhiem.net/XAHOI/T/TranXuanNinh.php">Quanh ngày lễ Giáng sinh (Christmas) ở Mỹ ngày nay (Trần Xuân Ninh)</a></p>
+<p>- <a href="/BUIKHA/BuiKha8">Noel - Mừng Giáng Sinh (Bùi Kha)</a></p>
+<p>- <a href="/LTX/LyThaiXH14">Những Chủ Đề Mới Trong Thiệp Chúc Mùa Đông (Lý Thái)</a></p>
+<p>- <a href="/XAHOI/T/TranXuanNinh">Quanh ngày lễ Giáng sinh (Christmas) ở Mỹ ngày nay (Trần Xuân Ninh)</a></p>
 
 <hr>

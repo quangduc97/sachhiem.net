@@ -3,7 +3,7 @@ layout: ../../../layouts/Article.astro
 title: "\"Con Chiên\" Kiện \"Con Người\""
 author: "Trần Chung Ngọc"
 date: 2013-04-05
-source: "https://sachhiem.net/TCN/TCNdt/TCNdt069.php"
+source: "/TCN/TCNdt/TCNdt069"
 category: "Đối thoại"
 lang: vi
 wordCount: 1132
@@ -17,7 +17,7 @@ image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/MISC/law.jpg"
     
 <p><i>LTS: Kể từ khi nghe tin sẽ bị kiện, các tác giả đã tuần tự phản hồi như đã thấy ở mục "Ý Kiến Ngắn". GS Nguyễn Mạnh Quang cũng đã có một bài "chuẩn bị". Riêng GS Trần Chung Ngọc, tuy chỉ có một lá thư thật ngắn như sau, nhưng tòa soạn đã mất công rất nhiều để đi tìm số sách khổng lồ như đã kê ra bên dưới. Đã thế ông còn hứa chuẩn bị tinh thần và vật chất dùm cho cả nguyên đơn,  việc quả là hiếm có trên đời. (SH)</i></p><hr>
     <p align="center"><img src="https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/MISC/law.jpg" width="200" height="132"></p>
-<p><span class="First">Đ</span>ọc Sách Hiếm mới biết có <a href="https://sachhiem.net/index.php?content=showemail&amp;id=263"> <u>một nhóm con  chiên</u> đang thu thập những bài viết của <u>một số con người </u></a> trên Giao  Điểm để truy tố họ ra tòa về tội xuyên tạc, bôi nhọ v…v… tôn giáo của họ <a name="one" href="/TCN/#none"><sup>(*)</sup></a>.&nbsp; </p>
+<p><span class="First">Đ</span>ọc Sách Hiếm mới biết có <a href="/net/TCN/TCNts/TCNts053"> <u>một nhóm con  chiên</u> đang thu thập những bài viết của <u>một số con người </u></a> trên Giao  Điểm để truy tố họ ra tòa về tội xuyên tạc, bôi nhọ v…v… tôn giáo của họ <a name="one" href="/TCN/#none"><sup>(*)</sup></a>.&nbsp; </p>
 <p>Tôi sẵn sàng cắp chiếu ra tòa, và tất nhiên  tôi sẽ mang theo những cuốn sách hay mà tôi hiện có sau đây, vì đó là những  nguồn tài liệu tôi thường dùng.&nbsp; </p>
 <p>Tôi cũng  khuyên mấy con chiên hãy kiếm đọc trước những cuốn sách này để bổ túc hồ sơ  kiện tụng.&nbsp; Cần cuốn nào tôi sẽ cho mượn  COD, trừ mấy cuốn e-Book, nhưng đọc xong thì phải trả, không được thủ tiêu để  làm mất tang tích và để cho người khác không đọc được, vì đây là loại “sách  hiếm”.</p>
 <p align="center"><img src="https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/SACHNGOAI/Hinhanh/BIASACH/GodHateU.jpg" height="120"><img src="https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/SACHNGOAI/Hinhanh/BIASACH/TheCaseAgainst.jpg" height="120"><img src="https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/SACHNGOAI/Hinhanh/BIASACH/CritiqueofGod.jpg" height="120"><img src="https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/SACHNGOAI/Hinhanh/BIASACH/DarksideofGod_DL.jpg" height="120"><img src="https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/SACHNGOAI/Hinhanh/BIASACH/TheImpossibilityofGod.jpg" height="120"></p>

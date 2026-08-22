@@ -3,7 +3,7 @@ layout: ../../../layouts/Article.astro
 title: "Lời Tạm Kết Cho Cuộc Tranh Luận Dạy Chữ Hán Trong Trường Phổ Thông"
 author: "TS. Đoàn Lê Giang"
 date: 2016-09-06
-source: "https://sachhiem.net/VANHOC/N/NCTG_chuHan.php"
+source: "/VANHOC/N/NCTG_chuHan"
 category: "Chính trị"
 lang: vi
 wordCount: 2967

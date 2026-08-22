@@ -2,7 +2,7 @@
 layout: ../../../layouts/Article.astro
 title: "Giáo Hoàng Và Luật Cấm Thờ Cúng Tổ Tiên"
 author: "Charlie Nguyễn"
-source: "https://sachhiem.net/CHARLIE/CN_TTDTG/Luatcam_ThocungTotien.php"
+source: "/CHARLIE/CN_TTDTG/Luatcam_ThocungTotien"
 lang: vi
 wordCount: 3314
 image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nha.jpg"

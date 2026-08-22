@@ -2,14 +2,14 @@
 layout: ../../layouts/Article.astro
 title: "Thần học Tự do-Hiện đại"
 author: "Trần Tiên Long dịch"
-source: "https://sachhiem.net/TTL/TranTL08.php"
+source: "/TTL/TranTL08"
 category: "Tác giả"
 lang: vi
 wordCount: 8876
-image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nha.jpg"
+image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/SACHNGOAI/Hinhanh/PEOPLE/DavidHume.jpg"
 ---
 
-<p align="center"><a href="/index"><img hspace="20" border="0" src="https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nha.jpg"></a>  13 tháng 3, 2011</p>
+<p align="center">  13 tháng 3, 2011</p>
 		<p><i><span class="First">K</span>ính thưa quí đọc giả,</i></p> 
 
 		<p><i>Bài này cho chúng ta thấy có nhiều cách hiểu Kinh Thánh tùy theo 

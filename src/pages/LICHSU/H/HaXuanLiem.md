@@ -3,7 +3,7 @@ layout: ../../../layouts/Article.astro
 title: "Ngô Đình Khả - Làm Nhà Thờ ở Huế"
 author: "của tác giả Hà Xuân Liêm"
 date: 2012-01-20
-source: "https://sachhiem.net/null"
+source: "/null"
 category: "Lịch sử"
 lang: vi
 wordCount: 302

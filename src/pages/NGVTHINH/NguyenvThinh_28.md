@@ -3,7 +3,7 @@ layout: ../../layouts/Article.astro
 title: "Đừng Nhân Danh Văn Hóa Lừa Thiên Hạ"
 author: "BS Nguyễn Văn Thịnh"
 date: 2019-05-28
-source: "https://sachhiem.net/NGVTHINH/NguyenvThinh_28.php"
+source: "/NGVTHINH/NguyenvThinh_28"
 category: "Lịch sử"
 lang: vi
 wordCount: 5737

@@ -2,17 +2,16 @@
 layout: ../../../layouts/Article.astro
 title: "Nhân Ngày Giáng Sinh Nghĩ Về"
 author: "Nguyễn Trí Cảm"
-source: "https://sachhiem.net/null"
+source: "/null"
 category: "Chính trị"
 lang: vi
 wordCount: 3755
-image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nha.jpg"
+image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/IMG/CHURCH/PhatDiem.jpg"
 ---
 
 <table border="0" cellpadding="0" width="250" align="center"><tbody><tr>
 				<td width="125">
-				<a href="/index">
-			  <img border="0" src="https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nha.jpg"></a></td>
+				</td>
 	<td valign="top">	<font size="2">07 tháng 12, 2008
 	</font>
 	</td></tr></tbody></table>

@@ -3,7 +3,7 @@ layout: ../../../layouts/Article.astro
 title: "Hồng Y Burke: Giáo Hội Thiên Chúa Giáo Dưới Quyền Lãnh Đạo Của Giáo Hoàng Francis"
 author: "Josephine McKenna / Nguyễn Ri dịch"
 date: 2014-10-29
-source: "https://sachhiem.net/TONGIAO/tgN/NguyenRi_08.php"
+source: "/TONGIAO/tgN/NguyenRi_08"
 category: "Tác giả"
 lang: vi
 wordCount: 661
@@ -28,7 +28,7 @@ image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/TONGIAO/IMG/VATICAN/
 <p>
   <i>"Bây giờ, để kiểm tra niềm tin của chúng ta, việc quan trọng hơn  hết là có một nhà lãnh đạo tinh thần lành mạnh và làm chứng mạnh mẽ cho đức tin."</i> </p>
 <p>
-  Burke là người đứng đầu hiện tại của tòa án tối cao của Vatican, được gọi là  Apostolic Signatura, nhưng ông cho biết gần đây ông dường như sẽ  bị giáng cấp. Có tin đồn ông sẽ trở thành  người của Order of Malta, một chức vị chủ yếu là nghi  lễ. (xem <a href="https://sachhiem.net/TONGIAO/tgN/NguyenRi_05.php">Giáo Hoàng Giáng Chức Vị Hồng Y Trực Ngôn Bảo Thủ Người Mỹ</a>)</p>
+  Burke là người đứng đầu hiện tại của tòa án tối cao của Vatican, được gọi là  Apostolic Signatura, nhưng ông cho biết gần đây ông dường như sẽ  bị giáng cấp. Có tin đồn ông sẽ trở thành  người của Order of Malta, một chức vị chủ yếu là nghi  lễ. (xem <a href="/TONGIAO/tgN/NguyenRi_05">Giáo Hoàng Giáng Chức Vị Hồng Y Trực Ngôn Bảo Thủ Người Mỹ</a>)</p>
 <p>
   "<i>Tôi có tất cả sự tôn trọng dành cho Thánh Bộ  Phêrô  và tôi không muốn tôi có vẻ đang lên tiếng chống lại Giáo Hoàng</i>", ông nói trong cuộc phỏng vấn.  "<i>Tôi muốn trở thành một người am hiểu về&nbsp; đức tin, với tất cả những yếu đuối của tôi, nói ra một sự thật mà nhiều người hiện nay nhận thức</i>." </p>
 <p>
@@ -47,4 +47,4 @@ image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/TONGIAO/IMG/VATICAN/
 <p class="TacgiaL">Nguyễn Ri dịch</p>
 <p class="nguonL">Nguồn  <a href="https://www.huffingtonpost.com/2014/11/02/cardinal-burke-pope-francis_n_6083940.html?ncid=txtlnkusaolp00000592">https://www.huffingtonpost.com/2014/11/02/cardinal-burke-pope-francis_n_6083940.html?ncid=txtlnkusaolp00000592</a></p>
 __________________
- <p>Các bài của Nguyễn Ri: link <a href="https://sachhiem.net/TONGIAO/tgN/ListRiNguyen.inc.php" target="_blank">https://sachhiem.net/TONGIAO/tgN/ListRiNguyen.inc.php</a></p>
+ <p>Các bài của Nguyễn Ri: link <a href="/TONGIAO/tgN/ListRiNguyen.inc" target="_blank">https://sachhiem.net/TONGIAO/tgN/ListRiNguyen.inc.php</a></p>

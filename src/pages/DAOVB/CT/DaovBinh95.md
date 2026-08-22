@@ -3,7 +3,7 @@ layout: ../../../layouts/Article.astro
 title: "Nhật Ký Biển Đông: Thế Giới Yên Bình hay Sẽ Hỗn Loạn?"
 author: "Đào Văn Bình"
 date: 2017-09-30
-source: "https://sachhiem.net/DAOVB/CT/DaovBinh95.php"
+source: "/DAOVB/CT/DaovBinh95"
 category: "Chính trị"
 lang: vi
 wordCount: 6756

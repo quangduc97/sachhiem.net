@@ -3,7 +3,7 @@ layout: ../../../layouts/Article.astro
 title: "Nhìn Lại Hai Cuộc Chiến Ở Việt Nam"
 author: "Trần Chung Ngọc"
 date: 2013-04-26
-source: "https://sachhiem.net/TCN/TCNls/TCNls16b.php"
+source: "/TCN/TCNls/TCNls16b"
 lang: vi
 wordCount: 8326
 ---

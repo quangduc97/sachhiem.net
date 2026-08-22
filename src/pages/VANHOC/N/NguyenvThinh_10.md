@@ -3,7 +3,7 @@ layout: ../../../layouts/Article.astro
 title: "Ủy Ban Bảo Vệ Lịch Sử Việt Nam?"
 author: "BS. Nguyễn Văn Thịnh"
 date: 2016-02-03
-source: "https://sachhiem.net/VANHOC/N/NguyenvThinh_10.php"
+source: "/VANHOC/N/NguyenvThinh_10"
 category: "Lịch sử"
 lang: vi
 wordCount: 1991

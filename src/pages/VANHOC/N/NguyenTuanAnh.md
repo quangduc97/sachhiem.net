@@ -3,7 +3,7 @@ layout: ../../../layouts/Article.astro
 title: "“NAM QUỐC SƠN HÀ” Bản Tuyên Ngôn Độc Lập Đầu Tiên Của Nước Đại Việt"
 author: "Nguyễn Tuấn Anh"
 date: 2026-01-11
-source: "https://sachhiem.net/VANHOC/N/NguyenTuanAnh.php"
+source: "/VANHOC/N/NguyenTuanAnh"
 category: "Văn hóa"
 lang: vi
 wordCount: 448

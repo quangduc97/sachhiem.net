@@ -2,17 +2,17 @@
 layout: ../../../layouts/Article.astro
 title: "Tâm Thư Gửi Nhà Nước Việt Nam"
 author: "Nguyễn Mạnh Quang"
-source: "https://sachhiem.net/NMQ/TAMTHU/NMQtt_01a.php"
+source: "/NMQ/TAMTHU/NMQtt_01a"
 lang: vi
 wordCount: 727
-image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nha.jpg"
+image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/print.gif"
 ---
 
-<p align="center"><a href="https://www.sachhiem.net/"> <img border="0" src="https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nha.jpg"></a> | 
-<a target="_blank" href="https://sachhiem.net/NMQ/TAMTHU/NMQtt_01a.php">
+<p align="center"> | 
+<a target="_blank" href="/NMQ/TAMTHU/NMQtt_01a">
 <img border="0" src="https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/print.gif" width="18" height="18"> 
 </a>bản in | 
-	<a target="_blank" href="https://sachhiem.net/NMQ/TAMTHU/NMQtt_Main.php"><b><font face="Symbol" size="5"> ¿ </font></b> trở ra mục lục</a>
+	<a target="_blank" href="/NMQ/TAMTHU/NMQtt_Main"><b><font face="Symbol" size="5"> ¿ </font></b> trở ra mục lục</a>
  | 29 tháng 3, 2009</p>
 <p class="TuaDoLeft"><i>Lời Giới Thiệu</i></p>
 <p><i>Nếu Thiên Chúa Giáo thuần túy chỉ là một nhóm người cùng một niềm tin không liên hệ đến an sinh của cộng đồng thế giới, thì cho dù họ có những niềm tin không tưởng hay mê muội đến mấy đi chăng nữa, cũng chẳng ai quan tâm.  Chẳng cần phải là Phật tử, một người hiền lương bình thường nào cũng thế, chẳng ai nên và chẳng ai mất công bình phẩm những điều tiêu cực với những người có tôn giáo khác.&nbsp; Khắp nơi trên trái đất này, có thiếu chi những tôn giáo với những nghi lễ và những niềm tin kỳ lạ cũng chẳng có ai bận lòng chỉ trích. Quyền tự do tín ngưỡng là thế. Ai tin gì thì tin, miễn đừng xâm phạm đến các quyền tự do của những người khác dưới bất cứ hình thức nào. 
@@ -30,5 +30,5 @@ bình thường của người Á Đông ta không?</i></p>
 <p><i>Như thế, vạch ra những "thành tích tội ác" của kẻ gian ác đang mặc áo tu hành cho những người "chưa từng biết, chưa từng nghe," để họ 
 "cũng được nghe, cũng được biết" như những người dân Âu Châu có phải là việc "chia rẻ" tôn giáo hay là "nâng cao dân trí" và phòng ngừa con bệnh mê muội? Tại sao dân ta không được biết những điều thế giới văn minh có quyền biết? Mong rằng những lời chia sẻ này được đón nhận như một thông tin cần thiết cho tri thức của người dân nước ta. (SH)</i></p>
 
-<p><a target="_blank" href="https://sachhiem.net/NMQ/TAMTHU/NMQtt_01b.php">kính mời đọc Sơ Lược Nội Dung 
+<p><a target="_blank" href="/NMQ/TAMTHU/NMQtt_01b">kính mời đọc Sơ Lược Nội Dung 
 <img border="0" src="https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/Next3.gif" width="15" height="6"></a></p>

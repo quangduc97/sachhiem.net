@@ -3,7 +3,7 @@ layout: ../../../layouts/Article.astro
 title: "MV: Những Trái Tim Việt Nam"
 author: "Thiên Hương/ Thanh Niên Online"
 date: 2014-06-09
-source: "https://sachhiem.net/THOISU_CT/ChuTh/Thanhnien.php"
+source: "/THOISU_CT/ChuTh/Thanhnien"
 category: "Chính trị"
 lang: vi
 wordCount: 1039

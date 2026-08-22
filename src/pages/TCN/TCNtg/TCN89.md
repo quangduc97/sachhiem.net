@@ -2,14 +2,13 @@
 layout: ../../../layouts/Article.astro
 title: "\"Ông Trời\" Không Quen Biết \"Thượng Đế\""
 author: "Trần Chung Ngọc"
-source: "https://sachhiem.net/TCN/TCNtg/TCN89.php"
+source: "/TCN/TCNtg/TCN89"
 lang: vi
 wordCount: 8289
-image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nha.jpg"
+image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/SACHNGOAI/Hinhanh/BIASACH/GodDefender.jpg"
 ---
 
-<p align="center"><a href="https://www.sachhiem.net/">
-<img border="0" src="https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nha.jpg"></a> 25 tháng 1,  2010</p>
+<p align="center"> 25 tháng 1,  2010</p>
 		<p><i>LTS: Là một trong những tác giả người 
 		Việt Nam viết táo bạo về những điều cấm kỵ của các tín đồ đạo Chúa (như 
 		đem Chúa và các vị thánh mà giáo hội Công Giáo đã tôn thờ ra làm đối 
@@ -56,9 +55,9 @@ image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nha.jpg"
 		tiệt đó chứ?  Vậy chắc chắn các tín đồ Thiên Chúa Giáo người Việt còn mặc cảm lo sợ ông Thượng Đế còn thua kém ông Trời của chúng tôi, ít nhất là về đức độ!  </i> </p>
 	<p><i>Trước đây đã có vài bài viết về ông 
 		trời của người Á đông khác với ông Thượng Đế của đạo Chúa như: </i> </p>
-	<p>- <i><a href="https://www.sachhiem.net/CHARLIE/CN_TTDTG/Ongtroi.php">Quan niệm “Ông Trời” của người Việt của cụ Charlie Nguyễn,</a></i></p>
-	<p><i>-<a href="https://www.sachhiem.net/TONGIAO/tgTH/ThienLoi.php"> Nhân Chuyện Khám Phá Có Jehovah Trong Ca Dao Việt của Thiên Lôi</a></i></p>
-	<p><i><a href="https://sachhiem.net/TONGIAO/tgS/SonDa.php">- Nhân đọc “Ông Trời trong thi ca Việt-Nam" (Sơn Dã Bần Phu)</a></i></p>
+	<p>- <i><a href="/CHARLIE/CN_TTDTG/Ongtroi">Quan niệm “Ông Trời” của người Việt của cụ Charlie Nguyễn,</a></i></p>
+	<p><i>-<a href="/TONGIAO/tgTH/ThienLoi"> Nhân Chuyện Khám Phá Có Jehovah Trong Ca Dao Việt của Thiên Lôi</a></i></p>
+	<p><i><a href="/TONGIAO/tgS/SonDa">- Nhân đọc “Ông Trời trong thi ca Việt-Nam" (Sơn Dã Bần Phu)</a></i></p>
 	<p><i>Riêng cụ Trần Chung Ngọc sẽ có câu chuyện để gửi tặng các bạn đọc một vài phút giải trí, chắc chắn sẽ đem lại một ngày vui. </i></p>
 	<hr>
 	<p><b><font size="5" face="Times New Roman">T</font></b>ôi vừa nhận được từ Tòa Soạn Sách Hiếm một lá thư 
@@ -721,9 +720,9 @@ CÓ TÊN SAU ĐÂY ĐỀU LÀ HỮU THẦN  = (THIÊN CHÚA GIÁO NÓI CHUNG)
 	
 	 <hr width="40%" align="left"><p>Các đề tài về Ông Trời trong sachhiem.net:</p>
 <p>-<a href="/TCN/TCNtg/TCN89">"Ông Trời" Không Quen Biết "Thượng Đế"! (Trần Chung Ngọc)</a></p>
-	<p>- <a href="https://www.sachhiem.net/CHARLIE/CN_TTDTG/Ongtroi.php">Quan niệm “Ông Trời” của người Việt của cụ Charlie Nguyễn,</a></p>
-	<p>-<a href="https://www.sachhiem.net/TONGIAO/tgTH/ThienLoi.php"> Nhân Chuyện Khám Phá Có Jehovah Trong Ca Dao Việt của Thiên Lôi</a></p>
-	<p><a href="https://sachhiem.net/TONGIAO/tgS/SonDa.php">- Nhân đọc “Ông Trời trong thi ca Việt-Nam" (Sơn Dã Bần Phu)</a></p>
+	<p>- <a href="/CHARLIE/CN_TTDTG/Ongtroi">Quan niệm “Ông Trời” của người Việt của cụ Charlie Nguyễn,</a></p>
+	<p>-<a href="/TONGIAO/tgTH/ThienLoi"> Nhân Chuyện Khám Phá Có Jehovah Trong Ca Dao Việt của Thiên Lôi</a></p>
+	<p><a href="/TONGIAO/tgS/SonDa">- Nhân đọc “Ông Trời trong thi ca Việt-Nam" (Sơn Dã Bần Phu)</a></p>
 	<p><a href="/TONGIAO/tgM/MinhThanh04">- “Lập lờ đánh lận”… ông trời! (Minh Thạnh)</a></p><hr>
 	<p><a href="/TCN/TCNtongiao">Các bài tôn giáo cùng tác giả </a> 
 	</p>

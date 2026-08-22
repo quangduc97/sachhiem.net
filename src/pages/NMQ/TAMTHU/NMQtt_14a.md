@@ -2,17 +2,17 @@
 layout: ../../../layouts/Article.astro
 title: "Tâm Thư Gửi Nhà Nước Việt Nam"
 author: "Nguyễn Mạnh Quang"
-source: "https://sachhiem.net/NMQ/TAMTHU/NMQtt_14a.php"
+source: "/NMQ/TAMTHU/NMQtt_14a"
 lang: vi
 wordCount: 10595
-image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nha.jpg"
+image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/print.gif"
 ---
 
-<p align="center"><a href="https://www.sachhiem.net/"> <img border="0" src="https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nha.jpg"></a> | 
-<a target="_blank" href="https://sachhiem.net/NMQ/TAMTHU/NMQtt_14a.php">
+<p align="center"> | 
+<a target="_blank" href="/NMQ/TAMTHU/NMQtt_14a">
 <img border="0" src="https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/print.gif" width="18" height="18"> 
   bản in</a> | 
-	<a target="_blank" href="https://sachhiem.net/NMQ/TAMTHU/NMQtt_Main.php"><b><font face="Symbol" size="5"> ¿ </font></b> trở ra mục lục</a>
+	<a target="_blank" href="/NMQ/TAMTHU/NMQtt_Main"><b><font face="Symbol" size="5"> ¿ </font></b> trở ra mục lục</a>
  |   17 tháng 2, 2010</p>
  <p class="CHUONG">PHẦN III</p>
 <center>◎◎◎</center>
@@ -21,7 +21,7 @@ image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nha.jpg"
 <p class="MUC">LÒNG BẤT MÃN VÀ CĂM THÙ </p>
 <p>CỦA NHÂN DÂN THẾ GIỚI ĐỐI VỚI VATICAN </p>
 
-<p class="center"><a target="_blank" href="https://sachhiem.net/NMQ/TAMTHU/NMQtt_14.php">(tiếp theo)</a></p>
+<p class="center"><a target="_blank" href="/NMQ/TAMTHU/NMQtt_14">(tiếp theo)</a></p>
 <div style="border-top: 1px solid #949494; border-bottom: 1px solid #949494; background-color: #EAEAEB">
 <p>III.- Lòng căm thù và ghê tởm của tất cả mọi tầng lớp khác trong nhân dân đối 
 với Nhà Thờ Vatican: (tiếp theo)</p>
@@ -391,7 +391,7 @@ em,</i></p>
 Tôi đọc được 
 tin tên Giáo hoàng Benedict XVI bị xô ngã tại nhà thờ Saint Peter vào đêm Giáng 
 sinh - mùa chó chết hôm qua, trong lòng tôi vui mừng không tả! =&gt; </i>
-<a target="_blank" href="https://sachhiem.net/TONGIAO/tgS/SH09.php">
+<a target="_blank" href="/TONGIAO/tgS/SH09">
 <i>
 https://sachhiem.net/TONGIAO/tgS/SH09.php</i></a><i> </i></p>
 <p><i>

@@ -2,14 +2,14 @@
 layout: ../../../layouts/Article.astro
 title: "ĐẢNG CẦN LAO"
 author: "Tổng hợp của Lê Xuân Nhuận"
-source: "https://sachhiem.net/LICHSU/LEXNHUAN/LeXNhuan04.php"
+source: "/LICHSU/LEXNHUAN/LeXNhuan04"
 category: "Lịch sử"
 lang: vi
 wordCount: 12406
-image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nha.jpg"
+image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/LICHSU/IMG/NGODD/Canlao.jpg"
 ---
 
-<p align="center"><a href="/LICHSU/index"><img hspace="20" border="0" src="https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nha.jpg"></a> <a href="/LICHSU/LEXNHUAN/LXN_main">Mục lục các bài liên hệ với chế độ Ngô Đình Diệm </a> &nbsp;&nbsp;12 tháng 9, 2010 </p>
+<p align="center"> <a href="/LICHSU/LEXNHUAN/LXN_main">Mục lục các bài liên hệ với chế độ Ngô Đình Diệm </a> &nbsp;&nbsp;12 tháng 9, 2010 </p>
 
 <p class="TuaDoLeft">I. CẦN LAO LÀ GÌ? </p>
 

@@ -3,7 +3,7 @@ layout: ../../../layouts/Article.astro
 title: "Bản Án Chế Độ Thực Dân Pháp"
 author: "Nguyễn Ái Quốc"
 date: 2018-07-12
-source: "https://sachhiem.net/LICHSU/N/NAQ_BACD_TDP_0.php"
+source: "/LICHSU/N/NAQ_BACD_TDP_0"
 category: "Lịch sử"
 lang: vi
 wordCount: 5020

@@ -3,7 +3,7 @@ layout: ../../../layouts/Article.astro
 title: "Tạ Chí Đại Trường Và “Kiêu Dân” Công Giáo"
 author: "Sưu tầm của Kevin Trần"
 date: 2016-03-24
-source: "https://sachhiem.net/LICHSU/TR/TranKevin01.php"
+source: "/LICHSU/TR/TranKevin01"
 category: "Chính trị"
 lang: vi
 wordCount: 1418

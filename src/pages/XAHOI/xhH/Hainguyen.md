@@ -2,7 +2,7 @@
 layout: ../../../layouts/Article.astro
 title: "ĐÔI ĐIỀU NHẬN XÉT VỀ"
 author: "Hai Nguyên"
-source: "https://sachhiem.net/null"
+source: "/null"
 category: "Chính trị"
 lang: vi
 wordCount: 8161
@@ -41,7 +41,7 @@ image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nhacu.jpg"
 		
 			<table border="0" cellpadding="10" width="100%" cols="2"><tbody><tr>
 				<td valign="top">
-	<a href="https://sachhiem.net/"><img src="https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nhacu.jpg" border="0"></a></td>
+	<a href="/"><img src="https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nhacu.jpg" border="0"></a></td>
 	<td valign="top">	03 tháng 12, 2007
 	</td></tr></tbody></table>
 

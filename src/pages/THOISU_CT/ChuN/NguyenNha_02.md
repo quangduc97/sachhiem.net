@@ -3,7 +3,7 @@ layout: ../../../layouts/Article.astro
 title: "Hệ Lụy Của Phán Quyết 12 Tháng 7, 2016 Của Tòa Trọng Tài Thường Trực ở LaHaye về Vụ Kiện Của Philippines"
 author: "TS. Nguyễn Nhã"
 date: 2016-07-16
-source: "https://sachhiem.net/THOISU_CT/ChuN/NguyenNha_02.php"
+source: "/THOISU_CT/ChuN/NguyenNha_02"
 category: "Chính trị"
 lang: vi
 wordCount: 1474

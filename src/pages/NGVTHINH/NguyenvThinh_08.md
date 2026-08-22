@@ -3,7 +3,7 @@ layout: ../../layouts/Article.astro
 title: "Hòa Bình: Máu Và Nước Mắt"
 author: "BS. Nguyễn Văn Thịnh"
 date: 2015-04-22
-source: "https://sachhiem.net/NGVTHINH/NguyenvThinh_08.php"
+source: "/NGVTHINH/NguyenvThinh_08"
 category: "Lịch sử"
 lang: vi
 wordCount: 5310

@@ -3,7 +3,7 @@ layout: ../../layouts/Article.astro
 title: "Đọc GS TS Lịch Sử Phạm Cao Dương"
 author: "Trần Khách Quan"
 date: 2015-07-14
-source: "https://sachhiem.net/DOITHOAI/TranKhachQuan_02.php"
+source: "/DOITHOAI/TranKhachQuan_02"
 category: "Chính trị"
 lang: vi
 wordCount: 6368
@@ -54,7 +54,7 @@ Sẽ không có khó khăn gì để phủ bác những lập luận bênh/chê 
 <p class="TacgiaL">Khách  Quan </p>
 <p>_________________________ </p>
 <p><b>Bài đọc thêm:</b></p>
-<p>-  <a href="https://sachhiem.net/NMQ/PCD/NMQ053.php">Việt Nam Có Độc Lập Tự Do Từ Chính Quyền Trần Trọng Kim Hay Không?</a> của Nguyễn Mạnh Quang</p>
+<p>-  <a href="/NMQ/PCD/NMQ053">Việt Nam Có Độc Lập Tự Do Từ Chính Quyền Trần Trọng Kim Hay Không?</a> của Nguyễn Mạnh Quang</p>
 <p>- <a href="https://news.zing.vn/Hinh-anh-ngay-Tet-Doc-lap-dau-tien-cua-Viet-Nam-post452013.html">Hình ảnh ngày Tết Độc lập đầu tiên của Việt Nam</a> - Nguyễn Vũ, ảnh tư liệu </p>
 <p>_________________________</p>
 <div class="Gry">

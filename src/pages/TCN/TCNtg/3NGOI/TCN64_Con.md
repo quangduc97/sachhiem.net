@@ -2,7 +2,7 @@
 layout: ../../../../layouts/Article.astro
 title: "Đây, Chúa Con Giêsu Của Những Người Theo Đạo Giêsu! (Trần Chung Ngọc)"
 author: "Trần Chung Ngọc"
-source: "https://sachhiem.net/TCN/TCNtg/3NGOI/TCN64_Con.php"
+source: "/TCN/TCNtg/3NGOI/TCN64_Con"
 lang: vi
 wordCount: 51
 image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/TONGIAO/IMG/JESUS/jesus.jpg"

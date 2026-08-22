@@ -3,7 +3,7 @@ layout: ../../layouts/Article.astro
 title: "Khám phá ngoài hệ thống thái dương hệ:"
 author: "Lý Thái sưu tầm"
 date: 2017-03-05
-source: "https://sachhiem.net/LTX/LyThaiKH23.php"
+source: "/LTX/LyThaiKH23"
 category: "Khoa học"
 lang: vi
 wordCount: 1929

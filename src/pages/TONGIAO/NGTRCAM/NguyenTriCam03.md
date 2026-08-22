@@ -2,7 +2,7 @@
 layout: ../../../layouts/Article.astro
 title: "Thánh địa La Vang"
 author: "Nguyễn Trí Cảm"
-source: "https://sachhiem.net/TONGIAO/NGTRCAM/NguyenTriCam03.php"
+source: "/TONGIAO/NGTRCAM/NguyenTriCam03"
 category: "Tác giả"
 lang: vi
 wordCount: 718

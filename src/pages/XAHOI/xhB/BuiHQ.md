@@ -2,17 +2,17 @@
 layout: ../../../layouts/Article.astro
 title: "Phỏng Vấn Ông Bùi Hồng Quang"
 author: "PV Sách Hiếm"
-source: "https://sachhiem.net/TONGIAO/tgS/SH55.php"
+source: "/TONGIAO/tgS/SH55"
 category: "Xã hội"
 lang: vi
 wordCount: 2421
-image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nha.jpg"
+image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/BUIKHA/img/Giaymoi.jpg"
 ---
 
 <p class="Tuaduoi">Cục An Ninh Bộ Công An </p>
 
 
-  <p align="center"><a href="https://www.sachhiem.net/"> <img border="0" src="https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nha.jpg"></a> 07 tháng 3, 2008 </p>
+  <p align="center"> 07 tháng 3, 2008 </p>
 <p>	<i>LTS:		Trong nhiều hộp thư điện tử ở hải ngoại, người ta chuyền nhau một phóng ảnh do Viet Si  
 			&lt;<a href="mailto:vietsi2002@yahoo.com">vietsi2002@yahoo.com</a>&gt; gửi ra với câu "chỉ điểm": "Xin trình làng chứng tích Giao Điểm là công cụ của CSVN để báo cáo cho FBI."  </i></p>
 			<p>	<i>Người ta truy tầm và được biết tin này do trang báo điện tử Vietcatolic.net đăng ngày 28.2.2008 với hàng tựa màu đỏ&nbsp; (trong hàng nối 
@@ -301,4 +301,4 @@ hận thù nên để lại phía sau, tránh cảnh tương tàn, nếu có, ch
 thế.</p>
 <p><i><b>PVSH:</b>
 &nbsp; Cám ơn anh đã cho chúng tôi có cơ hội để hiểu rõ thêm vấn đề.</i></p><hr align="left" width="50%">
-		<p>* <i>Trong vụ kiện đó, ông Nguyễn Văn Thạch (Thomas Nguyễn) vẫn còn nợ Giao Ðiểm $75,228.00 (nếu tính cả lời cho đến nay kể từ năm 1993, hơn 150.000.00 Mỹ kim) do tòa phạt vì chụp mũ Giao Ðiểm và ông Quang CS.</i> Xin xem chi tiết ở <a href="https://sachhiem.net/index.php?content=showemail&amp;id=104">https://sachhiem.net/index.php?content=showemail&amp;id=104 </a> </p>
+		<p>* <i>Trong vụ kiện đó, ông Nguyễn Văn Thạch (Thomas Nguyễn) vẫn còn nợ Giao Ðiểm $75,228.00 (nếu tính cả lời cho đến nay kể từ năm 1993, hơn 150.000.00 Mỹ kim) do tòa phạt vì chụp mũ Giao Ðiểm và ông Quang CS.</i> Xin xem chi tiết ở <a href="/net/TCN/TCNts/TCNts056">https://sachhiem.net/index.php?content=showemail&amp;id=104 </a> </p>

@@ -2,7 +2,7 @@
 layout: ../../../layouts/Article.astro
 title: "BA \"GỌNG KÌM\" HƯỚNG VÀO CHÍNH PHỦ"
 author: "Nam Quốc"
-source: "https://sachhiem.net/nguồn: https://vn.myblog.yahoo.com/360-diemnhin/article?mid=24"
+source: "/nguồn: https://vn.myblog.yahoo.com/360-diemnhin/article?mid=24"
 category: "Chính trị"
 lang: vi
 wordCount: 4859
@@ -37,7 +37,7 @@ image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nhacu.jpg"
 	<div style="padding-left: 40px; padding-right: 40px">
 
 		<table border="0" cellpadding="0" width="80%" cols="2"><tbody><tr>
-				<td valign="top"><a href="https://sachhiem.net/"><img border="0" src="https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nhacu.jpg" width="49" height="20"></a></td>
+				<td valign="top"><a href="/"><img border="0" src="https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nhacu.jpg" width="49" height="20"></a></td>
 	<td valign="top">	<font size="2">05 tháng 5, 2008
 	</font>
 	</td></tr></tbody></table>

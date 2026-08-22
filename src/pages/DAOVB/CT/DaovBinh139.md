@@ -3,7 +3,7 @@ layout: ../../../layouts/Article.astro
 title: "Thảm Kịch Súng Đạn Trong Xã Hội Hoa Kỳ"
 author: "Đào Văn Bình"
 date: 2021-06-03
-source: "https://sachhiem.net/DAOVB/CT/DaovBinh139.php"
+source: "/DAOVB/CT/DaovBinh139"
 category: "Chính trị"
 lang: vi
 wordCount: 1553

@@ -3,7 +3,7 @@ layout: ../../../layouts/Article.astro
 title: "NOEL VÀ \"MERRY CHRISTMAS\"?"
 author: "Hoàng Hải Anh /PGVN"
 date: 2016-12-30
-source: "https://sachhiem.net/TONGIAO/tgP/PGVN_01.php"
+source: "/TONGIAO/tgP/PGVN_01"
 category: "Tác giả"
 lang: vi
 wordCount: 1840

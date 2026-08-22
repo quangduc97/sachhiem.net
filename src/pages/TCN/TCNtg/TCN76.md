@@ -2,17 +2,17 @@
 layout: ../../../layouts/Article.astro
 title: "“HỢP TÁC LÀNH MẠNH”"
 author: "Trần Chung Ngọc"
-source: "https://sachhiem.net/TCN/TCNtg/TCN76.php"
+source: "/TCN/TCNtg/TCN76"
 lang: vi
 wordCount: 5385
-image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nha.jpg"
+image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/TONGIAO/IMG/VATICAN/POPE/Ratzinger_hitleryouth.jpg"
 ---
 
 <p class="Tuaduoi">VIÊN THUỐC ĐỘC BỌC ĐƯỜNG</p>
 		
 		
 
-<p align="center"> <a href="/index"><img border="0" src="https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nha.jpg" align="middle" hspace="20"></a> ngày 04 tháng 7, 2009</p>
+<p align="center">  ngày 04 tháng 7, 2009</p>
 		<p><i>...Với một con người mà nhân cách thấp hèn và vô đạo đức như vậy, Việt Nam hi vọng gì ở một sự “hợp tác lành mạnh” với Vatican, và hợp tác để làm gì? Hợp tác để cho Vatican có cơ hội bành trướng trên mảnh đất của chúng ta hay sao? Bài học lịch sử cho thấy, bất cứ ở nơi nào mà Ca-tô Rô-ma Giáo nắm được quyền thế gian thì nơi đó không có tự do, dân chủ. Kinh nghiệm lịch sử của những chế độ Ca-tô trên thế giới: Ngô Đình Diệm ở Nam Việt Nam, Franco ở Tây Ban Nha, Pavelic ở Croatia, Hitler ở Đức đã cho chúng ta thấy sự nguy hại của cuồng tín tôn giáo là như thế nào (TCN).</i></p>
 	<hr>
 	

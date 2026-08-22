@@ -3,7 +3,7 @@ layout: ../../../layouts/Article.astro
 title: "Cụ Trần Văn Hương"
 author: "Bửu Châu"
 date: 2016-02-14
-source: "https://sachhiem.net/LICHSU/B/BuuChau.php"
+source: "/LICHSU/B/BuuChau"
 category: "Chính trị"
 lang: vi
 wordCount: 4958
@@ -122,4 +122,4 @@ image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/THOISU_CT/Hinh/CCCB/
  <p class="nguonL">Nguồn: <a href="https://hoangnamgiao.blogspot.com/2016/02/cu-tran-van-huong-xem-chi-si-ngo-inh.html">https://hoangnamgiao.blogspot.com/... </a></p>
  <p>_________________</p>
  <p><b>Bài đọc thêm</b>:</p>
-  <p>- <a href="https://sachhiem.net/LICHSU/LEXNHUAN/LeXNhuan01.php">Ông Ngô Đình Diệm Làm Thơ </a>(Thanh Thanh)</p>
+  <p>- <a href="/LICHSU/LEXNHUAN/LeXNhuan01">Ông Ngô Đình Diệm Làm Thơ </a>(Thanh Thanh)</p>

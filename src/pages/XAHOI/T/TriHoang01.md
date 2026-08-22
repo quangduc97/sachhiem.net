@@ -3,7 +3,7 @@ layout: ../../../layouts/Article.astro
 title: "THƯ KÊU GỌI GIÚP VACCINE"
 author: "Thích trí Hoằng"
 date: 2021-05-30
-source: "https://sachhiem.net/XAHOI/T/TriHoang01.php"
+source: "/XAHOI/T/TriHoang01"
 category: "Chính trị"
 lang: vi
 wordCount: 929

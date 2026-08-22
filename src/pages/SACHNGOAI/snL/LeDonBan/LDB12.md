@@ -2,14 +2,14 @@
 layout: ../../../../layouts/Article.astro
 title: "Võ Nguyên Giáp (1911 – 2013)"
 author: "Lê Dọn Bàn"
-source: "https://sachhiem.net/SACHNGOAI/snL/LeDonBan/LDB12.php"
+source: "/SACHNGOAI/snL/LeDonBan/LDB12"
 category: "Lịch sử"
 lang: vi
 wordCount: 5220
-image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nha.jpg"
+image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/LICHSU/IMG/VNGIAP/Vo_nguyen_giap.jpg"
 ---
 
-<p align="center"><a href="/index"> <img hspace="20" border="0" src="https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nha.jpg"></a>22 Nov 2015</p>
+<p align="center">22 Nov 2015</p>
    <div class="tomluoc">
     <p><i>LTS: Một bài văn tuyệt hảo dành cho một nhà quân sự tuyệt luân của người Việt chúng ta. Bài có đính kèm tài liệu cho ta thêm cái nhìn của thế giới đối với "vị tướng quân" lừng lẫy sử xanh của mọi thời đại. Mời quí vị thưởng lãm (SH)</i></p>
    </div>

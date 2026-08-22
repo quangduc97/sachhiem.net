@@ -6,7 +6,7 @@ source: "https://www.baomoi.com/Info/Ho-hanh-phuc-va-tu-hao-la-nguoi-Viet-Nam/54
 category: "Chính trị"
 lang: vi
 wordCount: 661
-image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nha.jpg"
+image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/LICHSU/IMG/LS_Hanoi/JamesRhodes.jpg"
 ---
 
 <div align="center">
@@ -26,8 +26,7 @@ image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nha.jpg"
 				<div style="padding-left: 50px; padding-right: 50px">
 					<table border="0" cellpadding="1" width="600" cols="2">
 						<tbody><tr>
-							<td><a href="/index">
-							<img border="0" src="https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nha.jpg"></a></td>
+							<td></td>
 							<td valign="top" width="222">
 							<p>08 tháng 10, 2010 </p></td>
 						</tr>

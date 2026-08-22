@@ -3,7 +3,7 @@ layout: ../../layouts/Article.astro
 title: "Những Bóng Ma Trong Nhà Trẻ St. Joseph ở Burlington P3"
 author: "Lý Thái Xuân"
 date: 2021-05-12
-source: "https://sachhiem.net/LTX/LyThaiTG30_2nhatre.php"
+source: "/LTX/LyThaiTG30_2nhatre"
 category: "Tác giả"
 lang: vi
 wordCount: 2250
@@ -15,13 +15,13 @@ image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/TONGIAO/IMG/MASOEUR/
      
      
      <div class="tomluoc">
-       <p><a href="https://sachhiem.net/LTX/LythaiTG30_2nhatre.php"><i>Bài 3: Luật sư Robert Widman vào cuộc </i></a></p>
+       <p><a href="/LTX/LythaiTG30_2nhatre"><i>Bài 3: Luật sư Robert Widman vào cuộc </i></a></p>
        <p><i>Những người đã ở Cô Nhi Viện St. Joseph trong những năm khác nhau, thậm chí là những thập kỷ khác nhau, đã mô tả cách họ bị giam giữ trong cùng một bể nước, hoặc cách họ nhìn những đứa trẻ khác được đưa vào cùng một tủ trẻ em</i></p>
        
      </div>
-      <div class="leftborder"><p><i>Xem lời giới thiệu ở <a href="https://sachhiem.net/LTX/LythaiTG30.php">Bài 1</a></i></p>
-<p><i><a href="https://sachhiem.net/LTX/LythaiTG30.php">Bài 1: Bà Sally Dale tường thuật. </a></i></p>
-<p><i><a href="https://sachhiem.net/LTX/LythaiTG30_1nhatre.php">Bài 2: Luật sư Philip White và người khách "bí ẩn"</a></i></p></div>
+      <div class="leftborder"><p><i>Xem lời giới thiệu ở <a href="/LTX/LythaiTG30">Bài 1</a></i></p>
+<p><i><a href="/LTX/LythaiTG30">Bài 1: Bà Sally Dale tường thuật. </a></i></p>
+<p><i><a href="/LTX/LythaiTG30_1nhatre">Bài 2: Luật sư Philip White và người khách "bí ẩn"</a></i></p></div>
   
       <p align="center"><img src="https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/TONGIAO/IMG/MASOEUR/Conhivien_StJoseph_lawyr_RobWidman.jpg" width="400" height="340" alt=""></p>
       <p align="center"><i>Luật sư về hưu Robert Widman tại ngôi nhà của ông ở Burnsville, North Carolina.</i></p>
@@ -61,6 +61,6 @@ Sau đó, và trong những cuộc trò chuyện tiếp theo, Sally kể cho ôn
       <p>Widman càng nói chuyện với những người từng sống tại viện St. Joseph, được thành lập vào giữa những năm 1800, càng thấy rõ rằng lỗ hổng trong hồ sơ công khai không phải là một chuyện ngẫu nhiên. Hàng nghìn người trên khắp nước Mỹ đã có lúc làm việc trong trại trẻ mồ côi, nhưng không ai có thể hồi tưởng về thời của họ, ít nhất là không có ở những nơi mà Widman có thể tìm thấy. Hệ thống cấp bậc của giáo phận đã giám sát viện mồ côi, và các nữ tu đã sống và làm việc ở đó, nhưng không ai trong số họ đến với những hồi ức của họ.</p>
       <p>Điều đó cũng giống như vậy với trẻ em. Những anh chị em từng ở cùng trại trẻ mồ côi với nhau thường không thảo luận với nhau về điều đó, với bạn bè hay thậm chí vợ chồng thì càng ít. </p>
       
-      <p>(xem tiếp, <a href="https://sachhiem.net/LTX/LythaiTG30_3nhatre.php"><i>bài 4: Những Âm Thanh Kinh Hoàng</i></a>)</p>
+      <p>(xem tiếp, <a href="/LTX/LythaiTG30_3nhatre"><i>bài 4: Những Âm Thanh Kinh Hoàng</i></a>)</p>
      <p class="TacgiaL">Lý Thái Xuân trích dịch</p>
      <p class="nguonL">Nguồn: <a href="https://www.buzzfeednews.com/article/christinekenneally/orphanage-death-catholic-abuse-nuns-st-josephs">https://tinyurl.com/7w5mmtr6</a></p>

@@ -3,7 +3,7 @@ layout: ../../../layouts/Article.astro
 title: "Toàn Cảnh Ngày Làm Việc Đầu Tiên"
 author: "Tin Soha.vn"
 date: 2016-05-23
-source: "https://sachhiem.net/THOISU_CT/ChuT/TinSoha.php"
+source: "/THOISU_CT/ChuT/TinSoha"
 category: "Chính trị"
 lang: vi
 wordCount: 2142

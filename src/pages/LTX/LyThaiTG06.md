@@ -2,7 +2,7 @@
 layout: ../../layouts/Article.astro
 title: "HỌC BẠ CỦA GIÊSU"
 author: "Chuyện vui: Lý Thái sưu tầm"
-source: "https://sachhiem.net/LTX/LythaiTG06.php"
+source: "/LTX/LythaiTG06"
 category: "Tác giả"
 lang: vi
 wordCount: 511

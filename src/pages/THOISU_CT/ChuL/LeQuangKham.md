@@ -2,7 +2,7 @@
 layout: ../../../layouts/Article.astro
 title: "Nước Việt Nam Ngày Nay"
 author: "LÊ - QUANG - KHÂM"
-source: "https://sachhiem.net/null"
+source: "/null"
 category: "Chính trị"
 lang: vi
 wordCount: 2121

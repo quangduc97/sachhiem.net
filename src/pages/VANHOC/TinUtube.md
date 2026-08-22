@@ -2,11 +2,10 @@
 layout: ../../layouts/Article.astro
 title: "Video Mừng Đại Lễ Ngàn Năm Thăng Long"
 author: "Sưu Tập"
-source: "https://sachhiem.net/null"
+source: "/null"
 category: "Chính trị"
 lang: vi
 wordCount: 566
-image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nha.jpg"
 ---
 
 <div align="center" style="position: relative; left: 0; top: 0">
@@ -23,8 +22,7 @@ image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nha.jpg"
 <tr><td width="100%">
 <div style="padding-left: 50px; padding-right: 50px"> 
 	<table border="0" cellpadding="1" width="600" cols="2"><tbody><tr>
-	<td><a href="/index">
-	<img border="0" src="https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nha.jpg"></a></td>
+	<td></td>
 <td valign="top" width="210"><p>01 tháng 10, 2010
 		</p></td>
 	</tr>

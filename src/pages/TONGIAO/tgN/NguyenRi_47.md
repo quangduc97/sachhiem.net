@@ -3,7 +3,7 @@ layout: ../../../layouts/Article.astro
 title: "Phép Trừ Tà: Nghi Thức Mê Tín Dị Đoan Giữa Thế Kỷ 21 của Ca-tô Rô-ma giáo"
 author: "Ri Nguyễn tóm lược"
 date: 2020-10-18
-source: "https://sachhiem.net/TONGIAO/tgN/NguyenRi_47.php"
+source: "/TONGIAO/tgN/NguyenRi_47"
 category: "Chính trị"
 lang: vi
 wordCount: 731
@@ -42,4 +42,4 @@ image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/THOISU_CT/Hinh/Georg
 <p>Cordileone said prayers in Latin, remarking that “the experts in the field tell me that Latin tends to be more effective against the devil because he doesn\’t like the language of the church.” </p>
  <p>_____________________</p>
  <p>Các bài của Nguyễn Ri: link</p>
- <p> <a href="https://sachhiem.net/TONGIAO/tgN/ListRiNguyen.inc.php" target="_blank">https://sachhiem.net/TONGIAO/tgN/ListRiNguyen.inc.php</a></p>
+ <p> <a href="/TONGIAO/tgN/ListRiNguyen.inc" target="_blank">https://sachhiem.net/TONGIAO/tgN/ListRiNguyen.inc.php</a></p>

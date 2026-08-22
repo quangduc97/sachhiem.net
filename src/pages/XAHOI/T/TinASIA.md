@@ -3,7 +3,7 @@ layout: ../../../layouts/Article.astro
 title: "Thông cáo báo chí của Trung Tâm Asia về sự ra đi của nhạc sĩ Trúc Hồ"
 author: "Diễn Đàn Thư Tín"
 date: 2016-10-31
-source: "https://sachhiem.net/XAHOI/T/TinASIA.php"
+source: "/XAHOI/T/TinASIA"
 category: "Chính trị"
 lang: vi
 wordCount: 2666

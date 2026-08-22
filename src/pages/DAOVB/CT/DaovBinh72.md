@@ -3,7 +3,7 @@ layout: ../../../layouts/Article.astro
 title: "Nhật Ký Biển Đông: Phi Luật Tân và Ngoại Giao Đa Phương"
 author: "Đào Văn Bình"
 date: 2016-09-02
-source: "https://sachhiem.net/DAOVB/CT/DaovBinh72.php"
+source: "/DAOVB/CT/DaovBinh72"
 category: "Chính trị"
 lang: vi
 wordCount: 4938

@@ -3,7 +3,7 @@ layout: ../../../layouts/Article.astro
 title: "Hội Nhập Văn Hóa Hay Xâm Lăng Văn Hóa?"
 author: "Ngô Triệu Lịch"
 date: 2019-01-02
-source: "https://sachhiem.net/TONGIAO/tgN/NgoTrieuLich_03.php"
+source: "/TONGIAO/tgN/NgoTrieuLich_03"
 category: "Chính trị"
 lang: vi
 wordCount: 9940
@@ -148,17 +148,17 @@ image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/TONGIAO/IMG/CHURCH/P
  <p class="nguonL">Nguồn  FB 3 tháng 1 lúc 02:35 </p>
  <p>___________ </p>
  <p><b>Mời đọc thêm:</b></p>
- <p>- Khi Người Công Giáo Nói Chuyện "HÒA ĐỒNG TÔN GIÁO” Toàn bài:&nbsp;<a href="https://sachhiem.net/TCN/TCNdt/TCNdt026.php">1</a>,&nbsp;<a href="https://sachhiem.net/TCN/TCNdt/TCNdt026-1.php">2,</a>&nbsp;<a href="https://sachhiem.net/TCN/TCNdt/TCNdt026-2.php">3,</a>&nbsp;<a href="https://sachhiem.net/TCN/TCNdt/TCNdt026-3.php">4,</a>&nbsp;<a href="https://sachhiem.net/TCN/TCNdt/TCNdt026-4.php">5</a> - Trần Chung Ngọc</p>
- <p>- <a href="https://sachhiem.net/TCN/TCNtg/TCN14.php">Phật Giáo Việt Nam Trong Thế Giới Đa Văn Hóa (Phần 1)</a>, <a href="https://sachhiem.net/TCN/TCNtg/TCN15.php">(Phần 2)</a> - Trần Chung Ngọc</p>
- <p>- <a href="https://sachhiem.net/NMQ/NMQ83.php">Âm Mưu Của Vatican: Triệt Hạ Văn Hóa Và Truyền Thống Tôn Thờ Anh Hùng Dân Tộc Việt Nam</a> - Nguyễn Mạnh Quang</p>
- <p>-  <a href="https://sachhiem.net/TONGIAO/tgM/MinhThanh04.php">“Lập lờ đánh lận”… ông trời!</a> - Minh Thạnh</p>
- <p>- <a href="https://www.sachhiem.net/LICHSU/TR/TranNgocThem.php">Độc Lập Văn Hóa, Yếu Tố Cốt Tử Để Bảo Vệ Tổ Quốc</a> - BDTCP Phỏng Vấn GS. Trần Ngọc Thêm</p>
+ <p>- Khi Người Công Giáo Nói Chuyện "HÒA ĐỒNG TÔN GIÁO” Toàn bài:&nbsp;<a href="/TCN/TCNdt/TCNdt026">1</a>,&nbsp;<a href="/TCN/TCNdt/TCNdt026-1">2,</a>&nbsp;<a href="/TCN/TCNdt/TCNdt026-2">3,</a>&nbsp;<a href="/TCN/TCNdt/TCNdt026-3">4,</a>&nbsp;<a href="/TCN/TCNdt/TCNdt026-4">5</a> - Trần Chung Ngọc</p>
+ <p>- <a href="/TCN/TCNtg/TCN14">Phật Giáo Việt Nam Trong Thế Giới Đa Văn Hóa (Phần 1)</a>, <a href="/TCN/TCNtg/TCN15">(Phần 2)</a> - Trần Chung Ngọc</p>
+ <p>- <a href="/NMQ/NMQ83">Âm Mưu Của Vatican: Triệt Hạ Văn Hóa Và Truyền Thống Tôn Thờ Anh Hùng Dân Tộc Việt Nam</a> - Nguyễn Mạnh Quang</p>
+ <p>-  <a href="/TONGIAO/tgM/MinhThanh04">“Lập lờ đánh lận”… ông trời!</a> - Minh Thạnh</p>
+ <p>- <a href="/LICHSU/TR/TranNgocThem">Độc Lập Văn Hóa, Yếu Tố Cốt Tử Để Bảo Vệ Tổ Quốc</a> - BDTCP Phỏng Vấn GS. Trần Ngọc Thêm</p>
  <p>___________</p>
  <p><b>Cùng tác giả:</b></p>
- <p>- <a href="https://sachhiem.net/TONGIAO/tgN/NgoTrieuLich_02.php">Về Một Vấn Đề “Gây Khó Chịu” Của Vatican Nhưng Không Phải Cho Người Châu Á</a> (Ngô triệu Lịch) </p>
- <p>- <a href="https://sachhiem.net/TONGIAO/tgN/NgoTrieuLich_01.php">Giêsu Có Phải Là Một Tiên Tri Không? </a>
+ <p>- <a href="/TONGIAO/tgN/NgoTrieuLich_02">Về Một Vấn Đề “Gây Khó Chịu” Của Vatican Nhưng Không Phải Cho Người Châu Á</a> (Ngô triệu Lịch) </p>
+ <p>- <a href="/TONGIAO/tgN/NgoTrieuLich_01">Giêsu Có Phải Là Một Tiên Tri Không? </a>
 (Ngô triệu Lịch)</p>
- <p>- <a href="https://sachhiem.net/TONGIAO/tgN/NgoTrieuLich.php">Nhận Định Về Văn Kiện “Tông Huấn Giáo Hội Tại Châu Á”</a> (Ecclesia In Asia) - (Ngô triệu Lịch) </p>
- <p>- <a href="https://sachhiem.net/TONGIAO/tgN/NgoTrieuLich_03.php">Sách Lược Mục Vụ Của Vatican - Hội Nhập Văn Hóa Hay Xâm Lăng Văn Hóa?</a> (Ngô Triệu Lịch)
+ <p>- <a href="/TONGIAO/tgN/NgoTrieuLich">Nhận Định Về Văn Kiện “Tông Huấn Giáo Hội Tại Châu Á”</a> (Ecclesia In Asia) - (Ngô triệu Lịch) </p>
+ <p>- <a href="/TONGIAO/tgN/NgoTrieuLich_03">Sách Lược Mục Vụ Của Vatican - Hội Nhập Văn Hóa Hay Xâm Lăng Văn Hóa?</a> (Ngô Triệu Lịch)
 
 </p>

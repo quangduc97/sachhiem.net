@@ -2,15 +2,13 @@
 layout: ../../layouts/Article.astro
 title: "QUA LOA VỀ SÙNG CHÍNH VIỆN"
 author: "Hoàng Nguyên Nhuận"
-source: "https://sachhiem.net/HOANGNN/Hoang01.php"
+source: "/HOANGNN/Hoang01"
 category: "Chính trị"
 lang: vi
 wordCount: 4254
-image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nha.jpg"
 ---
 
-<p align="center"><a href="https://www.sachhiem.net/">
-	<img border="0" src="https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nha.jpg"></a> 19&nbsp; tháng 8, 2007
+<p align="center"> 19&nbsp; tháng 8, 2007
 </p>
 <p>
 <b><font size="6" face="Vivaldi">Q</font></b>

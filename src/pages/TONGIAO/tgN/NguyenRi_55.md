@@ -3,7 +3,7 @@ layout: ../../../layouts/Article.astro
 title: "3 Tài Liệu Chứng Minh Mỹ-Vatican Dựng Nên Ngô Đình Diệm"
 author: "Ri Nguyễn - LTX"
 date: 2021-11-14
-source: "https://sachhiem.net/TONGIAO/tgN/NguyenRi_55.php"
+source: "/TONGIAO/tgN/NguyenRi_55"
 category: "Tác giả"
 lang: vi
 wordCount: 7189
@@ -145,4 +145,4 @@ image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/LICHSU/IMG/HoaKy/JFK
 <p class="leftborder">The  Religious Beginnings of an Unholy War The Shocking Story of the Catholic  "Church's" Role in Starting the Vietnam War By Avro Manhattan Avro  Manhattan (1914-1990). Avro Manhattan was the world's foremost authority on  Roman Catholicism in politics. A resident of London, during World War II he  operated a radio station called "Radio Freedom" broadcasting to  occupied Europe. With an immense collection of facts, photos, names and dates,  Manhattan proves that the Vietnam War began as a religious conflict. He shows  how America was manipulated into supporting Catholic oppression in Vietnam  supposedly to fight communism. Manhattan explains: How religious pamphlets and  radio broadcasts convinced one million Catholics to leave North Vietnam and  live under Catholic rule in the South, overwhelming the Buddhists. How brutal  persecution of Vietnamese Buddhists led to rioting and suicides by fire in the  streets. Why the reports of what was really happening, written by American  military and civil advisers, failed to reach the U.S. President. Why the  project backfired, and as U.S. soldiers continued to die, the Vatican made a  secret deal with Ho Chi Minh. </p>
 <p>_____________________</p>
  <p>Các bài của Nguyễn Ri: </p>
- <p> <a href="https://sachhiem.net/TONGIAO/tgN/ListRiNguyen.inc.php" target="_blank">https://sachhiem.net/TONGIAO/tgN/ListRiNguyen.inc.php</a></p>
+ <p> <a href="/TONGIAO/tgN/ListRiNguyen.inc" target="_blank">https://sachhiem.net/TONGIAO/tgN/ListRiNguyen.inc.php</a></p>

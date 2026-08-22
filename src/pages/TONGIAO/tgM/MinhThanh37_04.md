@@ -3,7 +3,7 @@ layout: ../../../layouts/Article.astro
 title: "[VATICANOLOGY] - Việc Phong Thánh Cho Hồng Y Nguyễn Văn Thuận:"
 author: "Minh Thạnh"
 date: 2024-04-12
-source: "https://sachhiem.net/TONGIAO/tgM/MinhThanh37_04.php"
+source: "/TONGIAO/tgM/MinhThanh37_04"
 category: "Chính trị"
 lang: vi
 wordCount: 8667

@@ -2,15 +2,14 @@
 layout: ../../layouts/Article.astro
 title: "Chương trình “Yêu Lịch Sử” của trang nhà sachhiem.net"
 author: "Lý Thái Xuân"
-source: "https://sachhiem.net/LTX/LyThaiXH43.php"
+source: "/LTX/LyThaiXH43"
 category: "Xã hội"
 lang: vi
 wordCount: 1487
-image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nha.jpg"
+image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/LTX/IMG/PHATTHUONG/Congvan96.jpg"
 ---
 
-<p align="center"><a href="https://www.sachhiem.net/">
-<img border="0" src="https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nha.jpg"></a> 
+<p align="center"> 
 July 15, 2025</p>
  <div class="tomluoc">
    <p><i>Nhờ  hai đợt trao thưởng tại Thái Bình, chúng tôi đã có cơ hội góp phần khơi dậy niềm yêu thích  môn Lịch sử, động viên tinh thần học tập và giảng dạy  tích cực trong các nhà trường  và kết  nối tinh thần “hướng về quê hương” giữa các thế hệ trong và  ngoài nước.</i> </p>

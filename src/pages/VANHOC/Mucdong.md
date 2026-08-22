@@ -2,11 +2,11 @@
 layout: ../../layouts/Article.astro
 title: "XIN THA TỘI CHO CON CHIÊN TRỊNH CUNG. AMEN !"
 author: "Mục Đồng"
-source: "https://sachhiem.net/null"
+source: "/null"
 category: "Văn hóa"
 lang: vi
 wordCount: 2867
-image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nha.jpg"
+image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/VANHOC/Hinh/TRINHCUNGvavo.jpg"
 ---
 
 <div align="center" style="position: relative; left: 0; top: 0">
@@ -30,7 +30,7 @@ image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nha.jpg"
 	<tbody><tr><td bgcolor="White" align="justify" valign="top">
 	<div style="padding-left: 40px; padding-right: 40px">
 		<table border="0" cellpadding="10" width="600" cols="2"><tbody><tr>
-			<td><a href="/VANHOC/..index"><img border="0" src="https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nha.jpg"></a></td>				
+			<td></td>				
 	<td valign="top">	14 tháng 4,  2009
 	</td></tr></tbody></table>
 
@@ -103,7 +103,7 @@ image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nha.jpg"
 		trong 
 		<a style="color: blue; text-decoration: underline; text-underline: single" href="https://tuanvannguyen.blogspot.com/2009/04/lu-phuong-ban-ve-bai-viet-cua-trinh.html">
 		https://tuanvannguyen.blogspot.com/2009/04/lu-phuong-ban-ve-bai-viet-cua-trinh.html</a>, 
-		hay <a href="https://sachhiem.net/VANHOC/LeMinhQuoc.php">https://sachhiem.net/VANHOC/LeMinhQuoc.php</a> )</p>
+		hay <a href="/VANHOC/LeMinhQuoc">https://sachhiem.net/VANHOC/LeMinhQuoc.php</a> )</p>
 		<p>Đặc biệt là những 
 		người mà Trịnh Cung nêu tên trong bài viết với những ý tưởng và lời nói 
 		mà Trịnh Cung cho là của chính họ để biện minh cho lập luận của mình. Đó 

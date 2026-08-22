@@ -2,17 +2,16 @@
 layout: ../../../../layouts/Article.astro
 title: "Giê Su Là Ai?"
 author: "Trần Chung Ngọc"
-source: "https://sachhiem.net/TCN/TCNtg/Giesu/Giesulaai8.php"
+source: "/TCN/TCNtg/Giesu/Giesulaai8"
 category: "Tác giả"
 lang: vi
 wordCount: 3629
-image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nha.jpg"
 ---
 
 <p class="Tuaduoi">Giảng Dạy Những Gì?</p>
 
 
- <p align="center"><a href="https://www.sachhiem.net/"> <img border="0" src="https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nha.jpg"></a> đăng ngày 25 tháng 8, 2007	</p>
+ <p align="center"> đăng ngày 25 tháng 8, 2007	</p>
 <p> Toàn bộ :&nbsp;&nbsp; <a href="/TCN/TCNtg/Giesu/Giesulaai">0</a>&nbsp;&nbsp;
  <a href="/TCN/TCNtg/Giesu/Giesulaai1">
  1</a>&nbsp;&nbsp; 

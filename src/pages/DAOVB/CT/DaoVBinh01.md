@@ -3,7 +3,7 @@ layout: ../../../layouts/Article.astro
 title: "Chuyển Động Ngoại Giao Dồn Dập ở Đông Nam Á"
 author: "Đào Văn Bình"
 date: 2013-02-05
-source: "https://sachhiem.net/DAOVB/CT/DaovBinh01.php"
+source: "/DAOVB/CT/DaovBinh01"
 category: "Chính trị"
 lang: vi
 wordCount: 4380

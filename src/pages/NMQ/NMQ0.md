@@ -1,14 +1,13 @@
 ---
 layout: ../../layouts/Article.astro
 title: "Vài Hàng Về Tác Giả"
-source: "https://sachhiem.net/NMQ/NMQ0.php"
+source: "/NMQ/NMQ0"
 category: "Lịch sử"
 lang: vi
 wordCount: 676
-image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nha.jpg"
+image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/NMQ/IMG/HinhNMQ.gif"
 ---
 
-<p align="center"><a href="https://sachhiem.net/index.php"><img hspace="20" border="0" src="https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nha.jpg"></a> </p>
 <p class="TuaChuong"><i><b>  Nguyễn Mạnh Quang
  </b></i></p>
   

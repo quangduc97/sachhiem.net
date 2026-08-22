@@ -3,7 +3,7 @@ layout: ../../layouts/Article.astro
 title: "Cụ Đồ Chiểu Có Làm Thơ"
 author: "BS. Nguyễn Văn Thịnh"
 date: 2015-02-06
-source: "https://sachhiem.net/NGVTHINH/NguyenvThinh_06.php"
+source: "/NGVTHINH/NguyenvThinh_06"
 category: "Lịch sử"
 lang: vi
 wordCount: 4888

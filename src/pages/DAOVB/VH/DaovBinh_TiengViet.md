@@ -3,7 +3,7 @@ layout: ../../../layouts/Article.astro
 title: "Thế Nào Là Tiếng Việt Trong Sáng?"
 author: "Đào Văn Bình"
 date: 2013-01-05
-source: "https://sachhiem.net/DAOVB/VH/DaovBinh_TiengViet.php"
+source: "/DAOVB/VH/DaovBinh_TiengViet"
 category: "Văn hóa"
 lang: vi
 wordCount: 7648
@@ -180,7 +180,7 @@ image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/VANHOC/Hinh/Baroi.jp
      <p>2- Tránh dùng  “tiếng lai” (05/12/2012) <a href="https://icdac.gov.vn/tranh-dung-tieng-lai-.html">https://icdac.gov.vn/tranh-dung-tieng-lai-.html</a></p>
      <p>3- Tiếng Việt Có Còn Trong Sáng? , <a href="https://www.tgn.edu.vn/bai-viet/c63/i104/tieng-viet-co-con-trong-sang-.htm">https://www.tgn.edu.vn/bai-viet/c63/i104/tieng-viet-co-con-trong-sang-.htm</a>l </p>
      <p>4- Giữ gìn sự trong sáng của tiếng Việt, <a href="https://www.facebook.com/notes/i-love-viet-nam/gi%E1%BB%AF-g%C3%ACn-s%E1%BB%B1-trong-s%C3%A1ng-c%E1%BB%A7a-ti%E1%BA%BFng-vi%E1%BB%87t/173847037396">https://www.facebook.com/notes/i-love-viet-nam/gi%E1%BB%AF-g%C3%ACn-s%E1%BB%B1-trong-s%C3%A1ng-c%E1%BB%A7a-ti%E1%BA%BFng-vi%E1%BB%87t/173847037396</a></p>
-     <p>5- Ở Giếng Đã Lâu, <a href="https://sachhiem.net/printemail.php?id=31">https://sachhiem.net/printemail.php?id=31</a></p>
+     <p>5- Ở Giếng Đã Lâu, <a href="/printemail.php?id=31">https://sachhiem.net/printemail.php?id=31</a></p>
      <p>6- Phá hoại sự trong sáng của tiếng  Việt, <a href="https://bloggoldmund.blogspot.com/2011/11/pha-hoai-su-trong-sang-cua-tieng-viet.html">https://bloggoldmund.blogspot.com/2011/11/pha-hoai-su-trong-sang-cua-tieng-viet.html</a></p>
 
 <hr>

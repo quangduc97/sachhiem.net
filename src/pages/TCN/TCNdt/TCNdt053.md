@@ -6,11 +6,11 @@ source: "https://www.dunglac.org/index.php?m=module3&v=detail&ib=638"
 category: "Đối thoại"
 lang: vi
 wordCount: 22192
-image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.devhttps://sachhiem.net/images/nha.jpg"
+image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/SACHNGOAI/Hinhanh/BIASACH/ThienChua_dangvidai.jpg"
 ---
 
 <table border="0" width="250" align="center">
-    <tbody><tr><td width="94"><a href="https://sachhiem.net/index.php"><img border="0" src="https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.devhttps://sachhiem.net/images/nha.jpg"></a>    </td>
+    <tbody><tr><td width="94">    </td>
 	<td width="146"> <p>17 tháng 4,  2011</p>
 	</td></tr></tbody></table>
 
@@ -439,7 +439,7 @@ viết về “Huyền Thoại Cứu Rỗi” trong cuốn <i>
 Sự Sinh Ra Của Thiên Chúa 
 </i>(The Birth of God),<i> </i>
 xin đọc:
-<a href="https://sachhiem.net/TCNtg/TCN36.php">
+<a href="/TCNtg/TCN36">
 https://sachhiem.net/TCNtg/TCN36.php</a> :</p>
 <p><i> Nhưng đối với con người hiện đại. 
 <img border="0" src="https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/SACHNGOAI/Hinhanh/PEOPLE/JamesKavanaugh.jpg" width="150" height="161" align="right" hspace="10" alt="Linh mục James Kavanaugh"><u>chuyện hi sinh của Giê-su chẳng có ý nghĩa gì mấy, trừ khi hắn đã bị reo rắc sự 
@@ -669,13 +669,13 @@ một cái bánh vẽ trên trời mà họ hi vọng được ăn sau khi chế
 Các Giáo hoàng tự nhận là đại diện của Chúa trên trần tất nhiên 
 phải tin Chúa vào bậc nhất. Nhưng chúng ta hãy đọc lịch sử một số Giáo hoàng để 
 xem các đại diện của Chúa sống khác người không tin như thế nào:
-<a href="https://www.sachhiem.net/TCN/TCNtg/TCN20.php">
+<a href="/TCN/TCNtg/TCN20">
 https://www.sachhiem.net/TCN/TCNtg/TCN20.php</a></p>
 <p>-
 Các Linh mục đều tự nhận là Chúa thứ hai, có quyền tha tội cho con 
 chiên, biến một mẩu bánh bằng bột thành thân thể thực sự của Chúa để cho con 
 chiên ăn, nhưng chúng ta hãy đọc 
-<a href="https://www.sachhiem.net/TCN/TCNtg/TCN97_2.php">
+<a href="/TCN/TCNtg/TCN97_2">
 https://www.sachhiem.net/TCN/TCNtg/TCN97_2.php</a> để biết đạo đức của hơn 5000 linh mục can tội loạn 
 dâm và được Giáo hoàng Benedict XVI và Tòa Thánh bao che cho đến khi bị báo chí 
 phanh phui và người dân Anh đòi bắt bỏ tù Giáo hoàng.</p>

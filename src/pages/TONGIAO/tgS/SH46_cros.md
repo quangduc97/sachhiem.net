@@ -3,7 +3,7 @@ layout: ../../../layouts/Article.astro
 title: "Tòa Ra Lệnh Tháo Gỡ Cây Thánh Giá Trên Núi Soledad"
 author: "SH tổng hợp"
 date: 2013-12-13
-source: "https://sachhiem.net/TONGIAO/tgS/SH46_cros.php"
+source: "/TONGIAO/tgS/SH46_cros"
 category: "Tác giả"
 lang: vi
 wordCount: 594

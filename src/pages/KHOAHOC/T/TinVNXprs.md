@@ -2,7 +2,7 @@
 layout: ../../../layouts/Article.astro
 title: "Cải táng nhà thiên văn vĩ đại"
 author: "Minh Long/VNExpress"
-source: "https://sachhiem.net/nguồn https://vnexpress.net/GL/Khoa-hoc/2010/05/3BA1C314/"
+source: "/nguồn https://vnexpress.net/GL/Khoa-hoc/2010/05/3BA1C314/"
 category: "Khoa học"
 lang: vi
 wordCount: 845

@@ -3,14 +3,14 @@ layout: ../../../layouts/Article.astro
 title: "Điều 258, Các Bloggers, Tuyên Bố, Phản Bác, Và Phỏng Vấn RFA"
 author: "phanbactuyenbo258.blogspot.com"
 date: 2013-09-18
-source: "https://sachhiem.net/THOISU_CT/ChuV/VoKhanhLinh05.php"
+source: "/THOISU_CT/ChuV/VoKhanhLinh05"
 category: "Chính trị"
 lang: vi
 wordCount: 13266
 image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/THOISU_CT/Hinh/CCCB/Bloggers258.jpg"
 ---
 
-<p><i>LTS:  Sau kỳ nghỉ hè trở về với muôn việc bận rộn, chúng tôi được bạn đọc mách cho hay chuyện 258 và các Bloggers. Như đã đề cập sơ khởi trước đây trong bài <a href="https://sachhiem.net/THOISU_CT/ChuV/VoKhanhLinh04.php">"Lại Cái Sự Tiếm Danh"</a> của Võ Khánh Linh, việc này không còn nằm trong lãnh vực tự do hay dân chủ, mà nó liên quan đến việc những người phản quốc  nhân danh "yêu nước". Từ ngàn xưa đến nay trong lịch sử, việc chạy ra nước ngoài cầu cứu để tiêu diệt phe đối nghịch trong nước, cho dù với danh nghĩa nào hay lý do nào, luôn luôn bị xem là phản quốc. Vậy chúng tôi cho đăng những bài phản kháng những hành động phản quốc, hèn hạ, nhưng lại mượn tiếng "yêu nước", "trí thức", lại còn mang tội tiếm xưng. Những đặc tính này của một nhóm bloggers sẽ được ghi lại đầy đủ trong những bài viết đăng trên phanbactuyenbo258.blogspot.com. Chúng tôi mạn phép phổ biến  thêm  bằng cách gom lại cho bạn đọc theo dõi.  </i> (SH)</p> <hr>
+<p><i>LTS:  Sau kỳ nghỉ hè trở về với muôn việc bận rộn, chúng tôi được bạn đọc mách cho hay chuyện 258 và các Bloggers. Như đã đề cập sơ khởi trước đây trong bài <a href="/THOISU_CT/ChuV/VoKhanhLinh04">"Lại Cái Sự Tiếm Danh"</a> của Võ Khánh Linh, việc này không còn nằm trong lãnh vực tự do hay dân chủ, mà nó liên quan đến việc những người phản quốc  nhân danh "yêu nước". Từ ngàn xưa đến nay trong lịch sử, việc chạy ra nước ngoài cầu cứu để tiêu diệt phe đối nghịch trong nước, cho dù với danh nghĩa nào hay lý do nào, luôn luôn bị xem là phản quốc. Vậy chúng tôi cho đăng những bài phản kháng những hành động phản quốc, hèn hạ, nhưng lại mượn tiếng "yêu nước", "trí thức", lại còn mang tội tiếm xưng. Những đặc tính này của một nhóm bloggers sẽ được ghi lại đầy đủ trong những bài viết đăng trên phanbactuyenbo258.blogspot.com. Chúng tôi mạn phép phổ biến  thêm  bằng cách gom lại cho bạn đọc theo dõi.  </i> (SH)</p> <hr>
 <div class="danbai">
   <p align="center"><b>Gồm có:</b></p>
   <p><u><a name="1" href="/THOISU_CT/#n_1">- Cộng Đồng Blogger Việt Nam Phản Bác "Tuyên Bố  258"...</a></u></p>
@@ -31,7 +31,7 @@ image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/THOISU_CT/Hinh/CCCB/
 <p>
     <u><a name="10" href="/THOISU_CT/#n_10">- Một Cuộc Tranh Luận Không Lý Lẽ</a></u></p>
 <p> <a name="8" href="/THOISU_CT/#n_8">- Hành Trình Phản Bác (KÌ I)</a> </p>
-<p>  - (xem tiếp bài kế: <a href="https://sachhiem.net/THOISU_CT/ChuV/VoKhanhLinh05a.php">Hoàng Thị Nhật Lệ "phỏng vấn" nhà báo RFA ?</a>) </p>
+<p>  - (xem tiếp bài kế: <a href="/THOISU_CT/ChuV/VoKhanhLinh05a">Hoàng Thị Nhật Lệ "phỏng vấn" nhà báo RFA ?</a>) </p>
 </div>
 
 <p class="TuaDenLeft"> ☞ <a name="n_1" href="/THOISU_CT/#1">- Cộng Đồng Blogger Việt Nam Phản Bác "Tuyên Bố  258"...</a></p>
@@ -437,7 +437,7 @@ image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/THOISU_CT/Hinh/CCCB/
 
 <p> ____________ </p>
 <p><b>Mời  xem thêm: </b></p>
-<p>- <a href="https://sachhiem.net/THOISU_CT/ChuV/VoKhanhLinh05a.php">Hoàng Thị Nhật Lệ "Phỏng Vấn" Nhà Báo RFA???</a> (timlaisuthat.blogspot.com) 
+<p>- <a href="/THOISU_CT/ChuV/VoKhanhLinh05a">Hoàng Thị Nhật Lệ "Phỏng Vấn" Nhà Báo RFA???</a> (timlaisuthat.blogspot.com) 
 </p>
-<p>- <a href="https://sachhiem.net/THOISU_CT/ChuV/VoKhanhLinh05.php">Điều 258, Các Bloggers, Tuyên Bố, Phản Bác, Và Phỏng Vấn RFA </a> (phanbactuyenbo258.blogspot.com) </p>
-<p>- <a href="https://sachhiem.net/DOITHOAI/Tienlang.php">Cuộc Tranh Luận Về 258 Của Đông La Với Trịnh Hữu Long </a>(GoogleTienLang) </p>
+<p>- <a href="/THOISU_CT/ChuV/VoKhanhLinh05">Điều 258, Các Bloggers, Tuyên Bố, Phản Bác, Và Phỏng Vấn RFA </a> (phanbactuyenbo258.blogspot.com) </p>
+<p>- <a href="/DOITHOAI/Tienlang">Cuộc Tranh Luận Về 258 Của Đông La Với Trịnh Hữu Long </a>(GoogleTienLang) </p>

@@ -2,18 +2,17 @@
 layout: ../../layouts/Article.astro
 title: "Nén Hương"
 author: "Giới Tử"
-source: "https://sachhiem.net/HOANGNN/Hoang04.php"
+source: "/HOANGNN/Hoang04"
 category: "Chính trị"
 lang: vi
 wordCount: 3842
-image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nha.jpg"
+image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/HOANGNN/Hinh/ThuongTiec.jpg"
 ---
 
 <p class="Tuaduoi">Cho Một Pho Tượng</p>
 
  
-<p align="center"><a href="https://www.sachhiem.net/">
-	<img border="0" src="https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nha.jpg"></a>ngày 26  tháng 6, 2008</p>
+<p align="center">ngày 26  tháng 6, 2008</p>
 <p><i> 
 Thưa Thầy, thấm thoát đã ngoài hai thập niên. Đây là những niềm riêng chìm 
 trong khổ đế của cộng nghiệp. Xin gởi Thầy xem cho vui để nhớ lại một kỷ 

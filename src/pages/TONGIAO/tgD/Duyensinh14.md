@@ -3,7 +3,7 @@ layout: ../../../layouts/Article.astro
 title: "Á Phiện - Bạch Phiến:"
 author: "Duyên Sinh"
 date: 2015-11-03
-source: "https://sachhiem.net/TONGIAO/tgD/Duyensinh14.php"
+source: "/TONGIAO/tgD/Duyensinh14"
 category: "Tác giả"
 lang: vi
 wordCount: 1015

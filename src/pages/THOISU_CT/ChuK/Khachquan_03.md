@@ -3,7 +3,7 @@ layout: ../../../layouts/Article.astro
 title: "Vấn Đề Ô Nhiễm Môi Trường Ở Việt Nam"
 author: "Trần Khách Quan"
 date: 2015-06-14
-source: "https://sachhiem.net/THOISU_CT/ChuK/Khachquan_03.php"
+source: "/THOISU_CT/ChuK/Khachquan_03"
 category: "Tác giả"
 lang: vi
 wordCount: 3485

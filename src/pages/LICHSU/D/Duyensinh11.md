@@ -3,7 +3,7 @@ layout: ../../../layouts/Article.astro
 title: "Tại sao phải giết cả Diệm và Kennedy?"
 author: "DuyenSinh vs Lữ Giang"
 date: 2017-10-22
-source: "https://sachhiem.net/LICHSU/D/Duyensinh11.php"
+source: "/LICHSU/D/Duyensinh11"
 category: "Lịch sử"
 lang: vi
 wordCount: 3390

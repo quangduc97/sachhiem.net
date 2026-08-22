@@ -3,7 +3,7 @@ layout: ../../layouts/Article.astro
 title: "CÁI ĐÈN CÙ TRẦN ĐĨNH"
 author: "BS. Nguyễn Văn Thịnh"
 date: 2014-11-18
-source: "https://sachhiem.net/NGVTHINH/NguyenvThinh_04.php"
+source: "/NGVTHINH/NguyenvThinh_04"
 category: "Chính trị"
 lang: vi
 wordCount: 8750

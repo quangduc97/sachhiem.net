@@ -3,7 +3,7 @@ layout: ../../../layouts/Article.astro
 title: "Nhà Thờ Mở Chiến Dịch Chống Bà Clinton"
 author: "Lê Văn Cường"
 date: 2016-11-04
-source: "https://sachhiem.net/THOISU_CT/ChuL/LeVanCuong.php"
+source: "/THOISU_CT/ChuL/LeVanCuong"
 category: "Chính trị"
 lang: vi
 wordCount: 890

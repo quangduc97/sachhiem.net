@@ -3,7 +3,7 @@ layout: ../../layouts/Article.astro
 title: "Hội Thảo 100 Năm Chữ Quốc Ngữ, Hay Là Việc Làm: \"Cố Đấm Ăn Xôi\" !"
 author: "Chế Trung Hiếu"
 date: 2019-12-12
-source: "https://sachhiem.net/VANHOC/ChTrHieu03.php"
+source: "/VANHOC/ChTrHieu03"
 lang: vi
 wordCount: 9578
 image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/sqdot.gif"

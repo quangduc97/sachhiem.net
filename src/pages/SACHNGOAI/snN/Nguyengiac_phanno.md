@@ -3,7 +3,7 @@ layout: ../../../layouts/Article.astro
 title: "Bản Ghi Nhớ 110:"
 author: "Nguyên Giác dịch"
 date: 2013-10-22
-source: "https://sachhiem.net/SACHNGOAI/snN/Nguyengiac_phanno.php"
+source: "/SACHNGOAI/snN/Nguyengiac_phanno"
 category: "Lịch sử"
 lang: vi
 wordCount: 1891

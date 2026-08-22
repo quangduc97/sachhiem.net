@@ -3,7 +3,7 @@ layout: ../../../layouts/Article.astro
 title: "Nạn Đói Năm Ất Dậu 1945 Không Có Một Nguyên Nhân Duy Nhất"
 author: "Minh Anh Nguyễn"
 date: 2026-02-07
-source: "https://sachhiem.net/LICHSU/FB/FBMinhAnhNguyen.php"
+source: "/LICHSU/FB/FBMinhAnhNguyen"
 category: "Chính trị"
 lang: vi
 wordCount: 828
@@ -78,6 +78,6 @@ image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/LICHSU/IMG/NANDOI/Da
  <p class="nguonL">Nguồn<a href="https://www.facebook.com/permalink.php?story_fbid=pfbid0NZjTCqjwFZe4ytnr6UofQwxrvTRfLqhGgTSCywr3keo5gAizWWUQ5fG7FEdgf1Fgl&amp;id=100006499171735"> FB Minh Anh Nguyễn </a> ngày 3 tháng 2, 2026 </p>
  <p>____________</p>
  <p><b>Bài đọc thêm:</b></p>
- <p>-  <a href="https://sachhiem.net/LICHSU/N/NANDOI_TangXuanAn.php">Thầy Tăng Xuân An Viết Về Nạn Đói Năm 1945</a></p>
- <p>- <a href="https://sachhiem.net/LTX/LythaiTG31.php">Không Đánh Mà Khai, Tội Xây Nhà Thờ Trong Nạn Đói</a> (Lý Thái Xuân)</p>
- <p>- <a href="https://sachhiem.net/NMQ/NMQ112.php">Nguyên Nhân Thực Sự Của Nạn Đói Năm 1945</a> (Nguyễn Mạnh Quang) </p>
+ <p>-  <a href="/LICHSU/N/NANDOI_TangXuanAn">Thầy Tăng Xuân An Viết Về Nạn Đói Năm 1945</a></p>
+ <p>- <a href="/LTX/LythaiTG31">Không Đánh Mà Khai, Tội Xây Nhà Thờ Trong Nạn Đói</a> (Lý Thái Xuân)</p>
+ <p>- <a href="/NMQ/NMQ112">Nguyên Nhân Thực Sự Của Nạn Đói Năm 1945</a> (Nguyễn Mạnh Quang) </p>

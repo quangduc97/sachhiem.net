@@ -3,7 +3,7 @@ layout: ../../../layouts/Article.astro
 title: "ÔNG TƯ CANG GẶP GỠ DỊCH GIẢ NGƯỜI NGA"
 author: "Nguyễn Quang Chánh"
 date: 2025-11-21
-source: "https://sachhiem.net/LICHSU/N/NguyenQuangChanh16.php"
+source: "/LICHSU/N/NguyenQuangChanh16"
 category: "Lịch sử"
 lang: vi
 wordCount: 1049

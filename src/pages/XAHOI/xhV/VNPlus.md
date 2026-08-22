@@ -2,7 +2,7 @@
 layout: ../../../layouts/Article.astro
 title: "Viện BVA: Người Việt Nam Lạc Quan Nhất Thế Giới"
 author: "VietNam Plus"
-source: "https://sachhiem.net/null"
+source: "/null"
 category: "Xã hội"
 lang: vi
 wordCount: 391

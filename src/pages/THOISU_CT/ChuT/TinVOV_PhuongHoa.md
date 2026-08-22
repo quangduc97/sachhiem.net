@@ -3,7 +3,7 @@ layout: ../../../layouts/Article.astro
 title: "Lịch sử Chiến tranh Lạnh và viễn cảnh hậu Crimea"
 author: "Phương Hoa/ VOV1"
 date: 2014-03-22
-source: "https://sachhiem.net/THOISU_CT/ChuT/TinVOV_PhuongHoa.php"
+source: "/THOISU_CT/ChuT/TinVOV_PhuongHoa"
 category: "Tác giả"
 lang: vi
 wordCount: 3561

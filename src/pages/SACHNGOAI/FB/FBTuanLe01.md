@@ -3,7 +3,7 @@ layout: ../../../layouts/Article.astro
 title: "Giáo Hoàng John Paul II đã góp phần vào sự sụp đổ của Liên Xô như thế nào?"
 author: "John Burger/ Tuấn Lê"
 date: 2023-10-31
-source: "https://sachhiem.net/SACHNGOAI/FB/FBTuanLe01.php"
+source: "/SACHNGOAI/FB/FBTuanLe01"
 category: "Chính trị"
 lang: vi
 wordCount: 3698
@@ -31,7 +31,7 @@ image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/TONGIAO/IMG/VATICAN/
 <p>Đức  Gioan Phaolô II không bao giờ rời mắt khỏi Thiên Chúa. Ông ấy quỳ gối thách thức  chủ nghĩa cộng sản và cầu nguyện với Chúa: ‘<i>Ý Ngài được nên.’</i> Gaddis tin rằng  trong khi <i>“các hình thức quyền lực vật chất</i>” mà Hoa Kỳ và Liên Xô nắm giữ, chẳng  hạn như sức mạnh quân sự của họ, bắt đầu “<i>mất hiệu lực</i>” vào đầu những năm 1980,  thì quyền lực thực sự lại “<i>thuộc về các nhà lãnh đạo như John Paul II, người làm chủ những thứ vô hình - những phẩm chất như lòng dũng cảm, tài hùng biện, trí tưởng tượng, lòng quyết tâm và niềm tin - cho phép họ phơi bày sự khác biệt giữa những gì mọi người tin tưởng và hệ thống mà Chiến tranh Lạnh buộc họ phải sống</i>."</p>
 <p>________________</p>
 <p><b>Bài liên quan</b>:</p>
-<p>- <a href="https://sachhiem.net/SACHNGOAI/FB/FBTuanLe.php">Lộ Trình Giải Thể Cộng Sản Của Giáo Hoàng John Paul II</a></p>
+<p>- <a href="/SACHNGOAI/FB/FBTuanLe">Lộ Trình Giải Thể Cộng Sản Của Giáo Hoàng John Paul II</a></p>
 <p>_____________</p>
 <p><b>Bản tin gốc:</b></p>
 <p><a href="https://aleteia.org/2021/12/23/how-pope-john-paul-ii-contributed-to-the-fall-of-soviet-communism/" class="Tuaduoi">How Pope John Paul II contributed to the fall of Soviet communism</a></p>

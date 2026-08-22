@@ -3,7 +3,7 @@ layout: ../../../layouts/Article.astro
 title: "\"Thánh Giáo Hoàng\" Gioan Phaolô II Bị Tố"
 author: "Monika Scislowska/ Duc Nguyên sưu tầm"
 date: 2023-03-11
-source: "https://sachhiem.net/TONGIAO/FB/FBThiNguyen18.php"
+source: "/TONGIAO/FB/FBThiNguyen18"
 category: "Chính trị"
 lang: vi
 wordCount: 750

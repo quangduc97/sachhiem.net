@@ -3,7 +3,7 @@ layout: ../../layouts/Article.astro
 title: "CẢM NIỆM ÂN SƯ"
 author: "Thích trí Hoằng"
 date: 2013-12-06
-source: "https://sachhiem.net/VANHOC/TriHoang.php"
+source: "/VANHOC/TriHoang"
 category: "Tác giả"
 lang: vi
 wordCount: 4649

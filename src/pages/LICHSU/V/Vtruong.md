@@ -2,7 +2,7 @@
 layout: ../../../layouts/Article.astro
 title: "Trả lại sự thật cho lịch sử"
 author: "Vtruong2602"
-source: "https://sachhiem.net/null"
+source: "/null"
 lang: vi
 wordCount: 4739
 image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/LICHSU/IMG/NHANVAT/Bacut_LeQgVinh.jpg"

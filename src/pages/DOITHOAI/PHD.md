@@ -3,7 +3,7 @@ layout: ../../layouts/Article.astro
 title: "Việt Cộng Gửi Việt Tân - Các Người Hãy Thôi Khoác Lác Về..."
 author: "P.H.D."
 date: 2016-06-13
-source: "https://sachhiem.net/DOITHOAI/PHD.php"
+source: "/DOITHOAI/PHD"
 category: "Chính trị"
 lang: vi
 wordCount: 991

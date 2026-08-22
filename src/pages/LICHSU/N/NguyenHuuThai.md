@@ -2,15 +2,15 @@
 layout: ../../../layouts/Article.astro
 title: "Dương Văn Minh và tôi"
 author: "Nguyễn Hữu Thái"
-source: "https://sachhiem.net/LICHSU/N/NguyenHuuThai.php"
+source: "/LICHSU/N/NguyenHuuThai"
 category: "Lịch sử"
 lang: vi
 wordCount: 5119
-image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nha.jpg"
+image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/LICHSU/IMG/NgHuuThai.jpg"
 ---
 
 <table border="0" cellpadding="1" align="center" width="250">
-        <tbody><tr><td width="100"><a href="/index"><img border="0" src="https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nha.jpg"></a></td>
+        <tbody><tr><td width="100"></td>
 	<td valign="top"><font color="#666666"><i><font size="2">30 tháng 3, 2008
 	</font></i></font>
 	</td></tr></tbody></table>

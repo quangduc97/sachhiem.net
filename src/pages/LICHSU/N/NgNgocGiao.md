@@ -3,7 +3,7 @@ layout: ../../../layouts/Article.astro
 title: "1963 : Tìm Hiểu Cuộc “Đi Đêm” Giữa Sài Gòn và Hà Nội"
 author: "Nguyễn Ngọc Giao"
 date: 2016-11-03
-source: "https://sachhiem.net/LICHSU/N/NgNgocGiao.php"
+source: "/LICHSU/N/NgNgocGiao"
 category: "Chính trị"
 lang: vi
 wordCount: 4761
@@ -91,4 +91,4 @@ image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/LICHSU/IMG/NGODD/Ngo
     
     <p>__________________</p>
     <p><b>Bài liên hệ cùng đề tài:</b></p>
-    <p><a href="https://sachhiem.net/SACHNGOAI/snN/Nguyengiac_NDNthuongthuyet.php">- Ngô Đình Nhu Thương Thuyết Với Hà Nội</a> (GS Howard Jones/ Nguyên Giác dịch) </p>
+    <p><a href="/SACHNGOAI/snN/Nguyengiac_NDNthuongthuyet">- Ngô Đình Nhu Thương Thuyết Với Hà Nội</a> (GS Howard Jones/ Nguyên Giác dịch) </p>

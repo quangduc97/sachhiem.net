@@ -2,15 +2,14 @@
 layout: ../../layouts/Article.astro
 title: "VỀ MỘT ĐẠO DIỄN TỒI"
 author: "Hoàng Đông Tà giới thiệu"
-source: "https://sachhiem.net/HOANGNN/Hoang35.php"
+source: "/HOANGNN/Hoang35"
 category: "Chính trị"
 lang: vi
 wordCount: 13906
-image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nha.jpg"
+image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/HOANGNN/Hinh/Hoang19b.jpg"
 ---
 
-<p align="center"><a href="https://www.sachhiem.net/">
-	<img border="0" src="https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nha.jpg"></a>22 tháng 11, 2008</p>
+<p align="center">22 tháng 11, 2008</p>
    <p><b>Nhàn cư vi bất thiện, rãnh rỗi 
 	không có gì làm nên Đông Tà tôi thường tà tà ghé qua những trang nhà lúc 
 	nhúc hà rầm…xem qua cho biết sự tình! </b></p>

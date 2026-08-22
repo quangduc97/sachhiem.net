@@ -2,13 +2,12 @@
 layout: ../../../../layouts/Article.astro
 title: "CÔNG GIÁO CHÍNH SỬ"
 author: "Trần Chung Ngọc"
-source: "https://sachhiem.net/TCN/TCNtg/CGchinhsu/CGCS7.php"
+source: "/TCN/TCNtg/CGchinhsu/CGCS7"
 lang: vi
 wordCount: 24947
-image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nha.jpg"
 ---
 
-<p align="center"><a href="https://www.sachhiem.net/"><img border="0" src="https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nha.jpg"></a>đăng ngày 21 tháng 10, 2007</p>
+<p align="center">đăng ngày 21 tháng 10, 2007</p>
 <p>Các bài trong tập này: &nbsp;  <a href="/TCN/CGCS0">1</a> &nbsp;&nbsp;<a href="/TCN/CGCS1">2</a>&nbsp;&nbsp;<a href="/TCN/CGCS2">3</a>&nbsp;&nbsp;<a href="/TCN/CGCS3">4</a>&nbsp;&nbsp;<a href="/TCN/CGCS4">5</a>&nbsp;&nbsp;<a href="/TCN/CGCS5">6</a>&nbsp;&nbsp;<a href="/TCN/CGCS6">7</a>&nbsp;&nbsp;<a href="/TCN/CGCS7">8</a>&nbsp;&nbsp;<a href="/TCN/CGCS8">9</a>&nbsp;&nbsp;<a href="/TCN/CGCS9">10</a>&nbsp;&nbsp;<a href="/TCN/CGCS10">11</a>&nbsp;&nbsp;<a href="/TCN/CGCS11">12</a>&nbsp;&nbsp;</p>
 
 <p class="CHUONG"><b>		CHƯƠNG VII</b></p>

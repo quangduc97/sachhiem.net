@@ -2,17 +2,14 @@
 layout: ../../../layouts/Article.astro
 title: "H.63 Giải Cứu Ông Mười Hương Như Thế Nào?"
 author: "Nguyễn Quang Chánh"
-source: "https://sachhiem.net/LICHSU/N/NguyenQuangChanh12.php"
+source: "/LICHSU/N/NguyenQuangChanh12"
 category: "Lịch sử"
 lang: vi
 wordCount: 2202
-image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nha.jpg"
+image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/LICHSU/IMG/ANHUNG/MuoiHuong.jpg"
 ---
 
-<p align="center"><a href="https://www.sachhiem.net/">
-<img border="0" src="https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nha.jpg"></a> 
-</p>
- <div class="tomluoc">
+<div class="tomluoc">
    <p><i>Tao giao việc này cho anh Ẩn đi điều tra nắm tình hình của ông Mười Hương đang bị giam ở khám Chí Hoà và lên phương án giải thoát cho ông. Sau thời gian khẩn trương tìm hiểu, anh Ẩn đã báo cáo: đã có phương án giải cứu rồi, chúng ta phải hành động ngay. </i></p>
  </div> 
  <p align="center"><img src="https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/LICHSU/IMG/ANHUNG/MuoiHuong.jpg" width="400" height="348" alt=""></p>

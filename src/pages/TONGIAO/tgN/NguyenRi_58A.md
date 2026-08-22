@@ -3,7 +3,7 @@ layout: ../../../layouts/Article.astro
 title: "Thánh Kinh Tiếng Việt Dịch Bậy Bạ Thế Nào?"
 author: "Ri Nguyễn"
 date: 2022-06-24
-source: "https://sachhiem.net/TONGIAO/tgN/NguyenRi_58A.php"
+source: "/TONGIAO/tgN/NguyenRi_58A"
 category: "Tác giả"
 lang: vi
 wordCount: 337
@@ -53,4 +53,4 @@ image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/TONGIAO/IMG/BIBLE/DI
 <p class="TacgiaL">Ri Nguyễn </p>
 <p>_____________________</p>
  <p><b>Các bài của Nguyễn Ri:</b></p>
- <p> <a href="https://sachhiem.net/TONGIAO/tgN/ListRiNguyen.inc.php" target="_blank">https://sachhiem.net/TONGIAO/tgN/ListRiNguyen.inc.php</a></p>
+ <p> <a href="/TONGIAO/tgN/ListRiNguyen.inc" target="_blank">https://sachhiem.net/TONGIAO/tgN/ListRiNguyen.inc.php</a></p>

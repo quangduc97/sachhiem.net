@@ -2,7 +2,7 @@
 layout: ../../../layouts/Article.astro
 title: "Tranh cãi về án tử hình"
 author: "Hoàng Khuê"
-source: "https://sachhiem.net/nguồn: https://vnexpress.net/GL/Phap-luat/2009/04/3BA0E081/"
+source: "/nguồn: https://vnexpress.net/GL/Phap-luat/2009/04/3BA0E081/"
 category: "Chính trị"
 lang: vi
 wordCount: 957

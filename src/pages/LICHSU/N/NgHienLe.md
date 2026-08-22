@@ -2,15 +2,14 @@
 layout: ../../../layouts/Article.astro
 title: "Dạy sử dưới thời Diệm"
 author: "Nguyễn Hiến Lê"
-source: "https://sachhiem.net/LICHSU/N/NgHienLe.php"
+source: "/LICHSU/N/NgHienLe"
 category: "Lịch sử"
 lang: vi
 wordCount: 838
-image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nha.jpg"
+image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/LICHSU/IMG/NHANVAT/NHL.jpg"
 ---
 
-<p align="center"><a href="https://www.sachhiem.net/">
-	<img border="0" src="https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nha.jpg"></a> 06 tháng 6, 2009
+<p align="center"> 06 tháng 6, 2009
 	</p>
 
 			<p class="PicLeft"><img border="0" src="https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/LICHSU/IMG/NHANVAT/NHL.jpg"> <br>

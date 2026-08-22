@@ -3,7 +3,7 @@ layout: ../../../layouts/Article.astro
 title: "Tản Mạn Về Chuyện Mấy Ông Thày Cãi"
 author: "Trần Chung Ngọc"
 date: 2011-11-08
-source: "https://sachhiem.net/TCN/TCNdt/TCNdt055.php"
+source: "/TCN/TCNdt/TCNdt055"
 category: "Đối thoại"
 lang: vi
 wordCount: 12978
@@ -318,7 +318,7 @@ image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.devhttps://sachhiem.net/
       định của Hiệp Định Geneva, nên đã tiếp nối cuộc chiến chống ngoại xâm,
       đi đến thống nhất.</p>
     <p>        Hãy nghe Giáo sư Nguyễn Mạnh Quang giảng về chính thống
-      và chính nghĩa trong những trường hợp khác nhau trong bài <a href="https://sachhiem.net/NMQ/HOSOTOIAC/CH32.php">Quan
+      và chính nghĩa trong những trường hợp khác nhau trong bài <a href="/NMQ/HOSOTOIAC/CH32">Quan
         Niệm Về Chính Thống Hay Chính Nghĩa Của Người Lên Cầm Quyền (https://sachhiem.net/NMQ/HOSOTOIAC/CH32.php)
 </a>.</p>
     <p>        Một trong những trường hợp đó như sau:</p>
@@ -338,9 +338,9 @@ image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.devhttps://sachhiem.net/
         Nam 1945-1975 như sau: &nbsp;</i>“<i>Tình
           hình chính trị Việt Nam vào thời điểm 1945-1946 cho thấy rằng Việt
           Minh dưới sự lãnh đạo của Hồ Chí Minh đã giành được chính nghĩa chống
-          Pháp và lôi cuốn được sự ủng hộ của đông đảo quần chúng.” <a href="https://www.sachhiem.net/index.php?content=showrecipe&amp;id=121#_edn7" title=""><strong>[7]</strong></a> &nbsp;</i> <i>“Chẳng
+          Pháp và lôi cuốn được sự ủng hộ của đông đảo quần chúng.” <a href="/NMQ/NMQ026a" title=""><strong>[7]</strong></a> &nbsp;</i> <i>“Chẳng
             có gì đáng ngạc nhiên khi chính nghĩa chống Pháp đã được dồn hết sang
-            phía chính phủ kháng chiến do Hồ Chí Minh lãnh đạo.”<a href="https://www.sachhiem.net/index.php?content=showrecipe&amp;id=121#_edn8" title=""><strong>[8]</strong></a> </i>.
+            phía chính phủ kháng chiến do Hồ Chí Minh lãnh đạo.”<a href="/NMQ/NMQ026a" title=""><strong>[8]</strong></a> </i>.
         &nbsp;&nbsp; </div>
     <p>► Ông thày cãi cũng chẳng biết gì về thực chất chính phủ Trần Trọng Kim.&nbsp;      </p>
     <p>Giáo sư Nguyễn Mạnh Quang cũng viết về vua Bảo Đại: <i>Bảo Đại trong
@@ -952,7 +952,7 @@ image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.devhttps://sachhiem.net/
           là sức mạnh lôi cuốn quần chúng của Hồ Chí Minh qua hình ảnh của một
           nhà cách mạng một lòng vì dân vì nước, đã tranh đấu gian nan ở hải
           ngoại trong suốt mấy chục năm. Chiến tranh chống Pháp là một chiến
-          tranh có chính nghĩa và Việt Minh đã giành được chính nghĩa đó</i>.” <a href="https://www.sachhiem.net/index.php?content=showrecipe&amp;id=37#_edn23" title="">[23]</a> </p>
+          tranh có chính nghĩa và Việt Minh đã giành được chính nghĩa đó</i>.” <a href="/NMQ/ChanDungVNCH/QMN01b" title="">[23]</a> </p>
 
     <p>&nbsp;&nbsp;
         Dĩ nhiên, ở vào trường hợp này, không có lý gì mà một thế lực đã có công
@@ -1080,7 +1080,7 @@ image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.devhttps://sachhiem.net/
     <p>&nbsp;
         Hành động tích cực của luật sư Lưu Nguyễn Đạt ở nước ngoài đã có, theo
         Đặng Vũ Ái:</p>
-    <p>&nbsp;&nbsp; <a href="https://sachhiem.net/printemail.php?id=5116">“LS
+    <p>&nbsp;&nbsp; <a href="/printemail.php?id=5116">“LS
         TTH - LS LNĐ cứu nguy đất nước bằng Tự Điển - Pháp Lý và TỔ QUỐC” <br>(https://sachhiem.net/printemail.php?id=5116) </a> </p>
          <p class="TacgiaL">Trần Chung Ngọc</p>
     <p>&nbsp; Ngày 11/11/11</p>

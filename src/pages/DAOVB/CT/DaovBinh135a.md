@@ -3,7 +3,7 @@ layout: ../../../layouts/Article.astro
 title: "Liệu Nước Mỹ Có Bị Chia Cắt Không?"
 author: "Đào Văn Bình"
 date: 2020-12-15
-source: "https://sachhiem.net/DAOVB/CT/DaovBinh135a.php"
+source: "/DAOVB/CT/DaovBinh135a"
 category: "Chính trị"
 lang: vi
 wordCount: 1767

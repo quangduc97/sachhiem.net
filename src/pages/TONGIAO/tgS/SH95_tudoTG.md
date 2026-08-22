@@ -3,7 +3,7 @@ layout: ../../../layouts/Article.astro
 title: "Tự Do Tôn Giáo Ở Âu Mỹ"
 author: "SH sưu tầm"
 date: 2022-12-05
-source: "https://sachhiem.net/TONGIAO/tgS/SH95_tudoTG.php"
+source: "/TONGIAO/tgS/SH95_tudoTG"
 category: "Chính trị"
 lang: vi
 wordCount: 8096

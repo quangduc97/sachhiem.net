@@ -2,7 +2,7 @@
 layout: ../../../layouts/Article.astro
 title: "Trái đất lâm bệnh Nguồn tin"
 author: "Anh Thư"
-source: "https://sachhiem.net/null"
+source: "/null"
 category: "Khoa học"
 lang: vi
 wordCount: 4346

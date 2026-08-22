@@ -2,7 +2,7 @@
 layout: ../../../layouts/Article.astro
 title: "Bauxite Tây Nguyên:"
 author: "Nguyễn Trí Cảm"
-source: "https://sachhiem.net/THOISU_CT/ChuN/NguyenTriCam8.php"
+source: "/THOISU_CT/ChuN/NguyenTriCam8"
 category: "Chính trị"
 lang: vi
 wordCount: 1408

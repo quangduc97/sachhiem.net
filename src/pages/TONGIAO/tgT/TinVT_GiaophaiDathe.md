@@ -3,7 +3,7 @@ layout: ../../../layouts/Article.astro
 title: "Tiết Lộ Kinh Hoàng Về Giáo Phái Đa Thê Ở Texas"
 author: "Trúc Giang/ vantuyen.net"
 date: 2017-04-25
-source: "https://sachhiem.net/TONGIAO/tgT/TinVT_GiaophaiDathe.php"
+source: "/TONGIAO/tgT/TinVT_GiaophaiDathe"
 category: "Chính trị"
 lang: vi
 wordCount: 5647

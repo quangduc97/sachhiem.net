@@ -2,14 +2,14 @@
 layout: ../../../layouts/Article.astro
 title: "Vũ Ngọc Nhạ"
 author: "tài liệu"
-source: "https://sachhiem.net/LICHSU/T/Tailieu.php"
+source: "/LICHSU/T/Tailieu"
 category: "Lịch sử"
 lang: vi
 wordCount: 8357
-image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nha.jpg"
+image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/LICHSU/IMG/NHANVAT/VNgNha/VuNgocNha_thuNVThieu.jpg"
 ---
 
-<p align="center"><a href="https://www.sachhiem.net/"> <img border="0" src="https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nha.jpg"></a> 30 tháng 8, 2008 </p>
+<p align="center"> 30 tháng 8, 2008 </p>
           <div class="tomluoc">
             <p><b>Mục lục:</b></p>
             <p>- <a href="/LICHSU/#wiki">Vũ Ngọc Nhạ    (Wikipedia)</a></p>

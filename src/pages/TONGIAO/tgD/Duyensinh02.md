@@ -3,7 +3,7 @@ layout: ../../../layouts/Article.astro
 title: "Phong Trào 969: Một quả báo!"
 author: "Duyên Sinh"
 date: 2013-05-24
-source: "https://sachhiem.net/TONGIAO/tgD/Duyensinh02.php"
+source: "/TONGIAO/tgD/Duyensinh02"
 category: "Tác giả"
 lang: vi
 wordCount: 2405

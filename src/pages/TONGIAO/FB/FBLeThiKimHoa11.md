@@ -3,7 +3,7 @@ layout: ../../../layouts/Article.astro
 title: "Tấm Bia Moses Với 12 Điều Răn Ở Đâu?"
 author: "Lê thị Kim Hoa sưu tầm"
 date: 2025-06-07
-source: "https://sachhiem.net/TONGIAO/FB/FBLeThiKimHoa11.php"
+source: "/TONGIAO/FB/FBLeThiKimHoa11"
 category: "Tác giả"
 lang: vi
 wordCount: 1181

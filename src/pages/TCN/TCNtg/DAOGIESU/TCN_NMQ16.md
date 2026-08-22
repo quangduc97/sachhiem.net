@@ -2,14 +2,14 @@
 layout: ../../../../layouts/Article.astro
 title: "NGƯỜI VIỆT NAM & “ĐẠO GIÊ-SU”"
 author: "Trần Chung Ngọc và Nguyễn Mạnh Quanghợp soạn"
-source: "https://sachhiem.net/TCN/TCNtg/DAOGIESU/TCN_NMQ16.php"
+source: "/TCN/TCNtg/DAOGIESU/TCN_NMQ16"
 category: "Tác giả"
 lang: vi
 wordCount: 8131
-image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nha.jpg"
+image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/Next3.gif"
 ---
 
-<p align="center"><a href="https://sachhiem.net/index.php"><img hspace="20" border="0" src="https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nha.jpg"></a> 20 tháng 1, 2008 </p> 					
+<p align="center"> 20 tháng 1, 2008 </p> 					
 	<p><br>Lời Tòa Soạn <a href="/TCN/TCNtg/DAOGIESU/TCN_NMQ"><img border="0" src="https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/Next3.gif" width="15" height="6"></a><br> Những mục của tác giả Trần Chung Ngọc:	
 <a href="/TCN/TCNtg/DAOGIESU/TCN_NMQ1">1</a>
 	<a href="/TCN/TCNtg/DAOGIESU/TCN_NMQ2">2</a>

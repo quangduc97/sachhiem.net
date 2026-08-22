@@ -2,7 +2,7 @@
 layout: ../../../layouts/Article.astro
 title: "Thư Của Nguyên Phó Chủ Tịch Nước Nguyễn Thị Bình"
 date: 2014-06-05
-source: "https://sachhiem.net/THOISU_CT/ChuN/NguyenThiBinh.php"
+source: "/THOISU_CT/ChuN/NguyenThiBinh"
 category: "Tác giả"
 lang: vi
 wordCount: 1178
@@ -40,4 +40,4 @@ image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/THOISU_CT/Hinh/NHANV
   <p><i>(*) Tựa do Một Thế Giới đặt</i></p>
   <p class="nguonL">Nguồn <a href="https://motthegioi.vn/xa-hoi/toi-nhoi-tim-khi-nhin-tau-trung-quoc-to-lon-tan-cong-tau-viet-nam-76221.html" target="_blank">https://motthegioi.vn/xa-hoi/toi-nhoi-tim-khi-nhin-tau-trung-quoc-to-lon-tan-cong-tau-viet-nam-76221.html</a></p>
     <p>____________________</p>
-   <p><a href="https://sachhiem.net/LICHSU/H/HoangSa_list.php">Các bài về Hoàng Sa- Trường Sa đăng trên sachhiem.net » </a></p>
+   <p><a href="/LICHSU/H/HoangSa_list">Các bài về Hoàng Sa- Trường Sa đăng trên sachhiem.net » </a></p>

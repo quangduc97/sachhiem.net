@@ -3,7 +3,7 @@ layout: ../../../layouts/Article.astro
 title: "Lý Công Uẩn Với Chiếu Dời Đô"
 author: "Phạm Quốc Sử*"
 date: 2021-07-30
-source: "https://sachhiem.net/LICHSU/P/PhamQuocSu.php"
+source: "/LICHSU/P/PhamQuocSu"
 category: "Chính trị"
 lang: vi
 wordCount: 10681

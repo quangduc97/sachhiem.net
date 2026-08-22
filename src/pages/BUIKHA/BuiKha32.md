@@ -3,7 +3,7 @@ layout: ../../layouts/Article.astro
 title: "Trương Vĩnh Ký Phản Bội Tổ Quốc, Sao Gọi Là Nỗi Oan Thế Kỷ?"
 author: "Bùi Kha"
 date: 2017-01-09
-source: "https://sachhiem.net/BUIKHA/BuiKha32.php"
+source: "/BUIKHA/BuiKha32"
 category: "Đối thoại"
 lang: vi
 wordCount: 8141
@@ -11,7 +11,7 @@ image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/LICHSU/IMG/SACH/Petr
 ---
 
 <div class="tomluoc">
-            <p>LTS: Bài này đã đăng ở trang nhà trước đây dưới tựa đề<a href="https://sachhiem.net/BUIKHA/BuiKha25b_TVK.php"> "<i>Trương Vĩnh Ký Phản Bội Tổ Quốc, Sao Lại Gọi Là Yêu Nước?</i>"</a>  để phản biện bài viết của ông Trần Hữu Tá. Nay tác giả có điều chỉnh một vài từ, và tựa bài viết cho thích ứng với sự kiện mới. BBT trang TG&amp;DT nhận định: <i>"Thái độ nghiêm túc, dứt khoát và đúng đắn với Trương Vĩnh Ký cũng cần được áp dụng cho những tên tay sai và gián điệp khác như Nguyễn Trường Tộ, Alexandre de Rhodes (Cha Đắc Lộ), Trần Lục, Nguyễn Bá Tòng, Ngô Đình Diệm … để hậu thế xem đó như một bài học cần thiết cho việc vun bồi lòng yêu nước."</i></p>
+            <p>LTS: Bài này đã đăng ở trang nhà trước đây dưới tựa đề<a href="/BUIKHA/BuiKha25b_TVK"> "<i>Trương Vĩnh Ký Phản Bội Tổ Quốc, Sao Lại Gọi Là Yêu Nước?</i>"</a>  để phản biện bài viết của ông Trần Hữu Tá. Nay tác giả có điều chỉnh một vài từ, và tựa bài viết cho thích ứng với sự kiện mới. BBT trang TG&amp;DT nhận định: <i>"Thái độ nghiêm túc, dứt khoát và đúng đắn với Trương Vĩnh Ký cũng cần được áp dụng cho những tên tay sai và gián điệp khác như Nguyễn Trường Tộ, Alexandre de Rhodes (Cha Đắc Lộ), Trần Lục, Nguyễn Bá Tòng, Ngô Đình Diệm … để hậu thế xem đó như một bài học cần thiết cho việc vun bồi lòng yêu nước."</i></p>
           </div>
           <p> <span class="First">S</span>áng  nay, Jan. 8.2017, tình cờ tôi đọc được trên Google bài [Sách <a href="https://vanviet.info/van-de-hom-nay/sch-truong-vinh-k-noi-oan-the-ky-bi-cam-ra-mat-tai-duong-sch-si-gn/"> <i> “Trương Vĩnh Ký, nỗi oan thế kỷ” bị  cấm ra mắt tại Đường sách ...</i></a>]. Tác giả cuốn “<i>Trương Vĩnh Ký, nỗi oan thế kỷ</i>” là ông Nguyễn Đình Đầu, người viết cẩu thả vô trách nhiệm, mà tôi đã  từng biết qua một số bài ông ta viết về Đắc Lộ, Nguyễn Trường Tộ… trước đây. Nay tác giả này lại được Giáo sư Sử học Phan Huy Lê (5.7.2016) trong Lời Giới Thiệu cuốn  sách mới của ông Nguyễn Đình Đầu, đã thăng ông ta&nbsp; lên hàng “Học Giả”, thay vì cẩu thả vô trách  nhiệm. Đó cũng là chuyện lạ của “Thế kỷ” nầy và của một Gs sử học có tên quen  thuộc.</p>
           <p align="center"><img src="https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/LICHSU/IMG/SACH/PetrusKy_noioantheky.gif" width="150" height="227" alt=""></p>
@@ -170,7 +170,7 @@ image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/LICHSU/IMG/SACH/Petr
 <p>2. <i>"Vài Tài Liệu Mới Về Petrus Key (Trương Vĩnh Ký)</i>" (1837-1898) - Vũ Ngự Chiêu</p>
 <p><a target="_blank" href="https://hopluu.net/a183/vai-tai-lieu-moi-ve-petrus-key-truong-vinh-ky-1837-1898">https://hopluu.net/a183/vai-tai-lieu-moi-ve-petrus-key-truong-vinh-ky-1837-1898</a></p>
 <p>3.  Pétrus Ký - Nỗi Oan Lớn Cỡ Nào? (FB Chiến tranh Việt Nam tư liệu và sự thật)</p>
-<p><a href="https://sachhiem.net/index.php?content=showemail&amp;id=2005">https://sachhiem.net/index.php?content=showemail&amp;id=2005</a></p>
+<p><a href="/net/BUIKHA/BuiKha25a_TVK">https://sachhiem.net/index.php?content=showemail&amp;id=2005</a></p>
 <p>4. Chuyến đi Bắc Kỳ năm Ất Hợi (1876) - Nhật Ký Trương Vĩnh Ký - <a href="https://vanhoanghean.com.vn/component/k2/chuyen-di-bac-ky-nam-at-hoi1876">https://vanhoanghean.com.vn/...</a></p>
 <p>5. Trương Vĩnh Ký và Chuyến đi Bắc-kỳ năm Ất-hợi (1876) qua con mắt một nhà nghiên cứu nước ngoài (Patrick James Honey - Trần Hải Yến dịch)</p>
 <p><a href="https://www.talawas.org/talaDB/showFile.php?res=12946&amp;rb=0302">https://www.talawas.org/talaDB/showFile.php?res=12946&amp;rb=0302 </a></p>

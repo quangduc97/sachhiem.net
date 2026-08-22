@@ -3,7 +3,7 @@ layout: ../../../layouts/Article.astro
 title: "Phản Bác 26 Tà Kiến Tuyên Truyền"
 author: "Mike Wilson"
 date: 2015-12-19
-source: "https://sachhiem.net/THOISU_CT/ChuM/MikeWilson_10.php"
+source: "/THOISU_CT/ChuM/MikeWilson_10"
 category: "Chính trị"
 lang: vi
 wordCount: 5523

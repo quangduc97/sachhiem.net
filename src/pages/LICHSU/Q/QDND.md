@@ -2,7 +2,7 @@
 layout: ../../../layouts/Article.astro
 title: "Chúng ta ở thế buộc phải đánh"
 author: "TRẦN VŨ (báo Quân Đội Nhân Dân)"
-source: "https://sachhiem.net/nguồn: https://www.qdnd.vn/qdnd/baongay.chinhtri.tiepluatruyenthong.7386.qdnd"
+source: "/nguồn: https://www.qdnd.vn/qdnd/baongay.chinhtri.tiepluatruyenthong.7386.qdnd"
 category: "Lịch sử"
 lang: vi
 wordCount: 903
@@ -33,7 +33,7 @@ image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nhacu.jpg"
 		<div style="padding-left: 40px; padding-right: 40px">
 
 		<table border="0" cellpadding="10" width="85%" cols="2"><tbody><tr>
-		<td width="98"><a href="https://sachhiem.net/"><img border="0" src="https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nhacu.jpg" width="49" height="20"></a></td>
+		<td width="98"><a href="/"><img border="0" src="https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nhacu.jpg" width="49" height="20"></a></td>
 				<td valign="top">&nbsp;</td>
 	<td valign="top" width="204">	20 tháng 11, 2008
 	</td></tr></tbody></table>

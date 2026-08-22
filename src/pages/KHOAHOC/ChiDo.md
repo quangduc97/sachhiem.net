@@ -3,7 +3,7 @@ layout: ../../layouts/Article.astro
 title: "Stephen Hawking Tin Hay Không Tin Có Chúa?"
 author: "Sofia Lotto Persio, Newsweek/ Chí Đỗ dịch Việt"
 date: 2018-03-26
-source: "https://sachhiem.net/KHOAHOC/ChiDo.php"
+source: "/KHOAHOC/ChiDo"
 category: "Chính trị"
 lang: vi
 wordCount: 2973

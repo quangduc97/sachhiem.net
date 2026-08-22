@@ -3,7 +3,7 @@ layout: ../../../layouts/Article.astro
 title: "Tính Phát Xít Trong Giáo Hội Rô Ma"
 author: "Makiko Nakano /TP Thanh Tâm lược dịch"
 date: 2015-03-17
-source: "https://sachhiem.net/SACHNGOAI/snT/TranPhanThTam01.php"
+source: "/SACHNGOAI/snT/TranPhanThTam01"
 category: "Văn hóa"
 lang: vi
 wordCount: 1176

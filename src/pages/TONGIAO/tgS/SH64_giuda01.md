@@ -3,7 +3,7 @@ layout: ../../../layouts/Article.astro
 title: "Tài Liệu Cha Cố Tây Che Chở Kẻ Ác"
 author: "Giu Đà"
 date: 2016-01-30
-source: "https://sachhiem.net/TONGIAO/tgS/SH64_giuda01.php"
+source: "/TONGIAO/tgS/SH64_giuda01"
 category: "Tác giả"
 lang: vi
 wordCount: 1710
@@ -69,7 +69,7 @@ image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/TONGIAO/IMG/VATICAN/
 <p><a href="https://www.gettyimages.com/detail/news-photo/german-death-factory-near-lublin-in-majdanek-hitlerites-news-photo/170969396">Lò thiêu ở  trại tập trung Majdanek, Lublin,  Ba Lan, nơi Đức Quốc xã chiếm đóng, năm 1944.</a> Sự giải phóng của Lublin ở Ba Lan của Hồng quân Liên Xô trong tháng 7 1944 cũng tiết lộ một trại tập trung và tiêu diệt trại lớn, nơi mà Đức quốc xã tiến hành giết người hàng loạt trên một lớn tỉ lệ. Nạn nhân của trại bao gồm Ba Lan, người Do Thái của các dân tộc, Pháp, Hy Lạp, Hà Lan, Ý, Bỉ, Yugoslavians, Hungary và nhóm chống phát xít của đảng Cộng hòa Tây Ban Nha.</p>
 <p><span class="green"><b>3.</b></span><b> Các con chiên Mít  rạp mình  xuống mà hôn hít chân của các vị thánh xạo này.</b></p>
 <p align="center"><img src="https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/TONGIAO/IMG/METIN/Don_HYReinhardMarx_14Jan2016.jpg" width="350" height="293" alt=""><img src="https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/TONGIAO/IMG/METIN/Don_HYReinhardMarx_DgMenThGia.jpg" width="350" height="224" alt=""></p>
-<p align="center"><a href="https://sachhiem.net/LTX/LythaiTG15.php">Hôn hít Hồng Y người Đức Reinhard Marx</a> </p>
+<p align="center"><a href="/LTX/LythaiTG15">Hôn hít Hồng Y người Đức Reinhard Marx</a> </p>
 <p align="center"> <img src="https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/TONGIAO/IMG/METIN/Honnhan.jpg" width="300" height="215" alt=""> <img src="https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/TONGIAO/IMG/METIN/Ninhnot_GM_Girelli.JPG" width="187" height="170"> <img src="https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/TONGIAO/IMG/METIN/Khumnum.JPG" width="300" height="232" alt=""></p>
 <p align="center"> <i>hôn hít TGM LEOPOLDO GIRELLI Jul, 2012</i> Video nguồn:  https://www.youtube.com/watch?v=6RsEwirM7m8</p>
 <p class="TacgiaL">Giu Đà sưu tầm</p>

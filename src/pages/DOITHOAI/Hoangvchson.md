@@ -3,7 +3,7 @@ layout: ../../layouts/Article.astro
 title: "Thư Gởi Ông Trần Trung Đạo:"
 author: "Hoàng Văn Chưng Sơn"
 date: 2014-09-06
-source: "https://sachhiem.net/DOITHOAI/Hoangvchson.php"
+source: "/DOITHOAI/Hoangvchson"
 category: "Chính trị"
 lang: vi
 wordCount: 3319
@@ -17,7 +17,7 @@ image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/LICHSU/IMG/SACH/50na
   
   <p><span class="First">T</span>hưa ông&nbsp; Trần  Trung Đạo (TTĐ), </p>
   <p>Trước nhất, động lực khiến tôi viết những lời đơn giản này đến ông chẳng  phải vì sự kiện ông Ngô Đình Diệm gởi cho chính phủ  Ấn Độ 1500 tấn gạo để tặng cho người &nbsp;&nbsp;tị nạn Tây Tạng,&nbsp;  vì theo tôi &nbsp;đó chỉ là một sự kiện ngoại giao rất bình thường,  nếu đó là hoàn cảnh một quốc gia bình thường. Nhưng trong truờng hợp một nước VN đang  phải nhận viện trợ từng đồng một của ngoại quốc,  thì nó không bình thường chút nào. </p>
-  <p>Sự việc lại càng  trở thành quái đản hơn khi nó xảy ra khi quốc gia đang trong tình trạng  chiến tranh, và nhất là tệ trạng tham nhũng đang  hoành hành khủng khiếp (Xin đọc Chương XIII : Tệ trạng tham nhũng, trong  VNMLHT, link : <a href="https://sachhiem.net/HOANHLINH/VNML13.php">https://sachhiem.net/HOANHLINH/VNML13.php</a>) &nbsp;&nbsp;Trong tình hình như thế, nó cho thấy &nbsp;&nbsp;đầu óc kém cỏi của người đứng đầu một quốc gia, &nbsp;và là điều bất  hạnh cho dân tộc. &nbsp;Tôi  sẽ giải thích cặn kẽ ở những trang sau. </p>
+  <p>Sự việc lại càng  trở thành quái đản hơn khi nó xảy ra khi quốc gia đang trong tình trạng  chiến tranh, và nhất là tệ trạng tham nhũng đang  hoành hành khủng khiếp (Xin đọc Chương XIII : Tệ trạng tham nhũng, trong  VNMLHT, link : <a href="/HOANHLINH/VNML13">https://sachhiem.net/HOANHLINH/VNML13.php</a>) &nbsp;&nbsp;Trong tình hình như thế, nó cho thấy &nbsp;&nbsp;đầu óc kém cỏi của người đứng đầu một quốc gia, &nbsp;và là điều bất  hạnh cho dân tộc. &nbsp;Tôi  sẽ giải thích cặn kẽ ở những trang sau. </p>
   <p>Thứ hai, có một điều nữa khiến tôi viết thơ này vì thái độ phớt lờ của ông đối với sự thật lịch sử khách quan khi ông viết: “<i>Cố Tổng thống Ngô Đình Diệm có đức tính sống cao cả hơn và có một tâm hồn  trong sáng hơn nhiều người đang “ca tụng” hay “vinh danh” ngài. Nếu biết kính  trọng, hãy để ngài là cố Tổng Thống Việt Nam Cộng Hòa, đừng cô lập ngài thành một  vị “Tổng Thống Công Giáo”</i>. </p>
   <p>Thì ra, ông chỉ quan tâm đến những ‘ca tung’ hay  ‘vinh danh’ “Ngài” Ngô Đình Diệm của ông , chứ ông không hề biết tới những đối  lập, hay chống đối &nbsp;&nbsp;những điều sai trái của nhà Ngô, &nbsp;&nbsp;Và do đó ông không có cái nhận xét công bằng về  nhà Ngô, ông chỉ là kẻ một chiều, ở về một phía những người ca tụng nhà Ngô mà  thôi.</p>
   <p>Đọc những lời này từ một người &nbsp;&nbsp;hàm ý rằng mình là  một Phật Tử như ông, lại khiến tôi càng thất vọng hơn! Cái điều gì đã làm  ông phe lờ những &nbsp;&nbsp;sự thật đã xảy ra trong quá khứ? Mà những &nbsp;&nbsp;sự thật này hiện đang nằm trong những tập tài  liệu có mặt trên khắp các trang mạng, nếu muốn kiểm chứng thì quá dễ dàng với một  người có khả năng viết lách như ông.</p>
@@ -36,7 +36,7 @@ image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/LICHSU/IMG/SACH/50na
     Ký tên: Rusk (Ngoại Trưởng  Hoa Kỳ).</p>
   <p><a href="https://thuvienhoasen.org/p60a17229/1/cac-dien-van-trao-doi-giua-hue-sai-gon-va-washington#detail">Xem https://thuvienhoasen.org/p60a17229/ </a></p>
   </div>
-  <p>Tiếp theo cái điện văn &nbsp;&nbsp;khuyến cáo nhà  Ngô hãy khéo léo dàn xếp bồi thường, vỗ về và làm hòa, hàn gắn trở lại với Phật  Giáo và Phật Tử nạn nhân, nghĩa là sau thời gian xảy ra biến cố, thì không dưới  năm lần, từ phó Đại Sứ, cho tới Đại Sứ Mỹ và ngay cả Đặc Sứ của Tổng Thống Kennedy  cũng cố gắng tiếp xúc với chế độ, &nbsp;để &nbsp;&nbsp;thúc giục bạo quyền hàn gắn và xuống thang, giảm  nhẹ sự nghiêm trọng của sự kiện. Được sự &nbsp;&nbsp;giải bày ân  cần, sáng suốt của đồng minh, nhà Ngô đã không nghe theo lại còn gia tăng sự đàn  áp, dùng cả chất hóa học để đàn áp, lương dân Phật Tử, Link : <a href="https://sachhiem.net/LICHSU/T/Tamdieu01.php">https://sachhiem.net/LICHSU/T/Tamdieu01.php</a></p>
+  <p>Tiếp theo cái điện văn &nbsp;&nbsp;khuyến cáo nhà  Ngô hãy khéo léo dàn xếp bồi thường, vỗ về và làm hòa, hàn gắn trở lại với Phật  Giáo và Phật Tử nạn nhân, nghĩa là sau thời gian xảy ra biến cố, thì không dưới  năm lần, từ phó Đại Sứ, cho tới Đại Sứ Mỹ và ngay cả Đặc Sứ của Tổng Thống Kennedy  cũng cố gắng tiếp xúc với chế độ, &nbsp;để &nbsp;&nbsp;thúc giục bạo quyền hàn gắn và xuống thang, giảm  nhẹ sự nghiêm trọng của sự kiện. Được sự &nbsp;&nbsp;giải bày ân  cần, sáng suốt của đồng minh, nhà Ngô đã không nghe theo lại còn gia tăng sự đàn  áp, dùng cả chất hóa học để đàn áp, lương dân Phật Tử, Link : <a href="/LICHSU/T/Tamdieu01">https://sachhiem.net/LICHSU/T/Tamdieu01.php</a></p>
 <p>
     Sau  khi đọc kỹ những bài viết trong những tài liệu này, mà ông còn có thể tôn vinh  chế độ ông NĐD là “<i>Đạo đức</i>” thì tôi  thật không có ý kiến với lương tâm và trí khôn của ông rồi đó.</p>
   <p>Có  thể ông đã thay đổi quan niệm tốt xấu khi qua sống ở những quốc gia nặng văn  hoá Ca-tô-lích! Điều này không làm phiền ai cả, nhưng thay đổi sự thật về tàn hại,  tội ác của nhà Ngô với&nbsp; &nbsp;&nbsp;nhân dân, với Phật  Giáo, và với Phật&nbsp; Tử miền Nam VN là một  điều không thể chấp nhận được.</p>
@@ -58,10 +58,10 @@ image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/LICHSU/IMG/SACH/50na
    <p><b>Ta hãy đi tìm sự bất thường này</b> bằng cách tìm hiểu&nbsp;bối cảnh tình hình  miền Nam VN vào thời điểm 1960 xem sao?</p>
 <p>
     Đây là năm có&nbsp; cuộc đảo chánh lần thứ nhất xảy ra, do nhóm của  Đại Tá Nguyễn Chánh Thi chủ xướng vào ngày 11/11/1960.  </p>
-<p align="center"><a href="https://sachhiem.net/EMAILS/Thanthanh.php/index.php?content=showrecipe&amp;id=5690"><img src="https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/LICHSU/IMG/NGODD/12Nov1960_daochinhhut.jpg" width="450" height="391" longdesc="https://gôgle"> </a></p>
+<p align="center"><a href="/LICHSU/K/KhucHaLinh"><img src="https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/LICHSU/IMG/NGODD/12Nov1960_daochinhhut.jpg" width="450" height="391" longdesc="https://gôgle"> </a></p>
 <p>Như vậy cuộc cứu trợ chắc chắn phải xảy ra trước thời điểm này, ta cứ cho là vào  khoảng giữa năm đi, tức là vào khoảng tháng 6/1960.</p>
   <p>Trong năm này  lại có một biến cố lớn  khác (26 tháng tư, năm 1960). Đó là Tuyên Ngôn nhận định  tình hình và yêu cầu&nbsp; cải tổ của  18 nhân vật chính trị, chính khách. &nbsp;Xin  được trích đoạn phần nhận xét trong mục kinh tế vì nó có phần nào liên can đến  câu chuyện cứu trợ tị nạn, và phản ảnh rõ nét  tình hình Nam VN trong năm gíúp gạo cho nhân dân Tây Tạng: </p>
-  <p>Trích từ bản <b>Tuyên Ngôn “Caravelle”</b>, (xem link: <a href="https://sachhiem.net/HOANHLINH/VNMLphlucD.php" target="_blank">https://sachhiem.net/HOANHLINH/VNMLphlucD.php</a></p>
+  <p>Trích từ bản <b>Tuyên Ngôn “Caravelle”</b>, (xem link: <a href="/HOANHLINH/VNMLphlucD" target="_blank">https://sachhiem.net/HOANHLINH/VNMLphlucD.php</a></p>
   <div class="indent50">
     <p><strong>VỀ  KINH TẾ VÀ XÃ HỘI…</strong> </p>
 <p>
@@ -96,10 +96,10 @@ image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/LICHSU/IMG/SACH/50na
   <p class="TacgiaL">Hoàng Văn Chưng Sơn</p>
             <p>____________</p>
           <p><b>Bài liên quan:</b></p>
-                   <p>- <a href="https://sachhiem.net/index.php?content=showemail&amp;id=660">Ai đã "nghe" Đức Dalai Lama 14 của Tây Tạng "tri ân" ông Diệm ra sao?</a> (Trần Quang Diệu) </p>
-          <p><a href="https://sachhiem.net/LICHSU/N/NguyenKha_01.php">- Đức Dalai Lama, Ông Ngô Đình Diệm Và Mặc Cảm Tội Lỗi Của Nhóm “Hoài Ngô”</a> (Nguyễn Kha) </p>
+                   <p>- <a href="/net/LICHSU/LEXNHUAN/LeXNhuan08">Ai đã "nghe" Đức Dalai Lama 14 của Tây Tạng "tri ân" ông Diệm ra sao?</a> (Trần Quang Diệu) </p>
+          <p><a href="/LICHSU/N/NguyenKha_01">- Đức Dalai Lama, Ông Ngô Đình Diệm Và Mặc Cảm Tội Lỗi Của Nhóm “Hoài Ngô”</a> (Nguyễn Kha) </p>
            <p>- <a href="https://changevietnam.wordpress.com/2014/08/28/tt-ngo-dinh-diem-da-tung-giup-gao-cho-dan-tay-tang-ty-nan-tai-an-do/">“<i>TT Ngô Đình Diệm đã từng giúp gạo cho dân Tây Tạng tỵ nạn tại Ấn Độ?</i></a>” (Trần Trung Đạo) trên Blog Chuyển Hóa Việt Nam: </p>
-          <p>- <a href="https://sachhiem.net/index.php?content=showrecipe&amp;id=6116">Post Scriptum (Đoạn Tái Bút) Của Một Bài Viết</a> (Nguyễn Kha) </p> 
-          <p>- <a href="https://sachhiem.net/index.php?content=showrecipe&amp;id=6118">Thư Gởi Ông Trần Trung Đạo: Về Việc Tổng Thống Ngô Đình Diệm Tặng Gạo Cho Nhân Dân Tậy Tạng</a> (Hoàng Văn Chưng Sơn) </p>
+          <p>- <a href="/LICHSU/N/NguyenKha_02">Post Scriptum (Đoạn Tái Bút) Của Một Bài Viết</a> (Nguyễn Kha) </p> 
+          <p>- <a href="/DOITHOAI/Hoangvchson">Thư Gởi Ông Trần Trung Đạo: Về Việc Tổng Thống Ngô Đình Diệm Tặng Gạo Cho Nhân Dân Tậy Tạng</a> (Hoàng Văn Chưng Sơn) </p>
 <div align="center"><div class="fb-share-button" data-layout="button" data-size="large" data-actiob="like" data-show-faces="true" data-share="true" data-mobile-iframe="true"></div>
 </div>

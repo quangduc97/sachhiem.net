@@ -3,16 +3,16 @@ layout: ../../../layouts/Article.astro
 title: "Tỷ phú Bồ Đào Nha dựng lại Phật tượng Bamiyan"
 author: "Gareth Harris/Phạm Thanh Trúc (dịch)"
 date: 2013-01-03
-source: "https://sachhiem.net/TONGIAO/tgP/PhThTruc.php"
+source: "/TONGIAO/tgP/PhThTruc"
 category: "Tác giả"
 lang: vi
 wordCount: 1030
-image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nha.jpg"
+image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/TONGIAO/IMG/PHAT/TuongPhat_Bamiyan_Afganistan.jpg"
 ---
 
 <table border="0" cellpadding="0" width="250" align="center">
       <tbody><tr>
-       <td width="125"><a href="/index"><img border="0" src="https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nha.jpg"></a></td>
+       <td width="125"></td>
        <td valign="middle">03-Jan-2013</td>
       </tr>
      </tbody></table>

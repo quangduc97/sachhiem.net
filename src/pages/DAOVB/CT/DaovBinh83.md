@@ -3,7 +3,7 @@ layout: ../../../layouts/Article.astro
 title: "Nhật Ký Biển Đông: Lãnh Đạo Có Nên Đôi Co Với Truyền Thông?"
 author: "Đào Văn Bình"
 date: 2017-03-15
-source: "https://sachhiem.net/DAOVB/CT/DaovBinh83.php"
+source: "/DAOVB/CT/DaovBinh83"
 category: "Chính trị"
 lang: vi
 wordCount: 6464

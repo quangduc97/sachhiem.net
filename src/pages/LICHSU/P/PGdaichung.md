@@ -2,7 +2,7 @@
 layout: ../../../layouts/Article.astro
 title: "PHAT GIAO DAI CHUNG - PHẬT GIÁO ĐẠI CHÚNG"
 author: "Phật Giáo Đại Chúng"
-source: "https://sachhiem.net/null"
+source: "/null"
 lang: vi
 wordCount: 785
 image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/LICHSU/IMG/spacer.gif"

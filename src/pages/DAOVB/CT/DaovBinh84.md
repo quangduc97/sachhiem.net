@@ -3,7 +3,7 @@ layout: ../../../layouts/Article.astro
 title: "Nhật Ký Biển Đông: Nên Hay Không Nên Có Vũ Khí Nguyên Tử?"
 author: "Đào Văn Bình"
 date: 2017-03-31
-source: "https://sachhiem.net/DAOVB/CT/DaovBinh84.php"
+source: "/DAOVB/CT/DaovBinh84"
 category: "Chính trị"
 lang: vi
 wordCount: 5516

@@ -3,7 +3,7 @@ layout: ../../../layouts/Article.astro
 title: "PHÚT THĂNG HOA"
 author: "Nguyễn Văn Thịnh"
 date: 2016-12-24
-source: "https://sachhiem.net/VANHOC/N/NguyenvThinh_PTHg.php"
+source: "/VANHOC/N/NguyenvThinh_PTHg"
 category: "Văn hóa"
 lang: vi
 wordCount: 11385
@@ -299,6 +299,6 @@ Họ đã thành chỗ thân tình.
 <p align="center"> (trang 404)</p>
 
 
-  <p align="center"><a href="https://www.sachhiem.net/"> <img border="0" src="https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nha.jpg"></a> ngày 24-Dec-2016</p>
+  <p align="center"> ngày 24-Dec-2016</p>
 <p>_________________ </p>
-<p>•  Các bài của Nguyễn Văn Thịnh: link <a href="https://sachhiem.net/VANHOC/N/ListNVTh.inc.php" target="_blank">https://sachhiem.net/VANHOC/N/ListNVTh.inc.php</a></p>
+<p>•  Các bài của Nguyễn Văn Thịnh: link <a href="/VANHOC/N/ListNVTh.inc" target="_blank">https://sachhiem.net/VANHOC/N/ListNVTh.inc.php</a></p>

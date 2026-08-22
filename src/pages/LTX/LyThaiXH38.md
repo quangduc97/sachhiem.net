@@ -3,7 +3,7 @@ layout: ../../layouts/Article.astro
 title: "Tháng 9, 2019 - Từ Hai Góc Trời, Hai Người Trẻ và Hai Mục Tiêu"
 author: "Lý Thái Xuân"
 date: 2019-09-22
-source: "https://sachhiem.net/LTX/LyThaiXH38.php"
+source: "/LTX/LyThaiXH38"
 category: "Xã hội"
 lang: vi
 wordCount: 1112

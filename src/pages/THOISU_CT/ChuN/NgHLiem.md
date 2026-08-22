@@ -2,7 +2,7 @@
 layout: ../../../layouts/Article.astro
 title: "OBAMA! OBAMA!"
 author: "Nguyễn Hữu Liêm"
-source: "https://sachhiem.net/null"
+source: "/null"
 category: "Chính trị"
 lang: en
 wordCount: 1936

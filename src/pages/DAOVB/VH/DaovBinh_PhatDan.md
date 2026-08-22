@@ -3,7 +3,7 @@ layout: ../../../layouts/Article.astro
 title: "Mơ Một Mùa Phật Đản"
 author: "Đào Văn Bình"
 date: 2019-05-04
-source: "https://sachhiem.net/DAOVB/VH/DaovBinh_PhatDan.php"
+source: "/DAOVB/VH/DaovBinh_PhatDan"
 category: "Tác giả"
 lang: vi
 wordCount: 2440

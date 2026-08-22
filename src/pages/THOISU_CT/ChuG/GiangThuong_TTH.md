@@ -3,7 +3,7 @@ layout: ../../../layouts/Article.astro
 title: "Tâm Thái “Trời Con” của Lãnh Đạo Trung Quốc"
 author: "Giang Thượng"
 date: 2014-06-12
-source: "https://sachhiem.net/THOISU_CT/ChuG/GiangThuong_TTH.php"
+source: "/THOISU_CT/ChuG/GiangThuong_TTH"
 category: "Tác giả"
 lang: vi
 wordCount: 1565

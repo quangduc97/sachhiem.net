@@ -2,13 +2,12 @@
 layout: ../../../layouts/Article.astro
 title: "TỪNG BƯỚC THỬ NGHIỆM"
 author: "Minh Mẫn"
-source: "https://sachhiem.net/MINHMAN/Tongiao/MinhManTG14.php"
+source: "/MINHMAN/Tongiao/MinhManTG14"
 lang: vi
 wordCount: 1682
-image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nha.jpg"
 ---
 
-<p align="center"><a href="https://www.sachhiem.net/"> <img border="0" src="https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nha.jpg"> </a> 13 tháng 9, 2007 </p>
+<p align="center"> 13 tháng 9, 2007 </p>
 <p> <b><font size="4">Đ</font></b>ể chuẩn bị chuyến sang VN của SePe tháng 12 năm 
 			2005, toàn bộ các giáo xứ trên lãnh thổ VN có những sự biến ngỡ như 
 			vô tình, nhưng nhịp nhàng, ăn khớp nhau một cách nghệ thuật.

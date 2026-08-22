@@ -3,7 +3,7 @@ layout: ../../../layouts/Article.astro
 title: "Ngô Đình Diệm chẳng thể nào là chí sĩ, hay là người có công gì của dân Việt"
 author: "Trần Khách Quan"
 date: 2016-11-06
-source: "https://sachhiem.net/THOISU_CT/ChuK/Khachquan_06.php"
+source: "/THOISU_CT/ChuK/Khachquan_06"
 category: "Chính trị"
 lang: vi
 wordCount: 1864

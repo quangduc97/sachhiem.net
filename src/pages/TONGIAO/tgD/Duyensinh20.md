@@ -3,7 +3,7 @@ layout: ../../../layouts/Article.astro
 title: "Không Có Người Minh Hương Nước Việt Nam Không Có Miền Nam"
 author: "Duyên Sinh"
 date: 2018-07-04
-source: "https://sachhiem.net/TONGIAO/tgD/Duyensinh20.php"
+source: "/TONGIAO/tgD/Duyensinh20"
 category: "Tác giả"
 lang: vi
 wordCount: 1081

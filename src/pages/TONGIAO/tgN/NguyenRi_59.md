@@ -3,17 +3,14 @@ layout: ../../../layouts/Article.astro
 title: "Lộ Diện Bộ Mặt Bỉ Ổi, Thối Tha Của Vatican"
 author: "Ri Nguyễn"
 date: 2022-08-13
-source: "https://sachhiem.net/TONGIAO/tgN/NguyenRi_59.php"
+source: "/TONGIAO/tgN/NguyenRi_59"
 category: "Tác giả"
 lang: vi
 wordCount: 782
-image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nha.jpg"
+image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/TONGIAO/IMG/TINHDUC/Francis2.jpg"
 ---
 
-<p align="center"><a href="https://www.sachhiem.net/">
-  <img border="0" src="https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nha.jpg"></a> 
-   </p> 
-    <div class="tomluoc">
+<div class="tomluoc">
   <p><i>LTS:  Thỉnh thoảng tác giả Ri Nguyễn tập trung vài bản tin cùng chủ đề để bạn đọc dễ nhìn thấy bức tranh toàn cảnh của các sinh hoạt tâm linh của giáo triều Vatican. Lần khác là các tuyên bố của các giáo hoàng phủ nhận Thiên Đàng, hỏa ngục, Giáng Sinh, Đức Mẹ lên trời,... Lần này, các đối sách về vấn nạn giáo sĩ dâm (SH)</i></p>
     </div>
 <p align="center"><img src="https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/TONGIAO/IMG/TINHDUC/Francis2.jpg" width="400" height="250" alt=""></p>
@@ -42,4 +39,4 @@ Updated 11:23 AM ET, Tue December 17, 2019
 <p class="TacgiaL">Ri Nguyễn </p>
 <p>_____________________</p>
  <p><b>Các bài của Nguyễn Ri:</b></p>
- <p> <a href="https://sachhiem.net/TONGIAO/tgN/ListRiNguyen.inc.php" target="_blank">https://sachhiem.net/TONGIAO/tgN/ListRiNguyen.inc.php</a></p>
+ <p> <a href="/TONGIAO/tgN/ListRiNguyen.inc" target="_blank">https://sachhiem.net/TONGIAO/tgN/ListRiNguyen.inc.php</a></p>

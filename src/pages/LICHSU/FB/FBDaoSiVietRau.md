@@ -3,7 +3,7 @@ layout: ../../../layouts/Article.astro
 title: "Tập Cận Bình: Giáo Dục Là Thánh Đường, Không Phải Để Kinh Doanh"
 author: "Đạo Sĩ Việt Râu"
 date: 2026-05-05
-source: "https://sachhiem.net/LICHSU/FB/FBDaoSiVietRau.php"
+source: "/LICHSU/FB/FBDaoSiVietRau"
 category: "Chính trị"
 lang: vi
 wordCount: 17088

@@ -3,7 +3,7 @@ layout: ../../../layouts/Article.astro
 title: "Những Chuyện Kể Của PHGV"
 author: "Phượng Hoàng GV"
 date: 2022-05-30
-source: "https://sachhiem.net/LICHSU/P/PhuongHoang21.php"
+source: "/LICHSU/P/PhuongHoang21"
 category: "Lịch sử"
 lang: vi
 wordCount: 3870
@@ -138,5 +138,5 @@ image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/THOISU_CT/Hinh/NGOAI
 <p>- <a href="https://www.france24.com/en/20090611-japan-suffers-historic-fall-gdp-">Japan suffers historic fall in GDP (france24.com)</a>11/6/2009</p>
 <p>-  <a href="https://www.relocatemagazine.com/news/mixed-reaction-in-wake-of-g7-summit-dsapsted-0621">Mixed reaction in wake of G7 summit (relocatemagazine.com/)</a>, 14/6/2021</p>
 <hr> 
-<p>Các chuyện kể của Phượng Hoàng Gò Vấp: link <a href="https://sachhiem.net/LICHSU/P/ListPHGV.inc.php" target="_blank">https://sachhiem.net/LICHSU/P/ListPHGV.inc.php</a></p>  
+<p>Các chuyện kể của Phượng Hoàng Gò Vấp: link <a href="/LICHSU/P/ListPHGV.inc" target="_blank">https://sachhiem.net/LICHSU/P/ListPHGV.inc.php</a></p>  
   <hr>

@@ -3,13 +3,12 @@ layout: ../../../layouts/Article.astro
 title: "Công Giáo Huyền Thoại và Tội Ác"
 author: "Charlie Nguyễn"
 date: 2012-10-15
-source: "https://sachhiem.net/CHARLIE/CN_CGHT/jehovah.php"
+source: "/CHARLIE/CN_CGHT/jehovah"
 lang: vi
 wordCount: 3055
-image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nha.jpg"
 ---
 
-<p align="center"><a href="/index"><img hspace="20" border="0" src="https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nha.jpg"></a><b><font face="Symbol" size="5"><a target="_top" href="/CHARLIE/CN_CGHT/CN_CGHTdir">¿</a></font></b> trở ra mục lục | 15-Oct-2012</p>
+<p align="center"><b><font face="Symbol" size="5"><a target="_top" href="/CHARLIE/CN_CGHT/CN_CGHTdir">¿</a></font></b> trở ra mục lục | 15-Oct-2012</p>
 <p class="TuaDoLeft">THIÊN CHÚA JEHOVAH CỦA ĐẠO DO THÁI MAI-SEN (MOSAIC JUDAISM) </p>
 <p>Kinh thánh Do Thái Genesis (18:23)* kể rằng: Sau khi Abraham và Isaac chết, nước Israel dưới sự cai quản của Jacob bị lâm vào nạn hạn hán mất mùa khiến nhiều người chết đói. Jacob dẫn dân Israel di cư đến vùng đồng bằng phì nhiêu Goshen, phía Bắc Ai Cập giáp Địa Trung Hải. Họ định cư tại đây và toàn dân đoàn kết nhất trí theo một tôn giáo thờ Thiên Chúa
 Elohim (Bull). Cuộc sống của họ diễn ra trong hòa bình và thịnh vượng, kéo dài được hơn 300 năm. Vào năm 1580 trước Công Nguyên, đất nước của họ bị Ai Cập xâm chiếm và đô hộ. Hơn hai thế kỷ sau, vào đầu thế kỷ 13 trước Công Nguyên, vua Ramses của Ai Cập (1304-1237 TCN) với tham vọng xây dựng Kim Tự Tháp và nhiều đền đài dinh thự đã ra lệnh bắt toàn dân Israel làm nô lệ. Dân tộc Israel bỗng nhiên trở thành một tập đoàn lao

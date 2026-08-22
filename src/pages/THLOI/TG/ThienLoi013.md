@@ -3,7 +3,7 @@ layout: ../../../layouts/Article.astro
 title: "Ki-tô Giáo Và Đạo Hiếu Truyền Thống Của Dân Việt"
 author: "Thánh Lu-ke"
 date: 2018-12-30
-source: "https://sachhiem.net/THLOI/TG/ThienLoi013.php"
+source: "/THLOI/TG/ThienLoi013"
 category: "Tác giả"
 lang: vi
 wordCount: 5375
@@ -121,7 +121,7 @@ image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/TONGIAO/IMG/CHURCH/D
 <p>  Dec. 2018</p>
  <p>______________</p>
  <p><b>Bài đọc thêm:</b></p>
- <p>- <a href="https://sachhiem.net/LTX/LythaiDT02.php">Phản Hồi Nick Bình Nguyễn - Đừng Bắt Chước Công Giáo </a>(Lý Thái Xuân)</p>
+ <p>- <a href="/LTX/LythaiDT02">Phản Hồi Nick Bình Nguyễn - Đừng Bắt Chước Công Giáo </a>(Lý Thái Xuân)</p>
  <p>______________</p>
  <p><b>Nhận xét:</b></p>
  <p>On Tuesday, January 1, 2019,  2:33:48 PM PST, Mát Tha &lt;---&gt; wrote:</p>

@@ -2,7 +2,7 @@
 layout: ../../../layouts/Article.astro
 title: "Mẹ Teresa"
 author: "nhiều tác giả"
-source: "https://sachhiem.net/(The Missionary Position: Mother Teresa in Theory and in Practice)"
+source: "/(The Missionary Position: Mother Teresa in Theory and in Practice)"
 category: "Tác giả"
 lang: vi
 wordCount: 10500

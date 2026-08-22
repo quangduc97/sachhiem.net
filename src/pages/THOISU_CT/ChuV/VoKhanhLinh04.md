@@ -3,7 +3,7 @@ layout: ../../../layouts/Article.astro
 title: "Lại Cái Sự Tiếm Danh"
 author: "Võ Khánh Linh"
 date: 2012-08-08
-source: "https://sachhiem.net/THOISU_CT/ChuV/VoKhanhLinh04.php"
+source: "/THOISU_CT/ChuV/VoKhanhLinh04"
 category: "Chính trị"
 lang: vi
 wordCount: 1079

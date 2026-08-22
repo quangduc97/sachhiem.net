@@ -2,13 +2,13 @@
 layout: ../../layouts/Article.astro
 title: "VIETNAM WHY DID WE GO?"
 author: "AVRO MANHATTAN"
-source: "https://sachhiem.net/SACHNGOAI/Ydidwego.php"
+source: "/SACHNGOAI/Ydidwego"
 lang: en
 wordCount: 2883
-image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nha.jpg"
+image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/SACHNGOAI/Hinhanh/BIASACH/Vietnam.jpg"
 ---
 
-<p align="center"><a href="https://www.sachhiem.net/"> <img border="0" src="https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nha.jpg"></a>| <a target="_blank" href="/SACHNGOAI/Ydidwego#Contents">&nbsp;<font face="Symbol" size="5">¿</font>  Xem Mục Lục</a> | đăng ngày 12 tháng 2, 2009
+<p align="center">| <a target="_blank" href="/SACHNGOAI/Ydidwego#Contents">&nbsp;<font face="Symbol" size="5">¿</font>  Xem Mục Lục</a> | đăng ngày 12 tháng 2, 2009
 	</p>
 		<p align="center"><img height="97" alt="Vietnam why did we go?" src="https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/SACHNGOAI/Hinhanh/BIASACH/Vietnam.jpg" width="291"></p>
 		<center><img height="96" alt="cross1.jpg (4721 bytes)" src="https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/SACHNGOAI/Hinhanh/BIASACH/why.jpg" width="149"></center>
@@ -39,7 +39,7 @@ image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nha.jpg"
 				the Papacy. His books were #1 on the <em>Forbidden Index </em>
 				for the past 50 years!!</font></p>
 				<p class="TuaDenLeft">
-				<a href="https://sachhiem.net/SACHNGOAI/AVRO/avro.htm">
+				<a href="/SACHNGOAI/AVRO/avro">
 				More About the Author:</a></p>
 
 		<hr width="30%" size="1">
@@ -69,7 +69,7 @@ image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nha.jpg"
 		</ul>
 		<p class="TuaChuong"><a name="Contents">Contents</a></p>
 		&nbsp;<p><font size="4">
-				<a href="https://sachhiem.net/SACHNGOAI/AVRO/publish.htm">Publisher's 
+				<a href="/SACHNGOAI/AVRO/publish">Publisher's 
 				Foreword</a></font>
 				</p>
 				<p><a href="/SACHNGOAI/file:///C:/SACHHIEM/SACHNGOAI/AVRO/Preface">
@@ -77,7 +77,7 @@ image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nha.jpg"
 				
 				</p>
 				<p class="TuaChuong">
-				<a href="https://sachhiem.net/SACHNGOAI/AVRO/Chapter1.htm">
+				<a href="/SACHNGOAI/AVRO/Chapter1">
 				<font>Chapter 1</font></a></p>
 				<p align="center"><font color="#ff0000" size="4">
 				<u>Preliminaries.</u></font></p>
@@ -96,7 +96,7 @@ image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nha.jpg"
 
 
 				<p align="center" class="TuaChuong">
-				<a href="https://sachhiem.net/SACHNGOAI/AVRO/Chapter2.htm">Chapter 2</a></p>
+				<a href="/SACHNGOAI/AVRO/Chapter2">Chapter 2</a></p>
 				<p align="center"><font color="#ff0000" size="4">
 				<u>The Vatican-American Grand Alliance</u></font></p>
 				<p align="left"><font size="3">Reasons Which Prompted the U.S. to Commit Herself to the War in 
@@ -111,7 +111,7 @@ image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nha.jpg"
 
 
 				<p class="TuaChuong">
-				<a href="https://sachhiem.net/SACHNGOAI/AVRO/Chapter3.htm">Chapter 3</a></p>
+				<a href="/SACHNGOAI/AVRO/Chapter3">Chapter 3</a></p>
 				<p align="center"><font color="#ff0000" size="4">
 				<u>Fatimaization of the West</u></font></p>
 				<p align="left"><font size="3">Religious and Ideological Preliminaries to the Vietnamese War.<br>
@@ -125,7 +125,7 @@ image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nha.jpg"
 
 			
 				<p class="TuaChuong">
-				<a href="https://sachhiem.net/SACHNGOAI/AVRO/Chapter4.htm">Chapter 4</a></p>
+				<a href="/SACHNGOAI/AVRO/Chapter4">Chapter 4</a></p>
 				<p align="center"><font color="#ff0000" size="4">
 				<u>The Pope's Blessing for a Preventive War</u></font></p>
 				<p align="left"><font size="3">The Secretary of the U.S. Navy, Secret Chamberlain of the Pope, 
@@ -140,7 +140,7 @@ image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nha.jpg"
 
 				
 				<p class="TuaChuong">
-				<a href="https://sachhiem.net/SACHNGOAI/AVRO/Chapter5.htm">Chapter 5</a></p>
+				<a href="/SACHNGOAI/AVRO/Chapter5">Chapter 5</a></p>
 				<p align="center"><font color="#ff0000" size="4">
 				<u>The Miraculous Zig-Zagging Sun</u></font></p>
 				<p align="left"><font>Pope Pius XII Uses Religious 
@@ -158,7 +158,7 @@ image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nha.jpg"
 
 
 				<p class="TuaChuong">
-				<a href="https://sachhiem.net/SACHNGOAI/AVRO/Chapter6.htm">Chapter 6</a></p>
+				<a href="/SACHNGOAI/AVRO/Chapter6">Chapter 6</a></p>
 				<p align="center"><font color="#ff0000" size="4">
 				<u>The Pope's "Preventive War" Miscarries.</u></font></p>
 				<p align="left"><font>U.S. Admirals, Generals and 
@@ -179,7 +179,7 @@ image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nha.jpg"
 
 
 				<p class="TuaChuong">
-				<a href="https://sachhiem.net/SACHNGOAI/AVRO/Chapter7.htm">Chapter 7</a></p>
+				<a href="/SACHNGOAI/AVRO/Chapter7">Chapter 7</a></p>
 				<p align="center"><font color="#ff0000" size="4">
 				<u>The Men Behind the Vietnamese War.</u></font></p>
 				<p align="left"><font>Politicians, Generals, and 
@@ -199,7 +199,7 @@ image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nha.jpg"
 
 
 				<p class="TuaChuong">
-				<a href="https://sachhiem.net/SACHNGOAI/AVRO/Chapter8.htm">Chapter 8</a></p>
+				<a href="/SACHNGOAI/AVRO/Chapter8">Chapter 8</a></p>
 				<p align="center"><font color="#ff0000" size="4">
 				<u>The Virgin Mary Goes South.</u></font></p>
 				<p align="left"><font>The Catholic Imponderable in 
@@ -224,7 +224,7 @@ image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nha.jpg"
 
 
 				<p class="TuaChuong">
-				<a href="https://sachhiem.net/SACHNGOAI/AVRO/Chapter9.htm">Chapter 9</a></p>
+				<a href="/SACHNGOAI/AVRO/Chapter9">Chapter 9</a></p>
 				<p align="center"><font color="#ff0000" size="4">
 				<u>The Pius-Spellman-Dulles Secret Scheme.</u></font></p>
 				<p align="left"><font>The U.S. Taxpayer Finances 
@@ -245,7 +245,7 @@ image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nha.jpg"
 
 
 				<p class="TuaChuong">
-				<a href="https://sachhiem.net/SACHNGOAI/AVRO/Chapter10.htm">Chapter 10</a></p>
+				<a href="/SACHNGOAI/AVRO/Chapter10">Chapter 10</a></p>
 				<p align="center"><font color="#ff0000" size="4">
 				<u>The Promotion of Catholic Totalitarianism.</u></font></p>
 				<p align="left"><font>"Individuals Considered 
@@ -263,7 +263,7 @@ image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nha.jpg"
 
 
 				<p class="TuaChuong">
-				<a href="https://sachhiem.net/SACHNGOAI/AVRO/Chapter11.htm">Chapter 11</a></p>
+				<a href="/SACHNGOAI/AVRO/Chapter11">Chapter 11</a></p>
 				<p align="center"><font color="#ff0000" size="4">
 				<u>Consolidation of Terrorism</u></font></p>
 				<p align="left"><font>Anti-Protestant Legislation - 
@@ -286,7 +286,7 @@ image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nha.jpg"
 
 
 				<p class="TuaChuong">
-				<a href="https://sachhiem.net/SACHNGOAI/AVRO/Chapter12.htm">Chapter 12</a></p>
+				<a href="/SACHNGOAI/AVRO/Chapter12">Chapter 12</a></p>
 				<p align="center"><font color="#ff0000"><u>A CIA 
 				Spy Plane Cancels a Summit Meeting</u></font></p>
 				<p align="left"><font>The Cardinal Spellman War 
@@ -306,7 +306,7 @@ image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nha.jpg"
 
 
 				<p class="TuaChuong">
-				<a href="https://sachhiem.net/SACHNGOAI/AVRO/Chapter13.htm">Chapter 13</a></p>
+				<a href="/SACHNGOAI/AVRO/Chapter13">Chapter 13</a></p>
 				<p align="center"><font color="#ff0000" size="4">
 				<u>The Vatican Attempts to Prevent Peace</u></font></p>
 				<p align="left"><font>Pope John XXIII Rejects 
@@ -326,7 +326,7 @@ image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nha.jpg"
 				"Unlimited"commitment in Vietnam.</font>
 
 				</p><p class="TuaChuong">
-				<a href="https://sachhiem.net/SACHNGOAI/AVRO/Chapter14.htm">Chapter 14</a></p>
+				<a href="/SACHNGOAI/AVRO/Chapter14">Chapter 14</a></p>
 				<p align="center"><font color="#ff0000" size="4">
 				<u>Religious Persecutions and Suicides by Fire</u></font></p>
 				<p align="left"><font>World Opinion Forces U.S. to 
@@ -345,7 +345,7 @@ image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nha.jpg"
 
 
 				<p class="TuaChuong">
-				<a href="https://sachhiem.net/SACHNGOAI/AVRO/Chapter15.htm">Chapter15</a></p>
+				<a href="/SACHNGOAI/AVRO/Chapter15">Chapter15</a></p>
 				<p align="center"><font color="#ff0000" size="4">
 				<u>End of the Catholic Dictatorship</u></font></p>
 				<p align="left"><font>Assassinations of Two 
@@ -366,7 +366,7 @@ image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nha.jpg"
 
 
 				<p class="TuaChuong"><font>
-				<a href="https://sachhiem.net/SACHNGOAI/AVRO/Chapter16.htm">
+				<a href="/SACHNGOAI/AVRO/Chapter16">
 				Chapter 16</a> </font></p>
 				<p align="center"><font color="#ff0000" size="4">
 				<u>Catholic Expansionism in Southeast Asia in the 19th Century</u></font></p>
@@ -383,7 +383,7 @@ image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nha.jpg"
 				Vietnam during the last century.</font>
 
 				</p><p class="TuaChuong"><font>
-				<a href="https://sachhiem.net/SACHNGOAI/AVRO/Chapter17.htm">
+				<a href="/SACHNGOAI/AVRO/Chapter17">
 				Chapter 17</a> </font></p>
 				<p align="center"><font color="#ff0000" size="4">
 				<u>Early History of Catholic Power in Siam and China</u></font></p>
@@ -401,7 +401,7 @@ image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nha.jpg"
 				China.</font></p>
 
 				<p class="TuaChuong">
-				<a href="https://sachhiem.net/SACHNGOAI/AVRO/Chapter18.htm">
+				<a href="/SACHNGOAI/AVRO/Chapter18">
 				<font>Chapter 18</font></a></p>
 				<p align="center"><font color="#ff0000" size="4">
 				<u>History of Catholic Aggressiveness in Japan</u></font></p>
@@ -426,7 +426,7 @@ image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nha.jpg"
 
 
 				<p class="TuaChuong">
-				<a href="https://sachhiem.net/SACHNGOAI/AVRO/Chapter19.htm">
+				<a href="/SACHNGOAI/AVRO/Chapter19">
 				<font>Chapter 19</font></a></p>
 				<p align="center"><font color="#ff0000" size="4">
 				<u>Creation of a Dangerous Alliance</u></font></p>
@@ -442,7 +442,7 @@ image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nha.jpg"
 				trio which helped the U.S. into the war in Vietnam.</font>
 
 				</p><p class="TuaChuong">
-				<a href="https://sachhiem.net/SACHNGOAI/AVRO/Chapter20.htm">
+				<a href="/SACHNGOAI/AVRO/Chapter20">
 		<font>Chapter 20</font></a></p>
 				<p align="center"><font color="#ff0000" size="4">
 				<u>The Two Catholic Presidents and a Revolutionary Pope</u></font></p>
@@ -464,7 +464,7 @@ image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nha.jpg"
 
 
 				<p class="TuaChuong">
-				<a href="https://sachhiem.net/SACHNGOAI/AVRO/Chapter21.htm">
+				<a href="/SACHNGOAI/AVRO/Chapter21">
 				<font>Chapter 21</font></a></p>
 				<p align="center"><u><font color="#ff0000" size="4">Secret Deal Between the Pope and the Communists of North Vietnam.</font></u></p>
 				<p><font>The Vatican Prepares for a United Marxist 
@@ -479,7 +479,7 @@ image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nha.jpg"
 				Chi Minh outfoxes the pope.</font></p>
 
 				<p class="TuaChuong">
-				<a href="https://sachhiem.net/SACHNGOAI/AVRO/Chapter22.htm">
+				<a href="/SACHNGOAI/AVRO/Chapter22">
 				<font>Chapter 22</font></a></p>
 				<p align="center"><font color="#ff0000" size="4">
 				<u>The Final Disaster</u></font></p>

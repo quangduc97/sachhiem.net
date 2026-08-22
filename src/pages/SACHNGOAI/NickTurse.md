@@ -2,17 +2,16 @@
 layout: ../../layouts/Article.astro
 title: "Mỗi Tháng Một Mỹ Lai!"
 author: "Nick Turse"
-source: "https://sachhiem.net/Source: https://www.thenation.com/doc/20081201/turse"
+source: "/Source: https://www.thenation.com/doc/20081201/turse"
 lang: vi
 wordCount: 6241
-image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nha.jpg"
+image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/SACHNGOAI/Hinhanh/OperationXpress.jpg"
 ---
 
 <p class="Tuaduoi">A My Lai a Month  </p>
 		
 		
-<p align="center"><a href="https://www.sachhiem.net/">
-	<img hspace="20" border="0" src="https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nha.jpg"></a> 23 Nov 08</p>
+<p align="center"> 23 Nov 08</p>
  	
  		<p><i>LTS: Nick Turse là biên tập viên liên hợp và giám đốc nghiên cứu của mạng Tomdispatch.com. Ông là tác giả của quyển "The Complex: How the Military Invades Our Everyday Lives and a Forthcoming History of US War Crimes in Vietnam, Kill Anything That Moves." (Sự Phức Tạp: Quân Sự Đã Xâm Chiếm Đời Sống Thường Nhật của Chúng Ta Bằng Cách Nào, và  Một Lịch Sử Tội Phạm Chiến Tranh của Hoa Kỳ ở Việt Nam, Giết Bất kỳ Cái Gì Nhúc Nhích.) Ba đoạn đầu của bài này được thân hữu Lý Thái Xuân chuyển Việt như sau.
 .</i></p>

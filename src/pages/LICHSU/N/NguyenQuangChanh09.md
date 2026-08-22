@@ -3,7 +3,7 @@ layout: ../../../layouts/Article.astro
 title: "Ra Mắt Cuốn Sách Của Tướng Tình Báo Sáu Trí"
 author: "Nguyễn Quang Chánh giới thiệu"
 date: 2024-04-28
-source: "https://sachhiem.net/LICHSU/N/NguyenQuangChanh09.php"
+source: "/LICHSU/N/NguyenQuangChanh09"
 category: "Chính trị"
 lang: vi
 wordCount: 554

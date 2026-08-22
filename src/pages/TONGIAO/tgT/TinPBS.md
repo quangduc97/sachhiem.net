@@ -2,11 +2,11 @@
 layout: ../../../layouts/Article.astro
 title: "Phim về Cuộc đời Đức Phật"
 author: "PBS - BBC & Discovery"
-source: "https://sachhiem.net/null"
+source: "/null"
 category: "Tác giả"
 lang: vi
 wordCount: 1513
-image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nha.jpg"
+image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/ball.GIF"
 ---
 
 <div align="center" style="position: relative; left: 0; top: 0">
@@ -25,8 +25,7 @@ image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nha.jpg"
 <tr><td width="100%">
 <div style="padding-left: 50px; padding-right: 50px"> 
 	<table border="0" cellpadding="1" width="87%" cols="2"><tbody><tr>
-	<td><a href="/index">
-	<img border="0" src="https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nha.jpg"></a></td>
+	<td></td>
 <td valign="top" width="192"><p>06 tháng 4, 2010	</p>
 </td></tr></tbody></table>
 

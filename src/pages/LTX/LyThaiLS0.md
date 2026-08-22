@@ -3,7 +3,7 @@ layout: ../../layouts/Article.astro
 title: "Những Ý Nghĩa Trong Đồng Dollar Mỹ"
 author: "Lý Thái Xuân"
 date: 2013-06-12
-source: "https://sachhiem.net/LTX/LyThaiLS0.php"
+source: "/LTX/LyThaiLS0"
 category: "Lịch sử"
 lang: vi
 wordCount: 1351

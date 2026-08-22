@@ -7,12 +7,11 @@ source: "https://xichloviet.wordpress.com/2012/02/06/m%e1%bb%99t-ki%e1%bb%83u-d%
 category: "Đối thoại"
 lang: vi
 wordCount: 1741
-image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nha.jpg"
+image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/THOISU_CT/Hinh/CCCB/Chutattien.jpg"
 ---
 
 <table border="0" align="center" cellpadding="1" width="250"><tbody><tr>
-	<td width="234"><a href="https://www.sachhiem.net/">
-	<img border="0" src="https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nha.jpg"></a></td>
+	<td width="234"></td>
 <td valign="top" width="356">	</td></tr></tbody></table>
 
 		  <p>“<i>Bất cứ ai muốn phản bác hay phủ nhận những sự kiện lịch sử này xin
@@ -34,7 +33,7 @@ image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nha.jpg"
 		    sách cực đoan thì cũng chỉ là chửi bới moi móc để hạ nhục người khác không
 		    hề có thiện chí, không hề có chứng cớ và lý luận tối thiểu.</p>
 		  <p class="PicRgt"><img src="https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/THOISU_CT/Hinh/CCCB/Chutattien.jpg" width="140" height="167"></p>
-		  <p>Chu Tất Tiến là một người như thế. (dẫn thư "<a href="https://sachhiem.net/index.php?content=showemail&amp;id=49">Tại
+		  <p>Chu Tất Tiến là một người như thế. (dẫn thư "<a href="/net/index">Tại
 		      sao bọn họ chống Tôn Giáo?</a>" của Bac Ky Di Cu, aka, Chu Tất Tiến: https://sachhiem.net/index.php?content=showemail&amp;id=49).
 		      Hắn là con chiên cờ vàng di cư cuồng tín, và dĩ nhiên con chiên này có
 		      mối thâm thù cộng sản tận xương tủy. Những bài viết của hắn luôn lồng
@@ -91,8 +90,8 @@ image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nha.jpg"
 		    mạ cá nhân và những lời ca ngợi chúa của hắn thì những bài gọi là bài “phản
 		    biện” của hắn chỉ còn tờ giấy trắng.</p>
 		  <p>Thế giới phẳng ngày nay người ta rất dễ dàng kiểm chứng được ông Trần
-		    Chung Ngọc,    (xem <a href="https://sachhiem.net/TCN/Ndir.php">https://sachhiem.net/TCN/Ndir.php</a>),
-		    và Nguyễn Mạnh Quang (xem <a href="https://sachhiem.net/NMQ/Qdir.php">https://sachhiem.net/NMQ/Qdir.php</a>)
+		    Chung Ngọc,    (xem <a href="/TCN/Ndir">https://sachhiem.net/TCN/Ndir.php</a>),
+		    và Nguyễn Mạnh Quang (xem <a href="/NMQ/Qdir">https://sachhiem.net/NMQ/Qdir.php</a>)
 		    là ai, đã
 		    viết những gì, và có gì sai chỉ bằng một cú click chuột . Một con
 		    chiên u mê như Chu Tất Tiến khi thấy có ai chọc vào cái đức tin của

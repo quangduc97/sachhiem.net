@@ -3,18 +3,17 @@ layout: ../../layouts/Article.astro
 title: "Bước Mở Đầu Của Sự Thiết Lập Hệ Thống Thuộc Địa Pháp Ở Việt Nam"
 author: "TS Nguyễn Xuân Thọ"
 date: 2023-02-13
-source: "https://sachhiem.net/NGXUANTHO/BuocMoDau_01.php"
+source: "/NGXUANTHO/BuocMoDau_01"
 category: "Lịch sử"
 lang: vi
 wordCount: 2295
-image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nha.jpg"
+image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/LICHSU/IMG/PHAPTHUOC/Bando_thoiPhapthuoc1.jpg"
 ---
 
 <p class="Tuaduoi">Dẫn Nhập</p>
 
 
- <p align="center"><a href="https://www.sachhiem.net/">
-<img border="0" src="https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nha.jpg"></a>| <a target="_blank" href="https://sachhiem.net/NGXUANTHO/BuocMoDau_Main.php"><span lang="en-us"><b><font face="Symbol">¿</font></b></span> trở ra mục lục</a>| 13-Feb-2023</p>
+ <p align="center">| <a target="_blank" href="/NGXUANTHO/BuocMoDau_Main"><span lang="en-us"><b><font face="Symbol">¿</font></b></span> trở ra mục lục</a>| 13-Feb-2023</p>
  <div class="tomluoc">
    <p><i>Mãi đến nay, lịch sử nước Việt Nam đã được những nhà sử học người Pháp biên soạn và nhất là về thời kỳ liên quan đến chế độ thực dân, nó đã được viết theo quan điểm người Pháp</i></p>
  </div>

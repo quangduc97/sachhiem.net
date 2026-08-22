@@ -3,7 +3,7 @@ layout: ../../../layouts/Article.astro
 title: "Những Điều Vô Cùng Kỳ Thú Ở Khu Du Lịch Đại Nam"
 author: "Đông Anh"
 date: 2013-09-06
-source: "https://sachhiem.net/XAHOI/xhD/DaiNamQT.php"
+source: "/XAHOI/xhD/DaiNamQT"
 category: "Tác giả"
 lang: vi
 wordCount: 2681

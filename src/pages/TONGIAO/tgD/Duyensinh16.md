@@ -2,14 +2,12 @@
 layout: ../../../layouts/Article.astro
 title: "Tại Sao Các Giáo Hoàng Đã Từng Tẩy Chay Hai Quyển Kinh Thánh?"
 author: "Duyên Sinh"
-source: "https://sachhiem.net/TONGIAO/tgD/Duyensinh15.php"
+source: "/TONGIAO/tgD/Duyensinh15"
 category: "Tác giả"
 lang: vi
 wordCount: 1562
-image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nha.jpg"
 ---
 
-<p align="center"><a href="/TONGIAO/index"><img hspace="20" border="0" src="https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nha.jpg"></a> </p>
 <div class="tomluoc">
  <p><i>"...Năm 1229 Vatican xếp kinh thánh vào loại “sách cấm đọc” (Forbidden Books) do Hội đồng Toulouse/Toledo ban hành. Hai quyển kinh thánh Cựu và Tân ước bị khóa chặt cho tới ngày chấm dứt cuộc họp Cộng đồng Vatican II năm 1960, thì người Công giáo mới được phép đọc."</i> (DS)</p>
 </div>
@@ -59,7 +57,7 @@ image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nha.jpg"
 <p>Người  Công giáo muốn bàn chuyền “hòa đồng liên tôn” thì trước tiên cần phải  công khai vất bỏ cuốn Kinh Thánh mà họ xem như lời của Chúa toàn  năng. Xin chuyển một vài ý kiến về cuốn Kinh Thánh này như một sự  góp ý. </p>
 <p class="TacgiaL">
   Trần  Tiên Long </p>
-<p><a href="https://sachhiem.net/index.php?content=showemail&amp;id=1515">(Xin đọc các thư liên hệ) ---&gt; </a></p>
+<p><a href="/hop-thu/1515">(Xin đọc các thư liên hệ) ---&gt; </a></p>
 <p>Nguồn: emails</p>
           <hr>
  <p align="center"> <b class="MUC">Mục Lục   Duyên Sinh</b></p>

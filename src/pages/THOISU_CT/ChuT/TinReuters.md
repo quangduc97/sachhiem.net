@@ -2,7 +2,7 @@
 layout: ../../../layouts/Article.astro
 title: "Dọa Sẽ Tóm Cổ Giáo Hoàng"
 author: "Peter Griffiths; Editing by Michael Roddy /Reuters"
-source: "https://sachhiem.net/null"
+source: "/null"
 category: "Tác giả"
 lang: vi
 wordCount: 940

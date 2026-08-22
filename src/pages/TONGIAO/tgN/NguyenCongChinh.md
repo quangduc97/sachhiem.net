@@ -2,10 +2,10 @@
 layout: ../../../layouts/Article.astro
 title: "Hoa Gì Nếu Không Là Hoa Sen? (Nguyễn Trí Cảm)"
 author: "sachhiem"
-source: "https://sachhiem.net/null"
+source: "/null"
 lang: vi
 wordCount: 587
-image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nha.jpg"
+image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/IMG/BGGIAO/Gift.jpg"
 ---
 
 <div align="center">
@@ -13,8 +13,7 @@ image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nha.jpg"
 	<tbody><tr>
 	<td valign="top">
 	<div style="padding-left: 40px; padding-right: 40px">	
-<p>	<a href="/index">
-<img border="0" src="https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nha.jpg"></a></p>
+
 
 		<i>From: Toasoan</i><br><i>To: Nguyen Tri Cam		
 		<br>Sent: Friday, December 25, 2009 11:31 AM

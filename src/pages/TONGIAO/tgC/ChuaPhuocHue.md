@@ -3,7 +3,7 @@ layout: ../../../layouts/Article.astro
 title: "CỘNG ĐỘNG PHẬT GIÁO VIỆT NAM TACOMA, PIERCE COUNTY"
 author: "TRUNG TÂM VĂN HÓA PHẬT GIÁO VIỆT NAM - CHÙA PHƯỚC HUỆ"
 date: 2014-01-28
-source: "https://sachhiem.net/TONGIAO/tgC/ChuaPhuocHue.php"
+source: "/TONGIAO/tgC/ChuaPhuocHue"
 category: "Tác giả"
 lang: vi
 wordCount: 690

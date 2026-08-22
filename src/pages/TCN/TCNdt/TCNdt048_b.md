@@ -2,15 +2,15 @@
 layout: ../../../layouts/Article.astro
 title: "Luận Điệu Phi Dân Tộc của Kẻ Phản Dân Tộc"
 author: "Trần Chung Ngọc"
-source: "https://sachhiem.net/TCN/TCNdt/TCNdt048_b.php"
+source: "/TCN/TCNdt/TCNdt048_b"
 category: "Đối thoại"
 lang: vi
 wordCount: 1350
-image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.devhttps://sachhiem.net/images/nha.jpg"
+image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/LICHSU/IMG/VNwar/America_inVN_ByDrJohnGuilmartin_p69_TranVDon.jpg"
 ---
 
 <table border="0" width="250" align="center">
-    <tbody><tr><td width="106"><a href="https://sachhiem.net/index.php"><img border="0" src="https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.devhttps://sachhiem.net/images/nha.jpg"></a>    </td>
+    <tbody><tr><td width="106">    </td>
 <td valign="top" width="210"><p>28 tháng 9, 2010</p></td></tr></tbody></table>
 	
 <p><b>&nbsp;<a href="/TCN/TCNdt048">&nbsp;1&nbsp;</a><a href="/TCN/TCNdt048_a"> 2&nbsp;</a><a href="/TCN/TCNdt048_b"><span style="background-color: #800000"><font color="#FFFFFF"> 3&nbsp;</font></span></a></b></p>

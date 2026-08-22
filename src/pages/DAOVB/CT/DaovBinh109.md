@@ -3,7 +3,7 @@ layout: ../../../layouts/Article.astro
 title: "Nhật Ký Biển Đông: Hoa Lục Có Dám Phong Tỏa Hay Tấn Công Đài Loan?"
 author: "Đào Văn Bình"
 date: 2018-05-01
-source: "https://sachhiem.net/DAOVB/CT/DaovBinh109.php"
+source: "/DAOVB/CT/DaovBinh109"
 category: "Chính trị"
 lang: vi
 wordCount: 7359

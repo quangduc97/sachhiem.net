@@ -2,7 +2,7 @@
 layout: ../../../layouts/Article.astro
 title: "Việt Nam Ngày Nay Radio"
 author: "Sách Hiếm"
-source: "https://sachhiem.net/(https://www.VietNamNgayNayRadio.com)"
+source: "/(https://www.VietNamNgayNayRadio.com)"
 category: "Chính trị"
 lang: vi
 wordCount: 356

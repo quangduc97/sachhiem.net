@@ -2,7 +2,7 @@
 layout: ../../../layouts/Article.astro
 title: "Hai Bản Tuyên Ngôn Cho Lịch Sử Nhân Văn"
 author: "Don sưu tầm"
-source: "https://sachhiem.net/null"
+source: "/null"
 category: "Chính trị"
 lang: vi
 wordCount: 1403

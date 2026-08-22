@@ -2,14 +2,14 @@
 layout: ../../../../layouts/Article.astro
 title: "NGƯỜI VIỆT NAM & “ĐẠO GIÊ-SU”"
 author: "Trần Chung Ngọc và Nguyễn Mạnh Quang hợp soạn"
-source: "https://sachhiem.net/TCN/TCNtg/DAOGIESU/TCN_NMQ.php"
+source: "/TCN/TCNtg/DAOGIESU/TCN_NMQ"
 category: "Tác giả"
 lang: vi
 wordCount: 729
-image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nha.jpg"
+image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/TONGIAO/IMG/Toakham/DaoGiesu1.jpg"
 ---
 
-<p align="center"><a href="https://sachhiem.net/index.php"><img hspace="20" border="0" src="https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nha.jpg"></a> 06 tháng 1, 2008</p>
+<p align="center"> 06 tháng 1, 2008</p>
      <center>
       <img border="0" src="https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/TONGIAO/IMG/Toakham/DaoGiesu1.jpg">
      </center>

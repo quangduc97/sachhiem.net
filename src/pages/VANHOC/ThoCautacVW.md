@@ -3,16 +3,15 @@ layout: ../../layouts/Article.astro
 title: "TÂM SỰ CỜ VÀNG"
 author: "Thơ Cẩu Tặc (VietWeekly)"
 date: 2011-11-25
-source: "https://sachhiem.net/null"
+source: "/null"
 category: "Văn hóa"
 lang: vi
 wordCount: 764
-image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nha.jpg"
+image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/LICHSU/TONY/ThaoChay/Coiquanphuc.jpg"
 ---
 
 <table border="0" cellpadding="10" width="80%" cols="2" style="padding-left: 30px; padding-right: 30px"><tbody><tr>
-	        <td width="184"><a href="/index">
-	          <img border="0" src="https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nha.jpg"></a></td>				
+	        <td width="184"></td>				
 	    <td valign="top" width="221">25-Nov-2011</td>
 	      </tr></tbody></table>
  <p>Việt Weekly đăng ngày: 21:15 12-04-2008<br> 

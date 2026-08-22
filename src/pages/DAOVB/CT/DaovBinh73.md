@@ -3,7 +3,7 @@ layout: ../../../layouts/Article.astro
 title: "Nhật Ký Biển Đông: Mỹ Phải Thay Đổi Chính Sách Đối Với Phi Luật Tân"
 author: "Đào Văn Bình"
 date: 2016-09-02
-source: "https://sachhiem.net/DAOVB/CT/DaovBinh73.php"
+source: "/DAOVB/CT/DaovBinh73"
 category: "Chính trị"
 lang: vi
 wordCount: 5476

@@ -3,7 +3,7 @@ layout: ../../../layouts/Article.astro
 title: "Ký Giả Wilfred Burchett Viết Về Cụ Hồ Chí Minh"
 author: "Trần Chung Ngọc"
 date: 2018-05-18
-source: "https://sachhiem.net/TCN/TCNls/TCNls04_Burchett.php"
+source: "/TCN/TCNls/TCNls04_Burchett"
 lang: vi
 wordCount: 1040
 image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/SACHNGOAI/Hinhanh/BIASACH/HCM_appre.JPG"

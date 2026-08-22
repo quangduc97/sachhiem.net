@@ -3,7 +3,7 @@ layout: ../../layouts/Article.astro
 title: "ALEXANDRE DE RHODES & VẤN ĐỀ CHỮ QUỐC NGỮ"
 author: "Bùi Kha"
 date: 2018-07-12
-source: "https://sachhiem.net/BUIKHA/BuiKha_Rhodes_7.php"
+source: "/BUIKHA/BuiKha_Rhodes_7"
 category: "Lịch sử"
 lang: vi
 wordCount: 12688
@@ -164,7 +164,7 @@ image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/LICHSU/IMG/ALEX/Fren
 <p>_______________</p>
  <p><b><i>Các  bài đọc thêm</i></b></p>
 <p>  <i>- Bùi Kha, <a href="https://tongiaovadantoc.com/c0/20111217221441534/gop-y-voi-gs-chuong-thau-ve-van-de-alexandre-de-rhodes-chu-quoc-ngu-bui-kha.htm">Alexandre  de Rhodes và chữ Quốc ngữ, Biện chính với Giáo sư Chương Thâu</a></i></p>
-<p>  <i>- Bùi Kha, <a href="https://sachhiem.net/BUIKHA/BuiKha25.php">Đắc Lộ, Trương Vĩnh Ký &amp; chữ  Quốc ngữ của tác giả Minh Vân</a></i></p>
+<p>  <i>- Bùi Kha, <a href="/BUIKHA/BuiKha25">Đắc Lộ, Trương Vĩnh Ký &amp; chữ  Quốc ngữ của tác giả Minh Vân</a></i></p>
 <p>  <i>- An Chi, Huệ  Thiên, <a href="https://tunguyenhoc.wordpress.com/2012/07/20/khong-la-linh-thi-la-gi-nang-luong-moi-so-135-6-7-2012-an-chi-hue-thien/">Không  là lính thì là gì? </a></i></p>
 <p>  <i>- An Chi, <a href="https://www.daophatngaynay.com/vn/dien-dan/doi-thoai/5269-Alexandre-de-Rhodes-khong-phai-la-nguoi-sang-tao-ra-chu-Viet-.html">Alexandre  de Rhodes không phải là người sáng tạo ra chữ Việt?</a></i></p>
 <p>  <i>- Bùi Kha, <a href="https://www.talawas.org/talaDB/showFile.php?res=6987&amp;rb=0302">Alexandre  de Rhodes - Đối luận với tác giả Hoàng Hưng</a></i></p>
@@ -172,17 +172,17 @@ image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/LICHSU/IMG/ALEX/Fren
 <p>  <i>- Bùi Kha, <a href="https://www.talawas.org/talaDB/showFile.php?res=7095&amp;rb=0505">Alexandre  de Rhodes, chữ Quốc ngữ và quan điểm chính trị</a></i></p>
 <p>  <i>- Đậu Kỷ Luật, <a href="https://www.ngheandost.gov.vn/JournalDetail/ar2149_Co_phai_chi_Alexandre_de_Rhodes_la_cha_de_cua_chu_Quoc_ngu.aspx">Có  phải chỉ Alexandre de Rhodes là cha đẻ của chữ Quốc ngữ</a>?</i></p>
 <p>  <i>- Charlie  Nguyễn, Alexandre De Rhodes và chữ Quốc ngữ </i></p>
-<p>  <i> - Trần  Chung Ngọc, <a href="https://sachhiem.net/TCN/TCNdt/TCNdt070.php">Giáo sĩ Đắc Lộ  &amp; chữ Quốc ngữ của tác giả Minh Vân</a></i></p>
-<p>  <i>- Bùi Kha, <a href="https://sachhiem.net/BUIKHA/BuiKha25.php">Giáo sĩ Đắc Lộ &amp; chữ Quốc ngữ </a></i></p>
-<p>  <i>- Nguyễn  Mạnh Quang, <a href="https://sachhiem.net/NMQ/NMQ040.php">Phải làm gì đối với  tình trạng vinh danh những Việt gian?</a> </i></p>
+<p>  <i> - Trần  Chung Ngọc, <a href="/TCN/TCNdt/TCNdt070">Giáo sĩ Đắc Lộ  &amp; chữ Quốc ngữ của tác giả Minh Vân</a></i></p>
+<p>  <i>- Bùi Kha, <a href="/BUIKHA/BuiKha25">Giáo sĩ Đắc Lộ &amp; chữ Quốc ngữ </a></i></p>
+<p>  <i>- Nguyễn  Mạnh Quang, <a href="/NMQ/NMQ040">Phải làm gì đối với  tình trạng vinh danh những Việt gian?</a> </i></p>
 <p>  <i>- Huỳnh Ái  Tông, <a href="https://chimviet.free.fr/ngonngu/phuctrun/phul050.htm">Nguồn gốc  chữ Quốc ngữ</a> </i></p>
 <p>  <i>- Bùi Kha,  Alexandre de Rhodes, Công và Tội</i></p>
 <p>  <i>- Bùi Kha, <a href="https://huongsenviet.blogspot.com/2009/07/chu-quoc-ngu-va-quan-iem-chinh-tri.html">Chữ  Quốc ngữ và quan điểm chính trị</a></i></p>
-<p>  <i>- Bùi Kha, <a href="https://sachhiem.net/BUIKHA/BuiKha27_Alex.php">Alexandre De Rhodes - Những  nhầm lẫn đáng tiếc</a></i></p>
+<p>  <i>- Bùi Kha, <a href="/BUIKHA/BuiKha27_Alex">Alexandre De Rhodes - Những  nhầm lẫn đáng tiếc</a></i></p>
 <p>___________________</p>
 <p>    <a href="/BUIKHA/#_ftnref1" name="_ftn1">(1) </a>. Bài đăng trên website: <a href="https://www.talawas.org">www.talawas.org</a></p>
 <p>    Ngoài ra, bài trên đây có  thể tìm đọc tại link:</p>
-<p>    <a href="https://sachhiem.net/BUIKHA/BuiKha27_Alex.php">https://sachhiem.net/BUIKHA/</a>    </p><p><a href="/BUIKHA/#_ftnref2" name="_ftn2">(2) </a>. Theo bài viết của GS. Chương Thâu có tựa  đề “Từ một câu chữ của Alexandre de Rhodes đến các dẫn dụng khác nhau”, đăng  trong <i>Nguyệt san Công giáo</i> trong nước, sau đó cũng được đăng trong <i>Nguyệt  san Hiệp Nhất</i> số 43, tháng 7, 1996, California, Hoa Kỳ, từ nay xin gọi là <i>Hiệp  Nhất</i>.</p>
+<p>    <a href="/BUIKHA/BuiKha27_Alex">https://sachhiem.net/BUIKHA/</a>    </p><p><a href="/BUIKHA/#_ftnref2" name="_ftn2">(2) </a>. Theo bài viết của GS. Chương Thâu có tựa  đề “Từ một câu chữ của Alexandre de Rhodes đến các dẫn dụng khác nhau”, đăng  trong <i>Nguyệt san Công giáo</i> trong nước, sau đó cũng được đăng trong <i>Nguyệt  san Hiệp Nhất</i> số 43, tháng 7, 1996, California, Hoa Kỳ, từ nay xin gọi là <i>Hiệp  Nhất</i>.</p>
      <p><a href="/BUIKHA/#_ftnref3" name="_ftn3">(3) </a><i>Từ điển Việt Bồ-La</i>, phần  Việt ngữ, Nxb. Khoa học xã hội,  TP. Hồ  Chí Minh, 1991, tr. 3. </p>
      <p><a href="/BUIKHA/#_ftnref4" name="_ftn4">(4) </a>. <i>Hành trình và truyền giáo</i>, Ủy ban  Ðoàn kết Công giáo, TP. Hồ Chí Minh, 1994, tr.263. </p>
     <p><a href="/BUIKHA/#_ftnref5" name="_ftn5">(5) </a>. <i>Hành trình và truyền giáo</i>, sđd,  tr.289. </p>

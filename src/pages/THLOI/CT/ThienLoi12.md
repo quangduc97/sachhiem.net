@@ -3,16 +3,16 @@ layout: ../../../layouts/Article.astro
 title: "Những Bàn Tay Lông Lá Của Quỷ"
 author: "Thiên Lôi"
 date: 2013-01-22
-source: "https://sachhiem.net/THLOI/CT/ThienLoi12.php"
+source: "/THLOI/CT/ThienLoi12"
 category: "Chính trị"
 lang: vi
 wordCount: 6966
-image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nha.jpg"
+image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/THOISU_CT/Hinh/GUATEMALA/Guatamala_Arbenz.jpg"
 ---
 
 <table border="0" cellpadding="0" width="250" align="center">
 		  <tbody><tr>
-	<td width="125"><a href="/index"><img border="0" src="https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nha.jpg"></a></td>
+	<td width="125"></td>
     <td valign="top">22-Jan-2013</td>
 		</tr></tbody></table>
 <p class="tomluoc"><i>Chính vì những  hành động xảo quyệt, ngôn hành bất nhất mà ngày nay không còn mấy nước tin vào  những lời đường mật của chính phủ Hoa Kỳ nữa. Lãnh đạo các nước bạn, thù  hay trung lập với Mỹ dù không ưa gì Mỹ nhưng không thể sống thiếu Mỹ; đành phải  giao tiếp với dè chừng bởi bọn tư bản chỉ cần lợi nhuận, không cần đạo đức nhãm  nhí. Do đó mà thân phận các nước nhỏ  đều tùy thuộc vào sự khôn ngoan của chính sách ngoại giao đối với các nước lớn,  càng tránh được chiến tranh càng tốt mà tồn tại.</i> (Thiên Lôi)</p>

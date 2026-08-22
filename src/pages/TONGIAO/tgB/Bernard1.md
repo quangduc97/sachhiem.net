@@ -2,17 +2,17 @@
 layout: ../../../layouts/Article.astro
 title: "Thánh Kinh Chủ Đề"
 author: "Sưu Tập của Bernard Chang"
-source: "https://sachhiem.net/TONGIAO/tgB/Bernard1.php"
+source: "/TONGIAO/tgB/Bernard1"
 category: "Tác giả"
 lang: vi
 wordCount: 16650
-image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nha.jpg"
+image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/TONGIAO/IMG/TINHDUC/LOANLUAN.jpg"
 ---
 
-<p align="center"><a href="https://www.sachhiem.net/"> <img border="0" src="https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nha.jpg"></a> đăng 07 OCT 08, bổ túc sau cùng 2021</p>
+<p align="center"> đăng 07 OCT 08, bổ túc sau cùng 2021</p>
    <div class="tomluoc">
   <p><i>LTS: Bernard Chang thuộc thế hệ trẻ, vì không muốn nghe người ta bài bác "tôn giáo khác", nên đã bỏ công nghiên cứu về thánh kinh, nhất là cựu ước. Nhờ đó anh đã tìm được những điều "thú vị". </i></p>
-  <p> Danh sách ban đầu được cập nhật tháng 12, năm 2018. Xin đọc thêm danh sách các trích dẫn trong bài viết <a href="https://www.sachhiem.net/TCN/TCNtg/3NGOI/TCN64_1.php"><i>"Đây! Thiên Chúa Của Những Người Theo Đạo Thiên Chúa</i>" của GS Trần Chung Ngọc</a>.  </p>
+  <p> Danh sách ban đầu được cập nhật tháng 12, năm 2018. Xin đọc thêm danh sách các trích dẫn trong bài viết <a href="/TCN/TCNtg/3NGOI/TCN64_1"><i>"Đây! Thiên Chúa Của Những Người Theo Đạo Thiên Chúa</i>" của GS Trần Chung Ngọc</a>.  </p>
   <p>Cập nhật mới, tháng 4, 2020: Các tên sách của bên Tin Lành và Ca-tô Rô-ma (CG) có thể khác nhau, nhưng nội dung giống hệt. Người dịch bên CG thay đổi tên sách.</p>
  <p>- 
     Sách Phục Truyền Luật Lệ thì bên CG gọi là Đệ Nhị Luật (Deuteronomy, <a href="https://bible.usccb.org/bible/deuteronomy/0">CGLM cũng có link tiếng Anh</a>). </p>
@@ -37,7 +37,7 @@ image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nha.jpg"
 <p>7. <a href="/TONGIAO/#giandoi" title="7">Chúa dạy GIAN DỐI</a>  </p>
 
 <p>8. <a href="/TONGIAO/#nguyen" title="8">  Chúa Cha nguyền rủa kinh hoàng (Lv 26:14-46)</a></p>
-<p>8.1 <a href="https://www.facebook.com/groups/CaToRoMa/posts/1389152698421043/">Chúa Con chửi rủa</a> không kém Chúa Cha (<a href="https://sachhiem.net/index.php?content=showemail&amp;id=3756">sưu tầm của Lê Phát Đạt</a>)</p>
+<p>8.1 <a href="https://www.facebook.com/groups/CaToRoMa/posts/1389152698421043/">Chúa Con chửi rủa</a> không kém Chúa Cha (<a href="/com/permalink">sưu tầm của Lê Phát Đạt</a>)</p>
 <p>9. <a href="/TONGIAO/#gươm giáo" title="9">  Chúa Trời tiêu diệt các tôn giáo khác, gây hận thù cho người.</a>   </p>
 <p>10. <a href="/TONGIAO/#giet">Chúa giết người,</a> <a href="/TONGIAO/#dich"> Chúa tạo dịch bệnh </a></p>
 <p>11. <a href="/TONGIAO/#hieusat" title="11">Chúa hiếu sát, thù cá nhân, xúi giục loài người đánh nhau, chém giết, cướp bóc, hãm hiếp gái trinh!
@@ -524,7 +524,7 @@ image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nha.jpg"
 <p class="TuaDoLeft">14.d Giáo Hoàng bất hiếu </p>
 <p><span class="sub">Giáo Hoàng Paul IV (1555-59) tuyên bố:</span></p>
 <p><span class="sub"> <i>"Nếu bố tôi là dị giáo đồ, tôi cũng sẽ chụm củi thiêu sống ông ta luôn.</i>" [Pope Paul IV declared: "<i>If my own father were a heretic, I would personally gather the wood to burn him</i>"] (<a href="https://www.raptureforums.com/roman-catholicism/mystery-babylon-part-3/">https://www.raptureforums.com/roman-catholicism/mystery-babylon-part-3/</a>, E. Christopher Reyes viết trong cuốn "IN HIS NAME" Volume 4, <a href="https://books.google.com/books?id=HCucAwAAQBAJ&amp;pg=PA453&amp;lpg=PA453&amp;dq=Pope+Paul+IV+declared:+%22If+my+own+father+were+a+heretic,+I+would+personally+gather+the+wood+to+burn+him%22&amp;source=bl&amp;ots=xSuWrLL3JA&amp;sig=YKHCqaD0FCv9R38Ud2Tt71lmw2g&amp;hl=en&amp;sa=X&amp;ved=2ahUKEwiD14TZ9KrfAhVFx1QKHed7ANcQ6AEwAHoECAEQAQ#v=onepage&amp;q=Pope%20Paul%20IV%20declared%3A%20%22If%20my%20own%20father%20were%20a%20heretic%2C%20I%20would%20personally%20gather%20the%20wood%20to%20burn%20him%22&amp;f=false">Note on page 453</a>)</span></p>
-<p>Đấy, đạo hiếu của Ki-tô giáo do Chúa Cha Chúa Con mang lại cho dân Việt là như thế. Xin đọc thêm bài của Ri Nguyễn <a href="https://sachhiem.net/TONGIAO/tgN/NguyenRi_33.php">"Nhân Vu Lan..."</a></p>
+<p>Đấy, đạo hiếu của Ki-tô giáo do Chúa Cha Chúa Con mang lại cho dân Việt là như thế. Xin đọc thêm bài của Ri Nguyễn <a href="/TONGIAO/tgN/NguyenRi_33">"Nhân Vu Lan..."</a></p>
 <p>_______________</p>
 
 <p class="TuaDoLeft">15. Các “Thánh” Kitô  Nhận Định  Về Phụ Nữ Thế Nào?</p>
@@ -550,11 +550,11 @@ image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nha.jpg"
 <p>_______________</p>
 
 <p class="TuaDoLeft">17. Các giáo hoàng xét lại các niềm tin:</p>
-<p>- <a href="https://sachhiem.net//LTX/LythaiTG26.php">Giáo Hoàng John Paul II định nghĩa lại về Thiên Đàng.</a></p>
+<p>- <a href="//LTX/LythaiTG26.php">Giáo Hoàng John Paul II định nghĩa lại về Thiên Đàng.</a></p>
 <p>Chỉ một năm sau, tháng 7, 1999, trước những khám phá xác tín nhất của khoa vũ trụ học, và trước những hiểu biết của con người ngày nay về cấu trúc của trái đất, Giáo Hoàng đã bắt buộc phải tuyên bố:&nbsp;</p>
 <p><i>"thiên đường không phải là một nơi trừu tượng mà cũng chẳng phải là một nơi cụ thể ở trên các tầng mây”</i>&nbsp;[Heaven is neither an abstraction nor a physical place in the clouds], và&nbsp;</p>
 <p><i>“Hỏa ngục không phải là sự trừng phạt áp đặt từ bên ngoài bởi Thượng đế, mà là trạng thái hậu quả của những thái độ và hành động mà con người đã làm trong đời này”</i>&nbsp;[Hell is not a punishment imposed externally by God, but the condition resulting from attitudes and actions which people adopt in this life]</p>
-<p>Đọc thêm: <a href="https://sachhiem.net/TCN/TCNtg/TCN09.php">Vài Nét Về Sự Suy Thoái Của Ki-tô Giáo Ở Tây Phương</a> (Trần Chung Ngọc)</p>
+<p>Đọc thêm: <a href="/TCN/TCNtg/TCN09">Vài Nét Về Sự Suy Thoái Của Ki-tô Giáo Ở Tây Phương</a> (Trần Chung Ngọc)</p>
 <p>- <a href="https://www.nytimes.com/1996/10/25/world/pope-bolsters-church-s-support-for-scientific-view-of-evolution.html ">Giáo Hoàng John Paul II chấp nhận Thuyết Tiến Hóa</a></p>
 <p>Giáo Hoàng John Paul II phát biểu năm 1996: <i>Thân xác con người có thể không phải là sự sáng tạo tức thời của Thượng đế, mà là kết quả của một quá trình tiến hóa dần dần..</i>.[&nbsp;human body may not have been the immediate creation of God, but is the product of a gradual process of evolution] </p>
 <p><i>Những kiến thức mới nhất dẫn đến việc phải chấp nhận Thuyết Tiến Hóa hơn chỉ là một giả thuyết.</i>["Fresh knowledge leads to recognition of the theory of evolution as more than just a hypothesis."]</p>
@@ -562,7 +562,7 @@ image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nha.jpg"
 <p>Giáo Hoàng Francis đã nói về kinh nghiệm của ông trong những vấn đề khủng hoảng đức tin và nói về những <i>"khoảnh khắc trống rỗng"</i>, đồng thời nhấn mạnh rằng ông là một <i>"người tội lỗi"</i> và <i>"sai lầm"</i> trong một cuộc phỏng vấn với một tờ báo của Đức. Khi được tờ báo Đức Die Zeit hỏi liệu ông đã từng nghi ngờ sự hiện hữu của Thợng Đế, vị Giáo Hoàng nói, <i>"Tôi nghi ngờ, trong những khoảnh khắc trống rỗng."</i></p>
 <p>[“Empty moments”: Pope Francis has questioned God’s existence, calls himself a “sinner” (Dịch: “<i>Những khoảnh khắc trống rỗng</i>”: Giáo hoàng Francis đã nghi ngờ về sự hiện hữu của Thượng Đế, tự coi mình là “người tội lỗi” Published time: 9 Mar, 2017 13:36 Edited time: 10 Mar, 2017 13:05]</p>
 <p>Đọc thêm:</p>
-<p><a href="https://sachhiem.net/index.php?content=showemail&amp;id=1613">Nếu Thiên Chúa là Đấng sáng tạo, thì tại sao Thiên Chúa lại nói như thế này? </a>(Ri Nguyễn)</p>
+<p><a href="/hop-thu/1613">Nếu Thiên Chúa là Đấng sáng tạo, thì tại sao Thiên Chúa lại nói như thế này? </a>(Ri Nguyễn)</p>
 <p>_______________</p>
 
 <p class="TuaDoLeft">18. Mẹ Maria có đồng trinh không?</p>
@@ -602,7 +602,7 @@ image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nha.jpg"
   <a href="/TONGIAO/#21" title="Ucchau"> </a></p>
 <p class="TuaDoLeft">21. Úc Đề Nghị Các Nhà Thờ Ca-tô Rô-ma Giáo Phải Gắn Bảng Cảnh Báo</p>
 <p>Nic Frances Gilley, một chính trị gia thành viên Hội Đồng Thành Phố Melbourne (Úc), đề nghị buộc các nhà thờ Ca-tô Rô-ma Giáo phải tuân thủ luật mới bắt buộc của tỉnh Victoria phải báo cáo lạm dụng (tình dục), hoặc phải gắn một tấm bảng lớn trước cửa nhà thờ cảnh báo các bậc cha mẹ rằng nhà thờ có thể gây nguy hiểm cho trẻ em.</p>
-<p>Báo The Age nói rằng ông Gilley đang yêu cầu nhà nước&nbsp;<i>"viết thư cho tất cả các nhà thờ và nơi thờ phượng yêu cầu đảm bảo rằng tất cả nhân viên và cộng sự sẽ<strong>&nbsp;tuân thủ luật bắt buộc báo cáo</strong></i>" và nếu họ không có những cam kết đó thì nhà nước sẽ dựng lên các biển báo thích hợp (<a href="https://sachhiem.net/TONGIAO/tgT/TinNewsWeek01.php">xem SH</a>)</p>
+<p>Báo The Age nói rằng ông Gilley đang yêu cầu nhà nước&nbsp;<i>"viết thư cho tất cả các nhà thờ và nơi thờ phượng yêu cầu đảm bảo rằng tất cả nhân viên và cộng sự sẽ<strong>&nbsp;tuân thủ luật bắt buộc báo cáo</strong></i>" và nếu họ không có những cam kết đó thì nhà nước sẽ dựng lên các biển báo thích hợp (<a href="/TONGIAO/tgT/TinNewsWeek01">xem SH</a>)</p>
 <p><img src="https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/TONGIAO/IMG/TINHDUC/Canhbao_LM.jpg" width="400" height="371" alt=""></p>
 <p>_________________ </p>
 
@@ -618,6 +618,6 @@ image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nha.jpg"
 <p class="TuaDoLeft">23. Chủ đề: Xin Làm Súc Vật</p>
 <p>"<i>Xin Chúa hãy lùa tôi vào một đoàn cùng các con chiên Chúa.</i>" NK 721). </p>
 <p>"<i>Vì công nghiệp Đức Mẹ chuyển cầu, xin cho cả dân Đông Dương (Indochine Francaise) thảy nên một ràn cùng một kẻ chăn</i>" (NK 170-172).</p>
-<p><b>SH ghi chú:</b> NK = Nhật Khóa. Các kinh này được đọc thời tác giả Charlie Nguyễn còn đi đạo. Trích trong quyển <a href="https://www.sachhiem.net/CHARLIE/CN_CGTBVT/CN_CGTBVT_9.php"><i>Công Giáo Trên Bờ Vực Thẳm,</i> Phần II, mục 5: Tác hại Nguy Hiểm Của Các Sách Kinh Công Giáo</a>.</p>
+<p><b>SH ghi chú:</b> NK = Nhật Khóa. Các kinh này được đọc thời tác giả Charlie Nguyễn còn đi đạo. Trích trong quyển <a href="/CHARLIE/CN_CGTBVT/CN_CGTBVT_9"><i>Công Giáo Trên Bờ Vực Thẳm,</i> Phần II, mục 5: Tác hại Nguy Hiểm Của Các Sách Kinh Công Giáo</a>.</p>
 
 	<p><a href="/CacbaiBC555">► Các bài Bernard Chang:</a></p>

@@ -3,7 +3,7 @@ layout: ../../../layouts/Article.astro
 title: "Nhạc Sĩ Phạm Duy"
 author: "Dương Kinh Thành"
 date: 2013-01-28
-source: "https://sachhiem.net/VANHOC/DKTH/DgKinhThanh05.php"
+source: "/VANHOC/DKTH/DgKinhThanh05"
 category: "Văn hóa"
 lang: vi
 wordCount: 1206

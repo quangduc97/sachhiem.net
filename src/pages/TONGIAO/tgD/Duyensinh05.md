@@ -2,17 +2,16 @@
 layout: ../../../layouts/Article.astro
 title: "Ch Bản"
 author: "DuyênSinh"
-source: "https://sachhiem.net/TONGIAO/tgD/Duyensinh05.php"
+source: "/TONGIAO/tgD/Duyensinh05"
 category: "Tác giả"
 lang: vi
 wordCount: 562
-image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nha.jpg"
 ---
 
 <p class="Tuaduoi">Một am</p>
 
  
- <p align="center"><a href="/TONGIAO/index"><img hspace="20" border="0" src="https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nha.jpg"></a></p>
+ 
  <p align="center"><b>Tội Ác Của Vatican: Vất Đứa Bé Tin Lành  Xuống Sông</b> </p>
 <p>
   <b>Bằng Mũi Giáo Đâm Vào Bụng&nbsp;&nbsp;  &nbsp;&nbsp;&nbsp;</b></p>

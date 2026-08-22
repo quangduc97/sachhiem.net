@@ -1,7 +1,7 @@
 ---
 layout: ../../../layouts/Article.astro
 title: "Hoàng cuối tuần"
-source: "https://sachhiem.net/null"
+source: "/null"
 lang: vi
 wordCount: 392
 ---

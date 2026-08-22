@@ -3,7 +3,7 @@ layout: ../../../layouts/Article.astro
 title: "Triển Vọng Giải Quyết Hòa Bình Bằng Thương Nghị, Hòa Giải Hay Tài Phán"
 author: "L.S. Tạ Văn Tài"
 date: 2014-07-28
-source: "https://sachhiem.net/THOISU_CT/ChuT/TaVanTai-01.php"
+source: "/THOISU_CT/ChuT/TaVanTai-01"
 category: "Chính trị"
 lang: vi
 wordCount: 11020
@@ -177,4 +177,4 @@ image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/THOISU_CT/Hinh/TS_HS
   <p class="TacgiaL"> Tạ Văn Tài </p>
   <p class="nguonL">18.7.2014</p>
    <p>____________________</p>
-   <p><a href="https://sachhiem.net/LICHSU/H/HoangSa_list.php">Các bài về Hoàng Sa- Trường Sa đăng trên sachhiem.net » </a></p>
+   <p><a href="/LICHSU/H/HoangSa_list">Các bài về Hoàng Sa- Trường Sa đăng trên sachhiem.net » </a></p>

@@ -3,7 +3,7 @@ layout: ../../../layouts/Article.astro
 title: "“Kinh Thánh Chống Kinh Thánh”"
 author: "Ngô đắc Triết"
 date: 2011-11-26
-source: "https://sachhiem.net/null"
+source: "/null"
 category: "Tác giả"
 lang: vi
 wordCount: 2411

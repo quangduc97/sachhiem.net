@@ -3,7 +3,7 @@ layout: ../../../layouts/Article.astro
 title: "Nguyễn Huệ - Và Nguyễn Ánh - Hai Thái Cực Trong Lịch Sử Dân Tộc."
 author: "Nguyễn Thanh Tuấn"
 date: 2025-11-13
-source: "https://sachhiem.net/LICHSU/N/NguyenThanhTuan08.php"
+source: "/LICHSU/N/NguyenThanhTuan08"
 category: "Xã hội"
 lang: vi
 wordCount: 1903

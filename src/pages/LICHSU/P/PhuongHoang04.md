@@ -3,7 +3,7 @@ layout: ../../../layouts/Article.astro
 title: "Những Chuyện Kể Của Phượng Hoàng GV"
 author: "Phượng Hoàng GV"
 date: 2015-11-06
-source: "https://sachhiem.net/LICHSU/P/PhuongHoang04.php"
+source: "/LICHSU/P/PhuongHoang04"
 category: "Lịch sử"
 lang: vi
 wordCount: 2682
@@ -78,5 +78,5 @@ image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/TONGIAO/IMG/BIBLE/Da
      <b>Subject:</b> Re: [GoiDan] Gò Vấp hăm Đốt nhà thờ..Chúa Phạt đó nghe---Re:  Why....Tôi Khôg dám Đốt nhờ thờ catholic----Re: NIỀM HÃNH DIỆN CỦA NGƯỜI CÔNG  GIÁO-GOP GIO VÕ VĂN SÁU: LỘ MẶT LÀ THẰNG GIA NÔ VIỆT CỘNG </p>
    <p>&nbsp; [SH- chửi tục lắm, không đáng nghe chữ nào] </p>
 <p>___________________________________</p>
- <p>Các chuyện kể của Phượng Hoàng Gò Vấp: link <a href="https://sachhiem.net/LICHSU/P/ListPHGV.inc.php" target="_blank">https://sachhiem.net/LICHSU/N/ListPHGV.inc.php</a></p>  
+ <p>Các chuyện kể của Phượng Hoàng Gò Vấp: link <a href="/LICHSU/P/ListPHGV.inc" target="_blank">https://sachhiem.net/LICHSU/N/ListPHGV.inc.php</a></p>  
   <hr>

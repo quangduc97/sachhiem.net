@@ -2,16 +2,16 @@
 layout: ../../layouts/Article.astro
 title: "Hồng Y Francis Spellman và chiến tranh Việt Nam"
 author: "Trần Thị Vĩnh Tường"
-source: "https://sachhiem.net/TRTVT/TTVT_LS01.php"
+source: "/TRTVT/TTVT_LS01"
 category: "Chính trị"
 lang: vi
 wordCount: 4967
-image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nha.jpg"
+image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/LICHSU/IMG/VNwar/MemorialWall.jpg"
 ---
 
 <table border="0" cellpadding="0" width="250" align="center">
             <tbody><tr>
-              <td width="125"><a href="/index"><img border="0" src="https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nha.jpg"></a></td>
+              <td width="125"></td>
 			<td valign="top" style="text-align:right">27 tháng 10, 2010,  
 			updated 08Nov2010
 		</td></tr></tbody></table>

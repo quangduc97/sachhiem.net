@@ -3,7 +3,7 @@ layout: ../../../layouts/Article.astro
 title: "Chính Trị Của Mỹ Vốn Rất Bẩn Thỉu"
 author: "Mi-Lu Dau"
 date: 2020-06-02
-source: "https://sachhiem.net/THOISU_CT/ChuM/MiLuDau_09.php"
+source: "/THOISU_CT/ChuM/MiLuDau_09"
 category: "Chính trị"
 lang: vi
 wordCount: 2061

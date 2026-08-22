@@ -2,15 +2,14 @@
 layout: ../../../layouts/Article.astro
 title: "Ngày 10 Tháng 3 Năm 1975 - Trận Đánh Mở Màn Trên Cao Nguyên Ban Mê Thuột"
 author: "Phan Tấn Công"
-source: "https://sachhiem.net/LICHSU/P/PhanTanCong_02.php"
+source: "/LICHSU/P/PhanTanCong_02"
 category: "Chính trị"
 lang: vi
 wordCount: 5103
-image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nha.jpg"
+image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/LICHSU/P/IMG/BMT_Nga6.jpg"
 ---
 
-<p align="center"><a href="https://www.sachhiem.net/">
-<img border="0" src="https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nha.jpg"></a>10-Mar 
+<p align="center">10-Mar 
 -2026</p>
  <div class="tomluoc">
  
@@ -52,13 +51,13 @@ image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nha.jpg"
 <p>Trước đó, vợ chồng anh chàng  chột mắt cố ý gây thương tích để trốn lính VNCH có thuê một phòng sau cùng của  nhà tôi 93 TB Trọng. Chúng nó bỏ nhà đi cả mấy tháng,  coi như không thuê,  chúng nó đã phiêu bạt trên Thị trấn Cheo reo-Thuận Mẫn. Trên đó đã giải phóng  trước, hai vợ chồng chúng nó cướp một chiếc xe Dooge của dân chạy nạn chứa  nhiều đồ đạc hôi của chở về BMT, vào nhà tôi cất giấu giữa đêm khuya. Sáng sớm vợ  tôi về nhà mở cửa thì đồ đạc của chúng nó đã đầy ắp nhà trên của tôi, và sau đó  buộc chúng phải dời xuống phòng dưới đã thuê nhưng vẫn chưa đóng tiền. Thằng  chột mắt hôm nay cững có bộ mặt tráo trở như mưốn nhắc nhở vì tôi là Ngụy quân  Ngụy quyền, không còn giữ vẻ lịch sự lễ phép. Nhưng rồi sáng hôm sau một lá  cờ xanh đỏ ngôi sao vàng của MTGPMN của nhóm thanh niên hội đoàn CM đã xin tôi  được cắm lên, trước đó mượn để sinh hoạt tạm thời. Vợ chồng trộm cắp này chỉ ở  có một hôm thì ngày 19/3/1975, mấy tốp phi cơ F5. E của KQ VNCH đã ném bom  vào các trụ sở cơ quan CMGP đóng, có cắm cờ MTGPMN. Chúng nó vội vàng trong đêm  khuya đã dọn nhà đi nơi khác và không quên mở cửa lên nhà trên lấy cắp thêm một  mớ đồ đạc của tôi.</p>
 <p>(xem tiếp Phần 2:) </p>
 <ul>
-<a href="https://sachhiem.net/LICHSU/P/PhanTanCong_02A.php">  <li> GIÃ TỪ SỰ NGHIỆP ĐIỆN LỰC.</li> 
+<a href="/LICHSU/P/PhanTanCong_02A">  <li> GIÃ TỪ SỰ NGHIỆP ĐIỆN LỰC.</li> 
  <li> TỪ CHÔI&nbsp; CÔNG BỘC.</li></a>
 </ul>
 <p class="TacgiaL">Phan Tấn Công</p>
  <p class="nguonL">Nguồn: Tác giả Phan Tấn Công gửi MS-Words</p>
  <p>___________________________</p>
  <p><b>Các Bài Viết của Phan Tấn Công:</b></p>
- <p>- <a href="https://sachhiem.net/LICHSU/P/PhanTanCong_01.php">Xưa Tôi Là Lính Việt Nam Cộng Hòa</a></p>
- <p>- <a href="https://sachhiem.net/LICHSU/P/PhanTanCong_02.php">Ngày 10 Tháng 3 Năm 1975 - Trận Đánh Mở Màn Trên Cao Nguyên Ban Mê Thuột , P1</a> </p>
+ <p>- <a href="/LICHSU/P/PhanTanCong_01">Xưa Tôi Là Lính Việt Nam Cộng Hòa</a></p>
+ <p>- <a href="/LICHSU/P/PhanTanCong_02">Ngày 10 Tháng 3 Năm 1975 - Trận Đánh Mở Màn Trên Cao Nguyên Ban Mê Thuột , P1</a> </p>
  <p><img src="https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/TONGIAO/IMG/CHURCH/BAN_NHATHO/HoaKy_AbandonedChurch.jpg" width="100%" alt=""></p>

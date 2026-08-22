@@ -3,7 +3,7 @@ layout: ../../layouts/Article.astro
 title: "Bàn Tay Không Che Nổi Mặt Trời"
 author: "BS. Nguyễn Văn Thịnh"
 date: 2015-02-06
-source: "https://sachhiem.net/NGVTHINH/NguyenvThinh_07.php"
+source: "/NGVTHINH/NguyenvThinh_07"
 category: "Lịch sử"
 lang: vi
 wordCount: 5571

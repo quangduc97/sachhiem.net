@@ -3,7 +3,7 @@ layout: ../../../layouts/Article.astro
 title: "Nguồn gốc Việt Nam của tên 12 con giáp - Ngọ- Ngũ -ngựa (phần 13)"
 author: "Nguyễn Cung Thông"
 date: 2014-01-22
-source: "https://sachhiem.net/VANHOC/NGCGTHG/NguyenCungThong08.php"
+source: "/VANHOC/NGCGTHG/NguyenCungThong08"
 category: "Văn hóa"
 lang: vi
 wordCount: 5925

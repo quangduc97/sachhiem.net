@@ -3,18 +3,17 @@ layout: ../../layouts/Article.astro
 title: "Bước Mở Đầu Của Sự Thiết Lập Hệ Thống Thuộc Địa Pháp Ở Việt Nam"
 author: "TS Nguyễn Xuân Thọ"
 date: 2023-02-13
-source: "https://sachhiem.net/NGXUANTHO/BuocMoDau_12.php"
+source: "/NGXUANTHO/BuocMoDau_12"
 category: "Lịch sử"
 lang: vi
 wordCount: 10273
-image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nha.jpg"
+image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/sqdot.gif"
 ---
 
 <p class="Tuaduoi"><b>Sau Hiệp Ước 1874</b></p>
 
 
-  <p align="center"><a href="https://www.sachhiem.net/">
-<img border="0" src="https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nha.jpg"></a>| <a target="_blank" href="https://sachhiem.net/NGXUANTHO/BuocMoDau_Main.php"><span lang="en-us"><b><font face="Symbol">¿</font></b></span> trở ra mục lục</a>| 13-Feb-2023</p> 
+  <p align="center">| <a target="_blank" href="/NGXUANTHO/BuocMoDau_Main"><span lang="en-us"><b><font face="Symbol">¿</font></b></span> trở ra mục lục</a>| 13-Feb-2023</p> 
 <p class="TuaDoLeft"><b>Chương 11 - Chính Sách Của Pháp Tại Việt Nam Sau Hiệp Ước 1874</b></p>
 <p>Các cường quốc và Việt Nam đã có những phản ứng khác nhau, mỗi nước một cách, sau khi bản Hiệp ước 1874 được ký kết. Thái độ của Pháp và nhất là của chánh phủ Nam kỳ có phần phức tạp hơn, ít ra là về bên ngoài. Nếu như đối với các nước ngoài, họ ra vẻ rộng rãi, thì như chúng ta đã thấy, giữa những người Pháp cai trị, họ tỏ ra thất vọng trước những bản hiệp ước đòi hỏi quá ít.</p>
 <p>Sau khi đã tuyên bố rằng ông ta sẽ chỉ hành động theo ý muốn của mình, dù có được ủng hộ hay bị cấp trên phản đối; sau khi đã chuẩn bị một bản hiệp ước cứng rắn cho phía Việt Nam, Duperré bị tràn ngập, bị phê phán mãnh liệt và sốt ruột muốn kết thúc cho xong nên đã ký một bản hiệp ước làm mích lòng mọi người. Bắt buộc phải trả Hà Nội lại, bắt buộc phải gạt bỏ chữ&nbsp;<i>“bảo hộ”</i>&nbsp;đi, trong văn bản một hiệp ước mà mục đích chỉ nhằm có thế; và quyết định mở sông Hồng cho giao thương mà trong tay không có một phương tiện gì đảm bảo; hiệp ước 1874 chẳng khác gì một đứa bé sinh ra đã tàn tật sẵn.</p>

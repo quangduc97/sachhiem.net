@@ -2,16 +2,15 @@
 layout: ../../../layouts/Article.astro
 title: "Thực Chất Đạo Công Giáo và Các Đạo Thờ Chúa"
 author: "Charlie Nguyễn"
-source: "https://sachhiem.net/CHARLIE/CN_TCCG/Vaitro2.php"
+source: "/CHARLIE/CN_TCCG/Vaitro2"
 category: "Tác giả"
 lang: vi
 wordCount: 8558
-image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nha.jpg"
 ---
 
-<p align="center"><a href="/index"><img hspace="20" border="0" src="https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nha.jpg"></a><b><font face="Symbol" size="5"><a target="_top" href="/CHARLIE/CN_TCCG/CN_TCCGdir">¿</a></font></b> trở ra mục lục | 2-8-2013 </p>
+<p align="center"><b><font face="Symbol" size="5"><a target="_top" href="/CHARLIE/CN_TCCG/CN_TCCGdir">¿</a></font></b> trở ra mục lục | 2-8-2013 </p>
 <p class="MUC">Vai trò của chính quyền trong mối tương quan Công giáo - Dân  tộc</p>
-<p>(tiếp theo<a href="https://sachhiem.net/CHARLIE/CN_TCCG/Vaitro.php "> kỳ trước</a>)</p>
+<p>(tiếp theo<a href="/CHARLIE/CN_TCCG/Vaitro"> kỳ trước</a>)</p>
 <p class="TuaDoLeft"><strong>III. Truyền thống phản quốc của Công giáo Việt Nam</strong></p>
 <p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Truyền thống phản quốc của Công giáo Việt Nam bắt đầu từ những ngày đầu tiên có người theo đạo này trên đất nước ta. Những kẻ đầu tiên nhập đạo chính là những kẻ đã đặt Tổ quốc ở phía sau lưng để chỉ còn biết tôn thờ Thiên Chúa và Giáo hội La mã ở phương trời xa. Họ không còn công nhận đất nước Việt Nam là quê hương vì quê hương thật của họ là Nước Chúa ở trên trời.</p>
 <p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Đồng bào ruột thịt của họ bỗng trở nên xa lạ vì dưới con mắt họ những người bên lương chỉ là những “con cái của bụt thần ma quỉ” hoặc chỉ là bọn “tà ma ngoại đạo”.</p>

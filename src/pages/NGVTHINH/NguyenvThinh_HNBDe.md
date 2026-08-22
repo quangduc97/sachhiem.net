@@ -3,7 +3,7 @@ layout: ../../layouts/Article.astro
 title: "HÀ NỘI BỂ DÂU"
 author: "BS Nguyễn Văn Thịnh"
 date: 2017-11-11
-source: "https://sachhiem.net/NGVTHINH/NguyenvThinh_HNBDe.php"
+source: "/NGVTHINH/NguyenvThinh_HNBDe"
 category: "Văn hóa"
 lang: vi
 wordCount: 6564
@@ -103,4 +103,4 @@ Anh chị em học sinh Hà Nội lứa tuổi chúng tôi  ngày ấy đến na
 </center>
 
   
-<p>•  Các bài của Nguyễn Văn Thịnh: link <a href="https://sachhiem.net/NGVTHINH/ListNVTh.inc.php" target="_blank">https://sachhiem.net/NGVTHINH/ListNVTh.inc.php</a></p>
+<p>•  Các bài của Nguyễn Văn Thịnh: link <a href="/NGVTHINH/ListNVTh.inc" target="_blank">https://sachhiem.net/NGVTHINH/ListNVTh.inc.php</a></p>

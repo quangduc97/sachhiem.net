@@ -3,7 +3,7 @@ layout: ../../../layouts/Article.astro
 title: "Về Một Chuyện Thời Sự :"
 author: "Trần Chung Ngọc"
 date: 2012-08-01
-source: "https://sachhiem.net/index.php?content=showrecipe&id=5368"
+source: "/TCN/TCNts/TCNts059"
 category: "Chính trị"
 lang: vi
 wordCount: 24154
@@ -242,14 +242,14 @@ image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/THOISU_CT/Hinh/CCCB/
 	      muốn nói là cả trăm triệu.&nbsp; <u>Đây là những sự kiện lịch sử mà người Công
 	      giáo</u> <u>không có cách giải thích nào có thể biện minh cho những vết
 	      nhơ như vậy, mà lại là những vết nhơ của một giáo hội tự nhận là “thiên
-	      khải, duy nhất, thánh thiện, tông truyền</u>”.&nbsp; Xin đọc <a href="https://www.sachhiem.net/TCN/TCNtg/CGHS/NCGHS0.php">https://www.sachhiem.net/TCN/TCNtg/CGHS/NCGHS0.php</a>&nbsp;
+	      khải, duy nhất, thánh thiện, tông truyền</u>”.&nbsp; Xin đọc <a href="/TCN/TCNtg/CGHS/NCGHS0">https://www.sachhiem.net/TCN/TCNtg/CGHS/NCGHS0.php</a>&nbsp;
 	      Tại sao Công giáo phải xưng thú trước thế giới 7 núi tội ác của Công giáo
 	      đối với nhân loại.&nbsp; Tại sao trong Công giáo có những giáo hoàng do gái
 	      điếm dựng lên.&nbsp; Tại sao trong lịch sử Công giáo lại có những “đức thánh
 	      cha” phạm đủ mọi thứ tội nhơ bẩn thế gian như giết người, loạn dâm, loạn
-	      luân, đồng giống luyến ái v…v… Xin đọc <a href="https://www.sachhiem.net/TCN/TCNtg/TCN20.php">https://www.sachhiem.net/TCN/TCNtg/TCN20.php</a>
+	      luân, đồng giống luyến ái v…v… Xin đọc <a href="/TCN/TCNtg/TCN20">https://www.sachhiem.net/TCN/TCNtg/TCN20.php</a>
 	      Tại sao trong Công giáo lại có những linh mục đi hiếp dâm chị em nữ tu
-	      của mình trên 27 quốc gia, <a href="https://www.sachhiem.net/index.php?content=showrecipe&amp;id=315">https://www.sachhiem.net/index.php?content=showrecipe&amp;id=315</a>,
+	      của mình trên 27 quốc gia, <a href="/TCN/TCNtg/TCN97">https://www.sachhiem.net/index.php?content=showrecipe&amp;id=315</a>,
 	      và tới nay đã có trên 5000 linh mục can tội ấu dâm.&nbsp; Và còn nhiều nữa…</p>
 	    <p><u>Với một lịch sử và với bản chất như
 	        vậy, ai bảo Công giáo không phải là một tà đạo, xin lên tiếng</u>.&nbsp;
@@ -259,7 +259,7 @@ image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/THOISU_CT/Hinh/CCCB/
 	        trong lãnh vực học thuật chứ không phải với “đức tin” và “văn hóa chửi”.</p>
 	    <p>Nguyễn Gia Kiểng và
 	      các con chiên cũng nên đọc về Công giáo đã vào Việt Nam như thế nào, <a href="https://giaodiemonline.com/2008/02/nhinlai.htm">https://giaodiemonline.com/2008/02/nhinlai.htm</a>,
-	      mang lại gì cho Việt Nam. Tài liệu có đầy đủ trên và&nbsp; <a href="https://www.sachhiem.net/TCN/TCNtg/TCN34.php">https://www.sachhiem.net/TCN/TCNtg/TCN34.php</a>.&nbsp;
+	      mang lại gì cho Việt Nam. Tài liệu có đầy đủ trên và&nbsp; <a href="/TCN/TCNtg/TCN34">https://www.sachhiem.net/TCN/TCNtg/TCN34.php</a>.&nbsp;
 	      Hãy đọc để biết và sám hối về Công giáo đã làm tay sai cho thực dân Pháp,
 	      đưa nước nhà vào vòng nô lệ Pháp như thế nào, và bớt đi những luận điệu
 	      huênh hoang về cái đạo thổ tả đầy mê tín, phi dân tộc và phản bội dân
@@ -610,7 +610,7 @@ image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/THOISU_CT/Hinh/CCCB/
 	   
 	    <div class="tomluoc">
          
-         <p><a href="https://www.sachhiem.net/index.php?content=showrecipe&amp;id=7">https://www.sachhiem.net/index.php?content=showrecipe&amp;id=7</a></p>
+         <p><a href="/NMQ/ChanDungVNCH/QMN02">https://www.sachhiem.net/index.php?content=showrecipe&amp;id=7</a></p>
          	    <div class="danbai">
 	      <p> <a href="/TCN/#II">II. Tính Cách Nghịch Thường Hay Bất Chính Của Chính Quyền Quốc Gia Việt Nam </a> </p>
 	      <p><a href="/TCN/#III">III. Giải Pháp Bảo Đại </a> </p>
@@ -718,7 +718,7 @@ image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/THOISU_CT/Hinh/CCCB/
 	          (À mon avis, il serait avantageux pour le calm de rétablir le Roi come
 	          le chef régulier avant le 9 mars; DOM [Aix], CP 125). </i></p>
 	        <p><i>Drapier cũng đưa ra giải pháp là có thể sau đó sẽ
-	          cho Bảo Long lên kế vi, và Nam Phương là Giám Quốc [Phụ Chính</i>].”<a name="_ednref1"></a><a href="https://www.sachhiem.net/index.php?content=showrecipe&amp;id=8#_edn1" title="">[1] </a> </p>
+	          cho Bảo Long lên kế vi, và Nam Phương là Giám Quốc [Phụ Chính</i>].”<a name="_ednref1"></a><a href="/NMQ/ChanDungVNCH/QMN02a" title="">[1] </a> </p>
 	        <p>Ý đồ này phải trải qua một thời kỳ bàn luận giữa Vatican
 	          và Pháp cùng với thời kỳ cho người đi móc nối với ông Nguyễn Phúc Vĩnh
 	          Thụy (Bảo Đại) lúc bấy giờ đang lưu trú ở Hông Kông. Sau một thời gian
@@ -739,7 +739,7 @@ image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/THOISU_CT/Hinh/CCCB/
 	          nghĩa là có cho Việt Nam tự do, độc lập thật sự như trong khối thịnh
 	          vượng chung của Anh không? (Commonwealth). Tôi gặp ông Cao Ủy ở Sàigòn.
 	          Sau một giờ chuyện-trò, tôi biết rõ cái dã tâm của thực dân! Liên Hiệp
-	          Pháp chỉ là một thứ cũi chó mạ vàng</i>!”<a name="_ednref2"></a><a href="https://www.sachhiem.net/index.php?content=showrecipe&amp;id=8#_edn2" title="">[2] </a> </p>
+	          Pháp chỉ là một thứ cũi chó mạ vàng</i>!”<a name="_ednref2"></a><a href="/NMQ/ChanDungVNCH/QMN02a" title="">[2] </a> </p>
 	        <p>Những người có thành tích cách mạng chống Liên Minh
 	          Thánh Pháp – Vatican trước tháng 8/1945 như các ông Nguyễn Hải Thần, Nguyễn
 	          Tường Tam, Nhượng Tống, Nguyễn Tiến Hỷ,&nbsp;  v.v…&nbsp; đều lánh xa,
@@ -764,7 +764,7 @@ image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/THOISU_CT/Hinh/CCCB/
 	        <p>“<i>Danh hiệu “Quốc Gia Việt Nam” (QGVN) được sử dụng
 	          từ ngày 5 tháng Sáu 1948, sau khi Cao Ủy Pháp tại Đông Dương Émile Bollaert
 	          và Thủ Tướng Chính Phủ Trung Ương Lâm Thời Nguyễn Văn Xuân ký bản thông
-	          cáo chung tại Vịnh Hạ Long nhìn nhận nền độc lập của Việt Nam…”</i>&nbsp;<a name="_ednref3"></a><a href="https://www.sachhiem.net/index.php?content=showrecipe&amp;id=8#_edn3" title="">[3] </a> </p>
+	          cáo chung tại Vịnh Hạ Long nhìn nhận nền độc lập của Việt Nam…”</i>&nbsp;<a name="_ednref3"></a><a href="/NMQ/ChanDungVNCH/QMN02a" title="">[3] </a> </p>
 	        <p>Như vậy, rõ ràng Vatican là thế lực đưa ra Giải Pháp
 	          Bảo Đại và cũng chính Vatican sáng chế ra các danh xưng “chính quyền Quốc
 	          Gia” và “Quốc Gia Việt Nam”. Cả đến các danh xưng như “người Việt Quốc
@@ -807,7 +807,7 @@ image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/THOISU_CT/Hinh/CCCB/
 	          Thực tế, nếu Ngô đình Diệm có nghĩ đến quốc gia thì cũng nghĩ đến theo
 	          cung cách của các vua Louis của Pháp: 'Quốc gia là trẫm' - L'état c'est
 	          moi. Nói thế khác, Ngô Đình Diệm chỉ nghĩ đến triều đình, chứ không
-	          phải quốc gia và cũng không phải dân tộc</i>.”<a name="_ednref4"></a><a href="https://www.sachhiem.net/index.php?content=showrecipe&amp;id=9#_edn4" title="">[4] </a> </p>
+	          phải quốc gia và cũng không phải dân tộc</i>.”<a name="_ednref4"></a><a href="/NMQ/ChanDungVNCH/QMN02b" title="">[4] </a> </p>
           <p class="sub">2.- Sách <i>Việt Nam Quốc Dân Đảng</i> của tác giả
           Hoàng Văn Đào ghi nhận như sau: </p>
 	        <p>&nbsp;“<i>Sau
@@ -823,7 +823,7 @@ image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/THOISU_CT/Hinh/CCCB/
 	          ỷ trong đầu óc mọi người dân Việt, khác nào như một kho thuốc nổ, chỉ
 	          còn đợi người nào hoặc đoàn thể nào châm ngòi lửa là nổ bùng. Lò thuốc
 	          súng đã có người châm, ngòi đã nổ, quần chúng ùa chạy theo Việt Minh
-	          Cộng Sản</i>.”<a name="_ednref5"></a><a href="https://www.sachhiem.net/index.php?content=showrecipe&amp;id=9#_edn5" title="">[5] </a> </p>
+	          Cộng Sản</i>.”<a name="_ednref5"></a><a href="/NMQ/ChanDungVNCH/QMN02b" title="">[5] </a> </p>
           <p class="sub">3.- Sách <i>Quân Sử 4</i> (Quân Lực Việt Nam Cộng
           Hòa Trong Giai Đoạn Hình Thành 1946-1955) viết:</p>
 	        <p>“<i>Tuy nhiên, cũng
@@ -831,7 +831,7 @@ image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/THOISU_CT/Hinh/CCCB/
 	          đã qui tụ hầu hết những người yêu nước nên đánh rất hăng. Ngoài ra,
 	          những đội quân tự vệ và dân quân du kích mọc lên khắp nơi được các ủy
 	          ban hành kháng địa phương huấn luyện nhanh chóng về chiến thuật du kích
-	          cách phá hoại, v.v…</i>”<a name="_ednref6"></a><a href="https://www.sachhiem.net/index.php?content=showrecipe&amp;id=9#_edn6" title="">[6] </a> </p>
+	          cách phá hoại, v.v…</i>”<a name="_ednref6"></a><a href="/NMQ/ChanDungVNCH/QMN02b" title="">[6] </a> </p>
           <p class="sub">4.- Hai nhà viết sử Bradley S. O’ Leary &amp; Edward
           Lee viết trong cuốn Vụ Ám Sát Ngô Đình Diệm &amp; J.F Kennedy như sau: </p>
 	        <p><i>“Nhưng vào lúc này có nhiều người khởi nghĩa hơn
@@ -839,7 +839,7 @@ image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/THOISU_CT/Hinh/CCCB/
 	          Nhật. Việt Minh là tên gọi của một nhóm dân quân du kích được tổ chức
 	          tốt và lập tức được cả nước đứng sau lưng. Đứng đầu nhóm là người sau
 	          này trở thành vị lãnh tụ duy nhất từng giành thắng lợi trong cuộc chiến
-	          tranh chống lại người Mỹ: Hồ Chí Minh</i>.”<a name="_ednref7"></a><a href="https://www.sachhiem.net/index.php?content=showrecipe&amp;id=9#_edn7" title="">[7] </a> </p>
+	          tranh chống lại người Mỹ: Hồ Chí Minh</i>.”<a name="_ednref7"></a><a href="/NMQ/ChanDungVNCH/QMN02b" title="">[7] </a> </p>
           <p class="sub">5.- Giáo-sư Trần Chung Ngọc viết trong bài
 	          viết “ <i>Những thắc Mắc Cần Phải Được Giải Đáp</i>” trong đó có mấy đoạn
           như sau: </p>
@@ -881,7 +881,7 @@ image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/THOISU_CT/Hinh/CCCB/
 	          trướng, xin lỗi, toàn là những vị ăn chơi phè phỡn, tài không có mà
 	          đức cũng không. Trước đây có "ông" Mỹ đứng sau thì không có
 	          chuyện gì, nhưng khi phải một mình trực tiếp đối diện với khó khăn thì
-	          bản chất cũng như tài năng lộ ra ngay</i>.”<a name="_ednref9"></a><a href="https://www.sachhiem.net/index.php?content=showrecipe&amp;id=9#_edn9" title="">[9] </a> </p>
+	          bản chất cũng như tài năng lộ ra ngay</i>.”<a name="_ednref9"></a><a href="/NMQ/ChanDungVNCH/QMN02b" title="">[9] </a> </p>
 	        <p>Sự thành hình và ra đời của cái gọi&nbsp; là  "Chính
 	          quyền Quốc Gia Việt Nam" nghịch thường là như vậy! Thiết tưởng cũng
 	          cần nên nói&nbsp; rõ về tính cách nghịch thường hay phi chính nghĩa của
@@ -921,7 +921,7 @@ image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/THOISU_CT/Hinh/CCCB/
 	          Bắc kiên trì chờ đợi, trong khi đó tại miền Nam, CIA mỹ hậu thuẫn Ngô
 	          Đình Diệm, một trí thức Công Giáo; <u>họ tin tưởng ông sẽ là một con
 	            bù nhìn hoàn hảo sẵn sàng đáp ứng mọi quyền lợi của người Mỹ</u>. Trong
-	          lúc thời thịnh của “Chủ Thuyết Domino”, đây là một việc rất hệ trọng</i>.”<a name="_ednref10"></a><a href="https://www.sachhiem.net/index.php?content=showrecipe&amp;id=11#_edn10" title="">[10] </a> </p>
+	          lúc thời thịnh của “Chủ Thuyết Domino”, đây là một việc rất hệ trọng</i>.”<a name="_ednref10"></a><a href="/NMQ/ChanDungVNCH/QMN02c" title="">[10] </a> </p>
           <p class="sub1">2.- Năm 1954, sau khi bị thảm bại tại tập
 	          đoàn cứ điểm tại Điện Biên Phủ, chính quyền Pháp phải nghiêm chỉnh thương
 	          thuyết với phái đoàn của chính quyền Việt Nam Dân Chủ Cộng Hòa và chuẩn

@@ -3,7 +3,7 @@ layout: ../../../layouts/Article.astro
 title: "Chân Lý Khách Quan và Chân Lý Chủ Quan"
 author: "Huy Thái"
 date: 2018-01-12
-source: "https://sachhiem.net/TONGIAO/tgH/HuyThai_02.php"
+source: "/TONGIAO/tgH/HuyThai_02"
 category: "Tác giả"
 lang: vi
 wordCount: 801

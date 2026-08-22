@@ -3,14 +3,14 @@ layout: ../../../layouts/Article.astro
 title: "Trương Vĩnh Ký Oan Nỗi Gì?"
 author: "Nguyễn Văn Thịnh"
 date: 2017-03-08
-source: "https://sachhiem.net/VANHOC/N/NguyenvThinh_14.php"
+source: "/VANHOC/N/NguyenvThinh_14"
 category: "Lịch sử"
 lang: vi
 wordCount: 6719
-image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nha.jpg"
+image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/LICHSU/IMG/NHANVAT/petrusKy.jpg"
 ---
 
-<p align="center"><a href="https://www.sachhiem.net/"> <img border="0" src="https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nha.jpg"></a> ngày 08-Mar-2017</p>
+<p align="center"> ngày 08-Mar-2017</p>
   <div class="tomluoc">
     <p><i>Tâm địa của nhà sử học đầy danh vọng này không phải đến bây giờ mới phơi bày ra. Khi các sử gia bậc thầy như: Đào Duy Anh, Trần Huy Liệu, Trần Văn Giáp, Trần Văn Giàu, Văn Tân… đã thành người thiên cổ và trong “tứ đại gia Lâm–Lê–Tấn–Vượng” nửa mất nửa còn thì người “lọt sổ” mặc sức “múa gậy vườn hoang”  (NVT)</i></p>
   </div>
@@ -100,8 +100,8 @@ image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nha.jpg"
 <p>    - Ngày 2/5/1899, Phòng 3 Ban Thư ký chính phủ&nbsp; cho bà Petrus Key biết đồng ý mua 23 tựa  sách, với tổng số tiền 593$80xu. </p>
   <p>_____________________</p>
   <p><b>Bài có tài liệu liên quan:</b></p>
-  <p>1- <a href="https://sachhiem.net/BUIKHA/BuiKha25b_TVK.php">Trương Vĩnh Ký Phản Bội Tổ Quốc, Sao Lại Gọi Là Yêu Nước?</a> (Bùi Kha)</p>
+  <p>1- <a href="/BUIKHA/BuiKha25b_TVK">Trương Vĩnh Ký Phản Bội Tổ Quốc, Sao Lại Gọi Là Yêu Nước?</a> (Bùi Kha)</p>
   <p>2- <a href="https://honvietquochoc.com.vn/bai-viet/4933-thc-h-huyn-thoi-bit-26-ngoi-ng-ca-trng-vnh-k.aspx">Thực hư "huyền thoại" biết 26 ngoại ngữ của Trương Vĩnh Ký?</a> (Nguyên Vũ)</p>
-  <p>3- <a href="https://sachhiem.net/index.php?content=showrecipe&amp;id=6595">Về Con Người Trương Vĩnh Ký</a> (Nguyễn Văn Thịnh)</p>
-  <p>4- <a href="https://sachhiem.net/BUIKHA/BuiKha01b_NTT.php">Nguyễn Trường Tộ Trong Chiêu Bài Canh Tân</a> (Bùi Kha)</p>
-  <p>5- <a href="https://sachhiem.net/BUIKHA/BuiKha19.php">Trương Vĩnh Ký Yêu Nước? (Đối Luận với ông Trần Hữu Tá) </a> (Bùi Kha)</p>
+  <p>3- <a href="/NGVTHINH/NguyenvThinh_LS02">Về Con Người Trương Vĩnh Ký</a> (Nguyễn Văn Thịnh)</p>
+  <p>4- <a href="/BUIKHA/BuiKha01b_NTT">Nguyễn Trường Tộ Trong Chiêu Bài Canh Tân</a> (Bùi Kha)</p>
+  <p>5- <a href="/BUIKHA/BuiKha19">Trương Vĩnh Ký Yêu Nước? (Đối Luận với ông Trần Hữu Tá) </a> (Bùi Kha)</p>

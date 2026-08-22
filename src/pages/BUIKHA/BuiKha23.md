@@ -3,7 +3,7 @@ layout: ../../layouts/Article.astro
 title: "Linh Mục Trần Lục Là Một Anh Tài, Một Vĩ Nhân (?)"
 author: "Bùi Kha"
 date: 2012-03-25
-source: "https://sachhiem.net/BuiKha23.php"
+source: "/BuiKha23"
 category: "Lịch sử"
 lang: vi
 wordCount: 8635

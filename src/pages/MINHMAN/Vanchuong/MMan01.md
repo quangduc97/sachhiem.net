@@ -2,10 +2,10 @@
 layout: ../../../layouts/Article.astro
 title: "HÀ NỘI VÀO ĐÔNG"
 author: "Minh Mẫn"
-source: "https://sachhiem.net/null"
+source: "/null"
 lang: vi
 wordCount: 3117
-image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nha.jpg"
+image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/Hinh/Hanoi.jpg"
 ---
 
 <div align="center" style="position: relative; left: 0; top: 0">
@@ -34,7 +34,7 @@ image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nha.jpg"
 	<tbody><tr><td bgcolor="White" align="justify" valign="top">
 	<div style="padding-left: 50px; padding-right: 50px">
   <table border="0" cellpadding="10" width="85%" cols="2"><tbody><tr>
-	<td valign="top"><a href="/index"><img border="0" src="https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nha.jpg"></a></td>
+	<td valign="top"></td>
 	<td valign="top" style="text-align:right">	<i>
 	<font color="#080808" size="2"> 02 tháng 01, 2008
 	</font></i>

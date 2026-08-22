@@ -2,17 +2,17 @@
 layout: ../../../layouts/Article.astro
 title: "Mối Ác Cảm Của Nhân Dân Thế Giới"
 author: "Nguyễn Mạnh Quang"
-source: "https://sachhiem.net/NMQ/MOIACCAM/NMQ_11.php"
+source: "/NMQ/MOIACCAM/NMQ_11"
 category: "Tác giả"
 lang: vi
 wordCount: 10971
-image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nha.jpg"
+image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/print.gif"
 ---
 
 <p class="Tuaduoi">Đối Với Giáo Hội La Mã </p>
      
      
-     <p align="center"><a href="/index"><img hspace="20" border="0" src="https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nha.jpg"></a>   bản rời <a href="/NMQ/MOIACCAM/NMQ_00" target="top"> <img border="0" src="https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/print.gif" width="18" height="18"> </a>   |      toàn tập <a target="_top" href="/NMQ/MOIACCAM/MoiAcCam_Main"> ☞ </a>  | 02 tháng 4, 2010 </p>
+     <p align="center">   bản rời <a href="/NMQ/MOIACCAM/NMQ_00" target="top"> <img border="0" src="https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/print.gif" width="18" height="18"> </a>   |      toàn tập <a target="_top" href="/NMQ/MOIACCAM/MoiAcCam_Main"> ☞ </a>  | 02 tháng 4, 2010 </p>
      <p class="CHUONG">CHƯƠNG 14 </p>
      <p class="TuaChuong"> ÔNG LÊ HỮU MỤC - MỘT TRƯỜNG HỢP TIÊU BIỂU  </p>
      <p> Ông Giáo-sư Lê Hữu Mục được chính quyền đạo phiệt Ngô Đình Diệm đưa vào  dạy môn Văn (Văn Chương Việt Nam) tại trường Đại Học Văn Khoa Sàigòn theo kế  hoạch trồng người của Giáo Hội La Mã ở miền Nam Việt Nam trong những năm  1954-1975. Thông thường, ai cũng nghĩ rằng, một giáo sư phụ trách giảng  dạy môn Văn tại Trường Văn Khoa, Đại Học Sàigòn, một trường đại học lớn nhất ở  miền Nam trong những năm 1954-1975, thì vị giáo sư đó phải (1) có kiến thức rất  vững về môn học này, (2) hiểu rõ phạm vi kiến thức chuyên môn của mình, (3) biết  rõ NẾU đi ra khỏi phạm vi đó là lạng quạng, và (4) biết rằng ngay cả kiến thức  chuyên môn mà chính mình đang phụ trách giảng dạy cũng hữu hạn, chứ không phải  là vô biên. Thế nhưng, ông Giáo-sư Lê Hữu Mục lại không biết như thế. </p>
@@ -153,7 +153,7 @@ image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nha.jpg"
      <p><a name="_edn87" title="" href="/NMQ/#_ednref87">[87]</a> Minh Thúy. “Em  Ơi, Ta Nghĩ Khác: Dân Ta Không Hèn”. Nguồn:  https://sachhiem.net/VANHOC/ChTrHieu02.php.</p>
      <p><a name="_edn88" title="" href="/NMQ/#_ednref88"> [88]</a> Nhiều tác giả, <i>Trần Lục</i> (Montréal, Canada: LM Nguyễn Gia Đệ,  1996), tr. 388.
      </p><p><a name="_edn89" title="" href="/NMQ/#_ednref89">[89]</a> Nguyễn Xuân Thọ, <i>Bước Mở Đầu Của Sự Thiết Lập Hệ Thống Thuộc Địa Ở  Việt Nam 1858-1897 </i>(Saint Raphael, Pháp, 1994), tr.101.
-     </p><p> <a name="_edn90" title="" href="/NMQ/#_ednref90">[90]</a> Trần An Bài. “Vạ Tuyệt Thông  của Giáo Hội dành cho người theo Cộng Sản.” Ngày 6/5/2010. Nguồn: <a href="https://sachhiem.net/TONGIAO/tgT/TranAnBai.php"> https://sachhiem.net/TONGIAO/tgT/TranAnBai.php</a>.</p>
+     </p><p> <a name="_edn90" title="" href="/NMQ/#_ednref90">[90]</a> Trần An Bài. “Vạ Tuyệt Thông  của Giáo Hội dành cho người theo Cộng Sản.” Ngày 6/5/2010. Nguồn: <a href="/TONGIAO/tgT/TranAnBai"> https://sachhiem.net/TONGIAO/tgT/TranAnBai.php</a>.</p>
      <p><a name="_edn91" title="" href="/NMQ/#_ednref91"> [91]</a> Lý Thái. “Ăn Cắp Cái Sắc Không Của Phật.” 16/9/2009. </p>
      <p>Nguồn:  https://sachhiem.net/EMAILS/emailL/Lythai5.php.</p>
      <p><a name="_edn92" title="" href="/NMQ/#_ednref92">[92]</a> Robert W. Funk et al., <i>The Five Gospels: The Search for the Authentic  Words of Jesus. New Translation and Commentary by Robert W. Funk, Roy W. Hoover,  and the Jesus Seminar</i>. New York: Macmillan, 1993. Dưới đây là toàn bộ bản  văn này nói sơ qua về cuốn sách này:</p>

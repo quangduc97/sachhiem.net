@@ -3,7 +3,7 @@ layout: ../../../layouts/Article.astro
 title: "Nói Gì Về Các Khu Tự Trị Công Giáo?"
 author: "Kevin Trần giới thiệu"
 date: 2017-04-10
-source: "https://sachhiem.net/THOISU_CT/ChuTr/TranKevin_ts2.php"
+source: "/THOISU_CT/ChuTr/TranKevin_ts2"
 category: "Chính trị"
 lang: vi
 wordCount: 2519

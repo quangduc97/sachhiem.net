@@ -1,14 +1,14 @@
 ---
 layout: ../../../layouts/Article.astro
 title: "Thư của thính giả gửi đài Tiếng Quê Hương"
-source: "https://sachhiem.net/NMQ/ThuDocgia/Q_docgia15.php"
+source: "/NMQ/ThuDocgia/Q_docgia15"
 lang: vi
 wordCount: 155
 image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/NMQ/ThuDocgia/Thinhgia.jpg"
 ---
 
 <div style="padding-left: 75px; padding-right: 75px">
-			<p><a href="https://sachhiem.net/NMQ/ThuDocgia/QThudocgia.php">[Mời xem lời giới thiệu ở link]</a></p>
+			<p><a href="/NMQ/ThuDocgia/QThudocgia">[Mời xem lời giới thiệu ở link]</a></p>
 			<p>1.</p>
 			<p><img src="https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/NMQ/ThuDocgia/Thinhgia.jpg" width="758" height="738" alt=""></p>
  	  <p> 2.</p>

@@ -2,15 +2,14 @@
 layout: ../../layouts/Article.astro
 title: "Trường Hợp «TỔ QUỐC ĂN NĂN»"
 author: "- Lê Việt Thường -"
-source: "https://sachhiem.net/DOITHOAI/LeVietThuong2.php"
+source: "/DOITHOAI/LeVietThuong2"
 category: "Lịch sử"
 lang: vi
 wordCount: 10705
-image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nha.jpg"
+image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/SACHNGOAI/Hinhanh/PEOPLE/AlainPerefitte.jpg"
 ---
 
-<p align="center"><a href="https://www.sachhiem.net/">
-<img border="0" src="https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nha.jpg"></a>07 tháng 11, 2010 </p> 
+<p align="center">07 tháng 11, 2010 </p> 
 		<p>  <i>LTS: Bài viết của Lê Việt Thường dưới đây xuất hiện như một vật chứng quan trọng để kết thúc dứt điểm một vụ án văn học "Tổ Quốc Ăn Năn" của ông "Nguyễn Gia Kiểng". Đây là một công trình rất đáng kể trong việc truy nguyên bằng chứng tội phạm. Ngòai những thái độ báng bổ tiền nhân, phủ nhận giá trị của nền văn hóa dân tộc, lật ngược lịch sử,... 
 		<a href="https://www.thongtinberlin.de/toquocannan.html">mà nhiều người</a> đã trình bày ở khắp các diễn đàn, điều mà tác giả tìm thêm được ở đây là vi phạm lĩnh vực đạo đức căn bản của người cầm bút: đạo văn. Xin cám ơn tác giả về việc nghiên cứu và tìm được kết quả rất quan trọng cho việc nhận định về lịch sử và văn hóa nước ta. (SH)</i></p>
 		<p>  <i>&nbsp;"...Về sự trông chờ từ trái núi là những kiến thức «Mới Mẻ» , «Độc Đáo»  mà ông Kiểng hứa với độc giả, thì cuối cùng lại đẻ ra  
@@ -872,12 +871,12 @@ image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nha.jpg"
 		<a href="https://www.tinparis.net/vanhoa/vh_1207_25_ToQuocAnNanDaoVan_LeVietThuong.html">https://www.tinparis.net/</a></p>
 		
 		<p class="TuaDenLeft">Cùng đề tài:</p>
-		<p><a href="https://sachhiem.net/VANHOC/VuHuyQuang.php">- Đọc "Tổ quốc ăn năn" của Nguyễn Gia Kiểng (Vũ Huy Quang)</a></p>
+		<p><a href="/VANHOC/VuHuyQuang">- Đọc "Tổ quốc ăn năn" của Nguyễn Gia Kiểng (Vũ Huy Quang)</a></p>
 		<p><a href="https://giaodiemonline.com/thuvien/doithoai/toquocannan.htm">- Vài nhận xét về cuốn "Tổ Quốc Ăn Năn" của Nguyễn Gia Kiểng (Nhật Tiến)</a></p>
 		<p><a href="https://forums.vietbao.com/topic.asp?TOPIC_ID=12472">- Forum Vietbao: Đọc sách Tổ Quốc Ăn Năn của Nguyễn Gia Kiểng</a></p>
-<p>-  <a href="https://sachhiem.net/DOITHOAI/LeVietThuong2.php">Trường Hợp «TỔ QUỐC ĂN NĂN» của Nguyễn Gia Kiểng (Lê Việt Thường)</a></p>
-<p>- <a href="https://sachhiem.net/VANHOC/N/NguyenGiaThuong.php">Tổ Quốc Ăn Năn: một lừa đảo thế kỷ (Nguyễn Gia Thưởng)</a></p>
+<p>-  <a href="/DOITHOAI/LeVietThuong2">Trường Hợp «TỔ QUỐC ĂN NĂN» của Nguyễn Gia Kiểng (Lê Việt Thường)</a></p>
+<p>- <a href="/VANHOC/N/NguyenGiaThuong">Tổ Quốc Ăn Năn: một lừa đảo thế kỷ (Nguyễn Gia Thưởng)</a></p>
 <p class="TuaDenLeft">Những bài về nạn trộm văn:</p>
 <p>- <a href="/EMAILS/emailL/Lythai5">Ăn cắp cả cái sắc không của nhà Phật" (LýThái Xuân)</a></p>
 <p>- <a href="/LICHSU/LEXNHUAN/LeXNhuan01"> Ông Ngô Đình Diệm Biết Làm Thơ? (Thanh Thanh)</a></p>
-<p><a href="https://sachhiem.net/DOITHOAI/LeVietThuong2.php">- Trường Hợp «TỔ QUỐC ĂN NĂN» của Nguyễn Gia Kiểng (Lê Việt Thường)</a></p>
+<p><a href="/DOITHOAI/LeVietThuong2">- Trường Hợp «TỔ QUỐC ĂN NĂN» của Nguyễn Gia Kiểng (Lê Việt Thường)</a></p>

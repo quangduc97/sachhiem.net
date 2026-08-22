@@ -1,7 +1,7 @@
 ---
 layout: ../../layouts/Article.astro
 title: "Các bài về xã hội xếp theo mẫu tự"
-source: "https://sachhiem.net/null"
+source: "/null"
 lang: vi
 wordCount: 1794
 ---

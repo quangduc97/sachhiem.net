@@ -2,19 +2,17 @@
 layout: ../../../layouts/Article.astro
 title: "[VATICANOLOGY] Ky Tô Hữu Lại Giết Nhau -"
 author: "Minh Thạnh"
-source: "https://sachhiem.net/TONGIAO/tgM/MinhThanh29.php"
+source: "/TONGIAO/tgM/MinhThanh29"
 category: "Chính trị"
 lang: vi
 wordCount: 2776
-image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nha.jpg"
+image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/TONGIAO/IMG/UKRAINE/Ruoc_DM_Fatima_Ukraine.jpg"
 ---
 
 <p class="Tuaduoi">Vatican Bạo Lực Hóa Đức Mẹ Fatima - Thương Hiệu Chống Cộng</p>
 
 
- <p align="center"><a href="https://www.sachhiem.net/">
-<img border="0" src="https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nha.jpg"></a> 
-</p>
+ 
  <div class="tomluoc">
    <p><i>Không phải Minh Thạnh tôi tài cán gì, mà có lẽ nhờ Chúa làm phép lạ trên Facebook Minh Thạnh, hay nhờ Chúa Thánh Thần hiển linh soi sáng, nên các bài Vaticanology từ năm ngoái trên Facebook Minh Thạnh đã đưa ra những tiên đoán chính xác về hoạt động của Vatican trong cuộc khủng hoảng Ukraina? Chiến tranh bùng nổ, Thánh chiến, Ky tô hữu giết nhau, Thiên Chúa Vatican phía Tây ác chiến Thiên Chúa Matxcơva phía Đông. </i></p>
    <p>Ảnh minh họa lấy tư liệu từ internet  </p>

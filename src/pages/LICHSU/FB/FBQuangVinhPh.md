@@ -3,7 +3,7 @@ layout: ../../../layouts/Article.astro
 title: "Sứ Mệnh Của Lịch Sử Là “Đem Hồn Dân Tộc Thổi Vào Lòng Dân\""
 author: "Quang Vinh Phạm"
 date: 2021-10-22
-source: "https://sachhiem.net/LICHSU/FB/FBQuangVinhPh.php"
+source: "/LICHSU/FB/FBQuangVinhPh"
 category: "Chính trị"
 lang: vi
 wordCount: 3293

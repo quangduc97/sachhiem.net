@@ -2,23 +2,22 @@
 layout: ../../layouts/Article.astro
 title: "PHỤ ĐẠO CÁC “THẦY\""
 author: "Mục Đồng"
-source: "https://sachhiem.net/DOITHOAI/mucdong.php"
+source: "/DOITHOAI/mucdong"
 category: "Đối thoại"
 lang: vi
 wordCount: 13428
-image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nha.jpg"
 ---
 
-<p align="center"><a href="https://www.sachhiem.net/"> <img border="0" src="https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nha.jpg"></a> 23 tháng 11, 2007  </p>
+<p align="center"> 23 tháng 11, 2007  </p>
 	<p><i>LTS:  Sách Hiếm nhận được bài viết dưới đây trong hồ sơ mang tên: "Làm Thầy Kẻ Ngu", nhưng tựa bài là "Phụ Đạo Các Thầy". Ngoại trừ một vài đoạn dài được phân chia cho ngắn lại để người đọc dễ theo dõi, sách hiếm xin được đăng nguyên văn để giữ trọn cá tính, phong thái, và cảm giác của người viết.  Các bài viết của các tác giả liên hệ được liệt kê như sau:
 </i> </p>
- 		<p><i>bài của Trần Chung Ngọc, nhan đề <a href="https://sachhiem.net/TCN/TCNkh/TCNkh14.php">"Vấn Đề Đạo Đức Trong Khoa Học [Nhân Đọc Những Bài Viết Về Khoa Học Gia Dương Nguyệt Ánh]"</a></i></p>
+ 		<p><i>bài của Trần Chung Ngọc, nhan đề <a href="/TCN/TCNkh/TCNkh14">"Vấn Đề Đạo Đức Trong Khoa Học [Nhân Đọc Những Bài Viết Về Khoa Học Gia Dương Nguyệt Ánh]"</a></i></p>
 	<p><i>bài của Nguyễn Tường Tâm, nhan đề  <a href="https://www.talawas.org/talaDB/showFile.php?res=11314&amp;rb=0306">
  "Một bài viết thiếu tiêu 	chuẩn khoa học của ông Trần Chung Ngọc" </a></i>.  </p>
 	<p>bài phản hồi của tác giả Trần Chung Ngọc, nhan đề: 
-		<a href="https://sachhiem.net/TCN/TCNdt/TCNdt009.php"><i>"Vài Nhận Xét Về Bài: Một bài viết thiếu tiêu chuẩn khoa học của ông Trần Chung Ngọc- Của Nguyễn Tường Tâm"</i></a> </p>
+		<a href="/TCN/TCNdt/TCNdt009"><i>"Vài Nhận Xét Về Bài: Một bài viết thiếu tiêu chuẩn khoa học của ông Trần Chung Ngọc- Của Nguyễn Tường Tâm"</i></a> </p>
 	<p>bài của Lý Thái Xuân, nhan đề: 
-<i><a href="https://sachhiem.net/LTX/LyThaiDT00.php">"Cảm nghĩ sau bài "Một bài viết thiếu tiêu chuẩn ..." của&nbsp;ông Nguyễn Tường Tâm."&nbsp;</a></i> </p>
+<i><a href="/LTX/LyThaiDT00">"Cảm nghĩ sau bài "Một bài viết thiếu tiêu chuẩn ..." của&nbsp;ông Nguyễn Tường Tâm."&nbsp;</a></i> </p>
 	<p>bài ông Trần Vinh, nhan đề:<a href="https://www.tiengnoigiaodan.net/dacbiet/db_gyctv.html">"<i>Bài góp ý về Chính trị và tôn giáo</i>"
 	</a> </p>
 	<p>bài ông Chu Tấn, nhan đề:  

@@ -3,7 +3,7 @@ layout: ../../../layouts/Article.astro
 title: "Làm Thế Nào Để Chạy Tội Cho Nhà Ngô?"
 author: "Trần Quang Diệu vs Lữ Giang"
 date: 2013-06-01
-source: "https://sachhiem.net/LICHSU/TR/TQD28_LG.php"
+source: "/LICHSU/TR/TQD28_LG"
 category: "Đối thoại"
 lang: vi
 wordCount: 4638
@@ -13,7 +13,7 @@ image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/TONGIAO/IMG/PHAPNAN/
 <div class="tomluoc">
 <p> <i>LTS:  Tiếng nổ long trời trước đám đông Phật tử tụ họp trước đài phát thanh để nghe bài thuyết giảng ngày 8 tháng 5, 1963 không phải là điều duy nhất để định tội chính quyền nhà Ngô đàn áp Phật giáo.  Tám em Phật tử bị chết không toàn thây cũng chưa phải là điều duy nhất để kết tội nhà Ngô đàn áp Phật giáo. Đã có rất nhiều những sự kiện quan trọng khác đã xảy ra.</i></p>
 <p><i>Đổ cho VC xúi Phật giáo tranh đấu, vậy ai xúi nhà Ngô làm những việc:  ban hành luật cấm treo cờ vào đúng thời điểm, phân biệt tôn giáo để chỉ có một con đường dành cho "tôi tớ Chúa" mới có thể tậu mãi bất động sản, chỉ có dân Chúa mới thăng chức lên quan dễ dàng, hoặc không bị kết tội "theo Việt Cộng". </i><i>Bác sĩ Erich Wulff cũng không phải là chứng nhân duy nhất của biến cố trước đài phát thanh hôm ấy. Tất cả đám đông có mặt hôm ấy, mỗi người là một chứng nhân. </i></p>
-<p><i>Có thật nhiều chứng cớ, thật nhiều sự kiện, thật nhiều dư luận, cả trong và ngoài nước, một số những sự kiện may mắn  có phóng viên chụp ảnh,  may mắn được công bố, và gần đây những tài liệu giải mật của Bộ Ngoại Giao Mỹ (xem bài <a href="https://sachhiem.net/LICHSU/T/Tamdieu01.php">"Tấn Công Hóa Học" của Tâm Diệu</a> qua tài liệu  <a href="https://history.state.gov/historicaldocuments/frus1961-63v03/pg_343"> https://history.state.gov/</a>),.. tất cả kết thành một dây xích dài, đủ  định tội cho nhà Ngô.</i></p>
+<p><i>Có thật nhiều chứng cớ, thật nhiều sự kiện, thật nhiều dư luận, cả trong và ngoài nước, một số những sự kiện may mắn  có phóng viên chụp ảnh,  may mắn được công bố, và gần đây những tài liệu giải mật của Bộ Ngoại Giao Mỹ (xem bài <a href="/LICHSU/T/Tamdieu01">"Tấn Công Hóa Học" của Tâm Diệu</a> qua tài liệu  <a href="https://history.state.gov/historicaldocuments/frus1961-63v03/pg_343"> https://history.state.gov/</a>),.. tất cả kết thành một dây xích dài, đủ  định tội cho nhà Ngô.</i></p>
 <p><i> Vậy nhóm người có sứ mạng "<b>tiêu diệt bụt thần... để làm sáng danh Chúa</b>" (mà ông Lữ Giang gọi là "<b>những người tranh đấu cho tự do dân chủ !</b>") muốn phân chất tiếng nổ, hay phân loại xe tăng,...  chỉ có thể làm được mỗi một chuyện là câu giờ cho qua, đánh lạc hướng vấn đề, chứ không thể biện minh điều gì cả.  </i> (SH)</p>
 </div>
 
@@ -37,7 +37,7 @@ image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/TONGIAO/IMG/PHAPNAN/
 <p>Ông Lữ Giang cho rằng những chữ <b>"nghe nói"</b> của  Bác  sĩ Wulff chứng tỏ ông Wulff  chỉ toàn nghe các nhà sư Phật giáo. Nhưng thực sự những gì bác sĩ Wulff "nghe nói" đã xác tín thêm những sự kiện mà ông chứng nghiệm tận mắt, và được chứng minh bằng những nguồn tài liệu khả tín khác, như tôi sẽ chứng minh sau: </p>
 <p><b>= ► Bác sĩ Wulff:  “ <i>Tôi  cũng có nghe nói </i></b><i> đến trường hợp nhiều người đã  theo phe kháng chiến Việt minh hay những phe  đối lập chính trị khác  đã phải đổi theo đạo Thiên chúa để khỏi bị công  an làm khó dể…</i>” </p>
 <p>Ông Wulff nghe như vậy là  quá chính xác rồi chứ còn gì nữa? </p>
-<p>Trong bài trích thuật của  tôi mang chủ đề “Có một khúc quanh đen tối và thê lương” <a href="https://www.sachhiem.net/index.php?content=showrecipe&amp;id=5002" target="_blank">https://www.sachhiem.net/index.php?content=showrecipe&amp;id=5002</a> về việc Cần Lao Ngô Đình Cẩn đã giết mấy trăm ngàn đồng  bào miền Trung là bằng cớ hùng hồn. </p>
+<p>Trong bài trích thuật của  tôi mang chủ đề “Có một khúc quanh đen tối và thê lương” <a href="/LICHSU/TR/TQD03" target="_blank">https://www.sachhiem.net/index.php?content=showrecipe&amp;id=5002</a> về việc Cần Lao Ngô Đình Cẩn đã giết mấy trăm ngàn đồng  bào miền Trung là bằng cớ hùng hồn. </p>
 <p><b>= ► Bác sĩ Wulff:  “ <i>Có  một tin đồn nói rằng </i></b><i> Tổng giám  mục Thục muốn đổi đạo cho một phần ba  dân số Việt nam để hy vọng sẽ được phong  làm Hồng y. Tôi cũng biết rằng Giáo  hội Thiên chúa giáo là tôn giáo duy nhất tại Việt nam được công  nhận như là một hiệp hội công  cộng, trong khi đó Phật giáo  phải bằng lòng với tư cách của một hiệp hội tư, không  khác gì một hội đá banh…”</i></p>
 <p> Bác sĩ Wulff nghe  “tin đồn” như vậy là cũng đúng chứ đâu có sai? Cái đó là nội dung “Đạo Dụ số 10  và, “xin lỗi” ông Lữ Giang, nếu không vì cái họa mà anh em nhà Ngô là những “sứ  thần của thành Rom”, “làm theo đức vâng lời” ngoại bang, cúi đầu hôn nhẫn sứ  thần ngoại bang,“việc chúng tôi làm là vì Chúa, vì Giáo hội” mà có người đã  từng viết rằng "<i>Tòa Thánh có đánh rắm cũng khen thơm"</i>,  rồi thì  “<i>Tòa Thánh La mã đã hại nhà Ngô”</i> (bởi trở nên cuồng  tín) v.v… thì Ngô triều đâu ra nông nỗi như: Ngày 11.11.1960 lính Dù đảo chánh.  Ngày 27.2.1962 Phạm Phú Quốc và Nguyễn Văn Cử giội bom xuống dinh Độc Lập. Ngày  1.11.1963, lần cuối cùng quân dân miền Nam Việt Nam quyết tâm giật sập chế độ  (nếu thất bại, họ sẽ bị “treo cổ trên đường Công Lý”?), truy tố tay chân bộ hạ  nhà Ngô, xử tử hình ông Ngô Đình Cẩn? </p>
 <p><b>= ► </b> Ông Lữ Giang biện luận: </p>
@@ -129,5 +129,5 @@ image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/TONGIAO/IMG/PHAPNAN/
 <p class="TacgiaL">Trần Quang  Diệu </p>
 <hr width="30%" align="left">
 <p><b>Bài đọc thêm:</b></p>
-<p>- <a href="https://sachhiem.net/THOISU_CT/ChuV/VuBang.php">Báo chí thời Ngô Đình Diệm</a> (Vũ Bằng) -<br>
-<a href="https://sachhiem.net/THOISU_CT/ChuV/VuBang.php">https://sachhiem.net/THOISU_CT/ChuV/VuBang.php</a></p>
+<p>- <a href="/THOISU_CT/ChuV/VuBang">Báo chí thời Ngô Đình Diệm</a> (Vũ Bằng) -<br>
+<a href="/THOISU_CT/ChuV/VuBang">https://sachhiem.net/THOISU_CT/ChuV/VuBang.php</a></p>

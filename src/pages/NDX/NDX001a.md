@@ -2,15 +2,15 @@
 layout: ../../layouts/Article.astro
 title: "Tìm hiểu lịch sử Nhà thờ La Vang"
 author: "Nguyễn Đắc Xuân"
-source: "https://sachhiem.net/NDX/NDX001a.php"
+source: "/NDX/NDX001a"
 category: "Tác giả"
 lang: vi
 wordCount: 18499
-image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nha.jpg"
+image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/Next3.gif"
 ---
 
 <table border="0" cellpadding="1" align="center" width="250">
-        <tbody><tr><td width="100"><a href="https://sachhiem.net/index.php"><img border="0" src="https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nha.jpg"></a></td>
+        <tbody><tr><td width="100"></td>
         <td> 11 tháng 1, 2008
 		</td></tr></tbody></table>
 

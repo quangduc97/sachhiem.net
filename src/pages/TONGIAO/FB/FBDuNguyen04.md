@@ -3,7 +3,7 @@ layout: ../../../layouts/Article.astro
 title: "Giáo Hội Công Giáo LM Kỳ Thị Phái Nữ"
 author: "Du Nguyễn"
 date: 2023-01-19
-source: "https://sachhiem.net/TONGIAO/FB/FBDuNguyen04.php"
+source: "/TONGIAO/FB/FBDuNguyen04"
 category: "Chính trị"
 lang: vi
 wordCount: 797
@@ -13,7 +13,7 @@ image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/TONGIAO/IMG/LINHMUC/
 <div class="tomluoc">
    <p><i>LTS: Trên kênh youtube <a href="https://www.youtube.com/watch?v=5A8tE-0bGf0">VietCatholicNews, ngày 16/01/2023 </a>có đăng tin như sau: "Đau buồn: Ba Giám Mục Thụy Sĩ bày tỏ âu lo trước trào lưu các linh mục mời phụ nữ đồng tế thánh lễ."  Giám mục sở tại đã mở cuộc điều tra sơ bộ vì ông linh mục đã "lạm dụng phụng vụ". Giáo hội La Mã ở địa phương đã đưa ra <b>Điều 907</b> của giáo luật GHCG "Cấm các phó tế CG và giáo dân CG dâng lời cầu nguyện "Thánh Thể", và thực hiện các hành động chỉ phù hợp với linh mục cử hành lễ." </i></p>
    <p align="center"><img src="https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/TONGIAO/IMG/LINHMUC/PHUNU_DongTe_ThuySi.jpg" width="400" height="360" alt=""></p>
-   <p><i>Nhớ lại các câu chuyện như linh mục Giuse Nguyễn Ngọc Dũng gạt gẫm các cô muốn đi tu như thế nào, (xem <a href="https://sachhiem.net/TONGIAO/tgB/Bacaytruc00a.php">thư cảnh báo của cô Lữ thị Thu Nga ở sachhiem.net</a>) và chuyện Giue Nguyễn Tiến Lộc loạn luân với các cháu gái và trai như thế nào, chúng ta có thể nghĩ rằng GHLM thực sự đã xem phụ nữ chỉ là món hàng giải trí thấp kém mà thôi. Bạn Du Nguyễn đã có công liệt kê một danh sách quan niệm của các "thánh" về phái nữ như dưới đây. Xin mời bạn đọc (SH)</i> </p>
+   <p><i>Nhớ lại các câu chuyện như linh mục Giuse Nguyễn Ngọc Dũng gạt gẫm các cô muốn đi tu như thế nào, (xem <a href="/TONGIAO/tgB/Bacaytruc00a">thư cảnh báo của cô Lữ thị Thu Nga ở sachhiem.net</a>) và chuyện Giue Nguyễn Tiến Lộc loạn luân với các cháu gái và trai như thế nào, chúng ta có thể nghĩ rằng GHLM thực sự đã xem phụ nữ chỉ là món hàng giải trí thấp kém mà thôi. Bạn Du Nguyễn đã có công liệt kê một danh sách quan niệm của các "thánh" về phái nữ như dưới đây. Xin mời bạn đọc (SH)</i> </p>
  </div>
 
 <p><b>Du Nguyen:</b><br>

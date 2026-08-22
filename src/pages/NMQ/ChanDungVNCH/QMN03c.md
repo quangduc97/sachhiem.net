@@ -2,13 +2,13 @@
 layout: ../../../layouts/Article.astro
 title: "Chân Dung \"Người Việt Quốc Gia\""
 author: "Nguyễn Mạnh Quang"
-source: "https://sachhiem.net/NMQ/ChanDungVNCH/QMN03c.php"
+source: "/NMQ/ChanDungVNCH/QMN03c"
 lang: vi
 wordCount: 2924
-image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/HOANHLINH/images/nha.jpg"
+image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/HOANHLINH/images/print.gif"
 ---
 
-<p class="Tuaduoi">Và Lá Cờ Vàng Ba Sọc Đỏ</p>   <p align="center"><a href="/index"> 		<img hspace="20" border="0" src="https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/HOANHLINH/images/nha.jpg"></a> 
+<p class="Tuaduoi">Và Lá Cờ Vàng Ba Sọc Đỏ</p>   <p align="center"> 
 <a target="_top" href="/NMQ/ChanDungVNCH/QMN03c"><img hspace="20" border="0" src="https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/HOANHLINH/images/print.gif" width="18" height="18"> bản in</a> 	<a target="_top" href="/NMQ/ChanDungVNCH/ChanDung_Main"><img hspace="20" border="0" src="https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/HOANHLINH/images/Leftarrow.gif" width="13" height="13">  mục lục</a>
  đăng ngày 08 tháng 6, 2008
 </p>

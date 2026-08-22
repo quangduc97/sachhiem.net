@@ -2,7 +2,7 @@
 layout: ../../../layouts/Article.astro
 title: "Những tấm gương bình dị mà cao quý:"
 author: "LÊ TRUNG NGUYÊN"
-source: "https://sachhiem.net/null"
+source: "/null"
 category: "Văn hóa"
 lang: vi
 wordCount: 1398

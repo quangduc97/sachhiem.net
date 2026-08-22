@@ -3,7 +3,7 @@ layout: ../../../layouts/Article.astro
 title: "Nói Về Đạo Của Tôi:"
 author: "Cao Hữu Tâm"
 date: 2014-01-28
-source: "https://sachhiem.net/TONGIAO/tgC/Caohtam05.php"
+source: "/TONGIAO/tgC/Caohtam05"
 category: "Tác giả"
 lang: vi
 wordCount: 894

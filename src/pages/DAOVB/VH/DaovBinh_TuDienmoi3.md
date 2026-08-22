@@ -2,14 +2,14 @@
 layout: ../../../layouts/Article.astro
 title: "Tự Điển Tiếng Việt Đổi Đời - 3"
 author: "Đào Văn Bình"
-source: "https://sachhiem.net/DAOVB/VH/DaovBinh_TuDienmoi3.php"
+source: "/DAOVB/VH/DaovBinh_TuDienmoi3"
 category: "Văn hóa"
 lang: vi
 wordCount: 3408
-image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nha.jpg"
+image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/DAOVB/VH/LaiXe.jpg"
 ---
 
-<p align="center"><a href="/index"><img hspace="20" border="0" src="https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nha.jpg"></a> 06- May- 2017</p>
+<p align="center"> 06- May- 2017</p>
 <div class="tomluoc">
   <p><b><i>Muốn trừng trị,  trừng phạt phải biết sai phạm ở chỗ nào</i></b> biến thành “<b><i>Xử lý  phải có địa chỉ rõ ràng</i></b>”. Đó là tiếng Việt điên khùng của ông Tiến Sĩ  Nguyễn Viết Chức đăng trên VOV ngày 30/3/2017<i> (ĐVB) </i></p>
 </div>
@@ -92,4 +92,4 @@ image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nha.jpg"
 <p>- <a href="https://motgoctroi.com/DienDan/Dd_Vanhoa/TiengVietNN/TiengVietthoinay.htm">Tiếng Việt thời nay: nên cười hay nên khóc?</a></p>
 
 <hr>
- <p><a href="https://sachhiem.net/DAOVB/DVBdir.php">-  Link các bài viết của tác giả Đào Văn Bình - </a> </p>
+ <p><a href="/DAOVB/DVBdir">-  Link các bài viết của tác giả Đào Văn Bình - </a> </p>

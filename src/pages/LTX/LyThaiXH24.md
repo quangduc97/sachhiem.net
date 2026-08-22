@@ -3,7 +3,7 @@ layout: ../../layouts/Article.astro
 title: "Từ Bài Thơ Của Ông Già Mất Rau"
 author: "Lý Thái Xuân"
 date: 2015-10-17
-source: "https://sachhiem.net/LTX/LyThaiXH24.php"
+source: "/LTX/LyThaiXH24"
 category: "Xã hội"
 lang: vi
 wordCount: 1433

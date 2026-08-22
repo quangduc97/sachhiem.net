@@ -3,7 +3,7 @@ layout: ../../../layouts/Article.astro
 title: "Lê Văn Duyệt Có Xứng Đáng Để Thần Thánh Hoá Đến Mức Này?"
 author: "Lão Chăn Bò"
 date: 2025-10-22
-source: "https://sachhiem.net/LICHSU/L/LaoChanBo05.php"
+source: "/LICHSU/L/LaoChanBo05"
 category: "Lịch sử"
 lang: vi
 wordCount: 5348

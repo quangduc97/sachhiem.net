@@ -2,18 +2,18 @@
 layout: ../../../layouts/Article.astro
 title: "Chuyện Bức Tượng Đức Mẹ Khóc Ra Máu Tại Bolivia"
 author: "Nguyễn Trọng Nghĩa"
-source: "https://sachhiem.net/TONGIAO/tgN/NgTnghia_DM_Bolivia.php"
+source: "/TONGIAO/tgN/NgTnghia_DM_Bolivia"
 category: "Tác giả"
 lang: vi
 wordCount: 1850
-image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nha.jpg"
+image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/TONGIAO/IMG/MARY/DMkhoc_Bolivia.jpg"
 ---
 
 <p class="Tuaduoi">- Có Cứu Vãn Đức Tin Được Chăng?</p>
      
 
-     <p align="center"><a href="/index"><img hspace="20" border="0" src="https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nha.jpg"></a> </p>
-<p><i> LTS:  Đến nay người ta có lẽ đã quen với một vài chuyện Giáo Hội La Mã  khai thác triệt để sự mê tín của quần chúng để làm thương mại, thu vào những nguồn lợi khổng lồ, như chuyện ở Lourdes chẳng hạn (<a href="https://sachhiem.net/TCN/TCNtg/TCN55.php">xin đọc Trần Chung Ngọc</a>). Còn lại thì những chuyện tượng Maria khóc ra dầu, ra nước, ra máu,... hay tượng biết nhúc nhích,..., xảy ra ở những nơi có tín đồ và các linh mục thuộc dân tộc của các nước kém mở mang. Đối với những vụ này, Tòa thánh Vatican sẽ phủ nhận (vì họ đã dư biết  các hiện tượng đó do đâu mà có) để khỏi mang tai tiếng.   Dù thế nào đi nữa, xin quí vị cứ đem chuyện này hỏi thử vài bạn trẻ xem họ có tò mò muốn biết chăng, hay họ sẽ chỉ gửi lại một nụ cười mĩm, rất nhẹ nhàng! Tác giả cũng vậy, ông không bàn đến chuyện Bà Maria có khóc ở Bolivia hay không, nhưng nó gây cảm hứng cho ông viết về những chuyện ở giáo phận Vinh.  (SH)</i></p>
+     
+<p><i> LTS:  Đến nay người ta có lẽ đã quen với một vài chuyện Giáo Hội La Mã  khai thác triệt để sự mê tín của quần chúng để làm thương mại, thu vào những nguồn lợi khổng lồ, như chuyện ở Lourdes chẳng hạn (<a href="/TCN/TCNtg/TCN55">xin đọc Trần Chung Ngọc</a>). Còn lại thì những chuyện tượng Maria khóc ra dầu, ra nước, ra máu,... hay tượng biết nhúc nhích,..., xảy ra ở những nơi có tín đồ và các linh mục thuộc dân tộc của các nước kém mở mang. Đối với những vụ này, Tòa thánh Vatican sẽ phủ nhận (vì họ đã dư biết  các hiện tượng đó do đâu mà có) để khỏi mang tai tiếng.   Dù thế nào đi nữa, xin quí vị cứ đem chuyện này hỏi thử vài bạn trẻ xem họ có tò mò muốn biết chăng, hay họ sẽ chỉ gửi lại một nụ cười mĩm, rất nhẹ nhàng! Tác giả cũng vậy, ông không bàn đến chuyện Bà Maria có khóc ở Bolivia hay không, nhưng nó gây cảm hứng cho ông viết về những chuyện ở giáo phận Vinh.  (SH)</i></p>
 <hr> 
 <p align="center"><img src="https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/TONGIAO/IMG/MARY/DMkhoc_Bolivia.jpg" width="350" height="233" alt=""></p>
 <p align="center"><i>Có Nên Cứu Vãn Đức Tin Bằng Những Điều Huyễn Hoặc Thế Này?  </i></p>

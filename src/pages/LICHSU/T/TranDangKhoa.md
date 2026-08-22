@@ -3,7 +3,7 @@ layout: ../../../layouts/Article.astro
 title: "Hồ Chí Minh- Người Nghèo Nhất Nước"
 author: "Trần Đăng Khoa/ Việt Nam Trong Tim Tôi"
 date: 2019-05-19
-source: "https://sachhiem.net/LICHSU/T/TranDangKhoa.php"
+source: "/LICHSU/T/TranDangKhoa"
 category: "Chính trị"
 lang: vi
 wordCount: 2103

@@ -3,7 +3,7 @@ layout: ../../layouts/Article.astro
 title: "Hướng Dẫn Cho Bữa Tiệc Trước Ngày Lễ Đúng Cách Trong Lớp Học Ở Mỹ"
 author: "Lý Thái Xuân sưu tầm"
 date: 2022-12-11
-source: "https://sachhiem.net/LTX/LyThaiTG37_Noel.php"
+source: "/LTX/LyThaiTG37_Noel"
 category: "Tác giả"
 lang: vi
 wordCount: 1785

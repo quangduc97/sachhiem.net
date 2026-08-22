@@ -2,7 +2,7 @@
 layout: ../../../layouts/Article.astro
 title: "Góc Nhìn Từ Một Người Đi Dự Phiên Toà"
 author: "Tràng An"
-source: "https://sachhiem.net/null"
+source: "/null"
 category: "Chính trị"
 lang: vi
 wordCount: 2217

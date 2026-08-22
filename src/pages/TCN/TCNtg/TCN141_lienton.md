@@ -3,7 +3,7 @@ layout: ../../../layouts/Article.astro
 title: "Chiêu Bài “Đối Thoại Liên Tôn” Của Ca-Tô Rô-ma Giáo - Thực Chất"
 author: "Trần Chung Ngọc"
 date: 2014-08-10
-source: "https://sachhiem.net/TCN/TCNtg/TCN141_lienton.php"
+source: "/TCN/TCNtg/TCN141_lienton"
 category: "Tác giả"
 lang: vi
 wordCount: 5165
@@ -96,7 +96,7 @@ image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/TONGIAO/IMG/TRUYENDA
   <hr>
  <p><b>Nguồn:</b></p>
  <p>Trích từ bài <i>"Về Thông Điệp Của Hồng Y Jean-Louis Tauran"</i> - Gửi Các Phật Tử Nhân Dịp Lễ Vesak 2013 (Trần Chung Ngọc)</p>
- <p><a href="https://sachhiem.net/TCN/TCNtg/TCN141.php">https://sachhiem.net/TCN/TCNtg/TCN141.php</a></p>
+ <p><a href="/TCN/TCNtg/TCN141">https://sachhiem.net/TCN/TCNtg/TCN141.php</a></p>
 <p><a href="/TCN/#st" name="nst">(*)</a> Ông Heiner Bielefeldt (April 12, 1958) là một nhà triết học Đức, sử gia và <b>nhà thần học Ca-tô</b>.  Năm 2010, ông được bổ nhiệm làm  Báo cáo viên đặc biệt về tự do tôn giáo và tín ngưỡng ở Liên Hiệp Quốc. </p>
 <p>Hôm 24 Aug 2016, nhân soát lại bài này, thấy <a href="https://www.chuacuuthe.com/2014/08/hoi-dong-lien-ton-viet-nam-cam-on-va-kien-nghi-tien-si-heiner-bielefeldt/">link bản Việt ngữ</a> không còn chạy. Bấm vào đây để xem <a href="https://www.vrnews.org/2014/08/vietnams-inter-religious-council.html">bản Anh ngữ của lá thư:  Hội Đồng Liên Tôn Việt Nam gửi ông Heiner Bielefeldt</a>. </p>
  <div align="center"> 

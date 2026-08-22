@@ -2,14 +2,14 @@
 layout: ../../layouts/Article.astro
 title: "Tôi không theo Pascal"
 author: "Trần Tiên Long"
-source: "https://sachhiem.net/TTL/TranTL01.php"
+source: "/TTL/TranTL01"
 category: "Tác giả"
 lang: vi
 wordCount: 5055
-image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nha.jpg"
+image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/SACHNGOAI/Hinhanh/PEOPLE/Blaise_pascal.jpg"
 ---
 
-<p align="center"><a href="/index"><img hspace="20" border="0" src="https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nha.jpg"></a>  04 tháng 1, 2011 	</p>
+<p align="center">  04 tháng 1, 2011 	</p>
 
 		<p>
 		<span class="First">T</span>rong 
@@ -460,7 +460,7 @@ image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nha.jpg"
 		<hr align="left" width="30%">
 
 		<p><a name="nr1" href="/TTL/#1"> [1] </a> 
-		<a href="https://sachhiem.net/KHOAHOC/T/TranTienLong.php#1">
+		<a href="/KHOAHOC/T/TranTienLong#1">
 		<i>
 		Richard</i></a><i> 
 		Dawkins –</i>

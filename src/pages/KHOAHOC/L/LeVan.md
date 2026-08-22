@@ -2,15 +2,15 @@
 layout: ../../../layouts/Article.astro
 title: "NASA: 'Năm đại họa' là có thật?"
 author: "Lê Văn / VietNamNet"
-source: "https://sachhiem.net/Levc.php"
+source: "/Levc"
 category: "Khoa học"
 lang: vi
 wordCount: 545
-image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nha.jpg"
+image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/IMG/TheSun.jpg"
 ---
 
 <table border="0" cellpadding="1" align="center" width="250">
-        <tbody><tr><td width="100"><a href="/index"><img border="0" src="https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nha.jpg"></a></td>
+        <tbody><tr><td width="100"></td>
 		<td valign="top">26 tháng 6, 2010
 	</td></tr></tbody></table>
 		<p><span class="First">T</span>rong khi nhiều người còn đang lo lắng về “năm đại họa 2012” thì mới đây NASA đưa ra cảnh báo về trận bão từ sẽ làm thay đổi toàn bộ cuộc sống trên Trái đất vào năm 2013.</p>

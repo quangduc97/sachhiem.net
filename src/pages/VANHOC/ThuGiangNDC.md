@@ -3,7 +3,7 @@ layout: ../../layouts/Article.astro
 title: "Tín Ngưỡng Và Trí Thức"
 author: "Thu Giang Nguyễn Duy Cần"
 date: 2014-07-01
-source: "https://sachhiem.net/VANHOC/ThuGiangNDC.php"
+source: "/VANHOC/ThuGiangNDC"
 category: "Chính trị"
 lang: vi
 wordCount: 1822

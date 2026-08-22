@@ -3,7 +3,7 @@ layout: ../../../layouts/Article.astro
 title: "Về Vấn Đề Dùng Bút Danh “Trần Dân Tiên” Của Cụ Hồ"
 author: "Trần Khuê– Ng. Thị Thanh Xuân"
 date: 2013-04-23
-source: "https://sachhiem.net/THOISU_CT/ChuTr/TranKhue.php"
+source: "/THOISU_CT/ChuTr/TranKhue"
 category: "Tác giả"
 lang: vi
 wordCount: 2664
@@ -75,4 +75,4 @@ image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/THOISU_CT/Hinh/STATU
 <p class="nguonL">(Nguồn: Trích chuyên luận ”<i>Đấng minh triết Hồ Chí Minh trong đời sống tâm linh Việt”</i>)</p>
  
 <p><b>Bài liên quan với đề tài:</b></p>
-<p><a href="https://sachhiem.net/THOISU_CT/ChuN/NgnThhTung01.php">- Đã tìm thấy Trần Dân Tiên? </a> (Nguyễn Thanh Tùng</p>
+<p><a href="/THOISU_CT/ChuN/NgnThhTung01">- Đã tìm thấy Trần Dân Tiên? </a> (Nguyễn Thanh Tùng</p>

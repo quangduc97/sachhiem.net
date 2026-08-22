@@ -2,7 +2,7 @@
 layout: ../../../layouts/Article.astro
 title: "Mỹ: Nghiên Cứu Về HT Thích Quảng Đức,"
 author: "Tin Việt Báo"
-source: "https://sachhiem.net/null"
+source: "/null"
 category: "Tác giả"
 lang: vi
 wordCount: 523

@@ -2,15 +2,14 @@
 layout: ../../../layouts/Article.astro
 title: "Sử dụng súng tại Mỹ - Vấn Đề Nan Giải"
 author: "Diễn Đàn Thư Tín"
-source: "https://sachhiem.net/XAHOI/T/ThuTin.php"
+source: "/XAHOI/T/ThuTin"
 category: "Chính trị"
 lang: vi
 wordCount: 486
-image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nha.jpg"
+image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/THOISU_CT/Hinh/HOAKY/Coat_of_arms_of_US.jpg"
 ---
 
-<p align="center"><a href="https://www.sachhiem.net/"> <img border="0" src="https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nha.jpg"></a> </p>
-  <p><b>From:</b> chinhnghia@yahoogroups.com <br> <b>Sent:</b> Friday, October 2, 2015 7:07 PM <b><br>
+<p><b>From:</b> chinhnghia@yahoogroups.com <br> <b>Sent:</b> Friday, October 2, 2015 7:07 PM <b><br>
     Subject:</b> [ChinhNghia] Sử dụng súng tại Mỹ</p><p class="Tuaduoi"><b>Sử dụng súng tại Mỹ</b></p>
   
   <p align="center"><b>***</b></p>

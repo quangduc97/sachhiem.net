@@ -3,7 +3,7 @@ layout: ../../../layouts/Article.astro
 title: "Tây Ban Nha: Hệ thống quy mô"
 author: "Vũ Sơn sưu tầm"
 date: 2011-11-13
-source: "https://sachhiem.net/THOISU_CT/ChuB/BuiThanhTong01.php"
+source: "/THOISU_CT/ChuB/BuiThanhTong01"
 category: "Tác giả"
 lang: vi
 wordCount: 2094
@@ -270,7 +270,7 @@ image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.devhttps://sachhiem.net/
 		
      <p class="TacgiaL">Vũ Sơn sưu tầm và dịch</p>
 <p>nguồn: https://www.bbc.co.uk/news/magazine-15335899<b> </b></p>
-		<p class="TacgiaL">  <a href="https://sachhiem.net/THOISU_CT/ChuB/BuiThanhTong01.php">https://sachhiem.net/THOISU_CT/ChuB/BTTvuson.php </a></p>
+		<p class="TacgiaL">  <a href="/THOISU_CT/ChuB/BuiThanhTong01">https://sachhiem.net/THOISU_CT/ChuB/BTTvuson.php </a></p>
 		
 		<hr width="300"><p><b>Video
 		      phóng sự của BBC:</b></p>

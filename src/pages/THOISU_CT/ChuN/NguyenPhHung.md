@@ -3,7 +3,7 @@ layout: ../../../layouts/Article.astro
 title: "Thỉnh Nguyện Thư - Một cuộc lường gạt chính trị vĩ đại"
 author: "Nguyễn Phương Hùng"
 date: 2012-03-07
-source: "https://sachhiem.net/THOISU_CT/ChuN/NguyenPhHung.php"
+source: "/THOISU_CT/ChuN/NguyenPhHung"
 category: "Chính trị"
 lang: vi
 wordCount: 6266
@@ -250,25 +250,25 @@ image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/THOISU_CT/Hinh/CCCB/
 	  dịch này. Tôi nghiệp.<img src="https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/sqdot.gif" width="10" height="10"></p>
 	<hr>
 	<p><b>Các bài cùng đề tài:</b> </p>
-	<p>● - <a href="https://sachhiem.net/TCN/TCNts/TCNts055.php"> Vài Ý Kiến Ngắn
+	<p>● - <a href="/TCN/TCNts/TCNts055"> Vài Ý Kiến Ngắn
         Về “Thỉnh Nguyện Thư"</a> - <i> Trần Chung Ngọc </i>- </p>
-    <p>● - <a href="https://sachhiem.net/THOISU_CT/ChuV/VoKhanhLinh.php">Thỉnh
+    <p>● - <a href="/THOISU_CT/ChuV/VoKhanhLinh">Thỉnh
         Nguyện Thư - Hơn 30 năm vẫn chưa tỉnh cơn mê! </a> - <i> Võ Khánh Linh </i>- </p>
-    <p>● - <a href="https://sachhiem.net/XICHLOV/XichloViet07.php"> Thỉnh Nguyện
+    <p>● - <a href="/XICHLOV/XichloViet07"> Thỉnh Nguyện
         Thư - Vỡ Mộng </a> - <i> Xích Lô Việt </i>- </p>
-    <p>● - <a href="https://sachhiem.net/THOISU_CT/ChuN/NguyenPhHung.php">Thỉnh
+    <p>● - <a href="/THOISU_CT/ChuN/NguyenPhHung">Thỉnh
         Nguyện Thư - Một cuộc lường gạt chính trị vĩ đại </a> - <i> Nguyễn Phương
         Hùng </i></p>
-    <p>● - <a href="https://sachhiem.net/index.php?content=showemail&amp;id=74">Đồ
+    <p>● - <a href="/net/index">Đồ
         Nói Láo - và Những Phản Ứng Linh Tinh Về Thỉnh Nguyện Thư</a> - <i>Nguyễn
         Phương Hùng </i> </p>
-    <p> ● - <a href="https://sachhiem.net/index.php?content=showemail&amp;id=73">Tin
+    <p> ● - <a href="/net/index">Tin
         Nổ Tung: Vụ gặp gỡ tại Toà Bạch Ốc TRĂM VOI KHÔNG ĐƯỢC BÁT NƯỚC XÁO</a> - <i>Gia
         Cat </i></p>
-    <p> ● - <a href="https://sachhiem.net/index.php?content=showemail&amp;id=72">Thỉnh
+    <p> ● - <a href="/net/XICHLOV/XichloViet06">Thỉnh
         Nguyện Thư: Việt Dzũng cầm nhầm chữ ký của đồng bào để đe dọa TT Barack
         Obama</a> - <i>Nga Phan </i></p>
-    <p> ● - <a href="https://sachhiem.net/THOISU_CT/ChuN/NguyenPhHung.php">Thỉnh
+    <p> ● - <a href="/THOISU_CT/ChuN/NguyenPhHung">Thỉnh
         Nguyện Thư - Một cuộc lường gạt chính trị vĩ đại </a> - <i> Nguyễn Phương
         Hùng </i></p>
     

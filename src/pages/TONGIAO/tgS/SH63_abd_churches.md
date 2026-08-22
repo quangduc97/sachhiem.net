@@ -3,7 +3,7 @@ layout: ../../../layouts/Article.astro
 title: "Những ngôi nhà thờ đẹp nhất trên thế giới bị bỏ hoang"
 author: "Sophia Rosenbaum/ The American Catholic"
 date: 2016-01-08
-source: "https://sachhiem.net/TONGIAO/tgS/SH63_aban_churches.php"
+source: "/TONGIAO/tgS/SH63_aban_churches"
 category: "Tác giả"
 lang: vi
 wordCount: 117

@@ -2,7 +2,7 @@
 layout: ../../../layouts/Article.astro
 title: "Không thể có quốc lễ nếu người dân thiếu lễ"
 author: "Nguyễn Mai Sơn"
-source: "https://sachhiem.net/nguồn https://huongsenviet.blogspot.com/"
+source: "/nguồn https://huongsenviet.blogspot.com/"
 category: "Chính trị"
 lang: vi
 wordCount: 2744
@@ -33,7 +33,7 @@ image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nhacu.jpg"
 					<tbody><tr><td bgcolor="White" align="justify" valign="top">
 					<div style="padding-left: 40px; padding-right: 40px">
 						<table border="0" cellpadding="10" width="80%" cols="2">
-							<tbody><tr><td valign="top"><a href="https://sachhiem.net/">
+							<tbody><tr><td valign="top"><a href="/">
 				<img border="0" src="https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nhacu.jpg" width="49" height="20"></a></td>
 								<td valign="top"><font size="2">14 tháng 2, 2009
 								</font></td></tr>

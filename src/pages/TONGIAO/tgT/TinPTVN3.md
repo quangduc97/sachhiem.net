@@ -3,7 +3,7 @@ layout: ../../../layouts/Article.astro
 title: "Vụ Alexandre de Rhodes: Vô ơn đã xấu, nhận ba vơ công ơn còn xấu mặt hơn"
 author: "Minh Thạnh"
 date: 2019-12-03
-source: "https://sachhiem.net/TONGIAO/tgT/TinPTVN3.php"
+source: "/TONGIAO/tgT/TinPTVN3"
 category: "Chính trị"
 lang: vi
 wordCount: 2061
@@ -59,5 +59,5 @@ image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/LICHSU/IMG/ALEX/ADRh
 <p class="TacgiaL"> Minh Thạnh </p>
  <p class="nguonL">Nguồn <a href="https://www.phattuvietnam.net/vu-alexandre-de-rhodes-vo-on-da-xau-nhan-ba-vo-cong-on-con-xau-mat-hon/">https://www.phattuvietnam.net/vu-alexandre-de-rhodes </a>3 Tháng Mười Hai, 2019</p>
  <p>_______________</p>
- <p><a href="/TONGIAO/#1" title="one">(1)</a><b> Chú thích của ts SH</b>: Thật ra Alexandre De Rhodes không có công chế tác chữ quốc ngữ, ông chỉ là học trò đi học chữ Việt La tin hóa do các giáo sĩ người Bồ thực hiện trước đó. <a href="https://sachhiem.net/BUIKHA/BuiKha5.php">Chứng minh:</a> Trong quyển “Từ Điển AN NAM – LUSITAN - LATIN”, Thường gọi là “Từ điển Việt - Bồ - La”, Nxb Khoa Học Xã Hội, TP. HCM, tháng 3, 1991, phần Việt ngữ, tr. 3, chính ông thú nhận:
+ <p><a href="/TONGIAO/#1" title="one">(1)</a><b> Chú thích của ts SH</b>: Thật ra Alexandre De Rhodes không có công chế tác chữ quốc ngữ, ông chỉ là học trò đi học chữ Việt La tin hóa do các giáo sĩ người Bồ thực hiện trước đó. <a href="/BUIKHA/BuiKha5">Chứng minh:</a> Trong quyển “Từ Điển AN NAM – LUSITAN - LATIN”, Thường gọi là “Từ điển Việt - Bồ - La”, Nxb Khoa Học Xã Hội, TP. HCM, tháng 3, 1991, phần Việt ngữ, tr. 3, chính ông thú nhận:
 “<i>…Tuy nhiên trong công việc nầy (học chữ Quốc ngữ, B.K.) ngoài những điều mà tôi đã học được nhờ chính người bản xứ trong suốt gần mười hai năm thời gian mà tôi lưu trú tại hai xứ Cô-sinh và Đông-kinh, thì ngay từ đầu tôi đã học với cha Francisco de Pina người Bồ Đào, thuộc hội dòng Giê-su ..</i>."</p>

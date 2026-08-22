@@ -3,7 +3,7 @@ layout: ../../../layouts/Article.astro
 title: "Nhật Ký Biển Đông: Ô. Hun Sen Trước Cơn Sóng Gió"
 author: "Đào Văn Bình"
 date: 2017-09-30
-source: "https://sachhiem.net/DAOVB/CT/DaovBinh99.php"
+source: "/DAOVB/CT/DaovBinh99"
 category: "Chính trị"
 lang: vi
 wordCount: 4134

@@ -2,14 +2,14 @@
 layout: ../../layouts/Article.astro
 title: "God's Warriors"
 author: "by David Truskoff"
-source: "https://sachhiem.net/NMQ/NMQ013A.php"
+source: "/NMQ/NMQ013A"
 category: "Lịch sử"
 lang: en
 wordCount: 1348
-image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nha.jpg"
+image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/Next3.gif"
 ---
 
-<p align="center"><a href="https://sachhiem.net/index.php"><img hspace="20" border="0" src="https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nha.jpg"></a> 	18 tháng 10, 2008
+<p align="center"> 	18 tháng 10, 2008
 	</p>
 			
 			<p><span lang="en-us"><a href="/NMQ/NMQ013">(See Vietnamese version

@@ -2,7 +2,7 @@
 layout: ../../../layouts/Article.astro
 title: "BBC Tiếng Việt:"
 author: "P.N. Hành"
-source: "https://sachhiem.net/null"
+source: "/null"
 category: "Chính trị"
 lang: vi
 wordCount: 3152

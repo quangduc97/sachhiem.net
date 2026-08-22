@@ -3,7 +3,7 @@ layout: ../../layouts/Article.astro
 title: "QUAN ĐIỂM PHẬT GIÁO về ĐỒNG TíNH"
 author: "Thích trí Hoằng"
 date: 2020-05-27
-source: "https://sachhiem.net/VANHOC/TriHoang01.php"
+source: "/VANHOC/TriHoang01"
 category: "Tác giả"
 lang: vi
 wordCount: 7809

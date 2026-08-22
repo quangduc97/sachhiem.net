@@ -3,7 +3,7 @@ layout: ../../../layouts/Article.astro
 title: "Xét Lại Vụ Đánh Cuộc Của Pascal - 3"
 author: "Trần Trọng Sỹ"
 date: 2019-07-18
-source: "https://sachhiem.net/TTS/VH/TranTrongSy_vh7_Pascal.php"
+source: "/TTS/VH/TranTrongSy_vh7_Pascal"
 category: "Tác giả"
 lang: vi
 wordCount: 12723
@@ -19,7 +19,7 @@ image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/LICHSU/IMG/FRANCE/Lo
  </div>
  
  <div class="danbai">
-     <p>(<a href="https://sachhiem.net/TTS/VH/TranTrongSy_vh7.php">Kỳ 1 và 2 =&gt;</a>)</p>
+     <p>(<a href="/TTS/VH/TranTrongSy_vh7">Kỳ 1 và 2 =&gt;</a>)</p>
      <p>- I - Phân Loại Phạm Trù Tư Tưởng Của Pascal </p>
      <p>- II – Chủ Nghĩa Hoài Nghi</p>
      <p class="sub">A - Hoài nghi về Thượng Đế và thế giới do ngài tạo dựng</p>
@@ -27,7 +27,7 @@ image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/LICHSU/IMG/FRANCE/Lo
      <p class="sub">C - Hoài nghi về quyền thống trị của Giáo Hội.</p>
 <p class="MUC">Kỳ 3 - Gồm các mục:</p>
       <p>  - <a name="3" href="/TTS/#end3">III – Kỷ Nguyên Anh Sáng (Siècle des Lumières – Age of Enlightenment)</a></p>
-      <p>(<a href="https://sachhiem.net/TTS/VH/TranTrongSy_vh7_Pascala.php">Xem Kỳ 4 =&gt;</a>)</p>
+      <p>(<a href="/TTS/VH/TranTrongSy_vh7_Pascala">Xem Kỳ 4 =&gt;</a>)</p>
    
        </div>
 

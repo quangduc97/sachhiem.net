@@ -3,16 +3,16 @@ layout: ../../../layouts/Article.astro
 title: "Danh từ “Công Giáo”: Chữ và Nghĩa"
 author: "Nguyễn Hy Thần"
 date: 2012-07-28
-source: "https://sachhiem.net/TONGIAO/tgN/NguyenHyThan.php"
+source: "/TONGIAO/tgN/NguyenHyThan"
 category: "Chính trị"
 lang: vi
 wordCount: 4029
-image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nha.jpg"
+image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/TONGIAO/IMG/GIAOVGIAN_XUA/Tonkin_eveque(TGM).JPG"
 ---
 
 <table border="0" cellpadding="0" width="250" align="center">
             <tbody><tr>
-              <td width="125"><a href="/index"><img border="0" src="https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nha.jpg"></a></td>
+              <td width="125"></td>
               <td valign="middle">28-Jul-2012</td>
             </tr>
           </tbody></table>

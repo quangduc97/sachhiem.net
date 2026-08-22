@@ -3,7 +3,7 @@ layout: ../../layouts/Article.astro
 title: "Sự Thật Về \"Nhân Vật Nguyễn Trường Tộ\" Như Thế Nào?"
 author: "Lý Thái Xuân"
 date: 2020-06-19
-source: "https://sachhiem.net/LTX/LyThaiLS6.php"
+source: "/LTX/LyThaiLS6"
 category: "Lịch sử"
 lang: vi
 wordCount: 3070
@@ -22,7 +22,7 @@ image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/LICHSU/IMG/NTT/NTT1.
 <p align="center">-- o0o --</p>
 <p align="center"><img src="https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/LICHSU/IMG/NTT/NTT_ConnguoiDiThao.jpg" width="240" height="350" alt=""></p>
 <p>Ai đọc hết 58 bản điều trần và đặt mình trong hoàn cảnh chính trị của nước ta thời đại Vua Tự Đức, sẽ cảm thấy rất ngạc nhiên về những <b>hành động và tư tưởng tai hại cho đất nước nhưng lợi ích cho ngoại bang</b> không thể ngờ được của Nguyễn Trường Tộ qua các sử liệu chính xác không thể phủ bác.</p>
-<p><b>1.</b> Trong bài đối luận với GS Trần Thanh Đạm, tựa <a href="https://sachhiem.net/BUIKHA/BuiKha22a_NTT.php">Đọc Sách: "Nguyễn Trường Tộ &amp; Vấn Đề Canh Tân"</a> tác giả Bùi Kha viết:</p>
+<p><b>1.</b> Trong bài đối luận với GS Trần Thanh Đạm, tựa <a href="/BUIKHA/BuiKha22a_NTT">Đọc Sách: "Nguyễn Trường Tộ &amp; Vấn Đề Canh Tân"</a> tác giả Bùi Kha viết:</p>
 <p>Với giọng văn điêu luyện, sắc sảo, chúng ta thấy Nguyễn Trường Tộ đã sử dụng hai luận điểm chính ("củ cà rốt và cục xương") để thuyết phục dân Đại Nam (Việt Nam) nhất là triều đình vua Tự Đức.</p>
 <p>Chiến thuật "củ cà rốt" là đưa ra một miếng mồi béo bổ như khai thác hầm mỏ, sử dụng tài nguyên thiên nhiên... để làm cho dân giàu nước mạnh. Muốn đạt được mục đích đó thì phải làm gì? Trả lời: <i>Phải hợp tác với Pháp, phải cầu khẩn Giáo hoàng La Mã giúp sức</i> (như trong di thảo số 5).</p>
 <p>Chiến thuật "cục xương" là đưa ra một số đề nghị không thể thực hiện được như chỉnh trang võ bị, <i>đào kênh từ Hải Dương đến Huế</i>... (di thảo số 27) để qua đó muốn triều đình nhà Nguyễn phải mất thì giờ gặm, nhấm cục xương để không thể làm gì khác hơn.</p>
@@ -30,9 +30,9 @@ image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/LICHSU/IMG/NTT/NTT1.
 <p>Nguyễn Trường Tộ nhìn đất nước trong lăng kính tôn giáo, mang đầy tính chất cuồng tín, cho rằng Đại Nam là một phần tử trong tổng thể của vạn vật mà tạo hóa đã sáng tạo, do đó <i>"không có tự do làm theo ý muốn"</i> (di thảo số 2), và  phải chịu <i>số phận cần được khai hóa</i> (di thảo số 1). Do đó, ông khuyên Đại Nam nên "<i>dùng giám mục và  linh mục vào việc canh tân đất nước</i>" (di thảo số 17).</p>
 <p><b>3.</b> Một số di thảo đưa ra các dữ kiện sai lầm về sử liệu để bi thảm hóa tình hình, nhằm <i>kêu gọi người Việt nên hòa với Pháp</i> (di thảo số 1), và để biện minh cho những đề nghị của mình (di thảo số 5 và 27).</p>
 <p><b>4.</b> Trong số các di thảo của Nguyễn Trường Tộ, có 3 di thảo dài nhất và gói ghém phần lớn tư tưởng chính của ông. Đó là di thảo số 1: <i>Bàn về những tình thế lớn trong thiên hạ </i>(Thiên hạ đại thế luận); di thảo số 5: Kế hoạch làm cho dân giàu nước mạnh (<i>Dụ tài tế cấp bẫm từ = Lục lợi từ</i>); di thảo số 27: Tám việc cần làm (<i>Tế cấp bát điều</i>).  Những tư tưởng trong các di thảo còn lại  thường là lặp lại hoặc bổ túc những ý kiến trong các di thảo khác, hoặc những ý kiến không có gì đặc sắc lắm, và các di thảo có tính tôn giáo.</p>
-<p><b>4.1</b> <a href="https://sachhiem.net/BUIKHA/BuiKha01b_NTT.php">Về Di Thảo số 1</a>: (Thiên hạ đại thế luận) được viết khoảng tháng 3-4/1863.</p>
+<p><b>4.1</b> <a href="/BUIKHA/BuiKha01b_NTT">Về Di Thảo số 1</a>: (Thiên hạ đại thế luận) được viết khoảng tháng 3-4/1863.</p>
 <p>Tác giả Bùi Kha lý luận: Chúng ta biết rằng quân đội Pháp do Đô đốc Rigault de Genouilly chỉ huy, đã chiếm Đà Nẵng ngày 01/9/1858. Ngày 21/6/1859, triều đình đành phải chấp nhận thương thuyết với Pháp. Tháng 3/1860 Pháp rút khỏi Đà Nẵng và vào Sài Gòn để chiếm 3 tỉnh miền Đông Nam Kỳ. Dân chúng lúc bấy giờ chia làm hai phe: Quần chúng thì chủ chiến, còn triều đình thì chủ hòa mà đứng đầu và tích cực nhất của phe chủ hòa này là Phan Thanh Giản. Với hòa ước 1862 giữa Pháp, Tây Ban Nha và Đại Nam, Pháp được thỏa mãn tất cả những gì mà họ đòi hỏi như: nhường cho Pháp 3 tỉnh phía đông Nam Bộ: <i>Biên Hòa, Gia Định và Định Tường;</i> thừa nhận quyền tự do truyền đạo của các phái bộ Công giáo... Như thế triều đình Huế đã bỏ rơi phong trào kháng Pháp. Nhưng toàn dân Nam Kỳ đã kháng cự kịch liệt dưới sự điều khiển của Nguyễn Trung Trực, Võ Duy Dương, Thủ Khoa Huân v.v... và đã làm cho quân Pháp vô cùng khốn đốn.</p>
-<p>Trong bối cảnh chính trị và quân sự của đất nước lúc bấy giờ, Nguyễn Trường Tộ viết bản điều trần số 1:&nbsp;Bàn về <b>những tình thế lớn trong thiên hạ</b>&nbsp;gởi cho triều đình vua Tự Đức vào tháng 3-4/1863. Chúng ta có thể đánh giá khá chính xác về tư duy của Nguyễn Trường Tộ qua bài điều trần này. (xem chi tiết về <a href="https://sachhiem.net/BUIKHA/BuiKha01b_NTT.php"> Di Thảo số 1</a>)</p>
+<p>Trong bối cảnh chính trị và quân sự của đất nước lúc bấy giờ, Nguyễn Trường Tộ viết bản điều trần số 1:&nbsp;Bàn về <b>những tình thế lớn trong thiên hạ</b>&nbsp;gởi cho triều đình vua Tự Đức vào tháng 3-4/1863. Chúng ta có thể đánh giá khá chính xác về tư duy của Nguyễn Trường Tộ qua bài điều trần này. (xem chi tiết về <a href="/BUIKHA/BuiKha01b_NTT"> Di Thảo số 1</a>)</p>
 <p>- Không biết Nguyễn Trường Tộ căn cứ vào đâu mà đánh giá quân đội ta :
   <i>Quân ta mới nghe thân thế họ đã phách lảng hồn xiêu rồi</i>... Trong khi Đô đốc R. de Genouilly viết trong Văn thư đề ngày 21-9-1859 :</p>
 <p><i>Càng đi sâu vào tình hình Vương Quốc An Nam, các bức màn càng vén lên, những lời khẳng định dối trá (của các giáo sĩ) càng tan biến, không thể không thừa nhận rằng cuộc chiến tranh chống lại xứ nầy còn khó hơn cuộc chiến tranh chống lại thiên triều..</i>. </p>
@@ -51,7 +51,7 @@ image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/LICHSU/IMG/NTT/NTT1.
 <p><i>Không thấy một nước Trung Hoa to lớn là thế mà còn phải cắt đất cầu hòa... Việc cống nạp của Tống (</i>nước Tống bên Tàu thời xưa nộp tiền và hàng hoá cho nước khác, BK)<i>, tất cả đều lấy việc không đánh là hơn...</i> <i>Theo cách ngày nay thì nên <b>để cho quân lính nghỉ ngơi</b>, rồi làm theo chước Hán Cao Tổ ngày xưa cắt Quan Trung cho hạng Võ (*) <b>để họ giữ bờ cõi cho mình</b>, như có hổ báo trong rừng thì chồn cáo không dám bén mảng tới</i></p>
 <p>Ý kiến của Nguyễn Trường Tộ: <i>nên cho quân lính nghỉ ngơi để Pháp giữ bờ cõi cho mình,</i> có phải là là một ý kiến nhằm <b>có lợi cho Tây?</b><br>
 </p>
-<p><b>4.2</b> <a href="https://sachhiem.net/BUIKHA/BuiKha01b_NTT.php">Về Di Thảo số 5</a>: <i>Kế Hoạch làm Cho Dân Giàu Nước Mạnh</i>. (Lục Lợi Từ) viết ngày 18-7-1864. Nguyễn Trường Tộ bắt đầu bằng ngững lập luận có tính truyền giáo.</p>
+<p><b>4.2</b> <a href="/BUIKHA/BuiKha01b_NTT">Về Di Thảo số 5</a>: <i>Kế Hoạch làm Cho Dân Giàu Nước Mạnh</i>. (Lục Lợi Từ) viết ngày 18-7-1864. Nguyễn Trường Tộ bắt đầu bằng ngững lập luận có tính truyền giáo.</p>
 <p>- Khởi đầu ông nói: <i>"Tạo Vật (Thượng Đế) sinh ra vạn vật cách đây 7.000 năm...." </i>Câu tuyên bố bậy bạ, phản khoa học này  là ông Tộ nói theo kinh thánh. Khoa học đã chứng minh trái đất hình thành một bề mặt rắn chắc từ hơn 4.54 tỷ năm trước. Và sự sống xuất hiện không dưới 3.8 tỷ năm trước.</p>
 <p>- Ông Tộ cũng nói sai về Tân Thế Giới (nước Mỹ) về câu chuyện dân bản địa có thể đánh đuổi người phương Tây ra khỏi Tân thế giới 100 năm sau, hoàn toàn là câu chuyện tưởng tượng như sau:</p>
 <p><i>Lúc đầu người dân bản xứ còn xem họ như thù địch, dần dần đã chịu gần gũi và ngày càng trở nên thân thiết, những người dân ở đây đã học được hết những cái kỷ xảo của người phương Tây, cho nên không đầy 100 năm sau đã đuổi được người phương Tây ra khỏi đất mình.&nbsp;</i></p>
@@ -66,9 +66,9 @@ image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/LICHSU/IMG/NTT/NTT1.
  <p align="center"><img src="https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/LICHSU/IMG/NTT/NTT_ThucchatConnguoiDiThao.jpg" width="200" height="306" alt=""></p>
 <p><b>Kết luận:</b></p>
 <p>Rốt cục, người ta chỉ thấy ở ông Tộ, hoàn toàn là một con chiên trung thành với đạo, và sốt sắng trong các việc xây nhà thờ cho đạo Chúa, chớ không thấy công trạng nào của ông đối với việc của nước nhà. Còn các bản điều trần chỉ là những lời lẽ cóp nhặt, khoa trương để ngụy tạo hình ảnh cho mình là một nhà thông kim bác cổ, trông rộng thấy xa, lo cho nước nhà, ... mà sự thật không còn gì đáng để gọi là một danh nhân nữa.</p>
-<p>Tác giả Nguyễn Xuân Phong, trong bài "<a href="https://sachhiem.net/LICHSU/N/NgXPhong.php">Một Khám Phá Bất Ngờ Về Nguyễn Trường Tộ </a>"  phê bình các bài phê phán ông Nguyễn Trường Tộ của Bùi Kha có câu: <i>"Mặc dầu lời lẽ có tính khiêm tốn và không quyết đoán của Nguyễn Kha, nhưng đọc xong từng đoạn từng phần, hay trọn bài viết, độc giả cũng có thể kết luận: Nguyễn Trường Tộ là một tên đại Việt gian, và các bản điều trần của ông là một sự lừa dối hào nhoáng</i>"</p>
+<p>Tác giả Nguyễn Xuân Phong, trong bài "<a href="/LICHSU/N/NgXPhong">Một Khám Phá Bất Ngờ Về Nguyễn Trường Tộ </a>"  phê bình các bài phê phán ông Nguyễn Trường Tộ của Bùi Kha có câu: <i>"Mặc dầu lời lẽ có tính khiêm tốn và không quyết đoán của Nguyễn Kha, nhưng đọc xong từng đoạn từng phần, hay trọn bài viết, độc giả cũng có thể kết luận: Nguyễn Trường Tộ là một tên đại Việt gian, và các bản điều trần của ông là một sự lừa dối hào nhoáng</i>"</p>
 <p>Và bây giờ người ta có thể đặt câu hỏi, ông Nguyễn Trường Tộ có nên được tôn vinh như các nhà yêu nước của Việt Nam hay không?</p>
 <p>______________</p>
 <p><b>Tham khảo:</b></p>
-<p>- <a href="https://sachhiem.net/BUIKHA/BK_NTT.php">Sự Thật Về "Nhân Vật Nguyễn Trường Tộ"
+<p>- <a href="/BUIKHA/BK_NTT">Sự Thật Về "Nhân Vật Nguyễn Trường Tộ"
 Như Thế Nào? </a> (nhiều tác giả)</p>

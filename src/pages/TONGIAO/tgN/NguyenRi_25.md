@@ -2,20 +2,19 @@
 layout: ../../../layouts/Article.astro
 title: "Ủy Ban Công Lý Và Hòa Bình? -"
 author: "Sabrina Rubin Erdely/ Ri Nguyễn"
-source: "https://sachhiem.net/TONGIAO/tgN/NguyenRi_25.php"
+source: "/TONGIAO/tgN/NguyenRi_25"
 category: "Tác giả"
 lang: vi
 wordCount: 2702
-image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nha.jpg"
+image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/TONGIAO/IMG/TINHDUC/CardSabrinaRubinErdely_Philadelphia.jpg"
 ---
 
 <p class="Tuaduoi">Hồ Sơ Mật Tội ác Tình Dục Của Catô Rô-Ma Giáo</p>
 
 
-<p align="center"><a href="https://www.sachhiem.net/">
-	<img border="0" src="https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nha.jpg"></a> </p>
+
 <div class="tomluoc">
-  <p><i>LTS: Bài góp ý ngày 21 tháng 8, 2016, của tác giả Ri Nguyễn dưới đây là nhận xét theo sau phản ứng của các Con Chúa đối với bài "<a href="https://sachhiem.net/TONGIAO/tgN/NgTnghia_ConglyHB.php">Ủy Ban Công Lý Và Hòa Bình - Giáo Hội Hay Tòa Án?</a>" của Nguyễn Trọng Nghĩa. Chúng tôi không thể đăng những "phản ứng" đó, vì thái độ và ngôn ngữ nằm ngoài biên độ có thể chấp nhận, hơn nữa lạc đề và vô căn cứ. (SH)</i></p>
+  <p><i>LTS: Bài góp ý ngày 21 tháng 8, 2016, của tác giả Ri Nguyễn dưới đây là nhận xét theo sau phản ứng của các Con Chúa đối với bài "<a href="/TONGIAO/tgN/NgTnghia_ConglyHB">Ủy Ban Công Lý Và Hòa Bình - Giáo Hội Hay Tòa Án?</a>" của Nguyễn Trọng Nghĩa. Chúng tôi không thể đăng những "phản ứng" đó, vì thái độ và ngôn ngữ nằm ngoài biên độ có thể chấp nhận, hơn nữa lạc đề và vô căn cứ. (SH)</i></p>
 </div> 
 
  <p align="center">Xin được góp ý</p>
@@ -71,4 +70,4 @@ image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nha.jpg"
 <p>_____________________</p>
   <p>Các bài của Nguyễn Ri: link</p>
 <p>
-<a href="https://sachhiem.net/TONGIAO/tgN/ListRiNguyen.inc.php" target="_blank">https://sachhiem.net/TONGIAO/tgN/ListRiNguyen.inc.php</a></p>
+<a href="/TONGIAO/tgN/ListRiNguyen.inc" target="_blank">https://sachhiem.net/TONGIAO/tgN/ListRiNguyen.inc.php</a></p>

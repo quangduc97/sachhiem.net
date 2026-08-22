@@ -3,15 +3,15 @@ layout: ../../layouts/Article.astro
 title: "Mưu Tính Đưa Nhất Linh Vào Nhà Thương Điên"
 author: "Vũ Cầm"
 date: 2012-03-16
-source: "https://sachhiem.net/VANHOC/VuCam.php"
+source: "/VANHOC/VuCam"
 category: "Văn hóa"
 lang: vi
 wordCount: 3841
-image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nha.jpg"
+image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/VANHOC/Hinh/VANNHAN/NhatLinh.jpg"
 ---
 
 <table border="0" cellpadding="0" width="250" align="center"><tbody><tr>
-	<td width="125"><a href="/index"><img border="0" src="https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nha.jpg"></a></td>
+	<td width="125"></td>
     <td valign="top">16-Mar-2012</td>
 		</tr></tbody></table>
         <center>

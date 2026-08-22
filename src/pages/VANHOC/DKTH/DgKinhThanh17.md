@@ -3,7 +3,7 @@ layout: ../../../layouts/Article.astro
 title: "“Con Nhà Phật” Hát Mừng… Giáng Sinh"
 author: "Dương Kinh Thành"
 date: 2018-12-27
-source: "https://sachhiem.net/VANHOC/DKTH/DgKinhThanh17.php"
+source: "/VANHOC/DKTH/DgKinhThanh17"
 category: "Xã hội"
 lang: vi
 wordCount: 2224

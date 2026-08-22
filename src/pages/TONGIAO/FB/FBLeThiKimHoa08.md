@@ -3,7 +3,7 @@ layout: ../../../layouts/Article.astro
 title: "Câu Chuyện Lịch Sử Tàn Bạο Của Đạo Chúa Về 3 Cái Lồng Kim Loại Treo Trước Tháp Chuông Nhà Thờ Thánh Lambert Ở Nước Đức."
 author: "Kaushik Patowary/ Lê thị Kim Hoa"
 date: 2024-06-27
-source: "https://sachhiem.net/TONGIAO/FB/FBLeThiKimHoa08.php"
+source: "/TONGIAO/FB/FBLeThiKimHoa08"
 category: "Tác giả"
 lang: vi
 wordCount: 832

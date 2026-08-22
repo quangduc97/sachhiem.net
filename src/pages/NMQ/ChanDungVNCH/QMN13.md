@@ -2,17 +2,16 @@
 layout: ../../../layouts/Article.astro
 title: "Chân Dung \"Người Việt Quốc Gia\""
 author: "Nguyễn Mạnh Quang"
-source: "https://sachhiem.net/NMQ/ChanDungVNCH/QMN13.php"
+source: "/NMQ/ChanDungVNCH/QMN13"
 lang: vi
 wordCount: 6211
-image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nha.jpg"
+image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/print.gif"
 ---
 
 <p class="Tuaduoi">Và Lá Cờ Vàng Ba Sọc Đỏ</p>
 		
 		
-<p align="center"><a href="/index">
-		<img hspace="20" border="0" src="https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nha.jpg"></a> 	 <a target="_top" href="/NMQ/ChanDungVNCH/QMN13"><img hspace="20" border="0" src="https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/print.gif" width="18" height="18"> bản in</a> 	<a target="_top" href="/NMQ/ChanDungVNCH/ChanDung_Main"><img hspace="20" border="0" src="https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/Leftarrow.gif" width="13" height="13">  mục lục</a>
+<p align="center"> 	 <a target="_top" href="/NMQ/ChanDungVNCH/QMN13"><img hspace="20" border="0" src="https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/print.gif" width="18" height="18"> bản in</a> 	<a target="_top" href="/NMQ/ChanDungVNCH/ChanDung_Main"><img hspace="20" border="0" src="https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/Leftarrow.gif" width="13" height="13">  mục lục</a>
  đăng ngày 08 tháng 6, 2008
 </p>
 	<p>Toàn tập:  <a href="/NMQ/QMN00">Dàn bài</a></p>
@@ -45,7 +44,7 @@ image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nha.jpg"
 		bà con gái, cướp của mang đi, mổ bụng phanh ngực nạn nhân, móc lấy mật 
 		đem hòa với rượu và moi lấy gan đem nướng rồi cùng ngồi nhậu hả hê với 
 		nhau. [Xem Chương 52, Mục XV, Phần V trong bộ sách Lịch Sử và Tội Ác của 
-		Giáo Hội La Mã và các tác phẩm khác của tác giả Nguyễn Mạnh Quang. Xem thêm một nhân chứng sống ở bài <a href="https://sachhiem.net/LICHSU/N/NgHongHai.php">"Tôi Đã Gặp Kẻ Ăn Thịt Người" của Nguyễn Hồng Hải</a>]  </p>
+		Giáo Hội La Mã và các tác phẩm khác của tác giả Nguyễn Mạnh Quang. Xem thêm một nhân chứng sống ở bài <a href="/LICHSU/N/NgHongHai">"Tôi Đã Gặp Kẻ Ăn Thịt Người" của Nguyễn Hồng Hải</a>]  </p>
 		<p>Ở miền Nam Việt Nam trong 
 		những năm 1954-1975, được Hoa Kỳ cho nắm gần trọn quyền quản lý việc nội 
 		chính, họ thực sự đã <b>trở thành những con cọp dữ</b>, thả sức tung 

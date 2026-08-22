@@ -3,7 +3,7 @@ layout: ../../../layouts/Article.astro
 title: "[VATICANOLOGY] Đạo Vatican Mưu Toan Thay Đổi Chính Quyền Nicaragua?"
 author: "Minh Thạnh"
 date: 2021-10-08
-source: "https://sachhiem.net/TONGIAO/tgM/MinhThanh19_01.php"
+source: "/TONGIAO/tgM/MinhThanh19_01"
 category: "Chính trị"
 lang: vi
 wordCount: 2530
@@ -67,7 +67,7 @@ image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/THOISU_CT/Hinh/NICAR
 <p>  Đối phó với “TÍNH CHIẾN THUẬT” của đạo Vatican FSLN cũng có  những chiến thuật linh hoạt và hiệu quả.</p>
 <p>  (Đón xem phần tiếp theo)</p>
 <p>___________________________</p>
-<p>(<a href="https://sachhiem.net/TONGIAO/tgM/MinhThanh19_00.php">xem link thông báo về trách nhiệm đối với bài viết</a>)</p>
+<p>(<a href="/TONGIAO/tgM/MinhThanh19_00">xem link thông báo về trách nhiệm đối với bài viết</a>)</p>
 <p><img src="https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/sqdot.gif" width="10" height="10"></p>
 <p class="TacgiaL">Minh Thạnh </p>
  <p>_____________</p>

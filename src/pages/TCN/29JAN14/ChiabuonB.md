@@ -2,7 +2,7 @@
 layout: ../../../layouts/Article.astro
 title: "Hiến Tặng Hiệp Hội Tim Mạch Nhân Danh GS Trần Chung Ngọc"
 date: 2014-01-31
-source: "https://sachhiem.net/TCN/29JAN14/ChiabuonB.php"
+source: "/TCN/29JAN14/ChiabuonB"
 lang: vi
 wordCount: 1034
 image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/TCN/Pict/Ngoc_12may_13_heart.JPG"
@@ -10,7 +10,7 @@ image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/TCN/Pict/Ngoc_12may_
 
 <div class="tomluoc"><p>Kính gửi các thân hữu: </p>
  <p><i>Đại diện cho gia đình cố GS Trần Chung Ngọc, bà quả phụ Hà Dương Thị Di đã  gọi điện thoại (hôm 18 tháng 2, 2014)  đến tòa soạn nhờ chuyển lời cảm ơn chân thành nhất của gia đình đến mỗi thân hữu đã có lời chia buồn, cũng như những khoản hiện kim hiến tặng cho Hội Tim Mạch theo di ước của Giáo Sư.</i></p>
- <p><i>Ngày 28 tháng 2, chúng tôi nhận được thiệp cám ơn của gia đình GS, trong đó có thông tin về kết quả đóng góp của các ân nhân hiến tặng cho Hội Tim Mạch nhân danh GS Trần Chung Ngọc. Xin xem ở link</i><a href="https://sachhiem.net/TCN/29JAN14/Thankyou.php"> https://sachhiem.net/TCN/29JAN14/Thankyou.php</a></p>
+ <p><i>Ngày 28 tháng 2, chúng tôi nhận được thiệp cám ơn của gia đình GS, trong đó có thông tin về kết quả đóng góp của các ân nhân hiến tặng cho Hội Tim Mạch nhân danh GS Trần Chung Ngọc. Xin xem ở link</i><a href="/TCN/29JAN14/Thankyou"> https://sachhiem.net/TCN/29JAN14/Thankyou.php</a></p>
  </div>
  <p>Cập nhật ngày 24 tháng 2, 2014:</p>
   <p>Lời nhắn mới nhất (hôm nay 24 tháng 2, 2014) trên trái tim hiến tặng cho AHA của thân hữu Phúc Anh như sau:   </p>
@@ -19,10 +19,10 @@ image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/TCN/Pict/Ngoc_12may_
      <p align="center"><i>Nếu có thương tôi thì xin gửi tặng tài vật đến các Heart Association thay vì gửi hoa phúng điếu </i></p>
   <p><span class="First">Đ</span>ến hôm nay  có vài người làm theo ước nguyện của Giáo Sư Ngọc, và đã bắt đầu gửi phúng điếu đến cơ quan Nghiên Cứu Tim Mạch. Chúng tôi xin kính cẩn dâng lên GS Trần Chung Ngọc qua những đóa hoa tim nóng rực sau đây với lòng thương tiếc không nguôi. </p>
 <div class="indent50">
- <p><b>» </b><a href="https://sachhiem.net/index.php?content=showrecipe&amp;id=5873"> Bản tin nhanh về sự ra đi của Giáo-sư Trần Chung Ngọc</a></p>
- <p><b>» </b><a href="https://sachhiem.net/index.php?content=showrecipe&amp;id=5874">Thành kính phân ưu của trang nhà sachhiem.net</a></p>
- <p><b>»</b> <a href="https://sachhiem.net/TCN/29JAN14/Chiabuon0.php">Phân ưu của trang nhà</a></p>
- <p><b>»</b> <a href="https://sachhiem.net/TCN/29JAN14/ChiabuonB.php">Phúng điếu cho Hiệp Hội Tim Mạch nhân danh GS Trần Chung Ngọc</a></p>
+ <p><b>» </b><a href="/XAHOI/CHIABUON/Tinbuon"> Bản tin nhanh về sự ra đi của Giáo-sư Trần Chung Ngọc</a></p>
+ <p><b>» </b><a href="/XAHOI/CHIABUON/Chiabuon7">Thành kính phân ưu của trang nhà sachhiem.net</a></p>
+ <p><b>»</b> <a href="/TCN/29JAN14/Chiabuon0">Phân ưu của trang nhà</a></p>
+ <p><b>»</b> <a href="/TCN/29JAN14/ChiabuonB">Phúng điếu cho Hiệp Hội Tim Mạch nhân danh GS Trần Chung Ngọc</a></p>
 </div>
       <p>Trang nhà chúng tôi không có liên hệ với các cơ quan này dưới bất kỳ hình thức nào, nhưng xin cống hiến vài bước chỉ dẫn đơn giản  để bạn đọc nào muốn gửi trực tuyến cho American Heart Association  (AHA) sẽ dễ dàng hơn. </p>
       <p align="center"><img src="https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/ChiaBuon/Ame_Heart_ass.JPG" width="201" height="107"></p>

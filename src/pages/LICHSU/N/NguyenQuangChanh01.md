@@ -3,7 +3,7 @@ layout: ../../../layouts/Article.astro
 title: "Người Giao Liên Dũng Cảm Của Điệp Viên Hoàn Hảo"
 author: "Nguyễn Quang Chánh"
 date: 2023-01-12
-source: "https://sachhiem.net/LICHSU/N/NguyenQuangChanh01.php"
+source: "/LICHSU/N/NguyenQuangChanh01"
 category: "Chính trị"
 lang: vi
 wordCount: 5034

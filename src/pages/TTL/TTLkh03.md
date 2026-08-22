@@ -2,11 +2,11 @@
 layout: ../../layouts/Article.astro
 title: "Một vài ý tưởng nhân đọc “Vũ trụ vô biên”"
 author: "Trần Tiên Long"
-source: "https://sachhiem.net/null"
+source: "/null"
 category: "Khoa học"
 lang: vi
 wordCount: 1410
-image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nha.jpg"
+image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/TCN/Pict/Thienha.jpg"
 ---
 
 <div align="center" style="position: relative; left: 0; top: 0">
@@ -26,8 +26,7 @@ image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nha.jpg"
 		<div style="padding-left: 50px; padding-right: 50px">
 
 		<table border="0" cellpadding="0" width="600">
-<tbody><tr><td><a href="/index">
-	<img border="0" src="https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nha.jpg"></a></td>
+<tbody><tr><td></td>
 	<td valign="top" style="text-align:right"><i><font size="2">20 tháng 12, 2010
 	</font>	</i>
 	</td></tr></tbody></table>

@@ -2,11 +2,11 @@
 layout: ../../../layouts/Article.astro
 title: "TIN KHÔNG NỔI !"
 author: "Trí Tánh Đỗ Hữu Tài dịch từ"
-source: "https://sachhiem.net/SACHNGOAI/BEYOND/BYDBLF04.php"
+source: "/SACHNGOAI/BEYOND/BYDBLF04"
 category: "Tác giả"
 lang: vi
 wordCount: 9117
-image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nha.jpg"
+image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/print.gif"
 ---
 
 <p class="Tuaduoi">Một phê bình Thiên Chúa Giáo Từ Góc Độ Phật Giáo</p>
@@ -16,7 +16,7 @@ image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nha.jpg"
             
           </div>
           
-          <p align="center"><a href="https://www.sachhiem.net/"><img border="0" src="https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nha.jpg"></a>|&nbsp; <a href="/SACHNGOAI/BEYOND/BYDBLF"><font face="Symbol" size="5">¿</font> Mục lục</a>|&nbsp; <a href="/SACHNGOAI/BEYOND/BYDBLF04"> <img border="0" src="https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/print.gif" width="18" height="18"> bản in</a> |&nbsp;  ngày 04 tháng 11, 2009</p>
+          <p align="center">|&nbsp; <a href="/SACHNGOAI/BEYOND/BYDBLF"><font face="Symbol" size="5">¿</font> Mục lục</a>|&nbsp; <a href="/SACHNGOAI/BEYOND/BYDBLF04"> <img border="0" src="https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/print.gif" width="18" height="18"> bản in</a> |&nbsp;  ngày 04 tháng 11, 2009</p>
           <p class="Chuong"><strong>CHƯƠNG 4 </strong> <sup>(*)</sup></p>
           <p class="TuaChuong"><strong>Chúa Trời và Đức Phật – Ai “tối cao” hơn ai ?</strong></p>
           

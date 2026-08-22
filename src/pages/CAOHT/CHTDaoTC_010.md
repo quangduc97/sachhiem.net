@@ -2,7 +2,7 @@
 layout: ../../layouts/Article.astro
 title: "DẤU IN MỌI Ý TƯỞNG CỦA"
 author: "Cao Huy Thuần"
-source: "https://sachhiem.net/CAOHT/CHTDaoTC_010.php"
+source: "/CAOHT/CHTDaoTC_010"
 category: "Tác giả"
 lang: vi
 wordCount: 1233

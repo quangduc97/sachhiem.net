@@ -2,7 +2,7 @@
 layout: ../../../layouts/Article.astro
 title: "Món quà Giáng sinh"
 author: "Nguyễn Trí Cảm"
-source: "https://sachhiem.net/THOISU_CT/ChuN/NguyenTriCam9.php"
+source: "/THOISU_CT/ChuN/NguyenTriCam9"
 category: "Chính trị"
 lang: vi
 wordCount: 1506

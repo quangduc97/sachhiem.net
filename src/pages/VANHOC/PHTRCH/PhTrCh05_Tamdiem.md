@@ -2,18 +2,18 @@
 layout: ../../../layouts/Article.astro
 title: "Hội Tam Điểm của TS Trần Thu Dung"
 author: "TS Phạm Trọng Chánh"
-source: "https://sachhiem.net/VANHOC/PHTRCH/PhTrCh05_Tamdiem.php"
+source: "/VANHOC/PHTRCH/PhTrCh05_Tamdiem"
 category: "Văn hóa"
 lang: vi
 wordCount: 4661
-image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nha.jpg"
+image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/TONGIAO/IMG/TAMDIEM/thuoctho.gif"
 ---
 
 <p class="Tuaduoi">Điểm&nbsp;sách:</p>
 
     
      
-     <p align="center"><a href="/index"><img border="0" src="https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nha.jpg"></a></p>
+     
    
 <p> <span class="First">N</span>ói  đến Hội Tam Điểm, ta có cảm giác là một tổ chức quốc tế kỳ lạ và bí  mật,&nbsp;&nbsp;có mặt nhiều vị tổng thống các nước, những nhân vật ưu tú từ  chính trị đến, văn hóa, khoa học . Họ trong Hội Tam Điểm và vừa có trong các tổ  chức chính trị đối nghịch khác nhau, các tôn giáo khác nhau. Chúng ta trải qua  một cuộc chiến giành độc lập, và qua cuộc chiến tranh, quen với cái nhìn qua  lăng kính&nbsp;: trắng, đen, thực dân, đô hộ, yêu nước, bán nước, cách mạng,  tay sai… Thật ngỡ ngàng khi khám phá ra có một tổ chức Tam Điểm có sự tham gia  của những quan toàn quyền thuộc địa, và có cả «&nbsp;những nhân vật cách mạng  yêu nước&nbsp;», những người gọi là thực dân lẫn những người đối nghịch&nbsp;!</p>
 <p>
@@ -83,7 +83,7 @@ Người suy nghĩ như cụ  Phan Châu Trinh&nbsp;: Cải cách dân chủ, N�
 <p>
 Ngày nay khi nhìn lại các  nước trên thế giới, không phải nước nào cũng giành độc lập bằng con đường bạo  động như nước ta.<a name="1" href="/VANHOC/#n1"> (1)</a> Không phải nước nào cũng trả giá bằng xương máu quá đắt như nước  ta, và ảnh hưởng một cuộc xâu xé dân tộc, nồi da xáo thịt vẫn còn kéo dài.  Quan điểm cho rằng ta đấu tranh giùm cho toàn thế giới cũng chỉ là một huyền  thoại. Nhiều nước khôn khéo như Nhật Bản không những giữ độc lập mà còn trở nên  hùng mạnh tiến bộ. Như Thái Lan không một ngày bị mất chủ quyền, ngày nay họ đi  trước hơn ta hai ba chục năm. Như Ấn Độ, Miến Điện, In -đô nê- sia, Phi Luật Tân,  Mã Lai,&nbsp;&nbsp;Tân Gia Ba, Brunei, Maroc, Sénégal, Côte d’ Ivoire…&nbsp;&nbsp;có  phải trả giá bằng máu nhiều như chúng ta đâu&nbsp;? </p>
 <p class="indent50"><a name="n1" href="/VANHOC/#1"> (1)</a> <b>Chú thích của SH</b>: Tại các thuộc địa của Pháp, vai trò của Giáo Hội La Mã rất thô bạo và tích cực. Vì thế ta không thể so sánh với các nước không có vấn đề Ca-tô Rô-ma giáo trong đại cuộc giành độc lập cho dân tộc. </p>
-<p class="indent50">Xin đọc <a href="https://sachhiem.net/index.php?content=showrecipe&amp;id=97#end2">"Về Luận Điệu: Không Cần Phải Phát Động Chiến Tranh - Pháp Cũng Phải Trao Trả Độc Lập Cho Việt Nam."</a>, Chương 10 của tập sách <a href="https://sachhiem.net/TCN/TCNtg/DAOGIESU/TCN_NMQ15.php">NGƯỜI VIỆT NAM &amp; “ĐẠO GIÊ-SU”</a> (Trần Chung Ngọc &amp; Nguyễn Mạnh Quang viết chung) </p>
+<p class="indent50">Xin đọc <a href="/TCN/TCNtg/DAOGIESU/TCN_NMQ15">"Về Luận Điệu: Không Cần Phải Phát Động Chiến Tranh - Pháp Cũng Phải Trao Trả Độc Lập Cho Việt Nam."</a>, Chương 10 của tập sách <a href="/TCN/TCNtg/DAOGIESU/TCN_NMQ15">NGƯỜI VIỆT NAM &amp; “ĐẠO GIÊ-SU”</a> (Trần Chung Ngọc &amp; Nguyễn Mạnh Quang viết chung) </p>
 <p>
 Lịch sử đã đi qua, không  thể làm trở lại, có làm được chăng là hàn gắn vết thương làm xâu xé dân tộc, để  thống nhất tình cảm dân tộc. Người viết lịch sử ngày nay không nên chia  hai&nbsp;: nhân vật này yêu nước, nhân vật kia bán nước. Bài học Vua Trần Nhân  Tôn đốt tráp thư những kẻ hàng giặc, đáng cho chúng ta suy nghĩ. Vua Trần có  thể làm việc đó, nhưng ích lợi gì khi sau một cuộc chiến đất nước cần bàn tay  của tất cả mọi người để xây dựng lại. Sau một trận chiến tranh rồi cũng phải  nối lại bang giao, hàn gắn lại những đổ vỡ. Nước yếu kém rồi cũng phải gửi  những con dân ưu tú nhất nước đi học hỏi những tiến bộ. Cũng phải gia nhập vào  những tổ chức chung của thế giới. Người lãnh đạo đất nước sáng suốt phải nghĩ  đến một tổ chức chung nào tất cả mọi người đều có thể tham gia, và chọn lựa  những nhân tài ưu việt của xứ sở lãnh đạo đất nước. </p>
 <p>

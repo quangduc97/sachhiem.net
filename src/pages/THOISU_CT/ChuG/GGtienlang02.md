@@ -3,7 +3,7 @@ layout: ../../../layouts/Article.astro
 title: "Nhân 19.5: Nghe Bác Hồ Trả Lời Phỏng Vấn Nhà Báo Pháp Nửa Thế Kỷ Trước"
 author: "Lê Lan Hương/ GGTienLang"
 date: 2014-05-19
-source: "https://sachhiem.net/THOISU_CT/ChuG/GGtienlang02.php"
+source: "/THOISU_CT/ChuG/GGtienlang02"
 category: "Chính trị"
 lang: vi
 wordCount: 848

@@ -3,7 +3,7 @@ layout: ../../../layouts/Article.astro
 title: "Về Bài Góp Ý Của Ông VLC"
 author: "Cao Hữu Tâm"
 date: 2015-01-30
-source: "https://sachhiem.net/TONGIAO/tgC/Caohtam24.php"
+source: "/TONGIAO/tgC/Caohtam24"
 category: "Tác giả"
 lang: vi
 wordCount: 1675

@@ -3,7 +3,7 @@ layout: ../../../layouts/Article.astro
 title: "Lời Nguyền của Giáo Hoàng Pio 12"
 author: "BBT SH"
 date: 2022-01-02
-source: "https://sachhiem.net/DOITHOAI/SH/Diemkenh.php"
+source: "/DOITHOAI/SH/Diemkenh"
 category: "Tác giả"
 lang: vi
 wordCount: 5900
@@ -88,16 +88,16 @@ image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/TONGIAO/IMG/CHONG_CQ
 <p>  - Giáo Hội Công Giáo đã gây ra 9 hay 10 cuộc thánh chiến,  (1095-1293), nghĩa là đi giết người, chống lại các tôn giáo khác, các Tòa Án Dị  Giáo tra tấn bằng những hình cụ dã man, căng tay chân cho đứt gân người, xiên  âm đạo, vân vân …&nbsp; &nbsp;không thể tưởng tượng được. Hình ảnh các chiến  binh xiên các phụ nữ từ dưới lên trên thật là dã man không ai nhìn mà có thể chịu được.</p>
 <p>  - Hiện nay với công nghệ tối tân, người ta đã khám phá ra cả  ngàn ngôi mộ không tên chôn ở các trường nội trú do các bà sơ quản lý. Việc  khám phá này ở Canada trong năm qua đã làm cho gương mặt “nhân quyền” của giáo  hội thối tha không chịu được. Thủ Tướng Trudeaux đòi Giáo Hoàng phải xin lỗi  dân bản địa.</p>
 <p>  - Đồng thời, ngày nay ở các quốc gia Âu Mỹ, người ta mới dám  lên tiếng về các vụ hiếp dâm của các giáo sĩ trong giáo hội La Mã trong vòng 70  năm trở lại đây. Bỏ đi vô số các vụ giết người lẻ tẻ, các vụ án kinh hoàng sau  đây không thể bịt miệng thế giới nữa, nên đã được đăng trên chính các trang nhà  của CG:</p>
-<p>  - &nbsp;<a href="https://sachhiem.net/index.php?content=showrecipe&amp;id=7668">Giáo hội  Ca-tô Rô-ma Pháp: gần 300.000 trẻ em bị lạm dụng tình dục bởi hàng giáo sĩ kể từ  năm 1950&nbsp;</a></p>
-<p>  - &nbsp;<a href="https://sachhiem.net/index.php?content=showrecipe&amp;id=7218">300 linh mục  Mỹ bị cáo buộc lạm dụng hàng nghìn trẻ em</a>.</p>
-<p>  - <a href="https://sachhiem.net/TONGIAO/tgT/TinUPI_hoalan.php">Khoảng 20.000 trẻ em trong Giáo Hội Ca-tô </a>Hòa Lan bị các Ngài đại diện Chúa lạm dụng tình dục,&nbsp; và vụ này đã được  các giám mục Ca-tô tại quốc gia này nhận lỗi vào hôm Thứ Sáu 16/12/2011</p>
-<p>  - <a href="https://sachhiem.net/index.php?content=showrecipe&amp;id=721">Seattle - Dòng Tên Đền  166 Triệu Đô Cho Các Vụ Lạm Dụng Tình Dục</a></p>
-<p>  - <a href="https://sachhiem.net/TONGIAO/tgT/TinBBC5.php">Các đại diện Toà Thánh</a> bị chất vấn một ngày liền hồi tháng  1/2014<br>
+<p>  - &nbsp;<a href="/SACHNGOAI/SH/SH45">Giáo hội  Ca-tô Rô-ma Pháp: gần 300.000 trẻ em bị lạm dụng tình dục bởi hàng giáo sĩ kể từ  năm 1950&nbsp;</a></p>
+<p>  - &nbsp;<a href="/TONGIAO/tgT/TinVNE_1">300 linh mục  Mỹ bị cáo buộc lạm dụng hàng nghìn trẻ em</a>.</p>
+<p>  - <a href="/TONGIAO/tgT/TinUPI_hoalan">Khoảng 20.000 trẻ em trong Giáo Hội Ca-tô </a>Hòa Lan bị các Ngài đại diện Chúa lạm dụng tình dục,&nbsp; và vụ này đã được  các giám mục Ca-tô tại quốc gia này nhận lỗi vào hôm Thứ Sáu 16/12/2011</p>
+<p>  - <a href="/TONGIAO/tgT/TinMSNBC">Seattle - Dòng Tên Đền  166 Triệu Đô Cho Các Vụ Lạm Dụng Tình Dục</a></p>
+<p>  - <a href="/TONGIAO/tgT/TinBBC5">Các đại diện Toà Thánh</a> bị chất vấn một ngày liền hồi tháng  1/2014<br>
   - &nbsp;<a href="https://www.irishtimes.com/news/world/europe/spanish-church-reels-in-wake-of-dozens-of-child-abuse-allegations-1.4761414" target="blank">Nhà thờ Tây Ban Nha lao đao trước hàng chục cáo buộc lạm dụng trẻ  em&nbsp;</a> từ 1943-2018, có ít nhất 1237 nạn nhân.</p>
 <p>  - <a href="https://www.theguardian.com/world/2016/jun/24/montreal-catholic-priests-alone-with-children-ban?fbclid=IwAR2ynuKAGwsDIMCcqIEK99ns7IkqMeqmdu3NCFGupwbWBKYU6ykRLyyzN7c" target="blank">Canada- Chính sách mới: Cấm các nhân viên nhà thờ gồm linh mục và tình  nguyện viên Công giáo ở Montreal&nbsp;</a> đến gần trẻ em nơi vắng  người. Được coi là <i>"mạng lưới an toàn"</i> chống lại các cáo buộc lạm dụng  tình dục, nhưng các nhà phê bình cho rằng động thái này là "<i>quá ít,và quá  muộn</i>"</p>
 <p>  - <a href="https://www.nytimes.com/2021/06/28/world/europe/poland-catholic-church-abuse.html" target="blank">Nhà thờ Công giáo ở Ba Lan tiết lộ hàng trăm cáo buộc lạm dụng tình dục&nbsp;</a>-  hôm thứ Hai (28 Jun, 2021) thừa nhận rằng từ tháng 7, 2018 đến cuối năm ngoái,  họ đã nhận được đơn khiếu nại lạm dụng đối với 368 trẻ em cả trai lẫn gái. Gần  một nửa số nạn nhân ở dưới 15 tuổi.</p>
 <p>  - <a href="https://kitongaynay.blogspot.com/2021/11/hoa-ky-tieu-bang-nebraska-phat-hien-258.html">Hoa Kỳ: Tiểu bang Nebraska</a> phát hiện 258 nạn nhân bị lạm dụng  tình dục trong nhà thờ</p>
-<p>  ... <a href="https://sachhiem.net/EMAILS/SH/Sachhiem42_list.php">(xem thêm vài danh sách về nạn tình dục trong giáo hội CG)</a> </p>
+<p>  ... <a href="/EMAILS/SH/Sachhiem42_list">(xem thêm vài danh sách về nạn tình dục trong giáo hội CG)</a> </p>
 <p class="TuaDenLeft">Nhân dân cần phải biết lịch sử của Giáo Hội La Mã</p>
 <p>Tại sao người Việt Nam không được quyền biết những thành  tích tội ác đó của cái gọi là Công Giáo ở Việt Nam? Điều lợi ích là nếu biết rồi thì không thể chấp  nhận nghe các linh mục trong nhà thờ lên giọng dạy dỗ về nhân quyền, không thể chấp nhận những bài lịch sử bị sửa đổi để ca tụng những người của nhà thờ đã là tội đồ dân tộc ngày trước. Cho nên  dân ta cần phải BIẾT. Nếu <b>ai đó</b> nói rằng nếu dân biết sự thật thì sẽ có chia rẽ trong dân chúng, thì xin thưa rằng, những hình ảnh mà ta thấy ở trên là đoàn kết hay sao? [<i>Mặc dù có một số lớn các con chiên sống "hiền lành," nhưng vì nghe các bài giảng xuyên tạc của các linh mục, năm này qua năm kia; họ vẫn bị buộc phải "vâng lời" bề trên của họ, sẽ có lúc "ngoan ngoãn" tham gia, hoạt động chống chính quyền theo ý các linh mục. Còn những tín đồ thực sự biết tìm hiểu tôn giáo mình, ho sẽ tỉnh thức, chống lại các linh mục xấu.. Những người này sẽ không chống lại sự phổ biến lịch sử giáo hội.</i>] Họ có đang "đoàn kết" với "chúng ta" hồi nào đâu mà chia rẽ? Chẳng ai sợ "chia rẽ" với quân phiến loạn cả! Chẳng lẽ quyền tự do ngôn luận chỉ có một chiều? Chẳng lẽ ta "im lặng" để cho giặc sửa đổi lịch sử để tự vinh danh họ?</p>
 <p> Từ mấy chục năm qua, chúng ta cũng chỉ phản biện những  trường hợp cụ thể lẻ tẻ mà thôi, chứ chưa phản biện được những bài giảng xuyên  tạc tuyên truyền <b>có hệ thống</b> như kể  trên.   Tại sao thế? Có điều gì cần giải mã chuyện khó hiểu đó. </p>
@@ -133,8 +133,8 @@ image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/TONGIAO/IMG/CHONG_CQ
  <div class="leftborder">
    <p>_______________</p>
    <p>Các bài liên quan đến Giáo Hoàng Pio XII và Cộng Sản:</p>
-   <p>- <a href="https://sachhiem.net/SACHNGOAI/SH/SH47.php">Giáo Hoàng Pius XII Và Cộng Sản: Vạ Tuyệt Thông</a> (SH tóm lược)</p>
-   <p>- <a href="https://sachhiem.net/TONGIAO/tgTR/TranAnBai.php">Vạ Tuyệt Thông của Giáo Hội dành cho người theo Cộng Sản</a> (TS Trần An Bài)</p>
+   <p>- <a href="/SACHNGOAI/SH/SH47">Giáo Hoàng Pius XII Và Cộng Sản: Vạ Tuyệt Thông</a> (SH tóm lược)</p>
+   <p>- <a href="/TONGIAO/tgTR/TranAnBai">Vạ Tuyệt Thông của Giáo Hội dành cho người theo Cộng Sản</a> (TS Trần An Bài)</p>
    
  </div>
  <p>________ <b>Nhận Xét</b> _________</p>

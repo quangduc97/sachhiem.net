@@ -2,7 +2,7 @@
 layout: ../../../layouts/Article.astro
 title: "THỰC TRẠNG PHẬT GIÁO VIỆT NAM HIỆN NAY"
 author: "Minh Mẫn"
-source: "https://sachhiem.net/null"
+source: "/null"
 lang: vi
 wordCount: 18458
 image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/MINHMAN/file:///C:/SACHHIEM/images/mail.gif"
@@ -1678,7 +1678,7 @@ Gửi bài này cho bạn bè</font></a></i></td>
 	<tbody><tr>
 		<td width="100%" bgcolor="White" align="left" valign="top" height="16">	
 
-			<a href="https://sachhiem.net/MINHMAN/MMdir.php"><p class="trang">Trang Minh Mẫn</p></a>
+			<a href="/MINHMAN/MMdir"><p class="trang">Trang Minh Mẫn</p></a>
 
 </td>
 	</tr>

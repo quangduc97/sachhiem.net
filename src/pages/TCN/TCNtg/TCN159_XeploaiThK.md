@@ -3,7 +3,7 @@ layout: ../../../layouts/Article.astro
 title: "Các Nước Ngoài Xếp Loại Thánh Kinh Ra Sao?"
 author: "Trần Chung Ngọc - SH"
 date: 2023-08-05
-source: "https://sachhiem.net/TCN/TCNtg/TCN159_XeploaiThK.php"
+source: "/TCN/TCNtg/TCN159_XeploaiThK"
 category: "Tác giả"
 lang: vi
 wordCount: 2240

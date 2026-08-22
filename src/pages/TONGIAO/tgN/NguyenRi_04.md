@@ -3,7 +3,7 @@ layout: ../../../layouts/Article.astro
 title: "Giáo Hoàng và Bờ Vực Thẳm"
 author: "Ross Douthat"
 date: 2014-10-29
-source: "https://sachhiem.net/TONGIAO/tgN/NguyenRi_04.php"
+source: "/TONGIAO/tgN/NguyenRi_04"
 category: "Tác giả"
 lang: vi
 wordCount: 1993
@@ -44,4 +44,4 @@ image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/SACHNGOAI/Hinhanh/PE
 <p class="TacgiaL">Nguyễn Ri dịch</p>
 <p class="nguonL">Nguồn  <a href="https://mobile.nytimes.com/2014/10/26/opinion/sunday/ross-douthat-the-pope-and-the-precipice.html?_r=1">https://mobile.nytimes.com/2014/10/26/opinion/sunday/ross-douthat-the-pope-and-the-precipice.html?_r=1</a> OCTOBER 25, 2014&nbsp;</p>
 __________________
- <p>Các bài của Nguyễn Ri: link <a href="https://sachhiem.net/TONGIAO/tgN/ListRiNguyen.inc.php" target="_blank">https://sachhiem.net/TONGIAO/tgN/ListRiNguyen.inc.php</a></p>
+ <p>Các bài của Nguyễn Ri: link <a href="/TONGIAO/tgN/ListRiNguyen.inc" target="_blank">https://sachhiem.net/TONGIAO/tgN/ListRiNguyen.inc.php</a></p>

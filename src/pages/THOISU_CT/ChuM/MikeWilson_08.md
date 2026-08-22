@@ -3,7 +3,7 @@ layout: ../../../layouts/Article.astro
 title: "Ai Làm Phát Sinh Và Bành Trướng Phong Trào Thánh Chiến IS?"
 author: "Mike Wilson"
 date: 2015-10-24
-source: "https://sachhiem.net/THOISU_CT/ChuM/MikeWilson_08.php"
+source: "/THOISU_CT/ChuM/MikeWilson_08"
 category: "Chính trị"
 lang: vi
 wordCount: 1290

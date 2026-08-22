@@ -3,7 +3,7 @@ layout: ../../../layouts/Article.astro
 title: "Bản Phúc Trình Của CIA"
 author: "Nguyên Giác dịch"
 date: 2013-06-04
-source: "https://sachhiem.net/SACHNGOAI/snN/Nguyengiac_CIA_RDP.php"
+source: "/SACHNGOAI/snN/Nguyengiac_CIA_RDP"
 category: "Lịch sử"
 lang: vi
 wordCount: 966
@@ -56,7 +56,7 @@ Có tin  là một số nhóm Phật Tử và những người dân tộc chủ 
 <p>Xin chào Sách Hiếm, </p>
 <p>Tôi tình cờ đọc được 1 bài của sách hiếm có tựa đề "<strong>Bản Phúc Trình Của CIA - Báo Cáo Về Cuộc Thảm Sát Huế 1963</strong>" nhưng khi tôi vào xem thì nội dung của nó lại là "<strong>Nỗ lực của cảnh sát, Dân Vệ, và quân đội khi giải tán đám đông khoảng 3,000 người ở đải phát thanh đã làm chết ít nhất 7 người</strong>"  </p>
 <p> Như vậy đây là 1 cuộc đàn áp biểu tình tuy nhiên tôi không hề thấy hiện tượng&nbsp;<strong>thảm sát</strong>&nbsp;ở đâu cả. Xin được giải thích về phần này, nếu như không phải là&nbsp;<strong>thảm sát&nbsp;</strong>thì hãy sửa lại để tránh gây hiểu nhầm. Cám ơn. </p>
-<p>Link:&nbsp;<a href="https://sachhiem.net/index.php?content=showrecipe&amp;id=5666" data-mce-href="https://sachhiem.net/index.php?content=showrecipe&amp;id=5666">https://sachhiem.net/index.php?content=showrecipe&amp;id=5666</a> </p>
+<p>Link:&nbsp;<a href="/SACHNGOAI/snN/Nguyengiac_CIA_RDP" data-mce-href="https://sachhiem.net/index.php?content=showrecipe&amp;id=5666">https://sachhiem.net/index.php?content=showrecipe&amp;id=5666</a> </p>
 <p>Mong sớm hồi âm.</p>
 <p><b>Trả lời:</b></p>
 <p>Subject: 

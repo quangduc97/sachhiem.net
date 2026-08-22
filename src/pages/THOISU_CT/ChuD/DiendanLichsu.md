@@ -275,7 +275,7 @@ Nhưng họ lại cứ tưởng là "mình đã chiến thắng trong tranh lu�
 Câu hỏi vẫn đặt ra với chúng ta: HỌ LÀ GIỐNG GÌ? </p>
 <hr width="30%" align="left">
 <p>Xin mời xem bài có đề tài tương tự như "Họ Là Ai?"</p>
-<p>- <a href="https://www.sachhiem.net/NMQ/HOVATA/NMQhvt.php">Họ và Chúng Ta của GS Nguyễn Mạnh Quang</a></p>
+<p>- <a href="/NMQ/HOVATA/NMQhvt">Họ và Chúng Ta của GS Nguyễn Mạnh Quang</a></p>
 <hr width="30%" align="left">
 <p class="TuaDoLeft">
 <img border="0" src="https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/ball.GIF" width="15" height="15"> Bài 2:</p>

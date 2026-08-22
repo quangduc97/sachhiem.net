@@ -3,7 +3,7 @@ layout: ../../layouts/Article.astro
 title: "Thư Gửi Mẹ"
 author: "Lý Thái Xuân"
 date: 2017-05-10
-source: "https://sachhiem.net/LTX/LyThaiXH29.php"
+source: "/LTX/LyThaiXH29"
 category: "Xã hội"
 lang: vi
 wordCount: 652

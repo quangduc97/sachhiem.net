@@ -7,12 +7,11 @@ source: "https://xichloviet.wordpress.com/2012/05/01/d%e1%ba%a7u-b%e1%ba%bfp-c%e
 category: "Đối thoại"
 lang: vi
 wordCount: 3577
-image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nha.jpg"
+image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/THOISU_CT/Hinh/CCCB/Daubepcovang.jpg"
 ---
 
 <table border="0" align="center" cellpadding="1" width="250"><tbody><tr>
-	<td width="234"><a href="https://www.sachhiem.net/">
-	<img border="0" src="https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nha.jpg"></a></td>
+	<td width="234"></td>
 <td valign="top" width="356">	</td></tr></tbody></table>
  
       <p><span class="First">N</span>gồi ghế xa lông, đọc báo mạng, tìm những tin tức nào hợp khẩu vị dân

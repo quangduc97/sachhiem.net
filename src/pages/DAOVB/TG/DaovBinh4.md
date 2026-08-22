@@ -6,12 +6,12 @@ source: "https://www.telegraph.co.uk/news/newstopics/religion/5977093/Buddhism-i
 category: "Tác giả"
 lang: vi
 wordCount: 1079
-image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nha.jpg"
+image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/TONGIAO/IMG/CHUA/DucPhatgianglam.jpg"
 ---
 
 <table border="0" cellpadding="0" width="250" align="center">
             <tbody><tr>
-              <td width="125"><a href="/index"><img border="0" src="https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nha.jpg"></a></td>
+              <td width="125"></td>
 			<td valign="top">	
 			<p>18 tháng 12,   2010 </p></td>
 		</tr>

@@ -3,7 +3,7 @@ layout: ../../../layouts/Article.astro
 title: "Đừng Phá Hủy Đất Nước Bằng Sự Cực Đoan"
 author: "Đặng Hoàng Giang/ VNnet"
 date: 2014-05-16
-source: "https://sachhiem.net/THOISU_CT/ChuD/DangHGiang.php"
+source: "/THOISU_CT/ChuD/DangHGiang"
 category: "Tác giả"
 lang: vi
 wordCount: 1069
@@ -33,5 +33,5 @@ image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/THOISU_CT/Hinh/Quanh
  <p class="nguonL">Nguồn https://vietnamnet.vn/vn/tuanvietnam/175461/dung-pha-huy-dat-nuoc-bang-su-cuc-doan.html</p>
  <hr>
  <p><b>Bài khác cùng tác giả:</b></p>
-    <p>- <a href="https://sachhiem.net/THOISU_CT/ChuD/DangHGiang_01.php">Văn Hóa Không Phải Lý Do Thất Bại</a> 
+    <p>- <a href="/THOISU_CT/ChuD/DangHGiang_01">Văn Hóa Không Phải Lý Do Thất Bại</a> 
 </p>

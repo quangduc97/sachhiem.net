@@ -2,7 +2,7 @@
 layout: ../../../layouts/Article.astro
 title: "“Chúng ta đều phụ thuộc vào nhau”"
 author: "Kim Yến /SGTT"
-source: "https://sachhiem.net/null"
+source: "/null"
 category: "Khoa học"
 lang: vi
 wordCount: 5050

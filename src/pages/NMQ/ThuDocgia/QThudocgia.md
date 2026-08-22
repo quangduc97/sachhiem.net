@@ -1,7 +1,7 @@
 ---
 layout: ../../../layouts/Article.astro
 title: "Thư Đọc Giả"
-source: "https://sachhiem.net/NMQ/ThuDocgia/QThudocgia.php"
+source: "/NMQ/ThuDocgia/QThudocgia"
 lang: vi
 wordCount: 127
 ---

@@ -3,7 +3,7 @@ layout: ../../../layouts/Article.astro
 title: "Mơ Ước Thanh Bình"
 author: "Đào Văn Bình"
 date: 2014-07-05
-source: "https://sachhiem.net/DAOVB/VH/DaovBinh_mouoc.php"
+source: "/DAOVB/VH/DaovBinh_mouoc"
 category: "Chính trị"
 lang: vi
 wordCount: 487

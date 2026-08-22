@@ -3,7 +3,7 @@ layout: ../../../layouts/Article.astro
 title: "Mohammad Ali Và Chiến Tranh Việt Nam"
 author: "Kevin Trần sưu tầm"
 date: 2016-06-07
-source: "https://sachhiem.net/LICHSU/TR/TranKevin03.php"
+source: "/LICHSU/TR/TranKevin03"
 category: "Lịch sử"
 lang: vi
 wordCount: 524

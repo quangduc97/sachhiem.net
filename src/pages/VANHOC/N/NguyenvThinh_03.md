@@ -3,7 +3,7 @@ layout: ../../../layouts/Article.astro
 title: "Kẻ Láng Giềng Bất Hảo!"
 author: "BS. Nguyễn Văn Thịnh"
 date: 2014-10-11
-source: "https://sachhiem.net/VANHOC/N/NguyenvThinh_03.php"
+source: "/VANHOC/N/NguyenvThinh_03"
 category: "Chính trị"
 lang: vi
 wordCount: 3502
@@ -65,4 +65,4 @@ image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/MISC/Chosoi.j
 <p class="nguonL"> tác giả gửi bản điện tử </p>
    
 ___________________
-<p>Các bài của Nguyễn Văn Thịnh: link <a href="https://sachhiem.net/VANHOC/N/ListNVTh.inc.php" target="_blank">https://sachhiem.net/VANHOC/N/ListNVTh.inc.php</a></p>
+<p>Các bài của Nguyễn Văn Thịnh: link <a href="/VANHOC/N/ListNVTh.inc" target="_blank">https://sachhiem.net/VANHOC/N/ListNVTh.inc.php</a></p>

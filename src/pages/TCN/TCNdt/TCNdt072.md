@@ -3,7 +3,7 @@ layout: ../../../layouts/Article.astro
 title: "Người Buôn Gió “Chém Gió”"
 author: "Trần Chung Ngọc"
 date: 2013-10-17
-source: "https://sachhiem.net/index.php?content=showrecipe&id=5781"
+source: "/TCN/TCNdt/TCNdt072"
 category: "Đối thoại"
 lang: vi
 wordCount: 5967

@@ -3,7 +3,7 @@ layout: ../../../layouts/Article.astro
 title: "Cái Nhìn Khác Về Vụ Chùa Ba Vàng"
 author: "Milu Dau"
 date: 2019-03-27
-source: "https://sachhiem.net/TONGIAO/tgM/MiluDau_03.php"
+source: "/TONGIAO/tgM/MiluDau_03"
 category: "Chính trị"
 lang: vi
 wordCount: 1311

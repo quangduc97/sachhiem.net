@@ -3,7 +3,7 @@ layout: ../../../layouts/Article.astro
 title: "Cảm Ơn BBT Giao Điểm Và Sách Hiếm"
 author: "Nguyễn Hữu Ba"
 date: 2015-02-16
-source: "https://sachhiem.net/TONGIAO/tgN/NguyenHBa09.php"
+source: "/TONGIAO/tgN/NguyenHBa09"
 category: "Xã hội"
 lang: vi
 wordCount: 2687
@@ -15,16 +15,16 @@ image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/CHUCTET/Hoada
           
           
           
-          <p><span class="First">T</span>rước thềm năm mới Ất Mùi-2015, tôi, Nguyễn Hữu  Ba, xin trân trọng gởi đến toàn thể quý vị trong BBT <a href="https://giaodiemonline.com/" target="_blank">giaodiemonline.com</a> và <a href="https://sachhiem.net/" target="_blank">sachhiem.net</a> lời  cảm ơn chân thành nhất của tôi. </p>
+          <p><span class="First">T</span>rước thềm năm mới Ất Mùi-2015, tôi, Nguyễn Hữu  Ba, xin trân trọng gởi đến toàn thể quý vị trong BBT <a href="https://giaodiemonline.com/" target="_blank">giaodiemonline.com</a> và <a href="/" target="_blank">sachhiem.net</a> lời  cảm ơn chân thành nhất của tôi. </p>
  <p align="center"><img src="https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/CHUCTET/Hoadao1.jpg" width="300" height="236"></p>
           <p>Tôi cũng chân thành kính chúc quý vị luôn dồi  dào sức khỏe để vững bước trên con đường BÌNH NÔ, TẨY TẢ.</p>
           <p>Sẵn đây, tôi cũng xin mượn diễn đàn này để nói  lên vài lời tâm tình của tôi gởi đến quý vị và toàn thể bạn đọc nhân dịp năm  mới Ất Mùi-2015.</p>
           <p>Xin thú thật, từ nhỏ cho đến cách đây 27 năm  (1988) tôi đã không có mấy cảm tình với những con chiên TCG vì cái lối hành xử  trịch thượng, ngạo mạn của họ. Thí dụ khi đang nói chuyện với chúng ta mà có đề  cập tới một ông LM hay một chức sắc nào đó trong giáo hội của họ, thì họ thường  dùng tiếng “NGÀI” để nói về người đó. Họ cố ý chứng tỏ cho chúng ta thấy rằng  những chủ chiên của họ là những người tài giỏi, đạo cao, đức trọng, thánh thiện  ghê gớm lắm. Rồi đến ông Giáo Hoàng thì họ cố ý tôn lên hàng “ĐỨC THÁNH  CHA”. Trong đời tôi, tôi chưa hề gọi một người nào còn sống bằng “NGÀI” đừng  nói là đức thánh cha!. Ông GH cũng là con người trần, mắt thịt, phàm phu, tục  tử. Nếu họ kính nể ông ta thì gọi “ĐỨC CHA” (cũng chưa xứng đáng) là quá  lắm rồi. Còn cố ý thêm chữ “THÁNH” vào, thật là khả ố, lố bịch. </p>
           <p>Nhưng cái mà họ  làm cho tôi khó chịu nhất là khi kết hôn với người khác đạo, thì họ bắt buộc  người đó phải đổi đạo mới cho kết hôn. Vậy mà họ có cả một Ủy Ban Công Lý và  Hòa Bình??? Công lý ở đâu vậy các “CHA” (?)</p>
           <p>Tuy là có ác cảm với họ, nhưng lúc đó tôi chưa biết  nhiều về họ. </p>
-          <p class="PicRgt"><a href="https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.devhttps://vmddtech.com/buddhism/DaoThienChua_va_ChuNghiaThucDan_phan_1.pdf"><img src="https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/SACH/DaoThienChua.jpg" width="150" height="204"><br>Bấm vào hình</a> xem bản chụp,<br>  hoặc vào <a href="https://sachhiem.net/CAOHT/DaoTCmain.php">link này xem bản <br>electronic </a>do bạn đọc đánh máy lại.</p>
+          <p class="PicRgt"><a href="https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.devhttps://vmddtech.com/buddhism/DaoThienChua_va_ChuNghiaThucDan_phan_1.pdf"><img src="https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/SACH/DaoThienChua.jpg" width="150" height="204"><br>Bấm vào hình</a> xem bản chụp,<br>  hoặc vào <a href="/CAOHT/DaoTCmain">link này xem bản <br>electronic </a>do bạn đọc đánh máy lại.</p>
           <p>Cho đến năm 1988, tình cờ, một người bạn rủ tôi cùng gởi tiền qua  Mỹ để mua cuốn <i>“Đạo Thiên Chúa Và Chủ Nghĩa Thực Dân Tại VN</i>”, một luận án TS  của ông Cao Huy Thuần, đã được đại học Paris chấm đậu ưu hạng. Từ đó tôi chuyên  tâm nghiên cứu về TK và cái lịch sử tàn ác vô tiền, khoáng hậu của Vatican.  Cũng từ đó, tôi đọc Giao Điểm và Sách Hiếm mỗi ngày. </p>
-          <p>Có thể nói, những người  trong BBT Giao Điểm và Sách Hiếm là những người thầy của tôi. Nhờ các sách, báo  và hai trang nhà <a href="https://giaodiemonline.com/" target="_blank">giaodiemonline.com</a> và <a href="https://sachhiem.net/" target="_blank">sachhiem.net</a> đã  cho chúng tôi biết được những tài liệu chính xác, bất khả phủ bác là: Chính các  thừa sai và con chiên An Nam là nguyên nhân chính đã làm cho chúng ta mất nước  gần 100 năm. Một lần nữa, tôi xin chân thành cảm ơn quý vị. Nhưng hôm nay, nhân  khi viết bài này, tôi muốn nói với những con chiên của Vatican một điều:</p>
+          <p>Có thể nói, những người  trong BBT Giao Điểm và Sách Hiếm là những người thầy của tôi. Nhờ các sách, báo  và hai trang nhà <a href="https://giaodiemonline.com/" target="_blank">giaodiemonline.com</a> và <a href="/" target="_blank">sachhiem.net</a> đã  cho chúng tôi biết được những tài liệu chính xác, bất khả phủ bác là: Chính các  thừa sai và con chiên An Nam là nguyên nhân chính đã làm cho chúng ta mất nước  gần 100 năm. Một lần nữa, tôi xin chân thành cảm ơn quý vị. Nhưng hôm nay, nhân  khi viết bài này, tôi muốn nói với những con chiên của Vatican một điều:</p>
           <p><b>“Tôi Cảm Ơn GĐ Và SH ‘Một’ Thì Đám Con Chiên Của Vatican Phải Cảm Ơn GĐ Và SH ‘Một Ngàn Lần Hơn'.” </b></p>
           <p>Vì sao? Vì tôi không là gì của Vatican cả. Tôi  chỉ là một người bình thường muốn tìm hiểu lịch sử mà thôi. Còn các con chiên  là nạn nhân trực tiếp của Vatican. Họ đã bị Vatican bóc lột một cách tàn tệ.  Vatican còn dùng đủ mánh khóe để nhồi sọ các người trở thành những con chiên  của họ để dễ bề sai khiến. Họ đã biến các người thành những người phản quốc  “thà mất nước chứ không thà mất Chúa”.</p>
           <p> Mà Chúa ở đâu??? Chỉ là đồ bịp. Tôi  biết, hầu hết những con chiên của Chúa chưa hề đọc TK, ngoài những đoạn mà các  LM đã lựa chọn để đọc trong nhà thờ lúc hành lễ. Tôi xin kể hầu các người hai  câu chuyện có thật sau đây: </p>
@@ -41,7 +41,7 @@ image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/CHUCTET/Hoada
           <p>Như vậy thì rõ ràng như 2+2=4 là chính nhờ GĐ và  SH mà những con chiên mới biết là chính Vatican đã lừa bịp họ từ đời ông, đời  cha,... cho đến đời các người bây giờ.</p>
           <p>Xin mọi độc giả hãy suy xét câu nói của tôi: <b>“TÔI  CẢM ƠN GĐ và SH ‘MỘT’ THÌ ĐÁM CON CHIÊN CỦA VATICAN PHẢI CẢM ƠN GĐ và SH ‘MỘT  NGÀN LẦN HƠN’.” </b>Có đúng hay không??? </p>
           <p>Mà khi đã thấy đúng rồi thì bước tiếp theo sẽ  làm gì???. Tùy các bạn con chiên suy nghĩ và hành động.</p>
-          <p>Một lần nữa, tôi xin cảm ơn BBT <a href="https://giaodiemonline.com/" target="_blank">giaodiemonline.com</a> và <a href="https://sachhiem.net/" target="_blank">sachhiem.net</a>.  </p>
+          <p>Một lần nữa, tôi xin cảm ơn BBT <a href="https://giaodiemonline.com/" target="_blank">giaodiemonline.com</a> và <a href="/" target="_blank">sachhiem.net</a>.  </p>
           <p>Tôi cũng chân thành kính chúc quý vị luôn dồi dào sức khỏe để vững bước trên  con đường BÌNH NÔ, TẨY TẢ.</p>
         <p class="TacgiaL">Nguyễn Hữu Ba </p>
  ___________________
@@ -114,4 +114,4 @@ Subject:  RE: (CHÍNH NGHĨA): Re: [DiendanDanToc] Thư cảm ơn  BBT Giao Đi�
   canngon.<a href="https://blogspot.com/" target="_blank">blogspot.com</a></p>
 ______________________
 <p>Các bài của Nguyễn Hữu Ba: <br>
-  link <a href="https://sachhiem.net/TONGIAO/tgN/ListNHBa.inc.php" target="_blank"> https://sachhiem.net/TONGIAO/tgN/ListNHBa.inc.php</a></p>
+  link <a href="/TONGIAO/tgN/ListNHBa.inc" target="_blank"> https://sachhiem.net/TONGIAO/tgN/ListNHBa.inc.php</a></p>

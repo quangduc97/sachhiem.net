@@ -2,7 +2,7 @@
 layout: ../../../layouts/Article.astro
 title: "Astronomers on Verge of Finding Earth's Twin"
 author: "Space.com"
-source: "https://sachhiem.net/null"
+source: "/null"
 lang: en
 wordCount: 1777
 image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/SACHNGOAI/file:///C:/SACHHIEM/images/mail.gif"

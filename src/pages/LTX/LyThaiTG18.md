@@ -3,7 +3,7 @@ layout: ../../layouts/Article.astro
 title: "10 lý do khiến giới trẻ của Thiên Niên Kỷ"
 author: "Dr. Alex McFarland"
 date: 2017-04-30
-source: "https://sachhiem.net/LTX/LythaiTG18.php"
+source: "/LTX/LythaiTG18"
 category: "Tác giả"
 lang: vi
 wordCount: 2334

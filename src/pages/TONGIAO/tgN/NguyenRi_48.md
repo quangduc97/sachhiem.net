@@ -7,11 +7,10 @@ source: "https://sachhiem.net"
 category: "Tác giả"
 lang: vi
 wordCount: 732
-image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nha.jpg"
+image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/THOISU_CT/Hinh/VIETNAM/NGAYNAY/HDH_PhepLa.jpg"
 ---
 
-<p align="center"><a href="https://www.sachhiem.net/">
-<img border="0" src="https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nha.jpg"></a> 
+<p align="center"> 
 ngày </p> 
 <p>(chưa đăng)</p>
 <p><img src="https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/THOISU_CT/Hinh/VIETNAM/NGAYNAY/HDH_PhepLa.jpg" width="400" height="347" alt=""><br>
@@ -55,4 +54,4 @@ Có 19 người ký vào một lá thư thúc giục Hội Đồng Giám mục
  
  <p>_____________________</p>
  <p>Các bài của Nguyễn Ri: link</p>
- <p> <a href="https://sachhiem.net/TONGIAO/tgN/ListRiNguyen.inc.php" target="_blank">https://sachhiem.net/TONGIAO/tgN/ListRiNguyen.inc.php</a></p>
+ <p> <a href="/TONGIAO/tgN/ListRiNguyen.inc" target="_blank">https://sachhiem.net/TONGIAO/tgN/ListRiNguyen.inc.php</a></p>

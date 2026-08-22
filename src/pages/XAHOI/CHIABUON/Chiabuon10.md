@@ -3,7 +3,7 @@ layout: ../../../layouts/Article.astro
 title: "Thành Kính Phân Ưu"
 author: "\\ Ban Biên Tập Sachhiem.net \\"
 date: 2016-03-15
-source: "https://sachhiem.net/XAHOI/CHIABUON/Chiabuon10.php"
+source: "/XAHOI/CHIABUON/Chiabuon10"
 lang: vi
 wordCount: 203
 ---

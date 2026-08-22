@@ -2,7 +2,7 @@
 layout: ../../../layouts/Article.astro
 title: "TƯỜNG TRÌNH VÀ GÓP Ý VỀ"
 author: "Tỳ Kheo Thích Không Tánh"
-source: "https://sachhiem.net/null"
+source: "/null"
 category: "Tác giả"
 lang: vi
 wordCount: 4511

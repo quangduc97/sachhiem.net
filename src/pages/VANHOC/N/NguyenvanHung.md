@@ -3,7 +3,7 @@ layout: ../../../layouts/Article.astro
 title: "Những Nhà Hiền Triết Tây Phương Xưa"
 author: "Nguyễn Văn Hùng"
 date: 2011-12-03
-source: "https://www.sachhiem.net/VANHOC/N/NguyenvanHung.php"
+source: "/VANHOC/N/NguyenvanHung"
 category: "Văn hóa"
 lang: vi
 wordCount: 10979

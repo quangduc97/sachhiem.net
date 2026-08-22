@@ -2,7 +2,7 @@
 layout: ../../../layouts/Article.astro
 title: "Tại Sao Từ Võ Văn Ái Đến Nguyễn Xuân Vinh"
 author: "Mục Đồng"
-source: "https://sachhiem.net/null"
+source: "/null"
 category: "Xã hội"
 lang: vi
 wordCount: 7708
@@ -34,7 +34,7 @@ image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nhacu.jpg"
 <div style="padding-left: 30px; padding-right: 30px">
 
 <table border="0" cellpadding="10" width="80%" cols="2"><tbody><tr>
-	<td valign="top"><a href="https://sachhiem.net/"><img border="0" src="https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nhacu.jpg" width="49" height="20"></a></td>
+	<td valign="top"><a href="/"><img border="0" src="https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nhacu.jpg" width="49" height="20"></a></td>
 	<td valign="top" style="text-align:right">	<i><font color="#606060" size="2">06 tháng 9, 2008
 	</font></i>
 	</td></tr></tbody></table>
@@ -79,10 +79,10 @@ bình của Mục Đồng với nhan đề GẬY ÔNG ĐẬP LƯNG ÔNG trên sa
 Thoại hay thử đọc trực tiếp một vài bài mới đây của Trương Văn Hòa nào đó đăng 
 trên Tinparis.net. Việc làm tội tệ của Võ Văn Ái đã bị rất nhiều nhà sư và Phật 
 tử ở hải ngoai và trong nước lên án, chẳng hạn, các bài viết: 
-<a href="https://sachhiem.net/TONGIAO/HoangThucAn.php">Ngày Tàn Của 
+<a href="/TONGIAO/HoangThucAn">Ngày Tàn Của 
 Ngụy Quân Tử Và Thứ Phi Đã Điểm, 
 Gia Đinh Phật Tử Việt Nam Tại Mỹ Khai Chiến 
-Chống Ngụy Quân Tử</a>, <a href="https://sachhiem.net/TONGIAO/MinhTu.php">Lại Thêm Một Trò “ Diễu Dở“ Của Võ Văn </a>…, đăng trên 
+Chống Ngụy Quân Tử</a>, <a href="/TONGIAO/MinhTu">Lại Thêm Một Trò “ Diễu Dở“ Của Võ Văn </a>…, đăng trên 
 sachhiem.net. Và mới đây nhất thầy Thích Viên Giáo đã cho phổ biến trên Internet 
 bài CHẤT VẤN ÔNG VÕ VĂN ÁI ngày 26/8/2008 với đoan kết như sau : </p>
 <div style="background-color: #E6EDEE">
@@ -188,7 +188,7 @@ Hùng là đại diện tỏ ra quá “tồi tệ“, cho nên sau khi về nh�
 cảnh này mà tung ra cái DVD khác với sự thật do cái DVD thu tại chỗ mà cả khối 
 người đã biết. Tính tính chât lưu manh vặt này của Tuyết Mai bị tác giả Trần 
 Chung Ngọc vạch mặt ra trong bài : 
-<a href="https://sachhiem.net/TCN/TCNdt/TCNdt18.php">“TẢN MẠN VỀ “THÓI ĐỜI ĐỐI KHÁNG”</a> đang trong 
+<a href="/TCN/TCNdt/TCNdt18">“TẢN MẠN VỀ “THÓI ĐỜI ĐỐI KHÁNG”</a> đang trong 
 sachhiem.net.</p>
 <p>Rồi 
 tiếp theo là những ngôn từ thô lỗ, du côn của những tên theo đóm ăn tàn, chẳng 

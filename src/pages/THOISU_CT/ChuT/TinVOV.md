@@ -3,7 +3,7 @@ layout: ../../../layouts/Article.astro
 title: "9 Điểm Nhấn Quan Trọng Trong Di Sản Của Tổng Thống Mỹ Barack Obama"
 author: "Trần Khánh/VOV.VN"
 date: 2017-01-11
-source: "https://sachhiem.net/THOISU_CT/ChuT/TinVOV.php"
+source: "/THOISU_CT/ChuT/TinVOV"
 category: "Chính trị"
 lang: vi
 wordCount: 1533

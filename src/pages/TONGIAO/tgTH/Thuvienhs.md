@@ -3,7 +3,7 @@ layout: ../../../layouts/Article.astro
 title: "Quan Điểm Của Đạo Phật"
 author: "Thích Nữ Tịnh Quang"
 date: 2013-02-19
-source: "https://sachhiem.net/TONGIAO/tgTH/Thuvienhs.php"
+source: "/TONGIAO/tgTH/Thuvienhs"
 category: "Tác giả"
 lang: vi
 wordCount: 2542
@@ -39,4 +39,4 @@ image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/TONGIAO/IMG/PHAT/Pha
 <p>_________________________</p>
 <p><b>Chú thích của sachhiem.net:</b></p>
 <p><a name="na" href="/TONGIAO/#a">(1) </a> Ở đây, tác giả có lẽ muốn nói "Cứu Độ" thì đúng hơn.  Từ "cứu rỗi" là quan niệm đặc thù của Ki Tô   Giáo (cứu rỗi phần hồn) còn "cứu độ" là giúp đưa con người đến bờ giác ngộ   (đáo bỉ ngạn). Người Ki-tô giáo nay đang cố đổi từ "cứu rỗi" thành "cứu độ" để kiếm thêm tín đồ và chúng ta đã có bài phản bác sự nhập nhằng từ ngữ này trên sachhiem.net: </p>
-<p>Xin đọc "<i>Quan Niệm Giải Thoát Trong Phật Giáo Và Ca-Tô Rô-Ma Giáo</i>" của GS Trần Chung Ngọc (<a href="https://sachhiem.net/TCN/TCNtg/TCN120.php">https://sachhiem.    net/TCN/TCNtg/TCN120.php</a>)</p>
+<p>Xin đọc "<i>Quan Niệm Giải Thoát Trong Phật Giáo Và Ca-Tô Rô-Ma Giáo</i>" của GS Trần Chung Ngọc (<a href="/TCN/TCNtg/TCN120">https://sachhiem.    net/TCN/TCNtg/TCN120.php</a>)</p>

@@ -2,14 +2,14 @@
 layout: ../../../layouts/Article.astro
 title: "Phiếm Luận Thua Cuộc Bầu Cử"
 author: "Giao Chỉ, San Jose"
-source: "https://sachhiem.net/THOISU_CT/ChuG/Giaochi_01.php"
+source: "/THOISU_CT/ChuG/Giaochi_01"
 category: "Lịch sử"
 lang: vi
 wordCount: 4109
-image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nha.jpg"
+image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/THOISU_CT/Hinh/HOAKY/ELECTION/HillaryClinton_concedes.jpg"
 ---
 
-<p align="center"><a href="https://www.sachhiem.net/"> <img border="0" src="https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nha.jpg"></a> 21 tháng 1, 2008</p>
+<p align="center"> 21 tháng 1, 2008</p>
           <div class="tomluoc">
             <p><i>LTS: Nguyên tựa của tác giả: "Phiếm luận thua cuộc bầu cử. Chỉ có tại Hoa Kỳ." Chúng tôi xin phép tác giả bỏ bớt câu thứ hai với sự cẩn trọng, khiêm cung và khích lệ. Biết đâu trên thế giới này còn có nhiều nơi khác, và sẽ có thêm nhiều nơi khác.  Cám ơn và tán thành với tác giả về nội dung mang niềm hy vọng, thay vì  "chọn thái độ" hoặc xung khắc rất tiêu cực, không có giá trị tốt đẹp nào.</i> (SH) </p>
           </div>
@@ -63,4 +63,4 @@ image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nha.jpg"
           <hr>
           <p class="TuaDenLeft"><b>Bài đọc thêm:</b></p>
           <p> -  Cuộc gọi điện thoại chúc mừng những người bạn đã bầu cho Trump</p>
-          <p><a href="https://sachhiem.net/LTX/LyThaiTS16.php"> https://sachhiem.net/LTX/LyThaiTS16.php</a></p>
+          <p><a href="/LTX/LyThaiTS16"> https://sachhiem.net/LTX/LyThaiTS16.php</a></p>

@@ -3,7 +3,6 @@ layout: ../../../layouts/Article.astro
 title: "Về Bức Thư “Chê Chúa” Của Einstein"
 author: "Trần Chung Ngọc"
 date: 2012-10-17
-source: "https://sachhiem.net/index.php?content=showrecipe&id=5417"
 category: "Chính trị"
 lang: vi
 wordCount: 3052
@@ -278,7 +277,7 @@ image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/KHOAHOC/IMG/AlbertEi
         <p class="TacgiaL"> Trần Chung Ngọc </p>
         
         <p><b>Mời đọc thêm:</b></p>
-        <p>- <a href="https://sachhiem.net/TONGIAO/tgS/SH80.php">Bức Thư Về God của Einstein Bán Đấu Giá Vượt Kỷ Lục.</a> (SH) 05-Dec-2018</p>
-        <p>- <a href="https://sachhiem.net/TONGIAO/tgM/Minhlong01.php">Bán Đấu Giá Thư Của Einstein Nói Về Chúa</a> (Minh Long)</p>
+        <p>- <a href="/TONGIAO/tgS/SH80">Bức Thư Về God của Einstein Bán Đấu Giá Vượt Kỷ Lục.</a> (SH) 05-Dec-2018</p>
+        <p>- <a href="/TONGIAO/tgM/Minhlong01">Bán Đấu Giá Thư Của Einstein Nói Về Chúa</a> (Minh Long)</p>
         
         <hr>

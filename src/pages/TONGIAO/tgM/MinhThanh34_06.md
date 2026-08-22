@@ -3,7 +3,7 @@ layout: ../../../layouts/Article.astro
 title: "[VATICANOLOGY] Cờ Trắng Cho Ukraina: Chiến Tranh Uỷ Nhiệm Của Chính Quyền Vatican (Bài 4)"
 author: "Minh Thạnh"
 date: 2024-04-10
-source: "https://sachhiem.net/TONGIAO/tgM/MinhThanh34_06.php"
+source: "/TONGIAO/tgM/MinhThanh34_06"
 category: "Chính trị"
 lang: vi
 wordCount: 5035

@@ -3,7 +3,7 @@ layout: ../../../layouts/Article.astro
 title: "Nhật Ký Biển Đông: Ba Tư “Anh Chưa Chết Đâu Em”"
 author: "Đào Văn Bình"
 date: 2018-07-16
-source: "https://sachhiem.net/DAOVB/CT/DaovBinh114.php"
+source: "/DAOVB/CT/DaovBinh114"
 category: "Chính trị"
 lang: vi
 wordCount: 6600

@@ -37,7 +37,7 @@ image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nhacu.jpg"
 	<tbody><tr><td bgcolor="White" align="justify" valign="top">
 
 <table border="0" cellpadding="10" width="100%" cols="3"><tbody><tr>
-<td><a href="https://sachhiem.net/"><img border="0" src="https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nhacu.jpg" width="49" height="20"></a></td>
+<td><a href="/"><img border="0" src="https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nhacu.jpg" width="49" height="20"></a></td>
 
 	<td valign="top"><a href="/TONGIAO/#" onclick="location.href='https://sachhiem.net/BIA/sendafriend.php?url='+location.href;"><img src="https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/TONGIAO/file:///C:/SACHHIEM/images/mail.gif" border="0"> 
 Gửi bài này cho bạn bè</a></td>
@@ -51,7 +51,7 @@ nến cầu nguyện và mang kìm búa đến phá trụ sở của vài cơ qu
 vực tòa Khâm sứ cũ, Vatican đã chính thức lên tiếng qua bức thư của Hồng Y 
 Tarcisio Bertone gửi ông Ngô Quang Kiệt vào ngày 30/1/2008 vừa qua 
 <span class="Date"> 
-<a href="https://www.sachhiem.net/TONGIAO/Vatican.php">(https://www.sachhiem.net/TONGIAO/Vatican.php)</a></span>.</p>
+<a href="/TONGIAO/Vatican">(https://www.sachhiem.net/TONGIAO/Vatican.php)</a></span>.</p>
 
 <p>Trong văn thư nầy, Hồng Y Bertone tỏ ý lo ngại là
 <i>“nếu 

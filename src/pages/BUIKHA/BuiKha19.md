@@ -3,7 +3,7 @@ layout: ../../layouts/Article.astro
 title: "Trương Vĩnh Ký Yêu Nước ?"
 author: "Bùi Kha"
 date: 2012-01-13
-source: "https://sachhiem.net/BUIKHA/BuiKha19.php"
+source: "/BUIKHA/BuiKha19"
 category: "Lịch sử"
 lang: vi
 wordCount: 6725
@@ -617,16 +617,16 @@ image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/LICHSU/IMG/PETRUSKY/
  <p>___________________</p>
    <p><b>Những bài cùng đề tài:</b></p>
    <p>- Hành Trình Đi Tìm Ông Trương Vĩnh Ký Nguyễn Thái An)<br>
-<a href="https://sachhiem.net/LICHSU/N/NguyenThaiAn.php">https://sachhiem.net/LICHSU/N/NguyenThaiAn.php</a></p>
+<a href="/LICHSU/N/NguyenThaiAn">https://sachhiem.net/LICHSU/N/NguyenThaiAn.php</a></p>
    <p>- Đắc Lộ, Trương Vĩnh Ký &amp; Chữ Quốc Ngữ của Tác Giả Minh Vân (Bùi Kha)
-<a href="https://sachhiem.net/BUIKHA/BuiKha25a.php">https://sachhiem.net/BUIKHA/BuiKha25a.php</a></p>
+<a href="/BUIKHA/BuiKha25a">https://sachhiem.net/BUIKHA/BuiKha25a.php</a></p>
    <p>- Ngắn Gọn Về Thầy Thông Ngôn Trương Vĩnh Ký (Nguyễn Thái An)
-<a href="https://sachhiem.net/LICHSU/N/NguyenThaiAn04.php">https://sachhiem.net/LICHSU/N/NguyenThaiAn04.php</a></p>
+<a href="/LICHSU/N/NguyenThaiAn04">https://sachhiem.net/LICHSU/N/NguyenThaiAn04.php</a></p>
    <p>- Trương Vĩnh Ký, Yêu Nước? Đối Luận với ông Trần Hữu Tá (Bùi Kha)
-<a href="https://sachhiem.net/BUIKHA/BuiKha19.php">https://sachhiem.net/BUIKHA/BuiKha19.php</a></p>
+<a href="/BUIKHA/BuiKha19">https://sachhiem.net/BUIKHA/BuiKha19.php</a></p>
    <p>- Lá Thư (1) Gửi Quí Vị Cựu Giáo Sư Và Học Sinh Trường Kiểu Mẫu Thủ Đức Hiền tài hay Việt gian? (Nguyễn Mạnh Quang)
-<a href="https://sachhiem.net/NMQ/NMQ011.php">https://sachhiem.net/NMQ/NMQ011.php</a></p>
+<a href="/NMQ/NMQ011">https://sachhiem.net/NMQ/NMQ011.php</a></p>
    <p>- Đổi Mới Sử Học Không Có Nghĩa Là Tô Đen Thành Trắng (BS. Nguyễn Văn Thịnh)
-<a href="https://sachhiem.net/VANHOC/N/NguyenvThinh_05.php">https://sachhiem.net/VANHOC/N/NguyenvThinh_05.php</a></p>
+<a href="/VANHOC/N/NguyenvThinh_05">https://sachhiem.net/VANHOC/N/NguyenvThinh_05.php</a></p>
 	<p>- <a href="https://tongiaovadantoc.com/c1036/20111215150243321/truong-vinh-ky-phan-boi-to-quoc-sao-lai-goi-la-yeu-nuoc-bui-kha.htm">"Trương Vĩnh Ký phản bội Tổ quốc, sao lại gọi là yêu nước ?"</a>  </p>
 ___________________

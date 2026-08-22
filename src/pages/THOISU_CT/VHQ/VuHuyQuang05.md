@@ -2,18 +2,17 @@
 layout: ../../../layouts/Article.astro
 title: "Văn Nghệ và Quyền Lực"
 author: "Vũ Huy Quang"
-source: "https://sachhiem.net/THOISU_CT/VHQ/VuHuyQuang05.php"
+source: "/THOISU_CT/VHQ/VuHuyQuang05"
 category: "Chính trị"
 lang: vi
 wordCount: 8163
-image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nha.jpg"
+image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/LICHSU/IMG/TRGHOA/TranKimLan.jpg"
 ---
 
 <p class="Tuaduoi">Nhìn lại lịch sử thanh trừng văn nghệ sĩ tại Trung quốc cận đại. </p>
  
 
- <p align="center"><a href="https://www.sachhiem.net/">
-<img border="0" src="https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nha.jpg"></a>12 tháng 8, 2010	</p>
+ <p align="center">12 tháng 8, 2010	</p>
 
 <p><i>(Phỏng vấn lãnh tụ Trotskit Trần Kim-Lan (1904-1987) về “Phong Trào Trăm Hoa” và “Cách Mạng Văn Hoá” tại Trung Quốc)</i></p>
 

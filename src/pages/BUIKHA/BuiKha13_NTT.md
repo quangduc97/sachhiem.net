@@ -3,7 +3,7 @@ layout: ../../layouts/Article.astro
 title: "Ý kiến về bài:"
 author: "GS-NGND Trần Thanh Đạm"
 date: 2010-02-09
-source: "https://sachhiem.net/BUIKHA/BuiKha13_NTT.php"
+source: "/BUIKHA/BuiKha13_NTT"
 category: "Lịch sử"
 lang: vi
 wordCount: 6853

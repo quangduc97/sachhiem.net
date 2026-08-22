@@ -3,7 +3,7 @@ layout: ../../layouts/Article.astro
 title: "Mưu Tính Đưa Nhất Linh Vào Nhà Thương Điên"
 author: "Vũ Cầm"
 date: 2012-03-16
-source: "https://sachhiem.net/DOITHOAI/VuCam.php"
+source: "/DOITHOAI/VuCam"
 category: "Chính trị"
 lang: vi
 wordCount: 3879
@@ -266,5 +266,5 @@ image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/VANHOC/Hinh/VANNHAN/
 <p class="nguonL">https://www.talawas.org/talaDB/showFile.php?res=12686&amp;rb=0102</p>
 
 <p><b>Xem thêm:</b></p>
-<p><a href="https://sachhiem.net/LICHSU/V/VuCam.php">- Mưu Tính Đưa Nhất Linh Vào Nhà Thương Điên </a> (Vũ Cầm)</p>
-<p>- <a href="https://sachhiem.net/DOITHOAI/LyNguyenDieu.php">Những Xuyên Tạc Của Kiều Vĩnh Phúc Và Nguyễn Văn Lục</a> (Lý Nguyên Diệu</p>
+<p><a href="/LICHSU/V/VuCam">- Mưu Tính Đưa Nhất Linh Vào Nhà Thương Điên </a> (Vũ Cầm)</p>
+<p>- <a href="/DOITHOAI/LyNguyenDieu">Những Xuyên Tạc Của Kiều Vĩnh Phúc Và Nguyễn Văn Lục</a> (Lý Nguyên Diệu</p>

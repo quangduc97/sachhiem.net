@@ -3,7 +3,7 @@ layout: ../../../layouts/Article.astro
 title: "Những Kẻ Ăn Xổi Ở Thì"
 author: "Trần Quang Diệu"
 date: 2013-10-15
-source: "https://sachhiem.net/LICHSU/TR/TQD31_Hyhthucvy.php"
+source: "/LICHSU/TR/TQD31_Hyhthucvy"
 category: "Đối thoại"
 lang: vi
 wordCount: 2524
@@ -62,7 +62,7 @@ vui mừng sau giải phóng Hà Nội năm 1954 </i></p>
 của Ông Ngô Đình Diệm (cố TT VNCH) với quân nhân hơn tấm hình này.</i></p>
 <p><a class="TuaDoLeft" name="end3" href="/LICHSU/#3"><b>Không có một ngày học quân sự?</b></a></p>
      <p>Với lý lẽ như thế là hạ  nhục được ông Võ Nguyên Giáp hay sao?  </p>
-     <p class="indent50">(SH: Xin đọc ý kiến của BS DVA - <a href="https://www.sachhiem.net/index.php?content=showemail&amp;id=419">Huỳnh Thục Vi Có Quyền Phát Biểu Ý Kiến Ấu Trĩ- Những Kẻ Nội Thù</a>) </p>
+     <p class="indent50">(SH: Xin đọc ý kiến của BS DVA - <a href="/hop-thu/419">Huỳnh Thục Vi Có Quyền Phát Biểu Ý Kiến Ấu Trĩ- Những Kẻ Nội Thù</a>) </p>
      <p>Ông Ngô Đình Diệm cũng đâu có học quân sự  ngày nào đâu, lại thủ vai "Tổng Tư Lệnh  Quân Đội"?  </p>
      <p><b>Học quân sự như ông Nguyễn Văn Thiệu</b>? Ông Nguyễn Văn Thiệu học  quân sự cái kiểu gì mà khi <b>"bộ đội" của ông Giáp chỉ mới  "đánh thử"</b> (trong mấy quyển như "đại thắng mùa xuân"  của ông Văn Tiến Dũng; "Kết Thúc Cuộc Chiến Tranh 30 Năm" của  Trần Văn Trà người ta nói như thế) Buôn Mê Thuột thì lại hốt hoảng,  vội vã ra lệnh rút bỏ quách vùng Cao Nguyên để cho mang họa? </p>
      <p align="center"><img src="https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/LICHSU/IMG/NHANVAT/NGVTHIEU/NVThieu9.jpg" width="300" height="200"></p>

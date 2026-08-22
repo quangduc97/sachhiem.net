@@ -3,7 +3,7 @@ layout: ../../../layouts/Article.astro
 title: "HÀ NỘI BỂ DÂU"
 author: "BS Nguyễn Văn Thịnh"
 date: 2017-11-11
-source: "https://sachhiem.net/VANHOC/N/NguyenvThinh_HNBDh.php"
+source: "/VANHOC/N/NguyenvThinh_HNBDh"
 category: "Văn hóa"
 lang: vi
 wordCount: 8018
@@ -119,4 +119,4 @@ image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/DECOR/number1
 </center>
 
   
-<p>•  Các bài của Nguyễn Văn Thịnh: link <a href="https://sachhiem.net/VANHOC/N/ListNVTh.inc.php" target="_blank">https://sachhiem.net/VANHOC/N/ListNVTh.inc.php</a></p>
+<p>•  Các bài của Nguyễn Văn Thịnh: link <a href="/VANHOC/N/ListNVTh.inc" target="_blank">https://sachhiem.net/VANHOC/N/ListNVTh.inc.php</a></p>

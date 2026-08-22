@@ -3,7 +3,7 @@ layout: ../../../layouts/Article.astro
 title: "Đấu Tranh và Huyền Thoại"
 author: "Diễn Đàn"
 date: 2017-03-04
-source: "https://sachhiem.net/THOISU_CT/ChuL/LuGiang03.php"
+source: "/THOISU_CT/ChuL/LuGiang03"
 category: "Chính trị"
 lang: vi
 wordCount: 4846

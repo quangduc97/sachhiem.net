@@ -3,7 +3,7 @@ layout: ../../../layouts/Article.astro
 title: "Nhật Ký Biển Đông: Tình Hình Ukraina Đã Thay Đổi"
 author: "Đào Văn Bình"
 date: 2019-05-02
-source: "https://sachhiem.net/DAOVB/CT/DaovBinh132.php"
+source: "/DAOVB/CT/DaovBinh132"
 category: "Chính trị"
 lang: vi
 wordCount: 4612

@@ -3,7 +3,7 @@ layout: ../../../layouts/Article.astro
 title: "Nhân Chứng Vụ Thảm Sát Đài Phát Thanh Huế"
 author: "Nguyễn Thiện Tống"
 date: 2013-05-26
-source: "https://sachhiem.net/TONGIAO/tgN/NgThTong.php"
+source: "/TONGIAO/tgN/NgThTong"
 category: "Tác giả"
 lang: vi
 wordCount: 3089

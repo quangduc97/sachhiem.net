@@ -2,14 +2,14 @@
 layout: ../../layouts/Article.astro
 title: "Letter To Pope John Paul II"
 author: "Nguyễn Mạnh Quang"
-source: "https://sachhiem.net/NMQ/NMQ010a.php"
+source: "/NMQ/NMQ010a"
 category: "Tác giả"
 lang: en
 wordCount: 3408
-image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nha.jpg"
+image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/Next.gif"
 ---
 
-<p align="center"><a href="https://sachhiem.net/index.php"><img hspace="20" border="0" src="https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nha.jpg"></a>  đăng lại ngày 22 tháng 8, 2009 </p>
+<p align="center">  đăng lại ngày 22 tháng 8, 2009 </p>
     <p><img border="0" src="https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/Next.gif"><a href="/NMQ/NMQ010"> Xem bản Việt ngữ</a> </p>
 				<p><strong>Pope  His Holiness</strong> <br>Apostolic Palace <br>00120  Vatican City,  Italy <br>Telephone: 39-6-69-88-50-88 </p>
 <p>Date: September 19, 1999 (*) </p>

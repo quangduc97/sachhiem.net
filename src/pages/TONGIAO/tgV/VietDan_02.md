@@ -3,7 +3,7 @@ layout: ../../../layouts/Article.astro
 title: "Giải Mã Thuyết Ba Ngôi của Thần Học Ki-tô"
 author: "Việt Dân"
 date: 2016-09-28
-source: "https://sachhiem.net/TONGIAO/tgV/VietDan_02.php"
+source: "/TONGIAO/tgV/VietDan_02"
 category: "Tác giả"
 lang: vi
 wordCount: 2221
@@ -217,9 +217,9 @@ wordCount: 2221
    <p class="TacgiaL">     Việt Dân  </p>
 <p>_______________</p>
 <p> <b>Bài liên quan:</b></p>
-<p>- <a href="https://sachhiem.net/TONGIAO/tgM/MikeWilson_03.php">Vấn Đề Việt Hóa Đạo Ki-Tô</a> (Mike Wilson) <a href="/TONGIAO/tgM/MikeWilson_03"> </a></p>
-<p>- <a href="https://sachhiem.net/TONGIAO/tgV/VietDan_00.php">Giê-su Có Là Vua Hay Không? - Tân Ước John 18:33-38</a>: (Việt Dân)</p>
-<p>- <a href="https://sachhiem.net/TONGIAO/tgV/VietDan_01.php">Tại Sao Ngài Giê-su Không Dám Làm Chứng Cho Yahweh Trước Pilate?</a> (Việt Dân) </p>
-<p>- <a href="https://sachhiem.net/TONGIAO/tgV/VietDan_02.php">Giải Mã Thuyết Ba Ngôi của Thần Học Ki-tô </a> (Việt Dân) </p>
-<p>-<a href="https://sachhiem.net/TONGIAO/tgV/VietDan_03.php"> Giê Su Không Bao Giờ Tự Nhận Là "Con Một Của Thiên Chúa"</a> (Việt Dân) </p>
+<p>- <a href="/TONGIAO/tgM/MikeWilson_03">Vấn Đề Việt Hóa Đạo Ki-Tô</a> (Mike Wilson) <a href="/TONGIAO/tgM/MikeWilson_03"> </a></p>
+<p>- <a href="/TONGIAO/tgV/VietDan_00">Giê-su Có Là Vua Hay Không? - Tân Ước John 18:33-38</a>: (Việt Dân)</p>
+<p>- <a href="/TONGIAO/tgV/VietDan_01">Tại Sao Ngài Giê-su Không Dám Làm Chứng Cho Yahweh Trước Pilate?</a> (Việt Dân) </p>
+<p>- <a href="/TONGIAO/tgV/VietDan_02">Giải Mã Thuyết Ba Ngôi của Thần Học Ki-tô </a> (Việt Dân) </p>
+<p>-<a href="/TONGIAO/tgV/VietDan_03"> Giê Su Không Bao Giờ Tự Nhận Là "Con Một Của Thiên Chúa"</a> (Việt Dân) </p>
   <p>-   </p>

@@ -3,7 +3,7 @@ layout: ../../../layouts/Article.astro
 title: "GIÁO HỘI LA MÃ:"
 author: "- Nguyễn Mạnh Quang -"
 date: 2012-01-06
-source: "https://sachhiem.net/NMQ/HOSOTOIAC/CH01b.php"
+source: "/NMQ/HOSOTOIAC/CH01b"
 lang: vi
 wordCount: 7353
 ---
@@ -13,7 +13,7 @@ wordCount: 7353
 
  
  
-     <p><a href="https://sachhiem.net/NMQ/HOSOTOIAC/CH01.php"> 1  </a> <a href="https://sachhiem.net/NMQ/HOSOTOIAC/CH01a.php"> 2 </a> <b><a href="https://sachhiem.net/NMQ/HOSOTOIAC/CH01b.php"> 3 </a></b> </p>
+     <p><a href="/NMQ/HOSOTOIAC/CH01"> 1  </a> <a href="/NMQ/HOSOTOIAC/CH01a"> 2 </a> <b><a href="/NMQ/HOSOTOIAC/CH01b"> 3 </a></b> </p>
        
         <p class="MUC">PHẦN ĐỌC THÊM</p>
 <p><span class="green"> &nbsp; 1  &nbsp; </span></p>

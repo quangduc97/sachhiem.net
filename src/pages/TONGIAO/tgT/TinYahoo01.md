@@ -6,7 +6,7 @@ source: "https://news.yahoo.com/s/ap/20100629/ Mon&nbsp;Jun&nbsp;28, 9:47&nbsp;p
 category: "Tác giả"
 lang: vi
 wordCount: 2585
-image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nha.jpg"
+image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/IMG/TINHDUC/Ls_JeffAnderson.jpg"
 ---
 
 <div align="center" style="position: relative; left: 0; top: 0">
@@ -31,8 +31,7 @@ image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nha.jpg"
 	<tbody><tr><td bgcolor="White" align="justify" valign="top">
 	<div style="padding-left: 50px; padding-right: 50px">
 <table border="0" cellpadding="10" width="85%" cols="2"><tbody><tr>
-<td><a href="/index">
-<img border="0" src="https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nha.jpg"></a></td>
+<td></td>
 
 	<td valign="top" style="text-align:right">	<i>30 tháng 6, 2010	</i>
 	</td></tr></tbody></table>

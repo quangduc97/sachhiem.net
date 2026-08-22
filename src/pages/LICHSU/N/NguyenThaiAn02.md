@@ -3,14 +3,14 @@ layout: ../../../layouts/Article.astro
 title: "Làm Cũng Chửi, Không Làm Cũng Chửi!"
 author: "Nguyễn Thái An"
 date: 2013-10-18
-source: "https://sachhiem.net/LICHSU/N/NguyenThaiAn02.php"
+source: "/LICHSU/N/NguyenThaiAn02"
 category: "Lịch sử"
 lang: vi
 wordCount: 1042
 image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/LICHSU/IMG/HOCHIMINH/Trans_Siberian_Moscou.jpg"
 ---
 
-<p><i>LTS: Tiếp theo bài <a href="https://sachhiem.net/LICHSU/N/NguyenThaiAn01.php">"Từ Thất Sơn Huyền Bí Qua Sihanoukville"</a>, GS Nguyễn Thái An tiện bút viết thêm vài lá thư ngắn cho một số bạn bè cùng khóa ĐHSP. Nhận thấy những lá thư có vài đề tài phản biện ngắn gọn, nhưng không kém phần quan trọng, liên hệ đến lịch sử cận đại, chúng tôi xin phép tác giả để được chia sẻ với bạn đọc. Xin xem lời giới thiệu ngắn về GS Nguyễn Thái An ở bài <a href="https://sachhiem.net/LICHSU/N/NguyenThaiAn.php">"Hành Trình Đi Tìm Ông Trương Vĩnh Ký"</a> (SH)</i></p><hr>
+<p><i>LTS: Tiếp theo bài <a href="/LICHSU/N/NguyenThaiAn01">"Từ Thất Sơn Huyền Bí Qua Sihanoukville"</a>, GS Nguyễn Thái An tiện bút viết thêm vài lá thư ngắn cho một số bạn bè cùng khóa ĐHSP. Nhận thấy những lá thư có vài đề tài phản biện ngắn gọn, nhưng không kém phần quan trọng, liên hệ đến lịch sử cận đại, chúng tôi xin phép tác giả để được chia sẻ với bạn đọc. Xin xem lời giới thiệu ngắn về GS Nguyễn Thái An ở bài <a href="/LICHSU/N/NguyenThaiAn">"Hành Trình Đi Tìm Ông Trương Vĩnh Ký"</a> (SH)</i></p><hr>
 		<p><b>Bài trước có nói đến báo chợ ?</b></p>
 		<p>On Thursday, October 17, 2013 5:53 PM, An Nguyen wrote:</p>
 		<p> Chị ST và <br>
@@ -46,7 +46,7 @@ image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/LICHSU/IMG/HOCHIMINH
   An </p>
 <p>_________________ </p>
  <p><b>Cùng tác giả</b></p>
- <p>(Nếu có lỗi, xin bấm  <a href="https://sachhiem.net/LICHSU/N/NguyenThaiAn02.php">"bản rời"</a> để xem) </p>
+ <p>(Nếu có lỗi, xin bấm  <a href="/LICHSU/N/NguyenThaiAn02">"bản rời"</a> để xem) </p>
 ___________________
-<p>Các bài của GS sử học Nguyễn Thái An: link <a href="https://sachhiem.net/LICHSU/N/ListNTA.inc.php" target="_blank">https://sachhiem.net/LICHSU/N/ListNTA.inc.php</a></p>
+<p>Các bài của GS sử học Nguyễn Thái An: link <a href="/LICHSU/N/ListNTA.inc" target="_blank">https://sachhiem.net/LICHSU/N/ListNTA.inc.php</a></p>
   <hr>

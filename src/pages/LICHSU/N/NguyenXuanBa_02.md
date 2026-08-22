@@ -3,7 +3,7 @@ layout: ../../../layouts/Article.astro
 title: "Đôi Lời Về Cuốn Sách Của Max Hastings, Viết Về Việt Nam"
 author: "Nguyễn Xuân Ba"
 date: 2018-10-14
-source: "https://sachhiem.net/LICHSU/N/NguyenXuanBa_02.php"
+source: "/LICHSU/N/NguyenXuanBa_02"
 category: "Chính trị"
 lang: vi
 wordCount: 5730

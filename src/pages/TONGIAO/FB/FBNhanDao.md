@@ -3,7 +3,7 @@ layout: ../../../layouts/Article.astro
 title: "Đừng Coi Khu Di Tích Lịch Sử Quốc Gia Đền Hùng Giống Như Một Cái Hội Chợ"
 author: "Cộng Đồng mạng"
 date: 2022-11-26
-source: "https://sachhiem.net/TONGIAO/FB/FBNhanDao.php"
+source: "/TONGIAO/FB/FBNhanDao"
 category: "Chính trị"
 lang: vi
 wordCount: 8025

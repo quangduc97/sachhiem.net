@@ -3,7 +3,7 @@ layout: ../../../layouts/Article.astro
 title: "121 Thánh Đường Kitô Tại Bang Manipur Ấn Độ Bị Phá Hủy"
 author: "FB Niềm Vui Tin Mừng"
 date: 2023-05-21
-source: "https://sachhiem.net/TONGIAO/FB/FBNiemVuiTinMung.php"
+source: "/TONGIAO/FB/FBNiemVuiTinMung"
 category: "Tác giả"
 lang: vi
 wordCount: 659

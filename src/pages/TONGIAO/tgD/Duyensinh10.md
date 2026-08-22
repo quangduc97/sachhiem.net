@@ -3,7 +3,7 @@ layout: ../../../layouts/Article.astro
 title: "Buổi Nói Chuyện Trước Công Chúng Tại Nhà Thờ Riverside, New York"
 author: "DuyênSinh dịch"
 date: 2014-11-24
-source: "https://sachhiem.net/TONGIAO/tgD/Duyensinh10.php"
+source: "/TONGIAO/tgD/Duyensinh10"
 category: "Tác giả"
 lang: vi
 wordCount: 5108
@@ -90,7 +90,7 @@ image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/TONGIAO/IMG/CHURCH/R
 <a name="n1" href="/TONGIAO/#one">[1]</a> <i>Người chuyển ngữ đổi chữ “You” ra chữ “I”  trong bản tiếng Anh trong khi chuyển ngữ</i>
 <hr>
 <p><b>Bài đọc thêm:</b></p>
-<p>- <a href="https://sachhiem.net/TCN/TCNdt/TCNdt006a.php">Thiền Sư Thích Nhất Hạnh: Nạn Nhân Đấu Tố Của Vô Minh, Hiếu Chiến &amp; Cuồng Tín </a>(Trần Chung Ngọc)</p>
+<p>- <a href="/TCN/TCNdt/TCNdt006a">Thiền Sư Thích Nhất Hạnh: Nạn Nhân Đấu Tố Của Vô Minh, Hiếu Chiến &amp; Cuồng Tín </a>(Trần Chung Ngọc)</p>
 <p>- <a href="https://www.buddhismtoday.com/viet/pgtg/sukien/ve_baiphap_cua_HTNhatHanh.htm">Vài Ý Kiến Về Bài Thuyết Pháp Công Cộng Của Thiền Sư Nhất Hạnh Tại Nhà Thờ Riverside, NY</a> (Bùi Kha)</p>
 <p>- <a href="https://giaodiemonline.com/thuvien/doithoai/nhanh-tcnbis.htm">Vạch Trần Âm Mưu Đánh Phá Phật Giáo Ở Nam Cali </a>(Trần Chung Ngọc) </p>
 <p align="center"> ____________________ </p>

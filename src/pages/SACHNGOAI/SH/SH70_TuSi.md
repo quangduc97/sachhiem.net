@@ -3,7 +3,7 @@ layout: ../../../layouts/Article.astro
 title: "Các tu viện đang phát triển mạnh mẽ và đang thiếu các phòng ở."
 author: "Jim Graves/ Catholicheral.co.uk"
 date: 2024-08-14
-source: "https://sachhiem.net/SACHNGOAI/SH/SH70_TuSi.php"
+source: "/SACHNGOAI/SH/SH70_TuSi"
 category: "Sách ngoại văn"
 lang: vi
 wordCount: 1042

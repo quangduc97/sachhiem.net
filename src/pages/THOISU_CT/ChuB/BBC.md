@@ -2,15 +2,15 @@
 layout: ../../../layouts/Article.astro
 title: "Ứng viên người Mỹ gốc Việt không thành công"
 author: "BBC"
-source: "https://sachhiem.net/THOISU_CT/ChuB/BBC.php"
+source: "/THOISU_CT/ChuB/BBC"
 category: "Chính trị"
 lang: vi
 wordCount: 747
-image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nha.jpg"
+image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/Hinh/CDng/CaoQuangAnh.jpg"
 ---
 
 <table border="0" cellpadding="1" align="center" width="250">
-        <tbody><tr><td width="100"><a href="/index"><img border="0" src="https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nha.jpg"></a></td>
+        <tbody><tr><td width="100"></td>
 		<td valign="top">23 tháng 11, 2010		</td>
         </tr></tbody></table>
 		<p class="center">

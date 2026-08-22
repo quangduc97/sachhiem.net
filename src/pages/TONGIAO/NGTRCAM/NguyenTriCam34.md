@@ -3,7 +3,7 @@ layout: ../../../layouts/Article.astro
 title: "Có Chút Sự Thật Nào Trong Kinh Thánh Không?"
 author: "John Draper / Nguyễn Trí Cảm dịch"
 date: 2013-12-26
-source: "https://sachhiem.net/TONGIAO/NGTRCAM/NguyenTriCam34.php"
+source: "/TONGIAO/NGTRCAM/NguyenTriCam34"
 category: "Tác giả"
 lang: vi
 wordCount: 2763

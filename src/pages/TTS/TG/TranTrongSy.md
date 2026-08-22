@@ -3,7 +3,7 @@ layout: ../../../layouts/Article.astro
 title: "Công Giáo VN và Thượng Đế Theo Thánh Kinh"
 author: "Trần Trọng Sỹ"
 date: 2014-06-23
-source: "https://sachhiem.net/TTS/TG/TranTrongSy.php"
+source: "/TTS/TG/TranTrongSy"
 category: "Tác giả"
 lang: vi
 wordCount: 6148
@@ -127,4 +127,4 @@ Phải đặc biệt nhấn mạnh  rằng&nbsp;Francisco Varela đã nhìn đ�
 <p><a href="/TTS/TG/TranTrongSy_a">(sẽ đăng tiếp phần 2)</a></p>
   <p class="nguonL">Nguồn: tác giả gửi</p>
 ___________________
-<p>Các bài của Trần Trọng Sỹ: link <a href="https://sachhiem.net/TTS/ListTTS.inc.php" target="_blank">https://sachhiem.net/TTS/ListTTS.inc.php</a></p>
+<p>Các bài của Trần Trọng Sỹ: link <a href="/TTS/ListTTS.inc" target="_blank">https://sachhiem.net/TTS/ListTTS.inc.php</a></p>

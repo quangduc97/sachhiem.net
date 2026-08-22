@@ -3,7 +3,7 @@ layout: ../../../layouts/Article.astro
 title: "5 Lý Do Không Trang Hoàng Noel Trong Các Trường Công"
 author: "Báo Giáo Viên (Mỹ)"
 date: 2024-11-08
-source: "https://sachhiem.net/TONGIAO/tgS/SH99_NOEL.php"
+source: "/TONGIAO/tgS/SH99_NOEL"
 category: "Chính trị"
 lang: vi
 wordCount: 1324
@@ -45,4 +45,4 @@ image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/sqdot.gif"
 <p align="center"><img src="https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/TONGIAO/IMG/NOEL/ThiepchucNewYear.jpg" width="400" height="400" alt=""></p>
 <p>_____________________</p>
 <p> <b>Bài đọc thêm:</b></p>
-<p>- <a href="https://sachhiem.net/TONGIAO/tgS/SH99_NOEL1.php">Nan Giải: Hướng Dẫn Cho Học Sinh Trường Công Về Kỳ Nghỉ Lễ Tháng 12</a></p>
+<p>- <a href="/TONGIAO/tgS/SH99_NOEL1">Nan Giải: Hướng Dẫn Cho Học Sinh Trường Công Về Kỳ Nghỉ Lễ Tháng 12</a></p>

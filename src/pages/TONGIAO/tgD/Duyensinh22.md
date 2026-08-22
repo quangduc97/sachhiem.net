@@ -3,7 +3,7 @@ layout: ../../../layouts/Article.astro
 title: "Cờ Vàng Ba Sọc Đỏ Trong Thập Tự Chinh Ở Cổ Thành Foix Của Pháp"
 author: "Duyên Sinh"
 date: 2018-10-22
-source: "https://sachhiem.net/TONGIAO/tgD/Duyensinh22.php"
+source: "/TONGIAO/tgD/Duyensinh22"
 lang: vi
 wordCount: 1138
 image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/LICHSU/IMG/FLAG/Foix_France.JPG"

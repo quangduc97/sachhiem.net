@@ -3,7 +3,7 @@ layout: ../../../layouts/Article.astro
 title: "Chúc Xuân Bính Thân Với Bạn Đọc"
 author: "trang nhà SH"
 date: 2016-02-09
-source: "https://sachhiem.net/XAHOI/CHUCTET/BinhThan2016.php"
+source: "/XAHOI/CHUCTET/BinhThan2016"
 category: "Xã hội"
 lang: vi
 wordCount: 427

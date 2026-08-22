@@ -3,7 +3,7 @@ layout: ../../../layouts/Article.astro
 title: "Đến Lúc Đảng Cộng Sản Việt Nam Cần Phải Chấn Chỉnh Phép Nước"
 author: "Người Quan Sát"
 date: 2016-10-07
-source: "https://sachhiem.net/THLOI/CT/Ngoiquansat.php"
+source: "/THLOI/CT/Ngoiquansat"
 category: "Chính trị"
 lang: vi
 wordCount: 1879

@@ -3,7 +3,7 @@ layout: ../../../layouts/Article.astro
 title: "Điều CSVN Không Nói: Philippines đã xâm chiếm các đảo của VN như thế nào?"
 author: "Phú Thịnh sưu tầm"
 date: 2016-06-29
-source: "https://sachhiem.net/THOISU_CT/ChuP/PhuThinh.php"
+source: "/THOISU_CT/ChuP/PhuThinh"
 category: "Chính trị"
 lang: vi
 wordCount: 726
@@ -22,7 +22,7 @@ image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.devhttps://i603.photobuc
   <p>Chính  vì thế, nếu như cuộc chuyển giao này suôn sẻ, thì năm 1975 quân ta không hề còn  bất cứ mẩu đất nào ngoài hai quần đảo. </p>
   <p>Trung  Quốc ngồi im nhìn Mỹ ăn hết cả hai quần đảo? Vì thế, mới diễn ra <i>"hải  chiến Hoàng Sa"</i>, Trung Quốc chiếm nốt các đảo nửa Tây Hoàng Sa. </p>
   <p align="center"><img src="https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/LICHSU/IMG/TRANDANH/HaidotranchienHS_LVT.jpg" width="400" height="317" alt=""></p>
-  <p>Thực chất  đây là một vở kịch, vì TQ chỉ có vài MiG-17 bắn bằng súng - ngắm mắt thường,  không thể đối đầu với số lượng đông đảo các F-5 bắn đạn tự hành qua radar. Tầu  của ngụy to, trên tầu có radar lớn... Nhưng Hà Văn Ngạc, chỉ huy trận đánh bên  ngụy, dã dùng các tầu HQ-4 và HQ-5 đi sau, bắn vào các tầu HQ-10 và HQ-16, cũng  của ngụy. HQ-10 và HQ-16 đi cánh khác và vào trước, đang xung trận, đắm HQ-10,  và HQ-16 bị thương phải kết ra khỏi trận.<a href="https://sachhiem.net/LICHSU/H/HaichienHS_bimat.php"> (xem Bí Mật Về "Hải Chiến Hoàng Sa 1974" và Những Điều Chưa Biết)</a></p>
+  <p>Thực chất  đây là một vở kịch, vì TQ chỉ có vài MiG-17 bắn bằng súng - ngắm mắt thường,  không thể đối đầu với số lượng đông đảo các F-5 bắn đạn tự hành qua radar. Tầu  của ngụy to, trên tầu có radar lớn... Nhưng Hà Văn Ngạc, chỉ huy trận đánh bên  ngụy, dã dùng các tầu HQ-4 và HQ-5 đi sau, bắn vào các tầu HQ-10 và HQ-16, cũng  của ngụy. HQ-10 và HQ-16 đi cánh khác và vào trước, đang xung trận, đắm HQ-10,  và HQ-16 bị thương phải kết ra khỏi trận.<a href="/LICHSU/H/HaichienHS_bimat"> (xem Bí Mật Về "Hải Chiến Hoàng Sa 1974" và Những Điều Chưa Biết)</a></p>
   <p>Sau  đó, vở kịch bàn giao đảo vỡ lở. Mỹ ngụy phải tổ chức "chiếm lại" vài  đảo để <i>"lập tuyến chặn Trung Quốc"</i>, để đeo mo vào mặt, và tạo mầm  chiến tranh sau này. Các đảo đó sau này Việt Nam hưởng. </p>
   <p>Như  thế, nếu không có cái gọi là "<i>hải chiến Hoàng Sa</i>" đầu năm 1974, thì  đến nay Việt Nam không còn bất cứ mẩu đảo nào. </p>
   <p><b>Nay  cũng vậy. </b>Philippines + Malaysia + Brunei ngang nhiên xây dựng các sân bay bến  cảng lớn, khu kinh tế lớn. Đài Loan tuyên bố đòi cả quần đảo. Ví dụ bằng ảnh  đây. </p>

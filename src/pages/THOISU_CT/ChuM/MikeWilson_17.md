@@ -3,7 +3,7 @@ layout: ../../../layouts/Article.astro
 title: "Trump Giành Công Trạng Không Phải Của Mình"
 author: "Mike Wilson"
 date: 2017-03-02
-source: "https://sachhiem.net/THOISU_CT/ChuM/MikeWilson_17.php"
+source: "/THOISU_CT/ChuM/MikeWilson_17"
 category: "Chính trị"
 lang: vi
 wordCount: 1930

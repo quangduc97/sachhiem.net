@@ -3,7 +3,7 @@ layout: ../../../layouts/Article.astro
 title: "Giáo Hoàng Từ Chức Vì Vụ Vatileak?"
 author: "BBC - thứ sáu, 22 tháng 2, 2013"
 date: 2013-02-22
-source: "https://sachhiem.net/TONGIAO/tgT/TinBBC3.php"
+source: "/TONGIAO/tgT/TinBBC3"
 category: "Tác giả"
 lang: vi
 wordCount: 638

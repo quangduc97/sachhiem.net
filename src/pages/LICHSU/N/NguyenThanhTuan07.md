@@ -3,7 +3,7 @@ layout: ../../../layouts/Article.astro
 title: "Ít Ai Nói Về Việc Nguyễn Ánh Đã Nhờ Giám mục Bá Đa Lộc!"
 author: "Nguyễn Thanh Tuấn"
 date: 2025-10-18
-source: "https://sachhiem.net/LICHSU/N/NguyenThanhTuan07.php"
+source: "/LICHSU/N/NguyenThanhTuan07"
 category: "Xã hội"
 lang: vi
 wordCount: 2492

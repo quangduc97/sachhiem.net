@@ -2,17 +2,17 @@
 layout: ../../../layouts/Article.astro
 title: "Nhưng ĐAVÍT (DAVID) Là Ai?"
 author: "Trần Chung Ngọc"
-source: "https://sachhiem.net/TCN/TCNts/TCNts22.php"
+source: "/TCN/TCNts/TCNts22"
 lang: vi
 wordCount: 8413
-image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nha.jpg"
+image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/THOISU_CT/Hinh/DinhXuanMinh.jpg"
 ---
 
 <p class="Tuaduoi">(<a href="https://www.tiengnoigiaodan.net/lcht/lcht_027.html">Nhân Đọc Bài&nbsp;“Chống Cộng Theo Gương Đaví</a>t“</p>
 		<p class="Tuaduoi">Của Linh Mục Đinh Xuân Minh)</p>
 
   
- <p align="center"><a href="/index"><img hspace="20" border="0" src="https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nha.jpg"></a>ngày 07 tháng 8, 2008</p>
+ <p align="center">ngày 07 tháng 8, 2008</p>
 <p> Tôi không hiểu sao 
 lại lọt vào cái E-mail account của tôi từ một địa chỉ tôi chưa từng quen biết 
 một message như sau, không biết có phải của Linh mục Đinh Xuân Minh hay không:</p>

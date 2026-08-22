@@ -3,7 +3,7 @@ layout: ../../../layouts/Article.astro
 title: "Tiếp Tục về Dân Chủ Và Nền Dân Chủ Xã Hội Chủ Nghĩa"
 author: "Lê Quang Trung"
 date: 2014-03-18
-source: "https://sachhiem.net/THOISU_CT/ChuL/LeQuangTrung_02.php"
+source: "/THOISU_CT/ChuL/LeQuangTrung_02"
 category: "Tác giả"
 lang: vi
 wordCount: 6878
@@ -15,9 +15,9 @@ wordCount: 6878
 	 
 
 <div class="danbai">
- <p><a href="https://sachhiem.net/THOISU_CT/ChuL/LeQuangTrung.php" target="_blank">Kỳ 1:&nbsp;Sự thật đằng sau cuộc chiến Libya</a></p>
- <p><a href="https://sachhiem.net/THOISU_CT/ChuL/LeQuangTrung_01.php" target="_blank">Kỳ 2:&nbsp;Dân chủ và nền dân chủ xã hội chủ nghĩa</a></p>
- <p> <a href="https://sachhiem.net/THOISU_CT/ChuL/LeQuangTrung_02.php"> Kỳ 3: Tiếp tục về Dân chủ và nền dân chủ xã hội chủ nghĩa</a></p>
+ <p><a href="/THOISU_CT/ChuL/LeQuangTrung" target="_blank">Kỳ 1:&nbsp;Sự thật đằng sau cuộc chiến Libya</a></p>
+ <p><a href="/THOISU_CT/ChuL/LeQuangTrung_01" target="_blank">Kỳ 2:&nbsp;Dân chủ và nền dân chủ xã hội chủ nghĩa</a></p>
+ <p> <a href="/THOISU_CT/ChuL/LeQuangTrung_02"> Kỳ 3: Tiếp tục về Dân chủ và nền dân chủ xã hội chủ nghĩa</a></p>
 </div>
  <p><span class="First">B</span>ây giờ sẽ  đi phân tích về vấn đề dân quyền, như ở trên tôi đã nói, nếu không có Độc lập  thì bạn hoàn toàn không có dân chủ. Mơ về một ước mơ viển vông khi nước ngoài  đem lại dân chủ cho chúng ta là hoàn toàn không có cơ sở. Ngày hôm nay khi xem  lại bản tin thời sự, thấy cám cảnh cho quốc gia Lybia khi hàng nghìn người tụ  tập ở thủ đô Tripoli đòi NTC giải giáp vũ khí và thực thi dân chủ. Đây có phải  cái dân chủ mà nhiều bạn hay nói đến không, một lần nữa thực tế lại cho ta thấy  không có độc lập dân tộc thì hoàn toàn không có dân chủ. Tuy nhiên bây giờ ta  sẽ bước sang một vấn đề mới đó là dân quyền hay cũng là tự do.</p>
 <p><b>1 - Tự Do là cái gì, ai ở đây có thể tự nhận  mình là người hiểu rõ tự do nhất? </b></p>

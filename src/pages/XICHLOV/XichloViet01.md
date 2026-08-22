@@ -6,12 +6,11 @@ source: "https://xichloviet.wordpress.com/2011/12/16/khi-k%E1%BA%BB-no-l%E1%BB%8
 category: "Đối thoại"
 lang: vi
 wordCount: 3891
-image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nha.jpg"
+image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/LICHSU/IMG/SuVN/VuaHamNghi.jpg"
 ---
 
 <table border="0" align="center" cellpadding="1" width="250"><tbody><tr>
-	<td width="234"><a href="https://www.sachhiem.net/">
-	<img border="0" src="https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nha.jpg"></a></td>
+	<td width="234"></td>
 <td valign="top" width="356">
 	</td></tr></tbody></table>
 

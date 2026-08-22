@@ -3,7 +3,7 @@ layout: ../../../layouts/Article.astro
 title: "Nhóm Vô Thần Buộc Người Mẹ ở Bang California Gỡ Bỏ Cây Thánh Giá Tôn Vinh Đứa Con Trai Đã Chết !"
 author: "23 ABC News/ An Thanh Đặng"
 date: 2023-07-08
-source: "https://sachhiem.net/TONGIAO/FB/FBAnThanhDang01.php"
+source: "/TONGIAO/FB/FBAnThanhDang01"
 category: "Chính trị"
 lang: vi
 wordCount: 438

@@ -3,7 +3,7 @@ layout: ../../layouts/Article.astro
 title: "Khí Phách Việt"
 author: "Tuệ Minh"
 date: 2015-09-17
-source: "https://sachhiem.net/VANHOC/TueMinh02.php"
+source: "/VANHOC/TueMinh02"
 category: "Văn hóa"
 lang: vi
 wordCount: 155
@@ -33,6 +33,6 @@ image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/CANHDEP/Dongq
 
 <p>_________________</p>
 <p><b>Những bài khác của Tuệ Minh:</b></p>
-<p>- <a href="https://sachhiem.net/VANHOC/TueMinh00.php">Cảm tác BODH GAYA (Bồ Đề Đạo Tràng) </a></p>
-<p>- <a href="https://sachhiem.net/VANHOC/TueMinh01.php">Uống Trà </a></p>
-<p>- <a href="https://sachhiem.net/VANHOC/TueMinh02.php">Khí Phách Việt</a> </p>
+<p>- <a href="/VANHOC/TueMinh00">Cảm tác BODH GAYA (Bồ Đề Đạo Tràng) </a></p>
+<p>- <a href="/VANHOC/TueMinh01">Uống Trà </a></p>
+<p>- <a href="/VANHOC/TueMinh02">Khí Phách Việt</a> </p>

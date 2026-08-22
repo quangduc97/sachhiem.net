@@ -1,7 +1,7 @@
 ---
 layout: ../../layouts/Article.astro
 title: "Tủ Sách của Tác Giả Charlie Nguyễn"
-source: "https://sachhiem.net/nguồn https://home.earthlink.net/~charlienguyen/index.htm"
+source: "/nguồn https://home.earthlink.net/~charlienguyen/index.htm"
 category: "Tác giả"
 lang: vi
 wordCount: 196
@@ -32,7 +32,7 @@ image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/CHARLIE/IMG/BVCsmall
 		<p>  <i>Trước khi qua đời, anh Charlie Nguyễn, tức cố thẩm phán Bùi văn Chấn (thời VNCH) đã làm một di chúc văn hóa cho nhóm Từ Thiện Giao Điểm với mục đích phổ biến những quyển sách của ông để công trình biên soạn từng ngày của ông khỏi bị thay đổi hay mai một vì những lý do không hay. Cũng trong mục đích đó, và một cách vô vị lợi, sachhiem.net đã chép lại các 
 		<a href="/CHARLIE/CNdir">bài viết đăng trên web điện tử của Charlie Nguyễn</a> để cống hiến đọc giả từ hai năm nay.  Nhận thấy nhu cầu tham khảo các tài liệu trong các sách của Charlie Nguyễn mỗi ngày một nhiều, sachhiem.net đã thay đổi lại cách trình bày để đọc giả dễ tìm các đề tài thích hợp. </i> </p>
 		
-<p><a href="https://sachhiem.net/MEDIA/PDF/LISTPDF.php">◄ ◄  Download E book và PDF ► ►</a></p>
+<p><a href="/MEDIA/PDF/LISTPDF">◄ ◄  Download E book và PDF ► ►</a></p>
 <hr>
 		<li><a href="/CHARLIE/CNdir">&nbsp;Tác Giả và Các Tác Phẩm</a></li>
 		<li><a href="/CHARLIE/CN_CGHT/CN_CGHTdir">Công Giáo - Huyền Thoại Và Tội Ác</a></li>

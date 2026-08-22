@@ -3,7 +3,7 @@ layout: ../../../layouts/Article.astro
 title: "Từ Formosa Hà Tĩnh nhìn lại vụ tràn dầu BP ở Mỹ"
 author: "Hà Tường Cát/ Người Việt"
 date: 2016-07-02
-source: "https://sachhiem.net/THOISU_CT/ChuT/TinNgViet03.php"
+source: "/THOISU_CT/ChuT/TinNgViet03"
 category: "Chính trị"
 lang: vi
 wordCount: 1751

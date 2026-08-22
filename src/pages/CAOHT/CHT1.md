@@ -2,14 +2,13 @@
 layout: ../../layouts/Article.astro
 title: "Ý NGHĨA LỄ PHẬT ĐẢN 2008"
 author: "Cao Huy Thuần"
-source: "https://sachhiem.net/CAOHT/CHT1.php"
+source: "/CAOHT/CHT1"
 category: "Tác giả"
 lang: vi
 wordCount: 5670
-image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nha.jpg"
 ---
 
-<p align="center"><a href="/CAOHT/index"><img hspace="20" border="0" src="https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nha.jpg"></a>  21 tháng 5, 2008 </p>
+<p align="center">  21 tháng 5, 2008 </p>
 	<p><span class="First">T</span>ừ hơn bốn chục năm nay, chưa bao giờ chúng ta tổ chức 
 	một lễ Phật Đản lớn như lần này. Lớn về cả mọi mặt: về tôn giáo, về văn hóa, 
 	về xã hội, và, xin nói thẳng, về cả chính trị. Tại sao tôi dám nói: về cả 

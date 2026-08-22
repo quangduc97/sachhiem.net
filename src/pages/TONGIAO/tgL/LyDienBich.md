@@ -3,7 +3,7 @@ layout: ../../../layouts/Article.astro
 title: "Nhà Thờ Đức Bà Sài Gòn - Một Di Sản Xúc Phạm Phật Giáo"
 author: "Lý Diện Bích"
 date: 2023-10-16
-source: "https://sachhiem.net/TONGIAO/tgL/LyDienBich.php"
+source: "/TONGIAO/tgL/LyDienBich"
 category: "Chính trị"
 lang: vi
 wordCount: 1234

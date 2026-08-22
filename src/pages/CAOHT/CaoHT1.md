@@ -2,7 +2,7 @@
 layout: ../../layouts/Article.astro
 title: "Ý NGHĨA LỄ PHẬT ĐẢN 2008"
 author: "Cao Huy Thuần"
-source: "https://sachhiem.net/CAOHT/CaoHT1.php"
+source: "/CAOHT/CaoHT1"
 category: "Tác giả"
 lang: vi
 wordCount: 5670

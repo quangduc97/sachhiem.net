@@ -2,15 +2,15 @@
 layout: ../../../layouts/Article.astro
 title: "Di Hại Của “Nền Đạo Lý Thiên-La Đắc-Lộ”"
 author: "Trần Chung Ngọc"
-source: "https://sachhiem.net/TCN/TCNls/TCNls09.php"
+source: "/TCN/TCNls/TCNls09"
 lang: vi
 wordCount: 10612
-image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nha.jpg"
+image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/LICHSU/IMG/ALEX/Alexandre.jpg"
 ---
 
 <table border="0" align="center" width="250">
  <tbody><tr>
- <td width="100"><a href="https://sachhiem.net/index.php"><img border="0" src="https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nha.jpg"></a></td>
+ <td width="100"></td>
 	<td valign="top" style="text-align:right"> ngày 02 tháng 7, 2008 </td></tr></tbody></table>
  
   	<blockquote>
@@ -913,13 +913,13 @@ image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nha.jpg"
 		
 		
 		<p>Kính mời đọc thêm bài :</p>
-		<p><a href="https://www.sachhiem.net/CN_TTDTG/Alexandre.php">Alexandre de Rhôdes và Chữ Quốc Ngữ</a> của tác giả Charlie Nguyễn</p>
+		<p><a href="/CN_TTDTG/Alexandre">Alexandre de Rhôdes và Chữ Quốc Ngữ</a> của tác giả Charlie Nguyễn</p>
 		
 		
 	
 
 
-		<a href="https://www.sachhiem.net/CN_TTDTG/Alexandre.php">
+		<a href="/CN_TTDTG/Alexandre">
 		
 		
 	

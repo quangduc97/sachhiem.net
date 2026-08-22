@@ -3,7 +3,7 @@ layout: ../../../layouts/Article.astro
 title: "FORMOSA CHỈ LÀ CÁI CỚ."
 author: "Trần Ánh Sáng"
 date: 2016-10-02
-source: "https://sachhiem.net/TONGIAO/tgTR/TranAnhSang_02.php"
+source: "/TONGIAO/tgTR/TranAnhSang_02"
 category: "Chính trị"
 lang: vi
 wordCount: 1492
@@ -30,7 +30,7 @@ image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/SACH/Thapgiav
   <p class="TacgiaL">Trần Ánh Sáng</p>
   <p>______________</p>
   <p><b>Mời đọc thêm:</b></p>
-  <p>- <a href="https://sachhiem.net/NMQ/NMQ67.php">Cấp Thời Trong Tình Thế Của Đất Nước - VN Ta Đã Quá Nhân Từ Đối Với Bọn Tội Đồ Của Dân Tộc</a> (Nguyễn Mạnh Quang)</p>
+  <p>- <a href="/NMQ/NMQ67">Cấp Thời Trong Tình Thế Của Đất Nước - VN Ta Đã Quá Nhân Từ Đối Với Bọn Tội Đồ Của Dân Tộc</a> (Nguyễn Mạnh Quang)</p>
   <p>- Hãy xem cách Mỹ trị an:</p>
   <p align="center"> <img border="0" width="350" height="310" src="https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/THOISU_CT/Hinh/HOAKY/Occupy_wall_street1.jpg" alt="trị an"> </p>
 <p align="center"> <i>Một cảnh trị an trong  vụ Occupy Wall Street</i></p>

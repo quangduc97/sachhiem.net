@@ -2,7 +2,7 @@
 layout: ../../../layouts/Article.astro
 title: "Nghĩ gì về phát biểu \"toàn văn\""
 author: "Minh Luân"
-source: "https://sachhiem.net/null"
+source: "/null"
 category: "Xã hội"
 lang: vi
 wordCount: 1628
@@ -36,7 +36,7 @@ image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nhacu.jpg"
 <table border="0" cellpadding="10" cellspacing="0" width="100%" topmargin="10"> 
 	<tbody><tr><td bgcolor="White" align="justify" valign="top">
 		<table border="0" cellpadding="10" width="100%" cols="2"><tbody><tr>
-				<td valign="top" width="141"><a href="https://sachhiem.net/"><img border="0" src="https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nhacu.jpg" width="49" height="20"></a></td>
+				<td valign="top" width="141"><a href="/"><img border="0" src="https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nhacu.jpg" width="49" height="20"></a></td>
 	<td valign="top" style="font-size: 10pt">	25 tháng 9, 2008
 	</td></tr></tbody></table>
 			<div style="padding-left: 20px; padding-right: 20px">

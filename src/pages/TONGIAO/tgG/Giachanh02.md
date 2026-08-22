@@ -3,7 +3,7 @@ layout: ../../../layouts/Article.astro
 title: "Hiểm Họa Không Hề Dứt - Bất Kể Thời Nào Công Giáo Cầm Quyền"
 author: "Giác Hạnh"
 date: 2018-02-08
-source: "https://sachhiem.net/TONGIAO/tgG/Giachanh02.php"
+source: "/TONGIAO/tgG/Giachanh02"
 category: "Chính trị"
 lang: vi
 wordCount: 2125
@@ -65,10 +65,10 @@ Subject: Re: Những Án Tử Hình Trong Kinh Thánh</p>
   thì tôi nghĩ thế này:</p>
 <p>Nay chúng ta đã từng biết rằng thậm chí một  cựu Chủng sinh "Công giáo" đạo nòi đạo gốc, và là một Sĩ quan Thẩm  phán Tòa án Quân sự VNCH, đã từng bị tù "Cải tạo" 10 năm trước khi HO  đến Hoa Kỳ, nhưng ông ấy, Charlie Nguyễn Bùi Văn Chấn cũng đã từng dùng sở  trường viết Cáo trạng đề nghị:</p>
 <p><b>- Việt Nam Cần Thưc  Hiện Những Biện Pháp Mạnh Để Đối Phó Với Quốc Nạn Công Giáo – Tin Lành:</b> <br>
-  <a href="https://sachhiem.net/CHARLIE/CN_TCCG/VNcanthuchien.php">https://sachhiem.net/CHARLIE/CN_TCCG/VNcanthuchien.php</a><br>
+  <a href="/CHARLIE/CN_TCCG/VNcanthuchien">https://sachhiem.net/CHARLIE/CN_TCCG/VNcanthuchien.php</a><br>
   (Charlie Nguyễn)</p>
 <p><b>- Còn Tin Lành, theo  thói như với cái gọi là “Tuyên Ngôn Thuộc Linh”:</b> <br>
-  <a href="https://sachhiem.net/LICHSU/TR/TQD24a_TNTL.php">https://sachhiem.net/LICHSU/TR/TQD24a_TNTL.php</a>?.<br>
+  <a href="/LICHSU/TR/TQD24a_TNTL">https://sachhiem.net/LICHSU/TR/TQD24a_TNTL.php</a>?.<br>
   đã ngang nhiên ăn cướp nước Việt cho Chúa  trong lời Tuyên Ngôn của họ:&nbsp;<i>"Dân tộc Việt Nam chắc chắn thuộc về Đức Chúa Trời. Mọi  xiềng xích tội lỗi và rủa sả của các thế hệ trước đã ..."</i></p>
 <p>Trong lúc đó, "đức thánh cha" lẫn  mấy ông “sứ thần” của nước Vatican thì O BẾ chính quyền CS như thế này:</p>
 <p><b>- Tòa Giám mục Hải  Phòng thăm chúc Tết tỉnh Quảng Ninh</b> <br>
@@ -84,6 +84,6 @@ Subject: Re: Những Án Tử Hình Trong Kinh Thánh</p>
 <p>Lịch sử sẽ phải ghi đậm nét  về công sức và con tim, khối óc của các tác giả được đăng ở hai trang điện tử  <a href="/TONGIAO/giaodiemonline.com">Giao Điểm</a>..., <a href="/TONGIAO/sachhiem.net">Sách Hiếm</a>..., trên hai thập niên qua, về sứ mệnh "giải hoặc  Cato" mà xem ra công sức ấy đã được đáp nghĩa xứng đáng từ hàng triệu lượt  độc giả truy cập, nhất là đồng bào quốc nội.&nbsp; </p>
 <p>Và đấy là lý do tại sao  những kẻ suốt kiếp cúi đầu quy lụy, vâng phục "làm theo đức vâng lời"  ngoại bang thường hay giở thói côn đồ chửi rủa lỗ mãng (vì bởi do "trúng  tử huyệt"...?).&nbsp; </p>
 <p>Phản ứng hữu hiệu thái độ  chợ đò đứng bến (của những người nô lệ ngoại bang này) như tôi đã dẫn thoáng  qua, là hy vọng chỉ có các vị như Wissai..., Phượng Hoàng Tôn Ông Gò Vấp, Người  Đưa Tin Ro Ma, Em Gái Xóm Đạo,... mà chúng ta thấy trên các diễn đàn.&nbsp; </p>
-<p>Nhưng tuyệt vời nhất từ hồi  thế kỷ 19 là ông Đại Tá người Mỹ Robert G. Ingersoll. (<a href="https://sachhiem.net/index.php?content=showemail&amp;id=646">https://sachhiem.net/index.php?content=showemail&amp;id=646</a>)  <img src="https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/sqdot.gif" width="10" height="10"></p>
+<p>Nhưng tuyệt vời nhất từ hồi  thế kỷ 19 là ông Đại Tá người Mỹ Robert G. Ingersoll. (<a href="/hop-thu/646">https://sachhiem.net/index.php?content=showemail&amp;id=646</a>)  <img src="https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/sqdot.gif" width="10" height="10"></p>
 <p class="TacgiaL">Trần Quang Diệu</p>
  <p class="nguonL">Nguồn các Diễn Đàn Thư Tín</p>

@@ -2,13 +2,13 @@
 layout: ../../../layouts/Article.astro
 title: "KÍNH GỬI"
 author: "Minh Mẫn"
-source: "https://sachhiem.net/MINHMAN/Tongiao/MinhManTG13.php"
+source: "/MINHMAN/Tongiao/MinhManTG13"
 lang: vi
 wordCount: 4413
-image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nha.jpg"
+image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/Hinh/giaohoang.jpg"
 ---
 
-<p align="center"><a href="https://www.sachhiem.net/"> <img border="0" src="https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nha.jpg"> </a> 05 tháng 9, 2007 </p>
+<p align="center"> 05 tháng 9, 2007 </p>
 	<p align="center">
 	<img border="0" src="https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/Hinh/giaohoang.jpg" width="172" height="243"></p>
 <p><b><font size="6" face="Vivaldi">K</font></b>ính thưa ngài,</p>

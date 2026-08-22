@@ -2,14 +2,14 @@
 layout: ../../../layouts/Article.astro
 title: "Mốc Thời Gian Cho Chùa Báo Thiên"
 author: "Lý Thái Xuân"
-source: "https://sachhiem.net/TONGIAO/TOAKHAM/Lythai.php"
+source: "/TONGIAO/TOAKHAM/Lythai"
 category: "Tác giả"
 lang: vi
 wordCount: 3160
-image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nha.jpg"
+image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/TONGIAO/IMG/Toakham/ChuaBaoThien2.jpg"
 ---
 
-<p align="center"><a href="https://sachhiem.net/index.php"><img border="0" hspace="20" src="https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nha.jpg"></a>20 tháng 2, 2008</p>
+<p align="center">20 tháng 2, 2008</p>
 
 <p><img border="0" src="https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/TONGIAO/IMG/Toakham/ChuaBaoThien2.jpg" width="100" height="70"><img border="0" src="https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/TONGIAO/IMG/Toakham/ChuaBaoThien1.jpg" width="100" height="70"><img border="0" src="https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/TONGIAO/IMG/Toakham/tourelle_dela_pagode_des_supplices_small.jpg" width="100" height="142"><img border="0" src="https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/TONGIAO/IMG/Toakham/ThapchuaBaoAn.jpg" width="100" height="70"><img border="0" src="https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/TONGIAO/IMG/Toakham/CongchuaoHanoi.jpg" width="97" height="69"><img border="0" src="https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/TONGIAO/IMG/Toakham/NhaThoLonHN_small.jpg" width="80" height="93"></p>
 
@@ -39,8 +39,8 @@ image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nha.jpg"
 
 <p>	<a href="https://thuvienhoasen.org/chuabaothien-thapdaithangtuthien.htm">CHÙA BÁO THIÊN VÀ THÁP ĐẠI THẮNG TƯ THIÊN 
 		</a>(Nguyễn Quốc Tuấn)</p>
-<p><a href="https://sachhiem.net/TONGIAO/TOAKHAM/QuocThang1.php">Thuốc Mê Toà Khâm Sứ (Quốc Thắng)</a></p>
-<p><a href="https://sachhiem.net/TONGIAO/TOAKHAM/NguyenAnTiem.php">Hà Nội: Từ Chùa Báo Thiên Đến Nhà Thờ Lớn (Nguyễn An Tiêm)</a></p>
+<p><a href="/TONGIAO/TOAKHAM/QuocThang1">Thuốc Mê Toà Khâm Sứ (Quốc Thắng)</a></p>
+<p><a href="/TONGIAO/TOAKHAM/NguyenAnTiem">Hà Nội: Từ Chùa Báo Thiên Đến Nhà Thờ Lớn (Nguyễn An Tiêm)</a></p>
  </td>
 		<td style="font-weight: normal; text-align: left; vertical-align: top; font-size: 10.0pt; width:94px">
 	 
@@ -85,7 +85,7 @@ image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nha.jpg"
 	 
 	<tr>
 		<td style="font-weight: normal; text-align: left; vertical-align: top; font-size: 10.0pt; width:124px"><p>
-		<a href="https://sachhiem.net/TONGIAO/TOAKHAM/LyKhoiViet01.php">"Lý Khôi Việt: Công lý lịch sử của: Hoàng Sa, Trường Sa, Chùa Báo Thiên, 
+		<a href="/TONGIAO/TOAKHAM/LyKhoiViet01">"Lý Khôi Việt: Công lý lịch sử của: Hoàng Sa, Trường Sa, Chùa Báo Thiên, 
 Nhà Thờ Lớn Hà Nội, và Tòa Khâm Sứ"</a></p>	</td>
 		<td style="font-weight: normal; text-align: left; vertical-align: top; font-size: 10.0pt; width:94px"><p>(tất cả tài liệu đều đồng thuận về năm này)</p></td>
 	<td style="font-weight: normal; text-align: left; vertical-align: top; font-size: 10.0pt; width:90px"><p>1057</p></td>
@@ -140,7 +140,7 @@ Chém người thợ của cục Tả ban tất tác là Cao Sư Đãng. Bấy g
 </td> </tr>
 		<tr>
 		<td style="font-weight: normal; text-align: left; vertical-align: top; font-size: 10.0pt; width:124px"><p>
-		<a href="https://sachhiem.net/TONGIAO/TOAKHAM/QuocThang1.php">Thuốc Mê Toà Khâm Sứ (Quốc Thắng)</a></p></td>
+		<a href="/TONGIAO/TOAKHAM/QuocThang1">Thuốc Mê Toà Khâm Sứ (Quốc Thắng)</a></p></td>
 		<td style="font-weight: normal; text-align: left; vertical-align: top; font-size: 10.0pt; width:94px"><p>tự điển quốc tế Wikipedia  </p></td>
 	<td style="font-weight: normal; text-align: left; vertical-align: top; font-size: 10.0pt; width:90px"><p>1426</p>
 		
@@ -162,7 +162,7 @@ Chém người thợ của cục Tả ban tất tác là Cao Sư Đãng. Bấy g
 	</tr>
 		<tr>
 		<td style="font-weight: normal; text-align: left; vertical-align: top; font-size: 10.0pt; width:124px">
-		<a href="https://sachhiem.net/TONGIAO/TOAKHAM/NguyenAnTiem.php">"Hà Nội: Từ Chùa Báo Thiên Đến Nhà Thờ Lớn</a>" của Nguyễn An Tiêm</td>
+		<a href="/TONGIAO/TOAKHAM/NguyenAnTiem">"Hà Nội: Từ Chùa Báo Thiên Đến Nhà Thờ Lớn</a>" của Nguyễn An Tiêm</td>
 		<td style="font-weight: normal; text-align: left; vertical-align: top; font-size: 10.0pt; width:94px">"Tang thương ngẫu lục" của danh sĩ Phạm Đình Hổ, Nguyễn Án  </td>
 	<td style="font-weight: normal; text-align: left; vertical-align: top; font-size: 10.0pt; width:90px">1791
 <p>
@@ -184,14 +184,14 @@ Năm Giáp Dần </p></td>
 		</tr>
 		<tr>
 		<td style="font-weight: normal; text-align: left; vertical-align: top; font-size: 10.0pt; width:124px">
-		<p><a href="https://sachhiem.net/DOITHOAI/TranMinhKhoa.php">Lịch sử - Pháp lý - Hiện thực - Tình người</a> (Trần Minh Khoa)</p></td>
+		<p><a href="/DOITHOAI/TranMinhKhoa">Lịch sử - Pháp lý - Hiện thực - Tình người</a> (Trần Minh Khoa)</p></td>
 		<td style="font-weight: normal; text-align: left; vertical-align: top; font-size: 10.0pt; width:94px">&nbsp;</td>
 	<td style="font-weight: normal; text-align: left; vertical-align: top; font-size: 10.0pt; width:90px">1873</td>
 		<td style="font-weight: normal; text-align: left; vertical-align: top; font-size: 10.0pt; width:307px"><p>Năm 1873, được sự đồng ý của chính quyền thuộc địa, Giáo hội Công giáo chiếm một khu đất thuộc chùa Báo Thiên và cho xây dựng ở đây một nhà thờ bằng gỗ. Đến năm 1883 chùa Báo Thiên hoàn toàn được phá bỏ để xây dựng Nhà thờ lớn Hà Nội.</p></td> 
 		</tr>
         	<tr>
 		<td style="font-weight: normal; text-align: left; vertical-align: top; font-size: 10.0pt; width:124px">
-		<a href="https://sachhiem.net/TONGIAO/TOAKHAM/TrgCgKhanh1.php"> </a><a href="https://sachhiem.net/TONGIAO/TOAKHAM/NguyenAnTiem.php">"Hà Nội: Từ Chùa Báo Thiên Đến Nhà Thờ Lớn "</a> của Nguyễn An Tiêm</td>
+		<a href="/TONGIAO/TOAKHAM/TrgCgKhanh1"> </a><a href="/TONGIAO/TOAKHAM/NguyenAnTiem">"Hà Nội: Từ Chùa Báo Thiên Đến Nhà Thờ Lớn "</a> của Nguyễn An Tiêm</td>
 		<td style="font-weight: normal; text-align: left; vertical-align: top; font-size: 10.0pt; width:94px">bài nói về <b>vai trò của Viện Viễn Đông Bác Cổ Pháp </b>với các di tích lịch sử Thăng Long, viết bởi France Mangin 
 		có đọan nói về "<b>Hà Nội dưới thời kỳ chinh phục 1873-1888</b>" của <i>André Masson </i> </td>
 	<td style="font-weight: normal; text-align: left; vertical-align: top; font-size: 10.0pt; width:90px"><p>1873-1888 
@@ -205,7 +205,7 @@ Năm Giáp Dần </p></td>
 	</tr>
 		<tr>
 		<td style="font-weight: normal; text-align: left; vertical-align: top; font-size: 10.0pt; width:124px">
-		<a href="https://sachhiem.net/TONGIAO/TOAKHAM/TrgCgKhanh1.php">Những bài học ứng xử cần thiết 
+		<a href="/TONGIAO/TOAKHAM/TrgCgKhanh1">Những bài học ứng xử cần thiết 
 		</a>(Trương Công Khanh)</td>
 		<td style="font-weight: normal; text-align: left; vertical-align: top; font-size: 10.0pt; width:94px">Châu bản triều Nguyễn - Tư liệu Phật giáo qua các triều đại nhà Nguyễn 143 năm từ Gia Long 1802 đến Bảo Đại 1945 (Lý Kim Hoa sưu khảo, biên dịch, NXB Văn hóa Thông tin, 2003)</td>
 	<td style="font-weight: normal; text-align: left; vertical-align: top; font-size: 10.0pt; width:90px"><p>1879 </p>
@@ -217,7 +217,7 @@ Năm Giáp Dần </p></td>
 		  	
 		<tr>
 		<td style="font-weight: normal; text-align: left; vertical-align: top; font-size: 10.0pt; width:124px" height="97"><p>Lý Khôi Việt: 
-		<a href="https://sachhiem.net/TONGIAO/TOAKHAM/LyKhoiViet01.php">Công lý lịch sử của :
+		<a href="/TONGIAO/TOAKHAM/LyKhoiViet01">Công lý lịch sử của :
 Hoàng Sa, Trường Sa, Chùa Báo Thiên, 
 Nhà Thờ Lớn Hà Nội, và Tòa Khâm Sứ</a>. </p></td>
 		<td style="font-weight: normal; text-align: left; vertical-align: top; font-size: 10.0pt; width:94px" height="97">  </td>
@@ -231,7 +231,7 @@ Nhà Thờ Lớn Hà Nội, và Tòa Khâm Sứ</a>. </p></td>
 		  	
 		  	
 		<tr>
-		<td style="font-weight: normal; text-align: left; vertical-align: top; font-size: 10.0pt; width:124px">	<p>	<a href="https://sachhiem.net/DOITHOAI/TranMinhKhoa.php">Lịch sử - Pháp lý - Hiện thực - Tình người</a> (Trần Minh Khoa)</p> </td>
+		<td style="font-weight: normal; text-align: left; vertical-align: top; font-size: 10.0pt; width:124px">	<p>	<a href="/DOITHOAI/TranMinhKhoa">Lịch sử - Pháp lý - Hiện thực - Tình người</a> (Trần Minh Khoa)</p> </td>
 		<td style="font-weight: normal; text-align: left; vertical-align: top; font-size: 10.0pt; width:94px">&nbsp;</td>
 	<td style="font-weight: normal; text-align: left; vertical-align: top; font-size: 10.0pt; width:90px"><p>1883</p>
  </td>
@@ -258,7 +258,7 @@ Nhà Thờ Lớn Hà Nội, và Tòa Khâm Sứ</a>. </p></td>
 		  		
 		<tr>
 		<td style="font-weight: normal; text-align: left; vertical-align: top; font-size: 10.0pt; width:124px">
-		<a href="https://sachhiem.net/TONGIAO/TOAKHAM/NguyenAnTiem.php">Hà Nội: Từ Chùa 
+		<a href="/TONGIAO/TOAKHAM/NguyenAnTiem">Hà Nội: Từ Chùa 
 		Báo Thiên Đến Nhà Thờ Lớn (Nguyễn An Tiêm)</a></td>
 		<td style="font-weight: normal; text-align: left; vertical-align: top; font-size: 10.0pt; width:94px">
 		<a href="https://hinhxua.free.fr/autrefois/docteur-hocquard/page5/photo_docteur_hocquard_5_fr.htm">Ảnh chụp của bác sĩ Ch. E. Hocquard</a></td>
@@ -272,7 +272,7 @@ Nhà Thờ Lớn Hà Nội, và Tòa Khâm Sứ</a>. </p></td>
 			</tr>
 			<tr>
 		<td style="font-weight: normal; text-align: left; vertical-align: top; font-size: 10.0pt; width:124px">
-		<a href="https://sachhiem.net/TONGIAO/NguyenAnTiem.php">Hà Nội: Từ Chùa 
+		<a href="/TONGIAO/NguyenAnTiem">Hà Nội: Từ Chùa 
 		Báo Thiên Đến Nhà Thờ Lớn (Nguyễn An Tiêm)</a></td>
 		<td style="font-weight: normal; text-align: left; vertical-align: top; font-size: 10.0pt; width:94px">  </td>
 	<td style="font-weight: normal; text-align: left; vertical-align: top; font-size: 10.0pt; width:90px">1884-1886</td>
@@ -283,7 +283,7 @@ Nhà Thờ Lớn Hà Nội, và Tòa Khâm Sứ</a>. </p></td>
 				</tr>
 		<tr>
 		<td style="font-weight: normal; text-align: left; vertical-align: top; font-size: 10.0pt; width:124px">	
-		<a href="https://sachhiem.net/THOISU_CT/TrgCgKhanh1.php">Những bài học ứng xử cần thiết 
+		<a href="/THOISU_CT/TrgCgKhanh1">Những bài học ứng xử cần thiết 
 		</a>(Trương Công Khanh)</td>
 		<td style="font-weight: normal; text-align: left; vertical-align: top; font-size: 10.0pt; width:94px">Châu bản triều Nguyễn - Tư liệu Phật giáo qua các triều đại nhà Nguyễn 143 năm từ Gia Long 1802 đến Bảo Đại 1945 (Lý Kim Hoa sưu khảo, biên dịch, NXB Văn hóa Thông tin, 2003)</td>
 	<td style="font-weight: normal; text-align: left; vertical-align: top; font-size: 10.0pt; width:90px">	
@@ -295,7 +295,7 @@ Nhà Thờ Lớn Hà Nội, và Tòa Khâm Sứ</a>. </p></td>
 		<font color="#800000">(bài viết ghi nhầm là năm thứ 18)</font>, Cơ mật viện tâu việc quyền khâm sứ đòi giỡ chùa trong thành nội để cất nhà thờ đạo<p>Ngày 26 tháng 11, Duy Tân (1907-1916) năm thứ nhất, Phụ Chánh tâu việc Ngô Đình Khả cất nhà thờ đạo Thiên Chúa trên nền chùa Linh Hựu trong thành nội</p></td> 
 	</tr>
 		<tr>
-		<td style="font-weight: normal; text-align: left; vertical-align: top; font-size: 10.0pt; width:124px" height="330">			<a href="https://sachhiem.net/DOITHOAI/TranMinhKhoa.php"><p>Lịch sử - Pháp lý - Hiện thực - Tình người</p></a>
+		<td style="font-weight: normal; text-align: left; vertical-align: top; font-size: 10.0pt; width:124px" height="330">			<a href="/DOITHOAI/TranMinhKhoa"><p>Lịch sử - Pháp lý - Hiện thực - Tình người</p></a>
 <p>
 	(Trần Minh Khoa)</p></td>
 		<td style="font-weight: normal; text-align: left; vertical-align: top; font-size: 10.0pt; width:94px" height="330">&nbsp;</td>

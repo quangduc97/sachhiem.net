@@ -3,7 +3,7 @@ layout: ../../../layouts/Article.astro
 title: "\"Bức Tử\" Còn Thâm Độc, Nguy Hiểm Hơn \"Khai Tử\"!"
 author: "Nguyễn Ran"
 date: 2022-06-12
-source: "https://sachhiem.net/LICHSU/FB/FBNguyenRan01.php"
+source: "/LICHSU/FB/FBNguyenRan01"
 category: "Chính trị"
 lang: vi
 wordCount: 814
@@ -27,4 +27,4 @@ image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/THOISU_CT/Hinh/NHANV
  <p class="nguonL">Nguồn<a href="https://www.facebook.com/ran.nguyen.56027/posts/pfbid0beyS3LCjD5WGHPbxpmcQdRKtGgTTUdUPNMVZKh8fmN16kidWqTRyVsj5aiLdZqHKl"> FB Nguyễn Ran</a> ngày 12 tháng 6, 2022 </p>
  <p>____________</p>
  <p><b>Bài đọc thêm:</b></p>
- <p>- <a href="https://sachhiem.net/LICHSU/FB/FBHoangTrongDuc.php"> Nói Toạc Móng Heo Về Bộ GD&amp;ĐT </a>  - Hoàng Trọng Đức- Bút Thép </p>
+ <p>- <a href="/LICHSU/FB/FBHoangTrongDuc"> Nói Toạc Móng Heo Về Bộ GD&amp;ĐT </a>  - Hoàng Trọng Đức- Bút Thép </p>

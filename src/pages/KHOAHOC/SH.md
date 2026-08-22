@@ -2,7 +2,7 @@
 layout: ../../layouts/Article.astro
 title: "Thuyết Tiến Hóa Của Darwin Được Khai Triển Hơn Bao Giờ Hết"
 author: "SH giới thiệu"
-source: "https://sachhiem.net/Source https://www.time.com/time/magazine/article/0,9171,1879213,00.html"
+source: "/Source https://www.time.com/time/magazine/article/0,9171,1879213,00.html"
 category: "Khoa học"
 lang: vi
 wordCount: 2298
@@ -26,7 +26,7 @@ image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nhacu.jpg"
 <tr> <td width="100%"> 
 	<div style="padding-left: 40px; padding-right: 40px">
 		<table border="0" cellpadding="10" width="80%" cols="2"><tbody><tr>
-		<td><a href="https://sachhiem.net/"><img border="0" src="https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nhacu.jpg"></a></td>
+		<td><a href="/"><img border="0" src="https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nhacu.jpg"></a></td>
 		<td valign="top" style="text-align:right">đăng 16 tháng 2, 2009
 	</td></tr></tbody></table>
 

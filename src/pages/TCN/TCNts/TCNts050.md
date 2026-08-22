@@ -2,11 +2,11 @@
 layout: ../../../layouts/Article.astro
 title: "TẢN MẠN XUNG QUANH"
 author: "Trần Chung Ngọc"
-source: "https://sachhiem.net/null"
+source: "/null"
 category: "Chính trị"
 lang: vi
 wordCount: 6308
-image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nha.jpg"
+image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/Pict/VeVN/Nhatholon.jpg"
 ---
 
 <div align="center" style="position: relative; left: 0; top: 0">
@@ -23,8 +23,7 @@ image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nha.jpg"
 <tr><td width="100%">
 <div style="padding-left: 50px; padding-right: 50px"> 
 	<table border="0" cellpadding="1" width="600" cols="2"><tbody><tr>
-	<td><a href="/index">
-	<img border="0" src="https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nha.jpg"></a></td>
+	<td></td>
 <td valign="top" width="178"><p>11 tháng 12,  2010</p></td></tr></tbody></table>
 
 	
@@ -91,7 +90,7 @@ image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nha.jpg"
 	ngày nay ra sao cho nên làm sao có thể lừa dối họ bằng những thông tin dựng 
 	đứng, sai sự thực. Thật đúng như một Việt Kiều đã nhận xét, đăng lại trên 
 	sachhiem.net gần đây,
-	<a style="color: blue; text-decoration: underline; text-underline: single" href="https://www.sachhiem.net/THOISU_CT/ChuD/DiendanLichsu.php">
+	<a style="color: blue; text-decoration: underline; text-underline: single" href="/THOISU_CT/ChuD/DiendanLichsu">
 	https://www.sachhiem.net/THOISU_CT/ChuD/DiendanLichsu.php</a>, tôi chỉ ghi 
 	lại vài điều điển hình:</p>
 	

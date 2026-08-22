@@ -2,16 +2,14 @@
 layout: ../../../layouts/Article.astro
 title: "Tội Diệt Chủng Và Hủy Diệt Nền Văn Hóa Bản Địa Của Các Nhà Truyền Giáo [*]"
 author: "Pascal’s Wagner /Nguyễn Trí Cảm dịch"
-source: "https://sachhiem.net/TONGIAO/NGTRCAM/NguyenTriCam29.php"
+source: "/TONGIAO/NGTRCAM/NguyenTriCam29"
 category: "Tác giả"
 lang: vi
 wordCount: 9439
-image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nha.jpg"
+image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/TONGIAO/IMG/CHURCH/ruouvang.jpg"
 ---
 
-<p align="center"><a href="https://sachhiem.net/index.php"><img hspace="20" border="0" src="https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nha.jpg"></a> </p>
-  
-    <p> <i>LTS:  Đề tài này liên quan đến các thủ đoạn tàn ác của các nhà truyền giáo  khắp các châu lục - trừ cái nôi TCG ở châu Âu. Nội dung là <b>các thủ  đoạn diệt chủng</b> và thủ tiêu nền văn hóa bản địa của các dân tộc bị  truyền đạo. Bài dịch này xin được kính tặng tất cả mọi người thuộc dân tộc Việt Nam thân yêu của chúng tôi, đặc biệt  là những nhà lãnh đạo, kể cả &nbsp;những vị có  chức vụ từ trên cao tới dưới thấp &nbsp;trong  mọi ngành nghề, trong mọi lãnh vực, trong mọi hoạt động &nbsp;trong xã hội của chúng ta.&nbsp;</i></p>
+<p> <i>LTS:  Đề tài này liên quan đến các thủ đoạn tàn ác của các nhà truyền giáo  khắp các châu lục - trừ cái nôi TCG ở châu Âu. Nội dung là <b>các thủ  đoạn diệt chủng</b> và thủ tiêu nền văn hóa bản địa của các dân tộc bị  truyền đạo. Bài dịch này xin được kính tặng tất cả mọi người thuộc dân tộc Việt Nam thân yêu của chúng tôi, đặc biệt  là những nhà lãnh đạo, kể cả &nbsp;những vị có  chức vụ từ trên cao tới dưới thấp &nbsp;trong  mọi ngành nghề, trong mọi lãnh vực, trong mọi hoạt động &nbsp;trong xã hội của chúng ta.&nbsp;</i></p>
     <p><i>Mỗi đoạn &nbsp;trong bài là một tấm gương soi mặt, chúng ta cần  phải đem xài mỗi ngày <b>khi tiếp xúc với những miếng mồi thơm ngon</b>, những gương mặt  mang vẻ “hiền từ”, “đạo mạo,” hay “ngây thơ” của các con cáo ẩn mình đang tìm cách  nuốt trọn hồn và xác của dân tộc qua tay của chính chúng &nbsp;ta. </i></p>
     <p><i><b>Xin được đóng góp cho sự trường tồn của nền  văn hóa nước nhà bằng một lời yêu cầu tha thiết</b> : “Vì tương lai và mạng sống của dân tộc, đừng uống rượu lễ hay nhận quà cáp của ai nhất là của người đạo Thiên Chúa hiến tặng."</i><i> </i>  (SH) </p><br>
     <p align="center"><img src="https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/TONGIAO/IMG/CHURCH/ruouvang.jpg" width="350" height="231"></p>

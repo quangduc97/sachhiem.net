@@ -2,11 +2,11 @@
 layout: ../../../layouts/Article.astro
 title: "North Vietnam’s Final Offensive: strategic endgame nonpareil"
 author: "Merle L. Pribbenow"
-source: "https://sachhiem.net/null"
+source: "/null"
 category: "Lịch sử"
 lang: en
 wordCount: 8387
-image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nha.jpg"
+image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/SACHNGOAI/Hinhanh/PEOPLE/VoNuyenGiap.jpg"
 ---
 
 <div align="center" style="position: relative; left: 0; top: 0">
@@ -26,8 +26,7 @@ image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nha.jpg"
 <div style="padding-left: 50px; padding-right: 50px">
 	<table border="0" cellpadding="10" width="85%" cols="3">
 	<tbody><tr>
-		<td width="401"><a href="/index">
-		<img border="0" src="https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nha.jpg"></a></td>
+		<td width="401"></td>
 		<td valign="top" width="191">11 tháng 7, 2010 </td></tr>
 </tbody></table>
 <p><span class="Date">QĐND - Thứ Sáu, 16/04/2010, 18:42 (GMT+7)</span></p>

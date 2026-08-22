@@ -3,7 +3,7 @@ layout: ../../../layouts/Article.astro
 title: "Lá Thư Phật Giáo gởi hoả tốc cho Thiên Chúa Giáo lần đầu tiên trong Thiên niên kỷ mới."
 author: "Hoà Thượng Thích Chơn Tế"
 date: 2023-11-11
-source: "https://sachhiem.net/TONGIAO/tgT/TinPGDaNang.php"
+source: "/TONGIAO/tgT/TinPGDaNang"
 category: "Chính trị"
 lang: vi
 wordCount: 1527

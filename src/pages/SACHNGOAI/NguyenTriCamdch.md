@@ -2,7 +2,7 @@
 layout: ../../layouts/Article.astro
 title: "Công Cuộc Truyền Giáo Ở Bắc Kỳ Trong Thời Thuộc Địa"
 author: "Nguyễn Trí Cảm dịch từ"
-source: "https://sachhiem.net/null"
+source: "/null"
 category: "Lịch sử"
 lang: vi
 wordCount: 10743

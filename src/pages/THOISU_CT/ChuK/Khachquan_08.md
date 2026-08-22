@@ -3,7 +3,7 @@ layout: ../../../layouts/Article.astro
 title: "Sự Thật Lịch Sử (Về Ngô Đình Diệm)"
 author: "Trần Khách Quan"
 date: 2017-03-18
-source: "https://sachhiem.net/THOISU_CT/ChuK/Khachquan_08.php"
+source: "/THOISU_CT/ChuK/Khachquan_08"
 category: "Chính trị"
 lang: vi
 wordCount: 1505

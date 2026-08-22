@@ -3,7 +3,7 @@ layout: ../../../layouts/Article.astro
 title: "14 Câu Nói Ý Nghĩa Của Đại Tướng Võ Nguyên Giáp"
 author: "Nguyễn Huệ sưu tầm"
 date: 2021-12-25
-source: "https://sachhiem.net/LICHSU/FB/FBNguyenHue.php"
+source: "/LICHSU/FB/FBNguyenHue"
 category: "Chính trị"
 lang: vi
 wordCount: 732

@@ -2,17 +2,17 @@
 layout: ../../../layouts/Article.astro
 title: "Mối Ác Cảm Của Nhân Dân Thế Giới"
 author: "Nguyễn Mạnh Quang"
-source: "https://sachhiem.net/NMQ/MOIACCAM/NMQ_07.php"
+source: "/NMQ/MOIACCAM/NMQ_07"
 category: "Tác giả"
 lang: vi
 wordCount: 13430
-image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nha.jpg"
+image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/print.gif"
 ---
 
 <p class="Tuaduoi">Đối Với Giáo Hội La Mã </p>
      
      
-     <p align="center"><a href="/index"><img hspace="20" border="0" src="https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nha.jpg"></a>   bản rời <a href="/NMQ/MOIACCAM/NMQ_00" target="top"> <img border="0" src="https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/print.gif" width="18" height="18"> </a>   |      toàn tập <a target="_top" href="/NMQ/MOIACCAM/MoiAcCam_Main"> ☞ </a>  | 02 tháng 4, 2010 </p>
+     <p align="center">   bản rời <a href="/NMQ/MOIACCAM/NMQ_00" target="top"> <img border="0" src="https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/print.gif" width="18" height="18"> </a>   |      toàn tập <a target="_top" href="/NMQ/MOIACCAM/MoiAcCam_Main"> ☞ </a>  | 02 tháng 4, 2010 </p>
      <br clear="all" style="page-break-before:always">
      <p class="CHUONG"> CHƯƠNG 10</p>
 <p class="TuaChuong"> Phản ứng từ các hàng giáo phẩm đến giáo dân </p>

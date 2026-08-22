@@ -3,7 +3,7 @@ layout: ../../layouts/Article.astro
 title: "Những Bóng Ma Trong Nhà Trẻ St. Joseph ở Burlington P4"
 author: "Lý Thái Xuân dịch"
 date: 2021-05-09
-source: "https://sachhiem.net/LTX/LythaiTG30_4nhatre.php"
+source: "/LTX/LythaiTG30_4nhatre"
 category: "Tác giả"
 lang: vi
 wordCount: 4311
@@ -15,16 +15,16 @@ image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/TONGIAO/IMG/SU/THCHA
      
      
      <div class="tomluoc">
-       <p><a href="https://sachhiem.net/LTX/LythaiTG30_4nhatre.php"><i>Bài 5:  Chuyện Cô Bé Bị Tra Tấn Vì Ăn Cắp Kẹo </i></a></p>
+       <p><a href="/LTX/LythaiTG30_4nhatre"><i>Bài 5:  Chuyện Cô Bé Bị Tra Tấn Vì Ăn Cắp Kẹo </i></a></p>
        <p><i>Bé Mary không khóc. Cô bé chỉ phát ra những tiếng nức nở nho nhỏ, không có nước mắt, và các bà sơ ghét điều đó nhất.
 
 Họ làm đủ mọi cách để khiến cô bé ấy khóc nức nở. Họ tát, đấm và đá vào chân cô ấy. Hai lần, Sally chứng kiến ​​họ xoa hành tây vào mắt bé Mary.</i>     </p>
      </div>
-          <div class="leftborder"><p><i>Xem lời giới thiệu ở <a href="https://sachhiem.net/LTX/LythaiTG30.php">Bài 1</a></i></p>
-<p><i><a href="https://sachhiem.net/LTX/LythaiTG30.php">Bài 1: Bà Sally Dale tường thuật. </a></i></p>
-<p><i><a href="https://sachhiem.net/LTX/LythaiTG30_1nhatre.php">Bài 2: Luật sư Philip White và người khách "bí ẩn"</a></i></p>
- <p><a href="https://sachhiem.net/LTX/LythaiTG30_2nhatre.php"><i>Bài 3: Luật sư Robert Widman vào cuộc </i></a></p>
- <p><a href="https://sachhiem.net/LTX/LythaiTG30_3nhatre.php"><i>Bài 4: Những Âm Thanh Kinh Hoàng</i></a></p>
+          <div class="leftborder"><p><i>Xem lời giới thiệu ở <a href="/LTX/LythaiTG30">Bài 1</a></i></p>
+<p><i><a href="/LTX/LythaiTG30">Bài 1: Bà Sally Dale tường thuật. </a></i></p>
+<p><i><a href="/LTX/LythaiTG30_1nhatre">Bài 2: Luật sư Philip White và người khách "bí ẩn"</a></i></p>
+ <p><a href="/LTX/LythaiTG30_2nhatre"><i>Bài 3: Luật sư Robert Widman vào cuộc </i></a></p>
+ <p><a href="/LTX/LythaiTG30_3nhatre"><i>Bài 4: Những Âm Thanh Kinh Hoàng</i></a></p>
           </div>
        <p class="TuaDenLeft">5. Chuyện Cô Bé Bị Tra Tấn Vì Ăn Cắp Kẹo </p>
        <p><span class="First">N</span>hững câu chuyện của các bà về vụ trộm kẹo đã giúp cho Luật sư Widman hiểu thế nào một ký ức đau thương có thể tác động. Các nhân chứng nhớ rằng cô bé đã ăn trộm một ít kẹo, và tất cả đều nhớ rằng một bà sơ  đã bắt được cô bé. Ba người trong số họ nhớ đúng tên của cô bé, và mặc dù không có sự đồng thuận về danh tính của bà sơ, hầu hết họ đều nhớ rằng một bà sơ  đã trừng phạt cô bé. Các chi tiết cụ thể có sự khác biệt, nhưng <a href="https://www.documentcloud.org/documents/4620562-Burning.html" target="_blank">cốt truyện</a> chính vẫn giữ nguyên. Đây là ảnh chụp trang hồ sơ liên quan đến câu chuyện. Chúng tôi ghi chú thêm tiếng Việt để bạn đọc hiểu.</p>
@@ -77,7 +77,7 @@ Họ làm đủ mọi cách để khiến cô bé ấy khóc nức nở. Họ t�
        <p>Ngay từ đầu, Luật sư Widman đã nhận thấy rõ ràng, và càng rõ hơn khi những câu chuyện của các nhân chứng bắt đầu được xâu chuỗi lại với nhau, rằng ông cần phải tập hợp tất cả các nguyên đơn lại trước cùng một bồi thẩm đoàn trong một phiên tòa thống nhất. Lời kể của mỗi đứa trẻ mồ côi giúp làm sáng tỏ bối cảnh của mọi lời kể khác. Nếu đứng riêng lẻ, bất kỳ lời kể nào cũng dễ bị mổ xẻ và nghi ngờ. Các nguyên đơn sẽ là những người ngoài cuộc dễ bị tổn thương khi phải đối đầu với một trong những thể chế quyền lực nhất thế giới. Cùng nhau, họ có cơ hội.</p>
        <p>Việc gộp các vụ án lại cũng rất quan trọng trên phương diện thực tiễn. Các nguyên đơn sẽ cần phải kêu gọi lẫn nhau làm nhân chứng, nhưng nếu mỗi vụ án được xét xử riêng biệt, họ sẽ phải quay lại tòa án và kể lại câu chuyện của mình có lẽ đến cả chục lần, trước mặt những người xa lạ, một trải nghiệm mà nhiều thân chủ của ông sẽ thấy không thể chịu đựng được. Các chuyên gia làm chứng sẽ phải được triệu tập đi triệu tập lại nhiều lần, và tòa án sẽ cần phải tập hợp các bồi thẩm đoàn khác nhau cho mỗi vụ án. Chi phí sẽ vô cùng lớn.</p>
        
-<p>(Xem tiếp, <a href="https://sachhiem.net/LTX/LythaiTG30_5nhatre.php">bài 6: Động Thái của Bị Đơn</a>)</p>
+<p>(Xem tiếp, <a href="/LTX/LythaiTG30_5nhatre">bài 6: Động Thái của Bị Đơn</a>)</p>
 <p class="PHAN">______________</p>
 <p class="PHAN">PHỤ ĐÍNH </p>
 <p class="TuaChuong">Sally Kể  Vài Ký Ức Ở Trại Mồ Côi </p>
@@ -106,8 +106,8 @@ Họ làm đủ mọi cách để khiến cô bé ấy khóc nức nở. Họ t�
      <p class="nguonL">Nguồn: <a href="https://www.buzzfeednews.com/article/christinekenneally/orphanage-death-catholic-abuse-nuns-st-josephs">https://tinyurl.com/7w5mmtr6</a></p>
      <p>_________________</p>
      <p><b>Những bài cùng chủ đề:</b></p>
-     <p>- <a href="https://sachhiem.net/LTX/LythaiTG30.php">Những Bóng Ma Trong Nhà Trẻ St. Joseph của Công Giáo La Mã, Chúng Tôi Đã Nhìn Thấy Các Nữ Tu Giết Trẻ Em</a>; Lý Thái Xuân 09-May-2021</p>
-     <p>- <a href="https://sachhiem.net/SACHNGOAI/SH/SH41_Gravesfound.php">Phát Hiện Hàng Trăm Ngôi Mộ Không Tên Khác Tại Trường Nội Trú Ở Canada</a> - SH 29-Jun-2021</p>
-     <p>- <a href="https://sachhiem.net/SACHNGOAI/SH/SH41a_DietChung.php">Chờ Đến Những Phát Hiện Bi Thương Mới Biết Diệt Chủng Văn Hóa Là Tội Ác Như Thế Nào!</a> - SH 7-July-2021</p>
-     <p>- <a href="https://sachhiem.net/TONGIAO/FB/FBDuNguyen03.php">Tấm Ảnh Được Giải Thưởng "World Press Photo" Của Năm 2022 - Cảnh Tưởng Niệm Những Đứa Trẻ Bị Hại Tại Các Trường Nội Trú CGLM</a> Du Nguyên - 30-Jul-2022</p>
-     <p>- <a href="https://sachhiem.net/LTX/LythaiTG35.php">Chuyến Đi Xin Lỗi Thổ Dân ở Canada Của Giáo Hoàng Francis - Các trường nội trú của Canada là một hệ thống "diệt chủng văn hóa"</a> Lý Thái Xuân 27-Jul-2022</p>
+     <p>- <a href="/LTX/LythaiTG30">Những Bóng Ma Trong Nhà Trẻ St. Joseph của Công Giáo La Mã, Chúng Tôi Đã Nhìn Thấy Các Nữ Tu Giết Trẻ Em</a>; Lý Thái Xuân 09-May-2021</p>
+     <p>- <a href="/SACHNGOAI/SH/SH41_Gravesfound">Phát Hiện Hàng Trăm Ngôi Mộ Không Tên Khác Tại Trường Nội Trú Ở Canada</a> - SH 29-Jun-2021</p>
+     <p>- <a href="/SACHNGOAI/SH/SH41a_DietChung">Chờ Đến Những Phát Hiện Bi Thương Mới Biết Diệt Chủng Văn Hóa Là Tội Ác Như Thế Nào!</a> - SH 7-July-2021</p>
+     <p>- <a href="/TONGIAO/FB/FBDuNguyen03">Tấm Ảnh Được Giải Thưởng "World Press Photo" Của Năm 2022 - Cảnh Tưởng Niệm Những Đứa Trẻ Bị Hại Tại Các Trường Nội Trú CGLM</a> Du Nguyên - 30-Jul-2022</p>
+     <p>- <a href="/LTX/LythaiTG35">Chuyến Đi Xin Lỗi Thổ Dân ở Canada Của Giáo Hoàng Francis - Các trường nội trú của Canada là một hệ thống "diệt chủng văn hóa"</a> Lý Thái Xuân 27-Jul-2022</p>

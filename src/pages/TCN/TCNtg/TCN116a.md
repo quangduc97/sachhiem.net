@@ -3,20 +3,20 @@ layout: ../../../layouts/Article.astro
 title: "Vài Điều Mê Tín: Không Thể Hiểu Nổi"
 author: "Trần Chung Ngọc"
 date: 2011-12-03
-source: "https://sachhiem.net/null"
+source: "/null"
 category: "Tác giả"
 lang: vi
 wordCount: 9345
-image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nha.jpg"
+image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/TONGIAO/IMG/VATICAN/POPE/BenedictVI.jpg"
 ---
 
 <table border="0" align="center" cellpadding="1" width="80%" cols="2">
       <tbody><tr>
-        <td width="75"><a href="/index"><img border="0" src="https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nha.jpg"></a></td>
+        <td width="75"></td>
         <td valign="top" width="345"></td>
         </tr>
     </tbody></table>
-    <p><a href="https://sachhiem.net/TCN/TCNtg/TCN116.php">1</a> <a href="https://sachhiem.net/TCN/TCNtg/TCN116a.php"><b>2</b></a>  <a href="https://sachhiem.net/TCN/TCNtg/TCN116b.php">3</a></p>
+    <p><a href="/TCN/TCNtg/TCN116">1</a> <a href="/TCN/TCNtg/TCN116a"><b>2</b></a>  <a href="/TCN/TCNtg/TCN116b">3</a></p>
     <p><span class="First">4.</span> </p>
     <p class="TuaDoLeft"><i>Tin
       rằng, theo lời dạy của Giáo hội, Giáo hội Ca-tô là do Chúa con thành
@@ -304,7 +304,7 @@ image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nha.jpg"
         M. Graham. Đây chỉ là một đoạn tóm tắt một số sự kiện liên quan đến thực
         chất đạo đức của một số không nhỏ giáo hoàng. Muốn biết nhiều chi tiết
         hơn về vấn đề này, xin đọc <a href="https://giaodiemonline.com/2007/06/duccha.htm">https://giaodiemonline.com/2007/06/duccha.htm</a>,
-        bài “<i>Đây ! Những Đức Thánh Cha</i>”, hoặc trên: <a href="https://sachhiem.net/TCN/TCNtg/TCN20.php?content=showrecipe&amp;id=343">https://sachhiem.net/TCN/TCNtg/TCN20.php</a> </p>
+        bài “<i>Đây ! Những Đức Thánh Cha</i>”, hoặc trên: <a href="/TCN/TCNtg/TCN20.php?content=showrecipe&amp;id=343">https://sachhiem.net/TCN/TCNtg/TCN20.php</a> </p>
     <p><i>Chúng
           tôi thừa nhận rằng điều mà chúng tôi trình bày ở đây là chủ ý đưa ra
           hình ảnh một mặt, mặt đen tối và ô nhục. Lý do để đưa ra mặt này là
@@ -833,7 +833,7 @@ image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nha.jpg"
         địa phương đã phải bỏ ra từ 2 đến 3 tỷ Mỹ kim để bồi thường cho những
         nạn nhân tình dục của các CHÚA KITÔ THỨ HAI hay chính là CHÚA KI TÔ. </p>
     <p>Xin
-        đọc: <i><a href="https://sachhiem.net/TCN/TCNtg/TCN97.php">https://sachhiem.net/TCN/TCNtg/TCN97.php</a> </i>để
+        đọc: <i><a href="/TCN/TCNtg/TCN97">https://sachhiem.net/TCN/TCNtg/TCN97.php</a> </i>để
         biết chi tiết về vấn nạn các Linh mục loạn dâm và ấu dâm. </p>
     <p>Vậy
         không biết Tam Đoạn Luận sau đây có đúng hay không? </p>
@@ -855,6 +855,6 @@ image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nha.jpg"
     Ki Tô”, </i>nên các Ngài cũng như Chúa, không thể phạm những tội còn hơn
     là người thường nữa. Thật tội nghiệp cho những ai vẫn còn tin linh mục là
     “Chúa thứ hai” có quyền tha tội và hành tội các con chiên.
-    <p><a href="https://sachhiem.net/TCN/TCNtg/TCN116b.php">----- &gt;&gt;&gt;</a></p>
+    <p><a href="/TCN/TCNtg/TCN116b">----- &gt;&gt;&gt;</a></p>
 
 <hr>

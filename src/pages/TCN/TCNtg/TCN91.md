@@ -2,15 +2,15 @@
 layout: ../../../layouts/Article.astro
 title: "ĐẠO PHẬT - ĐẠO CHÚA ĐỐI CHIẾU"
 author: "Trần Chung Ngọc"
-source: "https://sachhiem.net/TCN/TCNtg/TCN91.php"
+source: "/TCN/TCNtg/TCN91"
 category: "Tác giả"
 lang: vi
 wordCount: 14567
-image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nha.jpg"
+image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/SACHNGOAI/Hinhanh/BIASACH/XratedBible.jpg"
 ---
 
 <table border="0" width="250" align="center">
-  <tbody><tr><td width="100"><a href="/index"><img border="0" src="https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nha.jpg"></a></td>
+  <tbody><tr><td width="100"></td>
        <td valign="top" width="150"><p>15 tháng 2,  2010</p></td></tr></tbody></table>
 	
 		<p><i>LTS: Thỉnh thoảng người ta nghe đâu đó một vài lời dè bĩu đối với những bài viết về các đạo Thiên Chúa, như của tác giả Trần Chung Ngọc, hay Nguyễn Mạnh Quang, đại khái như: "Đạo ai người nấy giữ, đạo đức nào cho phép phê bình đạo người ta." Mới nghe qua có vẻ chí lý ! Thật ra câu nói này đã có sẵn các "giả định" hay các tiền đề. Giá trị của câu nói đó bị đánh gục bởi tính cách dối trá của các giả định vì chúng quá xa rời với sự thật, và trở thành "phi lý". Giả định đầu tiên là "Các tôn giáo đều dạy ăn hiền ở lành", điều này chỉ đúng trong xã hội Đông Phương, thời tam giáo cổ truyền, lúc chưa có mặt các giáo sĩ Tây phương. Giả định thứ hai là "Những việc xấu của đạo Chúa có thật nhưng chỉ nằm trong lịch sử." Điều này cũng hoàn toàn sai. Ngày nào còn các bài giảng và hành động của các nhà truyền giáo nói xa xôi, bóng gió, hàm ý, hoặc trắng trợn tuyên bố những câu phản dân tộc, ngược với giá trị văn hóa, đạo đức thật sự, và lịch sử yêu nước của dân ta thì ngày đó cần có những bài viết vạch rõ âm mưu thâm độc để giữ gìn những nét đẹp nhân văn của truyền thống dân tộc. Sachhiem.net trân trọng kính mời độc giả cùng nghiên cứu với Giáo sư Trần Chung Ngọc trong bài đối chiếu tôn giáo sau đây. (SH)	</i> </p>
@@ -489,10 +489,10 @@ image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nha.jpg"
 	Tô Giáo cũng đã thành hình, và tín đồ được dạy là phải tin vào huyền thoại 
 	“cứu thế” và “cứu rỗi” của Giê-su. 
 	[Xin đọc bài “<i>Giê-su Như Là Đấng Cứu Thế: Một Hình Ảnh Cần Phải Dẹp Bỏ</i>”:
-	<a href="https://www.sachhiem.net/TCN/TCNtg/TCN37.php">
+	<a href="/TCN/TCNtg/TCN37">
 	https://www.sachhiem.net/ TCN/TCNtg/TCN37.php</a>, của Giám mục John Shelby 
 	Spong, và bài “<i>Huyền Thoại Cứu Rỗi</i>:
-	<a href="https://www.sachhiem.net/TCN/TCNtg/TCN36.php">
+	<a href="/TCN/TCNtg/TCN36">
 	https://www.sachhiem.net/TCN/TCNtg/TCN36.php</a>, của Linh Mục James 
 	Kavanaugh.] Dù sao thì Giê-su đã trở thành đối tượng thờ phụng của khoàng 
 	một phần ba dân số trên thế giới. Cho nên, trong mục đích đối chiếu giữa 
@@ -558,7 +558,7 @@ image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nha.jpg"
 	đủ trong Chương I của cuốn “<i><u>Chúa Giê-su Là Ai? Giảng Dạy Những Gì</u></i>?”, 
 	của tác giả Trần Chung Ngọc, Giao Điểm xuất bản năm 2002. Độc giả có thể 
 	đọc Chương này trên
-	<a href="https://www.sachhiem.net/TCN/TCNtg/Giesu/Giesulaai2.php">
+	<a href="/TCN/TCNtg/Giesu/Giesulaai2">
 	https://www.sachhiem. net/TCN/TCNtg/ Giesu/Giesulaai2.php</a>. </p>
 	
 	<p> Sự tiến bộ trí thức là một định luật thiên 

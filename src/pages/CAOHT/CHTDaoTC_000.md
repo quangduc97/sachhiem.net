@@ -2,15 +2,14 @@
 layout: ../../layouts/Article.astro
 title: "Đạo Thiên Chúa và Chủ Nghĩa Thực Dân -Tựa (Cao Huy Thuần)"
 author: "Cao Huy Thuần"
-source: "https://sachhiem.net/CAOHT/CHTDaoTC_000.php"
+source: "/CAOHT/CHTDaoTC_000"
 category: "Tác giả"
 lang: vi
 wordCount: 14861
-image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nha.jpg"
 ---
 
 <div class="indentLR50">
-<p align="center"><a href="https://sachhiem.net/index.php"><img border="0" hspace="20" src="https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nha.jpg"></a>
+<p align="center">
 	  30 tháng 11, 2008	</p>
  		<p class="MUC">PHẦN I: </p>
 		<p class="MUC">Đạo Thiên Chúa Và Sự Xâm Lăng Nam Kỳ</p>

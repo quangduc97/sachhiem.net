@@ -3,7 +3,7 @@ layout: ../../../layouts/Article.astro
 title: "Lịch sử có nợ gì Tướng Dương Văn Minh?"
 author: "Theo BBC.com"
 date: 2017-04-28
-source: "https://sachhiem.net/LICHSU/T/TinBBC_02.php"
+source: "/LICHSU/T/TinBBC_02"
 category: "Chính trị"
 lang: vi
 wordCount: 1556

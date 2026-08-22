@@ -3,7 +3,7 @@ layout: ../../../layouts/Article.astro
 title: "Không Thể Thương Thảo và Nhường Nhịn Được Nữa"
 author: "Đào Văn Bình"
 date: 2014-02-06
-source: "https://sachhiem.net/DAOVB/CT/DaovBinh11.php"
+source: "/DAOVB/CT/DaovBinh11"
 category: "Chính trị"
 lang: vi
 wordCount: 2852
@@ -53,4 +53,4 @@ image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/THOISU_CT/Hinh/PHILI
 <p class="TacgiaR"><i>Đào Văn Bình</i>  </p>
  <p align="right"><i>(California ngày 6/2/2014)</i></p>
  <p>____________________</p>
-   <p><a href="https://sachhiem.net/LICHSU/H/HoangSa_list.php">Các bài về Hoàng Sa- Trường Sa đăng trên sachhiem.net » </a></p>
+   <p><a href="/LICHSU/H/HoangSa_list">Các bài về Hoàng Sa- Trường Sa đăng trên sachhiem.net » </a></p>

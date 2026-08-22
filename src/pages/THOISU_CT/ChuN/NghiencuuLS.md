@@ -492,7 +492,7 @@ image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/LICHSU/IMG/HOCHIMINH
           <p><a href="/THOISU_CT/#comment-5352">Tháng Sáu 3, 2017 lúc 3:06 chiều</a></p>
           <p>Bài  viết là một tư liệu quí, công bằng</p>
           <p> Lịch sử có nhiều góc nhìn, phục vụ những mục đích chính trị khác nhau, nhưng ở  đây tác giả cho ta một góc nhìn chân thực về con người Hồ Chí Minh, điều đó  càng làm cho chúng ta trân trọng Bác hơn!</p>
-          <p><b> ● <a href="https://sachhiem.net/">Thức Văn</a> nói:</b></p>
+          <p><b> ● <a href="/">Thức Văn</a> nói:</b></p>
           <p><a href="/THOISU_CT/#comment-5466">Tháng Sáu 26, 2017 lúc 6:49 chiều</a></p>
           <p>Trong trào lưu mới, thê hệ trẻ bận bịu với sự cập nhật về kiến  thức kỹ thuật để hội nhập với thế giới nên không còn thời gian để hiểu biết  lịch sử của một thời đáng ghi nhớ nhất trong cuộc đời làm người Việt Nam. Bài  viết này phân tích từng đường tơ kẻ tóc đã làm nên một nhân vật lịch sử mà cả  thế giới đều thán phục.</p>
           <p> Chẳng lẽ cả thế giới biết mà con dân Việt Nam lại không biết?</p>

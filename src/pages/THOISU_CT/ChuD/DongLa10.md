@@ -3,7 +3,7 @@ layout: ../../../layouts/Article.astro
 title: "Phạm Xuân Nguyên Dốt Ngang Nguyễn Thị Liên Hằng"
 author: "Đông La"
 date: 2024-10-29
-source: "https://sachhiem.net/THOISU_CT/ChuD/DongLa10.php"
+source: "/THOISU_CT/ChuD/DongLa10"
 category: "Chính trị"
 lang: vi
 wordCount: 774

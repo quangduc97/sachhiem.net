@@ -3,7 +3,7 @@ layout: ../../../layouts/Article.astro
 title: "Chuyên gia này cần phải học thêm -"
 author: "Mike Wilson"
 date: 2018-05-04
-source: "https://sachhiem.net/THOISU_CT/ChuM/MikeWilson_20.php"
+source: "/THOISU_CT/ChuM/MikeWilson_20"
 category: "Chính trị"
 lang: vi
 wordCount: 2257

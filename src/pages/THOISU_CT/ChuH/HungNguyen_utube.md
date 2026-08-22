@@ -3,7 +3,7 @@ layout: ../../../layouts/Article.astro
 title: "Những Cuộc Chiến Vì \"Dân Chủ, Nhân Quyền\""
 author: "Hùng Nguyễn"
 date: 2017-09-12
-source: "https://sachhiem.net/THOISU_CT/ChuH/HungNguyen_utube.php"
+source: "/THOISU_CT/ChuH/HungNguyen_utube"
 category: "Chính trị"
 lang: vi
 wordCount: 2921

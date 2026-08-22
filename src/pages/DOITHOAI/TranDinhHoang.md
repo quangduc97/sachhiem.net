@@ -2,7 +2,7 @@
 layout: ../../layouts/Article.astro
 title: "Cáo buộc vô cớ và thiên vị trong truyền thông"
 author: "Trần Đình Hoàng"
-source: "https://sachhiem.net/theo Ý Kiến Ngắn Talawas 08Feb08"
+source: "/theo Ý Kiến Ngắn Talawas 08Feb08"
 category: "Đối thoại"
 lang: vi
 wordCount: 1322
@@ -38,7 +38,7 @@ image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nhacu.jpg"
 	
 	<div style="padding-left: 40px; padding-right: 40px">
 		<table border="0" cellpadding="10" width="100%" cols="3"><tbody><tr>
-<td><a href="https://sachhiem.net/"><img border="0" src="https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nhacu.jpg" width="49" height="20"></a></td>
+<td><a href="/"><img border="0" src="https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nhacu.jpg" width="49" height="20"></a></td>
 	<td valign="top"><i><a href="/DOITHOAI/#" onclick="location.href='https://sachhiem.net/BIA/sendafriend.php?url='+location.href;">
 	<font size="2">
 	<img src="https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/DOITHOAI/file:///C:/SACHHIEM/images/mail.gif" border="0"> 

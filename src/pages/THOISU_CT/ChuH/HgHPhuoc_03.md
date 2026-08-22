@@ -3,7 +3,7 @@ layout: ../../../layouts/Article.astro
 title: "Việt Nam Kiện Trung Quốc Ra Tòa án The Hague?"
 author: "Hoàng Hữu Phước, MIB"
 date: 2016-05-22
-source: "https://sachhiem.net/THOISU_CT/ChuH/HgHPhuoc_03.php"
+source: "/THOISU_CT/ChuH/HgHPhuoc_03"
 category: "Chính trị"
 lang: vi
 wordCount: 2692

@@ -2,14 +2,14 @@
 layout: ../../../layouts/Article.astro
 title: "Lại là thầy Thích Không Tánh"
 author: "Nguyễn Trí Cảm"
-source: "https://sachhiem.net/TONGIAO/NGTRCAM/NguyenTriCam22.php"
+source: "/TONGIAO/NGTRCAM/NguyenTriCam22"
 category: "Tác giả"
 lang: vi
 wordCount: 1331
-image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nha.jpg"
+image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/TONGIAO/IMG/CHUA/TKT_cuutro.jpg"
 ---
 
-<p align="center"><a href="https://sachhiem.net/index.php"><img hspace="20" border="0" src="https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nha.jpg"></a>  14 tháng 11, 2010 
+<p align="center">  14 tháng 11, 2010 
 	</p>
 			<p>&nbsp;<span class="First">Đ</span>ọc trên các trang điện tử những 
 			thông tin liên quan đến lời phát biểu gây bức xúc cho Phật tử của thầy Thích Không Tánh 

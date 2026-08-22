@@ -3,7 +3,7 @@ layout: ../../../layouts/Article.astro
 title: "Người Việt Ở Úc Biểu Tình Phản Đối Trung Quốc Xâm Lược Việt Nam"
 author: "H.V.Thảo/Tre Làng"
 date: 2014-05-18
-source: "https://sachhiem.net/THOISU_CT/ChuTr/Trelang.php"
+source: "/THOISU_CT/ChuTr/Trelang"
 category: "Tác giả"
 lang: vi
 wordCount: 398

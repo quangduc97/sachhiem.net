@@ -3,7 +3,7 @@ layout: ../../../layouts/Article.astro
 title: "Xung Quanh Chuyện Quy Tập Hài Cốt Liệt Sỹ Ở Công Viên Lê Thị Riêng:"
 author: "Nguyễn Quang Chánh"
 date: 2026-07-24
-source: "https://sachhiem.net/LICHSU/N/NguyenQuangChanh17.php"
+source: "/LICHSU/N/NguyenQuangChanh17"
 category: "Lịch sử"
 lang: vi
 wordCount: 1313

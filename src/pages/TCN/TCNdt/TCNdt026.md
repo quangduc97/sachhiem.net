@@ -6,11 +6,11 @@ source: "https://www.tiengnoigiaodan.net/anews09/0901_039.html"
 category: "Đối thoại"
 lang: vi
 wordCount: 9440
-image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.devhttps://sachhiem.net/images/nha.jpg"
+image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/Next.gif"
 ---
 
 <table border="0" width="250" align="center">
-    <tbody><tr><td width="106"><a href="https://sachhiem.net/index.php"><img border="0" src="https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.devhttps://sachhiem.net/images/nha.jpg"></a>    </td> <td valign="top" style="text-align:right">ngày 18 tháng 1, 2009</td></tr></tbody></table> 	
+    <tbody><tr><td width="106">    </td> <td valign="top" style="text-align:right">ngày 18 tháng 1, 2009</td></tr></tbody></table> 	
 <p><i>LTS: Để thích ứng với những thế tấn công văn hóa mỗi ngày một mới mẻ và đa dạng, những mảnh nhung bọc quanh các bàn tay sắt của Ca-tô giáo La Mã mỗi ngày một đổi màu để mời mọc và rồi sẽ siết cứng dân ta vào tròng của họ. Bằng một thái độ nghiêm túc, bằng những lý luận sắc bén, bằng những công trình nghiên cứu đứng đắn, và bằng một trái tim trong lòng dân tộc, tác giả Trần Chung Ngọc đã nêu lên những vấn đề trọng đại liên quan đến hệ thống Giáo Hội Công Giáo Việt Nam. Tuy không nhắc lại trong bài này, tác giả sẵn sàng đón nhận những lời chỉ giáo của độc giả nếu được trình bày bằng một thái độ nghiêm chỉnh và tương kính.</i> </p>
 <i><p>Phần trình bày cho đề tài này khá dài nên tòa soạn xin phép tóm lược dàn bài như sau để dễ theo dõi:</p>
 <p>- <a href="/TCN/#0">Vào bài </a> </p>
@@ -64,7 +64,7 @@ cũng là những “sản phẩm trí tuệ” từ cùng một cái xưởng n
 sao?  Vì trao phó trách nhiệm cho Nguyễn Anh Tuấn nhưng lại không đủ “trí tuệ” 
 để biết Nguyễn Anh Tuấn đã viết những gì trong đó, và cứ thế đưa lên 
 tiengnoigiaodan.net.  Tôi đã phê bình bài của Nguyễn Anh Tuấn, đọc giả nào tò mò 
-muốn biết xin vào đọc: <a href="https://sachhiem.net/TCN/TCNdt/TCNdt5.php">
+muốn biết xin vào đọc: <a href="/TCN/TCNdt/TCNdt5">
 https://sachhiem.net/TCN/TCNdt/TCNdt5.php</a><i>  </i>[Phê bình Sản Phẩm Trí Tuệ của 
 Nguyễn Anh Tuấn].  Và bây giờ, Chu Tấn đã tiếp nối “sản phẩm trí tuệ” của Nguyễn 
 Anh Tuấn bằng “sản phẩm trí tuệ” của mình qua bài “Nền Tảng Hòa Đồng Tôn Giáo”.
@@ -189,7 +189,7 @@ sau đây, nhân dịp ôn lại một chút lịch sử:</p>
 nữa, <u>Giáo hội Công giáo là một giáo hội “Việt gian” theo nghĩa đã làm tay sai 
 cho thực dân Pháp để đưa nước nhà vào vòng nô lệ của Pháp trong gần 100 năm.</u>  
 Điều này tôi đã chứng minh tạm gọi là đầy đủ trong cuốn <i>“Công Giáo Chính Sử”,</i> 
-Chương 8:<br>    &nbsp;<a href="https://sachhiem.net/TCN/TCNtg/CGchinhsu/CGCS8.php">https://sachhiem.net/TCN/TCNtg/CGchinhsu/CGCS8.php</a> với khá nhiều tài liệu.</p>
+Chương 8:<br>    &nbsp;<a href="/TCN/TCNtg/CGchinhsu/CGCS8">https://sachhiem.net/TCN/TCNtg/CGchinhsu/CGCS8.php</a> với khá nhiều tài liệu.</p>
 <p>   Tôi đã đưa ra một tài liệu điển hình có tính cách khẳng 
 định sau đây của chính Giám mục Puginier, được trích dẫn trong cuốn <i>
 Catholicisme et Sociétes Asiatiques</i> của Alain Forrest và Yoshiharu Tsuboi:

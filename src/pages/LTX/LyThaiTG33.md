@@ -3,7 +3,7 @@ layout: ../../layouts/Article.astro
 title: "Giáo Hội La Mã Lấy Ngày Lễ Hội Mùa Xuân Làm Lễ Phục Sinh"
 author: "Lý Thái Xuân"
 date: 2022-03-21
-source: "https://sachhiem.net/LTX/LythaiTG33.php"
+source: "/LTX/LythaiTG33"
 category: "Tác giả"
 lang: vi
 wordCount: 3699
@@ -68,7 +68,7 @@ image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/XAHOI/IMG/HOLIDAY/No
  <p>Do muốn thành công với giai cấp Bà la môn, NOBLILI kiên trì học tiếng Phạn (Sanskrit), Tegulu, Tamul, nghiên cứu triết học huyền bí, phục sức như một ẩn sĩ, ngồi thiền và ăn mặc như một sa môn, đeo dây Samyasi, có ba dây mà ngài cho là tượng trưng <i>"Chúa Ba Ngôi."</i>&nbsp;(website&nbsp;<a href="https://antontruongthang.com/tim-hieu-lich-su-cong-giao-tai-viet-nam/chuong-ba-kinh-nghiem-truyen-giao-tai-an-do-nhat-ban-va-trung-quoc/">https://antontruongthang.com</a>) </p>
  <p>Rốt cuộc thì sao? Nếu thực sự các nhà truyền giáo này linh hoạt uyển chuyển thì tại sao ngày nay không có một người nào đạo Công Giáo La Mã theo phong tục văn hóa của xứ sở tại? Câu trả lời là tất cả việc họ bắt chước theo văn hóa địa phương đều  là phương tiện chứ không phải là mục đích. Mục đích thực sự là để cải đạo ngược lại cho dân bản địa theo Công giáo La Mã mà thôi. Thành công hay không thì là vấn đề khác.</p>
  <p>Ở Việt Nam, sau mấy trăm năm truyền đạo không gặt hái nhiều thành quả mong muốn, Vatican đã phải chuyển mình như con rắn. Từ việc nới rộng các giáo luật như cho phép tham dự lễ giỗ bên ngoại, ăn đồ cúng, cho đến bắt chước các phương thức thực hành của tôn giáo địa phương, như "thiền định" chẳng hạn. Dần dần các con chiên  tuyên bố những việc thực hành đó là "của đạo Công Giáo" nữa. </p>
- <p>Mới 7 năm trước, một con chiên tên Bình Nguyễn viết bài phản đối các Chùa làm lễ cưới, cấm các chùa cho hát nhạc, cấm các nữ tu Phật giáo không được đội khăn như "ma sơ" (xem <a href="https://sachhiem.net/LTX/LyThaiDT02.php">"Phản Hồi Nick Bình Nguyễn Đừng Bắt Chước Công Giáo</a>" cùng tác giả Lý Thái Xuân). Trong tương lai gần, họ sẽ "cấm" các chùa mở lớp dạy "Thiền" thì các chùa chỉ còn cách cải đạo theo Chúa thì mới yên!</p>
+ <p>Mới 7 năm trước, một con chiên tên Bình Nguyễn viết bài phản đối các Chùa làm lễ cưới, cấm các chùa cho hát nhạc, cấm các nữ tu Phật giáo không được đội khăn như "ma sơ" (xem <a href="/LTX/LyThaiDT02">"Phản Hồi Nick Bình Nguyễn Đừng Bắt Chước Công Giáo</a>" cùng tác giả Lý Thái Xuân). Trong tương lai gần, họ sẽ "cấm" các chùa mở lớp dạy "Thiền" thì các chùa chỉ còn cách cải đạo theo Chúa thì mới yên!</p>
  <p>___________</p>
  <p><b>Tham khảo:</b></p>
  <p>1.  Easter, trang <a href="https://www.britannica.com/topic/Easter-holiday">britannica.com</a></p>

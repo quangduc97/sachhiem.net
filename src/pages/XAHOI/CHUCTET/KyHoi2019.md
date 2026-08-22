@@ -3,7 +3,7 @@ layout: ../../../layouts/Article.astro
 title: "Chúc Mừng Năm Mới 2019"
 author: "Trang Nhà và Thân Hữu"
 date: 2019-02-03
-source: "https://sachhiem.net/XAHOI/CHUCTET/KyHoi2019.php"
+source: "/XAHOI/CHUCTET/KyHoi2019"
 lang: vi
 wordCount: 384
 image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/CHUCTET/2019/Thiep.JPG"

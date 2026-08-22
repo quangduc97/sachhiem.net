@@ -3,7 +3,7 @@ layout: ../../../layouts/Article.astro
 title: "ĐƠN TỐ CÁO Số 4: Tỉnh Dòng Ngôi Lời Việt Nam Lạm Dụng Trẻ Mồ Côi Để Kiếm Tiền"
 author: "Phan thị Kim Thoa"
 date: 2024-03-14
-source: "https://sachhiem.net/TONGIAO/FB/FBThoaKimPhan4.php"
+source: "/TONGIAO/FB/FBThoaKimPhan4"
 category: "Tác giả"
 lang: vi
 wordCount: 1669

@@ -3,7 +3,7 @@ layout: ../../../layouts/Article.astro
 title: "Các Bác Cờ Vàng Nên Cám Ơn Việt Cộng?"
 author: "Giang Thượng"
 date: 2021-05-03
-source: "https://sachhiem.net/THOISU_CT/ChuG/GiangThuong_304.php"
+source: "/THOISU_CT/ChuG/GiangThuong_304"
 category: "Lịch sử"
 lang: vi
 wordCount: 4639

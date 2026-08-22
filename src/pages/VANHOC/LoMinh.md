@@ -2,11 +2,11 @@
 layout: ../../layouts/Article.astro
 title: "Hoài Ngô"
 author: "Lộ Minh"
-source: "https://sachhiem.net/null"
+source: "/null"
 category: "Văn hóa"
 lang: vi
 wordCount: 256
-image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nha.jpg"
+image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/LICHSU/IMG/NGODD/NgoDDchet.jpg"
 ---
 
 <div align="center" style="position: relative; left: 0; top: 0">
@@ -22,8 +22,7 @@ image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nha.jpg"
 		<table border="0" cellpadding="10" width="600">
 			<tbody><tr>
 				<td>
-				<a href="/index">
-				<img border="0" src="https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nha.jpg"></a></td>
+				</td>
 				<td valign="top" style="text-align:right"><i><font size="2">25 tháng 10, 2010 </font></i></td>
 			</tr></tbody></table> 
 		

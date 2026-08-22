@@ -3,7 +3,7 @@ layout: ../../../layouts/Article.astro
 title: "Lịch Sử Nước Ta"
 author: "Hồ Chí Minh/ Thivien.net"
 date: 2025-11-05
-source: "https://sachhiem.net/LICHSU/HOCHIMINH_TT/LichSuNuocTa.php"
+source: "/LICHSU/HOCHIMINH_TT/LichSuNuocTa"
 category: "Lịch sử"
 lang: vi
 wordCount: 2018
@@ -267,7 +267,7 @@ Trên vì nước, dưới vì nhà, <br>
    <p> [Thông tin 2 nguồn tham khảo đã được ẩn]</p>
    <p>___________&nbsp;</p>
   <p><b>Đọc thêm:</b></p>
- <p>- <a href="https://sachhiem.net/LICHSU/HOCHIMINH_TT/HoiDongXuatBan.php">Hồ Chí Minh Toàn Tập</a></p>
+ <p>- <a href="/LICHSU/HOCHIMINH_TT/HoiDongXuatBan">Hồ Chí Minh Toàn Tập</a></p>
 
  
  <p class="nguonL">Nguồn: <a href="https://www.thivien.net/H%E1%BB%93-Ch%C3%AD-Minh/L%E1%BB%8Bch-s%E1%BB%AD-n%C6%B0%E1%BB%9Bc-ta/poem-NjHZhJYtu1u28vSkEmRsug">Báo điện tử Thi Viện</a> </p>

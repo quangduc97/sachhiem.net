@@ -2,15 +2,15 @@
 layout: ../../../layouts/Article.astro
 title: "Tìm Hiểu Hư Thực “Saigon et moi” do Vũ Hải Hồ Dịch Thuật"
 author: "Nguyễn Trần Việt"
-source: "https://sachhiem.net/LICHSU/N/Nguyentranviet.php"
+source: "/LICHSU/N/Nguyentranviet"
 category: "Lịch sử"
 lang: vi
 wordCount: 5977
-image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nha.jpg"
+image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/SACHNGOAI/Hinhanh/BIASACH/Merillon_SaigonetMoi.jpg"
 ---
 
 <table border="0" cellpadding="1" align="center" width="250">
-        <tbody><tr><td width="100"><a href="/index"><img border="0" src="https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nha.jpg"></a></td>
+        <tbody><tr><td width="100"></td>
 		<td valign="top" width="194">06 tháng 6, 2009	</td></tr>
 </tbody></table>
 <p><span class="First">N</span>hư chúng ta đã biết, kể từ sau ngày 30 tháng 4
@@ -448,5 +448,5 @@ image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nha.jpg"
 
 <p><a name="endSH" href="/LICHSU/#SH">(*) </a> <b>Chú thích của SH:</b></p>
 <p> Có lẽ phải đọc là B29 (thay vì B52).
-    Xin đọc thư ngắn:<a href="/LICHSU/N/index.php?content=showemail&amp;id=110"> "Tìm Hiểu Hư Thực “Saigon et moi” .... - Kiểm chứng: B-29 thay vì B-52"</a> - <i>Dương
+    Xin đọc thư ngắn:<a href="/hop-thu/110"> "Tìm Hiểu Hư Thực “Saigon et moi” .... - Kiểm chứng: B-29 thay vì B-52"</a> - <i>Dương
     Quân </i>- </p>

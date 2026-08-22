@@ -2,11 +2,11 @@
 layout: ../../../layouts/Article.astro
 title: "Tín ngưỡng và khoa học như là hai mặt của đời sống"
 author: "Nhà báo Phan Thế Hải"
-source: "https://sachhiem.net/null"
+source: "/null"
 category: "Khoa học"
 lang: vi
 wordCount: 2959
-image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nha.jpg"
+image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/IMG/VATICAN/INQUI/CGHS1.gif"
 ---
 
 <div align="center" style="position: relative; left: 0; top: 0">
@@ -24,8 +24,7 @@ image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nha.jpg"
 <tr> <td width="100%"> 
 	<div style="padding-left: 50px; padding-right: 50px">
 		<table border="0" cellpadding="10" width="600" cols="2"><tbody><tr>
-		<td><a href="/index">
-		<img border="0" src="https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nha.jpg"></a></td>
+		<td></td>
 		<td valign="top" style="text-align:right">đăng 30 tháng 5, 2010</td></tr></tbody></table>
 		<p><i>LTS: Một thân hữu gửi cho sachhiem.net một bài viết đề cao tôn giáo dưới hình thức phỏng vấn. Nhận thấy đây là một ý kiến khá chủ quan về tôn giáo của một nhà khoa học, một lãnh vực mà chính ông không biết nhiều. Do đó có thể có nhiều chỗ 
 		ngộ nhận và cần những ý kiến bổ túc từ các bạn đọc khác. Xin đơn cử một thí dụ, đối với ý kiến   "...những khuyết tật của họ phải được phát hiện bằng lương tri chứ không phải bằng khoa học" nghe rất hợp lý, nhưng câu nói lấp lửng như thế đã hàm chứa một sự liên kết hấp tấp và sự đồng hóa thiếu minh chứng:  "lương tri" và "tôn giáo". Có đúng tôn giáo tạo ra hay nuôi dưỡng lương tri hay không?  </i> </p>

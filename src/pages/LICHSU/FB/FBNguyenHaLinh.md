@@ -3,7 +3,7 @@ layout: ../../../layouts/Article.astro
 title: "Yêu Cầu Sở Văn Hóa Tp HCM Thu Hồi Giấy Phép Tôn Vinh Lê Văn Duyệt"
 author: "Nguyễn Hà Linh"
 date: 2024-04-05
-source: "https://sachhiem.net/LICHSU/FB/FBNguyenHaLinh.php"
+source: "/LICHSU/FB/FBNguyenHaLinh"
 category: "Chính trị"
 lang: vi
 wordCount: 5209
@@ -81,11 +81,11 @@ image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/LICHSU/IMG/LAT_SU/LV
  <p><b>Nhận định của SH:</b></p>
  <p>Thế lực nào đã mang Lê văn Duyệt và các thành phần đem giặc vào nước để vinh danh? Thưa, câu trả lời nằm trong bài viết của một trang CGLM: </p>
  <p align="center"><img src="https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/LICHSU/IMG/LAT_SU/LeVanDuyet_CG.jpg" width="100%" alt=""></p>
- <p>Trong bài viết của Lão Chăn Bò <a href="https://sachhiem.net/LICHSU/L/LaoChanBo03.php">(Quảng Ngãi Không Thể Đặt Tên Đường Lê Văn Duyệt!)</a>, có đoạn tóm tắt nhận xét nhân vật Lê văn Duyệt như sau: <i>Khi Gia Long qua đời, Lê Văn Duyệt bất phục vua Minh Mạng, đi ngược chính sách triều đình. Minh Mạng lấy <b>nho học làm nền tảng,</b> trong khi đó Lê Văn Duyệt chủ trương thân thiện với người Pháp, Anh, <b>cổ súy cho việc truyền bá đạo Công giáo</b>.</i></p>
+ <p>Trong bài viết của Lão Chăn Bò <a href="/LICHSU/L/LaoChanBo03">(Quảng Ngãi Không Thể Đặt Tên Đường Lê Văn Duyệt!)</a>, có đoạn tóm tắt nhận xét nhân vật Lê văn Duyệt như sau: <i>Khi Gia Long qua đời, Lê Văn Duyệt bất phục vua Minh Mạng, đi ngược chính sách triều đình. Minh Mạng lấy <b>nho học làm nền tảng,</b> trong khi đó Lê Văn Duyệt chủ trương thân thiện với người Pháp, Anh, <b>cổ súy cho việc truyền bá đạo Công giáo</b>.</i></p>
  <p align="center"><img src="https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/Decor_chr300.jpg" width="194" height="185" alt=""></p>
  <p align="center">____________</p>
  <p align="center"><b>Bài đọc thêm:</b></p>
- <p>- <a href="https://sachhiem.net/LICHSU/L/LaoChanBo03.php">Quảng Ngãi Không Thể Đặt Tên Đường Lê Văn Duyệt!</a> của Lão Chăn Bò, đăng ngày 26/2/2023. Xin đính kèm để tiện việc tham khảo.</p>
+ <p>- <a href="/LICHSU/L/LaoChanBo03">Quảng Ngãi Không Thể Đặt Tên Đường Lê Văn Duyệt!</a> của Lão Chăn Bò, đăng ngày 26/2/2023. Xin đính kèm để tiện việc tham khảo.</p>
  <p>.<i>..Duyệt rắp tâm nhào nặn hậu duệ của Cảnh lên ngôi để dễ bề thao túng, nhằm thực hiện ý đồ đưa "đế quốc về cai trị", giống như sử gia McLeod miêu tả. Tư tưởng bán nước ăn sâu vào con người Duyệt như thế là thứ công gì ?...</i></p>
  <p><span class="First">T</span>rong những năm gần đây, một số địa phương đã có nhiều động thái  tri ân Lê Văn Duyệt, vị đại thần triều Nguyễn, người có công lớn (cùng với Lê  Văn Thành) giúp Nguyễn Ánh thắng quân Tây Sơn, thành lập vương triều nhà  Nguyễn. Thành phố Hồ Chí Minh hiện đã tổ chức lễ giỗ Lê Văn Duyệt hàng năm theo  nghi thức cấp cao nhất (có cả Bí thư, Chủ tịch cùng tham dự lễ dâng hương, cúng  bái...). Mới đây, Báo Thanh Niên vừa có bài đề xuất tỉnh Quảng Ngãi đặt tên  đường Lê Văn Duyệt. Xin có đôi lời như sau:</p>
  <p>Lê Văn Duyệt theo Nguyễn Ánh từ những ngày đầu. Nếu như Gia Long  được xem là chúa tể <i>“cõng rắn cắn gà nhà/rước voi giày mả tổ</i>” thì Lê Văn Duyệt,  Nguyễn Văn Thành, Nguyễn Huỳnh Đức… là những trợ thủ đắc lực cho tay cầm đầu ấy.  Sau khi Nguyễn Ánh thắng Tây Sơn, Lê Văn Duyệt là trợ thủ đắc lực đàn áp nhân  dân chống lại lao dịch, thuế khoá nặng nề do chính sách của Gia Long mà điển  hình chính là vùng đất phía Tây Quảng Ngãi ngày nay. Chính Lê Văn Duyệt đã cầm  quân nhà Nguyễn<b> tàn sát những người nông dân khởi nghĩa, chống lại sưu cao,  thuế nặng của Gia Long. </b></p>

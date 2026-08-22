@@ -3,7 +3,7 @@ layout: ../../../layouts/Article.astro
 title: "Có Ai Đánh Sập Một Tôn Giáo ?"
 author: "Cao Hữu Tâm"
 date: 2013-10-31
-source: "https://sachhiem.net/TONGIAO/tgC/Caohtam_ts.php"
+source: "/TONGIAO/tgC/Caohtam_ts"
 category: "Tác giả"
 lang: vi
 wordCount: 4411

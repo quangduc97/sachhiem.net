@@ -3,7 +3,7 @@ layout: ../../layouts/Article.astro
 title: "Bồi Đắp Văn Hoá Và Bảo Toàn Những Giá Trị Tinh Khôi"
 author: "Cao Huy Thuần"
 date: 2013-04-21
-source: "https://sachhiem.net/CAOHT/CHT3.php"
+source: "/CAOHT/CHT3"
 category: "Tác giả"
 lang: vi
 wordCount: 2545

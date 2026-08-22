@@ -3,7 +3,7 @@ layout: ../../../layouts/Article.astro
 title: "Thư Ngỏ Gửi"
 author: "Nguyễn Sâm"
 date: 2013-03-04
-source: "https://sachhiem.net/TONGIAO/tgN/Nguyensam0.php"
+source: "/TONGIAO/tgN/Nguyensam0"
 category: "Đối thoại"
 lang: vi
 wordCount: 2032
@@ -33,7 +33,7 @@ image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/TONGIAO/IMG/LINHMUC/
 <p>
  Năm  2010 tôi lại thấy, Giáo Hội xin giấy phép xuất bản 5 cuốn Kinh Cựu Ước (Ngũ  Kinh), trong đó chứa đựng những lời dạy không có nhân tính của Chúa Trời mà một  cựu con chiên như tôi đã từng được dạy là Chúa “<i>Lòng Lành Vô Cùng</i>”.</p>
 <p>
- Còn  Giáo Hội Tin Lành mới bám rễ trên quê hương Việt Nam, sau Công Giáo, mà cũng đã  có những hành động hùng hổ, ngạo mạn, sát khí và xem thường luật pháp quốc  gia, được biểu lộ trong <a href="https://sachhiem.net/index.php?content=showrecipe&amp;id=761"> “<i>Tuyên Ngôn Thuộc  Linh</i> </a>” do hai Mục sư Trần Văn Đích và Phượng đọc tại sân Vận động Mỹ đình Hà Nội, lễ Noel 2009: <i>“Dân tộc Việt Nam chắc chắn thuộc về Đức Chúa Trời. Mọi  xiềng xích tội lỗi và rủa sả của các thế hệ trước đã bị tuyên bố cắt đứt, hình  ảnh con rồng, tức con rắn xưa là ma quỷ kể từ nay không còn tiếp tục được ảnh  hưởng trên dân tộc Việt Nam”</i> (Mỹ Đình, 20.12.2009), [Ngụ ý, Huyền thoại “<i>Con Rồng Cháu Tiên”</i>. Rồng là rắn, là ma  quỷ. Mà ma quỷ thì phải tiêu diệt. Nhưng hai vị, nào có biết hoặc không cần  biết Chúa Trời theo Thánh Kinh giống ai? NS]. Xem <a href="https://sachhiem.net/index.php?content=showrecipe&amp;id=761">https://sachhiem.net/index.php?content=showrecipe&amp;id=761</a></p>
+ Còn  Giáo Hội Tin Lành mới bám rễ trên quê hương Việt Nam, sau Công Giáo, mà cũng đã  có những hành động hùng hổ, ngạo mạn, sát khí và xem thường luật pháp quốc  gia, được biểu lộ trong <a href="/EMAILS/emailN/Nguyen"> “<i>Tuyên Ngôn Thuộc  Linh</i> </a>” do hai Mục sư Trần Văn Đích và Phượng đọc tại sân Vận động Mỹ đình Hà Nội, lễ Noel 2009: <i>“Dân tộc Việt Nam chắc chắn thuộc về Đức Chúa Trời. Mọi  xiềng xích tội lỗi và rủa sả của các thế hệ trước đã bị tuyên bố cắt đứt, hình  ảnh con rồng, tức con rắn xưa là ma quỷ kể từ nay không còn tiếp tục được ảnh  hưởng trên dân tộc Việt Nam”</i> (Mỹ Đình, 20.12.2009), [Ngụ ý, Huyền thoại “<i>Con Rồng Cháu Tiên”</i>. Rồng là rắn, là ma  quỷ. Mà ma quỷ thì phải tiêu diệt. Nhưng hai vị, nào có biết hoặc không cần  biết Chúa Trời theo Thánh Kinh giống ai? NS]. Xem <a href="/EMAILS/emailN/Nguyen">https://sachhiem.net/index.php?content=showrecipe&amp;id=761</a></p>
 <p align="center"><iframe width="480" height="270" src="https://www.youtube.com/embed/CuADMaTbLdA" frameborder="0" allowfullscreen=""></iframe></p>
 <p> Dưới  đây là vài tóm lược trong vô số những lời dạy tàn bạo khủng khiếp của Chúa  trong Cựu Ước để quý ngài gợi nhớ <a name="one" href="/TONGIAO/#none">(1)</a>: </p>
 <p><b><i>-  Phục Truyền luật lệ ký </i>[Chương12, đoạn 2-7]</b> dạy:<i> Phải vằm nát và đốt tất cả những nơi thờ tự của  những kẻ ngoại đạo, phá bỏ tất cả những ông Thần mà họ thờ… </i></p>
@@ -67,7 +67,7 @@ image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/TONGIAO/IMG/LINHMUC/
  Vài bài liên hệ đến Thư Ngỏ nầy, được  viết bởi các tác giả khác, tôi kèm theo links để rộng đường dư luận:</p>
 <p> - <i><a href="https://tongiaovadantoc.com/c1043/20110402151913149/phan-i-khao-cuu-thanh-kinh-cuu-uoc.htm">Phần I: Khảo cứu Thánh kinh Cựu ước </a></i> (Hồng Ngọc)</p>
 <p> <i>- <a href="https://tongiaovadantoc.com/c1043/20110402152407540/phan-ii-khao-cuu-thanh-kinh-tan-uoc.htm">Phần II: Khảo cứu Thánh kinh Tân ước </a></i>(Hồng Ngọc)</p>
-<p> <i>- <a href="https://www.sachhiem.net/index.php?content=showrecipe&amp;id=5546">Kinh Thánh hay Kinh Ác </a></i> (Evilbible.com)</p>
+<p> <i>- <a href="/TONGIAO/tgS/SH38">Kinh Thánh hay Kinh Ác </a></i> (Evilbible.com)</p>
 <p>
  <b>&nbsp;*Email</b>: <i>web@hdgmvietnam.org, hanoichurch@yahoo.com , tintuc@hoithanh.com</i></p>
 
@@ -85,6 +85,6 @@ image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/TONGIAO/IMG/LINHMUC/
 
 <p><b>Bài đọc thêm</b></p>
      <p>- <a href="/DOITHOAI/Nguyensam">Thảo Luận: Thánh Kinh Và Giá Trị Đạo Đức -Nhân Lá Thư Của Mục Sư Nguyễn Quang Minh </a></p>
-     <p>- <a href="https://sachhiem.net/TONGIAO/tgT/TinFox.php">Các Nhà Chức Trách Hồng Kông Toan Tính Xếp Kinh Thánh Vào Loại Phi Luân,  https://sachhiem.net/TONGIAO/tgT/TinFox.php</a></p>
+     <p>- <a href="/TONGIAO/tgT/TinFox">Các Nhà Chức Trách Hồng Kông Toan Tính Xếp Kinh Thánh Vào Loại Phi Luân,  https://sachhiem.net/TONGIAO/tgT/TinFox.php</a></p>
 ___________________
-<p>Các bài của Nguyễn Sâm: link <a href="https://sachhiem.net/TONGIAO/tgN/ListNSm.inc.php" target="_blank">https://sachhiem.net/TONGIAO/tgN/ListNSm.inc.php</a></p>
+<p>Các bài của Nguyễn Sâm: link <a href="/TONGIAO/tgN/ListNSm.inc" target="_blank">https://sachhiem.net/TONGIAO/tgN/ListNSm.inc.php</a></p>

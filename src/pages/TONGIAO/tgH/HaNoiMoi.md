@@ -2,7 +2,7 @@
 layout: ../../../layouts/Article.astro
 title: "Ông Kiệt thuộc về đâu trong thế giới này?"
 author: "Phóng Viên HNM"
-source: "https://sachhiem.net/nguồn https://www.hanoimoi.com.vn/vn/41/181179/"
+source: "/nguồn https://www.hanoimoi.com.vn/vn/41/181179/"
 category: "Tác giả"
 lang: vi
 wordCount: 2231
@@ -35,7 +35,7 @@ image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nhacu.jpg"
 	<tbody><tr><td bgcolor="White" align="justify" valign="top">
 
 <table border="0" cellpadding="10" width="100%" cols="3"><tbody><tr>
-<td><a href="https://sachhiem.net/"><img border="0" src="https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nhacu.jpg" width="49" height="20"></a></td>
+<td><a href="/"><img border="0" src="https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nhacu.jpg" width="49" height="20"></a></td>
 
 	<td valign="top" style="text-align:right">	<font size="2">20/9/2008 - bổ túc ngày 21/9/2008
 			</font>

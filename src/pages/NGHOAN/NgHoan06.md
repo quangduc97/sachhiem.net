@@ -2,18 +2,18 @@
 layout: ../../layouts/Article.astro
 title: "trong nghiên cứu Trịnh Công Sơn"
 author: "Nguyễn Hoàn"
-source: "https://sachhiem.net/NGHOAN/NgHoan06.php"
+source: "/NGHOAN/NgHoan06"
 category: "Văn hóa"
 lang: vi
 wordCount: 4941
-image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nha.jpg"
+image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/VANHOC/Hinh/banmai01.jpg"
 ---
 
 <p class="Tuaduoi">Về cái gọi là “học thuật” của Ban Mai </p>
 		
 		  
 
-<p align="center"><a href="https://www.sachhiem.net/"> <img border="0" src="https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nha.jpg"></a> 9 tháng 9, 2009 </p> 
+<p align="center"> 9 tháng 9, 2009 </p> 
 	<p><b><font size="5" face="Times New Roman">S</font></b>au bài viết 
 		của tôi nhan đề <i>Những sai lệch, thiếu sót trong cuốn sách “Trịnh 
 		Công Sơn vết chân dã tràng”</i> đăng trên báo chí và mạng internet, tác 

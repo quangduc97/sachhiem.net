@@ -3,7 +3,7 @@ layout: ../../../layouts/Article.astro
 title: "Ki-tô Giáo Đang Bị Thanh Trừng Ở Trung Đông"
 author: "Theo Fox News"
 date: 2015-11-11
-source: "https://sachhiem.net/TONGIAO/tgT/TinFox02.php"
+source: "/TONGIAO/tgT/TinFox02"
 category: "Chính trị"
 lang: vi
 wordCount: 2233

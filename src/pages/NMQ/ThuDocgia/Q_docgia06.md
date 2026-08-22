@@ -1,14 +1,14 @@
 ---
 layout: ../../../layouts/Article.astro
 title: "Thư ông Lưu Sinh (Denmark)"
-source: "https://sachhiem.net/NMQ/ThuDocgia/Q_docgia06.php"
+source: "/NMQ/ThuDocgia/Q_docgia06"
 lang: vi
 wordCount: 104
 image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/NMQ/ThuDocgia/LuuSinh.jpg"
 ---
 
 <div style="padding-left: 75px; padding-right: 75px">
-			<p><a href="https://sachhiem.net/NMQ/ThuDocgia/QThudocgia.php">[Mời xem lời giới thiệu ở link]</a>			</p>
+			<p><a href="/NMQ/ThuDocgia/QThudocgia">[Mời xem lời giới thiệu ở link]</a>			</p>
 			<p><img src="https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/NMQ/ThuDocgia/LuuSinh.jpg" width="400" height="549" alt=""></p>
 			<p><img src="https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/NMQ/ThuDocgia/LuuSinh2.jpg" width="400" height="549" alt=""></p>
 			<p><img src="https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/NMQ/ThuDocgia/LuuSinh3.jpg" width="400" height="549" alt=""></p>

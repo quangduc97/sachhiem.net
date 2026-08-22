@@ -3,7 +3,7 @@ layout: ../../../layouts/Article.astro
 title: "Giáo Dân Yêu Nước Bị Ngược Đãi Trong GX Ghềnh Ráng - gửi thư cầu cứu các cấp lãnh đạo."
 author: "giáo dân Lê thị Cẩn"
 date: 2021-06-15
-source: "https://sachhiem.net/TONGIAO/tgS/SH89_thucaucuu.php"
+source: "/TONGIAO/tgS/SH89_thucaucuu"
 category: "Chính trị"
 lang: vi
 wordCount: 4309
@@ -15,7 +15,7 @@ image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/TONGIAO/IMG/NANNHAN/
   <p><i>Ai nói tình trạng Công giáo La Mã quấy phá ở Việt Nam "chỉ là những trường hợp cá biệt" và "chính quyền sẽ biết giải quyết", làm ơn cho tôi biết cách giải quyết cho gia đình chị Lê thị Cẩn vì chính quyền đã không thể, hay không dám, đứng trên mấy tên "cha đạo"</i></p>
   <p><i>Chuyện gì đã xảy ra khi một giáo dân muốn sống tốt đời đẹp đạo và ủng hộ chính quyền? </i> (SH)</p>
  </div>
-<p>(<a href="https://sachhiem.net/TONGIAO/tgS/SH89_thuLTC2.php">Xem thư thứ hai</a>) </p>
+<p>(<a href="/TONGIAO/tgS/SH89_thuLTC2">Xem thư thứ hai</a>) </p>
 <p class="Tuaduoi">Bản chụp lá thư của bà Lê thị Cẩn do cô Trần Ly gửi</p>
 <p align="center"><img src="https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/TONGIAO/IMG/NANNHAN/LeThiCan_GXGhenhRang.jpg" width="100%" alt=""></p>
 <p align="center"><img src="https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/TONGIAO/IMG/NANNHAN/LeThiCan_GXGhenhRang2.jpg" width="100%" alt=""></p>

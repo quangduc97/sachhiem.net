@@ -2,13 +2,13 @@
 layout: ../../../layouts/Article.astro
 title: "Tâm Thư Gửi Nhà Nước Việt Nam"
 author: "Nguyễn Mạnh Quang"
-source: "https://sachhiem.net/NMQ/TAMTHU/NMQtt_06.php"
+source: "/NMQ/TAMTHU/NMQtt_06"
 lang: vi
 wordCount: 7625
-image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nha.jpg"
+image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/print.gif"
 ---
 
-<p align="center"><a href="https://www.sachhiem.net/"> <img border="0" src="https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nha.jpg"></a> | <a target="_blank" href="https://sachhiem.net/NMQ/TAMTHU/NMQtt_06.php"> <img border="0" src="https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/print.gif" width="18" height="18"> bản in | </a><a target="_blank" href="https://sachhiem.net/NMQ/TAMTHU/NMQtt_Main.php"><b><font face="Symbol" size="5"> ¿ </font></b> trở ra mục lục</a> | 29 tháng 3, 2009</p>
+<p align="center"> | <a target="_blank" href="/NMQ/TAMTHU/NMQtt_06"> <img border="0" src="https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/print.gif" width="18" height="18"> bản in | </a><a target="_blank" href="/NMQ/TAMTHU/NMQtt_Main"><b><font face="Symbol" size="5"> ¿ </font></b> trở ra mục lục</a> | 29 tháng 3, 2009</p>
           <p class="CHUONG">PHẦN II</p>
           <center>
             <p> (tiếp theo)</p>
@@ -165,7 +165,7 @@ image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nha.jpg"
           <p>Tuy nhiên, với kinh nghiệm của một con cáo già đã từng lăn lộn trên sân khấu chính trị từ thế kỷ 4 cho đến ngày nay, Giáo Hội La Mã có cả trăm phương ngàn kế dùng tất cả những kế sách áp dụng trong cả hai trường hợp A và B trên đây và thêm vào kế sách cưỡng bách những người ngoài đạo nếu muốn thành hôn với tín đồ Ca-tô thì phải theo đạo. </p>
           <p>Như vậy là chính sách truyền đạo và thâu người vào đạo  tại Việt Nam 	tùy theo thời kỳ và tùy theo hoàn cảnh chính trị tại từng địa phương, của Nhà Thờ Vatican đã thi hành cả ba kế sách A, B và C trên đây. A: ở Liên Khu V trong những năm 1955-1963, B: trong những năm 1533-1984, C: trong những năm 1984-1975. Riềng từ năm 1975, Nhà Thờ Vatican vẫn còn thi hành 
             cả kế sách B và C. </p>
-          <p><a target="_blank" href="https://sachhiem.net/NMQ/TAMTHU/NMQtt_06a.php">(xem tiếp)</a><img border="0" src="https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/Next3.gif" width="15" height="6"></p>
+          <p><a target="_blank" href="/NMQ/TAMTHU/NMQtt_06a">(xem tiếp)</a><img border="0" src="https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/Next3.gif" width="15" height="6"></p>
           <p class="TuaDenLeft">CHÚ THÍCH</p>
           <hr align="left" size="1" width="33%">
           <p>*  Ca-tô = Da-tô = Công Giáo, được dùng  trong nhiều tài liệu khác nhau nhưng có cùng một nghĩa.</p>

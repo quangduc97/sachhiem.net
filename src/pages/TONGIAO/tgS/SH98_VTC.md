@@ -3,7 +3,7 @@ layout: ../../../layouts/Article.astro
 title: "Tìm Hiểu Các Chức Vụ Ngoại Giao Quan Hệ Với Vatican"
 author: "Fb Nguyễn Gia Việt"
 date: 2023-08-02
-source: "https://www.sachhiem.net/TONGIAO/tgS/SH98_VTC.php"
+source: "/TONGIAO/tgS/SH98_VTC"
 category: "Chính trị"
 lang: vi
 wordCount: 955

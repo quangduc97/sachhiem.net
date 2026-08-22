@@ -3,7 +3,7 @@ layout: ../../../layouts/Article.astro
 title: "Linh Mục... Người Là Gì?"
 author: "LM. Trần Tuyên"
 date: 2015-01-12
-source: "https://sachhiem.net/TONGIAO/tgTR/TranTheTuyen.php"
+source: "/TONGIAO/tgTR/TranTheTuyen"
 category: "Chính trị"
 lang: vi
 wordCount: 3940
@@ -12,7 +12,7 @@ image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/TONGIAO/IMG/VATICAN/
 
 <p><i>LTS: Chỉ mới cầm chổi phủi tuyết giùm trên giày một người có công ở nhà thờ, mà Cha Tuyên đã bức xúc đến ngần ấy, thì làm sao Cha thật lòng hạ mình khi làm lễ "Rửa Chân" cho 12 người  mỗi năm vào dịp Lễ Phục Sinh? <img src="https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/TONGIAO/IMG/VATICAN/POPE/GHhonchan2.jpg" width="259" height="194" class="PicRgt"> Thế ra, mỗi năm Cha phải chịu nín thở mỗi khi phải làm Lễ Rửa Chân rồi! </i><i>Cực cho Cha quá!</i></p>
   <p><i>May là Cha được sống ở nước văn minh, địa vị của Cha không khác lắm với các Cha Mỹ, Cha Tây, nhưng nếu Cha sống vào thời nước Việt ở thế kỷ 19, cha sẽ phải vui vẻ </i><i>"<b>hôn kính" giày của các Cha thừa sai Pháp</b> "để giúp mình nhớ lại lời thánh Phaolô: «Phúc đức thay bàn chân các nhà truyền giáo.»" </i></p>
-  <p><i>Xin xem câu trên trong "Thập Giá Và Lưỡi Gươm" (<a href="https://sachhiem.net/TONGIAO/TTTINH/TTT_05.php">Chương I, đoạn 8: Chủ Nghĩa Phong Kiến Trong Đạo</a>) của Linh mục Trần Tam Tỉnh. Đoạn đó có ghi thêm rằng:  </i></p>
+  <p><i>Xin xem câu trên trong "Thập Giá Và Lưỡi Gươm" (<a href="/TONGIAO/TTTINH/TTT_05">Chương I, đoạn 8: Chủ Nghĩa Phong Kiến Trong Đạo</a>) của Linh mục Trần Tam Tỉnh. Đoạn đó có ghi thêm rằng:  </i></p>
   <p class="indent50"><i>«Trong hầu hết các địa phận, linh mục người Việt không được ngồi cùng một bàn với ông cố Tây, càng không được ăn cơm chung với cố.»</i></p>
   <p><i>Đó chỉ là giữa linh mục, còn dân chúng bên lương thì bị các giáo sĩ đánh đập bất cứ lúc nào họ cảm thấy bị "chạm tự ái". Cũng trong đoạn 8 sách đã dẫn ở trên:</i></p>
   <p class="indent50"><i> "Cố Antôn đi qua một làng lương, trên người mang áo chùng thâm và áo các phép. Một số thiếu niên người lương thấy cố ăn mặc kỳ cục thì cười diễu, có vài trẻ dám chửi rủa cố. Trở về nhà tức giận, tập hợp giáo dân lại, ra lệnh cho họ đi ruồng qua làng lương kia, trừng phạt đích đáng mấy đứa có tội, nghĩa là đánh đập tất cả những người họ bắt gặp ngoài đường tung hoành trong làng ấy như đối với quân thù vậy. Các cụ bô lão trong làng lương bèn gửi khiếu nại lên huyện. Và thật ngỡ ngàng khi thấy quan huyện bắt họ phải mua lễ vật, theo phong tục Việt Nam mà đến sắp mình lạy trước mặt cố, xin tha thứ cho những gì đã xúc phạm cố</i>"</p>
@@ -55,7 +55,7 @@ image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/TONGIAO/IMG/VATICAN/
   <p class="TacgiaL">Lm. Phêrô  Trần Tuyên </p>
   <p>____________</p>
   <p><b>Bài đọc thêm:</b></p>
-  <p>- <a href="https://sachhiem.net/TCN/TCNtg/TCN18.php">Linh Mục Là Ai ? Một Câu Hỏi ! Có Bao Nhiêu Trả Lời ?</a> (Trần Chung Ngọc) </p>
+  <p>- <a href="/TCN/TCNtg/TCN18">Linh Mục Là Ai ? Một Câu Hỏi ! Có Bao Nhiêu Trả Lời ?</a> (Trần Chung Ngọc) </p>
   <p>_____________</p>
   <p><b>Ý kiến độc giả:</b></p>
 

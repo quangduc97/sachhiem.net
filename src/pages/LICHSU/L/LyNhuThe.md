@@ -3,7 +3,7 @@ layout: ../../../layouts/Article.astro
 title: "Giới thiệu tác phẩm “Nhúc Nhích Thì Giết”"
 author: "Lý Như Thế"
 date: 2013-03-21
-source: "https://sachhiem.net/LICHSU/L/LyNhuThe.php"
+source: "/LICHSU/L/LyNhuThe"
 category: "Lịch sử"
 lang: vi
 wordCount: 3182
@@ -82,4 +82,4 @@ image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/SACHNGOAI/Hinhanh/BI
     </blockquote>
 <p><b>Cùng đề tài:</b></p>
 <p>Mời đọc bài giới thiệu của GS Trần Chung Ngọc:</p>
-<p><a href="https://sachhiem.net/TCN/TCNls/TCNls15.php">- Giới Thiệu Sách Mới - Giết Mọi Thứ Di Động: Cuộc Chiến Thực Sự Của Mỹ Ở Việt Nam </a></p>
+<p><a href="/TCN/TCNls/TCNls15">- Giới Thiệu Sách Mới - Giết Mọi Thứ Di Động: Cuộc Chiến Thực Sự Của Mỹ Ở Việt Nam </a></p>

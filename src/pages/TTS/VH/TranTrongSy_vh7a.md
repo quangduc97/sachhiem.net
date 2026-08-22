@@ -3,7 +3,7 @@ layout: ../../../layouts/Article.astro
 title: "Xét Lại Vụ Đánh Cuộc Của Pascal - 2"
 author: "Trần Trọng Sỹ"
 date: 2019-07-24
-source: "https://sachhiem.net/TTS/VH/TranTrongSy_vh7a.php"
+source: "/TTS/VH/TranTrongSy_vh7a"
 category: "Tác giả"
 lang: vi
 wordCount: 12289
@@ -39,7 +39,7 @@ image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/SACHNGOAI/Hinhanh/PE
 <p class="indent50"> Fate  of William Tyndale in 1536 C.E.: William Tyndale was <a href="https://www.william-tyndale.com/tyndale-bible-history.html">burned at the stake</a> for translating the Bible into English.  According to Tyndale, the Church <a href="https://paintingpictures.xanga.com/505737249/item/">forbid  owning or reading the Bible</a> to control and restrict the teachings and to enhance their own power and  importance.]</p>
 <p class="indent50">(<a href="https://www.huffingtonpost.com/bernard-starr/why-christians-were-denied-access-to-their-bible-for-1000-years_b_3303545.html">https://www.huffingtonpost.com/bernard-starr/why-christians-were-denied-access-to-their-bible-for-1000-years_b_3303545.html</a>)</p>
 <div class="danbai">
-  <p>(<a href="https://sachhiem.net/TTS/VH/TranTrongSy_vh7.php">Kỳ 1 =&gt;</a>)</p>
+  <p>(<a href="/TTS/VH/TranTrongSy_vh7">Kỳ 1 =&gt;</a>)</p>
      <p>   - I - Phân Loại Phạm Trù Tư Tưởng Của Pascal </p>
      <p>- <a name="2" href="/TTS/#end2">II – Chủ Nghĩa Hoài Nghi</a></p>
      <p class="sub">A - Hoài nghi về Thượng Đế và thế giới do ngài tạo dựng</p>
@@ -51,8 +51,8 @@ image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/SACHNGOAI/Hinhanh/PE
      <p class="sub1">C.2 Giả tạo chiếu vua để cướp nước</p>
      <p class="sub1">C.3&nbsp;Phân định, chia tách giáo quyền và thế quyền, hình thành chủ nghĩa quốc gia</p>
      <p class="sub1">C.4 Sự tan rã thành nhiều giáo hội Kytô độc lập với Rôma</p>
-     <p>(<a href="https://sachhiem.net/TTS/VH/TranTrongSy_vh7_Pascal.php">Kỳ 3 =&gt;</a>)</p>
-      <p>(<a href="https://sachhiem.net/TTS/VH/TranTrongSy_vh7_Pascala.php">Kỳ 4 =&gt;</a>)</p>
+     <p>(<a href="/TTS/VH/TranTrongSy_vh7_Pascal">Kỳ 3 =&gt;</a>)</p>
+      <p>(<a href="/TTS/VH/TranTrongSy_vh7_Pascala">Kỳ 4 =&gt;</a>)</p>
    
       </div>
 <p>  Lý do có sự cấm đoán kỳ quặc này, xin đọc bài báo ở trên, đại khái vì giáo hội  Rôma sợ người ta thấy rõ trong cả hai cuốn kinh hoàn toàn không đề cập đến từ  ''<i>Kytô</i>'' (Christ) hay ''<i>Kytô giáo</i>'' (Christianism) mà chỉ nói đến  người Do Thái hoặc Do Thái giáo, chứng tỏ rằng, Giêsu vẫn là môn đồ Do Thái  giáo, những gì khác là do bịa đặt.</p>
@@ -193,6 +193,6 @@ image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/SACHNGOAI/Hinhanh/PE
 <p>  Quá trình hình thành và suy yếu của Kytô giáo trải qua gần hai thiên niên kỷ.  Các cuộc thánh chiến hao tốn xương máu của giáo dân xảy ra trong thời Trung Cổ.  Thời kỳ giàu có và hùng mạnh nhất của Công giáo La Mã chính là thời đại Phục  Hưng, tại đây, các tòa án dị giáo được thành lập để giết người mà Giáo Hội cho  là "dị giáo", giáo hoàng chia hai thế giới ban cho hai vương quốc Tây Ban Nha  và Bồ Đào Nha, truy sát và giết tận giết tuyệt các phù thủy, buôn bán nô lệ từ  Phi châu hoặc từ Mỹ châu gửi về, xây dựng các cung điện huy hoàng tráng lệ tại  Vatican, đời sống của giới tu sĩ và quý tộc Âu châu liên hệ nhau rất mật thiết  vì hai bên cần nhau để bóc lột dân đen. Người dân không theo Chúa thì bị lên án  tử hình, toàn thể Âu châu chỉ có một tôn giáo duy nhất nên ngay từ đầu, 4 thuộc  từ Thánh Thiện, Duy Nhất, Công Giáo và Tông Truyền ít nhất có 3 điều rất chính  xác:  Công giáo, tức hoàn vũ giáo, mang ý nghĩa thống trị, trái đất là của  Thiên Chúa. Duy nhất, là không một tôn giáo nào khác đạt kỷ lục về sự tàn sát  kinh khiếp như Kytô giáo. Tông truyền, là đời này qua đời nọ, nhờ ăn thịt và uống  máu Chúa theo bí tích thánh thể, họ truyền giống Chúa rất tinh vi, và không tín  đồ nào không nghĩ đến việc xóa bỏ các tôn giáo khác để cho nước Chúa ngày càng  nới rộng biên cương. Điều này ngay trong kinh nguyện, kinh nhật khóa của họ tại  VN, họ không che giấu việc gọi đạo Phật là <b><i>bụt thần tà đạo</i></b>, điều  này được huấn luyện trong phương thức nhắm vào mục vụ cải đạo người Lương, như  sau:</p>
 <p class="indent50"><i>Rất nhiều linh mục và giáo dân luôn thành  kiến rằng: đạo của người lương giáo là đạo <b>thờ bụt thần ma quỷ</b>. Thật là  một lầm lỡ lớn. Không biết gì về đạo người ta, mà dám phê bình như vậy. Đạo người  ta bắt nguồn từ thế kỷ 5 trước Chúa Kitô giáng trần, đạo đó hướng dẫn người ta  làm lành lánh dữ tu thân tích đức. Đạo đó, nếu hiểu theo tinh thần Công đồng  Vatican 2 thì những nguyên tắc của đạo cũng được Thiên Chúa mặc khải cho người  sáng lập đạo hình thành, để hướng dẫn người ta nên tốt. Có thể nói đạo đó ở Á  Châu bắt nguồn từ trước Công Nguyên <b>chuẩn  bị </b>cho người sau này <b>biết lắng nghe  lời Chúa Giêsu </b>Con Thiên Chúa giáng trần một cách hữu hiệu hơn.</i> (<a href="https://www.vanhoaviet.info/truyengiao.htm">https://www.vanhoaviet.info/truyengiao.htm</a>).</p>
 <p>  Nghĩa là Phật được Chúa sai  ra đời (mạc khải cho) để dọn đường cho người Châu Á sẽ theo Chúa Kytô trong  tương lai!  Không gì trịch thượng và thiếu lễ độ (tối thiểu) bằng!  Muốn lí luận  với hạng này, chúng ta nên vào hàng thịt hàng cá ở chợ Sài Gòn mời vài vị cao  thủ, chứ các tu sĩ Phật giáo không thể mặt dày mồm năm miệng bảy tranh cãi với  họ.</p>
-<p>(xem tiếp <a href="https://sachhiem.net/TTS/VH/TranTrongSy_vh7_Pascal.php">Phần 3 =&gt;</a>)</p>
+<p>(xem tiếp <a href="/TTS/VH/TranTrongSy_vh7_Pascal">Phần 3 =&gt;</a>)</p>
 
 <p class="TacgiaL"> Trần  Trọng Sỹ (Paris 2019)</p>

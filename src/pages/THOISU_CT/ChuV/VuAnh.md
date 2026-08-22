@@ -3,7 +3,7 @@ layout: ../../../layouts/Article.astro
 title: "Tại sao Tướng Lê Quang Lưỡng dặn: 'Tôi chết đừng phủ cờ vàng?'"
 author: "Vũ Ánh / Người Việt"
 date: 2014-04-29
-source: "https://sachhiem.net/THOISU_CT/ChuV/VuAnh.php"
+source: "/THOISU_CT/ChuV/VuAnh"
 category: "Chính trị"
 lang: vi
 wordCount: 2692

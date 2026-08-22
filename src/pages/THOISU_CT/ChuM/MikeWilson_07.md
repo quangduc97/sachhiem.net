@@ -3,7 +3,7 @@ layout: ../../../layouts/Article.astro
 title: "Ông Hồ Chỉ Là Anh Hùng Bất Đắc Dĩ?"
 author: "Mike Wilson"
 date: 2015-08-21
-source: "https://sachhiem.net/sachhiem/THOISU_CT/ChuM/MikeWilson_07.php"
+source: "/sachhiem/THOISU_CT/ChuM/MikeWilson_07"
 category: "Chính trị"
 lang: vi
 wordCount: 2943

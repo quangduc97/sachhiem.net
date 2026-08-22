@@ -3,7 +3,7 @@ layout: ../../../layouts/Article.astro
 title: "Thư gởi Liên Hợp Quốc nhân 40 năm Trung Quốc xâm chiếm Hoàng Sa"
 author: "Tiến sĩ Lê Trung Tĩnh"
 date: 2014-01-14
-source: "https://sachhiem.net/THOISU_CT/SH/KytenTS_HS.php"
+source: "/THOISU_CT/SH/KytenTS_HS"
 category: "Chính trị"
 lang: vi
 wordCount: 1530

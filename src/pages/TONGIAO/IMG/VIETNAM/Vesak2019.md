@@ -3,7 +3,7 @@ layout: ../../../../layouts/Article.astro
 title: "Trực tiếp: Lễ Khai Mạc Đại lễ Vesak Liên Hợp Quốc 2019 tại chùa Tam Chúc, Hà Nam"
 author: "Video của Phật Sự Online TV"
 date: 2019-05-11
-source: "https://sachhiem.net/TONGIAO/IMG/VIETNAM/Vesak2019.php"
+source: "/TONGIAO/IMG/VIETNAM/Vesak2019"
 category: "Tác giả"
 lang: vi
 wordCount: 187

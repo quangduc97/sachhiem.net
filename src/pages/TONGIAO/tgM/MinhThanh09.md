@@ -3,7 +3,7 @@ layout: ../../../layouts/Article.astro
 title: "“Diễn biến hoà bình” đối với Phật giáo hay “mìn” nghệ thuật?"
 author: "Minh Thạnh"
 date: 2012-01-19
-source: "https://sachhiem.net/TONGIAO/tgM/MinhThanh09.php"
+source: "/TONGIAO/tgM/MinhThanh09"
 category: "Tác giả"
 lang: vi
 wordCount: 1299

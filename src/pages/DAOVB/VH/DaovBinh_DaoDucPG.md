@@ -2,14 +2,13 @@
 layout: ../../../layouts/Article.astro
 title: "Cần Đưa Đạo Đức Phật Giáo Vào Học Đường"
 author: "Đào Văn Bình"
-source: "https://sachhiem.net/DAOVB/VH/DaovBinh_DaoDucPG.php"
+source: "/DAOVB/VH/DaovBinh_DaoDucPG"
 category: "Văn hóa"
 lang: vi
 wordCount: 4215
-image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nha.jpg"
+image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/XAHOI/IMG/VIETNAM/BaoCaoSu_gia.jpg"
 ---
 
-<p align="center"><a href="/index"><img hspace="20" border="0" src="https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nha.jpg"></a> </p>
 <div class="tomluoc">
   <p><i>LTS: Đây là pham trù văn hóa của Phật giáo (đạo đức xã hội) khác với phạm trù tôn giáo của Thiên Chúa giáo.
 Quân đội Hoa Kỳ cũng như nhiều công ty ở Hoa Kỳ cũng thực tập thiền theo Phật giáo không có nghĩa là họ đem cái tôn giáo tên là Phật giáo vào quân đội. Xem:</i></p>
@@ -144,4 +143,4 @@ Chính quân đội Hoa Kỳ cũng thực tập thiền theo Phật giáo, khôn
      <p>Dạy phần Tuệ giác của Đạo Phật trong trường học không vi phạm điều 20 của luật giáo dục. Cũng như trong 10 điều răn của Ki tô giáo thì những điều như: chớ giết người; chớ ham muốn vợ chồng ngươi; chớ tham của người; chớ làm chứng gian; hiếu thảo cha mẹ là phần đạo đức không phải tôn giáo. Những điều răn này tương đồng với 5 Giới quí báu của Đạo Phật. </p>
      <p>______________</p>
 
- <p><a href="https://sachhiem.net/DAOVB/DVBdir.php">-- Link các bài viết của tác giả Đào Văn Bình --</a> </p>
+ <p><a href="/DAOVB/DVBdir">-- Link các bài viết của tác giả Đào Văn Bình --</a> </p>

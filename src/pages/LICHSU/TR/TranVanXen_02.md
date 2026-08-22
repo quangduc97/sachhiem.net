@@ -3,7 +3,7 @@ layout: ../../../layouts/Article.astro
 title: "Chiến Trận Tương Lai"
 author: "Trần Văn Xẻn"
 date: 2018-06-14
-source: "https://sachhiem.net/LICHSU/TR/TranVanXen_02.php"
+source: "/LICHSU/TR/TranVanXen_02"
 category: "Chính trị"
 lang: vi
 wordCount: 1746

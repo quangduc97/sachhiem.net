@@ -3,7 +3,7 @@ layout: ../../../layouts/Article.astro
 title: "“Bản Sắc Hóa” Pháp Phục Phật Giáo Việt Nam"
 author: "TT. Thích Nhật Từ (1)"
 date: 2016-07-05
-source: "https://sachhiem.net/TONGIAO/tgTH/ThichNhatTu01.php"
+source: "/TONGIAO/tgTH/ThichNhatTu01"
 category: "Tác giả"
 lang: vi
 wordCount: 6380

@@ -3,15 +3,15 @@ layout: ../../../layouts/Article.astro
 title: "Khi Đề Cập Tới Ông Diệm Hay Ông Hồ"
 author: "Trần Quang Diệu"
 date: 2012-07-21
-source: "https://sachhiem.net/LICHSU/TR/TQD16.php"
+source: "/LICHSU/TR/TQD16"
 category: "Lịch sử"
 lang: vi
 wordCount: 573
-image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nha.jpg"
+image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/LICHSU/IMG/HOCHIMINH/HCM_vhNgheAn.jpg"
 ---
 
 <table border="0" cellpadding="0" width="250" align="center"><tbody><tr>
-	<td width="125"><a href="/index"><img border="0" src="https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nha.jpg"></a></td>
+	<td width="125"></td>
 <td valign="middle">21-Jul-2012</td>
 		</tr></tbody></table>
  <p><span class="green"> *</span> Nhận định về những bài viết ở cuối trang.</p>

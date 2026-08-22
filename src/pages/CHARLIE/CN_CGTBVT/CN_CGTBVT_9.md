@@ -2,14 +2,13 @@
 layout: ../../../layouts/Article.astro
 title: "Công Giáo Trên Bờ Vực Thẳm"
 author: "Charlie Nguyễn"
-source: "https://sachhiem.net/CHARLIE/CN_CGTBVT/CN_CGTBVT_9.php"
+source: "/CHARLIE/CN_CGTBVT/CN_CGTBVT_9"
 category: "Tác giả"
 lang: vi
 wordCount: 44279
-image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nha.jpg"
 ---
 
-<p align="center"><a href="/index"><img hspace="20" border="0" src="https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nha.jpg"></a><b><font face="Symbol" size="5"><a target="_top" href="/CHARLIE/CN_CGTBVT/CN_CGTBVTdir">¿</a></font></b> trở ra mục lục |  17 Aug 2007 </p>
+<p align="center"><b><font face="Symbol" size="5"><a target="_top" href="/CHARLIE/CN_CGTBVT/CN_CGTBVTdir">¿</a></font></b> trở ra mục lục |  17 Aug 2007 </p>
 
 <p class="TuaChuong">Phần II :  SÁCH KINH  CÔNG GIÁO VÀ TÁC HẠI CỦA NÓ</p>
 

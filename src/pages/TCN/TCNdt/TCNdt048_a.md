@@ -2,15 +2,15 @@
 layout: ../../../layouts/Article.astro
 title: "Luận Điệu Phi Dân Tộc của Kẻ Phản Dân Tộc"
 author: "Trần Chung Ngọc"
-source: "https://sachhiem.net/TCN/TCNdt/TCNdt048_a.php"
+source: "/TCN/TCNdt/TCNdt048_a"
 category: "Đối thoại"
 lang: vi
 wordCount: 2683
-image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.devhttps://sachhiem.net/images/nha.jpg"
+image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/SACHNGOAI/Hinhanh/PEOPLE/Frances_FitzGerald_1940.jpg"
 ---
 
 <table border="0" width="250" align="center">
-    <tbody><tr><td width="106"><a href="https://sachhiem.net/index.php"><img border="0" src="https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.devhttps://sachhiem.net/images/nha.jpg"></a>    </td>
+    <tbody><tr><td width="106">    </td>
 <td valign="top" width="210"><p>28 tháng 9, 2010</p></td></tr></tbody></table>
 		
 	<p>
@@ -18,7 +18,7 @@ image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.devhttps://sachhiem.net/
 		<p>
 	 <span class="First">C</span>òn 
 	về Ngô Đình Diệm:&nbsp; thì tôi cũng đã viết 
-	bài “<i>Vài Nét Về Cụ Diệm</i>”<br> <a href="https://www.sachhiem.net/TCN/TCNls/TCNls06.php">https://www.sachhiem.net/TCN/TCNls/TCNls06.php</a>, trong đó tôi đã đưa ra 20 nhận định chi 
+	bài “<i>Vài Nét Về Cụ Diệm</i>”<br> <a href="/TCN/TCNls/TCNls06">https://www.sachhiem.net/TCN/TCNls/TCNls06.php</a>, trong đó tôi đã đưa ra 20 nhận định chi 
 	tiết về khả năng và con người của Ngô Đình Diệm và 
 	chế độ Ngô Đình Diệm của một số trí thức ngoại quốc: ký giả, chính trị gia, 
 	giáo sư đại học, nhà quân sự, trong số hàng trăm lời phê phán tương tự 

@@ -2,11 +2,11 @@
 layout: ../../../layouts/Article.astro
 title: "Các Giáo Sĩ"
 author: "Nguyễn Xuân Thọ"
-source: "https://sachhiem.net/TONGIAO/tgN/NguyenXTho.php"
+source: "/TONGIAO/tgN/NguyenXTho"
 category: "Tác giả"
 lang: vi
 wordCount: 5538
-image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nha.jpg"
+image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/TONGIAO/IMG/LINHMUC/Pellerin.gif"
 ---
 
 <p class="Tuaduoi">“Bước Mở đầu của sự Thiết lập Hệ thống <br>
@@ -14,7 +14,7 @@ image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nha.jpg"
           <p align="center"> (trang 84 - 91) </p>
           
           
-          <p align="center"><a href="https://sachhiem.net/index.php"><img hspace="20" border="0" src="https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nha.jpg"></a> 05 tháng 1, 2008 </p>
+          <p align="center"> 05 tháng 1, 2008 </p>
           
           <p align="center"> <img border="0" src="https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/TONGIAO/IMG/LINHMUC/Pellerin.gif" width="113" height="149"></p>
           <p align="center"><i> Linh mục Pellerin</i></p>

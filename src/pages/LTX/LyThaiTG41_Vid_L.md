@@ -2,7 +2,7 @@
 layout: ../../layouts/Article.astro
 title: "LM Trương Bửu Diệp"
 author: "Lý Thái Xuân"
-source: "https://sachhiem.net/LTX/LythaiTG41_Vid_L.php"
+source: "/LTX/LythaiTG41_Vid_L"
 lang: vi
 wordCount: 178
 ---

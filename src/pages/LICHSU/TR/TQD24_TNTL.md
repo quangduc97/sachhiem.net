@@ -3,7 +3,7 @@ layout: ../../../layouts/Article.astro
 title: "Giỗ Tổ Hùng Vương - \"Tuyên Ngôn Thuộc Linh\" Và Chương 31 \"Dân Số Ký\""
 author: "Trần Quang Diệu"
 date: 2013-04-19
-source: "https://sachhiem.net/LICHSU/TR/TQD24_TNTL.php"
+source: "/LICHSU/TR/TQD24_TNTL"
 category: "Tác giả"
 lang: vi
 wordCount: 4638

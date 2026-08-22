@@ -2,17 +2,17 @@
 layout: ../../../layouts/Article.astro
 title: "Giáo Dân Bất Tuân Luật Pháp"
 author: "Tân Pháp"
-source: "https://sachhiem.net/TONGIAO/tgT/Tanphap.php"
+source: "/TONGIAO/tgT/Tanphap"
 category: "Tác giả"
 lang: vi
 wordCount: 4271
-image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nha.jpg"
+image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/IMG/TruongVKy.jpg"
 ---
 
 <p class="Tuaduoi">Là Trường Hợp Cá Biệt Hay là Truyền Thống Lâu Đời</p>
 
 
-  <p align="center"><a href="https://sachhiem.net/index.php"><img hspace="20" border="0" src="https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nha.jpg"></a>05 tháng 9, 2008	 </p>
+  <p align="center">05 tháng 9, 2008	 </p>
 <p><span class="First">M</span>ột tài tiệu lưu trữ ở văn khố Pháp ghi: Lanessan, một quan chức cao 
 cấp của chính quyền thuộc địa, trong bản báo cáo với Bộ Pháp quốc hải 
 ngoại, viết: </p>

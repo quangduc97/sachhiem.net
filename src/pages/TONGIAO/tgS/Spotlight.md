@@ -3,7 +3,7 @@ layout: ../../../layouts/Article.astro
 title: "SPOTLIGHT"
 author: "Kênh14.VN"
 date: 2016-03-06
-source: "https://sachhiem.net/TONGIAO/tgS/Spotlight.php"
+source: "/TONGIAO/tgS/Spotlight"
 category: "Tác giả"
 lang: en
 wordCount: 1095
@@ -42,4 +42,4 @@ image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/SACHNGOAI/Hinhanh/SP
 <p class="TacgiaL">Theo Ngọc King / Trí Thức Trẻ</p>
  <p class="nguonL">Nguồn <a href="https://kenh14.vn/cine/spotlight-khi-toi-ac-khong-con-duoc-dung-duong-duoi-ban-tay-bao-boc-cua-chua-20160301142138774.chn">https://kenh14.vn/cine/spotlight-khi-toi-ac-khong-con-duoc-dung-duong-duoi-ban-tay-bao-boc-cua-chua-20160301142138774.chn</a></p>
  <hr><p><b>Mời xem thêm:</b></p>
-<p>- <a href="https://sachhiem.net/TONGIAO/tgS/Spotlight.php">Phá Vỡ Sự Im Lặng - Phim Tâm Điểm- SPOTLIGHT - Oscar 2016 - Chữ Phụ Đề Lớn - Phụ Đề Việt Ngữ</a></p>
+<p>- <a href="/TONGIAO/tgS/Spotlight">Phá Vỡ Sự Im Lặng - Phim Tâm Điểm- SPOTLIGHT - Oscar 2016 - Chữ Phụ Đề Lớn - Phụ Đề Việt Ngữ</a></p>

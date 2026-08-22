@@ -2,7 +2,7 @@
 layout: ../../../layouts/Article.astro
 title: "Thành Thật Chia Buồn"
 date: 2021-06-26
-source: "https://sachhiem.net/XAHOI/CHIABUON/Chiabuon16.php"
+source: "/XAHOI/CHIABUON/Chiabuon16"
 lang: vi
 wordCount: 1062
 image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/ChiaBuon/chiabuon1.jpg"

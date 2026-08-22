@@ -3,7 +3,7 @@ layout: ../../../layouts/Article.astro
 title: "Cúng Cô Hồn - Nhìn Từ Cửa Sổ Xã Hội"
 author: "Dương Kinh Thành"
 date: 2016-08-20
-source: "https://sachhiem.net/VANHOC/DKTH/DgKinhThanh_xh07.php"
+source: "/VANHOC/DKTH/DgKinhThanh_xh07"
 category: "Xã hội"
 lang: vi
 wordCount: 2760

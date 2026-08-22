@@ -3,7 +3,7 @@ layout: ../../../layouts/Article.astro
 title: "GIÁO HỘI LA MÃ:"
 author: "- Nguyễn Mạnh Quang -"
 date: 2012-01-06
-source: "https://sachhiem.net/null"
+source: "/null"
 lang: vi
 wordCount: 14487
 image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/LICHSU/IMG/DOTHAI/PhongtiectrennuiSinai_JewishChristian.jpg"
@@ -13,32 +13,32 @@ image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/LICHSU/IMG/DOTHAI/Ph
  
  
  
-<p><a href="https://sachhiem.net/NMQ/HOSOTOIAC/CH01.php"> 1  </a> <b><a href="https://sachhiem.net/NMQ/HOSOTOIAC/CH01a.php"> 2 </a>  </b><a href="https://sachhiem.net/NMQ/HOSOTOIAC/CH01b.php">3 </a> </p>
+<p><a href="/NMQ/HOSOTOIAC/CH01"> 1  </a> <b><a href="/NMQ/HOSOTOIAC/CH01a"> 2 </a>  </b><a href="/NMQ/HOSOTOIAC/CH01b">3 </a> </p>
   
   <div class="danbai">
       <p class="TuaDenLeft">Trong Chương 1:</p>
-      <p><a href="https://sachhiem.net/NMQ/HOSOTOIAC/CH01.php#1">1.- Đạo Do Thái Trong Thời <br>
+      <p><a href="/NMQ/HOSOTOIAC/CH01#1">1.- Đạo Do Thái Trong Thời <br>
         Nguyên Thủy </a>(Pre-Mosaic Judaism)-<br>
-        <a href="https://sachhiem.net/NMQ/HOSOTOIAC/CH01.php#1"> 2.- Đạo Do Thái Biến Thể Thành Một <br>
+        <a href="/NMQ/HOSOTOIAC/CH01#1"> 2.- Đạo Do Thái Biến Thể Thành Một <br>
         Chế Độ Đạo Phiệt Từ Thời Ông Moses </a><br>
-        <a href="https://sachhiem.net/NMQ/HOSOTOIAC/CH01.php#3"> 3.- Nhóm Người Do Thái Lưu Vong<br> 
+        <a href="/NMQ/HOSOTOIAC/CH01#3"> 3.- Nhóm Người Do Thái Lưu Vong<br> 
         Trở Về Do Thái </a> - <br>
-        <a href="https://sachhiem.net/NMQ/HOSOTOIAC/CH01.php#4">4.- Nhận Xét Về Đạo Do Thái </a> - <br>
-        <b><a href="https://sachhiem.net/NMQ/HOSOTOIAC/CH01a.php#5"> 5.- Đạo Do Thái Phân Hóa <br>
+        <a href="/NMQ/HOSOTOIAC/CH01#4">4.- Nhận Xét Về Đạo Do Thái </a> - <br>
+        <b><a href="/NMQ/HOSOTOIAC/CH01a#5"> 5.- Đạo Do Thái Phân Hóa <br>
         Thành Nhiều Hệ Phái </a> -  <br>
-<a href="https://sachhiem.net/NMQ/HOSOTOIAC/CH01a.php#6">6.- Sự Hình Thành Đạo Ki-tô Do Thái </a><br>
-        <a href="https://sachhiem.net/NMQ/HOSOTOIAC/CH01a.php#7">7.- Đạo Ki-tô Do Thái Ra Đời <br>
+<a href="/NMQ/HOSOTOIAC/CH01a#6">6.- Sự Hình Thành Đạo Ki-tô Do Thái </a><br>
+        <a href="/NMQ/HOSOTOIAC/CH01a#7">7.- Đạo Ki-tô Do Thái Ra Đời <br>
  Vào Khi Nào? </a> - <br>
-        <a href="https://sachhiem.net/NMQ/HOSOTOIAC/CH01a.php#8"> 8.- Nhận Xét Về Đạo Ki-tô Do Thái </a><br>
-        <a href="https://sachhiem.net/NMQ/HOSOTOIAC/CH01a.php#9">9.- Giáo Hội
+        <a href="/NMQ/HOSOTOIAC/CH01a#8"> 8.- Nhận Xét Về Đạo Ki-tô Do Thái </a><br>
+        <a href="/NMQ/HOSOTOIAC/CH01a#9">9.- Giáo Hội
         Ki-tô Do Thái <br>
         Thời  
         Nguyên Thủy </a> - <br>
-        <a href="https://sachhiem.net/NMQ/HOSOTOIAC/CH01a.php#10">10.- Các Giáo Phái Ki-tô <br>
+        <a href="/NMQ/HOSOTOIAC/CH01a#10">10.- Các Giáo Phái Ki-tô <br>
         Thời Nguyên Thủy </a> - <br>
-        <a href="https://sachhiem.net/NMQ/HOSOTOIAC/CH01a.php#11">11.- Mâu Thuẫn Trong Đạo <br>
+        <a href="/NMQ/HOSOTOIAC/CH01a#11">11.- Mâu Thuẫn Trong Đạo <br>
         Ki-tô Do Thái </a> - <br>
-        <a href="https://sachhiem.net/NMQ/HOSOTOIAC/CH01a.php#12">12.- Đạo Ki-tô Do Thái bị<br> 
+        <a href="/NMQ/HOSOTOIAC/CH01a#12">12.- Đạo Ki-tô Do Thái bị<br> 
         tiêu diệt hoàn toàn </a></b> </p>
     </div>
   <p class="TuaDenLeft"><a name="5"></a><b>5.-
@@ -1117,7 +1117,7 @@ image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/LICHSU/IMG/DOTHAI/Ph
         có quyền lực của Hoàng Đế La Mã thôi. Tất cả những thứ này trước đó các
         vị giáo chủ tiền nhiệm của Giáo Chủ Miltiades (311-314) trở về trước
         chưa bao giờ dám mơ tưởng tới. </p>
-    <p><a href="https://sachhiem.net/NMQ/HOSOTOIAC/CH01b.php">(xem tiếp Phụ lục)
+    <p><a href="/NMQ/HOSOTOIAC/CH01b">(xem tiếp Phụ lục)
         --&gt;</a></p>
  <hr width="40%">
       

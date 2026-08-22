@@ -2,11 +2,10 @@
 layout: ../../../layouts/Article.astro
 title: "NHỮNG NGHỊCH LÝ CỦA DÂN CHỦ"
 author: "Nguyễn Hoài Vân"
-source: "https://sachhiem.net/null"
+source: "/null"
 category: "Chính trị"
 lang: vi
 wordCount: 6362
-image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nha.jpg"
 ---
 
 <div align="center" style="position: relative; left: 0; top: 0">
@@ -24,8 +23,7 @@ image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nha.jpg"
 <div style="padding-left: 50px; padding-right: 50px">
 		
 <table border="0" cellpadding="10" width="85%" cols="2"><tbody><tr>
-<td valign="top"><a href="/index">
-<img border="0" src="https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nha.jpg"></a></td>
+<td valign="top"></td>
 <td valign="top" width="191">	25 tháng 10, 2009     </td>	</tr>
 </tbody></table>
 <p><strong><span class="First">N</span>gười ta hình dung Dân Chủ, đặc biệt là dân chủ nghị trường, như sự kết 

@@ -3,7 +3,7 @@ layout: ../../../layouts/Article.astro
 title: "Cuộc Chiến 21 Năm Mỹ Xâm Lược Việt Nam: 1954 -1975 - Những Câu Trích Dẫn"
 author: "SH sưu tầm"
 date: 2022-07-06
-source: "https://sachhiem.net/LICHSU/S/SH10_ChientranhVN.php"
+source: "/LICHSU/S/SH10_ChientranhVN"
 category: "Lịch sử"
 lang: vi
 wordCount: 1417
@@ -25,7 +25,7 @@ image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/LICHSU/IMG/VNwar/BBC
 
 <p><span class="green"> 2. </span></p>
 <p><b>Chiến tranh 1954-1975 ở Việt Nam có phải NỘI CHIẾN hay KHÔNG?</b></p>
-<p>Chưa cần đọc lịch sử của VNDCCH viết, mời các bạn nghe các sử gia người Mỹ viết. Những tài liệu trong phần 2 này được trích từ bài "<i>NGÀY 30/4/1975: NHỮNG QUAN ĐIỂM KHÁC NHAU</i>" của GS Trần Chung Ngọc <a href="https://sachhiem.net/TCN/TCNts/TCNts002.php">đăng trên trang nhà SH.</a></p>
+<p>Chưa cần đọc lịch sử của VNDCCH viết, mời các bạn nghe các sử gia người Mỹ viết. Những tài liệu trong phần 2 này được trích từ bài "<i>NGÀY 30/4/1975: NHỮNG QUAN ĐIỂM KHÁC NHAU</i>" của GS Trần Chung Ngọc <a href="/TCN/TCNts/TCNts002">đăng trên trang nhà SH.</a></p>
 <p>a). Daniel Ellsberg viết trong cuốn Secrets: A Memoir of Vietnam  and the Pentagon Papers, Viking, 2002, p.255:</p>
 <p class="PicLeft"><img src="https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/SACHNGOAI/Hinhanh/BIASACH/Secrets_Daniel.jpg" width="150" height="213" alt=""></p>
 <p>“<i>Cuộc chiến đó không có gì là “nội chiến”, sau 1956 hay 1960, như nó đã không từng là nội chiến trong cuộc tái chiếm thuộc địa của Pháp được Mỹ ủng hộ. <b>Một cuộc chiến mà trong đó một phía hoàn toàn được trang bị và trả lương bởi một quyền lực ngoại quốc</b> – một quyền lực nắm quyền quyết định về bản chất của chế độ địa phương vì những quyền lợi của mình – thì không phải là một cuộc nội chiến. ...</i></p>
@@ -47,15 +47,15 @@ image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/LICHSU/IMG/VNwar/BBC
 <p><b>Một “nhà nước” dưới sự bảo kê, được bơm tiền của, vũ khí, cố vấn từ  Mỹ</b> mới có thể trụ được, thì "nhà nước" này là cái thứ gì nếu không  phải là lũ bù nhìn?</p>
 <p align="center"><img src="https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/LICHSU/IMG/NGVTHIEU/NVThieu3a.jpg" width="400" height="270" alt=""></p>
 <p>a) Kẻ  đầu lĩnh trong tập đoàn đánh thuê này là Nguyễn Văn Thiệu đã có một tuyên bố  không thể rõ ràng hơn về thân phận đánh thuê của mình và đồng bọn:&nbsp;</p>
-<p><i>"Nếu Hoa  Kỳ mà không viện trợ cho chúng tôi nữa thì không phải là một ngày, một tháng  hay một năm mà chỉ sau ba giờ, chúng tôi sẽ rời khỏi Dinh Độc Lập!"</i> (GS Trần Chung Ngọc, <a href="https://sachhiem.net/TCN/TCNts/TCNts065.php#end4">Vài Suy Tư Về Ngày 30 Tháng Tư</a>)</p>
+<p><i>"Nếu Hoa  Kỳ mà không viện trợ cho chúng tôi nữa thì không phải là một ngày, một tháng  hay một năm mà chỉ sau ba giờ, chúng tôi sẽ rời khỏi Dinh Độc Lập!"</i> (GS Trần Chung Ngọc, <a href="/TCN/TCNts/TCNts065#end4">Vài Suy Tư Về Ngày 30 Tháng Tư</a>)</p>
 <p>Đến nỗi khi Mỹ rút quân về nước, ông Thiệu phải thét lên  rằng <i>Mỹ đã bỏ rơi chúng ta, Mỹ dối trá...</i> ! Liền sau đó là sự trốn chạy của ông Thiệu với việc bỏ  chạy đu càng.</p>
 <p align="center"><img src="https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/LICHSU/IMG/NHANVAT/VNCHdanhthue.jpg" width="576" height="432" alt=""></p>
 <p>b) “<i>Đây là cuộc chiến  tranh của người Mỹ và chúng tôi là những kẻ đánh thuê”</i>—Nguyễn Cao Kỳ </p>
 <p>“<i>Việt Cộng gọi chúng  tôi là những con rối, những con bù nhìn của người Mỹ. Nhưng rồi chính nhân dân  Mỹ cũng gọi chúng tôi là những con bù nhìn của người Mỹ, chứ không phải là lãnh  tụ chân chính của nhân dân Việt Nam”</i>—Nguyễn Cao Kỳ (trong bộ phim The Ten Thousand Day War)</p>
-<p>c) Đại tướng Tổng tham mưu trưởng, Cao Văn Viên nói thẳng: “<i>Chúng ta không có trách nhiệm về chiến tranh (!). Trách nhiệm về cuộc chiến ở đây là của người Mỹ. Chính sách đó do họ đề ra, chúng ta chỉ theo họ mà thôi !</i>”<a href="https://sachhiem.net/LICHSU/N/NamHai.php">(xem bài Đại Tướng Tổng tham mưu trưởng quân đội VNCH Cao Văn Viên:
+<p>c) Đại tướng Tổng tham mưu trưởng, Cao Văn Viên nói thẳng: “<i>Chúng ta không có trách nhiệm về chiến tranh (!). Trách nhiệm về cuộc chiến ở đây là của người Mỹ. Chính sách đó do họ đề ra, chúng ta chỉ theo họ mà thôi !</i>”<a href="/LICHSU/N/NamHai">(xem bài Đại Tướng Tổng tham mưu trưởng quân đội VNCH Cao Văn Viên:
 
 Thố lộ những gì trong quyển hồi ký?)</a></p>
 <p>d)  Nguyễn Văn Ngân, Phụ Tá Đặc Biệt TT Nguyễn Văn Thiệu:</p>
-<p><em>“</em><i>Miền Nam Việt Nam trong cuộc chiến chống cộng sản hoàn toàn bị phụ thuộc Hoa Kỳ, chúng ta không ở vào vị thế có thể đặt điều kiện với họ. Quân đội Mỹ muốn đến là đến, muốn đi là đi</i>…” (GS Trần Chung Ngọc, <a href="https://sachhiem.net/TCN/TCNts/TCNts065.php#end4">Vài Suy Tư Về Ngày 30 Tháng Tư</a>)</p>
+<p><em>“</em><i>Miền Nam Việt Nam trong cuộc chiến chống cộng sản hoàn toàn bị phụ thuộc Hoa Kỳ, chúng ta không ở vào vị thế có thể đặt điều kiện với họ. Quân đội Mỹ muốn đến là đến, muốn đi là đi</i>…” (GS Trần Chung Ngọc, <a href="/TCN/TCNts/TCNts065#end4">Vài Suy Tư Về Ngày 30 Tháng Tư</a>)</p>
 <p><span class="green">Kết luận: </span></p>
 <p>Xin các ông bà giữ những địa vị mà dân chúng trông vào  hãy dùng lương tâm của một con người, hơn nữa là một người công dân yêu nước, nghe những vai chính trong cuộc, hãy nhìn thẳng vào sự thật và truyền thông  những sự thật như thế này, chứ đừng bóp méo sự thật nữa.</p>

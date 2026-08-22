@@ -2,7 +2,7 @@
 layout: ../../layouts/Article.astro
 title: "Sách Lược Mới: Ve Vãn Phật Giáo"
 author: "Lý Thái"
-source: "https://sachhiem.net/LTX/LythaiTG08.php"
+source: "/LTX/LythaiTG08"
 category: "Tác giả"
 lang: vi
 wordCount: 396

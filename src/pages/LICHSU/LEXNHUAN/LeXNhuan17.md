@@ -3,7 +3,7 @@ layout: ../../../layouts/Article.astro
 title: "Cuốn Nhật-Kí 1959-1963 Của Bà Ngô Đình Nhu"
 author: "Lê Xuân Nhuận"
 date: 2016-11-01
-source: "https://sachhiem.net/LICHSU/LEXNHUAN/LeXNhuan17.php"
+source: "/LICHSU/LEXNHUAN/LeXNhuan17"
 category: "Lịch sử"
 lang: vi
 wordCount: 3837

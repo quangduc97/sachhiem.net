@@ -3,7 +3,7 @@ layout: ../../../layouts/Article.astro
 title: "Cuộc Trưng Cầu Dân Ý"
 author: "Đào Văn Bình"
 date: 2014-07-29
-source: "https://sachhiem.net/DAOVB/LS/DaovBinh01.php"
+source: "/DAOVB/LS/DaovBinh01"
 category: "Lịch sử"
 lang: vi
 wordCount: 17085

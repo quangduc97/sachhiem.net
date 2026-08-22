@@ -2,9 +2,9 @@
 layout: ../../layouts/Article.astro
 title: "Việt Nam Máu Lửa Quê Hương Tôi"
 author: "Hoành Linh Đỗ Mậu"
-source: "https://sachhiem.net/30 tháng 4, 2013"
+source: "/30 tháng 4, 2013"
 lang: vi
-wordCount: 224
+wordCount: 221
 image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/HOANHLINH/HINH/HLDM.jpg"
 ---
 
@@ -55,6 +55,3 @@ image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/HOANHLINH/HINH/HLDM.
     
     <div align="center">
   <img src="https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/HOANHLINH/HINH/bia1986.jpg"></div>
-
-     
-<p align="center"><a href="/index"><img src="https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nha.jpg" border="0"> Trở ra  sachhiem.net</a></p>

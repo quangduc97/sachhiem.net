@@ -3,7 +3,7 @@ layout: ../../../layouts/Article.astro
 title: "Ba Cái Chết, Một Suy Nghĩ"
 author: "Dương Như Tâm"
 date: 2012-04-18
-source: "https://sachhiem.net/VANHOC/DKTH/DgKinhThanh_xh03_3caichet.php"
+source: "/VANHOC/DKTH/DgKinhThanh_xh03_3caichet"
 category: "Xã hội"
 lang: vi
 wordCount: 1091

@@ -2,7 +2,7 @@
 layout: ../../../layouts/Article.astro
 title: "Tin Lành Hàn Quốc"
 author: "Sưu Tầm của Việt Tiến"
-source: "https://sachhiem.net/null"
+source: "/null"
 category: "Tác giả"
 lang: vi
 wordCount: 274
@@ -47,7 +47,7 @@ td width="100%" valign="top" colspan="2" height="100"&gt;
 					<tbody><tr>
 						<td bgcolor="White" align="justify" valign="top">
 						<table border="0" cellpadding="10" width="100%" cols="3">
-							<tbody><tr><td><a href="https://sachhiem.net/"><img border="0" src="https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nhacu.jpg"></a></td>
+							<tbody><tr><td><a href="/"><img border="0" src="https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nhacu.jpg"></a></td>
 								<td valign="top" width="198">
 								<a href="/TONGIAO/#" onclick="location.href='https://sachhiem.net/BIA/sendafriend.php?url='+location.href;">
 								<img src="https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/TONGIAO/file:///C:/SACHHIEM/images/mail.gif" border="0"> 

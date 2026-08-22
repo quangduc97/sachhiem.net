@@ -3,7 +3,7 @@ layout: ../../../layouts/Article.astro
 title: "THÁI THANH"
 author: "Trần Trọng Sỹ"
 date: 2020-03-27
-source: "https://sachhiem.net/TTS/VH/TranTrongSy_vh9.php"
+source: "/TTS/VH/TranTrongSy_vh9"
 category: "Văn hóa"
 lang: vi
 wordCount: 5780

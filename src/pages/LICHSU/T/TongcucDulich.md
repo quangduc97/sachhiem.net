@@ -2,7 +2,7 @@
 layout: ../../../layouts/Article.astro
 title: "Tưng bừng hội tết Đống Đa"
 author: "Trung tâm Tin học"
-source: "https://sachhiem.net/Thứ tư, 30 Tháng Giêng 2008, 20:17 GMT+7"
+source: "/Thứ tư, 30 Tháng Giêng 2008, 20:17 GMT+7"
 category: "Lịch sử"
 lang: vi
 wordCount: 557
@@ -37,7 +37,7 @@ image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nhacu.jpg"
 	<tbody><tr><td bgcolor="White" align="justify" valign="top">
 		
 		<table border="0" cellpadding="10" width="100%" cols="3"><tbody><tr>
-		<td width="98"><a href="https://sachhiem.net/"><img border="0" src="https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nhacu.jpg" width="49" height="20"></a></td>
+		<td width="98"><a href="/"><img border="0" src="https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nhacu.jpg" width="49" height="20"></a></td>
 				<td valign="top"><i><a href="/LICHSU/#" onclick="location.href='https://sachhiem.net/BIA/sendafriend.php?url='+location.href;">
 				<font color="#666666" size="2"><img src="https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/LICHSU/file:///C:/SACHHIEM/images/mail.gif" border="0"> 
 Gửi bài này cho bạn bè</font></a></i></td>

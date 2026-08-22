@@ -2,7 +2,7 @@
 layout: ../../../layouts/Article.astro
 title: "Bác sĩ phá thai ở Kansas"
 author: "By ROXANA HEGEMAN/ AP"
-source: "https://sachhiem.net/null"
+source: "/null"
 category: "Tác giả"
 lang: vi
 wordCount: 511

@@ -2,18 +2,18 @@
 layout: ../../../layouts/Article.astro
 title: "Sự Lên Tiếng Của Phật Giáo Về Chùa Báo Thiên"
 author: "Ts. Lý Khôi Việt"
-source: "https://sachhiem.net/TONGIAO/TOAKHAM/LyKhoiViet03.php"
+source: "/TONGIAO/TOAKHAM/LyKhoiViet03"
 category: "Tác giả"
 lang: vi
 wordCount: 7047
-image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nha.jpg"
+image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/TONGIAO/IMG/gieng2.jpg"
 ---
 
 <p class="Tuaduoi"> Là "Sửa Lại Lịch Sử" Hay Soi Sáng Lịch Sử?</p> 
 		
 		
 
-<p align="center"><a href="https://sachhiem.net/index.php"><img border="0" hspace="20" src="https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nha.jpg"></a>27 tháng 3, 2008</p>
+<p align="center">27 tháng 3, 2008</p>
  		<p><i>"Nếu như lịch sử&nbsp; chứng minh đựơc rằng đất Nhà Chung Hà Nội, bao 
 		gồm cả Nhà Thờ Lớn, Tòa Tổng giám mục hiện nay và Tòa Khâm sứ đang tranh 
 		chấp, là đất Chùa Báo Thiên và đã bị Tây chiếm đọat đem cho các cố Tây, 

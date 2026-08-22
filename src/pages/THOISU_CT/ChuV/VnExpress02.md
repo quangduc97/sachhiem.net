@@ -2,11 +2,11 @@
 layout: ../../../layouts/Article.astro
 title: "Mandela từng gọi Bush là 'tiểu nhân'"
 author: "Đình Nguyễn/ VnExpress"
-source: "https://sachhiem.net/null"
+source: "/null"
 category: "Chính trị"
 lang: vi
 wordCount: 541
-image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nha.jpg"
+image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/Hinh/Mandela_Bush.jpg"
 ---
 
 <div align="center" style="position: relative; left: 0; top: 0">
@@ -27,8 +27,7 @@ image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nha.jpg"
 	<div style="padding-left: 40px; padding-right: 40px">
 	
 		<table border="0" cellpadding="10" width="600" cols="2"><tbody><tr>
-		<td width="326"><a href="/index">
-		<img border="0" src="https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nha.jpg"></a></td>
+		<td width="326"></td>
 		<td valign="top">	20 tháng 11, 2010	</td></tr></tbody></table>
 		<p> <span class="First">N</span>gay sau khi Bush phát hành hồi ký đề cập đến cuộc chiến Iraq, một người thân cận với huyền thoại Nam Phi Nelson Mandela tiết lộ rằng ông từng miệt thị Bush là "tiểu nhân" khi Mỹ tấn công Iraq năm 2003.
 </p>

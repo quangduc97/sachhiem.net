@@ -3,15 +3,15 @@ layout: ../../../layouts/Article.astro
 title: "Hoàng Thị Nhật Lệ \"Phỏng Vấn\" Nhà Báo RFA???"
 author: "timlaisuthat.blogspot.com"
 date: 2013-09-19
-source: "https://sachhiem.net/THOISU_CT/ChuV/VoKhanhLinh05a.php"
+source: "/THOISU_CT/ChuV/VoKhanhLinh05a"
 category: "Chính trị"
 lang: vi
 wordCount: 654
 image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/THOISU_CT/Hinh/CCCB/HoangtNhatle1.jpg"
 ---
 
-<p><a href="https://sachhiem.net/THOISU_CT/ChuV/VoKhanhLinh05.php#n_6">(tiếp theo chuỗi bài trước:</a></p>
-<p><a href="https://sachhiem.net/THOISU_CT/ChuV/VoKhanhLinh05.php#n_6"> "<i>Tấu hài: Một người tự nhận là phòng viên đài RFA phỏng vấn người khởi xướng Phản bác Tuyên bố 258</i>")</a></p>
+<p><a href="/THOISU_CT/ChuV/VoKhanhLinh05#n_6">(tiếp theo chuỗi bài trước:</a></p>
+<p><a href="/THOISU_CT/ChuV/VoKhanhLinh05#n_6"> "<i>Tấu hài: Một người tự nhận là phòng viên đài RFA phỏng vấn người khởi xướng Phản bác Tuyên bố 258</i>")</a></p>
 
 <p><span class="Date">Thứ năm, ngày 19 tháng chín năm 2013 </span></p>
 <p><b class="First">B</b>ằng cơ sở của chính nghĩa, cùng với việc IT được phát triển giá rẻ đến từng gia đình, việc dùng mạng MIỄN PHÍ &nbsp;trong các cơ sở đào tạo đại học ở VN, việc hành nghề của những tên mạo danh RFA đã gặp phải thách thức to lớn .</p>
@@ -47,7 +47,7 @@ image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/THOISU_CT/Hinh/CCCB/
 <p class="nguonL">Nguồn https://timlaisuthat.blogspot.com/2013/09/hoang-le-phong-van-tay-san-tin-mao-danh.html</p>
 <p> ____________ </p>
 <p><b>Mời  xem thêm: </b></p>
-<p>- <a href="https://sachhiem.net/THOISU_CT/ChuV/VoKhanhLinh05a.php">Hoàng Thị Nhật Lệ "Phỏng Vấn" Nhà Báo RFA???</a> (timlaisuthat.blogspot.com) 
+<p>- <a href="/THOISU_CT/ChuV/VoKhanhLinh05a">Hoàng Thị Nhật Lệ "Phỏng Vấn" Nhà Báo RFA???</a> (timlaisuthat.blogspot.com) 
 </p>
-<p>- <a href="https://sachhiem.net/THOISU_CT/ChuV/VoKhanhLinh05.php">Điều 258, Các Bloggers, Tuyên Bố, Phản Bác, Và Phỏng Vấn RFA </a> (phanbactuyenbo258.blogspot.com) </p>
-<p>- <a href="https://sachhiem.net/DOITHOAI/Tienlang.php">Cuộc Tranh Luận Về 258 Của Đông La Với Trịnh Hữu Long </a>(GoogleTienLang) </p>
+<p>- <a href="/THOISU_CT/ChuV/VoKhanhLinh05">Điều 258, Các Bloggers, Tuyên Bố, Phản Bác, Và Phỏng Vấn RFA </a> (phanbactuyenbo258.blogspot.com) </p>
+<p>- <a href="/DOITHOAI/Tienlang">Cuộc Tranh Luận Về 258 Của Đông La Với Trịnh Hữu Long </a>(GoogleTienLang) </p>

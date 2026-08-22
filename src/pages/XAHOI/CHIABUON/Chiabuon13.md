@@ -3,7 +3,7 @@ layout: ../../../layouts/Article.astro
 title: "Thành Kính Phân Ưu"
 author: "\\ Ban Biên Tập Sachhiem.net \\"
 date: 2017-08-28
-source: "https://sachhiem.net/XAHOI/CHIABUON/Chiabuon13.php"
+source: "/XAHOI/CHIABUON/Chiabuon13"
 category: "Xã hội"
 lang: vi
 wordCount: 291
@@ -30,7 +30,7 @@ image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/XAHOI/CHIABUON/Caoph
        
 
 <p>Cụ Trần văn Kha đã có nhiều tác phẩm văn học, là một cây bút sắc bén, thâm hậu, và bền bỉ. Về sinh hoạt truyền thông trước 1975, Cụ đã hợp tác với các báo Sống, Sóng Thần, Chính Luận, Công Luận, Quần Chúng, Báo Đen và tạp chí Bách Khoa.</p>
-<p>Sau năm 1975 ở hải ngoại, Cụ đã viết cho các báo Độc Lập, Văn Học, Xác Định, Hoa Sen, Tia Sáng v.v… Cụ là tác giả các sách đã xuất bản: Tranh Đấu, Thời Đại Mới I và II, Yoga 1993, Phá Ngục Tù, Đức Tin và Lý Trí, <a href="https://sachhiem.net/TONGIAO/tgTR/TranvanKha.php">Thâm Cung Bí Sử</a>, Tôn Giáo Đối Chiếu (gồm 4 tập), Yoga 2008, và tác phẩm sau chót “Tại Sao Chúng Ta Thua?” để nói về biến cố bi thảm 30/4/1975 cho đất nước Việt Nam chúng ta.</p>
+<p>Sau năm 1975 ở hải ngoại, Cụ đã viết cho các báo Độc Lập, Văn Học, Xác Định, Hoa Sen, Tia Sáng v.v… Cụ là tác giả các sách đã xuất bản: Tranh Đấu, Thời Đại Mới I và II, Yoga 1993, Phá Ngục Tù, Đức Tin và Lý Trí, <a href="/TONGIAO/tgTR/TranvanKha">Thâm Cung Bí Sử</a>, Tôn Giáo Đối Chiếu (gồm 4 tập), Yoga 2008, và tác phẩm sau chót “Tại Sao Chúng Ta Thua?” để nói về biến cố bi thảm 30/4/1975 cho đất nước Việt Nam chúng ta.</p>
 <p>Cụ là một thành viên, ủng hộ viên, một chiến hữu  kiên cường tích cực trong việc giải hoặc cho người Việt Nam. Trong công trình khó khăn này, cụ đã có khoảng 50 bài viết và hơn 10 cuốn sách tập trung vào chủ đề giải hoặc và mặt thật chế độ Ngô Đình Diệm. </p>
 
        <p class="Tuaduoi">Thay mặt các thân hữu website Sách Hiếm, chúng tôi thành kính chia buồn cùng gia đình. 

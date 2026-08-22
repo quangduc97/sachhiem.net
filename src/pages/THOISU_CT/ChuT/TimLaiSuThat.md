@@ -3,7 +3,7 @@ layout: ../../../layouts/Article.astro
 title: "Về Hội Nghị Thành Đô:"
 author: "Blog Tìm Lại Sự Thật"
 date: 2014-06-24
-source: "https://sachhiem.net/THOISU_CT/ChuT/TimLaiSuThat.php"
+source: "/THOISU_CT/ChuT/TimLaiSuThat"
 category: "Chính trị"
 lang: vi
 wordCount: 1448

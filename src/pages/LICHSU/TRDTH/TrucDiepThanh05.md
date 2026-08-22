@@ -3,19 +3,19 @@ layout: ../../../layouts/Article.astro
 title: "Đâu Là Thông Điệp Đích Thực"
 author: "Trúc Diệp Thanh"
 date: 2012-05-20
-source: "https://sachhiem.net/LICHSU/TRDTH/TrucDiepThanh05.php"
+source: "/LICHSU/TRDTH/TrucDiepThanh05"
 category: "Lịch sử"
 lang: vi
 wordCount: 6950
-image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nha.jpg"
+image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/LICHSU/TRDTH/IMG/TrucDiepThanh05_tuduonghoDang.jpg"
 ---
 
 <table border="0" cellpadding="0" width="250" align="center"><tbody><tr>
-	<td width="97"><a href="/index"><img border="0" src="https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nha.jpg"></a></td>
+	<td width="97"></td>
 	<td width="147" valign="middle&quot;">20-May-2012</td>
 		</tr></tbody></table>
 
-<p align="right"><a href="https://sachhiem.net/LICHSU/TRDTH/TrucDiepThanh02.php"> (trở
+<p align="right"><a href="/LICHSU/TRDTH/TrucDiepThanh02"> (trở
     lại sự thật về Đặng Đô đốc ở Lương Xá) </a>&nbsp;</p>
 <p> <b>LNĐ:</b> <i>Đầu thập kỷ 70 thế kỷ XX, giới sử học miền Bắc Việt nam phát
   hiện một số hiện vật lịch sử quý thuộc đời Tây Sơn còn sót lại tại Lương Xá, tỉnh
@@ -522,9 +522,9 @@ image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nha.jpg"
   * Ảnh 1, 3, 4: nguồn Đặng tộc TP Hồ Chí Minh</p>
 <p>__________________&nbsp;&nbsp;&nbsp;</p>
 <p><b>Những bài liên quan:</b></p>
-<p><a href="https://sachhiem.net/LICHSU/TRDTH/TrucDiepThanh06.php"> - Đã tìm được lai lịch hoàn chỉnh của Đô đốc Đông Lĩnh hầu Đặng Tiến </a> (Trúc Diệp Thanh)</p>
-<p><a href="https://sachhiem.net/LICHSU/TRDTH/TrucDiepThanh05.php">- Đâu Là Thông Điệp Đích Thực Từ Các Di Bản Đời Tây Sơn Ở Lương Xá</a>, Hà Nội (Trúc Diệp Thanh) </p>
-<p><a href="https://sachhiem.net/LICHSU/TRDTH/TrucDiepThanh02.php">- Sự thật về “Đô đốc Đặng Tiến Đông” ở Lương Xá! </a> (Trúc Diệp Thanh) </p>
-<p>- <a href="https://sachhiem.net/LICHSU/TRDTH/TrucDiepThanh.php"> Đông Lĩnh hầu Đặng Tiến Giản, vị đô đốc Tây Sơn qua các di vật ở Lương Xá</a>, Hà Nội 
+<p><a href="/LICHSU/TRDTH/TrucDiepThanh06"> - Đã tìm được lai lịch hoàn chỉnh của Đô đốc Đông Lĩnh hầu Đặng Tiến </a> (Trúc Diệp Thanh)</p>
+<p><a href="/LICHSU/TRDTH/TrucDiepThanh05">- Đâu Là Thông Điệp Đích Thực Từ Các Di Bản Đời Tây Sơn Ở Lương Xá</a>, Hà Nội (Trúc Diệp Thanh) </p>
+<p><a href="/LICHSU/TRDTH/TrucDiepThanh02">- Sự thật về “Đô đốc Đặng Tiến Đông” ở Lương Xá! </a> (Trúc Diệp Thanh) </p>
+<p>- <a href="/LICHSU/TRDTH/TrucDiepThanh"> Đông Lĩnh hầu Đặng Tiến Giản, vị đô đốc Tây Sơn qua các di vật ở Lương Xá</a>, Hà Nội 
   (Trúc Diệp Thanh), </p>
-<p>- <a href="https://sachhiem.net/LICHSU/TRDTH/TrucDiepThanh07.php"> Phát Hiện Mới Về Các Di Vật Đời Tây Sơn Ở Chùa Thủy Lâm Và Chùa Trăm Gian (Chương Mỹ-H</a></p>
+<p>- <a href="/LICHSU/TRDTH/TrucDiepThanh07"> Phát Hiện Mới Về Các Di Vật Đời Tây Sơn Ở Chùa Thủy Lâm Và Chùa Trăm Gian (Chương Mỹ-H</a></p>

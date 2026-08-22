@@ -3,7 +3,7 @@ layout: ../../../layouts/Article.astro
 title: "Văn Hóa Không Phải Lý Do Thất Bại"
 author: "Đặng Hoàng Giang"
 date: 2014-06-28
-source: "https://sachhiem.net/THOISU_CT/ChuD/DangHGiang_01.php"
+source: "/THOISU_CT/ChuD/DangHGiang_01"
 category: "Chính trị"
 lang: vi
 wordCount: 1840
@@ -55,5 +55,5 @@ chiều 15/4/2014 tại Hà Nội </p>
   <p class="nguonL">Nguồn https://www.bbc.co.uk/vietnamese/world/2014/06/140628_culture_not_a_reason.shtml, https://hoangnamgiao.blogspot.com/2014/06/van-hoa-khong-phai-ly-do-that-bai-ang.html</p>
 ___________________
   <p><b>Bài khác cùng tác giả:</b></p>
-    <p>- <a href="https://sachhiem.net/THOISU_CT/ChuD/DangHGiang.php">Đừng Phá Hủy Đất Nước Bằng Sự Cực Đoan</a> 
+    <p>- <a href="/THOISU_CT/ChuD/DangHGiang">Đừng Phá Hủy Đất Nước Bằng Sự Cực Đoan</a> 
 </p>

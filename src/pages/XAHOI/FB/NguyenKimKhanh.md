@@ -3,7 +3,7 @@ layout: ../../../layouts/Article.astro
 title: "Hình Ảnh Chân Thật Ngày 19 Tháng 5"
 author: "FB Nguyễn Kim Khanh"
 date: 2021-05-20
-source: "https://sachhiem.net/XAHOI/FB/NguyenKimKhanh.php"
+source: "/XAHOI/FB/NguyenKimKhanh"
 category: "Chính trị"
 lang: vi
 wordCount: 169

@@ -3,7 +3,7 @@ layout: ../../../layouts/Article.astro
 title: "Chúng Ta Ứng Xử Với Lịch Sử Dân Tộc Như Thế Nào ?"
 author: "FB Trần Quang Thi"
 date: 2016-04-12
-source: "https://sachhiem.net/LICHSU/TR/TranQuangThi.php"
+source: "/LICHSU/TR/TranQuangThi"
 category: "Chính trị"
 lang: vi
 wordCount: 3278

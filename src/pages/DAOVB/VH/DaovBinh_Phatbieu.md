@@ -3,7 +3,7 @@ layout: ../../../layouts/Article.astro
 title: "Quyền Tự Do Tư Tưởng và Bình Đẳng Khi Phát Biểu"
 author: "Đào Văn Bình"
 date: 2015-04-03
-source: "https://sachhiem.net/DAOVB/VH/DaovBinh_Phatbieu.php"
+source: "/DAOVB/VH/DaovBinh_Phatbieu"
 category: "Văn hóa"
 lang: vi
 wordCount: 2118

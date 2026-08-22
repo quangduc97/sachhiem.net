@@ -3,7 +3,7 @@ layout: ../../../layouts/Article.astro
 title: "Tại Sao Nhiều Người Tin Lành Việt Nam Có Suy Nghĩ Và Lời Xúc Phạm Các Tôn Giáo Khác?"
 author: "Lê Anh Dũng"
 date: 2017-12-20
-source: "https://sachhiem.net/TONGIAO/tgL/LeAnhDung.php"
+source: "/TONGIAO/tgL/LeAnhDung"
 category: "Chính trị"
 lang: vi
 wordCount: 12603
@@ -152,11 +152,11 @@ image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/TONGIAO/IMG/TINLANH/
 <p class="TacgiaL">Lê Anh Dũng</p>
 <p>__________________</p>
 <p><b>Bài đọc thêm: </b></p>
-<p><a href="https://sachhiem.net/EMAILS/emailN/Nguyen.php"><i>- Một số trong những điều giảng dạy trịch thượng của các giáo phái Tin Lành,</i> (Nguyên)</a></p>
+<p><a href="/EMAILS/emailN/Nguyen"><i>- Một số trong những điều giảng dạy trịch thượng của các giáo phái Tin Lành,</i> (Nguyên)</a></p>
 <p><a href="/TONGIAO/tgM/MikeWilson_04"><i>- Merry Tennis - Kinh Nghiệm Với Người Bạn Tin Lành</i> (Mike Wilson)</a></p>
 <p><a href="/TONGIAO/tgL/LeAnhDung">- <i>Tại Sao Nhiều Người Tin Lành Việt Nam Có Suy Nghĩ Và Lời Xúc Phạm Các Tôn Giáo Khác?</i> (Lê Anh Dũng)</a></p>
-<p><a href="https://sachhiem.net/LICHSU/TR/TQD24a_TNTL.php"><i>- Hiểm Họa Của Tuyên Ngôn Thuộc Linh</i> (Thính Giả)</a></p>
-<p><a href="https://sachhiem.net/TONGIAO/tgN/NhatLinh.php"><i>- Hàn Quốc: Mục sư Tin lành xin lỗi vì nguyền rủa Phật giáo</i></a> (Nhựt Linh)</p>
+<p><a href="/LICHSU/TR/TQD24a_TNTL"><i>- Hiểm Họa Của Tuyên Ngôn Thuộc Linh</i> (Thính Giả)</a></p>
+<p><a href="/TONGIAO/tgN/NhatLinh"><i>- Hàn Quốc: Mục sư Tin lành xin lỗi vì nguyền rủa Phật giáo</i></a> (Nhựt Linh)</p>
 <p><a href="/EMAILS/emailT/TranHaLong">- Kinh Tởm Thay! Lời Kẻ Cuồng Tín </a></p>
 <p><a href="/DOITHOAI/HoangVu">- LINH VẬT RỒNG TRONG Ý THỨC HỆ TIN LÀNH</a></p>
 <p><a href="https://giaodiemonline.com/2009/10/tinlanh.htm">- HIỂM HỌA TIN LÀNH </a></p>

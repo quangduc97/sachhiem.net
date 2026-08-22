@@ -2,10 +2,10 @@
 layout: ../../../layouts/Article.astro
 title: "ĐẠO PHẬT - ĐẠO CHÚA ĐỐI CHIẾU"
 author: "Trần Chung Ngọc"
-source: "https://sachhiem.net/null"
+source: "/null"
 lang: vi
 wordCount: 15651
-image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nha.jpg"
+image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/ball.jpg"
 ---
 
 <div align="center" style="position:  relative; left:  0; top:  0">
@@ -22,8 +22,7 @@ image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nha.jpg"
 <tr><td width="100%">
 <div style="padding-left:  50px; padding-right:  50px"> 
 	<table border="0" cellpadding="1" width="86%" cols="2" height="39"><tbody><tr>
-	<td><a href="/index">
-	<img border="0" src="https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nha.jpg"></a></td>
+	<td></td>
 <td valign="top" width="210"><p>15 tháng 2,  2010</p></td></tr></tbody></table>
 	<p><a href="/TCN/TCN91"> 1 </a> <b><span style="background-color: #CCCCFF">2 
 	</span></b> </p>
@@ -776,7 +775,7 @@ image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nha.jpg"
 	100 nhận định về đạo Chúa và 100 nhận định về đạo Phật của các bậc thức giả 
 	trong thế giới Tây phương, trong đó có cả một số bậc lãnh đạo trong đạo 
 	Chúa. Độc giả có thể đọc những nhận định này trên
-	<a href="https://www.sachhiem.net/TCN/TCNtg/TCN56a.php">
+	<a href="/TCN/TCNtg/TCN56a">
 	https://www.sachhiem.net/TCN/TCNtg/TCN56a.php</a>.</p>
 	
 	<p> Ở đây tôi chỉ đối chiếu 

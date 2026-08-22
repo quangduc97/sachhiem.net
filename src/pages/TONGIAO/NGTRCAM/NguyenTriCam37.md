@@ -3,7 +3,7 @@ layout: ../../../layouts/Article.astro
 title: "Tín Đồ Công Giáo Đức Bỏ Đạo Hàng Loạt"
 author: "Báo Ngoại / Nguyễn Trí Cảm dịch"
 date: 2014-06-10
-source: "https://sachhiem.net/TONGIAO/NGTRCAM/NguyenTriCam37.php"
+source: "/TONGIAO/NGTRCAM/NguyenTriCam37"
 category: "Tác giả"
 lang: vi
 wordCount: 3013

@@ -3,7 +3,7 @@ layout: ../../../layouts/Article.astro
 title: "Tưởng Niệm Cái Gọi Là \"Hải Chiến Hoàng Sa\" - Sự Vô Liêm Sỉ Của Giống Vô Loài"
 author: "Lão Chăn Bò"
 date: 2022-01-17
-source: "https://sachhiem.net/LICHSU/L/LaoChanBo02.php"
+source: "/LICHSU/L/LaoChanBo02"
 category: "Lịch sử"
 lang: vi
 wordCount: 2390
@@ -44,5 +44,5 @@ image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/THOISU_CT/Hinh/TS_HS
   <p><iframe width="390" height="221" src="https://www.youtube.com/embed/Pbr9uD3nwtU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe></p>
   <p class="nguonL">https://www.youtube.com/watch?v=Pbr9uD3nwtU</p>
 <p>_____________</p>
-<p><a href="https://sachhiem.net/LICHSU/H/HoangSa_list.php">- Những bài về Trường Sa &amp; Hoàng Sa đăng trong sachhiem.net</a> </p>
+<p><a href="/LICHSU/H/HoangSa_list">- Những bài về Trường Sa &amp; Hoàng Sa đăng trong sachhiem.net</a> </p>
 <p>_____________ </p>

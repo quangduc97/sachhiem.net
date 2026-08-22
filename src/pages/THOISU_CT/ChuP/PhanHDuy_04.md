@@ -3,7 +3,7 @@ layout: ../../../layouts/Article.astro
 title: "Cháu Của Những Người Lính Nguỵ Nói Về Hoà Hợp, Hoà Giải Dân Tộc"
 author: "Phan Hưng Duy"
 date: 2016-05-31
-source: "https://sachhiem.net/THOISU_CT/ChuP/PhanHDuy_04.php"
+source: "/THOISU_CT/ChuP/PhanHDuy_04"
 category: "Chính trị"
 lang: vi
 wordCount: 1712

@@ -3,7 +3,7 @@ layout: ../../../layouts/Article.astro
 title: "Đổi Tên Đường - Xin nhắc lại: Năm 1976 các cụ Trần Văn Giàu, Nguyễn Văn Linh...!"
 author: "Trần Thanh Hòa/ Nguyễn Thanh Tuấn"
 date: 2025-10-18
-source: "https://sachhiem.net/LICHSU/N/NguyenThanhTuan07A.php"
+source: "/LICHSU/N/NguyenThanhTuan07A"
 category: "Xã hội"
 lang: vi
 wordCount: 3948

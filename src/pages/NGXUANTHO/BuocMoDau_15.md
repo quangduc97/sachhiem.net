@@ -3,18 +3,17 @@ layout: ../../layouts/Article.astro
 title: "Bước Mở Đầu Của Sự Thiết Lập Hệ Thống Thuộc Địa Pháp Ở Việt Nam"
 author: "TS Nguyễn Xuân Thọ"
 date: 2023-02-13
-source: "https://sachhiem.net/NGXUANTHO/BuocMoDau_15.php"
+source: "/NGXUANTHO/BuocMoDau_15"
 category: "Lịch sử"
 lang: vi
 wordCount: 6093
-image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nha.jpg"
+image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/sqdot.gif"
 ---
 
 <p class="Tuaduoi"><b>Hiệp Ước Harmand 1883</b></p>
 
 
-  <p align="center"><a href="https://www.sachhiem.net/">
-<img border="0" src="https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nha.jpg"></a>| <a target="_blank" href="https://sachhiem.net/NGXUANTHO/BuocMoDau_Main.php"><span lang="en-us"><b><font face="Symbol">¿</font></b></span> trở ra mục lục</a>| 13-Feb-2023</p> 
+  <p align="center">| <a target="_blank" href="/NGXUANTHO/BuocMoDau_Main"><span lang="en-us"><b><font face="Symbol">¿</font></b></span> trở ra mục lục</a>| 13-Feb-2023</p> 
 <p class="TuaDoLeft"><b>Chương 14 - Hiệp Ước Harmand 1883 </b></p>
 <p>Dư luận công chúng Pháp đã thay đổi. Nếu cái chết của Garnier không được dư luận đếm xỉa gì đến thì cái chết của Rivière lại là một làn roi quất vào mình.</p>
 <p>Nhưng không nên quy cái quyết định của chánh phủ Pháp can thiệp một cách quả quyết vào Việt Nam như người ta thường nghĩ vào duy nhất tin Rivière bị chết. Lâu nay người ta sẵn sàng chấp nhận dư luận cho rằng trách nhiệm gây ra những cuộc chiến tranh ở phương Đông là những&nbsp;<i>“sáng kiến địa phương”</i>&nbsp;khiến cho chánh phủ không còn có thể nào&nbsp;<i>“lùi chân trở lại được nữa”</i>. Dư luận ấy không còn phù hợp với thực tế ngày nay nữa. Trách chiến tranh vượt quá Rivière nhiều. Nó&nbsp;<i>“lên”</i>&nbsp;đến tận Jules Ferry.</p>

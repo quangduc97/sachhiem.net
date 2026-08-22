@@ -3,7 +3,7 @@ layout: ../../../layouts/Article.astro
 title: "[VATICANOLOGY] - Hồng Y Nguyễn Văn Thuận, Người Lính Xung Kích Của Chính Quyền Vatican Trên Tuyến Đầu Chống Cộng"
 author: "Minh Thạnh"
 date: 2024-06-03
-source: "https://sachhiem.net/TONGIAO/tgM/MinhThanh37_05_B3.php"
+source: "/TONGIAO/tgM/MinhThanh37_05_B3"
 category: "Chính trị"
 lang: vi
 wordCount: 4783
@@ -18,7 +18,7 @@ image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/LICHSU/IMG/NGODD/BAN
  <div class="tomluoc">
    <p><i>Để Hồng y Nguyễn Văn Thuận được phong thánh chẳng khác nào ngày trước để cho Chính quyền Vatican Trung ương khuyến khích Giáo phận Phát Diệm trang bị vũ khí.</i></p>
    </div>
- <p>Phản hồi bài “[Vaticanology] <a href="https://sachhiem.net/TONGIAO/tgM/MinhThanh37_04.php"><i>Hình mẫu phong Thánh quan chức  Chính quyền Vatican chống cộng kiểu Hồng y Nguyễn Văn Thuận: Hồng y Josep Beran  (Tiệp Khắc)</i></a>”  nêu đề xuất: “<i>Xin tác giả Minh Thạnh lên  bài những bằng chứng chống cộng của ông Nguyễn Văn Thuận cho độc giả được  biết</i>”</p>
+ <p>Phản hồi bài “[Vaticanology] <a href="/TONGIAO/tgM/MinhThanh37_04"><i>Hình mẫu phong Thánh quan chức  Chính quyền Vatican chống cộng kiểu Hồng y Nguyễn Văn Thuận: Hồng y Josep Beran  (Tiệp Khắc)</i></a>”  nêu đề xuất: “<i>Xin tác giả Minh Thạnh lên  bài những bằng chứng chống cộng của ông Nguyễn Văn Thuận cho độc giả được  biết</i>”</p>
  <p>Tôi đã trả lời qua  hai bài. Đây là bài viết thứ ba.</p>
  <p>Việc phong thánh cho  ông Nguyễn Văn Thuận, nung nấu “<i>tinh thần Nguyễn Văn Thuận</i>”, truyền bá chủ  nghĩa Nguyễn Văn Thuận là cực kỳ nguy hiểm. Nguyễn Văn Thuận, đó không chỉ là  một thứ tư tưởng, một thứ chủ nghĩa, mà nó trước hết là một thứ tình cảm, tình  cảm căm hận, phục thù cho gia tộc Ngô Đình.</p>
  <p>Thế hệ những người  con của dòng họ Ngô Đình đã bị phương Tây hoá. Họ nói tiếng Việt không rành.  Người thì suy nghĩ và nói bằng tiếng Pháp. Người khác thì viết sách bằng tiếng  Ý. Chẳng ai còn là người Việt Nam để về nước khôi phục dòng họ Ngô Đình, dù chỉ  về mặt tinh thần.</p>

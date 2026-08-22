@@ -2,11 +2,11 @@
 layout: ../../../layouts/Article.astro
 title: "TỰ DO, DÂN CHỦ BÊN NÀO NẶNG HƠN"
 author: "Lý Nguyên Diệu"
-source: "https://sachhiem.net/null"
+source: "/null"
 category: "Chính trị"
 lang: vi
 wordCount: 3849
-image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nha.jpg"
+image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/SACHNGOAI/Hinhanh/BIASACH/TheFutureofFreedom.jpg"
 ---
 
 <div align="center" style="position: relative; left: 0; top: 0">
@@ -32,8 +32,7 @@ image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nha.jpg"
 		<div style="padding-left: 50px; padding-right: 50px;">
 		<table border="0" cellpadding="0" width="600"><tbody><tr>
 				<td width="425">
-				<a href="/index">
-				<img border="0" src="https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nha.jpg"></a></td>
+				</td>
 	<td valign="top">21 tháng 12, 2010 </td></tr></tbody></table>
 			<p>Thay lời tựa: <i>...Nhắc lại những bi hài kịch Dân chủ giả hiệu một cách thê thảm đó để đi đến một câu hỏi phi-toàn-cầu-hoá và rất Samuel - “The Clash of Civilizations” - Huntington: Có thật là người Việt chúng ta cần những nguyên tắc Dân chủ và Tự do nhập cảng từ Tây phương nầy? Câu trả lời đã đến hiển hiện từ một ông Vua và một ông dân...(LND) </i></p>
 			<hr>

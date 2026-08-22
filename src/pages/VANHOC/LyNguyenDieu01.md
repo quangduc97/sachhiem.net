@@ -3,7 +3,7 @@ layout: ../../layouts/Article.astro
 title: "Cuộc Cách Mạng Bị Bỏ Quên: Cuộc Tranh Đấu Của Tướng Luna Cho Độc Lập Của Phi Luật Tân"
 author: "Lý Nguyên Diệu dịch và giới thiệu"
 date: 2015-09-30
-source: "https://sachhiem.net/VANHOC/LyNguyenDieu01.php"
+source: "/VANHOC/LyNguyenDieu01"
 lang: vi
 wordCount: 4695
 image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/THOISU_CT/Hinh/PHILIPN/Co_DeNhatCongHoaPhi.jpg"

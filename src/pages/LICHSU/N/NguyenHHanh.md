@@ -3,7 +3,7 @@ layout: ../../../layouts/Article.astro
 title: "Câu Chuyện Đời Tôi"
 author: "Nguyễn Hữu Hạnh - Hồi Ký"
 date: 2013-05-03
-source: "https://sachhiem.net/index.php?content=showrecipe&id=5628"
+source: "/LICHSU/N/NguyenHHanh"
 category: "Tác giả"
 lang: vi
 wordCount: 5461

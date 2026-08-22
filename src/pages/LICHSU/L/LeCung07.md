@@ -3,7 +3,7 @@ layout: ../../../layouts/Article.astro
 title: "Hội An Nam Phật Học Và Vị Trí Của Huế"
 author: "Lê Cung"
 date: 2021-01-04
-source: "https://sachhiem.net/LICHSU/L/LeCung07.php"
+source: "/LICHSU/L/LeCung07"
 category: "Chính trị"
 lang: vi
 wordCount: 8860

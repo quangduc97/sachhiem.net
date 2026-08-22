@@ -38,6 +38,8 @@ function tokenizeTuple(tuple) {
     else cur += c;
   }
   tokens.push(cur.trim());
+  // bỏ dấu '(' bao quanh tuple ở token đầu tiên
+  if (tokens.length && tokens[0].startsWith('(')) tokens[0] = tokens[0].slice(1);
   return tokens;
 }
 
@@ -106,6 +108,13 @@ const firstUrl = (s) => {
   return m ? m[0].replace(/&amp;/g, '&') : null;
 };
 
+/** Đường dẫn bài viết tĩnh nội bộ (vd NMQ/TT_MY/TongThongMy02.php) trong nội dung. */
+const articlePathOf = (s) => {
+  if (!s) return null;
+  const m = String(s).match(/([A-Za-z0-9_][A-Za-z0-9_\/-]*\.php)/);
+  return m ? m[1] : null;
+};
+
 const clean = (s) => {
   if (s == null || s === 'NULL') return null;
   const t = String(s).replace(/<[^>]+>/g, ' ').replace(/&amp;/g, '&').replace(/&quot;/g, '"').replace(/\s+/g, ' ').trim();
@@ -148,21 +157,28 @@ scanSql(sql, (table, cols, row) => {
       title: clean(rec.title),
       link: clean(rec.link),
     });
-  } else if (table === 'email') {
+  } else if (table === 'email' || table === 'email1') {
     email.push({
+      id: clean(rec.emailid),
+      table,
       title: clean(rec.title) ?? clean(rec.emailid),
       author: clean(rec.author),
       date: clean(rec.date)?.slice(0, 10) ?? null,
       link: firstUrl(rec.directions) ?? firstUrl(rec.shortdesc),
+      articlePath: articlePathOf(rec.directions) ?? articlePathOf(rec.shortdesc),
+      contentRaw: rec.directions || rec.shortdesc,
       thumb: clean(rec.thumb),
     });
-  } else if (table === 'recipes') {
+  } else if (table === 'recipes' || table === 'recipes1') {
     recipes.push({
+      id: clean(rec.recipeid),
+      table,
       title: clean(rec.title),
       author: clean(rec.author),
       date: clean(rec.date)?.slice(0, 10) ?? null,
       category: clean(rec.category),
       link: firstUrl(rec.directions) ?? firstUrl(rec.shortdesc),
+      articlePath: articlePathOf(rec.directions) ?? articlePathOf(rec.shortdesc),
       thumb: clean(rec.thumb),
     });
   }
@@ -174,6 +190,52 @@ const write = (name, data) => {
   console.log(`  ${name}: ${data.length} dòng → ${f}`);
 };
 write('news.json', news.filter((n) => n.title));
-write('email.json', email.filter((e) => e.title));
 write('recipes.json', recipes.filter((r) => r.title));
-console.log('Xong import DB.');
+
+// Bảng ánh xạ link chức năng cũ index.php?content=showX&id=N → bài viết tĩnh
+const dbMap = {};
+// Email không có bài viết tương ứng → trỏ về trang Hộp thư mới (/hop-thu/<id>/)
+const emailPageKey = (e) => (e.table === 'email1' ? `e${e.id}` : String(e.id));
+for (const e of email) {
+  if (e.id) dbMap[`${e.table === 'email1' ? 'showemailE' : 'showemail'}|${e.id}`] = e.articlePath ?? `hop-thu/${emailPageKey(e)}`;
+}
+for (const r of recipes) {
+  if (r.id) dbMap[`${r.table === 'recipes1' ? 'showrecipeE' : 'showrecipe'}|${r.id}`] = r.articlePath ?? null;
+}
+
+// Xử lý nội dung thư: sửa mojibake (giữ thẻ HTML), chuyển \r\n → <br>,
+// viết lại link nội bộ cũ về đường dẫn mới
+const rewriteContentLink = (url) => {
+  if (!url) return null;
+  const fn = String(url).match(/index\.php\?content=(showemailE?|showrecipeE?)(?:&amp;|&)id=(\d+)/i);
+  if (fn) {
+    const target = dbMap[`${fn[1].toLowerCase()}|${fn[2]}`];
+    return target ? `/${target.replace(/\.php$/i, '')}` : null;
+  }
+  const old = String(url).match(/^https?:\/\/(?:www\.)?sachhiem\.net\/(.*)$/i);
+  if (old) return `/${old[1].replace(/\.php$/i, '')}`;
+  return url;
+};
+const processEmailContent = (rawContent) => {
+  if (!rawContent) return null;
+  let html = repair(String(rawContent).replace(/\\r\\n/g, '<br>\n').replace(/\\"/g, '"'));
+  html = html.replace(/href=("?)([^" >]+)\1/gi, (m, q, url) => {
+    const mapped = rewriteContentLink(url);
+    return mapped ? `href="${mapped}"` : `href="${url}"`;
+  });
+  // gom <br> thừa và loại thẻ rác
+  html = html.replace(/(<br>\s*){3,}/g, '<br><br>');
+  html = html.replace(/<script[\s\S]*?<\/script>/gi, '');
+  return html;
+};
+for (const e of email) {
+  e.contentHtml = processEmailContent(e.contentRaw) ?? null;
+  e.lang = e.table === 'email1' ? 'en' : 'vi';
+}
+// lọc thư không có nội dung
+const emailWithContent = email.filter((e) => e.contentHtml);
+write('db-map.json', dbMap);
+write('email.json', emailWithContent);
+
+const resolved = Object.values(dbMap).filter(Boolean).length;
+console.log(`db-map: ${Object.keys(dbMap).length} id (${resolved} trỏ được bài viết, ${Object.keys(dbMap).length - resolved} không có bài tương ứng)`);

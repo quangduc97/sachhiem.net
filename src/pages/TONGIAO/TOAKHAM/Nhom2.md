@@ -2,11 +2,10 @@
 layout: ../../../layouts/Article.astro
 title: "Thủ tướng Nguyễn Tấn Dũng"
 author: "Một Nhóm Công Dân Mỹ Gốc Việt"
-source: "https://sachhiem.net/TONGIAO/TOAKHAM/.php"
+source: "/TONGIAO/TOAKHAM/"
 category: "Tác giả"
 lang: vi
 wordCount: 3908
-image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nha.jpg"
 ---
 
 <p class="Tuaduoi">Thư Ngỏ kính gửi</p>
@@ -14,7 +13,7 @@ image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nha.jpg"
 		<p class="Tuaduoi">Về Vụ Tòa Khâm sứ</p> 
 		
 
-<p align="center"><a href="https://sachhiem.net/index.php"><img border="0" hspace="20" src="https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nha.jpg"></a>30 tháng 1, 2008  </p>
+<p align="center">30 tháng 1, 2008  </p>
  		
 		<p> <b><font size="5" face="Times New Roman">N</font></b>gày 27 tháng 1, 2008, trên 
 		diễn đàn thông tin điện tử <b>An Ninh Thủ Đô</b> có một bài 

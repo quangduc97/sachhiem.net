@@ -3,7 +3,7 @@ layout: ../../layouts/Article.astro
 title: "Thư Ngỏ Gửi Ông"
 author: "Nguyễn"
 date: 2013-01-17
-source: "https://sachhiem.net/DOITHOAI/Nguyen.php"
+source: "/DOITHOAI/Nguyen"
 category: "Đối thoại"
 lang: vi
 wordCount: 3276
@@ -18,7 +18,7 @@ image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/TONGIAO/IMG/JESUS/Je
      </tbody></table>
      
      <p><i>Bài dẫn:</i> Thư của ông Bùi Xuân Công gửi sachhiem.net:</p>
-     <p> <a href="https://www.sachhiem.net/index.php?content=showemail&amp;id=216"><b>Tôi cảm thấy rất  bức xúc và hụt hẫn vì những bài viết mà quý vi đã đăng</b></a>, https://www.sachhiem.net/index.php?content=showemail&amp;id=216</p>
+     <p> <a href="/hop-thu/216"><b>Tôi cảm thấy rất  bức xúc và hụt hẫn vì những bài viết mà quý vi đã đăng</b></a>, https://www.sachhiem.net/index.php?content=showemail&amp;id=216</p>
      <hr>
      <p><i>Thư  Ngỏ Gửi Ông </i></p>
      <p><i> Simon BÙI XUÂN CÔNG, con “Chiên” của Chúa </i></p>

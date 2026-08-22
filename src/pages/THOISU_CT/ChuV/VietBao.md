@@ -3,16 +3,16 @@ layout: ../../../layouts/Article.astro
 title: "Bộ trưởng Quốc phòng Mỹ bị kiện phạm tội ác chiến tranh"
 author: "Kiều Oanh/ AP"
 date: 2012-11-15
-source: "https://sachhiem.net/THOISU_CT/ChuV/VietBao.php"
+source: "/THOISU_CT/ChuV/VietBao"
 category: "Chính trị"
 lang: vi
 wordCount: 771
-image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nha.jpg"
+image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/THOISU_CT/Hinh/HOAKY/DonalRumsfled_Vietbao.gif"
 ---
 
 <table border="0" cellpadding="0" width="250" align="center">
             <tbody><tr>
-              <td width="125"><a href="/index"><img border="0" src="https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nha.jpg"></a></td>
+              <td width="125"></td>
               <td valign="middle">15-Nov-2012</td>
             </tr>
           </tbody></table>
@@ -79,4 +79,4 @@ image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nha.jpg"
           
           <p><b>Mời đọc thêm:</b></p>
           <p>- Bài tường trình về Washington của phóng viên - A Reporter’s Report
-            on Washington của Seymour M. Hersh - <a href="https://sachhiem.net/SACHNGOAI/snS/SeymourHersh.php">https://sachhiem.net/SACHNGOAI/snS/SeymourHersh.php</a></p>
+            on Washington của Seymour M. Hersh - <a href="/SACHNGOAI/snS/SeymourHersh">https://sachhiem.net/SACHNGOAI/snS/SeymourHersh.php</a></p>

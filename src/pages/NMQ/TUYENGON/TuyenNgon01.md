@@ -2,17 +2,15 @@
 layout: ../../../layouts/Article.astro
 title: "TUYÊN NGÔN CỦA"
 author: "Nguyễn Mạnh Quang"
-source: "https://sachhiem.net/NMQ/TUYENGON/TuyenNgon01.php"
+source: "/NMQ/TUYENGON/TuyenNgon01"
 lang: vi
 wordCount: 10200
-image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nha.jpg"
 ---
 
 <p class="Tuaduoi">MỘT NGƯỜI VIẾT SỬ VỀ GIÁO HỘI LA MÃ</p>
 
 
-<p align="center"><a href="https://www.sachhiem.net/">
-	<img border="0" src="https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nha.jpg"></a> 15 tháng 6, 2010 </p>
+<p align="center"> 15 tháng 6, 2010 </p>
 <p><b><a href="/NMQ/TUYENGON/TuyenNgon01">1</a> &nbsp;<a href="/NMQ/TUYENGON/TuyenNgon02">2</a> &nbsp;<a href="/NMQ/TUYENGON/TuyenNgon03">3</a></b></p>
 	<p class="MUC">Một Vài Điều Cần Làm Sáng Tỏ <br>
 Trong Việc Biên Soạn Sách Sử Về Giáo Hội La Mã </p>
@@ -805,6 +803,6 @@ chúng tôi. </p>
 		Refoemed Publishing Compant, 1962), tr. 424.</p>
 		<p><a name="_edn14" title="" href="/NMQ/#_ednref14">
 		[xiv]</a> Nguồn:
-		<a href="https://sachhiem.net/EMAILS/SH/Sachhiem18.php">	https://sachhiem.net/EMAILS/SH/Sachhiem18.php</a>  </p>
+		<a href="/EMAILS/SH/Sachhiem18">	https://sachhiem.net/EMAILS/SH/Sachhiem18.php</a>  </p>
 		<p>Database #223</p>
   <a href="/NMQ/Qdir"><p class="trang">Trang Nguyễn Mạnh Quang</p> </a>

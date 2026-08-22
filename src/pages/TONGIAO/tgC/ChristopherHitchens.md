@@ -6,14 +6,14 @@ source: "https://www.giaodiemonline.com/noidung_detail.php?newsid=1564&PHPSESSID
 category: "Tác giả"
 lang: vi
 wordCount: 3980
-image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nha.jpg"
+image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/XAHOI/IMG/TERESA/MotherTeresa_ChrHitchens.jpg"
 ---
 
 <p class="Tuaduoi"> Ánh Sáng và Bóng Tối  </p>
  
 		
  
-<p align="center"> <a href="/index"><img border="0" src="https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nha.jpg" align="middle" hspace="20"></a> 17 tháng 
+<p align="center">  17 tháng 
 	9, 2007 </p>
 
 	<p><b><font face="Vivaldi" size="5">

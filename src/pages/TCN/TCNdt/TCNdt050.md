@@ -2,20 +2,20 @@
 layout: ../../../layouts/Article.astro
 title: "Khoa Học Trong Kinh Thánh?"
 author: "Trần Chung Ngọc"
-source: "https://sachhiem.net/TCN/TCNdt/TCNdt050.php"
+source: "/TCN/TCNdt/TCNdt050"
 category: "Đối thoại"
 lang: vi
 wordCount: 14176
-image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nha.jpg"
+image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/KHOAHOC/IMG/ASTRO/GiordanoBruno.jpg"
 ---
 
-<p align="center"><a href="/TCN/index"><img hspace="20" border="0" src="https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nha.jpg"></a> 09 tháng 10,  2010</p>
+<p align="center"> 09 tháng 10,  2010</p>
 	<p><i>LTS: Thỉnh thỏang tòa sọan nhận được vài lá thư gửi đến tác giả Trần Chung Ngọc nhờ giải thích hay chỉ rõ những điều sai lầm trong các bài viết biện luận sao cho "thánh kinh" đạo Chúa được tương ứng với khoa học hiện đại.  Để giúp các bạn trẻ, GS Trần Chung Ngọc đã viết bài phân tích sau đây về những ngụy biện của nick "Hoa Hồng" trên daophatngaynay về Khoa Học Và Kinh Thánh. SH kính mời xem giải thích của tác giả trong những đoạn có phông màu xám. </i></p>
 		
 	<div class="Gry">
 
 	<p><span class="First">N</span>gày 02 tháng 9, 2010, trang nhà Sách 
-	Hiếm (sachhiem.net) đăng bài <a href="https://sachhiem.net/KHOAHOC/T/TinReuter.php">“<i>Không phải Thượng Đế sáng tạo ra vũ trụ, theo Stephen Hawking</i>"</a>, do Đào-văn-Bình dịch từ bài “<i>God did not 
+	Hiếm (sachhiem.net) đăng bài <a href="/KHOAHOC/T/TinReuter">“<i>Không phải Thượng Đế sáng tạo ra vũ trụ, theo Stephen Hawking</i>"</a>, do Đào-văn-Bình dịch từ bài “<i>God did not 
 	create the universe, says Hawking</i>” của Michael Holden. Mới đây, lâu lâu 
 	mới có một lần, tôi vào thăm trang nhà Đạo Phật Ngày Nay 
 	[<i>daophatngaynay.com</i>] và cũng thấy có bài trên và nhiều ý kiến của độc giả về 
@@ -1019,7 +1019,7 @@ Isaiah 40:22 nguyên văn như sau: <font color="#606060">It is He (God) who
 	
 	<p> Chi tiết về hai điều này tôi đã phân tích khá đầy đủ 
 	trong vài bài trước đây, độc giả nào tò mò muốn biết có thể đọc trên
-	<a style="color: blue; text-decoration: underline; text-underline: single" href="https://www.sachhiem.net/TCN/TCNtg/TCN101.php">
+	<a style="color: blue; text-decoration: underline; text-underline: single" href="/TCN/TCNtg/TCN101">
 	https://www.sachhiem.net/TCN/TCNtg/TCN101.php</a>, ở đây tôi chỉ đưa ra những 
 	nét chính.</p>
 	

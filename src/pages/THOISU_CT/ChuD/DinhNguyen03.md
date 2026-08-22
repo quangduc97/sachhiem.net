@@ -3,7 +3,7 @@ layout: ../../../layouts/Article.astro
 title: "Chính Quyền Mỹ Và Hội Lái Súng"
 author: "Định Nguyên"
 date: 2018-02-28
-source: "https://sachhiem.net/THOISU_CT/ChuD/DinhNguyen03.php"
+source: "/THOISU_CT/ChuD/DinhNguyen03"
 category: "Chính trị"
 lang: vi
 wordCount: 2553

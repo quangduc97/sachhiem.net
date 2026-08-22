@@ -3,7 +3,7 @@ layout: ../../../layouts/Article.astro
 title: "Tại Sao Giáo Hoàng Phải Đối Mặt Với Công Lý Tại La Haye"
 author: "Nguyễn Trí Cảm"
 date: 2012-03-26
-source: "https://sachhiem.net/TONGIAO/NGTRCAM/NguyenTriCam26.php"
+source: "/TONGIAO/NGTRCAM/NguyenTriCam26"
 category: "Tác giả"
 lang: vi
 wordCount: 2053

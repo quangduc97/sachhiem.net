@@ -2,14 +2,14 @@
 layout: ../../../layouts/Article.astro
 title: "Quốc Ngữ, Nỗi Trăn Trở"
 author: "Trần Trọng Sỹ"
-source: "https://sachhiem.net/TTS/VH/TranTrongSy.php"
+source: "/TTS/VH/TranTrongSy"
 category: "Văn hóa"
 lang: vi
 wordCount: 8762
-image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nha.jpg"
+image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/VANHOC/Hinh/LatinAmerica.gif"
 ---
 
-<p align="center"><a href="https://www.sachhiem.net/"> <img border="0" src="https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nha.jpg"></a> 01-July-2014</p>
+<p align="center"> 01-July-2014</p>
    <div class="tomluoc">
     <p><i>Việt Nam từ khi thực dân Pháp đặt nền móng cai trị cho đến 1975, lúc nào cũng lắm phong ba bão tố chưa bao giờ có một nền chính trị ổn định và độc lập. Đến khi cuộc cách mạng 1963 lật đổ được Ngô Đình Diệm, con đường mang tên giáo sĩ Đắc Lộ đã được nhân sĩ miền Nam tháo bỏ, nhưng đáng tiếc là cố thủ tướng Võ Văn Kiệt lại đưa nó trở về. <b>Mong rằng nhà nước nên xét lại việc vinh danh cho tên giặc cướp nước này.</b> Đây là một sai lầm rất nghiêm trọng của lịch sử, cũng là sự khinh thường xương máu của nhân dân.  (Trần Trọng Sỹ)</i></p>
   </div>
@@ -147,4 +147,4 @@ image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nha.jpg"
 <p class="TacgiaL">Trần Trọng Sỹ </p>
 <p class="nguonL">Nguồn: tác giả gửi</p>
 ___________________
-<p>Các bài của Trần Trọng Sỹ: link <a href="https://sachhiem.net/TTS/ListTTS.inc.php" target="_blank">https://sachhiem.net/TTS/ListTTS.inc.php</a></p>
+<p>Các bài của Trần Trọng Sỹ: link <a href="/TTS/ListTTS.inc" target="_blank">https://sachhiem.net/TTS/ListTTS.inc.php</a></p>

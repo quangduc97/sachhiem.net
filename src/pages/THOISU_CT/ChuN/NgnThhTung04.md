@@ -3,7 +3,7 @@ layout: ../../../layouts/Article.astro
 title: "Bạo loạn tại Bình Dương: Mỡ đến miệng mèo"
 author: "Nguyễn Thanh Tùng"
 date: 2014-01-18
-source: "https://sachhiem.net/THOISU_CT/ChuN/NgnThhTung04.php"
+source: "/THOISU_CT/ChuN/NgnThhTung04"
 category: "Lịch sử"
 lang: vi
 wordCount: 2973

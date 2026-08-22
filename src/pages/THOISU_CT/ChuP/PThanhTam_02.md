@@ -3,7 +3,7 @@ layout: ../../../layouts/Article.astro
 title: "Các Tiêu Điểm Của Những Người Chống Cộng"
 author: "TP Thanh Tâm"
 date: 2017-10-18
-source: "https://sachhiem.net/THOISU_CT/ChuP/PThanhTam_02.php"
+source: "/THOISU_CT/ChuP/PThanhTam_02"
 category: "Chính trị"
 lang: vi
 wordCount: 6143

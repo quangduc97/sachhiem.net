@@ -3,7 +3,7 @@ layout: ../../../layouts/Article.astro
 title: "Tên Bán Nước Trương Vĩnh Ký Bây Giờ Lại Được Vinh Danh, Đặt Tên Đường, Tên Trường"
 author: "Lão Chăn Bò"
 date: 2021-10-05
-source: "https://sachhiem.net/LICHSU/L/LaoChanBo.php"
+source: "/LICHSU/L/LaoChanBo"
 category: "Lịch sử"
 lang: vi
 wordCount: 1056
@@ -25,8 +25,8 @@ image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/LICHSU/IMG/PETRUSKY/
  <p class="TacgiaL"> Lão Chăn Bò</p>
 <p>_______________</p>
 <p><b>Tham khảo:</b></p>
-<p>- <a href="https://sachhiem.net/BUIKHA/BuiKha25b_TVK.php">Trương Vĩnh Ký Phản Bội Tổ Quốc, Sao Lại Gọi Là Yêu Nước?</a> (Bùi Kha)</p>
-<p>- <a href="https://sachhiem.net/LICHSU/T/TinTiengKeng.php">Cái Uyên Bác Của Trương Vĩnh Ký Giúp Pháp Thế Nào?</a> (theo Lò Thị Tố Uyên/ Tiếng Kẻng)</p>
+<p>- <a href="/BUIKHA/BuiKha25b_TVK">Trương Vĩnh Ký Phản Bội Tổ Quốc, Sao Lại Gọi Là Yêu Nước?</a> (Bùi Kha)</p>
+<p>- <a href="/LICHSU/T/TinTiengKeng">Cái Uyên Bác Của Trương Vĩnh Ký Giúp Pháp Thế Nào?</a> (theo Lò Thị Tố Uyên/ Tiếng Kẻng)</p>
 <p>________________</p>
 <p><b>Video:</b></p>
 <p><a href="https://www.youtube.com/watch?v=DoYC6-mWd9M">Lại Vì Tên A.D Rhodes - Về bài "Sự dối trá đã sổ toẹt bản kiến nghị..." của báo Dân Trí</a> (VDC)</p>

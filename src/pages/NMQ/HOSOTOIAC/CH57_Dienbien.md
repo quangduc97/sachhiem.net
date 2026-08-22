@@ -3,7 +3,7 @@ layout: ../../../layouts/Article.astro
 title: "GIÁO HỘI LA MÃ:"
 author: "- Nguyễn Mạnh Quang -"
 date: 2013-10-11
-source: "https://sachhiem.net/NMQ/HOSOTOIAC/CH57_Dienbien.php"
+source: "/NMQ/HOSOTOIAC/CH57_Dienbien"
 lang: vi
 wordCount: 12079
 image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/LICHSU/IMG/VNwar/DBP_Phapnhaydu_C119.png"

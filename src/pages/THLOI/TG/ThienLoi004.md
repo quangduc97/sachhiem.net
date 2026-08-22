@@ -2,18 +2,18 @@
 layout: ../../../layouts/Article.astro
 title: "Bàn những chuyện về ‘Cha’ Nghị"
 author: "Thiên Lôi"
-source: "https://sachhiem.net/THLOI/TG/ThienLoi004.php"
+source: "/THLOI/TG/ThienLoi004"
 category: "Tác giả"
 lang: vi
 wordCount: 11088
-image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nha.jpg"
+image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/TONGIAO/IMG/LINHMUC/TranCongNghi_18apr21.JPG"
 ---
 
 <p class="Tuaduoi">Lật chồng báo cũ:</p>
 		
 		
         
-        <p align="center">  <a href="/index"><img border="0" src="https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nha.jpg"></a>   bổ túc 04 tháng 3, 2008
+        <p align="center">     bổ túc 04 tháng 3, 2008
 	</p>
         <div class="tomluoc">
   <p>Cập nhật 20 tháng 4, 2021:</p>

@@ -2,17 +2,16 @@
 layout: ../../../layouts/Article.astro
 title: "Xâm lược Nam Á:"
 author: "Nguyễn Trí Cảm chuyển ngữ"
-source: "https://sachhiem.net/null"
+source: "/null"
 category: "Tác giả"
 lang: vi
 wordCount: 1484
-image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nha.jpg"
+image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/TONGIAO/NguyenTriCam115_files/image002.gif"
 ---
 
 <table border="0" cellpadding="0" width="250" align="center"><tbody><tr>
 				<td width="125">
-				<a href="/index">
-				<img border="0" src="https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nha.jpg"></a></td>
+				</td>
 	<td valign="top">	21 tháng 7, 2009	</td></tr></tbody></table>
 		
 			<p><span class="First">G</span>iáo hoàng John Paul II kêu gọi các chính phủ 

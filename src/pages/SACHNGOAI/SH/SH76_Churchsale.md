@@ -3,7 +3,7 @@ layout: ../../../layouts/Article.astro
 title: "Nhà Thờ Ở Âu Mỹ: Bán - Đốt - Biến Đổi..."
 author: "SH sưu tầm"
 date: 2025-03-23
-source: "https://sachhiem.net/SACHNGOAI/SH/SH76_Churchsale.php"
+source: "/SACHNGOAI/SH/SH76_Churchsale"
 category: "Chính trị"
 lang: vi
 wordCount: 1794
@@ -37,7 +37,7 @@ image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/TONGIAO/IMG/CHURCH/B
 
 <p align="center"><img src="https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/Decor_chr0up.jpg" width="198" height="26" alt=""></p>
 <p class="TuaDenLeft"><b>Trong Hơn Một Năm, 95 Nhà thờ Công Giáo Tại Hoa Kỳ Bị Tấn Công</b></p>
-<p>(Xem bài trên trang nhà: <a href="https://sachhiem.net/TONGIAO/tgT/TinVatican02.php">Tổng hợp Vatican News)</a></p>
+<p>(Xem bài trên trang nhà: <a href="/TONGIAO/tgT/TinVatican02">Tổng hợp Vatican News)</a></p>
 <p><b>Ít nhất 10 nhà thờ ở Canada đã bị đốt sau khi hài cốt các trẻ em bản địa được tìm thấy</b></p>
 <p>Vatican News: từ ngày 07 tháng 7, 2021 </p>
 <p align="center"><img src="https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/TONGIAO/IMG/CHURCH/DAP PHA/NhathoGianTayGia_Jun2021.JPG" width="450" height="254" alt=""></p>
@@ -59,7 +59,7 @@ image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/TONGIAO/IMG/CHURCH/B
 
 <p align="center"><img src="https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/Decor_chr0up.jpg" width="198" height="26" alt=""></p>
 <p class="TuaDenLeft">Nhà Thờ Đang Thay Đổi Diện Mạo. </p>
-<p>Xem bài của <a href="https://sachhiem.net/TONGIAO/NGTRCAM/NguyenTriCam40.php">Nguyến Trí Cảm ngày 26/6/2015</a></p>
+<p>Xem bài của <a href="/TONGIAO/NGTRCAM/NguyenTriCam40">Nguyến Trí Cảm ngày 26/6/2015</a></p>
 <p>Về kiến trúc, một số nhà thờ bắt đầu có khuynh hướng xây dựng có kiến trúc trông rất giống chùa chiền. Nhà thờ Phát Diệm chỉ là biểu tượng chung về hình thức xây dựng giống chùa trong quá khứ. Trên thực tế, hiện nay có khá nhiều nhà thờ mới được xây dựng cũng xây cổng tam quan, cũng rồng chầu và mái ngói đầu đao hình rồng, phượng. Độc giả có thể xem hình ảnh “rồng chầu” của nhà thờ Du Sinh, Đà Lạt giống như lăng tẩm vua chúa Triều Nguyễn ở Huế....</p>
 <p align="center"><img src="https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/TONGIAO/IMG/CHURCH/nhatho_DuSinh_Dalat.gif" width="312" height="192" alt=""></p>
 <p align="center"><img src="https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/TONGIAO/IMG/CHURCH/Lang_GiaLong_Hue.jpg" width="296" height="192" alt=""></p>

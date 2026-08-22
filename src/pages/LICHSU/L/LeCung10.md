@@ -3,7 +3,7 @@ layout: ../../../layouts/Article.astro
 title: "Bàn Về “Cuộc Cách Mạng Tư Sản Pháp (1789 – 1799)”"
 author: "Lê Cung"
 date: 2021-05-13
-source: "https://sachhiem.net/LICHSU/L/LeCung10.php"
+source: "/LICHSU/L/LeCung10"
 category: "Chính trị"
 lang: vi
 wordCount: 3719

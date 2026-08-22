@@ -2,7 +2,7 @@
 layout: ../../../layouts/Article.astro
 title: "LỊCH SỬ HOA KỲ"
 author: "Nguyễn Mạnh Quang dịch"
-source: "https://sachhiem.net/NMQ/LSHK/LSHKmain.php"
+source: "/NMQ/LSHK/LSHKmain"
 lang: vi
 wordCount: 644
 image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/NMQ/LSHK/HINH/3ships.jpg"

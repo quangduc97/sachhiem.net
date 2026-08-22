@@ -3,7 +3,7 @@ layout: ../../../layouts/Article.astro
 title: "Về Nương Tựa Phật"
 author: "Tâm Bối"
 date: 2014-02-04
-source: "https://sachhiem.net/TCN/Memo/TamBoi.php"
+source: "/TCN/Memo/TamBoi"
 category: "Tác giả"
 lang: vi
 wordCount: 575

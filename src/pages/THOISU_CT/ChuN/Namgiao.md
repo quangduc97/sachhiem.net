@@ -3,7 +3,7 @@ layout: ../../../layouts/Article.astro
 title: "CỜ BAY ! CỜ BAY ! …"
 author: "Nicolas Trần"
 date: 2014-05-20
-source: "https://sachhiem.net/THOISU_CT/ChuN/Namgiao.php"
+source: "/THOISU_CT/ChuN/Namgiao"
 category: "Tác giả"
 lang: vi
 wordCount: 3234

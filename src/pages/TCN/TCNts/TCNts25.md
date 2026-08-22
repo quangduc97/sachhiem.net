@@ -2,10 +2,10 @@
 layout: ../../../layouts/Article.astro
 title: "DIỆT CHỦNG DÂN TỘC VIỆT NAM"
 author: "Trần Chung Ngọc"
-source: "https://sachhiem.net/index.php?content=showrecipe&id=343"
+source: "/TCN/TCNts/TCNts25"
 lang: vi
 wordCount: 6107
-image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nha.jpg"
+image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/LICHSU/TONY/Tannhan/LInhMy_MoBung_TuBinh.jpg"
 ---
 
 <p class="Tuaduoi">CHỦ NGHĨA KHỦNG BỐ VÀ </p>
@@ -14,7 +14,7 @@ image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nha.jpg"
 		<p class="Tuaduoi">(<a href="https://www.intellnet.org/resources/american_terrorism/Vietnamesevictims.html">American Terrorism and Genocide of the Vietnamese People, 1945-1974</a>)</p>
 
   
- <p align="center"><a href="/index"><img hspace="20" border="0" src="https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nha.jpg"></a>30 tháng 8, 2008</p>
+ <p align="center">30 tháng 8, 2008</p>
  <div style="border-left:2px solid #606060; padding-right: 20px; ">
 
 

@@ -2,13 +2,12 @@
 layout: ../../../layouts/Article.astro
 title: "Công Giáo Huyền Thoại và Tội Ác"
 author: "Charlie Nguyễn"
-source: "https://sachhiem.net/CHARLIE/CN_CGHT/cainoi.php"
+source: "/CHARLIE/CN_CGHT/cainoi"
 lang: vi
 wordCount: 6718
-image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nha.jpg"
 ---
 
-<p align="center"><a href="/index"><img hspace="20" border="0" src="https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nha.jpg"></a><b><font face="Symbol" size="5"><a target="_top" href="/CHARLIE/CN_CGHT/CN_CGHTdir">¿</a></font></b> trở ra mục lục | 2007 </p>
+<p align="center"><b><font face="Symbol" size="5"><a target="_top" href="/CHARLIE/CN_CGHT/CN_CGHTdir">¿</a></font></b> trở ra mục lục | 2007 </p>
 <p class="TuaDoLeft"><b>CÁI NÔI CỦA CÁC ĐẠO CHÚA: VÙNG LƯỠI LIỀM PHÌ NHIÊU Ở CẬN ĐÔNG</b></p>
           <p><b>(The Fertile Cressent of The Near East)</b></p>
           <p align="justify">Theo kết quả của những công trình khảo cổ từ đầu thế kỷ 19 đến nay, cái nôi của nền văn minh Tây Phương đã được xác nhận là vùng đồng bằng rộng lớn ở miền Cận Đông. Đất đai của vùng này rất phì nhiêu vì nó đã được tạo nên bởi đất bồi từ những con sông dài gồm có sông Nil (Ai Cập) sông Jordan (Palestine) sông Syria và nhất là hai dòng sông Euphrate và Tigris đều xuất phát từ Tiểu Á để cùng đổ vào vịnh Ba Tư. Nếu ta tô màu các miền đồng bằng phì nhiêu này trên bản đồ, ta sẽ thấy hiện lên một hình vòng cung trông giống như một cái lưỡi liềm chạy dài từ Ai Cập qua Palestine, Jerusalem, Babylon (tức&nbsp;Iraq&nbsp;và Koweit ngày nay) đến vịnh Ba tư. Các nhà khảo cổ gọi vùng ngày là Vùng Lưỡi Liềm Phì Nhiêu Cận Đông (The Fertile Cressent of the Near-East).</p>

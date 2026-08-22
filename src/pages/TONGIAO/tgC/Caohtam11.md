@@ -3,7 +3,7 @@ layout: ../../../layouts/Article.astro
 title: "Vụ Treo Cờ Vàng Trong Khu Gia Cư"
 author: "Cao Hữu Tâm"
 date: 2014-04-09
-source: "https://sachhiem.net/TONGIAO/tgC/Caohtam11.php"
+source: "/TONGIAO/tgC/Caohtam11"
 category: "Tác giả"
 lang: vi
 wordCount: 2086

@@ -3,7 +3,7 @@ layout: ../../layouts/Article.astro
 title: "Thư Tình Gửi Một Người:"
 author: "Nguyễn Hoàn"
 date: 2011-12-20
-source: "https://sachhiem.net/NGHOAN/NgHoan010.php"
+source: "/NGHOAN/NgHoan010"
 category: "Văn hóa"
 lang: vi
 wordCount: 4737

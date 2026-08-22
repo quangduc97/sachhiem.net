@@ -3,7 +3,7 @@ layout: ../../../layouts/Article.astro
 title: "Nhân Ngày Quốc Tế Phụ Nữ -"
 author: "FB Thi Nguyễn"
 date: 2021-03-08
-source: "https://sachhiem.net/TONGIAO/FB/FBThiNguyen16.php"
+source: "/TONGIAO/FB/FBThiNguyen16"
 category: "Tác giả"
 lang: vi
 wordCount: 873

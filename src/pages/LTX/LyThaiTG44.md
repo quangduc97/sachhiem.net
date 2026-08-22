@@ -3,7 +3,7 @@ layout: ../../layouts/Article.astro
 title: "BÌNH AN TRONG TÂM HỒN!"
 author: "Lý Thái Xuân"
 date: 2025-09-18
-source: "https://sachhiem.net/LTX/LythaiTG44.php"
+source: "/LTX/LythaiTG44"
 category: "Chính trị"
 lang: vi
 wordCount: 1430

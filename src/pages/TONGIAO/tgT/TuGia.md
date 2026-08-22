@@ -3,7 +3,7 @@ layout: ../../../layouts/Article.astro
 title: "Nỗi kinh sợ tà đạo \"Đức Thánh Chúa Trời\":"
 author: "Tin VTC"
 date: 2018-04-27
-source: "https://sachhiem.net/TONGIAO/tgT/TuGia.php"
+source: "/TONGIAO/tgT/TuGia"
 category: "Chính trị"
 lang: vi
 wordCount: 2489
@@ -69,7 +69,7 @@ image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/TONGIAO/IMG/DUCCHUAT
 <p>  Còn nhớ chính quyền Hà Nội đã cho phép tổ chức một <b>buổi lễ  “miệt thị tổ tiên” </b>ngay giữa lòng thủ đô đêm 19 tháng 12, 2009:</p>
 <p>  Hãy đọc lại bài tường thuật <i>“Lửa Đã Cháy Trên Quảng Trường  Mỹ Đình, Hà Nội</i>” đăng bởi Ban Biên Tập HOITHANH.COM – Vietnamese Global  Christian Network, ngày 21/12/2009</p>
 <p>  <a href="https://hoithanh.com/10182/lua-da-chay-tren-quang-truong-my-dinh-ha-noi.html">https://hoithanh.com/10182/lua-da-chay-tren-quang-truong-my-dinh-ha-noi.html</a></p>
-<p>[SH - Xin xem <a href="https://sachhiem.net/EMAILS/emailN/Nguyen.php">Một số trong những điều giảng dạy trịch thượng của các giáo phái Tin Lành</a>]</p>
+<p>[SH - Xin xem <a href="/EMAILS/emailN/Nguyen">Một số trong những điều giảng dạy trịch thượng của các giáo phái Tin Lành</a>]</p>
 <p align="center"><iframe width="480" height="270" src="https://www.youtube.com/embed/CuADMaTbLdA" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen=""></iframe></p>
 <p>Điều đáng ngạc nhiên là tình hình an ninh, tệ nạn xã hội  càng lúc càng gia tăng trước sự đe dọa sự tồn vong của dân tộc của bọn bành trướng  Bắc Kinh, Nhà nước VN xem ra rất thụ động, chẳng hề có sách lược hữu hiệu để an  dân, tiêu diệt mầm mống hổn loạn từ trong trứng nước. Mọi nguy nan đều do dân  lên tiếng báo động trước rồi các quan chức từ từ tìm cách giải quyết sau, luôn  chạy sau sự vụ. Uy tín của Đảng lãnh đạo càng lúc càng suy giảm với nạn tham  nhũng của CBĐV chủ chốt tràn lan ở các cấp và các địa phương.</p>
 <p>  Hãy đọc thêm ở đây để hiểu về sự hoành hành của tà giáo này  đã lâu ở VN trước sự bàng quang của cơ quan chức năng; hay Đảng và NN bận giải  quyết nhiều chính sự quan trọng khác nên đã lơ là về mối đe dọa tiềm ẩn này:</p>

@@ -3,7 +3,7 @@ layout: ../../../layouts/Article.astro
 title: "Giới Trẻ Châu Á Cần Một Phật Giáo Tươi Mới"
 author: "Bảo Thiên"
 date: 2016-06-10
-source: "https://sachhiem.net/TONGIAO/tgB/BaoThien.php"
+source: "/TONGIAO/tgB/BaoThien"
 category: "Chính trị"
 lang: vi
 wordCount: 1421

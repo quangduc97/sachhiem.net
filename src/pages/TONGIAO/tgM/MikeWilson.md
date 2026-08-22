@@ -3,7 +3,7 @@ layout: ../../../layouts/Article.astro
 title: "Về Sự Tái Sinh"
 author: "Mike Wilson"
 date: 2015-04-05
-source: "https://sachhiem.net/TONGIAO/tgM/MikeWilson.php"
+source: "/TONGIAO/tgM/MikeWilson"
 category: "Tác giả"
 lang: vi
 wordCount: 168

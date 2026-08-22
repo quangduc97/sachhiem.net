@@ -3,7 +3,7 @@ layout: ../../../../layouts/Article.astro
 title: "Christopher Hitchens - Đạo Kitô là một Hệ thống vô Đạo đức"
 author: "Lê Dọn Bàn"
 date: 2018-05-17
-source: "https://sachhiem.net/SACHNGOAI/snL/LeDonBan/LDB15.php"
+source: "/SACHNGOAI/snL/LeDonBan/LDB15"
 category: "Tác giả"
 lang: vi
 wordCount: 6311

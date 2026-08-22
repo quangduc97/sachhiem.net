@@ -3,7 +3,7 @@ layout: ../../../layouts/Article.astro
 title: "Lại trò trí trá của gia đình Cù Huy Hà Vũ và Việt Tân"
 author: "Võ Khánh Linh"
 date: 2012-06-15
-source: "https://sachhiem.net/THOISU_CT/ChuV/VoKhanhLinh01.php"
+source: "/THOISU_CT/ChuV/VoKhanhLinh01"
 category: "Chính trị"
 lang: vi
 wordCount: 845

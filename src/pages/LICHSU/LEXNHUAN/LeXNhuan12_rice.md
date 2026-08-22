@@ -3,7 +3,7 @@ layout: ../../../layouts/Article.astro
 title: "Tổng-Thống Ngô Đình Diệm Tặng Gạo Cho Dân Tây-Tạng Tị-Nạn"
 author: "Lê Xuân Nhuận"
 date: 2014-04-16
-source: "https://sachhiem.net/LICHSU/LEXNHUAN/LeXNhuan12_rice.php"
+source: "/LICHSU/LEXNHUAN/LeXNhuan12_rice"
 category: "Lịch sử"
 lang: vi
 wordCount: 5732
@@ -44,9 +44,9 @@ image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/LICHSU/IMG/SACH/VNCH
 </div>
 <p> <a name="n2" class="TuaDenLeft" href="/LICHSU/#tit2">  ▪  II- Phản-Ứng </a></p>
 <p><b>2.1.</b>   Ngày 23-07-2014, Ông Nguyễn Kha đã đăng trên nhà-mạng <i>Sách Hiếm</i> một  bài-viết nhan đề </p>
-<p class="Tuaduoi"><a href="https://sachhiem.net/index.php?content=showrecipe&amp;id=6075"><b>Đức Dalai Lama, Ông Ngô Đình Diệm  <br> Và Mặc Cảm Tội Lỗi Của Nhóm “Hoài Ngô”</b>  </a></p>
+<p class="Tuaduoi"><a href="/LICHSU/N/NguyenKha_01"><b>Đức Dalai Lama, Ông Ngô Đình Diệm  <br> Và Mặc Cảm Tội Lỗi Của Nhóm “Hoài Ngô”</b>  </a></p>
 <p>sau khi rà khắp trên Internet, tìm được 3 nguồn tiếng Việt và tiếng Anh đăng tin về cuộc  viếng-thăm của Đức Đạt-Lai Lạt-Ma tại Chùa Viên-Giác vào ngày 20-9-2013, nhưng trong cả 3  tài-liệu ấy đều không có một chữ “Ngô Đình Diệm” hay“tặng gạo” nào cả (<i>Nguồn:</i>) </p>
-<p>        <a href="https://sachhiem.net/index.php?content=showrecipe&amp;id=6075" target="_blank">https://sachhiem.net/index.php?content=showrecipe&amp;id=6075</a></p>
+<p>        <a href="/LICHSU/N/NguyenKha_01" target="_blank">https://sachhiem.net/index.php?content=showrecipe&amp;id=6075</a></p>
 <p><b>2.2.</b> Ngày 29-7-2014, Lê Xuân Nhuận đã gửi thư đến Hòa-Thượng Thích Như Điển, Phương-Trượng Chùa Viên-Đức ở Đức, để hỏi xem “<i>chính  Thầy, và/hoặc các đạo-hữu hiện-diện tại Chùa Viên Giác vào ngày 20-9-2013, có  nghe Đức Đạt Lai Lạt Ma kể rằng cố Tổng-Thống Ngô Đình Diệm đã “âm thầm gửi  hàng tấn gạo để cứu khổ những người Phật Giáo Tây Tạng” hay không</i>”. </p>
 <p><b>2.3.</b>   Ngày 07-8-2014, Hòa-Thượng Thích Như Điển đã trả lời Lê Xuân Nhuậnbằng vi-thư như sau: </p>
 <div class="indent50">

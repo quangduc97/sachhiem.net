@@ -3,7 +3,7 @@ layout: ../../layouts/Article.astro
 title: "“Quốc Hận” – Làm Sao Cho Bu Hiểu"
 author: "của Xích Lô Việt"
 date: 2013-05-05
-source: "https://sachhiem.net/XICHLOV/XichloViet012cm.php"
+source: "/XICHLOV/XichloViet012cm"
 category: "Tác giả"
 lang: vi
 wordCount: 12620

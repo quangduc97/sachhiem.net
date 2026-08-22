@@ -1,7 +1,7 @@
 ---
 layout: ../../../layouts/Article.astro
 title: "Tủ Sách của Tác Giả Charlie Nguyễn"
-source: "https://sachhiem.net/nguồn https://home.earthlink.net/~charlienguyen/muc_luc.htm"
+source: "/nguồn https://home.earthlink.net/~charlienguyen/muc_luc.htm"
 category: "Tác giả"
 lang: vi
 wordCount: 30
@@ -28,20 +28,20 @@ image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/IMG/BVCsmall.jpg"
 		</center>
 		<div style="padding-left: 10px; padding-right: 10px">
 		
-		<p><a href="https://sachhiem.net/">
+		<p><a href="/">
 		<img border="0" src="https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nhacu.jpg" width="49" height="20"></a> </p>
 		
 		<li><a href="/TrangCharlie">Mục Lục Charlie</a></li>
 		
 	
 			
-		<li><a target="TG" href="https://sachhiem.net/CHARLIE/CN_TG/Traloicacban.php">Charlie 
+		<li><a target="TG" href="/CHARLIE/CN_TG/Traloicacban">Charlie 
 		Trả Lời Các Bạn </a><br>
-		</li><li><a target="TG" href="https://sachhiem.net/CHARLIE/CN_TG/quandiemdoinghich.php">Hai Lá 
+		</li><li><a target="TG" href="/CHARLIE/CN_TG/quandiemdoinghich">Hai Lá 
 		Thư Úc Châu </a><br>
-		</li><li><a target="TG" href="https://sachhiem.net/CHARLIE/CN_TG/Tamsu.php">Tâm sự với bạn cũ
+		</li><li><a target="TG" href="/CHARLIE/CN_TG/Tamsu">Tâm sự với bạn cũ
 		</a><br>
-		</li><li><a target="TG" href="https://sachhiem.net/CHARLIE/CN_TG/Vinhbiet.php">Vĩnh Biệt Thánh 
+		</li><li><a target="TG" href="/CHARLIE/CN_TG/Vinhbiet">Vĩnh Biệt Thánh 
 		Gia </a><br>
 &nbsp;
 		<br>&nbsp;</li>

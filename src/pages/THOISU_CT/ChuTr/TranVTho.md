@@ -3,16 +3,16 @@ layout: ../../../layouts/Article.astro
 title: "Nhật Bản:"
 author: "Trần Văn Thọ/ DNSGCT"
 date: 2013-02-03
-source: "https://sachhiem.net/THOISU_CT/ChuTr/TranVTho.php"
+source: "/THOISU_CT/ChuTr/TranVTho"
 category: "Chính trị"
 lang: vi
 wordCount: 2148
-image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nha.jpg"
+image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/THOISU_CT/Hinh/JAPAN//TranVTho_IkedaHayato_JKennedy.jpg"
 ---
 
 <table border="0" cellpadding="0" align="center" width="250">
             <tbody><tr>
-              <td width="100"><a href="/index"><img border="0" src="https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nha.jpg"></a></td>
+              <td width="100"></td>
         	<td valign="top">03-Feb-2013  </td>
             </tr></tbody></table>
 <p><span class="First">T</span>hông thường trí thức là người hiểu biết, có trình độ văn hóa cao, có kiến thức chuyên môn, và không bị ràng buộc vào (hoặc có ý thức tránh xa) những lợi ích phát sinh từ quan hệ với lãnh đạo chính trị. Trí thức có thể đối lập với chủ trương của lãnh đạo nếu thấy chủ trương đó đi ngược lại lợi ích của dân tộc, của đất nước, hoặc thấy không khoa học, không hợp với quy luật khách quan. Nhưng cũng không hiếm những trường hợp lãnh đạo và trí thức tin tưởng, tôn trọng lẫn nhau và trí thức giúp lãnh đạo làm nên sự nghiệp cao cả, đưa đất nước vào thời đại xán lạn. Ngày xưa không thiếu những trường hợp minh quân gặp hiền tài và cùng làm nên nghiệp lớn. Lưu Bang gặp Trương Lương, Lê Lợi gặp Nguyễn Trãi là những ví dụ.</p>

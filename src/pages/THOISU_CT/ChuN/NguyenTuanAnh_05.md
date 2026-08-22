@@ -3,7 +3,7 @@ layout: ../../../layouts/Article.astro
 title: "Tâm Phục Khẩu Phục"
 author: "Nguyễn Tuấn Anh"
 date: 2024-06-21
-source: "https://sachhiem.net/THOISU_CT/ChuN/NguyenTuanAnh_05.php"
+source: "/THOISU_CT/ChuN/NguyenTuanAnh_05"
 category: "Chính trị"
 lang: vi
 wordCount: 177

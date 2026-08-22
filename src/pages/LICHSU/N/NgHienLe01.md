@@ -3,7 +3,7 @@ layout: ../../../layouts/Article.astro
 title: "30 THÁNG TƯ 1975,"
 author: "Trích đoạn từ Hồi ký Nguyễn Hiến Lê"
 date: 2016-04-28
-source: "https://sachhiem.net/LICHSU/N/NgHienLe01.php"
+source: "/LICHSU/N/NgHienLe01"
 category: "Lịch sử"
 lang: vi
 wordCount: 2639

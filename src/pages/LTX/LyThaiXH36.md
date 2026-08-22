@@ -3,7 +3,7 @@ layout: ../../layouts/Article.astro
 title: "Những Kỷ Niệm Vui Bên Xứ Người"
 author: "Lý Thái Xuân"
 date: 2019-03-26
-source: "https://sachhiem.net/LTX/LyThaiXH36.php"
+source: "/LTX/LyThaiXH36"
 category: "Xã hội"
 lang: vi
 wordCount: 1325

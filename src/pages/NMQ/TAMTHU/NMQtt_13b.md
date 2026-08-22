@@ -3,17 +3,17 @@ layout: ../../../layouts/Article.astro
 title: "Tâm Thư Gửi Nhà Nước Việt Nam"
 author: "Nguyễn Mạnh Quang"
 date: 2004-03-28
-source: "https://sachhiem.net/NMQ/TAMTHU/NMQtt_13b.php"
+source: "/NMQ/TAMTHU/NMQtt_13b"
 lang: vi
 wordCount: 13547
-image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nha.jpg"
+image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/print.gif"
 ---
 
-<p align="center"><a href="https://www.sachhiem.net/"> <img border="0" src="https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nha.jpg"></a> | 
-<a target="_blank" href="https://sachhiem.net/NMQ/TAMTHU/NMQtt_13b.php">
+<p align="center"> | 
+<a target="_blank" href="/NMQ/TAMTHU/NMQtt_13b">
 <img border="0" src="https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/print.gif" width="18" height="18"> 
   bản in</a> | 
-	<a target="_blank" href="https://sachhiem.net/NMQ/TAMTHU/NMQtt_Main.php"><b><font face="Symbol" size="5"> ¿ </font></b> trở ra mục lục</a>
+	<a target="_blank" href="/NMQ/TAMTHU/NMQtt_Main"><b><font face="Symbol" size="5"> ¿ </font></b> trở ra mục lục</a>
  |  31 tháng 12, 2009 </p>
 <p class="CHUONG">PHẦN III</p>
 <center>◎◎◎</center>
@@ -22,10 +22,10 @@ image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nha.jpg"
 <p class="MUC">NHỮNG VIỆC LÀM "SÁNG DANH CHÚA" CỦA GIÁO HỘI</p>
 <p> (tiếp theo)</p>
 <div style="border-top: 1px solid #949494; border-bottom: 1px solid #949494; padding-top: 8px; padding-bottom: 8px; background-color: #F1F1F3">
-	Các bài trong chương 13:<p><a target="_blank" href="https://sachhiem.net/NMQ/TAMTHU/NMQtt_13.php">I.- Bản Tuyên Cáo "Dictatus papae" thời Giáo Hoàng Gregory VII</a>
+	Các bài trong chương 13:<p><a target="_blank" href="/NMQ/TAMTHU/NMQtt_13">I.- Bản Tuyên Cáo "Dictatus papae" thời Giáo Hoàng Gregory VII</a>
 	</p>
-	<p><a target="_blank" href="https://sachhiem.net/NMQ/TAMTHU/NMQtt_13a.php">II.- Sự Giàu Có Của Vatican- Phóng Tay Cướp Đoạt Tài Sản Dân Chúng </a></p>
-	<p><a target="_blank" href="https://sachhiem.net/NMQ/TAMTHU/NMQtt_13b.php">III.- Những Hành Động Bạo Ngược và Dã Man Của Nhà Thờ Vatican Và Tín Đồ Ca-Tô 
+	<p><a target="_blank" href="/NMQ/TAMTHU/NMQtt_13a">II.- Sự Giàu Có Của Vatican- Phóng Tay Cướp Đoạt Tài Sản Dân Chúng </a></p>
+	<p><a target="_blank" href="/NMQ/TAMTHU/NMQtt_13b">III.- Những Hành Động Bạo Ngược và Dã Man Của Nhà Thờ Vatican Và Tín Đồ Ca-Tô 
 	</a></p></div>
 <p class="TuaDoLeft">
 III.- Những Hành Động Bạo Ngược và Dã Man Của Nhà Thờ Vatican Và Tín Đồ Ca-Tô </p>
@@ -719,7 +719,7 @@ Chúa Trời của họ dạy nhân từ, bác ái, thương người bằng cá
 lành của những người Gia Tô là</i> <i>
 như vậy đó!” </i>
 <a name="_ednref25" title="" href="/NMQ/#_edn25">
-[25]</a> (Xin đọc thêm <a href="https://sachhiem.net/LICHSU/N/NgHongHai.php">"Tôi Đã Gặp Kẻ Ăn Thịt Người" của Nguyễn Hồng Hải</a>)</p></div>
+[25]</a> (Xin đọc thêm <a href="/LICHSU/N/NgHongHai">"Tôi Đã Gặp Kẻ Ăn Thịt Người" của Nguyễn Hồng Hải</a>)</p></div>
 
 <p><b>
 10.- Phương cách tra tấn cực kỳ dã man của tín 
@@ -920,10 +920,10 @@ khủng bố giết người như trên, còn rất nhiều vụ khủng bố kh
 bày đầy đủ trong tiểu mục B (Chương 11, Mục IV) ở trên. <img border="0" src="https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/sqdot.gif" width="11" height="7"></p>
 
 <div style="border-top: 1px solid #949494; border-bottom: 1px solid #949494; padding-top: 8px; padding-bottom: 8px; background-color: #F1F1F3">
-	Các bài trong chương 13:<p><a target="_blank" href="https://sachhiem.net/NMQ/TAMTHU/NMQtt_13.php">I.- Bản Tuyên Cáo "Dictatus papae" thời Giáo Hoàng Gregory VII</a>
+	Các bài trong chương 13:<p><a target="_blank" href="/NMQ/TAMTHU/NMQtt_13">I.- Bản Tuyên Cáo "Dictatus papae" thời Giáo Hoàng Gregory VII</a>
 	</p>
-	<p><a target="_blank" href="https://sachhiem.net/NMQ/TAMTHU/NMQtt_13a.php">II.- Vatican Phóng Tay Cướp Đoạt Và Vơ Vét Tài Sản Dân Chúng</a></p>
-	<p><a target="_blank" href="https://sachhiem.net/NMQ/TAMTHU/NMQtt_13b.php">III.- Những Hành Động Bạo Ngược và Dã Man Của Nhà Thờ Vatican Và Tín Đồ Ca-Tô 
+	<p><a target="_blank" href="/NMQ/TAMTHU/NMQtt_13a">II.- Vatican Phóng Tay Cướp Đoạt Và Vơ Vét Tài Sản Dân Chúng</a></p>
+	<p><a target="_blank" href="/NMQ/TAMTHU/NMQtt_13b">III.- Những Hành Động Bạo Ngược và Dã Man Của Nhà Thờ Vatican Và Tín Đồ Ca-Tô 
 	</a></p></div>
 
 <p class="TuaDenLeft">CHÚ THÍCH </p>
@@ -1021,7 +1021,7 @@ Franciscan."</p><p class="baochi">
 		[11]</a>
 		Trần Chung Ngọc. “<i>Tản 
 		mạn về ngày Lễ Tạ Ơn</i>.” Nguồn: 
-		<a href="https://www.sachhiem.net/TCNtg/TCN26.php">
+		<a href="/TCNtg/TCN26">
 		https://www.sachhiem.net/TCNtg/TCN26.php</a>
 	</p><p class="baochi"><a name="_edn12" title="" href="/NMQ/#_ednref12">[12]</a>&nbsp;
 		Avro Manhattan, The 
@@ -1244,8 +1244,8 @@ chí, đồng đội của tôi ở khu biệt giam Chín Hầm này!”.</i></p
 &nbsp;Đốt nén hương trầm nghiêng 
 mình trước anh linh của đồng bào, chiến sĩ đã ngã xuống ở Chín Hầm, chúng tôi 
 lòng tự nhủ lòng cố gắng sống sao cho xứng đáng với sự hy sinh cao cả và vô giá 
-ấy”.</i> [Nguồn: <a href="https://www.sachhiem.net/LICHSU/NgoDiep.php">https://www.sachhiem.net/LICHSU/NgoDiep.php]</a></p><a href="https://www.sachhiem.net/LICHSU/NgoDiep.php">
-</a><p class="baochi"><a href="https://www.sachhiem.net/LICHSU/NgoDiep.php"></a><a name="_edn28" title="" href="/NMQ/#_ednref28">[28]</a> 
+ấy”.</i> [Nguồn: <a href="/LICHSU/NgoDiep">https://www.sachhiem.net/LICHSU/NgoDiep.php]</a></p><a href="/LICHSU/NgoDiep">
+</a><p class="baochi"><a href="/LICHSU/NgoDiep"></a><a name="_edn28" title="" href="/NMQ/#_ednref28">[28]</a> 
 		Nick Schou.<i> 
 		“Lịch Sử Bạo Động Của Giới Chống Cộng Tại Mỹ</i>.” 
 		sachhiem.net. Tháng 12/2007. </p>

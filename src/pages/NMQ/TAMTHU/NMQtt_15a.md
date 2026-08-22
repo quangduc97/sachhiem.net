@@ -2,17 +2,17 @@
 layout: ../../../layouts/Article.astro
 title: "Tâm Thư Gửi Nhà Nước Việt Nam"
 author: "Nguyễn Mạnh Quang"
-source: "https://sachhiem.net/NMQ/TAMTHU/NMQtt_15a.php"
+source: "/NMQ/TAMTHU/NMQtt_15a"
 lang: vi
 wordCount: 9357
-image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nha.jpg"
+image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/print.gif"
 ---
 
-<p align="center"><a href="https://www.sachhiem.net/"> <img border="0" src="https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nha.jpg"></a> | 
-<a target="_blank" href="https://sachhiem.net/NMQ/TAMTHU/NMQtt_15a.php">
+<p align="center"> | 
+<a target="_blank" href="/NMQ/TAMTHU/NMQtt_15a">
 <img border="0" src="https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/print.gif" width="18" height="18"> 
   bản in</a> | 
-	<a target="_blank" href="https://sachhiem.net/NMQ/TAMTHU/NMQtt_Main.php"><b><font face="Symbol" size="5"> ¿ </font></b> trở ra mục lục</a>
+	<a target="_blank" href="/NMQ/TAMTHU/NMQtt_Main"><b><font face="Symbol" size="5"> ¿ </font></b> trở ra mục lục</a>
  |   05 tháng 8, 2010</p>
  
 <p class="CHUONG">PHẦN III</p>
@@ -22,7 +22,7 @@ image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nha.jpg"
 <p class="MUC">Cuộc chiến chống Vatican của người Anh và kế sách của </p>
 <p> Vatican xâm nhập vào giai cấp lãnh đạo nước Anh</p>
 <p class="center">(tiếp theo)</p>
-<p class="center"><a target="_blank" href="https://sachhiem.net/NMQ/TAMTHU/NMQtt_15.php">&nbsp;<span style="background-color: #606060"><font color="#FFFFFF"> 1
+<p class="center"><a target="_blank" href="/NMQ/TAMTHU/NMQtt_15">&nbsp;<span style="background-color: #606060"><font color="#FFFFFF"> 1
 </font></span></a>&nbsp;<b>2 </b> </p>
 
 

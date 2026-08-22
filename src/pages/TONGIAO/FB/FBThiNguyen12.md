@@ -3,7 +3,7 @@ layout: ../../../layouts/Article.astro
 title: "Phản Biện Những Nhận Định Của Con Chiens Phao-Lồ Thái"
 author: "FB Thi Nguyễn"
 date: 2020-09-17
-source: "https://sachhiem.net/TONGIAO/FB/FBThiNguyen12.php"
+source: "/TONGIAO/FB/FBThiNguyen12"
 category: "Tác giả"
 lang: vi
 wordCount: 8717
@@ -122,16 +122,16 @@ Noi Que -&gt;Lâm Phú Châu <br>
    </p>
 <p>Lâm Phú Châu -&gt;Noi Que <br>
   Nhiều  lắm, Noi Que chọn dùm 1 bài nào thích hợp cho cái thư trên nhé:<br>
-  1- HIỂM HỌA  TIN LÀNH (Trần Chung Ngọc)&nbsp;<a href="https://sachhiem.net/TCN/TCNtg/TinLanh/Hiemhoa3.php">https://sachhiem.net/TCN/TCNtg/TinLanh/Hiemhoa3.php</a><br>
+  1- HIỂM HỌA  TIN LÀNH (Trần Chung Ngọc)&nbsp;<a href="/TCN/TCNtg/TinLanh/Hiemhoa3">https://sachhiem.net/TCN/TCNtg/TinLanh/Hiemhoa3.php</a><br>
   2- GIÊ-SU NHƯ  LÀ ĐẤNG “CỨU THẾ” MỘT HÌNH ẢNH CẦN PHẢI DẸP BỎ<br>
   tác giả: Giám  Mục John Shelby Spong<br>
-  người dịch:  Trần Chung Ngọc (<a href="https://www.sachhiem.net/TCN/TCNtg/TCN37.php?fbclid=IwAR2AIxAaFS_rPFtSSnBvXAoWe2JBFoGYxeOpVXuQ3O9Eak8-07rucE2aAJ4" target="_blank">https://www.sachhiem.net/TCN/TCNtg/TCN37.php</a>)<br>
+  người dịch:  Trần Chung Ngọc (<a href="/TCN/TCNtg/TCN37.php?fbclid=IwAR2AIxAaFS_rPFtSSnBvXAoWe2JBFoGYxeOpVXuQ3O9Eak8-07rucE2aAJ4" target="_blank">https://www.sachhiem.net/TCN/TCNtg/TCN37.php</a>)<br>
   3- Tôi đi nghe  Mục Sư Nguyễn Huệ Nhật giảng đạo Tin Lành - Đối Thoại Với Mục Sư - (Nguyễn Hữu  Ba)<br>
-  <a href="https://sachhiem.net/DOITHOAI/NguyenHBa02.phphttp:/sachhiem.net/TCN/TCNtg/TCN148_HMD.php?fbclid=IwAR3gef7eSHqiou7HJ1hKzgpARvwhgSEon6XUQMYdkUF0kuQY-d36PRLLtnU" target="_blank">https://sachhiem.net/.../sachhiem.../TCN/TCNtg/TCN148_HMD.php</a><br>
+  <a href="/DOITHOAI/NguyenHBa02.phphttp:/sachhiem.net/TCN/TCNtg/TCN148_HMD.php?fbclid=IwAR3gef7eSHqiou7HJ1hKzgpARvwhgSEon6XUQMYdkUF0kuQY-d36PRLLtnU" target="_blank">https://sachhiem.net/.../sachhiem.../TCN/TCNtg/TCN148_HMD.php</a><br>
   4- Góp ý với  Gs Trần Chung Ngọc, ông Hoàng Vũ và ba ông Mục sư: Lê Anh Huy, Huỳnh Thiên  Hồng, Nguyễn Huệ Nhật. (Bùi Thúc Định)<br>
-  <a href="https://sachhiem.net/DOITHOAI/BuiThucDinh.php?fbclid=IwAR06hCrrHO8okxPV4KK0fi-XpG_g3wBfA5ckPAlTamEVm90aKrde3f2d6Wc" target="_blank">https://sachhiem.net/DOITHOAI/BuiThucDinh.php</a><br>
+  <a href="/DOITHOAI/BuiThucDinh.php?fbclid=IwAR06hCrrHO8okxPV4KK0fi-XpG_g3wBfA5ckPAlTamEVm90aKrde3f2d6Wc" target="_blank">https://sachhiem.net/DOITHOAI/BuiThucDinh.php</a><br>
   <br>
-  <a href="https://sachhiem.net/TCN/TCNtg/TinLanh/Hiemhoa3.php?fbclid=IwAR2uizquqPEz3Fj5fvfbybP7KTV5bWAcYjHX6a2QWeNCV_JTwtesxPsq2mY" target="_blank">Hiểm Họa Tin Lành -3 (Trần Chung Ngọc)</a><br>
+  <a href="/TCN/TCNtg/TinLanh/Hiemhoa3.php?fbclid=IwAR2uizquqPEz3Fj5fvfbybP7KTV5bWAcYjHX6a2QWeNCV_JTwtesxPsq2mY" target="_blank">Hiểm Họa Tin Lành -3 (Trần Chung Ngọc)</a><br>
   <b>&nbsp;</b> <br>
 Trần Đức</p>
 <p><b>Nguyên Do </b></p>

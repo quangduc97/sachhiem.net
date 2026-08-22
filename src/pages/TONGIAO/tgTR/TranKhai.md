@@ -2,7 +2,7 @@
 layout: ../../../layouts/Article.astro
 title: "Từ Bi Mời Gọi"
 author: "Trần Khải dịch"
-source: "https://sachhiem.net/nguồn: Việt Báo Chủ Nhật, 5/4/2008, 12:02:00 AM"
+source: "/nguồn: Việt Báo Chủ Nhật, 5/4/2008, 12:02:00 AM"
 category: "Tác giả"
 lang: vi
 wordCount: 1054
@@ -34,7 +34,7 @@ image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nhacu.jpg"
 <table border="2" cellpadding="50" cellspacing="0" width="100%" topmargin="10"> 
 	<tbody><tr><td bgcolor="White" align="justify" valign="top">
 	<table border="0" cellpadding="10" width="100%" cols="3"><tbody><tr>
-	<td><a href="https://sachhiem.net/"><img border="0" src="https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nhacu.jpg"></a></td>
+	<td><a href="/"><img border="0" src="https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nhacu.jpg"></a></td>
 	<td valign="top" width="198"><a href="/TONGIAO/#" onclick="location.href='https://sachhiem.net/BIA/sendafriend.php?url='+location.href;"><img src="https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/TONGIAO/file:///C:/SACHHIEM/images/mail.gif" border="0"> 
 	<font size="2">Gửi bài này cho bạn bè</font></a></td>
 	<td valign="top" style="text-align:right">	<font size="2">28 tháng 9, 2007

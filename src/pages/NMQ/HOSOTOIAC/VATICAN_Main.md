@@ -2,7 +2,7 @@
 layout: ../../../layouts/Article.astro
 title: "Giáo Hội La Mã: Lịch Sử Và Hồ Sơ Tội Ác"
 author: "Nguyễn Mạnh Quang"
-source: "https://sachhiem.net/null"
+source: "/null"
 lang: vi
 wordCount: 4
 ---

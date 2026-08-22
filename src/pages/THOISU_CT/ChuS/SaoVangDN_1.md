@@ -3,7 +3,7 @@ layout: ../../../layouts/Article.astro
 title: "Đừng Để Nỏ Thần Rơi Vào Tay Giặc!"
 author: "Sao Vàng Đại Nguyệt"
 date: 2022-11-24
-source: "https://sachhiem.net/THOISU_CT/ChuS/SaoVangDN_1.php"
+source: "/THOISU_CT/ChuS/SaoVangDN_1"
 category: "Chính trị"
 lang: vi
 wordCount: 1692

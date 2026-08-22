@@ -2,15 +2,15 @@
 layout: ../../../layouts/Article.astro
 title: "Tổng Thống Kennedy Gọi Anh Em Ông Diệm"
 author: "James S. Olson & Randy Roberts"
-source: "https://sachhiem.net/LICHSU/C/Cahat_LS00.php"
+source: "/LICHSU/C/Cahat_LS00"
 category: "Lịch sử"
 lang: vi
 wordCount: 1109
-image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nha.jpg"
+image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/SACHNGOAI/Hinhanh/BIASACH/WhereTheDomino_3rdED.jpg"
 ---
 
 <table border="0" width="250" align="center">
-    <tbody><tr><td width="100"><a href="https://sachhiem.net/index.php"><img border="0" src="https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nha.jpg"></a>    </td>   
+    <tbody><tr><td width="100">    </td>   
     <td width="257"><p>February 26, 2012</p></td>
     </tr></tbody></table>
 

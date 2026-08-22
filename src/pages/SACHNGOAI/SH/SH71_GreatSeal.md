@@ -3,7 +3,7 @@ layout: ../../../layouts/Article.astro
 title: "Ý Nghĩa Câu Chữ La-tinh Trên Con Dấu Lớn của Hoa Kỳ"
 author: "SH sưu tầm"
 date: 2024-08-24
-source: "https://sachhiem.net/SACHNGOAI/SH/SH71_GreatSeal.php"
+source: "/SACHNGOAI/SH/SH71_GreatSeal"
 category: "Sách ngoại văn"
 lang: vi
 wordCount: 1184

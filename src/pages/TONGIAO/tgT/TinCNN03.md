@@ -3,16 +3,16 @@ layout: ../../../layouts/Article.astro
 title: "Luật Sư Của Bệnh Viện Ca-tô-lic Cho Rằng"
 author: "CNN / Ben Brumfield và Kyung Lah"
 date: 2013-01-27
-source: "https://sachhiem.net/TONGIAO/tgT/TinCNN03.php"
+source: "/TONGIAO/tgT/TinCNN03"
 category: "Tác giả"
 lang: vi
 wordCount: 1202
-image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nha.jpg"
+image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/TONGIAO/IMG/ABORTION/CatholicsAbortion.jpg"
 ---
 
 <table border="0" cellpadding="0" align="center" width="250">
       <tbody><tr>
-       <td width="100"><a href="/index"><img border="0" src="https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nha.jpg"></a></td>
+       <td width="100"></td>
 <td valign="top" width="210">
 </td></tr></tbody></table>
 <p><i>LTS: Mỗi năm đến mùa bầu cử ở Mỹ, "tòa thánh" Vatican ra rả lên án "phá thai, trong bất cứ trường hợp nào, bất cứ lúc nào trong thời ky thai nghén," cũng  đều là "giết người". Hôm nay chỉ vì  dính líu đến chút tiền bạc, đến một bản án giết người, lại tỉnh bơ phán ngược với lời giáo huấn của "Đức Thánh Cha". Khi cho rằng luật sư theo luật tòa án thì một giáo dân có thể dùng <b>cả hai thứ luật trái ngược nhau</b> để có thể nói ngược ngạo cốt để bảo vệ cho Giáo Hội! (SH) </i></p>

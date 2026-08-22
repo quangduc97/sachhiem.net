@@ -3,7 +3,7 @@ layout: ../../layouts/Article.astro
 title: "Bài Phát Biểu Trước Thủ Tướng Phạm Minh Chính Tại San Francisco - 17 Tháng 5, 2022"
 author: "Lý Thái Xuân"
 date: 2022-05-19
-source: "https://sachhiem.net/LTX/LyThaiLS11.php"
+source: "/LTX/LyThaiLS11"
 category: "Chính trị"
 lang: vi
 wordCount: 1155
@@ -76,7 +76,7 @@ Cám ơn Thủ tướng và quí quan khách đã lắng nghe.</p>
  <p>Bài phát biểu trước Thủ tướng Phạm Minh Chính tối ngày 17 tháng 5, 2022 trên kênh Pho Bolsa TV ở phút thứ 24:10
    <a href="https://youtu.be/G2-cb0XnY9w?t=1449">https://youtu.be/G2-cb0XnY9w?t=1449</a> </p>
  <p>Xem phản ứng của khán thính giả về phần Lịch Sử (chỉ thu thập ngày thứ 1):</p>
- <p>- <a href="https://sachhiem.net/index.php?content=showemail&amp;id=3501">Liên quan đến phát biểu trước TT Phạm Minh Chính về "chương trình giáo dục mới" đối với môn Lịch Sử</a></p>
+ <p>- <a href="/hop-thu/3501">Liên quan đến phát biểu trước TT Phạm Minh Chính về "chương trình giáo dục mới" đối với môn Lịch Sử</a></p>
  <p>______________</p>
  <p><b>Phản hồi tích cực của Thủ tướng</b>:</p>
  <p>- Trong bài diễn văn kết thúc, Thủ tướng ghi nhận những ý kiến đóng góp của các kiều bào. Riêng về lịch sử, <a href="https://youtu.be/G2-cb0XnY9w?t=5667">ở phút 1:34:28</a>, Thủ tướng nhắc nhỡ các đoàn, bộ "<i>nên tiếp thu</i>" ý kiến của các chuyên gia.</p>
@@ -92,5 +92,5 @@ Cám ơn Thủ tướng và quí quan khách đã lắng nghe.</p>
  <p><a href="https://www.facebook.com/luongxuanthuquanquang31/videos/331991682347920/">https://www.facebook.com/luongxuanthuquanquang31/ videos/331991682347920/</a></p>
  <p>______________</p>
  <p><b>Bài đọc thêm:</b></p>
- <p>- <a href="https://sachhiem.net/LICHSU/N/NguyenThanhTuan04_LS.php">Thư Ngỏ Của Trung Tướng Nguyễn Thanh Tuấn Gửi Lãnh Đạo Bộ GD - ĐT</a>.
+ <p>- <a href="/LICHSU/N/NguyenThanhTuan04_LS">Thư Ngỏ Của Trung Tướng Nguyễn Thanh Tuấn Gửi Lãnh Đạo Bộ GD - ĐT</a>.
 của Trung tướng Nguyễn Thanh Tuấn</p>

@@ -3,7 +3,7 @@ layout: ../../../layouts/Article.astro
 title: "Câu Chuyện \"Ngôi Mộ Của Chúa Jesus\" Ở Kashmir và Việc Kinh Doanh Du Lịch."
 author: "Sam Miller/ Srinagar (BBC)"
 date: 2024-11-24
-source: "https://sachhiem.net/SACHNGOAI/SH/SH72_Jesus_India.php"
+source: "/SACHNGOAI/SH/SH72_Jesus_India"
 category: "Sách ngoại văn"
 lang: vi
 wordCount: 1232

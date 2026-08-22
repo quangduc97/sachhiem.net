@@ -3,7 +3,7 @@ layout: ../../../layouts/Article.astro
 title: "Công Tố Viên Kêu Gọi Bắt Giữ Giám Mục Vatican Bị Cáo Buộc Lạm Dụng Tình Dục 2 Chủng Sinh Argentina"
 author: "Vatican Tân"
 date: 2019-11-23
-source: "https://sachhiem.net/TONGIAO/FB/VaticanTan.php"
+source: "/TONGIAO/FB/VaticanTan"
 category: "Chính trị"
 lang: vi
 wordCount: 859

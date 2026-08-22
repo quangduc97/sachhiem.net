@@ -2,14 +2,13 @@
 layout: ../../../layouts/Article.astro
 title: "Tản Mạn và đôi vần thơ về vụ TOÀ KHÂM, THÁI-HÀ"
 author: "Trần Quang Lộc"
-source: "https://sachhiem.net/VANHOC/TQLOC/TranQuangLoc.php"
+source: "/VANHOC/TQLOC/TranQuangLoc"
 category: "Văn hóa"
 lang: vi
 wordCount: 6712
-image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nha.jpg"
 ---
 
-<p align="center"><a href="/index"><img border="0" src="https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nha.jpg"></a>10 tháng 11,   2008</p>  
+<p align="center">10 tháng 11,   2008</p>  
 	
 	<p><i>LTS: Chuyện Ca-tô không bao giờ 
 		"rồi",  ngày nào mà "nguồn gốc" của nó ở Roma vẫn còn tồn tại. Ai có theo 

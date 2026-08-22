@@ -2,10 +2,10 @@
 layout: ../../../layouts/Article.astro
 title: "“NGÀY TẬN THẾ” CỦA KI-TÔ GIÁO"
 author: "Trần Chung Ngọc"
-source: "https://sachhiem.net/null"
+source: "/null"
 lang: vi
 wordCount: 17640
-image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nha.jpg"
+image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/Pict/apocaly.jpg"
 ---
 
 <div align="center" style="position: relative; left: 0; top: 0">
@@ -34,7 +34,7 @@ image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nha.jpg"
 	<blockquote>
 <table border="0" cellpadding="10" width="600" cols="2"><tbody><tr>
 	<td>
-<a href="/index"><img border="0" src="https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nha.jpg"></a></td>
+</td>
 	
 	<td valign="top" style="text-align:right"><font size="2">ngày 26 tháng 5, 2008</font></td></tr></tbody></table>
  

@@ -2,7 +2,7 @@
 layout: ../../../layouts/Article.astro
 title: "VÔ HỮU KHỦNG BỐ"
 author: "Vĩnh Hảo"
-source: "https://sachhiem.net/null"
+source: "/null"
 category: "Tác giả"
 lang: vi
 wordCount: 3655
@@ -31,7 +31,7 @@ image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nhacu.jpg"
 <table border="2" cellpadding="50" cellspacing="0" width="100%" topmargin="10"> 
 	<tbody><tr><td bgcolor="White" align="justify" valign="top">
 				<table border="0" cellpadding="5" width="100%" cols="3">
-				<tbody><tr><td> <a href="https://sachhiem.net/"> <img border="0" src="https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nhacu.jpg"></a></td>
+				<tbody><tr><td> <a href="/"> <img border="0" src="https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nhacu.jpg"></a></td>
 				 
 	<td valign="top" style="text-align:right">	<i><font size="2">14 tháng 4, 2008
 	</font>

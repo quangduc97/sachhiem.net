@@ -3,7 +3,7 @@ layout: ../../../layouts/Article.astro
 title: "ĐƠN TỐ CÁO Số 7: TGM Giu-se Nguyễn Năng Mua Bán Ân Sủng."
 author: "Phan thị Kim Thoa"
 date: 2024-03-11
-source: "https://sachhiem.net/TONGIAO/FB/FBThoaKimPhan7.php"
+source: "/TONGIAO/FB/FBThoaKimPhan7"
 category: "Tác giả"
 lang: vi
 wordCount: 1801

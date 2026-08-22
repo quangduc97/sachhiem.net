@@ -2,7 +2,7 @@
 layout: ../../layouts/Article.astro
 title: "Trình chiếu Câu Chuyện Về LM Trương Bửu Diệp"
 author: "Cầu Móng NTTTLA"
-source: "https://sachhiem.net/null"
+source: "/null"
 lang: vi
 wordCount: 1
 ---
@@ -17,7 +17,7 @@ wordCount: 1
 	 <iframe name="TRUONG" src="https://sachhiem.net/LTX/LythaiTG41_Vid1.php" width="95%" height="2400" marginwidth="5" marginheight="5" hspace="0" vspace="0" frameborder="0" scrolling="auto" target="_blank"></iframe> 
  </td> </tr>
  <tr><td colspan="2">
-<p><a href="https://sachhiem.net/LTX/LythaiTG41_Vid.php" class="indent50">https://sachhiem.net/LTX/LythaiTG41_Vid.php</a> </p>
+<p><a href="/LTX/LythaiTG41_Vid" class="indent50">https://sachhiem.net/LTX/LythaiTG41_Vid.php</a> </p>
  </td></tr>
  </tbody></table>
 </div>

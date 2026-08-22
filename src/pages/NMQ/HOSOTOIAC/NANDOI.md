@@ -3,7 +3,7 @@ layout: ../../../layouts/Article.astro
 title: "DÂN TA BỊ TRẤN LỘT THẾ NÀO"
 author: "- Nguyễn Mạnh Quang -"
 date: 2020-06-05
-source: "https://sachhiem.net/NMQ/HOSOTOIAC/NANDOI.php"
+source: "/NMQ/HOSOTOIAC/NANDOI"
 lang: vi
 wordCount: 4147
 image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/TONGIAO/IMG/VATICAN/SACCHI/RomanusPontifex.jpg"

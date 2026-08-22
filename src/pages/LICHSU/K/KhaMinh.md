@@ -3,7 +3,7 @@ layout: ../../../layouts/Article.astro
 title: "NGỤC TRUNG NHẬT KÝ"
 author: "KHẢ MINH"
 date: 2020-05-19
-source: "https://sachhiem.net/LICHSU/K/KhaMinh.php"
+source: "/LICHSU/K/KhaMinh"
 category: "Chính trị"
 lang: vi
 wordCount: 3996

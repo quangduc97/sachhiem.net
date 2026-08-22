@@ -3,7 +3,7 @@ layout: ../../../layouts/Article.astro
 title: "Các Linh Mục Đánh Tráo Lá Thư Vatican Thế Nào Để Che Mắt Việt Minh?"
 author: "Trần Vinh"
 date: 2023-08-19
-source: "https://sachhiem.net/TONGIAO/tgT/TinNguoiTinHuu.php"
+source: "/TONGIAO/tgT/TinNguoiTinHuu"
 category: "Chính trị"
 lang: vi
 wordCount: 5890

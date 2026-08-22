@@ -3,7 +3,7 @@ layout: ../../../layouts/Article.astro
 title: "Hồi Ký Về Hải Chiến Hoàng Sa Hồi Ký Về Hải Chiến Hoàng Sa Của Một Cựu Trung Úy VNCH"
 author: "Cựu Trung Úy VNCH Hà Đăng Ngân"
 date: 2022-01-18
-source: "https://sachhiem.net/LICHSU/H/HoangSa_hoiky.php"
+source: "/LICHSU/H/HoangSa_hoiky"
 category: "Chính trị"
 lang: vi
 wordCount: 7932
@@ -170,4 +170,4 @@ From: Nói Không Được </span>
 <p>  <b>Kết: </b>Tàu cộng so với  Việt Nam, họ là nước lớn, mạnh hơn nhiều lãnh vực, đặc biệt là về quân sự. Trận  Hoàng Sa năm 1974 ta không đánh đuổi được chúng, đã mất Hoàng Sa từ đó đến nay.  Điều quan trọng cần phải được ghi nhận là: vị nguyên thủ quốc gia VNCH đã đích  thân chỉ thị phải đánh đuổi TC ra khỏi đảo. Vị Tư lệnh Vùng I Duyên Hải đã ra  lệnh cho Chỉ huy trưởng hành quân nổ súng vào chiến hạm và quân TC trên đảo và,  Hải Quân VNCH đã thi hành đúng phương châm: Danh Dự – Tổ Quốc – Trách Nhiệm. </p>
 <p>  Thắng/thua một trận chiến  (battle) là chuyện bình thường trong mọi cuộc chiến (war). Trận đánh Hoàng Sa  là một hành động khẳng định với người dân Việt Nam và thế giới biết rằng Hoàng  Sa là của Việt Nam, một chứng liệu cần được ghi vào hải sử, quân sử, lịch sử để  các thế hệ sau tiếp tục tranh đấu giành lại.   <img src="https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/sqdot.gif" width="10" height="10"></p>
 <p>_____________</p>
-<p><a href="https://sachhiem.net/LICHSU/H/HoangSa_list.php">- Những bài về Trường Sa &amp; Hoàng Sa đăng trong sachhiem.net</a></p>
+<p><a href="/LICHSU/H/HoangSa_list">- Những bài về Trường Sa &amp; Hoàng Sa đăng trong sachhiem.net</a></p>

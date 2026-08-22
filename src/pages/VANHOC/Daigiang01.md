@@ -2,14 +2,14 @@
 layout: ../../layouts/Article.astro
 title: "Nghệ thuật Tranh đảo ngược"
 author: "Đức Ngọc/Báo Ảnh Việt Nam"
-source: "https://sachhiem.net/VANHOC/Daigiang01.php"
+source: "/VANHOC/Daigiang01"
 category: "Văn hóa"
 lang: vi
 wordCount: 435
-image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nha.jpg"
+image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/VANHOC/Hinh/DAIGIANG/Danong.jpg"
 ---
 
-<p align="center"><a href="https://sachhiem.net/index.php"><img border="0" hspace="20" src="https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nha.jpg"></a> 24 tháng 11, 2010</p>
+<p align="center"> 24 tháng 11, 2010</p>
      <p style="FONT-WEIGHT: bold">(BAVN Online) 
       “Chân dung Dan 
       Smith” với sơmi 
@@ -172,5 +172,5 @@ image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nha.jpg"
      <p>- <a href="/VANHOC/Daigiang01">Nghệ thuật Tranh đảo ngược của Đức Ngọc/Báo Ảnh VN</a>. </p>
      <p>- <a href="https://phapluattp.vn/20091212111441170p0c1021/hoa-si-lon-nguoc-nguyen-dai-giang.htm">“Họa sĩ lộn ngược” Nguyễn Đại Giang của QUỲNH TRANG/Pháp Luật VN.</a></p>
      <p>- <a href="/VANHOC/Daigiang">Hội Họa: Nghệ Thuật Đảo Nghịch Chen Chân Thế Giới (SH)</a></p>
-     <p><a href="https://sachhiem.net/VANHOC/Daigiang00.php">- Trò Chuyện Với Họa Sĩ Đại Giang (PVSH)</a></p>
+     <p><a href="/VANHOC/Daigiang00">- Trò Chuyện Với Họa Sĩ Đại Giang (PVSH)</a></p>
      <p><a href="https://sachhiem. net/VANHOC/Daigiang03_truyen1. php">- Họa Sĩ (Nguyễn Đại Giang)</a></p>

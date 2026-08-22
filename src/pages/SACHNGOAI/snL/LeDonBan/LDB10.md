@@ -2,7 +2,7 @@
 layout: ../../../../layouts/Article.astro
 title: "Phản-kitô - The Antichrist (3d)"
 date: 2012-09-30
-source: "https://sachhiem.net/SACHNGOAI/snL/LeDonBan/LDB09.php"
+source: "/SACHNGOAI/snL/LeDonBan/LDB09"
 category: "Tác giả"
 lang: vi
 wordCount: 4865

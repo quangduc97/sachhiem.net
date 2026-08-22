@@ -2,14 +2,14 @@
 layout: ../../../layouts/Article.astro
 title: "Lại \"Chín Năm Bên Cạnh TT Ngô Đình Diệm\"!"
 author: "Lê Xuân Nhuận"
-source: "https://sachhiem.net/LICHSU/LEXNHUAN/LeXNhuan02.php"
+source: "/LICHSU/LEXNHUAN/LeXNhuan02"
 category: "Lịch sử"
 lang: vi
 wordCount: 16240
-image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nha.jpg"
+image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/LICHSU/IMG/NGODD/NgoDD.jpg"
 ---
 
-<p align="center"><a href="/LICHSU/index"><img hspace="20" border="0" src="https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nha.jpg"></a> <a href="/LICHSU/LEXNHUAN/LXN_main">Mục lục các bài liên hệ với chế độ Ngô Đình Diệm </a> &nbsp;&nbsp; 09 tháng 7, 2010 </p>
+<p align="center"> <a href="/LICHSU/LEXNHUAN/LXN_main">Mục lục các bài liên hệ với chế độ Ngô Đình Diệm </a> &nbsp;&nbsp; 09 tháng 7, 2010 </p>
 <p><i>LTS: Với tư cách của một nhân chứng sống, tác giả Lê Xuân Nhuận đã có những bài viết nghiêm túc về cố Tổng Thống Ngô Đình Diệm với nhiều sự kiện chứng minh cho lập luận của mình. Do tính cẩn trọng, ông đã nhìn ra nhiều thông tin sai lầm do thói quen "sáng tác" sự kiện của những văn sĩ "hoài Ngô" trong những bài viết liên hệ. Có những nhận xét như ngày tháng, chức vụ một người vào thời điểm nào đó, xem qua không quan trọng, nhưng một phán đoán chính trị và lịch sử có thể bị sai lạc nếu dựa vào những yếu tố đó. Xin mời đọc bài mới được phổ biến rộng rãi ở các diễn đàn thư tín. Bài của ông Lâm Lễ Trinh, mà tác giả phê bình, được trình bày ở dưới. Để dễ theo dõi, Sachhiem.net đã tự ý tô vàng những đoạn mà tác giả có lời phê. (SH) 
 </i> </p>
 <hr>

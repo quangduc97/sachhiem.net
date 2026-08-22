@@ -3,7 +3,7 @@ layout: ../../../layouts/Article.astro
 title: "Một Học Giả của Fox News Gọi Giáo Hoàng Francis là"
 author: "Antonia Blumberg / The Huffington Post"
 date: 2015-06-25
-source: "https://sachhiem.net/SACHNGOAI/snT/TinHuff.php"
+source: "/SACHNGOAI/snT/TinHuff"
 category: "Chính trị"
 lang: vi
 wordCount: 858

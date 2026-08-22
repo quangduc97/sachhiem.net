@@ -3,7 +3,7 @@ layout: ../../../layouts/Article.astro
 title: "PHAN HUY LÊ CÔNG KÍCH BÁC HỒ NHƯ THẾ NÀO?"
 author: "Chế Trung Hiếu"
 date: 2022-01-12
-source: "https://sachhiem.net/THOISU_CT/ChuC/Chetrunghieu03.php"
+source: "/THOISU_CT/ChuC/Chetrunghieu03"
 category: "Chính trị"
 lang: vi
 wordCount: 2504

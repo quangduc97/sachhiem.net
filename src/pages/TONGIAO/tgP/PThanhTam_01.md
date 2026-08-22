@@ -3,7 +3,7 @@ layout: ../../../layouts/Article.astro
 title: "Những Đặc Điểm Nổi Trội Của Đàn Chiên Cuồng Nô Ở Nước Ngoài"
 author: "TP Thanh Tâm"
 date: 2017-02-06
-source: "https://sachhiem.net/TONGIAO/tgP/PThanhTam_01.php"
+source: "/TONGIAO/tgP/PThanhTam_01"
 category: "Chính trị"
 lang: vi
 wordCount: 1930
@@ -26,7 +26,7 @@ image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.devhttps://sachhiem.net/
   <p>(Chú thích:<i> tội ác kinh  hoàng của tập đoàn Ca Tô Rô Ma từ thời trung cổ cho đến ngày nay đã được nhiều  nhà nghiên cứu, sử gia vạch rõ. Riêng tại VN thì tội ác của họ, đặc biệt trong  thời kỳ Pháp thuộc, đã là bằng chứng hiển nhiên để người dân Việt phải cảnh  giác, không để đất nước thêm lần nữa rơi vào tình trạng chia rẽ, hỗn loạn, đưa  đến nguy cơ vong quốc</i>).</p>
   <p>6. Rất vui mừng khi trong nước xảy ra những sự kiện  tiêu cực, như vụ cá chết dọc biển miền trung năm qua. Bọn con chiên trong và  ngoài nước lợi dụng triệt để những sự kiện này để nhân danh “ngư dân” hoặc  “nhân dân” mà giương cờ mẫu quốc Vatican thị uy, chống phá. </p>
   <p align="center"><img src="https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.devhttps://sachhiem.net/THOISU_CT/Hinh/VIETNAM/FORMOSA_02Oct16_1s.jpg" width="450" height="316"></p>
-  <p align="center"><i>Cuộc biểu tình gọi là ôn hòa của giáo dân của Vatican ở Formosa <a href="https://sachhiem.net/THOISU_CT/ChuP/PhamPhuYen.php">ngày 02 tháng 10, 2016</a></i></p>
+  <p align="center"><i>Cuộc biểu tình gọi là ôn hòa của giáo dân của Vatican ở Formosa <a href="/THOISU_CT/ChuP/PhamPhuYen">ngày 02 tháng 10, 2016</a></i></p>
   <p>7. Tích cực tham gia và điều động những cá nhân, tổ chức  “đấu tranh cho dân chủ, nhân quyền” để chống phá nhà nước. Ngày nay, điều 7. rõ ràng  mà ai cũng nhận thấy là &nbsp;hầu hết những  nhà <i>“đấu tranh dân chủ” </i>trong nước là những con chiên ngoan đạo Ca Tô Rô Ma, hoặc sắp sửa bị cải đạo, nếu không thì là   tay chân của những tổ chức bất lương như Việt Tân. Họ mặc nhiên chống phá, gây  rối an ninh xã hội bất chấp luật pháp.</p>
   <p><i>(Chú thích: những ai phạm  pháp thì lẽ đương nhiên nhà nước phải dùng pháp trị để gìn giữ an bình cho xã hội.  Đây là điều tất yếu mà bất cứ quốc gia nào cũng phải thực thi theo pháp luật của  nước đó).</i></p>
   <p>8. Không từ bỏ mọi thủ đoạn đê tiện như ngụy tạo tin tức,  đưa ra những tin thất thiệt hoặc lệch lạc, hoặc chửi bới một cách hạ cấp những  cá nhân, tổ chức hoặc đoàn thể nào (dân sự lẫn tôn giáo) không đồng quan điểm với  họ.</p>

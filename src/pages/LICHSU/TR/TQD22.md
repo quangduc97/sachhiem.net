@@ -3,7 +3,7 @@ layout: ../../../layouts/Article.astro
 title: "Năm Sáu Ba (1963) Người Dân Không Chịu Nổi... !"
 author: "Trần Quang Diệu"
 date: 2013-04-01
-source: "https://sachhiem.net/LICHSU/TR/TQD22.php"
+source: "/LICHSU/TR/TQD22"
 category: "Tác giả"
 lang: vi
 wordCount: 869

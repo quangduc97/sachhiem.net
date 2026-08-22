@@ -3,7 +3,7 @@ layout: ../../layouts/Article.astro
 title: "Hèn Với Giặc? Những Ví Dụ Thực Tế"
 author: "Lý Thái"
 date: 2017-06-25
-source: "https://sachhiem.net/LTX/LyThaiTS17.php"
+source: "/LTX/LyThaiTS17"
 category: "Chính trị"
 lang: vi
 wordCount: 2179
@@ -13,7 +13,7 @@ image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/NMQ/IMG/Vua_Thanh_Th
 <p><span class="First">Ả</span>nh hưởng tuyên truyền của những người chống Cộng "gia truyền," những thành phần chống chính quyền Việt Nam cũng quen miệng đưa ra khẩu hiệu:<i> Hèn Với Giặc, Ác Với Dân</i>. Vậy "Hèn Với Giặc, Ác Với Dân" là thế nào? </p>
   <p>Về thái độ <i>"hèn với giặc"</i>, không gì cụ thể và rõ ràng bằng tài liệu giấy trắng mực đen do chính tác giả Việt gian để lại. Đó là những lá thư, mà những tình huống thường ở trong chính các lá thư đó. Do đó, đọc những bức thư và cách xưng hô, người ta khó có thể đánh giá lầm hay "hiểu lầm" một người hay một sự việc. Vậy chúng tôi xin trình bày những lá thư lịch sử có thể tượng trưng cho cái gọi là "<i>Hèn Với Giặc</i>".</p>
   
-  <p><span class="green"><b>1.</b></span><b> Thư Vua Thành Thái gửi quan Toàn Quyền Đông Dương</b>. <a href="https://sachhiem.net/LICHSU/T/ThanhThai.php">(Trích link)</a></p>
+  <p><span class="green"><b>1.</b></span><b> Thư Vua Thành Thái gửi quan Toàn Quyền Đông Dương</b>. <a href="/LICHSU/T/ThanhThai">(Trích link)</a></p>
   <p align="center"><img border="0" src="https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/NMQ/IMG/Vua_Thanh_Thai.jpg"></p>
   <p align="center"><i>Vua Thành Thái</i></p>
   <p><i>Ngày 17 Novembre 1914</i></p>
@@ -29,7 +29,7 @@ image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/NMQ/IMG/Vua_Thanh_Th
   <p align="center"><a target="_blank" href="https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/LICHSU/IMG/SACH/ThanhThai02.jpg"><img src="https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/LICHSU/IMG/SACH/ThanhThai020.jpg" width="80%" alt="bức thư của vua thành thái gửi Toàn Quyền Đông Dương"></a></p>
   <p>Trich từ trang 681-682, Chương 19, sách Thực Chất Của Giáo Hội La Mã – Quyển Hai (Tacoma, WA: TXB., 1999) của tác giả Nguyễn Mạnh Quang.</p>
   
-  <p><b><span class="green">2.</span>  Thư Giám Mục Ngô Đình Thục</b> gửi Đô Đốc JEAN DECOUX, Toàn Quyền Đông Dương. (<a href="https://sachhiem.net/BUIKHA/BuiKha.php">Trích bài Giám Mục NGÔ ĐÌNH THỤC:
+  <p><b><span class="green">2.</span>  Thư Giám Mục Ngô Đình Thục</b> gửi Đô Đốc JEAN DECOUX, Toàn Quyền Đông Dương. (<a href="/BUIKHA/BuiKha">Trích bài Giám Mục NGÔ ĐÌNH THỤC:
     Thư Gửi Toàn Quyền Đông Dương của Bùi Kha</a>)...</p>
   <p><b>Bản dịch lá thư:</b></p>
   <p>&nbsp;<i>Tòa Truyền Giáo Vĩnh Long ngày 21/8/1944 </i></p>
@@ -68,7 +68,7 @@ image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/NMQ/IMG/Vua_Thanh_Th
   <p><i>NGO DINH THUC</i></p>
   <p>&nbsp;_______________</p>
   
-  <p><b><span class="green">3. </span> Thư ông Trương Vĩnh Ký</b> gửi quan đô đốc thực dân Pháp Rigault de Genouilly. (Trích bài <a href="https://sachhiem.net/BUIKHA/BuiKha25b_TVK.php">Trương Vĩnh Ký Phản Bội Tổ Quốc, Sao Lại Gọi Là Yêu Nước? của Bùi Kha</a>)</p>
+  <p><b><span class="green">3. </span> Thư ông Trương Vĩnh Ký</b> gửi quan đô đốc thực dân Pháp Rigault de Genouilly. (Trích bài <a href="/BUIKHA/BuiKha25b_TVK">Trương Vĩnh Ký Phản Bội Tổ Quốc, Sao Lại Gọi Là Yêu Nước? của Bùi Kha</a>)</p>
   <p><strong>1.</strong>&nbsp;Trước cảnh nước mất nhà tan, Trương Vĩnh Ký đã không tham gia phong trào đánh đuổi thực dân như bao nhiêu người khác. Trái lại ông còn viết thư cho viên trung tá thực dân nói trên, yêu cầu giúp đỡ để tiêu diệt quân dân Việt Nam mà họ Trương gọi đó là kẻ thù. Thư nói trên viết tay vào cuối tháng 3.1859, lúc Trương 22 tuổi, trong đó có đoạn như sau:</p>
   <p><i>"... Nhưng tôi nhân danh là người đại diện cho tín hữu Ki-tô kính dâng lên Ngài lời cầu xin của chúng tôi... nỗi thống khổ mà chúng tôi hằng gánh chịu dưới bạo quyền của các quan lại triều đình gây ra... Tất cả chúng tôi chắc sẽ chịu chết nếu Ngài không kịp đánh đuổi kẻ thù* của chúng ta...</i>" (Văn khố Hải quân Pháp, Paris: SUM Vincennes. Vũ Ngự Chiêu sưu tập).</p>
   <p align="center"><img width="427" height="697" src="https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/LICHSU/IMG/NHANVAT/TVKy_gui_TrgtaHaiquanJeanBernardJaureguiberry.jpg" alt="https://img.tongiaovadantoc.com/2011/12/15/14/57/TVK-1.JPG">&nbsp; </p>

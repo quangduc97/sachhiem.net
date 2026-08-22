@@ -3,7 +3,7 @@ layout: ../../layouts/Article.astro
 title: "Bình Minh Của Đại Nguyệt"
 author: "Lý Thái"
 date: 2014-09-08
-source: "https://sachhiem.net/LTX/LyThaiKH16.php"
+source: "/LTX/LyThaiKH16"
 category: "Tác giả"
 lang: vi
 wordCount: 546

@@ -3,7 +3,7 @@ layout: ../../../layouts/Article.astro
 title: "CHUYỆN GẶP NGƯỜI ĐÃ TỪNG RA ĐẢO HOÀNG SA"
 author: "Nguyễn Hồng Trân"
 date: 2020-09-17
-source: "https://sachhiem.net/LICHSU/N/NgHgTran_VH02.php"
+source: "/LICHSU/N/NgHgTran_VH02"
 category: "Lịch sử"
 lang: vi
 wordCount: 2226

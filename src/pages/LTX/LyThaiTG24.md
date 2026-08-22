@@ -3,7 +3,7 @@ layout: ../../layouts/Article.astro
 title: "Tôn Giáo Và Tự Do Ngôn Luận: Rắc Rối"
 author: "Lý Thái Xuân"
 date: 2019-04-11
-source: "https://sachhiem.net/LTX/LythaiTG24.php"
+source: "/LTX/LythaiTG24"
 category: "Tác giả"
 lang: vi
 wordCount: 2297

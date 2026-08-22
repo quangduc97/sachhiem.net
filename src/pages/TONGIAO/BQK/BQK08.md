@@ -3,7 +3,7 @@ layout: ../../../layouts/Article.astro
 title: "Đọc Bài TNHH, Nhớ Tố Hữu: Đời Đời Nhớ Ơn Ông!"
 author: "Bảo quốc Kiếm"
 date: 2013-11-03
-source: "https://sachhiem.net/TONGIAO/BQK/BQK08.php"
+source: "/TONGIAO/BQK/BQK08"
 category: "Tác giả"
 lang: vi
 wordCount: 1389

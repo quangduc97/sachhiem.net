@@ -2,7 +2,7 @@
 layout: ../../../layouts/Article.astro
 title: "Văn Hóa Phật Giáo"
 author: "Thiên Lôi"
-source: "https://sachhiem.net/THLOI/VH/ThienLoi01.php"
+source: "/THLOI/VH/ThienLoi01"
 lang: vi
 wordCount: 6069
 image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nha.jpg"

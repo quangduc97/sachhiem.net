@@ -3,7 +3,7 @@ layout: ../../../layouts/Article.astro
 title: "Từ Ngô Kha, Soi Rọi Và Giải Mã Một Thế Hệ Dấn Thân"
 author: "Tiêu Dao Bảo Cự"
 date: 2013-02-25
-source: "https://sachhiem.net/VANHOC/N/Ngokha_Tdbc.php"
+source: "/VANHOC/N/Ngokha_Tdbc"
 category: "Tác giả"
 lang: vi
 wordCount: 4788

@@ -3,7 +3,7 @@ layout: ../../../layouts/Article.astro
 title: "Ukraine: Đề Án Hòa Bình 4 Điểm của Italy - Trình Cho Tổng Thư Ký LHQ"
 author: "Mike Wilson"
 date: 2022-05-29
-source: "https://sachhiem.net/THOISU_CT/ChuM/MikeWilson_31.php"
+source: "/THOISU_CT/ChuM/MikeWilson_31"
 category: "Chính trị"
 lang: vi
 wordCount: 833

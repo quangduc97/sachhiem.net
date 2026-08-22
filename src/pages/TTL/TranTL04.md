@@ -2,14 +2,14 @@
 layout: ../../layouts/Article.astro
 title: "Hai Lối Chứng Minh Không Có Thượng Đế"
 author: "Quentin Smith / Trần Tiên Long dịch"
-source: "https://sachhiem.net/TTL/TranTL04.php"
+source: "/TTL/TranTL04"
 category: "Tác giả"
 lang: vi
 wordCount: 4459
-image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nha.jpg"
+image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/SACHNGOAI/Hinhanh/BIASACH/TheGrandDesign.jpg"
 ---
 
-<p align="center"><a href="/index"><img hspace="20" border="0" src="https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nha.jpg"></a>  14 tháng 2, 2011</p>
+<p align="center">  14 tháng 2, 2011</p>
 		<p><i>TTL: Ngay từ nhỏ, chúng ta đã được giáo dục nhồi sọ một chiều nên 
 		không có cơ hội đọc những điều nghịch với những gì chúng ta được chỉ 
 		dạy. Chỉ duy nhất biết tới quan điểm mà mọi người đang chấp nhận không 

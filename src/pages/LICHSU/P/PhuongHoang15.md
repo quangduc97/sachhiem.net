@@ -3,7 +3,7 @@ layout: ../../../layouts/Article.astro
 title: "Những Chuyện Kể Của PHGV"
 author: "Phượng Hoàng GV"
 date: 2018-10-10
-source: "https://sachhiem.net/LICHSU/P/PhuongHoang15.php"
+source: "/LICHSU/P/PhuongHoang15"
 category: "Lịch sử"
 lang: vi
 wordCount: 4115
@@ -144,5 +144,5 @@ image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/VoLongTrieuII
 <p>     Thiếu tướng <b>Đỗ Kiến Nhiễu</b> chỉ là một vị Trung tá Quận trưởng  tỉnh Mỹ Tho (quê vợ TT Thiệu). &nbsp;Được <b>Bà  Thiệu</b> cho làm <b>Đô Trưởng Saigon - Gia Định</b> (coi luôn quân 5- Chợ Lớn).  ..với chỉ tiêu chia chác là 4 / 6. .. Bà Thiệu được 6 còn tướng Nhiễu được 4 mà thôi. </p>
 
 <hr> 
-<p>Các chuyện kể của Phượng Hoàng Gò Vấp: link <a href="https://sachhiem.net/LICHSU/P/ListPHGV.inc.php" target="_blank">https://sachhiem.net/LICHSU/P/ListPHGV.inc.php</a></p>  
+<p>Các chuyện kể của Phượng Hoàng Gò Vấp: link <a href="/LICHSU/P/ListPHGV.inc" target="_blank">https://sachhiem.net/LICHSU/P/ListPHGV.inc.php</a></p>  
   <hr>

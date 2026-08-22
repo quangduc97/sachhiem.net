@@ -2,16 +2,13 @@
 layout: ../../layouts/Article.astro
 title: "Những Vụ Kiện Cười Ra Nước Mắt"
 author: "Lý Thái Xuân"
-source: "https://sachhiem.net/LTX/LyThaiXH45.php"
+source: "/LTX/LyThaiXH45"
 lang: vi
 wordCount: 1363
-image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nha.jpg"
+image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/XAHOI/IMG/TRANLY_TranCongTue_Truonghoc.jpg"
 ---
 
-<p align="center"><a href="https://www.sachhiem.net/">
-<img border="0" src="https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nha.jpg"></a> 
-</p>
- <div class="tomluoc">
+<div class="tomluoc">
    <p><i> LTS: Một khi có những người nghĩ rằng quyền quyền tự do ngôn luận của mình phải được đặt trên quyền của người khác, thì câu chuyện trở nên bi hài một cách "thú vị". Xin cống hiến mấy câu chuyện rất ngắn sau đây để .. mua vui </i>(SH)</p>
  </div>
 

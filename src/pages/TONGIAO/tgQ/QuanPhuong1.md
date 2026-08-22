@@ -2,7 +2,7 @@
 layout: ../../../layouts/Article.astro
 title: "Linh Mục Ăn Cắp Tiền Của Giáo Dân"
 author: "Quần Phương biên dịch"
-source: "https://sachhiem.net/Source https://www.guardian.co.uk/world/2009/jan/23/catholic-priest-florida-steals-funds"
+source: "/Source https://www.guardian.co.uk/world/2009/jan/23/catholic-priest-florida-steals-funds"
 category: "Tác giả"
 lang: vi
 wordCount: 1472
@@ -33,7 +33,7 @@ image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nhacu.jpg"
 <table border="0" cellpadding="0" cellspacing="0" topmargin="10"> 
 	<tbody><tr><td align="justify" valign="top">
 	<table border="0" cellpadding="10" width="100%" cols="2"><tbody><tr>
-	<td valign="top" width="198"><a href="https://sachhiem.net/"><img border="0" src="https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nhacu.jpg" width="49" height="20"></a></td>
+	<td valign="top" width="198"><a href="/"><img border="0" src="https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nhacu.jpg" width="49" height="20"></a></td>
 	<td valign="top" style="text-align:right">	22 tháng 1, 2009
 	</td></tr></tbody></table>
 	

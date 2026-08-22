@@ -3,7 +3,7 @@ layout: ../../../layouts/Article.astro
 title: "Kinh thánh là do con người viết, không phài là lời Chúa"
 author: "John Draper/ Nguyễn Trí Cảm dịch"
 date: 2013-11-20
-source: "https://sachhiem.net/TONGIAO/NGTRCAM/NguyenTriCam31.php"
+source: "/TONGIAO/NGTRCAM/NguyenTriCam31"
 category: "Tác giả"
 lang: vi
 wordCount: 1464

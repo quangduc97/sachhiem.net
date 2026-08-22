@@ -3,7 +3,7 @@ layout: ../../../layouts/Article.astro
 title: "Nhân Quả và Duyên Khởi"
 author: "Đào Viên"
 date: 2019-09-13
-source: "https://sachhiem.net/TONGIAO/tgD/DaoVien01.php"
+source: "/TONGIAO/tgD/DaoVien01"
 category: "Chính trị"
 lang: vi
 wordCount: 3702

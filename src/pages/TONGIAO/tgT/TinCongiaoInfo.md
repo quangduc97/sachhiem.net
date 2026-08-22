@@ -3,7 +3,7 @@ layout: ../../../layouts/Article.astro
 title: "Trung Quốc: Nhà cầm quyền muốn Giáo Hội Công Giáo “độc lập” với Roma"
 author: "Conggiao.info"
 date: 2017-01-03
-source: "https://sachhiem.net/TONGIAO/tgT/TinCongiaoInfo.php"
+source: "/TONGIAO/tgT/TinCongiaoInfo"
 category: "Chính trị"
 lang: vi
 wordCount: 1047

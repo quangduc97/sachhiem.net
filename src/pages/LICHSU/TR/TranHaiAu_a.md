@@ -3,14 +3,14 @@ layout: ../../../layouts/Article.astro
 title: "Bối Cảnh Lịch Sử Quanh TNĐL- Câu Chuyện Về Điệp Viên OSS Archimedes Patti"
 author: "Trần Hải Âu"
 date: 2020-12-07
-source: "https://sachhiem.net/LICHSU/TR/TranHaiAu_a.php"
+source: "/LICHSU/TR/TranHaiAu_a"
 category: "Chính trị"
 lang: vi
 wordCount: 3807
 image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/LICHSU/IMG/HOCHIMINH/TuyenngonDL_VN.jpg"
 ---
 
-<p align="center"><a href="https://sachhiem.net/LICHSU/TR/TranHaiAu.php">(tiếp Kỳ 1)</a></p>
+<p align="center"><a href="/LICHSU/TR/TranHaiAu">(tiếp Kỳ 1)</a></p>
   <p class="TuaDenLeft"> C. PHẦN BA: CÁC BẢN TUYÊN NGÔN </p>
  <p>Sau đây là bản chụp của 3 Tuyên ngôn:</p>
 <p class="sub"><b>I. Tuyên ngôn độc lập  của nước Việt Nam Dân chủ Cộng hòa</b></p>

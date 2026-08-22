@@ -2,11 +2,11 @@
 layout: ../../../layouts/Article.astro
 title: "Đại tướng Võ Nguyên Giáp"
 author: "VN Express"
-source: "https://sachhiem.net/nguồn https://vnexpress.net/GL/Xa-hoi/2009/05/3BA0EDC8/ Thứ hai, 11/5/2009"
+source: "/nguồn https://vnexpress.net/GL/Xa-hoi/2009/05/3BA0EDC8/ Thứ hai, 11/5/2009"
 category: "Chính trị"
 lang: vi
 wordCount: 1624
-image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nha.jpg"
+image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/LICHSU/TONY/Phanat/RaiChatDoc_ChiendichRanchHand.jpg"
 ---
 
 <div align="center" style="position: relative; left: 0; top: 0">
@@ -39,8 +39,7 @@ image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nha.jpg"
 	<tbody><tr><td bgcolor="White" align="justify" valign="top">
 		
 			<table border="0" cellpadding="10" width="600" cols="2"><tbody><tr>
-				<td><a href="/index">
-				<img src="https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nha.jpg" border="0"></a></td>
+				<td></td>
 				
 	<td valign="top" width="194">10 tháng 4, 2010
 	</td></tr></tbody></table>

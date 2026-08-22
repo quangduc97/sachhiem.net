@@ -3,14 +3,14 @@ layout: ../../../layouts/Article.astro
 title: "Chính Sách Tôn Giáo Của Chính Quyền Ngô Đình Diệm"
 author: "Lê Cung"
 date: 2020-07-03
-source: "https://sachhiem.net/LICHSU/L/LeCung02.php"
+source: "/LICHSU/L/LeCung02"
 category: "Chính trị"
 lang: vi
 wordCount: 10652
 image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/TONGIAO/IMG/CHURCH/Lavang.jpg"
 ---
 
-<p><a href="https://sachhiem.net/LICHSU/L/LeCung01.php">(tiếp theo Phần I)</a></p>
+<p><a href="/LICHSU/L/LeCung01">(tiếp theo Phần I)</a></p>
  <h2>Phần II. Về văn hóa – giáo dục</h2>
   <p>Trên lãnh vực văn hoá giáo dục, chính sách ký thị Phật giáo của chính quyền Ngô Đình Diệm (NĐD) cũng thể hiện rất đậm nét. Trước hết, trong việc trùng tu, xây dựng Nhà thờ, tượng Chúa, chính quyền NĐD đã dành cho Thiên chúa giáo (TCG) nhiều đặc quyền. </p>
  <p>Ngày 24-5-1956, Chánh sở Nhà thờ Chánh tòa Sái Gòn đã gởi đơn cho đại biểu của chính phủ Nam Việt xin dựng tượng Đức Mẹ Hoà bình trước Nhà thờ Đức bà Sài Gòn. Nội dung của đơn xin có đoạn viết: <i>“Tôi xin Ông vui lòng cho phép chúng tôi đặt… một tượng ảnh Đức Mẹ Hoà bình cho xứng với cái tên Công trường Hòa bình.</i></p>

@@ -2,18 +2,16 @@
 layout: ../../layouts/Article.astro
 title: "TRÍ QUANG LÀ ‘QUỐC GIA’?! TRÍ QUANG LÀ ‘CỘNG SẢN’!?"
 author: "Hoàng Nguyên Nhuận"
-source: "https://sachhiem.net/HOANGNN/Hoang17.php"
+source: "/HOANGNN/Hoang17"
 category: "Chính trị"
 lang: vi
 wordCount: 6710
-image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nha.jpg"
 ---
 
 <p class="Tuaduoi">Ô HAY!... RỒI SAO NỮA ?!</p>
 		
  
-<p align="center"><a href="https://www.sachhiem.net/">
-	<img border="0" src="https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nha.jpg"></a> 01 tháng 11, 2008</p>
+<p align="center"> 01 tháng 11, 2008</p>
 	<p><span class="First">N</span>ăm 1964, trong thời 
 	gian đến Tokyo dự hội nghị về truyền thông giáo-dục, những lúc trò chuyện 
 	với các đồng nghiệp quốc tế, nhất là Nhật, thấy họ có vẻ ít biết về Việt nam 

@@ -6,10 +6,10 @@ source: "https://www.bbc.co.uk/vietnamese/av/2010/03/100326_vatican_protests.sht
 category: "Chính trị"
 lang: vi
 wordCount: 312
-image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nha.jpg"
+image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/TONGIAO/IMG/TINHDUC/Bieutinh_TinBBC.jpg"
 ---
 
-<p align="center"><a href="/THOISU_CT/index"><img hspace="20" border="0" src="https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nha.jpg"></a>	27 tháng 3, 2010    </p>
+<p align="center">	27 tháng 3, 2010    </p>
 <p><span class="First">C</span>ảnh sát đã bắt một số các thành viên người Mỹ của tổ chức 
 SNAP chuyên tranh đấu cho các nạn nhân bị giới linh mục lạm dụng tình dục, trong 
 lúc họ phản đối bên ngoài Vatican về cách thức giải quyết các vụ này .</p>

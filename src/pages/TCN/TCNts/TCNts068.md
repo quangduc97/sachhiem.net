@@ -3,7 +3,7 @@ layout: ../../../layouts/Article.astro
 title: "Sự Cùng Quẫn Của “Vô Sỉ Trạng Sư”"
 author: "Trần Chung Ngọc"
 date: 2013-08-29
-source: "https://sachhiem.net/index.php?content=showrecipe&id=5748"
+source: "/TCN/TCNts/TCNts068"
 category: "Chính trị"
 lang: vi
 wordCount: 1262
@@ -11,7 +11,7 @@ image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/MISC/BlackBlo
 ---
 
 <p> <span class="First">C</span>ó người bạn gửi cho tôi bài “<i>Cái chết của một tôn giáo lớn hàng thứ ba  trên thế giới</i>” của một người lấy tên là Vô Sắc Thiền Sư ở địa chỉ <a href="mailto:vosacthiensu@gmail.com">vosacthiensu@gmail.com</a>, viết ngày 2013/8/24.&nbsp; Anh ta nói là bài này do Lữ Giang đưa lên  tiếp tục nhiều lần nhưng không cho tôi biết là đưa lên diễn đàn nào, vì anh ta  biết là tôi không có thì giờ đọc diễn đàn nào khác ngoài vài diễn đàn mà tôi  quan tâm liên hệ đến những chủ đề tôi viết về Ca-tô Giáo. Anh ta chỉ muốn thông  tin cho tôi biết mà thôi.&nbsp;</p>
-<p> Rõ  ràng là bài viết này là để trả đũa bài “<b><a href="https://sachhiem.net/LICHSU/D/Duyensinh03.php">Cái  chết của một tôn giáo lớn</a>”</b> của Duyên Sinh.&nbsp;  Nhưng thay vì, nếu có đủ khả năng, phản biện bài viết của Duyên Sinh,  thì tác giả lại dùng cái mửng quen thuộc là xuyên tạc một cách vô liêm sỉ để  bôi nhọ Phật Giáo hay chống Cộng, với hi vọng là như vậy thì những sự thật về  Ca-tô giáo sẽ biến mất.&nbsp; <b>Lẽ dĩ nhiên đây  không phải là một thiền sư</b>, vì đọc bài này chúng ta thấy văn phong của ông này thuộc loại côn đồ văn hóa.&nbsp; Hơn  nữa trình độ hiểu biết của ông ta về Phật Giáo khó có thể gọi là trình độ.&nbsp; </p>
+<p> Rõ  ràng là bài viết này là để trả đũa bài “<b><a href="/LICHSU/D/Duyensinh03">Cái  chết của một tôn giáo lớn</a>”</b> của Duyên Sinh.&nbsp;  Nhưng thay vì, nếu có đủ khả năng, phản biện bài viết của Duyên Sinh,  thì tác giả lại dùng cái mửng quen thuộc là xuyên tạc một cách vô liêm sỉ để  bôi nhọ Phật Giáo hay chống Cộng, với hi vọng là như vậy thì những sự thật về  Ca-tô giáo sẽ biến mất.&nbsp; <b>Lẽ dĩ nhiên đây  không phải là một thiền sư</b>, vì đọc bài này chúng ta thấy văn phong của ông này thuộc loại côn đồ văn hóa.&nbsp; Hơn  nữa trình độ hiểu biết của ông ta về Phật Giáo khó có thể gọi là trình độ.&nbsp; </p>
 <p>Rõ ràng là ông ta thuộc tập đoàn những người  vừa chống Cộng vừa chống Phật Giáo. Chỉ cần đọc vài từ mà ông ta không hiểu rõ  nghĩa nhưng dùng để tổng quát hóa bôi nhọ Phật giáo, rồi đưa những vụ việc có  tính cách phỉ báng Phật Giáo mà không ai có thể kiểm chứng được, và nhất là nói  về HT Thích Quảng Đức bị chích thuốc, và nhắc đến “nhóm Giao Điểm” mà ông ta sợ  đến độ nghe đến Giao Điểm là phát dị ứng, thì chẳng cần phải nói chúng ta cũng  biết ông ta thuộc thế lực hay tổ chức nào, chắc chắn là thuộc tập thể ”<i>hễ đã  phi dân tộc thì thể nào cũng phản dân tộc</i>”.&nbsp;  Vì vậy tôi xin gọi tác giả là “<i>Vô Sỉ Trạng Sư</i>” cho đúng với chính danh.  </p>
 <p>Tôi không mấy đánh giá cao những người không dám dùng tên thật mà phải ẩn danh  để viết lên những bài đại loại như trên.&nbsp;  Thời buổi này, ai cũng có thể tự xưng là bất cứ ai: cho nên, một Lữ  Giang, một Chu Tất Tiến, hay bất cứ ai cũng có thể lấy tên là “Vô Sỉ Trạng Sư”  để đưa bài lên các diễn đàn.&nbsp; Có phải  không, ông Lữ Giang, hay Tú Gàn, hay Nguyễn Cần.</p>
 <p>Bây  giờ chúng ta hãy đi vào vài điều trong bài của “Vô Sỉ Trạng Sư”.&nbsp; </p>

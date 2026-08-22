@@ -3,7 +3,7 @@ layout: ../../../layouts/Article.astro
 title: "Cần Lao Công Giáo Và Hậu Duệ Ngô-Đình Phất Cờ Phản Quốc Phục Ngô"
 author: "Tâm Đạt Trần Thông"
 date: 2017-11-06
-source: "https://sachhiem.net/LICHSU/T/TamDat01.php"
+source: "/LICHSU/T/TamDat01"
 category: "Chính trị"
 lang: vi
 wordCount: 14706

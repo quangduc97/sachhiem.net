@@ -2,7 +2,7 @@
 layout: ../../../layouts/Article.astro
 title: "CÂU CHUYỆN CUỐI TUẦN:"
 author: "Hoàng Nguyên Nhuận"
-source: "https://sachhiem.net/null"
+source: "/null"
 lang: vi
 wordCount: 11152
 image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nhacu.jpg"
@@ -27,7 +27,7 @@ image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nhacu.jpg"
 <tr> <td width="100%"> 
 
 <table border="0" cellpadding="10" width="100%" cols="2"><tbody><tr>
-	<td valign="top"><a href="https://sachhiem.net/">
+	<td valign="top"><a href="/">
 	<img border="0" src="https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nhacu.jpg" width="49" height="20"></a></td>
 	<td valign="top" style="text-align:right">	26 tháng 11, 2007
 	</td></tr></tbody></table>
@@ -929,7 +929,7 @@ image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nhacu.jpg"
 
 	
 <tr> 
-	<td align="center" valign="top" bgcolor="#FEFEDA" colspan="2"> <center> <a href="https://sachhiem.net/HOANGNN/HOANGdir.php">
+	<td align="center" valign="top" bgcolor="#FEFEDA" colspan="2"> <center> <a href="/HOANGNN/HOANGdir">
 	<img src="https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/MuclucButton.gif"></a></center>
 </td></tr>
 

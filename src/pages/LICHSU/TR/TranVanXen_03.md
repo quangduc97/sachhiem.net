@@ -3,7 +3,7 @@ layout: ../../../layouts/Article.astro
 title: "MỘT MẸ TRĂM CON"
 author: "Trần Văn Xẻn"
 date: 2018-06-14
-source: "https://sachhiem.net/LICHSU/TR/TranVanXen_03.php"
+source: "/LICHSU/TR/TranVanXen_03"
 category: "Chính trị"
 lang: vi
 wordCount: 2073

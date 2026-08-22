@@ -2,7 +2,7 @@
 layout: ../../../layouts/Article.astro
 title: "Đồng Hành Với Dân Tộc"
 author: "Hoàng Lan"
-source: "https://sachhiem.net/null"
+source: "/null"
 category: "Chính trị"
 lang: vi
 wordCount: 1140

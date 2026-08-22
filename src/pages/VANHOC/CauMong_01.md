@@ -3,7 +3,7 @@ layout: ../../layouts/Article.astro
 title: "Việt Nam Khải Hoàn Ca"
 author: "Cầu Móng NTTTLA"
 date: 2017-08-30
-source: "https://sachhiem.net/VANHOC/CauMong_01.php"
+source: "/VANHOC/CauMong_01"
 category: "Chính trị"
 lang: vi
 wordCount: 4600
@@ -23,7 +23,7 @@ image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/sqdot.gif"
   </div>  
     <p><i>Chúng tôi cũng  hoàn thành một video lồng tiếng ngay dưới đây</i>:<a href="https://www.youtube.com/watch?v=rt0gAqJyGJQ "> Mừng đại lễ 02/9: Bài thơ Việt Nam Khải Hoàn Ca </a></p>
     <p align="center"><iframe width="427" height="240" src="https://www.youtube.com/embed/rt0gAqJyGJQ" frameborder="0" allowfullscreen=""></iframe></p>
-    <p><i>Ngày 19 tháng 8 vừa qua, chúng tôi đã long trọng giới thiệu đến quí độc giả bài trường thi <a href="https://sachhiem.net/VANHOC/CauMong.php">Việt Nam Hồi Sinh </a>của tác giả Cầu Móng NTTTLA. Hôm nay, để chào mừng ngày Quốc Khánh 2 tháng 9 sắp đên, đánh dấu 72 năm ngày độc lập sau trăm năm đô hộ của Pháp, tác giả lại có thêm một bài trường thi khác, gồm 272 câu. Vẫn những từ ngữ  vừa tao nhã vừa tròn trịa, tứ thơ trôi chảy dạt dào  như tiếng vang của những dòng sông, nhiều trạng thái và cảm xúc, rồi cất tiếng reo hoan trong ngày vui cả nước.</i></p>
+    <p><i>Ngày 19 tháng 8 vừa qua, chúng tôi đã long trọng giới thiệu đến quí độc giả bài trường thi <a href="/VANHOC/CauMong">Việt Nam Hồi Sinh </a>của tác giả Cầu Móng NTTTLA. Hôm nay, để chào mừng ngày Quốc Khánh 2 tháng 9 sắp đên, đánh dấu 72 năm ngày độc lập sau trăm năm đô hộ của Pháp, tác giả lại có thêm một bài trường thi khác, gồm 272 câu. Vẫn những từ ngữ  vừa tao nhã vừa tròn trịa, tứ thơ trôi chảy dạt dào  như tiếng vang của những dòng sông, nhiều trạng thái và cảm xúc, rồi cất tiếng reo hoan trong ngày vui cả nước.</i></p>
     <p><i> Chúng tôi đã mời chính tác giả đọc bài thơ vào đúng ngày 2 tháng 9 tới đây. Xin các bạn đón nghe ở trang nhà</i>.     
    
     </p></div>

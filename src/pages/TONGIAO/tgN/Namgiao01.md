@@ -2,19 +2,18 @@
 layout: ../../../layouts/Article.astro
 title: "Để Áp Chế Người Da Đen, Tín Đồ Cơ Đốc Giáo Da Trắng"
 author: "Carol Kuruvilla / The Huffington Post"
-source: "https://sachhiem.net/TONGIAO/tgN/Namgiao01.php"
+source: "/TONGIAO/tgN/Namgiao01"
 category: "Tác giả"
 lang: vi
 wordCount: 2020
-image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nha.jpg"
+image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/TONGIAO/IMG/HOAKY/Flag_bible.jpg"
 ---
 
 <p class="Tuaduoi"><b>Đã Sử Dụng Kinh Thánh Và Lá Cờ Liên Minh Ra Sao?
  </b></p>
 
 
- <p align="center"><a href="https://www.sachhiem.net/">
-<img border="0" src="https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nha.jpg"></a>04 Jul 2015 </p>  
+ <p align="center">04 Jul 2015 </p>  
 <p><span class="First">V</span>ào ngày 4 tháng giêng, năm 1861, Giám Mục Công giáo A.Verot bước lên tòa giảng trong nhà thờ Thánh Augustine, thuộc bang Florida, để bênh vực người da trắng được quyền có nô lệ. </p>
 <p>Trong bài giảng, Giám Mục Verot nóí rằng thánh Tông đồ Phao Lồ đã dạy dân nô lệ phải tuân phục chủ nhân ông “như một phương cách cần thiết” để được cứu rỗi. Ngài đã dẫn chứng thánh thư đoạn Colossians 3:22. Ngài nói, “<i>Hỡi các tên nô lệ, phải tuân phục ông chủ các ngươi bằng chính xương thịt, chứ không chỉ qua loa để làm vửa lòng, phải [phục vụ] với tất cả tấm lòng, và phải biết kính sợ Thượng Đế.</i>”   </p>
 <p>Không còn phải che đậy nữa, hàng trăm vị Mục sư Cơ đốc giáo cũng đã dùng cùng một luận cứ như Giám Mục Vernot, đã áp dụng Kinh Thánh nhằm biện minh cho chế độ nô lệ trong suốt cuộc chiến tranh Nam Bắc tại Mỹ. Nhưng cuộc thảm sát 9 đồng bào da đen trong tuần qua tại nhà thờ Emanuel Atrican Methodist Episcopal thuộc thị xã Cherleston, bang South Carolina [Hoa Kỳ], lại một lần nữa, buộc người da trắng Mỹ phải xét lại mối liên hệ lịch sử giữa Hội thánh da trắng với chủ nghĩa kỹ thị chủng tộc - và vì sao luận điệu hùng hồn đầy hận thù như lời giảng của Vernot nhờ phát ra từ toà giảng lại có sức lôi cuốn như vậy.   </p>

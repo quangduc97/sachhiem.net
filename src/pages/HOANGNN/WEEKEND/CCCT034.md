@@ -2,7 +2,7 @@
 layout: ../../../layouts/Article.astro
 title: "CÂU CHUYỆN CUỐI TUẦN:"
 author: "Anthony Darlic"
-source: "https://sachhiem.net/null"
+source: "/null"
 lang: vi
 wordCount: 3789
 ---

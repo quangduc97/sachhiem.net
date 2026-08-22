@@ -2,14 +2,14 @@
 layout: ../../../layouts/Article.astro
 title: "Tương Lai Cuộc Chiến Libya?"
 author: "Lữ Giang"
-source: "https://sachhiem.net/diễn đàn thư tín ngày 28/4/2011"
+source: "/diễn đàn thư tín ngày 28/4/2011"
 category: "Chính trị"
 lang: vi
 wordCount: 3457
-image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nha.jpg"
+image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/Hinh/TRUNGDONG/OurLadySalvation_Baghdad.jpg"
 ---
 
-<p align="center"><a href="/index"><img hspace="20" border="0" src="https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nha.jpg"></a> 30 tháng 4, 2011 </p>
+<p align="center"> 30 tháng 4, 2011 </p>
         <p> <i>LTS: Bài viết sau đây đã được phổ biến ở một số trang mạng. Ở trang này, SH có thêm vài chi tiết phụ dẫn. Vì tác giả không ghi phần tài liệu nguồn, BBT SH cho thêm các link mạng chính cho các đề mục được dẫn hay đề cập trong bài để gíup độc giả có thêm tài liệu tham khảo nếu cần. Ở các hàng chữ bị đổi màu,  bạn đọc có thể bấm vào sẽ hiện ra nguồn tin liên hệ bằng Anh ngữ (SH)</i></p>
         <hr>
         

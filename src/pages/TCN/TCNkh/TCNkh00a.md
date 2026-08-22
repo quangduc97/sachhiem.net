@@ -2,17 +2,17 @@
 layout: ../../../layouts/Article.astro
 title: "NGUỒN GỐC CON NGƯỜI:"
 author: "Trần Chung Ngọc"
-source: "https://sachhiem.net/TCN/TCNkh/TCNkh00a.php"
+source: "/TCN/TCNkh/TCNkh00a"
 category: "Khoa học"
 lang: vi
 wordCount: 9959
-image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nha.jpg"
+image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/Pict/tienhoavutru.jpg"
 ---
 
 <p class="Tuaduoi">THUYẾT TIẾN HÓA</p>
 			
  
-<p align="center"><a href="https://sachhiem.net/index.php"><img border="0" src="https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nha.jpg"></a>  06&nbsp; tháng 9, 2007 </p>
+<p align="center">  06&nbsp; tháng 9, 2007 </p>
 		<p class="MsoNormal" style="text-align:center">
 		<img border="0" src="https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/Pict/tienhoavutru.jpg" width="190" height="167"></p>
 		<p class="MsoNormal" style="text-align:justify">&nbsp;&nbsp;<b><font size="5" face="Vivaldi"> T</font></b><font face="Tahoma">rước hết, có lẽ tôi 

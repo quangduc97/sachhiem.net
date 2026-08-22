@@ -3,7 +3,7 @@ layout: ../../../layouts/Article.astro
 title: "Bob Kerrey - Kẻ Phá Hoại Cộng Đồng"
 author: "TS Nguyễn Kiều Dung"
 date: 2016-08-14
-source: "https://sachhiem.net/THOISU_CT/ChuN/NguyenKieuDung01.php"
+source: "/THOISU_CT/ChuN/NguyenKieuDung01"
 category: "Chính trị"
 lang: vi
 wordCount: 13194
@@ -12,9 +12,9 @@ image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/THOISU_CT/Hinh/VIETN
 
 <div class="tomluoc">
            <p><i>LTS: Nếu không muốn ai nhắc lại quá khứ, thì đừng đem một tội ác từ quá khứ để trên cao cho mọi người nhìn thấy. Xin mời xem loạt bài của Tiến Sĩ Nguyễn Kiều Dung quanh đề tài Bob Kerrey và chức danh Chủ Tịch Hội Đồng Tín Thác. </i></p>
-           <p><i>-  <a href="https://sachhiem.net/THOISU_CT/ChuN/NguyenKieuDung.php">Sự Thật Về Đại Học Fulbright</a>;</i></p>
-           <p><i>-  <a href="https://sachhiem.net/THOISU_CT/ChuN/NguyenKieuDung01.php">Bob Kerrey - Kẻ Phá Hoại Cộng Đồng</a>; và</i></p>
-           <p><i>- <a href="https://sachhiem.net/THOISU_CT/ChuN/NguyenKieuDung02.php">Những Ý Kiến Không Ủng Hộ Bob Kerrey...</a>. </i></p>
+           <p><i>-  <a href="/THOISU_CT/ChuN/NguyenKieuDung">Sự Thật Về Đại Học Fulbright</a>;</i></p>
+           <p><i>-  <a href="/THOISU_CT/ChuN/NguyenKieuDung01">Bob Kerrey - Kẻ Phá Hoại Cộng Đồng</a>; và</i></p>
+           <p><i>- <a href="/THOISU_CT/ChuN/NguyenKieuDung02">Những Ý Kiến Không Ủng Hộ Bob Kerrey...</a>. </i></p>
            <p><i> (SH)</i></p>
          </div>
   <p><i>“Hãy thử tưởng tượng  đi, chuyện gì sẽ diễn ra nếu một trường đại học ngoại quốc tại Hoa Kỳ bổ nhiệm một  cá nhân đã giết chết thường dân Mỹ - hoặc giết bất cứ một ai khác – vào chức chủ  tịch hội đồng tín thác?” </i>–  Tiến sỹ Mark Aswill - </p><b> </b>
@@ -207,13 +207,13 @@ image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/THOISU_CT/Hinh/VIETN
   <p>   [23] <a href="https://vnexpress.net/tin-tuc/giao-duc/thanh-lap-dai-hoc-fulbright-viet-nam-3404344.html">https://vnexpress.net - Thành lập Đại học Fulbright Việt Nam</a></p>
   <p>  [24]  <a href="https://www.vxut.edu.vn/home/v1/category/104/293/khong-the-be-nguyen-harvard-ve-viet-nam">https://www.vxut.edu.vn - Không thể bê nguyên Harvard về Việt Nam</a></p>
   <p>  [25]<a href="https://2kpop.com/giao-su-dai-hoc-mat-viec-vi-xem-web-den-tren-lop-c1017n20130302052106868p0.htm"> https://2kpop.com - Giáo sư đại học mất việc vì xem "web đen" trên lớp </a></p>
-  <p>  [26] Xem  bài <a href="https://sachhiem.net/THOISU_CT/ChuN/NguyenKieuDung02.php">‘Những ý kiến chống bổ nhiệm Bob Kerrey’</a></p>
+  <p>  [26] Xem  bài <a href="/THOISU_CT/ChuN/NguyenKieuDung02">‘Những ý kiến chống bổ nhiệm Bob Kerrey’</a></p>
   <p>[27] Gar  Alperovitz, ‘The decision to use the atomic bomb and the architecture of an  American myth’</p>
   <p>[28] <a href="https://www.facebook.com/dr.nguyenphuongmai/posts/10209292678616309">https://www.facebook.com/dr.nguyenphuongmai/posts/10209292678616309</a></p>
 <p>___________________</p>
 <p><b>Những bài liên quan:</b></p>
-<p>- <a href="https://sachhiem.net/index.php?content=showemail&amp;id=1578">Cảnh báo mới - Đại học Fulbright: chiến lược trồng người lâu dài và hợp pháp</a>, ngày Mon June 27, 2016</p>
-<p>- <a href="https://sachhiem.net/THOISU_CT/ChuN/NguyenKieuDung.php">Sự Thật Về Đại Học Fulbright</a>, TS Nguyễn Kiều Dung, ngày 14-Aug-2016</p>
-<p>- <a href="https://sachhiem.net/LICHSU/M/ MarkAshwill_NMH.php">Một Người Mỹ Cảnh Báo: “Đại Học Fulbright Việt Nam- Con Ngựa Thành Troy Của Mỹ Ở Việt Nam,</a> ngày 19-Apr-2023</p>
-<p>- <a href="https://sachhiem.net/THOISU_CT/ChuN/NguyenKieuDung02.php">Những Ý Kiến Không Ủng Hộ Bob Kerrey Làm Chủ Tịch Hội Đồng Tín Thác Đại Học Fulbright</a>, TS Nguyễn Kiều Dung, ngày 14-Aug-2016</p>
+<p>- <a href="/net/LICHSU/N/NguyenvThinh_LS04">Cảnh báo mới - Đại học Fulbright: chiến lược trồng người lâu dài và hợp pháp</a>, ngày Mon June 27, 2016</p>
+<p>- <a href="/THOISU_CT/ChuN/NguyenKieuDung">Sự Thật Về Đại Học Fulbright</a>, TS Nguyễn Kiều Dung, ngày 14-Aug-2016</p>
+<p>- <a href="/LICHSU/M/ MarkAshwill_NMH">Một Người Mỹ Cảnh Báo: “Đại Học Fulbright Việt Nam- Con Ngựa Thành Troy Của Mỹ Ở Việt Nam,</a> ngày 19-Apr-2023</p>
+<p>- <a href="/THOISU_CT/ChuN/NguyenKieuDung02">Những Ý Kiến Không Ủng Hộ Bob Kerrey Làm Chủ Tịch Hội Đồng Tín Thác Đại Học Fulbright</a>, TS Nguyễn Kiều Dung, ngày 14-Aug-2016</p>
 <p>- <a href="https://giaovn.blogspot.com/2016/06/nuoc-my-khong-con-ai-ngoai-bob-kerrey.html">Nước Mỹ không còn ai ngoài Bob Kerrey thật sao?</a> ngày 02/06/2016</p>

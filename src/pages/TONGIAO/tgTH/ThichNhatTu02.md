@@ -3,7 +3,7 @@ layout: ../../../layouts/Article.astro
 title: "Lưu Ý Hiện Trạng Đánh Phá Phật Giáo Bằng Lắp Ghép Ảnh"
 author: "Thích Nhật Từ"
 date: 2016-11-24
-source: "https://sachhiem.net/TONGIAO/tgTH/ThichNhatTu02.php"
+source: "/TONGIAO/tgTH/ThichNhatTu02"
 category: "Chính trị"
 lang: vi
 wordCount: 815

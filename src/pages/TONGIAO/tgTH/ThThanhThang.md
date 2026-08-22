@@ -5,7 +5,7 @@ author: "Thích Thanh Thắng"
 source: "https://www.phattuvietnam.net/3/13389.html"
 lang: vi
 wordCount: 3358
-image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nha.jpg"
+image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.devhttps://www.phattuvietnam.net/thumbnail.php?file=/2009/10/a3_949215698.jpg&size=article_medium"
 ---
 
 <div align="center" style="position: relative; left: 0; top: 0">
@@ -26,8 +26,7 @@ image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nha.jpg"
 <div style="padding-left: 50px; padding-right: 50px;">
 <table border="0" cellpadding="0" width="600"><tbody><tr>
 <td width="425">
-<a href="/index">
-<img border="0" src="https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nha.jpg"></a></td>
+</td>
 <td valign="top">	<font size="2">17 tháng 2, 2011
 </font>
 </td></tr></tbody></table>

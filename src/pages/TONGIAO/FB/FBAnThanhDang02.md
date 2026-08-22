@@ -3,7 +3,7 @@ layout: ../../../layouts/Article.astro
 title: "Thành phố Fort Worth, Texas cho phép treo biểu ngữ 'In NO God We Trust'"
 author: "Christianheadlines/ An Thanh Đặng"
 date: 2023-07-08
-source: "https://sachhiem.net/TONGIAO/FB/FBAnThanhDang02.php"
+source: "/TONGIAO/FB/FBAnThanhDang02"
 category: "Chính trị"
 lang: vi
 wordCount: 589

@@ -3,7 +3,7 @@ layout: ../../../layouts/Article.astro
 title: "Viễn Cảnh Ghê Rợn Cho Nước Mỹ Sau 3 Lần Mitch McConnell Tính Sai!"
 author: "Mike Wilson"
 date: 2022-07-29
-source: "https://sachhiem.net/SACHNGOAI/M/MikeWilson_09.php"
+source: "/SACHNGOAI/M/MikeWilson_09"
 category: "Chính trị"
 lang: vi
 wordCount: 1490

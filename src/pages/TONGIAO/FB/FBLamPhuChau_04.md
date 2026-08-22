@@ -3,7 +3,7 @@ layout: ../../../layouts/Article.astro
 title: "Nạn dịch COVID-19, kể chuyện nhà thờ xương người ở Kutna Hora, Cộng Hòa Séc"
 author: "Lâm Phú Châu"
 date: 2020-03-21
-source: "https://sachhiem.net/TONGIAO/FB/FBLamPhuChau_04.php"
+source: "/TONGIAO/FB/FBLamPhuChau_04"
 category: "Tác giả"
 lang: vi
 wordCount: 1171

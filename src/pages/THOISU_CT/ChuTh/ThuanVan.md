@@ -2,7 +2,7 @@
 layout: ../../../layouts/Article.astro
 title: "Chủ nghĩa chống cộng"
 author: "Thuận Văn"
-source: "https://sachhiem.net/nguồn: https://www.talawas.org/talaDB/showFile.php?res=12786&amp;rb=0401"
+source: "/nguồn: https://www.talawas.org/talaDB/showFile.php?res=12786&amp;rb=0401"
 category: "Chính trị"
 lang: vi
 wordCount: 4889

@@ -3,7 +3,7 @@ layout: ../../../layouts/Article.astro
 title: "Khi Thiền Sư Vào Bạch Ốc"
 author: "Nguyên Giác"
 date: 2017-12-26
-source: "https://sachhiem.net/TONGIAO/tgN/Nguyengiac03.php"
+source: "/TONGIAO/tgN/Nguyengiac03"
 category: "Chính trị"
 lang: vi
 wordCount: 2035

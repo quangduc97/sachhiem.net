@@ -3,7 +3,7 @@ layout: ../../../layouts/Article.astro
 title: "Chính Sách Của Chính Quyền Ngô Đình Diệm Đối Với Phật Giáo Miền Nam Việt Nam (1954 - 1963)"
 author: "GS Lê Cung"
 date: 2021-08-17
-source: "https://sachhiem.net/LICHSU/L/LeCung15_WAIT.php"
+source: "/LICHSU/L/LeCung15_WAIT"
 category: "Chính trị"
 lang: vi
 wordCount: 65

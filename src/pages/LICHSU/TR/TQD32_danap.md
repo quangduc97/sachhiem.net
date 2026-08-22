@@ -3,7 +3,7 @@ layout: ../../../layouts/Article.astro
 title: "\"Vì Chúa, vì Giáo hội\" Nên Đã Gây Bao Đau Thương !"
 author: "Trần Quang Diệu"
 date: 2013-08-10
-source: "https://sachhiem.net/LICHSU/TR/TQD32_danap.php"
+source: "/LICHSU/TR/TQD32_danap"
 category: "Đối thoại"
 lang: vi
 wordCount: 2486
@@ -11,7 +11,7 @@ image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/TONGIAO/IMG/PHAPNAN/
 ---
 
 <div class="tomluoc">
-<p> <i>"Những gì chúng tôi nung nấu từ đầu năm 1960 đến  nay đã đến lúc phải bộc phát. Những độc tài, bất  công, đàn áp của chính quyền mà suốt mấy năm trời chúng tôi bất  bình đến nay phải bùng nổ. Những chuẩn bị từ lâu nay đến lúc phải thi  hành."</i> <a href="https://sachhiem.net/LICHSU/D/DoanThem.php">(Việt Nam Nhân Chứng, Trần Văn Đôn, Xuân  Thu, USA, 1989, từ trang 173 đến 179). </a>  </p>
+<p> <i>"Những gì chúng tôi nung nấu từ đầu năm 1960 đến  nay đã đến lúc phải bộc phát. Những độc tài, bất  công, đàn áp của chính quyền mà suốt mấy năm trời chúng tôi bất  bình đến nay phải bùng nổ. Những chuẩn bị từ lâu nay đến lúc phải thi  hành."</i> <a href="/LICHSU/D/DoanThem">(Việt Nam Nhân Chứng, Trần Văn Đôn, Xuân  Thu, USA, 1989, từ trang 173 đến 179). </a>  </p>
 </div>
  
 

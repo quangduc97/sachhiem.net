@@ -3,7 +3,7 @@ layout: ../../layouts/Article.astro
 title: "“Hồ Chí Minh với Trung Quốc” (giải Bông sen vàng)"
 author: "Nguyễn Hoàn"
 date: 2022-04-12
-source: "https://sachhiem.net/NGHOAN/NgHoan13.php"
+source: "/NGHOAN/NgHoan13"
 category: "Văn hóa"
 lang: vi
 wordCount: 1795

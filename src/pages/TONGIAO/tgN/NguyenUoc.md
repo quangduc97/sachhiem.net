@@ -2,15 +2,14 @@
 layout: ../../../layouts/Article.astro
 title: "Đạo Đức Học"
 author: "Nguyễn Ước"
-source: "https://sachhiem.net/"
+source: "/"
 category: "Tác giả"
 lang: vi
 wordCount: 17722
-image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nha.jpg"
+image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/NguyenUoc/ethics.jpg"
 ---
 
-<p align="center"><a href="https://www.sachhiem.net/">
-	<img border="0" src="https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nha.jpg"></a> 22 tháng 4, 2009 </p> 
+<p align="center"> 22 tháng 4, 2009 </p> 
     <p><i>LTS:  Trong tất cả những tranh cãi của người đời về nhiều vấn đề từ bé đến lớn, bé như liên hệ vợ chồng, cha mẹ và con cái, vừa vừa như kỹ thuật trợ sinh, trợ tử, tạo thai trong ống nghiệm, hay lớn hơn nữa như chiến tranh, ... có phải chăng những người tham dự đều muốn tìm ra lẽ phải, hoặc đem "lẽ phải" về cho mình.  Nhưng những "lẽ phải" đều tương đối, bởi những nguyên lý căn bản trên đó "lẽ phải" được xây dựng thường không phải là duy nhất và cũng không đồng nhất.  Vì thế, đi tìm những nguyên lý căn bản suy luận lại chính là vấn đề rất quan trọng.  Tưởng cũng rất ích lợi nếu chúng ta tìm hiểu một vài căn bản suy luận đã được các triết gia lập thuyết như được sơ lược trong bài viết của Nguyễn Ước sau đây. "Chúng ta nên tổ chức xã hội như thế nào? "Phải" 
 			hoặc "trái" là gì? "Ðúng" hoặc "sai" là gì? "Tốt" hoặc "xấu" là gì? 
 			Chúng ta nên hiểu như thế nào ý tưởng về công bình? Chúng ta dựa vào 

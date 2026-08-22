@@ -2,15 +2,14 @@
 layout: ../../layouts/Article.astro
 title: "Về Một Tài Hoa Đa Đoan"
 author: "Hoàng Nguyên Nhuận"
-source: "https://sachhiem.net/HOANGNN/Hoang15.php"
+source: "/HOANGNN/Hoang15"
 category: "Chính trị"
 lang: vi
 wordCount: 9983
-image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nha.jpg"
+image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/HOANGNN/Hinh/PhamDuy.jpg"
 ---
 
-<p align="center"><a href="https://www.sachhiem.net/">
-	<img border="0" src="https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nha.jpg"></a> 18 tháng 10, 2008</p>
+<p align="center"> 18 tháng 10, 2008</p>
 
 <p><span class="Date">
 <img border="0" src="https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/HOANGNN/Hinh/PhamDuy.jpg" width="125" height="160" align="left" hspace="10"></span><span class="First">P</span>hạm Duy là một hiện thân của khổ đế lịch sử. Có thể 

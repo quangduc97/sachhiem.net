@@ -2,11 +2,11 @@
 layout: ../../layouts/Article.astro
 title: "Đi Tìm Thời Gian Đánh Mất"
 author: "Sâm Thương"
-source: "https://sachhiem.net/null"
+source: "/null"
 category: "Chính trị"
 lang: vi
 wordCount: 8286
-image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nha.jpg"
+image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/Next3.gif"
 ---
 
 <div align="center" style="position: relative; left: 0; top: 0">
@@ -34,7 +34,7 @@ image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nha.jpg"
 	<div style="padding-left: 50px; padding-right: 50px"> 
 
 		<table border="0" width="600"><tbody><tr>
-			<td><a href="/index.php/"><img border="0" src="https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nha.jpg"></a></td>
+			<td></td>
 	<td valign="top">	<font size="2">11 tháng 10, 2008
 	</font>
 	</td></tr></tbody></table>

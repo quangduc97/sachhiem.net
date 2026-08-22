@@ -2,7 +2,7 @@
 layout: ../../../layouts/Article.astro
 title: "Năm Bài Học Quan Trọng Của Cuộc Đời"
 author: "Phương Thảo"
-source: "https://sachhiem.net/Cà Phê Tối chuyển"
+source: "/Cà Phê Tối chuyển"
 category: "Chính trị"
 lang: vi
 wordCount: 1558
@@ -31,7 +31,7 @@ image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nhacu.jpg"
 	
 <tr><td width="100%" bgcolor="White"> 
 	<table border="0" id="3" cellpadding="10" width="100%" align="center"><tbody><tr>
-				<td valign="top" width="242"><a href="https://sachhiem.net/">
+				<td valign="top" width="242"><a href="/">
 				<img border="0" src="https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nhacu.jpg" width="49" height="20"></a></td>
 	<td valign="top">	<font size="2">13 tháng 9, 2008	</font>
 	</td></tr></tbody></table>

@@ -3,7 +3,7 @@ layout: ../../../layouts/Article.astro
 title: "Quyền Chủ Tịch Nước Huỳnh Thúc Kháng Trong Những Ngày Đầu Dựng Nước"
 author: "Nguyễn Tuấn Anh"
 date: 2023-09-16
-source: "https://sachhiem.net/LICHSU/T/TuanAnh.php"
+source: "/LICHSU/T/TuanAnh"
 category: "Lịch sử"
 lang: vi
 wordCount: 2565

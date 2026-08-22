@@ -2,7 +2,7 @@
 layout: ../../layouts/Article.astro
 title: "Thư gởi Đan Tâm"
 author: "Lê Đông Lâm"
-source: "https://sachhiem.net/nguồn: https://www.tamthucviet.com/articleview.aspx?artId=%c5%93D%15%5b"
+source: "/nguồn: https://www.tamthucviet.com/articleview.aspx?artId=%c5%93D%15%5b"
 category: "Đối thoại"
 lang: vi
 wordCount: 190
@@ -37,7 +37,7 @@ image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nhacu.jpg"
 	
 	<div style="padding-left: 40px; padding-right: 40px">
 		<table border="0" cellpadding="10" width="80%" cols="2"><tbody><tr>
-<td><a href="https://sachhiem.net/"><img border="0" src="https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nhacu.jpg" width="49" height="20"></a></td>
+<td><a href="/"><img border="0" src="https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nhacu.jpg" width="49" height="20"></a></td>
 	
 	<td valign="top" style="text-align:right">	<i><font size="2">8 tháng 2, 2009	
 	</font>	</i>

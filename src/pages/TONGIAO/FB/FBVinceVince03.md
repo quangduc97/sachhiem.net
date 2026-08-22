@@ -3,7 +3,7 @@ layout: ../../../layouts/Article.astro
 title: "\"Hãy Yêu Thương Kẻ Thù Của Ngươi,\""
 author: "Vince Vince"
 date: 2021-03-28
-source: "https://sachhiem.net/TONGIAO/FB/FBVinceVince03.php"
+source: "/TONGIAO/FB/FBVinceVince03"
 category: "Chính trị"
 lang: vi
 wordCount: 988

@@ -3,7 +3,7 @@ layout: ../../layouts/Article.astro
 title: "Công giáo Việt Nam có hỗ trợ việc Pháp đô hộ nước ta?"
 author: "Bùi Kha"
 date: 2017-01-09
-source: "https://sachhiem.net/BUIKHA/BuiKha33.php"
+source: "/BUIKHA/BuiKha33"
 category: "Đối thoại"
 lang: vi
 wordCount: 7023
@@ -48,7 +48,7 @@ image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/TONGIAO/IMG/LINHMUC/
 <p>"<i>Tôi tưởng nước Pháp là nước ngoan đạo nhất thế giới, nước Pháp có thể  cung cấp cho tôi nhiều chiến sĩ để chinh phục toàn cõi Đông phương đưa về quy  phục Chúa Ki Tô và nhất là tôi sẽ tìm được các giám mục, cha chúng tôi và thầy  chúng tôi trong các giáo đoàn. Với ý đó, tôi rời Roma ngày 11/9/1652 sau khi  tới hôn chân Đức Giáo hoàng</i>. </p>
 <p align="center"><img src="https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/TONGIAO/IMG/LINHMUC/Alex_Rhodes.jpg" width="180" height="213" alt=""></p>
 <p align="center">Linh mục Đắc Lộ</p>
-<p><i>Tôi chưa công bố thánh chiến chống mọi địch thù của đức tin ở Nhật, ở Trung  Hoa, ở Đàng Trong, ở Đàng Ngoài và ở Ba Tư thì lập tức đã có một số đông con  cái thánh Inhaxu, đầy tinh thần đã đưa thánh Phanxicô Xavie tới 300 quốc gia,  các ngài đã bừng bừng ao ước vác thánh giá Thầy và đem đi cắm ở những nơi cùng  kiệt cõi đất</i> [Bùi Kha, “<i><a href="https://sachhiem.net/BUIKHA/BK_NTT.php">Nguyễn Trường Tộ &amp; vấn đề canh tân</a></i>”, NXB VH  HN,30.3.2011, tr. 59.60 &amp; 61].</p>
+<p><i>Tôi chưa công bố thánh chiến chống mọi địch thù của đức tin ở Nhật, ở Trung  Hoa, ở Đàng Trong, ở Đàng Ngoài và ở Ba Tư thì lập tức đã có một số đông con  cái thánh Inhaxu, đầy tinh thần đã đưa thánh Phanxicô Xavie tới 300 quốc gia,  các ngài đã bừng bừng ao ước vác thánh giá Thầy và đem đi cắm ở những nơi cùng  kiệt cõi đất</i> [Bùi Kha, “<i><a href="/BUIKHA/BK_NTT">Nguyễn Trường Tộ &amp; vấn đề canh tân</a></i>”, NXB VH  HN,30.3.2011, tr. 59.60 &amp; 61].</p>
 <p align="center"> <img src="https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/BUIKHA/img/NTT_vdcanhtan.jpg" width="395" height="280" alt=""> </p>
 <p>Nguyên văn tiếng Pháp:</p>
 <p>["J'ai cru que la France estant le plus pieux Royaume du monde, me  fournirait plusieurs soldats qui aillent à la conqueste de tout l'Orient, pour  l'assujettir à Jésus-Christ, &amp; particulièrement que j'y trouuerois moyen  d'avoir des Euesques, qui fussent nos Pères, &amp; nos Maistres en ces Églises,  je suis sorti de Rome à ce dessein le vinziesme Septembre de l'année mil six  cents cinquante deux après avoir baisé les pieds au Pape…]</p>

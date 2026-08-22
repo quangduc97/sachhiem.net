@@ -2,7 +2,7 @@
 layout: ../../../layouts/Article.astro
 title: "Những Vị Tổng Thống Mỹ"
 author: "Nguyễn Mạnh Quang"
-source: "https://sachhiem.net/null"
+source: "/null"
 lang: vi
 wordCount: 16252
 image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nha.gif"
@@ -1118,7 +1118,7 @@ News Tribune [Tacoma (Washington) 27 December 2008, Morning edition: B8.</p>
 Gallup job approval rating was 29 persent, and a CNN/ Opinion Reasearch 
 Corp survey taken Dec. 19-21 and released Friday put the figure at 27 
 percent. Seventy five percent said they’re glad that Bush is leaving.”) 
-David Lightman. “Obama clobbers Bush for most-admired title.”<a title="" href="https://sachhiem.net/NMQ/HOVATA/NMQhvt-6.php#_edn140">[140]</a> 
+David Lightman. “Obama clobbers Bush for most-admired title.”<a title="" href="/NMQ/HOVATA/NMQhvt-6#_edn140">[140]</a> 
 David Lightman. "Obama clobbers Bush for most admired title."</p>
 <p class="baochi"><a name="_edn4" title="" href="/NMQ/#_ednref4">
 [4]</a> The 

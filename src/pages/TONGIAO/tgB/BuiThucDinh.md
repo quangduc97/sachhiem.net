@@ -1,11 +1,10 @@
 ---
 layout: ../../../layouts/Article.astro
 title: "Những lời Chúa phán !"
-source: "https://sachhiem.net/null"
+source: "/null"
 category: "Tác giả"
 lang: vi
 wordCount: 5191
-image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nha.jpg"
 ---
 
 <div align="center" style="position: relative; left: 0; top: 0">
@@ -21,8 +20,7 @@ image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nha.jpg"
 <tr><td width="100%">
 <div style="padding-left: 50px; padding-right: 50px"> 
 	<table border="0" cellpadding="1" width="86%" cols="2"><tbody><tr>
-	<td><a href="https://www.sachhiem.net/">
-	<img border="0" src="https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nha.jpg"></a></td>
+	<td></td>
 <td valign="top" width="210"><p>09 tháng 12, 2009</p></td></tr></tbody></table>
 	
 		
@@ -555,7 +553,7 @@ image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nha.jpg"
 		“Ngày Tận thế của 
 		Ki Tô Giáo" 
 		(Trần Chung Ngọc)</i>
-		<a target="_blank" style="color: blue; text-decoration: underline; text-underline: single" href="https://sachhiem.net/">
+		<a target="_blank" style="color: blue; text-decoration: underline; text-underline: single" href="/">
 		sachhiem.net</a> 
 		26-5-2008:</p>
 		<p>

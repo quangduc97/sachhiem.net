@@ -3,15 +3,14 @@ layout: ../../../layouts/Article.astro
 title: "Nói với ông Tâm Bền và bà Thuấn"
 author: "Trần Quang Diệu"
 date: 2012-04-10
-source: "https://sachhiem.net/LICHSU/TR/TQD11.php"
+source: "/LICHSU/TR/TQD11"
 category: "Lịch sử"
 lang: vi
 wordCount: 1847
-image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nha.jpg"
 ---
 
 <table border="0" cellpadding="0" width="250" align="center"><tbody><tr>
-	<td width="125"><a href="/index"><img border="0" src="https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nha.jpg"></a></td>
+	<td width="125"></td>
 <td valign="middle">10-Apr-2012</td>
 		</tr></tbody></table>
 <p><i>LTS: Mấy ngày gần đây tác giả Trần Quang Diệu bị quấy nhiễu trên các diến

@@ -2,15 +2,14 @@
 layout: ../../../layouts/Article.astro
 title: "Nhân Dân Khẩn Thiết Yêu Cầu: Cần Phải Thượng Tôn Pháp Luật"
 author: "Nguyễn Kim Khanh"
-source: "https://sachhiem.net/THOISU_CT/FB/NguyenKimKhanh.php"
+source: "/THOISU_CT/FB/NguyenKimKhanh"
 category: "Chính trị"
 lang: vi
 wordCount: 2230
-image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nha.jpg"
+image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/THOISU_CT/Hinh/VIETNAM/BIEUTINH/BinhThuan_10Jun2018_dapphaxeUBND.jpg"
 ---
 
-<p align="center"><a href="https://www.sachhiem.net/">
-<img border="0" src="https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nha.jpg"></a> 
+<p align="center"> 
 October 27, 2018</p> 
 <p><span class="First">Đ</span> ất nước ta đã trải qua  hơn 4000 năm lịch sử, giữ nước và dựng nước, với biết bao thăng trầm,  biến cố của thời gian, khó khăn, gian khổ, hy sinh, chiến đấu chống giặc  ngoại xâm để đòi <i>“độc lập cho đất nước, danh dự của một quốc gia và  chủ quyền dân tộc”</i>. Thành quả đã đạt được, đó là hòa bình đã phải  trả giá quá đắt bằng máu và nước mắt của cả một dân tộc, Nhân dân  ta được hưởng hạnh phúc, sống ở thế kỉ XXI, ở một đất nước hoà  bình, độc lập, tư do, ấm no và hạnh phúc trên chính quê hương, đất  nước của mình.</p>
 <p>Vì thế, Hơn ai hết, nhân dân  ta, những người Việt Nam yêu nước, các thế hệ của con Lạc cháu Hồng đều  tự hào về điều đó, tự hào vì chúng ta mang trong mình dòng máu  Việt Nam, dòng máu anh hùng của một dân tộc anh hùng, luôn có gen  chiến thắng!</p>

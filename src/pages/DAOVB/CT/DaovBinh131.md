@@ -3,7 +3,7 @@ layout: ../../../layouts/Article.astro
 title: "Tình Hình Libya Vô Cùng Rối Ren"
 author: "Đào Văn Bình"
 date: 2019-04-09
-source: "https://sachhiem.net/DAOVB/CT/DaovBinh131.php"
+source: "/DAOVB/CT/DaovBinh131"
 category: "Chính trị"
 lang: vi
 wordCount: 833

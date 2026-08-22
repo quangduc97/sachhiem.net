@@ -2,7 +2,7 @@
 layout: ../../../layouts/Article.astro
 title: "Quanh khẩu hiệu In God We Trust !"
 author: "Don"
-source: "https://sachhiem.net/null"
+source: "/null"
 category: "Tác giả"
 lang: vi
 wordCount: 1620
@@ -40,7 +40,7 @@ thế tục hóa. Sự thế tục hóa được thể hiện bằng những đi
 giữa thần quyền tôn giáo và thế quyền chính trị trong hiến pháp. Sự thế tục hóa 
 là một nỗ lực của giới lãnh đạo Hoa Kỳ chủ yếu nhằm chống lại những áp lực của 
 Ki-tô giáo. Do đó, “God” trong phương châm “In God We Trust” dứt khoát không 
-phải là “Christian God” tức Thiên Chúa Ba Ngôi của đạo Ki-tô. Xin đọc nguyên bài "IN GOD WE TRUST của tác giả để có một nhận định tổng quát (<a href="https://sachhiem.net/CHARLIE/CN_TTDTG/InGodWeTrust.php">https://sachhiem.net/CHARLIE/CN_TTDTG/ InGodWeTrust.php</a>)<i>."&nbsp;Trong bài này, Don xét qua các giai đoạn lịch sử mà chữ God được dùng, và cho rằng chữ God được thêm vào trong các văn bản đầu tiên do ảnh hưởng tôn giáo 
+phải là “Christian God” tức Thiên Chúa Ba Ngôi của đạo Ki-tô. Xin đọc nguyên bài "IN GOD WE TRUST của tác giả để có một nhận định tổng quát (<a href="/CHARLIE/CN_TTDTG/InGodWeTrust">https://sachhiem.net/CHARLIE/CN_TTDTG/ InGodWeTrust.php</a>)<i>."&nbsp;Trong bài này, Don xét qua các giai đoạn lịch sử mà chữ God được dùng, và cho rằng chữ God được thêm vào trong các văn bản đầu tiên do ảnh hưởng tôn giáo 
 cưỡng đặt vào chính trị, vì lý do đó phải hiểu là Thánh Thần của Do Thái. Thật ra mục đích 
 của Don chỉ muốn viết thêm những mấu chốt lịch sử quanh khẩu hiệu "In God We 
 Trust"cũng là một đóng góp cho các khía cạnh khác nhau của cụm từ gây sôi nổi này. Xin các vị cao minh chỉ giáo thêm. (SH) </i></p><hr>
@@ -55,7 +55,7 @@ Charlie Nguyễn nơi chín suối, vì đức tính lương thiện trí thức
 nhận bài viết của hậu bối.</p>
 <p>Bài viết 
 của học giả Charlie Nguyễn (trong Tuyển Tập Độc Thần Giáo, mục III):<br> "IN GOD WE TRUST" 
-<a href="https://sachhiem.net/CHARLIE/CN_TTDTG/InGodWeTrust.php">
+<a href="/CHARLIE/CN_TTDTG/InGodWeTrust">
 https://sachhiem.net/CHARLIE/CN_TTDTG/InGodWeTrust.php</a><span lang="en-us">
 </span> </p>
 <p>Khẩu 

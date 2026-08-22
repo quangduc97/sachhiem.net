@@ -3,7 +3,7 @@ layout: ../../../layouts/Article.astro
 title: "Dạy Cho Con Tiếng Nói Thật Thà!"
 author: "Howard Nguyen"
 date: 2018-04-07
-source: "https://sachhiem.net/THOISU_CT/ChuH/HowardNguyen04.php"
+source: "/THOISU_CT/ChuH/HowardNguyen04"
 category: "Chính trị"
 lang: vi
 wordCount: 2224
@@ -13,7 +13,7 @@ image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/VANHOC/Hinh/SACH/Gia
 <div class="tomluoc">
    <p><i>Sự dối trá leo thang khi thành phần cựu sĩ quan, viên chức chính quyền VNCH ồ ạt qua Hoa Kỳ theo diện HO. Sau khi đến được nơi an toàn, các ông chức sắc cao cấp bắt đầu viết sách để ca tụng công lao, sự nghiệp chống cộng của mình.</i></p>
  </div>
-<p><span class="First">N</span>hân đọc bức điện thư <i>"Nhà tiên tri trong âm nhạc VN: Dạy cho con tiếng nói thật thà</i>" trên <a href="https://sachhiem.net/index.php?content=showemail&amp;id=2515">trang nhà Sách Hiếm</a>. Tác giả đã nhắc đến nỗi lo của nhạc sĩ Trịnh công Sơn hơn bốn mươi năm trước. Vào thập niên 1960-1970, người nhạc sĩ tài hoa này đã khóc cho đám con Việt Nam cùng cha, cùng mẹ, sau ngàn năm nô lệ Tàu, trăm năm nô lệ Tây, bây giờ lại lăn xả vào chém giết trong một cuộc nội chiến tương tàn. Trịnh công Sơn đã khổ đau khi thấy máu  đổ, thịt rơi, quê hương tan nát. Nhưng điều làm ông lo lắng nhất là nếu cuộc chiến kéo dài, sự thù hận chất chồng, rồi người ta sẽ mất đi một đức tính cao quí, thiêng liêng nhất đó là sự "thật thà".</p>
+<p><span class="First">N</span>hân đọc bức điện thư <i>"Nhà tiên tri trong âm nhạc VN: Dạy cho con tiếng nói thật thà</i>" trên <a href="/hop-thu/2515">trang nhà Sách Hiếm</a>. Tác giả đã nhắc đến nỗi lo của nhạc sĩ Trịnh công Sơn hơn bốn mươi năm trước. Vào thập niên 1960-1970, người nhạc sĩ tài hoa này đã khóc cho đám con Việt Nam cùng cha, cùng mẹ, sau ngàn năm nô lệ Tàu, trăm năm nô lệ Tây, bây giờ lại lăn xả vào chém giết trong một cuộc nội chiến tương tàn. Trịnh công Sơn đã khổ đau khi thấy máu  đổ, thịt rơi, quê hương tan nát. Nhưng điều làm ông lo lắng nhất là nếu cuộc chiến kéo dài, sự thù hận chất chồng, rồi người ta sẽ mất đi một đức tính cao quí, thiêng liêng nhất đó là sự "thật thà".</p>
 <p>Bất cứ đứa trẻ Việt Nam nào cũng đều được dạy sự "thật thà" từ người mẹ hiền khi còn nhỏ xíu. Bà mẹ Việt rất sợ sau này đứa bé sẽ thành người xấu nên đã cố gắng nhồi nhét sự "thật thà" vào tiềm thức con mình qua câu ru, lời nói, và bằng những cử chỉ nhân hậu, hiền từ. Trịnh công Sơn đã nhắc đến điều này qua lời hát: </p>
 <p align="center"><img src="https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/VANHOC/Hinh/SACH/GiaTaiCuaMe.jpg" width="400" height="288" alt=""></p>
 <p align="center"><a href="https://tuoitre.vn/gia-tai-cua-me.html">Ảnh Tuổi Trẻ VN</a></p>

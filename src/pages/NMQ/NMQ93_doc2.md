@@ -3,7 +3,7 @@ layout: ../../layouts/Article.astro
 title: "Những Cuộc Tranh Đấu Chống Vatican Của Các Quốc Gia Trên Thế Giới"
 author: "Nguyễn Mạnh Quang"
 date: 2019-01-15
-source: "https://sachhiem.net/NMQ/NMQ93_doc2.php"
+source: "/NMQ/NMQ93_doc2"
 category: "Lịch sử"
 lang: vi
 wordCount: 8437
@@ -16,7 +16,7 @@ image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/TONGIAO/IMG/GERMANY/
 
 
   
- <p><a href="https://sachhiem.net/NMQ/NMQ93_doc.php">(tiếp theo và hết)</a></p>
+ <p><a href="/NMQ/NMQ93_doc">(tiếp theo và hết)</a></p>
  
  <p>Những tác phẩm của các nhà trí thức trên đây đã giúp cho nhân dân  Âu Châu nhìn thấy rõ bộ mặt cực kỳ ghê tởm của  mọi  thành phần lãnh đạo trong giáo triều Vatican. Vì thế mà  người dân Âu Châu không những không còn tin tưởng vào hệ thống tín lý Ki-tô nữa  và còn tỏ ra khinh bỉ Giáo Hội La Mã.</p>
  <p>Theo quy luật tự nhiên, tư tưởng biến thành hành động. Nhân dân sống dưới ách thống trị cực kỳ tham tàn  và vô cùng dã man của các chế độ đạo phiệt Ca-tô vốn đã có tư tưởng chống đối đạo  Ki-tô như vậy, thì tất nhiên vấn đề họ vùng lên làm cách mạng  chỉ là vấn đề thời gian. Các thế  lực làm cách mạng đều có các bước đi tuần tự như sau:</p>
@@ -100,7 +100,7 @@ image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/TONGIAO/IMG/GERMANY/
  <p align="center"><a href="https://www.gettyimages.com/detail/news-photo/louis-xvi-at-the-foot-of-the-guillotine-january-21-1793-news-photo/56465356">Vua Louis XVI dưới chân máy chém -bi xử tử </a></p>
  <p>Sau  khi quân &nbsp;xâm lăng Liên Minh Thánh bị đánh  bại và rút quân về nước, chính quyền Cách Mạng Pháp thẳng tay trừng trị bọn tu  sĩ áo đen cũng như bọn giáo dân cuồng tín và bọn Pháp gian khác mà đã số thuộc  thành phần quý tộc và phản động. Sư kiện này được sách sử ghi lại như sau:</p>
  <p>"<i>Trước  hết, nước Pháp mà Giáo Hoàng Pius VI (1775-1799) thường gọi là "người trưởng nữ của Giáo Hội" đã xóa bỏ  toàn  bộ tôn giáo, đưa nhà vua lên đoạn đầu đài, chính thức tôn vinh thần  Lý Trí lên ngôi chí tôn, tàn sát 17 ngàn linh mục, 30 ngàn nữ tu và 47 giám mục,  tất cả các tu viện, các dòng tu và các trường học của Giáo Hội đều bị giải thể,  tất cả các thư viện của Giáo Hôi đều bị thiêu rụi, chính quyền Paris còn  ban hành quyết định ra lệnh cho Tướng Bonaparte (Sau này là Hòang Đế Napoléon  I) đem quân đi "giải phóng nước Ý", "có toàn quyền hành động  hủy diệt Rome và chế độ Giáo Hòang..” <a href="/NMQ/#_edn18" name="_ednref18">(18)</a></i></p>
- <p>Nhiều  hơn nữa, xin đọc Tiết Mục B, Thời Kỳ Thứ Hai&nbsp;  1500-1789, Chương 16 <a href="https://sachhiem.net/NMQ/TAMTHU/NMQtt_16a.php"> “Kế Sách Vatican Xâm  Nhập Vào Giai Cấp Lãnh Đạo Nước Pháp”,</a> tập sách Tâm Thư Gửi Nhà Nước Việt Nam. </p>
+ <p>Nhiều  hơn nữa, xin đọc Tiết Mục B, Thời Kỳ Thứ Hai&nbsp;  1500-1789, Chương 16 <a href="/NMQ/TAMTHU/NMQtt_16a"> “Kế Sách Vatican Xâm  Nhập Vào Giai Cấp Lãnh Đạo Nước Pháp”,</a> tập sách Tâm Thư Gửi Nhà Nước Việt Nam. </p>
 <p class="TuaDoLeft"><strong>5. Nhân Dân Ý Đại Lợi vùng lên chống  lại Giáo Hội La Mã</strong>:  </p>
  <p>Từ thế kỷ 4 cho đến thế kỷ 19, nước Ý vẫn còn ở  trong tình trạng chia&nbsp; 5 sẻ 7. Vào thế kỷ 19 nước Ý ở trong tình trạng như sau: </p>
  <div class="indent50">
@@ -157,7 +157,7 @@ image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/TONGIAO/IMG/GERMANY/
 <p class="TuaDenLeft"><strong>1. Theo gương Trung Quốc</strong>:</p>
  <p class="sub">a. Cương quyết không thiết lập bang giao với Vatican: Lý do đã  được trình bày đầy  đủ trong Chương 2 (Phần I trong bức Tâm Thư Gửi Nhà Nước Việt Nam: https://sachhiem.net/NMQ/TAMTHU/NMQtt_Main.php).</p>
  <p class="sub">b. Tiến hành thành lập một Giáo Hội Ki-tô Việt Nam độc lập,  tách khỏi Giáo Hội La Mã, và đồng thời  kiểm soát chặt chẽ những người hành  nghề linh mục, sử dụng những biện pháp cứng rắn để xử lý những tu sĩ và  giáo dân nào vẫn còn ngoan cố tiếp tục thần phục Tòa Thánh Vatican.</p>
- <p class="sub">c. Cương quyết không để cho Vatican hay các nhà thờ Ki-tô mở  trường học tại bất cứ nơi nào trên lãnh thổ Việt Nam để tránh cho con em  chúng ta khỏi bị họ dùng chính sách ngu dân và nhồi sọ. Những người này đã mất hết nhân tính, trở thành hạng người vong bản, phản quốc, phi luân và  loạn luân giống y hệt như những chuyện trong kinh thánh cũng như trong đời sống  hoang đàng phi luân của các giáo hoàng và giới tu sĩ áo đen. Bằng  chứng bất khả phủ bác cho các sự kiện này là nạn ấu dâm, hãm hiếp nữ tín đồ đã được phơi bày ra trước  công luận từ đầu năm 2002 cho đến nay mà điển hình là Linh-mục Giuse Nguyễn Ngọc  Dũng: (<a href="https://sachhiem.net/TONGIAO/tgB/Bacaytruc00.php">https://sachhiem.net/TONGIAO/tgB/Bacaytruc00.php</a>).</p>
+ <p class="sub">c. Cương quyết không để cho Vatican hay các nhà thờ Ki-tô mở  trường học tại bất cứ nơi nào trên lãnh thổ Việt Nam để tránh cho con em  chúng ta khỏi bị họ dùng chính sách ngu dân và nhồi sọ. Những người này đã mất hết nhân tính, trở thành hạng người vong bản, phản quốc, phi luân và  loạn luân giống y hệt như những chuyện trong kinh thánh cũng như trong đời sống  hoang đàng phi luân của các giáo hoàng và giới tu sĩ áo đen. Bằng  chứng bất khả phủ bác cho các sự kiện này là nạn ấu dâm, hãm hiếp nữ tín đồ đã được phơi bày ra trước  công luận từ đầu năm 2002 cho đến nay mà điển hình là Linh-mục Giuse Nguyễn Ngọc  Dũng: (<a href="/TONGIAO/tgB/Bacaytruc00">https://sachhiem.net/TONGIAO/tgB/Bacaytruc00.php</a>).</p>
  <p class="sub">d. Tuyệt đối không trả lại cho Vatican những  khỏan bất động  sản&nbsp; mà trước đó chính quyền ta đã thâu hồi  lại.</p>
  <p class="sub">e. Tuyệt đối không để cho Vatican tự ý bổ nhậm các linh mục và  giám mục mà không có sự chấp thuận của chính quyền ta.</p>
 <p class="TuaDenLeft"><strong>2.  Theo gương chính quyền Cách Mạng Pháp 1789</strong>:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </p>
@@ -171,7 +171,7 @@ image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/TONGIAO/IMG/GERMANY/
  <p> Ban hành một đạo luật cấm các tu sĩ của Vatican, không cho hành nghề dạy học và  không được mặc áo tu sĩ ở ngoài Nhà Thờ.</p>
 <p class="TuaDenLeft"><strong>6. Theo gương Hoa Kỳ:</strong></p>
  <p>a. Thi hành chính sách giáo dục đại chúng,  tự do và khai phóng, cổ võ, giúp đỡ và khích lệ việc in ấn, phát hành và phổ biến  rộng rãi những sách báo và tài liệu văn học, khoa học, lịch sử, đặc biệt là lịch  sử thế giới, lịch sử Giáo Hội La Mã (miễn là không chống chính quyền).</p>
- <p>b.  Đưa vào chương trình học ở bậc trung học môn học quốc sử và lịch sử thế giới,  nâng cao thời lượng và nâng cao môn học này lên thành môn học chính, ngang hàng  với các môn Quốc Văn, Toán và Khoa Học, giống như ở các trường trung học ở Hoa  Kỳ. Vấn đề này đã được chúng tôi trình bày khá đầy đủ trong Chương 8 ở trên  trong sách Tâm Thư Gửi Nhà Nước Việt Nam: (<a href="https://sachhiem.net/NMQ/TAMTHU/NMQtt_08.php">https://sachhiem.net/NMQ/TAMTHU/NMQtt_08.php</a>).</p>
+ <p>b.  Đưa vào chương trình học ở bậc trung học môn học quốc sử và lịch sử thế giới,  nâng cao thời lượng và nâng cao môn học này lên thành môn học chính, ngang hàng  với các môn Quốc Văn, Toán và Khoa Học, giống như ở các trường trung học ở Hoa  Kỳ. Vấn đề này đã được chúng tôi trình bày khá đầy đủ trong Chương 8 ở trên  trong sách Tâm Thư Gửi Nhà Nước Việt Nam: (<a href="/NMQ/TAMTHU/NMQtt_08">https://sachhiem.net/NMQ/TAMTHU/NMQtt_08.php</a>).</p>
 <p class="TuaDenLeft"><strong>7. Theo gương nước Nga và  nhiều nước khác</strong>:</p>
  <p> Ban hành một đạo luật công nhân đạo Phật và các tôn giáo khác  được tự do họat động ở trong nước, ngọai trừ đạo Ki-tô La Mã và đạo Tin Lành.</p>
  <p>Cũng  nên biết trong tháng 7/2016, Tổng Thống Vladimir Putin đã ký đạo luật được coi  như là một biện pháp trừng phạt bất kỳ việc truyền đạo nào ở ngoài nhà thờ. Một  số các nhà quan sát cho rằng đây là một sự hạn chế khắt khe nhất trong lịch sử  thời “hậu Sô-viết”<a href="/NMQ/#_edn24" name="_ednref24">(24)</a></p>
@@ -210,4 +210,4 @@ image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/TONGIAO/IMG/GERMANY/
       <p><a href="/NMQ/#_ednref23" name="_edn23">(23)</a> Nguồn:&nbsp;Maximilian I Of Mexico (<a href="https://en.wikipedia.org/wiki/Maximilian_I_of_Mexico">https://en.wikipedia.org/wiki/Maximilian_I_of_Mexico</a>). </p>
      <p><a href="/NMQ/#_ednref24" name="_edn24">(24)</a> &nbsp;Nguồn: </p>
      <p>“<i>Ông Hannu Haukka nói với các Cơ Quan Truyền Thông Quốc Gia  (mà ông là Giám Đốc) rằng, tình hình mới này gống như Liên Bang Soviet vào năm  1929 (Theo tin của Breitbart News). Thời đó, việc tuyên xưng đức tin chỉ được  phép thực thi ở trong nhà thờ mà thôi. Nói một cách thực tế, chúng ta trở lại  tình huống giống như thời Soviet. Luật chống khủng bố này là những luật gắt gao  nhất trong thời “Hậu Soviet”.</i></p>
-     <p> <i>Luật mới này được coi như là có chủ đích chống lại sư lan tràn của khủng bố  cũng như quá khích và đã được Thượng Viện trong Quốc Hội Nga chấp thuận. Biện  pháp này chặn đứng việc truyền đạo ở bất kỳ nơi nào không được chính quyền  chuẩn nhận là giáo đường</i>.”(<a href="https://sachhiem.net/print.php?id=6699">https://sachhiem.net/print.php?id=6699</a>).</p>
+     <p> <i>Luật mới này được coi như là có chủ đích chống lại sư lan tràn của khủng bố  cũng như quá khích và đã được Thượng Viện trong Quốc Hội Nga chấp thuận. Biện  pháp này chặn đứng việc truyền đạo ở bất kỳ nơi nào không được chính quyền  chuẩn nhận là giáo đường</i>.”(<a href="/print.php?id=6699">https://sachhiem.net/print.php?id=6699</a>).</p>

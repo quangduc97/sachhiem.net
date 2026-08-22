@@ -2,7 +2,7 @@
 layout: ../../../layouts/Article.astro
 title: "Những Kỳ Tích Của Anh Hùng Dân Tộc"
 author: "Đặng Hương"
-source: "https://sachhiem.net/null"
+source: "/null"
 category: "Lịch sử"
 lang: vi
 wordCount: 1010

@@ -3,7 +3,7 @@ layout: ../../../layouts/Article.astro
 title: "Tôi Đọc E-mails Của ông Thinh Nguyễn"
 author: "Nguyễn Ri"
 date: 2013-08-05
-source: "https://sachhiem.net/TONGIAO/tgN/NguyenRi01.php"
+source: "/TONGIAO/tgN/NguyenRi01"
 category: "Tác giả"
 lang: vi
 wordCount: 3760
@@ -15,7 +15,7 @@ image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/TONGIAO/IMG/METIN/Bl
 
 	 
 
- <p> Bài phản biện của  Nguyễn Ri trong loạt thư về: <b> Vấn Đề Phê Phán Tôn Giáo </b> - đăng ở <a href="https://sachhiem.net/TTL/TranTL44.php">https://sachhiem.net/TTL/TranTL44.php</a></p><hr>
+ <p> Bài phản biện của  Nguyễn Ri trong loạt thư về: <b> Vấn Đề Phê Phán Tôn Giáo </b> - đăng ở <a href="/TTL/TranTL44">https://sachhiem.net/TTL/TranTL44.php</a></p><hr>
 <p> <span class="First">T</span>uần qua, tôi đọc  E-mail của ông Thinh Nguyen gửi ông DieuquangTran (Ngày 22/7/13) và những  E-mails sau đó (ngày 23,24,26 /7/13) gửi cho ông Qtran. Nội dung của các  e-mails đó không ngoài mục đích đánh bóng cái được gọi là Đức Tin “Không Thấy  Mà Tin”, con người được tạo lập bởi Thượng Đế và cái được gọi là “Cứu Rỗi” của đạo  “Chúa” (Thiên Chúa giáo/Công Giáo và Tin Lành). Phần còn lại là viết nhăng viết  cuội lươn lẹo, ma giáo gán ghép các tôn giáo khác như Phật Giáo cũng có cái tin  hoang tưởng của đạo “Chúa”.</p>
 <p align="center"><img src="https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/TONGIAO/IMG/METIN/Blinders.jpg" width="213" height="320"></p>
 <p><span class="green">» </span> Trong E-mail đề ngày 26 tháng 7 năm 2013 Gửi ông  Qtran, ông Thinh Nguyen phân bua ông không phải là tín đồ Công Giáo. Nhưng vải  thưa không che được mắt “Thánh” (Thánh ở đây như đức “Thánh Trần” chứ không phải  117 tên “Thánh” mà trong đó có 96 tên Việt gian phản quốc được cho ra lò từ <a href="https://catholic.org.tw/vntaiwan/ghvienam/tudaovn1.htm">xưởng  sản xuất thánh Vatican</a>) và ngay cả người trần mắt thịt. Những gì ông Thinh Nguyen  viết trong chuỗi e-mails gửi cho hai ông DieuquangTran và ông QTran chỉ cho mọi  người thấy ông Thinh Nguyen có tâm tư của một con “Chiên” đạo “Chúa” và cố gắng  đánh bóng cái đạo  đặt tín lý trên mê tín dị đoan, trên thần thoại của dân Do  Thái. </p>
@@ -72,4 +72,4 @@ Với đầu  óc bệnh hoạn, E-mail ngày 26 tháng 7 năm 2013 gửi ông Q
 <p><br>
 <b class="TacgiaL">Nguyễn Ri</b></p>
 __________________
- <p>Các bài của Nguyễn Ri: link <a href="https://sachhiem.net/TONGIAO/tgN/ListRiNguyen.inc.php" target="_blank">https://sachhiem.net/TONGIAO/tgN/ListRiNguyen.inc.php</a></p>
+ <p>Các bài của Nguyễn Ri: link <a href="/TONGIAO/tgN/ListRiNguyen.inc" target="_blank">https://sachhiem.net/TONGIAO/tgN/ListRiNguyen.inc.php</a></p>

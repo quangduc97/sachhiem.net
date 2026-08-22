@@ -2,7 +2,7 @@
 layout: ../../../layouts/Article.astro
 title: "Ý NGHĨA LÁ CỜ PHẬT GIÁO"
 author: "Ban Giáo Dục GĐPT"
-source: "https://sachhiem.net/nguồn: https://sonhao.wordpress.com/2008/01/17/y-nghia-la-c%E1%BB%9C-ph%E1%BA%ACt-giao/"
+source: "/nguồn: https://sonhao.wordpress.com/2008/01/17/y-nghia-la-c%E1%BB%9C-ph%E1%BA%ACt-giao/"
 category: "Tác giả"
 lang: vi
 wordCount: 1031

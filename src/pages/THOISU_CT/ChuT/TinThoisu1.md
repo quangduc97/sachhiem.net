@@ -1,17 +1,17 @@
 ---
 layout: ../../../layouts/Article.astro
 title: "Ernie Chambers đưa \"Chúa\" ra tòa"
-source: "https://sachhiem.net/THOISU_CT/ChuT/TinThoisu1.php"
+source: "/THOISU_CT/ChuT/TinThoisu1"
 category: "Chính trị"
 lang: vi
 wordCount: 806
-image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nha.jpg"
+image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/XAHOI/IMG/FLOOD/HarveyStormDamage_27Aug2017.jpg"
 ---
 
 <p style="text-align: center">
 		(bản tin của KETV channel 7) </p>
   
- <p align="center"><a href="/LICHSU/S/index"><img hspace="20" border="0" src="https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nha.jpg"></a> 	19 tháng 9, 2007 </p>
+ <p align="center"> 	19 tháng 9, 2007 </p>
 <p><font size="2">(bản tin đặc biệt của KETV channel 7 mới cập nhật lúc&nbsp; 12:04 pm 
      ngày September 19, 2007)</font></p><font size="2">
  <div class="tomluoc">

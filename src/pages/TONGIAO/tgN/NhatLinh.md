@@ -2,18 +2,17 @@
 layout: ../../../layouts/Article.astro
 title: "Hàn Quốc: Mục sư Tin lành"
 author: "Nhựt Linh"
-source: "https://sachhiem.net/null"
+source: "/null"
 category: "Tác giả"
 lang: vi
 wordCount: 796
-image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nha.jpg"
+image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/IMG/MUCSU/XinloiPG_Korean.jpg"
 ---
 
 <p class="Tuaduoi">xin lỗi vì nguyền rủa Phật giáo </p>
 		
 			 
-	<p align="center"><a href="/index">
-		<img border="0" src="https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nha.jpg"></a> 02 tháng 11, 2010	</p>
+	<p align="center"> 02 tháng 11, 2010	</p>
 
 		<p align="center"> <img border="0" src="https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/IMG/MUCSU/XinloiPG_Korean.jpg">
 		  </p>
@@ -89,8 +88,8 @@ image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nha.jpg"
 <p><a href="/DOITHOAI/HoangVu">- LINH VẬT RỒNG TRONG Ý THỨC HỆ TIN LÀNH</a></p>
 <p><a href="https://giaodiemonline.com/2009/10/tinlanh.htm">- HIỂM HỌA TIN LÀNH 
 </a> </p>
-<p><a href="https://sachhiem.net/EMAILS/emailN/Nguyen.php"><i>- Một số trong những điều giảng dạy trịch thượng của các giáo phái Tin Lành,</i> (Nguyên)</a></p>
+<p><a href="/EMAILS/emailN/Nguyen"><i>- Một số trong những điều giảng dạy trịch thượng của các giáo phái Tin Lành,</i> (Nguyên)</a></p>
 <p><a href="/TONGIAO/tgM/MikeWilson_04"><i>- Merry Tennis - Kinh Nghiệm Với Người Bạn Tin Lành</i> (Mike Wilson)</a></p>
 <p><a href="/TONGIAO/tgL/LeAnhDung">- <i>Tại Sao Nhiều Người Tin Lành Việt Nam Có Suy Nghĩ Và Lời Xúc Phạm Các Tôn Giáo Khác?</i> (Lê Anh Dũng)</a></p>
-<p><a href="https://sachhiem.net/LICHSU/TR/TQD24a_TNTL.php"><i>- Hiểm Họa Của Tuyên Ngôn Thuộc Linh</i> (Thính Giả)</a></p>
-<p><a href="https://sachhiem.net/TONGIAO/tgN/NhatLinh.php"><i>- Hàn Quốc: Mục sư Tin lành xin lỗi vì nguyền rủa Phật giáo</i></a> (Nhựt Linh)</p>
+<p><a href="/LICHSU/TR/TQD24a_TNTL"><i>- Hiểm Họa Của Tuyên Ngôn Thuộc Linh</i> (Thính Giả)</a></p>
+<p><a href="/TONGIAO/tgN/NhatLinh"><i>- Hàn Quốc: Mục sư Tin lành xin lỗi vì nguyền rủa Phật giáo</i></a> (Nhựt Linh)</p>

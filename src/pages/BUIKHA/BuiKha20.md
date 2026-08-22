@@ -2,7 +2,7 @@
 layout: ../../layouts/Article.astro
 title: "Phản Biện Bài Viết Của GS. Đinh Xuân Lâm Về Nguyễn Trường Tộ"
 author: "Bùi Kha"
-source: "https://sachhiem.net/BUIKHA/BuiKha20.php"
+source: "/BUIKHA/BuiKha20"
 category: "Đối thoại"
 lang: vi
 wordCount: 4895
@@ -40,7 +40,7 @@ image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/LICHSU/IMG/NHANVAT/G
   <p>
   Tôi trích dẫn hơi dài để  thấy, ngoại trừ GS Hoàng Tuệ có ý kiến đúng nhưng chưa đủ, tất cả những vị còn  lại, dịch chữ <i>Soldat</i> một cách tùy tiện và hoàn toàn sai,  không đúng nghĩa cũng như không đúng ngữ cảnh và bối cảnh lịch sử thời bấy giờ  và ngay cả bây giờ nữa. Trong những người dịch và hiểu sai nầy có Gs Đinh Xuận  Lâm. Muốn biết thêm tại sao sai lầm và sai lầm như thế nào xin mời quý vị đọc  bài<i> </i><i>“Alexandre De  Rhodes &amp; chữ Quốc ngữ"</i> (Bùi  Kha) trên trang nhà tongiaovadantoc theo link: </p>
 <p><i><a href="https://tongiaovadantoc.com/c1036/20120112012635441/alexandre-de-rhodes-chu-quoc-ngu-bui-kha.htm">https://tongiaovadantoc.com/c1036/20120112012635441/alexandre-de-rhodes-chu-quoc-ngu-bui-kha.htm</a></i></p>
-<p><i>và bài “Biện chính với ông  Nguyễn Đình Đầu về linh mục Đắc Lộ”</i> (Bùi Kha), theo đường link: <i><a href="https://sachhiem.net/BUIKHA/BuiKha2.php">https://tongiaovadantoc.com/c1036/20120112014403472/bien-chinh-voi-ong-nguyen-dinh-dau-ve-linh-muc-dac-lo-bui-kha.htm</a></i><i>.</i></p>
+<p><i>và bài “Biện chính với ông  Nguyễn Đình Đầu về linh mục Đắc Lộ”</i> (Bùi Kha), theo đường link: <i><a href="/BUIKHA/BuiKha2">https://tongiaovadantoc.com/c1036/20120112014403472/bien-chinh-voi-ong-nguyen-dinh-dau-ve-linh-muc-dac-lo-bui-kha.htm</a></i><i>.</i></p>
 <p>Hai bài nầy cũng có thể tìm  thấy trên Nguyệt san Hồn Việt xuất bản tại Tp HCM, số 17 và số 20. </p>
 <p>Ở đây tôi chỉ tóm lược 6  điểm: </p>
 <p>Qua hai lần hội thảo nầy  chúng ta có cảm tưởng là hầu hết các nhà nghiên cứu chưa đọc mấy tác phẩm của  Ðắc Lộ, đặc biệt là cuốn “<i>Hành Trình và Truyền Giáo”</i>, Lời nói đầu cuốn “<i>Từ  điển Việt-Bồ-La” </i>và cuốn “<i>Phép  Giảng Tám Ngày”</i>. Dưới đây tôi sẽ đưa ra sáu luận điểm để cho thấy quý vị có tên  tuổi, vừa nêu trên, đã diễn dịch sai ngữ nghĩa chữ soldat: </p>

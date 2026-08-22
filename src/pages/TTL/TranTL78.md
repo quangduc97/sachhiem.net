@@ -3,7 +3,7 @@ layout: ../../layouts/Article.astro
 title: "Bóng Ma Cộng Sản"
 author: "Trần Tiên Long"
 date: 2020-06-20
-source: "https://sachhiem.net/TTL/TranTL78.php"
+source: "/TTL/TranTL78"
 category: "Đối thoại"
 lang: vi
 wordCount: 1530
@@ -33,6 +33,6 @@ image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/TTL/IMG/BongMaCS.jpg
 
 
 <hr>
-<p><a href="https://sachhiem.net/TTL/List.inc.php">Các bài của Trần Tiên Long » </a></p>
+<p><a href="/TTL/List.inc">Các bài của Trần Tiên Long » </a></p>
 
 <hr>

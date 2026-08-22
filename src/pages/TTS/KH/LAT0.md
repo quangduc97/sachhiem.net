@@ -3,7 +3,7 @@ layout: ../../../layouts/Article.astro
 title: "Xôn Xao Về Một Khám Phá Mới Nhất Về Con Người"
 author: "Lê Anh-Tuấn"
 date: 2018-11-28
-source: "https://sachhiem.net/TTS/KH/LAT0.php"
+source: "/TTS/KH/LAT0"
 category: "Tác giả"
 lang: vi
 wordCount: 1729

@@ -2,15 +2,14 @@
 layout: ../../../../layouts/Article.astro
 title: "Giao Điểm 39-40: Chữ \"Trời\" Trong Tác Phẩm Của Linh Mục Cao Phương Kỷ"
 author: "Bùi Linh"
-source: "https://sachhiem.net/TONGIAO/GD39_40/Chutroi/BuiLinh.php"
+source: "/TONGIAO/GD39_40/Chutroi/BuiLinh"
 category: "Chính trị"
 lang: vi
 wordCount: 35
-image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nha.jpg"
+image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/TONGIAO/GD39_40/Chutroi/01.jpg"
 ---
 
-<p align="center"><a href="https://www.sachhiem.net/"> <img border="0" src="https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nha.jpg"></a> </p>
- <p><i>LTS: Bài này đăng từ trang 110 của báo giấy Giao Điểm phát hành mùa đông năm 2000.  Xin bấm vào hình bên trái để đọc bên phải.</i></p>
+<p><i>LTS: Bài này đăng từ trang 110 của báo giấy Giao Điểm phát hành mùa đông năm 2000.  Xin bấm vào hình bên trái để đọc bên phải.</i></p>
   <table width=" 100%" border=" " cellpadding="10"><tbody><tr><td width="200" valign="top">
   
   <p>Trang 01 -03:</p>

@@ -3,7 +3,7 @@ layout: ../../../layouts/Article.astro
 title: "Cuồng Trump, Có Gì Đáng Phàn Nàn?"
 author: "Định Nguyên"
 date: 2017-07-08
-source: "https://sachhiem.net/THOISU_CT/ChuD/DinhNguyen02.php"
+source: "/THOISU_CT/ChuD/DinhNguyen02"
 category: "Chính trị"
 lang: vi
 wordCount: 2119

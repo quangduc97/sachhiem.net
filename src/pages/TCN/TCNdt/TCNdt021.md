@@ -2,15 +2,15 @@
 layout: ../../../layouts/Article.astro
 title: "của Trần Trung Đạo"
 author: "Trần Chung Ngọc"
-source: "https://sachhiem.net/TCN/TCNdt/TCNdt021.php"
+source: "/TCN/TCNdt/TCNdt021"
 category: "Đối thoại"
 lang: vi
 wordCount: 4952
-image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.devhttps://sachhiem.net/images/nha.jpg"
+image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/sqdot.gif"
 ---
 
 <table border="0" width="250" align="center">
-    <tbody><tr><td width="106"><a href="https://sachhiem.net/index.php"><img border="0" src="https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.devhttps://sachhiem.net/images/nha.jpg"></a>    </td> <td valign="top" style="text-align:right">	<i><font size="2">30 tháng 9, 2008 </font> </i> </td></tr></tbody></table>
+    <tbody><tr><td width="106">    </td> <td valign="top" style="text-align:right">	<i><font size="2">30 tháng 9, 2008 </font> </i> </td></tr></tbody></table>
 
 
 <p><span class="First"> T</span>ừ “Thuở trời đất nổi cơn gió bụi” thổi qua Tòa Khâm 
@@ -269,7 +269,7 @@ biết rõ vũ khí của ai giết nhiều người Việt Nam nhất thì hãy
 
 <p> Bản dịch tiếng Việt: <i>Chủ Nghĩa Khủng Bố Và Diệt Chủng 
 Dân Tộc Việt Nam Của Mỹ 1945-1974</i>, có trên
-<a style="color: blue; text-decoration: underline; text-underline: single" href="https://sachhiem.net/TCN/TCNts/TCNts25.php">
+<a style="color: blue; text-decoration: underline; text-underline: single" href="/TCN/TCNts/TCNts25">
 https://sachhiem.net/TCN/TCNts/TCNts25.php</a></p>
 
 

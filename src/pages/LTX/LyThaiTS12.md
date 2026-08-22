@@ -3,7 +3,7 @@ layout: ../../layouts/Article.astro
 title: "Vài Hình Ảnh Trong Chuyến Đi Mỹ của TBT Nguyễn Phú Trọng 7-07-2015"
 author: "Lý Thái collections"
 date: 2014-07-07
-source: "https://sachhiem.net/LTX/LyThaiTS12.php"
+source: "/LTX/LyThaiTS12"
 category: "Lịch sử"
 lang: vi
 wordCount: 1780

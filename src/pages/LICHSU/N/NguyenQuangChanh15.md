@@ -3,7 +3,7 @@ layout: ../../../layouts/Article.astro
 title: "Nhân Kỷ Niệm 80 Năm Ngày Cách Mạng Tháng Tám"
 author: "Nguyễn Quang Chánh"
 date: 2025-08-21
-source: "https://sachhiem.net/LICHSU/N/NguyenQuangChanh15.php"
+source: "/LICHSU/N/NguyenQuangChanh15"
 category: "Lịch sử"
 lang: vi
 wordCount: 78

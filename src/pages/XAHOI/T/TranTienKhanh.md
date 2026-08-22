@@ -2,14 +2,14 @@
 layout: ../../../layouts/Article.astro
 title: "Nguyên Nhân Lũ Lụt Lớn ở Miền Trung"
 author: "Trần Tiễn Khanh và Nguyễn Khoa Diệu-Lê"
-source: "https://sachhiem.net/XAHOI/T/TranTienKhanh.php"
+source: "/XAHOI/T/TranTienKhanh"
 category: "Xã hội"
 lang: vi
 wordCount: 1551
-image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nha.jpg"
+image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/IMG/FLOOD/typhoon-frequency-per-month.gif"
 ---
 
-<p align="center"><a href="https://www.sachhiem.net/"> <img border="0" src="https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nha.jpg"></a> 20 tháng 10, 2010 </p>
+<p align="center"> 20 tháng 10, 2010 </p>
 <p><i>LTS: Cũng như những năm trước, nạn lụt miền Trung vào đầu tháng 10 năm nay đã tàn phá và giết hại nhiều người dân khốn khổ. Chúng tôi xin phép đăng lại một bài khảo cứu chuyên biệt về bão miền Trung đăng ở www.vnbaolut.com 9 năm về trước. Mong rằng những dữ kiện trong bài có thể gíup đỡ quí vị quan tâm một chút gì trong việc phòng bão, chống bão, chẩn tế nạn nhân, hay giảm thiểu mức tai hại trong điều kiện có thể. (SH) 
 </i> </p>
 		<p>Hình ảnh bão miền Trung năm nay </p>

@@ -3,7 +3,7 @@ layout: ../../../layouts/Article.astro
 title: "[VATICANOLOGY] Chính Quyền Vatican Ngày Càng Mở Rộng Hoạt Động Sử Dụng Quốc Kỳ Vatican Tại Việt Nam"
 author: "Minh Thạnh"
 date: 2025-03-23
-source: "https://sachhiem.net/TONGIAO/tgM/MinhThanh47.php"
+source: "/TONGIAO/tgM/MinhThanh47"
 category: "Chính trị"
 lang: vi
 wordCount: 3921

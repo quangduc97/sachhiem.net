@@ -3,7 +3,7 @@ layout: ../../../layouts/Article.astro
 title: "Liên Hiệp Quốc Kết Án Vatican Về Nghi Lễ"
 author: "DuyênSinh"
 date: 2014-09-23
-source: "https://sachhiem.net/TONGIAO/tgD/Duyensinh07.php"
+source: "/TONGIAO/tgD/Duyensinh07"
 category: "Tác giả"
 lang: vi
 wordCount: 365

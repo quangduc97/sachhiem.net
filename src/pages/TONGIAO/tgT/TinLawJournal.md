@@ -6,7 +6,7 @@ source: "https://www.lawjournalbuffalo.com/news/article/current/2008/11/03/10059
 category: "Tác giả"
 lang: vi
 wordCount: 2141
-image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nha.jpg"
+image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/IMG/Elano.jpg"
 ---
 
 <div align="center" style="position: relative; left: 0; top: 0">
@@ -25,7 +25,7 @@ image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nha.jpg"
 <tr><td width="100%">
 <div style="padding-left: 50px; padding-right: 50px"> 
 	<table border="0" cellpadding="1" width="86%" cols="2"><tbody><tr>
-	<td><a href="/index"><img border="0" src="https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nha.jpg"></a></td>
+	<td></td>
 <td valign="top" width="237"><p>30tháng 9, 2009	</p>
 			</td></tr></tbody></table>
 		<p>

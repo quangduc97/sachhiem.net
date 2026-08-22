@@ -2,7 +2,7 @@
 layout: ../../../layouts/Article.astro
 title: "Tại sao Việt Nam sẽ không sụp đổ?"
 author: "Carl Robinson"
-source: "https://sachhiem.net/null"
+source: "/null"
 category: "Chính trị"
 lang: vi
 wordCount: 3243

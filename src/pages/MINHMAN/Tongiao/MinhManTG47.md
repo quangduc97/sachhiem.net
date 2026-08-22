@@ -2,10 +2,10 @@
 layout: ../../../layouts/Article.astro
 title: "ĐẤT NƯỚC CUỐI NĂM"
 author: "Minh Mẫn"
-source: "https://sachhiem.net/null"
+source: "/null"
 lang: vi
 wordCount: 3231
-image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nha.jpg"
+image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/XAHOI/IMG/LutCuulong.jpg"
 ---
 
 <div align="center" style="position: relative; left: 0; top: 0">
@@ -21,8 +21,7 @@ image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nha.jpg"
 <tr><td width="100%">
 <div style="padding-left: 50px; padding-right: 50px"> 
 	<table border="0" cellpadding="1" width="86%" cols="2"><tbody><tr>
-	<td><a href="https://www.sachhiem.net/">
-	<img border="0" src="https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nha.jpg"></a></td>
+	<td></td>
 <td valign="top" width="210"><p>17 tháng 12, 2009</p></td></tr></tbody></table>
 		
 		<p><i>LTS: Bài viết ngắn gọn của tác giả Minh Mẫn sau đây đưa ra vài nhận xét tổng kết về tình hình đất nước cuối năm 2009. Giữa bao nhiêu vấn đề cần cải thiện hay cứu vãn, vấn đề giáo dục cần được xem là quan trọng hàng đầu, vì đó là tương lai của dân tộc. Ngoài vấn đề cân bằng chương trình, kỹ thuật giảng dạy là một yếu tố quan trọng không kém, để làm cho học đường trở thành một nơi mà học sinh thích tìm đến.  Bên cạnh những niềm ưu tư đó, tác giả còn gói ghém một đề tài cho những Phật tử hay thân hữu của đạo Phật suy ngẫm.  Với sự phát triển quá nhanh chóng và năng động của các tôn giáo bạn như Tin Lành, Công giáo... đạo Phật Việt Nam trong cũng như ngoài nước đang sinh hoạt theo chiều hướng nào để xứng đáng với tầm vóc của một tôn giáo có lịch sử 2000 năm tại Việt Nam?
@@ -320,7 +319,7 @@ Nhu cầu CHẤN HƯNG VÀ HIỆN ĐẠI HÓA PHẬT GIÁO VIỆT NAM có lẽ t
 
 <tr><td colspan="2"> 
 
-			<a href="https://sachhiem.net/MINHMAN/MMdir.php"><p class="trang">Trang Minh Mẫn</p></a>
+			<a href="/MINHMAN/MMdir"><p class="trang">Trang Minh Mẫn</p></a>
 
 </td></tr>
 

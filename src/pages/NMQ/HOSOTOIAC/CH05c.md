@@ -3,7 +3,7 @@ layout: ../../../layouts/Article.astro
 title: "GIÁO HỘI LA MÃ:"
 author: "- Nguyễn Mạnh Quang -"
 date: 2012-03-06
-source: "https://sachhiem.net/null"
+source: "/null"
 lang: vi
 wordCount: 10643
 image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/TONGIAO/IMG/ThuhoaVuHoi1.gif"

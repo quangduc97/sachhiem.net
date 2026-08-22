@@ -2,7 +2,7 @@
 layout: ../../../layouts/Article.astro
 title: "Mơ Về Một Lý Thuyết Cuối Cùng"
 author: "Steven Weinberg"
-source: "https://sachhiem.net/null"
+source: "/null"
 category: "Tác giả"
 lang: vi
 wordCount: 10048

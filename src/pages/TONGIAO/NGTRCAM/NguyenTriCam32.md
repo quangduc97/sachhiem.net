@@ -3,7 +3,7 @@ layout: ../../../layouts/Article.astro
 title: "Thánh kinh là cuốn sách TỒI, không phải là cuốn sách TỐT"
 author: "John Draper/ Nguyễn Trí Cảm dịch"
 date: 2013-11-20
-source: "https://sachhiem.net/TONGIAO/NGTRCAM/NguyenTriCam32.php"
+source: "/TONGIAO/NGTRCAM/NguyenTriCam32"
 category: "Tác giả"
 lang: vi
 wordCount: 1791

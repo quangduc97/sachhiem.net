@@ -2,16 +2,16 @@
 layout: ../../../layouts/Article.astro
 title: "Sự Thật Về Lộ Đức (Lourdes)"
 author: "Trần Chung Ngọc"
-source: "https://sachhiem.net/TCN/TCNtg/TCN55.php"
+source: "/TCN/TCNtg/TCN55"
 category: "Tác giả"
 lang: vi
 wordCount: 5107
-image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nha.jpg"
+image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/CHARLIE/IMG/Lourdres.jpg"
 ---
 
 <table border="0" align="center" width="250">
           <tbody><tr>
-            <td width="75"><a href="https://sachhiem.net/index.php"><img border="0" src="https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nha.jpg"></a>  </td>
+            <td width="75">  </td>
 	<td width="165" valign="top" style="text-align:right"> <p>27 tháng 9, 2008</p>
 	  <p>bổ túc 05 tháng 4, 2012</p></td>
         </tr></tbody></table>

@@ -3,7 +3,7 @@ layout: ../../../layouts/Article.astro
 title: "Cư Sĩ Phật Tử Với Vấn Đề Cải Đạo"
 author: "Đào Văn Bình"
 date: 2013-05-11
-source: "https://sachhiem.net/index.php?content=showrecipe&id=5635"
+source: "/DAOVB/TG/DaovBinh8"
 category: "Tác giả"
 lang: vi
 wordCount: 2190
@@ -49,5 +49,5 @@ image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/TONGIAO/IMG/SU/Dalai
    <p align="right"><i>(Tham   luận đọc trong buổi thảo luận về “Vai trò của Phật tử trong thời đại mới” ngày   11/5/2013 tại Chùa Bảo Phước San Jose, California)</i></p>
    
    <p><b>Mời đọc thêm: </b></p>
-   <p><a href="https://sachhiem.net/TCN/TCNtg/TCN110.php">- Thử Tìm Hiểu Người Ki-Tô Giáo và Vấn Nạn Cải Đạo</a> (Trần Chung Ngọc) </p>
+   <p><a href="/TCN/TCNtg/TCN110">- Thử Tìm Hiểu Người Ki-Tô Giáo và Vấn Nạn Cải Đạo</a> (Trần Chung Ngọc) </p>
    <hr>

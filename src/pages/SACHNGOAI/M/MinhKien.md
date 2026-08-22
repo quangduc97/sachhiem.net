@@ -2,7 +2,7 @@
 layout: ../../../layouts/Article.astro
 title: "Visiting the Grave of Jesus in Srinagar, Kashmir"
 author: "Stephen Knapp"
-source: "https://sachhiem.net/Source: ttp://www.stephen-knapp.com/visiting_the_grave_of_jesus_in_srinagar.htm"
+source: "/Source: ttp://www.stephen-knapp.com/visiting_the_grave_of_jesus_in_srinagar.htm"
 lang: en
 wordCount: 5125
 ---

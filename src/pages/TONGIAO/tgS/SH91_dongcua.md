@@ -3,7 +3,7 @@ layout: ../../../layouts/Article.astro
 title: "Nước Đức sẽ đóng cửa 90% các nhà thờ Công giáo La Mã"
 author: "SH/ Bill Hounslow -brewminate.com"
 date: 2021-07-01
-source: "https://sachhiem.net/TONGIAO/tgS/SH91_dongcua.php"
+source: "/TONGIAO/tgS/SH91_dongcua"
 category: "Chính trị"
 lang: vi
 wordCount: 1033

@@ -3,7 +3,7 @@ layout: ../../layouts/Article.astro
 title: "Tội Ác Của Nhà Ngô - Phần Chưa Kể"
 author: "Nguyễn Mạnh Quang"
 date: 2020-03-19
-source: "https://sachhiem.net/NMQ/NMQ110a.php"
+source: "/NMQ/NMQ110a"
 category: "Tác giả"
 lang: vi
 wordCount: 1701
@@ -11,7 +11,7 @@ image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/SACHNGOAI/Hinhanh/BI
 ---
 
 <div class="tomluoc">
-   <p>Bài viết ngắn này bổ túc cho bài <i>"Tội Ác Của Nhà Ngô - Cảnh Báo Về Bàn Tay Của Giáo Hội La Mã"</i> <a href="https://sachhiem.net/NMQ/NMQ110.php">đã đăng trước đây,</a> tóm tắt những tội ác của ông Ngô Đình Diệm đối với dân tộc và đất nước Việt Nam.</p>
+   <p>Bài viết ngắn này bổ túc cho bài <i>"Tội Ác Của Nhà Ngô - Cảnh Báo Về Bàn Tay Của Giáo Hội La Mã"</i> <a href="/NMQ/NMQ110">đã đăng trước đây,</a> tóm tắt những tội ác của ông Ngô Đình Diệm đối với dân tộc và đất nước Việt Nam.</p>
  </div>
  <p><span class="First">N</span>goài những tội ác diệt chủng và tiêu diệt Phật Giáo của bạo chúa Ngô Đình Diệm, chế độ ông ta còn hủy hoại sinh lực các thế hệ trẻ và tương lai của dân tộc.</p>
  <p class="TuaDoLeft"><b>CHÍNH SÁCH HỦY HOẠI SINH LỰC CÁC THẾ HỆ TRẺ VÀ TƯƠNG LAI CỦA DÂN TỘC</b></p>
@@ -19,7 +19,7 @@ image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/SACHNGOAI/Hinhanh/BI
  <p align="center"><img src="https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/SACHNGOAI/Hinhanh/BIASACH/ThePoliticHeroin.jpg" width="186" height="271" alt=""></p>
  <p>Để  thực hiện  độc kế cực kỳ thâm  độc trên, ngụy quyền Ngô Đình Diệm đã làm cho miền Nam Việt Nam trở thành:</p>
  <p class="TuaDenLeft"> <b>1.- Trung tâm buôn thuốc phiện: </b></p>
- <p>Bạo quyền Ngô Đình Diệm đã biến  miền Nam thành một trung tâm  cung cấp thuốc phiện sống, làm nguyên liệu cho trung tâm biến chế bạch phiến ở  Marseille. Trung tâm này cũng do con chiên Ca-tô người Âu Châu điều hành. Vấn đề này đã được trình bày đầy đủ trong Chương 91 có tựa  đề là “<i>Vấn Nạn Buôn Bán Ma Túy</i>” (<a href="https://sachhiem.net/NMQ/HOSOTOIAC/CH91.php">https://sachhiem.net/NMQ/HOSOTOIAC/CH91.php</a>, sách Lịch Sử Và Hồ Sơ Tội Ác Của Giáo Hội La Mã.</p>
+ <p>Bạo quyền Ngô Đình Diệm đã biến  miền Nam thành một trung tâm  cung cấp thuốc phiện sống, làm nguyên liệu cho trung tâm biến chế bạch phiến ở  Marseille. Trung tâm này cũng do con chiên Ca-tô người Âu Châu điều hành. Vấn đề này đã được trình bày đầy đủ trong Chương 91 có tựa  đề là “<i>Vấn Nạn Buôn Bán Ma Túy</i>” (<a href="/NMQ/HOSOTOIAC/CH91">https://sachhiem.net/NMQ/HOSOTOIAC/CH91.php</a>, sách Lịch Sử Và Hồ Sơ Tội Ác Của Giáo Hội La Mã.</p>
  <p align="center"><img src="https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/SACHNGOAI/Hinhanh/BIASACH/Politics_Heroin.jpg" width="150" height="220" alt=""></p>
  <p class="TuaDenLeft"><b>2.-  Một mảnh đất hoàn toàn kiệt quệ về tài nguyên:</b></p>
  <p>Chế độ nhà Ngô đã để cho liên minh Xâm Lược Mỹ - Vatican tàn phá đất  nước với số lượng bom đạn khổng lồ và 77 triệu&nbsp;  lít chất độc da cam như đã nói ở trong Tiểu Mục  “Tội Ác Diệt Chủng Dân Tộc  Việt Nam” ở trên.</p>
@@ -41,7 +41,7 @@ image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/SACHNGOAI/Hinhanh/BI
  <p class="sub1"> <b> c.2.</b> Sách Our  Own Worst Enemy (New York: W.W. Norton &amp; Company Inc, 1968) của tác giả  William J. Lederer. Nơi trang 165, sách này có nói rõ chuyện <i>bà Ngô Đình Nhu gửi  một khoản tiền khổng lồ&nbsp; là 18 tỷ Mỹ Kim  trong một nhà ngân hàng Thụy Sĩ</i>. Hiển nhiên đây là tiền ăn cướp của nhân  dân miền Nam.</p>
  <p class="sub1"> <b>c.3.</b> Sách <i>Việt Nam Máu Lửa Quê Hương Tôi</i> (Wesminster, CA: Văn  Nghệ, 1993) của cựu Tướng Đỗ Mậu. Sách này cũng dành hẳn Chương XIII với nhan  đề là <i>“Tệ Trạng Tham Nhũng</i>” (các trang 403-445). Chương sách này trình bày khá  đầy đủ về những thủ đoạn và thành tích tham nhũng của anh em cũng như thân nhân  nhà Ngô và băng đảng Cần Lao trong những năm 1954-1963.</p>
  <p class="sub1"> <b> c.4. </b>Sách <i>Việt Nam Niên Biểu  1939-1975 Tập I</i> – C: 1955-1963 (Houston, TX: Văn Hóa, 2000) của tác giả Chính  Đạo, viết:</p>
- <p> “Ngày&nbsp;<i>6/4/1960:  Durbrow, Đại Sứ Mỹ ở Sàigòn, than phiền về sự lộng hành của Cần Lao;”&nbsp;</i><a href="https://sachhiem.net/index.php?content=showrecipe&amp;id=7249#_edn17"><i>(17)</i></a></p>
+ <p> “Ngày&nbsp;<i>6/4/1960:  Durbrow, Đại Sứ Mỹ ở Sàigòn, than phiền về sự lộng hành của Cần Lao;”&nbsp;</i><a href="/NMQ/NMQ101"><i>(17)</i></a></p>
  <p class="sub1"> <b> c.5.</b> Sách <i>Công Và Tội</i> (Los Alamitos,  CA: Xuân Thu, 1992) của ông Nguyễn Trân, cũng nói đến những vụ tham nhũng trong  các chính quyền Sàigòn nơi các trang 201, 373, và 483-487.</p>
  <p class="sub1"> <b> c.6.</b> Sách <i>Việt Nam Một Trời Tâm Sự</i> (Alamitos, CA: Xuân Thu, 1987) của cựu Tướng Nguyễn Chánh Thi, dành hẳn 57  trang (45-102) để nói về tội ác cướp rừng của Giám-mục Ngô Đình Thục và những  hành động lộng quyền của Ngô Đình Cẩn, nơi các trang 45-102.</p>
  <p class="sub1"> <b> c.7.</b> Sách <i>Việt Nam nhân Chứng</i> của cựu Tướng Trần Văn Đôn, nơi trang 248-249,  nói về chuyện Ngô Đình Cẩn có 6 triệu Mỹ kim (ắn cướp của dân) để trong nhà  Ngân Hàng Thụy &nbsp;Sĩ, rồi đem dâng hiến cho Nhà Thờ Cứu Thế.</p>

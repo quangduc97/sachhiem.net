@@ -2,13 +2,13 @@
 layout: ../../../layouts/Article.astro
 title: "ĐĐ Thích Nhật Từ và"
 author: "Trần Chung Ngọc"
-source: "https://sachhiem.net/TCN/TCNts/TCNts23.php"
+source: "/TCN/TCNts/TCNts23"
 lang: vi
 wordCount: 9701
-image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nha.jpg"
+image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/THOISU_CT/Hinh/Olympic2008a.jpg"
 ---
 
-<p align="center"><a href="/index"><img hspace="20" border="0" src="https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nha.jpg"></a>ngày 11 tháng 8, 2008</p>
+<p align="center">ngày 11 tháng 8, 2008</p>
   <div class="tomluoc">
 <p><i>LTS: Bài này được đăng lại hôm nay 14 tháng 7, 2017, nhân có một vài hành vi chống đối chương trình Phật sự của thầy Thích Nhật Từ  ở một vài nơi tại hải ngoại.  Điều đáng nói là hành động của nhóm người này rất vô lý, vô giáo dục, và vô văn hóa. Có nơi  đi đến đỉnh điểm của sự ngông cuồng, như trường hợp ở Sacramento (xem Phụ Đính.)  Xin xem <a href="https://www.youtube.com/watch?v=rejJ0-leIOg">video clip ghi lại những hành vi của một thành phần xã hội hết sức côn đồ</a>, nhưng nghĩ rằng họ đang hành xử quyền tự do của một xứ văn minh tiên tiến!</i> <i>Sự việc xảy ra trong thời gian Thầy Nhật Từ đi hoằng pháp tại Hoa Kỳ, Canada trong tháng 6 vừa qua.  Xem bài <a href="https://www.daophatngaynay.com/vn/tin-tuc/thong-bao/24139-cac-buoi-giang-phap-truc-tiep-cua-thuong-toa-thich-nhat-tu-o-canada.html"> "Các buổi giảng pháp trực tiếp của Thượng Tọa Thích Nhật Từ ở Canada và Hoa Kỳ."</a> </i>(SH)</p>
   </div>
@@ -297,7 +297,7 @@ Tháng  12 năm 2010, ông chính thức được <a href="https://vi.wikipedia.
 <p>Với con chiên Phạm  Trung Kiên (...?) thì hung dữ quả quyết là "<i>Công AN đầu trọc</i>"  - Có nghĩa là "<i>Công An" nhưng lại cạo đầu</i> (...?). </p>
 <p> Cũng bởi chuyện CS mà người ta đã mang bom  mang đạn lẫn chất độc hóa học tàn phá đất nước Việt Nam mấy  mươi năm cách khốc liệt, làm cho 3,4,5 triệu nhân mạng phải xuôi tay chầu  hỏa ngục. </p>
 <p>Ngày nay lưu vong ra hải  ngoại cũng tiếp tục vu khống, mạ lị, mạt sát, chụp mũ, chửi rủa nhau về  chuyện CS? </p>
-<p>-<a href="https://sachhiem.net/index.php?content=showemail&amp;id=104"> Ông Nguyễn Văn  Thạch</a> (?) trước đây bị Tòa ra án lịnh phạt 75.000 USD cho hành  vi<b> vu khống Giao Điểm là "CS"</b>? </p>
+<p>-<a href="/net/TCN/TCNts/TCNts056"> Ông Nguyễn Văn  Thạch</a> (?) trước đây bị Tòa ra án lịnh phạt 75.000 USD cho hành  vi<b> vu khống Giao Điểm là "CS"</b>? </p>
 <p>- Báo Sài Gòn Nhỏ bị gõ búa  với án lệnh phạt 4.500.000 USD (SH- <a href="https://www.youtube.com/watch?v=HzSDLLOuAnM">Việt Weekly: </a>Bà Hoàng Thụy Châu, bút danh Đào nương Hoàng Dược Thảo bị tòa án phán quyết bồi thường $3 triệu USD, cộng với $1.5 triệu USD phạt làm gương, trả cho tờ Người Việt, ông Phan Huy Đạt và bà Hoàng Vĩnh, vì một <b>bài báo bôi nhọ và chụp mũ cộng sản</b>)- và rồi Tòa soạn tờ báo đã bị  lâm cảnh phá sản? </p>
 <p>- V.v.... </p>
 <p>Đó là những  chuyện điên khùng bởi những hành vi vu khống hỗn độn mà  tại đấy? Nó sẽ làm cho trên dưới 60% người dân quốc nội sinh sau năm 1975  khinh bỉ về thế hệ cha chú của nó. Chưa nói đến hàng trăm, hàng  ngàn tuổi trẻ sinh sau 1975 chúng đang là những Phóng viên  cho Đài truyền hình, cho những Tòa soạn báo chí,... trên hàng trăm quốc  gia, trong đó có Mỹ, Canada, Âu Châu, Pháp, Đức, Nhật,.... nói  chung là tuổi trẻ chuyên ngành Thông Tấn, sinh viên VN du học v.v.... gần như  thế hệ Việt Nam đó họ đã có mặt khắp mọi vùng  lục địa trên hành tinh dưới thời CS thì con chiên Phạm Trung  Kiên làm gì người ta? </p>

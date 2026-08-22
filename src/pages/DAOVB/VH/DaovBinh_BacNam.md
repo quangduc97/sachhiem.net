@@ -3,7 +3,7 @@ layout: ../../../layouts/Article.astro
 title: "Một số khác biệt giữa tiếng Bắc và tiếng Nam"
 author: "Đào Văn Bình"
 date: 2022-12-21
-source: "https://sachhiem.net/DAOVB/VH/DaovBinh_BacNam.php"
+source: "/DAOVB/VH/DaovBinh_BacNam"
 category: "Văn hóa"
 lang: vi
 wordCount: 2957
@@ -438,4 +438,4 @@ Yểu điệu, õng  ẹo  =&gt;   &nbsp;Làm  bộ làm tịch  </p>
 <p>- <a href="https://motgoctroi.com/DienDan/Dd_Vanhoa/TiengVietNN/TiengVietthoinay.htm">Tiếng Việt thời nay: nên cười hay nên khóc?</a></p>
 
 <hr>
- <p><a href="https://sachhiem.net/DAOVB/DVBdir.php">-  Link các bài viết của tác giả Đào Văn Bình - </a> </p>
+ <p><a href="/DAOVB/DVBdir">-  Link các bài viết của tác giả Đào Văn Bình - </a> </p>

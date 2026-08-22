@@ -3,17 +3,17 @@ layout: ../../layouts/Article.astro
 title: "Một Cuộc Chiến Nhiều Cách Nhìn -"
 author: "Nguyễn Văn Thịnh"
 date: 2016-12-21
-source: "https://sachhiem.net/NGVTHINH/NguyenvThinh_13.php"
+source: "/NGVTHINH/NguyenvThinh_13"
 category: "Lịch sử"
 lang: vi
 wordCount: 6099
-image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nha.jpg"
+image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/SACHNGOAI/Hinhanh/BIASACH/BareFeet_IronWill.jpg"
 ---
 
 <p class="Tuaduoi">Suy nghĩ từ cuốn sách "Chân Trần Chí Thép"</p>
   
         
-  <p align="center"><a href="https://www.sachhiem.net/"> <img border="0" src="https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nha.jpg"></a> ngày 21-Dec-2016</p>
+  <p align="center"> ngày 21-Dec-2016</p>
   <div class="tomluoc">
     <p>“<i>Kẻ phi nghĩa sám hối mà cả người anh hùng cũng sám hối. Thế là huề! Thế  là thiện ác đảo điên, chính tà lẫn lộn, vinh nhục bất phân</i>”! Và ông (nhà giáo Trần Thanh Đạm) day  dứt: “<i><u>Đó là một tin vui từ một nỗi  buồn và một nỗi buồn từ một tin vui cho những người viết văn và đọc văn ở Việt  Nam hiện nay</u></i>”!</p>
   </div>

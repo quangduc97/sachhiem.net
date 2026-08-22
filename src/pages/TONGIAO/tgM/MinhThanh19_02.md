@@ -3,7 +3,7 @@ layout: ../../../layouts/Article.astro
 title: "[VATICANOLOGY] Giáo Hoàng Vatican Và Tổng Thống Ukraina “Lợi Dụng” Lẫn Nhau?"
 author: "Minh Thạnh"
 date: 2021-10-08
-source: "https://sachhiem.net/TONGIAO/tgM/MinhThanh19_02.php"
+source: "/TONGIAO/tgM/MinhThanh19_02"
 category: "Chính trị"
 lang: vi
 wordCount: 4913
@@ -122,7 +122,7 @@ image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/THOISU_CT/Hinh/UKRAI
 <p>  Khi xung đột vũ trang lại bùng phát thì tinh thần bài Nga, bài  Chính Thống giáo Tòa thượng phụ Mátxcơva của dân Ukraina càng dâng cao, hệ quả  của nó là bối cảnh sẽ càng thuận lợi hơn để Vatican cải đạo người dân Ukraina?</p>
 <p align="center"><img src="https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/TONGIAO/IMG/SACH/UKRAINE.jpg" width="400" height="744" alt=""></p>
 <p>___________________________</p>
-<p>(<a href="https://sachhiem.net/TONGIAO/tgM/MinhThanh19_00.php">xem link thông báo về trách nhiệm đối với bài viết</a>) <a href="/TONGIAO/tgM/MinhThanh19_00"></a><img src="https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/sqdot.gif" width="10" height="10"></p>
+<p>(<a href="/TONGIAO/tgM/MinhThanh19_00">xem link thông báo về trách nhiệm đối với bài viết</a>) <a href="/TONGIAO/tgM/MinhThanh19_00"></a><img src="https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/sqdot.gif" width="10" height="10"></p>
 <p class="TacgiaL">Minh Thạnh </p>
 <p>_____________</p>
 

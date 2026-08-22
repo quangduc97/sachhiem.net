@@ -6,21 +6,21 @@ source: "https://www.bacaytruc.com/index.php?option=com_content&view=article&id=
 category: "Tác giả"
 lang: vi
 wordCount: 4869
-image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nha.jpg"
+image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/TONGIAO/IMG/TINHDUC/ChuoiMancoi.jpg"
 ---
 
 <table border="0" width="250" align="center">
- <tbody><tr><td width="100"><a href="/index"><img border="0" src="https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nha.jpg"></a></td>
+ <tbody><tr><td width="100"></td>
 		<td valign="top" width="194">12-Feb-2012</td>
  </tr>
 </tbody></table>
 <p align="center"><img src="https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/TONGIAO/IMG/TINHDUC/ChuoiMancoi.jpg" width="129" height="108"></p>
  <div class="danbai">
-   <p> ► <a href="https://sachhiem.net/TONGIAO/tgB/Bacaytruc00.php">Hồ Sơ LM Giuse
+   <p> ► <a href="/TONGIAO/tgB/Bacaytruc00">Hồ Sơ LM Giuse
      Nguyễn Ngọc Dũng: Thư tố cáo của cô Lữ Thị Thu Nga </a></p>
-   <p>  ►  <a href="https://sachhiem.net/TONGIAO/tgB/Bacaytruc00b.php">Các thư liên
+   <p>  ►  <a href="/TONGIAO/tgB/Bacaytruc00b">Các thư liên
      quan đến 4 nạn nhân của L.M. Giuse Nguyễn Ngọc Dũng </a></p>
-   <p>  ►  <a href="https://sachhiem.net/TONGIAO/tgB/Bacaytruc00a.php">Phản Hồi Sau
+   <p>  ►  <a href="/TONGIAO/tgB/Bacaytruc00a">Phản Hồi Sau
      Hồ Sơ L.M. Giuse Nguyễn Ngọc Dũng</a></p>
  </div>
 	<p><i>From: tamlinhvaodoi@gmail.com   &lt;tamlinhvaodoi@gmail.com&gt; </i><br>
@@ -90,7 +90,7 @@ image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nha.jpg"
 Con là một phụ nữ việt nam! tuy trinh tiết không còn, nhưng để tiếp   tục sống, con phải được những người khác (ngoài ông Dũng) tôn trọng   con chứ.<br>   Đó là cái khó khăn nhất làm cho con không thể đi đến cùng để tố cáo   hắn nhưng con vẫn ao ước đức cha biết chuyện này qua gặp gỡ con <br>   Hiện nay, con biết rằng Đức cha vẫn đang tin vào sự thành thiện của   hắn vì hắn liên tục mở những khóa Thánh Linh hoành tráng. Đặc biệt   là trong khoảng cuối tháng 6 năm 2012 này, hắn muốn phô trương uy   tín và lôi kéo 3 GM : Đức Cha Dominique REY, Đức Cha Michel SANTIER   và cả Đức cha Võ Đức Minh tham dự nữa. </p> 
 <p>            Hắn mưu đồ rằng: 3 Gm sẽ ca tụng hắn như là một vị LM thánh thiện<br>   Những mặt trái của cuộc sống, các đức cha biết được bao nhiêu?<br>   Các đức cha biết được cuộc sống của hắn khi hắn ở việt nam?</p> 
 <p>            Hắn hoạt động sôi nổi khắp nơi để lấy lòng đức cha, ngài càng ca   tụng hắn bao nhiêu thì hắn càng có cơ hội hãm hiếp các cô gái trẻ   rơi vào tay hắn bấy nhiêu… </p> 
-<p>Hắn đã hãm hiếp bạn Kiều Hương. Chịu không nổi, Kiều Hương đã tự   tử. Trước khi tự tử, Kiều Hương là người đã từng viết mail cho cha   Giuse Nguyễn Thường, LM nghĩa phụ của hắn. (SH: xem <a href="https://sachhiem.net/TONGIAO/tgB/Bacaytruc00a.php"> Những   lá thư - Phản hồi sau Hồ Sơ LM Giuse Nguyễn Ngọc Dũng</a>)</p> 
+<p>Hắn đã hãm hiếp bạn Kiều Hương. Chịu không nổi, Kiều Hương đã tự   tử. Trước khi tự tử, Kiều Hương là người đã từng viết mail cho cha   Giuse Nguyễn Thường, LM nghĩa phụ của hắn. (SH: xem <a href="/TONGIAO/tgB/Bacaytruc00a"> Những   lá thư - Phản hồi sau Hồ Sơ LM Giuse Nguyễn Ngọc Dũng</a>)</p> 
 <p>Kính thưa Đức Cha, <br>   Đây là những uất ức của con &nbsp;đã phải chịu đựng suốt mấy năm   qua. Con tha thiết mong Đức cha xem xét, điều tra để hiểu rõ hơn   về vị linh mục Giuse Nguyễn Ngọc Dũng. <br>   Với con, hẳn không còn xứng đáng là linh mục của Chúa nữa. Trong   những ngày này, &nbsp;hắn hết sức cố gắng tổ chức khóa Linh Linh   thật hoành tráng chỉ là để che giấu bộ mặt thật bên trong của hắn. <br>   Hắn đâu biết hối cải, hẳn vẫn tiếp tục hãm hiếp thêm nhiều nữ tu,   phụ nữ trẻ, những người tin rằng hẳn là thánh, nhưng khi đã đã lọt   vào lưới, hắn <i>“làm thịt</i>” luôn.<br>   
 Con cố gắng hết sức để lấy lại bình an, nhưng rất khó, vì “nỗi đau”   cứ&nbsp;dày vò&nbsp;con mãi..nhiều đêm nỗi ám ảnh này đã biến thành   những giấc mộng kinh hoàng khi con lại thấy hắn tiếp tục bẻ tay chân   con và đè lên lên người con đến gộp thở... </p> 
 <p>Kính thưa Đức Cha <br>   Nhận được thơ tố cáo này của con,&nbsp; Đức Cha chắc chắn sẽ tìm   ra phương cách để lột mặt nạ hắn. <br>   Để cho hắn đửng tưởng rằng mình là một kẻ BẤT KHẢ XÂM PHẠM: không   ai có thể lột mặt nạ hắn. Không ai có thể kiện cáo hắn. <br>   Một lần nữa con hòan toàn tin tưởng và chân thành cảm ơn Đức cha   trước. <br>   Kính thơ <br>   Con Lữ Thị Thu Nga</p>   <p>------- Bài tiếng Pháp ------</p>
@@ -120,9 +120,9 @@ Con cố gắng hết sức để lấy lại bình an, nhưng rất khó, vì �
     
     <p><b>SH Phụ Lục: </b></p>
     <p>Mời xem:</p>
-    <p>-   <a href="https://sachhiem.net/TONGIAO/tgB/Bacaytruc00b.php">Các thư
+    <p>-   <a href="/TONGIAO/tgB/Bacaytruc00b">Các thư
         liên quan đến 4 nạn nhân  của L.M. Giuse Nguyễn Ngọc Dũng </a></p>
-    <p>- <a href="https://sachhiem.net/TONGIAO/tgB/Bacaytruc00a.php">Phản
+    <p>- <a href="/TONGIAO/tgB/Bacaytruc00a">Phản
         Hồi Sau Hồ Sơ L.M. Giuse Nguyễn Ngọc Dũng ---&gt;</a></p>
     <p>- Các hoạt động "Thánh Linh" của L.M. Giuse Nguyễn Ngọc Dũng:</p>
     <p class="sub1">-  <a href="https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.devhttps://www.thanhlinh.fr/download/Annonce%20TL2011-noir-final.pdf"> Sinh hoạt

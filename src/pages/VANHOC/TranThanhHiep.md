@@ -2,14 +2,14 @@
 layout: ../../layouts/Article.astro
 title: "Để Trả Nhất Linh Nguyễn Tường Tam Về Cho Lịch Sử"
 author: "Trần Thanh Hiệp"
-source: "https://sachhiem.net/VANHOC/TranThanhHiep.php"
+source: "/VANHOC/TranThanhHiep"
 category: "Chính trị"
 lang: vi
 wordCount: 3817
-image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nha.jpg"
+image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/VANHOC/Hinh/SACH/NhatLinh.jpg"
 ---
 
-<p align="center"><a href="https://www.sachhiem.net/"> <img border="0" src="https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nha.jpg"></a> ngày </p>
+<p align="center"> ngày </p>
   <p class="indent50">  <img src="https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/VANHOC/Hinh/SACH/NhatLinh.jpg" width="150" height="216" class="PicLeft">Trích từ "<i>Tạp chí Thế kỹ 21 xuất bản, USA, 2004, trang 128</i>".
 
 Nhân dịp 41 năm ngày giỗ của văn hào Nhất Linh (7-7-1963 - 7-7-2004), vào cuối tháng 6 vừa qua, tạp chí Thế Kỷ 21 đã phát hành quyển "<i>Nhất Linh - Người nghệ sĩ, Người chiến sĩ</i>", gồm các bài viết của nhiều tác giả (Nguyễn Tường Bách, Võ Phiến, Trương Bảo Sơn, Anh Thơ, Tú Mỡ, Nguyễn Thị Vinh, Thụy Khuê, Đông Hồ, Linh Bảo,<b> Trần Thanh Hiệp,</b> Lê Đình Thông, Khoa Hữu, Bùi Bích Hà, Trần Khánh Triệu, Nguyễn Tường Thiết, Trương Kim Anh, Lưu Văn Vịnh, Phạm Phú Minh) về cuộc đời làm báo, hoạt động văn học nghệ thuật và chính trị, và một số tác phẩm điển hình của nhà văn Nhất Linh. <a href="https://phiem-dam.com/vanhoc57.htm">https://phiem-dam.com/vanhoc57.htm</a></p>

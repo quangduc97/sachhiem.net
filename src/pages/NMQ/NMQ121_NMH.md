@@ -3,7 +3,7 @@ layout: ../../layouts/Article.astro
 title: "Gửi Phó GS TS Nguyễn Mạnh Hà Về Luận Cứ Công Nhận VNCH"
 author: "Nguyễn Mạnh Quang"
 date: 2022-12-22
-source: "https://sachhiem.net/NMQ/NMQ121_NMH.php"
+source: "/NMQ/NMQ121_NMH"
 category: "Xã hội"
 lang: vi
 wordCount: 4007
@@ -89,5 +89,5 @@ image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/LICHSU/IMG/VNCH/VNCH
   <p class="TacgiaL">Nguyễn  Mạnh Quang </p>
 <p>______________</p>
 <p><b>Bài đọc thêm:</b></p>
-<p><a href="https://sachhiem.net/NMQ/NMQ120.php">- Thư Ngỏ Gửi Phó Giáo Sư Tiến Sĩ Kiều Linh</a></p>
-<p>- <a href="https://sachhiem.net/NMQ/NMQ021_QD.php">Thư Gửi Chị Phan Thi Quỳnh Dzư: Người Bạn Đồng Môn Của Tôi Tại ĐHSP Sàigòn</a> </p>
+<p><a href="/NMQ/NMQ120">- Thư Ngỏ Gửi Phó Giáo Sư Tiến Sĩ Kiều Linh</a></p>
+<p>- <a href="/NMQ/NMQ021_QD">Thư Gửi Chị Phan Thi Quỳnh Dzư: Người Bạn Đồng Môn Của Tôi Tại ĐHSP Sàigòn</a> </p>

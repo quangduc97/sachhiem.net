@@ -3,7 +3,7 @@ layout: ../../../layouts/Article.astro
 title: "Đức Dalai Lama: Hãy Ngừng Cầu Nguyện Cho Paris –"
 author: "Bethania Palma Markus / Rawstory"
 date: 2015-11-18
-source: "https://sachhiem.net/XAHOI/xhD/DaLaiLaMa.php"
+source: "/XAHOI/xhD/DaLaiLaMa"
 category: "Chính trị"
 lang: vi
 wordCount: 2664

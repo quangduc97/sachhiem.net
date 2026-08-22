@@ -2,14 +2,14 @@
 layout: ../../layouts/Article.astro
 title: "Giấu Đầu Lòi Đuôi"
 author: "Trần Tiên Long"
-source: "https://sachhiem.net/TTL/TranTL20.php"
+source: "/TTL/TranTL20"
 category: "Tác giả"
 lang: vi
 wordCount: 3028
-image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nha.jpg"
+image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/TONGIAO/IMG/VATICAN/POPE/JP2_assassination_ChinaDaily.jpg"
 ---
 
-<p align="center"><a href="/index"><img hspace="20" border="0" src="https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nha.jpg"></a>   May-2012</p>
+<p align="center">   May-2012</p>
     <p><span class="First">B</span>ài <i>Một Sự Quan Phòng</i> của tác giả Lữ Giang (<a href="https://vietlyhuong.net/2012/05/chu-e-toi-ac-vgcs-mot-su-quan-phong.html)">https://vietlyhuong.net/2012/05/chu-e-toi-ac-vgcs-mot-su-quan-phong.html)</a> đã xác
         nhận một đôi điều khá lý thú mà từ xưa nay những tác giả hoài Ngô, tàn
         dư của Cần Lao Công Giáo hoặc có liên hệ tới chế độ Ngô Đình Diệm (NĐD),
@@ -120,7 +120,7 @@ image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nha.jpg"
   sức chặt chẽ bởi một thế lực ngoại lai, đó là quốc gia Vatican. Về điều này,
   Linh Mục Trần Tam Tỉnh, một viện sĩ Viện Hàn Lâm Hoàng Gia Canada, trong cuốn <i>Thập
     Giá Và Lưỡi Gươm </i>mà tác giả Hoàng Thục An đã chuyển một chương <i>Giáo
-      Hội Chiên Thắng</i> <a href="https://sachhiem.net/TONGIAO/TTTINH/TTT_30.php">(https://sachhiem.net/TONGIAO/TTTINH/TTT_30.php)</a> vào diễn đàn, đã nhận định như sau:</p>
+      Hội Chiên Thắng</i> <a href="/TONGIAO/TTTINH/TTT_30">(https://sachhiem.net/TONGIAO/TTTINH/TTT_30.php)</a> vào diễn đàn, đã nhận định như sau:</p>
 <div class="indent50">
   <p>
     <i>“Từ 1955 đến 1963 là thời vàng son của chủ nghĩa cha chú, với những lợi

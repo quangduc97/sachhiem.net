@@ -3,7 +3,7 @@ layout: ../../../layouts/Article.astro
 title: "[VATICANOLOGY] Linh Mục Phát Biểu Gian Dối Trên Đài RFI Về Chức Danh “Đại Diện Thường Trú”"
 author: "Minh Thạnh"
 date: 2023-10-20
-source: "https://sachhiem.net/TONGIAO/tgM/MinhThanh19_04.php"
+source: "/TONGIAO/tgM/MinhThanh19_04"
 category: "Chính trị"
 lang: vi
 wordCount: 5927

@@ -3,7 +3,7 @@ layout: ../../../layouts/Article.astro
 title: "ĐƠN TỐ CÁO Số 3: Tội Mại Thánh."
 author: "Phan thị Kim Thoa"
 date: 2024-03-11
-source: "https://sachhiem.net/TONGIAO/FB/FBThoaKimPhan3.php"
+source: "/TONGIAO/FB/FBThoaKimPhan3"
 category: "Tác giả"
 lang: vi
 wordCount: 803

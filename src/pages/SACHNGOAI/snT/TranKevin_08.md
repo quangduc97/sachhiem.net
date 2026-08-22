@@ -3,7 +3,7 @@ layout: ../../../layouts/Article.astro
 title: "Đã Vạch Trần Sự Lừa Bịp Của Tôn Giáo"
 author: "Gregory A. Clark / The Salt Lake Tribune"
 date: 2016-09-13
-source: "https://sachhiem.net/SACHNGOAI/snT/TranKevin_08.php"
+source: "/SACHNGOAI/snT/TranKevin_08"
 category: "Chính trị"
 lang: vi
 wordCount: 2457

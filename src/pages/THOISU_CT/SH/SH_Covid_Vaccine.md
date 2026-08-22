@@ -3,7 +3,7 @@ layout: ../../../layouts/Article.astro
 title: "Toi Mạng Vì Chống Vắc-xin Phòng Covid-19"
 author: "SH tổng hợp"
 date: 2021-09-14
-source: "https://sachhiem.net/THOISU_CT/SH/SH_Covid_Vaccine.php"
+source: "/THOISU_CT/SH/SH_Covid_Vaccine"
 category: "Chính trị"
 lang: vi
 wordCount: 2826

@@ -2,7 +2,7 @@
 layout: ../../layouts/Article.astro
 title: "Khám Phá Ngôi Mộ Của Gia Đình Jesus"
 author: "Lý Thái sưu tầm"
-source: "https://sachhiem.net/LTX/LyThaiTG05.php"
+source: "/LTX/LyThaiTG05"
 category: "Tác giả"
 lang: vi
 wordCount: 754

@@ -2,15 +2,13 @@
 layout: ../../layouts/Article.astro
 title: "NGƯỜI CHẾT HAI LẦN?"
 author: "Hoàng Nguyên Nhuận"
-source: "https://sachhiem.net/HOANGNN/Hoang26.php"
+source: "/HOANGNN/Hoang26"
 category: "Chính trị"
 lang: vi
 wordCount: 4668
-image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nha.jpg"
 ---
 
-<p align="center"><a href="https://www.sachhiem.net/">
-	<img hspace="20" border="0" src="https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nha.jpg"></a> ngày 03 tháng 5, 2009 </p>   
+<p align="center"> ngày 03 tháng 5, 2009 </p>   
 	<p><span class="First">K</span>ể từ năm 1975, hàng năm cứ đến mùa giỗ Đệ Nhị VNCH dịp 
 	tháng Tư là những kẻ thua cay lại lôi Trịnh công Sơn ra làm quả banh da của 
 	võ sinh quyền Anh đấm cho đỡ ngứa tay ngứa miệng. </p>

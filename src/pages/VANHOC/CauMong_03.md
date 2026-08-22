@@ -3,7 +3,7 @@ layout: ../../layouts/Article.astro
 title: "\"Cờ Vàng\" Qua Thi Ca Và Lịch Sử"
 author: "Cầu Móng NTTTLA"
 date: 2021-03-08
-source: "https://sachhiem.net/VANHOC/CauMong_03.php"
+source: "/VANHOC/CauMong_03"
 category: "Chính trị"
 lang: vi
 wordCount: 27

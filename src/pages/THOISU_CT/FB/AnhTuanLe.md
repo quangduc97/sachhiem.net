@@ -3,7 +3,7 @@ layout: ../../../layouts/Article.astro
 title: "Vì Sao Nhà Nước Việt Nam Được Trí Thức Hải Ngoại Ủng Hộ"
 author: "FB Anh-Tuan Le"
 date: 2019-09-23
-source: "https://sachhiem.net/THOISU_CT/FB/AnhTuanLe.php"
+source: "/THOISU_CT/FB/AnhTuanLe"
 category: "Chính trị"
 lang: vi
 wordCount: 2596
@@ -52,7 +52,7 @@ image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/THOISU_CT/Hinh/TS_HS
 <p align="center"><iframe width="480" height="270" src="https://www.youtube.com/embed/CXE0EhFbPOI" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe></p>
 <p>  Cuộc đấu tranh không chỉ đơn thuần bằng vũ khí, mà bằng chính  con tim và khối óc, bằng sự di truyền cho con dân đất Việt biết rằng, cha ông  chúng không ngừng đấu tranh, bằng mạng sống, bằng ngoại giao, bằng súng đạn,  bằng chất xám, và bằng cả trái tim để bảo vệ từng tất đất từng bờ tre.</p>
 <p>  Do nhìn vào sự thực ấy, mà hầu hết trí thức, kể cả trí thức được  đào tạo từ VNCH cũng dần dần ngã theo hướng đi chính nghĩa của dân tộc.</p>
-<p>  Viết những lời này, để nhắn nhủ ai từng gán cho những trí thức  như LS Hoàng Duy Hùng,  Trịnh Quốc Thiên, và trước đó đã có GS Trần Chung Ngọc, Nguyễn Mạnh Quang (trong  đó có cả người viết bài này).... cái nhãn hiệu "<i>ăn cơm quốc gia, thờ ma  CS</i>". (<a href="https://sachhiem.net/NMQ/NMQ018.php">mời đọc thêm: Ăn Cơm Quốc Gia ?</a> của Nguyễn Mạnh Quang)</p>
+<p>  Viết những lời này, để nhắn nhủ ai từng gán cho những trí thức  như LS Hoàng Duy Hùng,  Trịnh Quốc Thiên, và trước đó đã có GS Trần Chung Ngọc, Nguyễn Mạnh Quang (trong  đó có cả người viết bài này).... cái nhãn hiệu "<i>ăn cơm quốc gia, thờ ma  CS</i>". (<a href="/NMQ/NMQ018">mời đọc thêm: Ăn Cơm Quốc Gia ?</a> của Nguyễn Mạnh Quang)</p>
 <p>  Người Việt yêu nước Việt. Đó là chân lý nghìn đời không thể di  dịch. Chúng ta yêu nước chứ không yêu chế độ. Chúng ta ủng hộ chế độ nào biết  trân quý giang sơn gấm vóc, và chúng ta phỉ nhổ lên lũ hèn mạt xem giang sơn  như của riêng của chúng, muốn tặng ai thì tặng, muốn dâng cho ai thì dâng, dù  đó là Phật hay Chúa.<img src="https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/sqdot.gif" width="10" height="10"></p>
 <p class="TacgiaL">FB Anh-Tuan Le </p>
  <p class="nguonL">Nguồn <a href="https://www.facebook.com/permalink.php?story_fbid=468259580393219&amp;id=100016275420894">FB Anh-Tuan LE 19 tháng 9 lúc 12:41</a></p>

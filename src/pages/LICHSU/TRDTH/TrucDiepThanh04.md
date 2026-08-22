@@ -3,15 +3,15 @@ layout: ../../../layouts/Article.astro
 title: "Khánh Mỹ quận công Hồ Đắc Trung (1861-1941)"
 author: "Trúc Diệp Thanh"
 date: 2012-03-29
-source: "https://sachhiem.net/LICHSU/TRDTH/TrucDiepThanh04.php"
+source: "/LICHSU/TRDTH/TrucDiepThanh04"
 category: "Lịch sử"
 lang: vi
 wordCount: 7500
-image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nha.jpg"
+image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/LICHSU/IMG/SuVN/VuaTuDuc.jpg"
 ---
 
 <table border="0" cellpadding="0" width="250" align="center"><tbody><tr>
-	<td width="125"><a href="/index"><img border="0" src="https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nha.jpg"></a></td>
+	<td width="125"></td>
 	<td valign="middle&quot;">29-Mar-2012</td>
 		</tr></tbody></table>
 		

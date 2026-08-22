@@ -2,16 +2,16 @@
 layout: ../../../layouts/Article.astro
 title: "Lời Kinh Sám Hối"
 author: "Đào Văn Bình"
-source: "https://sachhiem.net/DAOVB/TG/DaovBinh2.php"
+source: "/DAOVB/TG/DaovBinh2"
 category: "Tác giả"
 lang: vi
 wordCount: 4016
-image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nha.jpg"
+image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/TONGIAO/IMG/CHURCH/Chuoi.jpg"
 ---
 
 <table border="0" cellpadding="0" width="250" align="center">
             <tbody><tr>
-              <td width="125"><a href="/index"><img border="0" src="https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nha.jpg"></a></td>
+              <td width="125"></td>
 			<td valign="top">			<p>11 tháng 11,   2010 </p></td>
 		</tr>
 	</tbody></table>

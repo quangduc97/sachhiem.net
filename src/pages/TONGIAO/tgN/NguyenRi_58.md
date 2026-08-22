@@ -3,7 +3,7 @@ layout: ../../../layouts/Article.astro
 title: "Thượng Đế-Chúa Dạy/Cổ Vũ \"Phá Thai\""
 author: "Ri Nguyễn"
 date: 2022-06-24
-source: "https://sachhiem.net/TONGIAO/tgN/NguyenRi_58.php"
+source: "/TONGIAO/tgN/NguyenRi_58"
 category: "Tác giả"
 lang: vi
 wordCount: 1366
@@ -28,7 +28,7 @@ image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/TONGIAO/IMG/BIBLE/DI
 <p>  <b>T</b>hật là khốn&nbsp;nạn, đạo đức gỉa, nói đúng hơn là  gian manh, láu cá, vô liêm sỉ khi người Thiên Chúa Giáo La Mã kết  tội các<i> bác sĩ, người mẹ, hay người đồng ý với việc&nbsp;&nbsp;phá  thai là kẻ sát nhân đáng phỉ nhô</i>̉. Nhưng qua các câu kinh dưới đây&nbsp;chỉ đích danh Thượng  Đế-Chúa&nbsp;mà người Thiên Chúa giáo xưng tụng là&nbsp;"Chúa lòng  lành"&nbsp;cùng qùy mọp tôn thờ&nbsp;mới chính là kẻ  khát máu, sát nhân, độc ác, vô đạo, đáng phỉ nhổ nhất. </p>
 <p>  Sự thật "phá thai" của Thượng  Đế-Chúa được ghi rõ trong Kinh thánh như dưới đây. </p>
 <div class="indent50">
-  <p>[Chú thích: Lý do mà chúng tôi không đưa bản dịch tiếng Việt là vì rất nhiều chỗ <a href="https://sachhiem.net/TONGIAO/FB/FBLeThiKimHoa02.php">dịch sai, vô tình hay có mục đích, dịch thiếu</a>, dịch tầm bậy, hoặc dịch gian.] </p>
+  <p>[Chú thích: Lý do mà chúng tôi không đưa bản dịch tiếng Việt là vì rất nhiều chỗ <a href="/TONGIAO/FB/FBLeThiKimHoa02">dịch sai, vô tình hay có mục đích, dịch thiếu</a>, dịch tầm bậy, hoặc dịch gian.] </p>
   <p align="center"><img src="https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/TONGIAO/IMG/BIBLE/DICHTAMBAY/DANSO5-21.PNG" width="100%"></p>
   <p>Thí dụ <br>
     - 
@@ -86,7 +86,7 @@ image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/TONGIAO/IMG/BIBLE/DI
 <p class="TacgiaL">Ri Nguyễn </p>
 <p>_____________________</p>
 <p><b>Đọc thêm:</b></p>
-<p>- <a href="https://sachhiem.net/TONGIAO/tgN/NguyenRi_58A.php">Thánh Kinh Tiếng Việt Dịch Bậy Bạ Thế Nào?</a></p>
+<p>- <a href="/TONGIAO/tgN/NguyenRi_58A">Thánh Kinh Tiếng Việt Dịch Bậy Bạ Thế Nào?</a></p>
 
  <p><b>Các bài của Nguyễn Ri:</b></p>
- <p> <a href="https://sachhiem.net/TONGIAO/tgN/ListRiNguyen.inc.php" target="_blank">https://sachhiem.net/TONGIAO/tgN/ListRiNguyen.inc.php</a></p>
+ <p> <a href="/TONGIAO/tgN/ListRiNguyen.inc" target="_blank">https://sachhiem.net/TONGIAO/tgN/ListRiNguyen.inc.php</a></p>

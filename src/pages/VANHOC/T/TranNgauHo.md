@@ -3,7 +3,7 @@ layout: ../../../layouts/Article.astro
 title: "THƠ TẾT: Ông Đồ Thời Avòng (@)"
 author: "Trần Ngẫu Hồ"
 date: 2018-02-14
-source: "https://sachhiem.net/VANHOC/T/TranNgauHo.php"
+source: "/VANHOC/T/TranNgauHo"
 category: "Chính trị"
 lang: vi
 wordCount: 49
@@ -17,5 +17,5 @@ image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/VANHOC/Hinh/SACH/Nga
  </div>
 <p align="center"><img src="https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/VANHOC/Hinh/SACH/NgauHo_Bansach.jpg" width="100%" alt=""></p>
 <p>_________________</p>
-<p><b>Tòa soạn SH: </b>Sách đã được giới thiệu ở: <a href="https://sachhiem.net/EMAILS/SH/Sachhiem17c.php">https://sachhiem.net/EMAILS/SH/Sachhiem17c.php</a></p>
+<p><b>Tòa soạn SH: </b>Sách đã được giới thiệu ở: <a href="/EMAILS/SH/Sachhiem17c">https://sachhiem.net/EMAILS/SH/Sachhiem17c.php</a></p>
  <p class="nguonL">Nguồn: tác giả gửi</p>

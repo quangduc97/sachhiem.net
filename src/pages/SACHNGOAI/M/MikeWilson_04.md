@@ -3,7 +3,7 @@ layout: ../../../layouts/Article.astro
 title: "Các Lãnh Đạo Doanh Nghiệp Lên Tiếng Phản Đối Xiết Chặt Bầu Cử"
 author: "Mike Wilson"
 date: 2021-04-12
-source: "https://sachhiem.net/SACHNGOAI/M/MikeWilson_04.php"
+source: "/SACHNGOAI/M/MikeWilson_04"
 category: "Chính trị"
 lang: vi
 wordCount: 1226

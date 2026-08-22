@@ -3,7 +3,7 @@ layout: ../../layouts/Article.astro
 title: "Chúa Cũ Viết Bậy, Chúa Mới Viết Lại"
 author: "Diễn Đàn"
 date: 2015-04-06
-source: "https://sachhiem.net/DOITHOAI/LuGiang.php"
+source: "/DOITHOAI/LuGiang"
 category: "Chính trị"
 lang: vi
 wordCount: 2534
@@ -16,7 +16,7 @@ image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/DOITHOAI/IMG/Langnhe
   
   <p><i>LTS: Thỉnh thoảng  trên diễn đàn, người ta thấy một "danh sách," một "bảng phong thần", do những người "chuyên bảo vệ những tội phạm quốc tế" gửi ra, trong đó có Lữ Giang, một cựu thẩm phán VNCH. Người ta cũng thấy danh sách ấy toàn là những người có nhiệt tâm chống lại những điều mê tín hoang đường và tố giác những kẻ gây tội ác chiến tranh, mà Lữ Giang gọi là vệ tinh của Giao Điểm. Làm thế khác nào vinh danh cho cái gọi là nhóm "Giao Điểm?" </i></p>
   <p><i>Ông quen thói "miệng nhà quan," nên có hai cửa miệng. Một mặt ông nói "who cares", nhưng một mặt  ông  nghe ngóng tin đồn lý lịch cá nhân, rồi đăng tải thí mạng cùi (giống như tờ nào đó mới bị thua kiện gần đây)  không còn chút tự trọng nào! </i><i>Ông từng làm thẩm phán, có biết việc tự động phịa ra  lý lịch cá nhân của người ta như thế, là "bất chính", là "có ác ý" (từ ngữ mà ông dùng cho bà Hoàng Thảo Vi) và có tội gì  không?  Nếu không có mục đích, vậy mấy cái danh tánh,<b> danh sách,.. lập ra để làm gì? Chắc chắn không phải là thiện ý!</b> Người ta cũng dư biết tâm địa đen tối của ông, nhưng thấy việc thấp hèn đến đỗi chẳng buồn đính chính.</i> <i>Bài viết “Danh tánh những nicknames quậy phá” (ở dưới cùng) của Lữ Giang  có nhiều lý luận hoặc mâu thuẫn, hoặc kém giá trị. </i></p>
-  <p><i>a. Về chữ "quậy phá" - Đối với những bài viết, hay những lý luận không thể phủ bác để vạch mặt bọn đạo đức giả, chỉ có những kẻ trong cuộc mới cảm thấy khó chịu, vì bị mất mặt. Lữ Giang dùng chữ “quậy phá” trong trường hợp này, hóa ra ông "thẩm phán" cảm thấy khó chịu, ông là người trong cuộc hay sao? Không thấy ông "thẩm phán" chứng minh, mà chỉ đặt điều. Người ta gọi là "chứng gian, chứng dối".  Thật ra không ai trong danh sách mà ông đưa ra,  quậy phá  ai cả, mà còn ngược lại. Chính những người cùng phe với ông, chuyên gây chuyện và "quậy phá" đạo khác. </i><i>Bài <a href="https://www.sachhiem.net/index.php?content=showrecipe&amp;id=6315">Phản Hồi Nick Bình Nguyễn - Phật Giáo Xưa và Nay của Trần Quang Diệu</a> là một thí dụ. </i></p>
+  <p><i>a. Về chữ "quậy phá" - Đối với những bài viết, hay những lý luận không thể phủ bác để vạch mặt bọn đạo đức giả, chỉ có những kẻ trong cuộc mới cảm thấy khó chịu, vì bị mất mặt. Lữ Giang dùng chữ “quậy phá” trong trường hợp này, hóa ra ông "thẩm phán" cảm thấy khó chịu, ông là người trong cuộc hay sao? Không thấy ông "thẩm phán" chứng minh, mà chỉ đặt điều. Người ta gọi là "chứng gian, chứng dối".  Thật ra không ai trong danh sách mà ông đưa ra,  quậy phá  ai cả, mà còn ngược lại. Chính những người cùng phe với ông, chuyên gây chuyện và "quậy phá" đạo khác. </i><i>Bài <a href="/LICHSU/TR/TQD44">Phản Hồi Nick Bình Nguyễn - Phật Giáo Xưa và Nay của Trần Quang Diệu</a> là một thí dụ. </i></p>
   <p><i>b.	 Ai mới đáng tin? - Lữ Giang khoe “Tôi thường lên nói chuyện trên các chương trình truyền hình ở Mỹ nên cũng được khá nhiều người biết mặt. Bọn 'vệ tinh' Giao Điểm có viết gì cũng chẳng ai tin.” Lữ Giang cho rằng hễ được lên truyền hình, được người biết mặt, là đáng tin cậy hay sao? Ai là người tuyển chọn quí ông, và  "tuyển chọn" theo tiêu chuẩn nào, thiên kiến nào, chỉ có mấy ông biết với nhau mà thôi. Một vài khía cạnh nào đó, mấy ông cũng chẳng hơn những người mãi võ sơn đông quảng cáo hay các linh mục giảng đạo. Có thể có một số người nghe bùi tai, một số nghe trái tai, chẳng có gì bảo đảm hay chứng minh được quí vị  đáng tin cả. </i></p>
   <p><i>c.	Về chữ “ghen tức” - Lữ Giang nói  “Nhóm Giao Điểm chỉ lượm những bài chống Kitô giáo trong nhiều thế kỷ rồi đem ra phổ biến và xuyên tạc vì ghen tức không có được một vị thế vững chắc như Kitô giáo.” Các con chiên thích dùng chữ “<b>ghen tức</b>” với thái độ tự đắc, luôn tưởng mình là giới thượng lưu đáng cho người ta thèm muốn lắm (sic!). Một nhóm người chiếm đoạt tài sản và đứng ở vị thế cao trên thế giới này nhờ làm những việc tàn bạo và bá đạo, bị thế giới nạn nhân vạch mặt, bị thiên hạ lên án khắp nơi, và phải nhận tội bao nhiêu lần, mà gọi là bị ghen tức (?), thì quả là ngông nghênh và ngu ngốc hết chỗ nói. Vậy mà hàng ngày cứ bảo đạo Chúa dạy người ta khiêm nhượng, đúng là tối ngày ra rả dạy người khác, còn chính mình thì "miễn." </i></p>
   <p><i>Còn những điều nhảm nhí khác trong bức thư của Lữ Giang, vài thân hữu khác đã có thêm một ít nhận xét  như sau.</i> (SH)</p>
@@ -44,7 +44,7 @@ image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/DOITHOAI/IMG/Langnhe
 <p>
   <i>Trần Tiên Long</i> </p>
 <p>
-  <a href="https://sachhiem.net/TTL/TranTL45a_Ngvthang.php" target="_blank">https://sachhiem.net/TTL/TranTL45a_Ngvthang.php</a> </p>
+  <a href="/TTL/TranTL45a_Ngvthang" target="_blank">https://sachhiem.net/TTL/TranTL45a_Ngvthang.php</a> </p>
 <p>
     (SH chỉ trích 1 đoạn dành cho Lữ Giang)</p>
 <p>
@@ -68,7 +68,7 @@ image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/DOITHOAI/IMG/Langnhe
     Thưa ông Lữ Giang, tôi biết ông đã từng chụp mũ, xuyên tạc và vu  khống nhiều người, kể cả tôi, bằng những luận chứng vu vơ, chẳng có gì là  thuyết phục. Việc in ấn một số sách vở hoặc kinh sách thuần túy tôn giáo ở Việt  Nam để tiết kiệm chi phí là một việc đơn giản, bình thường, chẳng phải là  nghiêm trọng. Như vậy, cái <i>“giấy giới thiệu Giao Điểm của công an”</i> mà  ông đã trưng ra không chứng minh được điều gì để hỗ trợ cho lời cáo buộc của  ông, huống hồ trang nhà Sachhiem chẳng có dính dáng gì tới cái giấy đó. Thực  khó mà tin đấy là lối chứng minh để buộc tội của một ông cựu Thẩm Phán Việt  Nam! </p>
   <p>
     Cũng cần ghi nhận thêm rằng vấn đề thường xuyên chụp mũ, vu cáo  tổ chức Giao Điểm là của cộng sản, đã bị tòa Superior Court of California, 415  West Ocean Blvd, Long Beach, Ca 90802, Case No. # 009482, phạt ông Nguyễn văn  Thạch (Thomas Nguyen) số tiền $75,228 đô. Tiền lời mỗi năm theo luật định là  10%. Từ April 5, 1993 đến nay đã 20 năm. Công ty chuyên đòi tiền nợ đang tìm  kiếm đương sự. </p>
-  <p>(Nguồn: <a href="https://sachhiem.net/index.php?content=showemail&amp;id=104" target="_blank">https://sachhiem.net/index.php?content=showemail&amp;id=104</a>) </p> 
+  <p>(Nguồn: <a href="/net/TCN/TCNts/TCNts056" target="_blank">https://sachhiem.net/index.php?content=showemail&amp;id=104</a>) </p> 
 </div>
 <hr>
 <p> <strong> From:</strong> Giang Lam [mailto:<a href="mailto:lamgiang@hotmail.com" target="_blank">lamgiang@hotmail.com</a>] <br>

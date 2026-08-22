@@ -3,7 +3,7 @@ layout: ../../../layouts/Article.astro
 title: "Mầu Nhiệm Một Chúa Ba Ngôi"
 author: "Ngô Triệu Lịch"
 date: 2019-06-14
-source: "https://sachhiem.net/TONGIAO/tgN/NgoTrieuLich_08.php"
+source: "/TONGIAO/tgN/NgoTrieuLich_08"
 category: "Tác giả"
 lang: vi
 wordCount: 2089
@@ -58,9 +58,9 @@ T</span>uổi thơ tôi gắn liền  với Sách Phần, Bổn Đồng Ấu. Co
 <p class="TacgiaL">Ngô Triệu Lịch </p> 
 <p class="nguonL">ntrlich@yahoo.com,</p>
 <p class="nguonL">Nguồn: https://www.facebook.com/photo.php?fbid=334423067433182&amp;set=a.131192427756248&amp;type=3&amp;theater,</p>
-<p class="nguonL">[Một phần trong bài <a href="https://sachhiem.net/TONGIAO/tgN/NgoTrieuLich.php">Nhận Định Về Văn Kiện “Tông Huấn Giáo Hội Tại Châu Á”</a> (Ecclesia In Asia) Ngô triệu Lịch]</p>
+<p class="nguonL">[Một phần trong bài <a href="/TONGIAO/tgN/NgoTrieuLich">Nhận Định Về Văn Kiện “Tông Huấn Giáo Hội Tại Châu Á”</a> (Ecclesia In Asia) Ngô triệu Lịch]</p>
 <p>_____________</p>
 <p><b>Đọc thêm</b>:</p>
 <img src="https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/LICHSU/IMG/SACH/Chua3ngoi[1].jpg" width="176" height="192" alt="">
 <p><strong>- VỀ BA NGÔI THIÊN CHÚA</strong> (Trần Chung Ngọc)</p>
-<p class="nguonL"><a href="https://www.sachhiem.net/TCN/TCNtg/3NGOI/TCN72.php">https://www.sachhiem.net/TCN/TCNtg/3NGOI/TCN72.php</a></p>
+<p class="nguonL"><a href="/TCN/TCNtg/3NGOI/TCN72">https://www.sachhiem.net/TCN/TCNtg/3NGOI/TCN72.php</a></p>

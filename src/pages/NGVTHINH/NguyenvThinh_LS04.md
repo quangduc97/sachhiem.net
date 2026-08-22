@@ -3,7 +3,7 @@ layout: ../../layouts/Article.astro
 title: "Quanh Chuyến Đi Của Ông Obama Đến Việt Nam"
 author: "BS Nguyễn Văn Thịnh"
 date: 2016-06-26
-source: "https://sachhiem.net/NGVTHINH/NguyenvThinh_LS04.php"
+source: "/NGVTHINH/NguyenvThinh_LS04"
 category: "Chính trị"
 lang: vi
 wordCount: 6234
@@ -85,4 +85,4 @@ image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/COVER/LuongVa
     <div align="center"><div class="fb-share-button" data-layout="button" data-size="large" data-actiob="like" data-show-faces="true" data-share="true" data-mobile-iframe="true"></div>
 </div>
   <p>________________________</p>
-  <p>Các bài của Nguyễn Văn Thịnh: link <a href="https://sachhiem.net/NGVTHINH/ListNVTh.inc.php" target="_blank">https://sachhiem.net/NGVTHINH/ListNVTh.inc.php</a></p>
+  <p>Các bài của Nguyễn Văn Thịnh: link <a href="/NGVTHINH/ListNVTh.inc" target="_blank">https://sachhiem.net/NGVTHINH/ListNVTh.inc.php</a></p>

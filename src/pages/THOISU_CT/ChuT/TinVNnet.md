@@ -3,7 +3,7 @@ layout: ../../../layouts/Article.astro
 title: "Mối quan hệ Trung-Mỹ: Cuộc hôn nhân vụ lợi"
 author: "Thanh Hảo/ VNnet"
 date: 2014-07-01
-source: "https://sachhiem.net/THOISU_CT/ChuT/TinVNnet.php"
+source: "/THOISU_CT/ChuT/TinVNnet"
 category: "Chính trị"
 lang: vi
 wordCount: 1312

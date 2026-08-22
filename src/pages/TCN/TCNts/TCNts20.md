@@ -2,13 +2,13 @@
 layout: ../../../layouts/Article.astro
 title: "ĐÔI HÀNG VỀ CHUYỆN CỜ VÀNG CỜ ĐỎ"
 author: "Trần Chung Ngọc"
-source: "https://sachhiem.net/TCN/TCNts/TCNts20.php"
+source: "/TCN/TCNts/TCNts20"
 lang: vi
 wordCount: 1784
-image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nha.jpg"
+image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/TONGIAO/IMG/VATICAN/POPE/GHchoangCovang.jpg"
 ---
 
-<p align="center"><a href="/index"><img hspace="20" border="0" src="https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nha.jpg"></a>ngày 19 tháng 7, 2008</p>
+<p align="center">ngày 19 tháng 7, 2008</p>
  	
 	<p class="MsoNormal" style="text-align: center">&nbsp;<span class="First"><img border="0" src="https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/TONGIAO/IMG/VATICAN/POPE/GHchoangCovang.jpg" width="300" height="168"></span></p>
 <p class="MsoNormal"><span class="First">T</span>rong bài <i>“Hiện Tượng Phạm Minh Mẫn” </i>

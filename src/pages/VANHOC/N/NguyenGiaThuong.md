@@ -3,7 +3,7 @@ layout: ../../../layouts/Article.astro
 title: "Tổ Quốc Ăn Năn: Một Lừa Đảo Thế Kỷ"
 author: "Nguyễn Gia Thưởng"
 date: 2017-02-11
-source: "https://sachhiem.net/VANHOC/N/NguyenGiaThuong.php"
+source: "/VANHOC/N/NguyenGiaThuong"
 category: "Tác giả"
 lang: vi
 wordCount: 4498
@@ -127,8 +127,8 @@ image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/SACHNGOAI/Hinhanh/BI
  <p class="nguonL">Nguồn <a href="https://ethongluan.org/index.php?option=com_content&amp;view=article&amp;id=26286:t-qu-c-an-nan-m-t-l-a-d-o-th-k-nguy-n-gia-thu-ng&amp;catid=68:di-m-sach&amp;Itemid=301">https://ethongluan.org</a> Thứ bảy, 04 Tháng 2 2017 17:28. Hiện nay không còn online, nhưng đã được đăng trên các trang khác như: <a href="https://kyvancuc.wordpress.com/2017/02/07/to-quoc-an-nan-mot-lua-dao-the-ky/">https://kyvancuc.wordpress.com/2017/02/07/to-quoc-an-nan-mot-lua-dao-the-ky/ </a> on 07.02.2017</p>
  <p class="TuaDenLeft">_____________</p>
  <p class="TuaDenLeft">Cùng đề tài:</p>
- <p><a href="https://sachhiem.net/VANHOC/VuHuyQuang.php">- Đọc "Tổ quốc ăn năn" của Nguyễn Gia Kiểng (Vũ Huy Quang)</a></p>
+ <p><a href="/VANHOC/VuHuyQuang">- Đọc "Tổ quốc ăn năn" của Nguyễn Gia Kiểng (Vũ Huy Quang)</a></p>
  <p><a href="https://giaodiemonline.com/thuvien/doithoai/toquocannan.htm">- Vài nhận xét về cuốn "Tổ Quốc Ăn Năn" của Nguyễn Gia Kiểng (Nhật Tiến)</a></p>
  <p><a href="https://forums.vietbao.com/topic.asp?TOPIC_ID=12472">- Forum Vietbao: Đọc sách Tổ Quốc Ăn Năn của Nguyễn Gia Kiểng</a></p>
- <p>- <a href="https://sachhiem.net/DOITHOAI/LeVietThuong2.php">Trường Hợp «TỔ QUỐC ĂN NĂN» của Nguyễn Gia Kiểng (Lê Việt Thường)</a> đã đăng 7 năm trước.</p>
- <p>- <a href="https://sachhiem.net/VANHOC/N/NguyenGiaThuong.php">Tổ Quốc Ăn Năn: một lừa đảo thế kỷ (Nguyễn Gia Thưởng)</a></p>
+ <p>- <a href="/DOITHOAI/LeVietThuong2">Trường Hợp «TỔ QUỐC ĂN NĂN» của Nguyễn Gia Kiểng (Lê Việt Thường)</a> đã đăng 7 năm trước.</p>
+ <p>- <a href="/VANHOC/N/NguyenGiaThuong">Tổ Quốc Ăn Năn: một lừa đảo thế kỷ (Nguyễn Gia Thưởng)</a></p>

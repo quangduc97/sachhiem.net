@@ -3,7 +3,7 @@ layout: ../../../layouts/Article.astro
 title: "Nhật Ký Biển Đông:"
 author: "Đào Văn Bình"
 date: 2014-05-31
-source: "https://sachhiem.net/DAOVB/CT/DaovBinh17.php"
+source: "/DAOVB/CT/DaovBinh17"
 category: "Chính trị"
 lang: vi
 wordCount: 3485
@@ -81,4 +81,4 @@ Rõ ràng hiện nay tại Á  Châu đang có mặt của hai siêu cường. C
  
  <p><a name="nstar" href="/DAOVB/#star">(*)</a> <i>Giáo Sư Nghiên Cứu Chiến Lược, Đại Học Quốc Gia Úc Châu; tác giả cuốn “Lựa Chọn của Trung Quốc: Tại Sao Chúng Ta Cần Chia Xẻ Quyền Lực (The China Choice: Why We Should Share Power)</i></p> 
  <p>____________________</p>
-   <p><a href="https://sachhiem.net/LICHSU/H/HoangSa_list.php">Các bài về Hoàng Sa- Trường Sa đăng trên sachhiem.net » </a></p>
+   <p><a href="/LICHSU/H/HoangSa_list">Các bài về Hoàng Sa- Trường Sa đăng trên sachhiem.net » </a></p>

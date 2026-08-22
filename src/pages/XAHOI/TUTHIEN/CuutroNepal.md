@@ -2,7 +2,7 @@
 layout: ../../../layouts/Article.astro
 title: "Khẩn Thư Kêu Gọi Cứu Trợ"
 date: 2015-05-03
-source: "https://sachhiem.net/XAHOI/TUTHIEN/CuutroNepal.php"
+source: "/XAHOI/TUTHIEN/CuutroNepal"
 category: "Xã hội"
 lang: vi
 wordCount: 1226

@@ -3,7 +3,7 @@ layout: ../../../layouts/Article.astro
 title: "Hiểm họa của thế giới: Cá nuôi – Farmed fish"
 author: "Huy Thái"
 date: 2017-12-23
-source: "https://sachhiem.net/XAHOI/xhH/HuyThai_nuoica.php"
+source: "/XAHOI/xhH/HuyThai_nuoica"
 category: "Chính trị"
 lang: vi
 wordCount: 1524

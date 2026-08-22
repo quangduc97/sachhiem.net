@@ -3,7 +3,7 @@ layout: ../../../layouts/Article.astro
 title: "Phó TT Biden: Nhân Phẩm Cao Hơn Nghi Thức Hôn Nhẫn"
 author: "VERENA DOBNIK / AP"
 date: 2013-03-22
-source: "https://sachhiem.net/TONGIAO/tgS/SH44_Biden.php"
+source: "/TONGIAO/tgS/SH44_Biden"
 category: "Tác giả"
 lang: vi
 wordCount: 199

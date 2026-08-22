@@ -3,7 +3,7 @@ layout: ../../../layouts/Article.astro
 title: "Châu Âu:"
 author: "Tin VOA/ Lisa Bryant"
 date: 2012-01-21
-source: "https://sachhiem.net/TONGIAO/tgT/TinVOA.php"
+source: "/TONGIAO/tgT/TinVOA"
 category: "Tác giả"
 lang: vi
 wordCount: 1132

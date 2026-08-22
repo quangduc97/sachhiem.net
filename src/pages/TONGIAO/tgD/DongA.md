@@ -3,11 +3,11 @@ layout: ../../../layouts/Article.astro
 title: "Công giáo theo Pháp ở Quảng Bình"
 author: "Blog Đông A"
 date: 2011-11-14
-source: "https://sachhiem.net/TONGIAO/tgD/DongA.php"
+source: "/TONGIAO/tgD/DongA"
 category: "Tác giả"
 lang: vi
 wordCount: 19722
-image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nha.jpg"
+image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.devhttps://sachhiem.net/TONGIAO/IMG/TAMTOA/giaoxuthuannghia.jpg"
 ---
 
 <div align="center" style="position: relative; left: 0; top: 0">
@@ -24,8 +24,7 @@ image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nha.jpg"
 <div style="padding-left: 50px; padding-right: 50px"> 
 	<table border="0" cellpadding="1" width="600" cols="2">
 		<tbody><tr>
-			<td><a href="https://www.sachhiem.net/">
-			<img border="0" src="https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nha.jpg"></a></td>
+			<td></td>
 			<td valign="top" width="210">
 			</td>
 		</tr>

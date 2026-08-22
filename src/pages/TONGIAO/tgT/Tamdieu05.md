@@ -3,7 +3,7 @@ layout: ../../../layouts/Article.astro
 title: "Lịch Sử Phật Giáo Việt Nam Trong Ngày 11/6/1963 Đã Bị Mạo Hóa"
 author: "Tâm Diệu"
 date: 2016-06-08
-source: "https://sachhiem.net/TONGIAO/tgT/Tamdieu05.php"
+source: "/TONGIAO/tgT/Tamdieu05"
 category: "Tác giả"
 lang: vi
 wordCount: 3855

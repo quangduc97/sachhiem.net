@@ -2,7 +2,7 @@
 layout: ../../../layouts/Article.astro
 title: "Một Tu Sĩ Phật Giáo Trung Quốc Trở Thành Ca Sĩ Nhạc Pop"
 author: "Nguyễn Ninh Hòa"
-source: "https://sachhiem.net/null"
+source: "/null"
 category: "Chính trị"
 lang: vi
 wordCount: 229
@@ -26,7 +26,7 @@ image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nhacu.jpg"
 <tr> <td width="100%" style="text-align: justify" valign="top"> 
 		<div style="padding-left: 40px; padding-right: 40px;">
 		<table border="0" cellpadding="0" width="90%" cols="2"><tbody><tr>
-				<td width="163"><a href="https://sachhiem.net/"><img border="0" src="https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nhacu.jpg"></a></td>
+				<td width="163"><a href="/"><img border="0" src="https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nhacu.jpg"></a></td>
 				<td valign="top" width="232"></td>
 	<td valign="top">	<font size="2">14 tháng 4, 2009
 	</font>

@@ -3,7 +3,7 @@ layout: ../../layouts/Article.astro
 title: "Không Ai Độc Quyền Làm Điều Tốt"
 author: "Trần Tiên Long"
 date: 2012-08-20
-source: "https://sachhiem.net/TTL/TranTL25.php"
+source: "/TTL/TranTL25"
 category: "Chính trị"
 lang: vi
 wordCount: 1274
@@ -118,7 +118,7 @@ lắm không? <img src="https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/imag
    TTL</p>
  
  <p>Xem tiếp các thư của ông Trần Quang Diệu, Bà BS Nguyễn Thị Thanh, Bà Dương Nguyệt Ánh trong link dưới đây:</p>
- <p><a href="https://sachhiem.net/LICHSU/TR/TQD14.php"><b>Phục Hồi Danh Dự Ở Nơi
+ <p><a href="/LICHSU/TR/TQD14"><b>Phục Hồi Danh Dự Ở Nơi
      Có Sẵn Danh Dự</b></a> (https://sachhiem.net/LICHSU/TR/TQD14.php) </p>
  
 

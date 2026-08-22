@@ -3,7 +3,7 @@ layout: ../../../layouts/Article.astro
 title: "Nhật Ký Biển Đông: Cơm Áo Đối Đầu Với Bảo Vệ Môi Trường"
 author: "Đào Văn Bình"
 date: 2017-06-17
-source: "https://sachhiem.net/DAOVB/CT/DaovBinh89.php"
+source: "/DAOVB/CT/DaovBinh89"
 category: "Chính trị"
 lang: vi
 wordCount: 5354

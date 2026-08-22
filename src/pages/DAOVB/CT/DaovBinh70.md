@@ -3,7 +3,7 @@ layout: ../../../layouts/Article.astro
 title: "Nhật Ký Biển Đông: Một Thế Giới “Xuân Thu Chiến Quốc”"
 author: "Đào Văn Bình"
 date: 2016-09-02
-source: "https://sachhiem.net/DAOVB/CT/DaovBinh70.php"
+source: "/DAOVB/CT/DaovBinh70"
 category: "Chính trị"
 lang: vi
 wordCount: 5152

@@ -3,7 +3,7 @@ layout: ../../../layouts/Article.astro
 title: "Dân Chủ: “Đem việc làm cho người dân\" chính là \"chuyển giao chính quyền cho người dân”"
 author: "Trần Khách Quan"
 date: 2013-05-24
-source: "https://sachhiem.net/THOISU_CT/ChuTr/TranKhachQuan_01.php"
+source: "/THOISU_CT/ChuTr/TranKhachQuan_01"
 category: "Chính trị"
 lang: vi
 wordCount: 2926

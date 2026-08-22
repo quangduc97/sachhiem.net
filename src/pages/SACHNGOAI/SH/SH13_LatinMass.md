@@ -3,7 +3,7 @@ layout: ../../../layouts/Article.astro
 title: "Người Hâm Mộ Lễ Misa Bằng Tiếng La Tinh"
 author: "Nicole Winfield"
 date: 2017-09-15
-source: "https://sachhiem.net/SACHNGOAI/SH/SH13_LatinMass.php"
+source: "/SACHNGOAI/SH/SH13_LatinMass"
 category: "Lịch sử"
 lang: vi
 wordCount: 1677

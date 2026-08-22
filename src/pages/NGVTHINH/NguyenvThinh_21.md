@@ -3,7 +3,7 @@ layout: ../../layouts/Article.astro
 title: "NGẪM VỀ “BÊN THẮNG CUỘC”"
 author: "Nguyễn Văn Thịnh"
 date: 2018-04-02
-source: "https://sachhiem.net/NGVTHINH/NguyenvThinh_21.php"
+source: "/NGVTHINH/NguyenvThinh_21"
 category: "Lịch sử"
 lang: vi
 wordCount: 7862

@@ -2,15 +2,15 @@
 layout: ../../../layouts/Article.astro
 title: "Tượng Chúa Giê-su Cao 6 Tầng Bị Sét Đánh"
 author: "Tin AP/ Lý Thái lược dịch"
-source: "https://sachhiem.net/TONGIAO/tgT/TinAP01.php"
+source: "/TONGIAO/tgT/TinAP01"
 category: "Tác giả"
 lang: vi
 wordCount: 982
-image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nha.jpg"
+image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/sqdot.gif"
 ---
 
 <table border="0" width="250" align="center">
-    <tbody><tr><td width="100"><a href="https://sachhiem.net/index.php"><img border="0" src="https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nha.jpg"></a>    </td>
+    <tbody><tr><td width="100">    </td>
 	<td valign="top" style="text-align:right"> 15 tháng 6, 2010 
 	</td></tr></tbody></table>
          

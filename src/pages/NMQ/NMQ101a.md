@@ -3,7 +3,7 @@ layout: ../../layouts/Article.astro
 title: "Bản In Giấy Bài Nhận Xét Về Bộ Lịch Sử Việt Nam 15 Tập"
 author: "Nguyễn Mạnh Quang"
 date: 2019-02-07
-source: "https://sachhiem.net/NMQ/NMQ101a.php"
+source: "/NMQ/NMQ101a"
 category: "Lịch sử"
 lang: vi
 wordCount: 746
@@ -49,10 +49,10 @@ Viện Trưởng  Viện Sử Học <br>
  <p>Thưa PGS TS Đinh Quang Hải, </p>
 <p>   Tôi tên là Nguyễn Mạnh Quang, hiện cư ngự ở Hoa Kỳ. Lý lịch trích  ngang như sau:</p>
 <p>   Nghề nghiệp: giáo viên tốt nghiệp Đại Học Sư Phạm SG, và Đại Học Ohio University,  Hoa Kỳ, giảng dạy môn lịch sử tại các trường trung học ở Việt Nam từ 1964-1975,  cũng như ở Hoa Kỳ từ năm 1975 liên tục đến tháng 6 năm 1998 mới về hưu. </p>
-<p>   Chi tiết về tiểu sử được đăng ở <a href="https://sachhiem.net/NMQ/Qdir.php" target="_blank">https://sachhiem.net/NMQ/Qdir.php</a> </p>
+<p>   Chi tiết về tiểu sử được đăng ở <a href="/NMQ/Qdir" target="_blank">https://sachhiem.net/NMQ/Qdir.php</a> </p>
 <p>   Vì trân trọng đối với công việc của tất cả các quý vị đã đóng góp  cho bộ sách Lịch Sử Việt Nam 15 Tập do Phó Giáo Sư Trần Đức Cường làm Chủ Nhiệm  và Tổng Biên Tập (Hà Nội: Nhà Xuất Bản Khoa Học Xã Hội, 2017), tôi đã tìm mọi cách  cố gắng mua cho bằng được từ Việt Nam bộ sách lịch sử vĩ đại này, và nhờ người gửi  sang Hoa Kỳ. Tôi cũng đã dành riêng một tháng để đọc các Tập Sách liên quan đến  các thời kỳ lịch sử mà tôi đã nghiên cứu hơn 30 năm nay (Tập 4 đến Tập 12). </p>
 <p>   Nhận thấy trong các tập sách này có một số những thiếu sót và sai  lầm mà tôi nghĩ là trầm trọng, tôi đã viết một bài nhận xét (đính kèm theo đây),  nêu rõ mỗi nhận xét theo từng Tập. </p>
-<p>   Vì có nhiều bạn đọc yêu cầu, nên khi viết xong phần nhận xét, tôi  đã đăng trên trang mạng sachhiem.net (<a href="https://sachhiem.net/NMQ/NMQ101.php" target="_blank">https://sachhiem.net/NMQ/NMQ101.php</a>) cho rộng đường dư luận.  Và cũng vì sự mong mỏi được đóng góp ý kiến khác biệt của một người nghiên cứu ở  hải ngoại, chúng tôi xin trân trọng gửi trực tiếp đến Viện Sử Học bài đính kèm. </p>
+<p>   Vì có nhiều bạn đọc yêu cầu, nên khi viết xong phần nhận xét, tôi  đã đăng trên trang mạng sachhiem.net (<a href="/NMQ/NMQ101" target="_blank">https://sachhiem.net/NMQ/NMQ101.php</a>) cho rộng đường dư luận.  Và cũng vì sự mong mỏi được đóng góp ý kiến khác biệt của một người nghiên cứu ở  hải ngoại, chúng tôi xin trân trọng gửi trực tiếp đến Viện Sử Học bài đính kèm. </p>
 <p>   Kính mong Viện Sử Học cho  phép tôi được góp ý nghiêm túc, và rất mong được ông hồi âm. Tôi tin rằng các bạn  đọc cũng mong được nghe tiếng nói trả lời về bài nhận xét của chúng tôi để họ được  an tâm. </p>
 <p>   Nay kính, </p>
 <p>Nguyễn Mạnh  Quang,</p>
@@ -66,7 +66,7 @@ Viện Trưởng  Viện Sử Học <br>
 <p>   (1)- Bài viết: </p>
 <p>  <strong>Những Thiếu  Sót Và Sai Lầm Quan Trọng Trong Bộ Lịch Sử Việt Nam 15 Tập</strong></p>
 <p>(bản in giấy)</p>
-<p>(xem <a href="https://sachhiem.net/NMQ/NMQ101.php"> https://sachhiem.net/NMQ/NMQ101.php</a>)</p>
+<p>(xem <a href="/NMQ/NMQ101"> https://sachhiem.net/NMQ/NMQ101.php</a>)</p>
 <hr> 
 
 <center>

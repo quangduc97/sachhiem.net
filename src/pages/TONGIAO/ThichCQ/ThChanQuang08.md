@@ -3,7 +3,7 @@ layout: ../../../layouts/Article.astro
 title: "Hài Kịch Hoàn Hảo"
 author: "Minh Mẫn/ Thư Viện Hoa Sen"
 date: 2025-10-14
-source: "https://sachhiem.net/TONGIAO/ThichCQ/ThChanQuang08.php"
+source: "/TONGIAO/ThichCQ/ThChanQuang08"
 category: "Chính trị"
 lang: vi
 wordCount: 593

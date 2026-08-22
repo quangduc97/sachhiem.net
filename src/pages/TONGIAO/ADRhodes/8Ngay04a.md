@@ -3,7 +3,7 @@ layout: ../../../layouts/Article.astro
 title: "Phép Giảng Tám Ngày"
 author: "Alexandre De Rhodes"
 date: 2015-06-30
-source: "https://sachhiem.net/TONGIAO/ADRhodes/8Ngay.php"
+source: "/TONGIAO/ADRhodes/8Ngay"
 category: "Tác giả"
 lang: vi
 wordCount: 26

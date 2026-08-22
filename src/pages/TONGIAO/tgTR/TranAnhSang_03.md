@@ -3,7 +3,7 @@ layout: ../../../layouts/Article.astro
 title: "Ý Kiến Về Tuyên Bố Thừa Nhận Hai Học Thuyết Khoa Học Của GH Francis"
 author: "Trần Ánh Sáng"
 date: 2017-12-08
-source: "https://sachhiem.net/TONGIAO/tgTR/TranAnhSang_03.php"
+source: "/TONGIAO/tgTR/TranAnhSang_03"
 category: "Chính trị"
 lang: vi
 wordCount: 941

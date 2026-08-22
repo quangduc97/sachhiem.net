@@ -3,7 +3,7 @@ layout: ../../../layouts/Article.astro
 title: "Họa sĩ “tâm linh” Vi Vi đã vẽ “Phật” như thế nào?"
 author: "Minh Thạnh"
 date: 2012-01-19
-source: "https://sachhiem.net/TONGIAO/tgM/MinhThanh08.php"
+source: "/TONGIAO/tgM/MinhThanh08"
 category: "Tác giả"
 lang: vi
 wordCount: 1484

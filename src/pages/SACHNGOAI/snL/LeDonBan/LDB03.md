@@ -2,16 +2,16 @@
 layout: ../../../../layouts/Article.astro
 title: "Sự Rỗng Không Của Thần Học"
 author: "Lê Dọn Bàn"
-source: "https://sachhiem.net/SACHNGOAI/snL/LeDonBan/LDB03.php"
+source: "/SACHNGOAI/snL/LeDonBan/LDB03"
 category: "Tác giả"
 lang: vi
 wordCount: 1340
-image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nha.jpg"
+image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/SACHNGOAI/Hinhanh/PEOPLE/BertrandRussell1.jpg"
 ---
 
 <table border="0" cellpadding="0" width="250" align="center">
 	<tbody><tr>
-		<td width="100"><a href="/index"><img border="0" src="https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nha.jpg"></a></td>
+		<td width="100"></td>
 						<td valign="top" width="210">	<p>13 tháng 7, 2010</p></td>
 					</tr>
 				</tbody></table>

@@ -3,7 +3,7 @@ layout: ../../../layouts/Article.astro
 title: "Hồ sơ JFK mật mới được công bố tiết lộ người ám sát Tổng thống, Gary Underhill, Joe Biden, và sự tham gia của CIA."
 author: "SH sưu tầm"
 date: 2025-03-20
-source: "https://sachhiem.net/SACHNGOAI/SH/SH75_JFK.php"
+source: "/SACHNGOAI/SH/SH75_JFK"
 category: "Chính trị"
 lang: vi
 wordCount: 2827

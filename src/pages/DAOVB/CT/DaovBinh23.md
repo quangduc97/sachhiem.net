@@ -3,7 +3,7 @@ layout: ../../../layouts/Article.astro
 title: "Nhật Ký Biển Đông:"
 author: "Đào Văn Bình"
 date: 2014-09-02
-source: "https://sachhiem.net/DAOVB/CT/DaovBinh23.php"
+source: "/DAOVB/CT/DaovBinh23"
 category: "Chính trị"
 lang: vi
 wordCount: 3546

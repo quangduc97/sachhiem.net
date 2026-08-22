@@ -2,19 +2,18 @@
 layout: ../../layouts/Article.astro
 title: "PAKISTAN OH! PAKISTAN!"
 author: "Anthony Darlic"
-source: "https://sachhiem.net/HOANGNN/Hoang00_2.php"
+source: "/HOANGNN/Hoang00_2"
 category: "Chính trị"
 lang: en
 wordCount: 2373
-image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nha.jpg"
+image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/HOANGNN/Hinh/Bhutto_Pakistan.jpg"
 ---
 
 <center>
 
 </center>
  
-<p align="center"><a href="https://www.sachhiem.net/">
-	<img border="0" src="https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nha.jpg"></a>đăng ngày 11 tháng 
+<p align="center">đăng ngày 11 tháng 
 11, 2007
 </p>
 

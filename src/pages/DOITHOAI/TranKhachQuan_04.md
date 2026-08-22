@@ -3,7 +3,7 @@ layout: ../../layouts/Article.astro
 title: "Vài Điều Về Một Bài Viết Của Ông Lữ Giang"
 author: "Trần Khách Quan"
 date: 2015-08-11
-source: "https://sachhiem.net/DOITHOAI/TranKhachQuan_04.php"
+source: "/DOITHOAI/TranKhachQuan_04"
 category: "Chính trị"
 lang: vi
 wordCount: 4461
@@ -12,7 +12,7 @@ image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/LICHSU/IMG/NGODD/Ngo
 
 <div class="tomluoc">
     <p><i> LTS: Con chiên Lữ Giang đã mượn một hòn đá  bắn hai con chim.  Tuy không chú trọng nhiều đến nội dung của cuộc thảm sát Mậu Thân, nhưng ông LG mượn một bài của bà Elje Vannema, chẳng ai biết tiếng tăm gì ráo, đổ tội hoàn toàn cho quân đội giải phóng để chà đạp ông Hoàng Phủ Ngọc Tường nhân có cơ hội "may mắn" của một người nào đó mang ảnh của HPNT lên mạng. Thật là tư cách đáng "quí" của một thẩm phán quân lực VNCH! </i></p>
-    <p><i>Có hai hình ảnh dễ nhớ  mà tín đồ Ca-tô Việt Nam cần phải tạc dạ ghi lòng, và uốn lưỡi "bảy mươi bảy lần bảy" trước khi mở miệng dạy người khác về "nhân quả". Đầu tiên là  Chúa Jesus, <b>chết thảm khốc</b> thế nào, chiên có biêt chăng? Bỏ qua danh sách các giáo hoàng <b>chết nhục nhã </b>vì những lý do đáng xấu hổ thế nào đã được kể trong bài <a href="https://sachhiem.net/NMQ/NMQ52_NHVg.php">"Đọc 'Gieo Gió Thì Gặt Bão'..."</a> (Nguyễn Mạnh Quang),  cái <b>chết thê thảm </b>đáng nhớ kế tiếp là của anh em Ngô Đình Diệm, Ngô Đình Nhu, và nhiều người trong gia tộc họ Ngô nữa. Chỉ bao nhiêu thôi cũng đủ cho các con chiên Việt đấm ngực ăn năn cho đến khi ... hồn và xác sống lại nghe Thiên Chúa phán trong ngày Tận Thế (sic!) - SH </i></p>
+    <p><i>Có hai hình ảnh dễ nhớ  mà tín đồ Ca-tô Việt Nam cần phải tạc dạ ghi lòng, và uốn lưỡi "bảy mươi bảy lần bảy" trước khi mở miệng dạy người khác về "nhân quả". Đầu tiên là  Chúa Jesus, <b>chết thảm khốc</b> thế nào, chiên có biêt chăng? Bỏ qua danh sách các giáo hoàng <b>chết nhục nhã </b>vì những lý do đáng xấu hổ thế nào đã được kể trong bài <a href="/NMQ/NMQ52_NHVg">"Đọc 'Gieo Gió Thì Gặt Bão'..."</a> (Nguyễn Mạnh Quang),  cái <b>chết thê thảm </b>đáng nhớ kế tiếp là của anh em Ngô Đình Diệm, Ngô Đình Nhu, và nhiều người trong gia tộc họ Ngô nữa. Chỉ bao nhiêu thôi cũng đủ cho các con chiên Việt đấm ngực ăn năn cho đến khi ... hồn và xác sống lại nghe Thiên Chúa phán trong ngày Tận Thế (sic!) - SH </i></p>
    </div>
     
     <p align="center"><img src="https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/LICHSU/IMG/NGODD/NgoDDchet.jpg" alt="Ngô đình diệm chết" width="251" height="201"><img src="https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/LICHSU/IMG/NGODD/NgoDDchet2.jpg" alt="Ngô Đình Nhu chết" width="148" height="189"></p>
@@ -59,10 +59,10 @@ image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/LICHSU/IMG/NGODD/Ngo
  <p class="TacgiaL">Khách  Quan </p>
 <p>_________________________ </p>
 <p><b>Bài đọc thêm:</b></p>
-<p>-  <a href="https://sachhiem.net/LICHSU/T/TamDat.php">Chứng Nhân:
+<p>-  <a href="/LICHSU/T/TamDat">Chứng Nhân:
 Mậu Thân-Hố Chôn Tập Thể - Hậu Mậu Thân Huế 68</a> (Tâm Đạt Trần Thông)</p>
-<p>- <a href="https://sachhiem.net/index.php?content=showrecipe&amp;id=417">Chuyện Hoang Đường Vụ Thảm Sát Ở Huế 68 - The Myth Of The Hue Massacre 68</a> - By Noam Chomsky and Edward S. Herman -Lê Hồng Phong dịch </p>
-<p>- <a href="https://sachhiem.net/DOITHOAI/TranKhachQuan_04a.php">Đối thoại tiếp: Hit and Run - Ông LG Ném Đá và Chạy </a></p>
+<p>- <a href="/SACHNGOAI/snL/LeHongPhong">Chuyện Hoang Đường Vụ Thảm Sát Ở Huế 68 - The Myth Of The Hue Massacre 68</a> - By Noam Chomsky and Edward S. Herman -Lê Hồng Phong dịch </p>
+<p>- <a href="/DOITHOAI/TranKhachQuan_04a">Đối thoại tiếp: Hit and Run - Ông LG Ném Đá và Chạy </a></p>
 <p>_________________________</p>
 <div class="Gry">
   <p class="MUC">Phụ Đính </p>

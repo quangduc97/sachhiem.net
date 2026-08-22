@@ -2,7 +2,7 @@
 layout: ../../../layouts/Article.astro
 title: "“Tượng Đài Alexandre De Rhodes”:"
 author: "Trần Điều"
-source: "https://sachhiem.net/nguồn: https://huongsenviet.blogspot.com/2009/07/tuong-ai-alexandre-de-rhodes-ai-se-la_18.html"
+source: "/nguồn: https://huongsenviet.blogspot.com/2009/07/tuong-ai-alexandre-de-rhodes-ai-se-la_18.html"
 category: "Lịch sử"
 lang: vi
 wordCount: 4045

@@ -3,7 +3,7 @@ layout: ../../../layouts/Article.astro
 title: "[VATICANOLOGY] Ky Tô Hữu Lại Giết Nhau -"
 author: "Minh Thạnh"
 date: 2022-03-20
-source: "https://sachhiem.net/TONGIAO/tgM/MinhThanh25.php"
+source: "/TONGIAO/tgM/MinhThanh25"
 category: "Chính trị"
 lang: vi
 wordCount: 1847
@@ -76,4 +76,4 @@ image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/THOISU_CT/Hinh/UKRAI
  <p>Chiến tranh Nga-Ukraine liên quan đến tôn giáo như thế nào. (<a spellcheck="false" href="https://www.youtube.com/channel/UCAkwohWAU0BD-u4PUpXO8wQ" dir="auto">CÔNG GIÁO-HIỆP THÔNG-CHIA SẺ *Ca Đoàn Cecilia Perth</a>)</p>
  <p><iframe width="320" height="180" src="https://www.youtube.com/embed/N5D7W6JgGBQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe></p>
  
-<p><a href="https://sachhiem.net/TONGIAO/tgM/ListMTh.inc.php">Các bài viết của tác giả Minh Thạnh</a></p>
+<p><a href="/TONGIAO/tgM/ListMTh.inc">Các bài viết của tác giả Minh Thạnh</a></p>

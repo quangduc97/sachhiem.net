@@ -2,7 +2,7 @@
 layout: ../../../layouts/Article.astro
 title: "Tình hình Phật Giáo Triều Tiên hiện nay"
 author: "Trần Trúc-Lâm"
-source: "https://sachhiem.net/null"
+source: "/null"
 category: "Tác giả"
 lang: vi
 wordCount: 1574

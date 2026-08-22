@@ -3,7 +3,7 @@ layout: ../../../layouts/Article.astro
 title: "Có Phải Giáo Hoàng Đang Đùa Giỡn Với Dị Giáo?"
 author: "Pat Buchanan/ Ri Nguyễn lược dịch"
 date: 2015-10-12
-source: "https://sachhiem.net/TONGIAO/tgN/NguyenRi_17.php"
+source: "/TONGIAO/tgN/NguyenRi_17"
 category: "Tác giả"
 lang: vi
 wordCount: 1335
@@ -53,4 +53,4 @@ image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/SACHNGOAI/Hinhanh/PE
 
 <hr> <p><b>Is the Pope Toying with Heresy</b>?</p> <p>By Pat Buchanan October 27, 2015 3:00 AM </p>  <p>Nguồn: <a href="https://news.yahoo.com/pope-toying-heresy-070000564.html">https://news.yahoo.com/pope-toying-heresy-070000564.html</a></p><p>________________ </p><p>Các bài của Nguyễn Ri: link</p>
 <p>
-<a href="https://sachhiem.net/TONGIAO/tgN/ListRiNguyen.inc.php" target="_blank">https://sachhiem.net/TONGIAO/tgN/ListRiNguyen.inc.php</a></p>
+<a href="/TONGIAO/tgN/ListRiNguyen.inc" target="_blank">https://sachhiem.net/TONGIAO/tgN/ListRiNguyen.inc.php</a></p>

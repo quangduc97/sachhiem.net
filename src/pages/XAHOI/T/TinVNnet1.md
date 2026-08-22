@@ -6,7 +6,7 @@ source: "https://www.vietnamnet.vn/thuhanoi/2009/06/852422/"
 category: "Chính trị"
 lang: vi
 wordCount: 2678
-image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nha.jpg"
+image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/IMG/ConCho.jpg"
 ---
 
 <div align="center">
@@ -20,7 +20,7 @@ image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nha.jpg"
 <tr><td bgcolor="#FEFEFE" width="100%">
 <div style="padding-left: 50px; padding-right: 50px"> 
 	<table border="0" cellpadding="1" width="80%" cols="2"><tbody><tr>
-	<td><a href="https://www.sachhiem.net/"><img border="0" src="https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nha.jpg"></a></td>
+	<td></td>
 	<td valign="top" width="195"> 
 	<p>19 tháng 6, 2009</p></td></tr></tbody></table>
 	

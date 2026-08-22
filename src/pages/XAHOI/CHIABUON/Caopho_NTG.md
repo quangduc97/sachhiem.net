@@ -2,7 +2,7 @@
 layout: ../../../layouts/Article.astro
 title: "CÁO PHÓ"
 author: "Bác sĩ Nguyễn Thanh Giản"
-source: "https://sachhiem.net/null"
+source: "/null"
 lang: vi
 wordCount: 302
 image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/ChiaBuon/Decor2.jpg"

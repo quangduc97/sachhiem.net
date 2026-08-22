@@ -3,7 +3,7 @@ layout: ../../../layouts/Article.astro
 title: "Kẻ Thù Số 1 Của Công Giáo La Mã"
 author: "FB Lê Anh Tuấn"
 date: 2018-12-08
-source: "https://sachhiem.net/TTS/TG/LATtg1.php"
+source: "/TTS/TG/LATtg1"
 category: "Tác giả"
 lang: vi
 wordCount: 1574
@@ -56,4 +56,4 @@ Xã Hiệp Phước, Huyện Nhà Bè, Sài Gòn]<br></p>
 
 <p>____________</p>
 <p><b>Bài đọc thêm:</b></p>
-<p><a href="https://sachhiem.net/TCN/TCNtg/TCN59.php">- Hãy Tạ Ơn Chúa !</a> (Trần Chung Ngọc)</p>
+<p><a href="/TCN/TCNtg/TCN59">- Hãy Tạ Ơn Chúa !</a> (Trần Chung Ngọc)</p>

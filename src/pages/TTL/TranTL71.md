@@ -51,7 +51,7 @@ image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/TONGIAO/IMG/VATICAN/
  <p>- <a href="https://www.cruxnow.com/church/2016/02/07/what-new-catholic-bishops-are-and-arent-being-told-on-sex-abuse/">cruxnow.com: What new Catholic bishops are, and aren’t, being told on sex abuse</a></p>
  <p>- <a href="https://www.theguardian.com/world/2016/feb/10/catholic-bishops-not-obliged-report-clerical-child-abuse-vatican-says">theguardian.com: Catholic bishops not obliged to report clerical child abuse, Vatican says</a></p>
  <hr>
-<p><a href="https://sachhiem.net/TTL/List.inc.php">Các bài của Trần Tiên Long » </a></p>
+<p><a href="/TTL/List.inc">Các bài của Trần Tiên Long » </a></p>
 <div align="center"><div class="fb-share-button" data-layout="button" data-size="large" data-actiob="like" data-show-faces="true" data-share="true" data-mobile-iframe="true"></div>
 </div>
 

@@ -3,18 +3,17 @@ layout: ../../layouts/Article.astro
 title: "Bước Mở Đầu Của Sự Thiết Lập Hệ Thống Thuộc Địa Pháp Ở Việt Nam"
 author: "TS Nguyễn Xuân Thọ"
 date: 2023-02-13
-source: "https://sachhiem.net/NGXUANTHO/BuocMoDau_03.php"
+source: "/NGXUANTHO/BuocMoDau_03"
 category: "Lịch sử"
 lang: vi
 wordCount: 16253
-image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nha.jpg"
+image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/LICHSU/IMG/PHAPTHUOC/LouisCharlesdeMontigny_1805–1868.JPG"
 ---
 
 <p class="Tuaduoi"> Pháp - Tây Ban Nha Đánh Chiếm Nam Kỳ</p>
 
 
-  <p align="center"><a href="https://www.sachhiem.net/">
-<img border="0" src="https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nha.jpg"></a>| <a target="_blank" href="https://sachhiem.net/NGXUANTHO/BuocMoDau_Main.php"><span lang="en-us"><b><font face="Symbol">¿</font></b></span> trở ra mục lục</a>| 13-Feb-2023</p>
+  <p align="center">| <a target="_blank" href="/NGXUANTHO/BuocMoDau_Main"><span lang="en-us"><b><font face="Symbol">¿</font></b></span> trở ra mục lục</a>| 13-Feb-2023</p>
    
 <p class="TuaDoLeft"><b>Chương 2&nbsp;- Cuộc Viễn Chinh Pháp - Tây Ban Nha Đánh Chiếm Nam Kỳ</b></p>
 <p><strong>(1858-1862)</strong></p>

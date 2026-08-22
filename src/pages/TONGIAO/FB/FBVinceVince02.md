@@ -3,15 +3,14 @@ layout: ../../../layouts/Article.astro
 title: "Virus Corona Chứng Minh Thần Ki-Tô Giáo Không Tồn Tại!"
 author: "DAN BARKER/Vince Vince"
 date: 2020-08-29
-source: "https://sachhiem.net/TONGIAO/FB/FBVinceVince02.php"
+source: "/TONGIAO/FB/FBVinceVince02"
 category: "Tác giả"
 lang: vi
 wordCount: 3411
-image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nha.jpg"
+image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/TONGIAO/IMG/CORONA/Bieudotangtruong.png"
 ---
 
-<p align="center"><a href="https://www.sachhiem.net/">
-<img border="0" src="https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nha.jpg"></a> 23 tháng 4, 2020 (29-Aug-2020)</p>
+<p align="center"> 23 tháng 4, 2020 (29-Aug-2020)</p>
  <div class="tomluoc">
    <p><i>Thay vì một Ngày Cầu nguyện Quốc gia,  những người ngoan cố tiếp tục tin vào vị thần trong Kinh thánh nên tuyên bố một <b>Ngày Toàn quốc Nghe Chúa Nguyền Rủa</b>. Thần của họ đã tạo ra virus và sẽ không làm gì để ngăn chặn nó.</i></p>
  </div>

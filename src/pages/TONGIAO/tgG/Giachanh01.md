@@ -3,7 +3,7 @@ layout: ../../../layouts/Article.astro
 title: "Không bao giờ có quyền lợi dân tộc nếu xuất phát từ Hội Đồng Giám Mục Việt nam"
 author: "Giác Hạnh"
 date: 2013-10-13
-source: "https://sachhiem.net/index.php?content=showemail&id=420"
+source: "/net/TONGIAO/tgG/Giachanh01"
 category: "Tác giả"
 lang: vi
 wordCount: 1271

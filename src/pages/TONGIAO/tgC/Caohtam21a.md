@@ -3,7 +3,7 @@ layout: ../../../layouts/Article.astro
 title: "Sài Gòn Nhỏ - Vụ Án Lớn"
 author: "Cao Hữu Tâm"
 date: 2015-01-16
-source: "https://sachhiem.net/TONGIAO/tgC/Caohtam21a.php"
+source: "/TONGIAO/tgC/Caohtam21a"
 category: "Tác giả"
 lang: vi
 wordCount: 2994
@@ -123,7 +123,7 @@ To: lugiang2003@yahoo.com</i> 	</p>
 
 <p> _________________________</p>
 <p><b>Bài liên hệ:</b></p>
-<p>- <a href="https://sachhiem.net/TONGIAO/tgC/Caohtam08.php">Bài góp ý về Bản Lên Tíêng số 3 của báo Saigon Nhỏ - Sự Thật Mất Lòng</a>  </p>
+<p>- <a href="/TONGIAO/tgC/Caohtam08">Bài góp ý về Bản Lên Tíêng số 3 của báo Saigon Nhỏ - Sự Thật Mất Lòng</a>  </p>
  <p>- <a href="/TONGIAO/tgC/Caohtam21">Người Việt Hải Ngoại - Chia Rẽ, Bế Tắc, Bài Học Đắt Giá </a>(Cao Hữu Tâm)</p>
 
 

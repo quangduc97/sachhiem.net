@@ -3,7 +3,7 @@ layout: ../../../layouts/Article.astro
 title: "Công Giáo ở Bỉ Phản Ứng Về Những Lời Phê Phán Của Giáo Hoàng Francis"
 author: "FB Lê Hải Nam"
 date: 2025-01-11
-source: "https://sachhiem.net/SACHNGOAI/FB/FBLeHaiNam.php"
+source: "/SACHNGOAI/FB/FBLeHaiNam"
 category: "Chính trị"
 lang: vi
 wordCount: 1089

@@ -3,7 +3,7 @@ layout: ../../layouts/Article.astro
 title: "Phân Biệt Chúa Nguyễn, Vua Nguyễn và Nhà/Triều Nguyễn"
 author: "Nguyễn Minh Tâm /TTT"
 date: 2017-02-26
-source: "https://sachhiem.net/DOITHOAI/NguyenMinhTam.php"
+source: "/DOITHOAI/NguyenMinhTam"
 category: "Tác giả"
 lang: vi
 wordCount: 4861

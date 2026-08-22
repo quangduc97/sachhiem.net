@@ -3,7 +3,7 @@ layout: ../../../layouts/Article.astro
 title: "Đọc Bài Viết Của Ông Bùi Tín Về Tướng Võ Nguyên Giáp"
 author: "Trần Quang Diệu"
 date: 2013-10-10
-source: "https://sachhiem.net/LICHSU/TR/TQD31_buitin.php"
+source: "/LICHSU/TR/TQD31_buitin"
 category: "Đối thoại"
 lang: vi
 wordCount: 4572

@@ -3,16 +3,15 @@ layout: ../../layouts/Article.astro
 title: "Tư Sản Ba Tàu Tự Sự"
 author: "Xích Lô Việt"
 date: 2012-04-07
-source: "https://sachhiem.net/XICHLOV/XichloViet08.php"
+source: "/XICHLOV/XichloViet08"
 category: "Đối thoại"
 lang: vi
 wordCount: 3913
-image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nha.jpg"
+image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/XAHOI/IMG/BaTau.jpg"
 ---
 
 <table border="0" align="center" cellpadding="1" width="250"><tbody><tr>
-	<td width="234"><a href="https://www.sachhiem.net/">
-	<img border="0" src="https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nha.jpg"></a></td>
+	<td width="234"></td>
 <td valign="top" width="356">	</td></tr></tbody></table>
  <p align="center"><img src="https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/XAHOI/IMG/BaTau.jpg" width="150" height="134"></p>
       <p><span class="First">K</span>hông biết xuất phát từ đâu và từ bao giờ, người VN gọi chúng ta là
@@ -286,4 +285,4 @@ image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nha.jpg"
         ta chỉ có một tổ quốc Trung Hoa vĩ đại </b>và đó chính là niềm tự hào của dân tộc chúng ta.<img src="https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/sqdot.gif" width="10" height="10"></p>
  
  	<p class="nguonL"><a href="https://xichloviet.wordpress.com/2012/02/25/c%e1%bb%9d-vang-mach-bu/"> Nguồn https://xichloviet.wordpress.com/ 05.04.2012</a></p>
- 	<p class="nguonL">Đăng lần thứ hai: <a href="https://sachhiem.net/VANHOC/ArjenNguyen.php">40 Năm Hải Ngoại Được Mất Những Gì?</a></p>
+ 	<p class="nguonL">Đăng lần thứ hai: <a href="/VANHOC/ArjenNguyen">40 Năm Hải Ngoại Được Mất Những Gì?</a></p>

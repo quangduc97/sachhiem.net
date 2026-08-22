@@ -3,7 +3,7 @@ layout: ../../../layouts/Article.astro
 title: "Di Sản Đại Sư Trí Quang Để Lại Cho Việt Nam (1)"
 author: "Thích Nhật Từ"
 date: 2019-11-30
-source: "https://sachhiem.net/TONGIAO/tgTH/ThichNhatTu03.php"
+source: "/TONGIAO/tgTH/ThichNhatTu03"
 category: "Chính trị"
 lang: vi
 wordCount: 20983

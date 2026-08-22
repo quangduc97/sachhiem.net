@@ -3,7 +3,7 @@ layout: ../../../layouts/Article.astro
 title: "Một Số Từ Anh-Việt Đối Chiếu"
 author: "Đào Văn Bình"
 date: 2013-03-16
-source: "https://sachhiem.net/DAOVB/VH/DaovBinh_AnhViet.php"
+source: "/DAOVB/VH/DaovBinh_AnhViet"
 category: "Văn hóa"
 lang: vi
 wordCount: 2557
@@ -11,7 +11,7 @@ image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/DAOVB/VH/ngongumoi.j
 ---
 
 <p><i>LTS: Bài viết sau đây của tác giả Đào Văn Bình có nhã ý giúp đỡ thế hệ hiện tại bước đi vững vàng trong thời kỳ tiếp xúc, sinh hoạt, hay hợp tác kinh doanh với Âu Mỹ, mà vẫn giữ được ngôn ngữ của người Việt.  Đây là  những nhịp cầu thực dụng cần thiết. Dùng nó để giúp bổ túc ngôn ngữ Việt trong lúc những quyển tự điển chưa kịp đáp ứng những nhu cầu mới trong thời đại tin học ngày nay. Xin cám ơn tác giả Đào Văn Bình. Dù sao, đây cũng là nỗ lực của một cá nhân. Xin quí vị có kiến thức chuyên môn về từ ngữ trong lãnh vực của mình đóng góp thêm ý kiến và bổ túc để công việc Việt hóa được tốt đẹp. Thư về hộp thư sachhiem@sachhiem.net để chuyển. </i></p>
-     <p><i>Xem bài bổ túc viết sau: <a href="https://sachhiem.net/DAOVB/VH/DaovBinh_AnhViet1.php">"Tiếng Việt Có Nguy Cơ Bị Biến Dạng"</a>(SH)</i></p>
+     <p><i>Xem bài bổ túc viết sau: <a href="/DAOVB/VH/DaovBinh_AnhViet1">"Tiếng Việt Có Nguy Cơ Bị Biến Dạng"</a>(SH)</i></p>
      <hr>
      <p><span class="First">D</span>o   sự du nhập quá nhanh của văn hóa Mỹ vào Việt Nam qua tạp chí, phim ảnh, quảng   cáo thương mại, ca nhạc, các chương trình giải trí cùng số lượng đông đảo người   Việt từ Mỹ về thăm quê hương, làm ăn buôn bán... tiếng Việt có nguy cơ bị biến   dạng. Sở dĩ tiếng Việt bị xâm hại là vì nó được dùng chen vào những từ Mỹ - mà   những từ này đều có thể phiên dịch sang Việt Ngữ bằng những tiếng tương đương.   Khi đọc một đoạn văn lai căng, người đọc khó chịu, giống như đang ăn cơm mà cắn   phải hạt sạn khiến phải nhổ miếng cơm ra. Tệ nạn này xảy ra khắp nơi, từ trong   nước tới hải ngoại, kể cả các trang báo điện tử Việt Ngữ lớn như BBC và VOA. Sở   dĩ có tệ nạn này là vì người viết hoặc người nói:
 </p>

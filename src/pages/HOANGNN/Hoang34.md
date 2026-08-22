@@ -3,7 +3,7 @@ layout: ../../layouts/Article.astro
 title: "Phật Giáo và Phật Đản 63"
 author: "Hoàng Nguyên Nhuận"
 date: 2013-05-02
-source: "https://sachhiem.net/HOANGNN/Hoang34.php"
+source: "/HOANGNN/Hoang34"
 category: "Tác giả"
 lang: vi
 wordCount: 3108

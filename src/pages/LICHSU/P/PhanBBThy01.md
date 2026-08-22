@@ -3,7 +3,7 @@ layout: ../../../layouts/Article.astro
 title: "Những Tội Ác Tày Trời Của \"Bạo Chúa Miền Trung\" Ngô Đình Cẩn"
 author: "Phan Bùi Bảo Thy / ANTG"
 date: 2013-04-21
-source: "https://sachhiem.net/LICHSU/P/PhanBBThy01.php"
+source: "/LICHSU/P/PhanBBThy01"
 category: "Tác giả"
 lang: vi
 wordCount: 2611

@@ -3,7 +3,7 @@ layout: ../../layouts/Article.astro
 title: "HÀ NỘI BỂ DÂU"
 author: "BS Nguyễn Văn Thịnh"
 date: 2017-11-11
-source: "https://sachhiem.net/NGVTHINH/NguyenvThinh_HNBDm.php"
+source: "/NGVTHINH/NguyenvThinh_HNBDm"
 category: "Văn hóa"
 lang: vi
 wordCount: 2866
@@ -46,7 +46,7 @@ Cầu chúc bạn sức khỏe để giữ&nbsp;  “Ngọn lửa không bao gi�
 <p>
    <b>* Email</b> trantonga421975@gmail.com: Cám ơn bạn Thịnh  đã viết một bài sâu sắc về con đường trần của chúng mình với những trùng hợp  thú vị. </p>
 <p>
-   <b>*Link&nbsp;&nbsp;&nbsp;&nbsp; </b><a href="https://sachhiem.net/NGVTHINH/NguyenvThinh18.php">https://sachhiem.net/NGVTHINH/NguyenvThinh__18.php</a>&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </p>
+   <b>*Link&nbsp;&nbsp;&nbsp;&nbsp; </b><a href="/NGVTHINH/NguyenvThinh18">https://sachhiem.net/NGVTHINH/NguyenvThinh__18.php</a>&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </p>
  <p><i>LTS: Đọc những tâm sự dưới đây của những người đi làm lịch sử, ta không  khỏi thở dài cho "tình đời bạc trắng như vôi". Đời nào cũng vậy, và  mỗi người cũng chỉ có một đời. Biết thế, nhưng vẫn có người tiếp tục chọn con  đường sống có phẩm giá đặt vào hai chữ nước nhà dù phải chịu gian khổ mà không  hề nghĩ đến có sự bạc bẽo về sau hay không. Trong lúc đó, một số người khác,  thà bạc bẽo với nợ nước, để không hề bị ai bạc bẽo đối với cuộc đời mình. Hai  chữ Việt Nam sống thọ đến ngày nay cũng nhờ dân ta có nhiều người chọn con  đường thứ nhất. Cám ơn tổ quốc Việt Nam.&nbsp;&nbsp;&nbsp; </i></p>
  <p align="center"><img src="https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/NGVTHINH/IMG/DuongTran.jpg" width="200" height="287" alt=""></p>
  <p align="center"><img src="https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/LICHSU/IMG/VNwar/Dacam/TranToNga_tpHCM_30Aug2017.jpg" width="400" height="266" alt=""></p>
@@ -106,4 +106,4 @@ Tố Nga hiện ở  Pháp và đang cùng các bạn Pháp, Việt đi tiếp c
 </center>
 
   
-<p>•  Các bài của Nguyễn Văn Thịnh: link <a href="https://sachhiem.net/NGVTHINH/ListNVTh.inc.php" target="_blank">https://sachhiem.net/NGVTHINH/ListNVTh.inc.php</a></p>
+<p>•  Các bài của Nguyễn Văn Thịnh: link <a href="/NGVTHINH/ListNVTh.inc" target="_blank">https://sachhiem.net/NGVTHINH/ListNVTh.inc.php</a></p>

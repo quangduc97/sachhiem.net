@@ -2,7 +2,7 @@
 layout: ../../../layouts/Article.astro
 title: "Các Nước Trên Thế Giới Nghĩ Gì Về Thuyết Tiến Hóa Của Darwin"
 author: "sưu tầm liên mạng"
-source: "https://sachhiem.net/Source: Economist.com 5/2/2009, giaodiemonline.com"
+source: "/Source: Economist.com 5/2/2009, giaodiemonline.com"
 category: "Chính trị"
 lang: vi
 wordCount: 396
@@ -38,7 +38,7 @@ image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nhacu.jpg"
 	<tbody><tr><td bgcolor="White" align="justify" valign="top">
 		
 			<table border="0" cellpadding="10" width="98%" cols="3"><tbody><tr>
-				<td><a href="https://sachhiem.net/">
+				<td><a href="/">
 				<img src="https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nhacu.jpg" border="0"></a></td>
 				<td valign="top"><a href="/THOISU_CT/#" onclick="location.href='https://sachhiem.net/BIA/sendafriend.php?url='+location.href;"><img src="https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/THOISU_CT/file:///C:/SACHHIEM/images/mail.gif" border="0"> 
 Gửi bài này cho bạn bè</a></td>

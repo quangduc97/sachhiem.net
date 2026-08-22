@@ -3,7 +3,7 @@ layout: ../../../layouts/Article.astro
 title: "HOẠT ĐỘNG VĂN HÓA CỦA TRƯƠNG VĨNH KÝ"
 author: "SH/ Hồng Điểu"
 date: 2024-02-16
-source: "https://sachhiem.net/LICHSU/H/HongDieu2024.php"
+source: "/LICHSU/H/HongDieu2024"
 category: "Lịch sử"
 lang: vi
 wordCount: 2976
@@ -11,7 +11,7 @@ image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/LICHSU/IMG/SACH/Cuon
 ---
 
 <div class="tomluoc">
-    <p><i>LTS: Bài viết này là mục số III trong bài "<a href="https://sachhiem.net/LICHSU/H/HongDieu.php">Những Ngộ Nhận Về Ông Trương Vĩnh Ký" cùng tác giả</a>, đã được đăng trên báo Nghệ An từ năm 2015. Hôm nay chúng tôi trích mục III ra đăng riêng để được chú ý hơn, nhất là để chống lại xu hướng muốn xóa tội những tên Việt gian đã đêm nước ta vào vòng nô lệ ngoại xâm cả trăm năm trước.</i> (SH)</p>
+    <p><i>LTS: Bài viết này là mục số III trong bài "<a href="/LICHSU/H/HongDieu">Những Ngộ Nhận Về Ông Trương Vĩnh Ký" cùng tác giả</a>, đã được đăng trên báo Nghệ An từ năm 2015. Hôm nay chúng tôi trích mục III ra đăng riêng để được chú ý hơn, nhất là để chống lại xu hướng muốn xóa tội những tên Việt gian đã đêm nước ta vào vòng nô lệ ngoại xâm cả trăm năm trước.</i> (SH)</p>
   </div>
   
 <p> Hoạt động văn hóa của Trương Vĩnh Ký cũng  không ra ngoài quỹ đạo của chính sách thực dân Pháp tại Việt Nam.</p>

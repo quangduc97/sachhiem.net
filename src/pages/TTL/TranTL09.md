@@ -6,7 +6,7 @@ source: "https://www.secularhumanism.org/index.php?section=library&page=underdow
 category: "Tác giả"
 lang: vi
 wordCount: 1991
-image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nha.jpg"
+image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/TONGIAO/IMG/BIBLE/VuonDiaDang.jpg"
 ---
 
 <div style="background-color: #E0E0E4"><p class="Tuaduoi">The Evolution of Thought </p>
@@ -16,7 +16,7 @@ image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nha.jpg"
 		
 	
 
-<p align="center"><a href="/index"><img hspace="20" border="0" src="https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nha.jpg"></a>   07 tháng 4, 2011</p>
+<p align="center">   07 tháng 4, 2011</p>
 		<p>
 		<i>
 		Kính thưa quí đọc giả,</i></p>

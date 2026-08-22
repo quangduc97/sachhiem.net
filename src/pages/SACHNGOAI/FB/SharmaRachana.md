@@ -3,7 +3,7 @@ layout: ../../../layouts/Article.astro
 title: "Trung Quôc Đặt Nghi Vấn Về Lịch Sử Văn Minh Phương Tây, Cuộc Chiến Định Hình Văn Hóa Đông Tây"
 author: "Sharma Rachana"
 date: 2023-11-23
-source: "https://sachhiem.net/SACHNGOAI/FB/SharmaRachana.php"
+source: "/SACHNGOAI/FB/SharmaRachana"
 category: "Chính trị"
 lang: vi
 wordCount: 498

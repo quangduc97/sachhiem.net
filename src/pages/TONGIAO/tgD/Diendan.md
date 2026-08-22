@@ -3,14 +3,14 @@ layout: ../../../layouts/Article.astro
 title: "Phản biện \"Lòng thù hận Thiên Chúa Giáo\" của tác giả Lữ Giang"
 author: "Diễn Đàn"
 date: 2014-08-10
-source: "https://sachhiem.net/TONGIAO/tgD/Diendan.php"
+source: "/TONGIAO/tgD/Diendan"
 category: "Chính trị"
 lang: vi
 wordCount: 4291
 image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/TONGIAO/IMG/VATICAN/INQUI/CGHS1.gif"
 ---
 
-<p><i>LTS: Tác giả Lữ Giang luôn tìm mọi cách xóa nhòa và lật ngược   giai đoạn lịch sử từ đen ra trắng của chế độ gia đình nhà Ngô, chỉ vì có liên hệ đến chương trình Ki-tô hóa  dân miền Nam, liên hệ  trực tiếp đến danh dự của Hội thánh Mẹ ở Vatican của ông. Ông nên biết rằng "lòng thù hận" không phải là đối với Thiên Chúa Giáo theo nghĩa tôn giáo chung chung, mà là có một "lòng thù hận" thực sự của thế giới, chứ không phải của riêng dân Việt Nam đối với Giáo Hội La Mã vì lịch sử tàn ác của giáo hội. Xin ông tìm hiểu lý do của "lòng thù hận" đó trong tập sách "Mối Ác Cảm Của Nhân Dân Thế Giới Đối Với Giáo Hội La Mã" của GS  Nguyễn Mạnh Quang</i> <a href="https://sachhiem.net/NMQ/MOIACCAM/MoiAcCam_Main.php">https://sachhiem.net/NMQ/MOIACCAM/MoiAcCam_Main.php</a>. <i>Ngoài ra còn có tác giả Duyên Sinh, gần đây có một loạt bài kê khai những lý do để người ta có ác cảm với giáo hội của ông: </i><a href="https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.devhttps://www.duyensinh.com/files/pdf/MUC_LUC.pdf">https://www.duyensinh.com/files/pdf/MUC_LUC.pdf</a><i>. Bài của Lữ Giang ở dưới cùng. Xin mời theo dõi các bài khác theo đây. (SH)</i></p>
+<p><i>LTS: Tác giả Lữ Giang luôn tìm mọi cách xóa nhòa và lật ngược   giai đoạn lịch sử từ đen ra trắng của chế độ gia đình nhà Ngô, chỉ vì có liên hệ đến chương trình Ki-tô hóa  dân miền Nam, liên hệ  trực tiếp đến danh dự của Hội thánh Mẹ ở Vatican của ông. Ông nên biết rằng "lòng thù hận" không phải là đối với Thiên Chúa Giáo theo nghĩa tôn giáo chung chung, mà là có một "lòng thù hận" thực sự của thế giới, chứ không phải của riêng dân Việt Nam đối với Giáo Hội La Mã vì lịch sử tàn ác của giáo hội. Xin ông tìm hiểu lý do của "lòng thù hận" đó trong tập sách "Mối Ác Cảm Của Nhân Dân Thế Giới Đối Với Giáo Hội La Mã" của GS  Nguyễn Mạnh Quang</i> <a href="/NMQ/MOIACCAM/MoiAcCam_Main">https://sachhiem.net/NMQ/MOIACCAM/MoiAcCam_Main.php</a>. <i>Ngoài ra còn có tác giả Duyên Sinh, gần đây có một loạt bài kê khai những lý do để người ta có ác cảm với giáo hội của ông: </i><a href="https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.devhttps://www.duyensinh.com/files/pdf/MUC_LUC.pdf">https://www.duyensinh.com/files/pdf/MUC_LUC.pdf</a><i>. Bài của Lữ Giang ở dưới cùng. Xin mời theo dõi các bài khác theo đây. (SH)</i></p>
   <hr>
   <p align="center"><img src="https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/TONGIAO/IMG/VATICAN/INQUI/CGHS1.gif" width="394" height="291"></p>
   <hr>
@@ -34,10 +34,10 @@ image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/TONGIAO/IMG/VATICAN/
   
 
 <p>
-    <a href="https://www.sachhiem.net/LICHSU/TR/TQD35_Lugiang.php" target="_blank">https://sachhiem.net/LICHSU/TR/TQD35_Lugiang.php</a></p>
+    <a href="/LICHSU/TR/TQD35_Lugiang" target="_blank">https://sachhiem.net/LICHSU/TR/TQD35_Lugiang.php</a></p>
 <p>________________________ </p>
 <p align="center"><img src="https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/TONGIAO/IMG/VATICAN/INQUI/Chief_Hatuey_Cuban.jpg" width="300" height="412"></p>
-<p align="center"><i>Chief Hatuey bị tòa án dị giáo của Giáo Hội Ca-tô thiêu sống. Xem bài <a href="https://sachhiem.net/index.php?content=showrecipe&amp;id=5747">Cái Chết của một Tôn Giáo Lớn</a> của Duyên Sinh</i></p>
+<p align="center"><i>Chief Hatuey bị tòa án dị giáo của Giáo Hội Ca-tô thiêu sống. Xem bài <a href="/LICHSU/D/Duyensinh03">Cái Chết của một Tôn Giáo Lớn</a> của Duyên Sinh</i></p>
   <p><i>From: DiendanDanToc@yahoogroups.com <br>
     Date: Fri, 8 Aug 2014 21:00:43 -0500 <br>
     Subject: [DiendanDanToc] PHẢN BIỆN "Lòng thù hận Thiên Chúa Giáo" CỦA TÁC GIẢ LỮ GIANG </i></p>
@@ -73,7 +73,7 @@ image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/TONGIAO/IMG/VATICAN/
 <p>
   <b>LÒNG HẬN THÙ BIỂU TƯỢNG SỰ TUYỆT VỌNG</b> </p>
 <p>
-  Sách báo được viết  để kích động lòng hận thù Thiên Giáo từ 1963 đến nay khó mà đếm hết được. Vào  các nhà sách trong và ngoài nước đều thấy tràn ngập. Hiện nay trên Internet, có  hai websites đã chính thức <b>xử dụng lòng hận thù Thiên Chúa Giáo và vọng ngữ như “<i>con đường giải thoát</i>”  của Phật Giáo,</b> đó là <a href="https://sachhiem.net/" target="_blank" shape="rect">sachhiem.net</a> và <a href="https://chuyenluan.org/" target="_blank" shape="rect">chuyenluan.org</a>.  Hầu hết các websites của Phật Giáo đều có tham gia vào trận chiến này. Hàng  ngày, số bài chống Thiên Chúa Giáo được chuyển đi trên các diễn đàn Internet Việt  ngữ không phải chỉ hàng chục mà có lúc đến hàng trăm lần: <i>Công Giáo hắc sử, Tội ác của  Công Giáo La Mã, Phải tiêu diệt Thiên Chúa Giáo, Nói về 7 núi tội ác của Công  Giáo, Sự thật về Tội ác Nhân Loại của Đạo Công Giáo và tội ác Diệt Chủng Nhân  loại của Tòa Thánh VATICAN, Công Giáo La Mã là một đặc sản văn hóa phi nhân  tính,</i> v.v. Dĩ nhiên, <b>đó chỉ là tiếng chó sủa trăng</b>, chẳng làm rụng được sợi chân lông của  ai, nhưng <b>nó biểu  tượng cho sự tuyệt vọng của những kẻ bị dồn vào đường cùng.</b> </p>
+  Sách báo được viết  để kích động lòng hận thù Thiên Giáo từ 1963 đến nay khó mà đếm hết được. Vào  các nhà sách trong và ngoài nước đều thấy tràn ngập. Hiện nay trên Internet, có  hai websites đã chính thức <b>xử dụng lòng hận thù Thiên Chúa Giáo và vọng ngữ như “<i>con đường giải thoát</i>”  của Phật Giáo,</b> đó là <a href="/" target="_blank" shape="rect">sachhiem.net</a> và <a href="https://chuyenluan.org/" target="_blank" shape="rect">chuyenluan.org</a>.  Hầu hết các websites của Phật Giáo đều có tham gia vào trận chiến này. Hàng  ngày, số bài chống Thiên Chúa Giáo được chuyển đi trên các diễn đàn Internet Việt  ngữ không phải chỉ hàng chục mà có lúc đến hàng trăm lần: <i>Công Giáo hắc sử, Tội ác của  Công Giáo La Mã, Phải tiêu diệt Thiên Chúa Giáo, Nói về 7 núi tội ác của Công  Giáo, Sự thật về Tội ác Nhân Loại của Đạo Công Giáo và tội ác Diệt Chủng Nhân  loại của Tòa Thánh VATICAN, Công Giáo La Mã là một đặc sản văn hóa phi nhân  tính,</i> v.v. Dĩ nhiên, <b>đó chỉ là tiếng chó sủa trăng</b>, chẳng làm rụng được sợi chân lông của  ai, nhưng <b>nó biểu  tượng cho sự tuyệt vọng của những kẻ bị dồn vào đường cùng.</b> </p>
 <p><b>CHỈ LÀ NHỔ RA  LIẾM LẠI!</b> </p>
 <p>  Phương pháp thông  dụng được nhóm Phật giáo đấu tranh xử dụng là <b>“<i>nhổ ra liếm lại</i>”</b> và coi đó là <b>“<i>bằng chứng lịch sử</i></b>”! Chúng đã biến<a href="https://wikipedia.org/" target="_blank" shape="rect"> wikipedia.org</a> thành một công cụ, đưa lên  những bài xuyên tạc lịch sử rồi trích dẫn lại và coi đó là tài liệu lịch sử  đáng tin cậy! Chúng tôi đã đưa một thí dụ cụ thể: </p>
 <p>

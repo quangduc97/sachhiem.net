@@ -3,7 +3,7 @@ layout: ../../layouts/Article.astro
 title: "Tôi là mục sư và tôi muốn bạn bỏ nhà thờ. Ngay bây giờ!"
 author: "By Chris Sonksen | Fox News"
 date: 2017-09-16
-source: "https://sachhiem.net/LTX/LythaiTG23.php"
+source: "/LTX/LythaiTG23"
 category: "Tác giả"
 lang: vi
 wordCount: 825

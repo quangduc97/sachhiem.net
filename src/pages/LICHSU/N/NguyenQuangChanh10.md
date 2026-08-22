@@ -3,7 +3,7 @@ layout: ../../../layouts/Article.astro
 title: "Cô Ba Định - Nữ Tướng Anh Hùng Trong Lòng Dân"
 author: "Nguyễn Quang Chánh"
 date: 2024-08-31
-source: "https://sachhiem.net/LICHSU/N/NguyenQuangChanh10.php"
+source: "/LICHSU/N/NguyenQuangChanh10"
 category: "Lịch sử"
 lang: vi
 wordCount: 1207

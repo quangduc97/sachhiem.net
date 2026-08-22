@@ -2,7 +2,7 @@
 layout: ../../../layouts/Article.astro
 title: "Vatican City:"
 author: "Sưu Tầm của Phán Tân"
-source: "https://sachhiem.net/null"
+source: "/null"
 lang: en
 wordCount: 680
 image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/SACHNGOAI/file:///C:/SACHHIEM/images/mail.gif"
@@ -259,7 +259,7 @@ Gửi bài này cho bạn bè</font></a></i></td>
 	</tbody></table></td></tr>
 
 <tr> 
-	<td align="center" valign="top" height="3" bgcolor="#FEFEDA" background="../../images/BGtopY.gif"> <center>  <a href="https://sachhiem.net/SNGOAIdir.php">
+	<td align="center" valign="top" height="3" bgcolor="#FEFEDA" background="../../images/BGtopY.gif"> <center>  <a href="/SNGOAIdir">
 	<img src="https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/MuclucButton.gif"> </a>  </center></td></tr>
 
 

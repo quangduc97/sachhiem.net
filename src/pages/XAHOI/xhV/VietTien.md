@@ -3,7 +3,7 @@ layout: ../../../layouts/Article.astro
 title: "Câu Chuyện Khó Tin Về Người Phụ Nữ Lấy Chồng Hàn Qua Môi Giới"
 author: "Việt Tiên"
 date: 2014-12-30
-source: "https://sachhiem.net/XAHOI/xhV/VietTien.php"
+source: "/XAHOI/xhV/VietTien"
 category: "Chính trị"
 lang: vi
 wordCount: 1407

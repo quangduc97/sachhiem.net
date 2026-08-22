@@ -2,16 +2,16 @@
 layout: ../../../layouts/Article.astro
 title: "Tại Sao Những Người Tin Chúa"
 author: "Trần Chung Ngọc"
-source: "https://sachhiem.net/TCN/TCNts/TCNts048.php"
+source: "/TCN/TCNts/TCNts048"
 category: "Chính trị"
 lang: vi
 wordCount: 14840
-image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.devhttps://sachhiem.net/images/nha.jpg"
+image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/THOISU_CT/Hinh/CCCB/chongcongcuongtin.jpg"
 ---
 
 <table border="0" align="center" width="250">
           <tbody><tr>
-            <td width="100"><a href="https://sachhiem.net/index.php"><img border="0" src="https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.devhttps://sachhiem.net/images/nha.jpg"></a></td>
+            <td width="100"></td>
 <td valign="top" width="178"><p>06 tháng 6,  2010</p></td></tr></tbody></table>
 
 	<p>
@@ -96,7 +96,7 @@ image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.devhttps://sachhiem.net/
 	<p>
 	 Câu van xin đừng lấy đi cái cặp nạng Thiên Chúa của 
 	những người tin Chúa ở trên cũng là tâm cảnh của ông Thiện Ý trong bài: 
-		<a href="https://sachhiem.net/EMAILS/emailN/NguyethiThanh.php">“NHẬN 
+		<a href="/EMAILS/emailN/NguyethiThanh">“NHẬN 
 	THỨC: TÔN GIÁO LÀ MỘT PHẠM TRÙ ĐỨC TIN VÀ LÀ MỘT DÂN QUYỀN HIẾN ĐỊNH CẦN 
 	ĐƯỢC PHÁP LUẬT BẢO VỆ”</a> (đăng ở 
 	https://sachhiem.net/EMAILS/emailN/NguyethiThanh.php) mà nội dung chủ 
@@ -212,7 +212,7 @@ image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.devhttps://sachhiem.net/
 	<p>	Trong bài <strong>
 	“Về Ba Ngôi Thiên Chúa - Một Khảo Luận Trong Ánh Sáng Của </strong><strong>Thánh 
 	Kinh Và Giáo Lý Công Giáo” </strong>
-	(<a href="https://www.sachhiem.net/TCN/TCNtg/3NGOI/TCN72.php">https://www.sachhiem.net/TCN/TCNtg/3NGOI/TCN72.php</a> ) tôi đã trích dẫn 
+	(<a href="/TCN/TCNtg/3NGOI/TCN72">https://www.sachhiem.net/TCN/TCNtg/3NGOI/TCN72.php</a> ) tôi đã trích dẫn 
 	những đoạn trong Cựu Ước để chứng minh nhận định của Richard Dawkins như 
 	trên là không sai.</p>
 	
@@ -1497,7 +1497,7 @@ image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.devhttps://sachhiem.net/
 	
 	<hr>
 	<p class="TuaDoLeft"><b>Bài cùng đề tài: </b></p>
-	<p>- <a href="https://sachhiem.net/TCN/TCNdt/TCNdt033.php">TÔI ĐỌC BÀI “NHẬN THỨC…” Của THIỆN Ý 
+	<p>- <a href="/TCN/TCNdt/TCNdt033">TÔI ĐỌC BÀI “NHẬN THỨC…” Của THIỆN Ý 
 	NGUYỄN VĂN THẮNG</a><br> https://sachhiem.net/TCN/TCNdt/TCNdt033.php</p>
 
     <hr>

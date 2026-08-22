@@ -2,15 +2,14 @@
 layout: ../../../layouts/Article.astro
 title: "NGUYỄN TRƯỜNG TỘ"
 author: "Nguyễn Xuân Phong"
-source: "https://sachhiem.net/LICHSU/N/NgXPhong.php"
+source: "/LICHSU/N/NgXPhong"
 category: "Lịch sử"
 lang: vi
 wordCount: 1426
-image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nha.jpg"
 ---
 
 <table border="0" cellpadding="1" align="center" width="250">
-        <tbody><tr><td width="100"><a href="/index"><img border="0" src="https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nha.jpg"></a></td>
+        <tbody><tr><td width="100"></td>
 	<td valign="top"><font color="#666666"><i><font size="2">10 tháng 1, 2008
 	</font></i></font>
 	</td></tr></tbody></table>

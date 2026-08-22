@@ -3,7 +3,7 @@ layout: ../../layouts/Article.astro
 title: "Còn Có Một Đời Sau?"
 author: "Trần Tiên Long"
 date: 2015-07-27
-source: "https://sachhiem.net/TTL/TTLkh07.php"
+source: "/TTL/TTLkh07"
 category: "Lịch sử"
 lang: vi
 wordCount: 6164
@@ -96,20 +96,20 @@ image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/TONGIAO/IMG/METIN/Sa
 <p>    [7] Scientists control mouse brain by remote control By Matthew Stock. Nguồn: <a href="https://news.yahoo.com/scientists-control-mouse-brain-remote-control-175421176.html">https://news.yahoo.com/scientists-control-mouse-brain-remote-control-175421176.html</a></p>
 <p>    [8] Human head transplant just two years away, surgeon  claims. Nguồn: <a href="https://www.cnet.com/news/human-head-transplant-just-two-years-away-surgeon-claims/">https://www.cnet.com/news/human-head-transplant-just-two-years-away-surgeon-claims/</a></p>
 <p>    [9] The Case Against Immortality by Keith Augustine, <a href="https://infidels.org/library/modern/keith_augustine/immortality.html#top">https://infidels.org/library/modern/keith_augustine/immortality.html#top</a></p>
-<p>    [10] Những Tiên Đoán  Sai Lầm Về Ngày Tận Thế by Trần Tiên Long, <a href="https://sachhiem.net/index.php?content=showrecipe&amp;id=5486">https://sachhiem.net/index.php?content=showrecipe&amp;id=5486</a></p>
+<p>    [10] Những Tiên Đoán  Sai Lầm Về Ngày Tận Thế by Trần Tiên Long, <a href="/TTL/TranTL35">https://sachhiem.net/index.php?content=showrecipe&amp;id=5486</a></p>
 <p>    [11] Life After Death: Examining the Evidence by Victor Stenger, <a href="https://www.huffingtonpost.com/victor-stenger/life-after-death-examinin_b_1428710.html">https://www.huffingtonpost.com/victor-stenger/life-after-death-examinin_b_1428710.html</a></p>
 <p> [12] Top 10 Psychic Debunkings, <a href="https://listverse.com/2008/04/10/top-10-psychic-debunkings/">https://listverse.com/2008/04/10/top-10-psychic-debunkings/</a></p>
-<p> [13] Vấn Đề Chứng Minh Thượng Đế by Trần Tiên  Long, <a href="https://sachhiem.net/index.php?content=showrecipe&amp;id=862">https://sachhiem.net/index.php?content=showrecipe&amp;id=862</a></p>
+<p> [13] Vấn Đề Chứng Minh Thượng Đế by Trần Tiên  Long, <a href="/TTL/TranTL05">https://sachhiem.net/index.php?content=showrecipe&amp;id=862</a></p>
  
  <p>_______________</p>
  <p><b>Các thư phản hồi:</b></p>
- <p>- <a href="https://sachhiem.net/index.php?content=showemail&amp;id=1029" target="_blank">Phản hồi bài "Còn Có Một Đời Sau?"</a> Huy Thai -Wissai</p>
-  <p>- <a href="https://sachhiem.net/index.php?content=showemail&amp;id=1030" target="_blank">Thêm phản hồi cho bài: "Còn Có Một Đời Sau?"</a>  Wissai2 </p>
- <p>- <a href="https://sachhiem.net/index.php?content=showemail&amp;id=1032" target="_blank">Thêm lần nữa - phản hồi cho bài: "Còn Có Một Đời Sau?"</a>- Mike Wilson</p>
- <p>- <a href="https://sachhiem.net/index.php?content=showemail&amp;id=1035">Ẩn số X của ông Chu Tất Tiến - Chiếc ô-tô có linh hồn không?</a> CTT - TTL - SH</p>
+ <p>- <a href="/TTL/TTLkh07" target="_blank">Phản hồi bài "Còn Có Một Đời Sau?"</a> Huy Thai -Wissai</p>
+  <p>- <a href="/net/index" target="_blank">Thêm phản hồi cho bài: "Còn Có Một Đời Sau?"</a>  Wissai2 </p>
+ <p>- <a href="/hop-thu/1032" target="_blank">Thêm lần nữa - phản hồi cho bài: "Còn Có Một Đời Sau?"</a>- Mike Wilson</p>
+ <p>- <a href="/TTL/TTLkh07">Ẩn số X của ông Chu Tất Tiến - Chiếc ô-tô có linh hồn không?</a> CTT - TTL - SH</p>
  
  <a href="/EMAILS/SH/Sachhiem40#thu_pbsh"></a>
  <hr>
-<p><a href="https://sachhiem.net/TTL/List.inc.php">Các bài của Trần Tiên Long » </a></p>
+<p><a href="/TTL/List.inc">Các bài của Trần Tiên Long » </a></p>
 
 <hr>

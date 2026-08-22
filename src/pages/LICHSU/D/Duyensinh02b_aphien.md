@@ -3,7 +3,7 @@ layout: ../../../layouts/Article.astro
 title: "Á Phiện, Bạch Phiến, Và Chiến Tranh Tôn Giáo Dưới Thời Diệm Và Thiệu Kỳ"
 author: "DuyênSinh"
 date: 2013-08-13
-source: "https://sachhiem.net/LICHSU/D/Duyensinh02_aphien.php"
+source: "/LICHSU/D/Duyensinh02_aphien"
 category: "Tác giả"
 lang: vi
 wordCount: 8523
@@ -16,7 +16,7 @@ wordCount: 8523
  - <a name="11" href="/LICHSU/#end11">11. Mafia Phăng Dò Đường Dây Bạch Phiến Tìm Đến Đông Nam Á</a><br>
  - <a name="12" href="/LICHSU/#end12">12. Chính Sách Đồng Lõa Của Đại Sứ Quán Mỹ</a><br>
  ... <br>
- <a href="https://sachhiem.net/LICHSU/D/Duyensinh02_aphien.php">1 </a>  <a href="https://sachhiem.net/LICHSU/D/Duyensinh02a_aphien.php">2</a> (&lt;= xem =&gt;)   <a href="https://sachhiem.net/LICHSU/D/Duyensinh02c_aphien.php"> 4</a>
+ <a href="/LICHSU/D/Duyensinh02_aphien">1 </a>  <a href="/LICHSU/D/Duyensinh02a_aphien">2</a> (&lt;= xem =&gt;)   <a href="/LICHSU/D/Duyensinh02c_aphien"> 4</a>
 </p></div>
 
 <p><a class="TuaDoLeft" name="end9" href="/LICHSU/#9"><b>9.Thủ Tướng Trần Thiện Khiêm Giành Lấy Đường Dây Bạch Phiến</b></a></p>
@@ -68,8 +68,8 @@ wordCount: 8523
 <p>Khi   số lượng quân đội Mỹ tại Việt Nam nhỏ dần và biến mất, người ta có một xu hướng   tự nhiên quên đi bệnh dịch bạch phiến. Nếu chính quyền Nixon không gặp cuộc trắc   trở Watergate, chính quyền đó đã có thể cố gắng giải quyết đoạn kết vấn đề bạch   phiến của chiến binh Mỹ, một vấn đề cần hoàn tất trước   nhất.</p>
 <p>Trở   lại người chiến binh “<i>nghiện</i>” trở về nhà mang mầm bệnh về cho cộng đồng   của họ vi trùng bạch phiến (virus heroin). Các phòng thí nghiệm “<i>Bạch Phiến   Golden Triangle</i>” đã cung cấp bạch phiến cho binh lính Mỹ tại Việt Nam từ   cuối năm 1969, đã không bị phá sản. Khi số lượng lính Mỹ giảm mạnh năm 1971,   Corsican và các tổ chức Trung Quốc bắt đầu vận chuyển bạch phiến Lào trực tiếp   đến Hoa Kỳ. Trong tháng 4.1971, Đại Sứ Lào tại Pháp bị bắt giữ tại Paris với 60   kg bạch phiến Double U-0 Globe chờ chuyên chở tới Hoa Kỳ. Ngày 11.11.1971, một   nhà ngoại giao Philippines và một thương gia Bangkok Trung Quốc đã bị bắt giữ   tại khách sạn Lexington, thành phố New York, với 15,5 kg bạch phiến Double U-0   Globe ngay sau khi họ đến từ Vientiane. Gần hai mươi năm qua, Phòng Ma Túy Mỹ   lập luận rằng chỉ có 5% nguồn cung cấp bạch phiến từ Đông Nam Á đến Mỹ, nhưng   trong tháng 11.1972, Phòng Ma Túy Mỹ tuyên bố khoảng 30% bạch phiến đến từ Đông   Nam Á.</p>
 
-<p><a href="https://sachhiem.net/LICHSU/D/Duyensinh02_aphien.php">1 </a>  <a href="https://sachhiem.net/LICHSU/D/Duyensinh02a_aphien.php">2</a> (&lt;= xem tiếp =&gt;) <a href="https://sachhiem.net/LICHSU/D/Duyensinh02b_aphien.php"></a> <a href="https://sachhiem.net/LICHSU/D/Duyensinh02c_aphien.php"> 4</a></p>
+<p><a href="/LICHSU/D/Duyensinh02_aphien">1 </a>  <a href="/LICHSU/D/Duyensinh02a_aphien">2</a> (&lt;= xem tiếp =&gt;) <a href="/LICHSU/D/Duyensinh02b_aphien"></a> <a href="/LICHSU/D/Duyensinh02c_aphien"> 4</a></p>
 <p class="nguonL">Nguồn <a href="https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.devhttps://www.duyensinh.com/files/DDDT/A_PHIEN_BACH_PHIEN_VA_CHIEN_TRANH_TON_GIAO_DUOI_THOI_DIEM_VA_THIEU-KY.pdf">https://www.duyensinh.com/files/DDDT/A_PHIEN_BACH_PHIEN_VA_CHIEN_TRANH_TON_GIAO_DUOI_THOI_DIEM_VA_THIEU-KY.pdf</a></p><hr>
 
 <p><b>Bài đọc thêm: </b></p>
-<p>- GHLM: Lịch Sử và Hồ Sơ Tộc Ác (Nguyễn Mạnh Quang)- Chương 91: Vân Nạn Buốn Bán Ma Túy: <a href="https://sachhiem.net/NMQ/HOSOTOIAC/CH91.php">https://sachhiem.net/NMQ/HOSOTOIAC/CH91.php</a></p>
+<p>- GHLM: Lịch Sử và Hồ Sơ Tộc Ác (Nguyễn Mạnh Quang)- Chương 91: Vân Nạn Buốn Bán Ma Túy: <a href="/NMQ/HOSOTOIAC/CH91">https://sachhiem.net/NMQ/HOSOTOIAC/CH91.php</a></p>

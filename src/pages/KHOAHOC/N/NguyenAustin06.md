@@ -3,7 +3,7 @@ layout: ../../../layouts/Article.astro
 title: "Chương 9: THỜI GIAN"
 author: "Paul Davies"
 date: 2011-11-19
-source: "https://sachhiem.net/null"
+source: "/null"
 category: "Tác giả"
 lang: vi
 wordCount: 8784

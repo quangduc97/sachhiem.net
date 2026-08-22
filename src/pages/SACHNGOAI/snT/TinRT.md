@@ -3,7 +3,7 @@ layout: ../../../layouts/Article.astro
 title: "Linh Mục Người Pháp Đập Vỡ Bức Tượng Chúa Giêsu, Vì \"Căng Thẳng Và Mệt Mỏi\""
 author: "Mariana Bazo / Reuters"
 date: 2015-11-29
-source: "https://sachhiem.net/SACHNGOAI/snT/TinRT.php"
+source: "/SACHNGOAI/snT/TinRT"
 category: "Chính trị"
 lang: vi
 wordCount: 718

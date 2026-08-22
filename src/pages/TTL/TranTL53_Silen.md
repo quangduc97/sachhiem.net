@@ -3,7 +3,7 @@ layout: ../../layouts/Article.astro
 title: "Luật Im Lặng “Code of Silence”"
 author: "Trần Tiên Long"
 date: 2014-07-12
-source: "https://sachhiem.net/TTL/TranTL53_Silen.php"
+source: "/TTL/TranTL53_Silen"
 category: "Lịch sử"
 lang: vi
 wordCount: 726

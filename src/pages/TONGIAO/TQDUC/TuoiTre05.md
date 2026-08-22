@@ -5,7 +5,7 @@ author: "Quốc Việt/Tuổi Trẻ"
 source: "https://tuoitre.vn/Chinh-tri-Xa-hoi/Phong-su-Ky-su/381971/Trai-tim-bat-tu---Ky-cuoi-Bi-mat-trai-tim-linh-thieng.html"
 lang: vi
 wordCount: 1530
-image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nha.jpg"
+image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/TONGIAO/IMG/traitim.jpg"
 ---
 
 <div align="center" style="position: relative; left: 0; top: 0">
@@ -22,8 +22,7 @@ image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nha.jpg"
 <tr><td bgcolor="#FEFEFE" width="100%">
 <div style="padding-left: 50px; padding-right: 50px"> 
 	<table border="0" cellpadding="10" width="85%" cols="2"><tbody><tr>
-	<td valign="top" width="198"><a href="/index">
-	<img border="0" src="https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nha.jpg"></a></td>
+	<td valign="top" width="198"></td>
 	<td valign="top" style="text-align:right"> 03 tháng 6, 2010</td></tr></tbody></table>
 	
 	<p class="nguonL">TT - Thứ Năm, 03/06/2010, 02:24 (GMT+7)</p>

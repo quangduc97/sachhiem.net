@@ -6,7 +6,7 @@ source: "https://www.spiegel.de/international/germany/0,1518,676497,00.html"
 category: "Tác giả"
 lang: vi
 wordCount: 1829
-image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nha.jpg"
+image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/IMG/TINHDUC/Daoducgia.jpg"
 ---
 
 <div align="center" style="position: relative; left: 0; top: 0">
@@ -24,8 +24,7 @@ image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nha.jpg"
 <tr><td width="100%">
 <div style="padding-left: 50px; padding-right: 50px"> 
 	<table border="0" cellpadding="1" width="87%" cols="2"><tbody><tr>
-	<td><a href="/index">
-	<img border="0" src="https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nha.jpg"></a></td>
+	<td></td>
 <td valign="top" width="232"><p> ngày 19 tháng 2, 2010 </p>	</td>
 							</tr>
 						</tbody></table>

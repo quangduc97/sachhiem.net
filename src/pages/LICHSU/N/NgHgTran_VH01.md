@@ -3,7 +3,7 @@ layout: ../../../layouts/Article.astro
 title: "Những Dòng Cảm Xúc Tiễn Đưa Cố Đại Tướng"
 author: "Thân Hữu của sachhiem.net"
 date: 2013-10-13
-source: "https://sachhiem.net/LICHSU/N/NgHgTran_VH01.php"
+source: "/LICHSU/N/NgHgTran_VH01"
 category: "Lịch sử"
 lang: vi
 wordCount: 711

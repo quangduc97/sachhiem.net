@@ -2,17 +2,17 @@
 layout: ../../layouts/Article.astro
 title: "LINH VẬT RỒNG TRONG Ý THỨC HỆ TIN LÀNH"
 author: "Hoàng Vũ"
-source: "https://sachhiem.net/DOITHOAI/HoangVu1.php"
+source: "/DOITHOAI/HoangVu1"
 category: "Đối thoại"
 lang: vi
 wordCount: 5910
-image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nha.jpg"
+image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/DOITHOAI/IMG/Vietnamese_dragon.gif"
 ---
 
 <p class="Tuaduoi">Kỷ niệm về cố GS Trần Chung Ngọc</p>
 		 
 
-<p align="center"><a href="https://sachhiem.net/index.php"> <img border="0" hspace="20" src="https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nha.jpg"></a> 
+<p align="center"> 
   07 tháng 9, 2009</p>
  <p><i>LTS: Một trong những bài viết gây hứng cảm cho bài viết "<a href="/DOITHOAI/BuiThucDinh">Góp ý với Gs Trần Chung Ngọc, ông Hoàng Vũ" của tác giả Bùi Thúc Định</a> là bài "Linh Vật Rồng Trong Ý Thức Hệ Tin Lành" của tác giả Hoàng Vũ. Bài này được đăng trong web giaodiem.com trong năm 2005 nhưng đã bị thất lạc.  Tác giả Hoàng Vũ vừa mới gửi lại  cho sachhiem.net. Tòa soạn xin được phép đăng lên để chia xẻ với bạn đọc một bài viết rất giá trị. Trong thời gian qua kể từ khi đọc bài viết này, không biết cái "mặt phẳng tâm linh" của TS Lê Anh Huy có con đường nào để trở về với dân tộc chưa, hay vẫn mãi là mặt phẳng song song với một đường thẳng, và chỉ có thể gặp nhau ở vô cực ? (SH)</i></p>
 		<hr>

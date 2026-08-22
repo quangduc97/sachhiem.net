@@ -3,15 +3,15 @@ layout: ../../../layouts/Article.astro
 title: "Ai chống giặc ? Ai theo giặc ?"
 author: "Trần Chung Ngọc"
 date: 2012-10-03
-source: "https://sachhiem.net/TCN/TCNdt/TCNdt064.php"
+source: "/TCN/TCNdt/TCNdt064.php"
 category: "Đối thoại"
 lang: vi
 wordCount: 10941
-image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nha.jpg"
+image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/CHARLIE/IMG/tonkin_eveque.jpg"
 ---
 
 <table border="0" width="250" align="center">
-    <tbody><tr><td width="100"><a href="https://sachhiem.net/index.php"><img border="0" src="https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nha.jpg"></a>    </td>   
+    <tbody><tr><td width="100">    </td>   
     <td width="257"></td>
     </tr></tbody></table>
     <p><i>LTS: Khi nhà giáo Nguyễn Mạnh Quang dùng cụm từ "Liên Quân Xâm Lược Pháp-Vatican" hay "Liên Quân Xâm Lược Mỹ -Vatican," thì có một số người không đồng ý, có lẽ vì chưa nghe ai nói như thế. Nhưng xét thực tế và bản chất của những "nhóm lực lượng" của
@@ -105,7 +105,7 @@ image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nha.jpg"
 
 <p><img src="https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/CHARLIE/IMG/tonkin_eveque.jpg" width="448" height="273"><img src="https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/CHARLIE/IMG/eveque.jpg" width="448" height="282"></p>
 <p><img src="https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/CHARLIE/IMG/tonkin_missionnaire.jpg" width="448" height="278"></p>
-<p><i>(SH: một vài hình ảnh của Hội Thừa Sai Paris trên lãnh thổ Việt Nam - ảnh lấy trong  <a href="https://sachhiem.net/CHARLIE/CN_TTDTG/Hoithuasai.php">Hồ
+<p><i>(SH: một vài hình ảnh của Hội Thừa Sai Paris trên lãnh thổ Việt Nam - ảnh lấy trong  <a href="/CHARLIE/CN_TTDTG/Hoithuasai">Hồ
     Sơ Tộc Ác của Hội Thừa Sai Paris và Giáo Hội Công Giáo Việt Nam trong lịch
     sử mất nước hồi cuối thế kỷ 19 của Charlie Nguyễn</a>)</i></p>
 
@@ -842,7 +842,7 @@ image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nha.jpg"
       bản chất cùng những sự kiện lịch sử của Ca-tô Rô-ma giáo, xuyên qua hàng
       núi tài liệu đã thành văn, kết quả nghiên cứu của rất nhiều học giả, giáo
       sư đại học chuyên ngành, <u>cùng một số bậc lãnh đạo trong Ki Tô Giáo</u>.&nbsp;
-      Và tôi đã chứng minh trên <a href="https://sachhiem.net/TCN/TCNtg/TCN115.php">https://giaodiemonline.com/2011/10/caidao2.htm</a> tất
+      Và tôi đã chứng minh trên <a href="/TCN/TCNtg/TCN115">https://giaodiemonline.com/2011/10/caidao2.htm</a> tất
       cả những thuộc tính này của Ca-tô Giáo là không sai.</p>
     <p>Về vấn đề đạo đức trong Ca-tô Giáo thì khỏi nói. Không có một tôn giáo
       nào trên thế gian mà có những bậc chăn chiên vô đạo đức như Giáo hội Ca-tô
@@ -850,12 +850,12 @@ image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nha.jpg"
       hoàng, đã phạm đủ mọi thứ tội, từ giết người, hoang dâm vô độ, loạn luân
       với mẹ và con, ấu dâm, ăn cắp, đồng giống luyến ái v…v…</p>
 <p>
-      Xin đọc chi tiết trên: <a href="https://sachhiem.net/TCN/TCNtg/TCN20.php">https://giaodiemonline.com/2007/06/duccha.htm</a></p>
+      Xin đọc chi tiết trên: <a href="/TCN/TCNtg/TCN20">https://giaodiemonline.com/2007/06/duccha.htm</a></p>
     <p> Còn trong giới linh mục, các “Chúa thứ hai”, thì chúng ta đã biết là
       nhiều vị đã đồi bại như thế nào, trong số này có cả các linh mục Việt Nam.&nbsp;
       Linh mục đã phạm tội hiếp dâm ngay cả chị em nữ tu của mình trên 27 quốc
       gia, và trên 5000 linh mục đã bị truy tố về tội cưỡng bức tình dục trẻ
-      em. Xin đọc tài liệu nghiên cứu trên: <a href="https://sachhiem.net/TCN/TCNtg/TCN97.php">https://giaodiemonline.com/2010/05/loandam.htm</a></p>
+      em. Xin đọc tài liệu nghiên cứu trên: <a href="/TCN/TCNtg/TCN97">https://giaodiemonline.com/2010/05/loandam.htm</a></p>
    <p><strong><u>Kết luận toàn bài</u></strong>: Viết bài “<i>Hành tung
         bí ẩn của một nhà sư</i>” để nói về Hòa Thượng Thích Minh Châu, Lữ Giang
         không ngờ kết quả là cho độc giả thấy: Ca-tô Giáo là Việt gian, bán

@@ -2,18 +2,18 @@
 layout: ../../../layouts/Article.astro
 title: "Johnson gọi Diệm là “Thằng Nhãi”"
 author: "Lê Xuân Nhuận"
-source: "https://sachhiem.net/LICHSU/LEXNHUAN/LeXNhuan05.php"
+source: "/LICHSU/LEXNHUAN/LeXNhuan05"
 category: "Lịch sử"
 lang: vi
 wordCount: 3495
-image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nha.jpg"
+image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/SACHNGOAI/Hinhanh/BIASACH/InRetrospect.jpg"
 ---
 
 <p class="Tuaduoi">-  Sai lầm và Gian xảo trong khi dịch để cố tình xuyên tạc lịch sử </p>
 
 
  
-     <p align="center"><a href="/index"><img hspace="20" border="0" src="https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nha.jpg"></a> &nbsp;&nbsp; 24 tháng 10, 2010 </p> 
+     <p align="center"> &nbsp;&nbsp; 24 tháng 10, 2010 </p> 
      
 <p><i>LTS: Sự thực là chính tình miền Nam Việt Nam trong cả hai thời Đệ Nhất và Đệ Nhị Cộng Hòa đã nằm trong bàn tay quyết định của Hoa Kỳ - Vatican. Đương nhiên khi họ chọn một lãnh đạo để làm việc cho họ thì việc đầu tiên là người đó phải là người dưới trướng của họ.  Đã có quyền lựa chọn một tay sai, thì người chủ muốn nựng cũng được, và muốn mắng lúc nào cũng được tùy hứng.&nbsp;Người lãnh đạo miền Nam đã ở trong điều kiện như thế thì tất cả nhân vật cấp dưới, từ quan quyền cho đến tướng tá, đều ở cùng số phận. Cho nên, chủ Johnson gọi Diệm là thằng "boy", và các tướng bị gọi là "thugs", cũng chẳng có một ai, hay báo chí nào ở miền Nam lên tiếng phàn nàn gì với ai cả. Huống chi, những tiếng chửi thề của một tổng thống Mỹ, dù có thể bị phê phán một cách không "ăn thua", lại không nằm trong những điều cấm kỵ nào khi dân chúng chọn lựa một người lãnh đạo tốt cho đất Mỹ. Dựa vào những tiếng tùy hứng của người chủ Hoa Kỳ - Vatican để khen hay chê về những nhân vật lịch sử ở miền Nam là việc không thích đáng. (SH) </i> </p>
 

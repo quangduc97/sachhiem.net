@@ -2,7 +2,7 @@
 layout: ../../../layouts/Article.astro
 title: "Những Vị Tổng Thống Mỹ"
 author: "Nguyễn Mạnh Quang"
-source: "https://sachhiem.net/null"
+source: "/null"
 lang: vi
 wordCount: 7901
 image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nha.gif"
@@ -678,7 +678,7 @@ Nguồn: https://sachhiem.net/NMQ/NMQ009.php</p>
 [3]</a> <a name="_ednref17">
 Ngu</a>ồn:
 <a target="_blank" href="https://www.thaivisa.com/.../Buddhism-Wins-Religion-World-Awa-t280783.html">
-<i>www.thaivisa.com/.../Buddhism-Wins-</i><b><i>Religion</i></b><i>-</i><b><i>World</i></b><i>-Awa-t280783.html</i></a><a target="_blank" href="https://sachhiem.net/NMQ/TAMTHU/NMQtt_14.php#_edn17">[</a></p>
+<i>www.thaivisa.com/.../Buddhism-Wins-</i><b><i>Religion</i></b><i>-</i><b><i>World</i></b><i>-Awa-t280783.html</i></a><a target="_blank" href="/NMQ/TAMTHU/NMQtt_14#_edn17">[</a></p>
 				
 				
 				

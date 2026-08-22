@@ -3,7 +3,7 @@ layout: ../../../layouts/Article.astro
 title: "Bà Trần Lệ Xuân Xin Lỗi"
 author: "Chu Văn Trình"
 date: 2024-06-09
-source: "https://sachhiem.net/CHUVTR/BA NHU/BaNhuXinLoi.php"
+source: "/CHUVTR/BA NHU/BaNhuXinLoi"
 category: "Chính trị"
 lang: vi
 wordCount: 494

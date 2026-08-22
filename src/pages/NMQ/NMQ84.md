@@ -3,7 +3,7 @@ layout: ../../layouts/Article.astro
 title: "Về Luận Điệu: \"Không Cần Kháng Chiến 9 Năm, Sớm Muộn Gì Pháp Cũng Phải Trao Trả Độc Lập Cho Việt Nam.\""
 author: "Nguyễn Mạnh Quang"
 date: 2017-08-24
-source: "https://sachhiem.net/NMQ/NMQ84.php"
+source: "/NMQ/NMQ84"
 category: "Lịch sử"
 lang: vi
 wordCount: 6295
@@ -125,7 +125,7 @@ image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/LICHSU/IMG/INDEPENDA
       </tr>
     </tbody></table>
   <p>Cả 3 phong trào Tin  Lành chống Vatican này (Tin Lành Luther, Anh giáo và Tin Lành Calvin) càng ngày  càng phát triển: Anh giáo bao trùm toàn thể Anh Quốc. Tin Lành Luther và Tin  Lành Calvin được nhân dân các quốc gia Trung Âu, Bắc Âu và Tây Âu nồng nhiệt tiếp  đón. Không biết sự nồng nhiệt tiếp đón đạo Tin Lành của nhân dân tại các quốc  gia này là vì họ nhận thấy thuyết lý Tin Lành có lý hơn thuyết lý Ki-tô La Mã  hay là vì lòng căm phẫn, thù ghét và quá ghê tởm những thủ đoạn bịp bợm và  chính sách tàn ngược của Vatican.</p>
-  <p> Cũng vì thế, kể từ đó, chiến tranh tôn giáo giữa những người cùng thờ ông  Jesus là phe Ki-tô La Mã và các phe Tin Lành trở nên vô cũng tàn khốc và hết  sức dã man. Trong <a href="https://sachhiem.net/NMQ/TAMTHU/NMQtt_13b.php">Chương 13 Phần 3 của tập sách Tâm Thư Gửi Nhà Nước Việt Nam</a>, chúng tôi đã trích dẫn một vài bản văn sử  nói về những hành động tàn ngược và dã man của phe Ki-tô La Mã đối với những  người Tin Lành ở Pháp và ở Ái Nhĩ Lan. Riêng ở Ái Nhĩ Lan, cho đến ngày nay  (2017), sự thù hận và chiến tranh vẫn còn âm ỉ giữa người Tin Lành và người  Ki-tô La Mã, không bằng hình thức này thì cũng bằng hình thức khác. </p>
+  <p> Cũng vì thế, kể từ đó, chiến tranh tôn giáo giữa những người cùng thờ ông  Jesus là phe Ki-tô La Mã và các phe Tin Lành trở nên vô cũng tàn khốc và hết  sức dã man. Trong <a href="/NMQ/TAMTHU/NMQtt_13b">Chương 13 Phần 3 của tập sách Tâm Thư Gửi Nhà Nước Việt Nam</a>, chúng tôi đã trích dẫn một vài bản văn sử  nói về những hành động tàn ngược và dã man của phe Ki-tô La Mã đối với những  người Tin Lành ở Pháp và ở Ái Nhĩ Lan. Riêng ở Ái Nhĩ Lan, cho đến ngày nay  (2017), sự thù hận và chiến tranh vẫn còn âm ỉ giữa người Tin Lành và người  Ki-tô La Mã, không bằng hình thức này thì cũng bằng hình thức khác. </p>
  
   <p>Cho đến cuối thế kỷ  18, đại đa số nhân dân các quốc gia Trung Âu, Bắc Âu, Tây Âu theo đạo Tin Lành.  Tại các quốc gia này, những người theo đạo Ki-tô La Mã trở thành thiểu số,  ngoại trừ hai nước Pháp và Ba Lan. Tuy nhiên, dù là đa số người dân hai quốc  gia này vẫn còn theo đạo Ki-tô La Mã, nhưng đa số những tín hữu Ki-tô La Mã ở  hai quốc gia này cũng đã bắt đầu chán ghét và ghê tởm Tòa Thánh Vatican. Nhờ  vậy mà Cách Mạng Pháp 1789 mới thành công dễ dàng. Ki-tô  La Mã chỉ còn chiếm đa số tại ba nước ở Nam Âu là Bồ Đào Nha, Tây Ban Nha và Ý  Đại Lợi mà thôi. Tuy nhiên, có rất nhiều tín đồ Ki-tô La Mã ở ba quốc gia này  cũng có khuynh hướng theo Cách Mạng chống lại Vatican một cách quyết liệt. Cũng  nhờ vậy mà cuộc Cách Mạng Ý 1870 mới dễ dàng thành công.  </p>
   
@@ -159,7 +159,7 @@ image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/LICHSU/IMG/INDEPENDA
   <p><strong>Việt Nam là thuộc địa của Liên Minh Pháp - Vatican và tất nhiên  là ở vào trường hợp này, và bị Vatican bám chặt như loài đỉa đói.</strong></p>
   <p>Vì thế mà nhân dân Việt Nam đã phải chiến đấu trong những cuộc  chiến vô cùng gian khổ, cực kỳ khó khăn và kéo dài cả một thế kỷ từ 1858 cho  đến ngày 30/4/1975 mới có thể tống cổ được thằng giặc Vatican ra khỏi đất nước.  Nếu không chiến đấu như vậy, thì Việt Nam đã trở thành một quốc gia giống như  Phi Luật Tân hay các quốc gia Châu Mỹ La-tinh. Cũng cần biết thêm là trong cuốn Tyrants History's  100 Most Evil Despots &amp; Dictators trên đây của sử gia Nigel Cawthorne không  phải chỉ có tên thằng phản thần tam đại Việt gian Da-tô Ngô Đình Diệm là người  Việt Nam ở trong đó, mà còn có thêm một vài tên bạo chúa Da-tô người Việt Nam  khác nữa. </p>
   <p>Hy vọng phần trình bày trên đây là những lời phản bác rõ ràng để  trả lời những người đưa ra luận điệu cho rằng "<i>không cần phải phát động chiến tranh làm tốn  phí cả 4 hay 5 triệu sinh linh, thì rồi đến lúc nào đó, Pháp cũng phải trao trả  lại chủ quyền độc lập cho dân ta như người Anh đã trả lại chủ quyền độc lập cho  Ấn Độ.</i>.." </p>
-  <p>[Liên hệ đến đề tài này, xin đọc thêm bài của tác giả  khác: <a href="https://sachhiem.net/index.php?content=showrecipe&amp;id=6151" target="_blank">"Giá Như Không Có CMT8, Không Có ĐBP, Không Có  30/4..."</a>] </p>
+  <p>[Liên hệ đến đề tài này, xin đọc thêm bài của tác giả  khác: <a href="/THOISU_CT/ChuN/NgnThhTung05" target="_blank">"Giá Như Không Có CMT8, Không Có ĐBP, Không Có  30/4..."</a>] </p>
  <p>________________________________________ </p>
 <p>Sau đây là phần nói chuyện (kỳ 9) đăng trên youtube.com</p>
   <p align="center"><b>Phần 1:</b> https://www.youtube.com/watch?v=nbZwqB82c2A&amp;t=784s</p>

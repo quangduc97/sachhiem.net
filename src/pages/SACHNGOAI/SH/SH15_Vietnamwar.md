@@ -3,7 +3,7 @@ layout: ../../../layouts/Article.astro
 title: "Tại Sao Không Thể Thắng Được Chiến Tranh Việt Nam?"
 author: "Kevin Boylan / NewYork Times"
 date: 2017-09-19
-source: "https://sachhiem.net/SACHNGOAI/SH/SH15_Vietnamwar.php"
+source: "/SACHNGOAI/SH/SH15_Vietnamwar"
 category: "Lịch sử"
 lang: vi
 wordCount: 4036
@@ -39,8 +39,8 @@ image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/LICHSU/IMG/VNwar/Par
 <p>Tác giả Kevin Boylan là một nhà sử học quân sự tại Đại học Wisconsin-Oshkosh và là tác giả của cuốn "<i>Mất Bình Định: Thất bại trong Chương Trình Bình Định và Việt Nam Hóa, 1969-1971</i>". Ông làm việc cho Phòng Chiến tranh của Bộ Quốc phòng và Quân đội từ năm 1995 đến Năm 2005.</p>
 <p>______________</p>
 <p><b>Bài đọc thêm:</b></p>
-<p>- <a href="https://sachhiem.net/SACHNGOAI/SH/SH12_VNwar.php">Phim Tài Liệu Mới Của Ken Burns - Cảm Xúc Đằng Sau Chiến Tranh Việt Nam </a>(Ryan Bort /Newsweek)</p>
-<p>- <a href="https://sachhiem.net/LICHSU/P/Phim_VietnamWar.php">Bộ Phim “Chiến Tranh Việt Nam” Của Ken Burns Và Lynn Novick Sẽ Được Truyền Trực Tuyến Ở Việt Nam - Phim có phụ đề tiếng Việt</a>- pressroom.pbs.org</p>
+<p>- <a href="/SACHNGOAI/SH/SH12_VNwar">Phim Tài Liệu Mới Của Ken Burns - Cảm Xúc Đằng Sau Chiến Tranh Việt Nam </a>(Ryan Bort /Newsweek)</p>
+<p>- <a href="/LICHSU/P/Phim_VietnamWar">Bộ Phim “Chiến Tranh Việt Nam” Của Ken Burns Và Lynn Novick Sẽ Được Truyền Trực Tuyến Ở Việt Nam - Phim có phụ đề tiếng Việt</a>- pressroom.pbs.org</p>
 
 
 <hr>

@@ -3,7 +3,7 @@ layout: ../../../layouts/Article.astro
 title: "Chuyện Mỹ công nhận Jerusalem là thủ đô của Israel"
 author: "Mi-Lu Dau"
 date: 2018-01-12
-source: "https://sachhiem.net/THOISU_CT/ChuM/MiLuDau_07.php"
+source: "/THOISU_CT/ChuM/MiLuDau_07"
 category: "Chính trị"
 lang: vi
 wordCount: 5233
@@ -17,13 +17,13 @@ image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/THOISU_CT/Hinh/DOTHA
 <p> <span class="First">C</span>ác bản tin ngày 7 tháng 12, 2017  trên thế giới đều chấn động vì Mỹ công nhận Jerusalem là thủ đô của Israel.</p>
 <p>  Đa  số quốc gia trên thế giới không công nhận sự sáp nhập này và xem xét tình  trạng của thành phố như là một trong những vấn đề chính của xung đột ở Trung  Đông, mà phải được giải quyết trên cơ sở thỏa thuận với người Palestine. Chính  vì vậy, tất cả các đại sứ quán nước ngoài đều nằm ở Tel Aviv.</p>
 <p>  Palestine  chuẩn bị tổ chức các cuộc biểu tình chống lại quyết định của  Trump.</p>
-<p>  M.D.  sực nhớ đến bài “<a href="https://sachhiem.net/THOISU_CT/ChuM/MiLuDau_01.php">Bầu Cử Ở Mỹ: Trò Chơi Quyền Lực Của Giới Tài Phiệt</a>” đã  được đăng tái trước đây trên SH trong thời gian có cuộc tranh cử sôi động chức  vụ tổng thống của Mỹ 2015. Những luận cứ của M.D. lúc bấy giờ đã làm cho nhiều  bạn đọc cho là ‘quá khích’; nhưng lời tiên đoán của M.D. đã thành sự  thật.&nbsp; Nay thấy nó vẫn còn có giá trị để áp dụng vào vụ Mỹ công nhận  Jerusalem là thủ đô của Israel, nên đề nghị SH đăng lại. Vì sao? Vì Trump đã  được giới tài phiệt Jews đưa lên ngôi tổng thống thì nay phải giữ lời hứa “trả  công bội hậu”. </p>
+<p>  M.D.  sực nhớ đến bài “<a href="/THOISU_CT/ChuM/MiLuDau_01">Bầu Cử Ở Mỹ: Trò Chơi Quyền Lực Của Giới Tài Phiệt</a>” đã  được đăng tái trước đây trên SH trong thời gian có cuộc tranh cử sôi động chức  vụ tổng thống của Mỹ 2015. Những luận cứ của M.D. lúc bấy giờ đã làm cho nhiều  bạn đọc cho là ‘quá khích’; nhưng lời tiên đoán của M.D. đã thành sự  thật.&nbsp; Nay thấy nó vẫn còn có giá trị để áp dụng vào vụ Mỹ công nhận  Jerusalem là thủ đô của Israel, nên đề nghị SH đăng lại. Vì sao? Vì Trump đã  được giới tài phiệt Jews đưa lên ngôi tổng thống thì nay phải giữ lời hứa “trả  công bội hậu”. </p>
 <p>Đời là thế; đừng bàn cãi thêm làm gì cho tốn … sức. Mọi sự đã  được Chúa Dê-Hô-Va an bài và quan phòng cả rổi.</p>
 <p>  M.D.</p>
 
 
 
-<p><span class="First">N</span>hân đọc bản tin về lời bình luận của cựu Bộ trưởng Quốc  Phòng Mỹ Robert Gates “Ex-Pentagon chief Gates: Trump is 'unfit,' 'beyond  repair'” liên quan đến cuộc tranh cử hiện nay ở Mỹ <a href="https://sachhiem.net/index.php?content=showrecipe&amp;id=6752">(xem link)</a>, tôi thấy cần lên tiếng gọi  là góp vài câu ‘tán’ với bà con ta cho vui cửa vui nhà.</p>
+<p><span class="First">N</span>hân đọc bản tin về lời bình luận của cựu Bộ trưởng Quốc  Phòng Mỹ Robert Gates “Ex-Pentagon chief Gates: Trump is 'unfit,' 'beyond  repair'” liên quan đến cuộc tranh cử hiện nay ở Mỹ <a href="/THOISU_CT/ChuK/Khachquan_04">(xem link)</a>, tôi thấy cần lên tiếng gọi  là góp vài câu ‘tán’ với bà con ta cho vui cửa vui nhà.</p>
 <p> Tôi thấy đại đa số các thức giả Mít ta thỉnh thoảng bình loạn  về tình hình thế giới cứ như là thánh phán mà quên áp dụng vào đời sống hằng  ngày câu dân quê Nam bộ hay nói “<i>ngó zậy mà không phải zậy</i>’. Áp dụng để làm gì?  Để mình luôn tỉnh thức nhận định mọi chuyện trên đời “như thị”; luôn tự hỏi “có  thật vậy không?” để khỏi bị lừa; nhất là trong thế giới ma mị ngày nay, con người  không còn biết tìm đâu ra lẽ phải. Ta đang sống trong một thế giới đầy giả trá  và bị lừa bịp trong mỗi giây phút mà ta cứ tin như thật, càng văn minh tiến bộ  thì sự lừa bịp càng tinh vi và êm ái. </p>
 <p> <b>1.</b> Chúng ta chỉ là những “gõ sĩ” nghiệp dư tùy hứng, hay  ‘tán sĩ’ chuyên ‘tán’ những chuyện bên lề cở xe cán chó, chó cắn xe’, chứ không  nên gọi là nhà bình luận chuyện quốc gia đại sự gì xấc. Khổ  nổi chuyện thâm cung bí sử là chuyện tối mật; nước nào cũng giấu với ‘chục hàng  rào điện tử, hàng trăm lính gác’, chứ có phải chuyện tôm cá bày bán ở chợ đâu. Cái  mà ta đoán mò ‘chẳng chết con ruồi nào’ cả, tán qua rồi bỏ. Đại đa số đều lặp lại  những gì mà giới truyền thông dòng chính của Mỹ phát ra; mà ai cũng quên rằng  truyền thông nhất là của Mỹ, những xưởng sản xuất tin vĩ đại của bọn quyền lực  tài phiệt, là một vũ khí làm nhiễu loạn đời sống chính trị của nước đối phương và  lèo lái dư luận quần chúng có lợi cho nhà cầm quyền của mình.</p>
 <p> Vì thế thỉnh thoảng ta nên tìm đọc tin từ góc nhìn của các  nước đối thủ của Mỹ hiện nay, ví dụ Nga và Trung quốc để có cái nhìn cân bằng  hơn, làm giàu thêm tri thức của mình.</p>

@@ -3,7 +3,7 @@ layout: ../../layouts/Article.astro
 title: "Trào nước mắt với bài thơ “Lời nhắn từ biển sâu”"
 author: "Hà Tùng Long/ Dân Trí"
 date: 2016-06-19
-source: "https://sachhiem.net/VANHOC/TinDantri.php"
+source: "/VANHOC/TinDantri"
 category: "Chính trị"
 lang: vi
 wordCount: 1179

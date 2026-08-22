@@ -3,7 +3,7 @@ layout: ../../../layouts/Article.astro
 title: "Công Dân Việt Nam Lại Thu Trúc Đã Gởi Thư Cho Tổng Thống Hoa Kỳ Obama"
 author: "Lại Thu Trúc"
 date: 2016-05-22
-source: "https://sachhiem.net/THOISU_CT/ChuH/HgHPhuoc_02.php"
+source: "/THOISU_CT/ChuH/HgHPhuoc_02"
 category: "Chính trị"
 lang: vi
 wordCount: 1017

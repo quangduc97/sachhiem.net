@@ -2,15 +2,14 @@
 layout: ../../layouts/Article.astro
 title: "V/V Đặt Tên Đường Ở TP Đà Nẵng - Thư Kiến Nghị"
 author: "Của Một Nhóm Trí Thức Trong Nước"
-source: "https://www.sachhiem.net/DOITHOAI/Rhodes.php"
+source: "/DOITHOAI/Rhodes"
 category: "Chính trị"
 lang: vi
 wordCount: 4140
-image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nha.jpg"
+image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/sqdot.gif"
 ---
 
-<p align="center"><a href="https://www.sachhiem.net/">
-<img border="0" src="https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nha.jpg"></a>30 OCT 2019</p> 
+<p align="center">30 OCT 2019</p> 
  <p class="Tuaduoi">CỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM<br>
    Độc lập – Tự do – Hạnh phúc</p>
  <p class="Tuaduoi"> ------------ oOo -------------</p>
@@ -83,8 +82,8 @@ image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nha.jpg"
  <p>ĐT: 0856041059</p>
  <p>___________</p>
  <p><b>Bài liên quan: </b></p>
- <p>- V/V Đặt Tên Đường Ở TP Đà Nẵng - Thư Kiến Nghị Của Một Nhóm Trí Thức Trong Nước &nbsp;(Xin đọc <a href="https://www.sachhiem.net/DOITHOAI/Rhodes.php">https://sachhiem.net/DOITHOAI/Rhodes.php</a>)</p>
- <p>- Các bài trong trang nhà liên quan đến nhân vật Alexandre De Rhodes: <a href="https://sachhiem.net/TONGIAO/ListRhodes.inc.php">https://sachhiem.net/TONGIAO/ListRhodes.inc.php</a></p>
+ <p>- V/V Đặt Tên Đường Ở TP Đà Nẵng - Thư Kiến Nghị Của Một Nhóm Trí Thức Trong Nước &nbsp;(Xin đọc <a href="/DOITHOAI/Rhodes">https://sachhiem.net/DOITHOAI/Rhodes.php</a>)</p>
+ <p>- Các bài trong trang nhà liên quan đến nhân vật Alexandre De Rhodes: <a href="/TONGIAO/ListRhodes.inc">https://sachhiem.net/TONGIAO/ListRhodes.inc.php</a></p>
  
 
  <p class="nguonL">Nguồn tác giả email</p>

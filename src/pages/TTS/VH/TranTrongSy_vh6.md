@@ -3,7 +3,7 @@ layout: ../../../layouts/Article.astro
 title: "Buồn Không Tên - Tản Mạn Về Chữ Nghĩa Trong Thơ, Nhạc"
 author: "Trần Trọng Sỹ"
 date: 2019-01-04
-source: "https://sachhiem.net/TTS/VH/TranTrongSy_vh6.php"
+source: "/TTS/VH/TranTrongSy_vh6"
 category: "Tác giả"
 lang: vi
 wordCount: 6872

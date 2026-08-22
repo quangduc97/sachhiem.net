@@ -3,7 +3,7 @@ layout: ../../../layouts/Article.astro
 title: "Hai Quả Bom Nguyên Tử Của Vatican Thả Xuống Nhật Bản"
 author: "Duyên Sinh"
 date: 2015-06-20
-source: "https://sachhiem.net/LICHSU/D/Duyensinh09.php"
+source: "/LICHSU/D/Duyensinh09"
 category: "Lịch sử"
 lang: vi
 wordCount: 3867
@@ -14,7 +14,7 @@ image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/LICHSU/IMG/JAPAN/nag
   
   
   
-  <p><i>LTS: Bài viết sau đây có thêm những chi tiết lịch sử quan trọng, liên quan đến những tranh cãi về nền độc lập Việt Nam lẽ ra được trao trả từ năm 1945, và tại sao không xảy ra. Sự kiện này đã được trình bày ở Tập Sách <a href="https://sachhiem.net/NMQ/HOSOTOIAC/CH45.php#end4">Lịch Sử Và Hồ Sơ Tội Ác của GHLM, Chương 45, tiểu mục số 3, đoạn "Đối Với Hoa Kỳ"</a>.  Điều đó cũng chứng minh cuộc chiến giành độc lập của Việt Nam là bắt buộc phải có, không như những lập luận của những người không đủ thông tin bảo rằng cuộc chiến Việt Nam vừa qua không cần đánh, độc lập cũng được trả. (SH)</i></p>
+  <p><i>LTS: Bài viết sau đây có thêm những chi tiết lịch sử quan trọng, liên quan đến những tranh cãi về nền độc lập Việt Nam lẽ ra được trao trả từ năm 1945, và tại sao không xảy ra. Sự kiện này đã được trình bày ở Tập Sách <a href="/NMQ/HOSOTOIAC/CH45#end4">Lịch Sử Và Hồ Sơ Tội Ác của GHLM, Chương 45, tiểu mục số 3, đoạn "Đối Với Hoa Kỳ"</a>.  Điều đó cũng chứng minh cuộc chiến giành độc lập của Việt Nam là bắt buộc phải có, không như những lập luận của những người không đủ thông tin bảo rằng cuộc chiến Việt Nam vừa qua không cần đánh, độc lập cũng được trả. (SH)</i></p>
   <hr>
    <p> <b>From:</b> "DuyenSinh duyensinh@live.com<br>
      <b>Sent:</b> Thursday, 18 June 2015, 22:30<br>

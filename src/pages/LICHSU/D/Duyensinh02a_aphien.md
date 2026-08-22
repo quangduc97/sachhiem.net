@@ -3,7 +3,7 @@ layout: ../../../layouts/Article.astro
 title: "Á Phiện, Bạch Phiến, Và Chiến Tranh Tôn Giáo Dưới Thời Diệm Và Thiệu Kỳ"
 author: "DuyênSinh"
 date: 2013-08-13
-source: "https://sachhiem.net/LICHSU/D/Duyensinh02_aphien.php"
+source: "/LICHSU/D/Duyensinh02_aphien"
 category: "Tác giả"
 lang: vi
 wordCount: 12625
@@ -17,7 +17,7 @@ image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/LICHSU/IMG/DUYENS/Ma
  - <a name="6" href="/LICHSU/#end6">6. Chỉ Huy Cao Cấp VNCH Khai Thác Thị Trường Bạch Phiến Lính Mỹ</a><br>
  - <a name="7" href="/LICHSU/#end7">7. Phó Tổng Thống Nguyễn Cao Kỳ Giành Lấy Đường Dây Bạch Phiến</a><br>
  - <a name="8" href="/LICHSU/#end8">8. Tổng Thống Nguyễn Văn Thiệu Giành Lấy Đường Dây Bạch Phiến</a><br>
- ... </p><p><a href="https://sachhiem.net/LICHSU/D/Duyensinh02_aphien.php">1 </a> (&lt;= xem =&gt;)   <a href="https://sachhiem.net/LICHSU/D/Duyensinh02b_aphien.php">3</a> <a href="https://sachhiem.net/LICHSU/D/Duyensinh02c_aphien.php"> 4</a></p> 
+ ... </p><p><a href="/LICHSU/D/Duyensinh02_aphien">1 </a> (&lt;= xem =&gt;)   <a href="/LICHSU/D/Duyensinh02b_aphien">3</a> <a href="/LICHSU/D/Duyensinh02c_aphien"> 4</a></p> 
 </div>
  
 <p><a class="TuaDoLeft" name="end4" href="/LICHSU/#4"><b>4. Tranh Giành Bạch Phiến Giữa Nguyễn Văn Thiệu Và Nguyễn Cao Kỳ</b></a></p>
@@ -102,8 +102,8 @@ image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/LICHSU/IMG/DUYENS/Ma
 <p>Trong   lúc hai nhà lập pháp không quan trọng gây mất tinh thần là Võ Văn Mầu và Phạm   Chí Thiện bị truy tố, việc bắt giữ một nhà lập pháp thứ ba ủng hộ Thiệu là   Nguyễn Quang Luyện buôn lậu vàng, là một vụ bê bối lớn. Luyện là phó chủ tịch   thứ hai của Hạ Viện, là Chủ Tịch Liên Minh Nghị Viên Á Châu, và là Chủ Tịch Khối   Độc Lập ủng hộ Thiệu từ những năm 1967-1970. Khi Luyện lên một chuyến bay từ Sài   Gòn đi Bangkok ngày 18.3.1971, Hải quan Thái xét và phát hiện 15 kg vàng nguyên   chất, trị giá khoảng 26.000 đô la trên thị trường chợ đen Sài Gòn. Tuy nhiên,   đại sứ quán VNCH can thiệp và bảo đảm lập tức sau khi một nhà lập pháp khác đi   với Luyện, chạy vào trung tâm thành phố Bangkok, cầu xin được cứu giúp của Đại   Sứ Quán VNCH.</p>
 <p>Bốn   ngày sau, một tờ báo Sài Gòn báo cáo Hải quan Thái nghi ngờ Luyện là một phần   của một đường dây buôn lậu quốc tế nhiều năm nhưng đã được giám sát kín đáo vì   bản chất nhạy cảm của mối quan hệ Thái-Việt. Số lượng 15 kg vàng bị thu giữ   trong hành lý của Luyện được báo cáo là một phần của một lô hàng lớn 90 kg vàng   (trị giá 158.000 đô la trên thị trường chợ đen Sài Gòn) được nhập lậu từng phần   vào Sài Gòn. Nguồn tin đáng tin cậy bên trong Hạ Viện báo cáo các nghị viên khác   của Khối Độc Lập đã ủng hộ tài chính trong cuộc chuyển vận buôn lậu   này.</p>
 <p>Một   cách tổng quát, các nghị viên Hạ Viện đã buôn lậu ma túy, vàng, và hàng hoá vào   VNCH hơn ba năm. Bắt giữ thì rất là hiếm, và khi bị phát giác, các nhà lập pháp   hầu như luôn luôn giải quyết vấn đề một cách âm thầm bằng đóng tiền phạt. Tại   sao hải quan VNCH đột nhiên trở nên hung dữ và nhiều quả quyết? Tại sao phe   Thiệu đột nhiên hèn hạ có tới ba nhà lập pháp liên quan đến buôn lậu lậu trong   thời gian chỉ có mười ngày? Câu trả lời, như thường lệ là “<i>chính trị.</i>”   Trớ trêu thay, con mồng   hút máu của Tổng Thống Thiệu được nhặt lên từ tay của Thủ Tướng Trần Thiện   Khiêm!..</p>
-<p><a href="https://sachhiem.net/LICHSU/D/Duyensinh02_aphien.php">1 </a> (&lt;= xem tiếp =&gt;)   <a href="https://sachhiem.net/LICHSU/D/Duyensinh02b_aphien.php">3</a> <a href="https://sachhiem.net/LICHSU/D/Duyensinh02c_aphien.php"> 4</a></p>
+<p><a href="/LICHSU/D/Duyensinh02_aphien">1 </a> (&lt;= xem tiếp =&gt;)   <a href="/LICHSU/D/Duyensinh02b_aphien">3</a> <a href="/LICHSU/D/Duyensinh02c_aphien"> 4</a></p>
 <p class="nguonL">Nguồn <a href="https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.devhttps://www.duyensinh.com/files/DDDT/A_PHIEN_BACH_PHIEN_VA_CHIEN_TRANH_TON_GIAO_DUOI_THOI_DIEM_VA_THIEU-KY.pdf">https://www.duyensinh.com/files/DDDT/A_PHIEN_BACH_PHIEN_VA_CHIEN_TRANH_TON_GIAO_DUOI_THOI_DIEM_VA_THIEU-KY.pdf</a></p><hr>
 
 <p><b>Bài đọc thêm: </b></p>
-<p>- GHLM: Lịch Sử và Hồ Sơ Tộc Ác (Nguyễn Mạnh Quang)- Chương 91: Vân Nạn Buốn Bán Ma Túy: <a href="https://sachhiem.net/NMQ/HOSOTOIAC/CH91.php">https://sachhiem.net/NMQ/HOSOTOIAC/CH91.php</a></p>
+<p>- GHLM: Lịch Sử và Hồ Sơ Tộc Ác (Nguyễn Mạnh Quang)- Chương 91: Vân Nạn Buốn Bán Ma Túy: <a href="/NMQ/HOSOTOIAC/CH91">https://sachhiem.net/NMQ/HOSOTOIAC/CH91.php</a></p>

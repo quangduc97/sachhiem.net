@@ -3,7 +3,7 @@ layout: ../../../layouts/Article.astro
 title: "Kinh Thánh Mới"
 author: "Bùi Đức An"
 date: 2015-08-13
-source: "https://sachhiem.net/TONGIAO/tgB/BuiDucAn.php"
+source: "/TONGIAO/tgB/BuiDucAn"
 category: "Chính trị"
 lang: vi
 wordCount: 2117

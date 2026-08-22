@@ -3,14 +3,14 @@ layout: ../../../layouts/Article.astro
 title: "Bàn Về Trung Cộng"
 author: "LedungHCM"
 date: 2016-04-26
-source: "https://sachhiem.net/THOISU_CT/ChuP/PhanHDuy_01.php"
+source: "/THOISU_CT/ChuP/PhanHDuy_01"
 category: "Chính trị"
 lang: vi
 wordCount: 1739
-image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nha.jpg"
+image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/THOISU_CT/Hinh/NGOAIGIAO/phatngonvien_Viet-Trung.jpg"
 ---
 
-<p align="center"><a href="https://www.sachhiem.net/"> <img border="0" src="https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nha.jpg"></a> ngày 26-Apr-2016</p>
+<p align="center"> ngày 26-Apr-2016</p>
     <p align="left"><span class="First">G</span>ần đây tôi cũng thường theo dõi báo đài, các bản tin từ  Vietnamnet, BBC, VOA đến tận mạng sina, mạng fenghuang, mạng renmin của Trung  Quốc. Bản thân cũng đã thu lượm được một bức tranh tương đối hoàn chỉnh với  nhiều ý kiến khác nhau từ những bên khác nhau. Và dường như tôi càng đọc, tôi  chỉ thấy được một điều rằng: mọi hành động của Trung Quốc là rất quá đáng, hung  bạo, mang tính chất của một tên xâm lược còn mang nặng tư tưởng Đại Hán.</p>
    <p align="center"><img src="https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/THOISU_CT/Hinh/NGOAIGIAO/phatngonvien_Viet-Trung.jpg" width="350" height="197" alt="Phát ngôn viên bộ Ngoại giao Nguyễn Phương Nga, bà Khương Du"></p>
    <p align="center"><i>Phát ngôn viên bộ Ngoại giao Việt Nam Nguyễn Phương Nga (trái), bà Khương Du, phát ngôn viên bộ Ngoại giao Trung Quố</i>c <a href="https://vi.rfi.fr/viet-nam/20110610-bien-dong-chien-tranh-thong-tin-da-khai-dien">(ảnh ghép - RFI)</a></p>

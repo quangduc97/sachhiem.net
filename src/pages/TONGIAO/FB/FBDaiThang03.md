@@ -3,15 +3,14 @@ layout: ../../../layouts/Article.astro
 title: "Những báo cáo mới về các giáo sĩ lạm dụng tình dục"
 author: "Sưu tầm của Đại Thắng"
 date: 2022-12-26
-source: "https://sachhiem.net/TONGIAO/FB/FBDaiThang03.php"
+source: "/TONGIAO/FB/FBDaiThang03"
 category: "Chính trị"
 lang: vi
 wordCount: 2734
-image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nha.jpg"
+image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/TONGIAO/IMG/TINHDUC/England_LMGrimsby.PNG"
 ---
 
-<p align="center"><a href="https://www.sachhiem.net/">
-<img border="0" src="https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nha.jpg"></a> 
+<p align="center"> 
 ngày 26-Dec-2022</p> 
 <p><span class="First">Đ</span>ứng trước thời đại tân tiến, giáo hội Thiên Chúa giáo không thể cưỡng lại được áp lực của dân chúng lên tiếng đòi đem ra ánh sáng các hành động liên hệ đến tình dục đã bị che đậy trong nhiều thế kỷ qua. Các giáo sĩ Ki-tô giáo La Mã dần dần bị nạn nhân, tức giáo dân mạnh dạn đứng ra tố cáo. Danh sách sau đây do FB  Đại Thắng ghi nhận trong vài tháng cuối năm 2022:</p>
 <p>- <a href="https://www.catholicnewsagency.com/news/254923/diocese-of-syracuse-to-pay-100-dollars-million-to-trust-fund-for-survivors-of-child-sexual-abuse">Trong vụ án 400 nạn nhân bị lạm dụng tình dục, Giáo phận Syracuse (New York) trả 100 triệu đô la</a> cho Qũy tín thác dành cho những người bị LINH MỤC cưỡng hiếp còn sống sót, chỉ hơn ba năm sau khi nộp đơn xin phá sản theo chương 11. Giáo phận sẽ đóng 50 triệu đô la, trong khi các giáo xứ sẽ đóng 45 triệu. Năm triệu đô la sẽ được đóng góp bởi các thực thể khác của giáo phận.</p>
@@ -149,4 +148,4 @@ ngày 26-Dec-2022</p>
 <p> <a href="https://www.piquenewsmagazine.com/must-reads/disabled-bc-woman-claims-childhood-sex-abuse-by-coquitlam-priests-5858127?fbclid=IwAR0NZ-o1t0X13QGqPrrzcTySlVDt44J2yBmLS11G0pyPyNEDrqqfbfBO8rI" target="_blank">https://www.piquenewsmagazine.com/.../disabled-bc-woman...</a> </p>
 <p>  <img src="https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/sqdot.gif" width="10" height="10"></p>
 
-  <p><a href="https://sachhiem.net/TONGIAO/ListTinhDuc.inc.php"> Những bài về các tu sĩ TCG lạm dụng tình dục </a> </p>
+  <p><a href="/TONGIAO/ListTinhDuc.inc"> Những bài về các tu sĩ TCG lạm dụng tình dục </a> </p>

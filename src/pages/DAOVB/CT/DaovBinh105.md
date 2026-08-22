@@ -3,7 +3,7 @@ layout: ../../../layouts/Article.astro
 title: "Nhật Ký Biển Đông: ISIS Chết, Cuộc Chiến Syria Đổi Hướng"
 author: "Đào Văn Bình"
 date: 2018-02-08
-source: "https://sachhiem.net/DAOVB/CT/DaovBinh105.php"
+source: "/DAOVB/CT/DaovBinh105"
 category: "Chính trị"
 lang: vi
 wordCount: 5916

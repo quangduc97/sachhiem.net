@@ -2,7 +2,7 @@
 layout: ../../../layouts/Article.astro
 title: "Hôn Nhân Khác Tôn Giáo"
 author: "Minh Ngọc"
-source: "https://sachhiem.net/null"
+source: "/null"
 category: "Tác giả"
 lang: vi
 wordCount: 3202

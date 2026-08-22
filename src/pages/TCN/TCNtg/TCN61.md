@@ -2,10 +2,10 @@
 layout: ../../../layouts/Article.astro
 title: "CHƯƠNG TRÌNH “CỨU RỖI” CỦA CHÚA GIÊ-SU"
 author: "Trần Chung Ngọc"
-source: "https://sachhiem.net/null"
+source: "/null"
 lang: vi
 wordCount: 18225
-image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nha.jpg"
+image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/sqdot.gif"
 ---
 
 <div align="center" style="position: relative; left: 0; top: 0">
@@ -27,7 +27,7 @@ image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nha.jpg"
 <div style="padding-left: 40px; padding-right: 40px"> 
 <table border="0" cellpadding="10" width="600" cols="2"><tbody><tr>
 <td>
-<a href="/index"><img border="0" src="https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nha.jpg"></a>
+
 </td>
 	<td valign="top" style="text-align:right">ngày 13 tháng 12, 2008</td></tr></tbody></table>
 				
@@ -312,7 +312,7 @@ thể phủ nhận qua những nhận định như sau:</p>
 
 <p>Giám Mục Tin Lành John Shelby Spong đã cho rằng vai trò Chúa Cứu Thế của Chúa 
 Giê-su cần phải dẹp bỏ, xin đọc:
-<a style="color: blue; text-decoration: underline; text-underline: single" href="https://sachhiem.net/TCN/TCNtg/TCN37.php">
+<a style="color: blue; text-decoration: underline; text-underline: single" href="/TCN/TCNtg/TCN37">
 https://sachhiem.net/TCN/TCNtg/TCN37.php</a> : </p>
 
 <p><i>“Không có bất cứ một hình ảnh nào dùng để giải thích về nhân vật Giê-su 
@@ -322,7 +322,7 @@ của Giê-su như là “đấng thần linh cứu thế”</i> (the divine res
 
 <p>Và Linh mục Công giáo James Kavanaugh cho rằng “ơn cứu rỗi” chỉ là một huyền 
 thoại , xin đọc:
-<a style="color: blue; text-decoration: underline; text-underline: single" href="https://sachhiem.net/TCN/TCNtg/TCN36.php">
+<a style="color: blue; text-decoration: underline; text-underline: single" href="/TCN/TCNtg/TCN36">
 https://sachhiem.net/TCN/TCNtg/TCN36.php</a> :</p>
 
 <p><i>“Nhưng đối với con người hiện đại. <u>chuyện hi sinh của Giê-su chẳng có ý 
@@ -453,7 +453,7 @@ tay, hoặc ra lệnh thực thi những cuộc tàn sát hàng loạt (mass kil
 tương tự của God Cha (Jehovah) và God Con (Giê-su) trong Kinh Thánh, chưa kể đến 
 những hành động khủng khiếp mà hai God này sẽ làm trong ngày tận thế</u><b> </b>
 [Xin đọc bài <i>“Ngày Tận Thế Của Ki-tô Giáo”</i> trên trang nhà Sách Hiếm:
-<a style="color: blue; text-decoration: underline; text-underline: single" href="https://sachhiem.net/TCN/TCNtg/TCN45.php">
+<a style="color: blue; text-decoration: underline; text-underline: single" href="/TCN/TCNtg/TCN45">
 https://sachhiem.net/TCN/TCNtg/TCN45.php</a> ]</p>
 
 <p class="MsoNormal"> Từ những sự kiện trên trong Thánh Kinh, chúng ta hãy tự 

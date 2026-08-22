@@ -3,7 +3,7 @@ layout: ../../../layouts/Article.astro
 title: "[VATICANOLOGY] - “Kiệu Thánh Thể Ở Tổng Giáo Phận Hà Nội Lớn Nhất Trong Gần 70 Năm Qua” - Bài 4"
 author: "Minh Thạnh"
 date: 2022-07-29
-source: "https://sachhiem.net/TONGIAO/tgM/MinhThanh37_03.php"
+source: "/TONGIAO/tgM/MinhThanh37_03"
 category: "Chính trị"
 lang: vi
 wordCount: 3548

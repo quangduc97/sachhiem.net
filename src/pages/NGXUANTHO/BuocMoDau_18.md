@@ -3,18 +3,17 @@ layout: ../../layouts/Article.astro
 title: "Bước Mở Đầu Của Sự Thiết Lập Hệ Thống Thuộc Địa Pháp Ở Việt Nam"
 author: "TS Nguyễn Xuân Thọ"
 date: 2023-02-13
-source: "https://sachhiem.net/NGXUANTHO/BuocMoDau_18.php"
+source: "/NGXUANTHO/BuocMoDau_18"
 category: "Lịch sử"
 lang: vi
 wordCount: 6788
-image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nha.jpg"
+image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/sqdot.gif"
 ---
 
 <p class="Tuaduoi"><b>Vụ Bạo Động Ở Kinh Thành Huế</b></p>
 
 
-  <p align="center"><a href="https://www.sachhiem.net/">
-<img border="0" src="https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nha.jpg"></a>| <a target="_blank" href="https://sachhiem.net/NGXUANTHO/BuocMoDau_Main.php"><span lang="en-us"><b><font face="Symbol">¿</font></b></span> trở ra mục lục</a>| 13-Feb-2023</p> 
+  <p align="center">| <a target="_blank" href="/NGXUANTHO/BuocMoDau_Main"><span lang="en-us"><b><font face="Symbol">¿</font></b></span> trở ra mục lục</a>| 13-Feb-2023</p> 
 <p class="TuaDoLeft"><b>Chương 17 - Vụ Bạo Động Ở Kinh Thành Huế Đêm 4-5/7/1885 Và Các Vụ Cướp Phá Cung Điện Nhà Vua</b></p>
 <p>Thỏa ước Thiên Tân và hiệp ước bảo hộ không tài nào mang lại hòa bình ở Viễn Đông.</p>
 <p>Tại Trung Quốc, phần lớn các quan chức và các sĩ phu đều đứng về phe chủ trương một đường lối chính trị cứng rắn đối với bọn “rợ phương Tây” và thù địch với Lý Hồng Chương, là thủ lĩnh phe hòa bình. Tuy nhiên ngoài sự đối lập về nguyên tắc ấy, họ không mấy nhất trí với nhau về việc Trung Quốc có nên theo đuổi cuộc đấu tranh hay không.</p>

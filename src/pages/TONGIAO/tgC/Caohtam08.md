@@ -3,7 +3,7 @@ layout: ../../../layouts/Article.astro
 title: "Sự Thật Mất Lòng"
 author: "Cao Hữu Tâm"
 date: 2014-03-09
-source: "https://sachhiem.net/TONGIAO/tgC/Caohtam08.php"
+source: "/TONGIAO/tgC/Caohtam08"
 category: "Chính trị"
 lang: vi
 wordCount: 5573

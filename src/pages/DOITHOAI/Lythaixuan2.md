@@ -3,7 +3,7 @@ layout: ../../layouts/Article.astro
 title: "Thư hồi đáp GS Nguyễn Đăng Hưng"
 author: "Tòa soạn SH"
 date: 2019-10-17
-source: "https://sachhiem.net/DOITHOAI/Lythaixuan2.php"
+source: "/DOITHOAI/Lythaixuan2"
 category: "Chính trị"
 lang: vi
 wordCount: 1815
@@ -30,7 +30,7 @@ Thưa  quí vị và GS Nguyễn Đăng Hưng,</p>
  in ra  mà thôi.&nbsp;Công của ông ta không đáng ghi chút nào so với nhiều người  khác trong suốt 11 giai đoạn thành hình chữ quốc ngữ.</p>
 <p>Mặc dù  quí vị đã cố công gán ghép chữ quốc ngữ, thành quả của cuộc xâm lăng văn hóa  của thực dân Pháp, làm sự hãnh diện chung, điều đó không có nghĩa là việc làm  này thực sự là niềm tự hào của dân tộc.</p>
 <p>Nên nhớ,  chữ quốc ngữ ngày nay chỉ là một tai nạn lịch sử mà dân ta phải chuyển đổi  thành dụng cụ lợi ích để cùng nâng cao dân trí, đi tới từ những ngày tháng  chiến đấu với giặc Pháp cho đến thành công. Nó là một thành quả tập thể, chứ  không phải do công của riêng một hai giáo sĩ ngoại quốc, nhất là tên gián điệp Rhodes  (Đắc Lộ).</p>
-<p>Có lẽ  quí vị thừa biết, đã có nhiều bài nghiên cứu vạch trần sự gian dối này, nhưng  quí vị ỷ thế, đã trèo cao lặn sâu từ bao lâu nay, quí vị không cần tiếng nói  nào khác của cộng đồng dân tộc của chúng tôi. (xin xem danh sách một số ít bài  viết mà chúng tôi đã thu thập được ở:&nbsp;<a href="https://sachhiem.net/LICHSU/ListQUOCNGU.inc.php" target="_blank">https://sachhiem.net/LICHSU/ListQUOCNGU.inc.php</a>)  Vậy thì gửi tin đến cho chúng tôi, để làm gì?</p>
+<p>Có lẽ  quí vị thừa biết, đã có nhiều bài nghiên cứu vạch trần sự gian dối này, nhưng  quí vị ỷ thế, đã trèo cao lặn sâu từ bao lâu nay, quí vị không cần tiếng nói  nào khác của cộng đồng dân tộc của chúng tôi. (xin xem danh sách một số ít bài  viết mà chúng tôi đã thu thập được ở:&nbsp;<a href="/LICHSU/ListQUOCNGU.inc" target="_blank">https://sachhiem.net/LICHSU/ListQUOCNGU.inc.php</a>)  Vậy thì gửi tin đến cho chúng tôi, để làm gì?</p>
 <p>Quí vị  càng dùng những từ ngữ tốt đẹp để gán cho ông Rhodes thì cũng không thể rửa  được cái tội của ông ấy đối với dân tộc của chúng tôi, và càng làm cho chúng  tôi khinh khi luôn tư cách của quí vị, dù có xưng là Giáo Sư hay Tiến Sĩ đi chăng  nữa. Quí vị đã đánh mất lương tâm dân tộc rồi.</p>
 <p>Xin quí  vị dừng lại những lời lẽ khoe khoang, huênh hoang, tự mãn trong việc thực hiện  dự án bôi nhọ lên dân tộc Việt Nam bằng cách tôn vinh tên tội đồ Alexandre De  Rhodes.  <img src="https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/sqdot.gif" width="10" height="10"></p>
 <p>Kính  tường,</p>

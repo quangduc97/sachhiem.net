@@ -3,7 +3,7 @@ layout: ../../../layouts/Article.astro
 title: "Mạn Đàm Lịch Sử - Các ông làm cách nào chạy tội cho nhà Ngô mà không dối trá?"
 author: "Trần Quang Diệu"
 date: 2019-11-19
-source: "https://sachhiem.net/LICHSU/TR/TQD59.php"
+source: "/LICHSU/TR/TQD59"
 category: "Chính trị"
 lang: vi
 wordCount: 5678
@@ -13,7 +13,7 @@ image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/TONGIAO/IMG/PHAPNAN/
 <p><i>Vụ anh em nhà  họ Ngô Đình Diệm ra lịnh triệt hạ giáo kỳ Phật giáo trong mùa Phật Đản PL. 2507  – 1963 và đàn áp đẫm máu đồng bào tại đài phát thanh Huế - Thừa Thiên vào tối  ngày 8.5.1963</i></p>
 <p>Từ bao lâu  nay những kẻ “hoài Ngô” đã táng tận lương tâm làm những chuyện chạy  tội cho nhà Ngô một cách hết sức rẻ tiền. </p>
 <p><b>1. </b>Họ xuyên tạc bất lương rằng nhà sư Thích Trí  Quang đã giả dạng mặc quân phục lính VNCH để rồi đi xé cờ Phật giáo đặng hàm ý  đổ lỗi cho tay chân nhà họ Ngô? </p>
-<p>Đó là cái trò  gọi là <a href="https://youtu.be/2w_lphlF5P4?t=2274">“Mạn Đàm Lịch Sử”</a> khi ông Nguyễn Văn Y vu khống không biết ngượng, mà  thời gian gần đây tôi đã lên tiếng: <a href="https://www.sachhiem.net/index.php?content=showrecipe&amp;id=7369" target="_blank">https://www.sachhiem.net/index.php?content=showrecipe&amp;id=7369</a> .  </p>
+<p>Đó là cái trò  gọi là <a href="https://youtu.be/2w_lphlF5P4?t=2274">“Mạn Đàm Lịch Sử”</a> khi ông Nguyễn Văn Y vu khống không biết ngượng, mà  thời gian gần đây tôi đã lên tiếng: <a href="/LICHSU/TR/TQD_DT60" target="_blank">https://www.sachhiem.net/index.php?content=showrecipe&amp;id=7369</a> .  </p>
 <p>  <b>2.</b> Còn những  cái chết của các nạn nhân thì “hoài Ngô” thi nhau dựng đủ thứ chuyện nhưng thực  tế thì đấy toàn là những chuyện bá láp, rẻ tiền, lẫn mang tính “giấu đầu lòi  đuôi”:  </p>
 <p>  - Đổ vấy lên  đầu “VC”?  </p>
 <p>  - Đổ  vấy  cho “một đại úy” ma nào đó của Mỹ?  </p>
@@ -38,7 +38,7 @@ image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/TONGIAO/IMG/PHAPNAN/
 <p>  Tại sao một chế độ khi có Bộ Quốc  Phòng (Nguyễn Đình Thuần), Bộ Nội Vụ (Bùi Văn Lương) và Tổng Nha Cảnh Sát  (Nguyễn Văn Y) nhưng người phụ trách về "Nội An" tỉnh Thừa Thiên  (Đặng Sỹ) thì ông Đặng Sỹ phải trình tấu để nhận lệnh  "Dẹp!" (...?) cuộc biểu tình của Phật tử bằng một ông "sứ  thần" cùa Vatican (Ngô Đình Thục)?</p>
 <p>- Ông Đặng Sỹ, cựu phó tỉnh  trưởng đặc trách về “Nội An” tỉnh Thừa Thiên trong lúc sống ở Hoa Kỳ nhưng  ông Đặng Sỹ đã “tránh né” (lời của Vĩnh Phúc!), không cho Vĩnh Phúc  có thể tiếp cận để phỏng vấn (…?) đặng viết về cái gọi là <i>“Những Huyền  Thoại &amp; Sự Thật Về Chế Độ Ngô Đình Diệm”</i> – Văn Nghệ, USA, 1998! Tại sao?...  </p>
 <p>  Ngược thời gian năm 1963, lịch sử không  lấy làm lạ về tánh cách tàn bạo  của đám lính Cato Ngô Đình Diệm <b>giết "những người kháng chiến  cũ"</b>  (...) cách hết sức man rợ như móc mắt, trấn nước, bắn bỏ ngoài  đồng ruộng mà vài đoạn film trong đây đã được lịch sử lưu lại:  </p>
-<p>   <a href="https://www.sachhiem.net/index.php?content=showemail&amp;id=2444" target="_blank">Tội ác của chế độ VNCH thời Ngô Đình Diệm</a></p>
+<p>   <a href="/net/LICHSU/N/Namgiao_06" target="_blank">Tội ác của chế độ VNCH thời Ngô Đình Diệm</a></p>
 <p><iframe width="320" height="180" src="https://www.youtube.com/embed/z95Bvn3ebQI" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe></p>
 <p>Xin đọc tiếp phần câu hỏi dưới đây dành cho đài BBC.</p>
 <p class="TacgiaL">Trần Quang Diệu </p>
@@ -66,9 +66,9 @@ image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/TONGIAO/IMG/PHAPNAN/
 <p>Nói đến đấy làm tôi nhớ đến  chuyện ngày nay, có một vị Sĩ quan, hình như là cấp Trung tá trong QLVNCH hiện  đang định cư ở Hoa Kỳ là ông Định Nguyên đã từng tỏ ra một ý lực hết sức đĩnh  đạc khi ông nêu ra một câu hết sức nghiêm chỉnh đối với những người lính VNCH  nào đã từng đứng dưới cờ chào mừng Quốc Khánh 1.11 và ngày nay ở hải ngoại hằng  năm (hay thỉnh thoảng?) tổ chức tưởng nhớ ngày Quân lực 19.6 của Đệ nhị VNCH,  đại khái ông viết: <i>“Nếu đã tổ chức cúng giỗ, vinh danh ông  Diệm thì đừng có làm chuyện tổ chức tưởng niệm ngày Quân lực 19.6, vì làm như  vậy chả khác nào là con đĩ rạc đưa người cửa trước rước người cửa sau.”</i></p>
 
 <p>Cuộc đảo  chánh ngày 1.11.1963, ông Trung Tướng Quyền Tổng Tham Mưu Trưởng Trần  Văn Đôn đã nói thẳng với ông Ngô Đình Diệm qua điện thoại ngay trong  chiều hôm đó là "chúng tôi, quân đội đứng lên đáp lại lòng mong  mỏi của dân, chúng tôi yêu cầu Cụ từ chức vô điều kiện!" Nghĩa  là quân nhân đã ra tay diệt trừ sự tàn bạo. </p>
-<p><i>"Thật vậy, dưới trào nhà Ngô, người ta đã nhân danh "chống Cộng" mà giết đi không biết bao nhiêu "chiến sĩ". Đó là vết nhơ bỉ ổi nhất trong lịch sử tranh đấu sinh tồn của dân tộc chúng ta vậy".</i> (trích Đảng Cần Lao của Chu Bằng Lĩnh -<a href="https://www.sachhiem.net/index.php?content=showrecipe&amp;id=5002" target="_blank">Có Một Khúc Quanh Đen Tối Và Thê Lương!</a>)  </p>
+<p><i>"Thật vậy, dưới trào nhà Ngô, người ta đã nhân danh "chống Cộng" mà giết đi không biết bao nhiêu "chiến sĩ". Đó là vết nhơ bỉ ổi nhất trong lịch sử tranh đấu sinh tồn của dân tộc chúng ta vậy".</i> (trích Đảng Cần Lao của Chu Bằng Lĩnh -<a href="/LICHSU/TR/TQD03" target="_blank">Có Một Khúc Quanh Đen Tối Và Thê Lương!</a>)  </p>
 <p> Trong những tháng năm dài quê hương binh lửa dậy, người dân miền Trung (VN) là khu vực hứng    chịu nhiều đau thương thảm khốc nhất. Ngoài các hiện tượng thiên nhiên, thời    tiết khắc nghiệt: "mùa đông thiếu áo, mùa hè thiếu ăn", nó như cái eo của người phụ nữ xinh đẹp trên vóc dáng bản đồ Việt Nam (hai đầu ...  </p>
-<p>Tánh cách tàn bạo       của đám lính Cato Ngô Đình Diệm giết <i>"những người       kháng chiến cũ"</i> (Nghĩa là những người VN đã từng trực tiếp       hoặc gián tiếp tham gia vào cuộc kháng chiến, buộc quân viễn       chinh xâm lăng Pháp, lính đánh thuê Lê Dương, và "phụ lực quân       bản xứ" ... phải buông súng, giơ tay đầu hàng vô điều kiện với       người VN) cách hết sức man rợ như móc mắt, trấn nước, bắn bỏ ngoài       đồng ruộng mà vài đoạn film trong đây đã được lịch sử       lưu lại. (<a href="https://www.sachhiem.net/index.php?content=showemail&amp;id=2444" target="_blank">Với phong trào "tố Cộng", Diệm đã cho gia nô giết "những người kháng chiến cũ"</a>) </p>
+<p>Tánh cách tàn bạo       của đám lính Cato Ngô Đình Diệm giết <i>"những người       kháng chiến cũ"</i> (Nghĩa là những người VN đã từng trực tiếp       hoặc gián tiếp tham gia vào cuộc kháng chiến, buộc quân viễn       chinh xâm lăng Pháp, lính đánh thuê Lê Dương, và "phụ lực quân       bản xứ" ... phải buông súng, giơ tay đầu hàng vô điều kiện với       người VN) cách hết sức man rợ như móc mắt, trấn nước, bắn bỏ ngoài       đồng ruộng mà vài đoạn film trong đây đã được lịch sử       lưu lại. (<a href="/net/LICHSU/N/Namgiao_06" target="_blank">Với phong trào "tố Cộng", Diệm đã cho gia nô giết "những người kháng chiến cũ"</a>) </p>
 <p><b><a href="https://www.youtube.com/watch?v=OkyEOPZnCCY">Tại Sao Lịch Sử Lại Gọi Ngô Đình Diệm Là “Tên Bạo Chúa Phản Thần Tam Đại Việt Gian”</a>.</b></p>
 <p><iframe width="320" height="180" src="https://www.youtube.com/embed/OkyEOPZnCCY" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe></p>
 <p>Ngày nay,  sau trên nửa thế kỷ (1963 - 2019) mấy ông nhân danh <i>"thông tín  viên", "truyền thông", "nhà báo",</i>... này  nọ để hỏi đặng "tranh cãi" về Đại sư Thích Trí  Quang và đề cập đến thời Diệm? </p>
@@ -83,8 +83,8 @@ image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/TONGIAO/IMG/PHAPNAN/
 <p>Chúng tôi khẩn thiết kêu gọi  các bạn nghệ sĩ, bằng máu, nước mắt, mồ hôi, đem ngòi bút viết lại thiên lịch  sử của dân tộc mà trong chín năm qua, bè lũ họ Ngô đã làm hoen ố. </p>
 <p>Đại điện cho các nhà văn, nhà  báo    chiến đấu cho Tự Do và Dân Chủ.  </p>
 <p>  Chu Tử, Hiếu Chân, Từ Chung </p>
-<p>  (Bách Khoa, số 165, (15/11/1963), tr. 93).” <a href="https://sachhiem.net/NMQ/HGNGTH/NMQ04.php#_edn54" target="_blank">[54]</a>  </p>
-<p>  <a href="https://sachhiem.net/NMQ/VNCHTT/NMQ04.php" target="_blank">https://sachhiem.net/NMQ/VNCHTT/NMQ04.php</a></p>
+<p>  (Bách Khoa, số 165, (15/11/1963), tr. 93).” <a href="/NMQ/HGNGTH/NMQ04#_edn54" target="_blank">[54]</a>  </p>
+<p>  <a href="/NMQ/VNCHTT/NMQ04" target="_blank">https://sachhiem.net/NMQ/VNCHTT/NMQ04.php</a></p>
 <p> Về nhà sư Thích Trí Quang với Ngô Đình  Diệm tam đại Việt gian, tôi nêu những hình ảnh này là thay cho vạn  lời nói trước nhân quần xã hội hôm nay lẫn đi vào lịch sử muôn đời  (!) -</p>
 <p><b>Hàng vạn Phật tử Huế </b>đội mưa đưa tiễn Cố đại lão Hòa thượng Thích Trí Quang lên đài hỏa táng, đầu tháng 11 ... năm 2019: </p>
 <p>  <a href="https://www.youtube.com/watch?v=vnvp8IIRuVc" target="_blank">https://www.youtube.com/watch?v=vnvp8IIRuVc</a></p>
@@ -99,13 +99,13 @@ image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/TONGIAO/IMG/PHAPNAN/
 <p>Cuộc đảo chính tại    Nam Việt Nam năm 1963 là cuộc đảo chính quân sự lật đổ chính quyền của tổng    thống Ngô Đình Diệm do các tướng lĩnh Việt Nam Cộng hòa thực hiện với sự làm    ngơ của Hoa Kỳ vào ngày 1 tháng 11 năm 1963. Cuộc đảo chính đã giết chết anh    em tổng thống ... </p>
 <p><b>Đọc thêm:</b></p>
 <p>Vào thời Ngô Đình Diệm  tam đại Việt gian (3 đời làm Việt gian...), do Vatican và  những người Thiên Chúa giáo Mỹ làm "bà mụ" đẻ ra  Diệm tại Nam Việt Nam sau khi Diệm lưu vong và đi tu sống đời nhàn hạ  nơi mấy nhà thờ Cato Roma ở hải ngoại, trong lúc quê hương còn đang bị sỉ nhục  bởi gót giày đinh của quân xâm lăng thực dân Pháp, do "<i>vấn đề là  Thiên Chúa giáo" </i>(Nguyễn Xuân Thọ) từ năm  1858 . Để rồi anh em Ngô Đình Diệm và gia nô đã gây ra  vô vàn những nỗi tang thương lên hai bờ vai dân tộc Việt: </p>
-<p><a href="https://www.sachhiem.net/index.php?content=showrecipe&amp;id=5002">- Có Một Khúc Quanh Đen Tối Và Thê Lương!</a></p>
+<p><a href="/LICHSU/TR/TQD03">- Có Một Khúc Quanh Đen Tối Và Thê Lương!</a></p>
 <p> ... "Ông Ngô Đình Cẩn nhận được báo cáo của gia nhân, thủ túc gởi về Huế cho biết nhờ sự anh minh của Ngô Tổng Thống và nhờ uy tín lớn lao của&nbsp;ông Cậu, nay&nbsp;đã hoàn toàn nắm vững&nbsp;được dân miền Trung từ nay, Cộng Sản không còn&nbsp;đất sống&nbsp;ở miền Trung nữa! Tuy nhiên tất cả các phúc trình gởi lên Cẩn&nbsp;đều kết luận như nhau bằng câu sau&nbsp;đây:&nbsp;<i>"Đảng (Cần Lao - TQD) đang bị phá hoại bởi bọn người phản loạn, gồm bọn tự xưng là Quốc Gia. Vậy xin chỉ thị của Cố Vấn Chỉ&nbsp;Đạo&nbsp;để chấp hành</i>".&nbsp;</p>
 <p>"Và lẽ dĩ nhiên, lệnh của Cẩn&nbsp;đã&nbsp;được ban xuống cho các cán bộ lãnh&nbsp;đạo Cần Lao khắp Trung Việt: "<i>Tiêu diệt cho hết bọn chống&nbsp;đối phản loạn&nbsp;đó&nbsp;đi</i>!"....</p>
-<p><a href="https://www.sachhiem.net/index.php?content=showrecipe&amp;id=5235">- Trong Muôn Vàn Sự  Tàn Ác - Thời Diệm Nhu:</a></p>
+<p><a href="/LICHSU/TR/TQD06">- Trong Muôn Vàn Sự  Tàn Ác - Thời Diệm Nhu:</a></p>
 <p><img src="https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/SACH/9nammaulua.jpg" width="150" height="200" alt=""></p>
 <p>Tánh cách tàn bạo  của đám lính Cato Ngô Đình Diệm giết "những người kháng  chiến cũ" (Nghĩa là những người VN đã từng trực tiếp hoặc gián  tiếp tham gia vào cuộc kháng chiến, buộc quân viễn chinh xâm lăng Pháp,  lính đánh thuê Lê Dương, và "phụ lực quân bản xứ" ... phải buông  súng, giơ tay đầu hàng vô điều kiện với người VN) cách hết sức man rợ  như móc mắt, trấn nước, bắn bỏ ngoài đồng ruộng mà vài đoạn film  trong đây đã được lịch sử lưu lại:  </p>
-<p> (<a href="https://www.sachhiem.net/index.php?content=showemail&amp;id=2444" target="_blank">Xem video Tội ác của chế độ VNCH thời Ngô Đình Diệm</a>)</p>
+<p> (<a href="/net/LICHSU/N/Namgiao_06" target="_blank">Xem video Tội ác của chế độ VNCH thời Ngô Đình Diệm</a>)</p>
 <p><iframe width="320" height="180" src="https://www.youtube.com/embed/z95Bvn3ebQI" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe></p>
 <p>Những cảnh tượng hãi  hùng đó trong clip, lịch sử không lấy làm lạ đối với Pháp nạn mang tính vô  tiền khoáng hậu từ trên dưới 2000 năm qua đối với Phật giáo Việt Nam  về thảm nạn nhà Ngô đã lịnh cho tay chân đàn áp man rợ vào đêm  8.5.1963 nơi mặt tiền đài phát thanh Thừa Thiên – Huế. Mà bằng  cớ thì những người có lương tri đều có thể nhận thấy  rất rõ: </p>
 <p>- Nhà Ngô là thủ phạm gây ra  tội ác cho nên Ngô Đình Diệm đã không làm chuyện ra  lịnh bảo vệ hiện trường xảy ra tai biến để thu thập những cứ  liệu cung cấp bằng cớ cho một cuộc điều tra, nhằm đưa “kẻ thủ ác”  (thủ phạm gây tội ác) ra trước vành móng ngựa?   </p>
@@ -137,7 +137,7 @@ image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/TONGIAO/IMG/PHAPNAN/
 <p>- <a href="https://thuvienhoasen.org/a16592/1-ngo-dinh-diem-trong-lien-minh-my-vatican-nguyen-manh-quang" target="_blank">"NGÔ ĐÌNH DIỆM TRONG  LIÊN MINH Mỹ-VATICAN" - Nguyễn Mạnh Quang</a></p>
 <p>- <a href="https://www.reformation.org/vietnam.html" target="_blank">Vietnam Why Did We Go? The Religious Beginnings  of an Unholy War</a></p>
 <p>Thế rồi, cũng chính người “Công giáo” nhưng các  ông Tổng thống Mỹ như John F. Kennedy, Lyndon B. Johnson đã phải chửi rủa anh  em nhà Ngô là “Bọn chó đẻ”, là “thằng nhãi”: </p>
-<p>- <a href="https://www.sachhiem.net/LICHSU/LEXNHUAN/LeXNhuan05.php" target="_blank">Johnson gọi Diệm là “Thằng Nhãi” - Lê Xuân Nhuận</a></p>
+<p>- <a href="/LICHSU/LEXNHUAN/LeXNhuan05" target="_blank">Johnson gọi Diệm là “Thằng Nhãi” - Lê Xuân Nhuận</a></p>
 <p>- <a href="https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.devhttps://chuagiacngo.com/sites/default/files/book_tnt/phap_nan_phat_giao_1963_-_hc_nhat.pdf" target="_blank">Pháp Nạn Phật Giáo 1963  Nguyên Nhân, Bản Chất Và Tiến Trình</a></p>
 <p>Tôi cho rằng người Mỹ khi bảo vệ nhà sư Thích Trí  Quang tỵ nạn tại Tòa Đại sứ của họ từ đêm 20.8 đến sau 1.11.1963 là họ muốn gởi <i>“thông điệp”</i> đến cho cộng đồng PGVN, toàn thể người dân  Việt Nam và nhân dân thế giới lúc bấy giờ rằng họ không dính vấp gì đến  những hành động đàn áp Phật giáo mà nhà Ngô đã ra tay tàn bạo, sau khi tiêu diệt  xong Cao Đài và Hòa Hảo. </p>
 <p>Ngược lại, sau đêm 20.8.1963, người Mỹ còn hành động  như thế này: </p>
@@ -145,7 +145,7 @@ image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/TONGIAO/IMG/PHAPNAN/
 <p><i>  (1) lập tức hủy bỏ thi hành chính sách bách hại  Phật Giáo,  </i></p>
 <p><i>  (2) Phải phóng thích hàng ngàn học sinh, sinh  viên và Phật tử ra khỏi các nhà tù,  </i></p>
 <p><i>  (3) phải chịu trách nhiệm và giải quyết những rắc  rối gây ra bởi những ngôn từ và hành động thiếu văn hóa của con Rồng Cái Trần Lệ  Xuân, và  </i></p>
-<p><i>  (4) phải dân chủ hóa chính quyền. [Xin đọc Chương  20: Cây Muốn Lặng Gió Chẳng Chịu Đừng, Sách Đệ Nhất Cộng Hòa Toàn Thư,  (Houston, TX: Văn Hóa, 2000) tác giả Nguyễn Mạnh Quang]</i>” -  <a href="https://sachhiem.net/NMQ/NMQ63.php" target="_blank">https://sachhiem.net/NMQ/NMQ63.php</a>  <img src="https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/sqdot.gif" width="10" height="10"></p>
+<p><i>  (4) phải dân chủ hóa chính quyền. [Xin đọc Chương  20: Cây Muốn Lặng Gió Chẳng Chịu Đừng, Sách Đệ Nhất Cộng Hòa Toàn Thư,  (Houston, TX: Văn Hóa, 2000) tác giả Nguyễn Mạnh Quang]</i>” -  <a href="/NMQ/NMQ63" target="_blank">https://sachhiem.net/NMQ/NMQ63.php</a>  <img src="https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/sqdot.gif" width="10" height="10"></p>
 <p class="TacgiaL"> Trần Quang Diệu </p>
  <p class="nguonL">Nguồn Email </p>
  <p class="nguonL">From: Tran Quang Dieu    </p>

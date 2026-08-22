@@ -3,7 +3,7 @@ layout: ../../../layouts/Article.astro
 title: "Liệu Pháp Hướng Dẫn Bệnh Nhân Nhớ Lại Kiếp Trước -"
 author: "by Pat Chalfant, Certified Psychic Medium... Teacher, Author & Researcher"
 date: 2012-01-25
-source: "https://sachhiem.net/null"
+source: "/null"
 category: "Tác giả"
 lang: vi
 wordCount: 5742

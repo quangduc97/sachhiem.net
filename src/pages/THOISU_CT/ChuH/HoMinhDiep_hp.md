@@ -3,7 +3,7 @@ layout: ../../../layouts/Article.astro
 title: "Về Tình Trạng Đồng Hóa Đức Tin Với Chính Trị Của Giáo Hội Công Giáo Tại Việt Nam"
 author: "Phê-rô Hồ Minh Điệp"
 date: 2013-06-13
-source: "https://sachhiem.net/THOISU_CT/ChuH/HoMinhDiep_hp.php"
+source: "/THOISU_CT/ChuH/HoMinhDiep_hp"
 category: "Tác giả"
 lang: vi
 wordCount: 12448
@@ -11,7 +11,7 @@ image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/TONGIAO/IMG/VATICAN/
 ---
 
 <div class="tomluoc">
-<p>LTS: Đăng bài này, chúng tôi lại nhớ tới bài của <a href="https://sachhiem.net/THOISU_CT/ChuN/NgTnghia_hp.php">giáo dân Nguyễn Trọng Nghĩa</a>.  Khổ cho các ông Nguyễn Trọng Nghĩa và Hồ Minh Điệp, người ta viết bài không cần trình hết lý lịch, còn mấy ông phải khai báo cả thẻ căn cước cho mọi người chỉ bởi vì "<i>dám thưa chuyện</i>" với Giáo Hội La Mã! Dù vậy,  ông Phê-rô Hồ Minh Điệp cũng phải chuẩn bị gánh chịu một cuộc điều tra và một bản án về bệnh "tâm thần" từ  JB Nguyễn Hữu Vinh hoặc một "tôi tớ hèn mọn" nào khác của GHVN.</p>
+<p>LTS: Đăng bài này, chúng tôi lại nhớ tới bài của <a href="/THOISU_CT/ChuN/NgTnghia_hp">giáo dân Nguyễn Trọng Nghĩa</a>.  Khổ cho các ông Nguyễn Trọng Nghĩa và Hồ Minh Điệp, người ta viết bài không cần trình hết lý lịch, còn mấy ông phải khai báo cả thẻ căn cước cho mọi người chỉ bởi vì "<i>dám thưa chuyện</i>" với Giáo Hội La Mã! Dù vậy,  ông Phê-rô Hồ Minh Điệp cũng phải chuẩn bị gánh chịu một cuộc điều tra và một bản án về bệnh "tâm thần" từ  JB Nguyễn Hữu Vinh hoặc một "tôi tớ hèn mọn" nào khác của GHVN.</p>
 <p> Trong một bài viết để <a href="https://www.bbc.co.uk/vietnamese/forum/2013/04/130421_vn_nhandan_newspaper.shtml">sách nhiễu giáo dân Nguyễn Trọng Nghĩa,</a> con chiên Gioan  Bao  Nguyễn Hữu Vinh mô tả rất chính xác <b>tình trạng Cừu </b>(nghĩa là không có chủ kiến gì cả)  của giáo dân như sau:</p>
 <p> <i>"...Họ cũng thừa biết xưa nay, giáo dân Công giáo luôn đồng lòng, nhất trí với Hội đồng Giám mục một cách hầu như là tuyệt đối trong những vấn đề cơ bản đối với vận mệnh giáo hội và đất nước, vì con người. Do vậy, tiếng nói của Hội đồng luôn được sự ủng hộ to lớn."</i></p>
 <p>Ông Gioan Bao Nguyễn Hữu Vinh cũng thật thà xác nhận thêm tình trạng những cái đầu đã bị <b>"bê tông hóa "</b> những con người đã thành Robots, thì chuyện  hiệp thông hay đục tường  chỉ cần các Cha bấm nút là chạy mà thôi: </p>
@@ -186,10 +186,10 @@ Kính tâu Đức Thánh Cha,</p>
 <p>Email: hopetẻ21@yahoo.com</p>
 <p>_______________</p>
 <p><b>Bài cùng chủ đề:</b></p>
-<p> <a href="https://sachhiem.net/NMQ/NMQ041.php">- Góp Ý Về Bài Của Ông Đặng Văn Việt Góp Ý Sửa Đổi Hiến Pháp </a> (Nguyễn Mạnh Quang)</p>
-<p><a href="https://sachhiem.net/THOISU_CT/ChuD/DangvViet.php ">- Góp Ý Sửa Đổi Hiến Pháp</a> (Đặng Văn Việt )</p>
-<p><a href="https://sachhiem.net/NMQ/NMQ038.php">- Góp Ý Trong Vấn Đề Sửa Đổi Hiến Pháp</a> (Nguyễn Mạnh Quang)</p>
-<p> <a href="https://sachhiem.net/TCN/TCNts/TCNts066.php">- Tản Mạn Quanh Vài Chuyện Góp Ý Dự Thảo Sửa Đổi Hiến Pháp Năm 1992</a> (Trần Chung Ngọc)</p>
-<p><a href="https://sachhiem.net/DOITHOAI/NgnThhTung0.php">- Cùng Quẫn Lý Lẽ Của Một Con Cừu</a> (Nguyễn Thanh Tùng)</p>
-<p><a href="https://sachhiem.net/THOISU_CT/ChuN/NgTnghia_hp.php">- Góp Ý Của Giáo Dân Về Bản Nhận Định Và Góp Ý Dự Thảo Sửa Đổi Hiến Pháp 1992 Của HĐGMVN,.. </a> (giáo dân Nguyễn Trọng Nghĩa)</p>
-<p>- <a href="https://sachhiem.net/THOISU_CT/ChuH/HoMinhDiep_hp.php">Về Tình Trạng Đồng Hóa Đức Tin Với Chính Trị Của Giáo Hội Công Giáo Tại Việt Nam</a> (Phê-rô Hồ Minh Điệp)</p>
+<p> <a href="/NMQ/NMQ041">- Góp Ý Về Bài Của Ông Đặng Văn Việt Góp Ý Sửa Đổi Hiến Pháp </a> (Nguyễn Mạnh Quang)</p>
+<p><a href="/THOISU_CT/ChuD/DangvViet">- Góp Ý Sửa Đổi Hiến Pháp</a> (Đặng Văn Việt )</p>
+<p><a href="/NMQ/NMQ038">- Góp Ý Trong Vấn Đề Sửa Đổi Hiến Pháp</a> (Nguyễn Mạnh Quang)</p>
+<p> <a href="/TCN/TCNts/TCNts066">- Tản Mạn Quanh Vài Chuyện Góp Ý Dự Thảo Sửa Đổi Hiến Pháp Năm 1992</a> (Trần Chung Ngọc)</p>
+<p><a href="/DOITHOAI/NgnThhTung0">- Cùng Quẫn Lý Lẽ Của Một Con Cừu</a> (Nguyễn Thanh Tùng)</p>
+<p><a href="/THOISU_CT/ChuN/NgTnghia_hp">- Góp Ý Của Giáo Dân Về Bản Nhận Định Và Góp Ý Dự Thảo Sửa Đổi Hiến Pháp 1992 Của HĐGMVN,.. </a> (giáo dân Nguyễn Trọng Nghĩa)</p>
+<p>- <a href="/THOISU_CT/ChuH/HoMinhDiep_hp">Về Tình Trạng Đồng Hóa Đức Tin Với Chính Trị Của Giáo Hội Công Giáo Tại Việt Nam</a> (Phê-rô Hồ Minh Điệp)</p>

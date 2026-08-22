@@ -2,7 +2,7 @@
 layout: ../../../layouts/Article.astro
 title: "GIÁO HOÀNG CÔNG GIÁO BENEDICT XVI"
 author: "Trần Chung Ngọc"
-source: "https://sachhiem.net/null"
+source: "/null"
 lang: vi
 wordCount: 5064
 image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/TCN/file:///C:/SACHHIEM/images/mail.gif"

@@ -3,7 +3,7 @@ layout: ../../../layouts/Article.astro
 title: "Lịch Sử Nhìn Qua Lỗ Đồng Xu (Về Cuốn \"Bên Thắng Cuộc\" Của Huy Đức)"
 author: "Đông La"
 date: 2013-03-26
-source: "https://sachhiem.net/THOISU_CT/ChuD/DongLa0.php"
+source: "/THOISU_CT/ChuD/DongLa0"
 category: "Chính trị"
 lang: vi
 wordCount: 5373
@@ -63,7 +63,7 @@ image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/MISC/lokhoa_d
   <p class="nguonL">nguồn https://www.doimat.cuanhcuem.net/2012/12/ve-ben-thang-cuoc-cua-osin-heo-them.html</p>
   
   <p><b>Đọc tác giả khác, cùng đề tài:</b></p>
-   <p>- <a href="https://sachhiem.net/DOITHOAI/ThieuLong.php">Trích Bình Luận Về: "Bên Thắng Cuộc", Món Quà Noel Kinh Hoàng Của Kẻ Osin Khốn Nạn' (Thiếu Long Texas)</a></p>
-  <p>-<a href="https://sachhiem.net/DOITHOAI/HHPH/HgHPhuoc.php"> Bức Tâm Thư Gửi Người Dân Việt “Thiệt” - Nhân Nghe Về Huy Đức - (Hoàng Hữu Phước)</a></p>
-  <p><a href="https://sachhiem.net/TCN/TCNdt/TCNdt068.php">- Tôi Đọc “Bên Thắng Cuộc” Của Huy Đức (Trần Chung Ngọc) </a></p>
+   <p>- <a href="/DOITHOAI/ThieuLong">Trích Bình Luận Về: "Bên Thắng Cuộc", Món Quà Noel Kinh Hoàng Của Kẻ Osin Khốn Nạn' (Thiếu Long Texas)</a></p>
+  <p>-<a href="/DOITHOAI/HHPH/HgHPhuoc"> Bức Tâm Thư Gửi Người Dân Việt “Thiệt” - Nhân Nghe Về Huy Đức - (Hoàng Hữu Phước)</a></p>
+  <p><a href="/TCN/TCNdt/TCNdt068">- Tôi Đọc “Bên Thắng Cuộc” Của Huy Đức (Trần Chung Ngọc) </a></p>
   <br>

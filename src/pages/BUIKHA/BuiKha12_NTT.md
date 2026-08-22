@@ -2,7 +2,7 @@
 layout: ../../layouts/Article.astro
 title: "Nguyễn Trường Tộ và Kế Hoạch"
 author: "Bùi Kha"
-source: "https://sachhiem.net/BUIKHA/BuiKha12_NTT.php"
+source: "/BUIKHA/BuiKha12_NTT"
 category: "Lịch sử"
 lang: vi
 wordCount: 3816

@@ -2,11 +2,10 @@
 layout: ../../../layouts/Article.astro
 title: "PHÁP LỆNH TÔN GIÁO"
 author: "UB Thường Vụ Quốc Hội"
-source: "https://sachhiem.net/null"
+source: "/null"
 category: "Tác giả"
 lang: vi
 wordCount: 4401
-image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nha.jpg"
 ---
 
 <div align="center">
@@ -27,8 +26,7 @@ image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nha.jpg"
 <tr> <td width="100%"> 
 		<div style="padding-left: 50px; padding-right: 50px">
 <table border="0" cellpadding="10" width="600" cols="2"><tbody><tr>
-<td width="356"><a href="/index">
-		<img border="0" src="https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nha.jpg"></a></td>
+<td width="356"></td>
 	<td valign="top"><p>07 tháng 8,  2010</p>	
 	</td></tr></tbody></table>
 		<div style="border-top: 1px solid #949494; border-bottom: 1px solid #949494; padding: 10px; background-color: #EAEAEB">

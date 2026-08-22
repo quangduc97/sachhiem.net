@@ -3,7 +3,7 @@ layout: ../../../layouts/Article.astro
 title: "Nhật Ký Biển Đông: Cuộc Chiến Syria Coi Như Chấm Dứt"
 author: "Đào Văn Bình"
 date: 2018-12-15
-source: "https://sachhiem.net/DAOVB/CT/DaovBinh124.php"
+source: "/DAOVB/CT/DaovBinh124"
 category: "Chính trị"
 lang: vi
 wordCount: 4791

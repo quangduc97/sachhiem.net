@@ -3,7 +3,7 @@ layout: ../../layouts/Article.astro
 title: "Những Bóng Ma Trong Nhà Trẻ St. Joseph ở Burlington P4"
 author: "Lý Thái Xuân dịch"
 date: 2021-05-09
-source: "https://sachhiem.net/LTX/LythaiTG30_3nhatre.php"
+source: "/LTX/LythaiTG30_3nhatre"
 category: "Tác giả"
 lang: vi
 wordCount: 2329
@@ -15,14 +15,14 @@ image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/TONGIAO/IMG/MASOEUR/
      
      
      <div class="tomluoc">
-       <p><a href="https://sachhiem.net/LTX/LythaiTG30_3nhatre.php"><i>Bài 4: Những Âm Thanh Kinh Hoàng</i></a></p>
+       <p><a href="/LTX/LythaiTG30_3nhatre"><i>Bài 4: Những Âm Thanh Kinh Hoàng</i></a></p>
        <p><i>Một phụ nữ nhớ lại khi còn nhỏ, nằm trên giường, nghe những linh hồn già lê bước trên hành lang dài tạo ra "những âm thanh la hét, rên rỉ và cào cấu." Sau đó cô mới nhận ra rằng những âm thanh kinh hoàng đó phát ra từ những người già đẩy một chiếc ghế trước mặt họ,</i></p>
        <p><i>...(còn tiếp)</i></p>
      </div>
-       <div class="leftborder"><p><i>Xem lời giới thiệu ở <a href="https://sachhiem.net/LTX/LythaiTG30.php">Bài 1</a></i></p>
-<p><i><a href="https://sachhiem.net/LTX/LythaiTG30.php">Bài 1: Bà Sally Dale tường thuật. </a></i></p>
-<p><i><a href="https://sachhiem.net/LTX/LythaiTG30_1nhatre.php">Bài 2: Luật sư Philip White và người khách "bí ẩn"</a></i></p>
- <p><a href="https://sachhiem.net/LTX/LythaiTG30_2nhatre.php"><i>Bài 3: Luật sư Robert Widman vào cuộc </i></a></p></div>
+       <div class="leftborder"><p><i>Xem lời giới thiệu ở <a href="/LTX/LythaiTG30">Bài 1</a></i></p>
+<p><i><a href="/LTX/LythaiTG30">Bài 1: Bà Sally Dale tường thuật. </a></i></p>
+<p><i><a href="/LTX/LythaiTG30_1nhatre">Bài 2: Luật sư Philip White và người khách "bí ẩn"</a></i></p>
+ <p><a href="/LTX/LythaiTG30_2nhatre"><i>Bài 3: Luật sư Robert Widman vào cuộc </i></a></p></div>
        
        <p class="TuaDenLeft">4. Những Âm Thanh Kinh Hoàng </p>
        <p><span class="First">T</span>rong những ngày đầu tiên của viện mồ côi, nó là nơi ở của người già cũng như trẻ. Một phụ nữ nhớ lại khi còn nhỏ, nằm trên giường, nghe những linh hồn già lê bước trên hành lang dài tạo ra <i>"những âm thanh la hét, rên rỉ và cào cấu.</i>" Sau đó cô mới nhận ra rằng những âm thanh kinh hoàng đó phát ra từ những người già đẩy một chiếc ghế trước mặt họ, giống như tiếng của chiếc khung cho người già đi bộ. Cuối cùng, những người lớn tuổi đã rời đi.</p>
@@ -63,6 +63,6 @@ image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/TONGIAO/IMG/MASOEUR/
 <p>Widman choáng váng. Tôi đã nghe câu chuyện này… ông ấy bắt đầu. <i>"Về việc đốt cháy?"</i> cô ấy nói.</p>
 <p>- "<i>Đó là tôi</i>." Sau đó, cô kể cho Widman nghe câu chuyện của mình. Đúng như mọi người đã nói.</p>
 
-      <p>(xem tiếp, <a href="https://sachhiem.net/LTX/LythaiTG30_4nhatre.php"><i>bài 5:  Chuyện Cô Bé Bị Tra Tấn Vì Ăn Cắp Kẹo</i></a>)</p>
+      <p>(xem tiếp, <a href="/LTX/LythaiTG30_4nhatre"><i>bài 5:  Chuyện Cô Bé Bị Tra Tấn Vì Ăn Cắp Kẹo</i></a>)</p>
      <p class="TacgiaL">Lý Thái Xuân trích dịch</p>
      <p class="nguonL">Nguồn: <a href="https://www.buzzfeednews.com/article/christinekenneally/orphanage-death-catholic-abuse-nuns-st-josephs">https://tinyurl.com/7w5mmtr6</a></p>

@@ -2,7 +2,7 @@
 layout: ../../layouts/Article.astro
 title: "Nửa Thế Kỷ Đi Về"
 author: "Lý Thái Xuân"
-source: "https://sachhiem.net/LTX/LyThaiXH03.php"
+source: "/LTX/LyThaiXH03"
 category: "Xã hội"
 lang: vi
 wordCount: 3170

@@ -3,7 +3,7 @@ layout: ../../../layouts/Article.astro
 title: "Chúc Mừng Năm Mới - Quý Mão 2023"
 author: "SH và thân hữu"
 date: 2022-12-31
-source: "https://sachhiem.net/XAHOI/CHUCTET/QuyMao2023.php"
+source: "/XAHOI/CHUCTET/QuyMao2023"
 category: "Xã hội"
 lang: vi
 wordCount: 118

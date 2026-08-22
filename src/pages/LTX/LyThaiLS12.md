@@ -3,7 +3,7 @@ layout: ../../layouts/Article.astro
 title: "Ba Trọng Tội, và Lòng Dạ của Pétrus Ký, Qua 8 Lá Thư"
 author: "Lý Thái Xuân tóm lược"
 date: 2024-02-12
-source: "https://sachhiem.net/LTX/LyThaiLS12.php"
+source: "/LTX/LyThaiLS12"
 category: "Lịch sử"
 lang: vi
 wordCount: 7352
@@ -17,7 +17,7 @@ image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/LICHSU/IMG/PETRUSKY/
  <div class="tomluoc">
    <p><i>LTS: Bài này tóm tắt  3 tội danh của ông Trương Vĩnh Ký, và đưa ra một số chứng cớ được trích dẫn từ 8 (trong nhiều bức thư do chính Trương Vĩnh Ký viết (xem sách “Trương Vĩnh Ký,  Cuốn Sổ Bình Sinh" của Nguyễn Sinh Duy (1)". Mục đích công trình văn hóa của ông Ký cũng thể hiện ở những bức thư gửi cho chính quyền thuộc địa trong suốt đời của ông. Các tài liệu nguồn (2) và (3) được ghi ra ở phần  tham khảo. </i>(SH)</p>
    </div>
- [Loạt bài tóm lược về TVK của LTX: <a href="https://sachhiem.net/LTX/LyThaiLS12.php"> 1 </a>. <a href="https://sachhiem.net/LTX/LyThaiLS12a.php"> 2 </a>. <a href="https://sachhiem.net/LTX/LyThaiLS12aa.php"> 3 </a>. <a href="https://sachhiem.net/LTX/LyThaiLS12b.php"> 4 </a>]
+ [Loạt bài tóm lược về TVK của LTX: <a href="/LTX/LyThaiLS12"> 1 </a>. <a href="/LTX/LyThaiLS12a"> 2 </a>. <a href="/LTX/LyThaiLS12aa"> 3 </a>. <a href="/LTX/LyThaiLS12b"> 4 </a>]
  <p>Hiện tượng cách mạng màu ở  Việt nam do thế lực ngoại cường lèo lái có lẽ đã âm thầm len lỏi từ hơn 20 năm  trước, ẩn dưới những nỗ lực hoạt động văn hóa như hội thảo, tọa đàm khoa học,…  để được hợp thức hóa các "sản phẩm" độc hại mà họ muốn gieo vào trong  xã hội Việt Nam. Các khách mời trong các cuộc hội thảo khoa học ấy, chỉ gồm  toàn là những người nằm trong đường dây hoạt động của họ. </p>
  <p>   Một trong các nhân vật đang  được vài phương tiện truyền thông chính thống của nhà nước tô son điểm phấn trở  lại là Pétrus Trương Vĩnh Ký. Vì thế chứng tôi sẽ có một loạt bài vạch trần con  người của ông Ký dựa trên tài liệu đáng tin cậy nhất, để rộng đường dư luận. &nbsp; </p>
  <p>   Ngày 24/3/2015, trong  dịp&nbsp;<a href="https://www.quyphanchautrinh.org/tin-tuc-su-kien/ChiTiet/847/le-trao-giai-thuong-van-hoa-phan-chau-trinh-lan-thu-viii-nam-2015">trao giải thưởng  Quỹ văn hóa Phan Châu Trinh,</a>&nbsp;Ông <b>nhà văn Nguyên Ngọc</b> đã nêu ý kiến: Xây “<i>Ngôi đền  tinh hoa văn hóa Việt Nam</i>” nhằm tôn vinh những nhân vật kiệt xuất có công  đối với văn hóa Việt Nam. Trong số ba nhân vật đầu tiên được đề cập đến có tên  ông Trương Vĩnh Ký, cũng gọi là Petrus Ký.<b> </b></p>
@@ -106,8 +106,8 @@ image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/LICHSU/IMG/PETRUSKY/
  <p>______________</p>
 <p><b>Tài liệu tham khảo nguồn</b></p>
 <p>1- "<i>Trương Vĩnh Ký,  Cuốn Sổ Bình Sinh</i>"; Nguyễn Sinh Duy. Có thể mua ở nhà sách hoặc tải xuống <a href="https://vietbooks.info/threads/truong-vinh-ky-cuon-so-binh-sanh-nxb-van-hoc-2004-nguyen-sinh-duy-118-trang.101637/">(https://vietbooks.info...)</a>  hoặc dùng link <a href="https://drive.google.com/file/d/1R9bwrmaRtEBt6WcJ4NBK7aRjZx5h2Ukr">drive.google.com</a>.</p>
-<p>2- Trương Vĩnh Ký Phản Bội Tổ Quốc, Sao Gọi Là Nỗi Oan Thế Kỷ? (Bùi Kha)<a href="https://sachhiem.net/BUIKHA/BuiKha32.php"> https://sachhiem.net</a></p>
-<p>3- Những Ngộ Nhận Về Ông Trương Vĩnh Ký (Hồng Điểu) <a href="https://sachhiem.net/LICHSU/H/HongDieu.php">https://sachhiem.net</a></p>
+<p>2- Trương Vĩnh Ký Phản Bội Tổ Quốc, Sao Gọi Là Nỗi Oan Thế Kỷ? (Bùi Kha)<a href="/BUIKHA/BuiKha32"> https://sachhiem.net</a></p>
+<p>3- Những Ngộ Nhận Về Ông Trương Vĩnh Ký (Hồng Điểu) <a href="/LICHSU/H/HongDieu">https://sachhiem.net</a></p>
 <p>4- Bài biện hộ cho Trương Vĩnh Ký:</p>
 <p>- Nguyên Văn Lá Thư Petrus Key bằng tiếng Pháp gửi Trung tá Hải quân Jean Bernard Jauréguiberry tại Văn Khố Service Historique De La Defense ở Chateau Vincennes, Paris; và Bản Dịch Của Winston Phan Đào Nguyên.  <a href="https://petruskyaus.net/ky-yeu-pk-2018-petrus-key-va-petrus-ky-chuyen-mot-la-thu-mao-danh-phan-1-chuong-4/"> (https://petruskyaus.net/...)</a> (Xem PHỤ BẢN B dưới đây)</p>
 <p>5- Văn thư của Ban Chấp Hành Trung Ương, Ban Tuyên GIáo, số 2274_CV/BTGTW về những nhân vật đang tranh cãi:</p>

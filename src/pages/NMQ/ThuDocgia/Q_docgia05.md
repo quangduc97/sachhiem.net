@@ -1,14 +1,14 @@
 ---
 layout: ../../../layouts/Article.astro
 title: "Thư bạn đọc Trần Văn Kha (California)"
-source: "https://sachhiem.net/NMQ/ThuDocgia/Q_docgia05.php"
+source: "/NMQ/ThuDocgia/Q_docgia05"
 lang: vi
 wordCount: 119
 image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/NMQ/ThuDocgia/TrvKha.jpg"
 ---
 
 <div style="padding-left: 75px; padding-right: 75px">
-			<p><a href="https://sachhiem.net/NMQ/ThuDocgia/QThudocgia.php">[Mời xem lời giới thiệu ở link]</a></p>
+			<p><a href="/NMQ/ThuDocgia/QThudocgia">[Mời xem lời giới thiệu ở link]</a></p>
 			  
  	          <p><img src="https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/NMQ/ThuDocgia/TrvKha.jpg" width="450" height="650" alt="">
 </p>

@@ -3,7 +3,7 @@ layout: ../../../layouts/Article.astro
 title: "Để Tuổi Trẻ Việt Nam Đến Với Phật Giáo Trong Thời Hội Nhập"
 author: "GS Lê Cung*"
 date: 2022-01-03
-source: "https://sachhiem.net/LICHSU/L/LeCung21.php"
+source: "/LICHSU/L/LeCung21"
 category: "Chính trị"
 lang: vi
 wordCount: 5548

@@ -2,15 +2,15 @@
 layout: ../../../layouts/Article.astro
 title: "Tuyên Ngôn Về Hố Đen Vũ Trụ"
 author: "Lê văn Cường"
-source: "https://sachhiem.net/Levc.php"
+source: "/Levc"
 category: "Khoa học"
 lang: vi
 wordCount: 5935
-image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nha.jpg"
+image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/KHOAHOC/IMG/AlbertEinstein.jpg"
 ---
 
 <table border="0" cellpadding="1" align="center" width="250">
-        <tbody><tr><td width="100"><a href="/index"><img border="0" src="https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nha.jpg"></a></td>
+        <tbody><tr><td width="100"></td>
 		<td valign="top">07 tháng 3, 2010	</td>
 	</tr>
 </tbody></table>

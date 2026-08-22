@@ -3,7 +3,7 @@ layout: ../../../layouts/Article.astro
 title: "Bàn Tay Không Che Nổi Mặt Trời"
 author: "BS. Nguyễn Văn Thịnh"
 date: 2015-02-06
-source: "https://sachhiem.net/VANHOC/N/NguyenvThinh_07.php"
+source: "/VANHOC/N/NguyenvThinh_07"
 category: "Lịch sử"
 lang: vi
 wordCount: 5579
@@ -66,4 +66,4 @@ image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/LICHSU/IMG/SuVN/GMPu
 <p>Số 344 Thứ năm ngày 12 tháng 3 năm 2015</p>
 
 <p class="nguonL">___________________ </p>
-<p>Các bài của Nguyễn Văn Thịnh: link <a href="https://sachhiem.net/VANHOC/N/ListNVTh.inc.php" target="_blank">https://sachhiem.net/VANHOC/N/ListNVTh.inc.php</a></p>
+<p>Các bài của Nguyễn Văn Thịnh: link <a href="/VANHOC/N/ListNVTh.inc" target="_blank">https://sachhiem.net/VANHOC/N/ListNVTh.inc.php</a></p>

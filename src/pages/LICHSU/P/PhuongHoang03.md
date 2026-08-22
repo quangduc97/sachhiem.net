@@ -3,7 +3,7 @@ layout: ../../../layouts/Article.astro
 title: "Những Chuyện Kể Của Phượng Hoàng GV"
 author: "Phượng Hoàng GV"
 date: 2015-10-06
-source: "https://sachhiem.net/LICHSU/P/PhuongHoang03.php"
+source: "/LICHSU/P/PhuongHoang03"
 category: "Lịch sử"
 lang: vi
 wordCount: 12090
@@ -185,7 +185,7 @@ Trong tờ Khai Gia Đình  thì người chủ hộ phải là Chồng của M�
 <p>
      Nhưng nhờ ơn Chúa (nếu theo đạo Công Giáo Vatican), nhờ ơn Thượng Đế (nếu không  theo đạo C.G. Vatican) là Siêu Lừa Nguyễn Thị Thanh tiết lộ kín trong thư điện  tử (email) của y thị gởi cho tín hữu thân nhất của y thị.</p>
 <p>
-     Đó là sự dâm dục (Sex) của mấy linh mục Việt Nam (trước 75 tại Miền Nam VN). &nbsp;Danh từ riêng gọi là <b>“Chị Bếp và Linh Mục“.</b> Tổng Giám Mục Giáo phận Saigon Nguyễn Văn Bình thốt nên lời : <i>“Nếu vụ mấy chị Bếp và mấy Cha …mà treo  chén thánh… thì lấy ai làm lễ đây?“.</i> (xem email <a href="https://sachhiem.net/index.php?content=showemail&amp;id=1060">https://sachhiem.net/index.php?content=showemail&amp;id=1060</a>)</p>
+     Đó là sự dâm dục (Sex) của mấy linh mục Việt Nam (trước 75 tại Miền Nam VN). &nbsp;Danh từ riêng gọi là <b>“Chị Bếp và Linh Mục“.</b> Tổng Giám Mục Giáo phận Saigon Nguyễn Văn Bình thốt nên lời : <i>“Nếu vụ mấy chị Bếp và mấy Cha …mà treo  chén thánh… thì lấy ai làm lễ đây?“.</i> (xem email <a href="/hop-thu/1060">https://sachhiem.net/index.php?content=showemail&amp;id=1060</a>)</p>
 
 <p>
      Vậy trước khi vào đề, chúng tôi tạm lấy Kết Luận làm phần dẩn nhập của bài viết  nầy:</p>
@@ -513,7 +513,7 @@ Trong tờ Khai Gia Đình  thì người chủ hộ phải là Chồng của M�
      Từ đó mới biết đạo Công Giáo của Bà chấp nhận, cho làm lớn miễn là kẻ đó theo  Đạo Công Giáo và một lòng với gia đình Ngô Đình Diệm…cho dù kẻ đó là tay sát  nhân, giết người ở, sợ tù rồi cãi sang đạo C.G. </p>
 
 <p>
-  <b>5.- Rồi từ đó mới biết sự thật mà chúng tôi</b> người khác đạo C.G của bà  không thể ngờ tới. Đó là câu Chị Bếp và Cha sở….mà lời nói thành thiên thu của  Tổng Giám Mục Nguyễn Văn Bình: “Nếu vì chuyện chị Bếp mà treo chén thánh….thì  lấy ai làm thánh lễ ? ” (xem email <a href="https://sachhiem.net/index.php?content=showemail&amp;id=1060">https://sachhiem.net/index.php?content=showemail&amp;id=1060</a>)</p>
+  <b>5.- Rồi từ đó mới biết sự thật mà chúng tôi</b> người khác đạo C.G của bà  không thể ngờ tới. Đó là câu Chị Bếp và Cha sở….mà lời nói thành thiên thu của  Tổng Giám Mục Nguyễn Văn Bình: “Nếu vì chuyện chị Bếp mà treo chén thánh….thì  lấy ai làm thánh lễ ? ” (xem email <a href="/hop-thu/1060">https://sachhiem.net/index.php?content=showemail&amp;id=1060</a>)</p>
 
 <p>
   <b>6. Hoa-kỳ đã làm gương là bắt những cha Sở phạm tội</b> ấu dâm hay dâm dục  với chị Bếp vào tù và đền thiệt hại cho những nạn nhân, số tiền phạt lên đến  gần $ 1 tỉ (một nghìn triệu) đô la USD từ Los Angeles đến Chicago. Nếu những  quốc gia khác noi gương (như quốc gia Mexico, Brazil, Phillippinnes, Pháp, Ý,  Tây Ban Nha, Bồ Dào Nha, Canada) …thì Tập đoàn Tôn giáo tại Vatican (The  Organized Religion in Vatican) sẽ tan thành mây khói….. hàng chục tỉ tỉ USD  tiền gom góp từ 2000 năm nay sẽ trả về cho nhân loại. Đó là điều mong mỏi của  những người thông minh và công bằng trên trái đất nầy. </p>
@@ -643,5 +643,5 @@ Trong tờ Khai Gia Đình  thì người chủ hộ phải là Chồng của M�
     <p>__._,_.___</p>
     <p>Posted by: Tran Quang  Dieu &lt;tranquangdieu@hotmail.com&gt; </p>
 <p>___________________________________</p>
- <p>Các chuyện kể của Phượng Hoàng Gò Vấp: link <a href="https://sachhiem.net/LICHSU/P/ListPHGV.inc.php" target="_blank">https://sachhiem.net/LICHSU/N/ListPHGV.inc.php</a></p>  
+ <p>Các chuyện kể của Phượng Hoàng Gò Vấp: link <a href="/LICHSU/P/ListPHGV.inc" target="_blank">https://sachhiem.net/LICHSU/N/ListPHGV.inc.php</a></p>  
   <hr>

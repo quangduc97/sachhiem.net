@@ -2,7 +2,7 @@
 layout: ../../layouts/Article.astro
 title: "Vấn Đề Đoàn Kết Dân Tộc (?)"
 author: "Hoàng Hoa Nhân Kiệt"
-source: "https://sachhiem.net/null"
+source: "/null"
 category: "Tác giả"
 lang: vi
 wordCount: 1923

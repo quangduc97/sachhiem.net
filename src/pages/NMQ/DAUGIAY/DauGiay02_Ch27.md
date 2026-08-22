@@ -3,7 +3,7 @@ layout: ../../../layouts/Article.astro
 title: "Dấu Giày Vatican Trên Quê Hương Tôi"
 author: "Nguyễn Mạnh Quang"
 date: 2023-06-08
-source: "https://sachhiem.net/NMQ/DAUGIAY/DauGiay02_Ch27.php"
+source: "/NMQ/DAUGIAY/DauGiay02_Ch27"
 lang: vi
 wordCount: 2150
 image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/LICHSU/IMG/SACH/Nhunghoatdong.jpg"
@@ -41,5 +41,5 @@ image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/LICHSU/IMG/SACH/Nhun
 <p><i> Từ đó bọn vệ sĩ Quỳnh Lang cũng ít dám thò ra ở ngoài cướp  phá. Các đồn bốt quan trọng của địch trong tỉnh liên tiếp bị tiêu diệt, khu du kích  được mở rộng, bốt Quỳnh Lang bị cô lập. Nửa đêm 4/4/1953, bốt Quỳnh Lang bị bộ đội  và du kích ta tiến đánh. Sau gần sáu giờ chiến đấu ác liệt, bốt Quỳnh Lang bị hạ.  Tên đồn trưởng Bùi Hữu Lùn và 78 vệ sĩ bị ta bắt sống. Ta thu được 7 trung liên,  2 moóc chi-ê và hơn 100 súng trường cùng nhiều đạn dược trong trận này."</i></p>
 
 
-<p>Đồng thời,  trong Chương 52 với nhan đề là “Những Hành Động Dã Man Của Quân Lính Liên Hiệp  Pháp Và Lính Đạo” (<a href="https://www.sachhiem.net/NMQ/HOSOTOIAC/CH52.php">https://sachhiem.net/NMQ/ HOSOTOIAC/ CH52.php</a>), sách Lịch  Sử Và Hồ Sơ Tội Ác Của Giáo Hội La Mã, chúng tôi cũng đã trình bày khá nhiều trường  hợp về những hành động cực kỳ dã man của bọn con chiên người Việt trong những năm  1945-1954 ở Bắc Bộ và mấy tỉnh thuộc miền bắc Trung Bộ.</p>
+<p>Đồng thời,  trong Chương 52 với nhan đề là “Những Hành Động Dã Man Của Quân Lính Liên Hiệp  Pháp Và Lính Đạo” (<a href="/NMQ/HOSOTOIAC/CH52">https://sachhiem.net/NMQ/ HOSOTOIAC/ CH52.php</a>), sách Lịch  Sử Và Hồ Sơ Tội Ác Của Giáo Hội La Mã, chúng tôi cũng đã trình bày khá nhiều trường  hợp về những hành động cực kỳ dã man của bọn con chiên người Việt trong những năm  1945-1954 ở Bắc Bộ và mấy tỉnh thuộc miền bắc Trung Bộ.</p>
 <p>Vì giới hạn  trong khuôn khổ của chương sách này, và vì thời gian không được rộng rãi, chúng  tôi chỉ có thể nêu lên một số trường hợp điển hình như trên trong muôn ngàn chuyện  tương tự nói về tội ác dã man của bọn quạ đen và tín đồ  Ca-tô người Việt <i>"sống đạo theo tinh  thần Kitô</i>" tại các tỉnh trong vùng đồng bằng Bắc Bộ trong thời Kháng Chiến  1945-1954. Nếu muốn kể ra cho đầy đủ, thì phải dùng đến cả mấy ngàn trang giấy cũng  không thể nói cho hết được. <img src="https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/sqdot.gif" width="10" height="10" alt=""></p>

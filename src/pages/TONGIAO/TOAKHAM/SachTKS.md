@@ -2,14 +2,14 @@
 layout: ../../../layouts/Article.astro
 title: "Từ Chùa Báo Thiên Đến Tòa Khâm Sứ"
 author: "Nhiều Tác Giả"
-source: "https://sachhiem.net/TONGIAO/TOAKHAM/SachTKS.php"
+source: "/TONGIAO/TOAKHAM/SachTKS"
 category: "Tác giả"
 lang: vi
 wordCount: 322
-image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nha.jpg"
+image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/SACH/BiaTKS1.jpg"
 ---
 
-<p align="center"><a href="https://www.sachhiem.net/"> <img border="0" src="https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nha.jpg"></a> 05 tháng 5, 2008 </p>
+<p align="center"> 05 tháng 5, 2008 </p>
 <p align="center"><img src="https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/SACH/BiaTKS1.jpg" width="157" height="227" hspace="10" alt="">  <img src="https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/SACH/BiaTKS2.jpg" width="158" height="245" alt=""></p>
  <p><a href="/TONGIAO/TOAKHAM/SachTKS"><b>1</b></a>  <a href="/TONGIAO/TOAKHAM/ChuaBaoThien">2</a> 
 <a href="/TONGIAO/TOAKHAM/ChuaBaoThien1">3</a>  <a href="/TONGIAO/TOAKHAM/ChuaBaoThien2">4</a></p>

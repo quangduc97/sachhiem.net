@@ -3,7 +3,7 @@ layout: ../../../layouts/Article.astro
 title: "Valentine & Tình Yêu"
 author: "Thích Phước Toàn"
 date: 2018-02-13
-source: "https://sachhiem.net/VANHOC/T/TPToan01.php"
+source: "/VANHOC/T/TPToan01"
 category: "Chính trị"
 lang: vi
 wordCount: 136

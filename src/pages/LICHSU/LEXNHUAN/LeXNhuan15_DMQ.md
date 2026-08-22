@@ -3,7 +3,7 @@ layout: ../../../layouts/Article.astro
 title: "ÔNG LÀ AI?"
 author: "Lê Xuân Nhuận"
 date: 2015-03-09
-source: "https://sachhiem.net/LICHSU/LEXNHUAN/LeXNhuan15_DMQ.php"
+source: "/LICHSU/LEXNHUAN/LeXNhuan15_DMQ"
 category: "Lịch sử"
 lang: vi
 wordCount: 5897

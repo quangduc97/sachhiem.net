@@ -2,17 +2,17 @@
 layout: ../../../layouts/Article.astro
 title: "Thánh Kinh Chủ Đề"
 author: "Sưu Tập của Bernard Chang"
-source: "https://sachhiem.net/TONGIAO/tgB/Bernard1.php"
+source: "/TONGIAO/tgB/Bernard1"
 category: "Tác giả"
 lang: vi
 wordCount: 6592
-image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nha.jpg"
+image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/TONGIAO/IMG/BIBLE/Jeremiah19a.jpg"
 ---
 
-<p align="center"><a href="https://www.sachhiem.net/"> <img border="0" src="https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nha.jpg"></a> đăng 07 OCT 08, bổ túc 24 JAN 09</p>
+<p align="center"> đăng 07 OCT 08, bổ túc 24 JAN 09</p>
   <div class="tomluoc">
   <p><i>LTS: Bernard Chang thuộc thế hệ trẻ, vì không muốn nghe người ta bài bác "tôn giáo khác", nên đã bỏ công nghiên cứu về thánh kinh, nhất là cựu ước. Nhờ đó anh đã tìm được những điều "thú vị". Anh đã có vài lần đưa ra những mâu thuẩn và những điều kỳ quặc trong thánh kinh bằng chính những đoạn trích thẳng trong đó. Đôi khi anh chú thích thêm một vài câu để gửi một chút cảm xúc. Sau đây là những tiết mục đặc sắc của thánh kinh được gom vào dàn bài để giúp tra cứu dễ dàng. </i></p>
-  <p> Danh sách ban đầu được cập nhật tháng 12, năm 2018. Xin đọc thêm danh sách các trích dẫn trong bài viết <a href="https://www.sachhiem.net/TCN/TCNtg/3NGOI/TCN64_1.php"><i>"Đây! Thiên Chúa Của Những Người Theo Đạo Thiên Chúa</i>" của GS Trần Chung Ngọc</a>.  </p>
+  <p> Danh sách ban đầu được cập nhật tháng 12, năm 2018. Xin đọc thêm danh sách các trích dẫn trong bài viết <a href="/TCN/TCNtg/3NGOI/TCN64_1"><i>"Đây! Thiên Chúa Của Những Người Theo Đạo Thiên Chúa</i>" của GS Trần Chung Ngọc</a>.  </p>
   </div>
  <p>1. <a href="/TONGIAO/#loạn luân">Chúa và Giáo loạn luân </a> - Sách Sáng-thế Ký 3, Sáng-thế Ký 19. </p>
 <p>2. <a href="/TONGIAO/#trét phân">Chúa Trời trét phân trên mặt người. </a> - Sách Ma-la-chi 2 </p>

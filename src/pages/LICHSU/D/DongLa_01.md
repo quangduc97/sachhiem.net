@@ -3,7 +3,7 @@ layout: ../../../layouts/Article.astro
 title: "Về Cái “Bẫy Góc Nhìn Hẹp” Quanh Chuyện Tôn Vinh Lê Văn Duyệt"
 author: "Đông La"
 date: 2024-09-23
-source: "https://sachhiem.net/LICHSU/D/DongLa_01.php"
+source: "/LICHSU/D/DongLa_01"
 category: "Chính trị"
 lang: vi
 wordCount: 1546

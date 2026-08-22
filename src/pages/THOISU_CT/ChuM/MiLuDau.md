@@ -3,7 +3,7 @@ layout: ../../../layouts/Article.astro
 title: "Đã Đến Lúc Phải Có Thái Độ"
 author: "Mi-Lu Dau"
 date: 2016-07-09
-source: "https://sachhiem.net/THOISU_CT/ChuM/MiLuDau.php"
+source: "/THOISU_CT/ChuM/MiLuDau"
 category: "Chính trị"
 lang: vi
 wordCount: 2072

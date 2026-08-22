@@ -3,7 +3,7 @@ layout: ../../../layouts/Article.astro
 title: "Biên Giới 1979 Trước Biển Người Phương Bắc"
 author: "Thanh Lam, Hoàng Phương/VN-Express"
 date: 2019-02-13
-source: "https://sachhiem.net/THOISU_CT/ChuT/TinVNXpress7.php"
+source: "/THOISU_CT/ChuT/TinVNXpress7"
 category: "Chính trị"
 lang: vi
 wordCount: 7302

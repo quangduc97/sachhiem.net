@@ -3,7 +3,7 @@ layout: ../../../layouts/Article.astro
 title: "Hạt Nguyên Tử Mới Được Phát Hiện Sau 50 Năm Tìm Kiếm"
 author: "Lê Hùng/VNexpress"
 date: 2015-07-16
-source: "https://sachhiem.net/KHOAHOC/T/TinVNXprs01.php"
+source: "/KHOAHOC/T/TinVNXprs01"
 category: "Chính trị"
 lang: vi
 wordCount: 553

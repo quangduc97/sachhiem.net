@@ -2,11 +2,10 @@
 layout: ../../layouts/Article.astro
 title: "Sách giáo khoa phải giúp"
 author: "Nguyễn Hà"
-source: "https://sachhiem.net/nguồn: https://www.tuoitre.com.vn/Tianyon/Index.aspx?ArticleID=236005&amp;ChannelID=118"
+source: "/nguồn: https://www.tuoitre.com.vn/Tianyon/Index.aspx?ArticleID=236005&amp;ChannelID=118"
 category: "Văn hóa"
 lang: vi
 wordCount: 2005
-image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nha.jpg"
 ---
 
 <div align="center" style="position: relative; left: 0; top: 0">
@@ -36,8 +35,7 @@ image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nha.jpg"
 		<div style="padding-left: 50px; padding-right: 50px">
 			<table border="0" width="600">
 				<tbody><tr>
-					<td><a href="/index">
-					<img border="0" src="https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nha.jpg"></a></td>
+					<td></td>
 					<td valign="top"><font size="2">01 tháng 01, 2008
 	</font></td>
 				</tr>

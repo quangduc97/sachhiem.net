@@ -3,7 +3,7 @@ layout: ../../layouts/Article.astro
 title: "Sao Không Về Việt Nam? - Lằn Ranh Quốc Cộng"
 author: "Trần Tiên Long"
 date: 2014-10-15
-source: "https://sachhiem.net/TTL/TranTL57.php"
+source: "/TTL/TranTL57"
 category: "Lịch sử"
 lang: vi
 wordCount: 4909
@@ -18,7 +18,7 @@ image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/THOISU_CT/Hinh/CCCB/
 <p><i>Nếu xem đó là cách  phản biện, thì trả lời thế nào cho trường hợp một số người không muốn rời Việt Nam, mà tư tưởng thì bênh vực cho phe Quốc Gia?</i></p>
 <p align="center"><img src="https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/THOISU_CT/Hinh/CCCB/LanranhQuocCong.JPG" width="317" height="260"></p>
 <p align="center">Hai bình ảnh tương phản: ông Ngô (bên trái) và  ông Hồ (bên phải)</p>
-<p><i> Những biến cố  chính trị cũng như những cơn sóng thần, có thể làm nhiều người phải mãi mãi rời  xa quê hương. Sau trận hồng thủy là một trật tự mới. Nơi mà họ ra đi đã có dân  cư mới, và những người phiêu bạt cũng đã ổn định ở vùng đất mới. 50 con xuống biển, 50 con lên núi đều là con Rồng cháu Tiên. Các nước Châu Âu, đặc biệt là Pháp, ... đều đã có những cuộc di cư hàng loạt sang Mỹ vì tự do (nhất là tự do tôn giáo) từ thế kỷ 16, kéo dài hàng mấy thế kỷ, chứ không riêng Việt Nam (<a href="https://sachhiem.net/NMQ/NMQ037.php">xem câu hỏi số 5 trong bài Phỏng vấn GS NMQ - Ý Nghĩa Cuộc Chiến</a>). Chẳng lẽ hễ ai ca ngợi nơi nào đều phải  di cư trở lại nơi ấy mới được quyền nói? Đó là lý luận của trẻ con!</i> </p>
+<p><i> Những biến cố  chính trị cũng như những cơn sóng thần, có thể làm nhiều người phải mãi mãi rời  xa quê hương. Sau trận hồng thủy là một trật tự mới. Nơi mà họ ra đi đã có dân  cư mới, và những người phiêu bạt cũng đã ổn định ở vùng đất mới. 50 con xuống biển, 50 con lên núi đều là con Rồng cháu Tiên. Các nước Châu Âu, đặc biệt là Pháp, ... đều đã có những cuộc di cư hàng loạt sang Mỹ vì tự do (nhất là tự do tôn giáo) từ thế kỷ 16, kéo dài hàng mấy thế kỷ, chứ không riêng Việt Nam (<a href="/NMQ/NMQ037">xem câu hỏi số 5 trong bài Phỏng vấn GS NMQ - Ý Nghĩa Cuộc Chiến</a>). Chẳng lẽ hễ ai ca ngợi nơi nào đều phải  di cư trở lại nơi ấy mới được quyền nói? Đó là lý luận của trẻ con!</i> </p>
 <p><i>Rốt cuộc, tư tưởng phân chia <b>lằn ranh "Quốc Cộng"</b> là một tư tưởng lạc hậu. Các nước tự do đều có Đảng Cộng Sản, Mỹ, Pháp,... có ai hô hào "lằn ranh Quốc Cộng" đuổi Đảng Cộng Sản Mỹ, Cộng Sản Pháp đi sang Nga, sang Tàu, sang Cuba, sang Việt Nam không? Và ngược lại, ở các nước Cộng Sản, như Việt Nam, tuy mang tiếng độc đảng, nhưng  không ai đuổi những người không vào Đảng đi đâu cả. </i></p>
 <p><i>Quí vị hàng ngày vận động đa đảng nhưng lại tối kỵ Cộng Sản, sống chết với lằn ranh Quốc Cộng thì ai có thể tin rằng quí vị thực sự chấp nhận "đa đảng" nếu nắm được quyền? Hãy xem lại bản thân quí vị có xứng đáng lên tiếng "đấu tranh" cho dân chủ hay không? Tiến bộ lên một chút đi nào! </i></p>
 <p><i>Xin mời bạn đọc những lời đối thoại dưới đây. Thư dưới cùng là thư gửi trước. (SH) </i> </p>
@@ -81,7 +81,7 @@ image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/THOISU_CT/Hinh/CCCB/
 <p> Từ đó, chúng ta cần  phải nêu ra một câu hỏi như sau: </p>
 <p> <b>Người Việt Nam hải ngoại  có cần mất thì giờ và tâm huyết để tranh đấu cho những điều không thể  thay đổi?</b> </p>
 <p> Những phàn nàn của  chúng ta về Cộng sản, điển hình là 12 câu hỏi “tại sao” của ông Phúc  Linh dưới đây, là những điều lo lắng xa vời, không có trong thực tế hiện  tại ở VN. Những chuyện đã xảy ra hơn nửa thế kỷ hoặc ít nhất cũng gần  40 năm rồi thì làm sao chúng ta có thể thay đổi? Chúng đã thuộc về lịch  sử, được nhắc đến như là một bài học về lịch sử; mà lịch sử thì làm  sao có thể thay đổi? </p>
-<p> Tôi xin đồng ý với ông  Phúc Linh là có sự khác biệt giữa hai ý thức hệ Quốc/Cộng. Nhưng đó  chỉ là trên lý thuyết ở cả nửa thế kỷ về trước, không còn là vấn đề  cấp bách của thực tế hiện tại. Còn những điều tiêu cực hiện nay của  một chế độ thì không phải chỉ là độc quyền của chủ nghĩa Cộng sản.  Chúng có thể được tìm thấy rất dễ dàng ở các quốc gia khác không phải  là Cộng sản. Đối với những nét tiêu cực đó thì tôi xin tình nguyện là  một trong những chiến sĩ như tôi đã khẳng định qua đoạn văn sau trong bài <a href="https://sachhiem.net/index.php?content=showrecipe&amp;id=5931" target="_blank">Xin Được Mãi Mãi Là Người VN</a>: </p>
+<p> Tôi xin đồng ý với ông  Phúc Linh là có sự khác biệt giữa hai ý thức hệ Quốc/Cộng. Nhưng đó  chỉ là trên lý thuyết ở cả nửa thế kỷ về trước, không còn là vấn đề  cấp bách của thực tế hiện tại. Còn những điều tiêu cực hiện nay của  một chế độ thì không phải chỉ là độc quyền của chủ nghĩa Cộng sản.  Chúng có thể được tìm thấy rất dễ dàng ở các quốc gia khác không phải  là Cộng sản. Đối với những nét tiêu cực đó thì tôi xin tình nguyện là  một trong những chiến sĩ như tôi đã khẳng định qua đoạn văn sau trong bài <a href="/TTL/TranTL51" target="_blank">Xin Được Mãi Mãi Là Người VN</a>: </p>
 <p class="indent50">
   “<i>Đối với tôi, có một cuộc  chiến quan trọng và trường kỳ kể từ khi có con người, đó là một cuộc chiến giữa  thiện và ác; giữa những điều sai lầm, mê tín dị đoan và các chân lý; giữa tinh thần  cực đoan cuồng tín giáo điều và lòng bao dung chấp nhận những quan điểm đối nghịch;  giữa độc tài và tự do; giữa tham nhũng, bất công và công lý, v/v… mà vấn đề chủ  nghĩa hay chế độ chỉ là một trong những biểu hiệu của cuộc chiến. Đó là một cuộc  chiến mà tôi nghĩ bất cứ người trí thức nào cũng không thể từ chối dự phần. Chẳng  cần phải khẳng định cương vị của một người dân nước nào thì tôi cũng có thể tham  gia trận chiến trong khả năng và hoàn cảnh giới hạn của cá nhân tôi</i>.” </p>
 <p> Tóm lại, chúng ta không  nên lẫn lộn giữa quá khứ và hiện tại. Quá khứ là những điều đã xảy  ra rồi. Cho dù chúng ta có muốn hay không thì cũng không thể thay đổi được  quá khứ. Đem quá khứ để làm lý do tranh đấu như được tóm tắt trong 12  câu hỏi “tại sao” của ông Phúc Linh dưới đây rõ ràng là việc làm hoang  tưởng, vô trí. </p>
@@ -95,7 +95,7 @@ image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/THOISU_CT/Hinh/CCCB/
   <p class="TuaDoLeft">Sự Khác Biệt Ý Thức Hệ Quốc – Cộng </p>
   
   <p>  Kính thưa quí vị, </p>
-  <p> Trong bài <a href="https://sachhiem.net/index.php?content=showrecipe&amp;id=5931" target="_blank">“Xin Được Mãi Mãi Là Người Việt Nam” </a>tác giả Trần Tiên Long viết như sau : </p>
+  <p> Trong bài <a href="/TTL/TranTL51" target="_blank">“Xin Được Mãi Mãi Là Người Việt Nam” </a>tác giả Trần Tiên Long viết như sau : </p>
   <div class="indent50">
     <p>   “<i>Mà thực ra, chúng ta chống Cộng chỉ là trên danh nghĩa, chúng ta chống nhau  mới là bản chất đích thực của vấn đề.</i></p>
     <p>   <i>Cứ mỗi khi muốn chống ai trong việc làm  ăn hay tranh dành chức vụ thì việc đầu tiên chúng ta đội cho họ cái nón cối Cộng  sản, rồi sau đó tha hồ thoải mái tự do tố Cộng mà chẳng cần phải chứng minh họ là  Cộng sản.</i></p>
@@ -130,8 +130,8 @@ image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/THOISU_CT/Hinh/CCCB/
 </div>
 <hr>
 <p><b>Mời đọc thêm:</b></p>
-<p>- <a href="https://sachhiem.net/NMQ/NMQ50.php">Chiêu Trò Thuật Ngữ của Vatican Và “Lằn Ranh Quốc Cộng”</a> (Nguyễn Mạnh Quang)</p>
+<p>- <a href="/NMQ/NMQ50">Chiêu Trò Thuật Ngữ của Vatican Và “Lằn Ranh Quốc Cộng”</a> (Nguyễn Mạnh Quang)</p>
 <p>_______________</p>
-<p><a href="https://sachhiem.net/TTL/List.inc.php">Các bài của Trần Tiên Long » </a></p>
+<p><a href="/TTL/List.inc">Các bài của Trần Tiên Long » </a></p>
 
 <hr>

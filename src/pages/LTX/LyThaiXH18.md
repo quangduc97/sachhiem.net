@@ -3,7 +3,7 @@ layout: ../../layouts/Article.astro
 title: "Nhân Lễ Hội Chém Lợn - Lễ Ân Xá Cho Gà Tây Tại Tòa Bạch Ốc"
 author: "Lý Thái"
 date: 2015-03-07
-source: "https://sachhiem.net/LTX/LyThaiXH18.php"
+source: "/LTX/LyThaiXH18"
 category: "Xã hội"
 lang: vi
 wordCount: 1834

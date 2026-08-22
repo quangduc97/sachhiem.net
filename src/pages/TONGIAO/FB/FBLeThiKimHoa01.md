@@ -3,7 +3,7 @@ layout: ../../../layouts/Article.astro
 title: "Thư Khiếu Nại Và Facebook Đã Xin Lỗi"
 author: "Lê Nhi"
 date: 2021-11-30
-source: "https://sachhiem.net/TONGIAO/FB/FBLeThiKimHoa01.php"
+source: "/TONGIAO/FB/FBLeThiKimHoa01"
 category: "Tác giả"
 lang: vi
 wordCount: 756

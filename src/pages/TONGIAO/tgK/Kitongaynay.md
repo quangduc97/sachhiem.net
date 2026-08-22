@@ -3,7 +3,7 @@ layout: ../../../layouts/Article.astro
 title: "Giáo hội Kito thất bại trong việc giải quyết lạm dụng tình dục toàn cầu"
 author: "Trang Kitongaynay"
 date: 2022-11-02
-source: "https://sachhiem.net/TONGIAO/tgK/Kitongaynay.php"
+source: "/TONGIAO/tgK/Kitongaynay"
 category: "Chính trị"
 lang: vi
 wordCount: 591

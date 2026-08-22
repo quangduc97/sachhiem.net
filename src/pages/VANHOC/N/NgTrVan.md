@@ -2,14 +2,13 @@
 layout: ../../../layouts/Article.astro
 title: "Nguyễn Văn Trung: Một sỉ nhục cho trí thức"
 author: "Nguyễn Trọng Văn"
-source: "https://sachhiem.net/VANHOC/N/NgTrVan.php"
+source: "/VANHOC/N/NgTrVan"
 category: "Văn hóa"
 lang: vi
 wordCount: 1059
-image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nha.jpg"
 ---
 
-<p align="center"><a href="https://www.sachhiem.net/"> <img border="0" src="https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nha.jpg"></a> 07 tháng 6, 2008
+<p align="center"> 07 tháng 6, 2008
 	</p>
 	<p><span class="First">V</span>ấn đề liên hệ đến ông Nguyễn Văn Trung và tôi. Ông 
 		Nguyễn Văn Trung là một trí thức Công giáo nổi tiếng, viết sách báo 

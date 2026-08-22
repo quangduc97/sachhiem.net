@@ -3,7 +3,7 @@ layout: ../../../layouts/Article.astro
 title: "Bài Học Về Tự Do Ngôn Luận Ở Mỹ:"
 author: "NY Times"
 date: 2014-09-15
-source: "https://sachhiem.net/THOISU_CT/SH/HaiAu_01.php"
+source: "/THOISU_CT/SH/HaiAu_01"
 category: "Chính trị"
 lang: vi
 wordCount: 528

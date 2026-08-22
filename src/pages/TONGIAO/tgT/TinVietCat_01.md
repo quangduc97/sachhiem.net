@@ -3,7 +3,7 @@ layout: ../../../layouts/Article.astro
 title: "Các số thống kê mới về tình trạng người trẻ Mỹ rời bỏ Giáo Hội"
 author: "Vũ Văn An/ VietCatholic News"
 date: 2016-12-23
-source: "https://sachhiem.net/TONGIAO/tgT/TinVietCat_01.php"
+source: "/TONGIAO/tgT/TinVietCat_01"
 category: "Tác giả"
 lang: vi
 wordCount: 1341

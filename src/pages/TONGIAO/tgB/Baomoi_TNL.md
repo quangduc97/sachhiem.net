@@ -3,14 +3,14 @@ layout: ../../../layouts/Article.astro
 title: "Người Pháp lưu giữ ảnh độc về 'Hùm thiêng Yên Thế'"
 author: "Trần Ngọc Linh/ Báo Mới"
 date: 2014-08-08
-source: "https://sachhiem.net/TONGIAO/tgB/Baomoi_TNL.php"
+source: "/TONGIAO/tgB/Baomoi_TNL"
 category: "Chính trị"
 lang: vi
 wordCount: 822
 image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/LICHSU/IMG/DETHAM/GuyLacombe_suutam.JPG"
 ---
 
-<p><i>SH - Đăng để nhớ ơn tất cả những đấng anh hùng đã đổ máu xương gìn giữ non sông nước Việt cho đến ngày nay, và để nhớ đời những kẻ đã "mách" với quân giặc (xem <a href="https://sachhiem.net/LICHSU/TR/TQD38.php">"Thế Nào Là Tội Đồ Dân Tộc?"</a>) để cho cuộc khởi nghĩa thất bại, và những anh hùng này đã phải bị xử tử.</i></p><hr>
+<p><i>SH - Đăng để nhớ ơn tất cả những đấng anh hùng đã đổ máu xương gìn giữ non sông nước Việt cho đến ngày nay, và để nhớ đời những kẻ đã "mách" với quân giặc (xem <a href="/LICHSU/TR/TQD38">"Thế Nào Là Tội Đồ Dân Tộc?"</a>) để cho cuộc khởi nghĩa thất bại, và những anh hùng này đã phải bị xử tử.</i></p><hr>
   <p align="center"><img src="https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/LICHSU/IMG/DETHAM/GuyLacombe_suutam.JPG" width="350" height="233"></p>
   <p><span class="First">D</span>oanh nhân người Pháp, Guy Lacombe đã sống và làm việc ở TP.HCM hơn 14 năm. Ông say mê văn hóa Việt Nam và sưu tầm được nhiều cổ vật giá trị. Trong ba năm, ông miệt mài sưu tầm bưu ảnh Đông Dương bằng cách mua bán và trao đổi trên mạng và đã có khoảng 3.000 bức từ năm 1896 đến 1945. </p>
     <p align="center"><a href="https://news.zing.vn/Doanh-nhan-Phap-va-3000-buu-anh-doc-dao-ve-Dong-Duong-post441676.html"><img src="https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/LICHSU/IMG/DETHAM/GuyLacombe_suutam1.JPG" width="450" height="300"> </a><br> 

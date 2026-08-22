@@ -2,7 +2,7 @@
 layout: ../../layouts/Article.astro
 title: "TÁC GIẢ CẦN PHẢI LƯƠNG THIỆN VỚI ĐỘC GIẢ"
 author: "Mục Đồng"
-source: "https://sachhiem.net/null"
+source: "/null"
 category: "Đối thoại"
 lang: vi
 wordCount: 1713

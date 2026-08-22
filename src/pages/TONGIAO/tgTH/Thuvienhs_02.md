@@ -3,7 +3,7 @@ layout: ../../../layouts/Article.astro
 title: "Phật Giáo Hàn Quốc Và Việt Nam"
 author: "Robert Tomiller & Long Kim"
 date: 2025-02-09
-source: "https://sachhiem.net/TONGIAO/tgTH/Thuvienhs_02.php"
+source: "/TONGIAO/tgTH/Thuvienhs_02"
 category: "Tác giả"
 lang: vi
 wordCount: 2347

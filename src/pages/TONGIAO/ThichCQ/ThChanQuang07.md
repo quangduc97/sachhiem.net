@@ -3,7 +3,7 @@ layout: ../../../layouts/Article.astro
 title: "Ông Thích Chân Quang Tự Ý Sửa Đổi Giới Cấm Và Điều Nguyện Của Phật Giáo!"
 author: "BBT Thư Viện Hoa Sen"
 date: 2026-08-08
-source: "https://sachhiem.net/TONGIAO/ThichCQ/ThChanQuang07.php"
+source: "/TONGIAO/ThichCQ/ThChanQuang07"
 category: "Tác giả"
 lang: vi
 wordCount: 2595
@@ -20,7 +20,7 @@ image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/TONGIAO/IMG/SU/THCHA
 <p>Trong ngữ cảnh&nbsp;ngũ giới&nbsp;của nhà Phật thì cái gọi là giới “không phản bội” <b>không thể nào&nbsp;đồng nghĩa với&nbsp;giới “không tà dâm” được</b>. Giới&nbsp;không&nbsp;tà dâm,&nbsp;Đức Phật&nbsp;dạy&nbsp;rõ ràng&nbsp;là người&nbsp;xuất gia&nbsp;ly tục phải <b>dứt hẳn&nbsp;dâm dục,</b> còn người&nbsp;tại gia&nbsp;thì không được&nbsp;<b>tà dục.</b> Khi vợ chồng có cưới hỏi đủ lễ gọi là <b>chánh;</b>&nbsp;ngoài ra,&nbsp;lén lút&nbsp;lang chạ làm việc&nbsp;phi pháp&nbsp;với người khác phái gọi là <b>tà.</b></p>
 <div></div>
 <p>Cái gọi là&nbsp;giới không&nbsp;phản bội. Vậy không phản bội là không phản bội ai? Bạn bè, chồng vợ, con cái,&nbsp;cha mẹ,&nbsp;đồng nghiệp, thầy trò hay ở đây&nbsp;ám chỉ&nbsp;không phản bội "tôn sư".</p>
-<p>Không những tự ý&nbsp;sửa đổi&nbsp;giới cấm, giấy&nbsp;Quy y&nbsp;này còn đặt ra thêm các điều đáng&nbsp;kinh ngạc&nbsp;khác, như trong phần "<a href="http://sachhiem.net/TONGIAO/ThichCQ/ThChanQuang06.php">Chín điều nguyện"</a>: "<i>8. Nguyện tận dạ&nbsp;trung thành, vâng phục tôn sư" (tức là&nbsp;tuyệt đối&nbsp;trung thành&nbsp;và vâng phục&nbsp;thượng tọa&nbsp;Thích Chân Quang); "9. Nguyện không&nbsp;tu hành&nbsp;cô độc"</i>....  </p>
+<p>Không những tự ý&nbsp;sửa đổi&nbsp;giới cấm, giấy&nbsp;Quy y&nbsp;này còn đặt ra thêm các điều đáng&nbsp;kinh ngạc&nbsp;khác, như trong phần "<a href="/TONGIAO/ThichCQ/ThChanQuang06">Chín điều nguyện"</a>: "<i>8. Nguyện tận dạ&nbsp;trung thành, vâng phục tôn sư" (tức là&nbsp;tuyệt đối&nbsp;trung thành&nbsp;và vâng phục&nbsp;thượng tọa&nbsp;Thích Chân Quang); "9. Nguyện không&nbsp;tu hành&nbsp;cô độc"</i>....  </p>
 <p><b>Phật giáo&nbsp;làm gì có "trung thành" với ai?</b> Ngay cả Phật còn nói là đừng vội tin Phật kia mà? Sao bây giờ một vị&nbsp;Thượng tọa&nbsp;lại&nbsp;yêu cầu&nbsp;Phật tử&nbsp;"tận dạ trung thành" và "vâng phục" mình?  </p>
 <p>Phật còn nói, mỗi người <b>hãy làm hòn đảo cho chính mình</b> nương tựa, tự mình thắp đuốc lên mà đi, sao bây giờ&nbsp;Thượng tọa&nbsp;Thích Chân Quang lại cấm&nbsp;Phật tử&nbsp;tự tu hành? </p>
 <p>Nói&nbsp;tóm lại, việc tự ý&nbsp;sửa đổi&nbsp;giới cấm&nbsp;và đặt ra các "điều nguyện"&nbsp;trái với&nbsp;tinh thần,&nbsp;tư tưởng&nbsp;và&nbsp;giáo lý&nbsp;của nhà Phật như chùa Thiền Tôn&nbsp;Phật Quang&nbsp;của&nbsp;Thượng tọa&nbsp;Thích Chân Quang đã và đang làm,&nbsp;phải chăng&nbsp;là <b>đang&nbsp;công khai&nbsp;phá hủy&nbsp;đạo?</b></p>

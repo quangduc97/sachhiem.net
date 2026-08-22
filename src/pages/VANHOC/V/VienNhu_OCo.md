@@ -3,7 +3,7 @@ layout: ../../../layouts/Article.astro
 title: "O CƠ"
 author: "Viên Như"
 date: 2021-02-02
-source: "https://sachhiem.net/VANHOC/V/VienNhu_OCo.php"
+source: "/VANHOC/V/VienNhu_OCo"
 category: "Chính trị"
 lang: vi
 wordCount: 6659

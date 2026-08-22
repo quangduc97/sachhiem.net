@@ -3,7 +3,7 @@ layout: ../../../layouts/Article.astro
 title: "• Còn Nhớ Hồi Quí Vị Mới Sang Mỹ Hay Không?"
 author: "Mike Wilson"
 date: 2017-12-18
-source: "https://sachhiem.net/THOISU_CT/ChuM/MikeWilson_19.php"
+source: "/THOISU_CT/ChuM/MikeWilson_19"
 category: "Chính trị"
 lang: vi
 wordCount: 1738

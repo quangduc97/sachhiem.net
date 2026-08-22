@@ -3,7 +3,7 @@ layout: ../../../layouts/Article.astro
 title: "Tìm lại ý tưởng đặt tên Thành phố Hồ Chí Minh"
 author: "Lam Điền/ Tuổi Trẻ"
 date: 2016-02-10
-source: "https://sachhiem.net/LICHSU/T/TuoiTre15.php"
+source: "/LICHSU/T/TuoiTre15"
 category: "Chính trị"
 lang: vi
 wordCount: 1465

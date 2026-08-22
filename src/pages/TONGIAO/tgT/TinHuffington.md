@@ -6,13 +6,13 @@ source: "https://www.giaodiemonline.com/noidung_detail.php?newsid=5059"
 category: "Tác giả"
 lang: vi
 wordCount: 431
-image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nha.jpg"
+image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/SACHNGOAI/Hinhanh/PEOPLE/AnneRice.jpg"
 ---
 
 <p class="Tuaduoi">giải thích vì sao Bà bỏ đạo Chúa</p>
 
 
-<p align="center"><a href="https://www.sachhiem.net/"> <img border="0" src="https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nha.jpg"></a> 14 tháng 8, 2010	</p>
+<p align="center"> 14 tháng 8, 2010	</p>
  
 <p><span class="Date">Huffingtonpost đăng 
 ngày 11/08/2010 </span> </p>

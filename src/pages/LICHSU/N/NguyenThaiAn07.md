@@ -3,7 +3,7 @@ layout: ../../../layouts/Article.astro
 title: "Lời Nguyền Của D'Argenlieu"
 author: "Nguyễn Thái An"
 date: 2016-06-27
-source: "https://sachhiem.net/LICHSU/N/NguyenThaiAn07.php"
+source: "/LICHSU/N/NguyenThaiAn07"
 category: "Lịch sử"
 lang: vi
 wordCount: 550
@@ -55,7 +55,7 @@ D'Argenlieu chết năm 1964.</p>
  <p>Đó là lời nguyền của  d'Argenlieu.</p>
  
  <p class="TacgiaL">Nguyễn Thái An</p>
- <p>(*) Xin xem lời giải đáp của tác giả cho câu hỏi <a href="https://sachhiem.net/index.php?content=showemail&amp;id=1584"> "Đâu là Lời nguyền của d'Argenlieu"?</a>. </p>
+ <p>(*) Xin xem lời giải đáp của tác giả cho câu hỏi <a href="/hop-thu/1584"> "Đâu là Lời nguyền của d'Argenlieu"?</a>. </p>
  <div align="center"><div class="fb-share-button" data-layout="button" data-size="large" data-actiob="like" data-show-faces="true" data-share="true" data-mobile-iframe="true"></div>
 </div>
 <p>_________________</p>

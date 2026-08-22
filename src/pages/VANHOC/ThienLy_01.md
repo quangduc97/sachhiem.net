@@ -3,7 +3,7 @@ layout: ../../layouts/Article.astro
 title: "Kỳ 1: Phương Pháp “Làm Báo” Của Trần Đĩnh"
 author: "Thiên Lý"
 date: 2014-11-28
-source: "https://sachhiem.net/VANHOC/ThienLy_01.php"
+source: "/VANHOC/ThienLy_01"
 category: "Chính trị"
 lang: vi
 wordCount: 4343

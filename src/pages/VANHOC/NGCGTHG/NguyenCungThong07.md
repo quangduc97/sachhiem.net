@@ -2,17 +2,17 @@
 layout: ../../../layouts/Article.astro
 title: "Nguồn gốc Việt (Nam)"
 author: "Nguyễn Cung Thông"
-source: "https://sachhiem.net/VANHOC/NGCGTHG/NguyenCungThong07.php"
+source: "/VANHOC/NGCGTHG/NguyenCungThong07"
 category: "Văn hóa"
 lang: vi
 wordCount: 4586
-image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nha.jpg"
+image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/CHUCTET/Meo.jpg"
 ---
 
 <p class="Tuaduoi">của tên 12 con giáp -  Mão/Mẹo/mèo (4B)</p> 
 
 
-<p align="center"> <a href="/index"><img border="0" src="https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nha.jpg" align="middle" hspace="20"></a> 03 tháng 01, 2011 </p> 
+<p align="center">  03 tháng 01, 2011 </p> 
 
 <p><span class="First">K</span>hi so sánh các con vật biểu tượng cho 12 con giáp, 
 điểm khác biệt rõ nét nhất là người Việt Nam ta dùng con mèo<sup>1</sup> cho 

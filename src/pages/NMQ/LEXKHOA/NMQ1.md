@@ -2,17 +2,16 @@
 layout: ../../../layouts/Article.astro
 title: "MỘT SỐ NHỮNG SAI LẦM TRẦM TRỌNG TRONG"
 author: "Nguyễn Mạnh Quang"
-source: "https://sachhiem.net/NMQ/LEXKHOA/NMQ1.php"
+source: "/NMQ/LEXKHOA/NMQ1"
 category: "Lịch sử"
 lang: vi
 wordCount: 14066
-image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nha.jpg"
 ---
 
 <p class="Tuaduoi">CUỐN VIỆT NAM 1945-1995 CỦA TÁC GIẢ LÊ XUÂN KHOA</p>
 		
 
-<p align="center"><a href="https://sachhiem.net/index.php"><img border="0" hspace="20" src="https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nha.jpg"></a> 23 tháng 5, 2008 </p>
+<p align="center"> 23 tháng 5, 2008 </p>
 <p><a href="/NMQ/LEXKHOA/NMQ1">1 </a>  <a href="/NMQ/LEXKHOA/NMQ2"> 2 </a>  </p>
 			<p><i><a name="Lời_đầu:">Lời đầu:</a> Bài viết này là Chương 11 trong số 14 chương sách của quyển sách về "Hình Ảnh Người Việt Quốc Gia" mà người viết vừa  mới biên soạn xong.  Chương này cũng là một trong 
 			hai chương sách nói về di lụy của chính sách ngu dân và giáo dục 
@@ -32,7 +31,7 @@ image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nha.jpg"
 			kế tiếp.  Nhiều đọc giả bày tỏ cảm tưởng khi nhìn ra được những khúc 
 			mắc, hay những mặt trái của các vấn đề lịch sử và chính trị, do đó 
 			bắt đầu hoang mang không còn tin tưởng những quyển sách trước đây đã 
-			được đọc (xem <a href="https://sachhiem.net/NMQ/ThuDocgia/QThudocgia.php">https://sachhiem.net/NMQ/ThuDocgia/QThudocgia.php</a>).  Vì thế, có một số độc giả yêu cầu chúng tôi nêu đích danh 
+			được đọc (xem <a href="/NMQ/ThuDocgia/QThudocgia">https://sachhiem.net/NMQ/ThuDocgia/QThudocgia.php</a>).  Vì thế, có một số độc giả yêu cầu chúng tôi nêu đích danh 
 			những tác giả đã có một hay nhiều ấn phẩm lịch sử trong đó có nhiều 
 			sự kiện  lịch sử hoặc là bị bưng bít, hoặc là  bị xuyên tạc hay bị 
 			bóp méo với mục đích để (1) che giấu việc Vatican cấu kết chặt chẽ 

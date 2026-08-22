@@ -3,11 +3,11 @@ layout: ../../../layouts/Article.astro
 title: "“Sóng” Biển Đông Giữa Lòng Hà Nội"
 author: "Huỳnh Phan/ TuanVietnam"
 date: 2010-11-09
-source: "https://sachhiem.net/null"
+source: "/null"
 category: "Chính trị"
 lang: vi
 wordCount: 2760
-image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nha.jpg"
+image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/Hinh/VIETNAM/NatConvCtr.jpg"
 ---
 
 <div align="center" style="position: relative; left: 0; top: 0">
@@ -28,8 +28,7 @@ image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nha.jpg"
 	<div style="padding-left: 40px; padding-right: 40px">
 	
 		<table border="0" cellpadding="10" width="600" cols="2"><tbody><tr>
-		<td width="326"><a href="/index">
-		<img border="0" src="https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nha.jpg"></a></td>
+		<td width="326"></td>
 		<td valign="top">	13 tháng 11, 2010		</td></tr></tbody></table>
 		<p><i>Nguyên thủ của nhiều nước trong và ngoài khu vực đã đi qua dưới mái vòm "Sóng Biển Đông giữa lòng Hà Nội" để bàn các giải pháp để Biển Đông khỏi dậy sóng. Mặc dù, trong ba tháng trở lại đây, có những lúc "Biển Đông" đã "dậy sóng" ngay giữa lòng Hà Nội.</i></p>
 		<hr>

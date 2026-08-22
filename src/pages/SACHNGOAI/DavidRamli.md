@@ -2,7 +2,7 @@
 layout: ../../layouts/Article.astro
 title: "GIÁO HỘi CÔNG GIÁO CHỌN CỜ ĐỎ"
 author: "David Ramli"
-source: "https://sachhiem.net/[From : ProjectEYE.org]"
+source: "/[From : ProjectEYE.org]"
 lang: vi
 wordCount: 1067
 image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/SACHNGOAI/file:///C:/SACHHIEM/images/mail.gif"

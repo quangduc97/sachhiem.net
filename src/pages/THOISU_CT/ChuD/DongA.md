@@ -2,7 +2,7 @@
 layout: ../../../layouts/Article.astro
 title: "Dân chủ Thiên Chúa giáo"
 author: "Đông A"
-source: "https://sachhiem.net/null"
+source: "/null"
 category: "Chính trị"
 lang: vi
 wordCount: 2406

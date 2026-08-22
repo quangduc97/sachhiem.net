@@ -2,15 +2,15 @@
 layout: ../../../layouts/Article.astro
 title: "Làng cổ Bích La- Quảng Trị"
 author: "Trúc Diệp Thanh (Hà Nội)"
-source: "https://sachhiem.net/LICHSU/TRDTH/TrucDiepThanh03.php"
+source: "/LICHSU/TRDTH/TrucDiepThanh03"
 category: "Lịch sử"
 lang: vi
 wordCount: 2195
-image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nha.jpg"
+image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/LICHSU/TRDTH/IMG/BichLa.jpg"
 ---
 
 <table border="0" cellpadding="0" width="250" align="center"><tbody><tr>
-	<td width="125"><a href="/index"><img border="0" src="https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nha.jpg"></a></td>
+	<td width="125"></td>
 	<td valign="middle&quot;">	 26 tháng 5,  2010	</td></tr></tbody></table>
 		<p>
 		<img border="0" src="https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/LICHSU/TRDTH/IMG/BichLa.jpg" width="245" height="346" align="left" hspace="30"></p>

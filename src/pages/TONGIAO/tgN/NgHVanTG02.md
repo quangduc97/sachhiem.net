@@ -3,7 +3,7 @@ layout: ../../../layouts/Article.astro
 title: "Tại Sao Phải Có Một Đấng Tạo Hóa?"
 author: "Nguyễn Hoài Vân"
 date: 2017-12-23
-source: "https://sachhiem.net/TONGIAO/tgN/NgHVanTG02.php"
+source: "/TONGIAO/tgN/NgHVanTG02"
 category: "Chính trị"
 lang: vi
 wordCount: 577

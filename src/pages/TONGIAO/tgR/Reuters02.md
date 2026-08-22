@@ -3,7 +3,7 @@ layout: ../../../layouts/Article.astro
 title: "Những Lá Thư Nội Bộ Bị Lộ Ra Đã Tạo Thành"
 author: "Tin Reuters/Philip Pullella"
 date: 2012-01-21
-source: "https://sachhiem.net/TONGIAO/tgR/Reuters02.php"
+source: "/TONGIAO/tgR/Reuters02"
 category: "Tác giả"
 lang: vi
 wordCount: 2237

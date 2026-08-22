@@ -3,7 +3,7 @@ layout: ../../layouts/Article.astro
 title: "Những Bức Ảnh Kinh Điển Về Chiến Tranh Việt Nam - 1 Góc Nhìn Khác"
 author: "MẶT TRẬN THANH NIÊN CHỐNG PHẢN ĐỘNG"
 date: 2013-08-04
-source: "https://sachhiem.net/LICHSU/Mattran_Thanhnien.php"
+source: "/LICHSU/Mattran_Thanhnien"
 category: "Tác giả"
 lang: vi
 wordCount: 399

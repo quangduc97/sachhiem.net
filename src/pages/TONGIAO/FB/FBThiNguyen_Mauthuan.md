@@ -3,7 +3,7 @@ layout: ../../../layouts/Article.astro
 title: "Những Mâu Thuẫn Trong Thánh Kinh"
 author: "FB Thi Nguyên"
 date: 2020-06-17
-source: "https://sachhiem.net/TONGIAO/FB/FBThiNguyen_Mauthuan.php"
+source: "/TONGIAO/FB/FBThiNguyen_Mauthuan"
 category: "Tác giả"
 lang: vi
 wordCount: 1650
@@ -74,7 +74,7 @@ image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/TONGIAO/IMG/BIBLE/Bi
 <p>_______________</p>
 <p><b>Đọc thêm:</b></p>
 <p>- <b>Những Mâu Thuẫn Trong Kinh Thánh</b> <b>Tân Ước</b> (Nguyễn Trí Cảm)</p>
-<p><a href="https://sachhiem.net/TONGIAO/NGTRCAM/NguyenTriCam31.php">https://sachhiem.net/TONGIAO/NGTRCAM/NguyenTriCam31.php</a></p>
+<p><a href="/TONGIAO/NGTRCAM/NguyenTriCam31">https://sachhiem.net/TONGIAO/NGTRCAM/NguyenTriCam31.php</a></p>
 <p>...<i>Ít năm trước đây, <b>Chris Harrison</b>, một tay cừ khôi về điện toán, đã tạo ra một họa đồ rất đẹp như sau, liên kết đến tất  cả các tham chiếu khác nhau về mỗi sự kiện trong Kinh  Thánh. Ví dụ, nếu một  câu trong Tân Ước được nhắc lại một câu trong Cựu Ước, và vẽ một  vòng cung nối giữa hai chương đó (các đường thẳng đứng ở  phía dưới đại diện cho câu số thứ tự trong mỗi chương liên hệ) </i></p>
 <p align="center"><a href="https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.devhttps://chrisharrison.net/projects/bibleviz/BibleVizArc7.png"> <img src="https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/TONGIAO/IMG/BIBLE/Biblecontradiction.jpg" width="329" height="143" alt="Chart of Biblical Contradictions" longdesc="https://www.patheos.com/blogs/friendlyatheist/2013/08/19/an-incredible-interactive-chart-of-biblical-contradictions/"></a></p>
 <p align="center"><a href="https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.devhttps://chrisharrison.net/projects/bibleviz/BibleVizArc7.png">Bấm vào để xem độ phân giải cao hơn </a></p>

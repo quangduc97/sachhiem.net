@@ -3,7 +3,7 @@ layout: ../../../layouts/Article.astro
 title: "Cha mẹ học sinh theo đạo Phật ở Bắc Louisiana"
 author: "Nguyễn Trí Cảm dịch"
 date: 2014-02-27
-source: "https://sachhiem.net/TONGIAO/NGTRCAM/NguyenTriCam36_kien.php"
+source: "/TONGIAO/NGTRCAM/NguyenTriCam36_kien"
 category: "Tác giả"
 lang: vi
 wordCount: 2363

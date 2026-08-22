@@ -3,7 +3,7 @@ layout: ../../../layouts/Article.astro
 title: "Đề Cao Lòng Hiếu Đạo, Từ Nền Tảng Đạo Đức Thực Có Của Phật Giáo"
 author: "Dương Kinh Thành"
 date: 2015-06-27
-source: "https://sachhiem.net/VANHOC/DKTH/DgKinhThanh12.php"
+source: "/VANHOC/DKTH/DgKinhThanh12"
 category: "Tác giả"
 lang: vi
 wordCount: 1777

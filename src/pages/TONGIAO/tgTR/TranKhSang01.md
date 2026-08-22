@@ -3,7 +3,7 @@ layout: ../../../layouts/Article.astro
 title: "Là Một Linh Mục Không Nên 'Phóng Uế' Bừa Bãi Nơi Công Cộng"
 author: "Trần Khai Sáng"
 date: 2014-09-21
-source: "https://sachhiem.net/TONGIAO/tgTR/TranKhSang01.php"
+source: "/TONGIAO/tgTR/TranKhSang01"
 category: "Chính trị"
 lang: vi
 wordCount: 841

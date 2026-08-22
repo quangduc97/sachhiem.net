@@ -3,7 +3,7 @@ layout: ../../layouts/Article.astro
 title: "Thư gửi GS. Nguyễn Đăng Hưng “Nếu Nhầm Lẫn Thì Xin Lỗi và Im Lặng”"
 author: "Nguyễn Đắc Xuân"
 date: 2019-12-24
-source: "https://sachhiem.net/NDX/NDX028_ADR.php"
+source: "/NDX/NDX028_ADR"
 category: "Chính trị"
 lang: vi
 wordCount: 7851
@@ -148,7 +148,7 @@ dâng hiến trong lễ tôn vinh Cố đạo Đắc Lộ ở Iran ngày 5-11-20
 <p> _________________</p>
 <p><b>Bài đọc thêm:</b></p>
 <p>-<a href="https://tuoitre.vn/nhom-nguoi-gui-kien-nghi-khong-dat-ten-duong-hai-giao-si-chung-toi-bi-khung-bo-20191130101436605.htm"> Nhóm người gửi kiến nghị không đặt tên đường hai giáo sĩ: "Chúng tôi bị khủng bố" </a></p>
-<p><a href="https://sachhiem.net/LICHSU/ListQUOCNGU.inc.php">- Những bài viết liên quan đến "Chữ Quốc Ngữ"</a></p>
+<p><a href="/LICHSU/ListQUOCNGU.inc">- Những bài viết liên quan đến "Chữ Quốc Ngữ"</a></p>
 <p><a href="https://www.youtube.com/watch?time_continue=706&amp;v=0z4HM8xrUOI">- Nguyễn Đắc Xuân và Mệnh Lệnh Của Trái Tim</a> - phóng sự May 2, 2016 </p>
 <p>- <a href="https://tuoitre.vn/dh-duy-tan-giai-the-vien-vinh-danh-chu-quoc-ngu-20191224154830634.htm">ĐH Duy Tân giải thể Viện Vinh Danh Chữ Quốc Ngữ</a> - ngày 24/12/2019 16:32</p>
 <p><iframe width="480" height="270" src="https://www.youtube.com/embed/0z4HM8xrUOI" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe></p>

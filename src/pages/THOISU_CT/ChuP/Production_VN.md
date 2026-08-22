@@ -3,7 +3,7 @@ layout: ../../../layouts/Article.astro
 title: "Việt Nam: Một thay thế cho Trung Quốc trong sản xuất?"
 author: "HSBC Global Connections"
 date: 2014-03-18
-source: "https://sachhiem.net/THOISU_CT/ChuP/Production_VN.php"
+source: "/THOISU_CT/ChuP/Production_VN"
 category: "Tác giả"
 lang: vi
 wordCount: 364

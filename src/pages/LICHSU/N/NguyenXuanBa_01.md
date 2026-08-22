@@ -3,7 +3,7 @@ layout: ../../../layouts/Article.astro
 title: "Về Hai Bản Tuyên Ngôn Độc Lập"
 author: "Nguyễn Xuân Ba"
 date: 2018-01-21
-source: "https://sachhiem.net/LICHSU/N/NguyenXuanBa_01.php"
+source: "/LICHSU/N/NguyenXuanBa_01"
 category: "Chính trị"
 lang: vi
 wordCount: 3379
@@ -65,13 +65,13 @@ image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/LICHSU/IMG/HOCHIMINH
     <p>(**) Trích Tuyên ngôn Độc lập của Hồ Chí Minh. </p>
   <p>__________________</p>
   <p><b>Bài cùng đề tài:</b></p>
-  <p>- <a href="https://sachhiem.net/PNNHAN/Tuyenngon.php">Tuyên ngôn Độc lập Việt Nam</a> (Wiki)</p>
-  <p>- <a href="https://sachhiem.net/AMARITX/AMI09_JL.php">Tuyên Ngôn Độc Lập Còn Là Tuyên Ngôn Nhân Quyền Của Nhà Nước Việt Nam</a> - Amari-TX</p>
-  <p>-<a href="https://sachhiem.net/TONGIAO/tgTR/TranAnhSang_04.php"> Ai là Cha Già Dân Tộc? Học Lại Bài Tuyên Ngôn Độc Lập Việt Nam</a> - Trần Ánh Sáng</p>
-  <p>- <a href="https://sachhiem.net/index.php?content=showrecipe&amp;id=6381">Đọc GS TS Lịch Sử Phạm Cao Dương "Từ Bảo Đại đến Hồ Chí Minh: HAI BẢN TUYÊN NGÔN ĐỘC LẬP"</a>- Trần Khách Quan</p>
-  <p>- <a href="https://sachhiem.net/NMQ/PCD/NMQ053.php">Việt Nam Có Độc Lập Tự Do Từ Chính Quyền Trần Trọng Kim Hay Không?</a> - Nguyễn Mạnh Quang</p>
-  <p>- <a href="https://sachhiem.net/NMQ/ChanDungVNCH/QMN02a.php">Chân Dung "Người Việt Quốc Gia" Và Lá Cờ Vàng Ba Sọc Đỏ</a> - Nguyễn Mạnh Quang</p>
-  <p>- <a href="https://sachhiem.net/NMQ/NMQ54_VTh.php">Vài Điểm Sai Lầm Trong Bài Viết: “CSVN Có Phải Là Một Chinh Quyền Chính Thức, Có Chính Danh Hay Không?” của LS Lưu Nguyễn Đạt</a> - Nguyễn Mạnh Quang</p>
-  <p>- <a href="https://sachhiem.net/index.php?content=showemail&amp;id=924">Việt Nam Có Độc Lập Tự Do Từ Chính Quyền Trần Trọng Kim Hay Không? - Stainley Karnow ghi lại rất rõ</a> - Duyên Sinh </p>
-  <p>- <a href="https://sachhiem.net/index.php?content=showemail&amp;id=995">CHÍNH DANH! NÓI VỚI TS LƯU NGUYỄN ĐẠT - CSVN: Có Chính Danh, Chính Nghĩa ...Hay Không? </a>- Trần Khách Quan </p>
+  <p>- <a href="/PNNHAN/Tuyenngon">Tuyên ngôn Độc lập Việt Nam</a> (Wiki)</p>
+  <p>- <a href="/AMARITX/AMI09_JL">Tuyên Ngôn Độc Lập Còn Là Tuyên Ngôn Nhân Quyền Của Nhà Nước Việt Nam</a> - Amari-TX</p>
+  <p>-<a href="/TONGIAO/tgTR/TranAnhSang_04"> Ai là Cha Già Dân Tộc? Học Lại Bài Tuyên Ngôn Độc Lập Việt Nam</a> - Trần Ánh Sáng</p>
+  <p>- <a href="/DOITHOAI/TranKhachQuan_02">Đọc GS TS Lịch Sử Phạm Cao Dương "Từ Bảo Đại đến Hồ Chí Minh: HAI BẢN TUYÊN NGÔN ĐỘC LẬP"</a>- Trần Khách Quan</p>
+  <p>- <a href="/NMQ/PCD/NMQ053">Việt Nam Có Độc Lập Tự Do Từ Chính Quyền Trần Trọng Kim Hay Không?</a> - Nguyễn Mạnh Quang</p>
+  <p>- <a href="/NMQ/ChanDungVNCH/QMN02a">Chân Dung "Người Việt Quốc Gia" Và Lá Cờ Vàng Ba Sọc Đỏ</a> - Nguyễn Mạnh Quang</p>
+  <p>- <a href="/NMQ/NMQ54_VTh">Vài Điểm Sai Lầm Trong Bài Viết: “CSVN Có Phải Là Một Chinh Quyền Chính Thức, Có Chính Danh Hay Không?” của LS Lưu Nguyễn Đạt</a> - Nguyễn Mạnh Quang</p>
+  <p>- <a href="/net/index">Việt Nam Có Độc Lập Tự Do Từ Chính Quyền Trần Trọng Kim Hay Không? - Stainley Karnow ghi lại rất rõ</a> - Duyên Sinh </p>
+  <p>- <a href="/net/NMQ/NMQ54_VTh">CHÍNH DANH! NÓI VỚI TS LƯU NGUYỄN ĐẠT - CSVN: Có Chính Danh, Chính Nghĩa ...Hay Không? </a>- Trần Khách Quan </p>
     <p class="nguonL">Nguồn: https://tuanbaovannghetphcm.vn/ve-hai-ban-tuyen-ngon-doc-lap/ ngày 19 tháng 3, 2016</p>

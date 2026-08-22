@@ -2,17 +2,17 @@
 layout: ../../../layouts/Article.astro
 title: "Cuộc Tàn Sát Trẻ Thơ Vô Tội"
 author: "DuyênSinh"
-source: "https://sachhiem.net/TONGIAO/tgD/Duyensinh06.php"
+source: "/TONGIAO/tgD/Duyensinh06"
 category: "Tác giả"
 lang: vi
 wordCount: 10538
-image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nha.jpg"
+image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/TONGIAO/IMG/BIBLE/HerodTheGreat.jpg"
 ---
 
 <p class="Tuaduoi">Theo Kinh Thánh</p>
 
  
- <p align="center"><a href="/TONGIAO/index"><img hspace="20" border="0" src="https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nha.jpg"></a></p>
+ 
  <p align="center"><img src="https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/TONGIAO/IMG/BIBLE/HerodTheGreat.jpg" width="150" height="201"><br>Ảnh: <a href="https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.devhttps://upload.wikimedia.org/wikipedia/commons/f/f6/HerodtheGreat2.jpg">https://upload.wikimedia.org/</a> </p>
 <p><span class="First">C</span>uộc tàn sát trẻ thơ vô tội là một câu chuyện trong Kinh Thánh Tân  Ước. Có tất cả 14.000 (mười bốn ngàn) <a name="note1" href="/TONGIAO/#fn1"><sup> (1) </sup> </a>
  trẻ em trai từ 2 tuổi trở  xuống bị Đại Đế Herod, một ông vua chư hầu của đế quốc La Mã, đang trị vì dân  Do Thái từ năm 74 BC hoặc năm 73 BC cho tới năm 4 BC, ra lệnh tàn sát. </p>

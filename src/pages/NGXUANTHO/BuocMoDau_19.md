@@ -3,18 +3,17 @@ layout: ../../layouts/Article.astro
 title: "Bước Mở Đầu Của Sự Thiết Lập Hệ Thống Thuộc Địa Pháp Ở Việt Nam"
 author: "TS Nguyễn Xuân Thọ"
 date: 2023-02-13
-source: "https://sachhiem.net/NGXUANTHO/BuocMoDau_12.php"
+source: "/NGXUANTHO/BuocMoDau_12"
 category: "Lịch sử"
 lang: vi
 wordCount: 11877
-image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nha.jpg"
+image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/sqdot.gif"
 ---
 
 <p class="Tuaduoi"><b>Sau</b></p>
 
 
-  <p align="center"><a href="https://www.sachhiem.net/">
-<img border="0" src="https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nha.jpg"></a>| <a target="_blank" href="https://sachhiem.net/NGXUANTHO/BuocMoDau_Main.php"><span lang="en-us"><b><font face="Symbol">¿</font></b></span> trở ra mục lục</a>| 13-Feb-2023</p> 
+  <p align="center">| <a target="_blank" href="/NGXUANTHO/BuocMoDau_Main"><span lang="en-us"><b><font face="Symbol">¿</font></b></span> trở ra mục lục</a>| 13-Feb-2023</p> 
 <p class="TuaDoLeft"><b>Chương 18 - Cuộc Kháng Chiến Của Vua Hàm Nghi Và Việc Vua Đồng Khánh Lên Ngôi</b></p>
 <p>Tướng Roussel de Courcy đã được thỏa mãn: trong cái ngày 5/7/1885 náo loạn ấy, ông ta đã chiếm được kinh thành nước Việt Nam, bị bỏ ngỏ. Ông ta đã đạt được mục đích của mình; ngôi sao của ông ta đang&nbsp;<i>“bùng lên một ánh sáng chói lọi mới…”.</i></p>
 <p>Câu chuyện vua Hàm Nghi bỏ trốn về vùng núi rừng phía Bắc, rồi tổ chức cuộc kháng chiến kéo dài 20 năm sau, khi nhà vua bị bắt thì ở Pháp chẳng ai để ý tới, kể cả chánh phủ, cũng như dư luận.</p>

@@ -3,17 +3,15 @@ layout: ../../layouts/Article.astro
 title: "Chúc Duyên Lành Năm Mới"
 author: "Trần Kiêm Đoàn"
 date: 2012-01-24
-source: "https://sachhiem.net/VANHOC/TranKiemDoan03.php"
+source: "/VANHOC/TranKiemDoan03"
 category: "Văn hóa"
 lang: vi
 wordCount: 99
-image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nha.jpg"
 ---
 
 <table border="0" cellpadding="1" width="250" align="center">
 		<tbody><tr>
-			<td><a href="/index">
-			<img border="0" src="https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nha.jpg"></a></td>
+			<td></td>
 			<td valign="top" width="244">
 			</td>
 		</tr>

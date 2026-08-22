@@ -3,7 +3,7 @@ layout: ../../layouts/Article.astro
 title: "Vài Sự Kiện Về Mùa Lễ Thanksgiving Đầu Tiên"
 author: "Lý Thái Xuân"
 date: 2016-11-23
-source: "https://sachhiem.net/LTX/LyThaiXH27.php"
+source: "/LTX/LyThaiXH27"
 category: "Xã hội"
 lang: vi
 wordCount: 1643

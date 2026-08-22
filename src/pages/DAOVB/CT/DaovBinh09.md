@@ -3,7 +3,7 @@ layout: ../../../layouts/Article.astro
 title: "Diễn Biến Nguy Hiểm tại Biển Hoa Đông"
 author: "Đào Văn Bình"
 date: 2013-11-26
-source: "https://sachhiem.net/DAOVB/CT/DaovBinh09.php"
+source: "/DAOVB/CT/DaovBinh09"
 category: "Chính trị"
 lang: vi
 wordCount: 1449
@@ -36,6 +36,6 @@ của Trung Quốc hôm nay. Ảnh: AFP</p>
 <p class="TacgiaR"><b><i>Đào Văn Bình</i></b></p>
 <p align="right"><i>(California ngày 25/11/2013)</i></p>
  <p>____________________</p>
-   <p><a href="https://sachhiem.net/LICHSU/H/HoangSa_list.php">Các bài về Hoàng Sa- Trường Sa đăng trên sachhiem.net » </a></p>
+   <p><a href="/LICHSU/H/HoangSa_list">Các bài về Hoàng Sa- Trường Sa đăng trên sachhiem.net » </a></p>
      
 <hr>

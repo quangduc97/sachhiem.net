@@ -3,19 +3,19 @@ layout: ../../../layouts/Article.astro
 title: "Xin Hãy Ngưng Làm Tên \"Cùng Tử\""
 author: "Hoàng Thục An"
 date: 2015-04-24
-source: "https://sachhiem.net/XAHOI/xhH/HoangThucAn_0.php"
+source: "/XAHOI/xhH/HoangThucAn_0"
 category: "Chính trị"
 lang: vi
 wordCount: 3041
-image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nha.jpg"
+image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/XAHOI/IMG/VIETNAM/vanhoa-uongtra.jpg"
 ---
 
 <p class="Tuaduoi">40 Năm Được Mất Những Gì?</p>
 
    
   
-  <p align="center"><a href="https://www.sachhiem.net/"> <img border="0" src="https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nha.jpg"></a> </p>
-  <p><i>LTS: Vài tháng trước, chúng tôi có đăng <a href="https://sachhiem.net/THOISU_CT/ChuN/NguyenHai.php">bài viết của Hải Nguyễn</a> nhấn mạnh ở mục đích chính là&nbsp; không ký  thỉnh nguyện thư như đã làm trước đây, vì nó có  tính cách yêu sách, tiêu cực, chứ không phải là một ý kiến xây dựng đóng góp cho xã hội mình đang sống. Hôm nay, lá thư được đưa ra trên diễn đàn và được nhận xét dưới nhiều  khía cạnh khác nhau. &nbsp;Nhưng có một góc cạnh nhân bản   mà người góp ý Hoàng Thục An đã khai triển một cách xuất sắc. Chúng tôi muốn giới thiệu với bạn đọc một góc nhìn lá thư của Hải Nguyễn  như một góp ý tuyệt vời - nhân 40 năm hải ngoại- về cách nhận diện căn cước của người Việt ly  hương dưới ánh sáng tích cực trong niềm tự hào dân tộc. (SH)</i></p>
+  
+  <p><i>LTS: Vài tháng trước, chúng tôi có đăng <a href="/THOISU_CT/ChuN/NguyenHai">bài viết của Hải Nguyễn</a> nhấn mạnh ở mục đích chính là&nbsp; không ký  thỉnh nguyện thư như đã làm trước đây, vì nó có  tính cách yêu sách, tiêu cực, chứ không phải là một ý kiến xây dựng đóng góp cho xã hội mình đang sống. Hôm nay, lá thư được đưa ra trên diễn đàn và được nhận xét dưới nhiều  khía cạnh khác nhau. &nbsp;Nhưng có một góc cạnh nhân bản   mà người góp ý Hoàng Thục An đã khai triển một cách xuất sắc. Chúng tôi muốn giới thiệu với bạn đọc một góc nhìn lá thư của Hải Nguyễn  như một góp ý tuyệt vời - nhân 40 năm hải ngoại- về cách nhận diện căn cước của người Việt ly  hương dưới ánh sáng tích cực trong niềm tự hào dân tộc. (SH)</i></p>
   <p align="center"><img src="https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/XAHOI/IMG/VIETNAM/vanhoa-uongtra.jpg" width="350" height="261" alt="https://netthainguyen.com/bai-viet/tim-hieu-van-hoa-uong-tra-cua-nguoi-viet-nam-xua-va-nay/"></p>
   <p align="center">Ảnh minh họa -  "<i>Tìm Hiểu Văn Hóa Uống Trà</i>" https://netthainguyen.com/</p>
   <hr>
@@ -81,4 +81,4 @@ image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nha.jpg"
   <i>Mặt khác, một số tổ  chức cộng đồng (a certain number of your community organizations) các anh nộp  thỉnh cầu </i>(petition)<i> chánh phủ Mỹ <b>xin dùng áp lực kinh tế với  Vietnam </b>để đòi cho các anh vài điều mà các anh có thể tự làm lấy, nhưng  chính hành động của các anh</i> (hợp tác kinh tế với chế độ thù nghịch)<i> rồi các anh phản lại thỉnh cầu của các anh. Các anh là lũ hề </i>(you, bunch of comedians)<br>
     Ông  hỏi:<b><i> "Trả  lời tôi, các anh là loại người gì”?</i></b> (Please answer me, what kind of people  are you?)</p>
   <p>(SH  xem tiếp ở =&gt;)<br>
-    <a href="https://sachhiem.net/THOISU_CT/ChuN/NguyenHai.php">https://sachhiem.net/THOISU_CT/ChuN/NguyenHai.php</a></p>
+    <a href="/THOISU_CT/ChuN/NguyenHai">https://sachhiem.net/THOISU_CT/ChuN/NguyenHai.php</a></p>

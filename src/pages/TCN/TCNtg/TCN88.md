@@ -2,10 +2,10 @@
 layout: ../../../layouts/Article.astro
 title: "Và Của “ĐỨC THÁNH CHA” BENEDICT XVI"
 author: "Trần Chung Ngọc"
-source: "https://sachhiem.net/null"
+source: "/null"
 lang: vi
 wordCount: 9808
-image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nha.jpg"
+image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/SACHNGOAI/Hinhanh/PEOPLE/RobertGreenIngersoll.jpg"
 ---
 
 <div align="center" style="position:  relative; left:  0; top:  0">
@@ -22,8 +22,7 @@ image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nha.jpg"
 <tr><td width="100%">
 <div style="padding-left:  50px; padding-right:  50px"> 
 	<table border="0" cellpadding="1" width="86%" cols="2"><tbody><tr>
-	<td><a href="/TCN/http: //www.sachhiem.net/">
-	<img border="0" src="https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nha.jpg"></a></td>
+	<td></td>
 <td valign="top" width="210"><p>10 tháng 1,  2010</p></td></tr></tbody></table>
 	
 		<p><b><font size="5" face="Times New Roman">H</font></b>ầu hết các tín đồ Ca-tô Rô-maGiáo [Công giáo], 
@@ -319,7 +318,7 @@ image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nha.jpg"
 	kiện này sẽ được bổ túc qua những tài liệu của các vị có thẩm quyền trong 
 	giáo hội Ca Tô. Phần trích dẫn này chỉ là một phần trong bài nghiên cứu 
 	(với nguyên bản Anh ngữ) về Lịch sử các Giáo hoàng đăng trên
-	<a href="https://www.sachhiem.net/TCNtg/TCN20.php">
+	<a href="/TCNtg/TCN20">
 	https://www.sachhiem.net/TCNtg/TCN20.php</a> </p>
 	<p>
 	<i>

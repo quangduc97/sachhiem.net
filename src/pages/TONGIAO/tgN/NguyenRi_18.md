@@ -3,7 +3,7 @@ layout: ../../../layouts/Article.astro
 title: "Góp Ý Với Con Chiên Phản Quốc Michael Nguyễn"
 author: "Ri Nguyễn"
 date: 2015-11-28
-source: "https://sachhiem.net/TONGIAO/tgN/NguyenRi_18.php"
+source: "/TONGIAO/tgN/NguyenRi_18"
 category: "Tác giả"
 lang: vi
 wordCount: 2391
@@ -46,11 +46,11 @@ image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/LICHSU/IMG/VNchuS/Vu
   <p align="center"><img src="https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/TONGIAO/IMG/LINHMUC/TranLuc_bacdauboitinh.jpg" width="200" height="220" alt="linh mục Trần Lục"></p>
   <p>Tên  con chiên phản quốc Chúa Thứ Hai Trần Lục với huy chương do Thực Dân Pháp trao  tặng đeo đầy mình </p>
   <p><b>(2) </b>THƯ GIÁM MỤC NGÔ ĐÌNH THỤC 
-          GỞI TOÀN QUYỀN ĐÔNG DƯƠNG JEAN DECOUX - <a href="https://sachhiem.net/BUIKHA/BuiKha.php" target="_blank">https://sachhiem.net/BUIKHA/BuiKha.php</a> </p>
+          GỞI TOÀN QUYỀN ĐÔNG DƯƠNG JEAN DECOUX - <a href="/BUIKHA/BuiKha" target="_blank">https://sachhiem.net/BUIKHA/BuiKha.php</a> </p>
 <p>
   <b>(3)</b> Thà mất nước hơn mất “Chúa”). <a href="https://vi-vn.facebook.com/VienKhoaHocLichSu/posts/129356780542866" target="_blank"> https://vi-vn.facebook.com/VienKhoaHocLichSu/...</a> </p>
 <p>
-    <b>(4)</b> Ngô Quang Kiệt: <i>"Tôi cảm thấy rất nhục nhã khi  mang Quốc tịch Việt Nam"</i>   và   thà  mất nước hơn mất <i>“Chúa”.</i> <a href="https://sachhiem.net/LICHSU/TR/TQD12.php" target="_blank">Về Những Biện Hộ Cho Câu "Thà Mất Nước Chứ Không Chịu Mất Chúa" </a>  </p>
+    <b>(4)</b> Ngô Quang Kiệt: <i>"Tôi cảm thấy rất nhục nhã khi  mang Quốc tịch Việt Nam"</i>   và   thà  mất nước hơn mất <i>“Chúa”.</i> <a href="/LICHSU/TR/TQD12" target="_blank">Về Những Biện Hộ Cho Câu "Thà Mất Nước Chứ Không Chịu Mất Chúa" </a>  </p>
 <p>
     <b>(5)</b> <a href="https://www.amazon.com/Tyrants-Historys-Most-Despots-Dictators/dp/1848588291/ref=sr_1_1?ie=UTF8&amp;qid=1448857147&amp;sr=8-1&amp;keywords=tyrants+history%27s+100+most+evil+despots+%26+dictators" target="_blank"> Tyrants: History's 100 Most Evil Despots &amp; Dictators</a>)  - Nigel Cawthorne </p>
   <p><b>(6)</b> <a href="https://en.wikipedia.org/wiki/Ng%C3%B4_%C4%90%C3%ACnh_Kh%E1%BA%A3" target="_blank" title="Ngô Đình Khả">Ngô Đình Khả</a>,  Cha của <a href="https://en.wikipedia.org/wiki/Ngo_Dinh_Diem" target="_blank" title="Ngo Dinh Diem">Ngô Đình Diêm</a>—đã đào mả cụ Phan, đốt  thân xác cụ, hòa với thuốc súng bắn kháng chiến quân.         </p>
@@ -90,10 +90,10 @@ image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/LICHSU/IMG/VNchuS/Vu
 <p>
     <b>(11)</b> <a href="https://www.reformation.org/publish.html" target="_blank">https://www.reformation.org/publish.html</a>  “Why  Another Book About Vietnam?” Avro Manhattan (1914-1990). </p>
 <p><b>Tôn Giáo khởi động cuộc chiến vô đạo đức </b>- Câu Chuyện ghê tởm về vai trò của Vatican trong cuộc khởi động chiến  tranh Viêt Nam</p>
-<p><b>(12)</b> –a- <a href="https://sachhiem.net/TCN/TCNdt/TCNdt037.php">https://sachhiem.net/TCN/TCNdt/TCNdt037.php</a> cuốn  <i>Hành Hương Đất Phật</i>  của tác giả Phan Thiết, tức cựu Thẩm  Phán Nguyễn Kim Khánh. Đây là một cuốn sách viết về Phật Giáo bởi một tín đồ  Thiên Chúa Giáo, có mục đích xuyên tạc và dèm pha Phật Giáo. </p>
+<p><b>(12)</b> –a- <a href="/TCN/TCNdt/TCNdt037">https://sachhiem.net/TCN/TCNdt/TCNdt037.php</a> cuốn  <i>Hành Hương Đất Phật</i>  của tác giả Phan Thiết, tức cựu Thẩm  Phán Nguyễn Kim Khánh. Đây là một cuốn sách viết về Phật Giáo bởi một tín đồ  Thiên Chúa Giáo, có mục đích xuyên tạc và dèm pha Phật Giáo. </p>
 <p> -b- <i>“Tú Gàn Là Ai?”..</i>Jun 6, 2011     -  Nguyễn Cần là một con chiên thuần thành của đạo Gia-Tô, tin bà Maria hãy ... Nguyễn Kim Khánh, Nguyễn Cần, Nguyễn Lý Tưởng, Nguyễn Hữu Công, .... Tội  ác mà Tú Gàn đã gây ra là viết bôi bác Phật giáo trong cuốn “Những ..... Đáng bàn là ông cựu Thẩm phán Nguyễn Cần/Tú Gàn là người  vừa có tài,  ... <a href="https://kbchaingoai.wordpress.com/2011/06/06/tu-gan-la-ai/" target="_blank">https://kbchaingoai.wordpress.com/2011/...</a> &nbsp;</p>
  <p> -c-  <i>“Ngụy Tạo Và Xuyên Tạc Về Cuộc Tự Thiêu Của Hòa Thượng Thích Quảng Đức - Tại Sao?” </i>
-  (Pháp Lạc và Nguyễn Kha) <a href="https://sachhiem.net/TONGIAO/tgN/NguyenKha01.php">https://sachhiem.net/TONGIAO/tgN/NguyenKha01.php</a>,  &nbsp;<a href="https://giaodiemonline.com/2011/11/xuyentac.htm" target="_blank">https://giaodiemonline.com/2011/11/xuyentac.htm</a></p>
+  (Pháp Lạc và Nguyễn Kha) <a href="/TONGIAO/tgN/NguyenKha01">https://sachhiem.net/TONGIAO/tgN/NguyenKha01.php</a>,  &nbsp;<a href="https://giaodiemonline.com/2011/11/xuyentac.htm" target="_blank">https://giaodiemonline.com/2011/11/xuyentac.htm</a></p>
 <p>
   <b>(13)</b> <i>“Vatican scandal heats up with revelations of greed, intrigue</i>” By <i>NICOLE WINFIELD</i>, https://news.yahoo.com/vatican-leaks-...</p>
 <p class="TacgiaL">  Ri  Nguyen </p>
@@ -133,4 +133,4 @@ image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/LICHSU/IMG/VNchuS/Vu
   <p>_______________________ </p>
   <p>Các bài của Nguyễn Ri: link</p>
 <p>
-<a href="https://sachhiem.net/TONGIAO/tgN/ListRiNguyen.inc.php" target="_blank">https://sachhiem.net/TONGIAO/tgN/ListRiNguyen.inc.php</a></p>
+<a href="/TONGIAO/tgN/ListRiNguyen.inc" target="_blank">https://sachhiem.net/TONGIAO/tgN/ListRiNguyen.inc.php</a></p>

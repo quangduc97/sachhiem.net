@@ -3,16 +3,14 @@ layout: ../../../layouts/Article.astro
 title: "Môn Đồ của Đắc Lộ Giảng Bậy Để Chê Thuyết Vô Ngã"
 author: "Hoàng Thục An"
 date: 2016-05-05
-source: "https://sachhiem.net/TONGIAO/tgH/HgThucAn8.php"
+source: "/TONGIAO/tgH/HgThucAn8"
 category: "Tác giả"
 lang: vi
 wordCount: 2112
-image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/HOANHLINH/images/nha.jpg"
+image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.devhttps://tiennong.vn/uploads/images/cayngo8.jpg"
 ---
 
-<p align="center"><a href="https://www.sachhiem.net/">
-	<img border="0" src="https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/HOANHLINH/images/nha.jpg"></a></p>
-<p><i>LTS: Tựa của trang nhà, đặt cho cuộc trao đổi dưới đây. Lúng túng trước những lời giảng bá đạo của Giêsu trong các kinh sách của Đạo Chúa, những "chiên hóa cáo" bèn đánh lạc hướng sang đề tài khác. Rốt cuộc cũng là chiêu cũ của Alexandre De Rhodes, bá đạo hơn hẳn Giêsu. Giêsu chỉ đòi rủa sả và chém kẻ nào không tin ông ta (<a href="https://www.transcripture.com/vietnamese-italian-luke-19.html">LU-CA: 19: 26</a>, <a href="https://www.wiki.thuvientinlanh.org/index.php?title=Ma-la-chi:_Ch%C6%B0%C6%A1ng_2">Malachi, chương 2</a>), còn Alexandre De Rhodes đòi "chém cho Phật ngã với", nghĩa là nguyên cả tôn giáo khác (xem <a href="https://sachhiem.net/TTL/TranTL13.php">"Tôi Đọc Tiếp Đặng Thúy BN587" của Trần Tiên Long</a>). Nhưng ở thời đại ngày nay, người ta không thể ngồi im như trong các "thánh đường" để các con cáo này (như Nguyễn Hy Vọng trong bài này) </i><i>giảng bậy   nữa. (SH) </i></p>
+<p><i>LTS: Tựa của trang nhà, đặt cho cuộc trao đổi dưới đây. Lúng túng trước những lời giảng bá đạo của Giêsu trong các kinh sách của Đạo Chúa, những "chiên hóa cáo" bèn đánh lạc hướng sang đề tài khác. Rốt cuộc cũng là chiêu cũ của Alexandre De Rhodes, bá đạo hơn hẳn Giêsu. Giêsu chỉ đòi rủa sả và chém kẻ nào không tin ông ta (<a href="https://www.transcripture.com/vietnamese-italian-luke-19.html">LU-CA: 19: 26</a>, <a href="https://www.wiki.thuvientinlanh.org/index.php?title=Ma-la-chi:_Ch%C6%B0%C6%A1ng_2">Malachi, chương 2</a>), còn Alexandre De Rhodes đòi "chém cho Phật ngã với", nghĩa là nguyên cả tôn giáo khác (xem <a href="/TTL/TranTL13">"Tôi Đọc Tiếp Đặng Thúy BN587" của Trần Tiên Long</a>). Nhưng ở thời đại ngày nay, người ta không thể ngồi im như trong các "thánh đường" để các con cáo này (như Nguyễn Hy Vọng trong bài này) </i><i>giảng bậy   nữa. (SH) </i></p>
 <hr>
 <p><b>From:</b> From "Hoang Thuc An hoangthucan@gmail.com [ChinhNghiaViet]" <br>
   <b>Date:</b>  Fri, 6 May 2016 14:24:39 +<br>

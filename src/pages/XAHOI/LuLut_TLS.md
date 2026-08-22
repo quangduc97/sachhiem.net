@@ -3,7 +3,7 @@ layout: ../../layouts/Article.astro
 title: "Cộng đồng người Việt tại các bang bờ Tây nước Mỹ chung tay hướng về Miền Trung Việt Nam"
 author: "TLSQ VN"
 date: 2020-10-21
-source: "https://sachhiem.net/XAHOI/LuLut_TLS.php"
+source: "/XAHOI/LuLut_TLS"
 category: "Xã hội"
 lang: vi
 wordCount: 280

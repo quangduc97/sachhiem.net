@@ -3,7 +3,7 @@ layout: ../../../layouts/Article.astro
 title: "Nhìn Lại Thế Giới Năm 2019"
 author: "Đào Văn Bình"
 date: 2019-05-21
-source: "https://sachhiem.net/DAOVB/CT/DaovBinh134.php"
+source: "/DAOVB/CT/DaovBinh134"
 category: "Chính trị"
 lang: vi
 wordCount: 12065

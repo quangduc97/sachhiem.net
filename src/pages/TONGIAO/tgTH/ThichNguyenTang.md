@@ -2,7 +2,7 @@
 layout: ../../../layouts/Article.astro
 title: "PHẬT ĐÀI DHAMMAKAYA"
 author: "Thích Nguyên Tạng"
-source: "https://sachhiem.net/nguồn https://www.thuvienhoasen.org/dhammakaya.htm&nbsp; https://www.dhammakaya.or.th/visitorzone/whattosee_main_en.php"
+source: "/nguồn https://www.thuvienhoasen.org/dhammakaya.htm&nbsp; https://www.dhammakaya.or.th/visitorzone/whattosee_main_en"
 category: "Tác giả"
 lang: vi
 wordCount: 4484

@@ -2,7 +2,7 @@
 layout: ../../layouts/Article.astro
 title: "Hoa nở trên vũng bùn"
 author: "Giang Thượng"
-source: "https://sachhiem.net/null"
+source: "/null"
 category: "Xã hội"
 lang: vi
 wordCount: 589

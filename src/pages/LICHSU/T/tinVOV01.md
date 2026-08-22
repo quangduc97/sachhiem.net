@@ -5,7 +5,7 @@ source: "https://www.baomoi.com/Home/XaHoi/vovnews.vn/Bac-Ho-trong-suy-nghi-cua-
 category: "Chính trị"
 lang: vi
 wordCount: 885
-image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nha.jpg"
+image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/THOISU_CT/Hinh/NHANVAT/GSChungHoangChuong.jpg"
 ---
 
 <div align="center" style="position: relative; left: 0; top: 0">
@@ -28,8 +28,7 @@ image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nha.jpg"
 	<tbody><tr><td bgcolor="White" align="justify" valign="top">
 		
 			<table border="0" cellpadding="10" width="600" cols="2"><tbody><tr>
-				<td><a href="/index">
-				<img src="https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nha.jpg" border="0"></a></td>
+				<td></td>
 	<td valign="top" width="175">15 tháng 6, 2010
 	</td></tr></tbody></table>
 				<table border="0" width="180" id="table1" align="left" cellpadding="10">

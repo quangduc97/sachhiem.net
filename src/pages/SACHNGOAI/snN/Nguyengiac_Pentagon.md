@@ -3,7 +3,7 @@ layout: ../../../layouts/Article.astro
 title: "The Pentagon Papers: Biến Động Phật Giáo"
 author: "Thư Viện Hoa Sen"
 date: 2018-05-30
-source: "https://sachhiem.net/SACHNGOAI/snN/Nguyengiac_Pentagon.php"
+source: "/SACHNGOAI/snN/Nguyengiac_Pentagon"
 category: "Lịch sử"
 lang: vi
 wordCount: 4902

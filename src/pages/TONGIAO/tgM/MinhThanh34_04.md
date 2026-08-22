@@ -3,7 +3,7 @@ layout: ../../../layouts/Article.astro
 title: "[VATICANOLOGY] Cờ Trắng Cho Ukraina: Chính Quyền Vatican Muốn Cuộc Chiến Nào Chấm Dứt Và Muốn Cuộc Chiến Nào Diễn Ra? (Bài 2)"
 author: "Minh Thạnh"
 date: 2024-04-08
-source: "https://sachhiem.net/TONGIAO/tgM/MinhThanh34_04.php"
+source: "/TONGIAO/tgM/MinhThanh34_04"
 category: "Chính trị"
 lang: vi
 wordCount: 5033

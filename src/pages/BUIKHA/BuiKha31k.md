@@ -3,7 +3,7 @@ layout: ../../layouts/Article.astro
 title: "Tuyển Tập II: NGUYỄN TRƯỜNG TỘ - 12 bài biện chính"
 author: "Bùi Kha"
 date: 2016-08-29
-source: "https://sachhiem.net/BUIKHA/BuiKha31k.php"
+source: "/BUIKHA/BuiKha31k"
 category: "Đối thoại"
 lang: vi
 wordCount: 3113
@@ -58,7 +58,7 @@ image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/BUIKHA/img/BuiTranPh
 <p>   Thật  vậy, tất cả những bài chiêu dụ của NTT đều viết sau khi Pháp chiếm nhiều tỉnh  tại Việt Nam,  và ông viết theo tình hình chính trị và quân sự của Pháp thời bấy giờ. Thưa bà  Tiến sỹ, bị Pháp đô hộ, bị ràng buộc vào các hòa ước, Việt Nam không có  chủ quyền thì làm sao mà khai thác hầm mỏ. Pháp đồng ý để Việt Nam  thực hiện việc khai thác hầm mỏ sao? Và sử sách nào cho thấy<i>“Ông lặn lội ra nước ngoài thuê mướn người về  đi khai mỏ?”</i>. Chỉ có một lần năm 1868, Vua Tự Đức đồng ý việc mở trường kỷ  thuật tại Huế, nhà vua tài trợ cho NTT và Giám mục tình báo Gauthier (nhà vua  không biết ông ta là tình báo) qua Pháp, mua dụng cụ, sách vở và mời thầy giáo  về mở trường kỹ thuật. Sau một năm ở tại Pháp, tiêu tiền nhà vua phủ phê. Trong  tờ trình cho vua Tự Đức biết sự chi tiêu bao nhiêu và bốn ông thầy giáo có  những khả năng chuyên môn gì. Nhưng tài liệu của “<i>Bộ truyền giáo hải ngoại Paris”</i> cho thấy, <b>NTT và Gauthier lừa gạt nhà vua</b>. Mời TS xem NTT và ông tình báo  Gauthier phỉnh gạt nhà vua, dối trá việc mở <i>trường kỹ thuật</i> ở Huế. Tài liệu, xem &nbsp;Bùi Kha, “<i>Nguyễn  Trường Tộ &amp; vấn đề canh tân”.</i> Nhà Xuất bàn Văn học, Hà Nội, 30.3.2011”  tr. 134, và TBC, <i>sđd</i>, tr.49-50).</p>
  <p><b>- TS Phượng</b>: <i>“Bản thân Nguyễn Trường Tộ lúc ấy thuộc  thành phần bị tình nghi, bị loại ra ngoài vòng pháp luật. Ông là người công  giáo, đã đi nước ngoài nhiều lần, được các linh mục người Pháp tin dùng. Với  "lý lịch" như vậy, ông vẫn dám viết điều trần, gặp các quan đầu triều  đình như Phan Thanh Giản, Phạm Phú Thứ, Trần Tiễn Thành... Làm chính trị như  Nguyễn Trường Tộ đâu phải ai cũng làm được?”</i></p>
 <p>   <i>“Còn mục đích canh tân của ông thì rõ  ràng là để cứu nước, giữ chủ quyền quốc gia. Ông hoàn toàn vì đất nước, dân tộc  chứ không hề vụ lợi gì cho mình”.</i></p>
-<p>   <b>-Bùi Kha:</b> Để biết tại sao  khen nhầm NTT, mời TS Phượng xem <a href="https://sachhiem.net/BUIKHA/BuiKha31h.php">Bùi Kha phản biện bài viết của TS Lê Thị Lan,  bài số 8 trong cuốn sách nầy</a>. Tôi trích sơ lược vài đoạn như sau:</p>
+<p>   <b>-Bùi Kha:</b> Để biết tại sao  khen nhầm NTT, mời TS Phượng xem <a href="/BUIKHA/BuiKha31h">Bùi Kha phản biện bài viết của TS Lê Thị Lan,  bài số 8 trong cuốn sách nầy</a>. Tôi trích sơ lược vài đoạn như sau:</p>
 <p>   Để cụ thể, tôi trình bày <b><i>tư  duy cải cách</i></b> (nếu có) của Nguyễn Trường Tộ dưới góc nhìn mang tính toán  học bằng phương trình 3 chữ <b>T:</b></p>
 <p>  <b>TT=  T1+T2+T3 </b>(TT: thành tựu,  T1: Tâm, T2: Trí và T3: Tiền (hoặc phương tiện).</p>
 <p>   Một  người muốn canh tân hoặc cải cách phải có tình yêu đối với tổ quốc (T1). Phải  có trí tuệ (T2). Và hoàn cảnh cũng như phương tiện để vận hành việc canh tân  (T3). Dưới đây là một số sử liệu để xem ông Nguyễn Trường Tộ có ba tiêu chí ấy  không?</p>
@@ -75,4 +75,4 @@ image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/BUIKHA/img/BuiTranPh
  <p class="TacgiaL"><b>&nbsp;Bùi  Kha</b> </p>
 <p>   22.3.2016</p>
  <p><b>Xin mời đọc thêm:</b></p>
- <p>- <a href="https://sachhiem.net/print.php?id=5914">Phản biện luận cứ về Nguyễn Trường Tộ trong "Lý do Nhật đổi mới thành công còn VN thì không?" - phỏng vấn TS Bùi Trân Phượng của TuanVietnamNet</a> - (Nguyễn Đăng Lâm)</p>
+ <p>- <a href="/print.php?id=5914">Phản biện luận cứ về Nguyễn Trường Tộ trong "Lý do Nhật đổi mới thành công còn VN thì không?" - phỏng vấn TS Bùi Trân Phượng của TuanVietnamNet</a> - (Nguyễn Đăng Lâm)</p>

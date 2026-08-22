@@ -2,11 +2,11 @@
 layout: ../../../layouts/Article.astro
 title: "Galileo - Phải Đợi Đến 400 Năm Vatican Mới Xóa Án"
 author: "Vương Vũ"
-source: "https://sachhiem.net/Nguồn: các diễn đàn emails"
+source: "/Nguồn: các diễn đàn emails"
 category: "Tác giả"
 lang: vi
 wordCount: 2397
-image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nha.jpg"
+image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/KHOAHOC/IMG/ASTRO/GalileoScope.jpg"
 ---
 
 <div align="center">
@@ -38,7 +38,7 @@ image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nha.jpg"
 	<tbody><tr><td bgcolor="White" align="justify" valign="top">
 		<div style="padding-left: 40px; padding-right: 40px">
 		<table border="0" cellpadding="10" width="80%" cols="2"><tbody><tr>
-		<td width="129"><a href="/index"><img border="0" src="https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nha.jpg"></a></td>
+		<td width="129"></td>
 	<td valign="top">	17 tháng 3,  2009
 	</td></tr></tbody></table>
 	

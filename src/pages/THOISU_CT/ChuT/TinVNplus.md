@@ -6,7 +6,7 @@ source: "https://en.vietnamplus.vn/Home/Vietnam-asks-Google-Maps-to-correct-mist
 category: "Chính trị"
 lang: vi
 wordCount: 497
-image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nha.jpg"
+image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/LICHSU/IMG/GoogleVN.jpg"
 ---
 
 <div align="center" style="position: relative; left: 0; top: 0">
@@ -25,8 +25,7 @@ image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nha.jpg"
 <div style="padding-left: 50px; padding-right: 50px">
 	<table border="0" cellpadding="0" width="87%">
 		<tbody><tr>
-			<td valign="top"><a href="/index">
-			<img border="0" src="https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nha.jpg"></a></td>
+			<td valign="top"></td>
 			<td valign="top" width="239"> 21 tháng 3, 2010	</td></tr></tbody></table>
 	<div style="border-top: 1px solid #CCCCFF; border-bottom: 1px solid #CCCCFF; padding-left: 20px; padding-right: 20px; padding-top: 10px; padding-bottom: 10px; background-color: #EAEAEB">
 Bà Nguyễn Phương Nga, Phát ngôn của Bộ Ngoại Giao Viêt Nam, nói rằng Việt Nam yêu cầu Google Maps sửa lại việc diễn tả đường biên giới (đất liền)  giữa Việt Nam và Trung Quốc. </div>

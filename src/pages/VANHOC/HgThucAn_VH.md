@@ -3,7 +3,7 @@ layout: ../../layouts/Article.astro
 title: "Thi Ca Châm Biếm Đả Kích Họ Ngô Đình"
 author: "HTA sưu tầm"
 date: 2016-10-28
-source: "https://sachhiem.net/VANHOC/HgThucAn_VH.php"
+source: "/VANHOC/HgThucAn_VH"
 category: "Văn hóa"
 lang: vi
 wordCount: 1289

@@ -2,7 +2,7 @@
 layout: ../../../layouts/Article.astro
 title: "Cảnh Giác Với Hiểm Họa Tôn Giáo"
 author: "Hòa Bình gửi"
-source: "https://sachhiem.net/null"
+source: "/null"
 category: "Tác giả"
 lang: vi
 wordCount: 1281
@@ -31,7 +31,7 @@ image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nhacu.jpg"
 <table border="2" cellpadding="50" cellspacing="0" width="100%" topmargin="10"> 
 	<tbody><tr><td bgcolor="White" align="justify" valign="top">
 <table border="0" cellpadding="10" width="100%"><tbody><tr>
- <td><a href="https://sachhiem.net/"><img border="0" src="https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nhacu.jpg"></a></td>
+ <td><a href="/"><img border="0" src="https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nhacu.jpg"></a></td>
  
 	<td valign="top" style="text-align:right">	<i><font size="2">11 tháng 1, 2008
 	</font>
@@ -145,7 +145,7 @@ Vatican, vừa phải
 đối phó với những cụ biến loạn do những người Tin lành gây ra.</p>
 
 <hr width="50%">
-	<p><a href="https://sachhiem.net/EMAILS/Hoabinh.php">Các Emails của Hòa Bình</a>
+	<p><a href="/EMAILS/Hoabinh">Các Emails của Hòa Bình</a>
     </p></td></tr>
 </tbody></table>
 </td> </tr>

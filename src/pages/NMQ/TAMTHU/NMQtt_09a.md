@@ -2,17 +2,17 @@
 layout: ../../../layouts/Article.astro
 title: "Tâm Thư Gửi Nhà Nước Việt Nam"
 author: "Nguyễn Mạnh Quang"
-source: "https://sachhiem.net/NMQ/TAMTHU/NMQtt_09a.php"
+source: "/NMQ/TAMTHU/NMQtt_09a"
 lang: vi
 wordCount: 9725
-image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nha.jpg"
+image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/print.gif"
 ---
 
-<p align="center"><a href="https://www.sachhiem.net/"> <img border="0" src="https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nha.jpg"></a> | 
-<a target="_blank" href="https://sachhiem.net/NMQ/TAMTHU/NMQtt_09.php">
+<p align="center"> | 
+<a target="_blank" href="/NMQ/TAMTHU/NMQtt_09">
 <img border="0" src="https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/print.gif" width="18" height="18"> 
   bản in</a> | 
-	<a target="_blank" href="https://sachhiem.net/NMQ/TAMTHU/NMQtt_Main.php"><b><font face="Symbol" size="5"> ¿ </font></b> trở ra mục lục</a>
+	<a target="_blank" href="/NMQ/TAMTHU/NMQtt_Main"><b><font face="Symbol" size="5"> ¿ </font></b> trở ra mục lục</a>
  |  16 tháng 5, 2009 </p>
  
 <p class="CHUONG">PHẦN II</p>
@@ -20,7 +20,7 @@ image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nha.jpg"
 <p class="MUC">CHƯƠNG 9</p>
 <p class="MUC"> CHÍNH SÁCH ĐÀO TẠO NGƯỜI THEO  "TINH THẦN CÔNG GIÁO"  CỦA VATICAN  
 </p>
-<p class="center"><a target="_blank" href="https://sachhiem.net/NMQ/TAMTHU/NMQtt_09.php">(tiếp theo) </a></p>
+<p class="center"><a target="_blank" href="/NMQ/TAMTHU/NMQtt_09">(tiếp theo) </a></p>
 <p><span class="First">N</span>goài những thảm cảnh trên đây, 
 còn có những gia đình đang sống trong hạnh phúc với 
 nhau cũng chỉ vì ảnh hưởng của chính sách <i>“đào 

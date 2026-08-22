@@ -3,7 +3,7 @@ layout: ../../../layouts/Article.astro
 title: "Trong Hơn Một Năm, 95 Nhà thờ Công Giáo Tại Hoa Kỳ Bị Tấn Công"
 author: "Tổng hợp Vatican News"
 date: 2021-12-28
-source: "https://sachhiem.net/TONGIAO/tgT/TinVatican02.php"
+source: "/TONGIAO/tgT/TinVatican02"
 category: "Chính trị"
 lang: vi
 wordCount: 1710
@@ -30,7 +30,7 @@ image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/TONGIAO/IMG/CHURCH/D
   
   
  
-<p class="tomluoc">[Nhà Thờ San Gabriel, cứ điểm truyền giáo do nhà truyền giáo <a href="https://sachhiem.net/TONGIAO/FB/FBMathieuLeAnh.php">Junípero Serra</a> thành lập vừa bị đốt cháy. Bản tin "<i>Trong hơn một năm, 95 nhà thờ Công giáo tại Hoa Kỳ bị tấn công</i>" dưới đây đã đăng trên trang nhà <a href="https://www.vaticannews.va/vi/world/news/2021-09/95-nha-tho-hoa-ky-bi-tan-cong-trong-hon-mot-nam.html">Vatican News ngày 16 tháng 9, 2021</a>]</p>
+<p class="tomluoc">[Nhà Thờ San Gabriel, cứ điểm truyền giáo do nhà truyền giáo <a href="/TONGIAO/FB/FBMathieuLeAnh">Junípero Serra</a> thành lập vừa bị đốt cháy. Bản tin "<i>Trong hơn một năm, 95 nhà thờ Công giáo tại Hoa Kỳ bị tấn công</i>" dưới đây đã đăng trên trang nhà <a href="https://www.vaticannews.va/vi/world/news/2021-09/95-nha-tho-hoa-ky-bi-tan-cong-trong-hon-mot-nam.html">Vatican News ngày 16 tháng 9, 2021</a>]</p>
 <p align="center"><img src="https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/TONGIAO/IMG/CHURCH/DAP PHA/SanGabriel_My_249tuoi.jpeg" width="450" height="255" alt=""></p>
 <p>Theo một báo cáo của Ủy ban Tự do Tôn giáo của Hội đồng giám mục Hoa Kỳ, từ tháng 5/2020 đến nay có ít nhất 95 nhà thờ Công giáo tại 29 tiểu bang của Hoa Kỳ bị phá hoại, từ đốt phá, phá hủy tượng ảnh đến sơn vẽ chữ thập ngoặc và các câu chống Công giáo, vv.</p>
  

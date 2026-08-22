@@ -2,14 +2,14 @@
 layout: ../../layouts/Article.astro
 title: "Ngôi nhà ảo tưởng của Mẹ Teresa"
 author: "Susan Shields"
-source: "https://sachhiem.net/nguồn https://www.secularhumanism.org/index.php?section=library&amp;page=shields_18_1"
+source: "/nguồn https://www.secularhumanism.org/index.php?section=library&amp;page=shields_18_1"
 category: "Tác giả"
 lang: vi
 wordCount: 3298
-image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nha.jpg"
+image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/TONGIAO/IMG/Meteresa.jpg"
 ---
 
-<p align="center"><a href="/index"><img hspace="20" border="0" src="https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nha.jpg"></a>   22 tháng 1, 2008	</p>
+<p align="center">   22 tháng 1, 2008	</p>
 
 		<p style="text-align: center"><img border="0" src="https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/TONGIAO/IMG/Meteresa.jpg" width="229" height="176"></p>
 				<p>Vài năm sau khi tôi trở thành tín đồ Công giáo, tôi đã gia 

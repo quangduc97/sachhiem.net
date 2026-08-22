@@ -3,7 +3,7 @@ layout: ../../../layouts/Article.astro
 title: "Góp Ý Về Thư Phúc Đáp Của Antoine Nguyễn Tấn"
 author: "Nguyễn Sâm"
 date: 2013-03-27
-source: "https://sachhiem.net/TONGIAO/tgN/Nguyensam1.php"
+source: "/TONGIAO/tgN/Nguyensam1"
 category: "Đối thoại"
 lang: vi
 wordCount: 4669

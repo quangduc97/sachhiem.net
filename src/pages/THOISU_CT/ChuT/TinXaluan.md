@@ -6,12 +6,10 @@ source: "https://xaluan.com/modules.php?name=News&file=article&sid=361"
 category: "Chính trị"
 lang: vi
 wordCount: 520
-image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nha.jpg"
 ---
 
 <table border="0" cellpadding="10" width="250" align="center"><tbody><tr>
-				<td><a href="/index">
-				<img src="https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nha.jpg" border="0"></a></td>
+				<td></td>
 				
 	<td valign="top" width="175">20 tháng 6, 2010
 	</td></tr></tbody></table>

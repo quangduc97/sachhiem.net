@@ -2,17 +2,17 @@
 layout: ../../../layouts/Article.astro
 title: "Trường Sa và Hoàng Sa"
 author: "TS. Nguyễn Nhã"
-source: "https://sachhiem.net/THOISU_CT/ChuN/NguyenNha.php"
+source: "/THOISU_CT/ChuN/NguyenNha"
 category: "Chính trị"
 lang: vi
 wordCount: 2746
-image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nha.jpg"
+image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/THOISU_CT/Hinh/TS_HS/Truongsa.jpg"
 ---
 
 <p class="Tuaduoi">là của Việt Nam</p>
           
           
-          <p align="center"><a href="https://www.sachhiem.net/"> <img border="0" src="https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nha.jpg"></a> 04 tháng 11, 2007 </p>
+          <p align="center"> 04 tháng 11, 2007 </p>
           <p><b> Bức xúc của một nhà khoa học trước việc Trung Quốc bất chấp lẽ phải, chà đạp lên sự thật lịch sử về chủ quyền của Việt Nam trên quần đảo Hoàng Sa và Trường Sa. </b></p>
           
           <p class="TuaDenLeft">Trường Sa và Hoàng Sa là của Việt Nam</p>

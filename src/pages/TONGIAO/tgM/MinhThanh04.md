@@ -2,11 +2,11 @@
 layout: ../../../layouts/Article.astro
 title: "“Lập lờ đánh lận”… ông trời!"
 author: "Minh Thạnh"
-source: "https://sachhiem.net/TONGIAO/tgM/MinhThanh04.php"
+source: "/TONGIAO/tgM/MinhThanh04"
 category: "Tác giả"
 lang: vi
 wordCount: 2729
-image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nha.jpg"
+image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/IMG/CHUA/Cocbangda.jpg"
 ---
 
 <p class="Tuaduoi">Kỹ thuật cải đạo tín đồ Phật giáo:</p>
@@ -14,9 +14,8 @@ image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nha.jpg"
 		
 
 
-<p align="center"><a href="https://www.sachhiem.net/">
-	<img border="0" src="https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nha.jpg"></a> 06 tháng 02, 2010	</p>
-	<p><i>LTS: Vấn đề "cải đạo" và bị cải đạo trong thời gian gần đây được ý thức như là một sự việc rất quan trọng đối với dân tộc Việt Nam. Tại sao mỗi người đạo Chúa luôn có khuynh hướng tích cực muốn cải đạo dân ta? Tại sao một số dân ta bị cải đạo? và tại sao những việc đó lại quan trọng? Các câu trả lời đã tiềm tàng nằm trong các bài viết trong mục Tôn Giáo của sachhiem.net. Những thủ đoạn "xâm nhập" và "xâm lăng" văn hóa được trang bị bằng nhiều vũ khí, kể cả đạo văn, tức trộm các tư tưởng triết học và đạo đức học của Á đông đem vào nhà thờ, ký tên làm của riêng (xem <a href="https://www.sachhiem.net/EMAILS/emailL/Lythai5.php">"Ăn Cắp Cả Cái Sắc Không Của Nhà Phật !</a>) Đề tài Ông Trời cũng là một chiến thuật trộm đạo khác mà chúng ta cần làm cho nhiều người cảnh giác để khỏi bị mất văn hóa. Chính cái lý do buộc người ta phải nhập nhằng để "trộm đạo" văn hóa của ta như thế là lý do chính để ta cần phải giữ gìn. Bài viết sau đây đăng trên web phattuvietnam.net cũng nằm trong sự quan tâm chung của chúng tôi, xin mời đọc giả chia sẻ. (SH)</i></p>
+<p align="center"> 06 tháng 02, 2010	</p>
+	<p><i>LTS: Vấn đề "cải đạo" và bị cải đạo trong thời gian gần đây được ý thức như là một sự việc rất quan trọng đối với dân tộc Việt Nam. Tại sao mỗi người đạo Chúa luôn có khuynh hướng tích cực muốn cải đạo dân ta? Tại sao một số dân ta bị cải đạo? và tại sao những việc đó lại quan trọng? Các câu trả lời đã tiềm tàng nằm trong các bài viết trong mục Tôn Giáo của sachhiem.net. Những thủ đoạn "xâm nhập" và "xâm lăng" văn hóa được trang bị bằng nhiều vũ khí, kể cả đạo văn, tức trộm các tư tưởng triết học và đạo đức học của Á đông đem vào nhà thờ, ký tên làm của riêng (xem <a href="/EMAILS/emailL/Lythai5">"Ăn Cắp Cả Cái Sắc Không Của Nhà Phật !</a>) Đề tài Ông Trời cũng là một chiến thuật trộm đạo khác mà chúng ta cần làm cho nhiều người cảnh giác để khỏi bị mất văn hóa. Chính cái lý do buộc người ta phải nhập nhằng để "trộm đạo" văn hóa của ta như thế là lý do chính để ta cần phải giữ gìn. Bài viết sau đây đăng trên web phattuvietnam.net cũng nằm trong sự quan tâm chung của chúng tôi, xin mời đọc giả chia sẻ. (SH)</i></p>
 	<table border="0" align="center" id="table1">
 		<tbody><tr><td>
 	<p class="center">
@@ -190,9 +189,9 @@ Tôn giáo, Hà Nội 2008, trang 92.</p>
 
 	 <hr width="40%" align="left"><p>Các đề tài về Ông Trời trong sachhiem.net:</p>
 <p>- <a href="/TCN/TCNtg/TCN89">"Ông Trời" Không Quen Biết "Thượng Đế"! (Trần Chung Ngọc)</a></p>
-	<p>- <a href="https://www.sachhiem.net/TONGIAO/tgT/ThienLoi.php">Có 	Jehovah trong Ca dao Việt ? !! (Thiên Lôi)</a></p>
-	<p>-<a href="https://www.sachhiem.net/TONGIAO/tgTH/ThienLoi.php"> Nhân Chuyện Khám Phá Có Jehovah Trong Ca Dao Việt của Thiên Lôi</a></p>
-	<p><a href="https://sachhiem.net/TONGIAO/tgS/SonDa.php">- Nhân đọc “Ông Trời trong thi ca Việt-Nam" (Sơn Dã Bần Phu)</a></p>
+	<p>- <a href="/TONGIAO/tgT/ThienLoi">Có 	Jehovah trong Ca dao Việt ? !! (Thiên Lôi)</a></p>
+	<p>-<a href="/TONGIAO/tgTH/ThienLoi"> Nhân Chuyện Khám Phá Có Jehovah Trong Ca Dao Việt của Thiên Lôi</a></p>
+	<p><a href="/TONGIAO/tgS/SonDa">- Nhân đọc “Ông Trời trong thi ca Việt-Nam" (Sơn Dã Bần Phu)</a></p>
 	<p><a href="/TONGIAO/tgM/MinhThanh04">- “Lập lờ đánh lận”… ông trời! (Minh Thạnh)</a></p>
 
 <table border="0" background="../../images/BGtopFade.gif" width="600" id="table2">

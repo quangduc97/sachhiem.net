@@ -3,7 +3,7 @@ layout: ../../layouts/Article.astro
 title: "Vụ Đặt Tên Đường - Cái Gì Ở Đàng Sau?"
 author: "Lý Thái Xuân"
 date: 2019-12-09
-source: "https://sachhiem.net/LTX/LythaiDT03.php"
+source: "/LTX/LythaiDT03"
 category: "Chính trị"
 lang: vi
 wordCount: 7855
@@ -15,7 +15,7 @@ image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/LICHSU/IMG/ALEX/ToTu
  </div>
  <p><span class="First">T</span>hấy báo Tuổi Trẻ quảng cáo chữ THOÁNG to quá, nên tôi  đã bỏ ra rất nhiều thời gian để &nbsp;đọc và  nghe các bài tranh luận của ba bề bốn bên, nhất là “thoáng” qua bài nói chuyện  của GS Nguyễn Đăng Hưng. Ông là người đã gây ra nguồn cơn của cuộc xung đột  truyền thông hiện nay vì ông cố động mọi người phải <i>“thoáng</i>” hoặc <i>“vượt qua, bước qua” </i>khi  nghe người ta kể tội Alexandre De Rhodes gián điệp. Ý của ông GS Hưng là phải “thoáng” khi nghe ông  Rhodes đòi <i>“chém ngã xuống”</i> gọi Đức  Phật bằng <i>“thằng dối người”</i>, gọi các  tôn giáo khác là <i>“đạo vạy”, “phép giả bởi  quỉ”, “đạo rợ mọi”…</i></p>
  <p align="center"><img src="https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/LICHSU/IMG/ALEX/ToTuoiTre.JPG" width="400" height="548" alt=""></p>
- <p>Các văn bản chứng minh cho những hành động có tội với dân tộc Việt Nam nói trên đã được chúng tôi trình bày một cách khoa học rất nhiều lần. Có thể xem một danh sách các bài viết ở <a href="https://sachhiem.net/LICHSU/ListQUOCNGU.inc.php">Các Bài Tranh Luận Về Alexandre De Rhodes Chữ Quốc Ngữ</a>. Gần nhất là trong bài <a href="https://sachhiem.net/LTX/LyThaiXH39.php"><i>Ngày Thanksgiving, Nói Về Chuyện “Nhớ Ơn” &nbsp;</i></a>(cùng tác giả)</p>
+ <p>Các văn bản chứng minh cho những hành động có tội với dân tộc Việt Nam nói trên đã được chúng tôi trình bày một cách khoa học rất nhiều lần. Có thể xem một danh sách các bài viết ở <a href="/LICHSU/ListQUOCNGU.inc">Các Bài Tranh Luận Về Alexandre De Rhodes Chữ Quốc Ngữ</a>. Gần nhất là trong bài <a href="/LTX/LyThaiXH39"><i>Ngày Thanksgiving, Nói Về Chuyện “Nhớ Ơn” &nbsp;</i></a>(cùng tác giả)</p>
  <p>Ai không nghĩ "<i>THOÁNG</i>" không <i>"bỏ qua"</i> hết các tài liệu khách quan như thế thì bị các báo chí <i>"tiến bộ, cởi mở"</i> cho ăn một loạt mưa đá ngay, nào là <i>"có gì mà ầm ĩ", </i>nào là <i>" thành kiến hẹp hòi", </i>nào là<i> "bảo thủ, kỳ thị",</i> nào là<i> "dở quá"</i>,....</p>
 <p>Những lý lẽ và thói quen của phe ủng hộ việc tôn vinh AD Rhodes có thể  tóm tắt như sau:</p>
  <p> 1- Ca ngợi sự tiện lợi của Chữ Quốc Ngữ.</p>
@@ -159,5 +159,5 @@ image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/LICHSU/IMG/ALEX/ToTu
 <p>Còn bảng tên đường<b> Thái Văn Lung </b>sau khi bị tháo trộm lúc đêm khuya về sau được đặt cho đường Đồn Đất cũng thuộc Quận I.</p>
 <p>___________</p>
 <p><b>Bài liên quan: </b></p>
-<p>- V/V Đặt Tên Đường Ở TP Đà Nẵng - Thư Kiến Nghị Của Một Nhóm Trí Thức Trong Nước &nbsp;(Xin đọc <a href="https://www.sachhiem.net/DOITHOAI/Rhodes.php">https://sachhiem.net/DOITHOAI/Rhodes.php</a>)</p>
-<p>- Các bài trong trang nhà liên quan đến nhân vật Alexandre De Rhodes: <a href="https://sachhiem.net/TONGIAO/ListRhodes.inc.php">https://sachhiem.net/TONGIAO/ListRhodes.inc.php</a></p>
+<p>- V/V Đặt Tên Đường Ở TP Đà Nẵng - Thư Kiến Nghị Của Một Nhóm Trí Thức Trong Nước &nbsp;(Xin đọc <a href="/DOITHOAI/Rhodes">https://sachhiem.net/DOITHOAI/Rhodes.php</a>)</p>
+<p>- Các bài trong trang nhà liên quan đến nhân vật Alexandre De Rhodes: <a href="/TONGIAO/ListRhodes.inc">https://sachhiem.net/TONGIAO/ListRhodes.inc.php</a></p>

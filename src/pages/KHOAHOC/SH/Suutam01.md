@@ -2,7 +2,7 @@
 layout: ../../../layouts/Article.astro
 title: "Kepler 22b: Một hành tinh xoay quanh ngôi sao mẹ gần giống Thái Dương Hệ"
 date: 2011-12-08
-source: "https://sachhiem.net/KHOAHOC/SH/Suutam01.php"
+source: "/KHOAHOC/SH/Suutam01"
 category: "Khoa học"
 lang: vi
 wordCount: 277

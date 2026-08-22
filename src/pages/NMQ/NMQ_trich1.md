@@ -3,7 +3,7 @@ layout: ../../layouts/Article.astro
 title: "Nước Mắt Cá Sấu của Ông Ngô Đình Diệm: Ông Cố Vấn Mỹ E. Lansdale Kể Chuyện"
 author: "Edward Lansdale"
 date: 2018-02-12
-source: "https://sachhiem.net/NMQ/NMQ_trich1.php"
+source: "/NMQ/NMQ_trich1"
 category: "Lịch sử"
 lang: vi
 wordCount: 1094
@@ -11,7 +11,7 @@ image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/LICHSU/IMG/NGODD/1_L
 ---
 
 <div class="tomluoc">
-   <p><i>LTS: Bài sau đây chỉ là một đoạn trong sách như đã dẫn ở Chú Thích, và được trích dẫn trong Chương 62 của Tập GHLM- Lịch Sử và Hồ Sơ Tội Ác của GS Nguyễn Mạnh Quang, có tựa đề <a href="https://sachhiem.net/NMQ/HOSOTOIAC/CH62.php">"HOA KỲ NỖ LỰC CỦNG CỐ QUYỀN LỰC VÀ BẢO VỆ AN NINH CHO ÔNG NGÔ ĐÌNH DIỆM"</a>. Chương này kể chi tiết những chuyện mà Cố Vấn Edward Lansdale đã chỉ dạy ông Ngô Đình Diệm trong mọi việc trị nước. Sau đây chỉ là một giai thoại nhỏ trong ngày Tướng Trình Minh Thế bị sát hại. (SH) </i></p>
+   <p><i>LTS: Bài sau đây chỉ là một đoạn trong sách như đã dẫn ở Chú Thích, và được trích dẫn trong Chương 62 của Tập GHLM- Lịch Sử và Hồ Sơ Tội Ác của GS Nguyễn Mạnh Quang, có tựa đề <a href="/NMQ/HOSOTOIAC/CH62">"HOA KỲ NỖ LỰC CỦNG CỐ QUYỀN LỰC VÀ BẢO VỆ AN NINH CHO ÔNG NGÔ ĐÌNH DIỆM"</a>. Chương này kể chi tiết những chuyện mà Cố Vấn Edward Lansdale đã chỉ dạy ông Ngô Đình Diệm trong mọi việc trị nước. Sau đây chỉ là một giai thoại nhỏ trong ngày Tướng Trình Minh Thế bị sát hại. (SH) </i></p>
  </div>
 <p align="center"><img src="https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/LICHSU/IMG/NGODD/1_Lansdale_Diem.jpg" width="311" height="265" alt=""></p>
 <p align="center"><i>Cố Vấn Edward Lansdale</i></p>

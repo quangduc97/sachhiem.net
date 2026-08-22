@@ -2,7 +2,7 @@
 layout: ../../../layouts/Article.astro
 title: "Plaidoyer pour le Bonheur"
 author: "Matthieu Ricard"
-source: "https://sachhiem.net/null"
+source: "/null"
 lang: en
 wordCount: 830
 image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/CANHDEP/Thacchay.jpg"

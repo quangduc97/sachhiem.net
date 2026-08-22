@@ -2,7 +2,7 @@
 layout: ../../../../../layouts/Article.astro
 title: "Sam Harris: Tận cùng của Ðức tin"
 author: "Lê Quốc Tuấn chuyển Việt"
-source: "https://sachhiem.net/null"
+source: "/null"
 category: "Tác giả"
 lang: vi
 wordCount: 7520

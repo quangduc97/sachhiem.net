@@ -3,7 +3,7 @@ layout: ../../../layouts/Article.astro
 title: "(Từ \"Tích Hợp\" Đế Sang \"Ngọn Đuốc\"?)"
 author: "BS. Nguyễn Văn Thịnh"
 date: 2015-12-19
-source: "https://sachhiem.net/VANHOC/N/NguyenvThinh_08.php"
+source: "/VANHOC/N/NguyenvThinh_08"
 category: "Lịch sử"
 lang: vi
 wordCount: 10474

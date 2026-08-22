@@ -3,7 +3,7 @@ layout: ../../../layouts/Article.astro
 title: "Xung Quanh Cái Chết Của Nhà Văn Nhất Linh"
 author: "Khúc Hà Linh"
 date: 2013-06-30
-source: "https://sachhiem.net/LICHSU/K/KhucHaLinh.php"
+source: "/LICHSU/K/KhucHaLinh"
 category: "Tác giả"
 lang: vi
 wordCount: 1553

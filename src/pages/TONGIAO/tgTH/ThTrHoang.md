@@ -3,16 +3,16 @@ layout: ../../../layouts/Article.astro
 title: "Tượng Phật có nụ cười Mona Lisa"
 author: "Ken Chitwood"
 date: 2012-09-06
-source: "https://sachhiem.net/TONGIAO/tgTH/ThTrHoang.php"
+source: "/TONGIAO/tgTH/ThTrHoang"
 category: "Chính trị"
 lang: vi
 wordCount: 1599
-image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nha.jpg"
+image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/TONGIAO/IMG/PHAT/PhatMonaLisa_ThTrHoang.jpg"
 ---
 
 <table border="0" cellpadding="0" width="250" align="center">
             <tbody><tr>
-              <td width="125"><a href="/index"><img border="0" src="https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nha.jpg"></a></td>
+              <td width="125"></td>
               <td valign="middle">06-Sep-2012</td>
             </tr>
           </tbody></table>

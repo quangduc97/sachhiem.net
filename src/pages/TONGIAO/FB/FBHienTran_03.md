@@ -3,7 +3,7 @@ layout: ../../../layouts/Article.astro
 title: "Tình Yêu Thiên Chúa Là Cái Chi Chi?"
 author: "Hiên Trần"
 date: 2026-04-17
-source: "https://sachhiem.net/TONGIAO/FB/FBHienTran_03.php"
+source: "/TONGIAO/FB/FBHienTran_03"
 category: "Tác giả"
 lang: vi
 wordCount: 752

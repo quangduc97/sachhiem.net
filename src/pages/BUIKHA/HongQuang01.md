@@ -2,7 +2,7 @@
 layout: ../../layouts/Article.astro
 title: "THIỀN, TRỊ ĐƯỢC BỆNH. TẠI SAO?"
 author: "Hồng Quang"
-source: "https://sachhiem.net/BUIKHA/HongQuang01.php"
+source: "/BUIKHA/HongQuang01"
 lang: vi
 wordCount: 4121
 image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.devhttps://giaodiemonline.com/2011/04/images/thien01.jpg"

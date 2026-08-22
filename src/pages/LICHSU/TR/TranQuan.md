@@ -3,7 +3,7 @@ layout: ../../../layouts/Article.astro
 title: "Chiến Khu Ba Lòng Năm 1955"
 author: "Trần Quân"
 date: 2014-10-22
-source: "https://sachhiem.net/LICHSU/TR/TranQuan.php"
+source: "/LICHSU/TR/TranQuan"
 category: "Chính trị"
 lang: vi
 wordCount: 4951

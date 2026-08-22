@@ -2,15 +2,14 @@
 layout: ../../layouts/Article.astro
 title: "VỀ ĐẠI HỘI PHẬT GIÁO"
 author: "Hoàng Đông Tà"
-source: "https://sachhiem.net/HOANGNN/Hoang10.php"
+source: "/HOANGNN/Hoang10"
 category: "Chính trị"
 lang: vi
 wordCount: 2679
-image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nha.jpg"
+image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/TONGIAO/IMG/DaihoiPG.jpg"
 ---
 
-<p align="center"><a href="https://www.sachhiem.net/">
-	<img border="0" src="https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nha.jpg"></a> ngày 20 tháng 2, 2008	 </p>
+<p align="center"> ngày 20 tháng 2, 2008	 </p>
 	  
 <p><b><font size="5" face="Times New Roman"><img border="0" src="https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/TONGIAO/IMG/DaihoiPG.jpg" width="240" height="152" align="left" hspace="10">T</font></b>rung tuần tháng 12 vừa tồi, tổ chức PGVN đã họp đại 
 hội lần thứ sáu tại Hànội để kiện toàn cơ duyên tu tập và phục vụ. Chủ điểm 

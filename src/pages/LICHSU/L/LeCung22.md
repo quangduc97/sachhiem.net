@@ -3,7 +3,7 @@ layout: ../../../layouts/Article.astro
 title: "Vai Trò Quần Chúng Nhân Dân Trong Cuộc Vận Động Của Phật Giáo Việt Nam Năm 1963"
 author: "GS Lê Cung*"
 date: 2022-01-03
-source: "https://sachhiem.net/LICHSU/L/LeCung22.php"
+source: "/LICHSU/L/LeCung22"
 category: "Chính trị"
 lang: vi
 wordCount: 8747

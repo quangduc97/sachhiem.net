@@ -2,7 +2,7 @@
 layout: ../../../layouts/Article.astro
 title: "Bài Học Sau Cùng"
 author: "Trần Trí Hoàng"
-source: "https://sachhiem.net/null"
+source: "/null"
 category: "Văn hóa"
 lang: vi
 wordCount: 964

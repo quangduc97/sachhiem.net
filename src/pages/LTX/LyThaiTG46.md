@@ -3,7 +3,7 @@ layout: ../../layouts/Article.astro
 title: "Khi Nhà Thờ Hội Nhập Phong Tục Lễ Tết Của Ta -"
 author: "Lý Thái Xuân"
 date: 2026-02-18
-source: "https://sachhiem.net/LTX/LythaiTG46.php"
+source: "/LTX/LythaiTG46"
 category: "Tác giả"
 lang: vi
 wordCount: 5002
@@ -23,7 +23,7 @@ image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/TONGIAO/IMG/XINTIEN/
  <p>một vị khách nói với Giám mục Vũ Văn Thiên về một hoạt động mới nảy sinh trong giáo xứ của ông ta. Khi ông ấy hỏi linh mục chánh xứ ở đó rằng "<i>Sao Lời Chúa năm rồi nó không vận vào con?</i>" thì được trả lời </p>
  <p>- "<i>Không được mê tín, Lời Chúa là để chỉ huấn cho anh trong suốt 1 năm, không phải đi xin xăm, xem bói!</i>"  </p>
  <p>GM Vũ Văn Thiên trả lời <i>“Đây  là việc Hội nhập văn hóa, của các trung tâm tín ngưỡng bình dân, hay một số lễ hội. Đối  với chúng ta, Lời Chúa là ánh sáng, là sự sống, soi đường cho chúng ta đi . Hái  lộc Chúa là sống theo Lời Chúa mà mình hái được.”</i></p>
- <p>Dùng chữ "hội nhập" nghe có vẻ hiền lành, khiêm tốn. Nhưng nghe những từ ngữ mà các giáo sĩ giải thích thì họ lại muốn hạ giá cái xã hội mà họ đang muốn bắt chước văn hóa của người ta. Nào là <i>"mê tín," </i>nào là<i> "tín ngưỡng bình dân, ..."</i> thì chúng ta nên đi sâu tìm hiểu nguyên nhân tại sao họ muốn hội nhập làm gì?.  Vài thí dụ điển hình như <a href="https://www.sachhiem.net/TONGIAO/FB/FBThiNguyen13.php">lễ Noel</a>, đến <a href="https://sachhiem.net/TONGIAO/FB/FBLeThiKimHoa13.php">Valentines</a>, tất cả ban đầu chỉ là những  sinh hoạt lễ hội dân gian của người đa thần giáo bên La mã xưa. Sau khi Constantine chiếm được quyền bính La mã, thì ông chiếm đoạt đem về làm của riêng   gọi là "văn hóa Ki-tô giáo!" Tỉnh bơ.</p>
+ <p>Dùng chữ "hội nhập" nghe có vẻ hiền lành, khiêm tốn. Nhưng nghe những từ ngữ mà các giáo sĩ giải thích thì họ lại muốn hạ giá cái xã hội mà họ đang muốn bắt chước văn hóa của người ta. Nào là <i>"mê tín," </i>nào là<i> "tín ngưỡng bình dân, ..."</i> thì chúng ta nên đi sâu tìm hiểu nguyên nhân tại sao họ muốn hội nhập làm gì?.  Vài thí dụ điển hình như <a href="/TONGIAO/FB/FBThiNguyen13">lễ Noel</a>, đến <a href="/TONGIAO/FB/FBLeThiKimHoa13">Valentines</a>, tất cả ban đầu chỉ là những  sinh hoạt lễ hội dân gian của người đa thần giáo bên La mã xưa. Sau khi Constantine chiếm được quyền bính La mã, thì ông chiếm đoạt đem về làm của riêng   gọi là "văn hóa Ki-tô giáo!" Tỉnh bơ.</p>
  
  <p><b>Việc Hội Nhập Tết Việt Nam vào Nhà Thờ</b></p>
  <p>Xin được phân tích qua các tiểu mục sau:</p>
@@ -71,7 +71,7 @@ các Thượng Hội Đồng Giám  Mục về việc loan báo Tin Mừng trong
 <p align="center"><img src="https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/TONGIAO/IMG/CHURCH/LaVang_2022.jpg" width="500" height="333" alt=""></p>
 <p align="center">Nhà thờ La vang đặt viên đá đầu tiên ngày 15-8-2012 và khánh thành năm 2023.</p>
 <p>Cách đây hơn 135 năm, nhà thờ Phát Diệm là ngôi nhà thờ duy nhất có trọn vẹn tất cả những mỹ thuật của kiến trúc Á Đông (xây dựng từ năm 1875 và hoàn thành năm 1891), nhưng không phải là dưới hình thức hội nhập, mà là một cuộc ăn cướp văn hóa vĩ đại.</p>
-<p>Linh mục Trần Lục đã chuyên chở những mảnh vật thể của kiến trúc của thành nhà  Mạc về xây nhà thờ Phát Diệm. Việc này&nbsp;có ghi lại trong bài Bí Mật Nhà Thờ  Phát Diệm của Nguyễn Hồng Hải (<a href="https://sachhiem.net/TONGIAO/tgN/NgHgHai.php">https://sachhiem.net/TONGIAO/tgN/NgHgHai.php</a>)</p>
+<p>Linh mục Trần Lục đã chuyên chở những mảnh vật thể của kiến trúc của thành nhà  Mạc về xây nhà thờ Phát Diệm. Việc này&nbsp;có ghi lại trong bài Bí Mật Nhà Thờ  Phát Diệm của Nguyễn Hồng Hải (<a href="/TONGIAO/tgN/NgHgHai">https://sachhiem.net/TONGIAO/tgN/NgHgHai.php</a>)</p>
 <p align="center"><img src="https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/TONGIAO/IMG/CHURCH/PhatDiem.jpg" width="450" height="330" alt=""></p>
 <p align="center"><img src="https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/TONGIAO/IMG/CHURCH/Phatdiem_Kientruc1.jpg" width="468" height="315"></p>
 <p>Ngoài ra, khi chúng tôi đến tận nơi viếng nhà thờ  này vào giữa năm 2025, chúng tôi đã có phỏng vấn một chị nữ tu dòng Mến Thánh giá về nguồn gốc xây dựng ngôi nhà thờ Phát Diệm, và nhận được những câu trả lời không ra gì. Chị nữ tu cho rằng linh Trần Lục rất tài ba, nên ông đã thiết kế một mình và làm hết sức mình để tìm vật liệu có giá trị để xây dựng. Ngoài ra không có bất kỳ một lịch sử chi tiết nào cho việc xây dựng cả. </p>

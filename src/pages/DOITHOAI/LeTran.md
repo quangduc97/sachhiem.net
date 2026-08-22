@@ -2,11 +2,10 @@
 layout: ../../layouts/Article.astro
 title: "Vì Sao Tôi Bỏ Đạo."
 author: "Lê Trân"
-source: "https://sachhiem.net/nguồn: diễn đàn thư tín"
+source: "/nguồn: diễn đàn thư tín"
 category: "Đối thoại"
 lang: vi
 wordCount: 1430
-image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nha.jpg"
 ---
 
 <div align="center" style="position: relative; left: 0; top: 0">
@@ -25,7 +24,7 @@ image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nha.jpg"
 <tr><td width="100%">
 <div style="padding-left: 50px; padding-right: 50px"> 
 	<table border="0" cellpadding="1" width="86%" cols="2"><tbody><tr>
-	<td><a href="https://www.sachhiem.net/"><img border="0" src="https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nha.jpg"></a></td>
+	<td></td>
 <td valign="top" width="210"><p>01 tháng 8, 2009	</p>
 			</td></tr></tbody></table>
 		<p><i>LTS:  Ca dao của ông bà mình thật đa dạng, chỗ nào cũng có câu thích hợp. Ai cũng nói được, mà chẳng cần biết ai là tác giả. "Chơi dao có ngày đứt tay", câu nói của dân gian Việt Nam. Bên đạo Chúa thì chỉ có mình Chúa mới nghĩ ra được câu tương tự.  Phúc âm theo thánh Mathêu 26, 50-54: Kẻ nào cầm gươm thì sẽ chết vì gươm.  

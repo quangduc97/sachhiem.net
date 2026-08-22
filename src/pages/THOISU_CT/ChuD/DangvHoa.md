@@ -2,18 +2,17 @@
 layout: ../../../layouts/Article.astro
 title: "Việt Nam Cộng Hòa"
 author: "Đặng Văn Hoa"
-source: "https://sachhiem.net/THOISU_CT/ChuD/DangvHoa.php"
+source: "/THOISU_CT/ChuD/DangvHoa"
 category: "Lịch sử"
 lang: vi
 wordCount: 1798
-image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nha.jpg"
 ---
 
 <p class="Tuaduoi">
 		Dâng Đảo Hoàng Sa Cho Trung Cộng</p>
 		
   
- <p align="center"><a href="/index"> <img hspace="20" border="0" src="https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nha.jpg"> </a>	20 tháng 1, 2008
+ <p align="center">	20 tháng 1, 2008
  </p>
 		<p> <b>N</b>ăm 1977, Thủ tướng Phạm Văn Đồng công bố xác nhận quần đảo 
 				Hoàng Sa và Trường Sa thuộc chủ quyền của Việt Nam. Đến năm 

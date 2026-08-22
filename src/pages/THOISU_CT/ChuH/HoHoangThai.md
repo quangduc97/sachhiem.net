@@ -3,7 +3,7 @@ layout: ../../../layouts/Article.astro
 title: "Đảng Cần Lao Nhân Vị Với Vấn Đề Tôn Giáo Trong Đời Sống Chính Trị Miền Nam (1955-1963)"
 author: "Hồ Hoàng Thái"
 date: 2017-03-30
-source: "https://sachhiem.net/THOISU_CT/ChuH/HoHoangThai.php"
+source: "/THOISU_CT/ChuH/HoHoangThai"
 category: "Chính trị"
 lang: vi
 wordCount: 3694

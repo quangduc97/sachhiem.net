@@ -3,7 +3,7 @@ layout: ../../../layouts/Article.astro
 title: "Nhật Ký Biển Đông: Việt-Mỹ Chuẩn Bị Cho Chuyến Đi Của Ô. Trump"
 author: "Đào Văn Bình"
 date: 2017-07-15
-source: "https://sachhiem.net/DAOVB/CT/DaovBinh92.php"
+source: "/DAOVB/CT/DaovBinh92"
 category: "Chính trị"
 lang: vi
 wordCount: 5528

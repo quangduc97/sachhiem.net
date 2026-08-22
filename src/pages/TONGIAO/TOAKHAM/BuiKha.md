@@ -2,17 +2,16 @@
 layout: ../../../layouts/Article.astro
 title: "Thư Ngỏ kính gửi"
 author: "Bùi Kha"
-source: "https://sachhiem.net/TONGIAO/TOAKHAM/BuiKha8.php"
+source: "/TONGIAO/TOAKHAM/BuiKha8"
 category: "Tác giả"
 lang: vi
 wordCount: 1565
-image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nha.jpg"
 ---
 
 <p class="Tuaduoi">về việc Tòa Khâm sứ </p>
 
 
-<p align="center"><a href="https://sachhiem.net/index.php"><img border="0" hspace="20" src="https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nha.jpg"></a>22 tháng 1, 2008 </p>
+<p align="center">22 tháng 1, 2008 </p>
  		 <p><font color="#000066"><font face="Times New Roman" size="5">T</font>hưa Thủ Tướng,</font></p><font color="#000066">
 			  
 			 <p><font face="Times New Roman" size="5">G</font>ần đây, Trung quốc đã triễn khai chính sách bá 

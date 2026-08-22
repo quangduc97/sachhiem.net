@@ -3,7 +3,7 @@ layout: ../../../layouts/Article.astro
 title: "Linh Mục Phêrô Nguyễn Văn Khải Không Dám Nghe Nhận Xét."
 author: "SH sưu tầm"
 date: 2026-02-07
-source: "https://sachhiem.net/TONGIAO/tgT/TinPTVN4.php"
+source: "/TONGIAO/tgT/TinPTVN4"
 category: "Đối thoại"
 lang: vi
 wordCount: 3136
@@ -11,7 +11,7 @@ image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/TONGIAO/IMG/SU/Thien
 ---
 
 <div class="tomluoc">
-  <p><i>LTS: Bài này đã được báo Sài Gòn Nhỏ đăng từ 4 năm trước, ngày 26 tháng 1, 2022, dưới nhan đề "Bùng nổ khẩu chiến sau cái chết Thích Nhất Hạnh." Nay chúng tôi mạn phép đăng lại chỉ vì muốn chứng minh bản chất đã có từ lâu của Linh mục Phê rô Nguyễn Văn Khải: bộp chộp thích phát biểu linh tinh nhưng không dám nghe người ta nhận xét. Bản chất này  mới gần đây được xác định thêm, trong bài <a href="https://sachhiem.net/TONGIAO/TOAKHAM/Lythai1.php">Nhận Xét Về Các Phát Biểu Của Linh Mục Phêrô Nguyễn Văn Khải Về Nguồn Gốc Mảnh Đất Nhà Thờ Lớn</a>, đăng ngày 02-02-2026. Xin mời xem bài của tác giả Thận Nhiên (SH)</i></p>
+  <p><i>LTS: Bài này đã được báo Sài Gòn Nhỏ đăng từ 4 năm trước, ngày 26 tháng 1, 2022, dưới nhan đề "Bùng nổ khẩu chiến sau cái chết Thích Nhất Hạnh." Nay chúng tôi mạn phép đăng lại chỉ vì muốn chứng minh bản chất đã có từ lâu của Linh mục Phê rô Nguyễn Văn Khải: bộp chộp thích phát biểu linh tinh nhưng không dám nghe người ta nhận xét. Bản chất này  mới gần đây được xác định thêm, trong bài <a href="/TONGIAO/TOAKHAM/Lythai1">Nhận Xét Về Các Phát Biểu Của Linh Mục Phêrô Nguyễn Văn Khải Về Nguồn Gốc Mảnh Đất Nhà Thờ Lớn</a>, đăng ngày 02-02-2026. Xin mời xem bài của tác giả Thận Nhiên (SH)</i></p>
 </div>
  
  

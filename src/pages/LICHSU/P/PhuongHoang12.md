@@ -3,7 +3,7 @@ layout: ../../../layouts/Article.astro
 title: "Những Chuyện Kể Của PHGV"
 author: "Phượng Hoàng GV"
 date: 2016-10-26
-source: "https://sachhiem.net/LICHSU/P/PhuongHoang12.php"
+source: "/LICHSU/P/PhuongHoang12"
 category: "Lịch sử"
 lang: vi
 wordCount: 1609
@@ -66,5 +66,5 @@ image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/TONGIAO/IMG/PHATGIAO
 <p>      Trân  trọng. (GOPGIO) </p>
 
      <hr> 
-<p>Các chuyện kể của Phượng Hoàng Gò Vấp: link <a href="https://sachhiem.net/LICHSU/P/ListPHGV.inc.php" target="_blank">https://sachhiem.net/LICHSU/P/ListPHGV.inc.php</a></p>  
+<p>Các chuyện kể của Phượng Hoàng Gò Vấp: link <a href="/LICHSU/P/ListPHGV.inc" target="_blank">https://sachhiem.net/LICHSU/P/ListPHGV.inc.php</a></p>  
   <hr>

@@ -3,7 +3,7 @@ layout: ../../../layouts/Article.astro
 title: "Con Đường Phẩm Giá"
 author: "Phan Hưng Duy"
 date: 2016-05-31
-source: "https://sachhiem.net/THOISU_CT/ChuP/PhanHDuy_05.php"
+source: "/THOISU_CT/ChuP/PhanHDuy_05"
 category: "Chính trị"
 lang: vi
 wordCount: 915

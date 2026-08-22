@@ -3,7 +3,7 @@ layout: ../../../layouts/Article.astro
 title: "Hãy Đối Mặt Với Quá Khứ Bằng Cách Tôn Trọng Sự Thật Lịch Sử"
 author: "Mark A.Ashwill/ Ngô Mạnh Hùng"
 date: 2023-04-19
-source: "https://sachhiem.net/LICHSU/M/MarkAshwill_NMH.php"
+source: "/LICHSU/M/MarkAshwill_NMH"
 category: "Chính trị"
 lang: vi
 wordCount: 4403
@@ -87,8 +87,8 @@ image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/SACHNGOAI/Hinhanh/PE
      <p class="nguonL">(Nguồn: https://googletienlang2014.blogspot.com/2021/07/mot-nguoi-my-canh-bao-ai-hoc-fulbright.html) ngày Chủ Nhật, 11 tháng 7, 2021</p>
      <p>___________________</p>
      <p><b>Những bài liên quan:</b></p>
-     <p>- <a href="https://sachhiem.net/index.php?content=showemail&amp;id=1578">Cảnh báo mới - Đại học Fulbright: chiến lược trồng người lâu dài và hợp pháp</a>, ngày Mon June 27, 2016</p>
-     <p>- <a href="https://sachhiem.net/THOISU_CT/ChuN/NguyenKieuDung.php">Sự Thật Về Đại Học Fulbright</a>, TS Nguyễn Kiều Dung, ngày 14-Aug-2016</p>
-     <p>- <a href="https://sachhiem.net/THOISU_CT/ChuN/NguyenKieuDung01.php">Bob Kerrey - Kẻ Phá Hoại Cộng Đồng</a>, TS Nguyễn Kiều Dung, ngày 14-Aug-2016</p>
-     <p>- <a href="https://sachhiem.net/THOISU_CT/ChuN/NguyenKieuDung02.php">Những Ý Kiến Không Ủng Hộ Bob Kerrey Làm Chủ Tịch Hội Đồng Tín Thác Đại Học Fulbright</a>, TS Nguyễn Kiều Dung, ngày 14-Aug-2016</p>
+     <p>- <a href="/net/LICHSU/N/NguyenvThinh_LS04">Cảnh báo mới - Đại học Fulbright: chiến lược trồng người lâu dài và hợp pháp</a>, ngày Mon June 27, 2016</p>
+     <p>- <a href="/THOISU_CT/ChuN/NguyenKieuDung">Sự Thật Về Đại Học Fulbright</a>, TS Nguyễn Kiều Dung, ngày 14-Aug-2016</p>
+     <p>- <a href="/THOISU_CT/ChuN/NguyenKieuDung01">Bob Kerrey - Kẻ Phá Hoại Cộng Đồng</a>, TS Nguyễn Kiều Dung, ngày 14-Aug-2016</p>
+     <p>- <a href="/THOISU_CT/ChuN/NguyenKieuDung02">Những Ý Kiến Không Ủng Hộ Bob Kerrey Làm Chủ Tịch Hội Đồng Tín Thác Đại Học Fulbright</a>, TS Nguyễn Kiều Dung, ngày 14-Aug-2016</p>
      <p>- <a href="https://giaovn.blogspot.com/2016/06/nuoc-my-khong-con-ai-ngoai-bob-kerrey.html">Nước Mỹ không còn ai ngoài Bob Kerrey thật sao?</a> ngày 02/06/2016</p>

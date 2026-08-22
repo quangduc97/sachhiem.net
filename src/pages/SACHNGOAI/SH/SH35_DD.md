@@ -3,7 +3,7 @@ layout: ../../../layouts/Article.astro
 title: "Ấn Độ: Linh Mục Kottoor và Sơ Sephy bị vô tù vì tội giết Sơ Abhaya cùng tu viện"
 author: "Rhea Mogul, CNN"
 date: 2021-01-24
-source: "https://sachhiem.net/SACHNGOAI/SH/SH35_DD.php"
+source: "/SACHNGOAI/SH/SH35_DD"
 category: "Chính trị"
 lang: vi
 wordCount: 3394

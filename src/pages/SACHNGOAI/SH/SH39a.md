@@ -3,7 +3,7 @@ layout: ../../../layouts/Article.astro
 title: "[Letters to Pope John Paul II regarding the intrusion of the Roman Catholic Church onto Buddhism]"
 author: "The Parien Dhamma Association of Thailand"
 date: 2021-03-18
-source: "https://sachhiem.net/SACHNGOAI/SH/SH39a.php"
+source: "/SACHNGOAI/SH/SH39a"
 category: "Chính trị"
 lang: en
 wordCount: 2932

@@ -24,7 +24,7 @@ image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/XAHOI/IMG/VIETNAM/De
   <p>Sydney, 17/11/2016</p>
   <p>____________</p>
   <p><b>Bài đọc thêm:</b></p>
-  <p><a href="https://sachhiem.net/TTL/TranTL51.php">- Xin Được Mãi Mãi Là Người Việt Nam</a> (Trần Tiên Long)</p>
+  <p><a href="/TTL/TranTL51">- Xin Được Mãi Mãi Là Người Việt Nam</a> (Trần Tiên Long)</p>
     <p>____________</p>
   <p><b>Nhận xét:</b></p>
   <p><a href="https://www.facebook.com/profile.php?id=100012435723015&amp;fref=ufi">• Thầy Đồ Gàn</a> :Tình cờ được đọc bài viết này của bạn, thấy những vấn đề và quan điểm bạn đặt ra, tôi cũng muốn mạo muội chia sẻ vài ý kiến cá nhân của mình. </p>
@@ -65,7 +65,7 @@ Date: Tue, November 22, 2016 5:30 am<br>
 Subject: Đừng chối bỏ tổ quốc của mình, và đừng
 nhận vơ “tổ quốc” c ủa những người khác.</p>
 <p>Đọc  vào các bài viết và phát biểu chia sẻ của quý vị ở đây.  Tôi, Trần Quang Diệu, có suy nghĩ thế này: </p>
-<p>Ông  Trần Tiên Long cũng là một trong những người đã từng <u>vừa hàm ơn  vừa phục vụ cho nước Mỹ với quyền lợi và bổn phận của một công dân</u> Mỹ  gốc Việt. Tuy nhiên, chắc chắn là tâm cảnh của ông Trần Tiên Long vẫn  không bao giờ quên nguồn cội đối với quê cha đất tổ xứ mẹ Việt  Nam cho nên ông đã thẳng thắn khẳng định bằng tâm thức, tôi  cho là kẻ sĩ mang ý thức rất đáng trân trọng, khi ông ấy viết: <b>"</b><a href="https://sachhiem.net/TTL/TranTL51.php" target="_blank"><b>Xin  Được Mãi Mãi Là Người Việt Nam</b></a><b> (Trần Tiên Long) </b>. </p>
+<p>Ông  Trần Tiên Long cũng là một trong những người đã từng <u>vừa hàm ơn  vừa phục vụ cho nước Mỹ với quyền lợi và bổn phận của một công dân</u> Mỹ  gốc Việt. Tuy nhiên, chắc chắn là tâm cảnh của ông Trần Tiên Long vẫn  không bao giờ quên nguồn cội đối với quê cha đất tổ xứ mẹ Việt  Nam cho nên ông đã thẳng thắn khẳng định bằng tâm thức, tôi  cho là kẻ sĩ mang ý thức rất đáng trân trọng, khi ông ấy viết: <b>"</b><a href="/TTL/TranTL51" target="_blank"><b>Xin  Được Mãi Mãi Là Người Việt Nam</b></a><b> (Trần Tiên Long) </b>. </p>
 <p>Còn  nếu với "một nhà báo" "chỉ mới định cư một thời gian  ngắn ở Mỹ và nói tiếng Anh chưa rành" nhưng "đã tuyên bố nhiều lần  trên Facebook một cách tự hào rằng <i>“Mỹ là tổ quốc của tôi”, </i>và rằng<i> “tôi đã  chọn nước Mỹ là tổ quốc của mình”</i> ? </p>
 <p>- Đã phủi tay xứ  mẹ (VN) thì <b>mặc kệ  "nhà báo" đó,</b> chứ thấm béo gì đến giá trị "Tổ  Quốc Trên Hết"? Với Hồn Thiêng Sông Núi Dân  Tộc Việt Nam?  </p>
 <p>- Thứ  hai, sắp tới đây, nếu "nhà báo" đó  léng phéng viết lách với chuyện này chuyện nọ, <b>làm như thể  "yêu Việt Nam"</b> dữ lắm thì cái đó sẽ là gì? </p>

@@ -3,7 +3,7 @@ layout: ../../../layouts/Article.astro
 title: "Cầu Nguyện"
 author: "FB Tử Dương"
 date: 2018-01-29
-source: "https://sachhiem.net/TONGIAO/FB/STCG_TuDuong.php"
+source: "/TONGIAO/FB/STCG_TuDuong"
 category: "Chính trị"
 lang: vi
 wordCount: 2219

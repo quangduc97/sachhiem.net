@@ -3,7 +3,7 @@ layout: ../../../layouts/Article.astro
 title: "Tòa Tối Cao, Nó Không Phải Tòa Án, Mà Là Quân Ủy!"
 author: "Mike Wilson tóm lược"
 date: 2022-07-13
-source: "https://sachhiem.net/SACHNGOAI/M/MikeWilson_07.php"
+source: "/SACHNGOAI/M/MikeWilson_07"
 category: "Chính trị"
 lang: vi
 wordCount: 1665

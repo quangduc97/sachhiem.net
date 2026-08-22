@@ -3,16 +3,16 @@ layout: ../../../layouts/Article.astro
 title: "Nguyễn Du:"
 author: "TS Phạm Trọng Chánh"
 date: 2013-01-04
-source: "https://sachhiem.net/VANHOC/PHTRCH/PhTrCh02.php"
+source: "/VANHOC/PHTRCH/PhTrCh02"
 category: "Văn hóa"
 lang: vi
 wordCount: 5544
-image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nha.jpg"
+image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/VANHOC/Hinh/SACH/PhTrCh03_kinhkimcuong.jpg"
 ---
 
 <table border="0" cellpadding="0" width="250" align="center">
       <tbody><tr>
-       <td width="125"><a href="/index"><img border="0" src="https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nha.jpg"></a></td>
+       <td width="125"></td>
        <td valign="middle">04-Jan-2013</td>
       </tr>
      </tbody></table>

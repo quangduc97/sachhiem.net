@@ -3,11 +3,11 @@ layout: ../../../layouts/Article.astro
 title: "Tượng Phật ở Quán Cafe Side Street, thành phố Anchorage (tựa SH)"
 author: "Julia O'Malley - TuanVN dịch"
 date: 2011-12-16
-source: "https://sachhiem.net/TuanVN.php"
+source: "/TuanVN"
 category: "Tác giả"
 lang: vi
 wordCount: 1323
-image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.devhttps://sachhiem.net/images/nha.jpg"
+image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.devhttps://sachhiem.net/TONGIAO/IMG/CHUA/TuanVN_Phat@Cafe.jpg"
 ---
 
 <div align="center" style="position: relative; left: 0; top: 0">
@@ -23,8 +23,7 @@ image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.devhttps://sachhiem.net/
 <tr><td width="100%">
 <div style="padding-left: 50px; padding-right: 50px"> 
 	<table border="0" cellpadding="1" width="80%" cols="2"><tbody><tr>
-	<td><a href="https://sachhiem.net/index.php">
-	<img border="0" src="https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.devhttps://sachhiem.net/images/nha.jpg"></a></td>
+	<td></td>
 <td valign="top" width="232">	</td>
 </tr>	</tbody></table>
  <p class="Tuaduoi">Tượng Phật đến từ phương trời xa </p>

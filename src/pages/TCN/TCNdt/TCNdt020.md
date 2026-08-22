@@ -2,15 +2,14 @@
 layout: ../../../layouts/Article.astro
 title: "ĐÁP THƯ CỦA BÁC TCN GỬI CHÁU:"
 author: "Trần Chung Ngọc"
-source: "https://sachhiem.net/TCN/TCNdt/TCNdt020.php"
+source: "/TCN/TCNdt/TCNdt020"
 category: "Đối thoại"
 lang: vi
 wordCount: 2131
-image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.devhttps://sachhiem.net/images/nha.jpg"
 ---
 
 <table border="0" width="250" align="center">
-    <tbody><tr><td width="106"><a href="https://sachhiem.net/index.php"><img border="0" src="https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.devhttps://sachhiem.net/images/nha.jpg"></a>    </td> <td valign="top" style="text-align:right">	<i><font size="2">30 tháng 8, 2008 </font> </i> </td></tr></tbody></table>
+    <tbody><tr><td width="106">    </td> <td valign="top" style="text-align:right">	<i><font size="2">30 tháng 8, 2008 </font> </i> </td></tr></tbody></table>
  <p><i>LTS: Ông bà ta có câu: "Người khôn<span lang="en-us"> </span>ăn nói nửa chừng, Để cho người dại nửa mừng nửa lo". Mới hai ngày qua các diễn đàn thư tín hải ngoại nhận được một bức thư của Trần thị Việt Nam, câu văn đơn giản nhưng rất ý nhị thâm thúy. Một lá thư đã làm cho các "nhà tranh đấu" trong nước VNCH hải ngoại xem như lời kêu gọi tha thiết thầm mong các "Chú Bác" hải ngoại phải đoàn kết để tiếp tục "đại nghĩa" chống Cộng. Nhưng bác Trần Chung Ngọc lại cảm thấy thú vị vì hiểu được chiều sâu của lá thư này. Vì muốn ghi lại cảm tưởng vui vui này, ông đã viết lá thư trả lời sau đây (tsSH)</i></p>
 
 <hr width="60%">

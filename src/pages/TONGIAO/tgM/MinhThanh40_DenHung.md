@@ -3,7 +3,7 @@ layout: ../../../layouts/Article.astro
 title: "[VATICANOLOGY] - Đại Hội Giới Trẻ: Phức Cảm Hành Động (Catholic Action)"
 author: "Minh Thạnh"
 date: 2022-12-03
-source: "https://sachhiem.net/TONGIAO/tgM/MinhThanh40_DenHung.php"
+source: "/TONGIAO/tgM/MinhThanh40_DenHung"
 category: "Tác giả"
 lang: vi
 wordCount: 3090

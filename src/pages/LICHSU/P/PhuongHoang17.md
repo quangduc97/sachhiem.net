@@ -3,7 +3,7 @@ layout: ../../../layouts/Article.astro
 title: "Những Chuyện Kể Của PHGV"
 author: "Phượng Hoàng GV"
 date: 2021-07-03
-source: "https://sachhiem.net/LICHSU/P/PhuongHoang17.php"
+source: "/LICHSU/P/PhuongHoang17"
 category: "Lịch sử"
 lang: vi
 wordCount: 1800
@@ -79,5 +79,5 @@ image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/TONGIAO/IMG/CARTOON/
    <p>- Đấy là một "thế giới tự do và Liên Hiệp Quốc" đui điếc lẫn đểu cáng hay sao?!</p>
    <p><i>Trần Quang Diệu</i></p>
 <hr> 
-<p>Các chuyện kể của Phượng Hoàng Gò Vấp: link <a href="https://sachhiem.net/LICHSU/P/ListPHGV.inc.php" target="_blank">https://sachhiem.net/LICHSU/P/ListPHGV.inc.php</a></p>  
+<p>Các chuyện kể của Phượng Hoàng Gò Vấp: link <a href="/LICHSU/P/ListPHGV.inc" target="_blank">https://sachhiem.net/LICHSU/P/ListPHGV.inc.php</a></p>  
   <hr>

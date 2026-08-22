@@ -2,15 +2,14 @@
 layout: ../../../layouts/Article.astro
 title: "Hồi Ký của Kim Jin Sun"
 author: "Langtu Collectibles"
-source: "https://sachhiem.net/THOISU_CT/ChuK/KimJinSun1.php"
+source: "/THOISU_CT/ChuK/KimJinSun1"
 category: "Chính trị"
 lang: vi
 wordCount: 7217
-image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nha.jpg"
+image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/Hinh/VIETNAM/kimjinsun0.jpg"
 ---
 
-<p align="center"><a href="https://www.sachhiem.net/">
-	<img border="0" src="https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nha.jpg"></a>	29 tháng 7, 2010  </p>
+<p align="center">	29 tháng 7, 2010  </p>
 <p>&nbsp;<b>1</b> <span style="background-color: #800000">
 <font color="#FFFFFF">&nbsp;</font><a href="/THOISU_CT/KimJinSun2"><font color="#FFFFFF">2 
 </font> </a> </span><span style="background-color: #FFFFFF">

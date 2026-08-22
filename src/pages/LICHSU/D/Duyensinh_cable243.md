@@ -3,7 +3,7 @@ layout: ../../../layouts/Article.astro
 title: "BỨC ĐIỆN VĂN 243"
 author: "Duyên Sinh"
 date: 2013-06-02
-source: "https://sachhiem.net/LICHSU/D/Duyensinh_cable243.php"
+source: "/LICHSU/D/Duyensinh_cable243"
 category: "Lịch sử"
 lang: vi
 wordCount: 865

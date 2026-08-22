@@ -3,14 +3,14 @@ layout: ../../../layouts/Article.astro
 title: "\"Tác Phẩm Giả Tưởng\" Về Hồ Chí Minh"
 author: "Vũ Thư Hiên"
 date: 2016-12-08
-source: "https://sachhiem.net/LICHSU/V/VuThuHien.php"
+source: "/LICHSU/V/VuThuHien"
 category: "Chính trị"
 lang: vi
 wordCount: 2225
-image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nha.jpg"
+image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/LICHSU/IMG/HOCHIMINH/HCM_apicture.jpg"
 ---
 
-<p align="center"><a href="https://www.sachhiem.net/"> <img border="0" src="https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nha.jpg"></a> ngày 08-Dec-2016 </p>
+<p align="center"> ngày 08-Dec-2016 </p>
   
   <p><b>Mới đây, nhà bất đồng chính  kiến Phạm Quế Dương có nêu câu hỏi trên net: “Đề nghị làm sáng tỏ vụ việc: Hồ  Chí Minh là người Việt Nam hay Đài Loan?”</b> </p>
 <p>Câu hỏi của ông thế  này: “<i>Gần đây, dư luận sôi động về việc Đài Loan xuất bản cuốn sách Tìm hiểu về  cuộc đời Hồ Chí Minh ( Hồ Chí Minh sinh bình khảo), do nhà xuất bản Bạch Tượng  Văn Hóa ấn hành ngày 01-11-2008. Tác giả là <b>Hồ Tuấn Hùng, giáo sư</b> đã từng dạy  học hơn 30 năm, tốt nghiệp trường Đại Học Quốc Lập Đài Loan, khoa lịch sử</i>.”</p>
@@ -45,4 +45,4 @@ image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nha.jpg"
   <p class="TacgiaL"> Vũ Thư Hiên </p>
           <p>________________</p>
           <p><b>Mời đọc thêm:</b></p>
-  <p><a href="https://sachhiem.net/LTX/LyThaiLS1.php">- Nhận Dạng Sắc Dân Cụ Hồ Chí Minh Là Chuyện Nhảm Nhí </a>(Lý Thái Xuân)</p>
+  <p><a href="/LTX/LyThaiLS1">- Nhận Dạng Sắc Dân Cụ Hồ Chí Minh Là Chuyện Nhảm Nhí </a>(Lý Thái Xuân)</p>

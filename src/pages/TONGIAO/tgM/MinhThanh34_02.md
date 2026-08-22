@@ -3,7 +3,7 @@ layout: ../../../layouts/Article.astro
 title: "[VATICANOLOGY] - Quân Cờ Ba Lan Dưới Bàn Tay Của Học Thuyết Casaroli?"
 author: "Minh Thạnh"
 date: 2022-08-16
-source: "https://sachhiem.net/TONGIAO/tgM/MinhThanh34_02.php"
+source: "/TONGIAO/tgM/MinhThanh34_02"
 category: "Chính trị"
 lang: vi
 wordCount: 3266

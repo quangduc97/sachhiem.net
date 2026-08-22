@@ -3,7 +3,7 @@ layout: ../../../layouts/Article.astro
 title: "Nhật Ký Biển Đông: Thực Tế Chính Trị và Lý Tưởng"
 author: "Đào Văn Bình"
 date: 2017-02-17
-source: "https://sachhiem.net/DAOVB/CT/DaovBinh81.php"
+source: "/DAOVB/CT/DaovBinh81"
 category: "Chính trị"
 lang: vi
 wordCount: 5428

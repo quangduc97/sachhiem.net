@@ -3,7 +3,7 @@ layout: ../../../layouts/Article.astro
 title: "Bài Hát The Land of Vietnamese"
 author: "Thiếu Long giới thiệu"
 date: 2016-05-19
-source: "https://sachhiem.net/THOISU_CT/ChuTh/ThieuLong04.php"
+source: "/THOISU_CT/ChuTh/ThieuLong04"
 category: "Tác giả"
 lang: vi
 wordCount: 1207

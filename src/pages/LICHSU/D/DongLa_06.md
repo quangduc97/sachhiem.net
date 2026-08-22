@@ -3,7 +3,7 @@ layout: ../../../layouts/Article.astro
 title: "Những Giây Phút Thiêng Liêng Nhất, Bắt Tt VNCH Và Nội Các, Kết Thúc Hai Cuộc Kháng Chiến Vĩ Đại"
 author: "Đông La"
 date: 2025-01-03
-source: "https://sachhiem.net/LICHSU/D/DongLa_06.php"
+source: "/LICHSU/D/DongLa_06"
 category: "Chính trị"
 lang: vi
 wordCount: 4982

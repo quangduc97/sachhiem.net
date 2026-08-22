@@ -2,15 +2,14 @@
 layout: ../../../layouts/Article.astro
 title: "Here We Go Again"
 author: "Trần Chung Ngọc"
-source: "https://sachhiem.net/TCN/TCNdt/TCNdt019.php"
+source: "/TCN/TCNdt/TCNdt019"
 category: "Đối thoại"
 lang: en
 wordCount: 6015
-image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.devhttps://sachhiem.net/images/nha.jpg"
 ---
 
 <table border="0" width="250" align="center">
-    <tbody><tr><td width="106"><a href="https://sachhiem.net/index.php"><img border="0" src="https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.devhttps://sachhiem.net/images/nha.jpg"></a>    </td> <td valign="top" style="text-align:right">	<i><font size="2">30 tháng 8, 2008 </font> </i> </td></tr></tbody></table>
+    <tbody><tr><td width="106">    </td> <td valign="top" style="text-align:right">	<i><font size="2">30 tháng 8, 2008 </font> </i> </td></tr></tbody></table>
  <p><i>LTS: Sau khi đọc lá thư ông Chu Tất Tiến gửi ra diễn đàn lần thứ hai "cũng võ đoán, chụp mũ lung tung", lại giả bộ như "miễn cưỡng" phải trả lời lá thư phản hồi của Giáo sư Trần Chung Ngọc, một đọc giả cho chúng tôi biết đó là sự dối trá tâm lý, đuối lý nhưng không can đảm nhận. Người bạn này cho chúng tôi đọc những lá thư trước đây ông Chu Tất Tiến từng mong mỏi được đối thoại với giáo sư Trần Chung Ngọc, và khoe khoang hết sức để mong việc đó thành sự thật. Khi ông ChuTT viết được mấy bài "ra vẻ chống Cộng" và lấy điểm được với các trang điện tử "tưởng mình Chống Cộng", ông có thêm tự tin, và tiến đến viết thư "đánh" Giáo Sư Trần Chung Ngọc. Phải khâm phục sự khiêm nhượng và thẳng thắn của Giáo Sư Ngọc, đã không chấp kẻ "học đòi". Dù ông đang bận bịu đa đoan những việc quan trọng hơn, cũng chịu khó cố gắng để dành chút thì giờ mà "hồi đáp", mong "giải hoặc phần nào" những kẻ mà đầu óc đã bị đông cứng thành những "ông bình vôi". Dù sẽ không kết quả, nhưng công đức của Giáo Sư Trần Chung Ngọc rất đáng khâm phục! (tsSH)</i></p>
 
 <hr width="60%">

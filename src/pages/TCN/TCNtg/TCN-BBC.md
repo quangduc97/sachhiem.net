@@ -2,17 +2,16 @@
 layout: ../../../layouts/Article.astro
 title: "TCN Đọc Tin BBC:"
 author: "Trần Chung Ngọc"
-source: "https://sachhiem.net/null"
+source: "/null"
 category: "Tác giả"
 lang: vi
 wordCount: 1240
-image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nha.jpg"
+image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/TONGIAO/IMG/CHURCH/UK_Wales.jpg"
 ---
 
 <p class="Tuaduoi"> Tôn Giáo Có Thể Mai Một Trong 9 Quốc Gia</p>
 
-<p align="center"><a href="https://www.sachhiem.net/">
-<img border="0" src="https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nha.jpg"></a> 26 tháng 3, 2011 </p>
+<p align="center"> 26 tháng 3, 2011 </p>
 	 <p class="PicLeft"> <img border="0" src="https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/TONGIAO/IMG/CHURCH/UK_Wales.jpg" width="304" height="171"><br>Nhóm nghiên cứu sử dụng một số dữ liệu<br>
  bắt đầu từ thế kỷ 19 để điều tra dân số.</p> 
  	<p><span class="First"> M</span>ột nghiên cứu mới chứng 

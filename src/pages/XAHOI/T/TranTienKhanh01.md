@@ -3,7 +3,7 @@ layout: ../../../layouts/Article.astro
 title: "Cái Chết Của Mekong, Dòng Sông Phật Giáo"
 author: "TS Trần Tiễn Khanh, AMI Environmental, USA *"
 date: 2015-06-16
-source: "https://sachhiem.net/XAHOI/T/TranTienKhanh01.php"
+source: "/XAHOI/T/TranTienKhanh01"
 category: "Xã hội"
 lang: vi
 wordCount: 10048

@@ -3,7 +3,7 @@ layout: ../../../layouts/Article.astro
 title: "Keith Weller Taylor Là Ai?"
 author: "Nguyễn Đình Vân Tiên"
 date: 2015-04-23
-source: "https://sachhiem.net/VANHOC/N/NgDVanTien.php"
+source: "/VANHOC/N/NgDVanTien"
 category: "Chính trị"
 lang: vi
 wordCount: 5445
@@ -24,8 +24,8 @@ image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/VANHOC/Hinh/VANNHAN/
     Đâm mấy thằng gian, bút chẳng tà"  <br>
     (cụ Đồ Chiểu)</i></p>
   <p><i>Vân Tiên, tên nhân vật chính trong cuốn truyện thơ Lục Vân Tiên của cụ Đồ Chiểu,  người có tinh thần: "Giữa đường thấy chuyện bất bình, chẳng tha!" Đó cũng chính là tinh thần của bài viết dưới đây của Nguyễn Đình Vân Tiên, hậu duệ Cụ Đồ  Chiểu. Để tìm hiểu quan điểm của Keith  lật ngược sự thật về chiến tranh Việt Nam như thế nào, xin mời bạn đọc cùng xem và ủng hộ quan điểm chận đứng những hành động vinh danh những người thuộc thế lực đen tối. </i>(SH)</p>
-  <p><a href="https://sachhiem.net/index.php?content=showrecipe&amp;id=6302">* tổ chức phi chính phủ, xin xem link về NGO</a></p>
-  <p>** <a href="https://sachhiem.net/LICHSU/N/NguyenThaiAn04.php">xem "Ngắn Gọn Về Thầy Thông Ngôn Trương Vĩnh Ký</a></p>
+  <p><a href="/THOISU_CT/ChuM/MikeWilson">* tổ chức phi chính phủ, xin xem link về NGO</a></p>
+  <p>** <a href="/LICHSU/N/NguyenThaiAn04">xem "Ngắn Gọn Về Thầy Thông Ngôn Trương Vĩnh Ký</a></p>
   </div>
    <p align="center">&nbsp;<img src="https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/VANHOC/Hinh/VANNHAN/KeithWTaylor.jpg" width="200" height="198" alt="https://lrc.cornell.edu/asian/faculty/bios/taylor"></p>
    <p align="center"> <i>Ảnh của KWT,&nbsp;https://lrc.cornell.edu </i>&nbsp;&nbsp; </p>

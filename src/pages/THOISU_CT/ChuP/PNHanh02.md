@@ -3,7 +3,7 @@ layout: ../../../layouts/Article.astro
 title: "Bài học Thụy Sỹ:"
 author: "P.N. Hành"
 date: 2011-12-12
-source: "https://sachhiem.net/null"
+source: "/null"
 category: "Chính trị"
 lang: vi
 wordCount: 2657

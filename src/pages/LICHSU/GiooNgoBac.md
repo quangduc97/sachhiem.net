@@ -2,7 +2,7 @@
 layout: ../../layouts/Article.astro
 title: "CUỘC TẤN CÔNG QUÂN SỰ ĐẦU TIÊN CỦA PHÁP VÀO VIỆT NAM"
 author: "Phạm Viêm Phương, Mai Sơn dịch"
-source: "https://sachhiem.net/nguồn: Gio-o.com"
+source: "/nguồn: Gio-o.com"
 category: "Chính trị"
 lang: vi
 wordCount: 2357

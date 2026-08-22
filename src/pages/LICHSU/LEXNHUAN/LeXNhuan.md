@@ -2,14 +2,14 @@
 layout: ../../../layouts/Article.astro
 title: "NGÔ ĐÌNH DIỆM"
 author: "Lê Xuân Nhuận"
-source: "https://sachhiem.net/LICHSU/LEXNHUAN/LeXNhuan.php"
+source: "/LICHSU/LEXNHUAN/LeXNhuan"
 category: "Lịch sử"
 lang: vi
 wordCount: 349
-image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nha.jpg"
+image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/LICHSU/IMG/NGODD/NgoDDiem.jpg"
 ---
 
-<p align="center"><a href="/LICHSU/index"><img hspace="20" border="0" src="https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nha.jpg"></a> <a href="/LICHSU/LEXNHUAN/LXN_main">Mục lục các bài liên hệ với chế độ Ngô Đình Diệm </a> &nbsp;&nbsp; 03 tháng 2, 2009 </p>
+<p align="center"> <a href="/LICHSU/LEXNHUAN/LXN_main">Mục lục các bài liên hệ với chế độ Ngô Đình Diệm </a> &nbsp;&nbsp; 03 tháng 2, 2009 </p>
 	<p><i>LTS: Một độc giả giới thiệu đến sachhiem.net trang tài liệu nghiên cứu khá chi tiết về "Ngô Đình Diệm", nhân vật lịch sử trong giai đoạn chia đôi Bắc Nam của nước Việt Nam từ năm 1954.  Trang tài liệu này đăng trong website Lê Xuân Nhuận. Tòa soạn xin được phép tác giả Lê Xuân Nhuận để được giới thiệu lại cho các bạn đọc sachhiem.net công trình nghiên cứu này. Các mục dưới đây đều nối thẳng vào website của tác giả. (SH)</i></p>
 			<p><a href="https://lexuannhuan.tripod.com/NgoDinhDiem.html">https://lexuannhuan.tripod.com/NgoDinhDiem.html</a></p>
 			<hr width="90%">

@@ -3,7 +3,7 @@ layout: ../../../layouts/Article.astro
 title: "Cuộc Chiến Ukraina: Trận Đồ Bát Quái"
 author: "Đào Văn Bình"
 date: 2022-06-11
-source: "https://sachhiem.net/DAOVB/CT/DaovBinh146.php"
+source: "/DAOVB/CT/DaovBinh146"
 category: "Chính trị"
 lang: vi
 wordCount: 2635

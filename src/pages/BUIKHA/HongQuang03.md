@@ -3,7 +3,7 @@ layout: ../../layouts/Article.astro
 title: "Mười Vấn Đề Cấp Thiết Của Phật Giáo Việt Nam"
 author: "Hồng Quang"
 date: 2012-09-20
-source: "https://sachhiem.net/BUIKHA/HongQuang03.php"
+source: "/BUIKHA/HongQuang03"
 lang: vi
 wordCount: 6616
 image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/TONGIAO/IMG/SU/HTThichMinhChau_bantho.jpg"

@@ -2,7 +2,7 @@
 layout: ../../../layouts/Article.astro
 title: "Công lý lịch sử của :"
 author: "Ts. Lý Khôi Việt"
-source: "https://sachhiem.net/(nguồn: https://phusaonline.free.fr/VanMinh-VanHoa/DiSan/1_HongTruongSa-ChuaBaoThien-NhathoLon...htm)"
+source: "/(nguồn: https://phusaonline.free.fr/VanMinh-VanHoa/DiSan/1_HongTruongSa-ChuaBaoThien-NhathoLon...htm)"
 category: "Chính trị"
 lang: vi
 wordCount: 4156
@@ -37,7 +37,7 @@ Chùa Báo Thiên,
 	<div style="padding-left: 40px; padding-right: 40px">
 
 	<table border="0" id="3" cellpadding="10" width="100%" align="center"><tbody><tr>
-				<td valign="top" width="242" class="nguon"><a href="https://sachhiem.net/"><img border="0" src="https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nhacu.jpg" width="49" height="20"></a></td>
+				<td valign="top" width="242" class="nguon"><a href="/"><img border="0" src="https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nhacu.jpg" width="49" height="20"></a></td>
 	<td valign="top" class="nguon">	29 tháng 1, 2008
 	</td></tr></tbody></table>
 	

@@ -3,7 +3,7 @@ layout: ../../../layouts/Article.astro
 title: "Ai Đã Giết Cô Nhân Viên Tiếp Tân Của Giáo Hoàng?"
 author: "Barbie Latza Nadeau/"
 date: 2016-02-24
-source: "https://sachhiem.net/TONGIAO/tgS/SH68_secr.php"
+source: "/TONGIAO/tgS/SH68_secr"
 category: "Tác giả"
 lang: vi
 wordCount: 892

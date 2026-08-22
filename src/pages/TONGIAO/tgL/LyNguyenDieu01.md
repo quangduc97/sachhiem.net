@@ -3,7 +3,7 @@ layout: ../../../layouts/Article.astro
 title: "Quy Luật Của 'Tháng Tám Định Mệnh'"
 author: "Lý Nguyên Diệu"
 date: 2015-08-23
-source: "https://sachhiem.net/TONGIAO/tgL/LyNguyenDieu01.php"
+source: "/TONGIAO/tgL/LyNguyenDieu01"
 category: "Tác giả"
 lang: vi
 wordCount: 3464

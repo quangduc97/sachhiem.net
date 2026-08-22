@@ -3,7 +3,7 @@ layout: ../../../layouts/Article.astro
 title: "Nhật Ký Biển Đông: “America First” Vừa Lợi Vừa Hại"
 author: "Đào Văn Bình"
 date: 2018-10-01
-source: "https://sachhiem.net/DAOVB/CT/DaovBinh119.php"
+source: "/DAOVB/CT/DaovBinh119"
 category: "Chính trị"
 lang: vi
 wordCount: 2735

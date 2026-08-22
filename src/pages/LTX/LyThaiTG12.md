@@ -3,7 +3,7 @@ layout: ../../layouts/Article.astro
 title: "“Cha Ơi Cứu Con” và"
 author: "Lý Thái"
 date: 2014-02-21
-source: "https://sachhiem.net/LTX/LythaiTG12.php"
+source: "/LTX/LythaiTG12"
 category: "Tác giả"
 lang: vi
 wordCount: 3488
@@ -29,7 +29,7 @@ Nho  giáo có dạy “<i>Nguy bang bất nhập, loạn  bang bất cư.</i>�
     <p><i>Một  nhà  ngoại giao Na Uy khó chịu tại Liên  Hợp Quốc thường xuyên  nói xấu  Tòa  Thánh.  Ông tự  hỏi tại sao các nhà ngoại giao Tòa Thánh được  phép  vào phòng họp trong thời gian đàm phán  (giữa  các quốc gia). Ông nói  ngay rằng Tòa  Thánh  phải ra khỏi đây.  Điều  này đã xảy ra nhiều hơn một lần ...</i></p>
 <p><i> Có lẽ ông  không  phải là  nhà  ngoại giao duy nhất  nghĩ như thế , nhưng những người thông minh hơn  giữ im lặng. Có chút nghi ngờ rằng một số cơ quan của  Liên  hợp quốc , đặc biệt là hầu  hết các  Quỹ Dân  số Liên  Hợp Quốc mê phá thai,&nbsp;  muốn &nbsp;Tòa Thánh ra khỏi  các phòng đàm  phán.</i></p>
 <p><i>Và sau đó là một nhóm vừa nhỏ vừa xấu của “người Ca-tô ly khai” &nbsp;vừa tái hạn một chiến dịch &nbsp;đã nhiều lần thất bại, muốn đá Tòa Thánh  ra khỏi Liên  Hiệp Quốc. Hội đồng Giám Mục  Hoa Kỳ đã lên án,  ít nhất  hai lần, nhóm người  “Ca-tô có quyền  Chọn lựa” (CFC) , được thành  lập như Ca-tô hữu theo quan điểm tự do chọn lựa (kế hoạch gia đình).... </i></p>
-<p><i> CFC đã cố  gắng đá  Giáo  Hội ra khỏi  Liên  Hiệp Quốc 13 năm trước  đây . &nbsp;Phong trào vận động gọi là “Thấy - Thay đổi” (See-Change) của  họ khởi sự , sôi sục và rồi chết ngủm. &nbsp;Những người chống phá thai” (Pro-Life) phản đối với một chiến dịch riêng  có tới  &nbsp;hơn 4.000 nhóm từ khắp nơi trên thế  giới ủng hộ Tòa  Thánh tại Liên  Hiệp Quốc.&nbsp; Trong đó bao gồm  các nhóm Tin Lành và  Hồi giáo  lớn nhất trên thế  giới. [LT: về nhóm chống phá thai (Pro-Life), xem <a href="https://sachhiem.net/print.php?id=1079">Công Giáo Và Vấn Đề  Phá Thai của Trần Tiên Long</a>]</i></p>
+<p><i> CFC đã cố  gắng đá  Giáo  Hội ra khỏi  Liên  Hiệp Quốc 13 năm trước  đây . &nbsp;Phong trào vận động gọi là “Thấy - Thay đổi” (See-Change) của  họ khởi sự , sôi sục và rồi chết ngủm. &nbsp;Những người chống phá thai” (Pro-Life) phản đối với một chiến dịch riêng  có tới  &nbsp;hơn 4.000 nhóm từ khắp nơi trên thế  giới ủng hộ Tòa  Thánh tại Liên  Hiệp Quốc.&nbsp; Trong đó bao gồm  các nhóm Tin Lành và  Hồi giáo  lớn nhất trên thế  giới. [LT: về nhóm chống phá thai (Pro-Life), xem <a href="/print.php?id=1079">Công Giáo Và Vấn Đề  Phá Thai của Trần Tiên Long</a>]</i></p>
 <p><i>  Quốc  hội Mỹ thực sự đã nhất trí, trừ một người,  thông  qua nghị quyết ủng hộ&nbsp; Tòa Thánh  tại Liên  Hiệp Quốc.</i></p>
 <p><i> Lập  luận của họ khi đá  Giáo  Hội ra khỏi  Liên  Hiệp Quốc là gì? Chủ yếu , bởi vì Giáo Hội là một  tôn giáo và  không  có tôn  giáo  nào khác  có tình trạng như vậy tại Liên  Hiệp Quốc.</i></p>
 <p><i>  Đó  là sự  thật . Họ tiếp  tục nói rằng Tòa Thánh thậm chí không đủ điều  kiện cho tình trạng  như vậy bởi vì  nó không đáp  ứng được  điều  kiện làm thành viên,  gồm có <b>một lãnh thổ được xác định, một dân số và một chính phủ có khả năng cai trị lãnh thổ và được công nhận bởi các quốc gia khác</b> .    ...</i></p>

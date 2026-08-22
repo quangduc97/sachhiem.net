@@ -2,11 +2,11 @@
 layout: ../../../layouts/Article.astro
 title: "Giáo sư Ngô Bảo Châu đoạt giải toán học Fields"
 author: "Tin Liên Mạng"
-source: "https://sachhiem.net/null"
+source: "/null"
 category: "Chính trị"
 lang: vi
 wordCount: 2427
-image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nha.jpg"
+image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/IMG/DanhNhan/NgoBaoChau_AFP.jpg"
 ---
 
 <div align="center">
@@ -24,8 +24,7 @@ image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nha.jpg"
 				<div style="padding-left: 50px; padding-right: 50px">
 					<table border="0" cellpadding="1" width="80%" cols="2">
 						<tbody><tr>
-							<td><a href="/index">
-							<img border="0" src="https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nha.jpg"></a></td>
+							<td></td>
 							<td valign="top" width="195">
 							<p>20 tháng 8, 2010</p></td>
 						</tr>

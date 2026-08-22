@@ -2,7 +2,7 @@
 layout: ../../layouts/Article.astro
 title: "Kenyan Christians Want to Stop"
 author: "Associated Press"
-source: "https://sachhiem.net/Source https://www.foxnews.com/story/0,2933,250557,00.html"
+source: "/Source https://www.foxnews.com/story/0,2933,250557,00.html"
 category: "Tác giả"
 lang: en
 wordCount: 2018
@@ -30,7 +30,7 @@ image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nhacu.jpg"
 <div style="padding-left: 40px; padding-right: 40px">
 
 <table border="0" width="90%" cols="2"><tbody><tr>	<td width="166">
-<a href="https://sachhiem.net/"><img border="0" src="https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nhacu.jpg"></a></td>	
+<a href="/"><img border="0" src="https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nhacu.jpg"></a></td>	
 <td><font size="2">09 tháng 01, 2009</font></td>	
 
 </tr>	</tbody></table>

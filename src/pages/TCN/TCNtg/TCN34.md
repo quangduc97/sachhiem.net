@@ -2,11 +2,11 @@
 layout: ../../../layouts/Article.astro
 title: "NHÂN VỤ TÒA KHÂM SỨ"
 author: "Trần Chung Ngọc"
-source: "https://sachhiem.net/TCN/TCNtg/TCN34.php"
+source: "/TCN/TCNtg/TCN34"
 category: "Tác giả"
 lang: vi
-wordCount: 17935
-image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nha.jpg"
+wordCount: 17931
+image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/TONGIAO/IMG/Daoquanthu5.jpg"
 ---
 
 <p class="Tuaduoi">NHÌN LẠI
@@ -14,7 +14,7 @@ CA-TÔ GIÁO<br>TRONG GIÒNG LỊCH SỬ VIỆT NAM</p>
 		<p class="Tuaduoi">[Một Khảo Luận Qua Các Tài Liệu]</p>
 		
 
-<p align="center"> <a href="/index"><img border="0" src="https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nha.jpg" align="middle" hspace="20"> 17 tháng 2, 2008  </a></p><a href="/index">
+<a href="/index">
 
 <p style="text-align: center"> 
 <b><font size="5" face="Times New Roman"><img border="0" src="https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/TONGIAO/IMG/Daoquanthu5.jpg" width="241" height="121" alt="Đạo quân thứ 5"></font></b></p>
@@ -1372,7 +1372,7 @@ ra chỉ là nước do Vatican cầm đầu.</p>
 
 </a><p><a href="/index"> 
 Sau khi Pháp xâm chiếm Việt Nam thì người Ca-tô La Mã giáo ở Việt Nam đã xử sự như thế nào trong đại khối dân tộc. Vấn đề 
-này đã được Giáo sư Nguyễn Mạnh Quang trình bày chi tiết trong Mục <i>“</i><i></i></a><i><a style="color: blue; text-decoration: underline; text-underline: single" href="https://sachhiem.net/TONGIAO/tgT/TCN_NMQ12.php">VATICAN 
+này đã được Giáo sư Nguyễn Mạnh Quang trình bày chi tiết trong Mục <i>“</i><i></i></a><i><a style="color: blue; text-decoration: underline; text-underline: single" href="/TONGIAO/tgT/TCN_NMQ12">VATICAN 
 Và Tín Đồ Người Việt Trong Quá Trình Chống Lại Tổ Quốc VN</a>…”</i> trong cuốn sách sắp 
 xuất bản <i>“Người Việt Nam Và Đạo Giê-su”</i> [đã đăng đầy đủ trên trang nhà 
 sachhiem.net], viết chung với Trần Chung Ngọc, qua các giai đoạn từ 1553-1858; 

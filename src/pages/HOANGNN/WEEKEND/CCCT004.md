@@ -2,7 +2,7 @@
 layout: ../../../layouts/Article.astro
 title: "CÂU CHUYỆN CUỐI TUẦN"
 author: "Anthony Darlic"
-source: "https://sachhiem.net/null"
+source: "/null"
 lang: vi
 wordCount: 1311
 image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nhacu.jpg"
@@ -37,7 +37,7 @@ image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nhacu.jpg"
 
 
   <table border="0" cellpadding="10" width="80%" cols="2"><tbody><tr>
-	<td valign="top"><a href="https://sachhiem.net/">
+	<td valign="top"><a href="/">
 	<img border="0" src="https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nhacu.jpg" width="49" height="20"></a></td>
 	<td valign="top" style="text-align:right">	<font size="2">đăng ngày 26&nbsp; tháng 8, 2007
 	</font>
@@ -109,7 +109,7 @@ Thứ hai, Maliki còn đi xa hơn không cai trị bằng lý lịch ba đời 
 
 	
 <tr> 
-	<td align="center" valign="top" bgcolor="#FEFEDA" colspan="2"> <center> <a href="https://sachhiem.net/HOANGNN/HOANGdir.php"><img src="https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/MuclucButton.gif"></a></center>
+	<td align="center" valign="top" bgcolor="#FEFEDA" colspan="2"> <center> <a href="/HOANGNN/HOANGdir"><img src="https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/MuclucButton.gif"></a></center>
 </td></tr>
 
 

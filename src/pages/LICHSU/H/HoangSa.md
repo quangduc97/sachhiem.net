@@ -3,7 +3,7 @@ layout: ../../../layouts/Article.astro
 title: "Cựu binh: Hoàng Sa đáng ra không mất!"
 author: "Tin BBC"
 date: 2014-01-17
-source: "https://sachhiem.net/LICHSU/H/HoangSa.php"
+source: "/LICHSU/H/HoangSa"
 category: "Lịch sử"
 lang: vi
 wordCount: 1713

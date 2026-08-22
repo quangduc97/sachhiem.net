@@ -3,7 +3,7 @@ layout: ../../../layouts/Article.astro
 title: "Một Quan Chức Tôn Giáo Thuyết Giảng Nói Chiến Tranh Việt Nam Là “Nội Chiến”, “Chiến Tranh Ý Thức Hệ”"
 author: "Minh Thạnh"
 date: 2025-08-14
-source: "https://sachhiem.net/TONGIAO/tgM/MinhThanh48.php"
+source: "/TONGIAO/tgM/MinhThanh48"
 category: "Chính trị"
 lang: vi
 wordCount: 17438

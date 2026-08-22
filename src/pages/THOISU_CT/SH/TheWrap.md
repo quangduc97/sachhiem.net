@@ -3,7 +3,7 @@ layout: ../../../layouts/Article.astro
 title: "Một tờ báo tại New York bị chỉ trích dữ dội vì gọi Tổng thống Obama bằng..."
 author: "TheWrap"
 date: 2014-07-07
-source: "https://sachhiem.net/THOISU_CT/SH/TheWrap.php"
+source: "/THOISU_CT/SH/TheWrap"
 category: "Chính trị"
 lang: vi
 wordCount: 341

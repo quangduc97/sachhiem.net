@@ -3,7 +3,7 @@ layout: ../../../layouts/Article.astro
 title: "Nhật Ký Biển Đông: Thế Nước Lòng Dân"
 author: "Đào Văn Bình"
 date: 2018-05-31
-source: "https://sachhiem.net/DAOVB/CT/DaovBinh111.php"
+source: "/DAOVB/CT/DaovBinh111"
 category: "Chính trị"
 lang: vi
 wordCount: 6202

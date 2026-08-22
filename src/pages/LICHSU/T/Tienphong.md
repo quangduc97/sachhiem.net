@@ -2,11 +2,11 @@
 layout: ../../../layouts/Article.astro
 title: "Võ Nguyên Giáp:"
 author: "Cecil B.Curry"
-source: "https://sachhiem.net/nguồn: nghttps://www.tienphong.vn/Tianyon/Index.aspx?ArticleID=19379&amp;ChannelID=2"
+source: "/nguồn: nghttps://www.tienphong.vn/Tianyon/Index.aspx?ArticleID=19379&amp;ChannelID=2"
 category: "Lịch sử"
 lang: vi
 wordCount: 2197
-image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nha.jpg"
+image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/SACHNGOAI/Hinhanh/DaituongVNG.jpg"
 ---
 
 <div align="center" style="position: relative; left: 0; top: 0">
@@ -32,7 +32,7 @@ image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nha.jpg"
 <tr> <td width="100%"> 
  <div style="padding-left: 50px; padding-right: 50px">
 		<table border="0" cellpadding="10" width="100%" cols="3"><tbody><tr>
-		<td width="98"><a href="/index"><img border="0" src="https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nha.jpg"></a></td>
+		<td width="98"></td>
 				<td valign="top">	26 tháng 7, 2008
 	</td></tr></tbody></table>
 

@@ -3,7 +3,7 @@ layout: ../../../layouts/Article.astro
 title: "Có Các Hội Nhà Văn Để Làm Gì?"
 author: "Đông La"
 date: 2024-12-06
-source: "https://sachhiem.net/THOISU_CT/ChuD/DongLa12.php"
+source: "/THOISU_CT/ChuD/DongLa12"
 category: "Chính trị"
 lang: vi
 wordCount: 1848

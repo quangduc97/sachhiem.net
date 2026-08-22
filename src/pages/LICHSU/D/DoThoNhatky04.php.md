@@ -2,7 +2,7 @@
 layout: ../../../layouts/Article.astro
 title: "NHẬT KÝ ĐỖ THỌ"
 date: 2021-12-25
-source: "https://sachhiem.net/LICHSU/D/DoThoNhatky04.php.php"
+source: "/LICHSU/D/DoThoNhatky04.php"
 category: "Chính trị"
 lang: vi
 wordCount: 1608

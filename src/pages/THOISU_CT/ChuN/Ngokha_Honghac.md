@@ -3,7 +3,7 @@ layout: ../../../layouts/Article.astro
 title: "Đã tìm được nơi nhà thơ Ngô Kha bị giết hại"
 author: "Hồng Hạc"
 date: 2013-02-25
-source: "https://sachhiem.net/THOISU_CT/ChuN/Ngokha_Honghac.php"
+source: "/THOISU_CT/ChuN/Ngokha_Honghac"
 category: "Tác giả"
 lang: vi
 wordCount: 135

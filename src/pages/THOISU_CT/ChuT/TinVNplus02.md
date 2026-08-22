@@ -3,7 +3,7 @@ layout: ../../../layouts/Article.astro
 title: "Hơn 3.000 người Việt tại Đức biểu tình phản đối Trung Quốc"
 author: "Nguyên Đức/Berlin (Vietnam+)"
 date: 2015-06-15
-source: "https://sachhiem.net/THOISU_CT/ChuT/TinVNplus02.php"
+source: "/THOISU_CT/ChuT/TinVNplus02"
 category: "Tác giả"
 lang: vi
 wordCount: 853

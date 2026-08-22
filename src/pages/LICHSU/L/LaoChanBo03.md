@@ -3,7 +3,7 @@ layout: ../../../layouts/Article.astro
 title: "Quảng Ngãi Không Thể Đặt Tên Đường Lê Văn Duyệt!"
 author: "Lão Chăn Bò"
 date: 2023-02-26
-source: "https://sachhiem.net/LICHSU/L/LaoChanBo03.php"
+source: "/LICHSU/L/LaoChanBo03"
 category: "Lịch sử"
 lang: vi
 wordCount: 3869

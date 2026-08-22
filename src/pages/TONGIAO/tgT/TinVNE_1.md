@@ -3,7 +3,7 @@ layout: ../../../layouts/Article.astro
 title: "300 linh mục Mỹ bị cáo buộc lạm dụng hàng nghìn trẻ em"
 author: "Ánh Ngọc /VNE"
 date: 2018-08-15
-source: "https://sachhiem.net/TONGIAO/tgT/TinVNE_1.php"
+source: "/TONGIAO/tgT/TinVNE_1"
 category: "Chính trị"
 lang: vi
 wordCount: 494

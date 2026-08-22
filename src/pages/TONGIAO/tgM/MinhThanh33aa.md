@@ -3,7 +3,7 @@ layout: ../../../layouts/Article.astro
 title: "[VATICANOLOGY] Phải Chăng, Báo Chí Cường Điệu Tin Tức Liên Hệ Đến Chính Quyền Vatican"
 author: "Minh Thạnh"
 date: 2024-03-10
-source: "https://sachhiem.net/TONGIAO/tgM/MinhThanh33aa.php"
+source: "/TONGIAO/tgM/MinhThanh33aa"
 category: "Chính trị"
 lang: vi
 wordCount: 4519

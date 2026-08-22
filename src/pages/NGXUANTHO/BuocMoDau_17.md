@@ -3,18 +3,17 @@ layout: ../../layouts/Article.astro
 title: "Bước Mở Đầu Của Sự Thiết Lập Hệ Thống Thuộc Địa Pháp Ở Việt Nam"
 author: "TS Nguyễn Xuân Thọ"
 date: 2023-02-13
-source: "https://sachhiem.net/NGXUANTHO/BuocMoDau_17.php"
+source: "/NGXUANTHO/BuocMoDau_17"
 category: "Lịch sử"
 lang: vi
 wordCount: 15060
-image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nha.jpg"
+image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/sqdot.gif"
 ---
 
 <p class="Tuaduoi"><b>Hiệp Ước Patenôtre</b></p>
 
 
-  <p align="center"><a href="https://www.sachhiem.net/">
-<img border="0" src="https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nha.jpg"></a>| <a target="_blank" href="https://sachhiem.net/NGXUANTHO/BuocMoDau_Main.php"><span lang="en-us"><b><font face="Symbol">¿</font></b></span> trở ra mục lục</a>| 13-Feb-2023</p> 
+  <p align="center">| <a target="_blank" href="/NGXUANTHO/BuocMoDau_Main"><span lang="en-us"><b><font face="Symbol">¿</font></b></span> trở ra mục lục</a>| 13-Feb-2023</p> 
 <p class="TuaDoLeft"><b>Chương 16 - Hiệp Ước Patenôtre (6/6/1884)</b></p>
 <p>Nếu như, trong ba mươi sáu năm dưới triều đình vua Tự Đức, nước Việt Nam đã chứng kiến những ngày đen tối nhất trong lịch sử của mình thì với sự chiếm đóng của thực dân Pháp, giai đoạn tiếp theo cái chết của vua Tự Đức là một trong những giai đoạn bi đát nhất.</p>
 <p>Trong lúc mà tương lai đất nước đang đứng trước họa sống còn, những cuộc nổi loạn triều lại tiếp nối nhau trên một nhịp độ khủng khiếp, đe dọa không những dòng họ đương trị mà cả sự tồn tại của Việt Nam với tư cách là một quốc gia.</p>

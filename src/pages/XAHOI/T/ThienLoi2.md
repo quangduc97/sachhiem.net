@@ -2,7 +2,7 @@
 layout: ../../../layouts/Article.astro
 title: "Văn Hóa Phật Giáo"
 author: "Thiên Lôi"
-source: "https://sachhiem.net/null"
+source: "/null"
 category: "Chính trị"
 lang: vi
 wordCount: 6086

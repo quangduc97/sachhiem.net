@@ -3,7 +3,7 @@ layout: ../../../layouts/Article.astro
 title: "Thủ Tướng Ðức Angela Merkel giới thiệu bản đồ cổ Trung Hoa cho Chủ Tịch TQ Tập Cận Bình"
 author: "IVCE gửi"
 date: 2014-04-02
-source: "https://sachhiem.net/LICHSU/H/HoangSa_TranDucAnhSon.php"
+source: "/LICHSU/H/HoangSa_TranDucAnhSon"
 category: "Tác giả"
 lang: vi
 wordCount: 969

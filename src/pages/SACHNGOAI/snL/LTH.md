@@ -3,7 +3,7 @@ layout: ../../../layouts/Article.astro
 title: "20 Nhân Vật Mỹ Và Việt Nổi Bật"
 author: "History SparkNotes / LTH Việt dịch"
 date: 2015-03-16
-source: "https://sachhiem.net/SACHNGOAI/snL/LTH.php"
+source: "/SACHNGOAI/snL/LTH"
 category: "Chính trị"
 lang: vi
 wordCount: 3943

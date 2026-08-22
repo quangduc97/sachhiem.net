@@ -6,14 +6,13 @@ source: "https://phongdiep.net/default.asp?action=article&ID=8448"
 category: "Văn hóa"
 lang: vi
 wordCount: 2938
-image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nha.jpg"
 ---
 
 <p class="Tuaduoi">(Đôi lời trao đổi với ông Đoàn Tử Huyến) </p>
 		
 				
 
-<p align="center"><a href="https://www.sachhiem.net/"> <img border="0" src="https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nha.jpg"></a> 06 tháng 10,   2009 </p> 
+<p align="center"> 06 tháng 10,   2009 </p> 
 	<p><i>LTS: Việc đình chỉ hay không đình chỉ xuất bản quyển "Trịnh Công Sơn - Vết Chân Dã Tràng" không thuộc về phạm vi tranh luận theo quan điểm của website sachhiem.net. Tuy nhiên khi tranh luận về vấn đề này, các tác giả đặt ra một vấn đề rất quan trọng, ý nghĩa cuộc chiến Việt Nam.  Đây là trọng điểm  mà tác giả Ban Mai đã vô tình hay cố ý cài đặt trong tác phẩm này một mùi "thuốc tẩy".  Tẩy hết các giọt mồ hôi, những dòng máu anh hùng tuôn chảy cho một nước độc lập, tẩy hết các trang lịch sử oai hùng lừng danh thế giới của dân Việt, tấy luôn cả đức tính biết ơn các anh hùng dân tộc trong luân lý Á Đông. Ai cho rằng tác phẩm phê bình nghệ thuật không nên giải thích theo ý nghĩa chính trị, nên đem lời dạy này cho tác phẩm đó của Ban Mai.  Xin đặt ngược lại vấn đề: Nếu quan điểm chính trị trong quyển "Trịnh Công Sơn - Vết Chân Dã Tràng" vẫn là "phê bình nghệ thuật," thì tại sao quan điểm chính trị phê bình chỉ trích phản luận lại không phải hay không đuợc? (SH) </i></p><hr>
 	
 	

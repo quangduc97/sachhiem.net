@@ -3,7 +3,7 @@ layout: ../../../layouts/Article.astro
 title: "Dòng Chúa Cứu Thế Hay Dòng Tên?"
 author: "FB Lê Anh Tuấn"
 date: 2020-07-01
-source: "https://sachhiem.net/TONGIAO/FB/FBMathieuLeAnh01.php"
+source: "/TONGIAO/FB/FBMathieuLeAnh01"
 category: "Tác giả"
 lang: vi
 wordCount: 929
@@ -29,7 +29,7 @@ image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/TONGIAO/IMG/CHURCH/D
     <p align="center"><a href="https://en.wikipedia.org/wiki/Ignatius_of_Loyola">Ignatius Loyola trong chiến bào (bên trái)</a></p>
     <p>Ba quốc gia trên bán đảo Ý bao gồm Naples, Sicile et Parme cũng ra lệnh đuổi bầy chó này khỏi đất nước họ mặc dù họ rất sùng đạo (cùng năm với Tây Ban Nha 1767)</p>
     <p>Đứng trước một tình trạng côn đồ, mất dạy của binh đoàn Dêsù này (compagie de Jésus), giáo hoàng Clément 14 phải ra lệnh xóa bỏ Dòng Tên này khỏi giáo hội (1773), dù sau đó vài mươi năm, lũ này lại được tái lập. Mất dạy có hoàn lương cũng trở lại mất dạy thôi !</p>
-    <p>Ai chưa biết Dòng Tên là dòng như thế nào, thì lên Sách Hiếm tìm đọc cuốn <i>"Lời Thề Dòng Tên</i>" thi biết rõ lai lịch Dòng này. (<a href="https://www.sachhiem.net/SACHNGOAI/HoangKhoi.php">Lật Tẩy Lời Thề Dòng Da-tô</a>)</p>
+    <p>Ai chưa biết Dòng Tên là dòng như thế nào, thì lên Sách Hiếm tìm đọc cuốn <i>"Lời Thề Dòng Tên</i>" thi biết rõ lai lịch Dòng này. (<a href="/SACHNGOAI/HoangKhoi">Lật Tẩy Lời Thề Dòng Da-tô</a>)</p>
     <p>Khổ nỗi giáo hội Rô Ma lại rất cần bầy chó cắn không nhả, phục vụ đắc lực hơn cả đòi hỏi, như bầy Dòng Tên. Lũ linh cẩu VN xứng đáng được nhốt trong chiếc chuồng này, vì chúng còn cuồng Chúa hơn cả giáo hoàng, nên nhà Chúa cho thành lập Dòng Chúa Cứu Thế, cùng một bản chất như Dòng Tên, để tránh tai tiếng mà Dòng Tên đã bắt đầu bị tai tiếng vào năm 1732, với khẩu hiệu giả nhân giả nghĩa vì người nghèo. Lũ đạo này luôn nói vì người nghèo, mà ai nghèo theo Chúa còn thê thảm hơn lũ nhà giàu. Đã không có ăn, phải lễ sáng lễ tối, cha cẫu lại luôn bắt nộp mục phí, đến nỗi con chiên từng viết lên FB than vãn mà tôi nghĩ ai cũng từng đọc tôi chả đi vào chi tiết ở đây.</p>
     <p align="center"><img src="https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/TONGIAO/IMG/XINTIEN/Xinle1.JPG" width="96%" alt="https://trungtammucvudcct.com/chuong-trinh-kham-benh-phat-thuoc-va-trao-qua-cho-cac-ong-thuong-phe-binh-viet-nam-cong-hoa-dot-ii/"></p>
     

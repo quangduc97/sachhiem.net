@@ -3,14 +3,14 @@ layout: ../../../layouts/Article.astro
 title: "Lời Giải Cho Sự Chết (Solution to the dead)"
 author: "Huy Thái"
 date: 2017-03-12
-source: "https://sachhiem.net/TONGIAO/tgH/HuyThai.php"
+source: "/TONGIAO/tgH/HuyThai"
 category: "Chính trị"
 lang: vi
 wordCount: 1163
 image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/TONGIAO/IMG/BIBLE/PhucSinh.jpg"
 ---
 
-<p><i>LTS: Hai câu chuyện sau đây do tác giả Huy Thái gửi ra sau một cuộc bàn luận trên diễn đàn về <a href="https://sachhiem.net/index.php?content=showemail&amp;id=2069">đề tài Trao đổi: Sinh tử - Siêu Thoát  (xem link)</a> (SH).</i></p>
+<p><i>LTS: Hai câu chuyện sau đây do tác giả Huy Thái gửi ra sau một cuộc bàn luận trên diễn đàn về <a href="/net/TTL/TTLkh07">đề tài Trao đổi: Sinh tử - Siêu Thoát  (xem link)</a> (SH).</i></p>
   <p>_______________________</p>
   
   <p class="TuaDoLeft">1/. Thiên Chúa giáo: </p>

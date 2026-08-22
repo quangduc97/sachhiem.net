@@ -2,14 +2,14 @@
 layout: ../../../layouts/Article.astro
 title: "Chuyện về một hậu duệ của học giả Nguyễn Văn Vĩnh"
 author: "Nguyễn Thiêm"
-source: "https://sachhiem.net/VANHOC/N/NguyenThiem.php"
+source: "/VANHOC/N/NguyenThiem"
 category: "Văn hóa"
 lang: vi
 wordCount: 2853
-image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nha.jpg"
+image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.devhttps://www.cand.com.vn/Uploaded_CANDONLINE/haidt/8_anh728.jpg"
 ---
 
-<p align="center"><a href="https://www.sachhiem.net/"> <img border="0" src="https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nha.jpg"></a> 4 tháng 2, 2008
+<p align="center"> 4 tháng 2, 2008
 	 </p> <table cellspacing="0" cellpadding="0" align="left" border="0" id="table16">
 <tbody><tr>	<td style="HEIGHT: 1px">
 			<table cellspacing="0" cellpadding="0" border="0" id="table17" width="185">

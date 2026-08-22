@@ -3,7 +3,7 @@ layout: ../../../layouts/Article.astro
 title: "Nhờ Tết Mà Tôi Nhớ Ý Nghĩa Giáng Sinh"
 author: "Kim Megson/ BBC"
 date: 2014-12-23
-source: "https://sachhiem.net/XAHOI/xhB/BBC_Tet-Noel.php"
+source: "/XAHOI/xhB/BBC_Tet-Noel"
 category: "Chính trị"
 lang: vi
 wordCount: 792

@@ -3,7 +3,7 @@ layout: ../../../layouts/Article.astro
 title: "Giúp LS Hùng Khai Sáng Cho Người Cháu"
 author: "FB Thi Nguyên"
 date: 2020-07-01
-source: "https://sachhiem.net/TONGIAO/FB/FBThiNguyen09.php"
+source: "/TONGIAO/FB/FBThiNguyen09"
 category: "Tác giả"
 lang: vi
 wordCount: 2255

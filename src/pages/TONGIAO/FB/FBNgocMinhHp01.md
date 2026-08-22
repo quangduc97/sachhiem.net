@@ -3,7 +3,7 @@ layout: ../../../layouts/Article.astro
 title: "Jesus Mâu Thuẫn Giữa Lời Dạy Và Hành Động"
 author: "Ngọc Minh Hp"
 date: 2022-03-30
-source: "https://sachhiem.net/TONGIAO/FB/FBNgocMinhHp01.php"
+source: "/TONGIAO/FB/FBNgocMinhHp01"
 category: "Tác giả"
 lang: vi
 wordCount: 3212

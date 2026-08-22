@@ -3,7 +3,7 @@ layout: ../../../layouts/Article.astro
 title: "Scandal Năm 2009 Ở Chùa Phật Quang:"
 author: "Tỳ Kheo Thích Bảo Nghiêm"
 date: 2026-01-27
-source: "https://sachhiem.net/TONGIAO/ThichCQ/ThChanQuang03.php"
+source: "/TONGIAO/ThichCQ/ThChanQuang03"
 category: "Tác giả"
 lang: vi
 wordCount: 123
@@ -11,7 +11,7 @@ image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/TONGIAO/IMG/SU/THCHA
 ---
 
 <div class="tomluoc">
-   <p><i> LTS: Tiếp theo tập tài liệu mang tên <a href="http://sachhiem.net/TONGIAO/tgS/SH105.php">Bức Tâm Thư ngày 30 tháng 5, 2025 của nạn nhân</a> trong vụ scandal tại Chùa Phật Quang mà chúng tôi đã đăng tuần trước.  Các nạn nhân gửi tiếp một Bản Tường Trình viết đầu năm 2010 gửi Hội đồng Trị sự Trung Ương và các cấp lãnh đạo của GHPGVN. Mọi người có thể nhân đây tìm hiểu thêm những  chuyện trong góc khuất đã xảy ra trước khi nổ ra vụ lùm xùm năm 2009 của Chùa Phật Quang. </i> (SH)</p>
+   <p><i> LTS: Tiếp theo tập tài liệu mang tên <a href="/TONGIAO/tgS/SH105">Bức Tâm Thư ngày 30 tháng 5, 2025 của nạn nhân</a> trong vụ scandal tại Chùa Phật Quang mà chúng tôi đã đăng tuần trước.  Các nạn nhân gửi tiếp một Bản Tường Trình viết đầu năm 2010 gửi Hội đồng Trị sự Trung Ương và các cấp lãnh đạo của GHPGVN. Mọi người có thể nhân đây tìm hiểu thêm những  chuyện trong góc khuất đã xảy ra trước khi nổ ra vụ lùm xùm năm 2009 của Chùa Phật Quang. </i> (SH)</p>
  </div>
 <p align="center"><img src="https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/TONGIAO/IMG/SU/THCHANQUANG/TuongTrinh_NgoQuangDung0.jpg" width="450" height="253" alt=""></p>
 <p align="center"><img src="https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/TONGIAO/IMG/SU/THCHANQUANG/TuongTrinh_NgoQuangDung.jpg" width="100%" alt=""> <br>

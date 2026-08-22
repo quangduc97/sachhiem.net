@@ -3,7 +3,7 @@ layout: ../../layouts/Article.astro
 title: "Họ chưa hề “theo” Ki-tô giáo -"
 author: "Theo Brainz"
 date: 2015-10-01
-source: "https://sachhiem.net/SACHNGOAI/Wissai.php"
+source: "/SACHNGOAI/Wissai"
 category: "Tác giả"
 lang: vi
 wordCount: 8531
@@ -24,7 +24,7 @@ image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/SACHNGOAI/Hinhanh/AT
 </div>
 <p>&nbsp;_______________________________</p>
 <p>
-  Nhân đọc: <b>Cái list về "những nhân vật đoạt giải Nobel theo tôn giáo gì" chỉ là trò trẻ nít! </b> <a href="https://sachhiem.net/index.php?content=showemail&amp;id=1399">https://sachhiem.net/index.php?content=showemail&amp;id=1399</a></p>
+  Nhân đọc: <b>Cái list về "những nhân vật đoạt giải Nobel theo tôn giáo gì" chỉ là trò trẻ nít! </b> <a href="/hop-thu/1399">https://sachhiem.net/index.php?content=showemail&amp;id=1399</a></p>
 <p>Subject: [DiendanDanToc]  DANH SÁCH 50 NGƯỜI VÔ THẦN<br>
   From: DiendanDanToc@yahoogroups.com<br>
   Date: Sat, 26 Mar 2016 00:04:05 -0700</p>

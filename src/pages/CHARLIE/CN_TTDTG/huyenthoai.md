@@ -3,14 +3,14 @@ layout: ../../../layouts/Article.astro
 title: "Tuyển Tập Độc Thần Giáo"
 author: "Charlie Nguyễn"
 date: 2012-12-24
-source: "https://sachhiem.net/CHARLIE/CN_TTDTG/huyenthoai.php"
+source: "/CHARLIE/CN_TTDTG/huyenthoai"
 lang: vi
 wordCount: 3424
-image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nha.jpg"
+image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/SACHNGOAI/Hinhanh/PEOPLE/sir_John_Betjeman.jpg"
 ---
 
 <table border="0" width="250" align="center">
-  <tbody><tr><td width="100"><a href="https://sachhiem.net/index.php"><img border="0" src="https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nha.jpg"></a>  </td>  <td width="257"></td>
+  <tbody><tr><td width="100">  </td>  <td width="257"></td>
   </tr></tbody></table>
 
 

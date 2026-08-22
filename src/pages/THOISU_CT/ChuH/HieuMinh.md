@@ -3,7 +3,7 @@ layout: ../../../layouts/Article.astro
 title: "Cụ Lý… Tống Ai?"
 author: "Blog Hiệu Minh"
 date: 2012-05-29
-source: "https://sachhiem.net/THOISU_CT/ChuH/HieuMinh.php"
+source: "/THOISU_CT/ChuH/HieuMinh"
 category: "Chính trị"
 lang: vi
 wordCount: 1017

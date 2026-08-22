@@ -2,7 +2,7 @@
 layout: ../../../layouts/Article.astro
 title: "VĂ€I DÆ¯ LUáº¬N QUáº¦N CHĂNG"
 author: "Tráº§n Chung Ngá»c"
-source: "https://sachhiem.net/null"
+source: "/null"
 lang: vi
 wordCount: 1436
 image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/TCN/file:///C:/SACHHIEM/images/mail.gif"

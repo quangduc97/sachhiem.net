@@ -3,7 +3,7 @@ layout: ../../layouts/Article.astro
 title: "Monsanto và Các Sản Phẩm:"
 author: "Phạm uyên Bác sưu tầm"
 date: 2011-11-11
-source: "https://sachhiem.net/Nguồn: https://tuoitre.vn/tin/the-gioi/20170419/monsanto-bi-ket-toi-huy-diet-moi-truong-gay-hai-cho-viet-nam/1300740.html - 19/04/2017 16:05 GMT+7"
+source: "/Nguồn: https://tuoitre.vn/tin/the-gioi/20170419/monsanto-bi-ket-toi-huy-diet-moi-truong-gay-hai-cho-viet-nam/1300740.html - 19/04/2017 16:05 GMT+7"
 category: "Xã hội"
 lang: vi
 wordCount: 8592

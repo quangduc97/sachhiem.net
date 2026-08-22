@@ -2,15 +2,14 @@
 layout: ../../../layouts/Article.astro
 title: "Ôn lại vài nét về Thầy Nhất Hạnh"
 author: "Trần Chung Ngọc"
-source: "https://sachhiem.net/nguồn: https://giaodiemonline.com/noidung_detail.php?newsid=1015"
+source: "/nguồn: https://giaodiemonline.com/noidung_detail.php?newsid=1015"
 category: "Đối thoại"
 lang: vi
 wordCount: 6101
-image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.devhttps://sachhiem.net/images/nha.jpg"
 ---
 
 <table border="0" width="250" align="center">
-    <tbody><tr><td width="100"><a href="https://sachhiem.net/index.php"><img border="0" src="https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.devhttps://sachhiem.net/images/nha.jpg"></a>    </td> <td valign="top" style="text-align:right">	<i>28 tháng 7, 2007 </i> </td></tr></tbody></table>
+    <tbody><tr><td width="100">    </td> <td valign="top" style="text-align:right">	<i>28 tháng 7, 2007 </i> </td></tr></tbody></table>
  <p><b>T</b>ôi không phải là đệ tử của Thiền sư Thích Nhất Hạnh.  Tôi cũng chưa bao giờ trực diện với  Thầy.  Tuy không trực tiếp biết Thầy nhưng tôi cũng biết phần nào những hoạt động cho dân tộc Việt Nam và công cuộc truyền bá Đạo Pháp của Thầy trên thế giới. Lẽ dĩ nhiên, sự hiểu biết của tôi về Thầy Nhất Hạnh còn thiếu sót rất nhiều.  Tôi hi vọng sẽ được những người biết rõ Thầy hơn bổ túc cho những thiếu sót này. Bài viết này nói lên vài nét về những điều tôi biết về Thầy Nhất Hạnh. 
 </p><p>   Đã từ lâu, "người ta", người ta đây gồm cả "bạn" lẫn "thù", đã có những mánh mưu dựng đứng sự kiện, xuyên tạc Thầy đủ mọi thứ nhằm mục đích hạ thấp, bôi nhọ Thầy, với ảo tưởng là có thể làm giảm uy tín của Thầy trong cộng đồng người Việt di cư.  Nhưng nhìn vào thực tế, những toan tính xấu xa của những người này đã như công Dã Tràng, mất tăm nơi biển cả.  Những khóa tu của Thầy Nhất Hạnh trên khắp thế giới bao giờ cũng rất đông người Việt tham dự, khoan nói đến những khóa tu cho những người ngoại quốc.  Thầy đã được mời đến thuyết Pháp tại nhiều quốc gia trên thế giới, trong các nhà thờ Ki Tô Giáo, cho các chính khách và nguyên thủ quốc gia ở San Francisco, ở quốc hội Mỹ  v..v..  Vậy thì những tiếng nói chống phá Thầy, cất lên từ bên trong những hàng rào bên đường, bởi những người chẳng ai biết đến và chẳng có uy tín gì trong cộng đồng người Việt di cư, phỏng có được tác dụng gì.
 </p><p>   Ai là "bạn"?  Điểm qua vài mặt chúng ta thấy có tên "phản đồ" ăn lương của CIA/NED, chuyên nghề dựng đứng sự kiện, tung ra những cái gọi là “phúc trình”, “thông điệp” ma để xuyên tạc, bịa đặt, chống phá chính quyền,  chống đối Giáo Hội Phật Giáo Việt Nam, vô liêm sỉ đến độ xuyên tạc láo lếu dòng tu Tiếp Hiện cũng như chuyến về Việt Nam hoằng Pháp của Thầy Nhất Hạnh năm 2005, và ngồi ở Paris tranh đấu cho "quyền làm người" (sic)  của hơn 80 triệu dân Việt Nam ở trong nước.    Rồi có tờ báo mang tên Chánh Đạo cùng trang nhà mang tên “HoangPhap”, chuyên dùng những lời lẽ vô đạo, hoặc đăng bài của ngoại đạo để xuyên tạc, đánh phá Phật Giáo và chụp mũ bất cứ ai không hùa theo chủ trương, ý kiến thuộc loại dưới đáy giếng của hạng người vô tài vô đức.

@@ -2,11 +2,10 @@
 layout: ../../../layouts/Article.astro
 title: "Từ Lòng Tri Ân Tổ Quốc"
 author: "Sưu tập"
-source: "https://sachhiem.net/null"
+source: "/null"
 category: "Lịch sử"
 lang: vi
 wordCount: 962
-image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nha.jpg"
 ---
 
 <div align="center" style="position: relative; left: 0; top: 0">
@@ -22,8 +21,7 @@ image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nha.jpg"
 <tr> <td width="100%"> 
 <div style="padding-left: 50px; padding-right: 50px">
 <table border="0" cellpadding="10" width="100%" cols="3"><tbody><tr>
-<td width="389"><a href="/index">
-<img border="0" src="https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nha.jpg"></a></td>
+<td width="389"></td>
 <td valign="top">	10 tháng 10, 2010	</td></tr></tbody></table>
 <p><i>LTS: Nhân dịp đại lễ kỷ niệm Ngàn Năm Thăng Long, SH xin được sưu tập một vài trong muôn vàn công trình và nỗ lực cho mùa tri ân Tổ Quốc năm nay. Những lời cảm tưởng trích trong 
 <a href="https://www.vnexpress.net/GL/Xa-hoi/2010/10/3BA216CF/page_2.asp">https://www.vnexpress.net/</a>. Tập này gồm một số links do thân hữu chọn lọc gửi đến. </i></p>

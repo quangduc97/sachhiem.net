@@ -3,7 +3,7 @@ layout: ../../../layouts/Article.astro
 title: "Số Phận Của Chính Quyền Kabul Tính Từng Ngày"
 author: "Đào Văn Bình"
 date: 2021-07-08
-source: "https://sachhiem.net/DAOVB/CT/DaovBinh140.php"
+source: "/DAOVB/CT/DaovBinh140"
 category: "Chính trị"
 lang: vi
 wordCount: 1112

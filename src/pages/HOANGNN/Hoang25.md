@@ -2,15 +2,14 @@
 layout: ../../layouts/Article.astro
 title: "HÀNH TRÌNH 400 NĂM"
 author: "Anthony Darlic"
-source: "https://sachhiem.net/HOANGNN/Hoang25.php"
+source: "/HOANGNN/Hoang25"
 category: "Chính trị"
 lang: vi
 wordCount: 3917
-image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nha.jpg"
+image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/HOANGNN/Hinh/Hoang25.jpg"
 ---
 
-<p align="center"><a href="https://www.sachhiem.net/">
-	<img hspace="20" border="0" src="https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nha.jpg"></a> ngày 27 tháng 1, 2009</p>
+<p align="center"> ngày 27 tháng 1, 2009</p>
 <div class="Gry">
   <p align="center"><i>đăng lại ngày 28 tháng 7, 2016</i></p>
   <p align="center"><i>để tưởng nhớ tác giả vừa giã từ trần gian ngày 24 tháng 7, 2016.</i></p>

@@ -3,7 +3,7 @@ layout: ../../../layouts/Article.astro
 title: "Những Điều Nhớ Lại Từ “Phật Giáo 1963”"
 author: "Mật Nghiêm Đặng Nguyên Phả"
 date: 2013-06-24
-source: "https://sachhiem.net/TONGIAO/tgD/DangNguyenPha.php"
+source: "/TONGIAO/tgD/DangNguyenPha"
 category: "Tác giả"
 lang: vi
 wordCount: 6380
@@ -228,5 +228,5 @@ Sống Đạo nơi đời vui lắm thay!. </i> </p>
 <p class="nguonL">Nguồn <a href="https://hoangnamgiao.blogspot.com/2013/06/nhung-ieu-nho-lai-tu-phatgiao-1963-cua.html" target="_blank">https://hoangnamgiao.blogspot.com/2013/06/nhung-ieu-nho-lai-tu-phatgiao-1963-cua.html</a></p>
 
 <p><b>Bài liên hệ: </b></p>
-<p><a name="n1" href="/TONGIAO/#1">(*)</a>- <a href="https://sachhiem.net/index.php?content=showrecipe&amp;id=5041">Đóng diễn lại phim tư liệu Bồ tát Quảng Đức tự thiêu?</a></p>
+<p><a name="n1" href="/TONGIAO/#1">(*)</a>- <a href="/TONGIAO/tgM/MinhThanh07">Đóng diễn lại phim tư liệu Bồ tát Quảng Đức tự thiêu?</a></p>
 <p>&amp;- Hồi ký của Bác sĩ E. Wulff về Pháp nạn 1963</p>

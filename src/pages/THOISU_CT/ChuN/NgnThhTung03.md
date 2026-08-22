@@ -3,7 +3,7 @@ layout: ../../../layouts/Article.astro
 title: "Tài liệu Mỹ: Báo cáo của người Mỹ bị bắt tại Hoàng Sa"
 author: "Nguyễn Thanh Tùng"
 date: 2014-01-18
-source: "https://sachhiem.net/THOISU_CT/ChuN/NgnThhTung03.php"
+source: "/THOISU_CT/ChuN/NgnThhTung03"
 category: "Lịch sử"
 lang: vi
 wordCount: 7940

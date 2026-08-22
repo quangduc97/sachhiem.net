@@ -3,7 +3,7 @@ layout: ../../../layouts/Article.astro
 title: "Góp Ý Sửa Đổi Hiến Pháp"
 author: "Đặng Văn Việt"
 date: 2013-05-22
-source: "https://sachhiem.net/THOISU_CT/ChuD/DangvViet.php"
+source: "/THOISU_CT/ChuD/DangvViet"
 category: "Chính trị"
 lang: vi
 wordCount: 6547
@@ -165,13 +165,13 @@ Chúng tôi xin trân trọng đăng tải để rộng đường dư luận. (S
  <i>08/5/2013</i></p>
   <p>______________</p>
 <p><b>Bài cùng chủ đề:</b></p>
-<p> <a href="https://sachhiem.net/NMQ/NMQ041.php">- Góp Ý Về Bài Của Ông Đặng Văn Việt Góp Ý Sửa Đổi Hiến Pháp </a> (Nguyễn Mạnh Quang)</p>
-<p><a href="https://sachhiem.net/THOISU_CT/ChuD/DangvViet.php ">- Góp Ý Sửa Đổi Hiến Pháp</a> (Đặng Văn Việt )</p>
-<p><a href="https://sachhiem.net/NMQ/NMQ038.php">- Góp Ý Trong Vấn Đề Sửa Đổi Hiến Pháp</a> (Nguyễn Mạnh Quang)</p>
-<p> <a href="https://sachhiem.net/TCN/TCNts/TCNts066.php">- Tản Mạn Quanh Vài Chuyện Góp Ý Dự Thảo Sửa Đổi Hiến Pháp Năm 1992</a> (Trần Chung Ngọc)</p>
-<p><a href="https://sachhiem.net/DOITHOAI/NgnThhTung0.php">- Cùng Quẫn Lý Lẽ Của Một Con Cừu</a> (Nguyễn Thanh Tùng)</p>
-<p><a href="https://sachhiem.net/THOISU_CT/ChuN/NgTnghia_hp.php">- Góp Ý Của Giáo Dân Về Bản Nhận Định Và Góp Ý Dự Thảo Sửa Đổi Hiến Pháp 1992 Của HĐGMVN,.. </a> (giáo dân Nguyễn Trọng Nghĩa)</p>
-<p>- <a href="https://sachhiem.net/THOISU_CT/ChuH/HoMinhDiep_hp.php">Về Tình Trạng Đồng Hóa Đức Tin Với Chính Trị Của Giáo Hội Công Giáo Tại Việt Nam</a> (Phê-rô Hồ Minh Điệp)</p>
+<p> <a href="/NMQ/NMQ041">- Góp Ý Về Bài Của Ông Đặng Văn Việt Góp Ý Sửa Đổi Hiến Pháp </a> (Nguyễn Mạnh Quang)</p>
+<p><a href="/THOISU_CT/ChuD/DangvViet">- Góp Ý Sửa Đổi Hiến Pháp</a> (Đặng Văn Việt )</p>
+<p><a href="/NMQ/NMQ038">- Góp Ý Trong Vấn Đề Sửa Đổi Hiến Pháp</a> (Nguyễn Mạnh Quang)</p>
+<p> <a href="/TCN/TCNts/TCNts066">- Tản Mạn Quanh Vài Chuyện Góp Ý Dự Thảo Sửa Đổi Hiến Pháp Năm 1992</a> (Trần Chung Ngọc)</p>
+<p><a href="/DOITHOAI/NgnThhTung0">- Cùng Quẫn Lý Lẽ Của Một Con Cừu</a> (Nguyễn Thanh Tùng)</p>
+<p><a href="/THOISU_CT/ChuN/NgTnghia_hp">- Góp Ý Của Giáo Dân Về Bản Nhận Định Và Góp Ý Dự Thảo Sửa Đổi Hiến Pháp 1992 Của HĐGMVN,.. </a> (giáo dân Nguyễn Trọng Nghĩa)</p>
+<p>- <a href="/THOISU_CT/ChuH/HoMinhDiep_hp">Về Tình Trạng Đồng Hóa Đức Tin Với Chính Trị Của Giáo Hội Công Giáo Tại Việt Nam</a> (Phê-rô Hồ Minh Điệp)</p>
 
   <p><img src="https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/DivGold.gif" alt="" width="100%" height="3"></p>
   
@@ -191,7 +191,7 @@ Chúng tôi xin trân trọng đăng tải để rộng đường dư luận. (S
  <p>(https://boxitvn.blogspot.com/2013/05/ban-gop-y-sua-oi-hien-phap-1992-cua-ong.html)</p>
  <p><i>... Xin trân trọng đăng lên để bạn đọc gần xa hiểu thấu tâm sự nung  nấu của một Lão thành Cách mạng, một vị chỉ huy quân đội lừng danh thời kháng  chiến chống Pháp, ngay từ 27 tuổi đã lập những chiến công làm chấn động nước  Pháp, khiến chính các đối thủ người Pháp phải kinh phục phong cho ông là “Con  hùm xám đường số 4” (le Tigre gris de la RC4) và “Tiểu tướng Napoléon” (mon  petit Napoléon).</i></p>
 <p><b>NQL </b>nói thêm:<i> Đăng Văn Việt là người lính can trường và sáng suốt ngay  từ thuở mang gươm đi cứu nước. Ông vốn trung đoàn trưởng đầu tiên của Trung  đoàn 174, trong Chiến dịch </i>Biên giới thu đông 1950<i>, bắt sống cả 2 chỉ  huy binh đoàn Pháp là các Trung tá Marcel Lepage và Pierre Charton.. Nay ông đã  gần trăm tuổi vẫn can trường và sáng suốt như thời con trai trẻ. Phục lắm thay!</i></p>
- <p><span class="green">E.-</span> <b>Nguyễn Mạnh Quang: </b><a href="https://sachhiem.net/NMQ/NMQ041.php"> (xin bấm vào để xem) - Góp Ý Về Bài Của Ông Đặng Văn Việt Góp Ý Sửa Đổi Hiến Pháp </a> </p>
+ <p><span class="green">E.-</span> <b>Nguyễn Mạnh Quang: </b><a href="/NMQ/NMQ041"> (xin bấm vào để xem) - Góp Ý Về Bài Của Ông Đặng Văn Việt Góp Ý Sửa Đổi Hiến Pháp </a> </p>
  
  
 <a href="/indexCT" target="_blank">

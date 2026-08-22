@@ -3,7 +3,7 @@ layout: ../../layouts/Article.astro
 title: "Vòi Rồng Ở Florida"
 author: "Lý Thái"
 date: 2013-12-14
-source: "https://sachhiem.net/LTX/LyThaiKH13.php"
+source: "/LTX/LyThaiKH13"
 category: "Khoa học"
 lang: vi
 wordCount: 214

@@ -6,7 +6,7 @@ source: "https://62.144.115.184/actualiteit/2008/detail_objectID668299_FJaar2008
 category: "Tác giả"
 lang: vi
 wordCount: 905
-image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nha.jpg"
+image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/IMG/QuochoiAnh.jpg"
 ---
 
 <div align="center">
@@ -38,7 +38,7 @@ image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nha.jpg"
 <table border="0" cellpadding="30" cellspacing="0" width="100%" topmargin="10"> 
 	<tbody><tr><td bgcolor="White" align="justify" valign="top">
 		<table border="0" cellpadding="10" width="100%" cols="3"><tbody><tr>
-		<td width="129"><a href="/index"><img border="0" src="https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nha.jpg"></a></td>
+		<td width="129"></td>
 	<td valign="top">	<font color="#606060" size="2">22 tháng 12, 2008	</font>
 	</td></tr></tbody></table>
 	
@@ -138,14 +138,14 @@ image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nha.jpg"
 		for me…But if the time should should ever come… when my office&nbsp; would 
 		require me to either violate my conscience or violate the national 
 		interest then I would resign the office, and I hope any other 
-		conscientious public servant would do likewise….”</i><a title="" href="https://www.sachhiem.net/NMQ/NMQ12.php#_edn22#_edn22">[22]</a>
+		conscientious public servant would do likewise….”</i><a title="" href="/NMQ/NMQ12#_edn22#_edn22">[22]</a>
 		</p>
 		
-		<p><a href="https://www.sachhiem.net/NMQ/NMQ12.php">
+		<p><a href="/NMQ/NMQ12">
 		https://www.sachhiem.net/NMQ/NMQ12.php</a></p>
-		<p><a href="https://www.sachhiem.net/NMQ/HOSOTOIAC/CH63_1a.php">
+		<p><a href="/NMQ/HOSOTOIAC/CH63_1a">
 		https://www.sachhiem.net/NMQ/HOSOTOIAC/CH63_1a.php</a></p>
-		<p><a href="https://www.sachhiem.net/TONGIAO/tgT/TanPhap.php">
+		<p><a href="/TONGIAO/tgT/TanPhap">
 		https://www.sachhiem.net/TONGIAO/tgT/TanPhap.php</a></p>
 		</td>
 					</tr>

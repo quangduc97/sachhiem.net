@@ -2,7 +2,7 @@
 layout: ../../layouts/Article.astro
 title: "GH VATICAN CÓ THANH THIỆN KHÔNG ?"
 author: "Vương Vũ"
-source: "https://sachhiem.net/null"
+source: "/null"
 category: "Đối thoại"
 lang: vi
 wordCount: 4

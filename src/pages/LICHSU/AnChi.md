@@ -3,7 +3,7 @@ layout: ../../layouts/Article.astro
 title: "Trần Trọng Kim và “Việt Nam Sử Lược”"
 author: "An Chi/ Petrotimes"
 date: 2014-06-17
-source: "https://sachhiem.net/LICHSU/AnChi.php"
+source: "/LICHSU/AnChi"
 category: "Tác giả"
 lang: vi
 wordCount: 2440

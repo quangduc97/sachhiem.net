@@ -3,7 +3,7 @@ layout: ../../../layouts/Article.astro
 title: "Quan Hệ Đối Tác Chiến Lược Toàn Diện Của Ngoại Giao Việt Nam Và Các Quốc Gia"
 author: "Nguyễn Tiến Trung"
 date: 2023-09-12
-source: "https://sachhiem.net/THOISU_CT/FB/NguyenTienTrung.php"
+source: "/THOISU_CT/FB/NguyenTienTrung"
 category: "Chính trị"
 lang: vi
 wordCount: 700

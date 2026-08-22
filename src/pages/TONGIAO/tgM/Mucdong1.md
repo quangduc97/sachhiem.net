@@ -2,7 +2,7 @@
 layout: ../../../layouts/Article.astro
 title: "NHỮNG CON ẾCH NGỒI ĐÁY GIẾNG"
 author: "Mục Đồng"
-source: "https://sachhiem.net/null"
+source: "/null"
 category: "Tác giả"
 lang: vi
 wordCount: 7884
@@ -33,7 +33,7 @@ image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nhacu.jpg"
 <blockquote>
 	<table border="0" cellpadding="0" width="80%" cols="2">
 		<tbody><tr>
-			<td><a href="https://sachhiem.net/">
+			<td><a href="/">
 			<img border="0" src="https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nhacu.jpg" width="49" height="20"></a></td>
 			<td valign="top" style="text-align:right">24 tháng 8, 2008
 	</td>

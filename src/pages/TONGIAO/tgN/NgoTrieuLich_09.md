@@ -3,7 +3,7 @@ layout: ../../../layouts/Article.astro
 title: "Có Hay Không “Thiên Chúa Là Đấng Từ Bi”?"
 author: "Ngô Triệu Lịch"
 date: 2019-07-08
-source: "https://sachhiem.net/TONGIAO/tgN/NgoTrieuLich_09.php"
+source: "/TONGIAO/tgN/NgoTrieuLich_09"
 category: "Tác giả"
 lang: vi
 wordCount: 3221

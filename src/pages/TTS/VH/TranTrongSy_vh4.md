@@ -3,7 +3,7 @@ layout: ../../../layouts/Article.astro
 title: "Phật Giáo Với Những Ảo Tưởng Thời Thượng"
 author: "Trần Trọng Sỹ"
 date: 2017-05-24
-source: "https://sachhiem.net/TTS/VH/TranTrongSy_vh4.php"
+source: "/TTS/VH/TranTrongSy_vh4"
 category: "Văn hóa"
 lang: vi
 wordCount: 5346
@@ -64,7 +64,7 @@ image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/KHOAHOC/IMG/INVENTER
 <p><b>Câu chuyện thứ hai mà tôi muốn bàn ở đây là chuyện Phật giáo được bầu làm tôn  giáo tốt nhất thế giới. </b></p>
 <p>Chỉ cần vào google gõ tìm thông tin 'Phật giáo được bầu làm tôn giáo số một thế  giới', thì có hằng chục website việt ngữ mở ra cho ta ngay cái thông tin nóng bỏng,  mà người đạo Phật xem ai cũng nức lòng hãnh diện, còn người đạo khác xem  thì...tức cành hông !</p>
 <p>Trang nhà Tôn Giáo &amp; Dân Tộc có một bài viết tựa đề : ICARUS bầu chọn Phật  giáo là tôn giáo vĩ đại nhất.</p>
-<p>Trang nhà <a href="https://sachhiem.net/">sachhiem.net</a>,  nơi mà tôi thường đọc và cọng tác, cũng có một bài đăng tương tự về đề tài này.</p>
+<p>Trang nhà <a href="/">sachhiem.net</a>,  nơi mà tôi thường đọc và cọng tác, cũng có một bài đăng tương tự về đề tài này.</p>
 <p>Cả hai đều lấy nguồn từ tác giả Linda Moulin, do Thiện Hữu dịch.</p>
 <p><a href="https://www.beliefnet.com/columnists/onecity/2009/07/freedom-from-religion-buddhism-wins-best-religion-in-the-world-award.html">https://www.beliefnet.com/…/freedom-from-religion-buddhism-w…</a> </p>
 <p>Đây là thông tin mà hầu hết các trang mạng có liên quan đến Phật giáo đều đăng  tải, nhất là các cơ quan Phật giáo Việt Nam, như phatgiaovietnam.vn.</p>
@@ -94,4 +94,4 @@ image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/KHOAHOC/IMG/INVENTER
  <p class="TacgiaL">Trần Trọng Sỹ </p>
  <p> Viết  xong tại Paris 24.04.2017</p>
  __________________
-<p>Các bài của Trần Trọng Sỹ: link <a href="https://sachhiem.net/TTS/ListTTS.inc.php" target="_blank">https://sachhiem.net/TTS/ListTTS.inc.php</a></p>
+<p>Các bài của Trần Trọng Sỹ: link <a href="/TTS/ListTTS.inc" target="_blank">https://sachhiem.net/TTS/ListTTS.inc.php</a></p>

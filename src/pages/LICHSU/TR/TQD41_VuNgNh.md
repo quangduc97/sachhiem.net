@@ -3,7 +3,7 @@ layout: ../../../layouts/Article.astro
 title: "Đối Thoại 1: Một Con Chiên Đánh Sập VNCH -"
 author: "Trần Quang Diệu"
 date: 2015-03-02
-source: "https://sachhiem.net/LICHSU/TR/TQD41_VuNgNh.php"
+source: "/LICHSU/TR/TQD41_VuNgNh"
 category: "Đối thoại"
 lang: vi
 wordCount: 2167
@@ -113,7 +113,7 @@ Posted by: Anh Vo &lt;anhvobravo@gmail.com&gt;<br>
   4. Thượng tọa Thích Chơn Định, tự Lệ  Tập (1996-1997)</p>
 <p>
   5. Thượng tọa Thích Chơn Không, tự  Lệ Hoa (2006…) </p>
-   <p>(còn tiếp: <a href="https://sachhiem.net/LICHSU/TR/TQD42.php">Đối Thoại 2: Người Ngoại Quốc Biết Gì?</a>)</p>
+   <p>(còn tiếp: <a href="/LICHSU/TR/TQD42">Đối Thoại 2: Người Ngoại Quốc Biết Gì?</a>)</p>
 <p>_____________________</p>
 <p>Vào 00:11 Ngày 01 tháng 03 năm 2015, Hoang Thuc An <a href="mailto:hoangthucan@gmail.com">hoangthucan@gmail.com</a> [tudo-ngonluan] &lt;<a href="mailto:tudo-ngonluan@yahoogroups.com" target="_blank">tudo-ngonluan@yahoogroups.com</a>&gt; đã  viết:</p>
 <p class="TuaDenLeft"> Thầy 4 Vũ Ngọc Nhạ,<br> 1 trong những Con Chiên đánh sập VNCH </p>

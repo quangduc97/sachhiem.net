@@ -3,7 +3,7 @@ layout: ../../layouts/Article.astro
 title: "Giáo Hội Gia Tô La Mã Có Thực Tâm Mong Muố́n Hoà Bình? -1"
 author: "Thái Tường Minh"
 date: 2024-09-25
-source: "https://sachhiem.net/CHUVTR/TGMZalewski.php"
+source: "/CHUVTR/TGMZalewski"
 category: "Chính trị"
 lang: vi
 wordCount: 8972
@@ -243,7 +243,7 @@ trốn qua Phương Tây và Hoa Kỳ,  nhằm phá nát các quốc gia nầy. 
       <p><a href="/CHUVTR/#_ftnref2" name="_ftn2" title="">16</a> The Scofield Reference Bible,  1917,  sách  của Amos,  trang 940.</p>
      <p><a href="/CHUVTR/#_ftnref3" name="_ftn3" title=""><i>*</i></a>17 The Scofield  Reference Bible,  1917,  trang 803. </p>
 
-<p>(<a href="https://sachhiem.net/CHUVTR/TGMZalewski_1.php">xem tiếp Mục III</a>)</p>
+<p>(<a href="/CHUVTR/TGMZalewski_1">xem tiếp Mục III</a>)</p>
  
 <p class="TacgiaL">Thái Tường Minh</p>
  <p class="nguonL">Nguồn tác giả gửi bản Ms Word</p>

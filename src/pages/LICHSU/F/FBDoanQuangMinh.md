@@ -3,7 +3,7 @@ layout: ../../../layouts/Article.astro
 title: "Đau Đớn Lắm - Nền Văn Minh Của Chúng!"
 author: "FB Doan Quang Minh"
 date: 2018-07-11
-source: "https://sachhiem.net/LICHSU/F/FBDoanQuangMinh.php"
+source: "/LICHSU/F/FBDoanQuangMinh"
 category: "Chính trị"
 lang: vi
 wordCount: 1349

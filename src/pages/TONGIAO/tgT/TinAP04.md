@@ -2,11 +2,11 @@
 layout: ../../../layouts/Article.astro
 title: "Ngân hàng Vatican sa lầy trong vụ bê bối rửa tiền"
 author: "Victor L. Simpson & Nicole Winfield/ Associated Press"
-source: "https://sachhiem.net/null"
+source: "/null"
 category: "Tác giả"
 lang: vi
 wordCount: 2049
-image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nha.jpg"
+image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/SACHNGOAI/Hinhanh/PEOPLE/RobertoCalvi_ItalianFinancier.jpg"
 ---
 
 <div align="center" style="position: relative; left: 0; top: 0">
@@ -25,8 +25,7 @@ image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nha.jpg"
 <tr> <td width="100%"> 
 	<div style="padding-left: 50px; padding-right: 50px">
 <table border="0" cellpadding="10" cols="2" width="600"><tbody><tr>
-<td><a href="/index">
-<img border="0" src="https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nha.jpg"></a></td>
+<td></td>
 	<td valign="top" style="text-align:right">	<i>12 tháng 12, 2010	</i>
 	</td></tr></tbody></table>
 	

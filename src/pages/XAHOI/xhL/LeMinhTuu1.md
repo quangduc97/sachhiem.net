@@ -2,7 +2,7 @@
 layout: ../../../layouts/Article.astro
 title: "Thư Gởi Con Chiên Làng An Bằng"
 author: "Lê Minh Tựu"
-source: "https://sachhiem.net/XAHOI/xhL/LeMinhTuu1.php"
+source: "/XAHOI/xhL/LeMinhTuu1"
 category: "Xã hội"
 lang: vi
 wordCount: 2637
@@ -143,7 +143,7 @@ là Thánh</b>. </p>
   đời tuổi xuân xanh của bà. Thế rồi bà bị mang bầu, sinh được đứa con gái  hiện giờ ở tại Nha Trang.</p>
 <p> Quí vị có biết ở Mỹ hiện tại trên năm ngàn
   ông Linh mục phạm về tội cưỡng bách tình dục bị toà án gọi không?? Quí vị có
-  biết thời trung cổ biết bao nhiêu Giáo Hoàng dâm loạn không?? (xin đọc "Trộm $400 ngàn, Bỏ Nghề Linh Mục Cưới Vợ, Bị Tù - Danh Sách Tội Phạm Lê Thê," tác giả Hoa Long Vu, <a href="https://sachhiem.net/TONGIAO/tgS/SH26_1.php">https://sachhiem.net/TONGIAO/tgS/SH26_1.php</a>) Có biết đạo Ca-tô lập ra tòa án dị giáo để thiêu sống, mổ bụng , bao nhiêu triệu người
+  biết thời trung cổ biết bao nhiêu Giáo Hoàng dâm loạn không?? (xin đọc "Trộm $400 ngàn, Bỏ Nghề Linh Mục Cưới Vợ, Bị Tù - Danh Sách Tội Phạm Lê Thê," tác giả Hoa Long Vu, <a href="/TONGIAO/tgS/SH26_1">https://sachhiem.net/TONGIAO/tgS/SH26_1.php</a>) Có biết đạo Ca-tô lập ra tòa án dị giáo để thiêu sống, mổ bụng , bao nhiêu triệu người
   không chịu theo đạo Ca-tô ở tại Âu Châu không? Có biết tháng 3 năm 2000, Giáo
   hoàng John Paul II tổ chức buổi lễ xin chúa tha bảy núi tội lỗi của Giáo hội
   gây ra trên trái đất này không??</p>

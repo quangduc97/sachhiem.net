@@ -3,7 +3,7 @@ layout: ../../layouts/Article.astro
 title: "Trung Quốc Muốn Gì ?"
 author: "Cao Huy Thuần"
 date: 2014-07-30
-source: "https://sachhiem.net/CAOHT/CHT7.php"
+source: "/CAOHT/CHT7"
 category: "Tác giả"
 lang: vi
 wordCount: 11840

@@ -3,7 +3,7 @@ layout: ../../layouts/Article.astro
 title: "Thiền và Canh Tân Đất Nước"
 author: "Hồng Quang"
 date: 2013-11-24
-source: "https://sachhiem.net/BUIKHA/HongQuang04.php"
+source: "/BUIKHA/HongQuang04"
 lang: vi
 wordCount: 5055
 image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/BUIKHA/img/HQ04_01.jpg"

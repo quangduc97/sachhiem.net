@@ -3,7 +3,7 @@ layout: ../../../layouts/Article.astro
 title: "Ngày Lễ Noel và Những \"Bộ Não\" Không Biết Tư Duy"
 author: "Nguyễn Thư"
 date: 2022-12-17
-source: "https://sachhiem.net/TONGIAO/FB/FBCuongHoang.php"
+source: "/TONGIAO/FB/FBCuongHoang"
 category: "Chính trị"
 lang: vi
 wordCount: 1587

@@ -3,7 +3,7 @@ layout: ../../../layouts/Article.astro
 title: "Ông Diệm Có Kỳ Thị Tôn Giáo Không?"
 author: "Cao Hữu Tâm"
 date: 2015-06-19
-source: "https://sachhiem.net/TONGIAO/tgC/Caohtam31.php"
+source: "/TONGIAO/tgC/Caohtam31"
 category: "Tác giả"
 lang: vi
 wordCount: 1547

@@ -3,7 +3,7 @@ layout: ../../../layouts/Article.astro
 title: "Tuyển Tập Chế Độ Ngô Đình Diệm"
 author: "106 bài viết - 99 tác giả"
 date: 2013-10-30
-source: "https://sachhiem.net/LICHSU/S/SH_NDD50nam.php"
+source: "/LICHSU/S/SH_NDD50nam"
 category: "Lịch sử"
 lang: vi
 wordCount: 3122
@@ -112,11 +112,11 @@ image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/LICHSU/IMG/SACH/50na
   <p align="center"><img src="https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/LICHSU/IMG/SACH/50namnhinlai_123.jpg" width="333" height="376"></p>
  
  <p><b>Download phiên bản PDF:&nbsp;</b></p>
- <p><a href="https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.devhttps://sachhiem.net/LICHSU/IMG/SACH/1963-2013_Tap_I.pdf"><img src="https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/PDF.JPG" width="32" height="31" class="PicLeft"> </a></p>
+ <p><a href="https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/LICHSU/IMG/SACH/1963-2013_Tap_I.pdf"><img src="https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/PDF.JPG" width="32" height="31" class="PicLeft"> </a></p>
 <p><a href="https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.devhttps://thuvienhoasen.org/images/upload/PDF_Books/1963-2013_Text_-_Tap_I__nhieu_tac_gia__FINAL__May_4_.pdf">1963-2013 Năm Mươi Năm Nhìn Lại <br> Tập 1 </a></p>
-<p><a href="https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.devhttps://sachhiem.net/LICHSU/IMG/SACH/1963-2013_Tap_II.pdf"><img src="https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/PDF.JPG" width="32" height="31" class="PicLeft"> </a></p>
+<p><a href="https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/LICHSU/IMG/SACH/1963-2013_Tap_II.pdf"><img src="https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/PDF.JPG" width="32" height="31" class="PicLeft"> </a></p>
 <p><a href="https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.devhttps://thuvienhoasen.org/images/upload/PDF_Books/1963-2013_Text_-_Tap_II__nhieu_tac_gia__FINAL.pdf">1963-2013 Năm Mươi Năm Nhìn Lại <br>Tập 2 </a></p>
-<p><a href="https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.devhttps://sachhiem.net/LICHSU/IMG/SACH/1963-2013_Tap_III.pdf"> <img src="https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/PDF.JPG" width="32" height="31" class="PicLeft"> </a></p>
+<p><a href="https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/LICHSU/IMG/SACH/1963-2013_Tap_III.pdf"> <img src="https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/PDF.JPG" width="32" height="31" class="PicLeft"> </a></p>
 <p><a href="https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.devhttps://thuvienhoasen.org/images/upload/PDF_Books/1963-2013_Text_-_Tap_III__nhieu_tac_gia__FINAL.pdf">1963-2013 Năm Mươi Năm Nhìn Lại <br>Tập 3 </a></p>
  
  <p> <img src="https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/Bookmark_thin.gif" width="100%" heigth="5%"> </p>
@@ -137,22 +137,22 @@ image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/LICHSU/IMG/SACH/50na
      <td width="157">&nbsp;Nguyễn Mạnh Quang&nbsp;</td>
    </tr>
    <tr>
-     <td>2. <a href="https://sachhiem.net/LICHSU/TR/TranTVinhTuong.php">Hồng y
+     <td>2. <a href="/LICHSU/TR/TranTVinhTuong">Hồng y
          Francis Spellman và Chiến tranh Việt Nam</a>&nbsp;</td>
      <td>&nbsp;Trần Thị Vĩnh Tường</td>
    </tr>
    <tr>
-     <td>3. <a href="https://sachhiem.net/LICHSU/L/LyNguyenDieu.php">Khi nước
+     <td>3. <a href="/LICHSU/L/LyNguyenDieu">Khi nước
          Mỹ chọn Đồng minh</a>&nbsp;</td>
      <td>&nbsp;Lý Nguyên Diệu</td>
    </tr>
    <tr>
-     <td>4. <a href="https://sachhiem.net/TONGIAO/TTTINH/TTT_30.php">Giáo hội
+     <td>4. <a href="/TONGIAO/TTTINH/TTT_30">Giáo hội
          trong cơn bảo bùng (Chương 3 - Thập giá và Lưỡi gươm)</a>&nbsp;</td>
      <td>Trần Tam Tỉnh</td>
    </tr>
    <tr>
-     <td>5. <a href="https://sachhiem.net/HOANGNN/Hoang18.php#III">Nghĩ về hai
+     <td>5. <a href="/HOANGNN/Hoang18#III">Nghĩ về hai
          Dòng họ thông gia Huế </a></td>
      <td>&nbsp;Nguyễn Hạnh Hoài Vy</td>
    </tr>
@@ -162,7 +162,7 @@ image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/LICHSU/IMG/SACH/50na
      <td>&nbsp;Vũ Ngự Chiêu sưu tầm</td>
    </tr>
    <tr>
-     <td>7. <a href="https://sachhiem.net/BUIKHA/BuiKha.php">Thư Ngô Đình Thục
+     <td>7. <a href="/BUIKHA/BuiKha">Thư Ngô Đình Thục
          gửi Đô đốc Jean Decoux, Toàn quyền Đông Dương</a></td>
      <td>&nbsp;Ngô Đình Thục</td>
    </tr>
@@ -182,7 +182,7 @@ image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/LICHSU/IMG/SACH/50na
     <colgroup><col width="508">
    <col width="64">
    </colgroup><tbody><tr>
-     <td width="400">9.&nbsp; <a href="https://sachhiem.net/LICHSU/AVRO/YdidwegoV_014.php">Đàn
+     <td width="400">9.&nbsp; <a href="/LICHSU/AVRO/YdidwegoV_014">Đàn
          áp Tôn giáo và các cuộc Tự Thiêu (Vietnam - Why Did We Go?, Chương 14)&nbsp;</a></td>
      <td width="153">Avro Manhattan</td>
    </tr>
@@ -202,7 +202,7 @@ image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/LICHSU/IMG/SACH/50na
      <td>&nbsp;Nguyễn Lang</td>
    </tr>
    <tr>
-     <td>13.&nbsp;<a href="https://sachhiem.net/TONGIAO/ErichWulff.php"> Lễ Phật Đản
+     <td>13.&nbsp;<a href="/TONGIAO/ErichWulff"> Lễ Phật Đản
          8/5/1963 tại Huế&nbsp;</a></td>
      <td>Erich Wulff</td>
    </tr>
@@ -345,7 +345,7 @@ image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/LICHSU/IMG/SACH/50na
      <td width="152">&nbsp;Trần Lâm</td>
    </tr>
    <tr>
-     <td>37.&nbsp; <a href="https://sachhiem.net/TONGIAO/tgN/NguyenHyThan.php">Danh
+     <td>37.&nbsp; <a href="/TONGIAO/tgN/NguyenHyThan">Danh
          từ Công giáo: Chữ và Nghĩa&nbsp;</a></td>
      <td>&nbsp;Nguyễn Hy Thần</td>
    </tr>
@@ -361,12 +361,12 @@ image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/LICHSU/IMG/SACH/50na
      <td>&nbsp;Cao Thế Dung</td>
    </tr>
    <tr>
-     <td>40.&nbsp; <a href="https://sachhiem.net/HOANHLINH/VNMLphlucD.php">Tuyên
+     <td>40.&nbsp; <a href="/HOANHLINH/VNMLphlucD">Tuyên
          ngôn của 18 nhân vật thuộc nhóm “Tự do Tiến bộ” gửi Tổng thống Diệm</a>&nbsp;</td>
      <td>&nbsp;“Nhóm Caravelle”</td>
    </tr>
    <tr>
-     <td>41.&nbsp; <a href="https://sachhiem.net/LICHSU/LEXNHUAN/LeXNhuan04.php">Đảng
+     <td>41.&nbsp; <a href="/LICHSU/LEXNHUAN/LeXNhuan04">Đảng
          Cần Lao</a>&nbsp;</td>
      <td>&nbsp;Lê Xuân Nhuận</td>
    </tr>
@@ -386,7 +386,7 @@ image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/LICHSU/IMG/SACH/50na
      <td>&nbsp;O.V.V.</td>
    </tr>
    <tr>
-     <td>45.&nbsp; <a href="https://sachhiem.net/LICHSU/N/NgoDiep.php">Chín
+     <td>45.&nbsp; <a href="/LICHSU/N/NgoDiep">Chín
          Hầm, địa ngục trần gian thời Ngô Đình Diệm&nbsp;</a></td>
      <td>&nbsp;Ngô Diệp</td>
    </tr>
@@ -406,22 +406,22 @@ image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/LICHSU/IMG/SACH/50na
      <td>&nbsp;Trần Ngọc Nhuận</td>
    </tr>
    <tr>
-     <td>49.&nbsp; <a href="https://sachhiem.net/LICHSU/G/GopGio.php">Một điển hình
+     <td>49.&nbsp; <a href="/LICHSU/G/GopGio">Một điển hình
          tàn ác của nhà Ngô&nbsp;</a></td>
      <td>&nbsp;Võ Văn Sáu</td>
    </tr>
    <tr>
-     <td>50.&nbsp; <a href="https://sachhiem.net/LICHSU/N/NgHienLe.php">Dạy sử dưới
+     <td>50.&nbsp; <a href="/LICHSU/N/NgHienLe">Dạy sử dưới
          thời Diệm&nbsp;</a></td>
      <td>Nguyễn Hiến Lê</td>
    </tr>
    <tr>
-     <td>51.&nbsp; <a href="https://sachhiem.net/LICHSU/H/HuyenVu.php">Chuyện Thể thao
+     <td>51.&nbsp; <a href="/LICHSU/H/HuyenVu">Chuyện Thể thao
          thời Ngô Đình Diệm</a>&nbsp;</td>
      <td>&nbsp;Huyền Vũ</td>
    </tr>
    <tr>
-     <td>52.&nbsp; <a href="https://sachhiem.net/THOISU_CT/ChuV/VuBang.php">Báo chí
+     <td>52.&nbsp; <a href="/THOISU_CT/ChuV/VuBang">Báo chí
          thời Ngô Đình Diệm</a>&nbsp;</td>
      <td>Vũ Bằng</td>
    </tr>
@@ -431,7 +431,7 @@ image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/LICHSU/IMG/SACH/50na
      <td>&nbsp;Phan Quang Đán</td>
    </tr>
    <tr>
-     <td>54.&nbsp; <a href="https://sachhiem.net/LICHSU/V/Vtruong.php#giaitoa">Giải
+     <td>54.&nbsp; <a href="/LICHSU/V/Vtruong#giaitoa">Giải
          tỏa Bí mật về Cái chết của Tướng Trịnh Minh Thế&nbsp;</a></td>
      <td>&nbsp;Tạp chí Góp Gió số 112, 7-2-2003</td>
    </tr>
@@ -628,7 +628,7 @@ image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/LICHSU/IMG/SACH/50na
      <td width="163">Phan Ký</td>
    </tr>
    <tr>
-     <td>82.&nbsp;&nbsp; <a href="https://sachhiem.net/LICHSU/V/Vtruong.php">Trả lại sự
+     <td>82.&nbsp;&nbsp; <a href="/LICHSU/V/Vtruong">Trả lại sự
          thật cho lịch sử</a>&nbsp;&nbsp;</td>
      <td>Vtruong2602</td>
    </tr>

@@ -2,15 +2,15 @@
 layout: ../../../layouts/Article.astro
 title: "PHẬT GIÁO - KI TÔ GIÁO ĐỐI CHIẾU"
 author: "Trần Chung Ngọc"
-source: "https://sachhiem.net/TCN/TCNtg/TCN56.php"
+source: "/TCN/TCNtg/TCN56"
 category: "Tác giả"
 lang: vi
 wordCount: 2726
-image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nha.jpg"
+image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/TONGIAO/IMG/bible.jpg"
 ---
 
 <table border="0" align="center" width="250">
-<tbody><tr><td width="100"><a href="https://sachhiem.net/index.php"><img border="0" src="https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nha.jpg"></a></td>
+<tbody><tr><td width="100"></td>
 <td> ngày 25 tháng 10, 2008 </td></tr></tbody></table>
 <p>&nbsp;<b>0</b> <a href="/TCN/TCN56a">&nbsp;1</a>
 	<a href="/TCN/TCN56b">&nbsp;2</a></p>
@@ -61,7 +61,7 @@ image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nha.jpg"
 	<p>Trong cuốn <i>“Đức Tin Công Giáo: Một Khảo Luận Trong Ánh Sáng Của Khoa 
 	Học Và Lý Trí”</i>,tôi đã sưu tầm và đưa ra những nhận định của 75 danh 
 	nhân, trí thức Âu Mỹ về God của Ki Tô Giáo và Ki Tô Giáo[Xin đọc:
-	<a style="color: blue; text-decoration: underline; text-underline: single" href="https://sachhiem.net/TCN/TCNtg/TCN22.php">
+	<a style="color: blue; text-decoration: underline; text-underline: single" href="/TCN/TCNtg/TCN22">
 	https://sachhiem.net/TCN/TCNtg/TCN22.php</a>]. Có độc giả đặt vấn đề với tôi:
 	<i>“Thế thì các danh nhân trí thức Âu Mỹ nghĩ gì về Đức Phật và Phật Giáo?”</i> 
 	Tôi nghĩ đây là một câu hỏi hay, cần thiết nghiên cứu để đối chiếu với những 

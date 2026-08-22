@@ -3,7 +3,7 @@ layout: ../../../layouts/Article.astro
 title: "Post Scriptum (Đoạn Tái Bút) Của Một Bài Viết"
 author: "Nguyễn Kha"
 date: 2014-09-03
-source: "https://sachhiem.net/LICHSU/N/NguyenKha_02.php"
+source: "/LICHSU/N/NguyenKha_02"
 category: "Lịch sử"
 lang: vi
 wordCount: 3041
@@ -62,11 +62,11 @@ image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/SACHNGOAI/Hinhanh/BI
           
           <p>____________</p>
   <p><b>Bài liên quan:</b></p>
-                   <p>- <a href="https://sachhiem.net/index.php?content=showemail&amp;id=660">Ai đã "nghe" Đức Dalai Lama 14 của Tây Tạng "tri ân" ông Diệm ra sao?</a> (Trần Quang Diệu) </p>
-          <p><a href="https://sachhiem.net/LICHSU/N/NguyenKha_01.php">- Đức Dalai Lama, Ông Ngô Đình Diệm Và Mặc Cảm Tội Lỗi Của Nhóm “Hoài Ngô”</a> (Nguyễn Kha) </p>
+                   <p>- <a href="/net/LICHSU/LEXNHUAN/LeXNhuan08">Ai đã "nghe" Đức Dalai Lama 14 của Tây Tạng "tri ân" ông Diệm ra sao?</a> (Trần Quang Diệu) </p>
+          <p><a href="/LICHSU/N/NguyenKha_01">- Đức Dalai Lama, Ông Ngô Đình Diệm Và Mặc Cảm Tội Lỗi Của Nhóm “Hoài Ngô”</a> (Nguyễn Kha) </p>
            <p>- <a href="https://changevietnam.wordpress.com/2014/08/28/tt-ngo-dinh-diem-da-tung-giup-gao-cho-dan-tay-tang-ty-nan-tai-an-do/">“<i>TT Ngô Đình Diệm đã từng giúp gạo cho dân Tây Tạng tỵ nạn tại Ấn Độ?</i></a>” (Trần Trung Đạo) trên Blog Chuyển Hóa Việt Nam: </p>
-          <p>- <a href="https://sachhiem.net/index.php?content=showrecipe&amp;id=6116">Post Scriptum (Đoạn Tái Bút) Của Một Bài Viết</a> (Nguyễn Kha) </p> 
-          <p>- <a href="https://sachhiem.net/index.php?content=showrecipe&amp;id=6118">Thư Gởi Ông Trần Trung Đạo: Về Việc Tổng Thống Ngô Đình Diệm Tặng Gạo Cho Nhân Dân Tậy Tạng</a> (Hoàng Văn Chưng Sơn) </p>        <hr>
+          <p>- <a href="/LICHSU/N/NguyenKha_02">Post Scriptum (Đoạn Tái Bút) Của Một Bài Viết</a> (Nguyễn Kha) </p> 
+          <p>- <a href="/DOITHOAI/Hoangvchson">Thư Gởi Ông Trần Trung Đạo: Về Việc Tổng Thống Ngô Đình Diệm Tặng Gạo Cho Nhân Dân Tậy Tạng</a> (Hoàng Văn Chưng Sơn) </p>        <hr>
           <p align="center"><b>Phụ trang: </b>(Cước Chú số 4) </p>
            <p align="center"><img src="https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/LICHSU/IMG/SACH/DoanThem 001.jpg" width="100%"></p>
    <p align="center">  <img src="https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/LICHSU/IMG/SACH/DoanThem 011.jpg" width="100%"> </p>  

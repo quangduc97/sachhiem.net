@@ -3,7 +3,7 @@ layout: ../../layouts/Article.astro
 title: "Hạt Mẩy Mùa Vàng"
 author: "Bút ký - NGUYỄN HOÀN"
 date: 2022-11-18
-source: "https://sachhiem.net/NGHOAN/NgHoan15.php"
+source: "/NGHOAN/NgHoan15"
 category: "Chính trị"
 lang: vi
 wordCount: 9398

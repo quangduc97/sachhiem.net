@@ -3,7 +3,7 @@ layout: ../../../layouts/Article.astro
 title: "William J. Duiker: Hồ Chí Minh, Một Nhà Cách Mạng Ái Quốc Gần Với Thomas Jefferson Hơn Là Với V. I. Lenin"
 author: "Trần Chung Ngọc"
 date: 2020-05-18
-source: "https://sachhiem.net/TCN/TCNls/TCNls04_CS.php"
+source: "/TCN/TCNls/TCNls04_CS"
 lang: vi
 wordCount: 4395
 image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/TCN/Pict/TCN_dht.jpg"
@@ -67,7 +67,7 @@ image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/TCN/Pict/TCN_dht.jpg
           </div>
           <p> Đọc về ông Hồ chúng ta thấy rõ Mỹ và Pháp, vì những nhận định chính  trị sai lầm, đã càng ngày càng đẩy ông ta về phía Cộng Sản, và ông ta  không có con đường nào khác, <b>vì để thực hiện mục đích không hề thay đổi  của ông là thực hiện nền độc lập và thống nhất của Việt Nam,</b> nên ông ta  cần đến các đồng minh. [Hãy nghĩ đến chuyện ông viết 8 bức thư cho Tổng  Thống Truman, đến chuyện Mỹ giúp 80% quân phí cho Pháp trở lại tái lập  nền đô hộ ở Đông Dương, và rồi dựng lên chế độ Ngô Đình Diệm, vi phạm  hiệp định Genève, ngăn chận cuộc bầu cử vào năm 1956 để thống nhất đất  nước.]</p>
   <p align="center"><img src="https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/LICHSU/IMG/FLAG/Codosaovang350.jpg" width="350" height="237" alt=""></p>
-   <p> Cuối cùng, vị thế của ông Hồ Chí Minh đối với dân tộc Việt Nam ra sao?  Chúng ta đã biết, Wilfred Burchett đã nhận định ở trên <a href="https://sachhiem.net/TCN/TCNls/TCNls04_Burchett.php">(đọc)</a>:</p>
+   <p> Cuối cùng, vị thế của ông Hồ Chí Minh đối với dân tộc Việt Nam ra sao?  Chúng ta đã biết, Wilfred Burchett đã nhận định ở trên <a href="/TCN/TCNls/TCNls04_Burchett">(đọc)</a>:</p>
           <p class="indent50"><b><i>Hồ Chí Minh là của  toàn thể quốc gia Việt Nam</i></b> (that Ho Chi Minh belongs to the whole Vietnamese nation.) <i>Không có  một lằn danh giới nào ở vĩ tuyến 17 có thể làm cho người dân miền Nam xa  lìa Hồ Chí Minh dù rằng thủ đô được đặt ở miền Bắc. Hồ Chí Minh đã được  chấp nhận là lãnh tụ và là nguồn cảm hứng cho mọi người Việt Nam – <b> trừ số người đã lần lượt phục vụ những quan thầy Nhật, Pháp, rồi Mỹ.</b> </i></p>
 <p>  Tác giả Duiker cũng viết, trang 566: <i>“Mỗi tuần có hơn 15000 người đến  viếng thăm Lăng ông Hồ”</i> (More than 15000 visit the mausoleum each  week) </p>
           <p> Tại sao ngày nay người dân Việt Nam vẫn còn kính ngưỡng ông Hồ Chí Minh,  tuy rằng trên diễn đàn truyền thông hải ngoại có cả một chiến dịch để  xóa bỏ “thần tượng Hồ Chí Minh”? <b>Lý do rất dễ hiểu là phần lớn những  điều viết về ông Hồ của giới chống Cộng là sai lầm</b>, là vô căn cứ, bắt  nguồn từ lòng thù hận một chiều của những người gọi là Quốc Gia, chứ  không đặt trên những sự thật và sự kiện lịch sử. Thật vậy, những người  chống Cộng cực đoan như Minh Võ chỉ nhìn thấy những điều lặt vặt như  chúng ta thấy trong bài ông ta phê bình cuốn <i>“Ho Chi Minh, A Life”</i> của William J. Duiker. Để có thể thêm vài chi tiết về ông Hồ Chí Minh,  có lẽ tôi cũng nên điểm qua bài phê bình Duiker của Minh Võ.</p>

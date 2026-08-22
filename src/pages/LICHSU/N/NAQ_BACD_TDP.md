@@ -3,18 +3,17 @@ layout: ../../../layouts/Article.astro
 title: "Bản án chế độ thực dân Pháp"
 author: "Nguyễn Ái Quốc / Imprékor"
 date: 2018-07-16
-source: "https://sachhiem.net/16-Jul-2018"
+source: "/16-Jul-2018"
 category: "Lịch sử"
 lang: vi
 wordCount: 189
-image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nha.jpg"
+image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/LICHSU/IMG/SACH/BANAN_CHEDO_TD_PHAP.jpg"
 ---
 
 <div align="center" style="position: relative; left: 0; top: 0">
 <table id="0" border="1" bgcolor="#F5F5F5" cellpadding="0" cellspacing="0" width="100%" height="2000" bordercolor="#FF9966" bordercolorlight="#FFFFCC" bordercolordark="#606060"> 
 <tbody><tr> <td width="30%" valign="top"> 
-    <p align="center"> 
-	<a href="/index"><img src="https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nha.jpg" border="0"></a></p>
+    
     
 
 	

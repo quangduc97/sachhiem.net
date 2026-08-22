@@ -3,7 +3,7 @@ layout: ../../../layouts/Article.astro
 title: "Góp Ý Với “Đoan Hùng Tùy Bút” về Chữ Viết La Tinh."
 author: "FB Anh-Tuấn Lê"
 date: 2019-12-03
-source: "https://sachhiem.net/TONGIAO/FB/FBAnhTuanLe04.php"
+source: "/TONGIAO/FB/FBAnhTuanLe04"
 category: "Tác giả"
 lang: vi
 wordCount: 5889

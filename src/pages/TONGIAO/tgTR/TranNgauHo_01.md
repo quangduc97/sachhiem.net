@@ -3,7 +3,7 @@ layout: ../../../layouts/Article.astro
 title: "Phật Giáo Chưa Bao Giờ Có Ảo Tưởng, Ảo Giác, Nói Chi Tới Thời Thượng -"
 author: "Trần Ngẫu Hồ"
 date: 2017-01-18
-source: "https://sachhiem.net/TONGIAO/tgTR/TranNgauHo_01.php"
+source: "/TONGIAO/tgTR/TranNgauHo_01"
 category: "Chính trị"
 lang: vi
 wordCount: 9217
@@ -19,7 +19,7 @@ image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/CANHDEP/HoaSe
   </div>
    <p align="center"><img src="https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/CANHDEP/HoaSen1.jpg" width="400" height="300" alt=""></p>
    <p><span class="First">C</span>uối tháng 5 vừa rồi, xuất hiện hai bài viết liên can tới  Phật Giáo, một của nhà văn Đông La (ĐL), bài: <b>“<a href="https://vntb.org/dao-phat-bi-lon-nguoc-theo-con-mat-cua-tran-manh-hao.html">Đạo Phật Bị Lộn  Ngược Theo Con Mắt Thịt Của Trần Mạnh Hảo</a>” </b>mà ông ĐL đã viết để chỉnh sửa ông  nhà văn Trần Mạnh Hảo (TMH) về những nhận xét sai lạc của ông ta về Phật Giáo  (PG), và khi đọc kỹ thì tôi lại thấy ông ĐL đã giơ cao mà đánh khẽ, tôi thấy ông  ĐL vẫn còn giữ lòng nhân, chưa nêu hết cái thiếu tri thức về Phật giáo của ông  nhà văn đã &nbsp;vô tình hay cố ý làm giảm giá  trị của PG này. Tôi sẽ phân tách những sự không hiểu biết về Phật giáo của ông  nhà văn này qua những dòng dưới đây.</p>
-  <p>Còn bài kia là bài: <a href="https://sachhiem.net/TTS/VH/TranTrongSy_vh4.php"> “Phật  Giáo Với Những Ảo Tưởng Thời Thượng” </a> của tác giả Trần Trọng Sỹ. Vừa đọc tựa  đề của bài này, tôi cảm thấy hơi có gì quá đáng trong đó, nhưng khi đọc kỹ nội  dung của toàn bài, thì thấy ông này không có ý dè bỉu, chê bai gì Phật Giáo cả,  mà ngược lại tác giả còn bầy tỏ sự trân trọng với Phật Giáo nữa là khác. Nôi  dung của bài viết cho thấy ý của tác giả muốn kêu gọi những trích dẫn nhận xét  của những nhà khoa học lớn trên thế giới về những giá trị của Phật Giáo cần phải  thận trọng và cần có dẫn chứng nguồn đường hoàng, chứ không nên nhắm mắt dẫn chứng  đại, khi chính mình chưa đưa ra được nguồn một cách rõ ràng.&nbsp; </p>
+  <p>Còn bài kia là bài: <a href="/TTS/VH/TranTrongSy_vh4"> “Phật  Giáo Với Những Ảo Tưởng Thời Thượng” </a> của tác giả Trần Trọng Sỹ. Vừa đọc tựa  đề của bài này, tôi cảm thấy hơi có gì quá đáng trong đó, nhưng khi đọc kỹ nội  dung của toàn bài, thì thấy ông này không có ý dè bỉu, chê bai gì Phật Giáo cả,  mà ngược lại tác giả còn bầy tỏ sự trân trọng với Phật Giáo nữa là khác. Nôi  dung của bài viết cho thấy ý của tác giả muốn kêu gọi những trích dẫn nhận xét  của những nhà khoa học lớn trên thế giới về những giá trị của Phật Giáo cần phải  thận trọng và cần có dẫn chứng nguồn đường hoàng, chứ không nên nhắm mắt dẫn chứng  đại, khi chính mình chưa đưa ra được nguồn một cách rõ ràng.&nbsp; </p>
   <p>Nếu tôi hiểu đúng ý tác giả là như vậy, thì tựa đề là:  <i>“Phật Giáo Với Những Ảo Tưởng Thời Thượng”</i> lại có vẻ bao quát, thâu gồm và ám  chỉ toàn thể những gì thuộc về Phật Giáo, mà lẽ ra với nội dung của bài viết để  kêu gọi sự trích dẫn cần thận trọng hơn, thì chỉ nên đề là: “Phật Tử Với…” hay  những <i>“Hành Giả Phật Giáo Với Những Ảo Tưởng Thời Thượng…”,</i> thì có vẻ thích hợp  hơn. Có lẽ tác giả muốn gây sự chú ý cho người đọc chăng? </p>
   <p>Với thiện ý kêu gọi sự thận trọng này của tác giả, cá nhân  tôi, thấy đây là một thái độ đúng đắn của một người viết trí thức. Thế nên, tôi  là một Phật Tử bình phàm, cũng mong có được sự góp ý để làm sáng tỏ thêm cho vấn  đề. </p>
   <p>Cũng như cố giáo sư Trần Chung Ngọc (TCN), và giáo sư sử  học Nguyễn Mạnh Quang (NMQ), sự đóng góp tri thức của tác giả Trần Trọng Sỹ về  những bài viết về sự thật của Catô Lích, về thời sự, về giá trị của Phật Giáo là  những vốn kiến thức rất đáng trân trọng, rất cần thiết và rất quý báu cho cộng  đồng đọc sách ở hải ngoại cũng như quốc nội. Xin được tuyên dương thiện ý của  nhà phê bình Trần Trọng Sỹ trong những công tác nêu lên những sự thật thời sự,  lịch sử này.</p>
@@ -70,7 +70,7 @@ image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/CANHDEP/HoaSe
   <p class="TuaDoLeft"><b>Phần 2: Phật Giáo  chưa bao giờ có ảo giác, ảo tưởng, nói chi tới thời thuợng?</b></p>
   <p>Tôi là một người có trong số những nguời trích dẫn những  nhận định của các nhà khoa học nhận xét về Phật Giáo, trong bài: <a href="https://www.daophatngaynay.com/vn/dien-dan/doi-thoai/3529-Phat-giao-Ki-to-giao-doi-chieu-qua-nhung-nhan-dinh-dien-hinh-cua-%20%20danh-nhan-tri-thuc-the-gioi.html">https://www.daophatngaynay.com/vn/dien-dan/doi-thoai/3529-Phat-giao-Ki-to-giao-doi-chieu-qua-nhung-nhan-dinh-dien-hinh-cua-&nbsp; danh-nhan-tri-thuc-the-gioi.html</a>. </p>
 <p>    của ông GS Trần Chung Ngọc. </p>
-  <p>Và trong tác phẩm: <a href="https://sachhiem.net/EMAILS/SH/Sachhiem17c.php">“Tuyên Ngôn Về Thể Trạng Vũ Trụ Tiền  Big Bang”</a>, tôi đã dùng bài trích dẫn được cho là của Einstein và của Egerton  C.Baptist này, trong đó 2 vị này tuyên bố như sau:</p>
+  <p>Và trong tác phẩm: <a href="/EMAILS/SH/Sachhiem17c">“Tuyên Ngôn Về Thể Trạng Vũ Trụ Tiền  Big Bang”</a>, tôi đã dùng bài trích dẫn được cho là của Einstein và của Egerton  C.Baptist này, trong đó 2 vị này tuyên bố như sau:</p>
   <p>Einstein: <i>“Tôn giáo tương lai sẽ là một tôn giáo toàn cầu, vượt trên  mọi ý nghĩa về Thượng Đế và tránh nói đến những giáo lý và thần học. Tôn giáo  ấy sẽ bao quát tất cả phương diện tự nhiên lẫn siêu nhiên, đặt trên cơ sở đạo  lý, phát xuất từ kinh nghiệm tổng thể mà không rời nhất thể. Phật giáo đáp ứng  được những yêu cầu ấy. Nếu có một tôn giáo nào có thể đương đầu được với những  nhu cầu hiện đại của khoa học thì đó là Phật Giáo”.</i></p>
 <p>    [The religion of the  future will be a cosmic religion. It should transcend personal God and avoid  dogma and theology. Covering both the natural and the spiritual, it should be  based on a&nbsp; religious sense arising from  the experience of all things natural and spiritual as a meaningful unity.  Buddhism answers this description. If there is any religion that could cope  with modern scientific needs it would be Buddhism.] (trang 175 TNVTTVTTBB). </p>
 <p>    Và của Egerton C. Baptist: <i>“Phật giáo bắt đầu ở nơi khoa học  chấm dứt”</i>. (Tr.141 TNVTTVTTBB).</p>
@@ -185,6 +185,6 @@ image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/CANHDEP/HoaSe
 <p class="TacgiaL">Trần Ngẫu Hồ </p>
  <p>___________________</p>
  <p><b>Bài bổ túc cho rõ:</b></p>
- <p>- <a href="https://sachhiem.net/TONGIAO/tgTR/TranNgauHo_02.php">Hữu Tướng, Phi Tướng, Bản Thể, Thực Tại, Tính Không, 
+ <p>- <a href="/TONGIAO/tgTR/TranNgauHo_02">Hữu Tướng, Phi Tướng, Bản Thể, Thực Tại, Tính Không, 
 Giải Thoát
 </a> (Trần Ngẫu Hồ) </p>

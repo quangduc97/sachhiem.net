@@ -3,7 +3,7 @@ layout: ../../../layouts/Article.astro
 title: "Tư Duy Tập Thể"
 author: "Vũ Duy Phú"
 date: 2016-05-28
-source: "https://sachhiem.net/THOISU_CT/ChuV/VuDuyPhu.php"
+source: "/THOISU_CT/ChuV/VuDuyPhu"
 category: "Email"
 lang: vi
 wordCount: 35149
@@ -689,15 +689,15 @@ image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/sqdot.gif"
    <p class="nguonL">Nguồn tác giả gửi đính kèm ra diễn đàn</p>
    <p>________________________</p>
    <p><b>Các thư trao đổi của tác giả:</b></p>
-   <p><a href="https://sachhiem.net/index.php/index.php?content=showemail&amp;id=1364">- Bảy câu hỏi - để trả lời cho những lời vu cáo (tạp nhạp và hạ cấp) về cụ Hồ Chí Minh</a><br>
-     <a href="https://sachhiem.net/index.php?content=showemail&amp;id=1338">- Vũ Duy Phú viết: Làm gì có yếu tố tôn giáo nào ở đây?</a><br>
+   <p><a href="/hop-thu/1364">- Bảy câu hỏi - để trả lời cho những lời vu cáo (tạp nhạp và hạ cấp) về cụ Hồ Chí Minh</a><br>
+     <a href="/TONGIAO/tgN/NguyenXTho">- Vũ Duy Phú viết: Làm gì có yếu tố tôn giáo nào ở đây?</a><br>
      <br>
-     <a href="https://sachhiem.net/index.php/KHOAHOC/HOANHLINH/index.php?content=showemail&amp;id=1462">- Trao đổi: Góc tối đáng sợ của quốc gia hạnh phúc nhất thế giới</a><br>
-     <a href="https://sachhiem.net/index.php/KHOAHOC/HOANHLINH/index.php?content=showemail&amp;id=1464">- Về Vụ Đài VTV Vừa Khai Trương Văn Phòng Thường Trú Tại Los Angeles, CA</a><br>
-     <a href="https://sachhiem.net/index.php?content=showemail&amp;id=1195">- Nhắn bà Bonnie Galser về: ASEAN cần mạnh mẽ hơn với TQ trong vấn đề biển Đông</a><br>
-     <a href="https://sachhiem.net/index.php?content=showemail&amp;id=1543">- Cái giá to lớn mà Việt Nam phải trả lâu nay chính là 1 nước bé nhỏ, lạc hậu, mà dám làm trái ý các S</a><br>
-     <a href="https://www.sachhiem.net/index.php/EMAILS/emailN/index.php?content=showemail&amp;id=1218">- Chủ nghiã Cộng sản còn lâu mới xấu xa tàn ác bằng Thực dân, Phát xít - Bài đính kèm: Tư duy tập</a></p>
-<p><a href="https://sachhiem.net/THOISU_CT/ChuV/VuDuyPhu.php">https://sachhiem.net/THOISU_CT/ChuV/VuDuyPhu.php</a></p>
+     <a href="/hop-thu/1462">- Trao đổi: Góc tối đáng sợ của quốc gia hạnh phúc nhất thế giới</a><br>
+     <a href="/hop-thu/1464">- Về Vụ Đài VTV Vừa Khai Trương Văn Phòng Thường Trú Tại Los Angeles, CA</a><br>
+     <a href="/hop-thu/1195">- Nhắn bà Bonnie Galser về: ASEAN cần mạnh mẽ hơn với TQ trong vấn đề biển Đông</a><br>
+     <a href="/hop-thu/1543">- Cái giá to lớn mà Việt Nam phải trả lâu nay chính là 1 nước bé nhỏ, lạc hậu, mà dám làm trái ý các S</a><br>
+     <a href="/hop-thu/1218">- Chủ nghiã Cộng sản còn lâu mới xấu xa tàn ác bằng Thực dân, Phát xít - Bài đính kèm: Tư duy tập</a></p>
+<p><a href="/THOISU_CT/ChuV/VuDuyPhu">https://sachhiem.net/THOISU_CT/ChuV/VuDuyPhu.php</a></p>
   
   <a href="/indexCT">
   <p class="trang">Trang Thời Sự</p>

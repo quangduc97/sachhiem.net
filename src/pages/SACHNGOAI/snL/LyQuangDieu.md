@@ -3,7 +3,7 @@ layout: ../../../layouts/Article.astro
 title: "Lý Quang Diệu"
 author: "G. Allison, R. D. Blackwill, A. Wyne (Nguyễn Xuân Hồng dịch)"
 date: 2014-06-02
-source: "https://sachhiem.net/SACHNGOAI/snL/LyQuangDieu.php"
+source: "/SACHNGOAI/snL/LyQuangDieu"
 category: "Tác giả"
 lang: vi
 wordCount: 6203

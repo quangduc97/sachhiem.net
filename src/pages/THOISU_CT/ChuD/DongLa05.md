@@ -3,7 +3,7 @@ layout: ../../../layouts/Article.astro
 title: "Giải Trí Cuối Tuần Bình Thơ “Rân Trủ”"
 author: "Đông La"
 date: 2016-05-19
-source: "https://sachhiem.net/THOISU_CT/ChuD/DongLa05.php"
+source: "/THOISU_CT/ChuD/DongLa05"
 category: "Chính trị"
 lang: vi
 wordCount: 1743

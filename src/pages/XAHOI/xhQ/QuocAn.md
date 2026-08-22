@@ -2,7 +2,7 @@
 layout: ../../../layouts/Article.astro
 title: "Tôn giáo gắn bó, đồng hành cùng dân tộc"
 author: "Quốc An"
-source: "https://sachhiem.net/nguồn https://www.qdnd.vn/"
+source: "/nguồn https://www.qdnd.vn/"
 category: "Xã hội"
 lang: vi
 wordCount: 2014
@@ -37,7 +37,7 @@ image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nhacu.jpg"
 	<tbody><tr><td bgcolor="White" align="justify" valign="top">
 		
 		<table border="0" cellpadding="10" width="100%" cols="2"><tbody><tr>
-				<td valign="top"><a href="https://sachhiem.net/"><img border="0" src="https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nhacu.jpg" width="49" height="20"></a></td>
+				<td valign="top"><a href="/"><img border="0" src="https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nhacu.jpg" width="49" height="20"></a></td>
 	<td valign="top"><i>23 tháng 9, 2008
 	</i>
 	</td></tr></tbody></table>

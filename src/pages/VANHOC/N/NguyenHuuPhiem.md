@@ -2,14 +2,14 @@
 layout: ../../../layouts/Article.astro
 title: "Nhớ về Nhất Linh - Xung Quanh Cái Chết - Ai điếu Nhất Linh"
 author: "Nguyễn Hữu Phiếm - Khúc Hà Linh - Vũ Hoàng Chương"
-source: "https://sachhiem.net/VANHOC/N/NguyenHuuPhiem.php"
+source: "/VANHOC/N/NguyenHuuPhiem"
 category: "Văn hóa"
 lang: vi
 wordCount: 10145
-image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nha.jpg"
+image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/VANHOC/Hinh/VANNHAN/Nhatlinh_Dongho.jpg"
 ---
 
-<p align="center"><a href="https://www.sachhiem.net/"> <img border="0" src="https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nha.jpg"></a> 07 tháng 7, 2010 </p> <p><i>LTS (GDOL) Cách đây đúng 47 năm, ngày 7 tháng 7 năm 1963, nhà 
+<p align="center"> 07 tháng 7, 2010 </p> <p><i>LTS (GDOL) Cách đây đúng 47 năm, ngày 7 tháng 7 năm 1963, nhà 
 		văn Nhất Linh Nguyễn Tường Tam đã uống độc dược quyên sinh tại Sài Gòn 
 		để phản đối chính quyền độc tài Ngô Đình Diệm đàn áp đối lập chính trị 
 		và bức hại Phật giáo Việt Nam. Ông chọn ngày 7 tháng 7 vì 24 tiếng đồng 

@@ -3,7 +3,7 @@ layout: ../../../layouts/Article.astro
 title: "Hợp Tác, Hỗ Trợ, Khắc Phục Hậu Quả Bom Mìn Sau Chiến Tranh, và Trao Kỷ Vật"
 author: "Thiếu tướng Hoàng Kiền"
 date: 2025-09-27
-source: "https://sachhiem.net/LICHSU/H/HoangKien03.php"
+source: "/LICHSU/H/HoangKien03"
 category: "Chính trị"
 lang: vi
 wordCount: 2163

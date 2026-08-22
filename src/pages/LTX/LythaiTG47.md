@@ -3,7 +3,7 @@ layout: ../../layouts/Article.astro
 title: "Tôn Giáo Kỳ Thị và Chia Rẽ?"
 author: "Lý Thái Xuân"
 date: 2026-05-13
-source: "https://sachhiem.net/LTX/LyThaiTG47.php"
+source: "/LTX/LyThaiTG47"
 category: "Tác giả"
 lang: vi
 wordCount: 1576
@@ -37,7 +37,7 @@ image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/TONGIAO/IMG/BIBLE/KY
     <p>- <i>Hãy giết cả thành phố nếu trong đó có một người không tôn thờ Thiên Chúa</i>. (Deuteronomy 13:13-19 NLT)</p>
  <p>Nếu Thiên Chúa đã dạy như vậy thì liệu những con chiên có dám không tuân phục?</p>
  
-    <p>Mời bạn vào đây đọc <a href="https://sachhiem.net/index.php?content=showemail&amp;id=3070" rel="nofollow noreferrer" role="link" tabindex="0" target="_blank"> toàn bài: ở https://sachhiem.net/...</a></p>
+    <p>Mời bạn vào đây đọc <a href="/hop-thu/3070" rel="nofollow noreferrer" role="link" tabindex="0" target="_blank"> toàn bài: ở https://sachhiem.net/...</a></p>
  
  
  <p><b>2. Lê Thị Kim Hoa</b></p>

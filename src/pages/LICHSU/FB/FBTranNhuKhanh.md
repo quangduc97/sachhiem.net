@@ -3,7 +3,7 @@ layout: ../../../layouts/Article.astro
 title: "Kết Cục bi Thảm Của Vị Sĩ Phu Bắc Hà -Bộ Não Kiệt Xuất Nhất Triều Tây Sơn"
 author: "Trần Như Khánh"
 date: 2025-11-06
-source: "https://sachhiem.net/LICHSU/FB/FBTranNhuKhanh.php"
+source: "/LICHSU/FB/FBTranNhuKhanh"
 category: "Lịch sử"
 lang: vi
 wordCount: 738

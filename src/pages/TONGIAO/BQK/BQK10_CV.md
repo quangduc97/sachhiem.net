@@ -3,7 +3,7 @@ layout: ../../../layouts/Article.astro
 title: "CHỮ VIỆT"
 author: "Bảo quốc Kiếm"
 date: 2018-02-28
-source: "https://sachhiem.net/TONGIAO/BQK/BQK09.php"
+source: "/TONGIAO/BQK/BQK09"
 category: "Tác giả"
 lang: vi
 wordCount: 3428

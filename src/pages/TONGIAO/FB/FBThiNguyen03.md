@@ -3,7 +3,7 @@ layout: ../../../layouts/Article.astro
 title: "Phản Biện Câu Nói Hồ Đồ Của Ông Tiến Sĩ ĐH Harvard"
 author: "FB Thi Nguyên"
 date: 2019-05-18
-source: "https://sachhiem.net/TONGIAO/FB/FBThiNguyen03.php"
+source: "/TONGIAO/FB/FBThiNguyen03"
 category: "Tác giả"
 lang: vi
 wordCount: 10098

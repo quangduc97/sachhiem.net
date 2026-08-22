@@ -2,13 +2,13 @@
 layout: ../../../layouts/Article.astro
 title: "KHI NHÀ VĂN LẠM BÀN LỊCH SỬ"
 author: "- Nguyễn Mạnh Quang -"
-source: "https://sachhiem.net/NMQ/KNV/PhulucI.php"
+source: "/NMQ/KNV/PhulucI"
 lang: vi
 wordCount: 21314
-image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nha.jpg"
+image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/NMQ/KNV/VNwar1.gif"
 ---
 
-<p align="center"><a href="/NMQ/index"><img hspace="20" border="0" src="https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nha.jpg"></a> 10-07-2008 </p>
+<p align="center"> 10-07-2008 </p>
      <p> Toàn tập: <a href="/NMQ/KNV/LoiMoDau">0</a>&nbsp; <a href="/NMQ/KNV/Thungo">1</a>&nbsp; <a href="/NMQ/KNV/Thungo1">2</a>&nbsp; <a href="/NMQ/KNV/Thungo2">3</a>&nbsp; <a href="/NMQ/KNV/PhanI1">4</a>&nbsp; <a href="/NMQ/KNV/PhanI2">5</a>&nbsp; <a href="/NMQ/KNV/PhanI3">6</a>&nbsp; <a href="/NMQ/KNV/PhanI4">7</a>&nbsp; <a href="/NMQ/KNV/PhanII1">8</a>&nbsp; <a href="/NMQ/KNV/PhanII2">9</a>&nbsp; <a href="/NMQ/KNV/PhanII3">10</a>&nbsp; <a href="/NMQ/KNV/PhanII4">11</a>&nbsp; <a href="/NMQ/KNV/PhanIIItk">12</a>&nbsp; <a href="/NMQ/KNV/PhulucI">13</a>&nbsp; <a href="/NMQ/KNV/PhulucII">14</a> </p>
      
      <hr>
@@ -1735,13 +1735,13 @@ image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nha.jpg"
       biết gì về lịch sử thế giới và lịch sử Giáo Hội La Mã. </p>
      
      <hr size="1" width="33%" align="left">
-     <p> <a style="color: #22222A; text-decoration: underline; text-underline: single" href="https://sachhiem.net/NMQ/KNV/PhulucI.php#i#i"> [i] </a> &nbsp; Arnold Schrier &amp; T. Walter Wallbank, <i>Living World History.,</i> Ibid., p 358</p>
-     <p> <a style="color: #22222A; text-decoration: underline; text-underline: single" href="https://sachhiem.net/NMQ/KNV/PhulucI.php#ii#ii"> [ii] </a> &nbsp; Sơn Xuân Nguyễn, Evangelization 
+     <p> <a style="color: #22222A; text-decoration: underline; text-underline: single" href="/NMQ/KNV/PhulucI#i#i"> [i] </a> &nbsp; Arnold Schrier &amp; T. Walter Wallbank, <i>Living World History.,</i> Ibid., p 358</p>
+     <p> <a style="color: #22222A; text-decoration: underline; text-underline: single" href="/NMQ/KNV/PhulucI#ii#ii"> [ii] </a> &nbsp; Sơn Xuân Nguyễn, Evangelization 
       Vietnamese Buddhist Refugees (Ann&nbsp; Arbor. Michigan, Umi Dissertation 
       Services, 199), tr 76.</p>
-     <p class="MsoPlainText"> <a style="color: #22222A; text-decoration: underline; text-underline: single" href="https://sachhiem.net/NMQ/KNV/PhulucI.php#iii#iii"> [iii] </a> &nbsp; Vương Gia Thụy, Getting To Know The 
+     <p class="MsoPlainText"> <a style="color: #22222A; text-decoration: underline; text-underline: single" href="/NMQ/KNV/PhulucI#iii#iii"> [iii] </a> &nbsp; Vương Gia Thụy, Getting To Know The 
       Vietnamese Culture (New York: Frederick Ungar Publishing, 1976, tr 22.</p>
-     <p> <a style="color: #22222A; text-decoration: underline; text-underline: single" href="https://sachhiem.net/NMQ/KNV/PhulucI.php#iv#iv">[iv]</a> &nbsp; Lê Trúc Huỳnh. 
+     <p> <a style="color: #22222A; text-decoration: underline; text-underline: single" href="/NMQ/KNV/PhulucI#iv#iv">[iv]</a> &nbsp; Lê Trúc Huỳnh. 
       “Linh Hồn Ðánh Mất.” www.<a style="color: #22222A; text-decoration: underline; text-underline: single" href="https://www.viethaven.com/forums/index.php">VietHaven.com</a>&nbsp; Ngày 
       19/12/2002.</p>
      

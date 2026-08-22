@@ -2,7 +2,7 @@
 layout: ../../../layouts/Article.astro
 title: "CÂU CHUYỆN HÀNG TUẦN:"
 author: "Huỳnh Bất Hoặc"
-source: "https://sachhiem.net/null"
+source: "/null"
 lang: vi
 wordCount: 1741
 image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nha.gif"
@@ -26,7 +26,7 @@ image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nha.gif"
 <tr> <td width="100%" bgcolor="White"> 
      <div style="padding-left: 40px; padding-right: 40px">
   <table border="0" cellpadding="10" width="85%" cols="2"><tbody><tr>
-	         <td valign="top"><a href="https://sachhiem.net/">
+	         <td valign="top"><a href="/">
 				<img border="0" src="https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nha.gif" width="49"></a></td>
 	<td valign="top" style="text-align:right">	ngày 15 tháng 5, 2009
 	         </td></tr></tbody></table>

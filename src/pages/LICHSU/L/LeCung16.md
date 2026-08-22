@@ -3,7 +3,7 @@ layout: ../../../layouts/Article.astro
 title: "Huế - Nơi Mở Đầu Cuộc Vận Động Của Phật Giáo Việt Nam Năm 1963"
 author: "GS Lê Cung"
 date: 2021-08-22
-source: "https://sachhiem.net/LICHSU/L/LeCung16.php"
+source: "/LICHSU/L/LeCung16"
 category: "Chính trị"
 lang: vi
 wordCount: 5696

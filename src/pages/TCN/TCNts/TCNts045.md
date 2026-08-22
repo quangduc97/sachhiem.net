@@ -2,7 +2,7 @@
 layout: ../../../layouts/Article.astro
 title: "AI CHỐNG CỘNG VÀ AI KHÔNG ?"
 author: "Trần Chung Ngọc"
-source: "https://sachhiem.net/null"
+source: "/null"
 lang: vi
 wordCount: 4456
 ---
@@ -160,7 +160,7 @@ giới nay thuộc quyền các Giáo hoàng, những đại diện của Chúa 
 ở Vatican, dù rằng trong số những đại diện này, một số không nhỏ phạm đủ mọi tội 
 ác thế tục như hoang dâm, loạn dâm, gian dâm, loạn luân, giết người, ăn cắp, ăn 
 cướp v…v… [Xin đọc:
-<a style="color: blue; text-decoration: underline; text-underline: single" href="https://www.sachhiem.net/TCNtg/TCN20.php">
+<a style="color: blue; text-decoration: underline; text-underline: single" href="/TCNtg/TCN20">
 https://www.sachhiem.net/TCNtg/TCN20.php</a> trên trang nhà sachhiem.net] .</p>
 
 <p> Vì vậy, Công giáo Việt Nam cho rằng những tài sản, đất đai của Giáo hội 

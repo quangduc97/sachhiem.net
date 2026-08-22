@@ -3,7 +3,7 @@ layout: ../../../layouts/Article.astro
 title: "Đạo Thiên Chúa Héo Tàn Dần Ở Nước Mặt Trời Mọc"
 author: "JAMES BROOKE/ NY Times"
 date: 2015-01-22
-source: "https://sachhiem.net/TONGIAO/tgV/VNEpress_2003.php"
+source: "/TONGIAO/tgV/VNEpress_2003"
 category: "Chính trị"
 lang: vi
 wordCount: 1027

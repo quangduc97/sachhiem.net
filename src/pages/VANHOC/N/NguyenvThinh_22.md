@@ -3,7 +3,7 @@ layout: ../../../layouts/Article.astro
 title: "Về Cái Được Văn Việt Gọi Là Kiệt Tác Và Trao Giải Thưởng"
 author: "Nguyễn Văn Thịnh"
 date: 2018-04-02
-source: "https://sachhiem.net/VANHOC/N/NguyenvThinh_22.php"
+source: "/VANHOC/N/NguyenvThinh_22"
 category: "Lịch sử"
 lang: vi
 wordCount: 4984

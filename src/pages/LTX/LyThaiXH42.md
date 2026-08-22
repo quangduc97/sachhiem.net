@@ -3,7 +3,7 @@ layout: ../../layouts/Article.astro
 title: "Trong Tưởng Tượng Của Người Đọc, Các Tác Giả Là Siêu Nhân"
 author: "Lý Thái Xuân"
 date: 2025-03-07
-source: "https://sachhiem.net/LTX/LyThaiXH42.php"
+source: "/LTX/LyThaiXH42"
 category: "Chính trị"
 lang: vi
 wordCount: 1001

@@ -3,7 +3,7 @@ layout: ../../../layouts/Article.astro
 title: "Hai Bức Ảnh Nói Lên Giá Trị Của Độc Lập, Tự Do"
 author: "Trang Sưu Tầm"
 date: 2025-05-30
-source: "https://sachhiem.net/LICHSU/FB/MoiNgayMot.php"
+source: "/LICHSU/FB/MoiNgayMot"
 category: "Chính trị"
 lang: vi
 wordCount: 278

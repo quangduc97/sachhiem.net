@@ -3,7 +3,7 @@ layout: ../../../layouts/Article.astro
 title: "Công Lao “Mở Cõi” Của Lê Văn Duyệt?"
 author: "Đông La"
 date: 2024-09-23
-source: "https://sachhiem.net/LICHSU/D/DongLa_03.php"
+source: "/LICHSU/D/DongLa_03"
 category: "Chính trị"
 lang: vi
 wordCount: 1181
@@ -34,6 +34,6 @@ image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/LICHSU/IMG/LAT_SU/TP
 <p class="nguonL">Nguồn: <a href="https://www.facebook.com/donglasg/posts/pfbid03828R5D8CoNF6SxmG47ZGmFWGhvuu4P8RZmWZyrvGU238KdGVhZqei2QUdukc2dBRl">FB Nguyễn Văn Hùng ngày 20/9/2024</a></p>
  <p>____________________</p>
  <p><b>Ghi chú:</b></p>
- <p>1- <a href="https://sachhiem.net/LICHSU/L/LaoChanBo03.php">Quảng Ngãi Không Thể Đặt Tên Đường Lê Văn Duyệt!</a> (Lão Chăn Bò) </p>
+ <p>1- <a href="/LICHSU/L/LaoChanBo03">Quảng Ngãi Không Thể Đặt Tên Đường Lê Văn Duyệt!</a> (Lão Chăn Bò) </p>
  <p>2- Tuần báo Đông Dương, số 95, ngày 25/6/1942, hiện bảo quản tại Trung tâm Lưu trữ quốc gia I, bài viết “<i>Le Maréchal de Gauche Le Van Duyet</i>” (Tả quân Lê Văn Duyệt) của tác giả Huynh Van Chinh. </p>
  <p>____________________</p>

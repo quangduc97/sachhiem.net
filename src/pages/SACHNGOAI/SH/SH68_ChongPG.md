@@ -3,7 +3,7 @@ layout: ../../../layouts/Article.astro
 title: "Tượng Phật Bị Vỡ và Chùa Chiền Bị Đốt"
 author: "Young-Hae Yoon và Sherwin Jones / Dongguk University"
 date: 2024-06-06
-source: "https://sachhiem.net/SACHNGOAI/SH/SH68_ChongPG.php"
+source: "/SACHNGOAI/SH/SH68_ChongPG"
 category: "Sách ngoại văn"
 lang: vi
 wordCount: 13964

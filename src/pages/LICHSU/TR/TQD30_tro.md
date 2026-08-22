@@ -3,7 +3,7 @@ layout: ../../../layouts/Article.astro
 title: "Mái Chùa Và Tro Cốt Của Người Chết"
 author: "Trần Quang Diệu và DĐ"
 date: 2013-07-06
-source: "https://sachhiem.net/LICHSU/TR/TQD30_tro.php"
+source: "/LICHSU/TR/TQD30_tro"
 category: "Đối thoại"
 lang: vi
 wordCount: 4751
@@ -126,4 +126,4 @@ To: Tỳ-Khưu Thích-Chân-Tuệ </p>
 <b>VP.PHTQ.CANADA </b>(<a href="mailto:cutranlacdao@yahoo.com" target="_blank">cutranlacdao@yahoo.com</a>)</p>
 ___________________
 <p>(Xem bạn đọc khác phản hồi:)</p>
-<p>- <a href="https://sachhiem.net/index.php?content=showemail&amp;id=355">Nhân đọc "Mái Chùa Và Tro Cốt Của ﻿Người Chết"</a> Của Nguyễn Bình </p>
+<p>- <a href="/net/index">Nhân đọc "Mái Chùa Và Tro Cốt Của ﻿Người Chết"</a> Của Nguyễn Bình </p>

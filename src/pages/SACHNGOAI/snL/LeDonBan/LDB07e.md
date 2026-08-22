@@ -3,16 +3,16 @@ layout: ../../../../layouts/Article.astro
 title: "Tương lai của một Ảo tưởng"
 author: "Sigismund Schlomo Freud"
 date: 2011-03-31
-source: "https://sachhiem.net/SACHNGOAI/snL/LeDonBan/LDB07e.php"
+source: "/SACHNGOAI/snL/LeDonBan/LDB07e"
 category: "Tác giả"
 lang: vi
 wordCount: 3627
-image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nha.jpg"
+image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/DECOR/Decor_LDB1.jpg"
 ---
 
 <table border="0" cellpadding="0" width="250" align="center">
 	<tbody><tr>
-		<td width="100"><a href="/index"><img border="0" src="https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nha.jpg"></a></td>
+		<td width="100"></td>
 									<td valign="top">
 									<p>18 tháng 4, 2011</p></td>
 			</tr>

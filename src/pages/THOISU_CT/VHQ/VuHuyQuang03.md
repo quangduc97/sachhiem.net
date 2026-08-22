@@ -2,15 +2,14 @@
 layout: ../../../layouts/Article.astro
 title: "Sự sụp đổ các chính thể Staliniêng Đông Âu"
 author: "Vũ Huy Quang"
-source: "https://sachhiem.net/THOISU_CT/VHQ/VuHuyQuang03.php"
+source: "/THOISU_CT/VHQ/VuHuyQuang03"
 category: "Chính trị"
 lang: vi
 wordCount: 1710
-image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nha.jpg"
+image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/LICHSU/IMG/DONGAU/AndreiSakharov_UnivStPetersburg.jpg"
 ---
 
-<p align="center"><a href="https://www.sachhiem.net/">
-<img border="0" src="https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nha.jpg"></a> 20 tháng 7, 2010	</p> 
+<p align="center"> 20 tháng 7, 2010	</p> 
 <p><b> 1 <span style="background-color: #800000"><a href="/THOISU_CT/VuHuyQuang03a"><font color="#FFFFFF">&nbsp;2&nbsp;</font></a></span> </b></p>
 
 

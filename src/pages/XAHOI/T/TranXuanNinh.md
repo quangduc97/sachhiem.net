@@ -2,14 +2,14 @@
 layout: ../../../layouts/Article.astro
 title: "Quanh ngày lễ Giáng sinh (Christmas) ở Mỹ ngày nay"
 author: "Trần Xuân Ninh"
-source: "https://sachhiem.net/XAHOI/T/TranXuanNinh.php"
+source: "/XAHOI/T/TranXuanNinh"
 category: "Xã hội"
 lang: vi
 wordCount: 1087
-image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nha.jpg"
+image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/TONGIAO/IMG/NOEL/Totenberg-Nina.jpg"
 ---
 
-<p align="center"><a href="https://www.sachhiem.net/"> <img border="0" src="https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nha.jpg"></a> ngày 31 tháng 12, 2010 </p>	 
+<p align="center"> ngày 31 tháng 12, 2010 </p>	 
  	<p>	<img border="0" src="https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/TONGIAO/IMG/NOEL/Totenberg-Nina.jpg" width="150" height="150" align="left" hspace="10"></p>
 		
 
@@ -107,9 +107,9 @@ image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nha.jpg"
 	
 
 <p class="TuaDenLeft">Bài cùng chủ đề:</p>
-<p>- <a href="https://sachhiem.net/BUIKHA/BuiKha8.php">Noel - Mừng Giáng Sinh (Bùi Kha)</a></p>
-<p>- <a href="https://sachhiem.net/LTX/LyThaiXH14.php">Những Chủ Đề Mới Trong Thiệp Chúc Mùa Đông (Lý Thái)</a></p>
-					<p>- <a href="https://sachhiem.net/XAHOI/T/TranXuanNinh.php">Quanh ngày lễ Giáng sinh (Christmas) ở Mỹ ngày nay (Trần Xuân Ninh)</a></p>
+<p>- <a href="/BUIKHA/BuiKha8">Noel - Mừng Giáng Sinh (Bùi Kha)</a></p>
+<p>- <a href="/LTX/LyThaiXH14">Những Chủ Đề Mới Trong Thiệp Chúc Mùa Đông (Lý Thái)</a></p>
+					<p>- <a href="/XAHOI/T/TranXuanNinh">Quanh ngày lễ Giáng sinh (Christmas) ở Mỹ ngày nay (Trần Xuân Ninh)</a></p>
 	
 	<p class="TuaDenLeft">Anh ngữ:</p>
 	<p>- 	<a href="https://www.newsbusters.org/blogs/brent-baker/2010/12/20/nina-totenberg-i-was-forgive-expression-christmas-party#ixzz19q0BleHW">Nina Totenberg: ‘I Was At – Forgive the Expression – a Christmas Party...</a>’ (Brent Baker)  </p>

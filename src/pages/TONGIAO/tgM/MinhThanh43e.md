@@ -3,7 +3,7 @@ layout: ../../../layouts/Article.astro
 title: "[VATICANOLOGY] Trên Đường Khôi Phục Vị Thế Trước Năm 1975"
 author: "Minh Thạnh"
 date: 2024-04-21
-source: "https://sachhiem.net/TONGIAO/tgM/MinhThanh43e.php"
+source: "/TONGIAO/tgM/MinhThanh43e"
 category: "Chính trị"
 lang: vi
 wordCount: 3349

@@ -2,17 +2,17 @@
 layout: ../../../layouts/Article.astro
 title: "Mối Ác Cảm Của Nhân Dân Thế Giới"
 author: "Nguyễn Mạnh Quang"
-source: "https://sachhiem.net/NMQ/MOIACCAM/NMQ_03.php"
+source: "/NMQ/MOIACCAM/NMQ_03"
 category: "Tác giả"
 lang: vi
 wordCount: 8564
-image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nha.jpg"
+image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/print.gif"
 ---
 
 <p class="Tuaduoi">Đối Với Giáo Hội La Mã </p>
      
      
-     <p align="center"><a href="/index"><img hspace="20" border="0" src="https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nha.jpg"></a>   bản rời <a href="/NMQ/MOIACCAM/NMQ_00" target="top"> <img border="0" src="https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/print.gif" width="18" height="18"> </a>   |      toàn tập <a target="_top" href="/NMQ/MOIACCAM/MoiAcCam_Main"> ☞ </a>  | 02 tháng 4, 2010 </p>
+     <p align="center">   bản rời <a href="/NMQ/MOIACCAM/NMQ_00" target="top"> <img border="0" src="https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/print.gif" width="18" height="18"> </a>   |      toàn tập <a target="_top" href="/NMQ/MOIACCAM/MoiAcCam_Main"> ☞ </a>  | 02 tháng 4, 2010 </p>
      <br clear="all" style="page-break-before:always">
      <p class="CHUONG">CHƯƠNG 4</p>
      <p class="TuaChuong">CÁC NHÀ LÃNH ĐẠO VÀ TU SĨ KI-TÔ ĐẦY NHỮNG  ÁC TÍNH, BẠO NGƯỢC, LOẠN LUÂN VÀ PHI LUÂN</p>
@@ -151,7 +151,7 @@ image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nha.jpg"
      <p> <a name="_edn46" href="/NMQ/#_ednref46">[46]</a> Bùi Đức Sinh, Sđd., 406. </p>
      <p> <a name="_ednef=" #_ednref47"="">[47]</a> Bùi Đức Sinh, Sdd., tr. 406-407.</p>
      <p> <a name="_edn48" href="/NMQ/#_ednref48">[48]</a> Nguyễn Ngọc Ngạn, <i>Xóm Đạo</i> (Đông Kinh, Nhật Bản: Tân Văn, 2003), tr, 320.</p>
-     <p> <a name="_edn49" href="/NMQ/#_ednref49">[49]</a> Nguồn: <a target="_top" href="https://sachhiem.net/TONGIAO/tgS/SH13.php"> https://sachhiem.net/TONGIAO/tgS/SH13.php</a>.</p>
+     <p> <a name="_edn49" href="/NMQ/#_ednref49">[49]</a> Nguồn: <a target="_top" href="/TONGIAO/tgS/SH13"> https://sachhiem.net/TONGIAO/tgS/SH13.php</a>.</p>
      <p> <a name="_edn50" href="/NMQ/#_ednref50">[50]</a> Nhiều tác giả, <i>Tại Sao Không Theo Đạo Chúa?</i> Tuyển Tập 2 (Spring, TX: Ban Nghiên Cứu Đạo Giáo, 1998), tr. 115-118.</p>
      <p> <a name="_edn51" href="/NMQ/#_ednref51">[51]</a> Nguyễn Thanh Sơn,<i> Tận Thế Số Ra Mắt 15/6/2002 </i>(Fountain Valley, CA, TXB, 2002), tr 27.</p>
      <p> <a name="_edn52" href="/NMQ/#_ednref52">[52]</a> Nguyễn Thanh Sơn, <i>Tận Thế Số 2 15/7/2002</i> (Fountain Valley, CA, TXB, 2002), tr 31.</p>

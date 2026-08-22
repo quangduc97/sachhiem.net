@@ -2,10 +2,10 @@
 layout: ../../../layouts/Article.astro
 title: "Ki-tô Giáo - Tin Lành: Bản Chất & Thực Chất (Trần Chung Ngọc)"
 author: "Trần Chung Ngọc"
-source: "https://sachhiem.net/null"
+source: "/null"
 lang: vi
 wordCount: 15837
-image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nha.jpg"
+image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/TONGIAO/IMG/bible.jpg"
 ---
 
 <div align="center" style="position:  relative; left:  0; top:  0">
@@ -24,8 +24,7 @@ image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nha.jpg"
 <tr><td width="100%">
 <div style="padding-left:  50px; padding-right:  50px"> 
 	<table border="0" cellpadding="1" width="86%" cols="2" height="39"><tbody><tr>
-	<td><a href="/TCN/http: //www.sachhiem.net/">
-	<img border="0" src="https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nha.jpg"></a></td>
+	<td></td>
 <td valign="top" width="210"><p>05 tháng 2,  2010</p></td></tr></tbody></table>
 	<p><a href="/TCN/TCN90">...(Xem Phần I: Công Giáo)</a></p>
 		<p class="TuaChuong"><strong>Phần II. TIN LÀNH:</strong></p>
@@ -38,10 +37,10 @@ image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nha.jpg"
 	đôi chút hiểu biết thì lại cho đó là “Tin Dữ” hay “Tin Xấu” vì nội dung của 
 	Tân ước, ngoài vai trò của Giê-su như là “Chúa cứu thế” mà Giám Mục Tin Lành 
 	John Shelby Spong đòi phải dẹp bỏ:
-	<a href="https://www.sachhiem.net/TCN/TCNtg/TCN37.php">
+	<a href="/TCN/TCNtg/TCN37">
 	https://www.sachhiem.net/TCN/TCNtg/TCN37.php</a> , và niềm hoang tưởng về sự 
 	“cứu rỗi” của Giê-su mà Linh Mục James Kavanaugh đã coi như là một huyền 
-	thoại: <a href="https://www.sachhiem.net/TCN/TCNtg/TCN36.php">
+	thoại: <a href="/TCN/TCNtg/TCN36">
 	https://www.sachhiem.net/TCN/TCNtg/TCN36.php</a>, còn lại toàn là Tin Dữ hay 
 	Tin Xấu. Không phải là vô căn cứ mà Giáo sư đại học David Voas viết cả một 
 	cuốn sách dưới tên “<i><u>Cuốn Thánh Kinh Mang Tới Tin Xấu: Cuốn Tân ước”</u></i> 

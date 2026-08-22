@@ -3,7 +3,7 @@ layout: ../../../layouts/Article.astro
 title: "[VATICANOLOGY] 13/7/1949: Vatican Công Bố “Sắc Lệnh Chống Chủ Nghĩa Cộng Sản”"
 author: "Minh Thạnh"
 date: 2024-07-24
-source: "https://sachhiem.net/TONGIAO/tgM/MinhThanh45.php"
+source: "/TONGIAO/tgM/MinhThanh45"
 category: "Chính trị"
 lang: vi
 wordCount: 3128

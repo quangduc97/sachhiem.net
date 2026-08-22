@@ -3,7 +3,7 @@ layout: ../../layouts/Article.astro
 title: "Tư Tưởng Phương Đông Và Tính Triết Học Trong Tranh Đảo Ngược"
 author: "Lê Đức Tuấn Định/ Báo Mỹ Thuật"
 date: 2018-12-29
-source: "https://sachhiem.net/VANHOC/Daigiang05_baoART.php"
+source: "/VANHOC/Daigiang05_baoART"
 category: "Văn hóa"
 lang: vi
 wordCount: 75

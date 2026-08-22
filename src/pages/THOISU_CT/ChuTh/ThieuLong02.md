@@ -2,14 +2,14 @@
 layout: ../../../layouts/Article.astro
 title: "Vài Lời Với Những Người Chống Cộng"
 author: "Thiếu Long Texas"
-source: "https://sachhiem.net/THOISU_CT/ChuTh/ThieuLong02.php"
+source: "/THOISU_CT/ChuTh/ThieuLong02"
 category: "Chính trị"
 lang: vi
 wordCount: 20368
-image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nha.jpg"
+image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/THOISU_CT/Hinh/CCCB/bieutinh_covang_bicangdau.jpg"
 ---
 
-<p align="center"><a href="/index"> <img hspace="20" border="0" src="https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nha.jpg"></a>  14-July-2013</p> 
+<p align="center">  14-July-2013</p> 
      <p><i>LTS: "Dùng ái ngữ" được xem là  phong thái tốt nhất trong việc cảm hóa mà các anh chị bên  Phật giáo  thường nhắn nhủ  chúng tôi đối với một số bài viết đăng trong trang nhà. Phần dẫn nhập của Thiếu Long cũng đã lập lại chủ trương này một cách cặn kẽ nhất. Nhưng toàn bài tiếp theo là một tiểu luận tuyệt vời, dành để giải thích một trường hợp ngoại lệ, đặc biệt đối với một số người có những tư duy rất "đặc biệt". Trường hợp ngoại lệ này, "ái ngữ" không hề có tác dụng, mà  trở thành một món trang sức vô dụng, chỉ làm đẹp cho chính mình mà thôi. Khi giới thiệu bài này, ông Thanh Tùng bên web "Đôi Mắt" đã phải kêu lên: "Chỉ 'thọ giáo' đám ấy một thời gian ngắn là tôi đã phải buông xuôi, cảm thán: Các bạn rận chủ à, các bạn có biết NÃO là một thứ cực kỳ tuyệt vời không, và tôi ước gì ông trời có thể ban cho các bạn một bộ não."   </i> (SH)</p><hr>
 
 <p><span class="First">G</span>ần đây ghé thăm đọc  các blog mình thấy nhiều bạn chửi rận hơi dữ dội, gay gắt, hoặc như là vừa viết  vừa cười châm biếm rận, cho thấy sự không tôn trọng bọn họ một chút nào cả.</p>
@@ -78,7 +78,7 @@ Tôi đọc các kiến nghị về Hiến pháp, rồi các Hiến pháp giả 
 Tôi đọc các kiến nghị của các bạn mà tôi có cảm tưởng như đi ngược lại cỗ máy  thời gian trở lại năm 2001 lúc mà tôi còn đang chập chững bước chân vào thế  giới lý luận chính trị, tranh luận và quan sát theo dõi các bên tranh luận với  nhau trong hầu hết mọi diễn đàn ngõ ngách Internet trong và ngoài nước, tiếng  Việt và tiếng Anh. Tôi đọc những ý kiến buồn cười, hoang tưởng duy ý chí đó mà  tôi có cảm tưởng như các bạn chưa bao giờ tham gia hoặc xem một cuộc tranh luận  chính trị nào trong các diễn đàn chính trị trên Internet, thậm chí là các diễn  đàn tiếng Việt.</p>
 <p>
 Nói thẳng ra một cách đơn giản nhất: Các kiến nghị của các bạn nó là những bài  ca hát đi hát lại và nhạt như nước ốc, và ngây ngô, thiếu thông tin, có kiến  thức không khác trẻ em mẫu giáo về đề tài mà các bạn kiến nghị. </p>
-<p>Những người từ  cái thời điểm sơ khai Internet đó bây giờ cũng đã thay đổi quan điểm hoặc ít  nhất đã từ bỏ con đường của họ (<a href="https://sachhiem.net/THOISU_CT/ChuTh/ThieuLong01.php" target="_blank">xem thêm</a>), nhận ra niềm  tin lâu nay của họ là rất mơ hồ, duy ý chí và không có cơ sở, căn cứ gì vững  chắc. Trong khi các bạn thì lặp lại, xài lại những gì mà những người khác đã  ném bỏ từ lâu.</p>
+<p>Những người từ  cái thời điểm sơ khai Internet đó bây giờ cũng đã thay đổi quan điểm hoặc ít  nhất đã từ bỏ con đường của họ (<a href="/THOISU_CT/ChuTh/ThieuLong01" target="_blank">xem thêm</a>), nhận ra niềm  tin lâu nay của họ là rất mơ hồ, duy ý chí và không có cơ sở, căn cứ gì vững  chắc. Trong khi các bạn thì lặp lại, xài lại những gì mà những người khác đã  ném bỏ từ lâu.</p>
 <p><a class="TuaDoLeft" name="end3" href="/THOISU_CT/#3"><b>Đa đảng như Mỹ - Tây thì sẽ dẹp được tham nhũng?</b></a></p>
 <p>Đặc biệt <b>các bạn ba que</b> (xin lỗi không nghĩ ra từ nào chính xác hơn cả về nghĩa  bóng lẫn nghĩa đen) ở Mỹ khi bị người khác chỉ trích thì các bạn hay chống đỡ,  biện hộ rằng nếu theo mô hình chính trị đa đảng như Mỹ - Tây thì sẽ dẹp được  tham nhũng tiêu cực, dẹp được tệ nạn chạy chọt này kia v.v. Thật ra các bạn  không có một chút tư cách gì nói về chuyện đa đảng thì xã hội sẽ trong sạch,  bởi vì cha anh của các bạn cũng theo mô hình chính trị như các bạn đang hô hào  ngày nay, và những vùng do cha anh các bạn quản lý đã biến thành những ổ mại  dâm khổng lồ, với một bộ máy quản lý què quặt, thối nát, một xã hội băng hoại,  với các quan chức buôn lậu ma túy đẳng cấp quốc tế (<a href="https://thieulongtexas.blogspot.com/2013/04/toan-canh-cuoc-oi-au-lich-su-viet-my_6848.html" target="_blank">xem thêm</a>).</p>
 <p>
@@ -114,7 +114,7 @@ Hồi đó mặc dù tôi vẫn còn cùng quan điểm chính trị gần giố
 <p>
 <b>Tôi chỉ nói có vậy thôi mà các bạn banned tài khoản tôi, "đá" nick  tôi ra khỏi phòng nói chuyện Paltalk của các bạn,</b> bịt miệng tôi trên các diễn  đàn và Paltalk. Các bạn hằn học và đối xử với tôi như kẻ thù, trong khi lúc đó  tôi vẫn về cơ bản là đồng tình với các quan điểm sai lầm của các bạn. Dần dần  nhiều việc như vậy đã làm tôi tỉnh ngộ và nhận ra bản chất của các bạn. Tôi đã  nhận ra rằng các bạn phải như vậy, vì không phải vậy thì không phải là các bạn,  vì đó chính là&nbsp;<b>bản chất của các bạn</b>.</p>
 <p>
-Từ đó trong đầu tôi dần dần nhận ra rằng, những gì mà bị những kẻ như vậy xem  là thù nghịch và chống năm này qua tháng nọ thì những cái đó có lẽ phải là tốt.  Từ đó tôi mới tích cực tìm hiểu hơn về chính trị và lịch sử hiện đại VN, tìm  đọc/nghe các bài nói về bài viết của Bác Hồ, và dần "tự diễn biến lần  2" (<a href="https://sachhiem.net/THOISU_CT/ChuTh/ThieuLong01.php" target="_blank">xem thêm</a>).</p>
+Từ đó trong đầu tôi dần dần nhận ra rằng, những gì mà bị những kẻ như vậy xem  là thù nghịch và chống năm này qua tháng nọ thì những cái đó có lẽ phải là tốt.  Từ đó tôi mới tích cực tìm hiểu hơn về chính trị và lịch sử hiện đại VN, tìm  đọc/nghe các bài nói về bài viết của Bác Hồ, và dần "tự diễn biến lần  2" (<a href="/THOISU_CT/ChuTh/ThieuLong01" target="_blank">xem thêm</a>).</p>
 <p><a class="TuaDoLeft" name="end4" href="/THOISU_CT/#4"><b>Thói quen bẩn tính.</b></a></p>
 <p>Các bạn muốn người khác tôn trọng các bạn thì bớt đại ngôn đao to búa lớn, và  bỏ những thói quen bẩn tính. Ví dụ các bạn ra đường hay xuống phi trường VN các  bạn sẽ thấy chung quanh những tiếng nói cười, mọi người lo làm ăn, vui chơi,  học hành, nhưng các bạn vẫn nói được là "nhân dân đang lầm than đói khổ,  đang bị đàn áp". Việt Nam là 1 quốc gia có thu nhập trong nhóm trung bình  trên thế giới nhưng các bạn vẫn gọi là "một đất nước lầm than, quằn quại,  kiệt quệ, rên xiết trong nghèo đói" nghe cứ như là ở 1 nước tư bản đa đảng  châu Phi chết đói vậy.</p>
 <p>

@@ -3,7 +3,7 @@ layout: ../../../layouts/Article.astro
 title: "Tìm Hiểu Thiết Kế Khải Hoàn Môn Của Pháp Ở Paris"
 author: "SH tổng hợp"
 date: 2023-01-31
-source: "https://sachhiem.net/TONGIAO/tgS/SH96_KhaiHoanMon.php"
+source: "/TONGIAO/tgS/SH96_KhaiHoanMon"
 category: "Chính trị"
 lang: vi
 wordCount: 8392

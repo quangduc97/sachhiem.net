@@ -3,7 +3,7 @@ layout: ../../../layouts/Article.astro
 title: "Cách Viết Hoa Trong Tiếng Việt"
 author: "Đào Văn Bình"
 date: 2015-04-03
-source: "https://sachhiem.net/DAOVB/VH/DaovBinh_TiengViet1.php"
+source: "/DAOVB/VH/DaovBinh_TiengViet1"
 category: "Văn hóa"
 lang: vi
 wordCount: 3072
@@ -188,4 +188,4 @@ image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/VANHOC/Hinh/CapitalL
      <p align="right"> <i>(Trích Tuyển Tập 20 Năm Viết Văn xuất bản năm 2004)</i></p>
 ________________________
   <p><b>Phụ Lục:</b></p>
-  <p>-  <a href="https://sachhiem.net/EMAILS/SH/Sachhiem39.php">Vài Qui Tắc Chấm Câu, Khoảng Cách, Và Viết Hoa </a> (BBT sachhiem.net)</p>
+  <p>-  <a href="/EMAILS/SH/Sachhiem39">Vài Qui Tắc Chấm Câu, Khoảng Cách, Và Viết Hoa </a> (BBT sachhiem.net)</p>

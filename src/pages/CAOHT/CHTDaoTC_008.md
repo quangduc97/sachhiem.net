@@ -2,7 +2,7 @@
 layout: ../../layouts/Article.astro
 title: "CHƯƠNG BỐN:"
 author: "Cao Huy Thuần"
-source: "https://sachhiem.net/CAOHT/CHTDaoTC_008.php"
+source: "/CAOHT/CHTDaoTC_008"
 category: "Tác giả"
 lang: vi
 wordCount: 11431

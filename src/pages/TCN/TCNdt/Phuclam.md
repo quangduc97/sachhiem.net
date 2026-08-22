@@ -2,15 +2,14 @@
 layout: ../../../layouts/Article.astro
 title: "CHUYỆN ĐỘNG TRỜI :"
 author: "Phúc Lâm"
-source: "https://sachhiem.net/null"
+source: "/null"
 category: "Đối thoại"
 lang: vi
 wordCount: 3252
-image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.devhttps://sachhiem.net/images/nha.jpg"
 ---
 
 <table border="0" width="250" align="center">
-    <tbody><tr><td width="106"><a href="https://sachhiem.net/index.php"><img border="0" src="https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.devhttps://sachhiem.net/images/nha.jpg"></a>    </td>
+    <tbody><tr><td width="106">    </td>
 	<td width="134" valign="top" style="text-align:right">	<i>09 tháng 2, 2008
 	</i>	</td>
     </tr></tbody></table>

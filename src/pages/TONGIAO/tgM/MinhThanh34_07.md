@@ -3,7 +3,7 @@ layout: ../../../layouts/Article.astro
 title: "[VATICANOLOGY] Cờ Trắng Cho Ukraina: Nỗi Khiếp Sợ Cái Chết Hạt Nhân Của Quan Chức Cấp Cao Chính Quyền Vatican (Bài 5)"
 author: "Minh Thạnh"
 date: 2024-04-11
-source: "https://sachhiem.net/TONGIAO/tgM/MinhThanh34_07.php"
+source: "/TONGIAO/tgM/MinhThanh34_07"
 category: "Chính trị"
 lang: vi
 wordCount: 4755

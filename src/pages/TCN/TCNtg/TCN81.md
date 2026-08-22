@@ -2,17 +2,16 @@
 layout: ../../../layouts/Article.astro
 title: "của nền Thần học Độc thần giáo"
 author: "Trần Chung Ngọc"
-source: "https://sachhiem.net/TCN/TCNtg/TCN81.php"
+source: "/TCN/TCNtg/TCN81"
 lang: vi
 wordCount: 9786
-image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nha.jpg"
 ---
 
 <p class="Tuaduoi">Phật giáo, Khoa học và những Yếu tính </p>
 		
 		
 
-<p align="center"> <a href="/index"><img border="0" src="https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nha.jpg" align="middle" hspace="20"></a> 08 tháng 8,  2009</p>
+<p align="center">  08 tháng 8,  2009</p>
 		
 		
 		<p><b> </b><span class="First">C</span>ách đây hơn 25 thế kỷ, vào 

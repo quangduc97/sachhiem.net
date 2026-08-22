@@ -3,7 +3,7 @@ layout: ../../../layouts/Article.astro
 title: "Đôi Điều Với Chủ Chăn Đặng Hữu Nam"
 author: "FB Trần Thái Hà"
 date: 2019-11-09
-source: "https://sachhiem.net/THOISU_CT/FB/TranThaiHa.php"
+source: "/THOISU_CT/FB/TranThaiHa"
 category: "Chính trị"
 lang: vi
 wordCount: 2361

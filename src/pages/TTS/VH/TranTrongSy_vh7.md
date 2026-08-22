@@ -3,7 +3,7 @@ layout: ../../../layouts/Article.astro
 title: "Xét Lại Vụ Đánh Cuộc Của Pascal - 1"
 author: "Trần Trọng Sỹ"
 date: 2019-07-18
-source: "https://sachhiem.net/TTS/VH/TranTrongSy_vh7.php"
+source: "/TTS/VH/TranTrongSy_vh7"
 category: "Tác giả"
 lang: vi
 wordCount: 12242
@@ -20,7 +20,7 @@ image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/SACHNGOAI/Hinhanh/PE
   <p align="center"><img src="https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/SACHNGOAI/Hinhanh/PEOPLE/Blaise_pascal1.jpg" width="200" height="224" alt=""></p>
  <p align="center">Blaise Pascal (1623-1662)</p>
  <div class="indent50">  
-   <p><i>Học giả Trần Tiên Long đã có một bài viết có hiệu ứng Thôi Hiệu về đề tài này <a href="https://sachhiem.net/TTL/TranTL01.php">(Tôi không theo Pascal)</a>.
+   <p><i>Học giả Trần Tiên Long đã có một bài viết có hiệu ứng Thôi Hiệu về đề tài này <a href="/TTL/TranTL01">(Tôi không theo Pascal)</a>.
      Nếu không có bài của anh Trần Tiên Long, tôi chắc chắn không đặt nhiều chú ý đến vụ đánh bạc tâm linh của Pascal.
      Đưa lại đề tài này, tôi xin chân thành cám ơn tác giả TTL đã có sự thách thức rất ngoạn mục và sắc bén trước các luận cứ của Pascal, dù cách nay đã hơn 300 năm, vẫn được Nhà Thờ sử dụng như là một tiền đồn để bảo vệ cho thứ đức tin mà ngày nay, với một lịch sử tàn ác và đẫm máu, gần như toàn bộ trí thức nhân loại đều phải công nhận độc căn rất di hại của nó. Không có các tôn giáo độc thần, thế giới này đã/đang/sẽ tiết kiệm được ít nhất 2/3 xương máu và tài lực vì chiến tranh./ </i></p> </div>
  <div class="danbai"><p align="center"> <b>Gồm các mục:</b></p>
@@ -28,16 +28,16 @@ image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/SACHNGOAI/Hinhanh/PE
      <p>   - <a name="1" href="/TTS/#end1">I - Phân Loại Phạm Trù Tư Tưởng Của Pascal </a><br>
  - <a name="2" href="/TTS/#end2">II – Chủ Nghĩa Hoài Nghi</a></p>
      <p class="sub">A - Hoài nghi về Thượng Đế và thế giới do ngài tạo dựng</p>
-     <p>(xem tiếp <a href="https://sachhiem.net/TTS/VH/TranTrongSy_vh7a.php">Kỳ 2 =&gt;</a>)</p>
+     <p>(xem tiếp <a href="/TTS/VH/TranTrongSy_vh7a">Kỳ 2 =&gt;</a>)</p>
    <p class="sub">B – Hoài nghi Thánh Kinh và cách sống của giáo sĩ</p>
    <p class="sub">C - Hoài nghi về quyền thống trị của Giáo Hội.</p>
    <p class="sub1">C.1 phong trào Nhân Bản Phục Hưng.</p>
    <p class="sub1">C.2 Giả tạo chiếu vua để cướp nước</p>
    <p class="sub1">C.3&nbsp;Phân định, chia tách giáo quyền và thế quyền, hình thành chủ nghĩa quốc gia</p>
    <p class="sub1">C.4 Sự tan rã thành nhiều giáo hội Kytô độc lập với Rôma</p>
-     <p><a href="https://sachhiem.net/TTS/VH/TranTrongSy_vh7a.php">(Kỳ 3 =&gt;</a>)<br>
+     <p><a href="/TTS/VH/TranTrongSy_vh7a">(Kỳ 3 =&gt;</a>)<br>
        - III – Kỷ Nguyên Anh Sáng (Siècle des Lumières – Age of Enlightenment)</p>
-     <p><a href="https://sachhiem.net/TTS/VH/TranTrongSy_vh7a.php">(Kỳ 4 =&gt;</a>)<br>
+     <p><a href="/TTS/VH/TranTrongSy_vh7a">(Kỳ 4 =&gt;</a>)<br>
        - IV – Biện Chứng Vệ Chúa Của Pascal<br>
        - V – Pascal Qua Lăng Kính Của Voltaire <br>
        - VI – Lăng Kính Triết Lý Phổ Quát </p>
@@ -172,7 +172,7 @@ Nhà hàng  hải Ferdinand Magellan thì biết rằng quả đất hình cầu
 <p>Sau nhóm các triết gia hoài  nghi và có tư tưởng "<b>phản động</b>" đối với Thiên Chúa và Giáo Hội như vừa kể,  thì dưới đây là ba triết gia hoài nghi, nhưng không phản động, lại tìm cách <b>bào  chữa cho Thiên Chúa</b>: </p>
 <p class="PicRgt"><img src="https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/SACHNGOAI/Hinhanh/PEOPLE/ReneDescartes.jpg" width="150" height="176" alt=""> </p>
 <p>Người đi tiên phong của nhóm này là <b>René Descartes </b>(1596-1650) và tiếp đó dĩ  nhiên không ai khác hơn chính Blaise Pascal rồi đến Leibniz. </p>
-<p>  Người thứ nhất đưa ra những luận cứ cho rằng vì tôi là một cái gì hữu hạn và bất  toàn nên phải có cái vô hạn và toàn hảo siêu việt hơn tôi, đó chính là Thượng Đế.  Vào thời ấy, những lý luận cả vú lấp miệng em của Descartes gần như bất khả phản  bác. Thuở ấy ít ai biết về cách lập luận đối đãi tương tức, cái này có vì cái  kia có, cái này diệt vì cái kia diệt. (Mời xem <i>Công Giáo và Thượng Đế Theo  Thánh Kinh</i><a href="https://sachhiem.net/TTS/TG/TranTrongSy.php"> trên Sách Hiếm của cùng tác giả</a> để rõ hơn về các lập luận của  Descartes).</p>
+<p>  Người thứ nhất đưa ra những luận cứ cho rằng vì tôi là một cái gì hữu hạn và bất  toàn nên phải có cái vô hạn và toàn hảo siêu việt hơn tôi, đó chính là Thượng Đế.  Vào thời ấy, những lý luận cả vú lấp miệng em của Descartes gần như bất khả phản  bác. Thuở ấy ít ai biết về cách lập luận đối đãi tương tức, cái này có vì cái  kia có, cái này diệt vì cái kia diệt. (Mời xem <i>Công Giáo và Thượng Đế Theo  Thánh Kinh</i><a href="/TTS/TG/TranTrongSy"> trên Sách Hiếm của cùng tác giả</a> để rõ hơn về các lập luận của  Descartes).</p>
 <p>  Đối với hai triết gia danh tiếng Phục Hưng này, khoan nói họ đúng sai, Thượng Đế  thực hữu hay phi hữu, mà chỉ cần đặt ra câu hỏi:  <i>tại sao cần chứng minh  có Thượng Đế? </i></p>
 <p>  Tại sao không chứng minh có Descartes hay có Pascal, mà lại cần chứng minh có  Thượng Đế?  </p>
 <p>  Đây là lý luận ta thường thấy khi nói về Thiên Chúa, tựa như một tôi thần khi  bàn về uy quyền tuyệt đối của vị đế vương:  <i>Không một sự vật nào mà sự  tồn tại của nó người ta không thể truy nguồn từ đâu nó đến. Trên nguyên tắc, điều  này cũng có thể được hỏi về chính Thượng Đế, nhưng không những ngài không cần  nguyên nhân nào để tồn tại, mà ngay cái bản chất vô bờ của ngài đã là nguyên  nhân hoặc lý do mà ngài không cần bất kỳ nguyên nhân nào để tồn tại. -</i> [Il n’y a aucune chose existante de laquelle on ne puisse  demander quelle est la cause pourquoi elle existe. Cela en effet peut être  demandé de Dieu même, non qu'il ait besoin d'aucune cause pour exister, mais  parce que l'immensité même de sa nature est la cause ou la raison pour laquelle  il n'a besoin d'aucune cause pour exister – <b>Descartes</b>].</p>
@@ -191,7 +191,7 @@ Nhà hàng  hải Ferdinand Magellan thì biết rằng quả đất hình cầu
 <p>  Đại khái những biện luận này không cần tới bực thiên tài toán học cỡ Leibniz nặn  chất xám tìm ra, nhưng <b><i>chúng</i></b> lại được thế giới Kytô giáo vô cùng  trân quý. Ngày nay, người phương Tây không ai lý luận kiểu của Leibniz nữa,  nhưng tín đồ Kytô giáo của các nước kém phát triển như VN, Mỹ Châu La Tinh đều  gần như thuộc nằm lòng loại biện luận này. Họ chưa nói ta đã biết họ muốn nói  gì.</p>
 <p>  Để minh họa rõ về ba triết gia hoài nghi thời cuối Phục Hưng hộ giáo bào chữa  cho Thiên Chúa, ta có thể vẽ ra một cái tháp nhọn Thiên Chúa với ba cái đòn chống  ba góc, vì sợ cái tháp ấy nghiêng ngã. Hai đòn chống Descartes, Pascal ngày nay  gỗ đã mục chỉ còn dấu vết lụi tàn, nhưng cây cột Leibniz thì vẫn chống vững, và  có vẻ như cái tháp nghiêng hẳn về phía đó. Ta vẫn thấy biện luận của Leibniz  còn vung vãi khắp văn chương triết lý Kytô như:  Thiên Chúa có tạo dựng,  nhưng cái xấu, sự chết là do con người lựa chọn, Chúa cho ta sự sống, còn sống  như thế nào là tự do của chính ta. Và theo Leibniz thì thế giới của chúng ta là  thế giới tốt đẹp nhất của mọi thế giới có thể được tạo dựng bởi Thiên Chúa - <i>the existing world, the one that God created, is the best  of all possible worlds. </i></p>
 <p>  Người ta nghĩ rằng càng có nhiều người bênh vực, bảo vệ tín điều, tín lý của  Kytô giáo thì càng chứng tỏ nó mạnh; cũng như ngày nay, tín đồ càng đóng góp tiền  cho Giáo Hội để bao che ấu dâm, bao che xâm phạm tiết hạnh của các nữ tu Công  giáo, càng muốn thần quyền lấn áp thế quyền, để chứng tỏ Giáo Hội luôn bất khả  xâm phạm: không ai có quyền xử tội các giáo sĩ ngoài trừ kẻ đại diện cho Chúa.  Qua đó, ta càng thấy rõ Công Giáo La Mã luôn sử dụng các phương tiện quyền lực  để giải quyết các biến cố hay các vấn nạn bất lợi đối với giáo hội.</p>
-<p>(xem tiếp <a href="https://sachhiem.net/TTS/VH/TranTrongSy_vh7_Pascal.php">Kỳ 2: =&gt;</a>)</p>
+<p>(xem tiếp <a href="/TTS/VH/TranTrongSy_vh7_Pascal">Kỳ 2: =&gt;</a>)</p>
  <p>  <span class="green"><b>B –</b></span><b> Hoài nghi Thánh Kinh và cách sống của giáo sĩ</b>  </p>
 <p class="TacgiaL">Trần  Trọng Sỹ (Paris 2019) </p>
 

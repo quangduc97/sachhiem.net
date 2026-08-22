@@ -3,7 +3,7 @@ layout: ../../layouts/Article.astro
 title: "Gi"
 author: "Lý Thái Xuân"
 date: 2022-03-29
-source: "https://sachhiem.net/LTX/LyThaiTG34.php"
+source: "/LTX/LyThaiTG34"
 category: "Tác giả"
 lang: en
 wordCount: 4391

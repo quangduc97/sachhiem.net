@@ -2,10 +2,10 @@
 layout: ../../../layouts/Article.astro
 title: "Kể Chuyện Thánh Kinh: Chúa Chết, Sống Lại, và Bay Lên Trời (Trần Chung Ngọc)"
 author: "Trần Chung Ngọc"
-source: "https://sachhiem.net/TCN/TCNtg/TCN86.php"
+source: "/TCN/TCNtg/TCN86"
 lang: vi
 wordCount: 13076
-image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nha.jpg"
+image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/TONGIAO/IMG/BIBLE/Hand_ofGod.jpg"
 ---
 
 <p class="Tuaduoi">Nhân Dịp Năm Thánh Của Công Giáo Việt Nam</p>
@@ -13,7 +13,7 @@ image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nha.jpg"
 <p class="Tuaduoi">[Một khảo Luận Qua Cuốn Tân Ước]</p>
 
 
-<p align="center"> <a href="/index"><img border="0" src="https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nha.jpg" align="middle" hspace="20"></a>12 tháng 12,  2009</p>
+<p align="center"> 12 tháng 12,  2009</p>
 <p><span class="First"><b><font size="5">C</font></b></span>huyện Chúa chết, sống lại và bay lên trời đã được  Ca-tô Rô-maGiáo đặt thành một tín lý, nghĩa là một điều mà con chiên bắt  buộc phải tin, không tin thì không được lên thiên đường [mù] của Ca-tô  Rô-maGiáo, trong Kinh Tin Kính như sau: </p>
 <div style="padding-left: 50px"> ...[Giê-su] chịu nạn đời quan Phongxiô Philatô, bị đóng  đanh trên cây thập giá, chết, và táng xác; xuống hỏa ngục, ngày thứ ba từ  chết lại sống lại, bay lên trời ngổi lên trên tay phải của Gót, người Cha  phép tắc vô cùng; từ đó sẽ lại xuống phán xét kẻ sống và kẻ chết..
  <p>[(Jesus Christ) suffered under Pontitus Pilate, was   crucified, dead, and burried; he descended into hell, the third day he rose   again from the dead; he ascended into heaven and sitteth on the right hand   of God the Father Almighty from thence he shall come to judge the living   and the dead.]</p>
@@ -166,10 +166,10 @@ margin-bottom:.0001pt"> <i>Khi hội họp cùng họ (11 tông đồ), Giê-su 
 <p> <i>Trong cuộc hành trình qua cuốn Tân Ước tôi đã để cho câu chuyện  Phục sinh được nghe biết như mỗi tác giả đã ghi lại. Khi chúng ta ôm cùng  lúc tất cả những diễn tả của họ trong đầu óc, chúng ta khám phá ra rằng tất  cả những gì chúng ta biết về sự sống lại </i>[của Giê-su]<i> trong Kinh  Thánh là một chứng nhân không nhất quán, mâu thuẫn, và loại trừ lẫn nhau </i> [an inconsistent, contradictory, mutually exclusive witness.]<i> Tôi đã  theo dõi sự phát triển từ từ, từ những gì Paul viết vào thập niên 60 đến  Phúc Âm cuối cùng hoàn tất vào thập niên 90. Tôi đã để cho Kinh Thánh xóa  sạch những xác nhận của giáo hội, rằng đức tin Ki Tô được đặt trên lịch sử  một cách khách quan, những thực tại vật lý, quyền hành không thể sai lầm,  hay đều đúng.</i></p>
 <p><i> Tôi đã gây nên sự sợ hãi, và có thể là sự giận dữ, cho những người  không hiểu biết đã đặt đức tin của họ vào những gì viết trong Kinh Thánh mà  rút cuộc là những điều không đáng tin. Trong đầu óc của họ, đức tin mà họ  sống với, hoặc là phải phủ nhận công cuộc nghiên cứu này, hoặc phải từ bỏ  đức tin đó. Đúng vậy, những chuyện kể về sự sống lại của Giê-su không thể  biện minh được. </i><b><sup>6</sup></b></p>
 <p> Cốt tủy đức tin Ki-tô Giáo đặt căn bản trên lý thuyết thần học của Ki  Tô Giáo: Giê-su chết đi để chuộc cái tội tổ tông cho nhân loại, rồi sống  lại, tạo niềm hi vọng cho những người tin rằng một ngày nào đó cũng được  sống lại và ở bên cạnh Giê-su mà họ gọi là Chúa. Nhưng trình độ hiểu biết  của con người không còn ở thời đại bán khai hay thời Trung Cổ ở Âu Châu.  Trước những khám phá của khoa học về vũ trụ nhân sinh, Giáo hoàng Ca-tô John  Paul II đã công khai chấp nhận trước thế giới thuyết Big Bang về nguồn gốc  vũ trụ, thuyết Tiến Hóa về nguồn gốc con người, và phủ nhận luôn cả sự hiện  hữu của thiên đường và hỏa ngục. Cho nên lý thuyết thần học của ki Tô Giáo  về cái chết của Giê-su là để chuộc tội tổ tông của nhân loại đã không còn  giá trị, vì một lẽ rất giản dị là chẳng có cái gì là “tội tổ tông”, và  chuyện Giê-su sống lại cũng không còn ý nghĩa. </p>
-<p> Cũng vì vậy mà Linh mục James Kavanaugh đã để ra nguyên một chương 5,  từ trang 88 đến trang 102, trong cuốn Sự <i>Sinh Ra Của Thiên Chúa</i> (The  Birth of God) để viết về <a href="https://www.sachhiem.net/TCNtg/TCN36.php">“<i>Huyền thoại “cứu rỗi</i>”</a> (The Salvation Myth) <br>
- [Xin đọc: <a href="https://www.sachhiem.net/TCNtg/TCN36.php"> https://www.sachhiem.net/TCNtg/TCN36.php</a>]</p>
-<p> Và Giám Mục John Shelby Spong cũng để ra chương 6 trong cuốn <i>“Tại  Sao Ki Tô Giáo Phải Thay Đổi Hay Chết”</i> (Why Christianity Must Change or  Die), xuất bản năm 1998, từ trang 83 đến trang 99, để viết về đề tài: <a href="https://www.sachhiem.net/TCNtg/TCN37.php">“<i>Giê-su  Như Là Đấng Cứu Thế: Một Hình Ảnh Cần Phải Dẹp Bỏ</i>”</a> (Jesus As Rescuer: An  Image That Has To Go) <br>
- Xin đọc: [ <a href="https://www.sachhiem.net/TCNtg/TCN37.php"> https://www.sachhiem.net/TCNtg/TCN37.php</a> ]</p>
+<p> Cũng vì vậy mà Linh mục James Kavanaugh đã để ra nguyên một chương 5,  từ trang 88 đến trang 102, trong cuốn Sự <i>Sinh Ra Của Thiên Chúa</i> (The  Birth of God) để viết về <a href="/TCNtg/TCN36">“<i>Huyền thoại “cứu rỗi</i>”</a> (The Salvation Myth) <br>
+ [Xin đọc: <a href="/TCNtg/TCN36"> https://www.sachhiem.net/TCNtg/TCN36.php</a>]</p>
+<p> Và Giám Mục John Shelby Spong cũng để ra chương 6 trong cuốn <i>“Tại  Sao Ki Tô Giáo Phải Thay Đổi Hay Chết”</i> (Why Christianity Must Change or  Die), xuất bản năm 1998, từ trang 83 đến trang 99, để viết về đề tài: <a href="/TCNtg/TCN37">“<i>Giê-su  Như Là Đấng Cứu Thế: Một Hình Ảnh Cần Phải Dẹp Bỏ</i>”</a> (Jesus As Rescuer: An  Image That Has To Go) <br>
+ Xin đọc: [ <a href="/TCNtg/TCN37"> https://www.sachhiem.net/TCNtg/TCN37.php</a> ]</p>
 <p> Ngày nay, ngoài những con chiên cuồng đạo, đầu óc yếu kém, chẳng người  nào có đầu óc còn tin là xác chết sống lại và bay lên trời bất kể đến trọng  trường (sức hút của trái đất). Nhưng, như Thánh Paul đã viết, niềm tin của  họ chỉ là một niềm tin hão huyền, vô vọng, vì Chúa Giê-su không hề sống lại,  và đã biệt tăm suốt 2000 năm nay, và cũng chẳng có ai từ bất cứ đâu đến để  cho ai biết là mình đã được Chúa cứu rỗi. </p>
 <p> <u>Hiện nay Chúa còn đang bay</u>,  và một tỷ năm nữa may ra mới lên đến thiên đường để ngồi “lên trên tay phải  của Gót”. Nhưng các tín đồ Ki Tô đã nổi tiếng là kiên nhẫn nhất thế giới.  Họ đã chờ đợi Chúa của họ trở lại để cứu họ 2000 năm nay rồi, vậy chờ thêm <b>ba</b> tỷ năm nữa (Giê-su cần 1 tỷ năm để lên tới thiên đường, cần 1 tỷ năm để quay lại trái đất, và 1 tỷ năm nữa để mang xác của tín đồ lên thiên đường), tôi chắc cũng không thành vấn đề đối với họ. </p>
 <p> Nhưng tại sao trên thế giới ngày nay vẫn còn nhiều  người tin vào nhưng chuyện hoang đường trong Tân Ước như “Chúa chết, sống  lại, và bay lên trời”? Học giả Ki-Tô Russell Shorto đã giải đáp cho chúng  ta câu hỏi này. Sau khi duyệt qua những tác phẩm nghiên cứu về Giê-su trong  vòng 200 năm gần đây, đã đưa ra một kết luận trong cuốn “Sự thật trong Phúc  Âm” như sau:</p>

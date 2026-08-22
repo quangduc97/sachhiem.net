@@ -2,16 +2,16 @@
 layout: ../../../../layouts/Article.astro
 title: "CÔNG GIÁO HẮC SỬ III (kỳ 2)"
 author: "Trần Chung Ngọc"
-source: "https://sachhiem.net/TCN/TCNtg/CGHS/NCGHS0.php"
+source: "/TCN/TCNtg/CGHS/NCGHS0"
 lang: vi
 wordCount: 4479
-image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nha.jpg"
+image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/TONGIAO/IMG/VATICAN/INQUI/CGHS6.gif"
 ---
 
 <p class="Tuaduoi">[The Dark History of Catholicism] </p>
 
 
- <p align="center"><a href="https://www.sachhiem.net/"> <img border="0" src="https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nha.jpg"></a> đăng ngày 10 tháng 6, 2007 </p>
+ <p align="center"> đăng ngày 10 tháng 6, 2007 </p>
    <p>Toàn tập:  <a href="/TCN/NCGHS0">1</a>  <a href="/TCN/NCGHS1">2</a>  <a href="/TCN/NCGHS21">3</a>  <a href="/TCN/NCGHS22">4</a>  <a href="/TCN/NCGHS31">5</a>  <a href="/TCN/NCGHS32">6</a>  <a href="/TCN/NCGHS4">7</a>  <a href="/TCN/NCGHS5">8</a></p> 
    
 <p> <a name="n4t" class="TuaDoLeft" href="/TCN/#tit4t">  ▪   Phần III: Núi Tội Ác Thứ Ba (tt): <br>

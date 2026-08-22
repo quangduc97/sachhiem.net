@@ -3,7 +3,7 @@ layout: ../../../layouts/Article.astro
 title: "LM Nguyễn Văn Toản Giảng Tầm Bậy"
 author: "Mike Wilson"
 date: 2017-08-03
-source: "https://sachhiem.net/TONGIAO/tgM/MikeWilson_04.php"
+source: "/TONGIAO/tgM/MikeWilson_04"
 category: "Tác giả"
 lang: vi
 wordCount: 1870
@@ -99,14 +99,14 @@ image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/TONGIAO/IMG/LINHMUC/
    <hr>
   <p class="TuaDoLeft"> <b>Bài đọc thêm:</b></p>
   <p><b>1. Thư Gửi Hội Đồng Giám Mục:</b> Phản Đối Bài Giảng Của Linh Mục Giuse Nguyễn Văn Toản - Dòng Chúa Cứu Thế (Nguyễn Trọng Nghĩa)</p>
-  <p><a href="https://sachhiem.net/TONGIAO/tgN/NgTnghia_lmNgVToan.php">https://sachhiem.net/TONGIAO/tgN/NgTnghia_lmNgVToan.php</a></p>
+  <p><a href="/TONGIAO/tgN/NgTnghia_lmNgVToan">https://sachhiem.net/TONGIAO/tgN/NgTnghia_lmNgVToan.php</a></p>
   
-  <p><i>LTS: Giáo dân Nguyễn Trọng Nghĩa trước đây đã từng lên tiếng về một số vấn đề trong Giáo Hội CG Việt Nam, như&nbsp;<a href="https://sachhiem.net/TONGIAO/tgN/NgTnghia.php">Đề Nghị Của Một Giáo Dân - Khi Đức Tin Bị Thử Thách Ta Phải Làm Gì?</a>&nbsp;Phải nói là ngôn từ của ông Nghĩa vẫn còn chịu ảnh hưởng "văn hóa" và chế độ trong Giáo Hội Ca-tô, tức phải tỏ ra khúm núm, sợ hãi, trước mặt các giáo phẩm, và gọi những gì khác biệt là "ma quỷ". Người đã thoát ra khỏi tròng của Ca-tô sẽ chịu không thấu những cung cách như thế. Nhưng những tư tưởng của ông Nghĩa lại hoàn toàn khác biệt, không hề sợ hãi. Một giáo dân "biết nói" như thế thật là hiếm hoi. Chả trách, sau khi lá thư trước được phổ biến, ông nhà báo JB Nguyễn Hữu Vinh của DCCT cả quyết ông Nghĩa không phải là giáo dân, vì "không có giáo dân nào dám" có ý kiến với các bậc "Cha, Chúa thứ hai" cả! Không biết những người&nbsp;<b>đòi Dân Chủ</b>&nbsp;trong DCCT lấy đâu làm điểm tựa khi nghĩ rằng giáo dân phải đóng vai "hiền và ngu", không được có ý kiến với chính giáo hội của họ? Lá thư này đã được đăng trên web Đôi Mắt với lời giới thiệu ở phần Phụ Trang dưới đây. (SH)</i></p>
-  <p>Mời xem tiếp <a href="https://sachhiem.net/TONGIAO/tgN/NgTnghia_lmNgVToan.php">https://sachhiem.net/TONGIAO/tgN/NgTnghia_lmNgVToan.php</a></p>
+  <p><i>LTS: Giáo dân Nguyễn Trọng Nghĩa trước đây đã từng lên tiếng về một số vấn đề trong Giáo Hội CG Việt Nam, như&nbsp;<a href="/TONGIAO/tgN/NgTnghia">Đề Nghị Của Một Giáo Dân - Khi Đức Tin Bị Thử Thách Ta Phải Làm Gì?</a>&nbsp;Phải nói là ngôn từ của ông Nghĩa vẫn còn chịu ảnh hưởng "văn hóa" và chế độ trong Giáo Hội Ca-tô, tức phải tỏ ra khúm núm, sợ hãi, trước mặt các giáo phẩm, và gọi những gì khác biệt là "ma quỷ". Người đã thoát ra khỏi tròng của Ca-tô sẽ chịu không thấu những cung cách như thế. Nhưng những tư tưởng của ông Nghĩa lại hoàn toàn khác biệt, không hề sợ hãi. Một giáo dân "biết nói" như thế thật là hiếm hoi. Chả trách, sau khi lá thư trước được phổ biến, ông nhà báo JB Nguyễn Hữu Vinh của DCCT cả quyết ông Nghĩa không phải là giáo dân, vì "không có giáo dân nào dám" có ý kiến với các bậc "Cha, Chúa thứ hai" cả! Không biết những người&nbsp;<b>đòi Dân Chủ</b>&nbsp;trong DCCT lấy đâu làm điểm tựa khi nghĩ rằng giáo dân phải đóng vai "hiền và ngu", không được có ý kiến với chính giáo hội của họ? Lá thư này đã được đăng trên web Đôi Mắt với lời giới thiệu ở phần Phụ Trang dưới đây. (SH)</i></p>
+  <p>Mời xem tiếp <a href="/TONGIAO/tgN/NgTnghia_lmNgVToan">https://sachhiem.net/TONGIAO/tgN/NgTnghia_lmNgVToan.php</a></p>
   
   <p><b>2. Ý Nghĩa "Thức Canh" Đã Bị Xoay Méo Để Lèo Lái Sang Mục Đích Chính Trị</b></p>
   <p>(Mike Wilson)</p>
-  <p><a href="https://sachhiem.net/TONGIAO/tgM/MikeWilson_01.php">https://sachhiem.net/TONGIAO/tgM/MikeWilson_01.php</a></p>
+  <p><a href="/TONGIAO/tgM/MikeWilson_01">https://sachhiem.net/TONGIAO/tgM/MikeWilson_01.php</a></p>
 
    
 </i>

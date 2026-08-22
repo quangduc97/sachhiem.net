@@ -1,7 +1,7 @@
 ---
 layout: ../../layouts/Article.astro
 title: "Tác giả Nguyễn Đắc Xuân"
-source: "https://sachhiem.net/Hình tác giả thời sinh viên Đại Học Sư Phạm (1962-1966)"
+source: "/Hình tác giả thời sinh viên Đại Học Sư Phạm (1962-1966)"
 lang: vi
 wordCount: 964
 image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/NDX/IMG/NDX.jpg"
@@ -39,7 +39,7 @@ image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/NDX/IMG/NDX.jpg"
 			cả. Từ xưa đến nay tôi luôn nhận mình chỉ là một cây bút (a pen) ở 
 			Huế thôi. Xin các anh chị từ nay cứ gọi tên tôi là đủ rồi." </i></p>
 			<p><a href="/NDX/NDXdir" class="nguonL">https://sachhiem.net/NDX/NDXdir.php</a></p>
-			<p align="center"><a href="/index">	<img border="0" src="https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nha.jpg"></a>  <i><font face="Times New Roman" size="5" color="#000080"> <b>Đôi hàng về tác giả</b></font></i></p>
+			<p align="center">  <i><font face="Times New Roman" size="5" color="#000080"> <b>Đôi hàng về tác giả</b></font></i></p>
 			
 			<p>Cha: Người Thừa Thiên Huế. Mẹ: Người Thanh Hoá. </p>
 			<p>Sinh ngày 15-7-1937 tại Huế. </p>

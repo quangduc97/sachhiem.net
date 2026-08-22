@@ -3,7 +3,7 @@ layout: ../../../layouts/Article.astro
 title: "Nỗi Buồn Con Chốt Thí"
 author: "Huyền Lam"
 date: 2012-10-22
-source: "https://sachhiem.net/XAHOI/xhH/HuyenLam0.php"
+source: "/XAHOI/xhH/HuyenLam0"
 category: "Chính trị"
 lang: vi
 wordCount: 867
@@ -94,4 +94,4 @@ image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/THOISU_CT/Hinh/HOAKY
           <p>___________________</p>
           <p><b>Cùng đề tài:</b></p>
           <p>- <i>Babylift Operation – Thêm Một Sự Thật Đau Lòng
-Về Chiến Tranh Việt Nam</i> (Đinh Cương) <a href="https://sachhiem.net/THOISU_CT/ChuD/DinhCuong-1.php">https://sachhiem.net/THOISU_CT/ChuD/DinhCuong-1.php</a></p>
+Về Chiến Tranh Việt Nam</i> (Đinh Cương) <a href="/THOISU_CT/ChuD/DinhCuong-1">https://sachhiem.net/THOISU_CT/ChuD/DinhCuong-1.php</a></p>

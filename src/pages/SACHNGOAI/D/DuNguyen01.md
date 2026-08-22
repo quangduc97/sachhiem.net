@@ -3,7 +3,7 @@ layout: ../../../layouts/Article.astro
 title: "Hải Quân Hoa Kỳ Đã Bán Chiến Tranh Việt Nam Như Thế Nào?"
 author: "GARETH PORTER / TRUTHDIG"
 date: 2023-11-11
-source: "https://sachhiem.net/SACHNGOAI/D/DuNguyen01.php"
+source: "/SACHNGOAI/D/DuNguyen01"
 category: "Chính trị"
 lang: vi
 wordCount: 4835

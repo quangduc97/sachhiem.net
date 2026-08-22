@@ -3,7 +3,7 @@ layout: ../../../layouts/Article.astro
 title: "Một Viên Chức Vatican Bị Bắt Trong Âm Mưu Tham Nhũng"
 author: "Nicole Winfield /AP"
 date: 2013-07-02
-source: "https://sachhiem.net/SACHNGOAI/Q/QuocViet03.php"
+source: "/SACHNGOAI/Q/QuocViet03"
 category: "Sách ngoại văn"
 lang: vi
 wordCount: 206

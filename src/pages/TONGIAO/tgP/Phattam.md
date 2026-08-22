@@ -2,7 +2,7 @@
 layout: ../../../layouts/Article.astro
 title: "XIN DÀNH CHO MỘT PHÚT TỈNH TÂM -"
 author: "Hoàng Đông Tà"
-source: "https://sachhiem.net/null"
+source: "/null"
 category: "Tác giả"
 lang: vi
 wordCount: 2593

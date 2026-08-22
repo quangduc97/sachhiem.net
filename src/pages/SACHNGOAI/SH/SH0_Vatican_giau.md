@@ -3,7 +3,7 @@ layout: ../../../layouts/Article.astro
 title: "Giáo Hội Thiên Chúa Giáo Giàu Tới Mức Nào? Khó Ai Biết Được"
 author: "Emily Stewart/ thestreet.com"
 date: 2015-10-01
-source: "https://sachhiem.net/SACHNGOAI/SH/SH0_Vatican_giau.php"
+source: "/SACHNGOAI/SH/SH0_Vatican_giau"
 category: "Chính trị"
 lang: vi
 wordCount: 5506

@@ -2,15 +2,14 @@
 layout: ../../../layouts/Article.astro
 title: "Vũ Khí Thay Đổi Nếp Sống"
 author: "Vũ Huy Quang"
-source: "https://sachhiem.net/THOISU_CT/VHQ/VuHuyQuang02.php"
+source: "/THOISU_CT/VHQ/VuHuyQuang02"
 category: "Chính trị"
 lang: vi
 wordCount: 1638
-image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nha.jpg"
+image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/LICHSU/IMG/JAPAN/Tokugawa_1.jpg"
 ---
 
-<p align="center"><a href="https://www.sachhiem.net/">
-<img border="0" src="https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nha.jpg"></a>01 tháng 7, 2010		 
+<p align="center">01 tháng 7, 2010		 
  </p>
 		<p>	<span class="First">“Thu 
 		kiếm”</span> là chiến dịch tước khí giới nông dân, đã do Tướng Toyotomi 

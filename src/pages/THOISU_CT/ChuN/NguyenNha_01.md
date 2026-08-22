@@ -3,7 +3,7 @@ layout: ../../../layouts/Article.astro
 title: "Trả Lời Nguyễn Nhã Là Ai"
 author: "TS. Nguyễn Nhã"
 date: 2014-05-25
-source: "https://sachhiem.net/THOISU_CT/ChuN/NguyenNha_01.php"
+source: "/THOISU_CT/ChuN/NguyenNha_01"
 category: "Chính trị"
 lang: vi
 wordCount: 20507

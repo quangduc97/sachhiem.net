@@ -3,7 +3,7 @@ layout: ../../layouts/Article.astro
 title: "Một Hình Ảnh Thực Của Chân Lý Vô Thường"
 author: "Bác Sĩ Richard Teo"
 date: 2014-07-29
-source: "https://sachhiem.net/VANHOC/DrRichardTeo.php"
+source: "/VANHOC/DrRichardTeo"
 category: "Chính trị"
 lang: vi
 wordCount: 3378

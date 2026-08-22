@@ -3,7 +3,7 @@ layout: ../../../layouts/Article.astro
 title: "Nỗi Lo Sợ Của Người Mỹ Về Bàn Tay Lông Lá Của Vatican Và Tính Phản Quốc Của Người Ca-tô Rô-Ma Giáo"
 author: "Ri Nguyễn tổng hợp"
 date: 2015-10-12
-source: "https://sachhiem.net/TONGIAO/tgN/NguyenRi_16.php"
+source: "/TONGIAO/tgN/NguyenRi_16"
 category: "Tác giả"
 lang: vi
 wordCount: 1169
@@ -45,7 +45,7 @@ Tôi tin vào một nước Mỹ không phải là nước Ca-tô Rô-Ma Giáo, 
 <p class="TacgiaL"> Ri Nguyễn dịch </p>
  <p>________________</p>
  <p><b>Bài đọc thêm:</b></p>
- <p>- <a href="https://sachhiem.net/NMQ/TAMTHU/NMQtt_19.php#n3">Bàn tay của Giáo Hội La Mã trong cuộc nội chiến Hoa Kỳ </a>(Nguyễn Mạnh Quang)</p>
+ <p>- <a href="/NMQ/TAMTHU/NMQtt_19#n3">Bàn tay của Giáo Hội La Mã trong cuộc nội chiến Hoa Kỳ </a>(Nguyễn Mạnh Quang)</p>
  <p>________________ </p>
  <p>Các bài của Nguyễn Ri: link<br>
-<a href="https://sachhiem.net/TONGIAO/tgN/ListRiNguyen.inc.php" target="_blank">https://sachhiem.net/TONGIAO/tgN/ListRiNguyen.inc.php</a></p>
+<a href="/TONGIAO/tgN/ListRiNguyen.inc" target="_blank">https://sachhiem.net/TONGIAO/tgN/ListRiNguyen.inc.php</a></p>

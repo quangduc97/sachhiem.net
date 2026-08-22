@@ -3,7 +3,7 @@ layout: ../../../layouts/Article.astro
 title: "Bữa tiệc tình dục của các linh mục Ba Lan kết thúc bằng sự can thiệp của cảnh sát"
 author: "Marcin Pietraszewski*"
 date: 2023-09-27
-source: "https://sachhiem.net/TONGIAO/FB/FBHoNgocThang.php"
+source: "/TONGIAO/FB/FBHoNgocThang"
 category: "Chính trị"
 lang: vi
 wordCount: 375

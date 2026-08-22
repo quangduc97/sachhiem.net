@@ -3,7 +3,7 @@ layout: ../../layouts/Article.astro
 title: "Tưởng Niệm Ba Ngày Lịch Sử"
 author: "Cao Huy Thuần"
 date: 2014-04-06
-source: "https://sachhiem.net/CAOHT/CHT5.php"
+source: "/CAOHT/CHT5"
 category: "Tác giả"
 lang: vi
 wordCount: 2004

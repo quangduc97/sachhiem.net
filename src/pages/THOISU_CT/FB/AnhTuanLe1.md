@@ -2,19 +2,17 @@
 layout: ../../../layouts/Article.astro
 title: "Việt Nam"
 author: "FB Anh-Tuan Le"
-source: "https://sachhiem.net/THOISU_CT/FB/AnhTuanLe1.php"
+source: "/THOISU_CT/FB/AnhTuanLe1"
 category: "Chính trị"
 lang: vi
 wordCount: 3120
-image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nha.jpg"
+image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/LICHSU/IMG/FLAG/Cobay.GIF"
 ---
 
 <p class="Tuaduoi">(45 Năm Thống Nhất Đất Nước)</p>
 
 
- <p align="center"><a href="https://www.sachhiem.net/">
-<img border="0" src="https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nha.jpg"></a> 
- </p>
+ 
  <div class="tomluoc">
    <p><i>Sáu chữ "đồng bào miền Nam ruột thịt", tuy nghe đơn sơ, chân chất, nhưng bao hàm ý nghĩa vô cùng vĩ đại, nó có thể được thay bằng sáu chữ: "bảo tồn nguyên khí dân tộc". Nếu không có sáu chữ linh thiêng này, miền Bắc cũng sẽ như nhà Trịnh, miền Nam cũng sẽ như nhà Nguyễn, hoặc như Bắc Hàn, Nam Hàn, sẽ chẳng bao giờ có ngày 30 tháng 4 đưa dân tộc đến vinh quang hôm nay ! </i></p>
  </div>
@@ -60,7 +58,7 @@ image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nha.jpg"
 <p align="center">Ảnh Ngô Đình Diệm quì lụy trước Hồng Y Spellman ở New York trong thập niên 1950</p>
 <p align="center"><a href="https://www.mosquitonet.com/~prewett/spellpiccap.html">Hàng ghi chú:</a><i> "The Cardinal's Vietnam involvement started in the early 1950's when he met Ngo Dinh Diem, then a layman at a [Roman Catholic] Catholic seminary in New York. Spellman helped propel Diem into the leadership of South Vietnam but broke with him before Diem's assassination. He did not, however, lessen his support of the war effort."</i></p>
 <p>Rồi nhờ công liếm giày cho Hồng Y Spellman, tên đại gian manh lông lá này đã vận động Mỹ đưa Diệm về VN, hất cẳng Bảo Đại để làm tay sai cho Vatican &amp; Mỹ, nắm quyền tại miền nam VN, hòng biến toàn bộ người Việt trở thành bầy zombies (thây ma sống) phục vụ cho Công giáo La Mã.</p>
-<p>Chắc ai cũng từng đọc bức thư của Ngô Đình Thục viết cho Pháp kể lể công lao tam đại nhà nó phục vụ giặc xâm lăng như thế nào, tưởng cũng đủ để biết bộ mặt thực của chế độ miền Nam do giòng họ Ngô Đình lãnh đạo (mời xem chi tiết, có bản dịch trong bài <i>Giám Mục NGÔ ĐÌNH THỤC: Thư Gửi Toàn Quyền Đông Dương</i> - Bùi Kha, <a href="https://sachhiem.net/BUIKHA/BuiKha.php">https://sachhiem.net/BUIKHA/BuiKha.php</a>)</p>
+<p>Chắc ai cũng từng đọc bức thư của Ngô Đình Thục viết cho Pháp kể lể công lao tam đại nhà nó phục vụ giặc xâm lăng như thế nào, tưởng cũng đủ để biết bộ mặt thực của chế độ miền Nam do giòng họ Ngô Đình lãnh đạo (mời xem chi tiết, có bản dịch trong bài <i>Giám Mục NGÔ ĐÌNH THỤC: Thư Gửi Toàn Quyền Đông Dương</i> - Bùi Kha, <a href="/BUIKHA/BuiKha">https://sachhiem.net/BUIKHA/BuiKha.php</a>)</p>
 <p>Dĩ nhiên là người Cộng Sản cũng từng gây ra nhiều sai lầm làm đau khổ một bộ phận không nhỏ người Việt.</p>
 <p>Nhưng trên đường cứu nước, chưa hề có đảng phái nào trơn tru đi đến thành công một cách dễ dàng mà không có sai phạm. Tuy nhiên mục đích chính của đảng CSVN vẫn là hướng đến việc giành độc lập và bảo vệ chủ quyền lãnh thổ từ khi đảng được Hồ Chí Minh thành lập tại hang Pắc Pó vào năm 1930.</p>
 <p>Ngay bản thân tôi rất ghét CS, nhưng từ khi hiểu được từng bước khó khăn của đảng trong công cuộc cứu nước, đưa đến vinh quang cho dân tộc như ngày nay, thay vì thù ghét, tôi đã cảm thấy đã đến lúc nên biết chung tay xây dựng một cộng đồng dân tộc trên hướng đi đến vinh quang. Nhưng tôi khác Hoàng Duy Hùng ở chỗ, HDH gần như tán dương mọi lãnh vực do đảng điều phối, còn với tôi, tôi cho rằng VN còn rất nhiều khiếm khuyết cần được kiện toàn để đi đến chỗ thống nhất lòng dân, đó là phải tiêu diệt toàn bộ nạn tham ô lãng phí, tuyệt đối phải xây dựng một xã hội dựa trên lương tâm, trí tuệ và sự thực. Và, để có lương tâm đúng, sự thật đúng, thì việc đầu tiên, là phải dạy lịch sử các tôn giáo cùng với sự phát triển văn hóa của chúng trong nhà trường, cho toàn dân biết rõ thực chất văn hóa và lịch sử của Phật giáo, Công Giáo, Tin Lành, Hồi Giáo, Khổng Giáo...và hãy xem các tôn giáo như các định hướng văn hóa trước khi lựa chọn cho mỗi người một nền tảng tâm linh đạo đức.</p>

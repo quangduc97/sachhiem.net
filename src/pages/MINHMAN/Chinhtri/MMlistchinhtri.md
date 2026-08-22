@@ -1,7 +1,7 @@
 ---
 layout: ../../../layouts/Article.astro
 title: "ChinhtriMinhMan"
-source: "https://sachhiem.net/null"
+source: "/null"
 lang: en
 wordCount: 106
 ---

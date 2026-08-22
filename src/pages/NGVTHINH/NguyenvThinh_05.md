@@ -3,7 +3,7 @@ layout: ../../layouts/Article.astro
 title: "Đổi Mới Sử Học Không Có Nghĩa Là Tô Đen Thành Trắng"
 author: "BS. Nguyễn Văn Thịnh"
 date: 2015-01-17
-source: "https://sachhiem.net/NGVTHINH/NguyenvThinh_05.php"
+source: "/NGVTHINH/NguyenvThinh_05"
 category: "Chính trị"
 lang: vi
 wordCount: 6689
@@ -31,7 +31,7 @@ image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/LICHSU/IMG/SACH/XuaN
   <p class="TuaDoLeft"><b>Lê Văn Duyệt</b> (1763–1832): </p>
   <p>Theo  phò chúa Nguyễn Phúc Ánh từ lúc 17 tuổi, một lòng trung quân, lập nhiều công  tích. Ít học mà sắc sảo. Làm tướng nơi trận mạc thì dũng lược. Làm quan trấn  trị thì liêm chính, cương trực, có tầm nhìn xa và chăm lo cho dân, đem lại sự  yên bình an lạc. Trong cương vị Tổng trấn Gia Định mà trông coi từ Bình Thuận  tới Cà Mau trong buổi đầu dựng triều đại mới đã giữ yên bờ cõi phía Nam, không  để mất một tấc đất của các tiên chúa đã mở mang, được dân chúng tôn thần. Sau  khi ông mất, vua Minh Mạng sẵn lòng đố kỵ <a href="/NGVTHINH/#nstar">(*) </a>lại nghe những lời sàm tấu của phái  nịnh thần từng có nhiều ân oán nên bị nhà vua lệnh tước hết phẩm trật, san  phẳng mộ phần và đặt lên tảng đá khắc bia sỉ nhục: “<i>Quyền yêm Lê Văn Duyệt phục pháp xứ</i>” (Nơi quan lộng quyền Lê Văn  Duyệt chịu tội chết), ghi rõ tội danh với những dây lòi tói xiềng xích nặng nề  trừng trị tên tù trọng tội! </p>
   <div class="indent50">
-  <p><b>(*) Chú thích của SH:</b> Muốn biết lý do của sự đố kỵ này, xin đọc đề mục<a href="https://sachhiem.net/NMQ/VANHOAXD/NMQvh00.php#n_mot"> "<i>Cố Gắng Vận Động Đưa Hoàng Tôn Đán Lên Kế Nghịệp Vua Gia Long</i>"</a> của GS Nguyễn Mạnh Quang: ... <i>Đứng trước tình trạng này, các tay tổ gián điệp Da-tô mang danh các nhà truyền giáo được lệnh ngầm vận động các nhân vật thế lực trong chính quyền triều đình Huế (trong đó có Lê Văn Duyệt) để đưa Hoàng Tôn Đán (đã rửa tội theo đạo Da-tô) lên làm Đông Cung Thái Tử, nhưng thất bại. Không biết vì Hoàng Tôn Đán quá nhỏ tuổi, hay vì Vua Gia Long đã nhìn thấy rõ mối hiểm họa Da-tô ở đằng sau Hoàng Tôn Đán, cho nên năm 1816, nhà vua mới chọn  Hòang Tử Đảm, người con thứ tư, đưa lên làm Đông Cung Thái Tử. (Khi chính thức lên ngôi, Thái Tử Đảm lấy đế hỉệu là Minh Mạng). Việc này làm cho Giáo Hội La Mã và bọn truyền giáo Da-tô tại Việt Nam chống lại triều đình Huế một cách điên cuồng, rồi có những hành động liều lĩnh can thiệp trắng trợn vào việc chọn người đưa lên nối nghiệp nhà Nguyễn</i>.....</p></div>
+  <p><b>(*) Chú thích của SH:</b> Muốn biết lý do của sự đố kỵ này, xin đọc đề mục<a href="/NMQ/VANHOAXD/NMQvh00#n_mot"> "<i>Cố Gắng Vận Động Đưa Hoàng Tôn Đán Lên Kế Nghịệp Vua Gia Long</i>"</a> của GS Nguyễn Mạnh Quang: ... <i>Đứng trước tình trạng này, các tay tổ gián điệp Da-tô mang danh các nhà truyền giáo được lệnh ngầm vận động các nhân vật thế lực trong chính quyền triều đình Huế (trong đó có Lê Văn Duyệt) để đưa Hoàng Tôn Đán (đã rửa tội theo đạo Da-tô) lên làm Đông Cung Thái Tử, nhưng thất bại. Không biết vì Hoàng Tôn Đán quá nhỏ tuổi, hay vì Vua Gia Long đã nhìn thấy rõ mối hiểm họa Da-tô ở đằng sau Hoàng Tôn Đán, cho nên năm 1816, nhà vua mới chọn  Hòang Tử Đảm, người con thứ tư, đưa lên làm Đông Cung Thái Tử. (Khi chính thức lên ngôi, Thái Tử Đảm lấy đế hỉệu là Minh Mạng). Việc này làm cho Giáo Hội La Mã và bọn truyền giáo Da-tô tại Việt Nam chống lại triều đình Huế một cách điên cuồng, rồi có những hành động liều lĩnh can thiệp trắng trợn vào việc chọn người đưa lên nối nghiệp nhà Nguyễn</i>.....</p></div>
   <p>Đến đời vua Thiệu Trị rồi Tự Đức đã giải oan, phục  chức cho ông và nhân dân vốn sẵn lòng kính yêu mến mộ, phục dựng đền thờ coi  như vị Thành hoàng xứ sở. Tuy nhiên bởi lòng ngưỡng mộ công lao to lớn đánh Nam  dẹp Bắc của triều đại Quang Trung hiển hách mà mang lòng oán hận tân triều để  đất nước lọt vào tay thế lực xâm lược mới phương tây, người đời có lúc xem nhẹ  cả những công thần của triều đại đó. Nghiệt ngã thay, triều đại nào để mất lòng  dân thì không sao tồn tại được. </p>
   <p>Vua Quang Trung mất giữa lúc chưa kịp chấn  chỉnh cơ đồ là mầm bất ổn, nội triều càng thêm rối ren, vua trẻ bất tài, các  bậc đại thần không thể hòa hợp với nhau, chính triều bê bối… Dân chúng ngày càng  mất lòng tin thì cơ nghiệp làm sao giữ nổi? Nhưng khi nỗi nhục vong quốc đã qua  đi và lắng dịu dần, hậu thế được bình tâm để nhận rõ điều sai đúng của từng sự  việc, con người. </p>
   <p align="center"><img src="https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/LICHSU/IMG/NHANVAT/LeVanDuyet_VNCH1966.jpg" width="450" height="221" longdesc="https://vi.wikipedia.org/wiki/L%C3%AA_V%C4%83n_Duy%E1%BB%87t"></p>
@@ -102,19 +102,19 @@ image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/LICHSU/IMG/SACH/XuaN
    <p>___________________</p>
    <p><b>Những bài cùng đề tài:</b></p>
    <p>- Hành Trình Đi Tìm Ông Trương Vĩnh Ký Nguyễn Thái An)<br>
-<a href="https://sachhiem.net/LICHSU/N/NguyenThaiAn.php">https://sachhiem.net/LICHSU/N/NguyenThaiAn.php</a></p>
+<a href="/LICHSU/N/NguyenThaiAn">https://sachhiem.net/LICHSU/N/NguyenThaiAn.php</a></p>
    <p>- Đắc Lộ, Trương Vĩnh Ký &amp; Chữ Quốc Ngữ của Tác Giả Minh Vân (Bùi Kha)
-<a href="https://sachhiem.net/BUIKHA/BuiKha25a.php">https://sachhiem.net/BUIKHA/BuiKha25a.php</a></p>
+<a href="/BUIKHA/BuiKha25a">https://sachhiem.net/BUIKHA/BuiKha25a.php</a></p>
    <p>- Lá Thư (1) Gửi Quí Vị Cựu Giáo Sư Và Học Sinh Trường Kiểu Mẫu Thủ Đức Hiền tài hay Việt gian? (Nguyễn Mạnh Quang)<br>
-<a href="https://sachhiem.net/NMQ/NMQ011.php">https://sachhiem.net/NMQ/NMQ011.php</a></p>
+<a href="/NMQ/NMQ011">https://sachhiem.net/NMQ/NMQ011.php</a></p>
    <p>- Ngắn Gọn Về Thầy Thông Ngôn Trương Vĩnh Ký (Nguyễn Thái An)
-<a href="https://sachhiem.net/LICHSU/N/NguyenThaiAn04.php">https://sachhiem.net/LICHSU/N/NguyenThaiAn04.php</a></p>
+<a href="/LICHSU/N/NguyenThaiAn04">https://sachhiem.net/LICHSU/N/NguyenThaiAn04.php</a></p>
    <p>- Trương Vĩnh Ký, Yêu Nước? Đối Luận với ông Trần Hữu Tá (Bùi Kha)
-<a href="https://sachhiem.net/BUIKHA/BuiKha19.php">https://sachhiem.net/BUIKHA/BuiKha19.php</a></p>
+<a href="/BUIKHA/BuiKha19">https://sachhiem.net/BUIKHA/BuiKha19.php</a></p>
   <p>- Góp Ý Về Bài Của Ông Đặng Văn Việt Góp Ý Sửa Đổi Hiến Pháp (Nguyễn Mạnh Quang)<br>
-     <a href="https://sachhiem.net/NMQ/NMQ041.php">https://sachhiem.net/NMQ/NMQ041.php</a></p>
+     <a href="/NMQ/NMQ041">https://sachhiem.net/NMQ/NMQ041.php</a></p>
 	<p>- Trương Vĩnh Ký phản bội Tổ quốc, sao lại gọi là yêu nước ? (Bùi Kha) <br>
    <a href="/BUIKHA/BuiKha25b_TVK">https://sachhiem.net/BUIKHA/BuiKha25b_TVK.php</a> </p>
       <p>- Đổi Mới Sử Học Không Có Nghĩa Là Tô Đen Thành Trắng (BS. Nguyễn Văn Thịnh)
-<a href="https://sachhiem.net/NGVTHINH/NguyenvThinh_05.php">https://sachhiem.net/NGVTHINH/NguyenvThinh_05.php</a></p>
+<a href="/NGVTHINH/NguyenvThinh_05">https://sachhiem.net/NGVTHINH/NguyenvThinh_05.php</a></p>
 <p>___________________</p>

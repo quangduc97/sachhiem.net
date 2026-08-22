@@ -6,7 +6,7 @@ source: "https://vietbao.vn/Xa-hoi/Bang-chung-rung-dong-the-gioi-Bin-Laden-lam-v
 category: "Chính trị"
 lang: vi
 wordCount: 1519
-image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nha.jpg"
+image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/Hinh/Sep1101/SibelEdmonds.jpg"
 ---
 
 <div align="center" style="position: relative; left: 0; top: 0">
@@ -35,8 +35,7 @@ image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nha.jpg"
 	<tbody><tr><td bgcolor="White" align="justify" valign="top">
 		
 			<table border="0" cellpadding="10" width="600" cols="2"><tbody><tr>
-				<td><a href="/index">
-				<img src="https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nha.jpg" border="0"></a></td>
+				<td></td>
 				
 	<td valign="top" width="175">05 tháng 9, 2010
 	</td></tr></tbody></table>

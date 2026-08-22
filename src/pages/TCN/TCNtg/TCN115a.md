@@ -2,19 +2,19 @@
 layout: ../../../layouts/Article.astro
 title: "CẢI ĐẠO ? CÓ ĐÁNG LO KHÔNG ?"
 author: "Trần Chung Ngọc"
-source: "https://sachhiem.net/TCN/TCNtg/TCN115a.php"
+source: "/TCN/TCNtg/TCN115a"
 category: "Tác giả"
 lang: vi
 wordCount: 11918
-image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nha.jpg"
+image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.devhttps://sachhiem.net/SACHNGOAI/Hinhanh/BIASACH/Deline&Fall.jpg"
 ---
 
 <table border="0" width="250" align="center">
- <tbody><tr><td width="100"><a href="/index"><img border="0" src="https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nha.jpg"></a></td>
+ <tbody><tr><td width="100"></td>
     <td valign="top" width="275"><p> October 30, 2011</p></td>
     </tr></tbody></table>
     
-        <p><a href="https://sachhiem.net/TCN/TCNtg/TCN115.php" title=" Cải đạo" target="_top"> &lt;- (đọc phần 1)</a></p>  
+        <p><a href="/TCN/TCNtg/TCN115" title=" Cải đạo" target="_top"> &lt;- (đọc phần 1)</a></p>  
 <p>Vài Nét Về Sự Suy Thoái Của Ki Tô Giáo Trên Thế Giới -</p>
 <hr>
 <p class="TuaDoLeft">Vài Nét Về Sự Suy Thoái Của Ki Tô Giáo Trên Thế Giới.</p>
@@ -322,25 +322,25 @@ https://www.flipsnack.com/my-flipping-books/details?flip=43aa1eeba94b7fb65666f36
     </p>
 
 <p><br>
-  ► <a href="https://sachhiem.net/TONGIAO/tgN/NGTRCAM/Motdocgia.php"> Yêu
+  ► <a href="/TONGIAO/tgN/NGTRCAM/Motdocgia"> Yêu
   Chúa "Hết Trí Khôn" (Một Độc Giả)</a><br>
-  ► <a href="https://sachhiem.net/TONGIAO/tgTH/ThThanhThang.php">"Sư
+  ► <a href="/TONGIAO/tgTH/ThThanhThang">"Sư
   cô trụ trì" chùa Quan Âm cải đạo theo Chúa: Bóc trần sự thật (Thích Thanh
   Thắng)</a><br>
-  ► <a href="https://sachhiem.net/TONGIAO/tgM/MinhKien.php">43 Phương Pháp
+  ► <a href="/TONGIAO/tgM/MinhKien">43 Phương Pháp
   Cải Đạo (Minh Kiến) </a><br>
-  ► <a href="https://sachhiem.net/TONGIAO/tgS/SH02.php">Cải Đạo (SH) </a><br>
-  ► <a href="https://sachhiem.net/TONGIAO/tgN/NGTRCAM/NguyenTriCam16.php">Cải
+  ► <a href="/TONGIAO/tgS/SH02">Cải Đạo (SH) </a><br>
+  ► <a href="/TONGIAO/tgN/NGTRCAM/NguyenTriCam16">Cải
   đạo bắt đầu từ trẻ con (Nguyễn Trí Cảm)</a><br>
   ► <a href="/TCN/TCNtg/TCN111">Cải đạo á châu ? Một ảo tưởng ! (Trần
   Chung Ngọc) </a><br>
-  ► <a href="https://sachhiem.net/TONGIAO/tgTH/ThienLoi008.php">Cải Đạo,
+  ► <a href="/TONGIAO/tgTH/ThienLoi008">Cải Đạo,
   Sách Lược Thực Dân Mới Mà Cũ (Thiên Lôi)</a><br>
-  ► <a href="https://sachhiem.net/TONGIAO/tgN/NguyenTienDat.php">Cầu Cứu
+  ► <a href="/TONGIAO/tgN/NguyenTienDat">Cầu Cứu
   - Bài Góp Ý (Nguyễn Tiến Đạt)</a><br>
   ► <a href="/TCN/EMAILS/SH/Sachhiem20">Cầu Cứu - Nỗi Ray Rứt (Ngọc Hân
   - SH) </a><br>
-  ► <a href="https://sachhiem.net/TONGIAO/tgN/NguyenHBa02.php">Hôn Nhân
+  ► <a href="/TONGIAO/tgN/NguyenHBa02">Hôn Nhân
   và Tôn Giáo (Nguyễn Hữu Ba) </a><br>
   ► <a href="/TCN/SACHNGOAI/snN/NguyenTanh">Ki tô giáo: Mánh Khóe Mới Nhất
   Trong Việc Cải Đạo (J. Goonetilleke/Nguyên Tánh dịch)</a><br>
@@ -348,23 +348,23 @@ https://www.flipsnack.com/my-flipping-books/details?flip=43aa1eeba94b7fb65666f36
   Minh Kiến dịch)</a><br>
   ► <a href="/TCN/BUIKHA/HongNgoc">Lửa "Đốt" Dân Tộc Ta (Hồng
   Ngọc)</a><br>
-  ► <a href="https://sachhiem.net/TONGIAO/tgM/MinhThanh06.php">Lửa đã cháy
+  ► <a href="/TONGIAO/tgM/MinhThanh06">Lửa đã cháy
   ở Mỹ Đình, bao giờ lan đến Quán Sứ? (Minh Thạnh)</a><br>
-  ► <a href="https://sachhiem.net/TONGIAO/tgM/MinhThanh02.php">Mắt xích
+  ► <a href="/TONGIAO/tgM/MinhThanh02">Mắt xích
   cải đạo tu sĩ trong tiến trình cải đạo tín đồ Phật giáo (Minh Thạnh)</a><br>
   ► <a href="/TCN/TCNtg/TCN109">Mối Họa Cải Đạo (Trần Chung Ngọc) </a><br>
   ► <a href="/TCN/LICHSU/D/DaoVien02">Một Cố Gắng Cải Đạo Ly Kỳ (Đào Viên)</a><br>
   ► <a href="/TCN/TCNtg/TCN113">Một Giám Mục Viết Về Vấn Nạn Cải Đạo
   Của Ki-Tô Giáo (Trần Chung Ngọc)</a><br>
-  ► <a href="https://sachhiem.net/TONGIAO/tgM/MinhKien03.php">Ngày Tàn của
+  ► <a href="/TONGIAO/tgM/MinhKien03">Ngày Tàn của
   những kẻ Truyền Đạo Cuồng Tín (Minh Kiến)</a><br>
   ► <a href="/TCN/EMAILS/emailV/VoNgocDiep">Những Câu Chuyện Cải Đạo (Võ
   Ngọc Diệp) </a><br>
   ► <a href="/TCN/EMAILS/emailL/LuuTeo">Phản Hồi "Vấn Đề Hôn Nhân Khác
   Tôn Giáo" của Minh Ngọc (Ki-Tô Hữu Lưu Tèo)</a><br>
-  ► <a href="https://sachhiem.net/TONGIAO/tgL/LeThoTG02.php">Quí Hồ Tinh
+  ► <a href="/TONGIAO/tgL/LeThoTG02">Quí Hồ Tinh
   Bất Quí Hồ Đa (Lệ Thọ)</a><br>
-  ► <a href="https://sachhiem.net/TONGIAO/tgB/BanVanDong.php">THƯ NGỎ: Vận
+  ► <a href="/TONGIAO/tgB/BanVanDong">THƯ NGỎ: Vận
   Động Thành Lập Tủ Sách “Chấn Hưng Phật Giáo” </a><br>
   ► <a href="/TCN/TCNtg/CAIDAO/02">Thử Tìm Hiểu Người Ki-Tô Giáo Và
   Vấn Nạn Cải Đạo (Trần Chung Ngọc)</a><br>
@@ -372,19 +372,19 @@ https://www.flipsnack.com/my-flipping-books/details?flip=43aa1eeba94b7fb65666f36
   Nạn Cải Đạo (Trần Chung Ngọc) </a><br>
   ► <a href="/TCN/TCNtg/TCN112">Thực Chất Tin Lành Nam Hàn (Trần Chung
   Ngọc)</a><br>
-  ► <a href="https://sachhiem.net/TONGIAO/tgM/MinhThanh03.php">Tiền và việc
+  ► <a href="/TONGIAO/tgM/MinhThanh03">Tiền và việc
   cải đạo tín đồ Phật giáo (Minh Thạnh)</a><br>
-  ► <a href="https://sachhiem.net/TONGIAO/tgM/MinhNgoc01.php">Trả Lời Thư
+  ► <a href="/TONGIAO/tgM/MinhNgoc01">Trả Lời Thư
   Bạn Lưu Tèo (Minh Ngọc)</a><br>
   ► <a href="/TCN/EMAILS/SH/Sachhiem37">Vài Câu Hỏi Cho Người Đi Truyền
   Đạo Chúa (Một Độc Giả) </a><br>
   ► <a href="/TCN/EMAILS/emailN/NgVPhung">Vì Chúng Sinh - Chống Cải Đạo
   (Nguyễn văn Phụng)</a><br>
-  ► <a href="https://sachhiem.net/TONGIAO/tgN/NguyenVPhung.php">Vì Chúng
+  ► <a href="/TONGIAO/tgN/NguyenVPhung">Vì Chúng
   Sinh - Ngăn Ngừa Việc Cải Đạo (Nguyễn Văn Phụng)</a><br>
-  ► <a href="https://sachhiem.net/TONGIAO/tgM/MinhNgoc.php">Đôi Lời Chia
+  ► <a href="/TONGIAO/tgM/MinhNgoc">Đôi Lời Chia
   Sẻ Về Vấn Đề Hôn Nhân Khác Tôn Giáo (Minh Ngọc)</a><br>
-  ► <a href="https://sachhiem.net/TONGIAO/tgM/MinhThanh04.php">“Lập lờ đánh
+  ► <a href="/TONGIAO/tgM/MinhThanh04">“Lập lờ đánh
   lận”… ông trời! (Minh Thạnh)</a>
   
 </p>

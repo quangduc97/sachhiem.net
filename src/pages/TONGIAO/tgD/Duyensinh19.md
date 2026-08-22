@@ -3,7 +3,7 @@ layout: ../../../layouts/Article.astro
 title: "Vatican -"
 author: "Duyên Sinh"
 date: 2016-10-09
-source: "https://sachhiem.net/TONGIAO/tgD/Duyensinh19.php"
+source: "/TONGIAO/tgD/Duyensinh19"
 category: "Tác giả"
 lang: en
 wordCount: 953

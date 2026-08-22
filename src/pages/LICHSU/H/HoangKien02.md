@@ -2,17 +2,14 @@
 layout: ../../../layouts/Article.astro
 title: "Hành Trình Đấu Tranh Chống Lật Sử"
 author: "Thiếu tướng Hoàng Kiền"
-source: "https://sachhiem.net/LICHSU/H/HoangKien02.php"
+source: "/LICHSU/H/HoangKien02"
 category: "Chính trị"
 lang: vi
 wordCount: 11388
-image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nha.jpg"
+image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/LICHSU/IMG/LAT_SU/HanhtrinhTranhdau6.jpg"
 ---
 
-<p align="center"><a href="https://www.sachhiem.net/">
-<img border="0" src="https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nha.jpg"></a> 
-</p>
- <div class="tomluoc">
+<div class="tomluoc">
    <p><i>Tôi rất mừng, TBT đã đi trước, dẫn đường cho ngành Tuyên giáo đấu tranh trên mạng xã hội mà lâu nay chưa quan tâm đúng mức. Có nơi đã bỏ trận địa cho lũ sói hoành hành xâu xé thành quả cách mạng của Đảng ta, nhân dân ta, quân đội ta. (TT HK)</i></p>
    </div>
    <p><i>Hôm nay ngày 19/7/2025, Ban chấp hành trung ương đã họp tiến hành kỷ luật cách chức tất cả các chức vụ trong Đảng đối với Võ Văn Thưởng. Chắc Quốc hội sẽ họp xử lý tiếp....

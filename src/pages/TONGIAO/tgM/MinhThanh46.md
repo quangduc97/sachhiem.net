@@ -3,7 +3,7 @@ layout: ../../../layouts/Article.astro
 title: "[VATICANOLOGY] Kịch Bản Phức Tạp Nhất Khi Giáo Hoàng Đến Thăm Một Quốc Gia"
 author: "Minh Thạnh"
 date: 2024-07-24
-source: "https://sachhiem.net/TONGIAO/tgM/MinhThanh46.php"
+source: "/TONGIAO/tgM/MinhThanh46"
 category: "Chính trị"
 lang: vi
 wordCount: 5831

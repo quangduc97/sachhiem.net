@@ -2,15 +2,14 @@
 layout: ../../../layouts/Article.astro
 title: "“KHÔNG THẦN” và “CÓ THẦN” :"
 author: "Trần Chung Ngọc"
-source: "https://sachhiem.net/TCN/TCNtg/TCN11.php"
+source: "/TCN/TCNtg/TCN11.php"
 category: "Tác giả"
 lang: vi
 wordCount: 10703
-image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nha.jpg"
 ---
 
 <table border="0" width="250" align="center">
-    <tbody><tr><td width="100"><a href="https://sachhiem.net/index.php"><img border="0" src="https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nha.jpg"></a>    </td>
+    <tbody><tr><td width="100">    </td>
 	<td>&nbsp;</td></tr></tbody></table>
 	<p>
 		<font>[ Nhân Đọc Bài <i>
@@ -23,7 +22,7 @@ image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nha.jpg"
 		Trên: giaodiemonline.com</p>
 		
 		<blockquote><table border="0" cellpadding="10" width="80%" cols="2"><tbody><tr>
-	<td valign="top"><a href="/index"><img border="0" src="https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nha.jpg"></a>
+	<td valign="top">
 </td>
 	<td valign="top" style="text-align:right">	đăng ngày 10 tháng 7, 2007
 	</td></tr></tbody></table>

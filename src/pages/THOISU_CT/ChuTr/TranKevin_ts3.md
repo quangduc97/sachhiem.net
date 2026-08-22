@@ -3,7 +3,7 @@ layout: ../../../layouts/Article.astro
 title: "Báo NGƯỜI VIỆT ở ngay Thủ đô Tị nạn LITTLE SÀIGÒN"
 author: "Sưu tầm của Kevin Trần"
 date: 2017-06-26
-source: "https://sachhiem.net/THOISU_CT/ChuTr/TranKevin_ts3.php"
+source: "/THOISU_CT/ChuTr/TranKevin_ts3"
 category: "Chính trị"
 lang: vi
 wordCount: 827

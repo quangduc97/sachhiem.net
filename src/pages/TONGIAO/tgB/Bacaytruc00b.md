@@ -2,15 +2,15 @@
 layout: ../../../layouts/Article.astro
 title: "Bốn Nạn Nhân của LM Giuse Nguyễn Ngọc Dũng"
 date: 2012-02-12
-source: "https://sachhiem.net/TONGIAO/tgB/Bacaytruc00b.php"
+source: "/TONGIAO/tgB/Bacaytruc00b"
 category: "Tác giả"
 lang: vi
 wordCount: 3558
-image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nha.jpg"
+image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/TONGIAO/IMG/TINHDUC/Cross.jpg"
 ---
 
 <table border="0" width="250" align="center">
- <tbody><tr><td width="100"><a href="/index"><img border="0" src="https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nha.jpg"></a></td>
+ <tbody><tr><td width="100"></td>
 		<td valign="top" width="194">12-Feb-2012</td>
  </tr>
 </tbody></table>
@@ -29,11 +29,11 @@ image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nha.jpg"
 	<hr>
 	
      <div class="danbai">
-   <p> ► <a href="https://sachhiem.net/TONGIAO/tgB/Bacaytruc00.php">Hồ Sơ LM Giuse
+   <p> ► <a href="/TONGIAO/tgB/Bacaytruc00">Hồ Sơ LM Giuse
      Nguyễn Ngọc Dũng: Thư tố cáo của cô Lữ Thị Thu Nga </a></p>
-   <p>  ►  <a href="https://sachhiem.net/TONGIAO/tgB/Bacaytruc00b.php">Các thư liên
+   <p>  ►  <a href="/TONGIAO/tgB/Bacaytruc00b">Các thư liên
      quan đến 4 nạn nhân của L.M. Giuse Nguyễn Ngọc Dũng </a></p>
-   <p>  ►  <a href="https://sachhiem.net/TONGIAO/tgB/Bacaytruc00a.php">Phản Hồi Sau
+   <p>  ►  <a href="/TONGIAO/tgB/Bacaytruc00a">Phản Hồi Sau
      Hồ Sơ L.M. Giuse Nguyễn Ngọc Dũng</a></p>
  </div>
 	
@@ -131,7 +131,7 @@ image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nha.jpg"
 	    vô bờ, Kiều Hương đã tự tử.</b><b> </b></p>
 	
 	<p class="MUC"><b>Năm 2009. Nạn nhân thứ hai: Thu Nga</b></p>
-	<p>Trích trong thơ tố cáo <a href="https://sachhiem.net/TONGIAO/tgB/Bacaytruc00.php">(xem Hồ Sơ L.M. Giuse Nguyễn
+	<p>Trích trong thơ tố cáo <a href="/TONGIAO/tgB/Bacaytruc00">(xem Hồ Sơ L.M. Giuse Nguyễn
 	    Ngọc Dũng)</a></p>
 	<p>………Sau đây con xin tường trình tất cả những gì đã xảy ra cho con trong thời
 	  gian sống trong <b><i>“địa ngục trần gian”</i></b> ngay trong nhà xứ của hắn,
@@ -345,10 +345,10 @@ image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nha.jpg"
 	<hr>
     <p><b>SH Phụ Lục: </b></p>
     <p>Mời xem:</p>
-    <p>- <a href="https://sachhiem.net/TONGIAO/tgB/Bacaytruc00.php">Thư tố cáo của cô Lữ Thị Thu Nga </a> </p>
-    <p>-  <a href="https://sachhiem.net/TONGIAO/tgB/Bacaytruc00b.php">Các thư
+    <p>- <a href="/TONGIAO/tgB/Bacaytruc00">Thư tố cáo của cô Lữ Thị Thu Nga </a> </p>
+    <p>-  <a href="/TONGIAO/tgB/Bacaytruc00b">Các thư
         liên quan đến 4 nạn nhân  của L.M. Giuse Nguyễn Ngọc Dũng </a></p>
-    <p>-  <a href="https://sachhiem.net/TONGIAO/tgB/Bacaytruc00a.php">Phản
+    <p>-  <a href="/TONGIAO/tgB/Bacaytruc00a">Phản
       Hồi Sau Hồ Sơ L.M. Giuse Nguyễn Ngọc Dũng ---&gt;</a></p>
     <p>- Các hoạt động "Thánh Linh" của L.M. Giuse Nguyễn Ngọc Dũng:</p>
     <p class="sub1">-  <a href="https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.devhttps://www.thanhlinh.fr/download/Annonce%20TL2011-noir-final.pdf"> Sinh

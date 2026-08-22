@@ -2,11 +2,11 @@
 layout: ../../../layouts/Article.astro
 title: "LINH MỤC MƯU SÁT GIÁO HOÀNG"
 author: "Tân Pháp sưu tầm"
-source: "https://sachhiem.net/null"
+source: "/null"
 category: "Tác giả"
 lang: vi
 wordCount: 566
-image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nha.jpg"
+image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/tgB/TanPhap21_files/image001.jpg"
 ---
 
 <div align="center" style="position: relative; left: 0; top: 0">
@@ -38,7 +38,7 @@ image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nha.jpg"
 <table border="0" cellpadding="30" cellspacing="0" width="100%" topmargin="10"> 
 	<tbody><tr><td bgcolor="White" align="justify" valign="top">
 		<table border="0" cellpadding="10" width="100%" cols="3"><tbody><tr>
-		<td width="129"><a href="/index"><img border="0" src="https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nha.jpg"></a></td>
+		<td width="129"></td>
 	<td valign="top">	<font color="#606060" size="2">05 tháng 11, 2008	</font>
 	</td></tr></tbody></table>
 		

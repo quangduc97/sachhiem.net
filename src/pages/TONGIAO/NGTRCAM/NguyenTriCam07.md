@@ -2,17 +2,15 @@
 layout: ../../../layouts/Article.astro
 title: "Tin lành, Thiên Chúa giáo"
 author: "Nguyễn Trí Cảm"
-source: "https://sachhiem.net/TONGIAO/NGTRCAM/NguyenTriCam07.php"
+source: "/TONGIAO/NGTRCAM/NguyenTriCam07"
 category: "Chính trị"
 lang: vi
 wordCount: 3996
-image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nha.jpg"
 ---
 
 <table border="0" cellpadding="0" width="250" align="center"><tbody><tr>
 				<td width="125">
-				<a href="/index">
-				<img border="0" src="https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nha.jpg"></a></td>
+				</td>
 	<td valign="top">	<font size="2">12 tháng 10, 2008
 	</font>
 	</td></tr></tbody></table>

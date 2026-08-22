@@ -3,14 +3,14 @@ layout: ../../../layouts/Article.astro
 title: "Chỉ Muốn Độn Thổ Thôi - Ghi Tên Vào Thỉnh Nguyện Thư Làm dek Gì!"
 author: "Hải Nguyễn"
 date: 2014-12-31
-source: "https://sachhiem.net/THOISU_CT/ChuN/NguyenHai.php"
+source: "/THOISU_CT/ChuN/NguyenHai"
 category: "Chính trị"
 lang: vi
 wordCount: 1380
 image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/THOISU_CT/Hinh/CCCB/TNTbichchuong.jpg"
 ---
 
-<p><i>SH - Tựa trên của sachhiem.net, còn dưới đây là tựa trong lá thư phổ biến trên các diễn đàn thư tín ngày mới đây. Cùng nội dung này, tác giả Hải Nguyễn đã gửi một lá thư thức tỉnh có tựa đề "Quanh Chất Nổ Thỉnh Nguyện Thư - 'Nhục qúa bà con ta ơi!' sau lúc Thỉnh Nguyện Thư bị bể."<a href="https://sachhiem.net/index.php?content=showemail&amp;id=85"> Xin đọc link đã đăng ngày April 13, 2012</a>. Tuy nhiên chúng tôi cũng muốn đăng lại để bà con, cả trong và ngoài nước, đề cao cảnh giác trước những trò chơi chính trị của các con rối thời đại.</i></p>
+<p><i>SH - Tựa trên của sachhiem.net, còn dưới đây là tựa trong lá thư phổ biến trên các diễn đàn thư tín ngày mới đây. Cùng nội dung này, tác giả Hải Nguyễn đã gửi một lá thư thức tỉnh có tựa đề "Quanh Chất Nổ Thỉnh Nguyện Thư - 'Nhục qúa bà con ta ơi!' sau lúc Thỉnh Nguyện Thư bị bể."<a href="/hop-thu/85"> Xin đọc link đã đăng ngày April 13, 2012</a>. Tuy nhiên chúng tôi cũng muốn đăng lại để bà con, cả trong và ngoài nước, đề cao cảnh giác trước những trò chơi chính trị của các con rối thời đại.</i></p>
   <hr>
   <p class="Tuaduoi"><b>HÃY  MỞ MẮT TO MÀ ĐỌC - SỰ THẬT MẤT LÒNG</b></p>
   <p><b><i>Hải  Nguyễn</i></b></p>

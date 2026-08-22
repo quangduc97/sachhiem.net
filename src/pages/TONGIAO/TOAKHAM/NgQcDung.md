@@ -6,7 +6,7 @@ source: "https://www.phattuvietnam.net"
 category: "Tác giả"
 lang: vi
 wordCount: 1370
-image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nha.jpg"
+image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/Next3.gif"
 ---
 
 <p class="Tuaduoi">đang “cầu nguyện” ...</p>
@@ -14,7 +14,7 @@ image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nha.jpg"
 		
 		
 
-<p align="center"><a href="https://sachhiem.net/index.php"><img border="0" hspace="20" src="https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nha.jpg"></a>16 tháng 1, 2008</p>
+<p align="center">16 tháng 1, 2008</p>
 <p><i><a href="/TONGIAO/LoiDau">Lời đầu của SH 
 		<img border="0" src="https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/Next3.gif" width="15" height="6"></a></i></p>
 	

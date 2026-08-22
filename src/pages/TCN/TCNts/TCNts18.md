@@ -2,16 +2,16 @@
 layout: ../../../layouts/Article.astro
 title: "NHỮNG THẮC MẮC CẦN ĐƯỢC GIẢI ĐÁP"
 author: "Trần Chung Ngọc"
-source: "https://sachhiem.net/TCN/TCNts/TCNts18.php"
+source: "/TCN/TCNts/TCNts18"
 lang: vi
 wordCount: 741
-image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nha.jpg"
+image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/LICHSU/TONY/Phanat/PhaNat_QueHuong_6.jpg"
 ---
 
 <p class="Tuaduoi">Thắc Mắc Về Chiến Tranh Việt Nam</p>
 
   
- <p align="center"><a href="/index"><img hspace="20" border="0" src="https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nha.jpg"></a>ngày 06 tháng 5, 2008</p>
+ <p align="center">ngày 06 tháng 5, 2008</p>
  <p>toàn tập:</p>
  
  <hr align="left" width="60%">

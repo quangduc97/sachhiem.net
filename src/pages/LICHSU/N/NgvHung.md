@@ -6,11 +6,11 @@ source: "https://honvietquochoc.com.vn/Tu-lieu/Tu-lieu-lich-su/Ho-so-ve-tuong-Du
 category: "Lịch sử"
 lang: vi
 wordCount: 5500
-image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nha.jpg"
+image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/LICHSU/IMG/VNwar/DuongVanMinh.jpg"
 ---
 
 <table border="0" cellpadding="1" align="center" width="250">
-        <tbody><tr><td width="100"><a href="/index"><img border="0" src="https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nha.jpg"></a></td>
+        <tbody><tr><td width="100"></td>
 		<td valign="top" width="194">28 tháng 2, 2010
 	</td></tr>
 </tbody></table>

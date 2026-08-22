@@ -3,7 +3,7 @@ layout: ../../../layouts/Article.astro
 title: "PHONG TRÀO ĐÔ THỊ NHA TRANG NHỮNG NĂM 1964-1965"
 author: "GS Lê Cung* & Nguyễn Trung Triều**"
 date: 2021-11-15
-source: "https://sachhiem.net/LICHSU/L/LeCung19.php"
+source: "/LICHSU/L/LeCung19"
 category: "Chính trị"
 lang: vi
 wordCount: 2837

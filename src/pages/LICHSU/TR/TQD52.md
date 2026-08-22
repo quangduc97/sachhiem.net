@@ -3,14 +3,14 @@ layout: ../../../layouts/Article.astro
 title: "Về Nhân Vật Hướng Dẫn TT. Obama Viếng Chùa Ở Việt Nam"
 author: "Trần Quang Diệu"
 date: 2016-05-29
-source: "https://sachhiem.net/LICHSU/TR/TQD52.php"
+source: "/LICHSU/TR/TQD52"
 category: "Lịch sử"
 lang: vi
 wordCount: 3777
 image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/TONGIAO/IMG/CHUA/Thapnhang_vuaHung.jpg"
 ---
 
-<p> <span class="First">Q</span>uả thật là điều lý thú. Nếu không nhờ  trang mạng www.sachhiem.net đã quyết định cho đăng tải <a href="https://sachhiem.net/TONGIAO/tgK/Kelvin_25may16.php">lời kể của ông Dương Ngọc Dũng</a>  thì có lẽ cho đến hôm nay tôi chưa có cơ hội để biết ai là hướng dẫn viên cho  ông Obama viếng thăm chùa trong chuyến đi VN vừa qua của vị Tổng thống Mỹ.</p>
+<p> <span class="First">Q</span>uả thật là điều lý thú. Nếu không nhờ  trang mạng www.sachhiem.net đã quyết định cho đăng tải <a href="/TONGIAO/tgK/Kelvin_25may16">lời kể của ông Dương Ngọc Dũng</a>  thì có lẽ cho đến hôm nay tôi chưa có cơ hội để biết ai là hướng dẫn viên cho  ông Obama viếng thăm chùa trong chuyến đi VN vừa qua của vị Tổng thống Mỹ.</p>
   <p>Việc ông Obama đến thăm chùa Phước Hải (còn  gọi là chùa  Ngọc Hoàng) ở T.P Hồ Chí Minh, VN hôm 24.5.2016 đã gây ra  nhiều “bức xúc” (?) dẫn đến có nhiều người tham gia phê phán, tranh cãi về một  số những chi tiết trước cũng như sau khi vị Tổng thống Hoa Kỳ đến thăm chùa rồi  ra đi?</p>
   <p>Tôi cũng xin được thử tham gia chia sẻ vài ý kiến và nhận xét của mình như sau:</p>
   <p><b>Thứ nhất, </b></p>

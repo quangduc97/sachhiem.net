@@ -3,7 +3,7 @@ layout: ../../layouts/Article.astro
 title: "Qua Bài Viết Của Ông Lâm Lễ Trinh - VNCH Hiểu Lầm Căn Cước Của Mình"
 author: "Nguyễn Mạnh Quang"
 date: 2018-01-10
-source: "https://sachhiem.net/NMQ/NMQ91.php"
+source: "/NMQ/NMQ91"
 category: "Lịch sử"
 lang: vi
 wordCount: 8690

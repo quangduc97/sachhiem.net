@@ -3,7 +3,7 @@ layout: ../../../layouts/Article.astro
 title: "Nói Với Những Kẻ Làm Tin Giả:"
 author: "Đạo Sĩ Chân Gà / Đôi Mắt"
 date: 2019-08-28
-source: "https://sachhiem.net/THOISU_CT/ChuT/TinDoiMat.php"
+source: "/THOISU_CT/ChuT/TinDoiMat"
 category: "Đối thoại"
 lang: vi
 wordCount: 2472

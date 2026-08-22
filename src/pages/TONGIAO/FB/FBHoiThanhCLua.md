@@ -3,7 +3,7 @@ layout: ../../../layouts/Article.astro
 title: "6 Câu Chuyện Loạn Luân Hấp Dẫn Mọi Thời Đại Trong Kinh Thánh"
 author: "Hội Thánh CLúa"
 date: 2022-02-03
-source: "https://sachhiem.net/TONGIAO/FB/FBHoiThanhCLua.php"
+source: "/TONGIAO/FB/FBHoiThanhCLua"
 category: "Tác giả"
 lang: vi
 wordCount: 1794

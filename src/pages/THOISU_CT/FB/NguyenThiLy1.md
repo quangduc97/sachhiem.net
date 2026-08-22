@@ -3,7 +3,7 @@ layout: ../../../layouts/Article.astro
 title: "Sự Kiện Gạc Ma bị Trung Quốc Chiếm Đóng Năm 1988"
 author: "Nguyễn Huy Toàn /FB Nguyễn Thị Lý"
 date: 2018-08-09
-source: "https://sachhiem.net/THOISU_CT/FB/NguyenThiLy1.php"
+source: "/THOISU_CT/FB/NguyenThiLy1"
 category: "Chính trị"
 lang: vi
 wordCount: 5410

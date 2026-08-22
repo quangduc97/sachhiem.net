@@ -2,7 +2,7 @@
 layout: ../../../layouts/Article.astro
 title: "Sức mạnh đồng thuận Việt Nam:"
 author: "Minh Anh"
-source: "https://sachhiem.net/null"
+source: "/null"
 category: "Chính trị"
 lang: vi
 wordCount: 1363
@@ -35,7 +35,7 @@ image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nhacu.jpg"
 <div style="padding-left: 40px; padding-right: 40px">
 
 		<table border="0" cellpadding="10" width="80%" cols="2"><tbody><tr>
-				<td valign="top" width="249"><a href="https://sachhiem.net/"><img border="0" src="https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nhacu.jpg" width="49" height="20"></a></td>
+				<td valign="top" width="249"><a href="/"><img border="0" src="https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nhacu.jpg" width="49" height="20"></a></td>
 	<td valign="top">	<i>16 tháng 12, 2007
 	</i>
 	</td></tr></tbody></table>

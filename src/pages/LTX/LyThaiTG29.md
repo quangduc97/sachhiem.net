@@ -3,7 +3,7 @@ layout: ../../layouts/Article.astro
 title: "Chứng từ cao nhất về tài sản đất đai của Đan Viện Thiên An."
 author: "Lý Thái Xuân"
 date: 2020-08-31
-source: "https://sachhiem.net/LTX/LythaiTG29.php"
+source: "/LTX/LythaiTG29"
 category: "Tác giả"
 lang: vi
 wordCount: 2030

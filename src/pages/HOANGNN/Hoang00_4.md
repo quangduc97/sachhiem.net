@@ -3,15 +3,13 @@ layout: ../../layouts/Article.astro
 title: "NÃO TRẠNG CỦA MỘT"
 author: "Người Làm Vườn"
 date: 2006-06-01
-source: "https://sachhiem.net/HOANGNN/Hoang00_4.php"
+source: "/HOANGNN/Hoang00_4"
 category: "Chính trị"
 lang: vi
 wordCount: 13273
-image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nha.jpg"
 ---
 
-<p align="center"><a href="https://www.sachhiem.net/">
-	<img border="0" src="https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nha.jpg"></a> 14&nbsp; tháng 9 2007
+<p align="center"> 14&nbsp; tháng 9 2007
 </p>
 		
 		

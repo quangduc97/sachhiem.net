@@ -3,7 +3,7 @@ layout: ../../../layouts/Article.astro
 title: "Chuyện Ma-Cà-Rồng Mít Thời Nay"
 author: "Thiên Lôi"
 date: 2012-09-26
-source: "https://sachhiem.net/THLOI/TG/ThienLoi010.php"
+source: "/THLOI/TG/ThienLoi010"
 lang: vi
 wordCount: 325
 image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/THLOI/ThienLoi011_clip_image001.jpg"

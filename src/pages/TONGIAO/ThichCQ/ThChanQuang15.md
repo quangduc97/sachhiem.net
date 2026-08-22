@@ -3,7 +3,7 @@ layout: ../../../layouts/Article.astro
 title: "Đơn Tố Giác Lần Thứ 5 (21/7/2024)"
 author: "Ngô Quang Hiến"
 date: 2026-04-12
-source: "https://sachhiem.net/TONGIAO/tgS/SH109.php"
+source: "/TONGIAO/tgS/SH109"
 category: "Tác giả"
 lang: vi
 wordCount: 13840

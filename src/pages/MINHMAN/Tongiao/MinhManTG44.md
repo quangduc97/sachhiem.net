@@ -2,7 +2,7 @@
 layout: ../../../layouts/Article.astro
 title: "TÔN GIÁO VÀ CÁC MỐI QUAN HỆ"
 author: "Minh Mẫn"
-source: "https://sachhiem.net/null"
+source: "/null"
 lang: vi
 wordCount: 3514
 ---
@@ -277,7 +277,7 @@ wordCount: 3514
 
 <tr><td> 
 
-			<a href="https://sachhiem.net/MINHMAN/MMdir.php"><p class="trang">Trang Minh Mẫn</p></a>
+			<a href="/MINHMAN/MMdir"><p class="trang">Trang Minh Mẫn</p></a>
 
 </td></tr>
 </tbody></table>

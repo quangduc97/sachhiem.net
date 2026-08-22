@@ -2,15 +2,13 @@
 layout: ../../layouts/Article.astro
 title: "Luật rừng!"
 author: "(Sơn Dã Bần Phu)"
-source: "https://sachhiem.net/VANHOC/SonDaBP.php"
+source: "/VANHOC/SonDaBP"
 category: "Chính trị"
 lang: vi
 wordCount: 11091
-image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nha.jpg"
 ---
 
-<p align="center"><a href="https://www.sachhiem.net/">
-	<img border="0" src="https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nha.jpg"></a> 18 tháng 5, 2008</p>
+<p align="center"> 18 tháng 5, 2008</p>
  
  	<p><i>“Luật rừng! Đồ luật rừng!”</i></p>
 		<p>“Luật rừng” là những chữ mà người ta thường dùng để 

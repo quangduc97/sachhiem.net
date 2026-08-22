@@ -3,7 +3,7 @@ layout: ../../../layouts/Article.astro
 title: "Nấm Mộ Bị Mất Của Chúa Dê-Xu?"
 author: "Lora Moftah"
 date: 2015-06-12
-source: "https://sachhiem.net/SACHNGOAI/H/HoaiNam.php"
+source: "/SACHNGOAI/H/HoaiNam"
 category: "Chính trị"
 lang: vi
 wordCount: 1642

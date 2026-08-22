@@ -2,17 +2,17 @@
 layout: ../../../layouts/Article.astro
 title: "Tâm Thư Gửi Nhà Nước Việt Nam"
 author: "Nguyễn Mạnh Quang"
-source: "https://sachhiem.net/NMQ/TAMTHU/NMQtt_01.php"
+source: "/NMQ/TAMTHU/NMQtt_01"
 lang: vi
 wordCount: 4568
-image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nha.jpg"
+image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/print.gif"
 ---
 
-<p align="center"><a href="https://www.sachhiem.net/"> <img border="0" src="https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nha.jpg"></a> | 
-				<a target="_blank" href="https://sachhiem.net/NMQ/TAMTHU/NMQtt_01.php">
+<p align="center"> | 
+				<a target="_blank" href="/NMQ/TAMTHU/NMQtt_01">
 				<img border="0" src="https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/print.gif" width="18" height="18"> 
 				</a>bản in | 
-	<a target="_blank" href="https://sachhiem.net/NMQ/TAMTHU/NMQtt_Main.php"><b><font face="Symbol" size="5"> ¿ </font></b> trở ra mục lục</a>
+	<a target="_blank" href="/NMQ/TAMTHU/NMQtt_Main"><b><font face="Symbol" size="5"> ¿ </font></b> trở ra mục lục</a>
  | 29 tháng 3, 2009</p>
 <p class="CHUONG">PHẦN I</p>
 			
@@ -380,7 +380,7 @@ image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nha.jpg"
 			
 			
 			
-			<p><a target="_blank" href="https://sachhiem.net/NMQ/TAMTHU/NMQtt_02a.php"><i>Xem tiếp Những Lý Do Việt Nam Không Thể Bang Giao </i>&nbsp;<img border="0" src="https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/Next3.gif" width="15" height="6"></a> </p>
+			<p><a target="_blank" href="/NMQ/TAMTHU/NMQtt_02a"><i>Xem tiếp Những Lý Do Việt Nam Không Thể Bang Giao </i>&nbsp;<img border="0" src="https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/Next3.gif" width="15" height="6"></a> </p>
 			
 			
 			<p class="TuaDenLeft">

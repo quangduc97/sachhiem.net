@@ -2,15 +2,15 @@
 layout: ../../../layouts/Article.astro
 title: "Tại Sao Ki Tô Giáo Phải Suy Thoái?"
 author: "Trần Chung Ngọc"
-source: "https://sachhiem.net/TCN/TCNtg/TCN119.php"
+source: "/TCN/TCNtg/TCN119"
 category: "Tác giả"
 lang: vi
 wordCount: 7863
-image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nha.jpg"
+image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/print.gif"
 ---
 
 <table border="0" align="center">
-   <tbody><tr><td width="80"><a href="/index"><img border="0" src="https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nha.jpg"></a></td>
+   <tbody><tr><td width="80"></td>
 	<td width="80"> <a target="_top" href="/TCN/TCNtg/TCN99">
 				<img border="0" src="https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/print.gif" width="18" height="18"> </a> bản in</td>
 	<td width="120"><b><font face="Symbol" size="5"><a target="_top" href="/TCN/TCN99_main">¿</a></font></b> trở ra mục lục </td> 
@@ -559,12 +559,12 @@ image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nha.jpg"
 	lãnh đạo tôn giáo địa phương dàn dựng để mê hoặc và củng cố, đẩy mạnh lòng 
 	sùng tín mù quáng của đám giáo dân thấp kém và để thu tiền tăng gia lợi tức 
 	cho địa phương. Độc giả có thể đọc trên 
-	<a href="https://www.sachhiem.net/TCN/TCNtg/TCN40.php">
+	<a href="/TCN/TCNtg/TCN40">
 	https://www.sachhiem.net/TCN/TCNtg/TCN40.php</a> 
 	để biết rõ chi tiết về mọi tín lý liên quan đến bà Maria do Giáo hội ngụy 
 	tạo, và có thể đọc về sự thật đàng sau các vụ hiện thân của bà Maria ở 
 	Fatima, Lourdes, La Vang 
-	<a href="https://www.sachhiem.net/TCN/TCNtg/CGchinhsu/CGCS7.php">
+	<a href="/TCN/TCNtg/CGchinhsu/CGCS7">
 	https://www.sachhiem.net/TCN/TCNtg/ CGchinhsu/CGCS7.php</a> 
 	</p>
 	
@@ -623,7 +623,7 @@ image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nha.jpg"
 	hiện ra để làm gì? Linh mục James Kavanaugh đã đi đến 
 	Lourdes và cảm thấy xấu hổ vì sự mê tín cùng cực của các tín đồ Ca-tô. Chúng 
 	ta có thể đọc bài ông nói về Lourdes trên 
-	<a href="https://www.sachhiem.net/TCN/TCNtg/CGchinhsu/CGCS7.php">
+	<a href="/TCN/TCNtg/CGchinhsu/CGCS7">
 	https://www.sachhiem.net/TCN/TCNtg/ CGchinhsu/CGCS7.php</a> 
 	Bài này cũng còn đưa ra những sự thật về các vụ Bà Maria hiện ra ở Fatima và 
 	Lavang. Người ngoại đạo và 

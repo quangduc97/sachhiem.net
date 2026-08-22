@@ -3,7 +3,7 @@ layout: ../../../layouts/Article.astro
 title: "Tự Điển Tiếng Việt Đổi Đời"
 author: "Đào Văn Bình"
 date: 2017-05-06
-source: "https://sachhiem.net/DAOVB/VH/DaovBinh_TuDienmoi.php"
+source: "/DAOVB/VH/DaovBinh_TuDienmoi"
 category: "Văn hóa"
 lang: vi
 wordCount: 4280
@@ -106,9 +106,9 @@ image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/DAOVB/IMG/TiengViet_
 <p>  <i><b>- Con đường, đoạn đường</b></i> biến thành <i><b>tuyến đường</b></i>.  Xin nhớ cho “<i><b>tuyến</b></i>” nghĩa là đường. Thí dụ: Cát tuyến=Đường cắt.  Trung tuyến=Đường ở giữa. Trực tuyến=Đường thẳng đứng. </p>
 <p>  <i><b>- Công nhân </b></i>đổi đời thành <i><b>lao động.</b></i> Rồi <i><b>chủ  nhân</b></i> trở thành <i><b>người sử dụng lao động</b></i>. Thí dụ:  “<i>Xí nghiệp A có 2000 lao động</i>.” Trong khi từ điển tiếng Việt  trong nước định nghĩa lao động là “<i>Sự khó nhọc đem ra để làm việc như  giới lao động</i>”. </p>
 <p>  <i><b>- Công du</b></i> trở thành <i><b>thăm chính thức, thăm  cấp nhà nước</b></i>. Chỉ cần nói, thủ tướng…sẽ <i>công du</i> Hoa  Kỳ là người ta hiểu rồi…còn bày ra thăm chính thức, thăm cấp nhà nước. <i>Công  du (state visit)</i> là đi thăm một quốc gia khác vì việc công,  việc của đất nước, việc của chính phủ. Chẳng lẽ ông Chủ Tịch Nước đi chơi, thăm  cấp tỉnh, cấp bộ, cấp xã sao? Thật quái đản! </p>
-<p><a href="https://sachhiem.net/DAOVB/VH/DaovBinh_TuDienmoi2.php">(Còn tiếp) </a></p>
+<p><a href="/DAOVB/VH/DaovBinh_TuDienmoi2">(Còn tiếp) </a></p>
 <p>___________________</p>
 <p><b>Bài đọc thêm</b>:</p>
 <p>- <i>Giữ gìn sự trong sáng của Tiếng Việt - một mảnh tâm hồn Việt </i>(<a href="https://www.facebook.com/giuginsutrongsangcuatiengvietmotmanhtamhonviet/posts/604805862921175:0">FB Tôi Yêu Việt Nam</a>)</p>
 <hr>
- <p><a href="https://sachhiem.net/DAOVB/DVBdir.php">-- Link các bài viết của tác giả Đào Văn Bình --</a> </p>
+ <p><a href="/DAOVB/DVBdir">-- Link các bài viết của tác giả Đào Văn Bình --</a> </p>

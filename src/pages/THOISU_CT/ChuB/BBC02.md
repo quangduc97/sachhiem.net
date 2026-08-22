@@ -3,7 +3,7 @@ layout: ../../../layouts/Article.astro
 title: "Một loạt độc giả của BBC News chỉ trích"
 author: "Tin BBC"
 date: 2012-08-09
-source: "https://sachhiem.net/THOISU_CT/ChuB/BBC02.php"
+source: "/THOISU_CT/ChuB/BBC02"
 category: "Chính trị"
 lang: vi
 wordCount: 1513

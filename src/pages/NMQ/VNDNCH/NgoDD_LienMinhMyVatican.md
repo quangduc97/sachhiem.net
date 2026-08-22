@@ -3,7 +3,7 @@ layout: ../../../layouts/Article.astro
 title: "Ngô Đình Diệm Trong Liên Minh Mỹ-Vatican"
 author: "Nguyễn Mạnh Quang"
 date: 2026-03-28
-source: "https://sachhiem.net/NMQ/VNDNCH/NgoDD_LienMinhMyVatican.php"
+source: "/NMQ/VNDNCH/NgoDD_LienMinhMyVatican"
 category: "Chính trị"
 lang: vi
 wordCount: 8708
@@ -131,7 +131,7 @@ image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/TONGIAO/IMG/SACH/50n
 <p>“ông đã tưởng mình có thể nhẩy vào vòng tay người Mỹ trong một giai đoạn ngặt nghèo rồi&nbsp;thoát khỏi&nbsp;vòng tay đó khi&nbsp;tình hình&nbsp;sáng sủa hơn, ông đã tưởng có thể&nbsp;chấp nhận&nbsp;làm con cờ trong một ván cờ rồi ngay trong ván cờ đó, có thể tự động đi một nước cờ riêng của ông.</p>
 <p>Khi ông nhìn thấy đó chỉ là&nbsp;ảo tưởng&nbsp;thì đã quá trễ: Ông đã chết vì&nbsp;ảo tưởng&nbsp;đó. Và cái chết&nbsp;bi thảm&nbsp;của ông cho thấy một&nbsp;sự thật&nbsp;hết sức&nbsp;tầm thường:&nbsp;Không một con cờ nào có thể tự động đi một nước cờ cho riêng nó, dầu con cờ đó mang tên Ngô Đình Diệm, và không một nước&nbsp;nhỏ nào có thể&nbsp;lợi dụng&nbsp;một nước lớn, nhất là nước đó mang tên Hoa Kỳ.”&nbsp;<a href="/NMQ/#_edn11" name="eleven">[xi]</a></p>
 <p class="TacgiaL">Nguyễn Mạnh Quang</p>
-<p>[Trích từ&nbsp;tác phẩm&nbsp;<a href="https://sachhiem.net/NMQ/HOSOTOIAC/CH60-1.php">Lịch sử&nbsp;và Hồ Sơ&nbsp;Tội Ác&nbsp;của&nbsp;Giáo hội&nbsp;Công Giáo La Mã,&nbsp;Phần VI, Mục XVIII, Chương 60</a>]</p>
+<p>[Trích từ&nbsp;tác phẩm&nbsp;<a href="/NMQ/HOSOTOIAC/CH60-1">Lịch sử&nbsp;và Hồ Sơ&nbsp;Tội Ác&nbsp;của&nbsp;Giáo hội&nbsp;Công Giáo La Mã,&nbsp;Phần VI, Mục XVIII, Chương 60</a>]</p>
  
 <p><b>Cước chú:</b></p>
 <p><a href="/NMQ/#one" name="_edn1">i.</a> &nbsp;Nguyễn Xuân Thọ.&nbsp;Bước Mở Đầu Của Sự&nbsp;Thiết Lập&nbsp;Hệ Thống&nbsp;Thuộc Địa Pháp Ở&nbsp;Việt Nam&nbsp;1858-1897&nbsp;(Santa Ana, CA:&nbsp;Tác giả&nbsp;xuất bản, 1998, trang 17, 86-87 và 361.</p>

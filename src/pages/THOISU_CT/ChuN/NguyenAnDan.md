@@ -6,10 +6,10 @@ source: "https://sachhiem.net"
 category: "Chính trị"
 lang: vi
 wordCount: 3301
-image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nha.jpg"
+image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/THOISU_CT/Hinh/QuanheTQ/KraChanel.jpg"
 ---
 
-<p align="center"><a href="https://www.sachhiem.net/"> <img border="0" src="https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nha.jpg"></a> ngày </p>
+<p align="center"> ngày </p>
 <p> <a name="n1" class="TuaDenLeft" href="/THOISU_CT/#tit1">  ▪   Kế hoạch của các tay cờ lớn </a></p>
 <p>
 Ngày 23/5 báo điện tử  có bài viết “Âm mưu biển Đông của Trung Quốc-  nguồn lợi ngoài dầu khí”. Nội dung bản tin nhắc lại một dự án đáng chú ý, đó là  dự án kênh đào Kra. </p>

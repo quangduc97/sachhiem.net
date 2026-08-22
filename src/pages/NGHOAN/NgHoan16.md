@@ -3,7 +3,7 @@ layout: ../../layouts/Article.astro
 title: "Trịnh Công Sơn Với Niềm Tiên Cảm “Sau Hòa Bình”"
 author: "NGUYỄN HOÀN"
 date: 2024-02-01
-source: "https://sachhiem.net/NGHOAN/NgHoan16.php"
+source: "/NGHOAN/NgHoan16"
 category: "Chính trị"
 lang: vi
 wordCount: 2115

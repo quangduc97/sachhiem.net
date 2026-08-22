@@ -3,7 +3,7 @@ layout: ../../../layouts/Article.astro
 title: "Có Giám Sát Được Tiền Các Nhà Thờ (Trong Đối Tượng Giám Sát Quản Lý)"
 author: "Minh Thạnh"
 date: 2023-04-12
-source: "https://sachhiem.net/TONGIAO/tgM/MinhThanh42.php"
+source: "/TONGIAO/tgM/MinhThanh42"
 category: "Tác giả"
 lang: vi
 wordCount: 2122

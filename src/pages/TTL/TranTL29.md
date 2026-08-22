@@ -3,7 +3,7 @@ layout: ../../layouts/Article.astro
 title: "Những Ý Kiến Nghiêm Chỉnh"
 author: "Diễn Đàn: Hữu Nghị, Trần Tiên Long,.."
 date: 2012-09-15
-source: "https://sachhiem.net/TTL/TranTL29.php"
+source: "/TTL/TranTL29"
 category: "Chính trị"
 lang: vi
 wordCount: 3165
@@ -280,15 +280,15 @@ image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/LICHSU/IMG/FLAG/amer
           <b>Subject:</b> Bầu cho ai trong kỳ bầu cử Tổng Thống sắp tới.</p>
           
           <p><b>Mời đọc thêm:</b></p>
-          <p>1). 10-Sep-2012 - <a href="/THOISU_CT/ChuH/index.php?content=showrecipe&amp;id=5386">Ghi
+          <p>1). 10-Sep-2012 - <a href="/THOISU_CT/ChuN/NgTienTri02">Ghi
           tên và Đi Bầu Để Bảo Vệ Quyền Lợi Chính Đáng Của Mình</a> - <i>Ng. Tiên Tri</i></p>
-          <p>2). 07-Aug-2012 - <a href="/THOISU_CT/ChuH/index.php?content=showemail&amp;id=137">Quan
+          <p>2). 07-Aug-2012 - <a href="/hop-thu/137">Quan
           Trọng: Mỹ gốc Việt, trước khi bỏ phiếu </a>- <i>Evelyn Bui </i></p><i>
-          <p>3.) 15-Sep-2012 - <a href="https://sachhiem.net/TTL/TranTL29.php ">Những Ý
+          <p>3.) 15-Sep-2012 - <a href="/TTL/TranTL29">Những Ý
           Kiến Nghiêm Chỉnh Cho Kỳ Bầu Cử Tổng Thống Sắp Tới (2012)</a></p>
-          <p>4.) 18-Sep-2012 - <a href="https://sachhiem.net/TTL/TranTL30.php">Trao đổi
+          <p>4.) 18-Sep-2012 - <a href="/TTL/TranTL30">Trao đổi
           với ông NguyenT </a></p>
-          <p>5.) 03-Oct-2012 - <a href="https://sachhiem.net/TTL/TranTL32.php"> Công
+          <p>5.) 03-Oct-2012 - <a href="/TTL/TranTL32"> Công
           Giáo Và Vấn Đề Phá Thai </a> </p>
           
           <hr>

@@ -3,7 +3,7 @@ layout: ../../layouts/Article.astro
 title: "“Đất Nước Mình May Có Một Người Như Thế!”"
 author: "Nguyễn Hoàn"
 date: 2022-04-13
-source: "https://sachhiem.net/NGHOAN/NgHoan14.php"
+source: "/NGHOAN/NgHoan14"
 category: "Văn hóa"
 lang: vi
 wordCount: 2593

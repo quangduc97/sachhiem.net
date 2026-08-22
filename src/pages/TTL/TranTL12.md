@@ -3,7 +3,7 @@ layout: ../../layouts/Article.astro
 title: "Tôi Đọc Đặng Thúy BN587:"
 author: "Trần Tiên Long"
 date: 2011-12-17
-source: "https://sachhiem.net/TTL/TranTL12.php"
+source: "/TTL/TranTL12"
 category: "Tác giả"
 lang: vi
 wordCount: 3823
@@ -41,7 +41,7 @@ Trình độ kiến thức nghèo nàn của ông thì đã được Gs. TCN v�
 rất đầy đủ trong bài <i>Giáo Sư Nguyễn Mạnh Quang: Nạn Nhân Của Nền Đạo Lý Thiên
 La - Đắc</i> Lộ ở cái nguồn sau:</p>
 <p>
-<a href="https://sachhiem.net/TCN/TCNdt/TCNdt056.php">https://sachhiem.net/TCN/TCNdt/TCNdt056.php</a> </p>
+<a href="/TCN/TCNdt/TCNdt056">https://sachhiem.net/TCN/TCNdt/TCNdt056.php</a> </p>
 <p>
 Ở bài này, tôi sẽ lần lượt chứng minh những nhận định của tôi, điều mà tôi gọi
 là lý luận ngớ ngẩn, chẳng biết đâu là điểm, đâu là diện, đâu là cấu trúc tương
@@ -244,7 +244,7 @@ Gs. NMQ và TCN, và tôi cũng chưa bao giờ quen biết ông ĐT.</p>
   dân tộc thì đúng Gs. TCN đang chống CG. Đó là điều cần thiết phải chống như
   Gs. đã xác nhận: <i>“Tôi không phủ nhận là tôi ‘Chống Công Giáo’, không phải
   là chống lơ tơ mơ, mà chống triệt để. Tại sao? Vì tôi cho đây là điều cần thiết
-  trong thời đại ngày nay.” </i>(Trần Chung Ngọc, nguồn: <a href="https://sachhiem.net/TCN/TCNtg/TCN57.php%20">https://sachhiem.net/TCN/TCNtg/TCN57.php</a>)</p>
+  trong thời đại ngày nay.” </i>(Trần Chung Ngọc, nguồn: <a href="/TCN/TCNtg/TCN57.php%20">https://sachhiem.net/TCN/TCNtg/TCN57.php</a>)</p>
 <p>
   Như vậy, cứ đem một chữ, một câu văn ra ngoài văn cảnh để giải thích theo cách
   hiểu tuyệt đối (cho dù chẳng có điều gì là tuyệt đối) và đơn giản như ông ĐT

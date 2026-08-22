@@ -3,7 +3,7 @@ layout: ../../../layouts/Article.astro
 title: "Khi Việt-Tân Tự Vả Vào Mồm!"
 author: "Lão Chăn Bò"
 date: 2022-01-17
-source: "https://sachhiem.net/LICHSU/L/LaoChanBo01.php"
+source: "/LICHSU/L/LaoChanBo01"
 category: "Lịch sử"
 lang: vi
 wordCount: 644
@@ -23,7 +23,7 @@ image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/LICHSU/IMG/LAT_SU/Vi
 <p class="nguonL">Nguồn: <a href="https://www.facebook.com/thinhich.thich.5458/posts/1307541906385747">FB Dương Vương Kính</a> ngày 17 Jan, 2022</p>
 <p>_______________</p>
 <p><b>Tham khảo:</b></p>
-<p>1- <a href="https://sachhiem.net/BUIKHA/BuiKha25b_TVK.php">Trương Vĩnh Ký Phản Bội Tổ Quốc, Sao Lại Gọi Là Yêu Nước?</a> (Bùi Kha)</p>
-<p>2- <a href="https://sachhiem.net/LICHSU/T/TinTiengKeng.php">Cái Uyên Bác Của Trương Vĩnh Ký Giúp Pháp Thế Nào?</a> (theo Lò Thị Tố Uyên/ Tiếng Kẻng)</p>
-<p>3- <a href="https://sachhiem.net/index.php?content=showemail&amp;id=3409">Văn thư của BAN TUYÊN GIÁO về việc đặt tên đường cho những tên tuổi thời Pháp thuộc bị dư luận lên án</a>. </p>
+<p>1- <a href="/BUIKHA/BuiKha25b_TVK">Trương Vĩnh Ký Phản Bội Tổ Quốc, Sao Lại Gọi Là Yêu Nước?</a> (Bùi Kha)</p>
+<p>2- <a href="/LICHSU/T/TinTiengKeng">Cái Uyên Bác Của Trương Vĩnh Ký Giúp Pháp Thế Nào?</a> (theo Lò Thị Tố Uyên/ Tiếng Kẻng)</p>
+<p>3- <a href="/hop-thu/3409">Văn thư của BAN TUYÊN GIÁO về việc đặt tên đường cho những tên tuổi thời Pháp thuộc bị dư luận lên án</a>. </p>
 <p>_____________</p>

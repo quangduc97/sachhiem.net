@@ -3,7 +3,7 @@ layout: ../../../layouts/Article.astro
 title: "Lần Đầu Tiên Tòa Án Nam Hàn Ra Lệnh Bồi Thường Cho Nạn Nhân Chiến Tranh Ở Việt Nam"
 author: "theo Choe Sang-Hun/ NYT"
 date: 2023-02-10
-source: "https://sachhiem.net/LICHSU/S/SH10_ChientranhVN.php"
+source: "/LICHSU/S/SH10_ChientranhVN"
 category: "Lịch sử"
 lang: vi
 wordCount: 1479
@@ -45,6 +45,6 @@ image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/LICHSU/IMG/MauThan/P
  <p>* Chú thích của SH: Đấy là sự kiện Tết Mậu Thân.</p>
  <p>________________</p>
  <p><b>Đọc thêm:</b></p>
- <p><a href="https://sachhiem.net/SACHNGOAI/snL/LeHongPhong.php">- Chuyện Hoang Đường Vụ Thảm Sát Ở Huế 68 </a> by  Noam Chomsky and Edward S. Herman.</p>
- <p><a href="https://sachhiem.net/printemail.php?id=2510">- Sau 50 năm, tiểu thuyết "Giải Khăn Sô Cho Huế" nay đã bị vạch trần: Âm mưu của Mỹ- Thiệu </a>, by Trạng Móc.</p>
- <p>- <a href="https://sachhiem.net/LICHSU/M/MikeWilson_01.php">Nhân Đọc "Cần Có Cái Nhìn Khách Quan Về Huế - Mậu Thân 1968"</a> by Mike Wilson</p>
+ <p><a href="/SACHNGOAI/snL/LeHongPhong">- Chuyện Hoang Đường Vụ Thảm Sát Ở Huế 68 </a> by  Noam Chomsky and Edward S. Herman.</p>
+ <p><a href="/printemail.php?id=2510">- Sau 50 năm, tiểu thuyết "Giải Khăn Sô Cho Huế" nay đã bị vạch trần: Âm mưu của Mỹ- Thiệu </a>, by Trạng Móc.</p>
+ <p>- <a href="/LICHSU/M/MikeWilson_01">Nhân Đọc "Cần Có Cái Nhìn Khách Quan Về Huế - Mậu Thân 1968"</a> by Mike Wilson</p>

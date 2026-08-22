@@ -3,7 +3,7 @@ layout: ../../../layouts/Article.astro
 title: "\"Bí Mật Chưa Được Kể\": Các Chị Phước Mô Tả Những Lạm Dụng Bởi Các Nữ Tu"
 author: "Tin CBS News"
 date: 2019-01-09
-source: "https://sachhiem.net/SACHNGOAI/snT/TinSNAP.php"
+source: "/SACHNGOAI/snT/TinSNAP"
 category: "Chính trị"
 lang: vi
 wordCount: 1099

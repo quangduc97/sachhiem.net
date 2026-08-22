@@ -2,14 +2,14 @@
 layout: ../../../layouts/Article.astro
 title: "Giáo dục Việt Nam- một góc nhìn"
 author: "Nguyễn Austin"
-source: "https://sachhiem.net/VANHOC/N/NguyenAustin.php"
+source: "/VANHOC/N/NguyenAustin"
 category: "Văn hóa"
 lang: vi
 wordCount: 1314
-image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nha.jpg"
+image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/VANHOC/Hinh/Giaoduc.jpg"
 ---
 
-<p align="center"><a href="https://www.sachhiem.net/"> <img border="0" src="https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nha.jpg"></a> 07 tháng 12,   2009 </p> 
+<p align="center"> 07 tháng 12,   2009 </p> 
 	<p align="center">
 	<img border="0" src="https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/VANHOC/Hinh/Giaoduc.jpg" width="225" height="169"></p>
 	<p class="TuaDenLeft"><b>Bản lai diện mục.</b></p>

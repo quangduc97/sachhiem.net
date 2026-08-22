@@ -3,7 +3,7 @@ layout: ../../../layouts/Article.astro
 title: "Phúc trình A/5630 - Báo cáo của Phái đoàn Điều tra Liên Hiệp Quốc tại Nam Việt Nam"
 author: "Nguyễn Minh Tiến"
 date: 2017-10-30
-source: "https://sachhiem.net/SACHNGOAI/snN/NguyenMinhTien.php"
+source: "/SACHNGOAI/snN/NguyenMinhTien"
 lang: vi
 wordCount: 8551
 image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/SACHNGOAI/Hinhanh/BIASACH/PhucTrinh_A5630.jpg"
@@ -24,12 +24,12 @@ image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/SACHNGOAI/Hinhanh/BI
  <p>3-  Fado: <a href="https://fado.vn/nhan-dat-mua-ho-ship-sach-tu-tren-amazon-ve-viet-nam-gia-re.n522/" target="_blank">https://fado.vn/nhan-dat-mua-ho-ship-sach-tu-tren-amazon-ve-viet-nam-gia-re.n522/</a></p>
   </div>
 <p> <br>
-  ●     <a href="https://sachhiem.net/SACHNGOAI/snN/NguyenMinhTien.php#loi-dan" target="_blank" name="LD" shape="rect">Lời Dẫn</a><br>
-  ●     <a href="https://sachhiem.net/SACHNGOAI/snN/NguyenMinhTien.php#i-thong-tin-so-luoc" target="_blank" name="I" shape="rect">I. Thông Tin Sơ Lược</a><br>
-  ●     <a href="https://sachhiem.net/SACHNGOAI/snN/NguyenMinhTien.php#ii-tien-trinh-dieu-tra" target="_blank" name="II" shape="rect">II. Tiến Trình Điều Tra </a><br>
-  ●     <a href="https://sachhiem.net/SACHNGOAI/snN/NguyenMinhTien01.php#iii-ket-qua-dieu-tra" target="_blank" name="III" shape="rect">III. Kết Quả Điều Tra</a><br>
-  ●     <a href="https://sachhiem.net/SACHNGOAI/snN/NguyenMinhTien02.php#iv-vai-su-that-lich-su" target="_blank" name="IV" shape="rect"> IV. Vài Sự Thật Lịch Sử </a><br>
-  ●     <a href="https://sachhiem.net/SACHNGOAI/snN/NguyenMinhTien02.php#v-mot-vai-nhan-dinh" target="_blank" name="V" shape="rect">V. Một Vài Nhận Định</a></p>
+  ●     <a href="/SACHNGOAI/snN/NguyenMinhTien#loi-dan" target="_blank" name="LD" shape="rect">Lời Dẫn</a><br>
+  ●     <a href="/SACHNGOAI/snN/NguyenMinhTien#i-thong-tin-so-luoc" target="_blank" name="I" shape="rect">I. Thông Tin Sơ Lược</a><br>
+  ●     <a href="/SACHNGOAI/snN/NguyenMinhTien#ii-tien-trinh-dieu-tra" target="_blank" name="II" shape="rect">II. Tiến Trình Điều Tra </a><br>
+  ●     <a href="/SACHNGOAI/snN/NguyenMinhTien01#iii-ket-qua-dieu-tra" target="_blank" name="III" shape="rect">III. Kết Quả Điều Tra</a><br>
+  ●     <a href="/SACHNGOAI/snN/NguyenMinhTien02#iv-vai-su-that-lich-su" target="_blank" name="IV" shape="rect"> IV. Vài Sự Thật Lịch Sử </a><br>
+  ●     <a href="/SACHNGOAI/snN/NguyenMinhTien02#v-mot-vai-nhan-dinh" target="_blank" name="V" shape="rect">V. Một Vài Nhận Định</a></p>
 <a name="loi-dan" target="_blank" href="/SACHNGOAI/#LD"><p class="Tuaduoi"><b>LỜI DẪN</b></p></a>
   <p>
   Phúc trình mang số  hiệu A/5630 là báo cáo của Phái đoàn Điều tra Liên  Hiệp Quốc tại Nam Việt Nam (Report of the United Nation  Fact-Finding Mission to South Viet-Nam) được soạn thảo bằng tiếng Anh, tiếng  Pháp và tiếng Tây Ban Nha, là kết quả của một cuộc điều tra khách  quan do Liên Hiệp Quốc tiến hành thông qua việc chỉ định các đại  diện từ 7 quốc gia thành viên cùng một số nhân viên  chuyên môn để hỗ trợ hoạt động điều tra. Phái đoàn điều tra này  đã đến Nam Việt Nam ngày 24-10-1963 và đến sáng ngày 1-11 thì dự  kiến sẽ hoàn tất công việc vào cuối ngày 3-11. Tuy nhiên,  cuộc chính biến diễn ra trong ngày 1-11 đã làm thay đổi phần cuối kế hoạch,  cũng như có thể là nguyên nhân khiến cho Phái đoàn không  nhận được những tài liệu quan trọng mà Chính phủ ông Diệm đã hứa  sẽ cung cấp. Ngoài ra, để chuẩn bị các phương thức và chương  trình hành động sao cho khách quan và hiệu quả, trước đó phái  đoàn cũng đã có 4 phiên họp trong thời gian từ ngày 14-10 đến  21-10-1963 tại New York.</p>
@@ -117,5 +117,5 @@ image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/SACHNGOAI/Hinhanh/BI
 <p>    Sáng sớm ngày 2-11-1963, Đại diện đặc biệt của Việt Nam tại Liên  Hiệp Quốc, ông Bửu Hội, đến gặp Phái đoàn tại khách sạn Majestic  để chuyển lời của Hội đồng Quân nhân Cách mạng lúc đó vừa  lên nắm quyền. Hội đồng này muốn gửi lời chào đến Phái đoàn và  có lời mời Phái đoàn có thể tiếp tục ở lại Việt  Nam bao lâu tùy thích, đồng thời cũng bày tỏ mong muốn  được tiếp đón Phái đoàn vào chiều hôm đó. Vị Trưởng đoàn hồi  đáp rằng Phái đoàn đã có quyết định rời Việt Nam vào  ngày 3-11-1963 và sẽ đánh giá cao sự trợ giúp của Hội đồng Quân  nhân Cách mạng để Phái đoàn có thể ra đi dễ dàng.</p>
 <p>    Chiều hôm đó, 2-11-1963, vị Trưởng đoàn đã thay mặt Phái đoàn đến  thăm xã giao các tướng Dương Văn Minh, Trần Văn Đôn và Lê Văn  Kim. Tướng Minh đã nhắc lại lời mời rằng Phái đoàn có thể ở  lại tùy ý để hoàn tất nhiệm vụ. Trưởng đoàn cho biết nhiệm  vụ của Phái đoàn đã hoàn tất và ngày ra đi đã  được quyết định. Ngày 3-11-1963, Phái đoàn ra thông cáo báo  chí trước khi rời Sài Gòn và có đề cập đến cuộc viếng thăm Hội đồng Quân  nhân Cách mạng. Trong thông cáo báo chí này, Phái đoàn đã công  khai cho biết một số lãnh đạo Phật giáo mà họ đã phỏng  vấn, bao gồm các vị Thích Trí Thủ, Thích Quảng Liên, Thích Tam  Giác, Thích Tâm Châu, Thích Đức Nghiệp, Thích Tiến Minh và Cư sĩ Mai  Thọ Truyền.</p>
 <p>    Phái đoàn rời Sài Gòn lúc 6 giờ chiều ngày 3-11-1963, có tướng Lê Văn  Kim, đại diện Hội đồng Quân nhân Cách mạng và ông Phạm  Đăng Lâm, đại diện Bộ Ngoại giao, cùng ra đưa tiễn.</p>
-  <p>(xem tiếp <a href="https://sachhiem.net/SACHNGOAI/snN/NguyenMinhTien01.php">Phần III: Kết Quả Điều Tra</a>)</p>
+  <p>(xem tiếp <a href="/SACHNGOAI/snN/NguyenMinhTien01">Phần III: Kết Quả Điều Tra</a>)</p>
 <p class="nguonL">Nguồn: https://thuvienhoasen.org/p58a28808/loi-dan; https://thuvienhoasen.org/p58a28809/i-thong-tin-so-luoc; https://thuvienhoasen.org/p58a28810/ii-tien-trinh-dieu-tra</p>

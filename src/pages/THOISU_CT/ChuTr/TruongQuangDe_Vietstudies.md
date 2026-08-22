@@ -3,7 +3,7 @@ layout: ../../../layouts/Article.astro
 title: "Tại sao Mỹ thất bại ở Việt Nam? Một Câu Hỏi Chưa Có Lời Giải Đáp"
 author: "Trương Quang Đệ/ Viet_Studies"
 date: 2018-09-28
-source: "https://sachhiem.net/THOISU_CT/ChuTr/TruongQuangDe_Vietstudies.php"
+source: "/THOISU_CT/ChuTr/TruongQuangDe_Vietstudies"
 category: "Chính trị"
 lang: vi
 wordCount: 2116

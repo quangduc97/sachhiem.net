@@ -6,7 +6,7 @@ source: "https://www.lieuquanhue.com.vn/index.php/1/3461.html ngày 26/07/2009 2
 category: "Tác giả"
 lang: vi
 wordCount: 1172
-image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nha.jpg"
+image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/IMG/Dalailatma.jpg"
 ---
 
 <div align="center" style="position: relative; left: 0; top: 0">
@@ -27,7 +27,7 @@ image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nha.jpg"
 <tr><td>
 <div style="padding-left: 50px; padding-right: 50px"> 
 	<table border="0" cellpadding="1" width="86%" cols="2"><tbody><tr>
-	<td><a href="/index"><img border="0" src="https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nha.jpg"></a></td>
+	<td></td>
 <td valign="top" width="210"><p>29 tháng 7, 2009</p>
 			</td></tr></tbody></table>
 	

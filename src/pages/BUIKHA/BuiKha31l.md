@@ -3,7 +3,7 @@ layout: ../../layouts/Article.astro
 title: "Tuyển Tập II: NGUYỄN TRƯỜNG TỘ - 12 bài biện chính"
 author: "Bùi Kha"
 date: 2016-08-29
-source: "https://sachhiem.net/BUIKHA/BuiKha31l.php"
+source: "/BUIKHA/BuiKha31l"
 category: "Đối thoại"
 lang: vi
 wordCount: 3368

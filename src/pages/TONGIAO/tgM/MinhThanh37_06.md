@@ -3,7 +3,7 @@ layout: ../../../layouts/Article.astro
 title: "[VATICANOLOGY] - Đức Ông Thứ Trưởng Ngoại Giao Vatican Thăm Việt Nam:"
 author: "Minh Thạnh"
 date: 2024-05-30
-source: "https://sachhiem.net/TONGIAO/tgM/MinhThanh37_06.php"
+source: "/TONGIAO/tgM/MinhThanh37_06"
 category: "Chính trị"
 lang: vi
 wordCount: 4438

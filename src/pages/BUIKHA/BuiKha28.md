@@ -3,7 +3,7 @@ layout: ../../layouts/Article.astro
 title: "Thiền Trong Đạo Chúa"
 author: "Bùi Kha"
 date: 2015-02-23
-source: "https://sachhiem.net/BUIKHA/BuiKha28.php"
+source: "/BUIKHA/BuiKha28"
 category: "Tác giả"
 lang: vi
 wordCount: 5513
@@ -133,7 +133,7 @@ John Shelby Spong</i> </p>
 <p> <i>(3) LM Matthew Nguyễn Khắc Hy, S.S.<br>
 https://www.kinhthanhvn.org/viewItem.jhtml?itemId=6].</i> </p>
 <p>(4)<i><a href="https://ngonsu.quetroi.net/KHANG/NDKHanhTrinhTruyenGiaoPhaolo01.html"> https://ngonsu.quetroi.net/...</a>.&nbsp; &nbsp;(5-1,5-2,5-3 )<br>
-<a href="https://sachhiem.net/TCN/TCNdt/TCNdt053.php"> https://sachhiem.net/TCN/TCNdt/TCNdt053.php</a>.</i></p>
+<a href="/TCN/TCNdt/TCNdt053"> https://sachhiem.net/TCN/TCNdt/TCNdt053.php</a>.</i></p>
 <p> <i>- https://sachhiem.net/CHARLIE/CN_CGHT/dongten.php</i></p>
 <p> <i>- https://www.atheistempire.com/greatminds/quotes.php?author=2. </i></p>
 <p>   (7) <i>I furthermore promise and declare  that I will, when opportunity present, make and wage relentless war, secretly  or openly, against all heretics, Protestants and Liberals, as I am directed to  do, to extirpate and exterminate them from the face of the whole earth; and  that I will spare neither age, sex or condition; and that I will hang, waste,  boil, flay, strangle and bury alive these infamous heretics, rip up the  stomachs and wombs of their women and crush their infants' heads against the  walls, in order to annihilate forever their execrable race</i>…[ Vô số tài liệu về Dòng Tên, có thể tìm qua  mạng bằng cách đánh mấy chữ: “Lời thề của Dòng Tên”. Tiếng Anh “<i><b>Extreme Oath of the Jesuits</b></i>”]. </p>

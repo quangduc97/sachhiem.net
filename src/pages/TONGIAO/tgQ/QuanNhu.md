@@ -2,11 +2,11 @@
 layout: ../../../layouts/Article.astro
 title: "Tuyên Ngôn của Một Người Vô Thần"
 author: "Quán Như"
-source: "https://sachhiem.net/TONGIAO/tgQ/QuanNhu.php"
+source: "/TONGIAO/tgQ/QuanNhu"
 category: "Tác giả"
 lang: vi
 wordCount: 10899
-image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nha.jpg"
+image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/COVER/TheAtheistManifesto.jpg"
 ---
 
 <p class="Tuaduoi"> Nhân Đọc </p>
@@ -14,7 +14,7 @@ image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nha.jpg"
 	
 		
 		
-	<p align="center"> <a href="/index"><img border="0" src="https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nha.jpg"></a> 27 tháng 8, 2008
+	<p align="center">  27 tháng 8, 2008
 	</p> 
 	
 	<p><i>Tác phẩm The Atheist Manifesto, The Case Against 
@@ -797,10 +797,10 @@ image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nha.jpg"
 	lỗi’ với cả nhân loại.</p>
 	<p>____________________________</p>
     <p>[SH - Tác giả có những quyển sách xuất bản như sau:<br>
-      <a href="https://sachhiem.net/EMAILS/SH/Sachhiem_sachmoi.php">https://sachhiem.net/EMAILS/SH/Sachhiem17_sachmoi.php</a>]</p>
+      <a href="/EMAILS/SH/Sachhiem_sachmoi">https://sachhiem.net/EMAILS/SH/Sachhiem17_sachmoi.php</a>]</p>
     <p>_____________________________</p>
     <p><b>Những bài cùng tác giả Quán Như đã đăng trong sachhiem.net:</b></p>
-    <p>- <a href="https://sachhiem.net/TONGIAO/tgQ/QuanNhu04.php"> Nói Về Những Phong Trào Tranh Đấu Của Phật Giáo Tại Miền Nam </a></p>
-    <p><a href="https://sachhiem.net/TONGIAO/tgQ/QuanNhu03.php">- HOÀNG NGUYÊN NHUẬN, Mối Tình Đoàn Hữu Hơn Ba Mươi Năm</a></p>
-    <p><a href="https://sachhiem.net/TONGIAO/tgQ/QuanNhu02.php">- Tây Phương Đã Tiếp Nhận Đạo Phật Như Thế Nào? </a></p>
-    <p><a href="https://sachhiem.net/TONGIAO/tgQ/QuanNhu.php">- Nhân Đọc Tuyên Ngôn của Một Người Vô Thần</a></p>
+    <p>- <a href="/TONGIAO/tgQ/QuanNhu04"> Nói Về Những Phong Trào Tranh Đấu Của Phật Giáo Tại Miền Nam </a></p>
+    <p><a href="/TONGIAO/tgQ/QuanNhu03">- HOÀNG NGUYÊN NHUẬN, Mối Tình Đoàn Hữu Hơn Ba Mươi Năm</a></p>
+    <p><a href="/TONGIAO/tgQ/QuanNhu02">- Tây Phương Đã Tiếp Nhận Đạo Phật Như Thế Nào? </a></p>
+    <p><a href="/TONGIAO/tgQ/QuanNhu">- Nhân Đọc Tuyên Ngôn của Một Người Vô Thần</a></p>

@@ -3,7 +3,7 @@ layout: ../../layouts/Article.astro
 title: "Thuyết Luân Hồi"
 author: "Lê Sỹ Minh Tùng"
 date: 2016-08-15
-source: "https://sachhiem.net/DOITHOAI/LeSyMinhTung.php"
+source: "/DOITHOAI/LeSyMinhTung"
 category: "Chính trị"
 lang: vi
 wordCount: 6548

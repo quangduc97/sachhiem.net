@@ -3,14 +3,14 @@ layout: ../../layouts/Article.astro
 title: "Tuyển Tập II: NGUYỄN TRƯỜNG TỘ - 12 bài biện chính"
 author: "Bùi Kha"
 date: 2016-08-29
-source: "https://sachhiem.net/BUIKHA/BuiKha31a.php"
+source: "/BUIKHA/BuiKha31a"
 category: "Đối thoại"
 lang: vi
 wordCount: 8856
 image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/LICHSU/IMG/NHANVAT/TruongvinhKy0.jpg"
 ---
 
-<p><a href="https://sachhiem.net/BUIKHA/BuiKha31.php">  0 </a>&nbsp; <a href="https://sachhiem.net/BUIKHA/BuiKha31a.php">  1 </a>&nbsp;<a href="https://sachhiem.net/BUIKHA/BuiKha31b.php"> 2 </a>&nbsp;<a href="https://sachhiem.net/BUIKHA/BuiKha31c.php"> 3 </a>&nbsp;<a href="https://sachhiem.net/BUIKHA/BuiKha31d.php"> 4 </a>&nbsp;<a href="https://sachhiem.net/BUIKHA/BuiKha31e.php">  5 </a>&nbsp;<a href="https://sachhiem.net/BUIKHA/BuiKha31f.php"> 6 </a>&nbsp;<a href="https://sachhiem.net/BUIKHA/BuiKha31g.php"> 7 </a>&nbsp;<a href="https://sachhiem.net/BUIKHA/BuiKha31h.php"> 8 </a>&nbsp;<a href="https://sachhiem.net/BUIKHA/BuiKha31i.php">  9 </a>&nbsp;<a href="https://sachhiem.net/BUIKHA/BuiKha31j.php"> 10 </a>&nbsp;<a href="https://sachhiem.net/BUIKHA/BuiKha31k.php"> 11 </a>&nbsp;<a href="https://sachhiem.net/BUIKHA/BuiKha31l.php"> 12 </a>&nbsp; - <a href="https://sachhiem.net/BUIKHA/BuiKha31m.php"> Phụ Lục</a>  </p>
+<p><a href="/BUIKHA/BuiKha31">  0 </a>&nbsp; <a href="/BUIKHA/BuiKha31a">  1 </a>&nbsp;<a href="/BUIKHA/BuiKha31b"> 2 </a>&nbsp;<a href="/BUIKHA/BuiKha31c"> 3 </a>&nbsp;<a href="/BUIKHA/BuiKha31d"> 4 </a>&nbsp;<a href="/BUIKHA/BuiKha31e">  5 </a>&nbsp;<a href="/BUIKHA/BuiKha31f"> 6 </a>&nbsp;<a href="/BUIKHA/BuiKha31g"> 7 </a>&nbsp;<a href="/BUIKHA/BuiKha31h"> 8 </a>&nbsp;<a href="/BUIKHA/BuiKha31i">  9 </a>&nbsp;<a href="/BUIKHA/BuiKha31j"> 10 </a>&nbsp;<a href="/BUIKHA/BuiKha31k"> 11 </a>&nbsp;<a href="/BUIKHA/BuiKha31l"> 12 </a>&nbsp; - <a href="/BUIKHA/BuiKha31m"> Phụ Lục</a>  </p>
      <div class="tomluoc">
   <p align="center"><b> Bài 3 </b></p>
 <p class="Tuaduoi"><b>NGUYỄN TRƯỜNG TỘ, MỘT BI KỊCH LẠC QUAN</b></p>

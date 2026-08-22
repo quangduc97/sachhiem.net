@@ -3,7 +3,7 @@ layout: ../../../layouts/Article.astro
 title: "Hồi Ức Ngày Di Tản Tháng 3-1975"
 author: "Nguyễn Trí Cảm"
 date: 2012-04-19
-source: "https://sachhiem.net/TONGIAO/NGTRCAM/NguyenTriCam28.php"
+source: "/TONGIAO/NGTRCAM/NguyenTriCam28"
 category: "Tác giả"
 lang: vi
 wordCount: 2808

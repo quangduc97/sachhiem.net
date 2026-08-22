@@ -3,7 +3,7 @@ layout: ../../../layouts/Article.astro
 title: "Dấu Giày Vatican Trên Quê Hương Tôi - Tập 1"
 author: "Nguyễn Mạnh Quang"
 date: 2025-05-28
-source: "https://sachhiem.net/NMQ/DAUGIAY/DauGiay01.php"
+source: "/NMQ/DAUGIAY/DauGiay01"
 lang: vi
 wordCount: 26
 image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/NMQ/DAUGIAY/NMQ_BIATRUOC_0gay.png"

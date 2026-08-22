@@ -2,16 +2,16 @@
 layout: ../../../layouts/Article.astro
 title: "Love Without Borders:"
 author: "news from internet"
-source: "https://sachhiem.net/null"
+source: "/null"
 category: "Chính trị"
 lang: en
 wordCount: 1265
-image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nha.jpg"
+image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/TimAline/TimAline.jpg"
 ---
 
 <p class="Tuaduoi">A Fairy Tale of the 21st&nbsp;Century </p>
   
-  <p align="center"> <a href="https://sachhiem.net/index.php"><img border="0" src="https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nha.jpg" hspace="20"></a> 24 tháng 5, 2008 </p>
+  <p align="center">  24 tháng 5, 2008 </p>
   <p align="center">&lt;&lt; <a href="/XAHOI/TIMAlineV">to Vietnamese version</a> &gt;&gt;</p>
   
   <p class="MUC">Love Without Borders:</p>

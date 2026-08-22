@@ -2,11 +2,11 @@
 layout: ../../../layouts/Article.astro
 title: "Có lửa trong từng trang sách"
 author: "Trần Vân Hạc"
-source: "https://sachhiem.net/Sọan giả - nhà thơ Gia Dũng bên trái, Nhà giáo Hoàng Đạo Chúc bên phải cùng cuốn Nguyễn Trãi - Hợp tuyển thơ."
+source: "/Sọan giả - nhà thơ Gia Dũng bên trái, Nhà giáo Hoàng Đạo Chúc bên phải cùng cuốn Nguyễn Trãi - Hợp tuyển thơ."
 category: "Văn hóa"
 lang: vi
 wordCount: 2412
-image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nha.jpg"
+image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/VANHOC/IMG/2.jpg"
 ---
 
 <div align="center" style="position: relative; left: 0; top: 0">
@@ -25,8 +25,7 @@ image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nha.jpg"
 <div style="padding-left: 50px; padding-right: 50px"> 
 	<table border="0" cellpadding="1" width="600" cols="2">
 		<tbody><tr>
-			<td><a href="/XAHOI/index">
-			<img border="0" src="https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nha.jpg"></a></td>
+			<td></td>
 			<td valign="top" width="244">
 			<p>16 tháng 10,   2009 </p></td>
 		</tr>

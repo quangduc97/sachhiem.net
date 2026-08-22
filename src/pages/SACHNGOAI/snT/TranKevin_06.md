@@ -3,7 +3,7 @@ layout: ../../../layouts/Article.astro
 title: "Nước Mỹ dưới cái nhìn của Trump và Clinton"
 author: "Joe Heller / Kevin Trần sưu tầm"
 date: 2016-08-01
-source: "https://sachhiem.net/SACHNGOAI/snT/TranKevin_06.php"
+source: "/SACHNGOAI/snT/TranKevin_06"
 category: "Chính trị"
 lang: vi
 wordCount: 260

@@ -3,7 +3,7 @@ layout: ../../layouts/Article.astro
 title: "Đặng Văn Hoà Một Vị Đại Thần Có Công Tâm Với Đạo Phật"
 author: "Hưng Thước"
 date: 2014-02-20
-source: "https://sachhiem.net/VANHOC/Hungthuoc.php"
+source: "/VANHOC/Hungthuoc"
 category: "Tác giả"
 lang: vi
 wordCount: 3717

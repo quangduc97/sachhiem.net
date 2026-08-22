@@ -3,7 +3,7 @@ layout: ../../../layouts/Article.astro
 title: "Học giả Việt tại Harvard nhận định về khả năng Việt Nam kiện Trung Quốc ra tòa án quốc tế (*)"
 author: "TTXVN thực hiện"
 date: 2014-05-29
-source: "https://sachhiem.net/THOISU_CT/ChuT/TTXVN.php"
+source: "/THOISU_CT/ChuT/TTXVN"
 category: "Chính trị"
 lang: vi
 wordCount: 2691
@@ -50,4 +50,4 @@ image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/THOISU_CT/Hinh/NHANV
           <p> <i><a href="https://baotintuc.vn/">Báo tin tức</a>/TTXVN</i></p>
           <p class="nguonL">Nguồn https://m.baotintuc.vn/nguoi-viet-bon-phuong/hoc-gia-viet-tai-harvard-noi-gi-ve-gian-khoan-981-20140523153759939.htm ngày 23/05/2014 15:38</p>
 <p>____________________</p>
-   <p><a href="https://sachhiem.net/LICHSU/H/HoangSa_list.php">Các bài về Hoàng Sa- Trường Sa đăng trên sachhiem.net » </a></p>
+   <p><a href="/LICHSU/H/HoangSa_list">Các bài về Hoàng Sa- Trường Sa đăng trên sachhiem.net » </a></p>

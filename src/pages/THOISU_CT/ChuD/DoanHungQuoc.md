@@ -2,7 +2,7 @@
 layout: ../../../layouts/Article.astro
 title: "Chiến sách lớn tại Á Châu"
 author: "Đoàn Hưng Quốc"
-source: "https://sachhiem.net/null"
+source: "/null"
 category: "Chính trị"
 lang: vi
 wordCount: 808

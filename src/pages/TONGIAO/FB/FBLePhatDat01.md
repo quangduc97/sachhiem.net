@@ -3,7 +3,7 @@ layout: ../../../layouts/Article.astro
 title: "Một chấm, một phẩy trong bộ luật cũng không bỏ sót - trích đoạn Cựu Ước."
 author: "Lê Phát Đạt soạn"
 date: 2021-11-01
-source: "https://sachhiem.net/TONGIAO/FB/FBLePhatDat01.php"
+source: "/TONGIAO/FB/FBLePhatDat01"
 category: "Chính trị"
 lang: vi
 wordCount: 420

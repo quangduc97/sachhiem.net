@@ -2,10 +2,10 @@
 layout: ../../../layouts/Article.astro
 title: "Trái Tim Bất Tử"
 author: "Quốc Việt/Tuổi Trẻ"
-source: "https://sachhiem.net/null"
+source: "/null"
 lang: vi
 wordCount: 1444
-image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nha.jpg"
+image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/TONGIAO/IMG/TQDtruockhituthieu.jpg"
 ---
 
 <div align="center" style="position: relative; left: 0; top: 0">
@@ -22,8 +22,7 @@ image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nha.jpg"
 <tr><td bgcolor="#FEFEFE" width="100%">
 <div style="padding-left: 50px; padding-right: 50px"> 
 	<table border="0" cellpadding="10" width="85%" cols="2"><tbody><tr>
-	<td valign="top" width="198"><a href="/index">
-	<img border="0" src="https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nha.jpg"></a></td>
+	<td valign="top" width="198"></td>
 	<td valign="top" style="text-align:right"> 01 tháng 6, 2010</td></tr></tbody></table>
 	<p>TT - Thứ Ba, 01/06/2010, 00:18 (GMT+7) </p>
 	<p><font color="#606060">TT - Tâm sự lời cuối với Bồ tát Thích Quảng Đức và dặn dò sư tăng bảo vệ 

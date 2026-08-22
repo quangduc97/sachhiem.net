@@ -3,7 +3,7 @@ layout: ../../../layouts/Article.astro
 title: "Trong Viện Bảo Tàng Medieval Dungeon ở San Francisco, Hoa Kỳ"
 author: "Kyle J. Wood"
 date: 2013-03-22
-source: "https://sachhiem.net/TONGIAO/tgS/SH45_hinhcu.php"
+source: "/TONGIAO/tgS/SH45_hinhcu"
 category: "Tác giả"
 lang: vi
 wordCount: 590

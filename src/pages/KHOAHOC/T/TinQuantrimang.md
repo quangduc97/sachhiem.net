@@ -3,7 +3,7 @@ layout: ../../../layouts/Article.astro
 title: "10 Hiện Tượng Ma Quỷ Bí Ẩn Dưới Góc Nhìn Khoa Học"
 author: "Phương Phùng/ quantrimang.com"
 date: 2018-10-26
-source: "https://sachhiem.net/KHOAHOC/T/TinQuantrimang.php"
+source: "/KHOAHOC/T/TinQuantrimang"
 category: "Chính trị"
 lang: vi
 wordCount: 2414

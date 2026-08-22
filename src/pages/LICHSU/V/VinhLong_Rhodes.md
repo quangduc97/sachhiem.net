@@ -3,15 +3,14 @@ layout: ../../../layouts/Article.astro
 title: "Lời Phê Dưới Video Về Một Con Đường"
 author: "Vĩnh Long/ KKC Channel"
 date: 2019-12-15
-source: "https://sachhiem.net/LICHSU/V/VinhLong_Rhodes.php"
+source: "/LICHSU/V/VinhLong_Rhodes"
 category: "Chính trị"
 lang: vi
 wordCount: 1277
-image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nha.jpg"
+image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/LICHSU/IMG/ALEX/Francisco_dePina1.jpg"
 ---
 
-<p align="center"><a href="https://www.sachhiem.net/">
-<img border="0" src="https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nha.jpg"></a> 
+<p align="center"> 
 ngày 15-Dec-2019</p>
  <div class="tomluoc">
   <p><i>LTS: Đây là một nhận xét vắn tắt nhưng rất xúc tích ở dưới video có tựa <a href="https://www.youtube.com/watch?v=x9CV85HmiAY">"Đường Alexandre De Rhodes - Con đường mang hơi thở xưa."</a> để trả lời cho mấy nhận xét trống rỗng, lặp lại những điều được tuyên truyền từ lâu mà không có chứng gì cả. (SH)</i></p>
@@ -38,5 +37,5 @@ ngày 15-Dec-2019</p>
  <p class="nguonL">Nguồn https://www.youtube.com/watch?v=x9CV85HmiAY</p>
  <p>___________</p>
  <p><b>Bài liên quan: </b></p>
- <p>- V/V Đặt Tên Đường Ở TP Đà Nẵng - Thư Kiến Nghị Của Một Nhóm Trí Thức Trong Nước &nbsp;(Xin đọc <a href="https://www.sachhiem.net/DOITHOAI/Rhodes.php">https://sachhiem.net/DOITHOAI/Rhodes.php</a>)</p>
- <p>- Các bài trong trang nhà liên quan đến nhân vật Alexandre De Rhodes: <a href="https://sachhiem.net/TONGIAO/ListRhodes.inc.php">https://sachhiem.net/TONGIAO/ListRhodes.inc.php</a></p>
+ <p>- V/V Đặt Tên Đường Ở TP Đà Nẵng - Thư Kiến Nghị Của Một Nhóm Trí Thức Trong Nước &nbsp;(Xin đọc <a href="/DOITHOAI/Rhodes">https://sachhiem.net/DOITHOAI/Rhodes.php</a>)</p>
+ <p>- Các bài trong trang nhà liên quan đến nhân vật Alexandre De Rhodes: <a href="/TONGIAO/ListRhodes.inc">https://sachhiem.net/TONGIAO/ListRhodes.inc.php</a></p>

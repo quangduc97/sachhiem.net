@@ -1,7 +1,7 @@
 ---
 layout: ../../layouts/Article.astro
 title: "Tác Giả Charlie Nguyễn"
-source: "https://sachhiem.net/null"
+source: "/null"
 category: "Tác giả"
 lang: vi
 wordCount: 671

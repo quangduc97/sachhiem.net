@@ -2,15 +2,14 @@
 layout: ../../../layouts/Article.astro
 title: "Các Nhà Ngoại Giao Hoa Kỳ Hội Đàm Với Taliban Về Việc Chấm Dứt Chiến Tranh Afghanistan"
 author: "By Sayed Salahuddin/Washington Post"
-source: "https://sachhiem.net/THOISU_CT/ChuT/TinWP01.php"
+source: "/THOISU_CT/ChuT/TinWP01"
 category: "Chính trị"
 lang: vi
 wordCount: 1334
-image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nha.jpg"
+image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/THOISU_CT/Hinh/TRUNGDONG/Afghanistan_daisuHK_ZalmayKhalilzad.jpg"
 ---
 
-<p align="center"><a href="https://www.sachhiem.net/">
-<img border="0" src="https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nha.jpg"></a> 17 tháng 12, 2018</p> 
+<p align="center"> 17 tháng 12, 2018</p> 
 
 <div class="tomluoc">
   <p><i>LTS:  Một bản tin làm gợi nhớ một đoạn lịch sử đau thương  của “miền nam Việt Nam” dưới sự bảo hộ của siêu cường quốc Hoa Kỳ sau Hiệp ước  Geneva 1954, vốn đã chia đôi đất nước hơn 20 năm. </i><i>Có một cái gì tựa như bản sao kịch bản của một thời đã  qua ở một nước nhược tiểu mà giới lãnh đạo chỉ chuyên làm tay sai cho ngoại  bang. </i><i>Một khi chuyện làm ăn thất bại thì siêu cường tìm cách lùi an toàn để lại  cho đám tay sai bộ hạ những nổi đau vô tận. </i></p>

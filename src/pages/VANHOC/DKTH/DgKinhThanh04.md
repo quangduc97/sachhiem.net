@@ -3,7 +3,7 @@ layout: ../../../layouts/Article.astro
 title: "Tết Ta Tết Tây"
 author: "Dương Kinh Thành"
 date: 2013-01-27
-source: "https://sachhiem.net/VANHOC/DKTH/DgKinhThanh04.php"
+source: "/VANHOC/DKTH/DgKinhThanh04"
 category: "Văn hóa"
 lang: vi
 wordCount: 1739

@@ -3,7 +3,7 @@ layout: ../../../layouts/Article.astro
 title: "Dự Thảo Sửa Đổi Hiến Pháp 1992"
 author: "Nguyễn Trọng Nghĩa"
 date: 2013-04-02
-source: "https://sachhiem.net/THOISU_CT/ChuN/NgTnghia_hp.php"
+source: "/THOISU_CT/ChuN/NgTnghia_hp"
 category: "Tác giả"
 lang: vi
 wordCount: 5840
@@ -20,7 +20,7 @@ image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/TONGIAO/IMG/LINHMUC/
    <hr>
  <p align="center"><b>Góp Ý Của Giáo Dân về Bản </b></p>
 <p>  <b><i>“Nhận Định Và Góp Ý Dự Thảo Sửa Đổi Hiến Pháp 1992 (Sửa Đổi Năm 2013) Của Hội Đồng Giám Mục Việt Nam – Các Giám Mục Công Giáo Việt Nam”</i></b></p>
-<p>(có đăng trên <a href="https://sachhiem.net/TONGIAO/tgN/NgTnghia_HDGM.php">https://tgpsaigon.net/baiviet-tintuc/20130319/20504)</a></p>
+<p>(có đăng trên <a href="/TONGIAO/tgN/NgTnghia_HDGM">https://tgpsaigon.net/baiviet-tintuc/20130319/20504)</a></p>
 <p align="center"> <b>***</b></p>
  <p> <span class="First">T</span>ôi tên <b>Nguyễn Trọng Nghĩa</b>, &nbsp;là giáo dân giáo xứ Cao Lãnh – giáo&nbsp; phận Mỹ Tho, ngụ tại số 37, đường Điện Biên Phủ, xã Mỹ Trà, Tp Cao Lãnh, tỉnh Đồng Tháp.</p>
  <div class="danbai">
@@ -102,11 +102,11 @@ image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/TONGIAO/IMG/LINHMUC/
  <p class="TacgiaL">Nguyễn Trọng Nghĩa </p>
  <p>______________</p>
  <p><b>Bài cùng chủ đề:</b></p>
- <p> <a href="https://sachhiem.net/NMQ/NMQ041.php">- Góp Ý Về Bài Của Ông Đặng Văn Việt Góp Ý Sửa Đổi Hiến Pháp </a> (Nguyễn Mạnh Quang)</p>
- <p><a href="https://sachhiem.net/THOISU_CT/ChuD/DangvViet.php ">- Góp Ý Sửa Đổi Hiến Pháp</a> (Đặng Văn Việt )</p>
- <p><a href="https://sachhiem.net/NMQ/NMQ038.php">- Góp Ý Trong Vấn Đề Sửa Đổi Hiến Pháp</a> (Nguyễn Mạnh Quang)</p>
- <p> <a href="https://sachhiem.net/TCN/TCNts/TCNts066.php">- Tản Mạn Quanh Vài Chuyện Góp Ý Dự Thảo Sửa Đổi Hiến Pháp Năm 1992</a> (Trần Chung Ngọc)</p>
- <p><a href="https://sachhiem.net/DOITHOAI/NgnThhTung0.php">- Cùng Quẫn Lý Lẽ Của Một Con Cừu</a> (Nguyễn Thanh Tùng)</p>
- <p><a href="https://sachhiem.net/THOISU_CT/ChuN/NgTnghia_hp.php">- Góp Ý Của Giáo Dân Về Bản Nhận Định Và Góp Ý Dự Thảo Sửa Đổi Hiến Pháp 1992 Của HĐGMVN,.. </a> (giáo dân Nguyễn Trọng Nghĩa)</p>
- <p>- <a href="https://sachhiem.net/THOISU_CT/ChuH/HoMinhDiep_hp.php">Về Tình Trạng Đồng Hóa Đức Tin Với Chính Trị Của Giáo Hội Công Giáo Tại Việt Nam</a> (Phê-rô Hồ Minh Điệp)</p>
+ <p> <a href="/NMQ/NMQ041">- Góp Ý Về Bài Của Ông Đặng Văn Việt Góp Ý Sửa Đổi Hiến Pháp </a> (Nguyễn Mạnh Quang)</p>
+ <p><a href="/THOISU_CT/ChuD/DangvViet">- Góp Ý Sửa Đổi Hiến Pháp</a> (Đặng Văn Việt )</p>
+ <p><a href="/NMQ/NMQ038">- Góp Ý Trong Vấn Đề Sửa Đổi Hiến Pháp</a> (Nguyễn Mạnh Quang)</p>
+ <p> <a href="/TCN/TCNts/TCNts066">- Tản Mạn Quanh Vài Chuyện Góp Ý Dự Thảo Sửa Đổi Hiến Pháp Năm 1992</a> (Trần Chung Ngọc)</p>
+ <p><a href="/DOITHOAI/NgnThhTung0">- Cùng Quẫn Lý Lẽ Của Một Con Cừu</a> (Nguyễn Thanh Tùng)</p>
+ <p><a href="/THOISU_CT/ChuN/NgTnghia_hp">- Góp Ý Của Giáo Dân Về Bản Nhận Định Và Góp Ý Dự Thảo Sửa Đổi Hiến Pháp 1992 Của HĐGMVN,.. </a> (giáo dân Nguyễn Trọng Nghĩa)</p>
+ <p>- <a href="/THOISU_CT/ChuH/HoMinhDiep_hp">Về Tình Trạng Đồng Hóa Đức Tin Với Chính Trị Của Giáo Hội Công Giáo Tại Việt Nam</a> (Phê-rô Hồ Minh Điệp)</p>
  <p><img src="https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/DivGold.gif" alt="" width="100%" height="3"></p>

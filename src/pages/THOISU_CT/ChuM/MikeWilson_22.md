@@ -3,7 +3,7 @@ layout: ../../../layouts/Article.astro
 title: "Tổng Thống Có Thể Lạm Quyền Trong Các Trường Hợp Nào?"
 author: "Mike Wilson tóm lược"
 date: 2019-01-17
-source: "https://sachhiem.net/THOISU_CT/ChuM/MikeWilson_22.php"
+source: "/THOISU_CT/ChuM/MikeWilson_22"
 category: "Chính trị"
 lang: vi
 wordCount: 1711

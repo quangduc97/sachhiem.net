@@ -3,7 +3,7 @@ layout: ../../../layouts/Article.astro
 title: "[VATICANOLOGY]- Chỉ Trích Minh Thạnh, Youtuber Thanh Long Vlog"
 author: "Minh Thạnh"
 date: 2022-04-28
-source: "https://sachhiem.net/TONGIAO/tgM/MinhThanh32.php"
+source: "/TONGIAO/tgM/MinhThanh32"
 category: "Chính trị"
 lang: vi
 wordCount: 2606
@@ -15,7 +15,7 @@ image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/TONGIAO/IMG/VATICAN/
 
  
  <div class="tomluoc">
-   <p><i>Dưới bài “<a href="https://sachhiem.net/TONGIAO/tgM/MinhThanh31.php">[Vaticanology] Các câu hỏi về “Thư kêu gọi cầu nguyện” của Tổng giáo phận Hà Nội”</a>, bạn đọc thông tin về video YouTube có nhan đề “Nóng- Một cư sĩ Phật giáo hả hê: Công giáo BÁN NƯỚC cho Pháp và câu trả lời thỏa mãn cho ông!” (MT) </i><i>(xem kênh Thanh Long Vlog:</i> <br>
+   <p><i>Dưới bài “<a href="/TONGIAO/tgM/MinhThanh31">[Vaticanology] Các câu hỏi về “Thư kêu gọi cầu nguyện” của Tổng giáo phận Hà Nội”</a>, bạn đọc thông tin về video YouTube có nhan đề “Nóng- Một cư sĩ Phật giáo hả hê: Công giáo BÁN NƯỚC cho Pháp và câu trả lời thỏa mãn cho ông!” (MT) </i><i>(xem kênh Thanh Long Vlog:</i> <br>
      <i> https://www.youtube.com/watch?v=TLAb9kABOJo)</i>. </p>
  </div>
 <p><span class="First">N</span>ội dung video YouTuber nói trên nhằm phản bác nhận định của tôi: Công giáo bán nước cho Pháp.</p>

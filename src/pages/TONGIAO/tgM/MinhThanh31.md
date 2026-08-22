@@ -3,7 +3,7 @@ layout: ../../../layouts/Article.astro
 title: "[VATICANOLOGY] - Các Câu Hỏi Về"
 author: "Minh Thạnh"
 date: 2022-04-28
-source: "https://sachhiem.net/TONGIAO/tgM/MinhThanh31.php"
+source: "/TONGIAO/tgM/MinhThanh31"
 category: "Chính trị"
 lang: vi
 wordCount: 1602

@@ -2,10 +2,10 @@
 layout: ../../../layouts/Article.astro
 title: "ĐÂY !! NHỮNG ‘ĐỨC THÁNH CHA’ ĐẠI DIỆN CỦA CHÚA KI-TÔ"
 author: "Trần Chung Ngọc"
-source: "https://sachhiem.net/TCN/TCNtg/TCN20.php"
+source: "/TCN/TCNtg/TCN20"
 lang: vi
 wordCount: 11786
-image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nha.jpg"
+image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/TONGIAO/IMG/VATICAN/POPE/Marozia_Pope_influ.jpg"
 ---
 
 <p class="Tuaduoi">TRÊN TRẦN VÀ LÀ CHỦ CHĂN CỦA GIÁO HỘI CA-TÔ </p>
@@ -15,8 +15,7 @@ image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nha.jpg"
   &amp; Tình Trạng Ngày Nay</p>
     
     
-     <p align="center"><a href="https://www.sachhiem.net/">
-  <img border="0" src="https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nha.jpg"></a> 
+     <p align="center"> 
    20 tháng 5, 2007</p>
  	    
     <table border="0" width="90%" id="table1" style="font-size: 10pt; font-family: Verdana" cellspacing="1" cellpadding="10"> <tbody><tr>   <td colspan="2"><p align="center" class="MUC"> Bài Viết Này Để Tặng  </p>  </td> </tr> <tr>   <td width="50%" style="border-right-style: none; border-right-width: medium"> -Những  tín đồ Ca-tô Giáo Rô-ma thường đi xưng tội với các linh mục,<br> -Những người cũng phạm tội như họ và tuân phục một Giáo Hoàng,<br> -Người tự cho là không thể sai lầm, là nhất hạng, là tối cao<br> -Có quyền giữ trong tay Chìa khóa mở cửa thiên đường.<br> -Nhưng lịch sử đã chứng tỏ<br> -Thực sự chỉ mở những cánh cửa vào nhục dục, trụy lạc, và bạo lực.<br>   </td>   <td width="46%" style="border-left-style: none; border-left-width: medium"> -Dedicated  To All Roman Catholics <br> -Who confess their sins to priests -Who do as they do, And<br> -Who believe in a Pope<br> -Who claims to be infallible Primary, and supreme<br> -Having the power to the keys to the kingdom of heaven<br> -Which hictory shows actually open the doors of sex, vice, and violence      </td> </tr> <tr>   <td colspan="2"><p align="center">  <b> By  Dr. Arthur Frederick Ide</b></p>  <p align="center">  <b> In <i>“Unzipped:    The Popes Bare All”</i></b></p></td> </tr>

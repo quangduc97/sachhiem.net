@@ -2,14 +2,14 @@
 layout: ../../../layouts/Article.astro
 title: "Đại Tướng Dương Văn Minh, Công Và Tội"
 author: "Trọng Đạt / Đàn Chim Việt"
-source: "https://sachhiem.net/THOISU_CT/ChuTr/Trongdat.php"
+source: "/THOISU_CT/ChuTr/Trongdat"
 category: "Chính trị"
 lang: vi
 wordCount: 4772
-image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nha.jpg"
+image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/LICHSU/IMG/NHANVAT/DVMinh.jpg"
 ---
 
-<p align="center"><a href="https://sachhiem.net/index.php"><img hspace="20" border="0" src="https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nha.jpg"></a>18-Apr -2013</p> 	  
+<p align="center">18-Apr -2013</p> 	  
 
  <div class="tomluoc">
  <p>LNGT-  Bài viết dưới đây của tác giả Trọng Đạt, phổ biến trên Đàn Chim Việt trong dịp  kỷ niệm 30/4/2012, nhằm chứng minh rằng ông Dương Văn Minh “<i>không có tội mà cũng chẳng có công</i>”  trong biến cố sụp đổ của Sài Gòn và miền Nam Việt Nam vào năm 1975. Chúng tôi hoàn  toàn đồng ý với tác giả ở vế đầu, “<i>không  có tội</i>”, nhưng chỉ đồng ý một phần với vế sau, “<i>cũng chẳng có công</i>”, vì phân tích của tác giả chỉ dựa trên một yếu  tố quân sự trong một giới hạn thời gian nhất định của những tháng cuối cùng  trước lúc Sài Gòn thất thủ, mà không lý đến những yếu tố quan trọng khác trong  suốt cuộc chiến gần 20 năm tại Việt Nam.</p>

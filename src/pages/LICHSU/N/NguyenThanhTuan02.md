@@ -3,7 +3,7 @@ layout: ../../../layouts/Article.astro
 title: "Buồn - Khi Người Mình Đặt Nhiều Hy Vọng Lại Làm Mình Thất Vọng"
 author: "TT. Nguyễn Thanh Tuấn"
 date: 2024-03-27
-source: "https://sachhiem.net/LICHSU/N/NguyenThanhTuan02.php"
+source: "/LICHSU/N/NguyenThanhTuan02"
 category: "Lịch sử"
 lang: vi
 wordCount: 2434
@@ -28,11 +28,11 @@ image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/THOISU_CT/Hinh/NHANV
 <p><a href="https://www.facebook.com/permalink.php?story_fbid=pfbid02vBJzPtmvKMW4XLTErBa2WrxvFgm4f8nBPqNgRgDeWrQsKcYcyX5YAHEeJVyhynCal&amp;id=100052650727356">Nguồn: FB Nguyễn Thanh Tuấn</a> ngày 20/3/2024</p>
 <p>_____________</p>
 <p><b>Bài liên quan:</b></p>
-<p>- <a href="https://sachhiem.net/THOISU_CT/ChuH/HoangKien_VVT.php">Giải Oan Phản Động - Ai Là "Trùm Nguỵ Sử?” (Hoàng Kiền)</a></p>
+<p>- <a href="/THOISU_CT/ChuH/HoangKien_VVT">Giải Oan Phản Động - Ai Là "Trùm Nguỵ Sử?” (Hoàng Kiền)</a></p>
 <p>------------------</p>
 <p><b>Các bài khác của TT Nguyễn Thanh Tuấn:</b></p>
-<p>- <a href="https://sachhiem.net/LICHSU/N/NguyenThanhTuan01.php ">Vụ Phim Đất Rừng Phương Nam - Mong Thanh Tra Chính Phủ Làm Rõ - Vì Sao Tiền Của NN Lại Đầu Tư Cho Phim Loại Này.</a> (TT. Nguyễn Thanh Tuấn)</p>
-<p>- <a href="https://sachhiem.net/LICHSU/N/NguyenThanhTuan.php">Chỉ thị của Ban Bí Thư TW Đảng ngày 16/04/2009: Tạm Dừng Các Hoạt Động, Công Trình Liên Quan Đến Phan Thanh Giản </a> (TT. Nguyễn Thanh Tuấn)</p>
+<p>- <a href="/LICHSU/N/NguyenThanhTuan01">Vụ Phim Đất Rừng Phương Nam - Mong Thanh Tra Chính Phủ Làm Rõ - Vì Sao Tiền Của NN Lại Đầu Tư Cho Phim Loại Này.</a> (TT. Nguyễn Thanh Tuấn)</p>
+<p>- <a href="/LICHSU/N/NguyenThanhTuan">Chỉ thị của Ban Bí Thư TW Đảng ngày 16/04/2009: Tạm Dừng Các Hoạt Động, Công Trình Liên Quan Đến Phan Thanh Giản </a> (TT. Nguyễn Thanh Tuấn)</p>
 <p>______________</p>
 <p><b>COMMENTS:</b></p>
 <p>Rào Nan</p>
@@ -120,8 +120,8 @@ Nguyễn Ran </p>
 <p>.... (nhiều quá! Xin ngưng)</p>
 <p>------------------</p>
 <p><b>Các bài khác của TT Nguyễn Thanh Tuấn:</b></p>
-<p>- <a href="https://sachhiem.net/LICHSU/N/NguyenThanhTuan01.php ">Vụ Phim Đất Rừng Phương Nam - Mong Thanh Tra Chính Phủ Làm Rõ - Vì Sao Tiền Của NN Lại Đầu Tư Cho Phim Loại Này.</a></p>
-<p>- <a href="https://sachhiem.net/LICHSU/N/NguyenThanhTuan.php">Chỉ thị của Ban Bí Thư TW Đảng ngày 16/04/2009: Tạm Dừng Các Hoạt Động, Công Trình Liên Quan Đến Phan Thanh Giản </a></p>
-<p>- <a href="https://sachhiem.net/LICHSU/N/NguyenThanhTuan02.php">Buồn - Khi Người Mình Đặt Nhiều Hy Vọng Lại Làm Mình Thất Vọng</a></p>
-<p>- <a href="https://sachhiem.net/LICHSU/N/NguyenThanhTuan03_Vid.php">Chủ Nghĩa Xét Lại Lịch Sử Đã Tác Động Vào Báo Chí?</a> </p>
-<p>-<a href="https://sachhiem.net/LICHSU/N/NguyenThanhTuan04_LS.php"> Thư Ngỏ Của Trung Tướng Nguyễn Thanh Tuấn Gửi Lãnh Đạo Bộ GD - ĐT</a></p>
+<p>- <a href="/LICHSU/N/NguyenThanhTuan01">Vụ Phim Đất Rừng Phương Nam - Mong Thanh Tra Chính Phủ Làm Rõ - Vì Sao Tiền Của NN Lại Đầu Tư Cho Phim Loại Này.</a></p>
+<p>- <a href="/LICHSU/N/NguyenThanhTuan">Chỉ thị của Ban Bí Thư TW Đảng ngày 16/04/2009: Tạm Dừng Các Hoạt Động, Công Trình Liên Quan Đến Phan Thanh Giản </a></p>
+<p>- <a href="/LICHSU/N/NguyenThanhTuan02">Buồn - Khi Người Mình Đặt Nhiều Hy Vọng Lại Làm Mình Thất Vọng</a></p>
+<p>- <a href="/LICHSU/N/NguyenThanhTuan03_Vid">Chủ Nghĩa Xét Lại Lịch Sử Đã Tác Động Vào Báo Chí?</a> </p>
+<p>-<a href="/LICHSU/N/NguyenThanhTuan04_LS"> Thư Ngỏ Của Trung Tướng Nguyễn Thanh Tuấn Gửi Lãnh Đạo Bộ GD - ĐT</a></p>

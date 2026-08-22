@@ -2,14 +2,14 @@
 layout: ../../../layouts/Article.astro
 title: "Vô Thần Đang Lên"
 author: "Người Đọc Tin"
-source: "https://sachhiem.net/index.php?content=showrecipe&id=567"
+source: "/TCN/TCNts/TCNts038"
 category: "Chính trị"
 lang: vi
 wordCount: 1237
-image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nha.jpg"
+image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/TCN/TCNts/Hinh/TCNts38.jpg"
 ---
 
-<p align="center"><a href="/index"><img hspace="20" border="0" src="https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nha.jpg"></a>19 tháng 4,  2009</p>
+<p align="center">19 tháng 4,  2009</p>
 	<p>
 	AFP Ngày 30, tháng 3, năm 2009</p>
 	<p class="TuaDenLeft">Hơn một trăm ngàn người Anh thế tục muốn “sửa bỏ rửa tội” 

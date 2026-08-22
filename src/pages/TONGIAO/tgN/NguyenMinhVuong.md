@@ -2,7 +2,7 @@
 layout: ../../../layouts/Article.astro
 title: "GIÁO DỤC KITÔ GIÁO, CÓ HAY KHÔNG CHỮ “TÂM LINH”"
 author: "Nguyễn Minh Vương"
-source: "https://sachhiem.net/nguồn: https://giaodiemonline.com/2008/09/tamlinh.htm"
+source: "/nguồn: https://giaodiemonline.com/2008/09/tamlinh.htm"
 category: "Tác giả"
 lang: vi
 wordCount: 26176

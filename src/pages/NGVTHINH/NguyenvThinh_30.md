@@ -3,7 +3,7 @@ layout: ../../layouts/Article.astro
 title: "PHẬN NƯỚC, PHẬN CỜ"
 author: "Nguyễn Văn Thịnh"
 date: 2020-05-07
-source: "https://sachhiem.net/NGVTHINH/NguyenvThinh_30.php"
+source: "/NGVTHINH/NguyenvThinh_30"
 category: "Lịch sử"
 lang: vi
 wordCount: 7463

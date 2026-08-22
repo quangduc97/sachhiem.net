@@ -2,16 +2,16 @@
 layout: ../../../../layouts/Article.astro
 title: "Yếu tính và Hiệu quả của Tôn giáo"
 author: "Lê Dọn Bàn"
-source: "https://sachhiem.net/SACHNGOAI/snL/LeDonBan/LDB05.php"
+source: "/SACHNGOAI/snL/LeDonBan/LDB05"
 category: "Tác giả"
 lang: vi
 wordCount: 5591
-image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nha.jpg"
+image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/SACHNGOAI/Hinhanh/BIASACH/RussellonReligion.jpg"
 ---
 
 <table border="0" cellpadding="0" width="250" align="center">
 	<tbody><tr>
-		<td width="100"><a href="/index"><img border="0" src="https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nha.jpg"></a></td>
+		<td width="100"></td>
 		<td valign="top">
 		<p style="text-align: right">29 tháng 1, 2011</p></td>
 	</tr>

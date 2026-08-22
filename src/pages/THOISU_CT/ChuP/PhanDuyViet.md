@@ -3,7 +3,7 @@ layout: ../../../layouts/Article.astro
 title: "Hình Ảnh Đáng Nhớ Của Những Ngày Đang Sống"
 author: "Phan Duy Việt"
 date: 2014-06-19
-source: "https://sachhiem.net/THOISU_CT/ChuP/PhanDuyViet.php"
+source: "/THOISU_CT/ChuP/PhanDuyViet"
 category: "Chính trị"
 lang: vi
 wordCount: 977

@@ -3,7 +3,7 @@ layout: ../../../layouts/Article.astro
 title: "Những Chuyện Kể Của PHGV"
 author: "Phượng Hoàng GV"
 date: 2015-11-06
-source: "https://sachhiem.net/LICHSU/P/PhuongHoang05.php"
+source: "/LICHSU/P/PhuongHoang05"
 category: "Lịch sử"
 lang: vi
 wordCount: 1972
@@ -77,7 +77,7 @@ image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/SACHNGOAI/Hinhanh/BI
      <b><i>5.- Đến vụ Toà thánh Vatican bắt  giam 2 nhân viên thân cận</i></b> nhất của mình về tội tiết lộ bí mật của Toà thánh.Sự tiết lộ nầy làm Giáo hoàng  Benedict XVI phải từ chức và Giáo hoàng người Argentina lên ngôi danh hiêu là  Pope Francis.</p>
 <p>
      <b><i>6.- Tiết lộ của 2 nhân vật quan  trọng,  thân cận</i></b> của Giáo  hoàng Benedict XVI nay được giới truyền thông Ý loan tải. Sách đã được in ấn  vào phát hành khắp nơi trên thế giới.</p>
-<p><b><i>7.- Sách “Avarice”  của tác giả Emiliano Fittipaldi</i></b> và sách “ <b><i>Merchants in the Temple</i></b> “ của tác giả Gianluigi Nuzzi. <a href="https://sachhiem.net//TONGIAO/tgT/TinWaPost.php">(SH - Xin xem tường thuật dịch Việt của bản tin Washington Post)</a></p>
+<p><b><i>7.- Sách “Avarice”  của tác giả Emiliano Fittipaldi</i></b> và sách “ <b><i>Merchants in the Temple</i></b> “ của tác giả Gianluigi Nuzzi. <a href="//TONGIAO/tgT/TinWaPost.php">(SH - Xin xem tường thuật dịch Việt của bản tin Washington Post)</a></p>
    <p align="center"><img src="https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/SACHNGOAI/Hinhanh/BIASACH/merchants-in-the-temple.jpg" width="150" height="227" alt="Merchants in The Temple"> &nbsp;<img src="https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/SACHNGOAI/Hinhanh/BIASACH/AVARIZIA.jpg" width="150" height="227" alt="Avarizia"></p>
    <p align="center"><i>Quyển "Merchants in the Temple" của tác giả Nuzzi (bên trái) -<br>
 Quyển Avarizia (Avarice) bên phải, của tác giả Emiliano Fittipaldi</i></p>
@@ -108,5 +108,5 @@ Sự tiết lộ của người hầu cận của Giáo hoàng  Benedict XVI ch�
    <p><b>Nếu Việt Nam muốn văn minh,  tân tiến thì phải  làm sao đạo Công giáo trở thành như không có như tại Trung Hoa, Nhật,  Nam Hàn,  Đài Loan,  Singapore, Thailand là xong. Tại Việt Nam phải lập một Giáo Hội  Công Giáo Made in VietNam thì vô cùng tốt hơn Công Giáo Made in Vatican Italy  Roma .</b><b> </b></p>
    
 <p>___________________________________</p>
- <p>Các chuyện kể của Phượng Hoàng Gò Vấp: link <a href="https://sachhiem.net/LICHSU/P/ListPHGV.inc.php" target="_blank">https://sachhiem.net/LICHSU/N/ListPHGV.inc.php</a></p>  
+ <p>Các chuyện kể của Phượng Hoàng Gò Vấp: link <a href="/LICHSU/P/ListPHGV.inc" target="_blank">https://sachhiem.net/LICHSU/N/ListPHGV.inc.php</a></p>  
   <hr>

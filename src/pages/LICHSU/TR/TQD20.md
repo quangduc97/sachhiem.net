@@ -3,16 +3,16 @@ layout: ../../../layouts/Article.astro
 title: "Bổn Phận Người Dân Yêu Nước"
 author: "Trần Quang Diệu"
 date: 2013-02-01
-source: "https://sachhiem.net/LICHSU/TR/TQD20.php"
+source: "/LICHSU/TR/TQD20"
 category: "Lịch sử"
 lang: vi
 wordCount: 6150
-image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nha.jpg"
+image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/TONGIAO/IMG/Toakham/Bishop_on_a_pastoraltour.jpg"
 ---
 
 <table border="0" cellpadding="0" width="250" align="center">
       <tbody><tr>
-       <td width="125"><a href="/index"><img border="0" src="https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nha.jpg"></a></td>
+       <td width="125"></td>
        <td valign="middle">01-Feb-2013</td>
       </tr>
      </tbody></table>

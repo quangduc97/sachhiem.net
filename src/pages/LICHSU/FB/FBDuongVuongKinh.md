@@ -3,7 +3,7 @@ layout: ../../../layouts/Article.astro
 title: "Phản Bác Về Cái Gọi Là Những Đại Công Của Gia Long - Nguyễn Ánh"
 author: "Dương Vương Kính"
 date: 2022-06-03
-source: "https://sachhiem.net/LICHSU/FB/FBDuongVuongKinh.php"
+source: "/LICHSU/FB/FBDuongVuongKinh"
 category: "Lịch sử"
 lang: vi
 wordCount: 3785

@@ -3,7 +3,7 @@ layout: ../../../layouts/Article.astro
 title: "Ai Cho Phép Tổ Chức Noel Trong Trường Học?"
 author: "Minh Thạnh"
 date: 2016-12-26
-source: "https://sachhiem.net/TONGIAO/tgM/MinhThanh13.php"
+source: "/TONGIAO/tgM/MinhThanh13"
 category: "Tác giả"
 lang: vi
 wordCount: 2258

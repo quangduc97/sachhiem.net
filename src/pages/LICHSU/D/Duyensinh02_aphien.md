@@ -3,14 +3,14 @@ layout: ../../../layouts/Article.astro
 title: "Á Phiện, Bạch Phiến, Và Chiến Tranh Tôn Giáo Dưới Thời Diệm Và Thiệu Kỳ"
 author: "DuyênSinh"
 date: 2013-08-13
-source: "https://sachhiem.net/LICHSU/D/Duyensinh02_aphien.php"
+source: "/LICHSU/D/Duyensinh02_aphien"
 category: "Tác giả"
 lang: vi
 wordCount: 11573
 image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/SACHNGOAI/Hinhanh/BIASACH/Politics_Heroin.jpg"
 ---
 
-<p align="left"> <a href="https://sachhiem.net/LICHSU/D/Duyensinh02_aphien.php"><b>1 </b></a>   <b><a href="https://sachhiem.net/LICHSU/D/Duyensinh02a_aphien.php">2</a> <a href="https://sachhiem.net/LICHSU/D/Duyensinh02b_aphien.php">3</a> <a href="https://sachhiem.net/LICHSU/D/Duyensinh02c_aphien.php"> 4</a></b></p>
+<p align="left"> <a href="/LICHSU/D/Duyensinh02_aphien"><b>1 </b></a>   <b><a href="/LICHSU/D/Duyensinh02a_aphien">2</a> <a href="/LICHSU/D/Duyensinh02b_aphien">3</a> <a href="/LICHSU/D/Duyensinh02c_aphien"> 4</a></b></p>
 <div class="indent50">
 <p><i> • Tôi   mà tham nhũng thì cái chính phủ này sẽ sụp đổ chỉ trong ba   ngày! </i></p>
 <p> <a href="https://www.vietlandnews.net/forum/showthread.php?t=20704&amp;page=3" target="_blank"> Nguyễn   Văn Thiệu (Tổng Thống Việt Nam Cộng Hoà) (https://www.vietlandnews.net/ )</a></p>
@@ -24,21 +24,21 @@ image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/SACHNGOAI/Hinhanh/BI
  - <a name="2" href="/LICHSU/#end2">2. Đường Dây Á Phiện Dưới Chế Độ Ngô Đình Diệm</a><br>
 - <a name="3" href="/LICHSU/#end3">3. Thủ Tướng Nguyễn Cao Kỳ Nắm Lấy Độc Quyền Đường Dây Á Phiện</a></p>
 <p>----------------------------<br>
- - <a name="4" href="https://sachhiem.net/LICHSU/D/Duyensinh02a_aphien.php#end4">4. Tranh Giành Bạch Phiến Giữa Nguyễn Văn Thiệu Và Nguyễn Cao Kỳ</a><br>
- - <a name="5" href="https://sachhiem.net/LICHSU/D/Duyensinh02a_aphien.php#end5">5. Bệnh Dịch Bạch Phiến Bắt Đầu Lan Tràn Trong Giới Lính Mỹ</a><br>
- - <a name="6" href="https://sachhiem.net/LICHSU/D/Duyensinh02a_aphien.php#end6">6. Chỉ Huy Cao Cấp VNCH Khai Thác Thị Trường Bạch Phiến Lính Mỹ</a><br>
- - <a name="7" href="https://sachhiem.net/LICHSU/D/Duyensinh02a_aphien.php#end7">7. Phó Tổng Thống Nguyễn Cao Kỳ Giành Lấy Đường Dây Bạch Phiến</a><br>
- - <a name="8" href="https://sachhiem.net/LICHSU/D/Duyensinh02a_aphien.php#end8">8. Tổng Thống Nguyễn Văn Thiệu Giành Lấy Đường Dây Bạch Phiến</a><br>
+ - <a name="4" href="/LICHSU/D/Duyensinh02a_aphien#end4">4. Tranh Giành Bạch Phiến Giữa Nguyễn Văn Thiệu Và Nguyễn Cao Kỳ</a><br>
+ - <a name="5" href="/LICHSU/D/Duyensinh02a_aphien#end5">5. Bệnh Dịch Bạch Phiến Bắt Đầu Lan Tràn Trong Giới Lính Mỹ</a><br>
+ - <a name="6" href="/LICHSU/D/Duyensinh02a_aphien#end6">6. Chỉ Huy Cao Cấp VNCH Khai Thác Thị Trường Bạch Phiến Lính Mỹ</a><br>
+ - <a name="7" href="/LICHSU/D/Duyensinh02a_aphien#end7">7. Phó Tổng Thống Nguyễn Cao Kỳ Giành Lấy Đường Dây Bạch Phiến</a><br>
+ - <a name="8" href="/LICHSU/D/Duyensinh02a_aphien#end8">8. Tổng Thống Nguyễn Văn Thiệu Giành Lấy Đường Dây Bạch Phiến</a><br>
 </p>
 <p>------------------------------</p>
-<p>- <a name="9" href="https://sachhiem.net/LICHSU/D/Duyensinh02b_aphien.php#end9">9.Thủ Tướng Trần Thiện Khiêm Giành Lấy Đường Dây Bạch Phiến</a><br>
- - <a name="10" href="https://sachhiem.net/LICHSU/D/Duyensinh02b_aphien.php#end10">10. Tranh Giành Bạch Phiến Giữa Nguyễn Văn Thiệu Và Trần Thiện Khiêm</a><br>
- - <a name="11" href="https://sachhiem.net/LICHSU/D/Duyensinh02b_aphien.php#end11">11. Mafia Phăng Dò Đường Dây Bạch Phiến Tìm Đến Đông Nam Á</a><br>
-- <a name="12" href="https://sachhiem.net/LICHSU/D/Duyensinh02b_aphien.php#end12">12. Chính Sách Đồng Lõa Của Đại Sứ Quán Mỹ</a></p>
+<p>- <a name="9" href="/LICHSU/D/Duyensinh02b_aphien#end9">9.Thủ Tướng Trần Thiện Khiêm Giành Lấy Đường Dây Bạch Phiến</a><br>
+ - <a name="10" href="/LICHSU/D/Duyensinh02b_aphien#end10">10. Tranh Giành Bạch Phiến Giữa Nguyễn Văn Thiệu Và Trần Thiện Khiêm</a><br>
+ - <a name="11" href="/LICHSU/D/Duyensinh02b_aphien#end11">11. Mafia Phăng Dò Đường Dây Bạch Phiến Tìm Đến Đông Nam Á</a><br>
+- <a name="12" href="/LICHSU/D/Duyensinh02b_aphien#end12">12. Chính Sách Đồng Lõa Của Đại Sứ Quán Mỹ</a></p>
 <p>-----------------------------<br>
- - <a name="13" href="https://sachhiem.net/LICHSU/D/Duyensinh02c_aphien.php#end13">13. Tướng Khánh Lật Đổ Tướng Minh, Liên Hệ Với Bắc Việt Và Đưa Thiệu-Kỳ Lên Ngôi</a><br>
- - <a name="14" href="https://sachhiem.net/LICHSU/D/Duyensinh02c_aphien.php#end14">14. Nguyễn Cao Kỳ Loại Trừ Tướng Phật Giáo Nguyễn Chánh Thi</a><br>
- - <a name="15" href="https://sachhiem.net/LICHSU/D/Duyensinh02c_aphien.php#end15">15. Ai Là Người Đã Làm Sụp Đổ Chế Độ Tàn Ác Dã Man Á Phiện Và Bạch Phiến?</a><br>
+ - <a name="13" href="/LICHSU/D/Duyensinh02c_aphien#end13">13. Tướng Khánh Lật Đổ Tướng Minh, Liên Hệ Với Bắc Việt Và Đưa Thiệu-Kỳ Lên Ngôi</a><br>
+ - <a name="14" href="/LICHSU/D/Duyensinh02c_aphien#end14">14. Nguyễn Cao Kỳ Loại Trừ Tướng Phật Giáo Nguyễn Chánh Thi</a><br>
+ - <a name="15" href="/LICHSU/D/Duyensinh02c_aphien#end15">15. Ai Là Người Đã Làm Sụp Đổ Chế Độ Tàn Ác Dã Man Á Phiện Và Bạch Phiến?</a><br>
 </p>
 </div>
  <p><a class="TuaDoLeft" name="end1" href="/LICHSU/#1"><b>1. Nguồn Gốc Của Á Phiện, Bạch Phiến, Và Tham Nhũng Tại Việt Nam</b></a></p>
@@ -108,12 +108,12 @@ image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/SACHNGOAI/Hinhanh/BI
 <p>Hầu   hết các chất ma túy xuất khẩu từ VNCH, cho dù morphine sang Châu Âu hoặc á phiện   sang các phần khác của Đông Nam Á, được vận chuyển từ cảng Sài Gòn trên các tàu   vận tải (oceangoing freighters). Ngoài ra, Sài Gòn cũng có thể nhập cảng ma túy   vào từ Thái Lan. Giám đốc của cảng Sài Gòn trong giai đoạn này là anh em vợ của   Kỳ, Trung Tá Phó Quốc Chụ (Kỳ đã ly dị người vợ Pháp của mình và kết hôn với một   người Việt). Dưới sự giám sát của Chu, tất cả các nhân viên có đào tạo bị thanh   lọc một cách có hệ thống, và vào tháng 10.1967, cố vấn trưởng Hải Quan Mỹ báo   cáo với giới chức hải quan lúc này, “<i>là một phe đảng vững chắc của Chính Phủ   VNCH, là các sĩ quan trong quân đội.</i>” Tuy nhiên, so với các tài sản bị trộm   cắp từ dụng cụ quân đội, hàng hóa… á phiện có lẽ không phải là một nguồn lợi   quan trọng.</p>
 <p>Loan   và Kỳ không có nghi ngờ về tình hình an ninh chính yếu ở Sài Gòn khi họ lên nắm   quyền, nhưng mục tiêu thực sự của họ là xây dựng bộ máy cảnh sát để củng cố   quyền lực chính trị. Thường thì họ dường như quên đi “kẻ thù” của họ là sử dụng   mạng lưới cảnh sát của họ để tấn công phe phái đối thủ chính trị và quân sự. Bên   cạnh việc hành quyết một người tình nghi là đặc công Cộng Sản trước máy ảnh báo   chí quốc tế năm 1968, Loan có vẻ nổi tiếng nhất thế giới trong các phương pháp   độc đáo phá vỡ thế bí lập pháp trong chiến dịch bầu cử năm 1967. Một thành viên   của Hội Đồng Lập Hiến, đề xuất một đạo luật có thể loại trừ Kỳ trong cuộc bầu cử   sắp tới đã bị ám sát. Vợ người đó đã công khai cáo buộc Loan đã ra lệnh ám sát.   Khi Hội Đồng ngần ngại phê duyệt Thiệu-Kỳ, trừ khi họ tuân thủ luật bầu cử, Loan   tiến vào ban công của căn phòng với hai vệ sĩ có vũ trang, và phe đối lập lùi   bước. Khi Hội Đồng ngần ngại chiến thuật lừa đảo của Thiệu-Kỳ, Loan và các tay   súng xông vào lần nữa, phe đối lập lại dịu xuống. </p>
 <p>Dưới   sự giám sát của Loan, bộ máy của Kỳ nhận diện hệ thống đường dây buôn lậu á   phiện một cách có hệ thống. Nhiều nhà quan sát nhận định hệ thống này còn tân   tiến hơn cả hệ thống của Ngô Đình Diệm và Ngô Đình Nhu. Nhu phải tùy thuộc vào   người Corsican quản lý hầu hết á phiện lậu giữa Lào và Sài Gòn. Nhưng hãng bay   thuê của họ bị đuổi khỏi Lào vào đầu năm 1965. Điều này buộc bộ máy của Kỳ trực   tiếp tham gia nhiều hơn nữa vào buôn lậu, hơn cảnh sát chìm của Ngô Đình Nhu   từng làm. Thông qua liên lạc cá nhân tại Lào, số lượng lớn á phiện tinh lọc thô   được vận chuyển đến sân bay Nam Lào, nơi đó có người đón nhận và mua lậu vào   VNCH bằng máy bay vận tải có cánh Không Quân VNCH. Hải Quan VNCH cũng được điều   khiển bởi bộ máy của Kỳ, và một lượng đáng kể á phiện đã bay trực tiếp vào   Saigon trên các chuyến bay thường xuyên thương mại từ Lào. Mỗi khi á phiện đến,   nó được phân phối đến các nhà hút dưới sự bảo vệ cảnh sát của Loan. Cuối cùng,   thông qua kiểm soát thương cảng Saigon, bộ máy của Kỳ đã có thể lấy được rất   nhiều tiền thuế đáng kể do người Corsican xuất khẩu morphin sang châu Âu, á   phiện sang Trung Quốc, và morphin sang Hồng Kông. Mặc dù tầm quan trọng ngày   càng tăng trong việc xuất khẩu morphin, Kỳ chủ yếu nhắm vào thị trường á phiện   trong nước. </p>
-<p><a href="https://sachhiem.net/LICHSU/D/Duyensinh02_aphien.php">(xem tiếp</a> =&gt;) <a href="https://sachhiem.net/LICHSU/D/Duyensinh02a_aphien.php">2</a> <a href="https://sachhiem.net/LICHSU/D/Duyensinh02b_aphien.php">3</a> <a href="https://sachhiem.net/LICHSU/D/Duyensinh02c_aphien.php"> 4</a></p>
+<p><a href="/LICHSU/D/Duyensinh02_aphien">(xem tiếp</a> =&gt;) <a href="/LICHSU/D/Duyensinh02a_aphien">2</a> <a href="/LICHSU/D/Duyensinh02b_aphien">3</a> <a href="/LICHSU/D/Duyensinh02c_aphien"> 4</a></p>
 
 
 <p class="nguonL">Nguồn <a href="https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.devhttps://www.duyensinh.com/files/DDDT/A_PHIEN_BACH_PHIEN_VA_CHIEN_TRANH_TON_GIAO_DUOI_THOI_DIEM_VA_THIEU-KY.pdf">https://www.duyensinh.com/files/DDDT/A_PHIEN_BACH_PHIEN_VA_CHIEN_TRANH_TON_GIAO_DUOI_THOI_DIEM_VA_THIEU-KY.pdf</a></p><hr>
 <p><b>Bài đọc thêm: </b></p>
-<p>- GHLM: Lịch Sử và Hồ Sơ Tộc Ác (Nguyễn Mạnh Quang)- Chương 91: Vân Nạn Buốn Bán Ma Túy: <a href="https://sachhiem.net/NMQ/HOSOTOIAC/CH91.php">https://sachhiem.net/NMQ/HOSOTOIAC/CH91.php</a></p>
+<p>- GHLM: Lịch Sử và Hồ Sơ Tộc Ác (Nguyễn Mạnh Quang)- Chương 91: Vân Nạn Buốn Bán Ma Túy: <a href="/NMQ/HOSOTOIAC/CH91">https://sachhiem.net/NMQ/HOSOTOIAC/CH91.php</a></p>
 <p>____________________ </p>
 <p>Nếu thấy dưới đây có báo lỗi xin bấm bào đường dẫn này:</p>
 <p><a href="/LICHSU/D/Duyensinh02_aphien">https://sachhiem.net/LICHSU/D/Duyensinh02_aphien.php</a></p>

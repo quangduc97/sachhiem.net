@@ -3,7 +3,7 @@ layout: ../../../layouts/Article.astro
 title: "Kế Hoạch Xâm Nhập Vào Đỉnh Cao Quyền Lực VN Của Vatican"
 author: "Võ Đông Cung /KBCHN"
 date: 2016-01-10
-source: "https://sachhiem.net/LICHSU/K/KBCHN_VDC.php"
+source: "/LICHSU/K/KBCHN_VDC"
 category: "Tác giả"
 lang: vi
 wordCount: 4640
@@ -75,7 +75,7 @@ image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/TONGIAO/IMG/LINHMUC/
 <p>Nhưng cuộc  đảo chánh ngày 1-11-1963 cũng chỉ biến chế độ miền Nam từ giáo phiệt thêm phần  quân phiệt. Súng nổ nhiều hơn, người chết nhiều hơn, chiến tranh kéo dài dai  dẳng với liên quân 7 nước do Mỹ cầm đầu cố gắng giữ miền Nam tiếp tục là một  nước giáo phiệt dùm cho Vatican. Trong lúc miền Bắc, ông Hồ vận động toàn dân  nung nấu trong tim lý tưởng thống nhất đất nước. Với chi phí phải nuôi liên  quân 7 nước và hơn một triệu quân bản địa mà một phần ba là lính kiểng lính ma  người Mỹ ngày càng uễ oãi.</p>
 <p>Đồng thời  trước những tiến bộ về khoa học kỹ thuật và nhân văn thế giới, những giáo điều  cuồng tín, toà án dị giáo, kỳ thị tôn giáo... dần dà trở thành lỗi thời, không  còn thuyết phục nhân dân thế giới nữa. Ngày kết thúc Cộng đồng Vatican II năm  1965 đã mở mắt cho Vatican không còn dám đem ý đồ đen tối đối với các tôn giáo  khác như thời Trung cổ nữa. Vatican chỉ còn nghĩ tới làm thế nào để đừng bị sụp  đổ, dừng lại và giữ gìn thể diện. Nhưng với tội ác như núi chồng lên núi đối  với nhân loại khắp thế giới Vatican như một con tàu hoả khổng lồ trên cao tốc  không thể dừng ngay lại mà không bị lật. Việc hảm phanh từ từ của Vatican khiến  Nguyễn văn Thiệu vẫn còn trong mơ và nhục nhã khi nhiều người cho rằng ông bị  Vatican và đồng minh bỏ rơi như từng bỏ rơi Ngô Đình Diệm.</p>
 <p>Sự xâm nhập  tôn giáo của Vatican vào cơ chế chính quyền trung ương của miền nam VN thực sự  yểu tử từ năm 1965 chứ không phải năm 1975 như nhiều người trong chúng ta lầm  tưởng.</p>
-<p>Trước khi  chào tạm biệt khán thính giả, tôi xin chân thành cảm ơn <a href="https://www.sachhiem.net/TONGIAO/tgD/Duyensinh08.php#n22">ông Duyên Sinh đã dày  công tra cứu theo sách "<i>Việt sử Tân biên</i>"</a> của sử gia Phạm Văn Sơn căn  cứ và sử liệu đã được bạch hoá của phương Tây làm sáng tỏ nhiều nghi vấn mà sử  liệu Việt nam dưới thời Pháp thuộc và giáo phiệt bị các giáo gian nằm vùng  trong triều đình và chính quyền "bù nhìn" bóp méo sự thật, đánh lạc  hướng thế hệ mai sau để tôi có cơ hội cô đọng lại trong một đề tài hội luận  ngắn gọn hầu quý vị. Một điều mà ông Duyên Sinh trân trọng nhắc nhở các cấp  chính quyền NNVN cũng như chúng ta ghi khắc vào tim là: <i>"Thiên Chúa giáo  là một hiểm hoạ</i>".</p>
+<p>Trước khi  chào tạm biệt khán thính giả, tôi xin chân thành cảm ơn <a href="/TONGIAO/tgD/Duyensinh08#n22">ông Duyên Sinh đã dày  công tra cứu theo sách "<i>Việt sử Tân biên</i>"</a> của sử gia Phạm Văn Sơn căn  cứ và sử liệu đã được bạch hoá của phương Tây làm sáng tỏ nhiều nghi vấn mà sử  liệu Việt nam dưới thời Pháp thuộc và giáo phiệt bị các giáo gian nằm vùng  trong triều đình và chính quyền "bù nhìn" bóp méo sự thật, đánh lạc  hướng thế hệ mai sau để tôi có cơ hội cô đọng lại trong một đề tài hội luận  ngắn gọn hầu quý vị. Một điều mà ông Duyên Sinh trân trọng nhắc nhở các cấp  chính quyền NNVN cũng như chúng ta ghi khắc vào tim là: <i>"Thiên Chúa giáo  là một hiểm hoạ</i>".</p>
 <p>
   Kính chào  quý vị chúc quý vị một ngày bình an. <img src="https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/sqdot.gif" width="10" height="10"></p>
 <p class="TacgiaL"> Võ Đông Cung </p>

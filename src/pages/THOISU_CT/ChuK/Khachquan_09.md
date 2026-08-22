@@ -3,7 +3,7 @@ layout: ../../../layouts/Article.astro
 title: "Cảm Nhận Khi Xem Phim “Chiến Tranh Việt Nam”"
 author: "Trần Khách Quan"
 date: 2017-11-20
-source: "https://sachhiem.net/THOISU_CT/ChuK/Khachquan_09.php"
+source: "/THOISU_CT/ChuK/Khachquan_09"
 category: "Chính trị"
 lang: vi
 wordCount: 1601

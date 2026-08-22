@@ -3,7 +3,7 @@ layout: ../../../layouts/Article.astro
 title: "Thư gửi GS Trần Văn Khê"
 author: "TS. Nguyễn Nhã"
 date: 2015-06-17
-source: "https://sachhiem.net/VANHOC/N/NguyenNha.php"
+source: "/VANHOC/N/NguyenNha"
 category: "Văn hóa"
 lang: vi
 wordCount: 1880

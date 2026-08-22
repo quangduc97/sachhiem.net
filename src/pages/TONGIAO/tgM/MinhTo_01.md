@@ -3,17 +3,17 @@ layout: ../../../layouts/Article.astro
 title: "Các Giám Mục Thiên Chúa Giáo La Mã Xin Lỗi"
 author: "Minh Tỏ"
 date: 2016-11-20
-source: "https://sachhiem.net/TONGIAO/tgM/MinhTo_01.php"
+source: "/TONGIAO/tgM/MinhTo_01"
 category: "Tác giả"
 lang: vi
 wordCount: 3345
-image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nha.jpg"
+image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/TONGIAO/IMG/TRUNGDONG/Rwanda1994_genocide.jpg"
 ---
 
 <p class="Tuaduoi"><b>về vụ thảm sát ở Rwanda năm 1994 </b></p>
   
   
-  <p align="center"><a href="https://www.sachhiem.net/"> <img border="0" src="https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nha.jpg"></a> ngày 20-Nov-2016</p>
+  <p align="center"> ngày 20-Nov-2016</p>
   <div class="tomluoc">
     <p><i>LTS: Chuyện Giáo Hội Thiên La giết người hàng loạt ở Rwanda đã xảy ra 22 năm trước đây, không hiểu sao mãi đến nay Giáo Hội "thánh thiện" mới rục rịch xin lỗi? Đã có nhiều tài liệu và truyền thông thế giới nói về   cuộc diệt chủng ghê rợn này, nhưng truyền thông Việt Nam thì mù tịt. Tác giả Nguyễn Mạnh Quang cũng đã từng viết về đề tài này từ năm 2008 (như được trích lại ở phần đọc thêm). Về bản tin các giám mục xin lỗi, chúng tôi chỉ vắn tắt qua những thư gửi từ các diễn đàn. Tuy nhiên, phần tài liệu gốc vẫn được bổ túc đầy đủ. (SH)</i></p>
   </div>
@@ -87,7 +87,7 @@ image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nha.jpg"
 <p><b>ChinhIrving</b></p>
 <p>______________________</p>
   <p class="TuaDoLeft"><b>Bài đọc thêm:</b></p>
-  <p class="indent50">[Bài sau đây trích từ tập sách GIÁO HỘI LA MÃ: LỊCH SỬ VÀ HỒ SƠ TỘI ÁC của GS Nguyễn Mạnh Quang, phần <a href="https://sachhiem.net/NMQ/HOSOTOIAC/CH08.php">IV.- NHỮNG CON SỐ NẠN NHÂN BỊ SÁT HẠI TRONG NHỮNG TRƯỜNG HỢP RIÊNG BIỆT</a> thuộc CHƯƠNG 8 - HỦY DIỆT NỀN VĂN MINH NHÂN LOẠI VÀ NHỮNG THÀNH TÍCH TÀN SÁT LƯƠNG DÂN.]</p>
+  <p class="indent50">[Bài sau đây trích từ tập sách GIÁO HỘI LA MÃ: LỊCH SỬ VÀ HỒ SƠ TỘI ÁC của GS Nguyễn Mạnh Quang, phần <a href="/NMQ/HOSOTOIAC/CH08">IV.- NHỮNG CON SỐ NẠN NHÂN BỊ SÁT HẠI TRONG NHỮNG TRƯỜNG HỢP RIÊNG BIỆT</a> thuộc CHƯƠNG 8 - HỦY DIỆT NỀN VĂN MINH NHÂN LOẠI VÀ NHỮNG THÀNH TÍCH TÀN SÁT LƯƠNG DÂN.]</p>
   <p>“<i>Cho đến nay (thời điểm 2005), các nhà viết sử đều đồng ý với nhau là con số nạn nhân bị tàn sát lên tới gần 300 triệu. Trong cuốn Deceptions and Myths được phát hành vào năm đầu tiên vào năm 1975, sử gia Lloyd M. Graham nói rõ con số nạn nhân bị Giáo Hội La Mã sát hại lên tới trên trên 250 triệu</i>…”.</p>
   <p><b>Con số nạn nhân bi&nbsp; Giáo Hội La Mã sát hại ở Rwanda (Phi Châu) vào năm 1994.</b></p>
   <p> Chỉ&nbsp; trong vòng 100 ngày trong năm 1994, chính quyền đạo phiệt Gia-tô của Giám-mục Augustin Misago tại Rwanda đã sát hại tới hơn 800,000 (8000 ngàn) những người thuộc các tôn giáo khác. Dưới đây là một số tài liệu nói về thảm trạng này.Trước hết bản tin phổ biến vào ngày 5/ 11/ 2000 trên mạng http:/www.vietnamdaily.com&nbsp; loan truyền như sau:</p>
@@ -98,8 +98,8 @@ image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nha.jpg"
   <p><i>Kết từ phần buộc tội hôm Thứ Ba, công tố viên Edward Kayihura cũng yêu cầu Giám-mục Misago và chính phủ bồi thường 93,750 Mỹ kim cho các gia đình nạn nhân.</i></p>
   <p><i>Các cuộc tàn sát bắt đầu hồi tháng 4/1994, khi ấy Giám-mục Misago là chức sắc cao cấp nhất của Giáo Hội ở giáo xứ Gikongoro nơi hàng chục ngàn người bị giết. Giám mục Misago là chức sắc cao cấp nhất của Giáo Hội Thiên Chúa Giáo trong số trên 20 linh mục và nữ tu bị truy tố về tội diệt chủng. Hai linh mục đã bị kết án tử hình.</i></p>
   <p><i>Các cuộc tàn sát chấm dứt với chiến thắng của Mặt Trận Ái Quốc Rwanda do sắc dân Tutsi lãnh đạo lật đổ chính phủ của sắc dân Hutu.</i></p>
-  <p>Trên 125,000 can phạm diệt chủng bị tù tại Rwanda. Trên 1500 người đã được đưa ra tòa xét xử và 300 người bị án tử hình."&nbsp;<a name="_ednref25" title="" href="https://sachhiem.net/NMQ/HOSOTOIAC/CH08.php#_edn25">[25]</a></p>
-  <p class="indent50">[<a name="_edn25" title="" href="https://sachhiem.net/NMQ/HOSOTOIAC/CH08.php#_ednref25">[25]</a>&nbsp;Tin Tức "Giám Mục Thiên Chúa Giáo Có Thể Bị Tử Hình Tại&nbsp; Rwanda." https://www.vietdaily.com. Ngày 5/11/2000.]</p>
+  <p>Trên 125,000 can phạm diệt chủng bị tù tại Rwanda. Trên 1500 người đã được đưa ra tòa xét xử và 300 người bị án tử hình."&nbsp;<a name="_ednref25" title="" href="/NMQ/HOSOTOIAC/CH08#_edn25">[25]</a></p>
+  <p class="indent50">[<a name="_edn25" title="" href="/NMQ/HOSOTOIAC/CH08#_ednref25">[25]</a>&nbsp;Tin Tức "Giám Mục Thiên Chúa Giáo Có Thể Bị Tử Hình Tại&nbsp; Rwanda." https://www.vietdaily.com. Ngày 5/11/2000.]</p>
   <p>Rwanda là một quốc gia tí hon. Diện tích vỏn vẹn chỉ có 26,338 cây số vuông, và dân số là&nbsp;<b><u>8,196,000&nbsp;</u></b>(vào năm 1995) trong đó&nbsp;&nbsp;<b><u>65% theo đạo Kitô La Mã</u></b>.&nbsp; Vốn là hai vùng đất Rwanda và Burundi cùng bị Đức chiếm làm thuộc địa từ thập niên 1890. Đức là quốc gia bại trận trong trận Đệ Nhất Thế Chiến. Năm 1919, Hội Quốc Liên cho hợp nhất hai vùng đất này thành xứ Rwanda&nbsp; và giao cho nước Bỉ (theo đạo Kitô La Mã) quản trị. Vì thế mà tín đồ Kitô La Mã lên tới 65%.</p>
   <p>Về con số nạn nhân Tutsis bị chính quyền đạo phiệt Da-tô tàn sát trên đây, ký giả&nbsp;<i>Joe Lauria&nbsp;</i>của tờ The Boston Globe&nbsp;<b>ghi nhận là&nbsp;<u>800 ngàn người</u></b>. Bài báo của ký giả này với tựa đề là "<i>U.N.'s inaction blamed for Rwanda killings</i>"&nbsp;<i>U.S. Belgium also criticized in report on 1994 genocide in African country</i>" được tờ The News Tribune (Tacoma) số ra ngày Thứ Sáu 17/12/1999 đăng lại như sau::</p>
   <p><i>"New York: Vì Liên Hiệp Quốc đã không&nbsp; quan tâm đến&nbsp; những lời cảnh cáo nhắc đi nhắc lại về nạn tàn sát người tập thể&nbsp; diến ra ở Rwanda vào năm&nbsp; 1994, khiến cho 800 ngàn&nbsp; người Tutsisi và&nbsp; Hutus ôn hòa&nbsp; bi sát hại trong vòng chưa đầy 100 ngày. Đây là bản báo cáo&nbsp; của một ủy ban độc lập vào ngày Thứ Năm (vừa qua).</i></p>
@@ -115,7 +115,7 @@ image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nha.jpg"
     <p>The findings marked the second time in two months the U.N. has acknowledged failing to stop mass killings that could have been prevented. In an internal report in October, the U.N. accepted blame for the massacre of thousands of Bosnian Moslem men in 1995 in Srebrenia, Bosnia.</p>
     <p>"Both reports - my own on Srebrenica and that of the independent inquiry on Rwanda - reflect a profound determination to present the truth about these calamities," Annan said Thursday in a statement. Annan requested the inquiry into the Rwanda massacre in March. The panel, which began work in June, was headed by former Swedish Prime Minister Ingvar Carlson. The 58 page report said the mandate the Security Council gave the U.N. peackeeping force in Rwanda was inadequate and its rules of engagement unclear. It said U.N.&nbsp; officials, including Annan, failed to act after receiving direct evidence of a carefully planned genocide, and former U.N. chief Boutros Boutros-Ghahi did not inform the Security Coincil&nbsp; of the information.</p>
     <p>In a statement Thursday, Annan admitted the U.N. stood by during a genocide of the "purest and most evil form."&nbsp;</p>
-    <p>"All of us must bitterly regret that we did not do more to prevent it. There was a United Nations force in the country at the time, but it was neither mandated nor equipped&nbsp; for the kind of forceful action which would have been&nbsp; needed to prevent or halt the genocide. On behalf of the "U.N.', I acknowledge this failure and express my&nbsp; deep remorse."&nbsp;<a name="_ednref26" title="" href="https://sachhiem.net/NMQ/HOSOTOIAC/CH08.php#_edn26">[26]</a></p>
-    <p class="indent50">[<a name="_edn26" title="" href="https://sachhiem.net/NMQ/HOSOTOIAC/CH08.php#_ednref26">[26]</a>&nbsp;Joe Lauria (The Boston Globe) "U.N.'s<i>&nbsp;inaction blamed for Rwanda killings</i>"&nbsp; The News Tribune [Tacoma] December 17, 1999.] <img src="https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/sqdot.gif" width="10" height="10"></p>
+    <p>"All of us must bitterly regret that we did not do more to prevent it. There was a United Nations force in the country at the time, but it was neither mandated nor equipped&nbsp; for the kind of forceful action which would have been&nbsp; needed to prevent or halt the genocide. On behalf of the "U.N.', I acknowledge this failure and express my&nbsp; deep remorse."&nbsp;<a name="_ednref26" title="" href="/NMQ/HOSOTOIAC/CH08#_edn26">[26]</a></p>
+    <p class="indent50">[<a name="_edn26" title="" href="/NMQ/HOSOTOIAC/CH08#_ednref26">[26]</a>&nbsp;Joe Lauria (The Boston Globe) "U.N.'s<i>&nbsp;inaction blamed for Rwanda killings</i>"&nbsp; The News Tribune [Tacoma] December 17, 1999.] <img src="https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/sqdot.gif" width="10" height="10"></p>
     
   </div>

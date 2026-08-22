@@ -2,17 +2,17 @@
 layout: ../../../layouts/Article.astro
 title: "Tâm Thư Gửi Nhà Nước Việt Nam"
 author: "Nguyễn Mạnh Quang"
-source: "https://sachhiem.net/NMQ/TAMTHU/NMQtt_12.php"
+source: "/NMQ/TAMTHU/NMQtt_12"
 lang: vi
 wordCount: 6839
-image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nha.jpg"
+image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/print.gif"
 ---
 
-<p align="center"><a href="https://www.sachhiem.net/"> <img border="0" src="https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nha.jpg"></a> | 
-<a target="_blank" href="https://sachhiem.net/NMQ/TAMTHU/NMQtt_10.php">
+<p align="center"> | 
+<a target="_blank" href="/NMQ/TAMTHU/NMQtt_10">
 <img border="0" src="https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/print.gif" width="18" height="18"> 
   bản in</a> | 
-	<a target="_blank" href="https://sachhiem.net/NMQ/TAMTHU/NMQtt_Main.php"><b><font face="Symbol" size="5"> ¿ </font></b> trở ra mục lục</a>
+	<a target="_blank" href="/NMQ/TAMTHU/NMQtt_Main"><b><font face="Symbol" size="5"> ¿ </font></b> trở ra mục lục</a>
  |  21 tháng 12, 2009</p>
 <p align="center">(cập nhật thêm ảnh 14 Oct 2016)</p>
 <p class="CHUONG">PHẦN II</p>
@@ -58,7 +58,7 @@ là mối đại họa cho dân tộc Việt Nam</p>
 I.- ĐIỀU CẦN NÊN BIẾT VỀ NHỮNG NGƯỜI THAM LỢI, HÁO DANH VÀ THÈM KHÁT QUYỀN LỰC</p>
 
 <p>
-Vấn đề này đã được trình khá đầy đủ trong <a target="_blank" href="https://sachhiem.net/NMQ/TAMTHU/NMQtt_06.php">Mục 
+Vấn đề này đã được trình khá đầy đủ trong <a target="_blank" href="/NMQ/TAMTHU/NMQtt_06">Mục 
 IV Chương 6, "Đặc Tính Của Những Người Xin Theo Đạo".</a></p>
 
 

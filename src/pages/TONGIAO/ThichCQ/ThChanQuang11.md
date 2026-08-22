@@ -3,7 +3,7 @@ layout: ../../../layouts/Article.astro
 title: "TÂM THƯ CẦU CỨU của Nạn Nhân Trong Scandal Ở Chùa Phật Quang"
 author: "Ngô Quang Phú"
 date: 2026-01-21
-source: "https://sachhiem.net/TONGIAO/ThichCQ/ThChanQuang11.php"
+source: "/TONGIAO/ThichCQ/ThChanQuang11"
 category: "Tác giả"
 lang: vi
 wordCount: 78

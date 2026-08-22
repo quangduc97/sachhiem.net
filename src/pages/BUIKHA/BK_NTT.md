@@ -1,7 +1,7 @@
 ---
 layout: ../../layouts/Article.astro
 title: "Quyển: NGUYỄN TRƯỜNG TỘ YÊU NƯỚC?"
-source: "https://sachhiem.net/BUIKHA/BK_NTT.php"
+source: "/BUIKHA/BK_NTT"
 category: "Lịch sử"
 lang: vi
 wordCount: 556

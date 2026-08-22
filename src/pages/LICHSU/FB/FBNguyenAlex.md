@@ -3,7 +3,7 @@ layout: ../../../layouts/Article.astro
 title: "Không Thể Im Lặng Trước Những Luận Điệu Xuyên Tạc Lịch Sử!"
 author: "Nguyễn Alexander"
 date: 2022-06-12
-source: "https://sachhiem.net/LICHSU/FB/FBNguyenAlex.php"
+source: "/LICHSU/FB/FBNguyenAlex"
 category: "Chính trị"
 lang: vi
 wordCount: 588
@@ -42,4 +42,4 @@ Mất gốc — là mất tất cả.
  <p>_______________</p>
  <p><b>Bài đọc thêm:</b></p>
  <p>- “Xét lại lịch sử” - âm mưu thâm độc (<a href="https://baobinhphuoc.com.vn/news/1/2957/xet-lai-lich-su---am-muu-tham-doc">Bình Phước, 06/10/2019</a>)</p>
- <p>- <a href="https://sachhiem.net/THOISU_CT/ChuN/NguyenTuanAnh_11.php">Cuộc Kháng Chiến Chống Mỹ Cứu Nước Không Thể Coi Là Cuộc Nội Chiến Bắc Nam</a></p>
+ <p>- <a href="/THOISU_CT/ChuN/NguyenTuanAnh_11">Cuộc Kháng Chiến Chống Mỹ Cứu Nước Không Thể Coi Là Cuộc Nội Chiến Bắc Nam</a></p>

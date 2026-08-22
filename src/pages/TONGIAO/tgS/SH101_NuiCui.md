@@ -3,7 +3,7 @@ layout: ../../../layouts/Article.astro
 title: "Trung Tâm Đức Mẹ Núi Cúi - Và những lần chúng tôi lên tiếng"
 author: "SH Tổng Hợp"
 date: 2025-02-17
-source: "https://sachhiem.net/TONGIAO/tgS/SH101_NuiCui.php"
+source: "/TONGIAO/tgS/SH101_NuiCui"
 category: "Chính trị"
 lang: vi
 wordCount: 5001
@@ -16,7 +16,7 @@ image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/TONGIAO/IMG/NUICUI/Q
  
   
   <p> 1- Trung tâm Đức Mẹ Núi Cúi mở rộng, Công giáo hóa Quốc lộ 20?    (Minh Thạnh) 08-Apr-2017<br>
-  <a href="https://sachhiem.net/TONGIAO/tgM/MinhThanh14.php" target="_blank">https://sachhiem.net/TONGIAO/tgM/MinhThanh14.php</a></p>
+  <a href="/TONGIAO/tgM/MinhThanh14" target="_blank">https://sachhiem.net/TONGIAO/tgM/MinhThanh14.php</a></p>
   <p> 2- 048: Nghẹn Ngào Quanh Núi Cúi,  Hồ Trị An và Quốc Lộ 20 - Apr 13, 2020 <br>
     <a href="https://www.youtube.com/watch?v=ZWllQucClUM" target="_blank">https://www.youtube.com/watch?v=ZWllQucClUM</a></p>
   <p> 3- 070: Công Dân  Vatican Mở Mang Nước Chúa ở Núi Cúi - Jul 25,  2020 - Xin đọc phần mô tả rất chi tiết dưới video.<br>
@@ -24,9 +24,9 @@ image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/TONGIAO/IMG/NUICUI/Q
   <p> 4- Núi Cúi - Hiểm Họa Mất Kiểm Soát 1 Vùng Đất Nước<br>
     SH Tổng Hợp - 03-Aug-2020<br>
     Video: <a href="https://www.youtube.com/watch?v=C822zduakmU" target="_blank">https://www.youtube.com/watch?v=C822zduakmU</a><br>
-    Bài viết: <a href="https://sachhiem.net/TONGIAO/tgS/SH88.php" target="_blank">https://sachhiem.net/TONGIAO/tgS/SH88.php</a></p>
+    Bài viết: <a href="/TONGIAO/tgS/SH88" target="_blank">https://sachhiem.net/TONGIAO/tgS/SH88.php</a></p>
   <p> 5- Đám Đông Vaticanese Ở Núi Cúi Uy Hiếp Quốc Lộ 20 Có Phải Là Thuyết Âm Mưu? (Minh Thạnh) 21-Apr-2024<br>
-    <a href="https://sachhiem.net/TONGIAO/tgM/MinhThanh33ac.php" target="_blank">https://sachhiem.net/TONGIAO/tgM/MinhThanh33ac.php</a></p>
+    <a href="/TONGIAO/tgM/MinhThanh33ac" target="_blank">https://sachhiem.net/TONGIAO/tgM/MinhThanh33ac.php</a></p>
   <p> 6- Chính Quyền vào cuộc - XIN CHÍNH QUYỀN CỐ GẮNG NGHIÊM TÚC Ở VỤ VI PHẠM NÀY - 15 Feb, 2025<br>
     <a href="https://www.youtube.com/watch?v=Zpqd4fnwFOI&amp;t=29s">https://www.youtube.com/watch?v=Zpqd4fnwFOI&amp;t=29s </a></p>
   

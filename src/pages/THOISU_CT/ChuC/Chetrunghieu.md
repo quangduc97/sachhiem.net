@@ -2,11 +2,11 @@
 layout: ../../../layouts/Article.astro
 title: "Giám Mục Ngô Quang Kiệt,"
 author: "Chế Trung Hiếu"
-source: "https://sachhiem.net/null"
+source: "/null"
 category: "Chính trị"
 lang: vi
 wordCount: 1541
-image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nha.jpg"
+image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/TONGIAO/IMG/Toakham/ToaKham27a.jpg"
 ---
 
 <div align="center" style="position: relative; left: 0; top: 0">
@@ -26,8 +26,7 @@ image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nha.jpg"
 <div style="padding-left: 50px; padding-right: 50px">
 	<table border="0" cellpadding="0" width="85%">
 		<tbody><tr><td valign="top">
-		<a href="/index">	
-		<img border="0" src="https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nha.jpg"></a></td>
+		</td>
 	<td valign="top" width="124">19 tháng 5, 2010 </td></tr></tbody></table>
 		<p><i>LTS: Dù tiếng nói chính thức của Tổng Giám Mục Ngô Quang Kiệt để trấn an dư luận bằng lý do xin dưỡng bệnh, dư luận khác nhau và ngược chiều nhau vẫn rầm rộ vang dậy trong các nhóm giáo dân trong và ngoài nước. 
 		Đang lúc các trang nhà đạo Chúa khắp nơi đăng tải các bản tin về vụ 

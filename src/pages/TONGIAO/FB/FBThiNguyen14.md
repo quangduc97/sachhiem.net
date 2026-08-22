@@ -3,7 +3,7 @@ layout: ../../../layouts/Article.astro
 title: "Lễ Hằng Thuận Bên Phật Giáo"
 author: "FB Thi Nguyễn"
 date: 2020-12-22
-source: "https://sachhiem.net/TONGIAO/FB/FBThiNguyen14.php"
+source: "/TONGIAO/FB/FBThiNguyen14"
 category: "Tác giả"
 lang: vi
 wordCount: 1792

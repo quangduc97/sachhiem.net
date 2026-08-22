@@ -3,7 +3,7 @@ layout: ../../../layouts/Article.astro
 title: "Một Nữ Tu * Nói Bị Cưỡng Bách Viết Những Lời Thề Bằng Máu"
 author: "Sophia Rosenbaum/ The American Catholic"
 date: 2016-01-08
-source: "https://sachhiem.net/TONGIAO/tgS/SH62_nun.php"
+source: "/TONGIAO/tgS/SH62_nun"
 category: "Tác giả"
 lang: vi
 wordCount: 468

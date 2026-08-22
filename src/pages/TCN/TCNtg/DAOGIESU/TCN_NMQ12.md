@@ -2,14 +2,14 @@
 layout: ../../../../layouts/Article.astro
 title: "NGƯỜI VIỆT NAM & “ĐẠO GIÊ-SU”"
 author: "Trần Chung Ngọc và Nguyễn Mạnh Quang hợp soạn"
-source: "https://sachhiem.net/TCN/TCNtg/DAOGIESU/TCN_NMQ12.php"
+source: "/TCN/TCNtg/DAOGIESU/TCN_NMQ12"
 category: "Tác giả"
 lang: vi
 wordCount: 23079
-image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nha.jpg"
+image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/Next3.gif"
 ---
 
-<p align="center"><a href="https://sachhiem.net/index.php"><img hspace="20" border="0" src="https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nha.jpg"></a> 20 tháng 1, 2008 </p>
+<p align="center"> 20 tháng 1, 2008 </p>
      <p><br> Lời Tòa Soạn <a href="/TCN/TCNtg/DAOGIESU/TCN_NMQ"><img border="0" src="https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/Next3.gif" width="15" height="6"></a><br> Những mục của tác giả Trần Chung Ngọc: <a href="/TCN/TCNtg/DAOGIESU/TCN_NMQ1">1</a> <a href="/TCN/TCNtg/DAOGIESU/TCN_NMQ2">2</a> <a href="/TCN/TCNtg/DAOGIESU/TCN_NMQ3">3</a> <a href="/TCN/TCNtg/DAOGIESU/TCN_NMQ4">4</a> <br> Những mục của tác giả Nguyễn Mạnh Quang: <a href="/TCN/TCNtg/DAOGIESU/TCN_NMQ5">5</a> <a href="/TCN/TCNtg/DAOGIESU/TCN_NMQ6">6</a> <a href="/TCN/TCNtg/DAOGIESU/TCN_NMQ7">7</a> <a href="/TCN/TCNtg/DAOGIESU/TCN_NMQ8">8</a> <a href="/TCN/TCNtg/DAOGIESU/TCN_NMQ9">9</a> <a href="/TCN/TCNtg/DAOGIESU/TCN_NMQ10">10</a> <a href="/TCN/TCNtg/DAOGIESU/TCN_NMQ11">11</a> <a href="/TCN/TCNtg/DAOGIESU/TCN_NMQ12">12</a> <a href="/TCN/TCNtg/DAOGIESU/TCN_NMQ13">13</a> <a href="/TCN/TCNtg/DAOGIESU/TCN_NMQ14">14</a> <a href="/TCN/TCNtg/DAOGIESU/TCN_NMQ15">15</a> <a href="/TCN/TCNtg/DAOGIESU/TCN_NMQ16">16</a> <br> <a href="/TCN/TCNtg/DAOGIESU/TCN_NMQket">Lời Kết Chung</a> </p>
      
      <p class="CHUONG">CHƯƠNG 7</p>

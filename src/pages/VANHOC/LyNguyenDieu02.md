@@ -3,7 +3,7 @@ layout: ../../layouts/Article.astro
 title: "Tản mạn về phim “THE POST”"
 author: "Lý Nguyên Diệu"
 date: 2018-01-21
-source: "https://sachhiem.net/VANHOC/LyNguyenDieu02.php"
+source: "/VANHOC/LyNguyenDieu02"
 lang: vi
 wordCount: 1944
 image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/SACHNGOAI/Hinhanh/BIASACH/Phim_ThePost.jpg"

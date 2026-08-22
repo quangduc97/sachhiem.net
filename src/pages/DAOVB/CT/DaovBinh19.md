@@ -3,7 +3,7 @@ layout: ../../../layouts/Article.astro
 title: "Chiến Tranh Lạnh Nga-Mỹ Lù Lù Trước Mắt"
 author: "Đào Văn Bình"
 date: 2014-07-05
-source: "https://sachhiem.net/DAOVB/CT/DaovBinh19.php"
+source: "/DAOVB/CT/DaovBinh19"
 category: "Chính trị"
 lang: vi
 wordCount: 3010

@@ -3,7 +3,7 @@ layout: ../../../layouts/Article.astro
 title: "HÀ NỘI BỂ DÂU"
 author: "BS Nguyễn Văn Thịnh"
 date: 2017-11-11
-source: "https://sachhiem.net/VANHOC/N/NguyenvThinh_HNBDi.php"
+source: "/VANHOC/N/NguyenvThinh_HNBDi"
 category: "Văn hóa"
 lang: vi
 wordCount: 10595
@@ -438,4 +438,4 @@ Cẩm Nhung cười thầm mãi mỗi khi nhớ lại giây phút  thần tiên 
 </center>
 
   
-<p>•  Các bài của Nguyễn Văn Thịnh: link <a href="https://sachhiem.net/VANHOC/N/ListNVTh.inc.php" target="_blank">https://sachhiem.net/VANHOC/N/ListNVTh.inc.php</a></p>
+<p>•  Các bài của Nguyễn Văn Thịnh: link <a href="/VANHOC/N/ListNVTh.inc" target="_blank">https://sachhiem.net/VANHOC/N/ListNVTh.inc.php</a></p>

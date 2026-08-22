@@ -3,7 +3,7 @@ layout: ../../../layouts/Article.astro
 title: "Mẩu Thiết Kế Trang GG DD Cho Ngày Quốc Khánh Việt Nam"
 author: "SH sưu tầm"
 date: 2020-09-02
-source: "https://sachhiem.net/LICHSU/2THANG9/GoogleDoodle.php"
+source: "/LICHSU/2THANG9/GoogleDoodle"
 category: "Chính trị"
 lang: vi
 wordCount: 57

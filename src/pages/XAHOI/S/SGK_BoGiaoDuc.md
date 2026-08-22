@@ -3,7 +3,7 @@ layout: ../../../layouts/Article.astro
 title: "Dự Thảo Thông Tư 25 Ngày 09 -10-2023"
 author: "Bộ GD ĐT"
 date: 2023-11-08
-source: "https://sachhiem.net/XAHOI/S/SGK_BoGiaoDuc.php"
+source: "/XAHOI/S/SGK_BoGiaoDuc"
 category: "Chính trị"
 lang: vi
 wordCount: 2

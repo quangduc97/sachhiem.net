@@ -3,7 +3,7 @@ layout: ../../../layouts/Article.astro
 title: "THƠ Đoàn Nguyễn Tuấn"
 author: "TS Phạm Trọng Chánh"
 date: 2019-12-10
-source: "https://sachhiem.net/VANHOC/PHTRCH/PhTrCh08.php"
+source: "/VANHOC/PHTRCH/PhTrCh08"
 category: "Chính trị"
 lang: vi
 wordCount: 1986

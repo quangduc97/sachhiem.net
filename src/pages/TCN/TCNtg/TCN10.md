@@ -2,14 +2,12 @@
 layout: ../../../layouts/Article.astro
 title: "TẢN MẠN VỀ NGÀY 25 THÁNG 12"
 author: "Trần Chung Ngọc"
-source: "https://sachhiem.net/TCN/TCNtg/TCN10.php"
+source: "/TCN/TCNtg/TCN10"
 lang: vi
 wordCount: 9066
-image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nha.jpg"
 ---
 
-<p align="center"><a href="https://www.sachhiem.net/">
-<img border="0" src="https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nha.jpg"></a> đăng ngày 20 tháng 12, 2006
+<p align="center"> đăng ngày 20 tháng 12, 2006
 	 </p>
 <p><b><font size="6" face="Vivaldi">N</font></b><font size="6" face="Vivaldi">hớ 		lại khi xưa ở Saigon, mỗi năm cứ đến tối ngày 24 tháng 12, tôi và người 		bạn thân thường đi tìm vui ở xung quanh nhà thờ Đức Bà. Khu vực xung 		quanh nhà thờ đông nghẹt những người trẻ như tôi, nhưng không hiểu có 		bao nhiêu người thực sự “đi lễ” nhà thờ vì biết đến Chúa Giê-su hay tin 		ở sự cứu rỗi của Chúa Giê-su hay chỉ là ham vui như tôi . Tôi tin rằng 		số này không có nhiều mà chỉ vì ham vui nơi đông đảo mà chúng tôi thường 		gọi là “đi lễ đi liếc” mà thôi. Tôi chắc rằng hiện nay cảnh nhộn nhịp 		vào tối 24 tháng 12 ở xung quanh nhà thờ Đức Bà Saigon hay nhà thờ lớn 		Hà Nội cũng vậy. </font></p><font size="6" face="Vivaldi">
 		<p>Từ ngày sang Mỹ 		đến nay, tôi đã có cơ hội tìm hiểu về thực chất ngày 25 tháng 12 mà 		người ta thường cho là ngày “giáng sinh” của Chúa Giê-su. Trước khi 		trình bày về ngày này trong lãnh vực học thuật, trước hết tôi xin trình 		bày xã hội Mỹ ngày nay đã “đối xử” với ngày lễ giáng sinh ra sao.</p>

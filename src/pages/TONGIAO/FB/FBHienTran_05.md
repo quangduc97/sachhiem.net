@@ -3,7 +3,7 @@ layout: ../../../layouts/Article.astro
 title: "Thái Độ Thù Địch Của Người Do Thái Đối Với Kitô Giáo- Lý Do Thần Học"
 author: "Hiên Trần"
 date: 2026-05-01
-source: "https://sachhiem.net/TONGIAO/FB/FBHienTran_05.php"
+source: "/TONGIAO/FB/FBHienTran_05"
 category: "Tác giả"
 lang: vi
 wordCount: 1127

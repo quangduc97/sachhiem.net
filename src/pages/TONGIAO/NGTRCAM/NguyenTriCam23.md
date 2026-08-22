@@ -2,14 +2,14 @@
 layout: ../../../layouts/Article.astro
 title: "Lời Ví Von Của Hồng Y Ivan Dias"
 author: "Nguyễn Trí Cảm"
-source: "https://sachhiem.net/TONGIAO/NGTRCAM/NguyenTriCam23.php"
+source: "/TONGIAO/NGTRCAM/NguyenTriCam23"
 category: "Tác giả"
 lang: vi
 wordCount: 1879
-image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nha.jpg"
+image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/TONGIAO/IMG/LINHMUC/DHY_Dias.jpg"
 ---
 
-<p align="center"><a href="https://sachhiem.net/index.php"><img hspace="20" border="0" src="https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nha.jpg"></a> 	 14 tháng 11, 2010  </p>
+<p align="center"> 	 14 tháng 11, 2010  </p>
 			<p><span class="First">
 			<img border="0" src="https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/TONGIAO/IMG/LINHMUC/DHY_Dias.jpg" width="298" height="198"></span></p>
 		<p><span class="First">Đ</span>ại lễ Bế mạc Năm Thánh 2010 và Đại hội Thánh 
@@ -177,7 +177,7 @@ image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nha.jpg"
 
 <hr align="left" width="40%">			
 <p><a name="1" href="/TONGIAO/#re1">[1]</a>
-<a href="https://sachhiem.net/TONGIAO/TOAKHAM/NguyenDXuan.php">Tìm hiểu lịch sử Nhà thờ La Vang&nbsp; qua các 
+<a href="/TONGIAO/TOAKHAM/NguyenDXuan">Tìm hiểu lịch sử Nhà thờ La Vang&nbsp; qua các 
 			nguồn tư liệu của Thiên Chúa Giáo -Nguyễn Đắc Xuân </a> </p>
 			
 			<p><a name="2" href="/TONGIAO/#re2">[2]</a>

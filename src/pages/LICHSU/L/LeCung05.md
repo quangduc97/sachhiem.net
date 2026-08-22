@@ -3,7 +3,7 @@ layout: ../../../layouts/Article.astro
 title: "Nhận thức lịch sử Về LM Dòng Tên A.D. Rhodes Cần Phải Được Khẳng Định - (2)"
 author: "GS Lê Cung"
 date: 2020-10-10
-source: "https://sachhiem.net/LICHSU/L/LeCung05.php"
+source: "/LICHSU/L/LeCung05"
 category: "Chính trị"
 lang: vi
 wordCount: 14721
@@ -119,7 +119,7 @@ wordCount: 14721
 <p>     15.  Aleaxandre  de Rhodes, Phép giảng tám ngày (Bản chụp cuốn sách in đầu tiên bằng chữ quốc  ngữ), Roma, Italia, 1651. </p>
 <p>     16.  Alexandre de Rhodes, <i>Từ  điển Annam - Lusitan - Latinh (tức Từ điển Việt - Bồ - La),</i> Nxb. Khoa học Xã hội, Hà Nội, 1991.</p>
 <p>     17.  Aleaxandre  de Rhodes, <i>Hành trình và truyền giáo (Divers Voyages et Missions) </i>(Nguyễn Khắc Xuyên dịch), Ủy ban Đoàn kết  Công giáo Thành phố Hồ Chí Minh, 1994. </p>
-<p>     18. <a href="https://sachhiem.net/CHARLIE/CN_CGTBVT/CN_CGTBVT_9.php">https://sachhiem.net/CHARLIE/CN_CGTBVT/CN_CGTBVT_9.php</a>.</p>
+<p>     18. <a href="/CHARLIE/CN_CGTBVT/CN_CGTBVT_9">https://sachhiem.net/CHARLIE/CN_CGTBVT/CN_CGTBVT_9.php</a>.</p>
 <p>     19. Bùi Đức Sinh, Lịch sử Giáo hội Công  giáo, Quyển hai, Nxb. Chân Lý, Sài Gòn, 1994.</p>
 <p>     20. Phạm Văn Sơn, Việt sử tân biên (Từ Tây  Sơn mạt điệp đến Nguyễn sơ), Quyển IV, Tủ sách Sử học Việt Nam, Sài Gòn, 1961. </p>
 <p>     21. Chu Văn Trình trong “<i>Gia tô thực dân sử liệu, Tập  1”</i>, Tác giả xuất bản, florida, USA,  1990. </p>
@@ -156,7 +156,7 @@ wordCount: 14721
        <p><a href="/LICHSU/#_ftnref27" name="_ftn27">(27) </a> Năm 1773, Dòng Tên đã bị Giáo hoàng  Clément XIV ra lệnh giải tán, sau đó đến năm 1814, Dòng Tên đã được Giáo hoàng  Pius VII tái lập. Linh mục Phan Phát Huồn trong <i>“Việt Nam giáo sử”</i> và Phan Khoang trong <i>“Việt sử Đàng Trong”</i> đều khẳng định: <i>“Năm 1773, Giáo hoàng Clément XIV giải tán Dòng Tên”</i> (tr. 586). </p>
        <p><a href="/LICHSU/#_ftnref28" name="_ftn28">(28) </a> Martin Luther  (1483-1546), người khởi xướng và trở thành lãnh tụ nổi tiếng của phong trào Cải  cách tôn giáo, khởi đầu ở Đức. Ngày 16-11-1517, Luther công bố <i>“Chín mươi lăm luận đề”</i> tại nhà thờ ở  Witenberg, kịch liệt lên án Giáo hoàng. Luther cho rằng: “<i>Nếu Giáo hoàng có thể giải cứu linh hồn người ra khỏi lửa luyện ngục,  cớ sao không tỏ lòng đau xót các linh hồn đáng thương ấy mà giải cứu hết một  lượt”,... “Thà đại giáo đường thánh Phê-rô bị phóng hoả thành tro bụi còn hơn  xây cất nó trên máu của con chiên,...”</i> (Phòng Thông tin tư liệu thuộc Ban  Tôn giáo của Chính phủ, <i>Một số Tôn giáo ở  Việt Nam,</i> Hà Nội, 1995, tr. 103). </p>
         <p><a href="/LICHSU/#_ftnref29" name="_ftn29">(29) </a> Bùi Đức  Sinh, Lịch sử Giáo hội Công giáo, Quyển hai, Nxb. Chân Lý, Sài Gòn, 1994¸ tr.  164. </p>
-        <p><a href="/LICHSU/#_ftnref30" name="_ftn30">(30) </a> <a href="https://sachhiem.net/CHARLIE/CN_CGTBVT/CN_CGTBVT_9.php">https://sachhiem.net/CHARLIE/CN_CGTBVT/CN_CGTBVT_9.php</a>.</p>
+        <p><a href="/LICHSU/#_ftnref30" name="_ftn30">(30) </a> <a href="/CHARLIE/CN_CGTBVT/CN_CGTBVT_9">https://sachhiem.net/CHARLIE/CN_CGTBVT/CN_CGTBVT_9.php</a>.</p>
         <p><a href="/LICHSU/#_ftnref31" name="_ftn31">(31) </a> Theo  Chu Văn Trình trong “<i>Gia tô thực dân sử liệu, Tập 1”</i>, Tác giả xuất bản, Florida, USA, 1990,  tr. 19, thì&nbsp; <i>“Dòng Tên đã từng chủ động hai vụ ám sát Tổng thống Abraham Lincoln và John F. Kennedy và cộng tác với phát xít Hitler, Mussolini,...”.</i></p>
        <p><a href="/LICHSU/#_ftnref32" name="_ftn32">(32) </a> Bùi Đức  Sinh, Lịch sử Giáo hội Công giáo, Quyển hai, Nxb. Chân Lý, Sài Gòn, 1994, tr.  165. </p>
         <p><a href="/LICHSU/#_ftnref33" name="_ftn33">(33) </a> Phạm  Ngộ Hiên, Nguyễn Hoà Đường, Nguyễn Bá Am và Trần Trình Hiên, Tây Dương Gia Tô  bí lục (Ngô Đức Tộ dịch và giới thiệu), Việt Nam P.O. Box 712502, San Diego, CA  92171, USA, 1999 (Lời nói đầu của Cửu Long Lê Trọng Văn, tr. V). </p>

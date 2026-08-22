@@ -3,19 +3,19 @@ layout: ../../../layouts/Article.astro
 title: "Khủng Bố Ở Little Saigon - Cuộc Điều Tra Đã Bắt Đầu"
 author: "PBS Frontline"
 date: 2015-11-04
-source: "https://sachhiem.net/THOISU_CT/ChuT/TinProPublica.php"
+source: "/THOISU_CT/ChuT/TinProPublica"
 category: "Chính trị"
 lang: vi
 wordCount: 15344
-image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nha.jpg"
+image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/moicolor.gif"
 ---
 
-<p align="center"><a href="https://www.sachhiem.net/"> <img border="0" src="https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nha.jpg"></a> 04-Nov-2015 updated 02 Jun 2017</p>
+<p align="center"> 04-Nov-2015 updated 02 Jun 2017</p>
   <div class="danbai">
     <p><b>Gồm các mục:</b></p>
     <p><a name="one" href="/THOISU_CT/#n1"><b>1- </b>Cáo thị: </a>Xin giúp điều tra những vụ án của Năm nhà báo Mỹ gốc Việt</p>
   <p><a name="two" href="/THOISU_CT/#n2"><b>2</b>- Bài tường thuật Anh ngữ</a> TERROR IN LITTLE SAIGON của A.C Thompson, ProPublica</p>
-       <p>(<a href="https://sachhiem.net/THOISU_CT/ChuT/TinThanhnien_2.php">Xem bài tóm lược của TNO </a>- Báo Mỹ: Việt Tân Đã Giết Hại Hàng Loạt Nhà Báo Gốc Việt Để Bịt Miệng)</p>
+       <p>(<a href="/THOISU_CT/ChuT/TinThanhnien_2">Xem bài tóm lược của TNO </a>- Báo Mỹ: Việt Tân Đã Giết Hại Hàng Loạt Nhà Báo Gốc Việt Để Bịt Miệng)</p>
   <p><a name="thre" href="/THOISU_CT/#n3"><b>3</b>- How We Reported It </a>- PBS Frontline</p>
   <p><a name="for" href="/THOISU_CT/#n4"><b>4</b>- Inside the Making</a> of “Terror in Little Saigon” 
  ET&nbsp;by&nbsp;Patrice Taddonio</p>
@@ -31,7 +31,7 @@ image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nha.jpg"
      <p class="nguonL">Source: <a href="https://www.propublica.org/article/help-us-investigate-murder-of-vietnamese-journalists-vn">https://www.propublica.org/article/help-us-investigate-murder-of-vietnamese-journalists-vn</a></p>
   </div>
   <hr>
-<p><span class="First">X</span>in xem bài tóm tắt bằng tiếng Việt, từ Báo Thanh Niên: <a href="https://sachhiem.net/THOISU_CT/ChuT/TinThanhnien_2.php">Báo Mỹ: Việt Tân Đã Giết Hại Hàng Loạt Nhà Báo Gốc Việt Để Bịt Miệng</a></p>
+<p><span class="First">X</span>in xem bài tóm tắt bằng tiếng Việt, từ Báo Thanh Niên: <a href="/THOISU_CT/ChuT/TinThanhnien_2">Báo Mỹ: Việt Tân Đã Giết Hại Hàng Loạt Nhà Báo Gốc Việt Để Bịt Miệng</a></p>
   <p>________________________</p>
   <p><b>Bổ túc ngày 11/11/2015:</b>  </p>
   
@@ -41,15 +41,15 @@ image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nha.jpg"
       <p>________________________</p>
       <p><b>Mời đọc thêm:</b></p>
       <p>- Khủng Bố Ở Little Saigon - Cuộc Điều Tra Đã Bắt Đầu (PBS Frontline)</p>
-<p>        <a href="https://sachhiem.net/THOISU_CT/ChuT/TinProPublica.php">https://sachhiem.net/THOISU_CT/ChuT/TinProPublica.php</a></p>
+<p>        <a href="/THOISU_CT/ChuT/TinProPublica">https://sachhiem.net/THOISU_CT/ChuT/TinProPublica.php</a></p>
       <p>- Trình Chiếu Trên Truyền Hình Mỹ Cuộc Điều Tra Về Khủng Bố tại Tiểu Sài Gòn (www.pbs.org)</p>
-<p>        <a href="https://sachhiem.net/XAHOI/T/TheFront.php">https://sachhiem.net/XAHOI/T/TheFront.php</a></p>
+<p>        <a href="/XAHOI/T/TheFront">https://sachhiem.net/XAHOI/T/TheFront.php</a></p>
       <p>- Việt Tân Là Gì? (Phạm Văn Thành)</p>
-<p>        <a href="https://sachhiem.net/THOISU_CT/ChuT/TinPhamVThanh.php">https://sachhiem.net/THOISU_CT/ChuT/TinPhamVThanh.php</a></p>
+<p>        <a href="/THOISU_CT/ChuT/TinPhamVThanh">https://sachhiem.net/THOISU_CT/ChuT/TinPhamVThanh.php</a></p>
       <p>- Phỏng Vấn Các Nhân Vật Liên Quan Trong Phim "Terror In Little Saigon" (Người Việt và CaliToday)</p>
-<p>      <a href="https://sachhiem.net/THOISU_CT/ChuT/TinNgViet01.php">https://sachhiem.net/THOISU_CT/ChuT/TinNgViet01.php</a></p>
+<p>      <a href="/THOISU_CT/ChuT/TinNgViet01">https://sachhiem.net/THOISU_CT/ChuT/TinNgViet01.php</a></p>
       <p>- Tài Liệu Cáo Giác Hoạt Động Chính Trị và Tội Ác của Mặt Trận Hoàng Cơ Minh (Thư viện Phạm Văn Thành)</p>
-<p>  <a href="https://sachhiem.net/THOISU_CT/ChuT/TinPhamVThanh01.php">https://sachhiem.net/THOISU_CT/ChuT/TinPhamVThanh01.php</a></p>
+<p>  <a href="/THOISU_CT/ChuT/TinPhamVThanh01">https://sachhiem.net/THOISU_CT/ChuT/TinPhamVThanh01.php</a></p>
     <hr>
    <a name="n2" href="/THOISU_CT/#two"></a>
     

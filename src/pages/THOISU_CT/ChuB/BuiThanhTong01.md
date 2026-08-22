@@ -3,7 +3,7 @@ layout: ../../../layouts/Article.astro
 title: "Tây Ban Nha: Hệ Thống Quy Mô"
 author: "Bùi Thanh Tòng"
 date: 2011-11-13
-source: "https://sachhiem.net/THOISU_CT/ChuB/BuiThanhTong01.php"
+source: "/THOISU_CT/ChuB/BuiThanhTong01"
 category: "Tác giả"
 lang: vi
 wordCount: 2066

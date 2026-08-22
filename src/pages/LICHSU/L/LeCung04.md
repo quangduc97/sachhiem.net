@@ -3,7 +3,7 @@ layout: ../../../layouts/Article.astro
 title: "Người Quảng Bình, Thử Nhìn Từ Phía Phản Diện"
 author: "GS Lê Cung *"
 date: 2020-10-08
-source: "https://sachhiem.net/LICHSU/L/LeCung04.php"
+source: "/LICHSU/L/LeCung04"
 category: "Văn hóa"
 lang: vi
 wordCount: 11919

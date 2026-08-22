@@ -3,16 +3,16 @@ layout: ../../../layouts/Article.astro
 title: "Nguyễn Du Chia Tay"
 author: "TS Phạm Trọng Chánh"
 date: 2009-10-24
-source: "https://sachhiem.net/VANHOC/PHTRCH/PhTrCh03.php"
+source: "/VANHOC/PHTRCH/PhTrCh03"
 category: "Văn hóa"
 lang: vi
 wordCount: 4246
-image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nha.jpg"
+image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/VANHOC/Hinh/PhTrCh03_Lieuchau.jpg"
 ---
 
 <table border="0" cellpadding="0" width="250" align="center">
       <tbody><tr>
-       <td width="125"><a href="/index"><img border="0" src="https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nha.jpg"></a></td>
+       <td width="125"></td>
        <td valign="middle">11-FEB-2013</td>
       </tr>
      </tbody></table>

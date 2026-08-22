@@ -2,7 +2,7 @@
 layout: ../../../layouts/Article.astro
 title: "Kiêu dân Công Giáo thời Ngô Đình Diệm"
 author: "Trần Lâm"
-source: "https://sachhiem.net/nguồn https://www.talawas.org/?p=12797 ngày 11 tháng 6, 2009"
+source: "/nguồn https://www.talawas.org/?p=12797 ngày 11 tháng 6, 2009"
 lang: vi
 wordCount: 6873
 image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nha.jpg"

@@ -3,7 +3,7 @@ layout: ../../../layouts/Article.astro
 title: "Kiểu Đón Giáng Sinh … Sốc Chỉ Xảy Ra ở Mỹ"
 author: "Dê Hô Va (góp nhặt trên mạng)"
 date: 2012-12-07
-source: "https://sachhiem.net/TONGIAO/tgD/Dehova05.php"
+source: "/TONGIAO/tgD/Dehova05"
 category: "Tác giả"
 lang: vi
 wordCount: 332

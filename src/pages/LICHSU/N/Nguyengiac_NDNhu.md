@@ -3,7 +3,7 @@ layout: ../../../layouts/Article.astro
 title: "NGÔ ĐÌNH NHU"
 author: "Nguyên Giác dịch"
 date: 2015-07-08
-source: "https://sachhiem.net/LICHSU/N/Nguyengiac_NDNhu.php"
+source: "/LICHSU/N/Nguyengiac_NDNhu"
 category: "Lịch sử"
 lang: vi
 wordCount: 8557

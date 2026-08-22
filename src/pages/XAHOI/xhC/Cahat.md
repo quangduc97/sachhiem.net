@@ -2,17 +2,15 @@
 layout: ../../../layouts/Article.astro
 title: "Về Đề Nghị Xây Tượng Ngô Đình Diệm"
 author: "K.H."
-source: "https://sachhiem.net/null"
+source: "/null"
 category: "Xã hội"
 lang: vi
 wordCount: 1294
-image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nha.jpg"
 ---
 
 <table border="0" cellpadding="1" width="250" align="center">
 <tbody><tr>
-<td><a href="/index">
-<img border="0" src="https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nha.jpg"></a></td>
+<td></td>
 <td valign="top">
 <p>28 tháng 11,  2010 </p></td>
 </tr>

@@ -2,7 +2,7 @@
 layout: ../../../layouts/Article.astro
 title: "Nơi Trồng Người"
 author: "Nguyễn Trí Cảm"
-source: "https://sachhiem.net/TONGIAO/NGTRCAM/NguyenTriCam01.php"
+source: "/TONGIAO/NGTRCAM/NguyenTriCam01"
 category: "Tác giả"
 lang: vi
 wordCount: 685

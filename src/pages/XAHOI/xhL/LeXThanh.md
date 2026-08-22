@@ -3,7 +3,7 @@ layout: ../../../layouts/Article.astro
 title: "Chúc Mừng Ngày Nhà Giáo Nhân Dân Việt Nam 20/11 Và"
 author: "Lê Xuân Thành"
 date: 2015-11-17
-source: "https://sachhiem.net/XAHOI/xhL/LeXThanh.php"
+source: "/XAHOI/xhL/LeXThanh"
 category: "Chính trị"
 lang: vi
 wordCount: 1023
@@ -17,7 +17,7 @@ image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/COVER/LXThanh
   <p> <span class="First"><img src="https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/COVER/LXThanh.JPG" alt="lê Xuân Thành" width="129" height="180" class="PicLeft">N</span>hân dịp kỷ niệm ngày Nhà giáo Nhân dân Việt Nam (20/11/2015), ẹm kính Thầy Cô và    gia đình sức khỏe, hạnh phúc và thành công!</p>
 <p>  Hòa chung không khí phấn khởi, vui tươi cả nước hướng về ngày tri ân các Nhà    giáo Nhân dân Việt Nam, em xin kính gửi đến Thầy Cô những lời tri ân sâu sắc! Mặc    dù em viết văn không được hay, nhưng em vẫn viết để gửi đến Thầy Cô và tỏ lòng ghi    nhớ công ơn Thầy Cô – Những người Cha mẹ thứ hai đã hết lòng dạy dỗ và rèn luyện    em nên người!</p>
 <p>  Người ta thường nói ‘những người cùng chung lý tưởng sẽ gặp nhau’, được quen    biết Thầy Cô là một may mắn của đời em. Cha mẹ đã cho em một hình hài, Thầy Cô cho    em cả kiến thức. Những người thầy, Thầy Cô cũng như những người cha mẹ thứ hai    vậy! Được biết nhiều Thầy Cô năm nay cũng trạc tuổi bố mẹ em. Những lời khuyên của Thầy Cô    cũng như lời khuyên của cha mẹ.</p>
-<p> Khi đọc các bài viết của Thầy Cô trên <a href="https://sachhiem.net/" target="_blank">Sachhiem.net</a>, em rất ngưỡng mộ kiến thức uyên bác của Thầy Cô và càng yêu hơn    cái tâm trong sáng (khi em biết vài tác giả đã từng là người Công Giáo và đã bỏ đạo),    Những kiến thức đó thiêng liêng, cao quý đâu kém những gì mà cha mẹ đã làm    cho em.</p>
+<p> Khi đọc các bài viết của Thầy Cô trên <a href="/" target="_blank">Sachhiem.net</a>, em rất ngưỡng mộ kiến thức uyên bác của Thầy Cô và càng yêu hơn    cái tâm trong sáng (khi em biết vài tác giả đã từng là người Công Giáo và đã bỏ đạo),    Những kiến thức đó thiêng liêng, cao quý đâu kém những gì mà cha mẹ đã làm    cho em.</p>
 <p> Thầy Cô tuy sống ở Mỹ nhưng tim luôn ở trong nước, tình yêu Tổ quốc thể hiện qua  từng câu chữ của Thầy Cô.     Chính những bài viết ấy đã truyền lửa cho thế hệ trẻ Việt Nam để em có thể  tiếp lửa cùng Thầy Cô!</p>
 <p align="center"><img src="https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/CHUCTET/Ngay_nhagiao_20Nov.jpg" width="600" height="221" alt=""></p>
 <p>    Em biết rằng Thầy Cô cũng có nhiều khó khăn trong công việc và cuộc sống, nhưng Thầy Cô    đã vượt qua tất cả những khó khăn ấy và đã mang hết tâm huyết, tài năng và    tinh thần dân tộc để viết lên những dòng văn mà hiếm trí thức trong nước dám    làm!</p>

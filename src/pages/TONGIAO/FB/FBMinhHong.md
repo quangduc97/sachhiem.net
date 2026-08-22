@@ -3,7 +3,7 @@ layout: ../../../layouts/Article.astro
 title: "Kính gửi Đ/C Võ Văn Thưởng, Chủ Tịch Nước CHXHCNVN"
 author: "FB Minh Hồng"
 date: 2023-08-07
-source: "https://sachhiem.net/TONGIAO/FB/FBMinhHong.php"
+source: "/TONGIAO/FB/FBMinhHong"
 category: "Chính trị"
 lang: vi
 wordCount: 5093

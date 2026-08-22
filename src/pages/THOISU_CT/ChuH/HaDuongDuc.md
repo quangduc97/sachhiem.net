@@ -2,7 +2,7 @@
 layout: ../../../layouts/Article.astro
 title: "Tâm Linh Tổ Quốc"
 author: "Hà Dương Dực"
-source: "https://sachhiem.net/null"
+source: "/null"
 category: "Chính trị"
 lang: vi
 wordCount: 5233

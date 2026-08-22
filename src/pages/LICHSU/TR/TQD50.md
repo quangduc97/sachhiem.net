@@ -3,7 +3,7 @@ layout: ../../../layouts/Article.astro
 title: "Vụ Phật Giáo và ông Diệm - Người Mỹ có \"dàn dựng\" những điều này không?"
 author: "Trần Quang Diệu trích thuật"
 date: 2015-11-14
-source: "https://sachhiem.net/LICHSU/TR/TQD50.php"
+source: "/LICHSU/TR/TQD50"
 category: "Lịch sử"
 lang: vi
 wordCount: 3448

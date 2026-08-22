@@ -6,10 +6,10 @@ source: "https://www.politics.ie/current-affairs/120766-poor-joseph-god-hard-act
 category: "Sách ngoại văn"
 lang: vi
 wordCount: 673
-image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nha.jpg"
+image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/SACHNGOAI/Hinhanh/BillboardJoseph.jpg"
 ---
 
-<p align="center"><a href="https://www.sachhiem.net/"> <img border="0" src="https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nha.jpg"></a> 23 tháng 12, 2009</p> 
+<p align="center"> 23 tháng 12, 2009</p> 
  				
 				<p>Một hàng chữ có tính cách bất kính trên một tấm biển ở trong một nhà thờ, có ý chống lại cái ấn tượng lâu đời về sự ra đời của Jesus Christ đã vang dội cả nước Tân Tây Lan. 				</p>
 				<p class="center">

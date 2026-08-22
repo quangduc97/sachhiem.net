@@ -3,7 +3,7 @@ layout: ../../layouts/Article.astro
 title: "Dân Chủ, Ước Mơ và Hiện Thực"
 author: "Trần Đạo"
 date: 2014-12-04
-source: "https://sachhiem.net/VANHOC/TranDao.php"
+source: "/VANHOC/TranDao"
 category: "Tác giả"
 lang: vi
 wordCount: 9841

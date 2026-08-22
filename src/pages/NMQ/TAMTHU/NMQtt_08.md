@@ -2,17 +2,17 @@
 layout: ../../../layouts/Article.astro
 title: "Tâm Thư Gửi Nhà Nước Việt Nam"
 author: "Nguyễn Mạnh Quang"
-source: "https://sachhiem.net/NMQ/TAMTHU/NMQtt_08.php"
+source: "/NMQ/TAMTHU/NMQtt_08"
 lang: vi
 wordCount: 14103
-image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nha.jpg"
+image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/print.gif"
 ---
 
-<p align="center"><a href="https://www.sachhiem.net/"> <img border="0" src="https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nha.jpg"></a> | 
-<a target="_blank" href="https://sachhiem.net/NMQ/TAMTHU/NMQtt_08.php">
+<p align="center"> | 
+<a target="_blank" href="/NMQ/TAMTHU/NMQtt_08">
 <img border="0" src="https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/print.gif" width="18" height="18"> 
  bản in </a> | 
-	<a target="_blank" href="https://sachhiem.net/NMQ/TAMTHU/NMQtt_Main.php"><b><font face="Symbol" size="5"> ¿ </font></b> trở ra mục lục</a>
+	<a target="_blank" href="/NMQ/TAMTHU/NMQtt_Main"><b><font face="Symbol" size="5"> ¿ </font></b> trở ra mục lục</a>
  |  03 tháng 7, 2009 </p>
 
 <p class="CHUONG">PHẦN II</p>
@@ -1138,7 +1138,7 @@ Nhất Cấp vào năm 1957, Tú Tài I vào năm 1958, Tú Tài II vào
 năm 1959, và hơn 10 năm trong nghề dạy môn Sử Địa và Công 
 Dân ở miền Nam, người viết nhìn thấy rõ vấn đề này hơn ai 
 hết.</p>
-<p><a target="_blank" href="https://sachhiem.net/NMQ/TAMTHU/NMQtt_08a.php">(còn tiếp)</a></p>
+<p><a target="_blank" href="/NMQ/TAMTHU/NMQtt_08a">(còn tiếp)</a></p>
 					
 <p class="TuaDenLeft">
 CHÚ THÍCH</p>
@@ -1236,7 +1236,7 @@ tôi nữa, bảo: "Tôi phục tư cách của ông từ hồi đó."</i></p>
 [4]</a>
 Nguyễn Ngọc Quỳ. 
 “Tản Mạn Quanh Cuốn Trần Lục.” 
-<a href="https://www.sachhiem.net/LICHSU/NguyenNgocQuy.php">https://www.sachhiem.net/ LICHSU/NguyenNgocQuy.php</a> &nbsp;Ngày  5 tháng 4, 2009. 
+<a href="/LICHSU/NguyenNgocQuy">https://www.sachhiem.net/ LICHSU/NguyenNgocQuy.php</a> &nbsp;Ngày  5 tháng 4, 2009. 
 					
 </p><p>
 <i>“Trước hết, điểm mặt 

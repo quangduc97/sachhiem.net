@@ -2,18 +2,18 @@
 layout: ../../../layouts/Article.astro
 title: "Chuyện lá cờ Phật giáo ngày Phật đản"
 author: "Dương Kinh Thành"
-source: "https://sachhiem.net/VANHOC/DKTH/DgKinhThanh_LS.php"
+source: "/VANHOC/DKTH/DgKinhThanh_LS"
 category: "Lịch sử"
 lang: vi
 wordCount: 1355
-image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nha.jpg"
+image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/TONGIAO/IMG/CoPhatgiao.jpg"
 ---
 
 <p class="Tuaduoi"> với bà Trần Lệ Xuân</p>
 
 
  
-<p align="center"><a href="/index"><img hspace="20" border="0" src="https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nha.jpg"></a>
+<p align="center">
   29 tháng 4,  2011 </p> 
 <p><span class="First">
 <img border="0" src="https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/TONGIAO/IMG/CoPhatgiao.jpg" align="left" hspace="10">T</span>rong tâm trạng chán chường của một người Phật tử đất Sài thành trước một mùa Phật đản nữa không lấy gì làm vui, đồng thời mỏi mòn mong muốn các tư gia Phật tử treo cờ Phật nhân ngày lễ quan trọng này sau nhiều năm tháng dài lãnh đạo PGVN không quan tâm về vấn đề này ; thì sáng nay đọc được tin tức BÀ TRẦN LỆ XUÂN QUA ĐỜI.</p>

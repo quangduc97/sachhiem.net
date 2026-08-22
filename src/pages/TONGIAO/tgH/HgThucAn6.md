@@ -3,7 +3,7 @@ layout: ../../../layouts/Article.astro
 title: "Đọc Bài Phỏng Vấn Của T/G Hữu Nguyên"
 author: "Hoàng Thục An"
 date: 2015-04-13
-source: "https://sachhiem.net/TONGIAO/tgH/HgThucAn6.php"
+source: "/TONGIAO/tgH/HgThucAn6"
 category: "Tác giả"
 lang: vi
 wordCount: 1161

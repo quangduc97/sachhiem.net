@@ -3,15 +3,15 @@ layout: ../../../layouts/Article.astro
 title: "Hèn Hơn Chu Tất Tiến, Vũ Linh Châu !"
 author: "Bảo quốc Kiếm"
 date: 2012-08-09
-source: "https://sachhiem.net/TONGIAO/BQK/BQK04.php"
+source: "/TONGIAO/BQK/BQK04"
 category: "Đối thoại"
 lang: vi
 wordCount: 1941
-image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nha.jpg"
+image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/Bookmark_thin.gif"
 ---
 
 <table border="0" cellpadding="0" width="250" align="center"><tbody><tr>
-	<td width="125"><a href="/index"><img border="0" src="https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nha.jpg"></a></td>
+	<td width="125"></td>
 <td valign="top" width="210">	</td></tr></tbody></table>
 		
 		 <p>(SH: Xem Phụ Lục dưới đây về những điều Vũ Linh Châu tuyên bố)</p>

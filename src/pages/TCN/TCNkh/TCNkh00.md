@@ -2,17 +2,17 @@
 layout: ../../../layouts/Article.astro
 title: "NGUỒN GỐC VŨ TRỤ:"
 author: "Trần Chung Ngọc"
-source: "https://sachhiem.net/TCN/TCNkh/TCNkh00.php"
+source: "/TCN/TCNkh/TCNkh00"
 category: "Khoa học"
 lang: vi
 wordCount: 7070
-image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nha.jpg"
+image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.devhttps://www.slac.stanford.edu/~tabel/GB/zoomin_mov.gif"
 ---
 
 <p class="Tuaduoi">THUYẾT “BIG BANG” </p>
 		
 
-<p align="center"><a href="https://sachhiem.net/index.php"><img border="0" src="https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nha.jpg"></a> 06  tháng 9, 2007</p>
+<p align="center"> 06  tháng 9, 2007</p>
 <center><a target="right" href="https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.devhttps://www.slac.stanford.edu/~tabel/GB/zoomin_mov.gif"><img src="https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.devhttps://www.slac.stanford.edu/~tabel/GB/zoomin_mov.gif"></a> </center>
 		<p style="text-align:center">
 		bấm vào hình trên đây xem tiến trình phát triển <br>của

@@ -3,7 +3,7 @@ layout: ../../../layouts/Article.astro
 title: "Chùa Ở Trường Sa"
 author: "Đào Văn Bình"
 date: 2013-06-22
-source: "https://sachhiem.net/DAOVB/CT/DaovBinh07.php"
+source: "/DAOVB/CT/DaovBinh07"
 category: "Lịch sử"
 lang: vi
 wordCount: 303

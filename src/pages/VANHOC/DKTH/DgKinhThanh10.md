@@ -3,7 +3,7 @@ layout: ../../../layouts/Article.astro
 title: "Phật Giáo Trong Mạch Sống, Hình Thành"
 author: "Dương Kinh Thành"
 date: 2013-06-03
-source: "https://sachhiem.net/VANHOC/DKTH/DgKinhThanh10.php"
+source: "/VANHOC/DKTH/DgKinhThanh10"
 category: "Tác giả"
 lang: vi
 wordCount: 2362

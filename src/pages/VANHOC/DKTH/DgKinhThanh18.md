@@ -3,7 +3,7 @@ layout: ../../../layouts/Article.astro
 title: "Mùa Phật Đản 2508 - 1964 Luôn Sáng Rực Trong Trái Tim Người Con Phật Chúng Ta"
 author: "Dương Kinh Thành"
 date: 2019-05-13
-source: "https://sachhiem.net/VANHOC/DKTH/DgKinhThanh18.php"
+source: "/VANHOC/DKTH/DgKinhThanh18"
 category: "Xã hội"
 lang: vi
 wordCount: 2462

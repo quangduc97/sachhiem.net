@@ -2,13 +2,12 @@
 layout: ../../../layouts/Article.astro
 title: "BÓNG MÂY"
 author: "Minh Mẫn"
-source: "https://sachhiem.net/MINHMAN/Tongiao/MinhManTG19.php"
+source: "/MINHMAN/Tongiao/MinhManTG19"
 lang: vi
 wordCount: 2905
-image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nha.jpg"
 ---
 
-<p align="center"><a href="https://www.sachhiem.net/"> <img border="0" src="https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nha.jpg"> </a>   ngày 04 tháng 11, 2007 </p>
+<p align="center">   ngày 04 tháng 11, 2007 </p>
 	<p><b><font size="6" face="Vladimir Script">T</font></b>ôi 
 	đến thăm giáo sư Hưng, trong buổi đàm đạo, gs không ngớt ca ngợi dĩa VCD 
 	Bóng Mây của chùa Hoằng Pháp sản xuất, bài giảng nhân mùa Vu Lan, khoá tu 

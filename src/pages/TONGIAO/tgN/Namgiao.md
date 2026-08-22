@@ -3,7 +3,7 @@ layout: ../../../layouts/Article.astro
 title: "Giáo Sư Đại Học Notre Dame Xử Trí"
 author: "Liz Goodwin"
 date: 2013-05-08
-source: "https://sachhiem.net/TONGIAO/tgN/Namgiao.php"
+source: "/TONGIAO/tgN/Namgiao"
 category: "Tác giả"
 lang: vi
 wordCount: 1873

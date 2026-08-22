@@ -2,16 +2,16 @@
 layout: ../../../../layouts/Article.astro
 title: "Thiên Đường Dậy Sóng Hoài Nghi"
 author: "Lê Dọn Bàn"
-source: "https://sachhiem.net/SACHNGOAI/snL/LeDonBan/LDB.php"
+source: "/SACHNGOAI/snL/LeDonBan/LDB"
 category: "Tác giả"
 lang: vi
 wordCount: 6755
-image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nha.jpg"
+image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/TONGIAO/tgL/img/heaven_and_earth.jpg"
 ---
 
 <table border="0" cellpadding="0" width="250" align="center">
 	<tbody><tr>
-		<td width="100"><a href="/index"><img border="0" src="https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nha.jpg"></a></td>
+		<td width="100"></td>
 						<td valign="top" width="210">
 						<p>29 tháng 11, 2009</p></td>
 					</tr>

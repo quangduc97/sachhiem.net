@@ -3,7 +3,7 @@ layout: ../../../layouts/Article.astro
 title: "Mỹ Không Tìm Được Chứng Cớ Liên Hệ Với Nga Trong Vụ Bắn Hạ Chiếc MH17"
 author: "Andrea Mitchell of NBC News"
 date: 2014-07-23
-source: "https://sachhiem.net/THOISU_CT/ChuT/TinNBC.php"
+source: "/THOISU_CT/ChuT/TinNBC"
 category: "Chính trị"
 lang: vi
 wordCount: 1063

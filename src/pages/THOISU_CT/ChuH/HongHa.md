@@ -3,15 +3,14 @@ layout: ../../../layouts/Article.astro
 title: "Lý do Chiến Tranh Việt Nam -"
 author: "Hồng Hà"
 date: 2021-03-04
-source: "https://sachhiem.net/THOISU_CT/ChuH/HongHa.php"
+source: "/THOISU_CT/ChuH/HongHa"
 category: "Chính trị"
 lang: vi
 wordCount: 1806
-image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nha.jpg"
+image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/XAHOI/IMG/HOAKY/Kythi_ChineseAct.JPG"
 ---
 
-<p align="center"><a href="https://www.sachhiem.net/">
-<img border="0" src="https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nha.jpg"></a> 
+<p align="center"> 
 ngày 04-Mar-2021</p>
  <div class="tomluoc">
    <p><i> Họ đưa ra cả bao nhiêu loạt phim thời sự cho biết Chiến Tranh Việt Nam đã chỉ là một cuộc tàn sát không mục đích. Nhưng thật ra, nếu không có mục đích, thì tại sao ít ra cả 5 tổng thống Mỹ khác nhau đã có bàn tay nhúng máu người Việt Nam ta? Bao nhiêu phim thời sự của người da vàng sống tại Mỹ từ đời nọ đến đời kia đều cho biết là họ đã bị kỳ thị từ bao nhiêu thế hệ rồi, làm gì có chuyện giải phóng một dân tộc da vàng nào!</i></p>

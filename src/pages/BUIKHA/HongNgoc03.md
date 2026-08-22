@@ -3,7 +3,7 @@ layout: ../../layouts/Article.astro
 title: "CẢI ĐẠO"
 author: "Hồng Ngọc"
 date: 2016-06-08
-source: "https://sachhiem.net/BUIKHA/HongNgoc03.php"
+source: "/BUIKHA/HongNgoc03"
 category: "Tác giả"
 lang: vi
 wordCount: 5554
@@ -30,11 +30,11 @@ Dẫu theo lối tiếp cận nào, chúng tôi vẫn dựa trên những chứn
 <p>&nbsp;- Mục sư Ernie Bringas nhận định, “<i>Cơ  đốc giáo đã để lại một dấu vết kinh hoàng, khổ sở và chết chóc như đã ghi trong  các trang sử đẫm máu”.</i></p>
 <p><b>Voltaire</b> (1694-1778), Văn hào, Triết gia... Pháp: </p>
 <p> - &nbsp;“<i>Cơ  đốc là tôn giáo lố  bịch nhất,  vô lý nhất và đẫm  máu nhất làm nhiễ m  độc thế  giới</i>” (Christianity is the most ridiculous, the most  absurd and bloody religion that has ever infected the world). &nbsp;</p>
-<p>- Ông viết tiếp:<i> “Trong 1700  năm, Cơ  đốc không làm gì khác ngoài việc gây hại  cho nhân loại”</i> (For 1700  years, the Christian sect has done nothing but harm. ( <a href="https://sachhiem.net/TCN/TCNtg/CGchinhsu/CGCS1.php">https://sachhiem.net/TCN/TCNtg/CGchinhsu/CGCS1.php</a>.) </p>
+<p>- Ông viết tiếp:<i> “Trong 1700  năm, Cơ  đốc không làm gì khác ngoài việc gây hại  cho nhân loại”</i> (For 1700  years, the Christian sect has done nothing but harm. ( <a href="/TCN/TCNtg/CGchinhsu/CGCS1">https://sachhiem.net/TCN/TCNtg/CGchinhsu/CGCS1.php</a>.) </p>
 <p>&nbsp;- Bà Dorothy Wolfers Nelkin (Một khoa học gia kiêm xã hội học  người Mỹ) trong cuốn “The Creation  Controversy”, Norton &amp; Company, New York, London 1982, Tr. 28, ghi  lại ý kiến của Religious Tradistionalists với hàm ý cho rằng <i>“Hai ngàn năm qua, tín đồ Cơ đốc giáo bị lừa  bịp bởi một lời nói láo vĩ đại”</i> (Christians for nearly 2000 years have been  duped by a monstrous lie). </p>
 <p>- Cố Tổng Thống Hoa Kỳ Thomas Jefferson, là tác  giả Bản Tuyên Ngôn Độc Lập của Hiệp Chủng Quốc, sau lúc  đọc cuốn kinh Khải Huyền, ông phê bình <i>“Đó là những lời nói dốt nát của một kẻ  điên khùng"</i> (He, Jefferson, referred to the Book of  Revelations as "the ravings of a maniac"), theo West Country Times,  California, USA, biên tập viên Steven Morris, số ra ngày 14.8.1995." </p>
 <p><b>- Ngày 16  tháng 5 năm 2007&nbsp; dân Hồng Kông<i>&nbsp;</i>lên án</b> cả hai cuốn Kinh Cựu Ước và Tân Ước của Cơ đốc giáo vì trong đó chứa đựng những chuyện tục tĩu (obscene), những hành vi bạo động (violence),  hãm hiếp (rape) và ăn thịt người (cannibalism) [Theo  AFP (Agence France Press)]. (<a href="https://www.religionnewsblog.com/18279/bible-obscenity-row" target="_blank">https://www.religionnewsblog.com/18279/bible-obscenity-row</a>, <a href="https://www.giaodiemonline.com/noidung_detail.php?newsid=1244">https://www.giaodiemonline.com/noidung_detail.php?newsid=1244</a>]</p>
-<p> - Giống như Hồng Kông, bản tin đài CNN mới đây, ngày 12. 4. 2016, cho biết, <i>“Hiệp hội Thư viện Mỹ</i>” trong Phúc trình “(<a href="https://sachhiem.net/SACHNGOAI/snT/TranKevin_01.php"><i>2016-The State of America’s Libraries</i></a>)  cũng tố cáo Kinh thánh của Cơ đốc giáo (Công giáo và Tin Lành) thuộc loại DÂM  THƯ “ba xu… ” </p>
+<p> - Giống như Hồng Kông, bản tin đài CNN mới đây, ngày 12. 4. 2016, cho biết, <i>“Hiệp hội Thư viện Mỹ</i>” trong Phúc trình “(<a href="/SACHNGOAI/snT/TranKevin_01"><i>2016-The State of America’s Libraries</i></a>)  cũng tố cáo Kinh thánh của Cơ đốc giáo (Công giáo và Tin Lành) thuộc loại DÂM  THƯ “ba xu… ” </p>
 <p> Nguồn Anh  ngữ: <a href="https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.devhttps://www.ala.org/news/sites/ala.org.news/files/content/state-of-americas-libraries-2016-final.pdf">https://www.ala.org/news/sites/ala.org.news/files/content/state-of-americas-libraries-2016-final.pdf</a></p>
 <p> Việt  ngữ: <a href="https://giaodiemonline.com/2016/04/kinhthanh.htm">https://giaodiemonline.com/2016/04/kinhthanh.htm</a></p>
 <p>- Đặc biệt nhất là ngày 12.3.2000, Giáo hoàng John Paul II thiết bàn thờ để xin nhân  loại tha thứ bảy núi tội mà Giáo hội  của ngài, các chức sắc và con chiên, đã đổ lên đầu nhân loại.</p>

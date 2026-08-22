@@ -3,7 +3,7 @@ layout: ../../../layouts/Article.astro
 title: "16 Thuộc Tính Của Chúa Qua Thánh Kinh"
 author: "FB Diệm Ngô"
 date: 2019-03-06
-source: "https://sachhiem.net/TONGIAO/FB/FBDiemNgo1.php"
+source: "/TONGIAO/FB/FBDiemNgo1"
 category: "Chính trị"
 lang: vi
 wordCount: 5072
@@ -14,7 +14,7 @@ image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/TONGIAO/IMG/BIBLE/Ph
    <p><span class="First">C</span>on chiens thường được các cha dạy: <i>chúa là tình yêu, chúa rất  mực nhân từ, chúa là con đường, lòng thương xót chúa</i>, etc.. và đưa ra vài câu  kinh thánh để giảng giải. Thực ra, trong Kinh Thánh Cựu Ước có đến trên 80% là  viết về những tội ác của chúa và các “thánh” như khát máu diệt tộc, giết người  hàng loạt kể cả phụ nữ, trẻ em, loạn luân, dâm dục, bạo dâm bắt gái trinh chia  nhau, nhỏ nhen, ghen tuông đố kỵ, hành xử bất công, ưa trả tư thù, etc. Đó là  lý do mà Vatican cấm con chiên đọc Kinh Thánh trong quá khứ và ngày nay ngụy  biện giải thích Kinh Thánh theo kiểu “dụ ngôn”, “đọc bằng trái tim”, “phải đặt  kinh thánh trong bối cảnh lúc đó” cho dù luôn miệng khẳng định Kinh Thánh là  lời chúa mặc khải không thể sai lầm. Nào, chúng ta cùng đọc Kinh Thánh với đầu óc  của một con người nhé!</p>
  </div>
 <p class="indentLR50">(bài dưới đây trích từ Trần Chung Ngọc: "<i>Đây !! Thiên Chúa Của Những Người Theo Đạo Thiên Chúa</i>"<br>
-  <a href="https://www.sachhiem.net/TCN/TCNtg/3NGOI/TCN64_2.php">https://www.sachhiem.net/TCN/TCNtg/3NGOI/TCN64_2.php</a>)</p>
+  <a href="/TCN/TCNtg/3NGOI/TCN64_2">https://www.sachhiem.net/TCN/TCNtg/3NGOI/TCN64_2.php</a>)</p>
 <p> <span class="First"></span><b><u>1) Thiên Chúa có phải là 
 một kẻ ghen tuông, đố kỵ hay không?</u></b></p>
 <p><u>Xuất Ê-Díp-Tô 

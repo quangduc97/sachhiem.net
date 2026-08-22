@@ -2,7 +2,7 @@
 layout: ../../../layouts/Article.astro
 title: "Thiên Đàng - Địa Ngục"
 author: "Nguyễn Austin"
-source: "https://sachhiem.net/null"
+source: "/null"
 category: "Tác giả"
 lang: vi
 wordCount: 1498

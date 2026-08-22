@@ -2,15 +2,14 @@
 layout: ../../../layouts/Article.astro
 title: "CƠN ĐAU TRÀN BỜ"
 author: "Minh Mẫn"
-source: "https://sachhiem.net/MINHMAN/Chinhtri/Minhman7.php"
+source: "/MINHMAN/Chinhtri/Minhman7"
 lang: vi
 wordCount: 4143
-image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nha.jpg"
+image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/Hinh/BaoLut2007.jpg"
 ---
 
 <table border="0" align="center" cellpadding="1" width="250"><tbody><tr>
-	<td width="110"><a href="https://www.sachhiem.net/">
-	<img border="0" src="https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nha.jpg"></a></td>
+	<td width="110"></td>
 	<td valign="top" style="text-align:right">	<font color="#080808" size="2">do tác giả gửi,	đăng ngày 
 	26 tháng 11,, 2007
 	</font>

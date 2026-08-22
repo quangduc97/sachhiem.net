@@ -3,7 +3,7 @@ layout: ../../../layouts/Article.astro
 title: "Giáo Hoàng Muốn Bạn Chấp Nhận Thuyết Tiến Hoá Và Vụ Nổ Lớn"
 author: "Lê thị Kim Hoa sưu tầm"
 date: 2025-06-07
-source: "https://sachhiem.net/TONGIAO/FB/FBLeThiKimHoa10.php"
+source: "/TONGIAO/FB/FBLeThiKimHoa10"
 category: "Tác giả"
 lang: vi
 wordCount: 744

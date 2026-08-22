@@ -3,7 +3,7 @@ layout: ../../../layouts/Article.astro
 title: "Viết Cho Ngày Thống Nhất Đất Nước"
 author: "Thi Nguyễn"
 date: 2019-04-29
-source: "https://sachhiem.net/THOISU_CT/ChuN/NguyenThi.php"
+source: "/THOISU_CT/ChuN/NguyenThi"
 category: "Chính trị"
 lang: vi
 wordCount: 2340
@@ -36,5 +36,5 @@ image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/LICHSU/IMG/30_4/07-5
 <p>______________</p>
 <p><b>Tham khảo:</b></p>
 <p>(1) Tại sao Hồng Y Francis Spellman Muốn Dội Bom Nguyên Tử Xuống Việt Nam?
-(<a href="https://sachhiem.net/TRTVT/TTVT_LS02.php">https://sachhiem.net/TRTVT/TTVT_LS02.php</a>) </p>
-<p>(2) Tập sách "NGƯỜI VIỆT NAM &amp; “ĐẠO GIÊ-SU” của GS Trần Chung Ngọc và Nguyễn Mạnh Quang hợp soạn  <a target="_blank" href="https://sachhiem.net/TCN/TCNtg/DAOGIESU/TCN_NMQ12.php">https://sachhiem.net/TCN/TCNtg/DAOGIESU/TCN_NMQ12.php</a>, Đọc Chương 7, Mục XIV: "Vatican Và Tín Đồ Da-Tô Người Việt Trong Quá Trình Chống Lại Tổ Quốc Và Dân Tộc Việt Nam."</p>
+(<a href="/TRTVT/TTVT_LS02">https://sachhiem.net/TRTVT/TTVT_LS02.php</a>) </p>
+<p>(2) Tập sách "NGƯỜI VIỆT NAM &amp; “ĐẠO GIÊ-SU” của GS Trần Chung Ngọc và Nguyễn Mạnh Quang hợp soạn  <a target="_blank" href="/TCN/TCNtg/DAOGIESU/TCN_NMQ12">https://sachhiem.net/TCN/TCNtg/DAOGIESU/TCN_NMQ12.php</a>, Đọc Chương 7, Mục XIV: "Vatican Và Tín Đồ Da-Tô Người Việt Trong Quá Trình Chống Lại Tổ Quốc Và Dân Tộc Việt Nam."</p>

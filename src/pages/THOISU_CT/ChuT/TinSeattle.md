@@ -2,7 +2,7 @@
 layout: ../../../layouts/Article.astro
 title: "Giáo Hoàng Hành Hương Đến Quốc Gia"
 author: "VICTOR L. SIMPSON - Associated Press Writer"
-source: "https://sachhiem.net/null"
+source: "/null"
 category: "Tác giả"
 lang: vi
 wordCount: 1810

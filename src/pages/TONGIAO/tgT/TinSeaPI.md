@@ -6,7 +6,7 @@ source: "https://www.seattlepi.com/national/1101ap_cn_canada_bishop_child_porn.h
 category: "Tác giả"
 lang: vi
 wordCount: 2118
-image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nha.jpg"
+image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/IMG/LINHMUC/GMcanada.jpg"
 ---
 
 <div align="center" style="position: relative; left: 0; top: 0">
@@ -25,7 +25,7 @@ image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nha.jpg"
 <tr><td width="100%">
 <div style="padding-left: 50px; padding-right: 50px"> 
 	<table border="0" cellpadding="1" width="86%" cols="2"><tbody><tr>
-	<td><a href="https://sachhiem.net/index.php"><img border="0" src="https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nha.jpg"></a></td>
+	<td></td>
 <td valign="top" width="210"><p>02 tháng 10, 2009	</p>
 			</td></tr></tbody></table>
 			
@@ -68,56 +68,56 @@ image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nha.jpg"
 	<p>
 	
     <br>
-    ▪ <a href="https://sachhiem.net/TONGIAO/tgV/VuongVu01.php">Ai Đã Bôi Bác Hội Thánh La Mã ? (Vương Vũ) </a> <br>
-    ▪ <a href="https://sachhiem.net/TONGIAO/tgT/TanPhap10.php">Bên Trong Vụ Lạm Dụng Tình Dục Của Giáo Hội CG Ở Đức (Tân Pháp sưu tầm)</a> <br>
-    ▪ <a href="https://sachhiem.net/TONGIAO/tgT/TinCybepresse.php">Cha Bergeron đã gây ra bao nhiêu nạn nhân? (Baptiste Ricard-Châtelain/Le Soleil)</a> <br>
-    ▪ <a href="https://sachhiem.net/THOISU_CT/ChuT/TinReuters.php">Chiến Dịch Vận Động Dọa Sẽ Túm Cổ Giáo Hoàng (Reuters)</a> <br>
-    ▪ <a href="https://sachhiem.net/TONGIAO/tgD/DoChi.php">Còn Chờ Đợi Vùng Cửa Sổ 10-40: Chuyện Các Frères Dòng TABERD (Đỗ Chi) </a> <br>
-    ▪ <a href="https://sachhiem.net/TONGIAO/tgT/TinSeaPI.php">Giám mục người Canada bị buộc tội xài sách báo khiêu dâm (Rob Gillies AP)</a> <br>
-    ▪ <a href="https://sachhiem.net/TONGIAO/tgD/Dehova.php">Giám Mục Raymond Lahey Ra Hầu Tòa Ottawa (Dê Hô Va)</a> <br>
-    ▪ <a href="https://sachhiem.net/THOISU_CT/ChuT/TinSeattle.php">Giáo Hoàng Hành Hương Ở Malta (VICTOR L. SIMPSON - AP Writer)</a> <br>
-    ▪ <a href="https://sachhiem.net/THOISU_CT/ChuT/TinYahoo1.php">Giáo hoàng hứa sẽ hành động (Nicole Winfield/AP)&nbsp;</a> <br>
-    ▪ <a href="https://sachhiem.net/THOISU_CT/ChuT/TinABC00.php">Giáo Hoàng Nói Trong Nước Mắt: Giáo Hội Tốt Hơn Là Nên Bảo Vệ Thiếu Niên (liên mạng) </a> <br>
-    ▪ <a href="https://sachhiem.net/TONGIAO/tgP/PL01.php">Giáo Hoàng Quy Tội Cho Giáo Hội Về Scandal Tình Dục (PL lược dịch)</a> <br>
-    ▪ <a href="https://sachhiem.net/SACHNGOAI/snT/TinMSNBC.php">Giáo Hoàng Xin Tha Thứ, hứa sẽ có hành động (tin AP) </a> <br>
-    ▪ <a href="https://sachhiem.net/TONGIAO/tgS/SH19.php">Giáo Hòang Benedict XVI nói: “Người Ki tô giáo chúng ta phải thống hối” (liên mạng) </a> <br>
-    ▪ <a href="https://sachhiem.net/TONGIAO/tgT/TinNewsWeek.php">Hãy mang Giáo hoàng ra trước Công lý (Christopher Hitchens / Newsweek) </a> <br>
-    ▪ <a href="https://sachhiem.net/TONGIAO/tgT/TinCNN02.php">LHQ Gay Gắt Đả Kích Giáo Hội Công Giáo Về Nạn Loạn Dâm (Tin CNN)</a> <br>
-    ▪ <a href="https://sachhiem.net/TONGIAO/tgM/tgC/Comcast.php">Linh Mục Bang Texas Bị Buộc Tội "Tìm Cách Mướn Sát Thủ" (Will Weissert/ AP) </a> <br>
-    ▪ <a href="https://sachhiem.net/TONGIAO/tgS/SH21.php">Linh mục bị quản chế, chịu trắc nghiệm tâm lý (TheNewsHerald)</a> <br>
-    ▪ <a href="https://sachhiem.net/TONGIAO/tgD/Dehova01.php">Linh Mục Rình Mồi Được Hoán Đổi Khắp Toàn Cầu (Dê Hô Va dịch) </a> <br>
-    ▪ <a href="https://sachhiem.net/TONGIAO/tgQ/QuanPhuong1.php">Linh Mục Ăn Cắp Tiền Của Giáo Dân (Quần Phương biên dịch)</a> <br>
-    ▪ <a href="https://sachhiem.net/TONGIAO/tgT/TinAP03.php">Liên quan đến 13 vụ tự sát tại Belgium (tin AP)</a> <br>
-    ▪ <a href="https://sachhiem.net/TONGIAO/tgT/TinYahoo03.php">Lá Thư Tài Liệu Vatican Bao Che Lạm Dụng Tình Dục (Tin AP)</a> <br>
-    ▪ <a href="https://sachhiem.net/TONGIAO/tgT/TinNGV.php">Một mục sư gốc Việt bị tố cáo tội quấy rối tình dục (liên mạng)</a> <br>
-    ▪ <a href="https://sachhiem.net/TONGIAO/tgT/TinLawJournal.php">Một phụ nữ kiện linh mục dụ dỗ để làm tình (Tin Law Journal) </a> <br>
-    ▪ <a href="https://sachhiem.net/TONGIAO/tgR/Reuters.php">Một Vị Giám mục Bỉ bị chụp bánh pie lên mặt (Faithworld/Reuters Blog)</a> <br>
-    ▪ <a href="https://sachhiem.net/TONGIAO/tgV/VNPlus00.php">Mục sư Mỹ: "Việt Nam tôn trọng tự do tôn giáo" (VietnamPlus)</a> <br>
-    ▪ <a href="https://sachhiem.net/TONGIAO/tgT/TinCNN01.php">Mục sư Tin Lành bị kết án 175 năm tù (Tin CCN) </a> <br>
-    ▪ <a href="https://sachhiem.net/TONGIAO/tgV/VuongVu02.php">Mức độ khả tín từ sự " THỐNG HỐI " của Vatican (Vương Vũ) </a> <br>
-    ▪ <a href="https://sachhiem.net/SACHNGOAI/snL/LeQuocTuan/LQT05.php">Những vụ bê bối nhục nhã mới nhất của Giáo Hội Công Giáo (Kayvan Farzaneh/LQT dịch)</a> <br>
-    ▪ <a href="https://sachhiem.net/THOISU_CT/ChuT/TinYahoo2.php">Phong trào Raelian Ở Âu Châu kiện Giáo Hoàng Benedict XVI (Tin Yahoo)</a> <br>
-    ▪ <a href="https://sachhiem.net/TONGIAO/tgS/SH07.php">Phúc Trình Về Giáo Hội Công Giáo Ái Nhĩ Lan (Janet Stobart)</a> <br>
-    ▪ <a href="https://sachhiem.net/TONGIAO/tgT/TinBBC.php">Quanh Việc Bao Che Nạn Lạm Dụng Tình Dục (BBC - Trần Hưng Quốc) </a> <br>
-    ▪ <a href="https://sachhiem.net/THOISU_CT/ChuT/TinTimes.php">Richard Dawkins Kêu Gọi Bắt Giam Vua Chiên (Times/Trần R.C.) </a> <br>
-    ▪ <a href="https://sachhiem.net/TONGIAO/tgT/TinYouTube.php">Richard Dawkins phát biểu phản đối Giáo Hoàng (YouTube)</a> <br>
-    ▪ <a href="https://sachhiem.net/TONGIAO/tgS/SH06.php">Tin Tức Các Tu Sĩ TCG Lạm Dụng Tình Dục (liên mạng)</a> <br>
-    ▪ <a href="https://sachhiem.net/TCN/TCNtg/TCN97.php">Tìm Hiểu Vấn Nạn Linh Mục Loạn Dâm - 1 (Trần Chung Ngọc)</a> <br>
-    ▪ <a href="https://sachhiem.net/TCN/TCNtg/TCN97_2.php">Tìm Hiểu Vấn Nạn Linh Mục Loạn Dâm - 2 (Trần Chung Ngọc)</a> <br>
-    ▪ <a href="https://sachhiem.net/TONGIAO/tgT/TanPhap3.php">Tòa Thánh Vatican Có Thể Bị Truy Tố (Tân Pháp sưu tầm)</a> <br>
-    ▪ <a href="https://sachhiem.net/TONGIAO/tgT/TinYahoo01.php">Tòa án Oregon cho phép vụ kiện Vatican về tình dục được tiến hành (RACHEL ZOLL/ AP)</a> <br>
-    ▪ <a href="https://sachhiem.net/THOISU_CT/ChuT/TinCNN.php">Tại Sao Tôi Chống Cuộc Viếng Thăm Anh Quốc Của GH Benedict 16 (Peter Tatchell /CNN) </a> <br>
-    ▪ <a href="https://sachhiem.net/TONGIAO/tgS/SH22.php">Tự Do Tôn Giáo Ở Mỹ ! (sưu tầm)</a> <br>
-    ▪ <a href="https://sachhiem.net/TONGIAO/tgS/SH13.php">Vatican Rúng Động Vì Cú Đánh Về Tình Dục Đồng Tính (liên mạng)</a> <br>
-    ▪ <a href="https://sachhiem.net/TONGIAO/tgT/TinAP02.php">Vatican sửng sốt trước cuộc Bố ráp của Cảnh sát Bỉ (Tin AP)</a> <br>
-    ▪ <a href="https://sachhiem.net/NMQ/HOSOTOIAC/CH16_2.php">VATICAN:CH16.2 - Độc Thân và Sự Trinh Bạch của Tu Sĩ Ca-Tô (Nguyễn Mạnh Quang)</a> <br>
-    ▪ <a href="https://sachhiem.net/SACHNGOAI/snT/TranRC.php">Vua chiên Catô nên ra trước tòa (Richard Dawkins/TRC dịch)</a> <br>
-    ▪ <a href="https://sachhiem.net/TONGIAO/tgS/SH15.php">Vụ Lạm Dụng Tình Dục Với Trẻ Em Của Giáo Hội Công Giáo Đã Lan Rộng (liên mạng) </a> <br>
-    ▪ <a href="https://sachhiem.net/TONGIAO/tgS/SH05.php">Vụ Án Kerala: 2 Linh Mục Và Một Nữ Tu Công Giáo bị bắt (TCM News Desk)</a> <br>
-    ▪ <a href="https://sachhiem.net/TONGIAO/tgS/SH16.php">Vụ Ô Nhục Tình Dục ở Đức - Vatican Bảo Vệ Thanh Danh Giáo Hoàng (liên mạng)</a> <br>
-    ▪ <a href="https://sachhiem.net/TONGIAO/tgT/TinAP.php">Ái Nhĩ Lan Gồng Mình Đón Nhận Phúc Trình (Shawn Pogatchnik/AP)</a> <br>
-    ▪ <a href="https://sachhiem.net/TONGIAO/tgN/NDB_01.php">Âu Châu Quay Lại Chống Giáo Hoàng (NDB dịch)</a> <br>
-    ▪ <a href="https://sachhiem.net/TONGIAO/tgH/HoangNgocNguyen.php">Đức Giáo Hoàng Trước Nghiệp Chướng (Hoàng Ngọc Nguyên)</a><br></p>
+    ▪ <a href="/TONGIAO/tgV/VuongVu01">Ai Đã Bôi Bác Hội Thánh La Mã ? (Vương Vũ) </a> <br>
+    ▪ <a href="/TONGIAO/tgT/TanPhap10">Bên Trong Vụ Lạm Dụng Tình Dục Của Giáo Hội CG Ở Đức (Tân Pháp sưu tầm)</a> <br>
+    ▪ <a href="/TONGIAO/tgT/TinCybepresse">Cha Bergeron đã gây ra bao nhiêu nạn nhân? (Baptiste Ricard-Châtelain/Le Soleil)</a> <br>
+    ▪ <a href="/THOISU_CT/ChuT/TinReuters">Chiến Dịch Vận Động Dọa Sẽ Túm Cổ Giáo Hoàng (Reuters)</a> <br>
+    ▪ <a href="/TONGIAO/tgD/DoChi">Còn Chờ Đợi Vùng Cửa Sổ 10-40: Chuyện Các Frères Dòng TABERD (Đỗ Chi) </a> <br>
+    ▪ <a href="/TONGIAO/tgT/TinSeaPI">Giám mục người Canada bị buộc tội xài sách báo khiêu dâm (Rob Gillies AP)</a> <br>
+    ▪ <a href="/TONGIAO/tgD/Dehova">Giám Mục Raymond Lahey Ra Hầu Tòa Ottawa (Dê Hô Va)</a> <br>
+    ▪ <a href="/THOISU_CT/ChuT/TinSeattle">Giáo Hoàng Hành Hương Ở Malta (VICTOR L. SIMPSON - AP Writer)</a> <br>
+    ▪ <a href="/THOISU_CT/ChuT/TinYahoo1">Giáo hoàng hứa sẽ hành động (Nicole Winfield/AP)&nbsp;</a> <br>
+    ▪ <a href="/THOISU_CT/ChuT/TinABC00">Giáo Hoàng Nói Trong Nước Mắt: Giáo Hội Tốt Hơn Là Nên Bảo Vệ Thiếu Niên (liên mạng) </a> <br>
+    ▪ <a href="/TONGIAO/tgP/PL01">Giáo Hoàng Quy Tội Cho Giáo Hội Về Scandal Tình Dục (PL lược dịch)</a> <br>
+    ▪ <a href="/SACHNGOAI/snT/TinMSNBC">Giáo Hoàng Xin Tha Thứ, hứa sẽ có hành động (tin AP) </a> <br>
+    ▪ <a href="/TONGIAO/tgS/SH19">Giáo Hòang Benedict XVI nói: “Người Ki tô giáo chúng ta phải thống hối” (liên mạng) </a> <br>
+    ▪ <a href="/TONGIAO/tgT/TinNewsWeek">Hãy mang Giáo hoàng ra trước Công lý (Christopher Hitchens / Newsweek) </a> <br>
+    ▪ <a href="/TONGIAO/tgT/TinCNN02">LHQ Gay Gắt Đả Kích Giáo Hội Công Giáo Về Nạn Loạn Dâm (Tin CNN)</a> <br>
+    ▪ <a href="/TONGIAO/tgM/tgC/Comcast">Linh Mục Bang Texas Bị Buộc Tội "Tìm Cách Mướn Sát Thủ" (Will Weissert/ AP) </a> <br>
+    ▪ <a href="/TONGIAO/tgS/SH21">Linh mục bị quản chế, chịu trắc nghiệm tâm lý (TheNewsHerald)</a> <br>
+    ▪ <a href="/TONGIAO/tgD/Dehova01">Linh Mục Rình Mồi Được Hoán Đổi Khắp Toàn Cầu (Dê Hô Va dịch) </a> <br>
+    ▪ <a href="/TONGIAO/tgQ/QuanPhuong1">Linh Mục Ăn Cắp Tiền Của Giáo Dân (Quần Phương biên dịch)</a> <br>
+    ▪ <a href="/TONGIAO/tgT/TinAP03">Liên quan đến 13 vụ tự sát tại Belgium (tin AP)</a> <br>
+    ▪ <a href="/TONGIAO/tgT/TinYahoo03">Lá Thư Tài Liệu Vatican Bao Che Lạm Dụng Tình Dục (Tin AP)</a> <br>
+    ▪ <a href="/TONGIAO/tgT/TinNGV">Một mục sư gốc Việt bị tố cáo tội quấy rối tình dục (liên mạng)</a> <br>
+    ▪ <a href="/TONGIAO/tgT/TinLawJournal">Một phụ nữ kiện linh mục dụ dỗ để làm tình (Tin Law Journal) </a> <br>
+    ▪ <a href="/TONGIAO/tgR/Reuters">Một Vị Giám mục Bỉ bị chụp bánh pie lên mặt (Faithworld/Reuters Blog)</a> <br>
+    ▪ <a href="/TONGIAO/tgV/VNPlus00">Mục sư Mỹ: "Việt Nam tôn trọng tự do tôn giáo" (VietnamPlus)</a> <br>
+    ▪ <a href="/TONGIAO/tgT/TinCNN01">Mục sư Tin Lành bị kết án 175 năm tù (Tin CCN) </a> <br>
+    ▪ <a href="/TONGIAO/tgV/VuongVu02">Mức độ khả tín từ sự " THỐNG HỐI " của Vatican (Vương Vũ) </a> <br>
+    ▪ <a href="/SACHNGOAI/snL/LeQuocTuan/LQT05">Những vụ bê bối nhục nhã mới nhất của Giáo Hội Công Giáo (Kayvan Farzaneh/LQT dịch)</a> <br>
+    ▪ <a href="/THOISU_CT/ChuT/TinYahoo2">Phong trào Raelian Ở Âu Châu kiện Giáo Hoàng Benedict XVI (Tin Yahoo)</a> <br>
+    ▪ <a href="/TONGIAO/tgS/SH07">Phúc Trình Về Giáo Hội Công Giáo Ái Nhĩ Lan (Janet Stobart)</a> <br>
+    ▪ <a href="/TONGIAO/tgT/TinBBC">Quanh Việc Bao Che Nạn Lạm Dụng Tình Dục (BBC - Trần Hưng Quốc) </a> <br>
+    ▪ <a href="/THOISU_CT/ChuT/TinTimes">Richard Dawkins Kêu Gọi Bắt Giam Vua Chiên (Times/Trần R.C.) </a> <br>
+    ▪ <a href="/TONGIAO/tgT/TinYouTube">Richard Dawkins phát biểu phản đối Giáo Hoàng (YouTube)</a> <br>
+    ▪ <a href="/TONGIAO/tgS/SH06">Tin Tức Các Tu Sĩ TCG Lạm Dụng Tình Dục (liên mạng)</a> <br>
+    ▪ <a href="/TCN/TCNtg/TCN97">Tìm Hiểu Vấn Nạn Linh Mục Loạn Dâm - 1 (Trần Chung Ngọc)</a> <br>
+    ▪ <a href="/TCN/TCNtg/TCN97_2">Tìm Hiểu Vấn Nạn Linh Mục Loạn Dâm - 2 (Trần Chung Ngọc)</a> <br>
+    ▪ <a href="/TONGIAO/tgT/TanPhap3">Tòa Thánh Vatican Có Thể Bị Truy Tố (Tân Pháp sưu tầm)</a> <br>
+    ▪ <a href="/TONGIAO/tgT/TinYahoo01">Tòa án Oregon cho phép vụ kiện Vatican về tình dục được tiến hành (RACHEL ZOLL/ AP)</a> <br>
+    ▪ <a href="/THOISU_CT/ChuT/TinCNN">Tại Sao Tôi Chống Cuộc Viếng Thăm Anh Quốc Của GH Benedict 16 (Peter Tatchell /CNN) </a> <br>
+    ▪ <a href="/TONGIAO/tgS/SH22">Tự Do Tôn Giáo Ở Mỹ ! (sưu tầm)</a> <br>
+    ▪ <a href="/TONGIAO/tgS/SH13">Vatican Rúng Động Vì Cú Đánh Về Tình Dục Đồng Tính (liên mạng)</a> <br>
+    ▪ <a href="/TONGIAO/tgT/TinAP02">Vatican sửng sốt trước cuộc Bố ráp của Cảnh sát Bỉ (Tin AP)</a> <br>
+    ▪ <a href="/NMQ/HOSOTOIAC/CH16_2">VATICAN:CH16.2 - Độc Thân và Sự Trinh Bạch của Tu Sĩ Ca-Tô (Nguyễn Mạnh Quang)</a> <br>
+    ▪ <a href="/SACHNGOAI/snT/TranRC">Vua chiên Catô nên ra trước tòa (Richard Dawkins/TRC dịch)</a> <br>
+    ▪ <a href="/TONGIAO/tgS/SH15">Vụ Lạm Dụng Tình Dục Với Trẻ Em Của Giáo Hội Công Giáo Đã Lan Rộng (liên mạng) </a> <br>
+    ▪ <a href="/TONGIAO/tgS/SH05">Vụ Án Kerala: 2 Linh Mục Và Một Nữ Tu Công Giáo bị bắt (TCM News Desk)</a> <br>
+    ▪ <a href="/TONGIAO/tgS/SH16">Vụ Ô Nhục Tình Dục ở Đức - Vatican Bảo Vệ Thanh Danh Giáo Hoàng (liên mạng)</a> <br>
+    ▪ <a href="/TONGIAO/tgT/TinAP">Ái Nhĩ Lan Gồng Mình Đón Nhận Phúc Trình (Shawn Pogatchnik/AP)</a> <br>
+    ▪ <a href="/TONGIAO/tgN/NDB_01">Âu Châu Quay Lại Chống Giáo Hoàng (NDB dịch)</a> <br>
+    ▪ <a href="/TONGIAO/tgH/HoangNgocNguyen">Đức Giáo Hoàng Trước Nghiệp Chướng (Hoàng Ngọc Nguyên)</a><br></p>
 	
 	
 		<div style="border-top: 1px solid #333333; border-bottom: 1px solid #333333; background-color: #E4E4E4">
@@ -159,56 +159,56 @@ image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nha.jpg"
 	
 	<p><font face="Symbol">¨</font> Những tin về các tu sĩ loạn dâm:</p>
 	<p><br>
-	<a href="https://sachhiem.net/TONGIAO/tgV/VuongVu01.php">Ai Đã Bôi Bác Hội Thánh La Mã ? (Vương Vũ) </a> <br>
-    ▪ <a href="https://sachhiem.net/TONGIAO/tgT/TanPhap10.php">Bên Trong Vụ Lạm Dụng Tình Dục Của Giáo Hội CG Ở Đức (Tân Pháp sưu tầm)</a> <br>
-    ▪ <a href="https://sachhiem.net/TONGIAO/tgT/TinCybepresse.php">Cha Bergeron đã gây ra bao nhiêu nạn nhân? (Baptiste Ricard-Châtelain/Le Soleil)</a> <br>
-    ▪ <a href="https://sachhiem.net/THOISU_CT/ChuT/TinReuters.php">Chiến Dịch Vận Động Dọa Sẽ Túm Cổ Giáo Hoàng (Reuters)</a> <br>
-    ▪ <a href="https://sachhiem.net/TONGIAO/tgD/DoChi.php">Còn Chờ Đợi Vùng Cửa Sổ 10-40: Chuyện Các Frères Dòng TABERD (Đỗ Chi) </a> <br>
-    ▪ <a href="https://sachhiem.net/TONGIAO/tgT/TinSeaPI.php">Giám mục người Canada bị buộc tội xài sách báo khiêu dâm (Rob Gillies AP)</a> <br>
-    ▪ <a href="https://sachhiem.net/TONGIAO/tgD/Dehova.php">Giám Mục Raymond Lahey Ra Hầu Tòa Ottawa (Dê Hô Va)</a> <br>
-    ▪ <a href="https://sachhiem.net/THOISU_CT/ChuT/TinSeattle.php">Giáo Hoàng Hành Hương Ở Malta (VICTOR L. SIMPSON - AP Writer)</a> <br>
-    ▪ <a href="https://sachhiem.net/THOISU_CT/ChuT/TinYahoo1.php">Giáo hoàng hứa sẽ hành động (Nicole Winfield/AP)&nbsp;</a> <br>
-    ▪ <a href="https://sachhiem.net/THOISU_CT/ChuT/TinABC00.php">Giáo Hoàng Nói Trong Nước Mắt: Giáo Hội Tốt Hơn Là Nên Bảo Vệ Thiếu Niên (liên mạng) </a> <br>
-    ▪ <a href="https://sachhiem.net/TONGIAO/tgP/PL01.php">Giáo Hoàng Quy Tội Cho Giáo Hội Về Scandal Tình Dục (PL lược dịch)</a> <br>
-    ▪ <a href="https://sachhiem.net/SACHNGOAI/snT/TinMSNBC.php">Giáo Hoàng Xin Tha Thứ, hứa sẽ có hành động (tin AP) </a> <br>
-    ▪ <a href="https://sachhiem.net/TONGIAO/tgS/SH19.php">Giáo Hòang Benedict XVI nói: “Người Ki tô giáo chúng ta phải thống hối” (liên mạng) </a> <br>
-    ▪ <a href="https://sachhiem.net/TONGIAO/tgT/TinNewsWeek.php">Hãy mang Giáo hoàng ra trước Công lý (Christopher Hitchens / Newsweek) </a> <br>
-    ▪ <a href="https://sachhiem.net/TONGIAO/tgT/TinCNN02.php">LHQ Gay Gắt Đả Kích Giáo Hội Công Giáo Về Nạn Loạn Dâm (Tin CNN)</a> <br>
-    ▪ <a href="https://sachhiem.net/TONGIAO/tgM/tgC/Comcast.php">Linh Mục Bang Texas Bị Buộc Tội "Tìm Cách Mướn Sát Thủ" (Will Weissert/ AP) </a> <br>
-    ▪ <a href="https://sachhiem.net/TONGIAO/tgS/SH21.php">Linh mục bị quản chế, chịu trắc nghiệm tâm lý (TheNewsHerald)</a> <br>
-    ▪ <a href="https://sachhiem.net/TONGIAO/tgD/Dehova01.php">Linh Mục Rình Mồi Được Hoán Đổi Khắp Toàn Cầu (Dê Hô Va dịch) </a> <br>
-    ▪ <a href="https://sachhiem.net/TONGIAO/tgQ/QuanPhuong1.php">Linh Mục Ăn Cắp Tiền Của Giáo Dân (Quần Phương biên dịch)</a> <br>
-    ▪ <a href="https://sachhiem.net/TONGIAO/tgT/TinAP03.php">Liên quan đến 13 vụ tự sát tại Belgium (tin AP)</a> <br>
-    ▪ <a href="https://sachhiem.net/TONGIAO/tgT/TinYahoo03.php">Lá Thư Tài Liệu Vatican Bao Che Lạm Dụng Tình Dục (Tin AP)</a> <br>
-    ▪ <a href="https://sachhiem.net/TONGIAO/tgT/TinNGV.php">Một mục sư gốc Việt bị tố cáo tội quấy rối tình dục (liên mạng)</a> <br>
-    ▪ <a href="https://sachhiem.net/TONGIAO/tgT/TinLawJournal.php">Một phụ nữ kiện linh mục dụ dỗ để làm tình (Tin Law Journal) </a> <br>
-    ▪ <a href="https://sachhiem.net/TONGIAO/tgR/Reuters.php">Một Vị Giám mục Bỉ bị chụp bánh pie lên mặt (Faithworld/Reuters Blog)</a> <br>
-    ▪ <a href="https://sachhiem.net/TONGIAO/tgV/VNPlus00.php">Mục sư Mỹ: "Việt Nam tôn trọng tự do tôn giáo" (VietnamPlus)</a> <br>
-    ▪ <a href="https://sachhiem.net/TONGIAO/tgT/TinCNN01.php">Mục sư Tin Lành bị kết án 175 năm tù (Tin CCN) </a> <br>
-    ▪ <a href="https://sachhiem.net/TONGIAO/tgV/VuongVu02.php">Mức độ khả tín từ sự " THỐNG HỐI " của Vatican (Vương Vũ) </a> <br>
-    ▪ <a href="https://sachhiem.net/SACHNGOAI/snL/LeQuocTuan/LQT05.php">Những vụ bê bối nhục nhã mới nhất của Giáo Hội Công Giáo (Kayvan Farzaneh/LQT dịch)</a> <br>
-    ▪ <a href="https://sachhiem.net/THOISU_CT/ChuT/TinYahoo2.php">Phong trào Raelian Ở Âu Châu kiện Giáo Hoàng Benedict XVI (Tin Yahoo)</a> <br>
-    ▪ <a href="https://sachhiem.net/TONGIAO/tgS/SH07.php">Phúc Trình Về Giáo Hội Công Giáo Ái Nhĩ Lan (Janet Stobart)</a> <br>
-    ▪ <a href="https://sachhiem.net/TONGIAO/tgT/TinBBC.php">Quanh Việc Bao Che Nạn Lạm Dụng Tình Dục (BBC - Trần Hưng Quốc) </a> <br>
-    ▪ <a href="https://sachhiem.net/THOISU_CT/ChuT/TinTimes.php">Richard Dawkins Kêu Gọi Bắt Giam Vua Chiên (Times/Trần R.C.) </a> <br>
-    ▪ <a href="https://sachhiem.net/TONGIAO/tgT/TinYouTube.php">Richard Dawkins phát biểu phản đối Giáo Hoàng (YouTube)</a> <br>
-    ▪ <a href="https://sachhiem.net/TONGIAO/tgS/SH06.php">Tin Tức Các Tu Sĩ TCG Lạm Dụng Tình Dục (liên mạng)</a> <br>
-    ▪ <a href="https://sachhiem.net/TCN/TCNtg/TCN97.php">Tìm Hiểu Vấn Nạn Linh Mục Loạn Dâm - 1 (Trần Chung Ngọc)</a> <br>
-    ▪ <a href="https://sachhiem.net/TCN/TCNtg/TCN97_2.php">Tìm Hiểu Vấn Nạn Linh Mục Loạn Dâm - 2 (Trần Chung Ngọc)</a> <br>
-    ▪ <a href="https://sachhiem.net/TONGIAO/tgT/TanPhap3.php">Tòa Thánh Vatican Có Thể Bị Truy Tố (Tân Pháp sưu tầm)</a> <br>
-    ▪ <a href="https://sachhiem.net/TONGIAO/tgT/TinYahoo01.php">Tòa án Oregon cho phép vụ kiện Vatican về tình dục được tiến hành (RACHEL ZOLL/ AP)</a> <br>
-    ▪ <a href="https://sachhiem.net/THOISU_CT/ChuT/TinCNN.php">Tại Sao Tôi Chống Cuộc Viếng Thăm Anh Quốc Của GH Benedict 16 (Peter Tatchell /CNN) </a> <br>
-    ▪ <a href="https://sachhiem.net/TONGIAO/tgS/SH22.php">Tự Do Tôn Giáo Ở Mỹ ! (sưu tầm)</a> <br>
-    ▪ <a href="https://sachhiem.net/TONGIAO/tgS/SH13.php">Vatican Rúng Động Vì Cú Đánh Về Tình Dục Đồng Tính (liên mạng)</a> <br>
-    ▪ <a href="https://sachhiem.net/TONGIAO/tgT/TinAP02.php">Vatican sửng sốt trước cuộc Bố ráp của Cảnh sát Bỉ (Tin AP)</a> <br>
-    ▪ <a href="https://sachhiem.net/NMQ/HOSOTOIAC/CH16_2.php">VATICAN:CH16.2 - Độc Thân và Sự Trinh Bạch của Tu Sĩ Ca-Tô (Nguyễn Mạnh Quang)</a> <br>
-    ▪ <a href="https://sachhiem.net/SACHNGOAI/snT/TranRC.php">Vua chiên Catô nên ra trước tòa (Richard Dawkins/TRC dịch)</a> <br>
-    ▪ <a href="https://sachhiem.net/TONGIAO/tgS/SH15.php">Vụ Lạm Dụng Tình Dục Với Trẻ Em Của Giáo Hội Công Giáo Đã Lan Rộng (liên mạng) </a> <br>
-    ▪ <a href="https://sachhiem.net/TONGIAO/tgS/SH05.php">Vụ Án Kerala: 2 Linh Mục Và Một Nữ Tu Công Giáo bị bắt (TCM News Desk)</a> <br>
-    ▪ <a href="https://sachhiem.net/TONGIAO/tgS/SH16.php">Vụ Ô Nhục Tình Dục ở Đức - Vatican Bảo Vệ Thanh Danh Giáo Hoàng (liên mạng)</a> <br>
-    ▪ <a href="https://sachhiem.net/TONGIAO/tgT/TinAP.php">Ái Nhĩ Lan Gồng Mình Đón Nhận Phúc Trình (Shawn Pogatchnik/AP)</a> <br>
-    ▪ <a href="https://sachhiem.net/TONGIAO/tgN/NDB_01.php">Âu Châu Quay Lại Chống Giáo Hoàng (NDB dịch)</a> <br>
-    ▪ <a href="https://sachhiem.net/TONGIAO/tgH/HoangNgocNguyen.php">Đức Giáo Hoàng Trước Nghiệp Chướng (Hoàng Ngọc Nguyên)</a><br></p>
+	<a href="/TONGIAO/tgV/VuongVu01">Ai Đã Bôi Bác Hội Thánh La Mã ? (Vương Vũ) </a> <br>
+    ▪ <a href="/TONGIAO/tgT/TanPhap10">Bên Trong Vụ Lạm Dụng Tình Dục Của Giáo Hội CG Ở Đức (Tân Pháp sưu tầm)</a> <br>
+    ▪ <a href="/TONGIAO/tgT/TinCybepresse">Cha Bergeron đã gây ra bao nhiêu nạn nhân? (Baptiste Ricard-Châtelain/Le Soleil)</a> <br>
+    ▪ <a href="/THOISU_CT/ChuT/TinReuters">Chiến Dịch Vận Động Dọa Sẽ Túm Cổ Giáo Hoàng (Reuters)</a> <br>
+    ▪ <a href="/TONGIAO/tgD/DoChi">Còn Chờ Đợi Vùng Cửa Sổ 10-40: Chuyện Các Frères Dòng TABERD (Đỗ Chi) </a> <br>
+    ▪ <a href="/TONGIAO/tgT/TinSeaPI">Giám mục người Canada bị buộc tội xài sách báo khiêu dâm (Rob Gillies AP)</a> <br>
+    ▪ <a href="/TONGIAO/tgD/Dehova">Giám Mục Raymond Lahey Ra Hầu Tòa Ottawa (Dê Hô Va)</a> <br>
+    ▪ <a href="/THOISU_CT/ChuT/TinSeattle">Giáo Hoàng Hành Hương Ở Malta (VICTOR L. SIMPSON - AP Writer)</a> <br>
+    ▪ <a href="/THOISU_CT/ChuT/TinYahoo1">Giáo hoàng hứa sẽ hành động (Nicole Winfield/AP)&nbsp;</a> <br>
+    ▪ <a href="/THOISU_CT/ChuT/TinABC00">Giáo Hoàng Nói Trong Nước Mắt: Giáo Hội Tốt Hơn Là Nên Bảo Vệ Thiếu Niên (liên mạng) </a> <br>
+    ▪ <a href="/TONGIAO/tgP/PL01">Giáo Hoàng Quy Tội Cho Giáo Hội Về Scandal Tình Dục (PL lược dịch)</a> <br>
+    ▪ <a href="/SACHNGOAI/snT/TinMSNBC">Giáo Hoàng Xin Tha Thứ, hứa sẽ có hành động (tin AP) </a> <br>
+    ▪ <a href="/TONGIAO/tgS/SH19">Giáo Hòang Benedict XVI nói: “Người Ki tô giáo chúng ta phải thống hối” (liên mạng) </a> <br>
+    ▪ <a href="/TONGIAO/tgT/TinNewsWeek">Hãy mang Giáo hoàng ra trước Công lý (Christopher Hitchens / Newsweek) </a> <br>
+    ▪ <a href="/TONGIAO/tgT/TinCNN02">LHQ Gay Gắt Đả Kích Giáo Hội Công Giáo Về Nạn Loạn Dâm (Tin CNN)</a> <br>
+    ▪ <a href="/TONGIAO/tgM/tgC/Comcast">Linh Mục Bang Texas Bị Buộc Tội "Tìm Cách Mướn Sát Thủ" (Will Weissert/ AP) </a> <br>
+    ▪ <a href="/TONGIAO/tgS/SH21">Linh mục bị quản chế, chịu trắc nghiệm tâm lý (TheNewsHerald)</a> <br>
+    ▪ <a href="/TONGIAO/tgD/Dehova01">Linh Mục Rình Mồi Được Hoán Đổi Khắp Toàn Cầu (Dê Hô Va dịch) </a> <br>
+    ▪ <a href="/TONGIAO/tgQ/QuanPhuong1">Linh Mục Ăn Cắp Tiền Của Giáo Dân (Quần Phương biên dịch)</a> <br>
+    ▪ <a href="/TONGIAO/tgT/TinAP03">Liên quan đến 13 vụ tự sát tại Belgium (tin AP)</a> <br>
+    ▪ <a href="/TONGIAO/tgT/TinYahoo03">Lá Thư Tài Liệu Vatican Bao Che Lạm Dụng Tình Dục (Tin AP)</a> <br>
+    ▪ <a href="/TONGIAO/tgT/TinNGV">Một mục sư gốc Việt bị tố cáo tội quấy rối tình dục (liên mạng)</a> <br>
+    ▪ <a href="/TONGIAO/tgT/TinLawJournal">Một phụ nữ kiện linh mục dụ dỗ để làm tình (Tin Law Journal) </a> <br>
+    ▪ <a href="/TONGIAO/tgR/Reuters">Một Vị Giám mục Bỉ bị chụp bánh pie lên mặt (Faithworld/Reuters Blog)</a> <br>
+    ▪ <a href="/TONGIAO/tgV/VNPlus00">Mục sư Mỹ: "Việt Nam tôn trọng tự do tôn giáo" (VietnamPlus)</a> <br>
+    ▪ <a href="/TONGIAO/tgT/TinCNN01">Mục sư Tin Lành bị kết án 175 năm tù (Tin CCN) </a> <br>
+    ▪ <a href="/TONGIAO/tgV/VuongVu02">Mức độ khả tín từ sự " THỐNG HỐI " của Vatican (Vương Vũ) </a> <br>
+    ▪ <a href="/SACHNGOAI/snL/LeQuocTuan/LQT05">Những vụ bê bối nhục nhã mới nhất của Giáo Hội Công Giáo (Kayvan Farzaneh/LQT dịch)</a> <br>
+    ▪ <a href="/THOISU_CT/ChuT/TinYahoo2">Phong trào Raelian Ở Âu Châu kiện Giáo Hoàng Benedict XVI (Tin Yahoo)</a> <br>
+    ▪ <a href="/TONGIAO/tgS/SH07">Phúc Trình Về Giáo Hội Công Giáo Ái Nhĩ Lan (Janet Stobart)</a> <br>
+    ▪ <a href="/TONGIAO/tgT/TinBBC">Quanh Việc Bao Che Nạn Lạm Dụng Tình Dục (BBC - Trần Hưng Quốc) </a> <br>
+    ▪ <a href="/THOISU_CT/ChuT/TinTimes">Richard Dawkins Kêu Gọi Bắt Giam Vua Chiên (Times/Trần R.C.) </a> <br>
+    ▪ <a href="/TONGIAO/tgT/TinYouTube">Richard Dawkins phát biểu phản đối Giáo Hoàng (YouTube)</a> <br>
+    ▪ <a href="/TONGIAO/tgS/SH06">Tin Tức Các Tu Sĩ TCG Lạm Dụng Tình Dục (liên mạng)</a> <br>
+    ▪ <a href="/TCN/TCNtg/TCN97">Tìm Hiểu Vấn Nạn Linh Mục Loạn Dâm - 1 (Trần Chung Ngọc)</a> <br>
+    ▪ <a href="/TCN/TCNtg/TCN97_2">Tìm Hiểu Vấn Nạn Linh Mục Loạn Dâm - 2 (Trần Chung Ngọc)</a> <br>
+    ▪ <a href="/TONGIAO/tgT/TanPhap3">Tòa Thánh Vatican Có Thể Bị Truy Tố (Tân Pháp sưu tầm)</a> <br>
+    ▪ <a href="/TONGIAO/tgT/TinYahoo01">Tòa án Oregon cho phép vụ kiện Vatican về tình dục được tiến hành (RACHEL ZOLL/ AP)</a> <br>
+    ▪ <a href="/THOISU_CT/ChuT/TinCNN">Tại Sao Tôi Chống Cuộc Viếng Thăm Anh Quốc Của GH Benedict 16 (Peter Tatchell /CNN) </a> <br>
+    ▪ <a href="/TONGIAO/tgS/SH22">Tự Do Tôn Giáo Ở Mỹ ! (sưu tầm)</a> <br>
+    ▪ <a href="/TONGIAO/tgS/SH13">Vatican Rúng Động Vì Cú Đánh Về Tình Dục Đồng Tính (liên mạng)</a> <br>
+    ▪ <a href="/TONGIAO/tgT/TinAP02">Vatican sửng sốt trước cuộc Bố ráp của Cảnh sát Bỉ (Tin AP)</a> <br>
+    ▪ <a href="/NMQ/HOSOTOIAC/CH16_2">VATICAN:CH16.2 - Độc Thân và Sự Trinh Bạch của Tu Sĩ Ca-Tô (Nguyễn Mạnh Quang)</a> <br>
+    ▪ <a href="/SACHNGOAI/snT/TranRC">Vua chiên Catô nên ra trước tòa (Richard Dawkins/TRC dịch)</a> <br>
+    ▪ <a href="/TONGIAO/tgS/SH15">Vụ Lạm Dụng Tình Dục Với Trẻ Em Của Giáo Hội Công Giáo Đã Lan Rộng (liên mạng) </a> <br>
+    ▪ <a href="/TONGIAO/tgS/SH05">Vụ Án Kerala: 2 Linh Mục Và Một Nữ Tu Công Giáo bị bắt (TCM News Desk)</a> <br>
+    ▪ <a href="/TONGIAO/tgS/SH16">Vụ Ô Nhục Tình Dục ở Đức - Vatican Bảo Vệ Thanh Danh Giáo Hoàng (liên mạng)</a> <br>
+    ▪ <a href="/TONGIAO/tgT/TinAP">Ái Nhĩ Lan Gồng Mình Đón Nhận Phúc Trình (Shawn Pogatchnik/AP)</a> <br>
+    ▪ <a href="/TONGIAO/tgN/NDB_01">Âu Châu Quay Lại Chống Giáo Hoàng (NDB dịch)</a> <br>
+    ▪ <a href="/TONGIAO/tgH/HoangNgocNguyen">Đức Giáo Hoàng Trước Nghiệp Chướng (Hoàng Ngọc Nguyên)</a><br></p>
 	
 	</div>
 		</td></tr>

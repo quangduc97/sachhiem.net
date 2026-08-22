@@ -3,7 +3,7 @@ layout: ../../../layouts/Article.astro
 title: "Nhật Ký Biển Đông: Lý Tưởng Thắng hay Tiền Bạc Thắng?"
 author: "Đào Văn Bình"
 date: 2018-08-19
-source: "https://sachhiem.net/DAOVB/CT/DaovBinh116.php"
+source: "/DAOVB/CT/DaovBinh116"
 category: "Chính trị"
 lang: vi
 wordCount: 6371

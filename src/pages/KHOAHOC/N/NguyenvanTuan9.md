@@ -2,7 +2,7 @@
 layout: ../../../layouts/Article.astro
 title: "Thí Nghiệm Trên Chuột"
 author: "Nguyễn Văn Tuấn"
-source: "https://sachhiem.net/nguồn https://www.ykhoanet.com/binhluan/nguyenvantuan/080118_nguyenvantuan_namchuot.htm"
+source: "/nguồn https://www.ykhoanet.com/binhluan/nguyenvantuan/080118_nguyenvantuan_namchuot.htm"
 category: "Khoa học"
 lang: vi
 wordCount: 2642

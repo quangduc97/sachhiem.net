@@ -2,14 +2,14 @@
 layout: ../../layouts/Article.astro
 title: "Chiều kích của Thiên Chúa"
 author: "Trần Tiên Long"
-source: "https://sachhiem.net/TTL/TranTL03.php"
+source: "/TTL/TranTL03"
 category: "Tác giả"
 lang: vi
 wordCount: 1778
-image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nha.jpg"
+image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/TONGIAO/IMG/THEORY/mrsflat.gif"
 ---
 
-<p align="center"><a href="/index"><img hspace="20" border="0" src="https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nha.jpg"></a>  21 tháng 1, 2011</p>
+<p align="center">  21 tháng 1, 2011</p>
 <p><i>From: qtran </i></p><i>
 <p>To: nhiều Đ/C và 'sachhiem' </p>
 <p>Sent: Sunday, January 16, 2011 7:16 AM</p>

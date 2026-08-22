@@ -3,7 +3,7 @@ layout: ../../../layouts/Article.astro
 title: "[THIỂU SỐ HOÁ?] Tại Sao Hoạt Động Của Chùa Ba Vàng Không Được Coi Là Ngoại Giao Nhân Dân?"
 author: "Minh Thạnh"
 date: 2024-03-11
-source: "https://sachhiem.net/TONGIAO/tgM/MinhThanh43a.php"
+source: "/TONGIAO/tgM/MinhThanh43a"
 category: "Tác giả"
 lang: vi
 wordCount: 3595

@@ -3,7 +3,7 @@ layout: ../../../layouts/Article.astro
 title: "Suy Nghĩ Về Cái Gốc Hơn 2000 Năm Phật Giáo"
 author: "G.Đ. Dương Như Tâm"
 date: 2015-12-24
-source: "https://sachhiem.net/VANHOC/DKTH/DgKinhThanh_xh04_Xmas.php"
+source: "/VANHOC/DKTH/DgKinhThanh_xh04_Xmas"
 category: "Xã hội"
 lang: vi
 wordCount: 1587

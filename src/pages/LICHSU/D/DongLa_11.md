@@ -3,7 +3,7 @@ layout: ../../../layouts/Article.astro
 title: "Sự Thật Lịch Sử Qua Các Cuộc Tranh Cãi Về Ngày 30-4-1975"
 author: "Đông La"
 date: 2026-04-30
-source: "https://sachhiem.net/LICHSU/D/DongLa_11.php"
+source: "/LICHSU/D/DongLa_11"
 category: "Chính trị"
 lang: vi
 wordCount: 3029

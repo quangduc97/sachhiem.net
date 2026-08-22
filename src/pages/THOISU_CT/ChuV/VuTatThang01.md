@@ -3,7 +3,7 @@ layout: ../../../layouts/Article.astro
 title: "Kiến Nghị Gửi Đại Hội Đảng"
 author: "Vũ Tất Thắng"
 date: 2015-09-27
-source: "https://sachhiem.net/THOISU_CT/ChuV/VuTatThang.php"
+source: "/THOISU_CT/ChuV/VuTatThang"
 category: "Chính trị"
 lang: vi
 wordCount: 2630
@@ -65,7 +65,7 @@ Kinh nghiệm của Nhật Bản và Trung Quốc </b> </p>
  <p>________________</p>
  <p><b>Tài liệu tham khảo: </b></p>
  <p>(1) Kế Sách Đồng Bộ Để Phòng Chống Tham Nhũng</p>
-<p><a href="https://sachhiem.net/THOISU_CT/ChuV/VuTatThang.php">https://sachhiem.net/THOISU_CT/ChuV/VuTatThang.php</a></p>
+<p><a href="/THOISU_CT/ChuV/VuTatThang">https://sachhiem.net/THOISU_CT/ChuV/VuTatThang.php</a></p>
  <p>(2) “<i>Cần một kế sách tổng thể chống tham nhũng</i>” (Nguyệt san Pháp Luật số 101, tháng 07/2005)   </p>
  <p>(3) “<i>Cải cách hành chính: Giải phóng năng lượng để phát triển</i>” (Nguyệt san Pháp Luật số 106 tháng 12/2005) </p>
  

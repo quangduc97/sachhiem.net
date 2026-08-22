@@ -3,7 +3,7 @@ layout: ../../layouts/Article.astro
 title: "Tạ Ơn Ngài Đã Không Cho Thấy Mặt!"
 author: "Vince Vince"
 date: 2021-09-12
-source: "https://sachhiem.net/DOITHOAI/VinceVince.php"
+source: "/DOITHOAI/VinceVince"
 category: "Đối thoại"
 lang: vi
 wordCount: 1549

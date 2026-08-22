@@ -3,16 +3,16 @@ layout: ../../../layouts/Article.astro
 title: "Cuộc Cách Mạng Mang Thông Điệp Của Dân Tộc Và Thời Đại"
 author: "Ngô Vương Anh /Dân Trí"
 date: 2012-08-18
-source: "https://sachhiem.net/LICHSU/N/NgoVuongAnh.php"
+source: "/LICHSU/N/NgoVuongAnh"
 category: "Lịch sử"
 lang: vi
 wordCount: 1825
-image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nha.jpg"
+image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/LICHSU/IMG/VNwar/ChiemBacBoPhu_8-45.jpg"
 ---
 
 <table border="0" cellpadding="0" width="250" align="center">
             <tbody><tr>
-              <td width="125"><a href="/index"><img border="0" src="https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nha.jpg"></a></td>
+              <td width="125"></td>
               <td valign="middle">18-Aug-2012</td>
             </tr>
           </tbody></table>

@@ -3,14 +3,14 @@ layout: ../../../layouts/Article.astro
 title: "Mừng Quốc Khánh 76 năm - Bóng Ai Thấp Thoáng Dưới Sân?"
 author: "SH thu thập"
 date: 2021-09-02
-source: "https://sachhiem.net/THOISU_CT/SH/SH24_QuocKhanh76.php"
+source: "/THOISU_CT/SH/SH24_QuocKhanh76"
 category: "Chính trị"
 lang: vi
 wordCount: 689
 image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/LICHSU/IMG/VIETNAM/TLS4.jpg"
 ---
 
-<p><span class="First">K</span>hi chia sẻ "<i><a href="https://sachhiem.net/LICHSU/S/SH07_DocLap2021.php">Lễ  Thượng cờ Việt Nam nhân dịp kỷ niệm Quốc khánh lần thứ 76 tại San  Francisco</a></i>," nick Mai Kim nhắn: </p>
+<p><span class="First">K</span>hi chia sẻ "<i><a href="/LICHSU/S/SH07_DocLap2021">Lễ  Thượng cờ Việt Nam nhân dịp kỷ niệm Quốc khánh lần thứ 76 tại San  Francisco</a></i>," nick Mai Kim nhắn: </p>
 <p>  "<i>Ai có hình ảnh 3  sọc lấp ló phía dưới mấy năm về trước gửi cho tôi xin nhé</i>."</p>
 <p align="center"><img src="https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/LICHSU/IMG/VIETNAM/TLS4.jpg" width="400" height="299" alt=""></p>
 <p>Vậy chúng tôi cũng xin phép chia  sẻ với các bạn những hình ảnh mới toanh. Một số hình ảnh do một nhân chứng đi đường chụp được, còn lại do chính thông tin của nhóm CCCĐ loan tải trên email hoặc videos. </p>

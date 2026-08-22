@@ -3,7 +3,7 @@ layout: ../../../layouts/Article.astro
 title: "Trái Tim HT. Thích Quảng Đức"
 author: "Trần Quang Diệu"
 date: 2012-05-29
-source: "https://sachhiem.net/LICHSU/TR/TQD13.php"
+source: "/LICHSU/TR/TQD13"
 category: "Tác giả"
 lang: vi
 wordCount: 3132
@@ -297,4 +297,4 @@ image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/TONGIAO/IMG/PHAPNAN/
           liên hệ tới bất cứ một tôn giáo, một nhóm hay một người nào khác.</i> </p>
      <hr>
      <p><b>Ý kiến 1 độc giả:</b></p>
-     <a href="https://sachhiem.net/index.php?content=showemail&amp;id=108">https://sachhiem.net/index.php?content=showemail&amp;id=108</a>
+     <a href="/hop-thu/108">https://sachhiem.net/index.php?content=showemail&amp;id=108</a>

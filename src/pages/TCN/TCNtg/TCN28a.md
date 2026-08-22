@@ -3,7 +3,7 @@ layout: ../../../layouts/Article.astro
 title: "Không Có Ngày Sinh Của Jesus"
 author: "Trần Chung Ngọc"
 date: 2018-12-22
-source: "https://sachhiem.net/TCN/TCNtg/TCN28a.php"
+source: "/TCN/TCNtg/TCN28a"
 category: "Tác giả"
 lang: vi
 wordCount: 2264
@@ -15,7 +15,7 @@ image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/TONGIAO/IMG/JesusMar
 			 
  
   <div class="tomluoc">
-<p><i>LTS: Đây là bài rút ngắn trích từ bài <a href="https://sachhiem.net/TCN/TCNtg/TCN28.php">TẢN MẠN VỀ “MÙA GIÁNG SINH”</a> của GS Trần Chung Ngọc, phục vụ cho chủ đề tại sao ngày Giáng Sinh là 25 tháng 12. Tựa của SH. Mến tặng bạn đọc. (SH) </i></p>
+<p><i>LTS: Đây là bài rút ngắn trích từ bài <a href="/TCN/TCNtg/TCN28">TẢN MẠN VỀ “MÙA GIÁNG SINH”</a> của GS Trần Chung Ngọc, phục vụ cho chủ đề tại sao ngày Giáng Sinh là 25 tháng 12. Tựa của SH. Mến tặng bạn đọc. (SH) </i></p>
 </div>
 
  <div class="Gry">

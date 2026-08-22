@@ -3,7 +3,7 @@ layout: ../../../layouts/Article.astro
 title: "Các Cuộc Chống Ngoại Xâm Giành Độc Lập Của Tiền Nhân - Lịch Sử 19 Dòng"
 author: "Sưu tập của Trần Hải Âu"
 date: 2019-03-09
-source: "https://sachhiem.net/LICHSU/H/HaiAu00.php"
+source: "/LICHSU/H/HaiAu00"
 category: "Chính trị"
 lang: vi
 wordCount: 1260

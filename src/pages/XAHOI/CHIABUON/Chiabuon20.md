@@ -3,7 +3,7 @@ layout: ../../../layouts/Article.astro
 title: "Thành Kính Phân Ưu"
 author: "\\ Ban Biên Tập Sachhiem.net \\"
 date: 2026-07-06
-source: "http://sachhiem.net/XAHOI/CHIABUON/Chiabuon20.php"
+source: "/XAHOI/CHIABUON/Chiabuon20"
 lang: vi
 wordCount: 2188
 image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/BUIKHA/img/CAOPHO_1July2026.jpg"

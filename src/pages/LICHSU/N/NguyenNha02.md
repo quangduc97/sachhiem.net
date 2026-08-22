@@ -3,7 +3,7 @@ layout: ../../../layouts/Article.astro
 title: "Trần Hưng Đạo, Vị Tướng Soái Ba Lần Chiến Thắng Quân Nguyên Mông"
 author: "Hãn Nguyên Nguyễn Nhã"
 date: 2014-09-12
-source: "https://sachhiem.net/LICHSU/N/NguyenNha02.php"
+source: "/LICHSU/N/NguyenNha02"
 category: "Lịch sử"
 lang: vi
 wordCount: 5331

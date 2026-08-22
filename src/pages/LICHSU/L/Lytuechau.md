@@ -3,16 +3,16 @@ layout: ../../../layouts/Article.astro
 title: "Sự Liên Kết Giữa Các Thế Lực Đế Quốc Và Đạo Chúa"
 author: "Lý Tuệ Châu"
 date: 2012-07-02
-source: "https://sachhiem.net/Lytuechau.php"
+source: "/Lytuechau"
 category: "Chính trị"
 lang: vi
 wordCount: 10746
-image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nha.jpg"
+image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/TONGIAO/IMG/LINHMUC/Pigneau_de_Behaine.jpg"
 ---
 
 <table border="0" cellpadding="0" width="250" align="center">
             <tbody><tr>
-              <td width="125"><a href="/index"><img border="0" src="https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nha.jpg"></a></td>
+              <td width="125"></td>
               <td valign="middle">02-Jul-2012</td>
             </tr>
           </tbody></table>

@@ -2,7 +2,7 @@
 layout: ../../../layouts/Article.astro
 title: "Việc Tranh Chấp Đất Của Giáo Xứ An Bằng"
 author: "Lê Minh Tựu"
-source: "https://sachhiem.net/XAHOI/xhL/LeMinhTuu.php"
+source: "/XAHOI/xhL/LeMinhTuu"
 category: "Xã hội"
 lang: vi
 wordCount: 1974
@@ -162,7 +162,7 @@ image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/TONGIAO/IMG/ANBANG/T
 <hr align="left" width="30%">
 <p class="TuaDenLeft">Những bài có đề tài về những đợt cải đạo đầu tiên:</p>
 <p><a href="/XAHOI/LeMinhTuu">- Gốc Gác Lang An Bằng (Lê Minh Tựu)</a> </p>
-<p>- <a href="https://sachhiem.net/LICHSU/N/NguyenTan.php">Lịch Sử Tên Làng An
+<p>- <a href="/LICHSU/N/NguyenTan">Lịch Sử Tên Làng An
     Bằng (Nguyễn Tấn)</a></p>
 <p><a href="/CHARLIE/CLcukhoai">- Củ Khoai Lùi Bếp Tro (Charlie Nguyễn)</a></p>
 <p>- <a href="/EMAILS/KimPhuong02">Cuộc Cải Đạo Vĩ Đại Đầu Tiên Ở Làng Tôi  (Kim Phượng)</a></p>

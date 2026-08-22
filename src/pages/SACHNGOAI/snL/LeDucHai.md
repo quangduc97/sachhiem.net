@@ -2,7 +2,7 @@
 layout: ../../../layouts/Article.astro
 title: "'Giáo Hoàng' Năn Nỉ Dân Pháp Đi Nhà Thờ"
 author: "Lê Đức Hải dịch"
-source: "https://sachhiem.net/nguồn: https://blog.360.yahoo.com/blog-LSley.09fqIlpmgebITWaA--?cq=1"
+source: "/nguồn: https://blog.360.yahoo.com/blog-LSley.09fqIlpmgebITWaA--?cq=1"
 lang: vi
 wordCount: 1981
 image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nhacu.jpg"
@@ -28,7 +28,7 @@ image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nhacu.jpg"
 <table border="1" cellpadding="40" cellspacing="0" width="100%" topmargin="10"> 
 	<tbody><tr><td width="100%" bgcolor="White" align="justify" valign="top">	
   <table border="0" cellpadding="10" width="100%" cols="2"><tbody><tr>
-	<td valign="top"><a href="https://sachhiem.net/"><img border="0" src="https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nhacu.jpg" width="49" height="20"></a></td>
+	<td valign="top"><a href="/"><img border="0" src="https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nhacu.jpg" width="49" height="20"></a></td>
 	<td valign="top" style="text-align:right">	đăng ngày 14 tháng 9, 2008
 	</td></tr></tbody></table>
  							
@@ -60,7 +60,7 @@ image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nhacu.jpg"
 	tôn giáo trong việc hình thành lương tâm và sự xây dựng nhận thức đạo đức 
 	căn bản chung trong xã hội."</div>
 	<p><font size="3">
-	<strong>Thắc mắc:</strong> </font><a style="color: #1B1343" href="https://sachhiem.net/TCN/TCNtg/CGchinhsu/CGCS3.php">Giáo Hội nổi tiếng về những vụ linh mục loạn dâm và lịch sử đẫm máu 
+	<strong>Thắc mắc:</strong> </font><a style="color: #1B1343" href="/TCN/TCNtg/CGchinhsu/CGCS3">Giáo Hội nổi tiếng về những vụ linh mục loạn dâm và lịch sử đẫm máu 
 	của nó</a>, <a style="color: #1B1343" href="https://blog.360.yahoo.com/blog-LSley.09fqIlpmgebITWaA--?cq=1&amp;p=1357">
 	Vatican che chở những linh mục phạm tội ấu 
 	dâm</a>, <a style="color: #1B1343" href="https://www.mosquitonet.com/~prewett/vietwhygo.html">

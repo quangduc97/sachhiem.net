@@ -3,7 +3,7 @@ layout: ../../../layouts/Article.astro
 title: "Phim 'Terror in Little Saigon' - Con trai ông Ðạm Phong lên tiếng"
 author: "Hà Giang/ Người Việt"
 date: 2015-11-12
-source: "https://sachhiem.net/THOISU_CT/ChuT/TinNgViet02.php"
+source: "/THOISU_CT/ChuT/TinNgViet02"
 category: "Chính trị"
 lang: vi
 wordCount: 3672
@@ -78,5 +78,5 @@ image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/THOISU_CT/Hinh/FRONT
 <p>Liên lạc tác giả: <a href="mailto:hagiang@nguoi-viet.com">hagiang@nguoi-viet.com</a></p>
 <p>_______________________________</p>
 <p><b>Bài liên quan:</b></p>
-<p>- <a href="https://sachhiem.net/THOISU_CT/ChuT/TinNgViet01.php">Phỏng Vấn Các Nhân Vật Liên Quan Trong Phim "Terror In Little Saigon"</a> (Người Việt và CaliToday) 
+<p>- <a href="/THOISU_CT/ChuT/TinNgViet01">Phỏng Vấn Các Nhân Vật Liên Quan Trong Phim "Terror In Little Saigon"</a> (Người Việt và CaliToday) 
 </p>

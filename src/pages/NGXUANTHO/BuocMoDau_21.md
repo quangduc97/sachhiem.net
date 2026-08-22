@@ -3,18 +3,17 @@ layout: ../../layouts/Article.astro
 title: "Bước Mở Đầu Của Sự Thiết Lập Hệ Thống Thuộc Địa Pháp Ở Việt Nam"
 author: "TS Nguyễn Xuân Thọ"
 date: 2023-02-13
-source: "https://sachhiem.net/NGXUANTHO/BuocMoDau_21.php"
+source: "/NGXUANTHO/BuocMoDau_21"
 category: "Lịch sử"
 lang: vi
 wordCount: 14407
-image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nha.jpg"
+image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/sqdot.gif"
 ---
 
 <p class="Tuaduoi"><b>Phụ Lục</b></p>
 
 
-  <p align="center"><a href="https://www.sachhiem.net/">
-<img border="0" src="https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nha.jpg"></a>| <a target="_blank" href="https://sachhiem.net/NGXUANTHO/BuocMoDau_Main.php"><span lang="en-us"><b><font face="Symbol">¿</font></b></span> trở ra mục lục</a>| 13-Feb-2023</p> 
+  <p align="center">| <a target="_blank" href="/NGXUANTHO/BuocMoDau_Main"><span lang="en-us"><b><font face="Symbol">¿</font></b></span> trở ra mục lục</a>| 13-Feb-2023</p> 
 <p class="TuaDoLeft"><b>Hiệp Ước Giữa Vua Pháp Và Vua Nam Kỳ</b></p>
 <p><i>(Hiệp ước Versailles, ngày 23 tháng 11 năm 1787)</i></p>
 <p>Nguyễn Ánh, Quốc vương Nam kỳ, bị tước mất hết đất đai sông núi và đang ở tình thế cần thiết phải dùng sức mạnh vũ khí để khôi phục lại, đã phái sang Pháp, ngài Pierre-Joseph-George Pigneau de Bêhaine, Giám mục Adran, với ý định yêu cầu sự giúp đỡ và viện trợ của Đức vua rất kính Chúa; và Hoàng thượng, tin tưởng sự nghiệp của Quốc vương Nam Kỳ là chính đáng và muốn tỏ ra với nhà vua một dấu hiệu rõ ràng về tình hữu nghị cũng như tinh thần yêu công lý của mình, đã quyết định chấp nhận một cách thuận lợi lời yêu cầu gửi tới Hoàng thượng. Do đó, Hoàng thượng đã ủy thác cho ngài bá tước De Montmorin, thống chế các doanh trại và quân đội, huân chương nhà vua và huân chương “<i>Tấm lông cừu vàng”</i>, cố vấn toàn diện của Hoàng thượng, Bộ trưởng và Quốc vụ khanh về các vấn đề mệnh lệnh và tài chính, phụ trách lĩnh vực ngoại giao, thảo luận và quyết định cùng với, Giám mục Adran, tính chất, phạm vi và những điều kiệncủa những khoản viện trợ sẽ cung cấp [cho vua Nam kỳ]; và hai đại sứ toàn quyền, sau khi đã được hợp pháp hóa, bá tước Montmorin bằng cách thông báo quyền hành và Giám mục Adran bằng cách xuất trình chiếc đại ấn của vương quốc Nam kỳ cùng với biên bảo thảo luận của Đại hội đồng vương quốc, đã thỏa thuận với nhau về những điểm và điều khoản sau đây:</p>

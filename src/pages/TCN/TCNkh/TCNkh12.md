@@ -2,15 +2,15 @@
 layout: ../../../layouts/Article.astro
 title: "THIẾT KẾ THÔNG MINH HAY NGU ĐẦN ??"
 author: "Trần Chung Ngọc"
-source: "https://sachhiem.net/TCN/TCNkh/TCNkh12.php"
+source: "/TCN/TCNkh/TCNkh12"
 category: "Khoa học"
 lang: vi
 wordCount: 18992
-image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nha.jpg"
+image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/Pict/Creation_of_Adam.jpg"
 ---
 
 <table border="0" width="250" align="center">
-    <tbody><tr><td width="100"><a href="https://sachhiem.net/index.php"><img border="0" src="https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nha.jpg"></a>    </td> 			
+    <tbody><tr><td width="100">    </td> 			
 			<td>	đăng ngày 28&nbsp; tháng 8, 2007</td>
 		</tr>
 	</tbody></table>

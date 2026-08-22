@@ -2,14 +2,14 @@
 layout: ../../layouts/Article.astro
 title: "Vấn Đề Chứng Minh Thượng Đế"
 author: "Trần Tiên Long"
-source: "https://sachhiem.net/TTL/TranTL05.php"
+source: "/TTL/TranTL05"
 category: "Tác giả"
 lang: vi
 wordCount: 2662
-image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nha.jpg"
+image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/SACHNGOAI/Hinhanh/PEOPLE/QuentinSmith.jpg"
 ---
 
-<p align="center"><a href="/index"><img hspace="20" border="0" src="https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nha.jpg"></a>  21 tháng 2, 2011</p>
+<p align="center">  21 tháng 2, 2011</p>
 		
 		<p><span class="First">C</span>ó một nguyên tắc rất phổ biến rằng, không ai có thể 
 						chứng minh được một điều phủ định. Chẳng hạn, việc chứng 

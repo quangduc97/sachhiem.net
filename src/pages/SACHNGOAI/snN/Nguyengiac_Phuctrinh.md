@@ -3,7 +3,7 @@ layout: ../../../layouts/Article.astro
 title: "Phúc Trình Thượng Viện Hoa Kỳ Số 94-465"
 author: "Nguyên Giác dịch"
 date: 2017-10-31
-source: "https://sachhiem.net/SACHNGOAI/snN/Nguyengiac_Phuctrinh.php"
+source: "/SACHNGOAI/snN/Nguyengiac_Phuctrinh"
 category: "Lịch sử"
 lang: vi
 wordCount: 1679

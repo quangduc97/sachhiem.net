@@ -3,7 +3,7 @@ layout: ../../../layouts/Article.astro
 title: "Báo Mỹ: Việt Tân Đã Giết Hại Hàng Loạt Nhà Báo Gốc Việt Để Bịt Miệng"
 author: "Thanh Niên"
 date: 2015-11-04
-source: "https://sachhiem.net/THOISU_CT/ChuT/TinThanhnien_2.php"
+source: "/THOISU_CT/ChuT/TinThanhnien_2"
 category: "Chính trị"
 lang: vi
 wordCount: 2215

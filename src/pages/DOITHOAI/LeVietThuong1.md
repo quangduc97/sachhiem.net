@@ -2,11 +2,10 @@
 layout: ../../layouts/Article.astro
 title: "Trường Hợp «Tinh Hoa Ý Thức Hệ Việt Nho»"
 author: "- Lê Việt Thường -"
-source: "https://sachhiem.net/null"
+source: "/null"
 category: "Lịch sử"
 lang: vi
 wordCount: 13048
-image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nha.jpg"
 ---
 
 <div align="center" style="position: relative; left: 0; top: 0">
@@ -23,8 +22,7 @@ image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nha.jpg"
 		<table border="0" cellpadding="10" width="86%" cols="">
 			<tbody><tr>
 				<td>
-				<a href="/index">
-				<img border="0" src="https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nha.jpg"></a></td>
+				</td>
 				<td valign="top" style="text-align:right"><i><font size="2">07 tháng 11, 2010
 				</font></i></td>
 			</tr></tbody></table> 
@@ -1323,7 +1321,7 @@ A) CÁC PHƯƠNG PHÁP NGHIÊN CỨU MỚI </p>
 		<a href="https://www.tinparis.net/vanhoa/vh_0907_09_PhuongPhapNoiDung_LeVietThuong.html">https://www.tinparis.net/vanhoa/vh_0907_09_PhuongPhapNoiDung_LeVietThuong.html</a></p>
 		
 		<p class="TuaDenLeft">Cùng đề tài:</p>
-		<p><a href="https://sachhiem.net/VANHOC/VuHuyQuang.php">- Đọc "Tổ quốc ăn năn" của Nguyễn Gia Kiểng (Vũ Huy Quang)</a></p>
+		<p><a href="/VANHOC/VuHuyQuang">- Đọc "Tổ quốc ăn năn" của Nguyễn Gia Kiểng (Vũ Huy Quang)</a></p>
 		<p><a href="https://giaodiemonline.com/thuvien/doithoai/toquocannan.htm">- Vài nhận xét về cuốn "Tổ Quốc Ăn Năn" của Nguyễn Gia Kiểng (Nhật Tiến)</a></p>
 		<p><a href="https://forums.vietbao.com/topic.asp?TOPIC_ID=12472">- Forum Vietbao: Đọc sách Tổ Quốc Ăn Năn của Nguyễn Gia Kiểng</a></p>
 		

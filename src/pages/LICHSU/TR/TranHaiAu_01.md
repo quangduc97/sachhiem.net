@@ -3,7 +3,7 @@ layout: ../../../layouts/Article.astro
 title: "Chuyện Phú Hộ Sài Gòn Giàu Hơn Vua Bảo Đại"
 author: "Trần Hải Âu sưu tầm"
 date: 2021-02-25
-source: "https://sachhiem.net/LICHSU/TR/TranHaiAu_01.php"
+source: "/LICHSU/TR/TranHaiAu_01"
 category: "Lịch sử"
 lang: vi
 wordCount: 1384

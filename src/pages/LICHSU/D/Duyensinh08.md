@@ -3,7 +3,7 @@ layout: ../../../layouts/Article.astro
 title: "Ngô Đình Diệm Là Nguyên Nhân Của Mặt Trận Dân Tộc Giải Phóng Miền Nam"
 author: "Duyên Sinh"
 date: 2015-06-19
-source: "https://sachhiem.net/LICHSU/D/Duyensinh08.php"
+source: "/LICHSU/D/Duyensinh08"
 category: "Lịch sử"
 lang: vi
 wordCount: 1423

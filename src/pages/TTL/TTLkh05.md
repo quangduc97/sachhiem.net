@@ -3,16 +3,16 @@ layout: ../../layouts/Article.astro
 title: "Vài Lời Với Cháu Phê Bình Sách Hiếm"
 author: "Trần Tiên Long"
 date: 2012-10-22
-source: "https://sachhiem.net/TTL/TTLkh05.php"
+source: "/TTL/TTLkh05"
 category: "Đối thoại"
 lang: vi
 wordCount: 1656
-image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nha.jpg"
+image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/DOITHOAI/IMG/appleorange.jpg"
 ---
 
 <table border="0" cellpadding="0" width="250" align="center">
             <tbody><tr>
-              <td width="125"><a href="/index"><img border="0" src="https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nha.jpg"></a></td>
+              <td width="125"></td>
               <td valign="middle">22-Oct-2012</td>
             </tr>
           </tbody></table>
@@ -48,7 +48,7 @@ image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nha.jpg"
             Lời tuyên bố của Hàn Lâm Viện Quốc Gia Hoa Kỳ như trên là một sự
             kiện bất khả phủ bác. Bác đã từng đọc lời tuyên bố này bằng tiếng
             Mỹ ở trong các bài viết khác mà bác không còn nhớ. Và câu trích dẫn
-            ở con số [<u>7</u>] chỉ là một sự nhắc nhở với ông BKDC CTT về bài<a href="https://sachhiem.net/TTL/TranTL11.php">Những
+            ở con số [<u>7</u>] chỉ là một sự nhắc nhở với ông BKDC CTT về bài<a href="/TTL/TranTL11">Những
             Thủ Đoạn Mánh Mung Chống Phá Thuyết Tiến Hóa</a> (https://sachhiem.net/TTL/TranTL11.php) mà bác đã đưa
             vào diễn đàn. Việc bác đã viết bài đó và đã đưa vào diễn đàn cũng
             là một sự kiện bất khả phủ bác. Cái nguồn ở con số [<u>7</u>] dẫn

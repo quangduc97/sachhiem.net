@@ -3,7 +3,7 @@ layout: ../../../layouts/Article.astro
 title: "Việt Nam Chúng Tôi Nhỏ Bé Mà Kiên Gan Như Thế Đó!"
 author: "Đạo Sĩ"
 date: 2022-03-09
-source: "https://sachhiem.net/THOISU_CT/ChuD/Daosi00.php"
+source: "/THOISU_CT/ChuD/Daosi00"
 category: "Chính trị"
 lang: vi
 wordCount: 1988

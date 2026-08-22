@@ -2,7 +2,7 @@
 layout: ../../../layouts/Article.astro
 title: "Trả Lời Thư Bạn Lưu Tèo (Minh Ngọc)"
 date: 2009-12-04
-source: "https://sachhiem.net/null"
+source: "/null"
 category: "Tác giả"
 lang: vi
 wordCount: 2572

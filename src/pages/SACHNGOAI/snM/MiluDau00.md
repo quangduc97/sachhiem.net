@@ -3,7 +3,7 @@ layout: ../../../layouts/Article.astro
 title: "Báo Cáo Của Vatican Cho Biết"
 author: "SCOTT NEUMAN/ Milu Dau dịch"
 date: 2020-11-14
-source: "https://sachhiem.net/SACHNGOAI/snM/MiluDau00.php"
+source: "/SACHNGOAI/snM/MiluDau00"
 category: "Chính trị"
 lang: vi
 wordCount: 1380

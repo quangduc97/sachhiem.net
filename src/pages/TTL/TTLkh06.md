@@ -3,7 +3,7 @@ layout: ../../layouts/Article.astro
 title: "Stephen Hawking Khẳng Định Không Có Gót (Thượng Đế)"
 author: "By Chris Matyszczyk / Trần Tiên Long chuyển ngữ"
 date: 2014-09-27
-source: "https://sachhiem.net/TTL/TTLkh06.php"
+source: "/TTL/TTLkh06"
 category: "Lịch sử"
 lang: vi
 wordCount: 817
@@ -13,7 +13,7 @@ image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/KHOAHOC/IMG/INVENTER
 <p align="center"><img src="https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/KHOAHOC/IMG/INVENTER/StephenHawking.JPG" width="330" height="210" longdesc="https://www.cnet.com/news/stephen-hawking-makes-it-clear-there-is-no-god/#ftag=YHF65cbda0"></p>
  <p align="center"><i>Stephen Hawking đã công khai nói thẳng, ông là một người vô thần.</i></p>
  <p><b>Lời người dịch </b></p>
- <p><i>Bài viết này, tác giả Chris Matyszczyk cố tình gợi lên một vài ý tưởng phản bác lời tuyên bố “không có Gót” (Thượng Đế, Thiên Chúa) của Stephen Hawking bằng những luận chứng ngớ ngẫn. Thí dụ, vừa vào đề, tác giả cho độc giả biết ngay ông theo lập trường bắt cá hai tay (như Pascal) mặc dù ông biết là chẳng có Gót. Đó là thái độ tin vì lợi, bất chấp mọi lý lẽ, chứ chẳng phải vì đó là điều chân thật. Xin đọc thêm bài&nbsp;<a target="_blank" href="https://sachhiem.net/index.php?content=showrecipe&amp;id=858">Tôi Không Theo Pascal</a>&nbsp;để hiểu rõ hơn về một thái độ con buôn này, một thái độ đã tạo ra những kẻ có thể làm những điều gian lận, miễn sao có lợi. Họ cứ vô tư rao giảng những điều mà họ không tin, tất cả chỉ vì quyền lợi của cá nhân họ và phe nhóm.</i></p>
+ <p><i>Bài viết này, tác giả Chris Matyszczyk cố tình gợi lên một vài ý tưởng phản bác lời tuyên bố “không có Gót” (Thượng Đế, Thiên Chúa) của Stephen Hawking bằng những luận chứng ngớ ngẫn. Thí dụ, vừa vào đề, tác giả cho độc giả biết ngay ông theo lập trường bắt cá hai tay (như Pascal) mặc dù ông biết là chẳng có Gót. Đó là thái độ tin vì lợi, bất chấp mọi lý lẽ, chứ chẳng phải vì đó là điều chân thật. Xin đọc thêm bài&nbsp;<a target="_blank" href="/TTL/TranTL01">Tôi Không Theo Pascal</a>&nbsp;để hiểu rõ hơn về một thái độ con buôn này, một thái độ đã tạo ra những kẻ có thể làm những điều gian lận, miễn sao có lợi. Họ cứ vô tư rao giảng những điều mà họ không tin, tất cả chỉ vì quyền lợi của cá nhân họ và phe nhóm.</i></p>
  <p><i>Đọc bài này, chúng ta cần nên phân biệt giữa ý tưởng của Stephen Hawking và ý tưởng chủ quan của tác giả.</i> (TTL)</p>
  <p align="center">-- o0o --</p>
  <p align="center"><img src="https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/KHOAHOC/IMG/ASTRO/ESO_Observatory.JPG" width="347" height="201"></p>
@@ -47,6 +47,6 @@ Chúng ta tuyệt đối  cần có nhiều nghiên cứu nghiêm chỉnh hơn �
  <p class="nguonL">Nguồn: <a target="_blank" href="https://www.cnet.com/news/stephen-hawking-makes-it-clear-there-is-no-god/#ftag=YHF65cbda0">https://www.cnet.com/news/stephen-hawking-makes-it-clear-there-is-no-god/#ftag=YHF65cbda0</a></p>
  <a href="/EMAILS/SH/Sachhiem40#thu_pbsh"></a>
  <hr>
-<p><a href="https://sachhiem.net/TTL/List.inc.php">Các bài của Trần Tiên Long » </a></p>
+<p><a href="/TTL/List.inc">Các bài của Trần Tiên Long » </a></p>
 
 <hr>

@@ -2,13 +2,13 @@
 layout: ../../../layouts/Article.astro
 title: "Vu Lan trên quê hương"
 author: "Minh Mẫn"
-source: "https://sachhiem.net/MINHMAN/Tongiao/MinhManTG15.php"
+source: "/MINHMAN/Tongiao/MinhManTG15"
 lang: vi
 wordCount: 2518
-image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nha.jpg"
+image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/Hinh/Vulan.jpg"
 ---
 
-<p align="center"><a href="https://www.sachhiem.net/"> <img border="0" src="https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nha.jpg"> </a> 28 tháng 8, 2007 </p>
+<p align="center"> 28 tháng 8, 2007 </p>
 
 	<p align="center"><img border="0" src="https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/Hinh/Vulan.jpg" width="380" height="249"></p>
 	<p><font face="Vivaldi" size="6">V</font>u Lan đã dến với dân tộc giữa bảo tố và lụt lội, giữa phát triển của đất nước và bất mãn trong một bộ phận trong dân chúng, giữa kinh tế thị trường và sự chật vật  trong cuộc sống của xã hội; Những cái được và cái mất luôn là hai mặt  nương tựa nhau để cảnh báo cho con người về tính hữu hạn và vô thường của đời người, thế nhưng, phần lớn vẫn luôn say men tranh đoạt, hơn thua, đuổi bắt chiếc bóng chập chờn trêu cợt kiếp nhân sinh!

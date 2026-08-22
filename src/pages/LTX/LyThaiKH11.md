@@ -3,7 +3,7 @@ layout: ../../layouts/Article.astro
 title: "Một Chuyến Bay Xuyên Vũ Trụ"
 author: "Lý Thái sưu tầm"
 date: 2012-08-27
-source: "https://sachhiem.net/LTX/LyThaiKH11.php"
+source: "/LTX/LyThaiKH11"
 category: "Khoa học"
 lang: vi
 wordCount: 409

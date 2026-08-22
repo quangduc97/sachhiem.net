@@ -2,11 +2,11 @@
 layout: ../../layouts/Article.astro
 title: "Cứu Trợ Bão Lũ Miền Trung"
 author: "EOC"
-source: "https://sachhiem.net/null"
+source: "/null"
 category: "Xã hội"
 lang: vi
 wordCount: 3685
-image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nha.jpg"
+image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/XAHOI/IMG/FLOOD/EOC.jpg"
 ---
 
 <div align="center" style="position: relative; left: 0; top: 0">
@@ -25,8 +25,7 @@ image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nha.jpg"
 		<td width="100%"><div style="margin-left: 50; margin-right: 50">
 		<table border="0" cellpadding="10" width="600">
 			<tbody><tr>
-				<td><a href="/index">
-				<img border="0" src="https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nha.jpg"></a></td>
+				<td></td>
 				<td valign="top" style="text-align:right"><i><font size="2">22 
 				tháng 10, 2010
 				</font></i></td>

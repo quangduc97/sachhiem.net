@@ -3,7 +3,7 @@ layout: ../../../layouts/Article.astro
 title: "Thử Nhìn Lại Thế Giới Năm 2020"
 author: "Đào Văn Bình"
 date: 2020-12-31
-source: "https://sachhiem.net/DAOVB/CT/DaovBinh135.php"
+source: "/DAOVB/CT/DaovBinh135"
 category: "Chính trị"
 lang: vi
 wordCount: 31093

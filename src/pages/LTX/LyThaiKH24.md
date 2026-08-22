@@ -3,7 +3,7 @@ layout: ../../layouts/Article.astro
 title: "Bí Ẩn Dòng Suối Máu Ở Nam Cực Được Khám Phá?"
 author: "Agamoni Ghosh / ibtimes"
 date: 2017-03-05
-source: "https://sachhiem.net/LTX/LyThaiKH24.php"
+source: "/LTX/LyThaiKH24"
 category: "Khoa học"
 lang: vi
 wordCount: 582

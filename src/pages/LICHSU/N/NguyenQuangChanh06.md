@@ -3,7 +3,7 @@ layout: ../../../layouts/Article.astro
 title: "Có Người Thương Binh Già Với Ngôi Chùa Cách Mạng Ở Quê Hương"
 author: "Nguyễn Quang Chánh"
 date: 2023-07-13
-source: "https://sachhiem.net/LICHSU/N/NguyenQuangChanh06.php"
+source: "/LICHSU/N/NguyenQuangChanh06"
 category: "Chính trị"
 lang: vi
 wordCount: 1796

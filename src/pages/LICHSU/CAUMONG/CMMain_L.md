@@ -2,9 +2,9 @@
 layout: ../../../layouts/Article.astro
 title: "Việt Nam Quốc Sử Hùng Ca"
 author: "Cầu Móng NTTTLA"
-source: "https://sachhiem.net/tháng 09, 2023"
+source: "/tháng 09, 2023"
 lang: vi
-wordCount: 27
+wordCount: 24
 image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/LICHSU/IMG/SACH/CauMong_VNQSHC.jpg"
 ---
 
@@ -23,5 +23,3 @@ image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/LICHSU/IMG/SACH/CauM
     
     <div align="center"><p>https://sachhiem.net/LICHSU/CAUMONG/CMMain_L.php </p>
   <img src="https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/SACH/GiaoTrieuLM.JPG" width="161" height="121" alt=""></div>
- 
-<p align="center"><a href="/index"><img src="https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nha.jpg" border="0"> Trở ra  sachhiem.net</a></p>

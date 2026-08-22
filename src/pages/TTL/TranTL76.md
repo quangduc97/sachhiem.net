@@ -3,7 +3,7 @@ layout: ../../layouts/Article.astro
 title: "James Comey: Một Con Bài Đang Bị Lật Tẩy"
 author: "Trần Tiên Long"
 date: 2016-10-31
-source: "https://sachhiem.net/TTL/TranTL76.php"
+source: "/TTL/TranTL76"
 category: "Đối thoại"
 lang: vi
 wordCount: 4570
@@ -106,18 +106,18 @@ Date: Sun, October 30, 2016 1:25 pm
 <p>Trần Tiên Long </p>
 <p><b>Mời đọc thêm các bài liên quan:</b></p>
 <p> - <a href="https://www.choicematters.org/articles/legal-abortion-arguments-pro-con/" target="_blank">Phá thai hợp pháp: Đối luận giữa phe thuận và phe chống (Legal  Abortion: Arguments Pro &amp; Con) </a></p>
-<p>- <a href="https://sachhiem.net/THOISU_CT/ChuH/index.php?content=showrecipe&amp;id=5386" target="_blank">Ghi tên và Đi Bầu Để Bảo Vệ Quyền  Lợi Chính Đáng Của Mình</a> - <i>Ng. Tiên Tri</i></p>
-<p>- <a href="https://sachhiem.net/THOISU_CT/ChuH/index.php?content=showemail&amp;id=137" target="_blank">Quan Trọng: Mỹ gốc Việt, trước khi  bỏ phiếu </a>- <i>Evelyn Bui</i></p>
-<p>- <a href="https://sachhiem.net/TTL/TranTL29.php" target="_blank">Những Ý Kiến Nghiêm Chỉnh Cho Kỳ Bầu Cử Tổng Thống Sắp Tới  (2012)</a></p>
-<p>- <a href="https://sachhiem.net/TTL/TranTL30.php" target="_blank">Trao đổi với ông NguyenT</a> - <a href="https://sachhiem.net/TTL/TranTL32.php" target="_blank">Công Giáo Và Vấn Đề Phá Thai</a></p>
-<p>- <a href="https://sachhiem.net/index.php?content=showrecipe&amp;id=6729" target="_blank">Đảng Cộng Hòa Đang Dẫy Chết</a> - <a href="https://sachhiem.net/index.php?content=showrecipe&amp;id=6743" target="_blank">Về Những Thuyết Âm Mưu</a></p>
-<p>- <a href="https://sachhiem.net/index.php?content=showrecipe&amp;id=6242" target="_blank">Tôi Đọc Vũ Linh: Cái Loa Tuyên  Truyền Của Đảng Cộng Hòa</a></p>
-<p>- <a href="https://sachhiem.net/index.php?content=showrecipe&amp;id=1079" target="_blank">Công Giáo Và Vấn Đề Phá Thai</a> - <a href="https://sachhiem.net/index.php?content=showrecipe&amp;id=5396" target="_blank">Dân Chủ Hay Cộng Hòa, Đảng Nào  Chuyên Lo Bảo Vệ Giới Nghèo?</a></p>
-<p>- <a href="https://sachhiem.net/index.php?content=showrecipe&amp;id=5429" target="_blank">Trò ảo thuật về bầu cử </a></p>
-<p><a href="https://sachhiem.net/index.php?content=showrecipe&amp;id=5429" target="_blank">- Đảng Nào  Xài Phung Phí Nhất?</a></p>
-<p>- <a href="https://sachhiem.net/index.php?content=showrecipe&amp;id=5346" target="_blank">Xin Đừng Lừa Chúng Tôi</a></p>
-<p>- <a href="https://sachhiem.net/index.php?content=showrecipe&amp;id=6399" target="_blank">Tính Đạo Đức Giả Của Phong  Trào Đòi Quyền Sống</a></p>
-<p><a href="https://sachhiem.net/TTL/TTLdir.php" target="_blank">Các bài của Trần Tiên Long</a></p>
+<p>- <a href="/THOISU_CT/ChuN/NgTienTri02" target="_blank">Ghi tên và Đi Bầu Để Bảo Vệ Quyền  Lợi Chính Đáng Của Mình</a> - <i>Ng. Tiên Tri</i></p>
+<p>- <a href="/hop-thu/137" target="_blank">Quan Trọng: Mỹ gốc Việt, trước khi  bỏ phiếu </a>- <i>Evelyn Bui</i></p>
+<p>- <a href="/TTL/TranTL29" target="_blank">Những Ý Kiến Nghiêm Chỉnh Cho Kỳ Bầu Cử Tổng Thống Sắp Tới  (2012)</a></p>
+<p>- <a href="/TTL/TranTL30" target="_blank">Trao đổi với ông NguyenT</a> - <a href="/TTL/TranTL32" target="_blank">Công Giáo Và Vấn Đề Phá Thai</a></p>
+<p>- <a href="/TTL/TranTL74" target="_blank">Đảng Cộng Hòa Đang Dẫy Chết</a> - <a href="/TTL/TranTL75" target="_blank">Về Những Thuyết Âm Mưu</a></p>
+<p>- <a href="/TTL/TranTL60" target="_blank">Tôi Đọc Vũ Linh: Cái Loa Tuyên  Truyền Của Đảng Cộng Hòa</a></p>
+<p>- <a href="/TTL/TranTL32" target="_blank">Công Giáo Và Vấn Đề Phá Thai</a> - <a href="/TTL/TranTL31" target="_blank">Dân Chủ Hay Cộng Hòa, Đảng Nào  Chuyên Lo Bảo Vệ Giới Nghèo?</a></p>
+<p>- <a href="/TTL/TranTL33" target="_blank">Trò ảo thuật về bầu cử </a></p>
+<p><a href="/TTL/TranTL33" target="_blank">- Đảng Nào  Xài Phung Phí Nhất?</a></p>
+<p>- <a href="/TTL/TranTL22" target="_blank">Xin Đừng Lừa Chúng Tôi</a></p>
+<p>- <a href="/TTL/TranTL67" target="_blank">Tính Đạo Đức Giả Của Phong  Trào Đòi Quyền Sống</a></p>
+<p><a href="/TTL/TTLdir" target="_blank">Các bài của Trần Tiên Long</a></p>
 <p>__________________ </p>
 <p>From: Huu Nguyen <br>
   Sent: Sunday, October 30, 2016 11:50 AM <br>
@@ -205,6 +205,6 @@ Date: Sun, October 30, 2016 1:25 pm
 <p>Posted by: Hoa HoangLan &lt;hoahoanglan011@yahoo.com&gt;&nbsp;</p>
  
   <hr>
-<p><a href="https://sachhiem.net/TTL/List.inc.php">Các bài của Trần Tiên Long » </a></p>
+<p><a href="/TTL/List.inc">Các bài của Trần Tiên Long » </a></p>
 
 <hr>

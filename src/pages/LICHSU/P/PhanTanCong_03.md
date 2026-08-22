@@ -2,15 +2,14 @@
 layout: ../../../layouts/Article.astro
 title: "HÀNH TRÌNH VÔ NAM"
 author: "Phan Tấn Công"
-source: "https://sachhiem.net/LICHSU/P/PhanTanCong_03.php"
+source: "/LICHSU/P/PhanTanCong_03"
 category: "Chính trị"
 lang: vi
 wordCount: 17099
-image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nha.jpg"
+image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/LICHSU/P/IMG/ChungChi_DienHoc.png"
 ---
 
-<p align="center"><a href="https://www.sachhiem.net/">
-<img border="0" src="https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nha.jpg"></a>10-Mar 
+<p align="center">10-Mar 
 -2026</p>
  <div class="tomluoc">
  

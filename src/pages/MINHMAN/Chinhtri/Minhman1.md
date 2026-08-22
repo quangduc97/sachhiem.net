@@ -2,15 +2,13 @@
 layout: ../../../layouts/Article.astro
 title: "MƯỜI GÓP Ý VỚI THƯ THỈNH NGUYỆN"
 author: "Minh Mẫn"
-source: "https://sachhiem.net/MINHMAN/Chinhtri/Minhman1.php"
+source: "/MINHMAN/Chinhtri/Minhman1"
 lang: vi
 wordCount: 3155
-image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nha.jpg"
 ---
 
 <table border="0" align="center" cellpadding="1" width="250"><tbody><tr>
-	<td width="110"><a href="https://www.sachhiem.net/">
-	<img border="0" src="https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nha.jpg"></a></td>
+	<td width="110"></td>
 	<td valign="top" style="text-align:right">  20&nbsp; tháng 8, 2007 </td></tr></tbody></table>
 <p><font face="Vivaldi" size="6">N</font>gày thứ hai, 11 tháng 9 năm 2006 
 	vừa qua, 10 vị Linh Mục đã ký tên vào thỉnh nguyện thư, gửi lên Hội Đồng Giám Mục Việt Nam. Danh sách gồm có:

@@ -3,7 +3,7 @@ layout: ../../../layouts/Article.astro
 title: "Tại Sao Tín Đồ Thiên Chúa Giáo Luôn Miệng \"Xin Cầu Nguyện?\""
 author: "Đồng Trần Tử"
 date: 2023-03-05
-source: "https://sachhiem.net/TONGIAO/FB/FBDongTranTu05.php"
+source: "/TONGIAO/FB/FBDongTranTu05"
 category: "Tác giả"
 lang: vi
 wordCount: 1061

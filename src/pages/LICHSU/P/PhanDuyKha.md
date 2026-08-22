@@ -3,7 +3,7 @@ layout: ../../../layouts/Article.astro
 title: "Người Chị Của Lãnh Tụ Cần Vương Phan Đình Phùng"
 author: "Phan Duy Kha"
 date: 2014-11-12
-source: "https://sachhiem.net/LICHSU/P/PhanDuyKha.php"
+source: "/LICHSU/P/PhanDuyKha"
 category: "Chính trị"
 lang: vi
 wordCount: 1828

@@ -2,14 +2,14 @@
 layout: ../../../layouts/Article.astro
 title: "Thuốc Mê Toà Khâm Sứ"
 author: "Quốc Thắng"
-source: "https://sachhiem.net/TONGIAO/TOAKHAM/QuocThang1.php"
+source: "/TONGIAO/TOAKHAM/QuocThang1"
 category: "Tác giả"
 lang: vi
 wordCount: 1238
-image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nha.jpg"
+image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/TONGIAO/IMG/Toakham/chuabt.jpg"
 ---
 
-<p align="center"><a href="https://sachhiem.net/index.php"><img border="0" hspace="20" src="https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nha.jpg"></a>
+<p align="center">
           02 tháng 2, 2008  </p>
 <p><i><a href="/TONGIAO/TOAKHAM/ LoiDau">Lời đầu của SH » </a></i></p>
        

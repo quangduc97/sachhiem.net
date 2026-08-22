@@ -3,7 +3,7 @@ layout: ../../../layouts/Article.astro
 title: "Lý Do Tại Sao Tôi Không Chống Cộng"
 author: "Đức Nguyễn"
 date: 2016-07-25
-source: "https://sachhiem.net/THOISU_CT/ChuD/DucNguyen.php"
+source: "/THOISU_CT/ChuD/DucNguyen"
 category: "Chính trị"
 lang: vi
 wordCount: 2100
@@ -137,8 +137,8 @@ Cuối cùng ngày 30/4/1975 phe CS thắng và CSMB thống nhất đất nư�
   <p class="TacgiaL">Đức Nguyễn  </p>
   <p>____________________</p>
   <p><b>Bài cùng tác giả:</b></p>
-  <p><a href="https://sachhiem.net/THOISU_CT/ChuD/DucNguyen03.php">- Chống Cộng Không Phải Chống Nhân Dân Đất Nước </a></p>
-  <p><a href="https://sachhiem.net/THOISU_CT/ChuD/DucNguyen02.php">- Tại Sao Nhiều Người Thích Qua Mỹ? </a></p>
-  <p><a href="https://sachhiem.net/THOISU_CT/ChuD/DucNguyen.php">- Lý Do Tại Sao Tôi Không Chống Cộng </a></p>
-  <p><a href="https://sachhiem.net/THOISU_CT/ChuD/DucNguyen01.php">- Lập Trường và Quan Điểm Của Tôi (Về Lý Do Không Chống Cộng)</a></p>
-  <p><a href="https://sachhiem.net/THOISU_CT/ChuD/DucNguyen04.php">- ÔN CỐ TRI TÂN </a></p>
+  <p><a href="/THOISU_CT/ChuD/DucNguyen03">- Chống Cộng Không Phải Chống Nhân Dân Đất Nước </a></p>
+  <p><a href="/THOISU_CT/ChuD/DucNguyen02">- Tại Sao Nhiều Người Thích Qua Mỹ? </a></p>
+  <p><a href="/THOISU_CT/ChuD/DucNguyen">- Lý Do Tại Sao Tôi Không Chống Cộng </a></p>
+  <p><a href="/THOISU_CT/ChuD/DucNguyen01">- Lập Trường và Quan Điểm Của Tôi (Về Lý Do Không Chống Cộng)</a></p>
+  <p><a href="/THOISU_CT/ChuD/DucNguyen04">- ÔN CỐ TRI TÂN </a></p>

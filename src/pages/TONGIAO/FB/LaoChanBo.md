@@ -3,7 +3,7 @@ layout: ../../../layouts/Article.astro
 title: "Yêu Cầu Đan Viện Thiên An Dừng Lấn Chiếm Đất Đai"
 author: "Lão Chăn Bò"
 date: 2020-08-14
-source: "https://sachhiem.net/TONGIAO/FB/LaoChanBo.php"
+source: "/TONGIAO/FB/LaoChanBo"
 category: "Chính trị"
 lang: vi
 wordCount: 618

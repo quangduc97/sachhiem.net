@@ -3,14 +3,14 @@ layout: ../../../layouts/Article.astro
 title: "Tuổi Thanh Xuân Bị Đánh Cắp!"
 author: "Phượng Vũ / Viễn Đông"
 date: 2016-03-14
-source: "https://sachhiem.net/XAHOI/T/TinVienDong.php"
+source: "/XAHOI/T/TinVienDong"
 category: "Chính trị"
 lang: vi
 wordCount: 4238
 image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/TONGIAO/IMG/TINHDUC/Spotlight_tuoixuan.jpg"
 ---
 
-<p><i>(Viết nhân dịp <a href="https://sachhiem.net/index.php?content=showrecipe&amp;id=6575">“Spotlight” đoạt giải phim xuất sắc Oscar</a> 2016</i>)</p>
+<p><i>(Viết nhân dịp <a href="/TONGIAO/tgS/Spotlight01">“Spotlight” đoạt giải phim xuất sắc Oscar</a> 2016</i>)</p>
  <div class="tomluoc">
    <p> <b><i>Lời dẫn: </i></b><i>Spotlight là phim xuất sắc của đạo diễn Tom McCarthy.  Bộ phim được dựng trên câu chuyện có thật về nhóm phóng viên Spotlight thuộc  tòa soạn Boston Globe. Họ khui ra scandal lạm dụng tình dục của các cha xứ tại  Boston, đã làm rúng động nước Mỹ trong những năm đầu thế kỷ XXI. Spotlight  thắng giải “Phim Hay Nhất” và “Kịch Bản Hay Nhất” và đoạt giải thưởng Pulitzer  2003 vì phục vụ cộng đồng... Và bây giờ bộ phim đã chinh phục hoàn toàn ban  giám khảo Oscar lần thứ 88 (2016)</i></p>
  </div>

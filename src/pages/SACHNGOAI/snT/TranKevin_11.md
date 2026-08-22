@@ -3,7 +3,7 @@ layout: ../../../layouts/Article.astro
 title: "Giáo Hoàng Francis Nói Rằng Thà Làm Một Người Vô Thần Hơn Là Một Tín Đồ Công Giáo Đạo Đức Giả"
 author: "Gulia Couch / DailyMail"
 date: 2017-02-24
-source: "https://sachhiem.net/SACHNGOAI/snT/TranKevin_11.php"
+source: "/SACHNGOAI/snT/TranKevin_11"
 category: "Tác giả"
 lang: vi
 wordCount: 708

@@ -3,7 +3,7 @@ layout: ../../../layouts/Article.astro
 title: "Bức Thư Ngỏ Chủ Tịch Foxconn Gửi Donald Trump"
 author: "Rajesh Pandey /Tạp Chí Hải Ngoại"
 date: 2016-12-10
-source: "https://sachhiem.net/THOISU_CT/ChuT/TapchiHN.php"
+source: "/THOISU_CT/ChuT/TapchiHN"
 category: "Chính trị"
 lang: vi
 wordCount: 767

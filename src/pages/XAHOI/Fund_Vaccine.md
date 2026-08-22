@@ -2,16 +2,14 @@
 layout: ../../layouts/Article.astro
 title: "Thư Của Tòa Tổng Lãnh Sự Việt Nam Ở San Francisco"
 author: "Cám Ơn Trang Nhà SH Đã Ủng Hộ Quỹ Vaccine Covid-19 Tại Việt Nam"
-source: "https://sachhiem.net/XAHOI/Fund_Vaccine.php"
+source: "/XAHOI/Fund_Vaccine"
 category: "Xã hội"
 lang: vi
 wordCount: 455
-image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nha.jpg"
+image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/XAHOI/IMG/CORONA/Camon_Vaccine_15Jun2021.jpg"
 ---
 
-<p align="center"><a href="https://www.sachhiem.net/"><img border="0" src="https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nha.jpg"></a> 
-</p>
- <p align="center"><img src="https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/XAHOI/IMG/CORONA/Camon_Vaccine_15Jun2021.jpg" width="659" height="779" alt=""></p> 
+<p align="center"><img src="https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/XAHOI/IMG/CORONA/Camon_Vaccine_15Jun2021.jpg" width="659" height="779" alt=""></p> 
 
 
 <p><span class="First">N</span>hân đây, chúng tôi cũng xin kêu gọi các mạnh thường quân ủng hộ chính phủ trong công việc phòng chống COVID-19, nạn dịch đang hành hạ khắp nơi trên thế giới.</p>

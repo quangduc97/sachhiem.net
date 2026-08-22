@@ -2,16 +2,15 @@
 layout: ../../../layouts/Article.astro
 title: "BANG GIAO “BẮC KINH – VATICAN” ??"
 author: "Trần Chung Ngọc"
-source: "https://sachhiem.net/index.php?content=showrecipe&id=420"
+source: "/TCN/TCNts/TCNts35"
 lang: vi
 wordCount: 13688
-image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nha.jpg"
 ---
 
 <p class="Tuaduoi">Một Kinh Nghiệm Quý Giá Cho Việt-Nam</p>
 
   
-<p align="center"><a href="/index"><img hspace="20" border="0" src="https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nha.jpg"></a>11 tháng 3,  2009</p>
+<p align="center">11 tháng 3,  2009</p>
 	
 	<p><i>LTS: Qua nhiều bài phân tích về Vatican và giáo hội Rô Ma đăng tải nhiều nơi và trong sachhiem.net, có hàng trăm ngàn lý do không nên thiết lập ngoại giao với triều đình Vatican, và không có lấy một lý do nào để thảo luận ngoại giao với cái cơ chế không phải đạo, không phải đức, một quốc gia không giống ai này. Cái tổ chức quái dị này đang bị Âu Tây ruồng bỏ.  Nhưng vấn đề cứ phải lập lại vì họ cứ đeo sát bám chặt như đĩa đói để được thu hồn hút vía những nước Á châu, nơi chưa biết nhiều về thành tích dã man của họ.  Bài viết sau đây tóm tắt lại những trọng điểm cần biết để cho Việt Nam còn có những ngày mai tươi đẹp.(SH) </i></p>
     <hr width="80%">
@@ -510,7 +509,7 @@ tin theo những gì giáo hội nhồi nhét vào đầu óc họ mà không t�
 thực chất “Đức Giê-su Ki Tô” là như thế nào. Đã có rất nhiều công cuộc nghiên 
 cứu về Giê-su, và mới đây tôi đã tóm tắt sơ lược những nét chính yếu về con 
 người thực của Giê-su [Xin đọc
-<a href="https://www.sachhiem.net/TCNtg/TCN64_Main.php">
+<a href="/TCNtg/TCN64_Main">
 https://www.sachhiem.net/TCNtg/ TCN64_Main.php</a>].</p>
 <p>Từ những kết quả nghiên cứu này, chúng ta không có một lý do nào để có thể tin 
 Giê-su là “Chúa Cứu Thế”. Các tín đồ Công giáo ở trong tình trạng thiếu hiểu 

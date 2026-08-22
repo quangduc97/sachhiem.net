@@ -2,15 +2,14 @@
 layout: ../../../layouts/Article.astro
 title: "PHẬT GIÁO - KI TÔ GIÁO ĐỐI CHIẾU"
 author: "Trần Chung Ngọc"
-source: "https://sachhiem.net/TCN/TCNtg/TCN56a.php"
+source: "/TCN/TCNtg/TCN56a"
 category: "Tác giả"
 lang: vi
 wordCount: 9995
-image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nha.jpg"
 ---
 
 <table border="0" align="center" width="250">
-<tbody><tr><td width="100"><a href="https://sachhiem.net/index.php"><img border="0" src="https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nha.jpg"></a></td>
+<tbody><tr><td width="100"></td>
 		<td>25 tháng 10, 2008</td>
 </tr></tbody></table>
    	<p><a href="/TCN/TCN56">&nbsp;0</a> &nbsp;<b>1</b>

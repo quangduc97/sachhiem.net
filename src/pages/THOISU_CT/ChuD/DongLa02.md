@@ -3,7 +3,7 @@ layout: ../../../layouts/Article.astro
 title: "Trước Bẫy “Hữu Nghị” Của “Bạn” Trung Quốc"
 author: "Đông La"
 date: 2014-06-19
-source: "https://sachhiem.net/THOISU_CT/ChuD/DongLa02.php"
+source: "/THOISU_CT/ChuD/DongLa02"
 category: "Chính trị"
 lang: vi
 wordCount: 1541

@@ -3,7 +3,7 @@ layout: ../../../layouts/Article.astro
 title: "Từ Tông Huấn Á Châu Của Giáo Hoàng Gioan Phaolồ II Đến Hịch Xuất Quân Của Vua Quang Trung"
 author: "Trí Tánh ĐHT"
 date: 2015-01-23
-source: "https://sachhiem.net/TONGIAO/tgTR/TriTanhDHT02.php"
+source: "/TONGIAO/tgTR/TriTanhDHT02"
 category: "Chính trị"
 lang: vi
 wordCount: 8365
@@ -210,11 +210,11 @@ Subject:<br></p>
   <p>________________ </p>
   <p><b>Cùng đề tài:</b></p>
   <p>- Nhận Định Về Văn Kiện “Tông Huấn Giáo Hội Tại Châu Á” (Ngô triệu Lịch)
-<a href="https://sachhiem.net/TONGIAO/tgN/NgoTrieuLich.php">https://sachhiem.net/TONGIAO/tgN/NgoTrieuLich.php</a></p>
+<a href="/TONGIAO/tgN/NgoTrieuLich">https://sachhiem.net/TONGIAO/tgN/NgoTrieuLich.php</a></p>
   <p>- Vài Ý Kiến Về Vấn Đề Bang Giao Với Vatican (Trần Chung Ngọc)<br>
-    <a href="https://sachhiem.net/TCN/TCNts/TCNts34.php">https://sachhiem.net/TCN/TCNts/TCNts34.php</a></p>
+    <a href="/TCN/TCNts/TCNts34">https://sachhiem.net/TCN/TCNts/TCNts34.php</a></p>
   <p>- Từ Tông Huấn Á Châu Của Giáo Hoàng Gioan Phaolồ II Đến Hịch Xuất Quân Của Vua Quang Trung (Trí Tánh ĐHT)<br>
     <a href="/TONGIAO/tgTR/TriTanhDHT02">https://sachhiem.net/TONGIAO/tgTR/TriTanhDHT02.php</a>  </p>
   <p>- Tâm Thư Gửi Nhà Nước Việt Nam (Nguyễn Mạnh Quang)<br>
-    <a href="https://sachhiem.net/NMQ/TAMTHU/NMQtt_Main.php">https://sachhiem.net/NMQ/TAMTHU/NMQtt_Main.php</a> 
+    <a href="/NMQ/TAMTHU/NMQtt_Main">https://sachhiem.net/NMQ/TAMTHU/NMQtt_Main.php</a> 
   </p>

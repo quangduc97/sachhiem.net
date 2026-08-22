@@ -3,16 +3,15 @@ layout: ../../../layouts/Article.astro
 title: "VỤ ÁN NGUYỄN VĂN LÝ"
 author: "Trần Chung Ngọc"
 date: 2011-10-10
-source: "https://sachhiem.net/nguồn https://giaodiemonline.com/2007/04/vuan.htm"
+source: "/nguồn https://giaodiemonline.com/2007/04/vuan.htm"
 category: "Đối thoại"
 lang: vi
 wordCount: 13678
-image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nha.jpg"
 ---
 
 <table border="0" width="250" align="center">
     <tbody><tr>
-    <td width="143"><a href="https://sachhiem.net/index.php"><img border="0" src="https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nha.jpg"></a>    </td>  <td>  </td></tr></tbody></table>
+    <td width="143">    </td>  <td>  </td></tr></tbody></table>
 
 <p><span class="first">
 <b>V</b></span>ụ án Nguyễn Văn Lý <i>[trong bài này tôi không viết lên  															chức vụ Linh mục  															của Nguyễn Văn  															Lý vì người bị  															truy tố trước  															tòa án không  															phải là “linh  															mục Nguyễn Văn  															Lý” mà là một  															công dân Việt  															Nam bị cáo là  															phạm tội vi phạm  															luật pháp quốc  															gia, và tôi cũng  															tin rằng công an  															Huế không bao  															giờ lại bắt giữ  															và truy tố một  															“Chúa thứ hai”  															(alter christus)  															trong người tràn  															đầy Thánh Linh  															của giáo hội  															Công giáo.&nbsp;Vả  															chăng, trước  															vành móng ngựa  															không có linh  															mục,&nbsp;không có  															địa vị, chức  															tước v..v.., chỉ  															có bị cáo trước  															quan tòa với một  															cáo trạng] </i> 															đã làm sôi nổi  															dư luận hải  															ngoại vì tấm ảnh  															“bịt miệng”, tuy  															rằng chẳng có ai  															đặt vấn đề tại  															sao công an phải  															bịt miệng Nguyễn  															Văn Lý.</p>

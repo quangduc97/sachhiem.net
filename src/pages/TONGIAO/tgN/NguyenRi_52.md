@@ -3,7 +3,7 @@ layout: ../../../layouts/Article.astro
 title: "Buôn Thần Bán Thánh-"
 author: "Ri Nguyễn"
 date: 2021-04-14
-source: "https://sachhiem.net/TONGIAO/tgN/NguyenRi_52.php"
+source: "/TONGIAO/tgN/NguyenRi_52"
 category: "Tác giả"
 lang: vi
 wordCount: 1887
@@ -81,4 +81,4 @@ image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/SACHNGOAI/Hinhanh/BI
 <p>Cứ nhìn vào tấm hình  trên ta thấy Giáo Hoàng ngồi gục mặt thật là tội nghiệp. Có lẽ ông cảm thấy tủi  hổ cho cái giáo hội ông đang cai quản và được Con Chiên Việt Nam gọi là “Giáo  hội Tông Truyền”  Ông phải thốt lên “Thật là buồn tủi khi biết các Linh  Mục, Giám Mục CHẠY THEO TIỀN”</p>
 <p>_____________________</p>
  <p>Các bài của Nguyễn Ri: </p>
- <p> <a href="https://sachhiem.net/TONGIAO/tgN/ListRiNguyen.inc.php" target="_blank">https://sachhiem.net/TONGIAO/tgN/ListRiNguyen.inc.php</a></p>
+ <p> <a href="/TONGIAO/tgN/ListRiNguyen.inc" target="_blank">https://sachhiem.net/TONGIAO/tgN/ListRiNguyen.inc.php</a></p>

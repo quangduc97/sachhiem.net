@@ -3,7 +3,7 @@ layout: ../../../layouts/Article.astro
 title: "Vì sao người dân phản đối đặt tên đường Alexandre de Rhodes?"
 author: "Nguyên Phú"
 date: 2019-12-04
-source: "https://sachhiem.net/TONGIAO/tgN/NguyenPhu.php"
+source: "/TONGIAO/tgN/NguyenPhu"
 category: "Chính trị"
 lang: vi
 wordCount: 768

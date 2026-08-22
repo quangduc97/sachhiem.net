@@ -3,7 +3,7 @@ layout: ../../../layouts/Article.astro
 title: "Bộ phim tư liệu “Những Bí Mật của Vatican”:"
 author: "Phạm Thanh Trúc"
 date: 2014-03-12
-source: "https://sachhiem.net/TONGIAO/tgP/PhThTruc4.php"
+source: "/TONGIAO/tgP/PhThTruc4"
 category: "Tác giả"
 lang: vi
 wordCount: 1100

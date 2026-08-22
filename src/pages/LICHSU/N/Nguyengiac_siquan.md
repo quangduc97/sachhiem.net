@@ -3,7 +3,7 @@ layout: ../../../layouts/Article.astro
 title: "Linh Mục Của TT Diệm Kể Với GS Fishel:"
 author: "Nguyên Giác dịch"
 date: 2013-09-30
-source: "https://sachhiem.net/LICHSU/N/Nguyengiac_siquan.php"
+source: "/LICHSU/N/Nguyengiac_siquan"
 category: "Lịch sử"
 lang: vi
 wordCount: 1458

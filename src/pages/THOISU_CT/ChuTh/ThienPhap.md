@@ -3,7 +3,7 @@ layout: ../../../layouts/Article.astro
 title: "TÌNH BÁO VÀ TÔN GIÁO"
 author: "Thiện Pháp"
 date: 2014-04-21
-source: "https://sachhiem.net/THOISU_CT/ChuTh/ThienPhap.php"
+source: "/THOISU_CT/ChuTh/ThienPhap"
 category: "Tác giả"
 lang: vi
 wordCount: 1529
@@ -74,4 +74,4 @@ image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/SACHNGOAI/Hinhanh/BI
   <p><b>Bài đọc thêm:</b></p>
   <p>- <i>Tội Diệt Chủng Và Hủy Diệt Nền Văn Hóa Bản Địa Của Các Nhà Truyền Giáo</i> -
 Pascal’s Wagner /Nguyễn Trí Cảm dịch<br>
-<a href="https://sachhiem.net/TONGIAO/NGTRCAM/NguyenTriCam29.php">https://sachhiem.net/TONGIAO/NGTRCAM/NguyenTriCam29.php</a></p>
+<a href="/TONGIAO/NGTRCAM/NguyenTriCam29">https://sachhiem.net/TONGIAO/NGTRCAM/NguyenTriCam29.php</a></p>

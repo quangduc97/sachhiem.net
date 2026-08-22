@@ -1,7 +1,7 @@
 ---
 layout: ../../../layouts/Article.astro
 title: "Cáo Phó Cụ Trần Văn Kha"
-source: "https://sachhiem.net/XAHOI/CHIABUON/Caopho02.php"
+source: "/XAHOI/CHIABUON/Caopho02"
 category: "Xã hội"
 lang: vi
 wordCount: 0

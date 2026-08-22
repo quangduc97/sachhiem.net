@@ -3,7 +3,7 @@ layout: ../../../layouts/Article.astro
 title: "Thế Giới Ngày Hôm Nay"
 author: "Đào Văn Bình"
 date: 2012-12-22
-source: "https://sachhiem.net/DAOVB/VH/DaovBinh_thegioi.php"
+source: "/DAOVB/VH/DaovBinh_thegioi"
 category: "Văn hóa"
 lang: vi
 wordCount: 582

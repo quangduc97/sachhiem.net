@@ -3,7 +3,7 @@ layout: ../../../layouts/Article.astro
 title: "Những Tội Ác của Vatican Trong Thế Kỷ 20"
 author: "TP Thanh Tâm"
 date: 2020-10-01
-source: "https://sachhiem.net/TONGIAO/tgP/PThanhTam.php"
+source: "/TONGIAO/tgP/PThanhTam"
 category: "Tác giả"
 lang: vi
 wordCount: 5988

@@ -2,18 +2,16 @@
 layout: ../../layouts/Article.astro
 title: "Vu Vạ Cá Nhân"
 author: "Huỳnh Bất Hoặc"
-source: "https://sachhiem.net/HOANGNN/Hoang00_3.php"
+source: "/HOANGNN/Hoang00_3"
 category: "Chính trị"
 lang: vi
 wordCount: 7479
-image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nha.jpg"
 ---
 
 <p class="Tuaduoi">Chứ Không Đấu Lý Hay Tranh Luận </p>
 
  
-<p align="center"><a href="https://www.sachhiem.net/">
-	<img border="0" src="https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nha.jpg"></a>24&nbsp; tháng 8, 2007</p>
+<p align="center">24&nbsp; tháng 8, 2007</p>
 <p>
 <b>
 <font size="3" color="#800000">Lếu Láo!</font></b></p>

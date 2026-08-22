@@ -3,7 +3,7 @@ layout: ../../../layouts/Article.astro
 title: "Quan Tòa Phán Quyết Rằng"
 author: "Theo AFP 8-4-2016"
 date: 2016-04-09
-source: "https://sachhiem.net/SACHNGOAI/SH/SH3.php"
+source: "/SACHNGOAI/SH/SH3"
 category: "Chính trị"
 lang: vi
 wordCount: 1154

@@ -3,7 +3,7 @@ layout: ../../../layouts/Article.astro
 title: "Nhà Nước Hồi Giáo và Việt Nam"
 author: "Thomas L. Friedman/ Nguyễn Ri dịch"
 date: 2014-12-10
-source: "https://sachhiem.net/TONGIAO/tgN/NguyenRi_11.php"
+source: "/TONGIAO/tgN/NguyenRi_11"
 category: "Tác giả"
 lang: vi
 wordCount: 1414
@@ -39,4 +39,4 @@ image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/THOISU_CT/Hinh/HOAKY
 <p class="TacgiaL">Nguyễn Ri dịch</p>
 <p class="nguonL">Nguồn <a href="https://news.yahoo.com/poll-latin-america-catholics-steadily-leave-faith-050615912.html">https://news.yahoo.com/poll-latin-america-catholics-steadily-leave-faith-050615912.html</a>&nbsp;&nbsp;</p>
 __________________
- <p>Các bài của Nguyễn Ri: link <a href="https://sachhiem.net/TONGIAO/tgN/ListRiNguyen.inc.php" target="_blank">https://sachhiem.net/TONGIAO/tgN/ListRiNguyen.inc.php</a></p>
+ <p>Các bài của Nguyễn Ri: link <a href="/TONGIAO/tgN/ListRiNguyen.inc" target="_blank">https://sachhiem.net/TONGIAO/tgN/ListRiNguyen.inc.php</a></p>

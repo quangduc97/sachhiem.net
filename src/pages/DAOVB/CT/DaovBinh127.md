@@ -3,7 +3,7 @@ layout: ../../../layouts/Article.astro
 title: "Nhật Ký Biển Đông: Venezuela- Một Syria Thứ Hai?"
 author: "Đào Văn Bình"
 date: 2019-02-02
-source: "https://sachhiem.net/DAOVB/CT/DaovBinh124.php"
+source: "/DAOVB/CT/DaovBinh124"
 category: "Chính trị"
 lang: vi
 wordCount: 3774

@@ -3,15 +3,15 @@ layout: ../../../layouts/Article.astro
 title: "về bài “Lại chuyện cáo già Vatican”"
 author: "Lan Viên"
 date: 2012-03-16
-source: "https://sachhiem.net/THLOI/CT/ThienLoi10.php"
+source: "/THLOI/CT/ThienLoi10"
 category: "Chính trị"
 lang: vi
 wordCount: 1360
-image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nha.jpg"
+image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/Fox.jpg"
 ---
 
 <table border="0" cellpadding="0" width="250" align="center"><tbody><tr>
-	<td width="125"><a href="/index"><img border="0" src="https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nha.jpg"></a></td>
+	<td width="125"></td>
     <td valign="top">16-Mar-2012</td>
 		</tr></tbody></table>
 <div class="tomluoc">
@@ -22,7 +22,7 @@ dấu “ngã”, có chỗ viết chữ NGHỈ dấu “hỏi”. Cải nhau ch
 về “gốc La-tinh” không ra, tìm về chữ Nôm thì không còn ai đọc được, vậy phải
 làm sao?</b> (LV)</p>
 </div>
-<p>Dẫn bài: <a href="https://sachhiem.net/THLOI/CT/ThienLoi8.php">Lại Chuyện
+<p>Dẫn bài: <a href="/THLOI/CT/ThienLoi8">Lại Chuyện
 		      Con Cáo Già Va-Thì-Căng</a> (Thiên Lôi)</p>
 	      <p align="center"><b><img src="https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/Fox.jpg" width="150" height="108">-*-</b></p>
 <p> <span class="First">N</span>ày Thiên Lôi (TL)</p>
@@ -47,7 +47,7 @@ làm sao?</b> (LV)</p>
 	        làm chủ Nam Việt. kết duyên cùng Long nữ Hồng Đăng Ngàn, con gái Động
 	        Đình Quân, sinh ra Lạc Long Quân, húy là Sùng Lãm. Lạc Long Quân lấy
 	        con gái Đế Lai là nàng Âu Cơ, sinh ra trăm con trai từ một bọc trứng,
-	        ấy là thủy tổ của Bách Việt vậy</i>” <a href="https://sachhiem.net/VANHOC/TVHAC/Vanhac01.php">(Ngọc
+	        ấy là thủy tổ của Bách Việt vậy</i>” <a href="/VANHOC/TVHAC/Vanhac01">(Ngọc
 	        phả Liệt Vị Đại Vương - La Nội, Hà Tây).</a> </p>
 <p>
 	        Sự kiện này cũng được chép trong Ngọc phả đền: “<i>Tứ Lạc Long Quân
@@ -79,7 +79,7 @@ làm sao?</b> (LV)</p>
 	        vẫn hiểu nhầm như vậy (cũng như chúng ta vẫn hiểu nhầm một số sự
 	        kiện lịch sử khác) mà không được ai có trách nhiệm chỉ ra để các
 	        thế hệ hiểu đúng về dân tộc mình.) (Trích trong bài “Gửi người tạc tượng
-	        Alexandre De Rhodes của&nbsp; TRẦN VÂN HẠC trên sachhiem.net 16-10-2009 <a href="https://sachhiem.net/VANHOC/TVHAC/Vanhac01.php">https://sachhiem.net/VANHOC/TVHAC/Vanhac01.php</a>)</p>
+	        Alexandre De Rhodes của&nbsp; TRẦN VÂN HẠC trên sachhiem.net 16-10-2009 <a href="/VANHOC/TVHAC/Vanhac01">https://sachhiem.net/VANHOC/TVHAC/Vanhac01.php</a>)</p>
 	      <p class="TuaDenLeft"><b>-Năm 2012:-</b>.&nbsp; </p>
 	      <p>Có cuộc họp vòng 3 của nhóm Công tác Hỗn hợp Việt Nam
 	        – Vatican đã diễn ra tại Hà Nội từ ngày 27-28 tháng 2, thì trước

@@ -2,11 +2,10 @@
 layout: ../../../layouts/Article.astro
 title: "Rhodes đã làm gì cho Việt Nam"
 author: "Trần Quý"
-source: "https://sachhiem.net/null"
+source: "/null"
 category: "Lịch sử"
 lang: vi
 wordCount: 21372
-image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nha.jpg"
 ---
 
 <div align="center">
@@ -24,8 +23,7 @@ image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nha.jpg"
 <tr> <td> 
 			<div style="padding-left: 50px; padding-right: 50px">
 			<table border="0" cellpadding="10" width="600"><tbody><tr>
-			<td><a href="/index">
-			<img border="0" src="https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nha.jpg"></a></td>
+			<td></td>
 			<td valign="top" style="text-align:right">10 tháng 1, 2011</td></tr></tbody></table>
 						
 			<i>

@@ -3,7 +3,7 @@ layout: ../../../layouts/Article.astro
 title: "Nhóm Khởi Xướng “Cuộc Cách Mạng Nhân Vị”:"
 author: "Vĩnh Long dịch"
 date: 2016-06-04
-source: "https://sachhiem.net/SACHNGOAI/snT/TranKevin_04.php"
+source: "/SACHNGOAI/snT/TranKevin_04"
 category: "Chính trị"
 lang: vi
 wordCount: 6035

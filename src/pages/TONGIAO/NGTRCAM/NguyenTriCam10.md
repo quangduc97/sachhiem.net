@@ -2,17 +2,17 @@
 layout: ../../../layouts/Article.astro
 title: "Sự “thống hối” của Giáo hoàng"
 author: "Nguyễn Trí Cảm chuyển ngữ"
-source: "https://sachhiem.net/TONGIAO/NGTRCAM/NguyenTriCam10.php"
+source: "/TONGIAO/NGTRCAM/NguyenTriCam10"
 category: "Tác giả"
 lang: vi
 wordCount: 2624
-image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nha.jpg"
+image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/TONGIAO/IMG/VATICAN/POPE/ApologyJP.gif"
 ---
 
 <p class="Tuaduoi">cái mắc cười bể bụng đầu tiên của Thiên niên kỷ mới</p>
 		
 
-     <p align="center"><a href="https://sachhiem.net/index.php"><img hspace="20" border="0" src="https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nha.jpg"></a> 07 tháng 6, 2009 </p>
+     <p align="center"> 07 tháng 6, 2009 </p>
 			<p><b>Nhân loại phải cảnh giác sự lừa gạt bằng những giọt nước mắt	cá sấu của Giáo hội Công giáo La Mã, những giọt nước mắt xem có vẻ	như hối hận những việc làm trong quá khứ, và tỏ ra vẻ ăn năn, hối	hận: họ hối hận cho một mục đích cụ thể, giống như những phép lạ	ngụy tạo của Giáo hội– để mê hoặc những ai thiếu cảnh giác gia nhập	vào bầy chiên (fold) của Giáo hội.</b></p>
 			<p style="text-align: right"><b>Professor Arthur Noble</b></p>
 			<p><span class="First">G</span>iáo hoàng đã thực hiện những gì mà các nhà truyền giáo của	Vatican và những nhân viên vận động Thống nhất Giáo hội gọi là một	yêu cầu lịch sử, xin được tha thứ cho những tội lỗi đã gây ra trong	quá khứ của Giáo hội Công giáo La mã, bao gồm cả việc đối xử với	người Do thái, “kẻ dị giáo” và phụ nữ. Giáo hoàng cũng tìm kiếm sự	tha thứ cho việc sử dụng “bạo lực trong việc phục vụ chân lý” – ý ám	chỉ đến Tòa án xử dị giáo, các cuộc Thánh chiến và cưỡng bức người	“bản địa” đổi đạo.</p>

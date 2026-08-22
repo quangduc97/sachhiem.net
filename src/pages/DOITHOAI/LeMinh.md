@@ -2,7 +2,7 @@
 layout: ../../layouts/Article.astro
 title: "Đáp Thư Của Người Em Họ"
 author: "Lê Minh"
-source: "https://sachhiem.net/null"
+source: "/null"
 category: "Chính trị"
 lang: vi
 wordCount: 22147

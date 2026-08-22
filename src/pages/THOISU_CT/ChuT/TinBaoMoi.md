@@ -3,7 +3,7 @@ layout: ../../../layouts/Article.astro
 title: "\"Trung Quốc\" đừng mơ trở thành \"Mỹ Quốc\""
 author: "Phạm Khánh /Báo Mới"
 date: 2014-07-03
-source: "https://sachhiem.net/THOISU_CT/ChuT/TinBaoMoi.php"
+source: "/THOISU_CT/ChuT/TinBaoMoi"
 category: "Chính trị"
 lang: vi
 wordCount: 700

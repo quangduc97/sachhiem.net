@@ -3,16 +3,16 @@ layout: ../../../layouts/Article.astro
 title: "Bầu Cử 2012: So Sánh Sai Biệt"
 author: "Ng. Tiên Tri"
 date: 2012-11-03
-source: "https://sachhiem.net/THOISU_CT/ChuN/NgTienTri04.php"
+source: "/THOISU_CT/ChuN/NgTienTri04"
 category: "Chính trị"
 lang: vi
 wordCount: 1663
-image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nha.jpg"
+image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/THOISU_CT/Hinh/HOAKY/Obama_vs_Romney.jpg"
 ---
 
 <table border="0" cellpadding="0" width="250" align="center">
             <tbody><tr>
-              <td width="125"><a href="/index"><img border="0" src="https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nha.jpg"></a></td>
+              <td width="125"></td>
               <td valign="middle"> 03-Nov-2012</td>
             </tr>
           </tbody></table>
@@ -151,7 +151,7 @@ image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nha.jpg"
           <p>1.)  - <a href="/THOISU_CT/ChuN/NgTienTri02">Ghi
               tên và Đi Bầu Để Bảo Vệ Quyền Lợi Chính Đáng Của Mình</a> - <i>Ng.
               Tiên Tri</i></p>
-          <p>2.)  - <a href="/index.php?content=showemail&amp;id=137">Quan
+          <p>2.)  - <a href="/hop-thu/137">Quan
               Trọng: Mỹ gốc Việt, trước khi bỏ phiếu </a>- <i>Evelyn Bui </i></p><i>
           <p>3.) - <a href="/TTL/TranTL29">Những Ý Kiến Nghiêm
               Chỉnh Cho Kỳ Bầu Cử Tổng Thống Sắp Tới (2012)</a>(Trần Tiên Long) </p>

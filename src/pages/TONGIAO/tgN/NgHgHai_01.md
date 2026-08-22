@@ -3,7 +3,7 @@ layout: ../../../layouts/Article.astro
 title: "Làm Quen Những Người Bước Ra Khỏi Cơn Mê"
 author: "Nguyễn Hồng Hải"
 date: 2018-05-14
-source: "https://sachhiem.net/TONGIAO/tgN/NgHgHai_01.php"
+source: "/TONGIAO/tgN/NgHgHai_01"
 category: "Tác giả"
 lang: vi
 wordCount: 2625
@@ -33,7 +33,7 @@ image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/MISC/QuaConMe
  <p align="center">__________________ </p>
  <p class="MUC"><b>Phụ Đính:</b> </p>
  <p><b>Thư Huỳnh Anh làm quen với anh Quý Long - và thư hồi âm </b></p>
- <p><b> </b><a href="https://sachhiem.net/index.php?content=showemail&amp;id=2576"> https://sachhiem.net/index.php?content=showemail&amp;id=2576</a></p>
+ <p><b> </b><a href="/hop-thu/2576"> https://sachhiem.net/index.php?content=showemail&amp;id=2576</a></p>
   <p><i>LTS: Xin gới thiệu một lá thư làm quen rất  chân thật và không kém phần hấp dẫn. Trang nhà xin chia sẻ niềm vui này với tác  giả Trần Tiên Long. (SH)</i><br>
     _________________<br>
     Subject: RE:_Thư_làm_quen<br>

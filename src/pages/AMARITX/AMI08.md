@@ -3,7 +3,7 @@ layout: ../../layouts/Article.astro
 title: "Hiến Pháp – Mặt Hàng Xuất Khẩu Đáng Giá Của Hoa Kỳ"
 author: "By Albert P. Blaustein"
 date: 2013-02-26
-source: "https://sachhiem.net/AMARITX/AMI08.php"
+source: "/AMARITX/AMI08"
 category: "Chính trị"
 lang: vi
 wordCount: 1909

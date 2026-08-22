@@ -3,7 +3,7 @@ layout: ../../../layouts/Article.astro
 title: "Tổng Thống Của Chúng Ta - Những suy nghĩ chưa ai nói."
 author: "Giao Chỉ"
 date: 2020-01-08
-source: "https://sachhiem.net/THOISU_CT/ChuG/Giaochi_02.php"
+source: "/THOISU_CT/ChuG/Giaochi_02"
 category: "Chính trị"
 lang: vi
 wordCount: 3654

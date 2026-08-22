@@ -3,7 +3,7 @@ layout: ../../../layouts/Article.astro
 title: "Tại Sao Tôi Chống Công Giáo"
 author: "Trần Chung Ngọc"
 date: 2012-02-02
-source: "https://sachhiem.net/TCN/TCNtg/TCN57a.php"
+source: "/TCN/TCNtg/TCN57a"
 lang: vi
 wordCount: 25568
 ---

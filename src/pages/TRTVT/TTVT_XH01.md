@@ -2,16 +2,16 @@
 layout: ../../layouts/Article.astro
 title: "Chào Em, Sydney"
 author: "Trần Thị Vĩnh-Tường"
-source: "https://sachhiem.net/TRTVT/TTVT_XH01.php"
+source: "/TRTVT/TTVT_XH01"
 category: "Xã hội"
 lang: vi
 wordCount: 712
-image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nha.jpg"
+image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/XAHOI/IMG/UcChau/Sydney01.jpg"
 ---
 
 <table border="0" cellpadding="0" width="250" align="center">
             <tbody><tr>
-              <td width="125"><a href="/index"><img border="0" src="https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nha.jpg"></a></td>
+              <td width="125"></td>
 							<td valign="top">
 							<p style="text-align: right">18 tháng 2, 2011</p></td>
 						</tr>

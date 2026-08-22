@@ -3,7 +3,7 @@ layout: ../../layouts/Article.astro
 title: "Sự Bất Lương Khi Trích Dẫn"
 author: "Trần Tiên Long"
 date: 2012-01-01
-source: "https://sachhiem.net/TTL/TranTL14.php"
+source: "/TTL/TranTL14"
 category: "Tác giả"
 lang: vi
 wordCount: 1974
@@ -17,7 +17,7 @@ image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/CANHDEP/Decor
 <p align="center"><img src="https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/CANHDEP/Decoration.jpg" width="161" height="107"></p>
 
 <p><span class="First">T</span>ôi đọc
-    tiếp bài của ông <a href="https://sachhiem.net/TTL/TranTL12.php">Đặng Thúy BN 587, <i>Chữ “Súc Vật” Với Anh Trần Tiên Long</i></a>,
+    tiếp bài của ông <a href="/TTL/TranTL12">Đặng Thúy BN 587, <i>Chữ “Súc Vật” Với Anh Trần Tiên Long</i></a>,
     và nhận ra toàn bộ bài cũng vẫn là chính yếu trích dẫn một câu văn ra ngoài
     văn cảnh để giải thích theo thành kiến chủ quan, có ác ý, cho mục đích mạt
     sát biện. Tôi không tin ông ĐT không đủ trình độ để hiểu một vấn đề rất đơn

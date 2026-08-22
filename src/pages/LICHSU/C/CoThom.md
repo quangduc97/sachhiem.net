@@ -3,7 +3,7 @@ layout: ../../../layouts/Article.astro
 title: "Từ Tháng 4/1960, Nhóm Caravelle Đã Cảnh Cáo Ông Diệm"
 author: "Cỏ Thơm/GiaodiemOnline"
 date: 2013-07-21
-source: "https://sachhiem.net/LICHSU/C/CoThom.php"
+source: "/LICHSU/C/CoThom"
 category: "Tác giả"
 lang: vi
 wordCount: 7140

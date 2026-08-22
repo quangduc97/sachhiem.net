@@ -3,7 +3,7 @@ layout: ../../layouts/Article.astro
 title: "Qua Ý Kiến Về Thánh Kinh"
 author: "Sâm Nguyễn"
 date: 2013-01-30
-source: "https://sachhiem.net/DOITHOAI/Samng01.php"
+source: "/DOITHOAI/Samng01"
 category: "Đối thoại"
 lang: vi
 wordCount: 1887
@@ -54,4 +54,4 @@ image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/TONGIAO/IMG/BIBLE/co
 
 <p><b>Bài đọc thêm</b></p>
      <p>- <a href="/DOITHOAI/Samng">Thảo Luận: Thánh Kinh Và Giá Trị Đạo Đức -Nhân Lá Thư Của Mục Sư Nguyễn Quang Minh </a></p>
-     <p>- <a href="https://sachhiem.net/TONGIAO/tgT/TinFox.php">Các Nhà Chức Trách Hồng Kông Toan Tính Xếp Kinh Thánh Vào Loại Phi Luân,  https://sachhiem.net/TONGIAO/tgT/TinFox.php</a></p>
+     <p>- <a href="/TONGIAO/tgT/TinFox">Các Nhà Chức Trách Hồng Kông Toan Tính Xếp Kinh Thánh Vào Loại Phi Luân,  https://sachhiem.net/TONGIAO/tgT/TinFox.php</a></p>

@@ -2,7 +2,7 @@
 layout: ../../../layouts/Article.astro
 title: "Rơi Mặt Nạ"
 author: "Chu văn trình"
-source: "https://sachhiem.net/CHUVTR/ROIMATNA/RoiMatNa_Main.php"
+source: "/CHUVTR/ROIMATNA/RoiMatNa_Main"
 lang: vi
 wordCount: 4
 ---
@@ -19,7 +19,7 @@ wordCount: 4
 	 <iframe name="RMN" src="/CHUVTR/ROIMATNA/RoiMatNa0.php" width="100%" height="2400" marginwidth="5" marginheight="5" hspace="0" vspace="0" frameborder="0" scrolling="auto" target="_blank"></iframe> 
  </td> </tr>
 <tr>
-  <td colspan="2"> <a href="https://sachhiem.net/CHUVTR/ROIMATNA/RoiMatNa_Main.php"> 
+  <td colspan="2"> <a href="/CHUVTR/ROIMATNA/RoiMatNa_Main"> 
       <p class="trang">Trang Chu Văn Trình </p>  </a>
 </td></tr>
 </tbody></table>

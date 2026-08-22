@@ -3,7 +3,7 @@ layout: ../../../layouts/Article.astro
 title: "Tổng Thống Diệm Sát Hại Đối Lập?"
 author: "Nguyễn Tường Tâm/ DCV"
 date: 2015-10-29
-source: "https://sachhiem.net/LICHSU/N/NguyenTgTam.php"
+source: "/LICHSU/N/NguyenTgTam"
 category: "Chính trị"
 lang: vi
 wordCount: 1290
@@ -38,6 +38,6 @@ image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/LICHSU/IMG/NGODD/Dac
   <p align="center">Hải Vận hạm <b>Hàn Giang HQ 401 </b></p>
   <hr>
     <p><b>Mời đọc thêm: </b></p>
-  <p>- <a href="https://sachhiem.net/DOITHOAI/Gopgio.php">Ác Đến Độ Khó Tin: Mật Lệnh cho Phi Công Huỳnh Minh Đường</a> (Góp Gió)</p>
-  <p><a href="https://sachhiem.net/LICHSU/TR/TranKevin.php">- Đại Uý Không Quân Huỳnh Minh Đường Có Bay Qua Cambốt Không?</a> (Kevin Trần)</p>
-  <p><a href="https://sachhiem.net/LICHSU/G/GopGio.php">- Một điển hình tàn ác của nhà Ngô</a> (Góp Gió)</p>
+  <p>- <a href="/DOITHOAI/Gopgio">Ác Đến Độ Khó Tin: Mật Lệnh cho Phi Công Huỳnh Minh Đường</a> (Góp Gió)</p>
+  <p><a href="/LICHSU/TR/TranKevin">- Đại Uý Không Quân Huỳnh Minh Đường Có Bay Qua Cambốt Không?</a> (Kevin Trần)</p>
+  <p><a href="/LICHSU/G/GopGio">- Một điển hình tàn ác của nhà Ngô</a> (Góp Gió)</p>

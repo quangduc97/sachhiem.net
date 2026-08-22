@@ -3,7 +3,7 @@ layout: ../../layouts/Article.astro
 title: "Chuyện Máu Thánh Januarius Hóa Lỏng -"
 author: "Lý Thái Xuân"
 date: 2020-05-13
-source: "https://sachhiem.net/LTX/LyThaiKH28.php"
+source: "/LTX/LyThaiKH28"
 category: "Khoa học"
 lang: vi
 wordCount: 1480

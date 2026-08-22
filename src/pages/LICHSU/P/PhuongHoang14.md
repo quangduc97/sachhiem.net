@@ -3,7 +3,7 @@ layout: ../../../layouts/Article.astro
 title: "Những Chuyện Kể Của PHGV"
 author: "Phượng Hoàng GV"
 date: 2017-03-20
-source: "https://sachhiem.net/LICHSU/P/PhuongHoang14.php"
+source: "/LICHSU/P/PhuongHoang14"
 category: "Lịch sử"
 lang: vi
 wordCount: 6719
@@ -39,7 +39,7 @@ image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/LICHSU/IMG/NGODD/Ngo
 <p>Chúng ta nên đặt câu hỏi  đơn giản "<i>Tại sao  Cộng sản không đón hay bắt sống Ngô Đình Diệm,  Ngô Đình Nhu hay Huỳnh Văn Lang  trong những đêm dài ngủ tại Ban Mê Thuột"</i>?</p>
 <p>  Trong khi đó, trung tá <b><i>Hoàng-Thụy  Năm</i></b>  bị VC (xem<a href="https://nhandanvietnam.org/view.php?storyid=813"> NGÀN NĂM SOI MẶT:
 Cái Chết Của Một Hàng Tướng: DƯƠNG VĂN MINH</a>) bắt giết vào ngày chúa nhật- năm 1961.  Thường lệ, ông đi nhà thờ xong… thì lái xe đi đến dinh cơ nghĩ ngơi tại Lái Thiêu  – có nhiều dinh cơ nghỉ ngơi cùa VIP chính phủ Diệm,  sát bờ sông Saigon - câu cá  hay lái ca nô nhanh trên sông Saigon.  Ông bị VC bắt đem đi thủ tiêu. Chính phủ  Diệm truy tặng ông chức Đại Tá  với mấy chữ “<b><i>Hy Sinh Cho Tổ Quốc</i></b>”,  tặng Bảo Quốc Huân Chương cho Đại Tá chưa bao giờ ngửi mùi thuốc súng chiến  trường… Hừ ! <b><i>Hy Sinh Vì Tổ Quốc</i></b> …Tổ Quốc Ghi Ơn ….   Đích thân Ông Diệm đến nhà thờ viếng linh cữu của vị đại quan chưa từng ra mặt  trận chiến đấu chống Cộng sản bao giờ.  Chết vì ỷ y là gần Saigon,  thì VC đâu  dám rờ đến chân lông Đại tá Hoàng Thụy Năm thích ăn chơi nầy.  </p>
-<p class="indent50">[SH - Có tài liệu nói khác về cái chết của ông Hoàng-Thụy Năm. Trong bài <a href="https://sachhiem.net/THOISU_CT/ChuN/NguyenGiaKieng_0.php">Nhìn Lại Giai Đoạn Ngô Đình Diệm,</a> ông Nguyễn Gia Kiểng nói "<i>Ông Nhu đã ra lệnh giết ông Hoàng Thụy Năm và đổ tội cho cộng sản ám sát</i>"]</p>
+<p class="indent50">[SH - Có tài liệu nói khác về cái chết của ông Hoàng-Thụy Năm. Trong bài <a href="/THOISU_CT/ChuN/NguyenGiaKieng_0">Nhìn Lại Giai Đoạn Ngô Đình Diệm,</a> ông Nguyễn Gia Kiểng nói "<i>Ông Nhu đã ra lệnh giết ông Hoàng Thụy Năm và đổ tội cho cộng sản ám sát</i>"]</p>
 <p>  Trong khi đó tại dinh  Tổng Thống,  Cộng Sản có hàng chục điệp viên trong Dinh nầy báo cáo hàng ngày  cho Hà Nội qua ngả giao liên bí mật và hữu hiệu của CS.  Tại sao đám điệp viên  nằm vùng trong Dinh không báo cáo Hà Nội để cho đội quân đến bắt sống anh em Diệm  hay Huỳnh Văn Lang ? Như vậy chứng tỏ tại sao  Cộng sản không đón hay bắt sống Ngô Đình Diệm,  Ngô Đình Nhu hay Huỳnh Văn Lang  trong những đêm dài ngủ tại Ban Mê Thuột chờ săn thú quý từ rừng sâu về. </p>
 <p>  - Hỏi tức trả lời : Vì  để đám Diệm Nhu cầm quyền thì Hà Nội có lợi rất nhiều:</p>
 <p>Ngô Đình Cẩn bán thuốc  tây cho VC,  Bà Cả Lễ bán gạo cho CS..Ngô Đình Nhu thu mua nha phiến đen,  bán  cho Trùm Bang Chủ Mã Tuyên (trùm của trùm 6 đại bang người Hoa : bang Quảng  Đông,  Phúc Kiến,  Thượng Hải,  HongKong,  Hải Nam,  Singapore)  …rồi từ đó  phân phối đi khắp Dông Nam Á…rồi trở lại Việt Nam làm cho lính Mỹ ghiền ma  túy…suy yếu sự chiến đấu chống CS…mặc dù Ngô Đình Nhu cấm buôn bán ma túy… nhưng  ma túy từ ngỏ Savanakhet Lào đến phi trường nhỏ Ban Mê Thuột rồi dân biểu  Nguyển Bỉnh chở xuống Saigon…tiền bàn ma túy của Ngô Đình Nhu dùng để nuôi mật  vụ,  cán bộ đảng Cần Lao,  điềm chỉ viên…hay mua chuộc quan chức tham nhũng tại  Miền Nam VN và ngay cả dâng cho Tòa Thánh Vatican.</p>
@@ -205,5 +205,5 @@ Cái Chết Của Một Hàng Tướng: DƯƠNG VĂN MINH</a>) bắt giết vào
 <p>  <b><i>Tôn Ông Gò Vấp quotation.</i></b></p>
 
      <hr> 
-<p>Các chuyện kể của Phượng Hoàng Gò Vấp: link <a href="https://sachhiem.net/LICHSU/P/ListPHGV.inc.php" target="_blank">https://sachhiem.net/LICHSU/P/ListPHGV.inc.php</a></p>  
+<p>Các chuyện kể của Phượng Hoàng Gò Vấp: link <a href="/LICHSU/P/ListPHGV.inc" target="_blank">https://sachhiem.net/LICHSU/P/ListPHGV.inc.php</a></p>  
   <hr>

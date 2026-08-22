@@ -3,7 +3,7 @@ layout: ../../../layouts/Article.astro
 title: "Thư Giản Mùa Xmas 2012:"
 author: "Dê Hô Va (góp nhặt)"
 date: 2012-12-11
-source: "https://sachhiem.net/TONGIAO/tgD/Dehova06.php"
+source: "/TONGIAO/tgD/Dehova06"
 category: "Tác giả"
 lang: vi
 wordCount: 320

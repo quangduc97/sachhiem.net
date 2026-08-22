@@ -2,7 +2,7 @@
 layout: ../../layouts/Article.astro
 title: "Tại sao người Mỹ đi bầu vào ngày thứ ba?"
 author: "Lý Thái Xuân sưu tầm"
-source: "https://sachhiem.net/LTX/LyThaiTS00.php"
+source: "/LTX/LyThaiTS00"
 category: "Chính trị"
 lang: vi
 wordCount: 304

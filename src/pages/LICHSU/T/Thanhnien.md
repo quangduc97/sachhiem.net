@@ -5,7 +5,7 @@ author: "Hoàng Hải Vân (báo Thanh Niên)"
 source: "https://www2.thanhnien.com.vn/Vanhoa/2008/2/29/227923.tno"
 lang: vi
 wordCount: 12324
-image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nha.jpg"
+image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/LICHSU/IMG/ThSLeManhThat.jpg"
 ---
 
 <p class="Tuaduoi">Thiền sư Lê Mạnh Thát </p>
@@ -13,7 +13,7 @@ image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nha.jpg"
 	
 		
 		
-<p align="center"><a href="https://www.sachhiem.net/"> <img border="0" src="https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nha.jpg"></a> 16 tháng 3, 2008	</p>
+<p align="center"> 16 tháng 3, 2008	</p>
 	
 			<p>Toàn bài: <a href="/LICHSU/#Phần_1">1</a>&nbsp; <a href="/LICHSU/#Phần_2">2</a>&nbsp;
 			<a href="/LICHSU/#Phần_3">3</a>&nbsp; <a href="/LICHSU/#Phần_4">4</a>&nbsp;

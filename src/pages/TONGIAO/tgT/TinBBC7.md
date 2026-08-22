@@ -3,7 +3,7 @@ layout: ../../../layouts/Article.astro
 title: "Vatican Phong Thánh Giáo Sỹ 'Bóng Tối'?"
 author: "Tin BBC"
 date: 2015-09-23
-source: "https://sachhiem.net/TONGIAO/tgT/TinBBC7.php"
+source: "/TONGIAO/tgT/TinBBC7"
 category: "Chính trị"
 lang: vi
 wordCount: 853
@@ -50,7 +50,7 @@ image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/TONGIAO/IMG/TRUYENDA
   <p><b>SH mời đọc thêm </b></p>
   <p>-<a href="https://www.facebook.com/Junipero-Serra-Anti-Canonization-page-384279088413874/timeline/">Junipero  Serra Anti-Canonization page</a></p>
   <p>- <a href="https://www.theguardian.com/world/live/2015/sep/23/pope-francis-in-washington-dc-live-coverage">Pope Francis declares Junípero Serra a saint in  controversial mass – live</a></p>
-<p>- <a href="https://sachhiem.net/NMQ/NMQ043.php">Kế Sách Phong Thánh Cho Cố HY Nguyễn Văn Thuận (Nguyễn Mạnh Quang)</a> </p>
+<p>- <a href="/NMQ/NMQ043">Kế Sách Phong Thánh Cho Cố HY Nguyễn Văn Thuận (Nguyễn Mạnh Quang)</a> </p>
 <p>- <a href="https://vn.answers.yahoo.com/question/index?qid=20110807082213AAJAGBG">Vì sao đế quốc Vatican phong thánh ma cho 117 tên Việt gian và giáo sĩ gián điệp tây?</a> </p>
 <p>- Lễ phong thánh 117 "thánh tử đạo". (Tổ quốc Việt Nam không thể dung thứ cho những tên tội phạm này)</p>
 <p><iframe width="480" height="270" src="https://www.youtube.com/embed/-ib7G37ufKA" frameborder="0" allowfullscreen=""></iframe></p>

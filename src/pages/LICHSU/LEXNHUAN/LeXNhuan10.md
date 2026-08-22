@@ -3,7 +3,7 @@ layout: ../../../layouts/Article.astro
 title: "Ông Bà Ngô Đình Nhu Dưới Mắt Người Đời"
 author: "Lê Xuân Nhuận"
 date: 2013-06-08
-source: "https://sachhiem.net/LICHSU/LEXNHUAN/LeXNhuan10.php"
+source: "/LICHSU/LEXNHUAN/LeXNhuan10"
 category: "Lịch sử"
 lang: vi
 wordCount: 2536

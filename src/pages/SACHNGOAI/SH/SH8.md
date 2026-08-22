@@ -3,7 +3,7 @@ layout: ../../../layouts/Article.astro
 title: "Giáo Hoàng Francis Nghi Ngờ Tính Xác Thực Của Các Cuộc Hiện Ra Ở Medjugorje (Bồ Đào Nha)"
 author: "Philip Pullella"
 date: 2017-05-18
-source: "https://sachhiem.net/SACHNGOAI/SH/SH8.php"
+source: "/SACHNGOAI/SH/SH8"
 category: "Tác giả"
 lang: vi
 wordCount: 539

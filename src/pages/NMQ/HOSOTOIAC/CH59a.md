@@ -3,7 +3,7 @@ layout: ../../../layouts/Article.astro
 title: "GIÁO HỘI LA MÃ:"
 author: "- Nguyễn Mạnh Quang -"
 date: 2014-05-07
-source: "https://sachhiem.net/NMQ/HOSOTOIAC/CH59a.php"
+source: "/NMQ/HOSOTOIAC/CH59a"
 lang: vi
 wordCount: 7957
 ---

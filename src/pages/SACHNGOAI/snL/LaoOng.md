@@ -3,7 +3,7 @@ layout: ../../../layouts/Article.astro
 title: "Giáo hoàng tìm cách \"giải phóng\" Mẹ Maria khỏi Mafia"
 author: "AP News"
 date: 2020-09-18
-source: "https://sachhiem.net/SACHNGOAI/snL/LaoOng.php"
+source: "/SACHNGOAI/snL/LaoOng"
 category: "Chính trị"
 lang: vi
 wordCount: 568

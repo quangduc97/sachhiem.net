@@ -3,7 +3,7 @@ layout: ../../../layouts/Article.astro
 title: "Bài thơ \"Lời thỉnh cầu ở nghĩa trang Đồng Lộc\""
 author: "Trần Đình Hoành"
 date: 2017-07-24
-source: "https://sachhiem.net/VANHOC/T/TinTheThao_DongLoc.php"
+source: "/VANHOC/T/TinTheThao_DongLoc"
 category: "Chính trị"
 lang: vi
 wordCount: 1876

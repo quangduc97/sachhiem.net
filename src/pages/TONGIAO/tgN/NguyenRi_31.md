@@ -3,7 +3,7 @@ layout: ../../../layouts/Article.astro
 title: "Chiên Catô Rô-Ma Giáo Đã Làm Gì Trong Ngày Giỗ Tổ Hùng Vương?"
 author: "Ri Nguyễn"
 date: 2017-04-09
-source: "https://sachhiem.net/TONGIAO/tgN/NguyenRi_31.php"
+source: "/TONGIAO/tgN/NguyenRi_31"
 category: "Tác giả"
 lang: vi
 wordCount: 657
@@ -31,4 +31,4 @@ image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/XAHOI/IMG/DANTOC/gio
 <p>_____________________</p>
   <p>Các bài của Nguyễn Ri: link</p>
 <p>
-<a href="https://sachhiem.net/TONGIAO/tgN/ListRiNguyen.inc.php" target="_blank">https://sachhiem.net/TONGIAO/tgN/ListRiNguyen.inc.php</a></p>
+<a href="/TONGIAO/tgN/ListRiNguyen.inc" target="_blank">https://sachhiem.net/TONGIAO/tgN/ListRiNguyen.inc.php</a></p>

@@ -3,7 +3,7 @@ layout: ../../../layouts/Article.astro
 title: "Về một đoạn báo của Duyên Lãng Hà Tiến Nhất"
 author: "Cao Hữu Tâm"
 date: 2014-11-09
-source: "https://sachhiem.net/TONGIAO/tgC/Caohtam19.php"
+source: "/TONGIAO/tgC/Caohtam19"
 category: "Tác giả"
 lang: vi
 wordCount: 1386

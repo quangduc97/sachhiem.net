@@ -3,7 +3,7 @@ layout: ../../../layouts/Article.astro
 title: "Hiến Pháp Không Phải Là Văn Bản Thể Hiện Ý Chí, Vô Thưởng Vô Phạt Như Hoàng Duy Hùng Nói"
 author: "Công Tâm Võ"
 date: 2022-05-08
-source: "https://sachhiem.net/LICHSU/FB/CongTamVo_02.php"
+source: "/LICHSU/FB/CongTamVo_02"
 category: "Chính trị"
 lang: vi
 wordCount: 1868

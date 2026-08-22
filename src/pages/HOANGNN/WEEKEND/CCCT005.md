@@ -2,7 +2,7 @@
 layout: ../../../layouts/Article.astro
 title: "CÂU CHUYỆN CUỐI TUẦN"
 author: "Anthony Darlic"
-source: "https://sachhiem.net/null"
+source: "/null"
 lang: vi
 wordCount: 1997
 image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nhacu.jpg"
@@ -28,7 +28,7 @@ image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nhacu.jpg"
 
 	
   <table border="0" cellpadding="10" width="100%" cols="2"><tbody><tr>
-	<td valign="top"><a href="https://sachhiem.net/">
+	<td valign="top"><a href="/">
 	<img border="0" src="https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nhacu.jpg" width="49" height="20"></a></td>
 	<td valign="top" style="text-align:right">	đăng ngày <span lang="en-us">31</span>&nbsp; tháng 8, 2007
 	</td></tr></tbody></table>

@@ -2,11 +2,11 @@
 layout: ../../../layouts/Article.astro
 title: "Nước Mỹ - Nhân Quyền - Việt Nam"
 author: "Trần Chung Ngọc"
-source: "https://sachhiem.net/null"
+source: "/null"
 category: "Chính trị"
 lang: vi
 wordCount: 21041
-image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nha.jpg"
+image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/SACHNGOAI/Hinhanh/BIASACH/CracksintheEmpire.jpg"
 ---
 
 <div align="center" style="position: relative; left: 0; top: 0">
@@ -22,8 +22,7 @@ image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nha.jpg"
 <tr><td width="100%">
 <div style="padding-left: 50px; padding-right: 50px"> 
 	<table border="0" cellpadding="1" width="86%" cols="2"><tbody><tr>
-	<td><a href="/index">
-	<img border="0" src="https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nha.jpg"></a></td>
+	<td></td>
 <td valign="top" width="178"><p>07 tháng 9,  2010</p></td></tr></tbody></table>
 <p> <b>1 <a href="/TCN/TCNts049-a"><span style="background-color: #800000"><font color="#FFFFFF">&nbsp; 2 </font></span></a></b> </p>
 		<p class="CHUONG"><u>PHẦN MỘT</u></p>
@@ -89,7 +88,7 @@ image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nha.jpg"
 			nền độc lập”</i>. Thật là một lý luận quá ấu trĩ, vì họ không 
 			hề biết là CS ở mỗi quốc gia một khác cho nên người Cộng sản cũng 
 			vậy, điển hình là Cụ Hồ [Xin đọc bài “<i>Vài Nét Về Cụ Hồ</i>” trên
-			<a href="https://www.sachhiem.net/TCN/TCNls/TCNls04.php">https://www.sachhiem.net/ TCN/TCNls/TCNls04.php</a> ]. CS hay 
+			<a href="/TCN/TCNls/TCNls04">https://www.sachhiem.net/ TCN/TCNls/TCNls04.php</a> ]. CS hay 
 			không thì Pháp đã quyết định trở lại Đông Dương để tái lập nền đô hộ 
 			trên bán đảo này, và Mỹ, dù không có thiện cảm với chế độ thực dân, 
 			vẫn ủng hộ Pháp trong trong quyết định này vì coi Đông Dương thuộc 

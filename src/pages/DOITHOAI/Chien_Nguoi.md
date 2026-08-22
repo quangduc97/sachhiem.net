@@ -3,7 +3,7 @@ layout: ../../layouts/Article.astro
 title: "Hai Góc Nhìn Về Đạo Thiên Chúa"
 author: "FB - Utube"
 date: 2021-09-10
-source: "https://sachhiem.net/DOITHOAI/Chien_Nguoi.php"
+source: "/DOITHOAI/Chien_Nguoi"
 category: "Chính trị"
 lang: vi
 wordCount: 1061

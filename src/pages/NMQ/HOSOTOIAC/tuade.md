@@ -2,7 +2,7 @@
 layout: ../../../layouts/Article.astro
 title: "GIÁO HỘI LA MÃ:"
 author: "- Nguyễn Mạnh Quang -"
-source: "https://sachhiem.net/null"
+source: "/null"
 lang: vi
 wordCount: 7
 ---

@@ -3,7 +3,7 @@ layout: ../../../layouts/Article.astro
 title: "Nén Hương Tiếc Thương Cụ Diệm"
 author: "Bảo Quốc Kiếm"
 date: 2018-11-02
-source: "https://sachhiem.net/TONGIAO/BQK/BQK11.php"
+source: "/TONGIAO/BQK/BQK11"
 category: "Chính trị"
 lang: vi
 wordCount: 2203

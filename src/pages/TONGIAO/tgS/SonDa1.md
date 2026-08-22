@@ -2,15 +2,15 @@
 layout: ../../../layouts/Article.astro
 title: "ĐƯỜNG XƯA MÂY TRẮNG."
 author: "Sơn Dã Bần Phu"
-source: "https://sachhiem.net/TONGIAO/tgS/SonDa1.php"
+source: "/TONGIAO/tgS/SonDa1"
 category: "Tác giả"
 lang: vi
 wordCount: 3964
-image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nha.jpg"
+image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/TONGIAO/IMG/DuongXuaMayTrang.jpg"
 ---
 
 <table border="0" width="250" align="center"><tbody><tr>
-<td><a href="https://sachhem.net/"><img border="0" src="https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nha.jpg"></a></td>	
+<td></td>	
 	<td valign="top" style="text-align:right"> 18 tháng 5, 2008 
 	</td></tr></tbody></table>
 

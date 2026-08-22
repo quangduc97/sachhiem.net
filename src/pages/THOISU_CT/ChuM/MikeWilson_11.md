@@ -3,7 +3,7 @@ layout: ../../../layouts/Article.astro
 title: "Nạn Phân Biệt Chủng Tộc Của Đảng Cộng Hòa Đã Đi Ngược Chiều Lịch Sử"
 author: "Mike Wilson"
 date: 2015-12-19
-source: "https://sachhiem.net/THOISU_CT/ChuM/MikeWilson_11.php"
+source: "/THOISU_CT/ChuM/MikeWilson_11"
 category: "Chính trị"
 lang: vi
 wordCount: 1344

@@ -2,7 +2,7 @@
 layout: ../../../layouts/Article.astro
 title: "JACKO ƠI, SAO CÓ TỬ ĐẠO MÀ KHÔNG CÓ TỬ TÌNH?"
 author: "Hoàng Nguyên Nhuận"
-source: "https://sachhiem.net/null"
+source: "/null"
 lang: vi
 wordCount: 3332
 image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/HOANGNN/IMG/jackson3.jpg"

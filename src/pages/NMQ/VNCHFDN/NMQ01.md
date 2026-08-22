@@ -2,11 +2,11 @@
 layout: ../../../layouts/Article.astro
 title: "\"NÓI CHUYỆN VỚI TỔ CHỨC"
 author: "Nguyễn Mạnh Quang"
-source: "https://sachhiem.net/NMQ/VNCHFDN/NMQ01.php"
+source: "/NMQ/VNCHFDN/NMQ01"
 category: "Lịch sử"
 lang: vi
 wordCount: 3196
-image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nha.jpg"
+image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/SACH/NoiChuyen.jpg"
 ---
 
 <p class="Tuaduoi">TẠI SAO TÔI VIẾT </p>
@@ -14,7 +14,7 @@ image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nha.jpg"
         
         
         
-        <p align="center"><a href="https://sachhiem.net/index.php"><img border="0" hspace="20" src="https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nha.jpg"></a> 27 tháng 5, 2008 </p>
+        <p align="center"> 27 tháng 5, 2008 </p>
         
         
         <p align="center"><img border="0" src="https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/SACH/NoiChuyen.jpg" width="176" height="269"> <img border="0" src="https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/SACH/NoiChuyen1.jpg" width="173" height="269"></p>

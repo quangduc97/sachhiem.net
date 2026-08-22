@@ -2,15 +2,15 @@
 layout: ../../../layouts/Article.astro
 title: "Khi Người Công Giáo Nói Chuyện"
 author: "Trần Chung Ngọc"
-source: "https://sachhiem.net/TCN/TCNdt/TCNdt026-1.php"
+source: "/TCN/TCNdt/TCNdt026-1"
 category: "Đối thoại"
 lang: vi
 wordCount: 5492
-image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.devhttps://sachhiem.net/images/nha.jpg"
+image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/Next.gif"
 ---
 
 <table border="0" width="250" align="center">
-    <tbody><tr><td width="106"><a href="https://sachhiem.net/index.php"><img border="0" src="https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.devhttps://sachhiem.net/images/nha.jpg"></a>    </td> <td valign="top" style="text-align:right">ngày 18 tháng 1, 2009</td></tr></tbody></table> 	<p>Toàn bài:  <a href="/TCN/TCNdt026">1</a> <b> 	<font size="3" color="#FF0000">2</font></b> 	<a href="/TCN/TCNdt026-2">3</a> <a href="/TCN/TCNdt026-3">4</a> 	<a href="/TCN/TCNdt026-4">5</a></p>
+    <tbody><tr><td width="106">    </td> <td valign="top" style="text-align:right">ngày 18 tháng 1, 2009</td></tr></tbody></table> 	<p>Toàn bài:  <a href="/TCN/TCNdt026">1</a> <b> 	<font size="3" color="#FF0000">2</font></b> 	<a href="/TCN/TCNdt026-2">3</a> <a href="/TCN/TCNdt026-3">4</a> 	<a href="/TCN/TCNdt026-4">5</a></p>
 
 <p class="TuaChuong"><a name="4"></a>Vấn nạn thứ 4: Thánh Kinh - Căn Bản Đức 
 Tin.  </p>

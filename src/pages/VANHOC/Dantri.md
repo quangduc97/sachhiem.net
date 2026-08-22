@@ -3,15 +3,15 @@ layout: ../../layouts/Article.astro
 title: "Cựu Chiến Binh Úc Và 40 Năm Dằn Vặt"
 author: "Vũ Quý /Dân Trí/ The Age"
 date: 2012-04-02
-source: "https://sachhiem.net/VANHOC/Dantri.php"
+source: "/VANHOC/Dantri"
 category: "Chính trị"
 lang: vi
 wordCount: 2170
-image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nha.jpg"
+image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/VANHOC/Hinh/Dantri_Wildeboer_1.jpg"
 ---
 
 <table border="0" cellpadding="1" align="center" width="250">
-        <tbody><tr><td width="100"><a href="/index"><img border="0" src="https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nha.jpg"></a></td>
+        <tbody><tr><td width="100"></td>
 		<td valign="top">02-Apr-2012</td>
         </tr></tbody></table>
 		<p><b> </b><br>

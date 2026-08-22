@@ -2,15 +2,15 @@
 layout: ../../../layouts/Article.astro
 title: "Thành Kính Phân Ưu (BBT)"
 author: "Nhận được tin buồn"
-source: "https://sachhiem.net/null"
+source: "/null"
 category: "Xã hội"
 lang: vi
 wordCount: 34
-image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nha.jpg"
+image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/ChiaBuon/Hoatrang.jpg"
 ---
 
 <p class="Tuaduoi">Thành Kính Phân Ưu </p>
-   <p align="center"><a href="https://www.sachhiem.net/"> <img border="0" src="https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nha.jpg"></a> date </p>
+   <p align="center"> date </p>
 
 
 <font color="#001659">

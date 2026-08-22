@@ -3,7 +3,7 @@ layout: ../../layouts/Article.astro
 title: "Đàng Nào Thì Hoài Ngô Cũng Xạo!"
 author: "Trần Tiên Long"
 date: 2014-01-10
-source: "https://sachhiem.net/TTL/TranTL45.php"
+source: "/TTL/TranTL45"
 category: "Email"
 lang: vi
 wordCount: 1843
@@ -127,7 +127,7 @@ Tóm lại, câu kết luận của ông Trần Quang Diệu  thì rất chính 
  <b>Sent:</b>&nbsp;Saturday, January 11, 2014 9:54 AM<br>
  <b>Subject:</b>&nbsp;[tudo-ngonluan] TT Ngô Đình Diệm Xạo hay Hoài Ngô Xạo? /  Huỳnh Văn Lang xạo về vụ TT Diệm lảnh giải Magsaysay Phillippines . Vua Xạo  nhất miền Nam VN là ông nầy . </p>
 
-<p><a href="https://sachhiem.net/index.php?content=showemail&amp;id=527">https://sachhiem.net/index.php?content=showemail&amp;id=527</a></p>
+<p><a href="/net/index">https://sachhiem.net/index.php?content=showemail&amp;id=527</a></p>
 <p align="center"><img src="https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/LICHSU/IMG/NGODD/NDD_LIFEa.jpg" width="214" height="150"> &nbsp;<img src="https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/LICHSU/IMG/NHANVAT/Huynhvanlang.jpg" width="151" height="206"></p>
 <p>
   Do bởi sự xác nhận lần thứ hai này và do bởi lời yêu cầu của tác  giả Huỳnh Văn Lang rằng <i>(xem tiếp link trên) </i></p>
@@ -140,4 +140,4 @@ Tóm lại, câu kết luận của ông Trần Quang Diệu  thì rất chính 
 
 
 <hr>
-<a href="https://sachhiem.net/indexLS.php"><p class="trang">Trang Lịch Sử </p></a>
+<a href="/indexLS"><p class="trang">Trang Lịch Sử </p></a>

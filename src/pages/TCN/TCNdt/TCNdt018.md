@@ -2,15 +2,15 @@
 layout: ../../../layouts/Article.astro
 title: "TẢN MẠN VỀ “THÓI ĐỜI ĐỐI KHÁNG”"
 author: "Trần Chung Ngọc"
-source: "https://sachhiem.net/TCN/TCNdt/TCNdt018.php"
+source: "/TCN/TCNdt/TCNdt018"
 category: "Đối thoại"
 lang: vi
 wordCount: 12366
-image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.devhttps://sachhiem.net/images/nha.jpg"
+image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/TCN/TCNdt/Hinh/TuyetmaiUtube.jpg"
 ---
 
 <table border="0" width="250" align="center">
-    <tbody><tr><td width="106"><a href="https://sachhiem.net/index.php"><img border="0" src="https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.devhttps://sachhiem.net/images/nha.jpg"></a>    </td> <td width="39%"> <p>25 tháng 8, 2008 </p> </td></tr></tbody></table>	
+    <tbody><tr><td width="106">    </td> <td width="39%"> <p>25 tháng 8, 2008 </p> </td></tr></tbody></table>	
      
 <p class="Tuaduoi">[“Đối Kháng” Những Hành Động Thuộc Loại “Thói Đời Đối Kháng”]</p>
 

@@ -2,16 +2,15 @@
 layout: ../../../layouts/Article.astro
 title: "Vấn Nạn Chung Của Các Nước Âu Mỹ Ngày Nay"
 author: "Mike Wilson"
-source: "https://sachhiem.net/THOISU_CT/ChuM/MikeWilson_13.php"
+source: "/THOISU_CT/ChuM/MikeWilson_13"
 category: "Chính trị"
 lang: vi
 wordCount: 1317
-image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nha.jpg"
+image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.devhttps://img.washingtonpost.com/rf/image_1484w/2010-2019/WashingtonPost/2016/05/25/Editorial-Opinion/Images/533496938.jpg?uuid=25tOIiKpEeaGkPFMqd4pcg"
 ---
 
-<p align="center"><a href="https://www.sachhiem.net/"> <img border="0" src="https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nha.jpg"></a></p>
-  <div class="tomluoc">
-    <p><i>LTS: Kỳ trước, tác giả Mike Wilson có bài <a href="https://sachhiem.net/THOISU_CT/ChuM/MikeWilson_12.php">"Nguy Cơ Nào Việt Nam Có - Mỹ Không Có"</a>. Hôm nay, nội dung bài này đưa ra khía cạnh ngược lại: "Những vấn nạn của các nước Âu Mỹ mà nước Việt Nam không có". Cho thấy những nước có kỷ nghệ phát triển sớm, giàu mạnh sớm, điều kiện kinh tế, chính trị, ngoại giao của những nước lớn... ngày nay có những nguy cơ khác hơn những nguy cơ của những nước nhỏ bé. Đương nhiên, không phải cái gì tốt cho nước này có thể sáp dụng cho nước khác. (SH)</i></p>
+<div class="tomluoc">
+    <p><i>LTS: Kỳ trước, tác giả Mike Wilson có bài <a href="/THOISU_CT/ChuM/MikeWilson_12">"Nguy Cơ Nào Việt Nam Có - Mỹ Không Có"</a>. Hôm nay, nội dung bài này đưa ra khía cạnh ngược lại: "Những vấn nạn của các nước Âu Mỹ mà nước Việt Nam không có". Cho thấy những nước có kỷ nghệ phát triển sớm, giàu mạnh sớm, điều kiện kinh tế, chính trị, ngoại giao của những nước lớn... ngày nay có những nguy cơ khác hơn những nguy cơ của những nước nhỏ bé. Đương nhiên, không phải cái gì tốt cho nước này có thể sáp dụng cho nước khác. (SH)</i></p>
   </div>
  <p>Subject: ***_vấn_nạn_chung_c ủa_các_ch ế_độ_Âu_Mỹ<br>
    From: Mike Wilson <br>

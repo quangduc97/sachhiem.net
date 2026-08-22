@@ -2,7 +2,7 @@
 layout: ../../../layouts/Article.astro
 title: "Coi chừng khi chụp mũ người khác là “Cộng Sản!”"
 author: "Báo Người Việt"
-source: "https://sachhiem.net/nguồn https://nguoi-viet.com/absolutenm/anmviewer.asp?a=92352&amp;z=3"
+source: "/nguồn https://nguoi-viet.com/absolutenm/anmviewer.asp?a=92352&amp;z=3"
 category: "Xã hội"
 lang: vi
 wordCount: 872
@@ -34,7 +34,7 @@ image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nhacu.jpg"
 	
 		<div style="float: left; padding-left:40px; padding-right:40px;">
 		<table border="0" cellpadding="10" width="100%" cols="2"><tbody><tr>
-				<td valign="top"><a href="https://sachhiem.net/"><img border="0" src="https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nhacu.jpg" width="49" height="20"></a></td>
+				<td valign="top"><a href="/"><img border="0" src="https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nhacu.jpg" width="49" height="20"></a></td>
 	<td valign="top">	
 	<p style="text-align: right">22 tháng 3, 2009
 	</p></td></tr></tbody></table>

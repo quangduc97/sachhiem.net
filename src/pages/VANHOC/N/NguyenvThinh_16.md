@@ -3,7 +3,7 @@ layout: ../../../layouts/Article.astro
 title: "Sự Thật Lịch Sử Không Thể Tô Hồng, Không Thể Bôi Đen"
 author: "Nguyễn Văn Thịnh"
 date: 2017-05-28
-source: "https://sachhiem.net/VANHOC/N/NguyenvThinh_16.php"
+source: "/VANHOC/N/NguyenvThinh_16"
 category: "Lịch sử"
 lang: vi
 wordCount: 6065
@@ -82,6 +82,6 @@ image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/THOISU_CT/Hinh/VIETN
 <a href="https://nhatbaovanhoa.com/a5550/bs-tran-xuan-ninh-viet-ve-tac-pham-moi-cua-giao-su-pham-cao-duong" target="_blank">https://nhatbaovanhoa.com/a5550/bs-tran-xuan-ninh-viet-ve-tac-pham-moi-cua-giao-su-pham-cao-duong</a>
 <p>_______________________</p>
 <p><b>Bài đọc thêm:</b></p>
-<p>- <a href="https://sachhiem.net/NMQ/PCD/NMQ053.php">Việt Nam Có Độc Lập Tự Do Từ Chính Quyền Trần Trọng Kim Hay Không?</a>
+<p>- <a href="/NMQ/PCD/NMQ053">Việt Nam Có Độc Lập Tự Do Từ Chính Quyền Trần Trọng Kim Hay Không?</a>
  - 18-Mar-2015 (Nguyễn Mạnh Quang)</p>
 <p>-<a href="https://locliec.blogspot.com/2014/09/oc-lap-tu-tren-troi-roi-xuong.html"> Độc lập từ trên trời rơi xuống ?</a> 10 tháng 9, 2014 (Thiên Lý/ Lốc Liếc)</p>

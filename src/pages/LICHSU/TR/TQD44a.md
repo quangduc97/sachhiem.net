@@ -3,13 +3,13 @@ layout: ../../../layouts/Article.astro
 title: "Cùng gởi cho \"cháu Bình\""
 author: "Trần Quang Diệu"
 date: 2015-04-16
-source: "https://sachhiem.net/LICHSU/TR/TQD44a.php"
+source: "/LICHSU/TR/TQD44a"
 category: "Đối thoại"
 lang: vi
 wordCount: 2509
 ---
 
-<p><i>(<a href="https://sachhiem.net/LICHSU/TR/TQD44.php">Xem bài đối thoại trước: Phật Giáo Xưa và Nay</a>) </i></p>
+<p><i>(<a href="/LICHSU/TR/TQD44">Xem bài đối thoại trước: Phật Giáo Xưa và Nay</a>) </i></p>
 <hr>  
 <p>Subject: Cùng gởi cho "cháu  Bình"<br>
   From: "Tran Quang Dieu" &lt;tranquangdieu@hotmail.com&gt;<br>
@@ -30,7 +30,7 @@ To: "perfecthanoi@gmail.com" &lt;perfecthanoi@gmail.com&gt;, &nbsp;</p>
   <p>Giê-su (Lưu –Ca: 19:27) </p>
   <p>Đừng tưởng rằng ta xuống trần để mang lại hòa bình trên trái  đất. Ta không xuống đây để mang lại hòa bình mà là gươm giáo. Vì ta xuống đây để  làm cho con chống lại cha, con gái chống lại mẹ, con dâu chống lại mẹ chồng, và  kẻ thù của con người ở ngay trong nhà hắn. </p>
   <p>Giê-su (Mã-Thi-Ơ: 10: 34-36)"<i>-</i></p>
-  <p><i>Nguồn: </i><a href="https://sachhiem.net/TCN/TCNtg/CGHS/NCGHS0.php" target="_blank">https://sachhiem.net/TCN/TCNtg/CGHS/NCGHS0.php</a> ! </p>
+  <p><i>Nguồn: </i><a href="/TCN/TCNtg/CGHS/NCGHS0" target="_blank">https://sachhiem.net/TCN/TCNtg/CGHS/NCGHS0.php</a> ! </p>
 </div>
 <i> </i>
 <p>
@@ -96,7 +96,7 @@ To: Bình Nguyễn - <a href="mailto:perfecthanoi@gmail.com">perfecthanoi@gmail.
 <p><b>Trần Quang Diệu:</b></p>
 <p>Ối chà!? Khóa tu của đoàn thể Phật giáo là có trước cậu con trai của ông thợ mộc người Do Thái sinh ra cách đến trên 500 năm thì ai là những kẻ sao chép của ai? Phật giáo trên 2500 năm trước, mỗi khi tổ chức các khóa tu học do Phật Thích Ca thuyết giảng là có đủ Tăng, Ni, Cư sĩ, vua chúa, các quan tể tướng, đại thần, cho đến thứ dân v.v...  Trong khi lúc đầu mấy ông "thánh tông đồ" toàn là những gã hành nghề chài lưới, đôi khi mù chữ mà bày đặt dám nói ai "sao chép", ai "bắt chước" ai? </p>
 <p>Xin đọc thêm! - Chung quanh một cuộc tranh luận hào hứng: </p>
-<p><a href="https://sachhiem.net/TCN/TCNdt/TCNdt042.php" target="_blank">https://sachhiem.net/TCN/TCNdt/TCNdt042.php</a></p>
+<p><a href="/TCN/TCNdt/TCNdt042" target="_blank">https://sachhiem.net/TCN/TCNdt/TCNdt042.php</a></p>
 <hr>
 <p><b>Email của nick Bình Nguyễn perfecthanoi@gmail.com</b></p>
 <p>  <i>Date: Mon, 13 Apr 2015 01:34:11 -0700<br>
@@ -131,4 +131,4 @@ To: Bình Nguyễn - <a href="mailto:perfecthanoi@gmail.com">perfecthanoi@gmail.
 <p>
   4. Dẹp luôn các khóa tu đi vì nó là sản phẩm sao chép của 'Thiếu  Nhi Thánh Thể' bên Công giáo. </p>
 ________________
-<p><i>(<a href="https://sachhiem.net/LICHSU/TR/TQD44.php">Xem bài đối thoại: Phật Giáo Xưa và Nay</a>) của Trần Quang Diệu</i></p>
+<p><i>(<a href="/LICHSU/TR/TQD44">Xem bài đối thoại: Phật Giáo Xưa và Nay</a>) của Trần Quang Diệu</i></p>

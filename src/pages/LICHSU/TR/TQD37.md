@@ -3,7 +3,7 @@ layout: ../../../layouts/Article.astro
 title: "Phản Bác Thái Độ Bất Lương, Vu Vạ"
 author: "Trần Quang Diệu"
 date: 2014-04-05
-source: "https://sachhiem.net/LICHSU/TR/TQD37.php"
+source: "/LICHSU/TR/TQD37"
 category: "Đối thoại"
 lang: vi
 wordCount: 4776

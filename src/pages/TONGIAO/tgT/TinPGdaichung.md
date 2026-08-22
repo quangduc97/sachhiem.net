@@ -6,7 +6,7 @@ source: "https://phatgiaodaichung.com/Bai2009/003nhasuthikinh.htm"
 category: "Tác giả"
 lang: vi
 wordCount: 5682
-image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nha.jpg"
+image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/TONGIAO/img/ThichChieuPhap.jpg"
 ---
 
 <div align="center" style="position: relative; left: 0; top: 0">
@@ -28,7 +28,7 @@ image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nha.jpg"
 <tr><td width="100%">
 <div style="padding-left: 50px; padding-right: 50px"> 
 	<table border="0" cellpadding="1" width="86%" cols="2"><tbody><tr>
-	<td>	<p><a href="/index"><img border="0" src="https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nha.jpg"></a></p></td>
+	<td>	</td>
 <td valign="top" width="210"><p>29 tháng 11, 2009</p>
 			</td></tr></tbody></table>
 		<p><i>Nhà sư trẻ nựng nịu hôn lên má “con” trước bao cặp mắt gièm pha. 

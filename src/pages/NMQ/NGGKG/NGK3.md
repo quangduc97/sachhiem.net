@@ -2,14 +2,13 @@
 layout: ../../../layouts/Article.astro
 title: "Lời Khẳng Định Của Một Con Cừu"
 author: "Nguyễn Mạnh Quang"
-source: "https://sachhiem.net/NMQ/NGGKG/NGK3.php"
+source: "/NMQ/NGGKG/NGK3"
 category: "Lịch sử"
 lang: vi
 wordCount: 25119
-image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nha.jpg"
 ---
 
-<p align="center"><a href="/index"> <img hspace="20" border="0" src="https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nha.jpg"> </a> 13 tháng 9, 2010	</p> 
+<p align="center"> 13 tháng 9, 2010	</p> 
 <p class="MUC">PHẦN III</p>
 <p>(Từ đoạn văn số 22 cho đến hết phần Kết Luận)</p>
 <p><b>Tại sao cuộc chiến này đã xảy ra và đã kết 
@@ -1881,13 +1880,13 @@ phẩm khác của ông Kiểng cũng như của các  con chiên khác có họ
 Nguyễn Văn Thắng (Thiện Ý), Tiến-sĩ Nguyễn Học Tập, Tiến-sĩ Trần An Bài 
 và tất cả các ông con chiên cầm bút mà người viết đã nêu đích danh trong 
 các cuốn Việt Nam Đệ Nhất Cộng Hòa Toàn Thư 1954-1963, Thực Chất Của 
-Giáo Hội La Mã, Người Việt Nam &amp; Đạo Giê-su,<a href="https://sachhiem.net/TCN/TCNtg/DAOGIESU/TCN_NMQ8.php">https://sachhiem.net/TCN/TCNtg/DAOGIESU/TCN_NMQ8.php</a><span lang="en-us">, 
+Giáo Hội La Mã, Người Việt Nam &amp; Đạo Giê-su,<a href="/TCN/TCNtg/DAOGIESU/TCN_NMQ8">https://sachhiem.net/TCN/TCNtg/DAOGIESU/TCN_NMQ8.php</a><span lang="en-us">, 
 C</span>hân Dung Người Việt Quốc Gia, 
-<a href="https://sachhiem.net/NMQ/ChanDungVNCH/QMN10.php">
+<a href="/NMQ/ChanDungVNCH/QMN10">
 https://sachhiem.net/NMQ/ChanDungVNCH/QMN10.php</a><span lang="en-us">, </span>Họ Và Chúng Ta, 
-<a href="https://sachhiem.net/NMQ/HOVATA/NMQhvt-1.phpT">
+<a href="/NMQ/HOVATA/NMQhvt-1.phpT">
 https://sachhiem.net/NMQ/HOVATA/NMQhvt-1.php<span lang="en-us">, </span>T</a>âm Thư Gửi Nhà Nước 
-Việt, <a href="https://sachhiem.net/NMQ/TAMTHU/NMQtt_08.php">
+Việt, <a href="/NMQ/TAMTHU/NMQtt_08">
 https://sachhiem.net/NMQ/TAMTHU/NMQtt_08.php</a><span lang="en-us">, </span> v.v… là 
 bằng chứng rõ ràng nhất cho sự kiện này.</p>
 		
@@ -2073,4 +2072,4 @@ Ngày 16/6/2010.</p>
 <a name="_edn25" title="" href="/NMQ/#_ednref25">[25]</a> sac le <a target="_blank" href="mailto:saclevn@yahoo.com">saclevn@yahoo.com</a>. 
 Ngày 17/6/2010.</p>
 
-<a href="https://sachhiem.net/NMQ/NMQdir.php"><p class="trang"> Trang Nguyễn Mạnh Quang</p> </a>
+<a href="/NMQ/NMQdir"><p class="trang"> Trang Nguyễn Mạnh Quang</p> </a>

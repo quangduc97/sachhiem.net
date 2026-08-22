@@ -3,7 +3,7 @@ layout: ../../../layouts/Article.astro
 title: "Thư Gửi Con Gái"
 author: "Nguyễn Thị Tính (viết thay)"
 date: 2025-02-15
-source: "https://sachhiem.net/LICHSU/V/VoNguyenGiap1.php"
+source: "/LICHSU/V/VoNguyenGiap1"
 category: "Chính trị"
 lang: vi
 wordCount: 585

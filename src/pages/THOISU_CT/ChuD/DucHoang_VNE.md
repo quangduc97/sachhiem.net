@@ -3,7 +3,7 @@ layout: ../../../layouts/Article.astro
 title: "Di Nguyện Ngọn Đuốc Sống"
 author: "Đức Hoàng / VNE"
 date: 2014-05-26
-source: "https://sachhiem.net/THOISU_CT/ChuD/DucHoang_VNE.php"
+source: "/THOISU_CT/ChuD/DucHoang_VNE"
 category: "Chính trị"
 lang: vi
 wordCount: 1104
@@ -75,4 +75,4 @@ image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/THOISU_CT/Hinh/Quanh
    <p class="nguonL">Nguồn:&nbsp;<a href="https://vnexpress.net/tin-tuc/goc-nhin/di-nguyen-ngon-duoc-song-2995073.html" target="_blank" shape="rect">https://vnexpress.net/tin-tuc/goc-nhin/di-nguyen-ngon-duoc-song-2995073.html</a> (hiện không còn lưu) </p>
      <p>_________________</p>
   <p><b>Bài liên quan:</b></p>
-  <p><a href="https://sachhiem.net/index.php?content=showrecipe&amp;id=5997">- Một Phụ Nữ Tự Thiêu Để Hậu Thuẫn Cho Cảnh Sát Biển Và Ngư Dân Phản Đối Trung Quốc Xâm Lược</a> (GGTienLang)</p>
+  <p><a href="/THOISU_CT/ChuD/DucHoang_VNE">- Một Phụ Nữ Tự Thiêu Để Hậu Thuẫn Cho Cảnh Sát Biển Và Ngư Dân Phản Đối Trung Quốc Xâm Lược</a> (GGTienLang)</p>

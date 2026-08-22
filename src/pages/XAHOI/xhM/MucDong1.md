@@ -2,7 +2,7 @@
 layout: ../../../layouts/Article.astro
 title: "XIN ĐỪNG ẢO TƯỞNG"
 author: "Mục Đồng"
-source: "https://sachhiem.net/null"
+source: "/null"
 category: "Xã hội"
 lang: vi
 wordCount: 19141
@@ -33,7 +33,7 @@ image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nhacu.jpg"
 	 <div style="padding-left: 30px; padding-right: 30px">
 
 <table border="0" cellpadding="10" width="80%" cols="2"><tbody><tr>
-	<td valign="top"><a href="https://sachhiem.net/"><img border="0" src="https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nhacu.jpg" width="49" height="20"></a></td>
+	<td valign="top"><a href="/"><img border="0" src="https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nhacu.jpg" width="49" height="20"></a></td>
 	<td valign="top" style="text-align:right">	<i><font color="#606060" size="2">03 tháng 10,  2008
 	</font></i>
 	</td></tr></tbody></table>

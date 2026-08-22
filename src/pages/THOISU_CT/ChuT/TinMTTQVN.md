@@ -3,7 +3,7 @@ layout: ../../../layouts/Article.astro
 title: "Ngăn chặn, việc lợi dụng chính sách về người Việt Nam ở nước ngoài để trục lợi, chống phá đất nước"
 author: "Thăng Long - Hà Phương Nhân"
 date: 2023-08-29
-source: "https://sachhiem.net/THOISU_CT/ChuT/TinMTTQVN.php"
+source: "/THOISU_CT/ChuT/TinMTTQVN"
 category: "Chính trị"
 lang: vi
 wordCount: 5481

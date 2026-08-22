@@ -2,16 +2,16 @@
 layout: ../../../../layouts/Article.astro
 title: "CÔNG GIÁO HẮC SỬ II (kỳ 2)"
 author: "Trần Chung Ngọc"
-source: "https://sachhiem.net/TCN/TCNtg/CGHS/NCGHS22.php"
+source: "/TCN/TCNtg/CGHS/NCGHS22"
 lang: vi
 wordCount: 6259
-image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nha.jpg"
+image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/TONGIAO/IMG/TRUYENDAO/crusader.jpg"
 ---
 
 <p class="Tuaduoi">[The Dark History of Catholicism] </p>
 
 
- <p align="center"><a href="https://www.sachhiem.net/"> <img border="0" src="https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nha.jpg"></a> đăng ngày 17  tháng 5, 2007 </p>
+ <p align="center"> đăng ngày 17  tháng 5, 2007 </p>
 <p>&nbsp;Các bài trong tập này:&nbsp; <a href="/TCN/NCGHS0">1</a>&nbsp; <a href="/TCN/NCGHS1">2</a>&nbsp; <a href="/TCN/NCGHS21">3</a>&nbsp; <a href="/TCN/NCGHS22">4</a>&nbsp; <a href="/TCN/NCGHS31">5</a>&nbsp; <a href="/TCN/NCGHS32">6</a>&nbsp; <a href="/TCN/NCGHS4">7</a>&nbsp; <a href="/TCN/NCGHS5">8</a> <br>
 	</p><p class="center">
 	<img border="0" src="https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/TONGIAO/IMG/TRUYENDAO/crusader.jpg" width="141" height="181"><img border="0" src="https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/TONGIAO/IMG/TRUYENDAO/Thaptuchinh.JPG" width="150" height="224"></p>

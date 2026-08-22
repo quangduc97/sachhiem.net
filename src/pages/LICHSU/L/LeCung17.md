@@ -3,7 +3,7 @@ layout: ../../../layouts/Article.astro
 title: "Khát Vọng Giải Phóng “Những Người Cùng Khổ” - Nét Lớn Trong Sự Gặp Gỡ Giữa Tư Tưởng Hồ Chí Minh Và Tư Tưởng Phật Giáo"
 author: "GS Lê Cung"
 date: 2021-11-15
-source: "https://sachhiem.net/LICHSU/L/LeCung17.php"
+source: "/LICHSU/L/LeCung17"
 category: "Chính trị"
 lang: vi
 wordCount: 4525

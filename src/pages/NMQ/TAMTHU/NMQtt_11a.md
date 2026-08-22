@@ -2,24 +2,24 @@
 layout: ../../../layouts/Article.astro
 title: "Tâm Thư Gửi Nhà Nước Việt Nam"
 author: "Nguyễn Mạnh Quang"
-source: "https://sachhiem.net/NMQ/TAMTHU/NMQtt_11a.php"
+source: "/NMQ/TAMTHU/NMQtt_11a"
 lang: vi
 wordCount: 8511
-image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nha.jpg"
+image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/print.gif"
 ---
 
-<p align="center"><a href="https://www.sachhiem.net/"> <img border="0" src="https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nha.jpg"></a> | 
-<a target="_blank" href="https://sachhiem.net/NMQ/TAMTHU/NMQtt_10.php">
+<p align="center"> | 
+<a target="_blank" href="/NMQ/TAMTHU/NMQtt_10">
 <img border="0" src="https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/print.gif" width="18" height="18"> 
   bản in</a> | 
-	<a target="_blank" href="https://sachhiem.net/NMQ/TAMTHU/NMQtt_Main.php"><b><font face="Symbol" size="5"> ¿ </font></b> trở ra mục lục</a>
+	<a target="_blank" href="/NMQ/TAMTHU/NMQtt_Main"><b><font face="Symbol" size="5"> ¿ </font></b> trở ra mục lục</a>
  |  21 tháng 12, 2009 </p>
 <p class="CHUONG">PHẦN II</p>
 <center>◎◎◎</center>						
 <p class="MUC">CHƯƠNG 11</p>
 <p class="MUC"> TỘI ÁC CỦA GIÁO DÂN NGƯỜI VIỆT <br>
  ĐỐI VỚI TỔ QUỐC VÀ DÂN TỘC VIỆT NAM </p>
-<p class="center"><a target="_blank" href="https://sachhiem.net/NMQ/TAMTHU/NMQtt_11.php">(tiếp theo)</a></p>
+<p class="center"><a target="_blank" href="/NMQ/TAMTHU/NMQtt_11">(tiếp theo)</a></p>
 
 
 

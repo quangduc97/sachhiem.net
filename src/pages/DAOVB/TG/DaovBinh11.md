@@ -3,7 +3,7 @@ layout: ../../../layouts/Article.astro
 title: "Sửa Kinh Không Bằng Hiểu Kinh và Tu Theo Kinh"
 author: "Đào Văn Bình"
 date: 2017-12-07
-source: "https://sachhiem.net/DAOVB/TG/DaovBinh11.php"
+source: "/DAOVB/TG/DaovBinh11"
 category: "Tác giả"
 lang: vi
 wordCount: 1743

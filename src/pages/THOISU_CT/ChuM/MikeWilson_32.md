@@ -3,7 +3,7 @@ layout: ../../../layouts/Article.astro
 title: "Paul Krugman: Vạch trần chương trình hành động đầy bản chất giả đạo của đảng Cộng Hòa"
 author: "Mike Wilson"
 date: 2022-05-29
-source: "https://sachhiem.net/THOISU_CT/ChuM/MikeWilson_32.php"
+source: "/THOISU_CT/ChuM/MikeWilson_32"
 category: "Chính trị"
 lang: vi
 wordCount: 1535

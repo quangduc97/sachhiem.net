@@ -3,7 +3,7 @@ layout: ../../layouts/Article.astro
 title: "Công Giáo Và Vấn Đề Phá Thai"
 author: "Trần Tiên Long"
 date: 2012-10-03
-source: "https://sachhiem.net/TTL/TranTL32.php"
+source: "/TTL/TranTL32"
 category: "Chính trị"
 lang: vi
 wordCount: 3607
@@ -102,7 +102,7 @@ Vậy quan điểm Pro-Life là gì? Có điều gì vô lý với quan điểm 
             thành phần bảo thủ, cực đoan, đối nghịch với đảng Dân Chủ tự do,
             tiến bộ, chuyên lo bảo vệ giới nghèo và giới trung lưu. (Xin xem
             thêm bài <i><u>Dân Chủ hay Cộng Hòa, Đảng Nào Chuyên Lo Bảo Vệ Giới
-            Nghèo</u></i> của cùng tác giả ở cái nguồn: <a href="https://sachhiem.net/index.php?content=showrecipe&amp;id=5396">https://sachhiem.net/index.php?content=showrecipe&amp;id=5396</a> ).
+            Nghèo</u></i> của cùng tác giả ở cái nguồn: <a href="/TTL/TranTL31">https://sachhiem.net/index.php?content=showrecipe&amp;id=5396</a> ).
             Từ một quan điểm chung về vấn đề phá thai, chúng ta nhận ra ngay
             rằng sự liên kết của Công Giáo với đảng Cộng Hòa trong mùa bầu cử
             là điều đương nhiên, cho dù thành phần chủ yếu của đảng Cộng Hòa
@@ -305,15 +305,15 @@ Vậy quan điểm Pro-Life là gì? Có điều gì vô lý với quan điểm 
           <p>- Phá thai hợp pháp: Đối luận giữa phe thuận và phe chống (Legal
             Abortion: Arguments Pro &amp; Con):
             https://www.choicematters.org/articles/legal-abortion-arguments-pro-con/</p>
-          <p>1). 10-Sep-2012 - <a href="/THOISU_CT/ChuH/index.php?content=showrecipe&amp;id=5386">Ghi
+          <p>1). 10-Sep-2012 - <a href="/THOISU_CT/ChuN/NgTienTri02">Ghi
           tên và Đi Bầu Để Bảo Vệ Quyền Lợi Chính Đáng Của Mình</a> - <i>Ng. Tiên Tri</i></p>
-          <p>2). 07-Aug-2012 - <a href="/THOISU_CT/ChuH/index.php?content=showemail&amp;id=137">Quan
+          <p>2). 07-Aug-2012 - <a href="/hop-thu/137">Quan
           Trọng: Mỹ gốc Việt, trước khi bỏ phiếu </a>- <i>Evelyn Bui </i></p><i>
-          <p>3.) 15-Sep-2012 - <a href="https://sachhiem.net/TTL/TranTL29.php ">Những Ý
+          <p>3.) 15-Sep-2012 - <a href="/TTL/TranTL29">Những Ý
           Kiến Nghiêm Chỉnh Cho Kỳ Bầu Cử Tổng Thống Sắp Tới (2012)</a></p>
-          <p>4.) 18-Sep-2012 - <a href="https://sachhiem.net/TTL/TranTL30.php">Trao đổi
+          <p>4.) 18-Sep-2012 - <a href="/TTL/TranTL30">Trao đổi
           với ông NguyenT </a></p>
-          <p>5.) 03-Oct-2012 - <a href="https://sachhiem.net/TTL/TranTL32.php"> Công Giáo Và Vấn Đề Phá Thai </a> </p>
+          <p>5.) 03-Oct-2012 - <a href="/TTL/TranTL32"> Công Giáo Và Vấn Đề Phá Thai </a> </p>
           
           <hr>
 

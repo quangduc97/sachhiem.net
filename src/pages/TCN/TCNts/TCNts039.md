@@ -2,17 +2,17 @@
 layout: ../../../layouts/Article.astro
 title: "SÁNG KIẾN ĐƯỢC ỦNG HỘ"
 author: "Người Đọc Tin"
-source: "https://sachhiem.net/index.php?content=showrecipe&id=516"
+source: "/TCN/TCNts/TCNts039"
 category: "Chính trị"
 lang: vi
 wordCount: 1496
-image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nha.jpg"
+image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/TCN/TCNts/Hinh/TCNts39.jpg"
 ---
 
 <p class="Tuaduoi">“VÔ HIỆU HÓA BÍ TÍCH RỬA TỘI” [DE-BAPTISM]  </p>
 
 
-<p align="center"><a href="/index"><img hspace="20" border="0" src="https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nha.jpg"></a>19 tháng 4,  2009</p>
+<p align="center">19 tháng 4,  2009</p>
 	<p>
 	<img border="0" src="https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/TCN/TCNts/Hinh/TCNts39.jpg" align="left" hspace="10">&nbsp;&nbsp; 
 	<span class="First">T</span>heo <i><u>“Hiệp Hội Thế Tục 

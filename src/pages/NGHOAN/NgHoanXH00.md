@@ -2,16 +2,15 @@
 layout: ../../layouts/Article.astro
 title: "Chân trời Mỹ Thuỷ"
 author: "Ghi chép - NGUYỄN HOÀN"
-source: "https://sachhiem.net/NGHOAN/NgHoanXH00.php"
+source: "/NGHOAN/NgHoanXH00"
 category: "Chính trị"
 lang: vi
 wordCount: 2482
-image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nha.jpg"
+image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/NGHOAN/IMG/MyThuy1.jpg"
 ---
 
 <table border="0" align="center" cellpadding="1" width="250"><tbody><tr>
-	<td width="100"><a href="https://www.sachhiem.net/">
-	<img border="0" src="https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nha.jpg"></a></td>					<td valign="top">	31 tháng 1,  2010
+	<td width="100"></td>					<td valign="top">	31 tháng 1,  2010
 	</td></tr></tbody></table>
 			<p>
 			 <b><font size="5" face="Times New Roman">H</font></b>ai năm trở lại đây, cái tên Mỹ Thuỷ đã xuất hiện ngày một 

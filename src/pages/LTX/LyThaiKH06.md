@@ -2,7 +2,7 @@
 layout: ../../layouts/Article.astro
 title: "Vũ Trụ Mà Chúng Ta Biết Được"
 author: "Lý Thái Xuân sưu tầm"
-source: "https://sachhiem.net/LTX/LyThaiKH06.php"
+source: "/LTX/LyThaiKH06"
 category: "Khoa học"
 lang: vi
 wordCount: 430

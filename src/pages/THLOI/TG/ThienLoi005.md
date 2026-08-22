@@ -2,14 +2,14 @@
 layout: ../../../layouts/Article.astro
 title: "Một Cái Nhìn Khác Về Vụ Tu Viện Bát Nhã"
 author: "Thiên Lôi"
-source: "https://sachhiem.net/THLOI/TG/ThienLoi005.php"
+source: "/THLOI/TG/ThienLoi005"
 category: "Tác giả"
 lang: vi
 wordCount: 7979
-image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nha.jpg"
+image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/TONGIAO/BATNHA/Donruoc1.jpg"
 ---
 
-<p align="center">  <a href="/index"><img border="0" src="https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nha.jpg"></a> 31 tháng 10, 2009 </p>
+<p align="center">   31 tháng 10, 2009 </p>
  			<p class="TuaDoLeft"><u>I. Vào chuyện</u></p>
 			
 			<p>Có vài “bút hữu” (chứ chẳng phải văn hữu hay 

@@ -2,11 +2,11 @@
 layout: ../../../layouts/Article.astro
 title: "Vang Mãi Lời Thề Độc Lập"
 author: "Trung Tướng Hồng Cư / QDND"
-source: "https://sachhiem.net/nguồn https://www.qdnd.vn/QDNDSite/vi-VN/61/43/56/56/58/38092/Default.aspx"
+source: "/nguồn https://www.qdnd.vn/QDNDSite/vi-VN/61/43/56/56/58/38092/Default.aspx"
 category: "Lịch sử"
 lang: vi
 wordCount: 1092
-image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nha.jpg"
+image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/LICHSU/IMG/HOCHIMINH/hochiminh1.jpg"
 ---
 
 <div align="center" style="position: relative; left: 0; top: 0">
@@ -23,8 +23,7 @@ image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nha.jpg"
 <tr><td width="100%">
 <div style="padding-left: 50px; padding-right: 50px"> 
 	<table border="0" cellpadding="1" width="86%" cols="2"><tbody><tr>
-	<td><a href="https://www.sachhiem.net/">
-	<img border="0" src="https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nha.jpg"></a></td>
+	<td></td>
 <td valign="top" width="330"><p>02 tháng 9, 2009
 	</p></td></tr></tbody></table>
 	
@@ -123,7 +122,7 @@ image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nha.jpg"
 	Trung tướng Hồng Cư</p>
 	
 	<p>mời đọc thêm:</p>
-	<p><a href="https://www.sachhiem.net/PNNHAN/Tuyenngon.php">Bản Tuyên ngôn Độc lập Việt Nam
+	<p><a href="/PNNHAN/Tuyenngon">Bản Tuyên ngôn Độc lập Việt Nam
 </a></p>
 	
 	</div>

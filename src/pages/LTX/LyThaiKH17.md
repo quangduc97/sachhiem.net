@@ -3,7 +3,7 @@ layout: ../../layouts/Article.astro
 title: "Sự Sống Trên Sao Hỏa?"
 author: "Lý Thái"
 date: 2014-12-24
-source: "https://sachhiem.net/LTX/LyThaiKH17.php"
+source: "/LTX/LyThaiKH17"
 category: "Tác giả"
 lang: vi
 wordCount: 660

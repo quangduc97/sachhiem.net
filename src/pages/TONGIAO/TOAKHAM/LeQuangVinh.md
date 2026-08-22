@@ -2,18 +2,18 @@
 layout: ../../../layouts/Article.astro
 title: "Lịch sử cụ thể về một khu đất"
 author: "Lê Quang Vịnh"
-source: "https://sachhiem.net/TONGIAO/TOAKHAM/.php"
+source: "/TONGIAO/TOAKHAM/"
 category: "Tác giả"
 lang: vi
 wordCount: 1279
-image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nha.jpg"
+image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/TONGIAO/IMG/Toakham/ToaKhambicuop.jpg"
 ---
 
 <p class="Tuaduoi">có tên gọi là phố Nhà Chung ở Hà Nội</p>
 
 		
 
-<p align="center"><a href="https://sachhiem.net/index.php"><img border="0" hspace="20" src="https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nha.jpg"></a>11 tháng 2, 2008</p>
+<p align="center">11 tháng 2, 2008</p>
 	 
 		 
 	 &nbsp;<p class="brief">Ở Hà Nội, phía Tây hồ Hoàn 

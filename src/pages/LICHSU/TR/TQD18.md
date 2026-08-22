@@ -3,15 +3,14 @@ layout: ../../../layouts/Article.astro
 title: "\"Mượn Gió Bẻ Măng\"?"
 author: "Trần Quang Diệu"
 date: 2012-11-13
-source: "https://sachhiem.net/LICHSU/TR/TQD18.php"
+source: "/LICHSU/TR/TQD18"
 category: "Lịch sử"
 lang: vi
 wordCount: 2425
-image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nha.jpg"
 ---
 
 <table border="0" cellpadding="0" width="250" align="center"><tbody><tr>
-	<td width="125"><a href="/index"><img border="0" src="https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nha.jpg"></a></td>
+	<td width="125"></td>
 <td valign="middle">13-Nov-2012</td>
 		</tr></tbody></table>
         <p><b><i>"Mượn

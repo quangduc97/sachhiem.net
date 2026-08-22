@@ -2,7 +2,7 @@
 layout: ../../../layouts/Article.astro
 title: "Đâu Là Sự Thực! (Trần Chung Ngọc)"
 author: "Trần Chung Ngọc"
-source: "https://sachhiem.net/TCN/TCNtg/TCN66_Main.php"
+source: "/TCN/TCNtg/TCN66_Main"
 lang: vi
 wordCount: 94
 image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/TCN/Pict/TCN66.jpg"

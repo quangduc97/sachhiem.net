@@ -3,7 +3,7 @@ layout: ../../../layouts/Article.astro
 title: "Chính Sách Của Chính Quyền Ngô Đình Diệm"
 author: "Lê Cung"
 date: 2020-07-13
-source: "https://sachhiem.net/LICHSU/L/LeCung01.php"
+source: "/LICHSU/L/LeCung01"
 category: "Chính trị"
 lang: vi
 wordCount: 6032
@@ -18,7 +18,7 @@ image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/TONGIAO/IMG/VATICAN/
  <div class="tomluoc">
    <p><i>...Ngay từ đầu ông (Ngô Đình Diệm) đã thành lập Chính phủ với nhiều nguời Thiên Chúa giáo và dành cho những làng Thiên Chúa giáo nhiều ưu tiên hơn với những làng còn lại. Các viên chức của Diệm làm việc chặt chẽ với các Linh mục</i>,...</p>
  </div>
-<p><a href="https://sachhiem.net/LICHSU/L/LeCung.php">(Xem Lời Đầu)</a></p>
+<p><a href="/LICHSU/L/LeCung">(Xem Lời Đầu)</a></p>
  <h2>Phần I - Về kinh  tế - xã hội </h2>
  <p>  Trên lĩnh vực kinh tế - xã hội, ngay từ khi chính  quyền Ngô Đình Diệm vừa được thành lập, chính sách kỳ thị Phật giáo, độc tôn  Thiên Chúa giáo của chính quyền này đã được đem ra thực hiện, trước tiên trong  vấn đề di cư. Để lôi kéo nhiều tín đồ Thiên Chúa giáo di cư vào Nam, ngay sau  khi hiệp định Genève vừa được ký kết (20-7-1954­), chính quyền Ngô Đình Diệm,  với sự giúp đỡ của Mỹ qua tên trùm gián điệp Spellman, đã dựng lên chiêu bài <i>"Đức Mẹ vào Nam"</i>. Thực ra việc  cưỡng ép và dụ dỗ tín đồ các tôn giáo nói chung, tín đồ Thiên Chúa giáo nói  riêng ở miền Bắc di cư vào miền Nam  của Mỹ và chính quyền Ngô Đình Diệm nhằm nhiều mục đích khác nhau: Chính trị,  quân sự, kinh tế,... cốt làm cho nhân dân ta có ác cảm với cách mạng, đồng thời  để tăng cường lực lượng hậu thuẫn cho chính quyền Ngô Đình Diệm.</p>
  <p align="center"><img src="https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/TONGIAO/IMG/VATICAN/HY_Spellman_GHPius12.jpg" width="400" height="323" alt=""></p>
@@ -83,7 +83,7 @@ image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/TONGIAO/IMG/VATICAN/
 <p align="center"><img src="https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/TONGIAO/IMG/PHAPNAN/1963_ChuaDieuDe_Hue.JPG" width="90%" alt=""></p>
 <p>  Ngoài ra còn có rất nhiều trường hợp khác, các nạn  nhân bị bắt, bị gán tội làm gián điệp cho Pháp, bị tra tấn và buộc phải tống  tiền mới được thả như các ông Nguyễn Văn Chiểu bị bắt ngày 7-3-1958 tại Quảng  Trị, Trần Nghiêm bị bắt ngày 6-7-1958 tại Nha Trang, Trần Nguyên Cáo bị bắt  ngày 11-12-1958 tại Quảng Ngãi v.v... Con số người bị Ngô Đình Cẩn sát hại tại  miền Trung lên đến 300.000 người<a href="/LICHSU/#_ftn74" name="_ftnref74"> (74) </a>.</p>
 <p>  Điều cần chú ý  thêm là chính quyền NĐD còn <i>"khéo  dùng phép nước"</i> để bắt nhân dân miền Nam mà đại đa số là tín đồ Phật  giáo, thực hiện những tín điều của TCG bằng cách hạn chế một số hoạt động kinh  tế của họ. Ở mặt này, thật khó tin được nếu không có những tư liệu cụ thể.  Chẳng hạn, ngày 6-8-1961, Diệm ra Nghị định số 1182-BKTTCGNTTTCGND quy định:  “<i>Cấm hạ và bán thịt heo trên toàn lãnh thổ Việt Nam Cộng hòa, 3 ngày trong tuần  lễ: thứ Ba, thứ Sáu và Chúa nhật, cho đến khi có lệnh mới,... Trong ba ngày cấm  trên đây, thịt heo quay, thịt heo ướp lạnh của những ngày trước còn lại cũng  không được phép bán trong các tiệm, các chợ, mặc dầu dưới hình thức nào</i>”<a href="/LICHSU/#_ftn75" name="_ftnref75"> (75).</a></p>
-  <p>(Xem tiếp<a href="https://sachhiem.net/LICHSU/L/LeCung02.php"> Phần II. Về Văn Hóa - Giáo Dục) </a></p>
+  <p>(Xem tiếp<a href="/LICHSU/L/LeCung02"> Phần II. Về Văn Hóa - Giáo Dục) </a></p>
  <p>___________________</p>
  <p><b>CHÚ THÍCH:</b></p>
  <p><a href="/LICHSU/#_ftnref39" name="_ftn39"> (39) </a> Tổng kết thành tích đệ nhị chu niên của Chính phủ Việt Nam Cộng hòa, Sài Gòn,  1956, tr. 224.</p>
@@ -116,6 +116,6 @@ image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/TONGIAO/IMG/VATICAN/
 <p>      Công báo Việt Nam Cộng  hòa, ngày 6-11-1961. Trung tâm lưu trữ Quốc gia II. J. 412.</p>
      <p>______________</p>
      <p><b>Bài đọc thêm:</b></p>
-     <p>- <a href="https://sachhiem.net/NDX/NDX018.php">“Quốc sách ấp chiến lược” - một sản phẩm chính trị thâm độccủa Ngô Đình Nhu tan theo số phận của gia đình họ Ngô</a> (Nguyễn Đắc Xuân)</p>
+     <p>- <a href="/NDX/NDX018">“Quốc sách ấp chiến lược” - một sản phẩm chính trị thâm độccủa Ngô Đình Nhu tan theo số phận của gia đình họ Ngô</a> (Nguyễn Đắc Xuân)</p>
  
  <p class="nguonL">Nguồn tác giả gửi</p>

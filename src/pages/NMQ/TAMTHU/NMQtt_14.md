@@ -2,17 +2,17 @@
 layout: ../../../layouts/Article.astro
 title: "Tâm Thư Gửi Nhà Nước Việt Nam"
 author: "Nguyễn Mạnh Quang"
-source: "https://sachhiem.net/NMQ/TAMTHU/NMQtt_14.php"
+source: "/NMQ/TAMTHU/NMQtt_14"
 lang: vi
 wordCount: 10809
-image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nha.jpg"
+image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/print.gif"
 ---
 
-<p align="center"><a href="https://www.sachhiem.net/"> <img border="0" src="https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nha.jpg"></a> | 
-<a target="_blank" href="https://sachhiem.net/NMQ/TAMTHU/NMQtt_14.php">
+<p align="center"> | 
+<a target="_blank" href="/NMQ/TAMTHU/NMQtt_14">
 <img border="0" src="https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/print.gif" width="18" height="18"> 
   bản in</a> | 
-	<a target="_blank" href="https://sachhiem.net/NMQ/TAMTHU/NMQtt_Main.php"><b><font face="Symbol" size="5"> ¿ </font></b> trở ra mục lục</a>
+	<a target="_blank" href="/NMQ/TAMTHU/NMQtt_Main"><b><font face="Symbol" size="5"> ¿ </font></b> trở ra mục lục</a>
  |   17 tháng 2, 2010</p>
  
 <p class="CHUONG">PHẦN III</p>
@@ -863,7 +863,7 @@ trùm ác ôn của tập thể những tên ác ôn, vừa là vua bịp của 
 trên thế giới này trong suốt chiều dài lịch sử từ giữa năm 1075 cho đến ngày 
 nay.</p>
 
-<p><a target="_blank" href="https://sachhiem.net/NMQ/TAMTHU/NMQtt_14a.php">(xem tiếp)<img border="0" src="https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/Next3.gif" width="15" height="6"></a></p>
+<p><a target="_blank" href="/NMQ/TAMTHU/NMQtt_14a">(xem tiếp)<img border="0" src="https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/Next3.gif" width="15" height="6"></a></p>
 
 
 <p class="TuaDenLeft">CHÚ THÍCH</p>
@@ -939,7 +939,7 @@ dominated by religion<i>.”</i></p>
 		</p>
 <p class="baochi"><a name="_edn14" title="" href="/NMQ/#_ednref14">[14]</a>
 		Nguồn: 
-		<a href="https://sachhiem.net/TONGIAO/tgS/SH10.php">https://sachhiem.net/TONGIAO/tgS/SH10.php</a>.</p><p class="baochi">Lời bàn nhân vụ Suzanna:
+		<a href="/TONGIAO/tgS/SH10">https://sachhiem.net/TONGIAO/tgS/SH10.php</a>.</p><p class="baochi">Lời bàn nhân vụ Suzanna:
 “Ngay khi vừa mới bắt giữ được cô Susanna Maiolo, dù chưa có tài liệu nào nói về vấn đề này đưa ra trưng dẫn làm bằng cớ, Tòa Thánh Vatican đã loan tin rằng đương sự mắc “bệnh tâm thần”. Căn cứ vào những việc làm có tính toán, có sắp xếp để chuẩn bị vượt qua hàng rào cản và đoàn người hộ tống cùng đoàn người diễn hành đi theo Giáo Hoàng Benedict XVI, thì  cô Susanna Maiolo không những không mắc bệnh tâm thần, mà còn rất khôn khéo, rất bình tĩnh, rất tỉnh táo và rất sáng suốt trong lúc hành động. Dù vậy, một khi đã công khai tuyên bố rằng đương sự mắc bệnh tâm thần, thì với bản chấ, thâm độc và tàn ác sẵn có và với thói quen hành động theo thú tính của họ trong gần hai ngàn năm qua, rất có thể họ sẽ làm cho cô thực sự trở thành điên khùng. Thực hư như thế nào, chúng ta hãy chờ xem!</p>
 <p class="baochi"><i> Thánh Nữ Susanna</i>” hiện 
 đang bị sở cảnh sát và an ninh của chính quyền Quốc Gia Vatican giam giữ, thẩm 

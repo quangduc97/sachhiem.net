@@ -3,7 +3,7 @@ layout: ../../../layouts/Article.astro
 title: "Thư Gửi Tổng Thống Hoa Kỳ về Chất Độc Da Cam"
 author: "Trần Văn Xẻn"
 date: 2018-05-04
-source: "https://sachhiem.net/LICHSU/TR/TranVanXen_01.php"
+source: "/LICHSU/TR/TranVanXen_01"
 category: "Chính trị"
 lang: vi
 wordCount: 3923
@@ -120,4 +120,4 @@ image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/LICHSU/IMG/VNwar/Dac
 <p>__________________________</p>
 <p><b>Mời xem thêm đề tài về Vụ kiện Chất Độc Da Cam:</b></p>
 <p>- <a href="https://xenvantran.wordpress.com/2015/11/16/thu-gui-tong-thong-hoa-ky-ve-chat-doc-da-cam/">Thư gửi Tổng Thống Hoa Kỳ về chất độc da cam</a> (Trần Văn Xẻn)</p>
-<p>- "Đường Trần Là Thế" - Phần Hồi Âm (Trần Tố Nga) Link <a href="https://sachhiem.net/VANHOC/N/NguyenvThinh_18A.php">https://sachhiem.net/VANHOC/N/NguyenvThinh_18A.php</a></p>
+<p>- "Đường Trần Là Thế" - Phần Hồi Âm (Trần Tố Nga) Link <a href="/VANHOC/N/NguyenvThinh_18A">https://sachhiem.net/VANHOC/N/NguyenvThinh_18A.php</a></p>

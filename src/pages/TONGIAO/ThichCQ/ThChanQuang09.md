@@ -3,7 +3,7 @@ layout: ../../../layouts/Article.astro
 title: "Giai Thoại Kinh Hòa Bình - và Sư Thích Chân Quang"
 author: "Lý Thái Xuân"
 date: 2025-01-29
-source: "https://sachhiem.net/DOITHOAI/SH/KinhHoaBinh_TCQ.php"
+source: "/DOITHOAI/SH/KinhHoaBinh_TCQ"
 category: "Tác giả"
 lang: vi
 wordCount: 7261

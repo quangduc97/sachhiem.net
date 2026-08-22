@@ -2,13 +2,13 @@
 layout: ../../../layouts/Article.astro
 title: "NỖI LÒNG CỦA HUẾ"
 author: "Minh Mẫn"
-source: "https://sachhiem.net/MINHMAN/Tongiao/MinhManTG12.php"
+source: "/MINHMAN/Tongiao/MinhManTG12"
 lang: vi
 wordCount: 2712
-image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nha.jpg"
+image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/Hinh/ChuaTuHieu.gif"
 ---
 
-<p align="center"><a href="https://www.sachhiem.net/"> <img border="0" src="https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nha.jpg"> </a> 19 tháng 8, 2007 </p>
+<p align="center"> 19 tháng 8, 2007 </p>
 									<p style="text-align: center">&nbsp;
 									<img border="0" src="https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/Hinh/ChuaTuHieu.gif" width="150" height="99"></p>
 									<p>Tôi ra Huế được một tuần, 

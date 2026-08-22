@@ -3,7 +3,7 @@ layout: ../../../layouts/Article.astro
 title: "Chính Tổng Thống Mỹ Ủng Hộ Lật Ông Diệm"
 author: "BBC Tiếng Việt"
 date: 2013-11-06
-source: "https://sachhiem.net/LICHSU/B/BBC_diem.php"
+source: "/LICHSU/B/BBC_diem"
 category: "Tác giả"
 lang: vi
 wordCount: 1089

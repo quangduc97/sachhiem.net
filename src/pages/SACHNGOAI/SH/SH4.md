@@ -3,7 +3,7 @@ layout: ../../../layouts/Article.astro
 title: "Những Lời Khắc Nghiệt Cho Linh Mục Sullivan và Giáo Hội"
 author: "Harold Carmichael /Saultstar.com"
 date: 2016-04-11
-source: "https://sachhiem.net/SACHNGOAI/SH/SH4.php"
+source: "/SACHNGOAI/SH/SH4"
 category: "Sách ngoại văn"
 lang: vi
 wordCount: 605

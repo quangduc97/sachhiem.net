@@ -2,16 +2,16 @@
 layout: ../../../layouts/Article.astro
 title: "Thành Kính Phân Ưu (Thân Hữu)"
 author: "Nhóm Thân Hữu"
-source: "https://sachhiem.net/null"
+source: "/null"
 category: "Xã hội"
 lang: vi
 wordCount: 22
-image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nha.jpg"
+image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/ChiaBuon/VongHoaPhungDieu.gif"
 ---
 
 <p class="Tuaduoi">Thành Kính Phân Ưu </p>
 		
- <p align="center"><a href="https://www.sachhiem.net/"> <img border="0" src="https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nha.jpg"></a> date </p>
+ <p align="center"> date </p>
 
 
 

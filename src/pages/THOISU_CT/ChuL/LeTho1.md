@@ -2,7 +2,7 @@
 layout: ../../../layouts/Article.astro
 title: "HÃY XÓA DẤU VẾT XÂM LƯỢC"
 author: "Thích Lệ Thọ"
-source: "https://sachhiem.net/null"
+source: "/null"
 category: "Chính trị"
 lang: vi
 wordCount: 548
@@ -35,7 +35,7 @@ image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nhacu.jpg"
 <table border="0" cellpadding="50" cellspacing="0" width="100%" topmargin="10"> 
 	<tbody><tr><td bgcolor="White" align="justify" valign="top">
 <table border="0" cellpadding="10" width="100%" cols="3">
-						<tbody><tr><td><a href="https://sachhiem.net/"><img border="0" src="https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nhacu.jpg" width="49" height="19"></a></td>				<td valign="top"><i><a href="/THOISU_CT/#" onclick="location.href='https://sachhiem.net/BIA/sendafriend.php?url='+location.href;">
+						<tbody><tr><td><a href="/"><img border="0" src="https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nhacu.jpg" width="49" height="19"></a></td>				<td valign="top"><i><a href="/THOISU_CT/#" onclick="location.href='https://sachhiem.net/BIA/sendafriend.php?url='+location.href;">
 				<img src="https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/THOISU_CT/file:///C:/SACHHIEM/images/mail.gif" border="0"> 
 Gửi bài này cho bạn bè</a></i></td>
 	<td valign="top">	<i>23 tháng 2, 2008

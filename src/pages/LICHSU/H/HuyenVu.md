@@ -2,16 +2,16 @@
 layout: ../../../layouts/Article.astro
 title: "Trích đoạn từ Hồi-ký:"
 author: "HUYỀN VŨ"
-source: "https://sachhiem.net/LICHSU/H/HuyenVu.php"
+source: "/LICHSU/H/HuyenVu"
 category: "Lịch sử"
 lang: vi
 wordCount: 3502
-image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nha.jpg"
+image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/LICHSU/IMG/NHANVAT/TheThaoGiaHuyenVu.jpg"
 ---
 
 <table border="0" cellpadding="0" align="center" width="250" cols="2">
 		    <tbody><tr>
-              <td width="132"><a href="/LICHSU/index"> <img border="0" src="https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nha.jpg"></a></td>
+              <td width="132"></td>
 		<td valign="top" width="194">14 tháng 8, 2010	</td></tr>
 </tbody></table>
 <p class="PicLeft">

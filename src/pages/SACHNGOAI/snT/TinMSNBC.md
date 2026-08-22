@@ -2,7 +2,7 @@
 layout: ../../../layouts/Article.astro
 title: "Giáo Hoàng Xin Tha Thứ,"
 author: "Nicole Winfield/AP"
-source: "https://sachhiem.net/Source &nbsp;https://www.msnbc.msn.com/id/37632866/ns/world_news-europe/"
+source: "/Source &nbsp;https://www.msnbc.msn.com/id/37632866/ns/world_news-europe/"
 category: "Tác giả"
 lang: vi
 wordCount: 2469

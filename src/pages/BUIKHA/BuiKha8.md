@@ -3,7 +3,7 @@ layout: ../../layouts/Article.astro
 title: "NOEL - MỪNG GIÁNG SINH"
 author: "Bùi Kha"
 date: 2013-12-21
-source: "https://sachhiem.net/BUIKHA/BuiKha8.php"
+source: "/BUIKHA/BuiKha8"
 category: "Lịch sử"
 lang: vi
 wordCount: 3008
@@ -187,6 +187,6 @@ image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/BUIKHA/img/HappyHoli
 	
 <hr><p class="TuaDenLeft">Bài cùng chủ đề:</p>
 					<p>- <a href="/BUIKHA/BuiKha8">Noel - Mừng Giáng Sinh (Bùi Kha)</a></p>
-					<p>- <a href="https://sachhiem.net/LTX/LyThaiXH14.php">Những Chủ Đề Mới Trong Thiệp Chúc Mùa Đông (Lý Thái)</a></p>
+					<p>- <a href="/LTX/LyThaiXH14">Những Chủ Đề Mới Trong Thiệp Chúc Mùa Đông (Lý Thái)</a></p>
 					<p>- <a href="/XAHOI/T/TranXuanNinh">Quanh ngày lễ Giáng sinh (Christmas) ở Mỹ ngày nay (Trần Xuân Ninh)</a></p>
 <hr>

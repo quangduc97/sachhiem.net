@@ -3,7 +3,7 @@ layout: ../../../layouts/Article.astro
 title: "Phiền Quá ! Lại Là Bà Đốc Thanh"
 author: "Trần Chung Ngọc"
 date: 2012-11-17
-source: "https://sachhiem.net/TCN/TCNdt/TCNdt065.php"
+source: "/TCN/TCNdt/TCNdt065.php"
 category: "Đối thoại"
 lang: vi
 wordCount: 8598
@@ -91,7 +91,7 @@ image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/TONGIAO/IMG/LINHMUC/
     <p>Bây giờ chúng ta hãy đọc cái đơn thuốc làm tê liệt khả năng suy tư
       của con người của bà đốc Nguyễn Thị Thanh. Thật ra thì bà đốc Thanh rất
       mù mờ vì chính tôn giáo của mình.&nbsp; Tất cả sự thật về Ki Tô Giáo nói chung,
-      Công giáo nói riêng, tôi đã viết lên một bài nghiên cứu khá công phu trên <a href="https://www.sachhiem.net/TCN/TCNtg/TCN130.php">https://sachhiem.net/TCN/TCNtg/TCN130.php</a>.&nbsp;
+      Công giáo nói riêng, tôi đã viết lên một bài nghiên cứu khá công phu trên <a href="/TCN/TCNtg/TCN130">https://sachhiem.net/TCN/TCNtg/TCN130.php</a>.&nbsp;
       Không đọc, không biết đến những sự thật này không có nghĩa là những sự
       thật đó không hiện hữu.&nbsp; Trước khi người Công giáo lên án người khác là
       chống phá đạo Công giáo của họ thì họ cần phải biết những sự thật về chính
@@ -594,7 +594,7 @@ image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/TONGIAO/IMG/LINHMUC/
     <p><span class="TacgiaL">Trần Chung Ngọc</span></p>
 <p>Ngày 15 tháng 11, 2012 </p>
     
-    <p>- Mời đọc thêm <a href="https://sachhiem.net/DOITHOAI/LeMinhHang01.php">"Đáp Thư Bà Bác Sĩ Nguyễn Thị Thanh"</a> (Bé Hằng) </p>
+    <p>- Mời đọc thêm <a href="/DOITHOAI/LeMinhHang01">"Đáp Thư Bà Bác Sĩ Nguyễn Thị Thanh"</a> (Bé Hằng) </p>
     <hr>
     
     

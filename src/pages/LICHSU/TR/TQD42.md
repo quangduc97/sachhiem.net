@@ -3,7 +3,7 @@ layout: ../../../layouts/Article.astro
 title: "Đối Thoại 2: Người Ngoại Quốc Biết Gì?"
 author: "Trần Quang Diệu"
 date: 2015-03-10
-source: "https://sachhiem.net/LICHSU/TR/TQD42.php"
+source: "/LICHSU/TR/TQD42"
 category: "Đối thoại"
 lang: vi
 wordCount: 1393
@@ -15,7 +15,7 @@ image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/TONGIAO/IMG/SU/ThNha
  
  
   
-    <p>(<a href="https://sachhiem.net/LICHSU/TR/TQD41_VuNgNh.php">Đối Thoại 1: Một Con Chiên Đánh Sập VNCH</a>)</p>
+    <p>(<a href="/LICHSU/TR/TQD41_VuNgNh">Đối Thoại 1: Một Con Chiên Đánh Sập VNCH</a>)</p>
     <p><i>LTS: Việc Thiền Sư Thích Nhất Hạnh được vinh danh ở Mỹ đã làm cho một số người không vui. Nhưng họ lại tỏ ra vô cùng hãnh diện, sung sướng đến cực điểm khoe khoang Bà Dương Nguyệt Ánh được phần thưởng của chính phủ Hoa Kỳ nhờ chế bom áp nhiệt nhanh hơn kỳ hạn. Hai trường hợp trái ngược, người được vinh danh vì tính cách nhân bản, và một người được thưởng vì chế vũ khí giết người. </i></p>
     <p align="center"><img src="https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/TONGIAO/IMG/SU/ThNhatHanh_Oakland.jpg" width="350" height="232"></p>
     <p align="center"><img src="https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/THOISU_CT/Hinh/NHANVAT/DuongNguyetAnh_2007Award1.jpg" width="594" height="170"></p>

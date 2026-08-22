@@ -2,15 +2,15 @@
 layout: ../../../layouts/Article.astro
 title: "VỀ BÀI VIẾT “CÔNG ÁN” CỦA HOÀNG PHI LONG"
 author: "Trần Chung Ngọc"
-source: "https://sachhiem.net/TCN/TCNdt/TCNdt044.php"
+source: "/TCN/TCNdt/TCNdt044"
 category: "Đối thoại"
 lang: vi
 wordCount: 5577
-image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.devhttps://sachhiem.net/images/nha.jpg"
+image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/TONGIAO/IMG/CHUA/BoDeDatMa.jpg"
 ---
 
 <table border="0" width="250" align="center">
-    <tbody><tr><td width="106"><a href="https://sachhiem.net/index.php"><img border="0" src="https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.devhttps://sachhiem.net/images/nha.jpg"></a>    </td>
+    <tbody><tr><td width="106">    </td>
 <td valign="top" width="210"><p>04 tháng 3, 2010	</p> 		</td></tr></tbody></table> 	<p><i>LTS: Thường thường người ta không muốn có căng thẳng giữa những người trong cùng một tập thể mà sự thể hiện nằm trong các bài viết phê phán. Nhưng sống trong một tập thể dù nhỏ đến đâu, ngay cả trong một gia đình, cũng vẫn có tranh luận. Thường thì kết quả của tranh luận ít khi đưa đến việc đồng ý với nhau. Ngoại trừ những trường hợp không thể nói đến trong không khí lành mạnh,  tranh luận chưa hẳn là không có khía cạnh tốt của nó. Có những tranh luận để mỗi người được "lớn lên", có những tranh luận để mỗi bên trở nên sắc bén hơn, cũng như có những tranh cãi để mỗi bên khiêm nhượng hơn. Tòa soạn cho rằng những bài tranh luận  dưới đây nếu không có được những điểm tích cực cho đôi bên cũng như độc giả thì cũng không có gì là tiêu cực.  Những bài liên hệ đề cập trong bài sau đây đều được dẫn đến bài gốc do đường dẫn ẩn ngay trong tựa bài. Độc giả có thể bấm vào tựa để xem nguyên văn. Trân trọng (SH).</i></p> 	<hr> 	<p class="center">
 
  <img border="0" src="https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/TONGIAO/IMG/CHUA/BoDeDatMa.jpg"></p> <p><span class="First">T</span>ôi vừa đọc bài “<i><a href="https://www.giaodiemonline.com/noidung_detail.php?newsid=4643">Bát  	Nhã: Công Án Hay Không Công Án?</a></i>” của cháu Hoàng Phi Long trên  	giaodiemonline.com trong đó cháu đưa ra một số ý kiến về bài  	<a href="/TCNtg/TCN92">“<i>Tôi Đọc  	“Bát Nhã Là Một Công Án Thiền” Của Thiền Sư Nhất Hạnh</i>”</a>. Tôi không  	hiểu tại sao Giao Điểm lại cho đăng bài đó.

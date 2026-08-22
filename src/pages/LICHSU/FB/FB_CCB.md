@@ -3,7 +3,7 @@ layout: ../../../layouts/Article.astro
 title: "Ức Lòng Các Cựu Chiến Binh: Tiểu Thuyết “Nỗ̃i Buồn Chiến Tranh”"
 author: "Các Cựu Chiến Binh"
 date: 2025-11-30
-source: "https://sachhiem.net/LICHSU/FB/FB_CCB.php"
+source: "/LICHSU/FB/FB_CCB"
 category: "Chính trị"
 lang: vi
 wordCount: 6139

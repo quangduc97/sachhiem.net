@@ -2,15 +2,14 @@
 layout: ../../../layouts/Article.astro
 title: "Hoàn cảnh lịch sử dẫn đến tranh chấp"
 author: "Hàn Nguyên Nguyễn Nhã"
-source: "https://sachhiem.net/LICHSU/N/NguyenNha1_3.php"
+source: "/LICHSU/N/NguyenNha1_3"
 category: "Lịch sử"
 lang: vi
 wordCount: 3180
-image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nha.jpg"
 ---
 
 <table border="0" cellpadding="1" align="center" width="250">
-        <tbody><tr><td width="100"><a href="/index"><img border="0" src="https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nha.jpg"></a></td>
+        <tbody><tr><td width="100"></td>
 	<td valign="top">	<font size="2">17 tháng 7, 2009	</font>
 	</td></tr></tbody></table>
 	

@@ -3,7 +3,7 @@ layout: ../../../layouts/Article.astro
 title: "Võ Nguyên Giáp và Huyền Thoại \"Không Thể Đánh Bại\" của Người Mỹ"
 author: "James A. Warren"
 date: 2013-10-15
-source: "https://sachhiem.net/THOISU_CT/ChuP/PhamATruc.php"
+source: "/THOISU_CT/ChuP/PhamATruc"
 category: "Tác giả"
 lang: vi
 wordCount: 2142

@@ -3,7 +3,7 @@ layout: ../../../layouts/Article.astro
 title: "Đôi Dòng Về Tác Giả"
 author: "Hoàng Kiền"
 date: 2022-08-10
-source: "https://sachhiem.net/LICHSU/H/HoangKien.php"
+source: "/LICHSU/H/HoangKien"
 category: "Chính trị"
 lang: vi
 wordCount: 1575

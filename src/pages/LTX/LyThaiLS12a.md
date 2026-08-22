@@ -3,7 +3,7 @@ layout: ../../layouts/Article.astro
 title: "Những Tác Phẩm Văn Học Pétrus Ký Có Mục Đích Gì? - 6 Bằng Chứng"
 author: "Lý Thái Xuân trích lược"
 date: 2024-02-14
-source: "https://sachhiem.net/LTX/LyThaiLS12a.php"
+source: "/LTX/LyThaiLS12a"
 category: "Lịch sử"
 lang: vi
 wordCount: 2926
@@ -14,10 +14,10 @@ image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/LICHSU/IMG/PETRUSKY/
    <p><i>LTS: Có nhiều người cố tình bào chữa, châm chế cho Trương Vĩnh Ký và cho rằng&nbsp;"chỉ thuần túy về phương diện văn hóa không mà thôi, ông đã biên soạn và dịch thuật nhiều tác phẩm mà những tác phẩm đó giúp ích cho nền văn hóa nước nhà".&nbsp;Do đó bài này sẽ tìm hiểu về dụng tâm thực sự của các công trình văn hóa của họ Trương.  </i></p>
    <p><i>Tác giả Bùi Kha đã có những trích đoạn thích hợp  trong bài Trương Vĩnh Ký Phản Bội Tổ Quốc, Sao Gọi Là Nỗi Oan Thế Kỷ? Bài dưới đây trích mục B trong bài đó.</i>(SH)</p>
    </div>
- <p>[Loạt bài tóm lược về TVK của LTX: <a href="https://sachhiem.net/LTX/LyThaiLS12.php"> 1 </a>. <a href="https://sachhiem.net/LTX/LyThaiLS12a.php"> 2 </a>. <a href="https://sachhiem.net/LTX/LyThaiLS12aa.php"> 3 </a>. <a href="https://sachhiem.net/LTX/LyThaiLS12b.php"> 4 </a>]</p>
+ <p>[Loạt bài tóm lược về TVK của LTX: <a href="/LTX/LyThaiLS12"> 1 </a>. <a href="/LTX/LyThaiLS12a"> 2 </a>. <a href="/LTX/LyThaiLS12aa"> 3 </a>. <a href="/LTX/LyThaiLS12b"> 4 </a>]</p>
  
  <p align="center"><img src="https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/LICHSU/IMG/PETRUSKY/TruongTrungHoc.JPG" width="450" height="375" alt=""></p>
- <p>Trong bài  trước (<a href="https://sachhiem.net/LTX/LyThaiLS12.php">Ba Trọng Tội, và Lòng Dạ của Pétrus Ký, Qua 8 Lá Thư của Ông Gửi Chính Quyền Thực Dân Pháp</a>), qua các lá thư của chính ông Trương Vĩnh Ký gửi cho các quan thực dân  Pháp ở An Nam, chúng ta đã tóm lược thành 3 tội trạng, xin nhắc lại cho tiện  tham khảo: </p>
+ <p>Trong bài  trước (<a href="/LTX/LyThaiLS12">Ba Trọng Tội, và Lòng Dạ của Pétrus Ký, Qua 8 Lá Thư của Ông Gửi Chính Quyền Thực Dân Pháp</a>), qua các lá thư của chính ông Trương Vĩnh Ký gửi cho các quan thực dân  Pháp ở An Nam, chúng ta đã tóm lược thành 3 tội trạng, xin nhắc lại cho tiện  tham khảo: </p>
  <p><b>Tội thứ nhất:</b> Kêu gọi thực dân Pháp  đánh chiếm nước ta bằng một lá thư viết tay gửi Hải quan Trung tá  Jauréguiberry.</p>
  <p><b>Tội thứ hai:</b>&nbsp; Kích động lòng tham của thực dân Pháp trong  bài Tường Trình Chuyến đi Bắc Kỳ năm Ất Hợi (1876), mô tả xứ Bắc kỳ như một  miếng mồi kinh tế béo bở; để thực dân Pháp chiếm và cai trị.</p>
  <p><b>Tội thứ ba:</b>&nbsp; Giúp Pháp đồng hóa dân tộc An Nam qua  các công trình văn hóa, dịch thuật.</p>
@@ -72,7 +72,7 @@ image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/LICHSU/IMG/PETRUSKY/
 <p><b>Tài liệu nguồn</b></p>
 <p>1- "<i>Trương Vĩnh Ký,  Cuốn Sổ Bình Sinh</i>"; Nguyễn Sinh Duy. Có thể mua ở nhà sách hoặc tải xuống <a href="https://vietbooks.info/threads/truong-vinh-ky-cuon-so-binh-sanh-nxb-van-hoc-2004-nguyen-sinh-duy-118-trang.101637/">(https://vietbooks.info...)</a> hoặc dùng link <a href="https://drive.google.com/file/d/1R9bwrmaRtEBt6WcJ4NBK7aRjZx5h2Ukr">drive.google.com</a>.</p>
 <p class="sub">1a. <i> Thư không thấy đề ngày. Còn Ban Duyệt Xét là Hội Đồng Thuộc Địa của thực dân Pháp ở Nam-kỳ.</i></p>
-<p>2- Trương Vĩnh Ký Phản Bội Tổ Quốc, Sao Gọi Là Nỗi Oan Thế Kỷ? Bùi Kha<a href="https://sachhiem.net/BUIKHA/BuiKha32.php"> (https://sachhiem.net). </a> Đây là một bài trong quyển Trương Vĩnh Ký Tiểu Luận, được Nhà Xuất Bản Hội Nhà Văn xuất bản và giới thiệu.</p>
+<p>2- Trương Vĩnh Ký Phản Bội Tổ Quốc, Sao Gọi Là Nỗi Oan Thế Kỷ? Bùi Kha<a href="/BUIKHA/BuiKha32"> (https://sachhiem.net). </a> Đây là một bài trong quyển Trương Vĩnh Ký Tiểu Luận, được Nhà Xuất Bản Hội Nhà Văn xuất bản và giới thiệu.</p>
 <p align="center"><img src="https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/LICHSU/IMG/PETRUSKY/BUIKHA_CoPhepXBML.jpg" width="450" height="447" alt=""></p>
 <p align="center"><img src="https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/LICHSU/IMG/PETRUSKY/BUIKHA_nxbHN.jpg" width="450" height="635" alt=""></p>
 <p align="center"><img src="https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/LICHSU/IMG/PETRUSKY/BUIKHA_nxbHN_0.jpg" width="450" height="643" alt=""></p>
@@ -82,7 +82,7 @@ image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/LICHSU/IMG/PETRUSKY/
 
 <p>______________</p>
 <p><b>Bài đọc thêm:</b></p>
-<p><b>-  Cái Uyên Bác Của Trương Vĩnh Ký Giúp Pháp Thế Nào? </b><a href="https://sachhiem.net/LICHSU/T/TinTiengKeng.php">(Lò Thị Tố Uyên/ Tiếng Kẻng)</a> Phản bác câu nói của <a href="https://tuoitre.vn/truong-vinh-ky-yeu-nuoc-theo-cach-cua-minh-20200912110837562.htm">Dương Trung Quốc</a> về Trương Vĩnh Ký: "<i>Yêu nước thì ai cũng yêu nước, đừng ai đòi độc quyền yêu nước. Chỉ là chủ nghĩa yêu nước của mỗi người thể hiện khác nhau, thậm chí xung đột nhau về lợi ích</i>"</p>
+<p><b>-  Cái Uyên Bác Của Trương Vĩnh Ký Giúp Pháp Thế Nào? </b><a href="/LICHSU/T/TinTiengKeng">(Lò Thị Tố Uyên/ Tiếng Kẻng)</a> Phản bác câu nói của <a href="https://tuoitre.vn/truong-vinh-ky-yeu-nuoc-theo-cach-cua-minh-20200912110837562.htm">Dương Trung Quốc</a> về Trương Vĩnh Ký: "<i>Yêu nước thì ai cũng yêu nước, đừng ai đòi độc quyền yêu nước. Chỉ là chủ nghĩa yêu nước của mỗi người thể hiện khác nhau, thậm chí xung đột nhau về lợi ích</i>"</p>
 <p><img src="https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/LICHSU/IMG/PETRUSKY/BaoTuoiTre_gachcheo1.jpg" width="400" height="467" alt=""></p>
 <p>______________</p>
 <p><b>Các bài viết biện hộ cho Trương Vĩnh Ký</b>:</p>

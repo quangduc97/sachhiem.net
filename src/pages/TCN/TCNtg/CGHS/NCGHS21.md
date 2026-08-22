@@ -2,15 +2,14 @@
 layout: ../../../../layouts/Article.astro
 title: "CÔNG GIÁO HẮC SỬ - IV"
 author: "Trần Chung Ngọc"
-source: "https://sachhiem.net/TCN/TCNtg/CGHS/NCGHS21.php"
+source: "/TCN/TCNtg/CGHS/NCGHS21"
 lang: vi
 wordCount: 6584
-image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nha.jpg"
 ---
 
 <p class="Tuaduoi">[The Dark History of Catholicism] </p>
   
- <p align="center"><a href="https://www.sachhiem.net/"> <img border="0" src="https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nha.jpg"></a> đăng ngày 10 tháng 6, 2007 </p>
+ <p align="center"> đăng ngày 10 tháng 6, 2007 </p>
 <p>Các bài trong tập này:&nbsp; <a href="/TCN/NCGHS0">1</a>&nbsp; <a href="/TCN/NCGHS1">2</a>&nbsp; <a href="/TCN/NCGHS21">3</a>&nbsp; <a href="/TCN/NCGHS22">4</a>&nbsp; <a href="/TCN/NCGHS31">5</a>&nbsp; <a href="/TCN/NCGHS32">6</a>&nbsp; <a href="/TCN/NCGHS4">7</a>&nbsp; <a href="/TCN/NCGHS5">8</a> <br></p>
 		<p class="MUC"><u>PHẦN II :</u> </p>
 		<p class="MUC">&nbsp;NÚI TỘI ÁC THỨ HAI CỦA CÔNG GIÁO:NHỮNG CUỘC<br>

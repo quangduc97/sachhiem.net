@@ -3,13 +3,13 @@ layout: ../../../layouts/Article.astro
 title: "Dấu Giày Vatican Trên Quê Hương Tôi - Tập 1"
 author: "Nguyễn Mạnh Quang"
 date: 2025-05-28
-source: "https://sachhiem.net/NMQ/DAUGIAY/DauGiay00A.php"
+source: "/NMQ/DAUGIAY/DauGiay00A"
 lang: vi
 wordCount: 21818
-image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nha.jpg"
+image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/print.gif"
 ---
 
-<p align="center"><a href="/index"> <img hspace="20" border="0" src="https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nha.jpg"></a> <a target="_top" href="/NMQ/DAUGIAY/DauGiay00"><img hspace="20" border="0" src="https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/print.gif" width="18" height="18"> bản in</a> <a target="_top" href="/NMQ/DAUGIAY/DauGiay_Main"><img hspace="20" border="0" src="https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/Leftarrow.gif" width="13" height="13"> mục lục</a>   | 28-May-2025</p>
+<p align="center"> <a target="_top" href="/NMQ/DAUGIAY/DauGiay00"><img hspace="20" border="0" src="https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/print.gif" width="18" height="18"> bản in</a> <a target="_top" href="/NMQ/DAUGIAY/DauGiay_Main"><img hspace="20" border="0" src="https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/Leftarrow.gif" width="13" height="13"> mục lục</a>   | 28-May-2025</p>
           
           <p align="right">Kính dâng tổ quốc Việt Nam</p>
           
@@ -169,7 +169,7 @@ image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nha.jpg"
           <h2>CHƯƠNG  DẪN NHẬP</h2>
           <p>
           <b>Sơ  Lược Về Gia Phả Và Cái Chết Của Ông Jesus </b></p>
-          <p>Nhiều người  thắc mắc về con người thật của Giê-su. Thật ra vấn đề này cũng không liên quan  nhiều đến những hành động của Giáo Hội La Mã đối với nhân loại từ lúc nó ra đời ở thế kỷ thứ 4 đến nay. Vì giáo hội này do Vua La Mã là Constantine  lập ra, dựa vào nhân vật Giê-su chứ không phải  là đạo Giê-su nguyên thủy. Tuy nhiên, để đáp ứng  thắc mắc cho những ai muốn tìm hiểu thêm, chúng tôi xin ghi ra vài nét về nhân vật Giê-su như sau. Nếu bạn đọc muốn biết thêm chiều sâu của vấn đề, có thể tham  khảo tác phẩm của Giáo Sư Trần Chung Ngọc soạn chung  với tôi trong tựa bài <i>“Người Việt Nam Theo Đạo  Giê-Su Là Vì Cái Gì?</i>” đã đăng trên (<a href="https://sachhiem.net/TCN/TCNtg/DAOGIESU/TCN_NMQ1.php">https://sachhiem.net/</a>)</p>
+          <p>Nhiều người  thắc mắc về con người thật của Giê-su. Thật ra vấn đề này cũng không liên quan  nhiều đến những hành động của Giáo Hội La Mã đối với nhân loại từ lúc nó ra đời ở thế kỷ thứ 4 đến nay. Vì giáo hội này do Vua La Mã là Constantine  lập ra, dựa vào nhân vật Giê-su chứ không phải  là đạo Giê-su nguyên thủy. Tuy nhiên, để đáp ứng  thắc mắc cho những ai muốn tìm hiểu thêm, chúng tôi xin ghi ra vài nét về nhân vật Giê-su như sau. Nếu bạn đọc muốn biết thêm chiều sâu của vấn đề, có thể tham  khảo tác phẩm của Giáo Sư Trần Chung Ngọc soạn chung  với tôi trong tựa bài <i>“Người Việt Nam Theo Đạo  Giê-Su Là Vì Cái Gì?</i>” đã đăng trên (<a href="/TCN/TCNtg/DAOGIESU/TCN_NMQ1">https://sachhiem.net/</a>)</p>
           <p><b>Về  Gia Phả Của Jesus.</b></p>
           <p>a.- Học giả Charlie Nguyễn ghi nhận:</p>
 <p class="indent50">  “Theo sách Talmud, một cổ thư của  các tu sĩ Do Thái, thì Jesus là một đứa con hoang. Vào năm bà Maria  lên  16 tuổi, trong dịp đến nhà ông cậu là Gioakim để săn sóc bà  vợ của ông ta là I-sa-ve (Elizabeth) lúc đó đang  mang bầu Gioan – Baotixita được 6 tháng thì bà Maria đã bị một người  lính La Mã tên là Panthera hiếp dâm. Tên này gốc người  Sidon  (tức Li Băng ngày nay) đi lính lê dương cho Đế Quốc La Mã và được giữ  xạ thủ. Y chết tại Đức, lúc đó cũng là thuộc địa của La Mã, vào  năm 62 tuổi và được chôn tại Bingerbruck. Hiện nay người  ta đã tìm thấy bia mộ của tên lính này, trên đó có khắc  hình  một người lính La Mã tên là Panthera. Tấm bia mộ này hiện được lưu trữ tại bảo  tàng Viện Bad Kreuzenach, Đức quốc. Trường đại học của Dòng Tên tại Trung Tây  Hoa Kỳ hiện dùng các tài liệu này để giảng dạy “giáo lý mới” về gia  phả Jesus.” <a href="/NMQ/#_edn3" name="_ednref3" title="">(3) </a> </p>
@@ -469,7 +469,7 @@ image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nha.jpg"
  <p><a href="/NMQ/#_ednref43" name="_edn43" title="">43. </a> Trần Chung Ngọc, Sđd.; tr.291.</p>
  <p><a href="/NMQ/#_ednref44" name="_edn44" title="">44. </a> Trần Chung Ngọc, Sđd.; tr.290.</p>
  <p><a href="/NMQ/#_ednref45" name="_edn45" title="">45. </a> Trần Chung Ngọc, Sđd.;  tr.295-296.</p>
- <p><a href="/NMQ/#_ednref46" name="_edn46" title="">46. </a> (<a href="https://sachhiem.net/">https://sachhiem.net/</a>SACHNGOAI/snT/ TranKevin _02.php. Nguyên văn: “The  presumptive Philippine president-elect has blasted the country's dominant Roman  Catholic church as "the most hypocritical institution" and accused  some of its bishops of corruption for allegedly asking favors from politicians,  including him.” JIM GOMEZ, ASSOCIATED PRESS / ABCNews. Source: <a href="https://abcnews.go.com/International/wireStory/%20philippine-president-elect-blasts-catholic-church-bishops-39285940">https://abcnews.go.com/International/wireStory/ philippine-president-elect-blasts-catholic-church-bishops-39285940</a></p>
+ <p><a href="/NMQ/#_ednref46" name="_edn46" title="">46. </a> (<a href="/">https://sachhiem.net/</a>SACHNGOAI/snT/ TranKevin _02.php. Nguyên văn: “The  presumptive Philippine president-elect has blasted the country's dominant Roman  Catholic church as "the most hypocritical institution" and accused  some of its bishops of corruption for allegedly asking favors from politicians,  including him.” JIM GOMEZ, ASSOCIATED PRESS / ABCNews. Source: <a href="https://abcnews.go.com/International/wireStory/%20philippine-president-elect-blasts-catholic-church-bishops-39285940">https://abcnews.go.com/International/wireStory/ philippine-president-elect-blasts-catholic-church-bishops-39285940</a></p>
  <p><a href="/NMQ/#_ednref47" name="_edn47" title="">47. </a> Nhiều tác giả,  Đối Thoại Với Giáo Hoàng Gioan Phao Lồ II (Garden Grove, CA: Giao Điểm, 1995),  tr 339-340.</p>
  <p><a href="/NMQ/#_ednref48" name="_edn48" title="">48. </a> Rand McNally, World Facts &amp;  Maps, 1995 Edition), tr 171</p>
  <p><a href="/NMQ/#_ednref49" name="_edn49" title="">49. </a> Chartlie Nguyễn, Công Giáo Trên  Bờ Vực Thẳm (Garden Grove, CA: Giao Điểm, 2000), tr 226, 228 và 272.</p>

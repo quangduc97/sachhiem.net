@@ -3,7 +3,7 @@ layout: ../../../layouts/Article.astro
 title: "Nền độc lập của tổ quốc"
 author: "Cao Hữu Tâm"
 date: 2015-01-30
-source: "https://sachhiem.net/TONGIAO/tgC/Caohtam28.php"
+source: "/TONGIAO/tgC/Caohtam28"
 category: "Tác giả"
 lang: vi
 wordCount: 1001

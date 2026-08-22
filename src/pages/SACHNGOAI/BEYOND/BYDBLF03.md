@@ -2,11 +2,11 @@
 layout: ../../../layouts/Article.astro
 title: "TIN KHÔNG NỔI !"
 author: "Trí Tánh Đỗ Hữu Tài dịch từ"
-source: "https://sachhiem.net/SACHNGOAI/BEYOND/BYDBLF03.php"
+source: "/SACHNGOAI/BEYOND/BYDBLF03"
 category: "Tác giả"
 lang: vi
 wordCount: 3022
-image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nha.jpg"
+image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/print.gif"
 ---
 
 <p class="Tuaduoi">Một phê bình Thiên Chúa Giáo Từ Góc Độ Phật Giáo</p>
@@ -16,8 +16,7 @@ image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nha.jpg"
 		
 		</div>
        
-<p align="center"><a href="https://www.sachhiem.net/">
-  <img border="0" src="https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nha.jpg"></a>|&nbsp; 
+<p align="center">|&nbsp; 
 <a href="/SACHNGOAI/BEYOND/BYDBLF"><font face="Symbol" size="5">¿</font> Mục lục</a>|&nbsp; <a href="/SACHNGOAI/BEYOND/BYDBLF03"> 
 		<img border="0" src="https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/print.gif" width="18" height="18"> bản in</a> |&nbsp;  ngày 04 tháng 11, 2009 </p>
 	<p class="CHUONG"><strong>CHƯƠNG 3 </strong><sup>(*)</sup></p>

@@ -2,7 +2,7 @@
 layout: ../../../layouts/Article.astro
 title: "Lời Dặn Dò ngày 10 tháng 6 1963"
 author: "Diễn Đàn Lịch Sử"
-source: "https://sachhiem.net/&nbsp;"
+source: "/&nbsp;"
 category: "Tác giả"
 lang: vi
 wordCount: 2673

@@ -3,7 +3,7 @@ layout: ../../../layouts/Article.astro
 title: "Hỏa Công Truyền Thống của Chúa"
 author: "Vince Vince"
 date: 2020-07-03
-source: "https://sachhiem.net/TONGIAO/FB/FBVinceVince01.php"
+source: "/TONGIAO/FB/FBVinceVince01"
 category: "Chính trị"
 lang: vi
 wordCount: 609

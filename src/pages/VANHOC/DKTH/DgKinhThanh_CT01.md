@@ -3,7 +3,7 @@ layout: ../../../layouts/Article.astro
 title: "Góp Nhặt Ven Bờ Từ Cơn Sóng Biển Đông"
 author: "Dương Kinh Thành"
 date: 2014-06-21
-source: "https://sachhiem.net/VANHOC/DKTH/DgKinhThanh_CT01.php"
+source: "/VANHOC/DKTH/DgKinhThanh_CT01"
 category: "Chính trị"
 lang: vi
 wordCount: 2750

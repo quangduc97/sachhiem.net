@@ -3,14 +3,14 @@ layout: ../../layouts/Article.astro
 title: "Vài Cảm Tưởng Về \"Những Linh Mục Ở Pháp Trường\" Yên Bái"
 author: "Vương H Thành"
 date: 2015-06-21
-source: "https://sachhiem.net/DOITHOAI/Vuonghoithanh01.php"
+source: "/DOITHOAI/Vuonghoithanh01"
 category: "Chính trị"
 lang: vi
 wordCount: 773
 image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/TONGIAO/IMG/LINHMUC/Manzanillo_priest_lastrite)CesarCalas.jpg"
 ---
 
-<p><i>LTS: Trước đây ít ngày, bài viết "85 năm Ngày Tang Yên Bái: Không ai trong số họ đã hô 'Việt Nam Quốc Dân Đảng muôn năm'" của tác giả Trần Trung Đạo (TTĐ) cũng đã có phản ứng về đề tài chính như ở tựa bài. Lần này, phản ứng chú ý đến điều mà tác giả TTĐ "ngầm" chen vào đề tài, nên chú trọng về sự hiện diện của các linh mục ở pháp trường   <a href="https://sachhiem.net/index.php?content=showemail&amp;id=978">(xem link)</a>. Xin đọc tiếp (SH) </i></p>
+<p><i>LTS: Trước đây ít ngày, bài viết "85 năm Ngày Tang Yên Bái: Không ai trong số họ đã hô 'Việt Nam Quốc Dân Đảng muôn năm'" của tác giả Trần Trung Đạo (TTĐ) cũng đã có phản ứng về đề tài chính như ở tựa bài. Lần này, phản ứng chú ý đến điều mà tác giả TTĐ "ngầm" chen vào đề tài, nên chú trọng về sự hiện diện của các linh mục ở pháp trường   <a href="/hop-thu/978">(xem link)</a>. Xin đọc tiếp (SH) </i></p>
   <p align="center"><img src="https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/TONGIAO/IMG/LINHMUC/Manzanillo_priest_lastrite)CesarCalas.jpg" width="300" height="351" alt=""></p>
   <p align="center"><i>Các linh mục có mặt ở pháp trường: "hiền lành dễ thương" (như ông TTĐ muốn nhấn mạnh) không phải để cứu tội nhân khỏi chết, mà để an ủi tội nhân <b>"chết cho vui vẻ."</b> (Happy Dying!)</i></p>
   <p align="center"><a href="https://www.latinamericanstudies.org/rebel-priests-1.htm">Hình trên: Những linh mục ở Manzanillo làm "thánh lễ cuối cùng" cho tử tội César Calás trước khi bị xử bắn - Jan. 1959</a></p>
@@ -36,7 +36,7 @@ image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/TONGIAO/IMG/LINHMUC/
   <p class="TacgiaL">Vương H Thành</p>
   <p>_________________</p>
     <p><b>Những ý kiến khác:</b></p>
-  <p><i>"<a href="https://sachhiem.net/index.php?content=showemail&amp;id=978"> Trần Quang Diệu, Chế Trung Hiếu </a>"</i>  </p>
+  <p><i>"<a href="/hop-thu/978"> Trần Quang Diệu, Chế Trung Hiếu </a>"</i>  </p>
     <p>_________________</p>
   <p><b>Bài liên quan:</b></p>
   <p> - <a href="https://anhbasam.wordpress.com/2015/06/16/4117-85-nam-ngay-tang-yen-bai-khong-ai-trong-so-ho-da-ho-viet-nam-quoc-dan-dang-muon-nam/"><i>85 năm Ngày Tang Yên Bái: Không ai trong số họ đã hô “Việt Nam Quốc Dân Đảng muôn năm”</i></a>  Trần Trung Đạo </p>

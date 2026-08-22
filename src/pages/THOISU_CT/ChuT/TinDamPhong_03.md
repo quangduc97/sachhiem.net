@@ -3,7 +3,7 @@ layout: ../../../layouts/Article.astro
 title: "Thông Báo 18 – Ghim Đầu Con Bạch Tuộc"
 author: "CPJ - Nguyễn Thanh Tú"
 date: 2016-08-30
-source: "https://sachhiem.net/THOISU_CT/ChuT/TinDamPhong_03.php"
+source: "/THOISU_CT/ChuT/TinDamPhong_03"
 category: "Chính trị"
 lang: vi
 wordCount: 3170
@@ -98,9 +98,9 @@ image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/THOISU_CT/Hinh/FRONT
    <p>________________________</p>
    <p><b>Mời đọc thêm:</b></p>
    <p>- Thư của ông Nguyễn Thanh Tú, con trai của cố ký giả Đạm Phong, gửi Đài Á Châu Tự Do (RFA). <a href="/THOISU_CT/ChuT/TinDamPhong">https://sachhiem.net/THOISU_CT/ChuT/TinDamPhong.php</a></p>
-   <p>- Khủng Bố Ở Little Saigon - Cuộc Điều Tra Đã Bắt Đầu (PBS Frontline)  <a href="https://sachhiem.net/THOISU_CT/ChuT/TinProPublica.php">https://sachhiem.net/THOISU_CT/ChuT/TinProPublica.php</a></p>
-   <p>- Trình Chiếu Trên Truyền Hình Mỹ Cuộc Điều Tra Về Khủng Bố tại Tiểu Sài Gòn (www.pbs.org)  <a href="https://sachhiem.net/XAHOI/T/TheFront.php">https://sachhiem.net/XAHOI/T/TheFront.php</a></p>
+   <p>- Khủng Bố Ở Little Saigon - Cuộc Điều Tra Đã Bắt Đầu (PBS Frontline)  <a href="/THOISU_CT/ChuT/TinProPublica">https://sachhiem.net/THOISU_CT/ChuT/TinProPublica.php</a></p>
+   <p>- Trình Chiếu Trên Truyền Hình Mỹ Cuộc Điều Tra Về Khủng Bố tại Tiểu Sài Gòn (www.pbs.org)  <a href="/XAHOI/T/TheFront">https://sachhiem.net/XAHOI/T/TheFront.php</a></p>
    <p>- Phỏng Vấn Các Nhân Vật Liên Quan Trong Phim "Terror In Little Saigon" (Người Việt và CaliToday)</p>
-   <p> <a href="https://sachhiem.net/THOISU_CT/ChuT/TinNgViet01.php">https://sachhiem.net/THOISU_CT/ChuT/TinNgViet01.php</a></p>
+   <p> <a href="/THOISU_CT/ChuT/TinNgViet01">https://sachhiem.net/THOISU_CT/ChuT/TinNgViet01.php</a></p>
    <p>- Họp báo Công lý cho cố ký giả Đạm Phong Hành trình của một người con đi tìm công lý cho cha mình (Nguyễn Thanh Tú)</p>
-   <p><a href="https://sachhiem.net/THOISU_CT/ChuT/TinDamPhong_02.php">https://sachhiem.net/THOISU_CT/ChuT/TinDamPhong_02.php</a></p>
+   <p><a href="/THOISU_CT/ChuT/TinDamPhong_02">https://sachhiem.net/THOISU_CT/ChuT/TinDamPhong_02.php</a></p>

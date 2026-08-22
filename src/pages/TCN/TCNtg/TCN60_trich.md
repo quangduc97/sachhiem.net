@@ -3,7 +3,7 @@ layout: ../../../layouts/Article.astro
 title: "MỘT BÀI GIẢNG VỀ “GIÁNG SINH”"
 author: "By Robert G. Ingersoll"
 date: 2016-12-21
-source: "https://sachhiem.net/TCN/TCNtg/TCN60_trich.php"
+source: "/TCN/TCNtg/TCN60_trich"
 lang: vi
 wordCount: 2788
 image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/SACHNGOAI/Hinhanh/BIASACH/Ingersol_Christmas-Sermon.jpg"
@@ -15,7 +15,7 @@ image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/SACHNGOAI/Hinhanh/BI
  
 
 <div class="tomluoc">
-  <p>LTS: Nhân gần đến những ngày lễ lớn trong năm, tòa soạn xin được trích một câu chuyện nhỏ trong bài <a href="https://sachhiem.net/TCN/TCNtg/TCN60.php">TẢN MẠN VỀ NGÀY “GIÊ-SU SINH RA ĐỜI”</a> của giáo sư Trần Chung Ngọc, đã đăng từ 13 tháng 12, 2008.</p>
+  <p>LTS: Nhân gần đến những ngày lễ lớn trong năm, tòa soạn xin được trích một câu chuyện nhỏ trong bài <a href="/TCN/TCNtg/TCN60">TẢN MẠN VỀ NGÀY “GIÊ-SU SINH RA ĐỜI”</a> của giáo sư Trần Chung Ngọc, đã đăng từ 13 tháng 12, 2008.</p>
   <p><b>Vài Lời Nói Đầu</b>: <i>Đây là bài giảng về Giáng Sinh nổi tiếng của Robert G. Ingersoll viết và đăng 
       trên tờ Evening Telegram cách đây trên 1 thế kỷ, vào ngày 19 tháng 12, 1891.</i></p>
   <p> <i>Phản ứng trước bài 

@@ -3,7 +3,7 @@ layout: ../../layouts/Article.astro
 title: "Bịt Miệng Người Trên Facebook - Vì Không Dám Đối Diện Với Sự Thật"
 author: "Hồ Minh"
 date: 2014-02-22
-source: "https://sachhiem.net/DOITHOAI/HoMinh.php"
+source: "/DOITHOAI/HoMinh"
 category: "Tác giả"
 lang: vi
 wordCount: 2358
@@ -28,7 +28,7 @@ image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/DOITHOAI/IMG/Accnt_l
 <p> Tổng  Giám Mục Ngô Quang Kiệt nói&nbsp;&nbsp;"nhục nhã khi cầm cái hộ chiếu Việt&nbsp;Nam"&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </p>
 <p> Các  bạn có thấy Việt Gian Phản Quốc nằm ở đâu chưa ?</p>
 <p>
- <a href="https://sachhiem.net/LICHSU/TR/TQD12.php" target="_blank">https://sachhiem.net/LICHSU/TR/TQD12.php</a></p>
+ <a href="/LICHSU/TR/TQD12" target="_blank">https://sachhiem.net/LICHSU/TR/TQD12.php</a></p>
     <p>2. ►► Trong Kinh Thánh , nhằm thu hút Tin Đồ , ta đọc thấy nhan nhãn rất nhiêù đoạn:  nào là Jesus chửa bịnh cho người mù , chửa lành cho người bịnh xắp chết , và  nhất là khi gặp Bão Tố , 1 cái phẩy tay là biển lặng sóng êm , vvv... Ô , thì  ra có 1 Jesus Chúa Cứu Thế Quyền Lực Toàn Năng , đánh đâu thắng đó !!! nhưng  tại Philippine hiên nay , tất cả đêù là ngược lại , Chẳng lẻ Kinh Thánh nói láo  . Dân Philippine (80%) cám ơn Hồng Ân Thiên Chúa mổi ngày , lúc cơn bảo Haiyan  tới thì chả thấy Jesus Chúa Trời Đấng Cứu Thế ở đâu , để rôì gần 8000 người  thiệt mạng , 4 triêu người mất nhà cửa , hàng trăm ngàn người bị thương , phụ  nữ và trẻ em (con chiên của Chúa) đang là môì ngon của bọn ma cô buôn  người...thiệt hại lên đến 14 tỉ $ (Jesus hay dân lành phải trả cái giá quá đắt  này) </p>
 <p>Cơn Bão Hai-Yan chỉ bằng diện tích Sài Gòn của chúng ta , so với Trái Đất nó  chỉ là hạt cát trong cái tô mà Trái Đất thì chỉ bằng 1/1.300.000 của Mặt Trời , so  với Vũ Trụ Bao La thì không biết nó là cái gì , thế mà Jesus dám nhận Mình là Chúa  Trời , 1 hạt cát mà không dẹp nổi thì làm sao Chúa Trời cai quản được vũ trụ </p>
 <p align="center"> <img src="https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/TONGIAO/IMG/CARTOON/Haiyan_flood_disaster.jpg" width="350" height="233" longdesc="https://hk.m.f29.img.vnecdn.net/2013/12/09/b7c17a135c8cd827430f6a7067000f-8256-5988-1386559945.jpg"></p>
@@ -57,9 +57,9 @@ KỂ CẢ TỔNG THỐNG HOA KỲ</a></p>
     <p>Viết để mà  cho họ lý giải sự việc và tranh luân trực diên và thẳng thắn, nhưng buồn thay  , họ không trả lời được bất cứ một câu hỏi nào.  Thay vì trả lời , họ đã đuối  lý nên đã gữi tài khoản của Tôi lên trung tâm của Facebook và Facebook chẳng  cần kiểm tra sự việc thì đã khoá tài khoản Facebook của Tôi 1 cách trắng trợn.  Thôi thì họ làm trò hèn hạ này để khỏi tranh luân công khai thì kệ họ. Tôi  biết là họ có cho người theo dõii tôi với mục đích nếu như tôi có viết sự thật  về Công Giáo thì họ lại lập lại trò hèn này nhằm bưng bít sự thật, không muốn  phơi bày ra ánh sáng sự dối trá của Công Giáo . </p>
     <p>Họ làm giống như các chế độ độc  tài phát xít của Hitler , Mussolini ... không cùng quan điểm thì thủ tiêu luôn  (1 tôn giáo tự nhận mình là Chúa Trời Đấng Cứu Thế ... giống như mấy ông Thầy  Cúng , Thầy Pháp , mấy Cô Câu Lên Đồng cũng tự nhận là có thể kêu mưa gọi gió ,  trấn áp bảo tố , phép thuật thần thông , cũng Con Ông Này Bà Kia ở trên Trời ,  nhưng khi gặp việc thì Jesus Chúa Trời Đấng Cứu Thế Toàn Năng lặn biến đâu mất  tiêu và người chết vâñ chết , giống như những ông Thầy Cúng , Thầy Pháp hoắc là  mấy Cô Cậu Lên Đồng y chang) . </p>
     <p>Nếu  1 ngày nào đó , tài khoản của Tôi bị khoá lần nữa , thì anh em bạn đọc hảy vào  các websites có uy tín sau đây để hiểu rõ hơn về bộ mặt thật của Công Giáo và  Tin Lành. </p>
-    <p><a href="https://www.sachhiem.net/" target="_blank">https://www.sachhiem.net/</a> </p>
+    <p><a href="/" target="_blank">https://www.sachhiem.net/</a> </p>
 <p>
-     <a href="https://sachhiem.net/TONGIAO/tgM/MinhKien.php" target="_blank">https://sachhiem.net/TONGIAO/tgM/MinhKien.php</a> </p>
+     <a href="/TONGIAO/tgM/MinhKien" target="_blank">https://sachhiem.net/TONGIAO/tgM/MinhKien.php</a> </p>
 <p>
      <a href="https://giaodiemonline.com/" target="_blank">https://giaodiemonline.com/</a> </p>
 <p>

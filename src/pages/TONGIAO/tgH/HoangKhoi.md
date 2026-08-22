@@ -2,7 +2,7 @@
 layout: ../../../layouts/Article.astro
 title: "Dự luật Thánh Kinh ?"
 author: "Don dịch"
-source: "https://sachhiem.net/Source: https://www.politico.com/news/stories/0509/22832.html"
+source: "/Source: https://www.politico.com/news/stories/0509/22832.html"
 category: "Tác giả"
 lang: vi
 wordCount: 2415
@@ -37,7 +37,7 @@ image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nhacu.jpg"
 	<tbody><tr><td bgcolor="White" align="justify" valign="top">
 		<div style="padding-left: 40px; padding-right: 40px">
 		<table border="0" cellpadding="10" width="87%" cols="2"><tbody><tr>
-		<td width="228"><a href="https://sachhiem.net/">
+		<td width="228"><a href="/">
 		<img border="0" src="https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nhacu.jpg" width="49" height="20"></a></td>
 	<td valign="top">	24 tháng 5,  2009
 	</td></tr></tbody></table>

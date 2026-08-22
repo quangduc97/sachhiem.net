@@ -3,7 +3,7 @@ layout: ../../../layouts/Article.astro
 title: "Giáo Hội Vô Thần"
 author: "Đồng Trần Tử"
 date: 2023-11-20
-source: "https://sachhiem.net/TONGIAO/FB/FBDongTranTu06.php"
+source: "/TONGIAO/FB/FBDongTranTu06"
 category: "Tác giả"
 lang: vi
 wordCount: 1005
@@ -32,11 +32,11 @@ image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/TONGIAO/IMG/VATICAN/
  <p class="nguonL">Nguồn<a href="https://www.facebook.com/nguyencong.son.3348/posts/pfbid0pcJoZG1zsUVSXQXYjnneWyeC5JNK4ic4f1ZUJY2VyTkMvQHhcMS9eT5g5M6jEEbNl"> FB Đồng Trần Tử </a> ngày 16 tháng 9, 2021</p>
  <p>_____________ </p>
  <p><b>SH mời đọc thêm:</b></p>
- <p><a href="https://sachhiem.net/TCN/TCNtg/TCN11.php">- Vô Thần - Hữu Thần (Trần Chung Ngọc)</a></p>
+ <p><a href="/TCN/TCNtg/TCN11">- Vô Thần - Hữu Thần (Trần Chung Ngọc)</a></p>
  <p>______________</p>
  <p><b>COMMENTS:</b></p>
  <p>Lý Thái Xuân:</p>
- <p>Xin đọc BS Nguyễn Văn Thọ: <a href="https://sachhiem.net/NVTho/NVTho00.php">ÍT NHIỀU NHẬN ĐỊNH VỀ THIÊN CHÚA GIÁO</a></p>
+ <p>Xin đọc BS Nguyễn Văn Thọ: <a href="/NVTho/NVTho00">ÍT NHIỀU NHẬN ĐỊNH VỀ THIÊN CHÚA GIÁO</a></p>
  <p>Lâm Ngọc<br>
 Bài  vạch tội hay quá! Tiên sinh đưa ra sự mâu thuẫn giữa lời nói và việc làm trời  ơi đất hỡi của tổ chức hoạt đầu chính trị núp bóng thần quyền ra vẻ cao quý.  Bao lâu nay tôi đã tìm hiểu về cái tà đạo này và cái tổ chức cầm đầu quỷ quyệt  của nó, đối&nbsp;chứng lại những đề mục tiên sinh liệt kê ra đều có lý cả.</p>
  <p>Đồng Trần Tử -&gt;   Lâm Ngọc&nbsp;</p>

@@ -2,11 +2,11 @@
 layout: ../../../layouts/Article.astro
 title: "Ý Nghĩa Lễ Cầu Nguyện"
 author: "Tỳ-Khưu Thích-Chân-Tuệ"
-source: "https://sachhiem.net/null"
+source: "/null"
 category: "Tác giả"
 lang: vi
 wordCount: 1043
-image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nha.jpg"
+image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/IMG/CHUA/Caunguyen.jpg"
 ---
 
 <div align="center" style="position: relative; left: 0; top: 0">
@@ -24,7 +24,7 @@ image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nha.jpg"
 				<td width="100%">
 <div style="padding-left: 50px; padding-right: 50px"> 
 	<table border="0" cellpadding="1" width="80%" cols="2"><tbody><tr>
-	<td><a href="https://www.sachhiem.net/"><img border="0" src="https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nha.jpg"></a></td>
+	<td></td>
 <td valign="top" width="195"><p> ngày 15 tháng 6, 2009 </p>	</td>
 							</tr>
 						</tbody></table>

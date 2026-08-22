@@ -3,7 +3,7 @@ layout: ../../../layouts/Article.astro
 title: "[THIỂU SỐ HOÁ?] Nhà Báo Vatican Theo Dõi Việc Đi Chùa?"
 author: "Minh Thạnh"
 date: 2024-03-14
-source: "https://sachhiem.net/TONGIAO/tgM/MinhThanh43d.php"
+source: "/TONGIAO/tgM/MinhThanh43d"
 category: "Tác giả"
 lang: vi
 wordCount: 3402

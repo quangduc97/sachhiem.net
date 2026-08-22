@@ -2,11 +2,11 @@
 layout: ../../../layouts/Article.astro
 title: "Sống với tinh thần Einstein"
 author: "Vô Danh lượm lặt"
-source: "https://sachhiem.net/null"
+source: "/null"
 category: "Chính trị"
 lang: vi
 wordCount: 669
-image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nha.jpg"
+image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/THOISU_CT/Hinh/Einstein.jpg"
 ---
 
 <div align="center" style="position: relative; left: 0; top: 0">
@@ -25,7 +25,7 @@ image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nha.jpg"
 <tr> <td width="100%"> 
 <div style="padding-left: 50px; padding-right: 50px">
 			<table border="0" cellpadding="10" width="600"><tbody><tr>
-<td><a href="/index"><img border="0" src="https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nha.jpg"></a></td>
+<td></td>
 	<td valign="top" width="213">	<i><font size="3">12 tháng 11, 2007	</font></i>
 	</td></tr></tbody></table>
 	

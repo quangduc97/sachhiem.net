@@ -3,7 +3,7 @@ layout: ../../../layouts/Article.astro
 title: "Ba Điều Căn Bản Nhà Ngô Để Lại Cho... Lịch Sử"
 author: "Trần Quang Diệu"
 date: 2013-05-20
-source: "https://sachhiem.net//LICHSU/TR/TQD27_3dieu.php"
+source: "//LICHSU/TR/TQD27_3dieu"
 category: "Lịch sử"
 lang: vi
 wordCount: 1767
@@ -88,4 +88,4 @@ Date: Sunday, November 13, 2011,  5:36 PM </p>
  hành vi cho thuộc hạ đập phá tòa soạn báo Tự Do, tịch thu báo, và truy tìm
  tác giả bức tranh đã xác nhận cái ám chỉ mà dân chúng nghi ngờ đó là đúng.</p>
 <p>... (trích trong <i>"Ai là tác giả bức tranh trên bìa báo Tự Do Xuân Canh Tý 1960?</i>" của Phạm Phú Minh ở <br>
-<a href="https://sachhiem.net/VANHOC/PhamPhuMinh.php">https://sachhiem.net/VANHOC/PhamPhuMinh.php</a>)</p>
+<a href="/VANHOC/PhamPhuMinh">https://sachhiem.net/VANHOC/PhamPhuMinh.php</a>)</p>

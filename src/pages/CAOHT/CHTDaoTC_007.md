@@ -2,7 +2,7 @@
 layout: ../../layouts/Article.astro
 title: "CHƯƠNG BA: CUỘC VIỄN CHINH CỦA GARNIER"
 author: "Cao Huy Thuần"
-source: "https://sachhiem.net/CAOHT/CHTDaoTC_007.php"
+source: "/CAOHT/CHTDaoTC_007"
 category: "Tác giả"
 lang: vi
 wordCount: 23686

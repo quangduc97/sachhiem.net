@@ -2,17 +2,17 @@
 layout: ../../../layouts/Article.astro
 title: "“Tượng Đài Alexandre De Rhodes”:"
 author: "phattuvietnam.net"
-source: "https://sachhiem.net/LTX/LyThaiXH37.php"
+source: "/LTX/LyThaiXH37"
 category: "Lịch sử"
 lang: vi
 wordCount: 8257
-image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nha.jpg"
+image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/Next3.gif"
 ---
 
 <p class="Tuaduoi">Ý kiến phản  đối </p>
 		
          
- <p align="center"><a href="https://www.sachhiem.net/"> <img border="0" src="https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nha.jpg"></a> 23 tháng 7, 2009 	</p>
+ <p align="center"> 23 tháng 7, 2009 	</p>
 	<p><i>LTS: Sau khi web tiasang.com đăng bài "Một Tượng đài ALEXANDRE DE RHODES, sao không...” của Nguyễn Hàng Tình, đã có bài viết phản đối của tác giả Trần Điều, sau đó Nguyễn K.H., và liên tiếp các ý kiến đã được web phattuvietnam.net đăng như sau.  Toà soạn sachhiem.net rất tiếc vì địa chỉ trực tiếp nối bài trên Tia Sáng online ngày 
 	16/7/2009 đã được lấy khỏi website Tia Sáng từ lúc nào trước ngày 22 
 	tháng 7, 2009.&nbsp;  Dù vậy, nguyên văn bài viết có thể tìm được qua "máy dò" và kết 

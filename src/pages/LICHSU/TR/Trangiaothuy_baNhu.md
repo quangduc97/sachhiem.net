@@ -3,7 +3,7 @@ layout: ../../../layouts/Article.astro
 title: "Đi tìm bà Nhu, gặp ông Đại úy (I)"
 author: "Trần Giao Thủy"
 date: 2014-03-04
-source: "https://sachhiem.net/LICHSU/TR/Trangiaothuy_baNhu.php"
+source: "/LICHSU/TR/Trangiaothuy_baNhu"
 category: "Tác giả"
 lang: vi
 wordCount: 7672
@@ -269,7 +269,7 @@ Một đoạn ở chương 7 mô tả một ‟biệt thự nhỏ” của bà N
 <p>
 Về Thủ tướng Ngô Đình Diệm, trong&nbsp;<i>‟Le Caillou Blanc”</i>, bà Nhu cũng viết lại câu chuyện ông  Diệm bị cộng sản bắt năm 1946 và Hồ Chí Minh, sau khi không thuyết phục được,  đã để ông tự do ra đi. Đây là giai thoại đã được nhắc lại nhiều lần nhưng tài  liệu có thể dùng để xác định sự thật lịch sử có lẽ vẫn còn nằm trong văn khố  kín của đảng Cộng sản Việt Nam vì những chứng nhân của sự kiện ấy như Lê Giản,  Vũ Đình Huỳnh đã ra người thiên cổ.(17a) Cũng ở chương này, trích đoạn từ ‟Viên  sỏi trắng”, bà Nhu nhắc lại công trạng của mình trong việc tổ chức cho dân di  cư biểu tình ngày 21 tháng 9, 1954 ủng hộ Thủ tướng Diệm, hất cẳng tướng Nguyễn  Văn Hinh, con của cựu Thủ tướng Nguyễn Văn Tâm (6/1952 – 12/1953), ra khỏi Sài  Gòn. Đây là bước đầu của bà Nhu vào chính trường miền Nam, đóng vai một chính  khách tinh tế, và không biết sợ; Diễn tuồng, tinh tế và không biết sợ không  phải là sở trường của hai anh em ông Diệm và Nhu. Sau chiến công tháng 9, 1954,  Pháp than phiền với Mỹ, Mỹ nói lại với Thủ tướng Diệm và bỗng dưng bà Nhu được  gởi đi Hồng Kông ‟an trí” sáu tháng, để ông Nhu ổn định tình hình. Với bà Nhu,  đây lại là dấu hiệu cho thấy tiềm năng và ảnh hưởng chính trị của mình.</p>
 <p>
-(Còn tiếp<a href="https://sachhiem.net/LICHSU/TR/Trangiaothuy_baNhu2.php" target="_blank">&nbsp;phần II</a>)</p>
+(Còn tiếp<a href="/LICHSU/TR/Trangiaothuy_baNhu2" target="_blank">&nbsp;phần II</a>)</p>
 <p><a href="https://dcvonline.net/2014/02/21/di-tim-ba-nhu-gap-ong-dai-uy/" class="nguonL">Nguồn: https://dcvonline.net/2014/02/21/di-tim-ba-nhu-gap-ong-dai-uy/</a> Posted on February 21, 2014</p>
 <p>
 © 2014 DCVOnline</p>

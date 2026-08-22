@@ -3,7 +3,7 @@ layout: ../../../layouts/Article.astro
 title: "Vài Câu Chuyện Dân Gian Về Châu Đốc"
 author: "Trần Quang Diệu"
 date: 2015-04-04
-source: "https://sachhiem.net/LICHSU/TR/TQD46.php"
+source: "/LICHSU/TR/TQD46"
 category: "Đối thoại"
 lang: vi
 wordCount: 6125

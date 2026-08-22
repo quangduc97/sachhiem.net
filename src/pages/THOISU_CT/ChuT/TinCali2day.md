@@ -3,7 +3,7 @@ layout: ../../../layouts/Article.astro
 title: "Trở Lại Nơi Xảy Ra Vụ Thảm Sát Mỹ Lai"
 author: "Seymour M. Hersh / The New Yorker (30-3-2015)"
 date: 2015-04-21
-source: "https://sachhiem.net/THOISU_CT/ChuT/TinCali2day.php"
+source: "/THOISU_CT/ChuT/TinCali2day"
 category: "Chính trị"
 lang: vi
 wordCount: 9988

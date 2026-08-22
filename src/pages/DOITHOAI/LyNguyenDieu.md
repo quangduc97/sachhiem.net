@@ -2,17 +2,17 @@
 layout: ../../layouts/Article.astro
 title: "SỰ THẬT VỀ CHẾ ĐỘ TT DIỆM:"
 author: "Lý Nguyên Diệu"
-source: "https://sachhiem.net/null"
+source: "/null"
 category: "Đối thoại"
 lang: vi
 wordCount: 6282
-image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nha.jpg"
+image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/LICHSU/IMG/NGODD/Mo2anhem_panoramio_com.jpg"
 ---
 
 <p class="Tuaduoi">Những Xuyên Tạc Của Kiều Vĩnh Phúc Và Nguyễn Văn Lục </p>	
 
 <p align="center"><a href="/DOITHOAI/LyNguyenDieu">https://sachhiem.net/DOITHOAI/LyNguyenDieu.php</a></p>
-<p align="center"><a href="/index"><img hspace="20" border="0" src="https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nha.jpg"> </a> 28 tháng 10, 2010	</p>
+<p align="center"> 28 tháng 10, 2010	</p>
 <div style="background:url(/images/BGltgry.jpg);">
 <p class="PicLeft"><img src="https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/LICHSU/IMG/NGODD/Mo2anhem_panoramio_com.jpg"><br> Hai ngôi mộ của Ngô Đình Diệm <br>
 và Ngô Đình Nhu</p>
@@ -535,8 +535,8 @@ Về trường hợp bác sĩ <b>Trần Kim Tuyến</b>
 	thể tránh được cho mình khỏi bị hại.”</p>
 <hr width="60%" align="left">
 	<p><b>Xem thêm:</b></p>
-<p><a href="https://sachhiem.net/LICHSU/V/VuCam.php">- Mưu Tính Đưa Nhất Linh Vào Nhà Thương Điên </a> (Vũ Cầm)</p>
-<p>- <a href="https://sachhiem.net/DOITHOAI/LyNguyenDieu.php">Những Xuyên Tạc Của Kiều Vĩnh Phúc Và Nguyễn Văn Lục</a> (Lý Nguyên Diệu</p>
+<p><a href="/LICHSU/V/VuCam">- Mưu Tính Đưa Nhất Linh Vào Nhà Thương Điên </a> (Vũ Cầm)</p>
+<p>- <a href="/DOITHOAI/LyNguyenDieu">Những Xuyên Tạc Của Kiều Vĩnh Phúc Và Nguyễn Văn Lục</a> (Lý Nguyên Diệu</p>
 
 	
 </b>

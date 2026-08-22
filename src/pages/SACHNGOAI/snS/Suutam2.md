@@ -3,14 +3,13 @@ layout: ../../../layouts/Article.astro
 title: "Pope accused of PR stunt"
 author: "The Sydney Morning Herald"
 date: 2006-12-03
-source: "https://sachhiem.net/SACHNGOAI/snS/Suutam2.php"
+source: "/SACHNGOAI/snS/Suutam2"
 category: "Tác giả"
 lang: en
 wordCount: 3968
-image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nha.jpg"
 ---
 
-<p align="center"><a href="/SACHNGOAI/index"><img hspace="20" border="0" src="https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nha.jpg"></a>21 tháng 7, 2008</p>
+<p align="center">21 tháng 7, 2008</p>
 		
 	<p class="TuaDenLeft">Pope accused of PR stunt</p>
 	The Sydney Morning Herald

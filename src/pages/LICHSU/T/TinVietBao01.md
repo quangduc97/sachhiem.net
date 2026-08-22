@@ -3,7 +3,7 @@ layout: ../../../layouts/Article.astro
 title: "Tại Sao TT. Nguyễn Văn Thiệu Bị Mỹ Ép Ký Hòa Đàm Paris?"
 author: "Nguyễn Viết Kim/ Việt Báo"
 date: 2022-01-18
-source: "https://sachhiem.net/LICHSU/T/TinVietBao01.php"
+source: "/LICHSU/T/TinVietBao01"
 category: "Chính trị"
 lang: vi
 wordCount: 2753
@@ -11,7 +11,7 @@ image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/SACHNGOAI/Hinhanh/BI
 ---
 
 <div class="tomluoc">
-   <p><i>LTS: Mấy năm gần đây nổi lên tranh cãi về tình trạng pháp lý của hai miền Nam Bắc trước năm 1975, vì có người tung ra những từ ngữ như "hai quốc gia," "nên bỏ từ ngụy",... Đương nhiên là đã có nhiều <a href="https://www.sachhiem.net/index.php?content=showemail&amp;id=3236">bài viết phản biện</a>, vạch trần các sai trái đó dù là do hiểu lầm hay do cố ý xuyên tạc. Tuy nhiên, bài phóng sự của báo Der Spiegel của Đức (số 50 năm 1979) do tờ Việt Báo dịch và đăng ngày 27 tháng 9, năm 2017 mà chúng tôi xin phép đăng lại dưới đây, sẽ, một cách gián tiếp, minh chứng Việt Nam là một quốc gia xuyên suốt từ trước năm 1975, và các chính quyền miền Nam thực sự chỉ là một chữ "ngụy" to tướng của thế lực ngoại xâm. Phần giải thích phản biện sẽ được thực hiện trên video trong những ngày sắp tới. (SH)</i></p>
+   <p><i>LTS: Mấy năm gần đây nổi lên tranh cãi về tình trạng pháp lý của hai miền Nam Bắc trước năm 1975, vì có người tung ra những từ ngữ như "hai quốc gia," "nên bỏ từ ngụy",... Đương nhiên là đã có nhiều <a href="/hop-thu/3236">bài viết phản biện</a>, vạch trần các sai trái đó dù là do hiểu lầm hay do cố ý xuyên tạc. Tuy nhiên, bài phóng sự của báo Der Spiegel của Đức (số 50 năm 1979) do tờ Việt Báo dịch và đăng ngày 27 tháng 9, năm 2017 mà chúng tôi xin phép đăng lại dưới đây, sẽ, một cách gián tiếp, minh chứng Việt Nam là một quốc gia xuyên suốt từ trước năm 1975, và các chính quyền miền Nam thực sự chỉ là một chữ "ngụy" to tướng của thế lực ngoại xâm. Phần giải thích phản biện sẽ được thực hiện trên video trong những ngày sắp tới. (SH)</i></p>
  </div>
 <p class="Tuaduoi">TT Thiệu tuyên bố: Người Mỹ đã phản bội chúng tôi</p>
 <p class="nguonL">[Nguồn <a href="https://vietbao.com/a272608/tt-thieu-tuyen-bo-nguoi-my-da-phan-boi-chung-toi">Việt Báo ngày 27/09/2017</a>]</p>
@@ -76,7 +76,7 @@ image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/SACHNGOAI/Hinhanh/BI
 <p class="TacgiaL"> Nguyễn Viết Kim&nbsp;chuyển ngữ&nbsp;
 </p>
 <p>_____________</p>
-<p><a href="https://sachhiem.net/LICHSU/H/HoangSa_list.php">- Những bài về Trường Sa &amp; Hoàng Sa đăng trong sachhiem.net</a></p>
+<p><a href="/LICHSU/H/HoangSa_list">- Những bài về Trường Sa &amp; Hoàng Sa đăng trong sachhiem.net</a></p>
 <p>- Videos nhận xét bài này:</p>
 <p>Kỳ 1:</p>
 <h1>189: Tại Sao TT Nguyễn Văn Thiệu Bị Hoa Kỳ Ép Ký Hòa Đàm Paris? Kỳ 1</h1>

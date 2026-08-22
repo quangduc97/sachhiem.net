@@ -3,7 +3,7 @@ layout: ../../../layouts/Article.astro
 title: "Cuốn sách bị bỏ quên của"
 author: "Đào Văn Bình"
 date: 2012-10-29
-source: "https://sachhiem.net/DAOVB/LS/DaovBinh0.php"
+source: "/DAOVB/LS/DaovBinh0"
 category: "Lịch sử"
 lang: vi
 wordCount: 10900

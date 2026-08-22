@@ -2,7 +2,7 @@
 layout: ../../layouts/Article.astro
 title: "THƯ TRAO ĐỔI VỀ MỘT THỜI KỲ LỊCH SỬ, 1930 – 1975"
 author: "Nguyễn Mạnh Quang & Trần Xuân An"
-source: "https://sachhiem.net/nguồn: https://www.giaodiem.com/mluc/mluc_IV05/1105_nmq-txa.htm"
+source: "/nguồn: https://www.giaodiem.com/mluc/mluc_IV05/1105_nmq-txa.htm"
 category: "Chính trị"
 lang: vi
 wordCount: 9803

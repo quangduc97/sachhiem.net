@@ -2,18 +2,18 @@
 layout: ../../../layouts/Article.astro
 title: "ĐÔI ĐIỀU VỀ CHIẾC “MÁY LỌC TÌNH YÊU” CỦA HOÀNG CÚC"
 author: "Hoàng Vũ"
-source: "https://sachhiem.net/XAHOI/xhH/HoangVu1.php"
+source: "/XAHOI/xhH/HoangVu1"
 category: "Xã hội"
 lang: vi
 wordCount: 3941
-image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nha.jpg"
+image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/XAHOI/IMG/Bongdavodich2008.jpg"
 ---
 
 <p class="Tuaduoi">QUA SỰ KIỆN TUYỂN BÓNG ĐÁ VIỆT NAM </p>
 		<p class="Tuaduoi">VÔ ĐỊCH BÓNG ĐÁ ĐÔNG NAM Á 2008</p>
 		
 
-<p align="center"><a href="https://sachhiem.net/index.php"> <img border="0" hspace="20" src="https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nha.jpg"></a>	06 tháng 01, 2009 </p>
+<p align="center">	06 tháng 01, 2009 </p>
 		<p align="center"> 
 		<img border="0" src="https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/XAHOI/IMG/Bongdavodich2008.jpg"> </p>
 		<p><span class="First">

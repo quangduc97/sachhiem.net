@@ -2,7 +2,7 @@
 layout: ../../../layouts/Article.astro
 title: "Tôn giáo trước ngưỡng cửa khoa học"
 author: "Đức Phường"
-source: "https://sachhiem.net/nguồn: https://www.vatlyvietnam.org/home/modules.php?name=News&amp;file=article&amp;sid=133"
+source: "/nguồn: https://www.vatlyvietnam.org/home/modules.php?name=News&amp;file=article&amp;sid=133"
 category: "Tác giả"
 lang: vi
 wordCount: 4251
@@ -30,7 +30,7 @@ image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nhacu.jpg"
 	<div style="padding-left: 30px; padding-right: 30px">
 
 	<table border="0" cellpadding="10" width="90%" cols="2"><tbody><tr>
- <td><a href="https://sachhiem.net/"><img border="0" src="https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nhacu.jpg"></a></td>
+ <td><a href="/"><img border="0" src="https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nhacu.jpg"></a></td>
 	<td valign="top" style="text-align:right">	10 tháng 
 	10, 2008
 	</td></tr></tbody></table>

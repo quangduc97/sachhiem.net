@@ -3,7 +3,7 @@ layout: ../../../layouts/Article.astro
 title: "Muốn Khuất Phục Kẻ Thù, Hãy Nuôi Dạy Con Cái Của Chúng"
 author: "Sharma Rachana"
 date: 2023-10-26
-source: "https://sachhiem.net/XAHOI/S/SharmaRachana.php"
+source: "/XAHOI/S/SharmaRachana"
 category: "Tác giả"
 lang: vi
 wordCount: 1592
@@ -88,4 +88,4 @@ image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/TONGIAO/IMG/NHOI SO/
 <p>___________________</p>
 <p><b>Những bài liên quan:</b></p>
 <p>1. <a href="/XAHOI/S/SharmaRachana_FUV">Thực Hư Đh Fulbright Là Ổ Nuôi Cấy Việt Gian Tay Sai Cầm Đầu Cách Mạng Màu Tại Việt Nam? </a>(Sharma Rachana) </p>
-<p>2.  “<a href="https://sachhiem.net/THOISU_CT/ChuN/NguyenKieuDung.php" target="_blank" rel="nofollow noopener">Sự thật về Đại học Fulbright</a>” (TS Nguyễn Kiều Dung) </p>
+<p>2.  “<a href="/THOISU_CT/ChuN/NguyenKieuDung" target="_blank" rel="nofollow noopener">Sự thật về Đại học Fulbright</a>” (TS Nguyễn Kiều Dung) </p>

@@ -2,14 +2,14 @@
 layout: ../../../layouts/Article.astro
 title: "Tự Điển Tiếng Việt Đổi Đời - 4"
 author: "Đào Văn Bình"
-source: "https://sachhiem.net/DAOVB/VH/DaovBinh_TuDienmoi4.php"
+source: "/DAOVB/VH/DaovBinh_TuDienmoi4"
 category: "Văn hóa"
 lang: vi
 wordCount: 8209
-image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nha.jpg"
+image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/DAOVB/VH/Xayra.jpg"
 ---
 
-<p align="center"><a href="/index"><img hspace="20" border="0" src="https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nha.jpg"></a> 06- May- 2017</p>
+<p align="center"> 06- May- 2017</p>
 <div class="tomluoc">
   <p> <i> LTS: Đây là kỳ chót trong loạt bài về những từ ngữ rất phổ biến ở Việt Nam  ngày nay khác với ngôn ngữ trước đây gần nủa thế kỷ. Thật ra vẫn còn nhiều từ ngữ khác đã và đang phát sinh do nhiều lý do của thời đại mà tự điển này không thể bao hàm hết. Trong lúc đó, có một   số từ ngữ trong loạt bài này, tuy không mới nhưng cách dùng mới, theo góc nhìn của tác giả, và do đó có những nhận xét khó tránh khỏi chủ quan. Dù sao, đây là sự cố gắng đầy tâm huyết với thái độ khách quan của tác giả để nhận biết những nét đẹp trong ngôn ngữ Việt. (SH) </i></p>
 </div>
@@ -203,4 +203,4 @@ image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nha.jpg"
 <p>- <a href="https://motgoctroi.com/DienDan/Dd_Vanhoa/TiengVietNN/TiengVietthoinay.htm">Tiếng Việt thời nay: nên cười hay nên khóc?</a></p>
 
 <hr>
- <p><a href="https://sachhiem.net/DAOVB/DVBdir.php">-  Link các bài viết của tác giả Đào Văn Bình - </a> </p>
+ <p><a href="/DAOVB/DVBdir">-  Link các bài viết của tác giả Đào Văn Bình - </a> </p>

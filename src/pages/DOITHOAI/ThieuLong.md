@@ -3,7 +3,7 @@ layout: ../../layouts/Article.astro
 title: "Trích Bình Luận Về: \"Bên Thắng Cuộc\","
 author: "Thiếu Long Texas"
 date: 2012-10-31
-source: "https://sachhiem.net/DOITHOAI/ThieuLong.php"
+source: "/DOITHOAI/ThieuLong"
 category: "Chính trị"
 lang: vi
 wordCount: 3669

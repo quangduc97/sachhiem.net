@@ -3,7 +3,7 @@ layout: ../../../layouts/Article.astro
 title: "Thập 'Đại Ngu' Của Các Nhà 'Rận'"
 author: "Hoàng Ngọc Thạch"
 date: 2014-03-26
-source: "https://sachhiem.net/THOISU_CT/ChuH/HNThach01.php"
+source: "/THOISU_CT/ChuH/HNThach01"
 category: "Chính trị"
 lang: vi
 wordCount: 2136

@@ -3,7 +3,7 @@ layout: ../../../layouts/Article.astro
 title: "Tôi đi nghe Mục Sư Nguyễn Huệ Nhật giảng đạo Tin Lành"
 author: "Nguyễn Hữu Ba"
 date: 2014-09-03
-source: "https://sachhiem.net/TONGIAO/tgN/NguyenHBa08.php"
+source: "/TONGIAO/tgN/NguyenHBa08"
 category: "Tác giả"
 lang: vi
 wordCount: 7796
@@ -130,4 +130,4 @@ image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/TONGIAO/IMG/MUCSU/MS
           <p><i>Thành phố Adelaide ngày 2-12-2007</i> </p>
           <p class="TacgiaL">Nguyễn Hữu Ba </p>
           ___________________
-          <p>Các bài của Nguyễn Hữu Ba: link <a href="https://sachhiem.net/TONGIAO/tgN/ListNHBa.inc.php" target="_blank">https://sachhiem.net/TONGIAO/tgN/ListNHBa.inc.php</a></p>
+          <p>Các bài của Nguyễn Hữu Ba: link <a href="/TONGIAO/tgN/ListNHBa.inc" target="_blank">https://sachhiem.net/TONGIAO/tgN/ListNHBa.inc.php</a></p>

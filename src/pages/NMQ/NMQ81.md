@@ -3,10 +3,10 @@ layout: ../../layouts/Article.astro
 title: "Đọc Chuyện Bắt Cóc Của Giáo Hội La Mã"
 author: "Nguyễn Mạnh Quang"
 date: 2017-08-10
-source: "https://sachhiem.net/NMQ/NMQ81.php"
+source: "/NMQ/NMQ81"
 category: "Lịch sử"
 lang: vi
-wordCount: 3009
+wordCount: 3007
 image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/TONGIAO/IMG/VATICAN/VU_AN/EdgardoMortara_kidnapped.JPG"
 ---
 
@@ -57,7 +57,7 @@ image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/TONGIAO/IMG/VATICAN/
   <p> Bỏ ra ngòai những  hành động tội ác khác của giáo hội trong gần hai ngàn năm qua, chỉ nói riêng  hành động của Giáo Hoàng Pius IX (1846-1878), ông giáo hòang này đã từng ra  lệnh bắt cóc em bé<i> Edgardo Mortara</i>  và gọi dân tộc Do  Thái là<i> "lũ chó" </i>mà vẫn được giáo hội tuyên phúc để tiến tới  phong thánh. Như vậy là nền đạo lý của Giáo Hội La Mã quả thật là ngược ngạo và  man rợ ngoài sức tưởng tượng của loài người. Nó là một thứ <b>"đạo lý ăn cướp</b>", chứ không hơn không kém.</p>
   <p>Cái cán cân công lý của Giáo Hội La Mã luôn luôn nghiêng <b>ngược chiều với công lý chung của nhân loại.</b> Từ năm 1988 đến năm 2000, Giáo Hội La Mã đã phong thánh cho các tên tội đồ của các dân tộc nạn nhân. <span class="sub">Ngày 19/6/1988, Giáo Hội  tổ chức lễ phong thánh cho 117  người đã  chống lại tổ quốc Việt Nam phục vụ cho mưu đồ đại gian đại ác của Giáo Hội La Mã từ cuối thế kỷ 18 đến cuối thế kỷ 19. Dã tâm thâm độc của việc phong thánh này là khích lệ tín  đồ Ca-tô "ngoan đạo" người Việt tiếp tục hăng say chống lại tổ quốc Việt Nam</span>. <span class="sub">Năm 2000, Giáo Hội La Mã lại tổ chức phong thánh cho 120 tên  tội đồ chống lại Trung Quốc đã bị chính quyền Trung Quốc xử tử vì tội phản quốc  vào những năm&nbsp;cuối thế kỷ 19 và đầu thế  kỷ 20</span>. Rồi <span class="sub"> ngày 3 tháng 9 năm 2000, Giáo Hòang John  Paul II&nbsp; tổ chức lễ phong chân phước cho  Giáo Hoàng Pius IX (1846-1878)</span> như đã kể trên.</p>
   <p>Nguời&nbsp;dân Do Thái ở khắp nơi trên thế giới, đặc biệt là dân Do Thái ở Ý Đại Lợi đã phản đối dữ dội. Chính phủ Việt Nam và Trung Quốc cũng đã lên tiếng. Sau khi bị Trung Cộng phản đối, John Paul II xin lỗi&nbsp;"<i>vì Những Sai Lầm Của Thừa Sai</i>" (Pope Apologizes to China over Missionary Errors). Nhưng chưa nghe thấy Giáo Hội xin lỗi Việt Nam bao giờ. Tại sao vậy?</p>
-  <p>Ôn lại chuyện này làm bài học, chúng ta nên cảnh giác, đừng bao giờ mướn người giúp việc theo đạo Ca-tô giáo, đừng bao giờ cho con theo học trường mầm non của đạo Ca-tô làm chủ, và coi chừng bạn bè của con cái chúng ta nữa.  Căn cứ vào các bản tin trên, ta thấy truyền thống của Giáo Hội La Mã cho rằng tín hữu Ca-tô giáo có nhiệm vụ phải rửa tội cho bất kỳ ai, nhất là em bé hoặc người sắp chết, bất kể là có được sự chấp thuận của cha mẹ em bé đó hay của gia đình người sắp chết hay không. Ở Mỹ, trong các cộng đồng người Việt, đã có những trường hợp "cướp hồn cướp xác" xảy ra rồi. (<a href="https://sachhiem.net/index.php?content=showrecipeE&amp;id=159">Tiêu biểu là chuyện của Nguyễn Chí Thiện năm 2012</a>.)</p>
+  <p>Ôn lại chuyện này làm bài học, chúng ta nên cảnh giác, đừng bao giờ mướn người giúp việc theo đạo Ca-tô giáo, đừng bao giờ cho con theo học trường mầm non của đạo Ca-tô làm chủ, và coi chừng bạn bè của con cái chúng ta nữa.  Căn cứ vào các bản tin trên, ta thấy truyền thống của Giáo Hội La Mã cho rằng tín hữu Ca-tô giáo có nhiệm vụ phải rửa tội cho bất kỳ ai, nhất là em bé hoặc người sắp chết, bất kể là có được sự chấp thuận của cha mẹ em bé đó hay của gia đình người sắp chết hay không. Ở Mỹ, trong các cộng đồng người Việt, đã có những trường hợp "cướp hồn cướp xác" xảy ra rồi. (Tiêu biểu là chuyện của Nguyễn Chí Thiện năm 2012.)</p>
   <p>So sánh 3 chuyện bắt cóc được nhắc đến từ đầu bài:</p>
    <p>Chuyện Việt Nam bắt (?) ông Trịnh Xuân Thanh từ nước Đức. Ông Trịnh Xuân Thanh là một tội phạm kinh tế của Việt Nam.</p>
  <p>Chuyện Mỹ mang quân đi truy lùng và sát hại Osama Bin Laden tại nước Pakistan hồi năm 2012. Osama Bin Laden là một tội phạm khủng bố.</p>

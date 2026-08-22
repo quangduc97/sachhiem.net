@@ -1,7 +1,7 @@
 ---
 layout: ../../../layouts/Article.astro
 title: "Mừng Non Sông Một Giải - Thống Nhất Sơn Hà"
-source: "https://sachhiem.net/null"
+source: "/null"
 category: "Chính trị"
 lang: vi
 wordCount: 2

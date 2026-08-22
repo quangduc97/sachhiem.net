@@ -3,7 +3,7 @@ layout: ../../../layouts/Article.astro
 title: "Vụ Xôn Xao Giáo xứ St. Barbara:"
 author: "Tin Người Việt"
 date: 2013-01-25
-source: "https://sachhiem.net/TONGIAO/tgT/TinNGV1.php"
+source: "/TONGIAO/tgT/TinNGV1"
 category: "Tác giả"
 lang: vi
 wordCount: 8137

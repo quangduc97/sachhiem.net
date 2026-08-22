@@ -3,7 +3,7 @@ layout: ../../layouts/Article.astro
 title: "Kẻ Cướp Khôn Ranh, Người Ngay Khôn Khéo"
 author: "Nguyễn Văn Thịnh"
 date: 2014-06-23
-source: "https://sachhiem.net/NGVTHINH/NguyenvThinh_TS01.php"
+source: "/NGVTHINH/NguyenvThinh_TS01"
 category: "Chính trị"
 lang: vi
 wordCount: 1722
@@ -29,4 +29,4 @@ image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/TONGIAO/IMG/CHUA/Chu
   <p class="TacgiaL">Nguyễn Văn Thịnh </p>
   <p>(thân hữu HQ chuyển. Bài đã được đăng ở Tuần báo Văn nghệ TPHCM Số 306 Thứ năm ngày 19 tháng 6 năm 2014)&nbsp;</p>
 ___________________
-<p>Các bài của Nguyễn Văn Thịnh: link <a href="https://sachhiem.net/VANHOC/N/ListNVTh.inc.php" target="_blank">https://sachhiem.net/VANHOC/N/ListNVTh.inc.php</a></p>
+<p>Các bài của Nguyễn Văn Thịnh: link <a href="/VANHOC/N/ListNVTh.inc" target="_blank">https://sachhiem.net/VANHOC/N/ListNVTh.inc.php</a></p>

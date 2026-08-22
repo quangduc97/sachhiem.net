@@ -3,7 +3,7 @@ layout: ../../../layouts/Article.astro
 title: "Trong Sách VIỆT NAM SỬ LƯỢC của Trần Trọng Kim"
 author: "TS. Phan Văn Hoàng"
 date: 2018-08-01
-source: "https://sachhiem.net/LICHSU/P/PhanvHoang_04.php"
+source: "/LICHSU/P/PhanvHoang_04"
 category: "Chính trị"
 lang: vi
 wordCount: 11350

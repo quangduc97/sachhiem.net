@@ -3,7 +3,7 @@ layout: ../../../layouts/Article.astro
 title: "[THIỂU SỐ HOÁ?] Phê Phán RFA Cổ Vũ Các Hệ Phái PG Tại VN"
 author: "Minh Thạnh"
 date: 2024-03-14
-source: "https://sachhiem.net/TONGIAO/tgM/MinhThanh43c.php"
+source: "/TONGIAO/tgM/MinhThanh43c"
 category: "Tác giả"
 lang: vi
 wordCount: 5193

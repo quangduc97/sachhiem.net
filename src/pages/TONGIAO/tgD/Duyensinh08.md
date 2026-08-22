@@ -3,7 +3,7 @@ layout: ../../../layouts/Article.astro
 title: "Ca-Tô Giáo Là Một Hiểm Họa"
 author: "DuyênSinh"
 date: 2014-10-16
-source: "https://sachhiem.net/TONGIAO/tgD/Duyensinh08.php"
+source: "/TONGIAO/tgD/Duyensinh08"
 category: "Tác giả"
 lang: vi
 wordCount: 15628

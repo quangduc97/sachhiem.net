@@ -3,7 +3,7 @@ layout: ../../layouts/Article.astro
 title: "OCEAN VƯƠNG - Nhà Thơ Nhà Văn Phật Tử, Đồng Tính"
 author: "Thích trí Hoằng"
 date: 2021-04-12
-source: "https://sachhiem.net/VANHOC/TriHoang02.php"
+source: "/VANHOC/TriHoang02"
 category: "Văn hóa"
 lang: vi
 wordCount: 2442
@@ -63,7 +63,7 @@ image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/VANHOC/Hinh/VANNHAN/
     <p><b>Chú thích:</b></p>
     <ol>
       <li>The Future Library Project (Dự Án Thư Viện  Tương Lai): Đây là một dự án văn học lớn của Norway tuyển chọn tác  phẩm của các nhà văn nổi tiếng khắp thế giới, mỗi năm một tác  phẩm, từ năm 2014 đến 2114. Một trăm tác phẩm này sẽ được cất giữ  và chỉ công bố vào năm 2114.</li>
-      <li>Xem sachhiem.net: Thích Trí Hoằng, “<i><a href="https://sachhiem.net/VANHOC/TriHoang01.php">Quan  Điểm Phật Giáo Về Đồng Tính</a></i>”, 2020.</li>
+      <li>Xem sachhiem.net: Thích Trí Hoằng, “<i><a href="/VANHOC/TriHoang01">Quan  Điểm Phật Giáo Về Đồng Tính</a></i>”, 2020.</li>
       <li>Những đoạn trong Thánh Kinh Cựu  Ước (Old Testament) đã kết án đồng tính: “<i>Hai thành phố Sodom và  Gomorrah thác loạn đồng tính, vì vậy Thiên Chùa đã trừng phạt bằng  ngọn lửa vĩnh hằng</i>” (Genesis 19). “Nếu một người nam làm tình với  một người nam, họ phải bị xử tử” (Leviticus 20:13). Trong Thánh Kinh  Tân Ước (New Testament): “Paul chứng minh rằng: Dục vọng đồng tính không  phải chủ ý ban đầu của Thiên Chúa. Những dục vọng bệnh hoạn của  chúng ta là dấu hiệu xa rời Thiên Chúa” (Romans 1:18-32). “<i>Kẻ thực  hành đồng tính không được thừa hưởng Nước Chúa. Tội lỗi đồng tính  là nghiêm trọng, không độc nhất và và không tránh thoát</i>” (Corinthians  6:9-10). “Kẻ thực hành đồng tính là phản lại giáo điều chính thống”  (Timothy 1:8-10). </li>
       <li>Xem Wikipedia:  Suicide Among LGBT Youth (Tự Tử trong giới trẻ đồng tính). </li>
       <li><a href="https://www.youtube.com/watch?v=reFtzFpdZIU">Buổi ra mắt sách tập thơ của thi sĩ  Ocean Vương - YouTube</a>. </li>

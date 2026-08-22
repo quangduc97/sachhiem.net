@@ -2,11 +2,11 @@
 layout: ../../../layouts/Article.astro
 title: "Nước Mỹ - Nhân Quyền - Việt Nam"
 author: "Trần Chung Ngọc"
-source: "https://sachhiem.net/null"
+source: "/null"
 category: "Chính trị"
 lang: vi
 wordCount: 9412
-image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nha.jpg"
+image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/LICHSU/IMG/SACH/Khongthechuocloi.jpg"
 ---
 
 <div align="center" style="position: relative; left: 0; top: 0">
@@ -22,8 +22,7 @@ image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nha.jpg"
 <tr><td width="100%">
 <div style="padding-left: 50px; padding-right: 50px"> 
 	<table border="0" cellpadding="1" width="86%" cols="2"><tbody><tr>
-	<td><a href="/index">
-	<img border="0" src="https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nha.jpg"></a></td>
+	<td></td>
 <td valign="top" width="178"><p>06 tháng 9,  2010</p></td></tr></tbody></table>
 
 		<div class="WordSection1">
@@ -150,7 +149,7 @@ image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nha.jpg"
 		</p>
 		<p>Phần tài liệu bằng tiếng Anh có thể đọc 
 			trên: 
-			<a href="https://www.sachhiem.net/TCN/TCNts/TCNts25.php">https://www.sachhiem.net/TCN/ TCNts/TCNts25.php</a></p>
+			<a href="/TCN/TCNts/TCNts25">https://www.sachhiem.net/TCN/ TCNts/TCNts25.php</a></p>
 		<p>* <i>Những tội phạm chiến tranh thuộc binh chủng Thủy, 
 			Lục, Không quân Hoa Kỳ đã tàn sát 3 triệu người ở Việt Nam, trong 
 			rất nhiều nơi như Mỹ Lai. Hầu hết các nạn nhân là đàn bà và 
@@ -222,7 +221,7 @@ image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nha.jpg"
 		<p><span lang="en-us">"</span>ĐẠO ĐỨC 
 			CHÍNH QUYỀN MỸ Trong Vấn Nạn CHẤT ĐỘC MÀU DA CAM Và Sự Vô 
 			Sỉ Của Một Số Người Việt Lưu Vong,<span lang="en-us">"</span> trên: 
-			<a href="https://www.sachhiem.net/TCN/TCNkh/TCNkh18.php">https://www.sachhiem.net/TCN/<span lang="en-us">
+			<a href="/TCN/TCNkh/TCNkh18">https://www.sachhiem.net/TCN/<span lang="en-us">
 		</span>TCNkh/TCNkh18.php</a></p>
 		<p>Sau đây là một đoạn trong đó, tài liệu từ trên tờ <i>Chicago Tribune</i>, 
 			ngày 8 tháng 12, 2009, của Jason Grotto trong bài trên trang nhất 

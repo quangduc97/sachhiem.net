@@ -3,7 +3,7 @@ layout: ../../../layouts/Article.astro
 title: "Trung Quốc Sẽ Sụp Đổ"
 author: "Gordon G. Chang / Amazon"
 date: 2016-07-14
-source: "https://www.sachhiem.net/"
+source: "/"
 category: "Chính trị"
 lang: vi
 wordCount: 786

@@ -2,16 +2,16 @@
 layout: ../../../../layouts/Article.astro
 title: "Tại Sao Tôi Không là người Kitô?"
 author: "Bertrand Russell/ Lê Dọn Bàn"
-source: "https://sachhiem.net/SACHNGOAI/snL/LeDonBan/LDB01.php"
+source: "/SACHNGOAI/snL/LeDonBan/LDB01"
 category: "Tác giả"
 lang: vi
 wordCount: 23704
-image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nha.jpg"
+image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/SACHNGOAI/Hinhanh/BIASACH/WhyIAmNotaChristian.jpg"
 ---
 
 <p class="Tuaduoi">dịch từ "Why I Am Not a Christian" của Bertrand Russell (1872-1970)</p>
           
-          <p align="center"><a href="https://www.sachhiem.net/"> <img border="0" src="https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nha.jpg"></a> 30 tháng 11, 2009 - bổ túc 14 Nov 2015</p>
+          <p align="center"> 30 tháng 11, 2009 - bổ túc 14 Nov 2015</p>
           <p align="center"><img src="https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/SACHNGOAI/Hinhanh/BIASACH/WhyIAmNotaChristian.jpg" width="150" height="199" alt="Why I Am Not a Christian"></p>
           <div class="tomluoc">
    <p><b>Lời Người Dịch: </b></p>

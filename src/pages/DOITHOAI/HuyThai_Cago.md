@@ -3,7 +3,7 @@ layout: ../../layouts/Article.astro
 title: "Cá Gỗ, Cá Sắt, Và Lòng Tự Tôn Dân Tộc Của GS Trần Văn Khê"
 author: "Huy Thái"
 date: 2018-07-13
-source: "https://sachhiem.net/DOITHOAI/HuyThai_Cago.php"
+source: "/DOITHOAI/HuyThai_Cago"
 category: "Chính trị"
 lang: vi
 wordCount: 4793

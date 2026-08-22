@@ -3,7 +3,7 @@ layout: ../../../layouts/Article.astro
 title: "Đạo Cao Đài"
 author: "Hiền Tài Trần Văn Rạng"
 date: 2013-01-18
-source: "https://sachhiem.net/TONGIAO/tgH/HTTranvRang.php"
+source: "/TONGIAO/tgH/HTTranvRang"
 category: "Tác giả"
 lang: vi
 wordCount: 1838

@@ -6,7 +6,7 @@ source: "https://religion.blogs.cnn.com/2011/04/27/abuse-crisis-fuels-debate-ove
 category: "Tác giả"
 lang: en
 wordCount: 1654
-image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nha.jpg"
+image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/IMG/VATICAN/POPE/JPII_2002.jpg"
 ---
 
 <div align="center" style="position: relative; left: 0; top: 0">
@@ -27,8 +27,7 @@ image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nha.jpg"
 <tr><td width="100%">
 <div style="padding-left: 50px; padding-right: 50px"> 
 	<table border="0" cellpadding="1" width="87%" cols="2"><tbody><tr>
-	<td><a href="https://www.sachhiem.net/">
-	<img border="0" src="https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nha.jpg"></a></td>
+	<td></td>
 <td valign="top" width="210"><p>01 tháng 5, 2011</p>
 	</td></tr></tbody></table>
 			<div style="padding-left: 50px; padding-right: 50px">

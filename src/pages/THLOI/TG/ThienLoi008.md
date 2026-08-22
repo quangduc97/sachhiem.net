@@ -2,15 +2,14 @@
 layout: ../../../layouts/Article.astro
 title: "Cải Đạo, Sách Lược Thực Dân Mới Mà Cũ"
 author: "Thiên Lôi"
-source: "https://sachhiem.net/THLOI/TG/ThienLoi008.php"
+source: "/THLOI/TG/ThienLoi008"
 lang: vi
 wordCount: 5501
-image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nha.jpg"
+image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/SACHNGOAI/Hinhanh/PEOPLE/RudyardKipling.jpg"
 ---
 
 <table border="0" cellpadding="0" width="250" align="center"><tbody><tr>
-<td width="100"><a href="/index">
-<img border="0" src="https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nha.jpg"></a></td>
+<td width="100"></td>
 <td valign="top">	18 tháng 2, 2011 </td></tr></tbody></table>
 	
 

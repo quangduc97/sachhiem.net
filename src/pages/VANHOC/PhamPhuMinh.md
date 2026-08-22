@@ -3,16 +3,16 @@ layout: ../../layouts/Article.astro
 title: "Ai là tác giả bức tranh"
 author: "Phạm Phú Minh"
 date: 2013-05-20
-source: "https://sachhiem.net/VANHOC/PhamPhuMinh.php"
+source: "/VANHOC/PhamPhuMinh"
 category: "Chính trị"
 lang: vi
 wordCount: 1993
-image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nha.jpg"
+image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/VANHOC/Hinh/TranhChuotCanhTy.jpg"
 ---
 
 <table border="0" cellpadding="0" width="250" align="center">
             <tbody><tr>
-              <td width="125"><a href="/index"><img border="0" src="https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nha.jpg"></a></td>
+              <td width="125"></td>
               <td valign="middle">
                 20-May-2013
               </td>

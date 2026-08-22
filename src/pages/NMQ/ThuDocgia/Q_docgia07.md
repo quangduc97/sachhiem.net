@@ -1,14 +1,14 @@
 ---
 layout: ../../../layouts/Article.astro
 title: "Thư bạn đọc Trần Văn Quang (Canada)"
-source: "https://sachhiem.net/NMQ/ThuDocgia/Q_docgia07.php"
+source: "/NMQ/ThuDocgia/Q_docgia07"
 lang: vi
 wordCount: 121
 image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/NMQ/ThuDocgia/TrvQuang1.jpg"
 ---
 
 <div style="padding-left: 75px; padding-right: 75px">
-			<p><a href="https://sachhiem.net/NMQ/ThuDocgia/QThudocgia.php">[Mời xem lời giới thiệu ở link]</a></p>
+			<p><a href="/NMQ/ThuDocgia/QThudocgia">[Mời xem lời giới thiệu ở link]</a></p>
 			  <p>1.</p>
  	  <p><img src="https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/NMQ/ThuDocgia/TrvQuang1.jpg" width="450" height="642" alt="">
  	  </p><p><img src="https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/NMQ/ThuDocgia/TrvQuang2.jpg" width="450" height="614" alt=""></p>

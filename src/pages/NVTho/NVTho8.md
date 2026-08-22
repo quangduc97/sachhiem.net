@@ -2,16 +2,16 @@
 layout: ../../layouts/Article.astro
 title: "ÍT NHIỀU NHẬN ĐỊNH VỀ THIÊN CHÚA GIÁO"
 author: "Nhân Tử Nguyễn Văn Thọ"
-source: "https://sachhiem.net/NVTho/NVTho8.php"
+source: "/NVTho/NVTho8"
 lang: vi
 wordCount: 7710
-image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nha.jpg"
+image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/Next.gif"
 ---
 
 <p class="Tuaduoi"> (Phê Bình Giáo  Lý)</p>
           
           
-          <p align="center"><a href="/index"><img hspace="20" border="0" src="https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nha.jpg"></a> ngày 05 tháng 9, 2007 </p>
+          <p align="center"> ngày 05 tháng 9, 2007 </p>
           
           Vài hàng về Tác Giả: <a href="/NVTho/NVThodir">0</a>
           

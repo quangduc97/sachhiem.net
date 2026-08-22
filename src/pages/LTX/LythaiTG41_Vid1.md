@@ -2,7 +2,7 @@
 layout: ../../layouts/Article.astro
 title: "Trình chiếu Câu Chuyện Về LM Trương Bửu Diệp"
 author: "Lý Thái Xuân"
-source: "https://sachhiem.net/LTX/LyThaiTG41_Vid1.php"
+source: "/LTX/LyThaiTG41_Vid1"
 category: "Lịch sử"
 lang: vi
 wordCount: 124

@@ -3,7 +3,7 @@ layout: ../../../layouts/Article.astro
 title: "Nạn Nhân Ấu Dâm Rời Bỏ Ủy Ban Của Vatican Vì “Bị Cản Trở”"
 author: "Elisabetta Povoledo + Gaia Pianigiani / NY Times"
 date: 2017-03-02
-source: "https://sachhiem.net/SACHNGOAI/snT/TranKevin_12.php"
+source: "/SACHNGOAI/snT/TranKevin_12"
 category: "Sách ngoại văn"
 lang: vi
 wordCount: 2070

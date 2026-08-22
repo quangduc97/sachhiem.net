@@ -2,15 +2,14 @@
 layout: ../../../layouts/Article.astro
 title: "Ai Đi Buôn Thượng Đế ?"
 author: "Trần văn Kha"
-source: "https://sachhiem.net/TONGIAO/tgTR/TranvanKha1.php"
+source: "/TONGIAO/tgTR/TranvanKha1"
 category: "Tác giả"
 lang: vi
 wordCount: 9377
-image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nha.jpg"
+image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/TONGIAO/IMG/VATICAN/INQUI/CGHS5.gif"
 ---
 
-<p align="center"><a href="https://www.sachhiem.net/">
-	<img border="0" src="https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nha.jpg"></a> 10 tháng 9, 2007 </p> 
+<p align="center"> 10 tháng 9, 2007 </p> 
 <p class="indent50"><i>"Thế giới sẽ không bị hủy diệt bởi những người làm điều xấu, nhưng bởi
     những người nhìn họ hành động mà không chịu can thiệp." </i>(Trích ra
     từ “Chống Cộng...” trang 343 và "Yoga 2008", trang 53). </p>

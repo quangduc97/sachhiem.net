@@ -3,7 +3,7 @@ layout: ../../../layouts/Article.astro
 title: "Nhớ Ngày 14 Tháng 3, Một Sự Kiện Bi Hùng Của Lịch Sử Việt Nam Thế Kỷ XX"
 author: "Hàn Nguyên Nguyễn Nhã - Tiến sĩ sử học"
 date: 2015-03-15
-source: "https://sachhiem.net/LICHSU/N/NguyenNha2.php"
+source: "/LICHSU/N/NguyenNha2"
 category: "Lịch sử"
 lang: vi
 wordCount: 1329
@@ -44,4 +44,4 @@ image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/LICHSU/IMG/TRANDANH/
 <p>- <a href="https://baodaklak.vn/channel/3482/201401/hoang-sa-truong-sa-la-cua-viet-nam-chu-quyen-viet-nam-doi-voi-quan-dao-hoang-sa-truong-sa-qua-cai-nhin-cua-cac-nha-hang-hai-nha-phat-kien-dia-ly-phuong-tay-2287280/">Chủ quyền Việt Nam đối với quần đảo Hoàng Sa, Trường Sa</a> qua cái nhìn của các nhà hàng hải, nhà phát kiến địa lý phương Tây (10/01/2014 https://baodaklak.vn/)</p>
 <hr align="left" width="50%">
 <p><b>Những bài về Trường Sa &amp; Hoàng Sa đăng trong sachhiem.net</b></p>
-<p><a href="https://sachhiem.net/LICHSU/H/HoangSa_list.php">https://sachhiem.net/LICHSU/H/HoangSa_list.php</a>  </p>
+<p><a href="/LICHSU/H/HoangSa_list">https://sachhiem.net/LICHSU/H/HoangSa_list.php</a>  </p>

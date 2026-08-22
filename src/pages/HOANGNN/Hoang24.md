@@ -2,15 +2,14 @@
 layout: ../../layouts/Article.astro
 title: "BYE BYE GIẤC MỘNG CON NĂM 2008"
 author: "Huỳnh Bất Hoặc"
-source: "https://sachhiem.net/HOANGNN/Hoang24.php"
+source: "/HOANGNN/Hoang24"
 category: "Chính trị"
 lang: vi
 wordCount: 2775
-image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nha.jpg"
+image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/HOANGNN/Hinh/Madoff.jpg"
 ---
 
-<p align="center"><a href="https://www.sachhiem.net/">
-	<img hspace="20" border="0" src="https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nha.jpg"></a> ngày 14 tháng 1, 2009</p>
+<p align="center"> ngày 14 tháng 1, 2009</p>
 	    
 	<p><span class="First">2008</span> đã nhường bước cho 2009 để đi vào quá khứ nhưng chắc còn lâu thiên 
 	hạ mới quên được 2008! Nhất là quên cơn ác mộng suy thoái, tiền bạc biến 

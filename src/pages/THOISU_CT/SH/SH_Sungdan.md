@@ -3,7 +3,7 @@ layout: ../../../layouts/Article.astro
 title: "Vì Sao Nước Mỹ Không Cấm Súng?"
 author: "ZACHARY B. WOLF"
 date: 2022-06-01
-source: "https://sachhiem.net/THOISU_CT/SH/SH_Sungdan.php"
+source: "/THOISU_CT/SH/SH_Sungdan"
 category: "Chính trị"
 lang: vi
 wordCount: 4411

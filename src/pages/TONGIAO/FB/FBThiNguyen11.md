@@ -3,7 +3,7 @@ layout: ../../../layouts/Article.astro
 title: "Nhân Mùa Vu Lan, Lại Nghĩ Về Đạo Hiếu Của Các Tôn Giáo"
 author: "FB Thi Nguyễn"
 date: 2020-09-04
-source: "https://sachhiem.net/TONGIAO/FB/FBThiNguyen11.php"
+source: "/TONGIAO/FB/FBThiNguyen11"
 category: "Tác giả"
 lang: vi
 wordCount: 7859
@@ -53,7 +53,7 @@ image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/TONGIAO/IMG/PHATGIAO
 <p><i>  Người còn thì của cũng còn,</i></p>
 <p><i>  Để người ban bảo vuông tròn nhân duyên.</i>”</p>
 <p align="center"><img src="https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/TONGIAO/IMG/ThuhoaVuHoi1.gif" width="222" height="448" alt=""><img src="https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/TONGIAO/IMG/thuhoaVuhoi2.gif" width="165" height="448" alt=""></p>
-<p align="center"><i>Hai tác phẩm của họa sĩ Vũ Hối. <a href="https://sachhiem.net/LTX/LythaiTG01.php">Xem bài bình.</a></i></p>
+<p align="center"><i>Hai tác phẩm của họa sĩ Vũ Hối. <a href="/LTX/LythaiTG01">Xem bài bình.</a></i></p>
 <p class="PHAN">  CÔNG GIÁO LA MÃ VÀ TIN LÀNH</p>
 <p>  Đạo Công giáo có điều răn thứ 4 khuyên con chiên thảo kính với  cha mẹ. Tuy nhiên, điều răn này kém quan trọng hơn những chuyện xàm xí như  <i>“không được kêu tên chúa vô cớ”</i> (điều răn thứ 2) hay <i>“không được bỏ lễ ngày chủ nhật</i>” (điều răn thứ 3). </p>
 <p>  Trước Công đồng Vatican II (năm 1962), tất cả các con chiens  Công giáo không được thờ cúng tổ tiên ông bà, không được lạy, thắp hương ông bà  đã khuất vì Chúa là đấng rất ghen tỵ và không cho phép con chiên thờ lạy bất kỳ  ai ngoài Chúa (Xuất Ê-Díp-Tô Ký 34: 14: … các ngươi không được thờ phụng Thần  nào khác, vì Thiên Chúa là một đấng “<i>Ghen Tuông, Đố Kỵ</i>”). Như vậy, khi một  người Việt theo đạo Công giáo và trở thành con chiên thì phải dẹp bỏ bàn thờ tổ  tiên ông bà. Ngày nay, tuy Công giáo cho phép thắp hương cúng ông bà, nhưng  việc thờ cúng ông bà vẫn bị xem nhẹ, có khi còn lén lút, và chỉ làm cho có lệ  vào những ngày giỗ chạp. Con chiens vẫn không được phép ăn đồ cúng bởi vì quan  niệm ông bà chết đi đã biến thành ma quỷ và con chiens không được ăn đồ ăn của  ma quỷ.</p>

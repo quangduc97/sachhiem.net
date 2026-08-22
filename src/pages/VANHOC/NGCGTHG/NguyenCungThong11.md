@@ -3,7 +3,7 @@ layout: ../../../layouts/Article.astro
 title: "Nguồn gốc tên gọi 12 con giáp - Tuất *swot chó (phần 12A)"
 author: "Nguyễn Cung Thông"
 date: 2018-01-31
-source: "https://sachhiem.net/VANHOC/NGCGTHG/NguyenCungThong11.php"
+source: "/VANHOC/NGCGTHG/NguyenCungThong11"
 category: "Văn hóa"
 lang: vi
 wordCount: 4021

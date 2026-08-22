@@ -3,7 +3,7 @@ layout: ../../layouts/Article.astro
 title: "Vatican Họp Thượng Hội Đồng Giám Mục"
 author: "Lý Thái"
 date: 2012-10-09
-source: "https://sachhiem.net/LTX/LythaiTG10.php"
+source: "/LTX/LythaiTG10"
 category: "Tác giả"
 lang: vi
 wordCount: 1190

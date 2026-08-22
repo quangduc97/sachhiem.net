@@ -3,7 +3,7 @@ layout: ../../../layouts/Article.astro
 title: "Giác thư của Linh mục ở Minnesota tố cáo đại sứ của Vatican"
 author: "Ri Nguyễn sưu tầm"
 date: 2018-08-18
-source: "https://sachhiem.net/TONGIAO/tgN/NguyenRi_39.php"
+source: "/TONGIAO/tgN/NguyenRi_39"
 category: "Tác giả"
 lang: vi
 wordCount: 749
@@ -37,4 +37,4 @@ image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/TONGIAO/IMG/HOAKY/TG
 <p>_____________________</p>
   <p>Các bài của Nguyễn Ri: link</p>
 <p>
-<a href="https://sachhiem.net/TONGIAO/tgN/ListRiNguyen.inc.php" target="_blank">https://sachhiem.net/TONGIAO/tgN/ListRiNguyen.inc.php</a></p>
+<a href="/TONGIAO/tgN/ListRiNguyen.inc" target="_blank">https://sachhiem.net/TONGIAO/tgN/ListRiNguyen.inc.php</a></p>

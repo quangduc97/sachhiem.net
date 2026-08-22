@@ -2,7 +2,7 @@
 layout: ../../../layouts/Article.astro
 title: "Quốc Dân Đảng"
 author: "Phạm Ngọc Nhân sưu tầm"
-source: "https://sachhiem.net/null"
+source: "/null"
 category: "Lịch sử"
 lang: vi
 wordCount: 14
@@ -37,7 +37,7 @@ image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nhacu.jpg"
  
 
 		<table border="0" cellpadding="10" width="85%" cols="2"><tbody><tr>
-				<td valign="top"><a href="https://sachhiem.net/">
+				<td valign="top"><a href="/">
 <img src="https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nhacu.jpg" border="0"></a></td>
 	<td valign="top" width="189">	9 tháng 2, 2008
 	</td></tr></tbody></table>

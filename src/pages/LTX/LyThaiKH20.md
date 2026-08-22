@@ -3,7 +3,7 @@ layout: ../../layouts/Article.astro
 title: "Hào Quang Mặt Trời Rực Rỡ Trên Dãy Hy Mã Lạp Sơn"
 author: "Lý Thái Xuân"
 date: 2015-04-18
-source: "https://sachhiem.net/LTX/LyThaiKH20.php"
+source: "/LTX/LyThaiKH20"
 category: "Khoa học"
 lang: vi
 wordCount: 492

@@ -3,7 +3,7 @@ layout: ../../../layouts/Article.astro
 title: "Những Người Không Biết Quốc Nhục - Ghi Ơn Tên Giặc Đắc Lộ Alexandre De Rhodes"
 author: "Trang nhà SH"
 date: 2019-10-22
-source: "https://sachhiem.net/LICHSU/S/SH09_bilacdan.php"
+source: "/LICHSU/S/SH09_bilacdan"
 category: "Chính trị"
 lang: vi
 wordCount: 1944
@@ -67,7 +67,7 @@ image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/LICHSU/IMG/ALEX/clip
 <p> <i>&nbsp;“Tôi tưởng nước Pháp là một nước đạo đức nhất thế giới, nước Pháp có thể  cung cấp cho tôi&nbsp;<b>mấy chiến sĩ</b>&nbsp;(plusieurs  soldats) đi&nbsp;<b>chinh phục toàn cõi Đông phương</b>&nbsp;(la conquête de  tout l’Orient), đưa về qui phục Chúa Kitô và nhất là tôi sẽ tìm được các giám mục,  cha chúng tôi và thầy chúng tôi trong các giáo đoàn. Với ý đó, tôi rời bỏ Rôma  ngày 11 tháng 9 năm 1652 sau khi tới hôn chân Đức Giáo hoàng”&nbsp;</i>(Bản dịch của Hồng  Nhuệ, gần cuối tr. 263, sách đã dẫn) </p>
 <p><i>“Trên đường từ Lyon tới Paris tôi nghiệm thấy có sự quan phòng rất đặc  biệt của Chúa, tôi vẫn coi như kim chỉ nam và mẫu mực. Để ra mắt ở Pháp tôi cần  có thiên thần hộ vực để&nbsp;đưa tôi lọt vào triều đình vua&nbsp;cao cả nhất  hoàn cầu. Thế là tôi gặp ở Roanne đức Henri de Maupa, giám mục thành Puy, tu viện  trưởng Saint Denis,&nbsp;đệ nhất tuyên úy của Hoàng Hậu. Ngài có nhã ý cùng đi  với tôi trong cuộc hành trình nhỏ bé nầy…”&nbsp;</i>(đầu tr. 264), {các chữ in đậm là của tác giả  muốn lưu ý}.</p>
 <p>Như thế, chính Linh Mục A. de Rhodes (Đắc Lộ)  đã vào trong triều đình, gặp bà hoàng hậu vua Louis thứ XIV, xin giúp&nbsp;nhiều  lính chiến&nbsp;(plusieurs soldats) để&nbsp;chinh phục toàn cõi Đông  Phương&nbsp;(la conquête de tout l’Orient), trong đó có nước ta.</p>
-<p> <a href="https://sachhiem.net/index.php?content=showrecipe&amp;id=5086">https://sachhiem.net/index.php?content=showrecipe&amp;id=5086</a></p>
+<p> <a href="/BUIKHA/BuiKha5">https://sachhiem.net/index.php?content=showrecipe&amp;id=5086</a></p>
 <p>2. Chương  17, trong đại tác phẩm “Viet Nam: Why Did We Go?” của tác giả Avro Manhattan:  (trích)</p>
 <p> Tu sĩ dòng Tên Alexandre de Rhodes đến Đông Dương năm 1610.</p>
 <p> Một thập kỷ sau đó, ông gửi cho Vatican và cho  Pháp một mô tả rất chính xác về tiềm năng thương mại, chính trị và chiến lược.</p>
@@ -76,8 +76,8 @@ image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/LICHSU/IMG/ALEX/clip
 
 <p>________________</p>
 <p>  Tham khảo:</p>
-<p>  . ALEXANDRE DE RHODES &amp; VẤN ĐỀ CHỮ QUỐC NGỮ (Bùi Kha)&nbsp;<a href="https://sachhiem.net/BUIKHA/BuiKha_Rhodes_0.php">https://sachhiem.net/BUIKHA/BuiKha_Rhodes_0.php</a>&nbsp;là  tập hợp một số các bài viết trước đây về Alexandre De Rhodes, mà phần lớn đã  đăng trên các diễn đàn, tạp chí hoặc sách vở.</p>
-<p>  . Giáo Sĩ  Đắc-Lộ &amp; Chữ Quốc Ngữ của Minh Vân (Trần Chung Ngọc)&nbsp;<a href="https://sachhiem.net/TCN/TCNdt/TCNdt070.php">https://sachhiem.net/TCN/TCNdt/TCNdt070.php</a></p>
+<p>  . ALEXANDRE DE RHODES &amp; VẤN ĐỀ CHỮ QUỐC NGỮ (Bùi Kha)&nbsp;<a href="/BUIKHA/BuiKha_Rhodes_0">https://sachhiem.net/BUIKHA/BuiKha_Rhodes_0.php</a>&nbsp;là  tập hợp một số các bài viết trước đây về Alexandre De Rhodes, mà phần lớn đã  đăng trên các diễn đàn, tạp chí hoặc sách vở.</p>
+<p>  . Giáo Sĩ  Đắc-Lộ &amp; Chữ Quốc Ngữ của Minh Vân (Trần Chung Ngọc)&nbsp;<a href="/TCN/TCNdt/TCNdt070">https://sachhiem.net/TCN/TCNdt/TCNdt070.php</a></p>
 <ul>
   <li>Như Thế Nào?</li>
     <p><a href="https://vietnamnet.vn/vn/giao-duc/media/chu-quoc-ngu-hinh-thanh-nhu-the-nao-414444.html">https://vietnamnet.vn/vn/giao-duc/media/chu-quoc-ngu-hinh-thanh-nhu-the-nao-414444.html</a></p>

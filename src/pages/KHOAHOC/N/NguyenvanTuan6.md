@@ -1,7 +1,7 @@
 ---
 layout: ../../../layouts/Article.astro
 title: "Bàn về nguồn gốc con người hiện đại (Nguyễn văn Tuấn)"
-source: "https://sachhiem.net/null"
+source: "/null"
 category: "Khoa học"
 lang: vi
 wordCount: 6135

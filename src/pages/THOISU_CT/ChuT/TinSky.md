@@ -2,7 +2,7 @@
 layout: ../../../layouts/Article.astro
 title: "Việt Nam Trở Thành Nước"
 author: "SkyNews"
-source: "https://sachhiem.net/null"
+source: "/null"
 category: "Chính trị"
 lang: vi
 wordCount: 478

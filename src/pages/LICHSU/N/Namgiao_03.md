@@ -3,7 +3,7 @@ layout: ../../../layouts/Article.astro
 title: "Lê Máy Chém Đi Khắp Miền Nam"
 author: "Blogger fddinh"
 date: 2015-10-20
-source: "https://sachhiem.net/LICHSU/N/Namgiao_03.php"
+source: "/LICHSU/N/Namgiao_03"
 category: "Chính trị"
 lang: vi
 wordCount: 5017
@@ -184,7 +184,7 @@ image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/LICHSU/IMG/NGODD/may
           <hr>
           <p><b>Thư độc giả liên hệ đến đề tài:</b></p>
           <p><i>- </i>"Hỏi GS Nguyễn Mạnh Quang về Máy chém dưới thời Diệm" 
-<a href="https://sachhiem.net/index.php?content=showemail&amp;id=2222">https://sachhiem.net/...</a> :
+<a href="/net/LICHSU/N/Namgiao_03">https://sachhiem.net/...</a> :
 </p>
   <p align="center"><b>Làm ơn cho cháu gửi câu hỏi này đến GS. Nguyễn  Mạnh Quang</b></p>
 <p>            Subject: Máy chém Ngô Đình Diệm<br>

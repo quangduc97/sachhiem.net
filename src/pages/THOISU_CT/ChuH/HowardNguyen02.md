@@ -3,7 +3,7 @@ layout: ../../../layouts/Article.astro
 title: "Nhân Đọc Bài “Người Việt Hải Ngoại Càng Vững Mạnh” Của Gs Phạm Cao Dương"
 author: "Howard Nguyễn"
 date: 2014-09-21
-source: "https://sachhiem.net/THOISU_CT/ChuH/HowardNguyen02.php"
+source: "/THOISU_CT/ChuH/HowardNguyen02"
 category: "Chính trị"
 lang: vi
 wordCount: 1314
@@ -12,7 +12,7 @@ image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/LICHSU/IMG/QTRUNG/Vu
 
 <p><span class="First">S</span>au khi nhóm Thiên chúa  giáo Bolsa của các ông Liên Thành, Lý tòng Bá, Dương đại Hải cho phổ biến quyển  sách bôi nhọ TT Thích trí Quang, cộng đồng Việt Nam hải ngoại trở nên rối beng  và phân hóa trầm trọng. Một số hội đoàn, đảng phái quốc gia ở Bắc và Nam Cali  đang tìm cách cứu vãn tình thế bằng cách kêu gọi sự hợp tác và đoàn kết. Giáo  sư Phạm cao Dương viết bài <a href="https://www.bbc.co.uk/vietnamese/forum/2014/09/140917_pham_cao_duong_y_kien.shtml">“<i>Người Việt hải ngoại 'càng vững mạnh'</i> “</a> có lẽ cũng  không ngoài mục đích trên. </p>
   <p>
-    Ông  Phạm Cao Dương là một trí thức Thiên chúa giáo cực đoan và là bình luận gia cho  đài SBTN của nhạc sĩ Trúc Hồ. SBTN là cơ quan ngôn luận không chính thức của  đảng Việt Tân do Hoàng Cơ Định (em Hoàng Cơ Minh) cầm đầu (??). GS Phạm cao  Dương ca tụng Trúc Hồ như một thiên tài âm nhạc, ngang hàng với Văn Cao và Lưu  Hữu Phước (sic)! Bài <i>“Đáp Lời Sông Núi”</i> của Trúc Hồ đã được GS Dương cho là hay hơn  bài <i>“Tiến Quân Ca” </i>(Văn Cao) và bài <i>“Tiếng Gọi Thanh Niên”</i> (Lưu hữu  Phước).  GS Dương còn đổ tội cho tướng Võ nguyên Giáp đã gây ra cuộc chiến  tranh Việt-Pháp (1945-1954). Người Pháp đến xâm lăng Việt Nam, ông Võ nguyên  Giáp cầm quân chống lại mà bị cho là kẻ gây chiến? (<a href="https://sachhiem.net/index.php?content=showrecipe&amp;id=5445">Xem bài phản biện của GS  Nguyễn mạnh Quang</a> ở Phụ Lục 1) </p>
+    Ông  Phạm Cao Dương là một trí thức Thiên chúa giáo cực đoan và là bình luận gia cho  đài SBTN của nhạc sĩ Trúc Hồ. SBTN là cơ quan ngôn luận không chính thức của  đảng Việt Tân do Hoàng Cơ Định (em Hoàng Cơ Minh) cầm đầu (??). GS Phạm cao  Dương ca tụng Trúc Hồ như một thiên tài âm nhạc, ngang hàng với Văn Cao và Lưu  Hữu Phước (sic)! Bài <i>“Đáp Lời Sông Núi”</i> của Trúc Hồ đã được GS Dương cho là hay hơn  bài <i>“Tiến Quân Ca” </i>(Văn Cao) và bài <i>“Tiếng Gọi Thanh Niên”</i> (Lưu hữu  Phước).  GS Dương còn đổ tội cho tướng Võ nguyên Giáp đã gây ra cuộc chiến  tranh Việt-Pháp (1945-1954). Người Pháp đến xâm lăng Việt Nam, ông Võ nguyên  Giáp cầm quân chống lại mà bị cho là kẻ gây chiến? (<a href="/NMQ/PCD/NMQ038">Xem bài phản biện của GS  Nguyễn mạnh Quang</a> ở Phụ Lục 1) </p>
   <p>Ngoài  GS Dương còn có rất nhiều trí thức hải ngoại sẵn sàng viết lại lịch sử nếu được  trả thù lao xứng đáng. Điển hình như ông Nguyễn Gia Kiểng gốc Bùi chu, với cuốn “Tổ Quốc Ăn Năn”, <b>dựa vào một tài liệu Trung Quốc</b>, cho rằng Bắc  Bình Vương Nguyễn Huệ thắng được quân Thanh vì lúc đó quân Thanh chỉ có năm  ngàn kỵ binh. Thay vì mấy chục vạn quân như sử Việt Nam đă ca tụng. </p>
   <p align="center"><img src="https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/LICHSU/IMG/QTRUNG/VuaQuangTrung.jpg" width="200" height="267"></p>
   <p>Người Thiên  Chúa Giáo không thích vua Quang Trung vì ông rất nặng tay với các ông da trắng  truyền đạo. </p>
@@ -29,7 +29,7 @@ image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/LICHSU/IMG/QTRUNG/Vu
  <p class="TacgiaL">Người sửa điện thoại </p>
    
    <p><b>Các bài liên quan:</b></p>
-   <p>Phụ Lục 1:<br><a href="https://sachhiem.net/index.php?content=showrecipe&amp;id=5445" target="_blank"> 
+   <p>Phụ Lục 1:<br><a href="/NMQ/PCD/NMQ038" target="_blank"> 
 https://sachhiem.net/index.php?content=showrecipe&amp;id=5445</a></p>
    <p>Phụ Lục 2: <br> <a href="https://www.diendan.org/nhung-con-nguoi/su-that-ve-cai-chet-cua-nhat-linh" target="_blank">https://www.diendan.org/nhung-con-nguoi/su-that-ve-cai-chet-cua-nhat-linh</a></p>
    <p>Phụ Lục 3: <br>  

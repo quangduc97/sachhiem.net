@@ -3,7 +3,7 @@ layout: ../../../layouts/Article.astro
 title: "Đảng Cộng Hòa Kiếm Phiếu Bằng Cách Chống Tiến Bộ !"
 author: "Mike Wilson"
 date: 2021-11-22
-source: "https://sachhiem.net/THOISU_CT/ChuM/MikeWilson_29.php"
+source: "/THOISU_CT/ChuM/MikeWilson_29"
 category: "Chính trị"
 lang: vi
 wordCount: 777

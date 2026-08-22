@@ -3,7 +3,7 @@ layout: ../../../layouts/Article.astro
 title: "“Lửa Thiêng Soi Toàn Thế Giới”"
 author: "Nam Giao"
 date: 2018-10-13
-source: "https://sachhiem.net/LICHSU/N/Namgiao_07.php"
+source: "/LICHSU/N/Namgiao_07"
 category: "Chính trị"
 lang: vi
 wordCount: 1216

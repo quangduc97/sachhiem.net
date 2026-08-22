@@ -2,7 +2,7 @@
 layout: ../../../layouts/Article.astro
 title: "Nhật Ký Biển Đông: Ba Tư - Chiếc Gân Gà của Tào Tháo"
 author: "Đào Văn Bình"
-source: "https://sachhiem.net/DAOVB/CT/DaovBinh96.php"
+source: "/DAOVB/CT/DaovBinh96"
 category: "Chính trị"
 lang: vi
 wordCount: 5855

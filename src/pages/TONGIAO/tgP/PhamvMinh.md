@@ -3,7 +3,7 @@ layout: ../../../layouts/Article.astro
 title: "Đạo Đức Phật Giáo Và Kỹ Thuật Tạo Sinh (Cloning)"
 author: "Quán Như Phạm Văn Minh"
 date: 2015-09-21
-source: "https://sachhiem.net/TONGIAO/tgP/PhamvMinh.php"
+source: "/TONGIAO/tgP/PhamvMinh"
 category: "Chính trị"
 lang: vi
 wordCount: 3713

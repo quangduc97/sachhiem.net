@@ -3,7 +3,7 @@ layout: ../../layouts/Article.astro
 title: "Tuyển Tập I: A. de Rhodes & chữ Quốc ngữ, Trương Vĩnh Ký, Trần Lục và Ngô Đình Diệm"
 author: "Bùi Kha"
 date: 2016-08-29
-source: "https://sachhiem.net/BUIKHA/BuiKha30.php"
+source: "/BUIKHA/BuiKha30"
 category: "Đối thoại"
 lang: vi
 wordCount: 395

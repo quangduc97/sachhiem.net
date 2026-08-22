@@ -3,7 +3,7 @@ layout: ../../../layouts/Article.astro
 title: "Đã Hội Đủ Các Điều Kiện Để Nhân Loại Gọi Là “Tà Đạo”"
 author: "Phạm Khai"
 date: 2013-08-12
-source: "https://sachhiem.net/TONGIAO/tgP/PhamKhai.php"
+source: "/TONGIAO/tgP/PhamKhai"
 category: "Tác giả"
 lang: vi
 wordCount: 1598

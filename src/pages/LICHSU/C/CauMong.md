@@ -3,7 +3,7 @@ layout: ../../../layouts/Article.astro
 title: "\"Quốc Gia Cờ Vàng\" có \"Giấy Khai Sanh\" hay không ?"
 author: "Cầu Móng"
 date: 2021-04-29
-source: "https://sachhiem.net/LICHSU/C/CauMong.php"
+source: "/LICHSU/C/CauMong"
 category: "Chính trị"
 lang: vi
 wordCount: 3769
@@ -94,5 +94,5 @@ Khí thiêng sông núi  địa linh nhiệm mầu ./.
 <p>* Giải Pháp Bảo Đại tiên khởi được viên khâm sứ đại diện Tòa Thánh Vatican tại Hà Nội là Tổng Giám Mục Antoni Drapier công khai tuyên bố vào ngày 28/12/1945:</p>
 <p>Gia đình Bảo Đại là “<i>gia đình thân Pháp bậc nhất trong dân chúng Việt Nam</i>," và theo ý ông ta, <i>"nên cho Bảo Đại lên ngôi như trước ngày 9/3/1945...</i>." Drapier cũng đưa ra giải pháp là có thể sau đó sẽ cho Bảo Long lên kế vi, và Nam Phương là Giám Quốc [Phụ Chính]</p>
 <p>(Xem Chân Dung "Người Việt Quốc Gia" Và Lá Cờ Vàng Ba Sọc Đỏ
-của tác giả Nguyễn Mạnh Quang: <a href="https://sachhiem.net/NMQ/ChanDungVNCH/QMN02a.php">GIẢI PHÁP BẢO ĐẠI</a>)</p>
+của tác giả Nguyễn Mạnh Quang: <a href="/NMQ/ChanDungVNCH/QMN02a">GIẢI PHÁP BẢO ĐẠI</a>)</p>
  <p class="nguonL">Nguồn https://www.facebook.com/noi.pham.5686322/posts/1113134262508598</p>

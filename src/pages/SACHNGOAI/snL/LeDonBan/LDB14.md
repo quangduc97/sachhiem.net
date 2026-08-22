@@ -3,7 +3,7 @@ layout: ../../../../layouts/Article.astro
 title: "Bertrand Russell - Tôn giáo có đóng góp hữu ích cho văn minh nhân loại không?"
 author: "Lê Dọn Bàn"
 date: 2017-10-16
-source: "https://sachhiem.net/SACHNGOAI/snL/LeDonBan/LDB14.php"
+source: "/SACHNGOAI/snL/LeDonBan/LDB14"
 category: "Tác giả"
 lang: vi
 wordCount: 19610

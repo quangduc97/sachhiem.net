@@ -2,11 +2,11 @@
 layout: ../../../layouts/Article.astro
 title: "Chương 4: CƠN ÁC MỘNG CỦA MỘT QUỐC GIA"
 author: "Người Dịch: Trần Chung Ngọc"
-source: "https://sachhiem.net/null"
+source: "/null"
 category: "Tác giả"
 lang: vi
 wordCount: 7109
-image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nha.jpg"
+image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/SACHNGOAI/Hinhanh/BIASACH/Manhattan-book.jpg"
 ---
 
 <div align="center" style="position:  relative; left:  0; top:  0">
@@ -27,8 +27,7 @@ image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nha.jpg"
 
 <div style="padding-left:  50px; padding-right:  50px"> 
 	<table border="0" cellpadding="1" width="86%" cols="2" height="39"><tbody><tr>
-	<td><a href="/index">
-	<img border="0" src="https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nha.jpg"></a></td>
+	<td></td>
 <td valign="top" width="210"><p>19 tháng 6, 2010</p></td></tr></tbody></table>
 		<div style="border-top: 1px solid #949494; border-bottom: 1px solid #949494; padding-left: 20px; background-color: #F0F0F0">
 		<p><b>Lời Nói Đầu: </b></p>
@@ -61,7 +60,7 @@ image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nha.jpg"
 		trong suốt giòng lịch sử của Ca-tô Rô-Ma Giáo. Tàn bạo dã man vì 
 		đã sáng chế ra những hình cụ khủng khiếp nhất để tra tấn những người lạc 
 		đạo hay dị giáo [Xin đọc
-		<a style="color: blue; text-decoration: underline; text-underline: single" href="https://www.sachhiem.net/TCN/TCNtg/CGchinhsu/CGCS3.php">
+		<a style="color: blue; text-decoration: underline; text-underline: single" href="/TCN/TCNtg/CGchinhsu/CGCS3">
 		https://www.sachhiem.net/TCN/TCNtg/CGchinhsu/CGCS3.php</a>] khoan kể đến 
 		các vụ tra tấn và thiêu sống phù thủy. Có người biện hộ rằng lịch 
 		sử dã man tàn bạo của Giáo hội Ca-tô Rô-ma đã là chuyện xa xưa rồi, từ 

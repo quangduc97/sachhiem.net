@@ -3,7 +3,7 @@ layout: ../../../layouts/Article.astro
 title: "Vài điều chia sẻ với Ms Nguyễn Quang Minh"
 author: "Trần Quang Diệu"
 date: 2014-04-14
-source: "https://sachhiem.net/LICHSU/TR/TQD_DT39.php"
+source: "/LICHSU/TR/TQD_DT39"
 category: "Đối thoại"
 lang: vi
 wordCount: 4552
@@ -57,7 +57,7 @@ image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/TONGIAO/IMG/MUCSU/MS
 <p>
   Ms Nguyễn Quang Minh dùng  sở trường “thần học” ngụy biện về việc Jesus phải bị lũ Đế quốc La mã xử tử  bằng cách đóng đinh trên cây Thập Ác để cho có máu chảy thì Ngài Jesus mới làm  được chuyện “cứu sống nhân loại” thì chẳng lẽ lúc bấy giờ chúng giết Ngài bằng  cách (ngoài lý do chặt đứt yết hầu hay treo cổ như ông Charlie Nguyễn thắc mắc)  dùng trường thương, gươm giáo đâm vô bụng hoặc lấy búa đập vào đầu thì không có  máu chảy hay sao? </p>
 <p>
-  Cần có máu chảy để mới có  <i>“huyền bí rất khoa học”, “cứu sống được nhân loại” </i>thì lý do tại sao trước đây  tại Hoa Kỳ có “hội thánh” Tin Lành nào đó lại làm chuyện giết người bằng cách  ngăn chận sự tiếp máu rất khoa học của bác sĩ tại bệnh viện để cho cô <a href="https://sachhiem.net/index.php?content=showrecipe&amp;id=5600">Phạm Thị  Bích Phượng (con của Trung Tá VNCH Phạm Hữu Tấn) phải bị chết oan</a>? Cái đó, với  câu mà Ms Nguyễn Quang Minh muốn hỏi là<i>“Đức Tin hay Mê Tín</i>” thì tôi có  thể chia sẻ kiến thức bằng sở quyền của mình là: </p>
+  Cần có máu chảy để mới có  <i>“huyền bí rất khoa học”, “cứu sống được nhân loại” </i>thì lý do tại sao trước đây  tại Hoa Kỳ có “hội thánh” Tin Lành nào đó lại làm chuyện giết người bằng cách  ngăn chận sự tiếp máu rất khoa học của bác sĩ tại bệnh viện để cho cô <a href="/LICHSU/TR/TQD23">Phạm Thị  Bích Phượng (con của Trung Tá VNCH Phạm Hữu Tấn) phải bị chết oan</a>? Cái đó, với  câu mà Ms Nguyễn Quang Minh muốn hỏi là<i>“Đức Tin hay Mê Tín</i>” thì tôi có  thể chia sẻ kiến thức bằng sở quyền của mình là: </p>
 <p>- Vâng, nó là “đức tin” của  chồng cô Phạm Thị Bích Phượng do “hội thánh” hướng dẫn. Tại đấy, thưa Ms NQM,  nó không những mê tín mà còn là cuồng tín nữa kìa! Cộng đồng người Việt khắp  nơi, phụ thân của cô Phượng hồi đó đã bất bình lẫn lên án về việc tôn giáo –  “hội thánh” Tin Lành - không chịu phối hợp với khoa học để cho con của người ta  bị chết oan! </p>
 <p>
   Chúa Jesus chảy máu trên  cây Thập Ác thì mới <i>“cứu được nhân loại”,</i> mới <i>“huyền bí khoa học”</i>? </p>
@@ -82,7 +82,7 @@ image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/TONGIAO/IMG/MUCSU/MS
 <p>_________</p>
 <p><b>Bài đọc thêm:</b></p>
 <p><i>- Tin Lành hay Tin Dữ? </i> 
-  <a href="https://sachhiem.net/TCN/TCNtg/TCN132.php" target="_blank">https://sachhiem.net/TCN/TCNtg/TCN132.php</a></p>
+  <a href="/TCN/TCNtg/TCN132" target="_blank">https://sachhiem.net/TCN/TCNtg/TCN132.php</a></p>
   <hr>
   
 <p>From: NGUYENQUANGMINH1@aol.com<br>
@@ -115,7 +115,7 @@ Date: Wed, 3 Sep 2014 04:45:02 -0400<br>
 <p>Chúa jesus chỉ mỗi việc chống lại ách cai  trị của đế quốc La Mã lên dân tộc Do Thái của Ngài , nhưng rồi đã thất  bại, bị bọn chúng bắt và hành hình Ngài trên cây Thập Ác (**) cách dã man  thì làm sao Ngài Jesus có đủ phong độ "cứu" được  gì cho cả thế gian ("cứu thế")<b>?</b></p>
 <p>Xin kính chào MS Nguyễn Quang Minh </p>
 ______________
-  <p>(**) Ông cựu Chủng sinh "<a href="https://sachhiem.net/CHARLIE/CN_TCCG/Thanhkinh.php">Giáo hoàng Chủng  viện Bùi Chu - Phát Diệm Charlie Nguyễn Bùi Văn Chấn</a>" chất vấn rằng nếu chỉ  vì Đế quốc La Mã lúc xưa xử tử hình Chúa Jesus trên cây Thập Ác  (dụng cụ gia hình của Đế quốc La mã bày ra để giết những sắc dân  nào khác mà dám chống lại chúng) cho nên ngày nay "<i>các con cái  Chúa</i>" tôn nó lên thành "Thánh Giá"? </p>
+  <p>(**) Ông cựu Chủng sinh "<a href="/CHARLIE/CN_TCCG/Thanhkinh">Giáo hoàng Chủng  viện Bùi Chu - Phát Diệm Charlie Nguyễn Bùi Văn Chấn</a>" chất vấn rằng nếu chỉ  vì Đế quốc La Mã lúc xưa xử tử hình Chúa Jesus trên cây Thập Ác  (dụng cụ gia hình của Đế quốc La mã bày ra để giết những sắc dân  nào khác mà dám chống lại chúng) cho nên ngày nay "<i>các con cái  Chúa</i>" tôn nó lên thành "Thánh Giá"? </p>
   <p>- Vậy thì, " nếu hồi đó bọn La Mã hành hình  Ngài bằng cách chém đầu hay treo cổ thì chẳng lẽ ngày nay ta phải gọi là  thánh mã tấu hoặc thánh thòng lọng " hay sao? </p>
 <p class="TacgiaL">Trần  Quang Diệu </p>
 </div>

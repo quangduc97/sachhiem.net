@@ -3,7 +3,7 @@ layout: ../../../layouts/Article.astro
 title: "Một Số Vấn Đề Liên Quan Đến Phản Bác Quan Điểm Phản Động Sai Trái Về Tôn Giáo"
 author: "CLB Chính Khách"
 date: 2020-08-17
-source: "https://sachhiem.net/TONGIAO/FB/FBCLB_ChinhKhach.php"
+source: "/TONGIAO/FB/FBCLB_ChinhKhach"
 category: "Chính trị"
 lang: vi
 wordCount: 801

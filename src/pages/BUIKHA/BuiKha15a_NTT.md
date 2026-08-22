@@ -2,7 +2,7 @@
 layout: ../../layouts/Article.astro
 title: "Nguyễn Trường Tộ:"
 author: "Phan Văn Vương"
-source: "https://sachhiem.net/BUIKHA/BuiKha15a_NTT.php"
+source: "/BUIKHA/BuiKha15a_NTT"
 category: "Lịch sử"
 lang: vi
 wordCount: 8265

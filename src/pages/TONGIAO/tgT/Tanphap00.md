@@ -2,11 +2,11 @@
 layout: ../../../layouts/Article.astro
 title: "Mẹ Teresa"
 author: "Tân Pháp sưu tầm"
-source: "https://sachhiem.net/(The Missionary Position: Mother Teresa in Theory and in Practice)"
+source: "/(The Missionary Position: Mother Teresa in Theory and in Practice)"
 category: "Tác giả"
 lang: vi
 wordCount: 10469
-image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nha.jpg"
+image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/IMG/Meteresa1.gif"
 ---
 
 <div align="center" style="position: relative; left: 0; top: 0">
@@ -25,8 +25,7 @@ image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nha.jpg"
 
 <div style="padding-left: 50px; padding-right: 50px">
 <table border="0" cellpadding="10" width="86%" cols="2"><tbody><tr>
-<td valign="top" width="198"><a href="/index">
-<img border="0" src="https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nha.jpg"></a></td>
+<td valign="top" width="198"></td>
 <td valign="top" style="text-align:right">	đăng ngày 28<span lang="en-us">
 </span>tháng 8, 2007
 </td></tr></tbody></table>

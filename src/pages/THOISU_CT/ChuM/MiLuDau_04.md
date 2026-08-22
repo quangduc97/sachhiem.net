@@ -3,7 +3,7 @@ layout: ../../../layouts/Article.astro
 title: "Sao Trời Sinh Obama Lại Còn Sinh Putin?"
 author: "Mi-Lu Dau"
 date: 2016-11-06
-source: "https://sachhiem.net/THOISU_CT/ChuM/MiLuDau_04.php"
+source: "/THOISU_CT/ChuM/MiLuDau_04"
 category: "Chính trị"
 lang: vi
 wordCount: 1858

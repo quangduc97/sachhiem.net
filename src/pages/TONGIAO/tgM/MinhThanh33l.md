@@ -3,7 +3,7 @@ layout: ../../../layouts/Article.astro
 title: "[VATICANOLOGY] - Chính Quyền Vatican Tại Việt Nam Đã Được Cấp Đất Đai Mênh Mông?"
 author: "Minh Thạnh"
 date: 2024-03-14
-source: "https://sachhiem.net/TONGIAO/tgM/MinhThanh33l.php"
+source: "/TONGIAO/tgM/MinhThanh33l"
 category: "Tác giả"
 lang: vi
 wordCount: 2484

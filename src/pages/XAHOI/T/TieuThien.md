@@ -3,7 +3,7 @@ layout: ../../../layouts/Article.astro
 title: "Nữ giám đốc mất việc chỉ bởi một câu nói của “ông lão quét rác”"
 author: "Tiểu Thiện, dịch từ Cmoney.tw"
 date: 2016-10-26
-source: "https://sachhiem.net/XAHOI/T/TieuThien.php"
+source: "/XAHOI/T/TieuThien"
 category: "Chính trị"
 lang: vi
 wordCount: 586

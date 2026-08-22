@@ -3,7 +3,7 @@ layout: ../../../layouts/Article.astro
 title: "Tương Lai Của Kitô Giáo Ở Trung Quốc: Nền Thần Học Trung Hoa Và Giáo Hoàng"
 author: "Zoe Li/ CNN"
 date: 2014-08-20
-source: "https://sachhiem.net/TONGIAO/tgH/HaiAu.php"
+source: "/TONGIAO/tgH/HaiAu"
 category: "Chính trị"
 lang: vi
 wordCount: 1481

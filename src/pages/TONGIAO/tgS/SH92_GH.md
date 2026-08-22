@@ -3,14 +3,14 @@ layout: ../../../layouts/Article.astro
 title: "4 Giáo hoàng Công giáo La Mã tử vong khi quan hệ tình dục"
 author: "SH sưu tầm"
 date: 2022-02-16
-source: "https://sachhiem.net/TONGIAO/tgS/SH92_GH.php"
+source: "/TONGIAO/tgS/SH92_GH"
 category: "Chính trị"
 lang: vi
 wordCount: 724
 image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/TONGIAO/IMG/VATICAN/POPE/JohnVII_955-64.png"
 ---
 
-<p> Sử gia Matthew Bunson nêu đích danh 15 giáo hoàng bị sát hại vì tranh giành trong nội bộ giáo triều, hoặc bị tín đồ nạn nhân phẫn nộ giết chết để trả thù vì vợ hay người yêu mình bị giáo hoàng cưỡng đoạt. Danh sách này được kể trong trang 29, sách The Pope Encyclopedia. Xin xem ở phần cuối bài <a href="https://sachhiem.net/NMQ/NMQ71.php">"<i>Tại Sao Không Có Một Người Nào Dám Nhận Đã Giết Ông Ngô Đình Diệm</i>" của Nguyễn Mạnh Quang </a>(được chép lại ở Phụ Bản dưới đây). Riêng trong bài dưới đây, 4 giáo hoàng khác được liệt kê như là chết trong lúc hành dâm, do trang https://talkafricana.com ghi. Xin được ghi lại sơ lược cho bạn đọc.</p>
+<p> Sử gia Matthew Bunson nêu đích danh 15 giáo hoàng bị sát hại vì tranh giành trong nội bộ giáo triều, hoặc bị tín đồ nạn nhân phẫn nộ giết chết để trả thù vì vợ hay người yêu mình bị giáo hoàng cưỡng đoạt. Danh sách này được kể trong trang 29, sách The Pope Encyclopedia. Xin xem ở phần cuối bài <a href="/NMQ/NMQ71">"<i>Tại Sao Không Có Một Người Nào Dám Nhận Đã Giết Ông Ngô Đình Diệm</i>" của Nguyễn Mạnh Quang </a>(được chép lại ở Phụ Bản dưới đây). Riêng trong bài dưới đây, 4 giáo hoàng khác được liệt kê như là chết trong lúc hành dâm, do trang https://talkafricana.com ghi. Xin được ghi lại sơ lược cho bạn đọc.</p>
  <p class="TuaDenLeft">1. Giáo Hoàng John VII (705-707)</p>
 <p><img src="https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/TONGIAO/IMG/VATICAN/POPE/JohnVII_955-64.png" width="256" height="350" alt=""></p>
 <p>John VII qua đời vào ngày  18 tháng 10 năm 707 và được chôn cất trong Nhà nguyện của Đức Trinh Nữ Maria,  nơi đã được thêm vào nhà thờ St. Peter.</p>

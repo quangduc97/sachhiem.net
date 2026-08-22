@@ -3,7 +3,7 @@ layout: ../../../layouts/Article.astro
 title: "Hòa Bình Cho Việt Nam - Hòa Bình Cho Biển Đông"
 author: "Youtube.com"
 date: 2014-07-13
-source: "https://sachhiem.net/THOISU_CT/SH/Vclip_chongTQ_Viena_Ao.php"
+source: "/THOISU_CT/SH/Vclip_chongTQ_Viena_Ao"
 category: "Tác giả"
 lang: vi
 wordCount: 407
@@ -46,4 +46,4 @@ image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/THOISU_CT/Hinh/Quanh
 <p><b>Cùng đề tài:</b></p>
 <p>- Dậy Mà Đi Hỡi Đồng Bào Ơi -
 Biểu tình chống Trung Quốc của người Việt
-<a href="https://sachhiem.net/THOISU_CT/SH/Vclip_chongTQ_Berlin.php">https://sachhiem.net/THOISU_CT/SH/Vclip_chongTQ_Berlin.php</a> </p>
+<a href="/THOISU_CT/SH/Vclip_chongTQ_Berlin">https://sachhiem.net/THOISU_CT/SH/Vclip_chongTQ_Berlin.php</a> </p>

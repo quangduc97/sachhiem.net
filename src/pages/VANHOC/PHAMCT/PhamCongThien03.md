@@ -6,7 +6,6 @@ source: "https://www.talawas.org/talaDB/showFile.php?res=10033&amp;rb=08"
 category: "Văn hóa"
 lang: vi
 wordCount: 9858
-image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nha.jpg"
 ---
 
 <div align="center" style="position: relative; left: 0; top: 0">
@@ -35,8 +34,7 @@ image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nha.jpg"
 <div style="padding-left: 50px; padding-right: 50px">
 <table border="0" width="600">
 	<tbody><tr>
-		<td><a href="/index">
-		<img border="0" src="https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nha.jpg"></a></td>
+		<td></td>
 		<td valign="top" width="140">29 tháng 3, 2011	</td>
 	</tr>
 </tbody></table>

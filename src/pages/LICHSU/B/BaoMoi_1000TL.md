@@ -1,7 +1,7 @@
 ---
 layout: ../../../layouts/Article.astro
 title: "VnExpress - Người dân hò reo cổ vũ đoàn diễu binh - Nguoi dan ho reo co vu doan dieu binh"
-source: "https://sachhiem.net/null"
+source: "/null"
 lang: vi
 wordCount: 1540
 image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/V/VnX/Logo.gif"

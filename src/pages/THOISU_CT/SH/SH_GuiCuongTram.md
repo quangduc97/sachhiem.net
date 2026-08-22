@@ -3,7 +3,7 @@ layout: ../../../layouts/Article.astro
 title: "Gửi người VN biểu tình phò Trump?"
 author: "Minh Phượng"
 date: 2021-01-12
-source: "https://sachhiem.net/THOISU_CT/SH/SH_GuiCuongTram.php"
+source: "/THOISU_CT/SH/SH_GuiCuongTram"
 category: "Chính trị"
 lang: vi
 wordCount: 1677
@@ -71,7 +71,7 @@ image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/THOISU_CT/Hinh/HOAKY
  <p>Georgia, Maryland, Texas...</p>
  <p>_________</p>
  <p><b>Đọc thêm:</b></p>
- <p>- <a href="https://sachhiem.net/THOISU_CT/SH/SH_USelecRatif_2020.php">Chuyện Gì Xảy Ra Ở Tòa Nhà Quốc Hội Ngày 06-01-2021?</a></p>
+ <p>- <a href="/THOISU_CT/SH/SH_USelecRatif_2020">Chuyện Gì Xảy Ra Ở Tòa Nhà Quốc Hội Ngày 06-01-2021?</a></p>
  <p>-<a href="https://vnexpress.net/hon-mot-thang-trump-no-luc-lat-nguoc-ket-qua-bau-cu-4209859.html"> Hơn một tháng Trump nỗ lực lật ngược kết quả bầu cử</a>	</p>
  <a href="/indexCT">
  <p class="trang">Trang Thời Sự</p>

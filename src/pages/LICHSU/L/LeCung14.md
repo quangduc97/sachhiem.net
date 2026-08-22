@@ -3,7 +3,7 @@ layout: ../../../layouts/Article.astro
 title: "Bàn Thêm Về Sự Nghiệp Phật Hoàng Trần Nhân Tông"
 author: "GS Lê Cung"
 date: 2021-07-06
-source: "https://sachhiem.net/LICHSU/L/LeCung14.php"
+source: "/LICHSU/L/LeCung14"
 category: "Chính trị"
 lang: vi
 wordCount: 8657

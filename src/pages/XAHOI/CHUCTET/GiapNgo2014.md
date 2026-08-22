@@ -3,7 +3,7 @@ layout: ../../../layouts/Article.astro
 title: "Chúc Xuân Giáp Ngọ"
 author: "Tờ sachhiem.net"
 date: 2014-01-27
-source: "https://sachhiem.net/XAHOI/CHUCTET/GiapNgo2014.php"
+source: "/XAHOI/CHUCTET/GiapNgo2014"
 category: "Xã hội"
 lang: vi
 wordCount: 146

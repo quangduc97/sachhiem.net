@@ -3,7 +3,7 @@ layout: ../../../layouts/Article.astro
 title: "Đưa Người Cửa Trước, Rước Người Cửa Sau"
 author: "Làng Lưới"
 date: 2013-10-26
-source: "https://sachhiem.net/THOISU_CT/ChuD/DinhNguyen.php"
+source: "/THOISU_CT/ChuD/DinhNguyen"
 category: "Tác giả"
 lang: vi
 wordCount: 4508
@@ -44,7 +44,7 @@ image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/SACHNGOAI/Hinhanh/BI
      <p align="center"><img src="https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/TONGIAO/IMG/GIAOVGIAN_XUA/CGvathucdan.jpg" width="338" height="191"></p>
      <p align="center"><img src="https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/TONGIAO/IMG/GIAOVGIAN_XUA/BaocaotinchoPhap.jpg" width="268" height="234"></p>
      <p align="center"><i>Dân Thiên Chúa Giáo từ Cha cố đến các Soeurs đều tích cực báo cáo cho Tây</i></p>
-     <p> Đến đời thân phụ NĐD là Ngô Đình Khả thì lại còn ghê gớm hơn nữa. &nbsp;Sách tài liệu Soi Sáng Sự Thật ghi lại việc làm của ông Ngô Đình Khả như sau: "<i>Ngô Đình Khả được Triều Nguyễn thời Pháp trọng dụng là nhờ công lao giúp&nbsp;Nguyễn Thân&nbsp;tiêu diệt lực lượng chống Pháp của nhà ái quốc&nbsp;PHAN ĐÌNH PHÙNG, và đặc biệt là Ngô Đình Khả đã đào mả Cụ PHAN, lấy xác cụ đốt thành tro , lấy tro nhồi vào thuốc súng để bắn cho tiêu tan hài cốt cụ PHAN. &nbsp;Quả thật là một tên đại thần, đại gian đại ác</i>"(Nguyễn Mạnh Quang/<a href="https://sachhiem.net/NMQ/HOSOTOIAC/CH63_1a.php">Ngô Đình Diệm: Con Người và Tội Ác</a>)</p>
+     <p> Đến đời thân phụ NĐD là Ngô Đình Khả thì lại còn ghê gớm hơn nữa. &nbsp;Sách tài liệu Soi Sáng Sự Thật ghi lại việc làm của ông Ngô Đình Khả như sau: "<i>Ngô Đình Khả được Triều Nguyễn thời Pháp trọng dụng là nhờ công lao giúp&nbsp;Nguyễn Thân&nbsp;tiêu diệt lực lượng chống Pháp của nhà ái quốc&nbsp;PHAN ĐÌNH PHÙNG, và đặc biệt là Ngô Đình Khả đã đào mả Cụ PHAN, lấy xác cụ đốt thành tro , lấy tro nhồi vào thuốc súng để bắn cho tiêu tan hài cốt cụ PHAN. &nbsp;Quả thật là một tên đại thần, đại gian đại ác</i>"(Nguyễn Mạnh Quang/<a href="/NMQ/HOSOTOIAC/CH63_1a">Ngô Đình Diệm: Con Người và Tội Ác</a>)</p>
      <p> <span class="green">4. </span> <b>Đoàn thể  cộng đồng, quý vị VIP nên đứng ngoài </b></p>
      <p>Xuất thân từ một gia đình ĐẠI VIỆT GIAN như thế, cộng với 9 năm cầm quyền tàn ác dựa trên gia đình trị, Cần Lao TCG trị...NĐD không thể nào trở thành "Chí Sĩ Yêu Nước" của dân tộc VN được. &nbsp;Không một "Chí Sĩ Yêu Nước", yêu dân tộc nào lại loại bỏ Ngày Quốc Tổ Hùng Vương như "chí sĩ" NĐD đã làm!</p>
      <p> Tôi không định viết về ông NĐD nhân ngày giỗ của ông ta. &nbsp;Nhưng sau khi đọc bài của ông Trần Văn, tôi ghi vội vài nhận xét, hay nói đúng hơn tôi trích dẫn vài nhận xét của "thiên hạ". &nbsp;Những nhận xét nầy cần được phản biện.</p>

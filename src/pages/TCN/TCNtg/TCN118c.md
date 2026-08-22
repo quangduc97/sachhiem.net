@@ -3,44 +3,43 @@ layout: ../../../layouts/Article.astro
 title: "Con Chiên Nổi Loạn Bỏ “Đức Vâng Lời”"
 author: "Trần Chung Ngọc"
 date: 2011-12-28
-source: "https://sachhiem.net/null"
+source: "/null"
 category: "Tác giả"
 lang: vi
 wordCount: 8942
-image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nha.jpg"
 ---
 
 <table border="0" align="center" cellpadding="1">
-      <tbody><tr><td width="92"><a href="/index"><img border="0" src="https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nha.jpg"></a></td>
+      <tbody><tr><td width="92"></td>
         <td valign="top" width="189"></td>
         </tr></tbody></table>
-        <p><a href="https://sachhiem.net/TCN/TCNtg/TCN118.php"> 1 </a> <a href="https://sachhiem.net/TCN/TCNtg/TCN118a.php">2 </a><a href="https://sachhiem.net/TCN/TCNtg/TCN118b.php">3 </a><b><a href="https://sachhiem.net/TCN/TCNtg/TCN118c.php">4</a>&nbsp;</b> </p>
+        <p><a href="/TCN/TCNtg/TCN118"> 1 </a> <a href="/TCN/TCNtg/TCN118a">2 </a><a href="/TCN/TCNtg/TCN118b">3 </a><b><a href="/TCN/TCNtg/TCN118c">4</a>&nbsp;</b> </p>
           <div class="danbai">
      <p><br>
- ►<a href="https://sachhiem.net/TCN/TCNtg/TCN118.php">Vài Lời Nói Đầu</a><br> 
-&nbsp; &nbsp; &nbsp; ►  <a href="https://sachhiem.net/TCN/TCNtg/TCN118.php#hiemhoa">Tại sao Công giáo lại bị coi như một hiểm họa cho mỗi quốc gia?</a><br>
-►<a href="https://sachhiem.net/TCN/TCNtg/TCN118a.php">Con Chiên Nổi Loạn Chống Chủ Chăn</a><br>
-&nbsp; &nbsp; &nbsp;  ►<a href="https://sachhiem.net/TCN/TCNtg/TCN118a.php#baigiang" target="_top"> Bài Giảng Gây Sóng Gió
+ ►<a href="/TCN/TCNtg/TCN118">Vài Lời Nói Đầu</a><br> 
+&nbsp; &nbsp; &nbsp; ►  <a href="/TCN/TCNtg/TCN118#hiemhoa">Tại sao Công giáo lại bị coi như một hiểm họa cho mỗi quốc gia?</a><br>
+►<a href="/TCN/TCNtg/TCN118a">Con Chiên Nổi Loạn Chống Chủ Chăn</a><br>
+&nbsp; &nbsp; &nbsp;  ►<a href="/TCN/TCNtg/TCN118a#baigiang" target="_top"> Bài Giảng Gây Sóng Gió
 Của GM Nguyễn Văn Khảm</a><br>
-       ►<a href="https://sachhiem.net/TCN/TCNtg/TCN118a.php#canhchungluan">Cánh Chung Luận và Thuyết Thế Mạt</a><br>
-&nbsp; &nbsp; &nbsp; ►<a href="https://sachhiem.net/TCN/TCNtg/TCN118a.php#Matthew">Người Công Giáo Hiểu Sao Về
+       ►<a href="/TCN/TCNtg/TCN118a#canhchungluan">Cánh Chung Luận và Thuyết Thế Mạt</a><br>
+&nbsp; &nbsp; &nbsp; ►<a href="/TCN/TCNtg/TCN118a#Matthew">Người Công Giáo Hiểu Sao Về
 Matthew 25: 31-46?</a><br>
- ►<a href="https://sachhiem.net/TCN/TCNtg/TCN118a.php#Chuachon">Làm lành
+ ►<a href="/TCN/TCNtg/TCN118a#Chuachon">Làm lành
 lánh dử có được Chúa chọn không? </a><br>
-&nbsp; &nbsp; &nbsp;  ►<a href="https://sachhiem.net/TCN/TCNtg/TCN118a.php#ConnguoiGiesu"> Con người
+&nbsp; &nbsp; &nbsp;  ►<a href="/TCN/TCNtg/TCN118a#ConnguoiGiesu"> Con người
 bất nhân của Giê-su trong Tân ước</a><br>
- ►<a href="https://sachhiem.net/TCN/TCNtg/TCN118a.php#Ynghia"> Ý Nghĩa Thực Của Matthew
+ ►<a href="/TCN/TCNtg/TCN118a#Ynghia"> Ý Nghĩa Thực Của Matthew
 25: 31-46</a><br>
-&nbsp; &nbsp; &nbsp;  ►<a href="https://sachhiem.net/TCN/TCNtg/TCN118b.php#hocthuat">Học thuật Ca-Tô</a><br>
-      ► <a href="https://sachhiem.net/TCN/TCNtg/TCN118b.php#Cacbaclanhdao">Các Bậc Lãnh Đạo Ki Tô Giáo Nhận Định Sao
+&nbsp; &nbsp; &nbsp;  ►<a href="/TCN/TCNtg/TCN118b#hocthuat">Học thuật Ca-Tô</a><br>
+      ► <a href="/TCN/TCNtg/TCN118b#Cacbaclanhdao">Các Bậc Lãnh Đạo Ki Tô Giáo Nhận Định Sao
       Về Ngày “Cánh Chung” Của Ki Tô Giáo?</a><br>
-&nbsp; &nbsp; &nbsp; ►<a href="https://sachhiem.net/TCN/TCNtg/TCN118b.php#Giesucotucach">Giê-su
+&nbsp; &nbsp; &nbsp; ►<a href="/TCN/TCNtg/TCN118b#Giesucotucach">Giê-su
 Có Đủ Tư Cách Để Phán Xét Nhân Loại Không?</a><br>
-  ► <a href="https://sachhiem.net/TCN/TCNtg/TCN118c.php#dienbien">Vài Diễn Biến Trong Nội Bộ Công Giáo</a><br>
+  ► <a href="/TCN/TCNtg/TCN118c#dienbien">Vài Diễn Biến Trong Nội Bộ Công Giáo</a><br>
 
-&nbsp; &nbsp; &nbsp;  ►<a href="https://sachhiem.net/TCN/TCNtg/TCN118c.php#nhandinh"> Nhận Định Về Những Luận Điệu Chống Giám Mục
+&nbsp; &nbsp; &nbsp;  ►<a href="/TCN/TCNtg/TCN118c#nhandinh"> Nhận Định Về Những Luận Điệu Chống Giám Mục
       Nguyễn Văn Khảm</a><br>
-  ►<a href="https://sachhiem.net/TCN/TCNtg/TCN118c.php#loiket">Vài Lời Kết.</a></p>
+  ►<a href="/TCN/TCNtg/TCN118c#loiket">Vài Lời Kết.</a></p>
    </div>
         <p> (tiếp theo) </p>
         <p class="MUC"><strong><u><a name="dienbien" id="dienbien"></a>Vài Diễn Biến Trong Nội Bộ Công Giáo</u></strong></p>

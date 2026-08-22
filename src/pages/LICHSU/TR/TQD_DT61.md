@@ -3,7 +3,7 @@ layout: ../../../layouts/Article.astro
 title: "Chính phủ Diệm đã \"yêu cầu Mỹ đổ quân sớm\" chứ không phải \"Diệm không cho Mỹ đổ quân sang Việt Nam\""
 author: "Trần Quang Diệu"
 date: 2019-10-01
-source: "https://sachhiem.net/LICHSU/TR/TQD_DT61.php"
+source: "/LICHSU/TR/TQD_DT61"
 category: "Đối thoại"
 lang: vi
 wordCount: 1466

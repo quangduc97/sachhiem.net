@@ -3,7 +3,7 @@ layout: ../../../layouts/Article.astro
 title: "Giải Mã Sự Im Lặng Của Đại Sư Trí Quang Sau Năm 1975"
 author: "Thích Nhật Từ"
 date: 2019-12-02
-source: "https://sachhiem.net/TONGIAO/tgTH/ThichNhatTu04.php"
+source: "/TONGIAO/tgTH/ThichNhatTu04"
 category: "Chính trị"
 lang: vi
 wordCount: 4243

@@ -3,7 +3,7 @@ layout: ../../../layouts/Article.astro
 title: "Phúc trình A/5630 - Báo cáo của Phái đoàn Điều tra Liên Hiệp Quốc tại Nam Việt Nam"
 author: "Nguyễn Minh Tiến"
 date: 2017-10-30
-source: "https://sachhiem.net/SACHNGOAI/snN/NguyenMinhTien02.php"
+source: "/SACHNGOAI/snN/NguyenMinhTien02"
 lang: vi
 wordCount: 6022
 ---
@@ -11,12 +11,12 @@ wordCount: 6022
 <p class="Tuaduoi">(REPORT OF THE UNITED NATION FACT-FINDING MISSION TO SOUTH VIET-NAM)</p>
   
     
-  <p>  ●     <a href="https://sachhiem.net/SACHNGOAI/snN/NguyenMinhTien.php#loi-dan" target="_blank" name="LD" shape="rect">Lời Dẫn</a><br>
-  ●     <a href="https://sachhiem.net/SACHNGOAI/snN/NguyenMinhTien.php#i-thong-tin-so-luoc" target="_blank" name="I" shape="rect">I. Thông Tin Sơ Lược</a><br>
-  ●     <a href="https://sachhiem.net/SACHNGOAI/snN/NguyenMinhTien.php#ii-tien-trinh-dieu-tra" target="_blank" name="II" shape="rect">II. Tiến Trình Điều Tra </a><br>
-  ●     <a href="https://sachhiem.net/SACHNGOAI/snN/NguyenMinhTien01.php#iii-ket-qua-dieu-tra" target="_blank" name="III" shape="rect">III. Kết Quả Điều Tra</a><br>
-  ●     <a href="https://sachhiem.net/SACHNGOAI/snN/NguyenMinhTien02.php#iv-vai-su-that-lich-su" target="_blank" name="IV" shape="rect"> IV. Vài Sự Thật Lịch Sử </a><br>
-  ●     <a href="https://sachhiem.net/SACHNGOAI/snN/NguyenMinhTien02.php#v-mot-vai-nhan-dinh" target="_blank" name="V" shape="rect">V. Một Vài Nhận Định</a></p>
+  <p>  ●     <a href="/SACHNGOAI/snN/NguyenMinhTien#loi-dan" target="_blank" name="LD" shape="rect">Lời Dẫn</a><br>
+  ●     <a href="/SACHNGOAI/snN/NguyenMinhTien#i-thong-tin-so-luoc" target="_blank" name="I" shape="rect">I. Thông Tin Sơ Lược</a><br>
+  ●     <a href="/SACHNGOAI/snN/NguyenMinhTien#ii-tien-trinh-dieu-tra" target="_blank" name="II" shape="rect">II. Tiến Trình Điều Tra </a><br>
+  ●     <a href="/SACHNGOAI/snN/NguyenMinhTien01#iii-ket-qua-dieu-tra" target="_blank" name="III" shape="rect">III. Kết Quả Điều Tra</a><br>
+  ●     <a href="/SACHNGOAI/snN/NguyenMinhTien02#iv-vai-su-that-lich-su" target="_blank" name="IV" shape="rect"> IV. Vài Sự Thật Lịch Sử </a><br>
+  ●     <a href="/SACHNGOAI/snN/NguyenMinhTien02#v-mot-vai-nhan-dinh" target="_blank" name="V" shape="rect">V. Một Vài Nhận Định</a></p>
 <p class="Tuaduoi"><b>IV. Vài Sự Thật Lịch Sử</b>  </p>
   <p>Lịch sử luôn có những diễn  tiến bất ngờ và ngoài dự tính của chúng ta. Cuộc điều  tra của Phái đoàn Liên Hiệp Quốc diễn ra ngay sau thời điểm  mà cuộc đấu tranh đòi bình đẳng của Phật giáo tại miền  Nam Việt Nam bị đàn áp đến mức độ khốc liệt nhất bởi trận  càn quét của Chính phủ ông Diệm vào đêm 20-8-1963. Tất cả các vị lãnh đạo chủ  chốt của Phật giáo đều bị bắt giam, đe dọa; thậm chí  sinh viên học sinh tham gia biểu tình ôn hòa ủng  hộ Phật giáo cũng bị bắtgiam và “cải huấn”. Thế rồi ngay  trong thời gian Phái đoàn vẫn còn lưu trú tại Sài Gòn thì chế  độ đàn ápPhật giáo này đã sụp đổ sau cuộc đảo chính của chính những  tướng lãnh quân đội từng phục vụ trong lòng chế độ. <br>
     <br>
@@ -79,7 +79,7 @@ wordCount: 6022
 
 <p>_____________</p> 
 <p><b>Bài đọc thêm: </b></p>
-<p>- <a href="https://sachhiem.net/SACHNGOAI/snT/TamDieu_NgKha.php">PHÚC TRÌNH A/5630 Của Phái Đoàn Điều Tra Liên Hiệp Quốc Về Đàn Áp Phật Giáo Tại Nam Việt Nam Năm 1963 Đã Kết Luận Như Thế Nào?</a> (Tâm Diệu và Nguyễn Kha) </p>
-<p>- <a href="https://sachhiem.net/EMAILS/SH/Sachhiem17e.php">Hai Cuốn Sách - Tài Liệu Mới</a></p>
+<p>- <a href="/SACHNGOAI/snT/TamDieu_NgKha">PHÚC TRÌNH A/5630 Của Phái Đoàn Điều Tra Liên Hiệp Quốc Về Đàn Áp Phật Giáo Tại Nam Việt Nam Năm 1963 Đã Kết Luận Như Thế Nào?</a> (Tâm Diệu và Nguyễn Kha) </p>
+<p>- <a href="/EMAILS/SH/Sachhiem17e">Hai Cuốn Sách - Tài Liệu Mới</a></p>
 
 <p class="nguonL">Nguồn: https://thuvienhoasen.org/p58a28812/iv-vai-su-that-lich-su; https://thuvienhoasen.org/p58a28813/v-mot-vai-nhan-dinh</p>

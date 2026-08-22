@@ -3,7 +3,7 @@ layout: ../../../layouts/Article.astro
 title: "Lang Tử Dã Tâm!"
 author: "BS. Nguyễn Văn Thịnh"
 date: 2014-07-15
-source: "https://sachhiem.net/VANHOC/N/NguyenvThinh_01.php"
+source: "/VANHOC/N/NguyenvThinh_01"
 category: "Chính trị"
 lang: vi
 wordCount: 2658
@@ -66,4 +66,4 @@ image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/MISC/Chosoi.j
 
 <p>  Nguồn: tác giả gửi </p>
 ___________________
-<p>Các bài của Nguyễn Văn Thịnh: link <a href="https://sachhiem.net/VANHOC/N/ListNVTh.inc.php" target="_blank">https://sachhiem.net/VANHOC/N/ListNVTh.inc.php</a></p>
+<p>Các bài của Nguyễn Văn Thịnh: link <a href="/VANHOC/N/ListNVTh.inc" target="_blank">https://sachhiem.net/VANHOC/N/ListNVTh.inc.php</a></p>

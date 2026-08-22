@@ -3,7 +3,7 @@ layout: ../../../layouts/Article.astro
 title: "Làm Giáo Hoàng Không Phải Dễ"
 author: "James Traub"
 date: 2013-03-29
-source: "https://sachhiem.net/TONGIAO/tgP/PhThTruc3.php"
+source: "/TONGIAO/tgP/PhThTruc3"
 category: "Tác giả"
 lang: vi
 wordCount: 732

@@ -3,7 +3,7 @@ layout: ../../../layouts/Article.astro
 title: "Lời Tiên Tri Của Văn Hào Victor Hugo"
 author: "Nguyễn Lương Thành"
 date: 2019-04-18
-source: "https://sachhiem.net/TONGIAO/FB/FBNgLgThanh03.php"
+source: "/TONGIAO/FB/FBNgLgThanh03"
 category: "Chính trị"
 lang: vi
 wordCount: 664

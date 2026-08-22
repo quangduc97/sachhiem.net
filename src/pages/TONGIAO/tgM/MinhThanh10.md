@@ -3,7 +3,7 @@ layout: ../../../layouts/Article.astro
 title: "Trần Chung Ngọc - Người tạo bước đột phá trong tiến trình chấn hưng Phật giáo"
 author: "Minh Thạnh"
 date: 2014-02-04
-source: "https://sachhiem.net/TONGIAO/tgM/MinhThanh10.php"
+source: "/TONGIAO/tgM/MinhThanh10"
 category: "Tác giả"
 lang: vi
 wordCount: 2236

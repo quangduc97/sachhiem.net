@@ -2,7 +2,7 @@
 layout: ../../../layouts/Article.astro
 title: "Richard Dawkins' Speech at Protest the Pope March"
 author: "You Tube"
-source: "https://sachhiem.net/Source https://www.youtube.com/watch?v=q_0kFU7IfPM"
+source: "/Source https://www.youtube.com/watch?v=q_0kFU7IfPM"
 category: "Tác giả"
 lang: en
 wordCount: 683

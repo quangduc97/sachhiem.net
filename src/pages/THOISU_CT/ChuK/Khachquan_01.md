@@ -3,7 +3,7 @@ layout: ../../../layouts/Article.astro
 title: "Chút suy nghĩ về việc"
 author: "Trần Khách Quan"
 date: 2014-03-02
-source: "https://sachhiem.net/THOISU_CT/ChuK/Khachquan_01.php"
+source: "/THOISU_CT/ChuK/Khachquan_01"
 category: "Tác giả"
 lang: vi
 wordCount: 850

@@ -3,7 +3,7 @@ layout: ../../../layouts/Article.astro
 title: "Campuchia cấm các NGOs quậy phá bầu cử trong nước"
 author: "Mike Wilson"
 date: 2015-03-20
-source: "https://sachhiem.net/THOISU_CT/ChuM/MikeWilson.php"
+source: "/THOISU_CT/ChuM/MikeWilson"
 category: "Chính trị"
 lang: vi
 wordCount: 439

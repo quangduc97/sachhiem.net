@@ -2,15 +2,15 @@
 layout: ../../../layouts/Article.astro
 title: "“Sản Phẩm Trí Tuệ” Mới Của Nguyễn Anh Tuấn"
 author: "Trần Chung Ngọc"
-source: "https://sachhiem.net/nguồn https://www.tiengnoigiaodan.net/anews08/0811_023.html"
+source: "/nguồn https://www.tiengnoigiaodan.net/anews08/0811_023.html"
 category: "Đối thoại"
 lang: vi
 wordCount: 13086
-image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.devhttps://sachhiem.net/images/nha.jpg"
+image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/Paperclip.gif"
 ---
 
 <table border="0" width="250" align="center">
-    <tbody><tr><td width="106"><a href="https://sachhiem.net/index.php"><img border="0" src="https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.devhttps://sachhiem.net/images/nha.jpg"></a>    </td> <td valign="top" style="text-align:right">28 tháng 11, 2008 </td></tr></tbody></table>
+    <tbody><tr><td width="106">    </td> <td valign="top" style="text-align:right">28 tháng 11, 2008 </td></tr></tbody></table>
  
 <p><i>LTS: Sachhiem.net thử thu gọn những câu Anh ngữ mà tác giả đã dịch Việt trong phần trích dẫn vào trong một miếng kẹp giấy <img border="0" src="https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/Paperclip.gif" width="16" height="16">. Người đọc chỉ cần rà chuột (mouse) lên nút sẽ thấy nguyên văn ngoại ngữ. Xin bạn đọc vui lòng cho biết nếu kỷ thuật này giúp cho bài viết cô đọng và các ý tưởng được liên tục hơn, hay đã làm trở ngại cho quí vị điều gì. Xin liên lạc qua email sachhiem@nventure.com 
 </i>  </p> <hr> 
@@ -22,7 +22,7 @@ GIÁO”</i> của <i>Nguyễn Anh Tuấn, </i>một người đã được <i>T
 quảng cáo trước đây là<i> “đã từng dùi mài kinh sử về chính trị học và tôn giáo 
 hơn 20 năm qua.”. </i>Nhưng tôi đố ai hiểu được ông Nguyễn Anh Tuấn muốn nói gì 
 với cái đầu đề dài lòng thòng và tối mò mò như vậy. </p>
-<p>Trước đây tôi đã phê bình <i><u>“Sản Phẩm Trí Tuệ”</u></i> [<a href="https://sachhiem.net/TCN/TCNdt/TCNdt5.php">https://sachhiem.net/TCN/TCNdt/ TCNdt5.php</a>] 
+<p>Trước đây tôi đã phê bình <i><u>“Sản Phẩm Trí Tuệ”</u></i> [<a href="/TCN/TCNdt/TCNdt5">https://sachhiem.net/TCN/TCNdt/ TCNdt5.php</a>] 
 của Nguyễn Anh Tuấn, nay đọc bài trên của ông, tôi quả thấy trí tuệ của ông 
 Nguyễn Anh Tuấn thuộc loại rất đặc biệt. Bài của ông Tuấn khá dài, và nội dung 
 không ngoài ca tụng Ki Tô Giáo là một chính giáo với những thuộc tính <u>chỉ có 
@@ -634,7 +634,7 @@ lộ của trần gian đầy bóng tối”. </i>Lịch sử cho thấy Công G
 tối lên Âu Châu trong suốt mười mấy thế kỷ và lên bất cứ nơi nào mà nó lan đến, 
 Việt Nam cũng không ra ngoại lệ. Muốn biết Thiên Chúa Giáo đã vào Việt Nam như 
 thế nào, là ánh sáng hay là bóng tối, xin hãy đọc:
-<a href="https://sachhiem.net/TCN/TCNtg/CGchinhsu/CGCS8.php">
+<a href="/TCN/TCNtg/CGchinhsu/CGCS8">
 https://sachhiem.net/TCN/TCNtg/CGchinhsu/CGCS8.php</a></p>
 
 <p> Người Ki Tô Giáo thường hay trích dẫn lời của Giê-su tự 

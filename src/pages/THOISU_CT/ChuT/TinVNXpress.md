@@ -2,7 +2,7 @@
 layout: ../../../layouts/Article.astro
 title: "Phản đối Trung Quốc có hành động"
 author: "Mai Trang /VN Express"
-source: "https://sachhiem.net/null"
+source: "/null"
 category: "Chính trị"
 lang: vi
 wordCount: 1370

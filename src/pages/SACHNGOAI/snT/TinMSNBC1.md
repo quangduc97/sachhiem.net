@@ -3,7 +3,7 @@ layout: ../../../layouts/Article.astro
 title: "Vatican Đã Dùng Tiền Lễ Để Chạy Chọt Vận Động Các Nhà Lập Pháp Hoa Kỳ"
 author: "Corky Siemaszko / MCN"
 date: 2019-06-05
-source: "https://sachhiem.net/SACHNGOAI/snT/TinMSNBC1.php"
+source: "/SACHNGOAI/snT/TinMSNBC1"
 category: "Chính trị"
 lang: vi
 wordCount: 1561

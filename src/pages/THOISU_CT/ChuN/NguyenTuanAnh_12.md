@@ -3,7 +3,7 @@ layout: ../../../layouts/Article.astro
 title: "Phát Huy Sức Mạnh Nhân Dân Trong Cuộc Đấu Tranh"
 author: "Nguyễn Tuấn Anh"
 date: 2026-07-24
-source: "https://sachhiem.net/THOISU_CT/ChuN/NguyenTuanAnh_12.php"
+source: "/THOISU_CT/ChuN/NguyenTuanAnh_12"
 category: "Chính trị"
 lang: vi
 wordCount: 1935

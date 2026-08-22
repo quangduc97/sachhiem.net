@@ -2,17 +2,16 @@
 layout: ../../layouts/Article.astro
 title: "Nhạc Phạm Duy và những điều cần phải nói"
 author: "Báo An Ninh Thế Giới"
-source: "https://sachhiem.net/NDX/NDX022.php"
+source: "/NDX/NDX022"
 category: "Lịch sử"
 lang: vi
 wordCount: 2479
-image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nha.jpg"
+image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/NDX/IMG/PhamDuy21mar9.jpg"
 ---
 
-<p align="center"><a href="https://www.sachhiem.net/">
-	<img border="0" src="https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nha.jpg"></a>đăng lại ngày 29, tháng 5, 2009 </p>
+<p align="center">đăng lại ngày 29, tháng 5, 2009 </p>
 	
-	<p>(để tham khảo cho bài<a href="https://www.sachhiem.net/NDX/NDX011.php"> "Thiếu Một Tấm Lòng" của Nguyễn Đắc Xuân</a>)</p>
+	<p>(để tham khảo cho bài<a href="/NDX/NDX011"> "Thiếu Một Tấm Lòng" của Nguyễn Đắc Xuân</a>)</p>
 	
 	<center>
 	<img border="0" src="https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/NDX/IMG/PhamDuy21mar9.jpg" width="236" height="198"><p class="baochi">Khán giả 
@@ -215,6 +214,6 @@ image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nha.jpg"
 	
 	
 	
-	<p>► <a href="https://www.sachhiem.net/NDX/NDX011.php">Mời xem thư của Nguyễn Đắc Xuân gửi nhạc sĩ Phạm Tuyên 
+	<p>► <a href="/NDX/NDX011">Mời xem thư của Nguyễn Đắc Xuân gửi nhạc sĩ Phạm Tuyên 
 	</a> </p>
 <hr>

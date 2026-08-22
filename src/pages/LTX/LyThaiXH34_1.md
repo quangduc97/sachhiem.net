@@ -3,7 +3,7 @@ layout: ../../layouts/Article.astro
 title: "Nhớ một người thầy trên đất Mỹ"
 author: "Lý Thái Xuân"
 date: 2019-11-20
-source: "https://sachhiem.net/LTX/LyThaiXH34_1.php"
+source: "/LTX/LyThaiXH34_1"
 category: "Chính trị"
 lang: vi
 wordCount: 1114

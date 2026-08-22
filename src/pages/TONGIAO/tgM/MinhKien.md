@@ -2,7 +2,7 @@
 layout: ../../../layouts/Article.astro
 title: "43 Phương Pháp Cải đạo"
 author: "Minh Kiến"
-source: "https://sachhiem.net/null"
+source: "/null"
 category: "Tác giả"
 lang: vi
 wordCount: 6063

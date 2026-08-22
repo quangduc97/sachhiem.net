@@ -2,15 +2,14 @@
 layout: ../../../layouts/Article.astro
 title: "Vài Suy Nghĩ Về Bài Viết \"Bùn Và Vàng Mã\""
 author: "Dương Kinh Thành"
-source: "https://sachhiem.net/VANHOC/DKTH/DgKinhThanh_xh02_bun.php"
+source: "/VANHOC/DKTH/DgKinhThanh_xh02_bun"
 category: "Xã hội"
 lang: vi
 wordCount: 4787
-image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nha.jpg"
+image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/TONGIAO/IMG/DotVangMa.jpg"
 ---
 
-<p align="center"><a href="https://www.sachhiem.net/">
-	<img border="0" src="https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nha.jpg"></a> 06 tháng 11,    2010 </p>
+<p align="center"> 06 tháng 11,    2010 </p>
 <p><span class="First">Đ</span>ó là tựa đề bài viết của tác giả Sông Nhuệ, được đăng ở trang Bạn Đọc,   
 báo Tuổi Trẻ Cuối Tuần số 36 ngày 12/9/2010.   Được liệt kê vào những ý kiến của 
 bạn đọc, tính chất phổ cập thông tin cũng từ ý nghĩa đó ở ngưỡng tham khảo và 

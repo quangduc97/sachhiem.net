@@ -2,18 +2,17 @@
 layout: ../../../layouts/Article.astro
 title: "Ngô Đình Diệm (Lê Xuân Nhuận)"
 author: "Lê Xuân Nhuận"
-source: "https://sachhiem.net/nguồn https://lexuannhuan.tripod.com"
+source: "/nguồn https://lexuannhuan.tripod.com"
 category: "Lịch sử"
 lang: vi
 wordCount: 410
-image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nha.jpg"
 ---
 
 <div align="center" style="position: relative; left: 0; top: 0">
  <table id="0" border="1" bgcolor="#F5F5F5" cellpadding="10" cellspacing="0" width="100%" height="2500" bordercolor="#FF9966" bordercolorlight="#FFFFCC" bordercolordark="#606060"> 
 <tbody><tr> <td width="20%" valign="top"> 
 	<p align="center">◄ ● ►</p>
-	<p align="center"><a href="/index"><img src="https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nha.jpg" border="0" title="trở vê trang nhà"></a></p>
+	
  <i>LTS: Một độc giả giới 
 		thiệu đến sachhiem.net trang tài liệu nghiên cứu khá chi tiết về "Ngô 
 		Đình Diệm", nhân vật lịch sử trong giai đoạn chia đôi Bắc Nam của nước 
@@ -127,10 +126,10 @@ image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nha.jpg"
 	<li><a target="BaiLXN" href="/LICHSU/LEXNHUAN/LeXNhuan07">&nbsp;Đọc bài viết của Ông Tôn Thất Thiện về “Chính Đề Việt Nam”</a></li>
 	
  
-  	<p class="nguonL"><a href="https://sachhiem.net/LICHSU/LEXNHUAN/LXN_main.php">https://sachhiem.net/LICHSU/LEXNHUAN/LXN_main.php</a></p>
+  	<p class="nguonL"><a href="/LICHSU/LEXNHUAN/LXN_main">https://sachhiem.net/LICHSU/LEXNHUAN/LXN_main.php</a></p>
 	
 	<p>Những bài viết về Ngô Đình Diệm đăng trong sachhiem.net:</p>
- 		<a href="https://sachhiem.net/LICHSU/CacbaiNgDD.php">https://sachhiem.net/...</a>
+ 		<a href="/LICHSU/CacbaiNgDD">https://sachhiem.net/...</a>
  </td>
  <td id="benphai" width="80%" valign="top" bgcolor="#F9F9F9">
 	<blockquote>

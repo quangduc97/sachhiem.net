@@ -3,7 +3,7 @@ layout: ../../../layouts/Article.astro
 title: "Giáo Dân Lê Thị Cẩn GX Ghềnh Ráng - gửi thư thứ 2."
 author: "giáo dân Lê thị Cẩn"
 date: 2021-06-27
-source: "https://sachhiem.net/TONGIAO/tgS/SH89_thuLTC2.php"
+source: "/TONGIAO/tgS/SH89_thuLTC2"
 category: "Tác giả"
 lang: vi
 wordCount: 1333
@@ -12,7 +12,7 @@ image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/TONGIAO/IMG/NANNHAN/
 
 <div class="tomluoc">
   <p><i>Ủng hộ chị Lê thị Cẩn. Mong chị tiếp tục vạch mặt những hành động khốn nạn của các người trong giáo xứ đối với chị. Tin rằng chính quyền sẽ phải ủng hộ quyết tâm của chị để phục vụ quyền lợi của tổ quốc, chứ không riêng cá nhân chị.</i></p>
-  <p>(<a href="https://sachhiem.net/TONGIAO/tgS/SH89_thucaucuu.php">Xem thư thứ nhất</a>) </p>
+  <p>(<a href="/TONGIAO/tgS/SH89_thucaucuu">Xem thư thứ nhất</a>) </p>
  </div>
 <p align="center">Nghe đọc: https://www.youtube.com/watch?v=nJVU1asLq9s</p>
 <p align="center"> 

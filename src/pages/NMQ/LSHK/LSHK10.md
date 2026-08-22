@@ -2,14 +2,14 @@
 layout: ../../../layouts/Article.astro
 title: "LỊCH SỬ HOA KỲ"
 author: "(3 tác giả)"
-source: "https://sachhiem.net/NMQ/LSHK/LSHK10.php"
+source: "/NMQ/LSHK/LSHK10"
 category: "Lịch sử"
 lang: vi
 wordCount: 8936
-image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nha.jpg"
+image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/print.gif"
 ---
 
-<p align="center"><a href="https://sachhiem.net/index.php"><img border="0" hspace="20" src="https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nha.jpg"></a> | <a target="_blank" href="/NMQ/LSHK/LSHK00"><img border="0" src="https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/print.gif" width="18" height="18"></a> bản rời | <a target="_blank" href="/NMQ/LSHK/LSHKmain"> « &nbsp;Xem Mục Lục »</a> |  12 tháng 9, 2009</p>
+<p align="center"> | <a target="_blank" href="/NMQ/LSHK/LSHK00"><img border="0" src="https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/print.gif" width="18" height="18"></a> bản rời | <a target="_blank" href="/NMQ/LSHK/LSHKmain"> « &nbsp;Xem Mục Lục »</a> |  12 tháng 9, 2009</p>
 <p><a href="/NMQ/LSHK/LSHK08">(tiếp theo Chương tám)</a></p>
 <p align="center"><font face="Marlett">pypypy</font></p>
 

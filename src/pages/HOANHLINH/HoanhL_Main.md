@@ -2,7 +2,7 @@
 layout: ../../layouts/Article.astro
 title: "Việt Nam Máu Lửa Quê Hương Tôi"
 author: "Hoành Linh Đỗ Mậu"
-source: "https://sachhiem.net/null"
+source: "/null"
 lang: vi
 wordCount: 5
 ---

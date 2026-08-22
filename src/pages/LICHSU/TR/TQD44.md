@@ -3,7 +3,7 @@ layout: ../../../layouts/Article.astro
 title: "Phản Hồi Nick Bình Nguyễn"
 author: "Trần Quang Diệu"
 date: 2015-04-04
-source: "https://sachhiem.net/LICHSU/TR/TQD44.php"
+source: "/LICHSU/TR/TQD44"
 category: "Đối thoại"
 lang: vi
 wordCount: 6465
@@ -80,7 +80,7 @@ Nếu bảo “Phật giáo  và Khoa học chẳng liên quan gì nhau cả” 
   <p>
     PG KHÔNG CẦN XÉT LẠI QUAN ĐIỂM CỦA MÌNH ĐỂ CẬP NHẬT HÓA VỚI  NHỮNG KHÁM PHÁ MỚI CỦA KHOA HỌC. PHẬT GIÁO KHÔNG CẦN TỪ BỎ NHỮNG QUAN ĐIỂM CỦA  MÌNH ĐỂ CHẤP NHẬN KHOA HỌC, BỞI VÌ PG BAO GỒM KHOA HỌC, ĐỒNG THỜI CŨNG VƯỢT QUA  KHOA HỌC.”</p>
   <p>(VÀI NÉT VỀ : PHẬT GIÁO &amp; KHOA HỌC của Trần Chung Ngọc 
- <a href="https://sachhiem.net/TCN/TCNkh/TCNkh16.php" target="_blank">https://sachhiem.net/TCN/TCNkh/TCNkh16.php</a>) </p>
+ <a href="/TCN/TCNkh/TCNkh16" target="_blank">https://sachhiem.net/TCN/TCNkh/TCNkh16.php</a>) </p>
 </div>
 <p>
   Nói cho nhiều thì cũng bằng thừa, người Phật giáo chấp nhận  về vị trí “lẹt đẹt” của mình là “<i>Tâm Bình Thế Giới Bình</i>” (Với cái tâm hòa bình,  thì thế giới sẽ được bằng an) trong “<i>Tam giới vô an, du như hỏa trạch</i>” (Ba cõi - Dục  giới, Sắc giới, và Vô sắc giới -  không yên như đi trong nhà lửa) chứ  không thể  phản khoa học và bạo tàn như Kinh Thánh đã “dạy”, và như cái  lịch sử ô nhục, đầy máu lệ của giáo phiệt thành Rome Vatican La mã giáo để cuối  cùng phải lên tiếng và tỏ ra thống hối (đau khổ trong sự hối hận, nhưng đã  muộn) xin lỗi với cộng đồng nhân loại: (xem <i>Danh sách các lời xin lỗi của Giáo hoàng Gioan Phaolô II</i> <a href="https://vi.wikipedia.org/wiki/Danh_s%C3%A1ch_c%C3%A1c_l%E1%BB%9Di_xin_l%E1%BB%97i_c%E1%BB%A7a_Gi%C3%A1o_ho%C3%A0ng_Gioan_Phaol%C3%B4_II" target="_blank">https://vi.wikipedia.org/wiki/</a>) </p>
@@ -95,7 +95,7 @@ Nếu bảo “Phật giáo  và Khoa học chẳng liên quan gì nhau cả” 
   Ông Bình Nguyễn hãy  nên nói thật với lòng mình rằng Kinh Thánh có “dạy” vô số những điều ngu dốt,  phản khoa học hay không? Ông thử chỉ ra xem có đoạn Kinh Thánh nào hướng dẫn mô  thức đào tạo khoa học gia?  Chưa nói đến mấy ông “thánh tông đồ” đầu tiên  là những ông ngư phủ Do Thái, lắm khi họ mù chữ nữa là!? Những ông Giáo hoàng  thì sa đọa, dâm đãng, loạn luân, trụy lạc với em ruột, với con ruột, và với  chính mẹ ruột của mình v.v… nhưng trong mấy ổng lại hãm hại khoa học gia là  đàng khác chứ ở đó mà “hãnh diện”? </p>
 <p>
   Với tiền thân là Cựu  Ước, với lịch sử 2000 năm Catô giáo, với những sự đe dọa và áp bức, những khủng  bố kinh hồn, đã làm cho nhiều người nếu không bị diệt chủng, thì buộc lòng họ  phải biến thành dân Ki tô. Trong chuỗi thời gian là dân Catô, những phát minh  “vĩ đại” về Khoa học của họ nếu có, thì ở đó không thể là do “kích thích” từ  Kinh Thánh, không phải do giáo phiệt thành Rome đào tạo. Mà ngược lại, giáo  phiệt thành Rome còn hãm hại, tru diệt họ vì lý do nói rằng những phát minh về  khoa của họ là “phản lại những điều Chúa dạy trong Kinh Thánh” nữa là. Điển  hình như Bruno, Galieo, như Darwin v.v… Do đó, yêu cầu Bình Nguyễn đừng có mà  nhận vơ “công trình Chúa” cách lố bịch như vậy! </p>
-<p>Về mục này xin đọc<a href="https://sachhiem.net/TCN/TCNdt/TCNdt050.php">https://sachhiem.net/TCN/TCNdt/TCNdt050.php</a>.</p>
+<p>Về mục này xin đọc<a href="/TCN/TCNdt/TCNdt050">https://sachhiem.net/TCN/TCNdt/TCNdt050.php</a>.</p>
 <p class="indent50">"...<i>Trước những khám phá của khoa học trong nhiều bộ môn mà trên thực tế đã bác bỏ mọi điều hoang đường về vũ trụ, nhân sinh trong Thánh Kinh, tuy mục đích của khoa học không phải là để bài bác Thánh Kinh hay để bài bác đức tin của bất cứ ai, mà chỉ là trình bày những kết quả nghiên cứu, dựa trên thuyết lý, kiểm chứng và lập lại những thí nghiệm để bảo đảm là những kết quả khoa học là đúng.  Tuy nhiên, trước những bằng chứng khoa học, vì không phù hợp với kiến thức tôn giáo của người Ki Tô Giáo, một loại kiến thức không cần biết, không cần hiểu, cho nên họ cứ cho là khoa học chống tôn giáo của họ, muốn vứt đi cặp nạng Thiên Chúa của họ. Do đó giáo hội Công giáo khi xưa cũng như Tin Lành mới triệt để chống khoa học và tiếp tục chống cho đến ngày nay. Vì vậy Giordano Bruno mới bị thiêu sống, Galilei mới bị giam tại gia cho đến chết và bắt buộc phải phủ nhận kết quả quan sát của mình là trái đất quay xung quanh mặt trời chứ không phải là mặt trời quay xung quanh trái đất như viết trong Thánh Kinh, và cấm quần chúng không được đọc những tác phẩm của Copernicus, Kepler v…v... 359 năm sau Giáo hoàng John Paul II mới lên tiếng công nhận Giáo hội sai lầm vì đã tố khổ Galilei. </i>... " [<b><i>"Khoa Học Trong Kinh Thánh?</i></b> (Trần Chung Ngọc)]</p>
 <p> Trong khi đó, cho tới  hiện giờ, chưa ai có thể lên án Kinh điển Phật giáo được điều gì. Không ai lên  án Đức Phật, không ai lên án các nhà sư như lịch sử đã lên án Kinh Thánh, lên  án ông “Thần Đức Chúa Trời” ác ôn, lên án Giáo hoàng, Hồng y, Giám mục, Linh  mục làm những chuyện diệt chủng nhân loại v.v…!? </p>
 <p>●  Ông Bình Nguyễn  viết: </p>
@@ -123,7 +123,7 @@ Nếu bảo “Phật giáo  và Khoa học chẳng liên quan gì nhau cả” 
   Về chuyện hôn nhân? </p>
 <p>
   Ông Bình Nguyễn chớ tưởng bở! Đã từ  rất lâu so với Jesus, Phật giáo đã có bài Kinh Thiện Sinh hướng dẫn về cách thức trong đạo làm người và  sự bảo toàn hạnh phúc hôn nhân như ở đây: <a href="https://www.tangthuphathoc.net/kinhtang/thiensanh.htm" target="_blank">https://www.tangthuphathoc.net/kinhtang/thiensanh.htm</a> . </p>
-<p>Trong khi Chúa thì “dạy” theo kiểu đe  dọa: <a href="https://sachhiem.net/EMAILS/BERNARD/BernardChang13.php" target="_blank">https://sachhiem.net/EMAILS/BERNARD/BernardChang13.php</a>. </p>
+<p>Trong khi Chúa thì “dạy” theo kiểu đe  dọa: <a href="/EMAILS/BERNARD/BernardChang13" target="_blank">https://sachhiem.net/EMAILS/BERNARD/BernardChang13.php</a>. </p>
 <p>Tín đồ "Công giáo"  làm đám cưới trong giáo đường" thì kệ "Công giáo".  Nhưng, Phật tử nếu đến chùa nhờ sư phụ của họ chứng minh trước  Phật đài để cho họ thành hôn với nhau thì kệ người ta chứ người ta  không lo ngại theo kiểu cuồng si, nhưng phách lối, dám nói rằng "có  bà" chăn cừu "<i>bên đạo phép cao lạ lùng</i>" vào đó  (chùa) mà "<i>đá tứ tung</i>"! Bộ hết thời ép người theo đạo  bằng lưỡi gươm, họng súng rồi quay qua bắt chẹt hôn nhân, cho nên thấy  Phật tử kéo nhau vào chùa (đôi khi yêu cầu cả con chiên cũng nên thể hiện  tính người - cùng vào chùa với nhau...!) xin được làm lễ thành hôn  rồi đâm ra hậm hực? </p>
 <p>
   Chấm hết. </p>
@@ -136,7 +136,7 @@ Nếu bảo “Phật giáo  và Khoa học chẳng liên quan gì nhau cả” 
 <p>◆ Thực ra, nội dung trong phần đối thoại của tôi còn ẩn  rất nhiều vấn đề mà lúc viết tôi không cần phải chi tiết, vì nghĩ rằng  Bình Nguyễn đã có thể tiêu hóa được chứ không đến nỗi ngây  thơ để rồi chơi tình vờ, rồi đem một vài tu sĩ Thiên Chúa giáo phương tây  nghiên cứu, phát minh một vài bộ môn thuộc lĩnh vực khoa học thực nghiệm  ra để hãnh diện, tự sướng, đoạn giở trò chê bai sao lịch sử  các vị thiền sư Phật giáo "đếm trên đầu ngón tay" không có khoa  học gia? </p>
 <p>Trong nội dung đối thoại, tôi đã khẳng định là Bình  Nguyễn chớ có <strong>nhận vơ</strong> trong thủ đoạn để cho người ta, mà thực  ra, chỉ có những ai kém hiểu biết mới có thể cho đó là "nền  tảng" từ ông "Thần Đức Chúa Trời", từ Kinh  Thánh của Ki tô giáo đã "dạy", đã đào luyện ra  các khoa học gia như vậy. Ngược lại, "Thần Đức Chúa Trời", Kinh  Thánh, lịch sử Giáo hội "thống trị hoàn vũ" xưa nay, tuyệt đại đa  số về những hành tung kèm theo "lời dạy" từ Kinh Thánh, phải nói rất  là tàn bạo, rất là độc ác v.v.... chứ đừng có mà  bày đặt đem một vài ông linh mục nghiên cứu khoa học, về  trường đại học, về bệnh viện, về nuôi cùi (ai đã "sáng tạo"  ra bệnh cùi?), về "ổ bánh mì" với quyển Kinh Thánh cho những kẻ  nghèo đói v.v... là không qua mặt được những người có hiểu biết! </p>
 <p>◆ Riêng tại Việt Nam, rinh việc "Công giáo" giàu, có nhiều  trường đại học, có bệnh viện v.v... là đền bù được cái tội làm  cho quê hương đất nước bị diệt vong suốt gần thế kỷ? Còn đối với cả  nhân loại thì ôi thôi khỏi nói! Hãy nhìn "cái gương" mà  "đức thánh cha" Gioan-Phao-Lồ II lên tiếng nhận lỗi và xin lỗi là rõ  lắm rồi! </p>
-<p>"Thần Đức Chúa Trờì", "Kinh Thánh", giáo  phiệt thành Rome giàu (để có thể có nhiều trường đại học, nhiều bệnh viện  v.v...) thì không ai chối cãi (mấy ông mục sư Tin Lành VN ngày  nay còn hung hăng "xác nhận" cả nước VN, dân tộc VN cũng  "là tài sản của đức Chúa Trời", "phải giao trả lại cho  ngài"- hóa bướm = "đức chúa trời" mà mấy Mục  sư ấy là những ông "thầy tế lễ" đứng ra làm  trung gian nhận lãnh đấy mà?). Song song với khả năng có nhiều  trường đại học, có nhiều bệnh viện v.v..., cấu trúc xã  hội có thực sự xem Thiên Chúa giáo là mô thức "lý tưởng" cho con  người cách "ưu việt" hay không, Bình Nguyễn có thể theo dõi thử cuộc  tranh luận "rất là tây phương" trong thời đương đại như ở đây  thử xem sao: <a href="https://sachhiem.net/TCN/TCNdt/TCNdt042.php" target="_blank">https://sachhiem.net/TCN/TCNdt/TCNdt042.php</a> . </p>
+<p>"Thần Đức Chúa Trờì", "Kinh Thánh", giáo  phiệt thành Rome giàu (để có thể có nhiều trường đại học, nhiều bệnh viện  v.v...) thì không ai chối cãi (mấy ông mục sư Tin Lành VN ngày  nay còn hung hăng "xác nhận" cả nước VN, dân tộc VN cũng  "là tài sản của đức Chúa Trời", "phải giao trả lại cho  ngài"- hóa bướm = "đức chúa trời" mà mấy Mục  sư ấy là những ông "thầy tế lễ" đứng ra làm  trung gian nhận lãnh đấy mà?). Song song với khả năng có nhiều  trường đại học, có nhiều bệnh viện v.v..., cấu trúc xã  hội có thực sự xem Thiên Chúa giáo là mô thức "lý tưởng" cho con  người cách "ưu việt" hay không, Bình Nguyễn có thể theo dõi thử cuộc  tranh luận "rất là tây phương" trong thời đương đại như ở đây  thử xem sao: <a href="/TCN/TCNdt/TCNdt042" target="_blank">https://sachhiem.net/TCN/TCNdt/TCNdt042.php</a> . </p>
 <p>◆ Bình Nguyễn nói người Phật giáo "là  tôn giáo của bắt chước" cho nên "Công giáo" Việt Nam đã mời  người Phật giáo đến Trung Tâm Mục vụ đặng làm cái công chuyện chia sẻ  với các vị linh mục và ma xơ: </p>
 <p> SC. Thích Nữ Hương Nhũ thuyết giảng tại nhà thờ Kitô  giáo: <br>
    <a href="https://www.daophatngaynay.com/vn/tin-tuc/trong-nuoc/16877-sc-thich-nu-huong-nhu-thuyet-giang-tai-nha-tho-kito-giao.html" target="_blank">https://www.daophatngaynay.com/vn/tin-tuc/trong-nuoc/16877-sc-thich-nu-huong-nhu-thuyet-giang-tai-nha-tho-kito-giao.html</a> </p>
@@ -151,7 +151,7 @@ Nếu bảo “Phật giáo  và Khoa học chẳng liên quan gì nhau cả” 
   Tôn giáo và Khoa học:</p>
 <p> - Những Vụ Án Lừng  Danh Trong Tòa Án Vatican:</p>
 <p>
-  <a href="https://sachhiem.net/NMQ/NMQ029.php" target="_blank">https://sachhiem.net/NMQ/NMQ029.php</a></p>
+  <a href="/NMQ/NMQ029" target="_blank">https://sachhiem.net/NMQ/NMQ029.php</a></p>
 <p> - Những Chủ đề: Phật Giáo và Khoa Học:</p>
 <p>
   <a href="https://www.buddhismtoday.com/index/khoahoc.htm" target="_blank">https://www.buddhismtoday.com/index/khoahoc.htm</a></p>
@@ -160,7 +160,7 @@ Nếu bảo “Phật giáo  và Khoa học chẳng liên quan gì nhau cả” 
   <a href="https://thuvienhoasen.org/a17126/loi-phat-day-va-khoa-hoc" target="_blank">https://thuvienhoasen.org/a17126/loi-phat-day-va-khoa-hoc</a></p>
 <p> - Những khác biệt  giữa Thiên Chúa Giáo và Phật Giáo:</p>
 <p>
-  <a href="https://sachhiem.net/TONGIAO/tgL/LadyDragon01.php" target="_blank">https://sachhiem.net/TONGIAO/tgL/LadyDragon01.php</a></p>
+  <a href="/TONGIAO/tgL/LadyDragon01" target="_blank">https://sachhiem.net/TONGIAO/tgL/LadyDragon01.php</a></p>
 <p> - Lên án Kinh Thánh và; ngụy biện nhằm thoát thân về những “lời dạy” phản khoa  học:</p>
 <p class="indent50">
   Lên án:</p>
@@ -174,7 +174,7 @@ Ngụy biện: </p>
 <p>
   - Bây giờ?  Ta kết luận =  1000 Năm Tàn Sát &amp; Man Rợ - Nhân Danh Chúa:</p>
 <p>
-  <a href="https://www.sachhiem.net/TONGIAO/tgTH/ThuongDuc.php" target="_blank">https://www.sachhiem.net/TONGIAO/tgTH/ThuongDuc.php</a></p>
+  <a href="/TONGIAO/tgTH/ThuongDuc" target="_blank">https://www.sachhiem.net/TONGIAO/tgTH/ThuongDuc.php</a></p>
   _________________
   <div class="Gry">
   <p><b>I.</b> <i>Subject: Phật giáo Xưa và Nay<br>

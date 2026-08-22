@@ -3,7 +3,7 @@ layout: ../../../layouts/Article.astro
 title: "Cảm Nghĩ Về Anh Bộ Đội Cụ Hồ"
 author: "Nguyễn Hải Phú"
 date: 2021-12-22
-source: "https://sachhiem.net/LICHSU/N/NguyenHaiPhu.php"
+source: "/LICHSU/N/NguyenHaiPhu"
 category: "Chính trị"
 lang: vi
 wordCount: 2108

@@ -2,7 +2,7 @@
 layout: ../../../layouts/Article.astro
 title: "Noi Gương Hoàng Hoa Thám"
 author: "Tề Thiên"
-source: "https://sachhiem.net/null"
+source: "/null"
 category: "Chính trị"
 lang: vi
 wordCount: 5331
@@ -36,7 +36,7 @@ image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nhacu.jpg"
 	<tbody><tr>
 		<td bgcolor="White" align="justify" valign="top" height="198" width="516">
 		<table border="0" cellpadding="10" width="100%" cols="2"><tbody><tr>
-				<td valign="top"><a href="https://sachhiem.net/"><img border="0" src="https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nhacu.jpg" width="49" height="20"></a></td>
+				<td valign="top"><a href="/"><img border="0" src="https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nhacu.jpg" width="49" height="20"></a></td>
 	<td valign="top">	14 tháng 9, 2008
 	</td></tr></tbody></table>
 
@@ -165,7 +165,7 @@ image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nhacu.jpg"
 			muốn, chứ không thì không biết con cháu của các vị bây giờ khốn nạn 
 			đến thế nào nữa</i>". (trích đoạn bài viết: Giáo dân bất tuân luật 
 			pháp - tg - Tân Pháp đăng trên
-			<a style="color: blue; text-decoration: underline; text-underline: single" href="https://www.sachhiem.net/">www.sachhiem.net</a> mục Tôn Giáo, ngày 
+			<a style="color: blue; text-decoration: underline; text-underline: single" href="/">www.sachhiem.net</a> mục Tôn Giáo, ngày 
 			05.09.08). </p>
 			<p class="TuaDoLeft">Những tên "thánh" phản quốc</p>
 		<p> Một giáo hội đã phạm 7 núi tội ác với nhân loại, thế mà còn 
@@ -407,7 +407,7 @@ image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nhacu.jpg"
 			in năm 1968 của Thái Bạch)</p>
 			<p>2- Hình Cụ Hoàng Hoa Thám, tôi kopie trong bài viết : Giáo 
 			Dân Bất Tuân Luật Pháp, tác giả Tân Pháp, đăng bài trên
-			<a style="color: blue; text-decoration: underline; text-underline: single" href="https://www.sachhiem.net/TONGIAO">www.sachhiem.net/TONGIAO</a>. Cũng 
+			<a style="color: blue; text-decoration: underline; text-underline: single" href="/TONGIAO">www.sachhiem.net/TONGIAO</a>. Cũng 
 			đúng lúc, tôi nhận được bài Thơ Cụ Hoàng Hoa Thám. </p>
 			<p>3- Xin nhờ Sách hiếm vui lòng chuyển lời đa tạ của tôi đến 
 			tác giả TÂN PHÁP.</p>

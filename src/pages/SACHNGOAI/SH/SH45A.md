@@ -3,18 +3,17 @@ layout: ../../../layouts/Article.astro
 title: "Giáo Hội Công Giáo Pháp: 330.000 Trẻ Em"
 author: "SYLVIE CORBET/ APnews"
 date: 2021-10-05
-source: "https://sachhiem.net/SACHNGOAI/SH/SH45A.php"
+source: "/SACHNGOAI/SH/SH45A"
 category: "Tác giả"
 lang: vi
 wordCount: 1958
-image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nha.jpg"
+image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/TONGIAO/IMG/TINHDUC/CG_PHAP_330ngan.JPG"
 ---
 
 <p class="Tuaduoi"><b>Là Nạn Nhân Lạm Dụng Tình Dục </b></p>
 
 
- <p align="center"><a href="https://www.sachhiem.net/">
-<img border="0" src="https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nha.jpg"></a> 
+ <p align="center"> 
 05-Oct-2021(04-Aug-2025)</p>
  <div class="tomluoc">
    <p>“<i>Tôi thấy vị linh mục này là một người tốt, một người chu đáo và sẽ không làm hại tôi, Nhưng khi tôi thấy mình nằm trên giường, bán khỏa thân và ông ta chạm vào tôi, tôi mới nhận ra có điều gì đó không ổn</i>."</p>

@@ -3,7 +3,7 @@ layout: ../../../layouts/Article.astro
 title: "Đại Sư Trí Quang Cứu Nguy Phật Giáo Việt Nam Khỏi Pháp Nạn Năm 1963"
 author: "Thích Nhật Từ"
 date: 2019-12-02
-source: "https://sachhiem.net/TONGIAO/tgTH/ThichNhatTu05.php"
+source: "/TONGIAO/tgTH/ThichNhatTu05"
 category: "Chính trị"
 lang: vi
 wordCount: 5675

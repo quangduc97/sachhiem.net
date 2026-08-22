@@ -2,15 +2,15 @@
 layout: ../../../layouts/Article.astro
 title: "Khi Người Công Giáo Nói Chuyện"
 author: "Trần Chung Ngọc"
-source: "https://sachhiem.net/TCN/TCNdt/TCNdt023-3.php"
+source: "/TCN/TCNdt/TCNdt023-3"
 category: "Đối thoại"
 lang: vi
 wordCount: 3301
-image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.devhttps://sachhiem.net/images/nha.jpg"
+image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/Next.gif"
 ---
 
 <table border="0" width="250" align="center">
-    <tbody><tr><td width="106"><a href="https://sachhiem.net/index.php"><img border="0" src="https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.devhttps://sachhiem.net/images/nha.jpg"></a>    </td> <td valign="top" style="text-align:right">ngày 18 tháng 1, 2009</td></tr></tbody></table> 	<p>Toàn bài:  <a href="/TCN/TCNdt026">1</a> <a href="/TCN/TCNdt026-1">2</a> 	<a href="/TCN/TCNdt026-2">3</a> <b><font size="3" color="#FF0000">4</font></b> 	<a href="/TCN/TCNdt026-4">5</a></p>
+    <tbody><tr><td width="106">    </td> <td valign="top" style="text-align:right">ngày 18 tháng 1, 2009</td></tr></tbody></table> 	<p>Toàn bài:  <a href="/TCN/TCNdt026">1</a> <a href="/TCN/TCNdt026-1">2</a> 	<a href="/TCN/TCNdt026-2">3</a> <b><font size="3" color="#FF0000">4</font></b> 	<a href="/TCN/TCNdt026-4">5</a></p>
 
 
  <ul> <li> <p class="TuaDenLeft">Tình Huynh Đệ Đại Đồng</p></li>
@@ -107,7 +107,7 @@ cho tôi một Thiên Chúa  mà tôi không thể kính trọng, đừng nói �
 offers me a God I cannot respect, much less worship.]</p>
 <p>4)  <u>Linh mục Công giáo James Kavanaugh</u> viết về “Huyền Thoại Cứu Rỗi” 
 trong cuốn <i>Sự Sinh Ra Của Thiên Chúa </i>(The Birth of God),<i> </i>xin đọc:
-<a href="https://sachhiem.net/TCN/TCNtg/TCN36.php">
+<a href="/TCN/TCNtg/TCN36">
 https://sachhiem.net/TCN/TCNtg/TCN36.php</a> :</p>
 <p><i>   Nhưng đối với con người hiện đại. <u>chuyện hi sinh của Giê-su chẳng có 
 ý nghĩa gì mấy, trừ khi hắn đã bị reo rắc sự sợ hãi và bị tẩy não từ khi mới 
@@ -264,7 +264,7 @@ Nguyện”, đó là “Cầu Nguyện Bằng Búa, Kìm, và Xà Beng”.  Nh�
 <p>    Chúng ta biết rằng, trước đây ông Nguyễn Anh Tuấn đã 
 thay mặt Nhóm Người Công Giáo Chủ Trương <u>Hòa Đồng Tôn Giáo Và Dân Tộc</u> và 
 đã đưa ra “Sản Phẩm Trí Tuệ” của ông ấy, một sản phẩm mà tôi đã phê bình trên
-<a href="https://sachhiem.net/TCN/TCNdt/TCNdt5.php">
+<a href="/TCN/TCNdt/TCNdt5">
 https://sachhiem.net/TCN/TCNdt/TCNdt5.php</a>.  Chủ trương Hòa đồng Dân Tộc của nhóm 
 người này mà ông Nguyễn Anh Tuấn thay mặt là <b>mạ lỵ cả dân tộc Việt Nam</b> qua 
 câu:  <i>Sự Rũ Liệt Tinh Thần Của Dân tộc.” </i> Dân tộc của chúng ta 

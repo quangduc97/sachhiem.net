@@ -3,7 +3,7 @@ layout: ../../../layouts/Article.astro
 title: "Tại Sao Công giáo Bị Cho Là Tôn Giáo Của Tây -Thực Dân?"
 author: "Hiên Trần"
 date: 2026-05-05
-source: "https://sachhiem.net/TONGIAO/FB/FBHienTran_06.php"
+source: "/TONGIAO/FB/FBHienTran_06"
 category: "Tác giả"
 lang: vi
 wordCount: 1793

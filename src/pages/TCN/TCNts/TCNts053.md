@@ -3,7 +3,7 @@ layout: ../../../layouts/Article.astro
 title: "Chuyện Phịa Thời Sự:"
 author: "Trần Chung Ngọc"
 date: 2012-03-03
-source: "https://sachhiem.net/index.php?content=showrecipe&id=5238"
+source: "/TCN/TCNts/TCNts053"
 category: "Chính trị"
 lang: vi
 wordCount: 4101
@@ -211,7 +211,7 @@ image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/THOISU_CT/Hinh/NHANV
           Lies, lies and more lies.]</span></p>
         <p> Một bài sặc mùi cuồng tín ngu đạo Ki Tô như trên có thể là của
           bà Julia Gillard nói được không.&nbsp; Câu trả lời nằm trong thông tin sau
-          đây trên <a href="https://sachhiem.net/DOITHOAI/NguyenHuuBa01.php">sachhiem.net </a>của
+          đây trên <a href="/DOITHOAI/NguyenHuuBa01">sachhiem.net </a>của
           Nguyễn Hữu Ba (https://sachhiem.net/DOITHOAI/NguyenHuuBa01.php) ngày 25 tháng 2, 2012:</p>
         <table border="0" cellpadding="0">
           <tbody><tr>

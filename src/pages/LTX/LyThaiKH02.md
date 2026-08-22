@@ -2,7 +2,7 @@
 layout: ../../layouts/Article.astro
 title: "Những Trụ Ánh Sáng Khác Thường Trên Thành Phố Latvia"
 author: "Lý Thái Xuân sưu tầm"
-source: "https://sachhiem.net/LTX/LyThaiKH02.php"
+source: "/LTX/LyThaiKH02"
 category: "Khoa học"
 lang: vi
 wordCount: 265

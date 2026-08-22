@@ -3,7 +3,7 @@ layout: ../../../layouts/Article.astro
 title: "Chuyện Thần Tượng, Ái Mộ Lãnh Tụ, Tôn Thờ Anh Hùng hay Giáo Chủ?"
 author: "Trần Quang Diệu"
 date: 2015-02-22
-source: "https://sachhiem.net/LICHSU/TR/TQD40.php"
+source: "/LICHSU/TR/TQD40"
 category: "Đối thoại"
 lang: vi
 wordCount: 2372
@@ -30,7 +30,7 @@ image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/SACHNGOAI/Hinhanh/BI
 <p>
   GS Trần Chung Ngọc không  là CS, tôi, Trần Quang Diệu cũng không hề có tư cách gì đối với đảng CSVN trong  suốt thời kỳ chiến tranh cho đến hôm nay. Tại đấy, khi nhận xét về con người Bùi  Tín, nếu là thời phong kiến, thì sau khi khai thác xong, lân quốc mà Bùi Tín “phản  Chúa” quy hàng, họ sẽ mang Bùi Tín ra chém đầu ngay tức khắc chứ đố dám sử dụng. </p>
 <p>
-  Còn chuyện “vinh danh”  lãnh tụ, tâng bốc quá đáng về lãnh tụ của mình như thế nào ấy v.v… đối với các thủ  đoạn tuyên truyền chính trị thì cũng đâu ai lấy làm lạ? Có điều, tôi thắc mắc là  trong khi ông Bùi Tín chê ông Trần Chung Ngọc về bài  VÀI NÉT VỀ “CỤ HỒ”: <a href="https://www.sachhiem.net/TCN/TCNls/TCNls04.php" target="_blank">https://www.sachhiem.net/TCN/TCNls/TCNls04.php</a> </p>
+  Còn chuyện “vinh danh”  lãnh tụ, tâng bốc quá đáng về lãnh tụ của mình như thế nào ấy v.v… đối với các thủ  đoạn tuyên truyền chính trị thì cũng đâu ai lấy làm lạ? Có điều, tôi thắc mắc là  trong khi ông Bùi Tín chê ông Trần Chung Ngọc về bài  VÀI NÉT VỀ “CỤ HỒ”: <a href="/TCN/TCNls/TCNls04" target="_blank">https://www.sachhiem.net/TCN/TCNls/TCNls04.php</a> </p>
 <p>
   Thì ông lại chẳng đưa ra được số tài liệu nào cho  cân xứng với cả đống tài liệu mà GS Ngọc đưa ra. Vậy mà cũng đòi chê. (Xem Bùi  Tín ,"Tôi thưa  Bác Hồ" <a href="https://m.voatiengviet.com/a/toi-thua-bac-ho/1603133.html" target="_blank" title="https://m.voatiengviet.com/a/toi-thua-bac-ho/1603133.html">https://m.voatiengviet.com/a/toi-thua-bac-ho/1603133.html</a> đăng  ngày 14.02.2013  ) </p>
 <p>Ông Bùi  Tín chỉ mới chạy ra từ Đảng Cộng Sản VN, vội vã mua chuộc những người trong chế  độ miền Nam cũ bằng cách hạ giá Bác Hồ của ông. Đó là vì ông chưa được sống trong  lòng chế độ miền Nam. Tôi tin chắc một điều bây giờ ông không dám nhìn lại những  gì ông đã nói đã làm. </p>
@@ -54,13 +54,13 @@ image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/SACHNGOAI/Hinhanh/BI
 <p class="TuaDenLeft">Thử xét xem 
   Chúa có “lòng lành”  không? </p>
 <p>
-  Tôi chưa nói đến các thảm  họa thiên tai như địa chấn, núi lửa, sóng thần, cuồng phong, lũ lụt, hạn hán và  các thứ dịch bệnh mà “Chúa toàn năng” đã gây ra cho con người. Chúa “lòng lành”,  phải chịu trách nhiệm. Tôi xin hỏi các vị “con Chúa” rằng “Chúa lòng lành vô cùng”  cái kiểu gì mà lại có thể đe dọa giết người ngay trước mặt nếu những ai không  chịu sự cai trị bởi “Chúa lòng lành” (<a href="https://sachhiem.net/TCN/TCNtg/Giesu/Giesulaai6.php">Luke 19:27</a>)? Rồi Chúa cũng đòi “trét phân lên mặt” người  ta (<a href="https://superstitionfree.blogspot.com/2010/01/malachi-madness.html">Ma-la-chi 2:3</a>) nếu họ không chịu làm sáng danh “Chúa lòng lành” ấy (<a href="https://sachhiem.net/TONGIAO/tgB/BuiThucDinh.php" target="_blank">https://sachhiem.net/TONGIAO/tgB/BuiThucDinh.php</a>?) </p>
+  Tôi chưa nói đến các thảm  họa thiên tai như địa chấn, núi lửa, sóng thần, cuồng phong, lũ lụt, hạn hán và  các thứ dịch bệnh mà “Chúa toàn năng” đã gây ra cho con người. Chúa “lòng lành”,  phải chịu trách nhiệm. Tôi xin hỏi các vị “con Chúa” rằng “Chúa lòng lành vô cùng”  cái kiểu gì mà lại có thể đe dọa giết người ngay trước mặt nếu những ai không  chịu sự cai trị bởi “Chúa lòng lành” (<a href="/TCN/TCNtg/Giesu/Giesulaai6">Luke 19:27</a>)? Rồi Chúa cũng đòi “trét phân lên mặt” người  ta (<a href="https://superstitionfree.blogspot.com/2010/01/malachi-madness.html">Ma-la-chi 2:3</a>) nếu họ không chịu làm sáng danh “Chúa lòng lành” ấy (<a href="/TONGIAO/tgB/BuiThucDinh" target="_blank">https://sachhiem.net/TONGIAO/tgB/BuiThucDinh.php</a>?) </p>
 <p align="center"><img src="https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/TONGIAO/IMG/BIBLE/LUKE19-27a.jpg" width="300" height="289"><img src="https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/TONGIAO/IMG/BIBLE/LUKE19-27.jpg" width="300" height="288"></p>
 <p align="center">Ảnh<a href="https://www.thegodmurders.com/Luke%2019:27%20.html"> https://www.thegodmurders.com/Luke%2019:27%20.html</a></p>
 <p>
   Làm sao có thể nói được  là “Thiên Chúa lòng lành vô cùng” khi ông tỏ ra cực kỳ bất công, phản nhân quyền  - nguyền rủa và hành hạ phụ nữ trong những khi thai nghén, thậm chí đến tận loài  bò sát cũng không tha: <a href="https://tongiaovadantoc.com/c1049/20110601095759625/toi-doc-kinh-thanh.htm" target="_blank">https://tongiaovadantoc.com/c1049/20110601095759625/toi-doc-kinh-thanh.htm</a> ? </p>
 <p>
-  Làm sao có thể nói được  là “Thiên Chúa lòng lành vô cùng” khi ông “Chúa” (chổm?) ấy tham lam nhục dục lẫn  của cải, súc vật đến độ bất công kinh khủng là hướng dẫn, ra lịnh, hỗ trợ “quyền  năng” cho tay chân, “con cái” của mình động binh xâm lăng, càn quét, giết người,  cướp của, cướp cả gái trinh rồi “đóng thuế” cho ông ta 32 cô - nhiều dữ vậy chứ  hả? (<a href="https://sachhiem.net/index.php?content=showrecipe&amp;id=5614" target="_blank">https://sachhiem.net/index.php?content=showrecipe&amp;id=5614</a><u>)</u> ! </p>
+  Làm sao có thể nói được  là “Thiên Chúa lòng lành vô cùng” khi ông “Chúa” (chổm?) ấy tham lam nhục dục lẫn  của cải, súc vật đến độ bất công kinh khủng là hướng dẫn, ra lịnh, hỗ trợ “quyền  năng” cho tay chân, “con cái” của mình động binh xâm lăng, càn quét, giết người,  cướp của, cướp cả gái trinh rồi “đóng thuế” cho ông ta 32 cô - nhiều dữ vậy chứ  hả? (<a href="/LICHSU/TR/TQD24_TNTL" target="_blank">https://sachhiem.net/index.php?content=showrecipe&amp;id=5614</a><u>)</u> ! </p>
 <p>Từ những "lời răn"  mang đầy ám chất đe dọa con người, hung dữ đòi đạp đổ bàn thờ của những phong tục  khác, đạo giáo khác... như thế mà trải dài hàng nghìn năm có những con người cuồng  tín lại cứ cho đó là "Kinh Thánh", là "Thiên Chúa lòng lành vô cùng"? </p>
 <p>Ngay tại Việt Nam, đạo  Phật cũng không tránh khỏi thái độ hung hiểm mà vị Chúa ác ôn thường hay phẫn nộ  như ta thường thấy ở Kinh Thánh, ông tu sĩ Dòng Tên râu rậm Đắc Lộ khi vào nước  ta "rao giảng tin mừng" cũng thể hiện đúng y khí chất "lòng lành  vô cùng", là "tông truyền", là "thánh thiện” cho nên ông ta  cũng nỗ lực cổ võ (cùng với những ai?) là "chém thằng Thích Ca cho ngã với"  (Bài giảng thứ 4 trong "Phép Giảng 8 Ngày Của Giáo Sĩ Đắc Lộ") ? </p>
 <p>Vậy Ngài Thích Ca Mâu  Ni đã dạy những gì, hướng dẫn con người như thế nào mà ông giáo sỹ râu rậm Đắc Lộ  của "<i>Thiên Chúa lòng lành vô cùng</i>"&nbsp; cộc cằn đòi "chém cho ngã" dữ vậy:</p>
@@ -86,7 +86,7 @@ image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/SACHNGOAI/Hinhanh/BI
 <p>
   - Một Ngàn Năm Tàn Sát  Man Rợ Nhân Danh Chúa: </p>
 <p>
-  <a href="https://www.sachhiem.net/TONGIAO/tgTH/ThuongDuc.php" target="_blank">https://www.sachhiem.net/TONGIAO/tgTH/ThuongDuc.php</a> </p>
+  <a href="/TONGIAO/tgTH/ThuongDuc" target="_blank">https://www.sachhiem.net/TONGIAO/tgTH/ThuongDuc.php</a> </p>
 <p>
   - “Tông truyền” và “Thánh  thiện” về việc trả thù xác chết: </p>
 <p>
@@ -94,16 +94,16 @@ image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/SACHNGOAI/Hinhanh/BI
 <p>
   - Đây, Những Đức Thánh  Cha - Niềm Hãnh Diện Của Các Con Chiên: </p>
 <p>
-  <a href="https://www.sachhiem.net/index.php?content=showrecipe&amp;id=5744" target="_blank">https://www.sachhiem.net/index.php?content=showrecipe&amp;id=5744</a> </p>
+  <a href="/TONGIAO/tgN/NguyenHBa07" target="_blank">https://www.sachhiem.net/index.php?content=showrecipe&amp;id=5744</a> </p>
 <p>
   Ca-Tô Giáo Là Một Hiểm  Họa: </p>
 <p>
-  <a href="https://www.sachhiem.net/index.php?content=showrecipe&amp;id=6158" target="_blank">https://www.sachhiem.net/index.php?content=showrecipe&amp;id=6158</a> </p>
+  <a href="/TONGIAO/tgD/Duyensinh08" target="_blank">https://www.sachhiem.net/index.php?content=showrecipe&amp;id=6158</a> </p>
 <p>  - v.v…</p>
 <p>
   Tại các diễn đàn, có người  mới, có người cũ, người thì đã biết, người thì chưa gặp. Cho nên, những khi thích  hợp, chúng tôi cần phải chuyển chia sẻ trở lại những dữ kiện như trên là chuyện bình thường. </p>
 <p class="TuaDenLeft">Tóm lại, </p>
-<p>Xuyên qua quá trình lịch  sử, là người dân Việt, người thì ca tụng  lãnh tụ đã giành lại độc lập &nbsp;cho nước nhà như ca tụng “Cụ Hồ”, ông "Võ Nguyên Giáp", ..., người lại chỉ lo ca  tụng Chúa, và những Việt gian theo ngoại bang để giết các nghĩa quân của ta,  như &nbsp;tâng bốc Cụ Sáu Trần Lục  (xem <a href="https://sachhiem.net/LICHSU/N/NguyenNgocQuy.php" target="_blank">https://sachhiem.net/LICHSU/N/NguyenNgocQuy.php</a>). </p>
+<p>Xuyên qua quá trình lịch  sử, là người dân Việt, người thì ca tụng  lãnh tụ đã giành lại độc lập &nbsp;cho nước nhà như ca tụng “Cụ Hồ”, ông "Võ Nguyên Giáp", ..., người lại chỉ lo ca  tụng Chúa, và những Việt gian theo ngoại bang để giết các nghĩa quân của ta,  như &nbsp;tâng bốc Cụ Sáu Trần Lục  (xem <a href="/LICHSU/N/NguyenNgocQuy" target="_blank">https://sachhiem.net/LICHSU/N/NguyenNgocQuy.php</a>). </p>
 <p>Vậy thì kẻ nào mới  đáng lên án?</p>
 <p class="TacgiaL">  Trần Quang Diệu </p>
 <p>__________________</p>

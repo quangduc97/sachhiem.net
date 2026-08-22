@@ -3,7 +3,7 @@ layout: ../../layouts/Article.astro
 title: "Việc Giáo Hoàng Tuyên Bố Phải Giữ Bí Mật Cuộc Điều Tra Vụ Rò Rỉ Của Vatican"
 author: "By Erin McClam/ NBC News"
 date: 2013-02-27
-source: "https://sachhiem.net/TTL/TranTL40.php"
+source: "/TTL/TranTL40"
 category: "Tác giả"
 lang: vi
 wordCount: 608

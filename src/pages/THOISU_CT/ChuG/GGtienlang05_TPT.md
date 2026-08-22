@@ -3,7 +3,7 @@ layout: ../../../layouts/Article.astro
 title: "Câu Chuyện Chưa Kể Về Tạ Phong Tần"
 author: "GGTienLang"
 date: 2015-09-22
-source: "https://sachhiem.net/THOISU_CT/ChuG/GGtienlang05_TPT.php"
+source: "/THOISU_CT/ChuG/GGtienlang05_TPT"
 category: "Chính trị"
 lang: vi
 wordCount: 5399

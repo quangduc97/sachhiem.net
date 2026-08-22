@@ -3,7 +3,7 @@ layout: ../../../layouts/Article.astro
 title: "Vài Nhận Xét Về Bài: Vài Cảm Nghĩ... của Tác Giả Hoàng Ngọc Hiển"
 author: "Việt Dân"
 date: 2016-11-26
-source: "https://sachhiem.net/THOISU_CT/ChuV/VietDan_ts1.php"
+source: "/THOISU_CT/ChuV/VietDan_ts1"
 category: "Chính trị"
 lang: vi
 wordCount: 1226

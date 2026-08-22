@@ -3,7 +3,7 @@ layout: ../../../layouts/Article.astro
 title: "Tự Diễn Biến 2 Lần"
 author: "Thiếu Long Texas"
 date: 2013-04-08
-source: "https://sachhiem.net/THOISU_CT/ChuTh/ThieuLong01.php"
+source: "/THOISU_CT/ChuTh/ThieuLong01"
 category: "Chính trị"
 lang: vi
 wordCount: 5384

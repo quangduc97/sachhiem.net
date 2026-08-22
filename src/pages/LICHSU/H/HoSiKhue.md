@@ -3,7 +3,7 @@ layout: ../../../layouts/Article.astro
 title: "Ngô Đình Diệm: Nước Bại Theo Một Người"
 author: "Hồ Sĩ Khuê"
 date: 2016-10-13
-source: "https://sachhiem.net/LICHSU/H/HoSiKhue.php"
+source: "/LICHSU/H/HoSiKhue"
 category: "Chính trị"
 lang: vi
 wordCount: 8710

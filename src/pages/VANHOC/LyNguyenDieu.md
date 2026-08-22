@@ -3,7 +3,7 @@ layout: ../../layouts/Article.astro
 title: "Sao Mai Sao Hôm"
 author: "Lý Nguyên Diệu"
 date: 2014-02-07
-source: "https://sachhiem.net/VANHOC/LyNguyenDieu.php"
+source: "/VANHOC/LyNguyenDieu"
 category: "Văn hóa"
 lang: vi
 wordCount: 2946
@@ -92,8 +92,8 @@ image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/VANHOC/Hinh/VANNHAN/
     <p><b>[1]</b> Nguồn: <i><a href="https://vi-vn.facebook.com/notes/giao-luu/phản-biện-bài-viết-của-gs-trần-chung-ngọc-về-bên-thắng-cuộc/388736127891971">
 https://vi-vn.facebook.com/notes/giao-luu/ phản-biện- bài-viết-của-gs-trần-chung-ngọc -về-bên-thắng-cuộc/ 388736127891971
 </a></i></p>
-    <p><b>[2]</b> Nguồn: <i><a href="https://sachhiem.net/TCN/TCNkh/TCNkh19.php">Khi Giáo Hoàng Nói Về Khoa Học </a></i></p>
-    <p><b>[3] </b>Nguồn: <i><a href="https://sachhiem.net/TCN/TCNtg/TCN114.php">Nói Với Những Người Ca-Tô Việt Nam</a></i></p>
-    <p><b>[4] </b>Nguồn: &nbsp;<i><a href="https://sachhiem.net/TCN/TCNts/TCNts27.php">Vài Nhận Định Khi Đọc Bài Phát Biểu Của Ông Ngô Quang Kiệt </a></i></p>
+    <p><b>[2]</b> Nguồn: <i><a href="/TCN/TCNkh/TCNkh19">Khi Giáo Hoàng Nói Về Khoa Học </a></i></p>
+    <p><b>[3] </b>Nguồn: <i><a href="/TCN/TCNtg/TCN114">Nói Với Những Người Ca-Tô Việt Nam</a></i></p>
+    <p><b>[4] </b>Nguồn: &nbsp;<i><a href="/TCN/TCNts/TCNts27">Vài Nhận Định Khi Đọc Bài Phát Biểu Của Ông Ngô Quang Kiệt </a></i></p>
         
 <p class="nguonL">NGUỒN: https://hoangnamgiao.blogspot.com/2014/02/sao-mai-sao-hom-ly-nguyen-dieu-cuoi-nam.html </p>

@@ -3,7 +3,7 @@ layout: ../../../layouts/Article.astro
 title: "Dậy Mà Đi Hỡi Đồng Bào Ơi -"
 author: "Youtube.com"
 date: 2014-07-08
-source: "https://sachhiem.net/THOISU_CT/SH/Vclip_chongTQ_Berlin.php"
+source: "/THOISU_CT/SH/Vclip_chongTQ_Berlin"
 category: "Tác giả"
 lang: vi
 wordCount: 180

@@ -3,7 +3,7 @@ layout: ../../layouts/Article.astro
 title: "Thế Hệ Của Cha Không Ngán Thằng Nào!"
 author: "Chú Tư Cang/SH ghi"
 date: 2026-01-09
-source: "https://sachhiem.net/LTX/LyThaiLS14.php"
+source: "/LTX/LyThaiLS14"
 category: "Lịch sử"
 lang: vi
 wordCount: 931

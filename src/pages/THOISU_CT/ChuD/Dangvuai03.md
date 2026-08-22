@@ -3,7 +3,7 @@ layout: ../../../layouts/Article.astro
 title: "Tình Dân Tộc Người Ta !"
 author: "Bác sĩ Đặng Vũ Ái"
 date: 2014-07-18
-source: "https://sachhiem.net/THOISU_CT/ChuD/Dangvuai03.php"
+source: "/THOISU_CT/ChuD/Dangvuai03"
 category: "Chính trị"
 lang: vi
 wordCount: 2992
@@ -129,6 +129,6 @@ image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/LICHSU/IMG/TRGHOA/Lu
   <p class="nguonL">Nguồn: Tác giả gửi ngày Thu, Jul 17, 2014 12:15 pm </p>
 <p>_________________</p>
 <p><b>Bài khác của BS Đặng Vũ Ái</b></p>
-<p>- <a href="https://sachhiem.net/THOISU_CT/ChuD/Dangvuai01.php">Không Thể Chấp Nhận Những Luận Cứ Bênh Vực "Ngài Phản Quốc" Hoàng Quỳnh </a></p>
-<p>- <a href="https://sachhiem.net/THOISU_CT/ChuD/Dangvuai02.php">Những Mệnh Đề Rời - Cho Một Việt Nam Đoàn Kết</a></p>
-<p>- <a href="https://sachhiem.net/THOISU_CT/ChuD/Dangvuai03.php">Tình Dân Tộc Người Ta! - Góp Nhặt Đó Đây Trên Thế Giới</a></p>
+<p>- <a href="/THOISU_CT/ChuD/Dangvuai01">Không Thể Chấp Nhận Những Luận Cứ Bênh Vực "Ngài Phản Quốc" Hoàng Quỳnh </a></p>
+<p>- <a href="/THOISU_CT/ChuD/Dangvuai02">Những Mệnh Đề Rời - Cho Một Việt Nam Đoàn Kết</a></p>
+<p>- <a href="/THOISU_CT/ChuD/Dangvuai03">Tình Dân Tộc Người Ta! - Góp Nhặt Đó Đây Trên Thế Giới</a></p>

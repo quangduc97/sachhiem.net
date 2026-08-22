@@ -3,7 +3,7 @@ layout: ../../layouts/Article.astro
 title: "Tổng Bí thư Lê Duẩn với danh họa Lê Bá Đảng"
 author: "Bút ký - Nguyễn Hoàn"
 date: 2022-01-12
-source: "https://sachhiem.net/NGHOAN/NgHoanLS3.php"
+source: "/NGHOAN/NgHoanLS3"
 category: "Lịch sử"
 lang: vi
 wordCount: 4269

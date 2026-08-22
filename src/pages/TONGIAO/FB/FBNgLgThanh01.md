@@ -3,7 +3,7 @@ layout: ../../../layouts/Article.astro
 title: "Giáo Hội Công Giáo Lại Phải Nghĩ Đến Vấn Đề “Mất Đức Tin”"
 author: "Rosie Dawson /RNS"
 date: 2019-03-11
-source: "https://sachhiem.net/TONGIAO/FB/FBNgLgThanh01.php"
+source: "/TONGIAO/FB/FBNgLgThanh01"
 category: "Chính trị"
 lang: vi
 wordCount: 2076

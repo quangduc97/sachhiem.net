@@ -3,7 +3,7 @@ layout: ../../../layouts/Article.astro
 title: "Thư Gửi Quan Toàn Quyền Đông Dương Hà Nội"
 author: "Của Vua Thành Thái"
 date: 2015-10-24
-source: "https://sachhiem.net/LICHSU/T/ThanhThai.php"
+source: "/LICHSU/T/ThanhThai"
 category: "Chính trị"
 lang: vi
 wordCount: 746
@@ -27,7 +27,7 @@ image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/NMQ/IMG/Vua_Thanh_Th
    <p>Trich  từ trang 681-682, Chương 19, sách Thực Chất Của Giáo Hội La Mã – Quyển Hai  (Tacoma, WA: TXB., 1999) của tác giả Nguyễn Mạnh Quang. </p>
   <p> ____________________</p>
   <p><b>Nhận xét:</b></p>
-  <p>Dù làm một Vua bù nhìn đi nữa, nhưng nếu Vua Thành Thái có chút lòng yêu nước thì đã không thể dùng những lời lẽ làm nhục quốc thể đến như thế. Tập sách Chân Dung <a href="https://sachhiem.net/NMQ/ChanDungVNCH/QMN04.php">"Người Việt Quốc Gia" Và Lá Cờ Vàng Ba Sọc Đỏ" (Nguyễn Mạnh Quang)</a> có tóm lược lý do Vua Thành Thái bị Pháp truất như sau:</p>
+  <p>Dù làm một Vua bù nhìn đi nữa, nhưng nếu Vua Thành Thái có chút lòng yêu nước thì đã không thể dùng những lời lẽ làm nhục quốc thể đến như thế. Tập sách Chân Dung <a href="/NMQ/ChanDungVNCH/QMN04">"Người Việt Quốc Gia" Và Lá Cờ Vàng Ba Sọc Đỏ" (Nguyễn Mạnh Quang)</a> có tóm lược lý do Vua Thành Thái bị Pháp truất như sau:</p>
   <div class="indentLR50">
     <p><b><i>Về chuyện ông vua  Thành Thái chống Pháp, nếu có, thì chắc  chắn chống Pháp cho Vatican</i></b><i> như sẽ trình bày trong phần sau. Vua Thành Thái đã  bị Vatican lợi dụng qua sự móc nối của ông Ca-tô Ngô Đình Khả, giống như Đảng  Việt Nam Quang Phục (còn gọi là Đại Việt Phục Hưng Hội) của Hoàng Thân Cường Để  và ông Ca-tô Ngô Đình Diệm (sẽ được trình bày ở dưới).</i></p>
     <p><i>Cũng  nên biết, Pháp và Vatican tuy rằng đã cấu kết với nhau thành một Liên Minh Xâm  Lược Pháp – Vatican cùng đánh chiếm và cùng thống trị Đông Dương, nhưng hai thế  lực này là những kẻ đồng sàng và dị mộng, luôn luôn hục hặc với nhau và muốn  hất cẳng nhau để nắm độc quyền cai trị Đông Dương. Sự kiện này được sử gia Vũ  Ngự Chiêu ghi nhận trong bài viết <a href="https://hopluu.net/a166/vu-ngu-chieu-su-hinh-thanh-phong-trao-quoc-gia-moi-tu-trung-quan-sang-ai-quoc">Sự Hình Thành Phong Trào Quốc Gia Mới: Từ  Trung Quân Đến Ái Quốc</a> (tiểu mục C: Sự Chuyển Hướng Của Hội Truyền Giáo)</i></p>

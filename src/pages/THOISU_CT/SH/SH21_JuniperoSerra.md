@@ -3,7 +3,7 @@ layout: ../../../layouts/Article.astro
 title: "Tượng Linh Mục Junipero Serra Trên Đường Olvera, LA Bị Kéo Đổ"
 author: "Bản Tin LA, CA"
 date: 2020-06-21
-source: "https://sachhiem.net/THOISU_CT/SH/SH21_JuniperoSerra.php"
+source: "/THOISU_CT/SH/SH21_JuniperoSerra"
 category: "Chính trị"
 lang: vi
 wordCount: 441
@@ -25,7 +25,7 @@ image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/TONGIAO/IMG/PHONGTHA
 
   <p>____________</p>
 <p><b>Bài đọc thêm:</b></p>
-<p>- <a href="https://sachhiem.net/TONGIAO/FB/FBMathieuLeAnh.php">Tượng Đài Nhà Truyền Giáo Junipero Serra Tại Mỹ Bị Giựt Sụp Là Ai?</a> (FB Mathieu Lê Anh) </p>
+<p>- <a href="/TONGIAO/FB/FBMathieuLeAnh">Tượng Đài Nhà Truyền Giáo Junipero Serra Tại Mỹ Bị Giựt Sụp Là Ai?</a> (FB Mathieu Lê Anh) </p>
 
 <a href="/indexCT">
 <p class="trang">Trang Thời Sự</p>

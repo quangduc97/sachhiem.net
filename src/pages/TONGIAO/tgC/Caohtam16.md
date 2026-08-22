@@ -3,7 +3,7 @@ layout: ../../../layouts/Article.astro
 title: "Bàn Về Tranh Luận và Đối Thoại"
 author: "Cao Hữu Tâm"
 date: 2014-06-03
-source: "https://sachhiem.net/TONGIAO/tgC/Caohtam16.php"
+source: "/TONGIAO/tgC/Caohtam16"
 category: "Tác giả"
 lang: vi
 wordCount: 5223

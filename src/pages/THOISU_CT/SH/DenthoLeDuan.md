@@ -3,7 +3,7 @@ layout: ../../../layouts/Article.astro
 title: "Về Bức Ảnh Mạo Hóa Cổng Đền Thờ Lê Duẩn"
 author: "BBT SH"
 date: 2017-07-11
-source: "https://sachhiem.net/THOISU_CT/SH/DenthoLeDuan.php"
+source: "/THOISU_CT/SH/DenthoLeDuan"
 category: "Chính trị"
 lang: vi
 wordCount: 1656
@@ -86,7 +86,7 @@ Chào quý vị,&nbsp; </p>
 <p>Chúng tôi chỉ góp ý bấy nhiêu, vui lòng miễn tranh luận. (<a href="https://truclamyentu.info/" target="_blank">https://truclamyentu.info</a>) </p>
 <p>----------------------</p>
 <p>[* <b>Chú thích của SH:</b></p>
-<p>Trang mạng <a href="https://truclamyentu.info/" target="_blank">https://truclamyentu.info</a> trong thư trên đây là một trong những trang dùng tên giả mạo để thu hút tín đồ Phật giáo vào nghe họ tuyên truyền nhảm nhí bịa đặt. Chúng tôi đã có cơ hội đề cập đến việc này ở các bài: <a href="https://sachhiem.net/index.php?content=showemail&amp;id=642">"Cảnh báo các Phật tử về các trang mạng lấy tên có vẻ như của Phật giáo"</a>, <a href="https://sachhiem.net/TONGIAO/tgT/Tamdieu04.php">THÔNG CÁO BÁO CHÍ về việc nhiễu loạn thông tin,...</a>]</p>
+<p>Trang mạng <a href="https://truclamyentu.info/" target="_blank">https://truclamyentu.info</a> trong thư trên đây là một trong những trang dùng tên giả mạo để thu hút tín đồ Phật giáo vào nghe họ tuyên truyền nhảm nhí bịa đặt. Chúng tôi đã có cơ hội đề cập đến việc này ở các bài: <a href="/net/EMAILS/Thanthanh">"Cảnh báo các Phật tử về các trang mạng lấy tên có vẻ như của Phật giáo"</a>, <a href="/TONGIAO/tgT/Tamdieu04">THÔNG CÁO BÁO CHÍ về việc nhiễu loạn thông tin,...</a>]</p>
 <p>________________________</p>
 <p>Subject: Cổng đền thờ Lê Duẩn <br>
     From: &lt;sachhiem@sachhiem.net&gt; <br>

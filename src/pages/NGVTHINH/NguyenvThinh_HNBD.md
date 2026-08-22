@@ -3,7 +3,7 @@ layout: ../../layouts/Article.astro
 title: "HÀ NỘI BỂ DÂU"
 author: "BS Nguyễn Văn Thịnh"
 date: 2017-11-11
-source: "https://sachhiem.net/NGVTHINH/NguyenvThinh_HNBD.php"
+source: "/NGVTHINH/NguyenvThinh_HNBD"
 category: "Văn hóa"
 lang: vi
 wordCount: 9589

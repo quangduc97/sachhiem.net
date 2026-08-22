@@ -3,7 +3,7 @@ layout: ../../layouts/Article.astro
 title: "Cuộc gọi điện thoại chúc mừng những người bạn đã bầu cho Trump"
 author: "Lý Thái"
 date: 2016-11-09
-source: "https://sachhiem.net/LTX/LyThaiTS16.php"
+source: "/LTX/LyThaiTS16"
 category: "Chính trị"
 lang: vi
 wordCount: 1628
@@ -39,7 +39,7 @@ image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/PEOPLE/Callin
   <p align="center"><img src="https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/LICHSU/IMG/HoaKy/kennedys-assass-dallas.jpg" width="350" height="251" alt=""></p>
   <p align="center"><i>Cố Tổng Thống Kennedy lúc bị bắn sẻ</i></p>
   <p>Chuyện cố Tổng Thống Kennedy bị ám sát oan nghiệt và thương tâm như ta đã biết, trong khi ông và cả gia đình ông không có điều gì làm lỗi đối với quốc gia Hoa kỳ, nhưng đã không hề có một người đạo Ca-tô La Mã nào làm giỗ cho ông riêng biệt, hay ôm mộng báo thù ai cả. Ngay cả dòng họ Kennedy cũng không ai làm giỗ phô trương cho ông hàng năm cả. </p>
-  <p>Còn cố Tổng Thống Ngô Đình Diệm là người <a href="https://sachhiem.net/index.php?content=showrecipe&amp;id=6771"> có tội đối với tổ quốc và dân tộc Việt Nam</a> như lịch sử <a href="https://sachhiem.net/LICHSU/S/SH_NDD50nam.php">đã nói rất nhiều</a>, tại sao lại có một số người Việt Nam tìm mọi cách <i><b>"nhớ ơn ông đã bách hại các tôn giáo khác, và trả thù</b></i><b>"</b> cho ông ta. Đến nay đã hơn nửa thế kỷ rồi! Hơn nữa, ông Diệm lại <b>không phải do dân cử</b>, mà do chạy chọt, bám lấy thế lực tôn giáo để được làm tổng thống, làm sao sánh được với Kennedy và nước Mỹ. Thế mà..., <b>có ai đến chết mà còn thù truyền kiếp như thế không?</b></p>
+  <p>Còn cố Tổng Thống Ngô Đình Diệm là người <a href="/LICHSU/H/HoSiKhue"> có tội đối với tổ quốc và dân tộc Việt Nam</a> như lịch sử <a href="/LICHSU/S/SH_NDD50nam">đã nói rất nhiều</a>, tại sao lại có một số người Việt Nam tìm mọi cách <i><b>"nhớ ơn ông đã bách hại các tôn giáo khác, và trả thù</b></i><b>"</b> cho ông ta. Đến nay đã hơn nửa thế kỷ rồi! Hơn nữa, ông Diệm lại <b>không phải do dân cử</b>, mà do chạy chọt, bám lấy thế lực tôn giáo để được làm tổng thống, làm sao sánh được với Kennedy và nước Mỹ. Thế mà..., <b>có ai đến chết mà còn thù truyền kiếp như thế không?</b></p>
   <p align="center"><img src="https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/LICHSU/IMG/NGODD/gioNDD_tuongdaiVM2012.jpg" width="320" height="289" alt=""></p>
   <p align="center"><i>Một nhóm người nuôi hận cho Ngô Đình Diệm, đòi đổi lại lịch sử.</i></p>
   <p>Những người này đã "làm nư" với lịch sử dân tộc, <b>gieo oán hờn triền miên,</b> càng ngày càng tô đậm sự oán thù, và mỗi năm lại bóp méo lịch sử để <b>biến ông ta từ một tội đồ dân tộc</b> ra một người thánh thiện! Tôi lạnh người nghĩ đến sự ích kỷ, và hèn hạ, và hung hãn của một bộ phận người Việt chúng ta.</p>

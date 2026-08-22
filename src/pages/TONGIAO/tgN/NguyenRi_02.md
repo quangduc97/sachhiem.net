@@ -3,7 +3,6 @@ layout: ../../../layouts/Article.astro
 title: "Stephen Hawking Nói 'Không Có Thượng Đế,'"
 author: "Dominique Mosbergen/ Nguyễn Ri dịch"
 date: 2014-09-26
-source: "https://sachhiem.net/index.php?content=showrecipe&id=6139"
 category: "Tác giả"
 lang: vi
 wordCount: 446

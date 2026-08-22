@@ -2,7 +2,7 @@
 layout: ../../layouts/Article.astro
 title: "Ngày Xem \"Đừng Đốt\""
 author: "Lý Thái Xuân"
-source: "https://sachhiem.net/LTX/LyThai13.php"
+source: "/LTX/LyThai13"
 category: "Xã hội"
 lang: vi
 wordCount: 2213

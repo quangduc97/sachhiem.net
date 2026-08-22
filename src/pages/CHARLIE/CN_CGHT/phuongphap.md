@@ -2,13 +2,13 @@
 layout: ../../../layouts/Article.astro
 title: "Công Giáo Huyền Thoại và Tội Ác"
 author: "Charlie Nguyễn"
-source: "https://sachhiem.net/CHARLIE/CN_CGHT/daodothai.php"
+source: "/CHARLIE/CN_CGHT/daodothai"
 lang: vi
 wordCount: 3238
-image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nha.jpg"
+image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/CHARLIE/Pict/HistoricalJesus.jpg"
 ---
 
-<p align="center"><a href="/index"><img hspace="20" border="0" src="https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nha.jpg"></a><b><font face="Symbol" size="5"><a target="_top" href="/CHARLIE/CN_CGHT/CN_CGHTdir">¿</a></font></b> trở ra mục lục | 2007 </p>
+<p align="center"><b><font face="Symbol" size="5"><a target="_top" href="/CHARLIE/CN_CGHT/CN_CGHTdir">¿</a></font></b> trở ra mục lục | 2007 </p>
 <p class="TuaDoLeft">
 PHƯƠNG PHÁP 
 NGHIÊN CỨU LỊCH SỬ ĐỂ TRUY TẦM "JESUS THẬT"</p>

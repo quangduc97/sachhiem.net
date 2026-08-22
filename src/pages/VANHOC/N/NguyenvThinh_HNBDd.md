@@ -3,7 +3,7 @@ layout: ../../../layouts/Article.astro
 title: "HÀ NỘI BỂ DÂU"
 author: "BS Nguyễn Văn Thịnh"
 date: 2017-11-11
-source: "https://sachhiem.net/VANHOC/N/NguyenvThinh_HNBDd.php"
+source: "/VANHOC/N/NguyenvThinh_HNBDd"
 category: "Văn hóa"
 lang: vi
 wordCount: 7228
@@ -197,4 +197,4 @@ Cũng như tôi không thể nào quên em. </p>
 </center>
 
   
-<p>• Các bài của Nguyễn Văn Thịnh: link <a href="https://sachhiem.net/VANHOC/N/ListNVTh.inc.php" target="_blank">https://sachhiem.net/VANHOC/N/ListNVTh.inc.php</a></p>
+<p>• Các bài của Nguyễn Văn Thịnh: link <a href="/VANHOC/N/ListNVTh.inc" target="_blank">https://sachhiem.net/VANHOC/N/ListNVTh.inc.php</a></p>

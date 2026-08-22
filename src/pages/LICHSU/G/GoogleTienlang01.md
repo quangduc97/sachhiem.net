@@ -3,7 +3,7 @@ layout: ../../../layouts/Article.astro
 title: "Tại Sao Bộ Giáo Dục Chọn Ông Trùm Lật Sử Vũ Minh Giang"
 author: "GGTL/ Bùi Ngọc Trâm Anh"
 date: 2024-04-12
-source: "https://sachhiem.net/LICHSU/G/GoogleTienlang01.php"
+source: "/LICHSU/G/GoogleTienlang01"
 category: "Chính trị"
 lang: vi
 wordCount: 3053

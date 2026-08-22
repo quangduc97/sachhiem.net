@@ -3,7 +3,7 @@ layout: ../../../layouts/Article.astro
 title: "Công Giáo VN và Thượng Đế Theo Thánh Kinh"
 author: "Trần Trọng Sỹ"
 date: 2014-06-23
-source: "https://sachhiem.net/TTS/TG/TranTrongSy_b.php"
+source: "/TTS/TG/TranTrongSy_b"
 category: "Tác giả"
 lang: vi
 wordCount: 6158
@@ -151,4 +151,4 @@ image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/SACHNGOAI/Hinhanh/BI
   <p class="TacgiaL">Trần Trọng Sỹ  </p>
   <p class="nguonL">Nguồn: tác giả gửi</p>
   ___________________
-<p>Các bài của Trần Trọng Sỹ: link <a href="https://sachhiem.net/TTS/ListTTS.inc.php" target="_blank">https://sachhiem.net/TTS/ListTTS.inc.php</a></p>
+<p>Các bài của Trần Trọng Sỹ: link <a href="/TTS/ListTTS.inc" target="_blank">https://sachhiem.net/TTS/ListTTS.inc.php</a></p>

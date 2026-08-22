@@ -3,7 +3,7 @@ layout: ../../../layouts/Article.astro
 title: "Nhật Ký Biển Đông:"
 author: "Đào Văn Bình"
 date: 2014-06-15
-source: "https://sachhiem.net/DAOVB/CT/DaovBinh18.php"
+source: "/DAOVB/CT/DaovBinh18"
 category: "Chính trị"
 lang: vi
 wordCount: 3375
@@ -105,4 +105,4 @@ quan hệ tốt với láng  giềng</i>.” Thư khiếu nại còn nói, “<i
  <p><a name="nstar" href="/DAOVB/#star">(*)</a> <i>Câu này có từ thời Xuân Thu Chiến Quốc: Mình là nước nhỏ, gần một đại cường nếu nó đánh mình, dù có liên minh với một đại cường khác ở xa thì cũng chẳng cứu được vì “Nhà mình ở Thái Lan đang cháy nhưng xe cứu hỏa ở mãi tận bên Mỹ thì làm sao dập tắt được lửa đây?” </i></p>
  <p><a name="nstar2" href="/DAOVB/#star2">(**)</a> <i>Là lãnh đạo của một đất nước mà đi thị sát một tàu ngầm, hàng không mẫu hạm, xưởng đóng tầu chiến v.v... giống như Ô. Abe ngồi trên chiếc xe tăng tối tân của Nhật Bản rồi chụp hình cho cả thế giới biết…là dấu hiệu đất nước chuẩn bị đối đầu với một cường địch chứ chẳng phải chơi.</i> </p> 
  <p>____________________</p>
-   <p><a href="https://sachhiem.net/LICHSU/H/HoangSa_list.php">Các bài về Hoàng Sa- Trường Sa đăng trên sachhiem.net » </a></p>
+   <p><a href="/LICHSU/H/HoangSa_list">Các bài về Hoàng Sa- Trường Sa đăng trên sachhiem.net » </a></p>

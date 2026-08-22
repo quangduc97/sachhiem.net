@@ -3,7 +3,7 @@ layout: ../../../layouts/Article.astro
 title: "Tháng Đầu Tiên Của Nhiệm Kỳ Tổng Thống Donald Trump"
 author: "Linda Nguyễn"
 date: 2017-02-22
-source: "https://sachhiem.net/THOISU_CT/ChuL/LSMTung.php"
+source: "/THOISU_CT/ChuL/LSMTung"
 category: "Chính trị"
 lang: vi
 wordCount: 4515

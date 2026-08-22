@@ -2,11 +2,11 @@
 layout: ../../../layouts/Article.astro
 title: "Tổng lãnh sự Mỹ gốc Việt ra mắt tại TP.HCM"
 author: "Thụy Miên/Thanh Niên"
-source: "https://sachhiem.net/null"
+source: "/null"
 category: "Chính trị"
 lang: vi
 wordCount: 183
-image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nha.jpg"
+image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/Hinh/US-VN/DaisuMy_LeThanhAn.jpg"
 ---
 
 <div align="center" style="position: relative; left: 0; top: 0">
@@ -27,8 +27,7 @@ image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nha.jpg"
 	<div style="padding-left: 40px; padding-right: 40px">
 	
 		<table border="0" cellpadding="10" width="600" cols="2"><tbody><tr>
-		<td width="326"><a href="/index">
-		<img border="0" src="https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nha.jpg"></a></td>
+		<td width="326"></td>
 		<td valign="top">	28 tháng 8, 2010		</td></tr></tbody></table>
 		<pstyle="background: white"=""><b>&nbsp; </b>
 		

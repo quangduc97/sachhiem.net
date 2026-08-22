@@ -1,7 +1,7 @@
 ---
 layout: ../../../layouts/Article.astro
 title: "Tủ Sách của Tác Giả Charlie Nguyễn"
-source: "https://sachhiem.net/CHARLIE/CN_TCCG/CN_TCCGdir.php"
+source: "/CHARLIE/CN_TCCG/CN_TCCGdir"
 lang: vi
 wordCount: 131
 image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/CHARLIE/IMG/CGvaDaochua.jpg"

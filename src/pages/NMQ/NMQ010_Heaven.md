@@ -3,7 +3,7 @@ layout: ../../layouts/Article.astro
 title: "Giáo Hoàng John Paul II: Thiên Đàng và Hỏa Ngục"
 author: "Nguyễn Mạnh Quang"
 date: 2020-04-07
-source: "https://sachhiem.net/NMQ/NMQ010_H.php"
+source: "/NMQ/NMQ010_H"
 category: "Tác giả"
 lang: vi
 wordCount: 1583

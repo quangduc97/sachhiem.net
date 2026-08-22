@@ -2,7 +2,7 @@
 layout: ../../../layouts/Article.astro
 title: "Mừng 74 Năm Việt Nam Độc Lập 2 tháng 9, 2019"
 author: "SH sưu tập"
-source: "https://sachhiem.net/null"
+source: "/null"
 category: "Chính trị"
 lang: vi
 wordCount: 415

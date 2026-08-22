@@ -3,7 +3,7 @@ layout: ../../../layouts/Article.astro
 title: "Phản hồi bài \"Vì bản chất dân tộc Việt?\" của Lữ Giang"
 author: "Lữ Giang"
 date: 2012-01-29
-source: "https://sachhiem.net/XAHOI/xhL/Lugiangphanhoi.php"
+source: "/XAHOI/xhL/Lugiangphanhoi"
 category: "Xã hội"
 lang: vi
 wordCount: 2863
@@ -46,7 +46,7 @@ wordCount: 2863
             tâm lý những người đã quá "chán chường" những "người Việt ồn ào" ở
             quanh mình. (SH) </i></p>
         <hr>
-        <p><a href="https://sachhiem.net/XAHOI/xhL/Lugiang.php">Dẫn bài: <b>"Vì
+        <p><a href="/XAHOI/xhL/Lugiang">Dẫn bài: <b>"Vì
           bản chất dân tộc Việt?" </b>của Lữ Giang  </a></p>
         
 <p align="center">☞ &nbsp; ☞ &nbsp; ☞ &nbsp; ☞ &nbsp; ☞ &nbsp;</p>
@@ -221,7 +221,7 @@ wordCount: 2863
   <p><b>From:</b> Ba Nguyen [mailto:hbnguyen2005@yahoo.com.au] <br>
     <b>Sent:</b> Friday, January 27, 2012 8:53 PM<br>
     <b>To:</b> Lu Giang;<br>
-    <b>Subject:</b> Re:<a href="https://sachhiem.net/XAHOI/xhL/Lugiang.php"> Vì
+    <b>Subject:</b> Re:<a href="/XAHOI/xhL/Lugiang"> Vì
     bản chất dân tộc Việt?</a></p>
   <p> Xin cảm ơn ông Lữ Giang. Bài viết của ông rất thẳng thắn, trung thực. </p>
   <p> Trước đây, có lần tôi đã viết: (đại ý) “Ông lữ Giang là người có kiến thức

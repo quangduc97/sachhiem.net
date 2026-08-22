@@ -3,16 +3,15 @@ layout: ../../layouts/Article.astro
 title: "Mách Nước Cho Cờ Vàng"
 author: "Xích Lô Việt"
 date: 2012-12-03
-source: "https://sachhiem.net/XICHLOV/XichloViet011.php"
+source: "/XICHLOV/XichloViet011"
 category: "Đối thoại"
 lang: vi
 wordCount: 4595
-image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nha.jpg"
+image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/XICHLOV/IMG/nguguc.jpg"
 ---
 
 <table border="0" align="center" cellpadding="1" width="250"><tbody><tr>
-	<td width="234"><a href="https://www.sachhiem.net/">
-	<img border="0" src="https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nha.jpg"></a></td>
+	<td width="234"></td>
 <td valign="top" width="356">	</td></tr></tbody></table>
  <p><i>LTS: Có thể nói  không ngại quá lời đây là một bài học tuyệt vời nhất
      cho những người Việt hải ngoại vẫn còn nằm ngủ gục trong lớp khi  tất

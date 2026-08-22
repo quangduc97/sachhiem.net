@@ -3,7 +3,7 @@ layout: ../../../layouts/Article.astro
 title: "Chuyện Bầu Cử TT Hoa Kỳ và Vấn Đề Chủng Tộc -"
 author: "Dana Milbank/ Mike Wilson lược dịch"
 date: 2020-11-21
-source: "https://sachhiem.net/SACHNGOAI/M/MikeWilson_0.php"
+source: "/SACHNGOAI/M/MikeWilson_0"
 category: "Chính trị"
 lang: vi
 wordCount: 1694

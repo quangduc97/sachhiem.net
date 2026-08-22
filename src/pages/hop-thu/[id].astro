@@ -1,0 +1,60 @@
+---
+import BaseLayout from '../../layouts/BaseLayout.astro';
+import emails from '../../data/email.json';
+
+export function getStaticPaths() {
+  return emails.map((e) => ({
+    params: { id: e.table === 'email1' ? `e${e.id}` : String(e.id) },
+    props: { e },
+  }));
+}
+
+const { e } = Astro.props as { e: (typeof emails)[number] };
+
+const fmtDate = (iso?: string) =>
+  iso
+    ? new Date(`${iso}T12:00:00`).toLocaleDateString('vi-VN', {
+        day: 'numeric',
+        month: 'long',
+        year: 'numeric',
+      })
+    : '';
+---
+
+<BaseLayout title={e.title}>
+  <article class="article">
+    <p class="breadcrumb">
+      <a href="/">Trang chủ</a>
+      <span class="sep">/</span>
+      <a href="/hop-thu/">Hộp thư</a>
+      <span class="sep">/</span>
+      <span>{e.title.length > 60 ? `${e.title.slice(0, 60)}…` : e.title}</span>
+    </p>
+
+    <header class="article-header">
+      <p class="kicker">Hộp thư {e.table === 'email1' ? '— tiếng Anh' : ''}</p>
+      <h1>{e.title}</h1>
+      <div class="article-meta">
+        {e.author && <span class="author">{e.author}</span>}
+        {e.author && e.date && <span class="dot">•</span>}
+        {e.date && <span>{fmtDate(e.date)}</span>}
+      </div>
+    </header>
+
+    <div class="article-body">
+      <Fragment set:html={e.contentHtml ?? ''} />
+    </div>
+
+    {
+      e.articlePath && (
+        <p style="margin-top: 1.5rem;">
+          <a href={`/${String(e.articlePath).replace(/\.php$/i, '')}`}>→ Xem bài viết liên quan</a>
+        </p>
+      )
+    }
+
+    <div class="source-block">
+      <a href="/hop-thu/">← Về trang Hộp thư</a>
+    </div>
+  </article>
+</BaseLayout>

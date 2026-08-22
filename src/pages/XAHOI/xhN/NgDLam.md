@@ -3,7 +3,7 @@ layout: ../../../layouts/Article.astro
 title: "Nguyễn Chí Thiện Bị Cướp Xác"
 author: "Nguyễn Đăng Lâm (sưu tập)"
 date: 2012-10-11
-source: "https://sachhiem.net/XAHOI/xhN/NgDLam.php"
+source: "/XAHOI/xhN/NgDLam"
 category: "Tác giả"
 lang: vi
 wordCount: 4498
@@ -215,7 +215,7 @@ image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/XAHOI/IMG/DanhNhan/N
    <p class="TacgiaL">Nguyễn Đăng Lâm</p>
    
    <p><b>Phản hồi của độc giả:</b></p>
-   <p><a href="https://sachhiem.org/index.php?content=showemail&amp;id=159">https://sachhiem.org/index.php?content=showemail&amp;id=159</a></p>
+   <p><a href="/org/XAHOI/xhN/NgDLam">https://sachhiem.org/index.php?content=showemail&amp;id=159</a></p>
    <p><img src="https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/DECOR/gold_line.png" width="100%" height="3"></p>
    <p class="TuaDenLeft">Mời đọc các bài liên hệ đến việc cải đạo: </p>
    
@@ -286,7 +286,7 @@ image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/XAHOI/IMG/DanhNhan/N
      Lời Chia Sẻ Về Vấn Đề Hôn Nhân Khác Tôn Giáo (Minh Ngọc)</a> </p>
 <p>● <a href="/TONGIAO/tgM/MinhThanh04">“Lập
      lờ đánh lận”… ông trời! (Minh Thạnh)</a> </p>
-<p>● <a href="https://sachhiem.net/TONGIAO/tgN/NgHDuc.php">Phật
+<p>● <a href="/TONGIAO/tgN/NgHDuc">Phật
      Tử Không Bao Giờ Được Nói Câu "Đạo Nào Cũng Tốt" (Nguyễn Hữu Đức)</a></p>
-<p>● <a href="https://sachhiem.net/TONGIAO/tgN/NgHDuc.php">Nguyễn Chí Thiện Bị Cướp Xác  (Nguyễn Đăng Lâm)</a></p>
+<p>● <a href="/TONGIAO/tgN/NgHDuc">Nguyễn Chí Thiện Bị Cướp Xác  (Nguyễn Đăng Lâm)</a></p>
 <hr>

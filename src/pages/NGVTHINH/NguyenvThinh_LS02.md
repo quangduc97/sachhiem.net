@@ -2,14 +2,14 @@
 layout: ../../layouts/Article.astro
 title: "Về Con Người Trương Vĩnh Ký"
 author: "BS Nguyễn Văn Thịnh"
-source: "https://sachhiem.net/NGVTHINH/NguyenvThinh_LS02.php"
+source: "/NGVTHINH/NguyenvThinh_LS02"
 category: "Chính trị"
 lang: vi
 wordCount: 5506
-image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nha.jpg"
+image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/LICHSU/IMG/NHANVAT/TruongVinhKy_VG.jpg"
 ---
 
-<p align="center"><a href="https://www.sachhiem.net/"> <img border="0" src="https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nha.jpg"></a> 05 Apr 2016</p>
+<p align="center"> 05 Apr 2016</p>
    <div class="tomluoc">
     <p><i>LTS (Tuần báo Văn nghệ TP Hồ Chí Minh): Bến Tre có nhiều nhân vật xứng đáng là niềm tự hào chẳng những của một xứ dừa mà còn là của cả nước ta về lòng TẬN TRUNG VỚI NƯỚC, TẬN HIẾU VỚI DÂN như Nguyễn Đình Chiểu, Phan Văn Trị, Nguyễn Thị Định, Ca Văn Thỉnh…. Tuy nhiên trên Tạp chí Văn nghệ Hàm Luông, số Xuân Bính Thân 2016 với bài “Xứ dừa – nơi sinh ra những con người huyền thoại” của tác giả Đinh Hữu Quang đã đưa Phan Thanh Giản, Trương Vĩnh Ký sánh ngang tầm những tên tuổi ấy là một việc làm lộn xòng lịch sử. Chuyện này xưa rồi nhưng lâu lâu lại rộ lên theo dòng thời cuộc nên “người yêu sử” đành tra lại tích cũ trình với bà con Bến Tre và bạn đọc gần xa về hai nhân vật lịch sử đầy tai tiếng này. </i> </p>
 </div>
@@ -39,13 +39,13 @@ Nhân thân và tư liệu  về Trương Vĩnh Ký (1837 – 1898) còn lưu nh
 <p>
 <strong>1/ <u>Petrus Ký giỏi cỡ nào</u>?</strong></p>
 <p>
-Trước lời ca tụng học giả họ Trương được  liệt vào hàng&nbsp;<i>“thế giới  thập bát văn hào”</i>, cố TS Vật lý Trần Chung Ngọc  làm việc tại ĐH Wisconsin - Madison (Mỹ)  và là nhà nghiên cứu lịch sử, tôn giáo được cảm mến, <a href="https://sachhiem.net/TCN/TCNdt/TCNdt070.php">bình luận qua một  đoạn văn giản lược như sau</a>: </p>
+Trước lời ca tụng học giả họ Trương được  liệt vào hàng&nbsp;<i>“thế giới  thập bát văn hào”</i>, cố TS Vật lý Trần Chung Ngọc  làm việc tại ĐH Wisconsin - Madison (Mỹ)  và là nhà nghiên cứu lịch sử, tôn giáo được cảm mến, <a href="/TCN/TCNdt/TCNdt070">bình luận qua một  đoạn văn giản lược như sau</a>: </p>
 <div class="indent50">
   <p>“Bảo rằng Petrus Ky là “nhà bác ngữ học kỳ tài đa  năng, đa diện trên nhiều lãnh vực khoa học” nhưng không đưa ra bất cứ tác phẩm  khoa học, văn chương tiêu biểu nào của  Petrus Ky? Và tổ chức nào đã bầu  chọn Petrus Ky vào hàng đầu danh nhân thế giới? Cố gắng tìm qua internet tôi chỉ  thấy trên trang mạng của Huỳnh Ái Tông https://vietsciences.free.fr/vietnam/danhnhan/tacgia/truongvinhky.htm viết về Petrus Ky nhưng không cho biết tài liệu xuất xứ, như  sau: </p>
   <p class="sub">“Trong khoảng năm 1873-1874, ông (Trương Vĩnh Ký) được liệt vào hàng “thế  giới thập bát văn hào”, theo mẫu tự như sau: Bác sĩ Allemand, Banadona  d’Ambrum, Bonhomme, Cazot, Đại tướng Chambron, Bá tước Chambord, Christophie,  Conte, Desmaze, Duprat, Dupuy, Garnier-Pages, Guizot, Lafayette,  Lefèvre-Pontalis, Marcon, Pétrus Ký, Thống chế Saldonha Oliveirae Daun”. </p>
   <p>Mười  tám tên tuổi trên có phải là các văn  hào thế giới? Dupuy, Guizot là chính trị gia.<strong>&nbsp;</strong>Còn bác sĩ, đại tướng, thống chế, bá tước… là những đại văn  hào của nước Pháp thời kỳ nào? Tại sao không thấy điểm danh các đại văn hào của  Pháp trong thế kỷ XIX quen thuộc nhất như: H.B Stendhal,&nbsp;A. Lamartine, H. Balzac, A. Dumas, V.  Hugo, P. Mérimée, G. Sand, A. Musset,&nbsp;T. Gautier, C. Baudelaire, G.  Flaubert, A. Daudet, E. Zola; G. Maupassant? </p>
   <p>Tác phẩm của các đại văn hào này đều  có trong mọi thư viện của các đại học lớn, nổi tiếng nhất trên thế giới, được  dùng trong học trình đại học. Sao không tìm được tác phẩm nào của Petrus Ky trong  số đó”? Và TS Trần Chung Ngọc đã kết luận:&nbsp;Tôi cho đó là một danh sách “dỏm”. Pétrus Ký chỉ được các quan thầy thực dân  Pháp và Vatican biết đến mà thôi”!</p>
-  <p>[<a href="https://sachhiem.net/TCN/TCNdt/TCNdt070.php">xem Giáo Sĩ Đắc-Lộ &amp; Chữ Quốc Ngữ Của : Minh Vân (của Trần Chung Ngọc)</a>]</p>
+  <p>[<a href="/TCN/TCNdt/TCNdt070">xem Giáo Sĩ Đắc-Lộ &amp; Chữ Quốc Ngữ Của : Minh Vân (của Trần Chung Ngọc)</a>]</p>
 </div>
 <p>
 <strong>2/ <u>Mục  đích Petrus Ky viết sách để làm gì</u>?</strong> </p>
@@ -111,10 +111,10 @@ Người viết  chia sẻ với suy nghĩ của nhà giáo lão thành Trần T
 <p>
     - Petrus  Trương Vĩnh Ký tuyển tập của Lê Trọng Văn</p>
 <p>-  Bài lấy trên <a href="/NGVTHINH/Sachhiem.net">Sachhiem.net</a> của Trần Chung Ngọc, Bùi Kha, Vũ Ngự Chiêu:</p>
-<p class="sub">-<a href="https://sachhiem.net/index.php?content=showrecipe&amp;id=1125"> Trương Vĩnh Ký Phản Bội Tổ Quốc, Sao Lại Gọi Là Yêu Nước? (Bùi Kha)</a></p>
-<p class="sub">- <a href="https://sachhiem.net/LICHSU/N/NguyenThaiAn04.php">Ngắn Gọn Về Thầy Thông Ngôn Trương Vĩnh Ký (Nguyễn Thái An)</a></p>
-<p class="sub">- <a href="https://sachhiem.net/LICHSU/N/NguyenThaiAn.php">Hành Trình Đi Tìm Ông Trương Vĩnh Ký (Nguyễn Thái An)</a></p>
-<p class="sub">- <a href="https://sachhiem.net/BUIKHA/BuiKha02_NTT.php">NGUYỄN TRƯỜNG TỘ: THẢO LUẬN VỚI CỤ HOÀNG THANH ĐẠM (Bùi Kha)</a></p>
+<p class="sub">-<a href="/BUIKHA/BuiKha25b_TVK"> Trương Vĩnh Ký Phản Bội Tổ Quốc, Sao Lại Gọi Là Yêu Nước? (Bùi Kha)</a></p>
+<p class="sub">- <a href="/LICHSU/N/NguyenThaiAn04">Ngắn Gọn Về Thầy Thông Ngôn Trương Vĩnh Ký (Nguyễn Thái An)</a></p>
+<p class="sub">- <a href="/LICHSU/N/NguyenThaiAn">Hành Trình Đi Tìm Ông Trương Vĩnh Ký (Nguyễn Thái An)</a></p>
+<p class="sub">- <a href="/BUIKHA/BuiKha02_NTT">NGUYỄN TRƯỜNG TỘ: THẢO LUẬN VỚI CỤ HOÀNG THANH ĐẠM (Bùi Kha)</a></p>
 
    <p class="nguonL">Nguồn: Bản MS-Word do tác giả gửi </p>
    <div align="center"><div class="fb-share-button" data-layout="button" data-size="large" data-actiob="like" data-show-faces="true" data-share="true" data-mobile-iframe="true"></div>
@@ -124,4 +124,4 @@ Người viết  chia sẻ với suy nghĩ của nhà giáo lão thành Trần T
   <p><b>Bài đọc thêm:</b></p>
   <p>- <a href="https://tuanbaovannghetphcm.vn/cai-tro-than-mat-ma-tham-tram-cua-ong-nguyen-ngoc/">Cái Trò "Thân Mật và Thâm Trầm... " (Trí Nhân)</a></p>
   <p>____________________</p>
-  <p>Các bài của Nguyễn Văn Thịnh: link <a href="https://sachhiem.net/NGVTHINH/ListNVTh.inc.php" target="_blank">https://sachhiem.net/NGVTHINH/ListNVTh.inc.php</a></p>
+  <p>Các bài của Nguyễn Văn Thịnh: link <a href="/NGVTHINH/ListNVTh.inc" target="_blank">https://sachhiem.net/NGVTHINH/ListNVTh.inc.php</a></p>

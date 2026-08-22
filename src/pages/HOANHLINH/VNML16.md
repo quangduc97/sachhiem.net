@@ -2,13 +2,13 @@
 layout: ../../layouts/Article.astro
 title: "VIỆT NAM MÁU LỬA"
 author: "- Hoành Linh Đỗ Mậu -"
-source: "https://sachhiem.net/HOANHLINH/VNML16.php"
+source: "/HOANHLINH/VNML16"
 lang: vi
 wordCount: 41889
-image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nha.jpg"
+image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/LICHSU/IMG/NGODD/LbJ_diem_nolting.jpg"
 ---
 
-<p class="Tuaduoi">QUÊ HƯƠNG TÔI</p>   <p align="center"><a href="/index"><img hspace="20" border="0" src="https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nha.jpg"></a> 01 tháng 11, 2007 </p> 
+<p class="Tuaduoi">QUÊ HƯƠNG TÔI</p>   <p align="center"> 01 tháng 11, 2007 </p> 
    <p align="center"><a href="/HOANHLINH/VNML15">« </a>&nbsp;<a href="/HOANHLINH/HoanhL_Main"> ● </a>&nbsp;<a href="/HOANHLINH/VNML17">»</a></p>
    <p> <b> Chương XVI</b></p>
     <hr color="#AA0000" size="1">

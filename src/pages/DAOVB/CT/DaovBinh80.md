@@ -3,7 +3,7 @@ layout: ../../../layouts/Article.astro
 title: "Nhật Ký Biển Đông: Ô. Trump Trước Những Thử Thách Nghiêm Trọng"
 author: "Đào Văn Bình"
 date: 2017-02-01
-source: "https://sachhiem.net/DAOVB/CT/DaovBinh80.php"
+source: "/DAOVB/CT/DaovBinh80"
 category: "Chính trị"
 lang: vi
 wordCount: 3647

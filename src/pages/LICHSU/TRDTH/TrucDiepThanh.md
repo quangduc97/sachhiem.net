@@ -2,15 +2,15 @@
 layout: ../../../layouts/Article.astro
 title: "Đông Lĩnh hầu Đặng Tiến Giản,"
 author: "Trúc Diệp Thanh"
-source: "https://sachhiem.net/LICHSU/TRDTH/TrucDiepThanh.php"
+source: "/LICHSU/TRDTH/TrucDiepThanh"
 category: "Lịch sử"
 lang: vi
 wordCount: 2418
-image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nha.jpg"
+image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/LICHSU/TRDTH/IMG/DoDocDangTienGian3.jpg"
 ---
 
 <table border="0" cellpadding="0" width="250" align="center"><tbody><tr>
-	<td width="125"><a href="/index"><img border="0" src="https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nha.jpg"></a></td>
+	<td width="125"></td>
 	<td valign="middle&quot;">	 09 tháng 1,  2010	</td></tr></tbody></table>
 
 
@@ -212,9 +212,9 @@ Ngãi…phát hiện gần đây là  <i> Đặng Tiến Đông </i>  quê ở L
 
 <p>__________________&nbsp;&nbsp;&nbsp;</p>
 <p><b>Những bài liên quan:</b></p>
-<p><a href="https://sachhiem.net/LICHSU/TRDTH/TrucDiepThanh06.php"> - Đã tìm được lai lịch hoàn chỉnh của Đô đốc Đông Lĩnh hầu Đặng Tiến </a> (Trúc Diệp Thanh)</p>
-<p><a href="https://sachhiem.net/LICHSU/TRDTH/TrucDiepThanh05.php">- Đâu Là Thông Điệp Đích Thực Từ Các Di Bản Đời Tây Sơn Ở Lương Xá</a>, Hà Nội (Trúc Diệp Thanh) </p>
-<p><a href="https://sachhiem.net/LICHSU/TRDTH/TrucDiepThanh02.php">- Sự thật về “Đô đốc Đặng Tiến Đông” ở Lương Xá! </a> (Trúc Diệp Thanh) </p>
-<p>- <a href="https://sachhiem.net/LICHSU/TRDTH/TrucDiepThanh.php"> Đông Lĩnh hầu Đặng Tiến Giản, vị đô đốc Tây Sơn qua các di vật ở Lương Xá</a>, Hà Nội 
+<p><a href="/LICHSU/TRDTH/TrucDiepThanh06"> - Đã tìm được lai lịch hoàn chỉnh của Đô đốc Đông Lĩnh hầu Đặng Tiến </a> (Trúc Diệp Thanh)</p>
+<p><a href="/LICHSU/TRDTH/TrucDiepThanh05">- Đâu Là Thông Điệp Đích Thực Từ Các Di Bản Đời Tây Sơn Ở Lương Xá</a>, Hà Nội (Trúc Diệp Thanh) </p>
+<p><a href="/LICHSU/TRDTH/TrucDiepThanh02">- Sự thật về “Đô đốc Đặng Tiến Đông” ở Lương Xá! </a> (Trúc Diệp Thanh) </p>
+<p>- <a href="/LICHSU/TRDTH/TrucDiepThanh"> Đông Lĩnh hầu Đặng Tiến Giản, vị đô đốc Tây Sơn qua các di vật ở Lương Xá</a>, Hà Nội 
   (Trúc Diệp Thanh), </p>
-<p>- <a href="https://sachhiem.net/LICHSU/TRDTH/TrucDiepThanh07.php"> Phát Hiện Mới Về Các Di Vật Đời Tây Sơn Ở Chùa Thủy Lâm Và Chùa Trăm Gian (Chương Mỹ-H</a></p>
+<p>- <a href="/LICHSU/TRDTH/TrucDiepThanh07"> Phát Hiện Mới Về Các Di Vật Đời Tây Sơn Ở Chùa Thủy Lâm Và Chùa Trăm Gian (Chương Mỹ-H</a></p>

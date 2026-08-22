@@ -2,7 +2,7 @@
 layout: ../../../layouts/Article.astro
 title: "Con Sâu Làm Rầu Nồi Canh"
 author: "Lý Thăng Long"
-source: "https://sachhiem.net/null"
+source: "/null"
 category: "Xã hội"
 lang: vi
 wordCount: 1715
@@ -20,7 +20,7 @@ image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nhacu.jpg"
 		
 		<table border="0" cellpadding="10" width="100%" cols="3">
 			<tbody><tr>
-				<td><a href="https://sachhiem.net/">
+				<td><a href="/">
 				<img border="0" src="https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nhacu.jpg" width="49" height="20"></a></td>
 				
 				<td valign="top" style="text-align:right"><i><font size="2">23 tháng 9, 2008

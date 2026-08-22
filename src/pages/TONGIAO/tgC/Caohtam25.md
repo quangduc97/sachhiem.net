@@ -3,7 +3,7 @@ layout: ../../../layouts/Article.astro
 title: "Mau Trở Thành Giáo Hội Độc Lập Như Giáo Hội Nhật Bản!"
 author: "Cao Hữu Tâm"
 date: 2015-01-30
-source: "https://sachhiem.net/TONGIAO/tgC/Caohtam25.php"
+source: "/TONGIAO/tgC/Caohtam25"
 category: "Tác giả"
 lang: vi
 wordCount: 3101

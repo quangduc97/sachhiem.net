@@ -3,18 +3,17 @@ layout: ../../../layouts/Article.astro
 title: "Chính Sách Giao Thương Của Hoa Kỳ"
 author: "Mike Wilson"
 date: 2020-10-19
-source: "https://sachhiem.net/THOISU_CT/ChuM/MikeWilson_26.php"
+source: "/THOISU_CT/ChuM/MikeWilson_26"
 category: "Chính trị"
 lang: vi
 wordCount: 7893
-image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nha.jpg"
+image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/sqdot.gif"
 ---
 
 <p class="Tuaduoi">Sẽ như "Thế Chiến Thứ 3" về kinh tế </p>
 
 
- <p align="center"><a href="https://www.sachhiem.net/">
-<img border="0" src="https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nha.jpg"></a> 
+ <p align="center"> 
 ngày 19-Oct-2020</p>
  <div class="tomluoc">
    <p><i>Các nhà sản xuất Mỹ, thay vì rời  TQ để về Mỹ,    thì lại dọn cơ xưởng qua VN và Mexico.  Như vậy, Trump đã thất bại trong những mục tiêu  tham vọng nhất - như việc hồi sinh sức mạnh sản xuất của Mỹ và chặn đứng việc khoán ngoại sản xuất !</i></p>

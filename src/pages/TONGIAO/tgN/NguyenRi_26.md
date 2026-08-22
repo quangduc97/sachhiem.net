@@ -3,7 +3,7 @@ layout: ../../../layouts/Article.astro
 title: "Báo Hiệu Sự Diệt Vong Cho Đảng Cộng Hòa"
 author: "James A. Haught/ Tribune News Service"
 date: 2016-09-12
-source: "https://sachhiem.net/TONGIAO/tgN/NguyenRi_26.php"
+source: "/TONGIAO/tgN/NguyenRi_26"
 category: "Tác giả"
 lang: vi
 wordCount: 1305
@@ -64,4 +64,4 @@ image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/TONGIAO/IMG/HOAKY/No
 <p>_____________________</p>
   <p>Các bài của Nguyễn Ri: link</p>
 <p>
-<a href="https://sachhiem.net/TONGIAO/tgN/ListRiNguyen.inc.php" target="_blank">https://sachhiem.net/TONGIAO/tgN/ListRiNguyen.inc.php</a></p>
+<a href="/TONGIAO/tgN/ListRiNguyen.inc" target="_blank">https://sachhiem.net/TONGIAO/tgN/ListRiNguyen.inc.php</a></p>

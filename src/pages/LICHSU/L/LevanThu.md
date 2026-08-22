@@ -3,7 +3,7 @@ layout: ../../../layouts/Article.astro
 title: "Sự Thật Về Trận Hải Chiến Hoàng Sa"
 author: "Lê Văn Thự"
 date: 2014-02-05
-source: "https://sachhiem.net/LICHSU/L/LevanThu.php"
+source: "/LICHSU/L/LevanThu"
 category: "Tác giả"
 lang: vi
 wordCount: 8070

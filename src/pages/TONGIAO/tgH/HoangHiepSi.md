@@ -3,7 +3,7 @@ layout: ../../../layouts/Article.astro
 title: "Từ Sự Cố Nguyễn Xuân Vinh Nghĩ Về Lữ Giang"
 author: "Hoàng Hiệp Sĩ"
 date: 2016-10-25
-source: "https://sachhiem.net/TONGIAO/tgH/HoangHiepSi.php"
+source: "/TONGIAO/tgH/HoangHiepSi"
 category: "Chính trị"
 lang: vi
 wordCount: 2599

@@ -3,7 +3,7 @@ layout: ../../../layouts/Article.astro
 title: "VIẾT TRONG MÙA PHẬT ĐẢN"
 author: "Dương Kinh Thành"
 date: 2023-05-14
-source: "https://sachhiem.net/VANHOC/DKTH/DgKinhThanh20.php"
+source: "/VANHOC/DKTH/DgKinhThanh20"
 category: "Tác giả"
 lang: vi
 wordCount: 2840

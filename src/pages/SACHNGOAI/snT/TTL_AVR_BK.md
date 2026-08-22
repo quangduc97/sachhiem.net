@@ -1,11 +1,11 @@
 ---
 layout: ../../../layouts/Article.astro
 title: "Việt Nam - Tại Sao Chúng Ta Đã Đi ? (Avro Manhattan)"
-source: "https://sachhiem.net/SACHNGOAI/snT/TTL_AVR_BK.php"
+source: "/SACHNGOAI/snT/TTL_AVR_BK"
 category: "Lịch sử"
 lang: vi
 wordCount: 279
-image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/HOANHLINH/images/nha.jpg"
+image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/SACHNGOAI/Hinhanh/PEOPLE/avro1.jpg"
 ---
 
 <div align="center" style="position: relative; left: 0; top: 0">
@@ -18,8 +18,7 @@ image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/HOANHLINH/images/nha
 	<table id="0" border="0" cellpadding="5" cellspacing="0" width="200" topmargin="10" bordercolor="#FF9966" bgcolor="#F9F9F9" bordercolorlight="#FFFFCC" bordercolordark="#606060">
 	<tbody><tr>
 		<td valign="top" width="200" height="100%">
-		<p align="center">
-		<a href="/index"> <img border="0" src="https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/HOANHLINH/images/nha.jpg"></a></p>
+		
 		
 <p><img height="201" src="https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/SACHNGOAI/Hinhanh/PEOPLE/avro1.jpg" width="145" align="center"></p>		
 <p><img border="0" src="https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/SACHNGOAI/Hinhanh/BIASACH/Ydidwego.jpg" width="151" height="205"></p>

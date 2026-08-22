@@ -3,14 +3,14 @@ layout: ../../layouts/Article.astro
 title: "Tôi Không Lập Lờ Như Pascal"
 author: "Thiết Pui"
 date: 2015-02-28
-source: "https://sachhiem.net/VANHOC/ThietPui00.php"
+source: "/VANHOC/ThietPui00"
 category: "Chính trị"
 lang: vi
 wordCount: 1235
 image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/SACHNGOAI/Hinhanh/BIASACH/Zarathustra_da_noi_nhu_the.jpg"
 ---
 
-<p> <i>LTS:  Pascal nói "Nếu chúng ta tin Thiên chúa và nếu Ngài hiện hữu, chúng ta sẽ nhận được phần thưởng hạnh phúc vĩnh cửu trên thiên đàng; còn nếu Ngài không hiện hữu, chúng ta sẽ chẳng thiệt thòi hay mất mát gì!" Tác giả chọn tựa bài là "Tôi Không Lập Lờ Như Pascal"  mặc dù trong bài không hề nói đến Pascal. Nếu bạn đọc muốn tìm hiểu thêm về luận cứ của Pascal, xin đọc bài "<a href="https://sachhiem.net/TTL/TranTL01.php">Tôi không theo Pascal</a>" của  tác giả Trần Tiên Long. Chúng tôi xin trân trọng giới thiệu một sự thức tỉnh kịp thời. Bằng những câu thật ngắn, tác giả đã tóm lược giai thoại về khúc quanh của cuộc đời của một con chiên "ngoan" của Chúa, và cơ duyên giúp ông tự giải hoặc cho mình.  Dường như viết trong tâm trạng giao động, câu chuyện như bị bỏ lửng,  không thấy đoạn kết.  Hy vọng ông sẽ còn kể tiếp trong những kỳ tới. (SH) </i></p>
+<p> <i>LTS:  Pascal nói "Nếu chúng ta tin Thiên chúa và nếu Ngài hiện hữu, chúng ta sẽ nhận được phần thưởng hạnh phúc vĩnh cửu trên thiên đàng; còn nếu Ngài không hiện hữu, chúng ta sẽ chẳng thiệt thòi hay mất mát gì!" Tác giả chọn tựa bài là "Tôi Không Lập Lờ Như Pascal"  mặc dù trong bài không hề nói đến Pascal. Nếu bạn đọc muốn tìm hiểu thêm về luận cứ của Pascal, xin đọc bài "<a href="/TTL/TranTL01">Tôi không theo Pascal</a>" của  tác giả Trần Tiên Long. Chúng tôi xin trân trọng giới thiệu một sự thức tỉnh kịp thời. Bằng những câu thật ngắn, tác giả đã tóm lược giai thoại về khúc quanh của cuộc đời của một con chiên "ngoan" của Chúa, và cơ duyên giúp ông tự giải hoặc cho mình.  Dường như viết trong tâm trạng giao động, câu chuyện như bị bỏ lửng,  không thấy đoạn kết.  Hy vọng ông sẽ còn kể tiếp trong những kỳ tới. (SH) </i></p>
   <hr>
 <p align="right">
 <i>*Tin  Chúa, kính Chúa như tôi. Chỉ thiếu chưa được làm Linh mục.</i> </p>

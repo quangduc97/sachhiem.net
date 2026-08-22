@@ -3,7 +3,7 @@ layout: ../../../layouts/Article.astro
 title: "Làm Thế Nào Để Chạy Tội Cho Nhà Ngô?"
 author: "Trần Quang Diệu"
 date: 2013-06-01
-source: "https://sachhiem.net/LICHSU/TR/TQD28_LG.php"
+source: "/LICHSU/TR/TQD28_LG"
 category: "Lịch sử"
 lang: vi
 wordCount: 2686

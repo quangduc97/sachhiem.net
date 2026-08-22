@@ -2,15 +2,14 @@
 layout: ../../../layouts/Article.astro
 title: "Em Xin Được Nói Thật:"
 author: "Trương Đình Nam"
-source: "https://sachhiem.net/VANHOC/T/TruongDinhNam.php"
+source: "/VANHOC/T/TruongDinhNam"
 category: "Văn hóa"
 lang: vi
 wordCount: 6342
-image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nha.jpg"
+image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/VANHOC/Hinh/THICU/TruongDinhNam.jpg"
 ---
 
-<p align="center"><a href="https://www.sachhiem.net/">
-<img border="0" src="https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nha.jpg"></a> 
+<p align="center"> 
 22 June 2026</p>
  <div class="tomluoc">
    <p><i>LTS: Được biết câu chuyện xoay quanh một đề thi tốt nghiệp THPT môn NGỮ VĂN năm 2026 (<a href="https://muctim.tuoitre.vn/steve-jobs-nguoi-duoc-nhac-den-trong-de-van-thi-tot-nghiep-thpt-2026-la-ai-101260611101412005.htm">xem chi tiết ở link)</a> Giá như câu hỏi đặt ra là: "Em có biết nhân vật nào góp phần cho sự phát triển công nghệ?"  thì câu chuyện trở nên hoàn toàn khác. </i></p>

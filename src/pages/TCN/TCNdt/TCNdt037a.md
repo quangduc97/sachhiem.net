@@ -3,7 +3,7 @@ layout: ../../../layouts/Article.astro
 title: "Trả lại sự trong sáng cho Đạo Phật"
 author: "Lệ Thọ"
 date: 2024-07-25
-source: "https://sachhiem.net/TCN/TCNdt/TCNdt037a.php"
+source: "/TCN/TCNdt/TCNdt037a.php"
 category: "Tác giả"
 lang: vi
 wordCount: 6222
@@ -112,4 +112,4 @@ Lẽ nào Phan Thiết lại mang đến  2 chứng bệnh ‘nan y’- khiếm 
             <p class="TacgiaL">Delhi, 17/05/2000 </p>
             <p>__________________</p>
             <p><b>Bài đọc thêm:</b></p>
-            <p>- <a href="https://sachhiem.net/TCN/TCNdt/TCNdt037.php">TÔI ĐỌC "ĐẤT VIỆT..." &amp; "HÀNH HƯƠNG ĐẤT PHẬT" Của Phan Thiết </a>(Trần Chung Ngọc)</p>
+            <p>- <a href="/TCN/TCNdt/TCNdt037">TÔI ĐỌC "ĐẤT VIỆT..." &amp; "HÀNH HƯƠNG ĐẤT PHẬT" Của Phan Thiết </a>(Trần Chung Ngọc)</p>

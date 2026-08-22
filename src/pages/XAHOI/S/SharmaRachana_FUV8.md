@@ -2,15 +2,13 @@
 layout: ../../../layouts/Article.astro
 title: "Chương Trình Fulbright Và Ngoại Giao Công Chúng Hoa Kỳ: Phụ Lục"
 author: "Sharma Rachana"
-source: "https://sachhiem.net/XAHOI/S/SharmaRachana_FUV8.php"
+source: "/XAHOI/S/SharmaRachana_FUV8"
 category: "Xã hội"
 lang: vi
 wordCount: 13392
-image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nha.jpg"
 ---
 
-<p align="center"><a href="https://www.sachhiem.net/">
-<img border="0" src="https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nha.jpg"></a> 
+<p align="center"> 
 August 27, 2024</p>
 <p class="TuaDoLeft">Phụ Lục: Phỏng Vấn Randall Bennett Woods</p>
 <p><em> Ngày 28 tháng 1 năm 2013, 10:30 sáng-11:30 sáng phỏng vấn trực tiếp Giáo sư về lịch sử ngoại giao Hoa Kỳ tại Đại học Arkansas. Tác giả của Fulbright: Tiểu sử và J. William Fulbright, Việt Nam và Tìm kiếm Chính sách đối ngoại Chiến tranh Lạnh.</em></p>

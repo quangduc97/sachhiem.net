@@ -3,7 +3,7 @@ layout: ../../../layouts/Article.astro
 title: "Cựu Tổng Thống Mỹ Jimmy Carter & Liên Hiệp Quốc"
 author: "Trần Chung Ngọc dịch"
 date: 2012-06-28
-source: "https://sachhiem.net/index.php?content=showrecipe&id=5350"
+source: "/TCN/TCNts/TCNts058"
 category: "Chính trị"
 lang: vi
 wordCount: 4219

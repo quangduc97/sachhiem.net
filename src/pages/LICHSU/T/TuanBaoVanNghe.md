@@ -3,7 +3,7 @@ layout: ../../../layouts/Article.astro
 title: "Lê Văn Tám Có Thật, Không Phải Truyền Thuyết - 1"
 author: "Cao Đức Trường/ TBVN_TPHCM"
 date: 2020-12-14
-source: "https://sachhiem.net/LICHSU/T/TuanBaoVanNghe.php"
+source: "/LICHSU/T/TuanBaoVanNghe"
 category: "Chính trị"
 lang: vi
 wordCount: 4506

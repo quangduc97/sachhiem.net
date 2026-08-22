@@ -3,7 +3,7 @@ layout: ../../../layouts/Article.astro
 title: "Thư gửi nhà trí thức Việt Nam hải ngoại"
 author: "Trần Văn Xẻn"
 date: 2018-07-20
-source: "https://sachhiem.net/LICHSU/TR/TranVanXen_04.php"
+source: "/LICHSU/TR/TranVanXen_04"
 category: "Chính trị"
 lang: vi
 wordCount: 1366

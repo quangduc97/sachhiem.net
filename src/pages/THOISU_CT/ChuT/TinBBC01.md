@@ -6,10 +6,10 @@ source: "https://www.bbc.co.uk/vietnamese/world/2010/09/100915_pope_visit_uk_pro
 category: "Lịch sử"
 lang: vi
 wordCount: 666
-image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nha.jpg"
+image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/TONGIAO/IMG/VATICAN/POPE/Ben16_Sep2010-VisitAnh.jpg"
 ---
 
-<p align="center"><a href="/THOISU_CT/index"><img hspace="20" border="0" src="https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nha.jpg"></a>	15 tháng 9, 2010    </p>
+<p align="center">	15 tháng 9, 2010    </p>
 <p><b>Hơn 50 nhân vật có tên tuổi vừa ký vào thư đăng trên báo The Guardian nói Đức Giáo hoàng Benedict không đáng được hưởng danh dự của quốc trưởng khi sang thăm Anh Quốc.</b></p>
 <p class="PicLeft">
 <img border="0" src="https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/TONGIAO/IMG/VATICAN/POPE/Ben16_Sep2010-VisitAnh.jpg" width="149" height="186"><br>Đức Giáo hoàng sẽ thăm Scotland<br>

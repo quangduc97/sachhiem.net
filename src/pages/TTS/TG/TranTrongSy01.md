@@ -3,7 +3,7 @@ layout: ../../../layouts/Article.astro
 title: "Ý Kiến Cho Một Lá Thư"
 author: "Trần Trọng Sỹ"
 date: 2014-06-23
-source: "https://sachhiem.net/TTS/TG/TranTrongSy01.php"
+source: "/TTS/TG/TranTrongSy01"
 category: "Tác giả"
 lang: vi
 wordCount: 15434
@@ -399,4 +399,4 @@ Về Việc Một Người Bỏ Phật Theo Chúa </p>
  <p><a href="/TTS/#_ftnref3" name="_ftn3"> (3) </a>&nbsp;  Xin tìm đọc <i>Tương Ưng Bộ Kinh</i>, hoặc <i>Triết học Tánh Không</i> của <b>Thích Tuệ Sỹ</b></p>
   <p class="nguonL">Nguồn: tác giả gửi</p>
 ___________________
-<p>Các bài của Trần Trọng Sỹ: link <a href="https://sachhiem.net/TTS/ListTTS.inc.php" target="_blank">https://sachhiem.net/TTS/ListTTS.inc.php</a></p>
+<p>Các bài của Trần Trọng Sỹ: link <a href="/TTS/ListTTS.inc" target="_blank">https://sachhiem.net/TTS/ListTTS.inc.php</a></p>

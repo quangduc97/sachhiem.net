@@ -3,11 +3,11 @@ layout: ../../layouts/Article.astro
 title: "Tôi Đọc Phúc Linh:"
 author: "Trần Tiên Long"
 date: 2014-07-17
-source: "https://sachhiem.net/TTL/TranTL54.php"
+source: "/TTL/TranTL54"
 category: "Lịch sử"
 lang: vi
 wordCount: 4461
-image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nha.jpg"
+image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/THOISU_CT/Hinh/HOAKY/Planned-Parenthood-protest.jpg"
 ---
 
 <p class="Tuaduoi"><b>Al-Hoàng và Planned Parenthood </b></p>
@@ -27,7 +27,7 @@ Nhân dịp  đọc  bài Al-Hoàng và Planned Parenthood của tác giả Phú
 <p>
 Một kiểu cách ngụy  biện dựa trên việc mượn râu ông nọ cắm cầm bà kia đã được tác giả  Phúc Linh sử dụng một cách tuyệt chiêu, chuyên nghiệp. Chủ đích bài  viết của tác giả là tấn công ông Al-Hoàng, nhưng lại trưng dẫn những  phát biểu của những người khác. Toàn bài, chỉ có một trích dẫn duy  nhất của ông Al-Hoàng, và tôi tin có lẽ là đúng, rằng <i>“Quỹ  Tranh Cử của DB Hubert Võ đã nhận rất nhiều tiền từ phía các cơ quan phá thai  như  Planned Parenthood”</i>. </p>
 <p>Một tổ chức hợp pháp như tổ chức  Planned Parenthood nếu có vận động hoặc chi tiền cho một phe nhóm  chính trị nào thì cũng là chuyện bình thường hằng ngày ở huyện,  chẳng có chi là lạ. Họ chi tiền ở phía sau cửa hậu, đó là điều đã  có nhiều tổ chức đã làm rồi, kể cả những tổ chức từ thiện thuộc  Giáo hội Công Giáo Hoa Kỳ. Họ còn lên cả tòa giảng ở nhà thờ, hoặc  viết thư luân lưu với các con chiên của họ để cổ động phiếu trong các  kỳ bầu cử. </p>
-<p>Như vậy, câu phát biểu đó của ông Al-Hoàng không có gì  là sai trái đến mức độ phải tấn công dài dòng văn tự như vậy. Một  nhà chính trị phát biểu tấn công một đối thủ theo cách chung chung  như vậy không phải là điều gì lạ ở xứ Hoa Kỳ này. Tính chung chung nằm  ở chỗ <i>“rất nhiều tiền”</i>, không có mức thước đo lường thế  nào là nhiều. Vài đồng, vài chục, hay vài trăm cũng có thể được  viết theo số nhiều. Xin xem thêm bài <a href="https://sachhiem.net/index.php?content=showrecipe&amp;id=5346" target="_blank">Xin Đừng Lừa Chúng Tôi</a> của cùng tác giả. </p>
+<p>Như vậy, câu phát biểu đó của ông Al-Hoàng không có gì  là sai trái đến mức độ phải tấn công dài dòng văn tự như vậy. Một  nhà chính trị phát biểu tấn công một đối thủ theo cách chung chung  như vậy không phải là điều gì lạ ở xứ Hoa Kỳ này. Tính chung chung nằm  ở chỗ <i>“rất nhiều tiền”</i>, không có mức thước đo lường thế  nào là nhiều. Vài đồng, vài chục, hay vài trăm cũng có thể được  viết theo số nhiều. Xin xem thêm bài <a href="/TTL/TranTL22" target="_blank">Xin Đừng Lừa Chúng Tôi</a> của cùng tác giả. </p>
 <p>
 Còn những phát biểu  khác của các ông <i>“Võ Đức Quang, một người trong nhóm Nguyễn Lý  Tưởng, Tom Vu…”</i> hay của bất cứ ai khác thì đó là quyền tự do  ngôn luận của họ, chẳng mắc mớ gì tới ông Al-Hoàng để cần phải  giải thích. Tôi cũng đã từng đọc nhiều tin tức từ những nicks ma hay  nicks quỉ trong các diễn đàn tấn công ông Al-Hoàng từ nhiều năm nay  bằng những từ ngữ nhục mạ rất nặng lệ, khiếm nhã, mang tính vu  khống và xuyên tạc, vậy  chẳng lẽ theo tác giả Phúc Linh thì cứ ghép họ vào nhóm của ông  Hubert Võ để bắt ông Hubert Võ phải lên tiếng giải thích, trả lời  sao? Ai yêu thích và cổ động cho nhà chính trị nào, đó là quyền tự  do tuyệt đối của họ. </p>
 <p>
@@ -48,7 +48,7 @@ Thực vậy, quan điểm  chống phá thai của đảng Cộng Hòa đã đ�
 <p>
 Nhưng ở đây, quan điểm  trong bản Cương Lĩnh của riêng đảng Cộng Hòa thuộc bang Texas cũng đã  nêu ra một lập trường dứt khoát cấm phá thai, phù hợp với quan điểm  của toàn đảng, không có liệt kê những luật trừ. Những điều họ còn  tạm dung dưỡng chỉ vì có phán quyết cho phép phá thai của Tối Cao  Pháp Viện trong vụ Roe v. Wade mà họ không thể làm trái luật liên  bang. Họ thề nguyền theo đuổi chính sách thay đổi quyết định này của  Tối Cao Pháp Viện. (We are resolute regarding the reversal of Roe v. Wade).  Nguồn: <a href="https://www.texasgop.org/about-the-party/" target="_blank">https://www.texasgop.org/about-the-party/</a> </p>
 <p>
-Đó là sự khác biệt  căn bản giữa lập trường của hai đảng Cộng Hòa và Dân Chủ mà tôi đã  đề cập tới trong bài <a href="https://sachhiem.net/index.php?content=showrecipe&amp;id=1079" target="_blank">Công Giáo và Vấn Đề Phá Thai</a>. </p>
+Đó là sự khác biệt  căn bản giữa lập trường của hai đảng Cộng Hòa và Dân Chủ mà tôi đã  đề cập tới trong bài <a href="/TTL/TranTL32" target="_blank">Công Giáo và Vấn Đề Phá Thai</a>. </p>
 <p>
 Ông Al-Hoàng thuộc  đảng Cộng Hòa và còn thay đảng ra ứng cử thì đương nhiên ông cũng  theo lập trường của đảng Cộng Hòa. Điều này ông đã viết trong bài “<u>Al  Hoàng trả lời một số câu hỏi liên quan đến Al Hoang vs Hubert Vo</u>” ngày  13/3/2014 như sau: </p>
 <div class="indent50">
@@ -71,7 +71,7 @@ Sở dĩ tôi vẫn còn giữ bài này của ông Al-Hoàng là vì  chính t�
   <p>
     Còn về vấn đề phá thai  ở Mỹ, tôi nhận thấy Ls. Hoàng Duy Hùng không nắm vững vấn đề này. Những lập  luận của Luật sư cũng giống y chang như những lập luận của Giáo hội Công giáo  mà tôi đã từng có cơ hội học qua. Ý kiến của Luật sư thì quá đơn giản, còn  nhiều phiến diện, và chỉ một chiều. </p>
   <p>
-    Sau đây, tôi xin  chuyển vào diễn đàn bài <a href="https://sachhiem.net/index.php?content=showrecipe&amp;id=1079" target="_blank">Công Giáo và Vấn Đề Phá Thai</a> để đóng góp thêm ý kiến về vấn đề đang  bàn cãi này. </p>
+    Sau đây, tôi xin  chuyển vào diễn đàn bài <a href="/TTL/TranTL32" target="_blank">Công Giáo và Vấn Đề Phá Thai</a> để đóng góp thêm ý kiến về vấn đề đang  bàn cãi này. </p>
   <p>
     Trân trọng, </p>
   <p>
@@ -79,7 +79,7 @@ Sở dĩ tôi vẫn còn giữ bài này của ông Al-Hoàng là vì  chính t�
   
   
   
-  <p align="center"><a href="/TTL/index"><img hspace="20" border="0" src="https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nha.jpg"></a> 03-Oct-2012” </p> (Hết trích).</div>
+  <p align="center"> 03-Oct-2012” </p> (Hết trích).</div>
 <p>
 Tóm lại, bài viết  tấn công ông Al-Hoàng của tác giả Phúc Linh đã được dựa trên những  lập luận ngụy biện và trên việc trình bày các sự kiện không thực  nên không có tính thuyết phục. Tôi chỉ làm công việc trình bày ra  trước ánh sáng của công luận những điều tôi nhận thấy rõ ràng sai  lầm từ một nhãn quan của một độc giả bàng quan, không bị ràng buộc  bởi bất cứ một phe nhóm nào. Chuyện ai thắng ai thua ở Houston, TX,  chẳng có liên hệ gì đến cá nhân tôi. Cũng rất có thể tôi sai lầm như  mọi người vì tôi cũng chỉ là một con người hay sai lầm như tất cả  mọi người. Việc tôi dám lên tiếng, nhất là về một vấn đề chính trị  dễ có sự động chạm tới quyền lợi của phe nhóm, chỉ vì tôi không  thể làm thinh nếu biết một điều gì đó sai lầm, không ổn. Biết mà  không nói là bất nhân. Nói mà không nói hết là bất nghĩa. Sự dữ  chỉ có thể xảy ra là tại vì có những người biết nhưng không dám lên  tiếng. Thế thôi! </p>
 <p>Trân trọng, </p>

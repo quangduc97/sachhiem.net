@@ -3,7 +3,7 @@ layout: ../../../layouts/Article.astro
 title: "Quyền Được Xét Lại"
 author: "TT Thích Chân Quang"
 date: 2017-04-11
-source: "https://sachhiem.net/TONGIAO/ThichCQ/ThChanQuang.php"
+source: "/TONGIAO/ThichCQ/ThChanQuang"
 category: "Tác giả"
 lang: vi
 wordCount: 162

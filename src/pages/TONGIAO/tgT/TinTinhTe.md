@@ -3,7 +3,7 @@ layout: ../../../layouts/Article.astro
 title: "Người Càng Thông Minh Thì Càng Ít Tin Vào Tôn Giáo?"
 author: "Lê Vương Thinh/Tinh Tế"
 date: 2013-08-17
-source: "https://sachhiem.net/TONGIAO/tgT/TinTinhTe.php.php"
+source: "/TONGIAO/tgT/TinTinhTe.php"
 category: "Tác giả"
 lang: vi
 wordCount: 888

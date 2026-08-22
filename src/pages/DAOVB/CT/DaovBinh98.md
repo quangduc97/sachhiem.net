@@ -3,7 +3,7 @@ layout: ../../../layouts/Article.astro
 title: "Nhật Ký Biển Đông: Chuyến Á Du Mười Ngày Của Ô. Trump"
 author: "Đào Văn Bình"
 date: 2017-09-30
-source: "https://sachhiem.net/DAOVB/CT/DaovBinh98.php"
+source: "/DAOVB/CT/DaovBinh98"
 category: "Chính trị"
 lang: vi
 wordCount: 7290

@@ -2,13 +2,13 @@
 layout: ../../../layouts/Article.astro
 title: "VÀI NÉT VỀ “CỤ HỒ”"
 author: "Trần Chung Ngọc"
-source: "https://sachhiem.net/TCN/TCNls/TCNls04.php"
+source: "/TCN/TCNls/TCNls04"
 lang: vi
 wordCount: 8369
-image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nha.jpg"
+image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/TCN/Pict/TCN_dht.jpg"
 ---
 
-<p align="center"> <a href="/index"><img border="0" src="https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nha.jpg" align="middle" hspace="20"></a> 17 tháng 5, 2007 </p>
+<p align="center">  17 tháng 5, 2007 </p>
           <p>Toàn phần: <b><span style="background-color: #FFFF99">1 </span></b>&nbsp;<a href="/TCN/TCNls/TCNls05">2 </a> </p>
   
           <p class="CHUONG"> PHẦN 1</p>

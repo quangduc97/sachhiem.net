@@ -3,7 +3,7 @@ layout: ../../../layouts/Article.astro
 title: "Tin IS Tung Video Thiêu Sống Phi Công Người Jordan"
 author: "Trần Trọng Sỹ"
 date: 2015-02-05
-source: "https://sachhiem.net/TTS/TG/TranTrongSy04.php"
+source: "/TTS/TG/TranTrongSy04"
 category: "Tác giả"
 lang: vi
 wordCount: 1036
@@ -51,4 +51,4 @@ Muath al Kasasbeh lên Internet.</p>
   <p>Chúng ta cần nói rõ cho cả thế giới biết rằng:</p>
   <p><i>IS chưa đáng làm học trò của bọn quỷ Catô Rôma trong  tính cách phi văn hóa giết người man rợ !</i> <img src="https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/sqdot.gif" width="10" height="10"></p>
  <p>___________________ </p>
- <p>Các bài của Trần Trọng Sỹ: link <a href="https://sachhiem.net/TTS/ListTTS.inc.php" target="_blank">https://sachhiem.net/TTS/ListTTS.inc.php</a></p>
+ <p>Các bài của Trần Trọng Sỹ: link <a href="/TTS/ListTTS.inc" target="_blank">https://sachhiem.net/TTS/ListTTS.inc.php</a></p>

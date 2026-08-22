@@ -3,7 +3,7 @@ layout: ../../../layouts/Article.astro
 title: "Lòng Yêu Nước"
 author: "Mark A.Ashwill/ VNexpress.net"
 date: 2019-09-01
-source: "https://sachhiem.net/THOISU_CT/ChuT/TinVNXpress8.php"
+source: "/THOISU_CT/ChuT/TinVNXpress8"
 category: "Chính trị"
 lang: vi
 wordCount: 1239

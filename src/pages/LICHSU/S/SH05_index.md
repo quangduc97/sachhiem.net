@@ -3,7 +3,7 @@ layout: ../../../layouts/Article.astro
 title: "Mục Lục Tham Khảo"
 author: "SH sưu tập"
 date: 2013-04-26
-source: "https://sachhiem.net/LICHSU/S/SH05.php"
+source: "/LICHSU/S/SH05"
 category: "Tác giả"
 lang: vi
 wordCount: 3278
@@ -92,7 +92,7 @@ image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/SACHNGOAI/Hinhanh/BI
     <p><i>“Theo sự phán xét của tôi, chúng ta sẽ trở  thành kẻ có tội vì là sự đe dọa lớn nhất cho nền hòa bình thế giới. Đó là một sự thực xấu xa, và người Mỹ chúng  ta không thích đối diện với nó. Tôi thật  không muốn nghĩ rằng một trang sử của Mỹ sẽ được viết ra liên quan đến <u>chính  sách vô pháp của chúng ta ở Đông Nam Á.</u>” </i>(12)</p>
 <p><i>►  Thà mất nước, chứ không thà mất Chúa</i> (L.M. Hoàng Quỳnh).</p>
     <p>“Ngày 27/8/1964: Tướng Khánh đã triệu tập Hội Đồng Quân Nhân Cách Mạng bầu   “Tam Đầu Chế” gồm: (1) Đại Tướng Nguyễn Khánh làm thủ tướng VNCH, (2) Đại Tướng   Dương Văn Minh làm chủ tịch chính phủ (thực chất làm bù nhìn cho bù nhìn), (3)   Đại Tướng Trần Thiện Khiêm là<span lang="en-us">m</span> chủ tịch Hội Đồng Quân   Đội VNCH.</p>
-    <p>Trong khi các tướng đang họp ở Bộ Tổng Tham Mưu, thì ở ngoài hàng rào   BTTM, Nguyễn Khánh giật dây Linh-mục Hoàng Quỳnh (Tổng Quỳnh) xách động các phần   tử cuồng tín từ các trại định cư Xóm Mới, Hố Nai, Gia Kiệm, Bùi Môn biểu tình   trước Bộ Tổng Tham Mưu đòi hỏi, yêu sách phục quyền cho các phần tử Cần Lao với   khẩu hiệu<i> “Thà mất nước, chứ không thà mất Chúa.</i>”<a href="https://sachhiem.net/NMQ/HOSOTOIAC/CH92_1.php#_edn2" name="_ednref2">[2]</a></p>
+    <p>Trong khi các tướng đang họp ở Bộ Tổng Tham Mưu, thì ở ngoài hàng rào   BTTM, Nguyễn Khánh giật dây Linh-mục Hoàng Quỳnh (Tổng Quỳnh) xách động các phần   tử cuồng tín từ các trại định cư Xóm Mới, Hố Nai, Gia Kiệm, Bùi Môn biểu tình   trước Bộ Tổng Tham Mưu đòi hỏi, yêu sách phục quyền cho các phần tử Cần Lao với   khẩu hiệu<i> “Thà mất nước, chứ không thà mất Chúa.</i>”<a href="/NMQ/HOSOTOIAC/CH92_1#_edn2" name="_ednref2">[2]</a></p>
 <p><img src="https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/sqdot.gif" width="10" height="10"></p>
-<p><a href="https://sachhiem.net/NMQ/HOSOTOIAC/CH92_1.php#_ednref2" name="_edn2">[2]</a> Chu Văn Trình, <i>Văn Sử Địa</i> (Tavares, Florida:Ban Tu Thư Tự Lực, 1989), tr. 80.</p>
+<p><a href="/NMQ/HOSOTOIAC/CH92_1#_ednref2" name="_edn2">[2]</a> Chu Văn Trình, <i>Văn Sử Địa</i> (Tavares, Florida:Ban Tu Thư Tự Lực, 1989), tr. 80.</p>
     <p class="TacgiaL">sachhiem.net</p>

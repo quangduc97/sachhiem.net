@@ -2,7 +2,7 @@
 layout: ../../../layouts/Article.astro
 title: "Phiếm luận về chữ “bạn” trong tôn giáo."
 author: "Nguyễn Trí Cảm"
-source: "https://sachhiem.net/TONGIAO/NGTRCAM/NguyenTriCam06.php"
+source: "/TONGIAO/NGTRCAM/NguyenTriCam06"
 category: "Chính trị"
 lang: vi
 wordCount: 1859

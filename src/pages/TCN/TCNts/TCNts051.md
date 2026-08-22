@@ -2,16 +2,16 @@
 layout: ../../../layouts/Article.astro
 title: "& Vụ Án Cù Huy Hà Vũ"
 author: "Trần Chung Ngọc"
-source: "https://sachhiem.net/index.php?content=showrecipe&id=5020"
+source: "/TCN/TCNts/TCNts051"
 category: "Chính trị"
 lang: vi
 wordCount: 5942
-image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nha.jpg"
+image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/SACHNGOAI/Hinhanh/BIASACH/9_11_Noam.gif"
 ---
 
 <p class="Tuaduoi">Tản Mạn Về Dân Chủ Nhân Quyền </p>
 
-<p align="center"><a href="/index"><img hspace="20" border="0" src="https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nha.jpg"></a> 28 tháng 4, 2011</p>
+<p align="center"> 28 tháng 4, 2011</p>
 <div class="danbai"><p>-► <a href="/TCN/#Đ">Vài Lời Nói Đầu</a> </p>
 	<p>-► <a href="/TCN/#I" name="1">Mỹ Và Vấn Nạn Dân Chủ, Nhân Quyền</a> </p>
 	<p>-►<a href="/TCN/#II" name="2">Về Bản Phúc Trình Nhân Quyền Hàng Năm Của Mỹ</a></p>

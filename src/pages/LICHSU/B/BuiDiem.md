@@ -3,7 +3,7 @@ layout: ../../../layouts/Article.astro
 title: "Ông Diệm Và Các Thành Phần Đối Lập"
 author: "Bùi Diễm & David Chanoff"
 date: 2016-01-21
-source: "https://sachhiem.net/LICHSU/B/BuiDiem.php"
+source: "/LICHSU/B/BuiDiem"
 category: "Chính trị"
 lang: vi
 wordCount: 6763
@@ -21,7 +21,7 @@ image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/SACHNGOAI/Hinhanh/BI
     <i>Cách nhìn như thế không những phi  lịch sử mà còn rõ ràng có&nbsp;ác&nbsp;ý với Phật giáo Việt Nam. Vì lịch sử  không trôi một cách đơn tuyến (linear) như vậy, và các lực vận động của lịch sử  thì phức tạp, đa dạng và đan kết phải rất chặt chẽ mới tạo ra được một biến cố  bi hùng như những gì đã xảy ra trong suốt 6 tháng cuối cùng của năm 1963 tại  miền Nam Việt Nam.</i> </p>
   <p>
     <i>Ngoài chính quyền nhà Ngô, chính  quyền Kennedy, Hà Nội, Tòa thánh Vatican, và phong trào Phật giáo, ta còn có  thể kể đến sự hiện diện của một số lực lượng to lớn và năng động khác như lực  lượng thanh niên sinh viên đô thị, thành phần sĩ quan cấp trung trong Quân Đội  (xem thêm FRUS 1961-1963, Volume IV), giới trí thức đại học và các văn nghệ sĩ,  … và lẽ dĩ nhiên, thành phần <b>các đảng phái quốc gia</b> vốn là lực lượng  chính trị có tổ chức nhất nhưng cũng đã nhiều lần bị chính quyền Diệm đàn áp dữ  dội nhất </i></p>
-  <p><i>(vụ <a href="https://sachhiem.net/LICHSU/TR/TranQuan.php">Ba Lòng 1955</a>, vụ <a href="https://sachhiem.net/LICHSU/L/LeNguyenLong.php">chống  đối ở các tỉnh Nam-Ngãi</a>, <br>
+  <p><i>(vụ <a href="/LICHSU/TR/TranQuan">Ba Lòng 1955</a>, vụ <a href="/LICHSU/L/LeNguyenLong">chống  đối ở các tỉnh Nam-Ngãi</a>, <br>
     vụ binh biến 11-11-1960 và <a href="https://www.diendan.org/nhung-con-nguoi/su-that-ve-cai-chet-cua-nhat-linh">cái chết của văn hào Nhất Linh</a>,<br>
 vụ <a href="https://vi.wikipedia.org/wiki/Nh%C3%B3m_Caravelle">Tuyên ngôn Caravelle</a>, <br>
 vụ <a href="https://vi.wikipedia.org/wiki/V%E1%BB%A5_%C4%91%C3%A1nh_bom_Dinh_%C4%90%E1%BB%99c_L%E1%BA%ADp_1962">dội bom Dinh Độc Lập</a> 27-2-1962 do con của một  lãnh tụ Quốc Dân Đảng phát động, …)</i> </p>

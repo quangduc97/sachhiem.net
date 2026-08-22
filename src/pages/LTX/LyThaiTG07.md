@@ -2,7 +2,7 @@
 layout: ../../layouts/Article.astro
 title: "Lòng Bác Ái và Vạ Tuyệt Thông"
 author: "Lý Thái"
-source: "https://sachhiem.net/LTX/LythaiTG07.php"
+source: "/LTX/LythaiTG07"
 category: "Tác giả"
 lang: vi
 wordCount: 6372

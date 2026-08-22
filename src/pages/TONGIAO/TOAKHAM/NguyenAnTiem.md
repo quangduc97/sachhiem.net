@@ -2,14 +2,14 @@
 layout: ../../../layouts/Article.astro
 title: "Hà Nội: Từ Chùa Báo Thiên Đến Nhà Thờ Lớn"
 author: "Nguyễn An Tiêm"
-source: "https://sachhiem.net/TONGIAO/TOAKHAM/NguyenAnTiem.php"
+source: "/TONGIAO/TOAKHAM/NguyenAnTiem"
 category: "Tác giả"
 lang: vi
 wordCount: 1571
-image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nha.jpg"
+image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/Next3.gif"
 ---
 
-<p align="center"><a href="https://sachhiem.net/index.php"><img border="0" hspace="20" src="https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nha.jpg"></a>11 tháng 1, 2008</p>
+<p align="center">11 tháng 1, 2008</p>
 
 <p><i><a href="/TONGIAO/LoiDau">Lời Tòa Soạn&nbsp; <img border="0" src="https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/Next3.gif" width="15" height="6"></a></i></p>
 

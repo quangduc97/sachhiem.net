@@ -2,10 +2,10 @@
 layout: ../../../layouts/Article.astro
 title: "HUYỀN THOẠI “CỨU RỖI”"
 author: "tác giả: Linh Mục James Kavanaugh"
-source: "https://sachhiem.net/TCN/TCNtg/TCN148_HMD.php"
+source: "/TCN/TCNtg/TCN148_HMD"
 lang: vi
 wordCount: 4833
-image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nha.jpg"
+image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/TONGIAO/IMG/jamesk.gif"
 ---
 
 <p class="Tuaduoi">(The “Salvation” Myth)</p>
@@ -13,7 +13,7 @@ image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nha.jpg"
 		
 		
  
-<p align="center"> <a href="/index"><img border="0" src="https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nha.jpg" align="middle" hspace="20"></a>12 tháng 3, 2008 </p>
+<p align="center"> 12 tháng 3, 2008 </p>
 <p class="TuaDenLeft"><u>Vài Lời Nói Đầu Của Người Dịch:</u></p>
  
  <p> <i>Linh mục James Kavanaugh là một nhân vật đặc biệt 

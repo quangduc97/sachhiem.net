@@ -2,19 +2,18 @@
 layout: ../../../layouts/Article.astro
 title: "Trịnh Siêu-Lân, 1901-1998"
 author: "-Hoàng Phàn-Tây"
-source: "https://sachhiem.net/THOISU_CT/VHQ/VuHuyQuang06.php"
+source: "/THOISU_CT/VHQ/VuHuyQuang06"
 category: "Chính trị"
 lang: vi
 wordCount: 4148
-image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nha.jpg"
+image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/THOISU_CT/IMG/HoangPhanTay.jpg"
 ---
 
 <p class="Tuaduoi"> Tưởng niệm một nhà cách mạng Trung quốc: </p>
 
 
 
- <p align="center"><a href="https://www.sachhiem.net/">
-<img border="0" src="https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nha.jpg"></a> 01 tháng 9, 2010		</p>
+ <p align="center"> 01 tháng 9, 2010		</p>
 
 <p>
 <span class="First">T</span>rịnh Siêu-Lân, 

@@ -3,7 +3,7 @@ layout: ../../../layouts/Article.astro
 title: "Bí Mật Nhà Thờ Phát Diệm"
 author: "Nguyễn Hồng Hải"
 date: 2013-02-20
-source: "https://sachhiem.net/TONGIAO/tgN/NgHgHai.php"
+source: "/TONGIAO/tgN/NgHgHai"
 category: "Lịch sử"
 lang: vi
 wordCount: 769
@@ -38,7 +38,7 @@ image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/TONGIAO/IMG/CHURCH/P
 <p align="center"><i>(SH: Xin bạn đọc chú ý ghi chú bằng tiếng Pháp dưới hình. Họ gọi những nghĩa quân sa cơ của ta là "pirates capturés" là quân  cướp bị bắt!)</i></p>
 
 <p><b>Bài cùng tác giả:</b></p>
-<p>- <a href="https://sachhiem.net/TONGIAO/tgN/NgHgHai.php">Bí Mật Nhà Thờ Phát Diệm </a> </p>
-<p>- <a href="https://sachhiem.net/THOISU_CT/ChuN/NgHgHai_CT.php"> Ðôi Hàng Cảm Xúc Về Hội Từ Thiện Giao Ðiểm </a></p>
+<p>- <a href="/TONGIAO/tgN/NgHgHai">Bí Mật Nhà Thờ Phát Diệm </a> </p>
+<p>- <a href="/THOISU_CT/ChuN/NgHgHai_CT"> Ðôi Hàng Cảm Xúc Về Hội Từ Thiện Giao Ðiểm </a></p>
 
 <hr>

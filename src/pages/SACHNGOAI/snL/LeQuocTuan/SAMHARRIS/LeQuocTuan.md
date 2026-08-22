@@ -2,11 +2,11 @@
 layout: ../../../../../layouts/Article.astro
 title: "Sam Harris: Tận cùng của Ðức tin"
 author: "Lê Quốc Tuấn giới thiệu"
-source: "https://sachhiem.net/null"
+source: "/null"
 category: "Tác giả"
 lang: vi
 wordCount: 1918
-image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nha.jpg"
+image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/Hinhanh/BIASACH/end-of-faith1.jpg"
 ---
 
 <div align="center" style="position: relative; left: 0; top: 0">
@@ -28,8 +28,7 @@ image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nha.jpg"
 
 				<table border="0" cellpadding="1" width="87%" cols="2">
 					<tbody><tr>
-						<td><a href="https://www.sachhiem.net/">
-						<img border="0" src="https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nha.jpg"></a></td>
+						<td></td>
 						<td valign="top" width="210">
 						<p>24 tháng 12, 2009</p></td>
 					</tr>

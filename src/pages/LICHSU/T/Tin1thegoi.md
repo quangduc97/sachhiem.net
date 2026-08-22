@@ -3,18 +3,18 @@ layout: ../../../layouts/Article.astro
 title: "Gửi Lại Người Đang Sống"
 author: "Vũ-Chí-Dũng"
 date: 2017-07-26
-source: "https://sachhiem.net/LICHSU/T/Tin1thegoi.php"
+source: "/LICHSU/T/Tin1thegoi"
 category: "Lịch sử"
 lang: vi
 wordCount: 1254
-image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nha.jpg"
+image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/LICHSU/IMG/VNwar/Lathu_bodoi_trongrung.jpg"
 ---
 
 <p class="Tuaduoi">Bức Thư Người Chết Trong Rừng Sâu</p>
 
   
   
-  <p align="center"><a href="https://www.sachhiem.net/"> <img border="0" src="https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nha.jpg"></a> ngày 26-Jul-2017</p>
+  <p align="center"> ngày 26-Jul-2017</p>
   <div class="tomluoc">
     <p>LTS: Nguyên tựa của mothegioi.vn là: "Bức thư có một không hai gửi lại người đang sống" (SH)</p>
     <p><i>Đoạn trích một bức thư được gói kỹ càng để lại giữa cánh rừng nguyên sinh tại thượng nguồn sông Đồng Nai bên cạnh 3 bộ hài cốt của 3 chiến sĩ thuộc Tiểu đội 1 (Trung đội Ký Con, Trung đoàn Bình Giã, Quân giải phóng miền Nam). Xin trân trọng giới thiệu cùng bạn đọc. (mothegioi.vn)</i> </p>

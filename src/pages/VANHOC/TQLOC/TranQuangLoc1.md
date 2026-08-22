@@ -2,14 +2,14 @@
 layout: ../../../layouts/Article.astro
 title: "Những vần thơ cho Dân Chúa"
 author: "Trần Quang Lộc"
-source: "https://sachhiem.net/VANHOC/TQLOC/TranQuangLoc1.php"
+source: "/VANHOC/TQLOC/TranQuangLoc1"
 category: "Văn hóa"
 lang: vi
 wordCount: 6692
-image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nha.jpg"
+image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/Next3.gif"
 ---
 
-<p align="center"><a href="/index"><img border="0" src="https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nha.jpg"></a>10 tháng 11,   2008</p>	
+<p align="center">10 tháng 11,   2008</p>	
 	<p><a href="/VANHOC/TQLOC/TranQuangLoc">
 	<img border="0" src="https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/Next3.gif" width="15" height="6"> Xin xem phần dẫn nhập</a></p>
 		

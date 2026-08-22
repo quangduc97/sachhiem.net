@@ -3,7 +3,7 @@ layout: ../../layouts/Article.astro
 title: "Đọc bài viết “Những thiếu sót và sai lầm quan trọng trong Bộ Lịch Sử Việt Nam 15 Tập”"
 author: "BS Nguyễn Văn Thịnh"
 date: 2019-01-18
-source: "https://sachhiem.net/NGVTHINH/NguyenvThinh_27.php"
+source: "/NGVTHINH/NguyenvThinh_27"
 category: "Lịch sử"
 lang: vi
 wordCount: 599
@@ -19,7 +19,7 @@ image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/NGVTHINH/IMG/TieuSu.
 
 <p><span class="First">K</span>ính  gởi anh Nguyễn Mạnh Quang,</p>
 <p>Chỉ còn ít hôm  nữa là chú CÚN đi, chú ỈN tới. Sang năm mới ÂL, Kính chúc anh chị có nhiều sức  khỏe và nhiều niềm vui, gia đình hạnh phúc.</p>
-<p>Đọc bài viết của anh: <a href="https://sachhiem.net/NMQ/NMQ101.php">“<i><b>Những thiếu sót và sai lầm quan trọng trong  Bộ Lịch Sử Việt Nam 15 Tập</b></i>”</a> thấy  rất tâm đắc.</p>
+<p>Đọc bài viết của anh: <a href="/NMQ/NMQ101">“<i><b>Những thiếu sót và sai lầm quan trọng trong  Bộ Lịch Sử Việt Nam 15 Tập</b></i>”</a> thấy  rất tâm đắc.</p>
 <p>Viết sử cận hiện đại VN mà không nói đến chủ nghĩa  đế quốc cố kết với giáo hội Kito La Mã một thời gây bao tội ác trên đất nước ta  là điều thiếu sót không thể chấp nhận. Đó mới <b>chính là khoảng trống lịch sử</b> vì thực  tế là xuyên suốt hơn trăm năm đã có sự kết hợp chặt chẽ giữa việc mở mang lãnh  địa của giáo hội Kito với sự xâm chiếm thuộc địa của đội quân viễn chinh xâm  lược, mà giám mục Pugignier  đã công khai nói ra bằng hình ảnh cụ thể là:</p>
 <p> “<b><i>Không có các giáo sỹ và giào dân thì nhà nước  bảo hộ như con cua bị bẻ hết chân càng</i></b>”! </p>
 <p>Người viết sử phải phân biệt rõ  đâu là những <b>sự cố</b> xảy ra trong quá  trình đấu tranh giữ nước và đâu là những <b>mưu  toan thâm độc</b> của các thế lực ngoại bang toa rập với nhau, nhằm mục tiêu thôn  tính một quốc gia độc lập và đồng hóa một dân tộc có nền văn hiến lâu đời; Sau  đó là sự <b>cấu kết giữa thế quyền với thần  quyền,</b> hòng theo thời gian sẽ biến nó thành chuyện lịch sử đã rồi! Dù cho  khi đội quân xâm lược đã phải cuốn gói ra đi, nhưng vẫn để lại những mầm bất ổn  âm ỉ, dằng dai, muốn hóa giải cũng không biết đến bao giờ. </p>

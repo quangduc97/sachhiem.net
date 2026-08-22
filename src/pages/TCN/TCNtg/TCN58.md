@@ -2,15 +2,15 @@
 layout: ../../../layouts/Article.astro
 title: "Những Sự Thật Xung Quanh"
 author: "Trần Chung Ngọc"
-source: "https://sachhiem.net/null"
+source: "/null"
 lang: vi
 wordCount: 21237
-image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nha.jpg"
+image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/TONGIAO/IMG/MARY/Mefatima.jpg"
 ---
 
 <p class="Tuaduoi">[Một Khảo Luận Qua Các tài Liệu]</p>
 
-<p align="center"><a href="https://www.sachhiem.net/"> <img border="0" src="https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nha.jpg"></a>  ngày 11 tháng 11, 2008</p>
+<p align="center">  ngày 11 tháng 11, 2008</p>
 	
 <div class="tomluoc">
 <b>Bernard Berenson</b>, Sử gia Mỹ:<p><b><i>
@@ -33,9 +33,9 @@ as are barbarous and ignorant, miracles are still vogue.)</p>
 của bà Mary ở Lộ Đức [Lourdes] chỉ là những màn dàn dựng bịp bợm của 
 Giáo hội Công Giáo, theo những tài liệu nghiên cứu của giới học giả Âu 
 Mỹ [Xin đọc
-<a style="color: blue; text-decoration: underline; text-underline: single" href="https://sachhiem.net/TCN/TCNtg/TCN55.php">
+<a style="color: blue; text-decoration: underline; text-underline: single" href="/TCN/TCNtg/TCN55">
 https://sachhiem.net/TCN/TCNtg/TCN55.php</a> hoặc
-<a style="color: blue; text-decoration: underline; text-underline: single" href="https://sachhiem.net/CN_TTDTG/Loduc.php">
+<a style="color: blue; text-decoration: underline; text-underline: single" href="/CN_TTDTG/Loduc">
 https://sachhiem.net/CN_TTDTG/<span lang="en-us"> </span>Loduc.php</a> 
 thì thực chất những vụ hiện thân của bà Mary ở Fatima cũng chẳng khác gì 
 những vụ hiện thân ở Lộ Đức, nhưng vô lý và phản khoa học hơn vụ ở Lộ 
@@ -51,11 +51,11 @@ như ở ngoài Ki Tô Giáo, Giám Mục John Shelby Spong đã viết sách v�
 bố <b>cần phải dẹp bỏ vai trò 
 cứu thế của Giê-su </b>[Xin đọc bài <i>Jesus as a rescuer: an image that has 
 to go</i>, đã dịch ra tiếng Việt:
-<a style="color: blue; text-decoration: underline; text-underline: single" href="https://sachhiem.net/TCN/TCNtg/TCN37.php">
+<a style="color: blue; text-decoration: underline; text-underline: single" href="/TCN/TCNtg/TCN37">
 https://sachhiem.net/<span lang="en-us"> </span>TCNtg/TCN37.php</a>]; và Linh mục James Kavanaugh cũng 
 viết sách, nhấn mạnh là <b>vai trò cứu rỗi cũa Giê-su chỉ là một huyền thoại
 </b>[Xin đọc bản dịch bài “The salvation myth” :
-<a style="color: blue; text-decoration: underline; text-underline: single" href="https://sachhiem.net/TCN/TCNtg/TCN36.php">
+<a style="color: blue; text-decoration: underline; text-underline: single" href="/TCN/TCNtg/TCN36">
 https://sachhiem.net/TCN/TCNtg/TCN36.php</a> ]. </p>
 	
 <p> Chúng ta biết rằng, qua thời gian, Mary, mẹ của Giê-su, đã được Giáo 
@@ -126,7 +126,7 @@ thần thánh và hoang đường như trên đâu có phải là chuyện
 lạ. Trong loạt bài nghiên cứu về nhân vật Mary: <i>“Nhân Vật Mary Trong 
 Ca-Tô Giáo Rô-ma: Một Khảo Luận Qua Các Tài Liệu”</i> trên trang nhà 
 sachhiem.net [Xin đọc
-<a style="color: blue; text-decoration: underline; text-underline: single" href="https://sachhiem.net/TCN/TCNtg/TCN40.php">
+<a style="color: blue; text-decoration: underline; text-underline: single" href="/TCN/TCNtg/TCN40">
 https://sachhiem.net/TCN/TCNtg/TCN40.php</a>] tôi đã đưa ra những tài liệu về 
 thực chất những danh hiệu mà giáo hội Công giáo bịa đặt khoác lên người 
 Maria là hoàn toàn không có cơ sở, chẳng qua chỉ là những thủ đoạn lừa dối 
@@ -1237,7 +1237,7 @@ Fatima như trên vì tôi cho rằng những người nào tin vào những chu
 khùng như trên thì tất nhiên đầu óc của họ không được bình thường. Tại 
 sao? Bởi vì đọc những chuyện điên khùng ở trên cũng không khác gì đọc sách 
 Khải Huyền trong Tân Ước. [Xin đọc
- <a style="color: blue; text-decoration: underline; text-underline: single" href="https://sachhiem.net/TCN/TCNtg/TCN45.php">
+ <a style="color: blue; text-decoration: underline; text-underline: single" href="/TCN/TCNtg/TCN45">
 https://sachhiem.net/TCN/TCNtg/TCN45.php</a>, bài <i>“Ngày Tận Thế của Ki Tô 
 Giáo</i>”] Mà Sách Khải Huyền đã được Tổng Thống Hoa Kỳ Thomas Jefferson <u>
 “khen tặng”</u> một cách rất chính xác như sau: <i><u>“Sách Khải Huyền là 

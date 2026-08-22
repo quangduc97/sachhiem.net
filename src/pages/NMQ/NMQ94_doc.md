@@ -3,7 +3,7 @@ layout: ../../layouts/Article.astro
 title: "Tâm Sự Với Những Em Hoạt Động Dân Chủ"
 author: "Nguyễn Mạnh Quang"
 date: 2018-02-22
-source: "https://sachhiem.net/NMQ/NMQ94_doc.php"
+source: "/NMQ/NMQ94_doc"
 category: "Lịch sử"
 lang: vi
 wordCount: 73

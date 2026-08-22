@@ -2,7 +2,7 @@
 layout: ../../layouts/Article.astro
 title: "Về hai nhân vật lịch sử"
 author: "Võ Đặng"
-source: "https://sachhiem.net/null"
+source: "/null"
 category: "Lịch sử"
 lang: vi
 wordCount: 6686

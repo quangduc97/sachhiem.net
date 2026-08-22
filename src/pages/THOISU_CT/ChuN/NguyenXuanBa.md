@@ -3,7 +3,7 @@ layout: ../../../layouts/Article.astro
 title: "Đảng Cộng Sản Việt Nam"
 author: "Nguyễn Xuân Ba"
 date: 2015-08-16
-source: "https://sachhiem.net/THOISU_CT/ChuN/NguyenXuanBa.php"
+source: "/THOISU_CT/ChuN/NguyenXuanBa"
 category: "Chính trị"
 lang: vi
 wordCount: 3748

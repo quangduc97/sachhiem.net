@@ -3,14 +3,14 @@ layout: ../../../layouts/Article.astro
 title: "Những Kẻ Chống Cộng Đang Đe Dọa Một Cuộc Cải Cách Ruộng Đất Khác"
 author: "Nhạn Biển"
 date: 2014-09-25
-source: "https://sachhiem.net/XAHOI/xhN/NhanBien.php"
+source: "/XAHOI/xhN/NhanBien"
 category: "Chính trị"
 lang: vi
 wordCount: 1339
-image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nha.jpg"
+image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/LICHSU/IMG/CCRD/Trienlam_CCRD_ HN_9Sep2014.jpg"
 ---
 
-<p align="center"><a href="https://www.sachhiem.net/"> <img border="0" src="https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nha.jpg"></a> ngày 25-Sep-2014</p>
+<p align="center"> ngày 25-Sep-2014</p>
   <p><i>LGT: Bỏ qua các tranh biện gây cảm tính lịch sử và thời đại, chỉ cần nhìn vấn đề theo con mắt toán học, ta có thể  nhận xét như sau:</i></p>
   <p><i>1. Có thể đâu đó ngày nay cũng vẫn còn hình ảnh những người nghèo như trong cách hình triễn lãm, nhưng hình ảnh những người giàu không những còn giàu gấp bội, mà con số người giàu cũng nhiều gấp bội lần hơn xưa. Nghĩa là <b>tỉ lệ  nghèo so với giàu</b> đã giảm đi đến mức gần tối đa.</i></p>
   <p><i>2. Thực chất mâu thuẫn giữa hai giới nghèo và giàu ngày nay cũng hoàn toàn thay đổi, theo hình thức khác. Ngày xưa, sự xô xát, bốc lột, hay liên hệ trực tiếp chủ tớ đã tạo thành hai giai cấp xã hội, ngăn cách nhau bằng một bức tường đông cứng và lạnh lẽo. Ngày nay, sự cách biệt chỉ là số vật chất, có thể đảo lộn vị thế giàu nghèo bất cứ lúc nào do hoàn cảnh kinh tế và yếu tố không đưa đến phân biệt giai cấp.</i></p>
@@ -35,4 +35,4 @@ image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nha.jpg"
  __________________
   <p><b>Mời đọc: </b></p>
   <p>- <i>"<b>Chuyện Cải Cách Ruộng Đất Ở Miền Bắc Trong Những Năm 1954-1956</b>"</i> của Nguyễn Mạnh Quang
-<a href="https://sachhiem.net/NMQ/NMQ042.php">https://sachhiem.net/NMQ/NMQ042.php</a></p>
+<a href="/NMQ/NMQ042">https://sachhiem.net/NMQ/NMQ042.php</a></p>

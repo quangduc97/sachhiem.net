@@ -3,7 +3,7 @@ layout: ../../../layouts/Article.astro
 title: "Những Mệnh Đề Rời -"
 author: "Bác sĩ Đặng Vũ Ái"
 date: 2014-07-15
-source: "https://sachhiem.net/THOISU_CT/ChuD/Dangvuai02.php"
+source: "/THOISU_CT/ChuD/Dangvuai02"
 category: "Chính trị"
 lang: vi
 wordCount: 2906
@@ -293,4 +293,4 @@ VN vì thế bị tầu đô hộ lần thứ 2. <img src="https://pub-756b239a5
   <p class="nguonL">Nguồn: diễn đàn thư tín </p>
 <p>_________________</p>
 <p><b>Bài khác của BS Đặng Vũ Ái</b></p>
-<p>-<a href="https://sachhiem.net/THOISU_CT/ChuD/Dangvuai01.php">Không Thể Chấp Nhận Những Luận Cứ Bênh Vực "Ngài Phản Quốc" Hoàng Quỳnh (BS Đặng Vũ Ái)</a></p>
+<p>-<a href="/THOISU_CT/ChuD/Dangvuai01">Không Thể Chấp Nhận Những Luận Cứ Bênh Vực "Ngài Phản Quốc" Hoàng Quỳnh (BS Đặng Vũ Ái)</a></p>

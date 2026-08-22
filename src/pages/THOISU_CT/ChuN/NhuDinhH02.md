@@ -3,7 +3,7 @@ layout: ../../../layouts/Article.astro
 title: "Thổ-Nhĩ-Kỳ Sẽ Tấn-Công Syrie?"
 author: "Nhữ Đình Hùng"
 date: 2014-03-29
-source: "https://sachhiem.net/THOISU_CT/ChuN/NhuDinhH02.php"
+source: "/THOISU_CT/ChuN/NhuDinhH02"
 category: "Chính trị"
 lang: vi
 wordCount: 764

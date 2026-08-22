@@ -2,7 +2,7 @@
 layout: ../../../layouts/Article.astro
 title: "Xét Lại Huyền Thoại \"Nguyễn Trường Tộ\""
 author: "Sachhiem giới thiệu"
-source: "https://sachhiem.net/LICHSU/S/SH_NTT.php"
+source: "/LICHSU/S/SH_NTT"
 category: "Lịch sử"
 lang: vi
 wordCount: 2607

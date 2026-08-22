@@ -3,7 +3,7 @@ layout: ../../../layouts/Article.astro
 title: "Thiên Chúa: Thánh Vương hay Ma Vương?"
 author: "Ri Nguyễn"
 date: 2016-12-26
-source: "https://sachhiem.net/TONGIAO/tgN/NguyenRi_29.php"
+source: "/TONGIAO/tgN/NguyenRi_29"
 category: "Tác giả"
 lang: vi
 wordCount: 4532
@@ -104,7 +104,7 @@ image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/CHUCTET/Solti
 
 <p class="TuaDenLeft">     Tội ác Của Đạo Catô Rô Ma  Giáo Tại Việt Nam</p>
 
-<p>Trích từ bài <a href="https://sachhiem.net/TONGIAO/tgN/NguyenRi_23.php">Nỗi Kinh Hãi Ca-tô Rô-ma Giáo Tại Việt Nam</a> của tác giả Kelsos, do Ri Nguyễn dịch. [Nguyên văn Anh ngữ toàn bài trong: <a href="https://www.truthbeknown.com/victims.htm">How many people have died in the name of Christ, Christianity and Catholicism? VICTIMS OF THE CHRISTIAN</a>]:</p>
+<p>Trích từ bài <a href="/TONGIAO/tgN/NguyenRi_23">Nỗi Kinh Hãi Ca-tô Rô-ma Giáo Tại Việt Nam</a> của tác giả Kelsos, do Ri Nguyễn dịch. [Nguyên văn Anh ngữ toàn bài trong: <a href="https://www.truthbeknown.com/victims.htm">How many people have died in the name of Christ, Christianity and Catholicism? VICTIMS OF THE CHRISTIAN</a>]:</p>
 <p>  Năm 1954, chiến sĩ tự do người Việt, Việt Minh, cuối  cùng đã đánh bại chính quyền thực dân Pháp ở Bắc Việt Nam, mà theo sau đó chính  quyền thực dân Pháp đã được hỗ trợ bởi các quỹ của Mỹ lên tới hơn $2 tỷ đồng [3 tỷ, theo bài<a href="https://vi.wikipedia.org/wiki/Qu%C3%A1_tr%C3%ACnh_can_thi%E1%BB%87p_c%E1%BB%A7a_M%E1%BB%B9_v%C3%A0o_Vi%E1%BB%87t_Nam_(1948-1975)#Vi.E1.BB.87n_tr.E1.BB.A3_qu.C3.A2n_s.E1.BB.B1_cho_Ph.C3.A1p_.E1.BB.9F_.C4.90.C3.B4ng_D.C6.B0.C6.A1ng_.281948-1952.29"> Viện trợ quân sự cho Pháp ở Đông Dương (1948-1952), vi.wikipedia</a>].  Mặc dù tự do tôn giáo được đảm bảo cho tất cả (Phần đông người Việt không  theo Phật giáo là người Catô Rô Ma giáo), do&nbsp;  chiến dịch tuyên truyền chống cộng rộng lớn nhiều người Catô Rô Ma Giáo  bỏ chạy vào Nam. Với sự giúp đỡ của vận động hành lang của Catô Rô Ma giáo ở  Washington và Hồng Y Spellman, phát ngôn viên của Vatican trong nền chính trị Mỹ,  người sau này kêu gọi các lực lượng Hoa Kỳ tại Việt Nam "Binh lính của  Chúa Kitô", một kế hoạch gian lận đã được&nbsp;  thiết lập để ngăn chặn các cuộc bầu cử dân chủ mà có thể mang lại sự  CS Việt Minh nắm quyền ở miền Nam, và tín đồ cuồng tín Catô Rô Ma giáo Ngô  Đình Diệm đã làm tổng thống Nam Việt Nam. [<a href="https://beta.groups.yahoo.com/neo/groups/VIDANVIET/conversations/messages/95719">MW16ff</a>]</p>
 <p> Diệm mang viện trợ của Hoa Kỳ, thực phẩm, hỗ trợ kỹ thuật và  các trợ giúp tổng quát trao riêng cho người Catô Rô Ma giáo, các cá nhân và  các làng Phật giáo đã bị bỏ qua hoặc phải trả tiền cho các khoản viện trợ thực  phẩm đã được trao cho người Catô Rô Ma Giáo miễn phí. Chỉ có Catô Rô Ma giáo  được hỗ trợ.</p>
 <p>    Học thuyết McCarthy tại Việt Nam trở thành khủng  khiếp hơn so với ở Mỹ. Năm 1956 Diệm ban hành sắc lệnh nội dung: "<i>Các  cá nhân được coi là nguy hiểm cho an ninh quốc phòng và an ninh chung có thể  bị giam trong trại tập trung</i>."</p>
@@ -147,4 +147,4 @@ image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/CHUCTET/Solti
 <p>_____________________</p>
   <p>Các bài của Nguyễn Ri: link</p>
 <p>
-<a href="https://sachhiem.net/TONGIAO/tgN/ListRiNguyen.inc.php" target="_blank">https://sachhiem.net/TONGIAO/tgN/ListRiNguyen.inc.php</a></p>
+<a href="/TONGIAO/tgN/ListRiNguyen.inc" target="_blank">https://sachhiem.net/TONGIAO/tgN/ListRiNguyen.inc.php</a></p>

@@ -3,7 +3,7 @@ layout: ../../../layouts/Article.astro
 title: "Nhật Ký Biển Đông: Ô. Trump Bất Định hay Quyền Biến?"
 author: "Đào Văn Bình"
 date: 2017-05-19
-source: "https://sachhiem.net/DAOVB/CT/DaovBinh87.php"
+source: "/DAOVB/CT/DaovBinh87"
 category: "Chính trị"
 lang: vi
 wordCount: 5832

@@ -3,7 +3,7 @@ layout: ../../layouts/Article.astro
 title: "LÝ CHÁNH TRUNG - Tìm Về Dân Tộc"
 author: "Sưu tầm của Kevin Trần"
 date: 2016-03-15
-source: "https://sachhiem.net/VANHOC/TranKevin.php"
+source: "/VANHOC/TranKevin"
 category: "Văn hóa"
 lang: vi
 wordCount: 2094

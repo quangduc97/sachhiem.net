@@ -3,7 +3,7 @@ layout: ../../layouts/Article.astro
 title: "Vatican Hoang Mang Vì Món Quà \"Cây Thánh Giá Cộng Sản\" của Tổng Thống Bolivia Tặng Giáo Hoàng Francis"
 author: "Jonathan Watts /Latin America"
 date: 2014-07-07
-source: "https://sachhiem.net/LTX/LyThaiTS13.php"
+source: "/LTX/LyThaiTS13"
 category: "Lịch sử"
 lang: vi
 wordCount: 1227

@@ -3,7 +3,7 @@ layout: ../../../layouts/Article.astro
 title: "Xét Lại Hiến Pháp 1956 Của Đệ Nhất Cộng Hòa"
 author: "Nguyễn Kha"
 date: 2014-10-25
-source: "https://sachhiem.net/LICHSU/N/NguyenKha_04.php"
+source: "/LICHSU/N/NguyenKha_04"
 category: "Lịch sử"
 lang: vi
 wordCount: 2782

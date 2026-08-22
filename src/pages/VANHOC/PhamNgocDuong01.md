@@ -3,17 +3,16 @@ layout: ../../layouts/Article.astro
 title: "Đỗ Văn Xuyền: Người 50 năm giải mã chữ của tổ tiên người Việt"
 author: "Phạm Ngọc Dương"
 date: 2012-02-21
-source: "https://sachhiem.net/VANHOC/PhamNgocDuong01.php"
+source: "/VANHOC/PhamNgocDuong01"
 category: "Văn hóa"
 lang: vi
 wordCount: 1798
-image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nha.jpg"
+image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/VANHOC/Hinh/PhamNgocDuong01_DovanXuyen.jpg"
 ---
 
 <table border="0" cellpadding="1" width="250" align="center">
 		<tbody><tr>
-			<td width="91"><a href="/index">
-			<img border="0" src="https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nha.jpg"></a></td>
+			<td width="91"></td>
 			<td valign="top" width="149">
 			</td>
 		</tr>

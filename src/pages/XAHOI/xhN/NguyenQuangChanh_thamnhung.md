@@ -3,7 +3,7 @@ layout: ../../../layouts/Article.astro
 title: "TẬN CÙNG CỦA NỖI ĐAU"
 author: "Nguyễn Quang Chánh"
 date: 2023-07-13
-source: "https://sachhiem.net/XAHOI/xhN/NguyenQuangChanh_thamnhung.php"
+source: "/XAHOI/xhN/NguyenQuangChanh_thamnhung"
 category: "Chính trị"
 lang: vi
 wordCount: 4239

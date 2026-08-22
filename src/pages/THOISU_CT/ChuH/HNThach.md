@@ -3,7 +3,7 @@ layout: ../../../layouts/Article.astro
 title: "Cảm Tưởng Của Một Công Dân Về Ngày 19 Tháng 5"
 author: "Hoàng Ngọc Thạch"
 date: 2012-05-18
-source: "https://sachhiem.net/THOISU_CT/ChuH/HNThach.php"
+source: "/THOISU_CT/ChuH/HNThach"
 category: "Lịch sử"
 lang: vi
 wordCount: 1280

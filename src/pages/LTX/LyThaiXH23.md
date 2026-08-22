@@ -2,15 +2,13 @@
 layout: ../../layouts/Article.astro
 title: "Gặp Lại Những Người Năm Xưa Ở Xóm Đạo"
 author: "Lý Thái Xuân"
-source: "https://sachhiem.net/LTX/LyThaiXH23.php"
+source: "/LTX/LyThaiXH23"
 category: "Xã hội"
 lang: vi
 wordCount: 1000
-image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nha.jpg"
 ---
 
-<p align="center"><a href="https://www.sachhiem.net/"> <img border="0" src="https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nha.jpg"></a> </p>
-  <p> <span class="First">C</span>uối cùng thì bà Khoả của ca đoàn nhà thờ ở thị xã tôi   cũng sang Mỹ đoàn tụ với con gái sau khi chôn cất ông chồng tại Việt Nam. Chị em bà Khỏa ngày xưa có tiếng hát rất trong trẻo nên người nào còn ở lại thị xã thì ở hội hát gần như suốt đời. </p>
+<p> <span class="First">C</span>uối cùng thì bà Khoả của ca đoàn nhà thờ ở thị xã tôi   cũng sang Mỹ đoàn tụ với con gái sau khi chôn cất ông chồng tại Việt Nam. Chị em bà Khỏa ngày xưa có tiếng hát rất trong trẻo nên người nào còn ở lại thị xã thì ở hội hát gần như suốt đời. </p>
   <p>Điểm đặc biệt của các con chiên là hễ gặp nhau, câu trước câu sau là quẹo vào "xóm đạo" ngay tức khắc. Quẹo vào đương nhiên là nói chuyện ông Cha, chuyện các con chiên ngoan trong đạo, ... Đến chuyện đi rửa tội lén những người sắp chết cũng thuộc phạm trù "sống đạo" và được kể ra như chuyện phải nói. </p>
   <p>Chả là ông chồng của bà Khoả này cũng là dân lương, lấy cô Khỏa thì lại <i>"xuất giá tòng thê"</i> nhưng bà mẹ chồng thì không ai theo con dâu tòng cái đạo ... lạ đó cả, trừ phi không còn đường sống nào khác! Bà Khỏa nói: "<i>Khi bà sắp chết, em có rửa tội cho bà nội mấy đứa rồi!</i>" Câu này nghe quen thuộc làm sao! Nó đã trở thành một qui tắc bất thành văn của những con chiên phải làm bổn phận "<i>thiêng liêng</i>" là người "<i>đạo đức</i>" và đầy công trạng đối với nhà thờ.  </p>
   <p>Bẵng đi một thời gian mấy tháng tôi không liên lạc, lại thêm cũng vì mấy chuyến đi nghỉ hè khá xa. Tuần rồi nhân tìm số điện thoại người bạn khác, lại gặp số của Khỏa, nhớ lại hoàn cảnh Khỏa mới sang đất lạ quê người, e rằng bà bị cảm giác cô đơn và trách  móc người đồng hương, nên tôi hỏi thăm lần nữa. Bà Khỏa ở nhà cặp vợ chồng con gái mới cưới nhau. Cả ngày hai đứa đi làm, bà ở nhà một mình đi học tiếng Anh vài giờ mỗi ngày. Bà than: "<i>lớp của em toàn là người Xì với người Hàn gì đâu không hà!</i>". Tôi khuyến khích: "<i>Vậy thì cô có cơ hội thực tập tiếng Anh chứ sao?"</i></p>

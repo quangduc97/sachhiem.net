@@ -3,7 +3,7 @@ layout: ../../../layouts/Article.astro
 title: "Thực hư chuyện Thánh ca hát ở chùa Thiền Tôn Phật Quang của Thượng tọa Thích Chân Quang?"
 author: "Trạch Pháp / Phatgiao.org.vn"
 date: 2026-08-08
-source: "https://sachhiem.net/TONGIAO/ThichCQ/ThChanQuang05.php"
+source: "/TONGIAO/ThichCQ/ThChanQuang05"
 category: "Chính trị"
 lang: vi
 wordCount: 531

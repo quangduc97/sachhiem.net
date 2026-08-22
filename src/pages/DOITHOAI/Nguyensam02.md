@@ -3,7 +3,7 @@ layout: ../../layouts/Article.astro
 title: "Góp Ý Về Thư Của Antoine Nguyễn Tấn"
 author: "Nguyễn Sâm"
 date: 2013-03-27
-source: "https://sachhiem.net/DOITHOAI/Nguyensam02.php"
+source: "/DOITHOAI/Nguyensam02"
 category: "Đối thoại"
 lang: vi
 wordCount: 7746
@@ -105,7 +105,7 @@ của Hội thảo Chúa Giêsu </p>
 <p>1-  <a href="/TONGIAO/tgN/Nguyensam0">Thư Ngỏ Gửi Hội Đồng Giám Mục Việt Nam và Hội Thánh Tin Lành Việt Nam </a>của Nguyễn Sâm</p>
 <p>2- <a href="https://www.tinparis.net/thoisu13/2013_03_20_ThuNgoPhucDapBaiChitrichCongGiaoNguyenvanSam_AntoineNguyen">THƯ NGỎ PHÚC ĐÁP  BÀI CHỈ TRÍCH CÔNG GIÁO VÀ TIN LÀNH của Tác giả NGUYỄN SÂM ngày 20/02/2013"</a> của Antoine Nguyễn Tấn <br>
 (https://www.tinparis.net/thoisu13/2013_03_20_ThuNgoPhucDap BaiChitrichCongGiaoNguyenvanSam_AntoineNguyenTan)</p>
-<p><a href="https://sachhiem.net/TCN/TCNts/TCNts067.php">3- Các Thư Đối Đáp Của Nguyễn Sâm và Antoine Nguyễn Tấn Về "Thư Ngỏ Gửi HĐGM"</a> (Trần Chung Ngọc) </p>
+<p><a href="/TCN/TCNts/TCNts067">3- Các Thư Đối Đáp Của Nguyễn Sâm và Antoine Nguyễn Tấn Về "Thư Ngỏ Gửi HĐGM"</a> (Trần Chung Ngọc) </p>
 <hr>
 <p class="MUC"><b>Phụ Lục: </b></p>
 <p class="Tuaduoi"><b>THƯ NGỎ PHÚC ĐÁP BÀI CHỈ TRÍCH CÔNG GIÁO VÀ TIN LÀNH của Tác giả NGUYỄN SÂM ngày 20/02/2013" </b></p>
@@ -150,4 +150,4 @@ của Hội thảo Chúa Giêsu </p>
 <p class="TacgiaL">Antoine   Nguyễn Tấn</p>
 <p> (Thần học   sử gia các Tôn giáo ISTR và Sorbonne Paris) </p>
 ____________________
-<p>Các bài của Nguyễn Sâm: link <a href="https://sachhiem.net/TONGIAO/tgN/ListNSm.inc.php" target="_blank">https://sachhiem.net/TONGIAO/tgN/ListNSm.inc.php</a></p>
+<p>Các bài của Nguyễn Sâm: link <a href="/TONGIAO/tgN/ListNSm.inc" target="_blank">https://sachhiem.net/TONGIAO/tgN/ListNSm.inc.php</a></p>

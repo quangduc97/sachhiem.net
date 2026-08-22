@@ -3,7 +3,7 @@ layout: ../../../layouts/Article.astro
 title: "Vũ Trụ Tiền Big Bang Và Thế Giới 5 lớp Với Hình Minh Họa Mô Tả Tổng Quát."
 author: "Trần Ngẫu Hồ"
 date: 2017-08-07
-source: "https://sachhiem.net/TONGIAO/tgTR/TranNgauHo_03.php"
+source: "/TONGIAO/tgTR/TranNgauHo_03"
 category: "Chính trị"
 lang: vi
 wordCount: 4921
@@ -11,7 +11,7 @@ image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/TONGIAO/IMG/THEORY/T
 ---
 
 <div class="tomluoc">
-    <p><i>LGT: Tác giả thu gọn một chương trong phiên bản 2 của quyển <a href="https://sachhiem.net/EMAILS/SH/Sachhiem17c.php">Vũ Trụ Tiền Big Bang</a> đã giới thiệu trước đây và xin gửi đến bạn đọc để thưởng lãm như một góc nhìn của triết lý về vũ trụ.</i> (SH)</p>
+    <p><i>LGT: Tác giả thu gọn một chương trong phiên bản 2 của quyển <a href="/EMAILS/SH/Sachhiem17c">Vũ Trụ Tiền Big Bang</a> đã giới thiệu trước đây và xin gửi đến bạn đọc để thưởng lãm như một góc nhìn của triết lý về vũ trụ.</i> (SH)</p>
   </div>
    
     <b>I. Đi tìm câu trả lời cho Bản Thể và Thực Tại.</b>
@@ -112,7 +112,7 @@ image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/TONGIAO/IMG/THEORY/T
     
 <p>_______________</p>
  <p><b>Bài đọc thêm:</b></p>
- <p>- <a href="https://sachhiem.net/EMAILS/SH/Sachhiem17c.php">Giới Thiệu Sách Mới "TUYÊN NGÔN VỀ THỂ TRẠNG VŨ TRỤ TIỀN BIG BANG"</a> (Tác giả: Trần Ngẫu Hồ)</p>
- <p><a href="https://sachhiem.net/TONGIAO/tgTR/TranNgauHo.php">- Để Trả Lời Cho Câu Hỏi: Con Người Từ Đâu Đến?</a>  (Trần Ngẫu Hồ)
+ <p>- <a href="/EMAILS/SH/Sachhiem17c">Giới Thiệu Sách Mới "TUYÊN NGÔN VỀ THỂ TRẠNG VŨ TRỤ TIỀN BIG BANG"</a> (Tác giả: Trần Ngẫu Hồ)</p>
+ <p><a href="/TONGIAO/tgTR/TranNgauHo">- Để Trả Lời Cho Câu Hỏi: Con Người Từ Đâu Đến?</a>  (Trần Ngẫu Hồ)
    
    </p>

@@ -3,7 +3,7 @@ layout: ../../../layouts/Article.astro
 title: "Cụ Diệm Khóc Ròng"
 author: "Bảo quốc Kiếm"
 date: 2013-11-05
-source: "https://sachhiem.net/TONGIAO/BQK/BQK02a.php"
+source: "/TONGIAO/BQK/BQK02a"
 category: "Tác giả"
 lang: vi
 wordCount: 355
@@ -102,7 +102,7 @@ image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/LICHSU/IMG/NGODD/NDD
 <p class="TacgiaL">BQK-04-11-13 </p>
 <p>______________</p>
 <p> Mời xem bài</p>
-<p>- <a href="https://sachhiem.net/TONGIAO/BQK/BQK02.php">Văn Tế Cụ Diệm năm 2011,</a> và</p>
-<p>- <a href="https://sachhiem.net/TONGIAO/BQK/BQK02a.php">Văn Tế Cụ Diệm năm 2013,</a> cùng tác giả. </p>
-<p>- Nếu dưới đây có báo lỗi, xin bấm <a href="https://sachhiem.net/TONGIAO/BQK/BQK02b.php">nơi đây </a>để xem.</p>
+<p>- <a href="/TONGIAO/BQK/BQK02">Văn Tế Cụ Diệm năm 2011,</a> và</p>
+<p>- <a href="/TONGIAO/BQK/BQK02a">Văn Tế Cụ Diệm năm 2013,</a> cùng tác giả. </p>
+<p>- Nếu dưới đây có báo lỗi, xin bấm <a href="/TONGIAO/BQK/BQK02b">nơi đây </a>để xem.</p>
 </div>

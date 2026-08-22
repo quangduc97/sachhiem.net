@@ -1,7 +1,7 @@
 ---
 layout: ../../../layouts/Article.astro
 title: "........"
-source: "https://sachhiem.net/null"
+source: "/null"
 category: "Xã hội"
 lang: en
 wordCount: 0

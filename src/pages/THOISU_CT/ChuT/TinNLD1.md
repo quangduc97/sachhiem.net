@@ -2,17 +2,16 @@
 layout: ../../../layouts/Article.astro
 title: "Hai bản đồ quý khẳng định"
 author: "TS Nguyễn Xuân Diện"
-source: "https://sachhiem.net/THOISU_CT/ChuT/TinNLD1.php"
+source: "/THOISU_CT/ChuT/TinNLD1"
 category: "Chính trị"
 lang: vi
 wordCount: 1569
-image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nha.jpg"
+image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/LICHSU/IMG/Hoangsa.jpg"
 ---
 
 <p class="Tuaduoi">Phó Giám đốc Thư viện, Viện Nghiên cứu Hán Nôm</p>	
     	
-<p align="center"><a href="https://www.sachhiem.net/">
-<img border="0" src="https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nha.jpg"></a> 22 tháng 3, 2009	 </p>
+<p align="center"> 22 tháng 3, 2009	 </p>
 <p class="baochi">Lao Động số 60 Ngày 19/03/2009 Cập nhật: 8:41 AM, 19/03/2009</p>
 <p>(LĐ) - Trong vấn đề tranh chấp chủ quyền về biển Đông với Trung Quốc, bên cạnh khía 
 cạnh pháp lý và luật pháp quốc tế thì vấn đề chứng cứ lịch sử là rất quan trọng. 

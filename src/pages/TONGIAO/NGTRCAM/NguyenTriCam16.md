@@ -2,17 +2,16 @@
 layout: ../../../layouts/Article.astro
 title: "Cải đạo bắt đầu từ trẻ con"
 author: "Nguyễn Trí Cảm"
-source: "https://sachhiem.net/TONGIAO/NGTRCAM/NguyenTriCam16.php"
+source: "/TONGIAO/NGTRCAM/NguyenTriCam16"
 category: "Tác giả"
 lang: vi
 wordCount: 1571
-image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nha.jpg"
+image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/TONGIAO/Img/Chuavatreem.jpg"
 ---
 
 <table border="0" cellpadding="0" width="250" align="center"><tbody><tr>
 				<td width="125">
-				<a href="/index">
-				<img border="0" src="https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nha.jpg"></a></td>
+				</td>
 	<td valign="top">17 tháng 1, 2010	</td></tr></tbody></table>
 		
 			<p><b><font size="5" face="Times New Roman">M</font></b>ột nhóm trẻ con vây quanh một chú chim sẻ đã 

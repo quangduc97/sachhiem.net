@@ -3,7 +3,7 @@ layout: ../../layouts/Article.astro
 title: "Giáo Hoàng Tố Ngược Nạn Nhân - Nước Chi-lê Sửng Sốt"
 author: "Phạm Uyên Bác lược dịch từ"
 date: 2018-01-20
-source: "https://sachhiem.net/PNNHAN/Chile_18Jan2018.php"
+source: "/PNNHAN/Chile_18Jan2018"
 category: "Xã hội"
 lang: vi
 wordCount: 2686

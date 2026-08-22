@@ -2,11 +2,11 @@
 layout: ../../../layouts/Article.astro
 title: "Cuộc Tháo Chạy Tán Loạn"
 author: "của Frank Snepp / Người dịch :Ngô Dư"
-source: "https://sachhiem.net/null"
+source: "/null"
 category: "Lịch sử"
 lang: vi
 wordCount: 242
-image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nha.jpg"
+image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/ball.GIF"
 ---
 
 <div align="center" style="position: relative; left: 0; top: 0">
@@ -24,8 +24,7 @@ image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nha.jpg"
 <tr><td width="100%">
 <div style="padding-left: 50px; padding-right: 50px"> 
 	<table border="0" cellpadding="1" width="600" cols="2"><tbody><tr>
-	<td><a href="https://www.sachhiem.net/">
-	<img border="0" src="https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nha.jpg"></a></td>
+	<td></td>
 <td valign="top" width="210"><p>12 tháng 1, 2011</p></td></tr></tbody></table>
 
 <p>(sẽ được thượng tải trong một ngày rất gần)</p>

@@ -2,7 +2,7 @@
 layout: ../../../layouts/Article.astro
 title: "Bây Giờ Rõ Mặt Đôi Ta"
 author: "Hoàng Ngọc"
-source: "https://sachhiem.net/THOISU_CT/ChuH/HoangNgoc.php"
+source: "/THOISU_CT/ChuH/HoangNgoc"
 category: "Chính trị"
 lang: vi
 wordCount: 571

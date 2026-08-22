@@ -3,7 +3,7 @@ layout: ../../layouts/Article.astro
 title: "HÀ NỘI BỂ DÂU"
 author: "BS Nguyễn Văn Thịnh"
 date: 2017-11-11
-source: "https://sachhiem.net/NGVTHINH/NguyenvThinh_HNBDg.php"
+source: "/NGVTHINH/NguyenvThinh_HNBDg"
 category: "Văn hóa"
 lang: vi
 wordCount: 6322
@@ -151,4 +151,4 @@ Ký ức đưa tôi về qúa khứ xa hơn. Ông thầy già dạy  Văn đi l�
 </center>
 
   
-<p>•  Các bài của Nguyễn Văn Thịnh: link <a href="https://sachhiem.net/NGVTHINH/ListNVTh.inc.php" target="_blank">https://sachhiem.net/NGVTHINH/ListNVTh.inc.php</a></p>
+<p>•  Các bài của Nguyễn Văn Thịnh: link <a href="/NGVTHINH/ListNVTh.inc" target="_blank">https://sachhiem.net/NGVTHINH/ListNVTh.inc.php</a></p>

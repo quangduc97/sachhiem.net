@@ -3,7 +3,7 @@ layout: ../../../layouts/Article.astro
 title: "Văn Tế Cụ Ngô Đình Diệm"
 author: "Bảo quốc Kiếm"
 date: 2013-10-31
-source: "https://sachhiem.net/TONGIAO/BQK/BQK02a.php"
+source: "/TONGIAO/BQK/BQK02a"
 category: "Tác giả"
 lang: vi
 wordCount: 719
@@ -91,6 +91,6 @@ cầu hồn người biết lấy trong bỏ đục,  xa hẳn hận thù mà gi
 <p>______________</p>
 <p>(*) Vatican </p>
 <p> Mời xem bài</p>
-<p> <a href="https://sachhiem.net/TONGIAO/BQK/BQK02.php">- Văn Tế Cụ Diệm năm 2011,</a> và</p>
-<p>- <a href="https://sachhiem.net/TONGIAO/BQK/BQK02b.php">Cụ Diệm Khóc Ròng</a> cùng tác giả. </p>
-<p>Nếu dưới đây có báo lỗi, xin bấm <a href="https://sachhiem.net/TONGIAO/BQK/BQK02a.php">nơi đây </a>để xem.</p>
+<p> <a href="/TONGIAO/BQK/BQK02">- Văn Tế Cụ Diệm năm 2011,</a> và</p>
+<p>- <a href="/TONGIAO/BQK/BQK02b">Cụ Diệm Khóc Ròng</a> cùng tác giả. </p>
+<p>Nếu dưới đây có báo lỗi, xin bấm <a href="/TONGIAO/BQK/BQK02a">nơi đây </a>để xem.</p>

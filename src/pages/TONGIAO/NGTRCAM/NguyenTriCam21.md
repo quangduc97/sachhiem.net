@@ -2,14 +2,14 @@
 layout: ../../../layouts/Article.astro
 title: "Suy Nghĩ về Việc Thành Lập Uỷ Ban Công Lý và Hoà Bình"
 author: "Nguyễn Trí Cảm"
-source: "https://sachhiem.net/TONGIAO/NGTRCAM/NguyenTriCam21.php"
+source: "/TONGIAO/NGTRCAM/NguyenTriCam21"
 category: "Tác giả"
 lang: vi
 wordCount: 2617
-image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nha.jpg"
+image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/TONGIAO/IMG/LINHMUC/GMNguyenThaiHop1.jpg"
 ---
 
-<p align="center"><a href="https://sachhiem.net/index.php"><img hspace="20" border="0" src="https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nha.jpg"></a>  06 tháng 11, 2010 </p>
+<p align="center">  06 tháng 11, 2010 </p>
 <p><i>LTS: Trong xã hội của những nước tân tiến ngày nay,  tôn giáo không có giá trị đối với thế quyền. Giáo Hòang đi đến đâu cũng bị dân chúng chống đối. Những quốc gia mà ngày xưa giáo hội xem như những đứa con cưng, trưởng nữ, như Pháp, Ý, Tây Ban Nha,... nay không thèm "mẹ Vatican" nữa. Đọc các lời phê bình trên các mạng lưới tòan cầu cho thấy, ngày nay chẳng những họ đã ngỏanh mặt làm ngơ, lại còn chửi rủa giáo hòang không thương tiếc. Có lẽ giáo hội nên thử thành lập những ủy ban "công lý và hòa bình" ở các quốc gia đó trước, để vừa giảng lại "tin mừng", vừa đòi lại ngôi vị "cầm cán cân công lý" đã mất xem có kết quả không, rồi hãy đem vào Việt Nam cũng chưa muộn.  Khi "Công Lý" của "Công Giáo" mọc lên, người ta liên tưởng đến "tòa án giáo hội". Và đó là một từ ngữ làm thế giới (ngòai giáo hội) thực sự kinh tởm. (SH) 
 </i> </p>
 			

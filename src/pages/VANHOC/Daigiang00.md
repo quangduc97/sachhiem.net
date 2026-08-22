@@ -2,14 +2,14 @@
 layout: ../../layouts/Article.astro
 title: "Trò chuyện với Họa Sĩ Đại Giang"
 author: "PVSH"
-source: "https://sachhiem.net/VANHOC/Daigiang00.php"
+source: "/VANHOC/Daigiang00"
 category: "Văn hóa"
 lang: vi
 wordCount: 1171
-image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nha.jpg"
+image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/VANHOC/Hinh/DAIGIANG/DG5.JPG"
 ---
 
-<p align="center"><a href="https://sachhiem.net/index.php"><img border="0" hspace="20" src="https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nha.jpg"></a>thực hiện 08 tháng 9, 2009 - bổ túc ngày 25 tháng 11, 2010 </p>
+<p align="center">thực hiện 08 tháng 9, 2009 - bổ túc ngày 25 tháng 11, 2010 </p>
 							
 	<p>							<span class="First">T</span>rước đây sachhiem.net đã có đăng lại một bài 
 							viết Hội Họa - <a href="/VANHOC/Daigiang">"Nghệ Thuật Đảo Nghịch - Chen Chân Thế Giới"</a> 
@@ -118,7 +118,7 @@ Book Art của thế giới ngày nay  là  Creative  Genius 100 top collectible
 <p>- 
 <a href="https://phapluattp.vn/20091212111441170p0c1021/hoa-si-lon-nguoc-nguyen-dai-giang.htm">“Họa sĩ lộn ngược” Nguyễn Đại Giang của QUỲNH TRANG/Pháp Luật VN.</a></p>
 							<p>- <a href="/VANHOC/Daigiang">Hội Họa: Nghệ Thuật Đảo Nghịch Chen Chân Thế Giới (SH)</a></p>
-							<p><a href="https://sachhiem.net/VANHOC/Daigiang00.php">- Trò Chuyện Với Họa Sĩ Đại Giang (PVSH)</a></p>
+							<p><a href="/VANHOC/Daigiang00">- Trò Chuyện Với Họa Sĩ Đại Giang (PVSH)</a></p>
 <p class="TacgiaR">PVSH</p>
 							
 							<p>PS: Cập nhật ngày 12/10/2010: </p>

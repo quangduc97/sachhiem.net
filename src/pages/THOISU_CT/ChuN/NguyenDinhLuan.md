@@ -1,7 +1,7 @@
 ---
 layout: ../../../layouts/Article.astro
 title: "Chính sách đối ngoại của Mỹ"
-source: "https://sachhiem.net/null"
+source: "/null"
 category: "Chính trị"
 lang: vi
 wordCount: 6537

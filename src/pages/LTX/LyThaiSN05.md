@@ -3,7 +3,7 @@ layout: ../../layouts/Article.astro
 title: "Thánh Kinh Ủng Hộ Nô Lệ - Một Sự Kiện Lịch Sử"
 author: "Lý Thái Xuân"
 date: 2025-09-18
-source: "https://sachhiem.net/LTX/LyThaiSN05.php"
+source: "/LTX/LyThaiSN05"
 category: "Chính trị"
 lang: vi
 wordCount: 1906

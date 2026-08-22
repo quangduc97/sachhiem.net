@@ -3,16 +3,16 @@ layout: ../../../layouts/Article.astro
 title: "Chệt Đỏ Ngang Ngược Và Những Nguy Cơ Nội Tại"
 author: "Thiên Lôi"
 date: 2012-08-12
-source: "https://sachhiem.net/THLOI/CT/ThienLoi11.php"
+source: "/THLOI/CT/ThienLoi11"
 category: "Chính trị"
 lang: vi
 wordCount: 7097
-image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nha.jpg"
+image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/THOISU_CT/Hinh/QuanheTQ/KhanhthanhTamSa24July_ThienLoi11.jpg"
 ---
 
 <table border="0" cellpadding="0" width="250" align="center">
 		  <tbody><tr>
-	<td width="125"><a href="/index"><img border="0" src="https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nha.jpg"></a></td>
+	<td width="125"></td>
     <td valign="top">12-Aug-2012</td>
 		</tr></tbody></table>
 <p class="tomluoc">Vì thế mà Nhà nước phải luôn cải thiện những nhược điểm trong quản lý xã hội, mạnh dạn loại trừ những cán bộ đảng viên tham nhũng để trong sạch hóa hàng ngũ, gia tăng lòng tin của dân và quân vào sự lãnh đạo của Đảng cầm quyền và kỳ vọng sẽ không có bất kỳ đốm lửa nhỏ nào bật cháy bất ngờ trong nhà thì mọi người mới an tâm dốc lòng chống giặc ngoài được.</p>

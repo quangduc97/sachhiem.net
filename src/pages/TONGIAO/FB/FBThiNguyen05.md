@@ -3,7 +3,7 @@ layout: ../../../layouts/Article.astro
 title: "“VIRUS CHÚA: Cách Thức Tôn Giáo Lây Nhiễm Đến Văn Hóa Và Cuộc Sống Của Chúng Ta”"
 author: "FB Thi Nguyên"
 date: 2019-07-10
-source: "https://sachhiem.net/TONGIAO/FB/FBThiNguyen05.php"
+source: "/TONGIAO/FB/FBThiNguyen05"
 category: "Tác giả"
 lang: vi
 wordCount: 548

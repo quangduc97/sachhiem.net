@@ -2,14 +2,14 @@
 layout: ../../../layouts/Article.astro
 title: "ÔNG NGÔ ĐÌNH DIỆM LÀM THƠ ?"
 author: "Thanh Thanh"
-source: "https://sachhiem.net/LICHSU/LEXNHUAN/LeXNhuan01.php"
+source: "/LICHSU/LEXNHUAN/LeXNhuan01"
 category: "Lịch sử"
 lang: vi
 wordCount: 3767
-image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nha.jpg"
+image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/LICHSU/IMG/NGODD/NDDlamtho.jpg"
 ---
 
-<p align="center"><a href="/LICHSU/index"><img hspace="20" border="0" src="https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nha.jpg"></a> <a href="/LICHSU/LEXNHUAN/LXN_main">Mục lục các bài liên hệ với chế độ Ngô Đình Diệm </a> &nbsp;&nbsp; 17 tháng 10, 2009  </p>
+<p align="center"> <a href="/LICHSU/LEXNHUAN/LXN_main">Mục lục các bài liên hệ với chế độ Ngô Đình Diệm </a> &nbsp;&nbsp; 17 tháng 10, 2009  </p>
 <p><i>LTS: Nếu không có những bài viết như sau, những người thích đọc emails mà thiếu vốn liếng văn học sẽ tin theo những bài viết của những nhà văn nhà thơ "mì ăn liền" trên các diễn đàn thư tín, mỗi ngày thổi ra một "phong trào" mới. Hôm nay phục hồi tinh thần này, ngày mai hạ bệ danh nhân kia, ngày mốt đánh bóng nhân vật nọ,.... Và ông Ngô Đình Diệm ở chỗ nào đó trong thế giới vô hình cũng giật mình rằng ông là tác giả một bài thơ, lại là thơ đường với đầy đủ niêm luật mà ông không hiểu!  Điều quan trọng hơn là bài thơ đó "làm dáng tư cách" cho cuộc đời làm chính trị của ông. </i></p>
 <p><i>Trong cuốn "Chơi Chữ" của cụ Lãng Nhân, ấn bản 1979 của Zieleks Co., in tại U.S.A, bài thơ dưới đây không thấy tựa, nhưng đề là "Ông Nguyễn Sĩ Giác khoảng năm 1920 có bài thơ tỏ chí:"... Tiếp theo dưới bài thơ, cụ Lãng Nhân biên: 
 <span style="background-color: #CCCCCC">"Lời thơ bằng phẳng, có chỗ mâu thuẫn là "Hỏi bến: thuyền không, lái cũng không!" thì lấy đâu mà cắm đợi nước trong?  Sở dĩ chúng tôi lục ra đây là vì khoảng năm 1961, có người chép lại, bảo là sáng tác của ông Ngô Đình Diệm, và đưa ra "sách họa", báo hại mấy ông trong vòng phải nghĩ thơ "phụng họa" rồi mấy ông ngoài vòng nhân thế cũng ghép vần đả kích:</span></i></p>
@@ -299,7 +299,7 @@ Trung-Học Đệ-Nhị Cấp tương-đương lớp 12) </p>
 <p class="TuaDenLeft">Những bài về nạn trộm văn:</p>
 <p>- <a href="/EMAILS/emailL/Lythai5">Ăn cắp cả cái sắc không của nhà Phật" (L ýThái Xuân)</a></p>
 <p>- <a href="/LICHSU/LEXNHUAN/LeXNhuan01"> Ông Ngô Đình Diệm Biết Làm Thơ? (Thanh Thanh)</a></p>
-<p><a href="https://sachhiem.net/DOITHOAI/LeVietThuong2.php">- Trường Hợp «TỔ QUỐC ĂN NĂN» của Nguyễn Gia Kiểng (Lê Việt Thường)</a></p>
+<p><a href="/DOITHOAI/LeVietThuong2">- Trường Hợp «TỔ QUỐC ĂN NĂN» của Nguyễn Gia Kiểng (Lê Việt Thường)</a></p>
 		
 <p class="TuaDenLeft">Những bài về Ngô Đình Diệm</p>
      <iframe target="top" name="I1" src="/LICHSU/CacbaiNgDD.php" width="500" height="200">

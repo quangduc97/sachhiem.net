@@ -3,7 +3,7 @@ layout: ../../../layouts/Article.astro
 title: "Trương Vĩnh Ký: Lòng Trung Thành Đổi Bằng Huân Chương Và Máu Đồng Bào"
 author: "FB Lê Công Năng"
 date: 2026-06-27
-source: "https://sachhiem.net/LICHSU/FB/FBLeCongNang.php"
+source: "/LICHSU/FB/FBLeCongNang"
 category: "Lịch sử"
 lang: vi
 wordCount: 1364
@@ -40,14 +40,14 @@ image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/LICHSU/IMG/PETRUSKY/
  <p align="center"><img src="https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/LICHSU/IMG/PETRUSKY/HocGia_AcThat.jpg" width="400" height="496" alt=""></p>
  <p>________________</p>
  <p><b>Bài đọc thêm:</b></p>
- <p>- <a href="https://sachhiem.net/NGVTHINH/NguyenvThinh_LS02.php">Về Con Người Trương Vĩnh Ký (BS Nguyễn Văn Thịnh) </a></p>
- <p>- <a href="https://sachhiem.net/LICHSU/H/HongDieu.php">Những Ngộ Nhận Về Ông Trương Vĩnh Ký (Hồng Điểu) </a></p>
- <p>- <a href="https://sachhiem.net/BUIKHA/BuiKha32.php">Trương Vĩnh Ký Phản Bội Tổ Quốc, Sao Gọi Là Nỗi Oan (Bùi Kha) </a></p>
- <p>- <a href="https://sachhiem.net/LTX/LyThaiLS12.php">Ba Trọng Tội, và Lòng Dạ của Pétrus Ký, Qua 8 Lá Thư (Lý Thái Xuân tóm lược)</a> </p>
- <p>- <a href="https://sachhiem.net/BUIKHA/BuiKha25b_TVK.php">Trương Vĩnh Ký Phản Bội Tổ Quốc, Sao Lại Gọi Là Yêu Nước (Bùi Kha) </a></p>
- <p>- <a href="https://sachhiem.net/LICHSU/N/NguyenThaiAn.php">Hành Trình Đi Tìm Ông Trương Vĩnh Ký (Nguyễn Thái An) </a></p>
- <p>- <a href="https://sachhiem.net/LTX/LyThaiLS12b.php">Động cơ nào khiến Trương Vĩnh Ký phản quốc? (Lý Thái Xuân tổng hợp) </a></p>
- <p>- <a href="https://sachhiem.net/LICHSU/T/TinTiengKeng.php">Không thể có một cách yêu nước nào khác ! (Lò Thị Tố Uyên/ Tiếng Kẻng)</a></p>
+ <p>- <a href="/NGVTHINH/NguyenvThinh_LS02">Về Con Người Trương Vĩnh Ký (BS Nguyễn Văn Thịnh) </a></p>
+ <p>- <a href="/LICHSU/H/HongDieu">Những Ngộ Nhận Về Ông Trương Vĩnh Ký (Hồng Điểu) </a></p>
+ <p>- <a href="/BUIKHA/BuiKha32">Trương Vĩnh Ký Phản Bội Tổ Quốc, Sao Gọi Là Nỗi Oan (Bùi Kha) </a></p>
+ <p>- <a href="/LTX/LyThaiLS12">Ba Trọng Tội, và Lòng Dạ của Pétrus Ký, Qua 8 Lá Thư (Lý Thái Xuân tóm lược)</a> </p>
+ <p>- <a href="/BUIKHA/BuiKha25b_TVK">Trương Vĩnh Ký Phản Bội Tổ Quốc, Sao Lại Gọi Là Yêu Nước (Bùi Kha) </a></p>
+ <p>- <a href="/LICHSU/N/NguyenThaiAn">Hành Trình Đi Tìm Ông Trương Vĩnh Ký (Nguyễn Thái An) </a></p>
+ <p>- <a href="/LTX/LyThaiLS12b">Động cơ nào khiến Trương Vĩnh Ký phản quốc? (Lý Thái Xuân tổng hợp) </a></p>
+ <p>- <a href="/LICHSU/T/TinTiengKeng">Không thể có một cách yêu nước nào khác ! (Lò Thị Tố Uyên/ Tiếng Kẻng)</a></p>
  <p>_________________</p>
  <p>VÀI NHẬN XÉT của BẠN ĐỌC</p>
  <p><b>Đỗ Tiến Đạt

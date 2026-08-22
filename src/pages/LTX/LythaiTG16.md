@@ -3,7 +3,7 @@ layout: ../../layouts/Article.astro
 title: "Những Lời Dạy Tương Đương Giữa Các Nền Văn Hóa"
 author: "Lý Thái Xuân"
 date: 2016-07-22
-source: "https://sachhiem.net/LTX/LyThaiTG16.php"
+source: "/LTX/LyThaiTG16"
 category: "Tác giả"
 lang: vi
 wordCount: 218

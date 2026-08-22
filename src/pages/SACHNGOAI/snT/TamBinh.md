@@ -3,7 +3,7 @@ layout: ../../../layouts/Article.astro
 title: "Kinh Nghiệm Việt Nam -"
 author: "DIANA SHAW/ Tâm Bình dịch"
 date: 2012-01-01
-source: "https://sachhiem.net/SACHNGOAI/snT/TamBinh.php"
+source: "/SACHNGOAI/snT/TamBinh"
 category: "Đối thoại"
 lang: vi
 wordCount: 357

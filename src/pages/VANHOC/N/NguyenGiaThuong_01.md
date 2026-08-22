@@ -14,7 +14,7 @@ image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/COVER/ThongLu
 
 
   
-<div class="tomluoc"> <p><i>LTS: Trên đời này chuyện hợp rồi tan chỉ là nhân chi thường tình mà thôi, nhất là những tập hợp cạn hều chỉ cốt có tiếng vang... Mới hôm trước đọc <a href="https://sachhiem.net/index.php?content=showrecipe&amp;id=6877">mấy lá thư ...tả cảnh của Khối 8406</a> còn chưa ráo mực, hôm nay thì Khối Đa Nguyên phân trần. Chúng tôi xin chỉ đăng lại để hầu bà con để tùy nghi vậy. (SH)</i></p></div>
+<div class="tomluoc"> <p><i>LTS: Trên đời này chuyện hợp rồi tan chỉ là nhân chi thường tình mà thôi, nhất là những tập hợp cạn hều chỉ cốt có tiếng vang... Mới hôm trước đọc <a href="/THOISU_CT/ChuD/DinhNguyen01">mấy lá thư ...tả cảnh của Khối 8406</a> còn chưa ráo mực, hôm nay thì Khối Đa Nguyên phân trần. Chúng tôi xin chỉ đăng lại để hầu bà con để tùy nghi vậy. (SH)</i></p></div>
  <p><img src="https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/COVER/ThongLuan.jpg" alt="" width="129" height="119" class="PicLeft"><i>“...Chúng tôi khẳng định rằng việc bất tín nhiệm ông Kiểng là hậu quả tất yếu của việc ông Kiểng không có khả năng lãnh đạo và tổ chức chứ không phải là một âm mưu truất phế nào cả..."</i> (Tập Hợp Dân Chủ Đa Nguyên)</p> 
 <p>Kính thưa quý bạn đọc, </p>
 <p>  Vào ngày mùng 1 Tết  năm Đinh Dậu, nhằm ngày 28/1/2017, gần hai tháng sau khi bị các thành viên của  Tập Hợp Dân Chủ Đa Nguyên chính thức tuyên bố bất tín nhiệm, ông Nguyễn Gia  Kiểng và một Ban Biên Tập do ông vừa thành lập đã mở ra một trang web mới. Trong  một bài viết có tựa đề “<i>Càng  lớn mạnh sau thử thách</i>” đăng trên đó, (SH: <a href="https://thongluan2016.blogspot.com/2017/01/cang-manh-hon-sau-thu-thach-nguyen-gia.html">xem link</a> đăng ngày Chủ Nhật, 29 tháng 1, 2017) người ta đọc thấy hai điểm  chính: </p>
@@ -39,10 +39,10 @@ image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/COVER/ThongLu
  <p class="nguonL">Nguồn <a href="https://www.ethongluan.org/index.php?option=com_content&amp;view=article&amp;id=26417:cau-tr-l-i-ng-n-cho-m-t-k-t-an-dai-ban-di-u-h-p-t-p-h-p-dan-ch-da-nguyen&amp;catid=52&amp;Itemid=301">https://ethongluan.org</a>  đăng ngày Chủ nhật, 05 Tháng 3 2017 13:29 </p>
  <p class="TuaDenLeft">_____________</p>
  <p class="TuaDenLeft">Liên quan đến Nguyễn Gia Kiểng:</p>
- <p><a href="https://sachhiem.net/VANHOC/VuHuyQuang.php">- Đọc "Tổ quốc ăn năn" của Nguyễn Gia Kiểng (Vũ Huy Quang)</a></p>
+ <p><a href="/VANHOC/VuHuyQuang">- Đọc "Tổ quốc ăn năn" của Nguyễn Gia Kiểng (Vũ Huy Quang)</a></p>
  <p><a href="https://giaodiemonline.com/thuvien/doithoai/toquocannan.htm">- Vài nhận xét về cuốn "Tổ Quốc Ăn Năn" của Nguyễn Gia Kiểng (Nhật Tiến)</a></p>
  <p><a href="https://forums.vietbao.com/topic.asp?TOPIC_ID=12472">- Forum Vietbao: Đọc sách Tổ Quốc Ăn Năn của Nguyễn Gia Kiểng</a></p>
- <p>- <a href="https://sachhiem.net/DOITHOAI/LeVietThuong2.php">Trường Hợp «TỔ QUỐC ĂN NĂN» của Nguyễn Gia Kiểng (Lê Việt Thường)</a> đã đăng 7 năm trước.</p>
- <p>- <a href="https://sachhiem.net/VANHOC/N/NguyenGiaThuong.php">Tổ Quốc Ăn Năn: một lừa đảo thế kỷ (Nguyễn Gia Thưởng)</a></p>
+ <p>- <a href="/DOITHOAI/LeVietThuong2">Trường Hợp «TỔ QUỐC ĂN NĂN» của Nguyễn Gia Kiểng (Lê Việt Thường)</a> đã đăng 7 năm trước.</p>
+ <p>- <a href="/VANHOC/N/NguyenGiaThuong">Tổ Quốc Ăn Năn: một lừa đảo thế kỷ (Nguyễn Gia Thưởng)</a></p>
  <p>- <a href="/VANHOC/N/NguyenGiaThuong_01">Câu Trả Lời Ngắn Cho Một Kết Án Dài (Nguyễn Vũ) </a></p>
  <p>Link: <a href="/VANHOC/N/NguyenGiaThuong_01">https://sachhiem.net/... </a> </p>

@@ -3,7 +3,7 @@ layout: ../../layouts/Article.astro
 title: "Tại Sao Tôi Là Người Không Tin?"
 author: "Robert Green Ingersoll / Trần Tiên Long dịch"
 date: 2012-02-04
-source: "https://sachhiem.net/TTL/TranTL15a.php"
+source: "/TTL/TranTL15a"
 category: "Tác giả"
 lang: vi
 wordCount: 5411
@@ -15,7 +15,7 @@ image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/SACHNGOAI/Hinhanh/PE
 		
 
     
-       <p><a href="https://sachhiem.net/TTL/TranTL15.php">(Click
+       <p><a href="/TTL/TranTL15">(Click
           vào đây để xem <b>Phần I</b>) </a></p>
 <p class="MUC">(PART II)</p>
  <p align="center"><img src="https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/SACHNGOAI/Hinhanh/PEOPLE/RobertGreenIngersoll.jpg" width="159" height="272"></p>

@@ -3,7 +3,7 @@ layout: ../../../layouts/Article.astro
 title: "Làm Thế Nào Việt Hóa Ki-tô Giáo La Mã?"
 author: "Ri Nguyễn"
 date: 2016-07-28
-source: "https://sachhiem.net/TONGIAO/tgN/NguyenRi_24.php"
+source: "/TONGIAO/tgN/NguyenRi_24"
 category: "Tác giả"
 lang: vi
 wordCount: 1210
@@ -22,7 +22,7 @@ image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/TONGIAO/IMG/BIBLE/Li
  <p><b>Đề tài mở:</b></p>
  <p class="indent50"><b>Linh Mục Đểu JB Nguyễn  Minh Phương</b> <b>Đả kích Khổng giáo,  Phật giáo, nâng cao Đức Tin của mình</b> (<i>Nguyễn Trọng Nghĩa</i>)<br>
    Nguồn:  https://giaidocthongtindongthap.blogspot.com/2016/07/linh-muc-eu-jb-nguyen-minh-phuong-dcct_24.html<br>
-   <a href="https://sachhiem.net/TONGIAO/tgN/NgTnghia_lmNgMPhuong.php">https://sachhiem.net/TONGIAO/tgN/NgTnghia_lmNgMPhuong.php</a></p>
+   <a href="/TONGIAO/tgN/NgTnghia_lmNgMPhuong">https://sachhiem.net/TONGIAO/tgN/NgTnghia_lmNgMPhuong.php</a></p>
 <p><span class="First">T</span>ôi  không ngạc nhiên vì ngoài Linh Mục JB Nguyễn Minh Phương ông ta đã mặt trơ trán bóng giảng  láo, xuyên tạc và bịa đặt, giải thích một cách ngu dốt về giáo lý  của Khổng giáo và Phật giáo mà không đỏ mặt trước đám con chiên, mà còn cả  con chiên như Nguyễn Hy Vọng viết bá láp về <i>“Luân Hồi” </i>nữa. </p>
  <p>Câu hỏi  được đặt ra là "<b>Tại sao họ làm vậ̣y"?</b></p>
 <p class="PicLeft">
@@ -74,7 +74,7 @@ Matthew 10.34-37</a> <br>
 <p>  __________________________________________________________ </p>
 <p> <i><b>Câu hỏi: </b>Làm sao Việt hóa đạo Ki-tô giáo La Mã trong đề tài này?</i></p>
 <p><b> Ý kiến Việt hóa đạo Ki-tô.</b></p>
-<p><a href="https://sachhiem.net/TONGIAO/tgM/MikeWilson_03.php">- Vấn Đề Việt Hóa Đạo Ki-Tô (Mike Wilson)</a></p>
+<p><a href="/TONGIAO/tgM/MikeWilson_03">- Vấn Đề Việt Hóa Đạo Ki-Tô (Mike Wilson)</a></p>
 <p><b>Phản hồi của bạn đọc trên FB:</b></p>
 <p><a href="https://www.facebook.com/profile.php?id=100008680113100&amp;fref=ufi&amp;rc=p"><b>Minh Ho</b></a>&nbsp;tụi  cố đạo và con chien VN lại đi thờ thằng Do Thái, mà NHỤC 1 nổi, đó là: chính  miệng thằng Do Thái này thừa nhận "nó chỉ là chúa của dân Do Thái và chỉ  cứu 144000 thằng Do Thái mà thôi", đúng là tụi cố đạo và con chien VN  KHÔNG BIẾT NHỤC là gì<br>
   <a href="https://www.facebook.com/sachhiem.net.us/?fref=nf" title="Unlike this comment">Unlike</a>&nbsp;·&nbsp;<a href="https://www.facebook.com/sachhiem.net.us/?fref=nf">Reply</a>&nbsp;·&nbsp;<a href="https://www.facebook.com/pages/messaging/private_reply/dialog/?activity_id=304847033185267_306148653055105&amp;av=104528756550430">Message</a>&nbsp;·&nbsp;<a href="https://www.facebook.com/browse/likes?id=306148653055105">1</a>&nbsp;·&nbsp;<a href="https://www.facebook.com/sachhiem.net.us/posts/304847033185267?comment_id=306148653055105&amp;comment_tracking=%7B%22tn%22%3A%22R0%22%7D">August 1 at  7:08pm</a></p>
@@ -87,4 +87,4 @@ Matthew 10.34-37</a> <br>
 <p>__________________________________________________________</p>
   <p>Các bài của Nguyễn Ri: link</p>
 <p>
-<a href="https://sachhiem.net/TONGIAO/tgN/ListRiNguyen.inc.php" target="_blank">https://sachhiem.net/TONGIAO/tgN/ListRiNguyen.inc.php</a></p>
+<a href="/TONGIAO/tgN/ListRiNguyen.inc" target="_blank">https://sachhiem.net/TONGIAO/tgN/ListRiNguyen.inc.php</a></p>

@@ -3,7 +3,7 @@ layout: ../../../layouts/Article.astro
 title: "Cần Tìm Hiểu Thêm Về Trương Vĩnh Ký:"
 author: "Cao Đức Trường"
 date: 2024-02-22
-source: "https://sachhiem.net/LICHSU/C/CaoDucTruong.php"
+source: "/LICHSU/C/CaoDucTruong"
 category: "Lịch sử"
 lang: vi
 wordCount: 203

@@ -2,7 +2,7 @@
 layout: ../../../layouts/Article.astro
 title: "Chú Tiểu Không Tên"
 author: "Nguyễn Trí Cảm"
-source: "https://sachhiem.net/TONGIAO/NGTRCAM/NguyenTriCam02.php"
+source: "/TONGIAO/NGTRCAM/NguyenTriCam02"
 category: "Tác giả"
 lang: vi
 wordCount: 1434

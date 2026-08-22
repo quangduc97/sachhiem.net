@@ -2,17 +2,16 @@
 layout: ../../../layouts/Article.astro
 title: "Tiến Sĩ Lâm Lễ Trinh:"
 author: "Liên Đoàn"
-source: "https://sachhiem.net/LICHSU/L/LienDoan.php"
+source: "/LICHSU/L/LienDoan"
 category: "Lịch sử"
 lang: vi
 wordCount: 1447
-image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nha.jpg"
 ---
 
 <p class="Tuaduoi">Liêm sĩ và Tín nghĩa</p>
 	 
  
-<p align="center"> <a href="/index"><img border="0" src="https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nha.jpg" align="middle" hspace="20"></a> 19 tháng 7, 2008</p>
+<p align="center">  19 tháng 7, 2008</p>
 
 		
 		<p><span class="First">N</span>ơi trang bìa, bên trong quyễn “Nguồn Sống”, tác giả&nbsp; Lâm Lễ Trinh đã 

@@ -3,7 +3,7 @@ layout: ../../../layouts/Article.astro
 title: "Ba Giáo Hoàng Dẹp Bỏ Thiên Đàng -"
 author: "Ri Nguyễn sưu tầm"
 date: 2020-05-11
-source: "https://sachhiem.net/TONGIAO/tgN/NguyenRi_45.php"
+source: "/TONGIAO/tgN/NguyenRi_45"
 category: "Chính trị"
 lang: vi
 wordCount: 1704
@@ -96,4 +96,4 @@ image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/TONGIAO/IMG/MARY/Han
 <p class="TacgiaL"> Ri Nguyễn sưu tầm</p>
  <p>_____________________</p>
  <p>Các bài của Nguyễn Ri: link</p>
- <p> <a href="https://sachhiem.net/TONGIAO/tgN/ListRiNguyen.inc.php" target="_blank">https://sachhiem.net/TONGIAO/tgN/ListRiNguyen.inc.php</a></p>
+ <p> <a href="/TONGIAO/tgN/ListRiNguyen.inc" target="_blank">https://sachhiem.net/TONGIAO/tgN/ListRiNguyen.inc.php</a></p>

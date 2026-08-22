@@ -3,7 +3,7 @@ layout: ../../../layouts/Article.astro
 title: "Tổng Giám Mục Của Canterbury Thừa Nhận Hoài Nghi Về Sự Hiện Hữu Của Thượng Đế"
 author: "Matthew Weaver/ The Guardian"
 date: 2014-10-03
-source: "https://sachhiem.net/TONGIAO/tgN/NguyenRi_03.php"
+source: "/TONGIAO/tgN/NguyenRi_03"
 category: "Tác giả"
 lang: vi
 wordCount: 810
@@ -40,4 +40,4 @@ image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/TONGIAO/IMG/LINHMUC/
 <p class="TacgiaL">Nguyễn Ri dịch</p>
 <p class="nguonL">Nguồn <a href="https://www.theguardian.com/uk-news/2014/sep/18/archbishop-canterbury-doubt-god-existence-welby">https://www.theguardian.com/</a> </p>
 __________________
- <p>Các bài của Nguyễn Ri: link <a href="https://sachhiem.net/TONGIAO/tgN/ListRiNguyen.inc.php" target="_blank">https://sachhiem.net/TONGIAO/tgN/ListRiNguyen.inc.php</a></p>
+ <p>Các bài của Nguyễn Ri: link <a href="/TONGIAO/tgN/ListRiNguyen.inc" target="_blank">https://sachhiem.net/TONGIAO/tgN/ListRiNguyen.inc.php</a></p>

@@ -3,17 +3,16 @@ layout: ../../layouts/Article.astro
 title: "Chiên Nhớ Chuồng"
 author: "Dê Hô Va"
 date: 2011-12-20
-source: "https://sachhiem.net/null"
+source: "/null"
 category: "Văn hóa"
 lang: vi
 wordCount: 608
-image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nha.jpg"
+image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/LICHSU/TONY/ThoiVNCH/VNCHhuychuong.jpg"
 ---
 
 <div class="indentLR50">
 	      <table border="0" cellpadding="10" width="80%" cols="2" style="padding-left: 30px; padding-right: 30px"><tbody><tr>
-	        <td width="184"><a href="/index">
-	          <img border="0" src="https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nha.jpg"></a></td>				
+	        <td width="184"></td>				
 	    <td valign="top" width="221"> 20-Dec-2011</td>
 	      </tr></tbody></table>
  <p align="right"><i>Diễn theo Bài thơ “Hổ Nhớ Rừng” của Thi sĩ Thế Lữ năm 1936

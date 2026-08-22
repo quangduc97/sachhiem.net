@@ -3,15 +3,14 @@ layout: ../../../layouts/Article.astro
 title: "Đôi hàng về ông Cao Xuân Vỹ"
 author: "Trần Quang Diệu"
 date: 2011-11-07
-source: "https://sachhiem.net/LICHSU/TR/TQD02.php"
+source: "/LICHSU/TR/TQD02"
 category: "Lịch sử"
 lang: vi
 wordCount: 852
-image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nha.jpg"
 ---
 
 <table border="0" cellpadding="0" width="250" align="center"><tbody><tr>
-	<td width="125"><a href="/index"><img border="0" src="https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nha.jpg"></a></td>
+	<td width="125"></td>
 		<td valign="top">07-Nov-2011</td>
 	</tr></tbody></table>
 		<p><i>LTS: Bức thư này tiếp theo những bức thư bênh vực nhà Ngô bằng cách chối
@@ -96,7 +95,7 @@ image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nha.jpg"
         <p><i>TQD </i></p>
         
         <p>Bài liên hệ:</p>
-        <p><a href="https://sachhiem.net/LICHSU/TR/TQD01.php">- Một đoạn duy nhứt trong bài phỏng vấn ông Cao
+        <p><a href="/LICHSU/TR/TQD01">- Một đoạn duy nhứt trong bài phỏng vấn ông Cao
           Xuân Vĩ </a></p>
 
 <hr>

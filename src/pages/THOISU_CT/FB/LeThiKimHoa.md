@@ -3,7 +3,7 @@ layout: ../../../layouts/Article.astro
 title: "Đây! JOSHUA của kinh thánh, không phải Joshua của Hongkong"
 author: "FB Lê Thị Kim Hoa trích dẫn"
 date: 2019-09-24
-source: "https://sachhiem.net/THOISU_CT/FB/LeThiKimHoa.php"
+source: "/THOISU_CT/FB/LeThiKimHoa"
 category: "Chính trị"
 lang: vi
 wordCount: 2856

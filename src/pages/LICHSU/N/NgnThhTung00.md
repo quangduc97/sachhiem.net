@@ -3,7 +3,7 @@ layout: ../../../layouts/Article.astro
 title: "Bài nói chuyện cực hay của"
 author: "Nguyễn Thanh Tùng"
 date: 2013-06-13
-source: "https://sachhiem.net/LICHSU/N/NgnThhTung00.php"
+source: "/LICHSU/N/NgnThhTung00"
 category: "Chính trị"
 lang: vi
 wordCount: 783

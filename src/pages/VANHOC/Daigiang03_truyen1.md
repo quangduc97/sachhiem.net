@@ -3,7 +3,7 @@ layout: ../../layouts/Article.astro
 title: "Họa Sĩ"
 author: "Nguyễn Đại Giang"
 date: 2014-03-22
-source: "https://sachhiem.net/VANHOC/Daigiang03_truyen1.php"
+source: "/VANHOC/Daigiang03_truyen1"
 category: "Văn hóa"
 lang: vi
 wordCount: 5525
@@ -188,5 +188,5 @@ image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/VANHOC/Hinh/DAIGIANG
 <p>- 
 <a href="https://phapluattp.vn/20091212111441170p0c1021/hoa-si-lon-nguoc-nguyen-dai-giang.htm">“Họa sĩ lộn ngược” Nguyễn Đại Giang của QUỲNH TRANG/Pháp Luật VN.</a></p>
 		 <p>- <a href="/VANHOC/Daigiang">Hội Họa: Nghệ Thuật Đảo Nghịch Chen Chân Thế Giới (SH)</a></p>
-              <p><a href="https://sachhiem.net/VANHOC/Daigiang00.php">- Trò Chuyện Với Họa Sĩ Đại Giang (PVSH)</a></p>
+              <p><a href="/VANHOC/Daigiang00">- Trò Chuyện Với Họa Sĩ Đại Giang (PVSH)</a></p>
               <p><a href="https://sachhiem. net/VANHOC/Daigiang03_truyen1. php">- Họa Sĩ (Nguyễn Đại Giang)</a></p>

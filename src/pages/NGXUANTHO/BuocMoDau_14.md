@@ -3,18 +3,17 @@ layout: ../../layouts/Article.astro
 title: "Bước Mở Đầu Của Sự Thiết Lập Hệ Thống Thuộc Địa Pháp Ở Việt Nam"
 author: "TS Nguyễn Xuân Thọ"
 date: 2023-02-13
-source: "https://sachhiem.net/NGXUANTHO/BuocMoDau_14.php"
+source: "/NGXUANTHO/BuocMoDau_14"
 category: "Lịch sử"
 lang: vi
 wordCount: 14251
-image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nha.jpg"
+image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/sqdot.gif"
 ---
 
 <p class="Tuaduoi"><b>Ý Đồ Phân Chia Xứ Bắc Kỳ của Pháp và Trung Quốc </b></p>
 
 
-  <p align="center"><a href="https://www.sachhiem.net/">
-<img border="0" src="https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nha.jpg"></a>| <a target="_blank" href="https://sachhiem.net/NGXUANTHO/BuocMoDau_Main.php"><span lang="en-us"><b><font face="Symbol">¿</font></b></span> trở ra mục lục</a>| 13-Feb-2023</p> 
+  <p align="center">| <a target="_blank" href="/NGXUANTHO/BuocMoDau_Main"><span lang="en-us"><b><font face="Symbol">¿</font></b></span> trở ra mục lục</a>| 13-Feb-2023</p> 
 <p class="TuaDoLeft"><b>Chương 13 - Từ Cuộc Viễn Chinh Rivière Đến Ý Đồ Phân Chia Xứ Bắc Kỳ Giữa Pháp Và Trung Quốc</b></p>
 <p>Đứng trước những mục tiêu của Pháp trên Bắc kỳ, chính sách của chánh phủ Trung Quốc là giữ vững quyền bá chủ của mình đối với Việt Nam, vừa ngăn cản không cho Pháp tiến sâu vào Vân Nam. Trung Quốc có nhiều nguồn lợi về kinh tế quan trọng ở phía Bắc Việt Nam: hầu hết các hầm mỏ nổi tiếng đều do người Trung Quốc hai tỉnh Quảng Đông và Quảng Tây khai thác; phần lớn thương nghiệp cũng vậy. Hai phần ba số hàng hóa nhập khẩu của Bắc kỳ đều từ Trung Quốc sang. Ngoài ra, Bắc kỳ còn là con đường thuận lợi nhất và cũng gần nhất cho việc xuất khẩu hàng hóa của tỉnh Vân Nam.</p>
 <p>Nội dung các cuộc thảo luận trong nội bộ chánh phủ Trung Quốc phải chăng là vấn đề bảo vệ quyền lợi kinh tế của họ ở Bắc kỳ? Cho đến khi có bằng chứng ngược lại, căn cứ trên những tài liệu hiện có trong tay, chúng tôi có thể khẳng định rằng khía cạnh đó, của vấn đề Việt Nam, không phải là điều mà chánh phủ Trung Quốc nghiên cứu.</p>

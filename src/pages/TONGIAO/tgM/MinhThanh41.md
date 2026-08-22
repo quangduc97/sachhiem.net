@@ -3,7 +3,7 @@ layout: ../../../layouts/Article.astro
 title: "[VATICANOLOGY] - Đại Diện Thường Trú Của Quốc Gia Vatican? Tại Sao Có Chức Vụ Này?"
 author: "Minh Thạnh"
 date: 2023-04-10
-source: "https://sachhiem.net/TONGIAO/tgM/MinhThanh41.php"
+source: "/TONGIAO/tgM/MinhThanh41"
 category: "Tác giả"
 lang: vi
 wordCount: 5246

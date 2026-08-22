@@ -3,7 +3,7 @@ layout: ../../../layouts/Article.astro
 title: "Trung Cộng Xâm Chiếm Tây Tạng Đã 66 Năm, Nhưng Không Ai Nói Phật Giáo Làm Mất Nước"
 author: "Diễn Đàn"
 date: 2016-02-22
-source: "https://sachhiem.net/TONGIAO/tgN/NguyenRi_22.php"
+source: "/TONGIAO/tgN/NguyenRi_22"
 category: "Tác giả"
 lang: vi
 wordCount: 6135
@@ -55,7 +55,7 @@ image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/TONGIAO/IMG/PHAT/PGT
 <p align="center"><img src="https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/TONGIAO/IMG/BIBLE/Abraham_gietcon1.jpg" width="260" height="260" alt=""> <img src="https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/TONGIAO/IMG/BIBLE/Mary-pregnt_Joe_Matthew_1-3.jpg" width="350" height="257" alt=""></p>
 <p align="center"><i>Abraham giết con</i>. <a href="https://www.coastec.net.au/sacrifice-your-son-genesis-22/">Ảnh minh họa đoạn sách Genesis 22</a>. <i>Mary có bầu trước khi Joseph cưới</i></p>
 <p>
-  Dưới  đây là đoạn văn của Giáo sư Trần Chung Ngọc đã viết về việc phản quốc của con  chiên Ca-tô Rô-ma giáo Việt Nam trong bài “VÀI NHẬN XÉT VỀ: Bài Viết “THƯ NGỎ  GỬI TIẾN SĨ TRẦN CHUNG NGỌC” Của Chu Tất Tiến  - Trần Chung Ngọc -  <a href="https://sachhiem.net/TCN/TCNdt/TCNdt010.php">https://sachhiem.net/TCN/TCNdt/TCNdt010.php</a></p>
+  Dưới  đây là đoạn văn của Giáo sư Trần Chung Ngọc đã viết về việc phản quốc của con  chiên Ca-tô Rô-ma giáo Việt Nam trong bài “VÀI NHẬN XÉT VỀ: Bài Viết “THƯ NGỎ  GỬI TIẾN SĨ TRẦN CHUNG NGỌC” Của Chu Tất Tiến  - Trần Chung Ngọc -  <a href="/TCN/TCNdt/TCNdt010">https://sachhiem.net/TCN/TCNdt/TCNdt010.php</a></p>
 <p>(trích)</p>
 <div class="indent50">
   <p>
@@ -80,8 +80,8 @@ image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/TONGIAO/IMG/PHAT/PGT
 <p><a name="Fn2" href="/TONGIAO/#two">(2)</a>  THƯ GIÁM MỤC NGÔ ĐÌNH THỤC </p>
 <p> GỞI  TOÀN QUYỀN ĐÔNG DƯƠNG JEAN DECOUX - https://sachhiem.net/BUIKHA/BuiKha.php </p>
 <p><img src="https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/LICHSU/IMG/NGODD/Thu_NDT_Decoux1.jpg" width="334" height="423" alt=""></p>
-<p> <a name="Fn3" href="/TONGIAO/#thr">(3)</a>  Về Những Biện Hộ Cho Câu: "Thà  mất nước hơn mất Chúa”.  <a href="https://sachhiem.net/LICHSU/TR/TQD12.php">https://sachhiem.net/LICHSU/TR/TQD12.php</a></p>
-<p><a name="Fn4" href="/TONGIAO/#for">(4)</a> Ngô Quang Kiệt :<i> "Tôi cảm thấy rất nhục nhã khi mang Quốc tịch Việt  Nam</i>"    và    thà mất nước hơn mất “Chúa”.   <a href="https://sachhiem.net/LICHSU/TR/TQD12.php">https://vi-vn.facebook.com/VienKhoaHocLichSu/posts/129356780542866</a></p>
+<p> <a name="Fn3" href="/TONGIAO/#thr">(3)</a>  Về Những Biện Hộ Cho Câu: "Thà  mất nước hơn mất Chúa”.  <a href="/LICHSU/TR/TQD12">https://sachhiem.net/LICHSU/TR/TQD12.php</a></p>
+<p><a name="Fn4" href="/TONGIAO/#for">(4)</a> Ngô Quang Kiệt :<i> "Tôi cảm thấy rất nhục nhã khi mang Quốc tịch Việt  Nam</i>"    và    thà mất nước hơn mất “Chúa”.   <a href="/LICHSU/TR/TQD12">https://vi-vn.facebook.com/VienKhoaHocLichSu/posts/129356780542866</a></p>
 <p> <img src="https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/SACHNGOAI/Hinhanh/BIASACH/100Tyrants.jpg" alt="" width="150" height="213" align="left"><a name="Fn5" href="/TONGIAO/#fiv">(5)</a>  Ngô Đình Diệm có tên trong Danh Sách 100 Nhà Độc Tài Bạo Chúa Nhất Trong Lịch Sử (Tyrants:  History's 100 Most Evil Despots &amp; Dictators) tác giả người Anh Nigel Cawthorne:<a href="https://www.amazon.com/Tyrants-Historys-Most-Despots-Dictators/dp/1848588291/ref=sr_1_1?ie=UTF8&amp;qid=1461991201&amp;sr=8-1&amp;keywords=Tyrants%3A+History%27s+100+Most+Evil+Despots+%26+Dictators+-+Nigel+Cawthorne"> https://www.amazon.com/Tyrants-Historys-Most-Despots-Dictators/dp/18485882915 </a></p>
 <p><a name="Fn6" href="/TONGIAO/#six">(6)</a>  Ngô Đình Khả, Cha của Ngô Đình Diêm—đã đào mả cụ Phan, đốt thân xác cụ, hòa với  thuốc súng bắn kháng chiến quân.         <a href="https://en.wikipedia.org/wiki/Phan_%C4%90%C3%ACnh_Ph%C3%B9ng ">https://en.wikipedia.org/wiki/Phan_%C4%90%C3%ACnh_Ph%C3%B9ng</a></p>
 <p>
@@ -219,4 +219,4 @@ image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/TONGIAO/IMG/PHAT/PGT
 <p>_____________________ </p>
   <p>Các bài của Nguyễn Ri: link</p>
 <p>
-<a href="https://sachhiem.net/TONGIAO/tgN/ListRiNguyen.inc.php" target="_blank">https://sachhiem.net/TONGIAO/tgN/ListRiNguyen.inc.php</a></p>
+<a href="/TONGIAO/tgN/ListRiNguyen.inc" target="_blank">https://sachhiem.net/TONGIAO/tgN/ListRiNguyen.inc.php</a></p>

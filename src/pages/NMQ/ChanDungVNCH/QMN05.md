@@ -2,17 +2,16 @@
 layout: ../../../layouts/Article.astro
 title: "Chân Dung \"Người Việt Quốc Gia\""
 author: "Nguyễn Mạnh Quang"
-source: "https://sachhiem.net/NMQ/ChanDungVNCH/QMN05.php"
+source: "/NMQ/ChanDungVNCH/QMN05"
 lang: vi
 wordCount: 9158
-image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/HOANHLINH/images/nha.jpg"
+image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/HOANHLINH/images/print.gif"
 ---
 
 <p class="Tuaduoi">Và Lá Cờ Vàng Ba Sọc Đỏ</p>
 		
 		
-		<p align="center"><a href="/index">
-				<img hspace="20" border="0" src="https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/HOANHLINH/images/nha.jpg"></a> 
+		<p align="center"> 
 <a target="_top" href="/NMQ/ChanDungVNCH/QMN08a"><img hspace="20" border="0" src="https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/HOANHLINH/images/print.gif" width="18" height="18"> bản in</a> 	<a target="_top" href="/NMQ/ChanDungVNCH/ChanDung_Main"><img hspace="20" border="0" src="https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/HOANHLINH/images/Leftarrow.gif" width="13" height="13">  mục lục</a>
 | 8 tháng 6, 2008
 </p>
@@ -382,7 +381,7 @@ image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/HOANHLINH/images/nha
 			<p>Kể từ đó (có lẽ vào năm 1912) cụ Phan 
 			Bội Châu và các nhà ái quốc đồng chí của cụ không còn hợp tác với 
 			ông Hoàng Cường Để nữa. </p>
-			<p>Cũng không biết từ năm nào, đảng này được Vatican triệt để ủng hộ, và do đó ảnh hưởng, nếu không nói là điều khiển. Điều đó không có gì lạ vì ông Cường Để thuộc dòng Hoàng Tử Cảnh, người đã được Giám Mục Bá Đa Lộc đem sang Pháp từ lúc mới 5 tuổi, sát cánh với nhau cả thời gian mấy năm trường (<a href="https://sachhiem.net/NMQ/TAMTHU/NMQtt_17.php">xem chi tiết ở Chương 17, tập "Tâm Thư Gửi Nhà Nước VN":  Kế Sách Lặn Sâu Trèo Cao Vào Thượng Tầng Chính Quyền Việt Nam Từ Cuối Thế Kỷ 18 Cho Đến Ngày Nay</a>). Sự việc Hoàng Thân Cường Để có theo đạo Ca-tô hay không cũng không quan trọng, vì ông chỉ ở nước ngoài cho đến chết trong suốt thời gian hoạt động. Điều quan trọng là các vai trò chính yếu của đảng  ở trong nước đã nằm ở trong tay các con chiên như ông Ngô Đình Khôi, Ngô Đình Diệm, Trần Văn Lý, v.v… cũng đủ cho chúng ta thấy rằng có bàn tay săp xếp và chỉ đạo của Vatican ở hậu trường, còn Hoàng thân Cường Để chỉ là một nhân vật được Vatican sử dụng để đánh bóng cho đảng chính trị ma nớp này mà thôi. Phần trình bày dước đây cho thấy rõ sự kiện này. (đoạn văn  bổ túc ngày 10 tháng 6, 2015).</p>
+			<p>Cũng không biết từ năm nào, đảng này được Vatican triệt để ủng hộ, và do đó ảnh hưởng, nếu không nói là điều khiển. Điều đó không có gì lạ vì ông Cường Để thuộc dòng Hoàng Tử Cảnh, người đã được Giám Mục Bá Đa Lộc đem sang Pháp từ lúc mới 5 tuổi, sát cánh với nhau cả thời gian mấy năm trường (<a href="/NMQ/TAMTHU/NMQtt_17">xem chi tiết ở Chương 17, tập "Tâm Thư Gửi Nhà Nước VN":  Kế Sách Lặn Sâu Trèo Cao Vào Thượng Tầng Chính Quyền Việt Nam Từ Cuối Thế Kỷ 18 Cho Đến Ngày Nay</a>). Sự việc Hoàng Thân Cường Để có theo đạo Ca-tô hay không cũng không quan trọng, vì ông chỉ ở nước ngoài cho đến chết trong suốt thời gian hoạt động. Điều quan trọng là các vai trò chính yếu của đảng  ở trong nước đã nằm ở trong tay các con chiên như ông Ngô Đình Khôi, Ngô Đình Diệm, Trần Văn Lý, v.v… cũng đủ cho chúng ta thấy rằng có bàn tay săp xếp và chỉ đạo của Vatican ở hậu trường, còn Hoàng thân Cường Để chỉ là một nhân vật được Vatican sử dụng để đánh bóng cho đảng chính trị ma nớp này mà thôi. Phần trình bày dước đây cho thấy rõ sự kiện này. (đoạn văn  bổ túc ngày 10 tháng 6, 2015).</p>
 			<p><b>Cũng nên biết 
 			rằng dù là Vatican và Pháp cấu kết với nhau thành<i> </i>Liên Minh 
 			Đế Quốc Thực Dân Xâm Lược Vatican-Pháp đánh chiếm và thống trị Đông 

@@ -2,13 +2,13 @@
 layout: ../../../layouts/Article.astro
 title: "Đã Có Lời Phán Quyết Ông Bush Rồi"
 author: "Dan Froomkin"
-source: "https://sachhiem.net/null"
+source: "/null"
 lang: vi
 wordCount: 4702
-image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nha.jpg"
+image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/THOISU_CT/Hinh/DanFroomkin.jpg"
 ---
 
-<p align="center"><a href="/index"><img hspace="20" border="0" src="https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nha.jpg"></a>14 tháng 1, 2009	</p>
+<p align="center">14 tháng 1, 2009	</p>
 		
 		<p>Tổng 
 		thống Bush đã nổi tiếng khi khẳng định rằng lịch sử sẽ phán quyết 8 năm 

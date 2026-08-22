@@ -3,7 +3,7 @@ layout: ../../../layouts/Article.astro
 title: "Bài Diễn Văn Mừng Chiến Thắng 30/4/1975-"
 author: "Tài liệu sưu tầm"
 date: 2018-10-02
-source: "https://sachhiem.net/LICHSU/L/LeDuan_mungchienthang.php"
+source: "/LICHSU/L/LeDuan_mungchienthang"
 category: "Chính trị"
 lang: vi
 wordCount: 487

@@ -3,7 +3,7 @@ layout: ../../../layouts/Article.astro
 title: "Đơn Kiến Nghị Thu Hồi Tác Phẩm Nỗi Buồn Chiến Tranh"
 author: "Phan Trung Can"
 date: 2025-12-10
-source: "https://sachhiem.net/LICHSU/FB/FBPhanTrungCan01.php"
+source: "/LICHSU/FB/FBPhanTrungCan01"
 category: "Chính trị"
 lang: vi
 wordCount: 56
@@ -19,4 +19,4 @@ image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/LICHSU/IMG/LAT_SU/Do
 <p class="nguonL">Nguồn:<a href="https://www.facebook.com/trung.can.phan.716807/posts/pfbid0WVURSVeAMzfR3Dyd3srCvVbhPEnX13TR5WNYN3PZh8HFAsQztkuCb2BSSh3GFxUhl"> FB Trung Can Phan </a>ngày 09 Dec, 2025 </p>
 <p>_______________</p>
 <p><b>Bài đọc thêm:</b></p>
-<p>- <a href="https://sachhiem.net/LICHSU/FB/FBPhanTrungCan.php">GS PHAN HUY LÊ VÀ BỘ SỬ VIỆT NAM.</a></p>
+<p>- <a href="/LICHSU/FB/FBPhanTrungCan">GS PHAN HUY LÊ VÀ BỘ SỬ VIỆT NAM.</a></p>

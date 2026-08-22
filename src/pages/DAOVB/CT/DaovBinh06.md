@@ -3,7 +3,7 @@ layout: ../../../layouts/Article.astro
 title: "Tướng Nguyễn Chí Vịnh Ra Chiêu Độc"
 author: "Đào Văn Bình"
 date: 2013-06-10
-source: "https://sachhiem.net/DAOVB/CT/DaovBinh06.php"
+source: "/DAOVB/CT/DaovBinh06"
 category: "Lịch sử"
 lang: vi
 wordCount: 2314
@@ -63,5 +63,5 @@ Tóm lại trong ba yếu    tố <i>“<b>thiên thời, địa lợi và nhân
 <p>
 <i>(California ngày 9/6/2013)</i></p>
  <p>____________________</p>
-   <p><a href="https://sachhiem.net/LICHSU/H/HoangSa_list.php">Các bài về Hoàng Sa- Trường Sa đăng trên sachhiem.net » </a></p>
+   <p><a href="/LICHSU/H/HoangSa_list">Các bài về Hoàng Sa- Trường Sa đăng trên sachhiem.net » </a></p>
       <hr>

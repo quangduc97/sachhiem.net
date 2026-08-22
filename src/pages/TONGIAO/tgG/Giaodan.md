@@ -3,7 +3,7 @@ layout: ../../../layouts/Article.astro
 title: "Thư Của 12 Giáo Dân Gửi GH John Paul II"
 author: "12 Giáo Dân"
 date: 2014-01-09
-source: "https://sachhiem.net/TONGIAO/tgG/Giaodan.php"
+source: "/TONGIAO/tgG/Giaodan"
 category: "Tác giả"
 lang: vi
 wordCount: 5443

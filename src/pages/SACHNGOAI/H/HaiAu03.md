@@ -2,18 +2,18 @@
 layout: ../../../layouts/Article.astro
 title: "Nhà Xuất Bản Dẹp Ngay Cuốn Sách"
 author: "Rachel Bertsche"
-source: "https://sachhiem.net/SACHNGOAI/H/HaiAu03.php"
+source: "/SACHNGOAI/H/HaiAu03"
 category: "Tác giả"
 lang: vi
 wordCount: 1108
-image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nha.jpg"
+image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/TONGIAO/IMG/AlexMalarkey_noheaven.jpg"
 ---
 
 <p class="Tuaduoi"><b>Cậu Bé Chối Bỏ Chuyện Đã Lên Thiên Đàng,</b></p>
 
   
   
-  <p align="center"><a href="https://www.sachhiem.net/"> <img border="0" src="https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nha.jpg"></a> </p>
+  
   <div class="tomluoc">
     <p><i>"Đặc biệt vào lúc 6 tuổi, niềm tin của gia đình cậu bé sẽ là rất quan trọng. Nếu  gia đình anh ta ngoan đạo - và rõ ràng là thế - họ sẽ bàn về loại chấn thương  này theo cách Chúa Giêsu và Thiên đàng. Một đứa bé 6 tuổi cố gắng hiểu một chấn  thương sẽ sử dụng các khuôn khổ mà cậu ấy coi là an toàn. </i>"</p> 
   </div>
@@ -32,4 +32,4 @@ image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nha.jpg"
  <p>Nguồn: <a href="https://www.yahoo.com/parenting/boy-who-claimed-he-went-to-heaven-recants-108278459057.html">Boy Who Claimed He Went to Heaven Recants, Publisher Pulls Book</a> JAN. 16, 2015</p>
  <p>________________ </p>
  <p><b>Bài cùng đề tài:</b></p>
- <p>- <a href="https://sachhiem.net/SACHNGOAI/G/GiangThuong.php">Khi Cậu Bé Tuyên Bố Cậu Không Có Lên Thiên Đàng, Nhà Xuất Bản Thu Hồi Sách</a> (Bill Chappell/ NPR)</p>
+ <p>- <a href="/SACHNGOAI/G/GiangThuong">Khi Cậu Bé Tuyên Bố Cậu Không Có Lên Thiên Đàng, Nhà Xuất Bản Thu Hồi Sách</a> (Bill Chappell/ NPR)</p>

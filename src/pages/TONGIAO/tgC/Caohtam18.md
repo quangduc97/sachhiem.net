@@ -3,7 +3,7 @@ layout: ../../../layouts/Article.astro
 title: "Mỹ Gỡ Bỏ Cấm Vận Vũ Khí Cho Việt Nam"
 author: "Michael R. Gordon/ NYT"
 date: 2014-10-04
-source: "https://sachhiem.net/TONGIAO/tgC/Caohtam18.php"
+source: "/TONGIAO/tgC/Caohtam18"
 category: "Tác giả"
 lang: vi
 wordCount: 923

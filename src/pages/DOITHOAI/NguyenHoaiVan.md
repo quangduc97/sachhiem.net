@@ -3,14 +3,14 @@ layout: ../../layouts/Article.astro
 title: "Emails Tranh Luận Về Luật Đặc Khu Cho Việt Nam"
 author: "Nguyễn Hoài Vân"
 date: 2018-08-28
-source: "https://sachhiem.net/DOITHOAI/NguyenHoaiVan.php"
+source: "/DOITHOAI/NguyenHoaiVan"
 category: "Chính trị"
 lang: vi
 wordCount: 4671
 image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/THOISU_CT/Hinh/VIETNAM/CamRanh1.JPG"
 ---
 
-<p class="indent50">[Xem cuộc tranh luận tiếp theo và chuyển hướng ở <a href="https://sachhiem.net/index.php?content=showemail&amp;id=2681">https://sachhiem.net/index.php?content=showemail&amp;id=2681</a>]</p>
+<p class="indent50">[Xem cuộc tranh luận tiếp theo và chuyển hướng ở <a href="/net/DOITHOAI/NguyenHoaiVan">https://sachhiem.net/index.php?content=showemail&amp;id=2681</a>]</p>
 <p>From: Hoai Van NGUYEN </p>
 <p> Date: Tue, August 28, 2018 1:31 pm</p>
 <p>Anh quốc là nước thực dân tàn bạo và xảo trá bậc nhất trong lịch sử : Ấn độ, Hoa Kỳ, Phi Châu, và ngay cả các lân bang phiên thuộc họ như Ireland </p>

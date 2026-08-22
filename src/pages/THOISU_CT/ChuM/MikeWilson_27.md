@@ -3,7 +3,7 @@ layout: ../../../layouts/Article.astro
 title: "Vai trò của Mỹ đã suy giảm"
 author: "Mike Wilson"
 date: 2020-10-23
-source: "https://sachhiem.net/THOISU_CT/ChuM/MikeWilson_27.php"
+source: "/THOISU_CT/ChuM/MikeWilson_27"
 category: "Chính trị"
 lang: vi
 wordCount: 415

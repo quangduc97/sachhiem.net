@@ -3,7 +3,7 @@ layout: ../../../layouts/Article.astro
 title: "Lobby kiểu Tây và “vận động” kiểu Ta"
 author: "Trương Khắc Hà/ giaoduc.net.vn"
 date: 2016-09-25
-source: "https://sachhiem.net/THOISU_CT/ChuN/NgTnghia_Lobby.php"
+source: "/THOISU_CT/ChuN/NgTnghia_Lobby"
 category: "Tác giả"
 lang: vi
 wordCount: 1497

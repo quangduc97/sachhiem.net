@@ -2,15 +2,13 @@
 layout: ../../../layouts/Article.astro
 title: "\"Chúng con nguyện danh Cha cả sáng, Nước Cha trị đến\""
 author: "Hoàng Thục An"
-source: "https://sachhiem.net/TONGIAO/tgH/HgThucAn1.php"
+source: "/TONGIAO/tgH/HgThucAn1"
 category: "Tác giả"
 lang: vi
 wordCount: 3609
-image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nha.jpg"
 ---
 
-<p align="center"><a href="https://www.sachhiem.net/">
-	<img border="0" src="https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nha.jpg"></a> 08 tháng 3, 2009	</p>
+<p align="center"> 08 tháng 3, 2009	</p>
 <p>  <span class="First">T</span>rong kinh nhật tụng "Lạy Cha" của đạo Công Giáo có một câu đặc biệt rất khích động "<b>Chúng con nguyện danh Cha 
 			cả sáng, Nước Cha trị đến</b>" Mà muốn "nước Cha Trị Đến..." thì phải đi 
 			chinh phục. <b>Đi chinh phục (tức đi truyền giáo) thì phải có Đạo binh, 

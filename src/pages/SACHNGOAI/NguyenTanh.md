@@ -2,7 +2,7 @@
 layout: ../../layouts/Article.astro
 title: "Planning the Demise of Buddhism"
 author: "Nguyên Tánh dịch"
-source: "https://sachhiem.net/nguồn https://giaodiemonline.com/2008/07/kehoach.htm"
+source: "/nguồn https://giaodiemonline.com/2008/07/kehoach.htm"
 category: "Tác giả"
 lang: en
 wordCount: 7537
@@ -34,7 +34,7 @@ image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nhacu.jpg"
 <table border="2" cellpadding="50" cellspacing="0" width="100%" topmargin="10"> 
 	<tbody><tr><td bgcolor="White" align="justify" valign="top">
 	<table border="0" cellpadding="10" width="100%" cols="3"><tbody><tr>
-<td><a href="https://sachhiem.net/"><img border="0" src="https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nhacu.jpg" width="49" height="20"></a></td>
+<td><a href="/"><img border="0" src="https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nhacu.jpg" width="49" height="20"></a></td>
 	<td valign="top" width="198"><a href="/SACHNGOAI/#" onclick="location.href='https://sachhiem.net/BIA/sendafriend.php?url='+location.href;"><img src="https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/SACHNGOAI/file:///C:/SACHHIEM/images/mail.gif" border="0"> 
 Gửi bài này cho bạn bè</a></td>
 	<td valign="top" style="text-align:right">	đăng ngày 20 tháng 

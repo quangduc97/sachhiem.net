@@ -3,7 +3,7 @@ layout: ../../../layouts/Article.astro
 title: "Miệng Lằn Lưỡi Mối: \"Đem Yêu Thương Vào Nơi Oán Thù?\""
 author: "FB Minh Lệ Quê Tôi"
 date: 2018-07-09
-source: "https://sachhiem.net/TONGIAO/FB/FBminhle.php"
+source: "/TONGIAO/FB/FBminhle"
 category: "Chính trị"
 lang: vi
 wordCount: 1304

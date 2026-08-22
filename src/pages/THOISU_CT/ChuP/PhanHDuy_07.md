@@ -3,7 +3,7 @@ layout: ../../../layouts/Article.astro
 title: "Con Quỳ Xuống"
 author: "Phan Hưng Duy"
 date: 2018-07-27
-source: "https://sachhiem.net/THOISU_CT/ChuP/PhanHDuy_07.php"
+source: "/THOISU_CT/ChuP/PhanHDuy_07"
 category: "Chính trị"
 lang: vi
 wordCount: 210

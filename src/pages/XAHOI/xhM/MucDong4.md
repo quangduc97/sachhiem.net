@@ -2,7 +2,7 @@
 layout: ../../../layouts/Article.astro
 title: "Nhà Đại Truyền Giáo Ki tô:"
 author: "Mục Đồng"
-source: "https://sachhiem.net/null"
+source: "/null"
 category: "Xã hội"
 lang: vi
 wordCount: 11011

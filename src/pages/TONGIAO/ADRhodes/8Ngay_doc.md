@@ -3,7 +3,7 @@ layout: ../../../layouts/Article.astro
 title: "Phép Giảng Tám Ngày -"
 author: "FB Phú Lâm Châu"
 date: 2019-05-09
-source: "https://sachhiem.net/TONGIAO/ADRhodes/8Ngay_doc.php"
+source: "/TONGIAO/ADRhodes/8Ngay_doc"
 category: "Chính trị"
 lang: vi
 wordCount: 14336
@@ -283,8 +283,8 @@ image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/TONGIAO/IMG/SACH/Phe
          <p>P/s: Tôi sẽ tiếp tục gửi thư ngỏ kiến nghị lên Giáo hội PGVN, chính quyền tỉnh Quảng Nam và GHPGVN tỉnh Quảng Nam để phản đối điều này!</p>
          <p><a href="https://www.facebook.com/profile.php?id=100008420442012"><b>Việt Hoàng  Nguyễn</b></a>&nbsp;Nếu ai đọc phép giảng tám ngày của ông ta, chắc hẳn  ko thể chấp nhận được một kẻ lưu manh như thế được tôn vinh ạ. Nó giống hệt lời  lẽ của bọn lưu manh đầu đường xó chợ!</p>
          <p><a href="https://www.facebook.com/profile.php?id=100003984752937"><b>Thích Giác Đạo</b></a>&nbsp;Vừa  tìm thấy thư ngỏ của cụ trên mạng đây ạ! Cũng đã gần 10 năm rồi.<br>
-          <a href="https://www.sachhiem.net/LICHSU/T/ThichThanhThang.php">https://www.sachhiem.net/LICHSU/T/ThichThanhThang.php</a></p>
-         <p><a href="https://www.sachhiem.net/LICHSU/T/ThichThanhThang.php?fbclid=IwAR1tQk4FP-YcxJAHHlxrNKq71Fp6zMs-L_-RwlgVCt2oTy6SBzS0EKHKSEk" target="_blank">Thư ngỏ gửi HĐND, UBND TP. Hà Nội và Hội KHLS VN về việc dựng tượng  Alexandre Rhodes (Thích Thanh Thắng)</a> (xem PHỤ LỤC 2 bên dưới) </p>
+          <a href="/LICHSU/T/ThichThanhThang">https://www.sachhiem.net/LICHSU/T/ThichThanhThang.php</a></p>
+         <p><a href="/LICHSU/T/ThichThanhThang.php?fbclid=IwAR1tQk4FP-YcxJAHHlxrNKq71Fp6zMs-L_-RwlgVCt2oTy6SBzS0EKHKSEk" target="_blank">Thư ngỏ gửi HĐND, UBND TP. Hà Nội và Hội KHLS VN về việc dựng tượng  Alexandre Rhodes (Thích Thanh Thắng)</a> (xem PHỤ LỤC 2 bên dưới) </p>
          <p><a href="https://www.facebook.com/loaihoa.ngonngu"><b>Thich Thanh  Thang</b></a>&nbsp;<a href="https://www.facebook.com/profile.php?id=100003984752937&amp;hc_location=ufi">Thích Giác Đạo</a>&nbsp;</p>
          <p>Nếu  kỷ công một số Cha người Bồ thì còn chấp nhận được nhưng Alexandes de Rhodes  thì không thể.</p>
          <p><a href="https://www.facebook.com/profile.php?id=100003984752937"><b>Thích Giác Đạo</b></a>&nbsp;<a href="https://www.facebook.com/loaihoa.ngonngu?hc_location=ufi">Thich Thanh  Thang</a>&nbsp;</p>
@@ -299,7 +299,7 @@ image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/TONGIAO/IMG/SACH/Phe
          <p>Và thực tế của các giáo sĩ thừa sai vào Đông Á cũng như thế!</p>
          <p><a href="https://www.facebook.com/profile.php?id=100003984752937"><b>Thích Giác Đạo</b></a>&nbsp;<a href="https://www.facebook.com/khonggiandoc.anphu?hc_location=ufi">Tran Thien Tung</a>&nbsp;Đó  là lòng tham thôi, để thuyết phục chính quốc đem quân xâm chiếm thuộc địa xa  xôi, mấy vị giáo sĩ không nói ở đây bùn lầy nước đọng, thú dữ hoành hành đâu,  họ bảo dân xứ này lụa là gấm vóc, mỏ khoáng sản vộ tận, đến điều người An nam  ăn ngủ trên mỏ vàng mà không biết. Phải thêu dệt tô vẽ thuộc địa thế họ mới  liều mình đem quân đi vơ vét tài nguyên chứ😀</p>
          <p><a href="https://www.facebook.com/khonggiandoc.anphu"><b>Tran Thien Tung</b></a>&nbsp;<a href="https://www.facebook.com/ha.viet.7?hc_location=ufi">Ha Viet</a>:  "Giám mục Puginier: “…tôi xem việc tiêu diệt chữ Nho và thay thế dần dần  ban đầu bằng tiếng An Nam (chữ Quốc ngữ, BK), rồi bằng tiếng Pháp như là phương  tiện rất chính trị, rất tiện lợi và rất hiệu nghiệm để lập nên tại Bắc Kỳ một  nước Pháp nhỏ ở Viễn Ðông”."<br>
-           <a href="https://www.sachhiem.net/BUIKHA/BuiKha2.php?fbclid=IwAR3yiMc8HlNdO15vP62I_YqcARV7u1WKg3yLPhUX0jCc3wPeD-9fJ9vS6hY" target="_blank">https://www.sachhiem.net/BUIKHA/BuiKha2.ph</a>         </p>
+           <a href="/BUIKHA/BuiKha2.php?fbclid=IwAR3yiMc8HlNdO15vP62I_YqcARV7u1WKg3yLPhUX0jCc3wPeD-9fJ9vS6hY" target="_blank">https://www.sachhiem.net/BUIKHA/BuiKha2.ph</a>         </p>
 <p align="center">_____________________</p>
 <p class="CHUONG"><b>PHỤ BẢN:</b></p>
 
@@ -335,7 +335,7 @@ image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/TONGIAO/IMG/SACH/Phe
 
   	  
 		
-<p align="center"><a href="https://www.sachhiem.net/"> <img border="0" src="https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nha.jpg"></a>  31 tháng 7, 2009 	</p>
+<p align="center">  31 tháng 7, 2009 	</p>
       <div class="tomluoc">
       <p> <i>...Trong tư tưởng, vẫn có người áp dụng luật mâu thuẫn đối kháng để phủ định 
         cái có trước. Nhưng khi đã đặt tượng Lý Công Uẩn làm biểu tượng cho tinh 
@@ -642,7 +642,7 @@ image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/TONGIAO/IMG/SACH/Phe
 	<a href="https://www.talawas.org/talaDB/showFile.php?res=7309&amp;rb=12">
 	https://www.talawas.org/talaDB/ showFile.php?res=7309&amp;rb=12</a> </p>
 	<p><a name="_edn6" title="" href="/TONGIAO/#_ednref6">[6]</a> Đoạn trên dẫn theo Lý Đương Nhiên, Chữ "Plusieurs Soldats" Thời A.D. Rhodes (Kính gửi Viện Sử học), nguồn:
-	<a href="https://www.sachhiem.net/LICHSU/LyDuongNhien1.php">
+	<a href="/LICHSU/LyDuongNhien1">
 	https://www.sachhiem.net/LICHSU/LyDuongNhien1.php</a> </p>
 
 </div>

@@ -3,15 +3,15 @@ layout: ../../../layouts/Article.astro
 title: "Phóng Viên Ảnh Huyền Thoại"
 author: "Liên Mạng"
 date: 2012-05-07
-source: "https://sachhiem.net/THOISU_CT/SH/HorstFaas.php"
+source: "/THOISU_CT/SH/HorstFaas"
 category: "Chính trị"
 lang: vi
 wordCount: 3824
-image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nha.jpg"
+image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/SACHNGOAI/Hinhanh/HOAKY/HorstFaas_clip_image001.png"
 ---
 
 <table border="0" cellpadding="1" align="center" width="250">
-        <tbody><tr><td width="100"><a href="/index"><img border="0" src="https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nha.jpg"></a></td>
+        <tbody><tr><td width="100"></td>
         <td> </td></tr></tbody></table>
         <p id="yui_3_4_0_26_1338472199763_199"><span id="yui_3_4_0_26_1338472199763_198" onmouseover="_tipon(this)" onmouseout="_tipoff()">NEW
             YORK (AP) - Là trưởng của hoạt động hình ảnh cho AP <span id="lw_1336687958_4">ở</span> Sài

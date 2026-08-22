@@ -2,10 +2,10 @@
 layout: ../../../layouts/Article.astro
 title: "A GLIMPSE OF BUDDHISM"
 author: "Trần Chung Ngọc"
-source: "https://sachhiem.net/null"
+source: "/null"
 lang: en
 wordCount: 1499
-image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nha.jpg"
+image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/sqdot.gif"
 ---
 
 <div align="center" style="position: relative; left: 0; top: 0">
@@ -21,7 +21,7 @@ image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nha.jpg"
 <blockquote>
 	<table border="0" cellpadding="10" width="80%" cols="2"><tbody><tr>
 <td>
-<a href="/index"><img border="0" src="https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nha.jpg"></a></td>
+</td>
 	<td valign="top" style="text-align:right">ngày 29 tháng 4, 2009</td></tr></tbody></table>
 				
 	<p><i>LTS: Niềm tin vào một Thượng đế xa xăm càng ngày càng trở nên phi lý, không phải chỉ vì khoa học, mà còn do chính sự phát triển của lý trí, sự lớn mạnh của tự do ngôn luận, cùng một lúc với sự nghi ngờ về những giáo lý, và sự sụp đổ của đền đài tâm linh do lối sống sa đọa của các người "đại diện Chúa" bị phanh phui.  Giữa lúc niềm tin Thiên Chúa Giáo Âu Châu đang bị phá sản như thế, giới trẻ rất cần biết về triết lý Á Đông, mà tiêu biểu là Phật Giáo, để điều hướng suy tư của con người trở về bản ngã nội tại và thực tiễn hơn. Những điều căn bản về nhân sinh quan của Á Đông nói chung, và đạo Phật nói riêng, đã làm điểm tựa thực tiễn và bền vững cho cuộc sống con nguời. Do tiếp xúc với một số bạn trẻ, chúng tôi khám phá ra nhu cầu này trở thành cấp thiết để giúp cho giới trẻ đang chơi vơi trong thế giới tinh thần.  Nhiều bạn trẻ ở ngoại quốc, đọc tiếng Anh trôi chảy nhưng đọc tiếng Việt không mấy dễ dàng. Tài liệu nghiên cứu bằng ngoại ngữ về triết lý Phật giáo đã có nhiều, nhưng rất mênh mông. Bài viết ngắn gọn sau đây là một nhịp cầu sơ khởi, trước khi bạn trẻ muốn tìm hiểu rộng rãi thêm ở các tài liệu chuyên đề khác. Xin giới thiệu đến các bạn trẻ. (SH)</i></p>

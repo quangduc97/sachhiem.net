@@ -3,7 +3,7 @@ layout: ../../../layouts/Article.astro
 title: "Tại Sao \"Sách Thánh\" Việt Nam Bị Thiếu Mất Một Số Câu?"
 author: "Lê Thị Kim Hoa"
 date: 2022-06-22
-source: "https://sachhiem.net/TONGIAO/FB/FBLeThiKimHoa02.php"
+source: "/TONGIAO/FB/FBLeThiKimHoa02"
 category: "Tác giả"
 lang: vi
 wordCount: 637
@@ -40,7 +40,7 @@ image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/TONGIAO/IMG/BIBLE/Ex
 </p>
 <p>_______________________</p>
 <p><b>PHỤ ĐÍNH:</b></p>
-<p>Trong 1 bài chứng minh "<a href="https://sachhiem.net/TONGIAO/tgN/NguyenRi_58.php">Cấm Phá Thai không phải do Thánh Kinh</a>", chúng tôi lại khám phá ra thêm nhiều sai sót cố ý, thí dụ: </p>
+<p>Trong 1 bài chứng minh "<a href="/TONGIAO/tgN/NguyenRi_58">Cấm Phá Thai không phải do Thánh Kinh</a>", chúng tôi lại khám phá ra thêm nhiều sai sót cố ý, thí dụ: </p>
 <p>- Quyển DÂN SỐ 5, chữ "<i>phá thai", "làm cho hư thai</i>" mà bản Việt dịch là "<i>ốm lòi hông</i>"!</p>
    <p align="center"><img src="https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/TONGIAO/IMG/BIBLE/DICHTAMBAY/DANSO5-21.PNG" width="100%"></p>
    <p>- Quyển Ô-SÊ 9:14, chữ "<i>cái dạ sẩy thai</i>" thì bản tiếng Việt dịch là "<i>cái dạ sút sảo</i>"!</p>

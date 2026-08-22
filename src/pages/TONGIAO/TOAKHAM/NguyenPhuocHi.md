@@ -2,18 +2,17 @@
 layout: ../../../layouts/Article.astro
 title: "Một công dân Việt Nam lên tiếng"
 author: "Nguyễn-Phước Hí"
-source: "https://sachhiem.net/TONGIAO/TOAKHAM/.php"
+source: "/TONGIAO/TOAKHAM/"
 category: "Tác giả"
 lang: vi
 wordCount: 3008
-image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nha.jpg"
 ---
 
 <p class="Tuaduoi">về vụ Công Giáo đòi đất vào cuối năm 2007</p>
 		
 		
 
-<p align="center"><a href="https://sachhiem.net/index.php"><img border="0" hspace="20" src="https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nha.jpg"></a> 04 tháng 3, 2008</p>
+<p align="center"> 04 tháng 3, 2008</p>
 	
 
 				<p><i>&nbsp;LTS: Nếu đã có những bài phê bình những bài viết của các tác giả chống lại việc đòi đất của Công giáo là "hằn học", thì sachhiem.net xin giới thiệu thêm một bài hạng nhất trong đặc tính đáng quí này. Đáng quí là vì đây là một thái độ cần có của một người dân đứng trước hành động xâm chiếm đất đai và tàn phá công trình văn hóa của tổ tiên để lại.  Nhưng nếu gọi những bài như thế này là "khích động" hay "hằn học" thì phải gọi những bài viết bênh vực hành động kêu gọi dân chúng kéo bàn thờ ra đường nằm vạ đòi miếng đất của dân ta vừa đòi được từ trong tay của giặc ngoại xâm là gì mới đúng?  

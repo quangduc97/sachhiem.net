@@ -2,7 +2,7 @@
 layout: ../../../layouts/Article.astro
 title: "Richard Dawkins kêu gọi bắt giam"
 author: "Trần R.C."
-source: "https://sachhiem.net/null"
+source: "/null"
 category: "Tác giả"
 lang: vi
 wordCount: 948

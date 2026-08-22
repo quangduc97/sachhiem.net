@@ -3,7 +3,7 @@ layout: ../../layouts/Article.astro
 title: "Thiền Là Sản Phẩm Mới Của Chúa ?"
 author: "Hồng Quang"
 date: 2012-05-19
-source: "https://sachhiem.net/BUIKHA/HongQuang02.php"
+source: "/BUIKHA/HongQuang02"
 lang: vi
 wordCount: 4033
 image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/BUIKHA/img/HongQuang02_01.jpg"

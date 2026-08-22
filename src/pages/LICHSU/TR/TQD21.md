@@ -3,14 +3,14 @@ layout: ../../../layouts/Article.astro
 title: "Về câu hỏi của ông Nguyễn Hữu Ba"
 author: "Trần Quang Diệu"
 date: 2013-03-08
-source: "https://sachhiem.net/LICHSU/TR/TQD21.php"
+source: "/LICHSU/TR/TQD21"
 category: "Tác giả"
 lang: vi
 wordCount: 584
 ---
 
 <p>Bài dẫn: </p>
-     <p>- <a href="https://sachhiem.net/TONGIAO/tgN/NguyenHBa06.php">Một câu hỏi chung cho những con chiên của Chúa (Nguyễn Hữu Ba)</a> https://sachhiem.net/TONGIAO/tgN/NguyenHBa06.php </p>
+     <p>- <a href="/TONGIAO/tgN/NguyenHBa06">Một câu hỏi chung cho những con chiên của Chúa (Nguyễn Hữu Ba)</a> https://sachhiem.net/TONGIAO/tgN/NguyenHBa06.php </p>
      <hr>
      <p><i>From: Tran Quang Dieu <br>
       Subject:   [ChinhNghiaViet] Tôi xin phép được chia sẻ:...  Re: Một câu   hỏi chung cho những con chiên của Chúa <br>

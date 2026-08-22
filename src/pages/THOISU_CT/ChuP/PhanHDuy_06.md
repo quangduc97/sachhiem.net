@@ -3,7 +3,7 @@ layout: ../../../layouts/Article.astro
 title: "Hợp Pháp Mua Bán Dâm"
 author: "Phan Hưng Duy"
 date: 2018-04-07
-source: "https://sachhiem.net/THOISU_CT/ChuP/PhanHDuy_06.php"
+source: "/THOISU_CT/ChuP/PhanHDuy_06"
 category: "Chính trị"
 lang: vi
 wordCount: 1136

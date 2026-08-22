@@ -3,7 +3,7 @@ layout: ../../../layouts/Article.astro
 title: "Địa Cầu 6,000 Năm Tuổi?"
 author: "Trần Khải"
 date: 2014-03-21
-source: "https://sachhiem.net/TONGIAO/tgTR/TQD23.php"
+source: "/TONGIAO/tgTR/TQD23"
 category: "Tác giả"
 lang: vi
 wordCount: 1541
@@ -64,4 +64,4 @@ image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/DOITHOAI/IMG/bill-ny
 <p class="nguonL">Nguồn https://hoangnamgiao.blogspot.com/2014/03/iacau-6000-nam-tuoi-tran-khai-ngay-4.html</p>
      <p>__________</p>
      <p><b>Cùng đề tài:</b></p>
-     <p>- <a href="https://sachhiem.net/TONGIAO/NGTRCAM/NguyenTriCam36_kien.php">Cha mẹ học sinh theo đạo Phật ở Bắc Louisiana kiện các nhà giáo dục Thiên Chúa Giáo về tội quấy nhiễu tôn giáo. </a>(<i>Nguyễn Trí Cảm</i>) </p>
+     <p>- <a href="/TONGIAO/NGTRCAM/NguyenTriCam36_kien">Cha mẹ học sinh theo đạo Phật ở Bắc Louisiana kiện các nhà giáo dục Thiên Chúa Giáo về tội quấy nhiễu tôn giáo. </a>(<i>Nguyễn Trí Cảm</i>) </p>

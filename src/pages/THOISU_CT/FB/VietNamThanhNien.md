@@ -3,7 +3,7 @@ layout: ../../../layouts/Article.astro
 title: "Nhân Ngày thương binh liệt sĩ 27/7"
 author: "FB Việt Nam Thanh Niên Cách Mạng Đồng Chí Hội"
 date: 2019-07-27
-source: "https://sachhiem.net/THOISU_CT/FB/VietNamThanhNien.php"
+source: "/THOISU_CT/FB/VietNamThanhNien"
 category: "Chính trị"
 lang: vi
 wordCount: 814

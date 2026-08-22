@@ -2,7 +2,7 @@
 layout: ../../../layouts/Article.astro
 title: "Bác sĩ phá thai ở Kansas"
 author: "ROXANA HEGEMAN, Associated Press"
-source: "https://sachhiem.net/nguồn: https://news.yahoo.com/s/ap/us_tiller_shooting"
+source: "/nguồn: https://news.yahoo.com/s/ap/us_tiller_shooting"
 category: "Chính trị"
 lang: vi
 wordCount: 450
@@ -36,7 +36,7 @@ image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nhacu.jpg"
 <table border="0" cellpadding="0" cellspacing="0" topmargin="10"> 
 	<tbody><tr><td align="justify" valign="top">
 		<table border="0" cellpadding="10" width="96%" cols="2"><tbody><tr>
-		<td width="285"><a href="https://sachhiem.net/"><img border="0" src="https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nhacu.jpg" width="49" height="20"></a></td>
+		<td width="285"><a href="/"><img border="0" src="https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nhacu.jpg" width="49" height="20"></a></td>
 				
 	<td valign="top">	<font color="#606060" size="2">31 tháng 5, 2009	</font>
 	</td></tr></tbody></table>

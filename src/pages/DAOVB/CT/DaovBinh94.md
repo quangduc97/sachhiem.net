@@ -3,7 +3,7 @@ layout: ../../../layouts/Article.astro
 title: "Nhật Ký Biển Đông: Nguy Cơ Khác Biệt Tôn Giáo"
 author: "Đào Văn Bình"
 date: 2017-09-15
-source: "https://sachhiem.net/DAOVB/CT/DaovBinh94.php"
+source: "/DAOVB/CT/DaovBinh94"
 category: "Chính trị"
 lang: vi
 wordCount: 5083

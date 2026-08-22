@@ -3,7 +3,7 @@ layout: ../../../layouts/Article.astro
 title: "Chuyện Lễ Giỗ Tổ Hùng Vương Của Dân Việt"
 author: "Mi-Lu Dau"
 date: 2017-11-05
-source: "https://sachhiem.net/THOISU_CT/ChuM/MiLuDau_05.php"
+source: "/THOISU_CT/ChuM/MiLuDau_05"
 category: "Chính trị"
 lang: vi
 wordCount: 2195
@@ -14,7 +14,7 @@ image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/XAHOI/IMG/HOLIDAY/Le
      <p><i>LTS: Đăng lại chuyện cũ để không lặp lại chuyện cười của người đàn anh ở hải ngoại, chưa có kinh nghiệm và hiểu biết về văn hóa nước nhà (!) - SH</i></p>
    </div>
    <p align="center"><img src="https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/XAHOI/IMG/HOLIDAY/LeGioTo_CA.jpg" width="484" height="272" alt=""></p>
-<p> <span class="First">H</span>ôm trước ngày 17 tháng 10 nhân ghé qua trang SH thấy  có ông <a href="https://sachhiem.net/index.php?content=showemail&amp;id=2333">Trạng Móc làm thơ</a> mắng bọn Vịt lai căng cóng cởn ăn mặc như bọn hề bảo  là làm lễ giỗ tổ, rồi kết thúc bằng trò cắt bánh ngọt cùng hát bài <i>“Sinh Nhật  zui zẻ”</i> (Happy Birthday) của tây. Quả là tôi chẳng hiểu nổi cái sự tối tăm ngu đần  của bọn tổ chức đạt đến mức nào, tối thượng thừa rồi chăng; hay là đầu óc ủa  chúng có vấn đề? Xin xem clip ở đây:</p>
+<p> <span class="First">H</span>ôm trước ngày 17 tháng 10 nhân ghé qua trang SH thấy  có ông <a href="/hop-thu/2333">Trạng Móc làm thơ</a> mắng bọn Vịt lai căng cóng cởn ăn mặc như bọn hề bảo  là làm lễ giỗ tổ, rồi kết thúc bằng trò cắt bánh ngọt cùng hát bài <i>“Sinh Nhật  zui zẻ”</i> (Happy Birthday) của tây. Quả là tôi chẳng hiểu nổi cái sự tối tăm ngu đần  của bọn tổ chức đạt đến mức nào, tối thượng thừa rồi chăng; hay là đầu óc ủa  chúng có vấn đề? Xin xem clip ở đây:</p>
 <p><a href="https://www.youtube.com/watch?v=s_AF8D_9plo">https://www.youtube.com/watch?v=s_AF8D_9plo</a></p>
 <p align="center"><iframe width="480" height="270" src="https://www.youtube.com/embed/s_AF8D_9plo" frameborder="0" gesture="media" allowfullscreen=""></iframe></p>
 <p>Những tưởng trong các cộng đồng hải ngoại do bọn chiens  Ca-tô lộng hành này vẫn còn ghi nhớ câu “<i>cha nó lú có chú nó khôn</i>”. Ai dè chẳng  hề có một ông bà nhân sĩ nhà thờ nào lên tiếng dạy dỗ cho con cháu những điều xằng  bậy thái quá. Tuyệt đối không thấy, làm tôi sực nhớ thời còn mồ mả của “<i>Ngô chí  sĩ</i>”, khi tiếp một phái đoàn trí thức xin xây đền thờ Tổ Hùng Vương ở Sài gòn,  và tổ chức ngày giỗ tổ hằng năm; ông ta đã nổ ra một câu xanh rờn ”<i>Tổ của các  ông chứ có phải là tổ của chúng tôi đâu hì?</i>” (Ý muốn nói là con chien Ca-tô chỉ  thờ có mỗi chúa Vatican và các tổ phụ Do thái mà thôi). Vậy mà ngày nay lại thấy  trò làm lễ giổ tổ ở các cộng đồng hải ngoại. Hối hận rồi chăng, hay muốn cạnh  tranh với trong nước?</p>
@@ -35,7 +35,7 @@ image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/XAHOI/IMG/HOLIDAY/Le
 <p>________________</p>
 <p><b>Bài đọc thêm:</b></p>
 <p class="Tuaduoi"><b>Bài 1: Các vị Vua Hùng đời đời nguyền rủa, thằng con, đứa cháu đốn mạt Ngô Đình Diệm</b></p>
-<p>(trích mục <a href="https://www.sachhiem.net/index.php?content=showemail&amp;id=2363">Thư Ý Kiến Ngắn</a>)</p>
+<p>(trích mục <a href="/net/THOISU_CT/ChuM/MiLuDau_05">Thư Ý Kiến Ngắn</a>)</p>
 <p> <i>"Tổ Tiên Anh Linh đất nước Việt Nam, các vị Vua Hùng đời đời nguyền rủa, thằng con, đứa cháu đốn mạt Ngô Đình Diệm, qua câu nói xất xược của hắn;</i>"</p>
 <p> Câu chuyện trong báo ĐỜI, do nhà văn Chu Tử viết ở Sài Gòn rằng, một Giáo Sư ĐH nặng lòng với quốc Tổ Hùng Vương, khi đề nghị lên ông Diệm xây dựng đền thờ Quốc Tổ thì ông Diệm trở mặt và nạt lớn:&nbsp;<i style="font-family: 'times new roman', times, serif; font-size: 21.3444px;">"Tổ của anh chứ Tổ tôi à!"</i> </p>
 <p>Và sự thật không thể chối cải, trong&nbsp;<a href="https://www.todinhtudamhaingoai.org/vn/?15659=5&amp;596=21&amp;759=986&amp;59615=4" style="text-decoration: none;">Huyền Thoại về Lãnh Tụ Anh Minh Ngô Đình Diệm,</a>&nbsp;Võ Văn Sáu cũng ghi: <i style="font-family: 'times new roman', times, serif; font-size: 21.3444px;">"Khi lên làm Tổng Thống, Diệm liền hủy bỏ Ngày Nghỉ Lễ Giỗ Tổ hàng năm, và cấm không cho tổ chức công khai Giỗ Tổ Hùng Vương".</i></p>
@@ -45,7 +45,7 @@ image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/XAHOI/IMG/HOLIDAY/Le
 <p align="center"> <img src="https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/XAHOI/IMG/HOLIDAY/GioToHV_PhuTho1.jpg" width="400" height="289" alt=""></p>
 
 <p class="Tuaduoi"><b>Bài 2: Lời Phát Biểu Trong Lễ Giỗ Thứ 48 của TT Ngô Đình Diệm</b></p>
-<p>(trích mục <a href="https://sachhiem.net/index.php/index.php?content=showemail&amp;id=116">Thư, Ý Kiến Ngắn</a>)</p>
+<p>(trích mục <a href="/net/anviettc/index">Thư, Ý Kiến Ngắn</a>)</p>
 <p>From: Ba Nguyen  </p>
 <p>Sent: Wednesday, May 30, 2012 7:34 AM </p>
 <p>Subject: Re: Lời Phát Biểu Trong Lễ Giỗ Thứ 48 của Tổng Thống Ngô Đình Diệm  </p>

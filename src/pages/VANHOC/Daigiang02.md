@@ -2,17 +2,17 @@
 layout: ../../layouts/Article.astro
 title: "Khán Giá Mỹ và Cuộc Triễn Lãm Tranh Đảo Ngược"
 author: "Đại Giang"
-source: "https://sachhiem.net/VANHOC/Daigiang02.php"
+source: "/VANHOC/Daigiang02"
 category: "Văn hóa"
 lang: vi
 wordCount: 623
-image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nha.jpg"
+image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/VANHOC/Hinh/DAIGIANG/4dieuSinh.jpg"
 ---
 
 <p class="Tuaduoi"> tại Houston Texas ngày 17 Feb 2012</p>
 
 
-<p align="center"><a href="https://sachhiem.net/index.php"><img border="0" hspace="20" src="https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nha.jpg"></a>20 tháng 12, 2012</p>
+<p align="center">20 tháng 12, 2012</p>
 <p><span class="First">N</span>hững người Mỹ yêu thích hội họa đã tổ chức một cuộc triễn lãm tranh upsidedownism vẽ về Phật giáo nhân dịp họa sĩ&nbsp;Nguyễn đại Giang hoàn thành 2 bức tranh treo tường, mỗi một tranh có kích thước 6' x 19'.</p>
 <p> Tranh thứ nhất có tên : sinh &nbsp;lão bệnh tử, và tranh
   thứ hai là: tham, sân si và lục đạo luân hồi. Buổi

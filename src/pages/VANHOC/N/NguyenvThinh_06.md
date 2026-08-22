@@ -3,7 +3,7 @@ layout: ../../../layouts/Article.astro
 title: "Cụ Đồ Chiểu Có Làm Thơ"
 author: "BS. Nguyễn Văn Thịnh"
 date: 2015-02-06
-source: "https://sachhiem.net/VANHOC/N/NguyenvThinh_06.php"
+source: "/VANHOC/N/NguyenvThinh_06"
 category: "Lịch sử"
 lang: vi
 wordCount: 4889
@@ -181,4 +181,4 @@ Từ năm 2009, nhà nghiên cứu sử Dương Trung Quốc và  nhà văn Hoà
 <p> TPHCM tháng 01 năm 2014</p>
 <p class="nguonL">Nguồn: tác giả Nguyễn văn Thịnh gửi bản MS Word</p>
 <p>___________________ </p>
-<p>Các bài của Nguyễn Văn Thịnh: link <a href="https://sachhiem.net/VANHOC/N/ListNVTh.inc.php" target="_blank">https://sachhiem.net/VANHOC/N/ListNVTh.inc.php</a></p>
+<p>Các bài của Nguyễn Văn Thịnh: link <a href="/VANHOC/N/ListNVTh.inc" target="_blank">https://sachhiem.net/VANHOC/N/ListNVTh.inc.php</a></p>

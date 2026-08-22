@@ -3,7 +3,7 @@ layout: ../../../layouts/Article.astro
 title: "Nhật Ký Biển Đông: Toàn Cầu Hóa và Ngoại Giao Đa Phương"
 author: "Đào Văn Bình"
 date: 2017-09-01
-source: "https://sachhiem.net/DAOVB/CT/DaovBinh93.php"
+source: "/DAOVB/CT/DaovBinh93"
 category: "Chính trị"
 lang: vi
 wordCount: 6118
@@ -85,7 +85,7 @@ image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/THOISU_CT/Hinh/HOAKY
  <p align="right"><i>(California ngày 31/8/2017)</i></p>
  <p>____________________</p>
   <p><b>Nhận xét của bạn đọc:</b></p>
-  <p><i>- <a href="https://sachhiem.net/index.php?content=showemail&amp;id=2298">Vụ  Charlottesville - Nhân đọc Nhật Ký Biển Đông: Toàn Cầu Hóa và Ngoại Giao Đa  Phương</a></i></p>
+  <p><i>- <a href="/DAOVB/CT/DaovBinh93">Vụ  Charlottesville - Nhân đọc Nhật Ký Biển Đông: Toàn Cầu Hóa và Ngoại Giao Đa  Phương</a></i></p>
   <p>   Subject: Nhật_Ký_Biển_  Đông:_Toàn_Cầu_Hóa_và_Ngoại_Giao_Đa_Phương<br>
     From: ThDuy Pham <br>
     Date: Fri, September 01, 2017 3:41 pm<br>

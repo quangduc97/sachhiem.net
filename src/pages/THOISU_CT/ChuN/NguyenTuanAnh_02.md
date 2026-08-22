@@ -3,7 +3,7 @@ layout: ../../../layouts/Article.astro
 title: "Nhớ Lời Bác Hồ Căn Dặn Trước Lúc Đi Xa"
 author: "Nguyễn Tuấn Anh"
 date: 2024-06-15
-source: "https://sachhiem.net/THOISU_CT/ChuN/NguyenTuanAnh_02.php"
+source: "/THOISU_CT/ChuN/NguyenTuanAnh_02"
 category: "Chính trị"
 lang: vi
 wordCount: 2801

@@ -2,10 +2,9 @@
 layout: ../../layouts/Article.astro
 title: "Bước Mở Đầu Của Sự Thiết Lập Hệ Thống Thuộc Địa Pháp Ở Việt Nam"
 author: "TS Nguyễn Xuân Thọ"
-source: "https://sachhiem.net/12 tháng 2, 2023"
+source: "/12 tháng 2, 2023"
 lang: vi
 wordCount: 355
-image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nha.jpg"
 ---
 
 <div align="center" style="position: relative; left: 0; top: 0">
@@ -14,7 +13,7 @@ image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nha.jpg"
 	
 <tbody><tr> <td width="250" valign="top"> 
 	<center> 
-	<a href="/index"><img src="https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nha.jpg" border="0"></a></center>
+	</center>
     
 
 	
@@ -71,7 +70,7 @@ image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nha.jpg"
 
 
 <tr><td colspan="2"> 
-<a target="_blank" href="https://sachhiem.net/NGXUANTHO/BuocMoDau_Main.php"><p class="trang">Trang TS Nguyễn Xuân Thọ </p></a> 
+<a target="_blank" href="/NGXUANTHO/BuocMoDau_Main"><p class="trang">Trang TS Nguyễn Xuân Thọ </p></a> 
 		
 	</td></tr>
 

@@ -3,7 +3,7 @@ layout: ../../../layouts/Article.astro
 title: "Bà con CG bình tĩnh: Ls Hoàng Duy Hùng đang \"chữa cháy\" cho uy tín của \"Công Giáo\" Việt Nam"
 author: "Trần Quang Diệu"
 date: 2020-04-15
-source: "https://sachhiem.net/LICHSU/TR/TQD63.php"
+source: "/LICHSU/TR/TQD63"
 category: "Chính trị"
 lang: vi
 wordCount: 1603
@@ -43,7 +43,7 @@ image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/TONGIAO/IMG/VIETNAM/
  <p>Có làm gì bậy cho thiên hạ thì giáo hội sẽ điều động đi chỗ khác, nhưng nếu "chạm tới giáo hội" thế nào đó thì <b>giáo hội sẽ trừng trị ngay lập tức, dứt phép thông công</b>. Chắc các bạn còn nhớ, linh mục Phê rô Nguyên Văn Tường mấy năm trước bị Giáo Hội đuổi khỏi giáo hội, LỘT ÁO chỉ vì ông không giảng đúng theo Giáo Hội (*). </p>
  <p>- HĐGM không hề lên tiếng về mấy ông lm Đặng Hữu Nam, Nguyễn Ngọc Nam Phong, Nguyễn Duy Tân,... nghĩa là những người này <b>làm đúng theo tinh thần của họ đấy</b>. Ông HDH đâu có chức sắc gì, tiếng nói của ông sẽ không ảnh hưởng gì đến việc làm của mây linh mục này cả. <i>Ông HDH biết chắc như vậy, nhưng ông bắt buộc phải nói để "bảo vệ tiếng tăm" của giáo hội.</i></p>
  <p>-----------</p>
- <p><b>(*) Chú thích của SH</b> - Mời nghe đoạn giải thích của Hội Đồng Giám Mục về vụ phạt Vạ Tuyệt Thông linh mục Phê rô Nguyễn Văn Tường <a href="https://sachhiem.net/index.php?content=showemail&amp;id=653">[<b>Sự thật về một Linh mục bị vạ tuyệt thông</b> Gioan Lê Vinh7/3/2014 (Nguồn: https://vietcatholic.com/News/Html/125837.htm]</a></p>
+ <p><b>(*) Chú thích của SH</b> - Mời nghe đoạn giải thích của Hội Đồng Giám Mục về vụ phạt Vạ Tuyệt Thông linh mục Phê rô Nguyễn Văn Tường <a href="/hop-thu/653">[<b>Sự thật về một Linh mục bị vạ tuyệt thông</b> Gioan Lê Vinh7/3/2014 (Nguồn: https://vietcatholic.com/News/Html/125837.htm]</a></p>
  <p>Cha Giám quản giáo phận và các Cha đã&nbsp;<b>xem xét kỹ các lời giảng dạy của Lm Tường,</b>&nbsp;và các ngài nói rõ một linh mục phải giảng dạy những điều phù hợp giáo lý, được phép của bản quyền địa phương.  </p>
  <p>Bản quyền giáo phận đã chỉ rõ những điều sai lạc trong các bài giảng của Lm Tường. Chẳng hạn&nbsp;<b>Lm Tường nói sai về quyền Chúa trao cho Thánh Phêrô, về ơn Cứu độ, vè việc ăn thịt động vật.</b>&nbsp;Ví dụ Lm Tường nói&nbsp;<b>Chúa không trao quyền tha tội cho Phêrô. “Thánh Phêrô chỉ tha cho mình Thánh Phêrô thôi".</b>&nbsp;Về việc ăn thịt, cha Tường nói:&nbsp;<i>“Ai ăn thịt động vật thì không được Chúa chúc phúc”.</i></p>
  

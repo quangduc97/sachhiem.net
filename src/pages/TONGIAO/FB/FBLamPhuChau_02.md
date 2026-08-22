@@ -3,7 +3,7 @@ layout: ../../../layouts/Article.astro
 title: "Phản Hồi Những Lý Do Phản Đối Vạch Mặt Công Giáo"
 author: "FB Ca-tô Rô-ma Giáo"
 date: 2019-06-14
-source: "https://sachhiem.net/TONGIAO/FB/FBLamPhuChau_02.php"
+source: "/TONGIAO/FB/FBLamPhuChau_02"
 category: "Tác giả"
 lang: vi
 wordCount: 7052
@@ -57,14 +57,14 @@ Nhìn rõ vấn đề tôn giáo trong xã hội, học giả <b>Paul Blanshard 
   <p><b>3. Chống Công giáo là gây chia rẽ? hay là làm cho rõ bản chất Tà đạo? </b>Chống Công giáo không hề và không thể gây  chia rẽ hoặc chiến tranh tôn giáo,&nbsp;mà trái  lại giúp phòng tránh những điều này. Chống Công Giáo là sử dụng những công  trình nghiên cứu khả tín của các học giả Âu Mỹ để mang lại ánh sáng trí tuệ cho  con chiens, và dân ngoại đạo hiểu về bản chất thật của đạo Công giáo để mọi  người được sáng mắt sáng lòng tránh xa cái hố tội lỗi đó. </p>
   <p><a data-hovercard="/ajax/hovercard/user.php?id=899514053550714" href="https://www.facebook.com/H%E1%BB%99i-Th%C3%A1nh-Ch%E1%BB%93n-L%C3%BAa-899514053550714/">Hội Thánh C L </a>&nbsp;- <span dir="ltr">Tại sao anh KĐS sợ sự thật? Vì anh giả dối! Nếu là vàng thật thì càng dũa mài càng sáng láng. Nhà truyền giáo Alexandre De Rhodes đòi chém thằng Thích Ca, ông tổ CG là một thằng điên, đã truyền cái đạo khùng này làm khủng hoảng xã hội VN 5 thế kỷ qua. Đại Họa tách dân lập quốc là điều có thật: gần 3000 giáo xứ treo cờ Vatican nói lên cái gì? CG đã hủ hoá quá sâu và quá nhiều đảng viên bị chiêu dụ rồi, coi 2 vụ LM Trần Đình Long công khai mê hoặc công chúng,  và vụ tố khổ Chùa Ba Vàng vì một lý lẽ thuộc niềm tin "nhân quả báo ứng" thì rõ hết!</span></p>
   <p><a href="https://www.facebook.com/LyThaiXuanSH"><b>Lâm Phú Châu</b></a></p>
-  <p><b>4.  Vatican Xâm Lăng Văn Hóa Á Châu:</b>&nbsp;Giáo hoàng Clément XI đã ban hành sắc luật ngày 20/11/1704 cấm tín đồ Công giáo La mã <i>không được thờ cúng tổ tiên</i>, cấm đặt bài vị hoặc hình ảnh của người quá cố trên bàn thờ. Giáo hoàng Benoit XIV nhắc lại luật cấm thờ tổ tiên năm 1742. [Bài <a href="https://sachhiem.net/CHARLIE/CN_TTDTG/Duongcut.php">"<i>Con Đường Cụt Của Vatican Trên Lộ Trình Xâm Lăng Văn Hóa Á Châu</i>"</a> Tuyển Tập Độc Thần Giáo, Charlie Nguyễn]  </p>
+  <p><b>4.  Vatican Xâm Lăng Văn Hóa Á Châu:</b>&nbsp;Giáo hoàng Clément XI đã ban hành sắc luật ngày 20/11/1704 cấm tín đồ Công giáo La mã <i>không được thờ cúng tổ tiên</i>, cấm đặt bài vị hoặc hình ảnh của người quá cố trên bàn thờ. Giáo hoàng Benoit XIV nhắc lại luật cấm thờ tổ tiên năm 1742. [Bài <a href="/CHARLIE/CN_TTDTG/Duongcut">"<i>Con Đường Cụt Của Vatican Trên Lộ Trình Xâm Lăng Văn Hóa Á Châu</i>"</a> Tuyển Tập Độc Thần Giáo, Charlie Nguyễn]  </p>
   <p>_________________________________</p>
  <p class="TuaDoLeft"><b>Phụ chú của trang nhà:</b></p>
  <p>Nằm trong đề tài này. Có lần GS Nguyễn Mạnh Quang nhận được một lời phản hồi GAY GẮT của một người bạn học xưa, Phan Thị Quỳnh Dzư. Lá thư ngắn như sau:</p>
  <p> - <i>“Sao anh Quang không xem tội ác của Cộng Sản hay của Hồi Giáo quá khích, Chắc là sợ?”</i>&nbsp; </p>
  <p>Tiếp theo, hơn một giờ sau, chị lại gửi một E-mail khác mời ông đọc bài viết <i>“Gieo Gió Thì Gặt Bão”</i> của ông Nguyễn Hy Vọng. </p>
  <p>Kết quả là có bài này xuất hiện trên internet để trả lời cho những người bạn:</p>
- <p><b>Thư Gửi Chị Phan Thi Quỳnh Dzư: Người Bạn Đồng Môn Của Tôi Tại ĐHSP Sàigòn</b> (Nguyễn Mạnh Quang) <a target="_blank" href="https://sachhiem.net/NMQ/NMQ021_QD.php">https://sachhiem.net/NMQ/NMQ021_QD.php</a></p>
+ <p><b>Thư Gửi Chị Phan Thi Quỳnh Dzư: Người Bạn Đồng Môn Của Tôi Tại ĐHSP Sàigòn</b> (Nguyễn Mạnh Quang) <a target="_blank" href="/NMQ/NMQ021_QD">https://sachhiem.net/NMQ/NMQ021_QD.php</a></p>
 <p>....</p>
 <p>Thưa chị,</p>
 <p>Ở đời, “<i>có đi, có lại mới toại lòng nhau</i>”. Vì thế mà tôi phải cố gắng lập lại những gì tôi đã viết để trả lời chị. Trong thư này, tôi sẽ tuần tự nói rõ về các tiết mục dưới đây.</p>
@@ -74,7 +74,7 @@ Nhìn rõ vấn đề tôn giáo trong xã hội, học giả <b>Paul Blanshard 
 <p>d.-/ Bài &nbsp;viết “Gieo Gió Thì Gặp Bão” của con chiên Nguyễn Hy Vọng.</p>
 <p>Xin chị chịu khó đọc hết, để khỏi thắc mắc nữa. Chẳng lẽ thiên hạ ở ngoài tò mò đọc bài của tôi, mà người bạn rất thân của tôi lại không hề chính mắt, tận tai nghe biết tôi nói hay viết những gì, để rồi chỉ "nghe lại" từ những người khác, thì tủi cho thân phận cái học vị của chúng ta lắm.</p>
 <p>.....</p>
-<p class="nguonL">Xin đọc tiếp: <a target="_blank" href="https://sachhiem.net/NMQ/NMQ021_QD.php">https://sachhiem.net/NMQ/NMQ021_QD.php</a></p>
+<p class="nguonL">Xin đọc tiếp: <a target="_blank" href="/NMQ/NMQ021_QD">https://sachhiem.net/NMQ/NMQ021_QD.php</a></p>
 <p>______________</p>
 <p class="TuaDoLeft"><b>Phụ Đính:</b></p>
 <p class="TuaDoLeft">127 chữ "<b>quân thù</b>" trong thánh kinh:</p>

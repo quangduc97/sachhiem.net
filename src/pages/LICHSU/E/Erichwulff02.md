@@ -2,28 +2,27 @@
 layout: ../../../layouts/Article.astro
 title: "Lễ Phật Đản 8/ 5/ 63 Tại Huế"
 author: "Erich Wulff /Minh Nguyện dịch"
-source: "https://sachhiem.net/LICHSU/E/Erichwulff02.php"
+source: "/LICHSU/E/Erichwulff02"
 category: "Tác giả"
 lang: vi
 wordCount: 4050
-image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nha.jpg"
+image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/TONGIAO/IMG/CHUA/ChuaTuDam1.jpg"
 ---
 
 <p class="Tuaduoi">Trích hồi ký Bác sĩ ERICH WULFF (Đức ngữ) </p>
 			
  
-<p align="center"><a href="https://www.sachhiem.net/">
-	<img border="0" src="https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nha.jpg"></a> 02 tháng 5, 2011</p> 
+<p align="center"> 02 tháng 5, 2011</p> 
 <hr width="300">
-<p> <a href="https://sachhiem.net/LICHSU/E/Erichwulff01.php"> &lt;-- trang trước</a> | <a href="https://sachhiem.net/LICHSU/E/Erichwulff03.php">trang sau --&gt;</a></p>
-<p><a href="https://sachhiem.net/LICHSU/E/Erichwulff02.php">Trang 3 / 5</a></p>
+<p> <a href="/LICHSU/E/Erichwulff01"> &lt;-- trang trước</a> | <a href="/LICHSU/E/Erichwulff03">trang sau --&gt;</a></p>
+<p><a href="/LICHSU/E/Erichwulff02">Trang 3 / 5</a></p>
 		<p class="Tuaduoi">Tuyệt Thực - tháng 5/1963 TẠI CHÙA TỪ ĐÀM</p>
         <div class="danbai">
-<p>1- <a href="https://sachhiem.net/LICHSU/E/Erichwulff.php">Hồi ký của Bác sĩ E. Wulff về Pháp nạn 1963: bài một </a></p>
-<p>2-  <a href="https://sachhiem.net/LICHSU/E/Erichwulff.php">Hồi ký của Bác sĩ E. Wulff: bài hai - Đêm Phật Đản 8/5/1963</a></p>
+<p>1- <a href="/LICHSU/E/Erichwulff">Hồi ký của Bác sĩ E. Wulff về Pháp nạn 1963: bài một </a></p>
+<p>2-  <a href="/LICHSU/E/Erichwulff">Hồi ký của Bác sĩ E. Wulff: bài hai - Đêm Phật Đản 8/5/1963</a></p>
 <p>3-    <b>Hồi ký của Bác sĩ E. Wulff: bài ba - Tuyệt Thực - tháng 5/1963</b></p>
-<p>4- <a href="https://sachhiem.net/LICHSU/E/Erichwulff.php">Hồi ký của Bác sĩ E. Wulff: bài bốn - Tường trình tại Liên Hiệp Quốc  (9/196 3)</a></p>
-<p>5- <a href="https://sachhiem.net/LICHSU/E/Erichwulff.php">Hồi ký của Bác sĩ E. Wulff: bài chót -  Chuyến trở lại Việt Nam 1964 </a></p>
+<p>4- <a href="/LICHSU/E/Erichwulff">Hồi ký của Bác sĩ E. Wulff: bài bốn - Tường trình tại Liên Hiệp Quốc  (9/196 3)</a></p>
+<p>5- <a href="/LICHSU/E/Erichwulff">Hồi ký của Bác sĩ E. Wulff: bài chót -  Chuyến trở lại Việt Nam 1964 </a></p>
 
 </div>
 <p><strong><u>Lời người dịch:</u></strong> <i>Đây là bài thứ hai trích dịch từ quyển  Vietnamesische Lehrjahre (Những năm dạy học tại Việt Nam), Suhrkamp Taschenbuch  Nr. 73, Frankfurt a.M., Germany, 1972, trang 150 đến 157, với tên tác giả Georg  W. Alsheimer, bút hiệu của Erich Wulff. Ông này là bác sĩ người Đức dạy tại  trường Đại học Y khoa Huế từ năm 1961 đến 1967, trong khuôn khổ viện trợ giáo  dục của Tây Đức. Vì một sự tình cờ, tác giả đã chứng kiến biến cố tại đài phát  thanh Huế đêm 8/5/1963 làm 8 Phật tử bị chết một cách thê thảm và đã trình bày  sự kiện này trước uỷ ban điều tra đàn áp Phật giáo Việt Nam của Liên hiệp quốc  vào tháng 9/1963.</i></p>
@@ -61,7 +60,7 @@ Sau khi được  thả ra, tôi đi đến bệnh viện, Hans chỉ cho tôi n
 <p class="TacgiaL">
 <b> BS ERICH WULFF </b> </p>
 <p><i>(Minh Nguyện  trích dịch, Tây Đức tháng 8-2001 ; bổ túc tháng 5/2003 và 5/2007)</i></p>
-<p> <a href="https://sachhiem.net/LICHSU/E/Erichwulff01.php"> &lt;-- trang trước</a> | <a href="https://sachhiem.net/LICHSU/E/Erichwulff03.php">trang sau --&gt;</a></p>
+<p> <a href="/LICHSU/E/Erichwulff01"> &lt;-- trang trước</a> | <a href="/LICHSU/E/Erichwulff03">trang sau --&gt;</a></p>
 <hr size="2" width="100%">
  <p> <b>Ghi chú của  người dịch:</b></p>
 <p>
@@ -83,4 +82,4 @@ hay TVHS: <a href="https://thuvienhoasen.org/D_1-2_2-86_4-5395/ky-uc-ve-bien-co-
 			<p class="nguonL">Nguồn: https://tuvienhuequang.com/chuyen-muc/lich-su/2748-hoi-ky-cua-bac-si-wulff-ve-phap-nan-1963.html?start=2</p>
             <hr>
 <p><b>Mời đọc thêm: </b></p>
-<p>- <a href="https://sachhiem.net/XAHOI/xhN/NgXnXanh.php">Gặp lại ân nhân của Việt Nam: bác sĩ Erich Wulff</a></p>
+<p>- <a href="/XAHOI/xhN/NgXnXanh">Gặp lại ân nhân của Việt Nam: bác sĩ Erich Wulff</a></p>

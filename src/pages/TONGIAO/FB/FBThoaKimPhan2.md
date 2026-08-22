@@ -3,7 +3,7 @@ layout: ../../../layouts/Article.astro
 title: "ĐƠN TỐ CÁO Số 2: Linh Mục Chiếm Đoạt Tài Sản Giáo Dân"
 author: "Phan thị Kim Thoa"
 date: 2024-03-11
-source: "https://sachhiem.net/TONGIAO/FB/FBThoaKimPhan2.php"
+source: "/TONGIAO/FB/FBThoaKimPhan2"
 category: "Tác giả"
 lang: vi
 wordCount: 2422

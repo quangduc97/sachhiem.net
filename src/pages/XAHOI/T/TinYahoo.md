@@ -2,11 +2,11 @@
 layout: ../../../layouts/Article.astro
 title: "khấy động trong mùa lễ."
 author: "Liz Goodwin /Tin Yahoo"
-source: "https://sachhiem.net/null"
+source: "/null"
 category: "Tác giả"
 lang: vi
 wordCount: 1867
-image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nha.jpg"
+image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/TONGIAO/IMG/AtheistBillboard2010.jpg"
 ---
 
 <div align="center" style="position: relative; left: 0; top: 0">
@@ -23,8 +23,7 @@ image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nha.jpg"
 <div style="padding-left: 50px; padding-right: 50px"> 
 	<table border="0" cellpadding="1" width="87%" cols="2">
 		<tbody><tr>
-			<td><a href="https://www.sachhiem.net/">
-			<img border="0" src="https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nha.jpg"></a></td>
+			<td></td>
 			<td valign="top" width="210">
 			<p>25 tháng 7, 2009	</p></td>
 		</tr>

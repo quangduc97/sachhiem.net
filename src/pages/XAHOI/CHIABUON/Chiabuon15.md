@@ -3,7 +3,7 @@ layout: ../../../layouts/Article.astro
 title: "Vô Cùng Thương Tiếc"
 author: "Pháp Nguyên Buddhist Congregation"
 date: 2019-11-09
-source: "https://sachhiem.net/XAHOI/CHIABUON/Chiabuon15.php"
+source: "/XAHOI/CHIABUON/Chiabuon15"
 lang: vi
 wordCount: 390
 ---

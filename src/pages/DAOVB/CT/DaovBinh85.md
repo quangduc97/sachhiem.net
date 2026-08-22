@@ -3,7 +3,7 @@ layout: ../../../layouts/Article.astro
 title: "Nhật Ký Biển Đông: Mỹ Có Nên Tiến Vào Bãi Lầy Syria?"
 author: "Đào Văn Bình"
 date: 2017-04-07
-source: "https://sachhiem.net/DAOVB/CT/DaovBinh85.php"
+source: "/DAOVB/CT/DaovBinh85"
 category: "Chính trị"
 lang: vi
 wordCount: 5396

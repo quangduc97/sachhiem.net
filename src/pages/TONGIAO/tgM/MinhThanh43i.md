@@ -3,7 +3,7 @@ layout: ../../../layouts/Article.astro
 title: "[VATICANOLOGY] Tại Sao Họ Trở Thành Đa Số?"
 author: "Minh Thạnh"
 date: 2024-06-01
-source: "https://sachhiem.net/TONGIAO/tgM/MinhThanh43i.php"
+source: "/TONGIAO/tgM/MinhThanh43i"
 category: "Chính trị"
 lang: vi
 wordCount: 3412

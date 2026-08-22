@@ -2,15 +2,14 @@
 layout: ../../layouts/Article.astro
 title: "Nén Hương Bái Biệt"
 author: "Hoàng Nguyên Nhuận"
-source: "https://sachhiem.net/HOANGNN/Hoang32.php"
+source: "/HOANGNN/Hoang32"
 category: "Chính trị"
 lang: vi
 wordCount: 5047
-image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nha.jpg"
+image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/HOANGNN/Hinh/Hoang32_1.jpg"
 ---
 
-<p align="center"><a href="https://www.sachhiem.net/">
-	<img hspace="20" border="0" src="https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nha.jpg"></a>28 tháng 8, 2009 </p>
+<p align="center">28 tháng 8, 2009 </p>
 	<p><span class="First"><span style="font-weight: 400">K</span></span>im Đại Trọng cựu Tổng Thống Nam Hàn, khôi nguyên Nobel Hòa Bình năm 2000, 
 	người chủ trì kế sách hiệp thương Ánh Dương để hoà hợp hòa giải hận thù chia 
 	cắt Nam Bắc Triều Tiên đã an lành dứt hơi thở cuối cùng xế trưa ngày 

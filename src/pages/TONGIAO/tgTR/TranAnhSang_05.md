@@ -3,7 +3,7 @@ layout: ../../../layouts/Article.astro
 title: "Thống Kê Tôn Giáo Là Một Lựa Chọn Chiến Lược"
 author: "Trần Ánh Sáng"
 date: 2017-12-08
-source: "https://sachhiem.net/TONGIAO/tgTR/TranAnhSang_05.php"
+source: "/TONGIAO/tgTR/TranAnhSang_05"
 category: "Chính trị"
 lang: vi
 wordCount: 548

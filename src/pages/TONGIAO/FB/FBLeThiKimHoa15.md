@@ -3,7 +3,7 @@ layout: ../../../layouts/Article.astro
 title: "“Nhận Vơ” Ngày 30/4 Để Bảo Vệ Đức Tin?"
 author: "Lê thị Kim Hoa sưu tầm"
 date: 2026-04-30
-source: "https://sachhiem.net/TONGIAO/FB/FBLeThiKimHoa15.php"
+source: "/TONGIAO/FB/FBLeThiKimHoa15"
 category: "Tác giả"
 lang: vi
 wordCount: 1161

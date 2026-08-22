@@ -3,19 +3,18 @@ layout: ../../../../layouts/Article.astro
 title: "Bộ Phim “Chiến Tranh Việt Nam” Của Ken Burns Và Lynn Novick"
 author: "pressroom.pbs.org"
 date: 2017-09-19
-source: "https://sachhiem.net/LICHSU/IMG/VNwar/Phim_VietnamWar.php"
+source: "/LICHSU/IMG/VNwar/Phim_VietnamWar"
 category: "Chính trị"
 lang: vi
 wordCount: 2610
-image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nha.jpg"
+image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/LICHSU/IMG/VNwar/PhimVNWar.JPG"
 ---
 
 <p class="Tuaduoi"><b>Sẽ  Được Truyền Trực Tuyến Ở Việt Nam
   - Phim có phụ đề tiếng Việt </b></p>
 
 
- <p align="center"><a href="https://www.sachhiem.net/">
-<img border="0" src="https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nha.jpg"></a> 
+ <p align="center"> 
 ngày 19-Sep-2017</p> 
 
 <p>      <i>Caption: Marines marching in Danang. March 15, 1965.</i> </p>

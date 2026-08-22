@@ -3,7 +3,7 @@ layout: ../../../layouts/Article.astro
 title: "Vài Nét Đặc Biệt Về Từ Thiện Ca-Tô"
 author: "Trần Chung Ngọc"
 date: 2014-01-17
-source: "https://sachhiem.net/TCN/TCNdt/TCNdt075.php"
+source: "/TCN/TCNdt/TCNdt075"
 lang: vi
 wordCount: 15953
 image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/XAHOI/IMG/FLOOD/giaodiemtuthien_cuutro.jpg"
@@ -19,8 +19,8 @@ image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/XAHOI/IMG/FLOOD/giao
 </div>
 
 <p><a class="TuaDoLeft" name="end1" href="/TCN/#1"><b>“Giới Trẻ Phật Tử” Hay “Giới Già Ca-Tô” ?</b></a></p>
-<p>Tháng 9, 2010, tôi&nbsp;  có đọc bài “<i>Đâu Là Sự Thật? Thắc mắc của các sinh  viên trẻ đang sống trong lòng VNXHCN</i>” trong đó giới trẻ, thật ra chỉ là &nbsp;“giới già” của chế độ cũ, &nbsp;có nêu vài thắc mắc về cuộc chiến ở Việt  Nam.&nbsp; Tôi đã viết bài “<i>Về Vài Thắc Mắc Của "Giới Trẻ"</i>” để giải đáp những thắc mắc của họ trên <a href="https://sachhiem.net/TCN/TCNdt/TCNdt049.php">https://sachhiem.net/TCN/TCNdt/TCNdt049.php</a>.&nbsp; Từ đó đến nay, tôi không thấy “<i>các sinh  viên trẻ đang sống trong lòng VNXHCN</i>” và cả “giới già” có thêm thắc mắc gì  nữa.</p>
-<p> Nay tôi mới đọc bài “Giới Trẻ Phật Tử Lên Tiếng” <a href="https://www.sachhiem.net/index.php?content=showemail&amp;id=349">https://www.sachhiem.net/index.php?content=showemail&amp;id=349</a>, lần này chắc chắn là của “giới già  Ca-tô” mang danh giới trẻ.&nbsp; Vì nội dung  của bài, từ văn phong, lý luận cho đến việc quảng cáo cho Thiên Chúa Giáo đã là  những điều rất quen thuộc của một số người Ca-tô cay đắng, uất hận với Giao  Điểm, nhưng ít trí tuệ, đã từng đưa ra.&nbsp;  Chúng ta hãy đọc vài luận điệu quen thuộc trong đó với vài bình luận  ngắn của tôi.</p>
+<p>Tháng 9, 2010, tôi&nbsp;  có đọc bài “<i>Đâu Là Sự Thật? Thắc mắc của các sinh  viên trẻ đang sống trong lòng VNXHCN</i>” trong đó giới trẻ, thật ra chỉ là &nbsp;“giới già” của chế độ cũ, &nbsp;có nêu vài thắc mắc về cuộc chiến ở Việt  Nam.&nbsp; Tôi đã viết bài “<i>Về Vài Thắc Mắc Của "Giới Trẻ"</i>” để giải đáp những thắc mắc của họ trên <a href="/TCN/TCNdt/TCNdt049">https://sachhiem.net/TCN/TCNdt/TCNdt049.php</a>.&nbsp; Từ đó đến nay, tôi không thấy “<i>các sinh  viên trẻ đang sống trong lòng VNXHCN</i>” và cả “giới già” có thêm thắc mắc gì  nữa.</p>
+<p> Nay tôi mới đọc bài “Giới Trẻ Phật Tử Lên Tiếng” <a href="/net/index">https://www.sachhiem.net/index.php?content=showemail&amp;id=349</a>, lần này chắc chắn là của “giới già  Ca-tô” mang danh giới trẻ.&nbsp; Vì nội dung  của bài, từ văn phong, lý luận cho đến việc quảng cáo cho Thiên Chúa Giáo đã là  những điều rất quen thuộc của một số người Ca-tô cay đắng, uất hận với Giao  Điểm, nhưng ít trí tuệ, đã từng đưa ra.&nbsp;  Chúng ta hãy đọc vài luận điệu quen thuộc trong đó với vài bình luận  ngắn của tôi.</p>
 <p>-&nbsp;&nbsp; <i>Chúng  cháu thấy các chú bác viết bài trên diễn đàn</i> <i>tấn công Thiên Chúa Giáo, rõ ràng mất phương hướng, như những kẻ điên  loạn, mất hết trí khôn. </i></p>
 <div class="danbai"><p align="center"> <b>Gồm các mục:</b></p>
      <p>  - <a name="1" href="/TCN/#end1">“Giới Trẻ Phật Tử” Hay “Giới Già Ca-Tô” ?</a><br>

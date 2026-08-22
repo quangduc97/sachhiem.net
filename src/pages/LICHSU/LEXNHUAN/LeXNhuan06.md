@@ -2,18 +2,18 @@
 layout: ../../../layouts/Article.astro
 title: "ÔNG BÀ NGÔ ĐÌNH NHU"
 author: "Lê Xuân Nhuận"
-source: "https://sachhiem.net/LICHSU/LEXNHUAN/LeXNhuan06.php"
+source: "/LICHSU/LEXNHUAN/LeXNhuan06"
 category: "Lịch sử"
 lang: vi
 wordCount: 2602
-image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nha.jpg"
+image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/LICHSU/IMG/NGODD/NgoDNhu.jpg"
 ---
 
 <p class="Tuaduoi">DƯỚI MẮT NGƯỜI ĐỜI </p>
 
 
     
-     <p align="center"><a href="/LICHSU/index"><img hspace="20" border="0" src="https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nha.jpg"></a> <a href="/LICHSU/LEXNHUAN/LXN_main">Mục lục các bài liên hệ với chế độ Ngô Đình Diệm </a> &nbsp;&nbsp; 27 tháng 10, 2010 </p>
+     <p align="center"> <a href="/LICHSU/LEXNHUAN/LXN_main">Mục lục các bài liên hệ với chế độ Ngô Đình Diệm </a> &nbsp;&nbsp; 27 tháng 10, 2010 </p>
 
 <p>
 <img border="0" src="https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/LICHSU/IMG/NGODD/NgoDNhu.jpg" width="151" height="209" align="left" hspace="10"><span class="First">Ô</span>ng Cố-Vấn

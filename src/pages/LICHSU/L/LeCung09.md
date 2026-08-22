@@ -3,7 +3,7 @@ layout: ../../../layouts/Article.astro
 title: "Phật Giáo Với Sự Nghiệp Của Các Chúa Nguyễn Ở Đàng Trong (1558 - 1777)"
 author: "Lê Cung"
 date: 2021-03-02
-source: "https://sachhiem.net/LICHSU/L/LeCung09.php"
+source: "/LICHSU/L/LeCung09"
 category: "Chính trị"
 lang: vi
 wordCount: 4172

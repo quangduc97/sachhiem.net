@@ -3,7 +3,7 @@ layout: ../../../layouts/Article.astro
 title: "Nhân Vụ \"Văn Đoàn Độc Lập\" Gặp Lại Dương Thu Hương"
 author: "Đông La"
 date: 2014-03-27
-source: "https://sachhiem.net/THOISU_CT/ChuD/DongLa01.php"
+source: "/THOISU_CT/ChuD/DongLa01"
 category: "Văn hóa"
 lang: vi
 wordCount: 2817

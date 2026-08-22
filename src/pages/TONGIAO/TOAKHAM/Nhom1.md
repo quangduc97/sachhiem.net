@@ -2,11 +2,10 @@
 layout: ../../../layouts/Article.astro
 title: "TRƯỚC VỤ VIỆC TGM NGÔ QUANG KIỆT"
 author: "Một Nhóm Tác Giả Nghiên Cứu Ở Hải Ngoại"
-source: "https://sachhiem.net/TONGIAO/TOAKHAM/.php"
+source: "/TONGIAO/TOAKHAM/"
 category: "Tác giả"
 lang: vi
 wordCount: 1364
-image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nha.jpg"
 ---
 
 <p class="Tuaduoi">TIẾNG NÓI CỦA MỘT NHÓM TRÍ THỨC 
@@ -16,7 +15,7 @@ image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nha.jpg"
 		
 		
 
-<p align="center"><a href="https://sachhiem.net/index.php"><img border="0" hspace="20" src="https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nha.jpg"></a>30 tháng 1, 2008</p>
+<p align="center">30 tháng 1, 2008</p>
 	
 	<p class="TuaDoLeft">Nhân Đọc Đơn Khiếu Nại Của Tòa Tổng Giám Mục Hà Nội</p>
 		

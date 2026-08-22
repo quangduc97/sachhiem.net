@@ -3,7 +3,7 @@ layout: ../../../layouts/Article.astro
 title: "3.000 Trẻ Sơ Sinh Tây Ban Nha Bị Tu Sĩ Bắt Cóc"
 author: "Đào Vũ /xaluan.com"
 date: 2014-05-22
-source: "https://sachhiem.net/TONGIAO/tgN/Nguoiduatin.php"
+source: "/TONGIAO/tgN/Nguoiduatin"
 category: "Tác giả"
 lang: vi
 wordCount: 1948
@@ -72,7 +72,7 @@ image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/TONGIAO/IMG/SPAIN/Ma
   <p class="nguonL">Nguồn https://www.nguoiduatin.vn/3000-tre-so-sinh-tay-ban-nha-da-bi-cac-tu-sy-danh-cap-nhu-the-nao-a115585.html 24.11.2013 | 07:34 AM</p>
   <hr>
 <p><b>Bản tin liên quan:</b></p>
-<p>&nbsp;- <a href="https://sachhiem.net/THOISU_CT/ChuB/BuiThanhTong01.php">Tây Ban Nha: Hệ Thống Quy Mô Đánh Cắp Và Bán Trẻ Sơ Sinh</a> - Bùi Thanh Tòng - 13-Nov-2011 </p>
+<p>&nbsp;- <a href="/THOISU_CT/ChuB/BuiThanhTong01">Tây Ban Nha: Hệ Thống Quy Mô Đánh Cắp Và Bán Trẻ Sơ Sinh</a> - Bùi Thanh Tòng - 13-Nov-2011 </p>
 <p>- <a href="https://www.cnn.com/2012/04/25/world/europe/wus-spain-stolen-babies/">Stolen babies scandal haunts Spain</a> - CNN
 updated 7:55 AM EDT, Thu April 26, 2012</p>
 <p>- <a href="https://rockcenter.nbcnews.com/_news/2012/04/13/11167433-nun-at-center-of-spains-stolen-babies-scandal-refuses-to-testify?lite">Nun at center of Spain's stolen babies scandal refuses to testify</a> Friday Apr 13, 2012 8:42 AM</p>

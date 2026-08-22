@@ -3,7 +3,7 @@ layout: ../../../layouts/Article.astro
 title: "Cựu Nhân Viên Hãng Tin Fox Đã Tự Vẫn"
 author: "Jonathan Ernst/ Reuters"
 date: 2015-02-17
-source: "https://sachhiem.net/SACHNGOAI/H/HaiAu04.php"
+source: "/SACHNGOAI/H/HaiAu04"
 category: "Sách ngoại văn"
 lang: vi
 wordCount: 1084

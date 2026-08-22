@@ -3,7 +3,7 @@ layout: ../../../layouts/Article.astro
 title: "Chúc Mừng Quốc Khánh Lần Thứ 249 Hợp Chúng Quốc Hoa Kỳ 4/7/1776 - 4/7/2025"
 author: "Hoàng Anh Tuấn"
 date: 2025-07-04
-source: "https://sachhiem.net/THOISU_CT/FB/HoangATuan.php"
+source: "/THOISU_CT/FB/HoangATuan"
 category: "Chính trị"
 lang: vi
 wordCount: 1136

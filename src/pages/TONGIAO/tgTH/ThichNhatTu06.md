@@ -3,7 +3,7 @@ layout: ../../../layouts/Article.astro
 title: "Xá-Lợi Xương Đầu Của Đại Sư Trí Quang (1)"
 author: "Thích Nhật Từ"
 date: 2019-12-02
-source: "https://sachhiem.net/TONGIAO/tgTH/ThichNhatTu06.php"
+source: "/TONGIAO/tgTH/ThichNhatTu06"
 category: "Chính trị"
 lang: vi
 wordCount: 3314

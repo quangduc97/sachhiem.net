@@ -3,7 +3,7 @@ layout: ../../../layouts/Article.astro
 title: "Thành Kính Phân Ưu"
 author: "\\ Ban Biên Tập Sachhiem.net \\"
 date: 2014-01-30
-source: "https://sachhiem.net/XAHOI/CHIABUON/Chiabuon7.php"
+source: "/XAHOI/CHIABUON/Chiabuon7"
 lang: vi
 wordCount: 914
 image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/TCN/Pict/TCN07.jpg"
@@ -23,14 +23,14 @@ image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/TCN/Pict/TCN07.jpg"
        
      <div class="tomluoc">
       <p><b>Đặc Biệt:</b> Xin trân trọng thông báo, trang nhà sẽ ghi lại những lời chia buồn  về Giáo Sư Trần Chung Ngọc của tất cả các bạn đọc ái mộ ở trang </p>
-<p><a href="https://sachhiem.net/XAHOI/CHIABUON/Chiabuon7A.php">"Tưởng Niệm Giáo Sư Trần Chung Ngọc" </a></p>
+<p><a href="/XAHOI/CHIABUON/Chiabuon7A">"Tưởng Niệm Giáo Sư Trần Chung Ngọc" </a></p>
       <p>Chúng tôi sẽ liên tục cập nhật trang Tưởng Niệm.</p>
 <p>Xin đón đọc.</p>
      </div>
      <div class="indent50">
- <p><b>1.</b><a href="https://sachhiem.net/index.php?content=showrecipe&amp;id=5873"> Bản tin nhanh về sự ra đi của Giáo-sư Trần Chung Ngọc</a></p>
- <p><b>2. </b><a href="https://sachhiem.net/index.php?content=showrecipe&amp;id=5874">Thành kính phân ưu của trang nhà sachhiem.net</a></p>
- <p><b>3. </b> <a href="https://sachhiem.net/TCN/29JAN14/ChiabuonB.php">Hoài niệm theo ước nguyện của GS Trần Chung Ngọc</a></p>
+ <p><b>1.</b><a href="/XAHOI/CHIABUON/Tinbuon"> Bản tin nhanh về sự ra đi của Giáo-sư Trần Chung Ngọc</a></p>
+ <p><b>2. </b><a href="/XAHOI/CHIABUON/Chiabuon7">Thành kính phân ưu của trang nhà sachhiem.net</a></p>
+ <p><b>3. </b> <a href="/TCN/29JAN14/ChiabuonB">Hoài niệm theo ước nguyện của GS Trần Chung Ngọc</a></p>
 </div>
      
    <p align="center"><img src="https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/DivGold.gif" width="80%" height="5"></p>
@@ -81,11 +81,11 @@ image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/TCN/Pict/TCN07.jpg"
 		 <img border="0" src="https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/TCN/Pict/TCNdiv.gif" width="50%"></p>
 			<p class="TuaDenLeft"> <u>Tác phẩm đã xuất bản:</u> </p>
 			<ul style="margin-top: 0in; margin-bottom: 0in" type="disc">
-			<li><a href="https://sachhiem.net/TCN/TCNtg/CGchinhsu/CGCS0.php">Công Giáo Chính Sử 
+			<li><a href="/TCN/TCNtg/CGchinhsu/CGCS0">Công Giáo Chính Sử 
 					</a>(1998; Tái bản lần 2: 2000)</li>
-			<li><a href="https://sachhiem.net/TCN/TCNtg/DuctinCG/DuctinCG.php">Đức Tin Công Giáo (2000)</a></li>
-			<li><a href="https://sachhiem.net/TCN/TCNtg/Giesu/Giesulaai.php">Chúa Giê-su Là Ai? Giảng Dạy Những Gì?</a> (2002)</li>
-			<li><a href="https://sachhiem.net/index.php?content=showrecipe&amp;id=350">Con Người Và Vũ Trụ</a>. Phật Giáo Và Khoa Học (sẽ xuất bản)</li>
+			<li><a href="/TCN/TCNtg/DuctinCG/DuctinCG">Đức Tin Công Giáo (2000)</a></li>
+			<li><a href="/TCN/TCNtg/Giesu/Giesulaai">Chúa Giê-su Là Ai? Giảng Dạy Những Gì?</a> (2002)</li>
+			<li><a href="/TCN/TCNkh/TCNkh00b">Con Người Và Vũ Trụ</a>. Phật Giáo Và Khoa Học (sẽ xuất bản)</li>
 			<li><a href="/TCN/TCNtg/CGHS/NCGHS0">Công Giáo Hắc Sử 
 					</a>(1998; Tái bản lần 2: 2000)</li>
 			</ul>
@@ -101,7 +101,7 @@ image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/TCN/Pict/TCN07.jpg"
 				<li>LM Trần Lục, Thực Chất Con Người Và Sự Nghiệp (1999)</li>
 				<li>Nguyễn Trường Tộ, Thực Chất Con Người Và Di Thảo (1998)</li>
 				<li>Nguyễn Trường Tộ Yêu Nước ?? (2002)</li>
-					<li><a href="https://sachhiem.net/TCN/TCNtg/DAOGIESU/TCN_NMQ.php">Người Việt Nam &amp; Đạo 
+					<li><a href="/TCN/TCNtg/DAOGIESU/TCN_NMQ">Người Việt Nam &amp; Đạo 
 						Giêsu</a> (2007)</li>
 				<li>Phật Giáo Trong Thế Kỷ Mới; Tuyển Tập I (1996)</li>
 				<li>Phật Giáo Trong Thế Kỷ Mới; Tuyển Tập II (1997)</li>
@@ -124,10 +124,10 @@ image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/TCN/Pict/TCN07.jpg"
       </ul>	 
 <p class="TuaDenLeft"><u>Kho sách nghiên cứu </u> </p>
 		 <p>Các sách vở của tác giả Trần Chung Ngọc đã tham khảo, giới thiệu đến độc giả để tiện việc nghiên cứu. </p>
-		 <p><a href="https://sachhiem.net/TCN/TCNls/TCNls09.php">Xin bấm vào hàng chữ dưới đây để xem
+		 <p><a href="/TCN/TCNls/TCNls09">Xin bấm vào hàng chữ dưới đây để xem
 		  <img border="0" src="https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/Next3.gif" width="15" height="6"></a></p>
 	 <p class="TuaDenLeft"><u>Các tác phẩm trực tuyến</u> </p>
-      <p> Xin đọc&nbsp;<a href="https://sachhiem.net/PagingTCNsub.inc.php">https://sachhiem.net/PagingTCNsub.inc.php</a>
+      <p> Xin đọc&nbsp;<a href="/PagingTCNsub.inc">https://sachhiem.net/PagingTCNsub.inc.php</a>
   </p><p class="TuaDenLeft"><u>Trang Bách Khoa Trực Tuyến mở </u></p>
    <p><a href="https://vi.wikipedia.org/wiki/Tr%E1%BA%A7n_Chung_Ng%E1%BB%8Dc">https://vi.wikipedia.org/wiki/Trần_Chung_Ngọc</a></p>
    

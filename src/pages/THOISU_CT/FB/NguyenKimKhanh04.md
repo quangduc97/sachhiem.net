@@ -3,7 +3,7 @@ layout: ../../../layouts/Article.astro
 title: "Cả Hệ Thống Chính Trị Của Đất Nước Này, Thua Mấy Kẻ Linh Mục Cực Đoan Hay Sao?"
 author: "FB Nguyễn Kim Khanh"
 date: 2021-05-22
-source: "https://sachhiem.net/THOISU_CT/FB/NguyenKimKhanh04.php"
+source: "/THOISU_CT/FB/NguyenKimKhanh04"
 category: "Chính trị"
 lang: vi
 wordCount: 951
@@ -36,5 +36,5 @@ image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/TONGIAO/IMG/LINHMUC/
  <p>- <a href="https://www.nguoicondatme.org/2018/03/nguyen-ngoc-nam-phong-ca-ngoi-dan-oan.html">NGUYỄN NGỌC NAM PHONG CA NGỢI Ả “DÂN OAN” CẤN THỊ THÊU!</a></p>
  <p>- Lm Nguyễn Ngọc Nam Phong chính thức tuyên bố: <a href="https://www.youtube.com/watch?v=QqO2OUQr_Mo">cần loại trừ thể chế khuyết tật ghẻ ngứa</a> Jul 29, 2018</p>
  <p>- <a href="https://www.molang0205.com/2019/03/xung-quanh-chuyen-lm-dcct-nguyen-ngoc.html">trang Người Công Giáo loan báo: "TIN NÓNG: CHA GIOAN NGUYỄN NGỌC NAM PHONG SẼ CHUYỂN VỀ TỈNH DÒNG SINH HOẠT </a>[29/03/2019 - Cùng đợt thuyên chuyển với cha Gioan Nguyễn Ngọc Nam Phong còn có cha An tôn Lê Ngọc Thanh, điều hành Ban Truyền thông Dòng Chúa Cứu Thế Sài Gòn sẽ chuyển về nhà thờ Sáu Bọng ở Cần Thơ, thuộc Giáo phận Long Xuyên và là thành viên tu viện Dòng Chúa Cứu Thế Vĩnh Long.]</p>
- <p>-<a href="https://sachhiem.net/TONGIAO/FB/FBMathieuLeAnh01.php"> Dòng Chúa Cứu Thế Hay Dòng Tên?</a></p>
+ <p>-<a href="/TONGIAO/FB/FBMathieuLeAnh01"> Dòng Chúa Cứu Thế Hay Dòng Tên?</a></p>
  <p>- <a href="https://www.bantindanchu.com/2021/03/linh-muc-nguyen-ngoc-nam-phong-ang-hieu.html">Linh mục Nguyễn Ngọc Nam Phong đang hiểu sai về quan điểm “đồng hành cùng dân tộc”</a></p>

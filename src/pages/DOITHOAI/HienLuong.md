@@ -3,7 +3,7 @@ layout: ../../layouts/Article.astro
 title: "Nhờ Ông HDH Làm Rõ Vài Câu Chuyện"
 author: "Hiền Lương"
 date: 2023-09-29
-source: "https://sachhiem.net/DOITHOAI/HienLuong.php"
+source: "/DOITHOAI/HienLuong"
 category: "Chính trị"
 lang: vi
 wordCount: 3463

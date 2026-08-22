@@ -3,7 +3,7 @@ layout: ../../layouts/Article.astro
 title: "Thông Điệp Trả Lời Nguyễn Nhã Là Ai?"
 author: "Hãn Nguyên Nguyễn Nhã"
 date: 2014-05-15
-source: "https://sachhiem.net/DOITHOAI/NguyenNha_dt.php"
+source: "/DOITHOAI/NguyenNha_dt"
 category: "Chính trị"
 lang: vi
 wordCount: 14306

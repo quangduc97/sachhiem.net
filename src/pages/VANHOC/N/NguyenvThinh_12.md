@@ -3,17 +3,17 @@ layout: ../../../layouts/Article.astro
 title: "Nhà Văn Nguyễn Văn Thịnh:"
 author: "SH giới thiệu"
 date: 2016-12-10
-source: "https://sachhiem.net/VANHOC/N/NguyenvThinh_12.php"
+source: "/VANHOC/N/NguyenvThinh_12"
 category: "Lịch sử"
 lang: vi
 wordCount: 600
-image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nha.jpg"
+image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/VANHOC/Hinh/SACH/NVTHINH/thinh001.jpg"
 ---
 
 <p class="Tuaduoi">Người Của Một Thời - Phút Thăng Hoa - Thời Bi Tráng</p>
   
         
-  <p align="center"><a href="https://www.sachhiem.net/"> <img border="0" src="https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nha.jpg"></a> ngày 10-Dec-2016</p>
+  <p align="center"> ngày 10-Dec-2016</p>
   
   <p><i>LTS: Không phải ai sinh ra trong thời chiến đều có được hân hạnh từng trải cuộc đời mình ở nhiều khía cạnh của chiến tranh. Chỉ có thể đọc nhiều tác phẩm, chúng ta mới có thể nhìn được và hiểu được phần nào những con người thực sự trong giai đoạn khốc liệt của nước nhà. Đối với những người sinh ra ở những nơi không có tiếng bom hay không có mưa da cam trên đầu hay trên đồng ruộng, vì khó nghĩ trên đời đã có những chuyện như thế, xem các nhân vật trong chuyện là những  người "huyền thoại" trong cổ tích. Những con người như thế thực sự đã từng sống, từng hy sinh, từng miệt mài cho một một tương lai  mà chính họ cũng cảm thấy  xa như ở một chân trời: một tương lai trong đó nước nhà được độc lập, rồi một tương lai hai miền được thống nhất. Bạc bẽo thay, có một số bạn trẻ thời nay, lớn lên trong cảnh thanh  bình, bon chen vật chất, khó có thể hình dung những chuyện đã xảy ra, và có khi không tin đã thực sự có những sự việc như được kể. </i></p>
   <p><i>Lịch sử bi tráng của nước nhà ngày nay đã sớm có  hiện tượng  bị úa màu theo thời gian, một phần là do thái độ của con người ở thời đại mới bị ảnh hưởng của những làn gió độc  ào ạt thổi đến chỉ mong dẹp tắt những ngọn đuốc sáng ngời trong lịch sử, để những nét son của nó bị phai nhạt đến không ai còn nhận ra! Biết làm sao được!</i></p>

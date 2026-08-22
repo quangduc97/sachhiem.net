@@ -2,7 +2,7 @@
 layout: ../../../layouts/Article.astro
 title: "CÂU CHUYỆN CUỐI TUẦN"
 author: "Huỳnh Bất Hoặc"
-source: "https://sachhiem.net/null"
+source: "/null"
 lang: vi
 wordCount: 2592
 image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/HOANGNN/file:///C:/SACHHIEM/images/mail.gif"

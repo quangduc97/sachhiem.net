@@ -2,14 +2,13 @@
 layout: ../../../layouts/Article.astro
 title: "Tôi và Thượng Đế"
 author: "Nguyễn Nhân Trí"
-source: "https://sachhiem.net/TONGIAO/tgN/NguyenNhanTri01.php"
+source: "/TONGIAO/tgN/NguyenNhanTri01"
 category: "Tác giả"
 lang: vi
 wordCount: 4475
-image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nha.jpg"
 ---
 
-<p align="center"><a href="https://www.sachhiem.net/"> <img border="0" src="https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nha.jpg"></a>	16 tháng 9, 2007</p>
+<p align="center">	16 tháng 9, 2007</p>
   <p> <span class="First">L</span> ời nói đầu 
 </p><p>Tại sao tôi lại bỏ công viết về đề tài nầy trong khi từ hàng chục thế kỷ nay, bao nhiêu triết gia, nhà lý luận, nhà khoa học đã hao tốn công sức mà chẳng đi đến đâu; bao nhiêu cuộc chém giết đẫm máu từ thế hệ nầy qua thế hệ khác trên mọi mảnh đất của quả địa cầu nầy vẫn chưa giải quyết được gì ? 
 

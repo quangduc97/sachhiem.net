@@ -2,22 +2,21 @@
 layout: ../../../layouts/Article.astro
 title: "Lễ Phật Đản 8/ 5/ 63 Tại Huế"
 author: "Erich Wulff /Minh Nguyện dịch"
-source: "https://sachhiem.net/LICHSU/E/Erichwulff03.php"
+source: "/LICHSU/E/Erichwulff03"
 category: "Tác giả"
 lang: vi
 wordCount: 3596
-image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nha.jpg"
+image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/SACHNGOAI/Hinhanh/BIASACH/VietnamesischeLehrjahre.jpg"
 ---
 
 <p class="Tuaduoi">Trích hồi ký Bác sĩ ERICH WULFF (Đức ngữ) </p>
 			
  
-<p align="center"><a href="https://www.sachhiem.net/">
-	<img border="0" src="https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nha.jpg"></a> 02 tháng 5, 2011</p> 
+<p align="center"> 02 tháng 5, 2011</p> 
 			
 <hr width="300">
-<p> <a href="https://sachhiem.net/LICHSU/E/Erichwulff02.php"> &lt;-- trang trước</a> | <a href="https://sachhiem.net/LICHSU/E/Erichwulff04.php">trang sau --&gt;</a></p>
-<p><a href="https://sachhiem.net/LICHSU/E/Erichwulff03.php">Trang 4 / 5</a></p>
+<p> <a href="/LICHSU/E/Erichwulff02"> &lt;-- trang trước</a> | <a href="/LICHSU/E/Erichwulff04">trang sau --&gt;</a></p>
+<p><a href="/LICHSU/E/Erichwulff03">Trang 4 / 5</a></p>
 <p class="Tuaduoi">Tường trình tại Liên Hiệp Quốc (9/1963)</p>
 <p class="PicLeft">
  <img border="0" width="150" height="220" src="https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/SACHNGOAI/Hinhanh/BIASACH/VietnamesischeLehrjahre.jpg" alt="https://lh6.googleusercontent.com/-GetovfLzmhE/UXXZ_hVSzvI/AAAAAAAAAaw/Mshyg5ztbtE/image017.jpg"> <br>
@@ -27,11 +26,11 @@ Georg W. Alsheimer (1968).</p>
 <p><span class="First">S</span>au khi đến New York vào giữa tháng 9/63, bên cạnh những buổi gặp bạn bè, tôi dành nhiều thời gian để chuẩn bị cho cuộc tường trình trước Uỷ ban điều tra của Liên hiệp quốc (LHQ) về biến cố ngày 8 tháng 5 và những biện pháp đàn áp sau đó. Ba phái đoàn thành viên của Ủy ban muốn ghi lại những lời khai của tôi và yêu cầu cung cấp tài liệu cho mỗi đoàn. Rất may là tôi có mang theo đầy đủ các bản sao. Phái đoàn Campuchia vô cùng hổn tạp. Khi tôi đến Sứ quán của họ, họ không biết tôi là ai và cũng không muốn tiếp tôi nữa. Khi tôi muốn bước ra khỏi cửa, thì một tùy viên hối hả chạy theo vội nói rằng: Ông Ngoại trưởng hiện đang có mặt tại New York để tham dự phiên họp Đại hội đồng muốn nói chuyện tức khắc với ông. Trước mặt ông Ngoại trưởng tôi đã kể hết mọi sự việc và người thư ký bên cạnh ghi lại từng chữ. Ông Ngoại trưởng là một người đang còn trẻ, thông minh, ăn mặc rất bảnh bao. </p>
 <p>Sáng hôm sau tôi lại phải kể đầu đuôi câu chuyện tại phái đoàn Tích Lan, nhưng không chắc được họ có hiểu vấn đề không. Kiến thức của họ thật là nông cạn về cuộc chiến tại Việt Nam, về các chính sách khủng bố của chế độ, cũng như về lịch sử và các hình thái tổ chức của Phật giáo Việt Nam.</p>
 <div class="danbai">
-<p>1- <a href="https://sachhiem.net/LICHSU/E/Erichwulff.php">Hồi ký của Bác sĩ E. Wulff về Pháp nạn 1963: bài một </a></p>
-<p>2-  <a href="https://sachhiem.net/LICHSU/E/Erichwulff.php">Hồi ký của Bác sĩ E. Wulff: bài hai - Đêm Phật Đản 8/5/1963</a></p>
-<p>3-   <a href="https://sachhiem.net/LICHSU/E/Erichwulff.php">Hồi ký của Bác sĩ E. Wulff: bài ba - Tuyệt Thực - tháng 5/1963</a></p>
+<p>1- <a href="/LICHSU/E/Erichwulff">Hồi ký của Bác sĩ E. Wulff về Pháp nạn 1963: bài một </a></p>
+<p>2-  <a href="/LICHSU/E/Erichwulff">Hồi ký của Bác sĩ E. Wulff: bài hai - Đêm Phật Đản 8/5/1963</a></p>
+<p>3-   <a href="/LICHSU/E/Erichwulff">Hồi ký của Bác sĩ E. Wulff: bài ba - Tuyệt Thực - tháng 5/1963</a></p>
 <p>4-<b> Hồi ký của Bác sĩ E. Wulff: bài bốn - Tường trình tại Liên Hiệp Quốc  (9/196 3)</b></p>
-<p>5- <a href="https://sachhiem.net/LICHSU/E/Erichwulff.php">Hồi ký của Bác sĩ E. Wulff: bài chót -  Chuyến trở lại Việt Nam 1964 </a></p>
+<p>5- <a href="/LICHSU/E/Erichwulff">Hồi ký của Bác sĩ E. Wulff: bài chót -  Chuyến trở lại Việt Nam 1964 </a></p>
 
 </div>
 <p>Khi tôi đến Sứ quán của An-giê-ri, sau khi gặp ông Đại sứ, tôi làm việc với một cô thư ký. Cô ta nhận biết ngay những điểm quan trọng chính yếu trong bảng tường trình của tôi: <i>Vụ thảm sát tại Huế trong ngày đại lễ Phật giáo, một đại lễ tương tự như ngày lễ Chúa Giáng sinh bên Thiên chúa giáo, sự khước từ công nhận tổ chức chính thức của một tôn giáo quy tụ đa số quần chúng, việc bắt giam toàn bộ thành phần lãnh đạo Phật giáo, việc sử dụng những chất độc hóa học để đàn áp các cuộc biểu tình bất bạo động của thanh niên. </i></p>
@@ -59,7 +58,7 @@ Georg W. Alsheimer (1968).</p>
 <p class="TacgiaL"><strong>Minh Nguyện</strong></p>
 <p>Tây Đức, tháng 5/2003; bổ túc tháng 4/2013.</p>
 <p>Dịch để tưởng niệm 8 vị bị thảm sát tại đài phát thanh Huế đêm 8 tháng 5 năm 1963.</p>
-<p> <a href="https://sachhiem.net/LICHSU/E/Erichwulff02.php"> &lt;-- trang trước</a> | <a href="https://sachhiem.net/LICHSU/E/Erichwulff04.php">trang sau --&gt;</a></p>
+<p> <a href="/LICHSU/E/Erichwulff02"> &lt;-- trang trước</a> | <a href="/LICHSU/E/Erichwulff04">trang sau --&gt;</a></p>
 <hr size="2" align="left" width="30%">
  <p> <b>Ghi chú của  người dịch:</b></p>
 <p>(1) Ghi chú của người dịch: <b>Theo sự tiết lộ của TT Trí Quang, chính GS Bửu Hội lại là người đem các tài liệu đàn áp Phật giáo ra khỏi nước</b> để giao lại cho Thầy Nhất Hạnh sử dụng khi phát biểu trước LHQ (Xem Tiểu truyện tự ghi, Thích Trí Quang). Điều này cũng được thầy Nhất Hạnh thừa nhận (Xem Vietnamese engaged Buddhism -The struggle movement of 1963-1966, Quán Như Phạm văn Minh, Văn Nghệ 2002, USA, trang 258). Xem trang nhà:</p>
@@ -67,4 +66,4 @@ Georg W. Alsheimer (1968).</p>
 <p class="nguonL">Nguồn: https://tuvienhuequang.com/chuyen-muc/lich-su/2748-hoi-ky-cua-bac-si-wulff-ve-phap-nan-1963.html?start=3</p>
 <hr>
 <p><b>Mời đọc thêm: </b></p>
-<p>- <a href="https://sachhiem.net/XAHOI/xhN/NgXnXanh.php">Gặp lại ân nhân của Việt Nam: bác sĩ Erich Wulff</a></p>
+<p>- <a href="/XAHOI/xhN/NgXnXanh">Gặp lại ân nhân của Việt Nam: bác sĩ Erich Wulff</a></p>

@@ -3,7 +3,7 @@ layout: ../../../layouts/Article.astro
 title: "Bác Sĩ Nhân Tử Nguyễn Văn Thọ"
 author: "\\ Ban Biên Tập Sachhiem.net \\"
 date: 2014-01-08
-source: "https://sachhiem.net/XAHOI/CHIABUON/Chiabuon6.php"
+source: "/XAHOI/CHIABUON/Chiabuon6"
 category: "Xã hội"
 lang: vi
 wordCount: 587

@@ -2,7 +2,7 @@
 layout: ../../../layouts/Article.astro
 title: "CÁC GIÁM MỤC CÔNG GIÁO VIỆT NAM NHẬN ĐỊNH VÀ GÓP Ý DỰ THẢO SỬA ĐỔI HIẾN PHÁP NĂM 1992 (SỬA ĐỔI NĂM 2013)"
 date: 2013-04-02
-source: "https://sachhiem.net/TONGIAO/tgN/NgTnghia_HDGM.php"
+source: "/TONGIAO/tgN/NgTnghia_HDGM"
 category: "Tác giả"
 lang: vi
 wordCount: 2296

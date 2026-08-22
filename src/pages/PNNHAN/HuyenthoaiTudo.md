@@ -3,7 +3,7 @@ layout: ../../layouts/Article.astro
 title: "Huyền Thoại Của Tự Do Trên Mảnh Đất Tự Do"
 author: "Người dịch: Phạm Uyên Bác"
 date: 2012-04-16
-source: "https://sachhiem.net/PNNHAN/HuyenthoaiTudo.php"
+source: "/PNNHAN/HuyenthoaiTudo"
 category: "Chính trị"
 lang: vi
 wordCount: 3442

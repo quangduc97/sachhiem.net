@@ -2,7 +2,7 @@
 layout: ../../../layouts/Article.astro
 title: "Một mục sư gốc Việt bị tố cáo tội quấy nhiễu tình dục"
 author: "liên mạng (*)"
-source: "https://sachhiem.net/null"
+source: "/null"
 category: "Tác giả"
 lang: vi
 wordCount: 1213

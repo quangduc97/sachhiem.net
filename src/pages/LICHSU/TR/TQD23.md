@@ -3,7 +3,7 @@ layout: ../../../layouts/Article.astro
 title: "Cô Phạm Thị Bích Phượng Bị Chết Oan,"
 author: "Trần Quang Diệu"
 date: 2013-04-02
-source: "https://sachhiem.net/LICHSU/TR/TQD23.php"
+source: "/LICHSU/TR/TQD23"
 category: "Tác giả"
 lang: vi
 wordCount: 5668
@@ -159,4 +159,4 @@ Apr-1st-2013 </span></p>
      <p>__._,_.___ </p>
     
 <p class="TacgiaL">Trần Quang Diệu</p>
-<p>Các bài của Trần Quang Diệu: link <a href="https://sachhiem.net/LICHSU/TR/ListTQD.inc.php" target="_blank">https://sachhiem.net/TTS/ListTTS.inc.php</a></p>
+<p>Các bài của Trần Quang Diệu: link <a href="/LICHSU/TR/ListTQD.inc" target="_blank">https://sachhiem.net/TTS/ListTTS.inc.php</a></p>

@@ -3,7 +3,7 @@ layout: ../../layouts/Article.astro
 title: "Cái Đuôi Con Chồn"
 author: "Trần Tiên Long"
 date: 2012-05-24
-source: "https://sachhiem.net/TTL/TranTL21.php"
+source: "/TTL/TranTL21"
 category: "Chính trị"
 lang: vi
 wordCount: 4915
@@ -348,7 +348,7 @@ image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/LICHSU/IMG/VNCH/Tran
               cố TT NĐD đã không có tối thiểu một khả năng nghệ thuật cần thiết
               này. Sự độc tài gia đình trị và tôn giáo trị là nguyên nhân chính yếu
             dẫn đến cái chết tức tưởi của nguyên một gia đình và chế độ.”</i>  </p>
-            <p><a href="https://sachhiem.net/TTL/TranTL20.php"><i>(Trần Tiên Long,
+            <p><a href="/TTL/TranTL20"><i>(Trần Tiên Long,
                   On&nbsp;<b>Sun, 5/13/12, qtran &lt;qtran@ec.rr.com&gt;</b>&nbsp;wrote)</i> (xem
                   https://sachhiem.net/TTL/TranTL20.php) </a></p>
           </div>

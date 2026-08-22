@@ -3,7 +3,7 @@ layout: ../../../layouts/Article.astro
 title: "Thảm kịch của những người tự nhận mình là Chúa cứu thế"
 author: "Tin Báo Mới"
 date: 2013-02-22
-source: "https://sachhiem.net/TONGIAO/tgT/TinBaoMoi.php"
+source: "/TONGIAO/tgT/TinBaoMoi"
 category: "Tác giả"
 lang: vi
 wordCount: 1086

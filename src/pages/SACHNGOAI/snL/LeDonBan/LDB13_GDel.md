@@ -3,7 +3,7 @@ layout: ../../../../layouts/Article.astro
 title: "Richard Dawkins - Huyễn Tưởng Gót"
 author: "Lê Dọn Bàn"
 date: 2015-12-06
-source: "https://sachhiem.net/SACHNGOAI/snL/LeDonBan/LDB13_GDel.php"
+source: "/SACHNGOAI/snL/LeDonBan/LDB13_GDel"
 category: "Tác giả"
 lang: vi
 wordCount: 22383
@@ -11,7 +11,7 @@ image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/SACHNGOAI/Hinhanh/BI
 ---
 
 <div class="tomluoc">
-    <p><i>LTS:  Về tác phẩm này của Richard Dawkins, từng đoạn văn bạo dạn  soi thủng sự thật trần truồng, làm sửng sốt bạn đọc, đã có nhiều người rất muốn dịch sang tiếng Việt. Nhưng việc này đòi hỏi thời gian và công trình không nhỏ. Trang nhà đã đăng hai Chương đầu của quyển này do <a href="https://sachhiem.net/SACHNGOAI/GOD_DELUSION/StarkingH_00.php">tác giả Huỳnh Văn Hoàng dịch Việt khá kỹ lưỡng</a>. Hôm nay chúng tôi cũng lại hân hạnh gửi đến bạn đọc bản dịch "nháp" đã có từ gần 3 năm nay của tác giả Lê Dọn Bàn, một tác giả đã có rất nhiều công trình dịch thuật các tác phẩm triết học tôn giáo Tây Phương. Tuy chúng ta chưa bao giờ nghe ông Lê Dọn Bàn giới thiệu bản dịch nào là hoàn chỉnh của ông, nhưng bù lại bằng nhiều ghi chú rất sâu rộng của ông, uyên bác về mỗi chi tiết trong bài. Thiết nghĩ, với mặc định như thế, nếu  có đọc lần thứ hai, chúng tôi tin rằng bạn  đọc cũng vẫn không thể chán. (SH)</i></p>
+    <p><i>LTS:  Về tác phẩm này của Richard Dawkins, từng đoạn văn bạo dạn  soi thủng sự thật trần truồng, làm sửng sốt bạn đọc, đã có nhiều người rất muốn dịch sang tiếng Việt. Nhưng việc này đòi hỏi thời gian và công trình không nhỏ. Trang nhà đã đăng hai Chương đầu của quyển này do <a href="/SACHNGOAI/GOD_DELUSION/StarkingH_00">tác giả Huỳnh Văn Hoàng dịch Việt khá kỹ lưỡng</a>. Hôm nay chúng tôi cũng lại hân hạnh gửi đến bạn đọc bản dịch "nháp" đã có từ gần 3 năm nay của tác giả Lê Dọn Bàn, một tác giả đã có rất nhiều công trình dịch thuật các tác phẩm triết học tôn giáo Tây Phương. Tuy chúng ta chưa bao giờ nghe ông Lê Dọn Bàn giới thiệu bản dịch nào là hoàn chỉnh của ông, nhưng bù lại bằng nhiều ghi chú rất sâu rộng của ông, uyên bác về mỗi chi tiết trong bài. Thiết nghĩ, với mặc định như thế, nếu  có đọc lần thứ hai, chúng tôi tin rằng bạn  đọc cũng vẫn không thể chán. (SH)</i></p>
    </div>
      
      <p class="PicLeft"><img border="0" width="250" height="166" src="https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/SACHNGOAI/Hinhanh/BIASACH/GodDelusion1.jpg" alt="God Delusion"></p>
@@ -222,7 +222,7 @@ image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/SACHNGOAI/Hinhanh/BI
 <p>Trong phản ứng với tất cả hỗn loạn huyên náo điên cuồng này, những tờ  báo ôn hòa phải chăng đã lên án bạo lực và làm những dấu hiệu cho có ồn ào về  tự do ngôn luận. Nhưng đồng thời họ đã bày tỏ “sự tôn trọng và “thông cảm” cho  sự “xúc phạm” sâu xa, và bị “làm đau” mà những người Muslim đã “phải khổ đau”.  những “bị tổn thương” và “khổ đau”, xin hãy nhớ, không xảy ra với bất kỳ một  người nào phải chịu đựng bạo lực hoặc đau đớn thực sự của bất kỳ loại nào:  không có gì là hơn một vài vết mực nhòe in trong một tờ báo mà không một ai  ngoài Denmark sẽ từng bao giờ nghe nói đến, nhưng chỉ vì một chiến dịch có chủ  ý để kích động tình trạng bạo động phá hoại lộn xộn. </p>
 <p>Tôi không ủng hộ xúc phạm, hay tổn thương bất cứ ai, chỉ để làm tổn  thương hay xúc phạm. Nhưng tôi ngạc nhiên và hoang mang không hiểu trước sự  không cân xứng trong đặc quyền dành cho tôn giáo trong những xã hội chúng ta về  mặt thế tục khác. Tất cả những chính trị gia phải làm quen khứng chịu những  tranh hí họa thiếu tôn kính vẽ những khuôn mặt của họ, và không có ai gây bạo  loạn để chống trả cho họ. Thế tôn giáo thì có gì là quá đặc biệt đến nỗi chúng  ta phải cấp cho nó đặc quyền tôn trọng duy nhất như thế? Như H. L. Mencken đã  nói: “Chúng ta phải tôn trọng tôn giáo của người khác, nhưng chỉ trong ý nghĩa  và trong phạm vi rằng chúng ta tôn trọng lý thuyết của anh ta rằng vợ của anh  ta thì đẹp và con cái của anh ta thì thông minh”. <a href="/SACHNGOAI/#_ftn57" name="_ftnref57">[57]</a></p>
 <p>Đó là dưới ánh sáng của giả định về sự  tôn trọng không có gì sánh bằng với tôn giáo đã sẵn có trước, mà tôi nói lời  tuyên bố không nhận trách nhiệm (như thế) của riêng tôi cho quyển sách này. Tôi  sẽ không cố đi quá ra ngoài lối mình đi để nhằm xúc phạm (ai hết), nhưng tôi  cũng sẽ không chọn mang găng tay thứ mềm như da dê để đối xử với tôn  giáo gượng nhẹ hơn là tôi sẽ đối xử với bất cứ gì nào khác. </p>
-<p><i>(<a href="https://sachhiem.net/SACHNGOAI/snL/LeDonBan/LDB13_GDel2.php">còn tiếp... </a>)</i> </p>
+<p><i>(<a href="/SACHNGOAI/snL/LeDonBan/LDB13_GDel2">còn tiếp... </a>)</i> </p>
 <p class="TacgiaL">Lê Dọn Bàn </p>
 <p><i>tạm dịch –  bản nháp thứ nhất (Jul/2013)</i> </p>
 <p class="nguonL">Nguồn <a href="https://chuyendaudau.blogspot.ca/2013/07/richard-dawkins-huyen-tuong-got.html"><i>https://chuyendaudau.blogspot.com/</i></a> </p>
@@ -344,6 +344,6 @@ image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/SACHNGOAI/Hinhanh/BI
 
 <p>______________</p>
 <p><b>Bài đọc thêm:</b></p>
-<p>- <a href="https://sachhiem.net/TCN/TCNtg/3NGOI/TCN64_1.php">ĐÂY !! THIÊN CHÚA CỦA NHỮNG NGƯỜI THEO ĐẠO THIÊN CHÚA</a> (Trần Chung Ngọc) 
+<p>- <a href="/TCN/TCNtg/3NGOI/TCN64_1">ĐÂY !! THIÊN CHÚA CỦA NHỮNG NGƯỜI THEO ĐẠO THIÊN CHÚA</a> (Trần Chung Ngọc) 
 
 </p>

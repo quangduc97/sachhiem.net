@@ -2,18 +2,17 @@
 layout: ../../../layouts/Article.astro
 title: "Diện Mạo Kiến Trúc Phật Giáo Cho TPHCM"
 author: "Minh Thạnh"
-source: "https://sachhiem.net/TONGIAO/tgM/MinhThanh10c.php"
+source: "/TONGIAO/tgM/MinhThanh10c"
 category: "Tác giả"
 lang: vi
 wordCount: 1455
-image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nha.jpg"
+image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/DOITHOAI/IMG/Canbang.jpg"
 ---
 
 <p class="Tuaduoi">Trong Bối Cảnh Đất Nước Độc Lập Thống Nhất? </p>
  
 	 
-<p align="center"><a href="https://www.sachhiem.net/">
-	<img border="0" src="https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nha.jpg"></a>
+<p align="center">
 28-July-2013 </p>
  <div class="tomluoc"><i>Đây không phải chỉ là việc xây dựng một ngôi chùa bình thường, mà đây  là vấn đề diện mạo của thành phố, là đi tiếp những bước đi trên con đường độc lập,  tự chủ dân tộc</i>. Tăng, tín đồ Phật giáo tất yếu phải góp phần trách nhiệm  vào diện mạo TPHCM đổi mới, trong bối cảnh đất nước độc lập, thống nhất, xóa bỏ  những tàn tích đô hộ của thực dân Pháp. (MT)</div>
 
@@ -54,6 +53,6 @@ Người dân thành phố đã  không chấp nhận những dấu tích như C
 Vấn  đề đã được được lên qua 4 bài viết. Mong rằng sẽ sớm nhận được tín hiệu những  bước đi đầu tiên từ Giáo hội Phật giáo Việt Nam TPHCM. <i>Đây không phải chỉ là việc xây dựng một ngôi chùa bình thường, mà đây  là vấn đề diện mạo của thành phố, là đi tiếp những bước đi trên con đường độc lập,  tự chủ dân tộc</i>. Tăng, tín đồ Phật giáo tất yếu phải góp phần trách nhiệm  vào diện mạo TPHCM đổi mới, trong bối cảnh đất nước độc lập, thống nhất, xóa bỏ  những tàn tích đô hộ của thực dân Pháp.</p>
 <p>
 MT</p>
-<p><a href="https://sachhiem.net/TONGIAO/tgM/MinhThanh10b.php">&lt;=</a> Loạt bài cùng đề tài <a href="https://sachhiem.net/TONGIAO/tgM/MinhThanh10d.php">=&gt;</a></p>
+<p><a href="/TONGIAO/tgM/MinhThanh10b">&lt;=</a> Loạt bài cùng đề tài <a href="/TONGIAO/tgM/MinhThanh10d">=&gt;</a></p>
 <p>(Nếu danh sách dưới đây báo lỗi, xin bấm <br><a href="/TONGIAO/tgM/MinhThanh10c">https://sachhiem.net/TONGIAO/tgM/MinhThanh10c.php</a>)</p>
 <hr>

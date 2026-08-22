@@ -3,7 +3,7 @@ layout: ../../layouts/Article.astro
 title: "Những Đứa Con Của Các Linh Mục Ca Tô Rô Ma Giáo"
 author: "Theo Boston Globe"
 date: 2017-08-24
-source: "https://sachhiem.net/LTX/LythaiTG20.php"
+source: "/LTX/LythaiTG20"
 category: "Tác giả"
 lang: vi
 wordCount: 3398

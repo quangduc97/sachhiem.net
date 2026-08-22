@@ -3,15 +3,15 @@ layout: ../../../layouts/Article.astro
 title: "AJANTA một di tích Phật Giáo ngoại hạng"
 author: "Thích Nhật Tân"
 date: 2012-09-21
-source: "https://sachhiem.net/TONGIAO/tgTH/ThichNhatTan.php"
+source: "/TONGIAO/tgTH/ThichNhatTan"
 category: "Tác giả"
 lang: vi
 wordCount: 4236
-image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nha.jpg"
+image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/IMG/CHUA/ajanta1.jpg"
 ---
 
 <table border="0" cellpadding="0" align="center" width="250">
-        <tbody><tr><td width="100"><a href="https://sachhiem.net/index.php"><img border="0" src="https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nha.jpg"></a></td><td valign="top">21-Sep-2012</td>
+        <tbody><tr><td width="100"></td><td valign="top">21-Sep-2012</td>
         </tr></tbody></table>
 
 <p><i>Phật giáo là một trong những tôn giáo lâu đời nhất của nhân loại vẫn

@@ -3,7 +3,7 @@ layout: ../../../layouts/Article.astro
 title: "DÂN TA BỊ TRẤN LỘT THẾ NÀO"
 author: "- Nguyễn Mạnh Quang -"
 date: 2020-06-08
-source: "https://sachhiem.net/NMQ/HOSOTOIAC/NANDOI26.php"
+source: "/NMQ/HOSOTOIAC/NANDOI26"
 lang: vi
 wordCount: 6481
 image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/SACHNGOAI/Hinhanh/BIASACH/AHist_Survey_of_Edu_Dev_in_VN.jpg"
@@ -14,7 +14,7 @@ image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/SACHNGOAI/Hinhanh/BI
  
 
  <p>Các Chương liên hệ: <a href="/NMQ/HOSOTOIAC/NANDOI">Lời đầu</a>&nbsp; <a href="/NMQ/HOSOTOIAC/NANDOI26">I</a>&nbsp; <a href="/NMQ/HOSOTOIAC/CH27">II</a>&nbsp; <a href="/NMQ/HOSOTOIAC/CH28">III</a>&nbsp; <a href="/NMQ/HOSOTOIAC/CH29">IV</a>&nbsp; <a href="/NMQ/HOSOTOIAC/CH30">V</a>&nbsp; <a href="/NMQ/HOSOTOIAC/CH31">VI</a>&nbsp;     </p> 
-     <p><a href="https://sachhiem.net/NMQ/HOSOTOIAC/NANDOI.php">(Xem Lời nói đầu)</a></p>
+     <p><a href="/NMQ/HOSOTOIAC/NANDOI">(Xem Lời nói đầu)</a></p>
      <p class="CHUONG">CHƯƠNG I</p>
      <hr width="80%">
      <p class="MUC">TỔNG QUÁT ĐỜI SỐNG KHỐN KHỔ CỦA DÂN TA TRONG NHỮNG NĂM BỊ PHÁP-VATICAN ĐÔ HỘ  </p>
@@ -141,7 +141,7 @@ image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/SACHNGOAI/Hinhanh/BI
      <p>- Phải nhận lãnh trách nhiệm về những rặng núi  tội ác chống lại dân tộc và tổ quốc Việt Nam trong thời kỳ từ giữa thập niên  1780 cho đến ngày 30/4/1975, </p>
      <p>- Phải thanh toán sòng phằng món nợ máu này cho  dân tộc Việt Nam. </p>
      <p>Nếu không, chính quyền đó sẽ bị coi như là chưa  làm tròn trách nhiệm với lịch sử, đối với dân tộc và sẽ bị lịch sử phán xét.</p>
-     <p>(xem tiếp các Chương kế nằm trong Tập sách GHLM: Hồ Sơ Tội Ác) <a href="https://sachhiem.net/NMQ/HOSOTOIAC/CH27.php">Chương 27</a>, &nbsp; <a href="/NMQ/HOSOTOIAC/CH28">Chương 28,</a>&nbsp; <a href="/NMQ/HOSOTOIAC/CH29">Chương 29,</a>&nbsp; <a href="/NMQ/HOSOTOIAC/CH30">Chương 30,</a>&nbsp; <a href="/NMQ/HOSOTOIAC/CH31">Chương 31</a>&nbsp; </p>
+     <p>(xem tiếp các Chương kế nằm trong Tập sách GHLM: Hồ Sơ Tội Ác) <a href="/NMQ/HOSOTOIAC/CH27">Chương 27</a>, &nbsp; <a href="/NMQ/HOSOTOIAC/CH28">Chương 28,</a>&nbsp; <a href="/NMQ/HOSOTOIAC/CH29">Chương 29,</a>&nbsp; <a href="/NMQ/HOSOTOIAC/CH30">Chương 30,</a>&nbsp; <a href="/NMQ/HOSOTOIAC/CH31">Chương 31</a>&nbsp; </p>
      <hr align="left" size="1" width="33%">
      <p><a name="_edn6" title="" href="/NMQ/#_ednref6"> [6]</a> Vu Tam Ích, <i>A Historical Survey Of Educational Developments in  Vietnam</i> (Lexington, KY:University of Kentucky, 1959), p. 67.
      </p><p><a name="_edn7" title="" href="/NMQ/#_ednref7"> [7]</a> Nguyễn Thế Anh, <i>Việt Nam Thờii Pháp Đô Hộ</i> (Sàigòn: Lửa Thiêng,  1970), tr. 256.

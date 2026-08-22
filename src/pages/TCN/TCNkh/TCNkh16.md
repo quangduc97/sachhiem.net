@@ -3,15 +3,15 @@ layout: ../../../layouts/Article.astro
 title: "VÀI NÉT VỀ : PHẬT GIÁO & KHOA HỌC"
 author: "Trần Chung Ngọc"
 date: 2017-05-24
-source: "https://sachhiem.net/TCN/TCNkh/TCNkh16.php"
+source: "/TCN/TCNkh/TCNkh16"
 category: "Khoa học"
 lang: vi
 wordCount: 9639
-image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nha.jpg"
+image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/Pict/Kinhhienvi.jpg"
 ---
 
 <table border="0" width="250" align="center">
-    <tbody><tr><td width="100"><a href="https://sachhiem.net/index.php"><img border="0" src="https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nha.jpg"></a>    </td> 
+    <tbody><tr><td width="100">    </td> 
 	
 	<td valign="top" style="text-align:right">ngày 14 tháng 9, 2008</td></tr></tbody></table>
  
@@ -820,5 +820,5 @@ image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nha.jpg"
 		vì Kinh Phật là một kho tàng vô giá và vô tận để phát triển trí tuệ con 
 		người thay vì giam hãm đầu óc con người trong những ngục tù tâm linh<span lang="en-us"><font face="Symbol">¨</font></span></p>
 	<p>______________</p>
-	<p><a name="nstar" href="/TCN/#star"> <b>(*)</b> </a> Đính chính bổ túc của SH ngày 27 tháng 5, 2017: Về những câu trích dẫn của Einstein, nghiên cứu cho biết đến nay vẫn chưa tìm được nguồn tài liệu khả tín. Xin đọc bài <a href="https://sachhiem.net/TTS/VH/TranTrongSy_vh4.php"><i>Phật Giáo Với Những Ảo Tưởng Thời Thượng của Trần Trọng Sỹ</i></a> mới đăng 24-May-2017 </p>
+	<p><a name="nstar" href="/TCN/#star"> <b>(*)</b> </a> Đính chính bổ túc của SH ngày 27 tháng 5, 2017: Về những câu trích dẫn của Einstein, nghiên cứu cho biết đến nay vẫn chưa tìm được nguồn tài liệu khả tín. Xin đọc bài <a href="/TTS/VH/TranTrongSy_vh4"><i>Phật Giáo Với Những Ảo Tưởng Thời Thượng của Trần Trọng Sỹ</i></a> mới đăng 24-May-2017 </p>
 <hr>

@@ -3,7 +3,7 @@ layout: ../../../layouts/Article.astro
 title: "Đức Chúa Trời Lập 3 Kỷ Lục Trên Thế Gian về Trả Thù, Tàn Sát"
 author: "Lê Phát Đạt"
 date: 2026-02-07
-source: "https://sachhiem.net/TONGIAO/FB/FBLePhatDat03.php"
+source: "/TONGIAO/FB/FBLePhatDat03"
 category: "Chính trị"
 lang: vi
 wordCount: 2891

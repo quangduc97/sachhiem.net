@@ -3,7 +3,7 @@ layout: ../../../layouts/Article.astro
 title: "Quẳng Thánh Kinh Đi !"
 author: "Đặng Văn Nhâm"
 date: 2014-10-25
-source: "https://sachhiem.net/TONGIAO/tgD/DangvNham.php"
+source: "/TONGIAO/tgD/DangvNham"
 category: "Chính trị"
 lang: vi
 wordCount: 9180

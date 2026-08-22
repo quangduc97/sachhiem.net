@@ -3,7 +3,7 @@ layout: ../../../layouts/Article.astro
 title: "Tướng Giáp và “mật lệnh” thần tốc giải phóng Trường Sa"
 author: "Nguyễn Huy /Tiền Phong"
 date: 2014-04-30
-source: "https://sachhiem.net/LICHSU/T/Tienphong01.php"
+source: "/LICHSU/T/Tienphong01"
 category: "Tác giả"
 lang: vi
 wordCount: 1570

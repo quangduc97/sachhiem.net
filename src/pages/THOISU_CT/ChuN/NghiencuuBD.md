@@ -3,7 +3,7 @@ layout: ../../../layouts/Article.astro
 title: "Chiến Lược Để Đối Phó Lại Sự Hung Hăng Của Trung Quốc"
 author: "ELY RATNER /Wall Street Journal"
 date: 2014-06-18
-source: "https://sachhiem.net/THOISU_CT/ChuN/NghiencuuBD.php"
+source: "/THOISU_CT/ChuN/NghiencuuBD"
 category: "Tác giả"
 lang: vi
 wordCount: 1423
@@ -42,4 +42,4 @@ image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/THOISU_CT/Hinh/Quanh
   
   <p>Bản Anh ngữ: <i><a href="https://online.wsj.com/articles/ratner-a-plan-to-counter-chinese-aggression-1402420029?cb=logged0.23924078000709414">A Plan to Counter Chinese Aggression</a></i> (The Wall Street Journal, June 10, 2014)</p>
   <p>____________________</p>
-   <p><a href="https://sachhiem.net/LICHSU/H/HoangSa_list.php">Các bài về Hoàng Sa- Trường Sa đăng trên sachhiem.net » </a></p>
+   <p><a href="/LICHSU/H/HoangSa_list">Các bài về Hoàng Sa- Trường Sa đăng trên sachhiem.net » </a></p>

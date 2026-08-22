@@ -2,14 +2,13 @@
 layout: ../../../layouts/Article.astro
 title: "Có Giáo Hội Quốc Doanh hay không?"
 author: "Nguyễn Hữu Ba"
-source: "https://sachhiem.net/TONGIAO/tgN/NguyenHBa.php"
+source: "/TONGIAO/tgN/NguyenHBa"
 category: "Tác giả"
 lang: vi
 wordCount: 5039
-image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nha.jpg"
 ---
 
-<p align="center"><a href="https://www.sachhiem.net/"> <img border="0" src="https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nha.jpg"></a>23 tháng 5, 2009	</p>
+<p align="center">23 tháng 5, 2009	</p>
 		<p><i>LTS: Tác giả Nguyễn Hữu Ba là một người ngay thẳng, tác giả sẽ 
 		chịu trách nhiệm về những thông tin. Quan niệm về Giáo Hội Quốc Doanh 
 		lần đầu tiên được phân tích với đầy đặn tình người. Xin cám ơn tác giả. Nhưng 
@@ -367,4 +366,4 @@ image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nha.jpg"
 			
 			<p class="TacgiaL">Nguyễn Hữu Ba </p>
 ___________________
-<p>Các bài của Nguyễn Hữu Ba: link <a href="https://sachhiem.net/TONGIAO/tgN/ListNHBa.inc.php" target="_blank">https://sachhiem.net/TONGIAO/tgN/ListNHBa.inc.php</a></p>
+<p>Các bài của Nguyễn Hữu Ba: link <a href="/TONGIAO/tgN/ListNHBa.inc" target="_blank">https://sachhiem.net/TONGIAO/tgN/ListNHBa.inc.php</a></p>

@@ -2,11 +2,11 @@
 layout: ../../../layouts/Article.astro
 title: "TIN KHÔNG NỔI !"
 author: "Trí Tánh Đỗ Hữu Tài dịch từ"
-source: "https://sachhiem.net/SACHNGOAI/BEYOND/BYDBLF05.php"
+source: "/SACHNGOAI/BEYOND/BYDBLF05"
 category: "Tác giả"
 lang: vi
 wordCount: 16858
-image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nha.jpg"
+image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/print.gif"
 ---
 
 <p class="Tuaduoi">Một phê bình Thiên Chúa Giáo Từ Góc Độ Phật Giáo</p>
@@ -16,7 +16,7 @@ image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nha.jpg"
             
           </div>
           
-          <p align="center"><a href="https://www.sachhiem.net/"> <img border="0" src="https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nha.jpg"></a>|&nbsp; <a href="/SACHNGOAI/BEYOND/BYDBLF"><font face="Symbol" size="5">¿</font> Mục lục</a>|&nbsp; <a href="/SACHNGOAI/BEYOND/BYDBLF05"> <img border="0" src="https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/print.gif" width="18" height="18"> bản in</a> |&nbsp; ngày 04 tháng 11, 2009</p>
+          <p align="center">|&nbsp; <a href="/SACHNGOAI/BEYOND/BYDBLF"><font face="Symbol" size="5">¿</font> Mục lục</a>|&nbsp; <a href="/SACHNGOAI/BEYOND/BYDBLF05"> <img border="0" src="https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/print.gif" width="18" height="18"> bản in</a> |&nbsp; ngày 04 tháng 11, 2009</p>
           <p class="Chuong"><strong>CHƯƠNG 5 </strong> <sup>(*)</sup></p>
           <p class="TuaChuong"> <strong>Sự Thật và Hư Cấu Trong Cuộc Đời Của Giê Su </strong></p>
           <p> <span class="First"><strong><font size="5">Đ</font></strong></span>iều duy nhất tạo cho Thiên Chúa giáo được như ngày nay, nền móng duy nhất để Thiên Chúa giáo nương dựa vào đó, chính là Giê-su Kitô, hay đúng hơn, những khẳng định về Giê-su Kitô. Thiên Chúa giáo luôn luôn tạo ra những khẳng định cường điệu về con người này: “<i>Giê-su là người độc nhất trong lịch sử đã khẳng định mình là Chúa</i>”; “<i>Chỉ có niềm tin nơi Giê-su mới có thể cho con người an lạc và hạnh phúc</i>”; “<i>Hoặc Giê-su là Chúa hoặc là kẻ nói dối vĩ đại nhất trong lịch sử</i>”; “<i>Hàng ngàn nhân chứng thấy Giê-su sống dậy từ cái chết, vì thế chuyện đó phải có thật</i>”; “<i>Giê-su là con người hoàn hảo nhất đã từng sống trong cõi đời nầy</i>”; v.v. và v.v. Tất cả những khẳng định này đều có vẻ rất ấn tượng cho đến khi chúng ta nhìn vào các chứng cớ.</p>

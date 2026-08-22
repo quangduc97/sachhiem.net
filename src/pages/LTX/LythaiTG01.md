@@ -2,14 +2,14 @@
 layout: ../../layouts/Article.astro
 title: "Hai Bài Dạy Của Hai Miền Văn Hóa"
 author: "Lý Thái Xuân"
-source: "https://sachhiem.net/LTX/LyThaiTG01.php"
+source: "/LTX/LyThaiTG01"
 category: "Tác giả"
 lang: vi
 wordCount: 2469
-image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nha.jpg"
+image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/TONGIAO/IMG/ThuhoaVuHoi1.gif"
 ---
 
-<p align="center"><a href="https://sachhiem.net/index.php"> <img border="0" hspace="20" src="https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nha.jpg"></a> 19 tháng 9, 2009 </p>
+<p align="center"> 19 tháng 9, 2009 </p>
 <div align="center">
 <table border="0" width="100%" cellpadding="15" id="table1">
 <tbody><tr>

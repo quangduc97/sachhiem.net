@@ -2,11 +2,11 @@
 layout: ../../../layouts/Article.astro
 title: "HAI KHUÔN MẶT"
 author: "Vô Danh lượm lặt"
-source: "https://sachhiem.net/null"
+source: "/null"
 category: "Xã hội"
 lang: vi
 wordCount: 1015
-image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nha.jpg"
+image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/THOISU_CT/Hinh/NHANVAT/LeDuyLoan.jpg"
 ---
 
 <div align="center" style="position: relative; left: 0; top: 0">
@@ -26,7 +26,7 @@ image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nha.jpg"
 <tr> <td width="100%"> 
 <div style="padding-left: 50px; padding-right: 50px">
 <table border="0" cellpadding="0" width="600"><tbody><tr>
-<td><a href="/index"><img border="0" src="https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nha.jpg"></a></td>
+<td></td>
 	<td valign="top" width="179">	03 tháng 10, 2007
 	</td></tr></tbody></table>
 		<table border="0" width="600" id="table3" cellpadding="0" align="center">
@@ -72,7 +72,7 @@ image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nha.jpg"
 					<a href="/nguồn%20http:/www.witi.com/wire/witiwomen/dloanle/index.shtml">
 					<font color="#000080"><font size="5" face="Vivaldi">L</font>Ê DUY LOAN</font></a></font></b></p></td>
 					<td valign="top" width="46%" class="center"><p>
-					<a href="https://sachhiem.net/TCN/TCNts/DuongBomn.php">
+					<a href="/TCN/TCNts/DuongBomn">
 					<img border="0" src="https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/TCN/TCNts/Hinh/Duong.jpg"></a></p><p><font color="#800000"><b><font face="Vivaldi" size="5">D</font>ƯƠNG NGUYỆT ÁNH</b></font></p></td></tr><tr>
 					<td valign="top" colspan="2"><p><b>Lý Lịch Ngắn</b></p></td></tr><tr>
 					<td width="50%" valign="top"><font size="3" color="#000080">Rời Việt Nam năm 12 tuổi </font></td>
@@ -158,8 +158,8 @@ image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nha.jpg"
 					
 					<p><font color="#800000">Xin mời xem "<b>Bomb Lady</b>" &gt;&gt;&gt;</font></p><font color="#800000">
 					</font><p><font color="#800000">và
-					<a style="text-decoration: none" href="https://sachhiem.net/TCN/TCNts/DuongNgAnh.php">"<b>Vấn Đề Đạo Đức Trong Khoa 
-					Học</b>" của tiến sĩ "Trần Chung Ngọc"&nbsp; &gt;&gt;</a></font><a style="text-decoration: none" href="https://sachhiem.net/TCN/TCNts/DuongNgAnh.php">&gt;</a>
+					<a style="text-decoration: none" href="/TCN/TCNts/DuongNgAnh">"<b>Vấn Đề Đạo Đức Trong Khoa 
+					Học</b>" của tiến sĩ "Trần Chung Ngọc"&nbsp; &gt;&gt;</a></font><a style="text-decoration: none" href="/TCN/TCNts/DuongNgAnh">&gt;</a>
      </p></td></tr></tbody></table>
  <p>● Các bài viết của Vô Danh <br><br>
 <a href="/XAHOI/VoDanh">Hai Khuôn Mặt - Hai Tấm Lòng (Vô Danh)</a><br><a href="/TONGIAO/tgV/VoDanh">Những Lời Châu Ngọc về Thánh Kinh</a><br><a href="/XAHOI/Vodanh1">Sống với tinh thần Einstein (Lượm lặt)</a><br>

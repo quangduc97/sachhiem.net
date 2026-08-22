@@ -3,7 +3,7 @@ layout: ../../../layouts/Article.astro
 title: "Đây Là Nơi Nguy Hiểm Cho Trẻ Con!"
 author: "FB Lâm Phú Châu"
 date: 2020-12-10
-source: "https://sachhiem.net/TONGIAO/FB/FBLamPhuChau_07.php"
+source: "/TONGIAO/FB/FBLamPhuChau_07"
 category: "Chính trị"
 lang: vi
 wordCount: 880

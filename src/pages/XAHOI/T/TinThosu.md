@@ -1,7 +1,7 @@
 ---
 layout: ../../../layouts/Article.astro
 title: "Biểu tình chống chiến tranh Iraq"
-source: "https://sachhiem.net/null"
+source: "/null"
 category: "Chính trị"
 lang: vi
 wordCount: 466

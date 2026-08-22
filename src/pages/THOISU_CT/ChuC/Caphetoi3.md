@@ -2,7 +2,7 @@
 layout: ../../../layouts/Article.astro
 title: "Việt Nam: chính trị có “khập khiểng” với kinh tế?"
 author: "Cà Phê Tối"
-source: "https://sachhiem.net/null"
+source: "/null"
 category: "Chính trị"
 lang: vi
 wordCount: 956

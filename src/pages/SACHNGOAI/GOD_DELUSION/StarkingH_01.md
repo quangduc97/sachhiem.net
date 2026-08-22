@@ -3,7 +3,7 @@ layout: ../../../layouts/Article.astro
 title: "Ảo Tưởng Về God"
 author: "Richard Dawkins / Huỳnh Văn Hoàng dịch"
 date: 2015-09-20
-source: "https://sachhiem.net/SACHNGOAI/GOD_DELUSION/StarkingH_01.php"
+source: "/SACHNGOAI/GOD_DELUSION/StarkingH_01"
 category: "Sách ngoại văn"
 lang: vi
 wordCount: 9830

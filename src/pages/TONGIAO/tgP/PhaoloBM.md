@@ -3,7 +3,7 @@ layout: ../../../layouts/Article.astro
 title: "Tađêo Nguyễn Văn Lý Và Phêrô Phan Văn Lợi"
 author: "Phaolo Bình Minh"
 date: 2017-07-03
-source: "https://sachhiem.net/TONGIAO/tgP/PhaoloBM.php"
+source: "/TONGIAO/tgP/PhaoloBM"
 category: "Chính trị"
 lang: vi
 wordCount: 1162

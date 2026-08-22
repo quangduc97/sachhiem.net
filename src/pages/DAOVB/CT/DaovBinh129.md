@@ -3,7 +3,7 @@ layout: ../../../layouts/Article.astro
 title: "Nhật Ký Biển Đông: Thượng Đỉnh II Trump-Kim, Kết Quả Thật Ngỡ Ngàng"
 author: "Đào Văn Bình"
 date: 2019-02-02
-source: "https://sachhiem.net/DAOVB/CT/DaovBinh129.php"
+source: "/DAOVB/CT/DaovBinh129"
 category: "Chính trị"
 lang: vi
 wordCount: 3970

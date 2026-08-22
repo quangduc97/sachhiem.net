@@ -3,7 +3,7 @@ layout: ../../../layouts/Article.astro
 title: "Những vụ án ấu dâm chấn động giáo hội Công giáo"
 author: "Báo Phụ Nữ Việt Nam"
 date: 2020-12-28
-source: "https://sachhiem.net/TONGIAO/tgT/TinPNVN_01.php"
+source: "/TONGIAO/tgT/TinPNVN_01"
 category: "Tác giả"
 lang: vi
 wordCount: 3178

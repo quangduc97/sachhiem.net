@@ -3,7 +3,7 @@ layout: ../../../layouts/Article.astro
 title: "Đôi Điều Hé Mở Về Cơ Quan Phản Gián Vatican"
 author: "Q.Long/ An Ninh Thế Giới"
 date: 2023-01-09
-source: "https://sachhiem.net/TONGIAO/tgT/TinANTG.php"
+source: "/TONGIAO/tgT/TinANTG"
 category: "Chính trị"
 lang: vi
 wordCount: 1108

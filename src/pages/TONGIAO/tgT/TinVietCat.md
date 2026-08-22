@@ -3,7 +3,7 @@ layout: ../../../layouts/Article.astro
 title: "Đức Tổng Giám Mục Jacques Behnan Hindo:"
 author: "Đặng Tự Do/ VietCatholic"
 date: 2015-10-06
-source: "https://sachhiem.net/TONGIAO/tgT/TinVietCat.php"
+source: "/TONGIAO/tgT/TinVietCat"
 category: "Chính trị"
 lang: vi
 wordCount: 1456

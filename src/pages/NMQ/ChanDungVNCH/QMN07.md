@@ -2,16 +2,15 @@
 layout: ../../../layouts/Article.astro
 title: "Chân Dung \"Người Việt Quốc Gia\""
 author: "Nguyễn Mạnh Quang"
-source: "https://sachhiem.net/null"
+source: "/null"
 lang: vi
 wordCount: 11800
-image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nha.jpg"
+image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/Leftarrow.gif"
 ---
 
 <p class="Tuaduoi">Và Lá Cờ Vàng Ba Sọc Đỏ</p>
 		
- <p align="center"><a href="https://www.sachhiem.net/">
-<img border="0" src="https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nha.jpg"></a> |	<a target="_top" href="/NMQ/ChanDung_Main"><img border="0" src="https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/Leftarrow.gif" width="13" height="13"> trở ra mục lục</a> | 08 tháng 8, 2008 </p>
+ <p align="center"> |	<a target="_top" href="/NMQ/ChanDung_Main"><img border="0" src="https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/Leftarrow.gif" width="13" height="13"> trở ra mục lục</a> | 08 tháng 8, 2008 </p>
  
 		 
 		<p>Toàn tập: <a href="/NMQ/QMN00">Dàn bài</a></p>

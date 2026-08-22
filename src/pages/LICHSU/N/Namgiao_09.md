@@ -3,7 +3,7 @@ layout: ../../../layouts/Article.astro
 title: "Ba Ngày Cuối Tháng 8 Năm 1963 -"
 author: "Người dịch: Tâm Diệu, Trí Tánh, Nguyên Giác"
 date: 2020-12-26
-source: "https://sachhiem.net/LICHSU/N/Namgiao_09.php"
+source: "/LICHSU/N/Namgiao_09"
 category: "Chính trị"
 lang: vi
 wordCount: 4538

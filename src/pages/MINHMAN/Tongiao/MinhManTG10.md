@@ -2,13 +2,13 @@
 layout: ../../../layouts/Article.astro
 title: "KITO GIÁO"
 author: "Minh Mẫn"
-source: "https://sachhiem.net/MINHMAN/Tongiao/MinhManTG10.php"
+source: "/MINHMAN/Tongiao/MinhManTG10"
 lang: vi
 wordCount: 15149
-image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nha.jpg"
+image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/Hinh/Cross.jpg"
 ---
 
-<p align="center"><a href="https://www.sachhiem.net/"> <img border="0" src="https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nha.jpg"> </a>  04 tháng 9, 2007
+<p align="center">  04 tháng 9, 2007
 	</p>
 <p>Bài&nbsp; <a href="/MINHMAN/MinhManTG9">1</a>&nbsp; <a href="/MINHMAN/MinhManTG10">2</a></p>
 	<p align="center"><img border="0" src="https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/Hinh/Cross.jpg" width="150" height="163"></p>

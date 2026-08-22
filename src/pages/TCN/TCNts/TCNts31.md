@@ -2,14 +2,14 @@
 layout: ../../../layouts/Article.astro
 title: "Một Trong Ba Thứ"
 author: "Trần Chung Ngọc"
-source: "https://sachhiem.net/index.php?content=showrecipe&id=347"
+source: "/TCN/TCNts/TCNts31"
 category: "Chính trị"
 lang: vi
 wordCount: 13988
-image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nha.jpg"
+image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/DVcat.jpg"
 ---
 
-<p align="center"><a href="/index"><img hspace="20" border="0" src="https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nha.jpg"></a>29 tháng 12,  2008
+<p align="center">29 tháng 12,  2008
 </p>
 <p class="Tuaduoi">TẢN MẠN VỀ :</p>
 
@@ -40,7 +40,7 @@ sai cho ngoại quốc và có những hành động phản bội dân tộc, th
 and purposely acting to aid its ennemies).</p>
 
 <p> Trong bài
-<a style="color: blue; text-decoration: underline; text-underline: single" href="https://sachhiem.net/XAHOI/MucDong2.php">
+<a style="color: blue; text-decoration: underline; text-underline: single" href="/XAHOI/MucDong2">
 "Những Kẻ Gian" </a>đăng trên sachhiem.net có định nghĩa Việt gian như sau: </p>
 
 <p><i>Từ "gian" nếu 
@@ -137,7 +137,7 @@ lưu xú vạn niên.</p>
 sư Nguyễn Mạnh Quang đã liệt Tổng Thống Đệ Nhất Việt Nam Cộng Hòa Ngô Đình Diệm 
 thuộc gia đình “ba đời làm Việt gian” [tam đại Việt gian]. Ông giải thích cụm 
 từ “tam đại Việt gian” như sau:
-<a style="color: blue; text-decoration: underline; text-underline: single" href="https://sachhiem.net/NMQ/HOSOTOIAC/CH63_1c.php">
+<a style="color: blue; text-decoration: underline; text-underline: single" href="/NMQ/HOSOTOIAC/CH63_1c">
 https://sachhiem.net/NMQ/HOSOTOIAC/CH63_1c.php</a> :</p>
 
 <p> Ở thế hệ thứ nhất của gia đình ông 
@@ -147,7 +147,7 @@ vụ nước Pháp ngay từ khi Pháp mới đến An Nam, và đã nhiều l�
 nước Pháp trong các cuộc hành quân mà cha tôi cầm đầu, dưới quyền của Nguyễn 
 Thân, chống lại các kẻ nổi loạn do Phan Đình Phùng chỉ huy, tại Nghệ An và Hà 
 Tĩnh</i>.” Xin xem
-<a style="color: blue; text-decoration: underline; text-underline: single" href="https://sachhiem.net/NMQ/HOSOTOIAC/CH63_1b.php">
+<a style="color: blue; text-decoration: underline; text-underline: single" href="/NMQ/HOSOTOIAC/CH63_1b">
 lá thư của Giám Mục Ngô ĐìnhThục gửi Tòan Quyền Decoux</a> ở bài trên.</p>
 
 <p> Để độc giả có 
@@ -155,7 +155,7 @@ lá thư của Giám Mục Ngô ĐìnhThục gửi Tòan Quyền Decoux</a> ở 
 bằng tiếng Pháp. </p>
 <p> Bút tích của 
 GM có thể thấy trong:
-<a style="color: blue; text-decoration: underline; text-underline: single" href="https://sachhiem.net/NMQ/HOSOTOIAC/CH63_1b.php">
+<a style="color: blue; text-decoration: underline; text-underline: single" href="/NMQ/HOSOTOIAC/CH63_1b">
 https://sachhiem.net/NMQ/HOSOTOIAC/CH63_1b.php</a></p>
 
 <p><i></i>“Tòa Truyền Giáo Vĩnh Long ngày 21 tháng 8 năm 
@@ -224,7 +224,7 @@ Năm 1928, ông được thăng lên chức Tuần Vũ Bình Thuận, và năm 1
 thăng lên chức Lại Bộ Thượng Thư tại triều đình bù nhìn Huế.</p>
 <p> Thế hệ thứ ba còn có Ngô Đình Huân, 
 con trai của Ngô Đình Khôi làm mật vụ đắc lực cho giặc Nhật và được cho làm bí 
-thư cho Đại Sứ Nhật Yokoyama tại Huế.<a title="" style="color: blue; text-decoration: underline; text-underline: single" href="https://sachhiem.net/NMQ/HOSOTOIAC/CH63_1c.php#_edn2">[ii]</a>
+thư cho Đại Sứ Nhật Yokoyama tại Huế.<a title="" style="color: blue; text-decoration: underline; text-underline: single" href="/NMQ/HOSOTOIAC/CH63_1c#_edn2">[ii]</a>
 </p>
 <p> Một sự kiện cần phải biết là lịch 
 sử đã khẳng định rằng (1) Liên Minh Pháp – Vatican là một thế lực xâm lăng cưỡng 
@@ -1015,7 +1015,7 @@ giá gia đình cụ Ngô.” </i>Nếu ông Le Ho biết đọc một bài cho 
 thấy rằng tôi không hề “dựng đứng tài liệu” mà lấy tài liệu đó trong bài của 
 Giáo sư Nguyễn Mạnh Quang, và tôi cũng đã ghi rõ là phóng ảnh bức thư với bút 
 tích của GM Ngô Đình Thục có thể thấy trên
-<a style="color: #204040; text-decoration: underline; text-underline: single" href="https://sachhiem.net/NMQ/HOSOTOIAC/CH63_1b.php">
+<a style="color: #204040; text-decoration: underline; text-underline: single" href="/NMQ/HOSOTOIAC/CH63_1b">
 https://sachhiem.net/NMQ/HOSOTOIAC/CH63_1b.php</a>.</p>
 
 <p> Bức thư này đã được đăng trên 

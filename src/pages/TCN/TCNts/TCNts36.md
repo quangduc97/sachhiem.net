@@ -3,16 +3,16 @@ layout: ../../../layouts/Article.astro
 title: "Tản Mạn Về Video Clip"
 author: "Trần Chung Ngọc"
 date: 2012-04-29
-source: "https://sachhiem.net/TCN/TCNts/TCNts36.php"
+source: "/TCN/TCNts/TCNts36"
 category: "Chính trị"
 lang: vi
 wordCount: 11899
-image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nha.jpg"
+image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/TCN/TCNts/TCNts36_NNN304.jpg"
 ---
 
 <table border="0" align="center" width="250">
           <tbody><tr>
-            <td width="100"><a href="https://sachhiem.net/index.php"><img border="0" src="https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nha.jpg"></a></td>
+            <td width="100"></td>
 	<td valign="top" style="text-align:right">29-Apr-2012</td>
           </tr></tbody></table>
 	    
@@ -97,7 +97,7 @@ image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nha.jpg"
 <p align="center"> <img src="https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/TCN/TCNts/TCNts36_NNN304.jpg"> <img src="https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/TCN/TCNts/TCNts36_quangcao.jpg" alt=""></p>
 <p align="center"><i>NNN bị chống nhưng các nhóm khác vẫn tổ chức show và còn đề rõ để ăn mừng ngày 30/4 </i></p>
 <p>Tôi biết được vụ ông Nguyễn Ngọc Ngạn bị tố khổ vì gần đây, trên trang
-	      nhà Sách Hiếm, <a href="https://www.sachhiem.net/index.php?content=showemail&amp;id=91">https://www.sachhiem.net/index.php?content=showemail&amp;id=91</a> trong
+	      nhà Sách Hiếm, <a href="/hop-thu/91">https://www.sachhiem.net/index.php?content=showemail&amp;id=91</a> trong
 	      mục “<i>Thư, Ý kiến ngắn</i>” có cái video clip về “<i>Hoàng Anh Phỏng
 	      Vấn Nguyễn Ngọc Ngạn</i>”.&nbsp; Tuy chẳng mấy quan tâm đến nhân vật Nguyễn
 	      Ngọc Ngạn nhưng tôi thường đọc tất cả những gì xuất hiện trên Sách Hiếm.&nbsp;

@@ -3,7 +3,7 @@ layout: ../../../layouts/Article.astro
 title: "Chiến Tranh Việt Nam Từ Hậu Trường Chính Trị Hoa Kỳ"
 author: "Lương Minh Sơn"
 date: 2026-06-22
-source: "https://sachhiem.net/LICHSU/L/LuongMinhSon.php"
+source: "/LICHSU/L/LuongMinhSon"
 category: "Lịch sử"
 lang: vi
 wordCount: 81

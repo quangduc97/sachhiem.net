@@ -3,7 +3,7 @@ layout: ../../../layouts/Article.astro
 title: "Giám Mục Bang Missouri, Robert Finn, Từ Chức Vì Bị Kết Án Che Dấu Linh Mục Ấu Dâm."
 author: "Laurie Goodstein"
 date: 2015-06-26
-source: "https://sachhiem.net/TONGIAO/NGTRCAM/NguyenTriCam39.php"
+source: "/TONGIAO/NGTRCAM/NguyenTriCam39"
 category: "Tác giả"
 lang: vi
 wordCount: 2947

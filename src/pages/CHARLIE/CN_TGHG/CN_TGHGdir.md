@@ -1,7 +1,7 @@
 ---
 layout: ../../../layouts/Article.astro
 title: "Tủ Sách của Tác Giả Charlie Nguyễn"
-source: "https://sachhiem.net/nguồn https://home.earthlink.net/~charlienguyen/muc_luc.htm"
+source: "/nguồn https://home.earthlink.net/~charlienguyen/muc_luc.htm"
 lang: vi
 wordCount: 105
 image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/CHARLIE/IMG/TCCG_hoigiaochemTCG.jpg"

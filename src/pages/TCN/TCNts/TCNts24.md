@@ -2,17 +2,17 @@
 layout: ../../../layouts/Article.astro
 title: "[Nhưng Thất Bại !]"
 author: "Trần Chung Ngọc"
-source: "https://sachhiem.net/TCN/TCNts/TCNts16.php"
+source: "/TCN/TCNts/TCNts16"
 lang: vi
 wordCount: 5083
-image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nha.jpg"
+image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/TONGIAO/IMG/SU/TNhatTu.jpg"
 ---
 
 <p class="Tuaduoi">MA QUÂN QUẤY NHIỄU SƯ TĂNG</p>
 		
 
   
- <p align="center"><a href="/index"><img hspace="20" border="0" src="https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nha.jpg"></a> ngày 12 tháng 8, 2008</p>
+ <p align="center"> ngày 12 tháng 8, 2008</p>
 	<p style="text-align: center"><img border="0" src="https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/TONGIAO/IMG/SU/TNhatTu.jpg" width="150" height="206" align="left" hspace="10" alt="Đại Đức Thích Nhật Từ"></p>
 	<p>
 	<span class="First"><font color="#800080">K</font></span><font color="#800080">hi xưa Đường Tăng đi Thiên 

@@ -3,7 +3,7 @@ layout: ../../../layouts/Article.astro
 title: "Tầm Quan Trọng Chiến Lược Của Thoả Thuận Mỹ Dỡ Bỏ Cấm Vận Vũ Khí Sát Thương Cho Việt Nam"
 author: "Đinh Cương"
 date: 2016-05-25
-source: "https://sachhiem.net/THOISU_CT/ChuD/DinhCuong.php"
+source: "/THOISU_CT/ChuD/DinhCuong"
 category: "Chính trị"
 lang: vi
 wordCount: 1432

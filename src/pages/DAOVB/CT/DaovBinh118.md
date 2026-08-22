@@ -3,7 +3,7 @@ layout: ../../../layouts/Article.astro
 title: "Nhật Ký Biển Đông: Nga Tập Trận Lớn Để Làm Gì?"
 author: "Đào Văn Bình"
 date: 2018-09-18
-source: "https://sachhiem.net/DAOVB/CT/DaovBinh118.php"
+source: "/DAOVB/CT/DaovBinh118"
 category: "Chính trị"
 lang: vi
 wordCount: 7051

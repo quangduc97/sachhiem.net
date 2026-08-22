@@ -3,7 +3,7 @@ layout: ../../layouts/Article.astro
 title: "Lại Phải Trả Lời Ông Chu Tất Tiến"
 author: "Trần Tiên Long"
 date: 2012-08-20
-source: "https://sachhiem.net/TTL/TranTL26.php"
+source: "/TTL/TranTL26"
 category: "Chính trị"
 lang: vi
 wordCount: 5884
@@ -502,9 +502,9 @@ wordCount: 5884
    that denies God’s existence or any divine role in creation. It also objects
    to using Genesis as a scientific text.</p>
  <p><a name="n4">[4]</a> Công Giáo Tây Phương Đã Tỉnh – Công Giáo Việt Nam
-   Hãy Còn Mê / Gs. Trần Chung Ngọc. Nguồn: <a href="https://sachhiem.net/TCN/TCNtg/TCN94_4.php">https://giaodiemonline.com/2010/03/conggiao.htm</a></p>
+   Hãy Còn Mê / Gs. Trần Chung Ngọc. Nguồn: <a href="/TCN/TCNtg/TCN94_4">https://giaodiemonline.com/2010/03/conggiao.htm</a></p>
  <p><a name="n5">[5]</a> Darwin Hay Thượng Đế? Tiến Hóa Hay Sáng Tạo? /
-   Gs. Trần Chung Ngọc. Nguồn: <a href="https://sachhiem.net/TCN/TCNkh/TCNkh17.php">https://giaodiemonline.com/2009/02/tienhoa.htm</a></p>
+   Gs. Trần Chung Ngọc. Nguồn: <a href="/TCN/TCNkh/TCNkh17">https://giaodiemonline.com/2009/02/tienhoa.htm</a></p>
  
  
  <p>nguồn https://giaodiemonline.com/2011/06/chutattien.htm</p>

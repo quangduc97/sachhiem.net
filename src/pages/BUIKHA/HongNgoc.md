@@ -2,16 +2,15 @@
 layout: ../../layouts/Article.astro
 title: "LỬA ĐỐT DÂN TỘC TA"
 author: "Hồng Ngọc"
-source: "https://sachhiem.net/BUIKHA/HongNgoc.php"
+source: "/BUIKHA/HongNgoc"
 category: "Tác giả"
 lang: vi
 wordCount: 8235
-image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nha.jpg"
+image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/TONGIAO/IMG/TINLANH/MyDinh1.jpg"
 ---
 
 <table border="0" align="center" cellpadding="1" width="250"><tbody><tr>
-	<td width="92"><a href="https://www.sachhiem.net/">
-	<img border="0" src="https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nha.jpg"></a></td>
+	<td width="92"></td>
     <td width="148">14 tháng 1, 2011 </td>
 	</tr>
     </tbody></table>

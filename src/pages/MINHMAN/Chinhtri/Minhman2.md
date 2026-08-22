@@ -2,15 +2,13 @@
 layout: ../../../layouts/Article.astro
 title: "TỪ BILL CLINTON đến G.BUSH"
 author: "Minh Mẫn"
-source: "https://sachhiem.net/MINHMAN/Chinhtri/Minhman2.php"
+source: "/MINHMAN/Chinhtri/Minhman2"
 lang: vi
 wordCount: 2134
-image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nha.jpg"
 ---
 
 <table border="0" align="center" cellpadding="1" width="250"><tbody><tr>
-	<td width="110"><a href="https://www.sachhiem.net/">
-	<img border="0" src="https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nha.jpg"></a></td>	
+	<td width="110"></td>	
     <td valign="top" style="text-align:right">  19&nbsp; tháng 8, 2007
 	</td></tr></tbody></table>
 <p><font face="Vivaldi" size="6">S</font>áu năm trước, tám tuần cuối của nhiệm kỳ 2, Tổng Thống Bill Clinton đã đến VN, Tổng thống Mỹ đầu tiên có mặt trên đất nước mà Mỹ đã tham chiến. đồng thời cũng là đất nước, tuy cách gần một bán cầu, có nền văn hóa và chủng tộc khác biệt, nhưng từng có mối liên hệ nhất định, cơ bản nhất là quan hệ bản Tuyên Ngôn Độc Lập Mỹ do Thomas Jefferson đã được Hồ Chí Minh tuyên đọc: …”Mọi người được sinh ra bình đẳng. Thượng Đế đã cho chúng ta một số quyền không thể vi phạm, -quyền sinh sống, quyền tự do,quyền mưu cầu hạnh phúc…”

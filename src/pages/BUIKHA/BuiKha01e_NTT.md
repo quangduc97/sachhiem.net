@@ -2,7 +2,7 @@
 layout: ../../layouts/Article.astro
 title: "Một Bài Viết Thiếu Sử Liệu Về “Nguyễn Trường Tộ\""
 author: "Bùi Kha"
-source: "https://sachhiem.net/BUIKHA/BuiKha01e_NTT.php"
+source: "/BUIKHA/BuiKha01e_NTT"
 category: "Lịch sử"
 lang: vi
 wordCount: 5378

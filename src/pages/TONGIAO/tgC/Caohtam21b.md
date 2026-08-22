@@ -3,7 +3,7 @@ layout: ../../../layouts/Article.astro
 title: "Quỹ Pháp Lý - Sài Gòn Nhỏ"
 author: "Cao Hữu Tâm"
 date: 2015-01-27
-source: "https://sachhiem.net/TONGIAO/tgC/Caohtam21b.php"
+source: "/TONGIAO/tgC/Caohtam21b"
 category: "Tác giả"
 lang: vi
 wordCount: 3096
@@ -134,7 +134,7 @@ Date: 1/27/15 4:02 pm</i></p>
 <p>Trân trọng </p>
 <p>_________________________</p>
 <p><b>Bài liên hệ:</b></p>
-<p>- <a href="https://sachhiem.net/TONGIAO/tgC/Caohtam08.php">Bài góp ý về Bản Lên Tíêng số 3 của báo Saigon Nhỏ - Sự Thật Mất Lòng</a>  </p>
+<p>- <a href="/TONGIAO/tgC/Caohtam08">Bài góp ý về Bản Lên Tíêng số 3 của báo Saigon Nhỏ - Sự Thật Mất Lòng</a>  </p>
  <p>- <a href="/TONGIAO/tgC/Caohtam21">Người Việt Hải Ngoại - Chia Rẽ, Bế Tắc, Bài Học Đắt Giá </a>(Cao Hữu Tâm)</p>
- <p>- <a href="https://sachhiem.net/TONGIAO/tgC/Caohtam21a.php">Sài Gòn Nhỏ - Vụ Án Lớn</a> (Cao Hữu Tâm)</p>
- <p>- <a href="https://sachhiem.net/TONGIAO/tgC/Caohtam21b.php">Sài Gòn Nhỏ - Quỹ Pháp Lý</a> (Cao Hữu Tâm)</p>
+ <p>- <a href="/TONGIAO/tgC/Caohtam21a">Sài Gòn Nhỏ - Vụ Án Lớn</a> (Cao Hữu Tâm)</p>
+ <p>- <a href="/TONGIAO/tgC/Caohtam21b">Sài Gòn Nhỏ - Quỹ Pháp Lý</a> (Cao Hữu Tâm)</p>

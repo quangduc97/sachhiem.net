@@ -3,7 +3,7 @@ layout: ../../layouts/Article.astro
 title: "Góp Ý về bài viết trên báo Thanh Niên:"
 author: "Tòa soạn SH"
 date: 2021-04-11
-source: "https://sachhiem.net/DOITHOAI/Lythaixuan3.php"
+source: "/DOITHOAI/Lythaixuan3"
 category: "Chính trị"
 lang: vi
 wordCount: 12

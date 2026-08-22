@@ -2,11 +2,11 @@
 layout: ../../../layouts/Article.astro
 title: "Khai thác các giá trị của truyền thống nho học"
 author: "Nguyễn Trọng Chuẩn"
-source: "https://sachhiem.net/VANHOC/N/Nguyentrongchuan.php"
+source: "/VANHOC/N/Nguyentrongchuan"
 category: "Văn hóa"
 lang: vi
 wordCount: 2409
-image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nha.jpg"
+image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/THOISU_CT/Hinh/Nhohoc.jpg"
 ---
 
 <p class="Tuaduoi">
@@ -16,7 +16,7 @@ image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nha.jpg"
 		
 		
  
-  <p align="center"><a href="https://www.sachhiem.net/"> <img border="0" src="https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nha.jpg"></a> 	17 tháng 12, 2007
+  <p align="center"> 	17 tháng 12, 2007
 </p>  
 <p><img src="https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/THOISU_CT/Hinh/Nhohoc.jpg" width="160" height="119" align="left" hspace="10">Lịch sử 
 					của toàn thể nhân loại nói chung, cũng như của từng nước nói riêng, mặc dù có 

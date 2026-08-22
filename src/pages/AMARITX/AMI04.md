@@ -3,16 +3,15 @@ layout: ../../layouts/Article.astro
 title: "Cuộc Sống Tươi Đẹp Trên Lưng Người Đóng Thuế!"
 author: "Amari-TX"
 date: 2012-11-24
-source: "https://sachhiem.net/AMARITX/AMI04.php"
+source: "/AMARITX/AMI04"
 category: "Chính trị"
 lang: vi
 wordCount: 1011
-image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nha.jpg"
+image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/THOISU_CT/Hinh/HOAKY/AMI04_Whitehouse.jpg"
 ---
 
 <table border="0" align="center" cellpadding="1" width="250"><tbody><tr>
-	<td width="234"><a href="https://www.sachhiem.net/">
-	<img border="0" src="https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nha.jpg"></a></td>
+	<td width="234"></td>
 <td valign="top" width="356">
 	</td></tr></tbody></table>
 

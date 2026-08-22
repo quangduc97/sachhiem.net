@@ -2,7 +2,7 @@
 layout: ../../../layouts/Article.astro
 title: "Chiến thuật và công cụ truyền đạo thầm lặng"
 author: "Nguyễn Trí Cảm"
-source: "https://sachhiem.net/TONGIAO/NGTRCAM/NguyenTriCam05.php"
+source: "/TONGIAO/NGTRCAM/NguyenTriCam05"
 category: "Tác giả"
 lang: vi
 wordCount: 2450

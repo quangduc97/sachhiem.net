@@ -2,7 +2,7 @@
 layout: ../../../layouts/Article.astro
 title: "McNamara, Cuộc chiến Việt Nam và nước Mỹ"
 author: "Trần Bình Nam"
-source: "https://sachhiem.net/Viết cho BBCVietnamese.com từ Hoa Kỳ"
+source: "/Viết cho BBCVietnamese.com từ Hoa Kỳ"
 category: "Chính trị"
 lang: vi
 wordCount: 1232

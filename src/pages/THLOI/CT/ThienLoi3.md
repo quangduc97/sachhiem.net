@@ -2,15 +2,15 @@
 layout: ../../../layouts/Article.astro
 title: "Bài Học Nam Hàn"
 author: "Thiên Lôi"
-source: "https://sachhiem.net/THLOI/CT/ThienLoi3.php"
+source: "/THLOI/CT/ThienLoi3"
 category: "Chính trị"
 lang: vi
 wordCount: 5335
-image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nha.jpg"
+image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/THOISU_CT/Hinh/Seoul.jpg"
 ---
 
 <table border="0" cellpadding="0" width="250" align="center"><tbody><tr>
-	<td width="125"><a href="/index"><img border="0" src="https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nha.jpg"></a></td>
+	<td width="125"></td>
 	<td valign="top">	<font color="#606060" size="2">15 tháng 6, 2008	</font>
 	</td></tr></tbody></table>
 	

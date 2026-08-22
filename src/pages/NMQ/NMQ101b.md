@@ -3,7 +3,7 @@ layout: ../../layouts/Article.astro
 title: "Giấu Nhẹm Các Nhân Vật Đạo Ca-tô Gây Tội Ác ?"
 author: "Nguyễn Mạnh Quang"
 date: 2021-05-07
-source: "https://sachhiem.net/NMQ/NMQ101b.php"
+source: "/NMQ/NMQ101b"
 category: "Lịch sử"
 lang: vi
 wordCount: 3480
@@ -20,7 +20,7 @@ image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/LICHSU/IMG/SACH/LSVN
 </div>
     <p align="center"><img src="https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/LICHSU/IMG/SACH/LSVN15tap1.jpg" width="400" height="300" alt=""> </p>
 <p><b>Lời đầu:</b></p>
-<p>Bài viết này bổ túc thêm cho bài viết trước đây có tựa đề  "<a href="https://sachhiem.net/NMQ/NMQ101.php">Những Thiếu Sót Và Sai Lầm Quan Trọng Trong Bộ Lịch Sử Việt Nam 15 Tập"</a></p>
+<p>Bài viết này bổ túc thêm cho bài viết trước đây có tựa đề  "<a href="/NMQ/NMQ101">Những Thiếu Sót Và Sai Lầm Quan Trọng Trong Bộ Lịch Sử Việt Nam 15 Tập"</a></p>
 
 
 <p>Giám  Mục Puginier có một câu nói để đời như sau:<i> "Không có các thừa sai và giáo dân Ki Tô Giáo  thì người Pháp cũng giống như những con cua đã bị bẻ gẫy hết càng."[i]   </i></p>
@@ -79,12 +79,12 @@ image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/LICHSU/IMG/SACH/LSVN
 <p class="PicLeft"><img src="https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/LICHSU/IMG/NGODD/NgDThuc1.jpg" width="189" height="165" alt=""><br>Giám-mục Ngô Đình Thục
 </p><p>Sau đó, Hồng y Spellman vận động với chính quyền Hoa Kỳ làm áp lực với  Pháp và ông Bảo Đại bổ nhậm Ngô Đình Diệm làm Thủ Tướng, với toàn quyền  dân sự và quân sự. </p>
 
-<p>Trong khi  đó thì các sách sử khác đã nói rõ từng chi tiết sự kỳ này, và đã được chúng tôi  trình bày đầy đủ trong Chương 60 “Những Tính Toán Của Vatican Trong Năm 1950”  (<a href="https://www.sachhiem.net/NMQ/HOSOTOIAC/CH60-1.php" target="_blank">https://sachhiem.net/NMQ/HOSOTOIAC/CH60-1.php</a><u>)</u></p>
+<p>Trong khi  đó thì các sách sử khác đã nói rõ từng chi tiết sự kỳ này, và đã được chúng tôi  trình bày đầy đủ trong Chương 60 “Những Tính Toán Của Vatican Trong Năm 1950”  (<a href="/NMQ/HOSOTOIAC/CH60-1" target="_blank">https://sachhiem.net/NMQ/HOSOTOIAC/CH60-1.php</a><u>)</u></p>
 
 <p><b>KẾT LUẬN:</b></p>
 <p>Phần trình bày trên đây cho thấy rằng, với vài trò Chủ Nhiệm  và Tổng Chủ biên, GS PTS Trần Đức Cường và các tác giả  biên soạn các Tập  6, Tập 8 và Tập 10 đã có chủ tâm giấu nhẹm các vai trò và những hành  động cực kỳ dã man của những tên tội đồ đối với dân tộc Việt Nam  là những  chức sắc và con chiên của Giáo Hội La Mã. </p>
 <p>Động lực nào đã khiến cho ông Trần Đức Cường và các tác giả  của các Tập 6, Tập 8 và Tập 10 lại có hành động việt sử một cách khuất tất như  vậy? </p>
-<p>Tôi không biết giáo triều Vatican hay Hội Đồng Giám Mục Việt  Nam đã tác động đến các tác giả biên soạn bộ sách Lịch Sử kể trên bằng cách nào. Riêng về trường hợp của cá nhân tôi, vào tháng 11 năm 2001,  giáo sư Nguyễn Văn Trung, tín đồ đạo Ca-tô Rô-ma giáo, xin được đến nhà tôi. Trong cuộc nói chuyện này, ông ta đã cố gắng thuyết phục tôi  phải viết sử theo quan niệm của ông ta (không được nói đến tội của các nhân vật trong Giáo Hội La Mã) Thấy rằng, không thể thuyết phục được tôi, ngày hôm sau, ông ta gọi điện  thoại nói chuyện với người bạn đời của tôi, với dã tâm xúi giục nàng phải “<i>làm  nhiệm vụ tông đồ</i>”, có nghĩa là xúi giục vợ tôi "dùng mọi cách" để ép tôi "vâng lời" như vợ con ông cựu Thẩm phán VNCH Charlie  Nguyễn đối với ông vậy. May cho tôi là vợ tôi không hề như thế, trái lại còn làm cho nàng khinh bỉ các ông ấy. Vấn đề này đã được tôi trình vày đầy đủ  trong bài viết ”<i>Giáo Sư Nguyễn Văn Trung Tiết Lộ Điều Gì Trong Chuyến Viếng  Thăm Năm 2001</i>” (<a href="https://sachhiem.net/NMQ/NMQ113.php" target="_blank">https://sachhiem.net/NMQ/NMQ113.php</a>). Xin quý vị nghe kể lại trong video: <a href="https://www.youtube.com/watch?v=2wgrWoXC87E">https://www.youtube.com/watch?v=2wgrWoXC87E</a>. </p>
+<p>Tôi không biết giáo triều Vatican hay Hội Đồng Giám Mục Việt  Nam đã tác động đến các tác giả biên soạn bộ sách Lịch Sử kể trên bằng cách nào. Riêng về trường hợp của cá nhân tôi, vào tháng 11 năm 2001,  giáo sư Nguyễn Văn Trung, tín đồ đạo Ca-tô Rô-ma giáo, xin được đến nhà tôi. Trong cuộc nói chuyện này, ông ta đã cố gắng thuyết phục tôi  phải viết sử theo quan niệm của ông ta (không được nói đến tội của các nhân vật trong Giáo Hội La Mã) Thấy rằng, không thể thuyết phục được tôi, ngày hôm sau, ông ta gọi điện  thoại nói chuyện với người bạn đời của tôi, với dã tâm xúi giục nàng phải “<i>làm  nhiệm vụ tông đồ</i>”, có nghĩa là xúi giục vợ tôi "dùng mọi cách" để ép tôi "vâng lời" như vợ con ông cựu Thẩm phán VNCH Charlie  Nguyễn đối với ông vậy. May cho tôi là vợ tôi không hề như thế, trái lại còn làm cho nàng khinh bỉ các ông ấy. Vấn đề này đã được tôi trình vày đầy đủ  trong bài viết ”<i>Giáo Sư Nguyễn Văn Trung Tiết Lộ Điều Gì Trong Chuyến Viếng  Thăm Năm 2001</i>” (<a href="/NMQ/NMQ113" target="_blank">https://sachhiem.net/NMQ/NMQ113.php</a>). Xin quý vị nghe kể lại trong video: <a href="https://www.youtube.com/watch?v=2wgrWoXC87E">https://www.youtube.com/watch?v=2wgrWoXC87E</a>. </p>
 <p>Từ đó suy ra những hành động  của giáo triều Vatican hay Hội Đồng Giám Mục Việt Nam  thuyết phục  hay lo lót những cá nhân hay tổ chức viết sử, biên soạn sách sử Việt Nam, là có truyền thống từ xưa đến nay. </p>
 <p>Lịch sử như một câu chuyện, phải có đầu có cuối. Nếu cắt đi một đoạn, thì người đọc sẽ hiểu sai lệch ngay. Đánh giá về con người, gian hay ngay, cũng dễ bị thiên lệch nếu câu chuyện bị cắt bớt. Ông Ngô Đình Diệm được Giáo Hội La Mã giới thiệu với Hoa Kỳ để cho về làm Tổng Thống ở miền Nam,  trong kế hoạch chia cách đất nước (có lợi cho Giáo Hội La Mã.) Nếu không nói rõ ra như thế, thì người đọc sử nghĩ rằng Việt Nam đã có "hai quốc gia," như hiện nay đã có một dư luận xuyên tạc lịch sử như thế.</p>
 <p>Mỗi người dân chúng ta phải biết trân trọng các bối cảnh, các tình tiết lịch sử để có những nhận xét khách quan. Vì thế, ta nhất định không thể để cho ai, vì lý do nào, bỏ bớt bất kỳ trang giấy nào trong các câu chuyện lịch sử.</p>
@@ -93,7 +93,7 @@ image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/LICHSU/IMG/SACH/LSVN
 <p>Ngày 06/05/2021 </p>
 <p>_________________</p>
  
-<p>[i] Nguyễn Mạnh Quang, <i>Chươn</i>g<i> 92  “Vấn Nạn Giáo Hội La Mã” </i>(<a href="https://www.sachhiem.net/NMQ/HOSOTOIAC/CH92_2.php" target="_blank">https://sachhiem.net/NMQ/HOSOTOIAC/CH92_2.php</a>), sách Lịch Sử Và Hồ Sơ Tội Ác Của Giáo Hội La Mã. </p>
+<p>[i] Nguyễn Mạnh Quang, <i>Chươn</i>g<i> 92  “Vấn Nạn Giáo Hội La Mã” </i>(<a href="/NMQ/HOSOTOIAC/CH92_2" target="_blank">https://sachhiem.net/NMQ/HOSOTOIAC/CH92_2.php</a>), sách Lịch Sử Và Hồ Sơ Tội Ác Của Giáo Hội La Mã. </p>
 <p>  [ii] Độc  giả có thể tìm đọc Kế Hoạch Puginier ở trong sách Giáo Sĩ Thừa Sai Và Chính Sách Thuộc Địa Của Pháp Tại  Việt Nam 1857-1914 (TP Hồ Chí Minh:Công Ty TNHH Sách Phương Nam, 2014) nói giám  mục này là tác giả của Kế Hoạch Puginier nơi các trang 301-317. </p>
 <p>  [iii] Chính Đạo, Việt Nam Niên  Biểu 1939-1975 (Tập A: 1939-1946) (Houston, TX: Văn Hóa, 1997), tr 295. </p>
 <p>  [iv] Quang Toàn &amp; Nguyễn Hoài, <i>Những Hoat Động Của Bọn Phản Động Đội Lốt Thiên Chúa  Giáo Trong Thời Kỳ Kháng Chiến 1945-1954</i> (Hà Nôi: Nhà Xuất Bản Khoa Học, 1965), tr. 17-18. </p>

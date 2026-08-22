@@ -2,7 +2,7 @@
 layout: ../../../layouts/Article.astro
 title: "Vụ Ám Sát Ngô Đình Diệm Và J.F.Kennedy"
 author: "Phạm Viêm Phương, Mai Sơn dịch"
-source: "https://sachhiem.net/nguồn: Việt Nam Thư Quán"
+source: "/nguồn: Việt Nam Thư Quán"
 category: "Chính trị"
 lang: vi
 wordCount: 2384
@@ -31,7 +31,7 @@ image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nhacu.jpg"
 	<div style="padding-left: 40px; padding-right: 40px">
 
 <table border="0" cellpadding="10" width="85%" cols="2" align="center"><tbody><tr>
-<td><a href="https://sachhiem.net/">
+<td><a href="/">
 <img src="https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nhacu.jpg" border="0"></a></td><td valign="top">&nbsp;</td>
 <td valign="top" width="170">	17 tháng 5, 2008
 </td></tr></tbody></table>

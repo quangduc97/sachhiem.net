@@ -2,15 +2,13 @@
 layout: ../../../layouts/Article.astro
 title: "Ngày Tàn Cuả Ngụy Quân Tử Và Thứ Phi Đã Điểm - GIA ĐỉNH PHẬT TỬ VN TẠI MỸ KHAI HỎA"
 author: "Sưu khảo của Hoàng Thục An"
-source: "https://sachhiem.net/TONGIAO/tgH/HgThucAn.php"
+source: "/TONGIAO/tgH/HgThucAn"
 category: "Tác giả"
 lang: vi
 wordCount: 4699
-image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nha.jpg"
 ---
 
-<p align="center"><a href="https://www.sachhiem.net/">
-	<img border="0" src="https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nha.jpg"></a>  20 tháng 7, 2008 </p>
+<p align="center">  20 tháng 7, 2008 </p>
 <p>		Thư không dán</p>
 <p>Milpitas, ngày 15.07.2008</p>
 <p>Kính gởi: Ông Võ Văn Ái</p>

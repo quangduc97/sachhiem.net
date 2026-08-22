@@ -3,7 +3,7 @@ layout: ../../../layouts/Article.astro
 title: "Xâm Nhập Tôn Giáo Vào AYUTTHAYA"
 author: "DuyênSinh"
 date: 2013-08-02
-source: "https://sachhiem.net/LICHSU/D/Duyensinh01_AYU.php"
+source: "/LICHSU/D/Duyensinh01_AYU"
 category: "Tác giả"
 lang: vi
 wordCount: 6507

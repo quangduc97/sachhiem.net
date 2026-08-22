@@ -3,7 +3,7 @@ layout: ../../../layouts/Article.astro
 title: "Những Câu Hỏi Cần Biết Về Tư Cách"
 author: "Trần Quang Diệu"
 date: 2015-08-21
-source: "https://sachhiem.net/LICHSU/TR/TQD48.php"
+source: "/LICHSU/TR/TQD48"
 category: "Đối thoại"
 lang: vi
 wordCount: 579

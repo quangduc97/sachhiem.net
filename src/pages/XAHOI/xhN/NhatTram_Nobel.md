@@ -3,7 +3,7 @@ layout: ../../../layouts/Article.astro
 title: "Tại Sao Thánh Gandhi Không Được Giải Nobel Hòa Bình?"
 author: "Oyvind Tonnesson/ Nhật Trầm"
 date: 2015-11-18
-source: "https://sachhiem.net/XAHOI/xhN/NhatTram_Nobel.php"
+source: "/XAHOI/xhN/NhatTram_Nobel"
 category: "Chính trị"
 lang: vi
 wordCount: 4847

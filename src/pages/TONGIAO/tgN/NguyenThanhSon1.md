@@ -2,15 +2,14 @@
 layout: ../../../layouts/Article.astro
 title: "TUYỂN TẬP TẬN THẾ"
 author: "Linh Mục DCCT NGUYỄN THANH SƠN"
-source: "https://sachhiem.net/TONGIAO/tgN/NguyenThanhSon1.php"
+source: "/TONGIAO/tgN/NguyenThanhSon1"
 category: "Tác giả"
 lang: vi
 wordCount: 16144
-image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nha.jpg"
+image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/HOANHLINH/images/COVER/TanThe1.gif"
 ---
 
-<p align="center"><a href="https://www.sachhiem.net/">
-<img border="0" src="https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nha.jpg"></a> 04 tháng 8, 2008 	</p>
+<p align="center"> 04 tháng 8, 2008 	</p>
 <p> <a href="/TONGIAO/NguyenThanhSon">Bài 1</a> -
 <a href="/TONGIAO/NguyenThanhSon1">Bài 2</a> </p>
 

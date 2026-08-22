@@ -3,7 +3,7 @@ layout: ../../../layouts/Article.astro
 title: "Đáp Thư Một Tín Đồ Của Thuyết Sáng Tạo -"
 author: "Trần Chung Ngọc"
 date: 2013-02-22
-source: "https://sachhiem.net/TCN/TCNdt/TCNdt067.php"
+source: "/TCN/TCNdt/TCNdt067"
 category: "Đối thoại"
 lang: vi
 wordCount: 6976

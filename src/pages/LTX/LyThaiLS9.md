@@ -3,7 +3,7 @@ layout: ../../layouts/Article.astro
 title: "Liên Minh Bí Mật của Hoa Kỳ và Vatican"
 author: "Lý Thái Xuân"
 date: 2022-04-25
-source: "https://sachhiem.net/LTX/LyThaiLS9.php"
+source: "/LTX/LyThaiLS9"
 category: "Chính trị"
 lang: vi
 wordCount: 940

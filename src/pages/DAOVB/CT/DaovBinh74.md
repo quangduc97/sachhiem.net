@@ -3,7 +3,7 @@ layout: ../../../layouts/Article.astro
 title: "Nhật Ký Biển Đông: Tình Hình Vô Cùng Phức Tạp Của Đông-Nam-Á"
 author: "Đào Văn Bình"
 date: 2016-11-04
-source: "https://sachhiem.net/DAOVB/CT/DaovBinh74.php"
+source: "/DAOVB/CT/DaovBinh74"
 category: "Chính trị"
 lang: vi
 wordCount: 3427

@@ -3,7 +3,7 @@ layout: ../../../layouts/Article.astro
 title: "Hai Hình Ảnh: Chưa Cần Đánh Đã Thấy Thua"
 author: "Ca Hát"
 date: 2013-07-22
-source: "https://sachhiem.net/THOISU_CT/ChuC/Cahat01.php"
+source: "/THOISU_CT/ChuC/Cahat01"
 category: "Chính trị"
 lang: vi
 wordCount: 485
@@ -20,7 +20,7 @@ image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/LICHSU/IMG/HOCHIMINH
 
 <p>___________________</p>
 <p><b>Mời xem thêm:</b></p>
-<p>- Ý Nghĩa Hôn Nhẫn Lãnh Đạo Vatican(Giác Hạnh) <a href="https://sachhiem.net/LICHSU/G/Giachanh.php">https://sachhiem.net/LICHSU/G/Giachanh.php</a></p>
+<p>- Ý Nghĩa Hôn Nhẫn Lãnh Đạo Vatican(Giác Hạnh) <a href="/LICHSU/G/Giachanh">https://sachhiem.net/LICHSU/G/Giachanh.php</a></p>
 <p><b>SH phụ họa</b>: - Có rất nhiều hình ảnh Bác Hồ hòa mình với dân chúng trong nhiều lãnh vực. Tượng trưng chúng tôi xin ghi lại vài tấm ảnh đăng ở các bài viết đó đây. Xin xem cột hình bên trái dưới đây.</p>
 <p>- Nhưng tuyệt nhiên không thể tìm được một tấm hình nào chứng minh ông Ngô Đình Diệm gần dân, đừng nói chi đến cùng làm việc với dân. Không hề. Trái lại chỉ  gần "thực dân", hôn hít thực dân, còn dân thì chỉ biết đày đọa như tôi tớ. Xin xem cột hình bên phải dưới đây.</p>
 <table border="0" cellpadding="10">

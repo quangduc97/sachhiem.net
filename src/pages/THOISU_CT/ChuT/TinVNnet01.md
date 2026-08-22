@@ -3,7 +3,7 @@ layout: ../../../layouts/Article.astro
 title: "Toàn văn Tuyên bố chung Việt Nam - Trung Quốc"
 author: "Tin VietnamNet"
 date: 2015-11-06
-source: "https://sachhiem.net/THOISU_CT/ChuT/TinVNnet.php"
+source: "/THOISU_CT/ChuT/TinVNnet"
 category: "Chính trị"
 lang: vi
 wordCount: 3780

@@ -3,7 +3,7 @@ layout: ../../../layouts/Article.astro
 title: "Qua “Thiên Hạ Đại Thế Luận”, Luận Về Lập Trường Chính Trị Của Nguyễn Trường Tộ"
 author: "Lê Cung 1"
 date: 2020-10-23
-source: "https://sachhiem.net/LICHSU/L/LeCung06.php"
+source: "/LICHSU/L/LeCung06"
 category: "Chính trị"
 lang: vi
 wordCount: 4910

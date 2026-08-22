@@ -3,7 +3,7 @@ layout: ../../layouts/Article.astro
 title: "Đối Thoại Với Giáo Hoàng John Paul II"
 author: "nhiều tác giả"
 date: 2014-08-20
-source: "https://sachhiem.net/DOITHOAI/GiaodiemDT3.php"
+source: "/DOITHOAI/GiaodiemDT3"
 category: "Chính trị"
 lang: vi
 wordCount: 21859

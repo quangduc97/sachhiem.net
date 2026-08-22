@@ -3,15 +3,15 @@ layout: ../../../layouts/Article.astro
 title: "Lại Chuyện Con Cáo Già Va-Thì-Căng"
 author: "Thiên Lôi"
 date: 2012-03-01
-source: "https://sachhiem.net/THLOI/CT/ThienLoi8.php"
+source: "/THLOI/CT/ThienLoi8"
 category: "Chính trị"
 lang: vi
 wordCount: 6140
-image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nha.jpg"
+image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/TONGIAO/IMG/BGGIAO/NhomCongTacHonHop_hopvongIII_Feb2012.jpg"
 ---
 
 <table border="0" cellpadding="0" width="250" align="center"><tbody><tr>
-	<td width="125"><a href="/index"><img border="0" src="https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nha.jpg"></a></td>
+	<td width="125"></td>
     <td valign="top" width="200">01-Mar-2012</td>
 		</tr></tbody></table>
 			<p class="tomluoc"><br>

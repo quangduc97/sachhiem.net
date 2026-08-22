@@ -2,18 +2,17 @@
 layout: ../../layouts/Article.astro
 title: "NGỤY QUÂN TỬ VÕ VĂN ÁI"
 author: "Hoàng Đông Tà"
-source: "https://sachhiem.net/HOANGNN/Hoang09.php"
+source: "/HOANGNN/Hoang09"
 category: "Chính trị"
 lang: vi
 wordCount: 2540
-image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nha.jpg"
+image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/Next3.gif"
 ---
 
 <p class="Tuaduoi">HỒI I: HOÀNG THƯỢNG Ở TRUỒNG</p>
 
  
-<p align="center"><a href="https://www.sachhiem.net/">
-	<img border="0" src="https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nha.jpg"></a> 16  tháng 2, 2008</p>
+<p align="center"> 16  tháng 2, 2008</p>
 	
 
 	  
@@ -245,6 +244,6 @@ Xin mở mắt ra mà nhìn cho rõ cái pháp nạn sư tử trùng! </p>
 <hr width="30%" align="left">
 Các bài viết cùng đề tài
       
-<p><a href="https://sachhiem.net/index.php?content=showrecipe&amp;id=798">Ngụy Quân Tử - Hồi I</a></p>
-<p><a href="https://sachhiem.net/index.php?content=showrecipe&amp;id=799">Ngụy Quân Tử - Hồi II </a> </p>
+<p><a href="/HOANGNN/Hoang09">Ngụy Quân Tử - Hồi I</a></p>
+<p><a href="/HOANGNN/Hoang14">Ngụy Quân Tử - Hồi II </a> </p>
 <p><a href="/TONGIAO/tgH/HgThucAn">Ngày Tàn Cuả Ngụy Quân tử</a></p>

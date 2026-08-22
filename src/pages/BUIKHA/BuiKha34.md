@@ -3,7 +3,7 @@ layout: ../../layouts/Article.astro
 title: "Trao Đổi với anh Hồng Quang – chủ tịch Tổ chức Từ thiện Giao Điểm"
 author: "Nguyễn Văn Hóa thực hiện"
 date: 2021-03-04
-source: "https://sachhiem.net/BUIKHA/BuiKha34.php"
+source: "/BUIKHA/BuiKha34"
 category: "Đối thoại"
 lang: vi
 wordCount: 3328

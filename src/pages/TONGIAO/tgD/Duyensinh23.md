@@ -3,7 +3,7 @@ layout: ../../../layouts/Article.astro
 title: "Alexandre De Rhodes và Bảy Con Dê Tế Thần"
 author: "Duyên Sinh"
 date: 2020-04-02
-source: "https://sachhiem.net/TONGIAO/tgD/Duyensinh23.php"
+source: "/TONGIAO/tgD/Duyensinh23"
 lang: vi
 wordCount: 14052
 image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/SACHNGOAI/Hinhanh/PEOPLE/avro.jpg"

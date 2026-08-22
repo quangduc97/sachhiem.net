@@ -3,7 +3,7 @@ layout: ../../../layouts/Article.astro
 title: "Vatican Ủng Hộ Các Cuộc Không Kích Của Hoa Kỳ Tại Iraq"
 author: "Jean-Louis De La Vaissiere/ Agence France-Presse"
 date: 2014-08-15
-source: "https://sachhiem.net/TONGIAO/NGTRCAM/NguyenTriCam38.php"
+source: "/TONGIAO/NGTRCAM/NguyenTriCam38"
 category: "Tác giả"
 lang: vi
 wordCount: 1092

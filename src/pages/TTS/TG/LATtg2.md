@@ -3,7 +3,7 @@ layout: ../../../layouts/Article.astro
 title: "THÁCH THỨC BÁO LAO ĐỘNG & VNEXPRESS"
 author: "Lê Anh-Tuấn"
 date: 2019-04-01
-source: "https://sachhiem.net/TTS/TG/LATtg2.php"
+source: "/TTS/TG/LATtg2"
 category: "Chính trị"
 lang: vi
 wordCount: 1425

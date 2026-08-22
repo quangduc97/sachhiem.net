@@ -3,7 +3,7 @@ layout: ../../../layouts/Article.astro
 title: "TẮM HỘI SÔNG TRĂNG"
 author: "Trần Trọng Sỹ"
 date: 2021-02-11
-source: "https://sachhiem.net/TTS/VH/TranTrongSy_vh11.php"
+source: "/TTS/VH/TranTrongSy_vh11"
 category: "Văn hóa"
 lang: vi
 wordCount: 6577

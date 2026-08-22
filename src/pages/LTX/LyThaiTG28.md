@@ -3,7 +3,7 @@ layout: ../../layouts/Article.astro
 title: "Linh Mục Alexandre De Rhodes bị trục xuất bao nhiêu lần?"
 author: "Lý Thái Xuân"
 date: 2020-06-28
-source: "https://sachhiem.net/LTX/LythaiTG28.php"
+source: "/LTX/LythaiTG28"
 category: "Tác giả"
 lang: vi
 wordCount: 3280
@@ -33,9 +33,9 @@ image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/LICHSU/IMG/ALEX/LSVu
      <p><b>Lần 7.-</b> Năm 1645 - Một lần, ông định dong thuyền từ khu phủ chúa lên phía Bắc để thăm các  họ đạo vùng Quảng Bình, Quảng Trị, thuyền mang theo đoàn thầy giảng thuận gió  nên tiến nhanh. Nhưng giữa đường, ba chiếc thuyền của chúa Nguyễn trên đường đi  tuần, nghi là thuyền do thám nên liền giữ lại và khám xét. Chúa Thượng  sau khi xem xét sự việc, quyết định <b>tuyên  án tử</b> đối với linh mục Alexandre De Rhodes, và lệnh này, sẽ có hiệu lực  ngay tức thì.&nbsp;</p>
      <p>       Sau khi chúa tuyên án, thì thầy dạy của chúa Nguyễn đã đưa ra lời khuyên  can, chúa nghe lời khuyên của thầy mình, đã rút lại lời tuyên án ấy. Tuy nhiên,  ông yêu cầu Alexandre De Rhodes phải rời  khỏi xứ Đàng Trong ngay lập tức và đặc biệt là không bao giờ được quay trở  lại. Đến sáng hôm sau, quan trấn thủ Quảng Nam cho lính áp giải  Alexandre De Rhodes ra cửa Hội An để xuống tàu người Bồ về Áo Môn. Ngày hôm đó,  nhằm ngày 7/3/1645. </p>
      <p>       Như vậy, có cả đến 7 lần triều đình ra lệnh trục xuất Alexandre  De Rhodes. Hai lần ở Đàng Ngoài do Chúa Trịnh Tráng, và 5 lần ở Đàng Trong do  Chúa Nguyễn Phúc Lan.</p>
-     <p>       Trước  đây, năm 2007 tác giả Thiên Lôi trong bài "<a href="https://sachhiem.net/THLOI/CT/ThienLoi1.php">Vì Sao Đám Dân Chúa Chống Cộng Điên Cuồng,</a>"  có vắn tắt như sau:</p>
+     <p>       Trước  đây, năm 2007 tác giả Thiên Lôi trong bài "<a href="/THLOI/CT/ThienLoi1">Vì Sao Đám Dân Chúa Chống Cộng Điên Cuồng,</a>"  có vắn tắt như sau:</p>
      <p><i>"...Y (Rhodes) tìm cách len lỏi mua chuộc các nhà Chúa (chúa ở đây là chúa Trịnh – Nguyễn, chứ chẳng phải chúa Jesus đâu đấy!) để được hoạt động ở cả 2 đàng trong và ngoài suốt 20 năm; nhưng vẫn bị các Chúa <b>trục xuất đến 6 lần</b>; nhưng lần nào cũng tìm cách quay lại bám trụ dai như đĩa. </i>"</p>
-     <p>Cũng vậy, năm 2009, cũng có bài <i>“Tượng Đài Alexandre De  Rhodes”: Ai Là Người Hô Biến?</i> của tác giả <i>Trần Điều,</i> <a href="https://sachhiem.net/LICHSU/TR/TranDieu.php">(https://sachhiem.net/LICHSU/TR/TranDieu.php)</a>       có đề cập 1 đoạn của tác giả trong nước Hàng  Tình, cho rằng ông Rhodes bị trục xuất 6 lần.</p>
+     <p>Cũng vậy, năm 2009, cũng có bài <i>“Tượng Đài Alexandre De  Rhodes”: Ai Là Người Hô Biến?</i> của tác giả <i>Trần Điều,</i> <a href="/LICHSU/TR/TranDieu">(https://sachhiem.net/LICHSU/TR/TranDieu.php)</a>       có đề cập 1 đoạn của tác giả trong nước Hàng  Tình, cho rằng ông Rhodes bị trục xuất 6 lần.</p>
      <p>“<i>.. Alexandre de Rhodes đã có đến<b> 6 lần bị</b> chính quyền phong kiến Việt Nam,  chúa Nguyễn lẫn chúa Trịnh... trục xuất (nhưng ông vẫn luôn tìm cách để được quay lại). </i>    [báo Tia Sáng, trong bài   <a href="https://www.tiasang.com.vn/Default.aspx?tabid=105&amp;News=2924&amp;CategoryID=34"><i>Một Tượng đài ALEXANDRE DE RHODES, sao không? </i></a> (ngày    22 tháng 7, 2009 không còn đăng nữa) </p>
      <p>Có lẽ, các tác giả không kể lần thứ sáu ở trên, tức lần thứ hai cùng năm 1644: Chúa Nguyễn sau khi xem xét, liền ra lệnh trục xuất vị linh mục một lần nữa.  Nhưng  Alexandre De Rhodes đã kéo dài thời  gian hoạt động của mình ở Đàng Trong, viện cớ phải sửa lại thuyền.</p>
      <p align="center"><img src="https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/LICHSU/IMG/ALEX/ADRhodes3.jpg" width="324" height="235" alt=""></p>

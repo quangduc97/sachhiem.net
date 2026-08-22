@@ -3,7 +3,7 @@ layout: ../../../layouts/Article.astro
 title: "Thông cáo của Phòng Báo Chí Tòa Thánh về vụ ĐHY George Pell"
 author: "Vatican"
 date: 2017-06-30
-source: "https://sachhiem.net/TONGIAO/tgT/TinVatican.php"
+source: "/TONGIAO/tgT/TinVatican"
 category: "Chính trị"
 lang: vi
 wordCount: 949

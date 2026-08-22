@@ -2,11 +2,10 @@
 layout: ../../../layouts/Article.astro
 title: "Phép lạ chẩy dầu ... vẫn tiếp tục ấm ức tại Úc Châu"
 author: "Vũ Viết Khuynh/DĐGD #79"
-source: "https://sachhiem.net/nguồn https://www.tiengnoigiaodan.net/lcht/lcht_020.html"
+source: "/nguồn https://www.tiengnoigiaodan.net/lcht/lcht_020.html"
 category: "Tác giả"
 lang: vi
 wordCount: 4251
-image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nha.jpg"
 ---
 
 <div align="center">
@@ -34,8 +33,7 @@ image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nha.jpg"
 		<div style="padding-left: 40px; padding-right: 40px">
 		<table border="0" cellpadding="10" width="600" cols="2">
 			<tbody><tr>
-				<td width="356"><a href="/index">
-				<img border="0" src="https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nha.jpg"></a></td>
+				<td width="356"></td>
 				<td valign="top">
 				<p>03 tháng 11,  2010</p></td>
 			</tr>

@@ -3,7 +3,7 @@ layout: ../../../layouts/Article.astro
 title: "Hiểu thế nào về chữ đạo và chữ tôn giáo?"
 author: "Trần Quang Diệu vs Trương Minh Sơn"
 date: 2013-05-18
-source: "https://sachhiem.net/LICHSU/TR/TQD27_tms.php"
+source: "/LICHSU/TR/TQD27_tms"
 category: "Lịch sử"
 lang: vi
 wordCount: 2309

@@ -2,7 +2,7 @@
 layout: ../../../layouts/Article.astro
 title: "THƯ THỈNH NGUYỆN"
 author: "Lý Khôi Việt"
-source: "https://sachhiem.net/null"
+source: "/null"
 category: "Tác giả"
 lang: vi
 wordCount: 824

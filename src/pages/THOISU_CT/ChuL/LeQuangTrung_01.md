@@ -3,7 +3,7 @@ layout: ../../../layouts/Article.astro
 title: "Dân Chủ Và Nền Dân Chủ Xã Hội Chủ Nghĩa"
 author: "Lê Quang Trung"
 date: 2014-03-18
-source: "https://sachhiem.net/THOISU_CT/ChuL/LeQuangTrung_01.php"
+source: "/THOISU_CT/ChuL/LeQuangTrung_01"
 category: "Tác giả"
 lang: vi
 wordCount: 6392
@@ -16,8 +16,8 @@ image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/THOISU_CT/Hinh/TRUNG
 	 
  
  <p><i>LTS: Có nhiều vấn đề không dễ giải quyết được chỉ vì những người tham dự chưa hề thông qua một số định nghĩa, hoặc mỗi người có một hiểu biết khác nhau về một từ ngữ. Một khi có những sự hiểu khác nhau về một số từ ngữ,  cuộc tranh luận không bao giờ đi đến kết quả nào cả, vì đó là trạng thái "ông nói gà, bà nói vịt". Ấy là chưa kể đến trạng thái "dị ứng", hay là "kỳ thị ngôn ngữ" khiến cho một bên không muốn nghe một số từ ngữ. Đó là tình trạng chưa tri kỷ mà cũng không chịu tri bỉ, nhưng lúc nào cũng muốn "bách chiến bách thắng!"  Chúng tôi muốn nói đến những người thích tuyên bố "Dân Chủ", và những người có tật ghét cay ghét đắng những từ ngữ "Xã Hội Chủ Nghĩa". Trong tinh thần cởi mở, chúng tôi không ngại đăng lại bài viết sau đây để những bạn đọc có thêm cơ hội tìm hiểu về những từ ngữ khô khan nhưng được nhắc đến nhiều nhất, vì cả hai lý do: ưa và không ưa. (SH) </i></p>
-<p><a href="https://sachhiem.net/THOISU_CT/ChuL/LeQuangTrung.php">Kỳ 1:&nbsp;Sự thật đằng sau cuộc chiến Libya</a></p>
-<p><a href="https://sachhiem.net/THOISU_CT/ChuL/LeQuangTrung_01.php">Kỳ 2:&nbsp;Dân chủ và nền dân chủ xã hội chủ nghĩa</a></p>
+<p><a href="/THOISU_CT/ChuL/LeQuangTrung">Kỳ 1:&nbsp;Sự thật đằng sau cuộc chiến Libya</a></p>
+<p><a href="/THOISU_CT/ChuL/LeQuangTrung_01">Kỳ 2:&nbsp;Dân chủ và nền dân chủ xã hội chủ nghĩa</a></p>
 <p>(Kỳ sau:&nbsp;Tiếp tục về Dân chủ và nền dân chủ xã hội chủ nghĩa)</p>
    <hr>
   <p><span class="First">T</span>ại sao  khác với các bài trước tôi luôn chọn vấn đề kinh tế chính trị để viết thì lần  này tôi lại chọn vấn đề là dân chủ? </p>

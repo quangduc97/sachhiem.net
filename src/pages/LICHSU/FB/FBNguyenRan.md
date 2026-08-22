@@ -3,7 +3,7 @@ layout: ../../../layouts/Article.astro
 title: "Sự Suy Thoái Về Chính Trị Của Ông Vũ Minh Giang Đã Qúa Rõ Ràng"
 author: "Nguyễn Ran"
 date: 2022-06-11
-source: "https://sachhiem.net/LICHSU/FB/FBNguyenRan.php"
+source: "/LICHSU/FB/FBNguyenRan"
 category: "Chính trị"
 lang: vi
 wordCount: 1218

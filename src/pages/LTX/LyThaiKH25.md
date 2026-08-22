@@ -3,7 +3,7 @@ layout: ../../layouts/Article.astro
 title: "Khoa Học Giải Thích Một Số Bí Ẩn Thế Giới"
 author: "By Pauli Poisuo & M. Asher Cantrell"
 date: 2017-05-27
-source: "https://sachhiem.net/LTX/LyThaiKH25.php"
+source: "/LTX/LyThaiKH25"
 category: "Khoa học"
 lang: vi
 wordCount: 2164

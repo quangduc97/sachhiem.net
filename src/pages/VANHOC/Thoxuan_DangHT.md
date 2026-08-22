@@ -3,7 +3,7 @@ layout: ../../layouts/Article.astro
 title: "Những Bài Thơ Xuân Xướng Họa Giữa Hai Danh Sĩ"
 author: "Hưng Thước"
 date: 2014-01-25
-source: "https://sachhiem.net/VANHOC/Thoxuan_DangHT.php"
+source: "/VANHOC/Thoxuan_DangHT"
 category: "Văn hóa"
 lang: vi
 wordCount: 1681

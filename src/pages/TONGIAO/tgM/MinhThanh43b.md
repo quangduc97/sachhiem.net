@@ -3,7 +3,7 @@ layout: ../../../layouts/Article.astro
 title: "[THIỂU SỐ HOÁ?] TS Đ. H. Chỉ Nói Theo TS Quan Chức Các Hệ Phái Phật Giáo Tại Việt Nam"
 author: "Minh Thạnh"
 date: 2024-03-11
-source: "https://sachhiem.net/TONGIAO/tgM/MinhThanh43b.php"
+source: "/TONGIAO/tgM/MinhThanh43b"
 category: "Tác giả"
 lang: vi
 wordCount: 3830

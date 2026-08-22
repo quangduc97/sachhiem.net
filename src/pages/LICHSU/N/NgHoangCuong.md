@@ -3,7 +3,7 @@ layout: ../../../layouts/Article.astro
 title: "Một Vài Kỷ Niệm Với Dân Chúa Ở Việt Nam (*)"
 author: "Nguyễn Hoàng Cương"
 date: 2013-06-04
-source: "https://sachhiem.net/LICHSU/N/NgHoangCuong.php"
+source: "/LICHSU/N/NgHoangCuong"
 category: "Lịch sử"
 lang: vi
 wordCount: 1053
@@ -46,9 +46,9 @@ To: "<a href="mailto:sachhiem@sachhiem.net" target="_blank">sachhiem@sachhiem.ne
 <p>Nhờ SH chuyễn&nbsp;đề nghị của tôi&nbsp;đến&nbsp;tác giả là&nbsp;nên   dùng câu nói của&nbsp; Ngô Đình Diệm : "<em>Tổ của các anh … chứ tổ của tôi   sao?"</em>&nbsp; để làm lời tựa thì nó sẽ có tác dụng rõ nét hơn về một   con chiên&nbsp;tàn ác, vong nô, điên dại, phản quốc, phản dân tộc nầy.&nbsp; </p>
 <p>Cám ơn SH.</p>
 <p class="TacgiaL">Vi Chuẩn </p>
-<p> (xem <a href="https://sachhiem.net/index.php?content=showemail&amp;id=323">https://sachhiem.net/index.php?content=showemail&amp;id=323</a>): </p>
-<p><a name="_edn1" title="" href="/LICHSU/#_ednref1">[1]</a>&nbsp;Loraine Boettner,&nbsp;<i>Roman Catholicism</i>&nbsp;(Phillipsburg, New Jersey: The Presbyterian and Reformed Publishing Company, 1962), tr. 424. Được nhắc lại trong bài <a href="https://sachhiem.net/NMQ/TAMTHU/NMQtt_01.php">"Thiết Lập Bang Giao Với  VATICAN Là Một Trò Chơi Vô Cùng Nguy Hiểm"</a> của GS Nguyễn Mạnh Quang </p>
-<p><a name="edn2" title="" href="/LICHSU/#_ednref2">[2]</a> - <a href="https://sachhiem.net/HOANHLINH/HoanhL_Main.php"> Hoành Linh Đỗ Mậu - VIỆT NAM MÁU LỬA QUÊ HƯƠNG TÔI - Chương XIV: KỲ THỊ TÔN GIÁO</a> :</p>
+<p> (xem <a href="/net/LICHSU/N/NgHoangCuong">https://sachhiem.net/index.php?content=showemail&amp;id=323</a>): </p>
+<p><a name="_edn1" title="" href="/LICHSU/#_ednref1">[1]</a>&nbsp;Loraine Boettner,&nbsp;<i>Roman Catholicism</i>&nbsp;(Phillipsburg, New Jersey: The Presbyterian and Reformed Publishing Company, 1962), tr. 424. Được nhắc lại trong bài <a href="/NMQ/TAMTHU/NMQtt_01">"Thiết Lập Bang Giao Với  VATICAN Là Một Trò Chơi Vô Cùng Nguy Hiểm"</a> của GS Nguyễn Mạnh Quang </p>
+<p><a name="edn2" title="" href="/LICHSU/#_ednref2">[2]</a> - <a href="/HOANHLINH/HoanhL_Main"> Hoành Linh Đỗ Mậu - VIỆT NAM MÁU LỬA QUÊ HƯƠNG TÔI - Chương XIV: KỲ THỊ TÔN GIÁO</a> :</p>
 <p><i>"... Tôi còn nhớ nhà văn Chu Tử có kể lại trong tuần báo&nbsp;Đời&nbsp;ở Sài Gòn câu chuyện của một giáo sư Đại học nặng lòng với Quốc Tổ Hùng Vương, đã đề nghị ông Diệm xây đền thờ Quốc Tổ thì bị ông Diệm trỏ mặt nạt lớn: "<b>Tổ anh chứ Tổ tôi à!</b>" Còn nhà văn Võ Phiến trong tác phẩm "Đất Nước Quê Hương” có cho biết mãi sau khi chế độ Diệm không còn nữa, nhân dân các tỉnh đã hăng say tự động xây đền thờ Quốc Tổ..."</i>&nbsp;</p>
 <p>- <a href="https://www.todinhtudamhaingoai.org/vn/?15659=5&amp;596=21&amp;759=986&amp;59615=4">Huyền thoại về lãnh tụ anh minh Ngô Đình Diệm</a> (Võ Văn Sáu) :</p>
 <p><i>Khi lên làm Tổng Thống, Diệm liền hủy bỏ Ngày Nghỉ Lễ Giỗ Tổ hàng năm, và cấm không cho tổ chức công khai Giỗ Tổ Hùng Vương.</i></p>

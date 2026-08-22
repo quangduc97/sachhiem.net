@@ -3,7 +3,7 @@ layout: ../../../layouts/Article.astro
 title: "Trong Căn Phòng Bí Mật Của Tòa Thánh Vatican"
 author: "Amazon/ Thi Nguyên"
 date: 2019-04-07
-source: "https://sachhiem.net/TONGIAO/FB/FBThiNguyen01.php"
+source: "/TONGIAO/FB/FBThiNguyen01"
 category: "Tác giả"
 lang: vi
 wordCount: 1192

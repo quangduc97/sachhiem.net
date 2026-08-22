@@ -3,7 +3,7 @@ layout: ../../../layouts/Article.astro
 title: "Đừng Nói Câu Đạo Nào Cũng Tốt"
 author: "Nguyễn Hữu Đức"
 date: 2012-09-28
-source: "https://sachhiem.net/TONGIAO/tgN/NgHDuc.php"
+source: "/TONGIAO/tgN/NgHDuc"
 category: "Chính trị"
 lang: vi
 wordCount: 2531
@@ -263,5 +263,5 @@ image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/TONGIAO/IMG/TRUYENDA
       <a href="/tgM/MinhNgoc">Đôi Lời Chia Sẻ Về Vấn Đề Hôn Nhân Khác Tôn
         Giáo (Minh Ngọc)</a><br>
   <a href="/tgM/MinhThanh04">“Lập lờ đánh lận”… ông trời! (Minh Thạnh)</a><br>
-          <a href="https://sachhiem.net/TONGIAO/tgN/NgHDuc.php">Phật Tử Không
+          <a href="/TONGIAO/tgN/NgHDuc">Phật Tử Không
           Bao Giờ Được Nói Câu "Đạo Nào Cũng Tốt" (Nguyễn Hữu Đức)</a></p>

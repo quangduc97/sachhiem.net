@@ -2,7 +2,7 @@
 layout: ../../layouts/Article.astro
 title: "NGUYỄN TRƯỜNG TỘ, TRƯƠNG VĨNH KÝ và A. DE RHODES"
 author: "ÔNG NGUYỄN GIANG thực hiện ngày 22.10.2002"
-source: "https://sachhiem.net/BUIKHA/BuiKha02a_NTT.php"
+source: "/BUIKHA/BuiKha02a_NTT"
 category: "Lịch sử"
 lang: vi
 wordCount: 18952

@@ -2,15 +2,14 @@
 layout: ../../../layouts/Article.astro
 title: "Thiên Hạ Sự:"
 author: "Thiên Lôi"
-source: "https://sachhiem.net/THLOI/CT/ThienLoi6.php"
+source: "/THLOI/CT/ThienLoi6"
 category: "Chính trị"
 lang: vi
 wordCount: 591
-image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nha.jpg"
 ---
 
 <table border="0" cellpadding="0" width="250" align="center"><tbody><tr>
-	<td width="125"><a href="/index"><img border="0" src="https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nha.jpg"></a></td>    <td valign="top" width="200">	<font color="#606060" size="2">26 tháng 6, 2009	</font>
+	<td width="125"></td>    <td valign="top" width="200">	<font color="#606060" size="2">26 tháng 6, 2009	</font>
 	</td></tr></tbody></table>
 		
 		<div style="border-top: 1px solid #949494; border-bottom: 1px solid #949494; padding-top: 5px; padding-bottom: 5px; background-color: #F2F2F2">

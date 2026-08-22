@@ -2,7 +2,7 @@
 layout: ../../../../layouts/Article.astro
 title: "Đức Tin Công Giáo"
 author: "Trần Chung Ngọc"
-source: "https://sachhiem.net/bản electronic do tác giả cung cấp cho sachhiem.net"
+source: "/bản electronic do tác giả cung cấp cho sachhiem.net"
 lang: vi
 wordCount: 5088
 image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nhacu.jpg"
@@ -36,7 +36,7 @@ image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nhacu.jpg"
 	<div style="padding-left: 50px; padding-right: 50px">
 	<table border="0" cellpadding="10" width="80%" cols="2"><tbody><tr>
 	<td valign="top" width="198">
-<a href="https://www.sachhiem.net/">
+<a href="/">
 	<img border="0" src="https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nhacu.jpg" width="49" height="20"></a></td>
 	<td valign="top" style="text-align:right">	đăng ngày 28 tháng 3, 2008
 	</td></tr></tbody></table>
@@ -418,7 +418,7 @@ hoan hỉ đón nhận mọi phê bình đứng đắn và trí thức, cũng nh
 	chủ đề trình bày trong cuốn <i>"Đức Tin Công Giáo"</i> này.</p>
 	
 	<hr>
-		<a href="https://sachhiem.net/TCN/TCNtg/TCNtongiao.php">Các bài về tôn giáo cùng tác giả</a>
+		<a href="/TCN/TCNtg/TCNtongiao">Các bài về tôn giáo cùng tác giả</a>
 
 
 	</div>

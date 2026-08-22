@@ -3,7 +3,7 @@ layout: ../../layouts/Article.astro
 title: "Tại Sao Lại Vuốt Ve Các Giám Mục Khi Các Linh Mục Vi Phạm?"
 author: "Lý Thái Xuân"
 date: 2020-04-10
-source: "https://sachhiem.net/LTX/LythaiTG25.php"
+source: "/LTX/LythaiTG25"
 category: "Tác giả"
 lang: vi
 wordCount: 2394

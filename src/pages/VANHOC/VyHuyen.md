@@ -2,11 +2,10 @@
 layout: ../../layouts/Article.astro
 title: "trong nhạc Trịnh Công Sơn"
 author: "John C. Schafer"
-source: "https://sachhiem.net/nguồn: https://www.talawas.org/talaDB/showFile.php?res=10058&amp;rb=0206"
+source: "/nguồn: https://www.talawas.org/talaDB/showFile.php?res=10058&amp;rb=0206"
 category: "Văn hóa"
 lang: vi
 wordCount: 6669
-image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nha.jpg"
 ---
 
 <div align="center" style="position: relative; left: 0; top: 0">
@@ -32,8 +31,7 @@ image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nha.jpg"
 		<div style="padding-left: 50px; padding-right: 50px">
 			<table border="0" width="600">
 				<tbody><tr>
-					<td><a href="/index">
-					<img border="0" src="https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nha.jpg"></a></td>
+					<td></td>
 					<td valign="top">10 tháng 9, 2008
 	</td></tr>		</tbody></table>
 			

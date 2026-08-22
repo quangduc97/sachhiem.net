@@ -3,7 +3,7 @@ layout: ../../../layouts/Article.astro
 title: "Cái Hèn Của Một Giáo Hoàng"
 author: "M.D."
 date: 2017-12-04
-source: "https://sachhiem.net/TONGIAO/tgM/MiluDau_01.php"
+source: "/TONGIAO/tgM/MiluDau_01"
 category: "Chính trị"
 lang: vi
 wordCount: 642

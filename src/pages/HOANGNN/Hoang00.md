@@ -2,11 +2,11 @@
 layout: ../../layouts/Article.astro
 title: "SUY NGHĨ QUANH HAI BÀI BÁO"
 author: "Hoàng Nguyên Nhuận"
-source: "https://sachhiem.net/HOANGNN/Hoang00.php"
+source: "/HOANGNN/Hoang00"
 category: "Chính trị"
 lang: vi
 wordCount: 5019
-image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nha.jpg"
+image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/HOANGNN/Hinh/ChutichncNMT.jpg"
 ---
 
 <p class="Tuaduoi">NHÂN CHUYẾN CÔNG DU MỸ</p>
@@ -14,8 +14,7 @@ image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nha.jpg"
 
 
  
-<p align="center"><a href="https://www.sachhiem.net/">
-	<img border="0" src="https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nha.jpg"></a>15 tháng 8, 2007
+<p align="center">15 tháng 8, 2007
 </p>
 
 

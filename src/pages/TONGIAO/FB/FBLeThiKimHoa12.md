@@ -3,7 +3,7 @@ layout: ../../../layouts/Article.astro
 title: "Isaac Newton và Niềm Tin vào Chúa"
 author: "Lê thị Kim Hoa sưu tầm"
 date: 2025-06-07
-source: "https://sachhiem.net/TONGIAO/FB/FBLeThiKimHoa12.php"
+source: "/TONGIAO/FB/FBLeThiKimHoa12"
 category: "Tác giả"
 lang: vi
 wordCount: 1066

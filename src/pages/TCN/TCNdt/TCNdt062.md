@@ -3,7 +3,7 @@ layout: ../../../layouts/Article.astro
 title: "Khi Chủ Chiên & Con Chiên Nói Về Khoa Học"
 author: "Trần Chung Ngọc"
 date: 2012-06-07
-source: "https://sachhiem.net/TCN/TCNdt/TCNdt062.php"
+source: "/TCN/TCNdt/TCNdt062"
 category: "Đối thoại"
 lang: vi
 wordCount: 10949
@@ -612,7 +612,7 @@ image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/SACHNGOAI/Hinhanh/BI
       Chu Tất Tiến, chỉ có điều trong quá trình tiến hóa thành Chu Tất Tiến đó
       lại thiếu mất cái gen thuộc về thông minh. Muốn biết thực sự “<i>Thiết
       Kế Thông Minh Hay Ngu Đần</i>” (Intelligent or Stupid Design) xin hãy
-      đọc <a href="https://www.sachhiem.net/TCN/TCNkh/TCNkh12.php">https://www.sachhiem.net/TCN/TCNkh/TCNkh12.php</a>,
+      đọc <a href="/TCN/TCNkh/TCNkh12">https://www.sachhiem.net/TCN/TCNkh/TCNkh12.php</a>,
       đăng ngày&nbsp; 28&nbsp;tháng 8, 2007. &nbsp;</p>
 <p>
       Chúng ta hãy đọc một quan niệm của S. T. Joshi về niềm tin vào cái gọi

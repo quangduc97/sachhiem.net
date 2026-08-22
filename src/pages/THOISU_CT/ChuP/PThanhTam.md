@@ -3,7 +3,7 @@ layout: ../../../layouts/Article.astro
 title: "Nhìn Lại Quãng Thời Gian Qua"
 author: "TP Thanh Tâm"
 date: 2015-07-09
-source: "https://sachhiem.net/THOISU_CT/ChuP/PThanhTam.php"
+source: "/THOISU_CT/ChuP/PThanhTam"
 category: "Chính trị"
 lang: vi
 wordCount: 6327

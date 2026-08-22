@@ -2,7 +2,7 @@
 layout: ../../layouts/Article.astro
 title: "Gậy Ông Đập Lưng Ông"
 author: "Mục Đồng"
-source: "https://sachhiem.net/null"
+source: "/null"
 category: "Chính trị"
 lang: vi
 wordCount: 11275
@@ -37,7 +37,7 @@ image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nhacu.jpg"
 <table border="0" cellpadding="50" cellspacing="0" width="100%" topmargin="10"> 
 	<tbody><tr><td bgcolor="White" align="justify" valign="top">
 		<table border="0" cellpadding="10" width="100%" cols="3"><tbody><tr>
-<td><a href="https://sachhiem.net/"><img border="0" src="https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nhacu.jpg" width="49" height="20"></a></td>
+<td><a href="/"><img border="0" src="https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nhacu.jpg" width="49" height="20"></a></td>
 
 				<td valign="top"><a href="/DOITHOAI/#" onclick="location.href='https://sachhiem.net/BIA/sendafriend.php?url='+location.href;">
 				<img src="https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/DOITHOAI/file:///C:/SACHHIEM/images/mail.gif" border="0"> 
@@ -645,7 +645,7 @@ Gửi bài này cho bạn bè</a></td>
 		chân chính nào (trừ những kẻ đội lốt Phật tử để làm tay cho ngoại bang 
 		hay cho Ki tô giáo) mà không biết điều đó. (xem them bài viết : Phật 
 		Giáo Thiền Chứ Không Ngũ của Trân Chung Ngoc, trong
-		<a style="color: blue; text-decoration: underline; text-underline: single" href="https://sachhiem.net/">https://sachhiem.net</a>, hay phattuvietnam.net hay 
+		<a style="color: blue; text-decoration: underline; text-underline: single" href="/">https://sachhiem.net</a>, hay phattuvietnam.net hay 
 		trungdao.net) </p>
 		<p>
 		&nbsp;Ấy thế mà 
@@ -1013,10 +1013,10 @@ Gửi bài này cho bạn bè</a></td>
 		giao La mã đã có tội với dân tộc Việt Nam biết bao nhiêu từ khi các cha 
 		cố Tây phương đặt chân lên nước ta từ thế ký 16 cho đến nay! Vì vậy 
 		màTiến sĩ Trần Chung Ngọc đã “trân trọng cảm ơn” ngài Ngô Quang Kiệt! 
-		trong bài viết :Thư Ngỏ Gửi Cám Ơn Tổng Giám Mục Ngô Quang Kiệt (<a style="color: blue; text-decoration: underline; text-underline: single" href="https://sachhiem.net/">https://sachhiem.net</a>). Bằng chứng cụ thể của 
+		trong bài viết :Thư Ngỏ Gửi Cám Ơn Tổng Giám Mục Ngô Quang Kiệt (<a style="color: blue; text-decoration: underline; text-underline: single" href="/">https://sachhiem.net</a>). Bằng chứng cụ thể của 
 		việc này là những người Việt Nam tự nhận “không biết gì, ngây thơ lâu 
 		nay” như Gã Học Trò nào đó thì nay đã “sáng ra” mà viết nên bài : Đức Mẹ 
-		Sầu Bi! (<a style="color: blue; text-decoration: underline; text-underline: single" href="https://sachhiem.net/">https://sachhiem.net</a>).</p>
+		Sầu Bi! (<a style="color: blue; text-decoration: underline; text-underline: single" href="/">https://sachhiem.net</a>).</p>
 		
 		<p>
 		&nbsp;Vấn đề ở chỗ 

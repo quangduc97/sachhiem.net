@@ -2,11 +2,11 @@
 layout: ../../../layouts/Article.astro
 title: "Thế Giới Hồi Giáo Xưa và Nay"
 author: "Charlie Nguyễn"
-source: "https://sachhiem.net/null"
+source: "/null"
 category: "Tác giả"
 lang: vi
 wordCount: 2908
-image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nha.jpg"
+image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/print.gif"
 ---
 
 <div align="center" style="position: relative; left: 0; top: 0">
@@ -32,8 +32,7 @@ image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nha.jpg"
 	<tbody><tr><td bgcolor="White" align="justify" valign="top">
 	 
 					<table border="0" cellpadding="0" width="600" cols="2" align="center" id="table1"><tbody><tr>
-<td width="160"><a target="_top" href="/index">
-<img border="0" src="https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nha.jpg" width="40" height="32"></a></td>	 
+<td width="160"></td>	 
 <td width="160"><a target="_top" href="/CHARLIE/taiAuMy"><img border="0" src="https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/print.gif" width="18" height="18"></a>bản in</td>
 <td valign="top">	<b><font face="Symbol" size="5"><a target="_top" href="/CHARLIE/CN_TGHGdir">¿</a></font></b> trở ra mục lục
 	</td></tr></tbody></table>

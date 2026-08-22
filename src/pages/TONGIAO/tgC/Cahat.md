@@ -2,15 +2,14 @@
 layout: ../../../layouts/Article.astro
 title: "Về Bài Viết \"Đâu Là Chọn Lựa\""
 author: "Ca Hát"
-source: "https://sachhiem.net/TONGIAO/tgC/Cahat.php"
+source: "/TONGIAO/tgC/Cahat"
 category: "Tác giả"
 lang: vi
 wordCount: 3791
-image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nha.jpg"
 ---
 
 <table border="0" width="250" align="center">
-    <tbody><tr><td width="100"><a href="https://sachhiem.net/index.php"><img border="0" src="https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nha.jpg"></a>    </td>   
+    <tbody><tr><td width="100">    </td>   
     	<td>3 tháng 2, 2009
 	</td></tr></tbody></table>
 

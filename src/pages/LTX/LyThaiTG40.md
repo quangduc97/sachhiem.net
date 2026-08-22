@@ -3,7 +3,7 @@ layout: ../../layouts/Article.astro
 title: "Lịch sử 100 Năm Quan Hệ Ngoại Giao Với Vatican"
 author: "Lý Thái Xuân"
 date: 2023-08-02
-source: "https://sachhiem.net/LTX/LythaiTG40.php"
+source: "/LTX/LythaiTG40"
 category: "Chính trị"
 lang: vi
 wordCount: 2117

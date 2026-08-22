@@ -3,7 +3,7 @@ layout: ../../../layouts/Article.astro
 title: "Phim Tài Liệu Mới Của Ken Burns - Cảm Xúc Đằng Sau Chiến Tranh Việt Nam"
 author: "Ryan Bort /Newsweek"
 date: 2017-09-03
-source: "https://sachhiem.net/SACHNGOAI/SH/SH12_VNwar.php"
+source: "/SACHNGOAI/SH/SH12_VNwar"
 category: "Lịch sử"
 lang: vi
 wordCount: 2701
@@ -35,8 +35,8 @@ image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/LICHSU/TONY/Tannhan/
 <p align="center">Ảnh <a href="https://www.yahoo.com/news/ken-burns-apos-documentary-exposes-160002598.html">trong phim</a></p>
 <p>______________</p>
 <p><b>Bài đọc thêm:</b></p>
-<p>- <a href="https://sachhiem.net/SACHNGOAI/SH/SH15_Vietnamwar.php">Tại Sao Không Thể Thắng Được Chiến Tranh Việt Nam?</a> Kevin Boylan / NewYork Times  </p>
-<p>- <a href="https://sachhiem.net/LICHSU/P/Phim_VietnamWar.php ">Bộ Phim “Chiến Tranh Việt Nam” Của Ken Burns Và Lynn Novick Sẽ Được Truyền Trực Tuyến Ở Việt Nam - Phim có phụ đề tiếng Việt</a>- pressroom.pbs.org</p>
+<p>- <a href="/SACHNGOAI/SH/SH15_Vietnamwar">Tại Sao Không Thể Thắng Được Chiến Tranh Việt Nam?</a> Kevin Boylan / NewYork Times  </p>
+<p>- <a href="/LICHSU/P/Phim_VietnamWar">Bộ Phim “Chiến Tranh Việt Nam” Của Ken Burns Và Lynn Novick Sẽ Được Truyền Trực Tuyến Ở Việt Nam - Phim có phụ đề tiếng Việt</a>- pressroom.pbs.org</p>
 
 <hr>
 	<p class="Tuaduoi">Ken Burns' New Documentary Exposes the Emotion Behind the Vietnam War</p>

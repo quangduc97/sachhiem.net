@@ -2,10 +2,10 @@
 layout: ../../../layouts/Article.astro
 title: "XUNG QUANH CHUYỆN CHÚA CHẾT"
 author: "Trần Chung Ngọc"
-source: "https://sachhiem.net/null"
+source: "/null"
 lang: vi
 wordCount: 9127
-image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nha.jpg"
+image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/TONGIAO/IMG/lamb.gif"
 ---
 
 <div align="center" style="position: relative; left: 0; top: 0">
@@ -32,7 +32,7 @@ image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nha.jpg"
 <tbody><tr><td bgcolor="White" align="justify" valign="top">
 <blockquote><table border="0" cellpadding="10" width="600" cols="2">
 <tbody><tr><td valign="top">
-<a href="/index"><img border="0" src="https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nha.jpg"></a></td>
+</td>
 	<td valign="top" style="text-align:right"><i><font size="2">18 tháng 3, 2008 </font>	</i></td></tr></tbody></table>
 <p class="center"><img border="0" src="https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/TONGIAO/IMG/lamb.gif" width="182" height="200"></p>
 <p> <font face="Times New Roman" size="5"><b>T</b></font>rong thế giới của Ki-Tô Giáo, ngày Thứ Sáu Tốt Đẹp (Good Friday) là ngày 

@@ -3,7 +3,7 @@ layout: ../../../layouts/Article.astro
 title: "Nhật Ký Biển Đông:"
 author: "Đào Văn Bình"
 date: 2014-05-18
-source: "https://sachhiem.net/DAOVB/CT/DaovBinh14.php"
+source: "/DAOVB/CT/DaovBinh14"
 category: "Chính trị"
 lang: vi
 wordCount: 5733
@@ -79,4 +79,4 @@ image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/THOISU_CT/Hinh/Quanh
  <p class="TacgiaR">Đào Văn Bình  </p>
  <p align="right"><i>(California ngày 18/5/2014)</i></p>
   <p>____________________</p>
-   <p><a href="https://sachhiem.net/LICHSU/H/HoangSa_list.php">Các bài về Hoàng Sa- Trường Sa đăng trên sachhiem.net » </a></p>
+   <p><a href="/LICHSU/H/HoangSa_list">Các bài về Hoàng Sa- Trường Sa đăng trên sachhiem.net » </a></p>

@@ -3,7 +3,7 @@ layout: ../../../layouts/Article.astro
 title: "VĂN HỌC - ĐƠN TỐ GIÁC SỰ VU KHỐNG"
 author: "Đông La"
 date: 2025-03-03
-source: "https://sachhiem.net/LICHSU/D/DongLa_08.php"
+source: "/LICHSU/D/DongLa_08"
 category: "Văn hóa"
 lang: vi
 wordCount: 2599

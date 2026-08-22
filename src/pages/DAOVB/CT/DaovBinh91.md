@@ -3,7 +3,7 @@ layout: ../../../layouts/Article.astro
 title: "Nhật Ký Biển Đông: Ô. Trump Sẽ Trụ Ở Biển Đông"
 author: "Đào Văn Bình"
 date: 2017-07-15
-source: "https://sachhiem.net/DAOVB/CT/DaovBinh91.php"
+source: "/DAOVB/CT/DaovBinh91"
 category: "Chính trị"
 lang: vi
 wordCount: 3772

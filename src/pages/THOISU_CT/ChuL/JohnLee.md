@@ -3,16 +3,16 @@ layout: ../../../layouts/Article.astro
 title: "Không Thể Bóp Méo Sự Thật !"
 author: "John Lee/ KBCHN"
 date: 2013-09-18
-source: "https://sachhiem.net/value"
+source: "/value"
 category: "Chính trị"
 lang: vi
 wordCount: 4032
-image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nha.jpg"
+image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/LICHSU/TONY/Tannhan/ngayay_6.jpg"
 ---
 
 <table border="0" cellpadding="0" width="250" align="center">
             <tbody><tr>
-              <td width="125"><a href="/index"><img border="0" src="https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nha.jpg"></a></td>
+              <td width="125"></td>
               <td valign="middle">18-Sep-2013</td>
             </tr>
           </tbody></table>

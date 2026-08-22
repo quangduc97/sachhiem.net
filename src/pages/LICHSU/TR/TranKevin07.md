@@ -3,7 +3,7 @@ layout: ../../../layouts/Article.astro
 title: "Nhận Định Về Ông Ngô Đình Diệm"
 author: "Lê Xuân Khoa/ Kevin Trần trích lược"
 date: 2017-11-03
-source: "https://sachhiem.net/LICHSU/TR/TranKevin07.php"
+source: "/LICHSU/TR/TranKevin07"
 category: "Chính trị"
 lang: vi
 wordCount: 5232

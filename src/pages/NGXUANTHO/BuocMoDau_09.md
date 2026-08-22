@@ -3,18 +3,16 @@ layout: ../../layouts/Article.astro
 title: "Bước Mở Đầu Của Sự Thiết Lập Hệ Thống Thuộc Địa Pháp Ở Việt Nam"
 author: "TS Nguyễn Xuân Thọ"
 date: 2023-02-13
-source: "https://sachhiem.net/NGXUANTHO/BuocMoDau_09.php"
+source: "/NGXUANTHO/BuocMoDau_09"
 category: "Lịch sử"
 lang: vi
 wordCount: 19477
-image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nha.jpg"
 ---
 
 <p class="Tuaduoi"> <b>Sự Kiện J. Dupuis</b></p>
 
 
-  <p align="center"><a href="https://www.sachhiem.net/">
-<img border="0" src="https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nha.jpg"></a>| <a target="_blank" href="https://sachhiem.net/NGXUANTHO/BuocMoDau_Main.php"><span lang="en-us"><b><font face="Symbol">¿</font></b></span> trở ra mục lục</a>| 13-Feb-2023</p> 
+  <p align="center">| <a target="_blank" href="/NGXUANTHO/BuocMoDau_Main"><span lang="en-us"><b><font face="Symbol">¿</font></b></span> trở ra mục lục</a>| 13-Feb-2023</p> 
 <p class="TuaDoLeft"><b>Chương 8 - Sự Kiện J. Dupuis Và Những Cuộc Viễn Chinh Bắc Kỳ Của Pháp </b></p>
 <p>Sự chiếm đóng của Pháp trải qua một thời kỳ tương đối ổn định. Các Đô đốc - cầm quyền lo tổ chức tại Nam Kỳ việc cai trị các tỉnh vừa chiếm được.</p>
 <p>Nhưng chẳng còn gì nữa để giải quyết mối quan hệ giữa chánh phủ Pháp và chánh phủ Việt Nam. Hiệp ước 1862 mà người Pháp lâu nay vẫn căn cứ và vẫn nhìn nhận giá trị của nó khi Hiệp ước Aubaret bị xóa bỏ, thực tế đã mất hiệu lực vì sự chiếm đóng sáu tỉnh Nam kỳ, vi phạm các điều khoản của hiệp ước này và tước bỏ hết giá trị của nó. Ngay sau hành động bạo lực đó, chánh phủ Pháp tìm cách thuyết phục chánh phủ Việt Nam ký một hiệp ước khác để chứng nhận sự việc đã rồi…</p>

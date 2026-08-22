@@ -3,7 +3,7 @@ layout: ../../../layouts/Article.astro
 title: "Nhật Ký Biển Đông: “Chiến Tranh Lạnh Mới” Đã Mở Màn"
 author: "Đào Văn Bình"
 date: 2018-04-02
-source: "https://sachhiem.net/DAOVB/CT/DaovBinh108.php"
+source: "/DAOVB/CT/DaovBinh108"
 category: "Chính trị"
 lang: vi
 wordCount: 7126

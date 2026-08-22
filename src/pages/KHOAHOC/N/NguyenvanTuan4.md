@@ -1,7 +1,7 @@
 ---
 layout: ../../../layouts/Article.astro
 title: "Bưởi không gây ung thư vú (Nguyễn văn Tuấn)"
-source: "https://sachhiem.net/null"
+source: "/null"
 category: "Khoa học"
 lang: vi
 wordCount: 3735

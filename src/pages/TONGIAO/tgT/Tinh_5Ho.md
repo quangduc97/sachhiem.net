@@ -3,7 +3,7 @@ layout: ../../../layouts/Article.astro
 title: "Khái Niệm Thượng Đế và Khái Niệm Phật Tánh (*)"
 author: "Tịnh Tĩnh Tỉnh"
 date: 2013-07-07
-source: "https://sachhiem.net/TONGIAO/tgT/Tinh_5Ho.php"
+source: "/TONGIAO/tgT/Tinh_5Ho"
 category: "Tác giả"
 lang: vi
 wordCount: 1943
@@ -39,7 +39,7 @@ dù điều đó đã  được lưu truyền từ xưa đến nay ... </p>
 đã chiêm nghiệm, đã thực hành, và <br>
 thấy rằng điều đó đem lại lợi  ích cho bản thân và mọi người”.</p>
 <p><span class="green">5. </span><b>TCG:</b> Thượng Đế có quyền <b>ban phước,  giáng họa</b> xuống thế gian và muôn loài, có &nbsp;quyền  định đoạt số phận của mỗi chúng sinh, mọi hành hoạt trong ngoài của mọi   sự vật.  Đời sống con người được sự lành hay chịu sự dữ, cả thảy đều tùy vào sự định đoạt của  Thượng Đế.</p>
-<p><b>PG:</b> Phật Tánh tuyệt đối thuần an lặng. <b>Họa hay  phước đều do chính từng cá thể tạo ra</b> &nbsp;cho  riêng mình, làm lành gặp lành, làm ác gặp ác, và có thể tự chuyển đổi số phận của chính mình  cho tốt hơn bằng cách gieo nhiều nhân lành. <a href="https://sachhiem.net/VANHOC/N/NTPhuc.php">(SH -   Xin đọc thêm ý kiến về quan niệm này trong bài Thiên Cơ, Nhân Quả và Số Mệnh</a> của Nguyễn Thị Phúc)</p>
+<p><b>PG:</b> Phật Tánh tuyệt đối thuần an lặng. <b>Họa hay  phước đều do chính từng cá thể tạo ra</b> &nbsp;cho  riêng mình, làm lành gặp lành, làm ác gặp ác, và có thể tự chuyển đổi số phận của chính mình  cho tốt hơn bằng cách gieo nhiều nhân lành. <a href="/VANHOC/N/NTPhuc">(SH -   Xin đọc thêm ý kiến về quan niệm này trong bài Thiên Cơ, Nhân Quả và Số Mệnh</a> của Nguyễn Thị Phúc)</p>
 <p><span class="green">6. </span> <b>TCG:</b> Thượng Đế tạo ra thủy tổ của loài  người là Adam và Eva. </p>
 <p><b>PG:</b> Phật Giáo không nói tới chuyện "thủy tổ"  của loài người. Trong Phật Giáo, mọi sự  vận hành trong vũ trụ, kể cả vũ  trụ, không có khởi đầu và không có kết thúc, vô &nbsp;&nbsp; &nbsp;thủy, vô chung, con người và muôn vật chịu sự  chi phối bởi Lý Nhân Quả, Luân Hồi,  Lý Duyên Sanh, Duyên Diệt, Lý Vô  Thường ... muôn vật, muôn loài đều phải trải qua  tiến trình Sinh Trụ Hoại Diệt,  Thành Trụ Hoại Không, Sinh Lão Bệnh Tử.</p>
 <p><span class="green">7. </span> <b>TCG:</b> Thượng Đế tạo ra loài vật để làm của  ăn cho con người.</p>

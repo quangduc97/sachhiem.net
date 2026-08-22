@@ -3,7 +3,7 @@ layout: ../../../layouts/Article.astro
 title: "25 LÝ DO VÌ SAO TÔI KHÔNG BẦU CHO ỨNG VIÊN DONALD TRUMP"
 author: "Trần Kevin"
 date: 2020-11-23
-source: "https://sachhiem.net/THOISU_CT/ChuTr/TranKevin_ts4.php"
+source: "/THOISU_CT/ChuTr/TranKevin_ts4"
 category: "Chính trị"
 lang: vi
 wordCount: 1817

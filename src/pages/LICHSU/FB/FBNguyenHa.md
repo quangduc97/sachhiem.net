@@ -3,7 +3,7 @@ layout: ../../../layouts/Article.astro
 title: "Tư Duy Sâu Và Xa Hơn Về Hệ Luỵ Của \"Nỗi Buồn Chiến Tranh\""
 author: "Nguyên Hà- Đại tá, PGS,TS Triết học"
 date: 2026-01-07
-source: "https://sachhiem.net/LICHSU/FB/FBNguyenHa.php"
+source: "/LICHSU/FB/FBNguyenHa"
 category: "Lịch sử"
 lang: vi
 wordCount: 2358

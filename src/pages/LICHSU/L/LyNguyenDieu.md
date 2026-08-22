@@ -2,14 +2,14 @@
 layout: ../../../layouts/Article.astro
 title: "TRƯỜNG HỢP NGÔ ĐÌNH DIỆM"
 author: "Lý Nguyên Diệu"
-source: "https://sachhiem.net/LICHSU/L/LyNguyenDieu.php"
+source: "/LICHSU/L/LyNguyenDieu"
 category: "Lịch sử"
 lang: vi
 wordCount: 5092
-image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nha.jpg"
+image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/LICHSU/IMG/NGODD/NDD_US.jpg"
 ---
 
-<p align="center"><a href="/index"> <img hspace="20" border="0" src="https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nha.jpg"> </a> 23 tháng 11, 2010</p>
+<p align="center"> 23 tháng 11, 2010</p>
 <p><span class="First">C</span>uộc chiến Việt Nam từ 1954 đến 1975 đã chia các tác giả Mỹ viết sách chính trị và/hoặc lịch sử ra làm hai phe: Chống đối và Ủng hộ việc Mỹ tham chiến tại Việt Nam, mà họ mệnh danh là phái “chính thống” (<i>orthodox</i>) thì chống đối và phái “xét lại” (<i>revisionist</i>) thì ủng hộ. Một cách tổng quát, phái Chính thống gồm những tác giả như <b>N. Chomsky, D. Halberstam, F. Fitzgerald, W. Fishel</b> với quan điểm nước Mỹ đã sai lầm khi can thiệp vào Việt Nam là một “đồng minh” bất lực. Phái Xét lại gồm những tác giả như <b>E. Hammer, N. Podhoretz, M. Moyar</b> thì chủ trương ngược lại. Điều đáng chú ý là những tác giả thuộc Chính thống lại gồm rất nhiều người trong quá khứ đã từng ủng hộ ông Ngô Đình Diệm như <b>J. Buttinger, M. Mansfield, D. Anderson</b> và ngay cả Hồng Y <b>Spellman</b> nhưng sau đó thì hoàn toàn thất vọng, thậm chí còn chống đối lại ông Diệm và chế độ của ông ta. </p>
 
 <p>Cho độc giả người Việt, những tác giả thuộc phái Xét lại thường phạm những lỗi lầm căn bản về văn hoá Việt Nam làm cho không còn tin tưởng để đọc tiếp. Lấy thí dụ của hai trường hợp tiêu biểu: </p>

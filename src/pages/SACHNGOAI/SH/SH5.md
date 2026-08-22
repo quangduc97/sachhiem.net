@@ -3,7 +3,7 @@ layout: ../../../layouts/Article.astro
 title: "ISIS Giết Hàng Chục Kitô Hữu"
 author: "By Conor Gaffey/ europe.newsweek.com"
 date: 2016-04-11
-source: "https://sachhiem.net/SACHNGOAI/SH/SH5.php"
+source: "/SACHNGOAI/SH/SH5"
 category: "Chính trị"
 lang: vi
 wordCount: 1105

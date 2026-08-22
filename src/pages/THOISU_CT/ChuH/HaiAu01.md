@@ -3,15 +3,14 @@ layout: ../../../layouts/Article.astro
 title: "Bàn Tay Lông Lá Hoa Kỳ với Các Cuộc Thay Đổi Thể Chế ở Châu Mỹ Latinh"
 author: "Trần Hải Âu"
 date: 2019-02-03
-source: "https://sachhiem.net/THOISU_CT/ChuH/HaiAu01.php"
+source: "/THOISU_CT/ChuH/HaiAu01"
 category: "Chính trị"
 lang: vi
 wordCount: 5344
-image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nha.jpg"
+image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/THOISU_CT/Hinh/VENEZUELA/2presidents.JPG"
 ---
 
-<p align="center"><a href="https://www.sachhiem.net/">
-<img border="0" src="https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nha.jpg"></a> 
+<p align="center"> 
 ngày 03-Feb-2019</p>
  <div class="tomluoc">
    <p> <i>Gương của các nước Trung Nam Mỹ châu vẫn chưa là bài học ư? Không theo Mỹ, theo chúa thì bị gán là cộng sản vô thần, là satan quỉ dữ. Các nước này đã theo Mỹ theo chúa, học thuộc bộ kinh “nhân quyền, dân chủ, đa đảng” bao lâu rồi mà vẫn đói nghèo bất an mãi? Lỗi tại ai? (THA)</i></p>

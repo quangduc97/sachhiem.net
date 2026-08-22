@@ -3,7 +3,7 @@ layout: ../../../layouts/Article.astro
 title: "[VATICANOLOGY] Đến Ngô Đình Thục Mà Báo Chí Trong Nước"
 author: "Minh Thạnh"
 date: 2024-03-11
-source: "https://sachhiem.net/TONGIAO/tgM/MinhThanh33ab.php"
+source: "/TONGIAO/tgM/MinhThanh33ab"
 category: "Chính trị"
 lang: vi
 wordCount: 3643

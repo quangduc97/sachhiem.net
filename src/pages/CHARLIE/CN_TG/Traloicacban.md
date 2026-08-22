@@ -2,14 +2,13 @@
 layout: ../../../layouts/Article.astro
 title: "Các Thư với Thánh Gia"
 author: "Charlie Nguyễn"
-source: "https://sachhiem.net/CHARLIE/CN_TG/Traloicacban.php"
+source: "/CHARLIE/CN_TG/Traloicacban"
 category: "Tác giả"
 lang: vi
 wordCount: 1808
-image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nha.jpg"
 ---
 
-<p align="center"><a href="https://www.sachhiem.net/"> <img border="0" src="https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nha.jpg"></a> 23 August 2003</p>
+<p align="center"> 23 August 2003</p>
           <p class="TuaDenLeft">Trả Lời của Charlie Nguyễn </p>
           <p>Tôi,  		Bùi Văn Chấn, tức  		Charlie Nguyễn, nguyên  		chủng sinh Thánh Gia  		(trường đầu đời của các  		linh mục Bùi Chu), xin  		trả lời một số đồng môn  		TG có tên trong bài viết  		dưới đây, được đưa lên  		webpage của tập đoàn  		Thánh Gia (<a style="color: blue; text-decoration: underline; text-underline: single" href="https://www.angelfire.com/rnb/thanhgia">www.angelfire.com/rnb/thanhgia</a>) :</p>
           
@@ -102,4 +101,4 @@ image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nha.jpg"
 <p><a href="/CHARLIE/Traloicacban">Charlie Trả Lời Các Bạn </a></p>
 <p><a href="/CHARLIE/quandiemdoinghich">Hai Lá Thư Úc Châu </a></p>
 <p><a href="/CHARLIE/Vinhbiet">Vĩnh Biệt Thánh Gia </a></p>
-<p class="trang"><a href="https://sachhiem.net/CHARLIE/CNdir.php"><i>Trang Charlie Nguyễn</i></a></p>
+<p class="trang"><a href="/CHARLIE/CNdir"><i>Trang Charlie Nguyễn</i></a></p>

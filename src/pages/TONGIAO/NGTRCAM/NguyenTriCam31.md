@@ -3,7 +3,7 @@ layout: ../../../layouts/Article.astro
 title: "Những Mâu Thuẫn Trong Kinh Thánh Tân Ước"
 author: "Nguyễn Trí Cảm"
 date: 2013-09-17
-source: "https://sachhiem.net/TONGIAO/NGTRCAM/NguyenTriCam31.php"
+source: "/TONGIAO/NGTRCAM/NguyenTriCam31"
 category: "Tác giả"
 lang: vi
 wordCount: 1564
@@ -127,4 +127,4 @@ image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/TONGIAO/IMG/BIBLE/Bi
 
 (FB Thi Nguyên) 
 
-     <a href="https://sachhiem.net/TONGIAO/FB/FBThiNguyen_Mauthuan.php">https://sachhiem.net/TONGIAO/FB/FBThiNguyen_Mauthuan.php</a></p>
+     <a href="/TONGIAO/FB/FBThiNguyen_Mauthuan">https://sachhiem.net/TONGIAO/FB/FBThiNguyen_Mauthuan.php</a></p>

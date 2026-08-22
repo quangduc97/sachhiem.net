@@ -2,11 +2,10 @@
 layout: ../../layouts/Article.astro
 title: "THƯ NGỎ kính gửi"
 author: "Giới Tử"
-source: "https://sachhiem.net/HOANGNN/Hoang00_1.php"
+source: "/HOANGNN/Hoang00_1"
 category: "Chính trị"
 lang: vi
 wordCount: 12673
-image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nha.jpg"
 ---
 
 <p class="Tuaduoi">Nhân chuyến viếng thăm Vatican 
@@ -16,8 +15,7 @@ image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nha.jpg"
 
 </center>
  
-<p align="center"><a href="https://www.sachhiem.net/">
-	<img border="0" src="https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nha.jpg"></a>	đăng ngày 17&nbsp; tháng 8, 2007
+<p align="center">	đăng ngày 17&nbsp; tháng 8, 2007
 </p>
 <p>&nbsp;Các mục trong tập này:&nbsp;
 <a href="/HOANGNN/#Thuangai">1

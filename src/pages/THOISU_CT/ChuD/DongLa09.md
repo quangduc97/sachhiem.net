@@ -3,7 +3,7 @@ layout: ../../../layouts/Article.astro
 title: "Quanh Chuyện TBT, CTN Tô Lâm Trả Lời Phỏng Vấn Ở Mỹ"
 author: "Đông La"
 date: 2024-09-30
-source: "https://sachhiem.net/THOISU_CT/ChuD/DongLa09.php"
+source: "/THOISU_CT/ChuD/DongLa09"
 category: "Chính trị"
 lang: vi
 wordCount: 5119

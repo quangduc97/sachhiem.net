@@ -3,7 +3,7 @@ layout: ../../../layouts/Article.astro
 title: "Ni Cô Mặc Quân Phục ! Vậy Thì Sao ?"
 author: "Trần Chung Ngọc"
 date: 2013-08-15
-source: "https://sachhiem.net/TCN/TCNtg/TCN150_nico.php"
+source: "/TCN/TCNtg/TCN150_nico"
 lang: vi
 wordCount: 3822
 image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/TONGIAO/IMG/SU/nico_quanphuc.jpg"

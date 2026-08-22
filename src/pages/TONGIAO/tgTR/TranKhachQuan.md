@@ -3,7 +3,7 @@ layout: ../../../layouts/Article.astro
 title: "Suy Gẫm Về Bài Giảng Của Đức Cha Nguyễn Thái Hợp"
 author: "Trần Khách Quan"
 date: 2017-05-11
-source: "https://sachhiem.net/TONGIAO/tgTR/TranKhachQuan.php"
+source: "/TONGIAO/tgTR/TranKhachQuan"
 category: "Chính trị"
 lang: vi
 wordCount: 1644

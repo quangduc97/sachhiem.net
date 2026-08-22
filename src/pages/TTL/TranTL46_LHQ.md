@@ -3,7 +3,7 @@ layout: ../../layouts/Article.astro
 title: "Nếu Không Tin Liên Hiệp Quốc Thì Còn Tin Ai?"
 author: "Trần Tiên Long"
 date: 2014-02-15
-source: "https://sachhiem.net/TTL/TranTL46_LHQ.php"
+source: "/TTL/TranTL46_LHQ"
 category: "Lịch sử"
 lang: vi
 wordCount: 1646
@@ -59,7 +59,7 @@ Date:  Sun, February 09, 2014 9:30 am</i></p>
 <p>► &nbsp;&nbsp; Bản tường trình của Liên Hiệp Quốc là để trả lời  cho bản điều tra do Giáo hội Công giáo đã giao nạp cho Liên Hiệp Quốc trễ 14  năm trời. </p>
 <p>► &nbsp;&nbsp; Tỷ lệ phạm tội ấu dâm trong Hội Thánh Công giáo  thì quá cao, không phải bình thường như bất cứ các tổ chức hoặc giáo hội nào  khác. </p>
 <p>► &nbsp;&nbsp; Hội thánh Công giáo hiện nay vẫn còn duy trì sắc  luật nghiêm cấm các chủ chăn như linh mục, đức ông, giám mục, hồng y… của họ  tiết lộ những tin tức vi phạm ấu dâm trong Giáo hội Công giáo. Hình phạt cho  những ai vi phạm điều ngăn cấm này là rút phép thông công, một hình phạt nghiêm  trọng nhất, bảo đảm khi chết sẽ vào địa ngục đời đời kiếp kiếp. </p>
-<p>► &nbsp;&nbsp; Mới vài tháng trước, Vatican cũng đã kết thúc  một cuộc điều tra về những vụ rò ri Vatican (Vatileaks).&nbsp;Các báo chí ở Ý cho rằng bản tường trình  kết quả cuộc điều tra đã tìm thấy chứng cớ đầy đủ về một tổ chức tham nhũng,  làm tiền và giao cấu đồng tính, và bản tường trình đã đưa đến việc Giáo Hoàng  Benedict 16 quyết định thoái vị như đã loan báo. Nhưng bản tường trình kết quả  cuộc điều tra này đã được Vatican giữ kín, không dám cho công bố trước công  luận, đó là một sự kiện. Nguồn:&nbsp;<a href="https://sachhiem.net/TTL/TranTL40.php" target="_blank">https://sachhiem.net/TTL/TranTL40.php</a> </p>
+<p>► &nbsp;&nbsp; Mới vài tháng trước, Vatican cũng đã kết thúc  một cuộc điều tra về những vụ rò ri Vatican (Vatileaks).&nbsp;Các báo chí ở Ý cho rằng bản tường trình  kết quả cuộc điều tra đã tìm thấy chứng cớ đầy đủ về một tổ chức tham nhũng,  làm tiền và giao cấu đồng tính, và bản tường trình đã đưa đến việc Giáo Hoàng  Benedict 16 quyết định thoái vị như đã loan báo. Nhưng bản tường trình kết quả  cuộc điều tra này đã được Vatican giữ kín, không dám cho công bố trước công  luận, đó là một sự kiện. Nguồn:&nbsp;<a href="/TTL/TranTL40" target="_blank">https://sachhiem.net/TTL/TranTL40.php</a> </p>
 <p>
   Tóm lại, nếu chúng ta  không thể tin tưởng Liên Hiệp Quốc thì còn ai chúng ta có thể tin tưởng hơn? Sự  dữ chỉ có thể xảy ra khi những người biết sự dữ can tâm giữ im lặng, không dám  lên tiếng vì quyền lợi của họ. Họ lo bảo vệ tôn giáo của họ hơn cả việc bảo vệ  chân lý, sự thật. Nhưng chỉ có sự thật mới giải thoát chúng ta. </p>
 <p>

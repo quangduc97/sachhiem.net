@@ -3,7 +3,7 @@ layout: ../../../layouts/Article.astro
 title: "Sự Thật Về Thượng Tọa Thích Trí Quang"
 author: "Đào Văn Bình"
 date: 2013-05-10
-source: "https://sachhiem.net/DAOVB/CT/DaovBinh05.php"
+source: "/DAOVB/CT/DaovBinh05"
 category: "Lịch sử"
 lang: vi
 wordCount: 5673
@@ -77,7 +77,7 @@ image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/LICHSU/IMG/NHANVAT/T
 	and they study old objects. All of these things are like pieces of a puzzle. 
 	History writers gather as much information as they can find. Then they try 
 	to fit all these pieces toghether into a story."  [Ruth Pelz, Our Region: The Pacific Northwest (Salt Lake City, Utah: Peregrine Smith Inc., 1987), p 128]</p>
-<p> (xem <a href="https://sachhiem.net/NMQ/TUYENGON/TuyenNgon03.php#VIII">https://sachhiem.net/NMQ/TUYENGON/TuyenNgon03.php#VIII</a>)</p>
+<p> (xem <a href="/NMQ/TUYENGON/TuyenNgon03#VIII">https://sachhiem.net/NMQ/TUYENGON/TuyenNgon03.php#VIII</a>)</p>
 
    <p><img src="https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/DivGold.gif" width="100%" height="3"> </p>
    <p class="baochi"><b>Ghi chú:</b> Dấu (*) là trích dẫn trong Tiểu Truyện Tự Ghi của HT. Thích  Trí Quang, nguyên là phần phụ lục trong cuốn Bồ Tát Giới của Hòa  Thượng in sau năm 1975, do website Trang Nhà Quảng Đức phổ biến, có  đọan nói về tham gia kháng chiến như sau: <i>“Thọ Bồ tát giới rồi,  không đầy một tháng sau Pháp đổ bộ Đồng Hới, tôi tham gia kháng  chiến. Nhưng tháng 10 năm ấy, mẹ tôi bịnh nặng, bốn anh em tôi đều  đi kháng chiến, người thứ ba tử trận một tuần sau ngày Pháp đổ bộ,  hai người thứ nhất và thứ tư ở xa, tôi ở gần nhà nhất nên phải về  nuôi mẹ.”</i></p>
@@ -126,7 +126,7 @@ image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/LICHSU/IMG/NHANVAT/T
    <p class="baochi">doi:10.1017/S0026749X07002855</p>
    <p class="baochi">___________________</p>
 <p class="baochi">Research Article</p>
-   <p><a href="https://sachhiem.net/SACHNGOAI/M/McALLISTER.php"><b>‘Only Religions Count in Vietnam’: Thich Tri Quang and the Vietnam  War</b></a></p>
+   <p><a href="/SACHNGOAI/M/McALLISTER"><b>‘Only Religions Count in Vietnam’: Thich Tri Quang and the Vietnam  War</b></a></p>
    <p class="baochi">____________________</p>
    <p class="baochi">JAMES McALLISTERa1</p>
    <p class="baochi">a1 Department of Political Science, Williams College, Williamstown,  MA 01267 Email: <a href="mailto:jmcallis@williams.edu"> jmcallis@williams.edu</a></p>

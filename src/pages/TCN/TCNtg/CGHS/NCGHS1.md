@@ -2,15 +2,14 @@
 layout: ../../../../layouts/Article.astro
 title: "CÔNG GIÁO HẮC SỬ I"
 author: "Trần Chung Ngọc"
-source: "https://sachhiem.net/TCN/TCNtg/CGHS/NCGHS1.php"
+source: "/TCN/TCNtg/CGHS/NCGHS1"
 lang: vi
 wordCount: 6811
-image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nha.jpg"
 ---
 
 <p class="Tuaduoi">[The Dark History of Catholicism] </p>
    
- <p align="center"><a href="https://www.sachhiem.net/"> <img border="0" src="https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nha.jpg"></a> đăng ngày 10 tháng 6, 2007</p>
+ <p align="center"> đăng ngày 10 tháng 6, 2007</p>
 <p>Các bài trong tập này:&nbsp; <a href="/TCN/NCGHS0">1</a>&nbsp; <a href="/TCN/NCGHS1">2</a>&nbsp; <a href="/TCN/NCGHS21">3</a>&nbsp; <a href="/TCN/NCGHS22">4</a>&nbsp; <a href="/TCN/NCGHS31">5</a>&nbsp; <a href="/TCN/NCGHS32">6</a>&nbsp; <a href="/TCN/NCGHS4">7</a>&nbsp; <a href="/TCN/NCGHS5">8</a> <br></p>
 		<p class="MUC"><u>PHẦN I : </u></p><p class="MUC">NÚI TỘI ÁC THỨ NHẤT CỦA CÔNG GIÁO: </p>
 		<p class="MUC">NGĂN CHẬN SỰ TIẾN BỘ TRÍ THỨC CỦA NHÂN LOẠI. </p><p><i>“Giáo hội Công giáo đã có những tác động tàn phá trên xã hội. Khi Giáo hội nắm được vai trò lãnh đạo, hoạt động trong những ngành y khoa, kỹ thuật, khoa học, giáo dục, lịch sử, nghệ thuật và thương mại đều sụp đổ. Âu Châu đi vào những Thời Đại Hắc Ám. Tuy Giáo hội vơ vét được một tài sản to lớn trong những thế kỷ đó, hầu hết những gì định nghĩa cho văn minh đã biến mất.”</i> </p>

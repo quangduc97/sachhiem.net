@@ -3,7 +3,7 @@ layout: ../../../layouts/Article.astro
 title: "Việt Nam Tham Gia Trò Chơi Lobbying"
 author: "Nguyễn Quang Dy"
 date: 2017-06-10
-source: "https://sachhiem.net/THOISU_CT/ChuN/NguyenQuangDy01.php"
+source: "/THOISU_CT/ChuN/NguyenQuangDy01"
 category: "Chính trị"
 lang: vi
 wordCount: 2161

@@ -3,7 +3,7 @@ layout: ../../../layouts/Article.astro
 title: "Các Linh Mục Playboy Của Giáo Phận Albenga Trên Bờ Biển Ý"
 author: "By Fiona Govan/ Telegraph.co"
 date: 2015-01-07
-source: "https://sachhiem.net/TONGIAO/tgN/NguyenRi_12.php"
+source: "/TONGIAO/tgN/NguyenRi_12"
 category: "Tác giả"
 lang: vi
 wordCount: 1590
@@ -52,4 +52,4 @@ image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/SACHNGOAI/Hinhanh/PE
 <p class="TacgiaL">Nguyễn Ri gửi</p>
 <p class="nguonL">Nguồn <a href="https://www.telegraph.co.uk/news/worldnews/europe/italy/11188253/The-playboy-priests-of-Albenga-on-the-Italian-Riviera.html">https://www.telegraph.co.uk/news/... </a>&nbsp;8:13PM BST 25 Oct 2014&nbsp;</p>
 __________________
- <p>Các bài của Nguyễn Ri: link <a href="https://sachhiem.net/TONGIAO/tgN/ListRiNguyen.inc.php" target="_blank">https://sachhiem.net/TONGIAO/tgN/ListRiNguyen.inc.php</a></p>
+ <p>Các bài của Nguyễn Ri: link <a href="/TONGIAO/tgN/ListRiNguyen.inc" target="_blank">https://sachhiem.net/TONGIAO/tgN/ListRiNguyen.inc.php</a></p>

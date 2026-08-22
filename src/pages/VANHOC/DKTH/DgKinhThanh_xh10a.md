@@ -3,7 +3,7 @@ layout: ../../../layouts/Article.astro
 title: "Truyện tranh \"Ngao Sò Ốc Hến\" cải biên xúc phạm Phật Giáo"
 author: "Dương Kinh Thành"
 date: 2020-11-26
-source: "https://sachhiem.net/VANHOC/DKTH/DgKinhThanh_xh10a.php"
+source: "/VANHOC/DKTH/DgKinhThanh_xh10a"
 category: "Chính trị"
 lang: vi
 wordCount: 43

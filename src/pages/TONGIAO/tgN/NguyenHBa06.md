@@ -3,7 +3,7 @@ layout: ../../../layouts/Article.astro
 title: "Một câu hỏi chung cho những con chiên của Chúa"
 author: "Nguyễn Hữu Ba"
 date: 2013-03-08
-source: "https://sachhiem.net/TONGIAO/tgN/NguyenHBa06.php"
+source: "/TONGIAO/tgN/NguyenHBa06"
 category: "Tác giả"
 lang: vi
 wordCount: 821
@@ -40,6 +40,6 @@ Subject: [DiendanDanToc] Re: Một câu hỏi chung cho những con   chiên c�
 <p>Adelaide 22-2-2013</p>
 <p>PS: Mong rằng các bậc “đại trí thức” con chiên của Chúa hãy   trả lời một cách đàng hoàng, đứng đắn. Chứ đừng trả lời theo lối “chọi đá đường   rầy xe lửa”, hay “không đá banh mà chỉ đá vào chân của đối thủ” như xưa nay các   người đã thường   làm.</p>
 <p>------------------------------------</p>
-<p><a href="https://sachhiem.net/LICHSU/TR/TQD21.php">Thư phản hồi của bác Trần Quang Diệu </a>  </p>
+<p><a href="/LICHSU/TR/TQD21">Thư phản hồi của bác Trần Quang Diệu </a>  </p>
 ___________________
-<p>Các bài của Nguyễn Hữu Ba: link <a href="https://sachhiem.net/TONGIAO/tgN/ListNHBa.inc.php" target="_blank">https://sachhiem.net/TONGIAO/tgN/ListNHBa.inc.php</a></p>
+<p>Các bài của Nguyễn Hữu Ba: link <a href="/TONGIAO/tgN/ListNHBa.inc" target="_blank">https://sachhiem.net/TONGIAO/tgN/ListNHBa.inc.php</a></p>

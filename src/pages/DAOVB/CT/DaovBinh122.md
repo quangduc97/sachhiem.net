@@ -2,7 +2,7 @@
 layout: ../../../layouts/Article.astro
 title: "Nhật Ký Biển Đông: Một Thế Giới Đầy Bạo Lực"
 author: "Đào Văn Bình"
-source: "https://sachhiem.net/DAOVB/CT/DaovBinh122.php"
+source: "/DAOVB/CT/DaovBinh122"
 category: "Chính trị"
 lang: vi
 wordCount: 6157

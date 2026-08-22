@@ -3,7 +3,7 @@ layout: ../../layouts/Article.astro
 title: "Cảnh Quan Tôn Giáo Ở Hoa Kỳ Đang Thay Đổi"
 author: "Trần Tiên Long chuyển dịch"
 date: 2015-09-07
-source: "https://sachhiem.net/TTL/TranTL68.php"
+source: "/TTL/TranTL68"
 category: "Lịch sử"
 lang: vi
 wordCount: 1831
@@ -52,6 +52,6 @@ image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/TONGIAO/IMG/HOAKY/Re
 
 
  <hr>
-<p><a href="https://sachhiem.net/TTL/List.inc.php">Các bài của Trần Tiên Long » </a></p>
+<p><a href="/TTL/List.inc">Các bài của Trần Tiên Long » </a></p>
 
 <hr>

@@ -3,7 +3,7 @@ layout: ../../../layouts/Article.astro
 title: "Hội nghị Geneva: Những bài học lớn cho công tác đối ngoại Việt Nam"
 author: "Tin PV VOV"
 date: 2014-07-17
-source: "https://sachhiem.net/index.php?content=showrecipe&id=6064"
+source: "/THOISU_CT/ChuV/VOV"
 category: "Chính trị"
 lang: vi
 wordCount: 2128

@@ -3,16 +3,16 @@ layout: ../../../layouts/Article.astro
 title: "Chúc Xuân Quý Tỵ"
 author: "trang nhà"
 date: 2013-02-09
-source: "https://sachhiem.net/XAHOI/CHUCTET/Quyty2013.php"
+source: "/XAHOI/CHUCTET/Quyty2013"
 category: "Xã hội"
 lang: vi
 wordCount: 722
-image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nha.jpg"
+image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/CHUCTET/thuvienhoasen.jpg"
 ---
 
 <table border="0" cellpadding="1" width="250" align="center">
   <tbody><tr>
-   <td><a href="/index"> <img border="0" src="https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nha.jpg"></a></td>
+   <td></td>
    <td valign="top"></td>
   </tr>
  </tbody></table>

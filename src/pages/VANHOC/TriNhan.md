@@ -2,11 +2,11 @@
 layout: ../../layouts/Article.astro
 title: "Suy nghĩ từ một … bức tượng"
 author: "Trí Nhân"
-source: "https://sachhiem.net/Báo Văn Nghệ số 69 trang 17, 18 đăng ngày 2/07/2009"
+source: "/Báo Văn Nghệ số 69 trang 17, 18 đăng ngày 2/07/2009"
 category: "Văn hóa"
 lang: vi
 wordCount: 2871
-image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nha.jpg"
+image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/LICHSU/IMG/ALEX/DieukhacPhVHang.jpg"
 ---
 
 <div align="center" style="position: relative; left: 0; top: 0">
@@ -25,8 +25,7 @@ image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nha.jpg"
 <div style="padding-left: 50px; padding-right: 50px"> 
 	<table border="0" cellpadding="1" width="86%" cols="2">
 		<tbody><tr>
-			<td><a href="https://www.sachhiem.net/">
-			<img border="0" src="https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nha.jpg"></a></td>
+			<td></td>
 			<td valign="top" width="244">
 			<p>19 tháng 12,   2009 </p></td>
 		</tr>

@@ -2,7 +2,7 @@
 layout: ../../../layouts/Article.astro
 title: "VÀI Ý KIẾN XUNG QUANH VỤ TU VIỆN BÁT NHÃ"
 author: "Trần Chung Ngọc"
-source: "https://sachhiem.net/null"
+source: "/null"
 lang: vi
 wordCount: 14655
 image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nha.jpg"

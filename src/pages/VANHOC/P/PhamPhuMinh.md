@@ -3,7 +3,7 @@ layout: ../../../layouts/Article.astro
 title: "Ai là tác giả bức tranh"
 author: "Phạm Phú Minh"
 date: 2017-01-22
-source: "https://sachhiem.net/VANHOC/P/PhamPhuMinh.php"
+source: "/VANHOC/P/PhamPhuMinh"
 category: "Chính trị"
 lang: vi
 wordCount: 2133
@@ -17,7 +17,7 @@ image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/VANHOC/Hinh/TranhChu
   <div class="tomluoc">
     <p>LTS  - Được tin trễ hoạ sĩ Phạm Tăng (pháp danh Nhuận Đức) đã từ trần ngày 9.1.2017  tại bệnh viện Charles-Foix, Ivry-sur-Seine (vùng Paris, Pháp), thọ 93 tuổi và  Tang lễ đã được cử hành sáng thứ tư 18.1.2017 tại Crématorium du Père-Lachaise,  71 rue des Rondea, Paris, chúng tôi xin đăng lại bài viết sau đây để tưởng nhớ  một Họa sĩ tài hoa, một Nhân cách bất khuất. </p>
 <p>      Bài  trích từ nhật báo <a href="https://www.nguoi-viet.com/van-hoc-nghe-thuat/Ai-la-tac-gia-buc-tranh-tren-bia-bao-Tu-Do-Xuan-Canh-Ty-1960-1633/">Người Việt Online</a>,  ngày 6 tháng 7 năm 2012 - (NG).</p>
-    <p>[BBT SH - Bài này cũng đã được <a href="https://sachhiem.net/VANHOC/PhamPhuMinh.php">đăng trên trang nhà</a> ngày 20-May-2013]</p>
+    <p>[BBT SH - Bài này cũng đã được <a href="/VANHOC/PhamPhuMinh">đăng trên trang nhà</a> ngày 20-May-2013]</p>
   </div>
   <p> <i>Họa sĩ Nguyễn Gia Trí mất ngày 20 tháng 6 năm 1993. Ðể nhớ đến ông nhân  ngày giỗ thứ 19 (năm nay, 2012), chúng tôi xin trở lại một câu chuyện của quá  khứ khá xa, để xác định ai là người đã vẽ bìa báo Tự Do Xuân Canh Tý 1960, mà  hiện nay người thì bảo là do Nguyễn Gia Trí vẽ, người thì nói tác giả bức tranh  đó là họa sĩ Phạm Tăng.</i></p>
 <p align="center"><img width="200" height="303" src="https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/VANHOC/Hinh/TranhChuotCanhTy.jpg"> </p>

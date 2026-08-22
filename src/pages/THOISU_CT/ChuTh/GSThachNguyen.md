@@ -3,11 +3,11 @@ layout: ../../../layouts/Article.astro
 title: "Chìa khoá thành công tại Trung Quốc"
 author: "GS Thạch Nguyễn"
 date: 2010-12-14
-source: "https://sachhiem.net/null"
+source: "/null"
 category: "Chính trị"
 lang: vi
 wordCount: 3463
-image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nha.jpg"
+image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/Hinh/NHANVAT/GSThachNguyen.jpg"
 ---
 
 <div align="center" style="position: relative; left: 0; top: 0">
@@ -26,8 +26,7 @@ image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nha.jpg"
 	<div style="padding-left: 40px; padding-right: 40px">
 	
 		<table border="0" cellpadding="10" width="600" cols="2"><tbody><tr>
-		<td width="326"><a href="/index">
-		<img border="0" src="https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nha.jpg"></a></td>
+		<td width="326"></td>
 		<td valign="top">	15 tháng 12, 2010		</td></tr></tbody></table>
 		<p><span class="Date">Bài đã được xuất bản.: 15/12/2010 06:00 GMT+7</span></p>
 		<p><strong>(VEF) - "Các GS.TS khi đến làm việc tại Bắc Kinh, không phải 

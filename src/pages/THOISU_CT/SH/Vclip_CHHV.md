@@ -3,7 +3,7 @@ layout: ../../../layouts/Article.astro
 title: "Lật Tẩy Con Bài Lật Tẩy (*)"
 author: "Phạm Phương Anh- Lê Hương Lan"
 date: 2013-07-07
-source: "https://sachhiem.net/THOISU_CT/SH/Vclip_CHHV.php"
+source: "/THOISU_CT/SH/Vclip_CHHV"
 category: "Tác giả"
 lang: vi
 wordCount: 2275

@@ -2,14 +2,14 @@
 layout: ../../../layouts/Article.astro
 title: "Nước Nhỏ Nhưng Có Phải Là Nhược Tiểu Không?"
 author: "Đào Văn Bình"
-source: "https://sachhiem.net/DAOVB/CT/DaovBinh.php"
+source: "/DAOVB/CT/DaovBinh"
 category: "Chính trị"
 lang: vi
 wordCount: 3551
-image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nha.jpg"
+image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/LICHSU/IMG/SmCountry/BacAu.jpg"
 ---
 
-<p align="center"><a href="/index"><img hspace="20" border="0" src="https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nha.jpg"></a> 03 tháng 1, 2011 </p>
+<p align="center"> 03 tháng 1, 2011 </p>
 		<p><b> <span class="First">T</span></b>rong tiến trình phát triển 
 		của nhân loại, từ bộ tộc, rồi sau này trở thành quốc gia, chủ trương “<i>sức 
 		mạnh ở trên lưỡi gươm</i>”, “<i>cá lớn nuốt cá bé</i>”, “<i>mạnh hiếp 

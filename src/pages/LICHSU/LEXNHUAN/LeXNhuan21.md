@@ -3,7 +3,7 @@ layout: ../../../layouts/Article.astro
 title: "Ông Ngô Đình Diệm Làm Quan:"
 author: "Lê Xuân Nhuận"
 date: 2021-10-23
-source: "https://sachhiem.net/LICHSU/LEXNHUAN/LeXNhuan21.php"
+source: "/LICHSU/LEXNHUAN/LeXNhuan21"
 category: "Lịch sử"
 lang: vi
 wordCount: 2670

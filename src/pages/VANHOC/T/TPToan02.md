@@ -3,7 +3,7 @@ layout: ../../../layouts/Article.astro
 title: "Phảng Phất Hương Xuân"
 author: "Thích Phước Toàn"
 date: 2018-02-14
-source: "https://sachhiem.net/VANHOC/T/TPToan01.php"
+source: "/VANHOC/T/TPToan01"
 category: "Chính trị"
 lang: vi
 wordCount: 132

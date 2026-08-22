@@ -3,7 +3,7 @@ layout: ../../../layouts/Article.astro
 title: "Chiến Dịch Hoàng Diệu"
 author: "Trịnh Bá Lộc"
 date: 2014-11-30
-source: "https://sachhiem.net/LICHSU/TR/TrinhBaLoc4.php"
+source: "/LICHSU/TR/TrinhBaLoc4"
 category: "Lịch sử"
 lang: vi
 wordCount: 2462

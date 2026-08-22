@@ -3,15 +3,15 @@ layout: ../../../layouts/Article.astro
 title: "TẠI SAO NGƯỜI TA CHỐNG \"CÔNG GIÁO\"?"
 author: "Trần Quang Diệu"
 date: 2012-02-06
-source: "https://sachhiem.net/LICHSU/TR/TQD05.php"
+source: "/LICHSU/TR/TQD05"
 category: "Lịch sử"
 lang: vi
 wordCount: 2735
-image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nha.jpg"
+image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/SACHNGOAI/Hinhanh/PEOPLE/ThomasPaine.jpg"
 ---
 
 <table border="0" cellpadding="0" width="250" align="center"><tbody><tr>
-	<td width="125"><a href="/index"><img border="0" src="https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nha.jpg"></a></td>
+	<td width="125"></td>
 <td valign="top">06-Feb-2012</td>
 		</tr></tbody></table>
         <p><i>LTS: Đây là lá thư hồi đáp những lá thư của một số các con chiên
@@ -23,15 +23,15 @@ image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nha.jpg"
             thích cho những ai còn dị ứng với vấn đề chống Thiên Chúa Giáo La
             Mã. SH xin trân trọng gửi đến độc giả. (SH) </i></p>
        <hr> <p>Dẫn:</p>
-        <p> 1. Thư của tác giả Trần Tiên Long: - <a href="https://sachhiem.net/index.php?content=showemail&amp;id=48"> TCN:
+        <p> 1. Thư của tác giả Trần Tiên Long: - <a href="/net/TCN/TCNtg/TCN57a"> TCN:
             Tại Sao Tôi Chống Công Giáo? </a></p>
-        <p> 2. Thư của <a href="https://sachhiem.net/index.php?content=showemail&amp;id=49"> nick
+        <p> 2. Thư của <a href="/net/index"> nick
             Bac Ky Di Cu: Tại Sao Bọn Họ Chống Tôn Giáo </a>?</p>
-        <p>3. Thư của Hoàng Thụcc An: <a href="https://sachhiem.net/index.php?content=showemail&amp;id=51">Nhập
+        <p>3. Thư của Hoàng Thụcc An: <a href="/net/index">Nhập
           nhằng Công giáo qua Tôn giáo!</a></p>
         <p>--------------</p>
         <p> Sent: Thursday, February 02, 2012 11:33 PM</p>
-        <p>Subject: FW: TCN: <a href="https://sachhiem.net/index.php?content=showemail&amp;id=48">Tại
+        <p>Subject: FW: TCN: <a href="/net/TCN/TCNtg/TCN57a">Tại
             Sao Tôi Chống Công Giáo </a>?/ gop y</p>
         <p> <b>T</b><b>ẠI SAO NGƯỜI TA CHỐNG  "CÔNG GIÁO"?</b> </p>
         <p>Tôi thấy rằng, chống "Công giáo" như những lý do mà Gs Trần
@@ -50,7 +50,7 @@ image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nha.jpg"
             lại niềm tin tâm linh vào mỗi cá nhân</b> một khi họ&nbsp;đã rửa
             tội&nbsp;để
           trở thành "con Chúa".&nbsp;Đấy là chưa nói&nbsp;đến ngày
-          nay&nbsp;đã có hàng chục, <a href="https://sachhiem.net/TONGIAO/tgT/TinVOA.php">hàng
+          nay&nbsp;đã có hàng chục, <a href="/TONGIAO/tgT/TinVOA">hàng
           trăm nghìn người đã yêu cầu rút tên họ ra khỏi danh sách rửa tội! <br>
           (xem
           https://sachhiem.net/TONGIAO/tgT/TinVOA.php)</a> Yêu cầu rút tên ra khỏi danh sách&nbsp;rửa
@@ -271,7 +271,7 @@ image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nha.jpg"
           cập&nbsp;đến thì liền bị mắng càn không cần lý do, không cần biết&nbsp;đến&nbsp;phải
           trái&nbsp;để&nbsp;đi&nbsp;vu chụp cho người ta nào là "<i>vô&nbsp;đạo",  "chống
           phá tôn giáo", là "Việt cộng vô thần", là "tiêu
-          diệt tôn giáo", là "ngăn cản sự hành&nbsp;đạo của dân chúng</i>"  v.v...&nbsp; <a href="https://sachhiem.net/index.php?content=showemail&amp;id=49"> (SH:
+          diệt tôn giáo", là "ngăn cản sự hành&nbsp;đạo của dân chúng</i>"  v.v...&nbsp; <a href="/net/index"> (SH:
           xin bấm ở đây hoặc đọc bài dẫn số 2 ở trên)</a> </p>
         <p> Đọc mấy lối thóa mạ&nbsp;ẩu xự trên, làm tôi nhớ&nbsp;đến những lối
           lên&nbsp;án từ tòa thánh Vatican qua các vị Giáo hoàng trong khía cạnh

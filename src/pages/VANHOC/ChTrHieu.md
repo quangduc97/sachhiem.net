@@ -2,11 +2,11 @@
 layout: ../../layouts/Article.astro
 title: "Chúa sợ hơi cay !"
 author: "Chế Trung Hiêu"
-source: "https://sachhiem.net/null"
+source: "/null"
 category: "Văn hóa"
 lang: vi
 wordCount: 509
-image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nha.jpg"
+image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/TONGIAO/IMG/Thaiha/thaiha4.jpg"
 ---
 
 <div align="center" style="position: relative; left: 0; top: 0">
@@ -32,7 +32,7 @@ image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nha.jpg"
 	<tbody><tr><td bgcolor="White" align="justify" valign="top">
 	<div style="padding-left: 30px; padding-right: 30px">
 		<table border="0" cellpadding="10" width="90%" cols="2" style="padding-left: 30px; padding-right: 30px"><tbody><tr>
-			<td><a href="/index"><img border="0" src="https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nha.jpg"></a></td>				
+			<td></td>				
 	<td valign="top" width="257">	29 tháng 8, 2008
 	</td></tr></tbody></table>
 

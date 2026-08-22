@@ -2,15 +2,15 @@
 layout: ../../../layouts/Article.astro
 title: "Sự “Cong” Của Vận Tốc Ánh Sáng"
 author: "Lê văn Cường"
-source: "https://sachhiem.net/KHOAHOC/L/Levc_1.php"
+source: "/KHOAHOC/L/Levc_1"
 category: "Khoa học"
 lang: vi
 wordCount: 4306
-image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nha.jpg"
+image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/KHOAHOC/IMG/LEVC/Anhsangcong1.jpg"
 ---
 
 <table border="0" cellpadding="1" align="center" width="250">
-        <tbody><tr><td width="100"><a href="/index"><img border="0" src="https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nha.jpg"></a></td>
+        <tbody><tr><td width="100"></td>
 		<td valign="top" width="198">30 tháng 8, 2010	</td>
 	</tr>
 </tbody></table>

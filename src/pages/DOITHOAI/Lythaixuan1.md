@@ -2,7 +2,7 @@
 layout: ../../layouts/Article.astro
 title: "Tư cách đối thoại"
 author: "Lý Thái Xuân"
-source: "https://sachhiem.net/null"
+source: "/null"
 category: "Đối thoại"
 lang: vi
 wordCount: 5080
@@ -25,7 +25,7 @@ image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nhacu.jpg"
 <table border="0" cellpadding="0" cellspacing="0" topmargin="10"> 
 	<tbody><tr><td align="justify" valign="top">
 	<table border="0" cellpadding="10" width="90%" cols="2"><tbody><tr>
-	<td valign="top" width="218"><a href="https://sachhiem.net/">
+	<td valign="top" width="218"><a href="/">
 	<img border="0" src="https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nhacu.jpg" width="49" height="20"></a></td>
 	<td valign="top" style="text-align:right"><i><font size="2">11 tháng 1, bổ túc ngày 15 tháng 1, 2009
 	</font></i>
@@ -87,7 +87,7 @@ image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nhacu.jpg"
 				Việt Nam Thương Tín, nhưng chính ông thì chuồn ở lại tỵ nạn bên Pháp. Những điều "nghe nói" trên đều có cơ sở của nó như sau.</p>
 			<p>Về chữ "gia nô" thì tôi không biết lấy thí dụ cụ thể hành động nào ngày xưa của ông để chứng minh. Nhưng nếu là cùng một nhân vật, thì những lời lẽ và cung cách ngày hôm nay của ông đối với việc cuống cuồng "bảo vệ danh dự" cho gia đình ông Ngô Đình Diệm và Giáo Hội Công Giáo đã tự chứng minh quá rõ ràng. Nếu chỉ là một người dân bình thường, không ai phải điên tiết lên khi có người chê bai một người lãnh đạo, dẫu là người mình yêu thích, vả phải cuống cuồng  lo tìm cách "bảo vệ" như thế. Tôi tránh không dùng chữ xác đáng cho việc này, người đọc sẽ tự hiểu lấy. </p>
 			<p>Ở xứ dân chủ tự do thực sự như Hoa kỳ chẳng hạn, tổng thống này hết nhiệm kỳ thì lại đến thổng thống khác thay thế. Ghét hay thương gì rồi cũng kết thúc ở cuối nhiệm kỳ.  Người ta sẽ thoải mái nghe những "bí ẩn" của mấy ông lớn nếu được khai quật về sau.   Người viết bài này chưa hề thấy một ông tổng thống Mỹ nào có quyền nuôi gia nô để "bảo vệ danh dự" cho gia đình họ đến ba bốn chục năm sau như trường hợp các đứa "con nuôi" của nhà Ngô như thế. Chắc chắn đó không phải là Tổng Thống của một chế độ dân chủ. 
-			Xin xem <a href="https://sachhiem.net/NMQ/NMQ14-3.php">"Nhận Xét Về Bài 'Cần Thẩm Định Lại ...' của Tôn Thất Thiện." (NMQ)</a> </p>
+			Xin xem <a href="/NMQ/NMQ14-3">"Nhận Xét Về Bài 'Cần Thẩm Định Lại ...' của Tôn Thất Thiện." (NMQ)</a> </p>
 			<p>Về vụ "bạch khế",  người viết tôi chưa hiểu rõ chi tiết.  Nhưng ông cố vấn chính trị đặc trách liên lạc giữa Phủ Tổng Thống và Quốc Hội thời đó sẽ hiểu rành việc này.  Nghe nói ông này hiện còn sống, và đang ở Mỹ.</p>
 			<p>Hành động "rút súng" đòi bắn người trong nghị trường thì đã rùm beng thiên hạ thời đó. Chuyện này thì nạn nhân sẽ nhớ đời, chắc ông không muốn nhờ "xác minh" nữa.  Có ai thấy chế độ nào dân biểu phạm tội hình sự như thế mà vẫn ung dung tự tại, tiếp tục làm dân biểu hay không? Dân biểu của chế độ VNCH  "ngon" như thế đấy! </p>
 			<p>Chuyện hô hào dân tỵ nạn trở về trên tàu Việt Nam Thương Tín năm 1975 cũng có rất nhiều người nghe. Chính những người không nghe lời hô hào của ông, ở lại tỵ nạn, đã nhớ đời cái tên Nhữ văn Úy.   Còn ông chắc đã quên những việc klhông ích lợi cho mình như thế.</p>

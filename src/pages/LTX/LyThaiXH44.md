@@ -3,7 +3,7 @@ layout: ../../layouts/Article.astro
 title: "Những Chuyện Vui Và Lạ Đời Trên Trường Tranh Đấu"
 author: "Lý Thái Xuân"
 date: 2026-01-09
-source: "https://sachhiem.net/LTX/LyThaiXH44.php"
+source: "/LTX/LyThaiXH44"
 category: "Xã hội"
 lang: vi
 wordCount: 1529

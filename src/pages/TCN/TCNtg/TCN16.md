@@ -2,10 +2,10 @@
 layout: ../../../layouts/Article.astro
 title: "NHÌN LẠI CUỘC TRANH ĐẤU PHẬT GIÁO 1963"
 author: "Trần Chung Ngọc"
-source: "https://sachhiem.net/null"
+source: "/null"
 lang: vi
 wordCount: 14325
-image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nha.jpg"
+image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/MuclucButton.gif"
 ---
 
 <div align="center" style="position: relative; left: 0; top: 0">
@@ -31,7 +31,7 @@ image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nha.jpg"
 	<tbody><tr><td bgcolor="White" align="justify" valign="top">
 		<font>	
 </font><blockquote><font><table border="0" cellpadding="10" width="80%" cols="2"><tbody><tr>
-	<td valign="top"><a href="/index"><img border="0" src="https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nha.jpg"></a>
+	<td valign="top">
 </td>
 	<td valign="top" style="text-align:right">	đăng ngày 10 tháng 7, 2007
 	</td></tr></tbody></table>

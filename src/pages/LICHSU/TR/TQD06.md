@@ -3,15 +3,15 @@ layout: ../../../layouts/Article.astro
 title: "Trong Muôn Vàn Sự Tàn Ác - Thời Diệm Nhu"
 author: "Trần Quang Diệu trích đăng"
 date: 2012-02-28
-source: "https://sachhiem.net/LICHSU/TR/TQD06.php"
+source: "/LICHSU/TR/TQD06"
 category: "Lịch sử"
 lang: vi
 wordCount: 2287
-image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nha.jpg"
+image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/SACH/9nammaulua.jpg"
 ---
 
 <table border="0" cellpadding="0" width="250" align="center"><tbody><tr>
-	<td width="125"><a href="/index"><img border="0" src="https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nha.jpg"></a></td>
+	<td width="125"></td>
 <td valign="top"> 28-Feb-2012</td>
 		</tr></tbody></table>
               <p><b> “BẮT CÓC VÀ GIAM CẦM”</b> </p>

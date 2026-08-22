@@ -3,7 +3,7 @@ layout: ../../layouts/Article.astro
 title: "Một Não Trạng Kỳ Thị Tôn Giáo Nặng"
 author: "Trần Tiên Long"
 date: 2012-05-10
-source: "https://sachhiem.net/TTL/TranTL19.php"
+source: "/TTL/TranTL19"
 category: "Tác giả"
 lang: vi
 wordCount: 3059
@@ -23,7 +23,7 @@ Date: Tuesday, May 8, 2012, 8:36 PM</p>
 <p><b>Một Não Trạng Kỳ Thị Tôn Giáo Nặng</b></p>
 <p>Kính thưa quí đọc giả</p>
 <p>
-  Có một đôi điều xin thưa cùng quí đọc giả liên quan đến đề tài<a href="https://sachhiem.net/TCN/TCNts/TCNts053.php"> “Chuyện
+  Có một đôi điều xin thưa cùng quí đọc giả liên quan đến đề tài<a href="/TCN/TCNts/TCNts053"> “Chuyện
   Phịa Thời Sự” </a>về lời phát biểu của bà Thủ Tướng Úc. </p>
 <p><span class="green">I.&nbsp;&nbsp;</span>&nbsp;  Bà Đỗ Thị Thuấn<a name="th"><sup>(1)</sup></a> thường xuyên chuyển vào diễn đàn những
   bài viết bàn về mê tín dị đoan lấy từ những trang nhà không có mức độ đáng

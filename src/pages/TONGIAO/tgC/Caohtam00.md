@@ -3,7 +3,7 @@ layout: ../../../layouts/Article.astro
 title: "Tìm Hiểu Đạo Tôi:"
 author: "Cao Hữu Tâm"
 date: 2013-12-11
-source: "https://sachhiem.net/index.php?content=showrecipe&id=5856"
+source: "/TONGIAO/tgC/Caohtam00"
 category: "Tác giả"
 lang: vi
 wordCount: 5359
@@ -93,4 +93,4 @@ image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/TONGIAO/IMG/GunCross
 caohuutam1939@gmail.com </p>
  <p>______________________</p>
  <p><b>Bài liên hệ:</b></p>
- <p>- ▪ <a href="https://sachhiem.net/TONGIAO/tgC/Caohtam22.php">Tìm Hiểu Đạo Tôi: Tôi Không Là Người CG Nữa </a> - Cao Hữu Tâm</p>
+ <p>- ▪ <a href="/TONGIAO/tgC/Caohtam22">Tìm Hiểu Đạo Tôi: Tôi Không Là Người CG Nữa </a> - Cao Hữu Tâm</p>

@@ -6,7 +6,7 @@ source: "https://vovnews.vn/Home/Nhat-ky-Dang-Thuy-Tram-duoc-don-nhan-nong-nhiet
 category: "Chính trị"
 lang: vi
 wordCount: 800
-image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nha.jpg"
+image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/THOISU_CT/Hinh/VIETNAM/NhatKyDTT_P.jpg"
 ---
 
 <div align="center" style="position: relative; left: 0; top: 0">
@@ -24,7 +24,7 @@ image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nha.jpg"
 <tr> <td width="100%"> 
 	<div style="padding-left: 50px; padding-right: 50px">
 		<table border="0" cellpadding="10" width="600" cols="2"><tbody><tr>
-<td valign="top"><a href="/index"><img border="0" src="https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nha.jpg"></a></td>
+<td valign="top"></td>
 	<td valign="top" width="165">	<font size="2">02 tháng 9, 2010	</font>
 	</td></tr></tbody></table>
 

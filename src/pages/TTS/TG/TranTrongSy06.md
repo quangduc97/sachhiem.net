@@ -3,7 +3,7 @@ layout: ../../../layouts/Article.astro
 title: "Đức Mẹ Maria (Phần I)"
 author: "Trần Trọng Sỹ"
 date: 2018-11-29
-source: "https://sachhiem.net/TTS/TG/TranTrongSy06.php"
+source: "/TTS/TG/TranTrongSy06"
 category: "Tác giả"
 lang: vi
 wordCount: 10831
@@ -65,7 +65,7 @@ image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/TONGIAO/IMG/MARY/Dog
   <p><strong><i>7:15: Đứa trẻ  đó sẽ ăn bơ và mật cho đến khi biết bỏ điều ác chọn điều thiện.</i></strong></p>
   <p><strong><i>7:16: Nhưng  trước khi đứa trẻ ấy biết bỏ điều ác, chọn điều thiện, thì đất nước của hai vua  mà ngài đang sợ hãi sẽ bị hoang vu</i></strong>.</p>
   <p><i>Chúng ta thấy  ngay chủ đích của Matthew trong việc trích dẫn chọn lọc trên từ Cựu Ước với mục  đích truyền bá niềm tin riêng của mình. Truyền thống này kéo dài trong giáo hội  Công Giáo cho tới ngày nay với những câu thêm thắt, ngụy tạo trong Tân Ước,  cùng những lời diễn giảng cắt xén chọn lọc ngoài toàn bộ vấn đề. Thủ đoạn này  cũng thấy xuất hiện đầy trong bản Tông Huấn cho các Giáo hội Á Châu của Giáo  hoàng John Paul II.&nbsp; </i></p>
-  <p>(xin xem&nbsp; <a href="https://www.sachhiem.net/TCN/TCNtg/CGchinhsu/CGCS7.php">https://www.sachhiem.net/TCN/TCNtg/CGchinhsu/CGCS7.php</a>) </p>
+  <p>(xin xem&nbsp; <a href="/TCN/TCNtg/CGchinhsu/CGCS7">https://www.sachhiem.net/TCN/TCNtg/CGchinhsu/CGCS7.php</a>) </p>
 </div>
 <p>Giáo Sư Trần Chung Ngọc là tác giả việt ngữ ở hải ngoại  nên mới được tự do viết về toàn bộ những góc khuất của Kitô giáo và và tiết lộ  những dữ kiện lịch sử mà trước kia không ai biết hoặc có biết cũng không thể  hay không dám nói, như trường hợp học giả Nguyễn Hiến Lê từng viết sử về các  giáo hoàng Âu châu thời Trung Cổ nhưng đã bị nhà cầm quyền Ngô Đình Diệm cấm in  và hăm dọa.</p>
 <p>Các bài viết của giáo sư  T.C. Ngọc vừa thâm sâu và vừa uyên bác về Maria học (Mariologie), vì vậy, khi đặt  bút về Đức Mẹ Maria, tôi có cảm tưởng mình đang làm công việc dư thừa trước những  nghiên cứu quá đồ sộ của ông.</p>
@@ -103,7 +103,7 @@ image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/TONGIAO/IMG/MARY/Dog
   <p>Tôi dịch cho rõ nghĩa :</p>
 <p>    <i>« Này ta sẽ rủa sả giòng giống của các  ngươi, và sẽ trét phân lên mặt các ngươi, với chính phân mà các ngươi ăn và  tiêu hóa ra ; và các ngươi sẽ được đem đi với phân ấy »</i></p>
 <p>    Lúc đầu tôi sử dụng chữ "ị", nhưng thấy chữ  này thô tục quá không thể là ngôn ngữ của kinh thánh, nên tôi đổì "ị" thành  "thải". Sau đó tôi lại đổi "thải" thành <i>"tiêu hóa"</i>. Vì sao tôi sử dụng chữ  "tiêu hóa" mà không sử dụng chữ "thải"?  Vì "thải" không bắt buộc phải  đi vào bụng rồi ra bằng hậu môn, có thể chỉ là thức ăn thừa, còn tiêu hóa lại  là cách nói lịch sự để diễn tả động từ bình dân là "ị".</p>
-<p>    Một trường hợp gian manh khác về chữ nghĩa cũng được  ông Bùi Kha đưa ra trong việc dịch từ <i>nước cha trị đến</i> cho cụm từ <i>à  la conquête de tout l’Orient</i> của linh mục Nguyễn Khắc Xuyên mà theo tôi, phải  được dịch là <i>trong sự chinh phục toàn cõi Đông Phương</i>. Bất kỳ một người  biết tiếng Pháp nào cũng không thể dịch như ông Xuyên được. Mời xem sự gian  manh nói chung về văn hóa và lịch sử của cha cố Công giáo Rôma trên link <a href="https://sachhiem.net/index.php?content=showrecipe&amp;id=7167#_ftnref11">https://sachhiem.net/index.php?content=showrecipe&amp;id=7167#_ftnref11</a> </p>
+<p>    Một trường hợp gian manh khác về chữ nghĩa cũng được  ông Bùi Kha đưa ra trong việc dịch từ <i>nước cha trị đến</i> cho cụm từ <i>à  la conquête de tout l’Orient</i> của linh mục Nguyễn Khắc Xuyên mà theo tôi, phải  được dịch là <i>trong sự chinh phục toàn cõi Đông Phương</i>. Bất kỳ một người  biết tiếng Pháp nào cũng không thể dịch như ông Xuyên được. Mời xem sự gian  manh nói chung về văn hóa và lịch sử của cha cố Công giáo Rôma trên link <a href="/BUIKHA/BuiKha_Rhodes_2">https://sachhiem.net/index.php?content=showrecipe&amp;id=7167#_ftnref11</a> </p>
 <p>    Trở lại với Đức Mẹ bằng một chi tiết tuy nhỏ nhưng  đáng lưu ý về <b>đề tài trinh tiết</b> của ngài được wikipedia tiết lộ về thời kỳ Tiền  La Mã như sau:</p>
 <p>      <i>Từ những thời kỳ đầu tiên của Kitô giáo, niềm tin tiết trinh của Maria cùng với  sự hoài thai trong bụng một trinh nữ của Giêsu, như được nói đến trong Tân Ước,  tính cách thánh và phi tự nhiên, được sử dụng bởi những người dèm pha, với cả mục  đích chính trị lẫn tôn giáo, như là đề tài thảo luận, tranh cãi và viết lách, đặc  biệt nhằm vào mục đích thách đố với tín ngưỡng về Giêsu, nghĩa là thách đố với  người theo Kitô giáo hay toàn thể Kitô giáo nói chung. Vào thế kỷ thứ II, <b>triết  gia phi Kitô Celsus</b>, trong một phần của những tranh biện chống đối Kitô giáo với  luận thuyết mang tên <strong>lời nói thật</strong>, cho rằng Giêsu thực tế là đứa con bất  chính của chiến binh La Mã tên là Panthera. Linh mục Origen đã đánh tan sự quả  quyết (của Celsus) và cho đó là một chuyện dựng đứng trong cuốn phản biện mang  tên <strong>Chống lại Celsus.</strong> Còn Celsus đã dựa vào các nguồn tư liệu Do Thái để  có quan niệm của mình ra sao lại là một đề tài thảo luận khác</i>.</p>
 <div class="indent50">
@@ -196,4 +196,4 @@ image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/TONGIAO/IMG/MARY/Dog
 <p>(còn tiếp)</p>
  <p class="TacgiaL">Trần Trọng Sỹ</p>
  <p>___________________ </p>
- <p>Các bài của Trần Trọng Sỹ: link <a href="https://sachhiem.net/TTS/ListTTS.inc.php" target="_blank">https://sachhiem.net/TTS/ListTTS.inc.php</a></p>
+ <p>Các bài của Trần Trọng Sỹ: link <a href="/TTS/ListTTS.inc" target="_blank">https://sachhiem.net/TTS/ListTTS.inc.php</a></p>

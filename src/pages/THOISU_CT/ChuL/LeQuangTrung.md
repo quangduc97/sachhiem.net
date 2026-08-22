@@ -3,7 +3,7 @@ layout: ../../../layouts/Article.astro
 title: "Sự thật đằng sau cuộc chiến Lybia"
 author: "Lê Quang Trung"
 date: 2014-03-09
-source: "https://sachhiem.net/THOISU_CT/ChuL/LeQuangTrung.php"
+source: "/THOISU_CT/ChuL/LeQuangTrung"
 category: "Tác giả"
 lang: vi
 wordCount: 5548
@@ -16,9 +16,9 @@ image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/THOISU_CT/Hinh/TRUNG
 	 
  
  <p>Lời giới thiệu của  web Đôi Mắt: <i>Cách đây 3 năm, cái gọi là "mùa xuân Ả Rập" đã diễn ra  hàng loạt tại các quốc gia Bắc Phi và Trung Đông như Tunisia, Algeria, Ai Cập,  Yemen, Jordan, Syria, Libya và Maroc,.. Trong đó đáng chú ý nhất là các cuộc  xung đột kéo dài thậm chí dẫn đến nội chiến và bất ổn chính trị kéo dài đến tận  bây giờ như tại Lybia, Syria, Ai Cập. Thật ra, núp dưới các tên gọi mỹ miều  khác nhau nhưng thực tế, các cuộc chính biến này và các cuộc cách mạng màu tại  các nước thuộc khối Liên Xô cũ, Trung Á và vùng Balkan về bản chất là giống  nhau: chúng được thiết kế, lên kế hoạch và kích hoạt bởi các "nhà thiết kế"  cách "chiến trường" hàng ngàn ki lô mét và quan trọng là chẳng hề vì  lợi ích của nhân dân các quốc gia đó. Các "cuộc cách mạng" đó sẽ mãi  vẫn cứ tiếp tục diễn ra, như tình hình tại Ukraina hiện nay, chừng nào chính  quyền tại các quốc gia trên thế giới chưa thực sự thuộc về nhân dân và quyền lợi  của các đế quốc các nơi đó bị tổn hại. Về vấn đề này, xin giới thiệu với các bạn  loạt bài "Mạn đàm về thiện và ác" rất hay của Lê Quang Trung, một cây  viết trẻ tuổi nhưng già kiến thức. Loạt bài này viết trong thời điểm cuộc  "cách mạng" đang tàn phá Lybia cách đây 3 năm nhưng hiện giờ vẫn còn  nguyên giá trị thời sự, chính trị. Loạt bài bao gồm 3 kỳ như sau</i>:</p>
-<p><a href="https://sachhiem.net/THOISU_CT/ChuL/LeQuangTrung.php">Kỳ 1:&nbsp;Sự thật đằng sau cuộc chiến Libya</a></p>
-<p><a href="https://sachhiem.net/THOISU_CT/ChuL/LeQuangTrung_01.php" target="_blank">Kỳ 2:&nbsp;Dân chủ và nền dân chủ xã hội chủ nghĩa</a></p>
-<p> <a href="https://sachhiem.net/THOISU_CT/ChuL/LeQuangTrung_02.php" target="_blank"> Kỳ 3: Tiếp tục về Dân chủ và nền dân chủ xã hội chủ nghĩa</a></p>
+<p><a href="/THOISU_CT/ChuL/LeQuangTrung">Kỳ 1:&nbsp;Sự thật đằng sau cuộc chiến Libya</a></p>
+<p><a href="/THOISU_CT/ChuL/LeQuangTrung_01" target="_blank">Kỳ 2:&nbsp;Dân chủ và nền dân chủ xã hội chủ nghĩa</a></p>
+<p> <a href="/THOISU_CT/ChuL/LeQuangTrung_02" target="_blank"> Kỳ 3: Tiếp tục về Dân chủ và nền dân chủ xã hội chủ nghĩa</a></p>
 <p><i>
   (Nguyễn  Thanh Tùng)</i></p><hr>
   <p><span class="First">T</span>ôi đã từng là một  vichoco hay gọi một cách thực sự là Việt chó con, cũng đã từng là một trong  những kẻ rân chủ giả tạo, vì khi đó tôi chẳng hiểu gì cả. Tôi luôn nghĩ CNXH là  sai lầm, CNTB mới là con đường đúng đắn cho Việt Nam, bởi vì lúc đó tôi chẳng  hiểu gì cả, tôi chỉ biết hàng ngày lên CNN, BBC để đọc tin, hay lên Google  search những thông tin mà tôi cho là đúng đắn như Wikipedia.org. </p>

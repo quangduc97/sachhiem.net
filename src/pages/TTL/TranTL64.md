@@ -3,7 +3,7 @@ layout: ../../layouts/Article.astro
 title: "Thượng Đế, Ngài Là Ai?"
 author: "Trần Tiên Long"
 date: 2015-04-04
-source: "https://sachhiem.net/TTL/TranTL64.php"
+source: "/TTL/TranTL64"
 category: "Lịch sử"
 lang: vi
 wordCount: 2820
@@ -13,7 +13,7 @@ wordCount: 2820
       From: "qtran" <br>
       Date: 4/4/15 7:43 am</p>
     <p>      Kính thưa quí độc giả,</p>
-    <p> Bài viết <a href="https://www.talawas.org/talaDB/suche.php?res=4283&amp;rb=0303" target="_blank">“Thượng đế, ngài là ai?”</a> đã được viết đúng 10 năm về trước, trước khi tôi biết có sự hiện diện của các  trang nhà <a href="https://www.giaodiemonline.com/" target="_blank">Giao Điểm</a> và <a href="https://sachhiem.net/" target="_blank">Sách Hiếm</a>, dưới cái bút  danh Thích Bình Thường. Đây là một bút danh được các bạn bè cùng lớp đặt cho  tôi trong thời gian chúng tôi thường hay trao đổi với nhau về những vấn đề tôn  giáo. Điều đó chỉ đơn giản có nghĩa là tôi chỉ thích được làm người bình thường  có đầy đủ hỉ nộ ái ố, chứ không thích được làm người Chúa chọn hay một ông  thánh sống. </p>
+    <p> Bài viết <a href="https://www.talawas.org/talaDB/suche.php?res=4283&amp;rb=0303" target="_blank">“Thượng đế, ngài là ai?”</a> đã được viết đúng 10 năm về trước, trước khi tôi biết có sự hiện diện của các  trang nhà <a href="https://www.giaodiemonline.com/" target="_blank">Giao Điểm</a> và <a href="/" target="_blank">Sách Hiếm</a>, dưới cái bút  danh Thích Bình Thường. Đây là một bút danh được các bạn bè cùng lớp đặt cho  tôi trong thời gian chúng tôi thường hay trao đổi với nhau về những vấn đề tôn  giáo. Điều đó chỉ đơn giản có nghĩa là tôi chỉ thích được làm người bình thường  có đầy đủ hỉ nộ ái ố, chứ không thích được làm người Chúa chọn hay một ông  thánh sống. </p>
     <p>      Giờ xin chuyển lại vào diễn đàn  để chứng minh có một sự tiến hóa dần dần về tư tưởng bằng sự thao thức, trăn trở,  và vật lộn hằng ngày với những quan điểm đối nghịch; và ở đây, đi từ <span class="TacgiaL">Thích Bình  Thường</span> đến <span class="TacgiaL">Trần Tiên Long.</span></p>
     <p>Trân trọng,<br>
       Trần Tiên Long</p>
@@ -59,6 +59,6 @@ _____________________
 <p>  <a name="anm4" href="/TTL/#nr4">[4] </a> Phan Thiết, <i>Hành hương đất Phật</i>, Ký sự,  Chương 1, Vô tự chân kinh, trang 31, Southern Stars Publisher, Australia. </p>
     
 <hr>
-<p><a href="https://sachhiem.net/TTL/List.inc.php">Các bài của Trần Tiên Long » </a></p>
+<p><a href="/TTL/List.inc">Các bài của Trần Tiên Long » </a></p>
 
 <hr>

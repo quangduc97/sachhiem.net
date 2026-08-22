@@ -3,7 +3,7 @@ layout: ../../../layouts/Article.astro
 title: "Người Phật Tử Lankan Chiến Thắng Chống Lại Sự Cải Đạo Thế Nào?"
 author: "(Menafn - NewsIn.Asia) By P.K.Balachandran/Ceylon Today"
 date: 2020-12-02
-source: "https://sachhiem.net/SACHNGOAI/snN/Namgiao_01.php"
+source: "/SACHNGOAI/snN/Namgiao_01"
 category: "Chính trị"
 lang: vi
 wordCount: 2372

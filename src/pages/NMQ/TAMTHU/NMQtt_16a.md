@@ -3,17 +3,17 @@ layout: ../../../layouts/Article.astro
 title: "Tâm Thư Gửi Nhà Nước Việt Nam"
 author: "Nguyễn Mạnh Quang"
 date: 2004-03-28
-source: "https://sachhiem.net/NMQ/TAMTHU/NMQtt_16a.php"
+source: "/NMQ/TAMTHU/NMQtt_16a"
 lang: vi
 wordCount: 14090
-image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nha.jpg"
+image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/print.gif"
 ---
 
-<p align="center"><a href="https://www.sachhiem.net/"> <img border="0" src="https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nha.jpg"></a> | 
-<a target="_blank" href="https://sachhiem.net/NMQ/TAMTHU/NMQtt_16a.php">
+<p align="center"> | 
+<a target="_blank" href="/NMQ/TAMTHU/NMQtt_16a">
 <img border="0" src="https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/print.gif" width="18" height="18"> 
   bản in</a> | 
-	<a target="_blank" href="https://sachhiem.net/NMQ/TAMTHU/NMQtt_Main.php"><b><font face="Symbol" size="5"> ¿ </font></b> trở ra mục lục</a>
+	<a target="_blank" href="/NMQ/TAMTHU/NMQtt_Main"><b><font face="Symbol" size="5"> ¿ </font></b> trở ra mục lục</a>
  |   05 tháng 8, 2010</p>
  
 <p class="CHUONG">PHẦN III</p>
@@ -784,10 +784,10 @@ Vatican không?</p>
 
 <p>(còn tiếp)</p>
 <p><font color="#FFFFFF"> </font>
-<a target="_blank" href="https://sachhiem.net/NMQ/TAMTHU/NMQtt_16.php"><b><font color="#FFFFFF">
+<a target="_blank" href="/NMQ/TAMTHU/NMQtt_16"><b><font color="#FFFFFF">
 <span style="background-color: #AA0000">&nbsp;1 </span> 
 </font> </b> </a>&nbsp; 2  
-&nbsp;<a target="_blank" href="https://sachhiem.net/NMQ/TAMTHU/NMQtt_16b.php"><b><font color="#FFFFFF"><span style="background-color: #AA0000">&nbsp;3 </span> 
+&nbsp;<a target="_blank" href="/NMQ/TAMTHU/NMQtt_16b"><b><font color="#FFFFFF"><span style="background-color: #AA0000">&nbsp;3 </span> 
 </font> </b> </a></p>
 
 <p class="TuaDenLeft">CHÚ THÍCH</p>

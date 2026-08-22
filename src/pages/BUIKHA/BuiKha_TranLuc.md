@@ -3,7 +3,7 @@ layout: ../../layouts/Article.astro
 title: "Linh Mục Trần Lục Có Phải Là Một Anh Tài, Một Vĩ Nhân?"
 author: "Bùi Kha"
 date: 2020-07-01
-source: "https://sachhiem.net/BUIKHA/BuiKha_TranLuc.php"
+source: "/BUIKHA/BuiKha_TranLuc"
 category: "Lịch sử"
 lang: vi
 wordCount: 8743

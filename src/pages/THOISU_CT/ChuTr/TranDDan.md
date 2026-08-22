@@ -3,7 +3,7 @@ layout: ../../../layouts/Article.astro
 title: "Chín Mâu Thuẫn Nội Tại Của Trump:"
 author: "Trần Đán"
 date: 2017-01-06
-source: "https://sachhiem.net/THOISU_CT/ChuTr/TranDDan.php"
+source: "/THOISU_CT/ChuTr/TranDDan"
 category: "Chính trị"
 lang: vi
 wordCount: 3404

@@ -2,13 +2,13 @@
 layout: ../../../layouts/Article.astro
 title: "Công Giáo Huyền Thoại và Tội Ác"
 author: "Charlie Nguyễn"
-source: "https://sachhiem.net/CHARLIE/CN_CGHT/dongten.php"
+source: "/CHARLIE/CN_CGHT/dongten"
 lang: vi
 wordCount: 6233
-image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nha.jpg"
+image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/EMAILS/IMG/Loithedongten.jpg"
 ---
 
-<p align="center"><a href="/index"><img hspace="20" border="0" src="https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nha.jpg"></a><b><font face="Symbol" size="5"><a target="_top" href="/CHARLIE/CN_CGHT/CN_CGHTdir">¿</a></font></b> trở ra mục lục |  2007 </p>
+<p align="center"><b><font face="Symbol" size="5"><a target="_top" href="/CHARLIE/CN_CGHT/CN_CGHTdir">¿</a></font></b> trở ra mục lục |  2007 </p>
 <p><a class="TuaDoLeft" name="end1" href="/CHARLIE/#1"><b>I. CÁC TU SĨ DÒNG TÊN</b> (The Company of Jesus)</a></p>
 <p class="MsoNormal" style="margin-bottom: 5" align="right"><i>"Ai chơi dao sẽ
 chết vì dao"</i></p>
@@ -565,7 +565,7 @@ còn nguyên đó!<img src="https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/
 <p><b>SH mời đọc bài liên quan:</b></p>
 <p><a class="TuaDenLeft" name="end5" href="/CHARLIE/#5"><b>- - Alexandre de Rhodes và Chữ Quốc Ngữ</b></a></p>
 
-<p><a href="https://sachhiem.net/CHARLIE/CN_TTDTG/Alexandre.php">https://sachhiem.net/CHARLIE/CN_TTDTG/Alexandre.php</a></p>
+<p><a href="/CHARLIE/CN_TTDTG/Alexandre">https://sachhiem.net/CHARLIE/CN_TTDTG/Alexandre.php</a></p>
 
 
 <hr>

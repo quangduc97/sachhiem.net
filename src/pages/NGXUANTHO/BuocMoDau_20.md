@@ -3,18 +3,17 @@ layout: ../../layouts/Article.astro
 title: "Bước Mở Đầu Của Sự Thiết Lập Hệ Thống Thuộc Địa Pháp Ở Việt Nam"
 author: "TS Nguyễn Xuân Thọ"
 date: 2023-02-13
-source: "https://sachhiem.net/NGXUANTHO/BuocMoDau_20.php"
+source: "/NGXUANTHO/BuocMoDau_20"
 category: "Lịch sử"
 lang: vi
 wordCount: 8842
-image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nha.jpg"
+image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/sqdot.gif"
 ---
 
 <p class="Tuaduoi"><b>Biện Pháp Thiết Lập Hệ Thống Thuộc Địa</b></p>
 
 
-  <p align="center"><a href="https://www.sachhiem.net/">
-<img border="0" src="https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nha.jpg"></a>| <a target="_blank" href="https://sachhiem.net/NGXUANTHO/BuocMoDau_Main.php"><span lang="en-us"><b><font face="Symbol">¿</font></b></span> trở ra mục lục</a>| 13-Feb-2023</p> 
+  <p align="center">| <a target="_blank" href="/NGXUANTHO/BuocMoDau_Main"><span lang="en-us"><b><font face="Symbol">¿</font></b></span> trở ra mục lục</a>| 13-Feb-2023</p> 
 <p class="TuaDoLeft"><b>Chương 19 - Những Biện Pháp Đầu Tiên Nhằm Thiết Lập Hệ Thống Thuộc Địa</b></p>
 <p>Mặc dầu lãnh tụ là Hàm Nghi đã bị bắt, cuộc kháng chiến của người Việt Nam vẫn cứ tiếp tục. Cuộc kháng chiến này, đối với các nhà chức trách Pháp, không những chỉ là một niềm lo âu lớn về chính trị, mà nó còn tạo cho chánh phủ bảo hộ nhiều khó khăn tài chính lớn. Vấn đề giữ gìn những đất đai chinh phục được cũng tốn kém ngang hàng với việc chinh phục đất đai.</p>
 <p>Từ năm 1860 đến 1895, tổng chi phí lên đến 750 triệu francs vàng. Riêng năm 1888, phải chi 35 triệu francs vàng cho quân đội và 10 triệu cho hải quân. Ai chịu các khoản chi phí này? Trước sự phản đối của phe cực tả và cả phe hữu, sự chi viện của chính quốc ngày càng trở nên bấp bênh. Vậy là chính Việt Nam sẽ phải gánh lấy chi phí của chế độ mới, ngoài ra còn phải đóng góp vào cho ngân khố chính quốc nữa.</p>

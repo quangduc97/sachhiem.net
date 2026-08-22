@@ -3,7 +3,7 @@ layout: ../../layouts/Article.astro
 title: "Công Giáo Việt Nam Có Hỗ Trợ Việc Pháp Đô Hộ Nước Ta ?"
 author: "Bùi Kha"
 date: 2014-03-14
-source: "https://sachhiem.net/BUIKHA/BuiKha26.php"
+source: "/BUIKHA/BuiKha26"
 category: "Lịch sử"
 lang: vi
 wordCount: 7729

@@ -3,7 +3,7 @@ layout: ../../../layouts/Article.astro
 title: "Thư Gửi Người bạn Chưa Quen Của tôi:"
 author: "Đức Dũng"
 date: 2016-07-11
-source: "https://sachhiem.net/TONGIAO/tgD/DucDung04.php"
+source: "/TONGIAO/tgD/DucDung04"
 category: "Chính trị"
 lang: vi
 wordCount: 1227
@@ -45,11 +45,11 @@ image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/TONGIAO/IMG/VATICAN/
 
  <p class="nguonL">_____________________</p>
  <p><b>Bài đọc thêm:</b></p>
- <p>-<a href="https://sachhiem.net/TONGIAO/tgD/DucDung03.php"> <i>Cảm Nghĩ Về Một Vụ Án</i> (Đức Dũng)</a></p>
- <p>- <a href="https://sachhiem.net/index.php?content=showemail&amp;id=1627"><i>Thỉnh Nguyện Thư gởi Đức Thánh Cha Phanxicô nhân vụ "Vatileaks II" (Đức Dũng)</i></a></p>
-          <p> - <a href="https://sachhiem.net/TONGIAO/tgD/DucDung04.php"><i>Thư Gửi Người bạn Chưa Quen Của tôi: Francesca Chaouqui (Đức Dũng)</i></a></p>
-          <p> -<a href="https://sachhiem.net/TONGIAO/tgT/TinCBS.php"> <i>Hai Người Bị Bắt Trong Vụ Bê Bối Tài Liệu Bị Rò Rỉ Ở Vatican</i> (CBS News) </a></p>
-          <p>- <a href="https://sachhiem.net/TONGIAO/tgT/TinWaPost.php"><i>Vatican Bắt Giữ Hai Cố Vấn Bị Cáo Buộc Có Dính Líu Đến Các Tài Liệu Bị Rò Rỉ</i> (Anthony Faiola/ Washington Post)  </a></p>
+ <p>-<a href="/TONGIAO/tgD/DucDung03"> <i>Cảm Nghĩ Về Một Vụ Án</i> (Đức Dũng)</a></p>
+ <p>- <a href="/hop-thu/1627"><i>Thỉnh Nguyện Thư gởi Đức Thánh Cha Phanxicô nhân vụ "Vatileaks II" (Đức Dũng)</i></a></p>
+          <p> - <a href="/TONGIAO/tgD/DucDung04"><i>Thư Gửi Người bạn Chưa Quen Của tôi: Francesca Chaouqui (Đức Dũng)</i></a></p>
+          <p> -<a href="/TONGIAO/tgT/TinCBS"> <i>Hai Người Bị Bắt Trong Vụ Bê Bối Tài Liệu Bị Rò Rỉ Ở Vatican</i> (CBS News) </a></p>
+          <p>- <a href="/TONGIAO/tgT/TinWaPost"><i>Vatican Bắt Giữ Hai Cố Vấn Bị Cáo Buộc Có Dính Líu Đến Các Tài Liệu Bị Rò Rỉ</i> (Anthony Faiola/ Washington Post)  </a></p>
           <p>__________________</p>
           <p><b>Bài đọc thêm tiếng Anh:</b></p>
           <p><i>-<a href="https://cruxnow.com/church/2016/05/27/vatican-accuses-woman-at-heart-of-leaks-trial-of-calumny/"> Vatican accuses woman at heart of leaks trial of ‘calumny’</a></i> (Vatican cáo buộc cô Chaouqui là "vu khống" khi xét xử vụ án Rò Rỉ xét thông tin Vatican)</p>

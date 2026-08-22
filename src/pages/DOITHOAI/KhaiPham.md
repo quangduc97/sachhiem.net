@@ -3,7 +3,7 @@ layout: ../../layouts/Article.astro
 title: "Đôi lời công luận về hai chữ: \"Giao Điểm\" và \"Giao Điếm\""
 author: "Khai Phạm"
 date: 2016-07-07
-source: "https://sachhiem.net/DOITHOAI/KhaiPham.php"
+source: "/DOITHOAI/KhaiPham"
 category: "Chính trị"
 lang: vi
 wordCount: 728
@@ -11,7 +11,7 @@ image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/COVER/Converr
 ---
 
 <div class="tomluoc">
-     <p><i>LTS: Trong thư chuyển ra diễn đàn hôm nay, tác giả có thêm bổ túc lá thư đăng ở <a href="https://sachhiem.net/index.php?content=showemail&amp;id=1593">(link) </a>  vài đoạn bên dưới,  nên chúng tôi xin đăng lại. Phần trần tình của BBT SH xin xem <a href="https://sachhiem.net/index.php?content=showemail&amp;id=1593">ở bài Dư luận đồn đoán về cái gọi là nhóm Giao Điểm</a>. Mong rằng "giao điểm" mà tác giả nói đến, không phải chỉ là một điểm giao tiếp nhỏ (hình 1) để rồi các đoạn đường băng qua, mà hiểu như điểm hội tụ ở đoạn cuối của nhiều ngả đường (hình 2). </i></p>
+     <p><i>LTS: Trong thư chuyển ra diễn đàn hôm nay, tác giả có thêm bổ túc lá thư đăng ở <a href="/net/TCN/TCNts/TCNts056">(link) </a>  vài đoạn bên dưới,  nên chúng tôi xin đăng lại. Phần trần tình của BBT SH xin xem <a href="/net/TCN/TCNts/TCNts056">ở bài Dư luận đồn đoán về cái gọi là nhóm Giao Điểm</a>. Mong rằng "giao điểm" mà tác giả nói đến, không phải chỉ là một điểm giao tiếp nhỏ (hình 1) để rồi các đoạn đường băng qua, mà hiểu như điểm hội tụ ở đoạn cuối của nhiều ngả đường (hình 2). </i></p>
      <p align="center"><img src="https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/COVER/Converrgence_area.jpg" width="328" height="180" alt=""><img src="https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/COVER/Converrgence.jpg" width="240" height="180" alt=""></p>
      <p align="center">hình 1 và hình 2</p>
    </div>

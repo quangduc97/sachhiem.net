@@ -2,15 +2,14 @@
 layout: ../../../layouts/Article.astro
 title: "Chương Trình Fulbright Và Ngoại Giao Công Chúng Hoa Kỳ: Chương 5"
 author: "Sharma Rachana"
-source: "https://sachhiem.net/XAHOI/S/SharmaRachana_FUV5.php"
+source: "/XAHOI/S/SharmaRachana_FUV5"
 category: "Xã hội"
 lang: vi
 wordCount: 14281
-image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nha.jpg"
+image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/THOISU_CT/Hinh/FULBRIGHT/FUV-Ch5_1.jpg"
 ---
 
-<p align="center"><a href="https://www.sachhiem.net/">
-<img border="0" src="https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nha.jpg"></a> 
+<p align="center"> 
 August 27, 2024</p>
 <p class="TuaDoLeft">Chương 5: Chương trình Fulbright trong bộ máy quan liêu của Hoa Kỳ</p>
 <h3> Giới thiệu<span id="gii-thiu"> </span></h3>

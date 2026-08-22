@@ -3,7 +3,7 @@ layout: ../../../layouts/Article.astro
 title: "Bối Cảnh Lịch Sử Quanh Sự Ra Đời của Bản Tuyên Ngôn Độc Lập của Việt Nam"
 author: "Trần Hải Âu"
 date: 2020-12-07
-source: "https://sachhiem.net/LICHSU/TR/TranHaiAu.php"
+source: "/LICHSU/TR/TranHaiAu"
 category: "Chính trị"
 lang: vi
 wordCount: 11610
@@ -187,7 +187,7 @@ image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/LICHSU/IMG/WWAR/Euro
 <p>Nhưng đến tháng 12/1946,  Pháp trở mặt xé bỏ những điều cam kết, đánh Hải Phòng, Lạng Sơn, 19/11/1946 rồi  ngay ở Hà Nội 17/12/1946 nhưng gặp sự chống trả mãnh liệt của quân và dân ta.  Ngày 19/12/1946 Hồ Chủ tịch ra Lời kêu gọi toàn dân kháng chiến. Thế là một lần  nữa VN bị đắm chìm vào khói lửa.</p>
 <p class="sub"><b>10. Quốc Gia Việt Nam:</b></p>
 <p>Trong bối cảnh Chiến tranh Đông Dương đang diễn ra, năm 1948  Bảo Đại dưới áp lực của thực dân Pháp chấp nhận đứng ra đại diện cho các đảng  phái quốc gia hợp tác với Liên Hiệp Pháp để chống lại chính phủ Việt Nam Dân Chủ  Cộng Hòa. Ông nhận làm Quốc Trưởng của Quốc gia Việt Nam (1949 – 1955) dưới sự  điều hành quốc gia bởi thực dân Pháp. </p>
-<p>(xem tiếp <a href="https://sachhiem.net/LICHSU/TR/TranHaiAu_a.php">C. PHẦN BA: CÁC BẢN TUYÊN NGÔN</a>)</p>
+<p>(xem tiếp <a href="/LICHSU/TR/TranHaiAu_a">C. PHẦN BA: CÁC BẢN TUYÊN NGÔN</a>)</p>
 <p class="TacgiaL">Trần Hải Âu 
 </p>
  <p class="nguonL">Nguồn: tác giả gửi </p>

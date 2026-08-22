@@ -2,15 +2,15 @@
 layout: ../../../layouts/Article.astro
 title: "Bài Học Georgia"
 author: "Thiên Lôi"
-source: "https://sachhiem.net/THLOI/CT/ThienLoi4.php"
+source: "/THLOI/CT/ThienLoi4"
 category: "Chính trị"
 lang: vi
 wordCount: 7633
-image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nha.jpg"
+image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/THOISU_CT/Hinh/Georgiaconflict.jpg"
 ---
 
 <table border="0" cellpadding="0" width="250" align="center"><tbody><tr>
-	<td width="125"><a href="/index"><img border="0" src="https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nha.jpg"></a></td>
+	<td width="125"></td>
 	<td valign="top">	<font color="#606060" size="2">18 tháng 8, 2008	</font>
 	</td></tr></tbody></table>
 	

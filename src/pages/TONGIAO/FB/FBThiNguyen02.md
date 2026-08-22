@@ -3,7 +3,7 @@ layout: ../../../layouts/Article.astro
 title: "Lịch Sử Truyền Đạo Chúa Vào Thái Lan"
 author: "Thi Nguyên"
 date: 2019-04-07
-source: "https://sachhiem.net/TONGIAO/FB/FBThiNguyen02.php"
+source: "/TONGIAO/FB/FBThiNguyen02"
 category: "Tác giả"
 lang: vi
 wordCount: 1223
@@ -35,4 +35,4 @@ image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/SACHNGOAI/Hinhanh/BI
 <p class="nguonL">Nguồn <a href="https://www.facebook.com/photo.php?fbid=127987145024252&amp;set=a.111736336649333&amp;type=3&amp;theater">https://www.facebook.com/...</a></p>
 <p>______________________</p>
 <p><b>SH ghi chú:</b></p>
-<p>- (1) “<i>Viet Nam: Why Did We Go?</i>” Tác giả: Avro Manhattan - <a href="https://sachhiem.net/SACHNGOAI/snT/TTL_AVR_17.php">Chương 17: Lịch Sử Ban Đầu Của Quyền Lực Ca-tô tại Xiêm (Thái Lan) và Trung Quốc </a></p>
+<p>- (1) “<i>Viet Nam: Why Did We Go?</i>” Tác giả: Avro Manhattan - <a href="/SACHNGOAI/snT/TTL_AVR_17">Chương 17: Lịch Sử Ban Đầu Của Quyền Lực Ca-tô tại Xiêm (Thái Lan) và Trung Quốc </a></p>

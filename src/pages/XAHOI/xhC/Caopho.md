@@ -1,16 +1,14 @@
 ---
 layout: ../../../layouts/Article.astro
 title: "Cáo Phó - Cảm Tạ"
-source: "https://sachhiem.net/null"
+source: "/null"
 category: "Xã hội"
 lang: vi
 wordCount: 198
-image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nha.jpg"
+image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/CANHDEP/hongtrang007.gif"
 ---
 
-<p align="center"><a href="https://www.sachhiem.net/"> <img border="0" src="https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nha.jpg"></a> </p>
-
- 		<p align="center"><b>
+<p align="center"><b>
 		<font size="7" face="Times New Roman" color="#2E2211">cảm tạ </font></b>		</p>
      	<p align="center"> &lt;&lt;<a target="_blank" href="/CHIABUON/Chiabuon4">(xem thư chia buồn) </a>	&gt;&gt;</p>
 		<p align="center"><i>

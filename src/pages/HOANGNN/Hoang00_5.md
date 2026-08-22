@@ -1,11 +1,10 @@
 ---
 layout: ../../layouts/Article.astro
 title: "Thư ngỏ của Francis E Betz"
-source: "https://sachhiem.net/HOANGNN/Hoang00_5.php"
+source: "/HOANGNN/Hoang00_5"
 category: "Tác giả"
 lang: vi
 wordCount: 3712
-image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nha.jpg"
 ---
 
 <p class="Tuaduoi">gửi ông Lâm Quang Thi  
@@ -14,8 +13,7 @@ image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nha.jpg"
 
 
  
-<p align="center"><a href="https://www.sachhiem.net/">
-	<img border="0" src="https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nha.jpg"></a>05&nbsp; tháng 9, 2007
+<p align="center">05&nbsp; tháng 9, 2007
 </p>
 
 <p>Sách Hiếm:&nbsp; <i><font size="4">Mặc dù bài viết này đã cũ đến hơn hai 

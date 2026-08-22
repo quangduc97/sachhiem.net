@@ -3,7 +3,7 @@ layout: ../../../layouts/Article.astro
 title: "Giáo Phận Công Giáo Sài Gòn Qui Định Tiền Lễ"
 author: "FB Lê Phát Đạt"
 date: 2021-06-26
-source: "https://sachhiem.net/TONGIAO/FB/FBLePhatDat0.php"
+source: "/TONGIAO/FB/FBLePhatDat0"
 category: "Tác giả"
 lang: vi
 wordCount: 1068

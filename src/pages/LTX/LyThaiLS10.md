@@ -3,7 +3,7 @@ layout: ../../layouts/Article.astro
 title: "Thêm Vài Lập Luận - Không Thể Gọi VNCH Là Quốc Gia"
 author: "Lý Thái Xuân"
 date: 2022-05-10
-source: "https://sachhiem.net/LTX/LyThaiLS10.php"
+source: "/LTX/LyThaiLS10"
 category: "Chính trị"
 lang: vi
 wordCount: 2968
@@ -116,8 +116,8 @@ Thời điểm 1954-1975, ở miền Nam dưới vĩ tuyến 17:</p>
    <iframe width="480" height="270" src="https://www.youtube.com/embed/itvljXJjPFY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe>
  </p>
  <p>NÓNG: ĐÔI LỜI DẠY DỖ HOÀNG DUY HÙNG - BIẾT THÌ THƯA THỚT, KHÔNG BIẾT DỰA CỘT MÀ NGHE - ĐỪNG NÓI LÁO!</p>
- <p>2. Ngụy trang dưới cái lý luận là để đòi lại quần đảo Hoàng Sa. <a href="https://sachhiem.net/LICHSU/FB/CongTamVo_01.php?fbclid=IwAR0HFnaP5a3gOhsUECTfz9Evulfs8QgOQ4Tl-6-gzZW0OKR6hDxiKxXYDik" rel="nofollow noopener" role="link" tabindex="0" target="_blank">https://sachhiem.net/LICHSU/FB/CongTamVo_01.php</a></p>
- <p>3. Sai lầm nghiêm trọng trong việc nói có 2 quốc gia: <a href="https://sachhiem.net/LICHSU/FB/CongTamVo.php?fbclid=IwAR1dVSJ4zW5eInG6ldG_TVsRGG0LmyesFE9Xxuw53V6YwU39HRW2wgCkBgI" rel="nofollow noopener" role="link" tabindex="0" target="_blank">https://sachhiem.net/LICHSU/FB/CongTamVo.php</a></p>
+ <p>2. Ngụy trang dưới cái lý luận là để đòi lại quần đảo Hoàng Sa. <a href="/LICHSU/FB/CongTamVo_01.php?fbclid=IwAR0HFnaP5a3gOhsUECTfz9Evulfs8QgOQ4Tl-6-gzZW0OKR6hDxiKxXYDik" rel="nofollow noopener" role="link" tabindex="0" target="_blank">https://sachhiem.net/LICHSU/FB/CongTamVo_01.php</a></p>
+ <p>3. Sai lầm nghiêm trọng trong việc nói có 2 quốc gia: <a href="/LICHSU/FB/CongTamVo.php?fbclid=IwAR1dVSJ4zW5eInG6ldG_TVsRGG0LmyesFE9Xxuw53V6YwU39HRW2wgCkBgI" rel="nofollow noopener" role="link" tabindex="0" target="_blank">https://sachhiem.net/LICHSU/FB/CongTamVo.php</a></p>
  <p>4. PHẢN BIỆN HDH: NƯỚC VIỆT LÀ MỘT</p>
  <p><a href="https://www.youtube.com/watch?v=ipLdPictu2Y">https://www.youtube.com/watch?v=ipLdPictu2Y</a></p>
  <p>5. Luận án Tiến sĩ Cầu Lông và Tiến sĩ Bìm Bịp <br>

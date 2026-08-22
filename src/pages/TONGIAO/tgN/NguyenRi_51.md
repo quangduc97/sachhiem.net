@@ -3,7 +3,7 @@ layout: ../../../layouts/Article.astro
 title: "Không Có Cựu Ước, Làm Sao Có Tân Ước?"
 author: "Ri Nguyễn sưu tầm"
 date: 2021-03-23
-source: "https://sachhiem.net/TONGIAO/tgN/NguyenRi_51.php"
+source: "/TONGIAO/tgN/NguyenRi_51"
 category: "Tác giả"
 lang: vi
 wordCount: 3112
@@ -187,4 +187,4 @@ image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/SACHNGOAI/Hinhanh/BI
 <p>Nguyễn thị Saigon</p>
 <p>_____________________</p>
  <p>Các bài của Nguyễn Ri: link</p>
- <p> <a href="https://sachhiem.net/TONGIAO/tgN/ListRiNguyen.inc.php" target="_blank">https://sachhiem.net/TONGIAO/tgN/ListRiNguyen.inc.php</a></p>
+ <p> <a href="/TONGIAO/tgN/ListRiNguyen.inc" target="_blank">https://sachhiem.net/TONGIAO/tgN/ListRiNguyen.inc.php</a></p>

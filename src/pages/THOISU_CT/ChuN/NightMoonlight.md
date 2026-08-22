@@ -3,7 +3,7 @@ layout: ../../../layouts/Article.astro
 title: "Đa đảng? Việt Nam sẽ chết ngay tức khắc!"
 author: "NightMoonLight"
 date: 2014-08-13
-source: "https://sachhiem.net/THOISU_CT/ChuN/NightMoonlight.php"
+source: "/THOISU_CT/ChuN/NightMoonlight"
 category: "Chính trị"
 lang: vi
 wordCount: 7982
@@ -168,4 +168,4 @@ Vậy, người VN thích sống trong một xã hội độc đảng mà còn t
   <p class="nguonL">Nguồn https://nightmoonlight.wordpress.com/2013/02/17/da-dang-vn-se-chet-ngay-tuc-khac/  CHỦ NHẬT - 17.THÁNG 2.2013 BY NIGHTMOONLIGHT</p>
   <p><b>Phản hồi:</b></p>
   <p> - độc giả Lương văn Phi:<br>
-<a href="https://sachhiem.net/index.php?content=showemail&amp;id=702">https://sachhiem.net/index.php?content=showemail&amp;id=702 </a></p>
+<a href="/net/index">https://sachhiem.net/index.php?content=showemail&amp;id=702 </a></p>

@@ -3,7 +3,7 @@ layout: ../../layouts/Article.astro
 title: "Nói Về “Lối Thoát Cho VN” Với Ts Mai Thanh Truyết"
 author: "Trần Khách Quan"
 date: 2014-11-20
-source: "https://sachhiem.net/DOITHOAI/TranKhachQuan_01.php"
+source: "/DOITHOAI/TranKhachQuan_01"
 category: "Chính trị"
 lang: vi
 wordCount: 1661
@@ -62,12 +62,12 @@ image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/THOISU_CT/Hinh/CCCB/
      Như vậy, cái lối thoát  của ông Tiến Sĩ chỉ có nghĩa là <b>bế tắc</b> ! </p>
 <p>
      Nếu  đứng dưới góc độ là Đệ Nhứt Phó Chủ Tịch của Đại Việt Quốc Dân Đảng, ông Tiến  Sĩ Mai Thanh Truyết có thể cứ dóc phét lừa mị dân như những chính khứa của các  đảng phái khác thì cũng có thể chấp nhận được vì đó <i>là tính cách và  là công việc phải làm của chính khứa bọn họ</i>. Nhưng, dưới góc độ của một  Thầy Giáo và một Khoa Học Gia Tiến Sĩ Hóa Học Đại Học Besancon Pháp thì cứ dóc  phét lừa mị dân như thế thật là khó có thể chấp nhận được, bởi vì đó là đã đánh  mất lương tâm và danh dự của một vị Thầy  và một Nhà Khoa Học có học  vị cao nhất trong mọi học vị.(*) </p>
-   <p>  <a href="https://sachhiem.net/THOISU_CT/ChuTr/TranKhachQuan_01a.php"><i>(xem tiếp kỳ sau)</i></a> </p>
+   <p>  <a href="/THOISU_CT/ChuTr/TranKhachQuan_01a"><i>(xem tiếp kỳ sau)</i></a> </p>
 <p class="TacgiaL">Khách  Quan. </p>
    <p>(*) Những người có bằng cấp  của VN thường chỉ dùng bằng cấp để làm quan, một dạng thức của những công bộc  .Vì mang đặc tính thói quen của công bộc cho nên nhận thức chính trị của các  nhà khoa bảng Việt Nam cũng chẳng khác gì thường dân. Tiến Sĩ cũng không là  ngoại lệ. (Dựa theo ý của “chuyên gia dân chủ đa nguyên” Nguyễn Gia Kiểng)</p>
     <p>____________ </p>
    <p><b>Bài đọc thêm:</b></p>
-   <p>- <a href="https://sachhiem.net/index.php?content=showrecipe&amp;id=6002"><i>Vài Ý Kiến Về Lá Thư Của Ông Mai Thanh Truyết Trên Diễn Đàn Thư Tín</i></a> của Nguyễn Mạnh Quang</p>
+   <p>- <a href="/NMQ/NMQ48"><i>Vài Ý Kiến Về Lá Thư Của Ông Mai Thanh Truyết Trên Diễn Đàn Thư Tín</i></a> của Nguyễn Mạnh Quang</p>
     <hr>
    <p>On Friday, November 7, 2014  10:30 AM, <br>
       'Hieu Doan' via CỘNG  ĐỒNG NGƯỜI VIỆT QUỐC GIA HOA KỲ - CỘNG ĐỒNG THÀNH VIÊN  &lt;CDNVQGHK_CDTV@googlegroups.com&gt; wrote:</p>

@@ -3,7 +3,7 @@ layout: ../../../layouts/Article.astro
 title: "Đóng diễn lại phim tư liệu Bồ tát Quảng Đức tự thiêu?"
 author: "Minh Thạnh"
 date: 2011-11-03
-source: "https://sachhiem.net/TONGIAO/tgM/MinhThanh07.php"
+source: "/TONGIAO/tgM/MinhThanh07"
 category: "Tác giả"
 lang: vi
 wordCount: 3223

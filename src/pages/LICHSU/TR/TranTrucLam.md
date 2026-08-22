@@ -3,7 +3,7 @@ layout: ../../../layouts/Article.astro
 title: "Người Miêu: Lịch Sử Của Một Dân Tộc Lưu Vong"
 author: "Trần Trúc - Lâm"
 date: 2015-03-21
-source: "https://sachhiem.net/LICHSU/TR/TranTrucLam.php"
+source: "/LICHSU/TR/TranTrucLam"
 category: "Chính trị"
 lang: vi
 wordCount: 10251

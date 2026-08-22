@@ -3,7 +3,7 @@ layout: ../../layouts/Article.astro
 title: "Thảo Luận: Thánh Kinh Và Giá Trị Đạo Đức"
 author: "Sâm Nguyễn"
 date: 2012-12-30
-source: "https://sachhiem.net/DOITHOAI/Samng.php"
+source: "/DOITHOAI/Samng"
 category: "Đối thoại"
 lang: vi
 wordCount: 2658
@@ -84,10 +84,10 @@ image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/TONGIAO/IMG/BIBLE/Sa
      
      <p class="MUC">PHỤ LỤC</p>
      <p><b>Những lá thư liên hệ:</b></p>
-     <p>● 2012-12-25 - <a href="/DOITHOAI/index.php?content=showemail&amp;id=207">Hỏi Mục Sư NQ Minh- Bắt chước Chúa   Trời - chia gái trinh - có bị tù không?</a> - <i>Nguyễn Sâm </i>-</p>
-     <p>● 2012-12-25 - <a href="/DOITHOAI/index.php?content=showemail&amp;id=208">MS Nguyễn Quang Minh: “Nó không có   gì là KINH, mà cũng không có gì là THÁNH cả.” - Thiện Ác không phải do </a> - <i>MS   Nguyễn Quang Minh </i>-</p>
-     <p>● 2012-12-25 - <a href="/DOITHOAI/index.php?content=showemail&amp;id=209">Mục sư: Chúa Trời ra lệnh hủy diệt   hết bọn người con lai không phải con cháu của Adam mà là con </a>- <i>MS Nguyễn   Quang Minh - Trương Minh Sơn </i>-</p>
-     <p>● 2012-12-29 - <a href="/DOITHOAI/index.php?content=showemail&amp;id=213">Nên vận động Giáo Hoàng, giáo hội   Kitô, và chính phủ VN cho dán những dòng Disclaimer trên các quyển TK</a>- <i>Sâm   Nguyễn - Trần Quang Diệu </i>- </p>
+     <p>● 2012-12-25 - <a href="/hop-thu/207">Hỏi Mục Sư NQ Minh- Bắt chước Chúa   Trời - chia gái trinh - có bị tù không?</a> - <i>Nguyễn Sâm </i>-</p>
+     <p>● 2012-12-25 - <a href="/net/index">MS Nguyễn Quang Minh: “Nó không có   gì là KINH, mà cũng không có gì là THÁNH cả.” - Thiện Ác không phải do </a> - <i>MS   Nguyễn Quang Minh </i>-</p>
+     <p>● 2012-12-25 - <a href="/net/index">Mục sư: Chúa Trời ra lệnh hủy diệt   hết bọn người con lai không phải con cháu của Adam mà là con </a>- <i>MS Nguyễn   Quang Minh - Trương Minh Sơn </i>-</p>
+     <p>● 2012-12-29 - <a href="/hop-thu/213">Nên vận động Giáo Hoàng, giáo hội   Kitô, và chính phủ VN cho dán những dòng Disclaimer trên các quyển TK</a>- <i>Sâm   Nguyễn - Trần Quang Diệu </i>- </p>
      
      <p><b>Bài đọc thêm</b></p>
-     <p>- <a href="https://sachhiem.net/TONGIAO/tgT/TinFox.php">Các Nhà Chức Trách Hồng Kông Toan Tính Xếp Kinh Thánh Vào Loại Phi Luân,  https://sachhiem.net/TONGIAO/tgT/TinFox.php</a></p>
+     <p>- <a href="/TONGIAO/tgT/TinFox">Các Nhà Chức Trách Hồng Kông Toan Tính Xếp Kinh Thánh Vào Loại Phi Luân,  https://sachhiem.net/TONGIAO/tgT/TinFox.php</a></p>

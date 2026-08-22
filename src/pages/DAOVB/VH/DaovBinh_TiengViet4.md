@@ -3,7 +3,7 @@ layout: ../../../layouts/Article.astro
 title: "Thảm họa tiếng Anh “ba rọi” của người Việt bây giờ"
 author: "Đào Văn Bình"
 date: 2016-08-26
-source: "https://sachhiem.net/DAOVB/VH/DaovBinh_TiengViet4.php"
+source: "/DAOVB/VH/DaovBinh_TiengViet4"
 category: "Văn hóa"
 lang: vi
 wordCount: 1832
@@ -147,10 +147,10 @@ image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/THOISU_CT/Hinh/VIETN
      <p>2.  <a href="https://tuoitre.vn/tin/ban-doc/20100827/tranh-dung-tieng-lai/397427.html">  Tránh dùng  “tiếng lai” (Trần Đức Nguyên/Tuổi Trẻ, 27/08/2010 )</a></p>
      <p>3. <a href="https://www.tgn.edu.vn/bai-viet/c63/i104/tieng-viet-co-con-trong-sang-.html">Tiếng Việt Có Còn Trong Sáng? (PGS.TS. Phạm V. Tình/ TGN) </a> </p>
      <p>4. <a href="https://www.facebook.com/notes/i-love-viet-nam/gi%E1%BB%AF-g%C3%ACn-s%E1%BB%B1-trong-s%C3%A1ng-c%E1%BB%A7a-ti%E1%BA%BFng-vi%E1%BB%87t/173847037396">Giữ gìn sự trong sáng của tiếng Việt (Trần Quang Đại)</a></p>
-     <p>5. <a href="https://sachhiem.net/printemail.php?id=31">Ở Giếng Đã Lâu! (Minh Di)</a></p>
+     <p>5. <a href="/printemail.php?id=31">Ở Giếng Đã Lâu! (Minh Di)</a></p>
 <p>6. <a href="https://bloggoldmund.blogspot.com/2011/11/pha-hoai-su-trong-sang-cua-tieng-viet.html">Phá hoại sự trong sáng của tiếng  Việt</a></p>
-<p>7. <a href="https://sachhiem.net/DAOVB/VH/DaovBinh_TiengViet.php">Thế Nào Là Tiếng Việt Trong Sáng? (Đào Văn Bình)</a></p>
-<p>8. <a href="https://sachhiem.net/DAOVB/VH/DaovBinh_TiengViet3.php">Lại Nói Về Tiếng Việt Tệ Hại Của BBC Việt Ngữ (Đào Văn Bình)</a></p>
+<p>7. <a href="/DAOVB/VH/DaovBinh_TiengViet">Thế Nào Là Tiếng Việt Trong Sáng? (Đào Văn Bình)</a></p>
+<p>8. <a href="/DAOVB/VH/DaovBinh_TiengViet3">Lại Nói Về Tiếng Việt Tệ Hại Của BBC Việt Ngữ (Đào Văn Bình)</a></p>
 <p>9. <a href="https://hoamunich.wordpress.com/2013/10/22/nhu-mot-giac-mo/">Trình Độ Việt Ngữ BBC Và VOA (Đào Văn Bình)</a></p>
 <hr>
- <p><a href="https://sachhiem.net/DAOVB/DVBdir.php">-- Link các bài viết của tác giả Đào Văn Bình --</a> </p>
+ <p><a href="/DAOVB/DVBdir">-- Link các bài viết của tác giả Đào Văn Bình --</a> </p>

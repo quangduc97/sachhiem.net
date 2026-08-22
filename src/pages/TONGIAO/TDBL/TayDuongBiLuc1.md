@@ -2,11 +2,11 @@
 layout: ../../../layouts/Article.astro
 title: "Tây Dương Gia Tô Bí Lục"
 author: "Phạm Ngộ Hiên, Nguyễn Hoà Đường, Nguyễn Bá Am và Trần Đình Hiên"
-source: "https://sachhiem.net/TONGIAO/TDBL/TayDuongBiLuc1.php"
+source: "/TONGIAO/TDBL/TayDuongBiLuc1"
 category: "Tác giả"
 lang: vi
 wordCount: 10850
-image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nha.jpg"
+image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/SACH/TayDuongBL.jpg"
 ---
 
 <p class="Tuaduoi">Ghi chép những chuyện kín của đạo Gia Tô Tây Dương</p>
@@ -14,7 +14,7 @@ image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nha.jpg"
      
      
      
-     <p align="center"><a href="https://sachhiem.net/index.php"><img hspace="20" border="0" src="https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nha.jpg"></a> 07 tháng 10, 2007 </p>
+     <p align="center"> 07 tháng 10, 2007 </p>
      <p><br>
       Bấm vào số dưới đây để chọn bài đọc&nbsp; <br>
       &nbsp;<a href="/TONGIAO/TDBL/TayDuongBiLuc1">1</a>&nbsp;  &nbsp;<a href="/TONGIAO/TDBL/TayDuongBiLuc2">2</a>&nbsp;  &nbsp;<a href="/TONGIAO/TDBL/TayDuongBiLuc3">3</a>&nbsp;  &nbsp;<a href="/TONGIAO/TDBL/TayDuongBiLuc4">4</a>&nbsp; &nbsp;<a href="/TONGIAO/TDBL/TayDuongBiLuc5">5</a>&nbsp; &nbsp;<a href="/TONGIAO/TDBL/TayDuongBiLuc6">6</a>&nbsp; &nbsp;<a href="/TONGIAO/TDBL/TayDuongBiLuc7">7</a>&nbsp; &nbsp;<a href="/TONGIAO/TDBL/TayDuongBiLuc8">8</a>&nbsp; &nbsp;<a href="/TONGIAO/TDBL/TayDuongBiLuc9">9</a>&nbsp; &nbsp;<a href="/TONGIAO/TDBL/TayDuongBiLuc10">10</a>&nbsp; </p>

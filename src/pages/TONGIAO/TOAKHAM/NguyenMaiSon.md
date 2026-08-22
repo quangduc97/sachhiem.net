@@ -2,18 +2,17 @@
 layout: ../../../layouts/Article.astro
 title: "Cầu nguyện đòi \"Toà khâm\""
 author: "Nguyễn Mai Sơn"
-source: "https://sachhiem.net/TONGIAO/TOAKHAM/.php"
+source: "/TONGIAO/TOAKHAM/"
 category: "Tác giả"
 lang: vi
 wordCount: 2999
-image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nha.jpg"
 ---
 
 <p class="Tuaduoi">nên nhìn vào sự thật</p>
 		
 		
 
-<p align="center"><a href="https://sachhiem.net/index.php"><img border="0" hspace="20" src="https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nha.jpg"></a>27 tháng 1, 2008</p>
+<p align="center">27 tháng 1, 2008</p>
 
 
  <p>[26.01.2008 11:32]</p>

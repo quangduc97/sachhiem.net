@@ -3,7 +3,7 @@ layout: ../../../layouts/Article.astro
 title: "LỄ NÔ EN"
 author: "Trần Trọng Sỹ"
 date: 2019-12-21
-source: "https://sachhiem.net/TTS/TG/TranTrongSy09.php"
+source: "/TTS/TG/TranTrongSy09"
 category: "Tác giả"
 lang: vi
 wordCount: 10246
@@ -286,4 +286,4 @@ Hết dịch.
 <p>Toàn văn bài viết của mục sư John  Ogwin được dịch sang Pháp ngữ: "NOËL EST-IL CHRÉTIEN ?"<br>
   <a href="https://www.mondedemain.org/revues/2004/septembre-decembre/noel-est-il-chretien">https://www.mondedemain.org/revues/2004/septembre-decembre/noel-est-il-chretien</a></p>
 <p>___________________ </p>
- <p>Các bài của Trần Trọng Sỹ: link <a href="https://sachhiem.net/TTS/ListTTS.inc.php" target="_blank">https://sachhiem.net/TTS/ListTTS.inc.php</a></p>
+ <p>Các bài của Trần Trọng Sỹ: link <a href="/TTS/ListTTS.inc" target="_blank">https://sachhiem.net/TTS/ListTTS.inc.php</a></p>

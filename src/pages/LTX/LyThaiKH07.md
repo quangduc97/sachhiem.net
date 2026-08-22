@@ -2,7 +2,7 @@
 layout: ../../layouts/Article.astro
 title: "Nguồn Năng Lượng Đầu Tiên Của Sự Sống"
 author: "Zoё Macintosh/LiveScience Staff"
-source: "https://sachhiem.net/LTX/LyThaiKH07.php"
+source: "/LTX/LyThaiKH07"
 category: "Khoa học"
 lang: vi
 wordCount: 1460

@@ -2,15 +2,14 @@
 layout: ../../../layouts/Article.astro
 title: "Chương Trình Fulbright Và Ngoại Giao Công Chúng Hoa Kỳ: Chương 6"
 author: "Sharma Rachana"
-source: "https://sachhiem.net/XAHOI/S/SharmaRachana_FUV7.php"
+source: "/XAHOI/S/SharmaRachana_FUV7"
 category: "Xã hội"
 lang: vi
 wordCount: 8291
-image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nha.jpg"
+image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/THOISU_CT/Hinh/FULBRIGHT/FUV-Ch7_1.jpg"
 ---
 
-<p align="center"><a href="https://www.sachhiem.net/">
-<img border="0" src="https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nha.jpg"></a> 
+<p align="center"> 
 August 27, 2024</p>
 <p class="TuaDoLeft">Chương 7: Kết Luận</p>
 <h3> Giới thiệu<span id="gii-thiu"> </span></h3>

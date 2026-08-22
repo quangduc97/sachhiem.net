@@ -3,7 +3,7 @@ layout: ../../layouts/Article.astro
 title: "Những Bóng Ma Trong Nhà Trẻ St. Joseph ở Burlington P6"
 author: "Lý Thái Xuân dịch"
 date: 2021-05-09
-source: "https://sachhiem.net/LTX/LyThaiTG30_5nhatre.php"
+source: "/LTX/LyThaiTG30_5nhatre"
 category: "Tác giả"
 lang: vi
 wordCount: 1741
@@ -15,16 +15,16 @@ image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/TONGIAO/IMG/MASOEUR/
      
      
      <div class="tomluoc">
-       <p><a href="https://sachhiem.net/LTX/LythaiTG30_5nhatre.php"><i>Bài 6: Động Thái của Bị Đơn </i></a></p>
+       <p><a href="/LTX/LythaiTG30_5nhatre"><i>Bài 6: Động Thái của Bị Đơn </i></a></p>
        
        
      </div>
-          <div class="leftborder"><p><i>Xem lời giới thiệu ở <a href="https://sachhiem.net/LTX/LythaiTG30.php">Bài 1</a></i></p>
-<p><i><a href="https://sachhiem.net/LTX/LythaiTG30.php">Bài 1: Bà Sally Dale tường thuật. </a></i></p>
-<p><i><a href="https://sachhiem.net/LTX/LythaiTG30_1nhatre.php">Bài 2: Luật sư Philip White và người khách "bí ẩn"</a></i></p>
- <p><a href="https://sachhiem.net/LTX/LythaiTG30_2nhatre.php"><i>Bài 3: Luật sư Robert Widman vào cuộc </i></a></p>
- <p><a href="https://sachhiem.net/LTX/LythaiTG30_3nhatre.php"><i>Bài 4: Những Âm Thanh Kinh Hoàng</i></a></p>
- <p><a href="https://sachhiem.net/LTX/LythaiTG30_4nhatre.php"><i>Bài 5:  Chuyện Cô Bé Bị Tra Tấn Vì Ăn Cắp Kẹo </i></a></p>
+          <div class="leftborder"><p><i>Xem lời giới thiệu ở <a href="/LTX/LythaiTG30">Bài 1</a></i></p>
+<p><i><a href="/LTX/LythaiTG30">Bài 1: Bà Sally Dale tường thuật. </a></i></p>
+<p><i><a href="/LTX/LythaiTG30_1nhatre">Bài 2: Luật sư Philip White và người khách "bí ẩn"</a></i></p>
+ <p><a href="/LTX/LythaiTG30_2nhatre"><i>Bài 3: Luật sư Robert Widman vào cuộc </i></a></p>
+ <p><a href="/LTX/LythaiTG30_3nhatre"><i>Bài 4: Những Âm Thanh Kinh Hoàng</i></a></p>
+ <p><a href="/LTX/LythaiTG30_4nhatre"><i>Bài 5:  Chuyện Cô Bé Bị Tra Tấn Vì Ăn Cắp Kẹo </i></a></p>
           </div>
        <p class="TuaDenLeft">6. Động Thái của Bị Đơn </p>
        <p>Bên bào chữa đã kịch liệt phản đối việc cho phép tất cả các nguyên đơn gộp vụ kiện của họ lại để xét xử chung. Họ lập luận rằng việc nghe những câu chuyện từ một khoảng thời gian quá dài như vậy có thể gây ảnh hưởng xấu đến bồi thẩm đoàn. Và họ đã phản bác các nhân chứng của Luật sư Widman, lập luận rằng nếu họ không có mặt tại St. Joseph's cùng thời điểm với một nguyên đơn cụ thể, thì kinh nghiệm của họ không liên quan và sẽ gây ảnh hưởng xấu đến bồi thẩm đoàn một cách không công bằng. Sartore, luật sư của các Nữ tu, sau đó đã mô tả chiến lược pháp lý này với tôi là "<i>chiến thuật chia để trị truyền thống</i>".</p>
@@ -65,8 +65,8 @@ image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/TONGIAO/IMG/MASOEUR/
      <p class="nguonL">Nguồn: <a href="https://www.buzzfeednews.com/article/christinekenneally/orphanage-death-catholic-abuse-nuns-st-josephs">https://tinyurl.com/7w5mmtr6</a></p>
      <p>_________________</p>
      <p><b>Những bài cùng chủ đề:</b></p>
-     <p>- <a href="https://sachhiem.net/LTX/LythaiTG30.php">Những Bóng Ma Trong Nhà Trẻ St. Joseph của Công Giáo La Mã, Chúng Tôi Đã Nhìn Thấy Các Nữ Tu Giết Trẻ Em</a>; Lý Thái Xuân 09-May-2021</p>
-     <p>- <a href="https://sachhiem.net/SACHNGOAI/SH/SH41_Gravesfound.php">Phát Hiện Hàng Trăm Ngôi Mộ Không Tên Khác Tại Trường Nội Trú Ở Canada</a> - SH 29-Jun-2021</p>
-     <p>- <a href="https://sachhiem.net/SACHNGOAI/SH/SH41a_DietChung.php">Chờ Đến Những Phát Hiện Bi Thương Mới Biết Diệt Chủng Văn Hóa Là Tội Ác Như Thế Nào!</a> - SH 7-July-2021</p>
-     <p>- <a href="https://sachhiem.net/TONGIAO/FB/FBDuNguyen03.php">Tấm Ảnh Được Giải Thưởng "World Press Photo" Của Năm 2022 - Cảnh Tưởng Niệm Những Đứa Trẻ Bị Hại Tại Các Trường Nội Trú CGLM</a> Du Nguyên - 30-Jul-2022</p>
-     <p>- <a href="https://sachhiem.net/LTX/LythaiTG35.php">Chuyến Đi Xin Lỗi Thổ Dân ở Canada Của Giáo Hoàng Francis - Các trường nội trú của Canada là một hệ thống "diệt chủng văn hóa"</a> Lý Thái Xuân 27-Jul-2022</p>
+     <p>- <a href="/LTX/LythaiTG30">Những Bóng Ma Trong Nhà Trẻ St. Joseph của Công Giáo La Mã, Chúng Tôi Đã Nhìn Thấy Các Nữ Tu Giết Trẻ Em</a>; Lý Thái Xuân 09-May-2021</p>
+     <p>- <a href="/SACHNGOAI/SH/SH41_Gravesfound">Phát Hiện Hàng Trăm Ngôi Mộ Không Tên Khác Tại Trường Nội Trú Ở Canada</a> - SH 29-Jun-2021</p>
+     <p>- <a href="/SACHNGOAI/SH/SH41a_DietChung">Chờ Đến Những Phát Hiện Bi Thương Mới Biết Diệt Chủng Văn Hóa Là Tội Ác Như Thế Nào!</a> - SH 7-July-2021</p>
+     <p>- <a href="/TONGIAO/FB/FBDuNguyen03">Tấm Ảnh Được Giải Thưởng "World Press Photo" Của Năm 2022 - Cảnh Tưởng Niệm Những Đứa Trẻ Bị Hại Tại Các Trường Nội Trú CGLM</a> Du Nguyên - 30-Jul-2022</p>
+     <p>- <a href="/LTX/LythaiTG35">Chuyến Đi Xin Lỗi Thổ Dân ở Canada Của Giáo Hoàng Francis - Các trường nội trú của Canada là một hệ thống "diệt chủng văn hóa"</a> Lý Thái Xuân 27-Jul-2022</p>

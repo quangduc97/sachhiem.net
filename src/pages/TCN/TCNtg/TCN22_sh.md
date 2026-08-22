@@ -3,14 +3,14 @@ layout: ../../../layouts/Article.astro
 title: "Các Danh Nhân Trí Thức Âu Mỹ Nghĩ Gì Về Ki-Tô Giáo"
 author: "Trần Chung Ngọc"
 date: 2018-05-19
-source: "https://sachhiem.net/TCN/TCNtg/TCN22_sh.php"
+source: "/TCN/TCNtg/TCN22_sh"
 lang: vi
 wordCount: 3218
 image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/LICHSU/IMG/HoaKy/Thomas-jefferson.jpg"
 ---
 
 <div class="tomluoc">
-  <p><i>LTS: Bài này thu gọn lại bài viết Danh Nhân Trí Thức Âu Mỹ Qua Các Thời Đại Nghĩ Gì Về Thần (God), Ki-Tô Giáo? của Giáo Sư Trần Chung Ngọc<a href="https://sachhiem.net/TCN/TCNtg/TCN22.php"> đã đăng năm 2007</a>: không có phần hình ảnh, bỏ phụ đề Anh ngữ, và câu nhập đề, để phục vụ một số bạn đọc thích như thế. (SH)</i></p>
+  <p><i>LTS: Bài này thu gọn lại bài viết Danh Nhân Trí Thức Âu Mỹ Qua Các Thời Đại Nghĩ Gì Về Thần (God), Ki-Tô Giáo? của Giáo Sư Trần Chung Ngọc<a href="/TCN/TCNtg/TCN22"> đã đăng năm 2007</a>: không có phần hình ảnh, bỏ phụ đề Anh ngữ, và câu nhập đề, để phục vụ một số bạn đọc thích như thế. (SH)</i></p>
 </div>
 <p align="center"><img src="https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/LICHSU/IMG/HoaKy/Thomas-jefferson.jpg" width="150" height="138" alt=""><img src="https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/LICHSU/IMG/HoaKy/JamesMadison.jpg" width="149" height="180" alt=""><img src="https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/LICHSU/IMG/HoaKy/AbeLincoln.jpg" width="150" height="201" alt=""></p>
 <p align="center"><i>3 vị Tổng Thống Mỹ: <br>

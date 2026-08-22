@@ -3,7 +3,7 @@ layout: ../../../layouts/Article.astro
 title: "Máu ta rơi cho bộ đội trưởng thành"
 author: "Người Việt Nam"
 date: 2023-02-21
-source: "https://sachhiem.net/LICHSU/FB/ThanhNienMienDong.php"
+source: "/LICHSU/FB/ThanhNienMienDong"
 category: "Chính trị"
 lang: vi
 wordCount: 1671

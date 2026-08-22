@@ -3,7 +3,7 @@ layout: ../../../layouts/Article.astro
 title: "Nhật Ký Biển Đông: Chiến Tranh Mỹ- Ba Tư Gần Kề"
 author: "Đào Văn Bình"
 date: 2019-05-21
-source: "https://sachhiem.net/DAOVB/CT/DaovBinh133.php"
+source: "/DAOVB/CT/DaovBinh133"
 category: "Chính trị"
 lang: vi
 wordCount: 4661

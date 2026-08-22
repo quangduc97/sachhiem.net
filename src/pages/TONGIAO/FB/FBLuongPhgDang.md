@@ -3,15 +3,14 @@ layout: ../../../layouts/Article.astro
 title: "Thiên Chúa Giáo Trong Mối Quan Hệ Với An Ninh Quốc Gia"
 author: "Lương Phong Đăng"
 date: 2018-04-07
-source: "https://sachhiem.net/TONGIAO/FB/FBLuongPhgDang.php"
+source: "/TONGIAO/FB/FBLuongPhgDang"
 category: "Chính trị"
 lang: vi
 wordCount: 1130
-image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nha.jpg"
+image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/TONGIAO/IMG/NGHEAN/DangHuuNam_kienFormosa_14-2-2017.jpg"
 ---
 
-<p align="center"><a href="https://www.sachhiem.net/">
-<img border="0" src="https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nha.jpg"></a> 
+<p align="center"> 
 ngày 07-Apr-2018</p>
  <div class="tomluoc">
    <p><i>Người Việt Nam luôn tôn trọng tự do tín ngưỡng của các tôn giáo khác, nhưng không cho phép tôn giáo nào đứng trên lợi ích quốc gia và sự tồn vong của dân tộc, và sự nhẫn nhịn nào cũng có giới hạn</i></p>

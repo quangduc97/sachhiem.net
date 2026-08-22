@@ -2,15 +2,15 @@
 layout: ../../../layouts/Article.astro
 title: "Vài Lời Cùng Chu Tất Tiến"
 author: "Trần Chung Ngọc"
-source: "https://sachhiem.net/TCN/TCNdt/TCNdt058.php"
+source: "/TCN/TCNdt/TCNdt058"
 category: "Đối thoại"
 lang: vi
 wordCount: 1019
-image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.devhttps://sachhiem.net/images/nha.jpg"
+image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/TCN/Pict/laCaravanePasse.jpg"
 ---
 
 <table border="0" width="250" align="center">
-    <tbody><tr><td width="100"><a href="https://sachhiem.net/index.php"><img border="0" src="https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.devhttps://sachhiem.net/images/nha.jpg"></a>    </td>   
+    <tbody><tr><td width="100">    </td>   
     <td width="257"><p>February 7, 2012</p></td>
     </tr></tbody></table>
     <p> <i>LTS: Theo chủ trương trung thực, chúng tôi vẫn thường
@@ -32,9 +32,9 @@ image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.devhttps://sachhiem.net/
         hàng rào bên đường. La caravane passe."</i>
          </p><hr>
     <p align="center"><img src="https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/TCN/Pict/laCaravanePasse.jpg" width="180" height="124"></p>
-    <p><span class="First">Đ</span>ọc bài <a href="https://sachhiem.net/index.php?content=showemail&amp;id=51">Nhập
+    <p><span class="First">Đ</span>ọc bài <a href="/net/index">Nhập
       nhằng đổi chữ "Chống Công Giáo" thành "Chống Tôn giáo"</a> của
-      Hoàng Thục An trên  <a href="https://sachhiem.net/index.php?content=showemail&amp;id=51">https://sachhiem.net </a>mục
+      Hoàng Thục An trên  <a href="/net/index">https://sachhiem.net </a>mục
       ý kiến ngắn, tôi mới biết là &nbsp;Chu Tất Tiến có lời “mời” Trần Chung Ngọc
       (cư ngụ tại miền Nam California) [sic] và Giáo sư Nguyễn Mạnh Quang đến
       một phòng hội của cộng đồng để tranh biện về vài vấn đề (<i><u>chữ nghiêng
@@ -92,13 +92,13 @@ image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.devhttps://sachhiem.net/
       tỏ ra mình ngu. Cứ chịu khó đọc đi, đọc để mở mang dầu óc thì không phải
       xuống hỏa ngục đâu mà sợ <img src="https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/sqdot.gif"></p>
     
-    <p align="left"> ☞ <a href="https://www.sachhiem.net/index.php?content=showrecipe&amp;id=391"> 
+    <p align="left"> ☞ <a href="/TCN/TCNdt/TCNdt010"> 
         <i>VÀI NHẬN XÉT VỀ: Bài Viết “THƯ NGỎ GỬI TIẾN SĨ TRẦN CHUNG NGỌC” Của
         Chu Tất Tiến </i>(Trần Chung Ngọc)</a><br>
-      ☞    <a href="https://www.sachhiem.net/index.php?content=showrecipe&amp;id=380">
+      ☞    <a href="/TCN/TCNdt/TCNdt038">
          <i>Lại Những Luận Điệu Vu Vơ: "QUẢ THẬT ĐÚNG LÀ CHU TẤT TIẾN</i>" (Trần
         Chung Ngọc) </a><br>
-      ☞    <a href="https://www.sachhiem.net/index.php?content=showrecipe&amp;id=5"> 
+      ☞    <a href="/NMQ/NMQ022"> 
         <i>Chuyện "Dê Cỏn Buồn Sừng" &nbsp;Của Con Chiên Chu Tất Tiến</i>,
       (Nguyễn Mạnh Quang)</a> </p>
     

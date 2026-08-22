@@ -2,7 +2,7 @@
 layout: ../../../layouts/Article.astro
 title: "Su-30MK2 cho Không Lực Việt Nam:"
 author: "Tin liên mạng"
-source: "https://sachhiem.net/Source: https://www.militaryphotos.net/forums/showthread.php?t=157172"
+source: "/Source: https://www.militaryphotos.net/forums/showthread.php?t=157172"
 category: "Chính trị"
 lang: vi
 wordCount: 196

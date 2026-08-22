@@ -3,7 +3,7 @@ layout: ../../../layouts/Article.astro
 title: "Thi Sĩ Ngô Kha, Trung Thực Một Đời Thơ"
 author: "Võ Quê"
 date: 2013-02-25
-source: "https://sachhiem.net/VANHOC/N/Ngokha_Voque.php"
+source: "/VANHOC/N/Ngokha_Voque"
 category: "Tác giả"
 lang: vi
 wordCount: 2997

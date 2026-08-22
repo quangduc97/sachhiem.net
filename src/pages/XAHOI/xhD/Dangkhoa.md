@@ -2,7 +2,7 @@
 layout: ../../../layouts/Article.astro
 title: "Chín Mươi Tuổi Kéo Xe Nuôi Vợ"
 author: "Đăng Khoa"
-source: "https://sachhiem.net/null"
+source: "/null"
 category: "Chính trị"
 lang: vi
 wordCount: 1437

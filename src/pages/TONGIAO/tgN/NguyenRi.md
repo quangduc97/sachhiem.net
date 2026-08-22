@@ -3,7 +3,7 @@ layout: ../../../layouts/Article.astro
 title: "Xưởng Sản Xuất Thánh"
 author: "Nguyễn Ri"
 date: 2013-07-24
-source: "https://sachhiem.net/TONGIAO/tgN/NguyenRi.php"
+source: "/TONGIAO/tgN/NguyenRi"
 category: "Tác giả"
 lang: vi
 wordCount: 798
@@ -32,4 +32,4 @@ John L. Allen Jr. kể thành tích sản xuất “Thánh” của của John P
 <p class="TacgiaL"> Nguyễn Ri </p>
 <p>__________________________</p>
 <p><b>Bài liên quan:</b></p>
-<p><a href="https://sachhiem.net/index.php?content=showrecipe&amp;id=5707">- Kế Sách Phong Thánh Cho Cố HY Nguyễn Văn Thuận</a> (Nguyễn Mạnh Quang)</p>
+<p><a href="/NMQ/NMQ043">- Kế Sách Phong Thánh Cho Cố HY Nguyễn Văn Thuận</a> (Nguyễn Mạnh Quang)</p>

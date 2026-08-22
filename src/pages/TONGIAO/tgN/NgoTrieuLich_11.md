@@ -3,7 +3,7 @@ layout: ../../../layouts/Article.astro
 title: "Đại Dịch 2019-NCOV & Mắc Dịch Vatican"
 author: "Ngô Triệu Lịch"
 date: 2020-03-06
-source: "https://sachhiem.net/TONGIAO/tgN/NgoTrieuLich_11.php"
+source: "/TONGIAO/tgN/NgoTrieuLich_11"
 category: "Chính trị"
 lang: vi
 wordCount: 668

@@ -3,7 +3,7 @@ layout: ../../layouts/Article.astro
 title: "KIẾP TRƯỚC"
 author: "Lý Thái Xuân"
 date: 2021-11-28
-source: "https://sachhiem.net/LTX/LyThaiXH41.php"
+source: "/LTX/LyThaiXH41"
 category: "Xã hội"
 lang: vi
 wordCount: 3110

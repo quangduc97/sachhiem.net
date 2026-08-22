@@ -3,7 +3,7 @@ layout: ../../../layouts/Article.astro
 title: "Im Lặng Và Lên Tiếng"
 author: "Nguyên Giác"
 date: 2015-06-01
-source: "https://sachhiem.net/TONGIAO/tgN/Nguyengiac01.php"
+source: "/TONGIAO/tgN/Nguyengiac01"
 category: "Tác giả"
 lang: vi
 wordCount: 2970
@@ -85,6 +85,6 @@ image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/TONGIAO/IMG/PHAT/Pha
    <p class="nguonL">Nguồn <a href="https://hoangnamgiao.blogspot.com/2015/06/im-lang-va-len-tieng-nguyen-giac-chung.html">https://hoangnamgiao.blogspot.com/2015/06/im-lang-va-len-tieng-nguyen-giac-chung.html</a></p>
    <p class="nguonL">______________________</p>
  <p><b>Những bài liên quan:</b></p>
-  <p>- <a href="https://sachhiem.net/index.php?content=showemail&amp;id=972">Bài viết của Trần Trung Đạo - dưới một thư phản hồi</a>  </p>
-  <p>- <a href="https://sachhiem.net/index.php?content=showrecipe&amp;id=6346">Đọc ‘Tâm Bút Cùng Trà Kiệu’ của Trần Trung Đạo (Vương H Thành)</a>
+  <p>- <a href="/hop-thu/972">Bài viết của Trần Trung Đạo - dưới một thư phản hồi</a>  </p>
+  <p>- <a href="/DOITHOAI/Vuonghoithanh">Đọc ‘Tâm Bút Cùng Trà Kiệu’ của Trần Trung Đạo (Vương H Thành)</a>
 </p>

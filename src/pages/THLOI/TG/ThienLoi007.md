@@ -2,14 +2,14 @@
 layout: ../../../layouts/Article.astro
 title: "Vẫn Là Chuyện Tôn Giáo Ở Việt Nam"
 author: "Thiên Lôi"
-source: "https://sachhiem.net/THLOI/TG/ThienLoi007.php"
+source: "/THLOI/TG/ThienLoi007"
 category: "Tác giả"
 lang: vi
 wordCount: 8622
-image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nha.jpg"
+image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/TONGIAO/IMG/NANNHAN/ReutersPakistanSalmanTaseer2009.jpg"
 ---
 
-<p align="center">  <a href="/index"><img border="0" src="https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nha.jpg"></a> 19 tháng 1, 2011 </p>
+<p align="center">   19 tháng 1, 2011 </p>
 <p class="TuaDoLeft">I. “Con đường truyền thông” (Information 
 Road) ngày nay:</p>
 			

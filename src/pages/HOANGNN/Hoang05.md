@@ -2,11 +2,11 @@
 layout: ../../layouts/Article.astro
 title: "Cái Rốn của Vũ Trụ"
 author: "Hoàng Nguyên Nhuận"
-source: "https://sachhiem.net/HOANGNN/Hoang05.php"
+source: "/HOANGNN/Hoang05"
 category: "Chính trị"
 lang: vi
 wordCount: 5730
-image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nha.jpg"
+image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/HOANGNN/Hinh/Starfctory.jpg"
 ---
 
 <p class="Tuaduoi">hay
@@ -15,8 +15,7 @@ Hạt bụi của hạt bụi?</p>
 
 
  
-<p align="center"><a href="https://www.sachhiem.net/">
-	<img border="0" src="https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nha.jpg"></a> 10 tháng 8, 2007
+<p align="center"> 10 tháng 8, 2007
 </p>
 <p style="text-align: center">
 <img border="0" src="https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/HOANGNN/Hinh/Starfctory.jpg" width="240" height="163"></p>

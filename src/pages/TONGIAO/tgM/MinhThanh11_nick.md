@@ -3,7 +3,7 @@ layout: ../../../layouts/Article.astro
 title: "Cải Đạo: Trên Sân Mỹ Đình"
 author: "Minh Thạnh"
 date: 2013-08-05
-source: "https://sachhiem.net/TONGIAO/tgM/MinhThanh11_nick.php"
+source: "/TONGIAO/tgM/MinhThanh11_nick"
 category: "Tác giả"
 lang: vi
 wordCount: 3650
@@ -169,7 +169,7 @@ MT</p>
 <p>- <a href="/tgN/NguyenVPhung">Vì Chúng Sinh - Ngăn Ngừa Việc Cải Đạo (Nguyễn Văn Phụng)</a></p>
 <p>- <a href="/TONGIAO/MinhNgoc">Đôi Lời Chia Sẻ Về Vấn Đề Hôn Nhân Khác Tôn Giáo (Minh Ngọc)</a></p>
 <p>- <a href="/TONGIAO/MinhThanh04">“Lập lờ đánh lận”… ông trời! (Minh Thạnh)</a></p>
-<p> - <a href="https://sachhiem.net/TONGIAO/tgN/NgHDuc.php">Phật Tử Không Bao Giờ Được Nói Câu "Đạo Nào Cũng Tốt" (Nguyễn Hữu Đức)</a></p>
+<p> - <a href="/TONGIAO/tgN/NgHDuc">Phật Tử Không Bao Giờ Được Nói Câu "Đạo Nào Cũng Tốt" (Nguyễn Hữu Đức)</a></p>
 <p>- <a href="/TONGIAO/tgM/MinhThanh11_nick">Cải Đạo: Trên Sân Mỹ Đình Và Sóng Truyền Hình Quốc Gia (minh Thạnh)</a></p>
 
 

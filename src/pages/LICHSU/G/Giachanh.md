@@ -3,7 +3,7 @@ layout: ../../../layouts/Article.astro
 title: "Ý Nghĩa Hôn Nhẫn Lãnh Đạo Vatican"
 author: "Giác Hạnh"
 date: 2013-04-26
-source: "https://sachhiem.net/LICHSU/G/Giachanh.php"
+source: "/LICHSU/G/Giachanh"
 category: "Tác giả"
 lang: vi
 wordCount: 1074
@@ -22,7 +22,7 @@ Date: Thu, April 25, 2013 6:31 pm</i><br>
     <iframe width="480" height="270" src="https://www.youtube.com/embed/_fT7UrR6z_E?feature=player_detailpage" frameborder="0" allowfullscreen=""></iframe>
 </p>
 <p align="center"><img src="https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/LICHSU/IMG/NGODD/NDD_hyAgagianian.jpg" width="237" height="179"></p>
-        <p align="center"><i><a href="https://sachhiem.net/TCN/TCNtg/TCN116b.php#NDDhontay">SH- Chú thích ảnh:  Tổng thống nước VNCH Ngô Đình Diệm hôn nhẫn trên bàn tay của Hồng y Grégoire-Pierre Agagianian - bấm vào hàng chữ để xem chi tiết về ảnh này</a></i></p>
+        <p align="center"><i><a href="/TCN/TCNtg/TCN116b#NDDhontay">SH- Chú thích ảnh:  Tổng thống nước VNCH Ngô Đình Diệm hôn nhẫn trên bàn tay của Hồng y Grégoire-Pierre Agagianian - bấm vào hàng chữ để xem chi tiết về ảnh này</a></i></p>
     <p>Một <u>nguyên thủ quốc gia </u>mà cúi đầu hôn nhẫn<u> sứ thần của  một nước khác</u> (vào năm 1959) như thế này là điều sỉ  nhục quốc thể! </p>
     <p>Tôn giáo không được biện minh vào trường  hợp như vậy! <img src="https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/sqdot.gif" width="10" height="10"></p>
 <p>________________________</p>

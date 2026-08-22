@@ -2,7 +2,7 @@
 layout: ../../../layouts/Article.astro
 title: "Họ và Chúng Ta (Nguyễn Mạnh Quang)"
 author: "Nguyên Mạnh Quang"
-source: "https://sachhiem.net/"
+source: "/"
 category: "Lịch sử"
 lang: vi
 wordCount: 253
@@ -23,7 +23,7 @@ image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/DOITHOAI/IMG/HovaTa1
               </center>
             
             <font size="3">
-            <p><a href="https://sachhiem.net/NMQ/HOVATA/NMQhvtCover.php">https://sachhiem.net/NMQ/ HOVATA/NMQhvtCover.php</a></p>
+            <p><a href="/NMQ/HOVATA/NMQhvtCover">https://sachhiem.net/NMQ/ HOVATA/NMQhvtCover.php</a></p>
             <p><i>...Người viết đã từng đọc rất nhiều các tác phẩm nói về ông Ngô Đình Diệm và chế độ Việt Nam Đệ Nhất Cộng Hòa viết bởi các tác giả tín đồ Ca-tô ngoan đạo (cuồng tín) hay của những người được hưởng những đặc quyền đặc lợi của các chính quyền miền Nam Việt Nam trong những năm 1954-1975. Muôn lần như một, kinh nghiệm cho thấy những tác phẩm hay bài viết thuộc lọai này đều có những đặc điểm giống nhau. Thiết nghĩ, người đọc chỉ cần áp dụng sự phân tích bản chất các luận điểm của một quyển sách loại đó, rồi áp dụng cho các tác phẩm khác cùng thể loại, rồi  đi đến kết luận &nbsp;về tác phẩm đó mà không sợ sai lầm và không cần phải mất thì giờ thêm nữa. ... </i></p>
             </font>
             <p><img border="0" src="https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/DivSH.jpg" width="180" height="10"> </p>

@@ -3,7 +3,7 @@ layout: ../../../layouts/Article.astro
 title: "Đức Đạt Lai Lạt Ma Nói: Tôi Là Một Người Mác Xít"
 author: "By Catherine Phillips /Newsweek"
 date: 2015-01-18
-source: "https://sachhiem.net/TONGIAO/tgTH/Thuvienhs_01.php"
+source: "/TONGIAO/tgTH/Thuvienhs_01"
 category: "Chính trị"
 lang: vi
 wordCount: 741

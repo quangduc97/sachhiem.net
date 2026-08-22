@@ -3,7 +3,7 @@ layout: ../../layouts/Article.astro
 title: "Kêu Gọi Tổ Chức Kỷ Niệm Ngày 7/5 của Việt Nam"
 author: "Nguyễn Mạnh Quang"
 date: 2018-05-20
-source: "https://sachhiem.net/NMQ/NMQ97.php"
+source: "/NMQ/NMQ97"
 category: "Lịch sử"
 lang: vi
 wordCount: 2014

@@ -2,11 +2,11 @@
 layout: ../../../layouts/Article.astro
 title: "An hưởng cuộc đời"
 author: "Hộp thư: Oanh Lá Thắm"
-source: "https://sachhiem.net/null"
+source: "/null"
 category: "Văn hóa"
 lang: vi
 wordCount: 337
-image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nha.jpg"
+image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/print.gif"
 ---
 
 <div align="center" style="position: relative; left: 0; top: 0">
@@ -25,8 +25,7 @@ image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nha.jpg"
 	
 <table border="0" cellpadding="0" width="600" align="center"><tbody><tr>
 <td width="120">
-				<a target="_top" href="/XAHOI/index">
-<img border="0" src="https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nha.jpg"></a></td>
+				</td>
 				<td width="120">
 				<a target="_top" href="/VANHOC/Thuso07">
 				<img border="0" src="https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/print.gif" width="18" height="18"> 

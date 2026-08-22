@@ -2,11 +2,11 @@
 layout: ../../../layouts/Article.astro
 title: "Bề trái Chiếc Mề Đay"
 author: "Phan Ký"
-source: "https://sachhiem.net/null"
+source: "/null"
 category: "Chính trị"
 lang: vi
 wordCount: 2845
-image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nha.jpg"
+image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/LICHSU/IMG/NGODD/Newsweek_May1961.jpg"
 ---
 
 <div align="center" style="position: relative; left: 0; top: 0">
@@ -25,8 +25,7 @@ image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nha.jpg"
 		<div style="padding-left: 50px; padding-right: 50px;">
 		<table border="0" cellpadding="0" width="600"><tbody><tr>
 				<td width="425">
-				<a href="/THOISU_CT/index">
-				<img border="0" src="https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nha.jpg"></a></td>
+				</td>
 	<td valign="top">20 tháng 11, 2010 </td></tr></tbody></table>
 			<p><span class="First">T</span>ừ trước 
 			đến nay, mỗi khi nói đến nền Đệ I Cộng Hòa Việt Nam thì những kẻ 

@@ -2,7 +2,7 @@
 layout: ../../layouts/Article.astro
 title: "Nhạc sĩ Phạm Thế Mỹ,"
 author: "Trần Tuyết Hoa"
-source: "https://sachhiem.net/(Nhân mùa Vu Lan đầu tiên ở Canada)"
+source: "/(Nhân mùa Vu Lan đầu tiên ở Canada)"
 category: "Văn hóa"
 lang: vi
 wordCount: 1496

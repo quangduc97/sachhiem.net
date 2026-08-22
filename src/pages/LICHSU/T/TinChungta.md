@@ -3,18 +3,18 @@ layout: ../../../layouts/Article.astro
 title: "Vụ Án Nguyễn Ái Quốc Ở Hồng Kông Năm 1931"
 author: "Bùi Quang Minh/ Chungta.com"
 date: 2015-07-17
-source: "https://sachhiem.net/LICHSU/T/TinChungta.php"
+source: "/LICHSU/T/TinChungta"
 category: "Lịch sử"
 lang: vi
 wordCount: 6050
-image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nha.jpg"
+image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/LICHSU/IMG/HOCHIMINH/HCM-LyThuy1931_guiTuyetMinh.jpg"
 ---
 
 <p class="Tuaduoi">80 Năm Trước Thực Dân Xét Xử Ra Sao?</p>
 
   
   
-  <p align="center"><a href="https://www.sachhiem.net/"> <img border="0" src="https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nha.jpg"></a> ngày17-Jul-2015 </p>
+  <p align="center"> ngày17-Jul-2015 </p>
   <div class="tomluoc"><p><i>Câu chuyện lịch sử năm  1931, Nguyễn Ái Quốc bị cảnh sát Anh bắt tại Hồng Kông, định dẫn độ cho nhà cầm  quyền Pháp để lấy tiền, nhưng sau đó đã bị thất bại thảm hại trước sự giúp đỡ  vô tư đầy lòng nhân ái của bạn bè quốc tế. Xin đăng tải một số thông tin về  việc bắt giữ, việc xét xử và bào chữa cho Nguyễn Ái Quốc để thấy được công lao  của gia đình vị ân nhân - luật sư Loseby, cộng sự của ông đối với một người  nước ngoài không quen biết, không tiền để trả thù lao và việc xét xử tại tòa  của thực dân Anh 80 năm trước...</i> </p></div>
 <p>
 <span class="First">M</span>ùa xuân năm 1930, sau  khi triệu tập và chủ trì thành công Hội nghị thống nhất các tổ chức Đảng tại  Cửu Long, Trung Quốc, Nguyễn Ái Quốc đi Xiêm, Malaysia, Singapore rồi quay lại  Thượng Hải hoạt động cách mạng. Ông ở tại ngôi nhà 186 phố Tam Lung, Cửu Long -  Hương Cảng, và nơi đó trở thành trụ sở liên lạc bí mật giữa Nguyễn Ái Quốc và  một số đồng chí khác.</p>

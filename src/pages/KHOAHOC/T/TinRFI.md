@@ -3,16 +3,16 @@ layout: ../../../layouts/Article.astro
 title: "Phát Hiện Giấy Xét Nghiệm Giúp Phát Hiện Ung Thư Tụy"
 author: "Đức Tâm/ RFI"
 date: 2013-03-17
-source: "https://sachhiem.net/KHOAHOC/T/TinRFI.php"
+source: "/KHOAHOC/T/TinRFI"
 category: "Văn hóa"
 lang: vi
 wordCount: 483
-image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nha.jpg"
+image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/KHOAHOC/IMG/INVENTER/JackAndraka_Ingen_Awd.jpg"
 ---
 
 <table border="0" cellpadding="0" width="250" align="center">
             <tbody><tr>
-              <td width="125"><a href="/index"><img border="0" src="https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nha.jpg"></a></td>
+              <td width="125"></td>
 			<td valign="top">17-Mar-2013</td>
       </tr>
      </tbody></table>

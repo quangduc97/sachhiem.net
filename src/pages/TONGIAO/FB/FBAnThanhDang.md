@@ -3,7 +3,7 @@ layout: ../../../layouts/Article.astro
 title: "Linh Mục Hòa Lan Bị Phạt Vì Rung Chuông Quá To Vào Sáng Sớm"
 author: "FB An Thanh Đặng"
 date: 2023-06-30
-source: "https://sachhiem.net/TONGIAO/FB/FBAnThanhDang.php"
+source: "/TONGIAO/FB/FBAnThanhDang"
 category: "Chính trị"
 lang: vi
 wordCount: 338
@@ -25,4 +25,4 @@ image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/TONGIAO/IMG/CHURCH/B
 <p>_______________</p>
 <p><b>Bài cùng đề tài:</b></p>
  <p>- Tiếng Chuông Nhà Thờ _ Vấn Đề Ô Nhiễm Môi Trường (SH sưu tầm)
-   <a href="https://sachhiem.net/SACHNGOAI/SH/SH59.php">https://sachhiem.net/SACHNGOAI/SH/SH59.php</a></p>
+   <a href="/SACHNGOAI/SH/SH59">https://sachhiem.net/SACHNGOAI/SH/SH59.php</a></p>

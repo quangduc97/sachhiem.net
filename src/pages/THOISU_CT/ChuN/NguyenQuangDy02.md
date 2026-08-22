@@ -3,7 +3,7 @@ layout: ../../../layouts/Article.astro
 title: "Những Nghịch Lý Và Ngộ Nhận Về Việt Nam"
 author: "Nguyễn Quang Dy"
 date: 2017-06-26
-source: "https://sachhiem.net/THOISU_CT/ChuN/NguyenQuangDy02.php"
+source: "/THOISU_CT/ChuN/NguyenQuangDy02"
 category: "Chính trị"
 lang: vi
 wordCount: 5195

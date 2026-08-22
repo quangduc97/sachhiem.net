@@ -2,7 +2,7 @@
 layout: ../../layouts/Article.astro
 title: "Đức Mẹ Mà Biết Nói Năng !"
 author: "Lý Thái"
-source: "https://sachhiem.net/LTX/LythaiTG03.php"
+source: "/LTX/LythaiTG03"
 category: "Tác giả"
 lang: vi
 wordCount: 2086

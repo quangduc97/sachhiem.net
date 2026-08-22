@@ -3,7 +3,7 @@ layout: ../../../layouts/Article.astro
 title: "Điện Văn 118:"
 author: "Nguyên Giác dịch"
 date: 2013-10-21
-source: "https://sachhiem.net/SACHNGOAI/snN/Nguyengiac_bamebaNhu.php"
+source: "/SACHNGOAI/snN/Nguyengiac_bamebaNhu"
 category: "Lịch sử"
 lang: vi
 wordCount: 1100

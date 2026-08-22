@@ -3,7 +3,7 @@ layout: ../../../layouts/Article.astro
 title: "TÔN GIÁO ĐANG CHẾT DẦN TẠI MỸ"
 author: "Cheyenne MacDonald / DailyMail.com"
 date: 2016-03-20
-source: "https://sachhiem.net/SACHNGOAI/snN/NguyenKha.php"
+source: "/SACHNGOAI/snN/NguyenKha"
 category: "Chính trị"
 lang: vi
 wordCount: 1548

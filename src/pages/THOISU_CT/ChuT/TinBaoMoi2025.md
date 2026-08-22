@@ -2,15 +2,14 @@
 layout: ../../../layouts/Article.astro
 title: "Phát biểu nhậm chức của Donald Trump, Tổng thống Hoa kỳ thứ 47"
 author: "Báo Mới"
-source: "https://sachhiem.net/THOISU_CT/ChuT/TinBaoMoi2025.php"
+source: "/THOISU_CT/ChuT/TinBaoMoi2025"
 category: "Chính trị"
 lang: vi
 wordCount: 85
-image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nha.jpg"
+image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/THOISU_CT/Hinh/HOAKY/Biden_Trump_InaugurationDay20Jan2025.JPG"
 ---
 
-<p align="center"><a href="https://www.sachhiem.net/">
-<img border="0" src="https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nha.jpg"></a> 20 Jan 2025
+<p align="center"> 20 Jan 2025
 </p> 
 <p align="center"><a href="https://baomoi.com/truc-tiep-le-nham-chuc-tong-thong-thu-47-cua-my-tan-tong-thong-donald-trump-phat-bieu-nham-chuc-c51296845.epi" target="_blank">
   <img src="https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/THOISU_CT/Hinh/HOAKY/Biden_Trump_InaugurationDay20Jan2025.JPG" width="90%" alt="Chuyển giao quyền lực cho TT 47th"> </a></p> 

@@ -3,7 +3,7 @@ layout: ../../../layouts/Article.astro
 title: "Vì Sao Phải \"Phò Ánh Diệt Huệ\" ?"
 author: "Hoàng Duy Giáp/ Tổng cục lều báo"
 date: 2022-02-06
-source: "https://sachhiem.net/LICHSU/FB/FBQuangTrung.php"
+source: "/LICHSU/FB/FBQuangTrung"
 category: "Chính trị"
 lang: vi
 wordCount: 822

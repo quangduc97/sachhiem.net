@@ -3,7 +3,7 @@ layout: ../../../layouts/Article.astro
 title: "[VATICANOLOGY] Thấy Gì Qua Thư Của Giáo Hoàng Gởi Vaticanese Việt Nam"
 author: "Minh Thạnh"
 date: 2023-10-20
-source: "https://sachhiem.net/TONGIAO/tgM/MinhThanh19_06.php"
+source: "/TONGIAO/tgM/MinhThanh19_06"
 category: "Chính trị"
 lang: vi
 wordCount: 5909

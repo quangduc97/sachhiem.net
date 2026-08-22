@@ -3,7 +3,7 @@ layout: ../../layouts/Article.astro
 title: "Vụ Chùa Ba Vàng, Tiếng Nói Của Một Con Chiên Tỉnh Ngộ"
 author: "Lý Thái Xuân"
 date: 2019-03-26
-source: "https://sachhiem.net/LTX/LyThaiXH35.php"
+source: "/LTX/LyThaiXH35"
 category: "Xã hội"
 lang: vi
 wordCount: 6640
@@ -54,7 +54,7 @@ image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/TONGIAO/IMG/CHUA/Chu
  <p><span class="green"><b>II.</b></span></p>
   <p>Thư gửi  Giám Mục Phaolo Nguyễn Thái Hợp,  gửi đến Giáo Phận Vinh về Linh Mục FX Đinh Văn Minh. </p>
   <p>Con Chúa, thuộc xóm 13, giáo xứ Đăng Cao, Diễn Đoài, Diễn Châu, Nghệ An. </p>
-  <p>[Trích FB <a href="https://www.facebook.com/chu.matthia.9">Matthia Chu</a> ngày 16 tháng 8, 2018, có ghi lại trên <a href="https://sachhiem.net/index.php?content=showemail&amp;id=2809">https://sachhiem.net/</a>]</p>
+  <p>[Trích FB <a href="https://www.facebook.com/chu.matthia.9">Matthia Chu</a> ngày 16 tháng 8, 2018, có ghi lại trên <a href="/hop-thu/2809">https://sachhiem.net/</a>]</p>
  <p> ... (SH bỏ qua những lời vòng vo kính cẩn trân trọng của một con chiên đối với chức vụ cao trong hàng giáo phẩm để vào thẳng câu chuyện)...</p>
  <p><i>(bắt đầu trích)</i></p>
  <p><i>- Bố mẹ con, tuổi đã già, sức khỏe yếu nhưng thu nhập chính là nhờ cấy lúa, và đi bán chủi. Nhưng từ khi Cha Minh về, Cha bảo mấy chục hộ&nbsp;phải hiến hơn 14.000 m2 đất lúa để Cha có ý định lấp lấy mặt bằng để làm sân bóng hay gì đó, và trong đó có vạt đất duy nhất của nhà con.&nbsp;</i></p>
@@ -120,10 +120,10 @@ Một số đã mạnh dạn thoát ra và viết lại cho người đời chú
  <p>- Tại sao cầu vong thì là mê tín, là lừa gạt dù rằng không có ai bắt phải đến cầu; mà cầu Chúa, cầu Mẹ, cầu Cha Diệp ở Việt Nam, đóng tiền cho tất cả các hoạt động như trong thư của con chiên kể trên thì lại không là lừa gạt?</p>
  <p>- Thế thì, nếu nhà Chùa ra luật như nhà thờ từ nay các Phật tử phải đi chùa mỗi tuần hay mỗi ngày rằm, phải cúng cho chùa bao nhiêu phần trăm, phải đi lễ này lễ kia, nếu không thì xuống âm phủ.... như nhà thờ bắt buộc các con chiên như thế thi mới đúng là TÔN GIÁO?</p>
  <p>Có lẽ quí vị đã từng đọc những bài viết mà các tác giả chúng tôi đã lên tiếng từ hơn chục năm nay, tố cáo những tệ hại của cái tôn giáo luôn được ăn trên ngồi trước, luôn được quyền cao thế trọng ở khắp nơi, lại được làm mưa làm gió ở Việt Nam.  Bao nhiêu vấn đề từ trong kinh sách ra đến thực hành, không thể nào kể xiếc. Thế mà không có một tờ báo nào lên tiếng cùng đồng hành với chúng tôi. Tác giả Charlie Nguyễn là một cựu giáo dân đạo dòng, là cựu thẩm phán Tòa án Quân Đội thời VNCH đã viết rất nhiều bài tâm huyết trong hoàn cảnh thật là khổ tâm. Xin đọc vài bài liên quan đến đề tài hôm nay.</p>
- <p>- Về những tệ hại trong kinh sách, xin đọc bài <a href="https://sachhiem.net/CHARLIE/CN_CGTBVT/CN_CGTBVT_11.php">NHỮNG TÁC HẠI NGUY HIỂM CỦA CÁC SÁCH KINH CÔNG GIÁO</a>.</p>
- <p>- Về thủ thuật làm tiền  không ai khéo và giỏi cho bằng Giáo Hội Ca-tô La Mã. Xin đọc bài<a href="https://sachhiem.net/CHARLIE/CN_CGTBVT/CN_CGTBVT_6.php"> CÁCH LÀM TIỀN CỦA VATICAN</a>.</p>
- <p>- Về việc lạm dụng lòng mê tín của con người, xin đọc bài <a href="https://sachhiem.net/CHARLIE/CN_CGTBVT/CN_CGTBVT_4.php">VATICAN, XƯỞNG SẢN XUẤT PHÉP LẠ.</a></p>
- <p>- Về tai hại gây nên tội ác của đạo Ca-tô La Mã, không ai còn xa lạ với tác giả Nguyễn Mạnh Quang. Xin đọc bài <a href="https://sachhiem.net/NMQ/HOSOTOIAC/CH09.php">ĐỘC TÀI TÔN GIÁO: CHA ĐẺ MỌI TỘI ÁC VÀ PHÁ NÁT NỀN TẢNG GIA ĐÌNH</a></p>
+ <p>- Về những tệ hại trong kinh sách, xin đọc bài <a href="/CHARLIE/CN_CGTBVT/CN_CGTBVT_11">NHỮNG TÁC HẠI NGUY HIỂM CỦA CÁC SÁCH KINH CÔNG GIÁO</a>.</p>
+ <p>- Về thủ thuật làm tiền  không ai khéo và giỏi cho bằng Giáo Hội Ca-tô La Mã. Xin đọc bài<a href="/CHARLIE/CN_CGTBVT/CN_CGTBVT_6"> CÁCH LÀM TIỀN CỦA VATICAN</a>.</p>
+ <p>- Về việc lạm dụng lòng mê tín của con người, xin đọc bài <a href="/CHARLIE/CN_CGTBVT/CN_CGTBVT_4">VATICAN, XƯỞNG SẢN XUẤT PHÉP LẠ.</a></p>
+ <p>- Về tai hại gây nên tội ác của đạo Ca-tô La Mã, không ai còn xa lạ với tác giả Nguyễn Mạnh Quang. Xin đọc bài <a href="/NMQ/HOSOTOIAC/CH09">ĐỘC TÀI TÔN GIÁO: CHA ĐẺ MỌI TỘI ÁC VÀ PHÁ NÁT NỀN TẢNG GIA ĐÌNH</a></p>
  <p>Và còn biết bao nhiêu đề tài khác, cũng không xa mấy với niềm tin hoang đường của họ đã kéo lùi văn minh nhân loại hàng mấy thế kỷ. </p>
  <p>Như vậy có phải báo chí đã thiếu tham khảo, thiếu so sánh, thiếu nghiên cứu, nếu không thì chẳng lẽ... báo chí của chúng ta bị bịt mắt hết rồi hay sao, hoặc tệ hơn nữa, bị mua chuộc hay sao?</p>
  <p>Chúng tôi không có quyền hạn và cũng không có lợi lộc gì để biếu tặng các báo chí. Chỉ mong các vị dùng chút lương tâm và trí thức để nhận định. Chúng tôi chỉ có thể nói lên bằng quyền tự do ngôn luận đến mức độ mà chính phủ  cho phép. </p>

@@ -3,7 +3,7 @@ layout: ../../../layouts/Article.astro
 title: "[VATICANOLOGY] - Tin Vụ Rước Chúa Trên Đường Phố Một Thành Phố Lớn: - Bài 1"
 author: "Minh Thạnh"
 date: 2022-06-22
-source: "https://sachhiem.net/TONGIAO/tgM/MinhThanh37.php"
+source: "/TONGIAO/tgM/MinhThanh37"
 category: "Chính trị"
 lang: vi
 wordCount: 2644

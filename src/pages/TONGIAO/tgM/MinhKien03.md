@@ -3,7 +3,7 @@ layout: ../../../layouts/Article.astro
 title: "Ngày Tàn Của Những Kẻ Truyền Đạo Cuồng Tín"
 author: "Minh Kiến"
 date: 2011-11-24
-source: "https://sachhiem.net/TONGIAO/tgM/MinhKien03.php"
+source: "/TONGIAO/tgM/MinhKien03"
 category: "Tác giả"
 lang: vi
 wordCount: 4470

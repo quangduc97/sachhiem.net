@@ -2,7 +2,7 @@
 layout: ../../../layouts/Article.astro
 title: "MỘT VÀI LÝ GIẢI VỀ"
 author: "Nguyễn"
-source: "https://sachhiem.net/null"
+source: "/null"
 category: "Chính trị"
 lang: vi
 wordCount: 1349
@@ -35,7 +35,7 @@ image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nhacu.jpg"
 <table border="0" cellpadding="10" cellspacing="0" width="100%" topmargin="10"> 
 	<tbody><tr><td bgcolor="White" align="justify" valign="top">
 		<table border="0" cellpadding="10" width="80%" cols="2"><tbody><tr>
-		<td width="129"><a href="https://sachhiem.net/"><img border="0" src="https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nhacu.jpg" width="49" height="20"></a></td>
+		<td width="129"><a href="/"><img border="0" src="https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nhacu.jpg" width="49" height="20"></a></td>
 					<td valign="top">	28 tháng 9,  2008
 	</td></tr></tbody></table>
 		<div style="padding-left: 20px; padding-right: 20px">

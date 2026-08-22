@@ -3,7 +3,7 @@ layout: ../../../layouts/Article.astro
 title: "Tổng Thống Đắc Cử Phi Luật Tân Nguyền Rủa Giáo Hội Công Giáo và Các Giám Mục"
 author: "Kevin Trần sưu tầm"
 date: 2016-06-01
-source: "https://sachhiem.net/SACHNGOAI/snT/TranKevin_02.php"
+source: "/SACHNGOAI/snT/TranKevin_02"
 category: "Chính trị"
 lang: vi
 wordCount: 1705

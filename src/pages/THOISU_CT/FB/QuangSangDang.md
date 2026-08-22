@@ -3,7 +3,7 @@ layout: ../../../layouts/Article.astro
 title: "Viết Riêng Cho Linh Mục Đặng Hữu Nam."
 author: "Tuấn Trọc"
 date: 2019-08-02
-source: "https://sachhiem.net/THOISU_CT/FB/QuangSangDang.php"
+source: "/THOISU_CT/FB/QuangSangDang"
 category: "Chính trị"
 lang: vi
 wordCount: 813

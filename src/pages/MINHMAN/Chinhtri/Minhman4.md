@@ -2,15 +2,13 @@
 layout: ../../../layouts/Article.astro
 title: "DÂN OAN và TÔN GIÁO"
 author: "Minh Mẫn"
-source: "https://sachhiem.net/MINHMAN/Chinhtri/Minhman4.php"
+source: "/MINHMAN/Chinhtri/Minhman4"
 lang: vi
 wordCount: 1915
-image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nha.jpg"
 ---
 
 <table border="0" align="center" cellpadding="1" width="250"><tbody><tr>
-	<td width="110"><a href="https://www.sachhiem.net/">
-	<img border="0" src="https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nha.jpg"></a></td>
+	<td width="110"></td>
 	<td valign="top" style="text-align:right"> 20&nbsp; tháng 8, 2007
 	</td></tr></tbody></table>
 <p><font face="Vivaldi" size="6">G</font> ần một tháng, dân oan các tỉnh đổ về quận Phú Nhuận để khiếu kiện quyền lợi bị một số cán bộ địa phương xâm phạm, dĩ nhiên việc xuống đường là chính đáng.

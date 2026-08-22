@@ -3,7 +3,7 @@ layout: ../../layouts/Article.astro
 title: "Chuyện Ngôi Mộ Của Niềm Hóa Giải"
 author: "Bút ký - NGUYỄN HOÀN"
 date: 2024-05-31
-source: "https://sachhiem.net/NGHOAN/NgHoan17.php"
+source: "/NGHOAN/NgHoan17"
 category: "Lịch sử"
 lang: vi
 wordCount: 2345

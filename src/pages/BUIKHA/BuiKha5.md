@@ -2,7 +2,7 @@
 layout: ../../layouts/Article.astro
 title: "ALEXANDRE DE RHODES"
 author: "Bùi Kha"
-source: "https://sachhiem.net/BUIKHA/BuiKha5.php"
+source: "/BUIKHA/BuiKha5"
 category: "Lịch sử"
 lang: en
 wordCount: 3804
@@ -356,18 +356,18 @@ image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/sqdot.gif"
        <p> <b>Bài đọc thêm: </b></p>
        <p>- <a href="https://www.chungta.com/nd/tu-lieu-tra-cuu/xac-thuc-cha-de-chu-quoc-ngu.html">Xác thực “cha đẻ” chữ Quốc ngữ</a> - Trần Thường, chungta.com ngày Thứ năm, 29/09/2016</p>
             <p>-  <a href="https://tongiaovadantoc.com/c0/20111217221441534/gop-y-voi-gs-chuong-thau-ve-van-de-alexandre-de-rhodes-chu-quoc-ngu-bui-kha.htm">Alexandre de Rhodes và Chữ Quốc Ngữ, Biện Chính Với Giáo Sư Chương Thâu</a> (Bùi Kha)</p>
-       <p> - <a href="https://sachhiem.net/BUIKHA/BuiKha25.php">Đắc Lộ, Trương Vĩnh Ký &amp; Chữ Quốc Ngữ của Tác Giả Minh Vân</a> (Bùi Kha)</p>
+       <p> - <a href="/BUIKHA/BuiKha25">Đắc Lộ, Trương Vĩnh Ký &amp; Chữ Quốc Ngữ của Tác Giả Minh Vân</a> (Bùi Kha)</p>
        <p>- <a href="https://tunguyenhoc.wordpress.com/2012/07/20/khong-la-linh-thi-la-gi-nang-luong-moi-so-135-6-7-2012-an-chi-hue-thien/">Không Là Lính Thì Là Gì? </a>(An chi, Huệ Thiên)</p>
        <p>- <a href="https://www.daophatngaynay.com/vn/dien-dan/doi-thoai/5269-Alexandre-de-Rhodes-khong-phai-la-nguoi-sang-tao-ra-chu-Viet-.html">Alexandre de Rhodes không phải là người sáng tạo ra chữ Việt?</a> (An Chi)</p>
        <p>- <a href="https://www.talawas.org/talaDB/showFile.php?res=6987&amp;rb=0302">Alexandre de Rhodes - Đối luận với tác giả Hoàng Hưng</a> (Bùi Kha)</p>
        <p>- <a href="https://tunguyenhoc.wordpress.com/2012/07/16/a-de-rhodes-tra-loi-cac-ong-pham-quang-tuan-va-phong-uyen-bui-kha-talawas/">A. de Rhodes, trả lời các ông Phạm Quang Tuấn và Phong Uyên</a> (Bùi Kha)</p>
        <p>- <a href="https://www.talawas.org/talaDB/showFile.php?res=7095&amp;rb=0505">Alexandre de Rhodes, chữ Quốc ngữ và quan điểm chính trị</a> (Bùi Kha)</p>
        <p>- <a href="https://www.ngheandost.gov.vn/JournalDetail/ar2149_Co_phai_chi_Alexandre_de_Rhodes_la_cha_de_cua_chu_Quoc_ngu.aspx">Có phải chỉ Alexandre de Rhodes là cha đẻ của chữ Quốc ngữ</a> (Đậu Kỷ Luật)</p>
--&nbsp;<a href="https://sachhiem.net/CHARLIE/CN_TTDTG/Alexandre.php">Alexandre De Rhodes và Chữ Quốc Ngữ &nbsp;</a>&nbsp;(Charlie Nguyễn)
-<p>-&nbsp;<a href="https://sachhiem.net/TCN/TCNdt/TCNdt070.php">Giáo Sĩ Đắc-Lộ &amp;Chữ Quốc Ngữ Của Minh Vân</a>&nbsp;(Trần Chung Ngọc)</p>
-<p>-&nbsp;<a href="https://sachhiem.net/BUIKHA/BuiKha25.php">Giáo Sĩ Đắc Lộ &amp;&nbsp; Chữ Quốc Ngữ&nbsp;</a>(Bùi Kha)</p>
-<p>-&nbsp;<a href="https://sachhiem.net/NMQ/NMQ040.php">Phải Làm Gì Đối Với Tình Trạng Vinh Danh Những Việt Gian?</a>&nbsp;(Nguyễn Mạnh Quang)</p>
+-&nbsp;<a href="/CHARLIE/CN_TTDTG/Alexandre">Alexandre De Rhodes và Chữ Quốc Ngữ &nbsp;</a>&nbsp;(Charlie Nguyễn)
+<p>-&nbsp;<a href="/TCN/TCNdt/TCNdt070">Giáo Sĩ Đắc-Lộ &amp;Chữ Quốc Ngữ Của Minh Vân</a>&nbsp;(Trần Chung Ngọc)</p>
+<p>-&nbsp;<a href="/BUIKHA/BuiKha25">Giáo Sĩ Đắc Lộ &amp;&nbsp; Chữ Quốc Ngữ&nbsp;</a>(Bùi Kha)</p>
+<p>-&nbsp;<a href="/NMQ/NMQ040">Phải Làm Gì Đối Với Tình Trạng Vinh Danh Những Việt Gian?</a>&nbsp;(Nguyễn Mạnh Quang)</p>
 <p>-&nbsp;<a href="https://chimviet.free.fr/ngonngu/phuctrun/phul050.htm">Nguồn Gốc Chữ Quốc ngữ</a>&nbsp;(Huỳnh Ái Tông)</p>
-<p>-&nbsp;<a href="https://www.sachhiem.net/BUIKHA/BuiKha5.php">ALEXANDRE DE RHODES, Công và Tội</a>&nbsp;(Bùi Kha)</p>
+<p>-&nbsp;<a href="/BUIKHA/BuiKha5">ALEXANDRE DE RHODES, Công và Tội</a>&nbsp;(Bùi Kha)</p>
 <p>- <a href="https://huongsenviet.blogspot.com/2009/07/chu-quoc-ngu-va-quan-iem-chinh-tri.html">Chữ Quốc Ngữ Và Quan Điểm Chính Trị</a> (Bùi Kha)</p>
-<p>- <a href="https://sachhiem.net/BUIKHA/BuiKha27_Alex.php">Alexandre De Rhodes - Những Nhầm Lẫn Đáng Tiếc</a> (Bùi Kha)</p>
+<p>- <a href="/BUIKHA/BuiKha27_Alex">Alexandre De Rhodes - Những Nhầm Lẫn Đáng Tiếc</a> (Bùi Kha)</p>

@@ -2,17 +2,16 @@
 layout: ../../../layouts/Article.astro
 title: "Susanna Maiolo -"
 author: "Nguyễn Trí Cảm"
-source: "https://sachhiem.net/TONGIAO/NGTRCAM/NguyenTriCam15.php"
+source: "/TONGIAO/NGTRCAM/NguyenTriCam15"
 category: "Tác giả"
 lang: en
 wordCount: 823
-image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nha.jpg"
+image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/IMG/VATICAN/SusannaMaioloact.jpg"
 ---
 
 <table border="0" cellpadding="0" width="250" align="center"><tbody><tr>
 				<td width="125">
-				<a href="/index">
-				<img border="0" src="https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nha.jpg"></a></td>
+				</td>
 	<td valign="top">31 tháng 12, 2009	</td></tr></tbody></table>
 		
 		<p><span class="First"><b><font size="5">M</font></b></span>ột người phụ nữ vượt qua thanh chắn trong nhà thờ, 

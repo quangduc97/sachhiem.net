@@ -3,7 +3,7 @@ layout: ../../../layouts/Article.astro
 title: "Kính gửi quý Thầy GHPGVNTN và Thầy Thích Không Tánh"
 author: "Phạm Hoàng Vương"
 date: 2016-09-16
-source: "https://sachhiem.net/TONGIAO/tgP/PhamHVuong.php"
+source: "/TONGIAO/tgP/PhamHVuong"
 category: "Chính trị"
 lang: vi
 wordCount: 935

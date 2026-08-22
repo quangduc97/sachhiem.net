@@ -2,11 +2,11 @@
 layout: ../../../layouts/Article.astro
 title: "THẬP GIÁ VÀ LƯỠI GƯƠM"
 author: "Linh Mục Trần Tam Tỉnh"
-source: "https://sachhiem.net/bản điện tử của sachhiem.net (LT và KT đánh máy)"
+source: "/bản điện tử của sachhiem.net (LT và KT đánh máy)"
 category: "Tác giả"
 lang: vi
 wordCount: 2612
-image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nha.jpg"
+image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/print.gif"
 ---
 
 <div align="center">
@@ -26,8 +26,7 @@ image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nha.jpg"
 			<td width="100%">
 <div style="border:1px solid #DEDFE4; padding-left: 40px; padding-right: 40px">
 <table border="0" cellpadding="0" width="85%" cols="2" align="center"><tbody><tr>
-				<td width="160"><a href="/index">
-<img border="0" src="https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nha.jpg"></a></td>
+				<td width="160"></td>
 	<td valign="top">	<a href="/TONGIAO/TTTINH/TranTamTinhCover"><b>
 	<font face="Symbol" size="5">¿</font></b></a> trở ra mục lục
 	</td><td> <a target="_blank" href="/TONGIAO/TTTINH/TTT_01"> <img border="0" src="https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/print.gif" width="18" height="18"> bản in</a></td><td valign="top" style="text-align:right" width="146">

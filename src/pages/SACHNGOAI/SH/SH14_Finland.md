@@ -3,7 +3,7 @@ layout: ../../../layouts/Article.astro
 title: "Nước Phần Lan Bỏ Phiếu Bảo Vệ Trẻ Em Khỏi Bị Thiên Chúa Giáo Nhồi Sọ"
 author: "ANDREW HALL"
 date: 2017-09-19
-source: "https://sachhiem.net/SACHNGOAI/SH/SH14_Finland.php"
+source: "/SACHNGOAI/SH/SH14_Finland"
 category: "Lịch sử"
 lang: vi
 wordCount: 1289

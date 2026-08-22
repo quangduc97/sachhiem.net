@@ -2,16 +2,16 @@
 layout: ../../../layouts/Article.astro
 title: "Vu Lan & Rằm Tháng Bảy"
 author: "Dương Kinh Thành"
-source: "https://sachhiem.net/VANHOC/DKTH/DgKinhThanh_xh01.php"
+source: "/VANHOC/DKTH/DgKinhThanh_xh01"
 category: "Xã hội"
 lang: vi
 wordCount: 2800
-image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nha.jpg"
+image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/XAHOI/IMG/VulanHanoi2010.jpg"
 ---
 
 <table border="0" cellpadding="0" align="center" width="250">
             <tbody><tr>
-              <td width="100"><a href="/index"><img border="0" src="https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nha.jpg"></a></td>
+              <td width="100"></td>
 <td valign="top" width="244">
 <p>23 tháng 8,   2010 </p></td>
 </tr>

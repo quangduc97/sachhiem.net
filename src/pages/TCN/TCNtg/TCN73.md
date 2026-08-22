@@ -5,7 +5,7 @@ author: "Trần Chung Ngọc"
 source: "https://www.biblebelievers.com/chiniquy/index.html"
 lang: en
 wordCount: 11721
-image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nha.jpg"
+image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/TONGIAO/IMG/BanhThanh.jpg"
 ---
 
 <table dir="ltr" border="0" cellpadding="0" cellspacing="0" width="100%"><tbody><tr><td valign="top" width="1%" background="../../images/BGleft.gif">
@@ -27,7 +27,7 @@ image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nha.jpg"
 <div style="padding-left: 50px; padding-right: 50px">
 	<table border="0" cellpadding="10" width="80%" cols="2"><tbody><tr>
 <td>
-<a href="https://www.sachhiem.net/"><img border="0" src="https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nha.jpg"></a></td>
+</td>
 	<td valign="top" style="text-align:right">ngày 14 tháng 6, 2009</td></tr></tbody></table>
 				
 	
@@ -159,7 +159,7 @@ image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nha.jpg"
 	Giáo”</i> trên
 	<a href="https://www.giaodiem.com/">
 	www.giaodiem.com</a>, hoặc
-	<a href="https://www.sachhiem.net/TCNtg/DuctinCG/DuctinCG03.php">
+	<a href="/TCNtg/DuctinCG/DuctinCG03">
 	https://www.sachhiem. net/TCNtg/DuctinCG/DuctinCG03.php</a>) trong khi Tin 
 	Lành chỉ tin có 2: “Bí tích rửa tội”, và “bí tích ban thánh thể”, nôm na gọi 
 	là ăn “bánh thánh” hay rõ ràng hơn, “ăn thịt Chúa”. <u>Nhưng nếu các “bí 

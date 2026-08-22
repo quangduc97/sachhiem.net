@@ -3,7 +3,7 @@ layout: ../../layouts/Article.astro
 title: "Đối Thoại Về HT Thích Trí Quang - Những Lời Vu Cáo của Chiên Vũ Linh Châu"
 author: "Diễn Đàn"
 date: 2020-04-02
-source: "https://sachhiem.net/DOITHOAI/Diendan03.php"
+source: "/DOITHOAI/Diendan03"
 category: "Chính trị"
 lang: vi
 wordCount: 3346

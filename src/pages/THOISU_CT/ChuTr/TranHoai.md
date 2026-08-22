@@ -3,7 +3,7 @@ layout: ../../../layouts/Article.astro
 title: "Hai Mươi Năm Quan Hệ Việt-Mỹ"
 author: "Trần Hoài"
 date: 2015-07-02
-source: "https://sachhiem.net/THOISU_CT/ChuTr/TranHoai.php"
+source: "/THOISU_CT/ChuTr/TranHoai"
 category: "Chính trị"
 lang: vi
 wordCount: 1090

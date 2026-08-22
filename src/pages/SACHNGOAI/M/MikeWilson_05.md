@@ -3,7 +3,7 @@ layout: ../../../layouts/Article.astro
 title: "Tiến Trình Sa Đọa Từng Bước Của Đảng Cộng Hòa"
 author: "Mike Wilson"
 date: 2021-05-20
-source: "https://sachhiem.net/SACHNGOAI/M/MikeWilson_05.php"
+source: "/SACHNGOAI/M/MikeWilson_05"
 category: "Chính trị"
 lang: vi
 wordCount: 1641

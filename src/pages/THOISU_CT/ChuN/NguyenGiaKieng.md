@@ -3,14 +3,14 @@ layout: ../../../layouts/Article.astro
 title: "Nhìn Lại Giai Đoạn Ngô Đình Diệm"
 author: "Nguyễn Gia Kiểng"
 date: 2015-11-04
-source: "https://sachhiem.net/THOISU_CT/ChuN/NguyenGiaKieng.php"
+source: "/THOISU_CT/ChuN/NguyenGiaKieng"
 category: "Chính trị"
 lang: vi
 wordCount: 1266
 image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/THOISU_CT/Hinh/NHANVAT/NGKieng2.jpg"
 ---
 
-<p><i>LTS: Bài viết của ông Nguyễn Gia Kiểng mới tung ra trên báo Thông Luận của ông ngày 01 tháng 11 năm nay 2015, bài giới thiệu và tóm lược của một thân hữu cũng đã nhanh chóng gửi đến chúng tôi trong lúc nhiều tin thời sự gay cấn khác dồn dập, nên chúng tôi đã đăng chậm vài ngày. Bài của ông Nguyễn Gia Kiểng lần này đích thực là một tiến bộ trong nhận thức. Nó cũng là nhiều cú đá ngược ngoạn mục của một con chiên, mặc dù hơi ... chậm trễ, và mặc dù vẫn còn thói quen cố hữu là "khẳng định" rất vội vàng (như trong <a name="one" href="/THOISU_CT/#n1">câu số 1 dưới đây</a>), và một vài nhận định chủ quan  (như việc đánh giá về "phong cách lãnh đạo của ông Diệm" trong <a name="tam" href="https://sachhiem.net/THOISU_CT/ChuN/NguyenGiaKieng_0.php#n8">đoạn 8 của bài ông Kiểng</a>) mà chúng tôi không quan tâm lắm, vì những điều đó không quan trọng bằng những nhận định khá thức tỉnh trong bài này. Thế cũng đủ để chúng tôi cho một tràng pháo tay hoan hô. Xin đăng riêng lời giới thiệu sau đây của Nam Giao vì nó tóm tắt gọn gàng, dễ tham khảo những điểm chính yếu của bài "<a href="https://sachhiem.net/THOISU_CT/ChuN/NguyenGiaKieng_0.php">Nhìn Lại Giai Đoạn Ngô Đình Diệm" của Nguyễn Gia Kiểng</a>. (SH)</i></p>
+<p><i>LTS: Bài viết của ông Nguyễn Gia Kiểng mới tung ra trên báo Thông Luận của ông ngày 01 tháng 11 năm nay 2015, bài giới thiệu và tóm lược của một thân hữu cũng đã nhanh chóng gửi đến chúng tôi trong lúc nhiều tin thời sự gay cấn khác dồn dập, nên chúng tôi đã đăng chậm vài ngày. Bài của ông Nguyễn Gia Kiểng lần này đích thực là một tiến bộ trong nhận thức. Nó cũng là nhiều cú đá ngược ngoạn mục của một con chiên, mặc dù hơi ... chậm trễ, và mặc dù vẫn còn thói quen cố hữu là "khẳng định" rất vội vàng (như trong <a name="one" href="/THOISU_CT/#n1">câu số 1 dưới đây</a>), và một vài nhận định chủ quan  (như việc đánh giá về "phong cách lãnh đạo của ông Diệm" trong <a name="tam" href="/THOISU_CT/ChuN/NguyenGiaKieng_0#n8">đoạn 8 của bài ông Kiểng</a>) mà chúng tôi không quan tâm lắm, vì những điều đó không quan trọng bằng những nhận định khá thức tỉnh trong bài này. Thế cũng đủ để chúng tôi cho một tràng pháo tay hoan hô. Xin đăng riêng lời giới thiệu sau đây của Nam Giao vì nó tóm tắt gọn gàng, dễ tham khảo những điểm chính yếu của bài "<a href="/THOISU_CT/ChuN/NguyenGiaKieng_0">Nhìn Lại Giai Đoạn Ngô Đình Diệm" của Nguyễn Gia Kiểng</a>. (SH)</i></p>
    <hr>
     <p align="center"><img src="https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/THOISU_CT/Hinh/NHANVAT/NGKieng2.jpg" width="159" height="187"></p>
   <p align="center"><i>chân dung của tác giả Nguyễn Gia Kiểng</i></p>
@@ -38,5 +38,5 @@ image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/THOISU_CT/Hinh/NHANV
 <p>- Ông Diệm và ông Nhu “<i>không tuẫn quốc như nhiều người nghĩ. Họ đã lãnh đạo đất nước, đã không  thành công và bị giết, sau khi chính họ cũng đã thủ tiêu nhiều người khác</i>”. </p>
 <p>- Tác giả khẳng định dứt khoát một lần nữa là  “<i>ông Ngô Đinh Nhu không liên quan gì tới  cuốn&nbsp;Chính Đề Việt Nam.  Tác giả cuốn sách này là ông Lê Văn Đồng một cựu công sự viên của hai ông Diệm  và Nhu nhưng đã chia tay ngay từ năm 1957 vì bất đồng quan điểm</i>”.</p>
 <p><i>Dưới  đây là bài viết “</i>Nhìn lại Giai Đoạn Ngô Đình  Diệm<i>” của tác giả Nguyễn Gia Kiểng, được  đăng trên trang nhà ethongluan ngày 2 tháng 11 năm 2015. NamGiao nhấn mạnh và  thêm hình minh họa. - (Nam Giao)</i></p>
-  <p><a href="https://sachhiem.net/THOISU_CT/ChuN/NguyenGiaKieng_0.php">(SH - bấm vào để đọc bài "Nhìn Lại Giai Đoạn Ngô Đình Diệm") </a></p>
+  <p><a href="/THOISU_CT/ChuN/NguyenGiaKieng_0">(SH - bấm vào để đọc bài "Nhìn Lại Giai Đoạn Ngô Đình Diệm") </a></p>
   <p class="nguonL">Nguồn https://hoangnamgiao.blogspot.com/2015/11/nhin-lai-giai-oan-ngo-inh-diem-nguyen.html </p>

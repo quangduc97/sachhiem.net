@@ -3,7 +3,7 @@ layout: ../../../layouts/Article.astro
 title: "Mẹ Về Đi"
 author: "SH giới thiệu"
 date: 2024-02-01
-source: "https://sachhiem.net/VANHOC/NHAC/THO_MEVEDI.php"
+source: "/VANHOC/NHAC/THO_MEVEDI"
 category: "Văn hóa"
 lang: vi
 wordCount: 630

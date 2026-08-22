@@ -2,7 +2,7 @@
 layout: ../../../layouts/Article.astro
 title: "Ba trăm triệu Mỹ kim"
 author: "Margie Mason / Associated Press"
-source: "https://sachhiem.net/null"
+source: "/null"
 category: "Tác giả"
 lang: vi
 wordCount: 3103

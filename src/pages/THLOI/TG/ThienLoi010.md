@@ -3,7 +3,7 @@ layout: ../../../layouts/Article.astro
 title: "Chuyện Ma-Cà-Rồng Mít Thời Nay"
 author: "Thiên Lôi"
 date: 2012-09-26
-source: "https://sachhiem.net/THLOI/TG/ThienLoi010.php"
+source: "/THLOI/TG/ThienLoi010"
 lang: vi
 wordCount: 3373
 image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/THLOI/Vampyre_JohnPolidori.jpg"
@@ -23,7 +23,7 @@ Những ngày gần đây bổng dưng ở Xóm Đạo bỗng ồn ào về mấ
 Chuyện gì vậy? Các báo mạng đã đăng tùm lum chuyện ‘bầy ma cà rồng Mít áo chùng
 đen đã cướp xác nhà thơ Nguyễn Chí Thiện’ ngay tại vùng ‘gió tanh mưa máu’ mà
 Sách Hiếm và Chuyển Luân đã đăng đầy đủ chi tiết dưới đây:</p>
-<p><a href="https://sachhiem.net/XAHOI/xhN/NgDLam.php">https://sachhiem.net/XAHOI/xhN/NgDLam.php</a></p>
+<p><a href="/XAHOI/xhN/NgDLam">https://sachhiem.net/XAHOI/xhN/NgDLam.php</a></p>
 <p>
 Ai cũng biết chuyện ma cà rồng chuyên tấn công hút máu người sống bắt nguồn từ
 cuốn ‘Count Dracula’, một tiểu thuyết kinh dị của tác giả người Ireland Bram

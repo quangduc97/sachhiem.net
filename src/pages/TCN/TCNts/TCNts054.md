@@ -3,7 +3,7 @@ layout: ../../../layouts/Article.astro
 title: "Bang Giao Với Vatican??"
 author: "Trần Chung Ngọc"
 date: 2012-03-03
-source: "https://sachhiem.net/index.php?content=showrecipe&id=6127"
+source: "/TCN/TCNts/TCNts054"
 category: "Chính trị"
 lang: vi
 wordCount: 20478

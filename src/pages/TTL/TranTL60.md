@@ -3,7 +3,7 @@ layout: ../../layouts/Article.astro
 title: "Tôi Đọc Vũ Linh: Cái Loa Tuyên Truyền Của Đảng Cộng Hòa"
 author: "Trần Tiên Long"
 date: 2015-01-14
-source: "https://sachhiem.net/TTL/TranTL60.php"
+source: "/TTL/TranTL60"
 category: "Lịch sử"
 lang: vi
 wordCount: 8039
@@ -77,7 +77,7 @@ image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/TTL/IMG/TTL60_table.
 <p>   Vậy nếu chính sách kinh tế của đảng  Cộng Hòa là tốt đẹp cho quốc gia Hoa Kỳ thì tại sao có tới 9 trong 10 tiểu bang  nghèo nhất nước Mỹ là những tiểu bang màu đỏ, có truyền thống bỏ phiếu cho đảng  Cộng Hòa? </p>
 <p> <a name="n8" class="TuaDoLeft" href="/TTL/#tit8">  ▪    <b>Tạm kết</b></a></p>
 <p>   Ở trong bất cứ một xã hội nào  cũng luôn luôn có hai khuynh hướng đối nghịch nhau. Một khuynh hướng là bảo thủ,  chỉ muốn ôm ấp cái hay của quá khứ để từ chối mọi sự thay đổi. Còn khuynh hướng  đối nghịch khác là tự do, là tiến bộ, luôn luôn tìm cách thay đổi sao cho xã hội  tốt đẹp hơn nữa; bởi lẽ, sự tiến bộ không có giới hạn, và thay đổi chính là bản  chất của sự tiến bộ. Có tiến bộ nào mà không cần thay đổi? </p>
-<p>   Ở Hoa Kỳ, đảng Cộng Hòa là đảng  theo khuynh hướng bảo thủ, đại diện cho giới tư bản giầu có trong xã hội; trong  khi đảng Dân Chủ thì theo khuynh hướng tự do, tiến bộ, đại diện cho giới trung  lưu và nghèo, muốn cải tổ xã hội để cho mọi từng lớp có cơ hội cùng vươn lên. Một  đạo luật hay một chính sách kinh tế luôn luôn mang đến sự lợi ích cho một giai  cấp này nhưng lại sự bất lợi cho một một giai cấp khác. Đó là cái thế tương  tranh muôn đời trong xã hội, điển hình là giữa hai đảng Cộng Hòa và Dân Chủ  trong tất cả mọi sinh hoạt chính trị, kinh tế và xã hội. Xin đọc thêm bài <i>“Dân Chủ Hay Cộng Hòa, Đảng Nào Chuyên Lo Bảo  Vệ Giới Nghèo?”</i> của cùng tác giả ở nguồn: <a href="https://sachhiem.net/index.php?content=showrecipe&amp;id=5396">https://sachhiem.net/index.php?content=showrecipe&amp;id=5396</a> </p>
+<p>   Ở Hoa Kỳ, đảng Cộng Hòa là đảng  theo khuynh hướng bảo thủ, đại diện cho giới tư bản giầu có trong xã hội; trong  khi đảng Dân Chủ thì theo khuynh hướng tự do, tiến bộ, đại diện cho giới trung  lưu và nghèo, muốn cải tổ xã hội để cho mọi từng lớp có cơ hội cùng vươn lên. Một  đạo luật hay một chính sách kinh tế luôn luôn mang đến sự lợi ích cho một giai  cấp này nhưng lại sự bất lợi cho một một giai cấp khác. Đó là cái thế tương  tranh muôn đời trong xã hội, điển hình là giữa hai đảng Cộng Hòa và Dân Chủ  trong tất cả mọi sinh hoạt chính trị, kinh tế và xã hội. Xin đọc thêm bài <i>“Dân Chủ Hay Cộng Hòa, Đảng Nào Chuyên Lo Bảo  Vệ Giới Nghèo?”</i> của cùng tác giả ở nguồn: <a href="/TTL/TranTL31">https://sachhiem.net/index.php?content=showrecipe&amp;id=5396</a> </p>
 <p>   Nhưng những vấn đề chính trị,  kinh tế và xã hội lại còn là những vấn đề chịu nhiều sự chi phối của các tình  trạng biến động quốc tế. Những biến động xa xôi thường nằm ngoài khả năng quản  trị của một nhà lãnh đạo địa phương. Nhìn những biến động thăng trầm ở nhiều quốc  gia trên toàn thế giới trong suốt thời gian 6 năm qua, chúng ta mới dễ dàng nhận  ra tài năng lãnh đạo của chính quyền Obama của đảng Dân Chủ đã đưa đất nước Hoa  Kỳ thoát khỏi tình trạng kinh tế thoái trào, hệ quả của một sự lãnh đạo tồi tệ do  chính quyền Bush của đảng Cộng Hòa để lại.</p>
 <p>   Cho dù sự thành công của đảng Dân  Chủ có ở mức độ nào thì vẫn luôn luôn còn chỗ cho một sự kỳ vọng lãnh đạo đất  nước tốt đẹp hơn nữa. Và những khó khăn trước mắt đang chờ chúng ta giải quyết  cũng vẫn cứ luôn luôn tăng thêm theo thời gian, không bao giờ ngừng.</p>
 <p>   Nếu thẩm định mọi vấn đề theo  nghĩa tương đối thì chính quyền Obama có thể được xem là một chính quyền đã vượt  qua được mọi thử thách gian nan trong thời gian qua để đưa đất nước Hoa Kỳ  thoát khỏi mọi cơn sóng dữ mà các quốc gia khác trên thế giới hiện nay vẫn còn  đang vật lộn. Những con số thống kê tích cực về tình trạng kinh tế của quốc gia  Hoa Kỳ cho phép chúng ta tiếp tục hy vọng vào một viễn ảnh tốt đẹp hơn nữa  trong những năm sắp tới.</p>
@@ -156,6 +156,6 @@ image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/TTL/IMG/TTL60_table.
 <p class="TacgiaL">Vũ Linh </p>
  
 <hr>
-<p><a href="https://sachhiem.net/TTL/List.inc.php">Các bài của Trần Tiên Long » </a></p>
+<p><a href="/TTL/List.inc">Các bài của Trần Tiên Long » </a></p>
 
 <hr>

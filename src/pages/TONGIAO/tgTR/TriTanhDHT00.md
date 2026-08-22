@@ -2,17 +2,17 @@
 layout: ../../../layouts/Article.astro
 title: "Hòa Thượng Nhất Hạnh Trong Danh Sách"
 author: "Trí Tánh ĐHT"
-source: "https://sachhiem.net/TONGIAO/tgTR/TriTanhDHT01.php"
+source: "/TONGIAO/tgTR/TriTanhDHT01"
 category: "Tác giả"
 lang: vi
 wordCount: 2087
-image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nha.jpg"
+image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/SACHNGOAI/Hinhanh/BIASACH/WatkinsReview.jpg"
 ---
 
 <p class="Tuaduoi">100 Nhân Vật Có Ảnh Hưởng Tâm Linh Lớn Nhất Thế Giới </p>
           
  
-<p align="center"><a href="https://www.sachhiem.net/"> <img border="0" src="https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nha.jpg"></a> 15 tháng 4, 2011 </p>
+<p align="center"> 15 tháng 4, 2011 </p>
          <p><span class="First">N</span>gày 1 tháng 3 năm 2011 vừa qua, nhà xuất bản <i>Watkins Books</i> tại thủ đô London (Anh quốc) đã phát hành ấn phẩm Mùa Xuân <i>Watkins Review</i>, số 26, trong đó, Ban Biên tập đã thiết lập danh sách của 100 nhân vật hiện nay còn sống, và đang có ảnh hưởng tâm linh lớn nhất trên thế giới. Cứ mỗi ba năm, Watkins Books lại cập nhật danh sách một lần để gửi đến 30.000 độc giả chọn lọc của nhà xuất bản. </p>
             <p>Việc chọn lựa những tác giả và các giảng sư tâm linh, mà những đóng góp của họ trong lãnh vực tâm linh (và xây dựng ý thức tâm linh) đã tác động rô<span lang="en-us">n</span>g rãi trên thế giới, là một quá trình không đơn giản.</p>
             <p><img border="0" src="https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/SACHNGOAI/Hinhanh/BIASACH/WatkinsReview.jpg" width="151" height="213" align="left" hspace="10">Khi thiết lập danh sách nầy, Ban Biên tập của <i>Watkins Books</i> đã căn cứ trên nhiều yếu tố mà ba yếu tố chính là:</p>

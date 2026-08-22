@@ -2,15 +2,13 @@
 layout: ../../layouts/Article.astro
 title: "Những tháng tư liên hệ đến chiến tranh Việt Nam"
 author: "Lý Thái"
-source: "https://sachhiem.net/LTX/LyThaiTS09.php"
+source: "/LTX/LyThaiTS09"
 category: "Chính trị"
 lang: vi
 wordCount: 2443
-image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nha.jpg"
 ---
 
-<p align="center"><a href="https://www.sachhiem.net/">
-<img border="0" src="https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nha.jpg"></a> 03 tháng 4, 2008
+<p align="center"> 03 tháng 4, 2008
 	</p>
   
  <p><i>Lời nói đầu: Những ai thuộc thế hệ được hay bị sinh ra và lớn 

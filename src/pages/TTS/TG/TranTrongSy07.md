@@ -3,7 +3,7 @@ layout: ../../../layouts/Article.astro
 title: "Đức Mẹ Maria (Phần II)"
 author: "Trần Trọng Sỹ"
 date: 2018-12-17
-source: "https://sachhiem.net/TTS/TG/TranTrongSy07.php"
+source: "/TTS/TG/TranTrongSy07"
 category: "Tác giả"
 lang: vi
 wordCount: 20075
@@ -57,7 +57,7 @@ image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/SACHNGOAI/Hinhanh/PE
 <p>   <b>Nhưng Giêsu đã chết thản nhiên như thế nào để phục sinh ? thách đố nào cho  sự chết ?</b></p>
 <p>    Trước hết, phải biết rằng quan thái thú La Mã Pontius Pilate không muốn giết  Giêsu, ông chỉ miễn cưỡng đóng đinh Giêsu do đám đông dân Do Thái la ó yêu cầu.  Chi tiết này có hai giải trình:  </p>
 <p>    <b>Một</b>, nó được người La Mã chỉnh sửa lại kinh thánh sau khi Kytô giáo được  Constantin đưa lên làm quốc giáo, nhằm đẩy sự thù oán của tín đồ sang phía Do  Thái thay vì họ sẽ căm phẫn chính La Mã.</p>
-<p>    <b>Hai,</b> nó giải thích vì sao Giêsu không chết. Pilate không thực tâm giết Giêsu,  nên đã ngầm ra lệnh không đánh nát xương ống quyển của Giêsu mà theo tục lệ ai  bị án tử hình, sau khi bị đóng đinh, lính La Mã sẽ dùng vồ đập nát xương ống  quyển. Kẻ tử tù mất điểm tựa trên hai chân sẽ rũ xuống với sức nặng cơ thể dính  trên các đầu đinh, mất máu, và chết rất đau đớn. Giêsu đã được thông đồng và giả  vờ xỉu, lính tháo xác Giêsu và vất xuống hố. Pilate bí mật cho người cứu Giêsu  và bảo ngài nên trốn đi biệt tích. (Ai muốn rõ chi tiết, xin tìm đọc tác giả  <a href="https://sachhiem.net/CHARLIE/CNdir.php">Charlie Nguyễn trên sáchhiem.net.</a> Ông là một tín đồ Công giáo có năm đời đạo  dòng, ông dày công nghiên cứu và viết rất công phu về đề tài này).</p>
+<p>    <b>Hai,</b> nó giải thích vì sao Giêsu không chết. Pilate không thực tâm giết Giêsu,  nên đã ngầm ra lệnh không đánh nát xương ống quyển của Giêsu mà theo tục lệ ai  bị án tử hình, sau khi bị đóng đinh, lính La Mã sẽ dùng vồ đập nát xương ống  quyển. Kẻ tử tù mất điểm tựa trên hai chân sẽ rũ xuống với sức nặng cơ thể dính  trên các đầu đinh, mất máu, và chết rất đau đớn. Giêsu đã được thông đồng và giả  vờ xỉu, lính tháo xác Giêsu và vất xuống hố. Pilate bí mật cho người cứu Giêsu  và bảo ngài nên trốn đi biệt tích. (Ai muốn rõ chi tiết, xin tìm đọc tác giả  <a href="/CHARLIE/CNdir">Charlie Nguyễn trên sáchhiem.net.</a> Ông là một tín đồ Công giáo có năm đời đạo  dòng, ông dày công nghiên cứu và viết rất công phu về đề tài này).</p>
 <p>    Chuyện Giêsu phục sinh rất khả tín, vì đó không phải là chuyện gì quá hy hữu.  Trên thế gian có rất nhiều người phục sinh sau khi chết chưa tới hai ngày hai  đêm, như trường hợp của Giêsu, từ chiều thứ Sáu đến sáng Chủ Nhật. Nhưng điểm  mà không bao giờ tôi tin được, đó là Giêsu đã bay về trời !</p>
 <p>    Thôi thì cứ xem như người ta ghét Chúa nên dựng chuyện nói xấu Chúa đi.</p>
 <p>    Nhưng kinh thánh, do chính các môn đồ của Giêsu viết về cái chết của ngài, thì  ta không thể nghi ngờ họ có ác tâm với Đấng Cứu Thế của chính họ.</p>
@@ -177,7 +177,7 @@ image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/SACHNGOAI/Hinhanh/PE
   <p class="TuaDenLeft">PHÉP LẠ CỦA ĐỨC MẸ.</p>
 <p> <b>A. FATIMA</b></p>
 <p>    Maria cũng chính là chủ đề cho việc lần chuỗi  Mân Côi trong Công giáo và Chính Thống Giáo, nhưng điều mà chúng ta cần quan  tâm nhất về Đức Mẹ chính là các phép lạ mà ngài từng thể hiện.</p>
-<p>    Tôi không kể lại hai câu chuyện động trời mà tất cả chúng ta ai cũng từng nghe  qua, chuyện Đức Mẹ hiện ra ở Fatima khiến cả mặt trời nhảy múa, chuyện phép lạ ở  Lourdes, mà giáo sư Trần Chung Ngọc đã viết rất chi tiết sự thực trên Sách Hiếm. <a href="https://www.sachhiem.net/TCN/TCNtg/CGchinhsu/CGCS7.php">https://www.sachhiem.net/TCN/TCNtg/CGchinhsu/CGCS7.php</a></p>
+<p>    Tôi không kể lại hai câu chuyện động trời mà tất cả chúng ta ai cũng từng nghe  qua, chuyện Đức Mẹ hiện ra ở Fatima khiến cả mặt trời nhảy múa, chuyện phép lạ ở  Lourdes, mà giáo sư Trần Chung Ngọc đã viết rất chi tiết sự thực trên Sách Hiếm. <a href="/TCN/TCNtg/CGchinhsu/CGCS7">https://www.sachhiem.net/TCN/TCNtg/CGchinhsu/CGCS7.php</a></p>
 <p class="PicLeft"><img src="https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/TONGIAO/IMG/VATICAN/POPE/PiusXII_1939-1958.jpg" width="170" height="148" alt=""><br>giáo hoàng PIE XII 1939-1958 </p>
 <p>Về vụ Fatima, báo Pháp Figaro đưa ra nghi vấn y  như trong bài viết của GS Trần Chung Ngọc, sự kiện giáo hoàng PIE XII kể lại  ông ta từng chứng kiến tận mắt ''phép lạ'' Fatima 3 lần, nghĩa là mặt trời nhào  lộn, nhảy múa, xoay tít, lượn lờ như lá rụng, phát ra ánh sáng ngũ sắc, rồi lại  bay vút lên ngay tại Rome! Trong văn khố của gia phả dòng họ Pacelli (giòng họ  giáo hoàng Pie XII), ký giả Ý Andréa Tornielli đã tìm ra thủ bút của chính vị  giáo hoàng kể lại hiện tượng phép lạ Fatima do chính mắt ngài thấy tại Vatican,  xảy ra ngày 30, 31 tháng Mười và ngày 1 tháng Mười Một năm 1950, nhằm ngày  tuyên bố tín điều Đức Mẹ Maria Đồng Trinh Thăng Thiên. </p>
 <p>Ngay chim sẻ bay lên đáp  xuống cùng một chỗ cũng hiếm khi tới ba lần trong ba ngày liên tiếp, nói gì mặt  trời múa lượn đến ba lần cho ngài giáo hoàng xem riêng một mình. Điều này cũng  nên hỏi thử xem nếu Giêsu còn sống, ngài ấy có dám đại ngôn cỡ này không ?</p>
@@ -222,7 +222,7 @@ image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/SACHNGOAI/Hinhanh/PE
 <p>    Một bác sĩ Pháp kể câu chuyện như sau: </p>
 <p><a href="https://ariege.monsite-orange.fr/page1/index.html">(Xem bản tiếng Pháp)</a> </p>
 <p><i> Một kỹ sư người Bỉ mắc bệnh Parkinson, đã quyết định đi đến nhà thờ Lourdes với  sự chấp thuận của cha xứ. Ông ta được ngâm mình trong hồ tắm và bị nhiễm lạnh  cùng cực, ông phải cấp tốc trở về nhà và, được biết là ông bị viêm phổi cấp  tính và chết ba ngày sau khi trở về. Vụ viêm phổi dĩ nhiên là không được ghi nhận  bởi văn phòng y tế của nhà thờ Lourdes. (Theo) Bác sĩ Spehl.</i></p>
-<p>    Ai muốn tìm hiểu thêm về phép lạ của Lourdes thì đọc thêm <a href="https://sachhiem.net/TCN/TCNtg/TCN58.php">các nghiên cứu của GS  Trần Chung Ngọc, </a>ông viết quá đầy đủ về Lourdes đến nỗi tôi không còn gì để viết  thêm.</p>
+<p>    Ai muốn tìm hiểu thêm về phép lạ của Lourdes thì đọc thêm <a href="/TCN/TCNtg/TCN58">các nghiên cứu của GS  Trần Chung Ngọc, </a>ông viết quá đầy đủ về Lourdes đến nỗi tôi không còn gì để viết  thêm.</p>
 <p class="TuaDenLeft">  PHÉP LẠ NGOÀI FATIMA và LOURDES</p>
 <p>    Lên google xem phép lạ của Đức mẹ, tôi đọc thấy hằng trăm chuyện kể, nhưng tôi  đưa ra hai câu chuyện sau làm mẫu điển hình nhất về phép lạ của Đức Mẹ như  sau: </p>
 <p>  <a href="https://sites.google.com/site/giaoxuduchoa/home/tai-lieu/cac-phep-la-cua-me-maria">https://sites.google.com/site/giaoxuduchoa/home/tai-lieu/cac-phep-la-cua-me-maria</a> </p>
@@ -492,4 +492,4 @@ thời thế kỷ thứ nhất </p>
 
  <p class="TacgiaL">Trần Trọng Sỹ</p>
  <p>___________________ </p>
- <p>Các bài của Trần Trọng Sỹ: link <a href="https://sachhiem.net/TTS/ListTTS.inc.php" target="_blank">https://sachhiem.net/TTS/ListTTS.inc.php</a></p>
+ <p>Các bài của Trần Trọng Sỹ: link <a href="/TTS/ListTTS.inc" target="_blank">https://sachhiem.net/TTS/ListTTS.inc.php</a></p>

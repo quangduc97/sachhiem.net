@@ -3,7 +3,7 @@ layout: ../../../layouts/Article.astro
 title: "Thánh AUGUSTINÔ (354-430) Nói Gì Về Nữ Giới?"
 author: "FB Anh Nguyên"
 date: 2021-09-08
-source: "https://sachhiem.net/TONGIAO/FB/FBAnhNguyen01.php"
+source: "/TONGIAO/FB/FBAnhNguyen01"
 category: "Chính trị"
 lang: vi
 wordCount: 643

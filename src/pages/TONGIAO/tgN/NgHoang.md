@@ -3,7 +3,7 @@ layout: ../../../layouts/Article.astro
 title: "Thánh Kinh - Một Số Hậu Quả"
 author: "Nguyễn Hoàng"
 date: 2013-01-30
-source: "https://sachhiem.net/TONGIAO/tgN/NgHoang.php"
+source: "/TONGIAO/tgN/NgHoang"
 category: "Đối thoại"
 lang: vi
 wordCount: 1551
@@ -16,7 +16,7 @@ image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/TONGIAO/IMG/BIBLE/is
        <td>30-Jan-2013</td>
       </tr>
      </tbody></table>
-<p><i>LTS: Đây là bài viết rất ngắn của độc giả gửi đến nhân có các bài viết bàn quanh ý kiến về Thánh Kinh  "  không có gì là kinh, mà cũng không có gì là thánh cả" đã được đề cập trong bài <a href="https://sachhiem.net/DOITHOAI/Samng.php">"Thảo Luận: Thánh Kinh Và Giá Trị Đạo Đức Nhân Lá Thư Của Mục Sư Nguyễn Quang Minh"</a> Bài viết không có nhập đề cũng không có kết luận, ai đọc cũng có thể rút ra cho mình một vài câu kết luận. Suy nghĩ về hậu quả của thánh kinh có thể giúp ta tìm hiểu được những hành động các thực dân Thiên Chúa Giáo trong lịch sử loài người.</i> (SH)</p><hr>
+<p><i>LTS: Đây là bài viết rất ngắn của độc giả gửi đến nhân có các bài viết bàn quanh ý kiến về Thánh Kinh  "  không có gì là kinh, mà cũng không có gì là thánh cả" đã được đề cập trong bài <a href="/DOITHOAI/Samng">"Thảo Luận: Thánh Kinh Và Giá Trị Đạo Đức Nhân Lá Thư Của Mục Sư Nguyễn Quang Minh"</a> Bài viết không có nhập đề cũng không có kết luận, ai đọc cũng có thể rút ra cho mình một vài câu kết luận. Suy nghĩ về hậu quả của thánh kinh có thể giúp ta tìm hiểu được những hành động các thực dân Thiên Chúa Giáo trong lịch sử loài người.</i> (SH)</p><hr>
 <p><b>Chúa Trời  Lòng Lành Vô  Cùng? </b></p>
 <p>Thật Không? Thánh Kinh Cựu Ước mô tả CHÚA TRỜI như là đảng trưởng của một  đảng cướp của giết người, bắt gái trinh về chia nhau. Không hiểu tại sao Hội đồng Giám Mục  Việt Nam xuất bản cuốn Thánh Kinh Cựu Ước nầy? Mời quý vị thử đọc vài câu kinh như dưới đây:</p>
 <p><b><i>1. Thánh Kinh Cựu Ước “Dân Số Ký”, chương 31</i></b>:</p>
@@ -91,8 +91,8 @@ Nhưng  Theo khoa học, ngân hà và hằng tỉ ngôi sao ra đời cây đâ
 <hr>
 
 <p><b>Bài đọc thêm</b></p>
-<p>- <a href="https://sachhiem.net/index.php?content=showemail&amp;id=119">Lm giết con để thủ tiêu, vì sợ giáo hội biết (Hoa Long Vũ)</a></p>
-<p>- <a href="https://sachhiem.net/TONGIAO/tgS/SH26.php">Quan Tòa Gọi Một Linh Mục Là Tên Côn Đồ (Hoa Long Vũ)</a></p>
-<p>- <a href="https://www.sachhiem.net/TONGIAO/tgS/SH26_1.php">Danh Sách Tội Phạm Lê Thê - Trộm $400 ngàn, Bỏ Nghề Linh Mục Cưới Vợ, Bị Tù </a>, ....</p>
+<p>- <a href="/hop-thu/119">Lm giết con để thủ tiêu, vì sợ giáo hội biết (Hoa Long Vũ)</a></p>
+<p>- <a href="/TONGIAO/tgS/SH26">Quan Tòa Gọi Một Linh Mục Là Tên Côn Đồ (Hoa Long Vũ)</a></p>
+<p>- <a href="/TONGIAO/tgS/SH26_1">Danh Sách Tội Phạm Lê Thê - Trộm $400 ngàn, Bỏ Nghề Linh Mục Cưới Vợ, Bị Tù </a>, ....</p>
      <p>- <a href="/DOITHOAI/Samng">Thảo Luận: Thánh Kinh Và Giá Trị Đạo Đức -Nhân Lá Thư Của Mục Sư Nguyễn Quang Minh </a></p>
-     <p>- <a href="https://sachhiem.net/TONGIAO/tgT/TinFox.php">Các Nhà Chức Trách Hồng Kông Toan Tính Xếp Kinh Thánh Vào Loại Phi Luân,  https://sachhiem.net/TONGIAO/tgT/TinFox.php</a></p>
+     <p>- <a href="/TONGIAO/tgT/TinFox">Các Nhà Chức Trách Hồng Kông Toan Tính Xếp Kinh Thánh Vào Loại Phi Luân,  https://sachhiem.net/TONGIAO/tgT/TinFox.php</a></p>

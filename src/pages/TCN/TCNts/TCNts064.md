@@ -3,7 +3,7 @@ layout: ../../../layouts/Article.astro
 title: "Phật Giáo Và Vài Vấn Đề Xã Hội"
 author: "Trần Chung Ngọc"
 date: 2013-02-15
-source: "https://sachhiem.net/index.php?content=showrecipe&id=5543"
+source: "/TCN/TCNts/TCNts064"
 category: "Xã hội"
 lang: vi
 wordCount: 7595

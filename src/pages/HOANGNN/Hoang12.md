@@ -2,15 +2,14 @@
 layout: ../../layouts/Article.astro
 title: "Nguyễn Du của Thế Kỷ 20"
 author: "Hoàng Nguyên Nhuận"
-source: "https://sachhiem.net/HOANGNN/Hoang12.php"
+source: "/HOANGNN/Hoang12"
 category: "Chính trị"
 lang: vi
 wordCount: 4684
-image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nha.jpg"
+image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/Next3.gif"
 ---
 
-<p align="center"><a href="https://www.sachhiem.net/">
-	<img border="0" src="https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nha.jpg"></a> 22 tháng 3, 2008 </p>
+<p align="center"> 22 tháng 3, 2008 </p>
 	
 <p><i>LTS: Nguyên tựa bài viết là "Giã Từ Nguyễn Du Thế Kỷ 20" của tác giả HNN. Hôm nay đăng lại bài này sau 7 năm Trịnh Công Sơn mất, chữ "Giã Từ" không còn thích hợp nữa, nhưng còn lại ý nghĩa trường tồn hơn: Trịnh Công Sơn như một Nguyễn Du của thế kỷ 20 (SH).</i></p>
 <hr width="60%">

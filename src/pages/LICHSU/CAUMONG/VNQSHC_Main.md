@@ -2,7 +2,7 @@
 layout: ../../../layouts/Article.astro
 title: "Việt Nam Quốc Sử Hùng Ca"
 author: "Cầu Móng NTTTLA"
-source: "https://sachhiem.net/LICHSU/CAUMONG/VNQSHC_Main.php"
+source: "/LICHSU/CAUMONG/VNQSHC_Main"
 lang: vi
 wordCount: 5
 ---

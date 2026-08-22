@@ -3,7 +3,7 @@ layout: ../../layouts/Article.astro
 title: "Người Của Một Thời"
 author: "Nguyễn Văn Thịnh"
 date: 2017-04-26
-source: "https://sachhiem.net/NGVTHINH/NguyenvThinh_NCMTc.php"
+source: "/NGVTHINH/NguyenvThinh_NCMTc"
 category: "Văn hóa"
 lang: vi
 wordCount: 28453
@@ -617,4 +617,4 @@ image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/DECOR/number1
   
   
 <p>_________________ </p>
-<p>•  Các bài của Nguyễn Văn Thịnh: link <a href="https://sachhiem.net/NGVTHINH/ListNVTh.inc.php" target="_blank">https://sachhiem.net/NGVTHINH/ListNVTh.inc.php</a></p>
+<p>•  Các bài của Nguyễn Văn Thịnh: link <a href="/NGVTHINH/ListNVTh.inc" target="_blank">https://sachhiem.net/NGVTHINH/ListNVTh.inc.php</a></p>

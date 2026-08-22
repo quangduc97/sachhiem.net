@@ -2,7 +2,7 @@
 layout: ../../../layouts/Article.astro
 title: "Bảo tàng đường Hồ Chí Minh"
 author: "Đặng Hương"
-source: "https://sachhiem.net/null"
+source: "/null"
 category: "Lịch sử"
 lang: vi
 wordCount: 1010

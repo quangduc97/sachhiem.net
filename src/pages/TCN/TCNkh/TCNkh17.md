@@ -3,15 +3,15 @@ layout: ../../../layouts/Article.astro
 title: "TIẾN HÓA HAY SÁNG TẠO??"
 author: "Trần Chung Ngọc"
 date: 2009-02-09
-source: "https://sachhiem.net/TCN/TCNkh/TCNkh17.php"
+source: "/TCN/TCNkh/TCNkh17"
 category: "Khoa học"
 lang: vi
 wordCount: 11133
-image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nha.jpg"
+image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/Pict/TCNkh17.jpg"
 ---
 
 <table border="0" width="250" align="center">
-    <tbody><tr><td width="100"><a href="https://sachhiem.net/index.php"><img border="0" src="https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nha.jpg"></a>    </td> 
+    <tbody><tr><td width="100">    </td> 
 	
 	<td valign="top" style="text-align:right">ngày 11 tháng 2, 2009</td></tr></tbody></table>
  
@@ -296,7 +296,7 @@ image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nha.jpg"
 	separately created, and secondly, that natural selection had been the chief 
 	agent of change..)</font> [Xin đọc bài với chi tiết về <i>“Nguồn Gốc Con Người: 
 	Thuyết Tiến Hóa”</i> trên trang nhà sachhiem.net:
-	<a href="https://sachhiem.net/TCN/TCNkh/TCNkh00a.php">
+	<a href="/TCN/TCNkh/TCNkh00a">
 	https://sachhiem.net/TCN/TCNkh/TCNkh00a.php</a>]</p>
 	
 	<p>Trước sự tiến bộ 

@@ -2,11 +2,11 @@
 layout: ../../layouts/Article.astro
 title: "Hội Họa - \"Nghệ Thuật Đảo Nghịch\""
 author: "SH"
-source: "https://sachhiem.net/VANHOC/Daigiang.php"
+source: "/VANHOC/Daigiang"
 category: "Văn hóa"
 lang: vi
 wordCount: 202
-image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nha.jpg"
+image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/VANHOC/Hinh/DAIGIANG/DG1.JPG"
 ---
 
 <p class="Tuaduoi">Chen Chân Thế Giới</p>
@@ -14,7 +14,7 @@ image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nha.jpg"
 		 
 		</center>
 
-<p align="center"><a href="https://sachhiem.net/index.php"><img border="0" hspace="20" src="https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nha.jpg"></a>14 tháng 3, 2009	</p>
+<p align="center">14 tháng 3, 2009	</p>
 					<p><i>LTS: Sachhiem.net hân hạnh ghi lại những thành tựu của họa sĩ Đại Giang thể hiện trong trường phái hội họa đảo nghịch được nhiều giải thưởng quốc tế.  Những cuộc triễn lãm Tranh Đảo Nghịch đã diễn ra ở nhiều nơi kể cả Washington State và NewYork từ lúc họa sĩ sáng tạo ra môn phái này. Sau đây là một vài trong các thông tin gần nhất về họa sĩ Đại Giang và các họa phẩm. 
 					</i></p>
 					<p class="TuaDenLeft">1. Báo quốc nội - 1 tháng trước</p>

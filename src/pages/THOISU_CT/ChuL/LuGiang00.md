@@ -2,11 +2,11 @@
 layout: ../../../layouts/Article.astro
 title: "Khổ thân cho Obama!"
 author: "Lữ Giang"
-source: "https://sachhiem.net/diễn đàn [nuoc_VIET] March 3, 2011"
+source: "/diễn đàn [nuoc_VIET] March 3, 2011"
 category: "Chính trị"
 lang: vi
 wordCount: 3741
-image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nha.jpg"
+image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/TONGIAO/IMG/LINHMUC/MarekRybinski.jpg"
 ---
 
 <div align="center" style="position: relative; left: 0; top: 0">
@@ -24,8 +24,7 @@ image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nha.jpg"
 <div style="padding-left: 50px; padding-right: 50px;">
 
 <table border="0" cellpadding="0" width="600"><tbody><tr><td width="425">
-		<a href="/index">
-		<img border="0" src="https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nha.jpg"></a></td><td valign="top">07 tháng 4, 2011 </td></tr></tbody></table>
+		</td><td valign="top">07 tháng 4, 2011 </td></tr></tbody></table>
 	<p><i>LTS: Nếu không phải là vấn đề về Đệ Nhất VNCH, hoặc liên hệ đến đạo Công Giáo thì những bài viết của tác giả Lữ Giang nói lên rất nhiều mặt trái của vấn đề. Các bài viết sau đây là một trong những bài nên đọc về các Cuộc Cách Mạng mang tên "hoa lài" gần đây ở Trung Đông. "Hoa lài" rất có thể là mối nguy cho Ki-tô giáo. Xin đọc thêm bài phỏng vấn ngắn của SH với GS Nguyễn Mạnh Quang về 
 	<a href="/NMQ/NMQ033">nguyên nhân cho "mối thù" sâu nặng giữa các dân tộc Hồi Giáo đối với các nước Âu Mỹ chịu ảnh hưởng Ki-tô giáo:</a><br>
 	https://sachhiem.net/NMQ/NMQ033.php (SH)</i> </p>

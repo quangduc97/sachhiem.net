@@ -2,7 +2,7 @@
 layout: ../../../layouts/Article.astro
 title: "Cảnh Giác Với Hiện Tượng Xét Lại Lịch Sử"
 author: "Nguyễn Thanh Tuấn"
-source: "https://sachhiem.net/null"
+source: "/null"
 lang: vi
 wordCount: 4
 ---

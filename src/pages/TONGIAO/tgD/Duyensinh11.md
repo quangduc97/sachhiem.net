@@ -3,7 +3,7 @@ layout: ../../../layouts/Article.astro
 title: "Tại Sao Tôi Chống Chiến Tranh Việt Nam?"
 author: "DuyenSinh@Live.com"
 date: 2014-12-11
-source: "https://sachhiem.net/TONGIAO/tgD/Duyensinh11.php"
+source: "/TONGIAO/tgD/Duyensinh11"
 category: "Tác giả"
 lang: vi
 wordCount: 13652
@@ -149,8 +149,8 @@ Trong cuộc nỗi dậy tại Ái  Nhĩ Lan năm 1641, người Ca-tô giáo đ
 <p><a name="#nfor">[4]</a>  <a href="https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.devhttps://duyensinh.com/files/pdf/XAM_NHAP_TON_GIAO_VAO_NHAT_BAN.pdf">https://duyensinh.com/files/pdf/XAM_NHAP_TON_GIAO_VAO_NHAT_BAN.pdf</a> </p>
 <p><a name="#nfiv">[5]</a>  <a href="https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.devhttps://duyensinh.com/files/pdf/XAM_NHAP_TON_GIAO_VAO_AYUTTHAYA.pdf">https://duyensinh.com/files/pdf/XAM_NHAP_TON_GIAO_VAO_AYUTTHAYA.pdf</a> </p>
 <p><a name="#nsix">[6]</a>  Trích từ “Hoa Sen Trong Biển Lửa”  của Thiền Sư Thích Nhất Hạnh (ngưng xuất bản). [SH - <a href="https://thuvienhoasen.org/a11534/hoa-sen-trong-bien-lua-nhat-hanh">có thể đọc trên thuvienhoasen.org</a>]</p>
-<p><a name="#nsvn">[7]</a>  Vatican  Assassins, Eric Jon Phelps, ISBN: 0-9704999-2-2. Xem thêm lời bàn<a href="https://sachhiem.net/index.php?content=showemail&amp;id=752"> "Eric Jon Phelps gọi là “Chiến Tranh Của Giáo Hoàng”</a> </p>
-<p><a name="#neigh">[8]</a>  Vietnam:  Why did we go?, Avro Manhattan, ISBN: 0-937958-19-0. <a href="https://sachhiem.net/SACHNGOAI/snT/TTL_AVR_BK.php">Xem bản dịch tiếng Việt của Trần Thanh Lưu</a></p>
+<p><a name="#nsvn">[7]</a>  Vatican  Assassins, Eric Jon Phelps, ISBN: 0-9704999-2-2. Xem thêm lời bàn<a href="/net/index"> "Eric Jon Phelps gọi là “Chiến Tranh Của Giáo Hoàng”</a> </p>
+<p><a name="#neigh">[8]</a>  Vietnam:  Why did we go?, Avro Manhattan, ISBN: 0-937958-19-0. <a href="/SACHNGOAI/snT/TTL_AVR_BK">Xem bản dịch tiếng Việt của Trần Thanh Lưu</a></p>
 <p><a name="#nnine">[9]</a> <a href="https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.devhttps://www.duyensinh.com/files/pdf/CA-TO_GIAO_LA_MOT_HIEM_HOA.pdf">https://www.duyensinh.com/files/pdf/CA-TO_GIAO_LA_MOT_HIEM_HOA.pdf</a> </p>
 <p><a name="#nten">[10]</a> <a href="https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.devhttps://www.duyensinh.com/files/pdf/BI_MAT_TOA_AN_DI_GIAO_VIET_NAM_CONG_HOA.pdf">https://www.duyensinh.com/files/pdf/BI_MAT_TOA_AN_DI_GIAO_VIET_NAM_CONG_HOA.pdf</a> </p>
 <p>

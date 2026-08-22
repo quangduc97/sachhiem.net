@@ -2,15 +2,15 @@
 layout: ../../../layouts/Article.astro
 title: "TÀI LIỆU THAM KHẢO CHỌN LỌC"
 author: "Trần Chung Ngọc"
-source: "https://sachhiem.net/TCN/TCNls/TCNls09.php"
+source: "/TCN/TCNls/TCNls09"
 lang: vi
 wordCount: 9099
-image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nha.jpg"
+image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/Rose.gif"
 ---
 
 <table border="0" align="center" width="250">
  <tbody><tr>
- <td width="100"><a href="https://sachhiem.net/index.php"><img border="0" src="https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nha.jpg"></a></td>
+ <td width="100"></td>
 	<td valign="top" width="195"> 28 tháng 5, 2009<br>bổ túc 14 Dec 2010</td></tr></tbody></table>
 	
 	

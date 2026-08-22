@@ -5,7 +5,6 @@ author: "Phúc Lâm sưu tầm"
 source: "https://www.thanhnien.com.vn/News/Pages/200929/20090718002726.aspx"
 lang: vi
 wordCount: 3056
-image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nha.jpg"
 ---
 
 <div align="center" style="position: relative; left: 0; top: 0">
@@ -22,7 +21,7 @@ image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nha.jpg"
 <tr> <td width="100%"> 
 	<div style="padding-left: 50px; padding-right: 50px">
 		<table border="0" cellpadding="10" width="600" cols="2"><tbody><tr><td>
-	<a href="/index"><img border="0" src="https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nha.jpg"></a></td>
+	</td>
 	<td valign="top" width="215">28 tháng 7, 2009</td></tr></tbody></table>
 			
 			<p> <span class="First">N</span>hững quyền Dân Sự và Chính Trị đã được 

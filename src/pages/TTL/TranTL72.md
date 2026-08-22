@@ -3,7 +3,7 @@ layout: ../../layouts/Article.astro
 title: "Có Chúa Không Nhỉ?"
 author: "Trần Tiên Long"
 date: 2016-04-26
-source: "https://sachhiem.net/TTL/TranTL72.php"
+source: "/TTL/TranTL72"
 category: "Đối thoại"
 lang: vi
 wordCount: 4857
@@ -19,7 +19,7 @@ image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/TONGIAO/IMG/BIBLE/Ch
     <p><i>Chỉ có họ mới có cái thứ  gọi là “trạng huống của kẻ tin bỗng rơi vào chơi vơi”. Còn người không tin thì  chẳng cần phải vật lộn gì cả, bởi vì họ luôn luôn mở rộng đôi mắt, suy nghĩ như  con người đang tỉnh thức, có trí tuệ. Sự nghi ngờ là bản chất của con người còn  biết dùng đầu óc để suy nghĩ.</i> (TTL)</p>
   </div>
   <p><span class="First">B</span>ài <i>Biết  Đâu Đó Là Sự Thật</i> mà bạn Andrew Tran (<a href="mailto:atran04@sbcglobal.net" target="_blank">atran04@sbcglobal.net</a>) đã có nhã ý chuyển vào trong các diễn đàn công cộng là một  bài viết rất tiêu biểu của những nhà chuyên làm công việc biện giải cho Thiên  Chúa giáo. Trong suốt toàn bài viết, tác giả đã sử dụng những trò ngụy biện  ngôn từ mà những người đồng thanh tương ứng rất khó nhận ra. Đó là cứ việc xây  dựng một người rơm dựa trên những kiến thức nông cạn, sai lầm về đối phương –  người không tin – để rồi lại tự tay mình tấn công, đạp đổ người rơm đó xuống. </p>
-<p>Ở bài viết này, người viết chỉ muốn đặt trọng  tâm ở khía cạnh Luận Lý Học, một trong các bộ môn thuộc khoa học thuần túy. Còn  khía cạnh khoa học thực nghiệm, quí độc giả có thể tìm hiểu thêm ở bài <i>Còn Có Một Đời Sau</i>. Nguồn:  <a href="https://sachhiem.net/TTL/TTLkh07.php" target="_blank">https://sachhiem.net/TTL/TTLkh07.php</a> </p>
+<p>Ở bài viết này, người viết chỉ muốn đặt trọng  tâm ở khía cạnh Luận Lý Học, một trong các bộ môn thuộc khoa học thuần túy. Còn  khía cạnh khoa học thực nghiệm, quí độc giả có thể tìm hiểu thêm ở bài <i>Còn Có Một Đời Sau</i>. Nguồn:  <a href="/TTL/TTLkh07" target="_blank">https://sachhiem.net/TTL/TTLkh07.php</a> </p>
 <p>Bây giờ chúng ta hãy cẩn thận xét kỹ xem những  lý lẽ mà các nhà biện giải cho TCG đã trưng ra để nhận thấy rằng tất cả chỉ là  những thứ trò ngụy biện ngôn từ, chưa thể thuyết phục được người không tin để họ  phải đổi ý. Đó chính là lý do tại sao người ta còn cứ phải viện dẫn đến đức  tin. Nhưng trước khi đi vào chủ đề về những thứ trò ngụy biện này, tưởng cũng  nên bàn sơ qua về hai phạm trù vô thần và hữu thần mà những nhà biện giải thường  hay cố tình diễn dịch sai theo kiểu dèm pha, tấn công một người rơm.</p>
 <p align="center"><img src="https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/TONGIAO/IMG/BIBLE/Chuacha.jpg" width="266" height="270"></p>
 <p class="TuaDoLeft"><b>I.    Vô thần vs. hữu thần</b></p>
@@ -75,12 +75,12 @@ image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/TONGIAO/IMG/BIBLE/Ch
 <p>Có sinh vật tưởng tượng nào, kể cả Thiên Chúa của  TCG, mà chẳng phải tuyệt đối giữ im lặng, chẳng phải là những mầu nhiệm không  thể lý giải, bất khả tư nghì?</p>
 <p><span class="TacgiaL">Trần Tiên Long</span></p>
 <p><b>Ghi chú: </b></p>
-<p><a name="ftone" href="/TTL/#one">[1]</a> Miên Man Chuyện Đức Tin / Trần Tiên Long. Nguồn:<a href="https://sachhiem.net/index.php?content=showrecipe&amp;id=5924" target="_blank">https://sachhiem.net/index.php?content=showrecipe&amp;id=5924</a></p>
+<p><a name="ftone" href="/TTL/#one">[1]</a> Miên Man Chuyện Đức Tin / Trần Tiên Long. Nguồn:<a href="/TTL/TranTL50" target="_blank">https://sachhiem.net/index.php?content=showrecipe&amp;id=5924</a></p>
 <p><a name="fttwo" href="/TTL/#two">[2]</a> Top 10 Psychic Debunkings, <a href="https://listverse.com/2008/04/10/top-10-psychic-debunkings/" target="_blank">https://listverse.com/2008/04/10/top-10-psychic-debunkings/</a></p>
 <p><a name="ftthr" href="/TTL/#thr">[3]</a> Muller, H. J. (1959). "One hundred  years without Darwin are enough". School Science and Mathematics 59: 304–305.doi:10.1111/j.1949-8594.1959.tb08235.x.<a href="https://www.skepticfiles.org/evolut/100pcnts.htm." target="_blank">https://www.skepticfiles.org/evolut/100pcnts.htm. </a>Reprinted  in Zetterberg, Peter (ed.) (1983-05-01). Evolution Versus Creationism: The Public  Education Controversy. Phoenix AZ: ORYX Press. ISBN0897740610.</p>
-<p><a name="ftfor" href="/TTL/#for">[4]</a> The improbability of God by Richard Dawkins  / Không Thể Có Thượng Đế. Trần Tiên Long dịch. Nguồn: <a href="https://sachhiem.net/index.php?content=showrecipe&amp;id=5013" target="_blank">https://sachhiem.net/index.php?content=showrecipe&amp;id=5013</a></p>
+<p><a name="ftfor" href="/TTL/#for">[4]</a> The improbability of God by Richard Dawkins  / Không Thể Có Thượng Đế. Trần Tiên Long dịch. Nguồn: <a href="/TTL/TranTL10" target="_blank">https://sachhiem.net/index.php?content=showrecipe&amp;id=5013</a></p>
 <p>
-[5] Hai Lối Chứng Minh Không Có Thượng Đế. Trần  Tiên Long dịch. Nguồn:<a href="https://sachhiem.net/index.php?content=showrecipe&amp;id=861" target="_blank">https://sachhiem.net/index.php?content=showrecipe&amp;id=861</a></p>
+[5] Hai Lối Chứng Minh Không Có Thượng Đế. Trần  Tiên Long dịch. Nguồn:<a href="/TTL/TranTL04" target="_blank">https://sachhiem.net/index.php?content=showrecipe&amp;id=861</a></p>
 <p>
 [6] Research suggests morality can survive  without religion. Nguồn:<a href="https://www.upi.com/Science_News/2016/01/13/Research-suggests-morality-can-survive-without-religion/6411452715270/" target="_blank">https://www.upi.com/Science_News/2016/01/13/Research-suggests-morality-can-survive-without-religion/6411452715270/</a></p>
 <p>
@@ -96,6 +96,6 @@ image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/TONGIAO/IMG/BIBLE/Ch
   <div align="center"><div class="fb-share-button" data-layout="button" data-size="large" data-actiob="like" data-show-faces="true" data-share="true" data-mobile-iframe="true"></div>
 </div>
  <hr>
-<p><a href="https://sachhiem.net/TTL/List.inc.php">Các bài của Trần Tiên Long » </a></p>
+<p><a href="/TTL/List.inc">Các bài của Trần Tiên Long » </a></p>
 
 <hr>

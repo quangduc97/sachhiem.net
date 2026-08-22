@@ -3,7 +3,7 @@ layout: ../../../layouts/Article.astro
 title: "Tản Mạn Ngày Cuối Năm Đưa Ông Táo"
 author: "Dương Kinh Thành"
 date: 2016-02-01
-source: "https://sachhiem.net/VANHOC/DKTH/DgKinhThanh_xh06.php"
+source: "/VANHOC/DKTH/DgKinhThanh_xh06"
 category: "Xã hội"
 lang: vi
 wordCount: 1141

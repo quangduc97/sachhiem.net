@@ -2,11 +2,10 @@
 layout: ../../../layouts/Article.astro
 title: "Ngày Tàn Của Những Kẻ Truyền Đạo Cuồng Tín"
 author: "Minh Kiến"
-source: "https://sachhiem.net/Nguyên bản tiếng Anh: &nbsp;https://web.archive.org/web/20080415222023/www.burningcross.net/crusades/christian-missionary-atrocities.html"
+source: "/Nguyên bản tiếng Anh: &nbsp;https://web.archive.org/web/20080415222023/www.burningcross.net/crusades/christian-missionary-atrocities.html"
 category: "Tác giả"
 lang: vi
 wordCount: 16
-image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.devhttps://sachhiem.net/images/nha.jpg"
 ---
 
 <div align="center">
@@ -28,8 +27,7 @@ image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.devhttps://sachhiem.net/
 <tr> <td width="100%"> 
 		<div style="padding-left: 50px; padding-right: 50px">
 		<table border="0" cellpadding="10" width="600" cols="2"><tbody><tr>
-		<td width="401"><a href="https://sachhiem.net/index.php">
-		<img border="0" src="https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.devhttps://sachhiem.net/images/nha.jpg"></a></td>
+		<td width="401"></td>
 	<td valign="top">	<p>26 tháng 3, 2011</p></td></tr></tbody></table>
 			<hr>
 			

@@ -2,14 +2,14 @@
 layout: ../../../layouts/Article.astro
 title: "Văn Hóa Nào Đã Tạo Nên Con Người Chính Trị Ngô Đình Diệm?"
 author: "Phùng Quân"
-source: "https://sachhiem.net/LICHSU/P/PhungQuan1.php"
+source: "/LICHSU/P/PhungQuan1"
 category: "Xã hội"
 lang: vi
 wordCount: 4855
-image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nha.jpg"
+image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/LICHSU/IMG/SACH/Bienco11_TrT.jpg"
 ---
 
-<p align="center"><a href="https://www.sachhiem.net/"> <img border="0" src="https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nha.jpg"></a>  23  tháng 10, 2010 </p>
+<p align="center">  23  tháng 10, 2010 </p>
 		<p><i>LTS : Đó là một trong những tiểu tựa trong bài "Tháng mười một, chợt nhớ vài bài thơ về chế độ Diệm" của tác giả Phùng Quân. Sachhiem.net xin phép tác giả để được đăng những trích đọan rất giá trị và liên hệ trực tiếp đến đề tài chính: Văn hóa nào đã ảnh hưởng đến con người chính trị của Ngô Đình Diệm, cố tổng thống Đệ Nhất Cộng Hòa của miền Nam (1954 -1963).  </i></p>
 		<p><i>"Đừng “xía” vô chuyện của dân tộc Việt Nam nữa" là lời khuyên của tác giả gửi thẳng đến Vatican và là cốt ý rốt ráo nhất trong bài. (SH)</i></p><hr>
 		 

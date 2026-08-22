@@ -2,7 +2,7 @@
 layout: ../../../layouts/Article.astro
 title: "Lộ Mặt Tên Trùm Xâm Lược"
 author: "Nguyễn Văn Quý"
-source: "https://sachhiem.net/null"
+source: "/null"
 category: "Chính trị"
 lang: vi
 wordCount: 1025
@@ -36,7 +36,7 @@ image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nhacu.jpg"
 	<tbody><tr><td bgcolor="White" align="justify" valign="top">
 	
 			<table border="0" cellpadding="10" width="100%" cols="3" align="center"><tbody><tr>
-			<td><a href="https://sachhiem.net/"><img border="0" src="https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nhacu.jpg"></a></td>
+			<td><a href="/"><img border="0" src="https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nhacu.jpg"></a></td>
 
 				<td valign="top"><i><a href="/THOISU_CT/#" onclick="location.href='https://sachhiem.net/BIA/sendafriend.php?url='+location.href;">
 				<font size="3"><img src="https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/THOISU_CT/file:///C:/SACHHIEM/images/mail.gif" border="0"> 

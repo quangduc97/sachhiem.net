@@ -3,7 +3,7 @@ layout: ../../../layouts/Article.astro
 title: "Ông TS Nguyễn Tiến Hưng \"Giết\" Sử Như Thế Nào?"
 author: "TS. Phan Văn Hoàng"
 date: 2022-06-01
-source: "https://sachhiem.net/LICHSU/P/PhanvHoang_03a.php"
+source: "/LICHSU/P/PhanvHoang_03a"
 category: "Lịch sử"
 lang: vi
 wordCount: 7043
@@ -11,7 +11,7 @@ image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/LICHSU/IMG/VNCH/Nguy
 ---
 
 <div class="tomluoc">
-    <p><i>LTS: Bài này trước đây (26-Aug-2017) đã được đăng với tiêu đề: "<a href="https://sachhiem.net/LICHSU/P/PhanvHoang_03.php">Viết Sử Như Thế Là Giết Sử</a>". Nay đăng lại vì nhu cầu làm sáng tỏ vấn đề nửa giải đất Việt Nam ở phía Nam trong giai đoạn Pháp trở lại chiếm, "Quốc gia VN thời Bảo Đại, rồi VNCH thời Ngô Đình Diệm, Nguyễn văn Thiệu" <b>có được coi là một quốc gia riêng hay không</b>. Trong lần này, chúng tôi chia ra 3 tiểu tựa I, II và III màu đỏ để bạn đọc dễ theo dõi. Xin mời xem đặc biệt mục:</i></p>
+    <p><i>LTS: Bài này trước đây (26-Aug-2017) đã được đăng với tiêu đề: "<a href="/LICHSU/P/PhanvHoang_03">Viết Sử Như Thế Là Giết Sử</a>". Nay đăng lại vì nhu cầu làm sáng tỏ vấn đề nửa giải đất Việt Nam ở phía Nam trong giai đoạn Pháp trở lại chiếm, "Quốc gia VN thời Bảo Đại, rồi VNCH thời Ngô Đình Diệm, Nguyễn văn Thiệu" <b>có được coi là một quốc gia riêng hay không</b>. Trong lần này, chúng tôi chia ra 3 tiểu tựa I, II và III màu đỏ để bạn đọc dễ theo dõi. Xin mời xem đặc biệt mục:</i></p>
  <p class="TuaDenLeft">Về Cái Gọi Là Hiệp Ước Độc Lập  </p>
  <p> <i>Kính mời (SH)</i></p>
 </div>

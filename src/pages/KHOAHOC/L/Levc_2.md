@@ -3,15 +3,15 @@ layout: ../../../layouts/Article.astro
 title: "Vận Tốc Ánh Sáng"
 author: "Lê văn Cường"
 date: 2012-03-13
-source: "https://sachhiem.net/KHOAHOC/L/Levc_2.php"
+source: "/KHOAHOC/L/Levc_2"
 category: "Khoa học"
 lang: vi
 wordCount: 3740
-image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nha.jpg"
+image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/KHOAHOC/IMG/LEVC/2_vtas1.jpg"
 ---
 
 <table border="0" cellpadding="1" align="center" width="250">
-        <tbody><tr><td width="100"><a href="/index"><img border="0" src="https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nha.jpg"></a></td>
+        <tbody><tr><td width="100"></td>
 		<td valign="top" width="198">13-Mar-2012</td>
 	</tr>
 </tbody></table>
@@ -28,7 +28,7 @@ image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nha.jpg"
 <p>
    <i>Trong chiều hướng này, tòa soạn SH xin giới thiệu quí đọc giả một bài viết
    rất công phu của tác giả Lê Văn Cường.</i> (SH)</p><hr>
-<p>►<a href="https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.devhttps://sachhiem.net/KHOAHOC/L/Levc_2a.pdf">Xem bản Anh
+<p>►<a href="https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/KHOAHOC/L/Levc_2a.pdf">Xem bản Anh
     ngữ ☞</a></p>
 <p><span class="First">Einstein,</span> nhà bác học lớn của thế kỷ 20, đã mở rộng tri thức của nhân loại
   khi ông chỉ rõ không gian và thời gian đều mang tính tương đối chứ không phải

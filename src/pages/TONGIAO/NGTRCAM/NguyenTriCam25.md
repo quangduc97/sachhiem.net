@@ -3,7 +3,7 @@ layout: ../../../layouts/Article.astro
 title: "Vatican Thuyên Chuyển Người Tố Giác Tham Nhũng"
 author: "Nguyễn Trí Cảm"
 date: 2012-01-28
-source: "https://sachhiem.net/TONGIAO/NGTRCAM/NguyenTriCam25.php"
+source: "/TONGIAO/NGTRCAM/NguyenTriCam25"
 category: "Tác giả"
 lang: vi
 wordCount: 541

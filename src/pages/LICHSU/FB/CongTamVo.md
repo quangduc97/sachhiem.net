@@ -3,7 +3,7 @@ layout: ../../../layouts/Article.astro
 title: "Sai lầm nghiêm trọng trong việc nói có 2 quốc gia Việt Nam từ 1954-1975"
 author: "Công Tâm Võ"
 date: 2022-05-05
-source: "https://sachhiem.net/LICHSU/FB/CongTamVo.php"
+source: "/LICHSU/FB/CongTamVo"
 category: "Chính trị"
 lang: vi
 wordCount: 1217

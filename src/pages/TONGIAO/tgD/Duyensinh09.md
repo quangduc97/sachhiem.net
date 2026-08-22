@@ -3,7 +3,7 @@ layout: ../../../layouts/Article.astro
 title: "Làm Thế Nào Để Phát Triển Tuệ Giác?"
 author: "DuyênSinh"
 date: 2014-10-16
-source: "https://sachhiem.net/TONGIAO/tgD/Duyensinh09.php"
+source: "/TONGIAO/tgD/Duyensinh09"
 category: "Tác giả"
 lang: vi
 wordCount: 4230
@@ -20,7 +20,7 @@ image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/TONGIAO/IMG/PHAT/Tue
  <p>- <a name="tit3" href="/TONGIAO/#n3"> Chữ Tâm Kia Mới Bằng Ba Chữ Tài</a></p>
   <p>- <a name="tit4" href="/TONGIAO/#n4"> Những Lời Bình Luận Ngắn </a></p>
 </div>
-<p><span class="First">B</span>ài của  ông Đào Văn Bình “<i><a href="https://sachhiem.net/DAOVB/CT/DaovBinh26.php">Không có phước đức nào lớn bằng sự thông thái của trí tuệ</a></i>”,  đăng trên Sachhiem.net <a name="one" href="/TONGIAO/#end1">[1]</a>, là một bài viết rất hay. Bài này sẽ khai  sáng cho rất nhiều người, mà phương pháp cầu nguyện không thể mang tới. </p>
+<p><span class="First">B</span>ài của  ông Đào Văn Bình “<i><a href="/DAOVB/CT/DaovBinh26">Không có phước đức nào lớn bằng sự thông thái của trí tuệ</a></i>”,  đăng trên Sachhiem.net <a name="one" href="/TONGIAO/#end1">[1]</a>, là một bài viết rất hay. Bài này sẽ khai  sáng cho rất nhiều người, mà phương pháp cầu nguyện không thể mang tới. </p>
 <p>Nói vậy không có nghĩa là  phương pháp cầu nguyện không có hiệu quả. Tùy theo trường hợp và căn tính của  mỗi người. Đức tin và cầu nguyện chắc chắn mang tới lợi lạc, nếu đức tin và cầu  nguyện ấy dẫn tới sự thực tập. </p>
 <p>Thực tế cho thấy: không có một quyền năng nào có thể ban tặng tuệ giác cho một người, mà người nhận lãnh chỉ có đức tin và chỉ biết cầu nguyện.&nbsp;Cầu nguyện mà không thực tập thì chẳng khác nào “<i>muốn ăn quả mà không muốn trồng cây</i>”. </p>
 <p> <a name="n1" class="TuaDenLeft" href="/TONGIAO/#tit1">  ▪  Đức Hạnh Và Tuệ Giác Là Hai Thứ Quý Nhất Trên Đời </a></p>
@@ -90,7 +90,7 @@ image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/TONGIAO/IMG/PHAT/Tue
 <p><b>Bản PDF:</b> <a target="_blank" href="https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.devhttps://www.duyensinh.com/files/pdf/LAM_THE_NAO_DE_PHAT_TRIEN_TUE_GIAC.pdf"> https://www.duyensinh.com/files/pdf/LAM_THE_NAO_DE_PHAT_TRIEN_TUE_GIAC.pdf </a></p>
 
 <p><b><u>GHI CHÚ:</u></b></p>
-<p><a name="end1" href="/TONGIAO/#one">[1]</a>&nbsp;<a href="https://www.sachhiem.net/DAOVB/CT/DaovBinh26.php" target="_blank">Không Có Phước Đức Nào Lớn Bằng Sự Thông Thái Của Trí Tuệ </a> </p>
+<p><a name="end1" href="/TONGIAO/#one">[1]</a>&nbsp;<a href="/DAOVB/CT/DaovBinh26" target="_blank">Không Có Phước Đức Nào Lớn Bằng Sự Thông Thái Của Trí Tuệ </a> </p>
 <p><a name="end2" href="/TONGIAO/#two">[2]</a>  <a name="n4" class="TuaDenLeft" href="/TONGIAO/#tit4"> Những Lời Bình Luận Ngắn </a> </p>
 <div class="indent50">
   <p>Subject: Không Có P hước Đức N ào Lớn Bằn g Sự Thông&nbsp; Thái Của Trí Tuệ <br>

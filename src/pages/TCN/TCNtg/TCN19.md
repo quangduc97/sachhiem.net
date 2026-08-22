@@ -2,17 +2,16 @@
 layout: ../../../layouts/Article.astro
 title: "LINH MỤC LÀ AI ?"
 author: "Trần Chung Ngọc"
-source: "https://sachhiem.net/TCN/TCNtg/TCN19.php"
+source: "/TCN/TCNtg/TCN19"
 lang: vi
 wordCount: 4662
-image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nha.jpg"
 ---
 
 <p class="Tuaduoi"> MỘT CÂU HỎI ! CÓ BAO NHIÊU TRẢ LỜI ? (Phần 2)</p>
     
     
-    <p align="center"> <a href="/index"><img border="0" src="https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nha.jpg" align="middle" hspace="20"></a> 10 tháng 6, 2007 </p>
-    <p>Toàn bộ: <a href="https://sachhiem.net/TCN/TCNtg/TCN18.php">1</a> <a href="https://sachhiem.net/TCN/TCNtg/TCN19.php">2</a></p>
+    <p align="center">  10 tháng 6, 2007 </p>
+    <p>Toàn bộ: <a href="/TCN/TCNtg/TCN18">1</a> <a href="/TCN/TCNtg/TCN19">2</a></p>
     <p> <i>(Tiếp theo và hết)</i></p>
     <p> <b> <u>Linh Mục Ca-na-điên Charles Chiniqui:</u></b> </p>
     <p><i>Tôi được phong chức Linh mục tại nhà thờ Québec, bởi Tổng Giám mục Signaie ở Canada.Cái người đại diện của giáo hoàng này, bằng cách đặt tay lên đầu tôi, đã ban cho tôi quyền năng biến một mẩu bánh thành ra máu, thịt, linh hồn thực sự với thần tính của Chúa Ki Tô Giê-su. Giáo hội không thể sai lầm của tôi đã đặt tôi không chỉ ngang hàng với đấng cứu rỗi của tôi và Thiên Chúa, mà thực ra còn trên cả ông ta.Từ nay về sau tôi không chỉ ra lệnh cho Chúa mà còn tạo ra Chúa nữa.</i> [Hereafter I would not only command, but create Him]</p>
@@ -72,5 +71,5 @@ image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nha.jpg"
     <p>đã chứng tỏ nhận định của Leo Tolstoy ở trên không sai một mảy may. </p>
     <p>____________</p>
   <p><b>Bài đọc thêm:</b></p>
-  <p>- <a href="https://sachhiem.net/TONGIAO/tgTR/TranTheTuyen.php">Linh Mục... Người Là Gì? </a>(LM. Trần Tuyên) </p>
+  <p>- <a href="/TONGIAO/tgTR/TranTheTuyen">Linh Mục... Người Là Gì? </a>(LM. Trần Tuyên) </p>
      <hr>

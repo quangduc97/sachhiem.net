@@ -2,16 +2,16 @@
 layout: ../../../layouts/Article.astro
 title: "Thành Kính Phân Ưu (Chuyển Luân)"
 author: "Nhóm Chuyển Luân"
-source: "https://sachhiem.net/null"
+source: "/null"
 category: "Xã hội"
 lang: vi
 wordCount: 252
-image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nha.jpg"
+image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/ChiaBuon/Fun_gio2.jpg"
 ---
 
 <p class="Tuaduoi">Thành Kính Phân Ưu </p>
 
- <p align="center"><a href="https://www.sachhiem.net/"> <img border="0" src="https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nha.jpg"></a> 16 tháng 1, 2009 </p>
+ <p align="center"> 16 tháng 1, 2009 </p>
 
 
 <p class="MUC">Nhạc Sĩ PHẠM THẾ MỸ </p>

@@ -3,7 +3,7 @@ layout: ../../../layouts/Article.astro
 title: "Vài Trong Những Thiệp Chúc Tết"
 author: "Tòa soạn (sưu tầm)"
 date: 2025-08-06
-source: "https://sachhiem.net/VANHOC/TQLOC/TranQuangLoc3h.php"
+source: "/VANHOC/TQLOC/TranQuangLoc3h"
 category: "Văn hóa"
 lang: vi
 wordCount: 48

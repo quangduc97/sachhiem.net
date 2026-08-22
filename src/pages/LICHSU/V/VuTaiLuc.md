@@ -3,7 +3,7 @@ layout: ../../../layouts/Article.astro
 title: "Chế Độ Ngô Đình Diệm Từ Góc Nhìn Của Một Trí Thức Miền Nam"
 author: "Vũ Tài Lục"
 date: 2019-10-16
-source: "https://sachhiem.net/LICHSU/V/VuTaiLuc.php"
+source: "/LICHSU/V/VuTaiLuc"
 category: "Chính trị"
 lang: vi
 wordCount: 1826

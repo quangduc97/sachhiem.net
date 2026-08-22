@@ -2,7 +2,7 @@
 layout: ../../../layouts/Article.astro
 title: "Dân chủ và đạo Kitô ở Việt Nam"
 author: "Lê Dọn Bàn"
-source: "https://sachhiem.net/null"
+source: "/null"
 category: "Chính trị"
 lang: vi
 wordCount: 2940

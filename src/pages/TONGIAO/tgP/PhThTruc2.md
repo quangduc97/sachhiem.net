@@ -3,7 +3,7 @@ layout: ../../../layouts/Article.astro
 title: "Sư Im Lặng Điếc Tai Của Giáo Hoàng Benedict XVI"
 author: "Jorge Ramos Avalos"
 date: 2013-03-21
-source: "https://sachhiem.net/TONGIAO/tgP/PhThTruc2.php"
+source: "/TONGIAO/tgP/PhThTruc2"
 category: "Tác giả"
 lang: vi
 wordCount: 1207

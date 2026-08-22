@@ -2,11 +2,11 @@
 layout: ../../../layouts/Article.astro
 title: "Mười Sự Thật Nên Biết"
 author: "Quang Vinh"
-source: "https://sachhiem.net/null"
+source: "/null"
 category: "Tác giả"
 lang: vi
 wordCount: 3871
-image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nha.jpg"
+image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/IMG/GIAOVGIAN_XUA/CGvathucdan.jpg"
 ---
 
 <div align="center" style="position: relative; left: 0; top: 0">
@@ -28,8 +28,7 @@ image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nha.jpg"
 <tr><td width="100%">
 <div style="padding-left: 50px; padding-right: 50px"> 
 	<table border="0" cellpadding="1" width="86%" cols="2"><tbody><tr>
-	<td>	<p><a href="https://www.sachhiem.net/">
-	<img border="0" src="https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nha.jpg"></a></p></td>
+	<td>	</td>
 <td valign="top" width="210"><p>07 tháng 8, 2009</p>
 			</td></tr></tbody></table>
 		<p>Đạo “<i>Công</i>” 
@@ -420,13 +419,13 @@ cuộc di cư khổng lồ theo tiếng gọi “Đức Mẹ đã vào Nam” . 
 	<p>[9] Trần Chung Ngọc, “<i>Công giáo chính 
 	sử</i>”, Chương III.</p>
 	<p>Link :
-	<a style="color: blue; text-decoration: underline; text-underline: single" href="https://www.sachhiem.net/TCNtg/CGchinhsu/CGCS3.php">
+	<a style="color: blue; text-decoration: underline; text-underline: single" href="/TCNtg/CGchinhsu/CGCS3">
 	https://www.sachhiem.net/TCNtg/CGchinhsu/CGCS3.php</a></p>
 	
 	<p>[10] Trần Chung Ngọc, “<i>Đức tin Công 
 	giáo, một khảo luận trong ánh sáng của khoa học và lý trí</i>”.</p>
 	<p>Link :
-	<a style="color: blue; text-decoration: underline; text-underline: single" href="https://www.sachhiem.net/TCNtg/DuctinCG/DuctinCG.php">
+	<a style="color: blue; text-decoration: underline; text-underline: single" href="/TCNtg/DuctinCG/DuctinCG">
 	https://www.sachhiem.net/TCNtg/DuctinCG/DuctinCG.php</a></p>
 	
 	<p>[11] Trần Chung Ngọc, “<i>Vô thần Cộng sản 
@@ -456,25 +455,25 @@ cuộc di cư khổng lồ theo tiếng gọi “Đức Mẹ đã vào Nam” . 
 	<p>[15] Trần Chung Ngọc, “<i>Giê-su là ai ? 
 	Giảng dạy những gì ?</i>”.</p>
 	<p>Link :
-	<a style="color: blue; text-decoration: underline; text-underline: single" href="https://www.sachhiem.net/TCNtg/Giesu/Giesulaai.php">
+	<a style="color: blue; text-decoration: underline; text-underline: single" href="/TCNtg/Giesu/Giesulaai">
 	https://www.sachhiem.net/TCNtg/Giesu/Giesulaai.php</a></p>
 	
 	<p>[16] Trần Chung Ngọc, “<i>Đây !!! Chúa 
 	Giê-su của những người theo đạo Giê-su</i>”.</p>
 	<p>Link :
-	<a style="color: blue; text-decoration: underline; text-underline: single" href="https://www.sachhiem.net/TCNtg/3NGOI/TCN64_Con.php">
+	<a style="color: blue; text-decoration: underline; text-underline: single" href="/TCNtg/3NGOI/TCN64_Con">
 	https://www.sachhiem.net/TCNtg/3NGOI/TCN64_Con.php</a></p>
 	
 	<p>[17] Trần Chung Ngọc, “<i>Đây !!! Chúa Ma, 
 	ngôi ba trong “Bộ ba Thiên chúa</i>”.</p>
 	<p>Link :
-	<a style="color: blue; text-decoration: underline; text-underline: single" href="https://www.sachhiem.net/TCNtg/3NGOI/TCN71_Ghost.php">
+	<a style="color: blue; text-decoration: underline; text-underline: single" href="/TCNtg/3NGOI/TCN71_Ghost">
 	https://www.sachhiem.net/TCNtg/3NGOI/TCN71_Ghost.php</a></p>
 	
 	<p>[18] Trần Chung Ngọc, “<i>Đây !!! Chúa Cha 
 	của những người theo đạo Thiên chúa</i>”</p>
 	<p>Link :
-	<a style="color: blue; text-decoration: underline; text-underline: single" href="https://www.sachhiem.net/TCNtg/3NGOI/TCN64_1.php">
+	<a style="color: blue; text-decoration: underline; text-underline: single" href="/TCNtg/3NGOI/TCN64_1">
 	https://www.sachhiem.net/TCNtg/3NGOI/TCN64_1.php</a></p>
 	
 	<p>[19] </p>
@@ -485,13 +484,13 @@ cuộc di cư khổng lồ theo tiếng gọi “Đức Mẹ đã vào Nam” . 
 	<p class="sub"> b) Trần Chung Ngọc, “<i>Thêm 10 
 	nhận xét về tín đồ Thiên chúa giáo Việt Nam</i>”. </p>
 	<p class="sub"> Link :
-	<a style="color: blue; text-decoration: underline; text-underline: single" href="https://www.sachhiem.net/TCNtg/TCN31.php">
+	<a style="color: blue; text-decoration: underline; text-underline: single" href="/TCNtg/TCN31">
 	https://www.sachhiem.net/TCNtg/TCN31.php</a></p>
 	
 	<p>[20] Charlie Nguyễn, “<i>Những tác hại của 
 	sách kinh Công giáo</i>”.</p>
 	<p>Link :
-	<a style="color: blue; text-decoration: underline; text-underline: single" href="https://www.sachhiem.net/CHARLIE/CN_CGTBVT/CN_CGTBVT_11.php">
+	<a style="color: blue; text-decoration: underline; text-underline: single" href="/CHARLIE/CN_CGTBVT/CN_CGTBVT_11">
 	https://www.sachhiem.net/CHARLIE/CN_CGTBVT/CN_CGTBVT_11.php</a></p>
 	
 	<p>[21] Lý Nguyên Diệu, “<i>Công giáo Việt 

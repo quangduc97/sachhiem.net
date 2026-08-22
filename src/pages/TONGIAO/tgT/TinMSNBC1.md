@@ -6,11 +6,10 @@ source: "https://sachhiem.net"
 category: "Chính trị"
 lang: vi
 wordCount: 1559
-image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nha.jpg"
+image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/TONGIAO/IMG/TINHDUC/Lobby_Nanaudam.jpg"
 ---
 
-<p align="center"><a href="https://www.sachhiem.net/">
-<img border="0" src="https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nha.jpg"></a> 
+<p align="center"> 
 ngày </p>
  <div class="tomluoc">
   <p>Tin chấn động vừa được báo&nbsp;MSN.COM tung ra. </p>

@@ -2,15 +2,14 @@
 layout: ../../../layouts/Article.astro
 title: "Các Thư với Thánh Gia"
 author: "Charlie Nguyễn"
-source: "https://sachhiem.net/CHARLIE/CN_TG/Vinhbiet.php"
+source: "/CHARLIE/CN_TG/Vinhbiet"
 category: "Tác giả"
 lang: vi
 wordCount: 922
-image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nha.jpg"
+image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/MuclucButton.gif"
 ---
 
-<p align="center"><a href="https://www.sachhiem.net/">
-<img border="0" src="https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nha.jpg"></a> 23 August 2003</p>
+<p align="center"> 23 August 2003</p>
 <p><b>Vĩnh Biệt Thánh Gia </b></p> 
                                             
 <p>Houston 27 tháng 2, 20033</p>

@@ -3,7 +3,7 @@ layout: ../../layouts/Article.astro
 title: "Nasa Tìm Thấy Bằng Chứng Của Một Đại Dương Cổ Đại Trên Sao Hỏa"
 author: "Lý Thái"
 date: 2015-03-11
-source: "https://sachhiem.net/LTX/LyThaiKH18.php"
+source: "/LTX/LyThaiKH18"
 category: "Khoa học"
 lang: vi
 wordCount: 1469

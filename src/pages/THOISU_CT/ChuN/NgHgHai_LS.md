@@ -3,7 +3,7 @@ layout: ../../../layouts/Article.astro
 title: "Không Thể Im Lặng Nữa Rồi!"
 author: "Nguyễn Hồng Hải"
 date: 2018-06-27
-source: "https://sachhiem.net/THOISU_CT/ChuN/NgHgHai_LS.php"
+source: "/THOISU_CT/ChuN/NgHgHai_LS"
 category: "Chính trị"
 lang: vi
 wordCount: 1645

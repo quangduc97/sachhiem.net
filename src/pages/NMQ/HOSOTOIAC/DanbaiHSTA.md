@@ -2,16 +2,16 @@
 layout: ../../../layouts/Article.astro
 title: "GIÁO HỘI LA MÃ:"
 author: "- Nguyễn Mạnh Quang -"
-source: "https://sachhiem.net/NMQ/HOSOTOIAC/DanbaiHSTA.php"
+source: "/NMQ/HOSOTOIAC/DanbaiHSTA"
 lang: vi
 wordCount: 3938
-image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nha.jpg"
+image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/NMQ/IMG/Vatican.jpg"
 ---
 
 <p class="Tuaduoi">LỊCH SỬ VÀ HỒ SƠ TỘI ÁC </p>
 	
 	
- <p align="center"><a href="/NMQ/index"><img hspace="20" border="0" src="https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nha.jpg"></a> 10 Sep, 2007 </p>
+ <p align="center"> 10 Sep, 2007 </p>
  
  		<p style="text-align: center"><b>GIỚI THIỆU SÁCH MỚI</b></p>
 <p><b>T</b><i>rang nhà sachhiem.net xin hân hạnh giới thiệu với độc giả bộ sách 
@@ -146,15 +146,15 @@ image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nha.jpg"
 		<p>
 		Chương 13: Sa đọa, phóng đãng, loạn luân và dâm loàn.</p>
 		<p>
-		Chương 14: <a href="https://sachhiem.net/NMQ/HOSOTOIAC/CH14.php">Thanh toán và tàn sát lẫn nhau để tranh giành quyền lực</a>.</p>
+		Chương 14: <a href="/NMQ/HOSOTOIAC/CH14">Thanh toán và tàn sát lẫn nhau để tranh giành quyền lực</a>.</p>
 		<p><b>MỤC VI:&nbsp; Dung túng 
 		tu sĩ, chèn ép, và siết cổ tín đồ.</b>&nbsp; Mục này gồm ba chương.</p>
 		<p>
-		Chương 15: <a href="https://sachhiem.net/NMQ/HOSOTOIAC/CH15_1.php">Nguyên nhân và hậu quả của chính sách cưỡng bách tu sĩ phải sống độc thân</a>. </p>
+		Chương 15: <a href="/NMQ/HOSOTOIAC/CH15_1">Nguyên nhân và hậu quả của chính sách cưỡng bách tu sĩ phải sống độc thân</a>. </p>
 		<p>
-		Chương 16: <a href="https://sachhiem.net/NMQ/HOSOTOIAC/CH16_1.php">Chính sách tuyển dụng tu sĩ và dung dưỡng cho họ hủ hóa.</a></p>
+		Chương 16: <a href="/NMQ/HOSOTOIAC/CH16_1">Chính sách tuyển dụng tu sĩ và dung dưỡng cho họ hủ hóa.</a></p>
 		<p>
-		Chương 17: <a href="https://sachhiem.net/NMQ/HOSOTOIAC/CH17_1.php">Bưng bít và bao che cho tu sĩ hủ hóa.</a></p>
+		Chương 17: <a href="/NMQ/HOSOTOIAC/CH17_1">Bưng bít và bao che cho tu sĩ hủ hóa.</a></p>
 		<p><b>
 		Tổng Kết Phần I.</b></p>
 		
@@ -226,7 +226,7 @@ image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nha.jpg"
 		ông Bảo Đại (nói riêng) không còn có chính nghĩa hay tư cách nắm quyền 
 		cai trị đất nước nữa.&nbsp; Trong mục này gồm có:</p>
 		<p>
-		Chương 32: <a href="https://sachhiem.net/NMQ/HOSOTOIAC/CH32.php">Quan niệm cổ truyền về chính nghĩa của một thế lực hay một cá nhân lên nắm chính quyền</a>.</p>
+		Chương 32: <a href="/NMQ/HOSOTOIAC/CH32">Quan niệm cổ truyền về chính nghĩa của một thế lực hay một cá nhân lên nắm chính quyền</a>.</p>
 		<p>
 		Chương 33: Quan niệm của Vatican và xã hội Da-tô về chính nghĩa của một 
 		cá nhân lên nắm chính quyền..</p>
@@ -267,11 +267,11 @@ image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nha.jpg"
 		<p>
 		Chương 42: Việt Nam Quốc Dân Đảng.</p>
 		<p>
-		Chương 42: <a href="https://sachhiem.net/NMQ/HOSOTOIAC/CH42.php">Mặt Trận Việt Minh với sự lãnh đạo của Đảng Cộng Sản Việt Nam.</a></p>
+		Chương 42: <a href="/NMQ/HOSOTOIAC/CH42">Mặt Trận Việt Minh với sự lãnh đạo của Đảng Cộng Sản Việt Nam.</a></p>
 		<p>
-		Chương 43: <a href="https://sachhiem.net/NMQ/HOSOTOIAC/CH43.php">Việt Minh cướp chính quyền và giành được độc lập cho dân tộc. </a></p>
+		Chương 43: <a href="/NMQ/HOSOTOIAC/CH43">Việt Minh cướp chính quyền và giành được độc lập cho dân tộc. </a></p>
 		<p>
-		Chương 44: <a href="https://sachhiem.net/NMQ/HOSOTOIAC/CH44.php">Việt Minh đã đáp ứng được khát vọng giải phóng đất nước của dân tộc.</a></p>
+		Chương 44: <a href="/NMQ/HOSOTOIAC/CH44">Việt Minh đã đáp ứng được khát vọng giải phóng đất nước của dân tộc.</a></p>
 		
 <p class="TuaDoLeft"><b>
 		PHẦN V: 
@@ -284,10 +284,10 @@ image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nha.jpg"
 		đề của mục này là nói về Liên Minh Pháp – Vatican đem quân tái chiếm 
 		Đông Dương và cố ý gây hấn để tấn công Quân Đội Kháng Chiến Việt Nam. 
 		Mục này gồm có ba chương:</p>
-		<p>Chương 45: <a href="https://sachhiem.net/NMQ/HOSOTOIAC/CH45.php">Tình Hình Việt Nam Từ Ngày 9/3/1945 Đến Ngày 19/12/1946</a></p>
-		<p>Chương 46: <a href="https://sachhiem.net/NMQ/HOSOTOIAC/CH46.php">Liên Quân Pháp – Vatican Gây Hấn Ở Bắc Bộ Và Chiến Tranh Bùng Nổ Trên Toàn Quốc </a>.</p>
+		<p>Chương 45: <a href="/NMQ/HOSOTOIAC/CH45">Tình Hình Việt Nam Từ Ngày 9/3/1945 Đến Ngày 19/12/1946</a></p>
+		<p>Chương 46: <a href="/NMQ/HOSOTOIAC/CH46">Liên Quân Pháp – Vatican Gây Hấn Ở Bắc Bộ Và Chiến Tranh Bùng Nổ Trên Toàn Quốc </a>.</p>
 		<p>
-		Chương 47: <a href="https://sachhiem.net/NMQ/HOSOTOIAC/CH47.php">Hoàn cảnh chính quyền kháng chiến Việt Nam khi chiến tranh bùng nổ</a>.</p>
+		Chương 47: <a href="/NMQ/HOSOTOIAC/CH47">Hoàn cảnh chính quyền kháng chiến Việt Nam khi chiến tranh bùng nổ</a>.</p>
 		<p>
 		Chương 48: Tình hình thế giới ảnh hưởng đến chiến cuộc Việt Nam. </p>
 		<p><b>Mục XV: Chính sách 
@@ -295,7 +295,7 @@ image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nha.jpg"
 		bàn tay của Vatican trong việc tái chiếm Đông Dương vào mùa thu năm 1945 
 		và chính sách chia để trị của Giáo Hội La Mã được thi hành triệt để 
 		trong những năm 1945-1954. Mục này gồm có:</p>
-		<p>Chương 50: <a href="https://sachhiem.net/NMQ/HOSOTOIAC/CH50.php">Vatican cấu kết với Pháp dùng chính sách chia để trị và đưa tín đồ Da-tô lên nắm quyền</a>. </p>
+		<p>Chương 50: <a href="/NMQ/HOSOTOIAC/CH50">Vatican cấu kết với Pháp dùng chính sách chia để trị và đưa tín đồ Da-tô lên nắm quyền</a>. </p>
 
 		<p>
 		Chương 51: Những hành động dã man của quân lính Liên Hiệp Pháp và lính 
@@ -424,7 +424,7 @@ Diệm. </a> </p>
 		bổng</p>
 		<p>Chương 90: Vấn nạn tham 
 		nhũng. </p>
-		<p>Chương 91: <a href="https://sachhiem.net/NMQ/HOSOTOIAC/CH91.php">Vấn nạn buôn bán nha phiến</a></p>
+		<p>Chương 91: <a href="/NMQ/HOSOTOIAC/CH91">Vấn nạn buôn bán nha phiến</a></p>
 	
 		<p>Chương 92: <a href="/NMQ/HOSOTOIAC/CH92_1">Vấn nạn Giáo 
 		Hội La Mã.</a> </p>
@@ -524,7 +524,7 @@ Diệm. </a> </p>
 		<hr width="50%">
 		
 		<p>Sachhiem.net xin lần lượt giới thiệu với độc giả các Chương sách mà tác giả hoàn tất.</p>
-<p>- hoặc bấm vào đây (<a href="https://sachhiem.net/NMQ/ListHSTA.inc.php">https://sachhiem.net/NMQ/ListHSTA.inc.php</a>) </p>
+<p>- hoặc bấm vào đây (<a href="/NMQ/ListHSTA.inc">https://sachhiem.net/NMQ/ListHSTA.inc.php</a>) </p>
  <p>- hoặc xem ở đây:
 
 </p>

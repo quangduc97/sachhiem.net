@@ -3,7 +3,7 @@ layout: ../../../layouts/Article.astro
 title: "Bà Giáo Hoàng Jeanne"
 author: "Đại Tá Trần Văn Kha dịch"
 date: 2015-09-08
-source: "https://sachhiem.net/TONGIAO/tgN/NguyenHBa11.php"
+source: "/TONGIAO/tgN/NguyenHBa11"
 category: "Xã hội"
 lang: vi
 wordCount: 4490
@@ -102,4 +102,4 @@ image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/SACHNGOAI/Hinhanh/BI
 <p>______________________ </p>
           <p>Các bài của Nguyễn Hữu Ba: </p>
 <p>
-  link <a href="https://sachhiem.net/TONGIAO/tgN/ListNHBa.inc.php" target="_blank"> https://sachhiem.net/TONGIAO/tgN/ListNHBa.inc.php</a></p>
+  link <a href="/TONGIAO/tgN/ListNHBa.inc" target="_blank"> https://sachhiem.net/TONGIAO/tgN/ListNHBa.inc.php</a></p>

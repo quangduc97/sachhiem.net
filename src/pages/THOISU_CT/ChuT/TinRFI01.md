@@ -3,7 +3,7 @@ layout: ../../../layouts/Article.astro
 title: "HD-981 Và Ba Mũi Giáp Công Của Trung Quốc Nhắm Vào Việt Nam"
 author: "Trọng Nghĩa / VI.RFI.FR"
 date: 2015-07-06
-source: "https://sachhiem.net/sachhiem/THOISU_CT/ChuT/TinRFI01.php"
+source: "/sachhiem/THOISU_CT/ChuT/TinRFI01"
 category: "Chính trị"
 lang: vi
 wordCount: 2582

@@ -3,7 +3,7 @@ layout: ../../../layouts/Article.astro
 title: "Ki-tô Giáo và Vai Trò Đối Với Việt Nam"
 author: "Việt Dân"
 date: 2017-08-20
-source: "https://sachhiem.net/TONGIAO/tgV/VietDan_04.php"
+source: "/TONGIAO/tgV/VietDan_04"
 category: "Tác giả"
 lang: vi
 wordCount: 2173
@@ -60,9 +60,9 @@ image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/TONGIAO/IMG/VATICAN/
 <p class="TacgiaL">Việt Dân </p>
 <p>_______________</p>
   <p> <b>Bài liên quan:</b></p>
-  <p>- <a href="https://sachhiem.net/TONGIAO/tgM/MikeWilson_03.php">Vấn Đề Việt Hóa Đạo Ki-Tô</a> (Mike Wilson) <a href="/TONGIAO/tgM/MikeWilson_03"> </a> </p>
-  <p>- <a href="https://sachhiem.net/TONGIAO/tgV/VietDan_00.php">Giê-su Có Là Vua Hay Không? - Tân Ước John 18:33-38</a>: (Việt Dân)</p>
-  <p>- <a href="https://sachhiem.net/TONGIAO/tgV/VietDan_01.php">Tại Sao Ngài Giê-su Không Dám Làm Chứng Cho Yahweh Trước Pilate?</a> (Việt Dân)
+  <p>- <a href="/TONGIAO/tgM/MikeWilson_03">Vấn Đề Việt Hóa Đạo Ki-Tô</a> (Mike Wilson) <a href="/TONGIAO/tgM/MikeWilson_03"> </a> </p>
+  <p>- <a href="/TONGIAO/tgV/VietDan_00">Giê-su Có Là Vua Hay Không? - Tân Ước John 18:33-38</a>: (Việt Dân)</p>
+  <p>- <a href="/TONGIAO/tgV/VietDan_01">Tại Sao Ngài Giê-su Không Dám Làm Chứng Cho Yahweh Trước Pilate?</a> (Việt Dân)
 </p>
-  <p>- <a href="https://sachhiem.net/TONGIAO/tgV/VietDan_02.php">Giải Mã Thuyết Ba Ngôi của Thần Học Ki-tô </a> (Việt Dân) </p>
-  <p>-<a href="https://sachhiem.net/TONGIAO/tgV/VietDan_03.php"> Giê Su Không Bao Giờ Tự Nhận Là "Con Một Của Thiên Chúa"</a> (Việt Dân) </p>
+  <p>- <a href="/TONGIAO/tgV/VietDan_02">Giải Mã Thuyết Ba Ngôi của Thần Học Ki-tô </a> (Việt Dân) </p>
+  <p>-<a href="/TONGIAO/tgV/VietDan_03"> Giê Su Không Bao Giờ Tự Nhận Là "Con Một Của Thiên Chúa"</a> (Việt Dân) </p>

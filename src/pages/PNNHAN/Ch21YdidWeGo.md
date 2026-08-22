@@ -3,7 +3,7 @@ layout: ../../layouts/Article.astro
 title: "Cuộc Thương Lượng Bí Mật Giữa Giáo Hoàng Và Cộng Sản Miền Bắc Việt Nam"
 author: "AVRO MANHATTAN / Phạm U.B."
 date: 2023-11-04
-source: "https://sachhiem.net/PNNHAN/Ch21YdidWeGo.php"
+source: "/PNNHAN/Ch21YdidWeGo"
 category: "Xã hội"
 lang: vi
 wordCount: 2484
@@ -62,6 +62,6 @@ image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/TONGIAO/IMG/PHONGTHA
   <p class="TacgiaL">Tác giả: Avro Manhattan </p>
   <p class="TacgiaL">Người Dịch: Trần Thanh-Lưu</p>
   
-  <p>(*)&nbsp;<b>SH chú thích</b>: Không rõ tác giả Manhattan muốn nói giai đoạn nào. Thật ra, chuyện di cư lịch sử đã xảy ra từ tháng 7 năm 1954 thời Giáo Hoàng Pius XII (1939-1958). Edward G. Landsdale, trưởng lưới tình báo CIA tại Sàigòn đã bày kế sắp đặt tinh thần giáo dân cho chuyến di cư khổng lồ này để yểm trợ lực lượng cho Ngô Đình Diệm ở miền Nam. Xin đọc&nbsp;<a href="https://sachhiem.net/TONGIAO/TTTINH/TTT_21.php">Linh Mục Trần Tam Tĩnh, Chương II, đoạn 6 CUỘC XUẤT HÀNH có đăng online trên sachhiem.net (bấm vào hàng chữ này)</a></p>
+  <p>(*)&nbsp;<b>SH chú thích</b>: Không rõ tác giả Manhattan muốn nói giai đoạn nào. Thật ra, chuyện di cư lịch sử đã xảy ra từ tháng 7 năm 1954 thời Giáo Hoàng Pius XII (1939-1958). Edward G. Landsdale, trưởng lưới tình báo CIA tại Sàigòn đã bày kế sắp đặt tinh thần giáo dân cho chuyến di cư khổng lồ này để yểm trợ lực lượng cho Ngô Đình Diệm ở miền Nam. Xin đọc&nbsp;<a href="/TONGIAO/TTTINH/TTT_21">Linh Mục Trần Tam Tĩnh, Chương II, đoạn 6 CUỘC XUẤT HÀNH có đăng online trên sachhiem.net (bấm vào hàng chữ này)</a></p>
   
   <p><a href="/SACHNGOAI/AVRO/Chapter21">xem phiên bản Anh ngữ</a></p>

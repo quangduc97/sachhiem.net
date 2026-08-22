@@ -2,15 +2,14 @@
 layout: ../../../layouts/Article.astro
 title: "Cảnh giác với người từ xa tới trục lợi vụ Bát Nhã"
 author: "Minh Thạnh"
-source: "https://sachhiem.net/TONGIAO/tgM/MinhThanh.php"
+source: "/TONGIAO/tgM/MinhThanh"
 category: "Tác giả"
 lang: vi
 wordCount: 2146
-image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nha.jpg"
+image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/BATNHA/LMdentham.jpg"
 ---
 
-<p align="center"><a href="https://www.sachhiem.net/">
-	<img border="0" src="https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nha.jpg"></a> 18 tháng 2, 2009</p>
+<p align="center"> 18 tháng 2, 2009</p>
 <p><span class="First"><b>B</b></span>ài viết không nhằm tìm hiểu sự việc Bát Nhã, nói chuyện 
 đúng sai, mà chỉ đề cập đến khía cạnh vụ việc có thể bị lợi dụng làm phương hại 
 đến Phật giáo.</p>

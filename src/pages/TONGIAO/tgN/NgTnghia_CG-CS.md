@@ -3,7 +3,7 @@ layout: ../../../layouts/Article.astro
 title: "Công Giáo Việt Nam Bị Ảnh Hưởng Thông Điệp Divini Redemptoris của GH Piô XI"
 author: "Nguyễn Trọng Nghĩa"
 date: 2018-09-11
-source: "https://sachhiem.net/TONGIAO/tgN/NgTnghia_CG-CS.php"
+source: "/TONGIAO/tgN/NgTnghia_CG-CS"
 category: "Tác giả"
 lang: vi
 wordCount: 2485

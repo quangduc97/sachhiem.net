@@ -3,7 +3,7 @@ layout: ../../layouts/Article.astro
 title: "Trí Tuệ Và Từ Bi Của Người Phật Tử"
 author: "William Phạm"
 date: 2014-09-05
-source: "https://sachhiem.net/DOITHOAI/WilliamPham.php"
+source: "/DOITHOAI/WilliamPham"
 category: "Chính trị"
 lang: vi
 wordCount: 1756
@@ -14,7 +14,7 @@ image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/TONGIAO/IMG/SU/NhatX
   
   
   
- <p><span class="First">N</span>hân đọc email của <a href="https://sachhiem.net/index.php?content=showemail&amp;id=734">tu.oc.laufoodshop, Sept  04,2014&nbsp; 2:32am trên sáchhien.net</a> tôi có những suy nghĩ như sau:</p>
+ <p><span class="First">N</span>hân đọc email của <a href="/hop-thu/734">tu.oc.laufoodshop, Sept  04,2014&nbsp; 2:32am trên sáchhien.net</a> tôi có những suy nghĩ như sau:</p>
 <p>
 Người Phật tử là người con Phật.&nbsp; Đã là con Phật thì phải lấy từ bi, trí tuệ  làm đầu trên bước đường tu tập Phật đạo.&nbsp;  Từ là lòng yêu thương đối với mọi loài, kể cả cây cỏ.&nbsp; Bi là sự cảm thông nổi khổ đau của chúng  sinh.&nbsp; Trí là sự suy tư của tâm thức biểu  hiện ra lời nói và hành động phù hợp với lẻ phải, làm lợi ích cho mọi người,  cho xã hội và cho đất nước. &nbsp;Tuệ là căn bản  của sự “GIÁC NGỘ”.&nbsp; Trí tuệ, ý nghĩa sâu  hơn, là sự hoạt động của tâm thức thấu suốt được bản tánh chân thật của mọi Sự,  Vật, tức thấy được bản tánh chân thật của mọi Pháp (Dharma).&nbsp;&nbsp; Người con Phật, do đó, phải vận dụng cùng lúc  từ bi và trí tuệ trong mọi hành động sinh hoạt hằng ngày.&nbsp; Ví dụ, đọc một email đăng trên Sáchhien.net,  có một người cưởng ép theo đạo vì hôn nhân, viết như sau: “Hôm Noel 2013, trong  một nhà thờ ở TP Hồ Chí Minh, có một vị linh mục, chủ chăn chiên, giảng cho các  con chiên của ông ta rằng:<i></i></p><i>
 <p><i>“Các anh chị có thấy không, Noel, mọi người đều <u>ăn mừng Chúa ra đời</u>, mấy <u>người không đạo</u> thì xuống đường đi chơi, <u>các cán bộ cộng sản không đạo  cũng ăn nhậu nhân dịp noel này</u>, Các bạn thấy chúng ta là <u>chính đạo</u> không? các bạn thấy bên <b>đạo Phật</b> có được như chúng ta không, ngày Phật  đản có ai hào hứng như vậy không???”.</i></p>

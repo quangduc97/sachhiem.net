@@ -3,7 +3,7 @@ layout: ../../layouts/Article.astro
 title: "Vô cùng thương tiếc học giả lỗi lạc Trần Chung Ngọc"
 author: "Báo Hồn Việt"
 date: 2014-03-05
-source: "https://sachhiem.net/VANHOC/Honviet_TCN.php"
+source: "/VANHOC/Honviet_TCN"
 category: "Tác giả"
 lang: vi
 wordCount: 705

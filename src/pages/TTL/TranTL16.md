@@ -3,7 +3,7 @@ layout: ../../layouts/Article.astro
 title: "Vấn Đề Kính Trọng Một Niềm Tin"
 author: "Trần Tiên Long"
 date: 2012-03-24
-source: "https://sachhiem.net/TTL/TranTL16.php"
+source: "/TTL/TranTL16"
 category: "Tác giả"
 lang: vi
 wordCount: 2005

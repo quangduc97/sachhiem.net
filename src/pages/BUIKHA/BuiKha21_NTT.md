@@ -3,7 +3,7 @@ layout: ../../layouts/Article.astro
 title: "Phản biện bài"
 author: "Bùi Kha"
 date: 2012-03-04
-source: "https://sachhiem.net/BUIKHA/BuiKha21_NTT.php"
+source: "/BUIKHA/BuiKha21_NTT"
 category: "Lịch sử"
 lang: vi
 wordCount: 8631

@@ -3,7 +3,7 @@ layout: ../../../layouts/Article.astro
 title: "Tìm Hiểu Đạo Tôi:"
 author: "Cao Hữu Tâm"
 date: 2014-05-17
-source: "https://sachhiem.net/TONGIAO/tgC/Caohtam07a.php"
+source: "/TONGIAO/tgC/Caohtam07a"
 category: "Tác giả"
 lang: vi
 wordCount: 470
@@ -41,4 +41,4 @@ Date: Thu, May 08, 2014 7:36 pm</i></p>
   <p><a href="mailto:caohuutam1939@gmail.com" target="_blank"> caohuutam1939@gmail.com</a></p>
 <p>________________</p>
 <p><b>Bài liên quan:</b></p>
-<p>- <a href="https://sachhiem.net/TONGIAO/tgC/Caohtam07.php">Le Concordat - Ra khỏi Đại Công Ty Đa Quốc Rô-Ma </a></p>
+<p>- <a href="/TONGIAO/tgC/Caohtam07">Le Concordat - Ra khỏi Đại Công Ty Đa Quốc Rô-Ma </a></p>

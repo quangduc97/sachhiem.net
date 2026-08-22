@@ -3,7 +3,7 @@ layout: ../../../layouts/Article.astro
 title: "Hiệp định Geneva Để Lại Bài Học Gì ?"
 author: "Vũ Khoan"
 date: 2014-07-20
-source: "https://sachhiem.net/LICHSU/V/VuKhoan.php"
+source: "/LICHSU/V/VuKhoan"
 category: "Chính trị"
 lang: vi
 wordCount: 3587

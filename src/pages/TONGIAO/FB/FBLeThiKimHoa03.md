@@ -3,7 +3,7 @@ layout: ../../../layouts/Article.astro
 title: "Cây Thông Noel Và Nguồn Gốc Đa Thần Giáo Của Nó"
 author: "Lê Thị Kim Hoa sưu tầm"
 date: 2022-12-13
-source: "https://sachhiem.net/TONGIAO/FB/FBLeThiKimHoa03.php"
+source: "/TONGIAO/FB/FBLeThiKimHoa03"
 category: "Tác giả"
 lang: vi
 wordCount: 1222

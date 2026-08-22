@@ -3,7 +3,7 @@ layout: ../../layouts/Article.astro
 title: "10 Giải Thích Khoa Học Về Kinh Nghiệm Cận Tử"
 author: "J. Francis Wolfe/ Listverse"
 date: 2015-04-18
-source: "https://sachhiem.net/LTX/LyThaiKH19.php"
+source: "/LTX/LyThaiKH19"
 category: "Khoa học"
 lang: vi
 wordCount: 5333

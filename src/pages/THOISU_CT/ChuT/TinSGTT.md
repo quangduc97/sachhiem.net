@@ -2,11 +2,11 @@
 layout: ../../../layouts/Article.astro
 title: "Tập Đòan Than-Khóang-Sản (TKV)Xử Lý Bùn Đỏ Thế Nào?"
 author: "TS Nguyễn Quang A"
-source: "https://sachhiem.net/null"
+source: "/null"
 category: "Chính trị"
 lang: vi
 wordCount: 1789
-image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nha.jpg"
+image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/XAHOI/IMG/FLOOD/Bundo7.jpg"
 ---
 
 <div align="center" style="position: relative; left: 0; top: 0">
@@ -31,8 +31,7 @@ image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nha.jpg"
 	<tbody><tr><td bgcolor="White" align="justify" valign="top">
 	<div style="padding-left: 40px; padding-right: 40px">
 		<table border="0" cellpadding="10" width="80%" cols="2"><tbody><tr>
-		<td width="328"><a href="/index">
-		<img border="0" src="https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nha.jpg"></a></td>
+		<td width="328"></td>
 					<td valign="top">	06 tháng 11,  2010
 	</td></tr></tbody></table>
 		

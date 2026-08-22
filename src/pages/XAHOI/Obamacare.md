@@ -3,16 +3,15 @@ layout: ../../layouts/Article.astro
 title: "Medicare and You 2012 - Trợ Giúp Y Tế cho năm 2012"
 author: "Hồ Ngọc Cư"
 date: 2012-04-07
-source: "https://sachhiem.net/XAHOI/Obamacare.php"
+source: "/XAHOI/Obamacare"
 category: "Khoa học"
 lang: vi
 wordCount: 4742
-image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nha.jpg"
+image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/XAHOI/IMG/Obamacare_2.jpg"
 ---
 
 <table border="0" align="center" cellpadding="1" width="250"><tbody><tr>
-	<td width="99"><a href="https://www.sachhiem.net/">
-	<img border="0" src="https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nha.jpg"></a></td>
+	<td width="99"></td>
 	<td valign="middle">07-Apr-2012</td>
 	</tr></tbody></table>
 

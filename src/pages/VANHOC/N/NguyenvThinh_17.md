@@ -3,7 +3,7 @@ layout: ../../../layouts/Article.astro
 title: "CHUYỆN NGƯỜI, CHUYỆN TA"
 author: "Nguyễn Văn Thịnh"
 date: 2017-06-25
-source: "https://sachhiem.net/VANHOC/N/NguyenvThinh_17.php"
+source: "/VANHOC/N/NguyenvThinh_17"
 category: "Lịch sử"
 lang: vi
 wordCount: 7936
@@ -74,7 +74,7 @@ image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/THOISU_CT/Hinh/VIETN
 <p>  Đáng buồn là nhiều nhà sử học trụ cột, dưới chiêu bài “đổi  mới nhận thức sử học” nếu không là đầu têu thì cũng đồng tình. Cái chính thể Sài Gòn 30  năm (1945–1975) khác gì cái “Nam kỳ quốc” (1945–1949) đều do ngoại bang cụ thể  là Pháp, Mỹ nặn ra. </p>
 <p>  Không người Việt Nam yêu nước nào chấp nhận lời rao bán  nước của Ngô Đình Diệm: “<i>Biên giới của  Hoa Kỳ kéo dài từ Alasca tới vĩ tuyến 17</i>”! Ngay những người đứng đầu chính  quyền và quân đội của cái gọi là nền Đệ nhị cộng hòa sau đó, khi đã mất sạch,  họ cũng tự nhận là tay sai của ngoại bang. Điều này, khi cần, Bộ Ngoại giao,  các nhà lập pháp và Chính phủ Cộng hòa xã hội chủ nghĩa Việt Nam sẽ có tiếng  nói cuối cùng. </p>
 
-  <p>  Người viết trích giới thiệu một phần bài viết <i>“Ý nghĩa  cuộc chiến tranh Việt Nam 1954–1975”</i> của Giáo sư Nguyễn Mạnh Quang, chủ mạng  Sách hiếm (Nguồn <a href="https://sachhiem.net/NMQ/NMQ037.php">https://sachhiem.net/NMQ/NMQ037.php</a>)  giúp bạn đọc làm căn cứ:</p>
+  <p>  Người viết trích giới thiệu một phần bài viết <i>“Ý nghĩa  cuộc chiến tranh Việt Nam 1954–1975”</i> của Giáo sư Nguyễn Mạnh Quang, chủ mạng  Sách hiếm (Nguồn <a href="/NMQ/NMQ037">https://sachhiem.net/NMQ/NMQ037.php</a>)  giúp bạn đọc làm căn cứ:</p>
  <div class="indent50">
   <p>Tại Hội Nghị Geneva 1954, chỉ có  hai phái đoàn của Việt Nam Dân Chủ Cộng Hòa và Pháp trực tiếp bàn luận với  nhau, chứ phái đoàn của chính quyền bù nhìn Bảo Đại (gọi là<b> </b>phái đoàn của chính quyền Quốc Gia)  không được tham dự vào các cuộc bàn thảo của hai thế lực này.</p>
   <p>  <b>Không có một điều khoản nào trong Hiệp định  Genève chia hai miền Nam Bắc ra làm hai:</b></p>

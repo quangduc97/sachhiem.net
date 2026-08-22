@@ -3,7 +3,7 @@ layout: ../../../layouts/Article.astro
 title: "Nén Hương Tiếc Thương Cụ Diệm - Vị Chúa Hy Sinh! (*)"
 author: "Bảo Quốc Kiếm"
 date: 2012-10-31
-source: "https://sachhiem.net/TONGIAO/BQK/BQK06.php"
+source: "/TONGIAO/BQK/BQK06"
 category: "Chính trị"
 lang: vi
 wordCount: 2112

@@ -3,7 +3,7 @@ layout: ../../layouts/Article.astro
 title: "Góp ý về việc giải thích"
 author: "Cao Huy Thuần"
 date: 2014-06-13
-source: "https://sachhiem.net/CAOHT/CHT6.php"
+source: "/CAOHT/CHT6"
 category: "Tác giả"
 lang: vi
 wordCount: 4744
@@ -111,7 +111,7 @@ image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/LICHSU/IMG/VNwar/Con
 
      <p class="nguonL">Nguồn &nbsp;<a href="https://www.diendan.org/viet-nam/gop-y-ve-viec-giai-thich-cong-ham-pham-van-dong">https://www.diendan.org/viet-nam/gop-y-ve-viec-giai-thich-cong-ham-pham-van-dong</a></p>
        <p>____________________</p>
-   <p><a href="https://sachhiem.net/LICHSU/H/HoangSa_list.php">Các bài về Hoàng Sa- Trường Sa đăng trên sachhiem.net » </a></p>
+   <p><a href="/LICHSU/H/HoangSa_list">Các bài về Hoàng Sa- Trường Sa đăng trên sachhiem.net » </a></p>
      
 <hr>
      

@@ -3,7 +3,7 @@ layout: ../../../layouts/Article.astro
 title: "Đọc Sách : Thôi Miên Đối Trị Ung Thư -"
 author: "Ts Phạm Trọng Chánh"
 date: 2018-09-24
-source: "https://sachhiem.net/VANHOC/PHTRCH/PhTrCh07.php"
+source: "/VANHOC/PHTRCH/PhTrCh07"
 category: "Chính trị"
 lang: vi
 wordCount: 6575

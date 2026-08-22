@@ -3,7 +3,7 @@ layout: ../../../layouts/Article.astro
 title: "[VATICANOLOGY] - Ba Lan Trúng Kế Belarus Trong Việc Giải Quyết Nguyên Nhân Tôn Giáo Của Vấn Đề Người Tỵ Nạn"
 author: "Minh Thạnh"
 date: 2022-08-16
-source: "https://sachhiem.net/TONGIAO/tgM/MinhThanh34.php"
+source: "/TONGIAO/tgM/MinhThanh34"
 category: "Chính trị"
 lang: vi
 wordCount: 2515

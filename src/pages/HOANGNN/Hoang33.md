@@ -3,7 +3,7 @@ layout: ../../layouts/Article.astro
 title: "Giã từ Lý Phật Tử Hôm nay"
 author: "Hoàng Nguyên Nhuận"
 date: 2013-08-06
-source: "https://sachhiem.net/HOANGNN/Hoang33.php"
+source: "/HOANGNN/Hoang33"
 category: "Chính trị"
 lang: vi
 wordCount: 2971

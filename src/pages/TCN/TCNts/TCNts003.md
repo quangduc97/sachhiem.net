@@ -2,17 +2,17 @@
 layout: ../../../layouts/Article.astro
 title: "Về Cuốn"
 author: "Trần Chung Ngọc"
-source: "https://sachhiem.net/index.php?content=showrecipe&id=371"
+source: "/TCN/TCNts/TCNts003"
 category: "Chính trị"
 lang: vi
 wordCount: 25133
-image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nha.jpg"
+image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/SACHNGOAI/Hinhanh/BIASACH/TriumpForsaken.jpg"
 ---
 
 <p class="Tuaduoi">Triumph Forsaken: The Vietnam War 1945-1965  của Mark Moyar</p>
    <p class="Tuaduoi"> [Cuốn “Thánh Thư” Của Minh Võ Và Tôn Thất Thiện]</p>
 
-<p align="center"><a href="/index"><img hspace="20" border="0" src="https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nha.jpg"></a> 29 tháng 8, 2007 </p>
+<p align="center"> 29 tháng 8, 2007 </p>
     <p> <b>TẬN TÍN THƯ BẤT NHƯ VÔ THƯ</b></p>
     
     <p> <img border="0" src="https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/SACHNGOAI/Hinhanh/BIASACH/TriumpForsaken.jpg" width="180" height="275" align="left" hspace="10"></p>

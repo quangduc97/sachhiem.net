@@ -3,7 +3,7 @@ layout: ../../layouts/Article.astro
 title: "Vụ Án Văn Học và Sở Hữu Trí Tuệ"
 author: "TNT Mặc Giang"
 date: 2017-11-25
-source: "https://sachhiem.net/VANHOC/MacGiang_01.php"
+source: "/VANHOC/MacGiang_01"
 category: "Chính trị"
 lang: vi
 wordCount: 14252

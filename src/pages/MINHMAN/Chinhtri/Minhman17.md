@@ -2,15 +2,14 @@
 layout: ../../../layouts/Article.astro
 title: "LÝ THÁI TỔ VÀ"
 author: "Minh Mẫn"
-source: "https://sachhiem.net/MINHMAN/Chinhtri/Minhman17.php"
+source: "/MINHMAN/Chinhtri/Minhman17"
 lang: vi
 wordCount: 4222
-image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nha.jpg"
+image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/LICHSU/IMG/LyThaiTo.jpg"
 ---
 
 <table border="0" align="center" cellpadding="1" width="250"><tbody><tr>
-	<td width="110"><a href="https://www.sachhiem.net/">
-	<img border="0" src="https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nha.jpg"></a></td>
+	<td width="110"></td>
 			<td valign="top">28 tháng 8, 2010
 	</td></tr></tbody></table>
 	

@@ -3,7 +3,7 @@ layout: ../../../layouts/Article.astro
 title: "BÀI I: Về Chuyện Chống Trung Quốc Qua Dự Thảo \"Luật Đặc Khu\""
 author: "Đông La"
 date: 2025-04-03
-source: "https://sachhiem.net/LICHSU/D/DongLa_09.php"
+source: "/LICHSU/D/DongLa_09"
 category: "Chính trị"
 lang: vi
 wordCount: 2576

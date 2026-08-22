@@ -3,7 +3,7 @@ layout: ../../../layouts/Article.astro
 title: "Tôi đọc ĐỖ MẠNH TRI trong cuốn"
 author: "Trần Chung Ngọc"
 date: 2020-04-11
-source: "https://sachhiem.net/TCN/TCNdt/TCNdt078.php"
+source: "/TCN/TCNdt/TCNdt078"
 lang: vi
 wordCount: 25855
 image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/TONGIAO/IMG/SACH/DoithoaivoiGH_2.jpg"

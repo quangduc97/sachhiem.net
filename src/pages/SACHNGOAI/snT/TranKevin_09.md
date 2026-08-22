@@ -3,7 +3,7 @@ layout: ../../../layouts/Article.astro
 title: "Làm Sao Phân Biệt Được Cuồng Tín Và Bệnh Tâm Thần?"
 author: "Nathaniel Morris"
 date: 2016-12-27
-source: "https://sachhiem.net/SACHNGOAI/snT/TranKevin_09.php"
+source: "/SACHNGOAI/snT/TranKevin_09"
 category: "Tác giả"
 lang: vi
 wordCount: 2802

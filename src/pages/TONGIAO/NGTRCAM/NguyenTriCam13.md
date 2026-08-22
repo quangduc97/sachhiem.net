@@ -2,30 +2,29 @@
 layout: ../../../layouts/Article.astro
 title: "Tin Tức Các Tu Sĩ TCG Lạm Dụng Tình Dục"
 author: "Nguyễn Trí Cảm"
-source: "https://sachhiem.net/TONGIAO/NGTRCAM/NguyenTriCam13.php"
+source: "/TONGIAO/NGTRCAM/NguyenTriCam13"
 category: "Tác giả"
 lang: vi
 wordCount: 4623
-image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/HOANHLINH/images/nha.jpg"
+image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.devhttps://sachhiem.net/images/Next3.gif"
 ---
 
 <table border="0" cellpadding="0" width="250" align="center"><tbody><tr>
 				<td width="125">
-				<a href="/index">
-				<img border="0" src="https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/HOANHLINH/images/nha.jpg"></a></td>
+				</td>
 			<td valign="top" style="text-align:right">26 tháng 11, 2009
 	</td></tr>	</tbody></table>
  
 	<p><i>LTS: Hưởng ứng lời kêu gọi chuyển ngữ,  tác giả Nguyễn Trí Cảm đã giúp các bạn đọc tiếng Việt đọc những thông tin này. Thật ra đây chỉ là một vài tin quá nhỏ nhoi so với số lượng tin tức bằng ngoại ngữ 
 	hàng ngày chúng tôi đọc được về nạn lạm dụng tình dục trong giới tu sĩ ở Âu Mỹ. Có một vài người đặt vấn đề tại sao không nghe nói gì đến các tu sĩ Phật Giáo. Để trả lời, câu hỏi nên đặt ngược lại: tại sao vấn đề tu sĩ Thiên Chúa Giáo lại là vấn đề?  Xin đọc bài 
-	<a href="https://sachhiem.net/NMQ/HOSOTOIAC/CH15_1.php">"Tại Sao Tu Sĩ TCG Phải Sống Độc Thân?" của GS Nguyễn Mạnh Quang </a> để thấy phần nào bản chất của vấn đề. 
+	<a href="/NMQ/HOSOTOIAC/CH15_1">"Tại Sao Tu Sĩ TCG Phải Sống Độc Thân?" của GS Nguyễn Mạnh Quang </a> để thấy phần nào bản chất của vấn đề. 
 	Cũng cần nhắc lại một chút về khái niệm "public figure", khía cạnh công 
 	chúng của một nhân vật sẽ định giá hành động hay lời nói của người đó. Về 
 	mặt này, tu sĩ Phật giáo rất khác. Hơn nữa, Phật pháp không dựa trên căn bản 
 	độc tôn, "duy nhất", và cũng chưa hề cho là "thánh thiện", "tông truyền". Thay mặt các độc giả đọc tiếng Việt, SH xin cám ơn tác giả Nguyễn Trí Cảm. </i> </p>
 	<hr>
 	
-	<p><a href="https://sachhiem.net/TONGIAO/tgS/SH06.php">Xem phần Anh ngữ 
+	<p><a href="/TONGIAO/tgS/SH06">Xem phần Anh ngữ 
 	<img border="0" src="https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.devhttps://sachhiem.net/images/Next3.gif" width="15" height="6"></a></p>
 	<p class="tuadoleft">
 	1.    

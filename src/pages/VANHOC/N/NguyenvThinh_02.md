@@ -3,7 +3,7 @@ layout: ../../../layouts/Article.astro
 title: "Đọc Cuốn Tiểu Thuyết “HỘI THỀ”!"
 author: "Nguyễn Văn Thịnh"
 date: 2014-08-02
-source: "https://sachhiem.net/VANHOC/N/NguyenvThinh_02.php"
+source: "/VANHOC/N/NguyenvThinh_02"
 category: "Chính trị"
 lang: vi
 wordCount: 6694
@@ -77,4 +77,4 @@ Sơ  bộ nêu vài nhận xét:</p>
 <p class="nguonL"> tác giả gửi bản điện tử </p>
    
 ___________________
-<p>Các bài của Nguyễn Văn Thịnh: link <a href="https://sachhiem.net/VANHOC/N/ListNVTh.inc.php" target="_blank">https://sachhiem.net/VANHOC/N/ListNVTh.inc.php</a></p>
+<p>Các bài của Nguyễn Văn Thịnh: link <a href="/VANHOC/N/ListNVTh.inc" target="_blank">https://sachhiem.net/VANHOC/N/ListNVTh.inc.php</a></p>

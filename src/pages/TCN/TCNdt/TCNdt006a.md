@@ -2,15 +2,15 @@
 layout: ../../../layouts/Article.astro
 title: "THIỀN SƯ THÍCH NHẤT HẠNH:"
 author: "Trần Chung Ngọc"
-source: "https://sachhiem.net/đã đăng trên https://www.giaodiem.com/doithoai/nh-trancn.htm"
+source: "/đã đăng trên https://www.giaodiem.com/doithoai/nh-trancn.htm"
 category: "Đối thoại"
 lang: vi
 wordCount: 12826
-image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.devhttps://sachhiem.net/images/nha.jpg"
+image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/TCN/Hinh/GiacLuong.jpg"
 ---
 
 <table border="0" width="250" align="center">
-    <tbody><tr><td width="100"><a href="https://sachhiem.net/index.php"><img border="0" src="https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.devhttps://sachhiem.net/images/nha.jpg"></a>    </td> <td valign="top" style="text-align:right">	<i>5 tháng 8, 2007	</i> </td></tr></tbody></table>
+    <tbody><tr><td width="100">    </td> <td valign="top" style="text-align:right">	<i>5 tháng 8, 2007	</i> </td></tr></tbody></table>
         
           <center>
            <img height="176" alt="Th Giác Lượng Liên Tôn" src="https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/TCN/Hinh/GiacLuong.jpg" width="220"> 

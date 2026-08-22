@@ -2,18 +2,17 @@
 layout: ../../layouts/Article.astro
 title: "LINH MỤC ĐẮC LỘ"
 author: "Bùi Kha"
-source: "https://sachhiem.net/nguồn https://giaodiemonline.com/2009/02/bienchinh.htm"
+source: "/nguồn https://giaodiemonline.com/2009/02/bienchinh.htm"
 category: "Lịch sử"
 lang: vi
 wordCount: 4575
-image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nha.jpg"
+image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/LICHSU/IMG/ALEX/alexandre-de-rhodes.jpg"
 ---
 
 <p class="Tuaduoi"> BIỆN CHÍNH VỚI ÔNG NGUYỄN ĐÌNH ĐẦU</p>
         
          
-<p align="center"><a href="https://www.sachhiem.net/">
-	<img border="0" src="https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nha.jpg"></a> 24 tháng 2, 2009 </p>
+<p align="center"> 24 tháng 2, 2009 </p>
           <p><i><a href="/BUIKHA/BuiKha3"><font size="3">Sachhiem.net đính kèm ở đây: tài liệu dẫn: Loạt bài của ông Nguyễn Đình Đầu trong báo "Công Giáo và Dân Tộc"</font></a></i></p>
           
           <p class="PicLeft"><img src="https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/LICHSU/IMG/ALEX/alexandre-de-rhodes.jpg" alt="" width="150" height="175"></p>
@@ -48,7 +47,7 @@ image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nha.jpg"
           <p><i>“Ngày 4 tháng 5 năm 1493, qua sắc chỉ “Inter  caetera” (“giữa những điều khác”), Giáo hoàng Alexander VI giao quyền  chinh phục các vùng đất kể trên mà các dân Phương Tây chưa từng biết,  cho các triều đình nước Tây Ban Nha và Bồ Ðào Nha. Tây Ban Nha có quyền  đi chiếm tất cả các đất đai gặp được ở một trăm dặm kể từ quần đảo  Azores, còn Bồ Ðào Nha, tất cả các nước nằm ở mạn Ðông đường ranh đó  (quần đảo Azores ở mạn giữa cắt đôi Ðại Tây Dương.” </i>(Trần Tam Tỉnh,  Sđd., tr. 14).</p>
           <p>Các Giáo hội Công giáo ở các quốc gia, dĩ nhiên,  không ai dám phản đối các sắc lệnh của Giáo hoàng. Nhưng chính quyền các  nước Âu châu ngay từ lúc có giáo lệnh của các Giáo hoàng, cho đến mãi về  sau, đã không thừa nhận các giáo lệnh đó. Ngay cả nữ hoàng Elizabeth I  (1533-1603) cũng phản đối. Năm 1540, vua Francis I của Pháp công khai  chống đối ra mặt bằng câu mỉa mai: <i>“Ai có thể chỉ cho ta thấy di chúc  của ông tổ Adam giao tất cả thế giới cho Bồ Ðào Nha và Tây Ban Nha?”</i> (“Who can show me the will of father Adam leaving all the world to Spain  and Portugal?” trong <i>This is America’s Story</i>, của Howard B.  Wider, Robert P. Ludlum &amp; Harriett McCune Brown, do Houghton Mifflin  Company, Atlanta, xuất bản năm 1975. trang 63).</p>
           <p>Tôi đã để hai chữ “sinh sát” vào ngoặc kép nhưng  ông Nguyễn Đình Đầu hầu như muốn xách động và hướng vấn đề đến mục tiêu  khác. Tuy nhiên, đọc đoạn trích dẫn trên chúng ta đã thấy Giáo hoàng  không trao quyền sinh sát mà chỉ cho <b>cướp của</b> (chưa giết người) …  và <b>bắt làm nô lệ vĩnh viễn</b>; về sau nạn nhân chết sống thế nào thì  chưa ai biết được!</p>
-          <p>Chẳng có ai “hài tội” Giáo hoàng vì lịch sử các  Giáo hoàng nay đã không còn xa lạ đối với giới trí thức. Muốn biết các  giáo hoàng ra sao, tôi khuyên ông Nguyễn Đình Đầu nên đọc một chút về  lịch sử của một số giáo hoàng viết bởi Giáo sĩ Peter de Rosa trong cuốn <i>“Vicars of Christ”</i> hay của học giả Mỹ Lloyd M. Graham trong cuốn <i>Deceptions &amp; Myths of the Bible. </i>Có bản tiếng Việt trên: <a style="color: #000080; text-decoration: underline" href="https://www.sachhiem.net/TCNtg/TCN20.php"> www.sachhiem.net/TCNtg/TCN20.php</a></p>
+          <p>Chẳng có ai “hài tội” Giáo hoàng vì lịch sử các  Giáo hoàng nay đã không còn xa lạ đối với giới trí thức. Muốn biết các  giáo hoàng ra sao, tôi khuyên ông Nguyễn Đình Đầu nên đọc một chút về  lịch sử của một số giáo hoàng viết bởi Giáo sĩ Peter de Rosa trong cuốn <i>“Vicars of Christ”</i> hay của học giả Mỹ Lloyd M. Graham trong cuốn <i>Deceptions &amp; Myths of the Bible. </i>Có bản tiếng Việt trên: <a style="color: #000080; text-decoration: underline" href="/TCNtg/TCN20"> www.sachhiem.net/TCNtg/TCN20.php</a></p>
           <p><b><i>4. LỜI THỀ CỦA DÒNG TÊN :</i></b> Ông Nguyễn  Đình Đầu viết: “<i>Không biết ông Bùi Kha đào đâu ra cái gọi là <b>Lời  thề Dòng Tên</b> trên đây? Kẻ viết bài này thực tình run tay, hoa mắt  khi phải nhắc lại đoạn văn vô nhân tính kinh tởm quá sức như vậy. Bất cứ  cộng đồng tôn giáo tín ngưỡng nào từ xưa đến nay hay ở nơi đâu đi nữa  trên địa cầu lại có Lời thề dã man tương tự. Ông Bùi Kha trưng dẫn tư  liệu (?). Ai cũng thấy Lời thề của ông Bùi Kha là không có thực”. </i> </p>
           <p>Ông lại viết sai nữa. Lời Thề Dòng Tên là một văn  kiện có thực. Tôi hoàn toàn thông cảm và chia sẻ tâm tình<b> </b>ông  Nguyễn Đình Đầu, không tin được một văn kiện của Hội Thánh lại dã man  như thế. Nhưng tài liệu về “Lời Thề Dòng Tên” đã được phổ biến rộng rãi  trên Internet. Ông chỉ cần vào Internet, đánh ba chữ: “The Jesuit Oath”  là ông có thể biết tất cả về Lời Thề Dòng Tên (hoặc theo mạng luới này:<b> </b>https://www.ianpaisley.org/article.asp?ArtKey=jesuit).<b> </b></p>
           <p><b><i>5. LÊN GIỌNG PHÊ PHÁN… :</i></b> Ông Nguyễn  Đình Đầu lại muốn kiếm thêm đồng minh rồi phịa ra điều mà tôi không hề  viết: <i>“Ông Bùi Kha lên giọng phê phán các thế hệ nghiên cứu học  thuật, cả Viện sử học lẫn Hội sử học…”.</i></p>

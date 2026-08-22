@@ -3,7 +3,7 @@ layout: ../../layouts/Article.astro
 title: "UNESCO Công Nhận Lê Quý Đôn Là Danh Nhân Văn Hóa Thứ 8 Của Việt Nam"
 author: "Unesco_Executive Board"
 date: 2026-01-20
-source: "https://sachhiem.net/VANHOC/UNESCO_LeQuyDon.php"
+source: "/VANHOC/UNESCO_LeQuyDon"
 category: "Văn hóa"
 lang: vi
 wordCount: 381

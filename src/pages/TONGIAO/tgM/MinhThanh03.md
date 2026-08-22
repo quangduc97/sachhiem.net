@@ -2,15 +2,14 @@
 layout: ../../../layouts/Article.astro
 title: "Tiền và việc cải đạo tín đồ Phật giáo"
 author: "Minh Thạnh"
-source: "https://sachhiem.net/TONGIAO/tgM/MinhThanh03.php"
+source: "/TONGIAO/tgM/MinhThanh03"
 category: "Tác giả"
 lang: vi
 wordCount: 1688
-image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nha.jpg"
+image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/IMG/Convert.jpg"
 ---
 
-<p align="center"><a href="https://www.sachhiem.net/">
-	<img border="0" src="https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nha.jpg"></a> 02 tháng 01, 2010	</p>
+<p align="center"> 02 tháng 01, 2010	</p>
 <p><strong>Liệu sự hưng thịnh của đạo Phật với chùa to, Phật lớn có bền 
 	vững, nếu hàng ngày vẫn còn những tín đồ đạo Phật cải đạo vì hoàn cảnh thắt 
 	ngặt khó khăn, những câu chuyện cải đạo với 3 triệu, 5 triệu đồng vẫn được 
@@ -137,7 +136,7 @@ image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nha.jpg"
 <p><a href="/tgN/NguyenVPhung">Vì Chúng Sinh - Ngăn Ngừa Việc Cải Đạo (Nguyễn Văn Phụng)</a></p>
 <p><a href="/TONGIAO/MinhNgoc">Đôi Lời Chia Sẻ Về Vấn Đề Hôn Nhân Khác Tôn Giáo (Minh Ngọc)</a></p>
 <p><a href="/TONGIAO/MinhThanh04">“Lập lờ đánh lận”… ông trời! (Minh Thạnh)</a></p>
-<p> <a href="https://sachhiem.net/TONGIAO/tgN/NgHDuc.php">Phật Tử Không
+<p> <a href="/TONGIAO/tgN/NgHDuc">Phật Tử Không
           Bao Giờ Được Nói Câu "Đạo Nào Cũng Tốt" (Nguyễn Hữu Đức)</a>
 		</p>
 		<p class="TuaDenLeft">● Các bài cùng tác giả:

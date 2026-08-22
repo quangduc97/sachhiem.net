@@ -3,7 +3,7 @@ layout: ../../../layouts/Article.astro
 title: "BẢN LÊN TIẾNG"
 author: "615 North Gilbert Road , Irving , TX 75061-6240; Tel. (972) 986-1019"
 date: 2014-05-17
-source: "https://sachhiem.net/THOISU_CT/ChuG/GHPGVNTN.php"
+source: "/THOISU_CT/ChuG/GHPGVNTN"
 category: "Tác giả"
 lang: vi
 wordCount: 1315

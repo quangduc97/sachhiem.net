@@ -3,7 +3,7 @@ layout: ../../../layouts/Article.astro
 title: "Cố TT Ngô Đình Diệm: Tôi Chết Thì Trả Thù Cho Tôi."
 author: "Lê Xuân Nhuận"
 date: 2017-10-21
-source: "https://sachhiem.net/LICHSU/LEXNHUAN/LeXNhuan16.php"
+source: "/LICHSU/LEXNHUAN/LeXNhuan16"
 category: "Lịch sử"
 lang: vi
 wordCount: 1540

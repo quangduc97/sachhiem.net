@@ -3,7 +3,7 @@ layout: ../../../layouts/Article.astro
 title: "Tôn giáo và những bất công của giới truyền thông và dư luận"
 author: "Nguyễn Kim Khanh"
 date: 2019-04-01
-source: "https://sachhiem.net/THOISU_CT/FB/NguyenKimKhanh01.php"
+source: "/THOISU_CT/FB/NguyenKimKhanh01"
 category: "Chính trị"
 lang: vi
 wordCount: 762

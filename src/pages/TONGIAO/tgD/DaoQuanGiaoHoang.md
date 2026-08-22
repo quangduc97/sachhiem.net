@@ -3,7 +3,7 @@ layout: ../../../layouts/Article.astro
 title: "Chuyện Kể Về Các Nạn Nhân của Phục Binh Dụ Đạo"
 author: "Daoquan GiaoHoan"
 date: 2021-01-23
-source: "https://sachhiem.net/TONGIAO/tgD/DaoQuanGiaoHoang.php"
+source: "/TONGIAO/tgD/DaoQuanGiaoHoang"
 category: "Chính trị"
 lang: vi
 wordCount: 2553

@@ -2,7 +2,7 @@
 layout: ../../../layouts/Article.astro
 title: "Nhiều Tham Vọng Nhiều Cay Đắng"
 author: "Văn Thư"
-source: "https://sachhiem.net/LICHSU/V/Vanthu.php"
+source: "/LICHSU/V/Vanthu"
 lang: vi
 wordCount: 2263
 image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/LICHSU/IMG/NGODD/NgoDThuc2.jpg"

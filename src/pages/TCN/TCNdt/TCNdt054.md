@@ -3,15 +3,15 @@ layout: ../../../layouts/Article.astro
 title: "Lữ Giang Lại Viết Bậy:"
 author: "Trần Chung Ngọc"
 date: 2011-11-06
-source: "https://sachhiem.net/TCN/TCNdt/TCNdt054.php"
+source: "/TCN/TCNdt/TCNdt054"
 category: "Đối thoại"
 lang: vi
 wordCount: 21926
-image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.devhttps://sachhiem.net/images/nha.jpg"
+image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.devhttps://giaodiemonline.com/2011/11/images/lugiang01.jpg"
 ---
 
 <table border="0" width="250" align="center">
-    <tbody><tr><td width="106"><a href="https://sachhiem.net/index.php"><img border="0" src="https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.devhttps://sachhiem.net/images/nha.jpg"></a>    </td>
+    <tbody><tr><td width="106">    </td>
     <td valign="top" width="418"></td>
     </tr></tbody></table>
     <div class="indentLR50">
@@ -1312,7 +1312,7 @@ image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.devhttps://sachhiem.net/
         những trí thức Công giáo như Lữ Giang, Tôn Thất Thiện v.v..., không có
         giá trị trong lãnh vực học thuật. Đã có rất nhiều phê bình tiêu cực về
         cuốn sách trên của Mark Moyar, giới điểm sách cũng không buồn điểm cuốn
-        sách đó, và trên <a style="COLOR: blue; TEXT-DECORATION: underline; text-underline: single" href="https://sachhiem.net/TCN/TCNts/TCNts003.php">https://sachhiem.net/TCN/TCNts/TCNts003.php</a> tôi
+        sách đó, và trên <a style="COLOR: blue; TEXT-DECORATION: underline; text-underline: single" href="/TCN/TCNts/TCNts003">https://sachhiem.net/TCN/TCNts/TCNts003.php</a> tôi
         đã phê bình chi tiết cuốn “<em>Triumph Forsaken</em>” của Mark Moyar
         . </p>
     <p> Sau
@@ -1603,7 +1603,7 @@ image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.devhttps://sachhiem.net/
         về ai đã đưa Ngô Đình Diệm về Nam Việt Nam cầm quyền với 20 nhận định
         về Ngô Đình Diệm của một số trí thức ngoại quốc có tên tuổi: ký giả,
         chính trị gia, giáo sư đại học, nhà quân sự, bậc lãnh đạo tôn giáo v…v…
-        là đúng hay sai: <a style="COLOR: blue; TEXT-DECORATION: underline; text-underline: single" href="https://sachhiem.net/TCN/TCNls/TCNls06.php">https://sachhiem.net/TCN/TCNls/TCNls06.php</a></p>
+        là đúng hay sai: <a style="COLOR: blue; TEXT-DECORATION: underline; text-underline: single" href="/TCN/TCNls/TCNls06">https://sachhiem.net/TCN/TCNls/TCNls06.php</a></p>
     <p> Trước
         khi tìm cách trả lời những câu hỏi này, xin hãy đọc những đề mục sau
         đây để biết rõ nội dung mà phản biện, nếu có thể:</p>
@@ -1633,10 +1633,10 @@ image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.devhttps://sachhiem.net/
       <p>Lịch
         sử Giáo Hoàng:</p>
       <p><em><a style="COLOR: blue; TEXT-DECORATION: underline; text-underline: single" href="https://giaodiemonline.com/2007/06/duccha.htm">https://giaodiemonline.com/2007/06/duccha.htm</a></em></p>
-      <p><em><a style="COLOR: blue; TEXT-DECORATION: underline; text-underline: single" href="https://sachhiem.net/TCN/TCNtg/TCN20.php">https://sachhiem.net/TCN/TCNtg/TCN20.php</a></em></p>
+      <p><em><a style="COLOR: blue; TEXT-DECORATION: underline; text-underline: single" href="/TCN/TCNtg/TCN20">https://sachhiem.net/TCN/TCNtg/TCN20.php</a></em></p>
       <p>Vấn
         nạn Linh mục loạn dâm:</p>
-      <p><em><a style="COLOR: blue; TEXT-DECORATION: underline; text-underline: single" href="https://sachhiem.net/TCN/TCNtg/TCN97.php">https://sachhiem.net/TCN/TCNtg/TCN97.php</a></em></p>
+      <p><em><a style="COLOR: blue; TEXT-DECORATION: underline; text-underline: single" href="/TCN/TCNtg/TCN97">https://sachhiem.net/TCN/TCNtg/TCN97.php</a></em></p>
     </blockquote>
     <p> Tôi
         ước mong ông Lữ Giang cũng như các bậc chăn chiên và các con chiên trí

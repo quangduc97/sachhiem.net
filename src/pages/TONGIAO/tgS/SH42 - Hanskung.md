@@ -3,7 +3,7 @@ layout: ../../../layouts/Article.astro
 title: "Một Mùa Xuân Vatican?"
 author: "Hans Küng"
 date: 2013-03-05
-source: "https://sachhiem.net/TONGIAO/tgS/SH41.php"
+source: "/TONGIAO/tgS/SH41"
 category: "Tác giả"
 lang: vi
 wordCount: 3431

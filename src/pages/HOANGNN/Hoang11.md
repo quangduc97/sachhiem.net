@@ -2,15 +2,13 @@
 layout: ../../layouts/Article.astro
 title: "Một cõi đi về cho Trịnh Công Sơn?"
 author: "Hoàng Nguyên Nhuận"
-source: "https://sachhiem.net/HOANGNN/Hoang11.php"
+source: "/HOANGNN/Hoang11"
 category: "Chính trị"
 lang: vi
 wordCount: 2095
-image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nha.jpg"
 ---
 
-<p align="center"><a href="https://www.sachhiem.net/">
-	<img border="0" src="https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nha.jpg"></a> 22 tháng 3, 2008 </p>
+<p align="center"> 22 tháng 3, 2008 </p>
 	
 <p><i>LTS: Bài viết cách đây hai năm, sachhiem.net đăng lại để kỷ niệm 7 năm ngày qua đời của nhạc sĩ Trịnh Công Sơn (SH)</i></p>
 

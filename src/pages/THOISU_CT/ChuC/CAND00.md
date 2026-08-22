@@ -3,7 +3,7 @@ layout: ../../../layouts/Article.astro
 title: "Bùi Tín, Tuổi Xế Chiều Ở Paris"
 author: "Nguyễn Đăng An"
 date: 2012-05-16
-source: "https://sachhiem.net/THOISU_CT/ChuC/CAND00.php"
+source: "/THOISU_CT/ChuC/CAND00"
 category: "Chính trị"
 lang: vi
 wordCount: 2693

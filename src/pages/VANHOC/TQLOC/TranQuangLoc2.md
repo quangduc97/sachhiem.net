@@ -2,14 +2,13 @@
 layout: ../../../layouts/Article.astro
 title: "Tản Mạn và đôi vần thơ về vụ TAM TOÀ"
 author: "Trần Quang Lộc"
-source: "https://sachhiem.net/VANHOC/TQLOC/TranQuangLoc2.php"
+source: "/VANHOC/TQLOC/TranQuangLoc2"
 category: "Văn hóa"
 lang: vi
 wordCount: 9215
-image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nha.jpg"
 ---
 
-<p align="center"><a href="/index"><img border="0" src="https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nha.jpg"></a>26 tháng 8,   2009 </p> 
+<p align="center">26 tháng 8,   2009 </p> 
 	<p><i>LTS: Nhờ kỹ thuật tin học,  nhiều người đã biết được những thông tin cần biết về lịch sử Giáo Hội Công Giáo đối với dân tộc và quốc gia Viêt Nam. Nhưng đối với dân Chúa,  những thông tin lịch sử này vẫn mãi mãi nằm bên ngoài lương tri. Bởi thế mới có những việc "hiệp thông" tụ tập hàng trăm hàng ngàn con chiên,  nhiệt tâm và cuồng nộ "chiếm đất" và phá hoại di tích quốc gia,  và làm trong tâm cảnh của những người "nghĩ rằng mình đi đòi công lý" (!) Nhưng,  người dân bên ngoài nghĩ gì về những con chiên này?  Mời quí vị đọc những dòng cảm xúc thật thà sau đây của một độc giả thân hữu,  để thấy câu trả lời. (SH)</i> </p>
 	<hr>
 		<p> <span class="First">N</span>ăm 2008,  tôi đã viết bài 

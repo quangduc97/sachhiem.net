@@ -3,7 +3,7 @@ layout: ../../../layouts/Article.astro
 title: "Phúc trình A/5630 - Báo cáo của Phái đoàn Điều tra Liên Hiệp Quốc tại Nam Việt Nam"
 author: "Nguyễn Minh Tiến"
 date: 2017-10-30
-source: "https://sachhiem.net/SACHNGOAI/snN/NguyenMinhTien01.php"
+source: "/SACHNGOAI/snN/NguyenMinhTien01"
 lang: vi
 wordCount: 22802
 ---
@@ -11,12 +11,12 @@ wordCount: 22802
 <p class="Tuaduoi">(REPORT OF THE UNITED NATION FACT-FINDING MISSION TO SOUTH VIET-NAM)</p>
   
     
-  <p>  ●     <a href="https://sachhiem.net/SACHNGOAI/snN/NguyenMinhTien.php#loi-dan" target="_blank" name="LD" shape="rect">Lời Dẫn</a><br>
-  ●     <a href="https://sachhiem.net/SACHNGOAI/snN/NguyenMinhTien.php#i-thong-tin-so-luoc" target="_blank" name="I" shape="rect">I. Thông Tin Sơ Lược</a><br>
-  ●     <a href="https://sachhiem.net/SACHNGOAI/snN/NguyenMinhTien.php#ii-tien-trinh-dieu-tra" target="_blank" name="II" shape="rect">II. Tiến Trình Điều Tra </a><br>
-  ●     <a href="https://sachhiem.net/SACHNGOAI/snN/NguyenMinhTien01.php#iii-ket-qua-dieu-tra" target="_blank" name="III" shape="rect">III. Kết Quả Điều Tra</a><br>
-  ●     <a href="https://sachhiem.net/SACHNGOAI/snN/NguyenMinhTien02.php#iv-vai-su-that-lich-su" target="_blank" name="IV" shape="rect"> IV. Vài Sự Thật Lịch Sử </a><br>
-  ●     <a href="https://sachhiem.net/SACHNGOAI/snN/NguyenMinhTien02.php#v-mot-vai-nhan-dinh" target="_blank" name="V" shape="rect">V. Một Vài Nhận Định</a></p>
+  <p>  ●     <a href="/SACHNGOAI/snN/NguyenMinhTien#loi-dan" target="_blank" name="LD" shape="rect">Lời Dẫn</a><br>
+  ●     <a href="/SACHNGOAI/snN/NguyenMinhTien#i-thong-tin-so-luoc" target="_blank" name="I" shape="rect">I. Thông Tin Sơ Lược</a><br>
+  ●     <a href="/SACHNGOAI/snN/NguyenMinhTien#ii-tien-trinh-dieu-tra" target="_blank" name="II" shape="rect">II. Tiến Trình Điều Tra </a><br>
+  ●     <a href="/SACHNGOAI/snN/NguyenMinhTien01#iii-ket-qua-dieu-tra" target="_blank" name="III" shape="rect">III. Kết Quả Điều Tra</a><br>
+  ●     <a href="/SACHNGOAI/snN/NguyenMinhTien02#iv-vai-su-that-lich-su" target="_blank" name="IV" shape="rect"> IV. Vài Sự Thật Lịch Sử </a><br>
+  ●     <a href="/SACHNGOAI/snN/NguyenMinhTien02#v-mot-vai-nhan-dinh" target="_blank" name="V" shape="rect">V. Một Vài Nhận Định</a></p>
   <p class="Tuaduoi"><b>III. Kết Quả Điều Tra</b></p>
   <p>Như đã nói, kết  quả điều tra của Phái đoàn được ghi nhận đầy đủ  trong bản Phúc trình mang số hiệu A/5630 để chuẩn bị trình lên Kỳ họp thường  niên lần thứ 18 của Đại Hội Đồng Liên Hiệp Quốc. Tuy  nhiên, do đối tượng cáo buộc là Chính phủ Ngô Đình Diệm đã sụp đổ, nên Đại  Hội Đồng Liên Hiệp Quốc thấy rằng việc xem xét vấn đề này  không còn cần thiết nữa.<br>
     <br>
@@ -349,5 +349,5 @@ wordCount: 22802
 <p>    Mr. Gunewardene: Ông đã lặp lại không ít hơn 6 lần rằng ông là Phật tử. Có  gì cần thiết để ông phải nhấn mạnh với chúng tôi quá  nhiều lần việc ông là Phật tử?</p>
 <p>    Nhân chứng: Bởi vì tôi muốn nhấn mạnh với các ông sự thật rằng  tôi là Phật tử và rằng ở đất nước này Phật tử có thể thực  hành tôn giáo của họ.</p>
 <p>    Hầu hết những thông tin trái chiều chỉ là sự lặp lại các lập luận do  Chính phủ đã đưa ra trước đó về sự can thiệp của những người Cộng  sản, đồng thời phủ nhận hoàn toàn sự phân biệt và đàn  áp của Chính phủ đối với Phật giáo. Và như đã nói, theo như ghi  nhận trong bản Phúc trình thì những thông tin loại này chiếm một tỷ  lệ rất thấp và không có tính thuyết phục.</p>
-<p>(xem tiếp <a href="https://sachhiem.net/SACHNGOAI/snN/NguyenMinhTien02.php">Phần IV: Vài Sự Thật Lịch Sử</a>)</p>
+<p>(xem tiếp <a href="/SACHNGOAI/snN/NguyenMinhTien02">Phần IV: Vài Sự Thật Lịch Sử</a>)</p>
 <p class="nguonL">Nguồn: https://thuvienhoasen.org/p58a28811/iii-ket-qua-dieu-tra</p>

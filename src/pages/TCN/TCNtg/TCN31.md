@@ -2,7 +2,7 @@
 layout: ../../../layouts/Article.astro
 title: "MƯỜI ĐIỀU CHÍNH ĐỂ NHẬN BIẾT AI LÀ"
 author: "Trần Chung Ngọc dịch"
-source: "https://sachhiem.net/Theo: https://www.evilbible.com/Top_Ten_List.htm"
+source: "/Theo: https://www.evilbible.com/Top_Ten_List.htm"
 lang: vi
 wordCount: 1391
 image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/TCN/file:///C:/SACHHIEM/images/mail.gif"

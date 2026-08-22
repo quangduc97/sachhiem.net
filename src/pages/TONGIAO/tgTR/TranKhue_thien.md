@@ -3,7 +3,7 @@ layout: ../../../layouts/Article.astro
 title: "Minh Triết Việt Nam:"
 author: "Trần Khuê– Ng. Thị Thanh Xuân"
 date: 2013-05-18
-source: "https://sachhiem.net/TONGIAO/tgTR/TranKhue_thien.php"
+source: "/TONGIAO/tgTR/TranKhue_thien"
 category: "Tác giả"
 lang: vi
 wordCount: 4377

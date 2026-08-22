@@ -3,7 +3,7 @@ layout: ../../../layouts/Article.astro
 title: "IN GOD WE TRUST"
 author: "Trần Trọng Sỹ"
 date: 2021-01-26
-source: "https://sachhiem.net/TTS/TG/TranTrongSy11a.php"
+source: "/TTS/TG/TranTrongSy11a"
 category: "Chính trị"
 lang: en
 wordCount: 15457

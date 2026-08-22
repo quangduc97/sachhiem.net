@@ -2,15 +2,15 @@
 layout: ../../../layouts/Article.astro
 title: "Phục Hồi Danh Dự Ở Nơi Có Sẵn Danh Dự (*)"
 author: "Trần Quang Diệu"
-source: "https://sachhiem.net/LICHSU/TR/TQD14.php"
+source: "/LICHSU/TR/TQD14"
 category: "Lịch sử"
 lang: vi
 wordCount: 3949
-image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nha.jpg"
+image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/LICHSU/TONY/Phanat/B52traitham.jpg"
 ---
 
 <table border="0" cellpadding="0" width="250" align="center"><tbody><tr>
-	<td width="125"><a href="/index"><img border="0" src="https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nha.jpg"></a></td>
+	<td width="125"></td>
 <td valign="middle">&nbsp; </td>
 		</tr></tbody></table>
 
@@ -323,7 +323,7 @@ Subject: Thư Trưng Trắc gởi cho Bà Dương Nguyệt Ánh</p>
 <p>(*) tựa sachhiem.net</p>
 <hr>
 <p><b>Mời đọc thêm: </b></p>
-<p>- <a href="https://sachhiem.net/TTL/TranTL25.php">Không Ai Độc Quyền Làm Điều
+<p>- <a href="/TTL/TranTL25">Không Ai Độc Quyền Làm Điều
     Tốt (Trần Tiên Long)</a></p>
 <p><b>Các bài liên quan:</b></p>
 <p>- "Bomb lady - Trả nợ cho nước Mỹ hay mắc nợ với nhân loại?" của Minh Phụng <a href="/THOISU_CT/ChuM/MinhPhung">https://sachhiem.net/THOISU_CT/ChuM/MinhPhung.php </a></p>

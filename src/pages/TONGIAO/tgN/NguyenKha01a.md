@@ -3,7 +3,7 @@ layout: ../../../layouts/Article.astro
 title: "Ngụy Tạo Và Xuyên Tạc Về Cuộc Tự Thiêu"
 author: "Pháp Lạc và Nguyễn Kha"
 date: 2011-11-18
-source: "https://sachhiem.net/null"
+source: "/null"
 category: "Tác giả"
 lang: vi
 wordCount: 7361
@@ -17,7 +17,7 @@ image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.devhttps://sachhiem.net/
       </tr>
     </tbody></table>
     
-    <p><a href="https://sachhiem.net/TONGIAO/tgN/NguyenKha01.php">(...
+    <p><a href="/TONGIAO/tgN/NguyenKha01">(...
         tiếp theo phần đầu)</a></p>
      
     <p><img src="https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.devhttps://sachhiem.net/TONGIAO/IMG/PHAPNAN/NguyenKha01a_clip_image002.jpg" alt="TheNewFaceofWar" width="144" height="207" hspace="12" align="left"></p>

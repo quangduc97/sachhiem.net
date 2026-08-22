@@ -3,7 +3,7 @@ layout: ../../../layouts/Article.astro
 title: "Những Ý Kiến Không Ủng Hộ Bob Kerrey Làm Chủ Tịch Hội Đồng Tín Thác Đại Học Fulbright"
 author: "TS Nguyễn Kiều Dung"
 date: 2016-08-14
-source: "https://sachhiem.net/THOISU_CT/ChuN/NguyenKieuDung02.php"
+source: "/THOISU_CT/ChuN/NguyenKieuDung02"
 category: "Chính trị"
 lang: vi
 wordCount: 15562
@@ -12,11 +12,11 @@ image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/THOISU_CT/Hinh/VIETN
 
 <div class="tomluoc">
            <p><i>LTS: Bất kể ông Kerrey có hối hận hay không, nếu vẫn còn đeo bám vào danh vị cao nhất của một trường đại học,  rõ ràng là ông không có chút tự trọng. Xin mời xem những bài viết đầy nhiệt tình,  và tích cực cùng nhau góp tiếng nói chung bằng bất cứ phương tiện nào có thể. </i><i>(SH)</i></p>
-           <p><i>-  <a href="https://sachhiem.net/THOISU_CT/ChuN/NguyenKieuDung.php">Sự Thật Về Đại Học Fulbright</a>;</i></p>
-           <p><i>-  <a href="https://sachhiem.net/THOISU_CT/ChuN/NguyenKieuDung01.php">Bob Kerrey - Kẻ Phá Hoại Cộng Đồng</a>; và</i></p>
-           <p><i>- <a href="https://sachhiem.net/THOISU_CT/ChuN/NguyenKieuDung02.php">Những Ý Kiến Không Ủng Hộ Bob Kerrey...</a>. </i></p>
+           <p><i>-  <a href="/THOISU_CT/ChuN/NguyenKieuDung">Sự Thật Về Đại Học Fulbright</a>;</i></p>
+           <p><i>-  <a href="/THOISU_CT/ChuN/NguyenKieuDung01">Bob Kerrey - Kẻ Phá Hoại Cộng Đồng</a>; và</i></p>
+           <p><i>- <a href="/THOISU_CT/ChuN/NguyenKieuDung02">Những Ý Kiến Không Ủng Hộ Bob Kerrey...</a>. </i></p>
            </div>
-  <p>(Để  hiểu thêm chi tiết về vụ việc: xin đọc các bài: <i><a href="https://sachhiem.net/THOISU_CT/ChuN/NguyenKieuDung01.php">“Bob Kerrey-Kẻ phá hoại cộng đồng”</a>  và <a href="https://sachhiem.net/THOISU_CT/ChuN/NguyenKieuDung.php">“Sự thật về đại học Fulbright”</a></i>)</p>
+  <p>(Để  hiểu thêm chi tiết về vụ việc: xin đọc các bài: <i><a href="/THOISU_CT/ChuN/NguyenKieuDung01">“Bob Kerrey-Kẻ phá hoại cộng đồng”</a>  và <a href="/THOISU_CT/ChuN/NguyenKieuDung">“Sự thật về đại học Fulbright”</a></i>)</p>
   <p>Các  ý kiến dưới đây được đăng ở chế độ công khai trên báo chí, các website, và  facebook. Bởi vậy tôi xin phép được sử dụng trong bài viết này. Một số ý kiến  tuy không nhắm trực tiếp vào ông Kerrey nhưng rất có lợi cho phe chống bổ nhiệm  nên tôi cũng xin phép đưa vào danh sách.</p>
   <p>Đúng  như nhà báo Mark Bowyer nhận xét (và TS Mark Aswill, sử gia David Marr cũng đồng  quan điểm): <i>“Có lẽ chính phủ Hoa kỳ hay  các quốc gia phương tây khác và công dân nước họ sẽ không tha thứ hoặc hướng tới  tương lai trong những hoàn cảnh tương tự thế này</i>”. Nếu để ý thì độc giả sẽ  thấy đa số người Mỹ quan tâm đến vụ này đều chống việc bổ nhiệm, chỉ trừ một  vài vị “người nhà” của Đại học Fulbright như Vallely, Wilkinson là ủng hộ. Vụ  việc tưởng như đã rõ như ban ngày bởi bộ ngoại giao đã chính thức lên tiếng không  khuyến khích Kerrey, các bài báo của Đinh La Thăng ủng hộ bổ nhiệm bị rút hết,  trong khi thay thế bằng bài chống bổ nhiệm của bà Tôn Nữ Thị Ninh. Như vậy quan  điểm chính thức của chính phủ Việt nam cũng tương đồng với quan điểm của chính  phủ và nhân dân các quốc gia văn minh. Vậy nhưng rất nhiều người vẫn cố tình  không hiểu. </p>
   <p>Không  có chuyện quan điểm nào cũng đáng được trân trọng. Bởi lẽ tha thứ hay không là  chuyện đơn giản, nhưng bổ nhiệm chủ tịch FUV hay không là vấn đề phức tạp, cần  sự am hiểu về giáo dục đẳng cấp quốc tế, am hiểu ý nghĩa cao quý của giáo dục  và năng lực tư duy đạo đức, những điều mà đa số những người ủng hộ Kerrey không  có (do giáo dục công dân ở VN vốn yếu kém, xưa nay ở VN hầu như không có giáo dục  triết học đạo đức, và do bản thân họ không có cơ hội tìm hiểu và trải nghiệm  giáo dục đẳng cấp quốc tế). Vụ  Bob Kerrey là vấn đề thuộc chuyên môn của các nhà giáo dục chứ không phải của  các cựu chiến binh như nhiều người lầm tưởng. &nbsp;Thêm nữa, vụ ủng hộ ồn ào này còn có sự kích động  của nhiều tổ chức và cá nhân (bao gồm rất nhiều trí thức, thậm chí học giả Việt  kiều) hoạt động chính trị đối lập hoặc ít ra là ác cảm với chính quyền hiện nay.  Nhiều người trong số họ thậm chí thích &nbsp;Kerrey bởi nhân vật này từng tiêu diệt “Việt cộng”,  lực lượng bảo vệ chính quyền. Nhiều người đánh đồng lính Mỹ với lính Việt nam Cộng  hòa và cho rằng không ủng hộ Kerrey nghĩa là ngăn cản hòa giải với phe Việt nam  Cộng hòa. Và nhiều người ủng hộ vì lợi ích chính trị hơn là vì thành tâm với sự  nghiệp giáo dục. Ngoài ra, còn phải kể đến niềm tin mù quáng của đám đông khi lẫn  lộn Kerrey với chính phủ Hoa kỳ, và cho rằng cần phải làm hài lòng người Mỹ bằng  mọi giá để người Mỹ giúp Việt nam chống Trung Quốc, và phát triển kinh tế. Đám  đông người Việt ủng hộ Bob Kerrey đã và đang tạo ra một thứ đạo đức “khác cả  nhân loại” (mượn chữ của TS Văn hóa Nguyễn Phương Mai, ĐH Khoa học Ứng dụng  Amsterdam).</p>
@@ -93,7 +93,7 @@ image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/THOISU_CT/Hinh/VIETN
   <p><a href="https://www.universityworldnews.com/article.php?story=20160705130314538">https://www.universityworldnews.com - Bob Kerrey and Fulbright University – What were they thinking?</a></p>
 <p class="TuaDenLeft">Giáo sư kiêm nhà văn việt kiều Nguyễn Thanh Việt, giải Pulitzer 2016 </p>
   <p><i>“Ông ta[Bob Kerrey] không phải là người cho công việc đó  và xem ông ta như một biểu tượng của hòa bình là một thất bại của suy tưởng về  đạo đức</i>”</p>
-  <p><a href="https://sachhiem.net/SACHNGOAI/snT/TranKevin_05.php">https://sachhiem.net/SACHNGOAI/snT/TranKevin_05.php</a></p>
+  <p><a href="/SACHNGOAI/snT/TranKevin_05">https://sachhiem.net/SACHNGOAI/snT/TranKevin_05.php</a></p>
   <p class="TuaDenLeft"><b>Nhà báo Roger Cohen</b></p>
 <p>
     <i>(Cần phải hiểu ý của Cohen theo nghĩa châm biếm bởi ông  ta khuyên Kerrey không từ chức nhưng phải trả lại tấm huân chương giết Việt cộng  và xúc tiến thành lập học bổng Bùi Văn Vát, tên thường dân đã bị ông ta cắt cổ,  và mỉa mai so sánh ông ta với Muhammad Ali, nhà vô địch quyền anh nổi tiếng người  Mỹ thà đi tù chứ không chịu đi lính sang Việt nam để giết người Việt) </i>“Kerrey cần phải chống lại lời kêu gọi từ chức. Không như  những người khác, ông ta là hiện thân của sự thống khổ để vượt qua di sản chiến  tranh. Tuy nhiên, ông ta phải trả lại tấm huân chương. Ông ta cũng cần thúc đẩy  thành lập học bổng Bùi Văn Vát về luật nhân quyền quốc tế. Và ông ta cần đảm bảo  rằng ở đâu đó trong khuôn viên trường những lời tương tự như Muhammand Ali giải  thích về sự từ chối [tham chiến ở Việt nam] được khắc ghi “tôi không có ý định  chống lại Việt Cộng.”</p>
@@ -283,7 +283,7 @@ image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/THOISU_CT/Hinh/VIETN
     Các trường hợp trước đây: linh mục Trần Lục, giáo sĩ Bá Đa Lộc, Petrus Ký, Hồ  Ngọc Cẩn,.. chẳng hạn là những tai nạn lịch sử tương tự. Hiện giờ trên các  phương tiện tuyên truyền của thế lực "nghịch chiều" với dân tộc đã dấy  lên phong trào đem ông Alexandre De Rhodes lên thành ân nhân cho tiếng Việt,  "bỏ qua" hết các tội phạm gián điệp, tội xâm phạm văn hóa, khinh miệt  tổ tiên ta,... chẳng hạn.</p>
 <p>
     Vấn đề hoàn toàn không phải là tha thứ hay không tha thứ nữa. Đó là vấn đề nhân  văn, vấn đề tiết liệt, vấn đề giá trị minh bạch. <b><i>Một kẻ tội phạm được tha  thứ, không thể cho lên đứng vào hàng ân nghĩa chỉ vì làm chức vụ chủ tịch đầu  tiên cho trường đạihọc Fulbright.”</i></b></p>
-<p><a href="https://sachhiem.net/index.php?content=showemail&amp;id=1544">https://sachhiem.net/ Về ý kiến bênh vực - Chọn Bob Kerrey làm Chủ Tịch HĐ Tín Thác ĐH Fulbright</a></p>
+<p><a href="/hop-thu/1544">https://sachhiem.net/ Về ý kiến bênh vực - Chọn Bob Kerrey làm Chủ Tịch HĐ Tín Thác ĐH Fulbright</a></p>
 <p class="TuaDenLeft"><b> Chiến tranh Việt Nam tư liệu và sự thật  </b></p>
    <p>“Hợp  những khía cạnh trên, phải chăng đã có một sự dối trá đến mức vô liêm sĩ trong  con người ông Bod Kerry? Hay nếu không nữa, phải chăng đã đến lúc cần một định  nghĩa mới về sự thành thực để chúng ta chấp nhận một tội phạm chiến tranh (diệt  chủng) tiếp tục công việc giáo dục ra những con người trung thực, liêm chính và  nhân văn - nền tảng của nền dân chủ mà đại học Fulbright lấy đó làm tôn chỉ  trong sứ mệnh hoạt động của mình?”</p>
   <p><a href="https://www.facebook.com/ctvntlvst/posts/1054741611240395:0?hc_location=ufi"> https://www.facebook.com/ - Có phải sự thành thật trong con người cần một định nghĩa khác?</a></p>
@@ -291,7 +291,7 @@ image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/THOISU_CT/Hinh/VIETN
   <p>“Cũng để thấy  được cái giá của hòa bình và sự khủng khiếp của chiến tranh như thế nào. Cho  đến tháng 4 năm ngoái, nước Đức vẫn truy tìm và tìm ra cựu trung sĩ SS Oskar  Groning, nhân viên kế toán ở trại tập trung Auschwitz, để tống giam khi ông ta  94 tuổi. </p>
 <p>
     Còn chúng ta? Chúng ta, đang trải thảm rước một kẻ từng  thảm sát đồng bào mình về làm công việc khai dân trí. Chuyện gì đang diễn ra  thế ?”&nbsp; </p>
-  <p><a href="https://sachhiem.net/THOISU_CT/ChuT/TinVietGiaiTri.php">https://sachhiem.net/THOISU_CT/ChuT/TinVietGiaiTri.php</a></p>
+  <p><a href="/THOISU_CT/ChuT/TinVietGiaiTri">https://sachhiem.net/THOISU_CT/ChuT/TinVietGiaiTri.php</a></p>
   <p class="TuaDenLeft"><b>Sử gia Trần Quang Đức </b></p>
 <p>
   “MA  CÀ RỒNG VIỆT - MỸ</p>
@@ -557,8 +557,8 @@ image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/THOISU_CT/Hinh/VIETN
   <p><a href="https://www.facebook.com/baoanh.thai">https://www.facebook.com/baoanh.thai</a></p>
   <p>___________________</p>
   <p><b>Những bài liên quan:</b></p>
-  <p>- <a href="https://sachhiem.net/index.php?content=showemail&amp;id=1578">Cảnh báo mới - Đại học Fulbright: chiến lược trồng người lâu dài và hợp pháp</a>, ngày Mon June 27, 2016</p>
-  <p>- <a href="https://sachhiem.net/THOISU_CT/ChuN/NguyenKieuDung.php">Sự Thật Về Đại Học Fulbright</a>, TS Nguyễn Kiều Dung, ngày 14-Aug-2016</p>
-  <p>- <a href="https://sachhiem.net/THOISU_CT/ChuN/NguyenKieuDung01.php">Bob Kerrey - Kẻ Phá Hoại Cộng Đồng</a>, TS Nguyễn Kiều Dung, ngày 14-Aug-2016</p>
- <p>- <a href="https://sachhiem.net/LICHSU/M/ MarkAshwill_NMH.php">Một Người Mỹ Cảnh Báo: “Đại Học Fulbright Việt Nam- Con Ngựa Thành Troy Của Mỹ Ở Việt Nam,</a> ngày 19-Apr-2023</p>
+  <p>- <a href="/net/LICHSU/N/NguyenvThinh_LS04">Cảnh báo mới - Đại học Fulbright: chiến lược trồng người lâu dài và hợp pháp</a>, ngày Mon June 27, 2016</p>
+  <p>- <a href="/THOISU_CT/ChuN/NguyenKieuDung">Sự Thật Về Đại Học Fulbright</a>, TS Nguyễn Kiều Dung, ngày 14-Aug-2016</p>
+  <p>- <a href="/THOISU_CT/ChuN/NguyenKieuDung01">Bob Kerrey - Kẻ Phá Hoại Cộng Đồng</a>, TS Nguyễn Kiều Dung, ngày 14-Aug-2016</p>
+ <p>- <a href="/LICHSU/M/ MarkAshwill_NMH">Một Người Mỹ Cảnh Báo: “Đại Học Fulbright Việt Nam- Con Ngựa Thành Troy Của Mỹ Ở Việt Nam,</a> ngày 19-Apr-2023</p>
   <p>- <a href="https://giaovn.blogspot.com/2016/06/nuoc-my-khong-con-ai-ngoai-bob-kerrey.html">Nước Mỹ không còn ai ngoài Bob Kerrey thật sao?</a> ngày 02/06/2016</p>

@@ -2,7 +2,7 @@
 layout: ../../../layouts/Article.astro
 title: "Tại Sao Ki Tô Giáo Phải Suy Thoái?"
 author: "Trần Chung Ngọc"
-source: "https://sachhiem.net/06 tháng 7, 2010"
+source: "/06 tháng 7, 2010"
 lang: vi
 wordCount: 112
 image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/TCN/IMG/TCN99/BichchuongoDenver.jpg"
@@ -18,7 +18,7 @@ image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/TCN/IMG/TCN99/Bichch
 <tbody><tr> <td width="250" valign="top"> 
 	<center>
 	<img border="0" src="https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/TCN/IMG/TCN99/BichchuongoDenver.jpg" width="240" height="180">
-	<a href="/index"><img src="https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nha.jpg" border="0"></a></center>
+	</center>
     
 	
 		

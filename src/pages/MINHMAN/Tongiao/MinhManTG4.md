@@ -2,7 +2,7 @@
 layout: ../../../layouts/Article.astro
 title: "DƯ LUẬN VỀ MỘT CHUYẾN ĐI"
 author: "Minh Mẫn"
-source: "https://sachhiem.net/null"
+source: "/null"
 lang: vi
 wordCount: 2174
 image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/MINHMAN/file:///C:/SACHHIEM/images/mail.gif"

@@ -3,7 +3,7 @@ layout: ../../../layouts/Article.astro
 title: "Giao Điểm 39-40: Phỏng Vấn GS Trần Chung Ngọc"
 author: "PV-GD"
 date: 2014-07-25
-source: "https://sachhiem.net/TCN/TCNdt/TCN_GDphongvan.php"
+source: "/TCN/TCNdt/TCN_GDphongvan"
 category: "Đối thoại"
 lang: vi
 wordCount: 88

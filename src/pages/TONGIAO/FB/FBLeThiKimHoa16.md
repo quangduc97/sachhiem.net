@@ -2,15 +2,14 @@
 layout: ../../../layouts/Article.astro
 title: "“Nhận Xét” Của Con Chiên Maria H.Y. Về Việc Phong Thánh Cho LM Diệp"
 author: "Lê thị Kim Hoa"
-source: "https://sachhiem.net/TONGIAO/FB/FBLeThiKimHoa16.php"
+source: "/TONGIAO/FB/FBLeThiKimHoa16"
 category: "Tác giả"
 lang: vi
 wordCount: 2934
-image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nha.jpg"
+image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/TONGIAO/IMG/PHONGTHANH/TBD_va_CarloAcutis.jpg"
 ---
 
-<p align="center"><a href="http://www.sachhiem.net/">
-<img border="0" src="https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nha.jpg"></a> 
+<p align="center"> 
 08 July 2026</p>
  <div class="tomluoc">
    <p><i>Từ ngụy biện kêu gọi số đông, lập luận vòng tròn, ngụy biện người rơm cho đến ngụy biện từ sự thiếu hiểu biết, tất cả đều xuất hiện trong một bài viết được trình bày như thể đang nói về những sự thật hiển nhiên </i></p>

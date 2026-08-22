@@ -2,7 +2,7 @@
 layout: ../../layouts/Article.astro
 title: "Thông Báo"
 author: "Charlie Nguyễn"
-source: "https://sachhiem.net/null"
+source: "/null"
 lang: vi
 wordCount: 186
 image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/CHARLIE/IMG/Flower2.jpg"

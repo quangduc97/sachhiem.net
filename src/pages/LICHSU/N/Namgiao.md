@@ -3,7 +3,7 @@ layout: ../../../layouts/Article.astro
 title: "Ngô Đình Nhu Chủ Mưu Tấn Công Các Chùa Đêm 20-8-1963"
 author: "Nam Giao"
 date: 2013-07-22
-source: "https://sachhiem.net/LICHSU/N/Namgiao.php"
+source: "/LICHSU/N/Namgiao"
 category: "Tác giả"
 lang: vi
 wordCount: 1400

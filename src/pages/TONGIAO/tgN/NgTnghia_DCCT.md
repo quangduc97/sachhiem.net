@@ -3,7 +3,7 @@ layout: ../../../layouts/Article.astro
 title: "Gán Ghép \"Dân Oan\" Vào Sứ Vụ \"Đến Với Người Nghèo\" của Thánh An Phong!"
 author: "Nguyễn Trọng Nghĩa"
 date: 2015-02-12
-source: "https://sachhiem.net/TONGIAO/tgN/NgTnghia_DCCT.php"
+source: "/TONGIAO/tgN/NgTnghia_DCCT"
 category: "Tác giả"
 lang: vi
 wordCount: 1475
@@ -15,7 +15,7 @@ image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/TONGIAO/IMG/DCCT/Dan
      
 
      
-<p><i>LTS: Bây giờ thì người ta có thể hiểu được lý do mà Giáo Hoàng Francis I cổ động phải  hướng đến người nghèo. Chỉ là mục đích  tóm thu dân chúng, nói tránh né là "<a href="https://sachhiem.net/TCN/TCNtg/TCN113.php">truyền giáo, và gặt hái các linh hồn</a>". Từ xưa đến nay, các xứ nghèo vẫn là mục tiêu của <a href="https://sachhiem.net/CHARLIE/CN_TTDTG/Hoithuasai.php">các hội truyền giáo</a>.  Muốn người nghèo theo Chúa thì phải cho họ vật chất, chứ đạo Chúa có cái giáo lý nào bằng được đạo lý sẵn có của Á Đông? Người nghèo chỉ cần vật chất: "Phú ông xin đổi nắm xôi, bờm cười!"  </i><i>Những  "nắm xôi" cho thằng bờm chỉ là những của cải rơi rớt, ôm không hết từ những gì Giáo Hội thu được. </i></p>
+<p><i>LTS: Bây giờ thì người ta có thể hiểu được lý do mà Giáo Hoàng Francis I cổ động phải  hướng đến người nghèo. Chỉ là mục đích  tóm thu dân chúng, nói tránh né là "<a href="/TCN/TCNtg/TCN113">truyền giáo, và gặt hái các linh hồn</a>". Từ xưa đến nay, các xứ nghèo vẫn là mục tiêu của <a href="/CHARLIE/CN_TTDTG/Hoithuasai">các hội truyền giáo</a>.  Muốn người nghèo theo Chúa thì phải cho họ vật chất, chứ đạo Chúa có cái giáo lý nào bằng được đạo lý sẵn có của Á Đông? Người nghèo chỉ cần vật chất: "Phú ông xin đổi nắm xôi, bờm cười!"  </i><i>Những  "nắm xôi" cho thằng bờm chỉ là những của cải rơi rớt, ôm không hết từ những gì Giáo Hội thu được. </i></p>
 <p><i>Giáo Hội là một tổ chức giàu nhất thế gian vì luôn luôn bắt tay với các nhóm quyền lực, các cường quốc, vừa có thể thu góp tiền bạc và tạo thế lực để  việc thu tóm các "linh hồn" dễ dàng hơn.  Gom trong tay một lúc vừa thế lực, vừa số đông dân nghèo,  dễ dụ,  chẳng trách Giáo Hội   là "Vua của các Vua." Không biết cho đến giờ này,  Việt Nam có thấy hiểm họa đó hay chưa!</i></p>
 <hr>
 <p><span class="First">B</span>ài giảng trong <a href="https://www.youtube.com/watch?v=y76xpzkIXrs">Thánh lễ cầu nguyện cho Công Lý và Hòa Bình</a> của  LM Đa Minh Nguyễn Văn Phương ngày 25.1.2015 tại nhà thờ Dòng Chúa Cứu Thế, Kỳ  Đồng, Thành phố Hồ Chí Minh (xem video phụ đính ben dưới) được cho là cách giải thích những hành vi mà cộng  đồng – xã hội trong và ngoài giáo hội lên án là “<i>Dòng Chúa Cứu thế là một hang  ổ chính trị</i>” hay “Biến giáo hội thành một tổ chức chính trị”.</p>
@@ -52,7 +52,7 @@ image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/TONGIAO/IMG/DCCT/Dan
 <p class="TacgiaL">
   Nguyễn Trọng Nghĩa</p>
 
-<p>(Xem bài kế: <a href="https://sachhiem.net/TONGIAO/tgN/NgTnghia_DCCT1.php">DCCT Tri Ân “Thương Phế Binh VNCH”</a>!)</p>
+<p>(Xem bài kế: <a href="/TONGIAO/tgN/NgTnghia_DCCT1">DCCT Tri Ân “Thương Phế Binh VNCH”</a>!)</p>
   <hr>
 <p class="MUC"><b>Phụ Đính:</b></p>
 <p class="Tuaduoi">Bài giảng trong Thánh lễ cầu nguyện cho Công Lý và Hòa Bình</p>

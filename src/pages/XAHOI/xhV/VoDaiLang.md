@@ -3,7 +3,7 @@ layout: ../../../layouts/Article.astro
 title: "Vấn Nạn: Cựu Quân Nhân VNCH Và Quân Phục Sau 39 Năm Giã Từ Vũ Khí"
 author: "Lính Già VNCH Võ Đại Lang"
 date: 2014-06-04
-source: "https://sachhiem.net/XAHOI/xhV/VoDaiLang.php"
+source: "/XAHOI/xhV/VoDaiLang"
 category: "Tác giả"
 lang: vi
 wordCount: 4344

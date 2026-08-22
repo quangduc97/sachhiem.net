@@ -2,11 +2,11 @@
 layout: ../../../layouts/Article.astro
 title: "Về vị Đại tướng tròn 100 tuổi"
 author: "Duơng Trung Quốc/ Lao Động"
-source: "https://sachhiem.net/Trang viết về Đại tướng Võ Nguyên Giáp trong“Great Military Leaders and Their Campaigns”."
+source: "/Trang viết về Đại tướng Võ Nguyên Giáp trong“Great Military Leaders and Their Campaigns”."
 category: "Chính trị"
 lang: vi
 wordCount: 2092
-image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nha.jpg"
+image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/LICHSU/IMG/NHANVAT/VoNguyenGiap1.jpg"
 ---
 
 <div align="center">
@@ -23,8 +23,7 @@ image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nha.jpg"
 				<div style="padding-left: 50px; padding-right: 50px">
 					<table border="0" cellpadding="1" width="80%" cols="2">
 						<tbody><tr>
-							<td><a href="/index">
-							<img border="0" src="https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nha.jpg"></a></td>
+							<td></td>
 							<td valign="top" width="195">
 							<p>25 tháng 8, 2010</p></td>
 						</tr></tbody></table>

@@ -1,14 +1,14 @@
 ---
 layout: ../../../layouts/Article.astro
 title: "Thư bạn Trần Quang Lộc"
-source: "https://sachhiem.net/NMQ/ThuDocgia/Q_docgia11.php"
+source: "/NMQ/ThuDocgia/Q_docgia11"
 lang: vi
 wordCount: 120
 image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/NMQ/ThuDocgia/TrQuLoc.jpg"
 ---
 
 <div style="padding-left: 75px; padding-right: 75px">
-			<p><a href="https://sachhiem.net/NMQ/ThuDocgia/QThudocgia.php">[Mời xem lời giới thiệu ở link]</a></p>
+			<p><a href="/NMQ/ThuDocgia/QThudocgia">[Mời xem lời giới thiệu ở link]</a></p>
 			<p>1.</p>
 			<p><img src="https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/NMQ/ThuDocgia/TrQuLoc.jpg" width="400" height="624" alt=""></p>
 			<p><img src="https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/NMQ/ThuDocgia/TrQuLoc2.jpg" width="400" height="473" alt=""></p>

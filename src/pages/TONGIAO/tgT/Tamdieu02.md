@@ -3,7 +3,7 @@ layout: ../../../layouts/Article.astro
 title: "Phật Giáo Và Cuộc Chính Biến 1-11-1963"
 author: "Tâm Diệu giới thiệu"
 date: 2013-10-28
-source: "https://sachhiem.net/TONGIAO/tgT/Tamdieu02.php"
+source: "/TONGIAO/tgT/Tamdieu02"
 category: "Tác giả"
 lang: vi
 wordCount: 3939
@@ -113,28 +113,28 @@ Diem and JFK Prolonged the Vietnam War, Tác gỉa: GS Howard Jones, Nhà xuất
 <p align="center">Xem thêm: <a href="https://thuvienhoasen.org/a12811/phat-giao-viet-nam-nam-1963-phong-vien-neil-sheehan-anh-cua-bettmann-corbis">Phật Giáo Việt Nam Năm 1963 - Phóng Viên Neil Sheehan - Ảnh Của © Bettmann/corbis</a></p>
 
 <p>» &nbsp; <a href="https://thuvienhoasen.org/p60a17885/ap-luc-gio-chot-cua-my-doi-huy-bo-cuoc-lat-do-nha-ngo">ÁP LỰC GIỜ CHÓT  CỦA MỸ ĐÒI HỦY BỎ CUỘC LẬT ĐỔ NHÀ NGÔ</a> &nbsp;(Nguyên Giác dịch)</p>
-<p>» &nbsp;<a href="https://sachhiem.net/SACHNGOAI/snN/Nguyengiac_SNIE_53-2-63.php">BẢN ĐÁNH GIÁ  TÌNH BÁO QUỐC GIA ĐẶC BIỆT</a>&nbsp;(Nguyên Giác dịch)</p>
+<p>» &nbsp;<a href="/SACHNGOAI/snN/Nguyengiac_SNIE_53-2-63">BẢN ĐÁNH GIÁ  TÌNH BÁO QUỐC GIA ĐẶC BIỆT</a>&nbsp;(Nguyên Giác dịch)</p>
 <p>» &nbsp;<a href="https://thuvienhoasen.org/p60a17698/ban-phuc-trinh-cua-lien-hiep-quoc-ve-dan-ap-phat-giao-tai-nam-viet-nam-nam-1963">BẢN PHÚC TRÌNH  CỦA PHÁI ĐOÀN ĐIỀU TRA LIÊN HIỆP QUỐC&nbsp;</a>(Tâm Diệu dịch)</p>
-<p>» &nbsp;<a href="https://sachhiem.net/SACHNGOAI/snN/Nguyengiac_MNamara.php">BỘ TRƯỞNG  MCNAMARA VIẾT TỪ SÀI GÒN: DIỆM-NHU ĐÀN ÁP TOÀN DÂN</a>&nbsp;(Nguyên  Giác dịch)</p>
+<p>» &nbsp;<a href="/SACHNGOAI/snN/Nguyengiac_MNamara">BỘ TRƯỞNG  MCNAMARA VIẾT TỪ SÀI GÒN: DIỆM-NHU ĐÀN ÁP TOÀN DÂN</a>&nbsp;(Nguyên  Giác dịch)</p>
 <p>» &nbsp;<a href="https://thuvienhoasen.org/p60a17229/cac-dien-van-trao-doi-giua-hue-sai-gon-va-washington">CÁC ĐIỆN VĂN  TRAO ĐỔI GIỮA HUẾ SÀI GÒN VÀ WASHINGTON..</a>&nbsp;(Thiện Tri Thức  Pub)</p>
 <p>» &nbsp;<a href="https://thuvienhoasen.org/p60a17743/chien-dich-tong-tan-cong-cac-chua-dem-20-8-1963-va-cac-he-qua">CHIẾN DỊCH TỔNG  TẤN CÔNG CÁC CHÙA ĐÊM 20-8-1963 VÀ CÁC HỆ QUẢ</a>&nbsp;(Nguyên Giác  dịch)</p>
-<p>» &nbsp;<a href="https://sachhiem.net/SACHNGOAI/snN/Nguyengiac_MNamara.php">CHÍNH QUYỀN  JOHNSON NHÌN LẠI BIẾN CỐ 1-11-1963</a> &nbsp;(Nguyên Giác dịch)</p>
-<p>» &nbsp;<a href="https://sachhiem.net/SACHNGOAI/snN/Nguyengiac_CIA_RDP.php">CIA BÁO CÁO TỔNG  THỐNG MỸ VỀ CUỘC THẢM SÁT HUẾ 1963</a>&nbsp;(Nguyên Giác dịch)</p>
+<p>» &nbsp;<a href="/SACHNGOAI/snN/Nguyengiac_MNamara">CHÍNH QUYỀN  JOHNSON NHÌN LẠI BIẾN CỐ 1-11-1963</a> &nbsp;(Nguyên Giác dịch)</p>
+<p>» &nbsp;<a href="/SACHNGOAI/snN/Nguyengiac_CIA_RDP">CIA BÁO CÁO TỔNG  THỐNG MỸ VỀ CUỘC THẢM SÁT HUẾ 1963</a>&nbsp;(Nguyên Giác dịch)</p>
 <p>» &nbsp;<a href="https://thuvienhoasen.org/p60a18094/cia-cuoc-noi-chuyen-bi-mat-cua-tuong-tran-van-don">CIA: CUỘC NÓI  CHUYỆN BÍ MẬT CỦA TƯỚNG TRẦN VĂN ĐÔN</a>&nbsp;(Nguyên Giác dịch)</p>
 <p>» &nbsp;<a href="https://thuvienhoasen.org/p60a17967/cuoc-tan-cong-cac-chua-dem-20-8-1963">CUỘC TẤN CÔNG  CÁC CHÙA ĐÊM 20-8-1963</a>&nbsp;(Nguyên Giác dịch)</p>
 <p>» &nbsp;<a href="https://thuvienhoasen.org/p60a17775/dien-van-118-than-phu-va-than-mau-ba-nhu-keu-goi-lat-do-nha-ngo">ĐIỆN VĂN 118: BA  MẸ BÀ NHU KÊU GỌI LẬT ĐỔ NHÀ NGÔ</a>&nbsp;(Nguyên Giác dịch)</p>
 <p>» &nbsp;<a href="https://thuvienhoasen.org/p60a18292/dien-van-243-toi-mat-ngay-24-8-1963">ĐIỆN VĂN 243 TỐI  MẬT NGÀY 24/8/1963</a>&nbsp;(Nguyên Giác dịch)</p>
-<p>» &nbsp;<a href="https://sachhiem.net/SACHNGOAI/snN/Nguyengiac_Tel274.php">ĐIỆN VĂN 274:  CHIẾN DỊCH TẤN CÔNG CHÙA</a>&nbsp;(Nguyên Giác dịch)</p>
+<p>» &nbsp;<a href="/SACHNGOAI/snN/Nguyengiac_Tel274">ĐIỆN VĂN 274:  CHIẾN DỊCH TẤN CÔNG CHÙA</a>&nbsp;(Nguyên Giác dịch)</p>
 <p>» &nbsp;<a href="https://thuvienhoasen.org/p60a17754/dien-van-68-ngay-6-9-1963">ĐIỆN VĂN 68 NGÀY  6-9-1963</a>&nbsp;(Nguyên Giác dịch)</p>
 <p>» &nbsp;<a href="https://thuvienhoasen.org/p60a18011/2/my-da-thay-mat-nam-viet-nam-tu-cuoi-nam-1961">MỸ ĐÃ THẤY MẤT  NAM VIỆT NAM TỪ CUỐI NĂM 1961</a>- Bản Ghi nhớ NSAM 263 của Hội Đồng An Ninh Quốc Gia (Nguyên Giác dịch)</p>
-<p>» &nbsp;<a href="https://sachhiem.net/SACHNGOAI/snN/Nguyengiac_phanno.php">MỸ: LÍNH VÀ DÂN  VIỆT NAM PHẨN NỘ</a> - Foreign Relations of the United States, 1961–1963 Volume IV, Vietnam, August–December 1963, Document 110 (Nguyên Giác dịch)</p>
+<p>» &nbsp;<a href="/SACHNGOAI/snN/Nguyengiac_phanno">MỸ: LÍNH VÀ DÂN  VIỆT NAM PHẨN NỘ</a> - Foreign Relations of the United States, 1961–1963 Volume IV, Vietnam, August–December 1963, Document 110 (Nguyên Giác dịch)</p>
 <p>» &nbsp;<a href="https://thuvienhoasen.org/p60a18050/2/nam-1962-my-da-thay-mat-viet-nam">NĂM 1962 MỸ ĐÃ  THẤY MẤT VIỆT NAM</a> - Foreign Relations of the United States, 1961–1963 
 Volume II, Vietnam, 1962, Document 268 (Nguyên Giác dịch)</p>
 <p>» &nbsp;<a href="https://thuvienhoasen.org/p60a18086/2/ngo-dinh-nhu-muon-thay-the-ong-ngo-dinh-diem-lam-tong-thong">NGÔ ĐÌNH NHU  MUỐN THAY THẾ ÔNG NGÔ ĐÌNH DIỆM LÀM TỔNG THỐNG</a>- Đánh giá của CIA (theo Bản Ghi nhớ FRUS-1963.256) (Nguyễn Kha dịch)</p>
 <p>» &nbsp;<a href="https://thuvienhoasen.org/p60a17963/2/ngo-dinh-nhu-thuong-thuyet-voi-ha-noi">NGÔ ĐÌNH NHU  THƯƠNG THUYẾT VỚI HÀ NỘI</a> - Death of a Generation: How the Assassinations of 
 Diem and JFK Prolonged the Vietnam War, Tác gỉa: GS Howard Jones, Nhà xuất bản Oxford University Press, 2003 (Nguyên Giác dịch)</p>
-<p>» &nbsp; <a href="https://sachhiem.net/SACHNGOAI/snN/Nguyengiac_siquan.php">NHIỀU NGÀN SĨ  QUAN VNCH CẢI ĐẠO ĐỂ TIẾN THÂN</a> &nbsp;(Nguyên Giác dịch)</p>
-<p>» &nbsp;<a href="https://sachhiem.net/TONGIAO/tgT/Tamdieu02.php">PHẬT GIÁO VÀ  CUỘC CHÍNH BIẾN 1-11-1963</a>&nbsp;(Tâm Diệu giới thiệu) </p>
+<p>» &nbsp; <a href="/SACHNGOAI/snN/Nguyengiac_siquan">NHIỀU NGÀN SĨ  QUAN VNCH CẢI ĐẠO ĐỂ TIẾN THÂN</a> &nbsp;(Nguyên Giác dịch)</p>
+<p>» &nbsp;<a href="/TONGIAO/tgT/Tamdieu02">PHẬT GIÁO VÀ  CUỘC CHÍNH BIẾN 1-11-1963</a>&nbsp;(Tâm Diệu giới thiệu) </p>
 <p>» &nbsp;<a href="https://thuvienhoasen.org/p60a17701/2/phuc-trinh-a-5630-da-ket-luan-nhu-the-nao">PHÚC TRÌNH  A/5630 ĐÃ KẾT LUẬN NHƯ THẾ NÀO?</a>&nbsp;(Tâm Diệu và Nguyễn Kha) </p>
 <p>» &nbsp;<a href="https://thuvienhoasen.org/p60a17399/2/tan-cong-hoa-hoc-o-hue">TẤN CÔNG HÓA HỌC  Ở HUẾ</a>&nbsp;(Tâm Diệu dịch)</p>
 <p>» &nbsp;<a href="https://thuvienhoasen.org/p60a17490/2/the-pentagon-papers-bien-dong-phat-giao-tu-ngay-8-5-toi-21-8-1963">THE PENTAGON  PAPERS: BIẾN ĐỘNG PHẬT GIÁO Từ Ngày 8-5 Tới 21-8-1963</a>&nbsp;(Nguyên  Giác dịch)</p>

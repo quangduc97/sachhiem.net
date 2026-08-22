@@ -2,13 +2,13 @@
 layout: ../../../layouts/Article.astro
 title: "Họ và Chúng Ta"
 author: "Nguyễn Mạnh Quang"
-source: "https://sachhiem.net/NMQ/HOVATA/NMQhvt-1.php"
+source: "/NMQ/HOVATA/NMQhvt-1"
 lang: vi
 wordCount: 7802
-image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nha.jpg"
+image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/print.gif"
 ---
 
-<p align="center"><a href="https://www.sachhiem.net/"> <img border="0" src="https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nha.jpg"></a> | <a target="_blank" href="/NMQ/HOVATA/NMQhvt-1"> <img border="0" src="https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/print.gif" width="18" height="18"> </a>bản in |<a target="_top" href="/NMQ/HOVATA/NMQhvtCover"><font face="Symbol" size="5"><b>¿</b></font> trở ra mục lục </a> | 29Dec08</p>
+<p align="center"> | <a target="_blank" href="/NMQ/HOVATA/NMQhvt-1"> <img border="0" src="https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/print.gif" width="18" height="18"> </a>bản in |<a target="_top" href="/NMQ/HOVATA/NMQhvtCover"><font face="Symbol" size="5"><b>¿</b></font> trở ra mục lục </a> | 29Dec08</p>
           <p><span class="First">N</span>hân đọc bài viết “<i>Cần thẩm định lại giá  trị của Ông Ngô Đình Diệm &amp; nền Đệ nhứt Cộng Hòa</i>” của ông Tôn  Thất Thiện, đăng trên Tờ "<i>Người Việt Boston</i>" – Ngày 15/11/2008,  người viết có quyết định viết tập sách nhỏ này với chủ đích:</p>
           <p>1.- Nêu lên một số điều khác nhau trong  nếp sống văn hóa giữa một bên là tuyệt đại khối nhân dân thuộc  tam giáo cổ truyền của dân tộc và một bên là nhóm thiểu số tín  đồ Ki-tô. Nêu lên những điều khác nhau này, người viết hy vọng  quý vị có thể dựa vào đó để giải đáp những thắc mắc TẠI SAO  cùng một sư kiện lịch sử mà chúng ta giải thích hay diễn dịch  theo chiều đúng như sự thật đã xẩy ra trong lịch sử, nhưng tín  hữu Ca-tô ngoan đạo lại giải thích hay diễn dịch theo chiều  ngược lại, hoàn toàn khác với chúng ta.</p>
           <p>2.- Nói rõ những điểm cốt lõi giống nhau  trong chuyện Cưới Vợ Cho Hà Bá trong vùng  ven sông Chương Hà ở Trung Hoa  trong thời Chiến Quốc và Nhà Thờ Vatican.</p>

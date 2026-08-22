@@ -5,7 +5,7 @@ author: "Trần Chung Ngọc"
 source: "https://atheism.about.com/od/bibledictionaryonline/p/blessblessing.htm"
 lang: vi
 wordCount: 7783
-image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nha.jpg"
+image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/TONGIAO/IMG/BGGIAO/DHYEtchegaray_NamThanh.jpg"
 ---
 
 <div align="center" style="position: relative; left: 0; top: 0">
@@ -25,8 +25,7 @@ image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nha.jpg"
 <tr><td width="100%">
 <div style="padding-left: 50px; padding-right: 50px"> 
 	<table border="0" cellpadding="1" width="86%" cols="2"><tbody><tr>
-	<td><a href="https://www.sachhiem.net/">
-	<img border="0" src="https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nha.jpg"></a></td>
+	<td></td>
 <td valign="top" width="210"><p>16 tháng 12,  2009</p></td></tr></tbody></table>
 		<p><i>LTS: Người Công Giáo quen sống hàng ngày với những nghi thức có tính cách "trình diễn": lễ misa, lễ rửa tội, lễ thêm sức, bí tích giải tội,...  cho nên dần dà mất đi tác dụng nội tâm đáng lẽ phải có.  Đàng sau và bên trong các nghi thức, người ta không dễ tìm thấy một  sự thành khẩn thật tâm, mà chỉ là những toan tính mà thôi. Bí tích "giải tội" về mặt tốt nhất của nó là để tín hữu xét lại lỗi lầm của mình. Nhưng cách thể hiện của nó đã tạo ra phản ứng ngược lại vì chỉ là "xin lỗi với Chúa", khỏi bận tâm với nạn nhân nào cả. Người đi "xưng tội" chỉ cần đọc các kinh mà ông linh mục ngồi trong tòa giải tội đã "cho toa", đọc xong là sẽ hết tội, và được ăn bánh "thánh". Vì luyện mỗi ngày như thế, nên việc "xin lỗi" của tín hữu Công giáo chỉ có bề dày của một miếng da bị chai cứng, không có nổi một xúc giác. Sau buổi lễ thì đâu lại hoàn vào đó, vì không có chương trình hành động nào để chứng minh hay thực hiện việc xin lỗi cả. Có chăng là "bỏ quên tội lỗi xưa" để tiếp tục chương trình mới, tinh vi hơn xưa. Đã thế, trong giờ hành lễ, chủ tế cũng không thể đóng nổi vai một kịch sĩ, một đào thương, bởi vì lời lẽ không những gượng gạo, mà còn lếu láo và có phần xấc xược. Mời bạn đọc xem bài phân tích của Giáo Sư Trần Chung Ngọc sau đây.</i></p>
 		<hr>

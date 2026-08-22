@@ -3,7 +3,7 @@ layout: ../../layouts/Article.astro
 title: "Tranh Phật Giáo Qua Cách Nhìn Nghệ Thuật Đảo Ngược Upsidedownism"
 author: "Rev. Thich Tri Hoang"
 date: 2017-09-28
-source: "https://sachhiem.net/VANHOC/Daigiang04_tranhPG.php"
+source: "/VANHOC/Daigiang04_tranhPG"
 category: "Văn hóa"
 lang: vi
 wordCount: 2081

@@ -2,17 +2,17 @@
 layout: ../../../layouts/Article.astro
 title: "Tâm Thư Gửi Nhà Nước Việt Nam"
 author: "Nguyễn Mạnh Quang"
-source: "https://sachhiem.net/NMQ/TAMTHU/NMQtt_15.php"
+source: "/NMQ/TAMTHU/NMQtt_15"
 lang: vi
 wordCount: 9252
-image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nha.jpg"
+image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/print.gif"
 ---
 
-<p align="center"><a href="https://www.sachhiem.net/"> <img border="0" src="https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nha.jpg"></a> | 
-<a target="_blank" href="https://sachhiem.net/NMQ/TAMTHU/NMQtt_15.php">
+<p align="center"> | 
+<a target="_blank" href="/NMQ/TAMTHU/NMQtt_15">
 <img border="0" src="https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/print.gif" width="18" height="18"> 
   bản in</a> | 
-	<a target="_blank" href="https://sachhiem.net/NMQ/TAMTHU/NMQtt_Main.php"><b><font face="Symbol" size="5"> ¿ </font></b> trở ra mục lục</a>
+	<a target="_blank" href="/NMQ/TAMTHU/NMQtt_Main"><b><font face="Symbol" size="5"> ¿ </font></b> trở ra mục lục</a>
  |   05 tháng 8, 2010</p>
  
 <p class="CHUONG">PHẦN III</p>
@@ -22,7 +22,7 @@ image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nha.jpg"
 <p class="MUC">Kế Sách Vatican Xâm Nhập Vào Giai Cấp Lãnh Đạo Nước Anh </p>
 <p> và Cuộc Chiến Chống Vatican Của Người Anh </p>
 <p class="center">&nbsp; 1
-<a target="_blank" href="https://sachhiem.net/NMQ/TAMTHU/NMQtt_15a.php"> <b> &nbsp; 2 </b> </a> </p>
+<a target="_blank" href="/NMQ/TAMTHU/NMQtt_15a"> <b> &nbsp; 2 </b> </a> </p>
 
 <div style="border-top: 1px solid #949494; border-bottom: 1px solid #949494; padding-top: 8px; padding-bottom: 8px; background-color: #F1F1F3">
 	<p class="TuaDenLeft">Các bài trong chương 15:</p>
@@ -621,7 +621,7 @@ khác mẹ được đưa lến kế vị. Sách sử gọi bà là Nữ Hoàng 
 Bà ở ngôi đến ngày 24/3/603 thì qua đời.</p>
 
 <p class="nguonL">(xem tiếp mục VI:</p>
-<p><a target="_blank" href="https://sachhiem.net/NMQ/TAMTHU/NMQtt_15a.php"> Vấn Đề Tôn Giáo Trong Thời Nữ Hoàng Elizabeth (1558-1603)</a></p>
+<p><a target="_blank" href="/NMQ/TAMTHU/NMQtt_15a"> Vấn Đề Tôn Giáo Trong Thời Nữ Hoàng Elizabeth (1558-1603)</a></p>
 
 
 

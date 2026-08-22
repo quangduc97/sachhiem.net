@@ -3,16 +3,16 @@ layout: ../../../layouts/Article.astro
 title: "Từ Đinh Công Tráng đến Trần Lục"
 author: "Đinh Viết Bảo và Nguyễn Ngọc Quỳ"
 date: 2012-12-24
-source: "https://sachhiem.net/LICHSU/D/DinhVtBao.php"
+source: "/LICHSU/D/DinhVtBao"
 category: "Lịch sử"
 lang: vi
 wordCount: 1866
-image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nha.jpg"
+image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/LICHSU/IMG/tranluc01.jpg"
 ---
 
 <table border="0" cellpadding="0" width="250" align="center">
             <tbody><tr>
-              <td width="125"> <a href="/index"><img border="0" src="https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nha.jpg"></a>  </td>
+              <td width="125">   </td>
               <td valign="middle">24-Dec-2012</td>
             </tr>
           </tbody></table>

@@ -2,17 +2,16 @@
 layout: ../../../layouts/Article.astro
 title: "MỘT SỐ NHỮNG SAI LẦM TRẦM TRỌNG TRONG"
 author: "Nguyễn Mạnh Quang"
-source: "https://sachhiem.net/NMQ/LEXKHOA/NMQ2.php"
+source: "/NMQ/LEXKHOA/NMQ2"
 category: "Lịch sử"
 lang: vi
 wordCount: 13931
-image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nha.jpg"
 ---
 
 <p class="Tuaduoi">CUỐN VIỆT NAM 1945-1995 CỦA TÁC GIẢ LÊ XUÂN KHOA</p>
 		
 
-<p align="center"><a href="https://sachhiem.net/index.php"><img border="0" hspace="20" src="https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nha.jpg"></a> 23 tháng 5, 2008 </p>
+<p align="center"> 23 tháng 5, 2008 </p>
 <p><a href="/NMQ/LEXKHOA/NMQ1">1 </a>  <a href="/NMQ/LEXKHOA/NMQ2"> 2 </a>  </p>
 
 			

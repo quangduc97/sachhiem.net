@@ -3,18 +3,17 @@ layout: ../../layouts/Article.astro
 title: "Bước Mở Đầu Của Sự Thiết Lập Hệ Thống Thuộc Địa Pháp Ở Việt Nam"
 author: "TS Nguyễn Xuân Thọ"
 date: 2023-02-13
-source: "https://sachhiem.net/NGXUANTHO/BuocMoDau_11.php"
+source: "/NGXUANTHO/BuocMoDau_11"
 category: "Lịch sử"
 lang: vi
 wordCount: 9675
-image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nha.jpg"
+image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/sqdot.gif"
 ---
 
 <p class="Tuaduoi"><b>Phản Ứng Của Quốc Tế</b></p>
 
 
-  <p align="center"><a href="https://www.sachhiem.net/">
-<img border="0" src="https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nha.jpg"></a>| <a target="_blank" href="https://sachhiem.net/NGXUANTHO/BuocMoDau_Main.php"><span lang="en-us"><b><font face="Symbol">¿</font></b></span> trở ra mục lục</a>| 13-Feb-2023</p> 
+  <p align="center">| <a target="_blank" href="/NGXUANTHO/BuocMoDau_Main"><span lang="en-us"><b><font face="Symbol">¿</font></b></span> trở ra mục lục</a>| 13-Feb-2023</p> 
 <p class="TuaDoLeft"><b>Chương 10 -&nbsp;Sau Hiệp Ước 1874 Những Phản Ứng  Của Quốc Tế Và Của Việt Nam</b></p>
 <p>Hiệp ước, ký kết giữa Pháp và Việt Nam, ngày 15/3/1874 gây ra nhiều phản ứng khác nhau. Nó chứa đựng nhiều điểm mâu thuẫn.</p>
 <p>Người đầu tiên chỉ trích bản hiệp ước là Krantz, người kế vị Đô đốc Dupré.</p>

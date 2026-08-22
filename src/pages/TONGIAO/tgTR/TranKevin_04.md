@@ -3,17 +3,17 @@ layout: ../../../layouts/Article.astro
 title: "Giáo Hoàng Francis Thay Đổi “Kinh Lạy Cha”"
 author: "Kevin Trần"
 date: 2019-06-07
-source: "https://sachhiem.net/TONGIAO/tgTR/TranKevin_04.php"
+source: "/TONGIAO/tgTR/TranKevin_04"
 category: "Tác giả"
 lang: vi
 wordCount: 1583
-image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nha.jpg"
+image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/TONGIAO/IMG/VATICAN/POPE/Francis_05Jun2019.JPG"
 ---
 
 <p class="Tuaduoi"><b> Để Con Chiên Khỏi Phỉ Báng Thiên Chúa </b></p>
   
   
-  <p align="center"><a href="https://www.sachhiem.net/"> <img border="0" src="https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nha.jpg"></a> ngày 07-Jun-2019</p>
+  <p align="center"> ngày 07-Jun-2019</p>
   <p><b>Giáo  hoàng Francis thay đổi (một câu trong) “<i>Kinh  Lạy Cha</i>”: </b></p>
   <p><span class="First">V</span>ị Chủ chăn Giáo hội Công giáo La Mã thay đổi câu kinh “<i>đừng dẫn chúng con vào chước cám dỗ</i>” sau  khi nói rằng câu kinh như thế đã hàm ý rằng Chúa có thể dẫn con chiên đi lạc đường.  </p>
   <p class="indent50">[Pope Francis changes Lord's Prayer: Head of Catholic church changes <i>'lead us not into temptation</i>' line after  saying it implies that God can lead followers astray]. </p>
@@ -44,7 +44,7 @@ image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nha.jpg"
 <p><i>Trí Tánh Đỗ  Hữu Tài dịch từ</i></p>
 <p><b>Beyond Belief - A Buddhist Critique of  Fundamentalist Christianity</b><br>
   <i>của A.L. de Silva</i></p>
-<p><a href="https://sachhiem.net/SACHNGOAI/BEYOND/BYDBLF06.php">https://sachhiem.net/SACHNGOAI/BEYOND/BYDBLF06.php</a></p>
+<p><a href="/SACHNGOAI/BEYOND/BYDBLF06">https://sachhiem.net/SACHNGOAI/BEYOND/BYDBLF06.php</a></p>
 <p>  (trích)</p>
 <div class="indent50">
   <p><strong>Việc thay đổi Kinh Lạy Cha</strong><b> </b></p>

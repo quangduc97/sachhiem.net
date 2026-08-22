@@ -3,7 +3,7 @@ layout: ../../../layouts/Article.astro
 title: "Đường Đến Thủ Đô Hoa Kỳ Phải Qua Seattle"
 author: "Howard Nguyễn"
 date: 2015-09-27
-source: "https://sachhiem.net/THOISU_CT/ChuH/HowardNguyen03.php"
+source: "/THOISU_CT/ChuH/HowardNguyen03"
 category: "Chính trị"
 lang: vi
 wordCount: 938

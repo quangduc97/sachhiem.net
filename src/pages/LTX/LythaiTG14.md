@@ -3,14 +3,14 @@ layout: ../../layouts/Article.astro
 title: "Ủy Ban LHQ Chống Tra Tấn (UNCAT) Đã Nhảy Vào Cuộc"
 author: "Lý Thái"
 date: 2014-09-23
-source: "https://sachhiem.net/LTX/LyThaiTG14.php"
+source: "/LTX/LyThaiTG14"
 category: "Tác giả"
 lang: vi
 wordCount: 562
 image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/TONGIAO/IMG/TINHDUC/ITCCS.JPG"
 ---
 
-<p><span class="First">T</span>oà án tội phạm quốc tế ITCCS không  phải là tổ chức duy nhất tố cáo <a href="https://sachhiem.net/LTX/LyThaiTS10.php">Vatican là một tổ chức tội phạm quốc tế</a>,</p>
+<p><span class="First">T</span>oà án tội phạm quốc tế ITCCS không  phải là tổ chức duy nhất tố cáo <a href="/LTX/LyThaiTS10">Vatican là một tổ chức tội phạm quốc tế</a>,</p>
 <p align="center"><img src="https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/TONGIAO/IMG/TINHDUC/ITCCS.JPG" width="450" height="167"></p>
 <p> mà ngay cả Liên Hiệp  Quốc (UN), thuộc ủy ban chống tra tấn (UNCAT) đã nhảy vào cuộc để tiến hành  điều tra các hành động tội ác của tổ chức này.</p>
 <p>Báo cáo của ủy ban này  (UNCAT) tin rằng có sự tra tấn liên tục trong số các giáo sĩ và linh mục của giáo hội  Vatican. </p>

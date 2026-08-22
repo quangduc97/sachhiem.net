@@ -3,7 +3,7 @@ layout: ../../../layouts/Article.astro
 title: "\"Xe Ma Túy” (Dope Mobile):"
 author: "Enrique Castro-Mendivil/ Reuters"
 date: 2014-09-18
-source: "https://sachhiem.net/XAHOI/T/TinHaiAu.php"
+source: "/XAHOI/T/TinHaiAu"
 category: "Chính trị"
 lang: vi
 wordCount: 448

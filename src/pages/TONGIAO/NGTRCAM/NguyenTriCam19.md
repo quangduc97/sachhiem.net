@@ -2,17 +2,16 @@
 layout: ../../../layouts/Article.astro
 title: "Ăn theo world cup (Nguyễn Trí Cảm)"
 author: "Nguyễn Trí Cảm"
-source: "https://sachhiem.net/TONGIAO/NGTRCAM/NguyenTriCam19.php"
+source: "/TONGIAO/NGTRCAM/NguyenTriCam19"
 category: "Tác giả"
 lang: vi
 wordCount: 703
-image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nha.jpg"
+image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/IMG/TINLANH/Worldcup.jpg"
 ---
 
 <table border="0" cellpadding="0" width="250" align="center"><tbody><tr>
 				<td width="125">
-				<a href="/index">
-				<img border="0" src="https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nha.jpg"></a></td>
+				</td>
 	<td valign="top">02 tháng 7, 2010	</td></tr></tbody></table>
 			<p><span class="First">G</span>iải vô địch bóng đá thế giới đã chuẩn bị cho vòng tứ kết. Hàng triệu tín đồ “túc cầu giáo” trên khắp thế giới hồi hộp nhìn quả bóng lăn trên sân cỏ, buồn vui theo từng trận bóng của đội mà mình ưa thích. Bóng đá là môn thể thao “vua” đặc biệt được ưa thích tại Việt Nam. Các báo ngày hay tạp chí có bài bình luận về các trận đấu vừa diễn ra hay sắp diễn ra đều thường tăng số lượng phát hành để đáp ứng nhu cầu của độc giả. Ngoài những ấn phẩm xuất bản theo định kỳ, trong mùa World cup cũng xuất hiện các bản phụ trương hay tin nhanh thể thao để phục vụ các “fan” hâm mộ. Nói chung những ấn phẩm nào có liên quan đến bóng đá đều được hưởng ứng nhiệt tình. </p>
 			<p>Nắm được yếu tố tâm lý này, các nhóm Tin lành ở Việt Nam cũng tung ra một tập sách mỏng  được in ấn rất đẹp để phát không cho mọi người. Hình ảnh trang bìa của tập sách mỏng này là hình ảnh các cầu thủ và ngôn ngữ của bóng đá nhưng nội dung của tập sách này không phải là nói về bóng đá mà là kinh thánh, lồng ghép một số hình ảnh liên quan đến bóng đá.</p>

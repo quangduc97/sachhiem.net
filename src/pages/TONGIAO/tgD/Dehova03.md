@@ -3,7 +3,7 @@ layout: ../../../layouts/Article.astro
 title: "Mảnh Giấy Cói Cổ Gợi Ý -"
 author: "Dê Hô Va chuyển ngữ"
 date: 2012-09-26
-source: "https://sachhiem.net/TONGIAO/tgD/Dehova03.php"
+source: "/TONGIAO/tgD/Dehova03"
 category: "Tác giả"
 lang: vi
 wordCount: 4160

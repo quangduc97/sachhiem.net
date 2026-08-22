@@ -3,7 +3,7 @@ layout: ../../../layouts/Article.astro
 title: "Hội Thánh Duy Nhất"
 author: "Diệm Ngô/ FB"
 date: 2019-03-05
-source: "https://sachhiem.net/TONGIAO/FB/FBDiemNgo.php"
+source: "/TONGIAO/FB/FBDiemNgo"
 category: "Chính trị"
 lang: vi
 wordCount: 588

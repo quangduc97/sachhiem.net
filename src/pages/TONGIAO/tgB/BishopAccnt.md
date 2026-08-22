@@ -3,7 +3,7 @@ layout: ../../../layouts/Article.astro
 title: "Bảo Vệ Phá Sản Trong Cuộc Khủng Hoảng Lạm Dụng Tình Dục"
 author: "Bishop Accountability/Nguyễn Tấn"
 date: 2012-03-27
-source: "https://sachhiem.net/TONGIAO/tgB/BishopAccnt.php"
+source: "/TONGIAO/tgB/BishopAccnt"
 category: "Tác giả"
 lang: vi
 wordCount: 4300

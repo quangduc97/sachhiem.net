@@ -2,7 +2,7 @@
 layout: ../../../layouts/Article.astro
 title: "Một nửa sự thực trong chai rượu chát"
 author: "NgyThanh"
-source: "https://sachhiem.net/null"
+source: "/null"
 category: "Tác giả"
 lang: vi
 wordCount: 10257

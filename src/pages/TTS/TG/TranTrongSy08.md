@@ -3,7 +3,7 @@ layout: ../../../layouts/Article.astro
 title: "CHÙA BA VÀNG : Ma Chết Đáng Sợ Hơn Ma Sống ?"
 author: "Trần Trọng Sỹ"
 date: 2019-04-04
-source: "https://sachhiem.net/TTS/TG/TranTrongSy08.php"
+source: "/TTS/TG/TranTrongSy08"
 category: "Tác giả"
 lang: vi
 wordCount: 11775
@@ -178,7 +178,7 @@ Có những clip youtube thậm chí còn ghi hàng tít lớn rằng TBT chủ 
 <p>    Đã là đệ tử Phật, thầy Trúc Thái Minh sau một thời gian <i>bị vong nhập</i>, có  lẽ đã thức tỉnh nhờ cái tát khá nẩy lửa này, mong rằng nó sẽ không làm thầy nhụt  chí, mà còn khiến thầy kiên cường hơn, vững tâm hơn để bước theo đường đạo, đại  trượng phu khiêng lên được thì bỏ xuống được. Đây cũng là cơ hội để Phât giáo  miền Bắc rũ bỏ bớt các hình thức mê tín. Điều tôi mong, là qua tấm gương của thầy,  giáo hội PG sẽ có quy chế nghiêm khắc hơn đối với các chùa, các kinh sư lễ đám,  các dịch vụ tôn giáo, không được ra giá bằng tiền và cấm hẳn tu sĩ có xe riêng,  còn xe máy và điện thoại thì phải hạn chế không được mua các loại quá sang chảnh,  mắt kiến thì cấm mark Rayban mà người tu đeo nhìn rất thế tục...</p>
 <a name="end7" href="/TTS/#7"><p class="TuaDoLeft"><strong>VI – Tại sao phải ưu đãi Công giáo đến gần như khiếp sợ ?</strong></p></a>
 <p>    Sau cuộc Cách Mạng 1963 lật đổ triều đại Công giáo trị Ngô Đình Diệm, đường  Alexandre de Rhodes tại Sài Gòn bị nhân dân miền Nam tháo bỏ, nhưng cố thủ tướng  Võ Văn Kiệt, nhân một chuyến công du ở Pháp, gặp riêng ông Hoàng Xuân Hãn, trở  về nước, chỉ một ngày, đường Thái Văn Lung bị đổi tên thành đường Alexandre de  Rhodes qua khẩu lệnh của ông Kiệt. Đường này rất gần nhà thờ Đức Bà Sài Gòn,  bên cạnh cũng có tượng đài vinh danh Pétrus Ký mà theo tài liệu vừa được phát  hiện mới nhất của sử gia Vũ Ngự Chiêu thì Trương Vĩnh Ký có gửi một lá thư cho  Trung Tá hải quân Pháp yêu cầu ông mang quân sớm đến tiêu diệt <i>kẻ thù,</i> kẻ  thù mà Pháp đến VN tiêu diệt dĩ nhiên không ai khác hơn là nhân dân và kháng  chiến VN. Sự kiện đang được một số bài viết phản biện, cho rằng tài liệu của Vũ  Ngự Chiêu nói về một người tên Pétrus Key chứ không phải Pétrus Ký, và theo họ  hai ông Key và Ký là hai người hoàn toàn khác biệt. Nhưng Wikipedia tiếng Pháp  thì minh nhiên xác nhận <b>Pétrus Key tức là Pétrus Ký</b>.</p>
-<p>  Hiện nay, sách vở tôn vinh Pétrus Ký in nhan nhản tại VN, có cả các tượng đài ở nhiều nơi <a href="https://nghethuatxua.com/nhung-buc-tuong-ong-petrus-ky/"> (bài liên hệ)</a>, xem ông là thiên tài,  bác học, là kẻ đại ân của đất nước trong công cuộc xây dựng và làm phát triển  chữ quốc ngữ. (đọc thêm bài <a href="https://sachhiem.net/TTS/VH/TranTrongSy.php"><strong><i>Quốc Ngữ, nỗi trăn trở</i></strong></a> của tác giả).</p>
+<p>  Hiện nay, sách vở tôn vinh Pétrus Ký in nhan nhản tại VN, có cả các tượng đài ở nhiều nơi <a href="https://nghethuatxua.com/nhung-buc-tuong-ong-petrus-ky/"> (bài liên hệ)</a>, xem ông là thiên tài,  bác học, là kẻ đại ân của đất nước trong công cuộc xây dựng và làm phát triển  chữ quốc ngữ. (đọc thêm bài <a href="/TTS/VH/TranTrongSy"><strong><i>Quốc Ngữ, nỗi trăn trở</i></strong></a> của tác giả).</p>
 <p>  Trước 1975, linh mục Trương Bửu Diệp (TBD) cũng ít được tôn vinh, thì nay, có tượng  đài, có đền thờ, có bia ký,&nbsp; có sách báo  và các trang mạng tung hô để người dân tụ về cầu khấn những phép lạ được đồn thổi.  Theo wikipedia thì TBD bị Việt Minh giết. Vậy, một là TBD làm tay sai cho Pháp  nên bị VM thủ tiêu, hai là VM giết TBD vì bản chất khát máu tàn ác chỉ muốn  tiêu diệt Công Giáo của VN như các linh mục thường nói ? </p>
 <p align="center"><img src="https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/LICHSU/IMG/ALEX/DuongAlex_tpHCM.jpg" width="40%" alt=""> <img src="https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/LICHSU/IMG/PETRUSKY/DCV_thanhGiuse_dgTonDucThang_Q1.JPG" width="25%" alt=""><img src="https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/TONGIAO/IMG/LINHMUC/TruongBuuDiep_nhathoTacSay.JPG" width="35%" alt=""></p>
 <p align="center"><i>Tên đường <a href="https://hello-saigon.com/page/143/">Alexandre De Rhodes</a> - Tượng Pestrus Ký - Tượng LM Trương Bửu Diệp tại nhà Thờ Tắc Sậy</i></p>
@@ -217,4 +217,4 @@ Có những clip youtube thậm chí còn ghi hàng tít lớn rằng TBT chủ 
 <p>    Tóm lại, trong cái rủi ta lại thấy quá may mắn.</p>
 <p class="TacgiaL">Trần Trọng Sỹ</p>
  <p>___________________ </p>
- <p>Các bài của Trần Trọng Sỹ: link <a href="https://sachhiem.net/TTS/ListTTS.inc.php" target="_blank">https://sachhiem.net/TTS/ListTTS.inc.php</a></p>
+ <p>Các bài của Trần Trọng Sỹ: link <a href="/TTS/ListTTS.inc" target="_blank">https://sachhiem.net/TTS/ListTTS.inc.php</a></p>

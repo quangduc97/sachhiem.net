@@ -3,7 +3,7 @@ layout: ../../../layouts/Article.astro
 title: "Viết Mà Chơi :"
 author: "Trần Chung Ngọc"
 date: 2012-09-24
-source: "https://sachhiem.net/index.php?content=showrecipe&id=5399"
+source: "/TCN/TCNts/TCNts060"
 category: "Chính trị"
 lang: vi
 wordCount: 8422

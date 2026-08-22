@@ -2,7 +2,7 @@
 layout: ../../../layouts/Article.astro
 title: "Ðầu hàng?"
 author: "Trịnh Bá Lộc"
-source: "https://sachhiem.net/Tổng Thống Dương Văn Minh, vị tổng thống cuối cùng của Việt Nam Cộng Hòa"
+source: "/Tổng Thống Dương Văn Minh, vị tổng thống cuối cùng của Việt Nam Cộng Hòa"
 category: "Lịch sử"
 lang: vi
 wordCount: 7877

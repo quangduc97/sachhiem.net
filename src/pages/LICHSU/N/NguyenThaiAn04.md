@@ -3,7 +3,7 @@ layout: ../../../layouts/Article.astro
 title: "Ngắn Gọn Về Thầy Thông Ngôn Trương Vĩnh Ký"
 author: "Nguyễn Thái An"
 date: 2014-08-11
-source: "https://sachhiem.net/LICHSU/N/NguyenThaiAn04.php"
+source: "/LICHSU/N/NguyenThaiAn04"
 category: "Lịch sử"
 lang: vi
 wordCount: 1573
@@ -13,7 +13,7 @@ image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/LICHSU/IMG/NHANVAT/K
 <p><i>LTS: Thỉnh thoảng trên siêu chợ mạng lại có trưng bày một sản phẩm "sính Tây". Sính Tây có nhiều cách, như sính nhạc cổ điển, sính thời trang thanh lịch, sính điện ảnh,... chẳng có gì là tội cả. Nhưng có loại sính   những người  hoạt động đắc lực cho Tây, nói một cách không đẹp là "nô lệ", đó mới là chuyện. Thời Pháp, giới "thầy thông ngôn" là một trong những giới quan chức có nhiều "điều kiện tốt" để làm "nhiều việc xấu" với dân tộc đàng sau những thành tích "mở mang khai trí". Việc vinh danh những người này, ngoài thế lực, dòng dõi, gia tộc, còn được tăng cường bởi những người có liên hệ tinh thần như học sinh của trường hay đồng đạo với họ, hoặc những "nhà nghiên cứu" trong hoàn cảnh không đủ sách vở, tài liệu. </i></p>
 <p align="center"><img src="https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/LICHSU/IMG/NHANVAT/KhanhthanhtuongPKy.jpg" width="450" height="340" longdesc="https://www.chuacuuthe.com/2014/08/petrus-truong-vinh-ky/"><br><i>Phải chăng người Pháp là quan khách chính<br>
 trong lễ khánh thành tượng Pétrus Ký?</i></p>
-<p><i>Ngày nay với phương tiện tiếp cận các dữ liệu dễ dàng, tác giả Bùi Kha đã lên tiếng xác nhận và chứng minh những trường hợp Việt gian bằng những bài viết bất khả phủ bác <a name="st" href="/LICHSU/#nst">(*)</a>. Nhưng  số người lợi dụng những từ ngữ  "đổi mới", "hòa giải" để tân trang các hình tượng này đương nhiên là không ít, vì những lý do kể trên. Trở về tình trạng ảnh hưởng thế lực thời  thuộc địa chăng?   Dù sao cũng có người không thể im lặng được nữa.  Và đây là trường hợp Giáo sư sử học Nguyễn Thái An (xin xem tiểu sử ở bài "<a href="https://sachhiem.net/LICHSU/N/NguyenThaiAn.php">Hành Trình Đi Tìm Ông Trương Vĩnh Ký</a>"). Ông gửi ra bài viết ngắn gọn này sau khi đọc bài  <a href="https://www.chuacuuthe.com/2014/08/petrus-truong-vinh-ky/">Pétrus Trương Vĩnh Ký</a> gửi ra diễn đàn thư tín. (SH)</i></p>
+<p><i>Ngày nay với phương tiện tiếp cận các dữ liệu dễ dàng, tác giả Bùi Kha đã lên tiếng xác nhận và chứng minh những trường hợp Việt gian bằng những bài viết bất khả phủ bác <a name="st" href="/LICHSU/#nst">(*)</a>. Nhưng  số người lợi dụng những từ ngữ  "đổi mới", "hòa giải" để tân trang các hình tượng này đương nhiên là không ít, vì những lý do kể trên. Trở về tình trạng ảnh hưởng thế lực thời  thuộc địa chăng?   Dù sao cũng có người không thể im lặng được nữa.  Và đây là trường hợp Giáo sư sử học Nguyễn Thái An (xin xem tiểu sử ở bài "<a href="/LICHSU/N/NguyenThaiAn">Hành Trình Đi Tìm Ông Trương Vĩnh Ký</a>"). Ông gửi ra bài viết ngắn gọn này sau khi đọc bài  <a href="https://www.chuacuuthe.com/2014/08/petrus-truong-vinh-ky/">Pétrus Trương Vĩnh Ký</a> gửi ra diễn đàn thư tín. (SH)</i></p>
 <hr>
 <p align="center">
   <img src="https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/LICHSU/IMG/Hientai.JPG" width="100%"></p>
@@ -78,24 +78,24 @@ Bò xối, côn trùng chắt lưỡi hoài.<br>
 	<p> <a name="nst" href="/LICHSU/#st">(*)</a></p>
 	<p><b>Mời đọc các bài đối luận về Trương Vĩnh Ký:</b></p>
        <p>- Trương Vĩnh Ký Phản Bội Tổ Quốc, Sao Lại Gọi Là Yêu Nước? (Bùi Kha)
-<a href="https://sachhiem.net/BUIKHA/BuiKha25b_TVK.php">https://sachhiem.net/BUIKHA/BuiKha25b_TVK.php</a> </p>
+<a href="/BUIKHA/BuiKha25b_TVK">https://sachhiem.net/BUIKHA/BuiKha25b_TVK.php</a> </p>
     <p>- Hành Trình Đi Tìm Ông Trương Vĩnh Ký Nguyễn Thái An)<br>
-<a href="https://sachhiem.net/LICHSU/N/NguyenThaiAn.php">https://sachhiem.net/LICHSU/N/NguyenThaiAn.php</a></p>
+<a href="/LICHSU/N/NguyenThaiAn">https://sachhiem.net/LICHSU/N/NguyenThaiAn.php</a></p>
    <p>- Đắc Lộ, Trương Vĩnh Ký &amp; Chữ Quốc Ngữ của Tác Giả Minh Vân (Bùi Kha)
-<a href="https://sachhiem.net/BUIKHA/BuiKha25a.php">https://sachhiem.net/BUIKHA/BuiKha25a.php</a></p>
+<a href="/BUIKHA/BuiKha25a">https://sachhiem.net/BUIKHA/BuiKha25a.php</a></p>
    <p>- Ngắn Gọn Về Thầy Thông Ngôn Trương Vĩnh Ký (Nguyễn Thái An)
-<a href="https://sachhiem.net/LICHSU/N/NguyenThaiAn04.php">https://sachhiem.net/LICHSU/N/NguyenThaiAn04.php</a></p>
+<a href="/LICHSU/N/NguyenThaiAn04">https://sachhiem.net/LICHSU/N/NguyenThaiAn04.php</a></p>
    <p>- Trương Vĩnh Ký, Yêu Nước? Đối Luận với ông Trần Hữu Tá (Bùi Kha)
-<a href="https://sachhiem.net/BUIKHA/BuiKha19.php">https://sachhiem.net/BUIKHA/BuiKha19.php</a></p>
+<a href="/BUIKHA/BuiKha19">https://sachhiem.net/BUIKHA/BuiKha19.php</a></p>
    <p>- Lá Thư (1) Gửi Quí Vị Cựu Giáo Sư Và Học Sinh Trường Kiểu Mẫu Thủ Đức Hiền tài hay Việt gian? (Nguyễn Mạnh Quang)
-<a href="https://sachhiem.net/NMQ/NMQ011.php">https://sachhiem.net/NMQ/NMQ011.php</a></p>
+<a href="/NMQ/NMQ011">https://sachhiem.net/NMQ/NMQ011.php</a></p>
    <p>- Đổi Mới Sử Học Không Có Nghĩa Là Tô Đen Thành Trắng (BS. Nguyễn Văn Thịnh)
-<a href="https://sachhiem.net/VANHOC/N/NguyenvThinh_05.php">https://sachhiem.net/VANHOC/N/NguyenvThinh_05.php</a></p>
+<a href="/VANHOC/N/NguyenvThinh_05">https://sachhiem.net/VANHOC/N/NguyenvThinh_05.php</a></p>
 	<p>- <a href="https://tongiaovadantoc.com/c1036/20111215150243321/truong-vinh-ky-phan-boi-to-quoc-sao-lai-goi-la-yeu-nuoc-bui-kha.htm">"Trương Vĩnh Ký phản bội Tổ quốc, sao lại gọi là yêu nước ?"</a>  </p>
     <p>___________________ </p>
     <p>Thư của học sinh gửi Thầy An:</p>
-    <p>- <a href="https://sachhiem.net/index.php?content=showemail&amp;id=3553">Bây giờ mới thấy đúng</a> (Trinh Nữ Kiếm) - thư ngày 17 tháng 7, 2022<br>
+    <p>- <a href="/hop-thu/3553">Bây giờ mới thấy đúng</a> (Trinh Nữ Kiếm) - thư ngày 17 tháng 7, 2022<br>
       ___________________
     </p>
-    <p>Các bài của GS sử học Nguyễn Thái An: link <a href="https://sachhiem.net/LICHSU/N/ListNTA.inc.php" target="_blank">https://sachhiem.net/LICHSU/N/ListNTA.inc.php</a></p>
+    <p>Các bài của GS sử học Nguyễn Thái An: link <a href="/LICHSU/N/ListNTA.inc" target="_blank">https://sachhiem.net/LICHSU/N/ListNTA.inc.php</a></p>
   <hr>

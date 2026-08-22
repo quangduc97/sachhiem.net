@@ -3,7 +3,7 @@ layout: ../../layouts/Article.astro
 title: "Covid-19: Trước Và Sau"
 author: "ba-bamail.com"
 date: 2020-04-26
-source: "https://sachhiem.net/LTX/LyThaiSN04.php"
+source: "/LTX/LyThaiSN04"
 category: "Tác giả"
 lang: vi
 wordCount: 328

@@ -3,7 +3,7 @@ layout: ../../../layouts/Article.astro
 title: "Lật Tẩy Những Mê Tín, Phép Lạ - Giáo Hội Làm Thinh"
 author: "SH sưu tầm"
 date: 2019-04-02
-source: "https://sachhiem.net/TONGIAO/FB/FBLamPhuChau.php"
+source: "/TONGIAO/FB/FBLamPhuChau"
 category: "Chính trị"
 lang: vi
 wordCount: 1093
@@ -54,7 +54,7 @@ Popular pastor who resurrected dead man confesses truth [VIDEO]</a> </p>
 <p><span class="green">II. </span><b>Các hoạt động tà đạo</b></p>
 <p><b>Của các nhà thờ Ca-tô Rô-ma giáo:</b></p>
 <p>- Huấn Luyện Thầy Pháp - Vatican Mở Khóa Học Trừ Tà, Bắt Ma Cho 250 Linh Mục (Báo Chí khắp nơi)</p>
-<p><a href="https://sachhiem.net/SACHNGOAI/SH/SH30.php">https://sachhiem.net/SACHNGOAI/SH/SH30.php</a></p>
+<p><a href="/SACHNGOAI/SH/SH30">https://sachhiem.net/SACHNGOAI/SH/SH30.php</a></p>
 <p> <img src="https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/TONGIAO/IMG/METIN/Exorcism_class2019.jpg" width="400" height="225" alt=""></p>
 <p>- Dàn dựng - Quỷ LuXiPhe Nhập nói tiếng nước ngoài thách đố linh mục - Trừ Quỷ 2017:</p>
 <p><img src="https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/TONGIAO/IMG/METIN/Quynhap_noitiengnuocngoai.JPG" width="400" height="334" alt=""></p>
@@ -95,5 +95,5 @@ Popular pastor who resurrected dead man confesses truth [VIDEO]</a> </p>
 <p><b>Nạn giáo sĩ lạm dụng tình dục.</b></p>
 
 <p>- Tội Lỗi Các Giáo Sĩ Xuyên Thời Gian - Danh Sách Không Đầy Đủ (Trần Thanh sưu tầm)</p>
-<p><a href="https://sachhiem.net/EMAILS/SH/Sachhiem42_list.php">https://sachhiem.net/EMAILS/SH/Sachhiem42_list.php</a></p>
+<p><a href="/EMAILS/SH/Sachhiem42_list">https://sachhiem.net/EMAILS/SH/Sachhiem42_list.php</a></p>
 <p><img src="https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/sqdot.gif" width="10" height="10"></p>

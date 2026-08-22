@@ -2,15 +2,14 @@
 layout: ../../../layouts/Article.astro
 title: "Giáo Hội Công Giáo Và Hội Đồng Liên Tôn Ở Việt Nam"
 author: "Nguyễn Trọng Nghĩa"
-source: "https://sachhiem.net/TONGIAO/tgN/NgTnghia_HDLT.php"
+source: "/TONGIAO/tgN/NgTnghia_HDLT"
 category: "Tác giả"
 lang: vi
 wordCount: 2231
-image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nha.jpg"
+image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/TONGIAO/IMG/VIETNAM/HDLT_VN.jpg"
 ---
 
-<p align="center"><a href="/TONGIAO/index"><img hspace="20" border="0" src="https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nha.jpg"> </a> </p>
-     <div class="tomluoc">
+<div class="tomluoc">
        <p><i>&nbsp;liên minh lại để tìm ra điểm tương đồng nhằm hòa hợp tôn giáo là đều quý, liên minh lại để làm từ thiện thì đáng trân trọng. Nhưng liên minh lại để quậy phá, làm chia rẽ tôn giáo, làm náo loạn xã hội thì thật là quân lừa đảo, giả trá, đểu cáng! (NgTrNgh)</i></p>
      </div>
         <p align="center"><img src="https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/TONGIAO/IMG/VIETNAM/HDLT_VN.jpg" width="320" height="212" alt=""></p>

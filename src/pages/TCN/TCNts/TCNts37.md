@@ -3,7 +3,7 @@ layout: ../../../layouts/Article.astro
 title: "Vài Chuyện Thời Sự “Cộng Đồng”"
 author: "Trần Chung Ngọc"
 date: 2013-02-02
-source: "https://sachhiem.net/index.php?content=showrecipe&id=5529"
+source: "/TCN/TCNts/TCNts37"
 lang: vi
 wordCount: 8943
 image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/LICHSU/IMG/NHANVAT/TCNts37_Leductho_HenryKsgr.jpg"
@@ -95,7 +95,7 @@ image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/LICHSU/IMG/NHANVAT/T
 <p> Tôi thực tình cho rằng, Liên Thành và Ủy Ban Truy Tố Tội Ác  Cộng Sản đưa vấn đề kiện cáo này ra để làm mồi nhử những người thù hận CS, để  thu tiền. Nguyễn Quốc Nam ở Pháp đã tổ chức gây quỹ thu tiền đóng góp cho vụ  kiện cáo này, nhưng có người đã đặt câu hỏi: <i>Hai năm qua, không thấy ông  Nguyễn Quốc Nam cho đồng bào biết tiền bạc thu được dùng vào việc gì, cuộc kiện  tụng ấy đi đến đâu, kết quả ra sao </i>?<b> </b>Liên Thành, một con người mà tư  cách và trình độ mọi người đều đã biết ở mức độ nào, thì có ai coi hắn ra gì và  tin nổi tên này. Muốn biết rõ về Liên Thành là người như thế nào, xin đọc, nhớ  rằng Liên Thành chưa có bất cứ lời phản bác nào trước những thông tin về hắn: </p>
 <p> <a href="https://antg.cand.com.vn/vi-VN/tulieu/2012/5/78155.cand">https://antg.cand.com.vn/vi-VN/tulieu/2012/5/78155.cand</a> </p>
 <p> <a href="https://antg.cand.com.vn/vi-VN/tulieu/2012/5/78182.cand">https://antg.cand.com.vn/vi-VN/tulieu/2012/5/78182.cand</a> </p>
-<p> hoặc <a href="https://sachhiem.net/HOANGNN/Hoang23.php">https://sachhiem.net/HOANGNN/Hoang23.php</a> trong đó Hoàng Đông Tà giới thiệu một số bài viết về Liên Thành của Bảo Quốc  Kiếm, Dương Thị Phương Hằng v…v.. </p>
+<p> hoặc <a href="/HOANGNN/Hoang23">https://sachhiem.net/HOANGNN/Hoang23.php</a> trong đó Hoàng Đông Tà giới thiệu một số bài viết về Liên Thành của Bảo Quốc  Kiếm, Dương Thị Phương Hằng v…v.. </p>
 <p class="TuaDoLeft"> <span class="green">3.</span> <a name="enda3" href="/TCN/#a3"> Chỉ có kẻ ngu…</a>
 </p>
 <p>Chuyện thứ ba trong cộng đồng là về  thế nào là ngu. Tình cờ, tôi đọc được câu “<i>Chỉ có kẻ ngu mới làm tay sai cho  CSVN</i>”. Tôi nghĩ đúng hơn thì câu đó phải viết là “<i>Chỉ có kẻ ngu mới  chống Cộng khi không còn Cộng</i>”. Bởi vì không ai có đầu óc lại đi chống một  cái hồn ma của Cộng sản, hồn ma của một thứ mà trên thực tế đã không còn tồn  tại từ năm 1989, do công thành danh toại của “đức thánh cha” John Paul II và  tông tông Reagan. Có còn ai nhớ ảo tưởng cầu mong của Ca-tô Giáo Việt Nam: <i><b>“Cha  đã tiên phong góp phần giải phóng quê hương Cha </b></i><b>(Ba Lan)<i>, và tiếp đến sẽ  là quê hương chúng con”</i></b> (Bước Qua Ngưỡng Cửa Hi Vọng, trang 11). Quê hương  chúng con thật ra không phải là Việt Nam mà là quê thật của Vua David, đúng ra  là của Vatican, vì <b>David chỉ là sản phẩm thần học của Vatican dạy láo</b> cho các  bề tôi ở Việt Nam để họ nhồi sọ con chiên của họ một cách rất mù quáng. </p>

@@ -2,17 +2,16 @@
 layout: ../../../layouts/Article.astro
 title: "Hoa hồng ngày Vu lan"
 author: "Nguyễn Trí Cảm"
-source: "https://sachhiem.net/TONGIAO/NGTRCAM/NguyenTriCam12.php"
+source: "/TONGIAO/NGTRCAM/NguyenTriCam12"
 category: "Tác giả"
 lang: vi
 wordCount: 1535
-image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nha.jpg"
+image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/CANHDEP/Hoahongtra.jpg"
 ---
 
 <table border="0" cellpadding="0" width="250" align="center"><tbody><tr>
 				<td width="125">
-				<a href="/index">
-				<img border="0" src="https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nha.jpg"></a></td>
+				</td>
 	<td valign="top">	24 tháng 8, 2009
 	</td></tr></tbody></table>
 		

@@ -3,7 +3,7 @@ layout: ../../../layouts/Article.astro
 title: "Thế Giới Bên Bờ Vực Đệ III Thế Chiến?"
 author: "Đào Văn Bình"
 date: 2022-02-24
-source: "https://sachhiem.net/DAOVB/CT/DaovBinh142.php"
+source: "/DAOVB/CT/DaovBinh142"
 category: "Chính trị"
 lang: vi
 wordCount: 2238

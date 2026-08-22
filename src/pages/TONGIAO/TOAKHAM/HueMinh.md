@@ -2,11 +2,11 @@
 layout: ../../../layouts/Article.astro
 title: "Câu Chuyện về Chiếc Giếng Cổ và Cây Thánh Giá"
 author: "Huệ Minh"
-source: "https://sachhiem.net/TONGIAO/TOAKHAM/.php"
+source: "/TONGIAO/TOAKHAM/"
 category: "Tác giả"
 lang: vi
 wordCount: 1862
-image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nha.jpg"
+image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/TONGIAO/IMG/giengden.jpg"
 ---
 
 <p class="Tuaduoi">Vụ Đòi Tòa Khâm: </p>
@@ -15,7 +15,7 @@ image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nha.jpg"
 
 
 
-<p align="center"><a href="https://sachhiem.net/index.php"><img border="0" hspace="20" src="https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nha.jpg"></a>22 tháng 2, 2008</p>
+<p align="center">22 tháng 2, 2008</p>
 
 
 <p class="MUC" style="MARGIN-TOP: 5px; MARGIN-BOTTOM: 2px">Vụ đòi tòa khâm: 

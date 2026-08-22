@@ -2,7 +2,7 @@
 layout: ../../../layouts/Article.astro
 title: "VẤN ĐỀ NGÔI THÁP VNQT"
 author: "Minh Mẫn"
-source: "https://sachhiem.net/null"
+source: "/null"
 lang: vi
 wordCount: 2613
 image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nhacu.jpg"
@@ -36,7 +36,7 @@ image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nhacu.jpg"
 						<td bgcolor="White" align="justify" valign="top">
 						<table border="0" cellpadding="10" width="100%" cols="2">
 							<tbody><tr>
-								<td valign="top"><a href="https://sachhiem.net/">
+								<td valign="top"><a href="/">
 								<img border="0" src="https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nhacu.jpg"></a></td>
 								<td valign="top" style="text-align:right"><i>
 								<font color="#080808" size="2">21 tháng 3, 2008	</font></i></td>
@@ -274,7 +274,7 @@ image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nhacu.jpg"
 				<table border="0" cellpadding="0" cellspacing="0" id="bgcolor6" width="100%" colspan="2" height="16">
 					<tbody><tr>
 						<td width="100%" bgcolor="White" align="left" valign="top" height="16">
-						<a href="https://sachhiem.net/MINHMAN/MMdir.php">
+						<a href="/MINHMAN/MMdir">
 						<p class="trang">Trang Minh Mẫn</p></a></td>
 					</tr>
 				</tbody></table></td>

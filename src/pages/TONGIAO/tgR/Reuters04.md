@@ -3,7 +3,7 @@ layout: ../../../layouts/Article.astro
 title: "Trong Cuộc Phỏng Vấn Cuối Cùng,"
 author: "Naomi O'Leary / Reuters"
 date: 2012-12-22
-source: "https://sachhiem.net/TONGIAO/tgR/Reuters04.php"
+source: "/TONGIAO/tgR/Reuters04"
 category: "Tác giả"
 lang: vi
 wordCount: 1125

@@ -3,7 +3,7 @@ layout: ../../../layouts/Article.astro
 title: "TIẾNG NÓI VÀ CHỮ VIẾT"
 author: "Thích Thanh Thắng"
 date: 2019-12-04
-source: "https://sachhiem.net/TONGIAO/tgTH/ThThanhThang02.php"
+source: "/TONGIAO/tgTH/ThThanhThang02"
 category: "Chính trị"
 lang: vi
 wordCount: 2000

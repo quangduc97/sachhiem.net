@@ -2,17 +2,16 @@
 layout: ../../../layouts/Article.astro
 title: "Đã đến lúc phải khôi phục Báo Thiên:"
 author: "Quốc Thắng"
-source: "https://sachhiem.net/TONGIAO/TOAKHAM/QuocThang.php"
+source: "/TONGIAO/TOAKHAM/QuocThang"
 category: "Tác giả"
 lang: vi
 wordCount: 1197
-image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nha.jpg"
 ---
 
 <p class="Tuaduoi">Tinh Hoa Việt Tộc</p>
 		
 
-<p align="center"><a href="https://sachhiem.net/index.php"><img border="0" hspace="20" src="https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nha.jpg"></a>
+<p align="center">
 		02 tháng 2, 2008 </p>
  <p><i><a href="/TONGIAO/TOAKHAM/LoiDau">Lời đầu của SH »  </a></i></p>
 	

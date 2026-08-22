@@ -3,7 +3,7 @@ layout: ../../../layouts/Article.astro
 title: "Khi Nhà Trai Đến Rước Dâu Bên Đạo (*)"
 author: "Nguyễn Hữu Ba"
 date: 2013-01-03
-source: "https://sachhiem.net/TONGIAO/tgN/NguyenHBa05.php"
+source: "/TONGIAO/tgN/NguyenHBa05"
 category: "Tác giả"
 lang: vi
 wordCount: 1436
@@ -238,13 +238,13 @@ image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/XAHOI/IMG/TapQuan/la
 
 <p>
 
- <a href="https://sachhiem.net/TONGIAO/tgN/NgHDuc.php">Phật Tử Không
+ <a href="/TONGIAO/tgN/NgHDuc">Phật Tử Không
 
   Bao Giờ Được Nói Câu "Đạo Nào Cũng Tốt" (Nguyễn Hữu Đức)</a></p>
 
 ___________________
 
-<p>Các bài của Nguyễn Hữu Ba: link <a href="https://sachhiem.net/TONGIAO/tgN/ListNHBa.inc.php" target="_blank">https://sachhiem.net/TONGIAO/tgN/ListNHBa.inc.php</a></p>
+<p>Các bài của Nguyễn Hữu Ba: link <a href="/TONGIAO/tgN/ListNHBa.inc" target="_blank">https://sachhiem.net/TONGIAO/tgN/ListNHBa.inc.php</a></p>
 
  
 

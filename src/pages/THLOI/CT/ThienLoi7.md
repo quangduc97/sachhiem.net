@@ -2,15 +2,15 @@
 layout: ../../../layouts/Article.astro
 title: "CA-TÔ RÔ-MA GIÁO LÀ"
 author: "Thiên Lôi"
-source: "https://sachhiem.net/THLOI/CT/ThienLoi7.php"
+source: "/THLOI/CT/ThienLoi7"
 category: "Chính trị"
 lang: vi
 wordCount: 5485
-image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nha.jpg"
+image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/LICHSU/IMG/LS_Hanoi/Khaimac.jpg"
 ---
 
 <table border="0" cellpadding="0" width="250" align="center"><tbody><tr>
-	<td width="125"><a href="/index"><img border="0" src="https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nha.jpg"></a></td>
+	<td width="125"></td>
     <td valign="top" width="200">	06 tháng 10, 2010	</td></tr></tbody></table>
 			
 			<p><span class="First">N</span>hững ngày <span class="First"><img border="0" src="https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/LICHSU/IMG/LS_Hanoi/Khaimac.jpg" align="left" hspace="10"></span>gần đây đồng bào Việt cả nước và 

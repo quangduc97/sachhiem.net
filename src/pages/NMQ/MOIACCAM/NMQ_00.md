@@ -2,17 +2,17 @@
 layout: ../../../layouts/Article.astro
 title: "Mối Ác Cảm Của Nhân Dân Thế Giới"
 author: "Nguyễn Mạnh Quang"
-source: "https://sachhiem.net/NMQ/MOIACCAM/NMQ_00.php"
+source: "/NMQ/MOIACCAM/NMQ_00"
 category: "Tác giả"
 lang: vi
 wordCount: 4459
-image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nha.jpg"
+image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/print.gif"
 ---
 
 <p class="Tuaduoi">Đối Với Giáo Hội La Mã </p>
      
      
-     <p align="center"><a href="/index"><img hspace="20" border="0" src="https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nha.jpg"></a>   bản rời <a href="/NMQ/MOIACCAM/NMQ_00" target="top"> <img border="0" src="https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/print.gif" width="18" height="18"> </a>    |      toàn tập <a target="_top" href="/NMQ/MOIACCAM/MoiAcCam_Main"> ☞ </a>  | 02 tháng 4, 2010 </p>
+     <p align="center">   bản rời <a href="/NMQ/MOIACCAM/NMQ_00" target="top"> <img border="0" src="https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/print.gif" width="18" height="18"> </a>    |      toàn tập <a target="_top" href="/NMQ/MOIACCAM/MoiAcCam_Main"> ☞ </a>  | 02 tháng 4, 2010 </p>
      
      <p class="TuaDenLeft">LỜI NÓI ĐẦU</p>
      <p>Tình cờ, người viết thấy trong tờ nhật báo The Tacoma News Tribune số ra ngày 30/1/2010 có bản tin nói về chuyện <i>“Giáo Hoàng gièm pha và phỉ báng cái mối ác cảm càng ngày càng lan rộng đối với đạo Ki-tô.” </i> (<a target="_top" href="https://www.thonline.com/article.cfm?id=271497">Rome: Pope decries growing “aversion to Christianity”)</a>. Rồi ngày hôm sau, người viết lại được đọc bài viết “<i>Hiện Tượng Chia Rẽ Tôn Giáo Trên Diễn Đàn Điện Tử</i>” của một giáo dân người Việt. Bài viết này chụp cái mũ “chia rẽ tôn giáo” lên đầu một số tác giả có những bài viết nói lên những sự thật về tính cách huyễn hoặc, phí lý, bịp bợm, loạn luân, loạn dâm, phi nhân, bạo ngược và dã man trong tín lý Ki-tô cũng như về những rặng núi tội ác cúa Giáo Hội La Mã chống lại nhân loại trong gần hai ngàn năm qua. Trong số nạn nhân bị chụp “cái mũ” này, có Giáo-sư Trần Chung Ngọc và cá nhân người viết. Vì vậy nhân cơ hội này người viết sẽ trình bày cặn kẽ cho độc giả thấy rõ: </p>
@@ -80,4 +80,4 @@ image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nha.jpg"
      <p> <a name="_edn2" href="/NMQ/#_ednref2">[2]</a> Dun J. Li, The Ageless Chinese (New York Charles Scriber's Sons, 1978), tr. 70-71. Nguyên văn: "The separation of ethics from religion, a unique feature of the Chinese culture system, was not without its blessing. In the Chinese mind, ethical standards were more important than religious standards, and in case of conflict between them, the former should always prevail. As the Chinese looked at it, these two standards were not necessarily the same and were sometimes contradictory. While religious standards were peculiar to a certain religion or religions, ethical standards were universal and should be applied to all men. One should not impose his own religious standards upon others who did not belong to his religion. To do so might be regarded as religious from his point of view; certainly it was not ethical. A religious fanatic bent on the condemnation and destruction of all other religions by whatever means he possessed was a social degenerate, deserving no mercy from his fellow men. Above religious beliefs was an ethical standards which all religions must abide by if society were to survive. Such a standard governed the relations between groups of individuals (such as religious sects) as well as individuals themselves. As ethics was separated from religion and was regarded as superior to religion, the Chinese were remarkably free from religious bigotry, and persecution on religious grounds, while not absent altogether, was noticeably mild compared with that of many other countries.”</p>
      <hr align="left" size="2" width="33%">
      <p>Mời đọc bài tóm tắt các việc làm của Giáo Hội qua từng thế kỷ:</p>
-     <p class="TuaDenLeft"> <a target="_top" href="https://www.sachhiem.net/TONGIAO/tgTH/ThuongDuc.php">1000 Năm Tàn Sát &amp; Man Rợ - Nhân Danh Chúa </a>-do Thường Đức (usa) sưu tầm </p>
+     <p class="TuaDenLeft"> <a target="_top" href="/TONGIAO/tgTH/ThuongDuc">1000 Năm Tàn Sát &amp; Man Rợ - Nhân Danh Chúa </a>-do Thường Đức (usa) sưu tầm </p>

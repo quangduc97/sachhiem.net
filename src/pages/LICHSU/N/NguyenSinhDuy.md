@@ -3,7 +3,7 @@ layout: ../../../layouts/Article.astro
 title: "Trương Vĩnh Ký - Cuốn Sổ Bình Sinh"
 author: "Nguyễn Sinh Duy"
 date: 2024-02-27
-source: "https://sachhiem.net/LICHSU/N/NguyenSinhDuy.php"
+source: "/LICHSU/N/NguyenSinhDuy"
 category: "Lịch sử"
 lang: vi
 wordCount: 117
@@ -17,6 +17,6 @@ image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/Next.gif"
  </div>
  
  
-<p> <img src="https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/Next.gif" width="13" height="13" alt=""><a target="_parent" href="https://sachhiem.net/LICHSU/N/NguyenSinhDuy_Main.php">trở ra Mục Lục</a></p>
+<p> <img src="https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/Next.gif" width="13" height="13" alt=""><a target="_parent" href="/LICHSU/N/NguyenSinhDuy_Main">trở ra Mục Lục</a></p>
 <p class="TacgiaL">Nguyễn Sinh Duy </p>
  <p class="nguonL">Nguồn PDF file.</p>

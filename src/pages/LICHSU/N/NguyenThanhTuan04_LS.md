@@ -3,7 +3,7 @@ layout: ../../../layouts/Article.astro
 title: "Thư Ngỏ Của Trung Tướng Nguyễn Thanh Tuấn Gửi Lãnh Đạo Bộ GD - ĐT."
 author: "TT. Nguyễn Thanh Tuấn"
 date: 2025-05-14
-source: "https://sachhiem.net/LICHSU/N/NguyenThanhTuan04_LS.php"
+source: "/LICHSU/N/NguyenThanhTuan04_LS"
 category: "Lịch sử"
 lang: vi
 wordCount: 1992
@@ -38,7 +38,7 @@ image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/LICHSU/IMG/NHANVAT/T
 <p>(<a href="https://www.facebook.com/nguyen.thanh.tuan.419229/posts/pfbid0EnENGsWXH1SUrvj5rcGSJgivpa86uA4V4RReiwFKosuefjGeccPRHixGWhutgNrUl">FB Nguyễn Thanh Tuấn ngày 20 tháng 4, 2022</a>) </p>
 <p>______________</p>
 <p><b>Bài đọc thêm:</b></p>
-<p>- <a href="https://sachhiem.net/LTX/LyThaiLS11.php">Bài Phát Biểu Trước Thủ Tướng Phạm Minh Chính Tại San Francisco - 17 Tháng 5, 2022</a> của Lý Thái Xuân.</p>
+<p>- <a href="/LTX/LyThaiLS11">Bài Phát Biểu Trước Thủ Tướng Phạm Minh Chính Tại San Francisco - 17 Tháng 5, 2022</a> của Lý Thái Xuân.</p>
 <p>______________</p>
 <p><b>Trích vài nhận xét của FB friends:</b></p>
 <p>Thachson Phung</p>

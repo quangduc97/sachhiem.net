@@ -2,15 +2,13 @@
 layout: ../../../layouts/Article.astro
 title: "VẤN ĐỀ BANG GIAO"
 author: "Minh Mẫn"
-source: "https://sachhiem.net/MINHMAN/Chinhtri/Minhman13.php"
+source: "/MINHMAN/Chinhtri/Minhman13"
 lang: vi
 wordCount: 3493
-image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nha.jpg"
 ---
 
 <table border="0" align="center" cellpadding="1" width="250"><tbody><tr>
-	<td width="110"><a href="https://www.sachhiem.net/">
-	<img border="0" src="https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nha.jpg"></a></td>
+	<td width="110"></td>
 	<td width="130" valign="top" style="text-align:right">	10 tháng 7, 2005	</td>
 	</tr></tbody></table>
 	

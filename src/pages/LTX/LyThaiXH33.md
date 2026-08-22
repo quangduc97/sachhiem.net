@@ -2,15 +2,13 @@
 layout: ../../layouts/Article.astro
 title: "Cuộc Trốn Chạy Của Tâm Thức"
 author: "Lý Thái Xuân"
-source: "https://sachhiem.net/LTX/LyThaiXH33.php"
+source: "/LTX/LyThaiXH33"
 category: "Xã hội"
 lang: vi
 wordCount: 1231
-image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nha.jpg"
 ---
 
-<p align="center"><a href="https://www.sachhiem.net/"> <img border="0" src="https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nha.jpg"></a> </p>
- <p align="right"><i>Đây là những bức thư  trao đổi với một người bạn văn qua trang nhà sachhiem.net</i></p>
+<p align="right"><i>Đây là những bức thư  trao đổi với một người bạn văn qua trang nhà sachhiem.net</i></p>
  <p><span class="First">N</span>hững câu thắc mắc của anh "về tôi"  làm  tôi khám phá ra một điều mới lạ. Trường hợp của tôi khác rất nhiều so với  anh Charlie Nguyễn, gần như đối nghịch. Nhưng hai trường hợp giống nhau ở một điểm mà anh sẽ thấy trong mấy đoạn  dưới đây.</p>
  <p>Có lẽ anh nghĩ chỉ có sự phấn đấu kiên  cường của một người mới được ghi nhận khi người ấy phải vượt qua rào cản tinh thần hay vật chất bởi những người thân cận chung quanh&nbsp;bên ngoài&nbsp;mà thôi.   Không đâu anh, còn có một thứ khác  đáng sợ hơn: đó chính là bản thân.</p>
  <p>   Tôi nhớ đã thấy một trong những bài  dạy của Phật: "<i>Kẻ thù lớn nhất là chính mình."</i> Hôm qua tôi suy nghĩ thấy nó  đúng lắm.</p>

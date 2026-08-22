@@ -3,7 +3,7 @@ layout: ../../../layouts/Article.astro
 title: "Giá Như Không Có CMT8, Không Có ĐBP, Không Có 30/4..."
 author: "Nguyễn Thanh Tùng"
 date: 2014-10-09
-source: "https://sachhiem.net/THOISU_CT/ChuN/NgnThhTung05.php"
+source: "/THOISU_CT/ChuN/NgnThhTung05"
 category: "Tác giả"
 lang: vi
 wordCount: 3201
@@ -90,6 +90,6 @@ Em thấy Việt Gian không chịu độc lập thống nhất  thì có dân t
   <p class="nguonL">Có đăng ở https://molang0205.blogspot.com/2014/09/day-oi-tri-thuc-ma-khong-co-kha-nang.html</p>
 _______________
 <p><b>Mời đọc thêm:</b></p>
-<p>- <a href="https://sachhiem.net/index.php?content=showrecipe&amp;id=112">"Bối Cảnh Lịch Sử Của Ba Nước Đúc, Triều Tiên Và Việt Nam"</a> (Nguyễn Mạnh Quang)</p>
-<p>- "<a href="https://sachhiem.net/index.php?content=showrecipe&amp;id=5622">Các Cuộc Chiến Thống Nhất Đất Nước  Của Dân Tộc Việt Nam</a>" (Nguyễn Mạnh Quang)</p>
-<p>- "<a href="https://sachhiem.net/index.php?content=showrecipe&amp;id=97#end2">Về Luận Điệu: Không Cần Phải Phát Động Chiến Tranh, Pháp Cũng Phải Trao Trả Độc Lập Cho Việt Nam</a>" (Nguyễn Mạnh Quang)</p>
+<p>- <a href="/NMQ/KNV/PhanI2">"Bối Cảnh Lịch Sử Của Ba Nước Đúc, Triều Tiên Và Việt Nam"</a> (Nguyễn Mạnh Quang)</p>
+<p>- "<a href="/NMQ/NMQ035">Các Cuộc Chiến Thống Nhất Đất Nước  Của Dân Tộc Việt Nam</a>" (Nguyễn Mạnh Quang)</p>
+<p>- "<a href="/TCN/TCNtg/DAOGIESU/TCN_NMQ15">Về Luận Điệu: Không Cần Phải Phát Động Chiến Tranh, Pháp Cũng Phải Trao Trả Độc Lập Cho Việt Nam</a>" (Nguyễn Mạnh Quang)</p>

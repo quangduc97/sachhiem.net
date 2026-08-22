@@ -3,16 +3,16 @@ layout: ../../../layouts/Article.astro
 title: "THIẾU SÓT"
 author: "Trần-thao-Lược"
 date: 2009-01-07
-source: "https://sachhiem.net/THOISU_CT/ChuN/NgTienTri04.php"
+source: "/THOISU_CT/ChuN/NgTienTri04"
 category: "Chính trị"
 lang: vi
 wordCount: 3456
-image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nha.jpg"
+image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/Hinh/CaoQuangAnh/CQA-2.jpg"
 ---
 
 <table border="0" cellpadding="0" width="250" align="center">
             <tbody><tr>
-              <td width="125"><a href="/index"><img border="0" src="https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nha.jpg"></a></td>
+              <td width="125"></td>
         	<td valign="top">	15 tháng 2, 2009
 		</td></tr></tbody></table>
 		<p><span class="First"><font color="#606060">T</font></span><b><font color="#606060">heo các sử-gia, trong suốt dòng lịch-sử thế-giới, 
@@ -313,7 +313,7 @@ image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nha.jpg"
 				(dòng Tên, Jesuit) nơi đã từng đào-tạo A-lếch-xăng-đờ Dốt - kẻ 
 				đã đưa kế-hoạch cho Pháp xâm-lăng nước ta! Xin xem:</p>
 		<p>- Lời thề của dòng Tên tại:
-				<a style="color: blue; text-decoration: underline; text-underline: single" href="https://www.sachhiem.net/EMAILS/TanPhan2.php">https://www.sachhiem.net/EMAILS/TanPhan2.php</a> trong đó có đoạn 
+				<a style="color: blue; text-decoration: underline; text-underline: single" href="/EMAILS/TanPhan2">https://www.sachhiem.net/EMAILS/TanPhan2.php</a> trong đó có đoạn 
 				văn như sau: “<i>Dòng Tên đã lật đổ hầu hết mọi chính quyền, 
 				ngoại trừ Hoa Kỳ. Nơi họ hoạt động rất tích cực trong các sinh 
 				hoạt chính trị, sở di trú..vv</i>...” [They have been thrown out 
@@ -321,7 +321,7 @@ image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nha.jpg"
 				active in controlling politics, U.S Immigration, etc...,] và </p>
 		<p>- DÒNG TÊN Thánh Phanxico Xavie, Cố Đạo Đắc 
 				Lộ và chữ Quốc ngữ tại
-				<a style="color: blue; text-decoration: underline; text-underline: single" href="https://www.sachhiem.net/CN_CGHT/dongten.php">https://www.sachhiem.net/CN_CGHT/dongten.php</a>). 
+				<a style="color: blue; text-decoration: underline; text-underline: single" href="/CN_CGHT/dongten">https://www.sachhiem.net/CN_CGHT/dongten.php</a>). 
 		</p>
 		<p>Mới đây, qua cuộc tranh-luận với một người 
 				dân-cử Mỹ khác Ánh đã nói rằng “từ bé đến lớn y chưa từng thấy 

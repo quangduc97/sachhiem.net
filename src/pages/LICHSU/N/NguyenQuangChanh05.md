@@ -3,7 +3,7 @@ layout: ../../../layouts/Article.astro
 title: "NƯỚC MẮT CỦA BIỆT ĐỘNG SÀI GÒN"
 author: "Nguyễn Quang Chánh"
 date: 2023-07-13
-source: "https://sachhiem.net/LICHSU/N/NguyenQuangChanh05.php"
+source: "/LICHSU/N/NguyenQuangChanh05"
 category: "Chính trị"
 lang: vi
 wordCount: 2523

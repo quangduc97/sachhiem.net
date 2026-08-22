@@ -3,7 +3,7 @@ layout: ../../layouts/Article.astro
 title: "Cái Rốn Của Vũ Trụ"
 author: "Trần Tiên Long"
 date: 2012-08-20
-source: "https://sachhiem.net/TTL/TranTL28.php"
+source: "/TTL/TranTL28"
 category: "Chính trị"
 lang: vi
 wordCount: 2105
@@ -169,10 +169,10 @@ image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/TONGIAO/IMG/METIN/Me
         <p class="TacgiaL"><b>Trần
           Tiên Long</b></p>
         
-        <p> <a name="n1" href="/TTL/#1"> (1) </a> <a href="https://sachhiem.net/index.php?content=showemail&amp;id=141">Xin Hỏi Ông Nguyễn Linh Thao (Nguyễn Hữu Ba) </a></p>
+        <p> <a name="n1" href="/TTL/#1"> (1) </a> <a href="/hop-thu/141">Xin Hỏi Ông Nguyễn Linh Thao (Nguyễn Hữu Ba) </a></p>
         
 <hr><p>Mời đọc thêm: </p>
-<p><a href="https://sachhiem.net/TCN/TCNdt/TCNdt063.php">Olympic 2012: Vinh Danh Đức Mẹ Hay Biểu Lộ Sự Mê Tín </a></p>
+<p><a href="/TCN/TCNdt/TCNdt063">Olympic 2012: Vinh Danh Đức Mẹ Hay Biểu Lộ Sự Mê Tín </a></p>
 
 
 <hr>

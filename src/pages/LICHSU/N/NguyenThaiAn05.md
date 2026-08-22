@@ -3,7 +3,7 @@ layout: ../../../layouts/Article.astro
 title: "Ký Sự Noumea"
 author: "Nguyễn Thái An"
 date: 2015-04-07
-source: "https://sachhiem.net/LICHSU/N/NguyenThaiAn05.php"
+source: "/LICHSU/N/NguyenThaiAn05"
 category: "Lịch sử"
 lang: vi
 wordCount: 2267
@@ -96,7 +96,7 @@ Tôi viết e-mail cho một người Việt ở Noumea hỏi về chữ  nghĩa
  <p>Năm  1891, một chuyến tàu chở 768 người Việt trong số đó có 479 là tù ở Côn Đảo,  (thường phạm ? hay chính trị phạm?)&nbsp; đến Noumea. Chuyến đi bất hạnh này có  96 người chết trước khi người Việt được phân phối về các mỏ. Mà rồi các chủ mỏ  không thích dùng tù khổ sai không có trả tiền này.</p>
  <p>   Từ đó người Việt được tuyển mộ đi làm ở Noumea có khế ước,  và có trả tiền .&nbsp;&nbsp; Nhưng với đồng tiền thù lao chết đói.</p>
 <p>___________________ </p>
- <p>Các bài của GS sử học Nguyễn Thái An: link <a href="https://sachhiem.net/LICHSU/N/ListNTA.inc.php" target="_blank">https://sachhiem.net/LICHSU/N/ListNTA.inc.php</a></p>
+ <p>Các bài của GS sử học Nguyễn Thái An: link <a href="/LICHSU/N/ListNTA.inc" target="_blank">https://sachhiem.net/LICHSU/N/ListNTA.inc.php</a></p>
 
  
 <hr>

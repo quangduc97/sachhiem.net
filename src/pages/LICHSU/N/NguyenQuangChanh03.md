@@ -3,7 +3,7 @@ layout: ../../../layouts/Article.astro
 title: "Có Người Thiếu Uý Giao Liên Tình Báo Thầm Lặng Như Thế"
 author: "Nguyễn Quang Chánh"
 date: 2023-01-12
-source: "https://sachhiem.net/LICHSU/N/NguyenQuangChanh03.php"
+source: "/LICHSU/N/NguyenQuangChanh03"
 category: "Chính trị"
 lang: vi
 wordCount: 2682

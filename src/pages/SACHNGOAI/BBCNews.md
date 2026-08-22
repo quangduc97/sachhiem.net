@@ -2,7 +2,7 @@
 layout: ../../layouts/Article.astro
 title: "Vatican 'ordered abuse cover-up'"
 author: "BBC News"
-source: "https://sachhiem.net/Source https://news.bbc.co.uk/2/hi/americas/3157555.stm"
+source: "/Source https://news.bbc.co.uk/2/hi/americas/3157555.stm"
 category: "Tác giả"
 lang: en
 wordCount: 591
@@ -30,7 +30,7 @@ image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nhacu.jpg"
 <div style="padding-left: 40px; padding-right: 40px">
 
 <table border="0" width="90%" cols="2"><tbody><tr>	<td>
-<a href="https://sachhiem.net/"><img border="0" src="https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nhacu.jpg"></a></td>	
+<a href="/"><img border="0" src="https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nhacu.jpg"></a></td>	
 <td>09 tháng 11, 2008</td>	
 
 </tr>	</tbody></table>

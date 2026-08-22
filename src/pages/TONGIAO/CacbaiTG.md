@@ -1,7 +1,7 @@
 ---
 layout: ../../layouts/Article.astro
 title: "Các bài về tôn giáo"
-source: "https://sachhiem.net/null"
+source: "/null"
 lang: vi
 wordCount: 10581
 ---

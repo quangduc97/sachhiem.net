@@ -3,14 +3,14 @@ layout: ../../../layouts/Article.astro
 title: "Kỳ Thị Người Minh Hương Là Một Sai Lầm Lịch Sử Rất Lớn"
 author: "DuyênSinh"
 date: 2014-04-29
-source: "https://sachhiem.net/LICHSU/D/Duyensinh07.php"
+source: "/LICHSU/D/Duyensinh07"
 category: "Tác giả"
 lang: vi
 wordCount: 1364
-image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nha.jpg"
+image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/LICHSU/IMG/DUYENS/LastEmpNhaMinh_MinhTuTong.jpg"
 ---
 
-<p align="center"><a href="/index"><img hspace="20" border="0" src="https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nha.jpg"></a> 29-Apr-201420-May-2014</p>
+<p align="center"> 29-Apr-201420-May-2014</p>
 <p><i>From: ChinhNghiaViet@yahoogroups.com <br> 
 Sent: Monday, May 19, 2014 8:25 PM
 <br>

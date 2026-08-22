@@ -3,7 +3,7 @@ layout: ../../layouts/Article.astro
 title: "Tuyển Tập II: NGUYỄN TRƯỜNG TỘ - 12 bài biện chính"
 author: "Bùi Kha"
 date: 2016-08-29
-source: "https://sachhiem.net/BUIKHA/BuiKha31e.php"
+source: "/BUIKHA/BuiKha31e"
 category: "Đối thoại"
 lang: vi
 wordCount: 5489
@@ -104,4 +104,4 @@ image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/BUIKHA/img/ThanhnoiH
  <p class="TacgiaL"> Bùi Kha, </p>
  
 <p>   22.4.2010 </p><p>_____________________ </p> <p>* Hình  như bài này đăng trên Việt study tháng 2. 2010; một website tôn giáo.</p>
-<p>   ** Tôi  có 6 tài liệu mật cho thấy Gauthier là một tên tình báo gộc. Có thể xem trên  tạp chí <b>Hồn Việt</b> các số 30,31 và 34,  hoặc xem bài Bùi Kha đối luận với ông Thanh Hải bên trên. Xem <a href="https://sachhiem.net/BUIKHA/BuiKha31b.php"> link </a></p>
+<p>   ** Tôi  có 6 tài liệu mật cho thấy Gauthier là một tên tình báo gộc. Có thể xem trên  tạp chí <b>Hồn Việt</b> các số 30,31 và 34,  hoặc xem bài Bùi Kha đối luận với ông Thanh Hải bên trên. Xem <a href="/BUIKHA/BuiKha31b"> link </a></p>

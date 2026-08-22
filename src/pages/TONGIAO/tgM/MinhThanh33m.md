@@ -3,7 +3,7 @@ layout: ../../../layouts/Article.astro
 title: "[VATICANOLOGY] - Thông Cáo Chung Của Nhóm Làm Việc Chung Việt Nam -Tòa Thánh"
 author: "Minh Thạnh"
 date: 2024-03-14
-source: "https://sachhiem.net/TONGIAO/tgM/MinhThanh33m.php"
+source: "/TONGIAO/tgM/MinhThanh33m"
 category: "Tác giả"
 lang: vi
 wordCount: 2346

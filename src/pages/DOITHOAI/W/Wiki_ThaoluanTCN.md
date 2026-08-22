@@ -3,7 +3,7 @@ layout: ../../../layouts/Article.astro
 title: "Thảo luận: Trần Chung Ngọc"
 author: "vi.wikipedia.org"
 date: 2016-04-11
-source: "https://sachhiem.net/DOITHOAI/W/Wiki_ThaoluanTCN.php"
+source: "/DOITHOAI/W/Wiki_ThaoluanTCN"
 category: "Xã hội"
 lang: vi
 wordCount: 5290

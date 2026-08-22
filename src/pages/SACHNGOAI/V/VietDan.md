@@ -3,7 +3,7 @@ layout: ../../../layouts/Article.astro
 title: "Các Tu Sĩ Dòng Tên Từng Buôn Bán Nô Lệ Ở Mỹ"
 author: "Việt Dân"
 date: 2016-09-03
-source: "https://sachhiem.net/SACHNGOAI/V/VietDan.php"
+source: "/SACHNGOAI/V/VietDan"
 category: "Chính trị"
 lang: vi
 wordCount: 1347

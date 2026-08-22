@@ -2,7 +2,7 @@
 layout: ../../layouts/Article.astro
 title: "Đạo Thiên Chúa Và Sự Xâm Lăng Nam Kỳ"
 author: "Cao Huy Thuần"
-source: "https://sachhiem.net/CAOHT/CHTDaoTC_001.php"
+source: "/CAOHT/CHTDaoTC_001"
 category: "Tác giả"
 lang: vi
 wordCount: 4686

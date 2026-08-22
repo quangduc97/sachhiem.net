@@ -2,11 +2,11 @@
 layout: ../../../layouts/Article.astro
 title: "Buổi phát thanh lịch sử tại Sài Gòn trưa 30/4/1975"
 author: "VNExpress"
-source: "https://sachhiem.net/null"
+source: "/null"
 category: "Lịch sử"
 lang: vi
 wordCount: 1744
-image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nha.jpg"
+image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/LICHSU/IMG/VNwar/NgHuuThai.jpg"
 ---
 
 <div align="center" style="position: relative; left: 0; top: 0">
@@ -22,8 +22,7 @@ image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nha.jpg"
 <tr> <td width="100%"> 
 <div style="padding-left: 50px; padding-right: 50px; padding-top: 0px; padding-bottom: 0px;">
 		<table border="0" cellpadding="0" cellspacing="0" topmargin="10" width="600"> 
-		<tbody><tr><td valign="top"><a href="/index">
-			<img border="0" src="https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nha.jpg"></a></td>
+		<tbody><tr><td valign="top"></td>
 	<td valign="top" width="172">	<font size="2">30 tháng 4, 2011	</font>	</td></tr></tbody></table>
 		<table border="0" width="160" id="table1" align="left">
 			<tbody><tr>

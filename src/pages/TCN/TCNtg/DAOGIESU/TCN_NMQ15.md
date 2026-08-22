@@ -2,14 +2,14 @@
 layout: ../../../../layouts/Article.astro
 title: "NGƯỜI VIỆT NAM & “ĐẠO GIÊ-SU”"
 author: "Trần Chung Ngọc và Nguyễn Mạnh Quang hợp soạn"
-source: "https://sachhiem.net/TCN/TCNtg/DAOGIESU/TCN_NMQ15.php"
+source: "/TCN/TCNtg/DAOGIESU/TCN_NMQ15"
 category: "Tác giả"
 lang: vi
 wordCount: 6535
-image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nha.jpg"
+image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/Next3.gif"
 ---
 
-<p align="center"><a href="https://sachhiem.net/index.php"><img hspace="20" border="0" src="https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nha.jpg"></a> 20 tháng 1, 2008 </p>
+<p align="center"> 20 tháng 1, 2008 </p>
     <p><br>
      Lời Tòa Soạn <a href="/TCN/TCNtg/DAOGIESU/TCN_NMQ"><img border="0" src="https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/Next3.gif" width="15" height="6"></a><br>
      Những mục của tác giả Trần Chung Ngọc: <a href="/TCN/TCNtg/DAOGIESU/TCN_NMQ1">1</a> <a href="/TCN/TCNtg/DAOGIESU/TCN_NMQ2">2</a> <a href="/TCN/TCNtg/DAOGIESU/TCN_NMQ3">3</a> <a href="/TCN/TCNtg/DAOGIESU/TCN_NMQ4">4</a> <br>
@@ -156,7 +156,7 @@ image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nha.jpg"
     <p><b>Việt Nam là thuộc địa của Liên Minh Pháp - Vatican và tất nhiên là ở vào trường hợp bị Vatican bám chặt như loài đỉa đói, không chịu nhả ra.</b> </p>
     <p>Vì thế mà nhân dân Việt Nam đã phải chiến đấu trong những cuộc chiến vô cùng gian khổ, cực kỳ khó khăn và kéo dài cả một thế kỷ từ 1858 cho đến ngày 30/4/1975 mới có thể tống cổ được thằng giặc Vatican ra khỏi đất nước. Nếu không chiến đấu như vậy, thì Việt Nam đã trở thành một quốc gia giống như Phi Luật Tân hay các quốc gia Châu Mỹ La-tinh, và trong cuốn Tyrants History's 100 Most Evil Despots &amp; Dictators trên đây của sử gia Nigel Cawthorne không phải chỉ có tên thằng phản thần tam đại Việt gia Da-tô Ngô Đình Diệm là người Việt Nam ở trong đó, mà    còn có thêm một vài tên bạo chúa Da-tô người Việt Nam khác nữa.</p>
     <p>Hy vọng phần trình bày trên đây là những lời phản bác rõ ràng để trả lời những người đưa ra luận điệu cho rằng "<i>không cần phải phát động chiến tranh làm tốn phí cả 4 hay 5 triệu sinh linh, thì rồi đến lúc nào đó, Pháp cũng phải trao trả lại chủ quyền độc lập cho dân ta như người Anh đã trả lại chủ quyền độc lập cho Ấn Độ.</i>.."</p>
-    <p>[Liên hệ đến đề tài này, xin đọc thêm bài của tác giả khác: <a href="https://sachhiem.net/index.php?content=showrecipe&amp;id=6151">"Giá Như Không Có CMT8, Không Có ĐBP, Không Có 30/4..."</a>]</p>
+    <p>[Liên hệ đến đề tài này, xin đọc thêm bài của tác giả khác: <a href="/THOISU_CT/ChuN/NgnThhTung05">"Giá Như Không Có CMT8, Không Có ĐBP, Không Có 30/4..."</a>]</p>
     <p><a href="/TCN/TCNtg/DAOGIESU/TCN_NMQ16">(xem tiếp Chương 11: Vì Đâu Nên Nỗi?)</a></p>
     <hr align="left" size="1" width="33%">
     <p class="TuaDenLeft">Chú thích Chương 10</p>

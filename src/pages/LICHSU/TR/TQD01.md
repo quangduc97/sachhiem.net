@@ -3,15 +3,15 @@ layout: ../../../layouts/Article.astro
 title: "Một đoạn duy nhứt trong bài phỏng vấn ông Cao Xuân Vĩ"
 author: "Trần Quang Diệu"
 date: 2011-11-07
-source: "https://sachhiem.net/LICHSU/TR/TQD01.php"
+source: "/LICHSU/TR/TQD01"
 category: "Lịch sử"
 lang: vi
 wordCount: 10989
-image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nha.jpg"
+image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.devhttps://sachhiem.net/TONGIAO/IMG/PHAPNAN/1963_Phattuchonglaiquandoi.jpg"
 ---
 
 <table border="0" cellpadding="0" width="250" align="center"><tbody><tr>
-	<td width="125"><a href="/index"><img border="0" src="https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nha.jpg"></a></td>
+	<td width="125"></td>
 		<td valign="top">07-Nov-2011</td>
 	</tr></tbody></table>
 		<p><i>LTS: Một số những người thọ ân  của chế độ nhà Ngô thỉnh thoảng

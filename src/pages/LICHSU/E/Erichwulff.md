@@ -3,22 +3,22 @@ layout: ../../../layouts/Article.astro
 title: "Hồi ký của Bác sĩ E. Wulff về Pháp nạn 1963"
 author: "Erich Wulff /Minh Nguyện dịch"
 date: 2013-05-27
-source: "https://sachhiem.net/LICHSU/E/Erichwulff.php"
+source: "/LICHSU/E/Erichwulff"
 category: "Tác giả"
 lang: vi
 wordCount: 1313
 image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/TONGIAO/IMG/PHAPNAN/ErichWulff_01.jpg"
 ---
 
-<p><a href="https://sachhiem.net/LICHSU/E/Erichwulff.php">Trang 1 / 5</a></p>
-<p> <a href="https://sachhiem.net/LICHSU/E/Erichwulff01.php">● bài kế --&gt;</a></p>
+<p><a href="/LICHSU/E/Erichwulff">Trang 1 / 5</a></p>
+<p> <a href="/LICHSU/E/Erichwulff01">● bài kế --&gt;</a></p>
 <p><b><u>Lời giới thiệu:</u></b></p>
 <div class="danbai">
 <p><b>1-  Hồi ký của Bác sĩ E. Wulff về Pháp nạn 1963: bài một</b></p>
-<p>2- <a href="https://sachhiem.net/LICHSU/E/Erichwulff.php">Hồi ký của Bác sĩ E. Wulff: bài hai - Đêm Phật Đản 8/5/1963</a></p>
-<p>3- <a href="https://sachhiem.net/LICHSU/E/Erichwulff.php">Hồi ký của Bác sĩ E. Wulff: bài ba - Tuyệt Thực - tháng 5/1963</a></p>
-<p>4- <a href="https://sachhiem.net/LICHSU/E/Erichwulff.php">Hồi ký của Bác sĩ E. Wulff: bài bốn - Tường trình tại Liên Hiệp Quốc  (9/196 3)</a></p>
-<p>5- <a href="https://sachhiem.net/LICHSU/E/Erichwulff.php">Hồi ký của Bác sĩ E. Wulff: bài chót -  Chuyến trở lại Việt Nam 1964 </a></p>
+<p>2- <a href="/LICHSU/E/Erichwulff">Hồi ký của Bác sĩ E. Wulff: bài hai - Đêm Phật Đản 8/5/1963</a></p>
+<p>3- <a href="/LICHSU/E/Erichwulff">Hồi ký của Bác sĩ E. Wulff: bài ba - Tuyệt Thực - tháng 5/1963</a></p>
+<p>4- <a href="/LICHSU/E/Erichwulff">Hồi ký của Bác sĩ E. Wulff: bài bốn - Tường trình tại Liên Hiệp Quốc  (9/196 3)</a></p>
+<p>5- <a href="/LICHSU/E/Erichwulff">Hồi ký của Bác sĩ E. Wulff: bài chót -  Chuyến trở lại Việt Nam 1964 </a></p>
 
 </div>
 <p><b>Bác sĩ người  Đức Erich Wulff</b> (1926-2010) dạy tại trường Ðại học Y khoa Huế 1961-1967, trong  khuôn khổ viện trợ giáo dục của Tây Ðức. Vì một sự tình cờ, tác giả đã chứng  kiến biến cố tại Ðài Phát thanh Huế đêm 8/5/1963 làm 8 Phật tử bị chết một cách  thê thảm và đã trình bày sự kiện này trước Ủy ban điều tra đàn áp Phật giáo  Việt Nam của Liên hiệp quốc vào tháng 9/1963.</p>
@@ -92,10 +92,10 @@ nhân lễ Phật Đản và  sinh nhật Hồ Chí Minh, nxb Argument 4/2009.</
 <hr>
 <p><b>Mời xem tiếp  các nội dung chính</b></p>
 <p>- <a href="https://tuvienhuequang.com/upload/album.html?albumid=115" target="_blank">Tổng hợp hình ảnh về BS.Wulff và Pháp nạn 1963</a> </p>
-<p>1- <a href="https://sachhiem.net/LICHSU/E/Erichwulff.php">Hồi ký của Bác sĩ E. Wulff về Pháp nạn 1963: bài một </a></p>
-<p>2- <a href="https://sachhiem.net/LICHSU/E/Erichwulff.php">Hồi ký của Bác sĩ E. Wulff: bài hai -</a> <a href="https://sachhiem.net/LICHSU/E/Erichwulff01.php">Đêm Phật Đản 8/5/1963</a></p>
-<p>3- <a href="https://sachhiem.net/LICHSU/E/Erichwulff.php">Hồi ký của Bác sĩ E. Wulff: bài ba -</a> <a href="https://sachhiem.net/LICHSU/E/Erichwulff02.php">Tuyệt Thực - tháng 5/1963</a></p>
-<p>4- <a href="https://sachhiem.net/LICHSU/E/Erichwulff.php">Hồi ký của Bác sĩ E. Wulff: bài bốn -</a><a href="https://sachhiem.net/LICHSU/E/Erichwulff03.php"> Tường trình tại Liên Hiệp Quốc  (9/196 3)</a></p>
-<p>5- <a href="https://sachhiem.net/LICHSU/E/Erichwulff.php">Hồi ký của Bác sĩ E. Wulff: bài chót - </a><a href="https://sachhiem.net/LICHSU/E/Erichwulff04.php">Chuyến trở lại Việt Nam 1964 </a></p>
+<p>1- <a href="/LICHSU/E/Erichwulff">Hồi ký của Bác sĩ E. Wulff về Pháp nạn 1963: bài một </a></p>
+<p>2- <a href="/LICHSU/E/Erichwulff">Hồi ký của Bác sĩ E. Wulff: bài hai -</a> <a href="/LICHSU/E/Erichwulff01">Đêm Phật Đản 8/5/1963</a></p>
+<p>3- <a href="/LICHSU/E/Erichwulff">Hồi ký của Bác sĩ E. Wulff: bài ba -</a> <a href="/LICHSU/E/Erichwulff02">Tuyệt Thực - tháng 5/1963</a></p>
+<p>4- <a href="/LICHSU/E/Erichwulff">Hồi ký của Bác sĩ E. Wulff: bài bốn -</a><a href="/LICHSU/E/Erichwulff03"> Tường trình tại Liên Hiệp Quốc  (9/196 3)</a></p>
+<p>5- <a href="/LICHSU/E/Erichwulff">Hồi ký của Bác sĩ E. Wulff: bài chót - </a><a href="/LICHSU/E/Erichwulff04">Chuyến trở lại Việt Nam 1964 </a></p>
 
 <p class="nguonL">nguồn https://tuvienhuequang.com/chuyen-muc/lich-su/2748-hoi-ky-cua-bac-si-wulff-ve-phap-nan-1963.html</p>

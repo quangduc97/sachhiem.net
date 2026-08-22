@@ -2,19 +2,17 @@
 layout: ../../../layouts/Article.astro
 title: "[VATICANOLOGY] Ky Tô Hữu Lại Giết Nhau -"
 author: "Minh Thạnh"
-source: "https://sachhiem.net/TONGIAO/tgM/MinhThanh28.php"
+source: "/TONGIAO/tgM/MinhThanh28"
 category: "Chính trị"
 lang: vi
 wordCount: 1985
-image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nha.jpg"
+image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/TONGIAO/IMG/UKRAINE/Ruoc_DM_Fatima_Ukraine.jpg"
 ---
 
 <p class="Tuaduoi">Bàn Về Đức Mẹ “Chiến Lược” Và Đức Mẹ “Chiến Thuật”</p>
 
 
- <p align="center"><a href="https://www.sachhiem.net/">
-<img border="0" src="https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nha.jpg"></a> 
-</p>
+ 
  <div class="tomluoc">
    <p><i> Đức Mẹ Fatima là một hình mẫu thần thánh “chiến lược”. Đức Mẹ Fatima là Đức Mẹ phục vụ cho chiến lược của Vatican chống cộng, chống liên xô, chống vô thần, bắt đầu từ năm 1917, năm diễn ra Cách mạng Tháng Mười. </i></p>
    <p>Ảnh minh họa lấy tư liệu từ internet  </p>

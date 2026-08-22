@@ -3,7 +3,7 @@ layout: ../../../layouts/Article.astro
 title: "Cũng Với Triều Ngô Đình Diệm - Mắc Bệnh Đổ Thừa"
 author: "Trần Quang Diệu - Tuấn Phan"
 date: 2013-07-20
-source: "https://sachhiem.net/LICHSU/TR/TQD31_dothua.php"
+source: "/LICHSU/TR/TQD31_dothua"
 category: "Đối thoại"
 lang: vi
 wordCount: 1054
@@ -31,7 +31,7 @@ Date: Sat, Jul 20, 2013 12:25 am </i></p>
 <p>- Những ai có thể tìm ra thi thể của Luật sư  Vương Quang Nhường, Nguyễn Bảo Toàn, Phạm Xuân Gia v.v... thì hé lộ thử  xem?&nbsp; </p>
 <p>Nội dung này tôi thấy trên nguồn https://sachhiem.net/, trong mục "Thư và&nbsp;Ý Kiến ngắn":</p>
 <p>______________________</p>
- <p>●  <a href="https://www.sachhiem.net/printemail.php?id=375" target="_blank" align="right">https://www.sachhiem.net/printemail.php?id=375&nbsp;</a></p>
+ <p>●  <a href="/printemail.php?id=375" target="_blank" align="right">https://www.sachhiem.net/printemail.php?id=375&nbsp;</a></p>
 <p class="Tuaduoi">Mắc Bệnh Đổ Thừa - Lý do thật sự buộc TT Diệm phải giết  Ba Cụt</p>
 <p><i>From: Tuan Phan&nbsp;<br>
 Subject: Lý do thật sự buộc TT Diệm phải gi﻿﻿ết Ba Cụt. Re: [Thaoluan9]&nbsp;<br>
@@ -85,4 +85,4 @@ Mọi tội lỗi của TT Diệm thuộc trách nhiệm của Chúa, còn ông 
 <p>
 Của Chính Phủ Ngô Đình Diệm</p>
 
-<p><a href="https://sachhiem.net/LICHSU/D/DoanThem.php">https://sachhiem.net/LICHSU/D/DoanThem.php</a></p>
+<p><a href="/LICHSU/D/DoanThem">https://sachhiem.net/LICHSU/D/DoanThem.php</a></p>

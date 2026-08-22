@@ -2,7 +2,7 @@
 layout: ../../../layouts/Article.astro
 title: "CÂU CHUYỆN CUỐI TUẦN"
 author: "Huỳnh Bất Hoặc"
-source: "https://sachhiem.net/null"
+source: "/null"
 lang: vi
 wordCount: 2225
 image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nhacu.jpg"
@@ -27,7 +27,7 @@ image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nhacu.jpg"
 <table border="0" cellpadding="10" cellspacing="0" width="100%" topmargin="10"> 
 <tbody><tr><td bgcolor="White" align="justify" valign="top">
 <table border="0" cellpadding="10" width="100%" cols="2"><tbody><tr>
-<td valign="top"><a href="https://sachhiem.net/"><img border="0" src="https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nhacu.jpg" width="49" height="20"></a></td>
+<td valign="top"><a href="/"><img border="0" src="https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nhacu.jpg" width="49" height="20"></a></td>
 <td valign="top" style="text-align:right">	<i><font size="2">23 tháng 10, 2008
 </font> </i>
 </td></tr></tbody></table>

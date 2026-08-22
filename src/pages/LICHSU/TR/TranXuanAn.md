@@ -2,7 +2,7 @@
 layout: ../../../layouts/Article.astro
 title: "Nhật Ký Tìm Hiểu Nhân Vật Lịch Sử Hồ Chí Minh (Trần Xuân An)"
 author: "Trần Xuân An"
-source: "https://sachhiem.net/sachhiem@sachhiem.net"
+source: "/sachhiem@sachhiem.net"
 category: "Lịch sử"
 lang: vi
 wordCount: 248

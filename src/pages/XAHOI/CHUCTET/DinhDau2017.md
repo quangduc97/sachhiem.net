@@ -3,7 +3,7 @@ layout: ../../../layouts/Article.astro
 title: "Chúc Mừng Năm Mới 2017"
 author: "SH và thân hữu"
 date: 2017-01-01
-source: "https://sachhiem.net/XAHOI/CHUCTET/DinhDau2017.php"
+source: "/XAHOI/CHUCTET/DinhDau2017"
 category: "Xã hội"
 lang: vi
 wordCount: 167

@@ -3,7 +3,7 @@ layout: ../../../layouts/Article.astro
 title: "Lễ Thượng cờ Việt Nam nhân dịp kỷ niệm Quốc khánh lần thứ 76 tại San Francisco"
 author: "TLSVN_SF"
 date: 2021-09-01
-source: "https://sachhiem.net/LICHSU/S/SH07_DocLap2021.php"
+source: "/LICHSU/S/SH07_DocLap2021"
 category: "Chính trị"
 lang: vi
 wordCount: 805

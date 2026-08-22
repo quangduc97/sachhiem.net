@@ -3,15 +3,15 @@ layout: ../../../layouts/Article.astro
 title: "Mê Tín Tới Chết:"
 author: "Bích Lam"
 date: 2012-06-05
-source: "https://sachhiem.net/TONGIAO/tgB/BichLam.php"
+source: "/TONGIAO/tgB/BichLam"
 category: "Tác giả"
 lang: vi
 wordCount: 425
-image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nha.jpg"
+image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/TONGIAO/IMG/METIN/Bichlam_mack_wolford_rattlesnake.jpg"
 ---
 
 <table border="0" width="250" align="center">
- <tbody><tr><td width="100"><a href="/index"><img border="0" src="https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nha.jpg"></a></td>
+ <tbody><tr><td width="100"></td>
 		<td valign="top" width="194">05-Jun-2012</td>
  </tr>
 </tbody></table>

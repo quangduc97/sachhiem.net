@@ -3,14 +3,14 @@ layout: ../../layouts/Article.astro
 title: "Chuyện Thạch Sanh và Khái Niệm Thiện - Ác"
 author: "Đỗ Minh Hòa"
 date: 2013-08-22
-source: "https://sachhiem.net/VANHOC/Dominhhoa.php"
+source: "/VANHOC/Dominhhoa"
 category: "Văn hóa"
 lang: vi
 wordCount: 6806
 image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/DOITHOAI/IMG/Bookends.jpg"
 ---
 
-<p><i>LTS: Bài viết sau đây là trích đoạn những lá thư trao đổi của anh bạn trẻ Đỗ  Minh Hòa với một chị bạn sau lá thư gửi sachhiem.net (<a href="https://sachhiem.net/index.php?content=showrecipe&amp;id=5703">Vài Lời Tâm Sự Với Sachhiem</a>). Bài có nhiều lý luận có tính  cách khoa học, giúp chúng ta suy nghĩ chín chắn về một vấn đề hay một câu chuyện  được truyền tụng lâu đời với nhiều ẩn ý mặc định và ước lệ về &nbsp;nhân vật Thiện hay nhân vật Ác.    Những mặc định hay ước lệ này có thể không giúp ích gì khi ứng dụng thực tế, có thể bị xem là ứng xử thiếu thông minh. Trung, Hiếu, Nghĩa, Tín,... khi đặt vào một tình huống chọn lựa, được này thì mất kia, thường là chọn  ưu tiên theo quan niệm chủ quan về “Thiện”. Đỗ Minh Hòa  đặt  mọi chọn lựa trên một số câu hỏi trải rộng và thực tế hơn, nhiều lúc dẫn đến lật  ngược vai trò Thiện và Ác.</i></p>
+<p><i>LTS: Bài viết sau đây là trích đoạn những lá thư trao đổi của anh bạn trẻ Đỗ  Minh Hòa với một chị bạn sau lá thư gửi sachhiem.net (<a href="/TONGIAO/tgD/DoMinhHoa">Vài Lời Tâm Sự Với Sachhiem</a>). Bài có nhiều lý luận có tính  cách khoa học, giúp chúng ta suy nghĩ chín chắn về một vấn đề hay một câu chuyện  được truyền tụng lâu đời với nhiều ẩn ý mặc định và ước lệ về &nbsp;nhân vật Thiện hay nhân vật Ác.    Những mặc định hay ước lệ này có thể không giúp ích gì khi ứng dụng thực tế, có thể bị xem là ứng xử thiếu thông minh. Trung, Hiếu, Nghĩa, Tín,... khi đặt vào một tình huống chọn lựa, được này thì mất kia, thường là chọn  ưu tiên theo quan niệm chủ quan về “Thiện”. Đỗ Minh Hòa  đặt  mọi chọn lựa trên một số câu hỏi trải rộng và thực tế hơn, nhiều lúc dẫn đến lật  ngược vai trò Thiện và Ác.</i></p>
 <p><i> Thật ra, các truyện cố tích thường giành cho trẻ con, nên  chỉ có một thông điệp rất đơn giản: ở hiền thì gặp lành. Và thật ra nó cũng có tác dụng tức thời về rèn luyện nhân cách cho trẻ con hơn là việc đem trẻ con đi rửa tội để theo một tôn giáo. Nhưng nếu phân tích cấu trúc cốt truyện hay việc xây dựng một nhân vật như dành cho một sáng tác văn nghệ ngày nay sẽ làm cho các truyện cổ tích đều bị rơi đài! </i></p>
 <p><i>Những lý luận trong bài có thể cho là tuyệt hay, có  thể còn khiếm khuyết, tùy theo lăng kính của mỗi người. Chúng tôi không cốt ý  cho rằng “đúng” hay “sai”, nhưng &nbsp;nó có  đủ khả năng làm một bài &nbsp;thực tập vỡ lòng,  giúp người ta suy nghĩ về các khái niệm trừu tượng như công bằng, bác ái, thiện,  ác,... trong &nbsp;nhãn quan khoa học. Bài đối  đáp  có nhiều ký hiệu để mô tả các  cảm xúc trong khi giao tế như mĩm cười :), mếu :(, cười to :D,... &nbsp;và trong khung cảnh diễn đàn nên không theo  khuôn mẫu của một bài văn. Câu chuyện bắt đầu. </i> (SH) </p>
 <hr>

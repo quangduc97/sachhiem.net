@@ -2,18 +2,17 @@
 layout: ../../../layouts/Article.astro
 title: "VÀI NHẬN XÉT VỀ BÀI:"
 author: "Trần Chung Ngọc"
-source: "https://sachhiem.net/TCN/TCNdt/TCNdt058.php"
+source: "/TCN/TCNdt/TCNdt058"
 category: "Đối thoại"
 lang: vi
 wordCount: 7611
-image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nha.jpg"
 ---
 
 <p class="Tuaduoi"> “Một bài viết thiếu tiêu chuẩn khoa học của ông Trần Chung Ngọc”</p>
           <p class="Tuaduoi"> Của Nguyễn Tường Tâm </p>
           
           
-          <p align="center"><a href="https://www.sachhiem.net/"> <img border="0" src="https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nha.jpg"></a> ngày 07 tháng 11, 2007</p>
+          <p align="center"> ngày 07 tháng 11, 2007</p>
           <p> <i>LTS: Thể văn "tấn công hay ám sát cá nhân" (personal  attack, or character assassination)thường được xử dụng khi người viết tức  giận một cá nhân tác giả nào đã viết hay nói ra những điều trái ý mình,  nhưng không đủ dữ liệu để chứng minh ngược lại những luận cứ của đối phương  .  Việc tấn công cá nhân thể hiện bằng nhiều hình thức khác nhau. Hạ đẳng  nhất là vu vạ những chuyện thuộc đời tư, vợ con, thân nhân xa gần, không  liên hệ gì đến những chủ đề của người ta. Trung kế là phê bình những chi  tiết về hình thức, văn phong, văn từ, văn phạm theo kiến thức văn học (theo  trình độ của mình). Cố gắng hơn một chút là bẻ quẹo, đánh lạc chủ đề, hoặc  bắt đầu lý luận đàng sau một số tiền đề đã sai lầm từ nguyên lý (fallacy).   Người đọc nếu thờ ơ không nhận rõ những tiền đề tiềm ẩn trong mạch lý  luận sẽ luôn luôn thấy có lý.  Đăng bài phản hồi của tác giả Trần Chung Ngọc  đối với bài viết của ông Nguyễn Tường Tâm, sachhiem.net hy vọng bạn đọc có  thêm một số dữ kiện để soi sáng thái độ của các tác giả bài viết công kích  ông từ mấy năm nay.<span lang="en-us"> (SH)</span></i></p>
           <hr align="center" width="50%" size="1">
           <p><span class="First">T</span>ôi được giaodiemonline gửi E-mail cho biết có người mời tôi đọc bài <b>“Một bài viết thiếu tiêu chuẩn khoa học của ông Trần Chung Ngọc” </b>của ông  Nguyễn Tường Tâm trên Talawas. Đọc xong tôi đã gửi vài dòng cho Talawas  trên mục “Ý Kiến Ngắn” nguyên văn như sau:

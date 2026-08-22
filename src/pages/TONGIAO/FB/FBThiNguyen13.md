@@ -3,7 +3,7 @@ layout: ../../../layouts/Article.astro
 title: "CHUYỆN NOEL: “CỦA CAESAR, TRẢ VỀ CHO CAESAR”"
 author: "FB Thi Nguyễn"
 date: 2020-09-17
-source: "https://sachhiem.net/TONGIAO/FB/FBThiNguyen13.php"
+source: "/TONGIAO/FB/FBThiNguyen13"
 category: "Tác giả"
 lang: vi
 wordCount: 3464

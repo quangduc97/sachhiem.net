@@ -3,7 +3,7 @@ layout: ../../../layouts/Article.astro
 title: "Việc Đi Đêm Giữa Đảng CSVN và Vatican"
 author: "Mi-Lu Dau"
 date: 2016-11-06
-source: "https://sachhiem.net/THOISU_CT/ChuM/MiLuDau_03.php"
+source: "/THOISU_CT/ChuM/MiLuDau_03"
 category: "Chính trị"
 lang: vi
 wordCount: 1963

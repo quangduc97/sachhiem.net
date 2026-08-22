@@ -3,7 +3,7 @@ layout: ../../../layouts/Article.astro
 title: "[VATICANOLOGY] - Chính Quyền Vatican Tưởng Thưởng Phong Hồng Y"
 author: "Minh Thạnh"
 date: 2022-09-01
-source: "https://sachhiem.net/TONGIAO/tgM/MinhThanh38.php"
+source: "/TONGIAO/tgM/MinhThanh38"
 category: "Tác giả"
 lang: vi
 wordCount: 2641

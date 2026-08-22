@@ -3,7 +3,7 @@ layout: ../../layouts/Article.astro
 title: "Có Những Con Người Vô Tâm"
 author: "Trần Tiên Long"
 date: 2018-12-23
-source: "https://sachhiem.net/TTL/TranTL77.php"
+source: "/TTL/TranTL77"
 category: "Đối thoại"
 lang: vi
 wordCount: 2005
@@ -52,6 +52,6 @@ image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/THOISU_CT/Hinh/HOAKY
   https://mic.com/articles/114276/11-formerly-incarcerated-people-who-are-now-changing-the-world#.rsx7QwpZp</p>
 
 <hr>
-<p><a href="https://sachhiem.net/TTL/List.inc.php">Các bài của Trần Tiên Long » </a></p>
+<p><a href="/TTL/List.inc">Các bài của Trần Tiên Long » </a></p>
 
 <hr>

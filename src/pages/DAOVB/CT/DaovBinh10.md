@@ -2,7 +2,7 @@
 layout: ../../../layouts/Article.astro
 title: "Từ Thượng Đỉnh ASEAN- Nhật Bản tới Ô. John Kerry"
 author: "Đào Văn Bình"
-source: "https://sachhiem.net/DAOVB/CT/DaovBinh10.php"
+source: "/DAOVB/CT/DaovBinh10"
 category: "Chính trị"
 lang: vi
 wordCount: 2178
@@ -44,6 +44,6 @@ image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/THOISU_CT/Hinh/JAPAN
 <p class="TacgiaR"><b><i>Đào Văn Bình</i></b></p>
 <p align="right"><i>(California ngày 16/12/2013)</i></p>
  <p>____________________</p>
-   <p><a href="https://sachhiem.net/LICHSU/H/HoangSa_list.php">Các bài về Hoàng Sa- Trường Sa đăng trên sachhiem.net » </a></p>
+   <p><a href="/LICHSU/H/HoangSa_list">Các bài về Hoàng Sa- Trường Sa đăng trên sachhiem.net » </a></p>
      
 <hr>

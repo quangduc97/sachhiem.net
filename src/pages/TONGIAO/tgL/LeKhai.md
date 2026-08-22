@@ -3,7 +3,7 @@ layout: ../../../layouts/Article.astro
 title: "Hãy Trả Lại Sự Trong Sạch Cho Người Việt"
 author: "Lê Khải"
 date: 2013-03-07
-source: "https://sachhiem.net/TONGIAO/tgL/LeKhai.php"
+source: "/TONGIAO/tgL/LeKhai"
 category: "Tác giả"
 lang: vi
 wordCount: 1142

@@ -3,7 +3,7 @@ layout: ../../../layouts/Article.astro
 title: "Tài Liệu Cáo Giác Hoạt Động Chính Trị"
 author: "Thư viện Phạm Văn Thành"
 date: 2015-11-11
-source: "https://sachhiem.net/THOISU_CT/ChuT/TinPhamVThanh01.php"
+source: "/THOISU_CT/ChuT/TinPhamVThanh01"
 category: "Chính trị"
 lang: vi
 wordCount: 511
@@ -35,13 +35,13 @@ image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/THOISU_CT/Hinh/FRONT
 </div>
  <p><b>SH mời đọc thêm:</b></p>
 <p>- Khủng Bố Ở Little Saigon - Cuộc Điều Tra Đã Bắt Đầu (PBS Frontline)<br>
-  <a href="https://sachhiem.net/THOISU_CT/ChuT/TinProPublica.php">https://sachhiem.net/THOISU_CT/ChuT/TinProPublica.php</a></p>
+  <a href="/THOISU_CT/ChuT/TinProPublica">https://sachhiem.net/THOISU_CT/ChuT/TinProPublica.php</a></p>
 <p>- Trình Chiếu Trên Truyền Hình Mỹ Cuộc Điều Tra Về Khủng Bố tại Tiểu Sài Gòn (www.pbs.org)<br>
-  <a href="https://sachhiem.net/XAHOI/T/TheFront.php">https://sachhiem.net/XAHOI/T/TheFront.php</a></p>
+  <a href="/XAHOI/T/TheFront">https://sachhiem.net/XAHOI/T/TheFront.php</a></p>
 <p> - Phỏng Vấn Các Nhân Vật Liên Quan Trong Phim "Terror In Little Saigon" (Người Việt và CaliToday)<br>
-  <a href="https://sachhiem.net/THOISU_CT/ChuT/TinNgViet01.php">https://sachhiem.net/THOISU_CT/ChuT/TinNgViet01.php</a></p>
+  <a href="/THOISU_CT/ChuT/TinNgViet01">https://sachhiem.net/THOISU_CT/ChuT/TinNgViet01.php</a></p>
 <p>- Việt Tân là gì? (Phạm Văn Thành) <br>
-  <a href="https://sachhiem.net/THOISU_CT/ChuT/TinPhamVThanh.php">https://sachhiem.net/THOISU_CT/ChuT/TinPhamVThanh.php</a></p>
+  <a href="/THOISU_CT/ChuT/TinPhamVThanh">https://sachhiem.net/THOISU_CT/ChuT/TinPhamVThanh.php</a></p>
   <hr>
 <p class="TuaDenLeft"> <a name="n1" href="/THOISU_CT/#one">I- Tài Liệu của FBI - năm 1992: </a> cáo giác "Hoạt Động Chính Trị và Tội Ác Gia Tăng của Mặt Trận Hoàng Cơ Minh" </p>
 <p align="center">(7 trang tất cả. Bấm vào trang hình để xem lớn hơn)<br> 

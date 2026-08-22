@@ -3,7 +3,7 @@ layout: ../../../layouts/Article.astro
 title: "Tôi Viết Cho Một Thế Hệ Không Biết Cúi Đầu"
 author: "LT/ Không Sợ Chó"
 date: 2019-04-07
-source: "https://sachhiem.net/LICHSU/T/Tin0socho_01.php"
+source: "/LICHSU/T/Tin0socho_01"
 category: "Chính trị"
 lang: vi
 wordCount: 3220

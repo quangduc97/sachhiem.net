@@ -3,7 +3,7 @@ layout: ../../../layouts/Article.astro
 title: "Nguyên Nhân Cuộc Chiến Việt Nam 1955-1975"
 author: "Trần Văn Xẻn"
 date: 2018-04-27
-source: "https://sachhiem.net/LICHSU/TR/TranVanXen.php"
+source: "/LICHSU/TR/TranVanXen"
 category: "Chính trị"
 lang: vi
 wordCount: 4905

@@ -3,18 +3,17 @@ layout: ../../layouts/Article.astro
 title: "Bước Mở Đầu Của Sự Thiết Lập Hệ Thống Thuộc Địa Pháp Ở Việt Nam"
 author: "TS Nguyễn Xuân Thọ"
 date: 2023-02-13
-source: "https://sachhiem.net/NGXUANTHO/BuocMoDau_13.php"
+source: "/NGXUANTHO/BuocMoDau_13"
 category: "Lịch sử"
 lang: vi
 wordCount: 4824
-image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nha.jpg"
+image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/sqdot.gif"
 ---
 
 <p class="Tuaduoi"><b>Pháp Đánh Chiếm Bắc Kỳ </b></p>
 
 
-  <p align="center"><a href="https://www.sachhiem.net/">
-<img border="0" src="https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nha.jpg"></a>| <a target="_blank" href="https://sachhiem.net/NGXUANTHO/BuocMoDau_Main.php"><span lang="en-us"><b><font face="Symbol">¿</font></b></span> trở ra mục lục</a>| 13-Feb-2023</p> 
+  <p align="center">| <a target="_blank" href="/NGXUANTHO/BuocMoDau_Main"><span lang="en-us"><b><font face="Symbol">¿</font></b></span> trở ra mục lục</a>| 13-Feb-2023</p> 
 <p class="TuaDoLeft"><b>Chương 12 - Cuộc Đánh Chiếm Bắc Kỳ Của Pháp</b></p>
 <p>Cuối năm 1877, một nội các Cộng hòa lên cầm quyền tại Pháp. Vấn đề chế độ chính trị đã được giải quyết; những người&nbsp;<i>“Cộng hòa ôn hòa”</i>, những người&nbsp;<i>“cơ hội chủ nghĩa”</i>, do nguồn gốc xã hội của họ, theo dõi những câu chuyện của giới kinh doanh với một cảm tình; họ quan tâm đến việc bành trướng thuộc địa; họ gắn bó với giới tài chánh cao cấp, với những kẻ&nbsp;<i>“đầu cơ chứng khoán”.</i></p>
 <p>Chủ nghĩa đế quốc Pháp, trong khía cạnh đặc biệt của nó, mang trước tiên một tính chất cho vay nặng lãi. Các tư bản Pháp chủ yếu đầu tư khu vực tài sản quốc gia, một phần vào các thuộc địa và, sau cùng, ở một mức độ rất thấp vào các xí nghiệp công nghiệp. Sự chuyển hướng đường lối chính trị của Pháp, ngay từ 1879 là tiếp theo một sự thay đổi trong chính sách tài chánh của một vài ngân hàng quan trọng, trong đó sáng kiến đầu tiên thuộc về ngân hàng&nbsp;<i>“Crédit Lyonnais”</i>. Ngân hàng này, ngay những năm sau chiến tranh Pháp - Đức, đã tiến hành xuất khẩu tư bản sang các nước thuộc địa và các nước lệ thuộc.</p>

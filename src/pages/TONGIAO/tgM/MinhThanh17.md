@@ -3,7 +3,7 @@ layout: ../../../layouts/Article.astro
 title: "Não Trạng “Sợ Công Giáo” Trong Giới Cầm Bút"
 author: "Minh Thạnh"
 date: 2021-07-24
-source: "https://sachhiem.net/TONGIAO/tgM/MinhThanh17.php"
+source: "/TONGIAO/tgM/MinhThanh17"
 category: "Tác giả"
 lang: vi
 wordCount: 3040

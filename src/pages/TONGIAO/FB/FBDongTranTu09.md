@@ -3,7 +3,7 @@ layout: ../../../layouts/Article.astro
 title: "Vài Ý Nghĩ Về Chuyện Cây Thập Giá Lịch Sử"
 author: "Đồng Trần Tử"
 date: 2025-01-02
-source: "https://sachhiem.net/TONGIAO/FB/FBDongTranTu09.php"
+source: "/TONGIAO/FB/FBDongTranTu09"
 category: "Chính trị"
 lang: vi
 wordCount: 937

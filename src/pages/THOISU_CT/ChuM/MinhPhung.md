@@ -3,16 +3,16 @@ layout: ../../../layouts/Article.astro
 title: "Trở lại câu chuyện về \"bomb lady\" Dương Nguyệt Ánh ở Mỹ\""
 author: "Minh Phụng/CAND"
 date: 2012-07-05
-source: "https://sachhiem.net/THOISU_CT/ChuM/MinhPhung.php"
+source: "/THOISU_CT/ChuM/MinhPhung"
 category: "Chính trị"
 lang: vi
 wordCount: 2146
-image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nha.jpg"
+image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/KHOAHOC/IMG/DuongNA.jpg"
 ---
 
 <table border="0" cellpadding="0" width="250" align="center">
             <tbody><tr>
-              <td width="125"><a href="/index"><img border="0" src="https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nha.jpg"></a></td>
+              <td width="125"></td>
               <td valign="middle">05-Jul-2012</td>
             </tr>
           </tbody></table>
@@ -144,7 +144,7 @@ image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nha.jpg"
               của Mỹ bằng cách làm bom ác liệt hơn để cho Mỹ đi thả trên đầu
               người dân Afghanistan v.v..., thật là một lối đền đáp ơn trên một
               cách kỳ lạ, vượt ra ngoài sự tưởng tượng của một con người đúng
-              nghĩa là một con người…</i>". (<a href="https://sachhiem.net/TCN/TCNkh/TCNkh14.php">Vấn Đề Đạo Đức Trong Khoa Học: https://sachhiem.net/TCN/TCNkh/TCNkh14.php</a>)</p>
+              nghĩa là một con người…</i>". (<a href="/TCN/TCNkh/TCNkh14">Vấn Đề Đạo Đức Trong Khoa Học: https://sachhiem.net/TCN/TCNkh/TCNkh14.php</a>)</p>
           </div>
           <p>Ông Trần Chung Ngọc cũng đặt câu hỏi: <i>Không
                 rõ Dương Nguyệt Ánh có biết những người lính mà bà ta muốn "tri ân" "đã

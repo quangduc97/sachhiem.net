@@ -2,22 +2,22 @@
 layout: ../../../layouts/Article.astro
 title: "Chân Dung \"Người Việt Quốc Gia\""
 author: "Nguyễn Mạnh Quang"
-source: "https://sachhiem.net/NMQ/ChanDungVNCH/QMN00.php"
+source: "/NMQ/ChanDungVNCH/QMN00"
 lang: vi
 wordCount: 3627
-image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nha.jpg"
+image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/print.gif"
 ---
 
 <p class="Tuaduoi">Và Lá Cờ Vàng Ba Sọc Đỏ</p>
           
           
-          <p align="center"><a href="/index"> <img hspace="20" border="0" src="https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nha.jpg"></a> <a target="_top" href="/NMQ/ChanDungVNCH/QMN08a"><img hspace="20" border="0" src="https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/print.gif" width="18" height="18"> bản in</a> <a target="_top" href="/NMQ/ChanDungVNCH/ChanDung_Main"><img hspace="20" border="0" src="https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/Leftarrow.gif" width="13" height="13"> mục lục</a> đăng ngày 08 tháng 6, 2008 </p>
+          <p align="center"> <a target="_top" href="/NMQ/ChanDungVNCH/QMN08a"><img hspace="20" border="0" src="https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/print.gif" width="18" height="18"> bản in</a> <a target="_top" href="/NMQ/ChanDungVNCH/ChanDung_Main"><img hspace="20" border="0" src="https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/Leftarrow.gif" width="13" height="13"> mục lục</a> đăng ngày 08 tháng 6, 2008 </p>
           <p>Toàn tập:
           </p><p><b><a href="/NMQ/#LTS">Lời Tòa Sọan</a></b> - <b><a href="/NMQ/#NỘI_DUNG">Nội Dung</a></b> - <b><a href="/NMQ/#DẪN_NHẬP_">Dẫn Nhập</a></b></p>
           <p><i><a name="LTS">LTS</a>: Có lẽ đối với những người Việt trong nước thì chuyện Lá Cờ Vàng Ba Sọc đỏ không còn gì để nói hay "lo ngại" nữa. Nhưng những người cuồng tín ở hải ngoại vẫn còn và càng ngày càng bám vào lá cờ này để "sinh hoạt". Giá như những hoạt động của những người "không hiểu biết" này xảy ra trong cùng một xã hội chính trị, người ta có thể mĩm cười và bỏ qua với ánh mắt thương hại.  Nhưng những người này ở ngoài nước, lại ở trong một cường quốc kinh tế, quân sự và chính trị, hành động nào có thể bị "người ngoại quốc" lợi dụng được, đều sẽ là trở ngại cho sự vẹn toàn của cộng đồng quốc gia dân tộc nơi bản xứ, và trở thành "đáng kể".  Sachhiem.net trân trọng giới thiệu tập sách mới của tác gả Nguyễn Mạnh Quang: "Chân Dung Người Việt Quốc Gia và Lá Cờ Vàng Ba Sọc Đỏ" mong được một vài con mắt quan tâm. Tác giả đang viết và sachhiem.net sẽ đăng từ từ mỗi chương cho đến  hết. (SH) </i></p>
           <hr width="50%">
           <p class="TuaChuong"> <a name="NỘI_DUNG">NỘI DUNG</a></p>
-          <p><a href="https://sachhiem.net/NMQ/ChanDungVNCH/QMN00.php#DẪN_NHẬP_">Dẫn Nhập</a> (18)</p>
+          <p><a href="/NMQ/ChanDungVNCH/QMN00#DẪN_NHẬP_">Dẫn Nhập</a> (18)</p>
           <p>Chương 1: <a href="/NMQ/ChanDungVNCH/QMN01">Quan niệm cổ truyền 
             về chính thống hay chính nghĩa của người lên cầm quyền</a> (21) <a href="/NMQ/ChanDungVNCH/QMN01">1</a> <a href="/NMQ/ChanDungVNCH/QMN01a">2</a> <a href="/NMQ/ChanDungVNCH/QMN01b">3</a> <a href="/NMQ/ChanDungVNCH/QMN01c">4</a> </p>
           <p>Chương 2: <a href="/NMQ/ChanDungVNCH/QMN02">Tính cách thuận lý 

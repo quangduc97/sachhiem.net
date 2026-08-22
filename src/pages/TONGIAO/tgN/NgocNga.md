@@ -2,15 +2,13 @@
 layout: ../../../layouts/Article.astro
 title: "Đức Giêsu, Một Tên Vô Thần ?"
 author: "Ngọc Nga sưu tầm"
-source: "https://sachhiem.net/TONGIAO/tgN/NgocNga.php"
+source: "/TONGIAO/tgN/NgocNga"
 category: "Tác giả"
 lang: vi
 wordCount: 800
-image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nha.jpg"
 ---
 
-<p align="center"><a href="https://www.sachhiem.net/">
-	<img border="0" src="https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nha.jpg"></a> 22 tháng 4, 2009</p> 	  
+<p align="center"> 22 tháng 4, 2009</p> 	  
 	
 	<p><i>LTS: Câu chuyện sau đây được tung ra diễn đàn emails sau những bức thư đấu đá về tôn giáo bắt đầu bằng những bài giảng bên đạo Công Giáo gây cho phía phi-Thiên-Chúa-giáo thắc mắc. Lúc đầu phía bị chất vấn (Thiên Chúa giáo) thách thức, tự đại, nhưng về sau bắt đâu tỏ ra lúng túng, tiến thoái lưỡng nan, khí tiết hung hãn ban đầu cũng không dám tiếp tục bộc lộ, cho nên tìm được một bài rút rào xuôi. Câu chuyện sau đây người gửi ngầm cho là: "thôi nhé, huề cả làng!" - Nhưng nếu ai xem lại chỉ thấy huề giữa những người cùng thờ Chúa thôi (TL và CG), chẳng huề được với các tín ngưỡng khác.</i> </p>
 	<p><i>Thật ra câu chuyện này thoạt tiên đã "loại trừ" nhân vật chính, nhức nhối nhất trong những 

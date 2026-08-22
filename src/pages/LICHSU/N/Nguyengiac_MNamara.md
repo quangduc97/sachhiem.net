@@ -3,7 +3,7 @@ layout: ../../../layouts/Article.astro
 title: "Bộ Trưởng Mcnamara Viết Từ Sài Gòn:"
 author: "Nguyên Giác dịch"
 date: 2013-10-20
-source: "https://sachhiem.net/LICHSU/N/Nguyengiac_MNamara.php"
+source: "/LICHSU/N/Nguyengiac_MNamara"
 category: "Lịch sử"
 lang: vi
 wordCount: 1814

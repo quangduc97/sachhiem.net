@@ -3,7 +3,7 @@ layout: ../../layouts/Article.astro
 title: "Bức Điện Tín Của Các Phóng Viên Gửi Tổng Thống Hoa Kỳ"
 author: "Lý Thái dịch"
 date: 2016-06-08
-source: "https://sachhiem.net/LTX/LyThaiSN01.php"
+source: "/LTX/LyThaiSN01"
 category: "Tác giả"
 lang: vi
 wordCount: 764

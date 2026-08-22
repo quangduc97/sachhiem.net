@@ -3,7 +3,7 @@ layout: ../../../layouts/Article.astro
 title: "30 THÁNG 4: Tản Mạn Nhân Vật Lịch Sử Dương Văn Minh"
 author: "Trần Văn Chánh"
 date: 2018-04-24
-source: "https://sachhiem.net/LICHSU/TR/TranVanChanh.php"
+source: "/LICHSU/TR/TranVanChanh"
 category: "Chính trị"
 lang: vi
 wordCount: 4811

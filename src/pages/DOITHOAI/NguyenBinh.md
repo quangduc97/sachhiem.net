@@ -3,7 +3,7 @@ layout: ../../layouts/Article.astro
 title: "Thư Gửi Bà Thanh - biệt danh Trưng Triệu"
 author: "Nguyễn Bình"
 date: 2013-01-17
-source: "https://sachhiem.net/DOITHOAI/NguyenBinh.php"
+source: "/DOITHOAI/NguyenBinh"
 category: "Đối thoại"
 lang: vi
 wordCount: 1181
@@ -15,7 +15,7 @@ image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/LICHSU/IMG/SuVN/Haib
 	 
  
      <p><b>Dẫn: <i>Mưu Đồ Lập "Diệm Giáo" Thờ Kẻ Tội Đồ Lịch Sử Nhân Loại</i></b><i>,</i><br>
-<a href="https://www.sachhiem.net/index.php?content=showemail&amp;id=353">https://sachhiem.net/index.php?content=showemail&amp;id=353</a></p>
+<a href="/hop-thu/353">https://sachhiem.net/index.php?content=showemail&amp;id=353</a></p>
 <hr>
      <p> <i>From: binh nguyen
 <br>

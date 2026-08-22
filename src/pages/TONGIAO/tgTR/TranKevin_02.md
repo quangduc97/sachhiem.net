@@ -3,7 +3,7 @@ layout: ../../../layouts/Article.astro
 title: "Đừng Đặt Các Linh Mục Lên Bệ Thờ"
 author: "J.B. Thái Hòa chuyển dịch/ Kevin phê bình"
 date: 2018-04-02
-source: "https://sachhiem.net/TONGIAO/tgTR/TranKevin_02.php"
+source: "/TONGIAO/tgTR/TranKevin_02"
 category: "Tác giả"
 lang: vi
 wordCount: 4682

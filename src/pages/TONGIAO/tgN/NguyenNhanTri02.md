@@ -3,7 +3,7 @@ layout: ../../../layouts/Article.astro
 title: "Kẻ Ngoại Đạo Nhìn Thiên Chúa Giáo Và Hồi Giáo: Giống Nhau"
 author: "Nguyễn Nhân Trí"
 date: 2018-01-23
-source: "https://sachhiem.net/TONGIAO/tgN/NguyenNhanTri02.php"
+source: "/TONGIAO/tgN/NguyenNhanTri02"
 category: "Chính trị"
 lang: vi
 wordCount: 2352
@@ -58,4 +58,4 @@ image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/TONGIAO/IMG/CARTOON/
   <p class="TacgiaL">Nguyễn Nhân Trí </p>
   <p>___________________</p>
   <p><b>Bài đọc thêm:</b></p>
-  <p>- <a href="https://sachhiem.net/TONGIAO/tgS/SH72.php">Những đoạn kinh thánh đáng nhớ</a> (SH sưu tầm)</p>
+  <p>- <a href="/TONGIAO/tgS/SH72">Những đoạn kinh thánh đáng nhớ</a> (SH sưu tầm)</p>

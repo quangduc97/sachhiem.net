@@ -3,7 +3,7 @@ layout: ../../../layouts/Article.astro
 title: "Một Ý Kiến Khác Bàn Về “Tứ Đại Ngu”"
 author: "bài phỏng vấn của Lê Dũng"
 date: 2013-03-09
-source: "https://sachhiem.net/THOISU_CT/ChuH/HgHPhuoc.php"
+source: "/THOISU_CT/ChuH/HgHPhuoc"
 category: "Chính trị"
 lang: vi
 wordCount: 3517

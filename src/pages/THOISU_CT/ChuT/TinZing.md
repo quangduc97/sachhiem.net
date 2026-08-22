@@ -3,7 +3,7 @@ layout: ../../../layouts/Article.astro
 title: "Cô Gái 17 Tuổi Kêu Gọi Phản Đối Trung Quốc Tại Trường Học Mỹ"
 author: "Liên Mạng"
 date: 2014-05-20
-source: "https://sachhiem.net/THOISU_CT/ChuT/TinZing.php"
+source: "/THOISU_CT/ChuT/TinZing"
 category: "Tác giả"
 lang: vi
 wordCount: 339

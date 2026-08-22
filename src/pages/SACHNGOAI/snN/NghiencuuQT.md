@@ -3,7 +3,7 @@ layout: ../../../layouts/Article.astro
 title: "So sánh việc truyền đạo Cơ đốc ở TQ và VN trong TK 19"
 author: "GS. Li Chuanbin | NNC Phạm Thị Hảo dịch"
 date: 2018-03-09
-source: "https://sachhiem.net/SACHNGOAI/snN/NghiencuuQT.php"
+source: "/SACHNGOAI/snN/NghiencuuQT"
 category: "Sách ngoại văn"
 lang: vi
 wordCount: 7012

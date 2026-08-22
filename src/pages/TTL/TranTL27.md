@@ -3,7 +3,7 @@ layout: ../../layouts/Article.astro
 title: "Những Ngụy Biện Của Các Nhà Biện Giải TCG"
 author: "Trần Tiên Long"
 date: 2012-08-20
-source: "https://sachhiem.net/TTL/TranTL27.php"
+source: "/TTL/TranTL27"
 category: "Khoa học"
 lang: vi
 wordCount: 7540
@@ -537,7 +537,7 @@ quan trọng, nên làm hơn ? </p>
     <hr width="30%" align="left">
     <p><b><u>Ghi chú:</u></b></p>
     <p><a name="n1" href="/TTL/#1">[1]</a> Gs.
-        Trần Chung Ngọc: <u>Darwin Hay Thượng Đế? Tiến Hóa Hay Sáng Tạo?</u> Nguồn: <a href="https://sachhiem.net/TCN/TCNkh/TCNkh17.php" target="_blank">https://giaodiemonline.com/2009/02/tienhoa.htm</a></p>
+        Trần Chung Ngọc: <u>Darwin Hay Thượng Đế? Tiến Hóa Hay Sáng Tạo?</u> Nguồn: <a href="/TCN/TCNkh/TCNkh17" target="_blank">https://giaodiemonline.com/2009/02/tienhoa.htm</a></p>
 <p><a name="n2" href="/TTL/#2">[2]</a> Douglas Futuyma: <u>Hypotheses, Facts, and the Nature of Science</u></p>
 <p><a name="n3" href="/TTL/#3">[3]</a>
  Muller,
@@ -566,7 +566,7 @@ quan trọng, nên làm hơn ? </p>
       Stephen Jay</a> (1994-04-01). Hen's Teeth and Horse's Toes. New York: Norton. <a href="https://en.wikipedia.org/wiki/International_Standard_Book_Number" target="_blank" title="International Standard Book Number">ISBN</a> <a href="https://en.wikipedia.org/wiki/Special:BookSources/0393017168" target="_blank" title="Special:BookSources/0393017168">0393017168</a>.</p>
 <p><a name="n7" href="/TTL/#7">[7]</a>
  Trần
-  Tiên Long: <u>Những Thủ Đoạn Mánh Mung Chống Phá Thuyết Tiến Hóa.</u> Nguồn: <a href="https://sachhiem.net/TTL/TranTL11.php" target="_blank">https://sachhiem.net/TTL/TranTL11.php</a></p>
+  Tiên Long: <u>Những Thủ Đoạn Mánh Mung Chống Phá Thuyết Tiến Hóa.</u> Nguồn: <a href="/TTL/TranTL11" target="_blank">https://sachhiem.net/TTL/TranTL11.php</a></p>
 <p><a name="n8" href="/TTL/#8">[8]</a>
  Sir
   Karl Popper: <u>The Problem of Induction</u>, 1953</p>
@@ -663,11 +663,11 @@ Index
 <p> <a name="n23" href="/TTL/#23">[23]</a>
  Richard
   Dawkins: <u>The Improbability of God</u>/Không thể có Thượng đế, Trần Tiên
-  Long dịch. Nguồn: <a href="https://sachhiem.net/TTL/TranTL10.php" target="_blank">https://www.talawas.org/talaDB/showFile.php?res=8847&amp;rb=0303</a></p>
+  Long dịch. Nguồn: <a href="/TTL/TranTL10" target="_blank">https://www.talawas.org/talaDB/showFile.php?res=8847&amp;rb=0303</a></p>
 <p><a name="n24" href="/TTL/#24">[24]</a>
 Trần
   Tiên Long: <u>Lại Phải Trả Lời Ông Chu Tất Tiến</u><b> </b>(Về bài Lời Cuối
-  Cho Ngài Học Gỉa TTL). Nguồn: <a href="https://sachhiem.net/TTL/TranTL26.php" target="_blank">https://giaodiemonline.com/2011/06/chutattien.htm</a></p>
+  Cho Ngài Học Gỉa TTL). Nguồn: <a href="/TTL/TranTL26" target="_blank">https://giaodiemonline.com/2011/06/chutattien.htm</a></p>
     
 
 <hr>

@@ -3,7 +3,7 @@ layout: ../../../layouts/Article.astro
 title: "Nhân quả trong Kinh Thánh ?"
 author: "Nguyễn Trí Cảm"
 date: 2012-01-23
-source: "https://sachhiem.net/TONGIAO/NGTRCAM/NguyenTriCam24.php"
+source: "/TONGIAO/NGTRCAM/NguyenTriCam24"
 category: "Tác giả"
 lang: vi
 wordCount: 3548

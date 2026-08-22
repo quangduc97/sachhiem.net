@@ -3,7 +3,7 @@ layout: ../../../layouts/Article.astro
 title: "Sự Việc Biển Đông Ngày Nay Và Các Quyết Định của Mỹ Ngày Xưa"
 author: "Mike Wilson"
 date: 2015-06-02
-source: "https://sachhiem.net/THOISU_CT/ChuM/MikeWilson_02.php"
+source: "/THOISU_CT/ChuM/MikeWilson_02"
 category: "Chính trị"
 lang: vi
 wordCount: 707

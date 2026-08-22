@@ -2,7 +2,7 @@
 layout: ../../layouts/Article.astro
 title: "HIỂM HỌA CÔNG GIÁO VÀ TIN LÀNH"
 author: "Bùi Kha"
-source: "https://sachhiem.net/BUIKHA/BuiKha6.php"
+source: "/BUIKHA/BuiKha6"
 category: "Lịch sử"
 lang: vi
 wordCount: 4493
@@ -18,7 +18,7 @@ image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/TONGIAO/IMG/Toakham/
 		<img border="0" src="https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/TONGIAO/IMG/Toakham/Caunguyendoidat.jpg" width="334" height="249"></p>
 	<p> <b><font face="Times New Roman" size="5">H</font></b>ơn hai năm qua tôi không viết được gì vì bận soạn một bộ sách nhỏ mười 
 	cuốn; dự định hoàn thành vào đầu năm tới. Nay đọc bài&nbsp; 
-	"Gửi Những Ai Quan Tâm"  (<a href="https://www.sachhiem.net/TCNts/TCNts044.php">https://www.sach hiem.net/TCNts/TCNts044.php</a>) của GS Trần Chung Ngọc nhân những lá thư tâm tình của các bạn Bùi 
+	"Gửi Những Ai Quan Tâm"  (<a href="/TCNts/TCNts044">https://www.sach hiem.net/TCNts/TCNts044.php</a>) của GS Trần Chung Ngọc nhân những lá thư tâm tình của các bạn Bùi 
 	Thúc Định, Tô văn Luyện… về hiểm họa Công Giáo tại Việt Nam, tôi được động não nên muốn 
 	viết thêm vài ý kiến trong mối băn khoăn của các bạn trẻ về hiểm họa Công 
 	giáo La Mã và Phản Thệ Giáo (Tin Lành) mà trước đây chúng tôi cũng nhận được 

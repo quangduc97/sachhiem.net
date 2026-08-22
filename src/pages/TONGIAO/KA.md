@@ -2,7 +2,7 @@
 layout: ../../layouts/Article.astro
 title: "ĐỨC PHẬT TRONG CÁI NHÌN CỦA CÁC NHÀ KHOA HỌC."
 author: "một thầy tu ẩn danh"
-source: "https://sachhiem.net/null"
+source: "/null"
 category: "Tác giả"
 lang: vi
 wordCount: 2588
@@ -26,7 +26,7 @@ image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nhacu.jpg"
 			<table border="0" bgcolor="White" cellpadding="30" id="footing" width="100%" topmargin="0">
 		<tbody><tr><td>
 						<table border="0" cellpadding="0" width="100%" cols="3">
-						<tbody><tr><td><a href="https://sachhiem.net/"><img border="0" src="https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nhacu.jpg" width="49" height="19"></a></td>
+						<tbody><tr><td><a href="/"><img border="0" src="https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nhacu.jpg" width="49" height="19"></a></td>
 						<td valign="top">
 						<a href="/TONGIAO/#" onclick="location.href='https://sachhiem.net/BIA/sendafriend.php?url='+location.href;">
 		<img src="https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/TONGIAO/file:///C:/SACHHIEM/images/mail.gif" border="0"> 

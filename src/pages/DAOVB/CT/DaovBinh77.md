@@ -3,7 +3,7 @@ layout: ../../../layouts/Article.astro
 title: "Nhật Ký Biển Đông: Thế Giới Bất Ổn. Mỹ Thay Đổi Chính Sách Ngoại Giao"
 author: "Đào Văn Bình"
 date: 2016-12-16
-source: "https://sachhiem.net/DAOVB/CT/DaovBinh77.php"
+source: "/DAOVB/CT/DaovBinh77"
 category: "Chính trị"
 lang: vi
 wordCount: 5930

@@ -2,7 +2,7 @@
 layout: ../../../layouts/Article.astro
 title: "Điện Biên Phủ trên không"
 author: "Hoài Hương"
-source: "https://sachhiem.net/nguồn: https://vietnamnet.vn/psks/2007/12/760118/"
+source: "/nguồn: https://vietnamnet.vn/psks/2007/12/760118/"
 category: "Lịch sử"
 lang: vi
 wordCount: 2267

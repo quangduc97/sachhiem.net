@@ -2,7 +2,7 @@
 layout: ../../../layouts/Article.astro
 title: "KÍCH ĐỘNG TÍN HỮU \"TỬ ĐẠO\""
 author: "PV VietCatholic"
-source: "https://sachhiem.net/nguồn: https://www.vietcatholic.net/News/Html/51586.htm"
+source: "/nguồn: https://www.vietcatholic.net/News/Html/51586.htm"
 category: "Tác giả"
 lang: vi
 wordCount: 1096

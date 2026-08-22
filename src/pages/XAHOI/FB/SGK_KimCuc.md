@@ -3,7 +3,7 @@ layout: ../../../layouts/Article.astro
 title: "Đưa Vào Các Tác Phẩm Nói Về Truyền Thống Yêu Nước Như Trước Cải Cách 2018"
 author: "Kim Cúc"
 date: 2026-06-15
-source: "https://sachhiem.net/XAHOI/FB/SGK_KimCuc.php"
+source: "/XAHOI/FB/SGK_KimCuc"
 category: "Chính trị"
 lang: vi
 wordCount: 3147

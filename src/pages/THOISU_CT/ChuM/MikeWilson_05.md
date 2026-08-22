@@ -3,14 +3,14 @@ layout: ../../../layouts/Article.astro
 title: "Những Con Ngựa Thành Troy"
 author: "Mike Wilson"
 date: 2015-08-07
-source: "https://sachhiem.net/sachhiem/THOISU_CT/ChuM/MikeWilson_05.php"
+source: "/sachhiem/THOISU_CT/ChuM/MikeWilson_05"
 category: "Chính trị"
 lang: vi
 wordCount: 2178
-image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nha.jpg"
+image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/VANHOC/Hinh/TROY/trojan_horse_turkey.jpg"
 ---
 
-<p align="center"><a href="https://www.sachhiem.net/"> <img border="0" src="https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nha.jpg"></a> ngày 07-Aug-2015</p>
+<p align="center"> ngày 07-Aug-2015</p>
   <p><b>From:</b> Mike Wilson [mailto:wilsonaca@hotmail.com] <br>
     <b>Sent:</b> Friday, August 7, 2015 3:09 PM<br>
     <b>Subject:</b> ** NHỮNG  CON NGỰA THÀNH TROY”</p>

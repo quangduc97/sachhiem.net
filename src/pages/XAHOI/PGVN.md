@@ -2,7 +2,7 @@
 layout: ../../layouts/Article.astro
 title: "Sức Mạnh Và Nhân Phẩm Của Người Nhật Sau Thiên Tai"
 author: "Phật-Giáo Việt Nam"
-source: "https://sachhiem.net/null"
+source: "/null"
 category: "Xã hội"
 lang: vi
 wordCount: 832

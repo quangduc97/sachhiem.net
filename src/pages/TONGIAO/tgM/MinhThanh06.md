@@ -2,18 +2,17 @@
 layout: ../../../layouts/Article.astro
 title: "Lửa Đã Cháy Ở Mỹ Đình,"
 author: "Minh Thạnh"
-source: "https://sachhiem.net/TONGIAO/tgM/MinhThanh06.php"
+source: "/TONGIAO/tgM/MinhThanh06"
 category: "Tác giả"
 lang: vi
 wordCount: 11398
-image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nha.jpg"
+image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/IMG/TINLANH/luadachayomydinh.jpg"
 ---
 
 <p class="Tuaduoi">Bao Giờ Lan Đến (CHÙA) Quán Sứ?</p>
 
 
-<p align="center"><a href="https://www.sachhiem.net/">
-	<img border="0" src="https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nha.jpg"></a> 22 tháng 1, 2011</p>
+<p align="center"> 22 tháng 1, 2011</p>
     <p><i>LTS: Bài viết sau đây đăng trên web phattuvietnam.net ngày 7 tháng 1, đến nay được 2 tuần và đã có 7,260 (bảy ngàn hai trăm sáu chục) đường nối điện tử phổ biến trên mạng. Một bài viết cảnh báo một tai nạn lớn đang đè trên đất nước. Tai nạn này có thể chận đứng nếu những người cùng một tổ tiên, con Hồng cháu Lạc cùng ý thức và tích cực trong việc đáp lại ngọn lửa xâm lăng văn hóa này. (SH)</i> </p>
 			<hr>
 					<p class="TuaDenLeft"><span class="First">C</span>hẳng bao lâu nữa, đám lửa bùng lên từ Mỹ Đình kia, hay từ bất cứ tư gia nào, sẽ lan hết khắp mọi miền đất nước, và lan cả đến xung quanh chùa Quán Sứ, hay mỗi ngôi chùa khác.</p>

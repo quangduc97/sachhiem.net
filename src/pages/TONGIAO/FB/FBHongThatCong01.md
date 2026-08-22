@@ -3,7 +3,7 @@ layout: ../../../layouts/Article.astro
 title: "Vatican là Chủ Mưu Thực Hiện Cách Mạng Maidan 2014"
 author: "FB Hồng Thất Công"
 date: 2025-06-07
-source: "https://sachhiem.net/TONGIAO/FB/FBHongThatCong01.php"
+source: "/TONGIAO/FB/FBHongThatCong01"
 category: "Chính trị"
 lang: vi
 wordCount: 408

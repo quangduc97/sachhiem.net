@@ -3,7 +3,7 @@ layout: ../../../layouts/Article.astro
 title: "Những Nhà Truyền Đạo Ca-tô Giáo và Nhà Nước Thuộc Địa-"
 author: "Charles Keith/ Cương Đinh dịch"
 date: 2016-04-02
-source: "https://sachhiem.net/SACHNGOAI/D/DinhCuong.php"
+source: "/SACHNGOAI/D/DinhCuong"
 category: "Chính trị"
 lang: vi
 wordCount: 4180

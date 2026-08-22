@@ -2,11 +2,10 @@
 layout: ../../../layouts/Article.astro
 title: "PHẬT GIÁO VỚI 1000 NĂM THĂNG LONG"
 author: "Học Viện Phật Giáo Việt Nam"
-source: "https://sachhiem.net/null"
+source: "/null"
 category: "Tác giả"
 lang: vi
 wordCount: 1510
-image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nha.jpg"
 ---
 
 <div align="center" style="position: relative; left: 0; top: 0">
@@ -24,8 +23,7 @@ image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nha.jpg"
 
 <div style="padding-left: 40px; padding-right: 40px">
 <table border="0" cellpadding="10" width="600" cols="2"><tbody><tr>
-<td><a href="/index">
-<img border="0" src="https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nha.jpg"></a></td>
+<td></td>
 	<td valign="top" width="268">	<p><i>26 tháng 8, 2010	</i></p>
 	</td></tr></tbody></table>
 			<table border="0" cellspacing="0" cellpadding="0" align="center" width="600">

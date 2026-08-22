@@ -3,7 +3,7 @@ layout: ../../../layouts/Article.astro
 title: "Ngày Tri Ân Những Thương Binh Liệt Sĩ"
 author: "SH Sưu tầm"
 date: 2021-07-27
-source: "https://sachhiem.net/THOISU_CT/ChuT/TBLS_MauHoaDo.php"
+source: "/THOISU_CT/ChuT/TBLS_MauHoaDo"
 category: "Chính trị"
 lang: vi
 wordCount: 60

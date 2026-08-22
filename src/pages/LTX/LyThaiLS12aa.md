@@ -3,7 +3,7 @@ layout: ../../layouts/Article.astro
 title: "Đọc Chuyện Ông Pétrus Ký Viết Cho Thiếu Nhi"
 author: "Lý Thái Xuân"
 date: 2024-02-14
-source: "https://sachhiem.net/LTX/LyThaiLS12aa.php"
+source: "/LTX/LyThaiLS12aa"
 category: "Lịch sử"
 lang: vi
 wordCount: 3728
@@ -15,7 +15,7 @@ image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/LICHSU/IMG/PETRUSKY/
    Chúng ta học được những bài học về luân lý, cách ứng xử trong đời sống. Quyển sách gửi gắm cho độc giả những bài học tốt, tránh xa kẻ xấu, không cho rằng mình giỏi hơn người khác và giữ trung thực trong hành động của mình.</i></p>
    <p><i>Vậy chúng ta thử đọc vài chuyện, để tìm luân lý, bài học tốt nào cho cách ứng xử,... trong đó như thế nào.</i> (SH)</p>
    </div>
- <p>[Loạt bài tóm lược về TVK của LTX:  <a href="https://sachhiem.net/LTX/LyThaiLS12.php"> 1 </a>. <a href="https://sachhiem.net/LTX/LyThaiLS12a.php"> 2 </a>. <a href="https://sachhiem.net/LTX/LyThaiLS12aa.php"> 3 </a>. <a href="https://sachhiem.net/LTX/LyThaiLS12b.php"> 4 </a>]</p>
+ <p>[Loạt bài tóm lược về TVK của LTX:  <a href="/LTX/LyThaiLS12"> 1 </a>. <a href="/LTX/LyThaiLS12a"> 2 </a>. <a href="/LTX/LyThaiLS12aa"> 3 </a>. <a href="/LTX/LyThaiLS12b"> 4 </a>]</p>
  <p align="center"><img src="https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/LICHSU/IMG/PETRUSKY/ChuyenDoiXua.JPG" width="300" height="439" alt=""></p>
  <p>Theo web vietmessenger này, cuốn Chuyện Đời Xưa của Trương Vĩnh Ký xuất bản lần đầu tại Sài Gòn năm 1866; sách được tái bản nhiều lần và được ghi trong chương trình các lớp trung học Bộ Quốc gia Giáo dục thời 1954-1975 (VNCH)</p>
  <p>Vào trang nhà DNA Medical, Ban Biên tập  ca tụng:</p>
@@ -117,4 +117,4 @@ image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/LICHSU/IMG/PETRUSKY/
 <p>2- Chuyện Đời Xưa - Trương Vĩnh Ký, <a href="https://www.dtv-ebook.com/chuyen-doi-xua-truong-vinh-ky_8482.html#gsc.tab=0">trang nhà dtv-eBook</a></p>
 <p>3- Trương Vĩnh Ký - Chuyện Đời Xưa  <a href="https://vietmessenger.com/books/?title=chuyen%20doi%20xua">https://vietmessenger. com/</a></p>
 <p>4- Tìm hiểu danh hiệu «Thế giới Thập bát Văn hào» của Trương Vĩnh Ký, <a href="https://nghiencuulichsu.com/2019/05/13/tim-hieu-danh-hieu-the-gioi-thap-bat-van-hao-cua-truong-vinh-ky/">nghiencuulichsu.com/</a></p>
-<p>5- Cần Tìm Hiểu Thêm Về Trương Vĩnh Ký - <a href="https://sachhiem.net/LICHSU/C/CaoDucTruong.php">Cao Đức Trường, Văn Nghệ  số 661,thứ năm 28-10-2021</a></p>
+<p>5- Cần Tìm Hiểu Thêm Về Trương Vĩnh Ký - <a href="/LICHSU/C/CaoDucTruong">Cao Đức Trường, Văn Nghệ  số 661,thứ năm 28-10-2021</a></p>

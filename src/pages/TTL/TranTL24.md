@@ -3,7 +3,7 @@ layout: ../../layouts/Article.astro
 title: "Vu Khống: Một Căn Bệnh Bất Trị"
 author: "Trần Tiên Long"
 date: 2012-07-21
-source: "https://sachhiem.net/TTL/TranTL24.php"
+source: "/TTL/TranTL24"
 category: "Chính trị"
 lang: vi
 wordCount: 2194

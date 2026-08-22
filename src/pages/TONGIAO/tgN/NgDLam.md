@@ -3,15 +3,15 @@ layout: ../../../layouts/Article.astro
 title: "Phản Biện Ông Lữ Giang Bài “Thù Hận Thiên Chúa Giáo”"
 author: "Nguyễn Đăng Lâm"
 date: 2014-08-14
-source: "https://sachhiem.net/TONGIAO/tgN/NgDLam.php"
+source: "/TONGIAO/tgN/NgDLam"
 category: "Chính trị"
 lang: vi
 wordCount: 1708
 image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/TONGIAO/IMG/VATICAN/POPE/PopeSixtus_IV.jpg"
 ---
 
-<p> <i>LTS: Tác giả Lữ Giang nên biết rằng "lòng thù hận" không phải là đối với Thiên Chúa Giáo theo nghĩa tôn giáo chung chung, mà là có một "lòng thù hận" thực sự của thế giới, chứ không phải của riêng dân Việt Nam đối với Giáo Hội La Mã vì lịch sử tàn ác của giáo hội. Xin ông tìm hiểu lý do của "lòng thù hận" đó trong tập sách "Mối Ác Cảm Của Nhân Dân Thế Giới Đối Với Giáo Hội La Mã" của GS Nguyễn Mạnh Quang</i>&nbsp;<a href="https://sachhiem.net/NMQ/MOIACCAM/MoiAcCam_Main.php">https://sachhiem.net/NMQ/MOIACCAM/MoiAcCam_Main.php</a> <i>Ngoài ra còn có tác giả Duyên Sinh, gần đây có một loạt bài kê khai những lý do để người ta có ác cảm với giáo hội của ông:</i><a href="https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.devhttps://www.duyensinh.com/files/pdf/MUC_LUC.pdf">https://www.duyensinh.com/files/pdf/MUC_LUC.pdf</a><i>.  Tương tự LTS đã viết cho một bài cùng đề tài phản biện Lữ Giang về Lòng Thù Hận TCG như sau. </i><br> 
-    <a href="https://sachhiem.net/TONGIAO/tgD/Diendan.php"> https://sachhiem.net/TONGIAO/tgD/Diendan.php</a> (SH) </p>
+<p> <i>LTS: Tác giả Lữ Giang nên biết rằng "lòng thù hận" không phải là đối với Thiên Chúa Giáo theo nghĩa tôn giáo chung chung, mà là có một "lòng thù hận" thực sự của thế giới, chứ không phải của riêng dân Việt Nam đối với Giáo Hội La Mã vì lịch sử tàn ác của giáo hội. Xin ông tìm hiểu lý do của "lòng thù hận" đó trong tập sách "Mối Ác Cảm Của Nhân Dân Thế Giới Đối Với Giáo Hội La Mã" của GS Nguyễn Mạnh Quang</i>&nbsp;<a href="/NMQ/MOIACCAM/MoiAcCam_Main">https://sachhiem.net/NMQ/MOIACCAM/MoiAcCam_Main.php</a> <i>Ngoài ra còn có tác giả Duyên Sinh, gần đây có một loạt bài kê khai những lý do để người ta có ác cảm với giáo hội của ông:</i><a href="https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.devhttps://www.duyensinh.com/files/pdf/MUC_LUC.pdf">https://www.duyensinh.com/files/pdf/MUC_LUC.pdf</a><i>.  Tương tự LTS đã viết cho một bài cùng đề tài phản biện Lữ Giang về Lòng Thù Hận TCG như sau. </i><br> 
+    <a href="/TONGIAO/tgD/Diendan"> https://sachhiem.net/TONGIAO/tgD/Diendan.php</a> (SH) </p>
     <hr>
   <p><span class="First">N</span>hiều năm qua tôi không đọc Lữ Giang vì, nhiều điều  ông viết hầu hết không có chứng cứ, không sử liệu, không logic. Nhưng cuối tuần  qua tôi nhận  liên tiếp vài email của mấy người bạn, mong tôi có vài dòng với ông Lữ Giang về  bài đề cập bên trên. </p>
 <p>  Để tiết kiệm thì giờ của độc giả, tôi (Nguyễn Đăng Lâm, viết tắt là NDL)chỉ nêu vài  sai trái của ông LG mà không phản biện toàn bộ những cáo buộc sai lầm mà một  người cầm bút không nên có. </p>
@@ -43,7 +43,7 @@ image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/TONGIAO/IMG/VATICAN/
 <p>  <b>5. <i>&nbsp;Lữ  Giang:</i></b> &nbsp;viết tiếp “Công Giáo La Mã là một  đặc sản văn hóa phi nhân tính,&nbsp;v.v.” Rồi chính ông cũng lại mỉa mai phê  phán và hàm ý cho rằng đó là điều không có trong thực tế. </p>
 <p>  <b>- NDL:</b> Nếu ông LG không biết cái  tôn giáo mà ông theo tàn ác đến mức độ nào, thì ông nên im lặng. Nhưng nếu muốn  biết, mời ông đọc một số đoạn trong Thư Ngỏ của Nguyễn Sâm gởi cho Hội đồng  Giám mục Việt Nam và Hội “Thánh” Tin Lành Việt Nam trên các trang webs tongiaovadantoc,sachhiem.net,  chuyenluan.com theo các đường links:</p>
 <p><i>https://tongiaovadantoc.com/c1043/20130221170430440/thu-ngo-gui-hoi-dong-giam-muc-viet-nam-hoi-thanh-tin-lanh-viet-nam.htm,</i></p>
-<p><i><a href="https://sachhiem.net/index.php?content=showrecipe&amp;id=5567">Thư Ngỏ Gửi
+<p><i><a href="/TONGIAO/tgN/Nguyensam0">Thư Ngỏ Gửi
 Hội Đồng Giám Mục Việt Nam
 và Hội Thánh Tin Lành Việt Nam
 (Nguyễn Sâm)</a></i></p>
@@ -68,4 +68,4 @@ và Hội Thánh Tin Lành Việt Nam
   <p><b>Xin đọc thêm bài cùng đề tài:</b></p>
   <p><b>- Phản biện "Lòng thù hận Thiên Chúa Giáo" của tác giả Lữ Giang
 Diễn Đàn</b> 
-<a href="https://sachhiem.net/TONGIAO/tgD/Diendan.php">https://sachhiem.net/TONGIAO/tgD/Diendan.php</a></p>
+<a href="/TONGIAO/tgD/Diendan">https://sachhiem.net/TONGIAO/tgD/Diendan.php</a></p>

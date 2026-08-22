@@ -3,7 +3,7 @@ layout: ../../../layouts/Article.astro
 title: "Nhật Ký Biển Đông:"
 author: "Đào Văn Bình"
 date: 2014-04-03
-source: "https://sachhiem.net/DAOVB/CT/DaovBinh12.php"
+source: "/DAOVB/CT/DaovBinh12"
 category: "Chính trị"
 lang: vi
 wordCount: 4988
@@ -69,4 +69,4 @@ image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/THOISU_CT/Hinh/UKRAI
 
 <p>(*)&nbsp;<i>Một số bãi  cạn mà Philippines tuyên bố chủ quyền cũng còn nằm trong vòng tranh chấp với  Việt Nam</i></p>
  <p>____________________</p>
-   <p><a href="https://sachhiem.net/LICHSU/H/HoangSa_list.php">Các bài về Hoàng Sa- Trường Sa đăng trên sachhiem.net » </a></p>
+   <p><a href="/LICHSU/H/HoangSa_list">Các bài về Hoàng Sa- Trường Sa đăng trên sachhiem.net » </a></p>

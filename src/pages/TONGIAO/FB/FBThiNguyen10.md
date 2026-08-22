@@ -3,15 +3,14 @@ layout: ../../../layouts/Article.astro
 title: "Khi Các Con Chiens Quay Lại Cắn Chủ"
 author: "FB Thi Nguyễn"
 date: 2020-07-22
-source: "https://sachhiem.net/TONGIAO/FB/FBThiNguyen10.php"
+source: "/TONGIAO/FB/FBThiNguyen10"
 category: "Tác giả"
 lang: vi
 wordCount: 4442
-image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nha.jpg"
+image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/TONGIAO/FB/IMG/Thi005.jpg"
 ---
 
-<p align="center"><a href="https://www.sachhiem.net/">
-<img border="0" src="https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nha.jpg"></a> 
+<p align="center"> 
 ngày 22-Jul-2020</p> 
 <p><i>Vạch trần những hành vi xấu ác của giới có thế lực như quan quyền đối với các dân chúng nạn nhân yếu thế là trách nhiệm của mỗi con người có lương tri, bất kể quốc tịch nào, văn hóa nào, hoặc tôn giáo nào. Trong tôn giáo, nhất là cái tôn giáo đã nắm trong tay quyền lực nhiều thế kỷ qua như Ki-tô La Mã, giới chăn chiens là những quan chức của họ được hưởng biết bao nhiêu quyền lợi vật chất và tinh thần. Vì không bị ai kiểm soát, giới người này dễ hoành hành trong các giáo xứ của họ, do đó tín đồ cần phải ý thức lên tiếng khi phác giác hành vi lạm quyền của họ để bảo vệ nạn  nhân, mà thường chính là tín đồ. </i></p>
 <p><i> Những ai bảo vệ những hành động gian ác của giới chăn  chiens, hoặc ngụy biện, đánh lạc hướng, dung túng, che giấu cho những hành vi dâm ác này cho dù vì bất cứ lý do nào, đều là những kẻ đáng xấu hổ, là những kẻ  chống lại loài người và sẽ bị tòa án lương tâm xét xử.</i></p>

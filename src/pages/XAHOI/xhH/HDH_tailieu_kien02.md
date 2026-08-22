@@ -3,7 +3,7 @@ layout: ../../../layouts/Article.astro
 title: "Bạo Động Xảy Ra Trong Ngày Bầu Cử Dân Biểu Đơn Vị 149 - Houston, Texas"
 author: "SH sưu tầm"
 date: 2023-09-09
-source: "https://sachhiem.net/XAHOI/xhH/HDH_tailieu_kien02.php"
+source: "/XAHOI/xhH/HDH_tailieu_kien02"
 category: "Chính trị"
 lang: vi
 wordCount: 3597

@@ -2,7 +2,7 @@
 layout: ../../../layouts/Article.astro
 title: "Quanh vụ ông Ngô Quang Kiệt,"
 author: "Quang Vinh"
-source: "https://sachhiem.net/null"
+source: "/null"
 category: "Xã hội"
 lang: vi
 wordCount: 2759
@@ -37,7 +37,7 @@ image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nhacu.jpg"
 	<tbody><tr><td bgcolor="White" align="justify" valign="top">
 		
 		<table border="0" cellpadding="10" width="100%" cols="2"><tbody><tr>
-				<td valign="top"><a href="https://sachhiem.net/"><img border="0" src="https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nhacu.jpg" width="49" height="20"></a></td>
+				<td valign="top"><a href="/"><img border="0" src="https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nhacu.jpg" width="49" height="20"></a></td>
 	<td valign="top"><font size="2">24 tháng 9, 2008 - bổ túc ngày 25 tháng 09, 2008
 	</font>
 	</td></tr></tbody></table>

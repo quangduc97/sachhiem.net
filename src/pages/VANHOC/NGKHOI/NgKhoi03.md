@@ -2,15 +2,15 @@
 layout: ../../../layouts/Article.astro
 title: "Vạn Hạnh và Lý Công Uẩn"
 author: "Nguyễn Khôi"
-source: "https://sachhiem.net/VANHOC/NGKHOI/NgKhoi03.php"
+source: "/VANHOC/NGKHOI/NgKhoi03"
 category: "Văn hóa"
 lang: vi
 wordCount: 2034
-image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nha.jpg"
+image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/LICHSU/IMG/ThiensuVanHanh.jpg"
 ---
 
 <table border="0" cellpadding="0" align="center" width="250">
-        <tbody><tr><td width="100"><a href="https://sachhiem.net/index.php"><img border="0" src="https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nha.jpg"></a></td>
+        <tbody><tr><td width="100"></td>
 			<td valign="top" width="244">
 			<p>16 tháng 2,  2010 </p></td>
 		</tr>

@@ -3,7 +3,7 @@ layout: ../../../layouts/Article.astro
 title: "Hàng Năm, Ôi Con Của Mẹ!"
 author: "Thuận Nguyễn, Bắc CALI /Ngư Tiều Canh Mục Blogspot"
 date: 2016-04-11
-source: "https://sachhiem.net/VANHOC/N/Ngutieucanhmuc.php"
+source: "/VANHOC/N/Ngutieucanhmuc"
 category: "Chính trị"
 lang: vi
 wordCount: 630

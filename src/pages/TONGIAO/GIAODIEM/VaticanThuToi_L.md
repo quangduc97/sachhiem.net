@@ -2,9 +2,9 @@
 layout: ../../../layouts/Article.astro
 title: "Vatican Thú Tội Và Xin Lỗi"
 author: "6 tác giả"
-source: "https://sachhiem.net/tháng 1, 2024"
+source: "/tháng 1, 2024"
 lang: vi
-wordCount: 7
+wordCount: 4
 image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/TONGIAO/GIAODIEM/VaticanThuToi_biatrong.JPG"
 ---
 
@@ -21,7 +21,3 @@ image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/TONGIAO/GIAODIEM/Vat
 <p align="center"><img src="https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/TONGIAO/GIAODIEM/VaticanThuToi_mucluc.JPG" width="100%" alt=""></p>
 
 <hr width="50%">
-     
-
- 
-<p align="center"><a target="_blank" href="/index"><img src="https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nha.jpg" border="0"> Trở ra sachhiem.net</a></p>

@@ -3,7 +3,7 @@ layout: ../../../layouts/Article.astro
 title: "Khác Biệt Giữa Obamacare và Trump Care"
 author: "Palm Beach Post"
 date: 2017-05-05
-source: "https://sachhiem.net/THOISU_CT/ChuM/MikeWilson_18.php"
+source: "/THOISU_CT/ChuM/MikeWilson_18"
 category: "Chính trị"
 lang: vi
 wordCount: 1704

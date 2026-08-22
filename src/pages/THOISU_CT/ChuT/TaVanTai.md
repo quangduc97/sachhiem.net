@@ -3,7 +3,7 @@ layout: ../../../layouts/Article.astro
 title: "Việt Nam Làm Gì Bây Giờ?"
 author: "L.S. Tạ Văn Tài"
 date: 2014-05-31
-source: "https://sachhiem.net/THOISU_CT/ChuT/TaVanTai.php"
+source: "/THOISU_CT/ChuT/TaVanTai"
 category: "Chính trị"
 lang: vi
 wordCount: 8429
@@ -203,4 +203,4 @@ DẪN TỚI CÁC QUYẾT ĐỊNH BẮT BUỘC </strong></p>
  <p align="center"><img src="https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/THOISU_CT/Hinh/TS_HS/bando_Covens&amp;Mortier_1760.jpg" width="100%" longdesc="https://danviet.vn/net-viet/hai-quan-trieu-nguyen-tung-trung-tri-dich-dang-giac-bien-ngang-nguoc/2014051301341160p29c83.htm"></p>
 
   <p>____________________</p>
-   <p><a href="https://sachhiem.net/LICHSU/H/HoangSa_list.php">Các bài về Hoàng Sa- Trường Sa đăng trên sachhiem.net » </a></p>
+   <p><a href="/LICHSU/H/HoangSa_list">Các bài về Hoàng Sa- Trường Sa đăng trên sachhiem.net » </a></p>

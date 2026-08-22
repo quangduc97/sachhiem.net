@@ -3,7 +3,7 @@ layout: ../../../layouts/Article.astro
 title: "Tạp Chí Việt Nam"
 author: "Quốc Việt chuyển ngữ"
 date: 2012-11-01
-source: "https://sachhiem.net/LICHSU/Q/QuocViet.php"
+source: "/LICHSU/Q/QuocViet"
 category: "Chính trị"
 lang: vi
 wordCount: 3110

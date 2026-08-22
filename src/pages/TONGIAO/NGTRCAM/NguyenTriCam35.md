@@ -3,7 +3,7 @@ layout: ../../../layouts/Article.astro
 title: "Huyền Thoại Chúa Giê-Su: Trinh Nữ Và Thầy Tế Lễ"
 author: "Mark Gibbs / Nguyễn Trí Cảm dịch"
 date: 2014-05-26
-source: "https://sachhiem.net/TONGIAO/NGTRCAM/NguyenTriCam35.php"
+source: "/TONGIAO/NGTRCAM/NguyenTriCam35"
 category: "Tác giả"
 lang: vi
 wordCount: 4676
@@ -146,7 +146,7 @@ image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/TONGIAO/IMG/BIBLE/Ma
      <p>SG. 5-2014</p>
 <p class="TacgiaL">Người dịch: Nguyễn Trí Cảm</p>
      
-     <p><a href="https://sachhiem.net/TONGIAO/NGTRCAM/NguyenTriCam35a.php">(Bấm để xem nguyên bản tiếng Anh)</a></p>
+     <p><a href="/TONGIAO/NGTRCAM/NguyenTriCam35a">(Bấm để xem nguyên bản tiếng Anh)</a></p>
   
   <p>____________</p>
   <p><b>Tài liệu khác về Cha của Jesus: </b></p>

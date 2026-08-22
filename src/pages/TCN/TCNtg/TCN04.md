@@ -3,15 +3,15 @@ layout: ../../../layouts/Article.astro
 title: "VÀI NÉT VỀ CÔNG GIÁO & TIN LÀNH :"
 author: "Trần Chung Ngọc"
 date: 2007-05-20
-source: "https://sachhiem.net/TCN/TCNtg/TCN04.php"
+source: "/TCN/TCNtg/TCN04"
 lang: vi
 wordCount: 16829
-image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nha.jpg"
+image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/TONGIAO/IMG/TRUYENDAO/Christiandom&Crusade.jpg"
 ---
 
 <table border="0" cellpadding="0" width="250" align="center">
             <tbody><tr>
-              <td width="125"><a href="/index"><img border="0" src="https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nha.jpg"></a></td>
+              <td width="125"></td>
               <td valign="middle">20-May-2007</td>
             </tr>
           </tbody></table>

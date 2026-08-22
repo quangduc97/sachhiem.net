@@ -1,0 +1,56 @@
+---
+import BaseLayout from '../../layouts/BaseLayout.astro';
+import emails from '../../data/email.json';
+
+const fmtDate = (iso?: string) =>
+  iso
+    ? new Date(`${iso}T12:00:00`).toLocaleDateString('vi-VN', {
+        day: 'numeric',
+        month: 'long',
+        year: 'numeric',
+      })
+    : '';
+
+const sorted = [...emails].sort((a, b) => (b.date ?? '').localeCompare(a.date ?? ''));
+const byYear = new Map<string, typeof emails>();
+for (const e of sorted) {
+  const year = (e.date ?? '').slice(0, 4) || 'Không rõ năm';
+  if (!byYear.has(year)) byYear.set(year, []);
+  byYear.get(year)!.push(e);
+}
+const years = [...byYear.entries()].sort((a, b) => b[0].localeCompare(a[0]));
+---
+
+<BaseLayout title="Hộp thư" current="/hop-thu/">
+  <section class="hero">
+    <h2>Hộp thư</h2>
+    <p>
+      Thư độc giả và bài gửi qua email của sachhiem.net — lưu trữ nguyên văn
+      {emails.length} thư từ nhiều năm.
+    </p>
+  </section>
+
+  {
+    years.map(([year, list], i) => (
+      <details class="year-group" open={i === 0}>
+        <summary class="year-title">
+          {year}
+          <span class="year-count">{list.length} thư</span>
+        </summary>
+        <ul class="article-list">
+          {
+            list.map((e) => (
+              <li>
+                <a href={`/hop-thu/${e.table === 'email1' ? `e${e.id}` : e.id}/`}>
+                  <span class="t">{e.title}</span>
+                  <span class="d">{fmtDate(e.date)}</span>
+                  {e.table === 'email1' && <span class="a">EN</span>}
+                </a>
+              </li>
+            ))
+          }
+        </ul>
+      </details>
+    ))
+  }
+</BaseLayout>

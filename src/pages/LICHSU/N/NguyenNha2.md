@@ -3,7 +3,7 @@ layout: ../../../layouts/Article.astro
 title: "Nhớ Ngày Kỷ Niệm Một Năm Thất Thủ Hoàng Sa"
 author: "Hàn Nguyên Nguyễn Nhã"
 date: 2015-01-19
-source: "https://sachhiem.net/LICHSU/N/NguyenNha2.php"
+source: "/LICHSU/N/NguyenNha2"
 category: "Lịch sử"
 lang: vi
 wordCount: 1317
@@ -33,10 +33,10 @@ image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/LICHSU/IMG/SACH/Dack
 <p align="center"><iframe width="500" height="304" src="//www.youtube.com/embed/xkELmrBVAmw" frameborder="0" allowfullscreen=""></iframe></p>
 <p align="center"><i>Sách Biển Đảo -<a href="https://www.youtube.com/embed/xkELmrBVAmw"><br> 
   https://www.youtube.com/embed/xkELmrBVAmw</a></i></p>
-<p> Và cũng mong một tác phẩm “<a href="https://sachhiem.net/index.php?content=showrecipe&amp;id=5996#Ntruongca"><i>Trường ca Biển Đông  &amp; Giữ hồn Dân tộc</i></a>” gồm 2000 câu lục bát thi hóa  cuốn sách “<a href="https://nxbgd.vn/nxbgdvn.aspx?lang=vi-VN&amp;page=news&amp;id=1820">Những  Bằng Chứng Chủ Quyền của Việt Nam dối với hai quần đảo Hoàng Sa &amp; Trường  Sa</a>” cùng những bài viết trong mục “<i><a href="https://www.thanhnien.com.vn/van-hoa-nghe-thuat/giu-hon-dan-toc-sac-mau-cao-nguyen-da-74469.html">Giữ hồn Dân Tộc của Báo Thanh Niên</a></i>”, sẽ được  nhiều người hỗ trợ xuất bản để giới trẻ Việt Nam tiếp cận với sự thật và tinh  thần giữ bản sắc  vì mất bản sắc sẽ mất tất cả. </p>
+<p> Và cũng mong một tác phẩm “<a href="/THOISU_CT/ChuN/NguyenNha_01"><i>Trường ca Biển Đông  &amp; Giữ hồn Dân tộc</i></a>” gồm 2000 câu lục bát thi hóa  cuốn sách “<a href="https://nxbgd.vn/nxbgdvn.aspx?lang=vi-VN&amp;page=news&amp;id=1820">Những  Bằng Chứng Chủ Quyền của Việt Nam dối với hai quần đảo Hoàng Sa &amp; Trường  Sa</a>” cùng những bài viết trong mục “<i><a href="https://www.thanhnien.com.vn/van-hoa-nghe-thuat/giu-hon-dan-toc-sac-mau-cao-nguyen-da-74469.html">Giữ hồn Dân Tộc của Báo Thanh Niên</a></i>”, sẽ được  nhiều người hỗ trợ xuất bản để giới trẻ Việt Nam tiếp cận với sự thật và tinh  thần giữ bản sắc  vì mất bản sắc sẽ mất tất cả. </p>
 <p>
   Khi ấy tôi, một người sống vì sự thật lịch sử  với lương tri của mình cho là đúng, sẽ không còn khóc nữa hay vì  nước  mắt tôi đã cạn! </p>
 <p class="TacgiaL">T.S. Nguyễn Nhã</p>
 <hr align="left" width="50%">
 <p><b>Những bài về Trường Sa &amp; Hoàng Sa đăng trong sachhiem.net</b></p>
-<p><a href="https://sachhiem.net/LICHSU/H/HoangSa_list.php">https://sachhiem.net/LICHSU/H/HoangSa_list.php</a>  </p>
+<p><a href="/LICHSU/H/HoangSa_list">https://sachhiem.net/LICHSU/H/HoangSa_list.php</a>  </p>

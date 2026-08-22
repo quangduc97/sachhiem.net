@@ -3,7 +3,7 @@ layout: ../../../layouts/Article.astro
 title: "ĐƠN TỐ CÁO Không số: Nhà Thờ Quảng Ngãi Chiếm Dụng Trái Pháp Luật"
 author: "Lê Thị Anh /Phan thị Kim Thoa"
 date: 2024-03-11
-source: "https://sachhiem.net/TONGIAO/FB/FBThoaKimPhan6A.php"
+source: "/TONGIAO/FB/FBThoaKimPhan6A"
 category: "Tác giả"
 lang: vi
 wordCount: 1548

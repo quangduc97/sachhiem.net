@@ -3,7 +3,7 @@ layout: ../../../layouts/Article.astro
 title: "TỔNG THỐNG NGÔ ĐÌNH DIỆM"
 author: "Phạm Kim Vinh"
 date: 2013-05-20
-source: "https://sachhiem.net/LICHSU/TR/TQD27_pkv.php>https://sachhiem.net/LICHSU/TR/TQD27_pkv.php</a></p>      <p align="
+source: "/LICHSU/TR/TQD27_pkv.php>https://sachhiem.net/LICHSU/TR/TQD27_pkv.php</a></p>      <p align="
 category: "Lịch sử"
 lang: vi
 wordCount: 10834
@@ -236,4 +236,4 @@ Chỉ cần đặt một câu hỏi, một câu hỏi thôi: Sau khi bọn Tư�
 <p>
 <b><i>Phạm Kim Vinh</i></b></p>
 
-<p><a name="end" href="/LICHSU/#s">* </a><a href="https://sachhiem.net/LICHSU/TR/TQD27_3dieu.php">(xem bài phản hồi về câu kết luận) </a></p>
+<p><a name="end" href="/LICHSU/#s">* </a><a href="/LICHSU/TR/TQD27_3dieu">(xem bài phản hồi về câu kết luận) </a></p>

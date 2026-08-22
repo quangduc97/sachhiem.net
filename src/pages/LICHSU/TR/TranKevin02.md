@@ -3,7 +3,7 @@ layout: ../../../layouts/Article.astro
 title: "Người Mỹ Gọi Ông Diệm Là"
 author: "Sưu tầm của Kevin Trần"
 date: 2016-05-12
-source: "https://sachhiem.net/LICHSU/TR/TranKevin02.php"
+source: "/LICHSU/TR/TranKevin02"
 category: "Lịch sử"
 lang: vi
 wordCount: 1763
@@ -76,7 +76,7 @@ image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/SACHNGOAI/Hinhanh/BI
 <p> Nguồn: <a href="https://hoangnamgiao.blogspot.com/2016/05/nguoi-my-goi-ong-diem-la-boy-son-of.html">https://hoangnamgiao.blogspot.com/2016/05/nguoi-my-goi-ong-diem-la-boy-son-of.html</a></p>
 <p> <b> _________________</b></p>
 <p><b>Mời đọc thêm:</b></p>
-<p><a href="https://www.sachhiem.net/LICHSU/LEXNHUAN/LeXNhuan05.php">- Johnson gọi Diệm là “Thằng nhãi” (Lê Xuân Nhuận)</a></p>
+<p><a href="/LICHSU/LEXNHUAN/LeXNhuan05">- Johnson gọi Diệm là “Thằng nhãi” (Lê Xuân Nhuận)</a></p>
  
 <div align="center"><div class="fb-share-button" data-layout="button" data-size="large" data-actiob="like" data-show-faces="true" data-share="true" data-mobile-iframe="true"></div>
 </div>

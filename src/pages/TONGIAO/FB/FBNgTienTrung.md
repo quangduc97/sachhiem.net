@@ -3,7 +3,7 @@ layout: ../../../layouts/Article.astro
 title: "Bàn Về Vị Linh Mục Tai Tiếng Trần Đình Long"
 author: "FB Nguyễn Tiến Trung"
 date: 2019-04-12
-source: "https://sachhiem.net/TONGIAO/FB/FBNgTienTrung.php"
+source: "/TONGIAO/FB/FBNgTienTrung"
 category: "Chính trị"
 lang: vi
 wordCount: 1660

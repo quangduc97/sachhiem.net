@@ -3,7 +3,7 @@ layout: ../../../layouts/Article.astro
 title: "Nước Cuba còn nhận ra mối nguy tai hại này, tại sao ta lại làm thinh chấp nhận?"
 author: "Hồng Thất Công"
 date: 2026-03-24
-source: "https://sachhiem.net/TONGIAO/FB/FBHongThatCong05.php"
+source: "/TONGIAO/FB/FBHongThatCong05"
 category: "Chính trị"
 lang: vi
 wordCount: 286

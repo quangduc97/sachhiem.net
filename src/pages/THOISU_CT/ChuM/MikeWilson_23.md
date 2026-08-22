@@ -3,7 +3,7 @@ layout: ../../../layouts/Article.astro
 title: "Đại dịch Covid-19 cho thấy nước Mỹ cần có biện pháp dân chủ xã hội"
 author: "Mike Wilson"
 date: 2020-03-23
-source: "https://sachhiem.net/THOISU_CT/ChuM/MikeWilson_23.php"
+source: "/THOISU_CT/ChuM/MikeWilson_23"
 category: "Chính trị"
 lang: vi
 wordCount: 1712

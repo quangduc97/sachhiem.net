@@ -2,7 +2,7 @@
 layout: ../../../layouts/Article.astro
 title: "Tự Do Tôn Giáo Ở Âu Châu"
 author: "Michelle Vu"
-source: "https://sachhiem.net/null"
+source: "/null"
 category: "Tác giả"
 lang: vi
 wordCount: 1213

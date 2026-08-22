@@ -2,17 +2,17 @@
 layout: ../../../layouts/Article.astro
 title: "Đọc bài viết của Ông Tôn Thất Thiện"
 author: "Lê Xuân Nhuận"
-source: "https://sachhiem.net/LICHSU/LEXNHUAN/LeXNhuan07.php"
+source: "/LICHSU/LEXNHUAN/LeXNhuan07"
 category: "Lịch sử"
 lang: vi
 wordCount: 4836
-image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nha.jpg"
+image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/LICHSU/IMG/NGODD/TonThatThien.jpg"
 ---
 
 <p class="Tuaduoi">&nbsp;về “<a href="/LICHSU/LEXNHUAN/LeXNhuan07">Chính Đề Việt Nam</a>”</p>
      
      
-     <p align="center"><a href="/LICHSU/index"><img hspace="20" border="0" src="https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nha.jpg"></a> 27 tháng 11, 2010 </p>
+     <p align="center"> 27 tháng 11, 2010 </p>
      <p><i>LTS: Bài viết sau đây được phổ biến ra các diễn đàn thư tín ngày 20 tháng 11, 2010  không có tựa. Chúng tôi xin mạn phép tác giả đề tựa như trên. Mong rằng không có gì đáng trách. Hiện nay nhóm "Phục hồi Tinh Thần Ngô Đình Diệm" đang tìm cách thao túng các diễn đàn, để dựng lại chế độ Đệ Nhất Cộng Hòa, ít nhất là ở hải ngoại. Do đó bài phân tích sau đây là việc làm cần thiết. (SH)</i> </p>
      <hr>
      

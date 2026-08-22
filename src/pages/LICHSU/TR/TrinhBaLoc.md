@@ -2,7 +2,7 @@
 layout: ../../../layouts/Article.astro
 title: "Chiến dịch Hoàng Diệu"
 author: "Trịnh Bá Lộc"
-source: "https://sachhiem.net/nguồn: https://phusaonline.free.fr/DienDan/4/67_chiendichHoangDieu.htm"
+source: "/nguồn: https://phusaonline.free.fr/DienDan/4/67_chiendichHoangDieu.htm"
 category: "Lịch sử"
 lang: vi
 wordCount: 2532
@@ -35,7 +35,7 @@ image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nhacu.jpg"
 <table border="0" cellpadding="50" cellspacing="0" width="100%" topmargin="10"> 
 	<tbody><tr><td bgcolor="White" align="justify" valign="top">
 		<table border="0" cellpadding="10" width="100%" cols="3"><tbody><tr>
-		<td width="98"><a href="https://sachhiem.net/"><img border="0" src="https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nhacu.jpg" width="49" height="20"></a></td>
+		<td width="98"><a href="/"><img border="0" src="https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nhacu.jpg" width="49" height="20"></a></td>
 				<td valign="top"><a href="/LICHSU/#" onclick="location.href='https://sachhiem.net/BIA/sendafriend.php?url='+location.href;">
 				<img src="https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/LICHSU/file:///C:/SACHHIEM/images/mail.gif" border="0"> 
 Gửi bài này cho bạn bè</a></td>

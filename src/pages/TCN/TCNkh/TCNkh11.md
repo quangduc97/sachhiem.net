@@ -2,18 +2,18 @@
 layout: ../../../layouts/Article.astro
 title: "CHARLES DARWIN và"
 author: "Trần Chung Ngọc"
-source: "https://sachhiem.net/nguồn: https://www.giaodiem.com/doithoaiIII/09_tcn_darwin.htm"
+source: "/nguồn: https://www.giaodiem.com/doithoaiIII/09_tcn_darwin.htm"
 category: "Khoa học"
 lang: vi
 wordCount: 13003
-image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nha.jpg"
+image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/SACHNGOAI/Hinhanh/PEOPLE/darwin.jpg"
 ---
 
 <p class="Tuaduoi">THUYẾT TIẾN HÓA</p>
 		
 			
 		 
-     <p align="center"> <a href="https://sachhiem.net/index.php"><img border="0" src="https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nha.jpg"></a>- 25 tháng 8, 2007</p>
+     <p align="center"> - 25 tháng 8, 2007</p>
 <p class="PicLeft"><img src="https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/SACHNGOAI/Hinhanh/PEOPLE/darwin.jpg" width="125" height="209" border="0" align="left"> </p>
 		<p> <b>  <font face="Vivaldi">T</font></b>
 			uy đầu đề bài 

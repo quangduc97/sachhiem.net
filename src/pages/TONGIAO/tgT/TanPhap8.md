@@ -2,11 +2,11 @@
 layout: ../../../layouts/Article.astro
 title: "NHỮNG DỐI TRÁ VÀ HUYỀN THOẠI CỦA THÁNH KINH"
 author: "Tân Pháp giới thiệu"
-source: "https://sachhiem.net/null"
+source: "/null"
 category: "Tác giả"
 lang: vi
 wordCount: 2030
-image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nha.jpg"
+image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/IMG/TanPhap8_2.jpg"
 ---
 
 <div align="center">
@@ -38,7 +38,7 @@ image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nha.jpg"
 	<tbody><tr><td bgcolor="White" align="justify" valign="top">
 		<div style="padding-left: 40px; padding-right: 40px">
 		<table border="0" cellpadding="10" width="80%" cols="2"><tbody><tr>
-		<td width="129"><a href="/index"><img border="0" src="https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nha.jpg"></a></td>
+		<td width="129"></td>
 	<td valign="top">	25 tháng 3, 2009
 	</td></tr></tbody></table>
 	<p><i>...Trong thời đại đen tối (the dark ages) những giáo hoàng được thánh linh hướng dẫn này đã giết nhau với nhịp độ 10 giáo hoàng bị giết trong vòng 12 năm (891-903) và 40 trong vòng hơn 100 năm....</i></p>

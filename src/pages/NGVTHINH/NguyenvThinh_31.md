@@ -3,7 +3,7 @@ layout: ../../layouts/Article.astro
 title: "TƯ CÁCH SỬ GIA"
 author: "Nguyễn Văn Thịnh"
 date: 2023-09-23
-source: "https://sachhiem.net/NGVTHINH/NguyenvThinh_31.php"
+source: "/NGVTHINH/NguyenvThinh_31"
 category: "Lịch sử"
 lang: vi
 wordCount: 1736
@@ -47,4 +47,4 @@ image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/NGVTHINH/IMG/NguyenV
 <p><img src="https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/NMQ/IMG/NHANDAN_dientu_2019a.JPG" width="500" height="292" alt=""></p>
 <p>_____________</p>
 <p><b>Bài đọc thêm:</b></p>
-<p><a href="https://sachhiem.net/NGVTHINH/NguyenvThinh_25.php">- “ĐUỐC SỐNG” – Ngọn Lửa Bất Diệt Của Tinh Thần Yêu Nước Việt Nam</a></p>
+<p><a href="/NGVTHINH/NguyenvThinh_25">- “ĐUỐC SỐNG” – Ngọn Lửa Bất Diệt Của Tinh Thần Yêu Nước Việt Nam</a></p>

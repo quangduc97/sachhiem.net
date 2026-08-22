@@ -2,10 +2,10 @@
 layout: ../../../layouts/Article.astro
 title: "GIÊ-SU NHƯ LÀ ĐẤNG “CỨU THẾ”"
 author: "tác giả: Giám Mục John Shelby Spong"
-source: "https://sachhiem.net/TCN/TCNtg/TCN148_HMD.php"
+source: "/TCN/TCNtg/TCN148_HMD"
 lang: vi
 wordCount: 10383
-image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nha.jpg"
+image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/DD.gif"
 ---
 
 <p class="Tuaduoi">MỘT HÌNH ẢNH CẦN PHẢI DẸP BỎ</p>
@@ -13,7 +13,7 @@ image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nha.jpg"
 		
 		
  
-<p align="center"> <a href="/index"><img border="0" src="https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nha.jpg" align="middle" hspace="20"></a>13 tháng 3, 2008
+<p align="center"> 13 tháng 3, 2008
 	</p>
 <p><b><u>Vài Lời Nói Đầu Của người 
 Dịch:</u></b>  </p>

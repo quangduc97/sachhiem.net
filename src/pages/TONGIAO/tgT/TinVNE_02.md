@@ -3,7 +3,7 @@ layout: ../../../layouts/Article.astro
 title: "Chăn Chiên Đánh Chăn Chiên Còn Hơn Đánh Ghen"
 author: "SH sưu tầm"
 date: 2021-06-26
-source: "https://sachhiem.net/TONGIAO/tgT/TinVNE_02.php"
+source: "/TONGIAO/tgT/TinVNE_02"
 category: "Chính trị"
 lang: vi
 wordCount: 992

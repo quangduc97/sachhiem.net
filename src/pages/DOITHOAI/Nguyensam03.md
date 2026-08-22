@@ -3,7 +3,7 @@ layout: ../../layouts/Article.astro
 title: "Phản Biện Ông Minh Đăng về Thánh Kinh"
 author: "Nguyễn Sâm"
 date: 2014-01-16
-source: "https://sachhiem.net/DOITHOAI/Nguyensam03.php"
+source: "/DOITHOAI/Nguyensam03"
 category: "Đối thoại"
 lang: vi
 wordCount: 4764
@@ -148,4 +148,4 @@ image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/TONGIAO/IMG/BIBLE/Vu
 <p>* Theo Bác sĩ Nguyễn Văn Thọ “<i>It&nbsp;       nhiều nhận định về Thiên Chúa Giáo”</i>
 
 ___________________
-</p><p>Các bài của Nguyễn Sâm: link <a href="https://sachhiem.net/TONGIAO/tgN/ListNSm.inc.php" target="_blank">https://sachhiem.net/TONGIAO/tgN/ListNSm.inc.php</a></p>
+</p><p>Các bài của Nguyễn Sâm: link <a href="/TONGIAO/tgN/ListNSm.inc" target="_blank">https://sachhiem.net/TONGIAO/tgN/ListNSm.inc.php</a></p>

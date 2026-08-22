@@ -3,7 +3,7 @@ layout: ../../../layouts/Article.astro
 title: "Hoài Linh trở lại đạo Chúa"
 author: "SH sưu tầm"
 date: 2023-01-16
-source: "https://sachhiem.net/TONGIAO/tgH/HoaiLinh.php"
+source: "/TONGIAO/tgH/HoaiLinh"
 category: "Chính trị"
 lang: vi
 wordCount: 1430

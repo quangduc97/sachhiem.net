@@ -2,18 +2,17 @@
 layout: ../../../layouts/Article.astro
 title: "CÓ “CHRISTIAN GOD” HAY KHÔNG ?"
 author: "Trần Chung Ngọc"
-source: "https://sachhiem.net/TCN/TCNtg/TCN53.php"
+source: "/TCN/TCNtg/TCN53"
 lang: vi
 wordCount: 13430
-image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nha.jpg"
+image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/TONGIAO/IMG/Chua3ngoi.jpg"
 ---
 
 <p class="Tuaduoi">Đó Là Câu Hỏi.</p>
 		<p class="Tuaduoi">Nhưng Câu Trả Lời Là Gì?</p>
 		
 
- <p align="center"><a href="https://www.sachhiem.net/">
-<img border="0" src="https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nha.jpg"></a>  ngày 22 tháng 7, 2008</p>
+ <p align="center">  ngày 22 tháng 7, 2008</p>
  <p><span class="First">T</span>rong thế giới loài người, từ xưa tới nay, có cả trăm God khác nhau. [Xin đọc <i>A History of God </i>của Karen Armstrong, hoặc <i>A World Full of Gods</i> của Keith Hopkins, hoặc <i>
 		Mythology: An Illustrated Encyclopedia,</i> Edited by Richard Cavendish..] Trong bài này, tôi không nói đến bất cứ God nào khác, thí dụ như Baal (God của dân Do Thái Canaan), Aton (God của người Ai Cập), Zeus (God của người Hi Lạp), hàng trăm God của người Ấn Độ, Huitzilopochtli (God của người Aztecs), Cha Quạ Sáng Tạo (Father Raven The Creator) của dân Eskimo, God Sáng Tạo Ahura Mazda hay Ohrmazd của người Ba-Tư v...v... </p>
         <div class="danbai"><p><b>Gồm các mục:</b></p>

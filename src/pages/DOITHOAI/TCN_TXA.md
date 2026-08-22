@@ -2,7 +2,7 @@
 layout: ../../layouts/Article.astro
 title: "Vài Ý Kiến về"
 author: "Trần Chung Ngọc"
-source: "https://sachhiem.net/null"
+source: "/null"
 category: "Đối thoại"
 lang: vi
 wordCount: 884

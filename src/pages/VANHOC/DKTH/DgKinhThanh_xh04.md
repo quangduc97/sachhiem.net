@@ -3,7 +3,7 @@ layout: ../../../layouts/Article.astro
 title: "Ngày Này Năm Cũ Tôi Có Đọc"
 author: "Dương Kinh Thành"
 date: 2015-12-22
-source: "https://sachhiem.net/VANHOC/DKTH/DgKinhThanh_xh04.php"
+source: "/VANHOC/DKTH/DgKinhThanh_xh04"
 category: "Văn hóa"
 lang: vi
 wordCount: 1516

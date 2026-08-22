@@ -3,7 +3,7 @@ layout: ../../../layouts/Article.astro
 title: "\"Sống Để Kể Lại Những Anh Hùng\""
 author: "Nguyen Canh Toan"
 date: 2023-10-12
-source: "https://sachhiem.net/LICHSU/N/NguyenQuangChanh07.php"
+source: "/LICHSU/N/NguyenQuangChanh07"
 category: "Chính trị"
 lang: vi
 wordCount: 1552

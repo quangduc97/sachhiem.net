@@ -3,7 +3,7 @@ layout: ../../../layouts/Article.astro
 title: "Gíao Sư Ngô Vĩnh Long:"
 author: "Tuần Việt Nam"
 date: 2014-01-22
-source: "https://sachhiem.net/LICHSU/H/HoangSa_NgoVinhLong.php"
+source: "/LICHSU/H/HoangSa_NgoVinhLong"
 category: "Lịch sử"
 lang: vi
 wordCount: 1165

@@ -3,11 +3,11 @@ layout: ../../../layouts/Article.astro
 title: "String Theory Và Phật Giáo Gặp Nhau"
 author: "Hùynh Chiếu Đẳng"
 date: 2010-05-29
-source: "https://sachhiem.net/Ảnh minh họa do SH thêm - https://www.crystalinks.com/holographic.html"
+source: "/Ảnh minh họa do SH thêm - https://www.crystalinks.com/holographic.html"
 category: "Khoa học"
 lang: vi
 wordCount: 1979
-image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nha.jpg"
+image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/IMG/HolographicUniverse.jpg"
 ---
 
 <div align="center" style="position: relative; left: 0; top: 0">
@@ -27,8 +27,7 @@ image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nha.jpg"
 		
 <table border="0" cellpadding="10" width="85%" cols="2">
 	<tbody><tr>
-		<td valign="top"><a href="/index">
-		<img border="0" src="https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nha.jpg"></a></td>
+		<td valign="top"></td>
 		<td valign="top" width="198">đăng 10 tháng 6, 2010
 	</td>
 	</tr>

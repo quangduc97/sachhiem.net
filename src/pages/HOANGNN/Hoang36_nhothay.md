@@ -3,15 +3,13 @@ layout: ../../layouts/Article.astro
 title: "NHỚ THẦY"
 author: "Hoàng Nguyên Nhuận"
 date: 2013-06-25
-source: "https://sachhiem.net/HOANGNN/Hoang36_nhothay.php"
+source: "/HOANGNN/Hoang36_nhothay"
 category: "Tác giả"
 lang: vi
 wordCount: 2967
-image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nha.jpg"
 ---
 
-<p align="center"><a href="https://www.sachhiem.net/">
-	<img border="0" src="https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nha.jpg"></a> chuyển luân 2007, đăng lại 25-Jun-2013</p> 
+<p align="center"> chuyển luân 2007, đăng lại 25-Jun-2013</p> 
     
 <div class="tomluoc">
 <p><i> </i><b>Năm 2003, trên bàn thờ trong lễ kỷ niệm 40 năm [1963-2003]</b> PG nhập cuộc, người&nbsp;ta thấy có di ảnh của ông bà Trần Văn Chương, nhưng ít ai biết là <b>đầu năm 1980, Bà Ngô Đình Nhu đã sai trưởng nam Ngô Đình Trác qua Mỹ tìm cách tiếp xúc với Thầy,</b> xin Thầy hỷ xả cho cái tội gia đình Bà đã làm khổ mấy Thầy, và xin Thầy nhân lễ Vu Lan gia tâm cầu siêu cho thân sinh và cầu an cho gia đình Bà. (HNN)</p>

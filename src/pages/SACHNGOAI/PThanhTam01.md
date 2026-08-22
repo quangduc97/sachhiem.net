@@ -2,14 +2,14 @@
 layout: ../../layouts/Article.astro
 title: "LINH MỤC MƯU SÁT GIÁO HOÀNG"
 author: "RKNIEUWS.NET"
-source: "https://sachhiem.net/SACHNGOAI/PThanhTam03.php"
+source: "/SACHNGOAI/PThanhTam03"
 category: "Sách ngoại văn"
 lang: vi
 wordCount: 686
-image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nha.jpg"
+image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/SACHNGOAI/Hinhanh/PEOPLE/HYDziwisz.jpg"
 ---
 
-<p align="center"><a href="https://www.sachhiem.net/"> <img border="0" src="https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nha.jpg"></a> 23 tháng 11, 2008</p>
+<p align="center"> 23 tháng 11, 2008</p>
 			<p class="TuaDenLeft">Linh Mục Mưu Sát Giáo Hoàng </p>
 			
 			

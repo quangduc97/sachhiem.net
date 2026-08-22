@@ -3,7 +3,7 @@ layout: ../../../layouts/Article.astro
 title: "Tui Thương Ông Diệm Lắm"
 author: "Hoàng Long Hải"
 date: 2016-10-28
-source: "https://sachhiem.net/LICHSU/H/HoangLongHai.php"
+source: "/LICHSU/H/HoangLongHai"
 category: "Chính trị"
 lang: vi
 wordCount: 8822

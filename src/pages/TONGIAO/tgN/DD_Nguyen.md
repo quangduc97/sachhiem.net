@@ -3,7 +3,7 @@ layout: ../../../layouts/Article.astro
 title: "Tôi Đã Rời Bỏ Chúa Như Thế Nào?"
 author: "Dare-Devil Nguyễn"
 date: 2015-03-28
-source: "https://sachhiem.net/TONGIAO/tgN/DD_Nguyen.php"
+source: "/TONGIAO/tgN/DD_Nguyen"
 category: "Chính trị"
 lang: vi
 wordCount: 556

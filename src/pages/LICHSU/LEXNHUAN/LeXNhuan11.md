@@ -3,7 +3,7 @@ layout: ../../../layouts/Article.astro
 title: "Phong-Trào Chống Tham-Nhũng -"
 author: "Lê Xuân Nhuận"
 date: 2014-04-16
-source: "https://sachhiem.net/LICHSU/LEXNHUAN/LeXNhuan11.php"
+source: "/LICHSU/LEXNHUAN/LeXNhuan11"
 category: "Lịch sử"
 lang: vi
 wordCount: 3780

@@ -2,7 +2,7 @@
 layout: ../../../layouts/Article.astro
 title: "Trương Vĩnh Ký - Cuốn Sổ Bình Sinh"
 author: "Nguyễn Sinh Duy"
-source: "https://sachhiem.net/LICHSU/N/NguyenSinhDuy_Main.php"
+source: "/LICHSU/N/NguyenSinhDuy_Main"
 lang: vi
 wordCount: 8
 ---
@@ -18,7 +18,7 @@ wordCount: 8
 
 	 <iframe name="CSBS" src="/LICHSU/N/NguyenSinhDuy.php" width="100%" height="5000" marginwidth="5" marginheight="5" hspace="0" vspace="0" frameborder="0" scrolling="auto" target="_blank"></iframe> 
  </td> </tr>
-<tr><td colspan="2"> <a href="https://sachhiem.net/LICHSU/N/NguyenSinhDuy_Main.php"> <p class="trang">Cuốn Sổ Bình Sinh - Trương Vĩnh Ký</p>  </a>
+<tr><td colspan="2"> <a href="/LICHSU/N/NguyenSinhDuy_Main"> <p class="trang">Cuốn Sổ Bình Sinh - Trương Vĩnh Ký</p>  </a>
 </td></tr>
 </tbody></table>
 </div>

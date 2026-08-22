@@ -3,7 +3,7 @@ layout: ../../../layouts/Article.astro
 title: "Thất Thập Cổ Lai Hy"
 author: "Ngô Phan Lưu"
 date: 2012-11-19
-source: "https://sachhiem.net/VANHOC/N/NgoPhanLuu.php"
+source: "/VANHOC/N/NgoPhanLuu"
 category: "Văn hóa"
 lang: vi
 wordCount: 1715

@@ -3,7 +3,7 @@ layout: ../../layouts/Article.astro
 title: "Vài Kết Luận Gửi Ông Cựu Dân Biểu VNCH Trần Đình Ngọc"
 author: "Paul Osiek và Diễn Đàn"
 date: 2014-02-24
-source: "https://sachhiem.net/DOITHOAI/PaulOsiek.php"
+source: "/DOITHOAI/PaulOsiek"
 category: "Tác giả"
 lang: vi
 wordCount: 2922
@@ -155,7 +155,7 @@ image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/THOISU_CT/Hinh/CCCB/
  Date:&nbsp;Sun, 2 Feb 2014  09:38:32 +0700<br>
  Subject:&nbsp;Re: Người Việt Nam xa gần thương tiếc và tưởng niệm Giáo Sư Tiến  Sĩ Trần Chung Ngọc</p>
 <p>Gửi ông Bút Xuân!</p>
-<p>(xin đọc <a href="https://sachhiem.net/index.php?content=showemail&amp;id=521">https://sachhiem.net/index.php?content=showemail&amp;id=521 </a>)</p>
+<p>(xin đọc <a href="/hop-thu/521">https://sachhiem.net/index.php?content=showemail&amp;id=521 </a>)</p>
 <p>
      ………………………………………. </p>
 <p>

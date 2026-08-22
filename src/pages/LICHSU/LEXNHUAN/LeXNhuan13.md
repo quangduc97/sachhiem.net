@@ -3,7 +3,7 @@ layout: ../../../layouts/Article.astro
 title: "Ai Giúp Cộng Sản Đánh Đổ Việt Nam Cộng Hòa"
 author: "Lê Xuân Nhuận"
 date: 2015-03-09
-source: "https://sachhiem.net/LICHSU/LEXNHUAN/LeXNhuan13.php"
+source: "/LICHSU/LEXNHUAN/LeXNhuan13"
 category: "Lịch sử"
 lang: vi
 wordCount: 4244
@@ -22,7 +22,7 @@ image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/LICHSU/IMG/SACH/Bien
   <p align="center"><i>(trích từ hồi-ký Biến-Loạn Miền Trung. Hình của Blogger Nam Giao) </i></p> </div>
   <p align="center"><img src="https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/LICHSU/IMG/SACH/BienLoanMienTrung.jpg" width="200" height="276"></p>
      <div class="tomluoc">
- <p><i>LTS: Trang nhà SH chọn bài viết sau đây đáp ứng  mục "<a href="https://sachhiem.net/EMAILS/SH/Sachhiem44_invite.php">40 Năm Hải Ngoại Được Mất Những Gì?</a>" Mục đích của chúng tôi trong bài này chỉ là góp nhặt sự kiện để chứng minh rằng Giáo Hội La Mã luôn luôn len lỏi vào chính quyền để lèo lái vận mệnh của những quốc gia đối tượng theo chiều hướng nào có lợi cho họ bất chấp hậu quả tai hại cho ai khác. Bài đã được đăng năm trước với ý nghĩa khác. Ngoài ra, các từ ngữ biểu lộ quan niệm về chính trị của cá nhân tác giả, nhất là góc nhìn từ chức vụ khá lớn trong chính quyền miền Nam, không thể hiện quan điểm của trang nhà. (SH) </i>  </p>
+ <p><i>LTS: Trang nhà SH chọn bài viết sau đây đáp ứng  mục "<a href="/EMAILS/SH/Sachhiem44_invite">40 Năm Hải Ngoại Được Mất Những Gì?</a>" Mục đích của chúng tôi trong bài này chỉ là góp nhặt sự kiện để chứng minh rằng Giáo Hội La Mã luôn luôn len lỏi vào chính quyền để lèo lái vận mệnh của những quốc gia đối tượng theo chiều hướng nào có lợi cho họ bất chấp hậu quả tai hại cho ai khác. Bài đã được đăng năm trước với ý nghĩa khác. Ngoài ra, các từ ngữ biểu lộ quan niệm về chính trị của cá nhân tác giả, nhất là góc nhìn từ chức vụ khá lớn trong chính quyền miền Nam, không thể hiện quan điểm của trang nhà. (SH) </i>  </p>
   <p><b>Lời  Giới Thiệu</b> - Từ lâu, tại hải  ngoại, khi truy tầm nguyên nhân khiến Việt Nam Cộng Hòa bị sụp đổ vào mùa Xuân  năm 1975, nhiều “nhà nghiên cứu” thường cố ý giản lược hóa vào chỉ một nguyên  nhân mà thôi. </p>
   <p>   Các vị cựu viên chức VNCH thì bảo vì “<i>đồng minh tháo chạy</i>”, các vị quân nhân  vất súng trốn chạy trong 55 ngày thì bảo vì “<i>Việt Cộng có vũ khi Nga sô Trung Cộng</i>”, mấy ông tàn dư Cần Lao Công  giáo, vốn khống chế lãnh vực truyền thông nhằm chống phá Phật giáo để trả thù  cho ông Diệm, thì bảo vì “<i>sư sải xuống  đường</i>”, v.v… </p>
   <p>   Một hiện tượng lịch sử cực kỳ phức tạp như sự  sụp đổ của một chế độ, sự xóa bỏ một quốc gia không thể đến chỉ từ chỉ một  nguyên nhân mà thôi, dù nguyên nhân đó có quan trọng đến mức nào.&nbsp; Thế nhưng những thành phần hải ngoại kể trên thì  vẫn duy trì nhận thức phi khoa học và thái độ phản lịch sử loại nầy là vì họ  chỉ muốn che giấu mặc cảm thất trận. </p>

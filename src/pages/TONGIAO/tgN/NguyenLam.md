@@ -2,7 +2,7 @@
 layout: ../../../layouts/Article.astro
 title: "Nhân Vụ Đồng Chiêm - “Quạ Thì Đen”"
 author: "Nguyễn Lâm"
-source: "https://sachhiem.net/null"
+source: "/null"
 category: "Tác giả"
 lang: vi
 wordCount: 8001
@@ -655,7 +655,7 @@ image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/IMG/VATICAN/POPE/Piu
          <p class="TuaDoLeft"> <img border="0" src="https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/headerbg.gif" width="31" height="48">IAW VOV NEWS ONLINE </p>
          <p class="TuaDenLeft"> <a href="/tgT/TinVOV_01">Biểu tượng thiêng 
           liêng của tôn giáo </a> </p>
-         <p class="baochi"><a href="https://sachhiem.net/TONGIAO/tgT/TinVOV_01.php"> (Xin mời đọc bài này trong sachhiem.net https://sachhiem.net/TONGIAO/tgT/TinVOV_01.php</a>) &nbsp;&nbsp;</p>
+         <p class="baochi"><a href="/TONGIAO/tgT/TinVOV_01"> (Xin mời đọc bài này trong sachhiem.net https://sachhiem.net/TONGIAO/tgT/TinVOV_01.php</a>) &nbsp;&nbsp;</p>
          <div style="padding-left: 50px">
           <p class="baochi"><b>(VOV) - Thánh giá là biểu tượng thiêng liêng, là đức tin của người Công 
            giáo. Hơn ai hết, các vị chức sắc ở nhà thờ Đồng Chiêm phải thể hiện sự 

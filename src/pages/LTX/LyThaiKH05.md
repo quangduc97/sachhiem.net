@@ -2,7 +2,7 @@
 layout: ../../layouts/Article.astro
 title: "Trước Lucy đã có Ardi"
 author: "Lý Thái Xuân phỏng dịch"
-source: "https://sachhiem.net/LTX/LyThaiKH05.php"
+source: "/LTX/LyThaiKH05"
 category: "Khoa học"
 lang: vi
 wordCount: 2420

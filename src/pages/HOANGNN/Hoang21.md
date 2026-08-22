@@ -2,17 +2,15 @@
 layout: ../../layouts/Article.astro
 title: "ALLA ƠI, ALLA"
 author: "Hoàng Đông Tà giới thiệu"
-source: "https://sachhiem.net/HOANGNN/Hoang21.php"
+source: "/HOANGNN/Hoang21"
 lang: vi
 wordCount: 5546
-image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nha.jpg"
 ---
 
 <p class="Tuaduoi">ĐI CHỖ KHÁC CHO CHÚNG TÔI NHỜ!</p>
 		
 	 
-<p align="center"><a href="https://www.sachhiem.net/">
-	<img hspace="20" border="0" src="https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nha.jpg"></a> ngày 12 tháng 12, 2008</p>
+<p align="center"> ngày 12 tháng 12, 2008</p>
 
 			<p><span class="First">P</span>hản hồi ý kiến người đọc cho bài viết 
 	<b><i>Battle for Mumbai ends, 195 dead </i>xuất 
@@ -46,7 +44,7 @@ image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nha.jpg"
 	
 		<div style="background-color: #CCCCFF">
 			<b>
-			<a href="https://www.sachhiem.net/TONGIAO/CheTrungHieu.php">Chúa Hành !</a></b><p><a href="https://www.sachhiem.net/TONGIAO/CheTrungHieu.php">Tôi 
+			<a href="/TONGIAO/CheTrungHieu">Chúa Hành !</a></b><p><a href="/TONGIAO/CheTrungHieu">Tôi 
 	lấy chủ đề bài viết là Chúa Hành...bởi vì tôi muốn nói với mọi người một 
 	điều tai nghe mắt thấy là có những kẻ bị Chúa hành....</a></p>
 	<p>Người 

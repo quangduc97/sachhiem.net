@@ -3,7 +3,7 @@ layout: ../../../layouts/Article.astro
 title: "Lộ Trình Giải Thể Cộng Sản Của Giáo Hoàng John Paul II"
 author: "Seattletimes/ Tuấn Lê"
 date: 2023-10-30
-source: "https://sachhiem.net/TONGIAO/FB/FBTuanLe.php"
+source: "/TONGIAO/FB/FBTuanLe"
 category: "Chính trị"
 lang: vi
 wordCount: 2374

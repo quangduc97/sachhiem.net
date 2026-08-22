@@ -2,11 +2,11 @@
 layout: ../../../layouts/Article.astro
 title: "NHẬN ĐỊNH VỀ GIÁO LÝ LÀNG MAI"
 author: "Trí Thông"
-source: "https://sachhiem.net/null"
+source: "/null"
 category: "Tác giả"
 lang: vi
 wordCount: 6274
-image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nha.jpg"
+image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/IMG/ThuvienHoasen.gif"
 ---
 
 <div align="center" style="position: relative; left: 0; top: 0">
@@ -27,8 +27,7 @@ image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nha.jpg"
 <tr><td width="100%">
 <div style="padding-left: 50px; padding-right: 50px"> 
 	<table border="0" cellpadding="1" width="86%" cols="2"><tbody><tr>
-	<td>	<p><a href="/index">
-	<img border="0" src="https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nha.jpg"></a></p></td>
+	<td>	</td>
 <td valign="top" width="210"><p>07 tháng 12, 2009</p>
 			</td></tr></tbody></table>
 			<p><i>LTS: Nhân có bài viết "<a href="/NGTRCAM/NguyenTriCam14">Xin giữ cho đạo Phật được trong sáng" của tác giả Nguyễn Trí Cảm</a> vừa đăng hôm 04Dec09, bài viết này được đăng lại từ Thư Viện Hoa Sen để bạn đọc có thêm dữ liệu về giáo lý Làng Mai, không nhất thiết tất cả đều phản ảnh quan điểm về tôn giáo của sachhiem.net.

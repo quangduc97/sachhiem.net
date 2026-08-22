@@ -3,7 +3,7 @@ layout: ../../../layouts/Article.astro
 title: "Bản Kiến Nghị gửi:"
 author: "Trỵ Hà Nguyễn"
 date: 2013-01-25
-source: "https://sachhiem.net/THOISU_CT/ChuTr/TryNguyen.php"
+source: "/THOISU_CT/ChuTr/TryNguyen"
 category: "Chính trị"
 lang: vi
 wordCount: 1038

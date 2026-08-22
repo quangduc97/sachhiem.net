@@ -3,7 +3,7 @@ layout: ../../layouts/Article.astro
 title: "Tâm Sự Khi Mẹ Ngủ"
 author: "Lý Thái Xuân"
 date: 2013-01-20
-source: "https://sachhiem.net/LTX/LyThaiXH15.php"
+source: "/LTX/LyThaiXH15"
 category: "Xã hội"
 lang: vi
 wordCount: 3906
@@ -74,7 +74,7 @@ image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/LTX/IMG/tranghoa.jpg
       - <a href="https://vnthuquan.net/truyen/truyen.aspx?tid=2qtqv3m3237ntn1n4nvn31n343tq83a3q3m3237nvn&amp;AspxAutoDetectCookieSupport=1">https://vnthuquan.net/truyen/truyen.aspx?tid=2qtqv3m3237ntn1n4nvn31n343tq83a3q3m3237nvn&amp;AspxAutoDetectCookieSupport=1</a></p>
      <p>_____________<br>
        <b>Bài liên quan:</b></p>
-     <p><a href="https://www.sachhiem.net/LTX/LyThaiXH32.php">- Bước Đầu Xa Nhà: Miếng Cơm Cháy Gây Bão!</a></p>
+     <p><a href="/LTX/LyThaiXH32">- Bước Đầu Xa Nhà: Miếng Cơm Cháy Gây Bão!</a></p>
       
      
      <hr>

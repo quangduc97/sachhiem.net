@@ -3,7 +3,7 @@ layout: ../../../layouts/Article.astro
 title: "Nhân xem 2 videos (youtube) về \"Đặc Khu Con Chiên\""
 author: "TP Thanh Tâm"
 date: 2018-07-01
-source: "https://sachhiem.net/THOISU_CT/ChuP/PThanhTam_04.php"
+source: "/THOISU_CT/ChuP/PThanhTam_04"
 category: "Chính trị"
 lang: vi
 wordCount: 2943

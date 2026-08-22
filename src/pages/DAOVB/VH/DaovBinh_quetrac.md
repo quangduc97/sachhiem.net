@@ -3,7 +3,7 @@ layout: ../../../layouts/Article.astro
 title: "Chuyện Hai Người Quét Rác"
 author: "Đào Văn Bình"
 date: 2013-03-30
-source: "https://sachhiem.net/DAOVB/VH/DaovBinh_quetrac.php"
+source: "/DAOVB/VH/DaovBinh_quetrac"
 category: "Văn hóa"
 lang: vi
 wordCount: 1731

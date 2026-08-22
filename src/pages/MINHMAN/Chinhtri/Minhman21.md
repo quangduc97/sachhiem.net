@@ -3,7 +3,7 @@ layout: ../../../layouts/Article.astro
 title: "Vesak Và Biển Đông"
 author: "Minh Mẫn"
 date: 2014-05-08
-source: "https://sachhiem.net/MINHMAN/Chinhtri/Minhman21.php"
+source: "/MINHMAN/Chinhtri/Minhman21"
 lang: vi
 wordCount: 1027
 image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/THOISU_CT/Hinh/QuanheTQ/GiankhoanHD981.JPG"
@@ -24,6 +24,6 @@ image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/THOISU_CT/Hinh/Quanh
           <p class="TacgiaL"> MINH  MẪN</p>
           <p> 08/5/2014</p>
           
- <a href="https://sachhiem.net/MINHMAN/MMdir.php">
+ <a href="/MINHMAN/MMdir">
         <p class="trang">Trang Minh Mẫn</p>
         </a>

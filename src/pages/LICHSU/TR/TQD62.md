@@ -3,7 +3,7 @@ layout: ../../../layouts/Article.astro
 title: "Một bài viết vô giá trị về Nguyễn Trường Tộ của ông \"TS. Phạm Huy Thông\""
 author: "Trần Quang Diệu"
 date: 2020-02-28
-source: "https://sachhiem.net/LICHSU/TR/TQD62.php"
+source: "/LICHSU/TR/TQD62"
 category: "Chính trị"
 lang: vi
 wordCount: 3074
@@ -62,15 +62,15 @@ image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/LICHSU/IMG/NHANVAT/N
 <p>  Minh Mạng, Thiệu Trị,  Tự Đức và chính phủ của họ đã không lầm khi họ có cùng một ý nghĩ như Lamartine  (nhà thơ Pháp đứng đầu chính phủ lâm thời của Pháp năm 1848 – LND) tuyên bố  ngày 3/8/1844: </p>
 <p>  <i>“Trong tư tưởng của  tôi, tôi thấy sự phồn vinh của tất cả mọi loại Hội tôn giáo đều tai hại, nguy  hiểm và gây sạt nghiệp cho quốc gia va gia đình.”</i> </p>
 <p>  Họ có lý, khi họ cũng  kết luận, giống Guizot (nhà sử học và nhà hoạt động chính trị Pháp): <i>“Quốc gia phải mang tính chất thế tục,”</i> hoặc với Cavour (nhà hoạt động chính trị  Ý – thế kỷ XIX): <i>“Quốc gia phải thật sự  tự do.”</i> Đó là biện pháp  duy nhất hiệu nghiệm để tiến lên giải phóng dân tộc Việt Nam.”  </p>
-<p>  Đọc tiếp: <a href="https://sachhiem.net/TONGIAO/tgN/NguyenXTho.php" target="_blank">https://sachhiem.net/TONGIAO/tgN/NguyenXTho.php</a></p>
+<p>  Đọc tiếp: <a href="/TONGIAO/tgN/NguyenXTho" target="_blank">https://sachhiem.net/TONGIAO/tgN/NguyenXTho.php</a></p>
 </div>
 <p>Không thể chủ quan  và độc đoán như cung cách mà ông TS. Phạm Huy Thông đã viết  là "<i>không còn tranh cãi nữa</i>". Tôi chuyển lại những phản biện  sau đây về con người Nguyễn Trường Tộ: </p>
 <p><b>- Phản biện bài viết về Nguyễn Trường Tộ của ông Nguyễn Đình Đầu  <i>(Phan Văn Vương)</i></b></p>
-<p><a href="https://sachhiem.net/BUIKHA/BuiKha15a_NTT.php" target="_blank">https://tongiaovadantoc.com/c1036/20111216105358024/phan-bien-bai-viet-ve-nguyen-truong-to-cua-ong-nguyen-dinh-dau-phan-van-vuong.htm</a></p>
+<p><a href="/BUIKHA/BuiKha15a_NTT" target="_blank">https://tongiaovadantoc.com/c1036/20111216105358024/phan-bien-bai-viet-ve-nguyen-truong-to-cua-ong-nguyen-dinh-dau-phan-van-vuong.htm</a></p>
 <p> <b>- Một Khám Phá Bất Ngờ Về Nguyễn Trường Tộ (<i>Nguyễn Xuân Phong</i>)</b> </p>
-<p>  <a href="https://sachhiem.net/LICHSU/N/NgXPhong.php" target="_blank">https://sachhiem.net/LICHSU/N/NgXPhong.php</a></p>
+<p>  <a href="/LICHSU/N/NgXPhong" target="_blank">https://sachhiem.net/LICHSU/N/NgXPhong.php</a></p>
 <p><b>- Đọc Sách: "Nguyễn Trường Tộ &amp; Vấn Đề Canh Tân" <i>(Phần 2 chương 3)</i></b> </p>
-<p>  <a href="https://sachhiem.net/BUIKHA/BuiKha01d_NTT.php">https://giaodiemonline.com/2011/06/ntt2-3.htm</a></p>
+<p>  <a href="/BUIKHA/BuiKha01d_NTT">https://giaodiemonline.com/2011/06/ntt2-3.htm</a></p>
 
 
 
@@ -88,7 +88,7 @@ image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/LICHSU/IMG/NHANVAT/N
   <p>  - <img src="https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/Decor_trong.jpg" width="30" height="23" alt="">Tròng thứ hai, là giao hiếu với Giáo Hoàng để  cho các Giáo sĩ thực dân như Legrand, Pellerin, Retort, Huc... và các linh mục  Việt Nam bản xứ được có đầy đủ <i>“Trị ngoại pháp quyền”</i> để dễ đồng hóa và Gia Tô hóa dân tộc ta, đem tổ quốc dâng  hiến cho Pháp và La Mã. </p>
   <p>  - <img src="https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/Decor_trong.jpg" width="30" height="23" alt="">Tròng thứ ba, là đề nghị một số giám mục linh  mục tình báo và Việt gian vào trong triều đình để dễ dàng đồng hóa biến người  Việt Nam trở thành người Pháp và nước Việt Nam trở thành một nước Pháp ở Á  Châu. </p>
   <p>  Một con người như thế, tại sao có nhiều người  nhầm lẫn? để ca tụng ông bằng những danh từ cao quí như <i>“Nguyễn Trường Tộ nhà cải cách lớn của dân  tộc...”</i></p>
-  <p> (<a href="https://sachhiem.net/BUIKHA/BuiKha01d_NTT.php" target="_blank">https://sachhiem.net/BUIKHA/BuiKha01d_NTT.php</a>)</p>
+  <p> (<a href="/BUIKHA/BuiKha01d_NTT" target="_blank">https://sachhiem.net/BUIKHA/BuiKha01d_NTT.php</a>)</p>
 
 
 <ul type="disc">

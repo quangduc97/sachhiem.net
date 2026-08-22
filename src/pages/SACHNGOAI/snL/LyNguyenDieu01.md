@@ -3,7 +3,7 @@ layout: ../../../layouts/Article.astro
 title: "Một Nhà Thờ Ở Anh Bị Chỉ Trích Vì Những Buổi Tu Thiền"
 author: "Lý Nguyên Diệu dịch"
 date: 2016-05-27
-source: "https://sachhiem.net/SACHNGOAI/snL/LyNguyenDieu01.php"
+source: "/SACHNGOAI/snL/LyNguyenDieu01"
 category: "Tác giả"
 lang: vi
 wordCount: 969

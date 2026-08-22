@@ -2,11 +2,11 @@
 layout: ../../../layouts/Article.astro
 title: "Còn Chờ Đợi Vùng Cửa Sổ 10-40"
 author: "Đỗ Chi"
-source: "https://sachhiem.net/(diễn đàn thư tín Friday, April 09, 2010 9:46 AM)"
+source: "/(diễn đàn thư tín Friday, April 09, 2010 9:46 AM)"
 category: "Tác giả"
 lang: vi
 wordCount: 1687
-image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nha.jpg"
+image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/IMG/CHURCH/TaberdSaigon_Cu.jpg"
 ---
 
 <div align="center" style="position: relative; left: 0; top: 0">
@@ -26,8 +26,7 @@ image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nha.jpg"
 <tr><td width="100%">
 <div style="padding-left: 50px; padding-right: 50px"> 
 	<table border="0" cellpadding="1" width="87%" cols="2"><tbody><tr>
-	<td><a href="/index">
-	<img border="0" src="https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nha.jpg"></a></td>
+	<td></td>
 <td valign="top" width="249"><p>10 tháng 4, 2010	</p>
 			</td></tr></tbody></table>
 

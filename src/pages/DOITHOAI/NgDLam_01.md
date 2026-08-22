@@ -3,7 +3,7 @@ layout: ../../layouts/Article.astro
 title: "“Ai Đẻ Ra Các Ông Sư Hư Hỏng?”"
 author: "Nguyễn Đăng Lâm"
 date: 2015-12-14
-source: "https://sachhiem.net/DOITHOAI/NgDLam_01.php"
+source: "/DOITHOAI/NgDLam_01"
 category: "Chính trị"
 lang: vi
 wordCount: 2148

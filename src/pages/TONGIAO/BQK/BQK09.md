@@ -3,7 +3,7 @@ layout: ../../../layouts/Article.astro
 title: "NỤ CƯỜI “CÔNG GIÁO”"
 author: "Bảo quốc Kiếm"
 date: 2013-11-03
-source: "https://sachhiem.net/TONGIAO/BQK/BQK09.php"
+source: "/TONGIAO/BQK/BQK09"
 category: "Tác giả"
 lang: vi
 wordCount: 3740
@@ -139,5 +139,5 @@ Tôi xin mạn phép góp ý.</p>
 <p>
   Phạm Trung Kiên</p>
 <p>_________________</p>
-<p> (xem tiếp các tranh luận) ●  2016-04-11 - <a href="https://sachhiem.net/index.php?content=showemail&amp;id=1431"><b>Ông Bà ai nấy theo. Từ  "Catholic" đến "Quốc Dân Đảng" qua “nhà thờ kiếng mà  Catholic mua lại của T </b></a>- <i>Diễn Đàn </i>–</p>
-<p>●  2016-04-10 - <a href="https://sachhiem.net/index.php?content=showemail&amp;id=1430"><b>Tranh cãi nữa: Da-tô, Gia tô, Công Giáo, Ca-tô-lic, Ca-tô Rô-ma giáo,..  tên nào cũng là Vatican giáo </b></a>- <i>Diễn Đàn </i>-</p>
+<p> (xem tiếp các tranh luận) ●  2016-04-11 - <a href="/hop-thu/1431"><b>Ông Bà ai nấy theo. Từ  "Catholic" đến "Quốc Dân Đảng" qua “nhà thờ kiếng mà  Catholic mua lại của T </b></a>- <i>Diễn Đàn </i>–</p>
+<p>●  2016-04-10 - <a href="/hop-thu/1430"><b>Tranh cãi nữa: Da-tô, Gia tô, Công Giáo, Ca-tô-lic, Ca-tô Rô-ma giáo,..  tên nào cũng là Vatican giáo </b></a>- <i>Diễn Đàn </i>-</p>

@@ -2,14 +2,14 @@
 layout: ../../../layouts/Article.astro
 title: "Một điển hình tàn ác của nhà Ngô"
 author: "Góp Gió"
-source: "https://sachhiem.net/null"
+source: "/null"
 category: "Lịch sử"
 lang: vi
 wordCount: 724
-image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nha.jpg"
+image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/LICHSU/IMG/VNwar/HamHanGiangHQ401.jpg"
 ---
 
-<p align="center"><a href="https://www.sachhiem.net/"> <img border="0" src="https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nha.jpg"></a>  24 tháng 10, 2010 </p>
+<p align="center">  24 tháng 10, 2010 </p>
 <p><i>From: Gop gio  <br>
 </i></p>
 <p><i>To: lugiang2003@yahoo.com, GoiDan@yahoogroups.com <br>
@@ -66,9 +66,9 @@ image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nha.jpg"
 <p>(có đăng ở  https://giaodiemonline.com/noidung_detail.php?news id=5252 ngày 20/10/2010) </p>
 	<hr width="60%" align="left">
 	<p><b>Những bài liên hệ: </b></p>
-    <p>-<a href="https://sachhiem.net/LICHSU/N/NguyenTgTam.php"> Tổng Thống Diệm Sát Hại Đối Lập? </a>(Nguyễn Tường Tâm/DCV) </p>
-    <p>- <a href="https://sachhiem.net/DOITHOAI/Gopgio.php">Ác Đến Độ Khó Tin: Mật Lệnh cho Phi Công Huỳnh Minh Đường</a> (Góp Gió)</p>
-    <p><a href="https://sachhiem.net/LICHSU/TR/TranKevin.php">- Đại Uý Không Quân Huỳnh Minh Đường Có Bay Qua Cambốt Không?</a> (Kevin Trần)</p>
-    <p><a href="https://sachhiem.net/LICHSU/G/GopGio.php">- Một điển hình tàn ác của nhà Ngô</a> (Góp Gió)</p>
+    <p>-<a href="/LICHSU/N/NguyenTgTam"> Tổng Thống Diệm Sát Hại Đối Lập? </a>(Nguyễn Tường Tâm/DCV) </p>
+    <p>- <a href="/DOITHOAI/Gopgio">Ác Đến Độ Khó Tin: Mật Lệnh cho Phi Công Huỳnh Minh Đường</a> (Góp Gió)</p>
+    <p><a href="/LICHSU/TR/TranKevin">- Đại Uý Không Quân Huỳnh Minh Đường Có Bay Qua Cambốt Không?</a> (Kevin Trần)</p>
+    <p><a href="/LICHSU/G/GopGio">- Một điển hình tàn ác của nhà Ngô</a> (Góp Gió)</p>
 	<p>Những bài viết về Ngô Đình Diệm:</p>
 <iframe target="top" name="I1" src="/LICHSU/CacbaiNgDD.php" width="500" height="200"> Your browser does not support inline frames or is currently configured not to display inline frames. </iframe>

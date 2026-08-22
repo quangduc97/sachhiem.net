@@ -3,7 +3,7 @@ layout: ../../../layouts/Article.astro
 title: "Tại Sao Lại Gọi Ngô Đình Diệm Là: “Tên Bạo Chúa Phản Thần Tam Đại Việt Gian?\""
 author: "- Nguyễn Mạnh Quang -"
 date: 2023-11-01
-source: "https://sachhiem.net/NMQ/HOSOTOIAC/CH63_1cA.php"
+source: "/NMQ/HOSOTOIAC/CH63_1cA"
 lang: vi
 wordCount: 2664
 image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/SACHNGOAI/Hinhanh/BIASACH/100Tyrants_NDD300.jpg"
@@ -53,7 +53,7 @@ image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/SACHNGOAI/Hinhanh/BI
 <p>Ở thế hệ thứ nhất của gia đình ông Diệm - trong lá thư đề ngày 21/8/1944 gửi cho Toàn Quyền Jean Decoux, Giám-mục Pierre Martin Ngô Đình Thục khẳng định rằng thân phụ ông, tức là ông Ngô Đình Khả “<i>đã phục vụ nước Pháp ngay từ khi Pháp mới đến An Nam, và đã nhiều lần đưa mạng sống cho nước Pháp trong các cuộc hành quân mà cha tôi cầm đầu, dưới quyền của Nguyễn Thân, chống lại các kẻ nổi loạn do Phan Đình Phùng chỉ huy, tại Nghệ An và Hà Tĩnh</i>.”  Xin xem <a href="/NMQ/HOSOTOIAC/CH63_1b">lá thư của Giám Mục Ngô Đình Thục gửi Tòan Quyền Decoux</a>  kèm theo đây.</p>
 <p align="center"><img src="https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/LICHSU/IMG/NGODD/Thu_NDT_Decoux1.jpg" width="334" height="423" alt=""></p>
 <p align="center"><img src="https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/LICHSU/IMG/NGODD/Thu_NDT_Decoux2.jpg" width="330" height="453" alt=""></p>
-<p align="center">(bản chụp, nguồn gốc,... xem <a href="https://sachhiem.net/BUIKHA/BuiKha.php">https://sachhiem.net/BUIKHA/BuiKha.php</a>)</p>
+<p align="center">(bản chụp, nguồn gốc,... xem <a href="/BUIKHA/BuiKha">https://sachhiem.net/BUIKHA/BuiKha.php</a>)</p>
 
   <p><b>Bản dịch lá thư:</b></p>
  <div class="indent50">

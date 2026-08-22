@@ -3,7 +3,7 @@ layout: ../../../layouts/Article.astro
 title: "PHONG TRÀO DÂN TỘC TỰ QUYẾT"
 author: "Phan Tấn Công"
 date: 2025-02-18
-source: "https://sachhiem.net/LICHSU/P/PhanTanCong.php"
+source: "/LICHSU/P/PhanTanCong"
 category: "Chính trị"
 lang: vi
 wordCount: 32223

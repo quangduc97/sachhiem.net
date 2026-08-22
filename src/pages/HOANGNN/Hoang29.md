@@ -2,18 +2,16 @@
 layout: ../../layouts/Article.astro
 title: "HÀNH TRÌNH HÓA GIẢI CỦA OBAMA"
 author: "Hoàng Nguyên Nhuận chuyển Việt"
-source: "https://sachhiem.net/HOANGNN/Hoang29.php"
+source: "/HOANGNN/Hoang29"
 category: "Chính trị"
 lang: vi
 wordCount: 1693
-image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nha.jpg"
 ---
 
 <p class="Tuaduoi"> diễn văn đọc trước Quốc Hội Ghana tại Accra, thủ đô Ghana ngày 12-07-09</p>
 		
 	 
-<p align="center"><a href="https://www.sachhiem.net/">
-	<img hspace="20" border="0" src="https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nha.jpg"></a>19 tháng 7, 2009 </p>
+<p align="center">19 tháng 7, 2009 </p>
 	    
 	
 	<p>&nbsp;<a href="/HOANGNN/Hoang25">1</a>&nbsp; 

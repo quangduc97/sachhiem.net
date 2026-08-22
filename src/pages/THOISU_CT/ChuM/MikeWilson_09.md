@@ -3,7 +3,7 @@ layout: ../../../layouts/Article.astro
 title: "Các sai lầm căn bản trong các kiến nghị sửa đổi hiến pháp VN"
 author: "Mike Wilson"
 date: 2015-10-29
-source: "https://sachhiem.net/THOISU_CT/ChuM/MikeWilson_09.php"
+source: "/THOISU_CT/ChuM/MikeWilson_09"
 category: "Chính trị"
 lang: vi
 wordCount: 2831
@@ -43,7 +43,7 @@ Dân giàu nước mạnh là do chính sách kinh tế hiệu quả, do tầm n
 <p>
     Tại VNCH 1954-1975 - độc tài dưới  vỏ bọc đa đảng  - Diệm Thiệu là hai ví dụ !! Nếu cần, Mỹ còn ngụy tạo chứng cớ để gây chiến và chiếm đoạt nguyên cả một nước như Iraq 2002  ...</p>
 <p align="center"><img width="350" height="231" alt="trojan horse, con ngựa thành Troy" src="https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.devhttps://sachhiem.net/VANHOC/Hinh/TROY/trojan_horse_canakkale_turkey.jpg"></p>
-<p align="center"> Con ngựa thành Troy ở tỉnh Canakkale, Turkey Đây là con ngựa gỗ đóng trong phim Trojan Horse năm 2004. <a href="https://sachhiem.net/THOISU_CT/ChuN/NgTienBac.php">Xem bài <i>Cơ Hội Cho Những Con Ngựa Thành Troy</i></a></p>
+<p align="center"> Con ngựa thành Troy ở tỉnh Canakkale, Turkey Đây là con ngựa gỗ đóng trong phim Trojan Horse năm 2004. <a href="/THOISU_CT/ChuN/NgTienBac">Xem bài <i>Cơ Hội Cho Những Con Ngựa Thành Troy</i></a></p>
 <p> Chiến lược đối ngoại toàn cầu của  Âu Mỹ là dùng  chiêu bài con ngựa gỗ "dân chủ, đa nguyên, đa đảng" để lập thế trận  thâm nhập chui sâu vào nội bộ các nước - nuôi dưỡng, gieo mầm, và  nhân mầm tay  sai - bằng phối hợp từ RFA, RSF,  BBC, VOA, National Endowment For Democracy, và các tổ chức phi chính phủ, NGO,  vỏ bọc của CIA, v.v... Nhằm yểm trợ, nuôi dưỡng, phát thưởng, phát tiền, khuyến  khích các tổ chức tay sai lén lút cho tiền các phần tử phá hoại, để lâu dài nhân rộng và hình thành một khối đối lập  chính trị - phục vụ cho mục  đích lật đổ các chế độ độc lập tự chủ - và nhân đó cài cắm tay sai bản xứ, xây lại chế độ  theo ý Mỹ... (!)</p>
 <p><i>Những ai đua đòi bắt nhịp, chạy theo xu thế thời đại, ôm chân đội háng Âu Mỹ bằng cách  nói trên, đều là việt gian, vong nô,  phản quốc, đều là phản dân, hại nước, a dua, phù thịnh, tham sống, sợ  chết, theo kiểu Trần Ích Tắc - đó là sai lầm mấu chốt thứ năm .</i></p>
 <p><b>Thứ 6. &nbsp; Không thẻ tha thứ kẻ âm mưu phá hoại &nbsp;lúc này.</b></p>

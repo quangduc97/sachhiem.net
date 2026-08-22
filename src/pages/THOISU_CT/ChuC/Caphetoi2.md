@@ -2,7 +2,7 @@
 layout: ../../../layouts/Article.astro
 title: "Một hành động xâm lược cần được ngăn chặn"
 author: "Cà Phê Tối"
-source: "https://sachhiem.net/null"
+source: "/null"
 category: "Chính trị"
 lang: vi
 wordCount: 443

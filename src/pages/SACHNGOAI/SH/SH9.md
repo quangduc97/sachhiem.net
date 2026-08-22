@@ -3,7 +3,7 @@ layout: ../../../layouts/Article.astro
 title: "Thủ Tướng Canada Trudeau yêu cầu Giáo Hoàng xin lỗi các trường nội trú ở Canada"
 author: "Tin BBC"
 date: 2017-06-04
-source: "https://sachhiem.net/SACHNGOAI/SH/SH9.php"
+source: "/SACHNGOAI/SH/SH9"
 category: "Tác giả"
 lang: vi
 wordCount: 1089

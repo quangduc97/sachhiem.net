@@ -3,7 +3,7 @@ layout: ../../../layouts/Article.astro
 title: "Ký Ức Ông Lang và Quả Báo Theo Nhà Phật"
 author: "Tôn Ông Gò Vấp"
 date: 2014-01-10
-source: "https://sachhiem.net/THOISU_CT/ChuT/TOgovap.php"
+source: "/THOISU_CT/ChuT/TOgovap"
 category: "Tác giả"
 lang: vi
 wordCount: 3581

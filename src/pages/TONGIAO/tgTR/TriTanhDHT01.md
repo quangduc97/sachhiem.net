@@ -3,7 +3,7 @@ layout: ../../../layouts/Article.astro
 title: "Đi Tìm Một Phật Giáo Mỹ"
 author: "Trí Tánh Đỗ Hữu Tài"
 date: 2012-12-14
-source: "https://sachhiem.net/TONGIAO/tgTR/TriTanhDHT01.php"
+source: "/TONGIAO/tgTR/TriTanhDHT01"
 category: "Tác giả"
 lang: vi
 wordCount: 5430

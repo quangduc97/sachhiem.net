@@ -3,7 +3,7 @@ layout: ../../../layouts/Article.astro
 title: "Ngô Kha: Trường Ca Và Thơ Tự Do"
 author: "Trần Thị Mỹ Hiền"
 date: 2013-02-25
-source: "https://sachhiem.net/VANHOC/N/Ngokha_TTmyhien.php"
+source: "/VANHOC/N/Ngokha_TTmyhien"
 category: "Tác giả"
 lang: vi
 wordCount: 7356

@@ -2,15 +2,14 @@
 layout: ../../../layouts/Article.astro
 title: "Chuyện Nguyễn Thành Nam Viết Và Quang Thiều Duyệt In Sách Về Bác Hồ"
 author: "Đông La"
-source: "https://sachhiem.net/LICHSU/D/DongLa_13.php"
+source: "/LICHSU/D/DongLa_13"
 category: "Chính trị"
 lang: vi
 wordCount: 5169
-image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nha.jpg"
+image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/LICHSU/IMG/LAT_SU/NguyenThanhNam.JPG"
 ---
 
-<p align="center"><a href="https://www.sachhiem.net/">
-<img border="0" src="https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nha.jpg"></a> 
+<p align="center"> 
 20-June-2026</p> 
 <div class="tomluoc">
   <p><i>Hôm nay, thật e ngại khi không chỉ Nguyễn Thành Nam, Nguyễn Quang Thiều tiếp bước “bãi cứt trâu” Võ Thị Hảo mà có nhiều kẻ, trong đó có cả nhà văn, nhà thơ, nhà khoa học, bênh vực hai thằng mất dạy trên! </i></p>
@@ -69,7 +68,7 @@ image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nha.jpg"
 <p>Ông Nguyễn Mạnh Quang từng bị tụi nó hăm dọa vì lên tiếng chống  lại sự xuyên tạc đó.</p>
 <p>Năm 2009 ông NMQ có viết 1 lá thư dài gửi “các giáo sư và học  sinh” cùng trường, xem như để “giả từ” vì họ cùng đối đầu với ông ấy về tư tưởng.</p>
 <p>Xin mời xem 1 phần của lá thư:</p>
-<a href="https://sachhiem.net/NMQ/NMQ020.php"><p>VỀ CHUYỆN ĐẢO NGƯỢC DANH DỰ ÔNG HỒ CHÍ MINH</p><p>(Nguyễn Mạnh Quang)</p></a>
+<a href="/NMQ/NMQ020"><p>VỀ CHUYỆN ĐẢO NGƯỢC DANH DỰ ÔNG HỒ CHÍ MINH</p><p>(Nguyễn Mạnh Quang)</p></a>
  
 <p>đăng ngày 24 tháng 7, 2009</p>
 
@@ -78,7 +77,7 @@ image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nha.jpg"
 <p>Cũng như nhóm linh mục Nguyễn Hữu Lễ làm 1 DVD “SỰ THẬT VỀ HỒ  CHÍ MINH” để hạ giá ông cụ, cũng chỉ cố tình đem ra những chuyện rất nhỏ nhặt  mà bỏ qua các điểm chính yếu của quyển"Ho Chi Minh A Life". Chuyện nhỏ  nhặt trong quyển sách không phải là "cài cắm" mà chỉ là những mảnh vụn  không có trọng lượng chỉ đáng để chêm vào làm chất đệm mà thôi.</p>
 <p>GS Trần Chung Ngọc có đề cập chuyện "ăn cắp vặt"  đó như sau:</p>
 <p>&lt;quote&gt;.... DVD “Sự Thật Về Hồ Chí Minh” vô giá trị vì  dựa trên những thông tin sai lầm, khoan kể những phát biểu một chiều của vài  nhân vật Việt Nam được phỏng vấn, như ngay cả khi phỏng vấn những tác giả nổi  tiếng như William J. Duiker, Sophie-Quinn Judge , những tác giả đã nghiên cứu về  Hồ Chí Minh, những người làm DVD trên cũng chỉ đưa ra vài chi tiết lặt vặt về đời  tư của ông Hồ, mà bỏ qua những nét quan trọng và to lớn hơn nhiều về nhân vật Hồ  Chí Minh của chính hai tác giả trên. Những người làm DVD trên cũng không nhắc đến  những cuộc phỏng vấn của đài RFI và BBC, phỏng vấn chính Giáo-sư Sophie-Quinn  Judge và Pierre Brocheux, giáo sư đại học Pháp. Như vậy sản phẩm DVD trên chỉ  là kết quả của một công trình đầu voi “Sự thật về Hồ Chí Minh” với đuôi chuột  “chống Cộng”, thiếu lương thiện trí thức, một chiều, với một ý đồ là toan tính  phá bỏ những điều mà họ cho là những “huyền thoại về Hồ Chí Minh”... &lt;/quote&gt;</p>
-<p>[trích <a href="https://www.sachhiem.net/TCN/TCNls/TCNls10.php">https://www.sachhiem.net/TCN/TCNls/TCNls10.php</a>]</p>
+<p>[trích <a href="/TCN/TCNls/TCNls10">https://www.sachhiem.net/TCN/TCNls/TCNls10.php</a>]</p>
 
 <p><b>Nguyễn Hà Linh</b></p>
 <p>Hết Tên cuội Trần Đăng Khoa đến Nguyễn Quang Thiều.</p>

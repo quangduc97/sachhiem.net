@@ -3,7 +3,7 @@ layout: ../../../layouts/Article.astro
 title: "Phát Động Và Triển Khai: Ý THỨC VĂN THÂN THẾ KỶ 21"
 author: "Nhóm YTVT-TK21"
 date: 2015-01-31
-source: "https://sachhiem.net/VANHOC/N/NhomYTVT21.php"
+source: "/VANHOC/N/NhomYTVT21"
 category: "Chính trị"
 lang: vi
 wordCount: 2894
@@ -31,7 +31,7 @@ image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/SACH/Books_We
 </div>
 <p>Các đội  quân xâm lược luôn thực hiện kế sách này cặn kẽ trước khi tấn công chiếm  trọn một đất nước thiếu phòng bị mà lại ngây thơ hiếu khách. Bằng cách  nào? Dùng đội quân do thám, tình báo, nằm vùng để nắm rõ quân tình  địch. Các đế quốc và thực dân tây phương, nhất là từ thời Đế Quốc  La Mã đã tìm ra được một công cụ <b>tình báo vô cùng tinh xảo</b> che mắt  được thiên hạ mà trước đó trong lịch sử nhân loại chưa hề được vận  dụng. Đó là Ki-tô giáo với đầu não đóng tại Vatican, Roma. </p>
 <p align="center"><img src="https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/TONGIAO/IMG/Toakham/Bishop_on_a_pastoraltour.jpg" width="400" height="245"></p>
-<p align="center"><i>Các nhà truyền giáo bắt dân ta khiêng</i>. (Mời xem chuyện <a href="https://sachhiem.net/NMQ/ChanDungVNCH/QMN13.php">Ông lý trưởng chống cự khi bị bắt khiêng cáng cho “cố”, liền&nbsp; bị "cố" gán cho là "Cộng Sản"</a>)</p>
+<p align="center"><i>Các nhà truyền giáo bắt dân ta khiêng</i>. (Mời xem chuyện <a href="/NMQ/ChanDungVNCH/QMN13">Ông lý trưởng chống cự khi bị bắt khiêng cáng cho “cố”, liền&nbsp; bị "cố" gán cho là "Cộng Sản"</a>)</p>
 <p>Chúng đã  dùng các đội quân tình báo dưới dạng nhà truyền giáo ngắn hạn và  dài hạn để xây dựng cơ sở vững chắc qua các nhóm con chiên bản địa  cuồng tín tiếp tay, và đạt được trăm trận trăm thắng một cách dễ  dàng. Về sau lần lượt có các đế quốc Tây Ban Nha, Bồ Đào Nha, Hòa Lan, Pháp rồi  Anh thay nhau làm minh chủ và vẫn tiếp tục dùng Vatican như cũ và nay thêm có  nhóm Tin Lành để cùng nhau chia chác.</p>
 <p>
     Trong việc  bành trướng đế quốc ra khỏi châu Âu mượn đạo cướp đời; bước chân của chúng đã bị  chặn lại ở phía đông bởi Chính thống giáo, phía Trung Đông bởi Hồi Giáo, và Bắc  Mỹ bởi Phản thệ giáo; tòan là những tông phái độc thần từ Do-thái Ki-tô mà ra,  nhưng lại hiểu rõ tâm địa của những kẻ làm ăn với Vatican nên chống đối  quyết liệt</p>
@@ -59,7 +59,7 @@ image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/SACH/Books_We
 <p align="center">"<i>...nhà thờ chính là những nơi gián điệp cần bắt mối, liên lạc</i> (<a href="https://thepden.wordpress.com/2013/01/12/18-linh-muc-a-nha-tho-x/">Thép Đen, Đặng Chí Bình</a>)." Ảnh minh họa</p>
 <p>Đến thế  kỷ 19, bọn thực dân tây phương và đạo phiệt Vatican tiến hành cao trào  xâm lược <i>‘xoay trục sang Á châu lần thứ nhất</i>’. Lúc này bọn thực dân Bồ và  Tây Ban Nha suy yếu nên bị quân Pháp thay thế và vẫn theo đúng bài bản đã  vạch, bước đầu dùng trò đòi ‘tự do tín ngưỡng, tự do truyền đạo  (Ki-tô)’ để len lỏi do thám tình hình của đất nước ta. Khi nắm rõ nội  tình, chúng tạo ra ‘kịch bản giáo dân bị đàn áp tàn sát’ để lấy  cớ xâm chiếm toàn bộ đất nước.</p>
 <p>
-    Chúng đã  thành công từng bước đô hộ nước ta phần lớn nhờ vào sự tiếp tay của  một đội quân tín đồ bản địa vốn đã bị tẩy não trở thành bọn phản  quốc. Nực cười thay những tên giáo gian bị triều đình xét xử trong  thời kỳ này, về sau lại được Vatican phong làm <i>‘thánh tử đạo’</i>. (xem <a href="https://sachhiem.net/TONGIAO/TTTINH/TTT_43.php">https://sachhiem.net/TONGIAO/TTTINH/TTT_43.php</a>)</p>
+    Chúng đã  thành công từng bước đô hộ nước ta phần lớn nhờ vào sự tiếp tay của  một đội quân tín đồ bản địa vốn đã bị tẩy não trở thành bọn phản  quốc. Nực cười thay những tên giáo gian bị triều đình xét xử trong  thời kỳ này, về sau lại được Vatican phong làm <i>‘thánh tử đạo’</i>. (xem <a href="/TONGIAO/TTTINH/TTT_43">https://sachhiem.net/TONGIAO/TTTINH/TTT_43.php</a>)</p>
 <p>
     Bọn giáo  gian tuân lời xúi giục của các cố đạo, dựa hơi súng ống của Tây nên  thường xuyên tấn công các làng lương và chém giết bừa bãi người vô  tội đã làm dân chúng luôn căm phẫn nhưng đành bất lực. Năm Nhâm Tuất 1862  thực dân Pháp dùng vũ lực ép triều đình nhà Nguyễn nhượng 3 tỉnh miền  Đông của Nam phần cho chúng. </p>
 <p>

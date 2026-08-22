@@ -3,7 +3,7 @@ layout: ../../../layouts/Article.astro
 title: "Làm Gì Để Công Giáo Đồng Hành Cùng Dân Tộc?"
 author: "GS.TS Đỗ Quang Hưng"
 date: 2014-10-23
-source: "https://sachhiem.net/THOISU_CT/ChuM/MoLang.php"
+source: "/THOISU_CT/ChuM/MoLang"
 category: "Chính trị"
 lang: vi
 wordCount: 7868

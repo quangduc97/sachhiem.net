@@ -2,7 +2,7 @@
 layout: ../../layouts/Article.astro
 title: "CHƯƠNG BỐN:"
 author: "Cao Huy Thuần"
-source: "https://sachhiem.net/Trích \"Đạo Thiên Chúa và Chủ Nghĩa Thực Dân tại Việt Nam\" nxb. Hương Quê 1988 Phần II: \"CHÍNH SÁCH THỰC DÂN và CHÍNH SÁCH CỦA CÁC VỊ TRUYỀN GIÁO TẠI BẮC KỲ- (MT đánh máy gửi SH)."
+source: "/Trích \"Đạo Thiên Chúa và Chủ Nghĩa Thực Dân tại Việt Nam\" nxb. Hương Quê 1988 Phần II: \"CHÍNH SÁCH THỰC DÂN và CHÍNH SÁCH CỦA CÁC VỊ TRUYỀN GIÁO TẠI BẮC KỲ- (MT đánh máy gửi SH)."
 category: "Tác giả"
 lang: vi
 wordCount: 11421

@@ -3,7 +3,7 @@ layout: ../../../layouts/Article.astro
 title: "Quấy Rối Nhà Thờ:"
 author: "Trần Chung Ngọc"
 date: 2011-11-23
-source: "https://sachhiem.net/index.php?content=showrecipe&id=5054"
+source: "/TCN/TCNts/TCNts052"
 category: "Chính trị"
 lang: vi
 wordCount: 4354

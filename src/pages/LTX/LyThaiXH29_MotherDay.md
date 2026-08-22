@@ -3,7 +3,7 @@ layout: ../../layouts/Article.astro
 title: "Thư Gửi Con"
 author: "Lý Thái Xuân"
 date: 2017-05-10
-source: "https://sachhiem.net/LTX/LyThaiXH29_MotherDay.php"
+source: "/LTX/LyThaiXH29_MotherDay"
 category: "Xã hội"
 lang: vi
 wordCount: 84

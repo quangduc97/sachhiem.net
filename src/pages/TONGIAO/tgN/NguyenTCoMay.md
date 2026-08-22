@@ -3,16 +3,16 @@ layout: ../../../layouts/Article.astro
 title: "Vatican : Những Biến Động Và Lời Tiên Tri"
 author: "Nguyễn thị Cỏ May"
 date: 2012-07-31
-source: "https://sachhiem.net/TONGIAO/tgN/NguyenTCoMay.php"
+source: "/TONGIAO/tgN/NguyenTCoMay"
 category: "Chính trị"
 lang: vi
 wordCount: 2985
-image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nha.jpg"
+image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/TONGIAO/IMG/LINHMUC/StMalachieDArmagh_NgTComay.jpg"
 ---
 
 <table border="0" cellpadding="0" width="250" align="center">
             <tbody><tr>
-              <td width="125"><a href="/index"><img border="0" src="https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nha.jpg"></a></td>
+              <td width="125"></td>
               <td valign="middle">31-Jul-2012</td>
             </tr>
           </tbody></table>

@@ -3,7 +3,7 @@ layout: ../../../layouts/Article.astro
 title: "[VATICANOLOGY] - Tại Sao Chính Quyền Vatican Thèm Khát Quan Hệ Ngoại Giao Và Đưa Giáo Hoàng Đến Việt Nam. - Bài 4"
 author: "Minh Thạnh"
 date: 2022-05-29
-source: "https://sachhiem.net/TONGIAO/tgM/MinhThanh33b.php"
+source: "/TONGIAO/tgM/MinhThanh33b"
 category: "Chính trị"
 lang: vi
 wordCount: 3437

@@ -2,9 +2,9 @@
 layout: ../../../layouts/Article.astro
 title: "Việt Nam Với Cuộc Dấy Loạn Hòa Bình Của JP2 - Tập 1"
 author: "Chu Văn Trình"
-source: "https://sachhiem.net/tháng 11, 2023"
+source: "/tháng 11, 2023"
 lang: vi
-wordCount: 119
+wordCount: 116
 image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/SACH/GiaoTrieuLM.JPG"
 ---
 
@@ -31,5 +31,3 @@ image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/SACH/GiaoTrie
      </div>   
      <div align="center">
   <img src="https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/SACH/GiaoTrieuLM.JPG" width="161" height="121" alt=""></div>
- 
-<p align="center"><a target="_blank" href="/index"><img src="https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nha.jpg" border="0"> Trở ra  sachhiem.net</a></p>

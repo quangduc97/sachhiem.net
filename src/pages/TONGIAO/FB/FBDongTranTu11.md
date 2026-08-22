@@ -3,7 +3,7 @@ layout: ../../../layouts/Article.astro
 title: "Cặn Bã Của Cổ Nhân"
 author: "Đồng Trần Tử"
 date: 2025-03-16
-source: "https://sachhiem.net/TONGIAO/FB/FBDongTranTu11.php"
+source: "/TONGIAO/FB/FBDongTranTu11"
 category: "Tác giả"
 lang: vi
 wordCount: 2087

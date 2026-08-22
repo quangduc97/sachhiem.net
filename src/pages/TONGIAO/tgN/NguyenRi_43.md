@@ -3,7 +3,7 @@ layout: ../../../layouts/Article.astro
 title: "Giáo Hoàng Francis nói, Chúa Jesus chỉ sống lại dưới dạng \"Hồn Ma Bóng Quế\""
 author: "Ri Nguyễn sưu tầm"
 date: 2021-04-04
-source: "https://sachhiem.net/TONGIAO/tgN/NguyenRi_43.php"
+source: "/TONGIAO/tgN/NguyenRi_43"
 category: "Tác giả"
 lang: vi
 wordCount: 3498
@@ -137,4 +137,4 @@ God’s love is what defeats the power of death and brings eternal  life “and 
     
 <p>_____________________</p>
  <p>Các bài của Nguyễn Ri: link</p>
- <p> <a href="https://sachhiem.net/TONGIAO/tgN/ListRiNguyen.inc.php" target="_blank">https://sachhiem.net/TONGIAO/tgN/ListRiNguyen.inc.php</a></p>
+ <p> <a href="/TONGIAO/tgN/ListRiNguyen.inc" target="_blank">https://sachhiem.net/TONGIAO/tgN/ListRiNguyen.inc.php</a></p>

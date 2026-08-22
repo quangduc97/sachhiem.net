@@ -28,7 +28,7 @@ image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nhacu.jpg"
 <table border="2" cellpadding="10" cellspacing="0" width="100%" topmargin="10"> 
 	<tbody><tr><td bgcolor="White" align="justify" valign="top">
 <table border="0" cellpadding="10" width="100%" cols="2"><tbody><tr>
-	<td valign="top"><a href="https://sachhiem.net/"><img border="0" src="https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nhacu.jpg" width="49" height="20"></a></td>
+	<td valign="top"><a href="/"><img border="0" src="https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nhacu.jpg" width="49" height="20"></a></td>
 	<td valign="top" style="text-align:right">	<i><font color="#606060" size="2">05 tháng 11, cập nhật bổ túc ngày 18 tháng 11, 2008
 	</font></i>
 	</td></tr></tbody></table>
@@ -641,7 +641,7 @@ image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nhacu.jpg"
 <p>Đọc bài khác về Cô Tim: 
 
 
-&nbsp;<a href="https://sachhiem.net/XAHOI/TIMAline.php">https://sachhiem.net/XAHOI/TIMAlineV.php</a></p>
+&nbsp;<a href="/XAHOI/TIMAline">https://sachhiem.net/XAHOI/TIMAlineV.php</a></p>
 </div></td></tr>
 </tbody></table>
 </td> </tr>

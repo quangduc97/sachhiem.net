@@ -3,7 +3,7 @@ layout: ../../layouts/Article.astro
 title: "“Đừng Gọi Tên Khỉ Nữa Mà Cảm Thấy Nhục Nhã”"
 author: "Cao Huy Thuần"
 date: 2013-02-26
-source: "https://sachhiem.net/CAOHT/CHT2a.php"
+source: "/CAOHT/CHT2a"
 category: "Tác giả"
 lang: vi
 wordCount: 2409

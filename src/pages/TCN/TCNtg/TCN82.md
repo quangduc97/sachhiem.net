@@ -2,10 +2,9 @@
 layout: ../../../layouts/Article.astro
 title: "[CONCEPT OF GOD IN BUDDHISM]"
 author: "Trần Chung Ngọc dịch từ"
-source: "https://sachhiem.net/TCN/TCNtg/TCN82.php"
+source: "/TCN/TCNtg/TCN82"
 lang: en
 wordCount: 2370
-image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nha.jpg"
 ---
 
 <p class="Tuaduoi">QUAN ĐIỂM VỀ “GÓT” [God] TRONG PHẬT GIÁO</p>
@@ -15,7 +14,7 @@ image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nha.jpg"
 		
 		
 
-<p align="center"> <a href="/index"><img border="0" src="https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nha.jpg" align="middle" hspace="20"></a> 15 tháng 9,  2009</p>
+<p align="center">  15 tháng 9,  2009</p>
 	<p>
 		 <span class="First">T</span>hường thường, 
 		chúng ta dùng từ “Gót” để chỉ một quyền năng siêu nhiên, là đấng sáng 

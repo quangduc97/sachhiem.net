@@ -3,7 +3,7 @@ layout: ../../../layouts/Article.astro
 title: "Ngô Đình Diệm Là Tên Bù Nhìn! Tên Bù Nhìn Là Ngô Đình Diệm!"
 author: "Chế Trung Hiếu"
 date: 2019-08-30
-source: "https://sachhiem.net/LICHSU/C/CheTrungHieu.php"
+source: "/LICHSU/C/CheTrungHieu"
 category: "Chính trị"
 lang: vi
 wordCount: 1314

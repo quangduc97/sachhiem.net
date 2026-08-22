@@ -3,7 +3,7 @@ layout: ../../layouts/Article.astro
 title: "Đọc Sách: \"Nguyễn Trường Tộ & Vấn Đề Canh Tân\""
 author: "GS-NGND Trần Thanh Đạm"
 date: 2012-03-22
-source: "https://sachhiem.net/BUIKHA/BuiKha22_NTT.php"
+source: "/BUIKHA/BuiKha22_NTT"
 category: "Lịch sử"
 lang: vi
 wordCount: 4740

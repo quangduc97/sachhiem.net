@@ -2,15 +2,14 @@
 layout: ../../../layouts/Article.astro
 title: "“GIÁO HỘI CÔNG GIÁO ROMA”"
 author: "Trần Chung Ngọc"
-source: "https://sachhiem.net/TCN/TCNdt/TCNdt024.php"
+source: "/TCN/TCNdt/TCNdt024"
 category: "Đối thoại"
 lang: vi
 wordCount: 14260
-image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.devhttps://sachhiem.net/images/nha.jpg"
 ---
 
 <table border="0" width="250" align="center">
-    <tbody><tr><td width="106"><a href="https://sachhiem.net/index.php"><img border="0" src="https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.devhttps://sachhiem.net/images/nha.jpg"></a>    </td> <td> <p>03 tháng 12,  2008</p> </td></tr></tbody></table> 
+    <tbody><tr><td width="106">    </td> <td> <p>03 tháng 12,  2008</p> </td></tr></tbody></table> 
 <p><i>LTS: Hiếm khi nghe được những người đọc bên đạo Ca-tô viết được một vài trang phê bình các tác giả dám khai quật những sự thật của Giáo Hội Ca-tô Roma như Trần Chung Ngọc,  Nguyễn Mạnh Quang,  Bùi Kha, ... mà không kèm theo những 
 <span lang="en-us">lời gièm pha, phỉ báng và chụp mũ.</span>. Trường hợp bài của ông Nguyễn Học Tập phê bình dưới đây kể ra cũng là một trường hợp hi hữu,  nhưng lại mắc phải cái "lầm lẫn"<span lang="en-us"> 
 là</span>  gọi ông Quang và "nhóm Giao Điểm"<span lang="en-us"> với thâm ý cho 
@@ -137,10 +136,10 @@ bánh thánh do bàn tay của nhọ làm ra vì rất có thể đó là nhữn
 
 <p class="MsoBodyText"> Nếu ông Nguyễn Học Tập đã đọc lịch sử về năm núi tội 
 ác của Giáo hội Công giáo,  [xin đọc:
-<a style="color: blue; text-decoration: underline; text-underline: single" href="https://sachhiem.net/TCN/TCNtg/CGchinhsu/CGCS3.php">
+<a style="color: blue; text-decoration: underline; text-underline: single" href="/TCN/TCNtg/CGchinhsu/CGCS3">
 https://sachhiem.net/TCN/TCNtg/CGchinhsu/CGCS3.php</a> ],  lịch sử một số giáo hoàng 
 nhân danh là “đại diện của Chúa” [xin đọc:
-<a style="color: blue; text-decoration: underline; text-underline: single" href="https://sachhiem.net/TCN/TCNtg/TCN20.php">
+<a style="color: blue; text-decoration: underline; text-underline: single" href="/TCN/TCNtg/TCN20">
 https://sachhiem.net/TCN/TCNtg/TCN20.php</a> ]; chuyện linh mục hiếp dâm các nữ tu 
 Công giáo trên 23 quốc gia,  và hơn 5000 linh mục can tội cưỡng dâm nữ tín đồ và 
 trẻ phụ tế mà báo chí Âu Mỹ đã loan tải rộng rãi,  thì tôi xin hỏi ông Nguyễn Học 
@@ -185,7 +184,7 @@ chuyện khác.</i></p>
 Học Tập nêu ra. Giáo lý của Chúa Ki Tô nằm trong cuốn Thánh Kinh hay là những 
 điều Giáo hội dạy giáo dân về Chúa Ki Tô? Tôi đã viết nguyên một cuốn sách về 
 Chúa Ki Tô: <i>“Chúa Giê-su Là Ai? Giảng Dạy Những Gì”</i> [ Xin đọc:
-<a style="color: blue; text-decoration: underline; text-underline: single" href="https://sachhiem.net/TCN/TCNtg/Giesu/Giesulaai.php">
+<a style="color: blue; text-decoration: underline; text-underline: single" href="/TCN/TCNtg/Giesu/Giesulaai">
 https://sachhiem.net/TCN/TCNtg/Giesu/Giesulaai.php</a> ]. Vì ông Nguyễn Học Tập 
 không cho độc giả biết <i>" giáo lý của Chúa Ki Tô" </i>là như thế nào,  vậy 
 tôi xin cống hiến độc giả một số nghiên cứu về cái gọi là <i>" giáo lý của Chúa 
@@ -1036,7 +1035,7 @@ Giao Điểm chúng tôi [xin lỗi Giao Điểm,  vì tôi đã vơ cả anh em
 <p> Giám Mục John 
 Shelby Spong đã cho rằng vai trò Chúa Cứu Thế của Chúa Giê-su cần phải dẹp bỏ,  
 xin đọc:
-<a style="color: blue; text-decoration: underline; text-underline: single" href="https://sachhiem.net/TCN/TCNtg/TCN37.php">
+<a style="color: blue; text-decoration: underline; text-underline: single" href="/TCN/TCNtg/TCN37">
 https://sachhiem.net/TCN/TCNtg/TCN37.php</a> : </p>
 
 <p> <i>“Không có 
@@ -1046,7 +1045,7 @@ cổ xưa nhất về mọi diễn giải về Giê-su. Đó là cái hình ản
 “đấng thần linh cứu thế”</i> (the divine rescuer).<i>”.</i></p>
 <p><i> </i>Và Linh 
 mục James Kavanaugh cho rằng “ơn cứu rỗi” chỉ là một huyền thoại ,  xin đọc:
-<a style="color: blue; text-decoration: underline; text-underline: single" href="https://sachhiem.net/TCN/TCNtg/TCN36.php">
+<a style="color: blue; text-decoration: underline; text-underline: single" href="/TCN/TCNtg/TCN36">
 https://sachhiem.net/TCN/TCNtg/TCN36.php</a> :</p>
 
 <p> <i>“Nhưng đối 

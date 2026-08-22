@@ -2,7 +2,7 @@
 layout: ../../../layouts/Article.astro
 title: "Báo Nhân Dân tổ chức kỷ niệm 93 năm Ngày thành lập Đảng"
 date: 2023-02-03
-source: "https://sachhiem.net/THOISU_CT/ChuT/TinNhanDan.php"
+source: "/THOISU_CT/ChuT/TinNhanDan"
 category: "Chính trị"
 lang: vi
 wordCount: 59

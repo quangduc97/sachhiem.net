@@ -3,7 +3,7 @@ layout: ../../../layouts/Article.astro
 title: "Huyền Thoại \"Cộng Hoà Chống Cộng, Dân Chủ Thiên Cộng\""
 author: "Định Nguyên"
 date: 2017-03-04
-source: "https://sachhiem.net/THOISU_CT/ChuD/DinhNguyen01.php"
+source: "/THOISU_CT/ChuD/DinhNguyen01"
 category: "Chính trị"
 lang: vi
 wordCount: 2670

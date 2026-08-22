@@ -3,7 +3,7 @@ layout: ../../../layouts/Article.astro
 title: "Câu Chuyện Về Sự Đứt Gãy Văn Hóa"
 author: "Đạo Sĩ Việt Râu"
 date: 2026-05-05
-source: "https://sachhiem.net/LICHSU/FB/FBDaoSiVietRau_02.php"
+source: "/LICHSU/FB/FBDaoSiVietRau_02"
 category: "Chính trị"
 lang: vi
 wordCount: 3909
@@ -73,7 +73,7 @@ image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/LICHSU/IMG/GIAODUC/T
 <p>Đấy, lý do mà BGD chúng kiên trì thực hiện đề án bằng được đấy!</p>
 <p><img src="https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/LICHSU/IMG/GIAODUC/TIENGANH_2ndLANG.jpg" width="261" height="222" alt=""></p>
 <p>Đạo Sĩ Việt Râu</p>
-<p><a href="https://sachhiem.net/LICHSU/FB/FBDaoSiVietRau_01.php">Mình vừa đọc tin, rằng có nhiều trường tiểu học ở HN ...(xem link này)</a></p>
+<p><a href="/LICHSU/FB/FBDaoSiVietRau_01">Mình vừa đọc tin, rằng có nhiều trường tiểu học ở HN ...(xem link này)</a></p>
 <p>Kame Ha  · </p>
 <p>Mình thấy việc liên kết giữa Tiên học lễ hậu học văn và việc dạy song ngữ - Tiếng Anh trong trường học không hợp lí. Đồng ý là không nên bỏ học lễ trong giáo dục nhưng việc chủ trương đưa tiếng Anh thành ngôn ngữ thứ 2 cũng có lí của nó đấy. Vì ngôn ngữ chính là cánh cửa để bước ra thế giới cho nên biết thêm một ngôn ngữ tức là cánh cửa rộng hơn. Mình thấy ở các nước châu Âu thì ngoài 2 ngôn ngữ (tiếng Anh và tiếng mẹ đẻ) họ còn cần thêm ít nhất 1 ngôn ngữ khác. Vậy nên việc định hướng cho trẻ em sử dụng thành thạo ít nhất thêm 1 ngoại ngữ nữa là cần thiết mà. Nói 1 cách khác thì với thế hệ cũ (trước 2k đi) thì biết thêm tiếng Anh được coi là 1 lợi thế nhưng các em/con sau này thì nếu chỉ Tiếng Việt và tiếng Anh thôi là có thể là chưa đủ để cạnh tranh trên thị trường việc làm.</p>
 <p>Cong Hoan Nguyen  ·</p>

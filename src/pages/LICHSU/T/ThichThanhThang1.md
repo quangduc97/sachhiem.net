@@ -3,7 +3,7 @@ layout: ../../../layouts/Article.astro
 title: "Việt Nam Là Một Nước Có Văn Tự"
 author: "Thích Thanh Thắng"
 date: 2020-01-01
-source: "https://sachhiem.net/LICHSU/T/ThichThanhThang1.php"
+source: "/LICHSU/T/ThichThanhThang1"
 category: "Chính trị"
 lang: vi
 wordCount: 2092
@@ -15,7 +15,7 @@ image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/LICHSU/IMG/ALEX/Bia_
  </div>
  <div class="leftborder">
 <p class="indent50">Bài này đã đăng năm 2009 dưới tựa đề:  <i>Thư ngỏ gửi HĐND, UBND TP. Hà Nội và Hội KHLS VN  về việc dựng tượng Alexandre Rhodes</i>. Bài này bổ túc hình ảnh.</p>
-<p> <span class="indent50"><a href="https://www.sachhiem.net/LICHSU/T/ThichThanhThang.php" class="nguonL">https://www.sachhiem.net/LICHSU/T/ThichThanhThang.php</a></span></p>
+<p> <span class="indent50"><a href="/LICHSU/T/ThichThanhThang" class="nguonL">https://www.sachhiem.net/LICHSU/T/ThichThanhThang.php</a></span></p>
 </div>
 <p><span class="First">T</span>uổi Trẻ Online ngày 29.6.2009 đưa tin ông Phạm Văn Hạng (TP Hồ Chí Minh) vừa có “văn thư” gửi đến HĐND, UBND TP Hà Nội cùng Hội Khoa học Lịch sử Việt Nam để nêu ý muốn tặng tượng ông Alexandre de Rhodes cho Thủ đô nhân kỷ niệm 1.000 năm Thăng Long - Hà Nội. Bài báo cũng cho biết thêm, chính quyền Hà Nội cũng đã có thư trả lời ông Phạm Văn Hạng, hẹn sẽ cử đoàn vào Bình Dương xem qua tác phẩm. Sau bản tin ấy, liền có ý kiến nhắc lại tấm bia vinh danh Alexandre de Rhodes từng được đặt tại Hồ Gươm năm 1941 để gợi ý nơi đặt tượng.</p>
 <p align="center"><img src="https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/LICHSU/IMG/ALEX/Bia_Alex_1941s.jpg" width="400" height="250" alt=""></p>

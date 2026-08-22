@@ -3,7 +3,7 @@ layout: ../../layouts/Article.astro
 title: "Lữ Giang: Đứng Ở Đâu Trên Lập Trường Dân Tộc?"
 author: "Trần Đại Linh"
 date: 2013-07-31
-source: "https://sachhiem.net/DOITHOAI/TranDaiLinh01.php"
+source: "/DOITHOAI/TranDaiLinh01"
 category: "Tác giả"
 lang: vi
 wordCount: 4563
@@ -14,7 +14,7 @@ image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/HOANHLINH/images/sqd
     <b>Sent:</b>&nbsp;Monday, April 28, 2014 5:56 PM<br>
     <b>To:</b>&nbsp;baovechanhphap@googlegroups.com; diendandantoc@yahoogroups.com;  thuhuong aust<br>
     <b>Subject:</b>&nbsp;[DiendanDanToc] Lữ Giang: Đứng Ở Đâu Trên Lập Trường Dân  Tộc? - Trần Đại Linh</i></p>
-<p> <span class="First">K</span>hông thể làm thinh trước bài viết <i><a href="https://sachhiem.net/DOITHOAI/TranDaiLinh.php">“Lữ Giang: Thù Phật Giáo Đến Mù  Lương Tri” </a></i>của Trần Đại Linh, nên ông Lữ Giang đã phải lên tiếng vào ngày 20  tháng 4 năm 2014 trong một bài viết không đầu không đuôi, vừa tiếp tục tung hỏa  mù vào lịch sử, vừa bỏ chạy! Điều đó cho thấy ông Lữ Giang lại không đủ kiến  thức và lý luận để viết một bài phản bác cho đàng hoàng, đành phải nói phủ lấp  để trốn chạy với lý do<i> “Trình độ của Trần Đại Lĩnh [ông Lữ Giang lại cẩu thả  đến tên tác giả bài viết mà cũng viết sai, đúng ra là Trần Đại Linh] quá thấp,  không đáng tranh luận,”</i> và đổ thừa cho người đọc “<i>Nhưng điều đáng tiếc là một  vài người hiểu biết lịch sử Phật Giáo quá ít lại tưởng anh ta nói đúng!</i>” </p>
+<p> <span class="First">K</span>hông thể làm thinh trước bài viết <i><a href="/DOITHOAI/TranDaiLinh">“Lữ Giang: Thù Phật Giáo Đến Mù  Lương Tri” </a></i>của Trần Đại Linh, nên ông Lữ Giang đã phải lên tiếng vào ngày 20  tháng 4 năm 2014 trong một bài viết không đầu không đuôi, vừa tiếp tục tung hỏa  mù vào lịch sử, vừa bỏ chạy! Điều đó cho thấy ông Lữ Giang lại không đủ kiến  thức và lý luận để viết một bài phản bác cho đàng hoàng, đành phải nói phủ lấp  để trốn chạy với lý do<i> “Trình độ của Trần Đại Lĩnh [ông Lữ Giang lại cẩu thả  đến tên tác giả bài viết mà cũng viết sai, đúng ra là Trần Đại Linh] quá thấp,  không đáng tranh luận,”</i> và đổ thừa cho người đọc “<i>Nhưng điều đáng tiếc là một  vài người hiểu biết lịch sử Phật Giáo quá ít lại tưởng anh ta nói đúng!</i>” </p>
 <p>Thực  ra cộng đồng Việt trên các diễn đàn không ai lạ gì bản chất xưa nay của ông Lữ  Giang: chuyên tung hỏa mù vào các sự kiện lịch sử, chụp mũ cá nhân rồi bỏ chạy!</p>
 <p>Ai là “một vài người hiểu biết lịch sử Phật Giáo quá ít”? Nếu chỉ  một vài người thì tại sao không thấy ông Lữ Giang nêu tên ra để độc giả tin  điều ông viết là đúng. Thật ra đó chỉ là cách gian dối rất lộ liễu và sơ đẳng  của ông Lữ Giang mà bất cứ người đọc nào cũng thấy. Và qua đó cho thấy ông Lữ  Giang rất xem thường nhận thức của độc giả. </p>
 <p> Trong bài viết này, tôi sẽ tiếp tục vạch trần việc ông Lữ Giang vì  thù Phật Giáo mà làm mù lương tri để xuyên tạc lịch sử và chụp mũ các tăng sĩ  và Phật Giáo Việt Nam trong bài “Một Cuộc ‘Đồng Hành’ Thảm Bại” mà trong bài  “Lữ Giang: Thù Phật Giáo Đến Mù Lương Tri” tôi chưa nói hết. Trong bài này tôi  cũng sẽ đặt vấn đề ông Lữ Giang đứng ở đâu trên lập trường dân tộc khi ông chụp  mũ, vu khống Phật Giáo đồng hành với dân tộc tức đồng hành với cộng sản.</p>
@@ -70,6 +70,6 @@ image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/HOANHLINH/images/sqd
 <p>Vậy ông Lữ Giang đứng ở đâu trên lập trường dân tộc? Ông Lữ Giang  có một lập trường trung trinh với đại khối dân tộc Việt Nam? <img src="https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/HOANHLINH/images/sqdot.gif" width="10" height="10"></p>
 <p class="TacgiaR"> Trần Đại Linh </p>
 <p><b>Bài khác của Trần Đại Linh:</b></p>
- <p>- <a href="https://sachhiem.net/DOITHOAI/TranDaiLinh.php">Những Trái Hỏa Mù Của Chu Tất Tiến Trong Bài Viết Đánh Phá Huỳnh Tấn Lê</a> </p>
- <p>- <a href="https://sachhiem.net/DOITHOAI/TranDaiLinh01.php">Lữ Giang: Đứng Ở Đâu Trên Lập Trường Dân Tộc?</a></p>
- <p>- <a href="https://sachhiem.net/LICHSU/D/Duyensinh05.php">Chiêu Thức Mới Của Những Kẻ "Đồng Hành Cùng Quân Giặc" </a></p>
+ <p>- <a href="/DOITHOAI/TranDaiLinh">Những Trái Hỏa Mù Của Chu Tất Tiến Trong Bài Viết Đánh Phá Huỳnh Tấn Lê</a> </p>
+ <p>- <a href="/DOITHOAI/TranDaiLinh01">Lữ Giang: Đứng Ở Đâu Trên Lập Trường Dân Tộc?</a></p>
+ <p>- <a href="/LICHSU/D/Duyensinh05">Chiêu Thức Mới Của Những Kẻ "Đồng Hành Cùng Quân Giặc" </a></p>

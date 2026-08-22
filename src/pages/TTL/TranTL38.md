@@ -3,7 +3,7 @@ layout: ../../layouts/Article.astro
 title: "Ki-tô Giáo hay Thiên Chúa Giáo?"
 author: "Trần Tiên Long"
 date: 2013-02-11
-source: "https://sachhiem.net/TTL/TranTL38.php"
+source: "/TTL/TranTL38"
 category: "Tác giả"
 lang: vi
 wordCount: 2163
@@ -28,7 +28,7 @@ image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/TTL/IMG/TranTL38_doc
 <p>Sự lẫn lộn về danh   xưng các tôn giáo này xuất phát từ một não trạng tư duy của người <i>Công   giáo</i> có khuynh hướng muốn gom tất cả các thần của các tôn giáo khác vào một   thần mà họ gọi là Thiên Chúa, bao gồm Giê-su, Allah, Yahweh, Chúa Trời… Nhưng   cái kẹt là mỗi thần có mỗi tính nết và thuộc tính thường hay mâu thuẫn lẫn nhau. <b>Thiên Chúa có nhân tính (personal God) của <i>Ki-tô giáo</i> không thể tương   hợp với Thiên Chúa Allah của <i>Hồi Giáo</i>, Thiên Chúa Yahweh của <i>Do Thái   giáo</i>, và càng không thể tương hợp với ông trời của Việt   Nam.</b></p>
 <p>Để tránh những rắc   rối vừa nêu trên, xin đề nghị chúng ta chỉ nên dùng danh từ <i>Ki-tô giáo</i> hay <i>Thiên Chúa giáo</i> cho những tôn giáo tôn thờ Đức Giê-su mà thôi. Không   nên dùng danh từ <i>Thiên Chúa giáo</i> để bao gồm cả <i>Hồi giáo</i> và <i>Do   Thái giáo</i> vì đã có từ <i>Độc Thần giáo</i> rồi. Như vậy, nên hiểu <i>Ki-tô   giáo</i> cũng chính là <i>Thiên Chúa giáo</i>, và chỉ bao gồm các tôn giáo tôn   thờ Đức Giê-su. Hoặc chúng ta đừng dùng danh từ <i>Thiên Chúa giáo</i> nữa vì đã   có danh từ <i>Ki-tô giáo</i> rồi. Phạm trù của hai danh từ này thì hoàn toàn   giống nhau, không có gì khác biệt, vì cả hai đều là từ dịch của cùng một nguyên   ngữ ngoại quốc <i>Christianity</i>.</p>
 <p>Có một sự kiện không   thể phủ bác rằng có nhiều từ của nền văn hóa Âu Mỹ khi dịch sang tiếng Việt   không thể chuyển tải được đầy đủ ý nghĩa, bởi vì dịch chính là phá hủy (traduire   c’est trahir). Đó là lý do đôi khi người ta không cần phải dịch nghĩa nhưng chỉ   phiên âm cho tiện việc ở cái thời mà truyền thông có thể đi tới tận ngõ ngách   bằng vận tốc ánh sáng. Ngay danh từ <i>Công Giáo</i> cũng phát xuất từ một não   trạng muốn thống trị thiên hạ. Ngày nay, có nhiều học giả đã điều chỉnh lại, chỉ   đơn giản gọi <i>Công giáo</i> là <i>Ca-tô Rô-ma giáo</i> do phiên âm từ tiếng   La-tinh của từ <i>Catholica Romana</i>. Họ cũng không muốn tiếp tục dịch từ<i> God</i> là <i>Thiên Chúa</i> nữa, nhưng gọi là <i>Gót </i>cho hàm đủ ý nghĩa của   một từ có nguồn gốc từ một nền văn hóa khác biệt. Cách gọi này là do phiên âm   thay vì phiên dịch, cũng giống như chúng ta phiên âm gọi Maria là đức Ma-ri-a   vậy. </p>
-<p>Đã có nhiều bài viết   của các tác giả bàn về danh xưng <i>Công Giáo</i> này nên tưởng chẳng cần phải   tốn thêm thì giờ để bàn lại. Tôi thường đọc ở trang nhà <u><a href="https://sachhiem.net/" target="_blank">https://sachhiem.net/</a></u> nên nhận   thấy rất dễ tra cứu những bài của Gs. Trần Chung Ngọc, vậy xin chép một vài cái   links sau đây cho những ai muốn tìm hiểu thêm.</p>
+<p>Đã có nhiều bài viết   của các tác giả bàn về danh xưng <i>Công Giáo</i> này nên tưởng chẳng cần phải   tốn thêm thì giờ để bàn lại. Tôi thường đọc ở trang nhà <u><a href="/" target="_blank">https://sachhiem.net/</a></u> nên nhận   thấy rất dễ tra cứu những bài của Gs. Trần Chung Ngọc, vậy xin chép một vài cái   links sau đây cho những ai muốn tìm hiểu thêm.</p>
 <p>Trân   trọng,</p>
 <p class="TacgiaL">Trần Tiên   Long</p>
 <p>Ngày   10-2-2013</p>
@@ -36,15 +36,15 @@ image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/TTL/IMG/TranTL38_doc
 <p><b>1. Lại Vẫn Là "Công   Giáo" </b></p>
 <p><b>Tôi Đọc: Nguồn Gốc Và Ý Nghĩa   Của Chữ ''Công Giáo''  Của Đa Minh Phan Văn Phước</b></p>
 <p>Trần Chung   Ngọc</p>
-<p><a href="https://sachhiem.net/TCN/TCNtg/TCN133.php" target="_blank">https://sachhiem.net/TCN/TCNtg/TCN133.php</a></p>
+<p><a href="/TCN/TCNtg/TCN133" target="_blank">https://sachhiem.net/TCN/TCNtg/TCN133.php</a></p>
 <p><b>2. Đạo Thiên Chúa;   Ki-Tô; Công Giáo; Tin Lành </b></p>
 <p><b>Đạo Nào Đúng ? </b></p>
 <p>Trần Chung   Ngọc</p>
-<p><a href="https://sachhiem.net/TCN/TCNtg/TCN132.php" target="_blank">https://sachhiem.net/TCN/TCNtg/TCN132.php</a></p>
+<p><a href="/TCN/TCNtg/TCN132" target="_blank">https://sachhiem.net/TCN/TCNtg/TCN132.php</a></p>
 <p><b>3. Phiếm Luận Về Danh   Xưng "Công Giáo"</b></p>
 <p><b>[Lại Chuyện Bất Đắc   Dĩ]</b></p>
 <p>Trần Chung   Ngọc</p>
-<p><a href="https://sachhiem.net/TCN/TCNtg/TCN131.php" target="_blank">https://sachhiem.net/TCN/TCNtg/TCN131.php</a></p>
+<p><a href="/TCN/TCNtg/TCN131" target="_blank">https://sachhiem.net/TCN/TCNtg/TCN131.php</a></p>
 <p>-------------------------------</p>
   <p><i><b>From: </b> Thaovy Hoang  <br>
    <b>Sent:</b> Tuesday, February 05, 2013   11:19 PM <b><br>
@@ -71,7 +71,7 @@ image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/TTL/IMG/TranTL38_doc
    <p align="center"><b>Tại   Sao Người Ca-Tô Lại Sợ Giao Điểm ?</b></p>
                      <p align="center"><b>Vì   Họ Sợ Sự Thật</b></p>
                      <p align="center">GS   Trần Chung Ngọc, USA</p>
-                     <p align="center"><a href="https://sachhiem.net/TCN/TCNdt/TCNdt066.php" target="_blank">https://sachhiem.net/TCN/TCNdt/TCNdt066.php</a></p>
+                     <p align="center"><a href="/TCN/TCNdt/TCNdt066" target="_blank">https://sachhiem.net/TCN/TCNdt/TCNdt066.php</a></p>
 
 <hr>
 

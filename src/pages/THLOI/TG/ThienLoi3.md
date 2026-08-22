@@ -2,15 +2,15 @@
 layout: ../../../layouts/Article.astro
 title: "Phải Cám Ơn Tổng Kiệt Thôi!"
 author: "Thiên Lôi"
-source: "https://sachhiem.net/THLOI/TG/ThienLoi3.php"
+source: "/THLOI/TG/ThienLoi3"
 category: "Tác giả"
 lang: vi
 wordCount: 8136
-image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nha.jpg"
+image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/TONGIAO/IMG/Toakham/GMKiet.jpg"
 ---
 
 <table border="0" cellpadding="0" width="250" align="center"><tbody><tr>
-	<td width="125"><a href="/index"><img border="0" src="https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nha.jpg"></a></td>
+	<td width="125"></td>
 	<td valign="top">	20 tháng 1, 2008
 	</td></tr></tbody></table>
  

@@ -3,7 +3,7 @@ layout: ../../layouts/Article.astro
 title: "Việt Nam Hồi Sinh"
 author: "Cầu Móng NTTTLA"
 date: 2017-08-11
-source: "https://sachhiem.net/VANHOC/CauMong.php"
+source: "/VANHOC/CauMong"
 category: "Văn hóa"
 lang: vi
 wordCount: 24

@@ -3,7 +3,7 @@ layout: ../../layouts/Article.astro
 title: "Tôi Đọc Duyên Lãng Hà Tiến Nhất-"
 author: "Trần Tiên Long"
 date: 2014-02-14
-source: "https://sachhiem.net/TTL/TranTL47_DLHTN.php"
+source: "/TTL/TranTL47_DLHTN"
 category: "Lịch sử"
 lang: vi
 wordCount: 12032
@@ -177,12 +177,12 @@ Bertrand Russell (trái) và Stephen Hawking</p>
 <p>
     <u> [3]</u>  Nguồn: <a href="https://en.wikipedia.org/wiki/Christian_Denominations" target="_blank">https://en.wikipedia.org/wiki/Christian_Denominations</a></p>
 <p>
-    <u>[4]</u>  Nguồn: <a href="https://sachhiem.net/index.php?content=showrecipe&amp;id=5036" target="_blank">https://sachhiem.net/index.php?content=showrecipe&amp;id=5036</a></p>
+    <u>[4]</u>  Nguồn: <a href="/TTL/TTLkh01" target="_blank">https://sachhiem.net/index.php?content=showrecipe&amp;id=5036</a></p>
 <p>
     <u>[5]</u>  The unequivocal consensus in the scientific community is that intelligent design is not science and has no place    in a science curriculum.<a href="https://en.wikipedia.org/wiki/Intelligent_design#cite_note-112" target="_blank">[92]</a> The U.S. National Academy of Sciences has stated that "creationism,    intelligent design, and other claims of supernatural intervention in the    origin of life or of species are not science because they are not testable by    the methods    of science."<a href="https://en.wikipedia.org/wiki/Intelligent_design#cite_note-NAS_1999-113" target="_blank">[93]</a> The U.S.National Science Teachers Association and the American Association for the    Advancement of Science have termed it pseudoscience.<a href="https://en.wikipedia.org/wiki/Intelligent_design#cite_note-114" target="_blank">[94]</a> Others in the scientific community have    denounced its tactics, accusing the ID movement of manufacturing false    attacks against evolution, of engaging in misinformation and    misrepresentation about science, and marginalizing those who teach it.<a href="https://en.wikipedia.org/wiki/Intelligent_design#cite_note-JCI_defending_science-115" target="_blank">[95]</a> More recently, in September 2012, Bill    Nye ("The    Science Guy") warned that    creationist views threaten science education and innovations in the United    States.<a href="https://en.wikipedia.org/wiki/Intelligent_design#cite_note-APNews-20120924-116" target="_blank">[96]</a><a href="https://en.wikipedia.org/wiki/Intelligent_design#cite_note-Youtube-20120823-117" target="_blank">[97]</a>Nguồn: <a href="https://en.wikipedia.org/wiki/Intelligent_design" target="_blank">https://en.wikipedia.org/wiki/Intelligent_design</a></p>
 <p><u>[6]</u>  Nguồn:<a href="https://en.wikipedia.org/wiki/Evolution_and_the_Roman_Catholic_Church#cite_note-communion-4" target="_blank">https://en.wikipedia.org/wiki/Evolution_and_the_Roman_Catholic_Church#cite_note-communion-4</a></p>
 <p>
-    <u>[7]</u>  Lại Phải Trả Lời Ông Chu Tất Tiến. Nguồn: <a href="https://sachhiem.net/index.php?content=showrecipe&amp;id=309" target="_blank">https://sachhiem.net/index.php?content=showrecipe&amp;id=309</a></p>
+    <u>[7]</u>  Lại Phải Trả Lời Ông Chu Tất Tiến. Nguồn: <a href="/TTL/TranTL26" target="_blank">https://sachhiem.net/index.php?content=showrecipe&amp;id=309</a></p>
 ___________________________
 <p class="MUC"><b>Phụ Trang:</b></p>
 <div class="Fade">
@@ -213,7 +213,7 @@ ___________________________
    <p><b>Attachment: </b></p>
    
 
-   <p align="center"><a href="https://sachhiem.net/TCN/TCNtg/TCN138.php">https://sachhiem.net/TCN/TCNtg/TCN138.php</a></p>
+   <p align="center"><a href="/TCN/TCNtg/TCN138">https://sachhiem.net/TCN/TCNtg/TCN138.php</a></p>
 <p>__._,_.___ </p>
   
 

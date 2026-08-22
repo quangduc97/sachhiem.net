@@ -3,7 +3,7 @@ layout: ../../layouts/Article.astro
 title: "Đề tài thứ 21:"
 author: "Công Luận"
 date: 2019-03-15
-source: "https://sachhiem.net/DOITHOAI/Diendan02_Youtube.php"
+source: "/DOITHOAI/Diendan02_Youtube"
 category: "Đối thoại"
 lang: vi
 wordCount: 624

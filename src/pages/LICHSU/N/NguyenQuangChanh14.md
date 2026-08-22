@@ -3,7 +3,7 @@ layout: ../../../layouts/Article.astro
 title: "Ông Ngoại Tôi - Viết Nhân Ngày 27/7"
 author: "Nguyễn Quang Chánh"
 date: 2025-07-17
-source: "https://sachhiem.net/LICHSU/N/NguyenQuangChanh14.php"
+source: "/LICHSU/N/NguyenQuangChanh14"
 category: "Lịch sử"
 lang: vi
 wordCount: 1407
@@ -40,7 +40,7 @@ image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/LICHSU/IMG/ANHUNG/On
   <p class="nguonL">Nguồn <a href="https://www.facebook.com/chanh.nguyen.31924/posts/pfbid02JEyjHSWxVFxJfAzPzjE1B3JHWNWR1R8hTFPARyvCqT6XsQjjoCi53zbC5xcZDcrjl">FB Chanh Nguyen ngày 17 tháng 7, 2025</a></p>
   <p>_________________</p>
 <p><b>Bài đọc thêm: </b></p>
-<p>- <a href="https://sachhiem.net/LICHSU/N/NguyenQuangChanh02.php">Người Đàn Bà Hóa Đá Vọng Phu</a> (Nguyễn Quang Chánh) </p>
+<p>- <a href="/LICHSU/N/NguyenQuangChanh02">Người Đàn Bà Hóa Đá Vọng Phu</a> (Nguyễn Quang Chánh) </p>
 
 <p>________ Comments _________</p>
 <p><b>Lý Thái Xuân </b>-&gt; Chanh Nguyen</p>

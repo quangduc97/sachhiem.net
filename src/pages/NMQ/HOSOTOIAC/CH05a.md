@@ -3,7 +3,7 @@ layout: ../../../layouts/Article.astro
 title: "GIÁO HỘI LA MÃ:"
 author: "- Nguyễn Mạnh Quang -"
 date: 2012-03-20
-source: "https://sachhiem.net/NMQ/HOSOTOIAC/CH05a.php"
+source: "/NMQ/HOSOTOIAC/CH05a"
 lang: vi
 wordCount: 8449
 image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/KHOAHOC/IMG/ASTRO/CaseGALILEO.jpg"
@@ -51,7 +51,7 @@ image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/KHOAHOC/IMG/ASTRO/Ca
             ngữ, hoa ngôn để phô trương cái vẻ bề ngoài của một đạo giáo nào
             cả. Trong 14 điều dạy của Phật, chỉ toàn dạy thực tế cho phúc lợi
             của người đời, không có câu nào ca ngợi cá nhân ông Phật cả. (xem
-            "Hai Bài Dạy Của Hai Miền Văn Hóa" của Lý Thái Xuân ở <a href="https://sachhiem.net/LTX/LythaiTG01.php">https://sachhiem.net/LTX/LythaiTG01.php</a>)</p>
+            "Hai Bài Dạy Của Hai Miền Văn Hóa" của Lý Thái Xuân ở <a href="/LTX/LythaiTG01">https://sachhiem.net/LTX/LythaiTG01.php</a>)</p>
           <p class="sub"><b>2.- Không có bộ máy tuyên truyền để đảm
                     trách công việc truyền bá tư tưởng, </b>và cũng không cần
                     phải huy động toàn thể đạo hữu tích cực tham gia vào công

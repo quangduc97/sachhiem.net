@@ -3,7 +3,7 @@ layout: ../../../layouts/Article.astro
 title: "Tìm Hiểu Đạo Tôi:"
 author: "Cao Hữu Tâm"
 date: 2015-01-30
-source: "https://sachhiem.net/TONGIAO/tgC/Caohtam22.php"
+source: "/TONGIAO/tgC/Caohtam22"
 category: "Tác giả"
 lang: vi
 wordCount: 1594
@@ -34,7 +34,7 @@ image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/TONGIAO/IMG/BIBLE/Sp
 <p>  caohuutam1939@gmail.com</p>
 <p> ______________________</p>
 <p><b>Bài liên hệ:</b></p>
-<p>- ▪ <a href="https://sachhiem.net/index.php?content=showrecipe&amp;id=5856">Tìm Hiểu Đạo Tôi: Tôi Thoải Mái Từ Bỏ Đạo Công Giáo</a> - Cao Hữu Tâm</p>
+<p>- ▪ <a href="/TONGIAO/tgC/Caohtam00">Tìm Hiểu Đạo Tôi: Tôi Thoải Mái Từ Bỏ Đạo Công Giáo</a> - Cao Hữu Tâm</p>
 
 ______________________
 <p><b>Phản hồi của độc giả:</b>

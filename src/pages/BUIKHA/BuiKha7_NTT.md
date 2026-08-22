@@ -2,7 +2,7 @@
 layout: ../../layouts/Article.astro
 title: "NGUYỄN TRƯỜNG TỘ VÀ VẤN ĐỀ CHỦ HOÀ"
 author: "Bùi Kha"
-source: "https://sachhiem.net/BuiKha7_NTT.php"
+source: "/BuiKha7_NTT"
 category: "Lịch sử"
 lang: vi
 wordCount: 7160

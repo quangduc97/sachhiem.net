@@ -3,17 +3,17 @@ layout: ../../../layouts/Article.astro
 title: "Tâm Thư Gửi Nhà Nước Việt Nam"
 author: "Nguyễn Mạnh Quang"
 date: 2004-03-28
-source: "https://sachhiem.net/NMQ/TAMTHU/NMQtt_16.php"
+source: "/NMQ/TAMTHU/NMQtt_16"
 lang: vi
 wordCount: 11007
-image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nha.jpg"
+image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/print.gif"
 ---
 
-<p align="center"><a href="https://www.sachhiem.net/"> <img border="0" src="https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nha.jpg"></a> | 
-<a target="_blank" href="https://sachhiem.net/NMQ/TAMTHU/NMQtt_16.php">
+<p align="center"> | 
+<a target="_blank" href="/NMQ/TAMTHU/NMQtt_16">
 <img border="0" src="https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/print.gif" width="18" height="18"> 
   bản in</a> | 
-	<a target="_blank" href="https://sachhiem.net/NMQ/TAMTHU/NMQtt_Main.php"><b><font face="Symbol" size="5"> ¿ </font></b> trở ra mục lục</a>
+	<a target="_blank" href="/NMQ/TAMTHU/NMQtt_Main"><b><font face="Symbol" size="5"> ¿ </font></b> trở ra mục lục</a>
  |   09 tháng 8, 2010</p>
 
 <p class="CHUONG">PHẦN III</p>
@@ -399,7 +399,7 @@ Lành do Linh-mục Martin Luther khởi xướng ở Đức, lại còn có:</p
 
 <p>Thứ nhất.- Tại Anh, năm 1531, Anh Hoàng Henry VIII (1491-1547) 
 công khai chống lại Giáo Hoàng Clement VII (1523-1534) rồi thành lập Anh Giáo và 
-tách rời nước Anh ra khỏi hệ thống quyền lực của Vatican. <a target="_blank" href="https://sachhiem.net/NMQ/TAMTHU/NMQtt_15.php">Xin xem lại Chương 15 
+tách rời nước Anh ra khỏi hệ thống quyền lực của Vatican. <a target="_blank" href="/NMQ/TAMTHU/NMQtt_15">Xin xem lại Chương 15 
 ở trên.</a></p>
 
 <p>Thứ hai.- Tại Thụy sĩ, năm 1537, một phong trào Tin Lành khác do 
@@ -546,7 +546,7 @@ Thứ Nhất <b>hăng say với niềm tin rằng thiên thần đại diện ch
 gươm của họ ở ngay nơi đền thờ Solomon và tất cả những người Do Thái ở trong các 
 giáo đường đều bị thiêu sống</b>.</i>" .<a name="_ednref13" title="" href="/NMQ/#_edn13">[13]</a></p>
 
-<p>Xin đọc lại <a target="_blank" href="https://sachhiem.net/NMQ/TAMTHU/NMQtt_13.php">Chương 13 ở trên </a>để nhìn thấy rõ hơn về bản 
+<p>Xin đọc lại <a target="_blank" href="/NMQ/TAMTHU/NMQtt_13">Chương 13 ở trên </a>để nhìn thấy rõ hơn về bản 
 chất cực kỳ tàn ngược, vồ cùng gian tham tàn và hết sức man rợ của những người 
 Ki-tô hữu sống theo đức tin Ki-tô đã được đào tạo theo tinh thần công giáo.</p>
 
@@ -750,10 +750,10 @@ rửa tội và rao truyền dạy dỗ</i>…"
 <a name="_ednref18" title="" href="/NMQ/#_edn18">[18]</a></p>
 <p>(còn tiếp) </p>
 <p>&nbsp; 1<font color="#FFFFFF"> </font>
-<a target="_blank" href="https://sachhiem.net/NMQ/TAMTHU/NMQtt_16a.php"><b><font color="#FFFFFF">
+<a target="_blank" href="/NMQ/TAMTHU/NMQtt_16a"><b><font color="#FFFFFF">
 <span style="background-color: #AA0000">&nbsp;2 </span> 
 </font> </b> </a>   
-&nbsp;<a target="_blank" href="https://sachhiem.net/NMQ/TAMTHU/NMQtt_16b.php"><b><font color="#FFFFFF"><span style="background-color: #AA0000">&nbsp;3 </span> 
+&nbsp;<a target="_blank" href="/NMQ/TAMTHU/NMQtt_16b"><b><font color="#FFFFFF"><span style="background-color: #AA0000">&nbsp;3 </span> 
 </font> </b> </a></p>
 
 <p class="TuaDenLeft">CHÚ THÍCH</p>

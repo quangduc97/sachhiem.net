@@ -3,7 +3,7 @@ layout: ../../layouts/Article.astro
 title: "Ngày Thanksgiving, Nói Về Chuyện “Nhớ Ơn”"
 author: "Lý Thái Xuân"
 date: 2019-11-22
-source: "https://sachhiem.net/LTX/LyThaiXH39.php"
+source: "/LTX/LyThaiXH39"
 category: "Chính trị"
 lang: vi
 wordCount: 8053
@@ -50,17 +50,17 @@ image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/LICHSU/IMG/VNchuS/Ba
 <p>Còn các loại sách khác của ông Rhodes, ngoài việc truyền dạy những điều hoang đường của Thiên Chúa giáo, ông ta truyền bá cái gì?</p>
 <p class="sub"><b>1. Ông Rhodes ghi chép tình báo về Việt Nam</b>. Chứng minh trong  4 tài liệu được liệt kê trong bài <a href="/LTX/https://sachhiem.net/TCN/TCNdt/TCNdt070">"Giáo Sĩ Đắc-Lộ &amp; Chữ Quốc Ngữ Của : Minh Vân"</a>, tác giả Trần Chung Ngọc, và một bản đồ như sau:</p>
 <p>- Trong cuốn&nbsp;<i>Vietnam's Will To Live</i>, trg. 11, Helen B. Lamb viết như sau:</p>
-<p><i><img src="https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/SACHNGOAI/Hinhanh/BIASACH/VN_WilltoLive.jpg" alt="" width="200" height="296" class="PicLeft">"LM Alexandre de Rhodes, một thừa sai dòng Tên khác, cũng đã để lại cho hậu thế một bản ghi chép lời tường thuật về những kinh nghiệm của ông ở miền Bắc</i>&nbsp;(người Tây phương gọi là Bắc Kỳ)<i>&nbsp;cũng như ở Nam Kỳ trong thế kỷ 17.&nbsp; Là người có đầu óc thực tế, những ấn tượng tốt của ông về Việt Nam không phải là sự duyên dáng của người dân Việt mà là về những cái khác. Ông lấy làm kinh ngạc trước mức độ buôn bán trong những thị trấn ở Việt Nam, và giải thích như sau: "Họ rất giầu vì đất đai màu mỡ.&nbsp; Có 24 con sông chảy qua khắp nơi,&nbsp; rất&nbsp; thuận tiện&nbsp; cho việc&nbsp; di&nbsp; chuyển&nbsp; bằng đường thuỷ đi tới nhiều nơi, rất dễ dàng cho việc buôn bán."</i>&nbsp;(<a href="https://sachhiem.net/index.php?content=showrecipe&amp;id=5603#" title="Father Alexandre de Rhodes, another Jesuit missionary, has also left a record for posterity; his account tells of his experiences in the North (called Tonkin by Westerners) as well as in Cochinchina in the 17th century.&nbsp;Being of a seemingly practical turn of mind, he was impressed by other things than the grace of the people.&nbsp;He was amazed by the amount of trade carried on in Vietnamese towns, and gave the following explanations:they are very rich because the land there is fertile.&nbsp;it watered by twenty-four rivers, which marvellously convenient for traveling water to all places in country, and this serves facilitate trade travel">xem nguyên văn</a>)</p>
+<p><i><img src="https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/SACHNGOAI/Hinhanh/BIASACH/VN_WilltoLive.jpg" alt="" width="200" height="296" class="PicLeft">"LM Alexandre de Rhodes, một thừa sai dòng Tên khác, cũng đã để lại cho hậu thế một bản ghi chép lời tường thuật về những kinh nghiệm của ông ở miền Bắc</i>&nbsp;(người Tây phương gọi là Bắc Kỳ)<i>&nbsp;cũng như ở Nam Kỳ trong thế kỷ 17.&nbsp; Là người có đầu óc thực tế, những ấn tượng tốt của ông về Việt Nam không phải là sự duyên dáng của người dân Việt mà là về những cái khác. Ông lấy làm kinh ngạc trước mức độ buôn bán trong những thị trấn ở Việt Nam, và giải thích như sau: "Họ rất giầu vì đất đai màu mỡ.&nbsp; Có 24 con sông chảy qua khắp nơi,&nbsp; rất&nbsp; thuận tiện&nbsp; cho việc&nbsp; di&nbsp; chuyển&nbsp; bằng đường thuỷ đi tới nhiều nơi, rất dễ dàng cho việc buôn bán."</i>&nbsp;(<a href="/TCN/TCNdt/TCNdt070" title="Father Alexandre de Rhodes, another Jesuit missionary, has also left a record for posterity; his account tells of his experiences in the North (called Tonkin by Westerners) as well as in Cochinchina in the 17th century.&nbsp;Being of a seemingly practical turn of mind, he was impressed by other things than the grace of the people.&nbsp;He was amazed by the amount of trade carried on in Vietnamese towns, and gave the following explanations:they are very rich because the land there is fertile.&nbsp;it watered by twenty-four rivers, which marvellously convenient for traveling water to all places in country, and this serves facilitate trade travel">xem nguyên văn</a>)</p>
 <p> Để bổ túc cho phần này, cần biết thêm  bản đồ  kèm theo tờ báo cáo cho Roma hoạt động truyền giáo của Alexandre De Rhodes năm 1650  <a href="https://www.icm.gov.mo/rc/viewer/40044/2425">"Relazione de’ felici successi della santa fede predicate da’ padri della Compagnia di Gièsu del Regno di Tunchino"</a>. </p>
 <p><img src="https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/LICHSU/IMG/ALEX/Cocincina_Tonkin.jpg" width="400" height="288" alt="https://en.wikipedia.org/wiki/Alexandre_de_Rhodes"></p>
 <p>- Trong cuốn&nbsp;<i>Catholic Imperialism Against The Asiatic Continent,</i>&nbsp;trg. 352, và cuốn <i>Vietnam Why Did We Go?</i>, trg. 139, tác giả Avro Manhattan đã viết về những hoạt động gián điệp của giáo sĩ Đắc Lộ như sau:</p>
-<p><i>"LM Alexandre de Rhodes, một giáo sĩ dòng Tên, tới Đông Dương và sau đó ông đã có thể gửi về một phúc trình mô tả chính xác những khả năng của Trung Kỳ và Bắc Kỳ. Những giáo sĩ thừa sai dòng Tên được tuyển mộ ngay và phái sang Việt Nam để giúp Alexandre de Rhodes trong hai nhiệm vụ: cải đạo người dân ở hai miền vào tín ngưỡng Ca Tô và&nbsp;<u>thăm dò những tiềm lực thương mại của các miền này cho vương quốc Pháp</u>.&nbsp; Những sứ mạng này, theo quan điểm của La Mã và Ba Lê (Paris), không thể tách rời nhau được vì chúng là những bước đầu quan trọng nhất dẫn tới sự xâm chiếm chính trị và quân sự những xứ này."&nbsp;</i>(<a href="https://sachhiem.net/index.php?content=showrecipe&amp;id=5603#" title="Père Alexandre de Rhodes, a Jesuit, arrived in Indochina and later he was able to send a very accurate description of the possibilities of Annam and Tonkin.&nbsp;French Jesuits were promptly recruited and were sent to help him in his double work of converting those nations to the Catholic faith and of exploring the commercial potentialities of these regions for the French crown.&nbsp;These tasks, in the eyes of both Rome and Paris, could not separated, being the two most important stepping-stones which would lead eventually to the political and military occupation of these countries.">xem nguyên văn</a>)</p>
+<p><i>"LM Alexandre de Rhodes, một giáo sĩ dòng Tên, tới Đông Dương và sau đó ông đã có thể gửi về một phúc trình mô tả chính xác những khả năng của Trung Kỳ và Bắc Kỳ. Những giáo sĩ thừa sai dòng Tên được tuyển mộ ngay và phái sang Việt Nam để giúp Alexandre de Rhodes trong hai nhiệm vụ: cải đạo người dân ở hai miền vào tín ngưỡng Ca Tô và&nbsp;<u>thăm dò những tiềm lực thương mại của các miền này cho vương quốc Pháp</u>.&nbsp; Những sứ mạng này, theo quan điểm của La Mã và Ba Lê (Paris), không thể tách rời nhau được vì chúng là những bước đầu quan trọng nhất dẫn tới sự xâm chiếm chính trị và quân sự những xứ này."&nbsp;</i>(<a href="/TCN/TCNdt/TCNdt070" title="Père Alexandre de Rhodes, a Jesuit, arrived in Indochina and later he was able to send a very accurate description of the possibilities of Annam and Tonkin.&nbsp;French Jesuits were promptly recruited and were sent to help him in his double work of converting those nations to the Catholic faith and of exploring the commercial potentialities of these regions for the French crown.&nbsp;These tasks, in the eyes of both Rome and Paris, could not separated, being the two most important stepping-stones which would lead eventually to the political and military occupation of these countries.">xem nguyên văn</a>)</p>
 <p>- Yoshiharu Tsuboi viết trong cuốn&nbsp;&nbsp;<i>Catholicism et Sociétés Asiatiques,</i>&nbsp;trg. 136, về<b>&nbsp;"nghệ thuật" phóng đại sự việc&nbsp;</b>để lừa dối chính quyền Pháp cũng như Tòa Thánh Vatican của Rhodes như sau:</p>
-<p><i>"Vào khoảng 1650, Alexandre de Rhodes tuyên bố&nbsp; rằng, người Việt Nam cải đạo theo Ca Tô giáo với nhịp độ 15.000 một năm, con số mà khoảng hai mươi năm sau, những thừa sai Pháp cho rằng đã phóng đại, vì họ chỉ&nbsp; thấy &nbsp;có độ 60,000&nbsp; thay vì 200,000&nbsp; tín đồ&nbsp; Ki Tô như các giáo sĩ dòng Tên đã tuyên bố.&nbsp; Năm 1883, người ta ước tính&nbsp; số giáo dân là 600,000 và tới năm 1954 thì có thêm 1 triệu nữa"</i> (<a href="https://sachhiem.net/index.php?content=showrecipe&amp;id=5603#" title="Alexandre de Rhodes annonce, vers 1650, que les Vietnamiens se convertissent au rythme de 15000 par an, chiffre que, quelque vingt années plus tard, les missionaires francais jugeront exagéré, ne comptant quant à eux qu'environ 60 000 chrétiens au lieu de 200 000 annoncés par les jésuites.&nbsp;Il n’empêche que, en 1883, on estime leur nombre à 600000 et qu’ils seront encore un million de plus en 1954">xem nguyên văn</a>)</p>
+<p><i>"Vào khoảng 1650, Alexandre de Rhodes tuyên bố&nbsp; rằng, người Việt Nam cải đạo theo Ca Tô giáo với nhịp độ 15.000 một năm, con số mà khoảng hai mươi năm sau, những thừa sai Pháp cho rằng đã phóng đại, vì họ chỉ&nbsp; thấy &nbsp;có độ 60,000&nbsp; thay vì 200,000&nbsp; tín đồ&nbsp; Ki Tô như các giáo sĩ dòng Tên đã tuyên bố.&nbsp; Năm 1883, người ta ước tính&nbsp; số giáo dân là 600,000 và tới năm 1954 thì có thêm 1 triệu nữa"</i> (<a href="/TCN/TCNdt/TCNdt070" title="Alexandre de Rhodes annonce, vers 1650, que les Vietnamiens se convertissent au rythme de 15000 par an, chiffre que, quelque vingt années plus tard, les missionaires francais jugeront exagéré, ne comptant quant à eux qu'environ 60 000 chrétiens au lieu de 200 000 annoncés par les jésuites.&nbsp;Il n’empêche que, en 1883, on estime leur nombre à 600000 et qu’ils seront encore un million de plus en 1954">xem nguyên văn</a>)</p>
 <p>- Tiến sĩ Cao Huy Thuần đã trích dẫn một tài liệu như sau trong cuốn&nbsp;<i>Đạo Thiên Chúa và Chủ Nghĩa Thực Dân Tại Việt Nam...</i>, trg. 47, vạch rõ ý đồ thực dân của Rhodes:</p>
-<p><i>"Tôi tin rằng nước Pháp," ông (Rhodes) viết, " vì là nước ngoan đạo nhất trên thế giới nên sẽ cung cấp cho tôi nhiều binh lính để đi chinh phục toàn thể phương Đông, ở đó tôi sẽ kiếm ra cách để có những giám mục vốn là những Cha và Thầy của chúng ta trong những giáo hội đó.&nbsp; Tôi rời La Mã ngày 11 tháng 9, 1652 với ý định đó. "</i>&nbsp;(<a href="https://sachhiem.net/index.php?content=showrecipe&amp;id=5603#" title="J'ai cru que&nbsp;la France,&nbsp;écrivait&nbsp;il,&nbsp;étant le plus pieux royaume du monde, me fournirait plusieurs soldats qui aillent à la conquête de tout l'Orient, que j'y trouverais moyen d'avoir des évêques qui fussent nos Pères et nos Maitres en ces Églises.&nbsp;Je suis sorti de Rome à ce dessein, le 11 Septembre 1652">xem nguyên văn</a>)&nbsp;</p>
+<p><i>"Tôi tin rằng nước Pháp," ông (Rhodes) viết, " vì là nước ngoan đạo nhất trên thế giới nên sẽ cung cấp cho tôi nhiều binh lính để đi chinh phục toàn thể phương Đông, ở đó tôi sẽ kiếm ra cách để có những giám mục vốn là những Cha và Thầy của chúng ta trong những giáo hội đó.&nbsp; Tôi rời La Mã ngày 11 tháng 9, 1652 với ý định đó. "</i>&nbsp;(<a href="/TCN/TCNdt/TCNdt070" title="J'ai cru que&nbsp;la France,&nbsp;écrivait&nbsp;il,&nbsp;étant le plus pieux royaume du monde, me fournirait plusieurs soldats qui aillent à la conquête de tout l'Orient, que j'y trouverais moyen d'avoir des évêques qui fussent nos Pères et nos Maitres en ces Églises.&nbsp;Je suis sorti de Rome à ce dessein, le 11 Septembre 1652">xem nguyên văn</a>)&nbsp;</p>
 <p class="sub"><b>2. Ông Rhodes viết sách phỉ báng tất cả các tôn giáo khác ở Việt Nam.</b></p>
-<p>Tiêu biểu là cuốn "Phép Giảng Tám Ngày." Xin xem <a href="https://sachhiem.net/TONGIAO/ADRhodes/8Ngay04a.php">"Phép Giảng Tám Ngày, Hạt Giống Chia Rẽ Lương Giáo"</a> của<i> Trang nhà SH</i>. Xin được trích cả đoạn có tựa đề "<a href="https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.devhttps://kholuu.files.wordpress.com/2015/07/phep_giang_tam_ngay.pdf">Nước Đại minh phân ra nhiều đạo vạy</a>"  trong Ngày Thứ Bốn (được dịch ra chữ Việt ngày nay) miệt thị cả ba tôn giáo Phật, Khổng, Lão và nhận xét sai trái và độc đoán. Xem Phụ Lục bên dưới. </p>
+<p>Tiêu biểu là cuốn "Phép Giảng Tám Ngày." Xin xem <a href="/TONGIAO/ADRhodes/8Ngay04a">"Phép Giảng Tám Ngày, Hạt Giống Chia Rẽ Lương Giáo"</a> của<i> Trang nhà SH</i>. Xin được trích cả đoạn có tựa đề "<a href="https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.devhttps://kholuu.files.wordpress.com/2015/07/phep_giang_tam_ngay.pdf">Nước Đại minh phân ra nhiều đạo vạy</a>"  trong Ngày Thứ Bốn (được dịch ra chữ Việt ngày nay) miệt thị cả ba tôn giáo Phật, Khổng, Lão và nhận xét sai trái và độc đoán. Xem Phụ Lục bên dưới. </p>
 <p>Ngày nay người ta thấy trên các mạng truyền thông xã hội, các tín đồ Công Giáo cũng đã <b>noi theo gương xấu </b>của Đắc Lộ, dùng những từ ngữ phạm thượng, hỗn láo, miệt thị các đấng giáo chủ của các đạo khác như thế.
   Mới đây, người ta thấy xuất hiện nick   "Hận thằng Thích Ca," rất phỉ báng và phạm thượng một cách trắng trợn như thế này.</p>
 <p><img src="https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/TONGIAO/FB/NickHanThangThichCa1.JPG" width="365" height="79" alt=""></p>
@@ -80,7 +80,7 @@ image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/LICHSU/IMG/VNchuS/Ba
 </p>
  <hr>
  <p class="PHAN">PHỤ LỤC:</p>
- <p>"Phép Giảng Tám Ngày" của Alexandre De Rhodes (được dịch ra chữ Việt ngày nay) [trích <a href="https://sachhiem.net/TONGIAO/ADRhodes/8Ngay04a.php">"Phép Giảng Tám Ngày, Hạt Giống Chia Rẽ Lương Giáo"</a> của<i> Lý Thái Xuân</i>.]  Ngày Thứ Bốn, trích đề mục: "Nước Đại minh phân ra nhiều đạo vạy."</p>
+ <p>"Phép Giảng Tám Ngày" của Alexandre De Rhodes (được dịch ra chữ Việt ngày nay) [trích <a href="/TONGIAO/ADRhodes/8Ngay04a">"Phép Giảng Tám Ngày, Hạt Giống Chia Rẽ Lương Giáo"</a> của<i> Lý Thái Xuân</i>.]  Ngày Thứ Bốn, trích đề mục: "Nước Đại minh phân ra nhiều đạo vạy."</p>
   <div class="Gry">
    <p>... Đàng thứ nhất là đàng về kẻ hãy chữ, gọi là đạo Nho.  Đàng thứ hai là đàng kẻ thờ quỷ, ma làm việc dối, gọi là đạo Đạo.  Đàng thứ ba là đàng kẻ thờ bụt, gọi là đạo Bụt.</p>
    <p><b>Đạo bụt: giáo ngoài và giáo trong</b></p>
@@ -120,78 +120,78 @@ image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/LICHSU/IMG/VNchuS/Ba
  <p>_____________</p>
  <p><b>Bài đọc thêm:</b></p>
  <p>Các bài viết về Chữ Quốc Ngữ và Alexandre De Rhodes:</p>
- <p><a href="https://sachhiem.net/LICHSU/ListQUOCNGU.inc.php">https://sachhiem.net/LICHSU/ListQUOCNGU.inc.php</a> </p>
- <p>▪&nbsp; <a href="https://sachhiem.net/index.php?content=showrecipe&amp;id=7382"><b>Thư hồi đáp GS Nguyễn  Đăng Hưng V/V Tôn Vinh Alexandre De Rhodes</b></a>&nbsp;-&nbsp;<i>Tòa soạn SH</i><br>
+ <p><a href="/LICHSU/ListQUOCNGU.inc">https://sachhiem.net/LICHSU/ListQUOCNGU.inc.php</a> </p>
+ <p>▪&nbsp; <a href="/LTX/LyThaiDT04"><b>Thư hồi đáp GS Nguyễn  Đăng Hưng V/V Tôn Vinh Alexandre De Rhodes</b></a>&nbsp;-&nbsp;<i>Tòa soạn SH</i><br>
    <br>
-▪&nbsp;<a href="https://sachhiem.net/index.php?content=showrecipe&amp;id=7380"><b>Linh Mục Đắc Lộ - Biện  Chính Với Ông Nguyễn Đình Đầu</b></a>&nbsp;-&nbsp;<i>Bùi Kha</i><br>
+▪&nbsp;<a href="/BUIKHA/BuiKha2"><b>Linh Mục Đắc Lộ - Biện  Chính Với Ông Nguyễn Đình Đầu</b></a>&nbsp;-&nbsp;<i>Bùi Kha</i><br>
 <br>
-▪&nbsp;<a href="https://sachhiem.net/index.php?content=showrecipe&amp;id=7379"><b>Alexandre de Rhodes  không phải là người sáng tạo ra chữ Việt !</b></a>&nbsp;-&nbsp;<i>ANTG</i><br>
+▪&nbsp;<a href="/VANHOC/TinANTG"><b>Alexandre de Rhodes  không phải là người sáng tạo ra chữ Việt !</b></a>&nbsp;-&nbsp;<i>ANTG</i><br>
 <br>
-▪&nbsp;<a href="https://sachhiem.net/index.php?content=showrecipe&amp;id=7378"><b>“Tượng Đài Alexandre De  Rhodes”: Ý kiến phản đối</b></a>&nbsp;-&nbsp;<i>phattuvietnam.net</i><br>
+▪&nbsp;<a href="/LICHSU/T/TuongRhodes"><b>“Tượng Đài Alexandre De  Rhodes”: Ý kiến phản đối</b></a>&nbsp;-&nbsp;<i>phattuvietnam.net</i><br>
 <br>
-▪&nbsp;<a href="https://sachhiem.net/index.php?content=showrecipe&amp;id=7377"><b>“Tượng Đài Alexandre De  Rhodes”: Ai Là Người Hô Biến ?</b></a>&nbsp;-&nbsp;<i>Trần Điều</i><br>
+▪&nbsp;<a href="/LICHSU/TR/TranDieu"><b>“Tượng Đài Alexandre De  Rhodes”: Ai Là Người Hô Biến ?</b></a>&nbsp;-&nbsp;<i>Trần Điều</i><br>
 <br>
-▪&nbsp;<a href="https://sachhiem.net/index.php?content=showrecipe&amp;id=7376"><b>Thư ngỏ gửi HĐND, UBND  TP. Hà Nội và Hội KHLS VN về việc dựng tượng Alexandre Rhodes</b></a>&nbsp;-&nbsp;<i>Thích Thanh Thắng</i><br>
+▪&nbsp;<a href="/LICHSU/T/ThichThanhThang"><b>Thư ngỏ gửi HĐND, UBND  TP. Hà Nội và Hội KHLS VN về việc dựng tượng Alexandre Rhodes</b></a>&nbsp;-&nbsp;<i>Thích Thanh Thắng</i><br>
 <br>
-▪&nbsp;<a href="https://sachhiem.net/index.php?content=showrecipe&amp;id=7375"><b>Bác Ơi, Bây Giờ Người  Ta Đòi ... Nhớ Ơn Giặc !</b></a>&nbsp;-&nbsp;<i>Cộng đồng Facebook</i><br>
+▪&nbsp;<a href="/TONGIAO/tgS/SH86"><b>Bác Ơi, Bây Giờ Người  Ta Đòi ... Nhớ Ơn Giặc !</b></a>&nbsp;-&nbsp;<i>Cộng đồng Facebook</i><br>
 <br>
-▪&nbsp;<a href="https://sachhiem.net/index.php?content=showrecipe&amp;id=7374"><b>QUÊ HƯƠNG NGÀY TRỞ LẠI:  Minh Mạng - Tự Đức - Nguyễn Trường Tộ - Trương Vĩnh Ký - Các giáo sĩ Pháp</b></a>&nbsp;-&nbsp;<i>Thụy Khuê</i><br>
+▪&nbsp;<a href="/LICHSU/N/Namgiao_08"><b>QUÊ HƯƠNG NGÀY TRỞ LẠI:  Minh Mạng - Tự Đức - Nguyễn Trường Tộ - Trương Vĩnh Ký - Các giáo sĩ Pháp</b></a>&nbsp;-&nbsp;<i>Thụy Khuê</i><br>
 <br>
-▪&nbsp;<a href="https://sachhiem.net/index.php?content=showrecipe&amp;id=7352"><b>Những nhân vật đầu tiên  trong tiến trình chữ quốc ngữ - Kỳ 1: Khởi đầu của chữ quốc ngữ</b></a>&nbsp;-&nbsp;<i>Trần Nhật Vy /Tuổi Trẻ</i><br>
+▪&nbsp;<a href="/LICHSU/T/TuoiTre_TranNhatVy"><b>Những nhân vật đầu tiên  trong tiến trình chữ quốc ngữ - Kỳ 1: Khởi đầu của chữ quốc ngữ</b></a>&nbsp;-&nbsp;<i>Trần Nhật Vy /Tuổi Trẻ</i><br>
 <br>
-▪&nbsp;<a href="https://sachhiem.net/index.php?content=showrecipe&amp;id=7332"><b>Đừng Nhân Danh Văn Hóa  Lừa Thiên Hạ&nbsp;</b></a>-&nbsp;<i>Nguyễn Văn Thịnh</i><br>
+▪&nbsp;<a href="/NGVTHINH/NguyenvThinh_28"><b>Đừng Nhân Danh Văn Hóa  Lừa Thiên Hạ&nbsp;</b></a>-&nbsp;<i>Nguyễn Văn Thịnh</i><br>
 <br>
-▪&nbsp;<a href="https://sachhiem.net/index.php?content=showrecipe&amp;id=7309"><b>Cộng đồng mạng nổi giận  về chuyện đòi "nhớ ơn" LM Alexandre De Rhodes - TÊN GIÁN ĐIỆP</b></a>&nbsp;-&nbsp;<i>SH ghi nhận từ Facebook</i><br>
+▪&nbsp;<a href="/TONGIAO/tgS/SH83"><b>Cộng đồng mạng nổi giận  về chuyện đòi "nhớ ơn" LM Alexandre De Rhodes - TÊN GIÁN ĐIỆP</b></a>&nbsp;-&nbsp;<i>SH ghi nhận từ Facebook</i><br>
 <br>
-▪&nbsp;<a href="https://sachhiem.net/index.php?content=showrecipe&amp;id=6730"><b>Tuyển Tập I: A. de  Rhodes &amp; chữ Quốc ngữ, Trương Vĩnh Ký, Trần Lục và Ngô Đình Diệm&nbsp;</b></a>-&nbsp;<i>Bùi Kha</i><br>
+▪&nbsp;<a href="/BUIKHA/BuiKha30"><b>Tuyển Tập I: A. de  Rhodes &amp; chữ Quốc ngữ, Trương Vĩnh Ký, Trần Lục và Ngô Đình Diệm&nbsp;</b></a>-&nbsp;<i>Bùi Kha</i><br>
 <br>
-▪&nbsp;<a href="https://sachhiem.net/index.php?content=showrecipe&amp;id=6563"><b>Một Vài Nhận Xét Về Bài  Viết Của GS Nguyễn Lý Tưởng: TS Roland Jacques &amp; Quốc Ngữ&nbsp;</b></a>-&nbsp;<i>Nguyễn Mạnh Quang</i><br>
+▪&nbsp;<a href="/NMQ/NMQ61"><b>Một Vài Nhận Xét Về Bài  Viết Của GS Nguyễn Lý Tưởng: TS Roland Jacques &amp; Quốc Ngữ&nbsp;</b></a>-&nbsp;<i>Nguyễn Mạnh Quang</i><br>
 <br>
-▪&nbsp;<a href="https://sachhiem.net/index.php?content=showrecipe&amp;id=6533"><b>Kế Hoạch Xâm Nhập Vào Đỉnh  Cao Quyền Lực Vn Của Vatican</b></a>&nbsp;-&nbsp;<i>Võ Đông Cung /KBCHN</i><br>
+▪&nbsp;<a href="/LICHSU/K/KBCHN_VDC"><b>Kế Hoạch Xâm Nhập Vào Đỉnh  Cao Quyền Lực Vn Của Vatican</b></a>&nbsp;-&nbsp;<i>Võ Đông Cung /KBCHN</i><br>
 <br>
-▪&nbsp;<a href="https://sachhiem.net/index.php?content=showrecipe&amp;id=6257"><b>GS Trần Chung Ngọc -  Nhân Ngày Tiểu Tường</b></a>&nbsp;-&nbsp;<i>Trần Trọng Sỹ</i><br>
+▪&nbsp;<a href="/TTS/VH/TranTrongSy_vh2"><b>GS Trần Chung Ngọc -  Nhân Ngày Tiểu Tường</b></a>&nbsp;-&nbsp;<i>Trần Trọng Sỹ</i><br>
 <br>
-▪&nbsp;<a href="https://sachhiem.net/index.php?content=showrecipe&amp;id=6024"><b>Alexandre De Rhodes, Những  Nhầm Lẫn Đáng Tiếc</b></a>&nbsp;-&nbsp;<i>Bùi Kha</i><br>
+▪&nbsp;<a href="/BUIKHA/BuiKha27_Alex"><b>Alexandre De Rhodes, Những  Nhầm Lẫn Đáng Tiếc</b></a>&nbsp;-&nbsp;<i>Bùi Kha</i><br>
 <br>
-▪&nbsp;<a href="https://sachhiem.net/index.php?content=showrecipe&amp;id=6020"><b>Lại Gạ Dựng Tượng Ông Đắc  Lộ&nbsp;</b></a>-&nbsp;<i>Nguyễn Văn Thịnh</i><br>
+▪&nbsp;<a href="/NGVTHINH/NguyenvThinh_00"><b>Lại Gạ Dựng Tượng Ông Đắc  Lộ&nbsp;</b></a>-&nbsp;<i>Nguyễn Văn Thịnh</i><br>
 <br>
-▪&nbsp;<a href="https://sachhiem.net/index.php?content=showrecipe&amp;id=5679"><b>CÁC TU SĨ DÒNG  TÊN&nbsp;</b></a>-&nbsp;<i>Charlie Nguyễn</i><br>
+▪&nbsp;<a href="/CHARLIE/CN_CGHT/dongten"><b>CÁC TU SĨ DÒNG  TÊN&nbsp;</b></a>-&nbsp;<i>Charlie Nguyễn</i><br>
 <br>
-▪&nbsp;<a href="https://sachhiem.net/index.php?content=showrecipe&amp;id=5647"><b>Góp Ý Về Bài Của Ông Đặng  Văn Việt Góp Ý Sửa Đổi Hiến Pháp</b></a>&nbsp;-&nbsp;<i>Nguyễn Mạnh Quang</i><br>
+▪&nbsp;<a href="/NMQ/NMQ041"><b>Góp Ý Về Bài Của Ông Đặng  Văn Việt Góp Ý Sửa Đổi Hiến Pháp</b></a>&nbsp;-&nbsp;<i>Nguyễn Mạnh Quang</i><br>
 <br>
-▪&nbsp;<a href="https://sachhiem.net/index.php?content=showrecipe&amp;id=5611"><b>Phản Biện Tác Giả Minh  Vân Về Đắc Lộ &amp; Chữ Quốc Ngữ</b></a>&nbsp;-&nbsp;<i>Bùi Kha</i><br>
+▪&nbsp;<a href="/BUIKHA/BuiKha25"><b>Phản Biện Tác Giả Minh  Vân Về Đắc Lộ &amp; Chữ Quốc Ngữ</b></a>&nbsp;-&nbsp;<i>Bùi Kha</i><br>
 <br>
-▪&nbsp;<a href="https://sachhiem.net/index.php?content=showrecipe&amp;id=5609"><b>Phải Làm Gì Đối Với  Tình Trạng<br>
+▪&nbsp;<a href="/NMQ/NMQ040"><b>Phải Làm Gì Đối Với  Tình Trạng<br>
 Vinh Danh Những Việt Gian?</b></a>&nbsp;-&nbsp;<i>Nguyễn Mạnh Quang</i><br>
 <br>
-▪&nbsp;<a href="https://sachhiem.net/index.php?content=showrecipe&amp;id=5608"><b>Bức Thư Gửi Nhóm Giao  Điểm, Sách Hiếm (*)</b></a>&nbsp;-&nbsp;<i>Trần Charlie</i><br>
+▪&nbsp;<a href="/THOISU_CT/ChuTr/TranCharlie"><b>Bức Thư Gửi Nhóm Giao  Điểm, Sách Hiếm (*)</b></a>&nbsp;-&nbsp;<i>Trần Charlie</i><br>
 <br>
-▪&nbsp;<a href="https://sachhiem.net/index.php?content=showrecipe&amp;id=5603"><b>Giáo Sĩ Dắc-Lộ &amp; Chữ  Quốc Ngữ Của Minh Vân</b></a>&nbsp;-&nbsp;<i>Trần Chung Ngọc</i><br>
+▪&nbsp;<a href="/TCN/TCNdt/TCNdt070"><b>Giáo Sĩ Dắc-Lộ &amp; Chữ  Quốc Ngữ Của Minh Vân</b></a>&nbsp;-&nbsp;<i>Trần Chung Ngọc</i><br>
 <br>
-▪&nbsp;<a href="https://sachhiem.net/index.php?content=showrecipe&amp;id=5239"><b>Đừng bao giờ quên các  Cha Cố buổi ban đầu&nbsp;</b></a>-&nbsp;<i>Hoàng Lộc</i><br>
+▪&nbsp;<a href="/TONGIAO/tgC/Cahat00"><b>Đừng bao giờ quên các  Cha Cố buổi ban đầu&nbsp;</b></a>-&nbsp;<i>Hoàng Lộc</i><br>
 <br>
-▪&nbsp;<a href="https://sachhiem.net/index.php?content=showrecipe&amp;id=5205"><b>Chữ "Plusieurs  Soldats" Thời A.D. Rhodes&nbsp;</b></a>-&nbsp;<i>Lý Đương Nhiên</i><br>
+▪&nbsp;<a href="/LICHSU/L/LyDuongNhien1"><b>Chữ "Plusieurs  Soldats" Thời A.D. Rhodes&nbsp;</b></a>-&nbsp;<i>Lý Đương Nhiên</i><br>
 <br>
-▪&nbsp;<a href="https://sachhiem.net/index.php?content=showrecipe&amp;id=5204"><b>Nguyễn Trường Tộ - Phản  Biện Bài Viết Của GS. Đinh Xuân Lâm</b></a>&nbsp;-&nbsp;<i>Bùi Kha</i><br>
+▪&nbsp;<a href="/BUIKHA/BuiKha20"><b>Nguyễn Trường Tộ - Phản  Biện Bài Viết Của GS. Đinh Xuân Lâm</b></a>&nbsp;-&nbsp;<i>Bùi Kha</i><br>
 <br>
-▪&nbsp;<a href="https://sachhiem.net/index.php?content=showrecipe&amp;id=5086"><b>Alexandre De Rhodes -  Công và Tội</b></a>&nbsp;-&nbsp;<i>Bùi Kha</i><br>
+▪&nbsp;<a href="/BUIKHA/BuiKha5"><b>Alexandre De Rhodes -  Công và Tội</b></a>&nbsp;-&nbsp;<i>Bùi Kha</i><br>
 <br>
-▪&nbsp;<a href="https://sachhiem.net/index.php?content=showrecipe&amp;id=5083"><b>Linh Mục Đắc Lộ&nbsp;</b></a>-&nbsp;<i>Nguyễn Đình Đầu</i><br>
+▪&nbsp;<a href="/BUIKHA/BuiKha3"><b>Linh Mục Đắc Lộ&nbsp;</b></a>-&nbsp;<i>Nguyễn Đình Đầu</i><br>
 <br>
-▪&nbsp;<a href="https://sachhiem.net/index.php?content=showrecipe&amp;id=5076"><b>Bài  Phỏng Vấn Ông Bùi Kha của đài BBC LUÂN ĐÔN: Nguyễn Trường Tộ, Trương Vĩnh Ký Và  A. De Rhodes&nbsp;</b></a>-&nbsp;<i>Bùi Kha</i><br>
+▪&nbsp;<a href="/BUIKHA/BuiKha02a"><b>Bài  Phỏng Vấn Ông Bùi Kha của đài BBC LUÂN ĐÔN: Nguyễn Trường Tộ, Trương Vĩnh Ký Và  A. De Rhodes&nbsp;</b></a>-&nbsp;<i>Bùi Kha</i><br>
 <br>
-▪&nbsp;<a href="https://sachhiem.net/index.php?content=showrecipe&amp;id=1038"><b>Di Hại Của “Nền Đạo Lý  Thiên-La Đắc-Lộ”</b></a>&nbsp;-&nbsp;<i>Trần Chung Ngọc</i><br>
+▪&nbsp;<a href="/TCN/TCNls/TCNls09"><b>Di Hại Của “Nền Đạo Lý  Thiên-La Đắc-Lộ”</b></a>&nbsp;-&nbsp;<i>Trần Chung Ngọc</i><br>
 <br>
-▪&nbsp;<a href="https://sachhiem.net/index.php?content=showrecipe&amp;id=1016"><b>Alexandre de Rhodes - Vấn  Đề Tượng Trưng!</b></a>&nbsp;-&nbsp;<i>Minh Mẫn</i><br>
+▪&nbsp;<a href="/MINHMAN/Chinhtri/Minhman16"><b>Alexandre de Rhodes - Vấn  Đề Tượng Trưng!</b></a>&nbsp;-&nbsp;<i>Minh Mẫn</i><br>
 <br>
-▪&nbsp;<a href="https://sachhiem.net/index.php?content=showrecipe&amp;id=668"><b>Vài nét về tiến trình của  chữ Quốc ngữ&nbsp;</b></a>-&nbsp;<i>Trần Vân Hạc</i><br>
+▪&nbsp;<a href="/VANHOC/TVHAC/Vanhac04"><b>Vài nét về tiến trình của  chữ Quốc ngữ&nbsp;</b></a>-&nbsp;<i>Trần Vân Hạc</i><br>
 <br>
-▪&nbsp;<a href="https://sachhiem.net/index.php?content=showrecipe&amp;id=667"><b>Gửi Người Tạc Tượng  Alexandre De Rhodes&nbsp;</b></a>-&nbsp;<i>Vân Hạc</i><br>
+▪&nbsp;<a href="/VANHOC/TVHAC/Vanhac01"><b>Gửi Người Tạc Tượng  Alexandre De Rhodes&nbsp;</b></a>-&nbsp;<i>Vân Hạc</i><br>
 <br>
-▪&nbsp;<a href="https://sachhiem.net/index.php?content=showrecipe&amp;id=650"><b>“Đi tìm nguồn gốc chữ  quốc ngữ”&nbsp;</b></a>-&nbsp;<i>GS-TS Phạm Văn Hường</i><br>
+▪&nbsp;<a href="/VANHOC/PhamVHuong"><b>“Đi tìm nguồn gốc chữ  quốc ngữ”&nbsp;</b></a>-&nbsp;<i>GS-TS Phạm Văn Hường</i><br>
 <br>
-▪&nbsp;<a href="https://sachhiem.net/index.php?content=showrecipe&amp;id=638"><b>Quá trình hình thành chữ  quốc ngữ&nbsp;</b></a>-&nbsp;<i>Phan Quang</i><br>
+▪&nbsp;<a href="/VANHOC/PhanQuang"><b>Quá trình hình thành chữ  quốc ngữ&nbsp;</b></a>-&nbsp;<i>Phan Quang</i><br>
 <br>
-▪&nbsp;<a href="https://sachhiem.net/index.php?content=showrecipe&amp;id=312"><b>Di Hại Của “Nền Đạo Lý  Thiên-La Đắc-Lộ”</b></a>&nbsp;-&nbsp;<i>Trần Chung Ngọc</i><br>
+▪&nbsp;<a href="/TCN/TCNtg/TCN50"><b>Di Hại Của “Nền Đạo Lý  Thiên-La Đắc-Lộ”</b></a>&nbsp;-&nbsp;<i>Trần Chung Ngọc</i><br>
 <br>
 ﻿</p>

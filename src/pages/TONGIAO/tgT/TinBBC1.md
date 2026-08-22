@@ -6,12 +6,12 @@ source: "https://www.bbc.co.uk/vietnamese/culture/2010/03/100328_fooc_jesus_kash
 category: "Tác giả"
 lang: vi
 wordCount: 1131
-image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nha.jpg"
+image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/IMG/JESUS/Dientho_kashmirshrine_TinBBC.jpg"
 ---
 
 <table border="0" cellpadding="0" width="250" align="center">
             <tbody><tr>
-              <td width="125"><a href="/index"><img border="0" src="https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nha.jpg"></a></td>
+              <td width="125"></td>
        <td><p>02 tháng 4, 2010	</p>
 			</td></tr></tbody></table>
 			<p><i>LTS: Dù tín lý Công Giáo có bắt ép tín đồ tin rằng Chúa Giê su chết trên thập giá, sống lại, và lên trời, người ta vẫn hoài nghi ít nhiều trong cái 

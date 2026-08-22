@@ -2,11 +2,11 @@
 layout: ../../../layouts/Article.astro
 title: "Không Được Báo Cáo Lạm Dụng Tình Dục."
 author: "Shawn POGATCHNIK/Associated Press"
-source: "https://sachhiem.net/nguồn https://news.yahoo.com/s/ap/20110118/ap_on_re_eu/eu_ireland_catholic_abuse ; https://www.thehindu.com/news/international/article1100192.ece"
+source: "/nguồn https://news.yahoo.com/s/ap/20110118/ap_on_re_eu/eu_ireland_catholic_abuse ; https://www.thehindu.com/news/international/article1100192.ece"
 category: "Tác giả"
 lang: vi
 wordCount: 1896
-image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nha.jpg"
+image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/IMG/VATICAN/DocumentVatiReject.jpg"
 ---
 
 <div align="center" style="position: relative; left: 0; top: 0">
@@ -25,8 +25,7 @@ image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nha.jpg"
 <tr><td width="100%">
 <div style="padding-left: 50px; padding-right: 50px"> 
 <table border="0" cellpadding="1" width="86%" cols="2"><tbody><tr>
-<td><a href="/index">
-<img border="0" src="https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nha.jpg"></a></td>
+<td></td>
 <td valign="top" width="210"><p>20 tháng 1, 2011	</p>
 </td></tr></tbody></table>
 

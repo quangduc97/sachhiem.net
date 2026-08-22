@@ -2,11 +2,11 @@
 layout: ../../../layouts/Article.astro
 title: "Tức Giận Lan Khắp A-Phú-Hãn Về Việc Đốt Sách Kinh Hồi Giáo"
 author: "Associated Press"
-source: "https://sachhiem.net/null"
+source: "/null"
 category: "Tác giả"
 lang: vi
 wordCount: 324
-image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nha.jpg"
+image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/IMG/AFGANISTAN/AfghanRiot1.jpg"
 ---
 
 <div align="center" style="position: relative; left: 0; top: 0">
@@ -25,8 +25,7 @@ image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nha.jpg"
 <tr> <td width="100%"> 
 	<div style="padding-left: 50px; padding-right: 50px">
 <table border="0" cellpadding="10" cols="2" width="600"><tbody><tr>
-<td><a href="/index">
-<img border="0" src="https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nha.jpg"></a></td>
+<td></td>
 	<td valign="top" style="text-align:right">	<i>02 tháng 4, 2011	</i>
 	</td></tr></tbody></table>
 	

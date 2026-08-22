@@ -3,7 +3,7 @@ layout: ../../../layouts/Article.astro
 title: "HOÀNG NGUYÊN NHUẬN:"
 author: "Quán Như"
 date: 2016-07-30
-source: "https://sachhiem.net/TONGIAO/tgQ/QuanNhu03.php"
+source: "/TONGIAO/tgQ/QuanNhu03"
 category: "Chính trị"
 lang: vi
 wordCount: 4306
@@ -52,10 +52,10 @@ image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/HOANGNN/Hinh/HoangVa
     
       <p>____________________________</p>
       <p>[SH - Tác giả có những quyển sách xuất bản như sau:<br>
-<a href="https://sachhiem.net/EMAILS/SH/Sachhiem_sachmoi.php">https://sachhiem.net/EMAILS/SH/Sachhiem17_sachmoi.php</a>]</p>
+<a href="/EMAILS/SH/Sachhiem_sachmoi">https://sachhiem.net/EMAILS/SH/Sachhiem17_sachmoi.php</a>]</p>
       <p>_____________________________</p>
       <p><b>Những bài cùng tác giả Quán Như đã đăng trong sachhiem.net:</b></p>
-      <p>- <a href="https://sachhiem.net/TONGIAO/tgQ/QuanNhu04.php"> Nói Về Những Phong Trào Tranh Đấu Của Phật Giáo Tại Miền Nam </a></p>
-      <p><a href="https://sachhiem.net/TONGIAO/tgQ/QuanNhu03.php">- HOÀNG NGUYÊN NHUẬN, Mối Tình Đoàn Hữu Hơn Ba Mươi Năm</a></p>
-      <p><a href="https://sachhiem.net/TONGIAO/tgQ/QuanNhu02.php">- Tây Phương Đã Tiếp Nhận Đạo Phật Như Thế Nào? </a></p>
-      <p><a href="https://sachhiem.net/TONGIAO/tgQ/QuanNhu.php">- Nhân Đọc Tuyên Ngôn của Một Người Vô Thần</a></p>
+      <p>- <a href="/TONGIAO/tgQ/QuanNhu04"> Nói Về Những Phong Trào Tranh Đấu Của Phật Giáo Tại Miền Nam </a></p>
+      <p><a href="/TONGIAO/tgQ/QuanNhu03">- HOÀNG NGUYÊN NHUẬN, Mối Tình Đoàn Hữu Hơn Ba Mươi Năm</a></p>
+      <p><a href="/TONGIAO/tgQ/QuanNhu02">- Tây Phương Đã Tiếp Nhận Đạo Phật Như Thế Nào? </a></p>
+      <p><a href="/TONGIAO/tgQ/QuanNhu">- Nhân Đọc Tuyên Ngôn của Một Người Vô Thần</a></p>

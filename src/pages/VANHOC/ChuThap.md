@@ -3,16 +3,16 @@ layout: ../../layouts/Article.astro
 title: "Bụt và Thần"
 author: "Chu Thập"
 date: 2012-08-02
-source: "https://sachhiem.net/VANHOC/ChuThap.php"
+source: "/VANHOC/ChuThap"
 category: "Chính trị"
 lang: vi
 wordCount: 2521
-image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nha.jpg"
+image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/TONGIAO/IMG/SU/DaLaiLatMa1.jpg"
 ---
 
 <table border="0" cellpadding="0" width="250" align="center">
             <tbody><tr>
-              <td width="125"><a href="/index"><img border="0" src="https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nha.jpg"></a></td>
+              <td width="125"></td>
               <td valign="middle">02-Aug-2012</td>
             </tr>
           </tbody></table>

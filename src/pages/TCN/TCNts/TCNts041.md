@@ -2,10 +2,10 @@
 layout: ../../../layouts/Article.astro
 title: "TẠI SAO LẠI VIỆT NAM ?"
 author: "Trần Chung Ngọc"
-source: "https://sachhiem.net/null"
+source: "/null"
 lang: vi
 wordCount: 12570
-image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nha.jpg"
+image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/SACHNGOAI/Hinhanh/BIASACH/WorldOrder.jpg"
 ---
 
 <div align="center" style="position: relative; left: 0; top: 0">
@@ -23,7 +23,7 @@ image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nha.jpg"
 <tr> <td width="100%"> 
 	<div style="padding-left: 50px; padding-right: 50px">
 		<table border="0" cellpadding="10" width="88%" cols="2"><tbody><tr><td>
-	<a href="/index"><img border="0" src="https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nha.jpg"></a></td>
+	</td>
 	<td valign="top" width="215">18 tháng 7, 2009</td></tr></tbody></table>
 		
 		<p> <span class="First">B</span>ài viết này không liên quan gì đến cuốn “Why Vietnam” của 

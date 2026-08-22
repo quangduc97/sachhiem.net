@@ -3,7 +3,7 @@ layout: ../../../layouts/Article.astro
 title: "Sự Thật Về Đại Học Fulbright"
 author: "TS Nguyễn Kiều Dung"
 date: 2016-08-14
-source: "https://sachhiem.net/THOISU_CT/ChuN/NguyenKieuDung.php"
+source: "/THOISU_CT/ChuN/NguyenKieuDung"
 category: "Chính trị"
 lang: vi
 wordCount: 7056
@@ -12,9 +12,9 @@ image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/THOISU_CT/Hinh/FULBR
 
 <div class="tomluoc">
            <p><i>LTS: Loạt bài về Đại Học Fulbright và Bob Kerrey được Tiến Sĩ Nguyễn Kiều Dung gửi cho trang nhà. Những bài này cũng đã được đăng tải trên <a href="https://vietthought.files.wordpress.com">vietthought.files.wordpress.com</a>. Trang nhà sachhiem.net lần lượt đăng ở các links như sau:</i></p>
-           <p><i>-  <a href="https://sachhiem.net/THOISU_CT/ChuN/NguyenKieuDung.php">Sự Thật Về Đại Học Fulbright</a>;</i></p>
-           <p><i>-  <a href="https://sachhiem.net/THOISU_CT/ChuN/NguyenKieuDung01.php">Bob Kerrey - Kẻ Phá Hoại Cộng Đồng</a>; và</i></p>
-           <p><i>- <a href="https://sachhiem.net/THOISU_CT/ChuN/NguyenKieuDung02.php">Những Ý Kiến Không Ủng Hộ Bob Kerrey...</a>. </i></p>
+           <p><i>-  <a href="/THOISU_CT/ChuN/NguyenKieuDung">Sự Thật Về Đại Học Fulbright</a>;</i></p>
+           <p><i>-  <a href="/THOISU_CT/ChuN/NguyenKieuDung01">Bob Kerrey - Kẻ Phá Hoại Cộng Đồng</a>; và</i></p>
+           <p><i>- <a href="/THOISU_CT/ChuN/NguyenKieuDung02">Những Ý Kiến Không Ủng Hộ Bob Kerrey...</a>. </i></p>
            <p><i> Những bài viết đầy nhiệt tình, xin mời xem và tích cực cùng nhau góp tiếng nói chung bằng bất cứ phương tiện nào có thể. (SH)</i></p>
          </div>
   <p align="center"><img src="https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/THOISU_CT/Hinh/FULBRIGHT/FUV_truong.jpg" width="309" height="163" alt=""></p>
@@ -110,10 +110,10 @@ image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/THOISU_CT/Hinh/FULBR
   <p> [22]<a href="https://www.facebook.com/dr.nguyenphuongmai/posts/10209292678616309"> https://www.facebook.com/ - Phuong Mai Nguyen</a></p>
 <p>___________________</p>
 <p><b>Những bài liên quan:</b></p>
-<p>- <a href="https://sachhiem.net/index.php?content=showemail&amp;id=1578">Cảnh báo mới - Đại học Fulbright: chiến lược trồng người lâu dài và hợp pháp</a>, ngày Mon June 27, 2016</p>
-<p>- <a href="https://sachhiem.net/LICHSU/M/ MarkAshwill_NMH.php">Một Người Mỹ Cảnh Báo: “Đại Học Fulbright Việt Nam- Con Ngựa Thành Troy Của Mỹ Ở Việt Nam,</a> ngày 19-Apr-2023</p>
-<p>- <a href="https://sachhiem.net/THOISU_CT/ChuN/NguyenKieuDung01.php">Bob Kerrey - Kẻ Phá Hoại Cộng Đồng</a>, TS Nguyễn Kiều Dung, ngày 14-Aug-2016</p>
-<p>- <a href="https://sachhiem.net/THOISU_CT/ChuN/NguyenKieuDung02.php">Những Ý Kiến Không Ủng Hộ Bob Kerrey Làm Chủ Tịch Hội Đồng Tín Thác Đại Học Fulbright</a>, TS Nguyễn Kiều Dung, ngày 14-Aug-2016</p>
+<p>- <a href="/net/LICHSU/N/NguyenvThinh_LS04">Cảnh báo mới - Đại học Fulbright: chiến lược trồng người lâu dài và hợp pháp</a>, ngày Mon June 27, 2016</p>
+<p>- <a href="/LICHSU/M/ MarkAshwill_NMH">Một Người Mỹ Cảnh Báo: “Đại Học Fulbright Việt Nam- Con Ngựa Thành Troy Của Mỹ Ở Việt Nam,</a> ngày 19-Apr-2023</p>
+<p>- <a href="/THOISU_CT/ChuN/NguyenKieuDung01">Bob Kerrey - Kẻ Phá Hoại Cộng Đồng</a>, TS Nguyễn Kiều Dung, ngày 14-Aug-2016</p>
+<p>- <a href="/THOISU_CT/ChuN/NguyenKieuDung02">Những Ý Kiến Không Ủng Hộ Bob Kerrey Làm Chủ Tịch Hội Đồng Tín Thác Đại Học Fulbright</a>, TS Nguyễn Kiều Dung, ngày 14-Aug-2016</p>
 <p>- <a href="https://giaovn.blogspot.com/2016/06/nuoc-my-khong-con-ai-ngoai-bob-kerrey.html">Nước Mỹ không còn ai ngoài Bob Kerrey thật sao?</a> ngày 02/06/2016</p>
 <p> -&nbsp;<a href="/XAHOI/S/SharmaRachana">Muốn Khuất Phục Kẻ Thù Hãy Nuôi Dạy Con Cái Của Chúng, Phần 1: Chiến Tranh Dựa Trên Hành Vi</a> (Sharma Rachana)</p>
 <p>- <a href="/XAHOI/S/SharmaRachana_FUV">Thực Hư Đh Fulbright Là Ổ Nuôi Cấy Việt Gian Tay Sai Cầm Đầu Cách Mạng Màu Tại Việt Nam? </a>(Sharma Rachana) </p>

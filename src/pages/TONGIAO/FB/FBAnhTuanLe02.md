@@ -3,7 +3,7 @@ layout: ../../../layouts/Article.astro
 title: "Báo VN-Express khoe 1 triệu người ở Madagascar đón Giáo Hoàng để làm gì?"
 author: "FB Anh-Tuan LE"
 date: 2019-09-10
-source: "https://sachhiem.net/TONGIAO/FB/FBAnhTuanLe02.php"
+source: "/TONGIAO/FB/FBAnhTuanLe02"
 category: "Chính trị"
 lang: vi
 wordCount: 3163

@@ -3,7 +3,7 @@ layout: ../../../layouts/Article.astro
 title: "Giáo Hoàng Có Ý Định Ban Hành “Tự Sắc”"
 author: "Tin RFI - Huê Đăng / Đức Tâm"
 date: 2013-02-22
-source: "https://sachhiem.net/TONGIAO/tgT/TinRFI01.php"
+source: "/TONGIAO/tgT/TinRFI01"
 category: "Tác giả"
 lang: vi
 wordCount: 652

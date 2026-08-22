@@ -3,7 +3,7 @@ layout: ../../../layouts/Article.astro
 title: "Tiểu Sử Của Một Lãnh Tụ Vĩ Đại Đã Giải Phóng Dân Tộc Việt"
 author: "Jean Lacouture"
 date: 2012-04-06
-source: "https://sachhiem.net/SACHNGOAI/snT/TThL7.php"
+source: "/SACHNGOAI/snT/TThL7"
 category: "Chính trị"
 lang: vi
 wordCount: 7068

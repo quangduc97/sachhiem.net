@@ -3,7 +3,7 @@ layout: ../../../layouts/Article.astro
 title: "Vũ Trụ Không Cần Ai Sáng Thế"
 author: "Phương Hà / ANTG"
 date: 2013-05-01
-source: "https://sachhiem.net/index.php?content=showrecipe&id=5625"
+source: "/KHOAHOC/SH/Steve_noneed"
 category: "Khoa học"
 lang: vi
 wordCount: 1772

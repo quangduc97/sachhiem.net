@@ -3,7 +3,7 @@ layout: ../../../layouts/Article.astro
 title: "Trời Thương Hay Không Thương ?"
 author: "Howard Nguyễn"
 date: 2014-05-24
-source: "https://sachhiem.net/THOISU_CT/ChuH/HowardNguyen.php"
+source: "/THOISU_CT/ChuH/HowardNguyen"
 category: "Chính trị"
 lang: vi
 wordCount: 507

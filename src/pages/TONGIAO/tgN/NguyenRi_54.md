@@ -3,7 +3,7 @@ layout: ../../../layouts/Article.astro
 title: "Bài Học Ngắn Gửi Tín Đồ Thờ Diệm Để Cầu Nguyện Trong Tháng 10"
 author: "Ri Nguyễn sưu tầm"
 date: 2021-10-26
-source: "https://sachhiem.net/TONGIAO/tgN/NguyenRi_54.php"
+source: "/TONGIAO/tgN/NguyenRi_54"
 category: "Tác giả"
 lang: vi
 wordCount: 1045
@@ -60,7 +60,7 @@ image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/LICHSU/IMG/NGODD/DAO
 <a shape="rect" href="https://vi.wikipedia.org/wiki/Lu%E1%BA%ADt_10-59" rel="noreferrer" target="_blank">https://vi.wikipedia.org/wiki/Lu%E1%BA%ADt_10-59</a></p>
 <p>(3)&nbsp;1/11/1963 Quốc Khánh của đệ nhị Cộng Hòa trong&nbsp;12&nbsp;năm</p>
 <p>(4) Tổng thống Mỹ Kennedy khinh bỉ gọi gia đình Ngô Đình Diệm là&nbsp;LŨ CHÓ ĐẺ – SONS OF BITCHES</p>
-<p><a shape="rect" href="https://sachhiem.net/LICHSU/C/Cahat00.php" rel="noreferrer" target="_blank">https://sachhiem.net/LICHSU/C/Cahat00.php</a></p>
+<p><a shape="rect" href="/LICHSU/C/Cahat00" rel="noreferrer" target="_blank">https://sachhiem.net/LICHSU/C/Cahat00.php</a></p>
 <p>Nguồn: "WHERE THE DOMINO FELL - American and Vietnam, 1945-1995"</p>
 <p>Tác giả:&nbsp;James S. Olson&nbsp;&amp;&nbsp;Randy Roberts</p>
 <p>Nhà Xuất bản: Brandywine Press, New York, 1999 – Third Edition. Chương 4. The New Frontier in Vietnam, 1961-1963, Trang 98.&nbsp; &nbsp; </p>
@@ -136,11 +136,11 @@ image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/LICHSU/IMG/NGODD/DAO
  <p>___________</p>
  <p>Nguồn:</p>
  <p>1.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;VATICAN:CH63-1c Tại Sao Gọi Là Tam Đại Việt Gian (Nguyễn Mạnh ...</p>
- <p><a shape="rect" href="https://sachhiem.net/NMQ/HOSOTOIAC/CH63_1c.php" rel="noreferrer" target="_blank">https://sachhiem.net/NMQ/HOSOTOIAC/CH63_1c.php</a> </p>
+ <p><a shape="rect" href="/NMQ/HOSOTOIAC/CH63_1c" rel="noreferrer" target="_blank">https://sachhiem.net/NMQ/HOSOTOIAC/CH63_1c.php</a> </p>
  <p>2.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Vài Nét Về "Cụ Diệm" - Trần Chung Ngọc</p>
- <p><a shape="rect" href="https://sachhiem.net/TCN/TCNls/TCNls06.php" rel="noreferrer" target="_blank">https://sachhiem.net/TCN/TCNls/TCNls06.php</a> </p>
+ <p><a shape="rect" href="/TCN/TCNls/TCNls06" rel="noreferrer" target="_blank">https://sachhiem.net/TCN/TCNls/TCNls06.php</a> </p>
  <p>3.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;"Bạo Chúa Ngô Đình Diệm" - Tác giả Nigel Cawthorne trong sách "Tyrants History's 100 Most Evil ...</p>
  <p><a shape="rect" href="https://www.barnesandnoble.com/w/tyrants-nigel-cawthorne/1111121549" rel="noreferrer" target="_blank">Tyrants: History's 100 Most Evil Despots &amp; Dictators|NOOK Book</a>: 78-Ngô Đình Diệm</p>
  <p>_____________________</p>
  <p>Các bài của Nguyễn Ri: </p>
- <p> <a href="https://sachhiem.net/TONGIAO/tgN/ListRiNguyen.inc.php" target="_blank">https://sachhiem.net/TONGIAO/tgN/ListRiNguyen.inc.php</a></p>
+ <p> <a href="/TONGIAO/tgN/ListRiNguyen.inc" target="_blank">https://sachhiem.net/TONGIAO/tgN/ListRiNguyen.inc.php</a></p>

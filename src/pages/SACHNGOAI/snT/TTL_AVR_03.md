@@ -2,7 +2,7 @@
 layout: ../../../layouts/Article.astro
 title: "Vì Sao Chúng Ta Đã Đi Việt Nam ?"
 author: "Trần Thanh Lưu dịch cuốn"
-source: "https://sachhiem.net/null"
+source: "/null"
 category: "Sách ngoại văn"
 lang: vi
 wordCount: 2398
@@ -159,7 +159,7 @@ wordCount: 2398
 		Đức. Năm 1936, Franco khởi đầu cuộc nội chiến ở Tây Ban Nha. Khoảng 1938 
 		thì hai-phần-ba châu Âu đã bị Phát-Xít-hóa và những tiếng động âm ỉ của 
 		đê nhị thế chiến đã dần được nghe rõ khắp nơi. (xin mời xem 
-		<a href="https://www.sachhiem.net/TONGIAO/Suutam2.php">https://www.sachhiem.net/TONGIAO/Suutam2.php</a>&nbsp;  Để biết thêm về liên minh giữa Vatican và Đức Quốc xã Naxi trước và trong Đệ nhị Thế chiến - Chú thích của sachhiem.net)</p>
+		<a href="/TONGIAO/Suutam2">https://www.sachhiem.net/TONGIAO/Suutam2.php</a>&nbsp;  Để biết thêm về liên minh giữa Vatican và Đức Quốc xã Naxi trước và trong Đệ nhị Thế chiến - Chú thích của sachhiem.net)</p>
 		
 		<p>Cùng lúc thì châu Âu cũng đã bị Fatima-hóa. Sự sùng 
 		bái Fatima, coi trọng lời hứa của Đức Mẹ Đồng Trinh về việc cải đạo  nước 

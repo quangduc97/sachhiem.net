@@ -2,14 +2,14 @@
 layout: ../../../layouts/Article.astro
 title: "Bàn Về Thiện Và Ác"
 author: "Tỳ-Khưu Thích-Chân-Tuệ"
-source: "https://sachhiem.net/TONGIAO/tgTH/ThichChanTue.php"
+source: "/TONGIAO/tgTH/ThichChanTue"
 category: "Tác giả"
 lang: vi
 wordCount: 4089
-image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nha.jpg"
+image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/IMG/SU/ThichChanTue.jpg"
 ---
 
-<p align="center"><a href="https://www.sachhiem.net/"><img border="0" src="https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nha.jpg"></a>ngày 15 tháng 6, 2009 </p> 
+<p align="center">ngày 15 tháng 6, 2009 </p> 
   
 		<p>“<i>Bức xúc trước những hiện tượng xuyên tạc, bóp méo Phật giáo một cách 
 		vô ý hay cố tâm của một vài thành phần bất thiện nào đó, và cũng tự xấu 

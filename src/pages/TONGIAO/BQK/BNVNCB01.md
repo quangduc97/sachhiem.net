@@ -2,15 +2,15 @@
 layout: ../../../layouts/Article.astro
 title: "Người Việt Nên Chối Bỏ ???"
 author: "Bảo Quốc Kiếm"
-source: "https://sachhiem.net/TONGIAO/BQK/NVNCB01.php"
+source: "/TONGIAO/BQK/NVNCB01"
 category: "Tác giả"
 lang: vi
 wordCount: 39650
-image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nha.jpg"
+image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/Div01.gif"
 ---
 
 <table border="0" cellpadding="0" width="250" align="center"><tbody><tr>
-	<td width="125"><a href="/index"><img border="0" src="https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nha.jpg"></a></td>
+	<td width="125"></td>
 <td valign="top" width="210"><p>02 tháng 1, 2010	
 		</p></td>
 	</tr>

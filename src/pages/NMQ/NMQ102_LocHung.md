@@ -3,7 +3,7 @@ layout: ../../layouts/Article.astro
 title: "Một Chút Lịch Sử Về Vùng Đất Trong Quận Tân Bình"
 author: "Nguyễn Mạnh Quang"
 date: 2019-01-09
-source: "https://sachhiem.net/NMQ/NMQ102_LocHung.php"
+source: "/NMQ/NMQ102_LocHung"
 category: "Lịch sử"
 lang: vi
 wordCount: 880

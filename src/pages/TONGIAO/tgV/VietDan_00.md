@@ -3,7 +3,7 @@ layout: ../../../layouts/Article.astro
 title: "Giê-su Có Là Vua Hay Không?"
 author: "Việt Dân"
 date: 2016-09-06
-source: "https://sachhiem.net/TONGIAO/tgV/VietDan_00.php"
+source: "/TONGIAO/tgV/VietDan_00"
 category: "Tác giả"
 lang: vi
 wordCount: 2536

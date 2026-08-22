@@ -3,18 +3,18 @@ layout: ../../layouts/Article.astro
 title: "Mật Lệnh cho Phi Công Huỳnh Minh Đường"
 author: "Diễn Đàn Thư Tín"
 date: 2013-05-20
-source: "https://sachhiem.net/DOITHOAI/Gopgio.php"
+source: "/DOITHOAI/Gopgio"
 category: "Tác giả"
 lang: vi
 wordCount: 9181
-image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nha.jpg"
+image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/sqdot.gif"
 ---
 
 <p class="Tuaduoi">Ác Đến Độ Khó Tin: </p>
 
  
 
-<p align="center"><a href="https://www.sachhiem.net/"><img border="0" src="https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nha.jpg"></a>
+<p align="center">
 Jul 15, 2013 </p>
 
 <p><span class="First">K</span>ính thưa Quý vị,</p>
@@ -356,10 +356,10 @@ May thay, Đại úy Huỳnh Minh Đường đã phá vỡ âm mưu thâm độc
 <p>_________________________</p>
 <p> <b>Mời đọc thêm:</b></p>
 <p>- <a href="/LICHSU/TR/TQD31_dothua"><i>Cũng Với Triều Ngô Đình Diệm -  Mắc Bệnh Đổ Thừa</i> (Trần Quang Diệu - Tuấn Phan) </a></p>
-<p>- <a href="https://sachhiem.net/LICHSU/G/GopGio.php">Một điển hình tàn ác của nhà Ngô (Góp Gió) </a> 24 tháng 10, 2010</p>
-<p>- <a href="https://sachhiem.net/LICHSU/TR/TQD27_3dieu.php">Ba Điều Căn Bản Nhà Ngô Để Lại Cho... Lịch Sử (Trần Quang Diệu)</a> 20-May-2013</p>
+<p>- <a href="/LICHSU/G/GopGio">Một điển hình tàn ác của nhà Ngô (Góp Gió) </a> 24 tháng 10, 2010</p>
+<p>- <a href="/LICHSU/TR/TQD27_3dieu">Ba Điều Căn Bản Nhà Ngô Để Lại Cho... Lịch Sử (Trần Quang Diệu)</a> 20-May-2013</p>
 <p><b>Những bài liên hệ: </b></p>
-<p>-<a href="https://sachhiem.net/LICHSU/N/NguyenTgTam.php"> Tổng Thống Diệm Sát Hại Đối Lập? </a>(Nguyễn Tường Tâm/DCV) </p>
-<p>- <a href="https://sachhiem.net/DOITHOAI/Gopgio.php">Ác Đến Độ Khó Tin: Mật Lệnh cho Phi Công Huỳnh Minh Đường</a> (Góp Gió)</p>
-<p><a href="https://sachhiem.net/LICHSU/TR/TranKevin.php">- Đại Uý Không Quân Huỳnh Minh Đường Có Bay Qua Cambốt Không?</a> (Kevin Trần)</p>
-<p><a href="https://sachhiem.net/LICHSU/G/GopGio.php">- Một điển hình tàn ác của nhà Ngô</a> (Góp Gió)</p>
+<p>-<a href="/LICHSU/N/NguyenTgTam"> Tổng Thống Diệm Sát Hại Đối Lập? </a>(Nguyễn Tường Tâm/DCV) </p>
+<p>- <a href="/DOITHOAI/Gopgio">Ác Đến Độ Khó Tin: Mật Lệnh cho Phi Công Huỳnh Minh Đường</a> (Góp Gió)</p>
+<p><a href="/LICHSU/TR/TranKevin">- Đại Uý Không Quân Huỳnh Minh Đường Có Bay Qua Cambốt Không?</a> (Kevin Trần)</p>
+<p><a href="/LICHSU/G/GopGio">- Một điển hình tàn ác của nhà Ngô</a> (Góp Gió)</p>

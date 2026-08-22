@@ -3,7 +3,7 @@ layout: ../../layouts/Article.astro
 title: "Hạt Chết Tiệt"
 author: "Trần Tiên Long"
 date: 2012-07-21
-source: "https://sachhiem.net/TTL/TranTL23.php"
+source: "/TTL/TranTL23"
 category: "Tác giả"
 lang: vi
 wordCount: 259
@@ -32,7 +32,7 @@ image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/KHOAHOC/IMG/LAB/worl
     <p align="center">(<i>Thí nghiệm ALICE phân tích va chạm giữa các hạt nhân nguyên tử thay vì các va chạm giữa proton-proton. Ảnh https://worldsciencefestival.com/videos/lhc_alice_experiment</i>)</p>
 
     <p><b>Bài liên quan:</b></p>
-    <p><a href="https://sachhiem.net/KHOAHOC/SH/Suutam02.php">"10 bước dễ dàng để tìm hiểu hạt Higgs
+    <p><a href="/KHOAHOC/SH/Suutam02">"10 bước dễ dàng để tìm hiểu hạt Higgs
         Boson"</a> của Chris Paine </p>
     
     <hr>

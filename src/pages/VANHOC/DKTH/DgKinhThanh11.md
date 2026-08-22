@@ -3,7 +3,7 @@ layout: ../../../layouts/Article.astro
 title: "Đôi Dòng Tiễn Biệt Giáo Sư Tiến Sĩ Trần Văn Khê"
 author: "Dương Kinh Thành"
 date: 2015-06-27
-source: "https://sachhiem.net/VANHOC/DKTH/DgKinhThanh11.php"
+source: "/VANHOC/DKTH/DgKinhThanh11"
 category: "Tác giả"
 lang: vi
 wordCount: 1254

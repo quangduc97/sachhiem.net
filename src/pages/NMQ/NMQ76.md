@@ -3,7 +3,7 @@ layout: ../../layouts/Article.astro
 title: "Trong Cuộc Chiến 1954 - 1975, Người Mỹ Có Mặt Ở Việt Nam"
 author: "Nguyễn Mạnh Quang"
 date: 2017-06-23
-source: "https://sachhiem.net/NMQ/NMQ76.php"
+source: "/NMQ/NMQ76"
 category: "Lịch sử"
 lang: vi
 wordCount: 7525

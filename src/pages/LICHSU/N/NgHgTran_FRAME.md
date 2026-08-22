@@ -2,7 +2,7 @@
 layout: ../../../layouts/Article.astro
 title: "TÔI ĐÃ ĐỌC HỒI KÝ"
 author: "Nguyễn Hồng Trân & Thái Lê Phương"
-source: "https://sachhiem.net/LICHSU/N/NgHgTran_FRAME.php"
+source: "/LICHSU/N/NgHgTran_FRAME"
 lang: vi
 wordCount: 35
 image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/COVER/biaUL.jpg"

@@ -3,7 +3,7 @@ layout: ../../layouts/Article.astro
 title: "THẦY TRÍ QUANG"
 author: "Cao Huy Thuần"
 date: 2019-11-10
-source: "https://sachhiem.net/CAOHT/CHT9.php"
+source: "/CAOHT/CHT9"
 category: "Chính trị"
 lang: vi
 wordCount: 5231

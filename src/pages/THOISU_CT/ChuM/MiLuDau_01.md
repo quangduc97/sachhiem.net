@@ -3,7 +3,7 @@ layout: ../../../layouts/Article.astro
 title: "Bầu Cử Ở Mỹ:"
 author: "Mi-Lu Dau"
 date: 2016-09-26
-source: "https://sachhiem.net/THOISU_CT/ChuM/MiLuDau_01.php"
+source: "/THOISU_CT/ChuM/MiLuDau_01"
 category: "Chính trị"
 lang: vi
 wordCount: 5150
@@ -16,7 +16,7 @@ image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/THOISU_CT/Hinh/HOAKY
    
  <p><i>LTS: Chuyện ở một đất nước được gọi là tự do,  chúng tôi xin được tôn trọng các ý kiến khác biệt của các tác giả. Điều này  không có nghĩa là ba phải, nhưng chúng tôi muốn đưa ra các góc nhìn khác nhau về  một vấn đề rất quan trọng đối với số đông, nhưng đối với một số người khác lại không quan trọng vì thực sự người dân thường không có ý kiến gì trước khi xuất hiện hai ứng viên cả. Nghe qua như đây là một thái độ bi quan. Nhưng vấn đề là tùy theo bạn  đang nhìn vào các vấn đề nào, nếu cùng xem một số vấn đề, có thể chúng ta cũng đồng ý với tác giả. Cả hai ứng viên đều đã được các thê lực bí mật bàn bạc, chọn lựa sẵn, tài trợ và khuyến khích ra đấu trường. Còn lại, các tranh cãi như mổ bò về bất cứ vấn đề nào của hai Đảng chỉ là trò chơi, dân chúng bầu ai cũng được. </i><i> Bài dưới đây tiêu biểu cho cái nhìn theo góc cạnh đó. Chúng tôi đăng để cùng suy nghĩ, không có ý làm nản lòng các lá phiếu tháng 11 tới đây. (SH</i>)</p>
  <hr>
- <p><span class="First">N</span>hân đọc bản tin về lời bình luận của cựu Bộ trưởng Quốc  Phòng Mỹ Robert Gates “Ex-Pentagon chief Gates: Trump is 'unfit,' 'beyond  repair'” liên quan đến cuộc tranh cử hiện nay ở Mỹ <a href="https://sachhiem.net/index.php?content=showrecipe&amp;id=6752">(xem link)</a>, tôi thấy cần lên tiếng gọi  là góp vài câu ‘tán’ với bà con ta cho vui cửa vui nhà.</p>
+ <p><span class="First">N</span>hân đọc bản tin về lời bình luận của cựu Bộ trưởng Quốc  Phòng Mỹ Robert Gates “Ex-Pentagon chief Gates: Trump is 'unfit,' 'beyond  repair'” liên quan đến cuộc tranh cử hiện nay ở Mỹ <a href="/THOISU_CT/ChuK/Khachquan_04">(xem link)</a>, tôi thấy cần lên tiếng gọi  là góp vài câu ‘tán’ với bà con ta cho vui cửa vui nhà.</p>
 <p>
    Tôi thấy đại đa số các thức giả Mít ta thỉnh thoảng bình loạn  về tình hình thế giới cứ như là thánh phán mà quên áp dụng vào đời sống hằng  ngày câu dân quê Nam bộ hay nói “<i>ngó zậy mà không phải zậy</i>’. Áp dụng để làm gì?  Để mình luôn tỉnh thức nhận định mọi chuyện trên đời “như thị”; luôn tự hỏi “có  thật vậy không?” để khỏi bị lừa; nhất là trong thế giới ma mị ngày nay, con người  không còn biết tìm đâu ra lẽ phải. Ta đang sống trong một thế giới đầy giả trá  và bị lừa bịp trong mỗi giây phút mà ta cứ tin như thật, càng văn minh tiến bộ  thì sự lừa bịp càng tinh vi và êm ái. </p>
 <p>

@@ -3,7 +3,7 @@ layout: ../../layouts/Article.astro
 title: "Sự Thật Vẫn Là Sự Thật"
 author: "Micae Lê Văn Ấn, Trần Tiên Long"
 date: 2012-11-25
-source: "https://sachhiem.net/TTL/TranTL34.php"
+source: "/TTL/TranTL34"
 category: "Chính trị"
 lang: vi
 wordCount: 3293
@@ -74,8 +74,8 @@ image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/DOITHOAI/IMG/HovaTa1
           <p class="Tuaduoi">   <b>[Một Khảo Luận Qua Các Tài Liệu]</b> </p>
           
           
-          <a href="https://sachhiem.net/TCN/TCNtg/TCN34.php" target="_blank">
-</a><p><a href="https://sachhiem.net/TCN/TCNtg/TCN34.php" target="_blank">
+          <a href="/TCN/TCNtg/TCN34" target="_blank">
+</a><p><a href="/TCN/TCNtg/TCN34" target="_blank">
             Xin bấm vào link để đọc</a></p>
           
           <p>-----------------------------------</p>

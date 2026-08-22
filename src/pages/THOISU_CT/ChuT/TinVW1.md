@@ -37,7 +37,7 @@ image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nhacu.jpg"
 	<tbody><tr><td bgcolor="White" align="justify" valign="top">
 		
 			<table border="0" cellpadding="10" width="98%" cols="3"><tbody><tr>
-				<td><a href="https://sachhiem.net/">
+				<td><a href="/">
 				<img src="https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nhacu.jpg" border="0"></a></td>
 	<td valign="top" width="203">	13 tháng 5, 2009
 	</td></tr></tbody></table>

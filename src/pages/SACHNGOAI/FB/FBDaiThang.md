@@ -3,7 +3,7 @@ layout: ../../../layouts/Article.astro
 title: "Giáo Hội Công Giáo Tây Ban Nha Thông Báo Điều Tra Lạm Dụng Tình Dục Trẻ Em"
 author: "Guy Hedgecoe/ FB Đại Thắng lược dịch"
 date: 2022-02-24
-source: "https://www.sachhiem.net/SACHNGOAI/FB/FBDaiThang.php"
+source: "/SACHNGOAI/FB/FBDaiThang"
 category: "Chính trị"
 lang: vi
 wordCount: 789

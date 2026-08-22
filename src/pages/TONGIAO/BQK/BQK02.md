@@ -3,7 +3,7 @@ layout: ../../../layouts/Article.astro
 title: "Văn Tế Cụ Diệm"
 author: "Bảo quốc Kiếm"
 date: 2012-05-30
-source: "https://sachhiem.net/TONGIAO/BQK/BQK02.php"
+source: "/TONGIAO/BQK/BQK02"
 category: "Tác giả"
 lang: vi
 wordCount: 494
@@ -151,8 +151,8 @@ image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/LICHSU/IMG/NGODD/NDD
 		  <p class="TacgiaL">BQK-01-11-11</p>
 		  <p>___________</p>
 		  <p>Mời xem bài</p>
-      <p> <a href="https://sachhiem.net/TONGIAO/BQK/BQK02.php">- Văn Tế Cụ Diệm năm 2011,</a></p>
-      <p> - <a href="https://sachhiem.net/TONGIAO/BQK/BQK02a.php">Văn Tế Cụ Diệm năm 2013,</a> và</p>
-      <p>- <a href="https://sachhiem.net/TONGIAO/BQK/BQK02b.php">Cụ Diệm Khóc Ròng</a> cùng tác giả. </p>
-      <p>Nếu dưới đây có báo lỗi, xin bấm <a href="https://sachhiem.net/TONGIAO/BQK/BQK02.php">nơi đây </a>để xem.</p>
+      <p> <a href="/TONGIAO/BQK/BQK02">- Văn Tế Cụ Diệm năm 2011,</a></p>
+      <p> - <a href="/TONGIAO/BQK/BQK02a">Văn Tế Cụ Diệm năm 2013,</a> và</p>
+      <p>- <a href="/TONGIAO/BQK/BQK02b">Cụ Diệm Khóc Ròng</a> cùng tác giả. </p>
+      <p>Nếu dưới đây có báo lỗi, xin bấm <a href="/TONGIAO/BQK/BQK02">nơi đây </a>để xem.</p>
     </div>

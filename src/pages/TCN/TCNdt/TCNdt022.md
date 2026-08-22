@@ -2,15 +2,15 @@
 layout: ../../../layouts/Article.astro
 title: "Của Nguyễn Văn Lục:"
 author: "Trần Chung Ngọc"
-source: "https://sachhiem.net/TCN/TCNdt/TCNdt022.php"
+source: "/TCN/TCNdt/TCNdt022"
 category: "Đối thoại"
 lang: vi
 wordCount: 12398
-image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.devhttps://sachhiem.net/images/nha.jpg"
+image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/SACH/ThapgiavaLuoiGuom.jpg"
 ---
 
 <table border="0" width="250" align="center">
-    <tbody><tr><td width="106"><a href="https://sachhiem.net/index.php"><img border="0" src="https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.devhttps://sachhiem.net/images/nha.jpg"></a>    </td> <td> <p>17 tháng 11, 2008 </p> </td></tr></tbody></table> 
+    <tbody><tr><td width="106">    </td> <td> <p>17 tháng 11, 2008 </p> </td></tr></tbody></table> 
 
  <div style="padding:10px; border:1px solid #800000; ">
 <p> LTS: Để dễ theo dõi bài viết có nhiều chủ thể phát biểu khác nhau, sachhiem.net xin được phép dùng màu để phân biệt như sau: </p>
@@ -20,16 +20,16 @@ image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.devhttps://sachhiem.net/
 <font color="#000080"> 
 
 <p><b><font size="5" face="Times New Roman">T</font></b>rước đây tôi đã phê bình ông Nguyễn Văn Lục 
-trong bài <i>“Một Trí Thức Không Biết Ngượng” </i>[<a style="color: blue; text-decoration: underline; text-underline: single" href="https://sachhiem.net/TCN/TCNdt/TCNdt3.php">https://sachhiem.net/TCN/TCNdt/TCNdt3.php</a>], 
+trong bài <i>“Một Trí Thức Không Biết Ngượng” </i>[<a style="color: blue; text-decoration: underline; text-underline: single" href="/TCN/TCNdt/TCNdt3">https://sachhiem.net/TCN/TCNdt/TCNdt3.php</a>], 
 và bài <i>“Lại Chuyện Bất Đắc Dĩ về</i><br>
-<i>Nguyễn Văn Lục: Một Trí Thức Không Biết Ngượng”</i> [<a style="color: blue; text-decoration: underline; text-underline: single" href="https://sachhiem.net/TCN/TCNdt/TCNdt1.php">https://sachhiem.net/TCN/TCNdt/<span lang="en-us">
+<i>Nguyễn Văn Lục: Một Trí Thức Không Biết Ngượng”</i> [<a style="color: blue; text-decoration: underline; text-underline: single" href="/TCN/TCNdt/TCNdt1">https://sachhiem.net/TCN/TCNdt/<span lang="en-us">
 </span>TCNdt1.php</a>], 
 và từ đó đến nay, đã hơn một năm, tôi không còn đọc Nguyễn Văn Lục nữa, tuy đôi 
 khi mấy ông bạn vàng vẫn làm phiền tôi, báo cho tôi biết là Nguyễn Văn Lục viết 
 bài này, bài nọ, trên DCVonline. </p>
 
 <p> Trước đây <span lang="en-us">(</span>xin đọc<span lang="en-us"> </span>
-<a style="color: blue; text-decoration: underline; text-underline: single" href="https://sachhiem.net/TCN/TCNdt/TCNdt3.php">
+<a style="color: blue; text-decoration: underline; text-underline: single" href="/TCN/TCNdt/TCNdt3">
 https://sachhiem.net/TCN/TCNdt/TCNdt3.php</a><span lang="en-us">) </span>cũng đã có độc giả phê bình ông Nguyễn Văn Lục 
 trên Đàn Chim Việt là:</p>
 
@@ -431,7 +431,7 @@ của Patrick J. N. Tuck; và nhất là cuốn <i>“The Vietnam Response to Fr
 Intervention, 1862-1874”</i> của Mark W. McLeod. Ông cứ can đảm mà đọc đi, đọc 
 sách không bị Chúa vật chết đâu mà sợ. Nhiều đoạn trích dẫn từ những cuốn sách 
 này có trong
-<a style="color: blue; text-decoration: underline; text-underline: single" href="https://sachhiem.net/TCN/TCNtg/CGchinhsu/CGCS8.php">
+<a style="color: blue; text-decoration: underline; text-underline: single" href="/TCN/TCNtg/CGchinhsu/CGCS8">
 https://sachhiem.net/TCN/TCNtg/CGchinhsu/CGCS8.php</a> </p>
 </font><p class="MsoBodyText"><font color="#000080"><i>- </i>
 
@@ -1094,7 +1094,7 @@ giới cũng như ở Việt Nam.</u></p>
 <p><b> </b>Gần đây tôi có đọc trên Sách Hiếm một bài viết và 
 những vần thơ rất đặc sắc, để đời cho hậu thế, của Trần Quang Lộc: <i>“Tản Mạn 
 và đôi vần thơ về vụ TOÀ KHÂM, THÁI-HÀ “. </i>[Xin đọc:
-<a style="color: blue; text-decoration: underline; text-underline: single" href="https://sachhiem.net/VANHOC/TranQuangLoc.php">
+<a style="color: blue; text-decoration: underline; text-underline: single" href="/VANHOC/TranQuangLoc">
 https://sachhiem.net/VANHOC/TranQuangLoc.php</a> ]</p>
 <p class="tacgia"> Tác giả Trần Quang Lộc có đưa ra một nhận xét về Công giáo 
 Việt Nam:</p>

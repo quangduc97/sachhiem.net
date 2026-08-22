@@ -2,14 +2,14 @@
 layout: ../../layouts/Article.astro
 title: "KHÔNG THỂ CHUỘC LỖI"
 author: "ALLEN HASSAN"
-source: "https://sachhiem.net/nguồn: https://giaodiemonline.com/2007/07/chuocloi.htm"
+source: "/nguồn: https://giaodiemonline.com/2007/07/chuocloi.htm"
 category: "Sách ngoại văn"
 lang: vi
 wordCount: 8776
-image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nha.jpg"
+image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/SACHNGOAI/Hinhanh/PEOPLE/FailuretoAtone.jpg"
 ---
 
-<p align="center"><a href="https://sachhiem.net/index.php"><img hspace="20" border="0" src="https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nha.jpg"></a> 17&nbsp; tháng 8, 2007 </p>
+<p align="center"> 17&nbsp; tháng 8, 2007 </p>
     <p align="center"> <img border="0" src="https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/SACHNGOAI/Hinhanh/PEOPLE/FailuretoAtone.jpg"> <img src="https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/SACHNGOAI/Hinhanh/BIASACH/Khongthechuocloi.jpg" width="120" height="160"></p>
     
     <p>Kỳ 1: Ở tâm điểm cuộc chiến</p>

@@ -3,7 +3,7 @@ layout: ../../../layouts/Article.astro
 title: "Từ Câu Hỏi \"Vì Sao Cây Đổ Đè Chết 13 Người Đang Lễ Rước Đức Mẹ Thượng Ngàn?\""
 author: "Huy Thái - Diễn Đàn"
 date: 2017-08-17
-source: "https://sachhiem.net/TONGIAO/tgH/HuyThai_01.php"
+source: "/TONGIAO/tgH/HuyThai_01"
 category: "Tác giả"
 lang: vi
 wordCount: 2499
@@ -44,8 +44,8 @@ image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/XAHOI/IMG/BODAONHA/C
 <p>____________________</p>
 <p><b>Chú thích của SH</b>: </p>
 <p>(1) Về chuyện Giáo Hoàng định nghĩa lại "Thiên đàng, hỏa ngục" mời đọc thêm: </p>
-<p><a href="https://www.sachhiem.net/index.php/EMAILS/SH/index.php?content=showemail&amp;id=2106">- Nếu Jesus sống lại, Ngài bay về đâu, khi GH John Paul II đã tuyên bố không có Thiên Đàng va Địa Ngục</a> (Ri Nguyễn)</p>
-<p><a href="https://sachhiem.net/NMQ/NMQ010.php">- Thư Ngỏ Gửi Đức Giáo Hoàng John Paul II</a> (Nguyễn Mạnh Quang)</p>
+<p><a href="/net/NMQ/NMQ010">- Nếu Jesus sống lại, Ngài bay về đâu, khi GH John Paul II đã tuyên bố không có Thiên Đàng va Địa Ngục</a> (Ri Nguyễn)</p>
+<p><a href="/NMQ/NMQ010">- Thư Ngỏ Gửi Đức Giáo Hoàng John Paul II</a> (Nguyễn Mạnh Quang)</p>
 <p>_____________________</p>
 <p>Vào ngày 6:44 Thứ Năm,  17 tháng 8 2017, Trung Kiên Pham đã viết: </p>
 <p>=&gt; <b>Vì sao cây đổ đè chết 13 người đang lễ rước Đức mẹ  Thượng ngàn</b>? </p>

@@ -3,7 +3,7 @@ layout: ../../../layouts/Article.astro
 title: "VATICAN: Cường Quốc Ngoại Giao và “CHURCH OF SPIES”?"
 author: "Minh Thạnh"
 date: 2021-09-28
-source: "https://sachhiem.net/TONGIAO/tgM/MinhThanh19.php"
+source: "/TONGIAO/tgM/MinhThanh19"
 category: "Chính trị"
 lang: vi
 wordCount: 1800

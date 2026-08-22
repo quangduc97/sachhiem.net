@@ -3,7 +3,7 @@ layout: ../../../layouts/Article.astro
 title: "Vatican Bắt Giữ Hai Cố Vấn Bị Cáo Buộc Có Dính Líu Đến Các Tài Liệu Bị Rò Rỉ"
 author: "Anthony Faiola/ Washington Post"
 date: 2015-11-02
-source: "https://sachhiem.net/TONGIAO/tgT/TinWaPost.php"
+source: "/TONGIAO/tgT/TinWaPost"
 category: "Chính trị"
 lang: vi
 wordCount: 2809
@@ -49,8 +49,8 @@ vào ngày 16 tháng 9, 2015 (Franco Origlia / Getty Images)</p>
 <p class="TacgiaL"> (thân hữu ML tạm dịch) </p>
   <p>_____________________</p>
   <p><b>Cùng đề tài:</b></p>
-  <p><a href="https://sachhiem.net/TONGIAO/tgT/TinCBS.php">-  Tin CBS: Hai Người Bị Bắt Trong Vụ Bê Bối Tài Liệu Bị Rò Rỉ Ở Vatican</a></p>
-  <p><a href="https://sachhiem.net//TONGIAO/tgT/TinWaPost.php">-  Tin Washington Post: Vatican Bắt Giữ Hai Cố Vấn Bị Cáo Buộc Có Dính Líu Đến Các Tài Liệu Bị Rò Rỉ </a></p>
+  <p><a href="/TONGIAO/tgT/TinCBS">-  Tin CBS: Hai Người Bị Bắt Trong Vụ Bê Bối Tài Liệu Bị Rò Rỉ Ở Vatican</a></p>
+  <p><a href="//TONGIAO/tgT/TinWaPost.php">-  Tin Washington Post: Vatican Bắt Giữ Hai Cố Vấn Bị Cáo Buộc Có Dính Líu Đến Các Tài Liệu Bị Rò Rỉ </a></p>
   <hr>
   <p><b>Bản tin:</b></p>
   <p class="TuaDenLeft">Vatican Arrests Two Advisers Over Alleged Links To Leaked Documents</p>

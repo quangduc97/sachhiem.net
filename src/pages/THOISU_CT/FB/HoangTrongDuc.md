@@ -3,7 +3,7 @@ layout: ../../../layouts/Article.astro
 title: "ĐỒNG KIẾN NGHỊ (Bản thảo công khai)"
 author: "Hoàng Trọng Đức"
 date: 2020-11-26
-source: "https://sachhiem.net/THOISU_CT/FB/HoangTrongDuc.php"
+source: "/THOISU_CT/FB/HoangTrongDuc"
 category: "Chính trị"
 lang: vi
 wordCount: 3480
@@ -57,16 +57,16 @@ image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/LICHSU/IMG/SACH/LSVN
 <p>   Để chuẩn bị quan sát hay tham dự một cuộc tranh luận hào hứng,  xin các bạn chịu khó đọc các tài liệu sau đây để có một số vốn lý luận hoặc ít  nhất để nghe, để hiểu, để nhận xét các bài báo, các bài tường trình các buổi  "hội thảo" bất cứ của ai tổ chức.</p>
 <p align="center"><img src="https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/LICHSU/IMG/PETRUSKY/petrusKy.jpg" width="250" height="320" alt=""></p>
 <p class="TuaDenLeft">KỲ I: Vài Tài Liệu Về Trương Vĩnh Ký, hay Pestrus Ký.</p>
-<p>   1- <a href="https://sachhiem.net/LICHSU/N/NguyenvThinh_LS02.php?fbclid=IwAR1tMYrM0YcyUQC7ZOiUM_e_2VFPSkpmpkiW3IAJMN3qyMYDKEM9iKISdFA" target="_blank">https://sachhiem.net/LICHSU/N/NguyenvThinh_LS02.php</a>[Về Con  Người Trương Vĩnh Ký] ... Tạp chí Văn nghệ Hàm Luông, số Xuân Bính Thân 2016  với bài “Xứ dừa – nơi sinh ra những con người huyền thoại” của tác giả Đinh Hữu  Quang đã đưa Phan Thanh Giản, Trương Vĩnh Ký sánh ngang tầm những tên tuổi ấy  là một việc làm lộn xòng lịch sử. Chuyện này xưa rồi nhưng lâu lâu lại rộ lên  theo dòng thời cuộc nên “người yêu sử” đành tra lại tích cũ trình với bà con  Bến Tre... </p>
-<p>   2- <a href="https://sachhiem.net/VANHOC/N/NguyenvThinh_14.php?fbclid=IwAR2hWfrcf0YyUArzkXJNMchU9RbOVReNsvbOaopTIW8-Cwx-gktytVMyKig" target="_blank">https://sachhiem.net/VANHOC/N/NguyenvThinh_14.php</a>[Trương Vĩnh  Ký Oan Nỗi Gì?] ... Tâm địa của nhà sử học đầy danh vọng này (ai vậy ta? đọc sẽ  biết) không phải đến bây giờ mới phơi bày ra. Khi các sử gia bậc thầy như: Đào  Duy Anh, Trần Huy Liệu, Trần Văn Giáp, Trần Văn Giàu, Văn Tân… đã thành người  thiên cổ và trong “tứ đại gia Lâm–Lê–Tấn–Vượng” nửa mất nửa còn thì người “lọt  sổ” mặc sức “múa gậy vườn hoang” </p>
-<p>   3- <a href="https://sachhiem.net/BUIKHA/BuiKha25b_TVK.php?fbclid=IwAR2XLCPdZibnicCIbMG0BixXRNU8OCdT5aayBYw0JTCDC6BR7KhnhIJZ2Do" target="_blank">https://sachhiem.net/BUIKHA/BuiKha25b_TVK.php</a>[Trương Vĩnh Ký  Phản Bội Tổ Quốc, Sao Lại Gọi Là Yêu Nước?] ....Mới đây, ông Trần Hữu Tá, trên  trang boxite có đăng bài, ngoài việc tâng bốc sai lầm Nguyễn Trường Tộ còn vinh  danh Trương Vĩnh Ký cẩu thả vô trách nhiệm, nên tôi có bài đối luận nầy để rộng  đường dư luận....</p>
+<p>   1- <a href="/LICHSU/N/NguyenvThinh_LS02.php?fbclid=IwAR1tMYrM0YcyUQC7ZOiUM_e_2VFPSkpmpkiW3IAJMN3qyMYDKEM9iKISdFA" target="_blank">https://sachhiem.net/LICHSU/N/NguyenvThinh_LS02.php</a>[Về Con  Người Trương Vĩnh Ký] ... Tạp chí Văn nghệ Hàm Luông, số Xuân Bính Thân 2016  với bài “Xứ dừa – nơi sinh ra những con người huyền thoại” của tác giả Đinh Hữu  Quang đã đưa Phan Thanh Giản, Trương Vĩnh Ký sánh ngang tầm những tên tuổi ấy  là một việc làm lộn xòng lịch sử. Chuyện này xưa rồi nhưng lâu lâu lại rộ lên  theo dòng thời cuộc nên “người yêu sử” đành tra lại tích cũ trình với bà con  Bến Tre... </p>
+<p>   2- <a href="/VANHOC/N/NguyenvThinh_14.php?fbclid=IwAR2hWfrcf0YyUArzkXJNMchU9RbOVReNsvbOaopTIW8-Cwx-gktytVMyKig" target="_blank">https://sachhiem.net/VANHOC/N/NguyenvThinh_14.php</a>[Trương Vĩnh  Ký Oan Nỗi Gì?] ... Tâm địa của nhà sử học đầy danh vọng này (ai vậy ta? đọc sẽ  biết) không phải đến bây giờ mới phơi bày ra. Khi các sử gia bậc thầy như: Đào  Duy Anh, Trần Huy Liệu, Trần Văn Giáp, Trần Văn Giàu, Văn Tân… đã thành người  thiên cổ và trong “tứ đại gia Lâm–Lê–Tấn–Vượng” nửa mất nửa còn thì người “lọt  sổ” mặc sức “múa gậy vườn hoang” </p>
+<p>   3- <a href="/BUIKHA/BuiKha25b_TVK.php?fbclid=IwAR2XLCPdZibnicCIbMG0BixXRNU8OCdT5aayBYw0JTCDC6BR7KhnhIJZ2Do" target="_blank">https://sachhiem.net/BUIKHA/BuiKha25b_TVK.php</a>[Trương Vĩnh Ký  Phản Bội Tổ Quốc, Sao Lại Gọi Là Yêu Nước?] ....Mới đây, ông Trần Hữu Tá, trên  trang boxite có đăng bài, ngoài việc tâng bốc sai lầm Nguyễn Trường Tộ còn vinh  danh Trương Vĩnh Ký cẩu thả vô trách nhiệm, nên tôi có bài đối luận nầy để rộng  đường dư luận....</p>
 <p>   4- <a href="https://hopluu.net/a3162/vai-tai-lieu-moi-ve-petrus-key-truong-vinh-ky-1837-1898-?fbclid=IwAR3Qa9DWe1jueWInEC5dOHOvpMvrYNpCVVVuEj39z-g57hqAMHHGHdKrsqE" target="_blank">https://hopluu.net/.../vai-tai-lieu-moi-ve-petrus-key...</a>[Vài  Tài Liệu Mới Về Petrus Key (Trương Vĩnh Ký) (1837-1898)] ...Hầu hết các tư liệu  Pháp đều công nhận Petrus Key là một “khai quốc công thần” của nền Bảo hộ Pháp,  không những tại Nam Kỳ, mà còn trong toàn cõi Đông Dương. Năm 1876, chẳng hạn,  Petrus Key làm một chuyến viễn du Bắc Kỳ, cung cấp tài liệu tại chỗ cho Thống đốc  Duperré mưu chiếm miền Bắc, nhưng kế hoạch này không được Paris chấp thuận. Năm  1886, “ẩn sĩ” Petrus Key ra Huế, làm trong Cơ Mật Viện để huấn luyện vua Nguyễn  Phước Biện (1885-1889), niên hiệu Đồng Khánh, biết đồng hóa quyền lợi bản thân  với quyền lợi Đại Pháp–tức tách biệt Bắc Kỳ ra khỏi ảnh hưởng Huế,....</p>
 <p class="nguonL">Nguồn I: https://www.facebook.com/LyThaiXuanSH/posts/1248464175487370</p>
  <p align="center"><img src="https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/LICHSU/IMG/NTT/NTT.jpg" width="130" height="109" alt=""></p>
  <p class="TuaDenLeft">KỲ II: Nhân Vật Nguyễn Trường Tộ:</p>
  
 <p>   Xin các bạn chịu khó đọc các tài liệu sau đây về một thày thông  ngôn khác: Nguyễn Trường Tộ.</p>
-<p>   1- <a href="https://sachhiem.net/TCN/TCNls/TCNls03_NTT.php?fbclid=IwAR0jBNvzt2vv4jvlLMV1jMVflwEKb7KBdSd3YHKRCvQHdqXYIqvxej6t6UQ" target="_blank">https://sachhiem.net/TCN/TCNls/TCNls03_NTT.php</a></p>
+<p>   1- <a href="/TCN/TCNls/TCNls03_NTT.php?fbclid=IwAR0jBNvzt2vv4jvlLMV1jMVflwEKb7KBdSd3YHKRCvQHdqXYIqvxej6t6UQ" target="_blank">https://sachhiem.net/TCN/TCNls/TCNls03_NTT.php</a></p>
 <p>   [Nguyễn Trường Tộ, Từ Huyền Thoại Đến Thực Chất]</p>
 <p>   …Nhưng thực chất những hiểu biết của ông như thế nào và những  hiểu biết đó đã giúp được nước những gì, những đề nghị canh tân của ông có đi  sát với thực tế không, có thể thi hành được hay không, và nếu thi hành thì có  lợi hay có hại cho đất nước, và những tư tưởng của ông có phải là mới mẻ, đặc  biệt hay không? Đó là những điểm chúng ta cần phân tích và thảo luận…..</p>
 <p>   2- <a href="https://l.facebook.com/l.php?u=https%3A%2F%2Fsachhiem.net%2FBUIKHA%2FBK_NTT.php%3Ffbclid%3DIwAR1sMhcAJTkrC9wFwpEXt_3TgDkiG8AcB7wd-DrDvvGNFJ8rTDnusByYWCs&amp;h=AT1TASjeHpICHIuZd057g7YJDTluVQzurwT1z5hvVIRKazPMP773hEaeIDg6N7VMIfgoAVJ-MtCIThX8qjYRFrRsMX8ln7RY-3P2LIl8JYQ5snrLB0GcUbSbtOqVw5VVXOag6xmcPXR1vtF2Ta0&amp;__tn__=-UK-y-R&amp;c%5b0%5d=AT3xmRaRf8MY-ay6onLG7kekiJCnllhh0hOQop9AlkizLpCyl8EqomcdTnc6ig-85boGbd41ciFxa0mBzDLtSTjAwaY9YOjFV0Sv_KTW37zmUeFrhv9R1bmR9rXEGOtDuenwkwP0pOpnd96ua3tW441KmL5qVF15thfH90DUYRT5ZRUudQ" target="_blank">https://sachhiem.net/BUIKHA/BK_NTT.php</a></p>
@@ -87,7 +87,7 @@ image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/LICHSU/IMG/SACH/LSVN
 <p>  “Bằng những sử liệu bất khả phủ bác, mà phần lớn là các tài liệu  mật, và của các linh mục giám mục, Nguyễn Kha và Trần Chung Ngọc đã cho thấy  bản chất thực của Nguyễn Trường Tộ qua các bản Điều trần mà hầu hết đều lạc  dẫn, không tưởng và chỉ có lợi cho ngoại bang mà thôi”….</p>
 <p>   4- <a href="https://l.facebook.com/l.php?u=http%3A%2F%2Fwww.gactholoc.com%2Fc9%2Ft9-196%2Fmuc-tu-nguyen-truong-to-trong-tu-dien-bach-khoa-viet-nam-can-phai-viet-lai.html%3Ffbclid%3DIwAR2WB7MNPsC3GoKZsYnFlGJi2QJ08_3emH2mixKZsK4DPfWjVE8bFJPledg&amp;h=AT0-uY7wnvlP6RL13ApFWz8itY6bfDSBkYha_eZVSvP4TyfVuietrZTXq2nHEW4IUjgPECNArRXafICdK563Gr2acb1FSxqY259rC_XTH13JeU0eG6lvt9n7NJRwAh851pfhdN0d5XfphBvzQzU&amp;__tn__=-UK-y-R&amp;c%5b0%5d=AT3xmRaRf8MY-ay6onLG7kekiJCnllhh0hOQop9AlkizLpCyl8EqomcdTnc6ig-85boGbd41ciFxa0mBzDLtSTjAwaY9YOjFV0Sv_KTW37zmUeFrhv9R1bmR9rXEGOtDuenwkwP0pOpnd96ua3tW441KmL5qVF15thfH90DUYRT5ZRUudQ" target="_blank">https://www.gactholoc.com/.../muc-tu-nguyen-truong-to...</a></p>
 <p>   [Những bài về Nguyễn Trường Tộ đăng trên trang Gác Thọ Lộc (Mục  từ "Nguyễn Trường Tộ" trong Từ Điển Bách Khoa Việt Nam cần phải viết  lại -Nguyễn Đắc Xuân)] </p>
- <p>5- <a href="https://sachhiem.net/LICHSU/L/LeCung06.php">https://sachhiem.net/LICHSU/L/LeCung06.php</a></p>
+ <p>5- <a href="/LICHSU/L/LeCung06">https://sachhiem.net/LICHSU/L/LeCung06.php</a></p>
  <p>[Qua “Thiên Hạ Đại Thế Luận”, Luận Về Lập Trường Chính Trị Của Nguyễn Trường Tộ]</p>
  <p> ...Với lập trường chính trị của Nguyễn Trường Tộ được thể hiện qua quan điểm và hành động như đã trình bày ở trên làm sao triều đình Tự Đức có thể tin dùng và chấp nhận được những điều trần của ông. Riêng ở mặt này, chúng tôi cho rằng triều đình Tự Đức tỏ ra còn rất sáng suốt.</p>
   <p class="nguonL">Nguồn II:  https://www.facebook.com/LyThaiXuanSH/posts/1248661942134260</p>
@@ -96,76 +96,76 @@ image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/LICHSU/IMG/SACH/LSVN
  <p>Kỳ 3 này, chúng ta ghi xuống đường link dẫn đến bảng liệt kê rất nhiều bài viết về một tên gián điệp biệt kích văn hóa người Pháp, đã bị triều đình Chúa Trịnh cũng như Chúa Nguyễn đuổi cổ 6 lần: Linh mục Alexandre De Rhodes. </p>
  <p align="center"><img src="https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/LICHSU/IMG/ALEX/ARHODES_X.jpg" width="250" height="362" alt=""></p>
  <p>Xin cung cấp một danh sách các bài liên hệ đến nhân vật này:</p>
-<p>   <a href="https://sachhiem.net/LICHSU/ListQUOCNGU.inc.php?fbclid=IwAR3W8AoKg_jnFjCaho0APsHc63DIKBm16b7q_E-_cQ9vseP8D_MD5hcxdzM" target="_blank">https://sachhiem.net/LICHSU/ListQUOCNGU.inc.php</a></p>
+<p>   <a href="/LICHSU/ListQUOCNGU.inc.php?fbclid=IwAR3W8AoKg_jnFjCaho0APsHc63DIKBm16b7q_E-_cQ9vseP8D_MD5hcxdzM" target="_blank">https://sachhiem.net/LICHSU/ListQUOCNGU.inc.php</a></p>
 <p>   Trong giai đoạn tới, bất cứ lúc nào, xin các bạn lựa một bài,  trích một đoạn ưng ý, phổ biến ra, hoặc đọc trên youtube để phổ biến các bài về  các nhân vật ...</p>
 <p>   - đã làm cho nước ta chịu bao nhiêu oan khiên dưới ách thống  trị ngoại bang, </p>
 <p>   - đã làm cho ta mất tên trên bản đồ thế giới,</p>
 <p>   - đã để lại cho chúng ta một bộ phận dân tộc vọng ngoại. Ăn ở  trên đất nhà mà ca ngợi nước ngoài, tôn vinh kẻ phục vụ giặc Pháp, phục vụ  Vatican:</p>
 <p>   Những vết thương này chưa hề làm da non vì có những kẻ tiếp nối đâm chọc vào.</p>
-<p>Đây là một số trong bảng danh sách các bài liên hệ trong việc lên tiếng đối với nhân vật này, theo đường link <a href="https://sachhiem.net/LICHSU/ListQUOCNGU.inc.php?fbclid=IwAR2kZ_94zMpKF3DPdz3_OJHP0xl_Rpmp9fWunhAjnBASx61227F_RIihHuY" target="_blank">https://sachhiem.net/LICHSU/ListQUOCNGU.inc.php</a></p>
+<p>Đây là một số trong bảng danh sách các bài liên hệ trong việc lên tiếng đối với nhân vật này, theo đường link <a href="/LICHSU/ListQUOCNGU.inc.php?fbclid=IwAR2kZ_94zMpKF3DPdz3_OJHP0xl_Rpmp9fWunhAjnBASx61227F_RIihHuY" target="_blank">https://sachhiem.net/LICHSU/ListQUOCNGU.inc.php</a></p>
 như sau:
- <p>﻿﻿﻿▪&nbsp;<a href="https://sachhiem.net/index.php?content=showrecipe&amp;id=7528">Mưu Đồ Chính Trị Của Alexandre De Rhodes và Vấn Đề Chữ Quốc Ngữ&nbsp;</a>-&nbsp;<i>Hoàng Văn Lân &amp; Đặng Huy Vận</i></p>
-<p> ▪&nbsp;<a href="https://sachhiem.net/index.php?content=showrecipe&amp;id=7503">Mưu Đồ Chính Trị Của Alexandre De Rhodes và Vấn Đề Chữ Quốc Ngữ&nbsp;</a>-&nbsp;<i>Hoàng Văn Lân &amp; Đặng Huy Vận</i></p>
-<p> ▪&nbsp;<a href="https://sachhiem.net/index.php?content=showrecipe&amp;id=7502">Nhận Thức Lịch Sử Cần Được Khẳng Định Về Linh Mục Dòng Tên Alexandre De Rhodes</a>&nbsp;-&nbsp;<i>GS Lê Cung</i></p>
-<p> ▪&nbsp;<a href="https://sachhiem.net/index.php?content=showrecipe&amp;id=7483">Linh Mục Alexandre De Rhodes bị trục xuất bao nhiêu lần?&nbsp;</a>-&nbsp;<i>Lý Thái Xuân</i></p>
-<p> ▪&nbsp;<a href="https://sachhiem.net/index.php?content=showrecipe&amp;id=7482">Vì Sao Đám Dân Chúa Việt Lại Chống Cộng Điên Cuồng&nbsp;</a>-&nbsp;<i>Thiên Lôi</i></p>
-<p> ▪&nbsp;<a href="https://sachhiem.net/index.php?content=showrecipe&amp;id=7448">Alexandre De Rhodes và Bảy Con Dê Tế Thần</a>&nbsp;-&nbsp;<i>Duyên Sinh</i></p>
-<p> ▪&nbsp;<a href="https://sachhiem.net/index.php?content=showrecipe&amp;id=7436">Phê Bình Người Khác “Tùy Tiện” Một Cách Tùy Tiện</a>&nbsp;-&nbsp;<i>Viên Như</i></p>
-<p> ▪&nbsp;<a href="https://sachhiem.net/index.php?content=showrecipe&amp;id=7432">Bia Công Thần Alexandre De Rhodes Do Pháp Dựng Tại Hà Nội Năm 1941</a>&nbsp;-&nbsp;<i>Viên Như</i></p>
-<p> ▪&nbsp;<a href="https://sachhiem.net/index.php?content=showrecipe&amp;id=7429">Chữ Quốc Ngữ - Cây Muốn Lặng Mà Gió Chẳng Dừng&nbsp;</a>-&nbsp;<i>Viên Như</i></p>
-<p> ▪&nbsp;<a href="https://sachhiem.net/index.php?content=showrecipe&amp;id=7428">Việt Nam Là Một Nước Có Văn Tự&nbsp;</a>-&nbsp;<i>Thích Thanh Thắng</i></p>
-<p> ▪&nbsp;<a href="https://sachhiem.net/index.php?content=showrecipe&amp;id=7423">Lối Rẽ Nào Sau Con Đường Alexandre de Rhodes ?</a>&nbsp;-&nbsp;<i>Trần Đại Sĩ</i></p>
-<p> ▪&nbsp;<a href="https://sachhiem.net/index.php?content=showrecipe&amp;id=7421">Thư gửi GS. Nguyễn Đăng Hưng “Nếu Nhầm Lẫn Thì Xin Lỗi và Im Lặng”</a>&nbsp;-&nbsp;<i>Nguyễn Đắc Xuân</i></p>
-<p> ▪&nbsp;<a href="https://sachhiem.net/index.php?content=showrecipe&amp;id=7419">ALEXANDRE DE RHODES - Trao Đổi Với Tác Giả Hoàng Hưng Vấn Đề Dịch Thuật&nbsp;</a>-&nbsp;<i>Bùi Kha</i></p>
-<p> ▪&nbsp;<a href="https://sachhiem.net/index.php?content=showrecipe&amp;id=7418">Địa vị nào cho Giáo Sĩ A.D. Rhodes - Hội Thảo năm 1993 và Chuyện Tái Vinh Danh Sai Lầm&nbsp;</a>-&nbsp;<i>Bùi Kha</i></p>
-<p> ▪&nbsp;<a href="https://sachhiem.net/index.php?content=showrecipe&amp;id=7417">Alexandre De Rhodes, Những Thao Tác Sai Lầm Để Tái Vinh Danh - Trao Đổi với Ô Nguyễn Đình Đầu</a>&nbsp;-&nbsp;<i>Bùi Kha</i></p>
-<p> ▪&nbsp;<a href="https://sachhiem.net/index.php?content=showrecipe&amp;id=7416">ALEXANDRE DE RHODES - Trao đổi với PGS. TS. Hà Đình Đức- Bia Tưởng Niệm?</a>&nbsp;-&nbsp;<i>Bùi Kha</i></p>
-<p> ▪&nbsp;<a href="https://sachhiem.net/index.php?content=showrecipe&amp;id=7415">ALEXANDRE DE RHODES - Quan Điểm Chính Trị - V/S Phạm Quang Tuấn, Nguyễn Tấn Hưng, Hòa Nguyễn</a>&nbsp;-&nbsp;<i>Bùi Kha</i></p>
-<p> ▪&nbsp;<a href="https://sachhiem.net/index.php?content=showrecipe&amp;id=7414">ALEXANDRE DE RHODES &amp; VẤN ĐỀ CHỮ QUỐC NGỮ&nbsp;</a>-&nbsp;<i>Bùi Kha</i></p>
-<p> ▪&nbsp;<a href="https://sachhiem.net/index.php?content=showrecipe&amp;id=7413">Lời Phê Dưới Video Về Một Con Đường</a>&nbsp;-&nbsp;<i>Vĩnh Long/ KKC Channel</i></p>
-<p> ▪&nbsp;<a href="https://sachhiem.net/index.php?content=showrecipe&amp;id=7412">Thư Ủng Hộ Bản Kiến Nghị của GS Lê Cung</a>&nbsp;-&nbsp;<i>TS Nguyễn Kiều Dung</i></p>
-<p> ▪&nbsp;<a href="https://sachhiem.net/index.php?content=showrecipe&amp;id=7411">SỰ GHI NHẬN VÀ LÒNG BIẾT ƠN</a>&nbsp;-&nbsp;<i>Viên Như</i></p>
-<p> ▪&nbsp;<a href="https://sachhiem.net/index.php?content=showrecipe&amp;id=7410">Vụ Đặt Tên Đường - Cái Gì Ở Đàng Sau?</a>&nbsp;-&nbsp;<i>Lý Thái Xuân</i></p>
-<p> ▪&nbsp;<a href="https://sachhiem.net/index.php?content=showrecipe&amp;id=7409">TIẾNG NÓI VÀ CHỮ VIẾT (Chung quanh tranh luận đặt tên đường cho giáo sĩ Alexandre de Rhodes)&nbsp;</a>-&nbsp;<i>Thích Thanh Thắng</i></p>
-<p> ▪&nbsp;<a href="https://sachhiem.net/index.php?content=showrecipe&amp;id=7408">Góp Ý Với “Đoan Hùng Tùy Bút” về Chữ Viết La Tinh</a>&nbsp;-&nbsp;<i>Trần Trọng Sỹ</i></p>
-<p> ▪&nbsp;<a href="https://sachhiem.net/index.php?content=showrecipe&amp;id=7407">Vì sao người dân phản đối đặt tên đường Alexandre de Rhodes?</a>&nbsp;-&nbsp;<i>Nguyên Phú</i></p>
-<p> ▪&nbsp;<a href="https://sachhiem.net/index.php?content=showrecipe&amp;id=7401">MẤT ĐI CHỮ NÔM LÀ MỘT THẢM HỌA!&nbsp;</a>-&nbsp;<i>Nguyễn Văn Thịnh</i></p>
-<p> ▪&nbsp;<a href="https://sachhiem.net/index.php?content=showrecipe&amp;id=7397">Ngày Thanksgiving, Nói Về Chuyện “Nhớ Ơn”</a>&nbsp;-&nbsp;<i>Lý Thái Xuân</i></p>
-<p> ▪&nbsp;<a href="https://sachhiem.net/index.php?content=showrecipe&amp;id=7387">V/V Đặt Tên Đường Ở TP Đà Nẵng - Thư Kiến Nghị Của Một Nhóm Trí Thức Trong Nước&nbsp;</a>-&nbsp;<i>Một nhóm trí thức trong nước</i></p>
-<p> ▪&nbsp;<a href="https://sachhiem.net/index.php?content=showrecipe&amp;id=7382">Thư hồi đáp GS Nguyễn Đăng Hưng V/V Tôn Vinh Alexandre De Rhodes</a>&nbsp;-&nbsp;<i>Tòa soạn SH</i></p>
-<p> ▪&nbsp;<a href="https://sachhiem.net/index.php?content=showrecipe&amp;id=7380">Linh Mục Đắc Lộ - Biện Chính Với Ông Nguyễn Đình Đầu</a>&nbsp;-&nbsp;<i>Bùi Kha</i></p>
-<p> ▪&nbsp;<a href="https://sachhiem.net/index.php?content=showrecipe&amp;id=7379">Alexandre de Rhodes không phải là người sáng tạo ra chữ Việt !</a>&nbsp;-&nbsp;<i>ANTG</i></p>
-<p> ▪&nbsp;<a href="https://sachhiem.net/index.php?content=showrecipe&amp;id=7378">“Tượng Đài Alexandre De Rhodes”: Ý kiến phản đối</a>&nbsp;-&nbsp;<i>phattuvietnam.net</i></p>
-<p> ▪&nbsp;<a href="https://sachhiem.net/index.php?content=showrecipe&amp;id=7377">“Tượng Đài Alexandre De Rhodes”: Ai Là Người Hô Biến ?</a>&nbsp;-&nbsp;<i>Trần Điều</i></p>
-<p> ▪&nbsp;<a href="https://sachhiem.net/index.php?content=showrecipe&amp;id=7376">Thư ngỏ gửi HĐND, UBND TP. Hà Nội và Hội KHLS VN về việc dựng tượng Alexandre Rhodes</a>&nbsp;-&nbsp;<i>Thích Thanh Thắng</i></p>
-<p> ▪&nbsp;<a href="https://sachhiem.net/index.php?content=showrecipe&amp;id=7375">Bác Ơi, Bây Giờ Người Ta Đòi ...Nhớ Ơn Giặc !</a>&nbsp;-&nbsp;<i>Cộng đồng Facebook</i></p>
-<p> ▪&nbsp;<a href="https://sachhiem.net/index.php?content=showrecipe&amp;id=7374">QUÊ HƯƠNG NGÀY TRỞ LẠI: Minh Mạng - Tự Đức - Nguyễn Trường Tộ - Trương Vĩnh Ký - Các giáo sĩ Pháp</a>&nbsp;-&nbsp;<i>Thụy Khuê</i></p>
-<p> ▪&nbsp;<a href="https://sachhiem.net/index.php?content=showrecipe&amp;id=7352">Những nhân vật đầu tiên trong tiến trình chữ quốc ngữ - Kỳ 1: Khởi đầu của chữ quốc ngữ</a>&nbsp;-&nbsp;<i>Trần Nhật Vy /Tuổi Trẻ</i></p>
-<p> ▪&nbsp;<a href="https://sachhiem.net/index.php?content=showrecipe&amp;id=7332">Đừng Nhân Danh Văn Hóa Lừa Thiên Hạ&nbsp;</a>-&nbsp;<i>Nguyễn Văn Thịnh</i></p>
-<p> ▪&nbsp;<a href="https://sachhiem.net/index.php?content=showrecipe&amp;id=7309">Cộng đồng mạng nổi giận về chuyện đòi "nhớ ơn" LM Alexandre De Rhodes - TÊN GIÁN ĐIỆP</a>&nbsp;-&nbsp;<i>SH ghi nhận từ Facebook</i></p>
-<p> ▪&nbsp;<a href="https://sachhiem.net/index.php?content=showrecipe&amp;id=6730">Tuyển Tập I: A. de Rhodes &amp; chữ Quốc ngữ, Trương Vĩnh Ký, Trần Lục và Ngô Đình Diệm&nbsp;</a>-&nbsp;<i>Bùi Kha</i></p>
-<p> ▪&nbsp;<a href="https://sachhiem.net/index.php?content=showrecipe&amp;id=6563">Một Vài Nhận Xét Về Bài Viết Của GS Nguyễn Lý Tưởng: TS Roland Jacques &amp; Quốc Ngữ&nbsp;</a>-&nbsp;<i>Nguyễn Mạnh Quang</i></p>
-<p> ▪&nbsp;<a href="https://sachhiem.net/index.php?content=showrecipe&amp;id=6533">Kế Hoạch Xâm Nhập Vào Đỉnh Cao Quyền Lực Vn Của Vatican</a>&nbsp;-&nbsp;<i>Võ Đông Cung /KBCHN</i></p>
-<p> ▪&nbsp;<a href="https://sachhiem.net/index.php?content=showrecipe&amp;id=6257">GS Trần Chung Ngọc - Nhân Ngày Tiểu Tường</a>&nbsp;-&nbsp;<i>Trần Trọng Sỹ</i></p>
-<p> ▪&nbsp;<a href="https://sachhiem.net/index.php?content=showrecipe&amp;id=6024">Alexandre De Rhodes, Những Nhầm Lẫn Đáng Tiếc</a>&nbsp;-&nbsp;<i>Bùi Kha</i></p>
-<p> ▪&nbsp;<a href="https://sachhiem.net/index.php?content=showrecipe&amp;id=6020">Lại Gạ Dựng Tượng Ông Đắc Lộ&nbsp;</a>-&nbsp;<i>Nguyễn Văn Thịnh</i></p>
-<p> ▪&nbsp;<a href="https://sachhiem.net/index.php?content=showrecipe&amp;id=5679">CÁC TU SĨ DÒNG TÊN&nbsp;</a>-&nbsp;<i>Charlie Nguyễn</i></p>
-<p> ▪&nbsp;<a href="https://sachhiem.net/index.php?content=showrecipe&amp;id=5647">Góp Ý Về Bài Của Ông Đặng Văn Việt Góp Ý Sửa Đổi Hiến Pháp</a>&nbsp;-&nbsp;<i>Nguyễn Mạnh Quang</i></p>
-<p> ▪&nbsp;<a href="https://sachhiem.net/index.php?content=showrecipe&amp;id=5611">Phản Biện Tác Giả Minh Vân Về Đắc Lộ &amp; Chữ Quốc Ngữ</a>&nbsp;-&nbsp;<i>Bùi Kha</i></p>
-<p> ▪&nbsp;<a href="https://sachhiem.net/index.php?content=showrecipe&amp;id=5609">Phải Làm Gì Đối Với Tình Trạng Vinh Danh Những Việt Gian?</a>&nbsp;-&nbsp;<i>Nguyễn Mạnh Quang</i></p>
-<p> ▪&nbsp;<a href="https://sachhiem.net/index.php?content=showrecipe&amp;id=5608">Bức Thư Gửi Nhóm Giao Điểm, Sách Hiếm (*)</a>&nbsp;-&nbsp;<i>Trần Charlie</i></p>
- <p>﻿﻿﻿▪&nbsp;<a href="https://sachhiem.net/index.php?content=showrecipe&amp;id=5603">Giáo Sĩ Dắc-Lộ &amp; Chữ Quốc Ngữ Của Minh Vân</a>&nbsp;-&nbsp;<i>Trần Chung Ngọc</i></p>
-<p> ▪&nbsp;<a href="https://sachhiem.net/index.php?content=showrecipe&amp;id=5239">Đừng bao giờ quên các Cha Cố buổi ban đầu&nbsp;</a>-&nbsp;<i>Hoàng Lộc</i></p>
-<p> ▪&nbsp;<a href="https://sachhiem.net/index.php?content=showrecipe&amp;id=5205">Chữ "Plusieurs Soldats" Thời A.D. Rhodes&nbsp;</a>-&nbsp;<i>Lý Đương Nhiên</i></p>
-<p> ▪&nbsp;<a href="https://sachhiem.net/index.php?content=showrecipe&amp;id=5204">Nguyễn Trường Tộ - Phản Biện Bài Viết Của GS. Đinh Xuân Lâm</a>&nbsp;-&nbsp;<i>Bùi Kha</i></p>
-<p> ▪&nbsp;<a href="https://sachhiem.net/index.php?content=showrecipe&amp;id=5086">Alexandre De Rhodes - Công và Tội</a>&nbsp;-&nbsp;<i>Bùi Kha</i></p>
-<p> ▪&nbsp;<a href="https://sachhiem.net/index.php?content=showrecipe&amp;id=5083">Linh Mục Đắc Lộ&nbsp;</a>-&nbsp;<i>Nguyễn Đình Đầu</i></p>
-<p> ▪&nbsp;<a href="https://sachhiem.net/index.php?content=showrecipe&amp;id=5076">Bài Phỏng Vấn Ông Bùi Kha của đài BBC LUÂN ĐÔN: Nguyễn Trường Tộ, Trương Vĩnh Ký Và A. De Rhodes&nbsp;</a>-&nbsp;<i>Bùi Kha</i></p>
-<p> ▪&nbsp;<a href="https://sachhiem.net/index.php?content=showrecipe&amp;id=1038">Di Hại Của “Nền Đạo Lý Thiên-La Đắc-Lộ”</a>&nbsp;-&nbsp;<i>Trần Chung Ngọc</i></p>
-<p> ▪&nbsp;<a href="https://sachhiem.net/index.php?content=showrecipe&amp;id=1016">Alexandre de Rhodes - Vấn Đề Tượng Trưng!</a>&nbsp;-&nbsp;<i>Minh Mẫn</i></p>
-<p> ▪&nbsp;<a href="https://sachhiem.net/index.php?content=showrecipe&amp;id=668">Vài nét về tiến trình của chữ Quốc ngữ&nbsp;</a>-&nbsp;<i>Trần Vân Hạc</i></p>
-<p> ▪&nbsp;<a href="https://sachhiem.net/index.php?content=showrecipe&amp;id=667">Gửi Người Tạc Tượng Alexandre De Rhodes&nbsp;</a>-&nbsp;<i>Vân Hạc</i></p>
-<p> ▪&nbsp;<a href="https://sachhiem.net/index.php?content=showrecipe&amp;id=650">“Đi tìm nguồn gốc chữ quốc ngữ”&nbsp;</a>-&nbsp;<i>GS-TS Phạm Văn Hường</i></p>
-<p> ▪&nbsp;<a href="https://sachhiem.net/index.php?content=showrecipe&amp;id=638">Quá trình hình thành chữ quốc ngữ&nbsp;</a>-&nbsp;<i>Phan Quang</i></p>
-<p> ▪&nbsp;<a href="https://sachhiem.net/index.php?content=showrecipe&amp;id=312">Di Hại Của “Nền Đạo Lý Thiên-La Đắc-Lộ”</a>&nbsp;-&nbsp;<i>Trần Chung Ngọc</i></p>
+ <p>﻿﻿﻿▪&nbsp;<a href="/LICHSU/L/LeCung03A">Mưu Đồ Chính Trị Của Alexandre De Rhodes và Vấn Đề Chữ Quốc Ngữ&nbsp;</a>-&nbsp;<i>Hoàng Văn Lân &amp; Đặng Huy Vận</i></p>
+<p> ▪&nbsp;<a href="/LICHSU/L/LeCung03A">Mưu Đồ Chính Trị Của Alexandre De Rhodes và Vấn Đề Chữ Quốc Ngữ&nbsp;</a>-&nbsp;<i>Hoàng Văn Lân &amp; Đặng Huy Vận</i></p>
+<p> ▪&nbsp;<a href="/LICHSU/L/LeCung03">Nhận Thức Lịch Sử Cần Được Khẳng Định Về Linh Mục Dòng Tên Alexandre De Rhodes</a>&nbsp;-&nbsp;<i>GS Lê Cung</i></p>
+<p> ▪&nbsp;<a href="/LTX/LyThaiTG28">Linh Mục Alexandre De Rhodes bị trục xuất bao nhiêu lần?&nbsp;</a>-&nbsp;<i>Lý Thái Xuân</i></p>
+<p> ▪&nbsp;<a href="/THLOI/CT/ThienLoi1">Vì Sao Đám Dân Chúa Việt Lại Chống Cộng Điên Cuồng&nbsp;</a>-&nbsp;<i>Thiên Lôi</i></p>
+<p> ▪&nbsp;<a href="/TONGIAO/tgD/Duyensinh23">Alexandre De Rhodes và Bảy Con Dê Tế Thần</a>&nbsp;-&nbsp;<i>Duyên Sinh</i></p>
+<p> ▪&nbsp;<a href="/VANHOC/V/VienNhu_ChuQN023_gsHgDg">Phê Bình Người Khác “Tùy Tiện” Một Cách Tùy Tiện</a>&nbsp;-&nbsp;<i>Viên Như</i></p>
+<p> ▪&nbsp;<a href="/VANHOC/V/VienNhu_ChuQN02_bia">Bia Công Thần Alexandre De Rhodes Do Pháp Dựng Tại Hà Nội Năm 1941</a>&nbsp;-&nbsp;<i>Viên Như</i></p>
+<p> ▪&nbsp;<a href="/VANHOC/V/VienNhu_ChuQN01">Chữ Quốc Ngữ - Cây Muốn Lặng Mà Gió Chẳng Dừng&nbsp;</a>-&nbsp;<i>Viên Như</i></p>
+<p> ▪&nbsp;<a href="/LICHSU/T/ThichThanhThang1">Việt Nam Là Một Nước Có Văn Tự&nbsp;</a>-&nbsp;<i>Thích Thanh Thắng</i></p>
+<p> ▪&nbsp;<a href="/DOITHOAI/NguoiPhatTu">Lối Rẽ Nào Sau Con Đường Alexandre de Rhodes ?</a>&nbsp;-&nbsp;<i>Trần Đại Sĩ</i></p>
+<p> ▪&nbsp;<a href="/NDX/NDX028_ADR">Thư gửi GS. Nguyễn Đăng Hưng “Nếu Nhầm Lẫn Thì Xin Lỗi và Im Lặng”</a>&nbsp;-&nbsp;<i>Nguyễn Đắc Xuân</i></p>
+<p> ▪&nbsp;<a href="/BUIKHA/BuiKha_Rhodes_1">ALEXANDRE DE RHODES - Trao Đổi Với Tác Giả Hoàng Hưng Vấn Đề Dịch Thuật&nbsp;</a>-&nbsp;<i>Bùi Kha</i></p>
+<p> ▪&nbsp;<a href="/BUIKHA/BuiKha_Rhodes_3">Địa vị nào cho Giáo Sĩ A.D. Rhodes - Hội Thảo năm 1993 và Chuyện Tái Vinh Danh Sai Lầm&nbsp;</a>-&nbsp;<i>Bùi Kha</i></p>
+<p> ▪&nbsp;<a href="/BUIKHA/BuiKha_Rhodes_5">Alexandre De Rhodes, Những Thao Tác Sai Lầm Để Tái Vinh Danh - Trao Đổi với Ô Nguyễn Đình Đầu</a>&nbsp;-&nbsp;<i>Bùi Kha</i></p>
+<p> ▪&nbsp;<a href="/BUIKHA/BuiKha_Rhodes_6">ALEXANDRE DE RHODES - Trao đổi với PGS. TS. Hà Đình Đức- Bia Tưởng Niệm?</a>&nbsp;-&nbsp;<i>Bùi Kha</i></p>
+<p> ▪&nbsp;<a href="/BUIKHA/BuiKha_Rhodes_7">ALEXANDRE DE RHODES - Quan Điểm Chính Trị - V/S Phạm Quang Tuấn, Nguyễn Tấn Hưng, Hòa Nguyễn</a>&nbsp;-&nbsp;<i>Bùi Kha</i></p>
+<p> ▪&nbsp;<a href="/BUIKHA/BuiKha_Rhodes_Main">ALEXANDRE DE RHODES &amp; VẤN ĐỀ CHỮ QUỐC NGỮ&nbsp;</a>-&nbsp;<i>Bùi Kha</i></p>
+<p> ▪&nbsp;<a href="/LICHSU/V/VinhLong_Rhodes">Lời Phê Dưới Video Về Một Con Đường</a>&nbsp;-&nbsp;<i>Vĩnh Long/ KKC Channel</i></p>
+<p> ▪&nbsp;<a href="/THOISU_CT/ChuN/NguyenKieuDung03">Thư Ủng Hộ Bản Kiến Nghị của GS Lê Cung</a>&nbsp;-&nbsp;<i>TS Nguyễn Kiều Dung</i></p>
+<p> ▪&nbsp;<a href="/VANHOC/V/VienNhu_ChuQN">SỰ GHI NHẬN VÀ LÒNG BIẾT ƠN</a>&nbsp;-&nbsp;<i>Viên Như</i></p>
+<p> ▪&nbsp;<a href="/LTX/LyThaiDT03">Vụ Đặt Tên Đường - Cái Gì Ở Đàng Sau?</a>&nbsp;-&nbsp;<i>Lý Thái Xuân</i></p>
+<p> ▪&nbsp;<a href="/TONGIAO/tgTH/ThThanhThang02">TIẾNG NÓI VÀ CHỮ VIẾT (Chung quanh tranh luận đặt tên đường cho giáo sĩ Alexandre de Rhodes)&nbsp;</a>-&nbsp;<i>Thích Thanh Thắng</i></p>
+<p> ▪&nbsp;<a href="/TTS/VH/TranTrongSy_vh8">Góp Ý Với “Đoan Hùng Tùy Bút” về Chữ Viết La Tinh</a>&nbsp;-&nbsp;<i>Trần Trọng Sỹ</i></p>
+<p> ▪&nbsp;<a href="/TONGIAO/tgN/NguyenPhu">Vì sao người dân phản đối đặt tên đường Alexandre de Rhodes?</a>&nbsp;-&nbsp;<i>Nguyên Phú</i></p>
+<p> ▪&nbsp;<a href="/NGVTHINH/NguyenvThinh_29">MẤT ĐI CHỮ NÔM LÀ MỘT THẢM HỌA!&nbsp;</a>-&nbsp;<i>Nguyễn Văn Thịnh</i></p>
+<p> ▪&nbsp;<a href="/LTX/LyThaiXH39">Ngày Thanksgiving, Nói Về Chuyện “Nhớ Ơn”</a>&nbsp;-&nbsp;<i>Lý Thái Xuân</i></p>
+<p> ▪&nbsp;<a href="/DOITHOAI/Rhodes">V/V Đặt Tên Đường Ở TP Đà Nẵng - Thư Kiến Nghị Của Một Nhóm Trí Thức Trong Nước&nbsp;</a>-&nbsp;<i>Một nhóm trí thức trong nước</i></p>
+<p> ▪&nbsp;<a href="/LTX/LyThaiDT04">Thư hồi đáp GS Nguyễn Đăng Hưng V/V Tôn Vinh Alexandre De Rhodes</a>&nbsp;-&nbsp;<i>Tòa soạn SH</i></p>
+<p> ▪&nbsp;<a href="/BUIKHA/BuiKha2">Linh Mục Đắc Lộ - Biện Chính Với Ông Nguyễn Đình Đầu</a>&nbsp;-&nbsp;<i>Bùi Kha</i></p>
+<p> ▪&nbsp;<a href="/VANHOC/TinANTG">Alexandre de Rhodes không phải là người sáng tạo ra chữ Việt !</a>&nbsp;-&nbsp;<i>ANTG</i></p>
+<p> ▪&nbsp;<a href="/LICHSU/T/TuongRhodes">“Tượng Đài Alexandre De Rhodes”: Ý kiến phản đối</a>&nbsp;-&nbsp;<i>phattuvietnam.net</i></p>
+<p> ▪&nbsp;<a href="/LICHSU/TR/TranDieu">“Tượng Đài Alexandre De Rhodes”: Ai Là Người Hô Biến ?</a>&nbsp;-&nbsp;<i>Trần Điều</i></p>
+<p> ▪&nbsp;<a href="/LICHSU/T/ThichThanhThang">Thư ngỏ gửi HĐND, UBND TP. Hà Nội và Hội KHLS VN về việc dựng tượng Alexandre Rhodes</a>&nbsp;-&nbsp;<i>Thích Thanh Thắng</i></p>
+<p> ▪&nbsp;<a href="/TONGIAO/tgS/SH86">Bác Ơi, Bây Giờ Người Ta Đòi ...Nhớ Ơn Giặc !</a>&nbsp;-&nbsp;<i>Cộng đồng Facebook</i></p>
+<p> ▪&nbsp;<a href="/LICHSU/N/Namgiao_08">QUÊ HƯƠNG NGÀY TRỞ LẠI: Minh Mạng - Tự Đức - Nguyễn Trường Tộ - Trương Vĩnh Ký - Các giáo sĩ Pháp</a>&nbsp;-&nbsp;<i>Thụy Khuê</i></p>
+<p> ▪&nbsp;<a href="/LICHSU/T/TuoiTre_TranNhatVy">Những nhân vật đầu tiên trong tiến trình chữ quốc ngữ - Kỳ 1: Khởi đầu của chữ quốc ngữ</a>&nbsp;-&nbsp;<i>Trần Nhật Vy /Tuổi Trẻ</i></p>
+<p> ▪&nbsp;<a href="/NGVTHINH/NguyenvThinh_28">Đừng Nhân Danh Văn Hóa Lừa Thiên Hạ&nbsp;</a>-&nbsp;<i>Nguyễn Văn Thịnh</i></p>
+<p> ▪&nbsp;<a href="/TONGIAO/tgS/SH83">Cộng đồng mạng nổi giận về chuyện đòi "nhớ ơn" LM Alexandre De Rhodes - TÊN GIÁN ĐIỆP</a>&nbsp;-&nbsp;<i>SH ghi nhận từ Facebook</i></p>
+<p> ▪&nbsp;<a href="/BUIKHA/BuiKha30">Tuyển Tập I: A. de Rhodes &amp; chữ Quốc ngữ, Trương Vĩnh Ký, Trần Lục và Ngô Đình Diệm&nbsp;</a>-&nbsp;<i>Bùi Kha</i></p>
+<p> ▪&nbsp;<a href="/NMQ/NMQ61">Một Vài Nhận Xét Về Bài Viết Của GS Nguyễn Lý Tưởng: TS Roland Jacques &amp; Quốc Ngữ&nbsp;</a>-&nbsp;<i>Nguyễn Mạnh Quang</i></p>
+<p> ▪&nbsp;<a href="/LICHSU/K/KBCHN_VDC">Kế Hoạch Xâm Nhập Vào Đỉnh Cao Quyền Lực Vn Của Vatican</a>&nbsp;-&nbsp;<i>Võ Đông Cung /KBCHN</i></p>
+<p> ▪&nbsp;<a href="/TTS/VH/TranTrongSy_vh2">GS Trần Chung Ngọc - Nhân Ngày Tiểu Tường</a>&nbsp;-&nbsp;<i>Trần Trọng Sỹ</i></p>
+<p> ▪&nbsp;<a href="/BUIKHA/BuiKha27_Alex">Alexandre De Rhodes, Những Nhầm Lẫn Đáng Tiếc</a>&nbsp;-&nbsp;<i>Bùi Kha</i></p>
+<p> ▪&nbsp;<a href="/NGVTHINH/NguyenvThinh_00">Lại Gạ Dựng Tượng Ông Đắc Lộ&nbsp;</a>-&nbsp;<i>Nguyễn Văn Thịnh</i></p>
+<p> ▪&nbsp;<a href="/CHARLIE/CN_CGHT/dongten">CÁC TU SĨ DÒNG TÊN&nbsp;</a>-&nbsp;<i>Charlie Nguyễn</i></p>
+<p> ▪&nbsp;<a href="/NMQ/NMQ041">Góp Ý Về Bài Của Ông Đặng Văn Việt Góp Ý Sửa Đổi Hiến Pháp</a>&nbsp;-&nbsp;<i>Nguyễn Mạnh Quang</i></p>
+<p> ▪&nbsp;<a href="/BUIKHA/BuiKha25">Phản Biện Tác Giả Minh Vân Về Đắc Lộ &amp; Chữ Quốc Ngữ</a>&nbsp;-&nbsp;<i>Bùi Kha</i></p>
+<p> ▪&nbsp;<a href="/NMQ/NMQ040">Phải Làm Gì Đối Với Tình Trạng Vinh Danh Những Việt Gian?</a>&nbsp;-&nbsp;<i>Nguyễn Mạnh Quang</i></p>
+<p> ▪&nbsp;<a href="/THOISU_CT/ChuTr/TranCharlie">Bức Thư Gửi Nhóm Giao Điểm, Sách Hiếm (*)</a>&nbsp;-&nbsp;<i>Trần Charlie</i></p>
+ <p>﻿﻿﻿▪&nbsp;<a href="/TCN/TCNdt/TCNdt070">Giáo Sĩ Dắc-Lộ &amp; Chữ Quốc Ngữ Của Minh Vân</a>&nbsp;-&nbsp;<i>Trần Chung Ngọc</i></p>
+<p> ▪&nbsp;<a href="/TONGIAO/tgC/Cahat00">Đừng bao giờ quên các Cha Cố buổi ban đầu&nbsp;</a>-&nbsp;<i>Hoàng Lộc</i></p>
+<p> ▪&nbsp;<a href="/LICHSU/L/LyDuongNhien1">Chữ "Plusieurs Soldats" Thời A.D. Rhodes&nbsp;</a>-&nbsp;<i>Lý Đương Nhiên</i></p>
+<p> ▪&nbsp;<a href="/BUIKHA/BuiKha20">Nguyễn Trường Tộ - Phản Biện Bài Viết Của GS. Đinh Xuân Lâm</a>&nbsp;-&nbsp;<i>Bùi Kha</i></p>
+<p> ▪&nbsp;<a href="/BUIKHA/BuiKha5">Alexandre De Rhodes - Công và Tội</a>&nbsp;-&nbsp;<i>Bùi Kha</i></p>
+<p> ▪&nbsp;<a href="/BUIKHA/BuiKha3">Linh Mục Đắc Lộ&nbsp;</a>-&nbsp;<i>Nguyễn Đình Đầu</i></p>
+<p> ▪&nbsp;<a href="/BUIKHA/BuiKha02a">Bài Phỏng Vấn Ông Bùi Kha của đài BBC LUÂN ĐÔN: Nguyễn Trường Tộ, Trương Vĩnh Ký Và A. De Rhodes&nbsp;</a>-&nbsp;<i>Bùi Kha</i></p>
+<p> ▪&nbsp;<a href="/TCN/TCNls/TCNls09">Di Hại Của “Nền Đạo Lý Thiên-La Đắc-Lộ”</a>&nbsp;-&nbsp;<i>Trần Chung Ngọc</i></p>
+<p> ▪&nbsp;<a href="/MINHMAN/Chinhtri/Minhman16">Alexandre de Rhodes - Vấn Đề Tượng Trưng!</a>&nbsp;-&nbsp;<i>Minh Mẫn</i></p>
+<p> ▪&nbsp;<a href="/VANHOC/TVHAC/Vanhac04">Vài nét về tiến trình của chữ Quốc ngữ&nbsp;</a>-&nbsp;<i>Trần Vân Hạc</i></p>
+<p> ▪&nbsp;<a href="/VANHOC/TVHAC/Vanhac01">Gửi Người Tạc Tượng Alexandre De Rhodes&nbsp;</a>-&nbsp;<i>Vân Hạc</i></p>
+<p> ▪&nbsp;<a href="/VANHOC/PhamVHuong">“Đi tìm nguồn gốc chữ quốc ngữ”&nbsp;</a>-&nbsp;<i>GS-TS Phạm Văn Hường</i></p>
+<p> ▪&nbsp;<a href="/VANHOC/PhanQuang">Quá trình hình thành chữ quốc ngữ&nbsp;</a>-&nbsp;<i>Phan Quang</i></p>
+<p> ▪&nbsp;<a href="/TCN/TCNtg/TCN50">Di Hại Của “Nền Đạo Lý Thiên-La Đắc-Lộ”</a>&nbsp;-&nbsp;<i>Trần Chung Ngọc</i></p>
 <p class="nguonL">Nguồn III: https://www.facebook.com/LyThaiXuanSH/posts/1248703552130099  </p>

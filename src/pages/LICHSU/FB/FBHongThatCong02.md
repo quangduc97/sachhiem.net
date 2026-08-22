@@ -3,7 +3,7 @@ layout: ../../../layouts/Article.astro
 title: "Tình Báo Vatican Xâm Nhập, Kiểm Soát Phá Hoại Nước Ta từ bao giờ ?"
 author: "FB Hồng Thất Công"
 date: 2026-01-11
-source: "https://sachhiem.net/LICHSU/FB/FBHongThatCong02.php"
+source: "/LICHSU/FB/FBHongThatCong02"
 category: "Lịch sử"
 lang: vi
 wordCount: 2391

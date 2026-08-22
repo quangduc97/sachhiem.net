@@ -3,7 +3,7 @@ layout: ../../../layouts/Article.astro
 title: "So Sánh Với Quốc Ca Mỹ Để Biến Tấu Quốc Ca Việt Nam Là Một Sự Bao Biện Của Những Tư Tưởng Nô Lệ"
 author: "Nguyễn Minh Tâm"
 date: 2016-05-31
-source: "https://sachhiem.net/THOISU_CT/ChuP/PhanHDuy_02.php"
+source: "/THOISU_CT/ChuP/PhanHDuy_02"
 category: "Chính trị"
 lang: vi
 wordCount: 1282

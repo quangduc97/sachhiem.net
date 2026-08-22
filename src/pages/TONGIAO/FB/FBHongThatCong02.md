@@ -3,7 +3,7 @@ layout: ../../../layouts/Article.astro
 title: "Sai Lầm Chí Mạng của Ba Lan"
 author: "FB Hồng Thất Công"
 date: 2025-07-03
-source: "https://sachhiem.net/TONGIAO/FB/FBHongThatCong02.php"
+source: "/TONGIAO/FB/FBHongThatCong02"
 category: "Chính trị"
 lang: vi
 wordCount: 684

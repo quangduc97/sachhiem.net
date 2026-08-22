@@ -3,7 +3,7 @@ layout: ../../../layouts/Article.astro
 title: "Mừng Và Lo Về Nghị Quyết Của UBTVQH Về Soạn Sách Giáo Khoa"
 author: "Đông La"
 date: 2023-09-24
-source: "https://sachhiem.net/LICHSU/D/DongLa.php"
+source: "/LICHSU/D/DongLa"
 category: "Chính trị"
 lang: vi
 wordCount: 3121

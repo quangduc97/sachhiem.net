@@ -2,22 +2,21 @@
 layout: ../../../layouts/Article.astro
 title: "Thích Chân Tuệ - Ba Bước Để Vinh Danh Chúa!"
 author: "Trần Quang Diệu"
-source: "https://sachhiem.net/LICHSU/TR/TQD33_phtq.php"
+source: "/LICHSU/TR/TQD33_phtq"
 category: "Email"
 lang: vi
 wordCount: 1518
-image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nha.jpg"
+image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/TONGIAO/IMG/SU/ThichChanTue.jpg"
 ---
 
-<p align="center"><a href="https://sachhiem.net/index.php"><img hspace="20" border="0" src="https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nha.jpg"></a> </p>
-     <p><i>LTS: Đó là tựa của sachhiem.net. Cụm từ "Vinh Danh Thiên Chúa" gây phản cảm đối với những người biết nó đã là nguồn cảm hứng cho thế giới lao lung trong vòng chiến tranh vô tận, nhưng một số nhà sư lại không hề hay biết. Trước đây, với nick "Cư trần lạc đạo", thầy Thích Chân Tuệ có gửi đến sachhiem.net những bài viết có vẻ thoát tục, chống mê tín,   của Phật Học Tinh Quang. Điều đó rất hợp với chủ trương của sachhiem.net nên đã được đăng (<a href="https://sachhiem.net/index.php?content=showrecipe&amp;id=722)">Thư Ngỏ
+<p><i>LTS: Đó là tựa của sachhiem.net. Cụm từ "Vinh Danh Thiên Chúa" gây phản cảm đối với những người biết nó đã là nguồn cảm hứng cho thế giới lao lung trong vòng chiến tranh vô tận, nhưng một số nhà sư lại không hề hay biết. Trước đây, với nick "Cư trần lạc đạo", thầy Thích Chân Tuệ có gửi đến sachhiem.net những bài viết có vẻ thoát tục, chống mê tín,   của Phật Học Tinh Quang. Điều đó rất hợp với chủ trương của sachhiem.net nên đã được đăng (<a href="/TONGIAO/tgP/PHTQ00">Thư Ngỏ
 BBT Phật Học Tịnh Quang Canada)</a> một cách trân trọng. </i></p>
      <p><i>Sau đó một thời gian, trên diễn đàn Thầy Chân Tuệ bỗng  (xem một vài email liên hệ ở dưới bài), &nbsp;mạ lị các chư tăng với những lời lẽ mà chúng tôi  không thể đăng, “Văn Phòng Phật Học Tịnh Quang” với Tỳ Khưu Thích Chân Tuệ gần đây  đã có nhiều bài “kêu gọi” đừng xây chùa, đừng đem cốt đến chùa,.... tóm lại tất  cả những hoạt động dù là các hoạt động  lành mạnh giúp đỡ mặt kinh tế để phát triển đạo Phật. </i></p>
      <p class="PicLeft"><img src="https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/TONGIAO/IMG/SU/ThichChanTue.jpg" width="143" height="141"></p>
      <p><i>Ngay lập tức ông được vài vị Ca-tô tâng bốc lên tận mây xanh. Để được  xứng đáng với những lời ca ngợi của Ca-tô, Tỳ Khưu Thích Chân Tuệ mới đây tiến  lên “Vinh Danh Thiên Chúa” và bảo mọi người “Không cần thờ bất cứ Phật nào, Bồ Tát  nào, chỉ cần sống đúng theo tinh thần bát chánh đạo”! </i></p>
      <p><i>Quả là nổi cộm! Bước Thứ Nhất: Chửi Tăng, Bước Thứ Hai: Không Thờ Phật, Bước Thứ Ba: Vinh Danh Chúa! ... để thực hành "Bát Chánh Đạo! </i></p>
      <p><i>Nhưng làm sao biết Bát Chánh Đạo là gì nếu không được học ở các vị sư Phật giáo, dù là qua sách vỡ, và làm sao gặp các vị sư nếu không có chùa? Thì ra, ông chỉ muốn người ta học Bát Chánh Đạo do ông dạy trên các bài báo của ông mà thôi.</i></p>
-     <p><i> Chắc  chắn  Phật tử sẽ ùn ùn cải đạo để Vinh Danh Thiên Chúa! Cá nhân Tỳ  Khưu Thích Chân Tuệ có cảm thấy thành công trở thành đồ đệ của <a href="https://sachhiem.net/index.php?content=showrecipe&amp;id=5106">Alexandre De Rhodes (chửi Phật để vinh danh Chúa)</a> của Ca-tô Rô-ma giáo chưa? </i> (SH)</p>
+     <p><i> Chắc  chắn  Phật tử sẽ ùn ùn cải đạo để Vinh Danh Thiên Chúa! Cá nhân Tỳ  Khưu Thích Chân Tuệ có cảm thấy thành công trở thành đồ đệ của <a href="/TTL/TranTL13">Alexandre De Rhodes (chửi Phật để vinh danh Chúa)</a> của Ca-tô Rô-ma giáo chưa? </i> (SH)</p>
  
      <hr>
      <p><i>Subject:  Fwd: VINH DANH THIÊN CHÚA TRÊN TRỜI - BÌNH AN DƯỚI THẾ CHO NGƯỜI THIỆN TÂM - ...<br>
@@ -93,9 +92,9 @@ BÌNH AN DƯỚI THẾ CHO NGƯỜI THIỆN TÂM</b></p>
 <p> Tel.:&nbsp;647-828-1016 <br>Email:&nbsp;<a href="mailto:cutranlacdao@yahoo.com" target="_blank">cutranlacdao@yahoo.com</a></p><hr>
 
     <p><b>Vài email liên hệ:</b></p>
-     <p><a href="https://sachhiem.net/index.php?content=showemail&amp;id=401">- Điện thư Trần tình và Cảnh cáo</a> (TQD)</p>
-     <p><a href="https://sachhiem.net/index.php?content=showemail&amp;id=424">- Tố Cáo những kẻ vu khống, mạ lị, phỉ báng đối với hai nhà sư Thích Nhật Tân và Thích Nguyên Tạng</a> (TQD)</p>
-<p>- <a href="https://sachhiem.net/index.php?content=showemail&amp;id=427">Một sự xác minh lẽ ra cần công bố hơn 3 tháng trước</a> (Đỗ Thuấn)</p>
+     <p><a href="/hop-thu/401">- Điện thư Trần tình và Cảnh cáo</a> (TQD)</p>
+     <p><a href="/hop-thu/424">- Tố Cáo những kẻ vu khống, mạ lị, phỉ báng đối với hai nhà sư Thích Nhật Tân và Thích Nguyên Tạng</a> (TQD)</p>
+<p>- Một sự xác minh lẽ ra cần công bố hơn 3 tháng trước (Đỗ Thuấn)</p>
 
      <a href="/indexDT" target="_blank">
      <p class="trang">Trang Đối Thoại</p>

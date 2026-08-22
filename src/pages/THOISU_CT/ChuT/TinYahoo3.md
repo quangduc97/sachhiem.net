@@ -2,7 +2,7 @@
 layout: ../../../layouts/Article.astro
 title: "Dân Biểu Giffords của Bang Arizona bị mưu sát,"
 author: "(theo Associated Press)"
-source: "https://sachhiem.net/null"
+source: "/null"
 category: "Tác giả"
 lang: vi
 wordCount: 403

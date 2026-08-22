@@ -3,7 +3,7 @@ layout: ../../../layouts/Article.astro
 title: "Nhật Ký Biển Đông:"
 author: "Đào Văn Bình"
 date: 2016-07-01
-source: "https://sachhiem.net/DAOVB/CT/DaovBinh67.php"
+source: "/DAOVB/CT/DaovBinh67"
 category: "Chính trị"
 lang: vi
 wordCount: 6929
@@ -16,7 +16,7 @@ image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/THOISU_CT/Hinh/YEMEN
 <div class="tomluoc">
   <p><i> ... Theo Reuters ngày 13/7/2016, “Một vài viên chức trong bộ tham mưu của Hoa Kỳ tiết lộ rằng Hoa Kỳ đang dùng đường lối ngoại giao âm thầm để thuyết phục Phi Luật Tân, Nam Dương, Việt Nam và các quốc gia Đông Nam Á khác đừng có phản ứng mạnh bạo, lợi dụng phán quyết của tòa án quốc tế phủ quyết tuyên bố chủ quyền tại Biển Đông."  </i> (ĐVB)</p>
 </div>
- <p><b>Cuộc tranh cử tổng thống Mỹ tiến vào giai đoạn mới.</b> Xin đọc <a href="https://sachhiem.net/index.php?content=showemail&amp;id=1638">https://sachhiem.net/ mục Ý Kiến Ngắn.</a></p>
+ <p><b>Cuộc tranh cử tổng thống Mỹ tiến vào giai đoạn mới.</b> Xin đọc <a href="/hop-thu/1638">https://sachhiem.net/ mục Ý Kiến Ngắn.</a></p>
  <p><span class="First">N</span>hật Ký Biển Đông  hai tuần đầu Tháng Bảy ghi nhận những biến  chuyển quan trọng như sau:</p>
 <div class="danbai"><p><b>Gồm các mục:</b></p>
 <p><a name="tit1" href="/DAOVB/#n1">A. Tình hình thế giới </a></p>

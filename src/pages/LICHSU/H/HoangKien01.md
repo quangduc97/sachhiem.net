@@ -3,7 +3,7 @@ layout: ../../../layouts/Article.astro
 title: "Đảo Nam Yết"
 author: "Hoàng Kiền"
 date: 2022-08-10
-source: "https://sachhiem.net/LICHSU/H/HoangKien01.php"
+source: "/LICHSU/H/HoangKien01"
 category: "Chính trị"
 lang: vi
 wordCount: 4099
@@ -11,7 +11,7 @@ image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/LICHSU/IMG/NHANVAT/H
 ---
 
 <div class="tomluoc">
-   <p><i><a href="https://sachhiem.net/LICHSU/H/HoangKien.php">Xem đôi dòng về tác giả</a> (SH)</i></p>
+   <p><i><a href="/LICHSU/H/HoangKien">Xem đôi dòng về tác giả</a> (SH)</i></p>
    <p><i>... Sau vụ việc tầu đối phương uy hiếp đảo Nam Yết, cán bộ quân báo của Vùng 4 đã ra nằm tại đảo theo dõi tình hình và báo cáo về chỉ huy vùng là Trung đoàn 83 đưa dân ra đảo xây dựng</i>..</p>
  </div>
 <p align="center"><img src="https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/LICHSU/IMG/NHANVAT/HoangKien_ThieutuongCB.jpg" width="400" height="300" alt=""></p>

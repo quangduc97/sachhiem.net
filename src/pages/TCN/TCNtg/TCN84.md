@@ -2,17 +2,17 @@
 layout: ../../../layouts/Article.astro
 title: "Kể Chuyện Thánh Kinh: Cha Truyền Con Nối (Trần Chung Ngọc)"
 author: "Trần Chung Ngọc"
-source: "https://sachhiem.net/TCN/TCNtg/TCN84.php"
+source: "/TCN/TCNtg/TCN84"
 lang: vi
 wordCount: 8311
-image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nha.jpg"
+image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/TCN/TCNtg/IMG/TCN84/Abraha1.gif"
 ---
 
 <p class="Tuaduoi">Nhân Dịp Năm Thánh Của Công Giáo Việt Nam</p>
 			<p class="Tuaduoi">Kể Chuyện Thánh Kinh: <font color="#800000">CHA TRUYỀN CON NỐI</font></p>
 		
 
-<p align="center"> <a href="/index"><img border="0" src="https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nha.jpg" align="middle" hspace="20"></a>01 tháng 12,  2009</p>
+<p align="center"> 01 tháng 12,  2009</p>
 	<p> <b><font size="5" face="Times New Roman">H</font></b>ơn 10 năm trước đây, Charlie Nguyễn, alias Bùi Văn Chấn, có viết bài
 	<i><u>Abraham: Ông Tổ Của Các Đạo Chúa</u>.</i> Bài này đăng trong tờ <i>
 	Đông Dương Thời Báo,</i> số 70, tháng 8, 1998, và sau đó có trên Trang Nhà 

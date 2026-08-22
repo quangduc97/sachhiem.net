@@ -2,17 +2,17 @@
 layout: ../../../layouts/Article.astro
 title: "Gặp lại bác sĩ Erich Wulff,"
 author: "Nguyễn Xuân Xanh - Ngọc Thiện"
-source: "https://sachhiem.net/XAHOI/xhN/NgXnXanh.php"
+source: "/XAHOI/xhN/NgXnXanh"
 category: "Chính trị"
 lang: vi
 wordCount: 5052
-image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nha.jpg"
+image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/TONGIAO/IMG/PHAPNAN/ErichWulff_banbe.jpg"
 ---
 
 <p class="Tuaduoi">một ân nhân của Việt Nam </p>
 
 
-<p align="center"><a href="https://www.sachhiem.net/"> <img border="0" src="https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nha.jpg"></a> 22 tháng 6, 2008</p>
+<p align="center"> 22 tháng 6, 2008</p>
 <p><span class="green">1.  </span></p>
 <p><span class="TacgiaL">Bài của Nguyễn Xuân Xanh</span></p>
 <p><span class="First">Ở</span> CHLB Đức, những năm sôi động  biểu tình chống chiến tranh của Mỹ tại VN, người ta  không thể quên được một khuôn mặt hao hao gầy, đầy vẻ  nhân hậu, đôi mắt tỏa sáng và một giọng nói rất nhiệt  tình, có sức thuyết phục. Đó là bác sĩ khoa tâm thần học  Erich Wulff. </p>
@@ -122,9 +122,9 @@ với sự hỗ trợ phiên dịch của GS. Thái Kim Lan</i></p>
 
 <hr>
 <p><b>Mời đọc thêm: </b></p>
-<p>1- <a href="https://sachhiem.net/LICHSU/E/Erichwulff.php">Hồi ký của Bác sĩ E. Wulff về Pháp nạn 1963: bài một </a></p>
-<p>2-  <a href="https://sachhiem.net/LICHSU/E/Erichwulff.php">Hồi ký của Bác sĩ E. Wulff: bài hai - Đêm Phật Đản 8/5/1963</a></p>
-<p>3-   <a href="https://sachhiem.net/LICHSU/E/Erichwulff.php">Hồi ký của Bác sĩ E. Wulff: bài ba - Tuyệt Thực - tháng 5/1963</a></p>
-<p>4- <a href="https://sachhiem.net/LICHSU/E/Erichwulff.php">Hồi ký của Bác sĩ E. Wulff: bài bốn -  Tường trình tại Liên Hiệp Quốc  (9/196 3)</a></p>
-<p>5- <a href="https://sachhiem.net/LICHSU/E/Erichwulff.php">Hồi ký của Bác sĩ E. Wulff: bài chót -  Chuyến trở lại Việt Nam 1964 </a></p>
+<p>1- <a href="/LICHSU/E/Erichwulff">Hồi ký của Bác sĩ E. Wulff về Pháp nạn 1963: bài một </a></p>
+<p>2-  <a href="/LICHSU/E/Erichwulff">Hồi ký của Bác sĩ E. Wulff: bài hai - Đêm Phật Đản 8/5/1963</a></p>
+<p>3-   <a href="/LICHSU/E/Erichwulff">Hồi ký của Bác sĩ E. Wulff: bài ba - Tuyệt Thực - tháng 5/1963</a></p>
+<p>4- <a href="/LICHSU/E/Erichwulff">Hồi ký của Bác sĩ E. Wulff: bài bốn -  Tường trình tại Liên Hiệp Quốc  (9/196 3)</a></p>
+<p>5- <a href="/LICHSU/E/Erichwulff">Hồi ký của Bác sĩ E. Wulff: bài chót -  Chuyến trở lại Việt Nam 1964 </a></p>
 <p>6<a href="https://www.phattuvietnam.net/nguoithoinay/3794-g%E1%BA%B7p-l%E1%BA%A1i-b%C3%A1c-s%C4%A9-erich-wulff,-%C3%A2n-nh%C3%A2n-c%E1%BB%A7a-ph%E1%BA%ADt-gi%C3%A1o-vi%E1%BB%87t-nam.html">- Gặp lại Bác sĩ Erich Wulff, ân nhân của Phật giáo Việt Nam</a> (Ngọc Thiện thực hiện) </p>

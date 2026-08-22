@@ -2,15 +2,14 @@
 layout: ../../../layouts/Article.astro
 title: "Hãy Mang Giáo Hoàng Ra Trước Công Lý"
 author: "Christopher Hitchens / Newsweek"
-source: "https://sachhiem.net/TONGIAO/tgT/TinNewsWeek.php"
+source: "/TONGIAO/tgT/TinNewsWeek"
 category: "Tác giả"
 lang: vi
 wordCount: 4971
-image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nha.jpg"
+image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/SACHNGOAI/Hinhanh/PEOPLE/Christopher_hitchens2.jpg"
 ---
 
-<p align="center"><a href="https://www.sachhiem.net/">
-<img border="0" src="https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nha.jpg"></a> 08 tháng 5, 2010 </p> 
+<p align="center"> 08 tháng 5, 2010 </p> 
  	<p><i>Tuần 
 	báo Newsweek, số ra ngày 3 tháng 5, năm 2010. </i></p>
 		<p><i>

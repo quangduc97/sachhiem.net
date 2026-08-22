@@ -3,7 +3,7 @@ layout: ../../../layouts/Article.astro
 title: "Làm Sao Biết Sư Nào Là Sư Giả?"
 author: "FB Lâm Phú Châu"
 date: 2021-11-03
-source: "https://sachhiem.net/TONGIAO/FB/FBLamPhuChau_10.php"
+source: "/TONGIAO/FB/FBLamPhuChau_10"
 category: "Tác giả"
 lang: vi
 wordCount: 3987

@@ -2,18 +2,18 @@
 layout: ../../../layouts/Article.astro
 title: "VỀ HỘI TỪ THIỆN GIAO ÐIỂM"
 author: "Nguyễn Hồng Hải"
-source: "https://sachhiem.net/THOISU_CT/ChuN/NguyenHHai.php"
+source: "/THOISU_CT/ChuN/NguyenHHai"
 category: "Chính trị"
 lang: vi
 wordCount: 1355
-image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nha.jpg"
+image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/BUIKHA/img/CungTTFord.jpg"
 ---
 
 <p class="Tuaduoi">Ðôi Hàng Cảm Xúc Về Hội Từ Thiện Giao Ðiểm </p>
 		
 		
     
-     <p align="center"><a href="/THOISU_CT/index"><img hspace="20" border="0" src="https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nha.jpg"></a> 17 tháng 3, 2008</p>  
+     <p align="center"> 17 tháng 3, 2008</p>  
 			 
 				<p>           Hơn tuần qua tôi bận không xem 
 			các websites. Chiều nay vào  www.giaodiemonline.com và sachhiem.net thấy 
@@ -146,8 +146,8 @@ image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nha.jpg"
 			<p>17 tháng 3, 2008</p>
 
 <p><b>Bài cùng tác giả:</b></p>
-<p>- <a href="https://sachhiem.net/TONGIAO/tgN/NgHgHai.php">Bí Mật Nhà Thờ Phát Diệm </a>
+<p>- <a href="/TONGIAO/tgN/NgHgHai">Bí Mật Nhà Thờ Phát Diệm </a>
 </p>
-<p>- <a href="https://sachhiem.net/THOISU_CT/ChuN/NguyenHHai.php"> Ðôi Hàng Cảm Xúc Về Hội Từ Thiện Giao Ðiểm </a></p>
+<p>- <a href="/THOISU_CT/ChuN/NguyenHHai"> Ðôi Hàng Cảm Xúc Về Hội Từ Thiện Giao Ðiểm </a></p>
 
 <hr>

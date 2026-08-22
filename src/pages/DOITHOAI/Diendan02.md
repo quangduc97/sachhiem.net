@@ -3,7 +3,7 @@ layout: ../../layouts/Article.astro
 title: "Phản Ứng Đối Với Bài Viết"
 author: "Công Luận"
 date: 2019-03-15
-source: "https://sachhiem.net/DOITHOAI/Diendan02.php"
+source: "/DOITHOAI/Diendan02"
 category: "Chính trị"
 lang: vi
 wordCount: 4593
@@ -111,7 +111,7 @@ image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/LICHSU/IMG/NHANVAT/P
 <a href="https://tongiaovadantoc.com/c1036/20170109104824781/truong-vinh-ky-phan-boi-to-quoc-sao-goi-la-noi-oan-the-ky.htm">https://tongiaovadantoc.com/c1036/20170109104824781/truong-vinh-ky- ...</a> !?</p>
 <p>-  Những Ngộ Nhận Về Ông Trương Vĩnh Ký:
   
-  <a href="https://sachhiem.net/index.php?content=showrecipe&amp;id=63">https://sachhiem.net/index.php? ..</a></p>
+  <a href="/NMQ/LSHK/LSHK11">https://sachhiem.net/index.php? ..</a></p>
 
 <hr>
 
@@ -152,7 +152,7 @@ image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/LICHSU/IMG/NHANVAT/P
    <p>__________</p>
    <p><b>Bài liên quan:</b></p>
    <p>- Video <a href="https://www.youtube.com/watch?v=bNCbcwtsLxU">Về Lá Thư Pestrus Ký Từ Chối Làm Công Dân Pháp </a>(Đề tài 21)</p>
-   <p>- <a href="https://sachhiem.net/VANHOC/Tranhaiau02.php">Những Chiếc Lông Ngỗng Cho Pháp (Bài Học Từ Lịch Sử Việt Nam Dành Cho Tín Đồ Công Giáo La Mã)</a> Trần Hải Âu ngày 20 tháng 3, 2019</p>
+   <p>- <a href="/VANHOC/Tranhaiau02">Những Chiếc Lông Ngỗng Cho Pháp (Bài Học Từ Lịch Sử Việt Nam Dành Cho Tín Đồ Công Giáo La Mã)</a> Trần Hải Âu ngày 20 tháng 3, 2019</p>
 
    <p align="center"><img src="https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/TONGIAO/IMG/LINHMUC/DANGHUNAM/TGM_CanhCao_08Apr2026.jpg" width="100%" alt=""></p>
    <p align="center"><img src="https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/TONGIAO/IMG/LINHMUC/DANGHUNAM/TGM_CanhCao_08Apr2026a.jpg" width="100%" alt=""></p>

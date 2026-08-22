@@ -2,11 +2,10 @@
 layout: ../../../layouts/Article.astro
 title: "TÍN HỮU TIN LÀNH CẦN BIẾT"
 author: "Lê Huy Bằng"
-source: "https://sachhiem.net/null"
+source: "/null"
 category: "Tác giả"
 lang: vi
 wordCount: 2540
-image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nha.jpg"
 ---
 
 <div align="center" style="position: relative; left: 0; top: 0">
@@ -24,7 +23,7 @@ image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nha.jpg"
 <tr><td width="100%">
 <div style="padding-left: 50px; padding-right: 50px"> 
 	<table border="0" cellpadding="1" width="87%" cols="2"><tbody><tr>
-	<td><a href="https://www.sachhiem.net/"><img border="0" src="https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nha.jpg"></a></td>
+	<td></td>
 <td valign="top" width="210"><p>16 tháng 11, 2009</p>
 	</td></tr></tbody></table>
 <p><i>LTS: Hôm nay tòa soạn nhận được lá thư sau đây  từ anh Lê Huy Bằng. Với âm điệu khẩn khoản, chủ đề tiếp cận rất trực tiếp, và những vấn đề phản ảnh thực tế khá chính xác. Thật ra niềm âu lo này đã được bộc lộ qua nhiều bài viết đó đây, 

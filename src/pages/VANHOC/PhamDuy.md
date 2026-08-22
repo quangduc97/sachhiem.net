@@ -2,11 +2,11 @@
 layout: ../../layouts/Article.astro
 title: "Trời Cao Đất Rộng Một Mình Tôi Đi"
 author: "Phạm Duy"
-source: "https://sachhiem.net/null"
+source: "/null"
 category: "Văn hóa"
 lang: vi
 wordCount: 534
-image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nha.jpg"
+image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/THOISU_CT/Hinh/TrinhCongSonPhamDuy200.jpg"
 ---
 
 <div align="center" style="position: relative; left: 0; top: 0">
@@ -32,7 +32,7 @@ image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nha.jpg"
 	<tbody><tr><td bgcolor="White" align="justify" valign="top">
 <div style="padding-left: 50px; padding-right: 50px"> 
 			<table border="0" cellpadding="0" width="600" cols="2"><tbody><tr>
-				<td valign="top"><a href="/index.php/"><img border="0" src="https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nha.jpg"></a></td>
+				<td valign="top"></td>
 	<td valign="top">	25 tháng 3, 2008
 	</td></tr></tbody></table>
 

@@ -3,18 +3,17 @@ layout: ../../layouts/Article.astro
 title: "ALEXANDRE DE RHODES & VẤN ĐỀ CHỮ QUỐC NGỮ"
 author: "Bùi Kha"
 date: 2018-07-12
-source: "https://sachhiem.net/12-Jul-2018"
+source: "/12-Jul-2018"
 lang: vi
 wordCount: 106
-image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nha.jpg"
+image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/LICHSU/IMG/ALEX/AlexandredeRhodes_small.jpg"
 ---
 
 <div align="center" style="position: relative; left: 0; top: 0">
 <table id="0" border="1" bgcolor="#F5F5F5" cellpadding="0" cellspacing="0" width="100%" height="1000" bordercolor="#FF9966" bordercolorlight="#FFFFCC" bordercolordark="#606060"> 
 <tbody><tr> <td width="30%" valign="top"> 
 	
-    <p align="center"> 
-	<a href="/index"><img src="https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nha.jpg" border="0"></a></p>
+    
     
 
 	

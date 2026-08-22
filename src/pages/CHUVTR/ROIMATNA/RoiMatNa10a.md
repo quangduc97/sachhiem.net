@@ -3,7 +3,7 @@ layout: ../../../layouts/Article.astro
 title: "Các Món Nợ Vatican Ở Việt Nam"
 author: "Chu Văn Trình và TSSH"
 date: 2026-05-07
-source: "https://sachhiem.net/CHUVTR/ROIMATNA/RoiMatNa10a.php"
+source: "/CHUVTR/ROIMATNA/RoiMatNa10a"
 category: "Chính trị"
 lang: vi
 wordCount: 2792
@@ -82,7 +82,7 @@ Danh sách các tài sản của Phật giáo và dân tộc nói chung, dễ d�
 <p><b>6.- Chùa Giác Hoàng bị cướp phá</b>.- Chùa Giác Hoàng là <i>“Một trong hai mươi thắng cảnh Thần Kinh đã được Vua Thiệu Trị làm thơ ca tụng có ghi trong Ngự Chế Thi Tập.</i>”, đã bị Da-tô đánh cướp vào năm 1885.</p>
 <p><b>7. Gia Tô Cướp Chuông Chùa - Cướp Đất Nghĩa Trang Anh Hùng Văn Thân - Cần Vương Xây Nhà Thờ.</b></p>
 <p>- Chuông Đồng Nhà Thờ Phát Diệm - Đây là quả chuông Đồng pha Vàng do linh mục Trần Lục ngày xưa đem quân đi đoạt ở một ngôi chùa nào xa lắm - đem về dâng nhà thờ Phát Diệm [Chu Thiên: Bão Biển, 1978, tập 1, tr. 149]</p>
-<p class="indent50"><b>SH ghi chú: </b>Chúng tôi có tận mắt đến nhà thờ Phát Diệm và đã chú ý đến cái chuông này. Xem <a href="https://sachhiem.net/LTX/LythaiTG46.php">Khi Nhà Thờ Hội Nhập Phong Tục Lễ Tết Của Ta</a> </p>
+<p class="indent50"><b>SH ghi chú: </b>Chúng tôi có tận mắt đến nhà thờ Phát Diệm và đã chú ý đến cái chuông này. Xem <a href="/LTX/LythaiTG46">Khi Nhà Thờ Hội Nhập Phong Tục Lễ Tết Của Ta</a> </p>
  <p><b>8. Nhà Thờ Lớn Sài Gòn</b></p>
  <p>Nhà Thờ Lớn ở Sài Gòn, nay là Nhà thờ Đức Bà, Vương Cung thánh đường) được xây trên nền một ngôi chùa bị phá. Sách "Sài gòn Năm Xưa" xuất bản năm 1960, trang 218, tác giả Vương Hồng Sển viết:</p>
  <p>"<i>Từ ngày Pháp chiếm Sài gòn, Đức cha hành lễ tại một ngôi chùa hoang phế và tạm dùng làm thánh đường</i>."</p>

@@ -3,7 +3,7 @@ layout: ../../../layouts/Article.astro
 title: "Nhìn Lại Thế Kỷ Thứ 20"
 author: "Đào Văn Bình"
 date: 2019-04-20
-source: "https://sachhiem.net/DAOVB/LS/DaovBinh04.php"
+source: "/DAOVB/LS/DaovBinh04"
 category: "Lịch sử"
 lang: vi
 wordCount: 36533

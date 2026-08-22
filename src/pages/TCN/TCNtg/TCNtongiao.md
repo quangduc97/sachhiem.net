@@ -1,7 +1,7 @@
 ---
 layout: ../../../layouts/Article.astro
 title: "Trần Chung Ngọc tôn giáo"
-source: "https://sachhiem.net/null"
+source: "/null"
 lang: vi
 wordCount: 1349
 ---

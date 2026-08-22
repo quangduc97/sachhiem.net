@@ -3,7 +3,7 @@ layout: ../../../layouts/Article.astro
 title: "Có Nên Đòi Lại Đất Nhà Thờ Lớn Hà Nội Để Làm Chùa?"
 author: "Mõ Làng"
 date: 2014-11-18
-source: "https://sachhiem.net/XAHOI/xhM/MoLang.php"
+source: "/XAHOI/xhM/MoLang"
 category: "Chính trị"
 lang: vi
 wordCount: 2358

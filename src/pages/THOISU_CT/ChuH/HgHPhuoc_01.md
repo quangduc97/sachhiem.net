@@ -3,7 +3,7 @@ layout: ../../../layouts/Article.astro
 title: "Luật Biểu Tình"
 author: "Hoàng Hữu Phước, MIB"
 date: 2014-05-28
-source: "https://sachhiem.net/THOISU_CT/ChuH/HgHPhuoc_01.php"
+source: "/THOISU_CT/ChuH/HgHPhuoc_01"
 category: "Tác giả"
 lang: vi
 wordCount: 2379
@@ -68,4 +68,4 @@ Nhất thiết phải có <i>Luật Biểu Tình,</i> đơn giản vì đó là 
  <p><a href="https://hhphuoc.blog.com/">https://hhphuoc.blog.com/</a> - Blog Giao Lưu Của Đại Biểu Quốc Hội Khóa XIII Hoàng Hữu Phước Với Cử Tri Toàn Quốc</p>
   ________________
    <p><b>Bài liên quan đến Hoàng Hữu Phước:</b></p>
-<p>-<a href="https://sachhiem.net/THOISU_CT/ChuH/HgHPhuoc.php"> Một Ý Kiến Khác Bàn Về “Tứ Đại Ngu” - </a>bài phỏng vấn của Lê Dũng </p>
+<p>-<a href="/THOISU_CT/ChuH/HgHPhuoc"> Một Ý Kiến Khác Bàn Về “Tứ Đại Ngu” - </a>bài phỏng vấn của Lê Dũng </p>

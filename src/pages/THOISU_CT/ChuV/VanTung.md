@@ -3,7 +3,7 @@ layout: ../../../layouts/Article.astro
 title: "Nguyễn Công Khế bị bắt giam -"
 author: "Văn Tùng"
 date: 2024-01-22
-source: "https://sachhiem.net/THOISU_CT/ChuV/VanTung.php"
+source: "/THOISU_CT/ChuV/VanTung"
 category: "Chính trị"
 lang: vi
 wordCount: 1122

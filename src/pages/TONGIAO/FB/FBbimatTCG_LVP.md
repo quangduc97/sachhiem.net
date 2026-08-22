@@ -3,7 +3,7 @@ layout: ../../../layouts/Article.astro
 title: "Hội Đồng Giám Mục Nhật Bản Cấm Cửa Con Đường Tân Dự Tòng"
 author: "Lê Văn Phát /BMTCG"
 date: 2019-01-29
-source: "https://sachhiem.net/TONGIAO/FB/FBbimatTCG_LVP.php"
+source: "/TONGIAO/FB/FBbimatTCG_LVP"
 category: "Chính trị"
 lang: vi
 wordCount: 1321

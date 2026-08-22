@@ -3,7 +3,7 @@ layout: ../../../layouts/Article.astro
 title: "Tại Sao Tổng Thống Obama Chọn Chùa Ngọc Hoàng Của Lưu Dân Người Hoa Để Ghé Thăm?"
 author: "Thanh Thắng"
 date: 2016-05-24
-source: "https://sachhiem.net/TONGIAO/tgTH/ThThanhThang01.php"
+source: "/TONGIAO/tgTH/ThThanhThang01"
 category: "Chính trị"
 lang: vi
 wordCount: 645

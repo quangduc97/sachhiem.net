@@ -3,7 +3,7 @@ layout: ../../../layouts/Article.astro
 title: "Tập Quán Tuyên Thệ Trên Quyển Thánh Kinh"
 author: "Vũ Linh Châu - Giác Hạnh - Trần Quang Diệu"
 date: 2013-07-06
-source: "https://sachhiem.net/THOISU_CT/SH/Tuyenthe_tk.php"
+source: "/THOISU_CT/SH/Tuyenthe_tk"
 category: "Tác giả"
 lang: vi
 wordCount: 1633

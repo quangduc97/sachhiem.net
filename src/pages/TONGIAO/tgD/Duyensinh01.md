@@ -3,7 +3,7 @@ layout: ../../../layouts/Article.astro
 title: "Đóm Lửa Hồng Ở Ngay Bên Trong Giáo Hội Công Giáo"
 author: "Duyên Sinh"
 date: 2013-05-08
-source: "https://sachhiem.net/DOITHOAI/Duyensinh.php"
+source: "/DOITHOAI/Duyensinh"
 category: "Đối thoại"
 lang: vi
 wordCount: 3082

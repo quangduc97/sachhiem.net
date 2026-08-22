@@ -3,7 +3,7 @@ layout: ../../../layouts/Article.astro
 title: "Hứa Thì Phải Làm!"
 author: "Kevin Trần"
 date: 2016-11-10
-source: "https://sachhiem.net/THOISU_CT/ChuTr/TranKevin_ts1.php"
+source: "/THOISU_CT/ChuTr/TranKevin_ts1"
 category: "Chính trị"
 lang: vi
 wordCount: 1405

@@ -3,7 +3,7 @@ layout: ../../layouts/Article.astro
 title: "Luật Im Lặng -"
 author: "Lý Thái"
 date: 2014-02-19
-source: "https://sachhiem.net/LTX/LythaiTG11.php"
+source: "/LTX/LythaiTG11"
 category: "Tác giả"
 lang: vi
 wordCount: 3794
@@ -42,22 +42,22 @@ image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/TONGIAO/IMG/VATICAN/
      Nhưng đó chỉ là những chuyện lẻ tẻ.  Những chuyện đã bị bể khắp nơi từ cả chục năm nay, dù báo chí đã hết sức kềm chế,  cũng đã lần lượt phanh phui liên tục những chuyện tội lỗi của các Chúa thứ hai,  không thể nào gom lại hết được. Không thể kể cho xiếc. Nhưng còn biết  bao nhiêu trường hợp các “<i>Chúa thứ hai</i>”  bị “lộ hàng”, rồi được Giáo Hội thuyên chuyển nơi khác để tiếp tục làm các “<i>phép bí tích</i>” cho đên khi <b>lộ tích</b> thì lại đi nơi khác. Trên thế  giới này còn rất nhiều nơi để các Ngài “<i>làm  sáng danh Chúa” </i>trong phòng tốimột  cách an toàn vì có “<i>Chúa che chở</i>.” Bạn đọc có thể xem sơ qua một số trường hợp được tóm tắt ở mục  III tiếp theo đây.</p>
     <p>Thật vậy, các linh mục được có một qui chế ngầm, cho  phép “<b>có chị bếp</b>” như một quyền lợi xứng  đáng thu hút các “chủng sinh” chịu để cho “Chúa gọi”, và giữ chân các Cha trên  con đường “<i>vì tôi là linh mục</i>”. Chính  chủ trương được ban và được hưởng “phúc thiên đàng” nơi các phòng tối đó đã lôi  cuốn sự thèm thuồng&nbsp; của các con cừu đực.  Còn gì hơn, &nbsp;cừu được mọi người chấp tay  cúi đầu bẩm thưa, cừu sẽ được gọi là Cha, được cao lương mỹ vị, rượu thịt đầy bụng,  cừu khỏi lo sinh kế cho bản thân cũng như cho bất cứ ai, lại còn được tự do bắt  chước Thánh Linh đã làm đối với cô Mary mà không cần có trách nhiệm về tinh  thần lẫn vật chất.&nbsp; Khi “<i>làm thế</i>”, cừu được quyền nói với các con  chiên Mary rằng đó là “ý Chúa”. Tuy nhiên, cừu&nbsp;  phải khéo léo, “cấm ngoại thủy không ai được biết” để khỏi biến “bí tích”  thành “lộ tích”. &nbsp;</p>
 <p>
-     Nếu vì lý do gì bắt buộc &nbsp;phải bãi bỏ qui chế “độc thân”, sau những hôn  lễ hoàng tráng của các linh mục cưới vợ, thì hậu quả tức tốc là tài sản của Giáo  Hội sẽ biến đi theo các chị Mary. Không có con cừu cái nào ngu đến đỗi không biết  nắm chặt hầu bao của ông xã mình. Giáo Hội La Mã tiên đoán được “lòng người”  như thế, nên không thể cho các linh mục cưới vợ. Do đó, cách duy nhất là tiếp tục  bao che, mặc dù cứ phải lúng ta lúng túng để bao che. (Xem lý do không thhẻ cho  linh mục lấy vợ trong bài “<a href="https://sachhiem.net/index.php?content=showrecipe&amp;id=176">Nguyên Nhân  Và Hậu Quả Của Việc Cưỡng Bách Tu Sĩ Phải Sống Độc Thân” của tác giả Nguyễn Mạnh  Quang</a>)</p>
+     Nếu vì lý do gì bắt buộc &nbsp;phải bãi bỏ qui chế “độc thân”, sau những hôn  lễ hoàng tráng của các linh mục cưới vợ, thì hậu quả tức tốc là tài sản của Giáo  Hội sẽ biến đi theo các chị Mary. Không có con cừu cái nào ngu đến đỗi không biết  nắm chặt hầu bao của ông xã mình. Giáo Hội La Mã tiên đoán được “lòng người”  như thế, nên không thể cho các linh mục cưới vợ. Do đó, cách duy nhất là tiếp tục  bao che, mặc dù cứ phải lúng ta lúng túng để bao che. (Xem lý do không thhẻ cho  linh mục lấy vợ trong bài “<a href="/NMQ/HOSOTOIAC/CH15_1">Nguyên Nhân  Và Hậu Quả Của Việc Cưỡng Bách Tu Sĩ Phải Sống Độc Thân” của tác giả Nguyễn Mạnh  Quang</a>)</p>
 <p>
      Vừa bao che vừa cấm tiết lộ bằng luật im lặng (silence  code) để bảo vệ thanh danh, một thanh danh thực tế không hề có. </p>
     <p class="TuaDenLeft"><b>III. Bây  giờ phải tính làm sao?</b></p>
     <p>Nhưng, nhân loại ngày một tiến, ít nhất một số lớn các con chiên Âu Mỹ ngày một ý thức  được nhân quyền, và “ý Chúa” cũng được "nghiên cứu" lại. &nbsp;Vì thế, dần dần, người ta bắt đầu tố cáo “Chúa  thứ hai”.&nbsp; Luật "Im lặng" ở vào thế thụ động. Tức là các con chiên không giữ được luật này, thì các Chúa thứ hai phải giữ im lặng đến nước nào hay nước đó vậy. Một vài trong số muôn vàn vụ lộ  hàng được ghi nhận như sau:</p>
     <ul>
-     <li>Vụ Lạm Dụng  Tình Dục Với Trẻ Em Của Giáo Hội Công Giáo Đã Lan Rộng <a href="https://sachhiem.net/TONGIAO/tgS/SH15.php">https://sachhiem.net/TONGIAO/tgS/SH15.php</a></li>
-     <li>Tin Tức Các  Tu Sĩ TCG Lạm Dụng Tình Dục (liên mạng) <a href="https://sachhiem.net/TONGIAO/tgS/SH06.php">https://sachhiem.net/TONGIAO/tgS/SH06.php</a></li>
-     <li>Vài Tin Tức  Các Tu Sĩ TCG Lạm Dụng Tình Dục (Nguyễn Tri Cảm) <a href="https://sachhiem.net/TONGIAO/NGTRCAM/NguyenTriCam13.php">https://sachhiem.net/TONGIAO/NGTRCAM/NguyenTriCam13.php</a></li>
-     <li>Bảo Vệ Phá Sản  Trong Cuộc Khủng Hoảng Lạm Dụng Tình Dục <a href="https://sachhiem.net/TONGIAO/tgB/BishopAccnt.php">https://sachhiem.net/TONGIAO/tgB/BishopAccnt.php</a></li>
-     <li>Tổng Giáo Phận  Minnesota tiết lộ tên của 30 linh mục bị buộc tội lạm dụng trẻ vị thành niên <a href="https://sachhiem.net/index.php?content=showrecipe&amp;id=5834">https://sachhiem.net/index.php?content=showrecipe&amp;id=5834</a></li>
-     <li>Bên Trong Vụ  Lạm Dụng Tình Dục Của Giáo Hội CG Ở Đức <a href="https://sachhiem.net/TONGIAO/tgT/TanPhap10.php">https://sachhiem.net/TONGIAO/tgT/TanPhap10.php</a></li>
-     <li>Lá Thư Tài Liệu  Vatican Bao Che Lạm Dụng Tình Dục <a href="https://sachhiem.net/TONGIAO/tgT/TinYahoo03.php">https://sachhiem.net/TONGIAO/tgT/TinYahoo03.php</a></li>
-     <li>Quanh Việc  Bao Che Nạn Lạm Dụng Tình Dục Trong Giới Tu Sĩ Ái Nhĩ Lan <a href="https://sachhiem.net/TONGIAO/tgT/TinBBC.php">https://sachhiem.net/TONGIAO/tgT/TinBBC.php</a></li>
-     <li>Quan Tòa Gọi  Một Linh Mục Là Tên Côn Đồ <a href="https://sachhiem.net/TONGIAO/tgS/SH26.php">https://sachhiem.net/TONGIAO/tgS/SH26.php</a></li>
-     <li>Hồ Sơ LM  Giuse Nguyễn Ngọc Dũng <a href="https://sachhiem.net/TONGIAO/tgB/Bacaytruc00.php">https://sachhiem.net/TONGIAO/tgB/Bacaytruc00.php</a></li>
+     <li>Vụ Lạm Dụng  Tình Dục Với Trẻ Em Của Giáo Hội Công Giáo Đã Lan Rộng <a href="/TONGIAO/tgS/SH15">https://sachhiem.net/TONGIAO/tgS/SH15.php</a></li>
+     <li>Tin Tức Các  Tu Sĩ TCG Lạm Dụng Tình Dục (liên mạng) <a href="/TONGIAO/tgS/SH06">https://sachhiem.net/TONGIAO/tgS/SH06.php</a></li>
+     <li>Vài Tin Tức  Các Tu Sĩ TCG Lạm Dụng Tình Dục (Nguyễn Tri Cảm) <a href="/TONGIAO/NGTRCAM/NguyenTriCam13">https://sachhiem.net/TONGIAO/NGTRCAM/NguyenTriCam13.php</a></li>
+     <li>Bảo Vệ Phá Sản  Trong Cuộc Khủng Hoảng Lạm Dụng Tình Dục <a href="/TONGIAO/tgB/BishopAccnt">https://sachhiem.net/TONGIAO/tgB/BishopAccnt.php</a></li>
+     <li>Tổng Giáo Phận  Minnesota tiết lộ tên của 30 linh mục bị buộc tội lạm dụng trẻ vị thành niên <a href="/TONGIAO/tgS/SH47">https://sachhiem.net/index.php?content=showrecipe&amp;id=5834</a></li>
+     <li>Bên Trong Vụ  Lạm Dụng Tình Dục Của Giáo Hội CG Ở Đức <a href="/TONGIAO/tgT/TanPhap10">https://sachhiem.net/TONGIAO/tgT/TanPhap10.php</a></li>
+     <li>Lá Thư Tài Liệu  Vatican Bao Che Lạm Dụng Tình Dục <a href="/TONGIAO/tgT/TinYahoo03">https://sachhiem.net/TONGIAO/tgT/TinYahoo03.php</a></li>
+     <li>Quanh Việc  Bao Che Nạn Lạm Dụng Tình Dục Trong Giới Tu Sĩ Ái Nhĩ Lan <a href="/TONGIAO/tgT/TinBBC">https://sachhiem.net/TONGIAO/tgT/TinBBC.php</a></li>
+     <li>Quan Tòa Gọi  Một Linh Mục Là Tên Côn Đồ <a href="/TONGIAO/tgS/SH26">https://sachhiem.net/TONGIAO/tgS/SH26.php</a></li>
+     <li>Hồ Sơ LM  Giuse Nguyễn Ngọc Dũng <a href="/TONGIAO/tgB/Bacaytruc00">https://sachhiem.net/TONGIAO/tgB/Bacaytruc00.php</a></li>
     </ul>
     <p>....</p>
 <p>

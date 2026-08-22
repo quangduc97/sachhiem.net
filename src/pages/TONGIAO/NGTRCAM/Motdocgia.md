@@ -2,11 +2,10 @@
 layout: ../../../layouts/Article.astro
 title: "Yêu Chúa \"Hết Trí Khôn\" (Một Độc Giả)"
 author: "Một Độc Giả"
-source: "https://sachhiem.net/TONGIAO/NGTRCAM/Motdocgia.php"
+source: "/TONGIAO/NGTRCAM/Motdocgia"
 category: "Tác giả"
 lang: vi
 wordCount: 2889
-image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nha.jpg"
 ---
 
 <div align="center" style="position: relative; left: 0; top: 0">
@@ -25,8 +24,7 @@ image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nha.jpg"
 <tr> <td width="100%" style="text-align: justify" valign="top"> 
 		<div style="padding-left: 50px; padding-right: 50px;">
 		<table border="0" cellpadding="0" width="86%" cols="2"><tbody><tr>
-				<td width="352"><a href="/index" "="">
-				<img border="0" src="https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nha.jpg"></a></td>
+				<td width="352"></td>
 	<td valign="top">13 tháng 5, 2010	</td></tr></tbody></table>
 
 			

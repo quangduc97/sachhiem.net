@@ -3,7 +3,7 @@ layout: ../../../layouts/Article.astro
 title: "Ý Kiến Về Bài Viết \"Mạt Pháp Phật Giáo Việt Nam\""
 author: "Đào Văn Bình"
 date: 2019-03-24
-source: "https://sachhiem.net/DAOVB/VH/DaovBinh_Chua3vang.php"
+source: "/DAOVB/VH/DaovBinh_Chua3vang"
 category: "Tác giả"
 lang: vi
 wordCount: 2793

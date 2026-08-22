@@ -3,7 +3,7 @@ layout: ../../../layouts/Article.astro
 title: "Tại Sao Chống Cộng Là Chống Cái Không Có?"
 author: "Trần Khách Quan"
 date: 2013-05-24
-source: "https://sachhiem.net/THOISU_CT/ChuTr/TranKhachQuan.php"
+source: "/THOISU_CT/ChuTr/TranKhachQuan"
 category: "Chính trị"
 lang: vi
 wordCount: 1529
@@ -60,9 +60,9 @@ image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/LICHSU/IMG/DONGAU/CM
    <p><b>From:</b> qtran 
     <br>
     <b>Subject:</b> [PhoNang] ﻿Con Người Thật Của Thượng Tọa Th﻿ích Trí Quang / Đừng  bao giờ ngh﻿e và tin theo Tú Gàn. </p>
-<p class="Tuaduoi"><a href="https://sachhiem.net/DAOVB/CT/DaovBinh05.php">Con Người Thật Của Thượng Tọa Thích Trí  Quang</a></p>
+<p class="Tuaduoi"><a href="/DAOVB/CT/DaovBinh05">Con Người Thật Của Thượng Tọa Thích Trí  Quang</a></p>
    
-   <p> Nguồn: <a href="https://sachhiem.net/DAOVB/CT/DaovBinh05.php" target="_blank">https://thuvienhoasen.org/D_1-2_2-135_4-7539_5-50_6-1_17-25_14-1_15-1/</a> </p>
+   <p> Nguồn: <a href="/DAOVB/CT/DaovBinh05" target="_blank">https://thuvienhoasen.org/D_1-2_2-135_4-7539_5-50_6-1_17-25_14-1_15-1/</a> </p>
    <p> <b>ChinhNghiaViet] Phúc đáp ý kiến ﻿/ CHỐNG  CỘNG LÀ﻿ CH﻿ỐNG CÁI KHÔNG C﻿Ó ?﻿??</b></p>
    <p> Monday, May 20,  2013 8:01 PM </p>
 

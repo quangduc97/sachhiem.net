@@ -2,7 +2,7 @@
 layout: ../../../layouts/Article.astro
 title: "Chữ \"Plusieurs Soldats\" Thời A.D. Rhodes"
 author: "Lý Đương Nhiên"
-source: "https://sachhiem.net/LICHSU/L/LyDuongNhien1.php"
+source: "/LICHSU/L/LyDuongNhien1"
 category: "Lịch sử"
 lang: vi
 wordCount: 3280
@@ -208,8 +208,8 @@ image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/SACHNGOAI/Hinhanh/BI
 	báo Giao Điểm số 28 tháng 12 năm 1997, tr. 37-38</p>
 	
 	<p>Cùng tác giả:</p>
-	<li><a href="https://sachhiem.net/LICHSU/L/LyDuongNhien.php">Nguyễn Trường Tộ Là Danh Nhân Việt Nam ? </a> </li>
-	<li><a href="https://sachhiem.net/LICHSU/L/LyDuongNhien1.php">Chữ "Plusieurs Soldats" Thời A.D. Rhodes</a> </li><hr>
+	<li><a href="/LICHSU/L/LyDuongNhien">Nguyễn Trường Tộ Là Danh Nhân Việt Nam ? </a> </li>
+	<li><a href="/LICHSU/L/LyDuongNhien1">Chữ "Plusieurs Soldats" Thời A.D. Rhodes</a> </li><hr>
 	<p class="TuaDenLeft">Và những bài đọc thêm:</p>
 	<p>  <span lang="en-us">- </span> <a href="https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.devhttps://www.giaodiem.us /us-2006/12-06/y-nvh-nuocdai-nucuoi.pdf">"Soldats: Chữ Nghĩa, Nước Mắt, Nước Đái và Nụ Cười" (Nguyễn văn Hóa)</a>. </p>
 	<p> - Chương 13 "Đạo Lý Được Thể Hiện Trong Văn Phẩm Qua Ngôn Từ và Văn Phong", quyển Hai "Thực Chất Của Giáo Hội La Mã" của Nguyễn Mạnh Quang xuất bản năm 1999.</p>

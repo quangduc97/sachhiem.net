@@ -3,7 +3,7 @@ layout: ../../../layouts/Article.astro
 title: "Viết Sử"
 author: "TS. Phan Văn Hoàng"
 date: 2017-08-26
-source: "https://sachhiem.net/LICHSU/P/PhanvHoang_03.php"
+source: "/LICHSU/P/PhanvHoang_03"
 category: "Lịch sử"
 lang: vi
 wordCount: 6865

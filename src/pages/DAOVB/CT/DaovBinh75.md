@@ -3,7 +3,7 @@ layout: ../../../layouts/Article.astro
 title: "Nhật Ký Biển Đông: Đông Nam Á Vuột Khỏi Tay Hoa Kỳ"
 author: "Đào Văn Bình"
 date: 2016-11-21
-source: "https://sachhiem.net/DAOVB/CT/DaovBinh75.php"
+source: "/DAOVB/CT/DaovBinh75"
 category: "Chính trị"
 lang: vi
 wordCount: 3895

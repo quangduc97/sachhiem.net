@@ -3,7 +3,7 @@ layout: ../../../layouts/Article.astro
 title: "Đạo Chúa Cải Đạo Lúc Người Bất Khả Kháng"
 author: "Nhiều tác giả"
 date: 2020-12-16
-source: "https://sachhiem.net/TONGIAO/FB/FBNguyenKhoe.php"
+source: "/TONGIAO/FB/FBNguyenKhoe"
 category: "Chính trị"
 lang: vi
 wordCount: 2759
@@ -15,7 +15,7 @@ image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/TONGIAO/IMG/TRUYENDA
 
  
  <div class="tomluoc">
-   <p><i>LTS: Chúng ta từng đọc nghe nhiều chuyện về việc làm bất chấp liêm sỉ của những người theo đạo Chúa trong việc cải đạo người khác lúc họ không thể kháng cự. Đó là: a) lúc con trẻ mới sinh, b) lúc hôn nhân khó dứt bỏ tình yêu, c) lúc liệt giường cần người chăm sóc, và d) ngay cả lúc chết rồi. Trang nhà cũng có một danh sách  <a href="https://sachhiem.net/TONGIAO/ListCAIDAO.inc.php">các bài viết về Cải Đạo</a>. Họ vi phạm tự do tôn giáo của người sống lẫn người chết. Mới đây, nhân nghệ sĩ Chí Tài vừa qua đời và cũng mới bị cho theo đạo lúc ông đã bị đột quỵ, thân hữu Nguyễn Khoe đã tâm sự về một chuyện đau buồn khác. Xin mời nghe. (SH)</i></p>
+   <p><i>LTS: Chúng ta từng đọc nghe nhiều chuyện về việc làm bất chấp liêm sỉ của những người theo đạo Chúa trong việc cải đạo người khác lúc họ không thể kháng cự. Đó là: a) lúc con trẻ mới sinh, b) lúc hôn nhân khó dứt bỏ tình yêu, c) lúc liệt giường cần người chăm sóc, và d) ngay cả lúc chết rồi. Trang nhà cũng có một danh sách  <a href="/TONGIAO/ListCAIDAO.inc">các bài viết về Cải Đạo</a>. Họ vi phạm tự do tôn giáo của người sống lẫn người chết. Mới đây, nhân nghệ sĩ Chí Tài vừa qua đời và cũng mới bị cho theo đạo lúc ông đã bị đột quỵ, thân hữu Nguyễn Khoe đã tâm sự về một chuyện đau buồn khác. Xin mời nghe. (SH)</i></p>
  </div> 
 <p class="MUC">I. CÂU CHUYỆN NĂM 2012</p>
 

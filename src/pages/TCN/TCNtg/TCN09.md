@@ -2,10 +2,10 @@
 layout: ../../../layouts/Article.astro
 title: "Vài Nét Về Sự Suy Thoái"
 author: "Trần Chung Ngọc"
-source: "https://sachhiem.net/TCN/TCNtg/TCN09.php"
+source: "/TCN/TCNtg/TCN09"
 lang: vi
 wordCount: 4617
-image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nha.jpg"
+image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/SACHNGOAI/Hinhanh/BIASACH/Missionairies.jpg"
 ---
 
 <p class="Tuaduoi">
@@ -18,8 +18,7 @@ image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nha.jpg"
 		<center>	<font color="#666666"><font color="#666666">
 		
 		</font></font></center><font color="#666666"><font color="#666666">
-  <p align="center"><a href="https://www.sachhiem.net/">
-<img border="0" src="https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nha.jpg"></a>  ngày 28 tháng 8, 2007
+  <p align="center">  ngày 28 tháng 8, 2007
 	 </p>
  <p> <span class="First">T</span>rong bài viết này, tôi không có ý đưa ra những nhận định của tôi về bản “<i>Tông Huấn Giáo Hội Tại Châu Á”</i> mà giáo hoàng John Paul II đã ban hành vào tháng 11 năm 1999 nhân dịp ông viếng thăm Ấn Độ, một bản văn mà Mac Kher đã coi như là <i>“một lời Tuyên Chiến chống nền văn hóa Á Đông, các tôn giáo Á Đông, và xã hội Á Đông nói chung, Ấn Độ Giáo nói riêng.  Sách lược cải đạo quần chúng vào Ki Tô Giáo mưu toan phá hủy linh hồn của Á Châu, cấy ghép vào đó một triết lý mà Á Châu không cần đến.   Á Châu không cần đến bất cứ một bài học nào về tôn giáo và lòng mộ đạo từ bất cứ ai.” (</i>a Declaration of War against Asian culture, Asian religions, and Asian society in general, and Hinduism in particular. Mass-conversion to Christianity seeks to destroy the soul of Asia, transplanting an un-needed philosophy. Asia does not need any lesson in religion or piety from anybody.)  Điều này cần riêng một cuốn sách dày ít ra là vài trăm trang.   Ở đây tôi chỉ muốn đưa ra vài nét về trạng suy thoái của Ki Tô Giáo nói chung, Ca-Tô Giáo Rô-ma nói riêng, ở phương trời Âu Mỹ.  Đây chính là lý do giáo hoàng muốn mang đồ phế thải ở Âu Mỹ sang Châu Á với hi vọng có thể nhốt đầu óc người dân Á Đông trong vòng man rợ và tối tăm trí thức (barbarous and intellectual darkness) của Châu Âu trong thời Trung Cổ.</p>
 <p class="PicLeft"> <img src="https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/SACHNGOAI/Hinhanh/BIASACH/Missionairies.jpg" width="134" height="188" alt=""></p>

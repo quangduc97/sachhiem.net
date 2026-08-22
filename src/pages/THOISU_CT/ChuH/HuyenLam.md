@@ -3,7 +3,7 @@ layout: ../../../layouts/Article.astro
 title: "30-4 Một Thoáng Lòng Vòng..."
 author: "Huyền Lam"
 date: 2012-04-27
-source: "https://sachhiem.net/THOISU_CT/ChuH/HuyenLam.php"
+source: "/THOISU_CT/ChuH/HuyenLam"
 category: "Chính trị"
 lang: vi
 wordCount: 1094

@@ -3,7 +3,7 @@ layout: ../../../layouts/Article.astro
 title: "Vai Trò Truyền Thông Hoa Kỳ Trong Sự Sụp Đổ Chính Quyền Ngô Đình Diệm"
 author: "The Observer"
 date: 2014-08-21
-source: "https://sachhiem.net/LICHSU/N/NghiencuuQT_NDD.php"
+source: "/LICHSU/N/NghiencuuQT_NDD"
 category: "Chính trị"
 lang: vi
 wordCount: 10453

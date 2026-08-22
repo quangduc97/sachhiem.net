@@ -3,7 +3,7 @@ layout: ../../../layouts/Article.astro
 title: "Nếu GH Vatican sang nước ta thì hậu quả đau lòng như Liên Xô, Đông Âu ai chịu trách nhiệm?"
 author: "FB Hồng Thất Công"
 date: 2025-07-03
-source: "https://sachhiem.net/TONGIAO/FB/FBHongThatCong03.php"
+source: "/TONGIAO/FB/FBHongThatCong03"
 category: "Chính trị"
 lang: vi
 wordCount: 1089

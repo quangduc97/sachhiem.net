@@ -2,7 +2,7 @@
 layout: ../../../layouts/Article.astro
 title: "TỘI TỔ TÔNG ĐÍCH THỰC"
 author: "Mục Đồng"
-source: "https://sachhiem.net/null"
+source: "/null"
 category: "Tác giả"
 lang: vi
 wordCount: 31979
@@ -35,7 +35,7 @@ image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nhacu.jpg"
 	<tbody><tr><td bgcolor="White" align="justify" valign="top">
 
 <table border="0" cellpadding="10" width="100%" cols="3"><tbody><tr>
-<td><a href="https://sachhiem.net/"><img border="0" src="https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nhacu.jpg" width="49" height="20"></a></td>
+<td><a href="/"><img border="0" src="https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nhacu.jpg" width="49" height="20"></a></td>
 
 	<td valign="top"><a href="/TONGIAO/#" onclick="location.href='https://sachhiem.net/BIA/sendafriend.php?url='+location.href;"><img src="https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/TONGIAO/file:///C:/SACHHIEM/images/mail.gif" border="0"> 
 Gửi bài này cho bạn bè</a></td>
@@ -1100,9 +1100,9 @@ tên thật là Bùi Văn Chấn, một trí thức vốn xuất thân trong gia
 chúa giáo từ thế kỷ 16, và đã từng là Chủng sinh của trường đào tạo Linh Mục 
 Thánh gia tại xứ đạo Bùi Chu, tác giả của các sách Công Giao: Huyền Thoại và Tội 
 Ác, Công Giáo Trên Bờ Vực Thẳm, Công Giáo: Thực Chất và Các Đạo Chúa, Tuyển Tập 
-Độc Thần Giáo (<a href="https://sachhiem.net/">https://sachhiem.net</a>); Nguyễn Văn Thọ, bác sĩ, đã 
+Độc Thần Giáo (<a href="/">https://sachhiem.net</a>); Nguyễn Văn Thọ, bác sĩ, đã 
 từng theo Thiên chúa giáo mấy chục năm thời nhỏ, tác giả sách Suy Nghĩ Về Thiên 
-Chúa Giáo (<a href="https://sachhiem.net/">https://sachhiem.net</a>).</p>
+Chúa Giáo (<a href="/">https://sachhiem.net</a>).</p>
 <p> Người Việt Nam ngây thơ chưa biết gì về đạo Thiên Chúa, Tin Lành, và 
 đặc biệt những người ngoan đạo, tín đồ trung thành của đạo Chúa, nên đọc kỹ hai 
 tác giả này, và các tác giả khác trong sachhiem.net như Trần Chung Ngọc, Nguyễn 
@@ -1845,7 +1845,7 @@ became Eph 2:3 “children of wrath.”</font></p>
 <p> <font face="Arial"><font size="2">4. Trần Chung Ngọc, Tản Mạn 
 Về Ngày 25 Tháng 12,
 </font>
-<a href="https://sachhiem.net/"><font size="2">https://sachhiem.net</font></a></font></p>
+<a href="/"><font size="2">https://sachhiem.net</font></a></font></p>
 
 <p> <font size="2" face="Arial">5.
 <a href="https://www.bringyou.to/apologetics/num54.htm">
@@ -2164,7 +2164,7 @@ September 17, 1997”</font></p>
 <p><font face="Arial"><font size="2">54. Charlie 
 	Nguyễn, Màn Kịch Lộ Đức trong Tuyển Tập Độc Thần Giáo,
 	</font>
-	<a href="https://sachhiem.net/"><font size="2">https://sachhiem.net</font></a></font></p>
+	<a href="/"><font size="2">https://sachhiem.net</font></a></font></p>
 <p><font face="Arial"><font size="2">55. A.T. 
 	Overstreet, The Gospel Truth : Are Men Born Sinners? 1995 (</font><a href="https://www.gospeltruth.net/menbornsinniers/mbsindex.htm"><font size="2">https://www.gospeltruth.net/menbornsinniers/mbsindex.htm</font></a></font></p>
 <p><font size="2" face="Arial">56. . A.T. 

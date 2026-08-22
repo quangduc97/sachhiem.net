@@ -3,7 +3,7 @@ layout: ../../layouts/Article.astro
 title: "Lối rẽ nào sau con đường Alexandre de Rhodes ?"
 author: "Trần Đại Sĩ"
 date: 2019-12-24
-source: "https://sachhiem.net/DOITHOAI/NguoiPhatTu.php"
+source: "/DOITHOAI/NguoiPhatTu"
 category: "Chính trị"
 lang: vi
 wordCount: 1814

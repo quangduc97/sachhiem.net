@@ -2,7 +2,7 @@
 layout: ../../layouts/Article.astro
 title: "Lật Tẩy Lời Thề Dòng Da-tô (1)"
 author: "Hoàng Khôi dịch"
-source: "https://sachhiem.net/null"
+source: "/null"
 category: "Tác giả"
 lang: vi
 wordCount: 5845

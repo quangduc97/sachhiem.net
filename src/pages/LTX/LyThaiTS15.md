@@ -3,7 +3,7 @@ layout: ../../layouts/Article.astro
 title: "Bài Nói Chuyện Với Dân Việt Nam của Tổng Thống Obama"
 author: "ĐSQ Hoa Kỳ ở Hà Nội"
 date: 2016-05-27
-source: "https://sachhiem.net/THOISU_CT/ChuT/TinVN_USembassy.php"
+source: "/THOISU_CT/ChuT/TinVN_USembassy"
 category: "Chính trị"
 lang: vi
 wordCount: 10619

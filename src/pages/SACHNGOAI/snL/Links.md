@@ -1,7 +1,7 @@
 ---
 layout: ../../../layouts/Article.astro
 title: "NHỮNG TÀI LIỆU CHO LÝ TRÍ"
-source: "https://sachhiem.net/Internet Links"
+source: "/Internet Links"
 lang: vi
 wordCount: 928
 image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/SACHNGOAI/file:///C:/SACHHIEM/images/mail.gif"

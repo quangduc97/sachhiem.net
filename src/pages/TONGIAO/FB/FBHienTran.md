@@ -3,7 +3,7 @@ layout: ../../../layouts/Article.astro
 title: "Khoa Học Làm Thế Nào Chứng Minh Có Ma Hay Không?"
 author: "Hiên Trần"
 date: 2026-02-22
-source: "https://sachhiem.net/TONGIAO/FB/FBHienTran.php"
+source: "/TONGIAO/FB/FBHienTran"
 category: "Khoa học"
 lang: vi
 wordCount: 780

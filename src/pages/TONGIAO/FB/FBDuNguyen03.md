@@ -3,7 +3,7 @@ layout: ../../../layouts/Article.astro
 title: "Tấm Ảnh Được Giải Thưởng \"World Press Photo\" Của Năm 2022"
 author: "Du Nguyễn sưu tầm"
 date: 2022-07-30
-source: "https://sachhiem.net/TONGIAO/FB/FBDuNguyen03.php"
+source: "/TONGIAO/FB/FBDuNguyen03"
 category: "Chính trị"
 lang: vi
 wordCount: 1316
@@ -42,11 +42,11 @@ image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/TONGIAO/IMG/CANADA/2
    <a href="https://www.facebook.com/photo/?fbid=765033328141093&amp;set=p.765033328141093">FB Du Nguyên</a> 24 July, 2022; 4:42am </p>
    <p>_________________</p>
    <p><b>Những bài cùng chủ đề:</b></p>
-   <p>- <a href="https://sachhiem.net/LTX/LythaiTG30.php">Những Bóng Ma Trong Nhà Trẻ St. Joseph của Công Giáo La Mã, Chúng Tôi Đã Nhìn Thấy Các Nữ Tu Giết Trẻ Em</a>; Lý Thái Xuân 09-May-2021</p>
-   <p>- <a href="https://sachhiem.net/SACHNGOAI/SH/SH41_Gravesfound.php">Phát Hiện Hàng Trăm Ngôi Mộ Không Tên Khác Tại Trường Nội Trú Ở Canada</a> - SH 29-Jun-2021</p>
-   <p>- <a href="https://sachhiem.net/SACHNGOAI/SH/SH41a_DietChung.php">Chờ Đến Những Phát Hiện Bi Thương Mới Biết Diệt Chủng Văn Hóa Là Tội Ác Như Thế Nào!</a> - SH 7-July-2021</p>
-   <p>- <a href="https://sachhiem.net/TONGIAO/FB/FBDuNguyen03.php">Tấm Ảnh Được Giải Thưởng "World Press Photo" Của Năm 2022 - Cảnh Tưởng Niệm Những Đứa Trẻ Bị Hại Tại Các Trường Nội Trú CGLM</a> Du Nguyên - 30-Jul-2022</p>
-   <p>- <a href="https://sachhiem.net/LTX/LythaiTG35.php">Chuyến Đi Xin Lỗi Thổ Dân ở Canada Của Giáo Hoàng Francis - Các trường nội trú của Canada là một hệ thống "diệt chủng văn hóa"</a> Lý Thái Xuân 27-Jul-2022</p>
+   <p>- <a href="/LTX/LythaiTG30">Những Bóng Ma Trong Nhà Trẻ St. Joseph của Công Giáo La Mã, Chúng Tôi Đã Nhìn Thấy Các Nữ Tu Giết Trẻ Em</a>; Lý Thái Xuân 09-May-2021</p>
+   <p>- <a href="/SACHNGOAI/SH/SH41_Gravesfound">Phát Hiện Hàng Trăm Ngôi Mộ Không Tên Khác Tại Trường Nội Trú Ở Canada</a> - SH 29-Jun-2021</p>
+   <p>- <a href="/SACHNGOAI/SH/SH41a_DietChung">Chờ Đến Những Phát Hiện Bi Thương Mới Biết Diệt Chủng Văn Hóa Là Tội Ác Như Thế Nào!</a> - SH 7-July-2021</p>
+   <p>- <a href="/TONGIAO/FB/FBDuNguyen03">Tấm Ảnh Được Giải Thưởng "World Press Photo" Của Năm 2022 - Cảnh Tưởng Niệm Những Đứa Trẻ Bị Hại Tại Các Trường Nội Trú CGLM</a> Du Nguyên - 30-Jul-2022</p>
+   <p>- <a href="/LTX/LythaiTG35">Chuyến Đi Xin Lỗi Thổ Dân ở Canada Của Giáo Hoàng Francis - Các trường nội trú của Canada là một hệ thống "diệt chủng văn hóa"</a> Lý Thái Xuân 27-Jul-2022</p>
    <p>__________________</p>
    <p class="TuaChuong"><b>Phụ Bản:</b></p>
    <p class="Tuaduoi">I. <a href="https://www.nytimes.com/2022/07/25/world/canada/canada-school-system-pope.html">Các trường nội trú của Canada là một hệ thống "diệt chủng văn hóa", một ủy ban cho biết</a>. </p>

@@ -3,7 +3,7 @@ layout: ../../../layouts/Article.astro
 title: "Theo Dấu Bằng Chứng Chủ Quyền Hoàng Sa, Trường Sa"
 author: "TS Trần Đức Anh Sơn"
 date: 2014-01-20
-source: "https://sachhiem.net/LICHSU/H/HoangSa_TranDucAnhSon.php"
+source: "/LICHSU/H/HoangSa_TranDucAnhSon"
 category: "Lịch sử"
 lang: vi
 wordCount: 9205
@@ -131,7 +131,7 @@ image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/LICHSU/IMG/SmCountry
     Các nhà hàng hải người Hà Lan đã dong thuyền    đi khám phá các vùng biển ở châu Á - Thái Bình Dương, trong đó có biển Đông    từ đầu thế kỷ XVI. Họ thiết lập sơ đồ tuyến hải hành xuyên qua biển Đông, dừng    chân trên các hòn đảo ở ngoài khơi Việt Nam, định danh các quần đảo trên biển    Đông vào những tấm bản đồ địa lý do chính họ vẽ. Họ cũng để lại những tập    nhật ký hải hành, những ghi chép miêu tả về đất nước, biển đảo, con người    Việt Nam trong các thế kỷ XVI-XIX. Đặc biệt, người Hà Lan đã có trao đổi    thương mại với Việt Nam từ rất sớm, thông qua Công ty Đông Ấn Hà Lan    (Vereenigde Oost-Indische Compagnie in Dutch - VOC), công ty thương mại đường    biển hùng mạnh nhất châu Âu, từng làm mưa làm gió trên các vùng biển và    thương cảng quốc tế vào các thế kỷ XVII-XVIII. VOC từng là đối tác thương mại    hàng đầu của chính quyền vua Lê - chúa Trịnh ở Đàng Ngoài lẫn chính quyền    chúa Nguyễn ở Đàng Trong thời kỳ đại thương mại của thế giới. Chính vì thế,    tư liệu về Việt Nam được lưu trữ trong các font tư liệu của VOC cũng rất    nhiều. </p>
  <p class="TuaDoLeft">V-&nbsp;&nbsp;&nbsp;&nbsp;Những Người Bạn Bồ Đào Nha </p>
  <p><i>TT - Trước khi lên  đường sang châu Âu, chúng tôi được nhà nghiên cứu Nguyễn Đình Đầu cho biết Bồ  Đào Nha là nơi lưu giữ nhiều bản đồ về Hoàng Sa và Trường Sa bậc nhất châu Âu.  Vì thế, chúng tôi kỳ vọng rất nhiều vào chuyến đi tìm “bằng chứng chủ quyền” ở  đất nước này.</i></p>
- <p align="center"><a href="https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.devhttps://1.bp.blogspot.com/-WTc9BnWINBE/UtsLPATtnTI/AAAAAAAABNI/_AuzVIcSFbs/s1600/6.jpg"><img border="0" width="320" height="305" src="https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/LICHSU/IMG/SmCountry/thuvienqg_Bodaonha.jpg" alt="https://1.bp.blogspot.com/-WTc9BnWINBE/UtsLPATtnTI/AAAAAAAABNI/_AuzVIcSFbs/s1600/6.jpg"></a></p>
+ 
  
  <p><b>Hai Bản Đồ Cổ Nhất Về  Paracel Ở Văn Khố Quốc Gia Bồ Đào Nha</b></p>
  <p>

@@ -2,17 +2,17 @@
 layout: ../../../layouts/Article.astro
 title: "Tâm Thư Gửi Nhà Nước Việt Nam"
 author: "Nguyễn Mạnh Quang"
-source: "https://sachhiem.net/NMQ/TAMTHU/NMQtt_07.php"
+source: "/NMQ/TAMTHU/NMQtt_07"
 lang: vi
 wordCount: 10339
-image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nha.jpg"
+image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/print.gif"
 ---
 
-<p align="center"><a href="https://www.sachhiem.net/"> <img border="0" src="https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nha.jpg"></a> | 
-				<a target="_blank" href="https://sachhiem.net/NMQ/TAMTHU/NMQtt_07.php">
+<p align="center"> | 
+				<a target="_blank" href="/NMQ/TAMTHU/NMQtt_07">
 				<img border="0" src="https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/print.gif" width="18" height="18"> 
  bản in </a> | 
-	<a target="_blank" href="https://sachhiem.net/NMQ/TAMTHU/NMQtt_Main.php"><b><font face="Symbol" size="5"> ¿ </font></b> trở ra mục lục</a>
+	<a target="_blank" href="/NMQ/TAMTHU/NMQtt_Main"><b><font face="Symbol" size="5"> ¿ </font></b> trở ra mục lục</a>
  |  29 tháng 3, 2009 </p>
  
 			<p class="CHUONG">PHẦN II</p>
@@ -838,7 +838,7 @@ image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nha.jpg"
 			phái Tin Lành khác ra đời. </p>
 			
 			
-			<p><a target="_blank" href="https://sachhiem.net/NMQ/TAMTHU/NMQtt_07a.php">xem tiếp mục III 
+			<p><a target="_blank" href="/NMQ/TAMTHU/NMQtt_07a">xem tiếp mục III 
 			<img border="0" src="https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/Next3.gif" width="15" height="6"></a></p>
 			
 			

@@ -3,7 +3,7 @@ layout: ../../../layouts/Article.astro
 title: "[VATICANOLOGY] Cục Diện Tôn Giáo Biến Chuyển, Quan Chức Chính Quyền Vatican Trung Ương Dồn Dập Thăm Việt Nam -"
 author: "Minh Thạnh"
 date: 2024-06-04
-source: "https://sachhiem.net/TONGIAO/tgM/MinhThanh33ad.php"
+source: "/TONGIAO/tgM/MinhThanh33ad"
 category: "Chính trị"
 lang: vi
 wordCount: 3938

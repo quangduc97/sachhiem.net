@@ -3,7 +3,7 @@ layout: ../../../layouts/Article.astro
 title: "NHẬN DIỆN ĐẾ QUỐC"
 author: "Trần Khách Quan"
 date: 2018-04-17
-source: "https://sachhiem.net/THOISU_CT/ChuK/Khachquan_13.php"
+source: "/THOISU_CT/ChuK/Khachquan_13"
 category: "Chính trị"
 lang: vi
 wordCount: 3706

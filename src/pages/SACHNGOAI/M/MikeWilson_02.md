@@ -3,7 +3,7 @@ layout: ../../../layouts/Article.astro
 title: "Giáo sư Naftali: Tại Sao D. Trump Là Tổng Thống Tệ Hại Nhất Trong Lịch Sử Mỹ?"
 author: "Alex Henderson/ Mike Wilson lược dịch"
 date: 2021-01-15
-source: "https://sachhiem.net/SACHNGOAI/M/MikeWilson_02.php"
+source: "/SACHNGOAI/M/MikeWilson_02"
 category: "Chính trị"
 lang: vi
 wordCount: 1293

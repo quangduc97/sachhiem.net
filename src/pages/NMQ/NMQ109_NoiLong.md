@@ -3,7 +3,7 @@ layout: ../../layouts/Article.astro
 title: "NỖI LÒNG CHO LỊCH SỬ"
 author: "Việt Án Anh"
 date: 2020-03-04
-source: "https://sachhiem.net/NMQ/NMQ109_NoiLong.php"
+source: "/NMQ/NMQ109_NoiLong"
 category: "Tác giả"
 lang: vi
 wordCount: 66

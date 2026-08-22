@@ -3,14 +3,14 @@ layout: ../../../layouts/Article.astro
 title: "Nhìn Nạn Đói Đầu Năm 1945, Nỗi Đau Mất Nước"
 author: "Nguyễn Võ Quân Quyền/ KBCHN"
 date: 2014-09-12
-source: "https://sachhiem.net/LICHSU/K/KBCHN_LS0.php"
+source: "/LICHSU/K/KBCHN_LS0"
 category: "Chính trị"
 lang: vi
 wordCount: 1515
-image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nha.jpg"
+image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/LICHSU/IMG/NANDOI/VoAnNinh_nhiepanh.jpg"
 ---
 
-<p align="center"><a href="https://www.sachhiem.net/"> <img border="0" src="https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nha.jpg"></a> ngày 12-Sep-2014</p>
+<p align="center"> ngày 12-Sep-2014</p>
   <p><i>Nạn đói đầu năm 1945 (Ất Dậu 1945) đã  làm chết hơn 2 triệu người dân Việt Nam, tội ác của thực dân Pháp và  Phát xít Nhật nhằm dồn cả một dân tộc vào thảm họa diệt chủng. Hậu quả bi  thương này nói lên nỗi đớn đau, nhục nhã của sự mất nước, mạng  người dân chúng coi khinh như cỏ rác.</i> </p>
     <hr>
   <p><span class="First">N</span>ạn đói đầu năm 1945 (Ất Dậu 1945) đã làm chết hơn 2  triệu người dân Việt Nam, tội ác của thực dân Pháp và Phát xít Nhật  nhằm dồn cả một dân tộc vào thảm họa diệt chủng. Hậu quả bi thương này nói  lên nỗi đớn đau, nhục nhã của sự mất nước, mạng người dân chúng coi  khinh như cỏ rác. Năm 1858 đến tháng 8/1945 đất nước ta quằn quại gần  100 năm dưới ách đô hộ của thực dân Pháp và phát xít Nhật, khoảng  thời gian này dân ta sống đời nô lệ của địa&nbsp; ngục trần gian.  Không sao kể xiết tội ác của bọn ngoại bang xâm lược, di chứng chúng  gây ra, để lại nặng nề nhất nạn đói đầu năm 1945, đã giết chết hơn  hai triệu người dân vô tội.</p>

@@ -2,14 +2,14 @@
 layout: ../../layouts/Article.astro
 title: "HÃY ĐỂ CHO CÁC LINH MỤC XEM PHIM SEX"
 author: "RKNIEUWS.NET"
-source: "https://sachhiem.net/SACHNGOAI/PThanhTam03.php"
+source: "/SACHNGOAI/PThanhTam03"
 category: "Sách ngoại văn"
 lang: vi
 wordCount: 524
-image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nha.jpg"
+image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/SACHNGOAI/Hinhanh/Priestabuse.jpg"
 ---
 
-<p align="center"><a href="https://www.sachhiem.net/"> <img border="0" src="https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nha.jpg"></a> 26 tháng 7, 2008
+<p align="center"> 26 tháng 7, 2008
  		</p><p class="Tuaduoi"> Đó là lời của nữ minh tinh người Mỹ khuyên Giáo Hoàng&nbsp; 
 	BENEDICTUS XVI nhân ngày Thế Giới Trẻ Công Giáo 2008 ở Sydney.</p>
 	

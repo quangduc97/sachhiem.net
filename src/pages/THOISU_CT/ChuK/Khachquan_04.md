@@ -3,7 +3,7 @@ layout: ../../../layouts/Article.astro
 title: "Chuyên Gia Phê Phán Ứng Viên Tổng Thống:"
 author: "Trần Khách Quan"
 date: 2015-06-14
-source: "https://sachhiem.net/THOISU_CT/ChuK/Khachquan_04.php"
+source: "/THOISU_CT/ChuK/Khachquan_04"
 category: "Tác giả"
 lang: vi
 wordCount: 1141

@@ -3,7 +3,7 @@ layout: ../../../layouts/Article.astro
 title: "Tạ Ơn và Tạ Lỗi"
 author: "Đào Viên"
 date: 2013-11-27
-source: "https://sachhiem.net/LICHSU/DaoVien/DaoVien02.php"
+source: "/LICHSU/DaoVien/DaoVien02"
 category: "Tác giả"
 lang: vi
 wordCount: 4881
@@ -187,4 +187,4 @@ image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/TONGIAO/IMG/THANKSGV
 <p class="nguonL">Nguồn https://daovien.wordpress.com/2010/12/29/t%E1%BA%A1-%C6%A1n-va-t%E1%BA%A1-l%E1%BB%97i/</p>
 <hr>
 <p><b>Mời đọc thêm:</b></p>
-<p>- <a href="https://sachhiem.net/TCN/TCNtg/TCN26.php">Tản Mạn Về Ngày Lễ Tạ Ơn - QUAN ĐIỂM CỦA THỔ DÂN MỸ: MỘT NGÀY “KHÔNG TẠ ƠN” (Ward Churchill)</a> Trần Chung Ngọc dịch</p>
+<p>- <a href="/TCN/TCNtg/TCN26">Tản Mạn Về Ngày Lễ Tạ Ơn - QUAN ĐIỂM CỦA THỔ DÂN MỸ: MỘT NGÀY “KHÔNG TẠ ƠN” (Ward Churchill)</a> Trần Chung Ngọc dịch</p>

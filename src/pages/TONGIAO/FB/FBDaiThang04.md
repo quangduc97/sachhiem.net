@@ -3,7 +3,7 @@ layout: ../../../layouts/Article.astro
 title: "Thêm nhiều nạn nhân bị lạm dụng tình dục lên tiếng chống lại Giáo phận Công giáo Maine"
 author: "By WMTW/ Đại Thắng"
 date: 2023-03-13
-source: "https://sachhiem.net/TONGIAO/FB/FBDaiThang04.php"
+source: "/TONGIAO/FB/FBDaiThang04"
 category: "Chính trị"
 lang: vi
 wordCount: 385

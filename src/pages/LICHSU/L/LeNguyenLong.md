@@ -2,14 +2,14 @@
 layout: ../../../layouts/Article.astro
 title: "Bất đắc dĩ khơi lại đống tro tàn"
 author: "Lê Nguyên Long"
-source: "https://sachhiem.net/LICHSU/L/LeNguyenLong.php"
+source: "/LICHSU/L/LeNguyenLong"
 category: "Lịch sử"
 lang: vi
 wordCount: 5722
-image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nha.jpg"
+image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/LICHSU/IMG/NGODD/NDD_LasanTaberd.jpg"
 ---
 
-<p align="center"> <a href="/index"><img border="0" src="https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nha.jpg" align="middle" hspace="20"></a> 29 tháng 10, 2008</p> 
+<p align="center">  29 tháng 10, 2008</p> 
 <p class="TuaDenLeft">Nhân
                   ngày giổ cụ Diệm, xem lại bài báo 27 năm trước (1981) của tác
                   giả Lê Nguyên Long </p>

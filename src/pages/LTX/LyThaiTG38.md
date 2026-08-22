@@ -3,7 +3,7 @@ layout: ../../layouts/Article.astro
 title: "Các Đức Cha và Đức Thánh Cha sống \"BỐ ĐỜI, ĐỘC ĐẠO\""
 author: "Lý Thái Xuân sưu tầm"
 date: 2022-12-18
-source: "https://sachhiem.net/LTX/LythaiTG38.php"
+source: "/LTX/LythaiTG38"
 category: "Tác giả"
 lang: vi
 wordCount: 3710
@@ -21,21 +21,21 @@ image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/TONGIAO/IMG/LINHMUC/
     <p>Charles Keith viết về «<i>Hồ Ngọc Cẩn và việc động viên giáo dân Việt Nam</i>»:</p>
     <p>Trong thời gian làm giám mục, Hồ Ngọc Cẩn đã lập ra ở Bùi Chu một loạt tổ chức Thiên chúa giáo dành cho thanh niên mà trước đó vốn chỉ tồn tại trong các khu phố thị, rồi lập Thanh Niên Thôn Quê Thiên chúa Giáo, chuyên thảo luận&nbsp;những vấn đề của đời sống nông thôn. </p>
     <p>Các tổ chức này có nhiều chức năng, ví dụ động viên dân chúng đi lễ, cùng nhau đọc Kinh thánh, rửa tội cho trẻ sơ sinh... Các tổ chức do Hồ Ngọc Cẩn giúp đỡ tạo dựng còn đóng vai trò quan trọng sau năm 1945, trong việc tổ chức các xứ đạo trong cuộc kháng chiến chống quân Việt Minh. (<a href="https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.devhttps://tapchitalawas.org/pdf/talawas_tapchi_muathu09_Keith.pdf">Charles Keith</a> trang 18)</p>
-    <p><a href="https://www.sachhiem.net/TCN/TCNtg/TCN108.php?fbclid=IwAR0_W1d1nfe-hQr1nwHQopdsmEgKCzns92gLVKJn0-2DRA3t8XlaCm0rjvM" rel="nofollow noopener" role="link" tabindex="0" target="_blank">https://www.sachhiem.net/TCN/TCNtg/TCN108.php</a>&nbsp;</p>
+    <p><a href="/TCN/TCNtg/TCN108.php?fbclid=IwAR0_W1d1nfe-hQr1nwHQopdsmEgKCzns92gLVKJn0-2DRA3t8XlaCm0rjvM" rel="nofollow noopener" role="link" tabindex="0" target="_blank">https://www.sachhiem.net/TCN/TCNtg/TCN108.php</a>&nbsp;</p>
     
     <p><span class="First">2. </span> <b>Giám mục Nguyễn Bá Tòng</b></p>
     <p><img src="https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/TONGIAO/IMG/LINHMUC/NguyenBaTong.JPG" width="400" height="244" alt=""></p>
     <p> Sinh tại Gò Công 7.8.1868, là người cộng tác đắc lực với Pháp nên được chính phủ thực dân tặng Đệ Ngũ Đẳng Bắc Đẩu Bội Tinh. Trong lễ nhận huy chương cao cấp ngày 3.12.1940, "<i>Đức Cha Nguyễn Bá Tòng đọc diễn văn bày tỏ lòng cảm ơn chính phủ, tỏ lòng trung thành con dân Việt Nam đối với Mẫu Quốc</i>" Pháp, trong khi đã có biết bao phong trào kháng chiến của đa số người dân Việt Nam nổi lên chống Pháp từ ngày đầu.</p>
     <p>Nhà văn Toan Ánh bảo rằng<i> người Thiên Chúa giáo vô cùng hân hoan với buổi đại lễ quan trọng đó </i>cho nên khi đăng bài tường thuật buổi lễ vào quyển Hội Hè Đình Đám ông đã cẩn thận nói rõ ông trích nguyên văn từ quyển<i> “Autour des Fêtes du 3 Décembre 1940 à Phát Diệm” </i>để khỏi mang tiếng sai lầm, xuyên tạc.</p>
-    <p> (<a href="https://sachhiem.net/TCN/TCNtg/TCN108.php">https://sachhiem.net/TCN/TCNtg/TCN108.php</a>) </p>
+    <p> (<a href="/TCN/TCNtg/TCN108">https://sachhiem.net/TCN/TCNtg/TCN108.php</a>) </p>
     
     <p><span class="First">3</span>. <b> Giáo Hoàng Pius XII </b></p>
     <p><img src="https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/TONGIAO/IMG/VATICAN/POPE/PiusXII.png" width="250" height="359" alt=""></p>
     <p>Năm 1939, vì &nbsp;muốn lên ngôi Giáo Hoàng, cho nên Hồng Y Pacelli đã&nbsp; âm mưu sát hại Giáo Hoàng Pius XI (1922-1939) khi ông này đang&nbsp; nằm điều trị trên giường bệnh. Hồng Y Pacelli ngay sau đó trở thành Giáo Hoàng Pius XII.</p>
     <p>Ông này vận động Mỹ bỏ bom nguyên tử xuống miền bắc Việt Nam  để giải vây quân pháp ở Điện Biên Phủ. Sử gia Avro Manhattan viết rõ ràng &nbsp;trong cuốn “Vietnam Why Did We Go?” (New York: Chino, CA: Chick Publications, 1984) với nguyên văn như sau:</p>
-    <p>“<i>Pius XII tiếp tục hỗ trợ cuộc vận động hành lang Hoa Kỳ kêu gọi "một chiến tranh nguyên tử phòng ngừa." Vào năm 1954 khi Quân đội Mỹ lập kế hoạch tấn công hạt nhân bộ đội Việt nam, đang bao vây lính Pháp ở Điện Biên Phủ, chính Vatican đã hỗ trợ cho cuộc vận động hành lang tán thành đề nghị ấy. Dưới thời Eisenhower, khi anh em nhà Dulles, Spellman và Pius XII giúp hình thành những sách lược của Hoa Kỳ, quân đội Mỹ định thả từ một đến sáu quả bom 31-kiloton lên những lực lượng Việt nam. Những qủa bom này có sức mạnh ba lần hơn quả bom ném xuống Hiroshima. Âm mưu sử dụng vũ khí hạt nhân chống lại Việt nam được bạch hóa trong cuốn đầu tiên của loạt 17 cuốn lịch sử chính thức về Chiến tranh Việt nam được xuất bản vào 1984 bởi Phòng Quân Sử Lục Quân Hoa Kỳ.”</i>&nbsp;<a href="https://sachhiem.net/NMQ/NMQ46_Pius12.php#_edn9" name="_ednref9" title="">[9]</a></p>
-    <p><a href="https://sachhiem.net/NMQ/NMQ46_Pius12.php">(https://sachhiem.net/NMQ/NMQ46_Pius12.php</a>)</p>
-    <p>Danh sách các vị Giáo Hoàng sống Bố Đời Độc Đạo rất dài. Xin đọc bài của GS Trần Chung Ngọc: <a href="https://sachhiem.net/TCN/TCNtg/TCN20.php">"Đây Những Đức Thánh Cha"</a> Trong đó có:</p>
+    <p>“<i>Pius XII tiếp tục hỗ trợ cuộc vận động hành lang Hoa Kỳ kêu gọi "một chiến tranh nguyên tử phòng ngừa." Vào năm 1954 khi Quân đội Mỹ lập kế hoạch tấn công hạt nhân bộ đội Việt nam, đang bao vây lính Pháp ở Điện Biên Phủ, chính Vatican đã hỗ trợ cho cuộc vận động hành lang tán thành đề nghị ấy. Dưới thời Eisenhower, khi anh em nhà Dulles, Spellman và Pius XII giúp hình thành những sách lược của Hoa Kỳ, quân đội Mỹ định thả từ một đến sáu quả bom 31-kiloton lên những lực lượng Việt nam. Những qủa bom này có sức mạnh ba lần hơn quả bom ném xuống Hiroshima. Âm mưu sử dụng vũ khí hạt nhân chống lại Việt nam được bạch hóa trong cuốn đầu tiên của loạt 17 cuốn lịch sử chính thức về Chiến tranh Việt nam được xuất bản vào 1984 bởi Phòng Quân Sử Lục Quân Hoa Kỳ.”</i>&nbsp;<a href="/NMQ/NMQ46_Pius12#_edn9" name="_ednref9" title="">[9]</a></p>
+    <p><a href="/NMQ/NMQ46_Pius12">(https://sachhiem.net/NMQ/NMQ46_Pius12.php</a>)</p>
+    <p>Danh sách các vị Giáo Hoàng sống Bố Đời Độc Đạo rất dài. Xin đọc bài của GS Trần Chung Ngọc: <a href="/TCN/TCNtg/TCN20">"Đây Những Đức Thánh Cha"</a> Trong đó có:</p>
     <p>- Các Triều Đại Giáo Hoàng Do Điếm Trị.</p>
     <p>- Các giáo hoàng liên hệ với cô gái điếm xinh đẹp: Marozia.</p>
     <p>Nội dung bài này chỉ chủ ý những vị liên hệ đến Việt Nam thôi.</p>
@@ -56,7 +56,7 @@ image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/TONGIAO/IMG/LINHMUC/
     <p><i>Lẽ tất nhiên, sự tận  tụy của các em tôi trong quá khứ không phải là điều nêu ra để làm cớ mà biện hộ  cho hoạt động bất cẩn của họ ngày hôm nay, nếu sự bất cẩn nầy được chứng tỏ là  điều đã gây nên tội. Tuy nhiên, tôi không nghĩ là tôi đã làm chuyện vô ích khi  kêu gọi đến sự khoan hồng đầy xót thương của Đô Đốc hầu xét với hảo ý trường  hợp các em tôi. Đô Đốc không phải là người chỉ xét đến hiện tại mà lại bỏ quên  đi quá khứ. Tôi nêu ra điều nầy khi xét thấy rằng thân phụ tôi là Ngô Đình Khả  đã từng được vinh dự phục vụ nước Pháp dù sinh mạng bị hiểm nguy, và khi xét  đến quá trình lâu dài của các em tôi, một quá trình được hình thành bằng lòng  tận tụy vô bờ của các em tôi đối với nước Pháp, mà không sợ phải hy sinh mạng  sống của mình cho nước Pháp.</i></p>
     <p><i>Thưa Đô Đốc, một lần  nữa bày tỏ với Đô Đốc tất cả niềm đau đớn của tôi trong vụ nầy, tôi xin Đô Đốc  vui lòng nhận nơi đây lời kính chào trân trọng nhất của tôi.</i></p>
     <p><i>NGÔ ĐÌNH THỤC</i></p>
-<p>[<a href="https://sachhiem.net/BUIKHA/BuiKha.php">https://sachhiem.net/BUIKHA/BuiKha.php</a>]</p>
+<p>[<a href="/BUIKHA/BuiKha">https://sachhiem.net/BUIKHA/BuiKha.php</a>]</p>
 
  <p><span class="First">5. </span> <b>Giám mục  Phạm Ngọc Chi </b></p>
 <p><img src="https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/TONGIAO/IMG/LINHMUC/GM_PhamNgocChi.jpg" width="252" height="380" alt=""></p>
@@ -68,7 +68,7 @@ image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/TONGIAO/IMG/LINHMUC/
 <p><img src="https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/TONGIAO/IMG/LINHMUC/LEHUUTU/GMLeHuuTu.jpg" width="300" height="428" alt=""></p>
 <p>Từ tháng 11 năm 1948, sau khi Giám mục Bùi Chu là Giuse Đa Minh Hồ Ngọc Cẩn qua đời, Tòa Thánh chỉ định ông kiêm Giám quản Tông tòa Giáo phận Bùi Chu. Ảnh hưởng và tổ chức của ông tiếp tục lan ra đến Bùi Chu. Cả một khu vực Bùi Chu - Phát Diệm trở thành khu tự trị Công giáo với 40 vạn giáo dân, dưới sự cai quản của ông, ngoài quyền kiểm soát của chính quyền Việt Nam Dân chủ Cộng hòa.</p>
 <p>Hồi ký trên cho thấy Lê Hữu Từ là một <b>con người xảo quyệt</b>, lợi dụng sự cởi mở của Cụ Hồ để mưu đồ chống Việt Minh theo lệnh của Vatican. Nguyên do chỉ vì sự cuồng tín tôn giáo cộng với tinh thần nô lệ Vatican của Giám mục cũng như của mọi giới lãnh đạo trong Ca-tô Rô-ma Giáo ở Việt Nam. Chúng ta còn nhớ giáo hoàng Pius XII đã đe dọa tuyệt thông mọi giáo dân nào ủng hộ Cộng sản hay có liên hệ gì với Cộng sản. Đối với những tín đồ thấp kém, nhẹ dạ, cả tin, <i>"tuyệt thông" hay "rút phép thông công</i>" là một vũ khí hù dọa hữu hiệu, vì họ đã được nhồi vào đầu từ khi còn nhỏ là muốn hiệp thông với Chúa thì phải đi qua các trung gian như Linh mục, Giám mục, Giáo hoàng hay "Tòa Thánh". Nhưng đối với giới trí thức, ngay cả trong giáo hội, thì đó chỉ là một biện pháp hù dọa đáng khinh, vì nó vô giá trị, vô nghĩa, lỗi thời, và nhất là dựa vào một quyền lực tự phong, không có một căn bản nào có thể thuyết phục được những người có đầu óc. Thật vậy, trong cuốn Thượng đế Chưa Chết:<i> Từ Sự Sợ Hãi Tôn Giáo Đến Sự Tự Do Tâm Linh</i> (God Lives: From Religious Fear To Spiritual Freedom), Linh Mục James Kavanaugh đã vạch rõ cho chúng ta thấy bản chất và ý nghĩa của Hình Phạt Hù Dọa Tuyệt Thông Của Tòa Thánh, trang 39-40:</p>
-<p><a href="https://www.sachhiem.net/TCN/TCNtg/TCN108.php?fbclid=IwAR0TrOs3CV3EDdl1Ih8ZJlt9zqJQfwTlVL7OoXtlOQ9jzWt9VSyIkH-CTVM" rel="nofollow noopener" role="link" tabindex="0" target="_blank">https://www.sachhiem.net/TCN/TCNtg/TCN108.php</a></p>
+<p><a href="/TCN/TCNtg/TCN108.php?fbclid=IwAR0TrOs3CV3EDdl1Ih8ZJlt9zqJQfwTlVL7OoXtlOQ9jzWt9VSyIkH-CTVM" rel="nofollow noopener" role="link" tabindex="0" target="_blank">https://www.sachhiem.net/TCN/TCNtg/TCN108.php</a></p>
 
 <p><span class="First">7. </span> <b>Tổng Giám Mục Nguyễn Văn Bình</b></p>
 <p><img src="https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/TONGIAO/IMG/LINHMUC/GM_NguyenVanBinh_Phaolos.jpg" width="250" height="362" alt=""></p>
@@ -77,7 +77,7 @@ image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/TONGIAO/IMG/LINHMUC/
 <p>Mỹ&nbsp;tái lập đế chế Diệm-không-Diệm vững mạnh để tiến hành  chiến tranh hủy diệt với thuốc khai quang, bom đạn và hơn hai triệu quân nhân  Mỹ lần lược thay phiên tham chiến tại Việt Nam.</p>
 <p>Số bom rãi xuống Việt Nam còn hơn tổng số bom đạn trong thời đệ  nhị thế chiến II quyết đẩy Miền Bắc trở lại thời Ðồ Ðá (TV: Vietnam War  History). Thế đó, nhưng khi Tổng thống Johnson tuyên bố chấm dứt oanh tạc miền  Bắc thì Tổng Giám Mục Nguyễn Văn Bình phản ứng ra sao? Tờ Le Monde, ngày  22/10/1968 trả lời như sau:</p>
 <p>- “<i>Tổng giám mục Nguyễn Văn Bình, ở Sàigon, được mọi quan sát  viên phương Tây xem là người ôn hòa nhất trong số những nhà lãnh đạo Thiên Chúa  giáo Việt Nam mới đây đã chấm dứt sự im lặng khi tuyên bố chống lại việc ngưng  oanh tạc miền Bắc</i>."</p>
-<p>Nguồn:&nbsp;<a href="https://sachhiem.net/THOISU_CT/ChuT/Tintrongnuoc3.php?fbclid=IwAR1BUtTY1QzTjJlFQNODikQP9mnmr64EXdHDz5Ce-CwSGQmfLD4eQopM6pw" target="_blank">https://sachhiem.net/THOISU_CT/ChuT/Tintrongnuoc3.php</a></p>
+<p>Nguồn:&nbsp;<a href="/THOISU_CT/ChuT/Tintrongnuoc3.php?fbclid=IwAR1BUtTY1QzTjJlFQNODikQP9mnmr64EXdHDz5Ce-CwSGQmfLD4eQopM6pw" target="_blank">https://sachhiem.net/THOISU_CT/ChuT/Tintrongnuoc3.php</a></p>
 
 <p><span class="First">8.</span> <b>Giám mục Ngô Quang Kiệt </b></p>
 <p><img src="https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/TONGIAO/IMG/LINHMUC/NGOQUANGKIET/NgoQuangKiet_giaodan1.png" width="400" height="268" alt=""></p>

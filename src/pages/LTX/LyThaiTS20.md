@@ -3,7 +3,7 @@ layout: ../../layouts/Article.astro
 title: "Tháng Tư Đen... Thật Rồi!"
 author: "Lý Thái Xuân"
 date: 2023-04-24
-source: "https://sachhiem.net/LTX/LyThaiTS20.php"
+source: "/LTX/LyThaiTS20"
 category: "Chính trị"
 lang: vi
 wordCount: 725

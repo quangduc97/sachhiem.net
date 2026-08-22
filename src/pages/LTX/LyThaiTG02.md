@@ -2,7 +2,7 @@
 layout: ../../layouts/Article.astro
 title: "Dâng nước nơi này, đòi đất nơi khác!"
 author: "Lý Thái ghi"
-source: "https://sachhiem.net/LTX/LythaiTG02.php"
+source: "/LTX/LythaiTG02"
 category: "Tác giả"
 lang: vi
 wordCount: 5348

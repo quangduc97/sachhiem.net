@@ -3,7 +3,7 @@ layout: ../../../layouts/Article.astro
 title: "Tự Hào Là Con Phật"
 author: "Dương Kinh Thành"
 date: 2020-09-13
-source: "https://sachhiem.net/VANHOC/DKTH/DgKinhThanh19.php"
+source: "/VANHOC/DKTH/DgKinhThanh19"
 category: "Tác giả"
 lang: vi
 wordCount: 2718

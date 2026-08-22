@@ -3,7 +3,7 @@ layout: ../../../layouts/Article.astro
 title: "Lịch Sử Ngày Quốc Tô Hùng Vương - Ngày 10 tháng 3 Âm Lịch"
 author: "Y Sỹ HUỆ LỘC"
 date: 2018-04-24
-source: "https://sachhiem.net/LICHSU/G/GIOTO_YsyHueLoc.php"
+source: "/LICHSU/G/GIOTO_YsyHueLoc"
 category: "Văn hóa"
 lang: vi
 wordCount: 2451
@@ -75,7 +75,7 @@ image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/LICHSU/IMG/SuVN/Kinh
   Biệt lịch 4991</p>
 <p>______________</p>
 <p><b>Tài Liêu tham khảo:</b></p>
-<p>- <a href="https://sachhiem.net/LICHSU/H/HacHai.php">Về với cội nguồn Dân  tộc Tác giả: Hạc Haĩ cư sỹ</a> (Sách Hiếm)<br>
+<p>- <a href="/LICHSU/H/HacHai">Về với cội nguồn Dân  tộc Tác giả: Hạc Haĩ cư sỹ</a> (Sách Hiếm)<br>
   Lăng Mộ Đền thờ Thủy Tổ Kinh Dương Vương (nxb  TTVH Bắc Ninh)<br>
   Các VUA Hùng (  nxb TTVH Phú Thọ)<br>
   Việt Nam Đất Nước  Con người (tg Hoàng Đạo Thuý. Ngươì  khai sáng thành lập Hội&nbsp; phong trào Hướng Đạo Việt Nam<br>

@@ -3,7 +3,7 @@ layout: ../../../layouts/Article.astro
 title: "Khoa Học Giải Thích Hiện Tượng Xác Chết Cử Động Như Thế Nào?"
 author: "Hiên Trần"
 date: 2026-02-24
-source: "https://sachhiem.net/TONGIAO/FB/FBHienTran_01.php"
+source: "/TONGIAO/FB/FBHienTran_01"
 category: "Khoa học"
 lang: vi
 wordCount: 984

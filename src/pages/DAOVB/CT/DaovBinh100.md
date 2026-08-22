@@ -3,7 +3,7 @@ layout: ../../../layouts/Article.astro
 title: "Nhật Ký Biển Đông: Ô. Trump Giải Quyết Vấn Đề Palestines Ra Sao?"
 author: "Đào Văn Bình"
 date: 2017-12-15
-source: "https://sachhiem.net/DAOVB/CT/DaovBinh100.php"
+source: "/DAOVB/CT/DaovBinh100"
 category: "Chính trị"
 lang: vi
 wordCount: 5061

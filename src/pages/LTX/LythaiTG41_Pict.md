@@ -2,7 +2,7 @@
 layout: ../../layouts/Article.astro
 title: "Phân Tích Các Nguồn Thông Tin Quanh Câu Chuyện Về LM Trương Bửu Diệp"
 author: "Lý Thái Xuân"
-source: "https://sachhiem.net/LTX/LyThaiTG41_Pict.php"
+source: "/LTX/LyThaiTG41_Pict"
 category: "Lịch sử"
 lang: vi
 wordCount: 21

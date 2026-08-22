@@ -3,7 +3,7 @@ layout: ../../../layouts/Article.astro
 title: "Thái Lan: Bài Học Về Nhân Quyền Cho HRW (Human Rights Watch)"
 author: "Lam Sơn"
 date: 2014-12-08
-source: "https://sachhiem.net/THOISU_CT/ChuC/CheTH_Lamson.php"
+source: "/THOISU_CT/ChuC/CheTH_Lamson"
 category: "Chính trị"
 lang: vi
 wordCount: 2511

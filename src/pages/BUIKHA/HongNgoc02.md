@@ -3,7 +3,7 @@ layout: ../../layouts/Article.astro
 title: "Cơ Đốc Dã Man Do Nhầm Quả Đất"
 author: "Hồng Ngọc"
 date: 2014-08-16
-source: "https://sachhiem.net/BUIKHA/HongNgoc02.php"
+source: "/BUIKHA/HongNgoc02"
 category: "Tác giả"
 lang: vi
 wordCount: 5332
@@ -90,9 +90,9 @@ Từ hai nhận định tương  phản nhau về quả đất như trên, chún
 <p> <b>Ghi chú  của tác giả:</b> <i>Nhà xb Tôn Giáo không đọc nội  dung của những loại “kinh”dạy cướp của giết người man rợ như vậy, nếu có những  hành động xẩy ra từ sự gợi ý của nội dung cuốn kinh ấy, thì nxb phải chịu hoàn  toàn trách nhiệm về hình sự cũng như bồi thường thiệt hại cho nạn nhân.</i></p>
 <p> Nếu  là Thánh kinh thật, thì Chúa có thể bị hiểu như là đảng trưởng của đảng cướp  của giết người, đem súc vật và gái trinh về chia nhau. Trong đó, Chúa Trời cũng  được thụ hưởng nhiều ngàn súc vật và 32 gái trinh. Nếu Thánh Kinh bị ngụy tạo,  thì Giáo hội có bổn phận cải chính cho Chúa.</p>
 <p> Hành  động nầy của Chúa, phải chăng là nguồn cảm hứng cho các linh mục giám mục hiếp  dâm người lớn và trẻ em xẩy ra cùng khắp thế giới, mà Giáo hội đã tốn hằng tỉ  Mỹ kim vẫn chưa đủ trả án phí án phạt.</p>
-<p> Tôi có đọc <a href="https://sachhiem.net/TONGIAO/tgN/ListNSm.inc.php">Thư Ngỏ của ông Nguyễn Sâm, gởi  Hội Đồng Giám Mục Việt Nam và Hội Tin Lành Việt Nam,</a> ngày 4.3.2013. Trong đó,  ông Nguyễn Sâm trích dẫn một số lời dạy và hành động dã man, ác độc, phi nhân của  Chúa trong Cựu Ước, và yêu cầu hai Giáo hội giải thích lý do. Có thể xem toàn bức  thư theo những links dưới đây: </p>
+<p> Tôi có đọc <a href="/TONGIAO/tgN/ListNSm.inc">Thư Ngỏ của ông Nguyễn Sâm, gởi  Hội Đồng Giám Mục Việt Nam và Hội Tin Lành Việt Nam,</a> ngày 4.3.2013. Trong đó,  ông Nguyễn Sâm trích dẫn một số lời dạy và hành động dã man, ác độc, phi nhân của  Chúa trong Cựu Ước, và yêu cầu hai Giáo hội giải thích lý do. Có thể xem toàn bức  thư theo những links dưới đây: </p>
   <p>- <a href="https://groups.yahoo.com/neo/groups/caodai/conversations/topics/11148">https://groups.yahoo.com/neo/groups/caodai/conversations/topics/11148</a> </p>
-  <p>- <a href="https://sachhiem.net/TONGIAO/tgN/ListNSm.inc.php">https://sachhiem.net/TONGIAO/tgN/ListNSm.inc.php</a></p>
+  <p>- <a href="/TONGIAO/tgN/ListNSm.inc">https://sachhiem.net/TONGIAO/tgN/ListNSm.inc.php</a></p>
   <p>- <a href="https://tongiaovadantoc.com/c1043/20130221170430440/thu-ngo-gui-hoi-dong-giam-muc-viet-nam-hoi-thanh-tin-lanh-viet-nam.htm">https://tongiaovadantoc.com/c1043/20130221170430440/thu-ngo-gui-hoi-dong-giam-muc-viet-nam-hoi-thanh-tin-lanh-viet-nam.htm</a> </p>
   <p>Có thể tìm trên google  tiếng Việt bằng cách đánh máy dòng chữ<i>“</i>Nguyễn  Sâm, Thư Ngỏ gởi Hội đồng Giám mục Việt Nam và Hội thánh Tin lành Việt Nam”.</p>
 <p>Cho  đến nay hai Giáo hội Công Giáo và Tin Lành đã không đủ sức (?) trả lời Thư Ngỏ  của ông Nguyễn Sâm, một cựu con chiên của Giáo Hội.</p>

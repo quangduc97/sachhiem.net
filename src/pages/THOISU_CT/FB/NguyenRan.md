@@ -3,7 +3,7 @@ layout: ../../../layouts/Article.astro
 title: "\"Kỹ Nghệ Từ Thiện\" Có Từ Đâu?"
 author: "Nguyễn Ran"
 date: 2021-10-20
-source: "https://sachhiem.net/THOISU_CT/FB/NguyenRan.php"
+source: "/THOISU_CT/FB/NguyenRan"
 category: "Chính trị"
 lang: vi
 wordCount: 894

@@ -3,7 +3,7 @@ layout: ../../../layouts/Article.astro
 title: "LHQ: Vai trò tay sai của NATO Từ Chiến Tranh Kosovo"
 author: "Mike Wilson"
 date: 2023-02-23
-source: "https://sachhiem.net/THOISU_CT/ChuM/MikeWilson_34.php"
+source: "/THOISU_CT/ChuM/MikeWilson_34"
 category: "Chính trị"
 lang: vi
 wordCount: 869

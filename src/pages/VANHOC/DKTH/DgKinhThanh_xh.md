@@ -2,16 +2,16 @@
 layout: ../../../layouts/Article.astro
 title: "Nhân Mùa World Cup"
 author: "Dương Kinh Thành"
-source: "https://sachhiem.net/VANHOC/DKTH/DgKinhThanh_xh.php"
+source: "/VANHOC/DKTH/DgKinhThanh_xh"
 category: "Xã hội"
 lang: vi
 wordCount: 2222
-image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nha.jpg"
+image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/XAHOI/IMG/Baggio.jpg"
 ---
 
 <table border="0" cellpadding="0" align="center" width="250">
             <tbody><tr>
-              <td width="100"><a href="/index"><img border="0" src="https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nha.jpg"></a></td>
+              <td width="100"></td>
 							<td valign="top" width="195">
 							<p>24 tháng 6,  2010</p></td>
 						</tr>

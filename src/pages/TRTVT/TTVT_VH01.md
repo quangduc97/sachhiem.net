@@ -3,16 +3,16 @@ layout: ../../layouts/Article.astro
 title: "Phạm Duy trong Nương Chiều"
 author: "Trần Thị Vĩnh-Tường"
 date: 2013-02-06
-source: "https://sachhiem.net/TRTVT/TTVT_VH01.php"
+source: "/TRTVT/TTVT_VH01"
 category: "Xã hội"
 lang: vi
 wordCount: 1034
-image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nha.jpg"
+image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/TRTVT/TTVT_VH01_trau.jpg"
 ---
 
 <table border="0" cellpadding="0" width="250" align="center">
             <tbody><tr>
-              <td width="125"><a href="/index"><img border="0" src="https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nha.jpg"></a></td>
+              <td width="125"></td>
               <td valign="top" width="195"></td></tr></tbody></table>
        
        <p><span class="First">P</span>hạm Duy  vừa mất. Một ngàn tác phẩm, riêng Nương  Chiều như máy ảnh chụp khoảng khắc kháng chiến 1946-1954. Nương Chiều,  nhắc bóng chàm miền trung du cùng đồng bằng một thời &nbsp;chống Pháp. </p>

@@ -3,7 +3,7 @@ layout: ../../../layouts/Article.astro
 title: "Một Vài Trong Các Tội Ác Của"
 author: "Du Nguyễn sưu tầm"
 date: 2022-08-05
-source: "https://sachhiem.net/LICHSU/FB/DuNguyen.php"
+source: "/LICHSU/FB/DuNguyen"
 category: "Chính trị"
 lang: vi
 wordCount: 1330
@@ -69,4 +69,4 @@ image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/LICHSU/IMG/NGODD/LEG
   * Thứ nhì là thông qua  nguồn tài liệu đó để trình bày một số phát hiện mới, vốn không được đa số giới  nghiên cứu người Việt hải ngoại khai thác và phổ biến, thậm chí còn bị một số  “nhà bình luận” xuyên tạc và ngộ nhận, về những gì đã thực sự xảy ra tại miền  Nam Việt Nam trong năm 1963.</p>
 
 <p class="TuaChuong">PHỤ ĐÍNH 2:</p>
-<p>- <a href="https://www.sachhiem.net/NMQ/HOSOTOIAC/CH63_1a.php"><i>"Ngô Đình Diệm: Con Người Và Tội Ác</i>"</a> của tác giả Nguyễn Mạnh Quang</p>
+<p>- <a href="/NMQ/HOSOTOIAC/CH63_1a"><i>"Ngô Đình Diệm: Con Người Và Tội Ác</i>"</a> của tác giả Nguyễn Mạnh Quang</p>

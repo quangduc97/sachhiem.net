@@ -2,18 +2,18 @@
 layout: ../../layouts/Article.astro
 title: "Sách Lược Chống Lại"
 author: "Nguyễn Mạnh Quang"
-source: "https://sachhiem.net/NMQ/NMQ026a.php"
+source: "/NMQ/NMQ026a"
 category: "Lịch sử"
 lang: vi
 wordCount: 5260
-image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nha.jpg"
+image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/LICHSU/IMG/Chiensicamtu.jpg"
 ---
 
 <p class="Tuaduoi">TRUYỀN THỐNG TÔN THỜ ANH HÙNG DÂN TỘC TA: </p>
 
 
 
-<p align="center"><a href="https://sachhiem.net/index.php"><img hspace="20" border="0" src="https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nha.jpg"></a>20 tháng 11, 2009 </p>
+<p align="center">20 tháng 11, 2009 </p>
 <p><a href="/NMQ/NMQ026">(tiếp theo mục 1: 1.- Sách lược nhắm vào đời tư cá nhân để phỉ báng)</a></p>
 <p class="TuaChuong"><strong>2.- Sách lược làm giảm thiểu đại công nghiệp của Cụ Hồ       Chí Minh: </strong> </p>
 
@@ -67,7 +67,7 @@ chống Vatican và phong trào các đế        quốc Âu Châu</p>
 <p><b>Thứ hai</b>, cũng bắt đầu từ đầu thế kỷ 16, có phong       trào các cường quốc Âu Châu đem quân đi đánh chiếm đất đai ở ngoài lục địa Âu       Châu để làm thuộc địa hoặc là để khai thác tài nguyên và tiêu thụ hàng hóa kỹ       nghệ, hoặc là để di dân. </p>
 <p><b>Loại thuộc địa để khai thác tài nguyên và thị trường       thêu thụ hàng hóa kỹ nghệ</b>. Mới đầu, mẫu quốc dùng loại thuộc đia này làm       thuộc địa khai thác tài nguyên và cưỡng bách người dân bản địa làm nô lệ phục       dịch trong các công trường khác thác tài nguyên và các công trường xây cất dinh       thự, nhà thờ, gác chuông cùng các cơ sở khác và hầu hạ họ. Cuối thế kỷ 18 sang       đầu thế kỷ 19, kỹ nghệ phát triển mạnh ở Âu Châu và Bắc Mỹ, các thuộc địa của       các đế quốc Âu Châu lại mang thêm tính cách là thị trường tiêu thụ hàng hóa kỹ       nghệ của chính quốc và là nơi cung cấp nguyên liệu cho các nhà máy kỹ nghệ tại       chính quốc.</p>
 <p><b>Loại thuộc địa di dân như Bắc Mỹ, Úc Châu và Nam Phi: </b>khi Lọai thuộc địa di dân là những quốc gia bị các đế quốc chinh phục rồi       chiếm luôn để đem dân đến lập nghiệp và biến thành một phần đất trong lãnh thổ       của chính quốc. Đây là trường hợp Bắc Mỹ, Trung Mỹ, Nam Mỹ, Úc Đại Lợi, Tân Tây       Lan, Nam Phi, v.v…. Trong trường hợp này, các quốc gia nạn nhân hoàn toàn bị       xóa tên trên bản đồ thế giới.</p>
- <p>[Liên hệ đến đề tài này, xin đọc thêm bài của tác giả khác: <a href="https://sachhiem.net/index.php?content=showrecipe&amp;id=6151">"Giá Như Không Có CMT8, Không Có ĐBP, Không Có 30/4..."</a>]</p>
+ <p>[Liên hệ đến đề tài này, xin đọc thêm bài của tác giả khác: <a href="/THOISU_CT/ChuN/NgnThhTung05">"Giá Như Không Có CMT8, Không Có ĐBP, Không Có 30/4..."</a>]</p>
 <p class="MUC">THUỘC ĐỊA CỦA CÁC ĐẾ QUỐC TIN LÀNH<br>VÀ THUỘC ĐỊA CỦA CÁC ĐẾ QUỐC KI TÔ LA MÃ</p>
 <p>Chúng ta lại chia các thuộc đế quốc này ra làm hai loại:       Loại thuộc địa của các đế quốc mà chính quyền đế quốc theo đạo Tin Lành, và loại       các thuộc địa mà các đế quốc mà những người cậm quyền theo đạo Ki-tô La Mã hay       cấu kết chặt chẽ với Vatican. </p>
 

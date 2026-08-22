@@ -3,14 +3,14 @@ layout: ../../../layouts/Article.astro
 title: "Cô Là Cô Giáo Giỏi Nhất, Tốt Nhất Của Đời Em"
 author: "Nguyễn thị Phúc sưu tầm và dịch"
 date: 2014-11-30
-source: "https://sachhiem.net/VANHOC/N/NTPhuc02.php"
+source: "/VANHOC/N/NTPhuc02"
 category: "Chính trị"
 lang: vi
 wordCount: 1159
-image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nha.jpg"
+image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/VANHOC/Hinh/CogiaoThompson.JPG"
 ---
 
-<p align="center"><a href="https://www.sachhiem.net/"> <img border="0" src="https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nha.jpg"></a> ngày 30-Nov-2014 </p>
+<p align="center"> ngày 30-Nov-2014 </p>
    <p><span class="First">H</span>ôm tựu trường lớp 5, cô giáo Thompson đứng trước mặt học sinh nói rằng: Các em thân yêu, cô rất thương các em. Cô thương tất cả các em.</p>
   <p>"<i>Nói láo !" Cô Thompson thầm hổ thẹn với chính mình. Làm sao có thể vỗ ngực tuyên bố rằng thương tất cả mọi học sinh được!</i>"</p>
   <p>Trước mặt cô là thằng Teddy Stoddard, áo quần xốc xếch, ăn mặc dơ dáy, hôi hám, dường như nó không chịu tắm rửa, chẳng chịu chơi với ai, lại thêm khó tính, ... Tất cả tật xấu cô đã nhận thấy nơi thằng Teddy từ lúc nó học lớp 4 năm ngoái với thầy John Brown gần bên, lại tiếp tục hiện ra năm nay.</p>

@@ -3,7 +3,7 @@ layout: ../../../layouts/Article.astro
 title: "Thuế Độc Lập của 14 Nước Châu Phi"
 author: "Du Nguyễn sưu tầm"
 date: 2023-02-13
-source: "https://sachhiem.net/LICHSU/FB/DuNguyen01.php"
+source: "/LICHSU/FB/DuNguyen01"
 category: "Chính trị"
 lang: vi
 wordCount: 3129

@@ -2,16 +2,14 @@
 layout: ../../../layouts/Article.astro
 title: "Phật Giáo Dưới Mắt Các Nhà Trí Thức Trên Thế Giới"
 author: "Võ Hiền sưu tầm"
-source: "https://sachhiem.net/TONGIAO/FB/FBVoHien.php"
+source: "/TONGIAO/FB/FBVoHien"
 category: "Tác giả"
 lang: vi
 wordCount: 2659
-image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nha.jpg"
+image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/TONGIAO/IMG/SACH/DanhNgon_PG.jpg"
 ---
 
-<p align="center"><a href="https://www.sachhiem.net/">
-<img border="0" src="https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nha.jpg"></a> </p>
- <div class="tomluoc">
+<div class="tomluoc">
    <p><i>LTS: Nhận thấy đây là một số sưu tập các nhận xét đáng giá của các bậc trí giả về giáo lý nhà Phật, chúng tôi xin lưu lại để tham khảo. Bài đã được bạn Võ Hiền đăng năm 2023. </i></p>
    <p><i>Tham khảo: <a href="https://thuvienphatgiao.com/buddhistbook/detail/book-591/24/Phat-giao-duoi-mat-cac-nha-tri-thuc-.html">Thuvienphatgiao.com,</a> <a href="https://giangvien.net/sach-ve-phat-giao/phat-giao-mat-nha-tri-thuc.html">Giangvien.net</a>, <a href="https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.devhttps://www.niemphat.vn/downloads/buoc-dau-hoc-phat/so-do-hoc-phat/phat-giao-duoi-mat-nha-tri-thuc-tt-thich-tam-quang.pdf">NiemPhat.vn</a>, <a href="https://timtailieu.vn/tai-lieu/phat-giao-duoi-mat-nha-tri-thuc-29453/">Timtailieu.vn </a> </i> (SH) </p>
   </div>

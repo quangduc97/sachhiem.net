@@ -3,7 +3,7 @@ layout: ../../../layouts/Article.astro
 title: "Việt Nam Cộng Hòa - Bài Học Nào Chấn Hưng Đất Nước?"
 author: "Trần Văn Xẻn"
 date: 2018-11-12
-source: "https://sachhiem.net/LICHSU/TR/TranVanXen_05.php"
+source: "/LICHSU/TR/TranVanXen_05"
 category: "Chính trị"
 lang: vi
 wordCount: 21019
@@ -325,9 +325,9 @@ image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/LICHSU/IMG/VNCH/Diem
 <p>_________________</p>
 <p><b>Notes:</b></p>
 <p>     1. <a href="https://vietsciences.free.fr/biographie/politicians/Spellman01.htm">https://vietsciences.free.fr/....  Joseph Buttinger,</a> Vietnam: A Political History. New York: Frederick A. Praeger,  1968.</p>
-<p>     2. <a href="https://sachhiem.net/LICHSU/TR/TranVanXen.php">https://sachhiem.net/LICHSU/TR/TranVanXen.php</a></p>
+<p>     2. <a href="/LICHSU/TR/TranVanXen">https://sachhiem.net/LICHSU/TR/TranVanXen.php</a></p>
 <p>     3. <a href="https://youtu.be/X_Qn0pPZ6TU">https://youtu.be/X_Qn0pPZ6TU</a></p>
-<p>     4.<a href="https://sachhiem.net/TONGIAO/TTTINH/TTT_30.php"> GIÁO HỘI TRONG CƠN BÃO BÙNG - Linh mục Trần Tam Tĩnh </a> </p>
+<p>     4.<a href="/TONGIAO/TTTINH/TTT_30"> GIÁO HỘI TRONG CƠN BÃO BÙNG - Linh mục Trần Tam Tĩnh </a> </p>
 <p>     5. Bùi Kha,&nbsp; <i>Ngô Đình Diệm - Bảy nguyên nhân Thất bại</i>.  1963 – 2013: Năm Mươi Năm Nhìn Lại,<b> </b>tập hai,<b> </b>chương tám, trang 441, 442, 443. Nhà  Xuất bản Thiện Tri Thức Publications P.O. Box 4805 Garden Grove, CA.92842-4805  – USA </p>
 <p>     6. Jacques Dalloz, The War in Indochina 1945-1954</p>
 <p>     7.  <a href="https://history.state.gov/historicaldocuments/frus1961-63v03/d112">112. Telegram From the Consulate at Hue to the Department of State</a></p>
@@ -364,7 +364,7 @@ image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/LICHSU/IMG/VNCH/Diem
 <p>     38. Nguyễn Tiến Hưng, Khi đồng minh tháo chạy, P3 -  Chương 9: Nhát gươm đao phủ. P. 174.</p>
 <p>     39. Nguyễn Tiến Hưng, Khi đồng minh tháo chạy, P3 -  Chương 12: Hãy giúp chúng tôi. P. 227.</p>
 <p>     40. Nguyễn Tiến Hưng, Khi đồng Minh Tháo Chạy, phần I,  chương 1: Vắt chanh bỏ vỏ.</p>
-<p>     41. <a href="https://sachhiem.net/HOANHLINH/VNML13.php">https://sachhiem.net/HOANHLINH/VNML13.php</a></p>
+<p>     41. <a href="/HOANHLINH/VNML13">https://sachhiem.net/HOANHLINH/VNML13.php</a></p>
 <p>     42. Phạm Trọng Luật, <i>Chế độ Ngô Đình Diệm và vấn đề buôn bán nha phiến. </i>1963 – 2013 NĂM MƯƠI  NĂM NHÌN LẠI,<b> </b>tập một,<b> </b>chương hai, trang 204. Nhà  Xuất bản Thiện Tri Thức Publications P.O. Box 4805 Garden Grove, CA.92842-4805  – USA </p>
 <p>     43. <a href="https://www.daichung.com/77/05_quan_y.shtm">https://www.daichung.com/77/05_quan_y.shtm</a></p>
 <p>     44. <a href="https://vietbao.com/a225598/hau-qua-bai-tru-tham-nhung-nho-ong-gia-gan-nam-ky-tran-van-huong">https://vietbao.com/... Hậu Quả Bài Trừ Tham Nhũng Nhớ Ông Già Gân Nam Kỳ Trần Văn Hương</a> </p>
@@ -373,7 +373,7 @@ image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/LICHSU/IMG/VNCH/Diem
 CHỨNG ĐỒNG THỜI LÀ NẠN NHÂN CHÍNH TRONG VỤ BUÔN LẬU “ CÒI HỤ LONG AN”</a></p>
 <p>     47. <a href="https://www.ivietnamese.com/forums/showthread.php?t=357433">https://www.ivietnamese.com/forums/showthread.php?t=357433</a></p>
 <p>     48. <a href="https://vi.wikipedia.org/wiki/Nguy%E1%BB%85n_V%C4%83n_Thi%E1%BB%87u">https://vi.wikipedia.org/wiki/Nguyễn_Văn_Thiệu/</a> Mục: Trở thành Tổng thống</p>
-<p>     46. <a href="https://sachhiem.net/LICHSU/TR/TQD04.php">https://sachhiem.net/LICHSU/TR/TQD04.php</a></p>
+<p>     46. <a href="/LICHSU/TR/TQD04">https://sachhiem.net/LICHSU/TR/TQD04.php</a></p>
 <p>     47. <a href="https://hoanghuuphuocvietnam.wordpress.com/2017/09/18/viet-nam-cong-hoa-da%cc%89ng-chinh-tri%cc%a3/">https://hoanghuuphuocvietnam.wordpress.com/.. Việt Nam Cộng Hòa – Đảng Chính Trị</a></p>
 <p>     48. Nguyễn Hy Thần, <i>Danh từ “Công giáo”: Chữ và nghĩa</i>. 1963 – 2013 NĂM MƯƠI NĂM NHÌN LẠI,<b> </b>tập  một,<b> </b>chương hai, trang 154. Nhà Xuất bản Thiện Tri Thức  Publications P.O. Box 4805 Garden Grove, CA.92842-4805 – USA </p>
 <p>     49. <a href="https://vi.m.wikipedia.org/wiki/%C4%90%E1%BA%A3ng_C%E1%BA%A7n_lao_Nh%C3%A2n_v%E1%BB%8B">https://vi.m.wikipedia.org/... Đảng Cần lao Nhân vị</a> </p>
@@ -410,7 +410,7 @@ CHỨNG ĐỒNG THỜI LÀ NẠN NHÂN CHÍNH TRONG VỤ BUÔN LẬU “ CÒI H�
 <p>     80. Hồ sơ mật 1963 từ các nguồn tài liệu của chính phủ  Mỹ, trang 128.</p>
 <p>     81. Chính Ðạo, <i>Tôn  Giáo &amp; Chính Trị: Phật Giáo</i>, 1963-1967 (Houston: Văn Hóa, 1994). </p>
 <p>     82. Archives du Ministère des Affaires Etrangères  [AMAE] (Paris), Cambodge-Laos-Vietnam [CLV], Sud Vietnam [SV], 17:7073</p>
-<p>     83. <a href="https://sachhiem.net/SACHNGOAI/snT/TranVanXen.php">https://sachhiem.net/SACHNGOAI/snT/TranVanXen.php</a>.</p>
+<p>     83. <a href="/SACHNGOAI/snT/TranVanXen">https://sachhiem.net/SACHNGOAI/snT/TranVanXen.php</a>.</p>
 <p>     84. <a href="https://xenvantran.wordpress.com/">https://xenvantran.wordpress.com/</a></p>
 <p>     85. Chính Đạo, MÙA PHẬT ÐẢN ÐẪM MÁU. 1963 – 2013 Năm  mươi năm nhìn lại, Tập III, Chương Sáu, Kim cương bất hoại - Hoa sen trong biển  lửa, trang 34-36-41-42.</p>
 <p>     86. Nguyễn Lang, Sinh viên và học sinh đứng dậy. 1963  – 2013 Năm mươi năm nhìn lại, Tập III, Chương Sáu, Kim cương bất hoại - Hoa sen  trong biển lửa, trang 138-139.</p>

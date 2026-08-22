@@ -3,7 +3,7 @@ layout: ../../../layouts/Article.astro
 title: "Hồ Chí Minh Chính Là Nguyễn Ái Quốc"
 author: "Nguyễn Xuân Ba"
 date: 2018-10-20
-source: "https://sachhiem.net/LICHSU/N/NguyenXuanBa_03.php"
+source: "/LICHSU/N/NguyenXuanBa_03"
 category: "Lịch sử"
 lang: vi
 wordCount: 6543

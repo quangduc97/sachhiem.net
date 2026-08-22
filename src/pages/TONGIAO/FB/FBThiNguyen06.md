@@ -3,7 +3,7 @@ layout: ../../../layouts/Article.astro
 title: "Trả Lời Bạn Chien Sơn Nguyễn"
 author: "FB Thi Nguyên"
 date: 2019-07-10
-source: "https://sachhiem.net/TONGIAO/FB/FBThiNguyen06.php"
+source: "/TONGIAO/FB/FBThiNguyen06"
 category: "Tác giả"
 lang: vi
 wordCount: 4893
@@ -42,7 +42,7 @@ image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/SACHNGOAI/Hinhanh/BI
 <p>  “VÀ HƠN HẾT KT LUÔN MANG BẢN SẮC CỦA LẺ THẬT. , BỞI KT KHÔNG THỂ  ĐƠN GIẢN ĐỂ HIỂU PHIẾN DIỆN MÀ PHẢI CÓ TÍNH CHÂN - THIỆN - MỸ.”=</p>
 <p> <b>Nhận xét: </b> bạn dựa  vào đâu để nói Kinh Thánh là Lẽ thật và có tính Chân – Thiên - Mỹ? không lẽ dựa  lời các mục sư, linh mục thì Kinh Thánh tự nhiên là lẽ thật và có tính chân  thiện mỹ. Bạn có biết trên 80% nội dung Cựu Ước là đề cập chuyện giết chóc, dâm  loạn do chúa làm Đảng trưởng. Kinh Thánh còn tả cả những chuyện chúa sai Moses  đi đánh thành giết người, bắt gái trinh mang về chia cho chúa. Chúa còn đòi  trét phân lên mặt những ai không tin chúa và đòi giết cả nhà người ta. Còn  những chuyện các thánh loạn luân trong Kinh Thánh, điển hình như thánh Lót loạn  luân với 2 con gái, thánh Abraham loạn luân với em gái,… Có khi kinh thánh còn  chỉ cách dâm sao cho sướng. Vậy thì Chân – Thiện - Mỹ và lẽ thật ở chổ nào?</p>
 <p>[Xem Thánh Kinh Chủ Đề - Sưu Tập của Bernard Chang</p>
-<p>Link&nbsp;<a href="https://sachhiem.net/TONGIAO/tgB/Bernard1.php">https://sachhiem.net/TONGIAO/tgB/Bernard1.php</a>]</p>
+<p>Link&nbsp;<a href="/TONGIAO/tgB/Bernard1">https://sachhiem.net/TONGIAO/tgB/Bernard1.php</a>]</p>
 <p><b><span class="green">Câu 2: </span></b></p>
 <p>“TẠI SAO CÓ TÔN GIÁO MÀ CHÍNH GIÁO CHỦ ĐÓ SINH THỜI TRƯỚC CHÚA  GIÊ-SU HƠN 500 NĂM MÀ NAY VẪN XẾP THỨ 3 VỀ SỐ TÍN ĐỒ TRÊN THẾ GIỚI.?” </p>
 <p> <b>Nhận xét: </b>  giáo lý đức Phật là chân lý và không phải ai cũng đủ trí tuệ để lãnh hội nó,  điển hình là bạn. Đạo phật không bao giờ dùng những thủ đoạn truyền giáo bỉ ổi  để thu nhập tín đồ như các đạo chúa. Một người đến với đạo Phật là do giác ngộ  đước giáo lý siêu việt của nó. Chính vì chủ trương này nên phật giáo không cần  số đông vì nó không phải được tạo ra để thu lợi vật chất và giáo quyền.</p>
@@ -113,7 +113,7 @@ image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/SACHNGOAI/Hinhanh/BI
 <p>Năm 1959, chính Tổng Thống Hoa Kỳ Harry Truman đã khẳng định là:</p>
 <p class="PicLeft"><i><img src="https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/LICHSU/IMG/HoaKy/Harry_S_Truman.jpg" width="150" height="191" alt=""></i></p>
 <p><i>“Khó có thể tin được người Kitô Giáo ở vị thế cao cấp nắm chính quyền vì người  Kitô Giáo có nhiệm vụ trung thành với hệ thống quyền lực của Giáo hội. Chúng ta  không muốn bất cứ ai nắm giữ chính phủ Hoa Kỳ mà lại có một sự trung thành  khác, tôn giáo hay bất cứ cái gì khác.</i>” ["Speaking in 1959, Harry Truman himself asserted that Catholics could scarcely be trusted in the high office because Catholics have a loyalty to a church hierarchy. You don’t want to have anyone in control of the government of the US who has another loyalty, religious or otherwise." [Paul Blanshard, American freedom and Catholic Power, p.3]</p>
-<p>[SH - Xin mời đọc thêm:  DANH NHÂN TRÍ THỨC ÂU MỸ QUA CÁC THỜI ĐẠI NGHĨ GÌ VỀ  THẦN (GOD), KI-TÔ GIÁO? của GS <i>Trần Chung  Ngọc</i> <a href="https://sachhiem.net/TCN/TCNtg/TCN22.php">https://sachhiem.net/TCN/TCNtg/TCN22.php</a>]</p>
+<p>[SH - Xin mời đọc thêm:  DANH NHÂN TRÍ THỨC ÂU MỸ QUA CÁC THỜI ĐẠI NGHĨ GÌ VỀ  THẦN (GOD), KI-TÔ GIÁO? của GS <i>Trần Chung  Ngọc</i> <a href="/TCN/TCNtg/TCN22">https://sachhiem.net/TCN/TCNtg/TCN22.php</a>]</p>
 <p><span class="green">Để kết bài</span> xin mượn lời các danh nhân sau để nói hộ nhận xét của  tôi:</p>
 <p><i>“Công giáo thật sống dai. Điều này chứng tỏ cái gì? Nó chứng tỏ  rằng quần chúng thì dốt nát và các linh mục thì xảo quyệt”, "Linh mục càng xảo quyệt thì càng chiêu dụ được nhiều tín đồ.</i>" Đó là nhận định của Robert G.  Ingersoll cách đây hơn 1 thế kỷ. </p>
 <p class="PicLeft"><img src="https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/SACHNGOAI/Hinhanh/PEOPLE/Ingersoll.jpg" width="149" height="206" alt=""></p>

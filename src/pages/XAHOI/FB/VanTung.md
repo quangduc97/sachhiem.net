@@ -3,7 +3,7 @@ layout: ../../../layouts/Article.astro
 title: "Chiếc Lược Ngà Của Tôi Đâu?"
 author: "FB Văn Tùng"
 date: 2022-07-01
-source: "https://sachhiem.net/XAHOI/FB/VanTung.php"
+source: "/XAHOI/FB/VanTung"
 category: "Chính trị"
 lang: vi
 wordCount: 2266

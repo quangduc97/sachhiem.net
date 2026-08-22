@@ -3,7 +3,7 @@ layout: ../../../layouts/Article.astro
 title: "Sự Gian Manh Của Côn Giáo Việtnam Khi Dịch Kinh"
 author: "Trần Ánh Sáng"
 date: 2017-12-08
-source: "https://sachhiem.net/TONGIAO/tgTR/TranAnhSang_06.php"
+source: "/TONGIAO/tgTR/TranAnhSang_06"
 category: "Chính trị"
 lang: vi
 wordCount: 890

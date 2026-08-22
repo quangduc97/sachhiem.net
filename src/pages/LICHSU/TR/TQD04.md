@@ -2,15 +2,15 @@
 layout: ../../../layouts/Article.astro
 title: "Đảng Cần Lao Nhân Vị và Các Tổ chức Ngoại Vi"
 author: "Hồi ký của Trung Tướng Trần Văn Đôn"
-source: "https://sachhiem.net/LICHSU/TR/TQD04.php"
+source: "/LICHSU/TR/TQD04"
 category: "Lịch sử"
 lang: vi
 wordCount: 4339
-image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nha.jpg"
+image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/LICHSU/IMG/VNCH/NuquannhanVNCH.jpg"
 ---
 
 <table border="0" cellpadding="0" width="250" align="center"><tbody><tr>
-	<td width="125"><a href="/index"><img border="0" src="https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nha.jpg"></a></td>
+	<td width="125"></td>
 <td valign="top">25 tháng 4, 2011</td></tr></tbody></table>
 <p class="TuaChuong">- I - </p>
 

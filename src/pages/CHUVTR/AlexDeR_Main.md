@@ -2,7 +2,7 @@
 layout: ../../layouts/Article.astro
 title: "Gián Điệp Alexandre De Rhodes Và Chữ Quốc Ngữ"
 author: "Chu văn trình"
-source: "https://sachhiem.net/CHUVTR/AlexDeR_Main.php"
+source: "/CHUVTR/AlexDeR_Main"
 lang: vi
 wordCount: 4
 ---
@@ -18,7 +18,7 @@ wordCount: 4
 
 	 <iframe name="ADR" src="/CHUVTR/AlexDeRhodes.php" width="100%" height="2400" marginwidth="5" marginheight="5" hspace="0" vspace="0" frameborder="0" scrolling="auto" target="_blank"></iframe> 
  </td> </tr>
-<tr><td colspan="2"> <a href="https://sachhiem.net/CHUVTR/AlexDeR_Main.php"> <p class="trang">Trang Chu Văn Trình </p>  </a>
+<tr><td colspan="2"> <a href="/CHUVTR/AlexDeR_Main"> <p class="trang">Trang Chu Văn Trình </p>  </a>
 </td></tr>
 </tbody></table>
 </div>

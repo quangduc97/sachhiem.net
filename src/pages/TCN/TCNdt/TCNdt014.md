@@ -2,16 +2,15 @@
 layout: ../../../layouts/Article.astro
 title: "VỀ VIỆC PHÁ CHÙA BÁO THIÊN ĐỂ XÂY NHÀ THỜ"
 author: "Trần Chung Ngọc"
-source: "https://sachhiem.net/TCN/TCNdt/TCNdt014.php"
+source: "/TCN/TCNdt/TCNdt014"
 lang: vi
 wordCount: 1319
-image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nha.jpg"
 ---
 
 <p class="Tuaduoi">THỬ PHÂN TÍCH MỘT ĐOẠN VĂN </p> 	<p class="Tuaduoi">CỦA ANDRÉ MASSON</p> 	
 
 
-<p align="center"><a href="https://sachhiem.net/index.php"><img border="0" hspace="20" src="https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nha.jpg"></a> 01 tháng 3, 2008  </p>    
+<p align="center"> 01 tháng 3, 2008  </p>    
      
     <p>  Tài liệu này tôi  đọc được trong bài  <i>“Trao Đổi Về Bài Viết Của trương Công Khanh”</i> của  Hoàng Cúc trên Talawas.&nbsp; Đọc đoạn về diễn tiến phá Chùa Báo Thiên để xây nhà  thờ, nguyên văn tiếng Pháp, tôi thấy cần có một sự phân tích đoạn đó trong  bối cảnh lịch sử Việt Nam vào cuối thế kỷ 19.</p> 
     <p>Sau đây là nguyên văn tiếng Pháp mà Hoàng Cúc trích dẫn, tôi sẽ cố gắng  dịch và diễn giải ([chữ trong ngoặc]):</p> 

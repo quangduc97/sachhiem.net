@@ -3,7 +3,7 @@ layout: ../../../layouts/Article.astro
 title: "Oliver Stone, Dự Án Obama, Và Cuộc Chiến Ở Việt Nam"
 author: "Oliver Stone/ Ngô Mạnh Hùng"
 date: 2023-09-24
-source: "https://sachhiem.net/SACHNGOAI/FB/NhanQuyen_NMH.php"
+source: "/SACHNGOAI/FB/NhanQuyen_NMH"
 category: "Chính trị"
 lang: vi
 wordCount: 3149

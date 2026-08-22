@@ -3,7 +3,7 @@ layout: ../../../layouts/Article.astro
 title: "Chống Trung Quốc Nhưng"
 author: "Bác sĩ Đặng Vũ Ái"
 date: 2014-07-18
-source: "https://sachhiem.net/THOISU_CT/ChuD/Dangvuai04.php"
+source: "/THOISU_CT/ChuD/Dangvuai04"
 category: "Chính trị"
 lang: vi
 wordCount: 2826
@@ -145,9 +145,9 @@ image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/VANHOC/Hinh/RinVanWi
   <p class="TacgiaL">BS   DVA </p>
 <p>   __________  </p>
 <p>   2015-10-03 12:37 GMT+02:00 ai dang  vu &lt;<a href="mailto:bsdva2@gmail.com" target="_blank">bsdva2@gmail.com</a>&gt;: </p>
-<p>   Ở đây, có người mang  tên Quốc: <a href="https://www.sachhiem.net/index.php?content=showemail&amp;id=1111" target="_blank">https://www.sachhiem.net/index.php?content=showemail&amp;id=1111</a></p>
+<p>   Ở đây, có người mang  tên Quốc: <a href="/hop-thu/1111" target="_blank">https://www.sachhiem.net/index.php?content=showemail&amp;id=1111</a></p>
  <p>_________________</p>
 <p><b>Bài khác của BS Đặng Vũ Ái</b></p>
-<p>- <a href="https://sachhiem.net/THOISU_CT/ChuD/Dangvuai01.php">Không Thể Chấp Nhận Những Luận Cứ Bênh Vực "Ngài Phản Quốc" Hoàng Quỳnh </a></p>
-<p>- <a href="https://sachhiem.net/THOISU_CT/ChuD/Dangvuai02.php">Những Mệnh Đề Rời - Cho Một Việt Nam Đoàn Kết</a></p>
-<p>- <a href="https://sachhiem.net/THOISU_CT/ChuD/Dangvuai03.php">Tình Dân Tộc Người Ta! - Góp Nhặt Đó Đây Trên Thế Giới</a></p>
+<p>- <a href="/THOISU_CT/ChuD/Dangvuai01">Không Thể Chấp Nhận Những Luận Cứ Bênh Vực "Ngài Phản Quốc" Hoàng Quỳnh </a></p>
+<p>- <a href="/THOISU_CT/ChuD/Dangvuai02">Những Mệnh Đề Rời - Cho Một Việt Nam Đoàn Kết</a></p>
+<p>- <a href="/THOISU_CT/ChuD/Dangvuai03">Tình Dân Tộc Người Ta! - Góp Nhặt Đó Đây Trên Thế Giới</a></p>

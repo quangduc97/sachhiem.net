@@ -2,16 +2,16 @@
 layout: ../../../layouts/Article.astro
 title: "Hãy Tạ Ơn Chúa !"
 author: "Trần Chung Ngọc"
-source: "https://sachhiem.net/TCN/TCNtg/TCN59.php"
+source: "/TCN/TCNtg/TCN59"
 category: "Tác giả"
 lang: vi
 wordCount: 3833
-image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nha.jpg"
+image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/TCN/TCNtg/IMG/TCN59_mourning-plaque.jpg"
 ---
 
 <table border="0" cellpadding="10" width="250" align="center" cols="3"><tbody><tr>
 <td>
-<a href="/index"><img border="0" src="https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nha.jpg"></a>
+
 </td>
 	<td valign="top" style="text-align:right"> 25 tháng 11, 2010 </td></tr></tbody></table>
 	<p><i>LTS: Không thể có một khái niệm "hạnh phúc" đúng nghĩa nếu niềm vui của

@@ -3,7 +3,7 @@ layout: ../../../layouts/Article.astro
 title: "Giáo Hoàng Francis kêu gọi Giáo Hội Ca-Tô Rô-Ma khoan dung hơn"
 author: "Julie Kliegman /TheWeek.com"
 date: 2015-12-24
-source: "https://sachhiem.net/SACHNGOAI/snT/ThuyThu.php"
+source: "/SACHNGOAI/snT/ThuyThu"
 category: "Sách ngoại văn"
 lang: vi
 wordCount: 439

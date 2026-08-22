@@ -2,7 +2,7 @@
 layout: ../../../layouts/Article.astro
 title: "TÌM HIỂU GIÁO CHỈ - THÔNG BẠCH TƯỜNG TRÌNH"
 author: "Tâm Tịnh"
-source: "https://sachhiem.net/null"
+source: "/null"
 category: "Tác giả"
 lang: vi
 wordCount: 18812

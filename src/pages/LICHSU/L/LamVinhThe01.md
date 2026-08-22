@@ -3,7 +3,7 @@ layout: ../../../layouts/Article.astro
 title: "Tìm Hiểu Thêm Về Việc Thủy Quân Lục Chiến Hoa Kỳ Đổ Bộ Vào Đà Nẵng"
 author: "Lâm Vĩnh Thế"
 date: 2016-05-20
-source: "https://sachhiem.net/LICHSU/L/LamVinhThe01.php"
+source: "/LICHSU/L/LamVinhThe01"
 category: "Chính trị"
 lang: vi
 wordCount: 7105

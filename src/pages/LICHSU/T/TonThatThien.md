@@ -2,7 +2,7 @@
 layout: ../../../layouts/Article.astro
 title: "Tôn Thất Thiện: Cần thẩm định lại giá trị"
 author: "Tôn Thất Thiện"
-source: "https://sachhiem.net/nguồn https://nguoivietboston.com/?p=3664"
+source: "/nguồn https://nguoivietboston.com/?p=3664"
 category: "Lịch sử"
 lang: vi
 wordCount: 5962
@@ -30,7 +30,7 @@ image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nhacu.jpg"
 
 <tr> <td width="100%"> 
 <table border="0" cellpadding="10" width="100%" cols="3"><tbody><tr>
-		<td width="98"><a href="https://sachhiem.net/"><img border="0" src="https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nhacu.jpg" width="49" height="20"></a></td>
+		<td width="98"><a href="/"><img border="0" src="https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nhacu.jpg" width="49" height="20"></a></td>
 				<td valign="top"><a href="/LICHSU/#" onclick="location.href='https://sachhiem.net/BIA/sendafriend.php?url='+location.href;">
 				<img src="https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/LICHSU/file:///C:/SACHHIEM/images/mail.gif" border="0"> 
 Gửi bài này cho bạn bè</a></td>

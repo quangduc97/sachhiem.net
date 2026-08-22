@@ -2,15 +2,15 @@
 layout: ../../../layouts/Article.astro
 title: "\"Thầy Trò Đường Tông... \""
 author: "nhiều tác giả"
-source: "https://sachhiem.net/MINHMAN/Chinhtri/Minhman19.php"
+source: "/MINHMAN/Chinhtri/Minhman19"
 lang: vi
 wordCount: 2643
-image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nha.jpg"
+image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/MINHMAN/Hinh/Minhman19_CT-2.jpg"
 ---
 
 <table border="0" align="center" cellpadding="1" width="250">
     <tbody><tr>
-      <td width="110"><a href="https://www.sachhiem.net/"> <img border="0" src="https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nha.jpg"></a></td>
+      <td width="110"></td>
       <td valign="top">13 tháng 3, 2012 </td>
     </tr>  </tbody></table>
     	<p align="center"> <img src="https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/MINHMAN/Hinh/Minhman19_CT-2.jpg" alt="https://www.giacngo.com.vn/UserImages/2012/03/12/9/Untitled-2.jpg" width="250" height="194"> </p>
@@ -243,5 +243,5 @@ image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nha.jpg"
       con tinh thần</i>" của mình.</p>
     <p align="right"><strong>Vương Linh</strong></p>
     
-    <p>(Xem thêm bài: <a href="https://sachhiem.net/MINHMAN/Chinhtri/Minhman20.php">Tuy
+    <p>(Xem thêm bài: <a href="/MINHMAN/Chinhtri/Minhman20">Tuy
         Có Hơi Muộn !</a>)</p>

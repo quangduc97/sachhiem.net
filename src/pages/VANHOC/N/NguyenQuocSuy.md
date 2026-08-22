@@ -3,7 +3,7 @@ layout: ../../../layouts/Article.astro
 title: "Bài Góp Ý Muộn Cùng Giáo Sư Dương Ngọc Dũng"
 author: "Nguyễn Quốc Súy"
 date: 2016-08-17
-source: "https://sachhiem.net/VANHOC/N/NguyenQuocSuy.php"
+source: "/VANHOC/N/NguyenQuocSuy"
 category: "Chính trị"
 lang: vi
 wordCount: 3812

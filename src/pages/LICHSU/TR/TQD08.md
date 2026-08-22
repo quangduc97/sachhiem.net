@@ -3,15 +3,15 @@ layout: ../../../layouts/Article.astro
 title: "Ông Ngô Đình Diệm Có Giúp Cho Phật Giáo"
 author: "Trần Quang Diệu"
 date: 2012-03-14
-source: "https://sachhiem.net/LICHSU/TR/TQD08.php"
+source: "/LICHSU/TR/TQD08"
 category: "Lịch sử"
 lang: vi
 wordCount: 6011
-image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nha.jpg"
+image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/THOISU_CT/Hinh/CCCB/Legio_NDD.jpg"
 ---
 
 <table border="0" cellpadding="0" width="250" align="center"><tbody><tr>
-	<td width="125"><a href="/index"><img border="0" src="https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nha.jpg"></a></td>
+	<td width="125"></td>
 <td valign="middle">14-Mar-2012</td>
 		</tr></tbody></table>
 

@@ -2,15 +2,14 @@
 layout: ../../../layouts/Article.astro
 title: "LẠI CHUYỆN [BẤT ĐẮC DĨ] VỀ TÚ GÀN"
 author: "Trần Chung Ngọc"
-source: "https://sachhiem.net/TCN/TCNdt/TCNdt007.php"
+source: "/TCN/TCNdt/TCNdt007"
 category: "Đối thoại"
 lang: vi
 wordCount: 3153
-image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.devhttps://sachhiem.net/images/nha.jpg"
 ---
 
 <table border="0" width="250" align="center">
-    <tbody><tr><td width="100"><a href="https://sachhiem.net/index.php"><img border="0" src="https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.devhttps://sachhiem.net/images/nha.jpg"></a>    </td>
+    <tbody><tr><td width="100">    </td>
     <td valign="top" style="text-align:right"><i>28 tháng 5, 2007 </i></td>
   </tr>
 </tbody></table>

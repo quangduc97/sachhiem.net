@@ -2,7 +2,7 @@
 layout: ../../../layouts/Article.astro
 title: "Những Tấm Hình Xuyên Tạc"
 author: "thư tín"
-source: "https://sachhiem.net/null"
+source: "/null"
 category: "Chính trị"
 lang: vi
 wordCount: 7

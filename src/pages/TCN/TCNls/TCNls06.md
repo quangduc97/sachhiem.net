@@ -2,17 +2,17 @@
 layout: ../../../layouts/Article.astro
 title: "Vài Nét Về “Cụ Diệm”"
 author: "Trần Chung Ngọc"
-source: "https://sachhiem.net/TCN/TCNls/TCNls06.php"
+source: "/TCN/TCNls/TCNls06"
 lang: vi
 wordCount: 17730
-image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nha.jpg"
+image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/LICHSU/IMG/NGODD/NgoDThuc.jpg"
 ---
 
-<p align="center"><a href="https://www.sachhiem.net/"> <img border="0" src="https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nha.jpg"></a> 17 tháng 7, 2007   </p>
+<p align="center"> 17 tháng 7, 2007   </p>
 <p class="PicRgt"><img src="https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/LICHSU/IMG/NGODD/NgoDThuc.jpg" width="180" height="253"><br> anh của Cụ Diệm: Giám Mục Ngô Đình Thục</p>
 <p>"<i>...Với tư cách là người con của một gia đình mà thân phụ tôi đã phục vụ nước Pháp ngay từ khi Pháp mới đến An-nam, và đã nhiều lần đưa mạng sống cho nước Pháp trong các cuộc hành quân mà cha tôi (Ngô Đình Khả) cầm đầu, dưới quyền Nguyễn Thân, chống lại các kẻ nổi loạn do Phan Đình Phùng chỉ huy, tại Nghệ-an và Hà-tịnh.</i></p>
 <p><i>Có thể tôi lầm, tuy nhiên, thưa Đô Đốc, tôi xin thú thực là không tin – cho đến khi được chứng minh ngược lại – rằng các em tôi đã phản lại truyền thống của gia đình chúng tôi đến như thế, một gia đình đã tự mình gắn liền với nước Pháp từ lúc ban đầu, trong khi ông cha của những quan lại bây giờ hầu hết đều chống lại Pháp....</i>"  
-(trích thư Của Giám Mục Pierre Martin Ngô Đình Thục, gửi Đô Đốc Pháp Jean Decoux, Toàn Quyền Đông Dương) (SH - <a href="https://sachhiem.net/LICHSU/N/Namgiao_01.php">xem Hai Bức Thư Đi Vào Lịch Sử </a>) </p> <hr width="50%">
+(trích thư Của Giám Mục Pierre Martin Ngô Đình Thục, gửi Đô Đốc Pháp Jean Decoux, Toàn Quyền Đông Dương) (SH - <a href="/LICHSU/N/Namgiao_01">xem Hai Bức Thư Đi Vào Lịch Sử </a>) </p> <hr width="50%">
 <p class="CHUONG">  Phần I </p>
  <center>
 <img border="0" src="https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/LICHSU/IMG/NGODD/NgoDinhDiem.gif" width="125" height="175"><br></center>

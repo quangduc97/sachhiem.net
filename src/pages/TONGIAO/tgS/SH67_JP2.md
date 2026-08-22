@@ -3,7 +3,7 @@ layout: ../../../layouts/Article.astro
 title: "\"Tôi Là Bạn Gái Của Giáo Hoàng John Paul II\""
 author: "JNi.Media / jewishpress.com/"
 date: 2016-02-15
-source: "https://sachhiem.net/TONGIAO/tgS/SH67_JP2.php"
+source: "/TONGIAO/tgS/SH67_JP2"
 category: "Tác giả"
 lang: vi
 wordCount: 957

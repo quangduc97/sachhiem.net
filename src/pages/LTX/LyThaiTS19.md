@@ -3,7 +3,7 @@ layout: ../../layouts/Article.astro
 title: "Giá trị chiếc ấn vàng của Vua Minh Mạng dưới mắt 1 người Việt Nam"
 author: "Lý Thái Xuân"
 date: 2022-11-10
-source: "https://sachhiem.net/LTX/LyThaiTS19.php"
+source: "/LTX/LyThaiTS19"
 category: "Chính trị"
 lang: vi
 wordCount: 2443

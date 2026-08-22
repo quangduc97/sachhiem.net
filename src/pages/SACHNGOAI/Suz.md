@@ -2,7 +2,7 @@
 layout: ../../layouts/Article.astro
 title: "Bài nói chuyện trong buổi hội thảo"
 author: "Suzanne Nguyen - (MIT Graduate Student)"
-source: "https://sachhiem.net/MIT (Boston) 04Dec2004"
+source: "/MIT (Boston) 04Dec2004"
 category: "Chính trị"
 lang: vi
 wordCount: 1149

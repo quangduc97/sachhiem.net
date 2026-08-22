@@ -3,7 +3,7 @@ layout: ../../../layouts/Article.astro
 title: "Quan Điểm “Dĩ Hòa Vi Quý’ Của Cố Thủ Tướng Võ Văn Kiệt Là Không Thể Chấp Nhận"
 author: "Nguyễn Kim Khanh"
 date: 2021-04-20
-source: "https://sachhiem.net/THOISU_CT/FB/NguyenKimKhanh03.php"
+source: "/THOISU_CT/FB/NguyenKimKhanh03"
 category: "Chính trị"
 lang: vi
 wordCount: 2564

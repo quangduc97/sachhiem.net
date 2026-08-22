@@ -3,7 +3,7 @@ layout: ../../../layouts/Article.astro
 title: "Một Bộ Sách Giáo Khoa - Nhưng Nội Dung Cần Được Soi Xét"
 author: "Nguyễn Thanh Tuấn"
 date: 2025-11-13
-source: "https://sachhiem.net/LICHSU/N/NguyenThanhTuan10.php"
+source: "/LICHSU/N/NguyenThanhTuan10"
 category: "Lịch sử"
 lang: vi
 wordCount: 818
@@ -38,4 +38,4 @@ image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/LICHSU/IMG/LAT_SU/Mo
  <p>Chiến thuật  "<i>cục xương</i>" là đưa ra một số đề nghị không thể thực hiện được như chỉnh  trang võ bị, đào kênh từ Hải Dương đến Huế... <b>(di thảo số 27)</b> để qua đó muốn triều đình nhà Nguyễn phải mất thì  giờ gặm, nhấm cục xương để không thể làm gì khác hơn.</p>
  <p>Nguyễn Trường  Tộ khéo và tài tình lồng tư tưởng Kinh  Thánh vào hầu hết những bản di thảo để một mặt thì hăm dọa rằng: "Tạo  vật đã định như vậy, sao cưỡng được" <b>(di  thảo số 1)</b>,</p>
  <p>Một số di thảo,  thì đưa ra các dữ kiện sai lầm về sử liệu  để bi thảm hóa tình hình, nhằm kêu gọi người Việt nên hòa với Pháp <b>(di thảo số  1)</b>, và để biện minh cho những đề nghị của mình <b>(di thảo số 5 và 27)</b></p>
-<p>[Tham khảo: <a href="https://sachhiem.net/BUIKHA/BuiKha22a_NTT.php#phanmot">Đọc Sách: "Nguyễn Trường Tộ &amp; Vấn Đề Canh Tân"</a>]</p>
+<p>[Tham khảo: <a href="/BUIKHA/BuiKha22a_NTT#phanmot">Đọc Sách: "Nguyễn Trường Tộ &amp; Vấn Đề Canh Tân"</a>]</p>

@@ -6,7 +6,6 @@ source: "https://www.youtube.com/watch?v=t_gSC8Ob9mk"
 category: "Văn hóa"
 lang: vi
 wordCount: 2094
-image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nha.jpg"
 ---
 
 <div align="center" style="position: relative; left: 0; top: 0">
@@ -34,7 +33,7 @@ image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nha.jpg"
 <div style="padding-left: 50px; padding-right: 50px">
 
 <table border="0" width="600"><tbody><tr>
-<td><a href="/index"><img border="0" src="https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nha.jpg"></a></td>
+<td></td>
 	<td valign="top" width="203">	10 tháng 5, 2009
 	</td></tr></tbody></table>
 <div style="border-top-style: solid; border-top-width: 1px; border-bottom-style: solid; border-bottom-width: 1px; padding: 10px; background-color: #F8F8F8">

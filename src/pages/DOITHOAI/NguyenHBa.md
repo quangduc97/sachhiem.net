@@ -2,14 +2,13 @@
 layout: ../../layouts/Article.astro
 title: "Trả lời ông Chu Tất Tiến"
 author: "Nguyễn Hữu Ba"
-source: "https://sachhiem.net/DOITHOAI/NguyenHuuBa.php"
+source: "/DOITHOAI/NguyenHuuBa"
 category: "Đối thoại"
 lang: vi
 wordCount: 3697
-image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nha.jpg"
 ---
 
-<p align="center"><a href="https://www.sachhiem.net/"> <img border="0" src="https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nha.jpg"></a> 18 tháng 12, 2010	</p>
+<p align="center"> 18 tháng 12, 2010	</p>
 <p>Dẫn bài: <a href="/EMAILS/ChuTatTien">Lá Thư Vô Trách Nhiệm của Chu Tất Tiến (BBT_SH)</a></p>
  <hr> 
  <p><i> From: Ba Nguyen 
@@ -168,7 +167,7 @@ là CS. </p>
 <p>Ba bài của C.T.T và 3 bài của GS/TCN hiện vẫn còn trên sachhiem.net, ai muốn 
 biết rõ ràng cách viết của ông C.T.T xin vào trang của GS/TCN sẽ đọc được cả 6 
 bài đó. Ở đây tôi chỉ xin trích một đoạn trong bài 
-<a href="https://www.sachhiem.net/TCN/TCNdt/TCNdt019.php">“Chu Tất Tiến-Here We Go 
+<a href="/TCN/TCNdt/TCNdt019">“Chu Tất Tiến-Here We Go 
 Again” của GS/TCN</a> (https://www.sachhiem.net/TCN/TCNdt/ TCNdt019.php) để quý vị thưởng lãm tài năng của một nhà văn đã đi vào quần… chúng. </p>
 
 <div style="padding-top: 4px; background-color: #EAEAEB">
@@ -247,16 +246,16 @@ bài đã quá dài . Tôi xin dừng lại ở đây . Cảm ơn quý vị đã
 
 		<hr>
 <p class="TuaDenLeft">Những bài liên hệ:</p>
-<p class="sub1"><a href="https://sachhiem.net/EMAILS/C/ChuTatTien.php">- Lá Thư Vô Trách Nhiệm của Con Chiên Chu Tất Tiến </a></p>
-<p class="sub1"><a href="https://sachhiem.net/TONGIAO/tgP/PGVNTN.php"> - "Thư Ngỏ gửi ông Chu Tất Tiến - GIÁO HỘI PHẬT GIÁO VIỆT NAM THỐNG NHẤT", và các ý kiến của Phật tử, </a></p>
-<p class="sub1"><a name="NHB" href="https://sachhiem.net/DOITHOAI/NguyenHBa.php">- "Trả Lời Ông Chu Tất Tiến" của ông Nguyễn Hữu Ba </a>.</p>
-<p class="sub1"><a name="NHB" href="https://sachhiem.net/TONGIAO/BQK/BQK00.php">- 7 Thư Nói Với Ông Chu Tất Tiến Về Đòn Khiêu Khích Tôn Giáo (Bảo Quốc Kiếm) </a>.</p>
-<p class="sub1"><a name="NHB" href="https://sachhiem.net/TONGIAO/BQK/BQK01.php"> - Thư Kính Gửi Ông Nhạc Sĩ Trúc Hồ, Giám Đốc Đài SBTN (Trương Khôi) </a>.</p>
-<p class="sub1"><a name="NHB" href="https://sachhiem.net/DOITHOAI/DaoNuong.php">- Bình An Dưới Thế... (Trích đoạn từ Tạp chí SàiGòn Nhỏ) </a>.</p>
-<p class="sub1"><a href="https://sachhiem.net/DOITHOAI/LeCngCau_TranKienCuong.php">- Về Thư Xin Lỗi của ông Chu Tất Tiến (3 tác giả) </a>) </p>
-<p class="sub1">-<a href="https://sachhiem.net/DOITHOAI/NguyenLuong.php"> Thông Cáo Của Trí Thức Phật Giáo (Hội Cư Sĩ Orange County)</a></p>
-<p class="sub1">- <a href="https://sachhiem.net/DOITHOAI/NgKhacHung.php">Ông Chu Tất Tiến “vô ý thức” hay không ? (Nguyễn Khắc Hùng)</a></p>
-<p class="sub1"><a href="https://sachhiem.net/TONGIAO/BQK/BQK04.php">- Hèn Hơn Chu Tất Tiến, Vũ Linh Châu !</a></p>
+<p class="sub1"><a href="/EMAILS/C/ChuTatTien">- Lá Thư Vô Trách Nhiệm của Con Chiên Chu Tất Tiến </a></p>
+<p class="sub1"><a href="/TONGIAO/tgP/PGVNTN"> - "Thư Ngỏ gửi ông Chu Tất Tiến - GIÁO HỘI PHẬT GIÁO VIỆT NAM THỐNG NHẤT", và các ý kiến của Phật tử, </a></p>
+<p class="sub1"><a name="NHB" href="/DOITHOAI/NguyenHBa">- "Trả Lời Ông Chu Tất Tiến" của ông Nguyễn Hữu Ba </a>.</p>
+<p class="sub1"><a name="NHB" href="/TONGIAO/BQK/BQK00">- 7 Thư Nói Với Ông Chu Tất Tiến Về Đòn Khiêu Khích Tôn Giáo (Bảo Quốc Kiếm) </a>.</p>
+<p class="sub1"><a name="NHB" href="/TONGIAO/BQK/BQK01"> - Thư Kính Gửi Ông Nhạc Sĩ Trúc Hồ, Giám Đốc Đài SBTN (Trương Khôi) </a>.</p>
+<p class="sub1"><a name="NHB" href="/DOITHOAI/DaoNuong">- Bình An Dưới Thế... (Trích đoạn từ Tạp chí SàiGòn Nhỏ) </a>.</p>
+<p class="sub1"><a href="/DOITHOAI/LeCngCau_TranKienCuong">- Về Thư Xin Lỗi của ông Chu Tất Tiến (3 tác giả) </a>) </p>
+<p class="sub1">-<a href="/DOITHOAI/NguyenLuong"> Thông Cáo Của Trí Thức Phật Giáo (Hội Cư Sĩ Orange County)</a></p>
+<p class="sub1">- <a href="/DOITHOAI/NgKhacHung">Ông Chu Tất Tiến “vô ý thức” hay không ? (Nguyễn Khắc Hùng)</a></p>
+<p class="sub1"><a href="/TONGIAO/BQK/BQK04">- Hèn Hơn Chu Tất Tiến, Vũ Linh Châu !</a></p>
 <hr width="30%" align="left">
 ___________________
-<p>Các bài của Nguyễn Hữu Ba: link <a href="https://sachhiem.net/TONGIAO/tgN/ListNHBa.inc.php" target="_blank">https://sachhiem.net/TONGIAO/tgN/ListNHBa.inc.php</a></p>
+<p>Các bài của Nguyễn Hữu Ba: link <a href="/TONGIAO/tgN/ListNHBa.inc" target="_blank">https://sachhiem.net/TONGIAO/tgN/ListNHBa.inc.php</a></p>

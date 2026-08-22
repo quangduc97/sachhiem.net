@@ -2,7 +2,7 @@
 layout: ../../../layouts/Article.astro
 title: "Chia Buồn Cùng Gia Quyến"
 date: 2025-10-16
-source: "https://sachhiem.net/XAHOI/CHIABUON/Chiabuon19.php"
+source: "/XAHOI/CHIABUON/Chiabuon19"
 lang: vi
 wordCount: 355
 image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/VANHOC/Hinh/VANNHAN/DoanQuocSy.JPG"

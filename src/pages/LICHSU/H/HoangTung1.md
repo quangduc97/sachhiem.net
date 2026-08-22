@@ -1,11 +1,11 @@
 ---
 layout: ../../../layouts/Article.astro
 title: "Bí Mật Hồ Chí Minh"
-source: "https://sachhiem.net/null"
+source: "/null"
 category: "Chính trị"
 lang: vi
 wordCount: 1654
-image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nha.jpg"
+image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/LICHSU/IMG/HOCHIMINH/HoangTung.jpg"
 ---
 
 <div align="center" style="position: relative; left: 0; top: 0">
@@ -26,8 +26,7 @@ image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nha.jpg"
 	<tbody><tr><td bgcolor="White" align="justify" valign="top">
 		
 			<table border="0" cellpadding="10" width="600" cols="2"><tbody><tr>
-				<td><a href="/index">
-				<img src="https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nha.jpg" border="0"></a></td>
+				<td></td>
 	<td valign="top" width="175">08 tháng 7, 2010
 	</td></tr></tbody></table>
 				<p><b>Tiểu sử:</b> Ông Hoàng Tùng (tức Trần 

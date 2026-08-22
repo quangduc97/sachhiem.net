@@ -2,10 +2,9 @@
 layout: ../../../layouts/Article.astro
 title: "QUANH VỤ GIÁO HOÀNG XIN LỖi Ở ÚC"
 author: "Trần Chung Ngọc"
-source: "https://sachhiem.net/null"
+source: "/null"
 lang: vi
 wordCount: 5392
-image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nha.jpg"
 ---
 
 <div align="center" style="position: relative; left: 0; top: 0">
@@ -25,7 +24,7 @@ image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nha.jpg"
 <blockquote>
 <table border="0" cellpadding="10" width="600" cols="2"><tbody><tr>
 <td>
-<a href="/index"><img border="0" src="https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nha.jpg"></a>
+
 </td>
 	
 	<td valign="top" style="text-align:right">ngày 22 tháng 7, 2008</td></tr></tbody></table>

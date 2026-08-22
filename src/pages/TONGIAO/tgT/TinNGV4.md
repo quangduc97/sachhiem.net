@@ -3,7 +3,7 @@ layout: ../../../layouts/Article.astro
 title: "Giáo Hoàng Francis xin tha thứ “tội lỗi của hàng giáo phẩm và con chiên” tại Rwanda"
 author: "Tin Người Việt"
 date: 2017-03-21
-source: "https://sachhiem.net/TONGIAO/tgT/TinNGV4.php"
+source: "/TONGIAO/tgT/TinNGV4"
 category: "Tác giả"
 lang: vi
 wordCount: 840

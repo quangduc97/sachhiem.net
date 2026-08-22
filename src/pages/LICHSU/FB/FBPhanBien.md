@@ -3,7 +3,7 @@ layout: ../../../layouts/Article.astro
 title: "Về Dự Thảo Đưa Môn Lịch Sử Thành Môn Tự Chọn"
 author: "FB Phản Biện Xã Hội"
 date: 2022-04-19
-source: "https://sachhiem.net/LICHSU/FB/FBPhanBien.php"
+source: "/LICHSU/FB/FBPhanBien"
 category: "Chính trị"
 lang: vi
 wordCount: 14801

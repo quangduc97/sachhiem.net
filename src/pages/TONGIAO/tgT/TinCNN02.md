@@ -2,11 +2,11 @@
 layout: ../../../layouts/Article.astro
 title: "Gay Gắt Đả Kích Giáo Hội Công Giáo Về Nạn Loạn Dâm -"
 author: "(Hada Messia và Pamela Miller - CNN/ Lý Nguyên Diệu dịch)"
-source: "https://sachhiem.net/nguồn https://religion.blogs.cnn.com/2010/07/15/vatican-unveils-new-abuse-rules/?hpt=T2"
+source: "/nguồn https://religion.blogs.cnn.com/2010/07/15/vatican-unveils-new-abuse-rules/?hpt=T2"
 category: "Tác giả"
 lang: vi
 wordCount: 3072
-image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nha.jpg"
+image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/IMG/TINHDUC/TinCNN02_1.jpg"
 ---
 
 <div align="center" style="position: relative; left: 0; top: 0">
@@ -25,8 +25,7 @@ image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nha.jpg"
 <tr><td width="100%">
 <div style="padding-left: 50px; padding-right: 50px"> 
 <table border="0" cellpadding="1" width="86%" cols="2"><tbody><tr>
-<td><a href="/index">
-<img border="0" src="https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nha.jpg"></a></td>
+<td></td>
 <td valign="top" width="210"><p>19 tháng 7, 2010	</p>
 </td></tr></tbody></table>
 <p>

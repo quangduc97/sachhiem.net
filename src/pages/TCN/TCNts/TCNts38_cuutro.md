@@ -3,7 +3,7 @@ layout: ../../../layouts/Article.astro
 title: "Thư Kêu Gọi Cứu Trợ Nạn Nhân Siêu Bão Haiyan"
 author: "Trần Chung Ngọc"
 date: 2013-11-13
-source: "https://sachhiem.net/TCN/TCNts/TCNts38_cuutro.php"
+source: "/TCN/TCNts/TCNts38_cuutro"
 lang: vi
 wordCount: 772
 image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/XAHOI/IMG/FLOOD/baoHaiyan_Phi_Nov2013.jpg"

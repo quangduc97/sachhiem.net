@@ -2,13 +2,12 @@
 layout: ../../layouts/Article.astro
 title: "VIỆT NAM MÁU LỬA"
 author: "- Hoành Linh Đỗ Mậu -"
-source: "https://sachhiem.net/HOANHLINH/VNML19.php"
+source: "/HOANHLINH/VNML19"
 lang: vi
 wordCount: 40527
-image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nha.jpg"
 ---
 
-<p class="Tuaduoi">QUÊ HƯƠNG TÔI</p>   <p align="center"><a href="/index"><img hspace="20" border="0" src="https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nha.jpg"></a> 01 tháng 11, 2007 </p> 
+<p class="Tuaduoi">QUÊ HƯƠNG TÔI</p>   <p align="center"> 01 tháng 11, 2007 </p> 
    <p align="center"><a href="/HOANHLINH/VNML18">« </a>&nbsp;<a href="/HOANHLINH/HoanhL_Main"> ● </a>&nbsp;<a href="/HOANHLINH/VNML20">»</a></p>
 <p><b><font size="5" face="Times New Roman">Chương XIX  </font></b></p> <hr color="#AA0000" size="1"> 
 <p><b><font size="5" face="Times New Roman">CHẾ ĐỘ THIỆU: </font></b></p>

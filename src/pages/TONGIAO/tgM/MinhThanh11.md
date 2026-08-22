@@ -3,7 +3,7 @@ layout: ../../../layouts/Article.astro
 title: "Để Có Được Sách Của GS. Trần Chung Ngọc"
 author: "Minh Thạnh"
 date: 2014-02-16
-source: "https://sachhiem.net/TONGIAO/tgM/MinhThanh11.php"
+source: "/TONGIAO/tgM/MinhThanh11"
 category: "Tác giả"
 lang: vi
 wordCount: 586
@@ -26,7 +26,7 @@ image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/TCN/Pict/Ngoc_12may_
 <p>
  <b>2.</b> Một cách nữa là tìm ở các hiệu sách cũ. Cách này khá là cực và tốn  thì giờ, nhưng cũng&nbsp; có sách, dù hiếm khi đủ bộ. </p>
 <p>
-Các  tác phẩm của GS. Trần Chung Ngọc đều được lưu trữ trên 2 trang web<a href="https://giaodiemonline.com/" target="_blank" shape="rect">&nbsp;Giao Điểm</a>&nbsp;và&nbsp;<a href="https://www.sachhiem.net/" target="_blank" shape="rect">Sách Hiếm</a>. Nếu bạn đọc đã  có thói quen đọc trên máy vi tính thì việc đọc coi như trong tầm tay. </p>
+Các  tác phẩm của GS. Trần Chung Ngọc đều được lưu trữ trên 2 trang web<a href="https://giaodiemonline.com/" target="_blank" shape="rect">&nbsp;Giao Điểm</a>&nbsp;và&nbsp;<a href="/" target="_blank" shape="rect">Sách Hiếm</a>. Nếu bạn đọc đã  có thói quen đọc trên máy vi tính thì việc đọc coi như trong tầm tay. </p>
 <p>
 Vì GS. Trần Chung Ngọc cho phép tự do khai thác bản quyền tác phẩm  của mình, nên bạn đọc có thể in xuống đóng thành cuốn để đọc và lưu trữ dễ dàng. </p>
 <p>
@@ -36,7 +36,7 @@ Vì GS. Trần Chung Ngọc cho phép tự do khai thác bản quyền tác ph�
 <p>Thư quán Văn khoa, <br>
  Trường Đại học Khoa học Xã hội và Nhân văn, <br>
  số 8  Đinh Tiên Hoàng, Q1. </p>
-<p>Tại đây giá in một tờ A4, 2 mặt là 300 đồng, tức chi phí 1  trang A4 là 150 đồng, rẻ hơn đôi chút so với giá sách in quy thành giấy. Người  yêu cầu chỉ đưa địa chỉ lưu trữ sách (SH - Thí dụ, https://sachhiem.net/TCN/TCNdt/TCNdt026.php), sau vài giờ là có được quyển sách mình  cần, đóng bìa tươm tất. Người yêu cầu có thể yêu cầu trình bày bìa nếu bản lưu  trữ trên mạng có dữ liệu liên hệ. (SH - xin làm<a href="https://sachhiem.net/TCN/Ndir.php"> theo ý của tác giả:</a> <i>Tôi chỉ có hai yêu cầu đối với những người lấy bài của tôi đăng nơi khác:
+<p>Tại đây giá in một tờ A4, 2 mặt là 300 đồng, tức chi phí 1  trang A4 là 150 đồng, rẻ hơn đôi chút so với giá sách in quy thành giấy. Người  yêu cầu chỉ đưa địa chỉ lưu trữ sách (SH - Thí dụ, https://sachhiem.net/TCN/TCNdt/TCNdt026.php), sau vài giờ là có được quyển sách mình  cần, đóng bìa tươm tất. Người yêu cầu có thể yêu cầu trình bày bìa nếu bản lưu  trữ trên mạng có dữ liệu liên hệ. (SH - xin làm<a href="/TCN/Ndir"> theo ý của tác giả:</a> <i>Tôi chỉ có hai yêu cầu đối với những người lấy bài của tôi đăng nơi khác:
 - Xin đừng thay đổi đầu đề, cắt xén hay thêm bớt.
 - Xin ghi rõ xuất xứ và Link để đọc giả kiểm chứng bản gốc</i>.)</p>
 <p>

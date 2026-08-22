@@ -3,7 +3,7 @@ layout: ../../../layouts/Article.astro
 title: "..."
 author: "Nguyễn Thanh Tuấn"
 date: 2021-12-25
-source: "https://sachhiem.net/LICHSU/FB/FBNgnThanhTuan.php"
+source: "/LICHSU/FB/FBNgnThanhTuan"
 category: "Chính trị"
 lang: en
 wordCount: 4

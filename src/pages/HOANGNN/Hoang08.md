@@ -1,19 +1,17 @@
 ---
 layout: ../../layouts/Article.astro
 title: "GIÁO CHỈ, THÔNG BẠCH"
-source: "https://sachhiem.net/HOANGNN/Hoang08.php"
+source: "/HOANGNN/Hoang08"
 category: "Chính trị"
 lang: vi
 wordCount: 8981
-image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nha.jpg"
 ---
 
 <p class="Tuaduoi">VÀ CƠN KHỦNG HOẢNG 
 CỦA PHẬT GIÁO VIỆT NAM TẠI HẢI NGOẠI</p>
 			
  
-<p align="center"><a href="https://www.sachhiem.net/">
-	<img border="0" src="https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nha.jpg"></a> 07&nbsp; tháng 12, 2007</p>
+<p align="center"> 07&nbsp; tháng 12, 2007</p>
 	
 <p><b>Chuyện kỳ lạ khó tin nhưng 
 có thật</b></p>

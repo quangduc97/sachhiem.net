@@ -2,7 +2,7 @@
 layout: ../../layouts/Article.astro
 title: "Ngọn lửa Quảng Đức và"
 author: "Bùi Kha"
-source: "https://sachhiem.net/null"
+source: "/null"
 lang: vi
 wordCount: 6229
 image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/NMQ/IMG/QuangDuc.gif"

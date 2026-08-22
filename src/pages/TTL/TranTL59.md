@@ -3,7 +3,7 @@ layout: ../../layouts/Article.astro
 title: "Môn Đệ Chúa hay Nô Lệ Vatican?"
 author: "Trần Tiên Long"
 date: 2014-12-30
-source: "https://sachhiem.net/TTL/TranTL59.php"
+source: "/TTL/TranTL59"
 category: "Lịch sử"
 lang: vi
 wordCount: 1959
@@ -11,7 +11,7 @@ image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/TONGIAO/IMG/BIBLE/Sa
 ---
 
 <p>[SH - <i>Xin gửi bạn đọc một trong những mẫu đối thoại về tôn giáo. Thư trước ở dưới, thư trả lời ở trên</i>]</p>
- <p>Bài dẫn: <a href="https://sachhiem.net/index.php?content=showemail&amp;id=823">Chúa Nhật Thứ 4 Mùa Vọng: Trích Tin Mừng theo thánh Luca</a></p>
+ <p>Bài dẫn: <a href="/hop-thu/823">Chúa Nhật Thứ 4 Mùa Vọng: Trích Tin Mừng theo thánh Luca</a></p>
 <p align="center"><img src="https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/TONGIAO/IMG/BIBLE/Samuel-15_The-Death-of-Agag.jpg" width="300" height="369"></p>
 
 <p><i><br>
@@ -34,7 +34,7 @@ image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/TONGIAO/IMG/BIBLE/Sa
 <p>  Giáo Hoàng còn tóm gọn  những căn bệnh trầm kha của họ trong một danh sách gồm 15 chứng bệnh đang đe  dọa sự tồn vong của của Giáo Hội Công Giáo. (A list of Pope Francis' 15  "Ailments of the Curia" <a href="https://news.yahoo.com/list-pope-francis-15-ailments-curia-135212974.html" target="_blank">https://news.yahoo.com/list-pope-francis-15-ailments-curia-135212974.html</a>).</p>
 <p>  Và  báo chí ở Ý còn khẳng định từ lâu nay rằng ủy ban điều tra đã tìm thấy các chứng  cớ đầy đủ về Vatican, một tổ chức tham nhũng, làm tiền và giao cấu đồng tính; và  kết quả của cuộc điều tra đã đưa đến việc Giáo Hoàng Benedict 16 quyết định thoái  vị.</p>
 <p>   (Việc Giáo Hoàng  Tuyên Bố Phải Giữ Bí Mật Cuộc Điều Tra Vụ Rò Rỉ Của Vatican Làm Tăng Thêm Tình  Tiết Trong Những Ngày Cuối. Trần Tiên Long chuyển dịch. Nguồn:</p>
-<p>  <a href="https://sachhiem.net/index.php?content=showrecipe&amp;id=5563" target="_blank">https://sachhiem.net/index.php?content=showrecipe&amp;id=5563</a>)</p>
+<p>  <a href="/TTL/TranTL40" target="_blank">https://sachhiem.net/index.php?content=showrecipe&amp;id=5563</a>)</p>
 <p>  Vậy  ông Đặng Bảo và những người Công Giáo làm sao có thể phân biệt được đâu là lời  dạy của Đức Ki-tô, và đâu là lời dạy của Vatican, một thế lực tôn giáo hoàn vũ  đã và đang được cai quản, điều hành bởi những kẻ bị các chứng bệnh lú lẫn  tinh thần, tham lam quyền lực, giả dối, đạo đức giả, mưu đồ, xem thiên chức như  là một thứ nghề ngỗng chuyên nghiệp để thủ lợi, tham nhũng, làm tiền, và  giao cấu đồng tính?</p>
 <p>  Nếu một ai khác có  những nhận định như Giáo Hoàng Francis và báo chí Ý thì sẽ dễ dàng bị thiên hạ  kết án đủ thứ mọi giống tội, như vu khống, đánh phá tôn giáo, ghen tị, thuộc  nhóm Giao Điểm, bè lũ tay sai của Cộng Sản vô thần…</p>
 <p>  Nhưng  tôi tin chắc báo chí Ý và Giáo Hoàng Francis không phải là những hạng người như  vậy.</p>
@@ -51,7 +51,7 @@ image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/TONGIAO/IMG/BIBLE/Sa
 <p>  Con  hai đoạn TK. Lucas 14: 26 và Lucas: 19: 27 thì ông đã trả lời. Nhưng cũng như  không. Vì không ai nghe lọt lỗ tai.  Cái lối trả lời theo kiểu: "Lưỡi  không xương nhiều đường lắt léo: này, tôi đã biết từ lâu.</p>
 <p>  Để  chứng minh điều tôi nói (đã biết). Xin mời ông và quý độc giả đọc đoạn văn dưới  đây, trong bài "Tôi Đi Nghe Mục Sư Nguyễn Huệ Nhật Giảng đạo Tin  Lành" do tôi viết từ năm 2007, để cho ông và quý độc giả thấy rằng: Kiểu  trả lời "trớt quớt" của ông, tôi đã biết từ khuya rồi.</p>
 <p>  Trích:</p>
-<p>  (<a href="https://sachhiem.net/index.php?content=showrecipe&amp;id=6115">xin bấm link để xem</a>)</p>
+<p>  (<a href="/DOITHOAI/NguyenHBa02">xin bấm link để xem</a>)</p>
 <p>Dù  sao, tôi cũng xin cảm ơn ông đã trả lời tôi, xin chào.</p>
 <p>NHB</p>
 <p>_________________</p>
@@ -75,8 +75,8 @@ image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/TONGIAO/IMG/BIBLE/Sa
         Subject: [NguoiVietQuocGia] Maria người nữ đầy ơn phúc - Chúa Nhật Thứ 4  Mùa Vọng</i></p>
 <p>Xin  mọi người cùng chia sẻ với ông Đặng Bảo và quý vị trong  chuỗi điện thư nầy. Điện thư chánh yếu từ ông Đặng  Bảo ở dưới chót và nhân tiện chúng ta cũng nên đặt ra vấn đề  "THẾ NÀO LÀ MÊ TÍN DỊ ĐOAN"</p>
 <p>  *Xin đọc  từ dưới lên.</p>
-<p>Bài dẫn: <a href="https://sachhiem.net/index.php?content=showemail&amp;id=823">Chúa Nhật Thứ 4 Mùa Vọng: Trích Tin Mừng theo thánh Luca</a></p>
+<p>Bài dẫn: <a href="/hop-thu/823">Chúa Nhật Thứ 4 Mùa Vọng: Trích Tin Mừng theo thánh Luca</a></p>
 <hr>
-<p><a href="https://sachhiem.net/TTL/List.inc.php">Các bài của Trần Tiên Long » </a></p>
+<p><a href="/TTL/List.inc">Các bài của Trần Tiên Long » </a></p>
 
 <hr>

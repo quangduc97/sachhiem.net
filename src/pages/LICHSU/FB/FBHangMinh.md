@@ -6,14 +6,13 @@ source: "https://sachhiem.net"
 category: "Chính trị"
 lang: vi
 wordCount: 2945
-image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nha.jpg"
+image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/sqdot.gif"
 ---
 
 <p class="Tuaduoi">Lại Mang Bài Đạo Văn  Ra Đọc Lại Tại Hội Thảo Quốc Tế Việt Nam Học Lần Thứ 6</p>
 
 
- <p align="center"><a href="https://www.sachhiem.net/">
-<img border="0" src="https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nha.jpg"></a> 
+ <p align="center"> 
 ngày </p> 
 <p>Ngày 28-29 tháng 10 năm 2021, Viện Hàn lâm Khoa học xã hội Việt  Nam phối hợp với Đại học Quốc gia Hà Nội tổ chức Hội thảo quốc tế Việt Nam học  lần thứ VI. Nguyễn Văn Hiệp được giao làm Trưởng Tiểu ban Ngôn ngữ, Văn học.  Nguyễn Văn Hiệp vốn luôn tỏ ra bản thân là một tay lãng tử, hết đi phượt du hí  lại ngồi lê các Hội đồng hay tua lại các bài giảng khi còn dạy cho sinh viên  nay đem dạy cho nghiên cứu sinh ở các Trường đại học ở địa phương, hay vùng  núi, nên Hiệp chẳng có công trình khoa học nào được xuất bản, mặc dù đã làm chủ  nhiệm 6 đề tài cả cấp bộ lẫn cấp cơ sở, mà đề tài nào nghiệm thu cũng được xếp  loại xuất sắc!<br>
 Lần này được giao làm Trưởng Tiểu ban 6: Ngôn ngữ, Văn học trong  một Hội thảo quốc tế, Nguyễn Văn Hiệp cũng vẫn chẳng có cái gì trong đầu, nên  anh ta đành phải lấy "bổn cũ soạn lại" ra đọc. Đó là bài viết  "tai tiếng" mà NGUYỄN VĂN HIỆP ĐẠO VĂN, CHÔM CHỈA TỪ BÀI TẠP CHÍ CỦA  NGUYỄN KIẾN THỌ VÀ ĐÃ ĐƯỢC HIỆP SỬ DỤNG LÀM BÁO CÁO CHÍNH TRONG MỘT CUỘC HỘI  THẢO QUỐC GIA đã được tổ chức (ngày 08/10/2020) theo quy định nằm trong Đề tài  khoa học cấp Quốc gia do Nguyễn Văn Hiệp làm chủ nhiệm.<br>

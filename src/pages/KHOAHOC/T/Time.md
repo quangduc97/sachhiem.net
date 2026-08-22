@@ -2,7 +2,7 @@
 layout: ../../../layouts/Article.astro
 title: "Nhà Vũ trụ học Stephen Hawking"
 author: "Time Magazine / Trí Tánh dịch"
-source: "https://sachhiem.net/null"
+source: "/null"
 category: "Tác giả"
 lang: vi
 wordCount: 1728

@@ -3,7 +3,7 @@ layout: ../../../layouts/Article.astro
 title: "Tác Phẩm Kinh Điển Của Tocqueville Trở Thành Bestseller ở Trung Quốc"
 author: "France 24/ Phạm Thanh Trúc"
 date: 2013-01-22
-source: "https://sachhiem.net/TONGIAO/tgP/PhThTruc1.php"
+source: "/TONGIAO/tgP/PhThTruc1"
 category: "Tác giả"
 lang: vi
 wordCount: 1030

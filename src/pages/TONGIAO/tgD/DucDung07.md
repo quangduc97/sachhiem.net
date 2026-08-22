@@ -3,7 +3,7 @@ layout: ../../../layouts/Article.astro
 title: "Luật Tín Ngưỡng Tôn Giáo năm 2016"
 author: "thuvienphapluat.vn"
 date: 2016-12-13
-source: "https://sachhiem.net/TONGIAO/tgD/DucDung07.php"
+source: "/TONGIAO/tgD/DucDung07"
 category: "Chính trị"
 lang: vi
 wordCount: 2

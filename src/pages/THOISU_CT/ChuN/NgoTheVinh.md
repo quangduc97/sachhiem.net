@@ -3,7 +3,7 @@ layout: ../../../layouts/Article.astro
 title: "Kinh Nghiệm Làm Báo Sinh Viên Nửa Thế Kỷ Trước 1964 – 1967"
 author: "Ngô Thế Vinh"
 date: 2017-04-14
-source: "https://sachhiem.net/THOISU_CT/ChuN/NgoTheVinh.php"
+source: "/THOISU_CT/ChuN/NgoTheVinh"
 category: "Chính trị"
 lang: vi
 wordCount: 4436

@@ -3,7 +3,7 @@ layout: ../../../layouts/Article.astro
 title: "Không Thù Hận - Xứng Đáng Chỉ Có Tình Thương"
 author: "Hoàng Thục An trích thuật"
 date: 2014-09-24
-source: "https://sachhiem.net/LICHSU/H/HoangThucAn.php"
+source: "/LICHSU/H/HoangThucAn"
 category: "Chính trị"
 lang: vi
 wordCount: 3141

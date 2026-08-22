@@ -3,7 +3,7 @@ layout: ../../../layouts/Article.astro
 title: "Video Về GH. Francis và Cuộc Chiến Bẩn Thỉu"
 author: "Global Research TV (GRTV)"
 date: 2016-09-23
-source: "https://sachhiem.net/SACHNGOAI/SH/SH7.php"
+source: "/SACHNGOAI/SH/SH7"
 category: "Sách ngoại văn"
 lang: vi
 wordCount: 2878

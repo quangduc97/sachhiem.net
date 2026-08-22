@@ -3,7 +3,7 @@ layout: ../../../layouts/Article.astro
 title: "[VATICANOLOGY] - Hồng Y Nguyễn Văn Thuận, Người Lính Xung Kích Của Chính Quyền Vatican Trên Tuyến Đầu Chống Cộng"
 author: "Minh Thạnh"
 date: 2024-05-25
-source: "https://sachhiem.net/TONGIAO/tgM/MinhThanh37_05_B2.php"
+source: "/TONGIAO/tgM/MinhThanh37_05_B2"
 category: "Chính trị"
 lang: vi
 wordCount: 7995
@@ -20,7 +20,7 @@ image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/TONGIAO/IMG/GIAMMUC/
  </div>
  <p align="center"><img src="https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/TONGIAO/IMG/GIAMMUC/GM_NguyenVanThuan.JPG" width="350" height="500" alt=""></p>
  <p class="CHUONG">“Bằng Chứng” Về Hoạt Động Chống Cộng Của Hồng Y Nguyễn Văn Thuận, Thời Kỳ Đến Năm 1975.</p>
- <p>Bạn đọc Quang Sang phản hồi bài “[Vaticanology] <a href="https://sachhiem.net/TONGIAO/tgM/MinhThanh37_04.php"><i>Hình mẫu phong Thánh quan chức  Chính quyền Vatican chống cộng kiểu Hồng y Nguyễn Văn Thuận: Hồng y Josep Beran  (Tiệp Khắc)</i></a>”  nêu đề xuất: “<i>Xin tác giả Minh Thạnh lên  bài những bằng chứng chống cộng của ông Nguyễn Văn Thuận cho độc giả được  biết</i>”.</p>
+ <p>Bạn đọc Quang Sang phản hồi bài “[Vaticanology] <a href="/TONGIAO/tgM/MinhThanh37_04"><i>Hình mẫu phong Thánh quan chức  Chính quyền Vatican chống cộng kiểu Hồng y Nguyễn Văn Thuận: Hồng y Josep Beran  (Tiệp Khắc)</i></a>”  nêu đề xuất: “<i>Xin tác giả Minh Thạnh lên  bài những bằng chứng chống cộng của ông Nguyễn Văn Thuận cho độc giả được  biết</i>”.</p>
  <p>[Nhắc lại các giai đoạn đã chia ở Bài 1:]</p>
  <p class="leftborder"><b>VỀ NHỮNG “BẰNG CHỨNG”.</b></p>
  <p class="leftborder">Hoạt động của Hồng y P. X. Nguyễn Văn Thuận có thể chia làm các  giai đoạn:</p>

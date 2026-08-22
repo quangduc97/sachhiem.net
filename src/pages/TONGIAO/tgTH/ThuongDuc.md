@@ -2,17 +2,17 @@
 layout: ../../../layouts/Article.astro
 title: "1000 Năm Tàn Sát & Man Rợ - Nhân Danh Chúa"
 author: "Thường Đức (usa) sưu tầm và dịch từ"
-source: "https://sachhiem.net/TONGIAO/tgTH/ThuongDuc.php"
+source: "/TONGIAO/tgTH/ThuongDuc"
 category: "Tác giả"
 lang: vi
 wordCount: 2938
-image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nha.jpg"
+image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/Nhungtensatnhan/JohnXII.gif"
 ---
 
 <p class="Tuaduoi">(<a href="https://www.jesusneverexisted.com/1000years.htm">1000 Years of Carnage &amp; Barbarity</a> in the name of Christ) </p>
 		
 		
- <p align="center"><a href="/index"> <img hspace="20" border="0" src="https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nha.jpg"> </a> 13 tháng 8, 2009</p>
+ <p align="center"> 13 tháng 8, 2009</p>
 
 	<p>“Kitô giáo quyết tìm một thế giới ma quỉ và xấu xa, và 
 	họ đã dựng nên một thế giới ma quỉ và xấu xa.”&nbsp; triết gia F. Nietzsche</p>

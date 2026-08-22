@@ -3,7 +3,7 @@ layout: ../../../layouts/Article.astro
 title: "3.677 trường hợp lạm dụng tình dục trong Giáo hội Công giáo Đức"
 author: "Tỉnh Dòng Chúa Cứu Thế Việt Nam"
 date: 2021-07-01
-source: "https://sachhiem.net/TONGIAO/tgS/SH90_Duc.php"
+source: "/TONGIAO/tgS/SH90_Duc"
 category: "Chính trị"
 lang: vi
 wordCount: 615

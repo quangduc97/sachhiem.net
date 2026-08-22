@@ -2,11 +2,11 @@
 layout: ../../layouts/Article.astro
 title: "Cái Họa Của Người Nổi Tiếng"
 author: "Thanh Tùng/ (VNTP) thực hiện"
-source: "https://sachhiem.net/Nguyễn Đắc Xuân - trưởng Đoàn Sinh viên Quyết tử Huế (mùa hè 1966)."
+source: "/Nguyễn Đắc Xuân - trưởng Đoàn Sinh viên Quyết tử Huế (mùa hè 1966)."
 category: "Lịch sử"
 lang: vi
 wordCount: 3351
-image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/RINGBINDER/images/nha.jpg"
+image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/RINGBINDER/NDX/IMG/HPNTngoixelan_TetMauTy.jpg"
 ---
 
 <div align="center" style="position: relative; left: 0; top: 0">
@@ -22,8 +22,7 @@ image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/RINGBINDER/images/nh
 <div style="padding-left: 50px; padding-right: 50px">
 	<table border="0" cellpadding="0" width="87%">
 		<tbody><tr>
-			<td valign="top"><a href="/RINGBINDER/index">
-			<img border="0" src="https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/RINGBINDER/images/nha.jpg"></a></td>
+			<td valign="top"></td>
 			<td valign="top" width="228">  ngày 3 tháng 2, 2011	</td>
 		</tr>
 	</tbody></table>

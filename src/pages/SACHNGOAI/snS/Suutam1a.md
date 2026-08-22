@@ -2,14 +2,14 @@
 layout: ../../../layouts/Article.astro
 title: "Người Tình Đức Giáo Hoàng - Tập 1"
 author: "ARTE"
-source: "https://sachhiem.net/SACHNGOAI/snS/Suutam1a.php"
+source: "/SACHNGOAI/snS/Suutam1a"
 category: "Tác giả"
 lang: vi
 wordCount: 302
-image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nha.jpg"
+image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/Next3.gif"
 ---
 
-<p align="center"><a href="/SACHNGOAI/index"><img hspace="20" border="0" src="https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nha.jpg"></a> tháng 11, 2008</p> 
+<p align="center"> tháng 11, 2008</p> 
 <p><a href="/TONGIAO/tgS/SH33">Nhập 
 	<img border="0" src="https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/Next3.gif" width="15" height="6"></a></p>
      <p><a href="/SACHNGOAI/Suutam1a"><b>Tập 1</b> </a>, <a href="/SACHNGOAI/Suutam1b"><b>Tập 2 </b></a>, 

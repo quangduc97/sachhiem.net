@@ -2,10 +2,9 @@
 layout: ../../../layouts/Article.astro
 title: "Quyết định sai lầm của người đứng đầu nhà nước Vatican đã gây hậu quả gì ?"
 author: "Thiện Ý"
-source: "https://sachhiem.net/null"
+source: "/null"
 lang: vi
 wordCount: 1997
-image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nha.jpg"
 ---
 
 <div align="center">
@@ -13,8 +12,7 @@ image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nha.jpg"
 	<tbody><tr>
 	<td valign="top">
 	<div style="padding-left: 40px; padding-right: 40px">	
-<p>	<a href="/index">
-<img border="0" src="https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nha.jpg"></a></p>
+
 
 
  
@@ -148,7 +146,7 @@ về Đức Giáo Hòang Benedicto 16 và Hội ĐồngGiám Mục Việt Nam. <
 LẠI THÙ GHÉT NHỮNG NGƯỜI VÔ THẦN
 "</p>
 
-					<a href="https://sachhiem.net/EMAILS/emailfooter.php">Các Emails khác </a>
+					<a href="/EMAILS/emailfooter">Các Emails khác </a>
 
 
 		</div>

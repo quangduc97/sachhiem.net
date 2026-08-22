@@ -3,7 +3,7 @@ layout: ../../../layouts/Article.astro
 title: "Khi Đức Tin Bị Thử Thách Ta Phải Làm Gì?"
 author: "Nguyễn Trọng Nghĩa"
 date: 2013-03-02
-source: "https://sachhiem.net/TONGIAO/tgN/NgTnghia.php"
+source: "/TONGIAO/tgN/NgTnghia"
 category: "Tác giả"
 lang: vi
 wordCount: 3541

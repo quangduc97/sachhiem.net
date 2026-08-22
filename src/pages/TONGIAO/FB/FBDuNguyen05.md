@@ -3,7 +3,7 @@ layout: ../../../layouts/Article.astro
 title: "Vatican Sử Dụng Tiền Quyên Góp Cho Người Nghèo Để Bù Đắp Thâm Hụt Ngân Sách"
 author: "Du Nguyễn lượm lặt"
 date: 2024-03-09
-source: "https://sachhiem.net/TONGIAO/FB/FBDuNguyen05.php"
+source: "/TONGIAO/FB/FBDuNguyen05"
 category: "Chính trị"
 lang: vi
 wordCount: 237

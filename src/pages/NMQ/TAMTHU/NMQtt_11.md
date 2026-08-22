@@ -2,17 +2,17 @@
 layout: ../../../layouts/Article.astro
 title: "Tâm Thư Gửi Nhà Nước Việt Nam"
 author: "Nguyễn Mạnh Quang"
-source: "https://sachhiem.net/NMQ/TAMTHU/NMQtt_11.php"
+source: "/NMQ/TAMTHU/NMQtt_11"
 lang: vi
 wordCount: 8710
-image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nha.jpg"
+image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/print.gif"
 ---
 
-<p align="center"><a href="https://www.sachhiem.net/"> <img border="0" src="https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nha.jpg"></a> | 
-<a target="_blank" href="https://sachhiem.net/NMQ/TAMTHU/NMQtt_10.php">
+<p align="center"> | 
+<a target="_blank" href="/NMQ/TAMTHU/NMQtt_10">
 <img border="0" src="https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/print.gif" width="18" height="18"> 
   bản in</a> | 
-	<a target="_blank" href="https://sachhiem.net/NMQ/TAMTHU/NMQtt_Main.php"><b><font face="Symbol" size="5"> ¿ </font></b> trở ra mục lục</a>
+	<a target="_blank" href="/NMQ/TAMTHU/NMQtt_Main"><b><font face="Symbol" size="5"> ¿ </font></b> trở ra mục lục</a>
  |  21 tháng 12, 2009 </p>
 
 <p class="CHUONG">PHẦN II</p>
@@ -54,7 +54,7 @@ Mã, giáo hoàng, giáo sĩ và giáo dân không bao giờ chủ trương và 
 <a href="https://luongtamconggiao.com/pages/tp.asp?topicID=3445&amp;categoryID=2&amp;...">“Giáo Hội 
 Công Giáo La Mã</a></i><a href="https://luongtamconggiao.com/pages/tp.asp?topicID=3445&amp;categoryID=2&amp;...">”</a> đăng trong <i>
 Luongtamconggiao.com </i>mà chúng tôi ghi lại trong 
-<a href="https://www.sachhiem.net/NMQ/HOVATA/NMQhvt-4.php">Phần IV trong tập 
+<a href="/NMQ/HOVATA/NMQhvt-4">Phần IV trong tập 
 sách Họ Và Chúng Ta (đã được đưa lên sachhiem.net từ ngày 29/12/2008)</a> là một 
 trong rất nhiều cách né tránh của các ông văn nô và 
 trí thức Ca-tô này trong thủ đoạn chạy tội cho Giáo Hội La Mã cũng như giới giáo sĩ, tu sĩ và những người tín hữu làm Việt 
@@ -733,7 +733,7 @@ rổi đem cắm ở bên vệ đường ở đầu làng. Chuyện này và nhi
 rợn khác sẽ được trình bày đầy đủ nơi Chương 13 ở sau.</p>
 
 
-<p><a target="_blank" href="https://sachhiem.net/NMQ/TAMTHU/NMQtt_11a.php">(còn tiếp)</a></p>
+<p><a target="_blank" href="/NMQ/TAMTHU/NMQtt_11a">(còn tiếp)</a></p>
 
 
 

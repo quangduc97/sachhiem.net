@@ -2,15 +2,13 @@
 layout: ../../../layouts/Article.astro
 title: "CỌNG SẢN ĐÀN ÁP CÔNG GIÁO ?"
 author: "Minh Mẫn"
-source: "https://sachhiem.net/MINHMAN/Chinhtri/Minhman12.php"
+source: "/MINHMAN/Chinhtri/Minhman12"
 lang: vi
 wordCount: 1709
-image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nha.jpg"
 ---
 
 <table border="0" align="center" cellpadding="1" width="250"><tbody><tr>
-	<td width="110"><a href="https://www.sachhiem.net/">
-	<img border="0" src="https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nha.jpg"></a></td>
+	<td width="110"></td>
 	<td valign="top" style="text-align:right"> 22 tháng 9, 2008
 	</td></tr></tbody></table>
 

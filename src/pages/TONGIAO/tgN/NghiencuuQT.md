@@ -3,7 +3,7 @@ layout: ../../../layouts/Article.astro
 title: "So Sánh Việc Truyền Đạo Cơ Đốc Ở TQ và VN Trong Thế Kỷ 19"
 author: "GS. Li Chuanbin/ Phạm Thị Hảo dịch"
 date: 2018-12-15
-source: "https://sachhiem.net/TONGIAO/tgN/NghiencuuQT.php"
+source: "/TONGIAO/tgN/NghiencuuQT"
 category: "Chính trị"
 lang: vi
 wordCount: 7065

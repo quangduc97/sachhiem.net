@@ -2,14 +2,14 @@
 layout: ../../../layouts/Article.astro
 title: "Tiễn Chân Bác Tổng Kiệt Sớm Hưởng Nhan Thánh … Vaticano"
 author: "Thiên Lôi"
-source: "https://sachhiem.net/THLOI/TG/ThienLoi006.php"
+source: "/THLOI/TG/ThienLoi006"
 category: "Tác giả"
 lang: vi
 wordCount: 1243
-image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nha.jpg"
+image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/TONGIAO/IMG/LINHMUC/KietvaNhon_7May2010.jpg"
 ---
 
-<p align="center">  <a href="/index"><img border="0" src="https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nha.jpg"></a> 21 tháng 5, 2010 </p>
+<p align="center">   21 tháng 5, 2010 </p>
 			<p><span class="First">B</span>ác Tổng Kiệt kính mến: </p>
 			<p>Quả thật từ lâu tui đã không còn mấy hứng thú 
 			theo dõi chuyện nội bộ của các bác trong giới Ca-tô Rô-Ma 

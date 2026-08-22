@@ -3,7 +3,7 @@ layout: ../../../layouts/Article.astro
 title: "Thư Kêu Gọi Tham Gia Công Tác Phòng Chống Dịch Bệnh Covid-19 Tại Việt Nam"
 author: "TLSQVN @ SF"
 date: 2021-06-07
-source: "https://sachhiem.net/XAHOI/TUTHIEN/TLS_VACCINE.php"
+source: "/XAHOI/TUTHIEN/TLS_VACCINE"
 category: "Xã hội"
 lang: vi
 wordCount: 47

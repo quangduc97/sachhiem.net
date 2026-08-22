@@ -3,7 +3,7 @@ layout: ../../../../layouts/Article.astro
 title: "Richard Dawkins - Huyễn Tưởng Gót"
 author: "Lê Dọn Bàn"
 date: 2015-12-06
-source: "https://sachhiem.net/SACHNGOAI/snL/LeDonBan/LDB13_GDel2.php"
+source: "/SACHNGOAI/snL/LeDonBan/LDB13_GDel2"
 category: "Tác giả"
 lang: vi
 wordCount: 13557
@@ -16,7 +16,7 @@ image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/DECOR/LDB1.jp
    <p><b><i>Huyễn Tưởng Gót</i></b></p>
 <p class="TacgiaL">Richard Dawkins</p>
    <p><i>(The God Delusion)</i></p>
-   <p><a href="https://sachhiem.net/SACHNGOAI/snL/LeDonBan/LDB13_GDel.php">(tiếp theo ...)</a></p>
+   <p><a href="/SACHNGOAI/snL/LeDonBan/LDB13_GDel">(tiếp theo ...)</a></p>
    
        <p class="TuaDoLeft">Chương 2</p>
        <p><i>Giả thuyết Gót</i> </p>

@@ -2,11 +2,11 @@
 layout: ../../../layouts/Article.astro
 title: "Một số mục sư Mỹ gốc Châu Phi"
 author: "tin báo Người Việt"
-source: "https://sachhiem.net/nguồn https://nguoi-viet.com/absolutenm/anmviewer.asp?a=91087&amp;z=3 February 21, 2009"
+source: "/nguồn https://nguoi-viet.com/absolutenm/anmviewer.asp?a=91087&amp;z=3 February 21, 2009"
 category: "Chính trị"
 lang: vi
 wordCount: 1033
-image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nha.jpg"
+image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/Hinh/CaoQuangAnh/CQA-3.jpg"
 ---
 
 <div align="center" style="position: relative; left: 0; top: 0">
@@ -29,8 +29,7 @@ image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nha.jpg"
 <div style="padding-left: 50px; padding-right: 50px">
 		
 			<table border="0" cellpadding="10" width="600" cols="2"><tbody><tr>
-				<td><a href="/index">
-				<img src="https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nha.jpg" border="0"></a></td>
+				<td></td>
 	<td valign="top" width="176">	25 tháng 1, 2009
 	</td></tr></tbody></table>
 				

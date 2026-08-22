@@ -3,7 +3,7 @@ layout: ../../../layouts/Article.astro
 title: "Việt Nam Quốc Sử Hùng Ca"
 author: "Cầu Móng NTTTLA"
 date: 2023-09-20
-source: "https://sachhiem.net/LICHSU/CAUMONG/COPY_VNQSHC.php"
+source: "/LICHSU/CAUMONG/COPY_VNQSHC"
 category: "Chính trị"
 lang: vi
 wordCount: 24083
@@ -25,7 +25,7 @@ image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/LICHSU/IMG/CAUMG_IMG
 
 <p>&nbsp;<b>ĐIỂM SÁCH “VIỆT NAM QUỐC SỬ HÙNG CA” </b>của tác giả Cầu Móng NTTTLA</p>
 <p>  Nguyễn  Mạnh Quang</p>
-<p>(Xin xem ở đây: <a href="https://sachhiem.net/EMAILS/SH/Sachhiem17h.php">Bài Giới Thiệu</a>)</p>
+<p>(Xin xem ở đây: <a href="/EMAILS/SH/Sachhiem17h">Bài Giới Thiệu</a>)</p>
 <p>_____________</p>
 <p> <b>&nbsp;MỤC  LỤC </b></p>
 <p>  Đây là Thi Sử, thể song thất  lục bát, dài 3.092 câu, chia làm 26 chương, mỗi chương có phần Sử Thi Giảng Giải,  Bình Luận hoặc Chú Thích, có lồng ghép bản đồ và hình ảnh.</p>

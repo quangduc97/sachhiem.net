@@ -3,7 +3,7 @@ layout: ../../layouts/Article.astro
 title: "Thánh Quan Thầy Internet"
 author: "Lý Thái Xuân"
 date: 2021-12-18
-source: "https://sachhiem.net/LTX/LythaiTG32.php"
+source: "/LTX/LythaiTG32"
 category: "Chính trị"
 lang: vi
 wordCount: 4379
@@ -43,7 +43,7 @@ image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/TONGIAO/FB/IMG/merch
  <p><i>một linh mục Capuchin người Ý, Cha Carlo Maria da Abbiategrasso sinh năm 1825 và qua đời năm 1859; </i></p>
  <p><i>và một nữ tu người Ba Lan, Nữ tu Maria Małgorzata của Thánh Tâm Chúa Giêsu trong Vườn Cây Dầu sinh năm 1896 và qua đời năm 1966.</i></p>
  <p>Các trường hợp này cũng mù mờ như trên. "Nhân đức anh hùng" của những người này là gì? Có chăng là họ đã đi vào những nơi "vùng sâu vùng xa" để truyền giáo, chiếm linh hồn, và theo đó là vật chất, và đất đai. Tóm lại, việc Vatican phong tặng, ban tặng những chức danh cho những cái xác đã chết cả trăm năm là những việc làm hết sức trơ trẽn, đầy giả tạo nếu không muốn nói là "điếm đàng".</p>
- <p>Đó là bề mặt thực sự của việc phong thánh mà chúng ta cũng từng nghe qua trong các bài khác, thí dụ "<a href="https://sachhiem.net/NMQ/HOSOTOIAC/CH12.php">CHƯƠNG 12: Phong Thánh, Bán Thánh, Tình Trạng Tham Nhũng và Loạn Dâm trong Giới Lãnh Đạo và Tu Sĩ</a>". Sau đây chúng ta xem các thể loại khác của việc "phong thánh", nhẹ nhàng hơn, vui tươi hơn. Đó là thể loại "thánh quan thầy" hay "thánh bổn mạng".</p>
+ <p>Đó là bề mặt thực sự của việc phong thánh mà chúng ta cũng từng nghe qua trong các bài khác, thí dụ "<a href="/NMQ/HOSOTOIAC/CH12">CHƯƠNG 12: Phong Thánh, Bán Thánh, Tình Trạng Tham Nhũng và Loạn Dâm trong Giới Lãnh Đạo và Tu Sĩ</a>". Sau đây chúng ta xem các thể loại khác của việc "phong thánh", nhẹ nhàng hơn, vui tươi hơn. Đó là thể loại "thánh quan thầy" hay "thánh bổn mạng".</p>
  
  <p class="Tuaduoi"> <b>B. Khía cạnh văn hóa</b></p>
  <p>Có lẽ bạn đọc từng biết có nhiều thể loại "hoa hậu" như: hoa hậu quý bà,  hoa hậu miệt vườn, hoa hậu quốc gia, hoa hậu quốc tế, hoa hậu hòa bình, hoa hậu trái đất, hoa hậu du lịch,...  Chúng ta lại thấy  Giáo Hội La Mã đặt ra nhiều loại "thánh" dựa trên các tiêu chuẩn khác nhau, và cũng... có vẻ khá lý thú. Trong quyển <i>"Công Giáo Trên Bờ Vực Thẳm</i>" của tác giả cố thẩm phán Charlie Nguyễn, ông nói: </p>
@@ -95,7 +95,7 @@ image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/TONGIAO/FB/IMG/merch
   <p><b>Nguồn tham khảo</b>: </p>
  <p class="nguonL">1- Đức Thánh Cha Phanxicô chuẩn y phép lạ do một nữ tu người Pháp cầu bầu, <a href="https://www.vietcatholic.net/News/Html/273004.htm"> VietCatholic News, </a> 17/Dec/2021</p>
  <p class="nguonL">2- <a href="https://theconversation.com/who-are-patron-saints-and-why-do-catholics-venerate-them-148508">"Who are patron saints and why do Catholics venerate them?"</a>, November 10, 2020</p>
- <p class="nguonL">3- <a href="https://sachhiem.net/CHARLIE/CN_CGTBVT/CN_CGTBVT_6.php">Charlie Nguyễn, "Công Giáo Trên Bờ Vực Thẳm," </a>CÁCH LÀM TIỀN CỦA VATICAN </p>
+ <p class="nguonL">3- <a href="/CHARLIE/CN_CGTBVT/CN_CGTBVT_6">Charlie Nguyễn, "Công Giáo Trên Bờ Vực Thẳm," </a>CÁCH LÀM TIỀN CỦA VATICAN </p>
  <p class="nguonL">4- "Toàn Shinoda lên tiếng về 5 loại thánh của cộng đồng mạng"  <a href="https://kenh14.vn/doi-song/toan-shinoda-len-tieng-ve-5-loai-thanh-cua-cong-dong-mang-20140303113447418.chn">kenh14.vn</a></p>
  <p class="nguonL">5- Đừng làm cho Thánh Gióng mất thiêng !<a href="https://thanhnien.vn/dung-lam-cho-thanh-giong-mat-thieng-post455769.html"> (Thanhnien.vn)</a></p>
  <p>______________ COMMENTS _____</p>

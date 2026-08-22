@@ -2,7 +2,7 @@
 layout: ../../../layouts/Article.astro
 title: "CIA và Việt Nam Cộng Hòa"
 author: "Thoma Ahern, Jr / Nguyễn Kỳ Phong"
-source: "https://sachhiem.net/null"
+source: "/null"
 category: "Tác giả"
 lang: vi
 wordCount: 4110

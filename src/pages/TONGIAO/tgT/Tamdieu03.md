@@ -3,7 +3,7 @@ layout: ../../../layouts/Article.astro
 title: "Phê bình của Phật giáo về Chủ Nghĩa Tư Bản hiện đại và Toàn cầu hóa"
 author: "GSTS. K.T.S. Sarao"
 date: 2014-05-13
-source: "https://sachhiem.net/TONGIAO/tgT/Tamdieu03.php"
+source: "/TONGIAO/tgT/Tamdieu03"
 category: "Tác giả"
 lang: vi
 wordCount: 985

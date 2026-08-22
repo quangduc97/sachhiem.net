@@ -3,7 +3,7 @@ layout: ../../../layouts/Article.astro
 title: "Tìm Hiểu Đạo Tôi:"
 author: "Cao Hữu Tâm"
 date: 2014-03-09
-source: "https://sachhiem.net/TONGIAO/tgC/Caohtam09.php"
+source: "/TONGIAO/tgC/Caohtam09"
 category: "Tác giả"
 lang: vi
 wordCount: 4052

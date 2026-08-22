@@ -2,26 +2,24 @@
 layout: ../../layouts/Article.astro
 title: "Cảm nghĩ sau bài \"Một bài viết thiếu tiêu chuẩn ...\""
 author: "Lý Thái Xuân"
-source: "https://sachhiem.net/DOITHOAI/Lythaixuan.php"
+source: "/DOITHOAI/Lythaixuan"
 category: "Đối thoại"
 lang: vi
 wordCount: 4684
-image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nha.jpg"
 ---
 
 <p class="Tuaduoi">của&nbsp;ông Nguyễn Tường Tâm &nbsp;</p> 
     
     
-	<p align="center"><a href="https://www.sachhiem.net/">
-	<img border="0" src="https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nha.jpg"></a> 11 tháng 11, 2007 </p>
+	<p align="center"> 11 tháng 11, 2007 </p>
 	<p>
 	 LTS:&nbsp; Các bài viết  liên 
 	hệ liệt kê nơi đây, xin bấm vào các chữ nổi màu khác để dẫn đến đường nối. Đó là </p>
-	<p>- bài của tiến sĩ Trần Chung Ngọc nhan đề <a href="https://sachhiem.net/TCN/TCNkh/DuongNgAnh.php"><i>
+	<p>- bài của tiến sĩ Trần Chung Ngọc nhan đề <a href="/TCN/TCNkh/DuongNgAnh"><i>
 	  "Vấn Đề Đạo Đức Trong Khoa Học [Nhân Đọc Những Bài Viết Về Khoa Học Gia Dương Nguyệt Ánh]</i>"</a>, và </p>
 	<p>- bài của ông Nguyễn Tường Tâm, nhan đề <a href="https://www.talawas.org/talaDB/showFile.php?res=11314&amp;rb=0306">
 	  "<i>Một bài viết thiếu tiêu chuẩn khoa học của ông Trần Chung Ngọc"</i></a>. &nbsp; </p>
-	<p>Xin đọc thêm bài phản hồi đến tác giả Nguyễn Tường Tâm của tác giả Trần Chung Ngọc, nhan đề: <a href="https://sachhiem.net/TCN/TCNdt/TCNdt9.php"><i>"VÀI NHẬN XÉT VỀ BÀI: Một bài viết thiếu tiêu chuẩn khoa học của ông Trần Chung Ngọc - Của Nguyễn Tường Tâm</i></a> &nbsp;(SH) </p>
+	<p>Xin đọc thêm bài phản hồi đến tác giả Nguyễn Tường Tâm của tác giả Trần Chung Ngọc, nhan đề: <a href="/TCN/TCNdt/TCNdt9"><i>"VÀI NHẬN XÉT VỀ BÀI: Một bài viết thiếu tiêu chuẩn khoa học của ông Trần Chung Ngọc - Của Nguyễn Tường Tâm</i></a> &nbsp;(SH) </p>
 <hr align="center" width="50%">
  <p><b><font face="Vivaldi" size="6">K</font></b>hi một người dân viết bài lên án ông Tổng 
 	thống việc này việc nọ liên quan đến công chúng, hoặc phê bình một nhân vật 
@@ -247,7 +245,7 @@ image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nha.jpg"
 	ông Tâm cũng "<b>rất vô lễ</b>" khi viết cả một bài đầy méo mó vẽ vời loanh 
 	quanh của ông với mục đích để thóa mạ một giáo sư dạy khoa học đã về hưu và đã có 
 	nhiều tác phẩm đáng nể.&nbsp; Ông Trần Chung Ngọc không phải là một con người của quần chúng (public figure), ông cũng không có thành tích giết hại dân chúng, trái lại đem lại những nghiên cứu giúp sáng tỏ những sự thật đã bị các thế lực lấp liếm.  Như vậy, khi ông viết bài thóa mạ ông Ngọc thì tư cách của ông thế nào?  Xin đọc về tác giả Trần Chung Ngọc trong hàng nối sau đây
-	<a href="https://sachhiem.net/TCN/Ndir.php">https://sachhiem.net/TCN/Ndir.php</a><span lang="en-us"> </span></p>
+	<a href="/TCN/Ndir">https://sachhiem.net/TCN/Ndir.php</a><span lang="en-us"> </span></p>
 	
 	
 	<p><b>So sánh khập khiểng 

@@ -2,7 +2,7 @@
 layout: ../../../layouts/Article.astro
 title: "Lịch sử Việt Nam giai đoạn 1962-1963 bằng hình ảnh"
 author: "Sưu tầm liên mạng"
-source: "https://sachhiem.net/null"
+source: "/null"
 category: "Chính trị"
 lang: vi
 wordCount: 122
@@ -30,7 +30,7 @@ image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nhacu.jpg"
 	
 	<table border="0" cellpadding="10" width="80%" cols="2">
 		<tbody><tr>
-			<td width="211"><a href="https://sachhiem.net/">
+			<td width="211"><a href="/">
 			<img border="0" src="https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nhacu.jpg" width="49" height="20"></a></td>
 			<td valign="top">14 tháng 3, 2009	</td>
 		</tr>

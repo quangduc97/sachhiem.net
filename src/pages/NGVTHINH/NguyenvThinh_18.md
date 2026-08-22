@@ -3,7 +3,7 @@ layout: ../../layouts/Article.astro
 title: "Đường Trần Là Thế"
 author: "Nguyễn Văn Thịnh"
 date: 2017-10-17
-source: "https://sachhiem.net/NGVTHINH/NguyenvThinh_18.php"
+source: "/NGVTHINH/NguyenvThinh_18"
 category: "Lịch sử"
 lang: vi
 wordCount: 2480

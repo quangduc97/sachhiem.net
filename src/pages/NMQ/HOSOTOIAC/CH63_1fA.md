@@ -3,7 +3,7 @@ layout: ../../../layouts/Article.astro
 title: "TÌNH TRẠNG NGU DỐT CỦA ÔNG NGÔ ĐÌNH DIỆM"
 author: "- Nguyễn Mạnh Quang -"
 date: 2023-10-30
-source: "https://sachhiem.net/NMQ/HOSOTOIAC/CH63_1fA.php"
+source: "/NMQ/HOSOTOIAC/CH63_1fA"
 lang: vi
 wordCount: 4883
 image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/LICHSU/IMG/NGODD/HONHAN/NDD_hySpellman_ksMaryKnoll.png"

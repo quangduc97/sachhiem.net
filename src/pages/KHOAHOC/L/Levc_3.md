@@ -3,15 +3,15 @@ layout: ../../../layouts/Article.astro
 title: "Giải Thích Hiện Tượng Những Hạt Neutrino"
 author: "Lê văn Cường"
 date: 2012-03-19
-source: "https://sachhiem.net/KHOAHOC/L/Levc_3.php"
+source: "/KHOAHOC/L/Levc_3"
 category: "Khoa học"
 lang: vi
 wordCount: 3836
-image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nha.jpg"
+image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/KHOAHOC/IMG/LEVC/LevCuong.jpg"
 ---
 
 <table border="0" cellpadding="1" align="center" width="250">
-        <tbody><tr><td width="100"><a href="/index"><img border="0" src="https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nha.jpg"></a></td>
+        <tbody><tr><td width="100"></td>
 		<td valign="top" width="198">19-Mar-2012</td>
 	</tr>
 </tbody></table>

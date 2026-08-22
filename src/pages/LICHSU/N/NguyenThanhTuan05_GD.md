@@ -3,7 +3,7 @@ layout: ../../../layouts/Article.astro
 title: "Vấn Đề Ngoại Ngữ - Đề Nghị Quốc Hội Và Chính Phủ Kiểm Tra Lại Chủ Trương Này"
 author: "TT. Nguyễn Thanh Tuấn"
 date: 2025-06-27
-source: "https://sachhiem.net/LICHSU/N/NguyenThanhTuan05_GD.php"
+source: "/LICHSU/N/NguyenThanhTuan05_GD"
 category: "Xã hội"
 lang: vi
 wordCount: 10906

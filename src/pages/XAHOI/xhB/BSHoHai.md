@@ -7,11 +7,10 @@ source: "https://bshohai.blogspot.com/2010/11/600-ty-o-la-va-nhung-gi.html"
 category: "Xã hội"
 lang: vi
 wordCount: 3871
-image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nha.jpg"
+image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/IMG/ECON/USD_YUAN.jpg"
 ---
 
-<p align="center"><a href="https://www.sachhiem.net/">
-<img border="0" src="https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nha.jpg"></a>09 tháng 11, 2010	</p>
+<p align="center">09 tháng 11, 2010	</p>
 	<p><i>LTS: Chỉ mới nghe chính phủ liên bang tung (in) thêm 600 tỉ bạc từ tháng 11 năm nay để phục hồi kinh tế Hiệp Chủng Quốc Hoa Kỳ, 
 	<a href="https://optionstrading.coremach.com/feds-600-billion-economic-stimulus-plan-drives-stocks-up/">thị trường chứng khóang đã gia tăng,</a> và nhiều họat động kinh tế đã có chiều chuyển động. Nhưng điều này dường như có ý nghĩa rất quan trọng đối với các quốc gia trên thế giới nhiều hơn.  Xin mời bạn đọc nghe một số ý kiến người Việt về canh bạc sửng sốt này của Hoa-kỳ. 
 	</i> </p><hr>

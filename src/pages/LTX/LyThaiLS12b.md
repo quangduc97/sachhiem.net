@@ -3,7 +3,7 @@ layout: ../../layouts/Article.astro
 title: "Động cơ nào khiến Trương Vĩnh Ký phản quốc?"
 author: "Lý Thái Xuân tổng hợp"
 date: 2022-04-25
-source: "https://sachhiem.net/LTX/LyThaiLS12b.php"
+source: "/LTX/LyThaiLS12b"
 category: "Lịch sử"
 lang: vi
 wordCount: 5178
@@ -12,7 +12,7 @@ wordCount: 5178
 <div class="tomluoc">
    <p><i>LTS:  Bài viết  dưới đây trích một phần để lên tiếng đối với hiện trạng gần đây, khi nhân vật Trương Vĩnh Ký lại được đem ra rửa mặt, nhập nhằng văn hóa lịch sử với các anh hùng giữ nước chống ngoại xâm của nước nhà. Cám ơn các tác giả Bùi Kha và Hồng Điểu trong các tài liệu tham khảo dưới đây đã cung cấp các thông tin cần thiết.</i> (SH)</p>
  </div>
- <p>[Loạt bài tóm lược về TVK của LTX: <a href="https://sachhiem.net/LTX/LyThaiLS12.php"> 1 </a>. <a href="https://sachhiem.net/LTX/LyThaiLS12a.php"> 2 </a>. <a href="https://sachhiem.net/LTX/LyThaiLS12aa.php"> 3 </a>. <a href="https://sachhiem.net/LTX/LyThaiLS12b.php"> 4 </a>]</p>
+ <p>[Loạt bài tóm lược về TVK của LTX: <a href="/LTX/LyThaiLS12"> 1 </a>. <a href="/LTX/LyThaiLS12a"> 2 </a>. <a href="/LTX/LyThaiLS12aa"> 3 </a>. <a href="/LTX/LyThaiLS12b"> 4 </a>]</p>
  <p><span class="First">N</span>gười ta cảm thấy tiếc khi thấy một người có tài, thông minh, biết  nhiều thứ tiếng như Trương Vĩnh Ký  lại trở thành một tên đại Việt gian như thế. </p>
 <p>Tuy nhiên, khi nhận xét đạo đức của một người, người ta thường xem xét hoàn cảnh gia đình và nền giáo dục của người ấy hấp thụ. Họ Trương được sinh  ra và nuôi dưỡng trong một gia đình theo đạo Chúa. Ai theo tôn giáo này đều phải gần như  dành cả thời gian của con người để thờ phụng Thiên Chúa của họ. Vì thế, mặc dầu có học Tứ Thư Ngũ  Kinh nhưng Trương Vĩnh Ký chẳng tiếp thu  được tinh thần trung quân ái quốc. </p>
 
@@ -73,8 +73,8 @@ wordCount: 5178
 <p>Nhà giáo nhân dân, Anh hùng lao động Trần Văn Giàu đã nói rất đúng: <i>“Khi mà xâm lược và kháng chiến đang chọi nhau dữ dội, trên chiến trường Thắng (lợi) Thất (bại) chưa ngã ngũ hẳn, <b>khi ấy mà ai đứng hẳn về phe địch</b> thì nhà chép sử nào, dù có rộng xét mấy cũng không thể lấy bất kỳ số sách vở sáng tác hay phiên dịch nào để biện bạch và giảm nhẹ trách nhiệm tinh thần của một người dân nước, nhất là của một “Kẻ Sĩ” </i>(Địa Chí Văn hóa Tp HCM,1985, Sđd, Tập II, trang 232).</p>
 
 <p><b>Tài liệu nguồn</b></p>
-<p>1- Những Ngộ Nhận Về Ông Trương Vĩnh Ký (Hồng Điểu) <a href="https://sachhiem.net/LICHSU/H/HongDieu.php">https://sachhiem.net</a></p>
-<p>2- Trương Vĩnh Ký Phản Bội Tổ Quốc, Sao Gọi Là Nỗi Oan Thế Kỷ?  (Bùi Kha)<a href="https://sachhiem.net/BUIKHA/BuiKha32.php"> https://sachhiem.net</a></p>
+<p>1- Những Ngộ Nhận Về Ông Trương Vĩnh Ký (Hồng Điểu) <a href="/LICHSU/H/HongDieu">https://sachhiem.net</a></p>
+<p>2- Trương Vĩnh Ký Phản Bội Tổ Quốc, Sao Gọi Là Nỗi Oan Thế Kỷ?  (Bùi Kha)<a href="/BUIKHA/BuiKha32"> https://sachhiem.net</a></p>
 <p>3- Trương Vĩnh Ký: Nhà Văn Hóa Lỗi Lạc (GS Nguyễn Vĩnh Thượng, Hội Ái Hữu Pétrus Trương Vĩnh Ký) <a href="https://petruskyaus.net/hien-tuong-tvk-truong-vinh-ky-nha-van-hoa-loi-lac/"> https://petruskyaus.net/</a> </p>
 <p class="TuaChuong">_______________</p>
 <p class="TuaChuong"><b>PHỤ BẢN:</b></p>

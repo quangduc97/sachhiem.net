@@ -3,7 +3,7 @@ layout: ../../layouts/Article.astro
 title: "Việt Nam - Hồ Sơ Tội Ác Chiến Tranh"
 author: "Los Angeles Thời Báo"
 date: 2017-09-13
-source: "https://sachhiem.net/LTX/LyThaiLS4.php"
+source: "/LTX/LyThaiLS4"
 category: "Lịch sử"
 lang: vi
 wordCount: 554

@@ -3,7 +3,7 @@ layout: ../../../layouts/Article.astro
 title: "Nhật Ký Biển Đông: Ô. Trump Nổi Đóa Với Pakistan"
 author: "Đào Văn Bình"
 date: 2018-01-15
-source: "https://sachhiem.net/DAOVB/CT/DaovBinh102.php"
+source: "/DAOVB/CT/DaovBinh102"
 category: "Chính trị"
 lang: vi
 wordCount: 5742

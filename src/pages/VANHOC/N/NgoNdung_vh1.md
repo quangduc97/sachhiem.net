@@ -3,22 +3,22 @@ layout: ../../../layouts/Article.astro
 title: "Ðọc Bình Ngô Ðại Cáo"
 author: "Ngô Nhân Dụng"
 date: 2012-09-02
-source: "https://sachhiem.net/VANHOC/N/NgoNdung_vh1.php"
+source: "/VANHOC/N/NgoNdung_vh1"
 category: "Chính trị"
 lang: vi
 wordCount: 1789
-image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nha.jpg"
+image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/LICHSU/IMG/INDEPENDANT/BinhNgodaiCao.jpg"
 ---
 
 <table border="0" cellpadding="0" width="250" align="center">
             <tbody><tr>
-              <td width="125"><a href="/index"><img border="0" src="https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nha.jpg"></a></td>
+              <td width="125"></td>
               <td valign="middle">02-Sep-2012</td>
             </tr>
           </tbody></table>
           
           <p><i>LTS:  Nhân kỷ niệm 2 tháng 9, 1945,
-              <a href="https://sachhiem.net/PNNHAN/Tuyenngon.php">ngày Cụ Hồ đọc
+              <a href="/PNNHAN/Tuyenngon">ngày Cụ Hồ đọc
               bản Tuyên Ngôn Độc Lập của lịch sử Việt Nam cận đại trên quảng
               trường Ba Đình</a> trong một quang cảnh vừa náo nhiệt,
               vừa xúc động, nhớ về một bản Tuyên Ngôn Độc

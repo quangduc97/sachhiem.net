@@ -2,11 +2,11 @@
 layout: ../../../layouts/Article.astro
 title: "Tôi đọc \"Sáng Thế Ký\""
 author: "Gã Học Trò"
-source: "https://sachhiem.net/null"
+source: "/null"
 category: "Tác giả"
 lang: vi
 wordCount: 8939
-image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nha.jpg"
+image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/IMG/Thanhkinhcuuuoc.JPG"
 ---
 
 <div align="center" style="position: relative; left: 0; top: 0">
@@ -23,13 +23,12 @@ image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nha.jpg"
 	<tr> <td width="100%" style="text-align: justify" valign="top"> 
 		<div style="padding-left: 50px; padding-right: 50px;">
 		<table border="0" cellpadding="0" width="600" cols="2"><tbody><tr>
-				<td width="389"><a href="/index">
-				<img border="0" src="https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nha.jpg"></a></td>
+				<td width="389"></td>
 	<td valign="top">26 tháng 3, 2010	</td></tr></tbody></table>
 			<p><i>LTS: Đề tài về những lời trong Sáng Thế Ký đã được đề cập ít nhiều trong các bài nghiên cứu Thánh Kinh được đăng trong sachhiem.net như: 		</i></p>
-		<p><i>-<a href="https://www.sachhiem.net/TCN/TCNtg/TCN85.php">THƯ GỬI NGƯỜI TIN CHÚA</a> của Dan Barker</i></p>
-		<p><i>- <a href="https://sachhiem.net/THLOI/VH/ThienLoi.php">NHÂN CHUYỆN KHÁM PHÁ CÓ JEHOVAH TRONG CA DAO VIỆT</a> của Thiên Lôi</i></p>
-		<p><i>- <a href="https://www.sachhiem.net/TCN/TCNtg/TCN84.php">Kể Chuyện Thánh Kinh: CHA TRUYỀN CON NỐI</a> của GS Trần Chung Ngọc</i></p>
+		<p><i>-<a href="/TCN/TCNtg/TCN85">THƯ GỬI NGƯỜI TIN CHÚA</a> của Dan Barker</i></p>
+		<p><i>- <a href="/THLOI/VH/ThienLoi">NHÂN CHUYỆN KHÁM PHÁ CÓ JEHOVAH TRONG CA DAO VIỆT</a> của Thiên Lôi</i></p>
+		<p><i>- <a href="/TCN/TCNtg/TCN84">Kể Chuyện Thánh Kinh: CHA TRUYỀN CON NỐI</a> của GS Trần Chung Ngọc</i></p>
 		<p><i>Hôm nay tòa soạn nhận được lá thư của  "Gã Học Trò" viết sau khi đọc quyển 
 		"Sáng Thế Ký". Vì Gã Học Trò viết theo thứ tự của quyển Sáng Thế Ký nên có nhiều ý tưởng được lập lại nhiều lần. Thí dụ bản tính "ác độc", "tham lam", "háu ăn", "mâu thuẩn trong thuộc tính tòan năng",..v.v.... của Chúa Trời được tìm thấy trong nhiều đoạn, được lập lại theo từng chỗ như thế. Tòa soạn xin được gửi đến bạn đọc những cảm tưởng của Gã Học Trò. (SH)</i></p>
 		<hr>

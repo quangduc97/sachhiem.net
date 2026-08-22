@@ -3,7 +3,7 @@ layout: ../../layouts/Article.astro
 title: "Nhân Cái Chết Của Ông John McCain"
 author: "Nguyễn Văn Thịnh"
 date: 2018-09-21
-source: "https://sachhiem.net/NGVTHINH/NguyenvThinh_24.php"
+source: "/NGVTHINH/NguyenvThinh_24"
 category: "Lịch sử"
 lang: vi
 wordCount: 5725

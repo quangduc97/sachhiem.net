@@ -2,14 +2,12 @@
 layout: ../../../layouts/Article.astro
 title: "Một Vài Điều Cần Làm Sáng Tỏ"
 author: "Nguyễn Mạnh Quang"
-source: "https://sachhiem.net/NMQ/TUYENGON/TuyenNgon02.php"
+source: "/NMQ/TUYENGON/TuyenNgon02"
 lang: vi
 wordCount: 18997
-image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nha.jpg"
 ---
 
-<p align="center"><a href="https://www.sachhiem.net/">
-	<img border="0" src="https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nha.jpg"></a> 15 tháng 6, 2010
+<p align="center"> 15 tháng 6, 2010
 </p>
 <p><b><a href="/NMQ/TUYENGON/TuyenNgon01">1</a> &nbsp;<a href="/NMQ/TUYENGON/TuyenNgon02">2</a> &nbsp;<a href="/NMQ/TUYENGON/TuyenNgon03">3</a></b></p>
 	<p class="TuaChuong"><a name="IV" href="/NMQ/#note4">IV.- </a>Những Thành Phần Người Việt Viết Sử </p>

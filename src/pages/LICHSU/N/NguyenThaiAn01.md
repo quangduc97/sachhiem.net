@@ -3,7 +3,7 @@ layout: ../../../layouts/Article.astro
 title: "Từ Thất Sơn Huyền Bí Qua Sihanoukville"
 author: "Nguyễn Thái An (*)"
 date: 2013-10-18
-source: "https://sachhiem.net/LICHSU/N/NguyenThaiAn01.php"
+source: "/LICHSU/N/NguyenThaiAn01"
 category: "Lịch sử"
 lang: vi
 wordCount: 803
@@ -29,8 +29,8 @@ image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/CANHDEP/Mieu_
 		<p>Thân Mến, </p>
 		<p>An</p>
 		<p>_________________ </p>
-    <p>(*) Xin xem lời giới thiệu tác giả của sachhiem.net trong bài <a href="https://sachhiem.net/LICHSU/N/NguyenThaiAn.php">"Hành Trình Đi Tìm Ông Trương Vĩnh Ký" </a></p>
+    <p>(*) Xin xem lời giới thiệu tác giả của sachhiem.net trong bài <a href="/LICHSU/N/NguyenThaiAn">"Hành Trình Đi Tìm Ông Trương Vĩnh Ký" </a></p>
 
 ___________________
-<p>Các bài của GS sử học Nguyễn Thái An: link <a href="https://sachhiem.net/LICHSU/N/ListNTA.inc.php" target="_blank">https://sachhiem.net/LICHSU/N/ListNTA.inc.php</a></p>
+<p>Các bài của GS sử học Nguyễn Thái An: link <a href="/LICHSU/N/ListNTA.inc" target="_blank">https://sachhiem.net/LICHSU/N/ListNTA.inc.php</a></p>
   <hr>

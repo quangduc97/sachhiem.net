@@ -2,7 +2,7 @@
 layout: ../../layouts/Article.astro
 title: "Những Chủ Đề Mới"
 author: "Lý Thái"
-source: "https://sachhiem.net/LTX/LyThaiXH14.php"
+source: "/LTX/LyThaiXH14"
 category: "Xã hội"
 lang: vi
 wordCount: 844
@@ -66,8 +66,8 @@ Thiệp chúc cho những cộng sự viên trong sở: </p>
 <font color="#8A732D"><i>To Those Who Have Made Our Progress Possible"</i></font></p>
 					
 <p class="TuaDenLeft">Bài cùng chủ đề:</p>
-					<p>- <a href="https://sachhiem.net/BUIKHA/BuiKha8.php">Noel - Mừng Giáng Sinh (Bùi Kha)</a></p>
-					<p>- <a href="https://sachhiem.net/LTX/LyThaiXH14.php">Những Chủ Đề Mới Trong Thiệp Chúc Mùa Đông (Lý Thái)</a></p>
-					<p>- <a href="https://sachhiem.net/XAHOI/T/TranXuanNinh.php">Quanh ngày lễ Giáng sinh (Christmas) ở Mỹ ngày nay (Trần Xuân Ninh)</a></p>
+					<p>- <a href="/BUIKHA/BuiKha8">Noel - Mừng Giáng Sinh (Bùi Kha)</a></p>
+					<p>- <a href="/LTX/LyThaiXH14">Những Chủ Đề Mới Trong Thiệp Chúc Mùa Đông (Lý Thái)</a></p>
+					<p>- <a href="/XAHOI/T/TranXuanNinh">Quanh ngày lễ Giáng sinh (Christmas) ở Mỹ ngày nay (Trần Xuân Ninh)</a></p>
 					
 <hr>

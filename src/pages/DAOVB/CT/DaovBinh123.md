@@ -3,7 +3,7 @@ layout: ../../../layouts/Article.astro
 title: "Nhật Ký Biển Đông: Không Ai Chống Nổi Luật Vô Thường"
 author: "Đào Văn Bình"
 date: 2018-11-30
-source: "https://sachhiem.net/DAOVB/CT/DaovBinh123.php"
+source: "/DAOVB/CT/DaovBinh123"
 category: "Chính trị"
 lang: vi
 wordCount: 6966

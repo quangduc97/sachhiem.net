@@ -6,11 +6,10 @@ source: "https://www.rorate.com/nws.php?id=55761"
 category: "Tác giả"
 lang: vi
 wordCount: 565
-image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nha.jpg"
+image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/IMG/TanPhap9.jpg"
 ---
 
-<p align="center"><a href="https://www.sachhiem.net/">
-<img border="0" src="https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nha.jpg"></a> ngày 19 tháng 7, 2009 </p>	 
+<p align="center"> ngày 19 tháng 7, 2009 </p>	 
 	 
 	<p><font face="Marlett">py</font> <span class="First">Ð</span>ài phát thanh Radio Vatican trong bản tin hôm thứ năm 
 	đã cho biết là vào ngày 15 tháng 7 năm 2009, Ủy ban Ðiều tra về hội thánh 

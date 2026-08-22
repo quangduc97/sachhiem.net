@@ -2,18 +2,18 @@
 layout: ../../../layouts/Article.astro
 title: "THÔNG TIN"
 author: "VĂN PHÒNG IOC VIỆT NAM"
-source: "https://sachhiem.net/TONGIAO/VESAK08/Vesak_IOC.php"
+source: "/TONGIAO/VESAK08/Vesak_IOC"
 category: "Tác giả"
 lang: vi
 wordCount: 5357
-image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nha.jpg"
+image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/IMG/Candlelight.jpg"
 ---
 
 <p class="Tuaduoi">VỀ ĐẠI LỄ PHẬT ĐẢN LIÊN HIỆP QUỐC 2008 TẠI VIỆT NAM
 </p>
 		
  
-<p align="center"><a href="https://www.sachhiem.net/"> <img border="0" src="https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nha.jpg"></a> 27 tháng 4, 2008 </p>
+<p align="center"> 27 tháng 4, 2008 </p>
 		
  		 <p class="TuaDoLeft"><b>01. &nbsp;Sự hình thành và phát triển của 
 		đại lễ Phật đản Liên Hiệp Quốc.</b></p>

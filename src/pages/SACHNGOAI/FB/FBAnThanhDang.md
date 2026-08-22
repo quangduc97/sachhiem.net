@@ -3,7 +3,7 @@ layout: ../../../layouts/Article.astro
 title: "Tượng Đức Mẹ Đồng Trinh đang chuyển dạ bị chặt đầu tại nhà thờ bên Áo"
 author: "FB An Thanh Đặng sưu tầm"
 date: 2024-09-06
-source: "https://sachhiem.net/SACHNGOAI/FB/FBAnThanhDang.php"
+source: "/SACHNGOAI/FB/FBAnThanhDang"
 category: "Chính trị"
 lang: vi
 wordCount: 369

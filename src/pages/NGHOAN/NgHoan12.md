@@ -3,7 +3,7 @@ layout: ../../layouts/Article.astro
 title: "Nhạc Trịnh Với Vấn Đề Cái Chết"
 author: "Nguyễn Hoàn"
 date: 2021-07-30
-source: "https://sachhiem.net/NGHOAN/NgHoan12.php"
+source: "/NGHOAN/NgHoan12"
 category: "Văn hóa"
 lang: vi
 wordCount: 1164

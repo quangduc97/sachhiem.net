@@ -3,7 +3,7 @@ layout: ../../../layouts/Article.astro
 title: "Vài nhận xét về vấn đề dịch lại Tâm Kinh của thầy Nhất Hạnh"
 author: "Lê Tự Hỷ"
 date: 2017-11-26
-source: "https://sachhiem.net/TONGIAO/tgL/LeTuHy.php"
+source: "/TONGIAO/tgL/LeTuHy"
 category: "Chính trị"
 lang: vi
 wordCount: 5575

@@ -3,7 +3,7 @@ layout: ../../../layouts/Article.astro
 title: "Cuộc Giải Phẩu Thẩm Mỹ Quá Tệ!"
 author: "Dê Hô Va lượm lặt"
 date: 2013-11-02
-source: "https://sachhiem.net/LICHSU/D/Dehova.php"
+source: "/LICHSU/D/Dehova"
 category: "Lịch sử"
 lang: vi
 wordCount: 153

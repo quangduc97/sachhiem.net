@@ -3,7 +3,7 @@ layout: ../../../layouts/Article.astro
 title: "Thư của một học trò nhỏ gửi đến các thầy cô Sachhiem.net"
 author: "Lê Xuân Thành"
 date: 2016-11-18
-source: "https://sachhiem.net/XAHOI/xhL/LeXThanh2016.php"
+source: "/XAHOI/xhL/LeXThanh2016"
 category: "Xã hội"
 lang: vi
 wordCount: 2681

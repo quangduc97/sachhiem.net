@@ -3,7 +3,7 @@ layout: ../../layouts/Article.astro
 title: "LUẬN VỀ CỜ"
 author: "BS Nguyễn Văn Thịnh"
 date: 2016-06-02
-source: "https://sachhiem.net/NGVTHINH/NguyenvThinh_LS03.php"
+source: "/NGVTHINH/NguyenvThinh_LS03"
 category: "Chính trị"
 lang: vi
 wordCount: 5618
@@ -127,6 +127,6 @@ Thời kỳ đầu của Thế chiến II, chính quốc Pháp mau  chóng đầ
   <p class="nguonL">Nguồn: Bản MS-Word do tác giả gửi </p>
    
   <p>____________________</p>
-  <p>Các bài của Nguyễn Văn Thịnh: link <a href="https://sachhiem.net/NGVTHINH/ListNVTh.inc.php" target="_blank">https://sachhiem.net/NGVTHINH/ListNVTh.inc.php</a></p>  
+  <p>Các bài của Nguyễn Văn Thịnh: link <a href="/NGVTHINH/ListNVTh.inc" target="_blank">https://sachhiem.net/NGVTHINH/ListNVTh.inc.php</a></p>  
   <div align="center"><div class="fb-share-button" data-layout="button" data-size="large" data-actiob="like" data-show-faces="true" data-share="true" data-mobile-iframe="true"></div>
 </div>

@@ -3,7 +3,7 @@ layout: ../../../layouts/Article.astro
 title: "Hình Ảnh Chưa Từng Thấy Về Chiến Tranh - Từ Phía Thắng Cuộc"
 author: "của Alex Q. Arbuckle"
 date: 2016-02-06
-source: "https://sachhiem.net/SACHNGOAI/snS/Suutam3.php"
+source: "/SACHNGOAI/snS/Suutam3"
 category: "Lịch sử"
 lang: vi
 wordCount: 2608
@@ -157,7 +157,7 @@ image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/LICHSU/IMG/VNwar/Phi
   <b>Sent:</b> Sunday, February 7, 2016 5:43 PM<br>
   <b>Subject:</b> Thư độc giả,</p>
 <p>Kính thưa Ban Biên Tập  sách Hiếm,</p>
-<p>Nhân đọc bài <a href="https://sachhiem.net/SACHNGOAI/snS/Suutam3.php">Hình Ảnh Chưa Từng Thấy  Về Chiến Tranh - Từ Phía Thắng Cuộc</a>    của Alex Q.  Arbuckle, tôi xin gửi đến ban Biên tập hai tấm hình của Bên Thua cuộc,  tiểu biểu cho bản chất của hai chế độ Đệ Nhất và Đệ Nhị Cộng hoà  tại miền Nam.</p>
+<p>Nhân đọc bài <a href="/SACHNGOAI/snS/Suutam3">Hình Ảnh Chưa Từng Thấy  Về Chiến Tranh - Từ Phía Thắng Cuộc</a>    của Alex Q.  Arbuckle, tôi xin gửi đến ban Biên tập hai tấm hình của Bên Thua cuộc,  tiểu biểu cho bản chất của hai chế độ Đệ Nhất và Đệ Nhị Cộng hoà  tại miền Nam.</p>
 <p><b>Hình I </b>(chụp khoảng 1957): Đệ Nhất Cộng hòa được  Mỹ ủy nhiệm chống Cộng để mở mang nước Chúa, nên khi Mỹ đến miền  Nam, không những đem công ty hàng không Pan American Airways, mà  còn đem nhà thờ Chúa đến nữa. Hai bảng quảng cáo được xây gần  trước mặt sân bay Tân Sơn Nhất, trên đường về trung tâm Sài Gòn. Một bảng đề  "<i>Welcome To Sunny Saigon</i>" (Chào mừng quý bạn đến với Sài  Gòn nắng ấm), và sát cạnh đó, một bảng đề "<i>Welcome to Saigon  - Church of Christ</i>"  (Chào mừng quý vị đến với Sài Gòn, Giáo  hội của Giêsu). Lẽ dĩ nhiên là rất hợp với ý đồ của <i>"vị phán quan thời  Trung cổ"</i> Ngô Đình Diệm.</p>
 <p align="center"><img src="https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/LICHSU/IMG/VNwar/BENTHUACUOC/TansonNhut.jpg" width="400" height="263" alt="sân bay Tân Sơn Nhất"></p>
 <p align="center">Ảnh của <a href="https://giaoduc.net.vn/Ban-doc/Hinh-anh-ve-Sai-Gon--hon-ngoc-Vien-Dong-nhung-nam-1967--1968-P4-post71079.gd">Giaoduc.net.vn</a></p>
@@ -167,4 +167,4 @@ image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/LICHSU/IMG/VNwar/Phi
 <p class="TacgiaL"> Kevin Trần</p>
 <p>California</p>
 <p>___________________________</p>
-<p><a href="https://sachhiem.net/index.php?content=showemail&amp;id=1292">(Có đăng ở mục Thư, Ý Kiến Ngắn)</a></p>
+<p><a href="/net/SACHNGOAI/snS/Suutam3">(Có đăng ở mục Thư, Ý Kiến Ngắn)</a></p>

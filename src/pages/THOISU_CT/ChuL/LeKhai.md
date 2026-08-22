@@ -3,7 +3,7 @@ layout: ../../../layouts/Article.astro
 title: "Chúng Ta Có Nên Hoài Ngô Không ?"
 author: "Khải Lê"
 date: 2015-10-28
-source: "https://sachhiem.net/THOISU_CT/ChuL/LeKhai.php"
+source: "/THOISU_CT/ChuL/LeKhai"
 category: "Chính trị"
 lang: vi
 wordCount: 1573
@@ -18,7 +18,7 @@ image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/LICHSU/IMG/NGODD/spe
 <p>Ông được người Mỹ dựng lên để mong rằng ông dẫn con đường có  chính nghĩa để tranh thủ với CS, để họ thay Pháp bành trướng Thương Mại, Ngoại  Giao và tiêu thụ được số thặng dư vũ khí mà các nhà tài phiệt chưa thâu lại vốn.  Họ cần giải ngân từ tiền dân Mỹ đóng thuế: Họ có lý do để móc tiền nhân dân  Mỹ. </p>
 <p>Ý đồ của Mỹ tham dự hội nghị Geneva, nhưng không ký vào bàn Hiệp Định <a name="n1" href="/THOISU_CT/#end1">(*)</a> để  khỏi tham gia vào Ủy Hội Kiểm Soát Đình Chiến và không bị ràng buộc khi thay  Pháp nhảy vào Đông Dương.</p>
 <p>Tiền Mỹ viện trợ mà mọi người tưởng do tài ông Diệm làm cho miền Nam phồn vinh.  Nên ông Diệm lạc quan mà hành xử độc tài đi ngược lại nguyện vọng toàn dân là  xây dựng trong hòa bình để chờ tổng tuyển cử toàn thắng theo hiệp định Geneva  có Ũy Hội KSĐC gồm Canada, Ấn Dộ và Ba lan.</p>
-<p class="indentLR50"><a name="end1" href="/THOISU_CT/#n1"> (*) </a><b>SH nhận xét: </b> Do thực thi một trong các điều khoản của Hiệp Định Geneva, Mỹ-Diệm  chiếm một nửa đất nước miền Nam vì thừa kế  Pháp- Bảo Đại. Đã chấp hành một điều khoản, không có lý do gì bảo rằng không bị ràng buộc bởi điều khoản còn lại. Nhưng   lý của kẻ mạnh bao giờ cũng thắng, Mỹ ỷ là siêu cường nên tráo trở bất kỳ lúc nào muốn. Xin xem lại "<a href="https://sachhiem.net/index.php?content=showrecipe&amp;id=6467">Câu Hỏi Tháng Mười Một</a>" </p>
+<p class="indentLR50"><a name="end1" href="/THOISU_CT/#n1"> (*) </a><b>SH nhận xét: </b> Do thực thi một trong các điều khoản của Hiệp Định Geneva, Mỹ-Diệm  chiếm một nửa đất nước miền Nam vì thừa kế  Pháp- Bảo Đại. Đã chấp hành một điều khoản, không có lý do gì bảo rằng không bị ràng buộc bởi điều khoản còn lại. Nhưng   lý của kẻ mạnh bao giờ cũng thắng, Mỹ ỷ là siêu cường nên tráo trở bất kỳ lúc nào muốn. Xin xem lại "<a href="/NMQ/NMQ59_cauhoi">Câu Hỏi Tháng Mười Một</a>" </p>
 <p> <b>2__ Gây Hận Thù Dân Tộc: </b></p>
 <p> Luật số 10/ 59 là một sai lầm lớn khi loại Cộng Sản ra ngoài vòng Pháp Luật đi  ngược lại chủ trương của người Mỹ là nền Dân Chủ cho mọi đảng phái tham gia như  nước Mỹ vẫn có đảng CS. </p>
 <p>Ông Diệm đã ra sức tiêu  diệt CS mà CS là ai, là những người dân không biết CS là gì, Tư Bản luận của  Karl Marx là gì. Vô tình ông đã đẩy toàn dân của của các tỉnh Nam, Ngãi , Bình,  Phú, Bến Tre, Định Tường ngả theo CS. Chính người viết đã không thể về  vùng quê hương mình giữ được mồ mả ông bà vì dân ở vùng nầy trở thành thù hận  những người theo phía quốc gia như cá nhân tôi. Thay vì cảm hóa người dân thì  ông lại đẩy người dân theo CS.</p>

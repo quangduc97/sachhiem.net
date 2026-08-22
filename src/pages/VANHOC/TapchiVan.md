@@ -2,11 +2,10 @@
 layout: ../../layouts/Article.astro
 title: "Chân dung Nhất Linh"
 author: "Tạp Chí Văn"
-source: "https://sachhiem.net/Bản điện tử do talawas thực hiện."
+source: "/Bản điện tử do talawas thực hiện."
 category: "Văn hóa"
 lang: vi
 wordCount: 42590
-image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nha.jpg"
 ---
 
 <div align="center" style="position: relative; left: 0; top: 0">
@@ -36,7 +35,7 @@ image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nha.jpg"
 <div style="padding-left: 50px; padding-right: 50px"> 
 		
 			<table border="0" cellpadding="10" width="600"><tbody><tr>
-			<td><a href="/index.php/"><img border="0" src="https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nha.jpg"></a></td>			
+			<td></td>			
 	<td valign="top" class="nguon">	10 tháng 6, 2008
 	</td></tr></tbody></table>
 		

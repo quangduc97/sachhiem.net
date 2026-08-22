@@ -3,7 +3,7 @@ layout: ../../../layouts/Article.astro
 title: "Pháp Nạn 1963: Ngọn lửa Thích Thiện Mỹ"
 author: "Quang Mai/ GDPTVN"
 date: 2014-03-18
-source: "https://sachhiem.net/TONGIAO/tgG/GDPT.php"
+source: "/TONGIAO/tgG/GDPT"
 category: "Tác giả"
 lang: vi
 wordCount: 1881

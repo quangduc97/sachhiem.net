@@ -3,7 +3,7 @@ layout: ../../../layouts/Article.astro
 title: "A"
 author: "Tổng Hợp của SH"
 date: 2020-06-18
-source: "https://sachhiem.net/THOISU_CT/SH/SH20_biengioi.php"
+source: "/THOISU_CT/SH/SH20_biengioi"
 category: "Chính trị"
 lang: en
 wordCount: 2323

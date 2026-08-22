@@ -2,15 +2,15 @@
 layout: ../../../layouts/Article.astro
 title: "ĐIỆN BIÊN PHỦ, hay"
 author: "Trần Chung Ngọc"
-source: "https://sachhiem.net/TCN/TCNls/TCNls08.php"
+source: "/TCN/TCNls/TCNls08"
 lang: vi
 wordCount: 6462
-image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nha.jpg"
+image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/LICHSU/IMG/Chinamap.gif"
 ---
 
 <table border="0" align="center" width="250">
  <tbody><tr>
- <td width="100"><a href="https://sachhiem.net/index.php"><img border="0" src="https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nha.jpg"></a></td>
+ <td width="100"></td>
 	<td valign="top" style="text-align:right" width="195"> 15 tháng 5, 2009
 	</td></tr></tbody></table>
 	

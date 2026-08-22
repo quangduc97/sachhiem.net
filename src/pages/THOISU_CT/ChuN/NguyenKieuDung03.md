@@ -3,7 +3,7 @@ layout: ../../../layouts/Article.astro
 title: "Thư Ủng Hộ Bản Kiến Nghị của GS Lê Cung"
 author: "TS Nguyễn Kiều Dung"
 date: 2019-12-15
-source: "https://sachhiem.net/THOISU_CT/ChuN/NguyenKieuDung03.php"
+source: "/THOISU_CT/ChuN/NguyenKieuDung03"
 category: "Chính trị"
 lang: vi
 wordCount: 1619
@@ -11,7 +11,7 @@ image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/TONGIAO/IMG/CHUA/CHU
 ---
 
 <div class="tomluoc">
-           <p><i>LTS: Đây là một lá thư đồng tình ủng hộ <a href="https://sachhiem.net/DOITHOAI/Rhodes.php">Bản Kiến Nghị do GS Lê Cung</a> chấp bút. Lá thư tuy vắn tắt nhưng khá đầy đủ bổ túc cho Bản Kiến Nghị nói trên có thêm cơ sở để biện chính quan điểm của các tác giả. Tiến sỹ Kinh tế Nguyễn Kiều Dung, hiện là Nghiên cứu viên Cộng tác của Viện Nghiên cứu Kinh tế và Chính sách, trường Đại học Kinh tế, Đại học Quốc Gia, Hà Nội. (SH)</i></p>
+           <p><i>LTS: Đây là một lá thư đồng tình ủng hộ <a href="/DOITHOAI/Rhodes">Bản Kiến Nghị do GS Lê Cung</a> chấp bút. Lá thư tuy vắn tắt nhưng khá đầy đủ bổ túc cho Bản Kiến Nghị nói trên có thêm cơ sở để biện chính quan điểm của các tác giả. Tiến sỹ Kinh tế Nguyễn Kiều Dung, hiện là Nghiên cứu viên Cộng tác của Viện Nghiên cứu Kinh tế và Chính sách, trường Đại học Kinh tế, Đại học Quốc Gia, Hà Nội. (SH)</i></p>
            </div>
   <p>Kính  gửi Giáo sư Lê Cung,</p>
   <p>Tôi  xin gửi một vài ý kiến bổ sung nhằm phản đối việc tri ân Alexandre de Rhodes và  các giáo sỹ khác, những người tham gia sáng tác Bộ Chữ Quốc ngữ:</p>
@@ -42,7 +42,7 @@ image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/TONGIAO/IMG/CHUA/CHU
   
    <p>___________</p>
    <p><b>Bài liên quan: </b></p>
-   <p>- V/V Đặt Tên Đường Ở TP Đà Nẵng - Thư Kiến Nghị Của Một Nhóm Trí Thức Trong Nước &nbsp;(Xin đọc <a href="https://www.sachhiem.net/DOITHOAI/Rhodes.php">https://sachhiem.net/DOITHOAI/Rhodes.php</a>)</p>
+   <p>- V/V Đặt Tên Đường Ở TP Đà Nẵng - Thư Kiến Nghị Của Một Nhóm Trí Thức Trong Nước &nbsp;(Xin đọc <a href="/DOITHOAI/Rhodes">https://sachhiem.net/DOITHOAI/Rhodes.php</a>)</p>
    <p>-<a href="https://tuoitre.vn/nhom-nguoi-gui-kien-nghi-khong-dat-ten-duong-hai-giao-si-chung-toi-bi-khung-bo-20191130101436605.htm"> Nhóm người gửi kiến nghị không đặt tên đường hai giáo sĩ: "Chúng tôi bị khủng bố" </a></p>
-   <p><a href="https://sachhiem.net/LICHSU/ListQUOCNGU.inc.php">- Những bài viết liên quan đến "Chữ Quốc Ngữ"</a></p>
-   <p>- Các bài trong trang nhà liên quan đến nhân vật Alexandre De Rhodes: <a href="https://sachhiem.net/TONGIAO/ListRhodes.inc.php">https://sachhiem.net/TONGIAO/ListRhodes.inc.php</a></p>
+   <p><a href="/LICHSU/ListQUOCNGU.inc">- Những bài viết liên quan đến "Chữ Quốc Ngữ"</a></p>
+   <p>- Các bài trong trang nhà liên quan đến nhân vật Alexandre De Rhodes: <a href="/TONGIAO/ListRhodes.inc">https://sachhiem.net/TONGIAO/ListRhodes.inc.php</a></p>

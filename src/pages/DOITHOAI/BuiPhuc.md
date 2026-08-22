@@ -3,7 +3,7 @@ layout: ../../layouts/Article.astro
 title: "Trương Vĩnh Ký: Tư Liệu Viết Tay Còn Tranh Cãi"
 author: "Bùi Phúc"
 date: 2017-01-12
-source: "https://sachhiem.net/DOITHOAI/BuiPhuc.php"
+source: "/DOITHOAI/BuiPhuc"
 category: "Chính trị"
 lang: vi
 wordCount: 1305
@@ -30,7 +30,7 @@ image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/LICHSU/IMG/SuVN/Hiep
   <p>    Tác giả có phải là ông Trương Vĩnh Ký không? - Trả lời: Có. </p>
   <p><b>Lý do: </b>Một  thư mật, đầy tâm địa việt gian, mà TVK gởi cho tướng Bossant, Quyền thống đốc,  sau cuộc hành trình ra Bắc vào năm 1876. Và TVK chết năm 1898 (22 năm sau).   Trong thời gian 22 năm, ông TVK không hề lên tiếng đây là <i>“một TVK khác chứ  không phải tôi”</i>. Nếu giả thiết là như vậy, thì<b> ông TVK “số 2” là ai?</b> Chúng ta  cũng chưa hề nghe có ai, kể cả các viên chức của chính phủ Pháp ở Đông Dương,  có ý kiến khác về TVK số 2.</p>
   <p>    Nội dung bản tường trình, nếu đối chiếu với các văn bản  viết tay, thư qua lại giữa TVK và chính phủ Pháp tại Việt Nam thì có thể biết <b>chỉ có một tác  giả độc nhất </b>là TVK chứ không phải một ai khác, không thể chối cãi. Thời Trương Vĩnh Ký, đa số văn thư viết tay  vì máy chữ chưa thông dụng. Do đó dễ nhận ra tác giả của các văn thư phản quốc, hại dân chỉ là một  người. Đó chính là ông Trương Vĩnh Ký.</p>
-  <p><b><i> Tài liệu số 3</i></b>:  Chính Trương Vĩnh Ký (ngày 12.1.1882) chứ không phải người nào khác đã cho biết,  ông soạn và xuất bản <i>“các tác phẩm là nhằm  mục đích giúp Pháp biến đổi và đồng hóa dân tộc An Nam”.</i>(Vui lòng xem chú thích trong bài “<a href="https://sachhiem.net/BUIKHA/BuiKha32.php">TRƯƠNG VĨNH KÝ PHẢN BỘI TỔ QUỐC, SAO GỌI LÀ NỖI OAN THẾ KỶ</a>”, tác giả Bùi Kha.) Nếu đối chiếu nội  dung thư nầy và các thư khác của TVK thì không ai có thể chối Cãi cho ông ta.  Ngay cả hàng<i> tỉ người như ông </i>Lương Hải Khôi&nbsp; cũng có thể bất lực? Thêm vào đó, từ lúc viết  thư nầy cho đến lúc chết là 16 năm (1898 – 1882), TVK không hề có lời đính chính nếu cảm thấy hàm oan thì mong rằng  không nên có ai làm thế công việc cho TVK&nbsp;  điều mà chính ông ta có thể không muốn!</p>
+  <p><b><i> Tài liệu số 3</i></b>:  Chính Trương Vĩnh Ký (ngày 12.1.1882) chứ không phải người nào khác đã cho biết,  ông soạn và xuất bản <i>“các tác phẩm là nhằm  mục đích giúp Pháp biến đổi và đồng hóa dân tộc An Nam”.</i>(Vui lòng xem chú thích trong bài “<a href="/BUIKHA/BuiKha32">TRƯƠNG VĨNH KÝ PHẢN BỘI TỔ QUỐC, SAO GỌI LÀ NỖI OAN THẾ KỶ</a>”, tác giả Bùi Kha.) Nếu đối chiếu nội  dung thư nầy và các thư khác của TVK thì không ai có thể chối Cãi cho ông ta.  Ngay cả hàng<i> tỉ người như ông </i>Lương Hải Khôi&nbsp; cũng có thể bất lực? Thêm vào đó, từ lúc viết  thư nầy cho đến lúc chết là 16 năm (1898 – 1882), TVK không hề có lời đính chính nếu cảm thấy hàm oan thì mong rằng  không nên có ai làm thế công việc cho TVK&nbsp;  điều mà chính ông ta có thể không muốn!</p>
   <p>    Trên một khía cạnh khác, ông Nguyễn Lương Hải  Khôi như có vẻ cho rằng có một ông TVK thứ 2, hao hao giống ông TVK nầy. Sai  hoàn toàn. Lý do. TVK là một người học trường đào tạo thông ngôn cho Pháp tại  chủng viện Ponolo Penang tại Malaysia, và cộng tác cho chính phủ bảo hộ Pháp tại Nam Kỳ. Tương truyền  là một người được đồn đãi biết 27 thứ tiếng. Do đó, không thể lẫn lộn với một  TVK nào khác. </p>
   <p>Mong rằng những ai cũng như ông  Khôi  không nên nhọc công tìm kiếm vô ích, vì vô số chứng liệu khó lòng phủ bác.    Bách  khoa toàn thư mở cũng xác nhận: Ông có tên là Jean-Baptiste Pétrus Trương Chánh  Ký, sau này đổi tên đệm là Pétrus Trương Vĩnh  Ký, viết và gọi tắt là Pétrus Ký. (3) <img src="https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/sqdot.gif" width="10" height="10"></p>
   <p class="TacgiaL">Bùi Phúc</p>
@@ -47,15 +47,15 @@ image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/LICHSU/IMG/SuVN/Hiep
     <p>___________________</p>
     <p><b>Những bài cùng đề tài:</b></p>
     <p>- Hành Trình Đi Tìm Ông Trương Vĩnh Ký (Nguyễn Thái An)<br>
-      <a href="https://sachhiem.net/LICHSU/N/NguyenThaiAn.php">https://sachhiem.net/LICHSU/N/NguyenThaiAn.php</a></p>
-    <p>- Đắc Lộ, Trương Vĩnh Ký &amp; Chữ Quốc Ngữ của Tác Giả Minh Vân (Bùi Kha) <a href="https://sachhiem.net/BUIKHA/BuiKha25a.php">https://sachhiem.net/BUIKHA/BuiKha25a.php</a></p>
+      <a href="/LICHSU/N/NguyenThaiAn">https://sachhiem.net/LICHSU/N/NguyenThaiAn.php</a></p>
+    <p>- Đắc Lộ, Trương Vĩnh Ký &amp; Chữ Quốc Ngữ của Tác Giả Minh Vân (Bùi Kha) <a href="/BUIKHA/BuiKha25a">https://sachhiem.net/BUIKHA/BuiKha25a.php</a></p>
     <p>- Lá Thư (1) Gửi Quí Vị Cựu Giáo Sư Và Học Sinh Trường Kiểu Mẫu Thủ Đức Hiền tài hay Việt gian? (Nguyễn Mạnh Quang)<br>
-      <a href="https://sachhiem.net/NMQ/NMQ011.php">https://sachhiem.net/NMQ/NMQ011.php</a></p>
-    <p>- Ngắn Gọn Về Thầy Thông Ngôn Trương Vĩnh Ký (Nguyễn Thái An) <a href="https://sachhiem.net/LICHSU/N/NguyenThaiAn04.php">https://sachhiem.net/LICHSU/N/NguyenThaiAn04.php</a></p>
-    <p>- Trương Vĩnh Ký, Yêu Nước? Đối Luận với ông Trần Hữu Tá (Bùi Kha) <a href="https://sachhiem.net/BUIKHA/BuiKha19.php">https://sachhiem.net/BUIKHA/BuiKha19.php</a></p>
+      <a href="/NMQ/NMQ011">https://sachhiem.net/NMQ/NMQ011.php</a></p>
+    <p>- Ngắn Gọn Về Thầy Thông Ngôn Trương Vĩnh Ký (Nguyễn Thái An) <a href="/LICHSU/N/NguyenThaiAn04">https://sachhiem.net/LICHSU/N/NguyenThaiAn04.php</a></p>
+    <p>- Trương Vĩnh Ký, Yêu Nước? Đối Luận với ông Trần Hữu Tá (Bùi Kha) <a href="/BUIKHA/BuiKha19">https://sachhiem.net/BUIKHA/BuiKha19.php</a></p>
     <p>- Góp Ý Về Bài Của Ông Đặng Văn Việt Góp Ý Sửa Đổi Hiến Pháp (Nguyễn Mạnh Quang)<br>
-      <a href="https://sachhiem.net/NMQ/NMQ041.php">https://sachhiem.net/NMQ/NMQ041.php</a></p>
+      <a href="/NMQ/NMQ041">https://sachhiem.net/NMQ/NMQ041.php</a></p>
     <p>- Trương Vĩnh Ký phản bội Tổ quốc, sao lại gọi là yêu nước ? (Bùi Kha) <br>
       <a href="/BUIKHA/BuiKha25b_TVK">https://sachhiem.net/BUIKHA/BuiKha25b_TVK.php</a></p>
-    <p>- Đổi Mới Sử Học Không Có Nghĩa Là Tô Đen Thành Trắng (BS. Nguyễn Văn Thịnh) <a href="https://sachhiem.net/VANHOC/N/NguyenvThinh_05.php">https://sachhiem.net/VANHOC/N/NguyenvThinh_05.php</a></p>
-    <p>- Trương Vĩnh Ký: Tư Liệu Viết Tay Còn Tranh Cãi (Bùi Phúc) <a href="https://sachhiem.net/DOITHOAI/BuiPhuc.php">https://sachhiem.net/DOITHOAI/BuiPhuc.php</a></p>
+    <p>- Đổi Mới Sử Học Không Có Nghĩa Là Tô Đen Thành Trắng (BS. Nguyễn Văn Thịnh) <a href="/VANHOC/N/NguyenvThinh_05">https://sachhiem.net/VANHOC/N/NguyenvThinh_05.php</a></p>
+    <p>- Trương Vĩnh Ký: Tư Liệu Viết Tay Còn Tranh Cãi (Bùi Phúc) <a href="/DOITHOAI/BuiPhuc">https://sachhiem.net/DOITHOAI/BuiPhuc.php</a></p>

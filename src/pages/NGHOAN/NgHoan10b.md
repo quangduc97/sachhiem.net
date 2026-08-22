@@ -3,7 +3,7 @@ layout: ../../layouts/Article.astro
 title: "Trường Sa Nơi Đầu Sóng Ngọn Gió"
 author: "Nguyễn Hoàn"
 date: 2015-01-24
-source: "https://sachhiem.net/NGHOAN/NgHoan10_TS.php"
+source: "/NGHOAN/NgHoan10_TS"
 category: "Văn hóa"
 lang: vi
 wordCount: 2112
@@ -18,10 +18,10 @@ image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/NGHOAN/IMG/DenvoiTru
 <p align="center"><img src="https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/NGHOAN/IMG/DenvoiTruongSa.jpg" width="450" height="300"></p>
 <p align="center"><i>Đến với Trường Sa.</i> Ảnh của VĂN DŨNG</p>
 <div class="danbai"><p><b>Xem toàn tập:</b></p>
- <p> <a target="_blank" href="https://sachhiem.net/NGHOAN/NgHoan10_TS.php"> 1 - Đảo Là Nhà, Biển Là Quê Hương</a></p>
- <p> <a target="_blank" href="https://sachhiem.net/NGHOAN/NgHoan10a.php"> 2 - Những Khúc Tưởng Niệm Trên Biển</a> </p>
-  <p> <a target="_blank" href="https://sachhiem.net/NGHOAN/NgHoan10b.php">3 - Lắng Tiếng Chuông Chùa</a> </p>
- <p> <a target="_blank" href="https://sachhiem.net/NGHOAN/NgHoan10c.php"> 4 - Thắm Tình Quân Dân - Những Nụ Mầm Mới </a> </p>
+ <p> <a target="_blank" href="/NGHOAN/NgHoan10_TS"> 1 - Đảo Là Nhà, Biển Là Quê Hương</a></p>
+ <p> <a target="_blank" href="/NGHOAN/NgHoan10a"> 2 - Những Khúc Tưởng Niệm Trên Biển</a> </p>
+  <p> <a target="_blank" href="/NGHOAN/NgHoan10b">3 - Lắng Tiếng Chuông Chùa</a> </p>
+ <p> <a target="_blank" href="/NGHOAN/NgHoan10c"> 4 - Thắm Tình Quân Dân - Những Nụ Mầm Mới </a> </p>
 </div>
 <p>Trên hành trình  đến với các nhà dàn, đoàn đã tổ chức lễ tưởng niệm các liệt sĩ đã hy sinh trên  thềm lục địa phía Nam. Trong hương hoa tưởng niệm ngát thơm mặt biển, lời tri  ân của đoàn đối với các liệt sĩ đã ngã xuống vì sự nghiệp nhà dàn được xướng  lên thiết tha, vang vọng như thấu tận thẳm sâu lòng biển: “<i>Một cái chết để muôn  ngàn lần sống, một cái chết rực khí phách kiên cường, sáng lên lòng quả cảm,  tình thương yêu đồng chí, đồng đội, trong trắng, thủy chung, sáng ngời</i>”. </p>
 <p>Trong  nỗi ngậm ngùi tiếc thương và niềm cảm khái dâng đầy, đoàn đã cùng nhau ôn lại  những tấm gương xả thân vì đồng đội, vì Tổ quốc. Trong bão táp nguy kịch,  Thượng úy Nguyễn Hữu Quảng, Bí thư Chi bộ vẫn nhường miếng lương khô cuối cùng  và chiếc phao cá nhân của mình cho người chiến sĩ yếu nhất, nhường sự sống cho  đồng đội để rồi thanh thản chìm vào lòng biển khơi. Đại úy, Trạm trưởng Vũ  Quang Chương, Chuẩn úy Lê Đức Hồng, Chuẩn úy Nguyễn Văn An đã anh dũng hy sinh.  Khi nhà giàn đổ, Chuẩn úy Lê Đức Hồng chỉ kịp gửi lời chào “vĩnh biệt đất liền”  rồi chìm vào sóng biển. Chuẩn úy Nguyễn Văn An để lại người vợ trẻ và đứa con  đỏ hỏn mới chào đời mà anh chưa kịp biết mặt. Thượng úy Phạm Tảo, Thượng úy  Trần Văn Là, Chuẩn úy Lê Tiến Cường, các chiến sĩ Tạ Ngọc Tú, Hồ Văn Hiền đã  chấp hành mệnh lệnh, dũng cảm hy sinh để tìm kiếm, cứu vớt đồng đội bị nạn. </p>
@@ -82,5 +82,5 @@ hiện hữu &nbsp;&nbsp;&nbsp;&nbsp; </i></p>
 <p>(<i>Xem tiếp Bút Ký 4</i>)</p>
 <p>_______________</p>
  <p><b>Bài đọc thêm:</b></p>
-<p>- <a href="https://sachhiem.net/LICHSU/H/HoangSa_list.php">Những bài về Trường Sa &amp; Hoàng Sa đăng trong sachhiem.net</a> (SH)
+<p>- <a href="/LICHSU/H/HoangSa_list">Những bài về Trường Sa &amp; Hoàng Sa đăng trong sachhiem.net</a> (SH)
 </p>

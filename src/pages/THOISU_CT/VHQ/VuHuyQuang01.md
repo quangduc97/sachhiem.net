@@ -2,15 +2,14 @@
 layout: ../../../layouts/Article.astro
 title: "Vài góp ý về “Nội chiến”"
 author: "Vũ Huy Quang"
-source: "https://sachhiem.net/THOISU_CT/VHQ/VuHuyQuang01.php"
+source: "/THOISU_CT/VHQ/VuHuyQuang01"
 category: "Chính trị"
 lang: vi
 wordCount: 1015
-image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nha.jpg"
+image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/LICHSU/IMG/BOLSEVIK/Lenin.jpg"
 ---
 
-<p align="center"><a href="https://www.sachhiem.net/">
-<img border="0" src="https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nha.jpg"></a>18 tháng 6, 2010	</p>
+<p align="center">18 tháng 6, 2010	</p>
 		<div style="border-top: 1px solid #4B5B13; border-bottom: 1px solid #4B5B13; background-color: #E6E6FF; width:600; padding-left:20px; padding-right:20px">
 		
 	<p>...Làm sao NGK hiểu được? Những người cùng khổ phải nổi dậy. Chỉ những ai thuộc thiểu số cộng tác với chế độ cũ vẫn không hiểu là chính họ cũng khổ, vì họ chỉ có cơm thừa canh cặn mà thôi. Không hiểu chính mình cũng cảnh khổ, thì danh giá gì, mà “khẳng định” lôi thôi? ... (VHQ)</p>
@@ -110,7 +109,7 @@ image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nha.jpg"
 		chinh Pháp, một tu sĩ dòng Camêlô, giữ chức Cao ủy Pháp tại Đông Dương, 
 		nghĩa là làm Toàn quyền. ["Thập Giá Và Lưỡi Gươm" của Linh Mục Trần Tam 
 		Tỉnh, Chương I đoạn 10
-		<a href="https://www.sachhiem.net/TONGIAO/TTTINH/TTT_05.php">
+		<a href="/TONGIAO/TTTINH/TTT_05">
 		https://www.sachhiem.net/TONGIAO/TTTINH/ TTT_05.php</a>].  
 		  </p>
 		<p><a name="_edn1" title="" href="/THOISU_CT/#_ednref1">

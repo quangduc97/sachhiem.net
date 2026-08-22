@@ -3,7 +3,7 @@ layout: ../../../layouts/Article.astro
 title: "Bài \"Hai Nhà Cách Mạng Khả Kính\" của Ô. Phạm Đình Lân"
 author: "Nguyễn Thái An"
 date: 2015-09-09
-source: "https://sachhiem.net/LICHSU/N/NguyenThaiAn06.php"
+source: "/LICHSU/N/NguyenThaiAn06"
 category: "Lịch sử"
 lang: vi
 wordCount: 1827
@@ -126,7 +126,7 @@ Dr. Sophie Quinn-Judge</p>
 <p>___________________ </p>
  <p>Các bài của GS sử học Nguyễn Thái An:</p>
 <p>
-<a href="https://sachhiem.net/LICHSU/N/ListNTA.inc.php" target="_blank">https://sachhiem.net/LICHSU/N/ListNTA.inc.php</a></p>
+<a href="/LICHSU/N/ListNTA.inc" target="_blank">https://sachhiem.net/LICHSU/N/ListNTA.inc.php</a></p>
 
  
 <hr>

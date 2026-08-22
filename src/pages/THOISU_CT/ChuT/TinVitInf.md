@@ -2,7 +2,7 @@
 layout: ../../../layouts/Article.astro
 title: "Cải Cách Y Tế"
 author: "Tin Vit Inf"
-source: "https://sachhiem.net/null"
+source: "/null"
 category: "Chính trị"
 lang: vi
 wordCount: 1139

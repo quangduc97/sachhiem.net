@@ -2,18 +2,17 @@
 layout: ../../../layouts/Article.astro
 title: "Diện Mạo Kiến Trúc Phật Giáo Cho TPHCM"
 author: "Minh Thạnh"
-source: "https://sachhiem.net/TONGIAO/tgM/MinhThanh10b.php"
+source: "/TONGIAO/tgM/MinhThanh10b"
 category: "Tác giả"
 lang: vi
 wordCount: 2402
-image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nha.jpg"
+image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/TONGIAO/IMG/CHURCH/Ducba.jpg"
 ---
 
 <p class="Tuaduoi">Trong Bối Cảnh Đất Nước Độc Lập Thống Nhất? </p>
  
 	 
-<p align="center"><a href="https://www.sachhiem.net/">
-	<img border="0" src="https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nha.jpg"></a>
+<p align="center">
 28-July-2013 </p>
  <div class="tomluoc">
 <p> <i>... đến thập niên  2000, với việc trả lại một số cơ sở của đạo Ca tô La Mã được trưng dụng trước  đây, diện mạo đạo Ca tô La Mã ở trung tâm TPHCM có chiều hướng khôi phục. Vì vậy, vấn đề điều chỉnh  diện mạo kiến trúc tôn giáo cho khu vực trung tâm TPHCM trở nên bức thiết.  Trong đó, phương án xây dựng một ngôi chùa lớn ở khu trung tâm mở rộng của  TPHCM là khu đô thị mới Thủ Thiêm có thể nhìn thấy từ trung tâm TPHCM hiện tại  (đại lộ Nguyễn Huệ, Hàm Nghi, Bến Bạch Đằng, quảng trường Mê Linh) là phương án  khả thi hơn cả.</i> (MT)</p>
@@ -88,7 +87,7 @@ Trong hướng điều chỉnh  như vậy, việc điều chỉnh chức năng 
 Vì vậy, vấn đề điều chỉnh  diện mạo kiến trúc tôn giáo cho khu vực trung tâm TPHCM trở nên bức thiết.  Trong đó, phương án xây dựng một ngôi chùa lớn ở khu trung tâm mở rộng của  TPHCM là khu đô thị mới Thủ Thiêm có thể nhìn thấy từ trung tâm TPHCM hiện tại  (đại lộ Nguyễn Huệ, Hàm Nghi, Bến Bạch Đằng, quảng trường Mê Linh) là phương án  khả thi hơn cả.</p>
 <p>
 Chúng tôi, từ cương vị  một công dân TPHCM, tiếp tục hướng về những vị tu sĩ yêu nước, yêu thành phố  quê hương trong Ban Trị sự Phật giáo TPHCM.</p>
-<p class="TacgiaL">MT </p><p><a href="https://sachhiem.net/TONGIAO/tgM/MinhThanh10a.php">&lt;=</a> Loạt bài cùng đề tài</p>____________________
+<p class="TacgiaL">MT </p><p><a href="/TONGIAO/tgM/MinhThanh10a">&lt;=</a> Loạt bài cùng đề tài</p>____________________
 <p>(1) Có lẽ do ủng hộ xây  chùa Vĩnh Nghiêm, nên vị tướng này được thờ trong chùa Vĩnh Nghiêm với một bức ảnh  lớn.</p>
 <p>(2) Có thể xem hình ảnh  tư liệu trên You Tube.  </p>
 <p>(3) Đỗ Đức Hiểu: Thi  pháp hiện đại – <i>Một số vấn đề lý luận và ứng  dụng</i>, nhà xuất bản Giáo dục Việt Nam, Hà Nội, 2012, trang 188.&nbsp;  </p>

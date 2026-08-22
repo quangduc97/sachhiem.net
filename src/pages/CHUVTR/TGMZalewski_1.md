@@ -3,14 +3,14 @@ layout: ../../layouts/Article.astro
 title: "Giáo Hội Gia Tô La Mã Có Thực Tâm Mong Muố́n Hoà Bình? _2"
 author: "Thái Tường Minh"
 date: 2024-09-25
-source: "https://sachhiem.net/CHUVTR/TGMZalewski_1.php"
+source: "/CHUVTR/TGMZalewski_1"
 category: "Chính trị"
 lang: vi
 wordCount: 10672
 image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/TONGIAO/IMG/VIETNAM/MarekZalewsli_DaiDienGH_VN.JPG"
 ---
 
-<p><a href="https://sachhiem.net/CHUVTR/TGMZalewski.php">(tiếp Mục III: CÓ THỰC GIA TÔ GIÁO CẦN SỰ HỢP TÁC CỦA CÁC ĐOÀN THỂ, TÔN GIÁO TRONG TINH THẦN GẶP GỠ, ĐỐI THOẠI? )</a></p>
+<p><a href="/CHUVTR/TGMZalewski">(tiếp Mục III: CÓ THỰC GIA TÔ GIÁO CẦN SỰ HỢP TÁC CỦA CÁC ĐOÀN THỂ, TÔN GIÁO TRONG TINH THẦN GẶP GỠ, ĐỐI THOẠI? )</a></p>
  <p>  Trong 11 cuộc chiến  tranh “tôn giáo”,  chỉ có cuộc chiến tranh đầu tiên là Gia Tô đạt được thắng lợi;  kế tiếp chỉ toàn thất bại; dĩ nhiên cuộc chiến tranh “tôn giáo” cuối cùng do  John Paul II đang chủ động, xé nát các dân tộc cũng thất bại theo con bịnh  của ông.</p>
 <p>  Với nền tảng giáo lý xây dựng trên núi xương,  biển máu nhân loại,  làm cho chủng tộc Da Đỏ tại châu Mỹ La  Tinh bị tận diệt (đến 99%),  và hiện nay người Da Đỏ vẫn bị các chính quyền Gia  Tô châu Mỹ dồn vào thế tận diệt lần hồi trong rừng già nghèo đói và bịnh tật; <u>tất  cả các nước thuộc Châu Mỹ La Tinh ngày nay,  trong đó dân chúng đều là lai Da  Trắng,  mất hẳn tính chất dân tộc bản địa</u>.</p>
 <p>  Thế kỷ thứ 16,  Gia Tô đã truyền  các vi trùng đủ loại bệnh dịch hạch,  lậu,  giang mai,... vào châu Mỹ La Tinh để  tận diệt Da Đỏ. Ngày nay châu Phi Da Đen đang đi đến diệt chủng bởi vi trùng  AIDS,  nên người ta có quyền đặt nghi vấn: -“<i>VI TRÙNG AIDS CÓ THỂ XUẤT  PHÁT TỪ DÒNG TÊN</i>?" Lịch sử sẽ giải đáp câu hỏi này.</p>

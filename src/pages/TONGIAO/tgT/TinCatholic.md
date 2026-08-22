@@ -3,7 +3,7 @@ layout: ../../../layouts/Article.astro
 title: "Một tổ chức bác ái của Hội Đồng Giám Mục Hoa Kỳ bị cáo buộc dự phần vào việc cổ vũ ngừa thai tại Congo"
 author: "Đặng Tự Do / Vietcatholic News"
 date: 2016-10-18
-source: "https://sachhiem.net/TONGIAO/tgT/TinCatholic.php"
+source: "/TONGIAO/tgT/TinCatholic"
 category: "Chính trị"
 lang: vi
 wordCount: 751

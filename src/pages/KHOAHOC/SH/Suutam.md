@@ -2,7 +2,7 @@
 layout: ../../../layouts/Article.astro
 title: "Những loài thú hiếm nhất Thế giới"
 date: 2011-12-03
-source: "https://sachhiem.net/KHOAHOC/SH/Suutam.php"
+source: "/KHOAHOC/SH/Suutam"
 category: "Khoa học"
 lang: vi
 wordCount: 483

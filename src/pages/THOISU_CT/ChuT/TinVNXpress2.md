@@ -2,11 +2,11 @@
 layout: ../../../layouts/Article.astro
 title: "Vụ thảm sát Mỹ Lai diễn ra như thế nào?"
 author: "VN Express - Ảnh SH"
-source: "https://sachhiem.net/nguồn https://vnexpress.net/GL/The-gioi/Tu-lieu/2008/03/3BA0046E/ Chủ nhật, 16/3/2008"
+source: "/nguồn https://vnexpress.net/GL/The-gioi/Tu-lieu/2008/03/3BA0046E/ Chủ nhật, 16/3/2008"
 category: "Chính trị"
 lang: vi
 wordCount: 1504
-image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nha.jpg"
+image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/LICHSU/IMG/MYLAI/MyLai_TruongtLe.jpg"
 ---
 
 <div align="center" style="position: relative; left: 0; top: 0">
@@ -38,8 +38,7 @@ image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nha.jpg"
 	<tbody><tr><td bgcolor="White" align="justify" valign="top">
 		
 			<table border="0" cellpadding="10" width="600" cols="2"><tbody><tr>
-				<td><a href="/index">
-				<img src="https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nha.jpg" border="0"></a></td>
+				<td></td>
 				
 	<td valign="top" width="194">08 tháng 4, 2010
 	</td></tr></tbody></table>

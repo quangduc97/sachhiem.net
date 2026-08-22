@@ -2,15 +2,15 @@
 layout: ../../../layouts/Article.astro
 title: "MINH VÕ"
 author: "Trần Chung Ngọc"
-source: "https://sachhiem.net/TCN/TCNdt/TCNdt058.php"
+source: "/TCN/TCNdt/TCNdt058"
 category: "Đối thoại"
 lang: vi
 wordCount: 9798
-image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.devhttps://sachhiem.net/images/nha.jpg"
+image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/Pict/Bucking.jpg"
 ---
 
 <table border="0" width="250" align="center">
-    <tbody><tr><td width="106"><a href="https://sachhiem.net/index.php"><img border="0" src="https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.devhttps://sachhiem.net/images/nha.jpg"></a>    </td> <td valign="top" style="text-align:right">	<i><font size="2">17 tháng 5, 2008 </font> </i> </td></tr></tbody></table>
+    <tbody><tr><td width="106">    </td> <td valign="top" style="text-align:right">	<i><font size="2">17 tháng 5, 2008 </font> </i> </td></tr></tbody></table>
  
 
 <p> <i>LTS: Không phải vì bài viết của TS Trần Chung Ngọc khá dài, nhưng có lẽ do sự hứng khởi khi đọc bài của ông, 

@@ -3,7 +3,7 @@ layout: ../../../layouts/Article.astro
 title: "NHÀ THỜ ĐỨC BÀ PARIS BỊ CHÁY."
 author: "Anh-Tuan LE"
 date: 2019-04-15
-source: "https://sachhiem.net/TONGIAO/FB/FBAnhTuanLe.php"
+source: "/TONGIAO/FB/FBAnhTuanLe"
 category: "Chính trị"
 lang: vi
 wordCount: 6678

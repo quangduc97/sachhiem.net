@@ -3,7 +3,7 @@ layout: ../../../layouts/Article.astro
 title: "Bức Tâm Thư Gửi Người Dân Việt “Thiệt”"
 author: "Hoàng Hữu Phước"
 date: 2013-01-29
-source: "https://sachhiem.net/DOITHOAI/HHPH/HgHPhuoc.php"
+source: "/DOITHOAI/HHPH/HgHPhuoc"
 category: "Chính trị"
 lang: vi
 wordCount: 6767

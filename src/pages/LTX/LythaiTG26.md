@@ -3,7 +3,7 @@ layout: ../../layouts/Article.astro
 title: "Nhân Lễ Phục Sinh 2020, Nhắc \"Thiên Đàng, Hỏa Ngục\" của GH. John Paul II"
 author: "Lý Thái Xuân"
 date: 2020-04-07
-source: "https://sachhiem.net/LTX/LyThaiTG26.php"
+source: "/LTX/LyThaiTG26"
 category: "Tác giả"
 lang: vi
 wordCount: 7589
@@ -125,7 +125,7 @@ image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/TONGIAO/IMG/VATICAN/
      
      <hr>
      <p class="TuaDoLeft"><b>Đọc thêm:</b></p>
-     <p>1- <a href="https://sachhiem.net/TONGIAO/tgN/NguyenRi_45.php">Ba Giáo Hoàng Dẹp Bỏ Thiên Đàng </a>(Ri Nguyễn sưu tầm)</p>
+     <p>1- <a href="/TONGIAO/tgN/NguyenRi_45">Ba Giáo Hoàng Dẹp Bỏ Thiên Đàng </a>(Ri Nguyễn sưu tầm)</p>
      <p>2- <a href="https://www.theguardian.com/world/2018/mar/30/vatican-scrambles-to-clarify-popes-denial-that-hell-exists">Vatican scrambles after pope appears to deny existence of hell </a></p>
      <p>3- <a href="https://www.ewtn.com/catholicism/library/heaven-hell-and-purgatory-8222">Bài tổng hợp khái niệm về Thiên Đàng, Hỏa Ngục, và Luyện Ngục của Giáo Hoàng John Paul II</a>: </p>
      <h1 class="Tuaduoi">Heaven, Hell and Purgatory</h1>

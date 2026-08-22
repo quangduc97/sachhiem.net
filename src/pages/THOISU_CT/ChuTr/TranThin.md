@@ -3,7 +3,7 @@ layout: ../../../layouts/Article.astro
 title: "Nghìn Năm Mới Có Lúc Nầy"
 author: "Trần Thìn"
 date: 2014-06-24
-source: "https://sachhiem.net/THOISU_CT/ChuTr/TranThin.php"
+source: "/THOISU_CT/ChuTr/TranThin"
 category: "Chính trị"
 lang: vi
 wordCount: 4650

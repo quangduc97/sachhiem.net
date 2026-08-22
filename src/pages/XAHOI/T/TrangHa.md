@@ -3,7 +3,7 @@ layout: ../../../layouts/Article.astro
 title: "Nhà Văn Lưu Manh và"
 author: "Trang Hạ"
 date: 2008-04-24
-source: "https://sachhiem.net/Blog Trang Hạ đăng ngày: 2008-04-24 12:24"
+source: "/Blog Trang Hạ đăng ngày: 2008-04-24 12:24"
 category: "Chính trị"
 lang: vi
 wordCount: 2643

@@ -3,17 +3,17 @@ layout: ../../../layouts/Article.astro
 title: "Mối Ác Cảm Của Nhân Dân Thế Giới"
 author: "Nguyễn Mạnh Quang"
 date: 2004-03-28
-source: "https://sachhiem.net/NMQ/MOIACCAM/NMQ_02.php"
+source: "/NMQ/MOIACCAM/NMQ_02"
 category: "Tác giả"
 lang: vi
 wordCount: 17972
-image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nha.jpg"
+image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/print.gif"
 ---
 
 <p class="Tuaduoi">Đối Với Giáo Hội La Mã </p>
      
      
-     <p align="center"><a href="/index"><img hspace="20" border="0" src="https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nha.jpg"></a>   bản rời <a href="/NMQ/MOIACCAM/NMQ_00" target="top"> <img border="0" src="https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/print.gif" width="18" height="18"> </a>    |      toàn tập <a target="_top" href="/NMQ/MOIACCAM/MoiAcCam_Main"> ☞ </a>  | 02 tháng 4, 2010 </p>
+     <p align="center">   bản rời <a href="/NMQ/MOIACCAM/NMQ_00" target="top"> <img border="0" src="https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/print.gif" width="18" height="18"> </a>    |      toàn tập <a target="_top" href="/NMQ/MOIACCAM/MoiAcCam_Main"> ☞ </a>  | 02 tháng 4, 2010 </p>
      
      <p class="CHUONG">CHƯƠNG 3</p>
      <p class="TuaChuong">QUYỀN LỰC LÀM CHO GIÁO HỘI LA MÃ LAO VÀO HỐ SÂU VỰC THẲM TỘI<span lang="en-us"> ÁC</span></p>
@@ -227,8 +227,8 @@ image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nha.jpg"
      <p> <a name="_edn40" href="/NMQ/#_ednref40">[40]</a> Malachi Martin, <i>Rich Church, Poor Church</i> (New York: G. P.       Putnam’s Sons, 1984), p. 175.  Nguyên văn: “By the middle of the eighteenth century, French, Spanish, Belgian, German, Dutch, Portuguese, and Italian lodges were openly and covertly hostile to Catholicism, maintaining that, instead of the the revealed religion Rome preach, all men should be deists, and all human activity – commerce, learning, education, science, politics – should be purified of any ecclesiastical, clerical, or religious traits. Deism, in effect, denied the existence of any supernatural dimension. Masons were actively prominent in suppressing Church influence in academial in political life, and in economic participation. In fact, Masonry became synonymous with anti-clericalism. There was – and still is – no way traditional Catholicism could be reconciled with this type of Freemasonry….” </p>
      <p> <a name="_edn41" href="/NMQ/#_ednref41">[41]</a> Bùi Đúc Sinh, <i>Lịch Sử Giáo Hội       Công Giáo – Phần Nhì</i> (Sàigòn: Chân Lý, 1972), tr 15<i>2-153</i></p>
      <p> <a name="_edn42" href="/NMQ/#_ednref42">[42]</a> Bùi Đức Sinh, Sđd., tr. 154-156.</p>
-     <p> <a name="_edn43" href="/NMQ/#_ednref43">[43]</a> ”Nguyên văn: “ROME (Reuters, July 27, 2005) - Mainstream churches in the West appear to be dying as societies that are increasingly secular see less need for God, Pope Benedict said in comments published on Wednesday.”       Nguồn: <a target="_top" href="https://sachhiem.net/TCN/TCNtg/TCN78.php"> https://sachhiem.net/TCN/TCNtg/TCN78.php</a> </p>
+     <p> <a name="_edn43" href="/NMQ/#_ednref43">[43]</a> ”Nguyên văn: “ROME (Reuters, July 27, 2005) - Mainstream churches in the West appear to be dying as societies that are increasingly secular see less need for God, Pope Benedict said in comments published on Wednesday.”       Nguồn: <a target="_top" href="/TCN/TCNtg/TCN78"> https://sachhiem.net/TCN/TCNtg/TCN78.php</a> </p>
      
      <hr align="left" size="2" width="33%">
      <p>Mời đọc bài tóm tắt các việc làm của Giáo Hội qua từng thế kỷ:</p>
-     <p class="TuaDenLeft"> <a target="_top" href="https://www.sachhiem.net/TONGIAO/tgTH/ThuongDuc.php">1000 Năm Tàn Sát &amp; Man Rợ - Nhân Danh Chúa </a>-do Thường Đức (usa) sưu tầm </p>
+     <p class="TuaDenLeft"> <a target="_top" href="/TONGIAO/tgTH/ThuongDuc">1000 Năm Tàn Sát &amp; Man Rợ - Nhân Danh Chúa </a>-do Thường Đức (usa) sưu tầm </p>

@@ -3,7 +3,7 @@ layout: ../../../layouts/Article.astro
 title: "Ảo Tưởng Về Cách Mạng Bất Bạo Động!"
 author: "Nguyễn Ngọc Bích"
 date: 2014-02-26
-source: "https://sachhiem.net/THOISU_CT/ChuN/NNgocBich.php"
+source: "/THOISU_CT/ChuN/NNgocBich"
 category: "Tác giả"
 lang: vi
 wordCount: 1049

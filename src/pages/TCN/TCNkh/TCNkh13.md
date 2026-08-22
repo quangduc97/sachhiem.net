@@ -2,15 +2,14 @@
 layout: ../../../layouts/Article.astro
 title: "BOMB LADY"
 author: "Trần Chung Ngọc"
-source: "https://sachhiem.net/TCN/TCNkh/TCNkh13.php"
+source: "/TCN/TCNkh/TCNkh13"
 category: "Khoa học"
 lang: en
 wordCount: 739
-image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nha.jpg"
 ---
 
 <table border="0" width="250" align="center">
-    <tbody><tr><td width="100"><a href="https://sachhiem.net/index.php"><img border="0" src="https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nha.jpg"></a>    </td> 			
+    <tbody><tr><td width="100">    </td> 			
 			<td width="218">	đăng ngày 28&nbsp; tháng 9, 2007</td>
 		</tr>
 	</tbody></table>

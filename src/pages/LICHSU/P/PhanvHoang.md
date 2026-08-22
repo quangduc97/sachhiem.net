@@ -3,7 +3,7 @@ layout: ../../../layouts/Article.astro
 title: "Chào Mừng Kỷ Niệm Lần Thứ 38"
 author: "TS Phan văn Hoàng"
 date: 2013-04-30
-source: "https://sachhiem.net/LICHSU/P/PhanvHoang.php"
+source: "/LICHSU/P/PhanvHoang"
 category: "Chính trị"
 lang: vi
 wordCount: 3399
@@ -109,4 +109,4 @@ image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/SACHNGOAI/Hinhanh/PE
      <p class="nguonL">Nguồn: Bản MS-Word của tác giả </p>
       <hr>
   <p><b>Bài khác, cùng tác giả:</b></p>
-  <p>- <a href="https://sachhiem.net/LICHSU/P/PhanvHoang_01.php">Dấu Ấn Điện Biên Phủ Trong Hồi Ký Các Chính Khách Cấp Cao Phương Tây </a> </p>
+  <p>- <a href="/LICHSU/P/PhanvHoang_01">Dấu Ấn Điện Biên Phủ Trong Hồi Ký Các Chính Khách Cấp Cao Phương Tây </a> </p>

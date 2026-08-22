@@ -2,7 +2,7 @@
 layout: ../../../layouts/Article.astro
 title: "Phân Nửa Dân Mỹ Thay Đổi Niềm Tin"
 author: "ERIC GORSKI (Tacoma News Tribune)"
-source: "https://sachhiem.net/null"
+source: "/null"
 category: "Tác giả"
 lang: vi
 wordCount: 343

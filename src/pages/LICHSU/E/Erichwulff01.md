@@ -2,29 +2,28 @@
 layout: ../../../layouts/Article.astro
 title: "Lễ Phật Đản 8/ 5/ 63 Tại Huế"
 author: "Erich Wulff /Minh Nguyện dịch"
-source: "https://sachhiem.net/LICHSU/E/Erichwulff01.php"
+source: "/LICHSU/E/Erichwulff01"
 category: "Tác giả"
 lang: vi
 wordCount: 7575
-image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nha.jpg"
+image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/TONGIAO/IMG/PHAPNAN/TTTTQ_BSERICWULFF_1967.jpg"
 ---
 
 <p class="Tuaduoi">Trích hồi ký Bác sĩ ERICH WULFF (Đức ngữ) </p>
 			
  
-<p align="center"><a href="https://www.sachhiem.net/">
-	<img border="0" src="https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nha.jpg"></a> 02 tháng 5, 2011</p> 
+<p align="center"> 02 tháng 5, 2011</p> 
 			<p><i>Lời người dịch: Bài này được trích dịch từ quyển Vietnamesische Lehrjahre (Những năm dạy học tại Việt Nam), Suhrkamp Verlag, Taschenbuch Ausgabe , st 73, Germany, 1972, trang 129-142 với tên tác giả Georg W. Alsheimer, bút hiệu của Bác sĩ người Ðức Erich Wulff. BS Wulff dạy tại trường Ðại học Y khoa Huế 1961-1967, trong khuôn khổ viện trợ giáo dục của Tây Ðức. Vì một sự tình cờ, tác giả đã chứng kiến biến cố tại Ðài Phát thanh Huế đêm 8/5/1963 làm 8 Phật tử bị chết một cách thê thảm và đã trình bày sự kiện này trước Ủy ban điều tra đàn áp Phật giáo Việt Nam của Liên hiệp quốc vào tháng 9/1963. </i> </p>
 <hr width="300">
-<p><a href="https://sachhiem.net/LICHSU/E/Erichwulff.php">&lt;-- trang trước</a> | <a href="https://sachhiem.net/LICHSU/E/Erichwulff02.php">trang sau --&gt;</a></p>
-<p><a href="https://sachhiem.net/LICHSU/E/Erichwulff01.php">Trang 2 / 5</a></p>
+<p><a href="/LICHSU/E/Erichwulff">&lt;-- trang trước</a> | <a href="/LICHSU/E/Erichwulff02">trang sau --&gt;</a></p>
+<p><a href="/LICHSU/E/Erichwulff01">Trang 2 / 5</a></p>
 <p class="Tuaduoi">Đêm Phật Đản 8/5/1963 tại Đài phát thanh Huế</p>
 <div class="danbai">
-<p>1- <a href="https://sachhiem.net/LICHSU/E/Erichwulff.php">Hồi ký của Bác sĩ E. Wulff về Pháp nạn 1963: bài một </a></p>
+<p>1- <a href="/LICHSU/E/Erichwulff">Hồi ký của Bác sĩ E. Wulff về Pháp nạn 1963: bài một </a></p>
 <p>2-  <b>Hồi ký của Bác sĩ E. Wulff: bài hai - Đêm Phật Đản 8/5/1963 </b></p>
-<p>3-   <a href="https://sachhiem.net/LICHSU/E/Erichwulff.php">Hồi ký của Bác sĩ E. Wulff: bài ba - Tuyệt Thực - tháng 5/1963</a></p>
-<p>4- <a href="https://sachhiem.net/LICHSU/E/Erichwulff.php">Hồi ký của Bác sĩ E. Wulff: bài bốn - Tường trình tại Liên Hiệp Quốc  (9/196 3)</a></p>
-<p>5- <a href="https://sachhiem.net/LICHSU/E/Erichwulff.php">Hồi ký của Bác sĩ E. Wulff: bài chót -  Chuyến trở lại Việt Nam 1964 </a></p>
+<p>3-   <a href="/LICHSU/E/Erichwulff">Hồi ký của Bác sĩ E. Wulff: bài ba - Tuyệt Thực - tháng 5/1963</a></p>
+<p>4- <a href="/LICHSU/E/Erichwulff">Hồi ký của Bác sĩ E. Wulff: bài bốn - Tường trình tại Liên Hiệp Quốc  (9/196 3)</a></p>
+<p>5- <a href="/LICHSU/E/Erichwulff">Hồi ký của Bác sĩ E. Wulff: bài chót -  Chuyến trở lại Việt Nam 1964 </a></p>
 
 </div>
 		<p><span class="First">K</span>hi tôi cùng với Fred, Tuân (1), Phương và người 
@@ -527,7 +526,7 @@ image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nha.jpg"
 <p>Minh Nguyện viết theo tài liệu của Đài truyền thanh 
 	và truyền hình WDR-Tây Đức <a href="https://www.wdr5.de/sendungen/erlebte_geschichten/406425.phtml?print=1&amp;i=1"> <i> https://www.wdr5.de/sendungen/erlebte_geschichten/406425.phtml?print=1&amp;i=1</i></a></p>
 
-<p><a href="https://sachhiem.net/LICHSU/E/Erichwulff.php">&lt;-- trang trước</a> | <a href="https://sachhiem.net/LICHSU/E/Erichwulff02.php">trang sau --&gt;</a></p>
+<p><a href="/LICHSU/E/Erichwulff">&lt;-- trang trước</a> | <a href="/LICHSU/E/Erichwulff02">trang sau --&gt;</a></p>
 <p><b>Xem 
 các bài tiếp theo :&nbsp;&nbsp;</b></p>
 	<p>	1<i>. Tuyệt thực tháng 5/1963 tại chùa Từ Đàm</i><i> </i>&nbsp;<a href="https://www.thuvienhoasen.org/D_1-2_2-86_4-5415_5-50_6-1_17-25_14-1_15-1/">https://www.thuvienhoasen.org/D_1-2_2-86_4-5415_5-50_6-1_17-25_14-1_15-1/</a></p>
@@ -542,6 +541,6 @@ các bài tiếp theo :&nbsp;&nbsp;</b></p>
 <p class="nguonL">Nguồn: https://tuvienhuequang.com/chuyen-muc/lich-su/2748-hoi-ky-cua-bac-si-wulff-ve-phap-nan-1963.html?start=1</p>
 <hr>
 <p><b>Mời đọc thêm: </b></p>
-<p>- <a href="https://sachhiem.net/XAHOI/xhN/NgXnXanh.php">Gặp lại ân nhân của Việt Nam: bác sĩ Erich Wulff</a></p>
+<p>- <a href="/XAHOI/xhN/NgXnXanh">Gặp lại ân nhân của Việt Nam: bác sĩ Erich Wulff</a></p>
 
 <a href="/indexTG"><p class="trang">Trang Tôn Giáo</p></a>

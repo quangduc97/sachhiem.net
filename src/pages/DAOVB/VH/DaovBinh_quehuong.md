@@ -3,7 +3,7 @@ layout: ../../../layouts/Article.astro
 title: "Những Bài Thơ Ca Ngợi Làng Quê Và Biển"
 author: "Đào Văn Bình"
 date: 2015-08-21
-source: "https://sachhiem.net/DAOVB/VH/DaovBinh_quehuong.php"
+source: "/DAOVB/VH/DaovBinh_quehuong"
 category: "Văn hóa"
 lang: vi
 wordCount: 1042
@@ -176,4 +176,4 @@ image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/CANHDEP/Sen-d
  <p>- <a href="https://www.panoramio.com/photo/90505748">panarramio.com </a></p>
  <p>- <a href="https://kenh14.vn/xa-hoi/ngat-ngay-voi-ve-dep-cua-thien-duong-hoa-buoi-giua-long-ha-noi-20140304111142422.chn">kenh14.vn</a></p>
  <p><b>Các bài cùng tác giả Đào văn Bình đăng trong sachhiem.net</b></p>
- <p><a href="https://sachhiem.net/DAOVB/ListDVB.inc.php">https://sachhiem.net/DAOVB/ListDVB.inc.php</a></p>
+ <p><a href="/DAOVB/ListDVB.inc">https://sachhiem.net/DAOVB/ListDVB.inc.php</a></p>

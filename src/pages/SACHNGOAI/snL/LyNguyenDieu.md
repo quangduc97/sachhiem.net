@@ -6,14 +6,14 @@ source: "https://www.cato.org/pub_display.php?pub_id=12052"
 category: "Tác giả"
 lang: vi
 wordCount: 2137
-image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nha.jpg"
+image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/LICHSU/IMG/NGODD/NgoDDiem.jpg"
 ---
 
 <p class="Tuaduoi">từ Hamid Karzai and America's Vietnam mistake</p>
 				
 				
 				
-<p align="center"><a href="https://www.sachhiem.net/"> <img border="0" src="https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nha.jpg"></a> 13 tháng 8, 2010</p>  		
+<p align="center"> 13 tháng 8, 2010</p>  		
                 <p><i><span class="First">C</span>ũng giống như Việt-Nam của thập niên 
 				60, một lần nữa, nước Mỹ lại kẹt dính với một lãnh tụ quá sức 
 				yếu kém mà họ phải tin tưởng để thắng một cuộc chiến.</i></p>

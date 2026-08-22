@@ -3,7 +3,7 @@ layout: ../../../layouts/Article.astro
 title: "Một số danh lam đã bị phá hủy dưới thời Pháp thuộc"
 author: "Trần Đình Sơn"
 date: 2016-01-18
-source: "https://sachhiem.net/LICHSU/TR/TranDinhSon.php"
+source: "/LICHSU/TR/TranDinhSon"
 category: "Chính trị"
 lang: vi
 wordCount: 2965

@@ -2,14 +2,13 @@
 layout: ../../../layouts/Article.astro
 title: "Lá Thư của Trưởng Ban Văn Hóa PGVN"
 author: "Sa Môn Thích Trung Hậu"
-source: "https://sachhiem.net/TONGIAO/TOAKHAM/BuiKha8.php"
+source: "/TONGIAO/TOAKHAM/BuiKha8"
 category: "Tác giả"
 lang: vi
 wordCount: 405
-image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nha.jpg"
 ---
 
-<p align="center"><a href="https://sachhiem.net/index.php"><img border="0" hspace="20" src="https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nha.jpg"></a> 11 tháng 2, 2008</p> 
+<p align="center"> 11 tháng 2, 2008</p> 
 		
 		
 

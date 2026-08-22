@@ -2,7 +2,7 @@
 layout: ../../../layouts/Article.astro
 title: "Tuyển Tập Độc Thần Giáo"
 author: "Charlie Nguyễn"
-source: "https://sachhiem.net/CHARLIE/CN_TTDTG/InGodWeTrust.php"
+source: "/CHARLIE/CN_TTDTG/InGodWeTrust"
 lang: vi
 wordCount: 7209
 image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nha.jpg"

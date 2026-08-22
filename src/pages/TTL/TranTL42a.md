@@ -3,7 +3,7 @@ layout: ../../layouts/Article.astro
 title: "Vọng ngữ: Con đường giải thoát?"
 author: "Lữ Giang"
 date: 2013-06-01
-source: "https://sachhiem.net/TTL/TranTL42a.php"
+source: "/TTL/TranTL42a"
 category: "Tác giả"
 lang: vi
 wordCount: 3651
@@ -70,7 +70,7 @@ Trong bài “<i>Tâm tình với lão tướng Đỗ Mậu</i>” đăng trên 
 <p>
 Giao Điểm đi theo một đường hướng khác. Cuốn “<i>CHRIST IS DEAD  - BUDDHA LIVES</i>” (Chúa Kitô Đã Chết - Phật Còn Sống) của John H. Garabedian và  Orde Coombs đã được Trần Chung Ngọc và những thành phần thuộc nhóm Giao Điểm  hay “vệ tinh” của Giao Điểm coi như đường lối “tác chiến” của họ.</p>
 <p>
-[<a href="https://sachhiem.net/TCN/TCNtg/TCN56.php">Trần Chung Ngọc, Phật Giáo – Kitô Giáo Đối Chiếu</a>, <a href="https://sachhiem.net/TCN/TCNtg/TCN68.php">Con Đường  Chuyển Hóa</a>, <a href="https://sachhien.net/" target="_blank">sachhien.net</a>]</p>
+[<a href="/TCN/TCNtg/TCN56">Trần Chung Ngọc, Phật Giáo – Kitô Giáo Đối Chiếu</a>, <a href="/TCN/TCNtg/TCN68">Con Đường  Chuyển Hóa</a>, <a href="https://sachhien.net/" target="_blank">sachhien.net</a>]</p>
 <p>
 Điều đáng lưu ý là cả hai nhóm nói trên đều đi theo CSVN.  Năm 1995 Đỗ Mậu đã về Việt Nam tuyên truyền cho Cộng Sản và kêu gọi Phật Giáo  “bắt tay” với nhà cầm quyền. Còn nhóm Giao Điểm mới đây đã được Bộ Công An chứng  nhận là cơ quan “phục vụ cho việc tuyên truyền đường lối chính sách của Đảng và  Nhà nước ta”.</p>
 <p>

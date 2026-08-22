@@ -2,15 +2,14 @@
 layout: ../../../layouts/Article.astro
 title: "Chương Trình Fulbright Và Ngoại Giao Công Chúng Hoa Kỳ: Chương 1"
 author: "Sharma Rachana"
-source: "https://sachhiem.net/XAHOI/S/SharmaRachana_FUV1.php"
+source: "/XAHOI/S/SharmaRachana_FUV1"
 category: "Xã hội"
 lang: vi
 wordCount: 13198
-image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nha.jpg"
+image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/THOISU_CT/Hinh/FULBRIGHT/FUV_MrSam.jpg"
 ---
 
-<p align="center"><a href="https://www.sachhiem.net/">
-<img border="0" src="https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nha.jpg"></a> 
+<p align="center"> 
 August 27, 2024</p>
 <p>Gần đây buổi lễ tốt nghiệp "Lớp học Không sợ hãi" của  ĐH Fulbright thu hút sự quan tâm đặc biệt từ dư luận với nghi vấn đây là cái ổ  huấn luyện các phần tử cầm đầu cách mạng màu trá hình. Sự kiện càng nóng hơn  khi truyền hình Quốc phòng Việt Nam vào cuộc nên đích danh ĐH Fulbright bằng  phóng sự <i>"Không để cách mạng màu đổi màu giáo dục</i>" Vấn đề đặt ra là  dựa trên cơ sở nào để kết luận liệu ĐH Fulbrihgt có phải là cái ổ chuyên huấn  luyện các phần tử cầm đầu cách mạng màu trá hình hay không?</p>
 <p>Trong quá trình đi tìm câu trả lời cho những thắc mắc của mình  tôi đã tìm được cuốn sách có tựa đề "<i>Chương trình Fulbright và Ngoại giao  công chúng Hoa Kỳ</i>" xuất bản năm 2014 của tiến sĩ <i>Molly Lenore Bettie</i> từ  Đại học Leeds Vương quốc Anh. Cuốn sách cung cấp nhiều thông tin giá trị về cơ  sở lý luận từ nguồn gốc lịch sử đến thực tiễn hiện đại trong ngoại giao công  chúng của Mỹ thông qua Chương trình Fulbright. </p>

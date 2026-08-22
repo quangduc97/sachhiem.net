@@ -2,11 +2,10 @@
 layout: ../../layouts/Article.astro
 title: "BẦY ONG LẠC ĐƯỜNG VỀ..."
 author: "Hoàng Nguyên Nhuận"
-source: "https://sachhiem.net/HOANGNN/Hoang06.php"
+source: "/HOANGNN/Hoang06"
 category: "Chính trị"
 lang: vi
 wordCount: 2148
-image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nha.jpg"
 ---
 
 <p class="Tuaduoi"><font size="4" color="#000080">[MỘT HÔM BỖNG NHỚ TÙY ANH...]		</font> </p>
@@ -15,8 +14,7 @@ image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nha.jpg"
 
 </center>
  
-<p align="center"><a href="https://www.sachhiem.net/">
-	<img border="0" src="https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nha.jpg"></a>đăng ngày 19&nbsp; tháng 8, 2007 </p>
+<p align="center">đăng ngày 19&nbsp; tháng 8, 2007 </p>
     <p>Một sáng nọ, tôi vừa pha tách cà-phê đầu ngày ngồi xuống thì vô phước con ruồi vo ve sà lại như đòi tôi... ủng hộ tý!  
 </p><p>Tôi hơi bực vì bị phá bĩnh bất tử nên sát nghiệp vùng dậy...Thế là tiện tay tôi dùng cái khăn lau bàn quất mạnh thì con ruồi bị đánh bạt sa vào tách cà phê. 
 </p><p>Thấy con ruồi loay hoay trong tách cà phê đang nóng, tui ân hận lấy muỗng vội vàng vớt nó ra, vừa vớt vừa niệm Nam Mô A Di Đà Phật như thể muốn cầu cho nó bớt đau và hồi sinh! 

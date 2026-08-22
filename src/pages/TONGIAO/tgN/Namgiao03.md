@@ -3,7 +3,7 @@ layout: ../../../layouts/Article.astro
 title: "Cao Ðài Dưới Chế Ðộ Ngô Ðình Diệm"
 author: "Nam Giao tổng hợp"
 date: 2017-06-14
-source: "https://sachhiem.net/TONGIAO/tgN/Namgiao03.php"
+source: "/TONGIAO/tgN/Namgiao03"
 category: "Tác giả"
 lang: vi
 wordCount: 14924

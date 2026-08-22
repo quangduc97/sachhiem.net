@@ -3,7 +3,7 @@ layout: ../../../layouts/Article.astro
 title: "Phật Giáo Hòa Hảo"
 author: "Nguyễn Long Thành Nam"
 date: 2013-01-18
-source: "https://sachhiem.net/TONGIAO/tgN/NgLongThanhNam.php"
+source: "/TONGIAO/tgN/NgLongThanhNam"
 category: "Tác giả"
 lang: vi
 wordCount: 1653

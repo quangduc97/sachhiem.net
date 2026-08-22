@@ -3,7 +3,7 @@ layout: ../../../layouts/Article.astro
 title: "Đọc “Phật Giáo và Chánh Trị Việt Nam Ngày Nay” của Tiến Sĩ Hoàng Xuân Hào"
 author: "Đào Văn Bình"
 date: 2018-09-07
-source: "https://sachhiem.net/DAOVB/CT/DaovBinh63.php"
+source: "/DAOVB/CT/DaovBinh63"
 category: "Chính trị"
 lang: vi
 wordCount: 6951

@@ -2,14 +2,14 @@
 layout: ../../../layouts/Article.astro
 title: "Hành Trình Đi Tìm Ông Trương Vĩnh Ký"
 author: "(Nguyễn Thái An)"
-source: "https://sachhiem.net/LICHSU/N/NguyenThaiAn.php"
+source: "/LICHSU/N/NguyenThaiAn"
 category: "Lịch sử"
 lang: vi
 wordCount: 3444
-image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nha.jpg"
+image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/LICHSU/IMG/TuongPetrusKy.jpg"
 ---
 
-<p align="center"><a href="https://sachhiem.net/index.php"><img hspace="20" border="0" src="https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nha.jpg"></a>  21 tháng 5, 2009</p>
+<p align="center">  21 tháng 5, 2009</p>
 		<p><i>LTS: Tác giả Nguyễn Thái An là giáo sư dạy Kiến Thức Xã Hội (Sử Địa) của trường Trung Học Kiểu Mẫu Thủ Đức ở Sài gòn (1965 - 1975). Ông có kiến thức rất rộng rãi và uyên thâm, nhờ vào thói quen đọc sách, đọc báo, và đi du lãm nhiều nơi. Ông đọc rất nhiều, tuy nhiên, ít khi viết hay tham dự tranh luận trên bất cứ diễn đàn nào, dù là diễn đàn riêng của trường. Theo lời tâm sự của giáo sư, có lẽ đây là lần đầu tiên ông lên tiếng sau những lá thư "xúc cảm" về Trương Vĩnh Ký. Sachhiem.net rất hân hạnh được phép đăng lá thư này, không những vì giá trị lịch sử, mà còn là giá trị văn chương và cái nhẹ nhàng mà sâu sắc  nhưng cũng không thiếu phần cương quyết và thẳng thắn trong lập luận. Phần nội dung đối luận của các lá thư đề cập có thể nhìn thấy khi đọc bài viết của Giáo sư. Lá thư chỉ chép lại tài liệu của Wilkipedia thì không cần chép ra đây nữa. Tất cả các lá thư đã được công bố trên diễn đàn trường KMTD. (SH)	</i> </p>
 		<hr>
 		
@@ -204,7 +204,7 @@ image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nha.jpg"
 	
 	<p><b>Bài liên quan:</b></p>
 	<p><a href="/NMQ/NMQ011">- Thư Gửi Quí Vị Cựu Giáo Sư Và Học Sinh</a> (Nguyễn Mạnh Quang)</p>
-	<p>- <a href="https://sachhiem.net/index.php?content=showemail&amp;id=3553">Bây giờ mới thấy đúng</a> (Trinh Nữ Kiếm) - thư ngày 17 tháng 7, 2022</p>
+	<p>- <a href="/hop-thu/3553">Bây giờ mới thấy đúng</a> (Trinh Nữ Kiếm) - thư ngày 17 tháng 7, 2022</p>
 	<hr>
 	<p><b>Chú thích của SH:</b></p>
 	<p>(1) Thư viết ngắn trả lời cho một số emails của DDKM groups về Trương Vĩnh Ký:</p>
@@ -242,20 +242,20 @@ Cái việc người Pháp đặt tên trường Petrus Ký không phải là đ
     	<p>___________________ </p>
  	<p><b>Mời đọc các bài đối luận về Trương Vĩnh Ký:</b></p>
    <p>- Trương Vĩnh Ký Phản Bội Tổ Quốc, Sao Lại Gọi Là Yêu Nước? (Bùi Kha)
-<a href="https://sachhiem.net/BUIKHA/BuiKha25b_TVK.php">https://sachhiem.net/BUIKHA/BuiKha25b_TVK.php</a> </p>
+<a href="/BUIKHA/BuiKha25b_TVK">https://sachhiem.net/BUIKHA/BuiKha25b_TVK.php</a> </p>
  <p>- Hành Trình Đi Tìm Ông Trương Vĩnh Ký Nguyễn Thái An)<br>
-<a href="https://sachhiem.net/LICHSU/N/NguyenThaiAn.php">https://sachhiem.net/LICHSU/N/NguyenThaiAn.php</a></p>
+<a href="/LICHSU/N/NguyenThaiAn">https://sachhiem.net/LICHSU/N/NguyenThaiAn.php</a></p>
    <p>- Đắc Lộ, Trương Vĩnh Ký &amp; Chữ Quốc Ngữ của Tác Giả Minh Vân (Bùi Kha)
-<a href="https://sachhiem.net/BUIKHA/BuiKha25a.php">https://sachhiem.net/BUIKHA/BuiKha25a.php</a></p>
+<a href="/BUIKHA/BuiKha25a">https://sachhiem.net/BUIKHA/BuiKha25a.php</a></p>
    <p>- Ngắn Gọn Về Thầy Thông Ngôn Trương Vĩnh Ký (Nguyễn Thái An)
-<a href="https://sachhiem.net/LICHSU/N/NguyenThaiAn04.php">https://sachhiem.net/LICHSU/N/NguyenThaiAn04.php</a></p>
+<a href="/LICHSU/N/NguyenThaiAn04">https://sachhiem.net/LICHSU/N/NguyenThaiAn04.php</a></p>
    <p>- Trương Vĩnh Ký, Yêu Nước? Đối Luận với ông Trần Hữu Tá (Bùi Kha)
-<a href="https://sachhiem.net/BUIKHA/BuiKha19.php">https://sachhiem.net/BUIKHA/BuiKha19.php</a></p>
+<a href="/BUIKHA/BuiKha19">https://sachhiem.net/BUIKHA/BuiKha19.php</a></p>
    <p>- Lá Thư (1) Gửi Quí Vị Cựu Giáo Sư Và Học Sinh Trường Kiểu Mẫu Thủ Đức Hiền tài hay Việt gian? (Nguyễn Mạnh Quang)
-<a href="https://sachhiem.net/NMQ/NMQ011.php">https://sachhiem.net/NMQ/NMQ011.php</a></p>
+<a href="/NMQ/NMQ011">https://sachhiem.net/NMQ/NMQ011.php</a></p>
    <p>- Đổi Mới Sử Học Không Có Nghĩa Là Tô Đen Thành Trắng (BS. Nguyễn Văn Thịnh)
-<a href="https://sachhiem.net/VANHOC/N/NguyenvThinh_05.php">https://sachhiem.net/VANHOC/N/NguyenvThinh_05.php</a></p>
+<a href="/VANHOC/N/NguyenvThinh_05">https://sachhiem.net/VANHOC/N/NguyenvThinh_05.php</a></p>
 	<p>- <a href="https://tongiaovadantoc.com/c1036/20111215150243321/truong-vinh-ky-phan-boi-to-quoc-sao-lai-goi-la-yeu-nuoc-bui-kha.htm">"Trương Vĩnh Ký phản bội Tổ quốc, sao lại gọi là yêu nước ?"</a>  </p>
 ___________________
-<p>Các bài của GS sử học Nguyễn Thái An: link <a href="https://sachhiem.net/LICHSU/N/ListNTA.inc.php" target="_blank">https://sachhiem.net/LICHSU/N/ListNTA.inc.php</a></p>
+<p>Các bài của GS sử học Nguyễn Thái An: link <a href="/LICHSU/N/ListNTA.inc" target="_blank">https://sachhiem.net/LICHSU/N/ListNTA.inc.php</a></p>
   <hr>

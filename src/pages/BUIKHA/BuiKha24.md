@@ -3,7 +3,7 @@ layout: ../../layouts/Article.astro
 title: "Phản Biện Bài Viết Của Lữ Giang Về Hoà Thượng Thích Minh Châu"
 author: "Bùi Kha"
 date: 2012-09-22
-source: "https://sachhiem.net/BUIKHA/BuiKha24_NTT.php"
+source: "/BUIKHA/BuiKha24_NTT"
 category: "Lịch sử"
 lang: vi
 wordCount: 7128

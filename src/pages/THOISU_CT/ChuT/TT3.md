@@ -6,7 +6,7 @@ source: "https://tuoitre.vn/Chinh-tri-Xa-hoi/398414/Ha-Noi-ruc-ro-don-Quoc-khanh
 category: "Chính trị"
 lang: vi
 wordCount: 258
-image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nha.jpg"
+image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.devhttps://phienbancu.tuoitre.vn/tianyon/ImageView.aspx?ThumbnailID=445028"
 ---
 
 <div align="center" style="position: relative; left: 0; top: 0">
@@ -25,7 +25,7 @@ image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nha.jpg"
 <tr> <td width="100%"> 
 	<div style="padding-left: 50px; padding-right: 50px">
 		<table border="0" cellpadding="10" width="100%" cols="2"><tbody><tr>
-				<td valign="top"><a href="/index"><img border="0" src="https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nha.jpg"></a></td>
+				<td valign="top"></td>
 	<td valign="top" width="286">	<font size="2">01 tháng 9, 2010	</font>
 	</td></tr></tbody></table>
 

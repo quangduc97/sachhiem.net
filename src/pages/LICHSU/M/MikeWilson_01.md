@@ -3,7 +3,7 @@ layout: ../../../layouts/Article.astro
 title: "Nhân Đọc \"Cần Có Cái Nhìn Khách Quan Về Huế - Mậu Thân 1968\""
 author: "Mike Wilson"
 date: 2018-02-05
-source: "https://sachhiem.net/LICHSU/M/MikeWilson_01.php"
+source: "/LICHSU/M/MikeWilson_01"
 category: "Chính trị"
 lang: vi
 wordCount: 2534
@@ -52,10 +52,10 @@ image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/LICHSU/IMG/MauThan/N
    <p>Theo&nbsp;Reuters</p>
    <p>________________</p>
    <p><b>Đọc thêm:</b></p>
-   <p><a href="https://sachhiem.net/SACHNGOAI/snL/LeHongPhong.php">- Chuyện Hoang Đường Vụ Thảm Sát Ở Huế 68 </a> by  Noam Chomsky and Edward S. Herman.</p>
-   <p><a href="https://sachhiem.net/printemail.php?id=2510">- Sau 50 năm, tiểu thuyết "Giải Khăn Sô Cho Huế" nay đã bị vạch trần: Âm mưu của Mỹ- Thiệu </a>, by Trạng Móc.</p>
-   <p>- <a href="https://sachhiem.net/LICHSU/M/MikeWilson_01.php">Nhân Đọc "Cần Có Cái Nhìn Khách Quan Về Huế - Mậu Thân 1968"</a> by Mike Wilson</p>
-   <p>-<a href="https://sachhiem.net/LICHSU/S/SH11_MauThan.php"> Lần Đầu Tiên Tòa Án Nam Hàn Ra Lệnh Bồi Thường Cho Nạn Nhân Chiến Tranh Ở Việt Nam</a> (theo&nbsp;Choe Sang-Hun/ NYT)</p>
+   <p><a href="/SACHNGOAI/snL/LeHongPhong">- Chuyện Hoang Đường Vụ Thảm Sát Ở Huế 68 </a> by  Noam Chomsky and Edward S. Herman.</p>
+   <p><a href="/printemail.php?id=2510">- Sau 50 năm, tiểu thuyết "Giải Khăn Sô Cho Huế" nay đã bị vạch trần: Âm mưu của Mỹ- Thiệu </a>, by Trạng Móc.</p>
+   <p>- <a href="/LICHSU/M/MikeWilson_01">Nhân Đọc "Cần Có Cái Nhìn Khách Quan Về Huế - Mậu Thân 1968"</a> by Mike Wilson</p>
+   <p>-<a href="/LICHSU/S/SH11_MauThan"> Lần Đầu Tiên Tòa Án Nam Hàn Ra Lệnh Bồi Thường Cho Nạn Nhân Chiến Tranh Ở Việt Nam</a> (theo&nbsp;Choe Sang-Hun/ NYT)</p>
    <hr>
    <p><a href="https://huengaymoi.com/BLOG-PHAN-BIEN/CAN-CO-CAI-NHIN-KHACH-QUAN-VE-HUE-MAU-THAN-1968/" target="_blank">https://huengaymoi.com/BLOG-PHAN-BIEN/CAN-CO-CAI-NHIN-KHACH-QUAN-VE-HUE-MAU-THAN-1968/</a></p>
    <p class="Tuaduoi"><b>CẦN CÓ CÁI NHÌN KHÁCH QUAN VỀ HUẾ - MẬU THÂN  1968</b></p>

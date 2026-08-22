@@ -2,16 +2,16 @@
 layout: ../../../layouts/Article.astro
 title: "NHÂN VẬT MARY TRONG CA-TÔ GIÁO RÔ-MA"
 author: "Trần Chung Ngọc"
-source: "https://sachhiem.net/TCN/TCNtg/TCN40.php"
+source: "/TCN/TCNtg/TCN40"
 category: "Tác giả"
 lang: vi
 wordCount: 4025
-image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nha.jpg"
+image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/TONGIAO/IMG/MARY/DMtoakham.jpg"
 ---
 
 <table border="0" width="250" align="center">
      <tbody><tr>
-      <td width="100"><a href="/index"><img border="0" src="https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nha.jpg"></a></td>
+      <td width="100"></td>
      	<td valign="top" style="text-align:right">	<i><font size="2">01 tháng 4, 2008
 	</font>
 	</i>

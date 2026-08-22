@@ -3,7 +3,7 @@ layout: ../../../layouts/Article.astro
 title: "Phim Tài Liệu Về Vụ Án Cô Bé Emanuela Orlandi Biến Mất"
 author: "Đức Dũng"
 date: 2023-01-20
-source: "https://sachhiem.net/TONGIAO/tgD/DucDung09.php"
+source: "/TONGIAO/tgD/DucDung09"
 category: "Chính trị"
 lang: vi
 wordCount: 3297

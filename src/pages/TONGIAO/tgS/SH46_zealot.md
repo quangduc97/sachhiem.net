@@ -3,7 +3,7 @@ layout: ../../../layouts/Article.astro
 title: "Tác Giả Reza Aslan Khám Phá Những Yếu Tố Không Ổn Về Lịch Sử Giê Su"
 author: "Ahmed phỏng vấn Reza Aslan"
 date: 2013-07-21
-source: "https://sachhiem.net/TONGIAO/tgS/SH46_zealot.php"
+source: "/TONGIAO/tgS/SH46_zealot"
 category: "Tác giả"
 lang: vi
 wordCount: 382

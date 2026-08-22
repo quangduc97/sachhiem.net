@@ -3,7 +3,7 @@ layout: ../../../layouts/Article.astro
 title: "Nhìn Lại Thế Kỷ Thứ 20"
 author: "Đào Văn Bình"
 date: 2021-05-25
-source: "https://sachhiem.net/DAOVB/CT/DaovBinh137.php"
+source: "/DAOVB/CT/DaovBinh137"
 category: "Chính trị"
 lang: vi
 wordCount: 4320

@@ -3,7 +3,7 @@ layout: ../../../layouts/Article.astro
 title: "Hãy Cảnh Giác"
 author: "Đinh Cương"
 date: 2016-10-26
-source: "https://sachhiem.net/THOISU_CT/ChuD/DinhCuong-2.php"
+source: "/THOISU_CT/ChuD/DinhCuong-2"
 category: "Chính trị"
 lang: vi
 wordCount: 2518

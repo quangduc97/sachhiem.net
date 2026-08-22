@@ -2,7 +2,7 @@
 layout: ../../../layouts/Article.astro
 title: "10 Tù Nhân Chính Trị Lừng Danh Nhất"
 author: "Quách Thi - theo TIME"
-source: "https://sachhiem.net/null"
+source: "/null"
 category: "Chính trị"
 lang: vi
 wordCount: 781

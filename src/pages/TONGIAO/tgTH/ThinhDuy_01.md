@@ -3,7 +3,7 @@ layout: ../../../layouts/Article.astro
 title: "Chuyện nhà khoa học tìm thấy Cái Thiên Đường"
 author: "Thịnh Duy"
 date: 2016-10-24
-source: "https://sachhiem.net/TONGIAO/tgTH/ThinhDuy_01.php"
+source: "/TONGIAO/tgTH/ThinhDuy_01"
 category: "Đối thoại"
 lang: vi
 wordCount: 2661

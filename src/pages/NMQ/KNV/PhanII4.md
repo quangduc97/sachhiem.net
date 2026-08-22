@@ -2,13 +2,12 @@
 layout: ../../../layouts/Article.astro
 title: "KHI NHÀ VĂN LẠM BÀN LỊCH SỬ"
 author: "- Nguyễn Mạnh Quang -"
-source: "https://sachhiem.net/NMQ/KNV/PhanII4.php"
+source: "/NMQ/KNV/PhanII4"
 lang: vi
 wordCount: 911
-image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nha.jpg"
 ---
 
-<p align="center"><a href="/NMQ/index"><img hspace="20" border="0" src="https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nha.jpg"></a> 10-07-2008 </p>
+<p align="center"> 10-07-2008 </p>
 	<p> Toàn tập:
 		<a href="/NMQ/KNV/LoiMoDau">0</a>&nbsp;  
 	<a href="/NMQ/KNV/Thungo">1</a>&nbsp; 

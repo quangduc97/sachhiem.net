@@ -3,7 +3,7 @@ layout: ../../../layouts/Article.astro
 title: "Thông Cáo Báo Chí"
 author: "Thư Viện Hoa Sen"
 date: 2014-08-09
-source: "https://sachhiem.net/TONGIAO/tgT/Tamdieu04.php"
+source: "/TONGIAO/tgT/Tamdieu04"
 category: "Chính trị"
 lang: vi
 wordCount: 1414
@@ -59,9 +59,9 @@ image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/TONGIAO/IMG/SACH/Tam
   <p class="Tuaduoi">Phụ Lục của SH:&nbsp; </p>
    <p>Hai bài sau đây đã đăng như đã ghi các đường dẫn, và xin được chép lại ngay ở dưới.</p>
   <p class="sub"><b>1. Cảnh báo các Phật tử về các trang mạng lấy tên có vẻ như của Phật giáo</b><br>
-    <a href="https://sachhiem.net/index.php?content=showemail&amp;id=642">https://sachhiem.net/index.php?content=showemail&amp;id=642</a></p>
+    <a href="/net/EMAILS/Thanthanh">https://sachhiem.net/index.php?content=showemail&amp;id=642</a></p>
  <p class="sub"><b>2. Lữ Giang vu khống Chủ Biên TVHS – gây mâu  thuẫn trong PG</b>  <br>
- <a href="https://sachhiem.net/index.php?content=showemail&amp;id=396">https://sachhiem.net/index.php?content=showemail&amp;id=396</a></p>
+ <a href="/hop-thu/396">https://sachhiem.net/index.php?content=showemail&amp;id=396</a></p>
  <div class="indentLR50">
    <hr>
    <p><span class="sub"><b>I. Cảnh báo các Phật tử về các trang mạng lấy tên có vẻ như của Phật giáo </b></span></p>
@@ -104,7 +104,7 @@ image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/TONGIAO/IMG/SACH/Tam
   <p> Thật không thể nào lường hết được những việc mất đạo đức của họ cả.</p>
   <p> Nhân đây xin đọc một email của họ, có lần giả bộ gửi BCC cho chúng tôi. Xin đọc:</p>
   <p>
-    <a href="https://sachhiem.net/EMAILS/Thanthanh.php/index.php?content=showemail&amp;id=375">https://sachhiem.net/EMAILS/Thanthanh.php/index.php?content=showemail&amp;id=375</a></p>
+    <a href="/net/index">https://sachhiem.net/EMAILS/Thanthanh.php/index.php?content=showemail&amp;id=375</a></p>
   <p>  Xin loan báo việc dùng danh xưng giả mạo để các bạn đọc khác cùng lưu ý.</p>
   <p>  Cám ơn anh.</p>
   <p>

@@ -2,7 +2,7 @@
 layout: ../../../layouts/Article.astro
 title: "SỰ THẬT VỀ QUAN HỆ VIỆT NAM & TRUNG QUỐC"
 author: "Nhà Xuất Bản Sự Thật"
-source: "https://sachhiem.net/null"
+source: "/null"
 category: "Chính trị"
 lang: vi
 wordCount: 898

@@ -3,7 +3,7 @@ layout: ../../../layouts/Article.astro
 title: "Vài Lời Nhân Dịp Giáo Hoàng Được Phong Thánh"
 author: "Nguyễn Bình"
 date: 2014-03-29
-source: "https://sachhiem.net/TONGIAO/tgN/NguyenBinh.php"
+source: "/TONGIAO/tgN/NguyenBinh"
 category: "Tác giả"
 lang: vi
 wordCount: 1286

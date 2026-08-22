@@ -3,7 +3,7 @@ layout: ../../layouts/Article.astro
 title: "Những Thủ Đoạn Mánh Mung"
 author: "Trần Tiên Long"
 date: 2011-12-01
-source: "https://sachhiem.net/TTL/TranTL11.php"
+source: "/TTL/TranTL11"
 category: "Tác giả"
 lang: vi
 wordCount: 5842

@@ -3,7 +3,7 @@ layout: ../../../layouts/Article.astro
 title: "Nhật Ký Biển Đông: Thổ Đối Đầu Với Mỹ Tại Syria"
 author: "Đào Văn Bình"
 date: 2018-02-08
-source: "https://sachhiem.net/DAOVB/CT/DaovBinh103.php"
+source: "/DAOVB/CT/DaovBinh103"
 category: "Chính trị"
 lang: vi
 wordCount: 6943

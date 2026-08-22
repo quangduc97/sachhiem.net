@@ -3,7 +3,7 @@ layout: ../../layouts/Article.astro
 title: "Câu Đối Tưởng Niệm GS Phúc Lâm Trần Chung Ngọc"
 author: "Trần Hải Âu"
 date: 2014-02-17
-source: "https://sachhiem.net/VANHOC/Tranhaiau.php"
+source: "/VANHOC/Tranhaiau"
 category: "Tác giả"
 lang: vi
 wordCount: 66

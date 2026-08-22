@@ -3,7 +3,7 @@ layout: ../../../layouts/Article.astro
 title: "Kích Động Lòng Yêu Nước Cực Đoan"
 author: "Đào Văn Bình"
 date: 2012-12-15
-source: "https://sachhiem.net/DAOVB/CT/DaovBinh04.php"
+source: "/DAOVB/CT/DaovBinh04"
 category: "Lịch sử"
 lang: vi
 wordCount: 4036

@@ -1,7 +1,7 @@
 ---
 layout: ../../../layouts/Article.astro
 title: "VATICAN: Hồ Sơ Giáo Hội (Nguyễn Mạnh Quang)"
-source: "https://sachhiem.net/NMQ/HOSOTOIAC/GHLMmucluc.php"
+source: "/NMQ/HOSOTOIAC/GHLMmucluc"
 lang: vi
 wordCount: 695
 ---

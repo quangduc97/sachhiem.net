@@ -3,15 +3,15 @@ layout: ../../../layouts/Article.astro
 title: "Lại Vẫn Là Huyền Thoại “Nguyễn Trường Tộ”"
 author: "Trần Chung Ngọc"
 date: 2012-09-23
-source: "https://sachhiem.net/TCN/TCNls/TCNls13_NTT.php"
+source: "/TCN/TCNls/TCNls13_NTT"
 lang: vi
 wordCount: 22581
-image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nha.jpg"
+image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/BUIKHA/img/NTT_vandecanhtan.jpg"
 ---
 
 <table border="0" align="center" width="250">
           <tbody><tr>
-            <td width="100"><a href="https://sachhiem.net/index.php"><img border="0" src="https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nha.jpg"></a></td>
+            <td width="100"></td>
     <td valign="top" width="275"></td>
     </tr></tbody></table>
              <div class="tomluoc">
@@ -1747,7 +1747,7 @@ Phạm Phú Thứ, và bài viết của Hữu Ngọc trên Internet: </p>
            Phạm Phú Thứ tại Quảng Nam và Đà Nẵng, và được đặt tên đường Phạm
            Phú Thứ ở nhiều tỉnh thành. </p>
 <div style="border-left:thick #666 solid;" class="indent50"><p><b>Bài liên quan:</b></p>
-<p>- <a href="https://sachhiem.net/LICHSU/V/VuongLiem.php"> PHẠM PHÚ THỨ: Nhà Cải Cách Ít Được Biết Đến</a> (Vương Liêm) </p>
+<p>- <a href="/LICHSU/V/VuongLiem"> PHẠM PHÚ THỨ: Nhà Cải Cách Ít Được Biết Đến</a> (Vương Liêm) </p>
  </div>
 <p>
            Trước những sự kiện về con người, về lòng yêu nước yêu dân, về những
@@ -1766,9 +1766,9 @@ Phạm Phú Thứ, và bài viết của Hữu Ngọc trên Internet: </p>
           Viết xong ngày 23 tháng 5, 2012</p>
  
  <p><span class="First">M</span>ời đọc bài khác về NTT của Trần Chung Ngọc</p>
- <p>- <a href="https://sachhiem.net/TCN/TCNls/TCNls_NTT.php">Nhân Đọc Cuốn "Nguyễn
+ <p>- <a href="/TCN/TCNls/TCNls_NTT">Nhân Đọc Cuốn "Nguyễn
      Trường Tộ: Thời Thế &amp; Tư Duy Cách Tân" Của Hoàng Thanh Đạm</a></p>
- <p>- <a href="https://sachhiem.net/TCN/TCNls/TCNls03_NTT.php">Nguyễn Trường Tộ
+ <p>- <a href="/TCN/TCNls/TCNls03_NTT">Nguyễn Trường Tộ
      - Từ Huyền Thoại Đến Thực Chất </a></p>
  
  <div class="tomluoc">&nbsp;    </div>

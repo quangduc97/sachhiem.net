@@ -1,7 +1,7 @@
 ---
 layout: ../../../layouts/Article.astro
 title: "Đại lễ Vesak Liên Hợp quốc 2008"
-source: "https://sachhiem.net/Cập nhật ngày 06May08:"
+source: "/Cập nhật ngày 06May08:"
 category: "Tác giả"
 lang: vi
 wordCount: 2023
@@ -27,7 +27,7 @@ image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nhacu.jpg"
 
 	<table border="0" cellpadding="50" cellspacing="0" width="100%" topmargin="10"> 
 	<tbody><tr><td bgcolor="White" align="justify" valign="top">
-		<table border="0" cellpadding="10" width="100%" cols="3">	<tbody><tr><td><a href="https://sachhiem.net/"><img src="https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nhacu.jpg"></a></td>
+		<table border="0" cellpadding="10" width="100%" cols="3">	<tbody><tr><td><a href="/"><img src="https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nhacu.jpg"></a></td>
 
 		<td valign="top" width="198"><a href="/TONGIAO/#" onclick="location.href='https://sachhiem.net/BIA/sendafriend.php?url='+location.href;"><img src="https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/TONGIAO/file:///C:/SACHHIEM/images/mail.gif" border="0"> 
 Gửi bài này cho bạn bè</a></td>

@@ -3,7 +3,7 @@ layout: ../../layouts/Article.astro
 title: "ALEXANDRE DE RHODES & VẤN ĐỀ CHỮ QUỐC NGỮ"
 author: "Bùi Kha"
 date: 2018-07-12
-source: "https://sachhiem.net/BUIKHA/BuiKha_Rhodes_2.php"
+source: "/BUIKHA/BuiKha_Rhodes_2"
 category: "Lịch sử"
 lang: vi
 wordCount: 6291
@@ -108,7 +108,7 @@ image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/LICHSU/IMG/FRANCE/Fr
     <p><a href="/BUIKHA/#_ftnref1" name="_ftn1">(1) </a>. Bài được đăng trên website:</p>
 <p>      <i>https://www.talawas.org/talaDB/showFile.php?res=7212&amp;rb=0302</i></p>
      <p><a href="/BUIKHA/#_ftnref2" name="_ftn2">(2) </a> . Xem trên website: </p>
-<p>      <i><a href="https://www.sachhiem.net/BUIKHA/BuiKha5.php">https://www.sachhiem.net/BUIKHA/BuiKha5.php</a>.</i></p>
+<p>      <i><a href="/BUIKHA/BuiKha5">https://www.sachhiem.net/BUIKHA/BuiKha5.php</a>.</i></p>
      <p><a href="/BUIKHA/#_ftnref3" name="_ftn3">(3) </a> . “Xin  hỏi trong chính phủ Pháp không làm gì có lính thừa sai để cha xin, mà chỉ có  lính chiến mà thôi”. </p>
      <p><a href="/BUIKHA/#_ftnref4" name="_ftn4">(4) </a> . “Ðể  việc biện chính được rõ hơn, tôi sẽ trở lại vấn đề này và dẫn thêm sử liệu để  cho thấy tại sao cha Ðắc Lộ (Alexandre de Rhodes) không xin Giáo hội Pháp mà  xin chính phủ Pháp”. </p>
     <p><a href="/BUIKHA/#_ftnref5" name="_ftn5">(5) </a>. “When Ignatius  died in 1556, his sons fought against the heretics in India, China,  Japan, the New World,  especially in Southern France and Western Germany”.  Linh mục Edmond Paris, <i>The Secret History of the Jesuits</i>, 1975, p.24.</p>

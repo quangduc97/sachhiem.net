@@ -3,7 +3,7 @@ layout: ../../../layouts/Article.astro
 title: "Sau Khi Giải Thoát Dân Chúa Khỏi Ách Nô Lệ Ai Cập, Chúa Lại Hướng Dẫn Dân Chúa Cách Sử Dụng Nô Lệ"
 author: "Vince Vince"
 date: 2019-11-23
-source: "https://sachhiem.net/TONGIAO/FB/FBVinceVince.php"
+source: "/TONGIAO/FB/FBVinceVince"
 category: "Chính trị"
 lang: vi
 wordCount: 979

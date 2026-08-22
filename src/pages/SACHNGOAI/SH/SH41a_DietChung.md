@@ -3,18 +3,17 @@ layout: ../../../layouts/Article.astro
 title: "Chờ Đến Những Phát Hiện Bi Thương Mới Biết"
 author: "SH tóm lược"
 date: 2021-05-09
-source: "https://sachhiem.net/SACHNGOAI/SH/SH41a_DietChung.php"
+source: "/SACHNGOAI/SH/SH41a_DietChung"
 category: "Sách ngoại văn"
 lang: vi
 wordCount: 1598
-image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nha.jpg"
+image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/TONGIAO/IMG/NANNHAN/Canada_Kamloops_Indian_ResSch_BC.jpg"
 ---
 
-<p align="center"><a href="https://www.sachhiem.net/">
-<img border="0" src="https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nha.jpg"></a> 
+<p align="center"> 
 07-07-2021</p>
  <div class="tomluoc">
-   <p> <i>LTS: <a href="https://sachhiem.net//SACHNGOAI/SH/SH41_Gravesfound.php">Lần trước,</a> chúng tôi có 1 bài đăng về 2 vụ khai quật các xác chết không mồ dưới lòng đất ở vài trường nội trú dành cho các em thổ dân Canada. Ngay sau đó vài ngày, đã có thêm 1 vụ phát hiện thứ ba. Trang nhà tham khảo các bài tường thuật đã cập nhật cả ba vụ khám phá bi đát này, và xin tóm lược vài nét căn bản hầu bạn đọc. </i>(SH)</p>
+   <p> <i>LTS: <a href="//SACHNGOAI/SH/SH41_Gravesfound.php">Lần trước,</a> chúng tôi có 1 bài đăng về 2 vụ khai quật các xác chết không mồ dưới lòng đất ở vài trường nội trú dành cho các em thổ dân Canada. Ngay sau đó vài ngày, đã có thêm 1 vụ phát hiện thứ ba. Trang nhà tham khảo các bài tường thuật đã cập nhật cả ba vụ khám phá bi đát này, và xin tóm lược vài nét căn bản hầu bạn đọc. </i>(SH)</p>
  </div>
 <p><span class="First">C</span>hỉ trong vòng hơn 1 tháng, công luận Canada ba lần bị chấn động sau các vụ phát hiện hàng ngàn bộ hài cốt và ngôi mộ, đa phần là của trẻ em, gần những nơi trước đây từng là các trường nội trú cho trẻ em bản địa.</p>
 <p align="center"><img src="https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/TONGIAO/IMG/NANNHAN/Canada_Kamloops_Indian_ResSch_BC.jpg" width="500" height="281" alt=""></p>
@@ -58,8 +57,8 @@ image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nha.jpg"
 <p>3- 182 unmarked graves discovered near St Eugene’s Mission, residential school in B.C.'s Interior, First Nation says,<a href="https://www.cbc.ca/news/canada/british-columbia/bc-remains-residential-school-interior-1.6085990"> (cbc.ca, Jun 30, 2021</a>)</p>
 <p>_________________</p>
 <p><b>Những bài cùng chủ đề:</b></p>
-<p>- <a href="https://sachhiem.net/LTX/LythaiTG30.php">Những Bóng Ma Trong Nhà Trẻ St. Joseph của Công Giáo La Mã, Chúng Tôi Đã Nhìn Thấy Các Nữ Tu Giết Trẻ Em</a>; Lý Thái Xuân 09-May-2021</p>
-<p>- <a href="https://sachhiem.net/SACHNGOAI/SH/SH41_Gravesfound.php">Phát Hiện Hàng Trăm Ngôi Mộ Không Tên Khác Tại Trường Nội Trú Ở Canada</a> - SH 29-Jun-2021</p>
-<p>- <a href="https://sachhiem.net/SACHNGOAI/SH/SH41a_DietChung.php">Chờ Đến Những Phát Hiện Bi Thương Mới Biết Diệt Chủng Văn Hóa Là Tội Ác Như Thế Nào!</a> - SH 7-July-2021</p>
-<p>- <a href="https://sachhiem.net/TONGIAO/FB/FBDuNguyen03.php">Tấm Ảnh Được Giải Thưởng "World Press Photo" Của Năm 2022 - Cảnh Tưởng Niệm Những Đứa Trẻ Bị Hại Tại Các Trường Nội Trú CGLM</a> Du Nguyên - 30-Jul-2022</p>
-<p>- <a href="https://sachhiem.net/LTX/LythaiTG35.php">Chuyến Đi Xin Lỗi Thổ Dân ở Canada Của Giáo Hoàng Francis - Các trường nội trú của Canada là một hệ thống "diệt chủng văn hóa"</a> Lý Thái Xuân 27-Jul-2022</p>
+<p>- <a href="/LTX/LythaiTG30">Những Bóng Ma Trong Nhà Trẻ St. Joseph của Công Giáo La Mã, Chúng Tôi Đã Nhìn Thấy Các Nữ Tu Giết Trẻ Em</a>; Lý Thái Xuân 09-May-2021</p>
+<p>- <a href="/SACHNGOAI/SH/SH41_Gravesfound">Phát Hiện Hàng Trăm Ngôi Mộ Không Tên Khác Tại Trường Nội Trú Ở Canada</a> - SH 29-Jun-2021</p>
+<p>- <a href="/SACHNGOAI/SH/SH41a_DietChung">Chờ Đến Những Phát Hiện Bi Thương Mới Biết Diệt Chủng Văn Hóa Là Tội Ác Như Thế Nào!</a> - SH 7-July-2021</p>
+<p>- <a href="/TONGIAO/FB/FBDuNguyen03">Tấm Ảnh Được Giải Thưởng "World Press Photo" Của Năm 2022 - Cảnh Tưởng Niệm Những Đứa Trẻ Bị Hại Tại Các Trường Nội Trú CGLM</a> Du Nguyên - 30-Jul-2022</p>
+<p>- <a href="/LTX/LythaiTG35">Chuyến Đi Xin Lỗi Thổ Dân ở Canada Của Giáo Hoàng Francis - Các trường nội trú của Canada là một hệ thống "diệt chủng văn hóa"</a> Lý Thái Xuân 27-Jul-2022</p>

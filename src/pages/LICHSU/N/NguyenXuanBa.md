@@ -3,7 +3,7 @@ layout: ../../../layouts/Article.astro
 title: "Từ Góc Nhìn Của Học Giả Hoàng Xuân Hãn"
 author: "Nguyễn Xuân Ba"
 date: 2015-03-31
-source: "https://sachhiem.net/LICHSU/N/NguyenXuanBa.php"
+source: "/LICHSU/N/NguyenXuanBa"
 category: "Chính trị"
 lang: vi
 wordCount: 5015

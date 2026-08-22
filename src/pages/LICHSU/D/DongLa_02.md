@@ -3,7 +3,7 @@ layout: ../../../layouts/Article.astro
 title: "Đại Công Của Lê Văn Duyệt Giúp Nguyễn Ánh “Thống Nhất Đất Nước”?"
 author: "Đông La"
 date: 2024-09-23
-source: "https://sachhiem.net/LICHSU/D/DongLa_02.php"
+source: "/LICHSU/D/DongLa_02"
 category: "Chính trị"
 lang: vi
 wordCount: 1697

@@ -3,7 +3,7 @@ layout: ../../../layouts/Article.astro
 title: "\"Hải chiến Hoàng Sa\": Thêm một ý kiến khẳng định cấp chỉ huy bất tài và hèn nhát"
 author: "GGtienlang/LÊ HƯƠNG LAN tổng kết"
 date: 2013-10-18
-source: "https://sachhiem.net/LICHSU/H/HaichienHS_GGtienlang.php"
+source: "/LICHSU/H/HaichienHS_GGtienlang"
 category: "Lịch sử"
 lang: vi
 wordCount: 24747

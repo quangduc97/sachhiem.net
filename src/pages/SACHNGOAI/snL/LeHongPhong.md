@@ -2,13 +2,13 @@
 layout: ../../../layouts/Article.astro
 title: "Chuyện Hoang Đường Vụ Thảm Sát Ở Huế 68"
 author: "By Noam Chomsky and Edward S. Herman"
-source: "https://sachhiem.net/SACHNGOAI/snL/LeHongPhong.php"
+source: "/SACHNGOAI/snL/LeHongPhong"
 lang: vi
 wordCount: 5608
-image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nha.jpg"
+image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/SACHNGOAI/Hinhanh/PEOPLE/NoamChomsky.jpg"
 ---
 
-<table border="0" cellpadding="1" align="center" width="250">  <tbody><tr> <td width="100"><a href="/index"><img border="0" src="https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nha.jpg"></a></td> <td valign="top" style="text-align:right"> 18 tháng 2, 2008 </td> </tr> </tbody></table> <p class="tomluoc">Cả hai bản báo cáo của Saigon và   của Pike đã gây nên một sự nghi ngờ về cơ bản của nguồn tin, về giọng điệu   và vai trò của chúng trong một chiến dịch tuyên truyền  mở rộng nhằm làm   giảm đi ảnh hưởng của vụ thảm sát Mỹ Lai.</p>
+<table border="0" cellpadding="1" align="center" width="250">  <tbody><tr> <td width="100"></td> <td valign="top" style="text-align:right"> 18 tháng 2, 2008 </td> </tr> </tbody></table> <p class="tomluoc">Cả hai bản báo cáo của Saigon và   của Pike đã gây nên một sự nghi ngờ về cơ bản của nguồn tin, về giọng điệu   và vai trò của chúng trong một chiến dịch tuyên truyền  mở rộng nhằm làm   giảm đi ảnh hưởng của vụ thảm sát Mỹ Lai.</p>
    
    <p style="text-align: center">Tài liệu “Kinh tế chính trị về nhân quyền. (Tập I)</p> 
    <p align="center"> của Noam Chomsky và Edwards S. Herman</p> <p align="center">(xem bản Anh ngữ ở dưới)</p> <p style="text-align: center"><img border="0" src="https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/SACHNGOAI/Hinhanh/PEOPLE/NoamChomsky.jpg" alt="Noam Chomsky"> &nbsp; <img border="0" src="https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/SACHNGOAI/Hinhanh/PEOPLE/EdHerman.gif" height="185" alt="Edward S. Herman " width="125"></p>  <p> <span class="First">L</span>ời khẳng định thiết yếu về cuộc thảm sát ở Huế, khi   chúng tôi nói về <b><i>“cuộc tắm máu huyền thoại”</i>,</b> chúng tôi   không hàm ý là không có sự giết chóc nào đã xẩy ra. Sự thật nó đã xẩy ra   trên một quy mô đáng kể. Nhưng đối với chúng tôi những bằng chứng có tính   cách thuyết phục thì thấy rằng hình như cốt lõi của sự thật đã <b><i>bị méo   mó</i></b>, bị mô tả một cách <b><i>sai lệch, bị thổi phồng, bị tô vẽ</i></b> với những điều <b><i>bịa đặt</i></b> nhằm mục đích <b><i>tuyên truyền</i></b>.   </p>

@@ -2,14 +2,14 @@
 layout: ../../../layouts/Article.astro
 title: "Mode Chơi “Phạm Thánh”"
 author: "Nguyễn Trí Cảm"
-source: "https://sachhiem.net/TONGIAO/NGTRCAM/NguyenTriCam20.php"
+source: "/TONGIAO/NGTRCAM/NguyenTriCam20"
 category: "Tác giả"
 lang: vi
 wordCount: 1649
-image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nha.jpg"
+image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/TONGIAO/IMG/JESUS/Thaptu_yenxe.jpg"
 ---
 
-<p align="center"><a href="https://sachhiem.net/index.php"><img hspace="20" border="0" src="https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nha.jpg"></a>  18 tháng 7, 2010	</p>
+<p align="center">  18 tháng 7, 2010	</p>
 			<p><span class="First">T</span>hập tự giá hay cây thập ác là biểu tượng 
 			thiêng liêng của tín đồ Thiên chúa giáo. Nguồn gốc xuất phát của cây 
 			thập tự giá này không phải của người Thiên chúa giáo lập nên mà nó 

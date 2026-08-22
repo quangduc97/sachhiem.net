@@ -2,7 +2,7 @@
 layout: ../../../layouts/Article.astro
 title: "Tổng Thống ra lệnh giải mật nhiều hồ sơ"
 author: "Tin TNT"
-source: "https://sachhiem.net/null"
+source: "/null"
 category: "Chính trị"
 lang: vi
 wordCount: 834

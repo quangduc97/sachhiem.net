@@ -2,14 +2,14 @@
 layout: ../../layouts/Article.astro
 title: "Thượng Đế Hữu Tình Hay Vô Tình?"
 author: "Trần Tiên Long"
-source: "https://sachhiem.net/TTL/TranTL06.php"
+source: "/TTL/TranTL06"
 category: "Tác giả"
 lang: vi
 wordCount: 5709
-image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nha.jpg"
+image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/KHOAHOC/IMG/ASTRO/eskimo3_hst.jpg"
 ---
 
-<p align="center"><a href="/index"><img hspace="20" border="0" src="https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nha.jpg"></a>   08 tháng 3, 2011</p>
+<p align="center">   08 tháng 3, 2011</p>
 		
 		<p><i>LTS: Để đơn giản hóa những bài mang tính triết học, diễn đạt đầy những từ ngữ trừu tượng, diễn nghĩa phức tạp, chúng ta có thể nói về hai khái niệm: Thiên Chúa và ông trời.  Người Thiên Chúa Giáo (TCG) luôn cố tình cho đồng nghĩa hai từ "trời" và "Thượng Đế", và nhập nhằng hai khái niệm "Thượng Đế"  và "Thiên Chúa". Nhưng người không tin Chúa thường phân biệt hai khái niệm: "<span lang="en-us">ông 
 		trời</span>" và ông "Chúa", và "xí xóa" nếu ai dùng chữ "Thượng Đế" mà người TCG thích dùng thay cho "ông trời". Mỗi người đều có một "thượng đế" trong lòng, có khi đó chỉ là một người yêu,  còn Chúa là... một nhân vật khác. Trong xã hội không thờ Chúa ở Á Đông từ trước đến nay, ai muốn hiểu "ông Trời" của họ như thế nào cũng được, chẳng ai đặt vấn đề lớn lao gì cả. Con cóc cũng được vai vế hơn ông trời. Nhưng tại sao trong xã hội TCG, hầu hết những người "tin Chúa" đều khó chịu trước những lập luận của những người không tin? Ngày nay, trước sự trỗi dậy của phong trào những người "không tin Chúa", số người không xác nhận căn cước tôn giáo cũng tăng dần. Nhưng những lý luận để bảo vệ khái niệm "Chúa" trong "Thượng Đế"  vẫn còn nhận ra rất "bám" nhờ sự nghiên cứu và phân tích  trong các bài đối thoại có phẩm chất như  dưới đây của bác Trân Tiên Long. Xin mời theo dõi. (SH) </i> </p>
@@ -466,12 +466,12 @@ image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nha.jpg"
 								Hai Lối Chứng Minh Không Có Thượng Đế / 
 								Quentin Smith / Trần Tiên Long dịch</p>
 				<p>Nguồn:
-				<a href="https://www.sachhiem.net/TONGIAO/tgTR/TranTL04.php">https://www.sachhiem.net/TONGIAO/tgTR/TranTL04.php</a></p>
+				<a href="/TONGIAO/tgTR/TranTL04">https://www.sachhiem.net/TONGIAO/tgTR/TranTL04.php</a></p>
 				<p><sup><a name="[5]" href="/TTL/#rel5">[5]</a></sup> 
 								Vấn Đề Chứng Minh Thượng Đế / Trần Tiên 
 								Long</p>
 				<p>Nguồn:
-				<a href="https://www.sachhiem.net/TONGIAO/tgTR/TranTL05.php">https://www.sachhiem.net/TONGIAO/tgTR/TranTL05.php</a></p>
+				<a href="/TONGIAO/tgTR/TranTL05">https://www.sachhiem.net/TONGIAO/tgTR/TranTL05.php</a></p>
 				<p><sup><a name="[6]" href="/TTL/#rel6">[6]</a></sup> 
 								Thần học Tự do-Hiện đại / Trần Tiên Long dịch</p>
 				<p>Nguồn: 

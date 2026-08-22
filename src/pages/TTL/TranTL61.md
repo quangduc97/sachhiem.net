@@ -3,7 +3,7 @@ layout: ../../layouts/Article.astro
 title: "Giữa Quân Hồi Giáo ISIS Với Các Thập Tự Quân Thiên Chúa Giáo"
 author: "Evan Simon / Trần Tiên Long chuyển dịch"
 date: 2015-02-09
-source: "https://sachhiem.net/TTL/TranTL61.php"
+source: "/TTL/TranTL61"
 category: "Lịch sử"
 lang: vi
 wordCount: 876
@@ -33,6 +33,6 @@ image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/TONGIAO/IMG/VATICAN/
  <p class="TacgiaL">của Evan Simon</p>
  <p class="nguonL">Nguồn: https://gma.yahoo.com/historians-weigh-obamas-comparison-isis-militants-medieval-christian-233947247.html</p>
 <hr>
-<p><a href="https://sachhiem.net/TTL/List.inc.php">Các bài của Trần Tiên Long » </a></p>
+<p><a href="/TTL/List.inc">Các bài của Trần Tiên Long » </a></p>
 
 <hr>

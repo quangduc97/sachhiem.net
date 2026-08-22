@@ -2,7 +2,7 @@
 layout: ../../../layouts/Article.astro
 title: "CÂU CHUYỆN HÀNG TUẦN:"
 author: "Huỳnh Bất Hoặc"
-source: "https://sachhiem.net/null"
+source: "/null"
 lang: vi
 wordCount: 2982
 ---

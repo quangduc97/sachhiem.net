@@ -2,17 +2,17 @@
 layout: ../../../layouts/Article.astro
 title: "Công văn Ủy Ban Nhân Dân Hà Nội gửỉ"
 author: "Nguyễn Xuân Thọ"
-source: "https://sachhiem.net/TONGIAO/TOAKHAM/.php"
+source: "/TONGIAO/TOAKHAM/"
 category: "Tác giả"
 lang: vi
 wordCount: 1631
-image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nha.jpg"
+image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/TONGIAO/IMG/Toakham/NgoThiThanhHang.jpg"
 ---
 
 <p class="Tuaduoi">Chủ Tịch Hội Đồng Giám Mục Việt Nam và Tòa Giám Mục Hà Nội  </p>
 		
  
-<p align="center"><a href="https://sachhiem.net/index.php"><img border="0" hspace="20" src="https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nha.jpg"></a>18 tháng 1, 2008</p>
+<p align="center">18 tháng 1, 2008</p>
 
 <p class="MUC">Công văn Ủy Ban Nhân Dân Hà Nội gửỉ Chủ Tịch Hội Đồng Giám 
 Mục Việt Nam và Tòa Giám Mục Hà Nội </p>

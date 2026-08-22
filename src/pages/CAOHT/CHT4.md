@@ -3,7 +3,7 @@ layout: ../../layouts/Article.astro
 title: "PHÁP NẠN 1963:"
 author: "Cao Huy Thuần"
 date: 2013-05-25
-source: "https://sachhiem.net/CAOHT/CHT4.php"
+source: "/CAOHT/CHT4"
 category: "Tác giả"
 lang: vi
 wordCount: 2926

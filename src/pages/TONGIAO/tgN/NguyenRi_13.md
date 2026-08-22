@@ -3,7 +3,7 @@ layout: ../../../layouts/Article.astro
 title: "Thượng Đế Ở Vị Thế Chỉ Mành Treo Chuông"
 author: "PAUL ROSENBERG /Salon"
 date: 2015-01-13
-source: "https://sachhiem.net/TONGIAO/tgN/NguyenRi_13.php"
+source: "/TONGIAO/tgN/NguyenRi_13"
 category: "Khoa học"
 lang: vi
 wordCount: 3143
@@ -63,4 +63,4 @@ image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/KHOAHOC/IMG/CharlesD
 
 
 __________________
- <p>Các bài của Nguyễn Ri: link <a href="https://sachhiem.net/TONGIAO/tgN/ListRiNguyen.inc.php" target="_blank">https://sachhiem.net/TONGIAO/tgN/ListRiNguyen.inc.php</a></p>
+ <p>Các bài của Nguyễn Ri: link <a href="/TONGIAO/tgN/ListRiNguyen.inc" target="_blank">https://sachhiem.net/TONGIAO/tgN/ListRiNguyen.inc.php</a></p>

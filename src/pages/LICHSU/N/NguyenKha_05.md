@@ -3,7 +3,7 @@ layout: ../../../layouts/Article.astro
 title: "Thống Chế Galliéni Và Trí Thức Công Giáo Việt Nam"
 author: "Nguyễn Kha"
 date: 2018-11-22
-source: "https://sachhiem.net/LICHSU/N/NguyenKha_05.php"
+source: "/LICHSU/N/NguyenKha_05"
 category: "Lịch sử"
 lang: vi
 wordCount: 1953
@@ -13,7 +13,7 @@ image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/LICHSU/IMG/FRANCE/Th
 <div class="tomluoc">
   <p>Bí quyết của một chính sách bình định thuộc địa của Thống Chế Galliéni: <i>"Hãy dùng những lời khuyên xảo trá và những lời nói bịp bợm để đập vào đám cầm đầu và trấn an đám dân lạc lối bằng những lời khuyên nhủ hào nhoáng và bằng những lời khẳng định bịa đặt, tất cả bí quyết của một chính sách bình định đều nằm trong hai thuật ngữ đó</i>"</p>
   <p>Trước Thống Chế Galliéni, Giám Mục Puginier ở Việt Nam (1866, 1868 - 1892) cũng đã nhất định theo con đường:  Xâm lược, đô hộ, 
-    đồng hóa, để bảo đảm cho nước Pháp và đạo Thiên Chúa một tương lai tươi sáng,  (<a href="https://sachhiem.net/CAOHT/CHTDaoTC_011.php">III - Kế Hoạch Của Giám Mục Puginier</a>). Mục đích của chính sách xâm lược và sức mạnh <i>để cho, sau rốt, tín đồ Thiên 
+    đồng hóa, để bảo đảm cho nước Pháp và đạo Thiên Chúa một tương lai tươi sáng,  (<a href="/CAOHT/CHTDaoTC_011">III - Kế Hoạch Của Giám Mục Puginier</a>). Mục đích của chính sách xâm lược và sức mạnh <i>để cho, sau rốt, tín đồ Thiên 
 	Chúa Giáo sẽ giữ một vai trò trọng yếu trong đời sống chính trị, hành chánh 
 	và quân sự ở Bắc Kỳ</i>. Các sách báo, văn thư, tin tức, điều trần của ông giám mục nầy đều nhằm mục đích nhất định: <i>Chứng minh cho giới chức Pháp thấy rằng, ngoài tín đồ thiên Chúa giáo ra, tất cả đều là kẻ thù.</i></p> 
 </div>

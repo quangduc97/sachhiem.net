@@ -2,15 +2,15 @@
 layout: ../../../layouts/Article.astro
 title: "Chín hầm địa ngục trần gian thời Ngô Đình Diệm"
 author: "Ngô Diệp"
-source: "https://sachhiem.net/LICHSU/N/NgoDiep.php"
+source: "/LICHSU/N/NgoDiep"
 category: "Lịch sử"
 lang: vi
 wordCount: 1171
-image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nha.jpg"
+image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/LICHSU/IMG/ChinHam.jpg"
 ---
 
 <table border="0" cellpadding="1" align="center" width="250">
-        <tbody><tr><td width="100"><a href="/index"><img border="0" src="https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nha.jpg"></a></td>
+        <tbody><tr><td width="100"></td>
 			<td valign="top" width="194">26 tháng 6, 2009
 	</td></tr>
 	</tbody></table>

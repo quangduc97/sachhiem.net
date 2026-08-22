@@ -1,7 +1,7 @@
 ---
 layout: ../../../layouts/Article.astro
 title: "Khoa học (Nguyễn văn Tuấn)"
-source: "https://sachhiem.net/null"
+source: "/null"
 lang: vi
 wordCount: 114
 ---

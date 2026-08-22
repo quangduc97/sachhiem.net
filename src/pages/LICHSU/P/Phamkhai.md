@@ -3,7 +3,7 @@ layout: ../../../layouts/Article.astro
 title: "Harriman là ai?"
 author: "Phạm Khải"
 date: 2013-12-08
-source: "https://sachhiem.net/LICHSU/P/Phamkhai.php"
+source: "/LICHSU/P/Phamkhai"
 category: "Tác giả"
 lang: vi
 wordCount: 1905

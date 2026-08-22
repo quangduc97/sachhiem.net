@@ -3,7 +3,7 @@ layout: ../../../layouts/Article.astro
 title: "Vatican Lại Muốn Gây Khó Dễ Cho Việt Nam"
 author: "Nguyễn Trí Cảm"
 date: 2012-03-31
-source: "https://sachhiem.net/TONGIAO/NGTRCAM/NguyenTriCam27.php"
+source: "/TONGIAO/NGTRCAM/NguyenTriCam27"
 category: "Tác giả"
 lang: vi
 wordCount: 3407
@@ -48,7 +48,7 @@ image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/TONGIAO/IMG/VATICAN/
   của&nbsp; NED, một tổ chức tài trợ trá hình dưới danh nghĩa tài trợ cho các nhà
   hoạt động đấu tranh cho dân chủ, nhân quyền, để phá hoại Phật giáo. Để tiện
   tìm hiểu thêm, bạn đọc có thể đọc trên trang nhà Sách Hiếm:</p>
-<p><a href="https://www.sachhiem.net/TCN/TCNtg/TCN30.php">https://www.sachhiem.net/TCN/TCNtg/TCN30.php</a></p>
+<p><a href="/TCN/TCNtg/TCN30">https://www.sachhiem.net/TCN/TCNtg/TCN30.php</a></p>
 <p>Rồi vụ đình đám xin chữ ký cộng đồng để trình Thỉnh Nguyện Thư lên Tổng
   thống Obama và khoác lác đánh lừa dư luận là Tổng thống Obama “xin” được gặp
   nhóm đại diện đến trình thỉnh nguyện thư v.v.. Trên thực tế chỉ có vài viên

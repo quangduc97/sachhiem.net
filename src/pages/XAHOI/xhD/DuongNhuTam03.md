@@ -3,7 +3,7 @@ layout: ../../../layouts/Article.astro
 title: "Âm Lịch : Ngày Cuối Năm Thấm Thía !"
 author: "G.Đ. Dương Như Tâm"
 date: 2015-02-04
-source: "https://sachhiem.net/XAHOI/xhD/DuongNhuTam03.php"
+source: "/XAHOI/xhD/DuongNhuTam03"
 category: "Xã hội"
 lang: vi
 wordCount: 1817

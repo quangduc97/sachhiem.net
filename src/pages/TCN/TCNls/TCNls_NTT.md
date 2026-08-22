@@ -2,7 +2,7 @@
 layout: ../../../layouts/Article.astro
 title: "XÉT LẠI HUYỀN THOẠI NGUYỄN TRƯỜNG TỘ"
 author: "Trần Chung Ngọc"
-source: "https://sachhiem.net/TCN/TCNls/TCNls_NTT.php"
+source: "/TCN/TCNls/TCNls_NTT"
 lang: vi
 wordCount: 29063
 image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/print.gif"
@@ -2455,7 +2455,7 @@ image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/print.gif"
 		</i></b>Nhiều Tác Giả, Houston, 1998. </p>
 		<hr>
 		<p><span class="First">M</span>ời đọc bài khác về NTT của Trần Chung Ngọc</p>
-		<p>- <a href="https://sachhiem.net/TCN/TCNls/TCNls13_NTT.php">Lại Vẫn Là Huyền Thoại “Nguyễn Trường Tộ”</a></p>
-		<p>- <a href="https://sachhiem.net/TCN/TCNls/TCNls03_NTT.php">Nguyễn Trường
+		<p>- <a href="/TCN/TCNls/TCNls13_NTT">Lại Vẫn Là Huyền Thoại “Nguyễn Trường Tộ”</a></p>
+		<p>- <a href="/TCN/TCNls/TCNls03_NTT">Nguyễn Trường
 		    Tộ - Từ Huyền Thoại Đến Thực Chất </a></p>
 		<hr>

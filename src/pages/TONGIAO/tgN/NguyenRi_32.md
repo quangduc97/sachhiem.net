@@ -3,7 +3,7 @@ layout: ../../../layouts/Article.astro
 title: "Chỉ số ít Người Mỹ tin rằng Kinh Thánh là lời nói chính thức của Thượng Đế"
 author: "Antonia Blumberg/ The Huffington"
 date: 2017-05-16
-source: "https://sachhiem.net/TONGIAO/tgN/NguyenRi_32.php"
+source: "/TONGIAO/tgN/NguyenRi_32"
 category: "Tác giả"
 lang: vi
 wordCount: 922
@@ -40,4 +40,4 @@ image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/TONGIAO/IMG/SACH/Kin
 <p>_____________________</p>
   <p>Các bài của Nguyễn Ri: link</p>
 <p>
-<a href="https://sachhiem.net/TONGIAO/tgN/ListRiNguyen.inc.php" target="_blank">https://sachhiem.net/TONGIAO/tgN/ListRiNguyen.inc.php</a></p>
+<a href="/TONGIAO/tgN/ListRiNguyen.inc" target="_blank">https://sachhiem.net/TONGIAO/tgN/ListRiNguyen.inc.php</a></p>

@@ -3,7 +3,7 @@ layout: ../../../layouts/Article.astro
 title: "Bí Mật Ngũ Giác Đài Phần I- Hoa Kỳ và Việt Nam 1940- 1950"
 author: "Nguyễn Quốc Vĩ"
 date: 2014-02-23
-source: "https://sachhiem.net/SACHNGOAI/snN/NguyenQuocVi_02.php"
+source: "/SACHNGOAI/snN/NguyenQuocVi_02"
 category: "Tác giả"
 lang: vi
 wordCount: 8579

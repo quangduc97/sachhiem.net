@@ -3,7 +3,7 @@ layout: ../../../layouts/Article.astro
 title: "Điện Văn 274: Chiến Dịch Tấn Công Chùa"
 author: "Nguyên Giác dịch"
 date: 2013-06-31
-source: "https://sachhiem.net/SACHNGOAI/snN/Nguyengiac_Tel274.php"
+source: "/SACHNGOAI/snN/Nguyengiac_Tel274"
 category: "Lịch sử"
 lang: vi
 wordCount: 1282

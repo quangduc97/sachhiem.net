@@ -3,14 +3,14 @@ layout: ../../../layouts/Article.astro
 title: "Cô Gái Tuyên Bố Chúa Giêsu Là Cha Của Đứa Bé Trong Bụng"
 author: "Worldnewsdailyreport"
 date: 2016-09-29
-source: "https://sachhiem.net/TONGIAO/tgT/Tinworldnews.php"
+source: "/TONGIAO/tgT/Tinworldnews"
 category: "Tác giả"
 lang: vi
 wordCount: 1116
-image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nha.jpg"
+image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/TONGIAO/IMG/METIN/Dongtrinh_Cincinnati_Jesus2.jpg"
 ---
 
-<p align="center"><a href="https://www.sachhiem.net/"> <img border="0" src="https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nha.jpg"></a> ngày 29-Sep-2016 </p>
+<p align="center"> ngày 29-Sep-2016 </p>
   <div class="tomluoc">
     <p><i>LTS: Tính ra cho đến nay cô gái Smith-Nabengana có lẽ đã khai hoa nở nhụy rồi thì phải (có hơn 14 tháng từ ngày cô được một Nephilim ủ), trừ khi cô vẫn còn mang. Nhưng sau khi tin dưới đây được đăng tới đăng lui ở các báo, vẫn chưa thấy tin nào mới hơn nữa. Mặc dù chúng tôi không nghĩ là sẽ có tin tức gì về phép lạ của "Chúa Cháu Nội" (Con của Chúa Con!), nhưng vẫn mong được đọc thêm một tin nào đó nữa về  "Mẹ Đồng Trinh" thế kỷ 21 này. (SH)</i></p>
   </div>

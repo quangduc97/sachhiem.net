@@ -3,7 +3,7 @@ layout: ../../../layouts/Article.astro
 title: "Dòng Họ Nhà Chúa Loạn Luân"
 author: "Lê Phát Đạt"
 date: 2026-05-25
-source: "https://sachhiem.net/TONGIAO/FB/FBLePhatDat04.php"
+source: "/TONGIAO/FB/FBLePhatDat04"
 category: "Chính trị"
 lang: vi
 wordCount: 309

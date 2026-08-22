@@ -2,11 +2,11 @@
 layout: ../../../layouts/Article.astro
 title: "THẬP GIÁ VÀ LƯỠI GƯƠM"
 author: "Linh Mục Trần Tam Tỉnh"
-source: "https://sachhiem.net/bản điện tử của sachhiem.net (KT đánh máy)"
+source: "/bản điện tử của sachhiem.net (KT đánh máy)"
 category: "Tác giả"
 lang: vi
 wordCount: 7003
-image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nha.jpg"
+image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/print.gif"
 ---
 
 <div align="center">
@@ -29,8 +29,7 @@ image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nha.jpg"
 <div style="border:0px solid #DEDFE4; padding-left: 50px; padding-right: 50px">
 <table border="0" cellpadding="0" width="600" cols="2" align="center"><tbody><tr>
 				<td width="160">
-				 <a href="/index">
-<img border="0" src="https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nha.jpg"></a> </td>
+				  </td>
 	<td valign="top">	<b><font face="Symbol" size="5">
 	<a target="_top" href="/TONGIAO/TranTamTinhCover">¿</a></font></b> trở ra mục lục
 	</td>

@@ -3,7 +3,7 @@ layout: ../../layouts/Article.astro
 title: "Xin Đừng Lừa Chúng Tôi"
 author: "Trần Tiên Long"
 date: 2012-06-19
-source: "https://sachhiem.net/TTL/TranTL22.php"
+source: "/TTL/TranTL22"
 category: "Tác giả"
 lang: vi
 wordCount: 2438

@@ -3,7 +3,7 @@ layout: ../../../layouts/Article.astro
 title: "Câu Chuyện “Coi Như Chết Rồi\" Của Anh Hùng Tình Báo Tư Cang"
 author: "Nguyễn Quang Chánh"
 date: 2023-01-12
-source: "https://sachhiem.net/LICHSU/N/NguyenQuangChanh04.php"
+source: "/LICHSU/N/NguyenQuangChanh04"
 category: "Chính trị"
 lang: vi
 wordCount: 1604

@@ -3,7 +3,7 @@ layout: ../../../layouts/Article.astro
 title: "Tôi Đọc Lữ Giang: “Đi Vào Con Đường Cùng”"
 author: "Trần Quang Diệu"
 date: 2014-02-11
-source: "https://sachhiem.net/LICHSU/TR/TQD35_Lugiang.php"
+source: "/LICHSU/TR/TQD35_Lugiang"
 category: "Đối thoại"
 lang: vi
 wordCount: 23074
@@ -22,8 +22,8 @@ Lữ  Giang<br>
 <p>Thật không gì bỉ ổi cho bằng câu viết như thế  của Lữ Giang. </p>
 <p>“Thua kém quá xa” điều gì? &nbsp;&nbsp;Phải, Giao  Điểm nếu “biết rất ít về những điều cuồng tín trong Thiên Chúa giáo”. Và Lữ  Giang là người “biết rất nhiều” về những điều cuồng tín, những lời dạy man rợ,  độc ác, loạn luân, phá hoại nền hòa bình và cuộc sống bình yên trong nhân loại  v.v…như chính Kinh Thánh đã từng “dạy” (Lữ Giang có cần chứng minh?). Tiếp theo  là những cuộc Thập Tự chinh tàn sát sinh linh cách vô tội vạ, những tòa hình án  “xử dị giáo” thô bạo, những cuộc tra tấn rợn người v.v… </p>
 <p>Thế mà Lữ Giang dám huênh hoang lên mặt nổ sảng. Những ai là kẻ sẽ “đi vào con đường cùng” chứ hả?</p>
-<p>Giáo triều Rome Vatican La mã giáo của con chiên  Lữ Giang, cái ổ chính trị, loạn luân, dâm đãng, tài phiệt núp dưới chiêu bài  tôn giáo một thời làm mưa làm gió hoành hành bằng lưỡi gươm, vó ngựa, họng  súng, nhà tù, giàn hỏa thiêu sống nạn nhân, mua bán nô lệ Phi Châu, vướng tội  diệt chủng nhân loại v.v… đã bị thời đại văn minh giật ra khỏi bàn tay vô đạo,  gây ra vô vàn tội ác. Buộc lòng lắm, Giáo hoàng phải dọn mình xin lỗi và, người ta còn tức giận, lên tiếng đòi hỏi “hãy mang Giáo hoàng ra trước công lý” <a href="https://sachhiem.net/TONGIAO/tgT/TinNewsWeek.php" target="_blank">https://sachhiem.net/TONGIAO/tgT/TinNewsWeek.php</a>! </p>
-<p>Cho đến thời gian mới đây Ủy hội Nhân quyền Liên  Hiệp quốc cũng nổi cơn thịnh nộ buộc Vatican phải trả lời về những hành vi bao  che cho các “Chúa ngôi hai” xâm phạm tình dục trẻ vị thành niên ở khắp mọi nơi  trên thế giới <a href="https://www.sachhiem.net/index.php?content=showrecipe&amp;id=5880" target="_blank">https://www.sachhiem.net/index.php?content=showrecipe&amp;id=5880</a>?</p>
+<p>Giáo triều Rome Vatican La mã giáo của con chiên  Lữ Giang, cái ổ chính trị, loạn luân, dâm đãng, tài phiệt núp dưới chiêu bài  tôn giáo một thời làm mưa làm gió hoành hành bằng lưỡi gươm, vó ngựa, họng  súng, nhà tù, giàn hỏa thiêu sống nạn nhân, mua bán nô lệ Phi Châu, vướng tội  diệt chủng nhân loại v.v… đã bị thời đại văn minh giật ra khỏi bàn tay vô đạo,  gây ra vô vàn tội ác. Buộc lòng lắm, Giáo hoàng phải dọn mình xin lỗi và, người ta còn tức giận, lên tiếng đòi hỏi “hãy mang Giáo hoàng ra trước công lý” <a href="/TONGIAO/tgT/TinNewsWeek" target="_blank">https://sachhiem.net/TONGIAO/tgT/TinNewsWeek.php</a>! </p>
+<p>Cho đến thời gian mới đây Ủy hội Nhân quyền Liên  Hiệp quốc cũng nổi cơn thịnh nộ buộc Vatican phải trả lời về những hành vi bao  che cho các “Chúa ngôi hai” xâm phạm tình dục trẻ vị thành niên ở khắp mọi nơi  trên thế giới <a href="/TONGIAO/tgT/TinBBC5" target="_blank">https://www.sachhiem.net/index.php?content=showrecipe&amp;id=5880</a>?</p>
 <p>Thưa ông Lữ Giang, 
  những cái đó mới là dấu hiệu cho thấy một giáo  triều đã từng làm mưa làm gió với con người và hiện đang bị con người vạch mặt  đạo đức giả, xô cho “đi vào con đường cùng”. Nhưng Lữ Giang thì bị bẽ mặt nên  đâu dám nghĩ hay nói tới?</p>
 <p>  Lữ Giang nói "<i><b>Giao Điểm là một nhóm biết rất ít về Thiên  Chúa giáo nhưng thích phê  bình và xuyên tạc vì mặc cảm thua kém quá xa.”</b></i> là nói bậy và hết sức hồ đồ!</p>
@@ -32,7 +32,7 @@ Lữ  Giang<br>
 <p>Lữ Giang kết luận hồ đồ đã chứng tỏ cho  thấy Lữ Giang là con người bất cố liêm sỉ, là xem thường độc giả! Tại sao?</p>
 <p>Tại vì, nếu Lữ Giang muốn nói đến những sách,  những thiên khảo cứu, những bài viết, những bản dịch, những tài liệu, hình ảnh  v.v… nói về Thiên Chúa giáo mà bảo rằng chỉ có “một nhóm” Giao Điểm là hoàn  toàn sai!</p>
 <p>Nó gồm hàng trăm, hàng nghìn, hàng vạn những sự  kiện vạch mặt cùng những tiếng kêu than trầm thống về những nỗi khổ đau do  Vatican đã gây ra cho họ mà hàng núi những tài liệu lẫn vô số các thư viện, nhà  sách đã in ấn, phát hành, phổ biến chứ đâu riêng gì “nhóm Giao Điểm” với những  cây viết người Việt Nam? </p>
-<p>Lữ Giang có thể kiểm chứng phần nào tại đây, do  GS Trần Chung Ngọc chỉ dẫn: <a href="https://www.sachhiem.net/TCN/TCNls/TCNls09.php" target="_blank">https://www.sachhiem.net/TCN/TCNls/TCNls09.php</a>! </p>
+<p>Lữ Giang có thể kiểm chứng phần nào tại đây, do  GS Trần Chung Ngọc chỉ dẫn: <a href="/TCN/TCNls/TCNls09" target="_blank">https://www.sachhiem.net/TCN/TCNls/TCNls09.php</a>! </p>
 <p>Hẳn độc giả ai cũng thấy rằng, những tác giả của  Giao Điểm, họ có quyền làm những công việc mà thời Trung cổ bị cấm, bị giết.  Thời Ngô Đình Diệm ở Việt Nam rất dễ trở thành nạn nhân bị công an mật vụ bắt  cóc thủ tiêu, nếu những ai dám phê bình Kinh Thánh, phê bình Vatican, khoan nói  đến chuyến “xuyên tạc” mà Lữ Giang đã kết án vô căn, quá đỗi hồ đồ! </p>
 <p>
  Các tác giả Giao Điểm? Những tài liệu, những hồ  sơ, sách, những bài nghị luận, những thiên khảo cứu, cả rừng những bài viết  v.v… thì không chỉ giới hạn là người Việt Nam! Riêng người Việt Nam, họ đã thể  hiện khí phách yêu cầu Vatican, yêu cầu Giáo hoàng phải tôn trọng sự thật bằng  cách họ đã “Đối Thoại Với Giáo Hoàng Gioan-Phao-Lồ II” <a href="https://giaodiemonline.com/2013/09/gioithieusach.htm" target="_blank"> https://giaodiemonline.com/2013/09/gioithieusach.htm </a> chứ con chiên Lữ Giang thì sá gì? </p>
@@ -45,7 +45,7 @@ Lữ  Giang<br>
 <p><b>» Lữ Giang viết:</b> </p>
 <div class="indent50">
  <p>
-  “Sau khi Trần Chung Ngọc qua đời, <a href="https://sachhiem.net/" target="_blank">sachhiem.net</a> đã phổ biến lời chia buồn của một số người thuộc “phe ta”  như đồng chí Chế Trung Hiếu, Trần Tiên Long (Trần Văn Quý), Duyên Sinh, Trần  Quang Diệu, Nguyễn Hữu Ba, Giác Hạnh, Cao Hữu Tâm, Hoàng Thục An, <a href="mailto:lelytran63@aol.com" target="_blank">lelytran63@aol.com</a>… Trong các lời chia buốn này, có một lời đọc lên nghe rất ngố  nghênh, đó là lời chia buồn của một người tự xung là “Tôn Ông Gò Gấp” do bà Đỗ  Thị Thuần phóng đi. Lời chia buồn này bị <a href="https://sachhiem.net/" target="_blank">sachhiem.net</a> “kiểm duyệt” mất một đoạn. Trong phần còn lại có những câu  chính như sau:  </p>
+  “Sau khi Trần Chung Ngọc qua đời, <a href="/" target="_blank">sachhiem.net</a> đã phổ biến lời chia buồn của một số người thuộc “phe ta”  như đồng chí Chế Trung Hiếu, Trần Tiên Long (Trần Văn Quý), Duyên Sinh, Trần  Quang Diệu, Nguyễn Hữu Ba, Giác Hạnh, Cao Hữu Tâm, Hoàng Thục An, <a href="mailto:lelytran63@aol.com" target="_blank">lelytran63@aol.com</a>… Trong các lời chia buốn này, có một lời đọc lên nghe rất ngố  nghênh, đó là lời chia buồn của một người tự xung là “Tôn Ông Gò Gấp” do bà Đỗ  Thị Thuần phóng đi. Lời chia buồn này bị <a href="/" target="_blank">sachhiem.net</a> “kiểm duyệt” mất một đoạn. Trong phần còn lại có những câu  chính như sau:  </p>
  <p>
   “<i>Ông (Trần Chung Ngọc) để lại một tủ sách đồ  sộ, đúng sự thật 100%, thuộc diện “Chứng Nhân Sự Thật về Tôn Giáo Vatican” cho  hậu thế.</i> </p>
  <p>
@@ -54,12 +54,12 @@ Lữ  Giang<br>
 <p>
  <b>Trần Quang Diệu:</b> </p>
 <p>
- <b>1)</b> Một nhà trí thức tầm cỡ như GS Trần Chung Ngọc thì việc có  một Trang Tưởng Niệm nhằm ghi nhớ, tri ân công sức, tim óc mà GS Ngọc đã cống  hiến cho đời, cho dân tộc Việt là chuyện vô cùng bình thường. Nó khác hẳn những  điều tán tụng lố bịch đến mức trơ trẽn như có thiểu số con chiên gốc Việt ca  sảng, tung hê lố bịch rằng Ngô Đình Diệm là “đại anh hùng dân tộc” (sic), trong  khi Ngô Đình Diệm là một gia đình tam đại Việt gian <a href="https://sachhiem.net/BUIKHA/BuiKha.php" target="_blank">https://sachhiem.net/BUIKHA/BuiKha.php</a> mà phụ thân ông ta là Ngô Đình Khả đã từng  dưới quyền tên Việt gian Nguyễn Thân quật mộ vị anh hùng ái quốc Phan Đình  Phùng, đốt thành tro, nhồi vào thuốc súng rồi bắn cho mất tích xuống dòng sông  La  <a href="https://vinhanonline.com/index.php?option=com_content&amp;view=article&amp;id=426:phan-dinh-phung-1847-1895&amp;catid=81&amp;Itemid=198" target="_blank">https://vinhanonline.com/ </a>! Trong khi Trang Tưởng Niệm GS Trần Chung Ngọc,  Lữ Giang lẽ nào không mở mắt để thấy những điều phân ưu chí thiết - xúc động,  những biểu tỏ tâm tư ngưỡng mộ, những tấm lòng biết ơn với cả những tâm hồn luyến  tiếc vì sự ra đi của GS Trần Chung Ngọc mà chúng ta đã thấy ở đây <a href="https://www.sachhiem.net/index.php?content=showrecipe&amp;id=5875" target="_blank">https://www.sachhiem.net/index.php?content=showrecipe&amp;id=5875</a>chứ đâu riêng chỉ vài người như Lữ Giang mỉa mai  nhỏ mọn là “phe ta” cách bất lịch sự đối với người vừa quá cố như thế? </p>
+ <b>1)</b> Một nhà trí thức tầm cỡ như GS Trần Chung Ngọc thì việc có  một Trang Tưởng Niệm nhằm ghi nhớ, tri ân công sức, tim óc mà GS Ngọc đã cống  hiến cho đời, cho dân tộc Việt là chuyện vô cùng bình thường. Nó khác hẳn những  điều tán tụng lố bịch đến mức trơ trẽn như có thiểu số con chiên gốc Việt ca  sảng, tung hê lố bịch rằng Ngô Đình Diệm là “đại anh hùng dân tộc” (sic), trong  khi Ngô Đình Diệm là một gia đình tam đại Việt gian <a href="/BUIKHA/BuiKha" target="_blank">https://sachhiem.net/BUIKHA/BuiKha.php</a> mà phụ thân ông ta là Ngô Đình Khả đã từng  dưới quyền tên Việt gian Nguyễn Thân quật mộ vị anh hùng ái quốc Phan Đình  Phùng, đốt thành tro, nhồi vào thuốc súng rồi bắn cho mất tích xuống dòng sông  La  <a href="https://vinhanonline.com/index.php?option=com_content&amp;view=article&amp;id=426:phan-dinh-phung-1847-1895&amp;catid=81&amp;Itemid=198" target="_blank">https://vinhanonline.com/ </a>! Trong khi Trang Tưởng Niệm GS Trần Chung Ngọc,  Lữ Giang lẽ nào không mở mắt để thấy những điều phân ưu chí thiết - xúc động,  những biểu tỏ tâm tư ngưỡng mộ, những tấm lòng biết ơn với cả những tâm hồn luyến  tiếc vì sự ra đi của GS Trần Chung Ngọc mà chúng ta đã thấy ở đây <a href="/XAHOI/CHIABUON/Chiabuon7A" target="_blank">https://www.sachhiem.net/index.php?content=showrecipe&amp;id=5875</a>chứ đâu riêng chỉ vài người như Lữ Giang mỉa mai  nhỏ mọn là “phe ta” cách bất lịch sự đối với người vừa quá cố như thế? </p>
 <p>
  <b>2)</b> Lữ Giang viết về nick “Tôn Ông Gò Vấp” nhận xét và phân ưu  GS TCN: </p>
 <div class="indent50">
  <p>
-  “Trong các lời chia buốn này, có một lời đọc lên  nghe rất ngố nghênh, đó là lời chia buồn của một người tự xung là “Tôn Ông Gò  Gấp” do bà Đỗ Thị Thuần phóng đi. Lời chia buồn này bị <a href="https://sachhiem.net/" target="_blank">sachhiem.net</a> “kiểm duyệt” mất một đoạn. Trong phần còn lại có những câu  chính như sau: </p>
+  “Trong các lời chia buốn này, có một lời đọc lên  nghe rất ngố nghênh, đó là lời chia buồn của một người tự xung là “Tôn Ông Gò  Gấp” do bà Đỗ Thị Thuần phóng đi. Lời chia buồn này bị <a href="/" target="_blank">sachhiem.net</a> “kiểm duyệt” mất một đoạn. Trong phần còn lại có những câu  chính như sau: </p>
  <p>
   “<i>Ông (Trần Chung Ngọc) để lại một tủ sách đồ  sộ, đúng sự thật 100%, thuộc diện “Chứng Nhân Sự Thật về Tôn Giáo Vatican” cho  hậu thế.</i> </p>
  <p>
@@ -70,7 +70,7 @@ Lữ  Giang<br>
 <p>
  Việc nick “Tôn Ông Gò Vấp” nhận xét “<i>Ông  (Trần Chung Ngọc) để lại một tủ sách đồ sộ, đúng sự thật 100%, thuộc diện  “Chứng Nhân Sự Thật về Tôn Giáo Vatican” cho hậu thế.” </i>thì cũng đâu có  ngoa? </p>
 <p>
- Độc giả chỉ cần có thời gian và chịu khó để ý vào  những sách, những thiên khảo cứu, những bài viết, những bản dịch của GS TCN,  hẳn mọi người, nếu có liêm sỉ, dám nhìn thẳng sự thật, ắt hẳn sẽ thấy điều mà  nick “Tôn Ông Gò Vấp” nêu lên là đúng:<a href="https://www.sachhiem.net/TCN/Ndir.php" target="_blank">https://www.sachhiem.net/TCN/Ndir.php</a>! </p>
+ Độc giả chỉ cần có thời gian và chịu khó để ý vào  những sách, những thiên khảo cứu, những bài viết, những bản dịch của GS TCN,  hẳn mọi người, nếu có liêm sỉ, dám nhìn thẳng sự thật, ắt hẳn sẽ thấy điều mà  nick “Tôn Ông Gò Vấp” nêu lên là đúng:<a href="/TCN/Ndir" target="_blank">https://www.sachhiem.net/TCN/Ndir.php</a>! </p>
 <p>
  Hay là Lữ Giang hậm hực sao nick “Tôn Ông Gò  Vấp” không chịu khen Lữ Giang mà lại tỏ ra ngưỡng mộ GS Trần Chung Ngọc? </p>
 <p>
@@ -79,7 +79,7 @@ Lữ  Giang<br>
  <p>
   <i><b>“MA ĐƯA LỐI QUỶ ĐƯA ĐƯỜNG</b></i> </p>
  <p>
-  <i>Nhóm Giao Điểm được thành lập từ năm 1990 tại  Orange County, cho xuất bản tờ Giao Điểm, đến năm 2001 bắt đầu xử dụng  website </i><a href="https://giaodiem.com/" target="_blank"><i>giaodiem.com</i></a><i> để phổ biến chủ trương hòa giải hòa hợp  với Đảng CSVN, ca tụng Hồ Chí Minh và chống lại chủ trương chống cộng của người  Việt hải ngoại, của Giáo Hội Ấn Quang, nhất là chống Thiên Chúa Giáo. Nhóm biên  tập chính gồm có: Trần Chung Ngọc, Bùi Hồng Quang, Nguyễn Văn Hóa, Nguyễn Đắc  Xuân, Hoàng Phủ Ngọc Tường, Hoàng Nguyên Nhuận (tức Hoàng Văn Giàu), Bùi Kha,  Nguyên Kha, Trần Văn Kha, Nguyễn Mạnh Quang, Charlie Nguyễn, … Chủ bút của nhóm  lúc đầu do Bùi Hồng Quang đứng tên, sau chuyển qua Nguyễn Văn Hóa. Vì một sự  xích mích trong nội bộ, nhóm Trần Chung Ngọc đã tách ra khỏi nhóm Nguyễn Văn  Hóa, thành lập website mới là </i><a href="https://sachhiem.net/" target="_blank"><i>sachhiem.net</i></a><i>, nhưng đường lối không thay đổi.”</i> </p>
+  <i>Nhóm Giao Điểm được thành lập từ năm 1990 tại  Orange County, cho xuất bản tờ Giao Điểm, đến năm 2001 bắt đầu xử dụng  website </i><a href="https://giaodiem.com/" target="_blank"><i>giaodiem.com</i></a><i> để phổ biến chủ trương hòa giải hòa hợp  với Đảng CSVN, ca tụng Hồ Chí Minh và chống lại chủ trương chống cộng của người  Việt hải ngoại, của Giáo Hội Ấn Quang, nhất là chống Thiên Chúa Giáo. Nhóm biên  tập chính gồm có: Trần Chung Ngọc, Bùi Hồng Quang, Nguyễn Văn Hóa, Nguyễn Đắc  Xuân, Hoàng Phủ Ngọc Tường, Hoàng Nguyên Nhuận (tức Hoàng Văn Giàu), Bùi Kha,  Nguyên Kha, Trần Văn Kha, Nguyễn Mạnh Quang, Charlie Nguyễn, … Chủ bút của nhóm  lúc đầu do Bùi Hồng Quang đứng tên, sau chuyển qua Nguyễn Văn Hóa. Vì một sự  xích mích trong nội bộ, nhóm Trần Chung Ngọc đã tách ra khỏi nhóm Nguyễn Văn  Hóa, thành lập website mới là </i><a href="/" target="_blank"><i>sachhiem.net</i></a><i>, nhưng đường lối không thay đổi.”</i> </p>
 </div>
 <p>
  <b>Trần Quang Diệu:</b> </p>
@@ -105,7 +105,7 @@ Lữ  Giang<br>
 <p>
  Cá nhân tôi cũng đã từng có một chủ đề như thế!  Xin xem tại đây: </p>
 <p>
- <a href="https://www.sachhiem.net/index.php?content=showrecipe&amp;id=5216" target="_blank">https://www.sachhiem.net/index.php?content=showrecipe&amp;id=5216</a></p>
+ <a href="/LICHSU/TR/TQD05" target="_blank">https://www.sachhiem.net/index.php?content=showrecipe&amp;id=5216</a></p>
 <p>
  Còn “ca tụng Hồ Chính Minh” là “ca tụng” điều  gì? </p>
 <p>
@@ -179,7 +179,7 @@ Lữ  Giang<br>
 <p>
  Bày đặt Lữ Giang nói chuyện CSVN “cấp giấy” này  nọ cho Giao Điểm in sách, nếu là những sách vạch mặt thiên Chúa giáo nước  Vatican La mã? </p>
 <p>
- - Lẽ đúng, nhu cầu (mang tính buộc lòng, thay vì  yêu cầu!) cần thiết của lịch sử, bất luận là chế độ nào đang lãnh đạo quốc gia,  nếu biết nghĩ, biết phóng tầm nhìn về viễn tượng tương lai về một hiểm họa dân  mình mà lại biến thành “thần dân” “làm theo đức vâng lời” bởi một nước khác,  thì chế độ đó cũng phải làm như thế. Nghĩa là phải phổ biến cho rộng rãi, thay  vì bị cấm đoán, bị hủy bỏ, bị theo dõi, bị trù dập, chửi rủa, và rất có thể “bị  thủ tiêu” như học giả Nguyễn Hiến Lê đã than phiền về việc “dạy sử dưới thời  Diệm”: <a href="https://sachhiem.net/LICHSU/N/NgHienLe.php" target="_blank">https://sachhiem.net/LICHSU/N/NgHienLe.php</a>! </p>
+ - Lẽ đúng, nhu cầu (mang tính buộc lòng, thay vì  yêu cầu!) cần thiết của lịch sử, bất luận là chế độ nào đang lãnh đạo quốc gia,  nếu biết nghĩ, biết phóng tầm nhìn về viễn tượng tương lai về một hiểm họa dân  mình mà lại biến thành “thần dân” “làm theo đức vâng lời” bởi một nước khác,  thì chế độ đó cũng phải làm như thế. Nghĩa là phải phổ biến cho rộng rãi, thay  vì bị cấm đoán, bị hủy bỏ, bị theo dõi, bị trù dập, chửi rủa, và rất có thể “bị  thủ tiêu” như học giả Nguyễn Hiến Lê đã than phiền về việc “dạy sử dưới thời  Diệm”: <a href="/LICHSU/N/NgHienLe" target="_blank">https://sachhiem.net/LICHSU/N/NgHienLe.php</a>! </p>
 <p>
  <b>Lữ Giang viết:</b> </p>
 <p class="indent50"> <i>“Ngày 20.9.2013, báo Nhân Dân của Đảng CSVN đăng  bài </i><i>“Tôn giáo chân chính  đồng hành cùng dân tộc”</i><i>của  Trần Chung Ngọc lên án các đài phát thanh VOA, RFA, RFI và BBC tiếng Việt “gây  bất ổn chính trị xã hội ở Việt Nam để người nước ngoài có cơ hội </i><i>"thừa nước đục thả câu" </i><i>và xác nhận: “Từ xưa tới nay Phật giáo ở Việt Nam luôn đồng  hành cùng dân tộc … nhiều tu sĩ bỏ áo cà sa đi theo kháng chiến,… tăng cũng như  tục, tham gia mặt trận Việt Minh, hay Ðảng Cộng sản, hay Mặt trận giải phóng  miền Nam, hay phản chiến…”(Hết chối được nên đành phải nhận!)” </i>? </p>
@@ -303,13 +303,13 @@ Lữ  Giang<br>
  <p>
   Bài dẫn chủ đề "Nhận Định Về Nhóm Giao Điểm": </p>
  <p>
-  <a href="https://sachhiem.net/index.php?content=showemail&amp;id=89" target="_blank">Thư của Francis Duong, Nguyễn Hữu Ba </a> </p>
- <p> <a href="https://sachhiem.net/printemail.php?id=90" target="_blank">https://sachhiem.net/printemail.php?id=90</a> </p></div>
+  <a href="/com/note" target="_blank">Thư của Francis Duong, Nguyễn Hữu Ba </a> </p>
+ <p> <a href="/printemail.php?id=90" target="_blank">https://sachhiem.net/printemail.php?id=90</a> </p></div>
  <p>Xin mời Lữ Giang trố mắt vào mấy đường link sau đây để ghi nhận sự  thật giùm cho chứ đừng có lừa mị thiên hạ khi ông nói Giao Điểm nào mà “câm  họng” với ông Dương Ngọc Dũng: </p>
  <p>
   <b>Đối Thoại  Với Giáo Hoàng, Chuyện Cũ Nhưng Vẫn Còn Mới:</b> </p>
  <p>
-  <a href="https://sachhiem.net/index.php?content=showrecipe&amp;id=5303" target="_blank">https://sachhiem.net/index.php?content=showrecipe&amp;id=5303</a></p>
+  <a href="/TCN/TCNdt/TCNdt060" target="_blank">https://sachhiem.net/index.php?content=showrecipe&amp;id=5303</a></p>
  <p>
   Cái đó, vào năm 1995 là như thế này: </p>
  <p>
@@ -358,7 +358,7 @@ NIỀM TIN VÀ HY VỌNG  </a> </p>
 <p>
  Tôi cũng thách đố Lữ Giang đi “tìm những tài  liệu” gì “của Phật giáo” để “tấn công” như “Lời Thề của các Tu sĩ Dòng Tên” của  ông quá cỡ rùng rợn như sau: </p>
 <p>
- “- Trong mọi trường hợp nếu có dịp, con sẽ  tạo ra chiến tranh và tham chiến một cách bí mật hay công khai chống lại tất cả  những kẻ dị giáo, Tin Lành và Tự Do mà không hề do dự. Khi được lệnh thi hành,  con sẽ tàn sát và triệt hạ tận gốc những tên này trên khắp mặt địa cầu, con sẽ  không từ một kẻ nào: không kể tuổi tác, đàn ông hay đàn bà, con sẽ treo cổ  chúng, thiêu chúng, bỏ vào thùng nước sôi, lột da, siết cổ hay chôn sống những  kẻ dị giáo, mổ bụng, moi bào thai trong tử cung vợ chúng ra và đập nát đầu  những hài nhi vào tường, trong mục đích hủy diệt một dân tộc đáng ghét.”<a href="https://sachhiem.net/TONGIAO/tgTH/ThaiVan.php" target="_blank">https://sachhiem.net/TONGIAO/tgTH/ThaiVan.php</a></p>
+ “- Trong mọi trường hợp nếu có dịp, con sẽ  tạo ra chiến tranh và tham chiến một cách bí mật hay công khai chống lại tất cả  những kẻ dị giáo, Tin Lành và Tự Do mà không hề do dự. Khi được lệnh thi hành,  con sẽ tàn sát và triệt hạ tận gốc những tên này trên khắp mặt địa cầu, con sẽ  không từ một kẻ nào: không kể tuổi tác, đàn ông hay đàn bà, con sẽ treo cổ  chúng, thiêu chúng, bỏ vào thùng nước sôi, lột da, siết cổ hay chôn sống những  kẻ dị giáo, mổ bụng, moi bào thai trong tử cung vợ chúng ra và đập nát đầu  những hài nhi vào tường, trong mục đích hủy diệt một dân tộc đáng ghét.”<a href="/TONGIAO/tgTH/ThaiVan" target="_blank">https://sachhiem.net/TONGIAO/tgTH/ThaiVan.php</a></p>
 <p>
  Bằng tham vọng (ảo!) do “tức khí”, tưởng đâu  Lữ Giang “<i>đi</i> <i>tìm tài liệu” </i>gì đặc biệt, ghê gớm  lắm <i>“để tấn công Phật Giáo”</i>? Lữ Giang lại đem chuyện Tiểu Thừa, Đại  Thừa của các hệ phái Phật giáo ra rồi “nện” cho thật nặng nề bằng hai chữ “Trận  chiến” để hy vọng sẽ giả lã được về các cuộc Thập Tự Chinh giết người như cỏ  rác? </p>
 <p>
@@ -788,7 +788,7 @@ NIỀM TIN VÀ HY VỌNG  </a> </p>
 
 
  <p><a href="https://tieng-dan-weekly.blogspot.com/2014/02/i-vao-con-uong-cung.html">https://tieng-dan-weekly.blogspot.com/2014/02/i-vao-con-uong-cung.html</a></p>
-<p><span class="First">S</span>au khi Trần Chung Ngọc qua đời, <a href="https://sachhiem.net/" target="_blank">sachhiem.net</a> đã phổ biến  lời chia buồn của một số người thuộc “phe ta” như đồng chí Chế Trung Hiếu, Trần  Tiên Long (Trần Văn Quý), Duyên Sinh, Trần Quang Diệu, Nguyễn Hữu Ba, Giác  Hạnh, Cao Hữu Tâm, Hoàng Thục An, <a href="mailto:lelytran63@aol.com" target="_blank">lelytran63@aol.com</a>… Trong các lời chia buốn này, có một lời  đọc lên nghe rất ngố nghênh, đó là lời chia buồn của một người tự xung là “Tôn  Ông Gò Gấp” do bà Đỗ Thị Thuần (SH - ột nick khác của T.O.G.V) phóng đi. Lời chia buồn này bị <a href="https://sachhiem.net/" target="_blank">sachhiem.net</a> “kiểm duyệt”  mất một đoạn. Trong phần còn lại có những câu chính như sau: </p>
+<p><span class="First">S</span>au khi Trần Chung Ngọc qua đời, <a href="/" target="_blank">sachhiem.net</a> đã phổ biến  lời chia buồn của một số người thuộc “phe ta” như đồng chí Chế Trung Hiếu, Trần  Tiên Long (Trần Văn Quý), Duyên Sinh, Trần Quang Diệu, Nguyễn Hữu Ba, Giác  Hạnh, Cao Hữu Tâm, Hoàng Thục An, <a href="mailto:lelytran63@aol.com" target="_blank">lelytran63@aol.com</a>… Trong các lời chia buốn này, có một lời  đọc lên nghe rất ngố nghênh, đó là lời chia buồn của một người tự xung là “Tôn  Ông Gò Gấp” do bà Đỗ Thị Thuần (SH - ột nick khác của T.O.G.V) phóng đi. Lời chia buồn này bị <a href="/" target="_blank">sachhiem.net</a> “kiểm duyệt”  mất một đoạn. Trong phần còn lại có những câu chính như sau: </p>
 <p>
  “<i>Ông (Trần Chung Ngọc) để lại một tủ sách đồ  sộ, đúng sự thật 100%, thuộc diện “Chứng Nhân Sự Thật về Tôn Giáo Vatican” cho  hậu thế.</i> </p>
 <p>
@@ -799,7 +799,7 @@ NIỀM TIN VÀ HY VỌNG  </a> </p>
 <p>
  <b>MA ĐƯA LỐI QUỶ ĐƯA ĐƯỜNG</b> </p>
 <p>
- Nhóm Giao Điểm được thành lập từ năm 1990 tại  Orange County, cho xuất bản tờ Giao Điểm, đến năm 2001 bắt đầu xử dụng website <a href="https://giaodiem.com/" target="_blank">giaodiem.com</a> để phổ biến  chủ trương hòa giải hòa hợp với Đảng CSVN, ca tụng Hồ Chí Minh và chống lại chủ  trương chống cộng của người Việt hải ngoại, của Giáo Hội Ấn Quang, nhất là  chống Thiên Chúa Giáo. Nhóm biên tập chính gồm có: Trần Chung Ngọc, Bùi Hồng  Quang, Nguyễn Văn Hóa, Nguyễn Đắc Xuân, Hoàng Phủ Ngọc Tường, Hoàng Nguyên  Nhuận (tức Hoàng Văn Giàu), Bùi Kha, Nguyên Kha, Trần Văn Kha, Nguyễn Mạnh  Quang, Charlie Nguyễn, … Chủ bút của nhóm lúc đầu do Bùi Hồng Quang đứng tên,  sau chuyển qua Nguyễn Văn Hóa. Vì một sự xích mích trong nội bộ, nhóm Trần  Chung Ngọc đã tách ra khỏi nhóm Nguyễn Văn Hóa, thành lập website mới là <a href="https://sachhiem.net/" target="_blank">sachhiem.net</a>, nhưng đường lối  không thay đổi. </p>
+ Nhóm Giao Điểm được thành lập từ năm 1990 tại  Orange County, cho xuất bản tờ Giao Điểm, đến năm 2001 bắt đầu xử dụng website <a href="https://giaodiem.com/" target="_blank">giaodiem.com</a> để phổ biến  chủ trương hòa giải hòa hợp với Đảng CSVN, ca tụng Hồ Chí Minh và chống lại chủ  trương chống cộng của người Việt hải ngoại, của Giáo Hội Ấn Quang, nhất là  chống Thiên Chúa Giáo. Nhóm biên tập chính gồm có: Trần Chung Ngọc, Bùi Hồng  Quang, Nguyễn Văn Hóa, Nguyễn Đắc Xuân, Hoàng Phủ Ngọc Tường, Hoàng Nguyên  Nhuận (tức Hoàng Văn Giàu), Bùi Kha, Nguyên Kha, Trần Văn Kha, Nguyễn Mạnh  Quang, Charlie Nguyễn, … Chủ bút của nhóm lúc đầu do Bùi Hồng Quang đứng tên,  sau chuyển qua Nguyễn Văn Hóa. Vì một sự xích mích trong nội bộ, nhóm Trần  Chung Ngọc đã tách ra khỏi nhóm Nguyễn Văn Hóa, thành lập website mới là <a href="/" target="_blank">sachhiem.net</a>, nhưng đường lối  không thay đổi. </p>
 <p>
  Với Thiên Chúa Giáo, nhóm Giao Điểm khẳng định: </p>
 <p>
@@ -817,7 +817,7 @@ NIỀM TIN VÀ HY VỌNG  </a> </p>
 <p>
  <b>CHIẾN THUẬT CỦA GIAO ĐIỂM</b> </p>
 <p>
- Khi Gò Vấp, “Tôn Ông” của bà Thuấn cho rằng các  bài trên <a href="https://sachhiem.net/" target="_blank">sachhiem.net</a> là <i><b>“một tủ sách đồ sộ, đúng sự thật 100%”</b></i> của Trần Chung Ngọc, chúng ta thấy Gò Vấp  chưa hề biết gì về phương pháp sử học và luật học, không phân biệt được sự khác  biệt giữa Information (tin tức), Opinion (ý kiến), Document (tài liệu) Proof  (dẫn chứng), Evidence (bằng chứng), Phản chứng (counter evidence)… Chỉ cần đọc  qua Federal Rules of Evidence (Các Quy Luật Liên Bang về Bằng Chứng) cũng có  thể thấy ngay sự ấu trĩ của người tự xưng là “Tôn Ông”. </p>
+ Khi Gò Vấp, “Tôn Ông” của bà Thuấn cho rằng các  bài trên <a href="/" target="_blank">sachhiem.net</a> là <i><b>“một tủ sách đồ sộ, đúng sự thật 100%”</b></i> của Trần Chung Ngọc, chúng ta thấy Gò Vấp  chưa hề biết gì về phương pháp sử học và luật học, không phân biệt được sự khác  biệt giữa Information (tin tức), Opinion (ý kiến), Document (tài liệu) Proof  (dẫn chứng), Evidence (bằng chứng), Phản chứng (counter evidence)… Chỉ cần đọc  qua Federal Rules of Evidence (Các Quy Luật Liên Bang về Bằng Chứng) cũng có  thể thấy ngay sự ấu trĩ của người tự xưng là “Tôn Ông”. </p>
 <p>
  Mở đầu “<i>Lời nguyện đầu năm”</i> chúng tôi có viết: <i>“Giao Điểm là một nhóm biết rất ít về Thiên Chúa giáo nhưng  thích phê  bình và xuyên tạc vì mặc cảm thua kém quá xa.”</i> Đó không phải chỉ là quan điểm riêng của  cá nhân chúng tôi, nhiều nhà nghiên cứu khác cũng đã thấy như vậy. </p>
 <p>

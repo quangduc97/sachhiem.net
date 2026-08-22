@@ -3,7 +3,7 @@ layout: ../../../layouts/Article.astro
 title: "Tài Liệu Mới Về Vụ Thảm Sát Tại Thạnh Phong và Bob Kerrey"
 author: "Việt Giải Trí/ CBSNews- NYTimes"
 date: 2016-06-25
-source: "https://sachhiem.net/THOISU_CT/ChuT/TinVietGiaiTri.php"
+source: "/THOISU_CT/ChuT/TinVietGiaiTri"
 category: "Chính trị"
 lang: vi
 wordCount: 9382

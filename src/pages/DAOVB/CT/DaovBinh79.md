@@ -3,7 +3,7 @@ layout: ../../../layouts/Article.astro
 title: "Nhật Ký Biển Đông: Khi Tình Báo Trở Thành Công Cụ Chính Trị"
 author: "Đào Văn Bình"
 date: 2016-12-31
-source: "https://sachhiem.net/DAOVB/CT/DaovBinh79.php"
+source: "/DAOVB/CT/DaovBinh79"
 category: "Chính trị"
 lang: vi
 wordCount: 4051

@@ -3,7 +3,7 @@ layout: ../../../layouts/Article.astro
 title: "Cuộc Kháng Chiến Chống Mỹ Cứu Nước Có Phải Là Nội Chiến Hay Không?"
 author: "Tuấn Anh Kinh Bắc"
 date: 2025-12-25
-source: "https://sachhiem.net/THOISU_CT/ChuN/NguyenTuanAnh_10.php"
+source: "/THOISU_CT/ChuN/NguyenTuanAnh_10"
 category: "Chính trị"
 lang: vi
 wordCount: 2287

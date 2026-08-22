@@ -2,16 +2,16 @@
 layout: ../../layouts/Article.astro
 title: "Tự Thuở Bình Minh"
 author: "Trần Thị Vĩnh-Tường & Nguyễn Đức Hiệp"
-source: "https://sachhiem.net/TRTVT/TTVT_XH02.php"
+source: "/TRTVT/TTVT_XH02"
 category: "Xã hội"
 lang: vi
 wordCount: 8723
-image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nha.jpg"
+image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/TONGIAO/IMG/PHAT/TTVT_MapAnDo.jpg"
 ---
 
 <table border="0" cellpadding="0" width="250" align="center">
             <tbody><tr>
-              <td width="125"><a href="/index"><img border="0" src="https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nha.jpg"></a></td>
+              <td width="125"></td>
 <td valign="top" width="195">
 <p style="text-align: right">18 tháng 3, 2011</p></td>
 						</tr>

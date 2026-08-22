@@ -3,7 +3,7 @@ layout: ../../../layouts/Article.astro
 title: "Làm Thế Nào Để Việt Nam Tránh Vết Xe Đổ Của Ukraine?"
 author: "Lão Ông"
 date: 2022-06-15
-source: "https://sachhiem.net/SACHNGOAI/snL/LaoOng1.php"
+source: "/SACHNGOAI/snL/LaoOng1"
 category: "Chính trị"
 lang: vi
 wordCount: 2323

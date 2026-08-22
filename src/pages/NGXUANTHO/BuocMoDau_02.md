@@ -3,18 +3,17 @@ layout: ../../layouts/Article.astro
 title: "Bước Mở Đầu Của Sự Thiết Lập Hệ Thống Thuộc Địa Pháp Ở Việt Nam"
 author: "TS Nguyễn Xuân Thọ"
 date: 2023-02-13
-source: "https://sachhiem.net/NGXUANTHO/BuocMoDau_02.php"
+source: "/NGXUANTHO/BuocMoDau_02"
 category: "Lịch sử"
 lang: vi
 wordCount: 10789
-image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nha.jpg"
+image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/NGXUANTHO/IMG/Malacca.JPG"
 ---
 
 <p class="Tuaduoi"> Hiệp Ước Verseilles</p>
 
 
-  <p align="center"><a href="https://www.sachhiem.net/">
-<img border="0" src="https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nha.jpg"></a>| <a target="_blank" href="https://sachhiem.net/NGXUANTHO/BuocMoDau_Main.php"><span lang="en-us"><b><font face="Symbol">¿</font></b></span> trở ra mục lục</a>| 13-Feb-2023</p>
+  <p align="center">| <a target="_blank" href="/NGXUANTHO/BuocMoDau_Main"><span lang="en-us"><b><font face="Symbol">¿</font></b></span> trở ra mục lục</a>| 13-Feb-2023</p>
   <div class="tomluoc">
     <p> <i>Nước Pháp đã rất nhanh chóng thay chân Bồ Đào Nha trong sự nghiệp truyền đạo tại Đông Dương (tức Indochine), nhờ sự hoạt động cá nhân của linh mục Alexandre de Rhodes, thuộc dòng Jésuites (Dòng Tên), đã không ngừng làm công tác tuyên truyền tại Rome, rồi tại Pháp,</i></p>
   </div> 

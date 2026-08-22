@@ -3,7 +3,7 @@ layout: ../../../layouts/Article.astro
 title: "Phía Bên Kia Ánh Trăng Nhân Văn Của Ki-tô Giáo"
 author: "Trần Trọng Sỹ"
 date: 2020-08-25
-source: "https://sachhiem.net/TTS/TG/TranTrongSy10a.php"
+source: "/TTS/TG/TranTrongSy10a"
 category: "Văn hóa"
 lang: vi
 wordCount: 14859
@@ -12,7 +12,7 @@ image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/TONGIAO/IMG/BIBLE/Bi
 
 <div class="tomluoc">
    <p><i>... Đối với sự hung hăng của Kitô giáo muốn chiếm trọn trái đất, dù phải giết hết  toàn bộ nhân loại, như Thiên Chúa từng làm qua trận lụt lớn trong truyền thuyết  mà họ rất hãnh diện, thì sự hung hăng của TQ ngoài biển Đông chỉ là thằng trộm  vặt so với cả đảng cướp, nhỏ lớn tuy có khác, nhưng gian manh và thâm độc không  khác....</i></p> </div>
- <p>(tiếp theo <a href="https://sachhiem.net/TTS/TG/TranTrongSy10.php">Phần I</a>)</p>
+ <p>(tiếp theo <a href="/TTS/TG/TranTrongSy10">Phần I</a>)</p>
  <p><span class="First">N</span> hân tiện tôi đưa ra cái nhìn ngắn gọn về hai nền  triết lý giữa Kytô và Phật giáo, một bên đại diện cho thiên bản, và một bên cho  nhân bản :</p>
 <p>Với những triết lý cốt lõi của Kytô giáo, chỉ <i>người được chăn dắt</i> mới bị  thuyết phục và tín thác vào Giêsu.</p>
 <p>Người <i>không chấp nhận bị chăn dắt,</i> không  thể tin vào Giêsu, thậm chí, có người còn vì đạo đức xã hội mà kịch liệt không  ngừng lên án Kitô giáo, như Voltaire, Diderot, Feuerbach, Nietzche, Bertrand  Russell...</p>

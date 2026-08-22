@@ -2,10 +2,10 @@
 layout: ../../../layouts/Article.astro
 title: "CA-TÔ RÔ-MA GIÁO VIỆT NAM"
 author: "Trần Chung Ngọc"
-source: "https://sachhiem.net/TCN/TCNtg/TCN80.php"
+source: "/TCN/TCNtg/TCN80"
 lang: vi
 wordCount: 19473
-image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nha.jpg"
+image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/SACHNGOAI/Hinhanh/BIASACH/Bornofawoman.jpg"
 ---
 
 <p class="Tuaduoi">VỀ NHỮNG NIỀM HÃNH DIỆN CỦA NGƯỜI</p>
@@ -13,7 +13,7 @@ image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nha.jpg"
 		<p class="Tuaduoi">[Một Khảo Luận Qua Các Sự Kiện Lịch Sử]</p>
 		
 
-<p align="center"> <a href="/index"><img border="0" src="https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nha.jpg" align="middle" hspace="20"></a> 08 tháng 8,  2009</p>		
+<p align="center">  08 tháng 8,  2009</p>		
 	<p><b><u>
 	Vài Lời Nói Đầu:</u></b></p>
 	<p>Đối với những 
@@ -127,7 +127,7 @@ image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nha.jpg"
 	xử với cha mẹ của các thánh và của Chúa Giê-su là như thế nào</u>. Riêng về 
 	Chúa Giê-su, nếu ngại đọc Tân Ước thì có thể đọc bài <i>“Đây!! Chúa Giê-su 
 	Của Những Người Theo Đạo Giê-su” </i>trên 
-	<a href="https://www.sachhiem.net/TCNtg/3NGOI/TCN64_00.php">
+	<a href="/TCNtg/3NGOI/TCN64_00">
 	https://www.sachhiem.net/TCNtg/3NGOI/TCN64_00.php</a>. 
 	Người Việt Nam cũng tôn thờ các bậc Thánh trong dân gian như Đức Thánh Trần, 
 	Đức Thánh Gióng v..v..., những bậc đã có công giúp nước thắng ngoại xâm.
@@ -791,7 +791,7 @@ image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nha.jpg"
 	<p>In <i>“Unzipped: The Popes Bare All”</i></p>
 	<p> Nếu đọc 
 	giả muốn biết một số không nhỏ giáo hoàng đã thực đi vào <i>nhục dục, trụy lạc, và bạo lực </i>như thế nào, xin 
-	hãy đọc bài ĐÂY !! NHỮNG ‘ĐỨC THÁNH CHA’ ĐẠI DIỆN CỦA CHÚA KI-TÔ [<a href="https://www.sachhiem.net/TCNtg/TCN20.php">https://www.sachhiem.net/TCNtg/TCN20.php</a>]</p>
+	hãy đọc bài ĐÂY !! NHỮNG ‘ĐỨC THÁNH CHA’ ĐẠI DIỆN CỦA CHÚA KI-TÔ [<a href="/TCNtg/TCN20">https://www.sachhiem.net/TCNtg/TCN20.php</a>]</p>
 		
 	
 	<p class="TuaDoLeft"><strong>3. Hãnh Diện Vì Ca-tô Rô-maGiáo Là Đạo Bác Ái.</strong></p>

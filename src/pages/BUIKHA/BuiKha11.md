@@ -2,7 +2,7 @@
 layout: ../../layouts/Article.astro
 title: "QUẠ THÌ ÐEN"
 author: "Bùi Kha"
-source: "https://sachhiem.net/(Nhân vụ TGM Ngô Quang Kiệt và Tòa Khâm sứ)"
+source: "/(Nhân vụ TGM Ngô Quang Kiệt và Tòa Khâm sứ)"
 lang: vi
 wordCount: 1245
 image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/Next3.gif"

@@ -3,7 +3,7 @@ layout: ../../layouts/Article.astro
 title: "Lại Gạ Dựng Tượng Ông Đắc Lộ"
 author: "Nguyễn Văn Thịnh"
 date: 2014-06-11
-source: "https://sachhiem.net/NGVTHINH/NguyenvThinh_00.php"
+source: "/NGVTHINH/NguyenvThinh_00"
 category: "Lịch sử"
 lang: vi
 wordCount: 4672
@@ -11,12 +11,12 @@ image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/TONGIAO/IMG/VATICAN/
 ---
 
 <p><i>LTS: Như bạn đọc đã từng biết, ông Đắc Lộ (Alexandre De Rhodes) không phải là người sáng chế ra chữ quốc ngữ, lại là gián điệp cho Pháp, vừa là người thô lỗ nhất trong văn hóa truyền giáo, mà lời lẽ mất dạy của ông ta (miệt thị Đức Phật, hạ nhục sĩ phu,... chẳng hạn) còn giữ lại trong quyển Phép Giảng Tám Ngày, mục Ngày Thứ Bốn. Ghi nhớ ông ta là vinh danh những sự tồi tệ đối với dân tộc.  Di lụy của thời Pháp thuộc tưởng đã phải kết thúc gần 40 năm trước. Tiếc thay, những con vi trùng lịch sử chỉ là nằm ngủ chờ thời. Lâu lâu nó lại sống dậy, nổi lên thực hành những kiểu mẫu nô lệ, và thăng hoa thành một thứ văn hóa "biết ơn thực dân" và tôn thờ gián điệp cho giặc.  Nhân đây xin kể ra một số bài liên hệ đến đề tài đã đăng trước đây: </i></p>
-  <p>- <a href="https://sachhiem.net/CHARLIE/CN_TTDTG/Alexandre.php">Alexandre De Rhodes và Chữ Quốc Ngữ &nbsp;</a> (Charlie Nguyễn)</p>
-  <p>-  <a href="https://sachhiem.net/TCN/TCNdt/TCNdt070.php">Giáo Sĩ Dắc-Lộ &amp;Chữ Quốc Ngữ Của Minh Vân</a> (Trần Chung Ngọc)</p>
-  <p>-  <a href="https://sachhiem.net/BUIKHA/BuiKha25.php">Giáo Sĩ Đắc Lộ &amp;&nbsp; Chữ Quốc Ngữ </a>(Bùi Kha)</p>
-  <p>-  <a href="https://sachhiem.net/NMQ/NMQ040.php">Phải Làm Gì Đối Với Tình Trạng Vinh Danh Những Việt Gian?</a>   (Nguyễn Mạnh Quang)</p>
+  <p>- <a href="/CHARLIE/CN_TTDTG/Alexandre">Alexandre De Rhodes và Chữ Quốc Ngữ &nbsp;</a> (Charlie Nguyễn)</p>
+  <p>-  <a href="/TCN/TCNdt/TCNdt070">Giáo Sĩ Dắc-Lộ &amp;Chữ Quốc Ngữ Của Minh Vân</a> (Trần Chung Ngọc)</p>
+  <p>-  <a href="/BUIKHA/BuiKha25">Giáo Sĩ Đắc Lộ &amp;&nbsp; Chữ Quốc Ngữ </a>(Bùi Kha)</p>
+  <p>-  <a href="/NMQ/NMQ040">Phải Làm Gì Đối Với Tình Trạng Vinh Danh Những Việt Gian?</a>   (Nguyễn Mạnh Quang)</p>
   <p>- <a href="https://chimviet.free.fr/ngonngu/phuctrun/phul050.htm">Nguồn Gốc Chữ Quốc ngữ</a> (Huỳnh Ái Tông)</p>
-  <p>- <a href="https://www.sachhiem.net/BUIKHA/BuiKha5.php">ALEXANDRE DE RHODES, Công và Tội</a> (Bùi Kha)</p>
+  <p>- <a href="/BUIKHA/BuiKha5">ALEXANDRE DE RHODES, Công và Tội</a> (Bùi Kha)</p>
   <p><i>Và sau đây, là bài viết của tác giả Nguyễn Văn Thịnh, phản biện lại loạt bài vừa đăng trên tờ Tuổi Trẻ. Xin được trân trọng giới thiệu.</i> (SH)</p>
   <hr>
   <p><span class="First">N</span>hật báo Tuổi trẻ từ ngày 18/4/2014 đăng  liền bốn số bài <i>“Thưở ban đầu của  chữ Quốc ngữ</i>”, kể kỳ công của  nhà truyền đạo Ki-tô A-lịch-sơn Đắc-lộ (Alexandre de Rhode) sáng chế ra chữ Việt ký âm theo mẫu tự  Latin còn gọi là chữ Quốc  ngữ. Chuyện không có gì mới ngoài mục đích nhằm gợi ý hãy “<i>làm cái gì đó</i>” như dựng tượng ông Đắc Lộ ở một nơi nào để người Việt tỏ lòng ghi nhớ mãi công ơn của người đại diện cho mẫu quốc Phú-lang-sa và giáo hội Ki-tô đã khai hóa cho dân tộc này bằng một bảo bối diệu kỳ!</p>
@@ -43,7 +43,7 @@ image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/TONGIAO/IMG/VATICAN/
 
 <p class="Gryflo"> <b><i>☞  Ba là: ______________________ </i></b> </p>
 <p> Chữ viết đóng góp phần quyết định vào nền văn minh của một dân tộc  bởi nó là điều kiện tiên quyết để xây dựng nền giáo dục quốc gia bảo tồn văn  hiến. Vì thế các chính quyền ngoại bang thống trị luôn tìm cách huỷ diệt nền  văn minh bản địa và quyết liệt đồng hoá người bản xứ. <i>Chữ viết là đối tượng bị  huỷ diệt trước tiên bởi nó phản ánh tư tưởng, tâm hồn của một dân tộc</i>. </p>
-<p>Gần đây một số ý kiến cho rằng người Việt đã có chữ  viết riêng theo mẫu tự tượng thanh từ rất sớm gọi là<a href="https://sachhiem.net/VANHOC/TVHAC/Vanhac09.php"> chữ Việt cổ.</a> Với những chứng lý mơ hồ chưa thuyết phục  nên người ta cứ tin theo sách sử truyền rằng: “<i>Sỹ Nhiếp đã mang chữ Hán về khai hoá cho dân tộc Nam man</i>”. Thực  ra “ngu dân” là chính sách nhất quán của chính quyền ngoại bang đô hộ mọi thời.  Cần thiết chúng chỉ dạy cho người bản xứ ít chữ đủ dùng làm thư lại tay sai.  Nhưng yêu cầu được mở mang trí tuệ là khát vọng của những người có học giác ngộ  luôn có ý chí phục hồi tổ quốc, phục sinh dân tộc. Từ đấy tạo ra một lớp trí  thức tài hoa uyên bác ngoài ý đồ của giới cầm quyền. Tất nhiên nền văn hóa Đại  Hán không thể không có ảnh hưởng sâu sắc trong việc hình thành nhân cách và tư  tưởng người Lạc Việt.</p>
+<p>Gần đây một số ý kiến cho rằng người Việt đã có chữ  viết riêng theo mẫu tự tượng thanh từ rất sớm gọi là<a href="/VANHOC/TVHAC/Vanhac09"> chữ Việt cổ.</a> Với những chứng lý mơ hồ chưa thuyết phục  nên người ta cứ tin theo sách sử truyền rằng: “<i>Sỹ Nhiếp đã mang chữ Hán về khai hoá cho dân tộc Nam man</i>”. Thực  ra “ngu dân” là chính sách nhất quán của chính quyền ngoại bang đô hộ mọi thời.  Cần thiết chúng chỉ dạy cho người bản xứ ít chữ đủ dùng làm thư lại tay sai.  Nhưng yêu cầu được mở mang trí tuệ là khát vọng của những người có học giác ngộ  luôn có ý chí phục hồi tổ quốc, phục sinh dân tộc. Từ đấy tạo ra một lớp trí  thức tài hoa uyên bác ngoài ý đồ của giới cầm quyền. Tất nhiên nền văn hóa Đại  Hán không thể không có ảnh hưởng sâu sắc trong việc hình thành nhân cách và tư  tưởng người Lạc Việt.</p>
 <p>Tuy nhiên với khát vọng độc lập tự do thôi thúc, lớp  nho sỹ tiến bộ bản xứ chế tác ra thứ chữ  Hán-Nôm hợp với thổ âm của người Việt và chỉ qua mấy thế kỷ, chữ Nôm đã có những thành tựu rực rỡ,  làm nên nền văn hoá Việt Nam trung cận đại với bản sắc riêng. </p>
 
   <p class="indentLR50"><img src="https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/VANHOC/Hinh/Chu_Nom.jpg" width="81" height="139" class="PicLeft"></p> 
@@ -96,6 +96,6 @@ image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/TONGIAO/IMG/VATICAN/
   <p class="TacgiaL">Nguyễn Văn Thịnh </p>
   <p>__________________</p>
   <p>Các bài về sự vinh danh lầm lẫn liên quan đến chữ quốc ngữ.</p>
-  <p><a href="https://sachhiem.net/LICHSU/ListQUOCNGU.inc.php">https://sachhiem.net/LICHSU/ListQUOCNGU.inc.php</a></p>
+  <p><a href="/LICHSU/ListQUOCNGU.inc">https://sachhiem.net/LICHSU/ListQUOCNGU.inc.php</a></p>
   <p>___________________ </p>
-  <p>Các bài của Nguyễn Văn Thịnh: link <a href="https://sachhiem.net/NGVTHINH/ListNVTh.inc.php" target="_blank">https://sachhiem.net/NGVTHINH/ListNVTh.inc.php</a></p>
+  <p>Các bài của Nguyễn Văn Thịnh: link <a href="/NGVTHINH/ListNVTh.inc" target="_blank">https://sachhiem.net/NGVTHINH/ListNVTh.inc.php</a></p>

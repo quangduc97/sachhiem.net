@@ -3,7 +3,7 @@ layout: ../../../layouts/Article.astro
 title: "Cái Chết của một Tôn Giáo Lớn"
 author: "DuyênSinh"
 date: 2013-08-27
-source: "https://sachhiem.net/LICHSU/D/Duyensinh03.php"
+source: "/LICHSU/D/Duyensinh03"
 category: "Tác giả"
 lang: vi
 wordCount: 4674
@@ -26,7 +26,7 @@ image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/TONGIAO/IMG/VATICAN/
 
 <p align="center"><img src="https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/TONGIAO/IMG/VATICAN/POPE/Trattoa_batgiaohoang.jpg" width="600" height="723"></p>
 <p><b>Tội Trạng Của Vatican  Có Thể Tóm Lược Như Sau: </b></p>
-<p class="indent50"><i>(SH chú thích: Có thể xem bài <a href="https://sachhiem.net/index.php?content=showrecipe&amp;id=5745">ITCCS Tuyên Bố: Giáo Hội Ca Tô Rô Ma Là Một Tổ Chức Tội Phạm Quốc Tế</a> của Lý Thái để hiểu nội dung phần này bằng tiếng Việt)</i></p>
+<p class="indent50"><i>(SH chú thích: Có thể xem bài <a href="/LTX/LyThaiTS10">ITCCS Tuyên Bố: Giáo Hội Ca Tô Rô Ma Là Một Tổ Chức Tội Phạm Quốc Tế</a> của Lý Thái để hiểu nội dung phần này bằng tiếng Việt)</i></p>
 <p>• Criminal Organization that is waging war against humanity,  its children, and its laws.</p>
 <p>&nbsp;•&nbsp; Crimes against Humanity and an international  Criminal Conspiracy to aid and abet child trafficking.</p>
 <p>&nbsp;•&nbsp; The Church of Rome and its client governments  have unlawfully attacked, occupied and destroyed other nations, raped and  drained lands of their vast wealth and vitality, waged cruel wars of aggression  and genocide against other peoples and murdered millions of them, restricted  and subverted their rights and liberties, stolen, tortured and destroyed  countless children, and kept the world in a state of fear, dependency and  impoverishment. And these crimes continue today, with the help of governments  around the world.COPYRIGHT © 2013 DuyenSinh 3</p>

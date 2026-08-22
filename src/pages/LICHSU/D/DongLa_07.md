@@ -3,7 +3,7 @@ layout: ../../../layouts/Article.astro
 title: "Đơn Trình Bày Quan Tâm Về Các Hoạt Động Văn Chương"
 author: "Đông La"
 date: 2025-05-12
-source: "https://sachhiem.net/LICHSU/D/DongLa_07.php"
+source: "/LICHSU/D/DongLa_07"
 category: "Chính trị"
 lang: vi
 wordCount: 2430

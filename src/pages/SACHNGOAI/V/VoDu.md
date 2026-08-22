@@ -3,7 +3,7 @@ layout: ../../../layouts/Article.astro
 title: "Mark Cuban: Biden và Trump Không Phải Là “Tốt Nhất và Sáng Giá Nhất mà đất Nước Này Cống Hiến”"
 author: "Tom Huddleston Jr./ Võ Du dịch"
 date: 2020-11-14
-source: "https://sachhiem.net/SACHNGOAI/V/VoDu.php"
+source: "/SACHNGOAI/V/VoDu"
 category: "Chính trị"
 lang: vi
 wordCount: 1057

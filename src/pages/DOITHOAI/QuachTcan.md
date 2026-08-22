@@ -2,7 +2,7 @@
 layout: ../../layouts/Article.astro
 title: "Đáp Thư Gửi Cháu"
 author: "Quách T Căn"
-source: "https://sachhiem.net/null"
+source: "/null"
 category: "Đối thoại"
 lang: vi
 wordCount: 1993

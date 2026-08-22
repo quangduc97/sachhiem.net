@@ -3,16 +3,16 @@ layout: ../../../layouts/Article.astro
 title: "Không Nhục Nào Nhục Bằng Cái Nhục Của Kiếp Nô Lệ"
 author: "Nguyễn Văn Long"
 date: 2012-11-15
-source: "https://sachhiem.net/THOISU_CT/ChuN/NguyenVLong.php"
+source: "/THOISU_CT/ChuN/NguyenVLong"
 category: "Chính trị"
 lang: vi
 wordCount: 4592
-image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nha.jpg"
+image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/LICHSU/TONY/Tannhan/Toiac_VNCH_3a.jpg"
 ---
 
 <table border="0" cellpadding="0" width="250" align="center">
             <tbody><tr>
-              <td width="125"><a href="/index"><img border="0" src="https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nha.jpg"></a></td>
+              <td width="125"></td>
               <td valign="middle">15-Nov-2012</td>
             </tr>
           </tbody></table>
@@ -80,7 +80,7 @@ image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nha.jpg"
               thiên hạ, chỉ khơi lại cho những người hiểu biết cảnh tướng chạy
               trước, quân chạy sau, chà đạp lên dân chúng, cướp đường mà chạy,
               cho nên chỉ có 55 ngày mà quân đội miền Nam tan rã, vứt đầy xa
-              lộ quân phục, quân dụng và súng ống.<a href="https://sachhiem.net/THOISU_CT/ChuT/TinXaluan.php">[Có
+              lộ quân phục, quân dụng và súng ống.<a href="/THOISU_CT/ChuT/TinXaluan">[Có
               thể xem những hình ảnh này trên trang nhà sachhiem.net]</a>Vậy thì hào hùng ở chỗ
               nào? vinh quang ở chỗ nào? Thế mà người ta vẫn cứ huênh hoang tổ
               chức nọ kia để “vinh danh chiến sĩ Việt Nam Cộng Hòa”. </p>
@@ -368,7 +368,7 @@ image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nha.jpg"
           
           <p><b>SH chú thích:</b></p>
           <p>Phần tô màu xanh lợt trong bài này đã đăng trong:</p>
-          <p><a href="https://sachhiem.net/THOISU_CT/ChuT/TinXaluan.php">"Phanh
+          <p><a href="/THOISU_CT/ChuT/TinXaluan">"Phanh
               phui thêm những tội ác của lính Mỹ trong chiến tranh VN"</a> của Minh Hiển
             -<br> 
             https://sachhiem.net/THOISU_CT/ChuT/TinXaluan.php ngày 20 tháng 6, 2010 </p>

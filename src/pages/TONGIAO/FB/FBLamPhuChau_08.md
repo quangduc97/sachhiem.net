@@ -3,7 +3,7 @@ layout: ../../../layouts/Article.astro
 title: "Thế Nào Là Sống Tốt?"
 author: "Lâm Phú Châu"
 date: 2021-08-24
-source: "https://sachhiem.net/TONGIAO/FB/FBLamPhuChau_08.php"
+source: "/TONGIAO/FB/FBLamPhuChau_08"
 category: "Chính trị"
 lang: vi
 wordCount: 1121
@@ -18,7 +18,7 @@ image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/TONGIAO/IMG/BIBLE/Ye
 <p align="center"><img src="https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/TONGIAO/IMG/BIBLE/YeuChuatrenhetmoisu.JPG" width="500" height="277" alt=""></p>
 <p align="center">Đây là bài giảng trên trang web <a href="https://www.simonhoadalat.com/hochoi/giaoluat/tusachgiaolygp/XungToiRuocLe2/Bai15.htm">simonhoadalat.com</a></p>
 
-<p>Thế lực của  họ còn làm thêm một cái tội che giấu tội ác này nữa, đó là vận động bỏ hết các  dấu vết của họ trong sách Lịch Sử Việt Nam để con cháu lớn lên sẽ không còn  thấy tội ác này của họ nữa! Thật ra, nếu ai chuyên nghiên cứu lịch sử, để nhiều  thời gian đọc sách thì sẽ thấy đó đây các mảnh vụn của sự thật vẫn còn có thể  chắp vá lại thì vẫn có thể nhìn thấy. Tác giả Nguyễn Mạnh Quang đã làm công  việc đó cho chúng ta trong vô số bài viết của ông, tiêu biểu như trong tập sách  "<a href="https://sachhiem.net/NMQ/HOSOTOIAC/VATICAN_Main.php?fbclid=IwAR3_-hD7ziZ0ZrSMjf5Y12xWYocewBVX9iGUuCKxljvxMgUDoDr6V0YiQZY" target="_blank"><i>Giáo Hội La Mã: Lịch Sử Và Hồ Sơ Tội Ác</i>.</a>" </p>
+<p>Thế lực của  họ còn làm thêm một cái tội che giấu tội ác này nữa, đó là vận động bỏ hết các  dấu vết của họ trong sách Lịch Sử Việt Nam để con cháu lớn lên sẽ không còn  thấy tội ác này của họ nữa! Thật ra, nếu ai chuyên nghiên cứu lịch sử, để nhiều  thời gian đọc sách thì sẽ thấy đó đây các mảnh vụn của sự thật vẫn còn có thể  chắp vá lại thì vẫn có thể nhìn thấy. Tác giả Nguyễn Mạnh Quang đã làm công  việc đó cho chúng ta trong vô số bài viết của ông, tiêu biểu như trong tập sách  "<a href="/NMQ/HOSOTOIAC/VATICAN_Main.php?fbclid=IwAR3_-hD7ziZ0ZrSMjf5Y12xWYocewBVX9iGUuCKxljvxMgUDoDr6V0YiQZY" target="_blank"><i>Giáo Hội La Mã: Lịch Sử Và Hồ Sơ Tội Ác</i>.</a>" </p>
 <p>  Cũng vì chỉ yêu mến  "<i>một mình Chúa</i>", mà họ đã trở nên ích kỷ trong từng tư tưởng và hành  động. Đã ích kỷ thì việc giành cho phe mình được hơn, được trên tất cả, đưa đến  gây chiến, và tàn ác là kết quả tất yếu. </p>
 <p align="center"><img src="https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/TONGIAO/IMG/VATICAN/WORLD/crusades.jpg" width="350" height="230" alt=""></p>
 <p>  Nhân vật Chúa trong  thánh kinh đã dạy rất nhiều điều cùng hung cực ác như sau, cả trong Tân Ước,  lẫn Cựu Ước. Xin chỉ kể ra 1 vài trong nhiều câu mà chúng tôi từng đọc:</p>

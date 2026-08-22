@@ -3,7 +3,7 @@ layout: ../../layouts/Article.astro
 title: "Góp Ý Phụ Với Anh Diệu"
 author: "Nguyễn Hoàng Cương"
 date: 2013-06-26
-source: "https://sachhiem.net/DOITHOAI/NgHoangCuong01.php"
+source: "/DOITHOAI/NgHoangCuong01"
 category: "Tác giả"
 lang: vi
 wordCount: 547
@@ -11,7 +11,7 @@ image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/TONGIAO/IMG/TINHDUC/
 ---
 
 <p><b>Bài dẫn:</b> <i>Nói Chuyện Với Hacker</i> (Trần Quang Diệu)</p>
-<p><a href="https://www.sachhiem.net/LICHSU/TR/TQD29_Hkr.php">https://sachhiem.net/LICHSU/TR/TQD29_Hkr.php</a></p>
+<p><a href="/LICHSU/TR/TQD29_Hkr">https://sachhiem.net/LICHSU/TR/TQD29_Hkr.php</a></p>
 <hr>
 
 <p><span class="First">N</span>hân chuyện anh Trần Quang  Diệu với Hacker gian dối, tôi xin có vài dòng góp ý phụ̣ với anh Diệu. </p>

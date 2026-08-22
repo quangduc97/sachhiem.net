@@ -2,15 +2,14 @@
 layout: ../../layouts/Article.astro
 title: "Vài Ý Nghĩa Khác Nhau Qua Lịch Sử Của Chữ Vạn"
 author: "Lý Thái Xuân"
-source: "https://sachhiem.net/LTX/LyThaiTS18.php"
+source: "/LTX/LyThaiTS18"
 category: "Chính trị"
 lang: vi
 wordCount: 2173
-image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nha.jpg"
+image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/THOISU_CT/Hinh/UKRAINE/Zelenski_Pres.jpg"
 ---
 
-<p align="center"><a href="https://www.sachhiem.net/"> <img border="0" src="https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nha.jpg"></a> </p>
-  <div class="tomluoc">
+<div class="tomluoc">
     <p><i>Khi chữ thập ngoặc ngày càng hòa nhập với chủ nghĩa dân tộc của Đức, ảnh hưởng của Adolf Hitler ngày càng lớn - và ông đã sử dụng hình chữ thập có móc làm biểu tượng của đảng Quốc Xã vào năm 1920. “Ông ấy bị thu hút bởi nó vì nó đã được sử dụng trong các nhóm dân tộc chủ nghĩa, phân biệt chủng tộc khác"</i> [Steven Heller.]</p>
   </div>
   <p><span class="First">N</span>hận thấy có người  thắc mắc về dấu hiệu chữ VẠN (Swastika) dưới đây mà Tổng Thống Zelenski đã in trên áo. Chữ Vạn là một biểu  tượng vô cùng mạnh mẽ. Đức Quốc xã đã sử dụng nó để <b>giết hàng triệu người  trong suốt thời kỳ Holocaust</b>. Nhưng những người ở trong văn hóa Phật giáo, Ấn giáo đều thấy nó rất quen thuộc. </p>

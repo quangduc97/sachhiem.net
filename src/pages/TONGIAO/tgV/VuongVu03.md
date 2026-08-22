@@ -2,11 +2,10 @@
 layout: ../../../layouts/Article.astro
 title: "Vài Cảm Nghĩ Về Lễ Tạ Ơn (Vương Vũ)"
 author: "Vương Vũ"
-source: "https://sachhiem.net/null"
+source: "/null"
 category: "Đối thoại"
 lang: vi
 wordCount: 1741
-image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nha.jpg"
 ---
 
 <div align="center">
@@ -14,8 +13,7 @@ image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nha.jpg"
 	<tbody><tr>
 		<td valign="top">
 		<div style="padding-left: 50px; padding-right: 50px">
-			<p><a href="/index">
-			<img border="0" src="https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nha.jpg"></a></p>
+			
 			<p>
 			<i>LTS: Nếu bạn đọc có theo dõi những bài viết ngắn của Vương Vũ sẽ thấy tác giả thường đặt ra một số câu hỏi cho "thức giả Công giáo".  Những câu hỏi đặt cho lương tâm và lý trí sẽ hoặc không có câu trả lời,  hoặc nhận được những câu trả lời mơ hồ, mâu thuẩn như thánh kinh, hoặc bị khủng bố tinh thần hoặc vật chất, cá nhân. Những người có lương tâm sẽ không còn đứng đó để trả lời, hoặc đã lẳng lặng bước ra khỏi khối cộng đồng "dân Chúa."  (SH)</i>
 			</p><p><br><i>From: Vương Vũ 

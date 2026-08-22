@@ -3,7 +3,7 @@ layout: ../../../layouts/Article.astro
 title: "Không gian vườn thiền và cội trầm Phước Huệ"
 author: "Pháp Bảo"
 date: 2014-08-07
-source: "https://sachhiem.net/TONGIAO/tgP/PhapBao.php"
+source: "/TONGIAO/tgP/PhapBao"
 category: "Tác giả"
 lang: vi
 wordCount: 1199

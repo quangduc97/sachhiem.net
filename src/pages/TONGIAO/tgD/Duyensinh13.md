@@ -3,7 +3,7 @@ layout: ../../../layouts/Article.astro
 title: "Phản Biện Bài"
 author: "Duyên Sinh"
 date: 2015-10-07
-source: "https://sachhiem.net/TONGIAO/tgD/Duyensinh13.php"
+source: "/TONGIAO/tgD/Duyensinh13"
 category: "Tác giả"
 lang: vi
 wordCount: 3233
@@ -18,7 +18,7 @@ image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/LICHSU/IMG/NGODD/Bao
   <p> <i>Đương nhiên vẫn còn những kẻ có quan hệ nào đó, hoặc vật chất, hoặc tinh thần của chế độ,  vì cảm tình hay phe phái chính trị, mà quay lưng với đất nước, viết những bài ca tụng một tội đồ của dân tộc, đồng thời áp đặt những từ "Cộng sản" cho "đối phương" để tránh né sự tranh luận đứng đắn. Việc làm này chẳng khác chi những kẻ thất đức lưu manh ngoài xã hội vậy. (SH)</i></p>
 </div>
  <p align="center"><img src="https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/LICHSU/IMG/NGODD/BaoTudo_5conchuot.jpg" width="211" height="320" alt=""><img src="https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/LICHSU/IMG/NGODD/Giadinhtri.jpg" width="320" height="270" alt="diệm ngu, Nhu ác, Cẩn khùng, Thục tham"></p>
- <p align="center"><i><a href="https://sachhiem.net/VANHOC/PhamPhuMinh.php">Bức ảnh trên báo Tự Do</a> nói lên cảnh "sâu dân mọt nước" thời gia đình trị họ Ngô. Lẽ dĩ nhiên là <a href="https://sachhiem.net/NMQ/NMQ005.php">tờ báo đã bị đập phá</a>, và người họa sĩ phải đào tẩu sang nước ngoài.</i></p>
+ <p align="center"><i><a href="/VANHOC/PhamPhuMinh">Bức ảnh trên báo Tự Do</a> nói lên cảnh "sâu dân mọt nước" thời gia đình trị họ Ngô. Lẽ dĩ nhiên là <a href="/NMQ/NMQ005">tờ báo đã bị đập phá</a>, và người họa sĩ phải đào tẩu sang nước ngoài.</i></p>
  <p><span class="First">B</span>ài viết của ông  Nguyễn Kim Khánh căn cứ vào một quyển sách mà tác giả của quyển sách ấy (Ông Hồ  Hữu Nhật) tôi chưa bao giờ biết đến tại Sài Gòn dưới hai thời VNCH-1 và VNCH-2.  Có lẽ tác giả là người của Mặt Trận Giải Phóng Miền Nam chăng? Không đúng! Nếu  là người của Mặt Trận Giải Phóng Miền Nam, thì ông Hồ Hữu Nhật làm sao biết được  số lượng Phật tử Sài Gòn là 200 ngàn năm 1962, và 400 ngàn năm 1964? Nếu ông  Nhật lúc đó là một sinh viên tại Sài Gòn, thì ông Nhật phải biết Phật giáo  không có một thống kê nào cả về số lượng Phật tử năm 1962 và năm 1964?.. Con số  200 ngàn và 400 ngàn có lẽ do suy đoán mà ra. Và nếu con số đó do suy đoán mà  ra, nó có nên dùng làm tài liệu tranh luận hay không? </p>
 <p> Những sử gia  chuyên môn ngoại quốc đã nghiên cứu một cách khoa học, khách quan, và vô tư… đã  viết hàng chục quyển sách về chiến tranh Việt Nam. Tôi nghĩ ông cựu thẩm phán  nên dùng những tài liệu tại ngoại quốc còn hơn. Tôi không nghĩ những tài liệu  của các sinh viên dưới chế độ Cộng Sản đang tập tành viết sách, hoặc các sinh  viên ra trường trong thời gian năm 1975 với phong trào mua bán bằng cấp thì làm  sao có thể xác định giá trị của bài?   </p>
 <p> Một trích đoạn của ông Nguyễn Kim Khánh  làm thí dụ: </p>
@@ -88,7 +88,7 @@ trong đó có ông Ngô Đình Diệm </p>
   <h4>Nhà Ngô có bốn gian hùng<br>
     Diệm ngu, Nhu ác, Cẩn khùng, Thục tham </h4>
   <p><i>Hơn nữa, cái chết nhục nhã của họ Ngô Đình đã là bản án rõ rệt cho tội ác không thể dung thứ. </i></p>
-  <p><i>Tuyển Tập <a href="https://sachhiem.net/LICHSU/S/SH_NDD50nam.php">"Chế Độ Ngô Đình Diệm 50 Năm Nhìn Lại 1963 - 2013: 106 bài viết của 99 tác giả"</a> cũng chỉ là một tập hợp rất giới hạn trong vô số các bài luận tội của quảng đại quần chúng. Tóm gọn có thể tham khảo bài <a href="https://sachhiem.net/NMQ/HOSOTOIAC/CH63_1g.php">Ngô Đình Diệm: Con Người Và Tội Ác của tác giả Nguyễn Mạnh Quang</a>, và bài <a href="https://sachhiem.net/TCN/TCNls/TCNls06.php">Vài Nét Về “Cụ Diệm” của GS Trần Chung Ngọc</a>. Đương nhiên vẫn còn những kẻ có quan hệ nào đó, hoặc vật chất, hoặc tinh thần của chế độ,  vì cảm tình hay phe phái chính trị, mà quay lưng với đất nước, viết những bài ca tụng một tội đồ của dân tộc, đồng thời áp đặt những từ "Cộng sản" cho "đối phương" để tránh né sự tranh luận đứng đắn. Việc làm này chẳng khác chi những kẻ thất đức lưu manh ngoài xã hội vậy. (SH)</i></p>
+  <p><i>Tuyển Tập <a href="/LICHSU/S/SH_NDD50nam">"Chế Độ Ngô Đình Diệm 50 Năm Nhìn Lại 1963 - 2013: 106 bài viết của 99 tác giả"</a> cũng chỉ là một tập hợp rất giới hạn trong vô số các bài luận tội của quảng đại quần chúng. Tóm gọn có thể tham khảo bài <a href="/NMQ/HOSOTOIAC/CH63_1g">Ngô Đình Diệm: Con Người Và Tội Ác của tác giả Nguyễn Mạnh Quang</a>, và bài <a href="/TCN/TCNls/TCNls06">Vài Nét Về “Cụ Diệm” của GS Trần Chung Ngọc</a>. Đương nhiên vẫn còn những kẻ có quan hệ nào đó, hoặc vật chất, hoặc tinh thần của chế độ,  vì cảm tình hay phe phái chính trị, mà quay lưng với đất nước, viết những bài ca tụng một tội đồ của dân tộc, đồng thời áp đặt những từ "Cộng sản" cho "đối phương" để tránh né sự tranh luận đứng đắn. Việc làm này chẳng khác chi những kẻ thất đức lưu manh ngoài xã hội vậy. (SH)</i></p>
 </div>
 <p>_________________________________</p>
 <p>From: <a href="mailto:DiendanDanToc@yahoogroups.com">DiendanDanToc@yahoogroups.com</a> </p>

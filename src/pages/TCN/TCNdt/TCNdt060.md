@@ -3,22 +3,22 @@ layout: ../../../layouts/Article.astro
 title: "Đối Thoại Với GH:"
 author: "Trần Chung Ngọc"
 date: 2012-04-24
-source: "https://sachhiem.net/TCN/TCNdt/TCNdt060.php"
+source: "/TCN/TCNdt/TCNdt060"
 category: "Đối thoại"
 lang: vi
 wordCount: 12475
-image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nha.jpg"
+image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/SACH/DoithoaiJP2.jpg"
 ---
 
 <table border="0" width="250" align="center">
-    <tbody><tr><td width="100"><a href="https://sachhiem.net/index.php"><img border="0" src="https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nha.jpg"></a>    </td>   
+    <tbody><tr><td width="100">    </td>   
     <td width="257"></td>
     </tr></tbody></table>
 
     
     <p><strong><u>Vài Lời Nói Đầu</u></strong></p>
     <p>Một chuyện cũ đã mười mấy năm rồi,  nhưng nay lại thấy trên trang nhà
-      sachhiem.net <a href="https://sachhiem.net/index.php?content=showemail&amp;id=89"> có người nhắc lại một bài của ông Dương Ngọc Dũng: <i>"Nhận
+      sachhiem.net <a href="/com/note"> có người nhắc lại một bài của ông Dương Ngọc Dũng: <i>"Nhận
       Định Về Các Trí Thức Phật Giáo Trong Nhóm Giao Điểm Phê Bình Quyển "Đối
       Thoại Với Đức Giáo Hoàng"",  </i></a>chắc hẳn cho rằng bài này có
       giá trị học thuật và trí thức lắm,  có thể đánh đổ mọi luận điểm của các

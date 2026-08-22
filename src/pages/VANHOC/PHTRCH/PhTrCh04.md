@@ -2,16 +2,16 @@
 layout: ../../../layouts/Article.astro
 title: "Nguyễn Du: Nhà Sư Chí Hiên -"
 author: "TS Phạm Trọng Chánh"
-source: "https://sachhiem.net/VANHOC/PHTRCH/PhTrCh04.php"
+source: "/VANHOC/PHTRCH/PhTrCh04"
 category: "Văn hóa"
 lang: vi
 wordCount: 9394
-image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nha.jpg"
+image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/VANHOC/Hinh/VANNHAN/nguyendu.jpg"
 ---
 
 <table border="0" cellpadding="0" width="250" align="center">
       <tbody><tr>
-       <td width="125"><a href="/index"><img border="0" src="https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nha.jpg"></a></td>
+       <td width="125"></td>
        <td valign="middle">12-FEB-2013</td>
       </tr>
      </tbody></table>

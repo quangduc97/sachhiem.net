@@ -3,18 +3,17 @@ layout: ../../layouts/Article.astro
 title: "Bước Mở Đầu Của Sự Thiết Lập Hệ Thống Thuộc Địa Pháp Ở Việt Nam"
 author: "TS Nguyễn Xuân Thọ"
 date: 2023-02-13
-source: "https://sachhiem.net/NGXUANTHO/BuocMoDau_16.php"
+source: "/NGXUANTHO/BuocMoDau_16"
 category: "Lịch sử"
 lang: vi
 wordCount: 10805
-image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nha.jpg"
+image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/sqdot.gif"
 ---
 
 <p class="Tuaduoi"><b>Sự Kiện Bắc Kỳ, Thái Độ Các Nước</b> </p>
 
 
-  <p align="center"><a href="https://www.sachhiem.net/">
-<img border="0" src="https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nha.jpg"></a>| <a target="_blank" href="https://sachhiem.net/NGXUANTHO/BuocMoDau_Main.php"><span lang="en-us"><b><font face="Symbol">¿</font></b></span> trở ra mục lục</a>| 13-Feb-2023</p> 
+  <p align="center">| <a target="_blank" href="/NGXUANTHO/BuocMoDau_Main"><span lang="en-us"><b><font face="Symbol">¿</font></b></span> trở ra mục lục</a>| 13-Feb-2023</p> 
 <p class="TuaDoLeft"><b>Chương 15 - Thái Độ Của Trung Quốc Và Các Cường Quốc Châu Âu Trước Những Sự Kiện Bắc Kỳ</b></p>
 <p>Kể từ 1883, một cuộc đấu trí ngoại giao hết sức chặt chẽ diễn ra giữa Bắc Kinh và Paris, mà đối tượng tranh giành nhau là miền Bắc Việt Nam.</p>
 <p>Thực Trung Quốc đang bị đe dọa từ nhiều phía: phía Bắc là nước Nga đang gặm dần đường biên giới Mãn Châu, phía Đông là Nhật Bản đang dòm ngó Triều Tiên. Nhưng Trung Quốc hy vọng có thể dựa vào Anh, Đức và Hoa Kỳ. Nhiều sự kiện đang động viên khích lệ nó: thất bại của Pháp tại Ai Cập, cái khó khăn nó vấp phải trong việc xâm nhập Bắc kỳ, phe đối lập trong Quốc hội và trên báo chí Pháp.</p>

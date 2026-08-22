@@ -3,7 +3,7 @@ layout: ../../../layouts/Article.astro
 title: "Phỏng Vấn Các Nhân Vật Liên Quan Trong Phim \"Terror In Little Saigon\""
 author: "Người Việt và CaliToday"
 date: 2015-11-07
-source: "https://sachhiem.net/THOISU_CT/ChuT/TinNgViet01.php"
+source: "/THOISU_CT/ChuT/TinNgViet01"
 category: "Chính trị"
 lang: vi
 wordCount: 9171
@@ -39,7 +39,7 @@ image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/THOISU_CT/Hinh/FRONT
   <p>3. <a name="thre" href="/THOISU_CT/#n3">Nguyễn Xuân Nghĩa:</a> - Chúng ta tiếp tục là nạn nhân của truyền thông Mỹ - Ba Cuộc Phỏng Vấn Và Hai Năm Phóng Vấn</p>
   <p>4. <a name="for" href="/THOISU_CT/#n4">Tổng Bí Thư Việt Tân:</a> Phim Terror In Little Sài Gòn đầy ác ý, và xúc phạm danh dự cộng đồng. CaliToday thực hiện.</p>
   <p>5. <a name="fiv" href="/THOISU_CT/#n5"> Ký giả AC Thompson: </a> trả lời các vấn đề qua phim "Terror in Little Saigon"  </p>
- <p>6.  <a target="_blank" href="https://sachhiem.net/THOISU_CT/ChuT/TinNgViet02.php"> Con trai ông Ðạm Phong lên tiếng </a></p>
+ <p>6.  <a target="_blank" href="/THOISU_CT/ChuT/TinNgViet02"> Con trai ông Ðạm Phong lên tiếng </a></p>
   <p>7. <a name="six" href="/THOISU_CT/#n6"> Nhiều bài đọc thêm.</a></p>
   
   <p align="center"><img src="https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/THOISU_CT/Hinh/FRONT/VietTan_005a.jpg" width="350" height="354" alt="Việt Tân"></p>
@@ -236,12 +236,12 @@ image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/THOISU_CT/Hinh/FRONT
        <iframe width="450" height="315" src="https://www.youtube.com/embed/bTsD_O9WmBc" frameborder="0" allowfullscreen=""></iframe>
      </center>      
    <hr>
-    <p class="TuaDenLeft"> VI.- <b><a target="_blank" href="https://sachhiem.net/THOISU_CT/ChuT/TinNgViet02.php">Con trai ông Ðạm Phong lên tiếng</a> </b> </p>
+    <p class="TuaDenLeft"> VI.- <b><a target="_blank" href="/THOISU_CT/ChuT/TinNgViet02">Con trai ông Ðạm Phong lên tiếng</a> </b> </p>
  <p class="TuaDenLeft"><a name="n6" href="/THOISU_CT/#six">VII.-<b>Bài đọc thêm: </b></a></p>
    <p>1- Khủng Bố Ở Little Saigon - Cuộc Điều Tra Đã Bắt Đầu (PBS Frontline)<br>
-     <a href="https://sachhiem.net/THOISU_CT/ChuT/TinProPublica.php">https://sachhiem.net/THOISU_CT/ChuT/TinProPublica.php</a></p>
+     <a href="/THOISU_CT/ChuT/TinProPublica">https://sachhiem.net/THOISU_CT/ChuT/TinProPublica.php</a></p>
    <p>2- Trình Chiếu Trên Truyền Hình Mỹ Cuộc Điều Tra Về Khủng Bố tại Tiểu Sài Gòn (www.pbs.org)<br>
-     <a href="https://sachhiem.net/XAHOI/T/TheFront.php">https://sachhiem.net/XAHOI/T/TheFront.php</a></p>
+     <a href="/XAHOI/T/TheFront">https://sachhiem.net/XAHOI/T/TheFront.php</a></p>
    <p>3- Ý kiến của ông Bằng Phong Đặng văn Âu về Phim “Terror in Little Saigon”<br>
   <a href="https://www.vn-share-news.com/2015/11/07/y-kien-cua-ong-bang-phong-dang-van-au-ve-phim-terror-in-little-saigon/" target="_blank"> https://www.vn-share-news.com/2015/11/07/y-kien-cua-ong-bang-phong-dang-van-au-ve-phim-terror-in-little-saigon/</a>&nbsp;</p>
    <p>4- Đấu Khẩu về Đảng Việt Tân Đặng văn Âu vs Tâm Minh Colleen Ha <br>
@@ -251,7 +251,7 @@ image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/THOISU_CT/Hinh/FRONT
      <a href="https://pham-v-thanh.blogspot.com/2013/01/dong-tam-tu-nuoc-mat-phan-ii.html" target="_blank">tập 2</a>  &nbsp; 
      <a href="https://pham-v-thanh.blogspot.com/2013/01/dong-tam-tu-nuoc-mat-phan-iii.html" target="_blank">tập 3</a></p>
 <p>6- Việt Tân là gì? (Phạm Văn Thành) <br>
-<a href="https://sachhiem.net/THOISU_CT/ChuT/TinPhamVThanh.php">https://sachhiem.net/THOISU_CT/ChuT/TinPhamVThanh.php</a></p>
+<a href="/THOISU_CT/ChuT/TinPhamVThanh">https://sachhiem.net/THOISU_CT/ChuT/TinPhamVThanh.php</a></p>
 <p>7. Tài Liệu Cáo Giác Hoạt Động Chính Trị và Tội Ác của Mặt Trận Hoàng Cơ Minh (Thư viện Phạm Văn Thành)<br>
-  <a href="https://sachhiem.net/THOISU_CT/ChuT/TinPhamVThanh01.php">https://sachhiem.net/THOISU_CT/ChuT/TinPhamVThanh01.php</a></p>
+  <a href="/THOISU_CT/ChuT/TinPhamVThanh01">https://sachhiem.net/THOISU_CT/ChuT/TinPhamVThanh01.php</a></p>
 <p>8- <a href="https://www.vietnamexodus.info/vne/vnenews/thoisu/NIEN_BIEU_MAT_TRAN.htm">Niên Biểu - Mặt Trận Quốc Gia Thống Nhất Giải Phóng Việt Nam Việt Nam Canh Tân Cách Mạng Đảng</a> (Đỗ Thông Minh)</p>

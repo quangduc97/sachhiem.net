@@ -3,7 +3,7 @@ layout: ../../../layouts/Article.astro
 title: "Vài Ý Kiến Về Cuốn"
 author: "Trần Chung Ngọc"
 date: 2018-12-18
-source: "https://sachhiem.net/TCN/TCNdt/TCNdt077.php"
+source: "/TCN/TCNdt/TCNdt077"
 lang: vi
 wordCount: 38319
 image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/SACH/TCN_DoManhTri.jpg"

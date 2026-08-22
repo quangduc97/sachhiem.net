@@ -2,7 +2,7 @@
 layout: ../../layouts/Article.astro
 title: "Những Tảng Đá Ngoài Không Gian"
 author: "Lý Thái lược dịch"
-source: "https://sachhiem.net/LTX/LyThaiKH08.php"
+source: "/LTX/LyThaiKH08"
 category: "Khoa học"
 lang: vi
 wordCount: 435

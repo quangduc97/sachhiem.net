@@ -2,14 +2,13 @@
 layout: ../../layouts/Article.astro
 title: "VIỆT NAM MÁU LỬA"
 author: "- Hoành Linh Đỗ Mậu -"
-source: "https://sachhiem.net/HOANHLINH/VNMLphlucC.php"
+source: "/HOANHLINH/VNMLphlucC"
 lang: vi
 wordCount: 4881
-image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nha.jpg"
 ---
 
 <p class="Tuaduoi">QUÊ HƯƠNG TÔI</p>  
-    <p align="center"><a href="/index"><img hspace="20" border="0" src="https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nha.jpg"></a> 01 tháng 11, 2007 </p>
+    <p align="center"> 01 tháng 11, 2007 </p>
 
 <p><b><font face="Times New Roman" size="5">PHỤ LỤC "C" </font></b> </p>
  <hr color="#AA0000" size="1">

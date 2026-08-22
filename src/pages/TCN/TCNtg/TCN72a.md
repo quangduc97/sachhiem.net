@@ -2,14 +2,13 @@
 layout: ../../../layouts/Article.astro
 title: "NHỮNG LỜI CHÂU NGỌC VỀ KI TÔ GIÁO"
 author: "By Robert G. Ingersoll"
-source: "https://sachhiem.net/TCN/TCNtg/TCN72a.php"
+source: "/TCN/TCNtg/TCN72a"
 lang: vi
 wordCount: 11212
-image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nha.jpg"
+image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/DECOR/number1.jpg"
 ---
 
-<p align="center"><a href="https://www.sachhiem.net/">
-<img border="0" src="https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nha.jpg"></a> ngày 02 tháng 6, 2009 </p>
+<p align="center"> ngày 02 tháng 6, 2009 </p>
 <p> <a href="/TCN/TCNtg/TCN72"> <img src="https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/DECOR/number1.jpg" width="30" height="30" alt=""></a>, <a href="/TCN/TCNtg/TCN72a"> <img src="https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/DECOR/number2.jpg" width="30" height="30" alt=""></a> </p>
 	<p><b><a href="/TCN/TCN72">Mời xem lời nói đầu của người dịch <img border="0" src="https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/Next3.gif" width="15" height="6"></a></b></p>
  	 <p> Một lý do chính để bác bỏ Cựu Ước là những 

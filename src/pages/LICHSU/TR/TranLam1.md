@@ -2,7 +2,7 @@
 layout: ../../../layouts/Article.astro
 title: "Làm thế nào để dựng đứng một nhân vật lịch sử? (2)"
 author: "Trần Lâm"
-source: "https://sachhiem.net/null"
+source: "/null"
 category: "Lịch sử"
 lang: vi
 wordCount: 3327

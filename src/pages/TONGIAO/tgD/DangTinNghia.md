@@ -3,7 +3,7 @@ layout: ../../../layouts/Article.astro
 title: "Kitô Giáo Đang Chết Ở Anh, Ở Pháp Linh Mục Rao Giảng Cho Người Già Về Hưu"
 author: "Đặng Tín Nghĩa"
 date: 2014-12-21
-source: "https://sachhiem.net/TONGIAO/tgD/DangTinNghia.php"
+source: "/TONGIAO/tgD/DangTinNghia"
 category: "Chính trị"
 lang: vi
 wordCount: 978

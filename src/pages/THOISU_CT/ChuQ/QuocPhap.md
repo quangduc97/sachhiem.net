@@ -3,7 +3,7 @@ layout: ../../../layouts/Article.astro
 title: "CHXHCN Việt Nam Có Bị Ràng Buộc Bởi Công Thư 1958?"
 author: "Quốc Pháp / Thanh Niên OL"
 date: 2014-06-20
-source: "https://sachhiem.net/THOISU_CT/ChuQ/QuocPhap.php"
+source: "/THOISU_CT/ChuQ/QuocPhap"
 category: "Tác giả"
 lang: vi
 wordCount: 4900
@@ -102,6 +102,6 @@ image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/THOISU_CT/Hinh/Quanh
 <p>
     Hay quá! Cần lắm những  bài viết như vậy để tránh bị kẻ xấu xuyên tạc.</p>
   <p>___________________</p>
-  <p><a href="https://sachhiem.net/LICHSU/H/HoangSa_list.php">Các bài về Hoàng Sa- Trường Sa đăng trên sachhiem.net » </a></p>
+  <p><a href="/LICHSU/H/HoangSa_list">Các bài về Hoàng Sa- Trường Sa đăng trên sachhiem.net » </a></p>
   
   <p class="nguonL">Nguồn https://www.thanhnien.com.vn/pages/20140620/chxhcn-viet-nam-co-bi-rang-buoc-boi-cong-thu-1958.aspx 20/06/2014 19:00 </p>

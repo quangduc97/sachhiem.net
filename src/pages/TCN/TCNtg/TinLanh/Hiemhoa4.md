@@ -2,7 +2,7 @@
 layout: ../../../../layouts/Article.astro
 title: "Hiểm Họa Tin Lành -4 (Trần Chung Ngọc)"
 author: "Trần Chung Ngọc"
-source: "https://sachhiem.net/null"
+source: "/null"
 lang: vi
 wordCount: 11277
 image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nha.gif"
@@ -24,7 +24,7 @@ image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nha.gif"
 <tr><td width="100%">
 <div style="padding-left: 50px; padding-right: 50px"> 
 	<table border="0" cellpadding="1" width="86%" cols="2"><tbody><tr>
-	<td><a href="https://sachhiem.net/">
+	<td><a href="/">
 	<img border="0" src="https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nha.gif" width="47" height="37"></a></td>
 <td valign="top" width="265"><p>đăng ngày 02 tháng 
 	10, 2009

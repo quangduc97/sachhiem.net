@@ -2,16 +2,16 @@
 layout: ../../../layouts/Article.astro
 title: "Tâm Thư Gửi Nhà Nước Việt Nam"
 author: "Nguyễn Mạnh Quang"
-source: "https://sachhiem.net/NMQ/TAMTHU/NMQtt_21a.php"
+source: "/NMQ/TAMTHU/NMQtt_21a"
 lang: vi
 wordCount: 3048
-image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nha.jpg"
+image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/print.gif"
 ---
 
-<p align="center"><a href="https://www.sachhiem.net/"> <img border="0" src="https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nha.jpg"></a> | 
-<a target="_blank" href="https://sachhiem.net/NMQ/TAMTHU/NMQtt_21a.php">
+<p align="center"> | 
+<a target="_blank" href="/NMQ/TAMTHU/NMQtt_21a">
 <img border="0" src="https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/print.gif" width="18" height="18"> 
- bản in </a>| <a target="_blank" href="https://sachhiem.net/NMQ/TAMTHU/NMQtt_Main.php"><b>
+ bản in </a>| <a target="_blank" href="/NMQ/TAMTHU/NMQtt_Main"><b>
 ¿</b> trở ra mục lục </a> | 23 tháng 2, 2011 </p>
 <p class="CHUONG">PHẦN IV</p>
 <center>
@@ -70,7 +70,7 @@ CHÚ THÍCH </p>
 10">
 		[10]</a>
 		nguồn
-		<a href="https://sachhiem.net/TONGIAO/tgT/TinYahoo03.php">
+		<a href="/TONGIAO/tgT/TinYahoo03">
 		https://sachhiem.net/TONGIAO/tgT/TinYahoo03.php</a>.</p>
 <p><a name="_edn11" title="" href="/NMQ/NMQtt_21#_ednref
 11">
@@ -87,7 +87,7 @@ CHÚ THÍCH </p>
 		<i>
 		Shawn Pogatchnik, Associated Press. “</i>Vatican 
 		warned Irish bishops not to report abuse.”:
-		<a href="https://sachhiem.net/TONGIAO/tgT/TinYahoo03.php">
+		<a href="/TONGIAO/tgT/TinYahoo03">
 		https://sachhiem.net/TONGIAO/tgT/TinYahoo03.php</a>.</p>
 <p><a name="_edn12" title="" href="/NMQ/NMQtt_21#_ednref
 12">
@@ -412,7 +412,7 @@ CHÚ THÍCH </p>
 46">
 		[46]</a>
 		Nguyễn Văn Tuấn, Sđd., tr 171
-		<a title="" href="https://sachhiem.net/NMQ/HOSOTOIAC/CH63_1g.php#_edn3">
+		<a title="" href="/NMQ/HOSOTOIAC/CH63_1g#_edn3">
 		[</a></p>
 <p><a name="_edn47" title="" href="/NMQ/NMQtt_21#_ednref
 47">

@@ -2,15 +2,13 @@
 layout: ../../../layouts/Article.astro
 title: "DOANH NHÂN VIỆT NAM"
 author: "Minh Mẫn"
-source: "https://sachhiem.net/MINHMAN/Chinhtri/Minhman5.php"
+source: "/MINHMAN/Chinhtri/Minhman5"
 lang: vi
 wordCount: 2162
-image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nha.jpg"
 ---
 
 <table border="0" align="center" cellpadding="1" width="250"><tbody><tr>
-	<td width="110"><a href="https://www.sachhiem.net/">
-	<img border="0" src="https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nha.jpg"></a></td>
+	<td width="110"></td>
 	<td valign="top" style="text-align:right">  17&nbsp; tháng 
 	9, 2007
 	</td></tr></tbody></table>

@@ -2,10 +2,10 @@
 layout: ../../../layouts/Article.astro
 title: "Trái Tim Bất Tử"
 author: "Quốc Việt/Tuổi Trẻ"
-source: "https://sachhiem.net/null"
+source: "/null"
 lang: vi
 wordCount: 1437
-image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nha.jpg"
+image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/TONGIAO/IMG/botatQuangDuc.jpg"
 ---
 
 <div align="center" style="position: relative; left: 0; top: 0">
@@ -22,8 +22,7 @@ image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nha.jpg"
 <tr><td bgcolor="#FEFEFE" width="100%">
 <div style="padding-left: 50px; padding-right: 50px"> 
 	<table border="0" cellpadding="10" width="85%" cols="2"><tbody><tr>
-	<td valign="top" width="198"><a href="/index">
-	<img border="0" src="https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nha.jpg"></a></td>
+	<td valign="top" width="198"></td>
 	<td valign="top" style="text-align:right"> 31 tháng 5, 2010</td></tr></tbody></table>
 	<table border="0" width="600" cellpadding="10" align="center">
 		<tbody><tr>

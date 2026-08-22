@@ -3,14 +3,14 @@ layout: ../../../layouts/Article.astro
 title: "Bà Maria Linh Thiêng Ra Sao? Niềm Tin và Thách Thức"
 author: "Minh Tỏ"
 date: 2015-09-16
-source: "https://sachhiem.net/TONGIAO/tgM/MinhTo.php"
+source: "/TONGIAO/tgM/MinhTo"
 category: "Tác giả"
 lang: vi
 wordCount: 643
-image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nha.jpg"
+image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/arrow.gif"
 ---
 
-<p align="center"><a href="https://www.sachhiem.net/"> <img border="0" src="https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nha.jpg"></a> ngày 16-Sep-2015</p>
+<p align="center"> ngày 16-Sep-2015</p>
   <p><i>LTS: Những bản tin sau đã có từ lâu trên các mạng toàn cầu, nhưng không có bao nhiêu người Việt của chúng ta biết đến. Thân hữu Minh To lượm lặt, chứng minh những điều gian dối của những tín đồ Ca-tô Rô-ma đã mê hoặc người khác làm họ tin theo những chuyện "lạ" do họ sáng tạo. Đặc biệt trong số này có một  mục sư của giáo phái Tông Đồ, muốn hạ bệ biểu tượng của Ca-tô Rô-ma giáo là Maria. Tin Lành không tin và không thờ Maria vì cho rằng Jesus là con Thượng Đế, còn Maria chỉ là người phàm, không đáng thờ. Cá nhân chúng tôi không chấp nhận hành động mang hình thức quá tàn nhẫn của ông mục sư này, nhưng ông ta đã thách thức trước mặt tín đồ về niềm tin vào cục đất sét vô tri và nói lên những bịa đặt về "phép lạ" của Maria.  Niềm tin tự nó không đáng nói, nhưng chúng tôi quyết liệt chống lại những ai tìm cách gian dối để mê hoặc người khác làm cho dân trí càng ngày càng thấp kém. (SH)</i></p>
   <hr>  
   <p><b>From:</b> "Minh To <a href="mailto:minhsangto@yahoo.com">minhsangto@yahoo.com</a> [Thoiluan]" <br>

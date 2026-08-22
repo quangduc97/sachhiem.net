@@ -3,14 +3,14 @@ layout: ../../../layouts/Article.astro
 title: "Ăn Cơm Quốc Gia Thờ Ma Cộng Sản"
 author: "Trần Chung Ngọc"
 date: 2012-12-05
-source: "https://sachhiem.net/TCN/TCNts/TCNts063.php"
+source: "/TCN/TCNts/TCNts063"
 category: "Chính trị"
 lang: vi
 wordCount: 18140
-image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nha.jpg"
+image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/THOISU_CT/Hinh/CCCB/bieutinhoWAdc.jpg"
 ---
 
-<table border="0" align="center" width="250">  <tbody><tr>  <td width="100"><a href="https://sachhiem.net/index.php"><img border="0" src="https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nha.jpg"></a></td> 	
+<table border="0" align="center" width="250">  <tbody><tr>  <td width="100"></td> 	
 <td valign="top" style="text-align:right">05-Dec-2012</td>  
 </tr></tbody></table> 	  
 <p><i>LTS: Được biết ông Góp Gió Võ Văn Sáu viết một số bài để "Hầu chuyện với
@@ -39,7 +39,7 @@ image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nha.jpg"
     lúc ông đang chuẩn bị hành lý để đi du lịch) nên đã cấp tốc gửi cho tòa
     soạn một bài sau đây, chỉ ngại rằng ông Góp Gió không muốn nghe. (SH) </i></p><hr>
 
-<p><span class="First">G</span>iáo sư Nguyễn Mạnh Quang đã viết một bài dài “Về Cụm Từ <a href="https://sachhiem.net/NMQ/NMQ018.php"> “<i>Ăn Cơm Quốc Gia Thờ Ma Cộng Sản</i>”” </a> trong
+<p><span class="First">G</span>iáo sư Nguyễn Mạnh Quang đã viết một bài dài “Về Cụm Từ <a href="/NMQ/NMQ018"> “<i>Ăn Cơm Quốc Gia Thờ Ma Cộng Sản</i>”” </a> trong
      đó ông đã cho chúng ta biết thế nào là <b>ý nghĩa thực</b> của “Quốc Gia”
      và có thực là <b>có&nbsp; “Miếng Cơm Quốc Gia” hay không</b>.&nbsp; Tôi nhìn vấn đề dưới một khía cạnh khác,  về <b>những
      người phát ra cụm từ trên</b> và nhiều cụm từ tương tự khác, những  người mà tôi liệt vào hạng u mê.&nbsp; </p>
@@ -130,10 +130,10 @@ image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nha.jpg"
   ông Nguyễn Văn Long, không phải của tôi, dù có thể là trong thâm tâm tôi đồng
   ý.&nbsp; Đồng ý vì tôi đã nghiên cứu khá nhiều về cuộc chiến ở Việt Nam vừa qua.&nbsp;
   Tôi đã từng viết trên Sách Hiếm bài “<i>Thắc Mắc Về Lá Cờ Vàng Ba Sọc Đỏ</i>”
-  [Xin đọc: <a href="https://www.sachhiem.net/TCN/TCNts/TCNts19.php">https://www.sachhiem.net/TCN/TCNts/TCNts19.php</a>]
+  [Xin đọc: <a href="/TCN/TCNts/TCNts19">https://www.sachhiem.net/TCN/TCNts/TCNts19.php</a>]
   trong đó tôi bày tỏ quan điểm của tôi về lá cờ đó như sau:</p> 
 <div class="indent50">
-  <p><i> Đây là lá cờ mà tôi đã từng phục vụ dưới nó trong hơn <a href="https://www.sachhiem.net/TCN/TCNts/TCNts19.php">hai</a> thập
+  <p><i> Đây là lá cờ mà tôi đã từng phục vụ dưới nó trong hơn <a href="/TCN/TCNts/TCNts19">hai</a> thập
     niên: 8 năm rưỡi trong Quân Lực Việt Nam Cộng Hòa, và nhiều năm trong ngành
     giáo dục ở miền Nam. Cho nên tôi <u>không chê nó, không ghét  nó</u>.. </i>[cũng
     như tôi không ghét lá cờ đỏ sao vàng.]<i>&nbsp; Tại  sao? Bởi vì dưới những lá
@@ -229,7 +229,7 @@ image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nha.jpg"
       – các giáo sĩ tìm cách móc nối, ăn rễ vào Hoàng tộc và những phong trào
       kháng Pháp.....</i></p>
 <p>Tư tưởng "kháng Pháp" (nếu có) trong triều đình là do Giáo Hội La Mã lèo lái để chiếm
-  thế lực hoàng tộc: <a href="https://sachhiem.net/NMQ/ChanDungVNCH/QMN05.php" rel="nofollow" target="_blank">https://sachhiem.net/NMQ/ChanDungVNCH/QMN05.php</a></p>
+  thế lực hoàng tộc: <a href="/NMQ/ChanDungVNCH/QMN05" rel="nofollow" target="_blank">https://sachhiem.net/NMQ/ChanDungVNCH/QMN05.php</a></p>
 <p>Và sau đó, Ngô Đình Khả đã được Pháp cho vào triều đình theo dõi, nhưng ông này lại nghe theo Vatican, và "<i>lái Vua Thành Thái theo hướng khác</i>" (trong "Những Bí Ân Lịch Sử" của Lữ Giang, trang 395)</p>
 <p> Trong bài "Chân Dung 'Người Việt Quốc Gia' Và Lá Cờ Vàng Ba Sọc Đỏ" (https://sachhiem.net/NMQ/ChanDungVNCH/QMN04.php) của GS Nguyễn Mạnh Quang</p> 
 <p class="indent50">"...việc ông vua Thành Thái bị “<i>cụ Ngô Đình Khả (người
@@ -275,7 +275,7 @@ image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nha.jpg"
   tự do theo đúng nghĩa của từ tự do.&nbsp; Cộng sản không chiếm đoạt “quốc gia tự
   do” là miền Nam.&nbsp; Miền Nam là một miền đất của Việt Nam, và Cộng sản thống
   nhất đất nước cũng như khi xưa, nước nhà bị qua phân nhiều lần nhưng rồi cũng
-  thống nhất.&nbsp; [Xin đọc bài <i>Các  Cuộc Chiến Thống Nhất Đất Nước Của Dân Tộc Việt Nam</i> của Giáo sư  Nguyễn Mạnh Quang đăng trên sachhiem.net ngày 25.11.12 :&nbsp; <a href="https://www.sachhiem.net/index.php?content=showrecipe&amp;id=5462">https://www.sachhiem.net/index.php?content=showrecipe&amp;id=5462</a> ]</p>
+  thống nhất.&nbsp; [Xin đọc bài <i>Các  Cuộc Chiến Thống Nhất Đất Nước Của Dân Tộc Việt Nam</i> của Giáo sư  Nguyễn Mạnh Quang đăng trên sachhiem.net ngày 25.11.12 :&nbsp; https://www.sachhiem.net/index.php?content=showrecipe&amp;id=5462 ]</p>
 <p>  Thống nhất đất nước là ước vọng của muôn dân trừ những kẻ vong bản.  Lá cờ vàng ba sọc đỏ không phải là biểu tượng của tự do, hãy nghĩ đến  chính sách “Tố Cộng, diệt Cộng” của Ngô Đình Diệm, giết oan bao nhiêu  người.&nbsp; Hãy nghĩ đến chính sách tiêu diệt các đảng phái khác, thí dụ  Việt Nam Quốc Dân Đảng ở Ba Lòng.&nbsp; Hãy nghĩ đến vụ Caravelle …và còn  nhiều nữa.&nbsp; Nói cho đúng, không có lá cờ nào trên thế giới là biểu  tượng cho tự do tuyệt đối, <u>tự do bao giờ cũng có giới hạn, đều phải  tùy thuộc luật pháp quốc gia, luật pháp quốc gia mỗi nước mỗi khác,  và nhất là tùy thuộc thực tế chính trị của Quốc gia trong mỗi thời  đại.</u>.&nbsp; Chế độ Nga Hoàng cũng không phải là chế độ tự do.&nbsp; Đó là  một chế độ phong kiến có nhiều bất công xã hội nên mới có cuộc cách  mạng 1917.&nbsp; Nga lấy lại lá cờ cũ chỉ là trở lại lá cờ đã có lâu đời  của dân tộc, Putin của Nga ngày nay vốn là một KGB gộc của đảng Cộng  sản Nga ngày xưa và đảng Cộng sản vẫn còn tồn tại, cũng như vẫn còn  hiện hữu trên khắp thế giới, kể cả các nước tự do ở Âu Châu. Ông Góp  Gió nên kiểm điểm lại cái vốn liếng về lịch sử của mình.&nbsp; Phải chăng  ông Góp Gió hi vọng là mai sau, ngay cả khi không còn Cộng sản, ông  có thể vác lá cờ vàng ba sọc đỏ dưới quyền Pháp và Mỹ của miền Nam  về làm lá cờ vạn đại của Quốc Gia Việt Nam hay sao.&nbsp; 37 năm rồi mà  chưa mở mắt.</p> 
 <p>Khi xưa chúng ta có lá quốc kỳ, dù chỉ tồn tại có 5 năm, 1885-1890,  nhưng đó là lá cờ của nước Đại Nam, biết đâu ngày sau người dân trong  nước chẳng lấy lại lá cờ này làm cờ vạn đại của quốc gia, chỉ cần thay  hai chữ Tàu bằng chữ Việt.</p>   
 <p align="center"><img src="https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/LICHSU/IMG/FLAG/CoDaiNam.gif" width="227" height="151"> </p>
@@ -376,7 +376,7 @@ image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nha.jpg"
 <p class="indent50"><i>Sở dĩ nước Mỹ can thiệp vào VN từ năm 1954, sau khi đất nước  VN bị chia đôi là </i><b><i>nhằm giúp miền Nam VN khỏi lọt vào tay  CS sau khi Pháp đã bại trận bỏ chạy, và giúp thế giới tự do <u>ngăn chặn làn sóng đỏ CS tràn xuống Đông Nam Á</u></i>.</b></p>
 <p class="indent50"> <i> Lịch sử hiện đại đã chứng minh điều đó.</i> </p> 
 <p><b>Thứ nhất</b>, không phải Mỹ can thiệp vào Việt Nam từ năm 1954 mà từ  năm 1946 khi Pháp toan tính trở lại Đông Dương để tái lập nền thuộc  địa ở Việt Mam.&nbsp; Trong cuộc tái xâm lăng của thực dân Pháp này, Mỹ  đã giúp 80% quân phí cho Pháp, nghĩa là Mỹ đã toa rập với thực dân  Pháp trong cuộc chiến tranh Đông Dương thứ nhất.</p> 
-<p>Theo tài liệu của <a href="https://sachhiem.net/AMARITX/AMI05.php">https://sachhiem.net/AMARITX/AMI05.php</a> mới  đăng ngày 24/11/2012, thì:</p> 
+<p>Theo tài liệu của <a href="/AMARITX/AMI05">https://sachhiem.net/AMARITX/AMI05.php</a> mới  đăng ngày 24/11/2012, thì:</p> 
 <div class="indent50">
   <p><i>Những loạt bài đầu tiên tiết lộ “Hồ sơ Lầu Năm Góc”  đã gây ra
     phản ứng rộng rãi. Và bây giờ, sau 40 năm, Chính phủ Hoa Kỳ thông

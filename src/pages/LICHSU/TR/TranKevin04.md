@@ -3,7 +3,7 @@ layout: ../../../layouts/Article.astro
 title: "Chế Độ Diệm Sẽ Bị “Lật Đổ Như Chế Độ Lý Thừa Vãn”"
 author: "Sưu tầm của Kevin Trần"
 date: 2016-10-21
-source: "https://sachhiem.net/LICHSU/TR/TranKevin04.php"
+source: "/LICHSU/TR/TranKevin04"
 category: "Lịch sử"
 lang: vi
 wordCount: 2438
@@ -40,7 +40,7 @@ chính quyền  để vượt khủng hoảng, xây dựng lại sức mạnh ch
 một trong những nhân vật khởi xướng Tuyên ngôn)
 </i></p>
   <p>Lẽ dĩ nhiên là gia đình ông Diệm không đếm  xỉa gì đến kháng thư nầy, tiếp tục đàn áp các lực lượng chính trị khác như đã từng  đàn áp Việt Nam Quốc Dân Đảng, Đại Việt, Duy Dân, Dân Xã, … trong các năm trước.  Để củng cố chế độ toàn trị, mọi hoạt động của đối lập hoàn toàn bị tiêu diệt tại  miền Nam Việt Nam nên cuối cùng, cơn phẫn uất chính trị mới nỗ bùng thành “<i>Tuyên Ngôn Caravelle</i>”. </p>
-<p>    Thật vậy, Việt Nam Cộng Hòa dưới thời ông  Diệm không có quy chế đảng phái, truyền thanh thì của nhà nước còn <a href="https://sachhiem.net/THOISU_CT/ChuV/VuBang.php">báo chí thì bị mua chuộc và/hoặc bị  mật vụ khống chế</a>,  toàn bộ quốc hội là dân biểu gia nô, hai nhà tù biệt giam <b>P42 </b>(của Ngô Đình Nhu)<b> </b>và <b>Chín Hầm</b> (của Ngô Đình Cẩn) để tra  khảo và giam giữ tù nhân chính trị thì hoàn toàn nằm ngoài sự kiểm soát của hệ  thống tư pháp… khiến dân chúng càng thêm căm phẫn chế độ Diệm. Và bất mãn cũng  nẫy mầm từ chính ngay trong lòng bộ máy cầm quyền.</p>
+<p>    Thật vậy, Việt Nam Cộng Hòa dưới thời ông  Diệm không có quy chế đảng phái, truyền thanh thì của nhà nước còn <a href="/THOISU_CT/ChuV/VuBang">báo chí thì bị mua chuộc và/hoặc bị  mật vụ khống chế</a>,  toàn bộ quốc hội là dân biểu gia nô, hai nhà tù biệt giam <b>P42 </b>(của Ngô Đình Nhu)<b> </b>và <b>Chín Hầm</b> (của Ngô Đình Cẩn) để tra  khảo và giam giữ tù nhân chính trị thì hoàn toàn nằm ngoài sự kiểm soát của hệ  thống tư pháp… khiến dân chúng càng thêm căm phẫn chế độ Diệm. Và bất mãn cũng  nẫy mầm từ chính ngay trong lòng bộ máy cầm quyền.</p>
 <p>    Tình hình phản dân chủ nguy hiểm cho chế  độ nầy đã khiến Cục Trung Ương Tình Báo CIA của Mỹ phải lo lắng cảnh báo với giới  lãnh đạo Washington về khả năng một cuộc lật đổ chế độ Diệm, như chỉ một tháng  trước đó (4-1960), chế độ Lý Thừa Vãn (Syngman Rhee) đã bị lật đổ tại Nam Hàn. Ngày  12-5-1960, trong tài liệu Tóm Tắt Tin Tức Tình Báo Hàng Tuần (<i>Current Intelligence Weekly Summary</i>),  CIA đã cảnh báo điều đó.</p>
 <p> Điều đáng nói là ba năm sau, năm 1963, tình  hình bắt bớ, giam cầm và xử tội đối lập chính trị <b>còn tệ hại hơn</b>. Trước tình hình đàn áp thô bạo của chính quyền nhà  Ngô, văn hào Nhất Linh Nguyễn Tường Tam đã dùng cái chết của mình để cảnh cáo  chế độ Ngô Đình Diệm một cách quyết liệt hơn: “<i>Sự bắt bớ và xử tội các phần tử đối lập quốc gia là một tội nặng sẽ làm  cho nước mất về tay Cộng sản</i>.” </p>
 <p>    Rồi sau năm 1963, các đảng phái chính trị  chưa kịp hồi sinh vì 8 năm suy kiệt dưới chế độ Diệm thì lại phải đối đầu với chế  độ độc tài quân phiệt của ông tổng thống Công giáo Nguyễn Văn Thiệu, một chế độ  “<i>Diệm Không Diệm</i>” (cụm từ của ký giả  Robert Shaplen) nên các chính đảng đã không đóng góp gì được cho một nên dân chủ  đích thực tại miền Nam Việt Nam.&nbsp; Và lời  tiên đoán của Nhất Linh từ thời ông Diệm đã thành sự thật: “<i>nước mất về tay Cộng sản</i>”,</p>

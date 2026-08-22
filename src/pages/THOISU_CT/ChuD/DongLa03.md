@@ -3,7 +3,7 @@ layout: ../../../layouts/Article.astro
 title: "Chuyến Thăm Mỹ Của TBT Nguyễn Phú Trọng Thật Thú Vị!"
 author: "Đông La"
 date: 2015-07-13
-source: "https://sachhiem.net/THOISU_CT/ChuD/DongLa03.php"
+source: "/THOISU_CT/ChuD/DongLa03"
 category: "Chính trị"
 lang: vi
 wordCount: 2680

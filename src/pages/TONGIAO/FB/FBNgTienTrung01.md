@@ -3,7 +3,7 @@ layout: ../../../layouts/Article.astro
 title: "\"Thầy Phong Thuỷ” Hồ Hữu Hoà Là Tân Linh Mục"
 author: "Nguyễn Tiến Trung"
 date: 2023-02-09
-source: "https://sachhiem.net/TONGIAO/FB/FBNgTienTrung01.php"
+source: "/TONGIAO/FB/FBNgTienTrung01"
 category: "Chính trị"
 lang: vi
 wordCount: 538

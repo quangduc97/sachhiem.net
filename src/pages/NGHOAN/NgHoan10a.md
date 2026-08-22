@@ -3,7 +3,7 @@ layout: ../../layouts/Article.astro
 title: "Trường Sa Nơi Đầu Sóng Ngọn Gió"
 author: "Nguyễn Hoàn"
 date: 2015-01-24
-source: "https://sachhiem.net/NGHOAN/NgHoan10_TS.php"
+source: "/NGHOAN/NgHoan10_TS"
 category: "Văn hóa"
 lang: vi
 wordCount: 1719
@@ -15,10 +15,10 @@ image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/NGHOAN/IMG/Tuongniem
 
  
 	<p><span class="First">Đ</span>ến với đảo Sinh Tồn, tên đảo thể hiện khát  vọng hòa bình và sự trường tồn bất diệt của người Việt Nam, tôi đến thăm và  dâng hương tại chùa Sinh Tồn. Từ cổng chùa vào, phía bên phải chùa có dựng bia  ghi danh 64 liệt sĩ hy sinh tại đảo Gạc Ma ngày 14/3/1988, với họ tên, năm sinh  và quê quán khắc trên bia như sau: </p><div class="danbai"><p><b>Xem toàn tập:</b></p>
- <p> <a target="_blank" href="https://sachhiem.net/NGHOAN/NgHoan10_TS.php"> 1 - Đảo Là Nhà, Biển Là Quê Hương</a></p>
- <p> <a target="_blank" href="https://sachhiem.net/NGHOAN/NgHoan10a.php"> 2 - Những Khúc Tưởng Niệm Trên Biển</a> </p>
-  <p> <a target="_blank" href="https://sachhiem.net/NGHOAN/NgHoan10b.php">3 - Lắng Tiếng Chuông Chùa</a> </p>
- <p> <a target="_blank" href="https://sachhiem.net/NGHOAN/NgHoan10c.php"> 4 - Thắm Tình Quân Dân - Những Nụ Mầm Mới </a> </p>
+ <p> <a target="_blank" href="/NGHOAN/NgHoan10_TS"> 1 - Đảo Là Nhà, Biển Là Quê Hương</a></p>
+ <p> <a target="_blank" href="/NGHOAN/NgHoan10a"> 2 - Những Khúc Tưởng Niệm Trên Biển</a> </p>
+  <p> <a target="_blank" href="/NGHOAN/NgHoan10b">3 - Lắng Tiếng Chuông Chùa</a> </p>
+ <p> <a target="_blank" href="/NGHOAN/NgHoan10c"> 4 - Thắm Tình Quân Dân - Những Nụ Mầm Mới </a> </p>
 </div>
       <div style="border:double #C66 thick; padding:15pt;">
       <ol>   <li>Trần Đức Thông, 1944, Thái  Bình,</li>
@@ -104,5 +104,5 @@ image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/NGHOAN/IMG/Tuongniem
 <p>(<i>Xem tiếp Bút Ký 3</i>)</p>    
 <p>_________________</p>
 <p><b>Bài đọc thêm:</b></p>
-<p>- <a href="https://sachhiem.net/LICHSU/H/HoangSa_list.php">Những bài về Trường Sa &amp; Hoàng Sa đăng trong sachhiem.net</a> (SH)
+<p>- <a href="/LICHSU/H/HoangSa_list">Những bài về Trường Sa &amp; Hoàng Sa đăng trong sachhiem.net</a> (SH)
 </p>

@@ -2,11 +2,10 @@
 layout: ../../../layouts/Article.astro
 title: "Nhìn Lại Hình Ảnh Chiến Tranh Việt Nam"
 author: "https://blogs.denverpost.com/"
-source: "https://sachhiem.net/đăng ngày 30 tháng 4, 2010"
+source: "/đăng ngày 30 tháng 4, 2010"
 category: "Văn hóa"
 lang: vi
 wordCount: 376
-image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nha.jpg"
 ---
 
 <div align="center" style="position: relative; left: 0; top: 0">
@@ -26,8 +25,7 @@ image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nha.jpg"
 <div style="padding-left: 50px; padding-right: 50px"> 
 	<table border="0" cellpadding="1" width="86%" cols="2">
 		<tbody><tr>
-			<td><a href="/index">
-			<img border="0" src="https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nha.jpg"></a></td>
+			<td></td>
 			<td valign="top" width="244">
 			<p>12 tháng 5, 2010 </p></td>
 		</tr>

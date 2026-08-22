@@ -2,7 +2,7 @@
 layout: ../../../layouts/Article.astro
 title: "The quiet Hanoian of Vietnamese politics"
 author: "Ernest Z. Bower/CSIS"
-source: "https://sachhiem.net/null"
+source: "/null"
 category: "Tác giả"
 lang: en
 wordCount: 1541

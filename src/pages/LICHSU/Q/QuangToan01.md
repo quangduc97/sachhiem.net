@@ -3,7 +3,7 @@ layout: ../../../layouts/Article.astro
 title: "Bộ Mặt Thật của Giám Mục Lê Hữu Từ"
 author: "Quang Toản & Nguyễn Hoài"
 date: 2021-02-23
-source: "https://sachhiem.net/LICHSU/Q/QuangToan01.php"
+source: "/LICHSU/Q/QuangToan01"
 category: "Lịch sử"
 lang: vi
 wordCount: 4615

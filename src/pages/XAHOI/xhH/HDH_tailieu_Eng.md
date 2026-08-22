@@ -3,7 +3,7 @@ layout: ../../../layouts/Article.astro
 title: "Hồ Sơ Kiện Tụng Liên Quan Đến Việc HdH Làm Đại Diện ở Houston"
 author: "SH sưu tầm"
 date: 2023-09-09
-source: "https://sachhiem.net/XAHOI/xhH/HDH_tailieu_kien.php"
+source: "/XAHOI/xhH/HDH_tailieu_kien"
 category: "Chính trị"
 lang: vi
 wordCount: 5959
@@ -15,7 +15,7 @@ image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/THOISU_CT/Hinh/HDH/2
 <p align="center">__________________________________</p>
 
 <p class="TuaDenLeft">Nghị Viên AL HOÀNG đang sa lầy trong vụ  NANNYGATE  liên hệ đến vụ kiện giả mạo chữ ký để xin đổi tên đường nơi ông cư ngụ</p>
-<p><a href="https://sachhiem.net/XAHOI/xhH/HDH_tailieu_kien.php">[mời xem bản dịch Việt ở trang trước)</a></p>
+<p><a href="/XAHOI/xhH/HDH_tailieu_kien">[mời xem bản dịch Việt ở trang trước)</a></p>
 
  <p align="center"><img src="https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/THOISU_CT/Hinh/HDH/2011_20Jun_gianlanchuky.JPG" width="450" height="393" alt=""></p>
  <p><a href="https://swamplot.com/turtlewood-square-the-rough-road-to-little-saigon/2011-06-17/#comments"></a>Article: <b>Turtlewood Square: The Rough Road to Little Saigon</b> <a href="https://swamplot.com/turtlewood-square-the-rough-road-to-little-saigon/2011-06-17/#comments">on swamplot.com</a> (20 Jun, 2011)</p>

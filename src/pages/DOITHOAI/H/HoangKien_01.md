@@ -3,7 +3,7 @@ layout: ../../../layouts/Article.astro
 title: "TIẾP TỤC LÊN TIẾNG"
 author: "Hoàng Kiền"
 date: 2022-08-10
-source: "https://sachhiem.net/DOITHOAI/H/HoangKien_01.php"
+source: "/DOITHOAI/H/HoangKien_01"
 category: "Chính trị"
 lang: vi
 wordCount: 6739
@@ -15,7 +15,7 @@ image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/LICHSU/IMG/NHANVAT/H
 
  
  <div class="tomluoc">
-   <p><i><a href="https://sachhiem.net/LICHSU/H/HoangKien.php">Xem đôi dòng về tác giả</a> (SH)</i></p>
+   <p><i><a href="/LICHSU/H/HoangKien">Xem đôi dòng về tác giả</a> (SH)</i></p>
    <p><i>Tổ Chiến đấu trong đó có các trí thức chân chính của Viện Hàn lâm phản đối quyết định sai trái này và tiếp tục tố cáo ông Phan Chí Hiếu và Ban Thường vụ, lãnh đạo Viện Hàn lâm KHXH VN lên cấp có thẩm quyền, </i>.</p>
  </div>
 

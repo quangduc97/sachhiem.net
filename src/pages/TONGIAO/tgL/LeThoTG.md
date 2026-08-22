@@ -2,11 +2,10 @@
 layout: ../../../layouts/Article.astro
 title: "TÍNH THÍCH NGHI CỦA PHẬT GIÁO VIỆT NAM"
 author: "Lệ Thọ"
-source: "https://sachhiem.net/null"
+source: "/null"
 category: "Tác giả"
 lang: vi
 wordCount: 1803
-image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nha.jpg"
 ---
 
 <div align="center" style="position: relative; left: 0; top: 0">
@@ -22,7 +21,7 @@ image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nha.jpg"
 
 	<div style="padding-left: 50px; padding-right: 50px">
 <table border="0" width="600">
-<tbody><tr><td><a href="/index"><img border="0" src="https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nha.jpg"></a></td>
+<tbody><tr><td></td>
 	<td valign="top" style="text-align:right">11 tháng 11, 2007
 	</td></tr></tbody></table>
 		

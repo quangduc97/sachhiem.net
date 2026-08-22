@@ -3,7 +3,7 @@ layout: ../../../layouts/Article.astro
 title: "À Ra Thế! Vesak Và Vụ Chùa Ba Vàng"
 author: "Milu Dau"
 date: 2019-04-03
-source: "https://sachhiem.net/TONGIAO/tgM/MiluDau_04.php"
+source: "/TONGIAO/tgM/MiluDau_04"
 category: "Chính trị"
 lang: vi
 wordCount: 3159
@@ -15,7 +15,7 @@ image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/DECOR/quediem
 <p><i>Trong tổ  chức PG không hề có “ông trùm sò” chuyên theo dõi tín đồ, không có chuyện nhồi  sọ mỗi chủ nhật, không hề có chuyện bắt tín đồ phải đóng góp 10% tiền thu nhập. </i></p>
 <p>  <i>Qua bài học này nhân  dân và phật tử nên ghi tâm phải cương quyết chận đứng những mưu toan của Ca-tô  La Mã giáo đưa người quay lại Việt Nam để giành chính quyền.</i></p>
   </div>
-<p><span class="First">T</span>hời điểm báo chí tả pí lù trong và ngoài nước đồng loạt  đánh hội đồng vụ “gọi vong, cúng oan gia trái chủ” tại chùa Ba Vàng càng làm  cho người viết phải tìm hiểu thêm sau bài vừa đăng trên SH:<i> “<a href="https://sachhiem.net/TONGIAO/tgM/MiluDau_03.php">Cái Nhìn Khác Về Vụ  Chùa Ba Vàng</a>”</i>. </p>
+<p><span class="First">T</span>hời điểm báo chí tả pí lù trong và ngoài nước đồng loạt  đánh hội đồng vụ “gọi vong, cúng oan gia trái chủ” tại chùa Ba Vàng càng làm  cho người viết phải tìm hiểu thêm sau bài vừa đăng trên SH:<i> “<a href="/TONGIAO/tgM/MiluDau_03">Cái Nhìn Khác Về Vụ  Chùa Ba Vàng</a>”</i>. </p>
 <p>Dĩ nhiên những chuyện “<i>gọi vong, cúng oan gia trái chủ</i>”  không phải mới điều lạ gì trong xã hôi Việt Nam bấy lâu nay ở các chùa chiền  thiếu sự trụ trì của các sư thầy đạo cao đức trọng. Nơi cúng tế của các cơ sở  tôn giáo nào của bất cứ đạo nào cũng thực hành lắm sự huyền bí từ khi thành lập.  Nhưng tại sao mãi đến tháng 3 năm 2019 lại bùng nổ vụ Ba Vàng như sấm rền?</p>
 <p>Đúng ra chùa Ba Vàng và GHPGVN nên cám ơn đám báo chí bầy  đàn này… tận “đáy lòng” bởi chúng đã gióng lên tiếng chuông thức tỉnh để GH kịp  thời chấn chỉnh lại những sinh hoạt mê tín dị đoan đã len lỏi ngày càng mạnh từ  các miếu mạo điện đền dân gian vào các chùa chiền tự viện do rất nhiều nguyên  nhân nội và ngoại tại. Dĩ nhiên ngày nay ai cũng biết GH tăng già chẳng có quyền  chế tài như xưa đối với các sư sải tăng ni lệch lạc, hoặc quyền quản trị các  nơi thờ tự theo ý muốn mà còn phải<i> “làm việc với năm cha bảy chú trong hệ thống  quyền lực”</i> nhất là ở miền bắc nơi các phong trào cách mạng vô thần đã từng vô  tư biến chùa chiền thành những nhà kho chứa thóc của hợp tác xã nông nghiệp hằng  mấy thập niên. Khi xã hội thiếu vắng chánh pháp chính đạo thì dân gian dễ bị  tiêm nhiễm mê tín dị đoan như cầu hồn, cầu vong, lên đồng, bà cốt, nhà ngoại cảm  vv… là chuyện thường tình. Các tệ nạn này đã lan tràn bao nhiêu thế kỷ nhưng có  mấy ai quan tâm. Mà phải đợi đến lúc này … </p>
 <p>Các cơ quan chức năng các cấp xem ra rất năng nổ lên tiếng  muốn xen vào nội bộ PG để giải quyết lấy điểm và vội kết án khi chưa điều tra  sâu sát <i>“động cơ chính trị”</i> của sự việc. Trong khi ấy nhiều sự kiện phản động  chống đối chính quyền và gây xáo trộn an ninh nổi cộm của bọn giáo gian “ăn cơm  xứ ta mà thờ ma Vatican” trong các xứ đạo thi Nhà nước lại <i>“kính nhi viễn chi”</i>  đứng nhìn từ xa không dám động thủ vì … có lẽ sợ các ông ngáo ộp ở Vatican và  tây phương kết án đàn áp tôn giáo. PG không có cái oai hùm quốc tế thì đành phải  làm “anh nhà quê hiền như bụt” mà thôi.</p>

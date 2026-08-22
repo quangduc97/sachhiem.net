@@ -3,7 +3,7 @@ layout: ../../../layouts/Article.astro
 title: "Đạo Phật và Khoa học"
 author: "Đồng Trần Tử"
 date: 2025-11-12
-source: "https://sachhiem.net/TONGIAO/FB/FBDongTranTu12.php"
+source: "/TONGIAO/FB/FBDongTranTu12"
 category: "Tác giả"
 lang: vi
 wordCount: 1736

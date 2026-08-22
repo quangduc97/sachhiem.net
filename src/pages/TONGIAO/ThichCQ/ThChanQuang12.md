@@ -3,7 +3,7 @@ layout: ../../../layouts/Article.astro
 title: "Âm Mưu Chiên Hóa Phật Tử Hay Chính Sư Muốn Hại Phật Giáo?"
 author: "Lý Thái Xuân"
 date: 2025-09-18
-source: "https://sachhiem.net/TONGIAO/ThichCQ/ThChanQuang12.php"
+source: "/TONGIAO/ThichCQ/ThChanQuang12"
 category: "Tác giả"
 lang: vi
 wordCount: 2096
@@ -14,7 +14,7 @@ image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/TONGIAO/IMG/SU/THCHA
    <p><i>bất cứ một sự diễn dịch nào về hành động này, dù muốn dù không, cũng không thể đưa đến một kết quả nào khả quan cho đất nước. Nếu tiếp tục làm như thế, kết quả là chính Phật giáo sẽ để cho thế lực của Thiên Chúa giáo xâm chiếm toàn diện vào văn hóa của đất nước ta.</i></p>
  </div>
  
- <p>Phải công nhận rằng thực sự là chương  trình “<i>chiên hóa các Phật tử</i>” của thầy Thích Chân Quang đang thành công. Từ lâu, qua nhiều lần thuyết pháp, thay vì giảng Phật pháp, thầy TCQ tuyên truyền đạo Chúa bằng mấy bài Phúc âm, thánh kinh Tân ước, làm nổi bật phép thần thông của "Chúa Giê-su", khen Chúa Giê-su là bậc vĩ nhân, có khi khen Giê-su là bồ tát, sáng tác nhạc để ca ngợi Chúa, hát mấy bài ca ngợi Chúa, rồi &nbsp;vận động Phật tử “yêu  Chúa”, và “xin làm tôi tớ” Chúa !! (xem <a href="https://sachhiem.net/DOITHOAI/SH/KinhHoaBinh_TCQ.php">https://sachhiem.net/DOITHOAI/SH/Kinh HoaBinh_TCQ.php</a>) Hôm nay các đệ tử trung thành của ông ta lại đem chuyện “tiểu  thuyết” của Nicolas Notovitch, để chứng minh rằng Giê-su đã ở Ấn-độ trong khoảng thời gian chưa được nhắc đến trong bất cứ nơi đâu trước đây. </p>
+ <p>Phải công nhận rằng thực sự là chương  trình “<i>chiên hóa các Phật tử</i>” của thầy Thích Chân Quang đang thành công. Từ lâu, qua nhiều lần thuyết pháp, thay vì giảng Phật pháp, thầy TCQ tuyên truyền đạo Chúa bằng mấy bài Phúc âm, thánh kinh Tân ước, làm nổi bật phép thần thông của "Chúa Giê-su", khen Chúa Giê-su là bậc vĩ nhân, có khi khen Giê-su là bồ tát, sáng tác nhạc để ca ngợi Chúa, hát mấy bài ca ngợi Chúa, rồi &nbsp;vận động Phật tử “yêu  Chúa”, và “xin làm tôi tớ” Chúa !! (xem <a href="/DOITHOAI/SH/KinhHoaBinh_TCQ">https://sachhiem.net/DOITHOAI/SH/Kinh HoaBinh_TCQ.php</a>) Hôm nay các đệ tử trung thành của ông ta lại đem chuyện “tiểu  thuyết” của Nicolas Notovitch, để chứng minh rằng Giê-su đã ở Ấn-độ trong khoảng thời gian chưa được nhắc đến trong bất cứ nơi đâu trước đây. </p>
  <p>Kết quả là đã có Phật tử đã bắt đầu vẹo sang khái niệm "khen Chúa". Thật ra, nếu chỉ khen "cá nhân" ông Phật ông Chúa là "<i>đẹp trai, là trẻ, là khỏe, đôi khi có câu nói rất thoát tục,...</i>" cũng không vấn đề gì cả. Vấn đề ở chỗ là căn bản giáo lý của hai nền văn minh hoàn toàn trái nghịch, chưa kể đến thành tích của tôn giáo của họ đem đến cho nhân loại khác nhau và nghịch nhau thế nào. Những Phật tử yếu kém về nhận thức đã bị chiên hóa, và bắt đầu tấn công những người vạch trần những vấn đề của đạo Chúa ở Việt Nam một cách hết sức hạ cấp, nhưng  ở nội dung này, tôi sẽ không nhắc đến. </p>
  
  <p align="center"><img src="https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/TONGIAO/IMG/SU/THCHANQUANG/ChienHoaPT_Jesus_in_India.jpg" width="400" height="858" alt=""></p>
@@ -70,7 +70,7 @@ Lý Thái Xuân </p>
  <p>Lý Thái Xuân -&gt;
 Võ Hiền </p>
  <p>Không có đâu, hắn đang làm cho cả giáo hội tê liệt thì có. Em có đọc bài này chưa?
-   <a href="https://sachhiem.net/DOITHOAI/SH/KinhHoaBinh_TCQ.php">https://sachhiem.net/DOITHOAI/SH/ KinhHoaBinh_TCQ.php</a></p>
+   <a href="/DOITHOAI/SH/KinhHoaBinh_TCQ">https://sachhiem.net/DOITHOAI/SH/ KinhHoaBinh_TCQ.php</a></p>
  <p>Vu Do
 -&gt; Lý Thái Xuân </p>
  <p>Có quả vả...sưng mõm...!!!</p>

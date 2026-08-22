@@ -2,15 +2,14 @@
 layout: ../../../layouts/Article.astro
 title: "Chớ Làm Chứng Dối"
 author: "Trần Khách Quan"
-source: "https://sachhiem.net/TONGIAO/tgTR/TranKhachQuan02.php"
+source: "/TONGIAO/tgTR/TranKhachQuan02"
 category: "Chính trị"
 lang: vi
 wordCount: 1695
-image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nha.jpg"
+image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/TONGIAO/IMG/VIETNAM/GMNgThaiHop_AuChau_18May17.jpg"
 ---
 
-<p align="center"><a href="https://www.sachhiem.net/"> <img border="0" src="https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nha.jpg"></a>  </p>
-  <div class="tomluoc">
+<div class="tomluoc">
     <p><i>Bởi vậy, chúng tôi rất ngỡ ngàng và cảm thấy bị nhục về một chuyến đi khẩn cầu ngoại bang can thiệp vào công việc của đất nước mình của một Giám Mục, một lãnh đạo cao cấp của Giáo Hội Công Giáo Việt Nam  </i>(TKQ)</p>
   </div>
   
@@ -45,6 +44,6 @@ image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nha.jpg"
 <p>Chúng ta  thấy: Qua những hành động<b> cấu kết với những kẻ đang chống phá đất nước </b>của Giám  Mục Nguyễn Thái Hợp <b>[2]</b>, nhưng ông Giám Mục vẫn được bảo vệ an toàn trên quê hương, điều  này đã chứng tỏ đất nước Việt Nam đang ở trong một tình trạng chủ động về an  ninh và một tình trạng hết sức thích hợp với tự do, dân chủ và nhân quyền. </p>
 <p class="TacgiaL">Khách  Quan. </p>
   <p>____________</p>
-  <p><b>[1]</b> Xem <a href="https://sachhiem.net/TONGIAO/tgTR/TranKhachQuan.php">Suy Gẫm Về Bài Giảng Của Đức Cha Nguyễn Thái Hợp (Trần Khách Quan)</a></p>
+  <p><b>[1]</b> Xem <a href="/TONGIAO/tgTR/TranKhachQuan">Suy Gẫm Về Bài Giảng Của Đức Cha Nguyễn Thái Hợp (Trần Khách Quan)</a></p>
   <p><b>[2]</b> Xem  Youtube: https://youtu.be/eoPcpObQffk - Published on Mar 27, 2017</p>
   <p align="center"><iframe width="427" height="240" src="https://www.youtube.com/embed/eoPcpObQffk" frameborder="0" allowfullscreen=""></iframe></p>

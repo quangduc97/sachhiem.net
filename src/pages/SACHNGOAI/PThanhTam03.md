@@ -3,7 +3,7 @@ layout: ../../layouts/Article.astro
 title: "TỘI ÁC CỦA ĐẠO KI TÔ"
 author: "Tác giả: Toshiaki Suzuki"
 date: 2016-02-08
-source: "https://sachhiem.net/SACHNGOAI/PThanhTam03.php"
+source: "/SACHNGOAI/PThanhTam03"
 category: "Sách ngoại văn"
 lang: vi
 wordCount: 4605

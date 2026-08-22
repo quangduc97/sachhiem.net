@@ -3,7 +3,7 @@ layout: ../../../layouts/Article.astro
 title: "Cửa Chùa Rộng Mở Cho Nên..."
 author: "Ngô Triệu Lịch"
 date: 2019-04-04
-source: "https://sachhiem.net/TONGIAO/tgN/NgoTrieuLich_05.php"
+source: "/TONGIAO/tgN/NgoTrieuLich_05"
 category: "Chính trị"
 lang: vi
 wordCount: 2110
@@ -26,7 +26,7 @@ image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/TONGIAO/IMG/METIN/Qu
 <p>  Nhìn vào Phật giáo hiện nay, không khó để nhận ra  các hình thức mê tín như xin xâm, bói toán, xem ngày giờ, trục vong, thỉnh  vong, vốn là những hình thức tiếp biến văn hóa Lão Trang của Phật giáo phát triển  Trung Hoa, đã ảnh hưởng sâu đậm đến Phật giáo VN từ hàng ngàn năm nay…&nbsp;</p>
 <p>  Công giáo La-mã cũng có những hình thức mê tín  không kém như: <i>đuổi ma trừ quỷ, xuất thần nói tiếng lạ, Đức Mẹ chảy dầu chảy  máu, làm phép lạ, ban ơn chữa lành mọi bệnh tật v.v… </i>Chỉ khác một chút ở chỗ mê  tín trong Phật giáo chỉ là hiện tượng, không có căn bản Phật học. Nhưng đối với  Công giáo nó thuộc về bản chất, có căn bản tín lý và Thần học hẳn hoi, việc trừ  quỷ của các Linh mục là một ví dụ điển hình.</p>
 <p align="center"><img src="https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/TONGIAO/IMG/METIN/Exorcism_class2019.jpg" width="400" height="225" alt=""></p>
-<p align="center"><i>Vatican Mở Khóa Học Trừ Tà, Bắt Ma Cho 250 Linh Mục</i><a href="https://sachhiem.net/SACHNGOAI/SH/SH30.php"> (Báo Chí khắp nơi)</a></p>
+<p align="center"><i>Vatican Mở Khóa Học Trừ Tà, Bắt Ma Cho 250 Linh Mục</i><a href="/SACHNGOAI/SH/SH30"> (Báo Chí khắp nơi)</a></p>
 <p>  Nhưng ở đây, người viết bài này không có ý định bàn  về chủ đề mê tín dị đoan trong các tôn giáo. Chủ đích của bài viết này chỉ để  trả lời một thắc mắc được nhiều người nêu lên trên mạng xã hội, nhân sự kiện thỉnh  vong độ oan gia trái chủ của chùa Ba Vàng. Thắc mắc được nêu cụ thể như sau:</p>
 <p>  <b>Vì sao truyền thông nhà nước tập kích chùa Ba Vàng</b> mà không dám đụng chạm đến Công giáo khi họ biết rất rõ phía Công giáo cũng  truyền bá mê tín công khai như phép lạ, chữa bệnh, trừ quỷ v.v…? (2) Phải chăng đối  với giới truyền thông, Phật giáo đã bị liệt kháng nhưng Công giáo lại được miễn  nhiễm?&nbsp;</p>
 <p>  Để trả lời câu hỏi này, cần xét đến mối quan hệ giữa  tôn giáo và Nhà nước.&nbsp;</p>

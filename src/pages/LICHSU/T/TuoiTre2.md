@@ -2,10 +2,9 @@
 layout: ../../../layouts/Article.astro
 title: "Nhà lao An Nam ở Guyane"
 author: "Phóng viên Tuổi Trẻ: Danh Đức"
-source: "https://sachhiem.net/null"
+source: "/null"
 lang: vi
 wordCount: 1267
-image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nha.jpg"
 ---
 
 <div align="center" style="position: relative; left: 0; top: 0">
@@ -31,8 +30,7 @@ image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nha.jpg"
 		<div style="padding-left: 40px; padding-right: 40px;">
 		<table border="0" cellpadding="0" width="600" cols="2"><tbody><tr>
 <td width="425">
-<a href="/index">
-<img border="0" src="https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nha.jpg"></a></td>
+</td>
 	<td valign="top">	13 tháng 6, 2008
 	</td></tr></tbody></table>
 

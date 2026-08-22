@@ -3,7 +3,7 @@ layout: ../../../layouts/Article.astro
 title: "Nỗi Buồn Chiến Tranh Đang \"Di Họa Hòa Bình\" của Đất Nước"
 author: "Nguyễn Tuấn Anh giới thiệu"
 date: 2025-12-08
-source: "https://sachhiem.net/THOISU_CT/ChuN/NguyenTuanAnh_09.php"
+source: "/THOISU_CT/ChuN/NguyenTuanAnh_09"
 category: "Chính trị"
 lang: vi
 wordCount: 317

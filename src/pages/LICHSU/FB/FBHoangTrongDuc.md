@@ -3,7 +3,7 @@ layout: ../../../layouts/Article.astro
 title: "Nói Toạc Móng Heo Về Bộ GD&ĐT"
 author: "Hoàng Trọng Đức- Bút Thép"
 date: 2022-06-13
-source: "https://sachhiem.net/LICHSU/FB/FBHoangTrongDuc.php"
+source: "/LICHSU/FB/FBHoangTrongDuc"
 category: "Chính trị"
 lang: vi
 wordCount: 978
@@ -34,5 +34,5 @@ image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/LICHSU/IMG/LAT_SU/Di
  <p>https://www.youtube.com/watch?v=QzY_77lrUMY</p>
  <p>_____________</p>
  <p><b>Bài đọc thêm:</b></p>
- <p>- <a href="https://sachhiem.net/LICHSU/FB/FBNguyenRan01.php">"<i>Bức Tử" Còn Thâm Độc, Nguy Hiểm Hơn "Khai Tử"</i>!</a> (Nguyễ̃n Ran)
+ <p>- <a href="/LICHSU/FB/FBNguyenRan01">"<i>Bức Tử" Còn Thâm Độc, Nguy Hiểm Hơn "Khai Tử"</i>!</a> (Nguyễ̃n Ran)
 </p>

@@ -3,7 +3,7 @@ layout: ../../../layouts/Article.astro
 title: "Những Chuyện Kể Của PHGV"
 author: "Phượng Hoàng GV"
 date: 2015-11-06
-source: "https://sachhiem.net/LICHSU/P/PhuongHoang07.php"
+source: "/LICHSU/P/PhuongHoang07"
 category: "Lịch sử"
 lang: vi
 wordCount: 9619
@@ -152,7 +152,7 @@ Date:  Sat, March 19, 2016 6:29 pm</p>
    <p>Kính thưa công luận, </p>
    <p>Có lẽ ai cũng biết, sở  dĩ ông Duyên Sinh đưa ra chủ đề "ĐỐI THOẠI VỚI NGƯỜI ĐẠO THIÊN CHÚA  VIỆT NAM" mà nội dung sẽ có thể bao hàm rộng rãi về kinh điển, về  lịch sử qua những hành tung mà một tôn giáo đã để lại những "lời dạy",  ra lịnh bằng văn bản, với những dấu vết, những hệ quả ra sao đối với  nhân loại, Việt Nam nói riêng. </p>
    <p>Mà ở đây, phải nói  rằng, ông Duyên Sinh cũng nhấn mạnh về lý do là chúng tôi cần phải  "đối thoại" với ông Nguyễn Hy Vọng, Mục sư Nguyễn Huệ Nhật...  chẳng hạn qua những nội dung mà chúng tôi cho rằng mấy ông đã xuyên  tạc không đúng về Phật giáo, nhưng lại được một vài "con cái  Chúa" (cùng phe?) tiếp tay chuyển đi trên các diễn đàn.  </p>
-   <p>... (xem tiếp ở <a href="https://sachhiem.net/index.php?content=showemail&amp;id=1370">https://sachhiem.net/index.php?content=showemail&amp;id=1370</a>)</p>
+   <p>... (xem tiếp ở <a href="/net/TCN/TCNdt/TCNdt042">https://sachhiem.net/index.php?content=showemail&amp;id=1370</a>)</p>
    <p class="TacgiaL">Trần Quang Diệu </p>
 <hr>
 
@@ -316,5 +316,5 @@ Date:  Sat, March 19, 2016 6:29 pm</p>
 <p><b>Nhận xét ngắn của SH về bài viết trên :</b></p>
 <p>Bài viết không có chút cơ sở khoa học nào cả, không dẫn chứng, không tài liệu. Toàn là những lời của kẻ mê sảng (từ của GS Trần Chung Ngọc dành cho Bà r. Thanh)</p>
  <hr> 
-<p>Các chuyện kể của Phượng Hoàng Gò Vấp: link <a href="https://sachhiem.net/LICHSU/P/ListPHGV.inc.php" target="_blank">https://sachhiem.net/LICHSU/N/ListPHGV.inc.php</a></p>  
+<p>Các chuyện kể của Phượng Hoàng Gò Vấp: link <a href="/LICHSU/P/ListPHGV.inc" target="_blank">https://sachhiem.net/LICHSU/N/ListPHGV.inc.php</a></p>  
   <hr>

@@ -2,14 +2,14 @@
 layout: ../../../layouts/Article.astro
 title: "Lưu Công Danh-Nhà Tu Hành Huyền Thoại"
 author: "Nguyễn Hồng Trân"
-source: "https://sachhiem.net/LICHSU/N/NgHgTran_LS01.php"
+source: "/LICHSU/N/NgHgTran_LS01"
 category: "Lịch sử"
 lang: vi
 wordCount: 21388
-image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nha.jpg"
+image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/XAHOI/IMG/NHT_LuuCongDanh.jpg"
 ---
 
-<p align="center"><a href="https://sachhiem.net/index.php"><img border="0" hspace="20" src="https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nha.jpg"></a> 31-July-2013</p> 
+<p align="center"> 31-July-2013</p> 
 <p align="center"><img src="https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/XAHOI/IMG/NHT_LuuCongDanh.jpg" width="300" height="341"></p>
 <p><span class="First">L</span>ưu Công  Danh là một con người bình thường nhưng cuộc đời và sự nghiệp của ông thì thật  là đặc biệt, hiếm có ai như ông. Người ta nói Lưu Công Danh là một nhà  tu hành huyền thoại. Ông là người có tiếng về chuyện đi tu thành Phật sống; về việc  dùng cỏ, lá cây để chữa bệnh cho nhiều người một cách có hiệu nghiệm với mục  đích làm phúc, làm từ thiện là chính. Ông là một con người có tấm lòng nhân ái  với mọi người và có tinh thần, ý thức trách nhiệm cao trong mọi công việc làm  của mình.</p>
 <p>

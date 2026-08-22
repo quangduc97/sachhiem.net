@@ -3,7 +3,7 @@ layout: ../../../layouts/Article.astro
 title: "Đường Thiền Vào Lối Chúa"
 author: "Minh Mẫn"
 date: 2012-10-13
-source: "https://sachhiem.net/MINHMAN/Tongiao/MinhManTG52.php"
+source: "/MINHMAN/Tongiao/MinhManTG52"
 category: "Tác giả"
 lang: vi
 wordCount: 3948

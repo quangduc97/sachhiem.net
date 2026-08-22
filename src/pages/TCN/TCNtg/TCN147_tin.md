@@ -3,7 +3,7 @@ layout: ../../../layouts/Article.astro
 title: "Vài Ý Kiến Xung Quanh Một Bản Tin"
 author: "Trần Chung Ngọc"
 date: 2013-07-28
-source: "https://sachhiem.net/TCN/TCNtg/TCN147_tin.php"
+source: "/TCN/TCNtg/TCN147_tin"
 lang: vi
 wordCount: 622
 image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/TONGIAO/IMG/VATICAN/POPE/Francis_Youthday_RIODEJANEIRO.JPG"
@@ -30,6 +30,6 @@ By Philip Pullella,  Reuters</p>
 <p>  -  <i>Ông  giáo hoàng người Argentina, ở Rio de Janeiro trong Ngày Giới Trẻ Thế  Giới,  nói về “sự huyền nhiệm của những người rời bỏ Giáo hội” vì họ  nghĩ rằng Giáo hội” không còn mang đến cho họ một cái gì có ý nghĩa hay quan  trọng”.  Giáo hội đang mất đi tín đồ cho chủ nghĩa thế tục và các tôn  giáo khác.</i></p>
 <p class="indent50">(The  Argentine pope, in Rio for World Youth Day, referred to what he called “the  mystery of those who leave the church” because they think it “can no longer  offer them anything meaningful or important”. The church has been losing  members to secularism and other religions.)</p>
 <p>
-   [Chắc  giáo hoàng phải nhờ đến Giáo hội Ca-tô Việt Nam để vớt vát lại số tín đồ “xuất  hành” qua chiêu bài “<i>đối thoại chân thành với Phật Giáo để loan báo tin mừng  cứu rỗi</i>” (sic) của Tổng giám Mục Leopoldo Girelli, đại diện giáo hoàng  Francis ở Việt Nam] (xem <a href="https://sachhiem.net/THLOI/CT/ThienLoi8.php"><i>Lại Chuyện Con Cáo Già Va-Thì-Căng</i> - Thiên Lôi</a>)</p>
+   [Chắc  giáo hoàng phải nhờ đến Giáo hội Ca-tô Việt Nam để vớt vát lại số tín đồ “xuất  hành” qua chiêu bài “<i>đối thoại chân thành với Phật Giáo để loan báo tin mừng  cứu rỗi</i>” (sic) của Tổng giám Mục Leopoldo Girelli, đại diện giáo hoàng  Francis ở Việt Nam] (xem <a href="/THLOI/CT/ThienLoi8"><i>Lại Chuyện Con Cáo Già Va-Thì-Căng</i> - Thiên Lôi</a>)</p>
 <p class="TacgiaL">Trần Chung Ngọc</p>
  <hr>

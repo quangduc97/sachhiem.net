@@ -3,7 +3,7 @@ layout: ../../../layouts/Article.astro
 title: "Các “Thánh” Đều “Tịt Ngòi” Làm Phép Lạ Sau Khi Được Xuất Lò."
 author: "Ri Nguyễn sưu tầm"
 date: 2019-03-30
-source: "https://sachhiem.net/TONGIAO/tgN/NguyenRi_42.php"
+source: "/TONGIAO/tgN/NguyenRi_42"
 category: "Tác giả"
 lang: vi
 wordCount: 355
@@ -26,4 +26,4 @@ Triết gia người Mỹ gốc Ba Lan, trong một bức ảnh không ngày.</i
   
 <p>_____________________</p>
  <p>Các bài của Nguyễn Ri: link</p>
- <p> <a href="https://sachhiem.net/TONGIAO/tgN/ListRiNguyen.inc.php" target="_blank">https://sachhiem.net/TONGIAO/tgN/ListRiNguyen.inc.php</a></p>
+ <p> <a href="/TONGIAO/tgN/ListRiNguyen.inc" target="_blank">https://sachhiem.net/TONGIAO/tgN/ListRiNguyen.inc.php</a></p>

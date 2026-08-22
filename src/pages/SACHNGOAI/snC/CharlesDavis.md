@@ -3,7 +3,7 @@ layout: ../../../layouts/Article.astro
 title: "Tại Sao Tôi Bỏ Giáo Hội Ca-Tô La-Mã"
 author: "Nguyên Tác: linh mục Charles Davis"
 date: 2014-01-09
-source: "https://sachhiem.net/SACHNGOAI/snC/CharlesDavis.php"
+source: "/SACHNGOAI/snC/CharlesDavis"
 category: "Sách ngoại văn"
 lang: vi
 wordCount: 5399

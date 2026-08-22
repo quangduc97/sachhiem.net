@@ -2,17 +2,17 @@
 layout: ../../../layouts/Article.astro
 title: "ĐÃ ĐƯA ĐẾN GIẢI PHÁP CHO TÒA KHÂM SỨ"
 author: "Trần Chung Ngọc"
-source: "https://sachhiem.net/TCN/TCNts/TCNts26.php"
+source: "/TCN/TCNts/TCNts26"
 lang: vi
 wordCount: 5669
-image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nha.jpg"
+image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/THOISU_CT/Hinh/chongcongcuongtin.jpg"
 ---
 
 <p class="Tuaduoi">PHẢI CHĂNG CHIẾC KHĂN QUÀNG CỔ </p>
 		
 
   
- <p align="center"><a href="/index"><img hspace="20" border="0" src="https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nha.jpg"></a>ngày 21 tháng 9, 2008 </p>
+ <p align="center">ngày 21 tháng 9, 2008 </p>
 	<p class="MsoNormal">
 	<span class="First">C</span>uồng tín, theo định nghĩa 
 	của Giáo sư Nguyễn Mạnh Quang, là “tổng hợp của ngu dốt, hợm hĩnh, và huênh 

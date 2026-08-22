@@ -3,7 +3,7 @@ layout: ../../../layouts/Article.astro
 title: "Vài Lời Với Giáo Sư Trần Ngọc Thêm"
 author: "Phan Tùng Sơn"
 date: 2021-11-28
-source: "https://sachhiem.net/THOISU_CT/FB/PhanTungSon.php"
+source: "/THOISU_CT/FB/PhanTungSon"
 category: "Chính trị"
 lang: vi
 wordCount: 3535

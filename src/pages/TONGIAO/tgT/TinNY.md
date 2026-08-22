@@ -2,7 +2,7 @@
 layout: ../../../layouts/Article.astro
 title: "Báo Cáo Chi Tiết"
 author: "SHARON OTTERMAN / NYTimes"
-source: "https://sachhiem.net/null"
+source: "/null"
 category: "Tác giả"
 lang: vi
 wordCount: 2498

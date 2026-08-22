@@ -3,7 +3,7 @@ layout: ../../../layouts/Article.astro
 title: "96 PHÚT VỚI THƯỢNG TỌA THÍCH TRÍ QUANG (5.5.1966)"
 author: "Ngô Thế Vinh & Phạm Ðình Vy"
 date: 2019-11-13
-source: "https://sachhiem.net/LICHSU/THTRQuang/NgoTheVinh.php"
+source: "/LICHSU/THTRQuang/NgoTheVinh"
 category: "Chính trị"
 lang: vi
 wordCount: 4662

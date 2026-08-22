@@ -1,7 +1,7 @@
 ---
 layout: ../../layouts/Article.astro
 title: "Tiểu Sử Charlie Nguyễn"
-source: "https://sachhiem.net/null"
+source: "/null"
 lang: vi
 wordCount: 259
 image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.devhttps://sachhiem.net/CHARLIE/IMG/BVCsmall.jpg"
@@ -33,10 +33,10 @@ image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.devhttps://sachhiem.net/
     
     <p class="TuaDenLeft">Phụ chú của tòa soạn: </p>
     <p>Charlie Nguyễn xuất thân đạo dòng, gia đình Công Giáo chính cống từ đời các nhà truyền giáo mới đến truyền đạo ở xứ Ninh Cường, Bùi Chu (thế kỷ 16). Xin xem lời tự bạch của ông trong bài 
-      <a href="https://sachhiem.net/CHARLIE/cukhoai.php">"Củ Khoai Lùi Bếp Tro" ở trang  https://sachhiem.net/CHARLIE/cukhoai.php</a> </p>
+      <a href="/CHARLIE/cukhoai">"Củ Khoai Lùi Bếp Tro" ở trang  https://sachhiem.net/CHARLIE/cukhoai.php</a> </p>
     <p>Charlie Nguyễn đã qua đời ngày 1 tháng 3, năm 2005, để lại nhiều công trình bằng nước mắt và tình yêu dân tộc.</p>
     
     <p>
       <b><i>
         <img border="0" src="https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/ball.GIF" width="15" height="15">
-        <a href="https://sachhiem.net/CHARLIE/thungo.php">Vào trang chính "Tôn Giáo và Dân Tộc"</a></i></b></p>
+        <a href="/CHARLIE/thungo">Vào trang chính "Tôn Giáo và Dân Tộc"</a></i></b></p>

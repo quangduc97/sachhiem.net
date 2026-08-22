@@ -3,7 +3,7 @@ layout: ../../../layouts/Article.astro
 title: "Chiến Dịch Bay - Đem Các Em Bé Việt Nam Đi"
 author: "Diễn Đàn Emails"
 date: 2023-08-18
-source: "https://sachhiem.net/XAHOI/xhN/NgNgChinh.php"
+source: "/XAHOI/xhN/NgNgChinh"
 category: "Chính trị"
 lang: vi
 wordCount: 3594

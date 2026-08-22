@@ -3,7 +3,7 @@ layout: ../../../layouts/Article.astro
 title: "Ngày Giỗ Bác Hồ 21/7 Âm Lịch Nhớ Về Ngôi Nhà 67"
 author: "Nguyễn Tuấn Anh"
 date: 2024-08-23
-source: "https://sachhiem.net/THOISU_CT/ChuN/NguyenTuanAnh_08.php"
+source: "/THOISU_CT/ChuN/NguyenTuanAnh_08"
 category: "Chính trị"
 lang: vi
 wordCount: 591

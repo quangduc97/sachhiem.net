@@ -3,16 +3,16 @@ layout: ../../../layouts/Article.astro
 title: "Bỏ Học Vì Lý Do Tôn Giáo"
 author: "Đào Văn Bình dịch từ"
 date: 2012-12-05
-source: "https://sachhiem.net/DAOVB/TG/DaovBinh6.php"
+source: "/DAOVB/TG/DaovBinh6"
 category: "Tác giả"
 lang: vi
 wordCount: 2072
-image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nha.jpg"
+image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/XAHOI/IMG/west-point-AlbanyNY.jpg"
 ---
 
 <table border="0" cellpadding="0" width="250" align="center">
             <tbody><tr>
-              <td width="125"><a href="/index"><img border="0" src="https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nha.jpg"></a></td>
+              <td width="125"></td>
 			<td valign="top">	05-Dec-2012 </td>
 		</tr>
 	</tbody></table>

@@ -2,11 +2,11 @@
 layout: ../../../layouts/Article.astro
 title: "Khai trương Tổng lãnh sự quán Việt Nam tại Houston"
 author: "tin VN Express"
-source: "https://sachhiem.net/nguồn https://www.vnexpress.net/GL/The-gioi/2010/03/3BA1A25B/ Thứ sáu, 26/3/2010"
+source: "/nguồn https://www.vnexpress.net/GL/The-gioi/2010/03/3BA1A25B/ Thứ sáu, 26/3/2010"
 category: "Chính trị"
 lang: vi
 wordCount: 640
-image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nha.jpg"
+image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/Hinh/TongLanhSuHouston.jpg"
 ---
 
 <div align="center" style="position: relative; left: 0; top: 0">
@@ -38,8 +38,7 @@ image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nha.jpg"
 	<tbody><tr><td bgcolor="White" align="justify" valign="top">
 		
 			<table border="0" cellpadding="10" width="600" cols="2"><tbody><tr>
-				<td><a href="/index">
-				<img src="https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nha.jpg" border="0"></a></td>
+				<td></td>
 				
 	<td valign="top" width="194">03 tháng 4, 2010
 	</td></tr></tbody></table>

@@ -3,7 +3,7 @@ layout: ../../../layouts/Article.astro
 title: "[VATICANOLOGY] Tại Sao Họ Trở Thành Đa Số? Chính Quyền Vatican Tập Họp Lực Lượng Công Giáo Hành Động Như Thế Nào?"
 author: "Minh Thạnh"
 date: 2024-07-24
-source: "https://sachhiem.net/TONGIAO/tgM/MinhThanh44.php"
+source: "/TONGIAO/tgM/MinhThanh44"
 category: "Chính trị"
 lang: vi
 wordCount: 3693

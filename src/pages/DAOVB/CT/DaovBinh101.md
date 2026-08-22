@@ -3,7 +3,7 @@ layout: ../../../layouts/Article.astro
 title: "Nhật Ký Biển Đông: Vụ Jerusalem Gây Họa Cho Liên Hiệp Quốc"
 author: "Đào Văn Bình"
 date: 2017-12-31
-source: "https://sachhiem.net/DAOVB/CT/DaovBinh101.php"
+source: "/DAOVB/CT/DaovBinh101"
 category: "Chính trị"
 lang: vi
 wordCount: 4756

@@ -2,14 +2,13 @@
 layout: ../../layouts/Article.astro
 title: "Ngô Đình Diệm Trong Liên Minh Mỹ - Vatican"
 author: "Nguyễn Mạnh Quang"
-source: "https://sachhiem.net/NMQ/NMQ55.php"
+source: "/NMQ/NMQ55"
 category: "Xã hội"
 lang: vi
 wordCount: 10898
-image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nha.jpg"
 ---
 
-<p align="center"><a href="https://sachhiem.net/index.php"><img border="0" hspace="20" src="https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nha.jpg"></a> <a href="https://giaodiemonline.com/2008/10/lienminh.htm">GD10-2008</a>, SH 20 Jun 2015</p>
+<p align="center"> <a href="https://giaodiemonline.com/2008/10/lienminh.htm">GD10-2008</a>, SH 20 Jun 2015</p>
     <p>   <span class="First">V</span>ới chủ  tâm dựa vào Mỹ để duy trì quyền lực ở Việt Nam, tháng 8 năm 1950, Vatican cho  người đưa ông Ngô Đình Diệm sang Hoa Kỳ để vận động liên kết với siêu cường này  trong một thế liên minh mới mà các nhà viết sử gọi là Liên Minh Mỹ – Vatican hay <i>Trục Washington – Vatican</i>  (The Vatican – Washington Axis)  thay thế cho liên minh cũ Pháp và Vatican.  Như vậy là Vatican đã tự động bỏ rơi nước Pháp và Liên Minh Đế Quốc Thực Dân  Pháp- Vatican coi như bắt đầu tan vỡ kể từ đây.   </p>
 <p>
      Cũng  xin nói rõ là Liên Minh Đế Quốc Thực Dân Xâm Lược Pháp-Vatican do Vatican chủ  xướng,  vốn bắt nguồn từ một Sắc Lệnh <i>Romanus Pontifex</i> được ban  hành vào ngày 8/1/1454 trong thời Giáo Hoàng Nicholas V (1447-1455), khởi sự vận  động vào đầu thế kỷ thứ 17, cũng do người của Giáo Hội La Mã là Linh-mục  Alrexandre de Rhodes đề nghị với nước Pháp kèm theo với bản tường trình thành  quả công tác tình báo tại Việt Nam và lá thư yêu cầu Pháp Hoàng Louis XIV phái  quân đi chinh phục Đông Dương (đã được trình bày đầy đủ trong Chương 20.) Vì  hoàn cảnh khó khăn lúc đó, Pháp Hoàng Louis XIV không đáp ứng được yêu cầu của  Giáo Hội lúc bấy giờ. Trong thập 1780,  lại cũng người của Giáo Hội là  Giám-mục Pigneau de Béhaine lặn lội từ Việt Nam đem Hoàng Tử Cảnh mới có 5 tuổi  đến triều đình Pháp Hoàng Louis XVI, thỉnh cầu viện trợ quân sự cho Nguyễn Ánh  để đánh bại nhà Tây Sơn với chủ ý là Vatican và nước Pháp sẽ lợi dụng công ơn  viện trợ để:  </p>

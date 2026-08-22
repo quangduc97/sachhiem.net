@@ -3,7 +3,7 @@ layout: ../../../layouts/Article.astro
 title: "MƯA ĐỎ - Có Phê Bình Làm Méo Mó Sự Kiện Lịch Sử Và Tác Phẩm Điện Ảnh!"
 author: "TT. Nguyễn Thanh Tuấn / Cả Thật"
 date: 2025-09-23
-source: "https://sachhiem.net/LICHSU/N/NguyenThanhTuan06_Phim.php"
+source: "/LICHSU/N/NguyenThanhTuan06_Phim"
 category: "Xã hội"
 lang: vi
 wordCount: 5148

@@ -2,7 +2,7 @@
 layout: ../../../layouts/Article.astro
 title: "Ngẩng mặt"
 author: "Steven Weinberg - Havard University Press-2001"
-source: "https://sachhiem.net/null"
+source: "/null"
 category: "Khoa học"
 lang: vi
 wordCount: 7056

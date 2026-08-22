@@ -3,7 +3,7 @@ layout: ../../../../layouts/Article.astro
 title: "Bertrand Russell - Sự Tôn Thờ Của Một Người Tự Do"
 author: "Lê Dọn Bàn dịch"
 date: 2014-11-15
-source: "https://sachhiem.net/SACHNGOAI/snL/LeDonBan/LDB11.php"
+source: "/SACHNGOAI/snL/LeDonBan/LDB11"
 category: "Tác giả"
 lang: vi
 wordCount: 11941

@@ -3,7 +3,7 @@ layout: ../../../layouts/Article.astro
 title: "ĐẠO PHẬT: ĐẤT NƯỚC, CUỘC SỐNG và TÂM LINH"
 author: "Nguyên Toàn Trần Việt Long"
 date: 2017-08-22
-source: "https://sachhiem.net/DAOVB/VH/DaovBinh_phebinhsach.php"
+source: "/DAOVB/VH/DaovBinh_phebinhsach"
 category: "Chính trị"
 lang: vi
 wordCount: 4321

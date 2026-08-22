@@ -2,16 +2,16 @@
 layout: ../../layouts/Article.astro
 title: "Gửi Hội Xuân Việt Bắc (Trần Thị Vĩnh Tường/Vietsciences)"
 author: "Trần Thị Vĩnh-Tường/ Vietsciences"
-source: "https://sachhiem.net/TRTVT/TTVT_XH03.php"
+source: "/TRTVT/TTVT_XH03"
 category: "Xã hội"
 lang: vi
 wordCount: 4343
-image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nha.jpg"
+image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/XAHOI/IMG/TTVT/HoiheTaybac.jpg"
 ---
 
 <table border="0" cellpadding="0" width="250" align="center">
             <tbody><tr>
-              <td width="125"><a href="/index"><img border="0" src="https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nha.jpg"></a></td>
+              <td width="125"></td>
               <td valign="top" width="195"><p>30 tháng 4, 2011</p></td></tr></tbody></table>
  <div style="border-top: 1px solid #949494; border-bottom: 1px solid #949494; padding-top: 4px; padding-bottom: 4px; background-color: #F1F1EB"><p>● <a name="rel1" href="/TRTVT/#1">Trải làng ta…</a></p>
  <div style="padding-left: 30px"><p>● <a name="rel2" href="/TRTVT/#2">Hội Thẩm Lệ</a> </p>

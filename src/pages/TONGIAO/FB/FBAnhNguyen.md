@@ -3,7 +3,7 @@ layout: ../../../layouts/Article.astro
 title: "\"Đức Vâng Lời\" Hay Sự Khốn Nạn Đến Cùng Cực"
 author: "FB Anh Nguyên"
 date: 2021-09-04
-source: "https://sachhiem.net/TONGIAO/FB/FBAnhNguyen.php"
+source: "/TONGIAO/FB/FBAnhNguyen"
 category: "Chính trị"
 lang: vi
 wordCount: 838

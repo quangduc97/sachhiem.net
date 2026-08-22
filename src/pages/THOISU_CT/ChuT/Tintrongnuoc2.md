@@ -2,7 +2,7 @@
 layout: ../../../layouts/Article.astro
 title: "Nơi ghi dấu một nỗi đau chung"
 author: "Ngọc Thành"
-source: "https://sachhiem.net/(báo quốc nội)"
+source: "/(báo quốc nội)"
 category: "Lịch sử"
 lang: vi
 wordCount: 1433
@@ -213,7 +213,7 @@ image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.devhttps://www.vovnews.v
 &nbsp;
       
       	<p>Bài liên hệ:</p>
-		<p><a href="https://sachhiem.net/THOISU_CT/Tintrongnuoc3.php">Bỏ Bom 
+		<p><a href="/THOISU_CT/Tintrongnuoc3">Bỏ Bom 
 		Miền Bắc</a></p>
 		
 	</div>

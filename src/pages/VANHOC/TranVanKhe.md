@@ -3,7 +3,7 @@ layout: ../../layouts/Article.astro
 title: "Nhớ Giáo sư Trần Văn Khê:"
 author: "Minh Trần / VNCA"
 date: 2016-10-01
-source: "https://sachhiem.net/VANHOC/TranVanKhe.php"
+source: "/VANHOC/TranVanKhe"
 category: "Chính trị"
 lang: vi
 wordCount: 1194

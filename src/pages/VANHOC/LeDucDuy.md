@@ -2,11 +2,10 @@
 layout: ../../layouts/Article.astro
 title: "tặng Sa Tăng Khoác Áo Chúa!"
 author: "Lê Đức Duy"
-source: "https://sachhiem.net/null"
+source: "/null"
 category: "Văn hóa"
 lang: vi
 wordCount: 1012
-image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nha.jpg"
 ---
 
 <div align="center" style="position: relative; left: 0; top: 0">
@@ -32,7 +31,7 @@ image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nha.jpg"
 	<tbody><tr><td bgcolor="White" align="justify" valign="top">
 		<div style="padding-left: 50px; padding-right: 50px">
 		<table border="0" cellpadding="10" width="600" cols="3"><tbody><tr>
-			<td><a href="/VANHOC/..index"><img border="0" src="https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nha.jpg"></a></td>				
+			<td></td>				
 	<td valign="top">	15 tháng 9,  2008
 	</td></tr></tbody></table>
 

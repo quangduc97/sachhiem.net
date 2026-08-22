@@ -3,7 +3,7 @@ layout: ../../../layouts/Article.astro
 title: "Tiếng Việt thời LM de Rhodes - cách gọi ngày tháng/thời gian"
 author: "Nguyễn Cung Thông"
 date: 2018-07-08
-source: "https://sachhiem.net/VANHOC/NGCGTHG/NguyenCungThong12.php"
+source: "/VANHOC/NGCGTHG/NguyenCungThong12"
 category: "Văn hóa"
 lang: vi
 wordCount: 7530

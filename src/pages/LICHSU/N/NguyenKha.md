@@ -2,7 +2,7 @@
 layout: ../../../layouts/Article.astro
 title: "CHẾ ĐỘ NGÔ ĐÌNH DIỆM"
 author: "Nguyễn Kha"
-source: "https://sachhiem.net/LICHSU/N/NguyenKha.php"
+source: "/LICHSU/N/NguyenKha"
 category: "Lịch sử"
 lang: vi
 wordCount: 11886

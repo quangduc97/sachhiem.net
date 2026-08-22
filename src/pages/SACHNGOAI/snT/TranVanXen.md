@@ -3,7 +3,7 @@ layout: ../../../layouts/Article.astro
 title: "Hồ Sơ Tối Mật Của Bộ Quốc Phòng Mỹ Về Cuộc Đàn Áp Phật Giáo Của Ngô Đình Diệm"
 author: "Trần Văn Xẻn"
 date: 2018-05-27
-source: "https://sachhiem.net/SACHNGOAI/snT/TranVanXen.php"
+source: "/SACHNGOAI/snT/TranVanXen"
 category: "Lịch sử"
 lang: vi
 wordCount: 5170
@@ -14,14 +14,14 @@ image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/LICHSU/IMG/NGODD/NDD
 <p><span class="First">N</span>gô Đình Diệm là ai? Ngô Đình Diệm  là tổng thống VNCH từ năm 1954 cho đến 1963, không do dân bầu hay do ý dân, mà  do Mỹ dựng lên để thực hiện chính sách của Mỹ ở Việt Nam, và sau biến cố Phật  giáo tháng 8/1963, chính phủ Mỹ bắt đầu dự tính lật đổ ông Diệm.</p>
 <p align="center"><img src="https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/LICHSU/IMG/NGODD/NDD_1957.jpg" width="290" height="197" alt="Ngô Đình Diệm"></p>
 <p>  Luận về công/tội, theo thiển ý, Ngô  Đình Diệm không có công trạng gì với tổ quốc ngoài 2 trọng tội: tội gây ra cuộc  chiến 1955 -1975 và tội đàn áp Phật giáo.</p>
-<p>  Về tội gây ra cuộc chiến VN, Ngô Đình Diệm đã cùng tổng  thống Eisenhower của Mỹ bội ước không thi hành hiệp định Geneve qua hành động  từ chối tổng tuyển cử, là nguyên nhân đưa đến cuộc chiến cốt nhục tương tàn  trong suốt 20 năm. Mời các bạn xem thêm chi tiết trong bài <i>“<a href="https://sachhiem.net/LICHSU/TR/TranVanXen.php">Nguyên Nhân Cuộc  Chiến Việt Nam 1955 -1975</a>”</i> trên trang blog <a href="mailto:xenvantran@wordpress.com" target="_blank">xenvantran@wordpress.com</a>, hoặc  trên Youtube <a href="https://www.youtube.com/edit?o=U&amp;video_id=u1UYDOwgLq4">www.youtube.com/edit?o=U&amp;video_id=u1UYDOwgLq</a></p>
+<p>  Về tội gây ra cuộc chiến VN, Ngô Đình Diệm đã cùng tổng  thống Eisenhower của Mỹ bội ước không thi hành hiệp định Geneve qua hành động  từ chối tổng tuyển cử, là nguyên nhân đưa đến cuộc chiến cốt nhục tương tàn  trong suốt 20 năm. Mời các bạn xem thêm chi tiết trong bài <i>“<a href="/LICHSU/TR/TranVanXen">Nguyên Nhân Cuộc  Chiến Việt Nam 1955 -1975</a>”</i> trên trang blog <a href="mailto:xenvantran@wordpress.com" target="_blank">xenvantran@wordpress.com</a>, hoặc  trên Youtube <a href="https://www.youtube.com/edit?o=U&amp;video_id=u1UYDOwgLq4">www.youtube.com/edit?o=U&amp;video_id=u1UYDOwgLq</a></p>
 <p align="center"><img src="https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/LICHSU/IMG/NGODD/1963-ngaytan.jpg" width="100%" alt="ngày tàn của chế độ"></p>
 <p>  Về tội đàn áp Phật giáo, mời các bạn  đọc bài viết bên dưới của Bộ Quốc Phòng Mỹ. </p>
 <p>Bài viết này phản ánh một phần tội  ác của Ngô Đình Diệm và gia đình, trong đó có vợ chồng Ngô Đình Nhu, Ngô Đình  Thục và Ngô Đình Cẩn. Chính vì trọng tội này mà chế độ độc tài gia đình trị họ Ngô bị lật đổ và các anh em Ngô Đình Diệm bị thảm sát.  Âu cũng là nhân quả!</p>
 <a href="https://xenvantran.wordpress.com/author/xenvantran/"><p class="TacgiaL">Trần Văn Xẻn </p></a>
 
 <p class="Tuaduoi">Từ Ngày 8-5 Tới 21-8-1963</p>
-<p align="center">(có đăng ở <a href="/SACHNGOAI/https://thuvienhoasen.org/a17490/the-pentagon-papers-bien-dong-phat-giao-tu-ngay-8-5-toi-21-8-1963">Thư Viện Hoa Sen</a> và <a href="https://sachhiem.net/SACHNGOAI/snN/Nguyengiac_Pentagon.php">Sachhiem.net</a>)</p>
+<p align="center">(có đăng ở <a href="/SACHNGOAI/https://thuvienhoasen.org/a17490/the-pentagon-papers-bien-dong-phat-giao-tu-ngay-8-5-toi-21-8-1963">Thư Viện Hoa Sen</a> và <a href="/SACHNGOAI/snN/Nguyengiac_Pentagon">Sachhiem.net</a>)</p>
 <p align="center"><a href="https://www.history.com/topics/vietnam-war/pentagon-papers"><img src="https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/SACHNGOAI/Hinhanh/BIASACH/Pentagon_pp.jpg" alt="pentagon papers" width="208" height="304"></a></p>
   <p class="TuaDenLeft">Hồ Sơ Mật Bộ Quốc Phòng Hoa Kỳ về  Cuộc Chiến VN</p>
 <p>Giải Mật Ngày 13-6-2011</p>

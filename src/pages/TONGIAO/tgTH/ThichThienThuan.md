@@ -3,7 +3,7 @@ layout: ../../../layouts/Article.astro
 title: "Thượng tọa Thích Thiện Thuận có lời gởi đến bà TS Đoàn Hương và VTC Now"
 author: "TT. Thích Thiện Thuận"
 date: 2024-02-24
-source: "https://sachhiem.net/TONGIAO/tgTH/ThichThienThuan.php"
+source: "/TONGIAO/tgTH/ThichThienThuan"
 category: "Chính trị"
 lang: vi
 wordCount: 1715

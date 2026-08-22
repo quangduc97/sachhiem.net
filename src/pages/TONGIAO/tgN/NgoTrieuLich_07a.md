@@ -3,7 +3,7 @@ layout: ../../../layouts/Article.astro
 title: "Tìm Chỗ Đứng Cho Thiên Chúa Trong Đạo Phật"
 author: "Thân Hữu"
 date: 2019-06-14
-source: "https://sachhiem.net/TONGIAO/tgN/NgoTrieuLich_07a.php"
+source: "/TONGIAO/tgN/NgoTrieuLich_07a"
 category: "Tác giả"
 lang: vi
 wordCount: 1685
@@ -16,7 +16,7 @@ wordCount: 1685
   
  <div class="tomluoc">
   <p><i>LTS: Tòa soạn nhận được vài ý kiến sau bài: "Tìm Chỗ Đứng Cho Thiên Chúa Trong Đạo Phật Nhiệm Vụ Bất Khả Thi Của Thần Học Ki-Tô Giáo" của tác giả Ngô Triệu Lịch đăng ở</i></p>
-  <p> <a href="https://sachhiem.net/TONGIAO/tgN/NgoTrieuLich_07.php">https://sachhiem.net/TONGIAO/tgN/NgoTrieuLich_07.php</a></p>
+  <p> <a href="/TONGIAO/tgN/NgoTrieuLich_07">https://sachhiem.net/TONGIAO/tgN/NgoTrieuLich_07.php</a></p>
  </div>
 <p><span class="green">1.</span> </p>
 <p>From: Tran Quang Dieu <br> 

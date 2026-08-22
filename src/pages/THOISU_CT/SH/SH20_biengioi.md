@@ -3,7 +3,7 @@ layout: ../../../layouts/Article.astro
 title: "An Ninh Biên Giới - Không Cần Biết Vô Tình Hay Cố Ý"
 author: "Tin Tổng Hợp AP"
 date: 2018-06-23
-source: "https://sachhiem.net/THOISU_CT/SH/SH20_biengioi.php"
+source: "/THOISU_CT/SH/SH20_biengioi"
 category: "Chính trị"
 lang: vi
 wordCount: 305

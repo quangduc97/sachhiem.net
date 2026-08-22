@@ -1,14 +1,14 @@
 ---
 layout: ../../../layouts/Article.astro
 title: "Thư bạn đọc Bác sĩ Trần Quí Nhu (California)"
-source: "https://sachhiem.net/NMQ/ThuDocgia/Q_docgia04.php"
+source: "/NMQ/ThuDocgia/Q_docgia04"
 lang: vi
 wordCount: 121
 image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/NMQ/ThuDocgia/BsTranQuyNhu21.jpg"
 ---
 
 <div style="padding-left: 75px; padding-right: 75px">
-			<p><a href="https://sachhiem.net/NMQ/ThuDocgia/QThudocgia.php">[Mời xem lời giới thiệu ở link]</a></p>
+			<p><a href="/NMQ/ThuDocgia/QThudocgia">[Mời xem lời giới thiệu ở link]</a></p>
 			<p>1.</p>
 			<p><img src="https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/NMQ/ThuDocgia/BsTranQuyNhu21.jpg" width="400" height="581" alt=""></p>
  	  <p><img src="https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/NMQ/ThuDocgia/BsTranQuyNhu22.jpg" width="400" height="581" alt=""></p>

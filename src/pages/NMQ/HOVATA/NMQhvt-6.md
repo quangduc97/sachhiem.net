@@ -2,13 +2,13 @@
 layout: ../../../layouts/Article.astro
 title: "Họ và Chúng Ta"
 author: "Nguyễn Mạnh Quang"
-source: "https://sachhiem.net/NMQ/HOVATA/NMQhvt-6.php"
+source: "/NMQ/HOVATA/NMQhvt-6"
 lang: vi
 wordCount: 22071
-image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nha.jpg"
+image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/print.gif"
 ---
 
-<p align="center"><a href="https://www.sachhiem.net/"> <img border="0" src="https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nha.jpg"></a> | <a target="_blank" href="/NMQ/HOVATA/NMQhvt-6"> <img border="0" src="https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/print.gif" width="18" height="18"> </a>bản in |<b><font face="Symbol" size="5"><a target="_top" href="/NMQ/HOVATA/NMQhvtCover">¿</a></font></b> trở ra mục lục | 29Dec08</p>
+<p align="center"> | <a target="_blank" href="/NMQ/HOVATA/NMQhvt-6"> <img border="0" src="https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/print.gif" width="18" height="18"> </a>bản in |<b><font face="Symbol" size="5"><a target="_top" href="/NMQ/HOVATA/NMQhvtCover">¿</a></font></b> trở ra mục lục | 29Dec08</p>
           <p><a href="/NMQ/HOVATA/NMQhvt-5"> <img border="0" src="https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/Leftarrow.gif" width="13" height="13"></a> bài trước <font face="Symbol">\</font></p>
           <p class="CHUONG">PHẦN VI</p>
           <p class="MUC">TÂT CẢ CÁC THẾ LỰC CẤU KẾT VỚI NHÀ THỜ VATICAN ĐỀU THẢM BẠI</p>

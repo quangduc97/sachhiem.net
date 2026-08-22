@@ -3,7 +3,7 @@ layout: ../../../layouts/Article.astro
 title: "Nhớ Ngày Nam Bộ Kháng Chiến 23/9/1945 - 23/9/2022: Cảm Nhận Tiền Giang"
 author: "Nguyễn Tuấn Anh*"
 date: 2023-09-19
-source: "https://sachhiem.net/LICHSU/T/TuanAnh02.php"
+source: "/LICHSU/T/TuanAnh02"
 category: "Lịch sử"
 lang: vi
 wordCount: 2956

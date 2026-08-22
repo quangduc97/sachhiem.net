@@ -3,7 +3,7 @@ layout: ../../../layouts/Article.astro
 title: "NOEL – Phiếm Luận Về Chữ Trinh Của Thúy Kiều!"
 author: "Tài Ngô"
 date: 2019-01-02
-source: "https://sachhiem.net/TONGIAO/tgN/NgoTai.php"
+source: "/TONGIAO/tgN/NgoTai"
 category: "Chính trị"
 lang: vi
 wordCount: 1970
@@ -53,4 +53,4 @@ image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/TONGIAO/IMG/MARY/DM_
  <p class="nguonL">Nguồn <a href="https://www.facebook.com/permalink.php?story_fbid=226742331534590&amp;id=100025964734091">FB Tài Ngô</a> 19 tháng 12, 2018 lúc 14:51</p>
  <p>___________ </p>
  <p><b>Mời đọc thêm:</b></p>
- <p>- <a href="https://sachhiem.net/TONGIAO/tgB/BuiDucAn.php">"Kinh Thánh Mới" của  Bùi Đức An</a></p>
+ <p>- <a href="/TONGIAO/tgB/BuiDucAn">"Kinh Thánh Mới" của  Bùi Đức An</a></p>

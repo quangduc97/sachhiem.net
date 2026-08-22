@@ -3,7 +3,7 @@ layout: ../../layouts/Article.astro
 title: "Tuyên Ngôn Độc Lập Còn Là Tuyên Ngôn Nhân Quyền Của Nhà Nước Việt Nam"
 author: "John Lee/ TBT VHN.NET"
 date: 2013-02-26
-source: "https://sachhiem.net/AMARITX/AMI09_JL.php"
+source: "/AMARITX/AMI09_JL"
 category: "Chính trị"
 lang: vi
 wordCount: 1882

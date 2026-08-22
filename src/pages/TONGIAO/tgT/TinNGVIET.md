@@ -6,7 +6,7 @@ source: "https://nguoi-viet.com/absolutenm2/templates/?z=157&a=128504"
 category: "Chính trị"
 lang: vi
 wordCount: 260
-image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nha.jpg"
+image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/IMG/NANNHAN/SrAugusta-SrDiane_DghtrsofStPaul.gif"
 ---
 
 <div align="center" style="position: relative; left: 0; top: 0">
@@ -34,8 +34,7 @@ image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nha.jpg"
 	<tbody><tr><td bgcolor="White" align="justify" valign="top">
 	<div style="padding-left: 40px; padding-right: 40px">
 		<table border="0" cellpadding="10" width="600" cols="2"><tbody><tr>
-		<td width="341"><a href="/index">
-		<img border="0" src="https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nha.jpg"></a></td>
+		<td width="341"></td>
 					<td valign="top">	02 tháng 4,  2011</td></tr></tbody></table>
 		
 			<p>BOSTON (AP) - Một dòng nữ tu Công Giáo nộp đơn kiện Tổng Giáo 

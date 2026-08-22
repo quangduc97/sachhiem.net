@@ -3,7 +3,7 @@ layout: ../../../layouts/Article.astro
 title: "Hai Cửa Ải Quyết Định Vận Mệnh Quan Hệ Hợp Tác Việt-Mỹ"
 author: "Lê Ngọc Thống"
 date: 2016-06-09
-source: "https://sachhiem.net/THOISU_CT/ChuL/LeNgocThong.php"
+source: "/THOISU_CT/ChuL/LeNgocThong"
 category: "Chính trị"
 lang: vi
 wordCount: 1434

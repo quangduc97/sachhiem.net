@@ -3,7 +3,7 @@ layout: ../../../layouts/Article.astro
 title: "Thượng Nghị Sĩ Josh Hawley - Ông đã làm chuyện này."
 author: "BENJAMIN FEARNOW / Newsweek"
 date: 2021-02-03
-source: "https://sachhiem.net/THOISU_CT/ChuT/TinNewsweek.php"
+source: "/THOISU_CT/ChuT/TinNewsweek"
 category: "Chính trị"
 lang: vi
 wordCount: 1291

@@ -3,7 +3,7 @@ layout: ../../../layouts/Article.astro
 title: "Những rò rỉ tại Vatican đã tiết lộ về"
 author: "Tin Reuters / Philip Pullela – 13 tháng Hai, năm 2012"
 date: 2012-02-13
-source: "https://sachhiem.net/TONGIAO/tgR/Reuters03.php"
+source: "/TONGIAO/tgR/Reuters03"
 category: "Tác giả"
 lang: vi
 wordCount: 3742

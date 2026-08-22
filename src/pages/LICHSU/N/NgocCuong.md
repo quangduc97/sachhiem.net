@@ -3,16 +3,16 @@ layout: ../../../layouts/Article.astro
 title: "Tác phẩm cuối cùng của nhà văn Nhất Linh"
 author: "Ngọc Cường"
 date: 2012-06-27
-source: "https://sachhiem.net/LICHSU/N/NgocCuong.php"
+source: "/LICHSU/N/NgocCuong"
 category: "Chính trị"
 lang: vi
 wordCount: 2142
-image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nha.jpg"
+image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/VANHOC/Hinh/VANNHAN/NhatLinh_NGTri.jpg"
 ---
 
 <table border="0" cellpadding="0" width="250" align="center">
             <tbody><tr>
-              <td width="125"><a href="/index"><img border="0" src="https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nha.jpg"></a></td>
+              <td width="125"></td>
               <td valign="middle"> 27-Jun-2012 </td>
             </tr>
           </tbody></table>

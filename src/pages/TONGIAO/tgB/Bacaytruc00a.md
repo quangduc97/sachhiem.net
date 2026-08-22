@@ -6,21 +6,21 @@ source: "https://tamlinhvaodoi.net/categoryblog/1609-phan.html"
 category: "Tác giả"
 lang: vi
 wordCount: 6796
-image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nha.jpg"
+image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/TONGIAO/IMG/LINHMUC/LM_NNDung_hoatdong.jpg"
 ---
 
 <table border="0" width="250" align="center">
- <tbody><tr><td width="100"><a href="/index"><img border="0" src="https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nha.jpg"></a></td>
+ <tbody><tr><td width="100"></td>
 		<td valign="top" width="194">12-Feb-2012</td>
  </tr>
 </tbody></table>
  <p align="center"><img src="https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/TONGIAO/IMG/LINHMUC/LM_NNDung_hoatdong.jpg" alt="Hoat dong cua LM Nguyễn ngọcc Dũng" width="320" height="201"></p>
      <div class="danbai">
- 	   <p> ► <a href="https://sachhiem.net/TONGIAO/tgB/Bacaytruc00.php">Hồ Sơ LM Giuse
+ 	   <p> ► <a href="/TONGIAO/tgB/Bacaytruc00">Hồ Sơ LM Giuse
      Nguyễn Ngọc Dũng: Thư tố cáo của cô Lữ Thị Thu Nga </a></p>
-   <p>  ►  <a href="https://sachhiem.net/TONGIAO/tgB/Bacaytruc00b.php">Các thư liên
+   <p>  ►  <a href="/TONGIAO/tgB/Bacaytruc00b">Các thư liên
      quan đến 4 nạn nhân của L.M. Giuse Nguyễn Ngọc Dũng </a></p>
-   <p>  ►  <a href="https://sachhiem.net/TONGIAO/tgB/Bacaytruc00a.php">Phản Hồi Sau
+   <p>  ►  <a href="/TONGIAO/tgB/Bacaytruc00a">Phản Hồi Sau
      Hồ Sơ L.M. Giuse Nguyễn Ngọc Dũng</a></p>
  </div>
  
@@ -826,9 +826,9 @@ image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nha.jpg"
 	<hr>
 	<p><b>Bài liên hệ: </b></p>
 	<p>Mời xem:</p>
-    <p>- <a href="https://sachhiem.net/TONGIAO/tgB/Bacaytruc00.php">Hồ Sơ LM Giuse
+    <p>- <a href="/TONGIAO/tgB/Bacaytruc00">Hồ Sơ LM Giuse
         Nguyễn Ngọc Dũng:  Thư tố cáo của cô Lữ Thị Thu Nga  </a></p>
-    <p>- <a href="https://sachhiem.net/TONGIAO/tgB/Bacaytruc00b.php">Các thư liên
+    <p>- <a href="/TONGIAO/tgB/Bacaytruc00b">Các thư liên
         quan đến 4 nạn nhân  của L.M. Giuse Nguyễn Ngọc Dũng </a></p>
-    <p>- <a href="https://sachhiem.net/TONGIAO/tgB/Bacaytruc00a.php">Phản
+    <p>- <a href="/TONGIAO/tgB/Bacaytruc00a">Phản
         Hồi Sau Hồ Sơ L.M. Giuse Nguyễn Ngọc Dũng</a></p>

@@ -2,11 +2,11 @@
 layout: ../../../layouts/Article.astro
 title: "Lời Khẳng Định Của Một Con Cừu"
 author: "Nguyễn Mạnh Quang"
-source: "https://sachhiem.net/null"
+source: "/null"
 category: "Chính trị"
 lang: vi
 wordCount: 13625
-image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nha.jpg"
+image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/HOANHLINH/HINH/HYAgagianan.jpg"
 ---
 
 <div align="center" style="position: relative; left: 0; top: 0">
@@ -24,8 +24,7 @@ image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nha.jpg"
 
 <table border="0" cellpadding="1" width="600" cols="2">
 <tbody><tr>
-<td><a href="https://www.sachhiem.net/">
-<img border="0" src="https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nha.jpg"></a></td>
+<td></td>
 <td valign="top" width="210">
 <p>3 tháng 10, 2010	</p></td>
 </tr>
@@ -406,10 +405,10 @@ không bình thường.</i>”</p>
 trong </p>
 <p>- Chương 10, sách <i>Người Việt và Đạo Giê-su</i> (viết chung với Giáo-sư 
 Trần Chung Ngọc) ở link 
-<a href="https://sachhiem.net/TCN/TCNtg/DAOGIESU/TCN_NMQ15.php">https://sachhiem.net/ TCN/TCNtg/DAOGIESU/TCN_NMQ15.php</a>,   và trong </p>
+<a href="/TCN/TCNtg/DAOGIESU/TCN_NMQ15">https://sachhiem.net/ TCN/TCNtg/DAOGIESU/TCN_NMQ15.php</a>,   và trong </p>
 <p>- Phần 2 của bài viết “<i>Sách Lược Chống Lại 
 Truyền Thống Tôn Thờ Anh Hùng Dân Tộc Ta - Trường Hợp Cụ Hồ Chí Minh</i>” 
-ở link <a href="https://sachhiem.net/NMQ/NMQ026a.php">https://sachhiem.net/NMQ/NMQ026a.php</a>. Mục này có tựa đề là “<i>Sách Lược Làm Giảm Thiểu Đại Công Nghiệp của Cụ Hồ 
+ở link <a href="/NMQ/NMQ026a">https://sachhiem.net/NMQ/NMQ026a.php</a>. Mục này có tựa đề là “<i>Sách Lược Làm Giảm Thiểu Đại Công Nghiệp của Cụ Hồ 
 Chí Minh</i>”. </p>
 <p>Xin mời độc giả vào đọc những đường dẫn trên để hiểu rõ: </p>
 <p>(1) Tại sao các đế quốc Anh (Theo Anh Giáo) và Hòa Lan (Theo đạo Tin Lành) 

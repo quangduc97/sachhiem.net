@@ -3,7 +3,7 @@ layout: ../../layouts/Article.astro
 title: "Tôn Giáo Học So Sánh"
 author: "Huy Thái"
 date: 2020-01-09
-source: "https://sachhiem.net/VANHOC/HuyThai_03.php"
+source: "/VANHOC/HuyThai_03"
 category: "Chính trị"
 lang: vi
 wordCount: 3642

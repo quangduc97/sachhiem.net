@@ -2,15 +2,15 @@
 layout: ../../../../layouts/Article.astro
 title: "Đức Tin Công Giáo"
 author: "Trần Chung Ngọc"
-source: "https://sachhiem.net/TCN/TCNtg/DuctinCG/DuctinCG03.php"
+source: "/TCN/TCNtg/DuctinCG/DuctinCG03"
 lang: vi
 wordCount: 22329
-image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nha.jpg"
+image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/SACHNGOAI/Hinhanh/PEOPLE/JamesKavanaugh.jpg"
 ---
 
 <table border="0" align="center" width="250">
           <tbody><tr>
-            <td width="100"><a href="https://sachhiem.net/index.php"><img border="0" src="https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nha.jpg"></a></td>
+            <td width="100"></td>
 	<td valign="top" style="text-align:right">	đăng ngày 28 tháng 3, 2008
 	</td></tr></tbody></table>
 
@@ -1693,4 +1693,4 @@ Pope and the Papacy!</p>
 	
 
 	<hr>
-		<a href="https://sachhiem.net/TCN/TCNtg/TCNtongiao.php">Các bài về tôn giáo cùng tác giả</a>
+		<a href="/TCN/TCNtg/TCNtongiao">Các bài về tôn giáo cùng tác giả</a>

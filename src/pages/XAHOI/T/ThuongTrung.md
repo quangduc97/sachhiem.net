@@ -2,14 +2,13 @@
 layout: ../../../layouts/Article.astro
 title: "VỀ PHÁT BIỂU CỦA TGM NGÔ QUANG KIỆT"
 author: "Thường Trung"
-source: "https://sachhiem.net/nguồn: báo Sen Việt - huongsenviet.blogspot.com - 9/2008"
+source: "/nguồn: báo Sen Việt - huongsenviet.blogspot.com - 9/2008"
 category: "Chính trị"
 lang: vi
 wordCount: 6688
-image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nha.jpg"
 ---
 
-<p align="center"> <a href="https://sachhiem.net/index.php"><img border="0" src="https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nha.jpg" hspace="20"></a> 23 tháng 9, 2008
+<p align="center">  23 tháng 9, 2008
 </p>
 		
 			<p><b>Lời chú của Sen Việt:</b> Trong bài viết “Vụ Tòa Khâm: đối thoại bất thành” trên 

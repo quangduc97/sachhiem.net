@@ -3,7 +3,7 @@ layout: ../../layouts/Article.astro
 title: "Alexandre de Rhodes"
 author: "Huy Thái"
 date: 2019-12-10
-source: "https://sachhiem.net/VANHOC/HuyThai_02.php"
+source: "/VANHOC/HuyThai_02"
 category: "Chính trị"
 lang: en
 wordCount: 1598
@@ -30,7 +30,7 @@ image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/sqdot.gif"
 <p>  Chúng ta hãy thử xét xem động cơ của mà Alexandre de Rhodes đã làm  là gì? Đầu tiên có chăng là Alexandre de Rhodes nhận nhiệm vụ như nhiệm vụ của  các giáo sĩ Thiên Chúa giáo khác ở châu Á thời bấy giờ, là phiên âm tiếng nói  người bản địa bằng ký tự Latin để các giáo sĩ này dễ dàng truyền đạo, chứ không  nhằm khai hóa gì cho dân Việt hay các dân tộc khác. </p>
 <p>  Dưới đây chúng ta thử xét tới nhân thân của Alexandre de Rhodes  ngoài công việc hệ thống hóa chữ An Nam. </p>
 <p>          <b>1)</b> Alexandre de  Rhodes là kẻ bất thiện <b>kém  văn hóa.</b> </p>
-<p>  Sở dĩ nói Alexandre de Rhodes là kẻ bất thiện kém văn hóa là vì  trong tác phẩm gảng đạo này của ông là “<a href="https://sachhiem.net/TONGIAO/ADRhodes/8Ngay.php"><i>Phép giảng 8 ngày</i></a>” đã buộc tín đồ chỉ  thờ một Cha Trên Trời theo điều răn 1, không được phép thờ ai khác,  nên việc thờ cha mẹ, ông bà, tổ tiên phải được dẹp hết vì đây chỉ là những vật  thụ tạo từ một Cha Trên Trời nào đó (mà chẳng ai thấy biết). </p>
+<p>  Sở dĩ nói Alexandre de Rhodes là kẻ bất thiện kém văn hóa là vì  trong tác phẩm gảng đạo này của ông là “<a href="/TONGIAO/ADRhodes/8Ngay"><i>Phép giảng 8 ngày</i></a>” đã buộc tín đồ chỉ  thờ một Cha Trên Trời theo điều răn 1, không được phép thờ ai khác,  nên việc thờ cha mẹ, ông bà, tổ tiên phải được dẹp hết vì đây chỉ là những vật  thụ tạo từ một Cha Trên Trời nào đó (mà chẳng ai thấy biết). </p>
 <p>  Các giáo sĩ được xem là đại diện của Cha Trên Trời, nên các tín đồ  phải tuân lời các giáo sĩ này và gọi các giáo sĩ này là Cha (= Linh mục). Hơn  nữa, cuốn sách giảng này còn đòi tiêu diệt các giáo chủ Phật Khổng Lão bởi cho  rằng các giáo chủ này chỉ là quỷ Satan. </p>
 <p>           <b>2) </b>Alexandre  de Rhodes <b>là kẻ bất  thiện gián điệp.</b> </p>
 <p>  Sở dĩ nói Alexandre de Rhodes là kẻ bất thiện gián điệp là vì  ông đã phạm phải những tội ảnh hưởng đến an ninh quốc gia giống như các gián  điệp ngày nay, khiến đã bị các chúa Trịnh và Nguyễn ở 2 miền Bắc và Nam trục  xuất khỏi nước Việt. Ông còn bị chúa Nguyễn lên án tử hình nhưng may mắn được  tha.   </p>

@@ -3,7 +3,7 @@ layout: ../../../layouts/Article.astro
 title: "PHÁP THUẬN THIỀN SƯ"
 author: "Thích Giác Tâm"
 date: 2014-05-23
-source: "https://sachhiem.net/TONGIAO/tgTH/ThichGiacTam02.php"
+source: "/TONGIAO/tgTH/ThichGiacTam02"
 category: "Tác giả"
 lang: vi
 wordCount: 1561

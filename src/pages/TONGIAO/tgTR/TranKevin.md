@@ -3,7 +3,7 @@ layout: ../../../layouts/Article.astro
 title: "Ứng Xử Bộc Trực Của Giáo Hoàng Francis"
 author: "Kevin Trần"
 date: 2014-12-13
-source: "https://sachhiem.net/TONGIAO/tgTR/TranKevin.php"
+source: "/TONGIAO/tgTR/TranKevin"
 category: "Chính trị"
 lang: vi
 wordCount: 1710

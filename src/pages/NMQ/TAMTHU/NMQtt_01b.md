@@ -2,19 +2,19 @@
 layout: ../../../layouts/Article.astro
 title: "Tâm Thư Gửi Nhà Nước Việt Nam"
 author: "Nguyễn Mạnh Quang"
-source: "https://sachhiem.net/NMQ/TAMTHU/NMQtt_01b.php"
+source: "/NMQ/TAMTHU/NMQtt_01b"
 lang: vi
 wordCount: 2384
-image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nha.jpg"
+image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/print.gif"
 ---
 
-<p align="center"><a href="https://www.sachhiem.net/"> <img border="0" src="https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nha.jpg"></a> | 
-<a target="_blank" href="https://sachhiem.net/NMQ/TAMTHU/NMQtt_01b.php">
+<p align="center"> | 
+<a target="_blank" href="/NMQ/TAMTHU/NMQtt_01b">
 <img border="0" src="https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/print.gif" width="18" height="18"> 
 </a>bản in | 
-	<a target="_blank" href="https://sachhiem.net/NMQ/TAMTHU/NMQtt_Main.php"><b><font face="Symbol" size="5"> ¿ </font></b> trở ra mục lục</a>
+	<a target="_blank" href="/NMQ/TAMTHU/NMQtt_Main"><b><font face="Symbol" size="5"> ¿ </font></b> trở ra mục lục</a>
  | 29 tháng 3, 2009</p>
-<i><a target="_blank" href="https://sachhiem.net/NMQ/TAMTHU/NMQtt_01a.php"><p class="TuaDenLeft">- Lời Giới Thiệu -</p></a></i>
+<i><a target="_blank" href="/NMQ/TAMTHU/NMQtt_01a"><p class="TuaDenLeft">- Lời Giới Thiệu -</p></a></i>
 
 				
 
@@ -287,4 +287,4 @@ phó với Giáo Hội La Mã.</p>
 
 			
 <p class="TacgiaL">Nguyễn Mạnh Quang</p>
-<p><a target="_blank" href="https://sachhiem.net/NMQ/TAMTHU/NMQtt_01.php">xem tiếp: Tổng quát về Chủ trương của Giáo Hội La Mã  <img border="0" src="https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/Next3.gif" width="15" height="6"></a></p>
+<p><a target="_blank" href="/NMQ/TAMTHU/NMQtt_01">xem tiếp: Tổng quát về Chủ trương của Giáo Hội La Mã  <img border="0" src="https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/Next3.gif" width="15" height="6"></a></p>

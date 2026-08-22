@@ -3,7 +3,7 @@ layout: ../../../layouts/Article.astro
 title: "Tại Sao Phải Là Việt Nam?"
 author: "Trần Quang Diệu"
 date: 2015-04-04
-source: "https://sachhiem.net/LICHSU/TR/TQD47.php"
+source: "/LICHSU/TR/TQD47"
 category: "Đối thoại"
 lang: vi
 wordCount: 1058

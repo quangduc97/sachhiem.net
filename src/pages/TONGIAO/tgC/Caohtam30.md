@@ -3,7 +3,7 @@ layout: ../../../layouts/Article.astro
 title: "Niềm Vui Lớn Trong Đời"
 author: "Cao Hữu Tâm"
 date: 2015-01-30
-source: "https://sachhiem.net/TONGIAO/tgC/Caohtam30.php"
+source: "/TONGIAO/tgC/Caohtam30"
 category: "Tác giả"
 lang: vi
 wordCount: 775

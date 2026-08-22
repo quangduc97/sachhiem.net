@@ -3,7 +3,7 @@ layout: ../../../layouts/Article.astro
 title: "Những Ngày Cuối Cùng Của Sài Gòn"
 author: "Winfried Scharlau / Phan Ba dịch"
 date: 2014-04-26
-source: "https://sachhiem.net/LICHSU/P/PhanBa.php"
+source: "/LICHSU/P/PhanBa"
 category: "Tác giả"
 lang: vi
 wordCount: 7231

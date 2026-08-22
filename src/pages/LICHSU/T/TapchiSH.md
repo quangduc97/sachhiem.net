@@ -3,7 +3,7 @@ layout: ../../../layouts/Article.astro
 title: "Chuyện Về Bác Sĩ Lê Khắc Quyến"
 author: "Bs Lê Văn Lân"
 date: 2017-01-05
-source: "https://sachhiem.net/LICHSU/T/TapchiSH.php"
+source: "/LICHSU/T/TapchiSH"
 category: "Chính trị"
 lang: vi
 wordCount: 3587

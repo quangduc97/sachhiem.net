@@ -6,7 +6,6 @@ source: "https://giadinh.net.vn/20100924023639287p0c1006/tai-tieng-tai-hai.htm"
 category: "Chính trị"
 lang: vi
 wordCount: 549
-image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nha.jpg"
 ---
 
 <div align="center" style="position: relative; left: 0; top: 0">
@@ -24,8 +23,7 @@ image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nha.jpg"
 <div style="padding-left: 60px; padding-right: 60px">
 		
 <table border="0" cellpadding="10" width="85%" cols="2"><tbody><tr>
-<td valign="top"><a href="/index">
-<img border="0" src="https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nha.jpg"></a></td>
+<td valign="top"></td>
 <td valign="top" width="198">	24 tháng 9, 2010    </td>	</tr>
 </tbody></table>
 <p>

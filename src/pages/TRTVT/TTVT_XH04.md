@@ -3,7 +3,7 @@ layout: ../../layouts/Article.astro
 title: "A lô! Ông có Ung Thư Nhiếp Hộ Tuyến! (bài 1)"
 author: "Trần Thị Vĩnh-Tường"
 date: 2013-11-26
-source: "https://sachhiem.net/TRTVT/TTVT_XH04.php"
+source: "/TRTVT/TTVT_XH04"
 category: "Xã hội"
 lang: vi
 wordCount: 9997

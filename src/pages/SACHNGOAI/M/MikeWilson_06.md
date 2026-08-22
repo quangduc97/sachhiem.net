@@ -3,7 +3,7 @@ layout: ../../../layouts/Article.astro
 title: "Luật \"Đứng lên tự vệ\" ở Mỹ"
 author: "Mike Wilson"
 date: 2022-03-11
-source: "https://sachhiem.net/SACHNGOAI/M/MikeWilson_06.php"
+source: "/SACHNGOAI/M/MikeWilson_06"
 category: "Chính trị"
 lang: vi
 wordCount: 2937

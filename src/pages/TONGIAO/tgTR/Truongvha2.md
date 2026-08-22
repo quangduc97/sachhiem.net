@@ -3,7 +3,7 @@ layout: ../../../layouts/Article.astro
 title: "PHONG “THÁNH” NGUYỄN VĂN THUẬN"
 author: "Mr. Tam"
 date: 2007-09-21
-source: "https://sachhiem.net/null"
+source: "/null"
 category: "Chính trị"
 lang: vi
 wordCount: 26163

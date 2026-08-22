@@ -3,7 +3,7 @@ layout: ../../../layouts/Article.astro
 title: "Giỗ Đầu Của Người Anh Hùng:"
 author: "Nguyễn Quang Chánh"
 date: 2023-10-12
-source: "https://sachhiem.net/LICHSU/N/NguyenQuangChanh08.php"
+source: "/LICHSU/N/NguyenQuangChanh08"
 category: "Chính trị"
 lang: vi
 wordCount: 1210

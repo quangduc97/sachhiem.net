@@ -3,16 +3,16 @@ layout: ../../../layouts/Article.astro
 title: "Sự thật khó chối cãi ở Con Cuông"
 author: "VienamNet/Minh Lý"
 date: 2012-07-24
-source: "https://sachhiem.net/TONGIAO/tgM/MinhLy.php"
+source: "/TONGIAO/tgM/MinhLy"
 category: "Tác giả"
 lang: vi
 wordCount: 2153
-image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nha.jpg"
+image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/TONGIAO/IMG/CONCUONG/Concuong_MinhLy2.jpg"
 ---
 
 <table border="0" cellpadding="0" align="center" width="250" cols="2">
 		    <tbody><tr>
-              <td width="132"><a href="/TONGIAO/index"> <img border="0" src="https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nha.jpg"></a></td>
+              <td width="132"></td>
 	<td valign="top">	</td></tr></tbody></table>
 			<p><i>LTS: Thực tế là luôn luôn có sự mâu thuẫn giữa quan niệm "tự do tôn
 			    giáo của đạo Chúa" đối

@@ -3,7 +3,7 @@ layout: ../../layouts/Article.astro
 title: "Tôn Trọng Người Vô Thần Bằng Cách Nào?"
 author: "Lý Thái Xuân"
 date: 2016-12-08
-source: "https://sachhiem.net/LTX/LyThaiTG17.php"
+source: "/LTX/LyThaiTG17"
 category: "Tác giả"
 lang: vi
 wordCount: 1036

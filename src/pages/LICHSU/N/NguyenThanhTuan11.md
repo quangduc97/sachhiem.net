@@ -3,7 +3,7 @@ layout: ../../../layouts/Article.astro
 title: "Kỷ Niệm 136 Năm Ngày Sinh Của Bác, Điều Tôi Muốn Nói Không Chỉ Là Lòng Biết Ơn, Mà Còn Là Một Lời Hứa với Người"
 author: "Nguyễn Thanh Tuấn"
 date: 2026-05-20
-source: "https://sachhiem.net/LICHSU/N/NguyenThanhTuan11.php"
+source: "/LICHSU/N/NguyenThanhTuan11"
 category: "Lịch sử"
 lang: vi
 wordCount: 1193

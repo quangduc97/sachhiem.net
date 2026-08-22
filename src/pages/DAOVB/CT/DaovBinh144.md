@@ -3,7 +3,7 @@ layout: ../../../layouts/Article.astro
 title: "Ô. Joe Biden lên án chủ đài truyền hình Fox News"
 author: "Đào Văn Bình"
 date: 2022-04-17
-source: "https://sachhiem.net/DAOVB/CT/DaovBinh144.php"
+source: "/DAOVB/CT/DaovBinh144"
 category: "Chính trị"
 lang: vi
 wordCount: 1584

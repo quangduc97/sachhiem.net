@@ -3,15 +3,15 @@ layout: ../../../layouts/Article.astro
 title: "Câu Chuyện Đối Nhân Xử Thế Tài Tình"
 author: "Nguyễn Hồng Trân"
 date: 2012-05-09
-source: "https://sachhiem.net/LICHSU/N/NgHgTran_TS01.php"
+source: "/LICHSU/N/NgHgTran_TS01"
 category: "Lịch sử"
 lang: vi
 wordCount: 1123
-image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nha.jpg"
+image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/LICHSU/IMG/HOCHIMINH/NgHgTran_TS01_bacHo.jpg"
 ---
 
 <table border="0" cellpadding="1" align="center" width="250">
-        <tbody><tr><td width="100"><a href="https://sachhiem.net/index.php"><img border="0" src="https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nha.jpg"></a></td>
+        <tbody><tr><td width="100"></td>
 		<td valign="top" width="205">		  </td>
 	</tr>
 </tbody></table> 

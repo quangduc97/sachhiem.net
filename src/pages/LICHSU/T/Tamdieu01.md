@@ -3,7 +3,7 @@ layout: ../../../layouts/Article.astro
 title: "TẤN CÔNG HÓA HỌC Ở HUẾ"
 author: "Tâm Diệu"
 date: 2013-05-31
-source: "https://sachhiem.net/LICHSU/T/Tamdieu01.php"
+source: "/LICHSU/T/Tamdieu01"
 category: "Tác giả"
 lang: vi
 wordCount: 1954

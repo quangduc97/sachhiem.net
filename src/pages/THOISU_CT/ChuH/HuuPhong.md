@@ -2,7 +2,7 @@
 layout: ../../../layouts/Article.astro
 title: "Mỹ gốc Việt chống phá"
 author: "Hữu Phong"
-source: "https://sachhiem.net/null"
+source: "/null"
 category: "Chính trị"
 lang: vi
 wordCount: 856

@@ -3,7 +3,7 @@ layout: ../../layouts/Article.astro
 title: "Gửi em Phê rô Nguyễn Văn Tường"
 author: "Lý Thái Xuân"
 date: 2019-09-02
-source: "https://sachhiem.net/LTX/LyThaiXH37.php"
+source: "/LTX/LyThaiXH37"
 category: "Xã hội"
 lang: vi
 wordCount: 555
@@ -17,7 +17,7 @@ image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/TONGIAO/IMG/LINHMUC/
 <p><span class="First">T</span>ường à, </p>
 <p>Tưởng em đã vâng lời bề trên, lột áo dòng trở thành một người bình dân hiền lành như bao người dân khác trong xã hội Việt Nam. Nào ngờ, với bộ dáng hiền lành, em đang làm những chuyện không hiền lành. Em vẫn xưng là "Cha" với tất cả mọi người, tỉnh bơ. Đừng ham, bỏ đi em!</p>
 <p>Em quậy tứ tung thiên hạ, tai tiếng em cũng mặc kệ, em tìm mọi cách quy tụ quần chúng,  em học ngang những mánh khóe chữa bệnh, làm thầy lang băm, đăng youtube để quảng cáo khắp nơi.</p> 
-<p>Có lẽ em đã nghe tiếng tên linh mục môi mép Trần Đình Long "làm ăn được" với nghề  <b>chữa bệnh bằng tay, và cầu may với niềm tin Chúa</b>, vừa cải đạo, vừa hốt tiền, vừa nổi tiếng như cồn. Khi nghe lm Long bị chuyển về Trung Tâm Mục Vụ để chấm dứt cái trò lừa gạt vĩ đại ở Giáo Điểm Tin Mừng, em bèn chộp lấy cơ hội, lên mạng quảng cáo: <i>"không có Cha Long thì có Cha chữa bệnh cho các con"</i> (<a href="https://sachhiem.net/TONGIAO/FB/FBAnhTuanLe01.php">xin đọc chi tiết ở link</a>)</p> 
+<p>Có lẽ em đã nghe tiếng tên linh mục môi mép Trần Đình Long "làm ăn được" với nghề  <b>chữa bệnh bằng tay, và cầu may với niềm tin Chúa</b>, vừa cải đạo, vừa hốt tiền, vừa nổi tiếng như cồn. Khi nghe lm Long bị chuyển về Trung Tâm Mục Vụ để chấm dứt cái trò lừa gạt vĩ đại ở Giáo Điểm Tin Mừng, em bèn chộp lấy cơ hội, lên mạng quảng cáo: <i>"không có Cha Long thì có Cha chữa bệnh cho các con"</i> (<a href="/TONGIAO/FB/FBAnhTuanLe01">xin đọc chi tiết ở link</a>)</p> 
 <p align="center"><iframe width="480" height="270" src="https://www.youtube.com/embed/H0xz6Lrvy6g" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe></p> 
 <p>Tường à,</p>
 <p>Dù sao, tôi cũng không trách em nhiều lắm, vì chính vì Giáo Hội La Mã cũng đã huấn luyện cho em trở thành con người <i>"háo danh"</i> như thế.</p>

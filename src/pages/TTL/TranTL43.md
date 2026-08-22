@@ -3,7 +3,7 @@ layout: ../../layouts/Article.astro
 title: "Vài Chi Tiết Về Một Bài Phản Biện"
 author: "Trần Tiên Long"
 date: 2014-01-06
-source: "https://sachhiem.net/TTL/TranTL43.php"
+source: "/TTL/TranTL43"
 category: "Tác giả"
 lang: vi
 wordCount: 2107

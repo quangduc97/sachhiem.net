@@ -2,14 +2,14 @@
 layout: ../../../layouts/Article.astro
 title: "Thực Chất Đạo Công Giáo và Các Đạo Thờ Chúa"
 author: "Charlie Nguyễn"
-source: "https://sachhiem.net/CHARLIE/CN_TCCG/Vaitro.php"
+source: "/CHARLIE/CN_TCCG/Vaitro"
 category: "Tác giả"
 lang: vi
 wordCount: 6122
-image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nha.jpg"
+image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/TONGIAO/IMG/VATICAN/POPE/John23_DoThai.jpg"
 ---
 
-<p align="center"><a href="/index"><img hspace="20" border="0" src="https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nha.jpg"></a><b><font face="Symbol" size="5"><a target="_top" href="/CHARLIE/CN_TCCG/CN_TCCGdir">¿</a></font></b> trở ra mục lục | 2-8-2013 </p>
+<p align="center"><b><font face="Symbol" size="5"><a target="_top" href="/CHARLIE/CN_TCCG/CN_TCCGdir">¿</a></font></b> trở ra mục lục | 2-8-2013 </p>
 <p class="MUC">Vai trò của chính quyền trong mối tương quan Công giáo - Dân  tộc</p>
 <p> <span class="First">T</span>rước khi đề cập vai trò của chính  quyền trong mối tương quan thường xuyên xung đột giữa Công  giáo và Dân tộc, chúng tôi xin nêu lên bằng chứng về những  thảm họa gây ra cho xã hội do những đầu óc mê muội cuồng tín  tôn giáo, truyền thống phản quốc của những người Công giáo  đầy rẫy trong lịch sử thế giới cũng như trong lịch sử Việt  Nam. Chúng tôi cũng xin nêu lên một số đề nghị để gởi đến  Giáo hội Công giáo Việt Nam và sau này là những đề nghị của  chúng tôi gởi đến chính quyền Việt Nam, nhất là quí vị có  thẩm quyền trong nhành Lập pháp và Tư pháp, trong hiện tại  cũng như trong tương lai.</p>
 
@@ -103,7 +103,7 @@ image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nha.jpg"
 <p> Có thể nói “<i>Công giáo La mã</i>” đồng  nghĩa với “<i>Công giáo phi Dân tộc</i>” và từ phi dân tộc đến phản  quốc không cách nhau bao xa.</p>
 <p> Ngược lại, đối với những người có tinh  thần dân tộc cao nhã như Jan Hus chẳng hạn, dù là một linh  mục Công giáo chăng nữa, ông cũng không có một con đường nào  khác hơn là phải chống lại Vatican, chống lại sự lệ thuộc  vào quyền tối thượng của giáo hoàng để bảo vệ danh dự quốc  gia và độc lập dân tộc.</p>
 <p> <i>Nói tóm lại, mọi người Công giáo  Việt Nam sùng bái Vatican đều là phản quốc. Nếu Giáo hội  Công giáo Việt Nam thực sự yêu nước và muốn hòa nhập vào đại  khối dân tộc phải công khai tách rời khỏi Vatican, ngoài ra  không còn một con đường nào khác. Không một ai có thể cùng  một lúc vừa ôm chân đế quốc vừa tự xưng là người yêu nước  được. Giáo hội Công giáo sùng bái Vatican là đạo quân thứ  Năm của địch nằm vùng trong lòng dân tộc Việt Nam</i> ! </p>
-<p><a href="https://sachhiem.net/CHARLIE/CN_TCCG/Vaitro2.php ">(xem tiếp -&gt;)</a></p>
+<p><a href="/CHARLIE/CN_TCCG/Vaitro2">(xem tiếp -&gt;)</a></p>
 <p class="TuaDoLeft">___________________________</p>
 <p><b>Các chương khác  	trong sách:</b></p>
 <p>- <a href="/CHARLIE/Chientranh">Bảy Cuộc Chiến Tranh Chống Hồi Giáo ... </a></p>

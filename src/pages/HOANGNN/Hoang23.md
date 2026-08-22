@@ -2,18 +2,16 @@
 layout: ../../layouts/Article.astro
 title: "LÀ HỦ MẮM THÚI?"
 author: "Hoàng Đông Tà giới thiệu"
-source: "https://sachhiem.net/HOANGNN/Hoang23.php"
+source: "/HOANGNN/Hoang23"
 lang: vi
 wordCount: 10669
-image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nha.jpg"
 ---
 
 <p class="Tuaduoi"> LIÊN THÀNH VÀ QUYỂN "BIẾN ĐỘNG MIỀN TRUNG" </p>
 		
 		
 	 
-<p align="center"><a href="https://www.sachhiem.net/">
-	<img hspace="20" border="0" src="https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nha.jpg"></a> ngày 31 tháng 12, 2008</p>
+<p align="center"> ngày 31 tháng 12, 2008</p>
 			<p><span class="First">Đ</span>ọc hai phần hồi âm của một mệnh phụ có ẩn danh là phuonghang 
 			duongthi về cấp bực của tên gọi là Thiếu tá Liên Thành [LT từ đây] 
 			tác giả 

@@ -1,7 +1,7 @@
 ---
 layout: ../../layouts/Article.astro
 title: "Catholicism is of the Devil!"
-source: "https://sachhiem.net/&nbsp;https://www.jesus-is-savior.com/False%20Religions/Roman%20Catholicism/catholicism_is_of_the_devil.htm"
+source: "/&nbsp;https://www.jesus-is-savior.com/False%20Religions/Roman%20Catholicism/catholicism_is_of_the_devil.htm"
 lang: en
 wordCount: 2382
 image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/SACHNGOAI/file:///C:/SACHHIEM/images/mail.gif"

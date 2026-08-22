@@ -3,7 +3,7 @@ layout: ../../../layouts/Article.astro
 title: "Việt Nam Với Cuộc Dấy Loạn Hòa Bình Của Giáo Hoàng JP2 - Tập 1"
 author: "Chu Văn Trình"
 date: 2024-02-24
-source: "https://sachhiem.net/CHUVTR/VN_JP2/JPII_4.php"
+source: "/CHUVTR/VN_JP2/JPII_4"
 category: "Lịch sử"
 lang: vi
 wordCount: 60
@@ -14,6 +14,6 @@ image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/Next.gif"
 <p class="TuaDenLeft"> Chương 4 </p>
  
  
-<p> <img src="https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/Next.gif" width="13" height="13" alt=""><a target="_parent" href="https://sachhiem.net/LICHSU/CHUVTR/VN_JP2/JPII_Main.php">trở ra Mục Lục</a></p>
+<p> <img src="https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/Next.gif" width="13" height="13" alt=""><a target="_parent" href="/LICHSU/CHUVTR/VN_JP2/JPII_Main">trở ra Mục Lục</a></p>
 <p class="TacgiaL">Chu Văn Trình</p>
  <p class="nguonL">Nguồn Sách tác giả tặng.</p>

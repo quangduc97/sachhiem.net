@@ -3,7 +3,7 @@ layout: ../../../layouts/Article.astro
 title: "Bản Chất Sự Nô Dịch Tư Tưởng Khi Tôn Giáo Bị Lợi Dụng Và Sự Thức Tỉnh Của Các Dân Tộc"
 author: "Đạo Sĩ Việt Râu"
 date: 2026-05-15
-source: "https://sachhiem.net/LICHSU/FB/FBDaoSiVietRau_03.php"
+source: "/LICHSU/FB/FBDaoSiVietRau_03"
 category: "Tác giả"
 lang: vi
 wordCount: 1259

@@ -2,10 +2,10 @@
 layout: ../../../layouts/Article.astro
 title: "NHỮNG NGƯỜI MÁY CHỐNG CỘNG"
 author: "Trần Chung Ngọc"
-source: "https://sachhiem.net/index.php?content=showrecipe&id=344"
+source: "/TCN/TCNts/TCNts21"
 lang: vi
 wordCount: 15027
-image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nha.jpg"
+image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/TONGIAO/IMG/LINHMUC/PhMinhMan.jpg"
 ---
 
 <p class="Tuaduoi">PHIẾM LUẬN VỀ</p>
@@ -14,7 +14,7 @@ image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nha.jpg"
 </p>
 
   
- <p align="center"><a href="/index"><img hspace="20" border="0" src="https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nha.jpg"></a> 30 tháng 7, 2008</p>
+ <p align="center"> 30 tháng 7, 2008</p>
  <p> <span class="First">T</span>heo định nghĩa của riêng tôi thì “Người Máy Chống 
 	Cộng” là người hoặc có cái “gen” của Thượng đế [có nghĩa là nghiện đạo]; 
 	hoặc là người loạn sắc, chỉ nhìn thấy màu đỏ; hoặc là người có những hành 

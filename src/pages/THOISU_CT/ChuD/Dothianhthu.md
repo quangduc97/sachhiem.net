@@ -3,7 +3,7 @@ layout: ../../../layouts/Article.astro
 title: "Khai Bút Đầu Năm Tôi Viết Về Đà Nẵng Và Ông Nguyễn Bá Thanh"
 author: "Đỗ Thị Anh Thư"
 date: 2015-02-22
-source: "https://sachhiem.net/THOISU_CT/ChuD/Dothianhthu.php"
+source: "/THOISU_CT/ChuD/Dothianhthu"
 category: "Chính trị"
 lang: vi
 wordCount: 1679

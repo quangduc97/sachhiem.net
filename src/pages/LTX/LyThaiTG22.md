@@ -3,7 +3,7 @@ layout: ../../layouts/Article.astro
 title: "Những người hâm mộ lễ misa bằng tiếng Latin mừng kỷ niệm 10 năm _ không có Đức Giáo Hoàng"
 author: "Theo Boston Globe"
 date: 2017-09-16
-source: "https://sachhiem.net/LTX/LythaiTG22.php"
+source: "/LTX/LythaiTG22"
 category: "Tác giả"
 lang: vi
 wordCount: 812

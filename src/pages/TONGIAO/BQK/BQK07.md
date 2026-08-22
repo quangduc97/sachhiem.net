@@ -3,7 +3,7 @@ layout: ../../../layouts/Article.astro
 title: "Hàm Tiếu Vấn Giáo Hoàng"
 author: "Bảo Quốc Kiếm"
 date: 2015-09-28
-source: "https://sachhiem.net/TONGIAO/BQK/BQK06.php"
+source: "/TONGIAO/BQK/BQK06"
 category: "Tác giả"
 lang: vi
 wordCount: 1791
@@ -11,7 +11,7 @@ image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/TONGIAO/IMG/VATICAN/
 ---
 
 <p><i>LTS: Cùng một sự kiện, cùng một hiện tượng, nhưng có ít nhất hai cách nhìn và cách hiểu trái ngược, hoặc ít nhất là khác nhau. Bài diễn văn của  Giáo Hoàng Francis đọc trước lưỡng viện quốc hội Hoa kỳ chưa chắc được các con chiên đọc và suy nghĩ bằng những người biết dân tộc mình là "nạn nhân của nạn Ca-tô giáo". Mà các con chiên có đọc đi chăng nữa thì rốt cuộc cũng với hai con mắt nhắm nghiền, và con tim rộn ràng nhảy múa ca ngợi: "Ngài dễ thương, Ngài hấp dẫn, Ngài thánh thiện, Ngài .. thơm phức, ai cũng quí trọng sùng kính Ngài, con yêu Ngài hết tâm hồn, hết trí khôn!". </i></p>
-    <p><i>Thế nên, nếu ai chưa bị "mất hết trí khôn" như thế, xin mời đọc vài thắc mắc dưới đây của ông Bảo Quốc Kiếm, tác giả của hai tác phẩm độc đáo và vĩ đại được phát hành ở Cali từ năm 2007: "<a href="https://sachhiem.net/TONGIAO/BQK/NVNCB01.php">Người Việt Nên Chối Bỏ</a>," (tranh biện với tiến sỹ Lê anh Huy, người chửi lại tổ tiên Lạc Việt) và "<a href="https://books.google.com/books/about/M%C3%BAa_n%E1%BB%AFa_%C4%91i_c%C6%B0ng.html?id=Wq9HQwAACAAJ&amp;hl=en">Múa Nữa Đi Cưng</a>" (phản luận đối với tác giả sách Tổ quốc Ăn năn).  Bài viết dưới đây nêu lên 4 "vấn đề" từ bài diễn văn của Ngài Francis. Xin mời đọc (SH)</i></p>
+    <p><i>Thế nên, nếu ai chưa bị "mất hết trí khôn" như thế, xin mời đọc vài thắc mắc dưới đây của ông Bảo Quốc Kiếm, tác giả của hai tác phẩm độc đáo và vĩ đại được phát hành ở Cali từ năm 2007: "<a href="/TONGIAO/BQK/NVNCB01">Người Việt Nên Chối Bỏ</a>," (tranh biện với tiến sỹ Lê anh Huy, người chửi lại tổ tiên Lạc Việt) và "<a href="https://books.google.com/books/about/M%C3%BAa_n%E1%BB%AFa_%C4%91i_c%C6%B0ng.html?id=Wq9HQwAACAAJ&amp;hl=en">Múa Nữa Đi Cưng</a>" (phản luận đối với tác giả sách Tổ quốc Ăn năn).  Bài viết dưới đây nêu lên 4 "vấn đề" từ bài diễn văn của Ngài Francis. Xin mời đọc (SH)</i></p>
     <hr>
     <p><span class="First">X</span>in “dùng bậy” mấy chữ Hán Việt như thế để khỏi bị phê bình “hỗn láo” với ngài PỐP  Vatican, mà người Ki Tô dịch là Giáo Hoàng La Mã. </p>
  <p>Tuy  mơ ước “<i>hàm tiếu vấn giáo hoàng</i>”, nhưng chắc khó đạt vì ngài Pope quá cao xa, lời  ngài lại “<i>cao đê nan biệt</i>”, hiểm hóc khó lường, nên xin các đấng “đại chiên”  như Nguyễn Tiến Cảnh, Tú Gàn Nguyễn Cần..., các “đại chăn” trong Hội Đồng Giám  Mục Việt Nam hãy thay ngài trả lời thử cho “chúng con” một vài việc tí tẹo được  ghi trong “kinh thánh”. </p>
@@ -54,4 +54,4 @@ image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/TONGIAO/IMG/VATICAN/
 <p class="TacgiaL">BQK-27-9-15 </p>
 <hr>
 <p><b>Mời đọc thêm:</b></p>
-<p>- <a href="https://sachhiem.net/NMQ/NMQ56.php"><i>Thư Ngỏ Gửi Giáo Hoàng Francis Về Việc Bách Hại Người Ki-Tô Giáo Ở Trung Đông</i> (Nguyễn Mạnh Quang)</a> </p>
+<p>- <a href="/NMQ/NMQ56"><i>Thư Ngỏ Gửi Giáo Hoàng Francis Về Việc Bách Hại Người Ki-Tô Giáo Ở Trung Đông</i> (Nguyễn Mạnh Quang)</a> </p>

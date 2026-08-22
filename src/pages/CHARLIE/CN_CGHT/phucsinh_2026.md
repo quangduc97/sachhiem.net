@@ -3,13 +3,13 @@ layout: ../../../layouts/Article.astro
 title: "Suy Tư Lại Về Sự Phục Sinh Của Chúa Kitô"
 author: "SH/ Charlie Nguyễn"
 date: 2026-04-05
-source: "https://sachhiem.net/CHARLIE/CN_CGHT/phucsinh_2026.php"
+source: "/CHARLIE/CN_CGHT/phucsinh_2026"
 lang: vi
 wordCount: 2210
 image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/SACHNGOAI/Hinhanh/BIASACH/TheLifeOfJesus.jpg"
 ---
 
-<p> (trích từ <a href="https://sachhiem.net/CHARLIE/CN_CGHT/phucsinh.php">Huyền Thoại Phục Sinh</a> trong tập sách <a href="https://sachhiem.net/CHARLIE/CN_CGHT/CN_CGHTdir.php">Công Giáo Huyền Thoại và Tội Ác</a>) của Charlie Nguyễn</p>
+<p> (trích từ <a href="/CHARLIE/CN_CGHT/phucsinh">Huyền Thoại Phục Sinh</a> trong tập sách <a href="/CHARLIE/CN_CGHT/CN_CGHTdir">Công Giáo Huyền Thoại và Tội Ác</a>) của Charlie Nguyễn</p>
 <div class="tomluoc">
   <p><i>Số 
     báo đặc biệt nhân dịp lễ Phục Sinh năm 1996, với chủ đề in trên trang bìa 

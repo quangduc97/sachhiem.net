@@ -2,7 +2,7 @@
 layout: ../../layouts/Article.astro
 title: "Thí Chốt!"
 author: "Lý Thái"
-source: "https://sachhiem.net/LTX/LyThaiTG10.php"
+source: "/LTX/LyThaiTG10"
 category: "Tác giả"
 lang: vi
 wordCount: 4414

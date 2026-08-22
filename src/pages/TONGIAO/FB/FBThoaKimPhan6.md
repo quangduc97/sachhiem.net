@@ -3,7 +3,7 @@ layout: ../../../layouts/Article.astro
 title: "ĐƠN TỐ CÁO Số 6: Có Dấu hiệu Tổ Chức Đường Dây Gái Gọi"
 author: "Phan thị Kim Thoa"
 date: 2024-03-11
-source: "https://sachhiem.net/TONGIAO/FB/FBThoaKimPhan6.php"
+source: "/TONGIAO/FB/FBThoaKimPhan6"
 category: "Tác giả"
 lang: vi
 wordCount: 5156

@@ -3,7 +3,7 @@ layout: ../../../layouts/Article.astro
 title: "Nhật Ký Biển Đông: Giải Pháp Nào Cho Vùng An Toàn Của Thổ?"
 author: "Đào Văn Bình"
 date: 2018-03-02
-source: "https://sachhiem.net/DAOVB/CT/DaovBinh106.php"
+source: "/DAOVB/CT/DaovBinh106"
 category: "Chính trị"
 lang: vi
 wordCount: 6321

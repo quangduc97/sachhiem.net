@@ -3,7 +3,7 @@ layout: ../../../layouts/Article.astro
 title: "Tại Sao Vatican Có Thể Sử Dụng Quân Đội Đế Quốc Để"
 author: "Hồng Thất Công"
 date: 2026-03-24
-source: "https://sachhiem.net/TONGIAO/FB/FBHongThatCong05.php"
+source: "/TONGIAO/FB/FBHongThatCong05"
 category: "Chính trị"
 lang: vi
 wordCount: 470

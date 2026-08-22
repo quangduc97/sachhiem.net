@@ -2,15 +2,14 @@
 layout: ../../../layouts/Article.astro
 title: "Đầu Hàng"
 author: "Vân Xưa"
-source: "https://sachhiem.net/LICHSU/V/VanXua.php"
+source: "/LICHSU/V/VanXua"
 category: "Chính trị"
 lang: vi
 wordCount: 9207
-image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nha.jpg"
+image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/LICHSU/IMG/NHANVAT/VANXUA.jpg"
 ---
 
-<p align="center"><a href="https://www.sachhiem.net/">
-<img border="0" src="https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nha.jpg"></a> 26/4/2009 </p>
+<p align="center"> 26/4/2009 </p>
 
 <div class="tomluoc">
 	<p> <b>Cập nhật 25/4/2018</b> (thêm ảnh và LGT của Nam Giao): </p>

@@ -3,7 +3,7 @@ layout: ../../../layouts/Article.astro
 title: "Có Hay Không Cuộc \"Chiến Tranh Tôn Giáo\" Ở Myanmar?"
 author: "Dương Kinh Thành"
 date: 2017-09-18
-source: "https://sachhiem.net/VANHOC/DKTH/DgKinhThanh16.php"
+source: "/VANHOC/DKTH/DgKinhThanh16"
 category: "Xã hội"
 lang: vi
 wordCount: 1720

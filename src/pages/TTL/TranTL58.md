@@ -3,7 +3,7 @@ layout: ../../layouts/Article.astro
 title: "Cả Đời Tôi Tìm Chúa"
 author: "Trần Tiên Long"
 date: 2014-12-18
-source: "https://sachhiem.net/TTL/TranTL58.php"
+source: "/TTL/TranTL58"
 category: "Lịch sử"
 lang: vi
 wordCount: 6094
@@ -103,13 +103,13 @@ Nhưng ngày nay, vì  công ăn việc làm, tôi phải sống lẻ loi nơi m
 <p> <u>Ghi chú:</u> </p>
 <p> <a name="nmot" href="/TTL/#mot">[1]</a> &nbsp;Tại Sao Tôi Không Phải Là Người Thiên  Chúa Giáo / Why I am not a Christian by Bertrand Russell. Nguồn:<a href="https://www.users.drew.edu/~jlenz/whynot.html" target="_blank">https://www.users.drew.edu/~jlenz/whynot.html</a> </p>
 <p><a name="nhai" href="/TTL/#hai">[2]</a> Tại  Sao Tôi Là Người Không Tin / Why am I an agnostic by Robert Ingersoll. Trần  Tiên Long chuyển ngữ. Nguồn: <br>
-    Phần I:&nbsp;<a href="https://sachhiem.net/index.php?content=showrecipe&amp;id=5213" target="_blank">https://sachhiem.net/index.php?content=showrecipe&amp;id=5213</a> <br>
-      Phần II:&nbsp;<a href="https://sachhiem.net/TTL/TranTL15a.php" target="_blank">https://sachhiem.net/TTL/TranTL15a.php</a> </p>
+    Phần I:&nbsp;<a href="/TTL/TranTL15" target="_blank">https://sachhiem.net/index.php?content=showrecipe&amp;id=5213</a> <br>
+      Phần II:&nbsp;<a href="/TTL/TranTL15a" target="_blank">https://sachhiem.net/TTL/TranTL15a.php</a> </p>
 <p> <a name="nba" href="/TTL/#ba">[3]</a> Hành  Hương Đất Phật, Phan Thiết, Chương 1, Vô Tự Chân Kinh, trang 31, Southern Stars  Publisher, Australia </p>
 <p><a name="nbon" href="/TTL/#bon">[4]</a> Miên  Man Chuyện Đức Tin / Trần Tiên Long.<br>
-Nguồn:<a href="https://sachhiem.net/index.php?content=showrecipe&amp;id=5924" target="_blank">https://sachhiem.net/index.php?content=showrecipe&amp;id=5924</a> </p>
-<p> <a name="nnam" href="/TTL/#nam">[5]</a> Không  Thể Có Thượng Đế / The Improbability of God by Richard Dawkins. Trần Tiên Long  chuyển ngữ. Nguồn:<a href="https://sachhiem.net/index.php?content=showrecipe&amp;id=5013" target="_blank">https://sachhiem.net/index.php?content=showrecipe&amp;id=5013</a></p>
+Nguồn:<a href="/TTL/TranTL50" target="_blank">https://sachhiem.net/index.php?content=showrecipe&amp;id=5924</a> </p>
+<p> <a name="nnam" href="/TTL/#nam">[5]</a> Không  Thể Có Thượng Đế / The Improbability of God by Richard Dawkins. Trần Tiên Long  chuyển ngữ. Nguồn:<a href="/TTL/TranTL10" target="_blank">https://sachhiem.net/index.php?content=showrecipe&amp;id=5013</a></p>
 <p>_______________</p>
-<p><a href="https://sachhiem.net/TTL/List.inc.php">Các bài của Trần Tiên Long » </a></p>
+<p><a href="/TTL/List.inc">Các bài của Trần Tiên Long » </a></p>
 
 <hr>

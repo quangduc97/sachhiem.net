@@ -2,15 +2,15 @@
 layout: ../../../layouts/Article.astro
 title: "MỘT “TRÍ THỨC“ KHÔNG BIẾT NGƯỢNG (1)"
 author: "Trần Chung Ngọc"
-source: "https://sachhiem.net/TCN/TCNdt/TCNdt003.php"
+source: "/TCN/TCNdt/TCNdt003"
 category: "Đối thoại"
 lang: vi
 wordCount: 4465
-image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.devhttps://sachhiem.net/images/nha.jpg"
+image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/Next3.gif"
 ---
 
 <table border="0" width="250" align="center">
-    <tbody><tr><td width="100"><a href="https://sachhiem.net/index.php"><img border="0" src="https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.devhttps://sachhiem.net/images/nha.jpg"></a>    </td> <td valign="top" style="text-align:right">	<i>đăng ngày 28 tháng 5, 2007 </i> </td></tr></tbody></table>
+    <tbody><tr><td width="100">    </td> <td valign="top" style="text-align:right">	<i>đăng ngày 28 tháng 5, 2007 </i> </td></tr></tbody></table>
 
 
 <p>Toàn tập:&nbsp; <a href="/TCN/TCNdt003">1</a>&nbsp; <a href="/TCN/TCNdt004">2</a> </p>

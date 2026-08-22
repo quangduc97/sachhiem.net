@@ -1,7 +1,7 @@
 ---
 layout: ../../layouts/Article.astro
 title: "Các bài về Mậu Thân 68"
-source: "https://sachhiem.net/null"
+source: "/null"
 lang: vi
 wordCount: 21
 ---

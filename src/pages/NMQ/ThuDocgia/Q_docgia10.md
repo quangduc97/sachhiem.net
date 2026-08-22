@@ -1,14 +1,14 @@
 ---
 layout: ../../../layouts/Article.astro
 title: "Thư bạn đọc Lê Tất Dũng (California)"
-source: "https://sachhiem.net/NMQ/ThuDocgia/Q_docgia10.php"
+source: "/NMQ/ThuDocgia/Q_docgia10"
 lang: vi
 wordCount: 119
 image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/NMQ/ThuDocgia/LetatDung.jpg"
 ---
 
 <div style="padding-left: 75px; padding-right: 75px">
-			<p><a href="https://sachhiem.net/NMQ/ThuDocgia/QThudocgia.php">[Mời xem lời giới thiệu ở link]</a></p>
+			<p><a href="/NMQ/ThuDocgia/QThudocgia">[Mời xem lời giới thiệu ở link]</a></p>
 			  <p><img src="https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/NMQ/ThuDocgia/LetatDung.jpg" width="334" height="448" alt=""></p>
               <p><img src="https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/NMQ/ThuDocgia/LetatDung2.jpg" width="326" height="448" alt="">
             </p>

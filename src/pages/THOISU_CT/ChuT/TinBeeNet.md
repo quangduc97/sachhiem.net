@@ -2,7 +2,7 @@
 layout: ../../../layouts/Article.astro
 title: "Cựu chiến binh Mỹ đi tìm hài cốt bộ đội Việt Nam"
 author: "Đắc Thành/Bee.net"
-source: "https://sachhiem.net/null"
+source: "/null"
 category: "Chính trị"
 lang: vi
 wordCount: 1182

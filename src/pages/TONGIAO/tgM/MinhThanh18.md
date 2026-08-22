@@ -3,7 +3,7 @@ layout: ../../../layouts/Article.astro
 title: "Vụ Mồ Tập Thể: Đạo Vatican “Phản Đòn” Chính Quyền Canada,"
 author: "Minh Thạnh"
 date: 2021-07-31
-source: "https://sachhiem.net/TONGIAO/tgM/MinhThanh18.php"
+source: "/TONGIAO/tgM/MinhThanh18"
 category: "Tác giả"
 lang: vi
 wordCount: 4191
@@ -97,7 +97,7 @@ image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/TONGIAO/IMG/CHURCH/F
 <p>   Hoan nghênh ý kiến phê bình, đóng góp từ bạn đọc và tích cực  điều chỉnh nếu xét thấy phù hợp.</p>
 <p class="TacgiaL">   Minh Thạnh</p>
 <p>__________________</p>
-<p>(1) <a href="https://sachhiem.net/SACHNGOAI/SH/SH41_Gravesfound.php">Phát Hiện Hàng Trăm Ngôi Mộ Không Tên Khác
+<p>(1) <a href="/SACHNGOAI/SH/SH41_Gravesfound">Phát Hiện Hàng Trăm Ngôi Mộ Không Tên Khác
 
 Tại Trường Nội Trú Ở Canada</a></p>
 <p>(2)<a href="https://www.cgvdt.vn/cong-giao-the-gioi/ngay-the-gioi-ong-ba-va-nguoi-cao-tuoi-lan-thu-nhat_a13023"> Bốn thánh đường Công giáo tại Canada bị đốt</a></p>
@@ -105,6 +105,6 @@ Tại Trường Nội Trú Ở Canada</a></p>
 <p>Trước đó, 2 nhà thờ Công giáo ở miền nam Okanagan trên đất của thổ dân đã bị đốt. Ðó là nhà thờ Thánh Tâm và nhà thờ thánh Gregorio bị đốt sáng sớm ngày 21.6.2021. Các nhà thờ này cũng có từ hơn 100 năm và thuộc giáo phận Nelson. Cùng ngày 26.6.2021, tượng thánh Giáo Hoàng Gioan Phaolô II ở giáo xứ Mân Côi của cộng đoàn tín hữu Ba Lan ở thành phố Edmonton, thủ phủ bang Alberta, đã bị những kẻ vô danh bôi sơn đỏ ở chân tượng và bệ tượng. Những sự việc đáng tiếc trên xẩy ra sau hôm 27.5, khi bộ lạc Tk’emlups Tee Secwepemc ở thành phố Kamloops thuộc British Colombia phát hiện 215 bộ hài cốt học trong khuôn viên Trường nội trú Kamloops Indian. Trường Kamloops từng là hệ thống trường nội trú lớn nhất Canada, hoạt động từ năm 1890 -1969, với khoảng 150.000 trẻ em người da đỏ, Inuit và Metiss.</p>
 <p>____________________</p>
 <p><b>Mời đọc thêm:</b></p>
-<p>-  <a href="https://sachhiem.net/SACHNGOAI/SH/SH41a_DietChung.php">Chờ Đến Những Phát Hiện Bi Thương Mới Biết Diệt Chủng Văn Hóa Là Tội Ác Như Thế Nào!</a></p>
+<p>-  <a href="/SACHNGOAI/SH/SH41a_DietChung">Chờ Đến Những Phát Hiện Bi Thương Mới Biết Diệt Chủng Văn Hóa Là Tội Ác Như Thế Nào!</a></p>
  
 <p class="nguonL">Nguồn <a href="https://www.facebook.com/cusiminhthanh/posts/2952502301632032">https://www.facebook.com/ cusiminhthanh/posts/</a></p>

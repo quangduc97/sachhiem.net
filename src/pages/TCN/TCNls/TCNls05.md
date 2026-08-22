@@ -2,13 +2,13 @@
 layout: ../../../layouts/Article.astro
 title: "VÀI NÉT VỀ “CỤ HỒ”"
 author: "Trần Chung Ngọc"
-source: "https://sachhiem.net/TCN/TCNls/TCNls05.php"
+source: "/TCN/TCNls/TCNls05"
 lang: vi
 wordCount: 9159
-image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nha.jpg"
+image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/SACHNGOAI/Hinhanh/BIASACH/ThePolitEco_ofHumRights_VolI.jpg"
 ---
 
-<p align="center"> <a href="/index"><img border="0" src="https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nha.jpg" align="middle" hspace="20"></a> 17 tháng 5, 2007 </p>
+<p align="center">  17 tháng 5, 2007 </p>
 				<p>Toàn phần:  <a href="/TCN/TCNls/TCNls04">1</a> <b>
 				<span style="background-color: #FFFF99">2 </span></b> </p>
 
@@ -788,6 +788,6 @@ image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nha.jpg"
 		  <p class="TacgiaL">		<b>TCN</b></p>
 <p align="center">__________________</p>
 <p class="MUC"><b>PHỤ LỤC của SH:</b></p>
- <p>(<a href="https://sachhiem.net/TCN/TCNls/TCNls05a.php">xem tiếp -&gt;</a>)</p>
+ <p>(<a href="/TCN/TCNls/TCNls05a">xem tiếp -&gt;</a>)</p>
 
     <hr>

@@ -3,7 +3,7 @@ layout: ../../../layouts/Article.astro
 title: "Hiểm Họa Của Tuyên Ngôn Thuộc Linh"
 author: "Thính Giả"
 date: 2013-04-19
-source: "https://sachhiem.net/LICHSU/TR/TQD24a_TNTL.php"
+source: "/LICHSU/TR/TQD24a_TNTL"
 category: "Tác giả"
 lang: vi
 wordCount: 2855
@@ -20,12 +20,12 @@ rủa sả của các thế hệ trước đã bị tuyên bố cắt đứt, h�
 rắn xưa là ma quỷ kể từ nay không còn tiếp tục được ảnh hưởng trên dân tộc Việt 
 Nam. Việt Nam thuộc về Đức Chúa Trời, từ nay dân tộc Việt Nam sẽ được phước, Hội 
 thánh Việt Nam sẽ bước vào một cơn phấn hưng chưa từng có và trong một tinh thần 
-hiệp một khắng khít trước mặt Đức Chúa Trời</i>"...  (<a href="https://sachhiem.net/EMAILS/emailN/Nguyen.php">https://sachhiem.net/EMAILS/emailN/Nguyen.php </a>)</p>
+hiệp một khắng khít trước mặt Đức Chúa Trời</i>"...  (<a href="/EMAILS/emailN/Nguyen">https://sachhiem.net/EMAILS/emailN/Nguyen.php </a>)</p>
      
      <p class="TuaChuong">Phản Hồi Của Thính Giả Về Video "Tuyên Ngôn Thuộc Linh"</p>
      <p align="center"><a href="https://www.youtube.com/watch?v=CuADMaTbLdA">https://www.youtube.com/watch?v=CuADMaTbLdA</a></p>
-     <p>1, <a href="https://sachhiem.net/CHARLIE/CNdir.php">https://sachhiem.net/CHARLIE/CNdir.php</a></p>
-     <p>2, <a href="https://sachhiem.net/NMQ/HOSOTOIAC/DanbaiHSTA.php">https://sachhiem.net/NMQ/HOSOTOIAC/DanbaiHSTA.php</a></p>
+     <p>1, <a href="/CHARLIE/CNdir">https://sachhiem.net/CHARLIE/CNdir.php</a></p>
+     <p>2, <a href="/NMQ/HOSOTOIAC/DanbaiHSTA">https://sachhiem.net/NMQ/HOSOTOIAC/DanbaiHSTA.php</a></p>
      
      <p><b>hong hoa       pham</b> 1 day ago </p>
      <p>Theo  Lịch sử, các thế thực thực dân "cố cụ" như Tây Ban Nha, Bồ Đào Nha,  Pháp... luôn cộng tác cộng sinh với đạo Chúa. Không sai lầm khi nói rằng, đạo  Tin lành, ngoài các của lễ và 1/10 thu nhập, họ còn là "lính đánh thuê"  cho bọn thực dân mới A, F, G...Cả hai khoản thu nhập cộng lại, trích ra ăn xài  nuôi vợ con và luyện nước bọt thành "tuyên ngôn thuộc linh". Tâm điểm  cứu thế của Chúa nằm ở chỗ này</p>

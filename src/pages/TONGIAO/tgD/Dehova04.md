@@ -3,7 +3,7 @@ layout: ../../../layouts/Article.astro
 title: "Tượng Đức Phật Được Chế Tác Từ Thiên Thạch"
 author: "Nina Weber, SPIEGEL"
 date: 2012-10-11
-source: "https://sachhiem.net/TONGIAO/tgD/Dehova04.php"
+source: "/TONGIAO/tgD/Dehova04"
 category: "Tác giả"
 lang: vi
 wordCount: 1416

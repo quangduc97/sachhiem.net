@@ -2,15 +2,15 @@
 layout: ../../../layouts/Article.astro
 title: "CROSSING THE THRESHOLD OF IGNORANCE"
 author: "by Trần Chung Ngọc"
-source: "https://sachhiem.net/TCN/TCNdt/TCNdt035.php"
+source: "/TCN/TCNdt/TCNdt035"
 category: "Đối thoại"
 lang: en
 wordCount: 20599
-image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nha.jpg"
+image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/TCN/TCNdt/Hinh/Crossing_the_Threshold.jpg"
 ---
 
 <table border="0" width="250" align="center">
-    <tbody><tr><td width="106"><a href="https://sachhiem.net/index.php"><img border="0" src="https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nha.jpg"></a>    </td>
+    <tbody><tr><td width="106">    </td>
 <td valign="top" width="195">
 <p>28 tháng 6, 2009</p></td>
 </tr>
@@ -120,7 +120,7 @@ filicidal, pestilential, megalomaniacal, sadomasochistic,
 capriciously malevolent bully.] </font> </p>
 <p> Nhận định này đã được chứng minh đầy đủ trong bài <i>“Đây! Thiên Chúa Của 
 Những Người Theo Đạo Thiên Chúa” </i>
-<a style="color: blue; text-decoration: underline; text-underline: single" href="https://www.sachhiem.net/TCNtg/TCN64.php">[https://www.sachhiem.net/TCNtg/ TCN64.php</a>] và đặt cho 
+<a style="color: blue; text-decoration: underline; text-underline: single" href="/TCNtg/TCN64">[https://www.sachhiem.net/TCNtg/ TCN64.php</a>] và đặt cho 
 chúng ta một câu hỏi: <i><u>Một God như trên có đáng để cho 
 chúng ta tới gần không? </u></i></p>
 <p><font face="Sylfaen">● </font>  Một thí dụ khác, trong cuốn <i>Bước 

@@ -2,7 +2,7 @@
 layout: ../../../layouts/Article.astro
 title: "Dư Luận Quanh Việc Chống Ca sĩ Đàm Vĩnh Hưng (liên mạng)"
 author: "Bác sĩ Trần Xuân Ninh"
-source: "https://sachhiem.net/nguồn https://www.mercurynews.com/bay-area-news/ci_15552277?source=rss&amp;nclick_check=1"
+source: "/nguồn https://www.mercurynews.com/bay-area-news/ci_15552277?source=rss&amp;nclick_check=1"
 lang: vi
 wordCount: 9960
 image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nha.gif"

@@ -3,7 +3,7 @@ layout: ../../layouts/Article.astro
 title: "Nhận Xét Về Thí Nghiệm Của Giáo Sư Luigi Garlaschelli"
 author: "By Thibault Heimburger, MD"
 date: 2018-04-17
-source: "https://sachhiem.net/LTX/LyThaiKH26.php"
+source: "/LTX/LyThaiKH26"
 category: "Khoa học"
 lang: vi
 wordCount: 2505

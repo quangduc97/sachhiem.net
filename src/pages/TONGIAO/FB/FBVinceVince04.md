@@ -3,7 +3,7 @@ layout: ../../../layouts/Article.astro
 title: "\"Ngày Của Cha\" Trong Thánh Kinh"
 author: "Vince Vince"
 date: 2022-06-20
-source: "https://sachhiem.net/TONGIAO/FB/FBVinceVince04.php"
+source: "/TONGIAO/FB/FBVinceVince04"
 category: "Tác giả"
 lang: vi
 wordCount: 2072

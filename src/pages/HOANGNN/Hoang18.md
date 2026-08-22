@@ -2,15 +2,14 @@
 layout: ../../layouts/Article.astro
 title: "Nhân ngày 1-11 trở lại một vấn nạn"
 author: "HOÀNG ĐÔNG TÀ chọn bài"
-source: "https://sachhiem.net/HOANGNN/Hoang18.php"
+source: "/HOANGNN/Hoang18"
 category: "Chính trị"
 lang: vi
 wordCount: 54931
-image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nha.jpg"
+image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/duskysm.jpg"
 ---
 
-<p align="center"><a href="https://www.sachhiem.net/">
-	<img border="0" src="https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nha.jpg"></a> 01 tháng 11, 2008</p>
+<p align="center"> 01 tháng 11, 2008</p>
    <p class="TuaDenLeft">Nội Dung:</p>
    <p><a name="1." href="/HOANGNN/#I">1. Sơ Lược Cuộc Đời Của cố TT. Ngô Đình Diệm</a></p>
 	<p><a name="2." href="/HOANGNN/#II">2. Cố Tổng Thống Ngô Đinh Diệm Bí Mật Tiếp Xúc Với Cộng Sản Việt Nam</a></p>
@@ -24,7 +23,7 @@ image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nha.jpg"
 				<p class="TacgiaL">Nguyễn Mạnh Quang</p>
 				<p>Theo sử gia Vũ Ngự Chiêu, ông Ngô Đình Diệm 
 				"<i>sinh ngày 21/7/1897, tại Đại Phong Lộc, Quảng Bình. Tuy 
-				nhiên, từ năm 1954, ngày sinh chính thức đổi thành ngày 3/1/1954</i>."<a target="_blank" href="https://www.sachhiem.net/NMQ/HOSOTOIAC/CH63_1.php#_edn8%23_edn8">[8]</a>
+				nhiên, từ năm 1954, ngày sinh chính thức đổi thành ngày 3/1/1954</i>."<a target="_blank" href="/NMQ/HOSOTOIAC/CH63_1#_edn8%23_edn8">[8]</a>
 				</p>
 				<p>Song thân của Ngô Đình Diệm là Ngô Đình Khả 
 				và Phạm Thị Thân. Ngô Đình Khả có 6 người con trai là Ngô Đình 
@@ -48,7 +47,7 @@ image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nha.jpg"
 				statistic emerges: in a country of 900,000 people, there were 
 				3,000 clergy; and yet <u>two out of five</u> bastards were born 
 				to the clergy.")
-				<a target="_blank" href="https://www.sachhiem.net/NMQ/HOSOTOIAC/CH63_1.php#_edn9%23_edn9">
+				<a target="_blank" href="/NMQ/HOSOTOIAC/CH63_1#_edn9%23_edn9">
 				[9]</a> </p>
 				<p>Đoạn văn trên đây cho chúng ta biết "<u>cứ 
 				2 trong 5</u> (40%) đứa con hoang là con của các ông tu sĩ." 
@@ -96,13 +95,13 @@ image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nha.jpg"
 				Chúa. Ăn củ khoai cũng làm dấu thánh giá. Nửa đêm mất ngủ cũng 
 				ngồi lên lần tràng hạt! Vui cũng cám ơn Chúa, mà buồn cũng coi 
 				là thánh giá Chúa trao cho mình gánh vác! Niềm tin mãnh liệt như 
-				thế, cho nên chẳng lạ gì…</i>."<a target="_blank" href="https://www.sachhiem.net/NMQ/HOSOTOIAC/CH63_1.php#_edn10%23_edn10">[10]</a></p>
+				thế, cho nên chẳng lạ gì…</i>."<a target="_blank" href="/NMQ/HOSOTOIAC/CH63_1#_edn10%23_edn10">[10]</a></p>
 				<p>"<i>Từ thuở chưa có trí khôn, cũng giống 
 				như bao nhiêu người Công Giáo khác, anh (Thông) đã được nuôi 
 				dưỡng trong bầu không khí thượng tôn tín ngưỡng, bằng những giáo 
 				điều bất di bất dịch, theo thời gian ngấm dần vào trí óc anh, 
 				khiến anh làm cái gì cũng sợ tội, sợ Chúa trừng phạt."</i>
-				<a target="_blank" href="https://www.sachhiem.net/NMQ/HOSOTOIAC/CH63_1.php#_edn11%23_edn11">
+				<a target="_blank" href="/NMQ/HOSOTOIAC/CH63_1#_edn11%23_edn11">
 				[11]</a> . </p>
 				<p>Ông Ngô Đình Khả và đàn con đàn cháu của 
 				ông ta cũng được nhồi sọ theo cái phướng trên đây của Giáo Hội 
@@ -149,7 +148,7 @@ image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nha.jpg"
 				<p><i>"Khi đưa cụ Ngô Đình Khả vào làm Phụ Đạo 
 				cho vua Thành Thái, người Pháp muốn cụ theo dõi các hoạt động 
 				của vua và báo cáo cho Pháp biết những ý định phản nghịch của 
-				vua để có biện pháp kịp thời</i>."<a target="_blank" href="https://www.sachhiem.net/NMQ/HOSOTOIAC/CH63_1.php#_edn12%23_edn12">[12]</a>
+				vua để có biện pháp kịp thời</i>."<a target="_blank" href="/NMQ/HOSOTOIAC/CH63_1#_edn12%23_edn12">[12]</a>
 				</p>
 				
 				<p>Nhờ địa vị quan tước của thân phụ, ông Diệm 
@@ -185,7 +184,7 @@ image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nha.jpg"
 				tim phổi người nọ (nạn nhân) bị sấy lửa, khô dần đi, không chịu 
 				nổi, dù có khai để chấm dứt cực hình nhưng hậu quả về sau không 
 				lường được. Lối tra tấn dã man này, ngay với các bót giam của 
-				Pháp, như bót Catinat, cũng chưa dám dùng</i>. <a target="_blank" href="https://www.sachhiem.net/NMQ/HOSOTOIAC/CH63_1.php#_edn13%23_edn13">[13]</a>
+				Pháp, như bót Catinat, cũng chưa dám dùng</i>. <a target="_blank" href="/NMQ/HOSOTOIAC/CH63_1#_edn13%23_edn13">[13]</a>
 				</p>
 				<p>Đoạn văn sử trên đây cho chúng thấy những 
 				tên Việt gian làm quan trong thời bảo hộ 1885-1945 ác độc và tàn 
@@ -330,7 +329,7 @@ image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nha.jpg"
 				thực dân! Người Mỹ Châu La-tinh đồng hóa Giáo Hội vào đại họa 
 				diệt chủng! Và người Trung Đông làm sao quên được 250 cuộc thánh 
 				chiến hãi hùng!.v.v…"</i>
-				<a target="_blank" title="" style="color: blue; text-decoration: underline; text-underline: single" href="https://www.sachhiem.net/NMQ/HOSOTOIAC/CH63_1.php#_edn14%23_edn14">
+				<a target="_blank" title="" style="color: blue; text-decoration: underline; text-underline: single" href="/NMQ/HOSOTOIAC/CH63_1#_edn14%23_edn14">
 				[14]</a> </p>
 				
 				<p>Vì nguyên nhân này mà trong thời gian từ 
@@ -351,7 +350,7 @@ image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nha.jpg"
 				Ferry, Bert đã cổ võ và phát động một chính sách giáo dục quốc 
 				gia phi tôn giáo. Theo Bert, nước Pháp không còn trách nhiệm 
 				hoằng dương hay rao giảng một tôn giáo nào, và cũng không công 
-				nhận một tôn giáo nào làm quốc giáo"<a target="_blank" title="" style="color: blue; text-decoration: underline; text-underline: single" href="https://www.sachhiem.net/NMQ/HOSOTOIAC/CH63_1.php#_edn15%23_edn15">[15]</a>
+				nhận một tôn giáo nào làm quốc giáo"<a target="_blank" title="" style="color: blue; text-decoration: underline; text-underline: single" href="/NMQ/HOSOTOIAC/CH63_1#_edn15%23_edn15">[15]</a>
 				</i></p>
 				
 				<p>Cũng nên biết là hai thế lực Pháp và 
@@ -398,7 +397,7 @@ image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nha.jpg"
 				xem Khâm Sư Léon Thibaudeau và Toàn Quyền Pierre Pasquier thuộc 
 				nhóm nào là ra ngay. Chứ Bảo Đại, Phạm Quỳnh, ngoài chuyện thừa 
 				hành, làm gì có quyền để trừng phạt oan ức một người… đáng quí 
-				như ông Diệm…</i>"<a target="_blank" title="" style="color: blue; text-decoration: underline; text-underline: single" href="https://www.sachhiem.net/NMQ/HOSOTOIAC/CH63_1.php#_edn16%23_edn16">[16]</a>
+				như ông Diệm…</i>"<a target="_blank" title="" style="color: blue; text-decoration: underline; text-underline: single" href="/NMQ/HOSOTOIAC/CH63_1#_edn16%23_edn16">[16]</a>
 				</p>
 				
 				<p>Chuyện tranh chấp giữa ông Ngô Đình Diệm và 
@@ -410,7 +409,7 @@ image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nha.jpg"
 				có óc quan lại phong kiến và nịnh quan thầy Tây. Ông tranh quyền 
 				với ông Phạm Quỳnh, song quan thầy của ông là Khâm Sứ Thibaudeau
 				<u>kém thế hơn</u> quan thầy của ông Phạm Quỳnh là Toàn Quyền 
-				Pasquier. Ông Diệm thua Phạm Quỳnh bất mãn từ quan</i>."<a target="_blank" title="" style="color: blue; text-decoration: underline; text-underline: single" href="https://www.sachhiem.net/NMQ/HOSOTOIAC/CH63_1.php#_edn17%23_edn17">[17]</a>
+				Pasquier. Ông Diệm thua Phạm Quỳnh bất mãn từ quan</i>."<a target="_blank" title="" style="color: blue; text-decoration: underline; text-underline: single" href="/NMQ/HOSOTOIAC/CH63_1#_edn17%23_edn17">[17]</a>
 				</p>
 				
 				<p>Theo sử gia Vũ Ngự Chiêu, Không phải ông 
@@ -454,7 +453,7 @@ image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nha.jpg"
 				Paris. Năm sau, Bài cũng chết. Tân Toàn Quyền René Robin 
 				(7/1934-1/1937) và Khâm Sứ Maurice Graffeuil (7/1934-5/1936, 
 				4/1937-8/1941) đồng ý phục hồi tước vị cho Bài và Diệm. Diệm 
-				được trở về Huế dạy học ở trường Providence của Thục</i>,…"<a target="_blank" title="" style="color: blue; text-decoration: underline; text-underline: single" href="https://www.sachhiem.net/NMQ/HOSOTOIAC/CH63_1.php#_edn18%23_edn18">[18]</a>
+				được trở về Huế dạy học ở trường Providence của Thục</i>,…"<a target="_blank" title="" style="color: blue; text-decoration: underline; text-underline: single" href="/NMQ/HOSOTOIAC/CH63_1#_edn18%23_edn18">[18]</a>
 				</p>
 				
 				<p>Chiến dịch "<i>Đòi thay Pasquier bằng cựu 
@@ -504,7 +503,7 @@ image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nha.jpg"
 				Phần lớn là những tay dạy giáo lý Cơ Đốc, vì hạnh kiểm kém mà bị 
 				các giám mục đuổi về, và dưới một cái tên La Tinh (bởi vì họ nói 
 				lõm bõm tiếng La Tinh), là đại diện sơ lược của thủ đoạn, của sự 
-				vô trách nhiệm, và sự thoái hóa của Châu Á.</i>"<a target="_blank" title="" style="color: blue; text-decoration: underline; text-underline: single" href="https://www.sachhiem.net/NMQ/HOSOTOIAC/CH63_1.php#_edn19%23_edn19">[19]</a>
+				vô trách nhiệm, và sự thoái hóa của Châu Á.</i>"<a target="_blank" title="" style="color: blue; text-decoration: underline; text-underline: single" href="/NMQ/HOSOTOIAC/CH63_1#_edn19%23_edn19">[19]</a>
 				</p>
 				
 				<p>Từ năm 1931, Nhật bành trướng thế lực vào 
@@ -577,7 +576,7 @@ image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nha.jpg"
 				church history… However the beatifications have stirred 
 				controversy in Spain, where critics acuse the Vatican of playing 
 				politics by promoting recognition of one side of the war 
-				protagonist. - <i>Los Angeles Times</i>."<a target="_blank" title="" style="color: blue; text-decoration: underline; text-underline: single" href="https://www.sachhiem.net/NMQ/HOSOTOIAC/CH63_1.php#_edn20%23_edn20">[20]</a>
+				protagonist. - <i>Los Angeles Times</i>."<a target="_blank" title="" style="color: blue; text-decoration: underline; text-underline: single" href="/NMQ/HOSOTOIAC/CH63_1#_edn20%23_edn20">[20]</a>
 				</p>
 				
 				<p>Tại Á Châu, Giáo Hội ra lệnh cho bọn tu sĩ 
@@ -596,7 +595,7 @@ image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nha.jpg"
 				Louis Pineau. Sau này, còn có những cộng đồng Ki-tô ở Xiêm La." 
 				Vũ Ngự Chiêu. Sự Hình Thành Phong Trào Quốc Gia Mới: Từ Trung 
 				Quân sang Ái Quốc.
-				<a target="_blank" title="" style="color: blue; text-decoration: underline; text-underline: single" href="https://www.sachhiem.net/NMQ/HOSOTOIAC/CH63_1.php#_edn21%23_edn21">
+				<a target="_blank" title="" style="color: blue; text-decoration: underline; text-underline: single" href="/NMQ/HOSOTOIAC/CH63_1#_edn21%23_edn21">
 				[21]</a> </i></p>
 				
 				<p>Trong những giáo mục (tu sĩ) và giáo dân 
@@ -611,7 +610,7 @@ image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nha.jpg"
 				Ngô Đình Khôi là Ngô Đình Huân cũng hoạt động làm tay sai cho 
 				Nhật. Ngô Đình Huân làm mật vụ cho Nhật và được Nhật cho "<i>làm 
 				bí thư cho đại sứ Nhật Yokohama, tức người thay thế khâm sứ Pháp 
-				tại miền Trung sau đêm đảo chánh 9/3/1945.</i>"<a target="_blank" title="" style="color: blue; text-decoration: underline; text-underline: single" href="https://www.sachhiem.net/NMQ/HOSOTOIAC/CH63_1.php#_edn22%23_edn22">[22]</a>
+				tại miền Trung sau đêm đảo chánh 9/3/1945.</i>"<a target="_blank" title="" style="color: blue; text-decoration: underline; text-underline: single" href="/NMQ/HOSOTOIAC/CH63_1#_edn22%23_edn22">[22]</a>
 				</p>
 				
 				<p>Nhật chống Pháp. Làm việc hay hoạt động làm 
@@ -685,7 +684,7 @@ image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nha.jpg"
 				<p><i>Thưa Đố Đốc, một lần nữa bày tỏ với Đô 
 				Đốc tất cả niềm đau đớn của tôi trong vụ này, tôi xin Đô Đốc vui 
 				lòng nhận nơi đây lời kính chào trân trọng nhất của tôi,</i></p>
-				<p><i>Ngô Đình Thụ</i>c<a target="_blank" title="" style="color: blue; text-decoration: underline; text-underline: single" href="https://www.sachhiem.net/NMQ/HOSOTOIAC/CH63_1.php#_edn23%23_edn23">[23]</a>
+				<p><i>Ngô Đình Thụ</i>c<a target="_blank" title="" style="color: blue; text-decoration: underline; text-underline: single" href="/NMQ/HOSOTOIAC/CH63_1#_edn23%23_edn23">[23]</a>
 				</p>
 				
 				<p>Thời gian từ chiều tối ngày 9/3/1945 (khi 
@@ -732,7 +731,7 @@ image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nha.jpg"
 				<p><i>"Năm ông ở ngoài Bắc (Vũ Văn Hiền đã 
 				được Hoàng Xuân Hãn lựa chọn) vào tới Huế ngày 27/3 và được vua 
 				tiếp kiến suốt ngày 28, sáng 2 người, chiều 3 người." </i></p>
-				<p><i>Rồi tất cả chờ tin tức Ngô Đình Diệm</i>."<a target="_blank" title="" style="color: blue; text-decoration: underline; text-underline: single" href="https://www.sachhiem.net/NMQ/HOSOTOIAC/CH63_1.php#_edn24%23_edn24">[24]</a>
+				<p><i>Rồi tất cả chờ tin tức Ngô Đình Diệm</i>."<a target="_blank" title="" style="color: blue; text-decoration: underline; text-underline: single" href="/NMQ/HOSOTOIAC/CH63_1#_edn24%23_edn24">[24]</a>
 				</p>
 				
 				<p>Trong cuốn sách <i>Con Rồng Việt Nam</i>, 
@@ -762,7 +761,7 @@ image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nha.jpg"
 				này tỏ ra người liêm khiết, một nhà hiền giả chưa từng quan tâm 
 				đến chính trị. Ái quốc chân thành, ông ta nhờ người Nhật đưa đi 
 				lánh nạn ở Singapour do bị chính phủ Pháp đe doạ."</i>
-				<a target="_blank" title="" style="color: blue; text-decoration: underline; text-underline: single" href="https://www.sachhiem.net/NMQ/HOSOTOIAC/CH63_1.php#_edn25%23_edn25">
+				<a target="_blank" title="" style="color: blue; text-decoration: underline; text-underline: single" href="/NMQ/HOSOTOIAC/CH63_1#_edn25%23_edn25">
 				[25]</a> . </p>
 				
 				<p>Xin xem thêm các trang 1949-1951 trong sách
@@ -799,7 +798,7 @@ image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nha.jpg"
 				Cha là giải thoát cho ông Diệm. Ông Diệm được đưa ra Hà Nội và 
 				một tháng sau Võ Nguyên Giáp đã mời ông Ngô Đình Nhu đến lãnh 
 				nhận. Hồ Chí Minh cũng đã liên lạc về Phát Diệm báo tin cho Đức 
-				Cha: Ông Diệm đã về Hà Nội và được tự do</i>."<a target="_blank" title="" style="color: blue; text-decoration: underline; text-underline: single" href="https://www.sachhiem.net/NMQ/HOSOTOIAC/CH63_1.php#_edn26%23_edn26">[26]</a>
+				Cha: Ông Diệm đã về Hà Nội và được tự do</i>."<a target="_blank" title="" style="color: blue; text-decoration: underline; text-underline: single" href="/NMQ/HOSOTOIAC/CH63_1#_edn26%23_edn26">[26]</a>
 				</p>
 				
 				<p>Bản văn trên đây gồm có hai đọan. Những 
@@ -818,7 +817,7 @@ image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nha.jpg"
 				họ mà chúng tôi đã trình bày khá đầy đủ trong Chương 11 (Mục IV, 
 				Phần II) trong bộ sách <i>Lịch Sử và Hồ Sơ Tội Ác Của Giáo Hội 
 				La Mã </i>này và đã được đưa lên
-				<a target="_blank" style="color: blue; text-decoration: underline; text-underline: single" href="https://sachhiem.net/">
+				<a target="_blank" style="color: blue; text-decoration: underline; text-underline: single" href="/">
 				sachhiem.net</a> trong tháng 9/2007 vừa qua. </p>
 				
 				<p>Trở lại chuyện việc Giám-mục Lê Hữu Từ xin 
@@ -868,14 +867,14 @@ image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nha.jpg"
 				<p><i>2/8/1950: Trở lại Sàigòn sau một chuyến 
 				dừng chân ngắn ở Đà Nẵng.</i></p>
 				<p><i>14/8/1950: Diệm cùng Thục rời Saigòn qua 
-				Roma trên tầu La Marseillaise. Trạm đầu tiên ghé chân là Nhật</i>…"<a target="_blank" title="" style="color: blue; text-decoration: underline; text-underline: single" href="https://www.sachhiem.net/NMQ/HOSOTOIAC/CH63_1.php#_edn27%23_edn27">[27]</a>
+				Roma trên tầu La Marseillaise. Trạm đầu tiên ghé chân là Nhật</i>…"<a target="_blank" title="" style="color: blue; text-decoration: underline; text-underline: single" href="/NMQ/HOSOTOIAC/CH63_1#_edn27%23_edn27">[27]</a>
 				</p>
 				
 				<p>Nhờ có đặc tính cuồng tín, tuyệt đối trung 
 				thành với Vatican đúng như lời ông tuyên bố với các chính khách 
 				Hoa Kỳ trong một bữa cơm chiều tại Khách Sạn Mayfolwer vào tháng 
 				10 năm 1950 ở Washington D.C. rằng, "ông tin tưởng vào quyền 
-				lực Vatican và ông chống Cộng cực lực"<a target="_blank" title="" style="color: blue; text-decoration: underline; text-underline: single" href="https://www.sachhiem.net/NMQ/HOSOTOIAC/CH63_1.php#_edn28%23_edn28">[28]</a>, 
+				lực Vatican và ông chống Cộng cực lực"<a target="_blank" title="" style="color: blue; text-decoration: underline; text-underline: single" href="/NMQ/HOSOTOIAC/CH63_1#_edn28%23_edn28">[28]</a>, 
 				ông được Vatican hết sức tin dùng. Cũng vì thế, ông mới được 
 				Vatican cho người dẫn dắt sang Mỹ giao cho Hồng Y Spellman lo 
 				lót và vận độngchính quyền Hoa Kỳ đưa ông về Việt Nam cầm quyền 
@@ -883,7 +882,7 @@ image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nha.jpg"
 				Ki-tô hóa Việt Nam theo tinh thần Sắc Chỉ <i>Romanus Pontifex</i>. 
 				Sắc chỉ này được ban hành vào ngày 8/1/1454 trong thời Giáo 
 				Hoàng Nicholas V (1447-1455) và nội dung của nó được Linh-mục 
-				nói rõ ràng ở trong cuốn <i>Thập Giá và Lưỡi Gươm.<a target="_blank" title="" style="color: blue; text-decoration: underline; text-underline: single" href="https://www.sachhiem.net/NMQ/HOSOTOIAC/CH63_1.php#_edn29%23_edn29">[29]</a>
+				nói rõ ràng ở trong cuốn <i>Thập Giá và Lưỡi Gươm.<a target="_blank" title="" style="color: blue; text-decoration: underline; text-underline: single" href="/NMQ/HOSOTOIAC/CH63_1#_edn29%23_edn29">[29]</a>
 				</i></p>
 				<p>Lúc đó, cuối năm 1950, chính quyền Hoa Kỳ 
 				còn đang bận rộn phải đối phó với cuộc chiến Triều tiên vừa bùng 
@@ -919,10 +918,10 @@ image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nha.jpg"
 				Mansfield, TNS John Kennedy, Newton (thuộc Ủy Ban Dịch Vụ Những 
 				Người Bạn Mỹ) Costello (thuộc công ty truyền thông CBS), Gullion 
 				(cựu Tổng Lãnh Sự Sàigòn) Gene Gregory (Bộ Ngoại Giao) và một 
-				người chưa rõ tên</i>."<a target="_blank" title="" style="color: blue; text-decoration: underline; text-underline: single" href="https://www.sachhiem.net/NMQ/HOSOTOIAC/CH63_1.php#_edn30%23_edn30">[30]</a>
+				người chưa rõ tên</i>."<a target="_blank" title="" style="color: blue; text-decoration: underline; text-underline: single" href="/NMQ/HOSOTOIAC/CH63_1#_edn30%23_edn30">[30]</a>
 				</p>
 				<p>"Ngày 30/5/1953: <i>Do lời mời của giáo dân 
-				Ki-tô Paris, Diệm rời New York trở lại Paris</i>."<a target="_blank" title="" style="color: blue; text-decoration: underline; text-underline: single" href="https://www.sachhiem.net/NMQ/HOSOTOIAC/CH63_1.php#_edn31%23_edn31">[31]</a>
+				Ki-tô Paris, Diệm rời New York trở lại Paris</i>."<a target="_blank" title="" style="color: blue; text-decoration: underline; text-underline: single" href="/NMQ/HOSOTOIAC/CH63_1#_edn31%23_edn31">[31]</a>
 				</p>
 				
 				<p>Do áp lực của Hoa Kỳ và của Đảng Da-tô là 
@@ -943,7 +942,7 @@ image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nha.jpg"
 				thứ hai của nhà vua, không cho họ lên cầm quyền</i>." Nguyên 
 				văn: "A third measure, the Act of Settlement of 1691, provided 
 				that no Roman Catholic could be ruler of England, automatically 
-				excluding the descendants of James II by his second wife<i>.</i>"<a target="_blank" title="" style="color: blue; text-decoration: underline; text-underline: single" href="https://www.sachhiem.net/NMQ/HOSOTOIAC/CH63_1.php#_edn32%23_edn32">[32]</a>
+				excluding the descendants of James II by his second wife<i>.</i>"<a target="_blank" title="" style="color: blue; text-decoration: underline; text-underline: single" href="/NMQ/HOSOTOIAC/CH63_1#_edn32%23_edn32">[32]</a>
 				</p>
 				
 				<p>Kể từ đó, không một người nào theo đạo 

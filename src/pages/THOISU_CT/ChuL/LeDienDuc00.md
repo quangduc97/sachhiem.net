@@ -3,7 +3,7 @@ layout: ../../../layouts/Article.astro
 title: "Cờ Đỏ Sao Vàng – Cờ Vàng Ba Que"
 author: "Lê Diễn Đức"
 date: 2012-01-14
-source: "https://sachhiem.net/THOISU_CT/ChuL/LeDienDuc00.php"
+source: "/THOISU_CT/ChuL/LeDienDuc00"
 category: "Chính trị"
 lang: vi
 wordCount: 1723

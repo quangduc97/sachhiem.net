@@ -3,7 +3,7 @@ layout: ../../layouts/Article.astro
 title: "Thánh Kinh Nói Thế Nào Về Tấm Khăn Liệm?"
 author: "https://www.bibleabookoftruth.com/"
 date: 2016-06-23
-source: "https://sachhiem.net/LTX/LyThaiSN02.php"
+source: "/LTX/LyThaiSN02"
 category: "Tác giả"
 lang: vi
 wordCount: 3376

@@ -3,7 +3,7 @@ layout: ../../../layouts/Article.astro
 title: "Giáo Hoàng Có Thực Sự Nói Chỉ Có 2% Hàng Giáo Sĩ Bị Bệnh Ấu Dâm?"
 author: "LAUREN RAAB / LA Times"
 date: 2014-07-19
-source: "https://sachhiem.net/TONGIAO/tgT/TinLATime.php"
+source: "/TONGIAO/tgT/TinLATime"
 category: "Chính trị"
 lang: vi
 wordCount: 1372

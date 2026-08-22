@@ -3,7 +3,7 @@ layout: ../../../layouts/Article.astro
 title: "Tu Sĩ Phật Giáo Hát Và Sáng Tác Thánh Ca Để Làm Gì?"
 author: "Minh Mẫn/ Thư Viện Hoa Sen"
 date: 2024-09-30
-source: "https://sachhiem.net/TONGIAO/ThichCQ/ThChanQuang04.php"
+source: "/TONGIAO/ThichCQ/ThChanQuang04"
 category: "Chính trị"
 lang: vi
 wordCount: 1947

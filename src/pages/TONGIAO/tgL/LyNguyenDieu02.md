@@ -3,7 +3,7 @@ layout: ../../../layouts/Article.astro
 title: "Một Khuynh Hướng Phi Dân Tộc"
 author: "Lý Nguyên Diệu"
 date: 2019-08-05
-source: "https://sachhiem.net/TONGIAO/tgL/LyNguyenDieu02.php"
+source: "/TONGIAO/tgL/LyNguyenDieu02"
 category: "Tác giả"
 lang: vi
 wordCount: 2560

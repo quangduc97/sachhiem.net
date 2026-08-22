@@ -3,7 +3,7 @@ layout: ../../../layouts/Article.astro
 title: "Lễ Phật Đản 8/ 5/ 63 Tại Huế"
 author: "Erich Wulff /Minh Nguyện dịch"
 date: 2013-05-29
-source: "https://sachhiem.net/LICHSU/E/Erichwulff04.php"
+source: "/LICHSU/E/Erichwulff04"
 category: "Tác giả"
 lang: vi
 wordCount: 2054
@@ -15,14 +15,14 @@ image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/TONGIAO/IMG/PHAPNAN/
  
  
 <hr width="300">
-<p> <a href="https://sachhiem.net/LICHSU/E/Erichwulff03.php"> &lt;-- trang trước</a>  ● </p>
-<p><a href="https://sachhiem.net/LICHSU/E/Erichwulff04.php">Trang 5 / 5</a></p>
+<p> <a href="/LICHSU/E/Erichwulff03"> &lt;-- trang trước</a>  ● </p>
+<p><a href="/LICHSU/E/Erichwulff04">Trang 5 / 5</a></p>
 <p class="Tuaduoi">Chuyến trở lại Việt Nam 1964 </p>
 <div class="danbai">
-<p>1- <a href="https://sachhiem.net/LICHSU/E/Erichwulff.php">Hồi ký của Bác sĩ E. Wulff về Pháp nạn 1963: bài một </a></p>
-<p>2-  <a href="https://sachhiem.net/LICHSU/E/Erichwulff.php">Hồi ký của Bác sĩ E. Wulff: bài hai - Đêm Phật Đản 8/5/1963</a></p>
-<p>3-   <a href="https://sachhiem.net/LICHSU/E/Erichwulff.php">Hồi ký của Bác sĩ E. Wulff: bài ba - Tuyệt Thực - tháng 5/1963</a></p>
-<p>4- <a href="https://sachhiem.net/LICHSU/E/Erichwulff.php">Hồi ký của Bác sĩ E. Wulff: bài bốn -  Tường trình tại Liên Hiệp Quốc  (9/196 3)</a></p>
+<p>1- <a href="/LICHSU/E/Erichwulff">Hồi ký của Bác sĩ E. Wulff về Pháp nạn 1963: bài một </a></p>
+<p>2-  <a href="/LICHSU/E/Erichwulff">Hồi ký của Bác sĩ E. Wulff: bài hai - Đêm Phật Đản 8/5/1963</a></p>
+<p>3-   <a href="/LICHSU/E/Erichwulff">Hồi ký của Bác sĩ E. Wulff: bài ba - Tuyệt Thực - tháng 5/1963</a></p>
+<p>4- <a href="/LICHSU/E/Erichwulff">Hồi ký của Bác sĩ E. Wulff: bài bốn -  Tường trình tại Liên Hiệp Quốc  (9/196 3)</a></p>
 <p>5-  <b>Hồi ký của Bác sĩ E. Wulff: bài chót -  Chuyến trở lại Việt Nam 1964</b> </p>
 
 </div>
@@ -40,7 +40,7 @@ image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/TONGIAO/IMG/PHAPNAN/
 <p class="TacgiaL"><strong><em>BS WULFF </em></strong> </p>
 <p><i>Minh Nguyện (dịch Việt, tháng 5/2004, bổ túc tháng 4/2013)</i></p>
 
-<p> <a href="https://sachhiem.net/LICHSU/E/Erichwulff02.php"> &lt;-- trang trước</a>  ● </p>
+<p> <a href="/LICHSU/E/Erichwulff02"> &lt;-- trang trước</a>  ● </p>
 <hr size="2" width="100%">
  <p> <b>Ghi chú của  người dịch:</b></p>
 <p>(1) Bác sĩ Wulff đã biên thư cho Thầy Minh Châu kèm theo lá thư của Thầy Trí Quang báo động về vụ đàn áp tại đài Phát Thanh Huế đêm 8/5/63. Xin xem bài thứ nhất phổ biến trên các trang nhà:</p>
@@ -56,4 +56,4 @@ image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/TONGIAO/IMG/PHAPNAN/
 <p class="nguonL">Nguồn: https://tuvienhuequang.com/chuyen-muc/lich-su/2748-hoi-ky-cua-bac-si-wulff-ve-phap-nan-1963.html?start=4</p>
 <hr>
 <p><b>Mời đọc thêm: </b></p>
-<p>- <a href="https://sachhiem.net/XAHOI/xhN/NgXnXanh.php">Gặp lại ân nhân của Việt Nam: bác sĩ Erich Wulff</a></p>
+<p>- <a href="/XAHOI/xhN/NgXnXanh">Gặp lại ân nhân của Việt Nam: bác sĩ Erich Wulff</a></p>

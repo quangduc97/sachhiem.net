@@ -3,7 +3,7 @@ layout: ../../../layouts/Article.astro
 title: "Iran: Sách Lược Thương Thuyết và Vấn Đề Do Thái"
 author: "Mike Wilson"
 date: 2015-04-12
-source: "https://sachhiem.net/LICHSU/M/MikeWilson.php"
+source: "/LICHSU/M/MikeWilson"
 category: "Chính trị"
 lang: vi
 wordCount: 748

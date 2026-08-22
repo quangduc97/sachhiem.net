@@ -1,7 +1,7 @@
 ---
 layout: ../../../layouts/Article.astro
 title: "Bảo tồn môi sinh (Nguyễn văn Tuấn)"
-source: "https://sachhiem.net/null"
+source: "/null"
 category: "Khoa học"
 lang: vi
 wordCount: 6628

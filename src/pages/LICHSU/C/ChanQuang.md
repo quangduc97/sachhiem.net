@@ -3,14 +3,14 @@ layout: ../../../layouts/Article.astro
 title: "Ca khúc Về đền Hùng"
 author: "St. Chân Quang"
 date: 2016-04-16
-source: "https://sachhiem.net/LICHSU/C/ChanQuang.php"
+source: "/LICHSU/C/ChanQuang"
 category: "Chính trị"
 lang: vi
 wordCount: 311
-image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nha.jpg"
+image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/LICHSU/IMG/VNchuS/VeDenHung.JPG"
 ---
 
-<p align="center"><a href="https://www.sachhiem.net/"> <img border="0" src="https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nha.jpg"></a> ngày 16-Apr-2016</p>
+<p align="center"> ngày 16-Apr-2016</p>
   <p align="center"><img src="https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/LICHSU/IMG/VNchuS/VeDenHung.JPG" width="350" height="293" alt=""></p>
   <p><b>LỜI 1: </b></p>
   <p>Về đền Hùng, để thấy non  sống bước ra từ nơi nghìn trùng <br>

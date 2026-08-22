@@ -1,15 +1,14 @@
 ---
 layout: ../../../layouts/Article.astro
 title: "Tại Sao Không Thể"
-source: "https://sachhiem.net/TCN/TCNdt/TCNdt058.php"
+source: "/TCN/TCNdt/TCNdt058"
 category: "Đối thoại"
 lang: vi
 wordCount: 10360
-image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.devhttps://sachhiem.net/images/nha.jpg"
 ---
 
 <table border="0" width="250" align="center">
-    <tbody><tr><td width="85"><a href="https://sachhiem.net/index.php"><img border="0" src="https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.devhttps://sachhiem.net/images/nha.jpg"></a>    </td> <td width="155"> <p>30 tháng 4, 2008 </p> </td></tr></tbody></table>	
+    <tbody><tr><td width="85">    </td> <td width="155"> <p>30 tháng 4, 2008 </p> </td></tr></tbody></table>	
  
  
 <p class="MUC"><b>Tại Sao Những Bậc Chăn Chiên Như</b></p>
@@ -195,7 +194,7 @@ các tôn giáo Đông Phương như Thích, Nho, Lão <b>vô thần</b>, ra đ�
 Giáo cả 5, 6 trăm năm nhưng không hề làm đổ một giọt máu trong lịch sử truyền 
 đạo của mình?? </p>
  
-<table border="0" width="45%" cellspacing="0" id="table1" align="left" cellpadding="15" bgcolor="#D5DFCA"> <tbody><tr> 	<td> 	<p><span class="First">N</span>hững bài viết khác về Ông Trời Việt Nam và Thượng Đế của Thiên Chúa  	Giáo:</p> 	 	<ul style="text-indent: 0; text-align: left; line-height: 100%; list-style-type: disc; margin: 0"> 	<li> 		<p style="text-align: left; text-indent: 0em; margin-top: 0; margin-bottom: 0"> 		<a href="https://www.sachhiem.net/CN_TTDTG/Ongtroi.php">Quan Niệm Về  		Ông Trời Của Việt Nam (Charlie Nguyễn)</a></p> 	</li></ul> 	<p>... Chúng ta cũng không hề thấy người Anh hoặc người Pháp gọi Thiên Chúa là Mr. God! Monsieur Dieu!.... Hơn thế nữa, người Việt Nam còn tỏ thái độ xem thường ông Trời qua cách gọi Trời là “Con Tạo” hoặc “Trẻ Tạo Hóa”, thậm chí còn gọi con cóc là cậu ông trời!</p> 	<p>- “Con cóc là cậu ông trời 
+<table border="0" width="45%" cellspacing="0" id="table1" align="left" cellpadding="15" bgcolor="#D5DFCA"> <tbody><tr> 	<td> 	<p><span class="First">N</span>hững bài viết khác về Ông Trời Việt Nam và Thượng Đế của Thiên Chúa  	Giáo:</p> 	 	<ul style="text-indent: 0; text-align: left; line-height: 100%; list-style-type: disc; margin: 0"> 	<li> 		<p style="text-align: left; text-indent: 0em; margin-top: 0; margin-bottom: 0"> 		<a href="/CN_TTDTG/Ongtroi">Quan Niệm Về  		Ông Trời Của Việt Nam (Charlie Nguyễn)</a></p> 	</li></ul> 	<p>... Chúng ta cũng không hề thấy người Anh hoặc người Pháp gọi Thiên Chúa là Mr. God! Monsieur Dieu!.... Hơn thế nữa, người Việt Nam còn tỏ thái độ xem thường ông Trời qua cách gọi Trời là “Con Tạo” hoặc “Trẻ Tạo Hóa”, thậm chí còn gọi con cóc là cậu ông trời!</p> 	<p>- “Con cóc là cậu ông trời 
 
 Hễ ai đánh nó thì trời đánh cho” (Ca dao) 
 
@@ -205,11 +204,11 @@ Hễ ai đánh nó thì trời đánh cho” (Ca dao)
 
 Nợ tang bồng quyết trả cho xong” (Nguyễn Công Trứ) 
 
-...<a href="https://www.sachhiem.net/CN_TTDTG/Ongtroi.php">&gt;&gt;&gt;</a>  
-</p> 	 	<ul style="text-indent: 0; text-align: left; line-height: 100%; list-style-type: disc; margin: 0"> 	<li> 		<p style="text-align: left; text-indent: 0em; margin-top: 0; margin-bottom: 0"> 		<a href="https://sachhiem.net/TONGIAO/tgT/ThienLoi.php">Có Jehovah trong  		Ca Dao Việt (Thiên Lôi))</a></p>		<p style="text-align: justify">... Không biết ai là người khởi  		xướng cái vụ “cách mạng tháng tám” này; nhưng có lẽ khởi đầu bởi một  		quái phẩm của ông cựu giáo sư Ca-tô gốc Phát Diệm Lê Hữu Mục với tập  		‘Truyện Kiều và Tuổi Trẻ’ xuất hiện khoảng 1998 với luận điệu ép cụ  		Nguyễn Du phải “rữa tội theo đạo Ca-tô” cho bằng được; tiếp theo có  		bố chăn chiên tên Trương đức Kỷ aka Cao phương Kỷ, có bằng tiến sĩ,  		không biết lọai gì, (nếu mà tiến sĩ thần học thì ăn đong) thuộc Dòng  		Đồng Công ở Carthage, bang Missouri, gốc Bùi Chu đã viết một cuốn  		sách có tựa là “Thiên Chúa Giáo và Tam Giáo” bàn về chữ trời trong  		đời sống dân gian Việt lẫn chữ trời trong truyện Kiều của văn hào  		Nguyễn Du...."  		<a href="https://sachhiem.net/TONGIAO/tgT/ThienLoi.php">&gt;&gt;&gt;  		</a>  
+...<a href="/CN_TTDTG/Ongtroi">&gt;&gt;&gt;</a>  
+</p> 	 	<ul style="text-indent: 0; text-align: left; line-height: 100%; list-style-type: disc; margin: 0"> 	<li> 		<p style="text-align: left; text-indent: 0em; margin-top: 0; margin-bottom: 0"> 		<a href="/TONGIAO/tgT/ThienLoi">Có Jehovah trong  		Ca Dao Việt (Thiên Lôi))</a></p>		<p style="text-align: justify">... Không biết ai là người khởi  		xướng cái vụ “cách mạng tháng tám” này; nhưng có lẽ khởi đầu bởi một  		quái phẩm của ông cựu giáo sư Ca-tô gốc Phát Diệm Lê Hữu Mục với tập  		‘Truyện Kiều và Tuổi Trẻ’ xuất hiện khoảng 1998 với luận điệu ép cụ  		Nguyễn Du phải “rữa tội theo đạo Ca-tô” cho bằng được; tiếp theo có  		bố chăn chiên tên Trương đức Kỷ aka Cao phương Kỷ, có bằng tiến sĩ,  		không biết lọai gì, (nếu mà tiến sĩ thần học thì ăn đong) thuộc Dòng  		Đồng Công ở Carthage, bang Missouri, gốc Bùi Chu đã viết một cuốn  		sách có tựa là “Thiên Chúa Giáo và Tam Giáo” bàn về chữ trời trong  		đời sống dân gian Việt lẫn chữ trời trong truyện Kiều của văn hào  		Nguyễn Du...."  		<a href="/TONGIAO/tgT/ThienLoi">&gt;&gt;&gt;  		</a>  
 
-</p> 		 	<ul style="text-indent: 0; text-align: left; line-height: 100%; list-style-type: disc; margin: 0"> 	<li> 		<p style="text-align: left; text-indent: 0em; margin-top: 0; margin-bottom: 0"> 		<a href="https://sachhiem.net/TONGIAO/SonDa.php">Nhân đọc “Ông Trời  		trong thi ca Việt-Nam" (Sơn Dã Bần Phu)</a></p> 	</li></ul> 	<p style="text-align: justify">... Có lần thầy Tử-Lộ hỏi Đức Khổng-Tử về Thượng-Đế, quỷ, thần, Ngài khuyên rằng chưa biết đạo thờ người, sao biết được đạo thờ quỷ thần “Vị năng sự nhân, yêu năng sự quỷ “.  Tuy nhiên đối với thánh thần, ma quỷ thì nên kính trọng, nhưng tránh xa, “Kính quỷ thần nhi viễn chi, khả vị trí hỷ".  Xin ghi chú thêm rằng có hai phái trong giới văn học cổ Trung-Quốc:  Một phái cho rằng Khổng-Tử tin có quỷ thần.  Một phái khác thì cho rằng Khổng-Tử không tin quỷ thần.  Vấn đề này nếu bàn xa thì dài lắm.
- ...<a href="https://sachhiem.net/TONGIAO/SonDa.php">&gt;&gt;&gt;  	</a> </p> 	 	</li></ul>
+</p> 		 	<ul style="text-indent: 0; text-align: left; line-height: 100%; list-style-type: disc; margin: 0"> 	<li> 		<p style="text-align: left; text-indent: 0em; margin-top: 0; margin-bottom: 0"> 		<a href="/TONGIAO/SonDa">Nhân đọc “Ông Trời  		trong thi ca Việt-Nam" (Sơn Dã Bần Phu)</a></p> 	</li></ul> 	<p style="text-align: justify">... Có lần thầy Tử-Lộ hỏi Đức Khổng-Tử về Thượng-Đế, quỷ, thần, Ngài khuyên rằng chưa biết đạo thờ người, sao biết được đạo thờ quỷ thần “Vị năng sự nhân, yêu năng sự quỷ “.  Tuy nhiên đối với thánh thần, ma quỷ thì nên kính trọng, nhưng tránh xa, “Kính quỷ thần nhi viễn chi, khả vị trí hỷ".  Xin ghi chú thêm rằng có hai phái trong giới văn học cổ Trung-Quốc:  Một phái cho rằng Khổng-Tử tin có quỷ thần.  Một phái khác thì cho rằng Khổng-Tử không tin quỷ thần.  Vấn đề này nếu bàn xa thì dài lắm.
+ ...<a href="/TONGIAO/SonDa">&gt;&gt;&gt;  	</a> </p> 	 	</li></ul>
  	 	</td> </tr>
 </tbody></table> 
  
@@ -334,10 +333,10 @@ là sự tin nhảm tin nhí vào những huyền thoại cổ xưa mà ngày na
 Ki Tô Giáo đã phải thú nhận. Để kiểm chứng, xin độc giả hãy đọc bài <i>“Huyền 
 Thoại Cứu Rỗi”</i> (The Salvation Myth) của Linh Mục James Kavanaugh trên trang 
 nhà sachhiem.net:
-<a style="color: blue; text-decoration: underline; text-underline: single" href="https://sachhiem.net/TCN/TCNtg/TCN36.php">https://sachhiem.net/TCN/TCNtg/TCN36.php</a>, 
+<a style="color: blue; text-decoration: underline; text-underline: single" href="/TCN/TCNtg/TCN36">https://sachhiem.net/TCN/TCNtg/TCN36.php</a>, 
 và bài <i>“Giê-su Như Là Đấng “Cứu Thế”: Một Hình Ảnh Cần Phải Dẹp Bỏ”</i> 
 (Jesus as Rescuer: An Image That Has To Go) của Giám mục John Shelby Spong:
-<a style="color: blue; text-decoration: underline; text-underline: single" href="https://sachhiem.net/TCN/TCNtg/TCN37.php">https://sachhiem.net/TCN/TCNtg/TCN37.php</a>. 
+<a style="color: blue; text-decoration: underline; text-underline: single" href="/TCN/TCNtg/TCN37">https://sachhiem.net/TCN/TCNtg/TCN37.php</a>. 
 Tại sao những bậc lãnh đạo trong Ki Tô Giáo như Linh mục James Kavanaugh và Giám 
 mục John Shelby Spong lại có thể viết lên những chủ đề như vậy. Và đây không 
 phải chỉ có hai người trên mà còn hàng trăm các tác giả khác ở trong Ki Tô Giáo 
@@ -885,7 +884,7 @@ Ca-Tô Nguyễn Phúc Lai v..v… Có một bài viết về “Quan Niệm Về
 Nam” tuyệt hảo, viết bởi một người Việt Ca-tô đạo gốc tỉnh ngộ: <b>Charlie 
 Nguyễn.</b> Tôi xin mời độc giả, và khuyên những người muốn đánh đồng quan niệm 
 về ông Trời của Việt Nam với Thiên Chúa của người Do Thái, hãy đọc bài 
-“<a href="https://www.sachhiem.net/CN_TTDTG/Ongtroi.php">Quan Niệm Về Ông Trời Của Việt Nam</a>”: <u>
+“<a href="/CN_TTDTG/Ongtroi">Quan Niệm Về Ông Trời Của Việt Nam</a>”: <u>
 <a style="color: blue; text-decoration: underline; text-underline: single" href="https://home.comcast.net/~charlieng/ong_troi_cua_vn.html">
 https://home.comcast.net/~charlieng/ong_troi_cua_vn.html</a></u> trong 
 trang nhà của Charlie Nguyễn: 

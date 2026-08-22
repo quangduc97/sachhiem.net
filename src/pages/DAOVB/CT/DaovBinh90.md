@@ -3,7 +3,7 @@ layout: ../../../layouts/Article.astro
 title: "Nhật Ký Biển Đông: Ai Sẽ Lãnh Đạo Thế Giới?"
 author: "Đào Văn Bình"
 date: 2017-07-01
-source: "https://sachhiem.net/DAOVB/CT/DaovBinh90.php"
+source: "/DAOVB/CT/DaovBinh90"
 category: "Chính trị"
 lang: vi
 wordCount: 4237

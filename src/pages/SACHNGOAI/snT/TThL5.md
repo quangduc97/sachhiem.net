@@ -3,7 +3,7 @@ layout: ../../../layouts/Article.astro
 title: "Phát Diệm: Chủ Nghĩa Dân Tộc, Tôn Giáo, Và"
 author: "Ronald H. Spector"
 date: 2013-12-30
-source: "https://sachhiem.net/SACHNGOAI/snT/TThL5.php"
+source: "/SACHNGOAI/snT/TThL5"
 category: "Chính trị"
 lang: vi
 wordCount: 7978

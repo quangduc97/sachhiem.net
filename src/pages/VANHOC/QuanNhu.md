@@ -3,7 +3,7 @@ layout: ../../layouts/Article.astro
 title: "Nhất Hạnh và Thập Niên Khai Sáng"
 author: "Quán Như"
 date: 2014-11-25
-source: "https://sachhiem.net/VANHOC/QuanNhu.php"
+source: "/VANHOC/QuanNhu"
 category: "Chính trị"
 lang: vi
 wordCount: 5584

@@ -3,7 +3,7 @@ layout: ../../../layouts/Article.astro
 title: "Những Ngộ Nhận Về Ông Trương Vĩnh Ký"
 author: "Hồng Điểu"
 date: 2015-05-31
-source: "https://sachhiem.net/LICHSU/P/PhanvHoang_02.php"
+source: "/LICHSU/P/PhanvHoang_02"
 category: "Lịch sử"
 lang: vi
 wordCount: 5377

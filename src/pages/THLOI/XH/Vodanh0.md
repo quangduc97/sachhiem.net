@@ -3,7 +3,7 @@ layout: ../../../layouts/Article.astro
 title: "Ăn chay ‘làm giảm hơn 1/3 nguy cơ tim’"
 author: "James Gallagher phóng viên về sức khỏe và khoa học của BBC News"
 date: 2013-02-04
-source: "https://sachhiem.net/THLOI/XH/Vodanh0.php"
+source: "/THLOI/XH/Vodanh0"
 category: "Xã hội"
 lang: vi
 wordCount: 542

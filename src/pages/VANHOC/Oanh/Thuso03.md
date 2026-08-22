@@ -6,7 +6,7 @@ source: "https://diendan.giacngo.vn/forums/thread/4581.aspx"
 category: "Văn hóa"
 lang: vi
 wordCount: 367
-image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nha.jpg"
+image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/print.gif"
 ---
 
 <div align="center" style="position: relative; left: 0; top: 0">
@@ -26,8 +26,7 @@ image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nha.jpg"
 	
 <table border="0" cellpadding="0" width="600" align="center"><tbody><tr>
 <td width="120">
-				<a target="_top" href="/XAHOI/index">
-<img border="0" src="https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nha.jpg"></a></td>
+				</td>
 				<td width="120">
 				<a target="_top" href="/VANHOC/Thuso03">
 				<img border="0" src="https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/print.gif" width="18" height="18"> 

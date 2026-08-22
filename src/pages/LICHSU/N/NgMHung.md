@@ -3,7 +3,7 @@ layout: ../../../layouts/Article.astro
 title: "Những Điểm Sai Của Tác Giả Liên Thành Khi Viết Về Biến Động Miền Trung"
 author: "Nguyễn Mộng Hùng"
 date: 2014-08-05
-source: "https://sachhiem.net/LICHSU/N/NgMHung.php"
+source: "/LICHSU/N/NgMHung"
 category: "Chính trị"
 lang: vi
 wordCount: 1393

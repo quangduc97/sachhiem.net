@@ -3,7 +3,7 @@ layout: ../../../layouts/Article.astro
 title: "Úc Đề Nghị Các Nhà Thờ Ca-tô Rô-ma Giáo"
 author: "Newsweek.com"
 date: 2019-10-18
-source: "https://sachhiem.net/TONGIAO/tgT/TinNewsWeek01.php"
+source: "/TONGIAO/tgT/TinNewsWeek01"
 category: "Chính trị"
 lang: vi
 wordCount: 476

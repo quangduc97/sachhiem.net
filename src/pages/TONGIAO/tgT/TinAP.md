@@ -2,11 +2,11 @@
 layout: ../../../layouts/Article.astro
 title: "Ái Nhĩ Lan Gồng Mình Đón Nhận"
 author: "Shawn Pogatchnik / AP"
-source: "https://sachhiem.net/null"
+source: "/null"
 category: "Tác giả"
 lang: vi
 wordCount: 2603
-image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nha.jpg"
+image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/IMG/TINHDUC/Irelandchurchchildabuse.jpg"
 ---
 
 <div align="center" style="position: relative; left: 0; top: 0">
@@ -32,7 +32,7 @@ image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nha.jpg"
 	<tbody><tr><td bgcolor="White" align="justify" valign="top">
 	<div style="padding-left: 50px; padding-right: 50px">
 <table border="0" cellpadding="10" cols="2" width="653"><tbody><tr>
-<td><a href="/index"><img border="0" src="https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nha.jpg"></a></td>
+<td></td>
 
 	<td valign="top">&nbsp;</td>
 	<td valign="top" style="text-align:right">	<i>21 tháng 5, 2009

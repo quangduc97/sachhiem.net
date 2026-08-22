@@ -3,7 +3,7 @@ layout: ../../../layouts/Article.astro
 title: "CUỘC TỰ THIÊU VÌ HOÀ BÌNH CỦA ĐẠI ĐỨC THÍCH VIÊN ĐẠO NGÀY 17-10-1973"
 author: "GS Lê Cung"
 date: 2021-07-06
-source: "https://sachhiem.net/LICHSU/L/LeCung13.php"
+source: "/LICHSU/L/LeCung13"
 category: "Chính trị"
 lang: vi
 wordCount: 1848

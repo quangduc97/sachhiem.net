@@ -3,7 +3,7 @@ layout: ../../../layouts/Article.astro
 title: "Đóng Cửa Formosa, Dễ Không?"
 author: "Phạm Phú Yên"
 date: 2016-10-08
-source: "https://sachhiem.net/THOISU_CT/ChuP/PhamPhuYen.php"
+source: "/THOISU_CT/ChuP/PhamPhuYen"
 category: "Chính trị"
 lang: vi
 wordCount: 1366

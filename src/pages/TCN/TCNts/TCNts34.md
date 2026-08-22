@@ -2,14 +2,13 @@
 layout: ../../../layouts/Article.astro
 title: "VÀI Ý KIẾN VỀ VẤN ĐỀ"
 author: "Trần Chung Ngọc"
-source: "https://sachhiem.net/TCN/TCNts/TCNts34.php"
+source: "/TCN/TCNts/TCNts34"
 category: "Chính trị"
 lang: vi
 wordCount: 16175
-image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nha.jpg"
 ---
 
-<p align="center"><a href="https://www.sachhiem.net/"> <img border="0" src="https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nha.jpg"></a> 15 tháng 2,  2009</p>
+<p align="center"> 15 tháng 2,  2009</p>
             <p> <span class="First">M</span>ột phái đoàn của Vatican sẽ đến Việt Nam ngày 16 tháng 2, 2009, để thương thuyết thiết lập liên hệ ngoại giao với Việt Nam, điều mà Vatican đã mong muốn từ lâu. Vatican biết rõ tín đồ Công giáo Việt Nam thuộc loại cuồng tín nhất trên thế giới, và tuyệt đối trung thành với Vatican Vatican nhất, nên muốn được chính thức quản trị và điều động hợp pháp số giáo dân này. Công giáo ở hải ngoại chống Cộng năng nổ nhất, với nhiều thủ đoạn xuyên tạc hạ cấp nhất. Còn Công giáo trong nước bất chấp luật pháp quốc gia: linh mục có những hành động côn đồ trong Tòa (Nguyễn Văn Lý), và giáo dân do sự điều động của TGM Ngô Quang Kiệt, trường kỳ cầu nguyện nơi không phải để cầu nguyện, làm xáo trộn đời sống xã hội trong thủ đô, để đòi lại vài mảnh đất ăn cướp được của Phật Giáo khi xưa. Đó là vài điều Việt Nam không nên quên.</p>
           <p> Việt Nam cũng không nên quên là gần đây, để khích động sự cuồng tín của tín đồ và tái tạo sách lược chống Cộng của Giáo hội Công giáo trong thế kỷ trước, giáo hoàng Benedict XVI<b> </b>đã mạnh mẽ lên tiếng lên án chủ thuyết quốc xã cũng như chủ thuyết Cộng sản vô thần. [Xin đọc bản tin của VietCatholic ngày 19/5/2005: <i>“Linh Mục Đặng Thế Dũng: Đức Giáo Hoàng Benedictô XVI mạnh mẽ kết án chủ thuyết quốc xã và chủ thuyết cộng sản vô thần.”]</i> Và trong đại hội giới trẻ Công Giáo ở Sydney năm ngoái, Giáo hoàng Benedict XVI đã chính thức tiếp nhận chiếc khăn quàng cờ vàng ba sọc đỏ, một biểu tượng của Công giáo chống đối một sống một còn với chính quyền Việt Nam, và quàng nó lên cổ. </p>
           <p> Những người đã từng nghiên cứu lịch sử Công giáo đều biết rõ rằng Công giáo đã từng liên kết chặt chẽ với phát xít Đức và Ý. [Xin đọc John Cornwell: <i><u>Hitler’s Pope: The Secret History of Pius XII</u></i>, 1999] Những tài liệu và hình ảnh về vấn đề này đã có đầy trong các thư viện và trên Internet [<a href="https://www.nobeliefs.com/nazis.htm">https://www.nobeliefs.com/nazis.htm</a>]</p>
@@ -170,11 +169,11 @@ image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nha.jpg"
           </li><li><a href="/THOISU_CT/AUDIO/VNNNcn_2">VietNam NgayNayRadio: "Việt Nam Có Nên Bang Giao Với Vatican Hay Không </a>?" </li>
           <p>________________ </p>
           <p><b>Cùng đề tài:</b></p>
-          <p>- Nhận Định Về Văn Kiện “Tông Huấn Giáo Hội Tại Châu Á” (Ngô triệu Lịch)<a href="https://sachhiem.net/TONGIAO/tgN/NgoTrieuLich.php">https://sachhiem.net/TONGIAO/tgN/NgoTrieuLich.php</a></p>
+          <p>- Nhận Định Về Văn Kiện “Tông Huấn Giáo Hội Tại Châu Á” (Ngô triệu Lịch)<a href="/TONGIAO/tgN/NgoTrieuLich">https://sachhiem.net/TONGIAO/tgN/NgoTrieuLich.php</a></p>
           <p>- Vài Ý Kiến Về Vấn Đề Bang Giao Với Vatican (Trần Chung Ngọc)<br>
-            <a href="https://sachhiem.net/TCN/TCNts/TCNts34.php">https://sachhiem.net/TCN/TCNts/TCNts34.php</a></p>
+            <a href="/TCN/TCNts/TCNts34">https://sachhiem.net/TCN/TCNts/TCNts34.php</a></p>
           <p>- Từ Tông Huấn Á Châu Của Giáo Hoàng Gioan Phaolồ II Đến Hịch Xuất Quân Của Vua Quang Trung (Trí Tánh ĐHT)<br>
             <a href="/TONGIAO/tgTR/TriTanhDHT02">https://sachhiem.net/TONGIAO/tgTR/TriTanhDHT02.php</a> </p>
                       <p>- Tâm Thư Gửi Nhà Nước Việt Nam (Nguyễn Mạnh Quang)<br>
-            <a href="https://sachhiem.net/NMQ/TAMTHU/NMQtt_Main.php">https://sachhiem.net/NMQ/TAMTHU/NMQtt_Main.php</a> 
+            <a href="/NMQ/TAMTHU/NMQtt_Main">https://sachhiem.net/NMQ/TAMTHU/NMQtt_Main.php</a> 
  </p>

@@ -2,17 +2,17 @@
 layout: ../../../layouts/Article.astro
 title: "Tâm Thư Gửi Nhà Nước Việt Nam"
 author: "Nguyễn Mạnh Quang"
-source: "https://sachhiem.net/NMQ/TAMTHU/NMQtt_13a.php"
+source: "/NMQ/TAMTHU/NMQtt_13a"
 lang: vi
 wordCount: 8096
-image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nha.jpg"
+image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/print.gif"
 ---
 
-<p align="center"><a href="https://www.sachhiem.net/"> <img border="0" src="https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nha.jpg"></a> | 
-<a target="_blank" href="https://sachhiem.net/NMQ/TAMTHU/NMQtt_13a.php">
+<p align="center"> | 
+<a target="_blank" href="/NMQ/TAMTHU/NMQtt_13a">
 <img border="0" src="https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/print.gif" width="18" height="18"> 
   bản in</a> | 
-	<a target="_blank" href="https://sachhiem.net/NMQ/TAMTHU/NMQtt_Main.php"><b><font face="Symbol" size="5"> ¿ </font></b> trở ra mục lục</a>
+	<a target="_blank" href="/NMQ/TAMTHU/NMQtt_Main"><b><font face="Symbol" size="5"> ¿ </font></b> trở ra mục lục</a>
  |  31 tháng 12, 2009 </p>
 <p class="CHUONG">PHẦN III</p>
 <center>◎◎◎</center>
@@ -21,10 +21,10 @@ image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nha.jpg"
 <p class="MUC">NHỮNG VIỆC LÀM "SÁNG DANH CHÚA" CỦA GIÁO HỘI </p>
 <p> (tiếp theo)</p>
 <div style="border-top: 1px solid #949494; border-bottom: 1px solid #949494; padding-top: 8px; padding-bottom: 8px; background-color: #F1F1F3">
-	Các bài trong chương 13:<p><a target="_blank" href="https://sachhiem.net/NMQ/TAMTHU/NMQtt_13.php">I.- Bản Tuyên Cáo "Dictatus papae" thời Giáo Hoàng Gregory VII</a>
+	Các bài trong chương 13:<p><a target="_blank" href="/NMQ/TAMTHU/NMQtt_13">I.- Bản Tuyên Cáo "Dictatus papae" thời Giáo Hoàng Gregory VII</a>
 	</p>
-	<p><a target="_blank" href="https://sachhiem.net/NMQ/TAMTHU/NMQtt_13a.php">II.- Sự Giàu Có Của Vatican- Phóng Tay Cướp Đoạt Tài Sản Dân Chúng </a></p>
-	<p><a target="_blank" href="https://sachhiem.net/NMQ/TAMTHU/NMQtt_13b.php">III.- Những Hành Động Bạo Ngược và Dã Man Của Nhà Thờ Vatican Và Tín Đồ Ca-Tô 
+	<p><a target="_blank" href="/NMQ/TAMTHU/NMQtt_13a">II.- Sự Giàu Có Của Vatican- Phóng Tay Cướp Đoạt Tài Sản Dân Chúng </a></p>
+	<p><a target="_blank" href="/NMQ/TAMTHU/NMQtt_13b">III.- Những Hành Động Bạo Ngược và Dã Man Của Nhà Thờ Vatican Và Tín Đồ Ca-Tô 
 	</a></p></div>
 <p align="center" class="center">
 <img border="0" src="https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/TONGIAO/IMG/VATICAN/Roma.jpg" width="252" height="189"></p>
@@ -612,12 +612,12 @@ khoảng 370 ngàn (370,000) mẫu không hề bị đụng (rớ) tới." </i> 
 
 <p>___________________ </p>
 <p><b>Mời đọc thêm:</b></p>
-<p>- <a href="https://sachhiem.net/CHARLIE/CN_CGTBVT/CN_CGTBVT_6.php">Cách Làm Tiền  của Vatican (Charlie Nguyễn)</a></p>
-<p>- <a href="https://sachhiem.net/NMQ/TAMTHU/NMQtt_13a.php">TT: Sự Giàu Có Của Vatican- Phóng Tay Cướp Đoạt Tài Sản Dân Chúng (Nguyễn Mạnh Quang)</a></p>
-<p>- <a href="https://sachhiem.net/SACHNGOAI/SH/SH0_Vatican_giau.php">Giáo Hội Thiên Chúa Giáo Giàu Tới Mức Nào? Khó Ai Biết (Emily Stewart/ thestreet.com)</a></p>
-<p><a href="https://sachhiem.net/LICHSU/P/PhuongHoang00.php">- Những Chuyện Kể Của Phượng Hoàng GV - Tập 1: Vatican Làm Sao Giàu Có ?</a></p>
-<p>- <a href="https://sachhiem.net/SACHNGOAI/SH/SH0_Vatican_giau.php">Giáo Hội Thiên Chúa Giáo Giàu Tới Mức Nào? Khó Ai Biết Được </a></p>
-<p>- <a href="https://sachhiem.net/SACHNGOAI/PThanhTam04.php">Cách Làm Tiền Của Vatican</a></p>
+<p>- <a href="/CHARLIE/CN_CGTBVT/CN_CGTBVT_6">Cách Làm Tiền  của Vatican (Charlie Nguyễn)</a></p>
+<p>- <a href="/NMQ/TAMTHU/NMQtt_13a">TT: Sự Giàu Có Của Vatican- Phóng Tay Cướp Đoạt Tài Sản Dân Chúng (Nguyễn Mạnh Quang)</a></p>
+<p>- <a href="/SACHNGOAI/SH/SH0_Vatican_giau">Giáo Hội Thiên Chúa Giáo Giàu Tới Mức Nào? Khó Ai Biết (Emily Stewart/ thestreet.com)</a></p>
+<p><a href="/LICHSU/P/PhuongHoang00">- Những Chuyện Kể Của Phượng Hoàng GV - Tập 1: Vatican Làm Sao Giàu Có ?</a></p>
+<p>- <a href="/SACHNGOAI/SH/SH0_Vatican_giau">Giáo Hội Thiên Chúa Giáo Giàu Tới Mức Nào? Khó Ai Biết Được </a></p>
+<p>- <a href="/SACHNGOAI/PThanhTam04">Cách Làm Tiền Của Vatican</a></p>
 <div align="center"><div class="fb-share-button" data-layout="button" data-size="large" data-actiob="like" data-show-faces="true" data-share="true" data-mobile-iframe="true"></div>
 </div>
 <p class="TuaDenLeft">CHÚ THÍCH </p>
@@ -684,7 +684,7 @@ forces.”</p>
 		<i>Living World History</i> (Glenview, Illinois: Scott , Foresman and 
 		Company, 1974), p. 148.</p><p><a name="_edn6" title="" href="/NMQ/#_ednref6">[vi]</a>
 		Nguồn: 
-		<a href="https://www.sachhiem.net/TCNtg/TCN74.php">https://www.sachhiem.net/TCNtg/TCN74.php</a></p><p>
+		<a href="/TCNtg/TCN74">https://www.sachhiem.net/TCNtg/TCN74.php</a></p><p>
 <a name="_edn7" title="" href="/NMQ/#_ednref7">[vii]</a>
 		Nhiều tác<i> </i>giả,<i> Đối Thoại Với 
 		Giáo Hoàng Gioan Phao Lồ II</i> (Garden Grove, CA: Giao Điểm, 1995), tr 

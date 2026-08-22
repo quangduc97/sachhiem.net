@@ -3,7 +3,7 @@ layout: ../../layouts/Article.astro
 title: "Tồn Tại Thực Tế Bế Tắc Lý Luận Dân Chủ"
 author: "Trần Khách Quan"
 date: 2014-11-20
-source: "https://sachhiem.net/DOITHOAI/TranKhachQuan_01a.php"
+source: "/DOITHOAI/TranKhachQuan_01a"
 category: "Chính trị"
 lang: vi
 wordCount: 1556
@@ -13,8 +13,8 @@ image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/XAHOI/IMG/DONGDAT/Ha
 <div class="tomluoc">
     <p><i>LTS: Có câu chuyện vui về một người dốt nát nhưng muốn được người khác xem  là trí thức, bèn quan sát một người "trí thức" mà y ngưỡng mộ để bắt chước cho giống. Anh ta mua cặp kính đeo lên mắt, anh ta đóng bộ com lê, mang cà vạt,... Anh cũng gạt gẫm được một số dốt nát hơn anh ta, nhưng đã làm cho nhiều người khác phải buồn cười. Trường hợp không khác lắm  nếu muốn Việt Nam mặc áo "tự do dân chủ nhân quyền" của Mỹ bán, và cho rằng Việt Nam sẽ ... giàu mạnh như Mỹ, hay đói cạp đất như Haiti miễn được "tự do dân chủ nhân quyền"! </i></p>
     <p align="center"><img src="https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/XAHOI/IMG/DONGDAT/Haiti_banhdat.jpg" width="292" height="175"></p>
-    <p align="center">Bánh đất ở Haiti, xem bài <a href="https://sachhiem.net/NMQ/NMQ028.php">"HAITI Tại Sao Khốn Cùng?" </a></p>
-    <p><i>Lá thư sau đây của tác giả Trần Khách Quan tiếp theo câu trả lời của ông Mai Thanh Truyết (xem dưới) đối với bài của Trần Khách Quan <a href="https://sachhiem.net/THOISU_CT/ChuTr/TranKhachQuan_01.php">Nói Về “Lối Thoát Cho VN” Với Ts Mai Thanh Truyết</a> đã đăng trước (SH)</i></p>
+    <p align="center">Bánh đất ở Haiti, xem bài <a href="/NMQ/NMQ028">"HAITI Tại Sao Khốn Cùng?" </a></p>
+    <p><i>Lá thư sau đây của tác giả Trần Khách Quan tiếp theo câu trả lời của ông Mai Thanh Truyết (xem dưới) đối với bài của Trần Khách Quan <a href="/THOISU_CT/ChuTr/TranKhachQuan_01">Nói Về “Lối Thoát Cho VN” Với Ts Mai Thanh Truyết</a> đã đăng trước (SH)</i></p>
    </div>
    <p>From: "Khach-Quan Tran <a href="mailto:khachquan_tran@yahoo.com">khachquan_tran@yahoo.com</a> <br>
      Sent: Monday, December 1, 2014 9:17 AM<br>
@@ -67,8 +67,8 @@ Khách Quan. </p>
 <b>**</b><i>Cho kỳ sau &amp; sẽ giải quyết vấn đề của Thomas Jefferson :  "Mỗi thế hệ mới cần cuộc cách mạng mới<b>" </b>(Every Generation needs a New Revolution) </i></p>
 <p>____________ </p>
 <p><b>Bài đọc thêm:</b></p>
-   <p>- <a href="https://sachhiem.net/THOISU_CT/ChuTr/TranKhachQuan_01.php"><i>Nói Về “Lối Thoát Cho VN” Với Ts Mai Thanh Truyết</i></a> (Trần Khách Quan) </p>
-   <p>- <a href="https://sachhiem.net/index.php?content=showrecipe&amp;id=6002"><i>Vài Ý Kiến Về Lá Thư Của Ông Mai Thanh Truyết Trên Diễn Đàn Thư Tín</i></a> (Nguyễn Mạnh Quang)</p>
+   <p>- <a href="/THOISU_CT/ChuTr/TranKhachQuan_01"><i>Nói Về “Lối Thoát Cho VN” Với Ts Mai Thanh Truyết</i></a> (Trần Khách Quan) </p>
+   <p>- <a href="/NMQ/NMQ48"><i>Vài Ý Kiến Về Lá Thư Của Ông Mai Thanh Truyết Trên Diễn Đàn Thư Tín</i></a> (Nguyễn Mạnh Quang)</p>
     <hr>
    <p>----- Forwarded Message  -----</p>
 <p>

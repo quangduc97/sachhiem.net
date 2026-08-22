@@ -3,7 +3,7 @@ layout: ../../layouts/Article.astro
 title: "Giê-su Bị Đóng Đinh Vì Các Tông Đồ Mang Khí Giới"
 author: "By Douglas Main"
 date: 2014-09-20
-source: "https://sachhiem.net/TTL/TranTL56.php"
+source: "/TTL/TranTL56"
 category: "Lịch sử"
 lang: vi
 wordCount: 1458
@@ -67,6 +67,6 @@ image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/TONGIAO/IMG/METIN/Ca
 
 <p class="nguonL">Nguồn: <a href="https://www.newsweek.com/jesus-was-crucified-because-disciples-were-armed-bible-analysis-suggests-271436" target="_blank">https://www.newsweek.com/jesus-was-crucified-because-disciples-were-armed-bible-analysis-suggests-271436</a></p>
 <hr>
-<p><a href="https://sachhiem.net/TTL/List.inc.php">Các bài của Trần Tiên Long » </a></p>
+<p><a href="/TTL/List.inc">Các bài của Trần Tiên Long » </a></p>
 
 <hr>

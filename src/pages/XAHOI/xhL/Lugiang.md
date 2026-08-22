@@ -3,7 +3,7 @@ layout: ../../../layouts/Article.astro
 title: "Vì bản chất dân tộc Việt?"
 author: "Lữ Giang"
 date: 2012-01-29
-source: "https://sachhiem.net/XAHOI/xhL/Lugiang.php"
+source: "/XAHOI/xhL/Lugiang"
 category: "Xã hội"
 lang: vi
 wordCount: 3364
@@ -343,4 +343,4 @@ wordCount: 3364
 		  Ngày 24.1.2012 </p>
 		<b class="TacgiaL">Lữ Giang</b>
 		
-        <p><a href="https://sachhiem.net/XAHOI/xhL/Lugiangphanhoi.php">&lt;--- Mời xem các phản hồi ---&gt;</a></p>
+        <p><a href="/XAHOI/xhL/Lugiangphanhoi">&lt;--- Mời xem các phản hồi ---&gt;</a></p>

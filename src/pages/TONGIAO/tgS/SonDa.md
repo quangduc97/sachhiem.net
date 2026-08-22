@@ -2,15 +2,14 @@
 layout: ../../../layouts/Article.astro
 title: "Nhân đọc “Ông Trời trong thi ca Việt-Nam\""
 author: "Sơn Dã Bần Phu"
-source: "https://sachhiem.net/TONGIAO/tgS/SonDa.php"
+source: "/TONGIAO/tgS/SonDa"
 category: "Tác giả"
 lang: vi
 wordCount: 5231
-image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nha.jpg"
 ---
 
 <table border="0" width="250" align="center"><tbody><tr>
-<td><a href="https://sachhem.net/"><img border="0" src="https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nha.jpg"></a></td>	
+<td></td>	
 	<td valign="top" style="text-align:right">31 tháng 3, 2008
 	</td></tr></tbody></table>
 
@@ -424,9 +423,9 @@ giàn hỏa!&nbsp;</p>
 
 	 <hr width="40%" align="left"><p>Các đề tài về Ông Trời trong sachhiem.net:</p>
 <p>- <a href="/TCN/TCNtg/TCN89">"Ông Trời" Không Quen Biết "Thượng Đế"! (Trần Chung Ngọc)</a></p>
-	<p>- <a href="https://www.sachhiem.net/TONGIAO/tgT/ThienLoi.php">Có 
+	<p>- <a href="/TONGIAO/tgT/ThienLoi">Có 
 			Jehovah trong Ca dao Việt ? !! (Thiên Lôi)</a></p>
-	<p>-<a href="https://www.sachhiem.net/TONGIAO/tgTH/ThienLoi.php"> Nhân Chuyện Khám Phá Có Jehovah Trong Ca Dao Việt của Thiên Lôi</a></p>
+	<p>-<a href="/TONGIAO/tgTH/ThienLoi"> Nhân Chuyện Khám Phá Có Jehovah Trong Ca Dao Việt của Thiên Lôi</a></p>
 	<p><a href="/TONGIAO/tgS/SonDa">- Nhân đọc “Ông Trời trong thi ca Việt-Nam" (Sơn Dã Bần Phu)</a></p>
 	<p><a href="/TONGIAO/tgM/MinhThanh04">- “Lập lờ đánh lận”… ông trời! (Minh Thạnh)</a></p>
 

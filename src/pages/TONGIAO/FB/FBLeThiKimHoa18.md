@@ -2,15 +2,14 @@
 layout: ../../../layouts/Article.astro
 title: "Tuổi Trái Đất, Sửa Kinh - Một Trong Nhiều Lý Do Giáo Hội Ki-Tô La Mã Lúc Nào Cũng Bận Điên Đầu."
 author: "Lê thị Kim Hoa"
-source: "https://sachhiem.net/TONGIAO/FB/FBLeThiKimHoa18.php"
+source: "/TONGIAO/FB/FBLeThiKimHoa18"
 category: "Tác giả"
 lang: vi
 wordCount: 4557
-image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nha.jpg"
+image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/DOITHOAI/IMG/TuoiTraiDat0.jpg"
 ---
 
-<p align="center"><a href="http://www.sachhiem.net/">
-<img border="0" src="https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nha.jpg"></a> 
+<p align="center"> 
 15 Aug 2026</p>
  <div class="tomluoc">
    <p><i>Từ “năm thứ 5.199 kể từ khi tạo dựng thế giới… giêsu kitô giáng sinh trong thời đại thứ sáu” trong bản kinh phụng vụ Latin năm 1584, vì sao giáo hội công giáo lại sửa thành “trải qua muôn thế hệ”? </i></p>

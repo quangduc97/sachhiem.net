@@ -3,7 +3,7 @@ layout: ../../../layouts/Article.astro
 title: "Hải Chiến Hoàng Sa -"
 author: "Lê Văn Thự"
 date: 2014-02-07
-source: "https://sachhiem.net/LICHSU/L/LevanThu01.php"
+source: "/LICHSU/L/LevanThu01"
 category: "Tác giả"
 lang: vi
 wordCount: 5539
@@ -14,7 +14,7 @@ image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/LICHSU/IMG/TRANDANH/
 		
 	 
  
-    <p><i> LTS:  Chuyện dài hải chiến ở Hoàng Sa năm 1974 có vẻ như càng ngày càng mở ra nhiều mê lộ. Nhưng ít nhất nó chứng minh được rằng các vị chỉ huy của VNCH không hề nắm vững tình thế, rằng quân đội miền Nam không làm chủ được chính mình.  Những lời nói thật, <a href="https://sachhiem.net/LICHSU/L/LevanThu.php">như bài thứ nhất của cựu hạm trưởng tàu HQ-16 Lê văn Thự </a> đã lật tẩy những người đã tìm cách tự tạo hào quang cho mình mấy chục năm qua. Và đương nhiên, lý lẽ của sự thật lúc nào cũng vững chắc hơn những lý luận để bảo vệ cho cái gì khác hơn sự thật.  Bài thứ hai của cựu Trung Tá Lê Văn Thự được chép sau đây là bài trả lời dứt điểm các phản hồi đó.  Nói theo tựa đề của trang doi-mat.vn, "Thuyền trưởng HQ16 bẻ gãy các lời chỉ trích của đồng đội." Khi đăng bài này, trang mạng Hoangsa.org cũng nhận định: Sau khi có nhiều ý kiến phản đối, ông Lê Văn Thự đã đăng tiếp bài viết thứ 2 (SH: 1/6/04) cũng trên Calitoday để đưa ra lập luận phản bác. Sau khi bài thứ 2 này được đăng, cho đến nay mặc dù đã qua thời gian khá lâu (SH: từ 1/6/04 đến 1-12-2007), những người trong cuộc vẫn chưa thêm ý kiến nào khả dĩ để bác bỏ được những gì ông Thự đã viết trước đó. (SH)</i></p><hr>
+    <p><i> LTS:  Chuyện dài hải chiến ở Hoàng Sa năm 1974 có vẻ như càng ngày càng mở ra nhiều mê lộ. Nhưng ít nhất nó chứng minh được rằng các vị chỉ huy của VNCH không hề nắm vững tình thế, rằng quân đội miền Nam không làm chủ được chính mình.  Những lời nói thật, <a href="/LICHSU/L/LevanThu">như bài thứ nhất của cựu hạm trưởng tàu HQ-16 Lê văn Thự </a> đã lật tẩy những người đã tìm cách tự tạo hào quang cho mình mấy chục năm qua. Và đương nhiên, lý lẽ của sự thật lúc nào cũng vững chắc hơn những lý luận để bảo vệ cho cái gì khác hơn sự thật.  Bài thứ hai của cựu Trung Tá Lê Văn Thự được chép sau đây là bài trả lời dứt điểm các phản hồi đó.  Nói theo tựa đề của trang doi-mat.vn, "Thuyền trưởng HQ16 bẻ gãy các lời chỉ trích của đồng đội." Khi đăng bài này, trang mạng Hoangsa.org cũng nhận định: Sau khi có nhiều ý kiến phản đối, ông Lê Văn Thự đã đăng tiếp bài viết thứ 2 (SH: 1/6/04) cũng trên Calitoday để đưa ra lập luận phản bác. Sau khi bài thứ 2 này được đăng, cho đến nay mặc dù đã qua thời gian khá lâu (SH: từ 1/6/04 đến 1-12-2007), những người trong cuộc vẫn chưa thêm ý kiến nào khả dĩ để bác bỏ được những gì ông Thự đã viết trước đó. (SH)</i></p><hr>
     <p align="center"><img src="https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/LICHSU/IMG/TRANDANH/HQ16-side.jpg" width="350" height="269"></p>
  <p align="center">HQ-16 được đón tiếp tại Sài Gòn </p>
     <p><i><u>Lời tòa soạn</u></i><i>: Trong thời gian qua, <b>calitoday.com</b> có đăng bài "Sự thật về  trận hải chiến Hoàng Sa" của ông Lê văn Thự. Nhiều ý kiến đã tham gia bàn  luận, đồng ý cũng có và phản đối cũng có. Nay, Cali Today vưà nhận được bài trả  lời của ông Lê văn Thự. Xin trân trọng giới thiệu với qúy độc giả trong nỗ lực  tìm kiếm sự thật cho lịch sử VN.</i></p>

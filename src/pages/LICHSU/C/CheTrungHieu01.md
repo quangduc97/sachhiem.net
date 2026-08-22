@@ -3,7 +3,7 @@ layout: ../../../layouts/Article.astro
 title: "Viết Nhân Kỷ Niệm 65 Năm Ngày Ký Hiệp Định Genève"
 author: "Chế Trung Hiếu"
 date: 2019-10-22
-source: "https://sachhiem.net/LICHSU/C/CheTrungHieu01.php"
+source: "/LICHSU/C/CheTrungHieu01"
 category: "Chính trị"
 lang: vi
 wordCount: 3176

@@ -3,7 +3,7 @@ layout: ../../../layouts/Article.astro
 title: "Giáo Hoàng Đổ Lỗi Cho \"Satan\" - Các Vụ Ấu Dâm Trong Giáo Hội"
 author: "Báo Nouvelobs"
 date: 2019-02-27
-source: "https://sachhiem.net/SACHNGOAI/SH/SH27b.php"
+source: "/SACHNGOAI/SH/SH27b"
 category: "Chính trị"
 lang: vi
 wordCount: 1976
@@ -74,8 +74,8 @@ image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/TONGIAO/IMG/VATICAN/
  <p><b>Tin liên quan:</b></p>
 <p>1. Vatican họp khẩn giải quyết nạn bê bối tình dục. <a href="https://baomoi.com/vatican-hop-khan-giai-quyet-nan-be-boi-tinh-duc/c/29738824.epi">https://baomoi.com/</a></p>
 <p>2. Hồng Y Thừa Nhận Các Hồ Sơ Của Giáo Hội Về Các Linh Mục Ấu Dâm “Bị Tiêu Hủy”  
-<a href="https://sachhiem.net/SACHNGOAI/SH/SH27.php">https://sachhiem.net/SACHNGOAI/SH/SH27.php</a>
+<a href="/SACHNGOAI/SH/SH27">https://sachhiem.net/SACHNGOAI/SH/SH27.php</a>
 </p>
-<p>3. Các nhà hoạt động Ba-Lan lật đổ tượng 1 linh mục Ca-tô giáo bị buộc tội lạm dụng trẻ vị thành niên. <a href="https://sachhiem.net/SACHNGOAI/SH/SH27a.php">https://sachhiem.net/SACHNGOAI/SH/SH27a.php</a></p>
+<p>3. Các nhà hoạt động Ba-Lan lật đổ tượng 1 linh mục Ca-tô giáo bị buộc tội lạm dụng trẻ vị thành niên. <a href="/SACHNGOAI/SH/SH27a">https://sachhiem.net/SACHNGOAI/SH/SH27a.php</a></p>
 <p>4. Giáo Hoàng Đổ Lỗi Cho "Satan" - Các Vụ Ấu Dâm Trong Giáo Hội (Báo Pháp)
-<a href="https://sachhiem.net/SACHNGOAI/SH/SH27b.php">https://sachhiem.net/SACHNGOAI/SH/SH27b.php</a></p>
+<a href="/SACHNGOAI/SH/SH27b">https://sachhiem.net/SACHNGOAI/SH/SH27b.php</a></p>

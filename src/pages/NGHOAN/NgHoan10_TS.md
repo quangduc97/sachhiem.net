@@ -3,7 +3,7 @@ layout: ../../layouts/Article.astro
 title: "Trường Sa Nơi Đầu Sóng Ngọn Gió"
 author: "Nguyễn Hoàn"
 date: 2015-01-23
-source: "https://sachhiem.net/NGHOAN/NgHoan10_TS.php"
+source: "/NGHOAN/NgHoan10_TS"
 category: "Văn hóa"
 lang: vi
 wordCount: 2439
@@ -56,5 +56,5 @@ Cũng như những loài cá biển, những loài cây đảo như cây phong b
  <i>Lê  Quý Đôn toàn tập</i>, sđd, tr. 120. </p>
 <p>_________________</p>
 <p><b>Bài đọc thêm:</b></p>
-<p>- <a href="https://sachhiem.net/LICHSU/H/HoangSa_list.php">Những bài về Trường Sa &amp; Hoàng Sa đăng trong sachhiem.net</a> (SH)
+<p>- <a href="/LICHSU/H/HoangSa_list">Những bài về Trường Sa &amp; Hoàng Sa đăng trong sachhiem.net</a> (SH)
 </p>

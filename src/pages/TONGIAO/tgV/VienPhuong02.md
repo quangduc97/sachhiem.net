@@ -2,11 +2,11 @@
 layout: ../../../layouts/Article.astro
 title: "Những Thế Lực Đen Tối Trong Giáo Hội Việt Nam"
 author: "Viễn Phương"
-source: "https://sachhiem.net/null"
+source: "/null"
 category: "Tác giả"
 lang: vi
 wordCount: 2461
-image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nha.jpg"
+image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/IMG/LINHMUC/GM_Adran-HgtuCanh.jpg"
 ---
 
 <div align="center">
@@ -25,8 +25,7 @@ image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nha.jpg"
 <tr> <td width="100%"> 
 		<div style="padding-left: 50px; padding-right: 50px">
 		<table border="0" cellpadding="10" width="600" cols="2"><tbody><tr>
-		<td width="356"><a href="/index">
-		<img border="0" src="https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nha.jpg"></a></td>
+		<td width="356"></td>
 	<td valign="top"><p>15 tháng 8,  2010</p>	
 	</td></tr></tbody></table>
 			<table border="0" width="220" id="table1" align="left">
@@ -38,8 +37,8 @@ image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nha.jpg"
 				</tr>
 			</tbody></table>
 	<p><i>LTS: Trường hợp "khó vào đạo" trong bài kể ra cũng đáng suy nghĩ. Thật ra trên thực tế, dễ hay khó cũng còn tùy trường hợp. Nếu đối tượng là một người có quyền thế, uy tín, hay có ảnh hưởng đến quần chúng, thì không phải là vấn đề "vào đạo" nhưng lại là vấn đề "mời mọc, gài bẫy, khuyến dụ",... Đó là trường hợp của các yếu nhân trong một triều đình, một chính phủ, hay những người nổi tiếng như nhà văn, nhạc sĩ, họa sĩ, vân vân. Ai đọc sử cũng biết các trường hợp gài người qua ngõ mỹ nhân kế hay hôn nhân, như Vua Charles I (1626-1649)(Anh), Vua Napoléon III (Pháp), Vua Bảo Đại (Việt Nam),...Bạn đọc có thể xem bài viết về các Vua Anh và Pháp trong đề tài này ở các bài 
-	<a href="/NMQ/TAMTHU/NMQtt_16"> "ÂM MƯU CỦA VATICAN TRONG THỜI VUA  CHARLES I",</a> và bài "<a href="https://sachhiem.net/NMQ/TAMTHU/NMQtt_16b.php">VATICAN GIĂNG BẪY LÙA TỔNG THỐNG LOUIS NAPOLÉON
-VÀO CÁI TRÒNG CATÔ</a>" của GS Nguyễn Mạnh Quang. Ngoài ra, các kế sách làm tăng dân số "tín đồ" của Giáo Hội La Mã nằm trong các chính sách "cải đạo những người sắp chết", "cải đạo những người sắp kết hôn", (xin xem bài viết "<a href="https://www.sachhiem.net/TONGIAO/tgM/MinhThanh2.php">Mắt xích cải đạo tu sĩ trong tiến trình cải đạo tín đồ Phật giáo"</a> của Minh Thạnh), chương trình thăm viếng các tù nhân, làm việc trong các viện mồ côi, các việc can thiệp với chính quyền để "xin tha" các vụ bắt quân dịch, xin tha các người tình nghi nếu "sẽ theo đạo" (thời Ngô Đình Diệm).  Bất cứ cơ hội nào đạo Công Giáo cũng ăn vào để kiếm thêm tín đồ. Xem ra, chuyện làm khó những người sẵn sàng muốn vào đạo chỉ là muốn làm ra vẻ 
+	<a href="/NMQ/TAMTHU/NMQtt_16"> "ÂM MƯU CỦA VATICAN TRONG THỜI VUA  CHARLES I",</a> và bài "<a href="/NMQ/TAMTHU/NMQtt_16b">VATICAN GIĂNG BẪY LÙA TỔNG THỐNG LOUIS NAPOLÉON
+VÀO CÁI TRÒNG CATÔ</a>" của GS Nguyễn Mạnh Quang. Ngoài ra, các kế sách làm tăng dân số "tín đồ" của Giáo Hội La Mã nằm trong các chính sách "cải đạo những người sắp chết", "cải đạo những người sắp kết hôn", (xin xem bài viết "<a href="/TONGIAO/tgM/MinhThanh2">Mắt xích cải đạo tu sĩ trong tiến trình cải đạo tín đồ Phật giáo"</a> của Minh Thạnh), chương trình thăm viếng các tù nhân, làm việc trong các viện mồ côi, các việc can thiệp với chính quyền để "xin tha" các vụ bắt quân dịch, xin tha các người tình nghi nếu "sẽ theo đạo" (thời Ngô Đình Diệm).  Bất cứ cơ hội nào đạo Công Giáo cũng ăn vào để kiếm thêm tín đồ. Xem ra, chuyện làm khó những người sẵn sàng muốn vào đạo chỉ là muốn làm ra vẻ 
 	<b>cao giá</b> mà thôi. (SH)</i></p>
 	<hr>
 			<p> <span class="First">C</span>ứ mỗi lúc đi qua các tòa Giám Mục hay 

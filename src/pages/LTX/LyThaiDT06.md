@@ -3,7 +3,7 @@ layout: ../../layouts/Article.astro
 title: "Những Câu Chuyện Về Xúc Phạm Tôn Giáo"
 author: "Lý Thái Xuân"
 date: 2025-08-17
-source: "https://sachhiem.net/LTX/LyThaiDT06.php"
+source: "/LTX/LyThaiDT06"
 category: "Chính trị"
 lang: vi
 wordCount: 3300

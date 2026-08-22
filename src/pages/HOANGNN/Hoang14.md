@@ -2,11 +2,11 @@
 layout: ../../layouts/Article.astro
 title: "NGỤY QUÂN TỬ VÕ VĂN ÁI"
 author: "Hoàng Đông Tà"
-source: "https://sachhiem.net/HOANGNN/Hoang14.php"
+source: "/HOANGNN/Hoang14"
 category: "Chính trị"
 lang: vi
 wordCount: 13794
-image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nha.jpg"
+image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/Next3.gif"
 ---
 
 <p class="Tuaduoi">Hồi II:</p>
@@ -19,8 +19,7 @@ KHÔNG DO ÐỨC TĂNG THỐNG VIẾT và BAN HÀNH  (1)
 </p>
 
  
-<p align="center"><a href="https://www.sachhiem.net/">
-	<img border="0" src="https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nha.jpg"></a> 3  tháng 5, 2008</p>
+<p align="center"> 3  tháng 5, 2008</p>
 <p>(mời đọc Hồi I <a href="/HOANGNN/Hoang09"><img border="0" src="https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/Next3.gif" width="15" height="6"></a>)</p>
 
 <p><span class="First"><img border="0" src="https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/HOANGNN/Hinh/VovAi1.jpg" width="185" height="285" align="left" hspace="10">T</span>heo thời gian, mọi việc lắng đọng, từ từ mọi người có thời giờ hơn để 
@@ -925,8 +924,8 @@ lịch sử.</i></p>
 <hr width="30%" align="left">
 Các bài viết cùng đề tài
       
-<p><a href="https://sachhiem.net/index.php?content=showrecipe&amp;id=798">Ngụy Quân Tử - Hồi I</a></p>
-<p><a href="https://sachhiem.net/index.php?content=showrecipe&amp;id=799">Ngụy Quân Tử - Hồi II </a> </p>
+<p><a href="/HOANGNN/Hoang09">Ngụy Quân Tử - Hồi I</a></p>
+<p><a href="/HOANGNN/Hoang14">Ngụy Quân Tử - Hồi II </a> </p>
 <p><a href="/TONGIAO/tgH/HgThucAn">Ngày Tàn Cuả Ngụy Quân tử</a></p>
 
    

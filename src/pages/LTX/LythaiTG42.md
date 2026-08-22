@@ -3,7 +3,7 @@ layout: ../../layouts/Article.astro
 title: "Khi Đại Diện Chúa Đoán Tuổi Trái Đất"
 author: "Lý Thái Xuân"
 date: 2025-03-22
-source: "https://sachhiem.net/LTX/LyThaiTG42.php"
+source: "/LTX/LyThaiTG42"
 category: "Chính trị"
 lang: vi
 wordCount: 485

@@ -3,7 +3,7 @@ layout: ../../../layouts/Article.astro
 title: "[VATICANOLOGY] - Rước Chúa Trên Đường Phố Trung Tâm Một Thành Phố Lớn: - Bài 2"
 author: "Minh Thạnh"
 date: 2022-06-22
-source: "https://sachhiem.net/TONGIAO/tgM/MinhThanh37_01.php"
+source: "/TONGIAO/tgM/MinhThanh37_01"
 category: "Chính trị"
 lang: vi
 wordCount: 2066
@@ -15,7 +15,7 @@ image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/LICHSU/IMG/VNCH/19-6
 
  
  <div class="tomluoc">
-   <p>(<a href="https://sachhiem.net/TONGIAO/tgM/MinhThanh37.php">Bài 1 có thể được xem ở link</a>) </p>
+   <p>(<a href="/TONGIAO/tgM/MinhThanh37">Bài 1 có thể được xem ở link</a>) </p>
     <p><i>Báo tin về Cuộc rước Chúa mới đây tại một trung tâm một thành phố lớn, bạn đọc có lưu ý tôi về NGÀY 19/6, đề nghị tôi phân tích về ý nghĩa ngày này trong cuộc rước Chúa đại quy mô trên đường phố một thành phố lớn?</i></p>
    <p><i> Tôi xin phép hồi đáp yêu cầu của bạn đọc trong một bài khác. Ở đây chúng ta chỉ nêu câu hỏi thảo luận ý nghĩa ngày 19/6, trong bối cảnh miền Nam Việt Nam trước 30/4/1975 và ở hải ngoại sau này, chưa đặt vấn đề về việc Chính quyền Vatican tổ chức sự kiện ngày 19/6 trong nước?</i></p>
  </div>

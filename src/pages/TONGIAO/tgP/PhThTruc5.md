@@ -3,7 +3,7 @@ layout: ../../../layouts/Article.astro
 title: "Những Lý Do Để Hoài Nghi Chúa Jesus Chưa Bao Giờ Tồn Tại"
 author: "Valerie Tarico/ Phạm Thanh Trúc"
 date: 2014-08-30
-source: "https://sachhiem.net/TONGIAO/tgP/PhThTruc4.php"
+source: "/TONGIAO/tgP/PhThTruc4"
 category: "Sách ngoại văn"
 lang: vi
 wordCount: 2469

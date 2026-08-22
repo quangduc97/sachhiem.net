@@ -3,7 +3,7 @@ layout: ../../layouts/Article.astro
 title: "Trần Trọng Kim và “Việt Nam Sử Lược”"
 author: "An Chi /Petrotimes"
 date: 2018-09-30
-source: "https://sachhiem.net/DOITHOAI/ANCHI_TranTrongKim.php"
+source: "/DOITHOAI/ANCHI_TranTrongKim"
 category: "Chính trị"
 lang: vi
 wordCount: 2493

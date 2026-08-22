@@ -3,7 +3,7 @@ layout: ../../layouts/Article.astro
 title: "Giai Thoại Bài ca Hồ Chí Minh | The Ballad of Ho Chi Minh"
 author: "SH sưu tầm"
 date: 2017-11-08
-source: "https://sachhiem.net/VANHOC/WIKI_VN_HCM.php"
+source: "/VANHOC/WIKI_VN_HCM"
 category: "Văn hóa"
 lang: vi
 wordCount: 1833

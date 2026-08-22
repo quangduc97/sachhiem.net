@@ -3,7 +3,7 @@ layout: ../../../layouts/Article.astro
 title: "Đối Thoại 3: Xóa Bỏ Ngày Quốc Hận và Lằn Ranh Quốc Cộng"
 author: "Giác Hạnh/Trần Quang Diệu"
 date: 2015-03-10
-source: "https://sachhiem.net/LICHSU/TR/TQD43.php"
+source: "/LICHSU/TR/TQD43"
 category: "Đối thoại"
 lang: vi
 wordCount: 1601
@@ -15,7 +15,7 @@ image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/THOISU_CT/Hinh/VIETN
  
  
   
-    <p><i>LTS: Khi thua Nguyễn Kim, tướng nhà Mạc là Mạc Ngọc Liễn phải lánh sang Tàu, dặn con cháu “</i>Nay họ Lê dấy lên được, ấy là trời đã định, còn dân ta thì có tội gì, mà ta nỡ để khổ sở mãi về việc chiến tranh? Vậy ta nên đành phận lánh mình ở nước ngoài, chứ đừng có đem lòng cạnh tranh mà lại mời người Tàu sang làm hại dân nước mình.<i>” (<a href="https://sachhiem.net/index.php?content=showrecipe&amp;id=92">Trần Trọng Kim, Việt Nam Sử Lược - Quyển II (Sàigòn: Bộ Giáo Dục,1971), tr. 25</a>.) Đó là tấm gương xem “việc nước trước việc nhà” để bảo vệ đất nước khi tổ quốc lâm nguy. </i></p>
+    <p><i>LTS: Khi thua Nguyễn Kim, tướng nhà Mạc là Mạc Ngọc Liễn phải lánh sang Tàu, dặn con cháu “</i>Nay họ Lê dấy lên được, ấy là trời đã định, còn dân ta thì có tội gì, mà ta nỡ để khổ sở mãi về việc chiến tranh? Vậy ta nên đành phận lánh mình ở nước ngoài, chứ đừng có đem lòng cạnh tranh mà lại mời người Tàu sang làm hại dân nước mình.<i>” (<a href="/TCN/TCNtg/DAOGIESU/TCN_NMQ16">Trần Trọng Kim, Việt Nam Sử Lược - Quyển II (Sàigòn: Bộ Giáo Dục,1971), tr. 25</a>.) Đó là tấm gương xem “việc nước trước việc nhà” để bảo vệ đất nước khi tổ quốc lâm nguy. </i></p>
   <p><i>Những ai đã từng chạy loạn xa xứ đều không thể quên những ngày điêu đứng trong cuộc đời. Điều đó ai cũng hiểu được. Nhưng đối với những vấn đề đất nước, người yêu nước phải biết "</i>thù nước trước thù nhà."</p>
     <p><i>Buồn thay, một số người  ồn ào vẫn muốn kéo dài "thù nhà" đến suốt đời, và xem đó là "thù nước". Một số những người này buồn vui theo giặc: mừng khi giặc vào - hận khi giặc chạy! Xin mời đọc  thêm vài cảm tưởng của các thân hữu về ngày 30 tháng 4, sau 40 năm viễn xứ. (SH) </i></p>
     <p align="center"> <img src="https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/THOISU_CT/Hinh/VIETNAM/30thang4_thongnhat.jpg" width="350" height="238" longdesc="https://www.baomoi.com/Ky-niem-37-nam-ngay-thong-nhat-dat-nuoc-30419753042012-Nuoc-mat-ngay-chien-thang/71/8366201.epi"></p>
@@ -26,11 +26,11 @@ image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/THOISU_CT/Hinh/VIETN
 Tran Quang Dieu  [DiendanDanToc] đã viết</i>: </p>
 <p><strong>"Vietnam Why Did We  Go?": </strong> <br>
   <a href="https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.devhttps://arcticbeacon.com/books/Avro_Manhatten_-_Vietnam_Why_Did_We_Go.pdf" target="_blank">- Bản tiếng Anh https://arcticbeacon.com/books </a> ?</p>
-<p><a href="https://sachhiem.net/SACHNGOAI/snT/TTL_AVR_BK.php">- Bản tiếng Việt của Trần Thanh Lưu:  </a> </p>
+<p><a href="/SACHNGOAI/snT/TTL_AVR_BK">- Bản tiếng Việt của Trần Thanh Lưu:  </a> </p>
 <div class="indent50"><p class="PicLeft"><img height="201" src="https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/SACHNGOAI/Hinhanh/PEOPLE/avro1.jpg" width="145"></p>
   <p class="TuaDoLeft">Vì Sao Chúng Ta Đã Đi Việt Nam ? </p>
 <p>Tiểu tựa: Những khởi đầu tôn giáo cho một cuộc chiến vô đạo: Câu chuyện gây  chấn động về vai trò của “Giáo Hội” Công Giáo trong việc khơi mào cuộc  chiến Việt Nam</p>
-<p><i>"<b>Việt Nam</b>: một từ đã gây ra nhiều ác cảm, kinh tởm và thù hận. Một số người gọi nó là ô nhục, vài kẻ khác gọi là một hành động xen đầm. Khi người lính trận tơi tả trở về, họ bị khinh bỉ, lăng nhục. Hoa kỳ đã bị mất mặt với thế giới. Tai sao lại nói đến đề tài ấy làm gi? Bởi vì Việt Nam chính là một cuộc chiến tranh tôn giáo. Một cuộc chiến tôn giáo khơi mào bởi Vatican, con điếm của Sách Khải Huyền, qua chương 17 và 18.</i>...." <a href="https://sachhiem.net/SACHNGOAI/snT/TTL_AVR_BK.php">(xem tiếp )</a></p></div>
+<p><i>"<b>Việt Nam</b>: một từ đã gây ra nhiều ác cảm, kinh tởm và thù hận. Một số người gọi nó là ô nhục, vài kẻ khác gọi là một hành động xen đầm. Khi người lính trận tơi tả trở về, họ bị khinh bỉ, lăng nhục. Hoa kỳ đã bị mất mặt với thế giới. Tai sao lại nói đến đề tài ấy làm gi? Bởi vì Việt Nam chính là một cuộc chiến tranh tôn giáo. Một cuộc chiến tôn giáo khơi mào bởi Vatican, con điếm của Sách Khải Huyền, qua chương 17 và 18.</i>...." <a href="/SACHNGOAI/snT/TTL_AVR_BK">(xem tiếp )</a></p></div>
 <p>Có nhiều người nói đên "hận". Ai hận ai, hận đến bao lâu, và bản chất của cái "hận" có tốt đẹp hay không? 
   Lịch sử sẽ có thể nghiêm khắc hỏi: </p>
 <p>Vào hồi Pháp chiếm Việt  Nam thì Quân đội Pháp có thù hận những nghĩa quân Việt Nam chống lại họ  hay không? Hay ngược lại, ai phải hận ai?</p>

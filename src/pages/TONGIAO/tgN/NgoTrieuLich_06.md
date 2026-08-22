@@ -3,7 +3,7 @@ layout: ../../../layouts/Article.astro
 title: "Giê-Su Là Người Châu Á? Công Giáo Là Đạo Của Người Châu Á?"
 author: "Ngô Triệu Lịch"
 date: 2019-05-10
-source: "https://sachhiem.net/TONGIAO/tgN/NgoTrieuLich_06.php"
+source: "/TONGIAO/tgN/NgoTrieuLich_06"
 category: "Tác giả"
 lang: vi
 wordCount: 2490

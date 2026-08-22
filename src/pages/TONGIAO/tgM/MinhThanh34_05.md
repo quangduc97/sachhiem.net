@@ -3,7 +3,7 @@ layout: ../../../layouts/Article.astro
 title: "[VATICANOLOGY] Cờ Trắng Cho Ukraina: Những Con Tim Tử Đạo Thấu Hiểu Lẫn Nhau Qua Những Xung Động Hạt Nhân (Bài 3)"
 author: "Minh Thạnh"
 date: 2024-04-09
-source: "https://sachhiem.net/TONGIAO/tgM/MinhThanh34_05.php"
+source: "/TONGIAO/tgM/MinhThanh34_05"
 category: "Chính trị"
 lang: vi
 wordCount: 4051

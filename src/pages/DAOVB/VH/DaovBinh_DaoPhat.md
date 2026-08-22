@@ -3,7 +3,7 @@ layout: ../../../layouts/Article.astro
 title: "Đọc Tuyển Tập “Đạo Phật: Đất Nước, Cuộc Sống & Tâm Linh”"
 author: "Giới Thiệu Sách Mới"
 date: 2017-06-23
-source: "https://sachhiem.net/DAOVB/VH/DaovBinh_DaoPhat.php"
+source: "/DAOVB/VH/DaovBinh_DaoPhat"
 lang: vi
 wordCount: 1892
 image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/TONGIAO/IMG/SACH/DaoVanBinh.jpg"

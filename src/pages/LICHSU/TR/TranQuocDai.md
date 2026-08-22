@@ -6,7 +6,6 @@ source: "https://www.chuyenluan.net/_oldcluan/2005/200507/0705_12.htm"
 category: "Lịch sử"
 lang: vi
 wordCount: 9674
-image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nha.jpg"
 ---
 
 <div align="center">
@@ -23,8 +22,7 @@ image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nha.jpg"
 
 <tr> <td> <div style="padding-left: 50px; padding-right: 50px">
 			<table border="0" cellpadding="10" width="600"><tbody><tr>
-			<td><a href="/index">
-			<img border="0" src="https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nha.jpg"></a></td>
+			<td></td>
 			<td valign="top" style="text-align:right">ChL 07/2005, đăng lại 22 tháng 11, 2010</td></tr></tbody></table>
 			
 			<p><i><b>Lời tòa soạn (ChL)</b>: Chuyển Luân vừa nhận được bài viết sau đây của Trần 

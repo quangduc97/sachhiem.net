@@ -2,16 +2,16 @@
 layout: ../../../../layouts/Article.astro
 title: "Cơn ác mộng của nhà thần học"
 author: "Lê Dọn Bàn"
-source: "https://sachhiem.net/SACHNGOAI/snL/LeDonBan/LDB04.php"
+source: "/SACHNGOAI/snL/LeDonBan/LDB04"
 category: "Tác giả"
 lang: vi
 wordCount: 3193
-image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nha.jpg"
+image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/SACHNGOAI/Hinhanh/PEOPLE/BertrandRussell1.jpg"
 ---
 
 <table border="0" cellpadding="0" width="250" align="center">
 	<tbody><tr>
-		<td width="100"><a href="/index"><img border="0" src="https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nha.jpg"></a></td>
+		<td width="100"></td>
 						<td valign="top" width="210">	<p>08 tháng 8, 2010</p></td>
 					</tr>
 				</tbody></table>
@@ -329,11 +329,11 @@ image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nha.jpg"
 				<li>Mời đọc bài <a href="/KHOAHOC/L/LyThai6">"Vũ Trụ Mà Chúng Ta Biết Được"
 				</a>để minh họa cho khái niệm về "thiên hà" trong vũ trụ trong bài. </li>
 				<li>Một vài trong những bài nói về thần học trong sachhiem.net:</li>
-				<p><a href="https://www.sachhiem.net/TCN/TCNdt/TCNdt041.php">- NHÂN ĐỌC MẤY CÂU TRẢ LỜI VƯƠNG VŨ
+				<p><a href="/TCN/TCNdt/TCNdt041">- NHÂN ĐỌC MẤY CÂU TRẢ LỜI VƯƠNG VŨ
 
 Của Ông Mục Sư Nguyễn Quang Minh (Trần Chung Ngọc)</a></p>
 				<p>
-				<a href="https://www.sachhiem.net/SACHNGOAI/LeQuocTuan/SAMHARRIS/LeQuocTuanII-05.php">- Sam Harris: Thư cho một quốc gia Ki-tô giáo - Lê Quốc Tuấn chuyển ngữ 
+				<a href="/SACHNGOAI/LeQuocTuan/SAMHARRIS/LeQuocTuanII-05">- Sam Harris: Thư cho một quốc gia Ki-tô giáo - Lê Quốc Tuấn chuyển ngữ 
 				</a> </p>
-				<p>- <a href="https://www.sachhiem.net/NVTho/NVTho7.php">"ÍT NHIỀU NHẬN ĐỊNH VỀ THIÊN CHÚA GIÁO" CH 22- Thần học Giải Phóng (Nguyễn Văn Thọ)
+				<p>- <a href="/NVTho/NVTho7">"ÍT NHIỀU NHẬN ĐỊNH VỀ THIÊN CHÚA GIÁO" CH 22- Thần học Giải Phóng (Nguyễn Văn Thọ)
 				</a> </p>

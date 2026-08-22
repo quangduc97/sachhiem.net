@@ -3,7 +3,7 @@ layout: ../../layouts/Article.astro
 title: "Chính Quyền Và Vấn Đề Vô Gia Cư Ở Mỹ"
 author: "Lý Thái Xuân"
 date: 2017-07-22
-source: "https://sachhiem.net/LTX/LyThaiXH30.php"
+source: "/LTX/LyThaiXH30"
 category: "Xã hội"
 lang: vi
 wordCount: 4399

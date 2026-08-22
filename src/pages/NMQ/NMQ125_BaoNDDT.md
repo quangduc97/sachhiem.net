@@ -3,7 +3,7 @@ layout: ../../layouts/Article.astro
 title: "Tranh Đấu Cho Dân Chủ, Làm Sao Chúng Tôi Tin Các Ông?"
 author: "Báo Thời Nay"
 date: 2025-01-06
-source: "https://sachhiem.net/NMQ/NMQ125_BaoNDDT.php"
+source: "/NMQ/NMQ125_BaoNDDT"
 category: "Chính trị"
 lang: vi
 wordCount: 669

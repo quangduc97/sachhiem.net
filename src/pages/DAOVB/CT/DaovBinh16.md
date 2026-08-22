@@ -3,7 +3,7 @@ layout: ../../../layouts/Article.astro
 title: "Nhật Ký Biển Đông:"
 author: "Đào Văn Bình"
 date: 2014-05-31
-source: "https://sachhiem.net/DAOVB/CT/DaovBinh16.php"
+source: "/DAOVB/CT/DaovBinh16"
 category: "Chính trị"
 lang: vi
 wordCount: 4308
@@ -19,7 +19,7 @@ image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/THOISU_CT/Hinh/CHINA
  </div>
  <p align="center"><img src="https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/THOISU_CT/Hinh/CHINA/Merkel_Chinamap_TapcanBinh_28Mar14.jpg" width="350" height="196"></p>
  <p align="center"><i>Thủ Tướng nước Đức tặng ông Chủ Tịch Trung Hoa Tập Cận Bình một tấm bản đồ Trung Hoa ở thế kỷ 18- ngày 28 tháng 3, 2014</i></p>
- <p align="center"><a href="https://sachhiem.net/index.php?content=showrecipe&amp;id=5936">(xem bản tin)</a></p>
+ <p align="center"><a href="/THOISU_CT/SH/IVCE_map">(xem bản tin)</a></p>
  <a name="n1" href="/DAOVB/#tit1"><p class="TuaDoLeft"> Sổ Nhật Ký: </p></a>
  <p><span class="First">H</span>ai tuần lễ sau cùng của  Tháng 5, Nhật Ký Biển Đông ghi nhận những biến chuyển quan trọng như sau:</p>
  <div class="danbai"><p><b>Gồm các mục:</b></p>
@@ -72,4 +72,4 @@ Reuters</p>
  <p class="TacgiaR">Đào Văn Bình  </p>
  <p align="right"><i>(California ngày 31/5/2014)</i></p>
  <p>____________________</p>
-   <p><a href="https://sachhiem.net/LICHSU/H/HoangSa_list.php">Các bài về Hoàng Sa- Trường Sa đăng trên sachhiem.net » </a></p>
+   <p><a href="/LICHSU/H/HoangSa_list">Các bài về Hoàng Sa- Trường Sa đăng trên sachhiem.net » </a></p>

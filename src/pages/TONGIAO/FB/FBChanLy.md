@@ -3,7 +3,7 @@ layout: ../../../layouts/Article.astro
 title: "Tội Ác Kinh Hoàng Trên Con Đường Phản Quốc Của Giáo Phận Bùi Chu"
 author: "FB Chân Lý"
 date: 2022-03-30
-source: "https://sachhiem.net/TONGIAO/FB/FBChanLy.php"
+source: "/TONGIAO/FB/FBChanLy"
 category: "Chính trị"
 lang: vi
 wordCount: 624
@@ -32,4 +32,4 @@ image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/TONGIAO/IMG/CHURCH/B
 <p align="center"><i>nhà thờ Bùi Chu trước khi đập phá.</i></p>
 <p>__________</p>
 <p><b>Mời đọc thêm:</b></p>
-<p>- <a href="https://sachhiem.net/TONGIAO/FB/FBlinhnguyen.php">Một Câu Chuyện Lịch Sử Của Giáo Phận Bùi Chu</a> (FB Linh Nguyễn) ngày 22-May-2019</p>
+<p>- <a href="/TONGIAO/FB/FBlinhnguyen">Một Câu Chuyện Lịch Sử Của Giáo Phận Bùi Chu</a> (FB Linh Nguyễn) ngày 22-May-2019</p>

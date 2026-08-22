@@ -3,7 +3,7 @@ layout: ../../../layouts/Article.astro
 title: "Bác Sĩ Erich Wulff (1926-2010) - Ân Nhân Của Phật Giáo Việt Nam"
 author: "Minh Nguyện"
 date: 2018-02-04
-source: "https://sachhiem.net/TONGIAO/tgM/MinhNguyen.php"
+source: "/TONGIAO/tgM/MinhNguyen"
 category: "Chính trị"
 lang: vi
 wordCount: 5255

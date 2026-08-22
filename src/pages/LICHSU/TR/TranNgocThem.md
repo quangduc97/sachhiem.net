@@ -3,7 +3,7 @@ layout: ../../../layouts/Article.astro
 title: "Độc Lập Văn Hóa, Yếu Tố Cốt Tử Để Bảo Vệ Tổ Quốc"
 author: "BDTCP Phỏng Vấn GS. Trần Ngọc Thêm"
 date: 2016-09-02
-source: "https://sachhiem.net/LICHSU/TR/TranNgocThem.php"
+source: "/LICHSU/TR/TranNgocThem"
 category: "Chính trị"
 lang: vi
 wordCount: 3068

@@ -3,7 +3,7 @@ layout: ../../layouts/Article.astro
 title: "Một Giáo Dân Đạo Thiên Chúa Nói Lên Năm Ưu Điểm Căn Bản của Phật Giáo Việt Nam"
 author: "Chánh Kiến/ gdptangiang.vn"
 date: 2025-01-06
-source: "https://sachhiem.net/NMQ/NMQ127_GDPT_AG.php"
+source: "/NMQ/NMQ127_GDPT_AG"
 category: "Chính trị"
 lang: vi
 wordCount: 1746

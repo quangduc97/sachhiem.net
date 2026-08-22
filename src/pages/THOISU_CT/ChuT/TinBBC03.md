@@ -2,15 +2,14 @@
 layout: ../../../layouts/Article.astro
 title: "Phi công Việt-Mỹ: 'Kẻ thù xưa, anh em nay'"
 author: "Tin BBC"
-source: "https://sachhiem.net/THOISU_CT/ChuT/TinBBC03.php"
+source: "/THOISU_CT/ChuT/TinBBC03"
 category: "Chính trị"
 lang: vi
 wordCount: 1807
-image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nha.jpg"
+image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/THOISU_CT/Hinh/NGOAIGIAO/KhongQuanVN_My_21Sep2017.jpg"
 ---
 
-<p align="center"><a href="https://www.sachhiem.net/">
-<img border="0" src="https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nha.jpg"></a> 
+<p align="center"> 
 ngày </p>
  <div class="tomluoc">
    <p><i>BBC: Không biết là vô tình hay hữu ý nhưng gần như cùng thời điểm khi bộ phim tư liệu 'The Vietnam War' (Chiến tranh Việt Nam) ra mắt, những người lính phi công Bắc Việt và Hoa Kỳ cũng đã có một buổi giao lưu gặp gỡ hiếm hoi.</i></p>

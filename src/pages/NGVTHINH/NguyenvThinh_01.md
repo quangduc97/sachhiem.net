@@ -3,7 +3,7 @@ layout: ../../layouts/Article.astro
 title: "Lang Tử Dã Tâm!"
 author: "BS. Nguyễn Văn Thịnh"
 date: 2014-07-15
-source: "https://sachhiem.net/NGVTHINH/NguyenvThinh_01.php"
+source: "/NGVTHINH/NguyenvThinh_01"
 category: "Chính trị"
 lang: vi
 wordCount: 2650

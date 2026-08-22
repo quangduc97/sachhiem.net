@@ -3,7 +3,7 @@ layout: ../../../layouts/Article.astro
 title: "Những Chuyện Kể Của Phượng Hoàng GV"
 author: "Phượng Hoàng GV"
 date: 2015-10-06
-source: "https://sachhiem.net/LICHSU/P/PhuongHoang01.php"
+source: "/LICHSU/P/PhuongHoang01"
 category: "Lịch sử"
 lang: vi
 wordCount: 2548
@@ -84,6 +84,6 @@ His Heavenly Armies</p>
 <p>Sự thất bại của Đạo Công  Giáo Vatican càng lúc càng suy yếu thấy rõ.…<img src="https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/sqdot.gif" width="10" height="10"></p>
 <p>___________________________________</p>
 <p><b>Những chuyện kể của Phượng Hoàng GV:</b></p>
-<p>- <a href="https://sachhiem.net/LICHSU/P/PhuongHoang00.php">Tập 1: Vatican Làm Sao Giàu Có ?</a></p>
-<p>- <a href="https://sachhiem.net/LICHSU/P/PhuongHoang01.php">Tập 2:  Giáo Hoàng Francis Tông Du Đến Mỹ - Thành Công Hay Thất Bại?</a></p>
-<p>- <a href="https://sachhiem.net/LICHSU/P/PhuongHoang02.php">Tập 3: Tôn Giáo Đông Nhất Thuộc Về Kẻ Chiếm Trọn Địa Cầu</a></p>
+<p>- <a href="/LICHSU/P/PhuongHoang00">Tập 1: Vatican Làm Sao Giàu Có ?</a></p>
+<p>- <a href="/LICHSU/P/PhuongHoang01">Tập 2:  Giáo Hoàng Francis Tông Du Đến Mỹ - Thành Công Hay Thất Bại?</a></p>
+<p>- <a href="/LICHSU/P/PhuongHoang02">Tập 3: Tôn Giáo Đông Nhất Thuộc Về Kẻ Chiếm Trọn Địa Cầu</a></p>

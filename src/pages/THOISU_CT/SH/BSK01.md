@@ -3,7 +3,7 @@ layout: ../../../layouts/Article.astro
 title: "Các Nhà Sản Xuất Thiết Bị Điện Tử Cá Cược Lớn Ở Việt Nam"
 author: "Will Greene"
 date: 2014-07-27
-source: "https://sachhiem.net/THOISU_CT/SH/BSK01.php"
+source: "/THOISU_CT/SH/BSK01"
 category: "Chính trị"
 lang: vi
 wordCount: 1311

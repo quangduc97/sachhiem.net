@@ -2,13 +2,12 @@
 layout: ../../../layouts/Article.astro
 title: "XUÔI NƯỚC ĐÔI GIÒNG"
 author: "Minh Mẫn"
-source: "https://sachhiem.net/MINHMAN/Tongiao/MinhManTG15.php"
+source: "/MINHMAN/Tongiao/MinhManTG15"
 lang: vi
 wordCount: 3320
-image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nha.jpg"
 ---
 
-<p align="center"><a href="https://www.sachhiem.net/"> <img border="0" src="https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nha.jpg"> </a> 17 tháng 9, 2007</p>
+<p align="center"> 17 tháng 9, 2007</p>
 <p> <font face="Vivaldi" size="6">N</font>hững năm tháng đất nước cố ngoi mình lên với kinh tế thị trường, bao rác 
 	rưởi lềnh bềnh trên cuộc sống, những trái ngang, nghịch lý luôn nẩy nở phát 
 	sinh, mức sống có khá hơn, phải đánh đổi bằng những vất vả đời người; tôn 

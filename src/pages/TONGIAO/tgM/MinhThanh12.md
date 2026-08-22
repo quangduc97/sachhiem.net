@@ -3,7 +3,7 @@ layout: ../../../layouts/Article.astro
 title: "Cành Mai Và Cây Thông Trong Tâm Tư Của Thầy Giác Tâm"
 author: "Minh Thạnh"
 date: 2015-12-22
-source: "https://sachhiem.net/TONGIAO/tgM/MinhThanh12.php"
+source: "/TONGIAO/tgM/MinhThanh12"
 category: "Tác giả"
 lang: vi
 wordCount: 2624

@@ -3,7 +3,7 @@ layout: ../../../layouts/Article.astro
 title: "Minh Mạng - Tự Đức - Nguyễn Trường Tộ - Trương Vĩnh Ký - Các giáo sĩ Pháp"
 author: "Thụy Khuê"
 date: 2019-10-04
-source: "https://sachhiem.net/LICHSU/N/Namgiao_08.php"
+source: "/LICHSU/N/Namgiao_08"
 category: "Chính trị"
 lang: vi
 wordCount: 6575

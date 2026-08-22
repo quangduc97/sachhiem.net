@@ -3,7 +3,7 @@ layout: ../../../layouts/Article.astro
 title: "Tìm Chỗ Đứng Cho Thiên Chúa Trong Đạo Phật"
 author: "Ngô Triệu Lịch"
 date: 2019-05-28
-source: "https://sachhiem.net/TONGIAO/tgN/NgoTrieuLich_07.php"
+source: "/TONGIAO/tgN/NgoTrieuLich_07"
 category: "Tác giả"
 lang: vi
 wordCount: 3792
@@ -67,4 +67,4 @@ image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/TONGIAO/IMG/HOAKY/Oh
 <p> Những tài liệu phi Phật giáo mà Vatican sử dụng để đối  thoại là sản phẩm chính hiệu của khoa thần học Công giáo, chẳng những không  giúp ích được gì cho việc tìm hiểu Phật giáo, mà còn gây ra những ngộ nhận  không đáng có. Ðây là hệ quả tất yếu của việc <b>thay vì tìm hiểu Phật giáo một  cách trực tiếp</b>, bằng chính nguồn tư liệu phong phú từ giáo pháp nguyên chất của  Đức Phật, Vatican lại vận dụng sự “<i>khôn ngoan và thông thái của các thần học  gia</i>", xào nấu mớ kiến thức tạp nhạp của họ về các tông phái phát triển  Trung Hoa, rồi mang ra “đối thoại liên tôn”. Mặt khác, do óc chủ quan:  "<i>Ðừng lo lắng tìm cách trả lời làm sao và trả lời cái gì hay phải dùng lời  lẽ nào: Chính Chúa Thánh Thần sẽ dạy cho các con ngay lúc đó những điều phải  nói.</i>" (Lc.12,11-12) khiến họ đối thoại chủ quan, làm cho đối thoại nếu  không biến thành độc thoại, thì cũng có nguy cơ biến thành tranh luận.</p>
 <p>____________________</p>
 <p><b>Nhận xét:</b></p>
-<p>Nhận xét sau bài: <a href="https://sachhiem.net/index.php?content=showemail&amp;id=2872">Tìm Chỗ Đứng Cho Thiên Chúa Trong Đạo Phật </a>(Thân Hữu)</p>
+<p>Nhận xét sau bài: <a href="/net/TONGIAO/tgN/NgoTrieuLich_07">Tìm Chỗ Đứng Cho Thiên Chúa Trong Đạo Phật </a>(Thân Hữu)</p>

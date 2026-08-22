@@ -3,16 +3,16 @@ layout: ../../../layouts/Article.astro
 title: "Khoa học thần sầu!"
 author: "Chris Paine/Lý Thái lược dịch"
 date: 2012-07-06
-source: "https://sachhiem.net/<a href="
+source: "/<a href="
 category: "Khoa học"
 lang: vi
 wordCount: 1103
-image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nha.jpg"
+image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/KHOAHOC/IMG/DrKarlKruszelnicki.jpg"
 ---
 
 <table border="0" cellpadding="0" width="250" align="center">
             <tbody><tr>
-              <td width="125"><a href="/index"><img border="0" src="https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nha.jpg"></a></td>
+              <td width="125"></td>
               <td valign="middle">06-Jul-2012</td>
             </tr>
           </tbody></table>
@@ -128,5 +128,5 @@ tập viên Peter Farquhar của web news.com.au
 <p class="nguonL">(nguồn https://www.heraldsun.com.au/technology/sci-tech/god-damn-science-the-higgs-boson-in-10-easy-steps/story-fn5iztw3-1226418530053 July 06, 2012)</p>
 
 <p><b>Mời đọc thêm:</b></p>
-<p><a href="https://sachhiem.net/TTL/TranTL23.php">"Hạt Chết Tiệt" của Trần Tiên
+<p><a href="/TTL/TranTL23">"Hạt Chết Tiệt" của Trần Tiên
     Long</a></p>

@@ -3,7 +3,7 @@ layout: ../../layouts/Article.astro
 title: "Chuẩn Bị Cho Năm Học 2015 - Du Học Hoa Kỳ"
 author: "Văn Phòng Giáo Dục"
 date: 2015-08-12
-source: "https://sachhiem.net/sachhiem/VANHOC/VPgiaoduc.php"
+source: "/sachhiem/VANHOC/VPgiaoduc"
 category: "Chính trị"
 lang: vi
 wordCount: 1165

@@ -3,19 +3,18 @@ layout: ../../../layouts/Article.astro
 title: "Những báo cáo mới (2023) về các giáo sĩ lạm dụng tình dục"
 author: "Sưu tầm của Đại Thắng"
 date: 2023-05-28
-source: "https://sachhiem.net/TONGIAO/FB/FBDaiThang05.php"
+source: "/TONGIAO/FB/FBDaiThang05"
 category: "Chính trị"
 lang: vi
 wordCount: 6040
-image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nha.jpg"
+image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/TONGIAO/IMG/HOAKY/GP_Syracuse_NY.JPG"
 ---
 
 <p class="Tuaduoi">Giáo Sĩ - Các Câu Chuyện Đáng Sợ Tiếp Theo Phía Sau Những Con Số </p>
 
 
 
- <p align="center"><a href="https://www.sachhiem.net/">
-<img border="0" src="https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nha.jpg"></a> 
+ <p align="center"> 
 ngày 28-May-2023</p>
 
 <p><span class="First">N</span>hững câu chuyện đàng sau các con số về lạm dụng tình dục của các giáo sĩ trong giáo hộ Công giáo La mã là những điều đáng ghi nhớ như những bài học kinh nghiệm đối với những người có địa vị và uy quyền. Trong lãnh vực thuộc về niềm tin tín ngưỡng, bài học còn cần thiết hơn nhiều vì địa vị của các giáo sĩ có tính cách tuyệt đối, do nó chiếm lĩnh con tim các tín đồ. </p>
@@ -42,7 +41,7 @@ ngày 28-May-2023</p>
 <p class="TuaDenLeft">-  Jul 28, 2023 - <a href="https://www.catholicnewsagency.com/news/254923/diocese-of-syracuse-to-pay-100-dollars-million-to-trust-fund-for-survivors-of-child-sexual-abuse">Trong vụ án 400 nạn nhân bị lạm dụng tình dục, Giáo phận Syracuse (New York) </a></p>
 <p> phải trả 100 triệu đô la cho Qũy tín thác dành cho những người bị LINH MỤC cưỡng hiếp còn sống sót, chỉ hơn ba năm sau khi nộp đơn xin phá sản theo chương 11. Giáo phận sẽ đóng 50 triệu đô la, trong khi các giáo xứ sẽ đóng 45 triệu. Năm triệu đô la sẽ được đóng góp bởi các thực thể khác của giáo phận.</p>
 <p align="center"><img src="https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/TONGIAO/IMG/HOAKY/GP_Syracuse_NY.JPG" width="450" height="324" alt=""></p>
-<p class="TuaDenLeft">- July 19, 2023 - <a href="https://sachhiem.net/TONGIAO/FB/FBDaiThang06.php">Cựu linh mục ở New Orleans lãnh 25 năm về tội tấn công tình dục và hiếp dâm</a></p>
+<p class="TuaDenLeft">- July 19, 2023 - <a href="/TONGIAO/FB/FBDaiThang06">Cựu linh mục ở New Orleans lãnh 25 năm về tội tấn công tình dục và hiếp dâm</a></p>
 <p> - Một cựu linh mục Dòng Tên đã nhận tội phạm tội tình dục trong vùng và xung quanh New Orleans, trong đó ông ta bị buộc tội đánh thuốc mê và cưỡng hiếp 17 nạn nhân nam trưởng thành, nhiều người trong số họ đang đến thăm khu du lịch nổi tiếng.</p>
 <p class="TuaDenLeft">- June 2, 2023: Hàng trăm người chuẩn bị kiện Tổng giáo phận Công giáo Baltimore, Maryland, vì lạm dụng tình dục.</p>
 <p>(https://www.mainepublic.org/2023-06-02/hundreds-of-people-are-set-to-sue-the-catholic-archdiocese-of-baltimore-for-sex-abuse)</p>
@@ -187,4 +186,4 @@ Giáo phận Công giáo Peoria, bao gồm 26 quận trải dài từ Rock Islan
 <p>Hơn một chục luật sư đã xuất hiện trực tiếp hoặc hầu như trước Công lý Garrett Handrigan vào sáng thứ Tư tại Tòa án tối cao Newfoundland và Labrador.</p>
 <p>  <img src="https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/sqdot.gif" width="10" height="10"></p>
 
- <p><a href="https://sachhiem.net/TONGIAO/ListTinhDuc.inc.php"> Những bài về các tu sĩ TCG lạm dụng tình dục </a> </p>
+ <p><a href="/TONGIAO/ListTinhDuc.inc"> Những bài về các tu sĩ TCG lạm dụng tình dục </a> </p>

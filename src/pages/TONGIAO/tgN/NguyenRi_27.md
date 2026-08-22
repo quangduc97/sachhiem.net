@@ -3,7 +3,7 @@ layout: ../../../layouts/Article.astro
 title: "Hoan Hô Cách Mạng 1/11/63 Thành Công"
 author: "Ri Nguyễn và Trần Quang Diệu sưu tầm"
 date: 2016-09-12
-source: "https://sachhiem.net/TONGIAO/tgN/NguyenRi_27.php"
+source: "/TONGIAO/tgN/NguyenRi_27"
 category: "Tác giả"
 lang: vi
 wordCount: 1511
@@ -19,7 +19,7 @@ image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/LICHSU/IMG/NGODD/dan
 <p>  *** Sau này, trong cuộc phỏng vấn của Stanley  Karnow, sử gia chuyên về chiến tranh Việt Nam, hỏi <b>tổng thống Johnson</b> là ông có  tin rằng Diệm là "Winston Churchill (Thủ tướng Anh, góp phần thắng Đức  Quốc xã tại châu Âu) của Đông Nam Á" hay không; thì Johnson đã văng tục: </p>
 <p> "<i>Khốn kiếp, “Cứt”, Diệm chỉ là thằng  nhóc duy nhất chúng ta có [thể dùng] lúc đó. (Shit! Diem is the only boy we’ve  got out there</i>)"  - Nguyên văn: Shit! Diem is the only boy we’ve  got out there – Stanley Karnow, Vietnam a History, Edition King Press 1983,  trang 214 </p>
 <p class="TacgiaL">  RI NGUYỄN </p>
-<p>Cùng đề tài, ngày này năm xưa: <a href="https://sachhiem.net/index.php?content=showemail&amp;id=1799">Khi Nhớ Về Ngô Đình Diệm - Hoan Hô Cách Mạng 1-11-1963 Thành Công!</a></p>
+<p>Cùng đề tài, ngày này năm xưa: <a href="/hop-thu/1799">Khi Nhớ Về Ngô Đình Diệm - Hoan Hô Cách Mạng 1-11-1963 Thành Công!</a></p>
 <p>________________________________</p>
 <p>Subject: Đảo chánh Ngô Đình Diệm 1.11.1963 <br>
   From: Tran Quang Dieu &lt;tranquangdieu@hotmail.com&gt; <br>
@@ -40,14 +40,14 @@ Cuộc đảo chính tại Nam Việt Nam năm 1963 là cuộc đảo chính qu�
 
 <p><b>2. Hai Bức Thư Và Những Tấm Ảnh Xác Nhận Tư Cách Họ Ngô&nbsp;</b>: <b>Phản Thần - Phản Quốc - Trên Đội Dưới Đạp</b></p>
 <p>Trong hàng rừng tài liệu về nhân vật lịch sử gia đình trị họ Ngô, lưu danh là Tam Đại Việt Gian, có môt vài sự kiện dễ ghi nhớ. Nhân đến ngày kỷ niệm hạ bệ nhà lãnh đạo độc tài và tàn ác nổi danh này, xin ghi lại một vài hình ảnh nổi bật, có thể tóm gọn tư cách của ông: Phản Thần - Phản Quốc - Trên Đội Dưới Đạp....</p>
-<p>Xem tiếp:<a rel="nofollow" shape="rect" target="_blank" href="https://www.sachhiem.net/LICHSU/TR/TQD54.php"> https://sachhiem.net/LICHSU/TR/TQD54.php</a></p>
+<p>Xem tiếp:<a rel="nofollow" shape="rect" target="_blank" href="/LICHSU/TR/TQD54"> https://sachhiem.net/LICHSU/TR/TQD54.php</a></p>
 <p><b>3. Những biến cố nghiêm trọng khi Ngô Đình Diệm cầm quyền tại Nam Việt Nam</b></p>
 <p>“Lần thứ nhất,&nbsp;Tướng Nguyễn Văn Hinh cuối năm 1954 bao vây Dinh Độc Lập, chiếm đài phát thanh, chỉ hằng ngày cho phát thanh chửi rủa gia đình họ Ngô nhưng không làm gì hơn nữa nên người ta gọi “đó là cuộc đảo chánh rùa bò”. </p>
 <p>Lần thứ hai,&nbsp;Tướng Nguyễn Văn Vỹ đảo chánh ngày 1.1.1955. Lấn thứ ba,&nbsp;ông Hà Minh Trí (Cao Đài) ám sát hụt Tổng Thống Diệm ngày 21.2.1957 tại Hội Chợ Buôn Mê Thuột. </p>
 <p>Lần thứ tư,&nbsp;Đại Tá Nguyễn Chánh Thi và Đại Tá Vương Văn Đông với cuộc đảo chánh ngày 11.11.1960 - mà Trung Tá Nhảy Dù Phan Trọng Chinh khi đứng trước vành móng ngựa đã dõng dạc tuyên bố: “Nếu tôi chỉ huy, tôi đã đánh rốc vào dinh Độc Lập đêm 11.11. chứ không chần chờ bỏ lỡ cơ hội”. </p>
 <p>Lần thứ năm,&nbsp;hai phi công Phạm Phú Quốc và Nguyễn Văn Cử lái chiến đấu cơ giội bom xuống Dinh Độc Lập sáng ngày 27.2.1962. </p>
 <p>Lần thứ sáu,&nbsp;đảo chánh thành công bởi một tập đoàn Tướng, Tá và binh sĩ- hùng hậu nhất từ trước, bắt đầu từ chiều ngày 1.11.1963 đến sáng ngày 2.11.1963 thì kết thúc chế độ.” </p>
-<p>Xem tất cả: <a target="_blank" href="https://www.sachhiem.net/index.php?content=showemail&amp;id=520"> Tóm Tắt Các Cuộc Lật Đổ Ngô Đình Diệm </a></p>
+<p>Xem tất cả: <a target="_blank" href="/hop-thu/520"> Tóm Tắt Các Cuộc Lật Đổ Ngô Đình Diệm </a></p>
 <p><b>4. Sự cương quyết của Quân đội đối với việc cần phải đảo chánh Ngô Đình Diệm</b></p>
 <p> *&nbsp;“…nói làm sao cho anh em quân nhân và đồng bào hiểu mình đang tìm cách  hạ một chính quyền đang bị dân oán hận!”&nbsp; </p>
 <p>*&nbsp;“…chúng tôi cúi đầu nhẫn nhục chờ ngày không xa chúng tôi  sẽ trả lời với mọi người bằng hành động.” </p>
@@ -63,8 +63,8 @@ Cuộc đảo chính tại Nam Việt Nam năm 1963 là cuộc đảo chính qu�
 <p><b>Cho nên:</b></p>
 <p>*&nbsp;“Không phải đợi đến sáng ngày 2 tháng 11, dân chúng mới  tràn ra đường, mà mọi người đã ra đường hoan hô quân đảo chánh ngay trong lúc  súng nổ, trong lúc tấn công thành Cộng Hòa. <br>
   Đêm 1 tháng 11, chúng tôi ra lịnh giới nghiêm từ lúc 8 giờ tối  tới 6 giờ sáng, vì không cho dân chúng ra đường sợ lạc đạn, vậy mà đồng bào vẫn  ra đường theo sau quân đảo chánh để ủng hộ tinh thần. Sáng ngày 2 tháng 11, dân  chúng Sài gòn tràn ra đường vui mừng hoan hô&nbsp;<b>Quân Đội đã lật đổ</b>&nbsp;<b>một  chế độ độc tài gia đình trị.</b>&nbsp;<b>Chúng tôi không làm sao quên được  những nét mặt hân hoan, những đôi mắt ngời sáng, những cánh tay đưa cao và  những tiếng hoan hô quân cách mạng vào ngày 2 tháng 11 đó.”</b>&nbsp;(Trung Tướng&nbsp;Trần Văn Đôn, “Việt Nam  Nhân Chứng”, Xuân Thu, USA, 1989...). </p>
-<p>[trích <a href="https://sachhiem.net/LICHSU/TR/TQD50.php">https://sachhiem.net/LICHSU/TR/TQD50.php</a>]</p>
+<p>[trích <a href="/LICHSU/TR/TQD50">https://sachhiem.net/LICHSU/TR/TQD50.php</a>]</p>
 <p>_____________________</p>
   <p>Các bài của Nguyễn Ri: link</p>
 <p>
-<a href="https://sachhiem.net/TONGIAO/tgN/ListRiNguyen.inc.php" target="_blank">https://sachhiem.net/TONGIAO/tgN/ListRiNguyen.inc.php</a></p>
+<a href="/TONGIAO/tgN/ListRiNguyen.inc" target="_blank">https://sachhiem.net/TONGIAO/tgN/ListRiNguyen.inc.php</a></p>

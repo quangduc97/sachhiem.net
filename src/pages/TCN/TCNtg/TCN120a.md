@@ -3,19 +3,19 @@ layout: ../../../layouts/Article.astro
 title: "Quan Niệm Giải Thoát"
 author: "Trần Chung Ngọc"
 date: 2012-02-08
-source: "https://sachhiem.net/TCN/TCNtg/TCN120a.php"
+source: "/TCN/TCNtg/TCN120a"
 category: "Tác giả"
 lang: vi
 wordCount: 14250
-image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nha.jpg"
+image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/TONGIAO/IMG/HoaSen.gif"
 ---
 
 <table border="0" width="250" align="center">
- <tbody><tr><td width="100"><a href="/index"><img border="0" src="https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nha.jpg"></a></td>
+ <tbody><tr><td width="100"></td>
     <td valign="top" width="189"></td>
     </tr></tbody></table>
 <p><a href="https://sachhiem. net/TCN/TCNtg/TCN120.php"><span class="Gry"> 1.</span></a> &nbsp;<span class="Gry">2.</span></p>
-    <p><a href="https://sachhiem.net/TCN/TCNtg/TCN120.php">(&lt;--- xem phần trước)</a></p>
+    <p><a href="/TCN/TCNtg/TCN120">(&lt;--- xem phần trước)</a></p>
        <p class="MUC">&nbsp;IV. Giáo Lý Giải Thoát Trong Phật Giáo: </p>
        <p> Sau đây tôi xin sang phần trình bày về giáo lý giải thoát
     trong Phật Giáo theo sự hiểu biết của tôi, và tất nhiên còn nhiều
@@ -332,7 +332,7 @@ image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nha.jpg"
     được con người mãi mãi. </p>
 <p>
     Thông tin mới nhất: Tin VOA/ Lisa Bryan, Xin đọc bài:  &nbsp;<i>Châu
-    Âu:  Số Người Rời Bỏ Tôn Giáo Ngày Càng Đông</i> [<a href="https://www.sachhiem.net/index.php? content=showrecipe&amp;id=5197">https://www. sachhiem. net/index. php? content=showrecipe&amp;id=5197</a>]
+    Âu:  Số Người Rời Bỏ Tôn Giáo Ngày Càng Đông</i> [<a href="/TONGIAO/tgT/TinVOA">https://www. sachhiem. net/index. php? content=showrecipe&amp;id=5197</a>]
     trong đó chúng ta thấy một hiện tu7o75ngla5 xẩy ra trong Ki Tô
     Giáo:  đó là tín đồ không những bỏ đạo còn chính thức xóa bỏ hiệu
     lực của cái gọi là “bí tích rửa tội”, đòi nhà thờ phải bỏ tên

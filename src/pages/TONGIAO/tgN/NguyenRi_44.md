@@ -3,15 +3,14 @@ layout: ../../../layouts/Article.astro
 title: "Giáo Hoàng Francis I Cảnh Báo Về Sự Suy Tàn Của Ki-tô Giáo"
 author: "Ri Nguyễn sưu tầm"
 date: 2019-12-24
-source: "https://sachhiem.net/TONGIAO/tgN/NguyenRi_44.php"
+source: "/TONGIAO/tgN/NguyenRi_44"
 category: "Chính trị"
 lang: vi
 wordCount: 908
-image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nha.jpg"
+image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/TONGIAO/IMG/VATICAN/POPE/FrancisI_24Dec2019.JPG"
 ---
 
-<p align="center"><a href="https://www.sachhiem.net/">
-<img border="0" src="https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nha.jpg"></a> 
+<p align="center"> 
 ngày 24-Dec-2019</p> 
 <p>Ánh sáng khoa học đã và  đang làm cho tín lý của Kitô giáo phá sản.</p>
 <p>Kitô giáo phát triển và bành trướng từ Âu Châu. Nay sự  suy tàn cũng bắt đầu từ Âu Châu. Mời quí vị lướt qua các bản tin hôm nay 23, 24 Dec 2019.</p>
@@ -47,4 +46,4 @@ ngày 24-Dec-2019</p>
 </p>
  <p>_____________________</p>
  <p>Các bài của Nguyễn Ri: link</p>
- <p> <a href="https://sachhiem.net/TONGIAO/tgN/ListRiNguyen.inc.php" target="_blank">https://sachhiem.net/TONGIAO/tgN/ListRiNguyen.inc.php</a></p>
+ <p> <a href="/TONGIAO/tgN/ListRiNguyen.inc" target="_blank">https://sachhiem.net/TONGIAO/tgN/ListRiNguyen.inc.php</a></p>

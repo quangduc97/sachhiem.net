@@ -3,7 +3,7 @@ layout: ../../../layouts/Article.astro
 title: "CIA Giải Mật Hồ Sơ Về Chính Biến 1/11/1963"
 author: "Nguyên Giác sưu tầm"
 date: 2019-10-16
-source: "https://sachhiem.net/SACHNGOAI/snN/Nguyengiac_AiGietNDD.php"
+source: "/SACHNGOAI/snN/Nguyengiac_AiGietNDD"
 category: "Lịch sử"
 lang: vi
 wordCount: 3503

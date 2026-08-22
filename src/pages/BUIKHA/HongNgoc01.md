@@ -3,7 +3,7 @@ layout: ../../layouts/Article.astro
 title: "Thánh Kinh: Cựu Ước Và Tân Ước"
 author: "Hồng Ngọc"
 date: 2012-05-31
-source: "https://sachhiem.net/BUIKHA/HongNgoc01.php"
+source: "/BUIKHA/HongNgoc01"
 category: "Tác giả"
 lang: vi
 wordCount: 3981

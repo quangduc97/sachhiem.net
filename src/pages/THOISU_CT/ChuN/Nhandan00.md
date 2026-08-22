@@ -3,16 +3,16 @@ layout: ../../../layouts/Article.astro
 title: "Kẻ Bất Lương \"Đầu Cơ Chính Trị\""
 author: "Hoài An/ báo Nhân Dân"
 date: 2012-09-11
-source: "https://sachhiem.net/THOISU_CT/ChuN/Nhandan00.php"
+source: "/THOISU_CT/ChuN/Nhandan00"
 category: "Chính trị"
 lang: vi
 wordCount: 2394
-image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nha.jpg"
+image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/THOISU_CT/Hinh/CCCB/NgDinhThang_Nhandan00.jpg"
 ---
 
 <table border="0" cellpadding="0" width="250" align="center">
             <tbody><tr>
-              <td width="125"><a href="/index"><img border="0" src="https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nha.jpg"></a></td>
+              <td width="125"></td>
               <td valign="middle">11-Sep-2012</td>
             </tr>
           </tbody></table>

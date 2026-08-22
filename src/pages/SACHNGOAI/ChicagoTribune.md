@@ -3,7 +3,7 @@ layout: ../../layouts/Article.astro
 title: "Bishops vs. Obama"
 author: "Chicagotribune.com"
 date: 2008-11-11
-source: "https://sachhiem.net/theo Chicagotribune.com, November 18, 2008."
+source: "/theo Chicagotribune.com, November 18, 2008."
 category: "Tác giả"
 lang: en
 wordCount: 1177
@@ -29,7 +29,7 @@ image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nhacu.jpg"
 <table border="2" cellpadding="50" cellspacing="0" width="100%" topmargin="10"> 
 	<tbody><tr><td bgcolor="White" align="justify" valign="top">
 <table border="0" cellpadding="10" width="100%" cols="3"><tbody><tr>
- <td><a href="https://sachhiem.net/"><img border="0" src="https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nhacu.jpg"></a></td>
+ <td><a href="/"><img border="0" src="https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nhacu.jpg"></a></td>
 
 	<td valign="top"><i><a href="/SACHNGOAI/#" onclick="location.href='https://sachhiem.net/BIA/sendafriend.php?url='+location.href;">
 	<font color="#606060" size="2"><img src="https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/SACHNGOAI/file:///C:/SACHHIEM/images/mail.gif" border="0"> 

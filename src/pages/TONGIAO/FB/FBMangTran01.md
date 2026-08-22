@@ -3,7 +3,7 @@ layout: ../../../layouts/Article.astro
 title: "Vì Sao Công Giáo Chống Cộng Sản, và Cả Phật Giáo?"
 author: "Mảng Trần"
 date: 2022-08-23
-source: "https://sachhiem.net/TONGIAO/FB/FBMangTran01.php"
+source: "/TONGIAO/FB/FBMangTran01"
 category: "Chính trị"
 lang: vi
 wordCount: 1295

@@ -3,7 +3,7 @@ layout: ../../../layouts/Article.astro
 title: "Những Chuyện Kể Của Phượng Hoàng GV"
 author: "Phượng Hoàng GV"
 date: 2015-10-06
-source: "https://sachhiem.net/LICHSU/P/PhuongHoang02.php"
+source: "/LICHSU/P/PhuongHoang02"
 category: "Lịch sử"
 lang: vi
 wordCount: 1774
@@ -74,5 +74,5 @@ Date: Thu, 8 Oct 2015 10:22:19 -0500</p>
      phạm hoàng vương</p>
    <p>Oct.8-2015</p>
 <p>___________________________________</p>
- <p>Các chuyện kể của Phượng Hoàng Gò Vấp: link <a href="https://sachhiem.net/LICHSU/P/ListPHGV.inc.php" target="_blank">https://sachhiem.net/LICHSU/N/ListPHGV.inc.php</a></p>  
+ <p>Các chuyện kể của Phượng Hoàng Gò Vấp: link <a href="/LICHSU/P/ListPHGV.inc" target="_blank">https://sachhiem.net/LICHSU/N/ListPHGV.inc.php</a></p>  
   <hr>

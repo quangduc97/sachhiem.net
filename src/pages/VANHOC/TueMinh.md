@@ -3,7 +3,7 @@ layout: ../../layouts/Article.astro
 title: "Về Bài Thơ \"Thân Phận Kiểng\""
 author: "Tuệ Minh- Thích Phước Toàn"
 date: 2017-01-16
-source: "https://sachhiem.net/VANHOC/TueMinh.php"
+source: "/VANHOC/TueMinh"
 category: "Chính trị"
 lang: vi
 wordCount: 2335

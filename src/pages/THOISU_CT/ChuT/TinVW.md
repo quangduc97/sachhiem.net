@@ -2,7 +2,7 @@
 layout: ../../../layouts/Article.astro
 title: "với Micheal Burr"
 author: "ETCETERA"
-source: "https://sachhiem.net/nguồn: https://65.45.193.26:8026/cms/acct/vietweekly/issues/vw9n06/michaelBurr.html"
+source: "/nguồn: https://65.45.193.26:8026/cms/acct/vietweekly/issues/vw9n06/michaelBurr.html"
 category: "Chính trị"
 lang: vi
 wordCount: 1524
@@ -36,7 +36,7 @@ image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nhacu.jpg"
 <table border="0" cellpadding="0" cellspacing="0" topmargin="10"> 
 	<tbody><tr><td align="justify" valign="top">
 		<table border="0" cellpadding="10" width="80%" cols="2"><tbody><tr>
-		<td width="129"><a href="https://sachhiem.net/"><img border="0" src="https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nhacu.jpg" width="49" height="20"></a></td>
+		<td width="129"><a href="/"><img border="0" src="https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nhacu.jpg" width="49" height="20"></a></td>
 				
 	<td valign="top">	<font color="#606060" size="2">07 tháng 2, 2009	</font>
 	</td></tr></tbody></table>

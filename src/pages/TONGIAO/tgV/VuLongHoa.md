@@ -3,7 +3,7 @@ layout: ../../../layouts/Article.astro
 title: "Vài Sưu Tầm Nhân Chuyến Thăm Sắp Tới Của Giáo Hoàng"
 author: "Vũ Long Hoa"
 date: 2015-09-19
-source: "https://sachhiem.net/TONGIAO/tgV/VuLongHoa.php"
+source: "/TONGIAO/tgV/VuLongHoa"
 category: "Chính trị"
 lang: vi
 wordCount: 1887
@@ -38,7 +38,7 @@ image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/TONGIAO/IMG/HOAKY/Ki
 
 <p><span class="green">4.</span> Linh  mục &nbsp;hiếp dâm - chỉ cần tin <b><i>&nbsp;Jesus </i></b>thì không có tội ! </p>
 <p>- <a href="https://images.search.yahoo.com/search/images;_ylt=AwrSbmngQAhVnsQAAh1XNyoA;_ylu=X3oDMTEzcWFyN25wBGNvbG8DZ3ExBHBvcwMzBHZ0aWQDU01FOTU3XzEEc2VjA3Nj?p=Charlie+Hebdo+Cartoons+In+English&amp;fr=ush-mailn_02" target="_blank" shape="rect">Hình vẽ Cartoons của báo Charlie Hebdo </a></p>
-<p>-  <a href="https://sachhiem.net/TONGIAO/tgD/DangTinNghia.php" target="_blank" shape="rect">Kitô Giáo Đang Chết Ở Anh, Ở Pháp</a> </p>
+<p>-  <a href="/TONGIAO/tgD/DangTinNghia" target="_blank" shape="rect">Kitô Giáo Đang Chết Ở Anh, Ở Pháp</a> </p>
    <p align="center"><img src="https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/TONGIAO/IMG/TINHDUC/lmMichael_Fugee_NJ.jpg" width="350" height="289" alt="Linh mục Michael Fugee trong tòa vì vi phạm thỏa thuận không làm việc với trẻ con"> </p>
    <p>- Linh mục Michael Fugee trong tòa vì vi phạm thỏa thuận không làm việc với trẻ con <a href="https://www.nytimes.com/2013/05/26/nyregion/newark-monsignor-loses-job-for-improperly-monitoring-priest-near-children.html?_r=4&amp;" target="_blank" shape="rect">(Rev. Michael Fugee appeared in court on Tuesday on charges that he had broken an agreement to never work with children)</a> , (<a href="https://www.catholic.org/news/national/story.php?id=51120">Vicar general resigns following arrest of priest in New Jersey</a>)</p>
    <p align="center"><img src="https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/TONGIAO/IMG/TINHDUC/Drunkpriest.JPG" width="189" height="285" alt="Drunk Priest's Jail Cell Sermon, Part Two"></p>

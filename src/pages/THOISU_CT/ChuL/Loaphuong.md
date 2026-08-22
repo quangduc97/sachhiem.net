@@ -3,7 +3,7 @@ layout: ../../../layouts/Article.astro
 title: "Đừng Yêu Lính Bằng Lời !"
 author: "Nhạn Biển/ Loa Phường"
 date: 2014-06-03
-source: "https://sachhiem.net/THOISU_CT/ChuL/Loaphuong.php"
+source: "/THOISU_CT/ChuL/Loaphuong"
 category: "Tác giả"
 lang: vi
 wordCount: 970

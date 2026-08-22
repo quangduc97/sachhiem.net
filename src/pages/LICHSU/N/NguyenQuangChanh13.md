@@ -2,17 +2,14 @@
 layout: ../../../layouts/Article.astro
 title: "H.63 Và Duyên Nợ"
 author: "Nguyễn Quang Chánh"
-source: "https://sachhiem.net/LICHSU/N/NguyenQuangChanh13.php"
+source: "/LICHSU/N/NguyenQuangChanh13"
 category: "Lịch sử"
 lang: vi
 wordCount: 243
-image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nha.jpg"
+image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/sqdot.gif"
 ---
 
-<p align="center"><a href="https://www.sachhiem.net/">
-<img border="0" src="https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nha.jpg"></a> 
-</p>
- <div class="tomluoc">
+<div class="tomluoc">
    <p><i>Đạo diễn Charlie Nguyễn sẽ làm cuốn phim về nhà tình báo Phạm Xuân Ẩn trong nay mai </i></p>
  </div> 
  

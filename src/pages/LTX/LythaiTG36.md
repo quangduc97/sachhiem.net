@@ -3,7 +3,7 @@ layout: ../../layouts/Article.astro
 title: "Tự Do Tôn Giáo Ở Âu Mỹ và ở Việt Nam Khác Biệt Thế Nào?"
 author: "Lý Thái Xuân"
 date: 2022-12-05
-source: "https://sachhiem.net/LTX/LyThaiTG36.php"
+source: "/LTX/LyThaiTG36"
 category: "Chính trị"
 lang: vi
 wordCount: 9688
@@ -56,7 +56,7 @@ image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/TONGIAO/IMG/HOAKY/US
   </p>
 <p>(xem Phụ Bản "Những Cuộc Phá Hoại Các Nhà Thờ Ki-tô Giáo Ở Mỹ trong 3 Năm Qua")</p>
 <p align="center">***</p>
-<p>Đối với những vấn đề phá hoại như trên, chính quyền chỉ có thể xử lý riêng lẽ mà thôi, chứ không thể tiêu diệt hay ngăn chặn sự căm ghét của quần chúng đối với tập đoàn tôn giáo Vatican. Nhưng, đối với những tổ chức tôn giáo có sinh hoạt không được bình thường, sự can thiệp của chính quyền đều dẫn đến bạo lực để triệt hạ nhanh gọn. "Không bình thường" có thể là vi phạm vấn đề tình dục, tàn nhẫn đối với đàn bà trẻ con, hay tàng trữ vũ khí ...,  Và những cuộc trừng trị bằng bạo lực để tiêu diệt những nhóm tôn giáo lạ đó đều được chính quyền xem như là vấn đề trị an, và không có một quốc gia nào trên thế giới lên án hay sắp hạng nước Mỹ vào danh sách nào hết. Xin đọc bài: "<a href="https://sachhiem.net/LTX/LythaiTG36A.php">Các Câu Chuyện Về Tôn Giáo Lạ ở Mỹ Trong Thế Kỷ 20</a>" của Lý Thái Xuân để có những thí dụ chứng minh cụ thể.</p>
+<p>Đối với những vấn đề phá hoại như trên, chính quyền chỉ có thể xử lý riêng lẽ mà thôi, chứ không thể tiêu diệt hay ngăn chặn sự căm ghét của quần chúng đối với tập đoàn tôn giáo Vatican. Nhưng, đối với những tổ chức tôn giáo có sinh hoạt không được bình thường, sự can thiệp của chính quyền đều dẫn đến bạo lực để triệt hạ nhanh gọn. "Không bình thường" có thể là vi phạm vấn đề tình dục, tàn nhẫn đối với đàn bà trẻ con, hay tàng trữ vũ khí ...,  Và những cuộc trừng trị bằng bạo lực để tiêu diệt những nhóm tôn giáo lạ đó đều được chính quyền xem như là vấn đề trị an, và không có một quốc gia nào trên thế giới lên án hay sắp hạng nước Mỹ vào danh sách nào hết. Xin đọc bài: "<a href="/LTX/LythaiTG36A">Các Câu Chuyện Về Tôn Giáo Lạ ở Mỹ Trong Thế Kỷ 20</a>" của Lý Thái Xuân để có những thí dụ chứng minh cụ thể.</p>
 <p class="TuaDenLeft">Phần II: Ki-tô La Mã Ở Việt Nam Hành Xử Tự Do Tôn Giáo Như Thế Nào? </p>
 <p>- <b>Ngày 15/8/2008:</b> Giáo xứ Thái Hà huy động hàng trăm giáo dân sử dụng phương tiện đập đổ 8m tường rào khu đất của Công ty cổ phần May Chiến Thắng; lát gỗ cốp pha tạo lối đi, đưa thêm 2 bức tượng Đức Mẹ và Thánh giá rồi tổ chức nhiều thanh niên, giáo dân túc trực sẵn sàng cản trở nếu các lực lượng của các ngành chức năng thực thi nhiệm vụ. </p>
 <p align="center"><img src="https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/TONGIAO/IMG/Thaiha/TreoAnh_ngoaiduong.PNG" width="600" height="409" alt=""></p>
@@ -123,7 +123,7 @@ image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/TONGIAO/IMG/HOAKY/US
 <p>So sánh những sự bài xích, chống đối Ki-tô La Mã ở nhiều nước Âu Mỹ, và những sự chống đối chính quyền của các giáo xứ ở Việt Nam từ mấy chục năm qua, ta thấy có một nghịch lý rõ rệt về khái niệm tự do tôn giáo. </p>
 <p>Ở Âu Mỹ, dân chúng phản đối Giáo Hoàng, một biểu tượng cho Giáo hội Ki-tô La Mã với dày đặc những tội lỗi chất chồng từ trong lịch sử ra tới hiện đại. Không là tội diệt chủng, thì cũng là tội gây thánh chiến, tiêu diệt tôn giáo bạn, không là tội thánh chiến thì cũng là tội ấu dâm, và bao che tội phạm, không là tội ấu dâm thì cũng là vấn đề giáo sĩ độc thân, vấn đề kỳ thị đồng tính,... Tất cả đều là những vấn đề mà giáo hội Ki-tô La-mã luôn luôn đóng vai bị cáo.</p>
 <p>Ở Việt Nam, lẽ ra các "tội danh" trên vẫn có thể áp đặt trên hình ảnh Ki-tô giáo, nhưng dường như chính sách "tự do tôn giáo" ở Việt Nam lại được hiểu một cách quá lệch lạc, đâm ra tồn tại một sự nghịch lý khó hiểu. Khái niệm kỳ lạ của tự do tôn giáo ở Việt Nam trở thành chiếc thuẫn đỡ, bao che các tội lỗi  của giáo hội đối với lịch sử Việt Nam, cho phép các tội nhân này trở thành kiêu dân, hành hạ ngược lại đối với  chính quyền và các tôn giáo khác. Thay vào đó, các linh mục trở thành các lãnh chúa, thay mặt giáo dân để đứng lên đối chất với chính quyền về tất cả mọi vấn đề, không những về tranh chấp đất đai, hay phô trương tôn giáo, mà còn là xã hội, kinh tế, chính trị... Hiện tượng lấn lướt này đã đến lúc báo động vì nhiều nơi, chính quyền có vẻ bất lực.. </p>
-<p>Trong khi ở Âu Mỹ, đối với những tôn giáo có sinh hoạt không được bình thường,  sự can thiệp của chính quyền đều dẫn đến bạo lực để triệt hạ nhanh gọn. Và những hành xử như thế đều được chính quyền xem như là vấn đề trị an, và không có một quốc gia nào trên thế giới lên án hay sắp hạng nước Mỹ vào danh sách nào hết. Xin đọc bài: "<a href="https://sachhiem.net/LTX/LythaiTG36A.php">Các Câu Chuyện Về Tôn Giáo Lạ ở Mỹ Trong Thế Kỷ 20</a>" của Lý Thái Xuân để có những thí dụ chứng minh cụ thể. </p>
+<p>Trong khi ở Âu Mỹ, đối với những tôn giáo có sinh hoạt không được bình thường,  sự can thiệp của chính quyền đều dẫn đến bạo lực để triệt hạ nhanh gọn. Và những hành xử như thế đều được chính quyền xem như là vấn đề trị an, và không có một quốc gia nào trên thế giới lên án hay sắp hạng nước Mỹ vào danh sách nào hết. Xin đọc bài: "<a href="/LTX/LythaiTG36A">Các Câu Chuyện Về Tôn Giáo Lạ ở Mỹ Trong Thế Kỷ 20</a>" của Lý Thái Xuân để có những thí dụ chứng minh cụ thể. </p>
 <p>Mặt khác, dù rằng là những quốc gia mà đại đa số là Ki-tô giáo, tất cả hoạt động tôn gíao đều chỉ nằm trong khuôn viên nhà thờ, thì ở Việt Nam, nơi mà Ki-tô giáo chiếm thiểu số, thì các sinh hoạt của Ki-tô giáo lại đòi phô trương ra tất cả các đường phố của dân ngoại! Như thế mới là tự do tôn giáo hay sao?</p>
 <p>Do đó, việc Ủy ban Tự do Tôn giáo Quốc tế Hoa Kỳ (USCIRF) đưa Việt Nam vào 'Danh sách Theo dõi Đặc biệt' (Special Watch List)  về quyền tự do tôn giáo là một việc đánh giá hoàn toàn vô căn cứ. Chúng tôi cực lực phản đối. Nhất là cơ quan này, USCIRF, chỉ đặc biệt theo dõi các nước Á Châu, còn bên Âu Tây và Trung Đông thì lờ tịt. Xem bản đồ của USCIRF.</p>
 <p align="center"><img src="https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/TONGIAO/IMG/HOAKY/USCIRF2022_Countries.PNG" width="500" height="313" alt=""></p>
@@ -132,7 +132,7 @@ image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/TONGIAO/IMG/HOAKY/US
 <p class="TacgiaL">Lý Thái Xuân </p>
 
 <p><b>Bài đọc thêm:</b></p>
-<p>-  "<a href="https://sachhiem.net/LTX/LythaiTG36A.php">Các Câu Chuyện Về Tôn Giáo Lạ ở Mỹ Trong Thế Kỷ 20</a>" của Lý Thái Xuân</p>
+<p>-  "<a href="/LTX/LythaiTG36A">Các Câu Chuyện Về Tôn Giáo Lạ ở Mỹ Trong Thế Kỷ 20</a>" của Lý Thái Xuân</p>
 
 <p class="TuaChuong">___________</p>
 <p class="TuaChuong">PHỤ BẢN:</p>

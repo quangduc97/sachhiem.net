@@ -2,17 +2,16 @@
 layout: ../../../layouts/Article.astro
 title: "Âm Mưu Ngăn Chận Ảnh Hưởng của Phật Giáo (Nguyễn Trí Cảm)"
 author: "Nguyễn Trí Cảm"
-source: "https://sachhiem.net/TONGIAO/NGTRCAM/NguyenTriCam18.php"
+source: "/TONGIAO/NGTRCAM/NguyenTriCam18"
 category: "Tác giả"
 lang: vi
 wordCount: 2786
-image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nha.jpg"
+image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/IMG/CHUA/TrucLamPhuongHoangDaLat.jpg"
 ---
 
 <table border="0" cellpadding="0" width="250" align="center"><tbody><tr>
 				<td width="125">
-				<a href="/index">
-				<img border="0" src="https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nha.jpg"></a></td>
+				</td>
 	<td valign="top">09 tháng 4, 2010	</td></tr></tbody></table>
 			<p class="MsoNormal">Sự phát triển của Phật giáo ở qui mô quốc gia 
 			trong những năm gần đây là mốc son rất đáng tự hào trong lịch sử 
@@ -227,7 +226,7 @@ image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nha.jpg"
 			<p class="TacgiaL">Nguyễn Trí Cảm</p>
 			
 	<p class="TuaDenLeft">Các bài cùng đề tài:</p>
-	<p><a href="https://sachhiem.net/TONGIAO/tgN/NGTRCAM/NguyenTriCam18.php">- Âm Mưu Ngăn Chận Ảnh Hưởng của Phật Giáo</a></p>
+	<p><a href="/TONGIAO/tgN/NGTRCAM/NguyenTriCam18">- Âm Mưu Ngăn Chận Ảnh Hưởng của Phật Giáo</a></p>
 	<p><a href="/TCN/TCNtg/TCN96">- Tản Mạn Xung Quanh Cuộc Nghinh Rước Xá Lợi Phật (Trần Chung Ngọc)</a></p>
 	
 <hr>

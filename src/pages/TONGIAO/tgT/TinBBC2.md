@@ -3,16 +3,16 @@ layout: ../../../layouts/Article.astro
 title: "Giáo Hội Công Giáo Lạc Hậu Đến 200 Năm"
 author: "Tin BBC"
 date: 2012-12-22
-source: "https://sachhiem.net/TONGIAO/tgT/TinBBC2.php"
+source: "/TONGIAO/tgT/TinBBC2"
 category: "Tác giả"
 lang: vi
 wordCount: 745
-image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nha.jpg"
+image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/TONGIAO/IMG/VATICAN/Card_Carlo_m_Martini.jpg"
 ---
 
 <table border="0" cellpadding="0" width="250" align="center">
             <tbody><tr>
-              <td width="125"><a href="/index"><img border="0" src="https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nha.jpg"></a></td>
+              <td width="125"></td>
        <td>
 			</td></tr></tbody></table>
 			<p><b>Hồng y giáo chủ người Ý Carlo Maria Martini đã mô tả Giáo hội

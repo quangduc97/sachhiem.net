@@ -3,7 +3,7 @@ layout: ../../../layouts/Article.astro
 title: "Hai Bức Thư Đi Vào Lịch Sử"
 author: "Nam Giao"
 date: 2014-10-29
-source: "https://sachhiem.net/LICHSU/N/Namgiao_01.php"
+source: "/LICHSU/N/Namgiao_01"
 category: "Tác giả"
 lang: vi
 wordCount: 2645

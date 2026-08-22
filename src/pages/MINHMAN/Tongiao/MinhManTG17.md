@@ -2,13 +2,12 @@
 layout: ../../../layouts/Article.astro
 title: "NỔI BUỒN CHÊNH VÊNH"
 author: "Minh Mẫn"
-source: "https://sachhiem.net/MINHMAN/Tongiao/MinhManTG17.php"
+source: "/MINHMAN/Tongiao/MinhManTG17"
 lang: vi
 wordCount: 3304
-image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nha.jpg"
 ---
 
-<p align="center"><a href="https://www.sachhiem.net/"> <img border="0" src="https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nha.jpg"> </a>  19 tháng 8, 2007	</p>
+<p align="center">  19 tháng 8, 2007	</p>
 
 	<p><font face="Vivaldi" size="6">H</font>òa Thượng Thiền sư Thich Nhất Hạnh, 
 	sau khi vào thành phố HCM vào ngày 23/01/2005, bắt tay vào làm việc, thăm 

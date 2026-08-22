@@ -3,7 +3,7 @@ layout: ../../../layouts/Article.astro
 title: "Nguồn gốc Việt Nam của tên 12 con giáp - Thân Khôn Khọn (khỉ)"
 author: "Nguyễn Cung Thông"
 date: 2016-02-01
-source: "https://sachhiem.net/VANHOC/NGCGTHG/NguyenCungThong09.php"
+source: "/VANHOC/NGCGTHG/NguyenCungThong09"
 category: "Văn hóa"
 lang: vi
 wordCount: 2534

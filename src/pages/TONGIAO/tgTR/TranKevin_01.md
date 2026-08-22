@@ -3,14 +3,14 @@ layout: ../../../layouts/Article.astro
 title: "Người Hướng Dẫn Ông Obama Ở Chùa Ngọc Hoàng Kể Gì ?"
 author: "Sưu tầm của Kevin Trần"
 date: 2016-05-25
-source: "https://sachhiem.net/TONGIAO/tgK/TranKevin_01.php"
+source: "/TONGIAO/tgK/TranKevin_01"
 category: "Tác giả"
 lang: vi
 wordCount: 2002
-image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nha.jpg"
+image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.devhttps://img.v3.news.zdn.vn/w660/Uploaded/pcwvopbb/2016_05_25/IMG_4548.jpg"
 ---
 
-<p align="center"><a href="https://www.sachhiem.net/"> <img border="0" src="https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nha.jpg"></a> ngày 25-May-2016</p>
+<p align="center"> ngày 25-May-2016</p>
   <p> <span class="First">G</span>ần đây, <a href="https://vntinnhanh.vn/noi-mang/dang-sau-loi-tu-choi-cau-con-trai-o-chua-ngoc-hoang-cua-ong-obama-102778"> trên mạng xã hội</a>,  đã có một số phần tử hoặc ngộ nhận hoặc cố tình xuyên tạc  chuyến viếng thăm chùa  Ngọc Hoàng của Tổng thống Obama tại Sài Gòn ngày  24/5/2016. Họ tung tin  rằng: <b>(1)</b> Đây là chùa Tàu thờ Ngọc Hoàng Thượng Đế chứ  KHÔNG thờ Phật Thích Ca  và các Bồ Tát; <b>(2)</b> Vị sư trụ trì không biết nói gì ngoài hỏi  một câu “vô văn hóa” (“Tổng  thống có muốn sinh con trai không?”) và đã bị Tổng  thống “sửa lưng”. </p>
   <p>
     <b>Hai thông tin nói trên  hoàn toàn SAI</b>: Chùa có thờ Phật và Bồ Tát, và vị Sư Trụ trì  KHÔNG nói câu đó, chính  vị giáo sư trách nhiệm giới thiệu chùa đã nói câu nầy.</p>

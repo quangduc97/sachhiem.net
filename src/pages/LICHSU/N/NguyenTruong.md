@@ -2,15 +2,15 @@
 layout: ../../../layouts/Article.astro
 title: "John McCain và chuyện ở trại Hoả Lò"
 author: "VietnamNet"
-source: "https://sachhiem.net/LICHSU/N/NguyenTruong.php"
+source: "/LICHSU/N/NguyenTruong"
 category: "Lịch sử"
 lang: vi
 wordCount: 1481
-image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nha.jpg"
+image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/LICHSU/IMG/Mccain_shot_down.gif"
 ---
 
 <table border="0" cellpadding="1" align="center" width="250">
-        <tbody><tr><td width="100"><a href="/index"><img border="0" src="https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nha.jpg"></a></td>
+        <tbody><tr><td width="100"></td>
 	<td valign="top">	<i>12 tháng 10, 2008
 	
 	</i>	</td></tr></tbody></table>

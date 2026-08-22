@@ -1,7 +1,7 @@
 ---
 layout: ../../layouts/Article.astro
 title: "Các bài viết của tác giả Hoàng Nguyên Nhuận"
-source: "https://sachhiem.net/null"
+source: "/null"
 lang: vi
 wordCount: 1159
 image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/HOANGNN/Hinh/Hoang.JPG"
@@ -24,7 +24,7 @@ image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/HOANGNN/Hinh/Hoang.J
 <tbody><tr><td bgcolor="White" align="left" valign="top">
 <p align="center">
 <img border="0" src="https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/HOANGNN/Hinh/Hoang.JPG" width="139" height="207"></p>
-<p align="center"><a href="https://sachhiem.net/index.php"><img border="0" src="https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nha.jpg"></a></p>
+
 
 <p><b>Những Câu Chuyện Cuối Tuần:</b></p>
 

@@ -3,7 +3,7 @@ layout: ../../../layouts/Article.astro
 title: "Hồng Y George Pell Phải Đối Mặt Với Cáo Buộc Mới"
 author: "Báo Dailymail.co.uk"
 date: 2020-04-17
-source: "https://sachhiem.net/SACHNGOAI/SH/SH27e.php"
+source: "/SACHNGOAI/SH/SH27e"
 category: "Chính trị"
 lang: vi
 wordCount: 872

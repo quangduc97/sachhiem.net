@@ -3,7 +3,7 @@ layout: ../../../layouts/Article.astro
 title: "Sau 400 Năm Im Lặng, Giáo Hội CG Đức Đã Xin Lỗi Vì Việc Thiêu Sống Phù Thuỷ."
 author: "independent.co.uk"
 date: 2021-02-20
-source: "https://sachhiem.net/TONGIAO/FB/FBLeThiKimHoa.php"
+source: "/TONGIAO/FB/FBLeThiKimHoa"
 category: "Tác giả"
 lang: vi
 wordCount: 746

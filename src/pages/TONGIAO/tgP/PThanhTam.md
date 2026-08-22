@@ -3,7 +3,7 @@ layout: ../../../layouts/Article.astro
 title: "Mưu Lược Khuyếch Trương Tín Đồ Của Vatican Và Tin Lành"
 author: "TP Thanh Tâm"
 date: 2016-01-14
-source: "https://sachhiem.net/TONGIAO/tgP/PThanhTam.php"
+source: "/TONGIAO/tgP/PThanhTam"
 category: "Chính trị"
 lang: vi
 wordCount: 4958

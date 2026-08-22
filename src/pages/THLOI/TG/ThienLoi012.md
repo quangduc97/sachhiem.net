@@ -3,7 +3,7 @@ layout: ../../../layouts/Article.astro
 title: "Ai Đã Khởi Đầu Thừa Nhận Vatican"
 author: "Thiên Lôi"
 date: 2013-03-12
-source: "https://sachhiem.net/THLOI/TG/ThienLoi012.php"
+source: "/THLOI/TG/ThienLoi012"
 category: "Tác giả"
 lang: vi
 wordCount: 568

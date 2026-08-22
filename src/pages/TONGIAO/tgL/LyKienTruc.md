@@ -3,11 +3,11 @@ layout: ../../../layouts/Article.astro
 title: "Thử tìm câu trả lời và giải pháp cho Làng Mai-Bát Nhã"
 author: "Lý Kiến Trúc"
 date: 2009-10-06
-source: "https://sachhiem.net/null"
+source: "/null"
 category: "Tác giả"
 lang: vi
 wordCount: 10301
-image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nha.jpg"
+image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/TONGIAO/BATNHA/LyKienTruc-subachankhong.jpg"
 ---
 
 <div align="center" style="position: relative; left: 0; top: 0">
@@ -25,7 +25,7 @@ image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nha.jpg"
 <tr><td width="100%">
 <div style="padding-left: 50px; padding-right: 50px"> 
 	<table border="0" cellpadding="1" width="87%" cols="2"><tbody><tr>
-	<td><a href="https://www.sachhiem.net/"><img border="0" src="https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nha.jpg"></a></td>
+	<td></td>
 <td valign="top" width="210"><p>03 tháng 11, 2009</p>
 	</td></tr></tbody></table>
 	
@@ -728,7 +728,7 @@ giải thích trong đại hội kỳ 4 của GHPGVNTN”</i>./ </p>
 	<p><a href="/NDX/NDX016">- Những bạo hành ở Tu viện Bát Nhã - xin giải thích giùm tôi (Nguyễn Đắc Xuân)</a></p>
 	<p><a href="/MINHMAN/Tongiao/MinhManTG45">- Liêm Sĩ và Dũng Khí (Minh Mẫn)</a></p>
 	<p><a href="/TCN/TCNts/TCNts046">- Vài Ý Kiến Xung Quanh Vụ Tu Viện Bát Nhã -1 (Trần Chung Ngọc)</a></p>
-	<p>- <a href="https://sachhiem.net/TONGIAO/BuddhistReview.php">Sinh Hoạt Tâm Linh Tại Tu Viện Lộc Uyển  (Đất Lành)</a></p>
+	<p>- <a href="/TONGIAO/BuddhistReview">Sinh Hoạt Tâm Linh Tại Tu Viện Lộc Uyển  (Đất Lành)</a></p>
 	<p>- <a href="/DOITHOAI/ChungAnh">Ai là người phải xin lỗi trong sự kiện Bát Nhã? (Chung Anh)
 	</a> </p>
 		<p>- <a href="/EMAILS/C/Caphetoi41">Về vụ lộn xộn ở Bát Nhã (CPT)

@@ -2,7 +2,7 @@
 layout: ../../layouts/Article.astro
 title: "Đạo Thiên Chúa và Chủ Nghĩa Thực Dân -Tựa (Cao Huy Thuần)"
 author: "Cao Huy Thuần"
-source: "https://sachhiem.net/CAOHT/DaoTC_000.php"
+source: "/CAOHT/DaoTC_000"
 category: "Tác giả"
 lang: vi
 wordCount: 14999

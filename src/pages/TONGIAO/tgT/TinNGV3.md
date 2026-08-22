@@ -3,7 +3,7 @@ layout: ../../../layouts/Article.astro
 title: "3 nhân vật lãnh đạo dòng tu ở Pennsylvania bị truy tố"
 author: "Tin Người Việt"
 date: 2016-03-16
-source: "https://sachhiem.net/TONGIAO/tgT/TinNGV3.php"
+source: "/TONGIAO/tgT/TinNGV3"
 category: "Tác giả"
 lang: vi
 wordCount: 445

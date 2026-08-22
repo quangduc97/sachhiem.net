@@ -3,7 +3,7 @@ layout: ../../../layouts/Article.astro
 title: "Những Người “Cưa” Lịch Sử"
 author: "Lý Nguyên Diệu"
 date: 2016-05-02
-source: "https://sachhiem.net/LICHSU/L/LyNguyenDieu05.php"
+source: "/LICHSU/L/LyNguyenDieu05"
 category: "Lịch sử"
 lang: vi
 wordCount: 2293

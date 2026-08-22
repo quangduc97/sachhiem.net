@@ -3,7 +3,7 @@ layout: ../../../layouts/Article.astro
 title: "Việt Nam Để Tang Người Anh Hùng Của Đất Nước"
 author: "Nguyễn Tâm/ VNExpress"
 date: 2013-10-11
-source: "https://sachhiem.net/THOISU_CT/ChuN/NguyenTam_VoNG.php"
+source: "/THOISU_CT/ChuN/NguyenTam_VoNG"
 category: "Chính trị"
 lang: vi
 wordCount: 861

@@ -2,14 +2,13 @@
 layout: ../../../layouts/Article.astro
 title: "“Vụ Chùa và Tháp Báo Thiên”"
 author: "Trần Chung Ngọc"
-source: "https://sachhiem.net/TCN/TCNdt/TCNdt058.php"
+source: "/TCN/TCNdt/TCNdt058"
 lang: vi
 wordCount: 6168
-image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.devhttps://sachhiem.net/images/nha.jpg"
 ---
 
 <table border="0" width="250" align="center">
-    <tbody><tr><td width="106"><a href="https://sachhiem.net/index.php"><img border="0" src="https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.devhttps://sachhiem.net/images/nha.jpg"></a>    </td>
+    <tbody><tr><td width="106">    </td>
 <td valign="top" style="text-align:right">	<i>đăng ngày 28 tháng 2, 2008
 </i>
 </td></tr></tbody></table> 	 

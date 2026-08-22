@@ -3,7 +3,7 @@ layout: ../../../layouts/Article.astro
 title: "Ông Đỗ Mạnh Tri Truyền Đạo Về \"Ngôi Mộ Trống\""
 author: "Trần Chung Ngọc"
 date: 2020-04-11
-source: "https://sachhiem.net/TCN/TCNdt/TCNdt078a.php"
+source: "/TCN/TCNdt/TCNdt078a"
 lang: vi
 wordCount: 6459
 image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/TONGIAO/IMG/SACH/DoithoaivoiGH_2.jpg"
@@ -15,7 +15,7 @@ image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/TONGIAO/IMG/SACH/Doi
  
 
  <p align="center"><img src="https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/TONGIAO/IMG/SACH/DoithoaivoiGH_2.jpg" width="150" height="227" alt=""></p>
- <p class="indent50">(trích từ loạt bài trong chủ đề <a href="https://sachhiem.net/TCN/TCNdt/TCNdt078.php">"Tôi đọc ĐỖ MẠNH TRI trong cuốn '2000 Năm Một Thuở: Chứng Từ Của Một Số Người Công Giáo'"</a>)</p>
+ <p class="indent50">(trích từ loạt bài trong chủ đề <a href="/TCN/TCNdt/TCNdt078">"Tôi đọc ĐỖ MẠNH TRI trong cuốn '2000 Năm Một Thuở: Chứng Từ Của Một Số Người Công Giáo'"</a>)</p>
 <p class="TuaDoLeft"> &nbsp;Phê bình bài của ông Đỗ Mạnh Tri</p>
 <p>&nbsp;&nbsp;Trong&nbsp;<i>Thư Mời Viết Cho Tin Nhà</i>, Tin Nhà đề nghị khi trả lời 5 câu hỏi Tin Nhà đề ra, các tác giả giới hạn trong 2 trang cho mỗi câu hỏi (trang IX).&nbsp;&nbsp;Có lẽ ông Đỗ Mạnh Tri là người chủ xướng cho nên ông ta không cần phải theo đề nghị của Tin Nhà.&nbsp;&nbsp;Do đó ông ta đã viết hơn 16 trang để trả lời câu hỏi số 1, từ trang 165 tới trang 181.&nbsp;&nbsp;Nhưng ông ta viết không phải là để trả lời câu hỏi mà để quảng cáo cho cái đạo Giê-su của ông ta qua những lý luận thần học lắt léo, lạc dẫn, lỗi thời, chứa đầy mâu thuẫn, và không mấy lương thiện.&nbsp;&nbsp;&nbsp;</p>
 <p class="TuaDenLeft">Ông Đỗ Mạnh Tri Truyền Đạo Về "Ngôi Mộ Trống"</p>
@@ -39,7 +39,7 @@ image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/TONGIAO/IMG/SACH/Doi
  <p class="PicLeft">&nbsp;&nbsp;<img src="https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/SACH/DucTinCG.jpg" width="150" height="226" alt="">&nbsp;</p>
  <p>Trong cuốn&nbsp;<i>Đức Tin Công Giáo</i>, Giao Điểm xuất bản năm 2000,&nbsp;&nbsp;chương II, tôi đã trích dẫn từ Tân Ước chuyện sống lại của Giê-su theo Mark và theo Matthew và vạch rõ là chúng hoàn toàn khác nhau, nhiều khi đối nghịch hẳn nhau với nhiều chi tiết rất mâu thuẫn.&nbsp;&nbsp;Vậy chúng ta phải kết luận làm sao?&nbsp;&nbsp;Tin Paul, tin Mark, hay tin Matthew?&nbsp;&nbsp;Căn cứ vào đâu mà tin ai?&nbsp;&nbsp;Có lẽ đối với ông Đỗ Mạnh Tri, chỉ cần có Tin Cậy Mến không có chỗ đặt là đủ.&nbsp;&nbsp;Sự suy luận của trí óc có vẻ thừa.&nbsp;</p>
  <p>&nbsp;&nbsp;&nbsp;Để cho vấn đề được rõ ràng hơn, có lẽ chúng ta cũng nên biết ngày nay giới trí thức, ở trong cũng như ở ngoài các giáo hội Kitô, nghĩ gì về huyền thoại "ngôi mộ trống" và sự sống lại của Giê-su.&nbsp;</p>
- <p>&nbsp;&nbsp;&nbsp;Trước hết là một người Catô trí thức Việt Nam tỉnh ngộ, ông <b>Charlie Nguyễn</b>, nguyên là một thẩm phán thời VNCH và là một người đạo gốc, với tác phẩm&nbsp;<i>Công Giáo: Huyền Thoại Và Tội Ác,</i>&nbsp;Giao Điểm xuất bản, 2001.&nbsp;&nbsp;Trong tác phẩm này, ông Charlie Nguyễn đã để ra nguyên một chương, chương 6, để viết về&nbsp;<a href="https://sachhiem.net/CHARLIE/CN_CGHT/phucsinh.php">Huyền Thoại Phục Sinh</a>.&nbsp;&nbsp;Chúng ta có thể đọc vài đoạn như sau:</p>
+ <p>&nbsp;&nbsp;&nbsp;Trước hết là một người Catô trí thức Việt Nam tỉnh ngộ, ông <b>Charlie Nguyễn</b>, nguyên là một thẩm phán thời VNCH và là một người đạo gốc, với tác phẩm&nbsp;<i>Công Giáo: Huyền Thoại Và Tội Ác,</i>&nbsp;Giao Điểm xuất bản, 2001.&nbsp;&nbsp;Trong tác phẩm này, ông Charlie Nguyễn đã để ra nguyên một chương, chương 6, để viết về&nbsp;<a href="/CHARLIE/CN_CGHT/phucsinh">Huyền Thoại Phục Sinh</a>.&nbsp;&nbsp;Chúng ta có thể đọc vài đoạn như sau:</p>
  <p>&nbsp;&nbsp;&nbsp;<i>"..Đặc biệt trong mùa Phục Sinh năm 1996, cả ba tờ tuền báo lớn nhất nước Mỹ là Time, Newsweek và U.S. News and World Report đều đồng loạt ra ngày 8.4.96 với hình bìa in ảnh Chúa sống lại và những bài báo nảy lửa&nbsp;<b>tố cáo chuyện Phục Sinh của Chúa như một chuyện bịp lớn nhất trong lịch sử nhân loại.</b></i></p>
  <p><i>&nbsp;&nbsp;&nbsp;&nbsp;<b>Hầu hết các sách và các hội nghị khoa học về Chúa Ki Tô đều phủ nhận sự phục sinh của Ngài</b>.&nbsp;&nbsp;Ngay những nhà truyền giáo Tin Lành cũng phải nhìn nhận sự phục sinh của Chúa đã trở thành một gánh nặng (a burden) cho tín lý đạo Kitô, vì nó đã là một trở ngại lớn nhất cho việc truyền giáo trong giới trí thức hiện nay...</i></p>
  <p><i>&nbsp;&nbsp;&nbsp;Vì quá tin vào Lời Chúa trong Phúc Âm của John, hầu hết tín đồ Ki tô giáo thường ít thắc mắc về những điều vô lý trong tín điều Phục Sinh cũng như trong các tín điều khác, bởi vì không thấy mà vẫn cứ tin bừa thì mới có phúc thật.&nbsp;&nbsp;Câu nói: "Phúc cho kẻ nào không thấy mà tin" đã trở thành nền tảng trong hai ngàn năm qua cho một thứ Đức Tin Mù (The blind faith) -&nbsp;<b>một thứ đức tin của loài người bán khai vì nó hoàn toàn không cần xử dụng tới cái dụng cụ quý giá nhất ở con người thông minh là lý trí</b>.."</i></p>

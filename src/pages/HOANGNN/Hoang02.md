@@ -2,18 +2,16 @@
 layout: ../../layouts/Article.astro
 title: "ÔN TRÚC LÂM"
 author: "Hoàng Nguyên Nhuận"
-source: "https://sachhiem.net/HOANGNN/Hoang02.php"
+source: "/HOANGNN/Hoang02"
 category: "Chính trị"
 lang: vi
 wordCount: 4305
-image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nha.jpg"
 ---
 
 <p class="Tuaduoi">và HỘI LONG HOA HUẾ 1963		</p>
 
  
-<p align="center"><a href="https://www.sachhiem.net/">
-	<img border="0" src="https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nha.jpg"></a>19&nbsp; tháng 8, 2007</p>
+<p align="center">19&nbsp; tháng 8, 2007</p>
     <p><b><font size="6" face="Vivaldi">K</font></b>hông biết Thầy Tín Nghĩa mò mô ra điện thoại nhà tui mà một sáng tui đang lơ mơ tụng kinh thì thấy có người hỏi đúng tên mình tui đành...đầu hàng: A Di Đà Phật, thưa tui đây à... 
 </p><p>Thầy xưng danh tính và cho biết mục đích Thầy điện thoại...Mục đích đó đã được Thầy tóm lược trong điện thư gửi trước khi Thầy điện thoại cho tui như sau: 
 </p><p>Nam Mô A Di Đà Phật

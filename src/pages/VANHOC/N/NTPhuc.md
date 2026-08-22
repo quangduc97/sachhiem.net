@@ -3,7 +3,7 @@ layout: ../../../layouts/Article.astro
 title: "Thiên Cơ, Nhân Quả và Số Mệnh"
 author: "Nguyễn Thị Phúc"
 date: 2013-07-08
-source: "https://sachhiem.net/VANHOC/N/NTPhuc.php"
+source: "/VANHOC/N/NTPhuc"
 category: "Văn hóa"
 lang: vi
 wordCount: 1056

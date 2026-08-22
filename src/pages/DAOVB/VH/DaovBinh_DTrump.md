@@ -3,7 +3,7 @@ layout: ../../../layouts/Article.astro
 title: "Chuyện Ô. Đông Quách Thổi Sáo Gian"
 author: "Đào Văn Bình"
 date: 2016-05-08
-source: "https://sachhiem.net/DAOVB/VH/DaovBinh_DTrump.php"
+source: "/DAOVB/VH/DaovBinh_DTrump"
 category: "Chính trị"
 lang: vi
 wordCount: 2321

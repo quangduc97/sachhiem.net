@@ -2,7 +2,7 @@
 layout: ../../../layouts/Article.astro
 title: "CÁO BẠCH Của Ban Biên Tập Website Thư Viện Hoa Sen"
 date: 2013-09-23
-source: "https://sachhiem.net/null"
+source: "/null"
 category: "Tác giả"
 lang: vi
 wordCount: 320

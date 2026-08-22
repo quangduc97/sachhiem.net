@@ -3,7 +3,7 @@ layout: ../../../layouts/Article.astro
 title: "Nhật Ký Biển Đông: Ông Bush Cha Gặp Chuyện Không Vui"
 author: "Đào Văn Bình"
 date: 2017-11-04
-source: "https://sachhiem.net/DAOVB/CT/DaovBinh97.php"
+source: "/DAOVB/CT/DaovBinh97"
 category: "Chính trị"
 lang: vi
 wordCount: 6474

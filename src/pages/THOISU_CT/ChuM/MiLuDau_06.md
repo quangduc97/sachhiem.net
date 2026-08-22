@@ -3,7 +3,7 @@ layout: ../../../layouts/Article.astro
 title: "Khi Nhà Kinh Doanh Làm Chính Trị"
 author: "Milu Dau"
 date: 2017-12-09
-source: "https://sachhiem.net/THOISU_CT/ChuM/MiLuDau_06.php"
+source: "/THOISU_CT/ChuM/MiLuDau_06"
 category: "Chính trị"
 lang: vi
 wordCount: 2472

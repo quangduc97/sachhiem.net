@@ -2,18 +2,18 @@
 layout: ../../../layouts/Article.astro
 title: "TẢN MẠN VỀ “MÙA GIÁNG SINH”"
 author: "Trần Chung Ngọc"
-source: "https://sachhiem.net/TCN/TCNtg/TCN28.php"
+source: "/TCN/TCNtg/TCN28"
 category: "Tác giả"
 lang: vi
 wordCount: 16440
-image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nha.jpg"
+image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/TONGIAO/IMG/JesusMaryJoseph.jpg"
 ---
 
 <p class="Tuaduoi">Tâm Tình Nhân Dịp Lễ Giáng Sinh Của 4 Linh Mục</p>
 	 	<p class="Tuaduoi">“The Last Temptation Of Christ” Theo Lê-Nhân</p>
 			
 			 
- <p align="center"><a href="https://sachhiem.net/index.php"><img border="0" hspace="20" src="https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nha.jpg"></a>  13 tháng 12, 2007</p>
+ <p align="center">  13 tháng 12, 2007</p>
         <p><img border="0" src="https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/TONGIAO/IMG/JesusMaryJoseph.jpg" align="left" hspace="10"><b><font size="6" face="Vivaldi">T</font></b>rên đất Mỹ, sau Lễ Tạ Ơn là 
           bắt đầu mở màn “mùa Giáng Sinh”. Mùa Giáng Sinh mà không viết gì về “giáng 
           sinh” thì là cả một sự thiếu sót. Năm nay,cũng như mùa giáng sinh hàng năm 

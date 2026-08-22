@@ -3,11 +3,11 @@ layout: ../../../layouts/Article.astro
 title: "“Bị Chúa Trác”"
 author: "Mục Đồng"
 date: 2005-08-22
-source: "https://sachhiem.net/null"
+source: "/null"
 category: "Tác giả"
 lang: vi
 wordCount: 11197
-image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nha.jpg"
+image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/IMG/LINHMUC/Mucsu_PatRobertson.jpg"
 ---
 
 <div align="center" style="position: relative; left: 0; top: 0">
@@ -31,8 +31,7 @@ image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nha.jpg"
 <blockquote>
 	<table border="0" cellpadding="0" width="80%" cols="2">
 		<tbody><tr>
-			<td><a href="/index">
-			<img border="0" src="https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nha.jpg"></a></td>
+			<td></td>
 			<td valign="top" style="text-align:right">19 tháng 2, 2010</td>
 		</tr>
 	</tbody></table>

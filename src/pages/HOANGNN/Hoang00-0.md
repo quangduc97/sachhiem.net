@@ -2,15 +2,13 @@
 layout: ../../layouts/Article.astro
 title: "LẾU LÁO?"
 author: "Huỳnh Bất Hoặc"
-source: "https://sachhiem.net/HOANGNN/Hoang00-0.php"
+source: "/HOANGNN/Hoang00-0"
 category: "Chính trị"
 lang: vi
 wordCount: 6820
-image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nha.jpg"
 ---
 
-<p align="center"><a href="https://www.sachhiem.net/">
-	<img border="0" src="https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nha.jpg"></a>CL 06/2005, đăng lại 22 tháng 11, 2010</p>
+<p align="center">CL 06/2005, đăng lại 22 tháng 11, 2010</p>
 	<p class="MsoNormal">
 	<a href="https://www.chuyenluan.net/_oldcluan/2005/200505/0505_13.htm">Bài <i>
 	Ánh Đuốc Quảng Đức</i> của Hoàng Nguyên Nhuận </a><font color="#000000">vừa 

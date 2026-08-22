@@ -3,7 +3,7 @@ layout: ../../../layouts/Article.astro
 title: "Vatican, Tin Lành Phá Hoại Việt Nam, Triều Tiên Bằng Cách Nào?"
 author: "Hồng Thất Công"
 date: 2025-12-22
-source: "https://sachhiem.net/TONGIAO/FB/FBHongThatCong04.php"
+source: "/TONGIAO/FB/FBHongThatCong04"
 category: "Chính trị"
 lang: vi
 wordCount: 2008

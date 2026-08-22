@@ -2,15 +2,15 @@
 layout: ../../../layouts/Article.astro
 title: "CHẤT ĐỘC MÀU DA CAM"
 author: "Trần Chung Ngọc"
-source: "https://sachhiem.net/TCN/TCNkh/TCNkh18.php"
+source: "/TCN/TCNkh/TCNkh18"
 category: "Khoa học"
 lang: vi
 wordCount: 12952
-image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nha.jpg"
+image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/TCN/TCNkh/TCN18/ricefield.jpg"
 ---
 
 <table border="0" width="250" align="center">
-    <tbody><tr><td width="100"><a href="https://sachhiem.net/index.php"><img border="0" src="https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nha.jpg"></a>    </td> 
+    <tbody><tr><td width="100">    </td> 
 	
 	<td valign="top" style="text-align:right">ngày 04 tháng 1, 2010</td></tr></tbody></table>
 	<p>
@@ -835,7 +835,7 @@ image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nha.jpg"
 	vì càng ngày càng có nhiều tiếng nói lên án, phanh phui ra sự thật về những 
 	tác hại của chất độc màu da cam trên đất nước Việt Nam và trên các cựu chiến 
 	binh Mỹ. Tháng 5, 2009, trang nhà Sách Hiếm đã đăng một bài về “<i>Vụ Án 
-	Chất Độc Da Cam và Công Luận Quốc Tế</i>” [<a href="https://sachhiem.net/XAHOI/TinPhapLuat.php">https://sachhiem.net/XAHOI/TinPhapLuat.php</a>] 
+	Chất Độc Da Cam và Công Luận Quốc Tế</i>” [<a href="/XAHOI/TinPhapLuat">https://sachhiem.net/XAHOI/TinPhapLuat.php</a>] 
 	với rất nhiều tài liệu về những phản ứng rất tiêu cực của thế giới trước 
 	quyết định phi công lý của các Tòa Án Mỹ. Một trong những luận điệu ngớ 
 	ngẩn của Tòa Án Mỹ là “<i>Chất độc màu da cam được dùng như là một chất để 

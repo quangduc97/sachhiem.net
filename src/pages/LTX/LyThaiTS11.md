@@ -3,7 +3,7 @@ layout: ../../layouts/Article.astro
 title: "Câu Chuyện Về Ngày Độc Lập và Ngày Lập Quốc Hoa-kỳ"
 author: "holidays.net/ Lý Thái dịch"
 date: 2014-07-04
-source: "https://sachhiem.net/LTX/LyThaiTS11.php"
+source: "/LTX/LyThaiTS11"
 category: "Lịch sử"
 lang: vi
 wordCount: 1285

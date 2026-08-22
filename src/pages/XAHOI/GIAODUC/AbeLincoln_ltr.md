@@ -3,7 +3,7 @@ layout: ../../../layouts/Article.astro
 title: "Bức Thư Của Abraham Lincoln Gửi Thầy Giáo Của Con Trai Mình"
 author: "SH sưu tầm"
 date: 2025-02-13
-source: "https://sachhiem.net/XAHOI/GIAODUC/AbeLincoln_ltr.php"
+source: "/XAHOI/GIAODUC/AbeLincoln_ltr"
 category: "Chính trị"
 lang: vi
 wordCount: 1017

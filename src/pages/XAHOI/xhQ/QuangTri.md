@@ -2,11 +2,11 @@
 layout: ../../../layouts/Article.astro
 title: "Cuốn Phim 2012"
 author: "Quảng Trí"
-source: "https://sachhiem.net/null"
+source: "/null"
 category: "Tác giả"
 lang: vi
 wordCount: 2670
-image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nha.jpg"
+image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/IMG/Film2012/Canh1.jpg"
 ---
 
 <div align="center" style="position: relative; left: 0; top: 0">
@@ -26,8 +26,7 @@ image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nha.jpg"
 <tr><td width="100%">
 <div style="padding-left: 60px; padding-right: 60px"> 
 	<table border="0" cellpadding="1" width="600"><tbody><tr>
-	<td><a href="https://www.sachhiem.net/">
-	<img border="0" src="https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nha.jpg"></a></td>
+	<td></td>
 <td valign="top" width="177"><p>28 tháng 3, 2010	</p></td></tr></tbody></table>
 <p><i>LTS: Tòa soạn nhận được bài viết sau đây qua diễn đàn thư tín ngày 26 tháng 3, 2010 với nguồn đã bị xoá mất. Nhận thấy nội dung rất bổ ích cho xã hội, tòa soạn xin phép tác giả để được đăng tải để có thêm độc giả được biết. Xin cảm ơn tác giả. (SH)</i></p>
 <hr>

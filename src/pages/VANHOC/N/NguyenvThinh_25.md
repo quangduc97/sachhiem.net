@@ -3,7 +3,7 @@ layout: ../../../layouts/Article.astro
 title: "“ĐUỐC SỐNG” – Ngọn Lửa Bất Diệt Của Tinh Thần Yêu Nước Việt Nam"
 author: "Nguyễn Văn Thịnh"
 date: 2018-10-17
-source: "https://sachhiem.net/VANHOC/N/NguyenvThinh_25.php"
+source: "/VANHOC/N/NguyenvThinh_25"
 category: "Lịch sử"
 lang: vi
 wordCount: 11029
@@ -156,5 +156,5 @@ image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/MISC/1nennhan
 <p class="TacgiaR">Nguyễn Văn Thịnh</p>
 <p>____________ </p>
 <p><b>Bài đọc thêm:</b></p>
-<p>-<a href="https://www.sachhiem.net/VANHOC/TVHAC/Vanhac24.php"> Lê Văn Tám: Lửa Bất Diệt- https://www.sachhiem.net</a> (Trần Vân Hạc)</p>
+<p>-<a href="/VANHOC/TVHAC/Vanhac24"> Lê Văn Tám: Lửa Bất Diệt- https://www.sachhiem.net</a> (Trần Vân Hạc)</p>
 <p>-  <a href="https://tuanbaovannghetphcm.vn/su-that-ve-duoc-song-le-van-tam/">Sự thật về "đuốc sống" Lê văn Tám, https://tuanbaovannghetphcm.vn </a>(Lý Châu Hoàn)</p>

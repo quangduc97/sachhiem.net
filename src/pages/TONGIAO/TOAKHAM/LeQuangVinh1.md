@@ -2,18 +2,17 @@
 layout: ../../../layouts/Article.astro
 title: "LỊCH SỬ TANG THƯƠNG VỀ"
 author: "Lê Quang Vịnh"
-source: "https://sachhiem.net/TONGIAO/TOAKHAM/.php"
+source: "/TONGIAO/TOAKHAM/"
 category: "Tác giả"
 lang: vi
 wordCount: 6705
-image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nha.jpg"
 ---
 
 <p class="Tuaduoi">CHÙA BÁO THIÊN Ở HÀ NỘI XƯA</p>
 
 		
 
-<p align="center"><a href="https://sachhiem.net/index.php"><img border="0" hspace="20" src="https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nha.jpg"></a>28 tháng 5, 2008</p>
+<p align="center">28 tháng 5, 2008</p>
 	 <p><i>Đầu năm 2008, trong tình hình sôi động của sự cố “Tòa 
 		Khâm sứ và Chùa Báo Thiên”, nhiều nhà nghiên cứu đã viết về lịch sử của 
 		quần thể ngôi chùa và bảo tháp được mênh danh là một trong Tứ Đại khí 

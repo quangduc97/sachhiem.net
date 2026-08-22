@@ -3,7 +3,7 @@ layout: ../../../layouts/Article.astro
 title: "Phụ Nữ Trút Giận Tại Hội Nghị Về Xâm Hại Tình Dục Trẻ Em của Vatican"
 author: "VOA Tiếng Việt"
 date: 2024-11-29
-source: "https://sachhiem.net/TONGIAO/tgS/SH100_PhuNu_TD.php"
+source: "/TONGIAO/tgS/SH100_PhuNu_TD"
 category: "Tác giả"
 lang: vi
 wordCount: 981

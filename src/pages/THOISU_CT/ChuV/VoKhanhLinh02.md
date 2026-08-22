@@ -3,7 +3,7 @@ layout: ../../../layouts/Article.astro
 title: "Vì Sao Việt Nam Ứng Cử Vào Hội Đồng Nhân Quyền Liên Hợp Quốc"
 author: "Võ Khánh Linh"
 date: 2013-11-09
-source: "https://sachhiem.net/THOISU_CT/ChuV/VoKhanhLinh02.php"
+source: "/THOISU_CT/ChuV/VoKhanhLinh02"
 category: "Chính trị"
 lang: vi
 wordCount: 2543

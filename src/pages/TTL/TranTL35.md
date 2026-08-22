@@ -3,7 +3,7 @@ layout: ../../layouts/Article.astro
 title: "Những Tiên Đoán Sai Lầm Về Ngày Tận Thế"
 author: "Trần Tiên Long"
 date: 2012-12-21
-source: "https://sachhiem.net/TTL/TranTL35.php"
+source: "/TTL/TranTL35"
 category: "Chính trị"
 lang: vi
 wordCount: 3759

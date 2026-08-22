@@ -1,7 +1,7 @@
 ---
 layout: ../../../layouts/Article.astro
 title: "Học vị tiến sĩ và học hàm ở các đại học Úc và Mĩ (Nguyễn văn Tuấn)"
-source: "https://sachhiem.net/null"
+source: "/null"
 category: "Khoa học"
 lang: vi
 wordCount: 9365

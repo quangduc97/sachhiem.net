@@ -2,16 +2,16 @@
 layout: ../../../layouts/Article.astro
 title: "Tuy Có Hơi Muộn !"
 author: "Minh Mẫn"
-source: "https://sachhiem.net/MINHMAN/Chinhtri/Minhman20.php"
+source: "/MINHMAN/Chinhtri/Minhman20"
 lang: vi
 wordCount: 703
-image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nha.jpg"
+image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/MINHMAN/Hinh/Minhman20.jpg"
 ---
 
 <p class="Tuaduoi">(Chuyện Video Clip "Thầy Trò Đường Tông... ")* </p>
 	
 
-<p align="center"><a href="https://www.sachhiem.net/"> <img border="0" src="https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nha.jpg"></a> 17 tháng 3, 2012 </p>
+<p align="center"> 17 tháng 3, 2012 </p>
 <p align="center"><img src="https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/MINHMAN/Hinh/Minhman20.jpg" width="318" height="237"> </p>
     	
     	<p><span class="First">Q</span>ua một tuần xôn xao vụ “<i>Đường
@@ -74,5 +74,5 @@ cán bộ thừa hành bị lệch lạc.</p>
     <p>
       17/3/2012</p>
     
-    <p>* Xem  <a href="https://sachhiem.net/MINHMAN/Chinhtri/Minhman19.php">Hàng
+    <p>* Xem  <a href="/MINHMAN/Chinhtri/Minhman19">Hàng
     	  Triệu Người Phẫn Nộ Về Video Clip "Thầy Trò Đường Tông... "</a></p>

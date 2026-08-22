@@ -3,14 +3,14 @@ layout: ../../../layouts/Article.astro
 title: "CUỘC TRANH ĐẤU CHỐNG VATICAN CỦA NHÂN DÂN PHÁP"
 author: "Nguyễn Mạnh Quang"
 date: 2024-07-14
-source: "https://sachhiem.net/NMQ/TAMTHU/NMQtt_16_CMP.php"
+source: "/NMQ/TAMTHU/NMQtt_16_CMP"
 lang: vi
 wordCount: 7790
 image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/LICHSU/IMG/FRANCE/French_revol4.JPG"
 ---
 
 <div class="tomluoc">
-  <p><i>Cách Mạng Pháp có ý nghĩa lớn lao cho cả thế giới thoát khỏi ách thống trị của GHLM. Nhân ngày kỷ niệm 235 năm  Cách Mạng Pháp thành công, chúng tôi trích lại một phần trong bài CUỘC TRANH ĐẤU CHỐNG VATICAN CỦA NHÂN DÂN&nbsp;PHÁP. Đây là Mục III của CHƯƠNG 16 - "Kế Sách Vatican Xâm Nhập Vào Giai Cấp Lãnh Đạo Nước Pháp và Cuộc Chiến Chống Vatican Của Dân Tộc Pháp" trong Tập <a href="https://sachhiem.net/NMQ/TAMTHU/NMQtt_16.php">"Tâm Thư Gửi Nhà Nước Việt Nam"</a> cùng tác giả.</i></p>
+  <p><i>Cách Mạng Pháp có ý nghĩa lớn lao cho cả thế giới thoát khỏi ách thống trị của GHLM. Nhân ngày kỷ niệm 235 năm  Cách Mạng Pháp thành công, chúng tôi trích lại một phần trong bài CUỘC TRANH ĐẤU CHỐNG VATICAN CỦA NHÂN DÂN&nbsp;PHÁP. Đây là Mục III của CHƯƠNG 16 - "Kế Sách Vatican Xâm Nhập Vào Giai Cấp Lãnh Đạo Nước Pháp và Cuộc Chiến Chống Vatican Của Dân Tộc Pháp" trong Tập <a href="/NMQ/TAMTHU/NMQtt_16">"Tâm Thư Gửi Nhà Nước Việt Nam"</a> cùng tác giả.</i></p>
 </div>
 <p><span class="First">T</span>rước khi <i>Phong Trào Đòi Cải Cách Tôn Giáo</i> (1309-1648) bùng nổ vào cuối thập niên 1510, kế sách này thường trót lọt không gặp trở ngại nào cả. Nhưng từ khi <i>Phong Trào Tin Lành</i> của Linh-mục Martin Luther (1483-1546) bùng lên ở Đức vào tháng 10 năm 1517 và đại thắng vào năm 1521, kế đến là <i>Phong Trào Tin Lành</i> của nhà thần học John Calvin (1509-1564) khởi phát ở Thụy Sĩ vào năm 1537 rồi lan tràn sang Pháp, thì kế sách treo cao lặn sâu của Vatican vào thượng tầng giới lãnh đạo các quốc gia đối tượng không còn được dễ dàng và suông sẻ như trước nữa, đặc biệt là ở nước Pháp.</p>
 <p>Tương tự như cuộc chiến ở Việt Nam đánh đuổi Liên Minh Xâm Lược Pháp – Vatican và Mỹ - Vatican của dân tộc Việt Nam kéo dài hơn một thế kỷ (1858-1975), cuộc chiến chống Vatican của dân tộc Pháp 

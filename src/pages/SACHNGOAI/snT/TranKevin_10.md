@@ -3,7 +3,7 @@ layout: ../../../layouts/Article.astro
 title: "Bảy Phần Trăm Linh Mục Ca-tô Rô-ma Ở Úc Bị Tố Cáo Xâm Phạm Tình Dục"
 author: "Kristen Gelineau, AP"
 date: 2017-02-08
-source: "https://sachhiem.net/SACHNGOAI/snT/TranKevin_10.php"
+source: "/SACHNGOAI/snT/TranKevin_10"
 category: "Tác giả"
 lang: vi
 wordCount: 1211

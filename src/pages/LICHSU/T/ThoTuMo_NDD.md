@@ -3,7 +3,7 @@ layout: ../../../layouts/Article.astro
 title: "Ngô Đình Diệm Dưới Mắt Nhà Thơ Tú Mỡ"
 author: "Tú Mỡ Toàn Tập"
 date: 2016-10-05
-source: "https://sachhiem.net/LICHSU/T/ThoTuMo_NDD.php"
+source: "/LICHSU/T/ThoTuMo_NDD"
 category: "Chính trị"
 lang: vi
 wordCount: 100

@@ -3,7 +3,7 @@ layout: ../../../layouts/Article.astro
 title: "ÔNG ÐỒN LỢI"
 author: "Lê Xuân Nhuận"
 date: 2022-03-18
-source: "https://sachhiem.net/LICHSU/LEXNHUAN/LeXNhuan22.php"
+source: "/LICHSU/LEXNHUAN/LeXNhuan22"
 category: "Lịch sử"
 lang: vi
 wordCount: 4711

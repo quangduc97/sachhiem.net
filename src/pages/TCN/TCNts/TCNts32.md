@@ -2,13 +2,12 @@
 layout: ../../../layouts/Article.astro
 title: "THỬ PHÂN TÍCH VÀI ĐOẠN"
 author: "Trần Chung Ngọc"
-source: "https://sachhiem.net/TCN/TCNts/TCNts32.php"
+source: "/TCN/TCNts/TCNts32"
 lang: vi
 wordCount: 7218
-image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nha.jpg"
 ---
 
-<p align="center"><a href="/index"><img hspace="20" border="0" src="https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nha.jpg"></a>24 tháng 1,  2009</p>
+<p align="center">24 tháng 1,  2009</p>
 <p> <span class="First">B</span>ài diễn văn của Tổng Thống Barack Obama đã được dịch ra tiếng Việt trên 
 nhiều diễn đàn truyền thông của người Việt ở hải ngoại. Bài diễn văn cũng đã 
 được nhiều bình luận gia quốc tế phân tích. Tôi nghĩ tôi cũng muốn góp ý kiến 

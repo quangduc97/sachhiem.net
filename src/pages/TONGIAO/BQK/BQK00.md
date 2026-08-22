@@ -2,19 +2,19 @@
 layout: ../../../layouts/Article.astro
 title: "7 Thư Nói Với Ông Chu Tất Tiến Về Đòn Khiêu Khích Tôn Giáo"
 author: "Bảo Quốc Kiếm"
-source: "https://sachhiem.net/TONGIAO/BQK/BQK00.php"
+source: "/TONGIAO/BQK/BQK00"
 category: "Đối thoại"
 lang: vi
 wordCount: 20014
-image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nha.jpg"
+image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/SACHNGOAI/Hinhanh/PEOPLE/AlbertoRivera.jpg"
 ---
 
 <table border="0" cellpadding="0" width="250" align="center"><tbody><tr>
-	<td width="125"><a href="/index"><img border="0" src="https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nha.jpg"></a></td>
+	<td width="125"></td>
 <td valign="top" width="210"><p>18 tháng 12, 2010</p>
 	</td></tr></tbody></table>
 
-<p>Dẫn bài: <a href="https://sachhiem.net/EMAILS/ChuTatTien.php">Lá Thư Vô Trách Nhiệm của Chu Tất Tiến (BBT_SH)</a></p>
+<p>Dẫn bài: <a href="/EMAILS/ChuTatTien">Lá Thư Vô Trách Nhiệm của Chu Tất Tiến (BBT_SH)</a></p>
 		
 	
 	<div style="border-top: 1px solid #949494; border-bottom: 1px solid #949494; background-color: #EAEAEB">
@@ -1851,14 +1851,14 @@ chứ không phải làm nhiệm vụ tôn giáo</b>. Người Việt thuần t�
 "Thư Ngỏ gửi ông Chu Tất Tiến - GIÁO HỘI PHẬT GIÁO VIỆT NAM THỐNG NHẤT", và 
 các ý kiến của Phật tử </a> </p>
 <p class="sub1">-
-<a href="https://sachhiem.net/DOITHOAI/NguyenHuuBa00.php">"Trả Lời Ông Chu Tất Tiến" 
+<a href="/DOITHOAI/NguyenHuuBa00">"Trả Lời Ông Chu Tất Tiến" 
 (Nguyễn Hữu Ba)</a></p>
 <p class="sub1">-
-<a href="https://sachhiem.net/TONGIAO/BQK/BaoQuocKiem.php">7 Thư: "Nói Với Ông Chu Tất Tiến" (Bảo Quốc Kiếm)</a></p>
-	<p class="sub1">- <a href="https://sachhiem.net/TONGIAO/BQK/BQK01.php">Thư Kính Gửi Ông Nhạc Sĩ Trúc Hồ, Giám Đốc Đài SBTN (Trương Khôi)</a>.</p>
-<p class="sub1">- <a href="https://sachhiem.net/TONGIAO/BQK/BQK01.php"> Bình An Dưới Thế... (Trích đoạn từ Tạp chí SàiGòn Nhỏ)</a>.</p>
+<a href="/TONGIAO/BQK/BaoQuocKiem">7 Thư: "Nói Với Ông Chu Tất Tiến" (Bảo Quốc Kiếm)</a></p>
+	<p class="sub1">- <a href="/TONGIAO/BQK/BQK01">Thư Kính Gửi Ông Nhạc Sĩ Trúc Hồ, Giám Đốc Đài SBTN (Trương Khôi)</a>.</p>
+<p class="sub1">- <a href="/TONGIAO/BQK/BQK01"> Bình An Dưới Thế... (Trích đoạn từ Tạp chí SàiGòn Nhỏ)</a>.</p>
 	
-	<p class="sub1">- <a href="https://sachhiem.net/DOITHOAI/LeCngCau_TranKienCuong.php">Về Thư Xin Lỗi của ông Chu Tất Tiến (3 tác giả) </a></p>
+	<p class="sub1">- <a href="/DOITHOAI/LeCngCau_TranKienCuong">Về Thư Xin Lỗi của ông Chu Tất Tiến (3 tác giả) </a></p>
 	<p class="sub1">-<a href="/DOITHOAI/NguyenLuong"> Thông Cáo Của Trí Thức Phật Giáo (Hội Cư Sĩ Orange County)</a></p>
 	
 	<p class="sub1">- <a href="/DOITHOAI/NgKhacHung">Ông Chu Tất Tiến “vô ý thức” hay không ? (Nguyễn Khắc Hùng)</a></p>

@@ -3,15 +3,15 @@ layout: ../../../layouts/Article.astro
 title: "Chuyện Đức Khổng Tử - Chuyện Ăn Thịt Chó - Chuyện Phản Thần"
 author: "Trần Quang Diệu - Phạm Hoàng Vương"
 date: 2012-07-21
-source: "https://sachhiem.net/LICHSU/TR/TQD17.php"
+source: "/LICHSU/TR/TQD17"
 category: "Lịch sử"
 lang: vi
 wordCount: 2400
-image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nha.jpg"
+image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/XAHOI/IMG/Thitcho_quylay.jpg"
 ---
 
 <table border="0" cellpadding="0" width="250" align="center"><tbody><tr>
-	<td width="125"><a href="/index"><img border="0" src="https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nha.jpg"></a></td>
+	<td width="125"></td>
 <td valign="middle">21-Jul-2012</td>
 		</tr></tbody></table>
  <p><i>LTS: Chó là con vật trung thành với chủ. Con người, trung hay phản, cũng được so sánh với đức tánh này của loài chó. Khen cũng ở đó và chê cũng ở đó. Dù sao, bản tính trung thành của nó cũng làm cho người (có tính người) xúc động và có thể thay đổi quan niệm cũng như lối sống của mình. Nhân có bài "<a href="https://hoithanhphucquyen.org/showthread.php?530-Qu%E1%BB%B3-gi%E1%BB%AFa-ch%E1%BB%A3-t%E1%BA%BF-ch%C3%B3-%C4%91%E1%BB%83-khuy%C3%AAn-ng%C6%B0%E1%BB%9Di-%C4%91%E1%BB%ABng-%C4%83n-th%E1%BB%8Bt-ch%C3%B3">Quỳ

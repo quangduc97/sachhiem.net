@@ -3,7 +3,7 @@ layout: ../../../layouts/Article.astro
 title: "Đạo Đức Luôn Có Hai Mặt"
 author: "Đinh Cương"
 date: 2016-01-22
-source: "https://sachhiem.net/TONGIAO/tgD/DinhCuong.php"
+source: "/TONGIAO/tgD/DinhCuong"
 category: "Tác giả"
 lang: vi
 wordCount: 661
@@ -44,6 +44,6 @@ Bản tin trên đã lấy từ Foxnews:</p>
 <p>
 <a href="https://www.foxnews.com/world/2016/01/20/isis-destroys-iraqs-oldest-christian-monastery-satellite-photos-confirm.html">https://www.foxnews.com/world/...</a></p>
 <p>
-<span class="First">Đ</span>oc xong gợi nhớ một bài vừa xuất hiện trên Sách Hiếm  ngày 18 tháng Giêng, 2016, “<i>Danh Lam Bị Phá Hủy</i>” của tác giả Trần Đình Sơn - <a href="https://sachhiem.net/LICHSU/TR/TranDinhSon.php">https://sachhiem.net/LICHSU/TR/TranDinhSon.php</a></p>
+<span class="First">Đ</span>oc xong gợi nhớ một bài vừa xuất hiện trên Sách Hiếm  ngày 18 tháng Giêng, 2016, “<i>Danh Lam Bị Phá Hủy</i>” của tác giả Trần Đình Sơn - <a href="/LICHSU/TR/TranDinhSon">https://sachhiem.net/LICHSU/TR/TranDinhSon.php</a></p>
 <p>Các tội ác phá hủy nơi thờ tự tâm linh của bất kỳ tôn  giáo nào của bất kỳ dân tộc nào, bởi bất kỳ động cơ nào cũng đáng bị lên án mạnh  mẻ. Nhưng với đầu óc thực dân của đám con chiên độc thần giáo, trước đây và bây  giờ, thì khi phá hủy miếu mạo đền chùa của dân tộc yêu chuộng hòa bình ở ĐNA và  Trung Nam Mỹ châu để xây dựng nhà thờ, chắc chắn là lương tâm của họ không hề  có một chút vướng bận tội lỗi. Bởi tội ác làm cho Chúa (cho Vatican) sau khi  gây ra đã được Tòa Thánh giải rồi, để tiếp tục làm nữa. Vậy thì những lời tỏ ra  đau buồn phê phán của các giới chức Ki-tô tây phương trước việc làm dã man của  bọn ISIS (cùng thờ độc thần) có thực sự vô tư không? Amen!</p>
 <p class="TacgiaL">Đinh Cương</p>

@@ -3,7 +3,7 @@ layout: ../../../layouts/Article.astro
 title: "Ý Kiến Về Bài Của Trọng Đạt: Bắt Hụt Hồ Chí Minh ngày 7 tháng 10 -1947"
 author: "Trần Quang Diệu"
 date: 2015-10-08
-source: "https://sachhiem.net/LICHSU/TR/TQD49_TrongDat.php"
+source: "/LICHSU/TR/TQD49_TrongDat"
 category: "Đối thoại"
 lang: vi
 wordCount: 4431

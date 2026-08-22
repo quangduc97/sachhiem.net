@@ -1,7 +1,7 @@
 ---
 layout: ../../../layouts/Article.astro
 title: "MinhmanTongiao"
-source: "https://sachhiem.net/null"
+source: "/null"
 lang: en
 wordCount: 325
 ---

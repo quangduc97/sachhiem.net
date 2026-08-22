@@ -3,7 +3,7 @@ layout: ../../../layouts/Article.astro
 title: "Kẻ Hợm Mình (The Snob)"
 author: "Truyện ngắn của Morley Callaghan"
 date: 2017-01-07
-source: "https://sachhiem.net/DAOVB/VH/DaovBinh_truyenngan.php"
+source: "/DAOVB/VH/DaovBinh_truyenngan"
 category: "Văn hóa"
 lang: vi
 wordCount: 2835
@@ -67,4 +67,4 @@ image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/VANHOC/Hinh/VANNHAN/
   
      <p align="center"><a href="https://www.newyorker.com/magazine/1934/07/07/the-snob"><img src="https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/VANHOC/Hinh/SACH/TheSnob1.jpg" width="232" height="329" alt=""></a></p>
 <hr>
- <p><a href="https://sachhiem.net/DAOVB/DVBdir.php">-- Link các bài viết của tác giả Đào Văn Bình --</a> </p>
+ <p><a href="/DAOVB/DVBdir">-- Link các bài viết của tác giả Đào Văn Bình --</a> </p>

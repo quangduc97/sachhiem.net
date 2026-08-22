@@ -3,7 +3,7 @@ layout: ../../../layouts/Article.astro
 title: "12 SỰ THẬT KHÓ CHỊU VỀ KI-TÔ GIÁO"
 author: "Michael A. Sherlock/ Lê thị Kim Hoa"
 date: 2024-06-25
-source: "https://sachhiem.net/TONGIAO/FB/FBLeThiKimHoa07.php"
+source: "/TONGIAO/FB/FBLeThiKimHoa07"
 category: "Tác giả"
 lang: vi
 wordCount: 1497

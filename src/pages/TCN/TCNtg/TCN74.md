@@ -2,10 +2,10 @@
 layout: ../../../layouts/Article.astro
 title: "THE VATICAN’S HOLOCAUST"
 author: "By: Baron Avro Manhattan"
-source: "https://sachhiem.net/Nguồn: https://www.reformation.org/holocaus.html"
+source: "/Nguồn: https://www.reformation.org/holocaus.html"
 lang: en
 wordCount: 5344
-image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nha.jpg"
+image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/TCN/TCNtg/IMG/VaticanHolocaust/Catocaidao-Serbs.jpg"
 ---
 
 <table dir="ltr" border="0" cellpadding="0" cellspacing="0" width="100%"><tbody><tr><td valign="top" width="1%" background="../../images/BGleft.gif">
@@ -28,7 +28,7 @@ image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nha.jpg"
 <div style="padding-left: 50px; padding-right: 50px">
 	<table border="0" cellpadding="10" width="80%" cols="2"><tbody><tr>
 <td>
-<a href="https://www.sachhiem.net/"><img border="0" src="https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nha.jpg"></a></td>
+</td>
 	<td valign="top" style="text-align:right">ngày 21 tháng 6, 2009</td></tr></tbody></table>
 	
 	<p>
@@ -59,7 +59,7 @@ image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nha.jpg"
 	qua những công cuộc nghiên cứu nghiêm chỉnh của họ {Xin đọc kho tài liệu về 
 	mọi khía cạnh của Ca-tô Giáo của các học giả, trên
 	[<a href="https://giaodiemonline.com/2009/06/thumuc.htm">https://giaodiemonline.com/2009/06/thumuc.htm</a>]
-	hoặc trên [<a href="https://www.sachhiem.net/SACHNGOAI/SNGOAIdir.php">https://www.sachhiem.net/SACHNGOAI/ SNGOAIdir.php</a>]}</p>
+	hoặc trên [<a href="/SACHNGOAI/SNGOAIdir">https://www.sachhiem.net/SACHNGOAI/ SNGOAIdir.php</a>]}</p>
 	
 	<p> <i>
 	“Giáo Hội Ca-tô Rô-ma 

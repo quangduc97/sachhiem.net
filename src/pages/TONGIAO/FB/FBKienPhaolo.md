@@ -3,7 +3,7 @@ layout: ../../../layouts/Article.astro
 title: "CÔNG GIÁO: ĐẠO ĂN CẮP"
 author: "Kiên Phaolo"
 date: 2022-08-26
-source: "https://sachhiem.net/TONGIAO/FB/FBKienPhaolo.php"
+source: "/TONGIAO/FB/FBKienPhaolo"
 category: "Chính trị"
 lang: vi
 wordCount: 1059

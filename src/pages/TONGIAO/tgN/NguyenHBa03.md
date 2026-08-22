@@ -3,7 +3,7 @@ layout: ../../../layouts/Article.astro
 title: "Xin Được Hỏi..."
 author: "Nguyễn Hữu Ba"
 date: 2012-04-23
-source: "https://sachhiem.net/TONGIAO/tgN/NguyenHBa03.php"
+source: "/TONGIAO/tgN/NguyenHBa03"
 category: "Tác giả"
 lang: vi
 wordCount: 2062
@@ -211,4 +211,4 @@ image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/TONGIAO/IMG/METIN/wa
 		  </ul>
 
 ___________________
-<p>Các bài của Nguyễn Hữu Ba: link <a href="https://sachhiem.net/TONGIAO/tgN/ListNHBa.inc.php" target="_blank">https://sachhiem.net/TONGIAO/tgN/ListNHBa.inc.php</a></p>
+<p>Các bài của Nguyễn Hữu Ba: link <a href="/TONGIAO/tgN/ListNHBa.inc" target="_blank">https://sachhiem.net/TONGIAO/tgN/ListNHBa.inc.php</a></p>

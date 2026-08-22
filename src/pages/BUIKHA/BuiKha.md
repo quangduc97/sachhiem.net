@@ -2,7 +2,7 @@
 layout: ../../layouts/Article.astro
 title: "Giám Mục NGÔ ĐÌNH THỤC:"
 author: "Bùi Kha"
-source: "https://sachhiem.net/BUIKHA/BuiKha.php"
+source: "/BUIKHA/BuiKha"
 category: "Lịch sử"
 lang: vi
 wordCount: 1535

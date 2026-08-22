@@ -2,7 +2,7 @@
 layout: ../../layouts/Article.astro
 title: "Những cuộn Hào Quang Ban Mai"
 author: "Lý Thái Xuân sưu tầm"
-source: "https://sachhiem.net/LTX/LyThaiKH04.php"
+source: "/LTX/LyThaiKH04"
 category: "Khoa học"
 lang: vi
 wordCount: 247

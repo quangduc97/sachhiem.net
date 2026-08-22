@@ -3,7 +3,7 @@ layout: ../../../layouts/Article.astro
 title: "Những Linh Mục “Vĩ Đại” Trong Lịch Sử Việt Nam"
 author: "FB Anh-Tuan LE"
 date: 2019-11-23
-source: "https://sachhiem.net/TONGIAO/FB/FBAnhTuanLe03.php"
+source: "/TONGIAO/FB/FBAnhTuanLe03"
 category: "Chính trị"
 lang: vi
 wordCount: 4139

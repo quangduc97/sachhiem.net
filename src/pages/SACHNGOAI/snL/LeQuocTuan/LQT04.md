@@ -2,11 +2,11 @@
 layout: ../../../../layouts/Article.astro
 title: "Cha Gabriel Amorth, Chuyên Gia Trừ Quỷ"
 author: "Dịch Việt ngữ: Lê Quốc Tuấn"
-source: "https://sachhiem.net/Richard Owen viết từ Rome - From The Times, March 11, 2010"
+source: "/Richard Owen viết từ Rome - From The Times, March 11, 2010"
 category: "Tác giả"
 lang: vi
 wordCount: 1301
-image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nha.jpg"
+image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/TONGIAO/IMG/LINHMUC/FatherAmorth.jpg"
 ---
 
 <div align="center" style="position: relative; left: 0; top: 0">
@@ -26,8 +26,7 @@ image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nha.jpg"
 <tr><td width="100%">
 <div style="padding-left: 50px; padding-right: 50px"> 
 	<table border="0" cellpadding="1" width="87%" cols="2"><tbody><tr>
-	<td><a href="https://www.sachhiem.net/">
-	<img border="0" src="https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nha.jpg"></a></td>
+	<td></td>
 <td valign="top" width="210"><p>13 tháng 03, 2010</p>
 	</td></tr></tbody></table>
 

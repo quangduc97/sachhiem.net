@@ -3,7 +3,7 @@ layout: ../../../layouts/Article.astro
 title: "Tháng 8 Mùa Thu, Nhớ Ơn"
 author: "Nguyễn Tuấn Anh"
 date: 2024-08-19
-source: "https://sachhiem.net/THOISU_CT/ChuN/NguyenTuanAnh_07.php"
+source: "/THOISU_CT/ChuN/NguyenTuanAnh_07"
 category: "Chính trị"
 lang: vi
 wordCount: 254

@@ -3,7 +3,7 @@ layout: ../../../layouts/Article.astro
 title: "Phía Bên Kia Ánh Trăng Nhân Văn Của Ki-tô Giáo"
 author: "Trần Trọng Sỹ"
 date: 2020-08-29
-source: "https://sachhiem.net/TTS/TG/TranTrongSy10b.php"
+source: "/TTS/TG/TranTrongSy10b"
 category: "Văn hóa"
 lang: vi
 wordCount: 17175
@@ -12,7 +12,7 @@ image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/TONGIAO/IMG/VATICAN/
 
 <div class="tomluoc">
    <p><i>...Người da trắng đời thường chỉ muốn đồng hóa trẻ con Da Đỏ, họ giao trọng trách  này cho Kitô giáo, và hầu hết các trường nội trú đều được điều hành bởi các ma  sơ Công Giáo. Nhưng các nữ tu đã làm gì trong cách đối xử với các em bé khờ khạo người Da Đỏ  ?....</i></p>
-   <p>(Tiếp theo <a href="https://sachhiem.net/TTS/TG/TranTrongSy10a.php">kỳ trước</a>. Bài viết này không nhằm chống lại người Kitô Da Trắng, mà nhằm lên án chủ nghĩa Kitô Da Trắng. Phải phân biệt chống lại chủ nghĩa nô lệ khác với chống lại nô lệ)</p>
+   <p>(Tiếp theo <a href="/TTS/TG/TranTrongSy10a">kỳ trước</a>. Bài viết này không nhằm chống lại người Kitô Da Trắng, mà nhằm lên án chủ nghĩa Kitô Da Trắng. Phải phân biệt chống lại chủ nghĩa nô lệ khác với chống lại nô lệ)</p>
  </div>
  <p class="MUC">CHA ĂN MẶN CON CHÁU KHÁT NƯỚC</p>
  <p><span class="First">Đ</span>ã lâu lắm rồi bụi  đất phủ kín dấu vết tàn bạo của cây thánh giá trên đất Mỹ. Nhưng thỉnh thoảng  có một cơn lốc mạnh thổi qua, xói tung bay lớp đất che phủ xương cốt người thổ  dân, lộ ra vài bộ xương hoặc vài chiếc sọ, nhắc nhở thế giới (có lương tâm) rằng,  lịch sử, như cái cây kim trong bọc, sớm hay muộn, cây kim sẽ ló ra.</p>

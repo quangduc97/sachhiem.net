@@ -6,7 +6,7 @@ source: "https://www.cnn.com/2010/OPINION/09/16/opinion.tatchell.pope/index.html
 category: "Chính trị"
 lang: vi
 wordCount: 3010
-image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nha.jpg"
+image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/TONGIAO/IMG/PeterTatchell.jpg"
 ---
 
 <div align="center" style="position: relative; left: 0; top: 0">
@@ -25,8 +25,7 @@ image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nha.jpg"
 <div style="padding-left: 60px; padding-right: 60px">
 		
 <table border="0" cellpadding="10" width="85%" cols="2"><tbody><tr>
-<td valign="top"><a href="/index">
-<img border="0" src="https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nha.jpg"></a></td>
+<td valign="top"></td>
 <td valign="top" width="198">	22 tháng 9, 2010    </td>	</tr>
 </tbody></table>
 

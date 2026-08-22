@@ -2,7 +2,7 @@
 layout: ../../../layouts/Article.astro
 title: "DI HUẤN CỦA THẦY HUYỀN QUANG"
 author: "Thích Đồng Thọ"
-source: "https://sachhiem.net/null"
+source: "/null"
 category: "Tác giả"
 lang: vi
 wordCount: 530
@@ -33,7 +33,7 @@ image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nhacu.jpg"
 <table border="2" cellpadding="50" cellspacing="0" width="100%" topmargin="10"> 
 	<tbody><tr><td bgcolor="White" align="justify" valign="top">
 	<table border="0" cellpadding="10" width="100%" cols="2"><tbody><tr>
-	<td valign="top" width="198"><a href="https://sachhiem.net/"><img border="0" src="https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nhacu.jpg" width="49" height="20"></a></td>
+	<td valign="top" width="198"><a href="/"><img border="0" src="https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nhacu.jpg" width="49" height="20"></a></td>
 	<td valign="top" style="text-align:right">	22 tháng 7, 2008
 	</td></tr></tbody></table>
 

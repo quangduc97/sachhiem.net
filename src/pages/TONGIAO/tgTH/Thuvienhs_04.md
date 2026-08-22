@@ -3,7 +3,7 @@ layout: ../../../layouts/Article.astro
 title: "Sợ Hãi Với “Lời Phát Nguyện Trung Thành Tuyệt Đối\" - P1"
 author: "BBT Thư Viện Hoa Sen"
 date: 2025-10-16
-source: "https://sachhiem.net/TONGIAO/tgTH/Thuvienhs_04.php"
+source: "/TONGIAO/tgTH/Thuvienhs_04"
 category: "Tác giả"
 lang: vi
 wordCount: 751

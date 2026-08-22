@@ -3,7 +3,7 @@ layout: ../../../layouts/Article.astro
 title: "Chính Sách Của Chính Quyền Ngô Đình Diệm"
 author: "Lê Cung"
 date: 2020-07-13
-source: "https://sachhiem.net/LICHSU/L/LeCung.php"
+source: "/LICHSU/L/LeCung"
 category: "Chính trị"
 lang: vi
 wordCount: 6029
@@ -67,10 +67,10 @@ image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/LICHSU/IMG/SACH/Nhat
 <p>  Mặt khác chính  sách <i>"Thiên Chúa giáo hóa"</i> bộ máy nhà nước từ trung ương xuống địa phương của chính quyền Ngô Đình Diệm đã  gây nên những bất mãn và chống đối sâu rộng trong quần chúng Phật giáo. Nó đã  trở thành một trong những nguyên nhân sâu xa dẫn đến sự bùng nổ phong trào Phật  giáo miền Nam  năm 1963. Chính linh mục Cao Văn Luận, nguyên Viện trưởng Viện Đại học Huế, một  người thân tín với gia đình họ Ngô cũng đã thừa nhận. Khi phong trào Phật giáo  vừa bùng nổ, chính Cao Văn Luận đã nói với Ngô Đình Thục rằng: <i>"Sau di cư nhờ gần một triệu dân công  giáo từ Bắc vào, con số đông hơn trước nhưng tỉ lệ vẫn là 10% hay kém hơn trong  số dân Việt Nam vậy mà hiện nay mọi chức vụ lãnh đạo quốc gia đều nằm trong tay  người công giáo.</i></p>
 <p> <i>Chỉ riêng  điều này cũng có thể gây những bất mãn và chống đối trầm trọng chưa nói đến  những lỗi lầm không thể tránh được của bất cứ chính quyền nào"</i><a href="/LICHSU/#_ftn38" name="_ftnref38"> (38) </a>.</p>
 <p>(Xem tiếp:)</p>
-<p><a href="https://sachhiem.net/LICHSU/L/LeCung01.php">Phần I: Về kinh tế - xã hội</a></p>
-<p><a href="https://sachhiem.net/LICHSU/L/LeCung02.php">Phần II: Về văn hóa – giáo dục</a></p>
+<p><a href="/LICHSU/L/LeCung01">Phần I: Về kinh tế - xã hội</a></p>
+<p><a href="/LICHSU/L/LeCung02">Phần II: Về văn hóa – giáo dục</a></p>
 
-  <p>(Xem tiếp<a href="https://sachhiem.net/LICHSU/L/LeCung02.php"> Phần II. Về Văn Hóa - Giáo Dục) </a></p>
+  <p>(Xem tiếp<a href="/LICHSU/L/LeCung02"> Phần II. Về Văn Hóa - Giáo Dục) </a></p>
 
  <p>___________________</p>
  <p><b>CHÚ THÍCH:</b></p>

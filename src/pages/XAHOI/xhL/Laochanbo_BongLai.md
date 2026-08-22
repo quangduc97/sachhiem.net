@@ -3,7 +3,7 @@ layout: ../../../layouts/Article.astro
 title: "Không Thể Kinh Tởm Hơn!"
 author: "Lão Chăn Bò"
 date: 2022-01-06
-source: "https://sachhiem.net/XAHOI/xhL/Laochanbo_BongLai.php"
+source: "/XAHOI/xhL/Laochanbo_BongLai"
 category: "Chính trị"
 lang: vi
 wordCount: 433

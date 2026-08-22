@@ -3,7 +3,7 @@ layout: ../../../layouts/Article.astro
 title: "GS PHAN HUY LÊ VÀ BỘ SỬ VIỆT NAM"
 author: "Trung Can Phan"
 date: 2025-12-10
-source: "https://sachhiem.net/LICHSU/FB/FBPhanTrungCan.php"
+source: "/LICHSU/FB/FBPhanTrungCan"
 category: "Chính trị"
 lang: vi
 wordCount: 1801
@@ -30,7 +30,7 @@ image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/LICHSU/IMG/NHANVAT/P
 <p><b>Tham khảo của SH:</b></p>
 <p>- <a href="https://vi.wikipedia.org/wiki/B%C3%B9i_Di%E1%BB%85m"> Bùi Diễm, theo wikipedia </a></p>
 <p>- <a href="https://vi.wikipedia.org/wiki/Phan_Huy_Qu%C3%A1t">Phan Huy Quát theo wikipedia</a></p>
-<p>- <a href="https://sachhiem.net/NMQ/NMQ101a.php">Bài Nhận Xét Về Bộ Lịch Sử Việt Nam 15 Tập</a> (Nguyễn Mạnh Quang)</p>
+<p>- <a href="/NMQ/NMQ101a">Bài Nhận Xét Về Bộ Lịch Sử Việt Nam 15 Tập</a> (Nguyễn Mạnh Quang)</p>
 <p align="center"><img src="https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/LICHSU/IMG/SACH/LSVN15tap1.jpg" width="400" height="300" alt=""></p>
 <p>___________________</p>
 <p><b>BÌNH LUẬN của bạn đọc:</b></p>

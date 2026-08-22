@@ -1,6 +1,7 @@
 ---
 import BaseLayout from './BaseLayout.astro';
 import index from '../data/articles.json';
+import relatedData from '../data/related.json';
 
 interface Props {
   frontmatter?: {
@@ -29,12 +30,33 @@ const authorArticles = articles
   .filter((a) => a.authorSlug === authorSlug)
   .sort((a, b) => (a.date ?? '').localeCompare(b.date ?? ''));
 
-const myPath = Astro.url.pathname.replace(/\/$/, '');
+// Astro.url.pathname bao gồm base (vd /sachhiem.net/TONGIAO/...) — bóc base
+// để có đường dẫn bài thực sự khớp với articles.json và related.json
+const baseSeg = import.meta.env.BASE_URL.replace(/^\/+|\/+$/g, '');
+const rawPath = Astro.url.pathname.replace(/^\//, '').replace(/\/$/, '');
+const myKey = baseSeg ? rawPath.slice(baseSeg.length + 1) : rawPath;
+const myPath = `/${myKey}`;
 const myIdx = authorArticles.findIndex((a) => a.path === myPath);
 const prev = myIdx > 0 ? authorArticles[myIdx - 1] : null;
 const next = myIdx >= 0 && myIdx < authorArticles.length - 1 ? authorArticles[myIdx + 1] : null;
 const myMeta = myIdx >= 0 ? authorArticles[myIdx] : null;
 const desc = excerpt ?? myMeta?.excerpt;
+
+// Khối "bài liên quan" (trích từ PHP include cũ của site gốc)
+const relatedBlocks = (relatedData ?? {})[myKey] ?? [];
+const relCollator = new Intl.Collator('vi', { numeric: true, sensitivity: 'base' });
+const prefixMatches = (prefix) => {
+  const p = String(prefix).toLowerCase();
+  return articles
+    .filter(
+      (a) =>
+        a.path !== myPath &&
+        (a.path.toLowerCase().startsWith(`/${p}`) ||
+          (a.path.split('/').pop() ?? '').toLowerCase().startsWith(p)),
+    )
+    .sort((a, b) => relCollator.compare(a.path, b.path))
+    .slice(0, 60);
+};
 
 const fmtDate = (iso?: string) =>
   iso
@@ -87,11 +109,60 @@ const metaBits = [
       <Fragment set:html={bodyHtml ?? ''} />
     </div>
 
+    {
+      relatedBlocks.map((b) => (
+        <section class="related">
+          <h2 class="related-title">{b.heading || 'Bài liên quan'}</h2>
+          {
+            b.type === 'prefix' ? (
+              <ul class="article-list">
+                {
+                  prefixMatches(b.prefix).map((a) => (
+                    <li>
+                      <a href={a.path}>
+                        <span class="t">{a.title}</span>
+                        <span class="d">{a.date ? fmtDate(a.date) : ''}</span>
+                      </a>
+                    </li>
+                  ))
+                }
+              </ul>
+            ) : (
+              <ul class="article-list">
+                {
+                  b.items.map((it) => (
+                    <li>
+                      <a
+                        href={it.url}
+                        {...(String(it.url).startsWith('http') ? { target: '_blank', rel: 'noopener' } : {})}
+                      >
+                        <span class="t">{it.title}</span>
+                        {it.note && <span class="d">{it.note}</span>}
+                      </a>
+                    </li>
+                  ))
+                }
+              </ul>
+            )
+          }
+        </section>
+      ))
+    }
+
     <div class="source-block">
       {
         source && (
           <span>
-            Nguồn: <a href={source} rel="noopener" target="_blank">{source}</a>
+            Nguồn:{' '}
+            {
+              String(source).startsWith('/') ? (
+                <a href={source}>{source}</a>
+              ) : /^https?:/i.test(source) ? (
+                <a href={source} rel="noopener" target="_blank">{source}</a>
+              ) : (
+                <span>{source}</span>
+              )
+            }
           </span>
         )
       }

@@ -3,7 +3,7 @@ layout: ../../../../layouts/Article.astro
 title: "Ki Tô Giáo không thể sống hòa bình với bất cứ tín ngưỡng nào khác"
 author: "Trần Chung Ngọc"
 date: 2022-12-02
-source: "https://sachhiem.net/TCN/TCNtg/Giesu/Giesulaai4A.php"
+source: "/TCN/TCNtg/Giesu/Giesulaai4A"
 category: "Tác giả"
 lang: vi
 wordCount: 3361
@@ -41,7 +41,7 @@ image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/SACHNGOAI/Hinhanh/PE
 	<p align="center"><img src="https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/SACHNGOAI/Hinhanh/BIASACH/Ingersoll_1.jpg" width="400" height="333" alt=""></p>
 	<hr> 
 	<h1>Chú Thích:</h1>
-	<p>**SH: Robert G. Ingersoll là một chiến sĩ tiền phong trong chủ trương giải phóng đầu óc con người khỏi những cùm xích của ngu dốt và mê tín Ki Tô Giáo. Ông ta mang cấp bậc Đại Tá trong cuộc nội chiến, và sau đó làm Chưởng Lý (Attorney General), bang Illinois. Tượng kỷ niệm Ingersoll hiện nay còn ở Peoria, Illinois (<a href="https://sachhiem.net/TCN/TCNtg/TCN72.php">trích Vài lời nói đầu</a>)</p>
+	<p>**SH: Robert G. Ingersoll là một chiến sĩ tiền phong trong chủ trương giải phóng đầu óc con người khỏi những cùm xích của ngu dốt và mê tín Ki Tô Giáo. Ông ta mang cấp bậc Đại Tá trong cuộc nội chiến, và sau đó làm Chưởng Lý (Attorney General), bang Illinois. Tượng kỷ niệm Ingersoll hiện nay còn ở Peoria, Illinois (<a href="/TCN/TCNtg/TCN72">trích Vài lời nói đầu</a>)</p>
 <p> 40. Lewis, Joseph, Editor: <i>Ingersoll: The Magnificent</i> ,  p. 117-122: 
 </p>
 <p>  Christianity cannot live in peace with any other form of  faith. If that religion be true, there is but one savior, one  inspired book, and but one little narrow grass-grown path that  leads to heaven.</p>

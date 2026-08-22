@@ -3,7 +3,7 @@ layout: ../../../layouts/Article.astro
 title: "Để Trả Lời Cho Câu Hỏi: Con Người Từ Đâu Đến?"
 author: "Trần Ngẫu Hồ"
 date: 2017-01-18
-source: "https://sachhiem.net/TONGIAO/tgTR/TranNgauHo.php"
+source: "/TONGIAO/tgTR/TranNgauHo"
 category: "Chính trị"
 lang: vi
 wordCount: 3378

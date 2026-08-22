@@ -3,7 +3,7 @@ layout: ../../layouts/Article.astro
 title: "Không Tìm Được Khai Sinh Cho 2 Quốc Gia Giai Đoạn 1954-1975."
 author: "Lý Thái Xuân"
 date: 2021-04-12
-source: "https://sachhiem.net/LTX/LyThaiLS7.php"
+source: "/LTX/LyThaiLS7"
 category: "Lịch sử"
 lang: vi
 wordCount: 774

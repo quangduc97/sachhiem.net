@@ -3,7 +3,7 @@ layout: ../../../layouts/Article.astro
 title: "Phản Thần - Phản Quốc - Trên Đội Dưới Đạp"
 author: "Trần Quang Diệu sưu tầm"
 date: 2016-10-29
-source: "https://sachhiem.net/LICHSU/TR/TQD54.php"
+source: "/LICHSU/TR/TQD54"
 category: "Lịch sử"
 lang: vi
 wordCount: 1049
@@ -29,10 +29,10 @@ image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/LICHSU/IMG/NGODD/Die
     </div>
       <p align="center"><img src="https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/LICHSU/IMG/BAODAI/HinhnomBD.jpg" width="246" height="232" alt="hình nộm Bảo Đại"></p>
  <p>Mười một tháng sau lá thư bày tỏ “lòng trung thành tôn kính và thâm sâu” nói trên, ông Diệm dùng phương tiện chính phủ tiến hành một chiến dịch<b> lăng nhục vua Bảo Đại </b>(xem hình nộm Bảo Đại) và tổ chức Trưng cầu Dân ý gian lận để truất phế vua Bảo Đại và tự phong mình làm Quốc Trưởng với …&nbsp;98.2%&nbsp;số phiếu !</p>
-  <p>(trích  <a href="https://sachhiem.net/LICHSU/N/Namgiao_01.php">Hai Bức Thư Đi Vào Lịch Sử của Kẻ Phản Thần)</a></p>
+  <p>(trích  <a href="/LICHSU/N/Namgiao_01">Hai Bức Thư Đi Vào Lịch Sử của Kẻ Phản Thần)</a></p>
 <p class="TuaDoLeft">Phản Quốc</p>
 
-  <p>Giám mục  Ngô Đình Thục khẳng định với quan Toàn Quyền Pháp Jean Decoux, Toàn Quyền Đông Dương, về công trạng phản quốc của gia tộc họ Ngô: (trích <a href="https://sachhiem.net/LICHSU/N/Namgiao_01.php" target="_blank">	
+  <p>Giám mục  Ngô Đình Thục khẳng định với quan Toàn Quyền Pháp Jean Decoux, Toàn Quyền Đông Dương, về công trạng phản quốc của gia tộc họ Ngô: (trích <a href="/LICHSU/N/Namgiao_01" target="_blank">	
     <i>Hai Bức Thư Đi Vào Lịch Sử của Kẻ Phản Thần</i></a>) </p>
   <table width="100%" border="0" cellpadding="10">
     <tbody>
@@ -50,14 +50,14 @@ image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/LICHSU/IMG/NGODD/Die
    
   <p align="center"><img src="https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/LICHSU/IMG/NGODD/spellman.jpg" width="288" height="288" alt=""><img src="https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/LICHSU/IMG/NGODD/NDD_hyAgagianian.jpg" width="284" height="215" alt=""></p>
   <p align="center">Ảnh 1 -  <i>Ngô Đình Diệm hôn nhẫn Hồng Y Spellman</i> </p>
-  <p align="center"><a href="https://sachhiem.net/index.php?content=showrecipe&amp;id=6624">Ảnh 2 </a>- <i>TT. N.Đ.Diệm hôn nhẫn Hồng Y Agagianian khi HY đến VN lo việc dâng nước VN cho Đức Mẹ dịp Đại hội Thánh mẫu tháng 2 năm 1959.</i>  </p>
+  <p align="center"><a href="/NMQ/NMQ63">Ảnh 2 </a>- <i>TT. N.Đ.Diệm hôn nhẫn Hồng Y Agagianian khi HY đến VN lo việc dâng nước VN cho Đức Mẹ dịp Đại hội Thánh mẫu tháng 2 năm 1959.</i>  </p>
   <p><b>Bổ túc của SH</b></p>
   <div class="indent50">
     <p> - Vietnam… Why Did We Go? Chương 9,&nbsp;<i>“Dưới thời Eisenhower, khi anh em nhà Dulles, <b>Hồng Y Spellman</b> và Pius XII giúp hình thành những sách lược của Hoa Kỳ, quân đội Mỹ định thả từ một đến sáu quả bom 31-kiloton lên những lực lượng Việt nam. Những quả bom này có sức mạnh ba lần hơn quả bom ném xuống Hiroshima. Âm mưu sử dụng vũ khí hạt nhân chống lại Việt nam được bạch hóa trong cuốn đầu tiên của loạt 17 cuốn lịch sử chính thức về Chiến tranh Việt nam được xuất bản vào 1984 bởi Phòng Quân sử Lục Quân Hoa Kỳ”</i>. Tính rợ theo Avro Manhattan, sẽ có ít nhất 1.200.000 người Việt chết cháy ngay lập tức.</p>
-    <p>(trích <a href="https://sachhiem.net/TRTVT/TTVT_LS02.php">Tại sao Hồng Y Francis Spellman Muốn Dội Bom Nguyên Tử Xuống Việt Nam? </a>)</p>
+    <p>(trích <a href="/TRTVT/TTVT_LS02">Tại sao Hồng Y Francis Spellman Muốn Dội Bom Nguyên Tử Xuống Việt Nam? </a>)</p>
     <p>-  Khi Mỹ đã chiếm được (Vietnam) với  một tổng thống bù nhìn, (Ngô) Diệm, người đã được cấy (giáo dục) tại tu viện Mary Knoll ở bờ biển phía Đông (New Jersey) bởi Hồng y Spellman .. một bó củi đang cháy rực, người  ngụy trang là một  con rồng chiến tranh và là một trong những kẻ chủ mưu của chiến tranh VietNam. Thế rồi, Diệm là một người theo Ca-tô Rô-ma giáo, chúng ta (Hoa-kỳ) đã dựng hắn (Ngô Đình Diệm) lên làm con rối trong một đất nước của Phật Giáo <i>[Then, when the Americans finally took over with a puppet president, (Ngo) Diem, who had been cultivated in the Maryknoll Academy in the East Coast by Cardinal Spellman.. another flaming faggot, who in disguise was a sort of a war dragon and one of the instigators of the Vietnam War..so Diem was a Catholic, and we (the USA) had installed him as a puppet in a Buddhist country]</i> - Xem  <a href="https://ginsbergblog.blogspot.com/2015_05_01_archive.html">Phỏng Vấn Tài Liệu Lưu Trữ An Ninh Quốc Gia năm 1996 phần 1</a></p>
   </div>
     <p class="TuaDoLeft">Dưới Đạp - Còn gọi là "Ác với Dân"</p>
   
   <p align="center"><img src="https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/LICHSU/IMG/NGODD/NDD_ngoixuong.JPG" width="320" height="227">&nbsp;<img src="https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/LICHSU/IMG/NGODD/NDD_linhchaoTT.JPG" width="320" height="233"></p>
-  <p> Năm 1961 (Tân Sửu), lụt lớn ở đồng bằng sông Cửu Long, ông Ngô Đình Diệm mang ủng phì phèo thuốc lá, ngồi trên thuyền bắt sĩ quan cấp Tá lội nước đẩy đi thăm dân bị nạn lụt, và bắt quân nhân đứng ngâm mình dưới nước để chào đón. Xem <a href="https://sachhiem.net/THOISU_CT/ChuC/Cahat01.php">Hai Hình Ảnh: Chưa Cần Đánh Đã Thấy Thua</a><img src="https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/sqdot.gif" width="10" height="10"></p>
+  <p> Năm 1961 (Tân Sửu), lụt lớn ở đồng bằng sông Cửu Long, ông Ngô Đình Diệm mang ủng phì phèo thuốc lá, ngồi trên thuyền bắt sĩ quan cấp Tá lội nước đẩy đi thăm dân bị nạn lụt, và bắt quân nhân đứng ngâm mình dưới nước để chào đón. Xem <a href="/THOISU_CT/ChuC/Cahat01">Hai Hình Ảnh: Chưa Cần Đánh Đã Thấy Thua</a><img src="https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/sqdot.gif" width="10" height="10"></p>

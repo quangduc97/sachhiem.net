@@ -3,7 +3,7 @@ layout: ../../layouts/Article.astro
 title: "Cờ Vàng: Kẻ Chịu Tang Và Thờ Cúng Quân Xâm Lược"
 author: "Amarix-TX"
 date: 2012-08-08
-source: "https://sachhiem.net/AMARITX/AMI00.php"
+source: "/AMARITX/AMI00"
 category: "Chính trị"
 lang: vi
 wordCount: 2342

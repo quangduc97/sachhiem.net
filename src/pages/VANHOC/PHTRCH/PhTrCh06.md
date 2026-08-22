@@ -3,7 +3,7 @@ layout: ../../../layouts/Article.astro
 title: "GS Lê Thành Khôi & Lịch Sử Việt Nam"
 author: "TS Phạm Trọng Chánh"
 date: 2014-11-02
-source: "https://sachhiem.net/VANHOC/PHTRCH/PhTrCh06.php"
+source: "/VANHOC/PHTRCH/PhTrCh06"
 category: "Văn hóa"
 lang: vi
 wordCount: 2270
@@ -58,7 +58,7 @@ image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/LICHSU/IMG/SACH/LSVN
   <br>
   Trang trọng<br>
   <i>Lâm Xuân Anh</i></p>
-<p>(Có đăng ở <a href="https://sachhiem.net/index.php?content=showemail&amp;id=789">https://sachhiem.net/index.php?content=showemail&amp;id=789</a>)</p>
+<p>(Có đăng ở <a href="/net/index">https://sachhiem.net/index.php?content=showemail&amp;id=789</a>)</p>
 
 <p><b>2. Về Cuốn Sách Được Cho Là "Kiệt Tác Sử Học"! </b>(Tiến Anh, Hồng Quang)</p>
 <p>Trong những năm gần đây, một số công trình nghiên cứu của người Việt Nam ở nước ngoài đã được xuất bản trong nước. Có thể xem đây là sự bổ sung thêm tư liệu, ý kiến tham khảo về một số vấn đề, sự kiện văn hóa, lịch sử,... đồng thời là thể hiện của tinh thần hòa hợp dân tộc. Tuy nhiên khi xuất bản, một số tác phẩm lại được quảng bá không tương ứng với giá trị của tác phẩm.</p>

@@ -3,7 +3,7 @@ layout: ../../layouts/Article.astro
 title: "Dịch Covid-19: Thần Chết Quyền Năng - Thượng Đế Vô Dụng!"
 author: "Lý Thái Xuân"
 date: 2020-05-13
-source: "https://sachhiem.net/LTX/LythaiTG27.php"
+source: "/LTX/LythaiTG27"
 category: "Tác giả"
 lang: vi
 wordCount: 3000
@@ -121,7 +121,7 @@ image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/TONGIAO/IMG/CORONA/S
    <p class="TacgiaL">Lý Thái Xuân</p>
      <p>_________________</p>
      <p><b>Những bài liên quan:</b></p>
-     <p>- <a href="https://sachhiem.net/TONGIAO/FB/FBVinceVince02.php">Virus Corona Chứng Minh Thần Ki-Tô Giáo Không Tồn Tại! </a>(DAN BARKER/Vince Vince) </p>
+     <p>- <a href="/TONGIAO/FB/FBVinceVince02">Virus Corona Chứng Minh Thần Ki-Tô Giáo Không Tồn Tại! </a>(DAN BARKER/Vince Vince) </p>
      <p>- <a href="https://youtu.be/stkGzlSv4RU?t=311">Hồng Y làm người hầu bàn</a>: Rainer Woelki, 63, ở  Köln 10/Apr/2020 </p>
      <p><iframe width="320" height="195" src="https://www.youtube.com/embed/stkGzlSv4RU" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe></p>
  <p> <a href="https://www.nbcsandiego.com/news/national-international/top-news-pictures/2226540/"> </a>- <a href="https://www.vietcatholic.net/News/Html/255767.htm">Báo cáo của Hội Đồng Giám Mục Ý: 110 linh mục bị thiệt mạng vì Coronavirus</a> 14/Apr/2020  </p>

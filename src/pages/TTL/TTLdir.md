@@ -1,14 +1,14 @@
 ---
 layout: ../../layouts/Article.astro
 title: "Các bài viết của tác giả Trần Tiên Long"
-source: "https://sachhiem.net/TTL/TTLdir.php"
+source: "/TTL/TTLdir"
 lang: vi
 wordCount: 206
-image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nha.jpg"
+image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/TTL/IMG/TVQ.jpg"
 ---
 
 <center>
-<p> <a href="https://www.sachhiem.net/"> <img border="0" src="https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nha.jpg"></a></p>
+
 <img src="https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/TTL/IMG/TVQ.jpg" width="148" height="224" alt="">
 </center>
 

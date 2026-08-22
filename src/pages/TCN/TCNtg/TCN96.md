@@ -2,11 +2,11 @@
 layout: ../../../layouts/Article.astro
 title: "Tản Mạn Xung Quanh Cuộc Nghinh Rước"
 author: "Trần Chung Ngọc"
-source: "https://sachhiem.net/null"
+source: "/null"
 category: "Tác giả"
 lang: vi
 wordCount: 6221
-image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nha.jpg"
+image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/TONGIAO/IMG/CHUA/XaloiPhatAndo.jpg"
 ---
 
 <div align="center" style="position:  relative; left:  0; top:  0">
@@ -23,8 +23,7 @@ image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nha.jpg"
 <tr><td width="100%">
 <div style="padding-left:  50px; padding-right:  50px"> 
 	<table border="0" cellpadding="1" width="86%" cols="2" height="39"><tbody><tr>
-	<td><a href="/index">
-	<img border="0" src="https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nha.jpg"></a></td>
+	<td></td>
 <td valign="top" width="210"><p>29 tháng 4,  2010</p></td></tr></tbody></table>
 	<p> <span class="First">N</span>gày 3/3/2010, một máy bay của Hãng Hàng Không Việt 
 	Nam,  VN9985, đã được thuê bao để dùng riêng cho việc chuyên trở hơn 100 vị 
@@ -514,7 +513,7 @@ image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nha.jpg"
 	
 	<hr width="30%" align="left">
 	<p class="TuaDenLeft">Các bài cùng đề tài:</p>
-	<p><a href="https://sachhiem.net/TONGIAO/tgN/NGTRCAM/NguyenTriCam18.php">- Âm Mưu Ngăn Chận Ảnh Hưởng của Phật Giáo</a></p>
+	<p><a href="/TONGIAO/tgN/NGTRCAM/NguyenTriCam18">- Âm Mưu Ngăn Chận Ảnh Hưởng của Phật Giáo</a></p>
 	<p><a href="/TCN/TCN96">- Tản Mạn Xung Quanh Cuộc Nghinh Rước Xá Lợi Phật (Trần Chung Ngọc)</a></p>
 	
 	

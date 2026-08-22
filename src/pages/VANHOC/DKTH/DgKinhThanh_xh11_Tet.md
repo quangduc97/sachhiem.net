@@ -3,7 +3,7 @@ layout: ../../../layouts/Article.astro
 title: "TẢN MẠN “Tết Ta Tết Tây\" TẾT CỦA QUÊ TA"
 author: "Dương Kinh Thành"
 date: 2023-01-09
-source: "https://sachhiem.net/VANHOC/DKTH/DgKinhThanh_xh11_Tet.php"
+source: "/VANHOC/DKTH/DgKinhThanh_xh11_Tet"
 category: "Xã hội"
 lang: vi
 wordCount: 2019
@@ -39,7 +39,7 @@ image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/VANHOC/Hinh/Tet_amli
 <p>Một cảnh làm bánh chưng dọn Tết, từ <a href="https://www.youtube.com/watch?v=rrpGede-hKo">video clip VTC14_Cận cảnh_Đi tìm Tết Việt</a></p>
 
 <p><b>Đọc thêm:</b></p>
-<p><a href="https://sachhiem.net/VANHOC/DKTH/DgKinhThanh_xh03_amlich.php">- Âm Lịch : Ngày Cuối Năm&nbsp;Thấm Thía! (G.Đ. Dương Như Tâm) </a></p>
+<p><a href="/VANHOC/DKTH/DgKinhThanh_xh03_amlich">- Âm Lịch : Ngày Cuối Năm&nbsp;Thấm Thía! (G.Đ. Dương Như Tâm) </a></p>
 <p><b>Xem thêm:</b></p>
 <p>- <a href="https://www.youtube.com/watch?v=nexpOBVA_wk">Vén màn Sự Thật nguồn gốc Tết Nguyên Đán - Niềm Tự hào của VN</a></p>
 <p><iframe width="480" height="270" src="https://www.youtube.com/embed/nexpOBVA_wk" title="😳 Vén màn Sự Thật nguồn gốc Tết Nguyên Đán - Niềm Tự hào của VN" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen=""></iframe></p>

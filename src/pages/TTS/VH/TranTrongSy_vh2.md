@@ -3,7 +3,7 @@ layout: ../../../layouts/Article.astro
 title: "GS Trần Chung Ngọc"
 author: "Trần Trọng Sỹ"
 date: 2015-01-30
-source: "https://sachhiem.net/TTS/VH/TranTrongSy_vh2.php"
+source: "/TTS/VH/TranTrongSy_vh2"
 category: "Văn hóa"
 lang: vi
 wordCount: 3064
@@ -72,4 +72,4 @@ image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/LICHSU/IMG/TRGHOA/Kh
  <p>Đêm Paris 29.01.2015</p>
  <p class="TacgiaL">Trần Trọng Sỹ </p>
  ___________________
-<p>Các bài của Trần Trọng Sỹ: link <a href="https://sachhiem.net/TTS/ListTTS.inc.php" target="_blank">https://sachhiem.net/TTS/ListTTS.inc.php</a></p>
+<p>Các bài của Trần Trọng Sỹ: link <a href="/TTS/ListTTS.inc" target="_blank">https://sachhiem.net/TTS/ListTTS.inc.php</a></p>

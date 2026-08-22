@@ -3,7 +3,7 @@ layout: ../../layouts/Article.astro
 title: "Chưa Đi Hà Giang"
 author: "Lý Thái Xuân"
 date: 2017-03-16
-source: "https://sachhiem.net/LTX/LyThaiXH28.php"
+source: "/LTX/LyThaiXH28"
 category: "Xã hội"
 lang: vi
 wordCount: 4471

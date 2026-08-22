@@ -2,18 +2,17 @@
 layout: ../../../layouts/Article.astro
 title: "Tưởng niệm Đinh"
 author: "Vũ Huy Quang"
-source: "https://sachhiem.net/THOISU_CT/VHQ/VuHuyQuang04.php"
+source: "/THOISU_CT/VHQ/VuHuyQuang04"
 category: "Chính trị"
 lang: vi
 wordCount: 843
-image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nha.jpg"
+image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/LICHSU/IMG/TRGHOA/Trotsky_Leon.jpg"
 ---
 
 <p class="Tuaduoi">bài thơ không hi vọng được công bố </p>
  
 
- <p align="center"><a href="https://www.sachhiem.net/">
-<img border="0" src="https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nha.jpg"></a> 13 tháng 8, 2010	 </p>
+ <p align="center"> 13 tháng 8, 2010	 </p>
 
 <p><b><i> Lời nói đầu
 </i></b></p>

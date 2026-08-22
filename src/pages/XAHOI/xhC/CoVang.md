@@ -2,7 +2,7 @@
 layout: ../../../layouts/Article.astro
 title: "Cờ Và Chùa"
 author: "Lý Thái Xuân"
-source: "https://sachhiem.net/null"
+source: "/null"
 lang: vi
 wordCount: 5706
 image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nhacu.jpg"
@@ -19,7 +19,7 @@ image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nhacu.jpg"
 		
 		<table border="0" cellpadding="10" width="100%" cols="3">
 			<tbody><tr>
-				<td><a href="https://sachhiem.net/">
+				<td><a href="/">
 				<img border="0" src="https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nhacu.jpg" width="49" height="20"></a></td>
 				<td valign="top"><i>
 				<a href="/XAHOI/#" onclick="location.href='https://sachhiem.net/BIA/sendafriend.php?url='+location.href;">

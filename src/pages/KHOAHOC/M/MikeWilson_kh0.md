@@ -3,15 +3,14 @@ layout: ../../../layouts/Article.astro
 title: "Cơ Học Lượng Tử Là Gì ?"
 author: "Mike Wilson"
 date: 2022-03-08
-source: "https://sachhiem.net/KHOAHOC/M/MikeWilson_kh0.php"
+source: "/KHOAHOC/M/MikeWilson_kh0"
 category: "Tác giả"
 lang: vi
 wordCount: 3114
-image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nha.jpg"
+image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/KHOAHOC/IMG/ASTRO/QuantumGravity.JPG"
 ---
 
-<p align="center"><a href="https://www.sachhiem.net/"> <img border="0" src="https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nha.jpg"></a> </p>
-  <div class="tomluoc">
+<div class="tomluoc">
   
     <p><i>Đây là một tiểu luận thú vị về thuyết cơ học lượng tử và công cuộc còn dang dở của các nhà vật lý học trong việc phát minh một lý thuyết thống nhất, tổng hợp cơ học lượng tử và thuyết tương đối, để giải thích mọi hiện tượng trong vũ trụ, từ các cõi siêu thiên hà, xuống đến cõi nhỏ hơn hạt nguyên tử</i></p>
     <p><i>Người dịch chỉ tóm tắt những ý chính, để giữ sự thú vị và dễ hiểu (MW)</i></p>

@@ -3,7 +3,7 @@ layout: ../../layouts/Article.astro
 title: "Bảo Vệ Quyền Con Người Là Bảo Vệ Phẩm Giá Dân Tộc"
 author: "Amari-TX"
 date: 2012-08-30
-source: "https://sachhiem.net/AMARITX/AMI01.php"
+source: "/AMARITX/AMI01"
 category: "Chính trị"
 lang: vi
 wordCount: 1977

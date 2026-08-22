@@ -3,7 +3,7 @@ layout: ../../../layouts/Article.astro
 title: "Khi Nhà Nước Thu Thuế Cho Nhà Thờ"
 author: "Thomas Bores / CATP"
 date: 2015-03-19
-source: "https://sachhiem.net/TONGIAO/tgB/Baomoi_relig_tax.php"
+source: "/TONGIAO/tgB/Baomoi_relig_tax"
 category: "Chính trị"
 lang: vi
 wordCount: 1184

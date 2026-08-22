@@ -3,7 +3,7 @@ layout: ../../../layouts/Article.astro
 title: "Chia Buồn Cùng Gia Đình Anh Lê Văn Ninh"
 author: "Trang nhà SH"
 date: 2015-02-04
-source: "https://sachhiem.net/XAHOI/CHIABUON/Chiabuon8.php"
+source: "/XAHOI/CHIABUON/Chiabuon8"
 lang: vi
 wordCount: 537
 image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/ChiaBuon/Decor2.jpg"

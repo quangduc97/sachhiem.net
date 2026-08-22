@@ -3,7 +3,7 @@ layout: ../../../layouts/Article.astro
 title: "Khi Cậu Bé Tuyên Bố Cậu Không Có Lên Thiên Đàng, Nhà Xuất Bản Thu Hồi Sách"
 author: "Bill Chappell/ NPR"
 date: 2015-01-16
-source: "https://sachhiem.net/SACHNGOAI/G/GiangThuong.php"
+source: "/SACHNGOAI/G/GiangThuong"
 category: "Chính trị"
 lang: vi
 wordCount: 1130
@@ -37,4 +37,4 @@ image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/TONGIAO/IMG/METIN/Dr
 <p><a name="nthr" href="/SACHNGOAI/#thr">(3)</a>  Chỉ vài ngày sau khi cậu bé Alex Malarkey, tiết lộ rằng cậu đã nói dối khi tuyên bố đã đến thiên đường,  đã có một cuốn sách dựa trên câu chuyện đó, <a href="https://www.christianpost.com/news/colton-burpo-says-his-heaven-is-for-real-story-is-true-132739/">cậu bé Colton Burpo,</a> chủ đề của cuốn sách-quay-phim <i>"Heaven Is for Real"</i> (Thiên Đàng Là Thật,) nói rằng cậu vẫn giữ y câu chuyện của mình và rằng Chúa Giêsu "thực sự, thực sự yêu bạn,"</p>
 <p>______________</p>
  <p><b>Bài cùng đề tài:</b></p>
-<p>- <a href="https://sachhiem.net/SACHNGOAI/H/HaiAu03.php">Cậu Bé Chối Bỏ Chuyện Đã Lên Thiên Đàng, Nhà Xuất Bản Dẹp Ngay Cuốn Sách</a> (Rachel Bertsche)</p>
+<p>- <a href="/SACHNGOAI/H/HaiAu03">Cậu Bé Chối Bỏ Chuyện Đã Lên Thiên Đàng, Nhà Xuất Bản Dẹp Ngay Cuốn Sách</a> (Rachel Bertsche)</p>

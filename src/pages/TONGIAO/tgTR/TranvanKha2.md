@@ -3,7 +3,7 @@ layout: ../../../layouts/Article.astro
 title: "Tội Ác Diệt Chủng Ở Nước Chư Hầu Croatia 1941-1945"
 author: "Trần văn Kha"
 date: 2014-02-18
-source: "https://sachhiem.net/TONGIAO/tgTR/TranvanKha2.php"
+source: "/TONGIAO/tgTR/TranvanKha2"
 category: "Tác giả"
 lang: vi
 wordCount: 3723

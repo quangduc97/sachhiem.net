@@ -2,13 +2,12 @@
 layout: ../../../layouts/Article.astro
 title: "Buồn Về Tây Tạng"
 author: "Minh Mẫn"
-source: "https://sachhiem.net/MINHMAN/Tongiao/MinhManTG1.php"
+source: "/MINHMAN/Tongiao/MinhManTG1"
 lang: vi
 wordCount: 1073
-image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nha.jpg"
 ---
 
-<p align="center"><a href="https://www.sachhiem.net/"> <img border="0" src="https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nha.jpg"> </a> 9 tháng 8, 2007	</p>
+<p align="center"> 9 tháng 8, 2007	</p>
  <p><b><font face="Vivaldi" size="6">T</font></b>ừ năm 1959 trốn thoát khỏi bàn tay sắt Trung Cộng, Đức Đạt Lai Lạt Ma và đoàn tùy tùng cùng một số người dân trốn qua biên giới Trung Ấn, được sự can thiệp của Mỹ và Liên Hiệp Quốc, chính phủ Ấn cho chính phủ lưu vong Tây Tạng một vùng đất dung thân.
 </p><p>Suốt gần nửa thế kỷ lưu đày, Tây Tạng vẫn cố duy trì văn hoá đặc thù của mình, và cũng là nét văn hoá PG mang màu sắc Thần bí, chẳng những thế, Tây Tạng còn bảo lưu tính khoa học và phát triển có hệ thống trong nội bộ tu sĩ về Y học, giáo dục, văn hoá, tín ngưỡng; Trong quá khứ cũng như hiện tại, Tây Tạng đã giữ được sự tôn kính và ngưỡng mộ của quốc tế đối với một đất nước dân không đông, đất không rộng; bị áp lực nặng nề bởi chính sách triệt tiêu của khối lực Trung Cộng,  vẫn duy trì được sắc tộc mà đáng ra đã bị tiêu diệt từ lâu.
 </p><p>Dưới sự lãnh đạo của Đức Đạt Lai Lạt Ma, người dân Tây Tạng vẫn giữ được thái độ ôn hoà và đấu tranh ôn hoà để giữ vững sắc thái dân tộc, không được độc lập thì cũng phải được tự trị như Hồng Công, nhưng Bắc Kinh không hề nhân nhượng; thẳng tay một cách không thương xót đối với dân tộc hiếu hoà, tiêu diệt văn hoá, xoá sạch địa giới một cách có hệ thống, họ cố gắng đồng hoá dân Tây Tạng với Tàu, nhưng qua 50 năm vẫn chưa đạt kết quả như ý, ngoại trừ kiến trúc tân thời hầu pha loãng nếp văn hoá kiến trúc của nhân dân Tây Tạng.

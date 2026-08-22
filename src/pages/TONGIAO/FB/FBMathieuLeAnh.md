@@ -3,7 +3,7 @@ layout: ../../../layouts/Article.astro
 title: "Tượng Đài Nhà Truyền Giáo Junipero Serra Tại Mỹ Bị Giựt Sụp Là Ai?"
 author: "FB Mathieu Lê Anh"
 date: 2020-06-22
-source: "https://sachhiem.net/TONGIAO/FB/FBMathieuLeAnh.php"
+source: "/TONGIAO/FB/FBMathieuLeAnh"
 category: "Tác giả"
 lang: vi
 wordCount: 1773
@@ -51,4 +51,4 @@ image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/SACHNGOAI/Hinhanh/PE
 <p class="nguonL"><a href="https://www.facebook.com/permalink.php?story_fbid=105770280907202&amp;id=105309667619930&amp;__tn__=-R"> </a><a href="https://www.facebook.com/mathleanh/posts/331633641165631">https://www.facebook.com/mathleanh/posts/331633641165631</a> June 21, 2020</p>
 <p>_____________</p>
 <p><b>Bản tin liên quan:</b></p>
-<p>- <a href="https://sachhiem.net/THOISU_CT/SH/SH21_JuniperoSerra.php">Tượng Linh Mục Junipero Serra Trên Đường Olvera, LA Bị Kéo Đổ</a>- 21-Jun-2020 </p>
+<p>- <a href="/THOISU_CT/SH/SH21_JuniperoSerra">Tượng Linh Mục Junipero Serra Trên Đường Olvera, LA Bị Kéo Đổ</a>- 21-Jun-2020 </p>

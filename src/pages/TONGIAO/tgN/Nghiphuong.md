@@ -3,7 +3,7 @@ layout: ../../../layouts/Article.astro
 title: "Giáo Xứ Mỹ Yên và Vụ Cầu Nguyện Bằng Gạch Đá Ở Xã Nghi Phương"
 author: "Liên Mạng"
 date: 2013-09-08
-source: "https://sachhiem.net/TONGIAO/tgN/Nghiphuong.php"
+source: "/TONGIAO/tgN/Nghiphuong"
 category: "Tác giả"
 lang: vi
 wordCount: 5683
@@ -270,7 +270,7 @@ Tại cơ quan điều tra, các bị can Nguyễn Văn Hải và Ngô Văn Kh�
  <p> <img src="https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/DVcat.jpg" width="100%" height="30"> </p>
  
 <p><b>Bài đọc thêm:</b></p>
-<p><a href="https://sachhiem.net/TONGIAO/tgN/Nghiphuong.php"><b>- Giáo Xứ Mỹ Yên và Vụ Cầu Nguyện Bằng Gạch Đá Ở Xã Nghi Phương</b> (Liên Mạng)</a></p>
+<p><a href="/TONGIAO/tgN/Nghiphuong"><b>- Giáo Xứ Mỹ Yên và Vụ Cầu Nguyện Bằng Gạch Đá Ở Xã Nghi Phương</b> (Liên Mạng)</a></p>
 
  <p>_____________________</p>
  <p><b>Phản Ứng dân chúng:</b></p>

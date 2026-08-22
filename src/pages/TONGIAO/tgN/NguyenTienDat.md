@@ -2,7 +2,7 @@
 layout: ../../../layouts/Article.astro
 title: "CẦU CỨU – NỖI RAY RỨT"
 author: "Nguyễn Tiến Đạt"
-source: "https://sachhiem.net/null"
+source: "/null"
 category: "Tác giả"
 lang: vi
 wordCount: 2081

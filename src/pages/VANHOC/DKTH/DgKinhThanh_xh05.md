@@ -3,7 +3,7 @@ layout: ../../../layouts/Article.astro
 title: "“Trò Khỉ” Một Bức Ảnh Biết Nói !"
 author: "Dương Kinh Thành"
 date: 2016-02-01
-source: "https://sachhiem.net/VANHOC/DKTH/DgKinhThanh_xh05.php"
+source: "/VANHOC/DKTH/DgKinhThanh_xh05"
 category: "Xã hội"
 lang: vi
 wordCount: 2266

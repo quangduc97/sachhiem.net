@@ -3,7 +3,7 @@ layout: ../../layouts/Article.astro
 title: "Cuộc Du Lịch Hà Nội Của Bà Đầm Xòe"
 author: "Lý Thái Xuân"
 date: 2018-02-06
-source: "https://sachhiem.net/LTX/LyThaiLS5.php"
+source: "/LTX/LyThaiLS5"
 category: "Lịch sử"
 lang: vi
 wordCount: 933

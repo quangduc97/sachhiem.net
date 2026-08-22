@@ -3,21 +3,21 @@ layout: ../../../layouts/Article.astro
 title: "Công Giáo, Tin Lành Và Sách Lược Cải Đạo Á Châu"
 author: "Trần Chung Ngọc"
 date: 2016-01-25
-source: "https://sachhiem.net/TCN/TCNtg/TCN156_caidao.php"
+source: "/TCN/TCNtg/TCN156_caidao"
 lang: vi
 wordCount: 32513
 image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/SACHNGOAI/Hinhanh/BIASACH/WhyChristianMustChange.jpg"
 ---
 
-<p><a href="https://sachhiem.net/TCN/TCNtg/TCN156_kitohoa.php">(&lt;-- xem Lời Nói Đầu)</a></p>
+<p><a href="/TCN/TCNtg/TCN156_kitohoa">(&lt;-- xem Lời Nói Đầu)</a></p>
      <div class="tomluoc">
       <p> <b> Mục Lục </b> </p>
 <p>  <b><a name="1" href="/TCN/#end1"> <i>Phần  một</i>:</a>   Vài nhận định tổng quát</b> </p>
 <p> <a name="2" href="/TCN/#end2">·     Nhận định về tư cách đạo đức của John Paul II</a> và bản chất những nhà truyền giáo ca-tô và tin lành </p>
 <p> <a name="3" href="/TCN/#end3">·     Nhận định về sự thức tỉnh của tây phương</a> đưa đến sự suy thoái của ki tô giáo </p>
 <p><a name="4" href="/TCN/#end4"> ·     Nhận định về đoạn đầu </a> trong bản “tông huấn giáo hội tại châu á“ (ecclesia in asia) của gh John Paul  II </p>
-<p> <b> <a href="https://sachhiem.net/TCN/TCNtg/TCN156_caidao1.php#end1"> <i>Phần  hai</i>:</a>   Thần học ki tô giáo theo cung cách châu á &amp; những thủ đoạn cải đạo á châu</b> </p>
-<p> <b><a href="https://sachhiem.net/TCN/TCNtg/TCN156_caidao1.php#end2"> <i>Vài Lời Kết</i></a></b> </p>
+<p> <b> <a href="/TCN/TCNtg/TCN156_caidao1#end1"> <i>Phần  hai</i>:</a>   Thần học ki tô giáo theo cung cách châu á &amp; những thủ đoạn cải đạo á châu</b> </p>
+<p> <b><a href="/TCN/TCNtg/TCN156_caidao1#end2"> <i>Vài Lời Kết</i></a></b> </p>
      </div>
 <p class="PHAN"><b><u>PHẦN  MỘT</u></b> </p>
 <p align="center"><a name="end1" href="/TCN/#1"><b> VÀI NHẬN ĐỊNH  TỔNG QUÁT</b></a></p>
@@ -480,7 +480,7 @@ Muôn ngàn đời Chúa vẫn  trọn tình thương.</h4>
 <p>
      <i>“Kế hoạch  kỳ diệu của Thiên Chúa ở Á Châu”</i> không có cách nào có thể thành công ở Á Châu  được.  Tại sao?  Vì một lẽ rất đơn giản: Ki Tô Giáo, Ca Tô cũng như  Tin Lành, đều đã và đang dùng những thủ đoạn không chính đáng, vô đạo đức, để  thực hiện “kế hoạch kỳ diệu của Thiên Chúa ở Á Châu”, nói đúng hơn là <i>“Kế hoạch  xâm lăng văn hóa và tôn giáo Á Châu” </i>của Ki Tô Giáo, và vì trí tuệ con người  nay đã mở mang, không còn có thể dễ dàng lừa dối như trước nữa.  Đây chính  là những chủ đề mà tôi muốn bàn tới trong Phần II về nền <i>“Thần Học Ki Tô  Giáo Theo Cung Cách Châu Á”</i> và những <i>“Thủ Đoạn Cải Đạo Á Châu của Ca Tô và  Tin Lành.” </i></p>
 
-  <p><a href="https://sachhiem.net/TCN/TCNtg/TCN156_caidao1.php">(xem Phần Hai ---&gt;)</a></p>
+  <p><a href="/TCN/TCNtg/TCN156_caidao1">(xem Phần Hai ---&gt;)</a></p>
  <p class="nguonL">Nguồn https://giaodiemonline.com/2009/07/caidao3.htm </p>
  <div align="center"><div class="fb-share-button" data-layout="button" data-size="large" data-actiob="like" data-show-faces="true" data-share="true" data-mobile-iframe="true"></div>
 </div>

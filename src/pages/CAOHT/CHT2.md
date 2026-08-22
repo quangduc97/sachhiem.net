@@ -3,7 +3,7 @@ layout: ../../layouts/Article.astro
 title: "Cái Mũi Của Darwin: Có Ai Thích Ông Nội Là Cà Khọt Cà Khẹt?"
 author: "Cao Huy Thuần"
 date: 2013-03-02
-source: "https://sachhiem.net/CAOHT/CHT2.php"
+source: "/CAOHT/CHT2"
 category: "Tác giả"
 lang: vi
 wordCount: 3234

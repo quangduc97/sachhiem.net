@@ -3,7 +3,7 @@ layout: ../../../layouts/Article.astro
 title: "Những Chuyện Kể Của PHGV"
 author: "Phượng Hoàng GV"
 date: 2017-03-14
-source: "https://sachhiem.net/LICHSU/P/PhuongHoang13.php"
+source: "/LICHSU/P/PhuongHoang13"
 category: "Lịch sử"
 lang: vi
 wordCount: 1611
@@ -70,5 +70,5 @@ image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/TONGIAO/IMG/BIBLE/Da
 <p>Nằng nặc đòi xem sự thật … thì sẽ bị Tòa thánh truất phép thông công lập tức, và cộng đồng giáo dân Công giáo sẽ tránh xa kẻ ấy như kẻ bị cùi hủi vậy.</p>
 
      <hr> 
-<p>Các chuyện kể của Phượng Hoàng Gò Vấp: link <a href="https://sachhiem.net/LICHSU/P/ListPHGV.inc.php" target="_blank">https://sachhiem.net/LICHSU/P/ListPHGV.inc.php</a></p>  
+<p>Các chuyện kể của Phượng Hoàng Gò Vấp: link <a href="/LICHSU/P/ListPHGV.inc" target="_blank">https://sachhiem.net/LICHSU/P/ListPHGV.inc.php</a></p>  
   <hr>

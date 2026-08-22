@@ -3,7 +3,7 @@ layout: ../../../layouts/Article.astro
 title: "TÔI QUAY LƯNG VỚI NHÀ THỜ"
 author: "Đồng Trần Tử"
 date: 2022-07-26
-source: "https://sachhiem.net/TONGIAO/FB/FBDongTranTu02.php"
+source: "/TONGIAO/FB/FBDongTranTu02"
 category: "Tác giả"
 lang: vi
 wordCount: 1435
@@ -62,7 +62,7 @@ Lý Thái Xuân bài viết này thật sâu sắc và thâm thúy vô cùng  , 
    Ồ, nếu zái mục nào cũng biết nghĩ như thế nào thì kito giáo  còn có cơ hội tồn tại lâu dài, tuy chỉ vài ý kiến nhỏ trong những việc làm tồi  tệ lớn lao của kito, nhưng cũng cho thấy zái mục này cũng thấm nhuần ít tư tưởng  PG. Đáng ca ngợi anh zái mục này. Tôi đồng ý chia sẽ</p>
  <p>______________________________</p>
  <p><b>Các bài khác của Đồng Trần Tử</b>:</p>
- <p>-&nbsp;<a href="https://sachhiem.net/TONGIAO/FB/FBDongTranTu.php">Đổ Máu Chuộc Tội</a></p>
- <p>-&nbsp;<a href="https://sachhiem.net/TONGIAO/FB/FBDongTranTu01.php">Hỏa Thiên Đại Hữu (Muôn vật vui vẻ hướng về Mặt Trời)</a></p>
- <p>-&nbsp;<a href="https://sachhiem.net/TONGIAO/FB/FBDongTranTu02.php">Tôi Quay Lưng Với Nhà Thờ</a></p>
- <p>- <a href="https://sachhiem.net/TONGIAO/FB/FBDongTranTu03.php">Chúa Thánh Thần Chính Là Giáo Hội La Mã </a></p>
+ <p>-&nbsp;<a href="/TONGIAO/FB/FBDongTranTu">Đổ Máu Chuộc Tội</a></p>
+ <p>-&nbsp;<a href="/TONGIAO/FB/FBDongTranTu01">Hỏa Thiên Đại Hữu (Muôn vật vui vẻ hướng về Mặt Trời)</a></p>
+ <p>-&nbsp;<a href="/TONGIAO/FB/FBDongTranTu02">Tôi Quay Lưng Với Nhà Thờ</a></p>
+ <p>- <a href="/TONGIAO/FB/FBDongTranTu03">Chúa Thánh Thần Chính Là Giáo Hội La Mã </a></p>

@@ -3,7 +3,7 @@ layout: ../../../layouts/Article.astro
 title: "Sợ Hãi Với “Lời Phát Nguyện Trung Thành Tuyệt Đối\" - P1"
 author: "BBT Thư Viện Hoa Sen"
 date: 2025-10-16
-source: "https://sachhiem.net/TONGIAO/ThichCQ/ThChanQuang06.php"
+source: "/TONGIAO/ThichCQ/ThChanQuang06"
 category: "Tác giả"
 lang: vi
 wordCount: 762
@@ -37,5 +37,5 @@ image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/TONGIAO/IMG/SU/THCHA
  
 <p>Chúc bạn tinh tấn!</p>
 <p> (Báo&nbsp;Giác Ngộ)</p>
-<p>(Xem tiếp theo <a href="http://sachhiem.net/TONGIAO/ThichCQ/ThChanQuang06A.php">phần 2, tác giả Nguyễn Anh Tuấn</a>)</p>
+<p>(Xem tiếp theo <a href="/TONGIAO/ThichCQ/ThChanQuang06A">phần 2, tác giả Nguyễn Anh Tuấn</a>)</p>
 <p class="nguonL">Nguồn: <a href="https://thuvienhoasen.org/a41277/so-hai-voi-loi-phat-nguyen-trung-thanh-tuyet-doi-">Thư Viện Hoa Sen ngày 6/6/2024</a></p>

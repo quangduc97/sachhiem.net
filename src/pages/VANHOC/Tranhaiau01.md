@@ -3,7 +3,7 @@ layout: ../../layouts/Article.astro
 title: "Lại Bàn Về ‘Nhạc Vàng’"
 author: "Trần Hải Âu"
 date: 2012-11-27
-source: "https://sachhiem.net/VANHOC/Tranhaiau01.php"
+source: "/VANHOC/Tranhaiau01"
 category: "Tác giả"
 lang: vi
 wordCount: 6337

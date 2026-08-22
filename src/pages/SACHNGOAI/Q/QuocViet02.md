@@ -3,7 +3,7 @@ layout: ../../../layouts/Article.astro
 title: "Vụ ám sát Ngô Đình Diệm"
 author: "by Peter Kross"
 date: 2012-10-06
-source: "https://sachhiem.net/SACHNGOAI/Q/QuocViet02.php"
+source: "/SACHNGOAI/Q/QuocViet02"
 category: "Lịch sử"
 lang: vi
 wordCount: 6666

@@ -2,10 +2,10 @@
 layout: ../../../layouts/Article.astro
 title: "SÁCH: \"LỘT MẶT NẠ CA-TÔ GIÁO\""
 author: "Tác giả: Cựu Nữ Tu Ca-Tô Mary Ann Collins, Trần Chung Ngọc dịch"
-source: "https://sachhiem.net/null"
+source: "/null"
 lang: vi
 wordCount: 9213
-image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nha.jpg"
+image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/TONGIAO/IMG/UnMask.jpg"
 ---
 
 <div align="center" style="position: relative; left: 0; top: 0">
@@ -35,7 +35,7 @@ image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nha.jpg"
 
 	<tbody><tr><td bgcolor="White" align="justify" valign="top">
 <blockquote><table border="0" cellpadding="10" width="80%" cols="2"><tbody><tr>
-	<td><a href="/index"><img border="0" src="https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nha.jpg"></a></td>
+	<td></td>
 	<td valign="top" style="text-align:right">	<i><font size="2"> 13 tháng 12, 2007
 	</font></i>
 	</td></tr></tbody></table>

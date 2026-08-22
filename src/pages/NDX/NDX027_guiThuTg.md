@@ -3,7 +3,7 @@ layout: ../../layouts/Article.astro
 title: "Xin Hãy Chậm Lại"
 author: "Nguyễn Đắc Xuân"
 date: 2018-06-12
-source: "https://sachhiem.net/NDX/NDX027_guiThuTg.php"
+source: "/NDX/NDX027_guiThuTg"
 category: "Chính trị"
 lang: vi
 wordCount: 1691

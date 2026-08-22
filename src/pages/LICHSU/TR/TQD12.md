@@ -3,7 +3,7 @@ layout: ../../../layouts/Article.astro
 title: "Về Những Biện Hộ Cho Câu"
 author: "Trần Quang Diệu"
 date: 2012-05-17
-source: "https://sachhiem.net/LICHSU/TR/TQD12.php"
+source: "/LICHSU/TR/TQD12"
 category: "Tác giả"
 lang: vi
 wordCount: 6092

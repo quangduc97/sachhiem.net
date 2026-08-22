@@ -3,7 +3,7 @@ layout: ../../../layouts/Article.astro
 title: "Một Ngày Chủ Nhật"
 author: "Đào Văn Bình"
 date: 2013-03-30
-source: "https://sachhiem.net/DAOVB/VH/DaovBinh_Chunhat.php"
+source: "/DAOVB/VH/DaovBinh_Chunhat"
 category: "Văn hóa"
 lang: vi
 wordCount: 252

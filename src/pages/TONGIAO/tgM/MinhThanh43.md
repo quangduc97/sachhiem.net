@@ -3,7 +3,7 @@ layout: ../../../layouts/Article.astro
 title: "[THIỂU SỐ HOÁ?] Quan Chức Các Hệ Phái Phật Giáo Tại Việt Nam Từ Đây"
 author: "Minh Thạnh"
 date: 2024-03-10
-source: "https://sachhiem.net/TONGIAO/tgM/MinhThanh43.php"
+source: "/TONGIAO/tgM/MinhThanh43"
 category: "Tác giả"
 lang: vi
 wordCount: 3366

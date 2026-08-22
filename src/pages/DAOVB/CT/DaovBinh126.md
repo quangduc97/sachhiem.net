@@ -3,7 +3,7 @@ layout: ../../../layouts/Article.astro
 title: "Nhật Ký Biển Đông: Cuộc Chiến Con Tin Đi Về Đâu?"
 author: "Đào Văn Bình"
 date: 2019-01-22
-source: "https://sachhiem.net/DAOVB/CT/DaovBinh126.php"
+source: "/DAOVB/CT/DaovBinh126"
 category: "Chính trị"
 lang: vi
 wordCount: 2480

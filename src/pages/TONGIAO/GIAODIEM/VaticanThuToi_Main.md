@@ -2,7 +2,7 @@
 layout: ../../../layouts/Article.astro
 title: "Vatican Thú Tội Và Xin Lỗi"
 author: "nguyễn văn hóa"
-source: "https://sachhiem.net/TONGIAO/GIAODIEM/VaticanThuToi_Main.php"
+source: "/TONGIAO/GIAODIEM/VaticanThuToi_Main"
 category: "Tác giả"
 lang: vi
 wordCount: 72

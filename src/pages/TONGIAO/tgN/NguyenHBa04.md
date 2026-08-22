@@ -3,7 +3,7 @@ layout: ../../../layouts/Article.astro
 title: "Những Chuyện Gay Cấn: Hôn Nhân Khác Tôn Giáo(*)"
 author: "Nguyễn Hữu Ba"
 date: 2012-04-23
-source: "https://sachhiem.net/TONGIAO/tgN/NguyenHBa04.php"
+source: "/TONGIAO/tgN/NguyenHBa04"
 category: "Tác giả"
 lang: vi
 wordCount: 23377
@@ -4838,7 +4838,7 @@ bạn đâu, Mod trang này không chơi bẩn như Mod bên đó đâu. </p>
 
 <p>
 
- <a href="https://sachhiem.net/TONGIAO/tgN/NgHDuc.php">Phật Tử Không
+ <a href="/TONGIAO/tgN/NgHDuc">Phật Tử Không
 
   Bao Giờ Được Nói Câu "Đạo Nào Cũng Tốt" (Nguyễn Hữu Đức)</a></p>
 
@@ -4848,4 +4848,4 @@ bạn đâu, Mod trang này không chơi bẩn như Mod bên đó đâu. </p>
 
 ___________________
 
-<p>Các bài của Nguyễn Hữu Ba: link <a href="https://sachhiem.net/TONGIAO/tgN/ListNHBa.inc.php" target="_blank">https://sachhiem.net/TONGIAO/tgN/ListNHBa.inc.php</a></p>
+<p>Các bài của Nguyễn Hữu Ba: link <a href="/TONGIAO/tgN/ListNHBa.inc" target="_blank">https://sachhiem.net/TONGIAO/tgN/ListNHBa.inc.php</a></p>

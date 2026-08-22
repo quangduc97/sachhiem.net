@@ -2,14 +2,14 @@
 layout: ../../../layouts/Article.astro
 title: "ẤP CHIẾN LƯỢC"
 author: "Lê Xuân Nhuận"
-source: "https://sachhiem.net/LICHSU/LEXNHUAN/LeXNhuan03.php"
+source: "/LICHSU/LEXNHUAN/LeXNhuan03"
 category: "Lịch sử"
 lang: vi
 wordCount: 9583
-image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nha.jpg"
+image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/LICHSU/IMG/VNwar/ApChienLuoc.jpg"
 ---
 
-<p align="center"><a href="/LICHSU/index"><img hspace="20" border="0" src="https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nha.jpg"></a> <a href="/LICHSU/LEXNHUAN/LXN_main">Mục lục các bài liên hệ với chế độ Ngô Đình Diệm </a> &nbsp;&nbsp;19 tháng 8, 2010 </p> 
+<p align="center"> <a href="/LICHSU/LEXNHUAN/LXN_main">Mục lục các bài liên hệ với chế độ Ngô Đình Diệm </a> &nbsp;&nbsp;19 tháng 8, 2010 </p> 
 <p><span class="First">C</span>ó một số người cho rằng Chương-Trình Ấp Chiến-Lược đã giúp 
 chính-quyền
 <a href="https://lexuannhuan.tripod.com/NgoDinhDiem.html">Ngô 

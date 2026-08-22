@@ -3,15 +3,14 @@ layout: ../../../layouts/Article.astro
 title: "Có Một Khúc Quanh Đen Tối Và Thê Lương!"
 author: "Trần Quang Diệu trích thuật"
 date: 2011-10-28
-source: "https://sachhiem.net/LICHSU/TR/TQD03.php"
+source: "/LICHSU/TR/TQD03"
 category: "Lịch sử"
 lang: vi
 wordCount: 1582
-image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nha.jpg"
 ---
 
 <table border="0" cellpadding="0" width="250" align="center"><tbody><tr>
-	<td width="125"><a href="/index"><img border="0" src="https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nha.jpg"></a></td>
+	<td width="125"></td>
 <td valign="top" width="210">	</td></tr></tbody></table>
 
 		<p><i>LTS: Nếu Việt Nam không phải là  một dân tộc quật cường thì có lẽ đã

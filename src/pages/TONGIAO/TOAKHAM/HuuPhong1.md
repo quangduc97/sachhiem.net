@@ -2,18 +2,17 @@
 layout: ../../../layouts/Article.astro
 title: "Catholica/vatican tái chiếm đất đai của dân tộc VN"
 author: "Hữu Phong"
-source: "https://sachhiem.net/TONGIAO/TOAKHAM/.php"
+source: "/TONGIAO/TOAKHAM/"
 category: "Tác giả"
 lang: vi
 wordCount: 1404
-image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nha.jpg"
 ---
 
 <p class="Tuaduoi">
 			CON ĐƯỜNG PHẢI CHỌN</p>
 		
 
-<p align="center"><a href="https://sachhiem.net/index.php"><img border="0" hspace="20" src="https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nha.jpg"></a>	24 tháng 1, 2008</p> 
+<p align="center">	24 tháng 1, 2008</p> 
 		<p><b><font face="Times New Roman" size="5">V</font></b>ụ  
 			Tổng Giám Mục Ngô Quang Kiệt ra thư gửi kêu gọi Giáo dân và tu sĩ 
 			hiệp thông cầu nguyện hàng đêm tại khu đất Toà Khâm Sứ, đã diễn tiến 

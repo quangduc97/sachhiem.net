@@ -3,7 +3,7 @@ layout: ../../layouts/Article.astro
 title: "Có phải “Tây Sa Thuộc Trung Quốc Từ Đời Hán”?"
 author: "Trần Thị Vĩnh Tường"
 date: 2014-06-09
-source: "https://sachhiem.net/TRTVT/TTVT_LS03.php"
+source: "/TRTVT/TTVT_LS03"
 category: "Lịch sử"
 lang: vi
 wordCount: 1878

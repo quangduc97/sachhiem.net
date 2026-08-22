@@ -3,7 +3,7 @@ layout: ../../../layouts/Article.astro
 title: "“Ở Bangladesh Có Một Con Đường Mang Tên Ngô Đình Diệm”"
 author: "Lê Xuân Nhuận"
 date: 2018-10-21
-source: "https://sachhiem.net/LICHSU/LEXNHUAN/LeXNhuan19.php"
+source: "/LICHSU/LEXNHUAN/LeXNhuan19"
 category: "Lịch sử"
 lang: vi
 wordCount: 2994

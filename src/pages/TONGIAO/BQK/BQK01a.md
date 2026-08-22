@@ -2,15 +2,14 @@
 layout: ../../../layouts/Article.astro
 title: "Thiên Chúa Giáo:"
 author: "Bảo Quốc Kiếm"
-source: "https://sachhiem.net/TONGIAO/BQK/TONGIAO/BQK/BQK01a.php"
+source: "/TONGIAO/BQK/TONGIAO/BQK/BQK01a"
 category: "Tác giả"
 lang: vi
 wordCount: 2439
-image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nha.jpg"
 ---
 
 <table border="0" cellpadding="0" width="250" align="center"><tbody><tr>
-	<td width="125"><a href="/index"><img border="0" src="https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nha.jpg"></a></td>
+	<td width="125"></td>
     <td valign="top" width="177">
 		<p>26 tháng 11, 2010	
 		</p></td></tr></tbody></table>

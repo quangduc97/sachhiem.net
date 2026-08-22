@@ -3,7 +3,7 @@ layout: ../../layouts/Article.astro
 title: "Công Ty Bảo Hiểm Vatican Hoạt Động Thế Nào?"
 author: "Lý Thái Xuân"
 date: 2022-12-18
-source: "https://sachhiem.net/LTX/LythaiTG39.php"
+source: "/LTX/LythaiTG39"
 category: "Tác giả"
 lang: vi
 wordCount: 871

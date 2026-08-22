@@ -3,22 +3,22 @@ layout: ../../../layouts/Article.astro
 title: "Vụ Đánh Bom Ở Pakistan"
 author: "D Đức Chú"
 date: 2016-03-30
-source: "https://sachhiem.net/TONGIAO/tgD/D_ducchu.php"
+source: "/TONGIAO/tgD/D_ducchu"
 category: "Chính trị"
 lang: vi
 wordCount: 839
-image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nha.jpg"
+image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/TONGIAO/IMG/HOIGIAO/Kito_Parkistan.jpg"
 ---
 
 <p class="Tuaduoi"><b>Giáo Hoàng Francis Không Còn Tin  Chúa Quan Phòng </b></p>
   
   
-  <p align="center"><a href="https://www.sachhiem.net/"> <img border="0" src="https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nha.jpg"></a> ngày 30-Mar-2016</p>
+  <p align="center"> ngày 30-Mar-2016</p>
   <p>From: "DucChu" <br>
 Sent: Tuesday, March 29, 2016 4:03 PM<br>
 Subject: GH Francis  Francis Không Còn Tin Chúa Quan Phòng </p>
   <p><span class="First">T</span>ừ khi có Cách Mạng Hoa Lài ở Trung Đông năm 2011, các Ki-tô hữu đã  bị người Hồi Giáo chú ý khá nhiều. Điều dễ hiểu là các thành phần Ki-tô giáo ở nhiều  nơi trên thế giới luôn luôn bị Âu Mỹ giật giây chống đối chính quyền khi mà những  chính quyền này không thuộc về họ. </p>
-  <p>Khi đang "gieo gió," âm thầm làm những việc đó,  Giáo Hội thường có những bài giảng, nói bóng nói gió, khuyến khích các con chiên <b>"đừng sợ", đã có Chúa ở cùng bên</b> (xin đọc <i>Về Việc Bách Hại Người Ki-Tô Giáo Ở Trung Đông</i> <a href="https://sachhiem.net/NMQ/NMQ56.php"> https://sachhiem.net/NMQ/NMQ56.php</a>.) </p>
+  <p>Khi đang "gieo gió," âm thầm làm những việc đó,  Giáo Hội thường có những bài giảng, nói bóng nói gió, khuyến khích các con chiên <b>"đừng sợ", đã có Chúa ở cùng bên</b> (xin đọc <i>Về Việc Bách Hại Người Ki-Tô Giáo Ở Trung Đông</i> <a href="/NMQ/NMQ56"> https://sachhiem.net/NMQ/NMQ56.php</a>.) </p>
   <p>Nhưng khi "gặt bão", bị người  ta trả thù, thì Ngài "sợ quá", không biết Chúa ở bên nào, Ngài cầu tứ phương. Vậy Ngài cũng chẳng còn dám tin Chúa "toàn năng" hay "quan phòng" gì cả. </p>
   <p>Mới trước đây chừng mấy tháng,&nbsp; Ngài còn mạnh miệng khích tướng các  nước rằng <i>"thế giới sẽ không ngồi yên,"</i> nghĩa là gián tiếp ... kêu gọi  "thánh chiến". </p>
   <p>Nay thì số con chiên Âu Mỹ không còn đủ cho Ngài kêu gọi làm  cơm cháo gì được. Chẳng lẽ Ngài chạy sang Phi Châu, hay các nước Á Châu mới dụ theo đạo, để lập đạo binh Thánh Giá đi đánh khắp nơi? Ngài không dám <i>"kêu gọi thế giới"</i> nữa, mà chỉ năn nỉ chính quyền sở tại  "<i>làm ơn chịu trách nhiệm bảo vệ con chiên thiểu số dùm.</i>"  Thế có phải hơn những bài nhồi sọ trước đây: <i>"cầu nguyện" và "đừng sợ"</i> hay không?</p>
@@ -40,4 +40,4 @@ Subject: GH Francis  Francis Không Còn Tin Chúa Quan Phòng </p>
   <p>Giáo hoàng Phanxicô đã nhiều lần nói về sự đau khổ của các  Kitô hữu tại Trung Đông, châu Phi và châu Á là mục tiêu của những kẻ cực đoan Hồi  giáo. Tuần trước, trong một dịch vụ Thứ Sáu Tuần Thánh, ông chỉ trích cái mà  ông gọi là <i>"im lặng hèn nhát"</i> đối với cuộc đàn áp  và giết hại các Kitô hữu.<img src="https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/sqdot.gif" width="10" height="10"></p>
   <p>_______________</p>
   <p><b>Bài đọc thêm:</b></p>
-  <p>- <i>Về Việc Bách Hại Người Ki-Tô Giáo Ở Trung Đông</i> của Nguyễn Mạnh Quang  <a href="https://sachhiem.net/NMQ/NMQ56.php"> https://sachhiem.net/NMQ/NMQ56.php</a>.</p>
+  <p>- <i>Về Việc Bách Hại Người Ki-Tô Giáo Ở Trung Đông</i> của Nguyễn Mạnh Quang  <a href="/NMQ/NMQ56"> https://sachhiem.net/NMQ/NMQ56.php</a>.</p>

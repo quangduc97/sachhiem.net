@@ -3,7 +3,7 @@ layout: ../../layouts/Article.astro
 title: "Giáo Sĩ Thừa Sai và Chính Sách Thuộc Địa Của Pháp Tại Việt Nam"
 author: "TÁC GIẢ: CAO HUY THUẦN NGƯỜI DỊCH: NGUYÊN THUẬN NHÀ XUẤT BẢN HỒNG ĐỨC"
 date: 2024-07-09
-source: "https://sachhiem.net/CAOHT/GiaoSiTS_000.php"
+source: "/CAOHT/GiaoSiTS_000"
 category: "Tác giả"
 lang: vi
 wordCount: 262

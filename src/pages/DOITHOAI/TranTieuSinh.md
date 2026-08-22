@@ -3,7 +3,7 @@ layout: ../../layouts/Article.astro
 title: "Sự Ngộ Nhận Về Cái Tôi"
 author: "Trần Tiểu Sinh"
 date: 2017-11-04
-source: "https://sachhiem.net/DOITHOAI/TranTieuSinh.php"
+source: "/DOITHOAI/TranTieuSinh"
 category: "Chính trị"
 lang: vi
 wordCount: 6069
@@ -51,7 +51,7 @@ image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/COVER/CaiToi_
 <p>  Nhưng có một điều  lạ là, càng những con chien có tiếp xúc với sách vở, với rừng tài liệu sự thật  mà họ không hồi tỉnh được như các quý ông Charlie Nguyễn, Nguyễn Văn Thọ, Trần  Tiên Long thì <b>sức bật hướng ngoại </b>của họ càng lớn. Nhưng ngược lại, nếu họ tỉnh  ra được thì sức bật lại hướng nội, để phá thẳng vào cái tôn giáo đã phỉnh gạt họ  bấy lâu nay, cũng lớn như vậy. Cứ đọc những Charlie Nguyễn, Juise Phạm Hữu Tạo,  Nguyễn Văn Thọ thì biết.</p>
 <p>  <b>Sức bật hướng ngoại</b> đây là những nỗ lực phủi bỏ và để chà đạp tất cả những giá trị của dân tộc, những  gì liên can tới 2 tiếng Việt Nam. Mà theo tôi, sức bật đó, càng lớn thì liều an  thần dược cũng sẽ mạnh mẽ cộng hưởng với sức bật hướng ngoại để &nbsp;làm muội liệt trí khôn để tự an ủi mình đã chọn  con đường đúng, con đường của con cái Chúa. </p>
 <p>Quý đọc giả có thể tìm đọc ông con chiên  Nguyễn Gia Kiểng, trong: “Tổ Quốc Ăn Năn” để thấy cái hiệu ứng “sức bật hướng  ngoại này” và sẽ thấy rõ sự chà đạp các giá trị Việt Nam, đồng thời với sự khúm  núm tới lê lết của Kiểng với các bề trên Vatican, mà Kiểng ngang nhiên đồng hoá  nó với văn hoá “Tây Phương”. </p>
-<p>Sức bật hướng ngoại kinh khủng nhất là  trường hợp con chiên chien đẻ (CCCĐ) Tú Gàn, tức Lữ Giang, Nguyễn Cần. Ông con  chiên này đúng là một loại con chiên chien đẻ Giòng Tên (DCCT) tiêu biểu, vô  liêm sỉ nhất, thô bỉ trắng trợn nhất, không từ nan bất cứ sự gian trá, lưu manh  nào, để chạy tội phá Quốc, hại gia của bọn con chiên chien đẻ (CCCĐ) nhà Ngô và  đám nha lại cần lao ăn hại, đái nát cả. Năm ngoái 2016, tôi đọc được từ tác giả  Hoàng Hiệp Sĩ trong bài <a href="https://sachhiem.net/TONGIAO/tgH/HoangHiepSi.php">“Từ Sự Cố Nguyễn Xuân  Vinh, Nghĩ Về Lữ Giang”</a> như sau: </p>
+<p>Sức bật hướng ngoại kinh khủng nhất là  trường hợp con chiên chien đẻ (CCCĐ) Tú Gàn, tức Lữ Giang, Nguyễn Cần. Ông con  chiên này đúng là một loại con chiên chien đẻ Giòng Tên (DCCT) tiêu biểu, vô  liêm sỉ nhất, thô bỉ trắng trợn nhất, không từ nan bất cứ sự gian trá, lưu manh  nào, để chạy tội phá Quốc, hại gia của bọn con chiên chien đẻ (CCCĐ) nhà Ngô và  đám nha lại cần lao ăn hại, đái nát cả. Năm ngoái 2016, tôi đọc được từ tác giả  Hoàng Hiệp Sĩ trong bài <a href="/TONGIAO/tgH/HoangHiepSi">“Từ Sự Cố Nguyễn Xuân  Vinh, Nghĩ Về Lữ Giang”</a> như sau: </p>
 <div class="indent50">
   <p>&lt;Trích&gt;: “<i>Xem như chuyện mấy năm nay, năm nào cũng gần  tới ngày 1/11 là Tú Gàn viết những bài báo bẻ cong sự thật về sự khủng bố của  nhà Ngô trong hành động đàn áp Phật Giáo, dẫu TG có phải nói dối hay tự dựng  đứng câu chuyện.</i></p>
   <p><i>Thí dụ như TG viết  người Mỹ đã nhúng tay giựt dây những biến động của Phật Giáo để lật đổ Ngô Đình  DIệm, chứ thật sự thì nhà Ngô không có ý đồ đàn áp, kỳ thị, hay khủng bố Phật  Giáo.</i></p>

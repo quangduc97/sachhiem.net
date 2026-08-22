@@ -2,15 +2,15 @@
 layout: ../../../layouts/Article.astro
 title: "PHỤ CHÍNH ĐẠI THẦN LÊ TRINH"
 author: "Trúc Diệp Thanh (nhà báo-Hà Nội)"
-source: "https://sachhiem.net/LICHSU/TRDTH/TrucDiepThanh01.php"
+source: "/LICHSU/TRDTH/TrucDiepThanh01"
 category: "Lịch sử"
 lang: vi
 wordCount: 3332
-image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nha.jpg"
+image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/LICHSU/TRDTH/IMG/LeTrinh_phobang.jpg"
 ---
 
 <table border="0" cellpadding="0" width="250" align="center"><tbody><tr>
-	<td width="125"><a href="/index"><img border="0" src="https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nha.jpg"></a></td>
+	<td width="125"></td>
 	<td valign="middle&quot;">	 29 tháng 1,  2010	</td></tr></tbody></table>
 
 <p><b> <i>LNĐ-</i></b> <i>Nhân 

@@ -3,7 +3,7 @@ layout: ../../../layouts/Article.astro
 title: "Khen Ai Khéo Đúc Chuông Chì"
 author: "Trọng Lưu"
 date: 2014-10-07
-source: "https://sachhiem.net/LICHSU/TR/TrongLuu.php"
+source: "/LICHSU/TR/TrongLuu"
 category: "Chính trị"
 lang: vi
 wordCount: 1481

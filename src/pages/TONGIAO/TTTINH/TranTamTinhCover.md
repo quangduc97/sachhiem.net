@@ -2,7 +2,7 @@
 layout: ../../../layouts/Article.astro
 title: "Thập Giá Và Lưỡi Gươm (Linh Mục Trần Tam Tỉnh)"
 author: "L.M. Trần Tam Tỉnh"
-source: "https://sachhiem.net/null"
+source: "/null"
 lang: vi
 wordCount: 359
 image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/banner.jpg"
@@ -12,7 +12,7 @@ image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/banner.jpg"
  
 <table id="0" border="0" cellpadding="0" cellspacing="0" width="950" topmargin="10" bordercolor="#FF9966" bgcolor="#F9F9F9" bordercolorlight="#FFFFCC" bordercolordark="#9F9F9F"> 
 <tbody><tr><td width="950" colspan="2">
-<a href="https://sachhiem.net/">
+<a href="/">
 <img src="https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/banner.jpg" height="100" align="top" border="0" width="950"></a>
 </td></tr>
 <tr><td id="bentrai" valign="top" width="250" height="100%" bgcolor="#EBEBEB">

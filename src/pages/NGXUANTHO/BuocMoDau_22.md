@@ -3,18 +3,17 @@ layout: ../../layouts/Article.astro
 title: "Bước Mở Đầu Của Sự Thiết Lập Hệ Thống Thuộc Địa Pháp Ở Việt Nam"
 author: "TS Nguyễn Xuân Thọ"
 date: 2023-02-13
-source: "https://sachhiem.net/NGXUANTHO/BuocMoDau_22.php"
+source: "/NGXUANTHO/BuocMoDau_22"
 category: "Lịch sử"
 lang: vi
 wordCount: 2027
-image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nha.jpg"
+image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/sqdot.gif"
 ---
 
 <p class="Tuaduoi"><b>Vĩ Thanh và Lời Bạt</b></p>
 
 
-  <p align="center"><a href="https://www.sachhiem.net/">
-<img border="0" src="https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nha.jpg"></a>| <a target="_blank" href="https://sachhiem.net/NGXUANTHO/BuocMoDau_Main.php"><span lang="en-us"><b><font face="Symbol">¿</font></b></span> trở ra mục lục</a>| 13-Feb-2023</p> 
+  <p align="center">| <a target="_blank" href="/NGXUANTHO/BuocMoDau_Main"><span lang="en-us"><b><font face="Symbol">¿</font></b></span> trở ra mục lục</a>| 13-Feb-2023</p> 
 <p class="TuaDoLeft"><b>Vĩ Thanh </b> </p>
 <p>Cuộc xâm lược của Pháp, đối với Việt Nam là một tai họa lớn nhưng cũng là một sự phát hiện vô giá, một cơ hội mở đầu cho một trong những đổi thay đột ngột và may mắn làm cho các dân tộc đổi dạng thay hình.</p>
 <p>Trong suốt con đường tồn tại của mình, với tư cách là một dân tộc có ý thức về mình, nước Việt Nam không ngừng tập trung nghị lực và lo lắng của mình vào vấn đề cuộc sống còn của mình, cuộc sống còn này bấp bênh và bi thảm, nhân dân Việt Nam yêu nó bằng một tình yêu dè dặt, nghi ngờ.</p>

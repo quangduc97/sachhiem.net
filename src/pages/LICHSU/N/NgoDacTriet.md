@@ -2,15 +2,15 @@
 layout: ../../../layouts/Article.astro
 title: "Tổng thống Diệm và quân đội Mỹ"
 author: "(Ngô Đắc Triết)"
-source: "https://sachhiem.net/LICHSU/N/NgoDacTriet.php"
+source: "/LICHSU/N/NgoDacTriet"
 category: "Lịch sử"
 lang: vi
 wordCount: 4420
-image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nha.jpg"
+image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/LICHSU/IMG/SACH/CacVuaCuoiNhaNguyen.jpg"
 ---
 
 <table border="0" cellpadding="1" align="center" width="250">
-        <tbody><tr><td width="100"><a href="/index"><img border="0" src="https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nha.jpg"></a></td>
+        <tbody><tr><td width="100"></td>
 <td valign="top"><p class="baochi">26 tháng 10, 2010
 	</p></td></tr></tbody></table> <p><i>LTS: Trong một dịp nhắc đến các bài viết về Ngô Đình Diệm trong đó có bài "Đệ I VNCH Tổng thống Ngô Đình Diệm và Quân đội Mỹ" sau đây của tác giả Ngô Đắc Triết đăng trên giaodiemonline.com năm 2002, tác giả Lý Đương Nhiên gửi cho sachhiem.net những nhận xét và góp ý trong "Lời Chú" ngày 30 tháng 10, 2009 như sau. Ngày 25 tháng 10, 2010 năm nay, bài viết của tác giả Ngô Đắc Triết được tái phổ biến trên 11 diễn đàn thư tín hải ngọai. Chúng tôi xin đăng lại với chút bổ túc (thêm 1 tấm ảnh lễ giỗ cố TT Ngô Đình Diệm năm 2009.) (SH)</i></p> <hr> 
 	<p class="TuaDenLeft">Lời chú: </p>

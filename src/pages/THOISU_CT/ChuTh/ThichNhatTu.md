@@ -3,7 +3,7 @@ layout: ../../../layouts/Article.astro
 title: "Cơn Sốt Obama: Giấc Mơ Mỹ Và Việt Nam"
 author: "TT. Thích Nhật Từ"
 date: 2016-06-07
-source: "https://sachhiem.net/THOISU_CT/ChuTh/ThichNhatTu.php"
+source: "/THOISU_CT/ChuTh/ThichNhatTu"
 category: "Chính trị"
 lang: vi
 wordCount: 14590

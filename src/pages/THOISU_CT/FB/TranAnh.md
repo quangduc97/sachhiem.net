@@ -3,7 +3,7 @@ layout: ../../../layouts/Article.astro
 title: "Philippines \"Đồng Minh, hay Bạn Thân\" Lâu Đời của Mỹ - Giờ Ra Sao?"
 author: "FB Trần Anh"
 date: 2023-03-29
-source: "https://sachhiem.net/THOISU_CT/FB/TranAnh.php"
+source: "/THOISU_CT/FB/TranAnh"
 category: "Chính trị"
 lang: vi
 wordCount: 1620

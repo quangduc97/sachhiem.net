@@ -3,7 +3,7 @@ layout: ../../../layouts/Article.astro
 title: "Ông Ngô Đình Diệm, Người Thế Nào?"
 author: "Nguyễn Xuân Ba"
 date: 2018-10-30
-source: "https://sachhiem.net/LICHSU/N/NguyenXuanBa_04.php"
+source: "/LICHSU/N/NguyenXuanBa_04"
 category: "Lịch sử"
 lang: vi
 wordCount: 2985

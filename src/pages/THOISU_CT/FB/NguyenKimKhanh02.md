@@ -3,7 +3,7 @@ layout: ../../../layouts/Article.astro
 title: "Một Đề Nghị Vớ Vẩn Không Thể Và Không Bao Giờ Chấp Nhận Được"
 author: "Nguyễn Kim Khanh"
 date: 2019-04-15
-source: "https://sachhiem.net/THOISU_CT/FB/NguyenKimKhanh01.php"
+source: "/THOISU_CT/FB/NguyenKimKhanh01"
 category: "Chính trị"
 lang: vi
 wordCount: 4407
@@ -29,7 +29,7 @@ image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/THOISU_CT/Hinh/HOAKY
 <p>- Mời nghe giọng đọc đầy xúc cảm của Doãn Như Lân về nội dung bài viết trên. <a href="https://www.youtube.com/watch?v=-thAfzKWJMw">https://www.youtube.com/watch?v=-thAfzKWJMw</a></p>
 <p>_____________</p>
 <p><b>Bài đọc thêm:</b></p>
-<p>- <a href="https://sachhiem.net/index.php?content=showemail&amp;id=3239">Thư gửi Thượng Nghị Sĩ Tiểu Bang California Tom Umberg của 1 cư dân Mỹ gốc Việt </a> ngày 17 tháng 4, 2021 (xem dưới cùng)</p>
+<p>- <a href="/hop-thu/3239">Thư gửi Thượng Nghị Sĩ Tiểu Bang California Tom Umberg của 1 cư dân Mỹ gốc Việt </a> ngày 17 tháng 4, 2021 (xem dưới cùng)</p>
 
  <p>_____________</p>
 <p><b>Công Tâm Võ </b></p>
@@ -202,7 +202,7 @@ image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/THOISU_CT/Hinh/HOAKY
 <p class="nguonL">Nguồn https://www.facebook.com/permalink.php?story_fbid=2536337746674118&amp;id=100008937524590</p>
  <p>____________</p>
  <p><b>Bài đọc thêm:</b></p>
- <p><a href="https://sachhiem.net/index.php?content=showemail&amp;id=3239">- Thư gửi Thượng Nghị Sĩ Tiểu Bang California Tom Umberg của 1 cư dân Mỹ gốc Việt</a>:</p>
+ <p><a href="/hop-thu/3239">- Thư gửi Thượng Nghị Sĩ Tiểu Bang California Tom Umberg của 1 cư dân Mỹ gốc Việt</a>:</p>
  <div class="leftborder">
   <p align="center"><b>Kính gửi ông Tom Umberg, Thượng Nghị Sĩ  tiểu bang California,</b></p>
  <p> <a href="https://www.facebook.com/LyThaiXuanSH/posts/1411316619202124">FB Lâm Phú Châu&nbsp;</a>ngày  17 tháng 4, 2021</p>

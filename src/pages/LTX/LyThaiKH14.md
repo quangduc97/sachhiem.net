@@ -3,7 +3,7 @@ layout: ../../layouts/Article.astro
 title: "Có Gì Huyền Bí Trong Đám Mây Ngũ Sắc?"
 author: "Lý Thái"
 date: 2014-03-10
-source: "https://sachhiem.net/LTX/LyThaiKH14.php"
+source: "/LTX/LyThaiKH14"
 category: "Khoa học"
 lang: vi
 wordCount: 367

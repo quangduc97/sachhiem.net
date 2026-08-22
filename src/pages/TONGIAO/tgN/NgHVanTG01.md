@@ -2,7 +2,7 @@
 layout: ../../../layouts/Article.astro
 title: "NHỮNG NGỘ NHẬN VỀ HỌC THUYẾT MARX"
 author: "Nguyễn Hoài Vân"
-source: "https://sachhiem.net/null"
+source: "/null"
 category: "Tác giả"
 lang: vi
 wordCount: 6330

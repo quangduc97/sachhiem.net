@@ -2,7 +2,7 @@
 layout: ../../../layouts/Article.astro
 title: "Không Thể Không Nói về “Không Thể Không Nói”"
 author: "Mục Đồng"
-source: "https://sachhiem.net/null"
+source: "/null"
 category: "Chính trị"
 lang: vi
 wordCount: 3520
@@ -203,12 +203,12 @@ image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/Hinh/VIETNAM/DTVoNgG
 	</p>
 	<p><font face="SimSun">⊙</font> 2 bài của Charlie Nguyễn:
 	</p>
-	<p>- <a href="https://sachhiem.net/CHARLIE/CN_TTDTG/Alexandre.php">
+	<p>- <a href="/CHARLIE/CN_TTDTG/Alexandre">
 	Alexandre De Rhodes và Chữ Quốc Ngữ </a>(Charlie Nguyễn)</p>
 	<p>- 
-	<a href="https://sachhiem.net/CHARLIE/CN_TTDTG/daoquan5.php">
+	<a href="/CHARLIE/CN_TTDTG/daoquan5">
 	Các Hoạt Động Chính Trị của Đạo Quân Thứ 5 </a>(Charlie Nguyễn)</p><p>
-	trong  <a href="https://sachhiem.net/CHARLIE/TrangCharlie.php">
+	trong  <a href="/CHARLIE/TrangCharlie">
 	https://sachhiem.net/CHARLIE/TrangCharlie.php</a> (hay </p>
 	<p>
 	<a href="https://home.earthlink.net/~charlienguyen/muc_luc.htm">
@@ -217,14 +217,14 @@ image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/Hinh/VIETNAM/DTVoNgG
 	2 bài của Trần chung Ngoc:</p>
 	<p>
 	<a href="https://giaodiemonline.com/thuvien/doithoai/tcn_nttcuon2bai3.htm">· 
-	</a><i><a href="https://sachhiem.net/TCN/TCNls/TCNls03_NTT.php">Nguyễn Trường Tộ - Từ 
+	</a><i><a href="/TCN/TCNls/TCNls03_NTT">Nguyễn Trường Tộ - Từ 
 	Huyền Thoại Đến Thực Chất</a> </i>  </p>
 	<p>
-		· <i>"<a href="https://sachhiem.net/BUIKHA/NTTO_01.php">Nguyễn Trường Tộ 
+		· <i>"<a href="/BUIKHA/NTTO_01">Nguyễn Trường Tộ 
 		Yêu Nước?"</a> </i>&nbsp;</p>
 	<p><font face="SimSun">⊙</font> và 1 bài của Trần Văn Hạc: </p>
 	<p>
-	<a href="https://sachhiem.net/VANHOC/TVHAC/Vanhac01.php">
+	<a href="/VANHOC/TVHAC/Vanhac01">
 	GỬI NGƯỜI TẠC TƯỢNG ALEXANDRE DE RHODES </a> <i>
 	</i></p>
 	<p><i>trước khi tán đồng quan điểm nầy của KTS Trần Thanh Vân.</i> </p>

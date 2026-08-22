@@ -2,14 +2,13 @@
 layout: ../../layouts/Article.astro
 title: "Thiền Là Phương Thuốc Trị Bệnh"
 author: "Hồng Quang"
-source: "https://sachhiem.net/BUIKHA/HongQuang09.php"
+source: "/BUIKHA/HongQuang09"
 lang: vi
 wordCount: 6714
-image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nha.jpg"
+image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/BUIKHA/img/Thuoc1.jpg"
 ---
 
-<p align="center"><a href="https://www.sachhiem.net/">
-	<img border="0" src="https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nha.jpg"></a> 06 tháng 1, 2010	</p>
+<p align="center"> 06 tháng 1, 2010	</p>
 <p class="center"><img border="0" src="https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/BUIKHA/img/Thuoc1.jpg"></p>
 	
 	<p>

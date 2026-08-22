@@ -3,7 +3,7 @@ layout: ../../../layouts/Article.astro
 title: "Đừng Bỏ Qua Nhe Obama: Vận May Tiếp Tục"
 author: "Khuất Phong Nguyễn Đình Phùng"
 date: 2015-09-08
-source: "https://sachhiem.net/THOISU_CT/ChuK/KhuatPhong.php"
+source: "/THOISU_CT/ChuK/KhuatPhong"
 category: "Chính trị"
 lang: vi
 wordCount: 2815

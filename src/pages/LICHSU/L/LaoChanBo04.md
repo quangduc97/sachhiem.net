@@ -3,7 +3,7 @@ layout: ../../../layouts/Article.astro
 title: "Ngày Tri Ân 27/7 - Sao Phải Sợ \"Phía Bên Kia Chạnh Lòng\"?"
 author: "Lão Chăn Bò"
 date: 2023-07-27
-source: "https://sachhiem.net/LICHSU/L/LaoChanBo04.php"
+source: "/LICHSU/L/LaoChanBo04"
 category: "Lịch sử"
 lang: vi
 wordCount: 1744

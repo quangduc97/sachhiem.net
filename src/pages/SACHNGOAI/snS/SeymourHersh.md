@@ -2,7 +2,7 @@
 layout: ../../../layouts/Article.astro
 title: "A Reporter’s Report on Washington."
 author: "Seymour M. Hersh"
-source: "https://sachhiem.net/Source: https://www.vanderleeuwlezing.nl/2007/lezingHersh.pdf"
+source: "/Source: https://www.vanderleeuwlezing.nl/2007/lezingHersh.pdf"
 lang: en
 wordCount: 4282
 image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nhacu.jpg"
@@ -27,7 +27,7 @@ image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nhacu.jpg"
 <div style="padding-left: 40px; padding-right: 40px">
 
 <table border="0" cellpadding="10" width="85%" cols="2"><tbody><tr>
-	<td valign="top" width="120"><a href="https://sachhiem.net/">
+	<td valign="top" width="120"><a href="/">
 	<img border="0" src="https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nhacu.jpg" width="49" height="20"></a></td>
 	<td valign="top" style="text-align:right">		
 		<font size="2">18 Nov 08</font><font size="2" color="#808080"> </font></td></tr></tbody></table>

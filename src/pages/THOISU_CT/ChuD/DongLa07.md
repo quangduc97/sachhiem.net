@@ -3,7 +3,7 @@ layout: ../../../layouts/Article.astro
 title: "Theo Cái Đầu Đặc Bê Tông Của Ông Cống"
 author: "Đông La"
 date: 2016-06-22
-source: "https://sachhiem.net/THOISU_CT/ChuD/DongLa07.php"
+source: "/THOISU_CT/ChuD/DongLa07"
 category: "Chính trị"
 lang: vi
 wordCount: 2275
@@ -31,7 +31,7 @@ wordCount: 2275
     Thật là khùng điên khi cho chế độ của Ngô Đình Diệm chỉ <i>“đàn áp  cộng sản”</i> chứ không phải đàn áp <i>“người yêu nước</i>”, cho cái ý “<i>người cộng sản là  người yêu nước</i>” là <i>“đánh tráo khái niệm để ngụy biện”</i>, để “<i>nhằm kích động hận  thù dân tộc”</i>. Chỉ là một kẻ thù điên cuồng của chế độ mới có một sự phân chia  thù địch như vậy. </p>
   <p>
     Trước bao linh hồn của các chiến sĩ cộng sản hy sinh trong tù  ngục thời cách mạng còn trứng nước, trước bao linh hồn các chiến sĩ hy sinh  trong hai cuộc kháng chiến khốc liệt để có được ngày hòa bình hôm nay, trong đó  có đồng đội của tôi, tôi không chửi Nguyễn Đình Cống là một “<i>thằng già láo</i>” thì  tôi không còn là tôi nữa! </p>
-  <p>    “Thằng già” này cần phải biết về Ngô Đình Diệm. Ngày 8 tháng 3 năm 1949, Tổng thống Pháp Vincent Auriol và Cựu  hoàng Bảo Đại đã ký Hiệp ước Elysée, thành  lập Quốc gia Việt Nam trong khối Liên hiệp Pháp, đứng đầu là Quốc trưởng Bảo Đại,  thực chất là con bài giúp Pháp thuyết phục Mỹ viện trợ kinh tế và quân sự để có  thể tiếp tục đứng chân tại Đông Dương. Rồi đến khi Pháp thua tại Điện Biên Phủ,  Eisenhower muốn có một chính phủ mở rộng hơn là chính phủ của một ông Vua bù  nhìn để làm giảm sự hấp dẫn của Hồ Chí Minh. Ngô Đình Diệm đã được Mỹ chọn  là quân bài giúp Mỹ thế chân Pháp. Bảo Đại đã phải cho Diệm một chức vụ Thủ  tướng. Ý thức được rằng mình đang ném ngai vàng đi, Bảo Đại đã bắt Diệm phải  thề trung thành. Diệm đã quỳ xuống trước Hoàng Hậu Nam Phương thề là  sẽ làm hết sức để giữ ngai vàng cho Hoàng Tử Bảo Long. Nhưng chỉ hơn 1 năm sau,  Diệm đã dùng tiền của CIA tổ chức cuộc Trưng Cầu Dân Ý gian lận để phế bỏ Bảo Đại  và lên làm Tổng Thống. &nbsp;(<a href="https://www.sachhiem.net/TCN/TCNls/TCNls06.php">https://www.sachhiem.net/TCN/TCNls/TCNls06.php</a>) </p>
+  <p>    “Thằng già” này cần phải biết về Ngô Đình Diệm. Ngày 8 tháng 3 năm 1949, Tổng thống Pháp Vincent Auriol và Cựu  hoàng Bảo Đại đã ký Hiệp ước Elysée, thành  lập Quốc gia Việt Nam trong khối Liên hiệp Pháp, đứng đầu là Quốc trưởng Bảo Đại,  thực chất là con bài giúp Pháp thuyết phục Mỹ viện trợ kinh tế và quân sự để có  thể tiếp tục đứng chân tại Đông Dương. Rồi đến khi Pháp thua tại Điện Biên Phủ,  Eisenhower muốn có một chính phủ mở rộng hơn là chính phủ của một ông Vua bù  nhìn để làm giảm sự hấp dẫn của Hồ Chí Minh. Ngô Đình Diệm đã được Mỹ chọn  là quân bài giúp Mỹ thế chân Pháp. Bảo Đại đã phải cho Diệm một chức vụ Thủ  tướng. Ý thức được rằng mình đang ném ngai vàng đi, Bảo Đại đã bắt Diệm phải  thề trung thành. Diệm đã quỳ xuống trước Hoàng Hậu Nam Phương thề là  sẽ làm hết sức để giữ ngai vàng cho Hoàng Tử Bảo Long. Nhưng chỉ hơn 1 năm sau,  Diệm đã dùng tiền của CIA tổ chức cuộc Trưng Cầu Dân Ý gian lận để phế bỏ Bảo Đại  và lên làm Tổng Thống. &nbsp;(<a href="/TCN/TCNls/TCNls06">https://www.sachhiem.net/TCN/TCNls/TCNls06.php</a>) </p>
   <p>
     Ấy vậy mà đến tận giờ vẫn không ít người tôn thờ Ngô Đình Diệm  và tính chính nghĩa của <i>“Nền Đệ nhất Cộng hòa”</i>. Hãy xem đoạn văn dưới đây gởi  những quan thầy Pháp của Ngô Đình Thục, anh ruột Ngô Đình Diệm, người đã dựa  vào thế lực công giáo, giúp em mình đoạt quyền từ Bảo Đại, để xem rõ hơn cái  tính “chính nghĩa” đó: </p>
   <div class="Gry">
@@ -40,7 +40,7 @@ wordCount: 2275
     <p>
       <i>      Có thể tôi lầm, tuy nhiên, thưa  Đô Đốc, tôi xin thú thực là không tin – cho đến khi được chứng minh ngược lại –  rằng các em tôi đã phản lại truyền thống của gia đình chúng tôi đến như thế,  một gia đình đã tự mình gắn liền với nước Pháp từ lúc ban đầu, trong khi ông  cha của những quan lại bây giờ hầu hết đều chống lại Pháp...."</i> </p>
     <p>
-      <i>(<a href="https://www.sachhiem.net/TCN/TCNls/TCNls06.php">https://www.sachhiem.net/TCN/TCNls/TCNls06.php</a>)</i> </p>
+      <i>(<a href="/TCN/TCNls/TCNls06">https://www.sachhiem.net/TCN/TCNls/TCNls06.php</a>)</i> </p>
   </div>
   <p>
     Vậy có lẽ nào những người cộng sản chống Ngô Đình Diệm lại không  phải là “người yêu nước” như cái nhìn thù địch của Nguyễn Đình Cống?” </p>

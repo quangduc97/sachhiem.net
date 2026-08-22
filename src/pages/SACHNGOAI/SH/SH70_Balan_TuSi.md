@@ -3,7 +3,7 @@ layout: ../../../layouts/Article.astro
 title: "Sự Suy Tàn Của Tu Viện Và Sự Mất Mát Theo Sau"
 author: "James Jeffrey/ Catholicworldreport"
 date: 2024-08-14
-source: "https://sachhiem.net/SACHNGOAI/SH/SH70_My_TuSi.php"
+source: "/SACHNGOAI/SH/SH70_My_TuSi"
 category: "Sách ngoại văn"
 lang: vi
 wordCount: 3882

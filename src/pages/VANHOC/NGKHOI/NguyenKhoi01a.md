@@ -3,15 +3,15 @@ layout: ../../../layouts/Article.astro
 title: "SƠN LA KÝ SỰ - Kỳ 2"
 author: "Nguyễn Khôi"
 date: 2012-04-22
-source: "https://sachhiem.net/VANHOC/NGKHOI/NguyenKhoi01a.php"
+source: "/VANHOC/NGKHOI/NguyenKhoi01a"
 category: "Văn hóa"
 lang: vi
 wordCount: 9072
-image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nha.jpg"
+image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/VANHOC/NGKHOI/IMG/NguyenKhoi01a_nhasan.jpg"
 ---
 
 <table border="0" cellpadding="0" align="center" width="250">
-        <tbody><tr><td width="100"><a href="https://sachhiem.net/index.php"><img border="0" src="https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nha.jpg"></a></td>
+        <tbody><tr><td width="100"></td>
         <td> 22-Apr-2012  </td>
         </tr></tbody></table>
          

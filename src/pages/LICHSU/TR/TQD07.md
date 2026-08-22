@@ -3,15 +3,15 @@ layout: ../../../layouts/Article.astro
 title: "\"Cả Thế Giới\" Nào Lại"
 author: "Trần Quang Diệu"
 date: 2012-02-28
-source: "https://sachhiem.net/LICHSU/TR/TQD07.php"
+source: "/LICHSU/TR/TQD07"
 category: "Lịch sử"
 lang: vi
 wordCount: 5374
-image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nha.jpg"
+image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/LICHSU/IMG/VNwar/DienBienPhu1.jpg"
 ---
 
 <table border="0" cellpadding="0" width="250" align="center"><tbody><tr>
-	<td width="125"><a href="/index"><img border="0" src="https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nha.jpg"></a></td>
+	<td width="125"></td>
 <td valign="top"> 28-Feb-2012</td>
 		</tr></tbody></table>
               <p><i>LTS: </i><i>Một thân hữu đã từng gửi bài lên sachhiem.net
@@ -220,7 +220,7 @@ image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nha.jpg"
               <p><i>"Tổng Thống Kennedy Gọi Anh Em Ông Diệm</i> <br>
                   <i>Là “Bọn Chó Đẻ” (sons of bitches)</i> <br>
                   <i>James S. Olson &amp; Randy Roberts</i> <br>
-                  <i><a href="https://sachhiem.net/LICHSU/C/Cahat_LS00.php">https://<b>sachhiem.net</b>/LICHSU/C/Cahat_LS00.php</a>.</i> </p>
+                  <i><a href="/LICHSU/C/Cahat_LS00">https://<b>sachhiem.net</b>/LICHSU/C/Cahat_LS00.php</a>.</i> </p>
               <div class="indent50">
                 <p> <br>
                     <i>February 26, 2012 </i> </p>

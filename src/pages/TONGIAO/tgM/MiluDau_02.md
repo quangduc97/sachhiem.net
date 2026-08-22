@@ -3,7 +3,7 @@ layout: ../../../layouts/Article.astro
 title: "Ki-tô Giáo Và Đạo Hiếu Truyền Thống Của Dân Việt"
 author: "Milu Dau"
 date: 2018-12-30
-source: "https://sachhiem.net/TONGIAO/tgM/MiluDau_02.php"
+source: "/TONGIAO/tgM/MiluDau_02"
 category: "Tác giả"
 lang: vi
 wordCount: 5415
@@ -13,7 +13,7 @@ image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/TONGIAO/IMG/CHURCH/D
 <div class="tomluoc">
       <p><i>Trong 12 giới răn của đạo Chúa chỉ có mấy chữ "thảo kính cha mẹ", rồi thôi, và sắp hàng thứ 4, sau 3 lần đội Chúa lên đầu. Bên Tây chẳng có người nào biết Đạo Hiếu là gì. Thế thì các nhà truyền giáo làm sao đem Đạo Hiếu từ đâu vào? Mãi cho đến nay có ai thấy nhà nào bên Tây thờ cha mẹ hay không? </i></p>
     </div>
-<p><span class="First">T</span>rong phần “Thư, Ý kiến ngắn” của Trang SH gần đây xuất hiện  vài phản hồi về bài “<i><a href="https://sachhiem.net/index.php?content=showemail&amp;id=2769">đạo Chúa có công khai sáng, dạy dân ta phải hiếu thảo với  tổ tiên</a></i>” trên vnexpress.net nhân dịp Mùa Noel 2018.</p>
+<p><span class="First">T</span>rong phần “Thư, Ý kiến ngắn” của Trang SH gần đây xuất hiện  vài phản hồi về bài “<i><a href="/hop-thu/2769">đạo Chúa có công khai sáng, dạy dân ta phải hiếu thảo với  tổ tiên</a></i>” trên vnexpress.net nhân dịp Mùa Noel 2018.</p>
 <p>Tôi chẳng đọc được bài báo nghe nói đã bị rút bỏ nhanh chóng  vì phản ứng dữ dội của bạn đọc khắp nơi nhất là trong nước. Trang mạng vnexpress.net vốn nổi tiếng tải bài bênh vực những giáo dân và chờ dịp đánh bóng Vatican ở VN.</p>
 <p>Nhưng nếu ta cứ dùng google gõ thử “<i>Ki tô giáo và Đạo Hiếu ở  VN</i>” thì xuât hiện vô số bài của các “<i>cán bộ hắc y Mít</i>” về đề tài ấy. Nếu đọc  thì có lẽ chỉ mất thì giờ quí báu; bởi lối viết chuyển trắng thay đen, ăn cắp <b>lộn  sòng nét văn hóa đẹp của người làm của mình </b>vốn là ngón nghề của Ki-tô giáo và  nhất là Ca-tô Vatican. </p>
 <p>Con chiên Việt luôn chứng tỏ tuy ăn phải bả mê tín muộn  nhưng bộc lộ sự cuồng đạo thì hơn cả các dân tộc Á đông khác và hơn cả ở  Vatican, chỉ vì họ có đầu nhưng không có não, chẳng dám dùng genes tư duy sáng  suốt của tổ tiên trước những chuyện nhảm nhí tưởng tượng trong các bộ Kinh Ước.  Họ đã bị nhồi sọ rằng các cuốn sách ấy là lời Chúa Cha trên trời và Chúa Con dưới  đất truyền dạy nên không hề có sai phạm. </p>
@@ -122,7 +122,7 @@ image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/TONGIAO/IMG/CHURCH/D
 <p>  Dec. 2018</p>
  <p>______________</p>
  <p><b>Bài đọc thêm:</b></p>
- <p>- <a href="https://sachhiem.net/LTX/LythaiDT02.php">Phản Hồi Nick Bình Nguyễn - Đừng Bắt Chước Công Giáo </a>(Lý Thái Xuân)</p>
+ <p>- <a href="/LTX/LythaiDT02">Phản Hồi Nick Bình Nguyễn - Đừng Bắt Chước Công Giáo </a>(Lý Thái Xuân)</p>
  <p>______________</p>
  <p><b>Nhận xét:</b></p>
  <p>On Tuesday, January 1, 2019,  2:33:48 PM PST, Mát Tha &lt;---&gt; wrote:</p>

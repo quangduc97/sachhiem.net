@@ -2,7 +2,7 @@
 layout: ../../../layouts/Article.astro
 title: "SÂN CHƠI HÈ"
 author: "Minh Mẫn"
-source: "https://sachhiem.net/null"
+source: "/null"
 lang: vi
 wordCount: 2121
 image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nhacu.jpg"
@@ -25,7 +25,7 @@ image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nhacu.jpg"
 <tr> <td width="100%" bgcolor="White"> 
 <div style="padding-left: 40px; padding-right: 40px">
   <table border="0" cellpadding="10" width="100%" cols="2"><tbody><tr>
-	<td valign="top"><a href="https://sachhiem.net/"><img border="0" src="https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nhacu.jpg" width="49" height="20"></a></td>
+	<td valign="top"><a href="/"><img border="0" src="https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nhacu.jpg" width="49" height="20"></a></td>
 	<td valign="top" style="text-align:right">	<i>
 	02 tháng 6, 2009</i></td></tr></tbody></table>
 
@@ -183,7 +183,7 @@ vẫn chưa có một bản dịch nào kinh BÁT NHÃ -- Trái Tim của Đạo
 
 <tr><td> 
 
-			<a href="https://sachhiem.net/MINHMAN/MMdir.php"><p class="trang">Trang Minh Mẫn</p></a>
+			<a href="/MINHMAN/MMdir"><p class="trang">Trang Minh Mẫn</p></a>
 
 </td></tr>
 </tbody></table>

@@ -3,7 +3,7 @@ layout: ../../../layouts/Article.astro
 title: "Bài Võ Nguyên Giáp Trên Tạp Chí Times"
 author: "Times/ Đại Quang dịch"
 date: 2014-11-12
-source: "https://sachhiem.net/LICHSU/T/Times01.php"
+source: "/LICHSU/T/Times01"
 category: "Chính trị"
 lang: vi
 wordCount: 798

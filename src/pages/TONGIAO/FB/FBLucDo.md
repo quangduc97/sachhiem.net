@@ -3,7 +3,7 @@ layout: ../../../layouts/Article.astro
 title: "Nhà Sư Viết Tiểu Thuyết Quảng Cáo Đạo Chúa"
 author: "Lục Đồ sưu tầm"
 date: 2025-03-19
-source: "https://sachhiem.net/TONGIAO/FB/FBLucDo.php"
+source: "/TONGIAO/FB/FBLucDo"
 category: "Tác giả"
 lang: vi
 wordCount: 1530
@@ -69,7 +69,7 @@ phân đoạn..</i>" </p>
 <p>  - Phút 2:17:45  Một chương đọc từ nãy giờ chưa hết đâu quý vị. Chỉ có chương 4 thôi.    &nbsp;Công nhận thầy dùng cái cách truyền đạo này phải nói là <b>Vi Diệu</b> đó nha.</p>
 <p>  - Phút 2:24:34  Khách mời Đỗ Trinh: phải nói là là <b>cực kỳ tinh vi</b> chứ nói gì nữa? Cực kỳ tinh vi, vì bởi  cho nên dành cả tuổi xuân mà.</p>
 <p>...</p>
-<p>Cùng với những bài giảng rất tốt về Chúa Giê-su theo kinh thánh cho cộng đồng Phật tử, cộng với sự kiện "<i>Xin theo làm tôi tớ Chúa</i>" trong Kinh Hòa Bình 2023 do chính sư Thích Chân Quang sáng tác (<a href="https://sachhiem.net/DOITHOAI/SH/KinhHoaBinh_TCQ.php">xem Giai thoại Kinh Hòa Bình</a>) và bắt 1000 Phật tử trong ca đoàn của ông phải hòa nhịp tung hô Chúa, thờ lạy Chúa, ngay đúng vào ngày lễ Phật Thành Đạo, bạn đọc nghĩ ông sư này có mục đích nào tốt cho đạo pháp hay cho dân tộc?</p>
+<p>Cùng với những bài giảng rất tốt về Chúa Giê-su theo kinh thánh cho cộng đồng Phật tử, cộng với sự kiện "<i>Xin theo làm tôi tớ Chúa</i>" trong Kinh Hòa Bình 2023 do chính sư Thích Chân Quang sáng tác (<a href="/DOITHOAI/SH/KinhHoaBinh_TCQ">xem Giai thoại Kinh Hòa Bình</a>) và bắt 1000 Phật tử trong ca đoàn của ông phải hòa nhịp tung hô Chúa, thờ lạy Chúa, ngay đúng vào ngày lễ Phật Thành Đạo, bạn đọc nghĩ ông sư này có mục đích nào tốt cho đạo pháp hay cho dân tộc?</p>
 <p>Xem Phụ Lục A, người ta tìm thấy Chùa Phật Quang do sư Thích Chân Quang có đến 55 đạo tràng được thành lập. Một thông báo mới nhất được áp dụng từ tháng 8 năm 2024 như sau. Vậy ta có thể nói nhà sư định cải đạo Phật tử  khắp nước Việt Nam một cách êm đềm mà không cần  rửa tội ở nhà Chúa! Một việc "dâng Chúa" cả hồn lẫn xác qua cửa nhà Phật một cách siêu phàm, chưa có ai trên thế giới này có thể làm được. Thích Chân Quang quả là một thiên tai!./.</p>
 
 
@@ -79,14 +79,14 @@ phân đoạn..</i>" </p>
 <p>______________</p>
 <p><b>Mời đọc thêm:</b></p>
 <p><a href="https://phatgiao.org.vn/thuc-hu-chuyen-thanh-ca-hat-o-chua-thien-ton-phat-quang-cua-thuong-toa-thich-chan-quang-d82118.html">- Thực hư chuyện Thánh ca hát ở chùa Thiền Tôn Phật Quang của Thượng tọa Thích Chân Quang?</a> Phatgiao.org.vn ngày Thứ sáu, 15/03/2024</p>
-<p>- <a href="https://sachhiem.net/MINHMAN/Tongiao/MinhManTG53.php">Tu Sĩ Phật Giáo Hát Và Sáng Tác Thánh Ca Để Làm Gì? </a>(Minh Mẫn) </p>
-<p>- <a href="https://sachhiem.net/DOITHOAI/SH/KinhHoaBinh_TCQ.php">Giai Thoại Kinh Hòa Bình - và Sư Thích Chân Quang</a> (Lý Thái Xuân) </p>
-<p>- <a href="https://sachhiem.net/TONGIAO/FB/FBLucDo.php">Nhà Sư Viết Tiểu Thuyết Quảng Cáo Đạo Chúa</a> (Lục Đồ sưu tầm)</p>
-<p>- <a href="https://sachhiem.net/TONGIAO/tgTH/Thuvienhs_04.php">Sợ Hãi Với “Lời Phát Nguyện Trung Thành Tuyệt Đối” - P1 </a> (Thư Viện Hoa Sen) </p>
-<p>- <a href="https://sachhiem.net/TONGIAO/tgTH/Thuvienhs_04A.php">Sợ Hãi Với “Lời Phát Nguyện Trung Thành Tuyệt Đối” - P2 </a> (Thư Viện Hoa Sen) </p>
+<p>- <a href="/MINHMAN/Tongiao/MinhManTG53">Tu Sĩ Phật Giáo Hát Và Sáng Tác Thánh Ca Để Làm Gì? </a>(Minh Mẫn) </p>
+<p>- <a href="/DOITHOAI/SH/KinhHoaBinh_TCQ">Giai Thoại Kinh Hòa Bình - và Sư Thích Chân Quang</a> (Lý Thái Xuân) </p>
+<p>- <a href="/TONGIAO/FB/FBLucDo">Nhà Sư Viết Tiểu Thuyết Quảng Cáo Đạo Chúa</a> (Lục Đồ sưu tầm)</p>
+<p>- <a href="/TONGIAO/tgTH/Thuvienhs_04">Sợ Hãi Với “Lời Phát Nguyện Trung Thành Tuyệt Đối” - P1 </a> (Thư Viện Hoa Sen) </p>
+<p>- <a href="/TONGIAO/tgTH/Thuvienhs_04A">Sợ Hãi Với “Lời Phát Nguyện Trung Thành Tuyệt Đối” - P2 </a> (Thư Viện Hoa Sen) </p>
 <p>- <a href="https://thuvienhoasen.org/a41290/ong-thich-chan-quang-tu-y-sua-doi-gioi-cam-va-dieu-nguyen-cua-phat-giao-">Ông Thích Chân Quang Tự Ý Sửa Đổi Giới Cấm Và Điều Nguyện Của Phật Giáo!</a> (Thư Viện Hoa Sen) </p>
-<p>- <a href="https://sachhiem.net/printemail.php?id=3799"> Nhà nước đã căng, Sự nghiệp cả đời của sư Thích Chân Quang sụp đổ</a> (Kiến Thức Thú Vị -video)</p>
-<p>- <a href="https://sachhiem.net/TONGIAO/tgTH/Thuvienhs_03.php">Bản Tường Trình  Thầy Thích Chân Quang Lạm Dụng Tình Dục Và Bội Tín Với Tập Thể Phật Tử -1</a></p>
-<p>- <a href="https://sachhiem.net/TONGIAO/tgS/SH102.php">Các Bản Tường Trình Của Nạn Nhân Bị Thầy Thích Chân Quang Lạm Dụng -2 </a> (Lục Đồ sưu tầm)</p>
-<p>- <a href="https://sachhiem.net/MINHMAN/Tongiao/MinhManTG54.php">Hài Kịch Hoàn Hảo!</a> (Minh Mẫn)</p>
-<p>- <a href="https://sachhiem.net/TONGIAO/tgS/SH105.php">TÂM THƯ CẦU CỨU của NẠN NHÂN Scandal Ở Chùa Phật Quang</a> ngàn 20 tháng 1, 2026 </p>
+<p>- <a href="/printemail.php?id=3799"> Nhà nước đã căng, Sự nghiệp cả đời của sư Thích Chân Quang sụp đổ</a> (Kiến Thức Thú Vị -video)</p>
+<p>- <a href="/TONGIAO/tgTH/Thuvienhs_03">Bản Tường Trình  Thầy Thích Chân Quang Lạm Dụng Tình Dục Và Bội Tín Với Tập Thể Phật Tử -1</a></p>
+<p>- <a href="/TONGIAO/tgS/SH102">Các Bản Tường Trình Của Nạn Nhân Bị Thầy Thích Chân Quang Lạm Dụng -2 </a> (Lục Đồ sưu tầm)</p>
+<p>- <a href="/MINHMAN/Tongiao/MinhManTG54">Hài Kịch Hoàn Hảo!</a> (Minh Mẫn)</p>
+<p>- <a href="/TONGIAO/tgS/SH105">TÂM THƯ CẦU CỨU của NẠN NHÂN Scandal Ở Chùa Phật Quang</a> ngàn 20 tháng 1, 2026 </p>

@@ -3,7 +3,7 @@ layout: ../../../layouts/Article.astro
 title: "Cảnh sát Biển Việt Nam áp sát giàn khoan HD 981 TQ"
 author: "Lê Ngọc Thống /Đất Việt"
 date: 2014-05-12
-source: "https://sachhiem.net/THOISU_CT/ChuG/GiankhoanHD981.php"
+source: "/THOISU_CT/ChuG/GiankhoanHD981"
 category: "Chính trị"
 lang: vi
 wordCount: 1872

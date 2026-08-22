@@ -3,7 +3,7 @@ layout: ../../layouts/Article.astro
 title: "Vài Tai Nạn Lớn Của Các Giàn Khoan Dầu"
 author: "Lý Thái"
 date: 2014-06-01
-source: "https://sachhiem.net/LTX/LyThaiKH15.php"
+source: "/LTX/LyThaiKH15"
 category: "Tác giả"
 lang: vi
 wordCount: 1137

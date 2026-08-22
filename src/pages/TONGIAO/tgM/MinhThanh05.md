@@ -2,15 +2,14 @@
 layout: ../../../layouts/Article.astro
 title: "Một nhà sư thương tiếc,"
 author: "Minh Thạnh"
-source: "https://sachhiem.net/TONGIAO/tgM/MinhThanh05.php"
+source: "/TONGIAO/tgM/MinhThanh05"
 category: "Tác giả"
 lang: vi
 wordCount: 1552
-image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nha.jpg"
+image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/TONGIAO/IMG/CHUA/Thichkhongtanh.jpg"
 ---
 
-<p align="center"><a href="https://www.sachhiem.net/">
-	<img border="0" src="https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nha.jpg"></a> 11 tháng 11, 2010</p> 	<p><i>LTS: Chúng tôi cho đăng bài viết sau đây không vì cá nhân một tu sĩ, nhưng vì&nbsp; anh linh của tất cả những người đã chết trong tức tưởi vì nạn kỳ thị người bên lương và hành động tiêu diệt các tôn giáo Á Châu bằng nhiều phương cách của chính quyền Ngô Đình Diệm đến nỗi cuộc đấu tranh của Phật giáo đã làm xúc động cả thế giới lúc bấy giờ. Nhiều người ngày nay có thể hững hờ không biết, nhưng một tu sĩ Phật giáo không có quyền không biết. Đã không biết mà còn quan niệm sai lạc về chính trị nữa. Điều hiển nhiên là "nhà sư" 	<a href="https://vodpod.com/watch/4792682-ho-thng-thch-khng-tnh-cu-tr-nn-nhn-lc-min-trung-22">đã nhận tiền cứu trợ</a> của 	<a href="https://anlacphungsu.blogspot.com/2010/10/hinh-anh-va-video-clips-ht-khong-tanh.html">tổ chức Cờ Vàng</a> khá lâu, thân thiện khá lâu, (qua các email liên lạc quảng bá công khai trên khắp các diễn đàn trong mấy tháng qua) nên không còn và không thể độc lập tư tưởng  nữa. Kết quả tức khắc là Các Con Chiên Chống Cộng (CCCCC) đã công kênh ông trên tất cả các phương tiện truyền thông rồi (xem một web dẫn bên dưới). Đề nghị những người có trách nhiệm đào tạo tu sĩ Phật giáo nên có bài học lịch sử kèm theo với giáo lý hay Phật pháp, tham khảo thật nhiều các bài viết khác nhau để nhận xét của mình có giá trị thế nào đối với sự thật lịch sử đạo pháp và lịch sử nước nhà. (SH)</i></p>
+<p align="center"> 11 tháng 11, 2010</p> 	<p><i>LTS: Chúng tôi cho đăng bài viết sau đây không vì cá nhân một tu sĩ, nhưng vì&nbsp; anh linh của tất cả những người đã chết trong tức tưởi vì nạn kỳ thị người bên lương và hành động tiêu diệt các tôn giáo Á Châu bằng nhiều phương cách của chính quyền Ngô Đình Diệm đến nỗi cuộc đấu tranh của Phật giáo đã làm xúc động cả thế giới lúc bấy giờ. Nhiều người ngày nay có thể hững hờ không biết, nhưng một tu sĩ Phật giáo không có quyền không biết. Đã không biết mà còn quan niệm sai lạc về chính trị nữa. Điều hiển nhiên là "nhà sư" 	<a href="https://vodpod.com/watch/4792682-ho-thng-thch-khng-tnh-cu-tr-nn-nhn-lc-min-trung-22">đã nhận tiền cứu trợ</a> của 	<a href="https://anlacphungsu.blogspot.com/2010/10/hinh-anh-va-video-clips-ht-khong-tanh.html">tổ chức Cờ Vàng</a> khá lâu, thân thiện khá lâu, (qua các email liên lạc quảng bá công khai trên khắp các diễn đàn trong mấy tháng qua) nên không còn và không thể độc lập tư tưởng  nữa. Kết quả tức khắc là Các Con Chiên Chống Cộng (CCCCC) đã công kênh ông trên tất cả các phương tiện truyền thông rồi (xem một web dẫn bên dưới). Đề nghị những người có trách nhiệm đào tạo tu sĩ Phật giáo nên có bài học lịch sử kèm theo với giáo lý hay Phật pháp, tham khảo thật nhiều các bài viết khác nhau để nhận xét của mình có giá trị thế nào đối với sự thật lịch sử đạo pháp và lịch sử nước nhà. (SH)</i></p>
 			<hr>
 			
 			<p><b>Điều này diễn ra trong tháng 11, tháng kỷ niệm việc kết thúc Pháp 	nạn lịch sử 1963.</b></p>

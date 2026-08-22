@@ -3,7 +3,7 @@ layout: ../../../layouts/Article.astro
 title: "Thiên Chúa Giáo Trong Mối Quan Hệ Với An Ninh Quốc Gia"
 author: "Nguyễn Tiến Trung"
 date: 2022-03-30
-source: "https://sachhiem.net/TONGIAO/FB/FBNguyenTienTrung01.php"
+source: "/TONGIAO/FB/FBNguyenTienTrung01"
 category: "Chính trị"
 lang: vi
 wordCount: 1111

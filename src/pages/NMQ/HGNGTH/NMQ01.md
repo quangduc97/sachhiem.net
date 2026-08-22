@@ -2,18 +2,18 @@
 layout: ../../../layouts/Article.astro
 title: "Một Số Điều Gian Dối Trong Cuốn"
 author: "Nguyễn Mạnh Quang"
-source: "https://sachhiem.net/NMQ/HGNGTH/NMQ01.php"
+source: "/NMQ/HGNGTH/NMQ01"
 category: "Lịch sử"
 lang: vi
 wordCount: 6075
-image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nha.jpg"
+image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/print.gif"
 ---
 
 <p class="Tuaduoi">Công Và Tội Của CT Hồ Chi Minh Và ĐCSVN 1945-2006 </p>
        
        
    
-     <p align="center"><a href="https://sachhiem.net/index.php"><img border="0" hspace="20" src="https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nha.jpg"></a> <a href="/NMQ/HGNGTH/NMQ01"><img border="0" src="https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/print.gif" width="18" height="18"> </a>bản rời |  <a href="/NMQ/HGNGTH/NMQmain"> trở ra mục lục »» </a> |  16 tháng 4, 2011 </p>
+     <p align="center"> <a href="/NMQ/HGNGTH/NMQ01"><img border="0" src="https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/print.gif" width="18" height="18"> </a>bản rời |  <a href="/NMQ/HGNGTH/NMQmain"> trở ra mục lục »» </a> |  16 tháng 4, 2011 </p>
         <p class="CHUONG">PHẦN MỘT</p>
         <p class="MUC">SƠ LƯỢC VỀ KIẾN THỨC SỬ HỌC </p>
         <p>CỦA TÁC GIẢ HOÀNG NGỌC THÀNH</p>
@@ -100,4 +100,4 @@ image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nha.jpg"
         </p><p><a name="_edn9" title="" href="/NMQ/#_ednref9">[9]</a> Chu Tất Tiến. “Dù cho có 1 triệu Trần Chung Ngọc.” Ngày 26/11/2010, phổ biến trến <a href="mailto:DienDanCongLuan@yahoogroups.com">DienDanCongLuan@yahoogroups.com</a> và nhiều diễn đàn điện tử khác trong cùng ngày 26/11/2011.</p>
         <p><a name="_edn10" title="" href="/NMQ/#_ednref10">[10]</a> Nguồn: https://sachhiem.net/EMAILS/SH/Sachhiem35.php</p>
 <hr>
-     <p class="trang"><a href="https://sachhiem.net/index.php?content=PagingNMQsub"> Trang Nguyễn Mạnh Quang </a></p>
+     <p class="trang"> Trang Nguyễn Mạnh Quang </p>

@@ -3,7 +3,7 @@ layout: ../../../layouts/Article.astro
 title: "Tranh Cãi Về Hoạt Động Bác Ái Của Nữ Tu"
 author: "Matt Bradley / NBC News"
 date: 2016-09-05
-source: "https://sachhiem.net/SACHNGOAI/snT/TranKevin_07.php"
+source: "/SACHNGOAI/snT/TranKevin_07"
 category: "Chính trị"
 lang: vi
 wordCount: 2702
@@ -64,11 +64,11 @@ image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/TONGIAO/IMG/Meteresa
  <p>- <i>Why Mother Teresa is still no saint to many of her  critics</i> của Washington Post: <a href="https://www.washingtonpost.com/news/worldviews/wp/2015/02/25/why-to-many-critics-mother-teresa-is-still-no-saint/">https://www.washingtonpost.com/news/worldviews/wp/2015/02/25/why-to-many-critics-mother-teresa-is-still-no-saint/</a></p>
  
 <p><b>** Những bài viết trước đây về Mẹ Teresa:</b></p>
- <p><a href="https://sachhiem.net/TTL/TranTL00.php">- Ngôi nhà ảo tưởng của Mẹ Teresa (Trần Tiên Long)</a></p>
+ <p><a href="/TTL/TranTL00">- Ngôi nhà ảo tưởng của Mẹ Teresa (Trần Tiên Long)</a></p>
  <p>https://sachhiem.net/TTL/TranTL00.php</p>
-<p> <a href="https://sachhiem.net/TCN/TCNtg/TCN66_2.php">- Đâu Là Sự Thực? - Thánh Mẹ Teresa  (Trần Chung Ngọc)</a></p>
+<p> <a href="/TCN/TCNtg/TCN66_2">- Đâu Là Sự Thực? - Thánh Mẹ Teresa  (Trần Chung Ngọc)</a></p>
  <p>https://sachhiem.net/TCN/TCNtg/TCN66_2.php</p>
-   <p>- <a href="https://sachhiem.net/TONGIAO/tgC/ChristopherHitchens.php"> Mẹ Teresa: Ánh Sáng và Bóng Tối </a></p>
+   <p>- <a href="/TONGIAO/tgC/ChristopherHitchens"> Mẹ Teresa: Ánh Sáng và Bóng Tối </a></p>
  <p>https://sachhiem.net/TONGIAO/tgC/ChristopherHitchens.php </p>
    <hr>
    <p class="MUC"><b>PHỤ LỤC</b></p>

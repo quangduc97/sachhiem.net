@@ -3,16 +3,16 @@ layout: ../../layouts/Article.astro
 title: "Thua Từ Những Cái Đầu Quá Kém"
 author: "Thợ Cày Thuê"
 date: 2013-01-17
-source: "https://sachhiem.net/DOITHOAI/ThoCayThue.php"
+source: "/DOITHOAI/ThoCayThue"
 category: "Chính trị"
 lang: vi
 wordCount: 1706
-image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nha.jpg"
+image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/LICHSU/IMG/VNwar/Doithoai_ThoCayThue.jpg"
 ---
 
 <table border="0" cellpadding="0" width="250" align="center">
       <tbody><tr>
-       <td width="125"><a href="/index"><img border="0" src="https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nha.jpg"></a></td>
+       <td width="125"></td>
        <td valign="middle">17-Jan-2013</td>
       </tr>
      </tbody></table>
@@ -25,7 +25,7 @@ image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nha.jpg"
        Date: Thu, January 17, 2013 10:54 am <br>
        To: "sachhiem@sachhiem.net"</p>
       <p>Kính gửi BBT sachhiem,</p>
-      <p>Qua bài "<a href="https://sachhiem.net/DOITHOAI/ThieuLong.php">Trích Bình Luận Về: "Bên Thắng Cuộc" </a>" đăng trên quý báo, tôi thấy có ai đó muốn nói đến Bên Thua Cuộc. </p>
+      <p>Qua bài "<a href="/DOITHOAI/ThieuLong">Trích Bình Luận Về: "Bên Thắng Cuộc" </a>" đăng trên quý báo, tôi thấy có ai đó muốn nói đến Bên Thua Cuộc. </p>
       <p>Thật ra đâu cần phải nói đến THẮNG và THUA làm gì, tất cả đã rõ. Những hình ảnh, những thước phim tài liệu và nhân dân từ trong cuộc chiến tàn khốc đến cuộc sống bình yên hôm nay  ĐÃ LÀ SỰ THẬT LỊCH SỬ, chẳng ai có thể đảo ngược, đổi trắng thay đen được. </p>
       <p>CHÍNH NGHĨA thắng GIAN TÀ là lẽ đương nhiên, dù vẫn còn những kẻ mơ mòng mê muội mưu mô lừa bịp lớp trẻ ...nhưng thật ra lớp trẻ bây giờ không dễ gì bị lường gạt. </p>
       <p>Tuy nhiên, <b>cái THUA</b> của NHỮNG CÁI ĐẦU QUÁ KÉM <b>hồi cuộc chiến  trước đây</b>  cũng chính là <b>cái THUA</b> của NHỮNG CÁI ĐẦU QUÁ KÉM trong <b>thời bình hiện nay</b>.</p>
@@ -79,5 +79,5 @@ image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nha.jpg"
      <p><i>(còn nữa)</i></p>
      <hr>
      <p><b>Bài liên quan:</b></p>
-     <p> <a href="https://sachhiem.net/DOITHOAI/ThieuLong.php">Trích Bình Luận Về: "Bên Thắng Cuộc", Món Quà Noel Kinh Hoàng </a></p>
+     <p> <a href="/DOITHOAI/ThieuLong">Trích Bình Luận Về: "Bên Thắng Cuộc", Món Quà Noel Kinh Hoàng </a></p>
          <hr>

@@ -3,7 +3,7 @@ layout: ../../../layouts/Article.astro
 title: "Phía Bên Kia Ánh Trăng Nhân Văn Của Ki-tô Giáo"
 author: "Trần Trọng Sỹ"
 date: 2020-08-23
-source: "https://sachhiem.net/TTS/TG/TranTrongSy10.php"
+source: "/TTS/TG/TranTrongSy10"
 category: "Văn hóa"
 lang: vi
 wordCount: 14602
@@ -217,7 +217,7 @@ III- Văn Hóa Kỳ Thị Chủng Tộc &amp; Buôn Bán Nô  Lệ</p>
 <p>Năm 1866, Văn phòng Tòa thánh của Giáo hoàng Piô IX khẳng  định rằng, tùy theo các điều kiện, việc bán, mua hoặc trao đổi nô lệ không vi  phạm luật thiêng liêng. </p>
 Sự kỳ thị chủng tộc và chủ  trương buôn bán nô lệ khởi nguồn từ Kinh Thánh, cho dù rất nhiều sách vở ca tụng  rằng Kitô giáo đã có những vị thánh, như Thomas d'Aquin, từng cho rằng con người  sinh ra vốn bình đẳng, chẳng ai có thể làm chủ của ai.
 
-<p>(...xin xem tiếp <a href="https://sachhiem.net/TTS/TG/TranTrongSy10a.php">phần II</a>)</p>
+<p>(...xin xem tiếp <a href="/TTS/TG/TranTrongSy10a">phần II</a>)</p>
 <p>________________</p>
 <p><b>Nhận xét:</b></p>
-<p><a href="https://sachhiem.net/index.php?content=showemail&amp;id=3083">- Vài Điều Chia Sẻ Nhân Đọc Bài "Phía Bên Kia Ánh Trăng Nhân Văn Của Ki-tô Giáo" của t/g Trần Trọng Sỹ</a> (Trần Quang Diệu)</p>
+<p><a href="/hop-thu/3083">- Vài Điều Chia Sẻ Nhân Đọc Bài "Phía Bên Kia Ánh Trăng Nhân Văn Của Ki-tô Giáo" của t/g Trần Trọng Sỹ</a> (Trần Quang Diệu)</p>

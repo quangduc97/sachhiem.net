@@ -3,19 +3,19 @@ layout: ../../../layouts/Article.astro
 title: "Giáo Sư Nguyễn Mạnh Quang"
 author: "Trần Chung Ngọc"
 date: 2011-12-09
-source: "https://sachhiem.net/TCN/TCNdt/TCNdt056a.php"
+source: "/TCN/TCNdt/TCNdt056a"
 category: "Đối thoại"
 lang: vi
 wordCount: 8927
-image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.devhttps://sachhiem.net/images/nha.jpg"
+image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/SACHNGOAI/Hinhanh/BIASACH/IndochineVN.jpg"
 ---
 
 <table border="0" align="center" cellpadding="1" "="">
     <tbody><tr>
-    <td width="200"><a href="https://sachhiem.net/index.php"><img border="0" src="https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.devhttps://sachhiem.net/images/nha.jpg"></a>    </td>   <td width="200"></td>
+    <td width="200">    </td>   <td width="200"></td>
     </tr></tbody></table>
     
-    <p><a href="https://sachhiem.net/TCN/TCNdt/TCNdt056.php">1 </a> <a href="https://sachhiem.net/TCN/TCNdt/TCNdt056a.php"> 2</a> </p>
+    <p><a href="/TCN/TCNdt/TCNdt056">1 </a> <a href="/TCN/TCNdt/TCNdt056a"> 2</a> </p>
     <p class="MUC"><strong>NHỮNG
       TÀN PHÁ CỦA CHẤT ĐỘC DA CAM</strong></p>
     <p class="CHUONG">Tác giả: Pierre Journoud </p>
@@ -464,7 +464,7 @@ image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.devhttps://sachhiem.net/
         chủng của đế quốc có thể trở thành trọn vẹn. Cái nhóm mà Mỹ muốn hăm
         dọa và khủng bố qua những hành động ở Việt Nam là cả nhân loại. </i>(16)</p>
       <p> Quý đọc giả có thể đọc thêm bài CHỦ NGHĨA KHỦNG
-        BỐ VÀ DIỆT CHỦNG DÂN TỘC VIỆT NAM CỦA MỸ 1945 – 1974, [<a href="https://www.sachhiem.net/TCN/TCNts/TCNts25.php">https://www.sachhiem.net/TCN/TCNts/TCNts25.php</a>]
+        BỐ VÀ DIỆT CHỦNG DÂN TỘC VIỆT NAM CỦA MỸ 1945 – 1974, [<a href="/TCN/TCNts/TCNts25">https://www.sachhiem.net/TCN/TCNts/TCNts25.php</a>]
         được dịch từ bài “<a href="https://www.intellnet.org/resources/american_terrorism/Vietnamesevictims.html">American
           Terrorism and Genocide of the Vietnamese People, 1945-1974</a>” trên<br> 
           <a href="https://www.intellnet.org/resources/american_terrorism/Vietnamesevictims.html">https://www.intellnet.org/resources/american_terrorism/Vietnamesevictims.html</a></p>

@@ -3,7 +3,7 @@ layout: ../../../layouts/Article.astro
 title: "Phim Tài Liệu 'Biển Động'"
 author: "đài VTV1"
 date: 2014-05-25
-source: "https://sachhiem.net/THOISU_CT/ChuN/Nguoiduatin.php"
+source: "/THOISU_CT/ChuN/Nguoiduatin"
 category: "Tác giả"
 lang: vi
 wordCount: 257

@@ -2,11 +2,10 @@
 layout: ../../../layouts/Article.astro
 title: "TRAO ĐỔI VỚI BẠN ĐỌC"
 author: "Trần Xuân An"
-source: "https://sachhiem.net/null"
+source: "/null"
 category: "Lịch sử"
 lang: vi
 wordCount: 3546
-image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nha.jpg"
 ---
 
 <div align="center" style="position: relative; left: 0; top: 0">
@@ -28,7 +27,7 @@ image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nha.jpg"
 <tr> <td width="100%" bgcolor="White"> 
 <div style="padding-left: 40px; padding-right: 40px">
 	<table border="0" cellpadding="10" width="85%" cols="3"><tbody><tr>
-		<td width="322"><a href="/index"><img border="0" src="https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nha.jpg"></a></td>
+		<td width="322"></td>
 					<td valign="top">	06 tháng 3, 2009
 	</td></tr></tbody></table>
 	

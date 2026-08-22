@@ -3,7 +3,7 @@ layout: ../../../layouts/Article.astro
 title: "Lên Án VTV1 Đã Xúc Phạm Dân Tộc"
 author: "Chế Trung Hiếu"
 date: 2019-02-10
-source: "https://sachhiem.net/THOISU_CT/ChuC/Chetrunghieu01.php"
+source: "/THOISU_CT/ChuC/Chetrunghieu01"
 category: "Chính trị"
 lang: vi
 wordCount: 16590
@@ -24,7 +24,7 @@ image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/LICHSU/IMG/NGODD/Tra
 <p>  Em Lệ Xuân là Trần Văn Khiêm một kẻ ăn chơi trác táng, nhưng dưới chế độ Ngô  Đình trị vẫn được đề bạt là: <i>“Người phát ngôn của Tổng thống”</i> về sau, năm 1986  Khiêm đã giết chết cha mẹ mình là ông bà Trần Văn Chương ở Washington để cướp tài  sản !</p>
 <p>  Riêng Xuân, năm 1963 đã lên báo chí chửi cả cha mẹ mình là Đại sứ tại Hoa Kỳ  Trần Văn Chương là can thiệp vào đời tư của mình, vì can gián Xuân đừng đàn áp  Phật giáo, sau đó Xuân tuyên bố công khai từ cha mẹ mình !!!</p>
 <p>  <b>Cướp đoạt:</b></p>
-<p>  Trần Lệ Xuân chiếm cả một rừng gỗ Teak hơn 200 mẫu tại Định Quán, lấy gỗ chế  tạo báng súng xuất khẩu nước ngoài. Mưu cổ phần hóa để chiếm trọn hãng nước  suối Vĩnh Hảo, Hãng lông vịt Chợ Lớn, phân chim đảo Hoàng Sa, Mỏ than Nông Sơn,  cát trắng Cam Ranh,...  (Xem Việt Nam Máu Lử Quê Hương Tôi của Hoành Linh Đỗ Mậu, <a href="https://sachhiem.net/HOANHLINH/VNML13.php">https://sachhiem.net/HOANHLINH/VNML13.php</a>)</p>
+<p>  Trần Lệ Xuân chiếm cả một rừng gỗ Teak hơn 200 mẫu tại Định Quán, lấy gỗ chế  tạo báng súng xuất khẩu nước ngoài. Mưu cổ phần hóa để chiếm trọn hãng nước  suối Vĩnh Hảo, Hãng lông vịt Chợ Lớn, phân chim đảo Hoàng Sa, Mỏ than Nông Sơn,  cát trắng Cam Ranh,...  (Xem Việt Nam Máu Lử Quê Hương Tôi của Hoành Linh Đỗ Mậu, <a href="/HOANHLINH/VNML13">https://sachhiem.net/HOANHLINH/VNML13.php</a>)</p>
 <p>  Trần Lệ Xuân sở hữu nhiều tái sản như: những công ty xe bus, công ty đường, độc  quyền than củi, vé số, Báo chí cho rằng số tài sản của vợ chồng ông Nhu - bà  Xuân tổng cộng tới 18 tỉ USD. </p>
 <p><img src="https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/SACHNGOAI/Hinhanh/BIASACH/Politics_Heroin.jpg" alt="" width="150" height="220" class="PicLeft">Năm 1973, Quyển "<i>Cách làm giàu nhanh chóng  mặt của vợ chồng Ngô Đình Nhu - Trần Lệ Xuân</i>" mới được ông Alfed W. McCoy,  chuyên viên chống buôn lậu quốc tế từng là cố vấn tại Tổng nha Cảnh sát thời  Ngô Đình Diệm tiết lộ trong tập luận án tiến sĩ <i>"Đông Nam Á: Chính trị dựa  vào bạch phiến"</i>, viết về nạn buôn bán thuốc phiện tại miền Nam Việt Nam từ  1954 đến 1973. Theo đó, để có tiền tài trợ cho hoạt động chính trị, ông Nhu và  vợ đã bí mật tiến hành việc buôn bán thuốc phiện với các bang người Hoa ở Chợ  Lớn. [có thể xem ở <a href="https://www.nguoiduatin.vn/nghi-van-so-tai-san-khong-lo-cua-tran-le-xuan-a60492.html">https://www.nguoiduatin.vn/ </a>]</p>
 

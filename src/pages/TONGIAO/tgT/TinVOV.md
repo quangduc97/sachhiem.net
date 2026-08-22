@@ -6,7 +6,7 @@ source: "https://vovnews.vn/Home/Ke-chi-huy-gay-roi-tai-Khu-Chung-tich-Tam-Toa-Q
 category: "Tác giả"
 lang: vi
 wordCount: 3702
-image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nha.jpg"
+image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.devhttps://www.xaluan.com/images/news/Image/2009/08/02/1249220830.img.jpg"
 ---
 
 <div align="center" style="position: relative; left: 0; top: 0">
@@ -25,7 +25,7 @@ image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nha.jpg"
 <tr><td width="100%">
 <div style="padding-left: 50px; padding-right: 50px"> 
 	<table border="0" cellpadding="1" width="86%" cols="2"><tbody><tr>
-	<td><a href="/index"><img border="0" src="https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nha.jpg"></a></td>
+	<td></td>
 <td valign="top" width="210"><p>29 tháng 7, 2009	</p>
 			</td></tr></tbody></table>
 		<p><i>LTS:  Hôm nay vấn nạn ở Tam Tòa xem như ngã ngũ.  Sachhiem.net xin ghi lại các tin liên hệ đến nội vụ. Cũng như bao nhiêu "nạn cắm trụ" tương tự của dân Chúa trong hai năm gần đây, việc bắt đầu và việc kết thúc cũng không khác nhau bao nhiêu. Nếu theo kỷ thuật "điều tra" thông thường, người ta cứ liên tục hỏi những câu "tại sao" cho đến khi cái đầu mối được nắm bắt. Những câu hỏi và câu trả lời giả định cho các trường hợp từ "Tòa Khâm Sứ", "Thái Hà", đến "An Bằng",... rồi gần đây nhất là "Tam Tòa" dường như rập theo một khuôn mẫu nhất định. Có hai câu trả lời khác nhau cho mỗi câu hỏi: một do các dân Chúa và Chống Cộng (CC) ở hải ngoại , và một từ phía nhà nước Việt Nam (VN). </i></p><p>
@@ -112,7 +112,7 @@ image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nha.jpg"
 <tr><td>
 <div style="padding-left: 50px; padding-right: 50px"> 
 	<table border="0" cellpadding="1" width="86%" cols="2"><tbody><tr>
-	<td><a href="/index"><img border="0" src="https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nha.jpg"></a></td>
+	<td></td>
 <td valign="top" width="210"><p>29 tháng 7, 2009	</p>
 			</td></tr></tbody></table>
 	

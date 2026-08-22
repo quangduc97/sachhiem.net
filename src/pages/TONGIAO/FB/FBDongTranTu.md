@@ -3,7 +3,7 @@ layout: ../../../layouts/Article.astro
 title: "Đổ Máu Chuộc Tội"
 author: "FB Đồng Trần Tử"
 date: 2021-11-07
-source: "https://sachhiem.net/TONGIAO/FB/FBDongTranTu.php"
+source: "/TONGIAO/FB/FBDongTranTu"
 category: "Tác giả"
 lang: vi
 wordCount: 4741
@@ -214,7 +214,7 @@ Duc Tien Nguyen, đức tin của bạn liệu hơn các linh mục ?</p>
  <p class="nguonL">Nguồn <a href="https://www.facebook.com/nguyencong.son.3348/posts/1351716658620306">FB Đồng Trần Tử</a> ngày 6 tháng 11, 2021</p>
  <p>______________________________</p>
  <p><b>Các bài khác của Đồng Trần Tử</b>:</p>
- <p>- <a href="https://sachhiem.net/TONGIAO/FB/FBDongTranTu.php">Đổ Máu Chuộc Tội</a></p>
- <p>- <a href="https://sachhiem.net/TONGIAO/FB/FBDongTranTu01.php">Hỏa Thiên Đại Hữu (Muôn vật vui vẻ hướng về Mặt Trời)</a></p>
- <p>- <a href="https://sachhiem.net/TONGIAO/FB/FBDongTranTu02.php">Tôi Quay Lưng Với Nhà Thờ </a></p>
- <p>- <a href="https://sachhiem.net/TONGIAO/FB/FBDongTranTu03.php">Chúa Thánh Thần Chính Là Giáo Hội La Mã </a></p>
+ <p>- <a href="/TONGIAO/FB/FBDongTranTu">Đổ Máu Chuộc Tội</a></p>
+ <p>- <a href="/TONGIAO/FB/FBDongTranTu01">Hỏa Thiên Đại Hữu (Muôn vật vui vẻ hướng về Mặt Trời)</a></p>
+ <p>- <a href="/TONGIAO/FB/FBDongTranTu02">Tôi Quay Lưng Với Nhà Thờ </a></p>
+ <p>- <a href="/TONGIAO/FB/FBDongTranTu03">Chúa Thánh Thần Chính Là Giáo Hội La Mã </a></p>

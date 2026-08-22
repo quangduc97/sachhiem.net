@@ -3,16 +3,16 @@ layout: ../../../layouts/Article.astro
 title: "Tình hình hỗn loạn ở Libye"
 author: "Nhữ Đình Hùng"
 date: 2012-09-10
-source: "https://sachhiem.net/THOISU_CT/ChuN/NhuDinhH.php"
+source: "/THOISU_CT/ChuN/NhuDinhH"
 category: "Chính trị"
 lang: vi
 wordCount: 2472
-image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nha.jpg"
+image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/THOISU_CT/Hinh/TRUNGDONG/Libye_nembom_Benghazi.jpg"
 ---
 
 <table border="0" cellpadding="0" width="250" align="center">
             <tbody><tr>
-              <td width="125"><a href="/index"><img border="0" src="https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nha.jpg"></a></td>
+              <td width="125"></td>
               <td valign="middle">10-Sep-2012</td>
             </tr>
           </tbody></table>

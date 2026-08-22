@@ -3,7 +3,7 @@ layout: ../../../layouts/Article.astro
 title: "Scandal Năm 2009 Ở Chùa Phật Quang:"
 author: "Lục Tủ Kiếm Đồ"
 date: 2026-04-12
-source: "https://sachhiem.net/TONGIAO/ThichCQ/ThChanQuang02.php"
+source: "/TONGIAO/ThichCQ/ThChanQuang02"
 category: "Tác giả"
 lang: vi
 wordCount: 1212

@@ -3,14 +3,14 @@ layout: ../../../layouts/Article.astro
 title: "Chuyện Lạ Cuối Năm hay Chuyện Quen Thế Kỷ?"
 author: "Nguyễn Hoàng"
 date: 2017-12-26
-source: "https://sachhiem.net/TONGIAO/tgN/NgHoang01.php"
+source: "/TONGIAO/tgN/NgHoang01"
 category: "Đối thoại"
 lang: vi
 wordCount: 1362
 image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/TONGIAO/IMG/LINHMUC/ThomasByrne_cantai.jpg"
 ---
 
-<p><i>LTS: Sau loạt bài <a href="https://sachhiem.net/DOITHOAI/Samng.php">"Thảo Luận: Thánh Kinh Và Giá Trị Đạo Đức ..."</a> tác giả Nguyễn Hoàng đã có bài "<a href="https://sachhiem.net/TONGIAO/tgN/NgHoang.php">Thánh Kinh - Một Số Hậu Quả</a>" và tiếp theo đó là "Chuyện Lạ Cuối Năm". Bài sau cùng này chỉ là để minh họa thêm những tác hại về mặt đạo đức của những người "lậm thuốc" khi đọc thánh kinh mỗi ngày như thế nào. Vì nhiều lý do, bài đã bị bỏ quên cho đến nay, nhưng các câu chuyện thì cần phải nhớ như sau. Xin mời thưởng thức.</i> (SH)</p><hr>
+<p><i>LTS: Sau loạt bài <a href="/DOITHOAI/Samng">"Thảo Luận: Thánh Kinh Và Giá Trị Đạo Đức ..."</a> tác giả Nguyễn Hoàng đã có bài "<a href="/TONGIAO/tgN/NgHoang">Thánh Kinh - Một Số Hậu Quả</a>" và tiếp theo đó là "Chuyện Lạ Cuối Năm". Bài sau cùng này chỉ là để minh họa thêm những tác hại về mặt đạo đức của những người "lậm thuốc" khi đọc thánh kinh mỗi ngày như thế nào. Vì nhiều lý do, bài đã bị bỏ quên cho đến nay, nhưng các câu chuyện thì cần phải nhớ như sau. Xin mời thưởng thức.</i> (SH)</p><hr>
 <p><b>1. Úc Châu, linh mục với linh mục có tử tế không? </b></p>
 <p>
 - <i>Linh mục Byrne cắn đứt tai của Lm Smith vì dành nhau chỗ đậu xe</i><b>,<a href="https://www.news.com.au/national/year-old-mans-ear-bitten-over-parking-brawl-in-dianella/news-story/fd575432586a2d7038a545df8ff1fff0" target="_blank"> 11/2012</a> .</b> Vì vậy, lệnh <a href="https://www.malaysiandigest.com/world/164722-priest-bites-off-fellow-priests-ear-in-car-park-brawl.html?tmpl=component&amp;layout=default&amp;page=" target="_blank">Toà cấm Lm Byrne phải giữ khoảng cách khỏi Linh Mục Smith trong 10 mét</a> . </p>
@@ -79,9 +79,9 @@ image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/TONGIAO/IMG/LINHMUC/
 <p>TPHCM</p>
 <hr>
 <p><b>Bài đọc thêm</b></p>
-<p>- <a href="https://sachhiem.net/index.php?content=showemail&amp;id=119">Lm giết con để thủ tiêu, vì sợ giáo hội biết (Hoa Long Vũ)</a></p>
-<p>- <a href="https://sachhiem.net/TONGIAO/tgS/SH26.php">Quan Tòa Gọi Một Linh Mục Là Tên Côn Đồ (Hoa Long Vũ)</a></p>
-<p>- <a href="https://www.sachhiem.net/TONGIAO/tgS/SH26_1.php">Danh Sách Tội Phạm Lê Thê - Trộm $400 ngàn, Bỏ Nghề Linh Mục Cưới Vợ, Bị Tù </a>, ....</p>
+<p>- <a href="/hop-thu/119">Lm giết con để thủ tiêu, vì sợ giáo hội biết (Hoa Long Vũ)</a></p>
+<p>- <a href="/TONGIAO/tgS/SH26">Quan Tòa Gọi Một Linh Mục Là Tên Côn Đồ (Hoa Long Vũ)</a></p>
+<p>- <a href="/TONGIAO/tgS/SH26_1">Danh Sách Tội Phạm Lê Thê - Trộm $400 ngàn, Bỏ Nghề Linh Mục Cưới Vợ, Bị Tù </a>, ....</p>
      <p>- <a href="/DOITHOAI/Samng">Thảo Luận: Thánh Kinh Và Giá Trị Đạo Đức -Nhân Lá Thư Của Mục Sư Nguyễn Quang Minh </a></p>
-     <p>- <a href="https://sachhiem.net/TONGIAO/tgT/TinFox.php">Các Nhà Chức Trách Hồng Kông Toan Tính Xếp Kinh Thánh Vào Loại Phi Luân,  https://sachhiem.net/TONGIAO/tgT/TinFox.php</a></p>
+     <p>- <a href="/TONGIAO/tgT/TinFox">Các Nhà Chức Trách Hồng Kông Toan Tính Xếp Kinh Thánh Vào Loại Phi Luân,  https://sachhiem.net/TONGIAO/tgT/TinFox.php</a></p>
        </i>

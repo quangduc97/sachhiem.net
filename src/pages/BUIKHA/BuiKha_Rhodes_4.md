@@ -3,7 +3,7 @@ layout: ../../layouts/Article.astro
 title: "ALEXANDRE DE RHODES & VẤN ĐỀ CHỮ QUỐC NGỮ"
 author: "Bùi Kha"
 date: 2018-07-12
-source: "https://sachhiem.net/BUIKHA/BuiKha_Rhodes_4.php"
+source: "/BUIKHA/BuiKha_Rhodes_4"
 category: "Lịch sử"
 lang: vi
 wordCount: 4478
@@ -25,7 +25,7 @@ image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/LICHSU/IMG/ALEX/Dict
 <p>  Tôi viết “<b><i>Chúng ta có cảm tưởng</i></b><i> <b>là</b> hầu hết các nhà nghiên cứu…”.</i> Ông Nguyễn Đình Đầu cắt xén dòng  chữ “<i>Chúng ta có cảm tưởng là”</i> nên câu văn của tôi đổi nghĩa từ giả  thiết đến khẳng định. Sở dĩ, tôi có <i>cảm  tưởng hầu hết các nhà nghiên cứu chưa đọc…</i> như trên vì hai lý do:</p>
 <p>  <b><i>Một</i></b>, Hội thảo lần thứ nhất là vào  tháng 12 năm 1992 và lần hai là tháng 3 năm 1993 mà cuốn <i>Phép giảng tám ngày</i> mới in xong vào tháng 5 năm 1993 còn cuốn <i>Hành trình và truyền giáo</i> chỉ  mới được xuất bản năm 1994<b><i>.</i></b></p>
 <p>  Cuốn <i>Phép giảng tám ngày </i>của linh  mục Đắc Lộ không đáng để phê bình vì đó là tác phẩm “không đúng đắn”, không  phải của một thừa sai trí thức. Còn cuốn <i>Hành trình và truyền giáo </i>viết  sai và xuyên tạc nhiều vấn đề. Xin đọc bài phê bình khá chi tiết của GS. Trần Chung Ngọc đăng trên  website:</p>
-<p>  <a href="https://www.sachhiem.net/TCN/TCNtg/TCN50.php">https://www.sachhiem.net/TCN/TCNtg/TCN50.php</a> </p>
+<p>  <a href="/TCN/TCNtg/TCN50">https://www.sachhiem.net/TCN/TCNtg/TCN50.php</a> </p>
 <p>  <b><i>Hai, </i></b>tôi nghĩ, những ai có đọc ba cuốn  sách nói trên và nghiêm túc thì không thể chấp nhận lối dịch thuật tùy tiện và  đánh giá linh mục Đắc Lộ theo kiểu của ông Nguyễn Đình Đầu như tôi đã trình bày  khá rõ trong bài viết trước. Thiết tưởng tôi có lý do để nhận định như thế.  Nhận định này có thể có chủ quan nhưng không phải “lên giọng” hạ thấp ai như  ông Nguyễn Đình Đầu gán ép có hậu ý. Theo tôi, ông Nguyễn Đình Đầu dịch “<i>plusieurs  soldats” </i>là “<i>lính thừa sai”</i>, đó là ngụy nghĩa, và dịch “<i>La  conquête de tout l’Orient</i>”là  “<i>nước Cha trị đến</i>”là  dịch tùy tiện<i>. </i>Còn Bùi Kha dịch <i>“plusieurs  soldats”</i> là <i>“lính chiến có súng để  đánh giặc”</i>, và <i>“la conquête de tout  l’Orient”</i> là <i>“chinh phục toàn cõi  phương Đông</i>” là dịch theo ý và sát nghĩa của tác giả Đắc Lộ. Tôi đã đưa ra  5 luận điểm, mà đúng ra là có nhiều hơn, để giải thích tại sao tôi dịch như thế.  Còn ông Nguyễn Đình Đầu dịch nhưng ông đã không thể đưa ra một lý do nào. Do  đó, tôi cho là một lối dịch đầy cảm tính để vinh danh sai lầm một người có  nhiều oan trái với lịch sử nước ta. </p>
 <p>  Để có thêm tư liệu  so sánh xem Bùi Kha có vu khống cha Đắc Lộ hay không, mời ông Nguyễn Đình Đầu  và độc giả tìm hiểu thêm linh mục Đắc Lộ, các vấn đề chính trị và tôn giáo  trong thế kỷ XVII:</p>
 <p class="sub"> a. Cao Huy Thuần trong <i>Christianisme et Colonialisme au Vietnam 1857-1914</i> (Ðạo Thiên Chúa và Chủ nghĩa  Thực dân Pháp tại Việt Nam 1857-1914). Đây là một luận án tiến sĩ quốc gia  (docteur d’état) bảo vệ tại Pháp và đã được ban giám khảo đánh giá rất cao.</p>
@@ -83,11 +83,11 @@ image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/LICHSU/IMG/ALEX/Dict
 <p class="TacgiaL">&nbsp;Bùi Kha</p>
 <p>  02/2009</p>
 <p>___________________</p>
-<p>    <a href="/BUIKHA/#_ftnref1" name="_ftn1">(1) </a>.<a href="https://giaodiemonline.com/2009/02/bienchinh.htm">https://giaodiemonline.com/2009/02/bienchinh.htm</a>; <a href="https://sachhiem.net/BUIKHA/BuiKha2.php">https://sachhiem.net/BUIKHA/BuiKha2.php</a>      </p><p><a href="/BUIKHA/#_ftnref2" name="_ftn2">(2) </a>. Phần  nghiêng đậm trong các trích dẫn do Bùi Kha nhấn mạnh.</p>
+<p>    <a href="/BUIKHA/#_ftnref1" name="_ftn1">(1) </a>.<a href="https://giaodiemonline.com/2009/02/bienchinh.htm">https://giaodiemonline.com/2009/02/bienchinh.htm</a>; <a href="/BUIKHA/BuiKha2">https://sachhiem.net/BUIKHA/BuiKha2.php</a>      </p><p><a href="/BUIKHA/#_ftnref2" name="_ftn2">(2) </a>. Phần  nghiêng đậm trong các trích dẫn do Bùi Kha nhấn mạnh.</p>
      <p><a href="/BUIKHA/#_ftnref3" name="_ftn3">(3) </a>. Trần Tam Tỉnh, <i>Thập giá và lưỡi  gươm</i>, Paris:  Sudestasie, 1978, tr. 14-15. </p>
      <p><a href="/BUIKHA/#_ftnref4" name="_ftn4">(4) </a> . Trần Tam Tỉnh, <i>Thập  giá và lưỡi gươm</i>, sđd, tr. 14. </p>
     <p><a href="/BUIKHA/#_ftnref5" name="_ftn5">(5) </a>. Howard B. Wider,  Robert P. Ludlum &amp; Harriett McCune Brown, “<i>This is America’s Story”</i>,  Houghton Mifflin Company, Atlanta, 1975, trang 63. </p>
-    <p><a href="/BUIKHA/#_ftnref6" name="_ftn6" title="">(6) </a>. Bản tiếng Việt  đăng trên website: <a href="https://www.sachhiem.net/TCNtg/TCN20.php">www.sachhiem.net/TCNtg/TCN20.php</a></p>
+    <p><a href="/BUIKHA/#_ftnref6" name="_ftn6" title="">(6) </a>. Bản tiếng Việt  đăng trên website: <a href="/TCNtg/TCN20">www.sachhiem.net/TCNtg/TCN20.php</a></p>
     <p><a href="/BUIKHA/#_ftnref7" name="_ftn7">(7) </a> . Alexandre de Rhodes, <i>Phép  giảng tám ngày</i>,Tủ  sách Ðại Kết, TP. HCM, 1993, tr. 113.</p>
    <p><a href="/BUIKHA/#_ftnref8" name="_ftn8">(8) </a>. Alexandre de Rhodes, <i>Phép giảng tám ngày</i>, Tủ sách Ðại Kết, TP. Hồ Chí  Minh,  1993, tr.115, 116.</p>
     <p><a href="/BUIKHA/#_ftnref9" name="_ftn9">(9) </a>. Nguyễn Sinh Duy, <i>Cuốn sổ bình sinh của Trương Vĩnh Ký</i>,  Nxb Nam Sơn, Sài Gòn, tháng 3, 1975. </p>

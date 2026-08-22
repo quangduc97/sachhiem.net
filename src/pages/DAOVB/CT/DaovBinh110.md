@@ -3,7 +3,7 @@ layout: ../../../layouts/Article.astro
 title: "Nhật Ký Biển Đông: Lại Thêm Một Cuộc Chiến Với Ba Tư?"
 author: "Đào Văn Bình"
 date: 2018-05-01
-source: "https://sachhiem.net/DAOVB/CT/DaovBinh110.php"
+source: "/DAOVB/CT/DaovBinh110"
 category: "Chính trị"
 lang: vi
 wordCount: 6639

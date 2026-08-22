@@ -1,7 +1,7 @@
 ---
 layout: ../../../layouts/Article.astro
 title: "Vụ Công Giáo Đòi Đất"
-source: "https://sachhiem.net/null"
+source: "/null"
 lang: vi
 wordCount: 843
 ---

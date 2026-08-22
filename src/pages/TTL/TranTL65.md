@@ -3,7 +3,7 @@ layout: ../../layouts/Article.astro
 title: "Lý Tưởng Phục Vụ Hay Công Cụ Của Ngoại Bang?"
 author: "Trần Tiên Long"
 date: 2015-04-19
-source: "https://sachhiem.net/TTL/TranTL65.php"
+source: "/TTL/TranTL65"
 category: "Lịch sử"
 lang: vi
 wordCount: 1932
@@ -51,6 +51,6 @@ Nhưng  vấn đề ở đây là chúng ta phục vụ vì họ là những ng�
     <p>Tin liên quan: <a href="https://bacaytruc.com/index.php?option=com_content&amp;view=article&amp;id=5563:dcct-co-con-s-v-vi-ngi-ngheo&amp;catid=34:din-an-c-gi&amp;Itemid=53">DCCT CÓ CÒN SỨ VỤ VÌ NGƯỜI NGHÈO?</a> </p>
     <p>Bài đọc thêm: </p>
  <hr>
-<p><a href="https://sachhiem.net/TTL/List.inc.php">Các bài của Trần Tiên Long » </a></p>
+<p><a href="/TTL/List.inc">Các bài của Trần Tiên Long » </a></p>
 
 <hr>

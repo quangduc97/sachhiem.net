@@ -3,7 +3,7 @@ layout: ../../../layouts/Article.astro
 title: "Thế Giới Hậu Hoa Kỳ - Phỏng theo"
 author: "Mark Steyn / Amazon"
 date: 2016-07-14
-source: "https://www.sachhiem.net/"
+source: "/"
 category: "Chính trị"
 lang: vi
 wordCount: 905

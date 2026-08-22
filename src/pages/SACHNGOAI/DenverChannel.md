@@ -2,7 +2,7 @@
 layout: ../../layouts/Article.astro
 title: "Atheist Billboards To Debut During Holidays"
 author: "Denver News"
-source: "https://sachhiem.net/nguồn https://www.thedenverchannel.com/news/17977308/detail.html"
+source: "/nguồn https://www.thedenverchannel.com/news/17977308/detail.html"
 lang: en
 wordCount: 607
 image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nhacu.jpg"
@@ -26,7 +26,7 @@ image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nhacu.jpg"
 <tr> <td width="100%"> 
 
 <table border="0" cellpadding="10" width="100%">
-<tbody><tr><td><a href="https://sachhiem.net/"><img border="0" src="https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nhacu.jpg" width="49" height="20"></a></td>
+<tbody><tr><td><a href="/"><img border="0" src="https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nhacu.jpg" width="49" height="20"></a></td>
 
 <td valign="top" style="text-align:right">	<font size="2">16 tháng 11, 2008</font>	
 </td></tr></tbody></table>

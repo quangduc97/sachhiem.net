@@ -3,7 +3,7 @@ layout: ../../layouts/Article.astro
 title: "TNCG Không Đánh Mà Khai, Tội Xây Nhà Thờ Trong Nạn Đói"
 author: "Lý Thái Xuân"
 date: 2021-08-19
-source: "https://sachhiem.net/LTX/LyThaiTG31.php"
+source: "/LTX/LyThaiTG31"
 category: "Tác giả"
 lang: vi
 wordCount: 5824
@@ -77,7 +77,7 @@ image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/LICHSU/IMG/SACH/Tacg
 <p><b>Chú thích</b>:</p>
 <p><a name="Trantamtinh" href="/LTX/#1">(1)</a> Trần Tam Tỉnh, <i>Thập Giá Và Lưỡi Gươm</i> (TP Hồ Chí Minh: Nhà Xuất Bản Trẻ, 1978), tr. 76-77-78</p>
 <p><a href="/LTX/#_ednref2" name="_edn2" id="_edn2">(2)</a> Ngô Văn,&nbsp;<i>Việt Nam 1920-1945 - Cách Mạng Và Phản Cách Mạng Thời Đô Hộ Thuộc Địa&nbsp;</i>(Amarillo, TX (Hải Mã, 2000), phần Chú thích số 119 của Chương XIV tr. 399. <b>Chú ý:</b> Không biết vì nguyên nhân nào, bản điện tử chép trên web <a href="https://vnthuquan.net/truyen/truyen.aspx?tid=2qtqv3m3237nvn3nnn0n0n31n343tq83a3q3m3237nvn&amp;AspxAutoDetectCookieSupport=1#phandau"> vnthuquan.net/</a> đã cắt bỏ chú thích này và các chú thích tiếp theo (119-124)</p>
-<p><a href="/LTX/#_ednref3" name="_edn3">&nbsp;(3) </a> Xem "<a href="https://sachhiem.net/NMQ/NMQ112.php"><i>Nguyên Nhân Thực Sự Của Nạn Đói Năm 1945</i></a>" đăng trên trang nhà, tác giả Nguyễn Mạnh Quang.</p>
+<p><a href="/LTX/#_ednref3" name="_edn3">&nbsp;(3) </a> Xem "<a href="/NMQ/NMQ112"><i>Nguyên Nhân Thực Sự Của Nạn Đói Năm 1945</i></a>" đăng trên trang nhà, tác giả Nguyễn Mạnh Quang.</p>
 <p>___________________</p>
 <p class="TuaDoLeft">BÌNH LUẬN </p>
 <p>Nhận xét dưới status về bài viết XÂY NHÀ THỜ VÀ NẠN ĐÓI…. của trang Thanh Niên Công Giáo và những trang chia sẻ.</p>

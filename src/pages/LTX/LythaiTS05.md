@@ -2,7 +2,7 @@
 layout: ../../layouts/Article.astro
 title: "Mốc Thời Gian của"
 author: "Lý Thái sưu tầm"
-source: "https://sachhiem.net/LTX/LyThaiTS05.php"
+source: "/LTX/LyThaiTS05"
 category: "Chính trị"
 lang: vi
 wordCount: 2993

@@ -3,7 +3,7 @@ layout: ../../../layouts/Article.astro
 title: "Bản Tường Trình Thầy Thích Chân Quang Lạm Dụng Tình Dục - 1"
 author: "BBT Thư Viện Hoa Sen"
 date: 2025-10-14
-source: "https://sachhiem.net/TONGIAO/tgTH/Thuvienhs_03.php"
+source: "/TONGIAO/tgTH/Thuvienhs_03"
 category: "Tác giả"
 lang: vi
 wordCount: 366
@@ -43,4 +43,4 @@ image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/TONGIAO/IMG/SU/THCHA
 <p class="TacgiaL">BBT </p>
  <p class="nguonL">Nguồn <a href="https://thuvienhoasen.org/p83a41305/ban-tuong-trinh-thay-thich-chan-quang-lam-dung-tinh-duc">Thư Viện Hoa Sen</a> ngày 12/06/2024</p>
  <p>______________</p>
- <p>SH: Bài trên đây chỉ là 1 tường trình. Sau này các bạn của kênh Trần Ly Official còn nhận được thêm 9 hồ sơ khác từ tay các nạn nhân đang trú ở Tóc Tiên. Xin xem tiếp ở <i>"<a href="https://sachhiem.net/TONGIAO/tgS/SH102.php">Các Bản Tường Trình Của Nạn Nhân Bị Thầy Thích Chân Quang Lạm Dụng</a>"</i></p>
+ <p>SH: Bài trên đây chỉ là 1 tường trình. Sau này các bạn của kênh Trần Ly Official còn nhận được thêm 9 hồ sơ khác từ tay các nạn nhân đang trú ở Tóc Tiên. Xin xem tiếp ở <i>"<a href="/TONGIAO/tgS/SH102">Các Bản Tường Trình Của Nạn Nhân Bị Thầy Thích Chân Quang Lạm Dụng</a>"</i></p>

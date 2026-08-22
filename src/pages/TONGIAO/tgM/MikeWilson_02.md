@@ -3,7 +3,7 @@ layout: ../../../layouts/Article.astro
 title: "Catholicism Không Đủ Rộng, Không Đủ Sâu, Không Đủ Cao"
 author: "Mike Wilson"
 date: 2016-04-13
-source: "https://sachhiem.net/TONGIAO/tgM/MikeWilson_02.php"
+source: "/TONGIAO/tgM/MikeWilson_02"
 category: "Tác giả"
 lang: vi
 wordCount: 787

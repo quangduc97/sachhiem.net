@@ -3,7 +3,7 @@ layout: ../../../layouts/Article.astro
 title: "Nhận Thức Lịch Sử Cần Được Khẳng Định Về Linh Mục Dòng Tên Alexandre De Rhodes"
 author: "GS Lê Cung"
 date: 2020-08-08
-source: "https://sachhiem.net/LICHSU/L/LeCung03.php"
+source: "/LICHSU/L/LeCung03"
 category: "Chính trị"
 lang: vi
 wordCount: 5057
@@ -91,4 +91,4 @@ ____________
  <p class="nguonL"> Nguồn:&nbsp;<a href="https://honvietquochoc.com.vn/bai-viet/6321-hv150-nhn-thc-lch-s-cn-c-khng-nh-v-linh-mc-dng-tn-alexandre-de-rhodes.aspx" target="_blank" rel="noopener noreferrer">Hồn Việt Quốc Học</a>, tác giả gửi </p>
  ___________
  <p><b>Phụ đính:</b></p>
- <p><a href="https://sachhiem.net/LICHSU/L/LeCung03A.php">- Mưu Đồ Chính Trị Của Alexandre De Rhodes và Vấn Đề Chữ Quốc Ngữ (Hoàng Văn Lân &amp; Đặng Huy Vận) </a></p>
+ <p><a href="/LICHSU/L/LeCung03A">- Mưu Đồ Chính Trị Của Alexandre De Rhodes và Vấn Đề Chữ Quốc Ngữ (Hoàng Văn Lân &amp; Đặng Huy Vận) </a></p>

@@ -3,7 +3,7 @@ layout: ../../../layouts/Article.astro
 title: "Nhà Nước Hồi Giáo Từ Đâu Mà Có?"
 author: "GGTienLang"
 date: 2014-09-28
-source: "https://sachhiem.net/THOISU_CT/ChuG/GGtienlang04_Meo.php"
+source: "/THOISU_CT/ChuG/GGtienlang04_Meo"
 category: "Chính trị"
 lang: vi
 wordCount: 2100

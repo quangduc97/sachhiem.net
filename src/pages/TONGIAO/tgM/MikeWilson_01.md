@@ -3,7 +3,7 @@ layout: ../../../layouts/Article.astro
 title: "Để Lèo Lái Sang Mục Đích Chính Trị"
 author: "Mike Wilson"
 date: 2016-03-27
-source: "https://sachhiem.net/TONGIAO/tgM/MikeWilson_01.php"
+source: "/TONGIAO/tgM/MikeWilson_01"
 category: "Tác giả"
 lang: vi
 wordCount: 1175

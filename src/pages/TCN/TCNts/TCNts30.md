@@ -2,16 +2,16 @@
 layout: ../../../layouts/Article.astro
 title: "“Religulous”"
 author: "Trần Chung Ngọc"
-source: "https://sachhiem.net/TCN/TCNts/TCNts30.php"
+source: "/TCN/TCNts/TCNts30"
 lang: en
 wordCount: 1566
-image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nha.jpg"
+image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/Pict/LarryCharlesandBillMaher.jpg"
 ---
 
 <p class="Tuaduoi">ĐIỂM PHIM CUỐI TUẦN</p>
 
   
- <p align="center"><a href="/index"><img hspace="20" border="0" src="https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nha.jpg"></a> ngày 04 tháng 10, 2008</p>
+ <p align="center"> ngày 04 tháng 10, 2008</p>
  
 	
 	

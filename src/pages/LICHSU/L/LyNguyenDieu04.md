@@ -3,7 +3,7 @@ layout: ../../../layouts/Article.astro
 title: "Viễn Chinh Trên Đất Xiêm"
 author: "Jean-Christophe Servant"
 date: 2015-02-08
-source: "https://sachhiem.net/LICHSU/L/LyNguyenDieu04.php"
+source: "/LICHSU/L/LyNguyenDieu04"
 category: "Lịch sử"
 lang: vi
 wordCount: 4348

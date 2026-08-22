@@ -2,15 +2,15 @@
 layout: ../../layouts/Article.astro
 title: "Tổng Bí Thư Lê Duẩn Với Chân Lý"
 author: "Nguyễn Hoàn"
-source: "https://sachhiem.net/NGHOAN/NgHoanLS2.php"
+source: "/NGHOAN/NgHoanLS2"
 category: "Lịch sử"
 lang: vi
 wordCount: 8865
-image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nha.jpg"
+image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/LICHSU/IMG/LeDuan/LeDuan1.jpg"
 ---
 
 <table border="0" cellpadding="1" align="center" width="250">
-        <tbody><tr><td width="100"><a href="/index"><img border="0" src="https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nha.jpg"></a></td>
+        <tbody><tr><td width="100"></td>
 		<td valign="top" width="194">06 tháng 6, 2009
 	</td></tr>
 </tbody></table>

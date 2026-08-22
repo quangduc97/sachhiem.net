@@ -2,9 +2,9 @@
 layout: ../../../layouts/Article.astro
 title: "GIÁO HỘI LA MÃ: LỊCH SỬ VÀ HỒ SƠ TỘI ÁC"
 author: "Nguyễn Mạnh Quang"
-source: "https://sachhiem.net/tháng 10, 2019"
+source: "/tháng 10, 2019"
 lang: vi
-wordCount: 2533
+wordCount: 2530
 image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/NMQ/HOSOTOIAC/1987_1.jpg"
 ---
 
@@ -270,5 +270,3 @@ image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/NMQ/HOSOTOIAC/1987_1
     
     <div align="center">
   <img src="https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/SACH/GiaoTrieuLM.JPG" width="161" height="121" alt=""></div>
- 
-<p align="center"><a href="/index"><img src="https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nha.jpg" border="0"> Trở ra  sachhiem.net</a></p>

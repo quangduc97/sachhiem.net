@@ -2,7 +2,7 @@
 layout: ../../layouts/Article.astro
 title: "PHẬT GIÁO VÀ CA TÔ GIÁO (*1)"
 author: "Erik Zurcher- (Đỗ Thuận Khiêm chuyển ngữ)"
-source: "https://sachhiem.net/null"
+source: "/null"
 lang: vi
 wordCount: 11704
 image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/SACHNGOAI/file:///C:/SACHHIEM/images/mail.gif"

@@ -3,7 +3,7 @@ layout: ../../../layouts/Article.astro
 title: "Luật \"Stop The Woke Act\" của Ron DeSantis Vi Phạm Quyền Tự Do Ngôn Luận"
 author: "Mike Wilson"
 date: 2022-12-07
-source: "https://sachhiem.net/SACHNGOAI/M/MikeWilson_10.php"
+source: "/SACHNGOAI/M/MikeWilson_10"
 category: "Chính trị"
 lang: vi
 wordCount: 325

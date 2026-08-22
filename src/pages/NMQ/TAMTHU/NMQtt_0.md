@@ -2,17 +2,17 @@
 layout: ../../../layouts/Article.astro
 title: "Tâm Thư Gửi Nhà Nước Việt Nam"
 author: "Nguyễn Mạnh Quang"
-source: "https://sachhiem.net/NMQ/TAMTHU/NMQtt_0.php"
+source: "/NMQ/TAMTHU/NMQtt_0"
 lang: vi
 wordCount: 1229
-image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nha.jpg"
+image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/print.gif"
 ---
 
-<p align="center"><a href="https://www.sachhiem.net/"> <img border="0" src="https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nha.jpg"></a> | 
-<a target="_blank" href="https://sachhiem.net/NMQ/TAMTHU/NMQtt_0.php">
+<p align="center"> | 
+<a target="_blank" href="/NMQ/TAMTHU/NMQtt_0">
 <img border="0" src="https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/print.gif" width="18" height="18"> 
  bản in </a> | 
-	<a target="_blank" href="https://sachhiem.net/NMQ/TAMTHU/NMQtt_Main.php"><b><font face="Symbol" size="5"> ¿ </font></b> trở ra mục lục</a>
+	<a target="_blank" href="/NMQ/TAMTHU/NMQtt_Main"><b><font face="Symbol" size="5"> ¿ </font></b> trở ra mục lục</a>
  | 29 tháng 3, 2009</p>
  
 
@@ -125,7 +125,7 @@ cũng nhìn thấy rõ vấn nạn Vatican trầm trọng đến mức nào.</p>
 
 
 			
-<p><a target="_blank" href="https://sachhiem.net/NMQ/TAMTHU/NMQtt_01a.php">xem tiếp: Nội Dung <img border="0" src="https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/Next3.gif" width="15" height="6"></a></p>
+<p><a target="_blank" href="/NMQ/TAMTHU/NMQtt_01a">xem tiếp: Nội Dung <img border="0" src="https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/Next3.gif" width="15" height="6"></a></p>
 
 
 <hr>
@@ -143,7 +143,7 @@ cũng nhìn thấy rõ vấn nạn Vatican trầm trọng đến mức nào.</p>
 <p><a href="/HOANGNN/Hoang00">Nhân Chuyến Công Du Mỹ... (Hoàng Nguyên Nhuận)</a></p>
 <p><a href="/EMAILS/emailT/TranCongLy2">Quanh vụ Vatican viếng thăm (Trần Công Lý) </a></p>
 <p><a href="/EMAILS/emailT/Thienly5">Thế Giới Email: Xầm Xì Về Trần Chung Ngọc (Thiên Lý)</a></p>
-<p><a target="_blank" href="https://sachhiem.net/NMQ/TAMTHU/NMQtt_0.php">TT: Thư Gửi Nhà Nước Việt Nam (Nguyễn Mạnh Quang)</a></p>
+<p><a target="_blank" href="/NMQ/TAMTHU/NMQtt_0">TT: Thư Gửi Nhà Nước Việt Nam (Nguyễn Mạnh Quang)</a></p>
 <p><a href="/CHARLIE/CN_TCCG/VNcanthuchien">Việt Nam Cần Thưc Hiện Những Biện Pháp Mạnh.. (Charlie Nguyễn)</a></p>
 <p><a href="/TCNts/TCNts34">Vài Ý Kiến Về Vấn Đề Bang Giao Với Vatican (Trần Chung Ngọc)</a></p>
 <p><a href="/EMAILS/emailV/VuongVu5">Vài Ý Kiến Với GH Công Giáo La Mã và VN (Vương Vũ)</a></p>

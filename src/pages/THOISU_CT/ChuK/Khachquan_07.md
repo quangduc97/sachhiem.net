@@ -3,7 +3,7 @@ layout: ../../../layouts/Article.astro
 title: "Giá trị nhân quyền ở Việt Nam và mấy ông \"trí thức\""
 author: "Trần Khách Quan"
 date: 2017-01-27
-source: "https://sachhiem.net/THOISU_CT/ChuK/Khachquan_07.php"
+source: "/THOISU_CT/ChuK/Khachquan_07"
 category: "Chính trị"
 lang: vi
 wordCount: 2465

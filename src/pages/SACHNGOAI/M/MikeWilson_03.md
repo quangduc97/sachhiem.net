@@ -3,7 +3,7 @@ layout: ../../../layouts/Article.astro
 title: "Bị đánh tơi tả trên CNN, Dân biểu Cawthorn phải thú nhận không có bằng chứng gian lận bầu cử"
 author: "Mary Papenfuss/ HuffPost"
 date: 2021-01-26
-source: "https://sachhiem.net/SACHNGOAI/M/MikeWilson_03.php"
+source: "/SACHNGOAI/M/MikeWilson_03"
 category: "Chính trị"
 lang: vi
 wordCount: 3184

@@ -3,7 +3,7 @@ layout: ../../../layouts/Article.astro
 title: "Học Khôn Xứ Người"
 author: "Đào Văn Bình"
 date: 2023-02-06
-source: "https://sachhiem.net/DAOVB/VH/DaovBinh_hockhon.php"
+source: "/DAOVB/VH/DaovBinh_hockhon"
 category: "Văn hóa"
 lang: vi
 wordCount: 388

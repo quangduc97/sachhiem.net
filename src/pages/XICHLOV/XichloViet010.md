@@ -7,12 +7,11 @@ source: "https://xichloviet.wordpress.com/2012/05/10/ai-buc-tu-co-vang/"
 category: "Chính trị"
 lang: vi
 wordCount: 3602
-image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nha.jpg"
+image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/LICHSU/IMG/VNwar/Kissinger_LedTho_hoadamBale1973.jpg"
 ---
 
 <table border="0" align="center" cellpadding="1" width="250"><tbody><tr>
-	<td width="234"><a href="https://www.sachhiem.net/">
-	<img border="0" src="https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nha.jpg"></a></td>
+	<td width="234"></td>
 <td valign="top" width="356">	</td></tr></tbody></table>
   <p><i>LTS: Theo đúng nghĩa, tất cả các quân nhân chết vì phục vụ chiến đấu
       chống giặc ngoại xâm bảo vệ lãnh thổ mình đều được xem là "vị quốc vong

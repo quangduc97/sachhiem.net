@@ -3,7 +3,7 @@ layout: ../../layouts/Article.astro
 title: "Ba Tàu Tự Sự"
 author: "Arjen Nguyen"
 date: 2015-02-24
-source: "https://sachhiem.net/VANHOC/ArjenNguyen.php"
+source: "/VANHOC/ArjenNguyen"
 category: "Chính trị"
 lang: vi
 wordCount: 4002
@@ -98,5 +98,5 @@ Họ chưa bao giờ là một thế lực, chưa bao giờ là một tổ chứ
   <p class="TacgiaL">Arjen Nguyen </p>
   
   <p class="nguonL">Nguồn</p>
-  <p class="nguonL">- <a href="https://sachhiem.net/XICHLOV/XichloViet08.php">https://sachhiem.net/XICHLOV/XichloViet08.php</a> 07 tháng 4, 2012</p>
+  <p class="nguonL">- <a href="/XICHLOV/XichloViet08">https://sachhiem.net/XICHLOV/XichloViet08.php</a> 07 tháng 4, 2012</p>
   <p class="nguonL">-  <a href="https://www.aihuubienhoa.com/a2502/ba-tau-tu-su-arjen-nguyen">https://www.aihuubienhoa.com/a2502/ba-tau-tu-su-arjen-nguyen</a> 09 Tháng Chín 2012</p>

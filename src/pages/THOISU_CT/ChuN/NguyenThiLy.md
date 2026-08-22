@@ -3,7 +3,7 @@ layout: ../../../layouts/Article.astro
 title: "Nhìn Lại Một Năm Phá Hoại Của Linh Mục Cực Đoan Tại Giáo Phận Vinh"
 author: "FB Nguyễn Thị Lý"
 date: 2018-01-30
-source: "https://sachhiem.net/THOISU_CT/ChuN/NguyenThiLy.php"
+source: "/THOISU_CT/ChuN/NguyenThiLy"
 category: "Chính trị"
 lang: vi
 wordCount: 4146

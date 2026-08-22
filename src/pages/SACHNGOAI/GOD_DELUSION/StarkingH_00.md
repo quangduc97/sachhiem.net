@@ -3,7 +3,7 @@ layout: ../../../layouts/Article.astro
 title: "Ảo Tưởng Về God"
 author: "Richard Dawkins / Huỳnh Văn Hoàng dịch"
 date: 2015-08-09
-source: "https://sachhiem.net/SACHNGOAI/GOD_DELUSION/StarkingH_00.php"
+source: "/SACHNGOAI/GOD_DELUSION/StarkingH_00"
 category: "Sách ngoại văn"
 lang: vi
 wordCount: 3832
@@ -77,5 +77,5 @@ image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/SACHNGOAI/Hinhanh/BI
 <p>   Một trong những chiêu trò miễn dịch hiệu quả nhất  chính là cảnh báo hoặc cấm người ta đọc những quyển sách có nội dung như quyển  sách này , cho rằng đó là “<i>Việc làm của ma quỷ (Satan)</i>” . Tuy vậy tôi vẫn có  lòng tin rằng bên ngoài cũng còn có rất nhiều người với đầu óc cởi mở hơn – những  người tuy bị nhồi sọ từ nhỏ nhưng không quá bị nhiễm,&nbsp; có sự thông minh bẩm sinh đủ tốt để vượt qua  sự nhồi sọ, hoặc là một lý do nào khác mà không bị đầu độc. &nbsp;Những tinh thần tự do như  vậy chỉ cần một xíu khích lệ là đủ để phá vỡ sự ràng buộc, thoát khỏi cái &nbsp;niềng kim cô của tôn giáo. </p>
 <p>   Còn không, ít nhất thì tôi hy vọng  rằng những người đã đọc quyển sách này xong, không có ai còn nói câu: “<i>Tôi  không biết tôi đã có thể</i>”.</p>
 <p>   Tôi gửi lời cảm ơn những người đã giúp  đỡ trong việc biên soạn quyển sách này (người dịch xin lượt bỏ phần này , để  người đọc đỡ mất thời gian , nếu bạn đọc nào muốn đọc thêm có thể tìm đọc trong  bản gốc ).</p>
-  <p class="TacgiaL">(Kỳ tới: <a href="https://sachhiem.net/SACHNGOAI/GOD_DELUSION/StarkingH_01.php">Chương 1</a>) </p>
+  <p class="TacgiaL">(Kỳ tới: <a href="/SACHNGOAI/GOD_DELUSION/StarkingH_01">Chương 1</a>) </p>
   <p><a href="https://www.facebook.com/sachhiem.net.us/photos/a.104530316550274.1073741826.104528756550430/147337998936172/?type=1&amp;theater">Bạn đọc có thể viết nhận xét trên Facebook </a></p>

@@ -3,7 +3,7 @@ layout: ../../../layouts/Article.astro
 title: "Scandal Năm 2009 Ở Chùa Phật Quang:"
 author: "Ngô Quang Hiến"
 date: 2026-02-08
-source: "https://sachhiem.net/TONGIAO/ThichCQ/ThChanQuang01.php"
+source: "/TONGIAO/ThichCQ/ThChanQuang01"
 category: "Tác giả"
 lang: vi
 wordCount: 118

@@ -3,7 +3,7 @@ layout: ../../../layouts/Article.astro
 title: "Làm Chưởng Môn Thì Không Giải Thoát"
 author: "Đồng Trần Tử"
 date: 2024-09-20
-source: "https://sachhiem.net/TONGIAO/FB/FBDongTranTu08.php"
+source: "/TONGIAO/FB/FBDongTranTu08"
 category: "Tác giả"
 lang: vi
 wordCount: 1876

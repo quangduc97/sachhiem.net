@@ -3,7 +3,7 @@ layout: ../../layouts/Article.astro
 title: "Vatican: Yếu Hay Mạnh?"
 author: "Thịnh Duy"
 date: 2016-07-09
-source: "https://sachhiem.net/DOITHOAI/ThinhDuy.php"
+source: "/DOITHOAI/ThinhDuy"
 category: "Đối thoại"
 lang: vi
 wordCount: 907
@@ -37,7 +37,7 @@ Nếu tôi cho rằng ông cản trở việc làm của người ta thì đúng
 <p>Nhưng tôi đã chứng minh cho ông hiểu:</p>
 <p>1- Đem chuyện một góc trời, kết luận chung cho thế giới, là hàm hồ. </p>
 <p>2- Không tìm hiểu lịch sử và thói quen của một con Các kè: Cừu Cáo Cọp mà vội  cho là "yếu" cũng là hàm hồ. </p>
-<p>3- Ông cũng nên biết rằng, Vatican là một núi vàng, không có ai có khả năng  thống kê tài chính cho họ. Xin đọc <b><i>Giáo Hội Thiên Chúa Giáo Giàu Tới Mức Nào? Khó Ai Biết Được</i></b><i> Emily Stewart/ Thestreet.com</i> <a href="https://sachhiem.net/SACHNGOAI/SH/SH0_Vatican_giau.php">https://sachhiem.net/SACHNGOAI/SH/SH0_Vatican_giau.php</a>.  </p>
+<p>3- Ông cũng nên biết rằng, Vatican là một núi vàng, không có ai có khả năng  thống kê tài chính cho họ. Xin đọc <b><i>Giáo Hội Thiên Chúa Giáo Giàu Tới Mức Nào? Khó Ai Biết Được</i></b><i> Emily Stewart/ Thestreet.com</i> <a href="/SACHNGOAI/SH/SH0_Vatican_giau">https://sachhiem.net/SACHNGOAI/SH/SH0_Vatican_giau.php</a>.  </p>
 <p align="center"><img src="https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/TONGIAO/IMG/VATICAN/Nazigold[1].JPG" width="350" height="233" alt=""></p>
 <p>Tiền bạc như thế, họ trở mình lúc nào chả được. Họ đâu cần giáo dân ở bên Pháp, hay bên Âu Châu. Họ chỉ  cần giáo dân Việt Nam thôi. Nhà thờ bên Pháp đóng cửa, nhưng họ tiếp tục cất  chủng viện ở Việt Nam. Đó mới là vấn đề?</p>
 <p align="center"><img src="https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/TONGIAO/IMG/CHURCH/NYC_churchclsd.jpg" width="288" height="188" alt=""> <img src="https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/TONGIAO/IMG/CHURCH/Daichungvien_gpVinh_2013.jpg" width="350" height="208" alt=""></p>
@@ -64,7 +64,7 @@ Phât Tu qua khich , Catô qua khich .</p>
 <p>2 nguoi da den Gandhi và Luther King duoc coi nhu Thàn Thanh .</p>
 <p>Vatican rât yêu và không con quyền hành gi .</p>
 <p class="TacgiaL">BS DVA</p>
-<p><a href="https://sachhiem.net/TONGIAO/tgV/Vatican_facts.php">[Xem link đính kèm của BS DVA]</a></p>
+<p><a href="/TONGIAO/tgV/Vatican_facts">[Xem link đính kèm của BS DVA]</a></p>
     
  <div align="center">
    <div class="fb-share-button" data-layout="button" data-size="large" data-actiob="like" data-show-faces="true" data-share="true" data-mobile-iframe="true"></div>

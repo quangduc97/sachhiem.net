@@ -3,7 +3,7 @@ layout: ../../layouts/Article.astro
 title: "ĐÔI LỜI TÂM SỰ - KÍNH GỬI QUÝ VỊ TU SĨ PHẬT GIÁO"
 author: "Nguyễn Mạnh Quang"
 date: 2018-06-27
-source: "https://sachhiem.net/NMQ/NMQ98.php"
+source: "/NMQ/NMQ98"
 category: "Lịch sử"
 lang: vi
 wordCount: 1851
@@ -40,7 +40,7 @@ image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/THOISU_CT/Hinh/TRUNG
    <p><b>Những hành động diệt chủng</b> của Giáo Hội La Mã  và các cường quốc đồng minh của họ được thể hiện ra qua những hành động như:</p>
    <p>1.-/ Chủ trương  tàn sát tất cả những lương dân không phải là tín đồ Ki-tô trong Kế Hoạcj Puginier (Cao Huy Thuần, Giáo Sĩ Thừa Sai Và Chính Sách Thuộc Địa Của Pháp Tại Việt Nam 1857-1914 ( Paris: Công Ty TNHH Sách Phương Nam, 2002, tr 301-317)  - như họ đã làm ở Châu  Phi, Châu Mỹ và ở Phi Luật Tân trong các thế kỷ 15, 16 và 17. </p>
    <p>2.-/ Giáo Hoàng Pius XII (1939-1958)  đồng mựu với Hồng Y Francis Spellman:</p>
-   <p class="sub">a.- Thuyết phục chính quyền Tổng Thống  Eisenhower sử dụng 6 trái bom nguyên tử để giải cứu&nbsp; khoảng 12 ngàn quân Liên quân Pháp – Vatican  đang bị vây khổn tại các cứ điểm Điện Biên Phủ trong mùa xuân năm 1954 (xin đọc  bài viết “Giáo Hoàng Pius XII (1939-1958) Dưới Mắt Một Người Dân Việt”(<a href="https://sachhiem.net/NMQ/NMQ46_Pius12.php">https://sachhiem.net/NMQ/NMQ46_Pius12.php</a>) của tác giả Nguyễn Mạnh Quang.</p>
+   <p class="sub">a.- Thuyết phục chính quyền Tổng Thống  Eisenhower sử dụng 6 trái bom nguyên tử để giải cứu&nbsp; khoảng 12 ngàn quân Liên quân Pháp – Vatican  đang bị vây khổn tại các cứ điểm Điện Biên Phủ trong mùa xuân năm 1954 (xin đọc  bài viết “Giáo Hoàng Pius XII (1939-1958) Dưới Mắt Một Người Dân Việt”(<a href="/NMQ/NMQ46_Pius12">https://sachhiem.net/NMQ/NMQ46_Pius12.php</a>) của tác giả Nguyễn Mạnh Quang.</p>
    <p class="sub">b.- Vận động chính quyền Hoa Kỳ đưa con chiên cuồng tín Ngô Đình  Diệm về Việt Nam cầm quyền làm tay sai cho cả Mỹ và Vatican. Hậu quả là tập thể  con chiên người Việt vốn dĩ đã có bản chất hung bạo, háo sát khát máu Linh-mục  Trần Tam Tỉnh gọi là "những tên sát nhân cuồng nhiệt bị biến thành  "Kiêu Dân Công Giáo Thời Ngô Đình Diệm"” (<a href="https://l.facebook.com/l.php?u=http%3A%2F%2Fsachhiem.net%2FLICHSU%2FTR%2FTranLam3.php&amp;h=AT1Ce3OJh4EWUA-Ahi9CD0xW89iOMh3GkaAlW3N9wohi2duPXO9GxBUr2OwHhQiztL2IW5duCUciCcvHby2m9HuIwSjGv9TGrv4MR6y-D91XfSCORJuinhg41NIlsaNPtShVUp4qeaTOMtL-1razLpXX2smPaTQSEZcww-ft" target="_blank">sachhiem.net/LICHSU/TR/TranLam3.php</a>), và đã tàn sát tới hơn  300 ngàn lương dân ở miền Nam trong những năm 1954-1973 (Nguyễn Mạnh Quang, Nói  Chuyện Với Tổ Chức Viên Nam Cộng Hòa Foundation (Houston, TX: Đa Nguyên, 2004,  tr. 127-131.)</p>
    <p>3.-/ Họ đã sử dụng số lượng bom đạn  khổng lồ (gần bằng 4 lần tổng số bom đạn mà các nước lâm chiến trong thời Đệ Nhị  Thế Chiến đã sử dụng) để tàn phá đất nước Việt Nam chúng ta. (Stanley I. Kutler (ed),  Encyclopedia of the Vietnam War (New York: Sinon &amp; Schuster McMillan,  1996). Tr. 591-592).</p>
    <p>4.-/ Họ đã sử dụng tới 77 triệu lít chất  độc da cam (một thứ vũ khí hóa học vô cùng độc hại) để hủy diệt tài nguyên, con  người và sinh lực của dân tộc ta.]Nguyễn  Văn Tuấn,<i>Chất Độc Màu Da Cam và Cuộc Chiến Việt Nam </i>(Garden Grove, CA:  Giao Điểm, 2005), tr. 35 và 171.</p>

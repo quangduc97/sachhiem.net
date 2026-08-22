@@ -1,7 +1,7 @@
 ---
 layout: ../../../layouts/Article.astro
 title: "Đặng Văn Nhâm và \"Giặc Thầy Chùa\""
-source: "https://sachhiem.net/nguồn: https://www.lebichson.org/Phatgiao/003GiacThayChua.htm"
+source: "/nguồn: https://www.lebichson.org/Phatgiao/003GiacThayChua.htm"
 lang: vi
 wordCount: 5148
 image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nhacu.jpg"
@@ -29,7 +29,7 @@ image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nhacu.jpg"
 	<table border="2" cellpadding="50" cellspacing="0" topmargin="10"> 
 	<tbody><tr><td bgcolor="White" align="justify" valign="top">
 			<table border="0" cellpadding="10" width="100%"><tbody><tr>
-			<td><a href="https://sachhiem.net/"><img border="0" src="https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nhacu.jpg"></a></td>
+			<td><a href="/"><img border="0" src="https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nhacu.jpg"></a></td>
 			<td valign="top" width="198"><a href="/THOISU_CT/#" onclick="location.href='https://sachhiem.net/BIA/sendafriend.php?url='+location.href;"><img src="https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/THOISU_CT/file:///C:/SACHHIEM/images/mail.gif" border="0"> 
 Gửi bài này cho bạn bè</a></td>
 			<td valign="top" style="text-align:right">đăng ngày 19 tháng 9, 2007

@@ -3,7 +3,7 @@ layout: ../../layouts/Article.astro
 title: "Tết Bính Thân nói chuyện Tôn Ngộ Không"
 author: "Lê Huy Trứ"
 date: 2016-02-08
-source: "https://sachhiem.net/VANHOC/LeHuyTru.php"
+source: "/VANHOC/LeHuyTru"
 category: "Chính trị"
 lang: vi
 wordCount: 2998

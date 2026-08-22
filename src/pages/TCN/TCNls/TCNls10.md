@@ -2,16 +2,16 @@
 layout: ../../../layouts/Article.astro
 title: "NHẬN ĐỊNH VỀ DVD “SỰ THẬT VỀ HỒ CHÍ MINH”"
 author: "Trần Chung Ngọc"
-source: "https://sachhiem.net/TCN/TCNls/TCNls10.php"
+source: "/TCN/TCNls/TCNls10"
 lang: vi
 wordCount: 18602
-image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nha.jpg"
+image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/TCN/TCNls/IMG/TCNls10_1.jpg"
 ---
 
 <p class="Tuaduoi">Của Linh mục Nguyễn Hữu Lễ &amp; Trần Quốc Bảo</p>
      
      
-     <p align="center"> <a href="/index"><img border="0" src="https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nha.jpg" align="middle" hspace="20"></a>23 tháng 8, 2009 </p>
+     <p align="center"> 23 tháng 8, 2009 </p>
      
      <p> <b><font face="Times New Roman" size="5">G</font></b>ần đây, đọc trên Internet, tôi đã biết là ở  hải ngoại mới tung ra một DVD về <i>“Sự Thật Về Hồ Chí Minh”</i>, “sản phẩm  trí tuệ” của linh mục Nguyễu Hữu Lễ và Trần Quốc Bảo. Nhìn vào bản thân của  linh mục Nguyễn Hữu Lễ, và danh sách những tài liệu tham khảo như của Cao  Thế Dung, Minh Võ, Trần Gia Phụng, Hoàng Văn Chí, Mark Moyar, Lê Hữu Mục  v…v… cùng những nhân vật được phỏng vấn để thực hiện DVD như Minh Võ, Nguyễn  Ngọc Bích, Bùi Diễm, Nguyễn Minh Cần, Vũ Ngự Chiêu, Vũ Thư Hiên, Dương Thu  Hương, Lê Hữu Mục, Tôn Thất Thiện, Trần Gia Phụng, Trần Ngọc Thành, Trần  Mạnh Hảo, Bùi Tín, LM Phan Văn Lợi v..v…, chúng ta có thể đoán được nội  dung và giá trị những “sự thật” này là như thế nào. Cho nên, tôi không mấy  quan tâm đến tài liệu này.</p>
      <p> Nhưng có người bạn vừa mới cho tôi một bản sao DVD trên, cho nên tôi  đã bỏ chút thì giờ xem trong đó có những gì. Xem xong tôi có thể nói ngay  đó là một tài liệu chống Cộng quen thuộc rất rẻ tiền, và nếu tôi có thể mượn  lời của Ulrich Rippert trong bài <i>“A political evaluation of Schwarzbuch  des Kommunismus” -- </i>[The Black Book of Communism], 15 July 1998, nhận  định về cuốn <i>“Le Livre Noir Du Communisme”</i> của Tổng Biên Tập Stéphane  Courtois như sau: <i><u>“Là một tác phẩm nghiên cứu nghiêm chỉnh về sử, cuốn  “Sách Bôi Nhọ…” hoàn toàn vô giá trị”<b>.</b></u> </i>[As a serious  historical work the “black book” is totally worthless], thì tôi cũng có thể  đưa ra một nhận định tổng quát về DVD <i>“Sự Thật Về Hồ Chí Minh”</i> : <i> <u>“Là một sản phẩm chống Hồ Chí Minh và chống CS, DVD “Sự Thật Về Hồ Chí  Minh” hoàn toàn vô giá trị</u>”</i> .</p>
@@ -111,7 +111,7 @@ image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nha.jpg"
      
      <p class="TuaChuong"><strong>Màn Kịch 9 của DVD  “Sự Thật Về Hồ Chí Minh”.</strong></p>
      
-     <p> DVD: Tết Mậu Thân dưới sự  lãnh đạo của Hồ Chí Minh [sic]. Lèm bèm chuyện cũ, nhưng đọc giả nào muốn  biết về sự thực về cuộc tàn sát người dân của CS trong cuộc tấn công Tết Mậu  Thân thì hãy nên tìm đọc bài nghiên cứu chi tiết “THE 1968 'HUE MASSACRE' “  của Tiến sĩ Gareth Porter trong "Indochina Chronicle" #33, June 24, 1974.  Quý vị sẽ thấy rằng những con số mà DVD đưa ra đều nằm trong những thủ đoạn  ngụy tạo, cố ý diễn giải sai tài liệu bắt được của MTGP, phóng đại con số  của Douglas Pike, nhân viên Phòng Thông Tin Hoa Kỳ, và của chính quyền miền  Nam. Quý vị trong DVD cũng nên đọc cuốn <i>“ The Political Economy of Human  Rights”</i> của Noam Chomsky và Edward S. Herman, Chương 5: <i>“Bloodbaths  in Indochina: Constructive, Nefarious and Mythical”</i>, đặc biệt là những  Mục 5.1.1: <i>French and Diemist Bloodbaths</i>; 5.1.2: <i>The Overall  Assault as the Primary Bloodbath</i>; 5.1.4: <i>The 43-Plus My Lais of the  South Korean Mercenaries</i>; 5.2.2: <i><u>Land Reform in the Mid-Fifties</u></i>;  5.2.3: <i><u>The Hue Masscre of 1968</u></i>. Bài <i><u>“The Hue Masscre  of 1968</u></i><u>”</u> đã được Lê Hồng Phong trích dịch ra tiếng Việt và  đăng, có kèm theo bản tiếng Anh, trên trang nhà nhandanvietnam: <a href="https://www.nhandanvietnam.org/view.php?storyid=545"> https://www.nhandanvietnam.org/view.php?storyid=545</a>, và được đăng lại  trên trang nhà sachhiem: <a href="https://sachhiem.net/SACHNGOAI/LeHongPhong.php"> https://sachhiem.net/SACHNGOAI/LeHongPhong.php</a></p>
+     <p> DVD: Tết Mậu Thân dưới sự  lãnh đạo của Hồ Chí Minh [sic]. Lèm bèm chuyện cũ, nhưng đọc giả nào muốn  biết về sự thực về cuộc tàn sát người dân của CS trong cuộc tấn công Tết Mậu  Thân thì hãy nên tìm đọc bài nghiên cứu chi tiết “THE 1968 'HUE MASSACRE' “  của Tiến sĩ Gareth Porter trong "Indochina Chronicle" #33, June 24, 1974.  Quý vị sẽ thấy rằng những con số mà DVD đưa ra đều nằm trong những thủ đoạn  ngụy tạo, cố ý diễn giải sai tài liệu bắt được của MTGP, phóng đại con số  của Douglas Pike, nhân viên Phòng Thông Tin Hoa Kỳ, và của chính quyền miền  Nam. Quý vị trong DVD cũng nên đọc cuốn <i>“ The Political Economy of Human  Rights”</i> của Noam Chomsky và Edward S. Herman, Chương 5: <i>“Bloodbaths  in Indochina: Constructive, Nefarious and Mythical”</i>, đặc biệt là những  Mục 5.1.1: <i>French and Diemist Bloodbaths</i>; 5.1.2: <i>The Overall  Assault as the Primary Bloodbath</i>; 5.1.4: <i>The 43-Plus My Lais of the  South Korean Mercenaries</i>; 5.2.2: <i><u>Land Reform in the Mid-Fifties</u></i>;  5.2.3: <i><u>The Hue Masscre of 1968</u></i>. Bài <i><u>“The Hue Masscre  of 1968</u></i><u>”</u> đã được Lê Hồng Phong trích dịch ra tiếng Việt và  đăng, có kèm theo bản tiếng Anh, trên trang nhà nhandanvietnam: <a href="https://www.nhandanvietnam.org/view.php?storyid=545"> https://www.nhandanvietnam.org/view.php?storyid=545</a>, và được đăng lại  trên trang nhà sachhiem: <a href="/SACHNGOAI/LeHongPhong"> https://sachhiem.net/SACHNGOAI/LeHongPhong.php</a></p>
      
      <p class="TuaChuong"><strong>Màn Kịch 10 của DVD  “Sự Thật Về Hồ Chí Minh” </strong></p>
      

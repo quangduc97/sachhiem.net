@@ -3,7 +3,7 @@ layout: ../../../layouts/Article.astro
 title: "Juneteenth là gì vậy?"
 author: "NJ/ SH sưu tầm"
 date: 2021-06-19
-source: "https://sachhiem.net/THOISU_CT/SH/SH23_Junteenth.php"
+source: "/THOISU_CT/SH/SH23_Junteenth"
 category: "Chính trị"
 lang: vi
 wordCount: 548

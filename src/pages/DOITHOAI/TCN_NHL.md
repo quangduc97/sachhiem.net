@@ -2,7 +2,7 @@
 layout: ../../layouts/Article.astro
 title: "TÔI ĐỌC NGUYỄN HỮU LIÊM & LÊ TUẤN HUY"
 author: "Trần Chung Ngọc"
-source: "https://sachhiem.net/null"
+source: "/null"
 category: "Đối thoại"
 lang: vi
 wordCount: 9842

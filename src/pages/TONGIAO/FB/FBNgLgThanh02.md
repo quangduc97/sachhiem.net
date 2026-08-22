@@ -3,7 +3,7 @@ layout: ../../../layouts/Article.astro
 title: "Các Giám Mục Mexico Đưa Ra 5 Mục Tiêu Hành Động Chống Lại Tình Trạng Lạm Dụng Tình Dục"
 author: "by David Agren/ Catholic News Service"
 date: 2019-03-14
-source: "https://sachhiem.net/TONGIAO/FB/FBNgLgThanh02.php"
+source: "/TONGIAO/FB/FBNgLgThanh02"
 category: "Chính trị"
 lang: vi
 wordCount: 1178

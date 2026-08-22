@@ -2,13 +2,12 @@
 layout: ../../../layouts/Article.astro
 title: "Công Giáo Huyền Thoại và Tội Ác"
 author: "Charlie Nguyễn"
-source: "https://sachhiem.net/CHARLIE/CN_CGHT/caikho.php"
+source: "/CHARLIE/CN_CGHT/caikho"
 lang: vi
 wordCount: 2661
-image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nha.jpg"
 ---
 
-<p align="center"><a href="/index"><img hspace="20" border="0" src="https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nha.jpg"></a><b><font face="Symbol" size="5"><a target="_top" href="/CHARLIE/CN_CGHT/CN_CGHTdir">¿</a></font></b> trở ra mục lục | 2007 </p>
+<p align="center"><b><font face="Symbol" size="5"><a target="_top" href="/CHARLIE/CN_CGHT/CN_CGHTdir">¿</a></font></b> trở ra mục lục | 2007 </p>
 <p class="TuaDoLeft"><b>CÁI KHỐ CỦA JESUS TRÊN THẬP GIÁ </b></p>
 <p><b><font face="Edwardian Script ITC" size="6">T</font></b>hập giá là một dụng cụ giết người hết sức dã man, thường 
 được các đế quốc cổ Hy Lạp và cổ La Mã sử dụng. 

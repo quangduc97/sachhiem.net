@@ -3,7 +3,7 @@ layout: ../../../layouts/Article.astro
 title: "\"Chúng Tôi Đã Phát Minh Ra Chúa Giê-Xu Cứu Thế\""
 author: "VORJACK/ T.L. dịch"
 date: 2022-02-06
-source: "https://sachhiem.net/THLOI/TG/ThienLoi014.php"
+source: "/THLOI/TG/ThienLoi014"
 category: "Tác giả"
 lang: vi
 wordCount: 4372

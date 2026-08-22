@@ -2,15 +2,15 @@
 layout: ../../../layouts/Article.astro
 title: "Tản Mạn Quanh Cuốn \"Linh Mục Trần Lục\""
 author: "Nguyễn Ngọc Quỳ"
-source: "https://sachhiem.net/LICHSU/N/NguyenNgocQuy.php"
+source: "/LICHSU/N/NguyenNgocQuy"
 category: "Lịch sử"
 lang: vi
 wordCount: 2529
-image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nha.jpg"
+image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/SACH/Tranluc.jpg"
 ---
 
 <table border="0" cellpadding="1" align="center" width="250">
-        <tbody><tr><td width="100"><a href="/index"><img border="0" src="https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nha.jpg"></a></td>
+        <tbody><tr><td width="100"></td>
     <td width="242">05 tháng 4, 2009</td></tr></tbody></table>
 
 <p class="PicLeft"><br><img src="https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/SACH/Tranluc.jpg" width="150" height="225"> </p>

@@ -3,7 +3,7 @@ layout: ../../../layouts/Article.astro
 title: "Phản Ứng Về Tin IS Tung Video Thiêu Sống Phi Công Người Jordan"
 author: "Trần Quốc Hoàn"
 date: 2015-02-05
-source: "https://sachhiem.net/THOISU_CT/ChuTr/TranQHoan.php"
+source: "/THOISU_CT/ChuTr/TranQHoan"
 category: "Tác giả"
 lang: vi
 wordCount: 1797
@@ -71,7 +71,7 @@ image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/THOISU_CT/Hinh/TRUNG
  <p>Vậy cái tàn ác của quân IS chưa <b>thể so với </b>cái vô nhân trong lịch sử dài hàng ngàn năm của hệ thống Ca-tô.</p>
  <p class="TacgiaL">Lý Đ. Nhiên</p>
  <p>[SH- có đăng trong mục Thư, Ý kiến ngắn:]</p>
- <p><a href="https://sachhiem.net/index.php?content=showemail&amp;id=868">https://sachhiem.net/index.php?content=showemail&amp;id=868</a></p>
+ <p><a href="/net/index">https://sachhiem.net/index.php?content=showemail&amp;id=868</a></p>
  
  <p><span class="green">2.</span> <i> From:</i> "Văn Ca" <i><br>
    To: </i>"sachhiem"<i><br>

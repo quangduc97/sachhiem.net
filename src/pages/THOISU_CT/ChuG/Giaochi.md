@@ -2,18 +2,18 @@
 layout: ../../../layouts/Article.astro
 title: "Trận Hoàng Sa"
 author: "Giao Chỉ, San Jose"
-source: "https://sachhiem.net/THOISU_CT/ChuG/Giaochi.php"
+source: "/THOISU_CT/ChuG/Giaochi"
 category: "Lịch sử"
 lang: vi
 wordCount: 4420
-image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nha.jpg"
+image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/LICHSU/IMG/TRANDANH/HaidotranchienHS_LVT.jpg"
 ---
 
 <p class="Tuaduoi">34 năm về trước</p> 
 
 
     
-     <p align="center"><a href="https://www.sachhiem.net/"> <img border="0" src="https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nha.jpg"></a>      21 tháng 1, 2008</p>
+     <p align="center">      21 tháng 1, 2008</p>
 	
 			<p><i>LTS: Bài viết sau đây được phổ biến rộng rãi trong các thư nhóm hải ngoại. Tuy không cùng nhận xét và mục đích của tác giả, Sách Hiếm đăng bài này để trình bày một dữ kiện duy nhất.  Đó là việc chứng minh rằng Trung Quốc đã chiếm đóng các hòn đảo ở Hoàng Sa bằng vũ lực từ trước năm 1974, lúc các quần đảo này còn trực thuộc chính quyền miền Nam, hay là Việt Nam Cộng Hòa. Những ý kiến 
 			hay phê phán về trình độ chỉ huy của Tổng Tư Lệnh Tối Cao, hay chiến thuật, chiến lược, ... xin nhường lại cho đọc giả và những người có kinh nghiệm 

@@ -3,7 +3,7 @@ layout: ../../../layouts/Article.astro
 title: "Nhật Ký Biển Đông: Thế Giới Nín Thở Chờ Đợi Ô. Trump"
 author: "Đào Văn Bình"
 date: 2016-11-30
-source: "https://sachhiem.net/DAOVB/CT/DaovBinh76.php"
+source: "/DAOVB/CT/DaovBinh76"
 category: "Chính trị"
 lang: vi
 wordCount: 5691

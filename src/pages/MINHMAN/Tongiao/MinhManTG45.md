@@ -2,10 +2,9 @@
 layout: ../../../layouts/Article.astro
 title: "Liêm Sĩ và Dũng Khí"
 author: "Minh Mẫn"
-source: "https://sachhiem.net/null"
+source: "/null"
 lang: vi
 wordCount: 3844
-image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nha.jpg"
 ---
 
 <div align="center" style="position: relative; left: 0; top: 0">
@@ -21,8 +20,7 @@ image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nha.jpg"
 <tr><td width="100%">
 <div style="padding-left: 50px; padding-right: 50px"> 
 	<table border="0" cellpadding="1" width="86%" cols="2"><tbody><tr>
-	<td><a href="https://www.sachhiem.net/">
-	<img border="0" src="https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nha.jpg"></a></td>
+	<td></td>
 <td valign="top" width="210"><p>22 tháng 10, 2009</p></td></tr></tbody></table>
 		<p><i>LTS: Nhằm mục đích thu thập những cái nhìn khác nhau của những người ở trong nước về những chuyện đau lòng xảy ra ở Bát Nhã , SH xin trình bày với đọc giả một bài viết đầy nghĩa khí. Được biết tác giả Minh Mẫn không phải là tiếng nói của người trong cuộc, do đó hy vọng đây là một trong những cảm xúc khách quan. Mặc dù chữ khách quan cũng rất tương đối, ý nghĩa khách quan sẽ bị giảm giá trị nếu đối tượng quan sát bị giới hạn vào một khung cảnh hay một thời điểm của thời gian. Nhưng ít ra, giữ được sự ngay thẳng không bè phái, không thiên vị, đã là một khía cạnh tích cực của chữ khách quan rồi. Sachhiem.net sưu tập những tiếng nói độc lập và những cái nhìn khác nhau  về vấn đề Bát Nhã trong khi chuẩn bị cho bài nghiên cứu </i><a href="/TCN/TCNts/TCNts046"> Vài Ý Kiến Xung Quanh Vụ Tu Viện Bát Nhã   của GS Trần Chung Ngọc.</a><i> (SH) </i> </p><hr>
 		<p><span class="First">K</span>hi học thuyết Khổng Mạnh đề cao đức tính Chính Nhân Quân tử, nhiều 
@@ -293,7 +291,7 @@ image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nha.jpg"
 
 <tr><td colspan="2"> 
 
-			<a href="https://sachhiem.net/MINHMAN/MMdir.php"><p class="trang">Trang Minh Mẫn</p></a>
+			<a href="/MINHMAN/MMdir"><p class="trang">Trang Minh Mẫn</p></a>
 
 </td></tr>
 

@@ -3,7 +3,7 @@ layout: ../../../layouts/Article.astro
 title: "Nhật Ký Biển Đông: Chính Trị Vương Đạo, Bá Đạo"
 author: "Đào Văn Bình"
 date: 2018-04-02
-source: "https://sachhiem.net/DAOVB/CT/DaovBinh107.php"
+source: "/DAOVB/CT/DaovBinh107"
 category: "Chính trị"
 lang: vi
 wordCount: 7664

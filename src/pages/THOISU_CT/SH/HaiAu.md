@@ -3,7 +3,7 @@ layout: ../../../layouts/Article.astro
 title: "Việt Nam, Cựu Đối Thủ Tìm Sự Giúp Đỡ Của Mỹ Để Đối Phó Với Trung Quốc"
 author: "Tom Vanden Brook/ USA Today"
 date: 2014-08-19
-source: "https://sachhiem.net/THOISU_CT/SH/HaiAu.php"
+source: "/THOISU_CT/SH/HaiAu"
 category: "Chính trị"
 lang: vi
 wordCount: 2281

@@ -3,7 +3,7 @@ layout: ../../layouts/Article.astro
 title: "Nhóm người gửi Bản Kiến Nghị không đặt tên đường hai giáo sĩ: “Chúng tôi bị khủng bố”"
 author: "Nhật Linh / Tuổi Trẻ"
 date: 2019-12-30
-source: "https://sachhiem.net/DOITHOAI/Rhodes2.php"
+source: "/DOITHOAI/Rhodes2"
 category: "Chính trị"
 lang: vi
 wordCount: 811
@@ -32,12 +32,12 @@ image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/LICHSU/IMG/ALEX/PGTN
  <p class="nguonL">Nguồn <a href="https://tuoitre.vn/nhom-nguoi-gui-kien-nghi-khong-dat-ten-duong-hai-giao-si-chung-toi-bi-khung-bo-20191130101436605.htm">https://tuoitre.vn/nhom...</a></p>
  <p>__________________</p>
  <p><b>Xem toàn văn Bản Kiến Nghị</b></p>
- <p><a href="https://www.sachhiem.net/DOITHOAI/Rhodes.php">https://sachhiem.net/DOITHOAI/Rhodes.php</a></p>
+ <p><a href="/DOITHOAI/Rhodes">https://sachhiem.net/DOITHOAI/Rhodes.php</a></p>
  <p>_________________</p>
  <p><b>Bài đọc thêm:</b></p>
  <p>- <a href="https://nld.com.vn/giao-duc-khoa-hoc/nhin-lai-100-nam-chu-quoc-ngu-qua-nhung-khao-cuu-quy-gia-20191221163005916.htm">Nhìn lại 100 năm chữ Quốc ngữ qua những khảo cứu quý giá.</a> Nguyễn Thuận 22-12-2019</p>
  <p>- <a href="https://vnexpress.net/thoi-su/can-ton-vinh-nguoi-viet-gop-cong-hinh-thanh-chu-quoc-ngu-4034412.html">Cần tôn vinh người Việt góp công hình thành chữ quốc ngữ. </a>- Nguyễn Đông, Chủ nhật, 29/12/2019</p>
  <p>- <a href="https://www.msn.com/vi-vn/entertainment/news/%C4%91%C3%A0-n%E1%BA%B5ng-s%E1%BA%BD-%C4%91%E1%BA%B7t-t%C3%AAn-%C4%91%C6%B0%E1%BB%9Dng-%C3%B4ng-t%E1%BB%95-ch%E1%BB%AF-qu%E1%BB%91c-ng%E1%BB%AF-khi-%C4%91i%E1%BB%81u-ki%E1%BB%87n-ch%C3%ADn-mu%E1%BB%93i/ar-BBYqJpF">Đà Nẵng sẽ đặt tên đường "ông tổ" chữ Quốc ngữ khi điều kiện chín muồi. </a> Hoàng Văn Minh 29/12/2019</p>
  <p>- <a href="https://cadn.com.vn/news/71_218461_100-nam-tri-an-ton-vinh-chu-quoc-ngu-.aspx">100 năm tri ân, tôn vinh chữ Quốc ngữ!</a> PHAN THỦY 1/1/2020</p>
- <p>-<a href="https://sachhiem.net/DOITHOAI/Rhodes2.php"> Nhóm người gửi kiến nghị không đặt tên đường hai giáo sĩ: "Chúng tôi bị khủng bố" </a></p>
- <p><a href="https://sachhiem.net/LICHSU/ListQUOCNGU.inc.php">- Những bài viết liên quan đến "Chữ Quốc Ngữ"</a></p>
+ <p>-<a href="/DOITHOAI/Rhodes2"> Nhóm người gửi kiến nghị không đặt tên đường hai giáo sĩ: "Chúng tôi bị khủng bố" </a></p>
+ <p><a href="/LICHSU/ListQUOCNGU.inc">- Những bài viết liên quan đến "Chữ Quốc Ngữ"</a></p>

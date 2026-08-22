@@ -3,7 +3,7 @@ layout: ../../../layouts/Article.astro
 title: "Nhật Ký Biển Đông: Truyền Thông và Bạo Lực"
 author: "Đào Văn Bình"
 date: 2018-10-23
-source: "https://sachhiem.net/DAOVB/CT/DaovBinh120.php"
+source: "/DAOVB/CT/DaovBinh120"
 category: "Chính trị"
 lang: vi
 wordCount: 3874

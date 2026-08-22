@@ -2,15 +2,14 @@
 layout: ../../../layouts/Article.astro
 title: "Hồi Ký của Kim Jin Sun"
 author: "Langtu Collectibles"
-source: "https://sachhiem.net/THOISU_CT/ChuK/KimJinSun5.php"
+source: "/THOISU_CT/ChuK/KimJinSun5"
 category: "Chính trị"
 lang: vi
 wordCount: 7384
-image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nha.jpg"
+image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/LICHSU/TONY/Tannhan/BitMat_BatBo_DanLang.jpg"
 ---
 
-<p align="center"><a href="https://www.sachhiem.net/">
-	<img border="0" src="https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nha.jpg"></a>29 tháng 7, 2010  </p>
+<p align="center">29 tháng 7, 2010  </p>
 <p><i>LTS: Những đoạn hồi ký của tướng Kim Jin Sun cũng nói lên tâm trạng giống những người lính Mỹ khi sang Việt Nam để bắn giết Việt Cộng.  Người ta không hiểu sao những người Việt chống Cộng ở hải ngoại chỉ nhớ ơn Mỹ, họ làm tượng song hành chiến đấu, còn "đồng minh" Đại Hàn, cũng để lại máu đỏ xương trắng trên đất Việt ta thì không được nhắc nhỡ. Các vong hồn binh sĩ Đại Hàn đã chết ở miền Nam nếu có linh thiêng xin trở về hỏi tội những nhóm người vong tình bạc nghĩa chỉ chạy theo kẻ giàu kẻ mạnh. Còn dân lành Việt Nam chúng tôi chỉ thấy hối tiếc cho những người trai đi viễn chinh không có chút lý tưởng nào trang bị trong ba lô mình. Những quân nhân Đại Hàn tham chiến ở Việt Nam là bằng chứng nói lên, cùng với hơn 58,627 bằng chứng khác (58 ngàn 627 tử sĩ Mỹ ở VN), để xác nhận rằng giai đoạn 1954 - 1975 ở Việt Nam không phải là cuộc nội chiến. Từ "nội chiến" chỉ để dành nói lên một xúc cảm trên bình diện dân tộc,riêng người Việt, những người theo giặc ngoại xâm chống lại những người mang khát vọng một Việt Nam thống nhất (SH)</i></p>
 <hr>
 

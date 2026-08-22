@@ -3,7 +3,7 @@ layout: ../../../layouts/Article.astro
 title: "Đừng Nhập Nhằng Mẹ Việt Nam Để Nói \"Mẹ Tôn Giáo\""
 author: "Bảy Đặng Ngô"
 date: 2022-05-05
-source: "https://sachhiem.net/LICHSU/FB/BayDangNgo.php"
+source: "/LICHSU/FB/BayDangNgo"
 category: "Chính trị"
 lang: vi
 wordCount: 653

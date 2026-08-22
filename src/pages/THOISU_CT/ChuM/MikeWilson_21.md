@@ -3,7 +3,7 @@ layout: ../../../layouts/Article.astro
 title: "Làm Thế Nào Nền Dân Chủ Đức Đã Biến Thành Độc Tài Của Hitler?"
 author: "Mike Wilson"
 date: 2018-08-12
-source: "https://sachhiem.net/THOISU_CT/ChuM/MikeWilson_21.php"
+source: "/THOISU_CT/ChuM/MikeWilson_21"
 category: "Chính trị"
 lang: vi
 wordCount: 2268

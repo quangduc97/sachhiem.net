@@ -2,7 +2,7 @@
 layout: ../../../layouts/Article.astro
 title: "Một phụ nữ Đức chọn VN làm nơi yên nghỉ cuối cùng"
 author: "Trần Ngọc Quyên"
-source: "https://sachhiem.net/(Nguyên Phó Vụ trưởng Bộ Ngoại giao; nguyên Tham tán-Công sứ VN tại Đức)"
+source: "/(Nguyên Phó Vụ trưởng Bộ Ngoại giao; nguyên Tham tán-Công sứ VN tại Đức)"
 category: "Chính trị"
 lang: vi
 wordCount: 1805
@@ -32,7 +32,7 @@ image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nhacu.jpg"
 <tr> <td width="100%" bgcolor="White"> 
 <div style="padding-left: 40px; padding-right: 40px">
 		<table border="0" cellpadding="1" width="80%" cols="2"><tbody><tr>
-		<td width="129"><a href="https://sachhiem.net/"><img border="0" src="https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nhacu.jpg" width="49" height="20"></a></td>
+		<td width="129"><a href="/"><img border="0" src="https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nhacu.jpg" width="49" height="20"></a></td>
 				
 	<td valign="top">	
 	<p style="text-align: right">	<font color="#606060" size="2">21 tháng 3, 2009	</font>

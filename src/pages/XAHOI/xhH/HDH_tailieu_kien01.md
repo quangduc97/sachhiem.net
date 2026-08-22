@@ -3,14 +3,14 @@ layout: ../../../layouts/Article.astro
 title: "Kiện Cáo Lúc Ông Hoàng Duy Hùng Làm Nghị Viên ở Houston - Phần II"
 author: "SH sưu tầm"
 date: 2023-09-09
-source: "https://sachhiem.net/XAHOI/xhH/HDH_tailieu_kien01.php"
+source: "/XAHOI/xhH/HDH_tailieu_kien01"
 category: "Chính trị"
 lang: vi
 wordCount: 11485
 ---
 
 <div class="tomluoc">
-     <p><a href="https://sachhiem.net/XAHOI/xhH/HDH_tailieu_kien.php">Xem LTS của Phần I</a>. </p>
+     <p><a href="/XAHOI/xhH/HDH_tailieu_kien">Xem LTS của Phần I</a>. </p>
      <p>Thêm các vụ kiện lẻ tẻ liên quan đến việc Al Hoàng Tranh Cử ở Houston. Trong hai vụ kiện sau đây, đương sự có nhiều vấn đề sai phạm dân sự trong các báo cáo về tài chính.</p>
    </div>
    

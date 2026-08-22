@@ -3,7 +3,7 @@ layout: ../../../layouts/Article.astro
 title: "Viện Trợ Khổng Lồ Đổ Vào, Cuộc Chiến Khốc Liệt Hơn"
 author: "Đào Văn Bình"
 date: 2022-05-31
-source: "https://sachhiem.net/DAOVB/CT/DaovBinh145.php"
+source: "/DAOVB/CT/DaovBinh145"
 category: "Chính trị"
 lang: vi
 wordCount: 3570

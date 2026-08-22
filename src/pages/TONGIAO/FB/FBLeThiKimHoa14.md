@@ -3,7 +3,7 @@ layout: ../../../layouts/Article.astro
 title: "Công Bố Lạm Dụng Tình Dục Trẻ Em Trong Giáo Phận Công Giáo Providence, Rhode Island"
 author: "Lê thị Kim Hoa sưu tầm"
 date: 2026-03-04
-source: "https://sachhiem.net/TONGIAO/FB/FBLeThiKimHoa14.php"
+source: "/TONGIAO/FB/FBLeThiKimHoa14"
 category: "Tác giả"
 lang: vi
 wordCount: 1357

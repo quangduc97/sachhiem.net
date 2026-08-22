@@ -3,7 +3,7 @@ layout: ../../../layouts/Article.astro
 title: "Bước Mở Đầu Của Sự Thiết Lập Hệ Thống Thuộc Địa Pháp Ở Việt Nam"
 author: "TS Nguyễn Xuân Thọ"
 date: 2023-02-11
-source: "https://sachhiem.net/LICHSU/NGXUANTHO/BuocMoDau_02.php"
+source: "/LICHSU/NGXUANTHO/BuocMoDau_02"
 category: "Chính trị"
 lang: vi
 wordCount: 10693

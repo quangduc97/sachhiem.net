@@ -1,7 +1,7 @@
 ---
 layout: ../../../layouts/Article.astro
 title: "BỎ BOM MIỀN BẮC VIỆT NAM"
-source: "https://sachhiem.net/nguồn: https://encarta.msn.com"
+source: "/nguồn: https://encarta.msn.com"
 category: "Chính trị"
 lang: vi
 wordCount: 660
@@ -112,7 +112,7 @@ image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/SACHNGOAI/Hinhanh/B5
 		
 		<p>Bài liên hệ:</p>
 		<p>
-				<a href="https://sachhiem.net/THOISU_CT/Tintrongnuoc2.php">
+				<a href="/THOISU_CT/Tintrongnuoc2">
 				Nơi ghi dấu một nỗi đau chung</a></p>
 		<p>
 		<a style="color: blue; text-decoration: underline; text-underline: single" href="https://giaodiemonline.com/2007/11/visao.htm">

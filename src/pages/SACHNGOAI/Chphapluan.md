@@ -2,7 +2,7 @@
 layout: ../../layouts/Article.astro
 title: "Mối Tương Quan Giữa Phật Giáo Với Khoa Học"
 author: "(Tin nước ngoài)"
-source: "https://sachhiem.net/nguồn: https://www.chuyenphapluan.com/chude.php?tn=view&amp;id=243"
+source: "/nguồn: https://www.chuyenphapluan.com/chude.php?tn=view&amp;id=243"
 lang: vi
 wordCount: 385
 image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/SACHNGOAI/file:///C:/SACHHIEM/images/mail.gif"

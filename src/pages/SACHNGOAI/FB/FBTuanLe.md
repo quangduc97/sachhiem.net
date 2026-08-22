@@ -3,7 +3,7 @@ layout: ../../../layouts/Article.astro
 title: "Lộ Trình Giải Thể Cộng Sản Của Giáo Hoàng John Paul II"
 author: "Seattletimes/ Tuấn Lê"
 date: 2023-10-30
-source: "https://sachhiem.net/SACHNGOAI/FB/FBTuanLe.php"
+source: "/SACHNGOAI/FB/FBTuanLe"
 category: "Chính trị"
 lang: vi
 wordCount: 2555
@@ -24,7 +24,7 @@ image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/TONGIAO/IMG/VATICAN/
 <p>(dưới status của <a href="https://www.facebook.com/groups/851010086666161/posts/864329018667601/">Lý Thái Xuân</a> ngày 28 tháng 10, 2023)</p>
 <p>________________</p>
 <p><b>Bài liên quan</b>:</p>
-<p>- <a href="https://sachhiem.net/SACHNGOAI/FB/FBTuanLe01.php">Giáo Hoàng John Paul II đã góp phần vào sự sụp đổ của Liên Xô như thế nào?</a></p>
+<p>- <a href="/SACHNGOAI/FB/FBTuanLe01">Giáo Hoàng John Paul II đã góp phần vào sự sụp đổ của Liên Xô như thế nào?</a></p>
 
 <p align="center">_____________</p>
 <p class="TuaChuong">PHỤ ĐÍNH</p>

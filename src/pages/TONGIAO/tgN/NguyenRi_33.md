@@ -3,7 +3,7 @@ layout: ../../../layouts/Article.astro
 title: "Nhân Vu Lan Mùa Báo Hiếu - Thử Tìm Hiểu"
 author: "Ri Nguyễn"
 date: 2017-09-05
-source: "https://sachhiem.net/TONGIAO/tgN/NguyenRi_33.php"
+source: "/TONGIAO/tgN/NguyenRi_33"
 category: "Tác giả"
 lang: vi
 wordCount: 4693
@@ -191,4 +191,4 @@ Bởi chưng <b>chính các anh em Ngài không tin Ngài. </b></i></p>
 <p>_____________________</p>
   <p>Các bài của Nguyễn Ri: link</p>
 <p>
-<a href="https://sachhiem.net/TONGIAO/tgN/ListRiNguyen.inc.php" target="_blank">https://sachhiem.net/TONGIAO/tgN/ListRiNguyen.inc.php</a></p>
+<a href="/TONGIAO/tgN/ListRiNguyen.inc" target="_blank">https://sachhiem.net/TONGIAO/tgN/ListRiNguyen.inc.php</a></p>

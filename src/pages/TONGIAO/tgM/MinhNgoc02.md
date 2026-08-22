@@ -3,7 +3,7 @@ layout: ../../../layouts/Article.astro
 title: "Phản hồi bài viết"
 author: "Minh Ngọc"
 date: 2012-06-18
-source: "https://sachhiem.net/value"
+source: "/value"
 category: "Tác giả"
 lang: vi
 wordCount: 2028
@@ -16,7 +16,7 @@ image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/TONGIAO/IMG/SU/Tinhd
       
 <p>Dẫn bài: Phát Triển Và Truyền Giáo của tác giả Minh Mẫn, </p>
 <p>
-  link: <a href="https://sachhiem.net/MINHMAN/Tongiao/MinhManTG49.php">https://sachhiem.net/MINHMAN/Tongiao/MinhManTG49.php</a> </p>
+  link: <a href="/MINHMAN/Tongiao/MinhManTG49">https://sachhiem.net/MINHMAN/Tongiao/MinhManTG49.php</a> </p>
           
           <p><span class="First">T</span>hư gửi tác giả Minh Mẫn.</p>
           <p>

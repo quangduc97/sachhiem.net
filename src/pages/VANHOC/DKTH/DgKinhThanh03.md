@@ -2,14 +2,14 @@
 layout: ../../../layouts/Article.astro
 title: "Một Bài Thơ Cho Hai Mùa Xuân"
 author: "Dương Kinh Thành"
-source: "https://sachhiem.net/VANHOC/DKTH/DgKinhThanh03.php"
+source: "/VANHOC/DKTH/DgKinhThanh03"
 category: "Văn hóa"
 lang: vi
 wordCount: 1623
-image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nha.jpg"
+image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/CHUCTET/Mai.jpg"
 ---
 
-<p align="center"><a href="/index"><img hspace="20" border="0" src="https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nha.jpg"></a> 17 tháng 1,    2011 </p> 
+<p align="center"> 17 tháng 1,    2011 </p> 
 <div style="padding-left: 50px">
 <p><i>Xuân đi trăm hoa rụng</i></p>
 <p><i>Xuân đến trăm hoa nở</i></p>

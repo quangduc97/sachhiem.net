@@ -3,7 +3,7 @@ layout: ../../layouts/Article.astro
 title: "Kết Quả Những Cuộc Bầu Tổng Thống Hoa Kỳ Trong Lịch Sử"
 author: "Lý Thái Xuân sưu tầm"
 date: 2016-11-10
-source: "https://sachhiem.net/LTX/LyThaiLS3.php"
+source: "/LTX/LyThaiLS3"
 category: "Lịch sử"
 lang: vi
 wordCount: 71

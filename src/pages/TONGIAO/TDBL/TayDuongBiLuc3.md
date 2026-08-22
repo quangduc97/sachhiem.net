@@ -2,16 +2,15 @@
 layout: ../../../layouts/Article.astro
 title: "Tây Dương Gia Tô Bí Lục"
 author: "Phạm Ngộ Hiên, Nguyễn Hoà Đường, Nguyễn Bá Am và Trần Đình Hiên"
-source: "https://sachhiem.net/TONGIAO/TDBL/TayDuongBiLuc3.php"
+source: "/TONGIAO/TDBL/TayDuongBiLuc3"
 category: "Tác giả"
 lang: vi
 wordCount: 11307
-image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nha.jpg"
 ---
 
 <p class="Tuaduoi">Ghi chép những chuyện kín của đạo Gia Tô Tây Dương</p> <p align="center">cùng soạn: </p>
 		
-		   <p align="center"><a href="https://sachhiem.net/index.php"><img hspace="20" border="0" src="https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nha.jpg"></a>	07 tháng 10, 2007	</p><p>Bấm vào số dưới đây để chọn bài đọc&nbsp;
+		   <p align="center">	07 tháng 10, 2007	</p><p>Bấm vào số dưới đây để chọn bài đọc&nbsp;
 	</p><p>&nbsp;<a href="/TONGIAO/TDBL/TayDuongBiLuc1">1</a>&nbsp; 
 	&nbsp;<a href="/TONGIAO/TDBL/TayDuongBiLuc2">2</a>&nbsp; 
 	&nbsp;<a href="/TONGIAO/TDBL/TayDuongBiLuc3">3</a>&nbsp; 

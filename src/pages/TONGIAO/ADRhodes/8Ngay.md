@@ -3,7 +3,7 @@ layout: ../../../layouts/Article.astro
 title: "Phép Giảng Tám Ngày -"
 author: "Trang nhà SH"
 date: 2015-06-30
-source: "https://sachhiem.net/TONGIAO/ADRhodes/8Ngay.php"
+source: "/TONGIAO/ADRhodes/8Ngay"
 category: "Chính trị"
 lang: vi
 wordCount: 384
@@ -19,7 +19,7 @@ image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/TONGIAO/IMG/SACH/Phe
   <p><i>Ngoài ra còn có một bản "dịch" ra lối phiên âm ngày nay được đăng trên trang mạng <a href="https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.devhttps://kholuu.files.wordpress.com/2015/07/phep_giang_tam_ngay.pdf">https://kholuu.files. wordpress.com/ 2015/ 07/ phep_giang _tam_ngay. pdf</a>, xin được đính kèm ở cuối trang.</i></p>
   <p><i>Tác giả Alexandre De Rhodes, đã mất hơn 100 năm trước, nên tác phẩm này thuộc lãnh vực công cộng, mọi người có quyền được biết. Nhưng chúng ta cần phải cám ơn những người đã có công chụp lại từng trang bản gốc một cách chuyên nghiệp để chúng ta có thể đọc được mà không cần phải bay đến nơi lưu  giữ quyển sách "rất hiếm" này. </i></p>
  <p align="center"><img src="https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/TONGIAO/IMG/SACH/Phepgiang8ngay.JPG" width="350" height="209" alt="Phép Giảng Tám Ngày"></p>
-   <p><i>Chúng tôi xin mạn phép đi tắt vào Ngày Thứ Bốn, nơi có bằng chứng rõ rệt xứng đáng với tựa bài ở trên: hạt giống chia rẽ lương giáo. Nơi đó tập trung nhiều ngôn ngữ ngạo mạn, trịch thượng, bất kính đối với các giáo chủ đạo khác, tóm lại là vô văn hóa. Có 9 lần nói đên "Thíc ca", 3 lần dùng chữ "rợ mọi" đối với đạo Bụt, 20 lần nói đến "đạo bụt" với tính cách miệt thị, dạy con chiên gọi những người thờ bụt là "giáo ngoài" (sau này các con chiên gọi người khác đạo là "ngoại giáo"). Xin đọc thêm những phân tích ngắn gọn về bài giảng độc hại này trong <a href="https://sachhiem.net/TTL/TranTL13.php">LTS trên bài "Tôi Đọc Tiếp Đặng Thúy BN587: Cũng Vẫn Là Mạt Sát Biện!"</a>  của tác giả Trần Tiên Long.</i></p>
+   <p><i>Chúng tôi xin mạn phép đi tắt vào Ngày Thứ Bốn, nơi có bằng chứng rõ rệt xứng đáng với tựa bài ở trên: hạt giống chia rẽ lương giáo. Nơi đó tập trung nhiều ngôn ngữ ngạo mạn, trịch thượng, bất kính đối với các giáo chủ đạo khác, tóm lại là vô văn hóa. Có 9 lần nói đên "Thíc ca", 3 lần dùng chữ "rợ mọi" đối với đạo Bụt, 20 lần nói đến "đạo bụt" với tính cách miệt thị, dạy con chiên gọi những người thờ bụt là "giáo ngoài" (sau này các con chiên gọi người khác đạo là "ngoại giáo"). Xin đọc thêm những phân tích ngắn gọn về bài giảng độc hại này trong <a href="/TTL/TranTL13">LTS trên bài "Tôi Đọc Tiếp Đặng Thúy BN587: Cũng Vẫn Là Mạt Sát Biện!"</a>  của tác giả Trần Tiên Long.</i></p>
    <p align="center"><img src="https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/TONGIAO/IMG/TRUYENDAO/Phepgiang8ngay.jpg" alt="phép giảng 8 ngày" width="350" height="261"></p>
  <p align="center">Cuốn sách in bằng tiếng Việt đầu tiên ở <a href="https://sachxua.net/forum/index.php?topic=7390.0">https://sachxua.net/forum/index.php?topic=7390.0</a>, và <a href="https://www.congan.com.vn/?mod=detnews&amp;catid=882&amp;p=&amp;id=137410">https://www.congan.com.vn/?mod=detnews&amp;catid=882&amp;p=&amp;id=137410</a></p>
  <p><i>Bạn đọc nào muốn đọc những chương khác, có thể vào thẳng trang <a href="https://bsb3.bsb.lrz.de/">https://bsb3.bsb.lrz.de</a>. (SH)</i> <img src="https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/sqdot.gif" width="10" height="10"></p>

@@ -3,7 +3,7 @@ layout: ../../../layouts/Article.astro
 title: "Nhật Ký Biển Đông: Phi Luật Tân Theo Chính Sách Trung Lập?"
 author: "Đào Văn Bình"
 date: 2019-02-02
-source: "https://sachhiem.net/DAOVB/CT/DaovBinh130.php"
+source: "/DAOVB/CT/DaovBinh130"
 category: "Chính trị"
 lang: vi
 wordCount: 4640

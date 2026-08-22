@@ -2,10 +2,10 @@
 layout: ../../../layouts/Article.astro
 title: "ÔN CỐ TRI TÂN :"
 author: "Trần Chung Ngọc"
-source: "https://sachhiem.net/TCN/TCNtg/TCN50.php"
+source: "/TCN/TCNtg/TCN50"
 lang: vi
 wordCount: 10553
-image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nha.jpg"
+image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/LICHSU/IMG/ALEX/Alexandre.jpg"
 ---
 
 <p class="Tuaduoi">Di Hại Của “Nền Đạo Lý Thiên-La Đắc-Lộ”</p>
@@ -13,7 +13,7 @@ image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nha.jpg"
 		<p class="Tuaduoi">Của Alexandre de Rhodes</p>
 		
 
-<p align="center"><a href="https://sachhiem.net/index.php"><img border="0" hspace="20" src="https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nha.jpg"></a>  ngày 02 tháng 7, 2008 </p>
+<p align="center">  ngày 02 tháng 7, 2008 </p>
 		<p class="TuaDenLeft">Giaodiemonline.com giới thiệu:</p>
 		<p><i>Giáo sĩ dòng Tên Alexandre de Rhodes (1591-1660) là 
 		một khuôn mặt truyền giáo lớn của Công giáo Pháp tại Đông Nam Á, và vì 

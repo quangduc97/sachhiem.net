@@ -3,7 +3,7 @@ layout: ../../../layouts/Article.astro
 title: "[VATICANOLOGY] Quả Báo Nhãn Tiền Của Chính Quyền Vatican Ở Nagorno - Karabakh"
 author: "Minh Thạnh"
 date: 2023-10-20
-source: "https://sachhiem.net/TONGIAO/tgM/MinhThanh19_07.php"
+source: "/TONGIAO/tgM/MinhThanh19_07"
 category: "Chính trị"
 lang: vi
 wordCount: 4134

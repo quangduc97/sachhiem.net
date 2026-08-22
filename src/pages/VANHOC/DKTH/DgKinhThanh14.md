@@ -3,7 +3,7 @@ layout: ../../../layouts/Article.astro
 title: "Xem Lại Dây Thần Kinh Tự Trọng Với Chuyện \"Chuyện Thế Gian\" ?"
 author: "Dương Như Tâm"
 date: 2017-01-25
-source: "https://sachhiem.net/VANHOC/DKTH/DgKinhThanh14.php"
+source: "/VANHOC/DKTH/DgKinhThanh14"
 category: "Xã hội"
 lang: vi
 wordCount: 1794

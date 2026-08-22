@@ -2,16 +2,15 @@
 layout: ../../layouts/Article.astro
 title: "VIỆT NAM MÁU LỬA"
 author: "- Hoành Linh Đỗ Mậu -"
-source: "https://sachhiem.net/HOANHLINH/VNML15.php"
+source: "/HOANHLINH/VNML15"
 lang: vi
 wordCount: 29742
-image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nha.jpg"
 ---
 
 <p class="Tuaduoi">QUÊ HƯƠNG TÔI</p>
     
     
-    <p align="center"><a href="/index"><img hspace="20" border="0" src="https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nha.jpg"></a> 01 tháng 11, 2007 </p>
+    <p align="center"> 01 tháng 11, 2007 </p>
 <p align="center"><a href="/HOANHLINH/VNML14">« </a>&nbsp;<a href="/HOANHLINH/HoanhL_Main"> ● </a>&nbsp;<a href="/HOANHLINH/VNML16">»</a></p>
 <p> <b> Chương XV</b></p>
 <hr color="#AA0000" size="1"> <b>BIẾN CỐ</b>  

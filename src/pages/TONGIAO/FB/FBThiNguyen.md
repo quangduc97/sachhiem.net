@@ -3,7 +3,7 @@ layout: ../../../layouts/Article.astro
 title: "10 Điều Bạn Có Thể Chưa Biết Về Đạo Ca-Tô La Mã"
 author: "FB Thi Nguyễn"
 date: 2019-04-02
-source: "https://sachhiem.net/TONGIAO/FB/FBThiNguyen.php"
+source: "/TONGIAO/FB/FBThiNguyen"
 category: "Tác giả"
 lang: vi
 wordCount: 2172
@@ -55,4 +55,4 @@ Tuy mang danh nghĩa của một tôn giáo, nhưng giáo hội Ca-tô lại là
  <p class="nguonL">Nguồn <a href="https://www.facebook.com/permalink.php?story_fbid=124783815344585&amp;id=100034389021090">https://www.facebook.com/permalink.php? ...</a></p>
  <p class="nguonL">___________</p>
  <p class="nguonL"><b>CHÚ THÍCH:</b></p>
- <p class="nguonL">(1) <a href="https://sachhiem.net/TCN/TCNdt/TCNdt024.php">VÀI Ý KIẾN VỀ BÀI: “GIÁO HỘI CÔNG GIÁO ROMA” Của Ông: Nguyễn Học Tập</a> (Trần Chung Ngọc)</p>
+ <p class="nguonL">(1) <a href="/TCN/TCNdt/TCNdt024">VÀI Ý KIẾN VỀ BÀI: “GIÁO HỘI CÔNG GIÁO ROMA” Của Ông: Nguyễn Học Tập</a> (Trần Chung Ngọc)</p>

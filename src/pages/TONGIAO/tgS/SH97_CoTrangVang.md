@@ -3,7 +3,7 @@ layout: ../../../layouts/Article.astro
 title: "Cờ Quốc Gia Vatican - Cờ Vàng Trắng Không Phải Là Cờ Tôn Giáo"
 author: "SH sưu tầm"
 date: 2023-02-08
-source: "https://sachhiem.net/TONGIAO/tgS/SH97_CoTrangVang.php"
+source: "/TONGIAO/tgS/SH97_CoTrangVang"
 category: "Chính trị"
 lang: vi
 wordCount: 33

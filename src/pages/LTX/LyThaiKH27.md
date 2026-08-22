@@ -3,7 +3,7 @@ layout: ../../layouts/Article.astro
 title: "Và Những Tuyên Bố Cho Là Đã Tìm Thấy Di Tích"
 author: "Lý Thái Xuân tóm lược"
 date: 2018-07-21
-source: "https://sachhiem.net/LTX/LyThaiKH27.php"
+source: "/LTX/LyThaiKH27"
 category: "Khoa học"
 lang: vi
 wordCount: 2948

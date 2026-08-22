@@ -2,14 +2,14 @@
 layout: ../../layouts/Article.astro
 title: "Trao đổi với ông Nguyễn Hoài Vân"
 author: "Trần Tiên Long"
-source: "https://sachhiem.net/TTL/TranTL02.php"
+source: "/TTL/TranTL02"
 category: "Tác giả"
 lang: vi
 wordCount: 5456
-image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nha.jpg"
+image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/KHOAHOC/IMG/TRIETHOC/EdBurnettTylor_animism.jpg"
 ---
 
-<p align="center"><a href="/index"><img hspace="20" border="0" src="https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nha.jpg"></a>  16 tháng 1, 2011</p>
+<p align="center">  16 tháng 1, 2011</p>
 		<p><i>LTS: Rất hiếm thấy được một cuộc đàm thoại lành mạnh và trí thức như sau trên các hộp thư chung của người Việt ở hải ngoại. Lần đầu tiên trong quá nhiều năm, độc giả được nghe hai bên trao đổi trong một đề tài mà bản chất thường khó nằm gọn trong khuôn khổ của nó, triết học liên quan đến tôn giáo nhưng lại không bị đánh lạc sang góc độ nhạy cảm, và tuyệt nhất là được biệt lập khỏi lăng kính hay thái độ chính trị.  Đây thật là một món quà vừa làm tươi mát cho cuộc sống trí tuệ, vừa đem lại thêm kiến thức cho một số độc giả, vừa làm gương tiêu biểu cho tư cách trong cuộc thảo luận. SH hân hạnh được đăng mẫu chuyện trao đổi đầy thú vị này. (SH) </i></p><hr>
 		
 		<p><span class="First"><a name="T">T</a></span>rước hết, tôi xin 

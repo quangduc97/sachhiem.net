@@ -3,7 +3,7 @@ layout: ../../../layouts/Article.astro
 title: "Vài Cảm Nghĩ Nhân Đọc Tên Của Một Cuốn Sách"
 author: "Trần Chung Ngọc"
 date: 2013-06-23
-source: "https://sachhiem.net/index.php?content=showrecipe&id=5685"
+source: "/TCN/TCNts/TCNts067"
 category: "Chính trị"
 lang: vi
 wordCount: 4503

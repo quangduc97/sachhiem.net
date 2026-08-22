@@ -3,7 +3,7 @@ layout: ../../layouts/Article.astro
 title: "Làm Gì Có Phép Lạ!"
 author: "Trần Tiên Long"
 date: 2012-04-04
-source: "https://sachhiem.net/TTL/TranTL17.php"
+source: "/TTL/TranTL17"
 category: "Tác giả"
 lang: vi
 wordCount: 9295
@@ -102,13 +102,13 @@ Trân trọng,</p>
          LẠ LỘ ĐỨC”</p>
        <p><b>Tuyển Tập Độc Thần Giáo</b></p>
        <p><b>Charlie Nguyễn</b></p>
-       <p><a href="https://sachhiem.net/CHARLIE/CN_TTDTG/Loduc.php">MÀN KỊCH BỊP
+       <p><a href="/CHARLIE/CN_TTDTG/Loduc">MÀN KỊCH BỊP
            BỢM “PHÉP LẠ LỘ ĐỨC</a></p>
 <p>
            <b>DO VATICAN VÀ HOÀNG GIA PHÁP DÀN DỰNG NĂM 1858&nbsp;</b></p>
 <p>
            <b>ĐÃ NÔ LỆ HÓA NHỮNG LINH HỒN MÊ MUỘI CÔNG GIÁO VIỆT NAM</b></p>
-       <p><a href="https://sachhiem.net/CHARLIE/CN_TTDTG/Loduc.php">(https://sachhiem.net/CHARLIE/CN_TTDTG/Loduc.php)</a></p>
+       <p><a href="/CHARLIE/CN_TTDTG/Loduc">(https://sachhiem.net/CHARLIE/CN_TTDTG/Loduc.php)</a></p>
        <p>Để trình bày chuyện bịp “hang đá Lộ Đức” một cách rành rẽ và để qúi
          vị độc giả dễ nắm bắt các tình tiết hết sức phức tạp của câu chuyện
          này, tôi phải bắt đầu kể chuyện hầu qúi vị bằng những khám phá mới nhất

@@ -2,15 +2,15 @@
 layout: ../../../layouts/Article.astro
 title: "Ngôi Mộ “Việt Nam Cộng Hòa”"
 author: "Người Houston"
-source: "https://sachhiem.net/THOISU_CT/ChuN/NguoiHouston.php"
+source: "/THOISU_CT/ChuN/NguoiHouston"
 category: "Chính trị"
 lang: vi
 wordCount: 1099
-image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nha.jpg"
+image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/THOISU_CT/Hinh/NgHouston/ForestPark.jpg"
 ---
 
 <table border="0" width="250" align="center">
-    <tbody><tr><td width="100"><a href="https://sachhiem.net/index.php"><img border="0" src="https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nha.jpg"></a>    </td>
+    <tbody><tr><td width="100">    </td>
 	<td valign="top">	10 tháng 6, 2009	</td></tr></tbody></table>
 
 <p class="TuaDenLeft">"QUÂN DÂN CÁN CHÍNH VIỆT NAM CỘNG HÒA" đã được trang trọng an táng ở Mỹ </p>	
@@ -109,4 +109,4 @@ image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nha.jpg"
 			<p>(1) Trong bản Nghi Quyết Lưỡng viện HCR 258 mà ông Hubert Vũ soạn thảo vào cuối tháng 5, 2009 do Triều Giang dịch (xem 
 			<a href="https://www.vietbao.com/?ppid=45&amp;pid=5&amp;nid=145270">
 			https://www.vietbao.com/</a>)&nbsp; ông nói:  <i>"<a href="https://www.vietbao.com/?ppid=45&amp;pid=5&amp;nid=145270">Lá cờ này (cờ vàng ba sọc đỏ) đã được tung bay trong ngày đại lễ đầu tiên mừng độc lập khỏi sự chiếm đóng của người Pháp</a>"</i>. Không biết ông này lấy tài liệu ở đâu mà cướp công của lá cờ đỏ của Việt Minh ngang xương như thế ! Về chi tiết lá cờ vàng, xin ông Hubert Vũ nên xem cho biết lịch sử của nó, có đăng online trong sachhiem.net, mục 
-			<a href="https://sachhiem.net/NMQ/ChanDungVNCH/QMN04.php">"LÁ CỜ VÀNG BA SỌC ĐỎ XUẤT HIỆN LẦN THỨ NHẤT" trong tập "Chân Dung Người Việt Quốc Gia" của tác giả Nguyễn Mạnh Quang.</a> </p>
+			<a href="/NMQ/ChanDungVNCH/QMN04">"LÁ CỜ VÀNG BA SỌC ĐỎ XUẤT HIỆN LẦN THỨ NHẤT" trong tập "Chân Dung Người Việt Quốc Gia" của tác giả Nguyễn Mạnh Quang.</a> </p>

@@ -2,7 +2,7 @@
 layout: ../../../layouts/Article.astro
 title: "Thời mạt đạo"
 author: "Nguyễn Trí Cảm"
-source: "https://sachhiem.net/TONGIAO/NGTRCAM/NguyenTriCam00.php"
+source: "/TONGIAO/NGTRCAM/NguyenTriCam00"
 category: "Tác giả"
 lang: vi
 wordCount: 1300

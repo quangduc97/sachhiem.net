@@ -3,7 +3,7 @@ layout: ../../../layouts/Article.astro
 title: "Giáo Hội Công Giáo Có Liên Quan Đến Lao Động Trẻ Em Ở Uganda"
 author: "Vinnie O'Dowd & Danny Vincent/ BBC News"
 date: 2016-02-22
-source: "https://sachhiem.net/TONGIAO/tgN/NguyenRi_21.php"
+source: "/TONGIAO/tgN/NguyenRi_21"
 category: "Tác giả"
 lang: vi
 wordCount: 1397
@@ -105,4 +105,4 @@ image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/THOISU_CT/Hinh/UGAND
   <p>_____________________ </p>
   <p>Các bài của Nguyễn Ri: link</p>
 <p>
-<a href="https://sachhiem.net/TONGIAO/tgN/ListRiNguyen.inc.php" target="_blank">https://sachhiem.net/TONGIAO/tgN/ListRiNguyen.inc.php</a></p>
+<a href="/TONGIAO/tgN/ListRiNguyen.inc" target="_blank">https://sachhiem.net/TONGIAO/tgN/ListRiNguyen.inc.php</a></p>

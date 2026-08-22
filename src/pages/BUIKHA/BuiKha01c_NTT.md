@@ -2,7 +2,7 @@
 layout: ../../layouts/Article.astro
 title: "NGUYỄN TRƯỜNG TỘ"
 author: "Bùi Kha"
-source: "https://sachhiem.net/BUIKHA/BuiKha01c_NTT.php"
+source: "/BUIKHA/BuiKha01c_NTT"
 category: "Lịch sử"
 lang: vi
 wordCount: 8494

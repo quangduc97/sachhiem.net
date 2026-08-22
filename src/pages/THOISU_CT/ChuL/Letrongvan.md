@@ -2,7 +2,7 @@
 layout: ../../../layouts/Article.astro
 title: "CHIẾN THẮNG ĐIỆN BIÊN PHỦ"
 author: "Lê Trọng Văn"
-source: "https://sachhiem.net/null"
+source: "/null"
 category: "Chính trị"
 lang: vi
 wordCount: 5464

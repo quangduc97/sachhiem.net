@@ -2,7 +2,7 @@
 layout: ../../../layouts/Article.astro
 title: "KHÔNG PHẢI LÀ CÁCH TỰ TỬ ĐƯỢC CHỌN"
 author: "by Stephen Kinzer"
-source: "https://sachhiem.net/SACHNGOAI/snT/TThL2.php"
+source: "/SACHNGOAI/snT/TThL2"
 category: "Sách ngoại văn"
 lang: vi
 wordCount: 7940

@@ -3,7 +3,7 @@ layout: ../../../layouts/Article.astro
 title: "ĐƠN TỐ CÁO Số 8: Lãnh Đạo Dân Chúa Đang Dắt Đàn Chiên Xuống Hố"
 author: "Phan thị Kim Thoa"
 date: 2024-03-11
-source: "https://sachhiem.net/TONGIAO/FB/FBThoaKimPhan8.php"
+source: "/TONGIAO/FB/FBThoaKimPhan8"
 category: "Tác giả"
 lang: vi
 wordCount: 3210

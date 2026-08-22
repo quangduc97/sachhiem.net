@@ -2,7 +2,7 @@
 layout: ../../../layouts/Article.astro
 title: "Tin Buồn Toàn Quốc"
 date: 2024-07-23
-source: "https://sachhiem.net/XAHOI/CHIABUON/Chiabuon18.php"
+source: "/XAHOI/CHIABUON/Chiabuon18"
 lang: vi
 wordCount: 648
 image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/THOISU_CT/Hinh/NHANVAT/NGPHUTRONG/80TUOI.JPG"

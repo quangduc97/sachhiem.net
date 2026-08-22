@@ -3,7 +3,7 @@ layout: ../../../layouts/Article.astro
 title: "Trả lời câu hỏi: Khi Một Nhà Thờ Khai \"Phá Sản\" Thì Như Thế Nào?"
 author: "Theo Church Law Center"
 date: 2024-08-12
-source: "https://sachhiem.net/SACHNGOAI/SH/SH69_PhaSan.php"
+source: "/SACHNGOAI/SH/SH69_PhaSan"
 category: "Sách ngoại văn"
 lang: vi
 wordCount: 1646

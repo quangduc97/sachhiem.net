@@ -3,7 +3,7 @@ layout: ../../../layouts/Article.astro
 title: "BÀI II: Dương Trung Quốc Lại Dốt Và Xuyên Tạc “Dự Thảo Luật Đặc Khu” Như Thế Nào?"
 author: "Đông La"
 date: 2025-04-03
-source: "https://sachhiem.net/LICHSU/D/DongLa_10.php"
+source: "/LICHSU/D/DongLa_10"
 category: "Chính trị"
 lang: vi
 wordCount: 1568

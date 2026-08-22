@@ -3,7 +3,7 @@ layout: ../../../layouts/Article.astro
 title: "\"Đường Trần Là Thế\" - Phần Hồi Âm"
 author: "Trần Tố Nga"
 date: 2017-10-22
-source: "https://sachhiem.net/VANHOC/N/NguyenvThinh_18A.php"
+source: "/VANHOC/N/NguyenvThinh_18A"
 category: "Lịch sử"
 lang: vi
 wordCount: 1815
@@ -110,7 +110,7 @@ Tel: 0033632581985</p>
 <p>_______________________</p>
 <p><b>Mời đọc thêm:</b></p>
 <p>- Thư Gửi Tổng Thống Hoa Kỳ về Chất Độc Da Cam (Trần Văn Xẻn)
- <a href="https://sachhiem.net/LICHSU/TR/TranVanXen_01.php">https://sachhiem.net/LICHSU/TR/TranVanXen_01.php</a> </p>
+ <a href="/LICHSU/TR/TranVanXen_01">https://sachhiem.net/LICHSU/TR/TranVanXen_01.php</a> </p>
  <p>&nbsp;- <a href="https://vietnamnet.vn/vn/giai-tri/sach/duong-tran-cua-nguoi-dep-sai-gon-mot-thoi-tran-to-nga-397581.html">Đường trần gian nan của người đẹp Sài Gòn một thời </a></p>
 <p>- <a href="https://tuoitre.vn/me-tu-627229.htm"> Mẹ Tú</a></p>
 <p>- <a href="https://vietnamnet.vn/vn/doi-song/song-la/chuyen-ve-ba-tran-to-nga-334872.html">Chuyện người phụ nữ Việt chiến đấu với những ‘gã khổng lồ’</a></p>

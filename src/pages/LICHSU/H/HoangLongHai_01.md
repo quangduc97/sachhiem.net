@@ -3,7 +3,7 @@ layout: ../../../layouts/Article.astro
 title: "Ba Tiếng Súng Lệnh Ở Đài Phát Thanh Huế"
 author: "Tuệ Chương Hoàng Long Hải"
 date: 2017-05-09
-source: "https://sachhiem.net/LICHSU/H/HoangLongHai_01.php"
+source: "/LICHSU/H/HoangLongHai_01"
 category: "Chính trị"
 lang: vi
 wordCount: 19502

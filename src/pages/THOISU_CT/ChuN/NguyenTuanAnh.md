@@ -3,7 +3,7 @@ layout: ../../../layouts/Article.astro
 title: "Vợ Lẽ Phải Đòn"
 author: "Nguyễn Tuấn Anh"
 date: 2024-06-16
-source: "https://sachhiem.net/THOISU_CT/ChuN/NguyenTuanAnh.php"
+source: "/THOISU_CT/ChuN/NguyenTuanAnh"
 category: "Chính trị"
 lang: vi
 wordCount: 88

@@ -3,16 +3,16 @@ layout: ../../../layouts/Article.astro
 title: "Vị Trí Lịch Sử Của Một Chuyến Công Du Hòa Đàm"
 author: "Đào Như"
 date: 2012-06-09
-source: "https://sachhiem.net/THOISU_CT/ChuD/DaoNhu.php"
+source: "/THOISU_CT/ChuD/DaoNhu"
 category: "Chính trị"
 lang: vi
 wordCount: 2774
-image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nha.jpg"
+image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/PEOPLE/DaoNhu_hoadamLeonPanetta.jpg"
 ---
 
 <table border="0" cellpadding="0" width="250" align="center">
             <tbody><tr>
-              <td width="125"><a href="/index"><img border="0" src="https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nha.jpg"></a></td>
+              <td width="125"></td>
               <td valign="middle">09-Jun-2012</td>
             </tr>
           </tbody></table>

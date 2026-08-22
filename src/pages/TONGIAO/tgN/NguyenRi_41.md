@@ -3,7 +3,7 @@ layout: ../../../layouts/Article.astro
 title: "Say Máu: Sự Giết Chóc Của Chúa Trong Kinh Thánh"
 author: "Steve Wells/Ri Nguyễn sưu tầm"
 date: 2018-12-12
-source: "https://sachhiem.net/TONGIAO/tgN/NguyenRi_40.php"
+source: "/TONGIAO/tgN/NguyenRi_40"
 category: "Tác giả"
 lang: vi
 wordCount: 1048
@@ -67,4 +67,4 @@ image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/SACHNGOAI/Hinhanh/BI
 <p>_____________________</p>
   <p>Các bài của Nguyễn Ri: link</p>
 <p>
-<a href="https://sachhiem.net/TONGIAO/tgN/ListRiNguyen.inc.php" target="_blank">https://sachhiem.net/TONGIAO/tgN/ListRiNguyen.inc.php</a></p>
+<a href="/TONGIAO/tgN/ListRiNguyen.inc" target="_blank">https://sachhiem.net/TONGIAO/tgN/ListRiNguyen.inc.php</a></p>

@@ -3,21 +3,21 @@ layout: ../../../layouts/Article.astro
 title: "Giới Thiệu Sách Mới:"
 author: "của Nick Turse"
 date: 2013-01-24
-source: "https://sachhiem.net/TCN/TCNls/TCNls15.php"
+source: "/TCN/TCNls/TCNls15"
 lang: vi
 wordCount: 3358
-image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nha.jpg"
+image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/SACHNGOAI/Hinhanh/BIASACH/NickTurse.jpg"
 ---
 
 <table border="0" align="center" width="250">
       <tbody><tr>
-       <td width="100"><a href="https://sachhiem.net/index.php"><img border="0" src="https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nha.jpg"></a></td>
+       <td width="100"></td>
        <td valign="top" width="275"></td>
       </tr>
      </tbody></table>
-     <p><strong><u>Vài Lời Nói Đầu</u></strong>.&nbsp;&nbsp; Trước đây, ngày 30 tháng 8, 2008, tôi có    đăng trên sachhiem.net bài: <a href="https://sachhiem.net/TCN/TCNts/TCNts25.php"> CHỦ NGHĨA KHỦNG BỐ VÀ DIỆT CHỦNG DÂN TỘC VIỆT NAM CỦA    MỸ 1945 – 1974 </a>, dịch bài (American    Terrorism and Genocide of the Vietnamese People, 1945-1974) cùng với bản    gốc, lấy từ trang nhà:</p>
+     <p><strong><u>Vài Lời Nói Đầu</u></strong>.&nbsp;&nbsp; Trước đây, ngày 30 tháng 8, 2008, tôi có    đăng trên sachhiem.net bài: <a href="/TCN/TCNts/TCNts25"> CHỦ NGHĨA KHỦNG BỐ VÀ DIỆT CHỦNG DÂN TỘC VIỆT NAM CỦA    MỸ 1945 – 1974 </a>, dịch bài (American    Terrorism and Genocide of the Vietnamese People, 1945-1974) cùng với bản    gốc, lấy từ trang nhà:</p>
      <p> <a href="https://www.intellnet.org/resources/american_terrorism/Vietnamesevictims.html">https://www.intellnet.org/resources/american_terrorism/Vietnamesevictims.html</a></p>
-     <p> [<a href="https://www.sachhiem.net/TCN/TCNts/TCNts25.php">https://sachhiem.net/TCN/TCNts/TCNts25.php</a>]</p>
+     <p> [<a href="/TCN/TCNts/TCNts25">https://sachhiem.net/TCN/TCNts/TCNts25.php</a>]</p>
      <p>Sau đây là một đoạn điển hình trong đó:</p>
      <p>*&nbsp;&nbsp; <i>Những  tội phạm chiến tranh thuộc Thủy, Lục, Không quân Hoa Kỳ đã tàn sát 3 triệu  người ở Việt Nam, trong rất nhiều nơi như Mỹ Lai.&nbsp; Hầu  hết các nạn nhân là đàn bà và trẻ con.</i></p>
 <p>CIA  có ngay cả một chương trình khủng bố chính thức của quốc gia Mỹ ở Việt Nam,  được biết là “Chiến Dịch Phụng Hoàng” hay “Kế Hoạch Phụng Hoàng”. [Kế hoạch  Phụng Hoàng còn được biết dưới tên “Kế Hoạch Ám Sát” (Douglas Valentine, The  Phoenix Program, p. 191: “Phoenix was labeled an Assassination Program”).]<i> Qua Kế Hoạch Phụng Hoàng, nhiều trăm ngàn  người đã bị tra tấn đến chết trong những “trung tâm thẩm vấn” trên khắp Nam  Việt Nam.&nbsp; Những trung tâm tra tấn này  được dựng lên bởi Mỹ rõ ràng cho mục đích đó.&nbsp;  Phụ nữ luôn luôn bị hãm hiếp như là một phần của tra tấn trước khi bị  giết.&nbsp; Khủng bố, hãm hiếp và giết người hàng loạt một cách đại qui mô trên khắp  miền quê là chính sách của tập thể Lục Quân, Không Quân, Thủy Quân Lục Chiến,  Thủy Quân Hoa Kỳ. &nbsp;Cuộc tàn  sát ở Mỹ Lai là một chiến dịch trong Kế Hoạch Phụng Hoàng.</i></p>
@@ -96,7 +96,7 @@ image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nha.jpg"
      <p class="TacgiaL">Trần Chung Ngọc </p>
      <p><b>Cùng đề tài:</b></p>
      <p>Mời đọc bài giới thiệu của Lý Như Thế:</p>
-     <p><a href="https://sachhiem.net/LICHSU/L/LyNhuThe.php">-  Giới thiệu tác phẩm “Nhúc Nhích Thì Giết”</a></p>
+     <p><a href="/LICHSU/L/LyNhuThe">-  Giới thiệu tác phẩm “Nhúc Nhích Thì Giết”</a></p>
      
      
      <hr>

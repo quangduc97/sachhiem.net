@@ -3,14 +3,14 @@ layout: ../../../layouts/Article.astro
 title: "Tâm Thư Kính Gửi Thiếu Tướng Lê Mã Lương."
 author: "Phan Hưng Duy"
 date: 2016-03-25
-source: "https://sachhiem.net/THOISU_CT/ChuP/PhanHDuy.php"
+source: "/THOISU_CT/ChuP/PhanHDuy"
 category: "Chính trị"
 lang: vi
 wordCount: 858
-image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nha.jpg"
+image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.devhttps://media.doisongphapluat.com/2015/03/15/tuong_niem_chien_si_hy_sinh_bao_ve_gac_ma_2.jpg"
 ---
 
-<p align="center"><a href="https://www.sachhiem.net/"> <img border="0" src="https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nha.jpg"></a> ngày 25-Mar-2016</p>
+<p align="center"> ngày 25-Mar-2016</p>
    <p align="center"><img src="https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.devhttps://media.doisongphapluat.com/2015/03/15/tuong_niem_chien_si_hy_sinh_bao_ve_gac_ma_2.jpg" width="400"></p>
    <p align="center">Xúc động lễ tưởng niệm các chiến sĩ hy sinh bảo vệ đảo Gạc Ma, ngày 14 tháng 3, 2015</p>
   <p>Kính gửi Thiếu tướng Lê  Mã Lương.</p>

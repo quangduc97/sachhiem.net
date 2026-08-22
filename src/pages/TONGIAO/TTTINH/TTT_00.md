@@ -3,7 +3,7 @@ layout: ../../../layouts/Article.astro
 title: "Tiểu Sử Linh Mục Trần Tam Tỉnh"
 author: "SH sưu tầm"
 date: 2023-01-11
-source: "https://sachhiem.net/TONGIAO/TTTINH/TTT_00.php"
+source: "/TONGIAO/TTTINH/TTT_00"
 category: "Tác giả"
 lang: vi
 wordCount: 570

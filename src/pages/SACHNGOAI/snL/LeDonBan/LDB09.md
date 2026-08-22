@@ -3,7 +3,7 @@ layout: ../../../../layouts/Article.astro
 title: "Nietzsche - Về Lai Lịch của Đạo đức (12)"
 author: "Lê Dọn Bàn dịch"
 date: 2012-09-30
-source: "https://sachhiem.net/SACHNGOAI/snL/LeDonBan/LDB09.php"
+source: "/SACHNGOAI/snL/LeDonBan/LDB09"
 category: "Tác giả"
 lang: vi
 wordCount: 9690

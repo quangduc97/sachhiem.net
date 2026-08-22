@@ -3,7 +3,7 @@ layout: ../../../layouts/Article.astro
 title: "CÁI TỪ VÀ CÁI TÂM"
 author: "Nguyễn Văn Thịnh"
 date: 2018-06-05
-source: "https://sachhiem.net/VANHOC/N/NguyenvThinh_23.php"
+source: "/VANHOC/N/NguyenvThinh_23"
 category: "Lịch sử"
 lang: vi
 wordCount: 5236
@@ -45,7 +45,7 @@ image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/LICHSU/IMG/BAODAI/NG
 <p>Nửa phần đất nước phía Nam hiện đang tồn tại trong một quốc gia hòa bình, ổn định và phát triển vẫn là nhân chứng sinh động  nhất. </p>
 <p>  Người viết sưu tra một số tư liệu  giới thiệu với các bạn đọc trẻ và gợi lại trong trí nhớ những người mau quên. </p>
 <p class="sub"><b>a. Về thân thế vị nguyên thủ quốc gia:</b></p>
-<p>Tài liệu  còn lưu giữ tại Trung tâm các Văn khố Hải ngoại (CAOM, Aix-en-Provence) của nước Pháp, do Tiến sĩ  Vũ  Ngự Chiêu phát hiện (Nguồn: <a href="https://sachhiem.net/LICHSU/N/Namgiao_01.php">Sách  Hiếm</a>): </p>
+<p>Tài liệu  còn lưu giữ tại Trung tâm các Văn khố Hải ngoại (CAOM, Aix-en-Provence) của nước Pháp, do Tiến sĩ  Vũ  Ngự Chiêu phát hiện (Nguồn: <a href="/LICHSU/N/Namgiao_01">Sách  Hiếm</a>): </p>
 <div class="leftborder">
   <p>  ** <i><b>Thư của Giám mục Pierre  Martin Ngô Đình Thục</b>, </i></p>
   <p><i>Giám  quản tông tòa Giáo phận Vĩnh Long, </i></p>

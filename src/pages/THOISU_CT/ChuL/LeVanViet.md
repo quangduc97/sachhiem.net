@@ -2,14 +2,14 @@
 layout: ../../../layouts/Article.astro
 title: "Bài Thơ Vịnh Đền Kiếp Bạc"
 author: "Lê Văn Việt"
-source: "https://sachhiem.net/THOISU_CT/ChuL/LeVanViet.php"
+source: "/THOISU_CT/ChuL/LeVanViet"
 category: "Chính trị"
 lang: vi
 wordCount: 2983
-image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nha.jpg"
+image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/LICHSU/IMG/HOCHIMINH/Dienhanh2010.jpg"
 ---
 
-<p align="center"><a href="/index"><img border="0" src="https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nha.jpg"></a> 28 tháng 2, 2011 </p>
+<p align="center"> 28 tháng 2, 2011 </p>
           <p><b>MỘT -</b></p>
           <p class="TuaDenLeft"><b>Ngày Tổ Chức Lễ hội Kỷ niệm Một Ngàn Năm Thăng Long</b></p>
           <p><b> <a href="https://megafun.vn/channel/1521/201010/dieu-binh-dieu-hanh-mung-dai-le-nghin-nam-100181/"> <img border="0" src="https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/LICHSU/IMG/HOCHIMINH/Dienhanh2010.jpg" width="310" height="173" align="left" hspace="10"></a></b>Về đại lễ kỷ niệm Ngàn Năm Thăng Long vừa qua, đã có một số người  đặt câu hỏi tại sao Hà Nội lại tổ chức từ ngày 1/10/2010 đến  10/10/2010? Đến nay có nhiều người như Linh mục Nguyễn Văn Lý vẫn đưa ra luận điệu chống Nhà Nước: <i>“Kỷ niệm ngàn năm Thăng-Long vào ngày  1/10/2010 là ngày quốc khánh của Tầu”</i>? </p>

@@ -3,7 +3,7 @@ layout: ../../../layouts/Article.astro
 title: "Giêsu Có Phải Là Một Tiên Tri Không?"
 author: "Ngô Triệu Lịch"
 date: 2016-01-30
-source: "https://sachhiem.net/TONGIAO/tgN/NgoTrieuLich_01.php"
+source: "/TONGIAO/tgN/NgoTrieuLich_01"
 category: "Chính trị"
 lang: vi
 wordCount: 1871
@@ -123,7 +123,7 @@ image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/TONGIAO/IMG/JESUS/Be
   <p class="TacgiaL">Ngô triệu Lịch </p>
   <p>___________</p>
   <p><b>Cùng tác giả:</b></p>
-  <p>- <a href="https://sachhiem.net/TONGIAO/tgN/NgoTrieuLich_02.php">Về Một Vấn Đề “Gây Khó Chịu” Của Vatican Nhưng Không Phải Cho Người Châu Á</a> (Ngô triệu Lịch) </p>
-  <p>- <a href="https://sachhiem.net/TONGIAO/tgN/NgoTrieuLich_01.php">Giêsu Có Phải Là Một Tiên Tri Không? </a> (Ngô triệu Lịch)</p>
-  <p>- <a href="https://sachhiem.net/TONGIAO/tgN/NgoTrieuLich.php">Nhận Định Về Văn Kiện “Tông Huấn Giáo Hội Tại Châu Á”</a> (Ecclesia In Asia) - (Ngô triệu Lịch) </p>
-  <p>- <a href="https://sachhiem.net/TONGIAO/tgN/NgoTrieuLich_03.php">Sách Lược Mục Vụ Của Vatican - Hội Nhập Văn Hóa Hay Xâm Lăng Văn Hóa?</a> (Ngô Triệu Lịch) </p>
+  <p>- <a href="/TONGIAO/tgN/NgoTrieuLich_02">Về Một Vấn Đề “Gây Khó Chịu” Của Vatican Nhưng Không Phải Cho Người Châu Á</a> (Ngô triệu Lịch) </p>
+  <p>- <a href="/TONGIAO/tgN/NgoTrieuLich_01">Giêsu Có Phải Là Một Tiên Tri Không? </a> (Ngô triệu Lịch)</p>
+  <p>- <a href="/TONGIAO/tgN/NgoTrieuLich">Nhận Định Về Văn Kiện “Tông Huấn Giáo Hội Tại Châu Á”</a> (Ecclesia In Asia) - (Ngô triệu Lịch) </p>
+  <p>- <a href="/TONGIAO/tgN/NgoTrieuLich_03">Sách Lược Mục Vụ Của Vatican - Hội Nhập Văn Hóa Hay Xâm Lăng Văn Hóa?</a> (Ngô Triệu Lịch) </p>

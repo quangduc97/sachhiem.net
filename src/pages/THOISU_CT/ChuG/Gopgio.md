@@ -3,15 +3,15 @@ layout: ../../../layouts/Article.astro
 title: "Trả Lời Cho Những Kẻ “Hoài Ngô”"
 author: "Góp Gió"
 date: 2012-04-30
-source: "https://sachhiem.net/THOISU_CT/ChuG/Gopgio.php"
+source: "/THOISU_CT/ChuG/Gopgio"
 category: "Chính trị"
 lang: vi
 wordCount: 4832
-image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nha.jpg"
+image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/LICHSU/IMG/NGODD/duong_van_minh.gif"
 ---
 
 <table border="0" cellpadding="0" width="250" align="center"><tbody><tr>
-	<td width="125"><a href="/index"><img border="0" src="https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nha.jpg"></a></td>
+	<td width="125"></td>
 <td valign="middle">30-Apr-2012</td>
 		</tr></tbody></table>
         <p><i>LTS: Sachhiem.net nhận được một mẫu đối thoại liên quan đến ngày

@@ -3,7 +3,7 @@ layout: ../../../layouts/Article.astro
 title: "Nhật Ký Biển Đông: Ô. Trump Chọn Hoa Lục Hay Đông Nam Á?"
 author: "Đào Văn Bình"
 date: 2017-06-01
-source: "https://sachhiem.net/DAOVB/CT/DaovBinh88.php"
+source: "/DAOVB/CT/DaovBinh88"
 category: "Chính trị"
 lang: vi
 wordCount: 5021

@@ -2,7 +2,7 @@
 layout: ../../layouts/Article.astro
 title: "Hôn Nhân Với Người Đạo Chúa - Rắc Rối"
 author: "Lý Thái Xuân"
-source: "https://sachhiem.net/LTX/LyThaiTG09.php"
+source: "/LTX/LyThaiTG09"
 category: "Tác giả"
 lang: vi
 wordCount: 99

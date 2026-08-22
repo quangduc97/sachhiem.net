@@ -3,7 +3,7 @@ layout: ../../../layouts/Article.astro
 title: "Chuyện Đặc Khu - ĐÔI LỜI TÂM SỰ"
 author: "TP Thanh Tâm"
 date: 2017-10-18
-source: "https://sachhiem.net/THOISU_CT/ChuP/PThanhTam_03.php"
+source: "/THOISU_CT/ChuP/PThanhTam_03"
 category: "Chính trị"
 lang: vi
 wordCount: 1608

@@ -2,14 +2,14 @@
 layout: ../../../layouts/Article.astro
 title: "Tây Sa và Nam Sa trong sử liệu Trung Quốc"
 author: "Phạm Hoàng Quân"
-source: "https://sachhiem.net/THOISU_CT/ChuP/PhamHoangQuan.php"
+source: "/THOISU_CT/ChuP/PhamHoangQuan"
 category: "Chính trị"
 lang: vi
 wordCount: 2121
-image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nha.jpg"
+image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/LICHSU/IMG/TRGHOA/QuynhChau_phuchi.jpg"
 ---
 
-<p align="center"><a href="https://www.sachhiem.net/"> <img border="0" src="https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nha.jpg"></a> 23 tháng 1, 2008 </p>
+<p align="center"> 23 tháng 1, 2008 </p>
  <p>“<i>Quốc vụ Viện Trung Quốc  vừa phê chuẩn việc thành lập thành phố hành chính cấp huyện Tam Sa (thuộc tỉnh  Hải Nam) trực tiếp quản lý ba quần đảo trên Biển Đông, trong đó có hai quần đảo  Hoàng Sa và Trường Sa của Việt Nam</i>” (báo&nbsp;<i>Tuổi trẻ</i>&nbsp;ra ngày thứ  Ba - 4-12-2007).&nbsp;</p>
 <p>Theo như tên gọi này – Tam Sa – thì thành phố mới của Hải Nam còn có thêm tên  của quần đảo Trung Sa thuộc chủ quyền của Trung Quốc.&nbsp;</p>
 <p> Sự thiết lập cơ quan quản lý hành chính đối với các quần đảo – thuộc chủ quyền  hoặc không thuộc chủ quyền của mình – của Chính phủ CHND Trung Hoa vốn bắt đầu  từ năm 1959, “năm 1959 thiết lập “<i>Tây – Nam - Trung Sa Quần đảo Biện sự Xứ</i>”,  thuộc sự quản lý của khu hành chính Hải Nam. Đến năm 1969, cơ quan này đổi tên  là “<i>Tây Sa - Trung Sa - Nam Sa Quần đảo Cách mạng Uỷ viên Hội”,</i> trực thuộc tỉnh  Quảng Đông. Đến năm 1988, khi thành lập tỉnh Hải Nam, hai quần đảo Tây Sa và  Nam Sa thuộc sự quản lý của tỉnh này” (Tô Độc Sử - Sở Nghiên cứu học thuật quân  sự hải quân – Quý san <i>Trung Quốc biên cương sử địa nghiên cứu. 1-1992.&nbsp;</i>Trung  Quốc Xã hội Khoa học Viện – ISSN 1002 - 6800).&nbsp;</p>
@@ -45,4 +45,4 @@ image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nha.jpg"
 		<a href="https://www.talawas.org/talaDB/showFile.php?res=11697&amp;rb=0302">https://www.talawas.org/talaDB/showFile.php?res=11697&amp;rb=0302 </a></p>
  <hr width="50%">
 <p>Những bài về Trường Sa &amp; Hoàng Sa đăng trong sachhiem.net:</p>
-<p><a href="https://sachhiem.net/LICHSU/H/HoangSa_list.php">https://sachhiem.net/LICHSU/H/HoangSa_list.php</a></p>
+<p><a href="/LICHSU/H/HoangSa_list">https://sachhiem.net/LICHSU/H/HoangSa_list.php</a></p>

@@ -3,7 +3,7 @@ layout: ../../../layouts/Article.astro
 title: "Lúc Bấy Giờ Cụ Trần Trọng Kim Chưa Có Đủ Tài Liệu"
 author: "Trần Quang Diệu"
 date: 2015-01-01
-source: "https://sachhiem.net/LICHSU/TR/TQD40_vlc.php"
+source: "/LICHSU/TR/TQD40_vlc"
 category: "Đối thoại"
 lang: vi
 wordCount: 1421
@@ -49,7 +49,7 @@ image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/LICHSU/IMG/SuVN/Phap
 <p><i>- "Nếu không có  những giáo sĩ và giáo dân An Nam tiếp tay thì người Pháp như những con cua bị  bẻ gãy càng"</i> (Giám mục  Puginier). </p>
 <p>- V.v.... </p>
 <p>Xin đọc  <i><b>Vài Sự Kiện - Tiến sĩ Nguyễn Xuân Thọ đã khai quật từ Thư khố Bộ Ngoại giao Pháp</b></i></p>
-<p><a href="https://sachhiem.net/index.php?content=showemail&amp;id=809" target="_blank">https://sachhiem.net/index.php?content=showemail&amp;id=809 </a></p>
+<p><a href="/net/TONGIAO/tgN/NguyenXTho" target="_blank">https://sachhiem.net/index.php?content=showemail&amp;id=809 </a></p>
 <p>  _________________</p>
 <p> From:  DiendanDanToc@yahoogroups.com<br>
   Date: Fri, 19 Dec 2014 19:36:15 +0000<br>

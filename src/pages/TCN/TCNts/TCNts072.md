@@ -3,7 +3,7 @@ layout: ../../../layouts/Article.astro
 title: "Xung Quanh Tác Phẩm : Món Hàng Xuất Cảng Làm Chết Người Nhất Của Mỹ: DÂN CHỦ"
 author: "Trần Chung Ngọc"
 date: 2013-11-18
-source: "https://sachhiem.net/TCN/TCNts/TCNts072.php"
+source: "/TCN/TCNts/TCNts072"
 category: "Chính trị"
 lang: vi
 wordCount: 16730
@@ -298,7 +298,7 @@ Major Problems in American Foreign Policy: Documents and Essays</i> của  Thoma
 <p>Nhìn xa hơn nữa, chúng  ta phải thấy rằng ngày nay đất nước đã mở mang phát triển như thế nào, và vị thế  của Việt Nam trên chính trường thế giới ngày nay ra sao, so với 50 năm trước,  khi mà hầu hết thế giới chẳng biết gì đến Việt Nam, chẳng biết Việt Nam nằm ở  đâu trên bản đồ thế giới, trừ một số nước liên hệ đến cuộc chiến. Đây là khía cạnh  tích cực nhất của sự hi sinh của người dân Việt.&nbsp; Nhìn theo khía cạnh này chúng ta cần phải ghi  ơn Đại Tướng Võ Nguyên Giáp và toàn thể Quân Đội Nhân Dân Việt Nam đã đưa Việt  Nam lên vị thế ngang hàng với các cường quốc trên thế giới ngày nay, ít ra là về  chính trị.. <b>Từ đó người Việt Nam có thể tự hào mình là người Việt Nam</b>, mang hộ  chiếu Việt Nam, nhìn thẳng vào mắt người đối thoại, bất kể họ là ai mà không có  mặc cảm. Do đó tôi viết bài này với hi vọng chúng ta hiểu rõ hơn về chính sách  đối ngoại của Mỹ, từ đó chúng ta có thể cất bỏ một huyền thoại là Mỹ có ý tốt  khi can thiệp vào Việt Nam để giúp dân Việt Nam có tự do dân chủ..&nbsp; </p>
 <p>Một số người  trong chúng ta, thường bị trói chặt trong thiên kiến, trong thù hận, vì chúng  ta không biết đến sự thật, hay cố chấp bác bỏ những sự thật không phù hợp với sự  hiểu biết hay thiên kiến của chúng ta.&nbsp;  Hi vọng những sự thật trong bài viết này sẽ cởi trói cho chúng ta thoát  khỏi những quan niệm cố chấp một chiều về hai cuộc chiến ở Việt Nam.</p>
 <p>Nếu quý đọc giả đã đọc hai bài về “<i>Nhìn Lại Hai Cuộc Chiến Ở Việt Nam</i>” trên  sachhiem.net:</p>
-     <p> <a href="https://www.sachhiem.net/TCN/TCNls/TCNls16.php">https://sachhiem.net/TCN/TCNls/TCNls16.php</a>, <a href="https://www.sachhiem.net/TCN/TCNls/TCNls16a.php">https://sachhiem.net/TCN/TCNls/TCNls16a.php</a></p>
+     <p> <a href="/TCN/TCNls/TCNls16">https://sachhiem.net/TCN/TCNls/TCNls16.php</a>, <a href="/TCN/TCNls/TCNls16a">https://sachhiem.net/TCN/TCNls/TCNls16a.php</a></p>
      <p> thì quý vị sẽ thấy rằng nội dung mấy cuốn sách của William  Blum đã chứng minh là những điều tôi viết trong hai bài trên &nbsp;là không sai.&nbsp;</p>
 <p><a class="TuaDenLeft" name="end10" href="/TCN/#10"><b>Hiểu thêm về chính sách đối ngoại của Mỹ</b></a></p>
  <p>Để hiểu thêm về chính sách đối ngoại của Mỹ, chúng ta hãy đọc thêm vài  đoạn của William Blum trong cuốn <i>America’s Deadliest Export:  Democracy:</i></p>
@@ -395,7 +395,7 @@ chỉ có 223 sống sót. Ảnh https://www.examiner.com/</i></p>
 </div>
      <hr>
      <p><b>Mời đọc thêm:</b></p>
-     <p>- <a href="https://sachhiem.net/TCN/TCNts/TCNts049.php"><i>Nước Mỹ - Nhân Quyền - Việt Nam</i> </a> (Trần Chung Ngọc)</p>
+     <p>- <a href="/TCN/TCNts/TCNts049"><i>Nước Mỹ - Nhân Quyền - Việt Nam</i> </a> (Trần Chung Ngọc)</p>
      <p>- <i><a href="https://lehienduc02.blogspot.com/2013/11/nhan-quyen-noi-au-o-chinh-trong-long.html">Nhân quyền - nỗi đau ở chính trong lòng nước Mỹ</a></i> (Loa Phường) </p>
      <p>- <a href="/THOISU_CT/ChuK/Khachquan"><i>Bom Nhân Quyền </i></a> (Trần Khách Quan)  </p>
      <p><img src="https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/DivGold.gif" width="100%" height="3"></p>

@@ -3,16 +3,16 @@ layout: ../../../layouts/Article.astro
 title: "Về Quyển Sách “Bên Thắng Cuộc”:"
 author: "Song Huy - Ngọc Điệp"
 date: 2013-01-18
-source: "https://sachhiem.net/CATP1.php"
+source: "/CATP1"
 category: "Chính trị"
 lang: vi
 wordCount: 2283
-image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nha.jpg"
+image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/Hinh/NHANVAT/CATP1_BT_VTH_DTH.gif"
 ---
 
 <table border="0" cellpadding="0" width="250" align="center">
       <tbody><tr>
-       <td width="125"><a href="/index"><img border="0" src="https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nha.jpg"></a></td>
+       <td width="125"></td>
        <td valign="middle">18-Jan-2013</td>
       </tr>
      </tbody></table>

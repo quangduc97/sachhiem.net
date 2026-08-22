@@ -3,7 +3,7 @@ layout: ../../layouts/Article.astro
 title: "Một Phút Câu Chuyện Loài Người Chúng Ta"
 author: "Lý Thái (giới thiệu)"
 date: 2012-11-30
-source: "https://sachhiem.net/LTX/LyThaiKH12.php"
+source: "/LTX/LyThaiKH12"
 category: "Khoa học"
 lang: vi
 wordCount: 225

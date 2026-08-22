@@ -3,7 +3,7 @@ layout: ../../../layouts/Article.astro
 title: "Khía Cạnh Triết Học Của Cuộc Ném Bom Dinh Độc Lập 1962"
 author: "Minh Thạnh"
 date: 2016-03-30
-source: "https://sachhiem.net/LICHSU/M/MinhThanh_LS.php"
+source: "/LICHSU/M/MinhThanh_LS"
 category: "Tác giả"
 lang: vi
 wordCount: 4050

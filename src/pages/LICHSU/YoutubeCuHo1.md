@@ -1,7 +1,7 @@
 ---
 layout: ../../layouts/Article.astro
 title: "Tài liệu hình về Cụ Hồ Chí Minh (SH sưu tầm)"
-source: "https://sachhiem.net/null"
+source: "/null"
 lang: vi
 wordCount: 18
 ---

@@ -3,7 +3,7 @@ layout: ../../../layouts/Article.astro
 title: "Chuyện Gì Xảy Ra Ở Tòa Nhà Quốc Hội Ngày 06-01-2021?"
 author: "SH tóm lược"
 date: 2021-01-06
-source: "https://sachhiem.net/THOISU_CT/SH/SH_USelecRatif_2020.php"
+source: "/THOISU_CT/SH/SH_USelecRatif_2020"
 category: "Chính trị"
 lang: vi
 wordCount: 1389

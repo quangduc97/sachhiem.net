@@ -2,7 +2,7 @@
 layout: ../../../layouts/Article.astro
 title: "Chủ Nghĩa Xét Lại Lịch Sử Đã Tác Động Vào Báo Chí?"
 author: "TT. Nguyễn Thanh Tuấn"
-source: "https://sachhiem.net/LICHSU/N/NguyenThanhTuan03_L.php"
+source: "/LICHSU/N/NguyenThanhTuan03_L"
 category: "Lịch sử"
 lang: vi
 wordCount: 400
@@ -31,13 +31,13 @@ image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/THOISU_CT/Hinh/NHANV
 <p>- (4) <a href="https://znews.vn/nhin-lai-hai-qua-bom-nguyen-tu-my-tha-xuong-nhat-ban-post342645.html">"Nhìn lại hai quả bom nguyên tử Mỹ thả xuống Nhật Bản</a>" </p>
 <p>------------------</p>
 <p><b>Các bài khác của TT Nguyễn Thanh Tuấn:</b></p>
-<p>- <a href="https://sachhiem.net/LICHSU/N/NguyenThanhTuan01.php ">Vụ Phim Đất Rừng Phương Nam - Mong Thanh Tra Chính Phủ Làm Rõ - Vì Sao Tiền Của NN Lại Đầu Tư Cho Phim Loại Này.</a></p>
-<p>- <a href="https://sachhiem.net/LICHSU/N/NguyenThanhTuan.php">Chỉ thị của Ban Bí Thư TW Đảng ngày 16/04/2009: Tạm Dừng Các Hoạt Động, Công Trình Liên Quan Đến Phan Thanh Giản </a></p>
-<p>- <a href="https://sachhiem.net/LICHSU/N/NguyenThanhTuan02.php">Buồn - Khi Người Mình Đặt Nhiều Hy Vọng Lại Làm Mình Thất Vọng</a></p>
-<p>- <a href="https://sachhiem.net/LICHSU/N/NguyenThanhTuan03_Vid.php">Chủ Nghĩa Xét Lại Lịch Sử Đã Tác Động Vào Báo Chí?</a> </p>
-<p>-<a href="https://sachhiem.net/LICHSU/N/NguyenThanhTuan04_LS.php"> Thư Ngỏ Của Trung Tướng Nguyễn Thanh Tuấn Gửi Lãnh Đạo Bộ GD - ĐT</a></p>
+<p>- <a href="/LICHSU/N/NguyenThanhTuan01">Vụ Phim Đất Rừng Phương Nam - Mong Thanh Tra Chính Phủ Làm Rõ - Vì Sao Tiền Của NN Lại Đầu Tư Cho Phim Loại Này.</a></p>
+<p>- <a href="/LICHSU/N/NguyenThanhTuan">Chỉ thị của Ban Bí Thư TW Đảng ngày 16/04/2009: Tạm Dừng Các Hoạt Động, Công Trình Liên Quan Đến Phan Thanh Giản </a></p>
+<p>- <a href="/LICHSU/N/NguyenThanhTuan02">Buồn - Khi Người Mình Đặt Nhiều Hy Vọng Lại Làm Mình Thất Vọng</a></p>
+<p>- <a href="/LICHSU/N/NguyenThanhTuan03_Vid">Chủ Nghĩa Xét Lại Lịch Sử Đã Tác Động Vào Báo Chí?</a> </p>
+<p>-<a href="/LICHSU/N/NguyenThanhTuan04_LS"> Thư Ngỏ Của Trung Tướng Nguyễn Thanh Tuấn Gửi Lãnh Đạo Bộ GD - ĐT</a></p>
 
-<p><a href="https://sachhiem.net/THOISU_CT/ChuH/HoangKien_VVT.php"></a> --------</p>
+<p><a href="/THOISU_CT/ChuH/HoangKien_VVT"></a> --------</p>
 <p><b>Bài đọc thêm:</b></p>
 <p>- 30 năm Liên Xô sụp đổ và <b>bài học cho Việt Nam</b>, Báo Quân Đội Nhân Dân:</p>
 <p>- Bài 1: <a href="https://media.qdnd.vn/long-form/30-nam-lien-xo-sup-do-va-bai-hoc-cho-viet-nam-bai-1-khi-dang-cong-san-tu-xoa-bo-chinh-minh-53205">Khi Đảng Cộng sản tự xóa bỏ chính mình</a></p>

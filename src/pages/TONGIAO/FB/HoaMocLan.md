@@ -3,7 +3,7 @@ layout: ../../../layouts/Article.astro
 title: "Cộng Sản Rồi Sao?"
 author: "FB Hoa Mộc Lan"
 date: 2020-06-01
-source: "https://sachhiem.net/TONGIAO/FB/HoaMocLan.php"
+source: "/TONGIAO/FB/HoaMocLan"
 category: "Chính trị"
 lang: vi
 wordCount: 1787

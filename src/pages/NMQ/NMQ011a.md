@@ -2,18 +2,18 @@
 layout: ../../layouts/Article.astro
 title: "Hiền Tài hay Việt Gian ?"
 author: "Nguyễn Mạnh Quang"
-source: "https://sachhiem.net/NMQ/NMQ011a.php"
+source: "/NMQ/NMQ011a"
 category: "Lịch sử"
 lang: vi
 wordCount: 11551
-image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nha.jpg"
+image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/Next.gif"
 ---
 
 <p class="Tuaduoi">Trả Lời Một Câu Hỏi</p>
 
 
 
-     <p align="center"><a href="https://sachhiem.net/index.php"><img hspace="20" border="0" src="https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nha.jpg"></a>  22 tháng 5, 2009</p>
+     <p align="center">  22 tháng 5, 2009</p>
 <p><i>LTS: Nhân gần đây có vài bài báo bàn tán về nhân vật Trương Vĩnh Ký, chúng tôi xin  trích đăng lại loạt bài đã đăng từ năm 2009. Kẻ thì tiếp tục ca ngợi Petrus Ký như từ thời Pháp thuộc cho đến về sau, nhưng có nhiều người đã tiếp cận được sử liệu, và nhận định lại giá trị con người lịch sử này đúng như các tài liệu vô tư đã mô tả thực chất về ông. Trong bài, tác giả Nguyễn Mạnh Quang thường dùng cụm từ Liên Minh Pháp – Vatican, một cụm từ mà bạn đọc có thể nghe lạ tai, chỉ vì chưa được nghe nói thường xuyên. Thiết nghĩ cụm từ đó cũng đã mang chung số phận với những dữ liệu thường bị che lấp hàng thê kỷ trước cho đến nay. Lý do quan trọng hơn cả là vì Vatican luôn luôn đứng trong lớp áo tôn giáo, cầm trong tay một cây trượng quyền lực vô hình mà chẳng ai thắc mắc. Vậy xin bạn đọc làm quen với cụm từ Liên Minh Pháp – Vatican qua những chứng cớ mà tác giả trình bày trong các tác phẩm của ông. Xin kính mời (SH).</i></p>
 
 <p>
@@ -148,7 +148,7 @@ Tô Tần <u>vận động chính quyền Pháp liên kết với Giáo Hội xu
 Việt Nam </u>để làm thuộc địa, cùng thống trị, cùng cướp đọat tài nguyên của đất 
 nước ta, cùng nô lệ hóa dân ta và cùng chia nhau lợi nhuận. Xin xem Chương 5 
 trong tập sách “Tâm Thư Gửi Chính Quyền Việt Nam” hiện nay.
-<a style="color: #204f6f; text-decoration: none" href="https://www.sachhiem.net/NMQ/TAMTHU/NMQ14_01b.php">
+<a style="color: #204f6f; text-decoration: none" href="/NMQ/TAMTHU/NMQ14_01b">
 Chương sách này đã được đưa lên sachhiem.net</a> từ ngày 29/3/2009. 
 </p>
 <p><b>3.-</b> Việc <u>Giáo Hội liên kết chặt chẽ với Pháp</u> 
@@ -675,7 +675,7 @@ hai tác giả Bùi Kha và Trần Chung Ngọc.</p>
 Anh Trần, 1998) của nhiều tác giả.</p>
 <p>
 3.- Sách đã xuất bản: <b>Nguyễn Trường Tộ Thực Chất Con Người &amp; Di Thào</b> 
-(Garden Grove, CA: Giao Điểm, 1999) của hai tác giả Bùi Kha và Trần Chung Ngọc: <a href="https://sachhiem.net/BUIKHA/BK_NTT.php">https://sachhiem.net/BUIKHA/BK_NTT.php</a> &nbsp;</p>
+(Garden Grove, CA: Giao Điểm, 1999) của hai tác giả Bùi Kha và Trần Chung Ngọc: <a href="/BUIKHA/BK_NTT">https://sachhiem.net/BUIKHA/BK_NTT.php</a> &nbsp;</p>
 <p>
 4.- Sách đã xuất bản: <b>Pétrus Trương Vĩnh Ký Tuyển Tập</b> (San Diego, CA: Mr. 
 Lê, 1998) của tác giả Cửu Long Lê Trọng Văn.
@@ -683,12 +683,12 @@ Lê, 1998) của tác giả Cửu Long Lê Trọng Văn.
 <p>
 5.- Tài liệu điện tử: <b>Xét lại Huyền Thoại “Nguyễn Trương Tộ”</b> do 
 sachhiem.net tóm lược. Xin xem đường nối: 
-<a style="color: #204f6f; text-decoration: none" href="https://sachhiem.net/LICHSU/SH.php">
+<a style="color: #204f6f; text-decoration: none" href="/LICHSU/SH">
 https://sachhiem.net/LICHSU/SH.php</a></p>
 <p>
 6.- Tài liệu điện tử: <b>Nguyễn Trường Tộ Là Danh Nhân Việt Nam?</b> của Lý 
 Đương Nhiên. Xin bấm link 
-<a style="color: #204f6f; text-decoration: none" href="https://www.sachhiem.net/LICHSU/LyDuongNhien.php">
+<a style="color: #204f6f; text-decoration: none" href="/LICHSU/LyDuongNhien">
 https://www.sachhiem.net/LICHSU/LyDuongNhien.php</a></p>
 
 			
@@ -947,7 +947,7 @@ https://www.kitohoc.com/bai/net066.html</a> Ngày 19/9.2000.</p>
 <p><a name="_edn6" title="" href="/NMQ/#_ednref6">[6]</a> Chính Đạo, <i>Việt Nam Niên 
 Biểu 1939-1975 </i>(Tập A: 1939-1946) (Houston, TX: Văn Hóa, 1997), tr 295.</p><p>
 <a name="_edn7" title="" href="/NMQ/#_ednref7">[7]</a>
-Nguyễn Ngọc Quỳ. <a href="https://www.sachhiem.net/LICHSU/NguyenNgocQuy.php">“Tản 
+Nguyễn Ngọc Quỳ. <a href="/LICHSU/NguyenNgocQuy">“Tản 
 Mạn Quanh Cuốn Trần Lục.”</a> https://www.sachhiem.net/LICHSU/ NguyenNgocQuy.php. 
 Ngày 4/4/2009.</p><p>
 <a name="_edn8" title="" href="/NMQ/#_ednref8">[8]</a> Vũ Ngự Chiêu, <i>Các Vua Cuối Nhà 
@@ -969,17 +969,17 @@ Stanley Karnow, <i>Vietnam A History</i> (New York The Viking. 1983), P. 210.
   <p>___________________</p>
    <p><b>Những bài cùng đề tài:</b></p>
    <p>- Trương Vĩnh Ký Phản Bội Tổ Quốc, Sao Lại Gọi Là Yêu Nước? (Bùi Kha)
-<a href="https://sachhiem.net/BUIKHA/BuiKha25b_TVK.php">https://sachhiem.net/BUIKHA/BuiKha25b_TVK.php</a> </p>
+<a href="/BUIKHA/BuiKha25b_TVK">https://sachhiem.net/BUIKHA/BuiKha25b_TVK.php</a> </p>
 <p>- Hành Trình Đi Tìm Ông Trương Vĩnh Ký Nguyễn Thái An)<br>
-<a href="https://sachhiem.net/LICHSU/N/NguyenThaiAn.php">https://sachhiem.net/LICHSU/N/NguyenThaiAn.php</a></p>
+<a href="/LICHSU/N/NguyenThaiAn">https://sachhiem.net/LICHSU/N/NguyenThaiAn.php</a></p>
    <p>- Đắc Lộ, Trương Vĩnh Ký &amp; Chữ Quốc Ngữ của Tác Giả Minh Vân (Bùi Kha)
-<a href="https://sachhiem.net/BUIKHA/BuiKha25.php">https://sachhiem.net/BUIKHA/BuiKha25.php</a></p>
+<a href="/BUIKHA/BuiKha25">https://sachhiem.net/BUIKHA/BuiKha25.php</a></p>
    <p>- Ngắn Gọn Về Thầy Thông Ngôn Trương Vĩnh Ký (Nguyễn Thái An)
-<a href="https://sachhiem.net/LICHSU/N/NguyenThaiAn04.php">https://sachhiem.net/LICHSU/N/NguyenThaiAn04.php</a></p>
+<a href="/LICHSU/N/NguyenThaiAn04">https://sachhiem.net/LICHSU/N/NguyenThaiAn04.php</a></p>
    <p>- Trương Vĩnh Ký, Yêu Nước? Đối Luận với ông Trần Hữu Tá (Bùi Kha)
-<a href="https://sachhiem.net/BUIKHA/BuiKha19.php">https://sachhiem.net/BUIKHA/BuiKha19.php</a></p>
+<a href="/BUIKHA/BuiKha19">https://sachhiem.net/BUIKHA/BuiKha19.php</a></p>
    <p>- Lá Thư (1) Gửi Quí Vị Cựu Giáo Sư Và Học Sinh Trường Kiểu Mẫu Thủ Đức Hiền tài hay Việt gian? (Nguyễn Mạnh Quang)
-<a href="https://sachhiem.net/NMQ/NMQ011.php">https://sachhiem.net/NMQ/NMQ011.php</a></p>
+<a href="/NMQ/NMQ011">https://sachhiem.net/NMQ/NMQ011.php</a></p>
    <p>- Đổi Mới Sử Học Không Có Nghĩa Là Tô Đen Thành Trắng (BS. Nguyễn Văn Thịnh)
-<a href="https://sachhiem.net/VANHOC/N/NguyenvThinh_05.php">https://sachhiem.net/VANHOC/N/NguyenvThinh_05.php</a></p>
+<a href="/VANHOC/N/NguyenvThinh_05">https://sachhiem.net/VANHOC/N/NguyenvThinh_05.php</a></p>
 ___________________

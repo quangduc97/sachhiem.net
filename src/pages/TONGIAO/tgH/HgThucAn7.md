@@ -3,7 +3,7 @@ layout: ../../../layouts/Article.astro
 title: "Khủng Bố Tự Sát, Bạn Là Ai?"
 author: "Hoàng Thục An"
 date: 2015-12-16
-source: "https://sachhiem.net/TONGIAO/tgH/HgThucAn7.php"
+source: "/TONGIAO/tgH/HgThucAn7"
 category: "Tác giả"
 lang: vi
 wordCount: 996

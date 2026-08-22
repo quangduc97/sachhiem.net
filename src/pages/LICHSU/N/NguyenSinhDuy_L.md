@@ -2,9 +2,9 @@
 layout: ../../../layouts/Article.astro
 title: "Trương Vĩnh Ký - Cuốn Sổ Bình Sinh"
 author: "Nguyễn Sinh Duy"
-source: "https://sachhiem.net/tháng 2, 2024"
+source: "/tháng 2, 2024"
 lang: vi
-wordCount: 663
+wordCount: 660
 image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/SACH/GiaoTrieuLM.JPG"
 ---
 
@@ -75,5 +75,3 @@ image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/SACH/GiaoTrie
      </div>   
      <div align="center">
   <img src="https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/SACH/GiaoTrieuLM.JPG" width="161" height="121" alt=""></div>
- 
-<p align="center"><a target="_blank" href="/index"><img src="https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nha.jpg" border="0"> Trở ra  sachhiem.net</a></p>

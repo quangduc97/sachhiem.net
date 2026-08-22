@@ -3,7 +3,7 @@ layout: ../../../layouts/Article.astro
 title: "Bom Nhân Quyền"
 author: "Trần Khách Quan"
 date: 2013-11-17
-source: "https://sachhiem.net/THOISU_CT/ChuK/Khachquan_00.php"
+source: "/THOISU_CT/ChuK/Khachquan_00"
 category: "Tác giả"
 lang: vi
 wordCount: 664

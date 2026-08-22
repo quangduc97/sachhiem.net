@@ -2,11 +2,10 @@
 layout: ../../layouts/Article.astro
 title: "Một Chút Tư Liệu"
 author: "Lữ Phương"
-source: "https://sachhiem.net/nguồn: https://www.talawas.org/talaDB/showFile.php?res=13323&amp;rb=0306"
+source: "/nguồn: https://www.talawas.org/talaDB/showFile.php?res=13323&amp;rb=0306"
 category: "Văn hóa"
 lang: vi
 wordCount: 3880
-image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nha.jpg"
 ---
 
 <div align="center" style="position: relative; left: 0; top: 0">
@@ -25,7 +24,7 @@ image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nha.jpg"
 <div style="padding-left: 50px; padding-right: 50px">
  
 		<table border="0" cellpadding="10" width="600" cols="3"><tbody><tr>
-				<td width="107"><a href="/index"><img border="0" src="https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nha.jpg"></a></td>
+				<td width="107"></td>
 				
 	<td valign="top">	<font size="2">07 tháng 6, 2008
 	</font>

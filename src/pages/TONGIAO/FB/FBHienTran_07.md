@@ -2,15 +2,14 @@
 layout: ../../../layouts/Article.astro
 title: "Làm Sao Một Đất Nước Bị Xóa Sổ Văn Hóa?"
 author: "Hiên Trần"
-source: "https://sachhiem.net/TONGIAO/FB/FBHienTran_07.php"
+source: "/TONGIAO/FB/FBHienTran_07"
 category: "Tác giả"
 lang: vi
 wordCount: 1441
-image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nha.jpg"
+image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/TONGIAO/IMG/PHI/QUY_donLINHMUC.JPG"
 ---
 
-<p align="center"><a href="https://www.sachhiem.net/">
-<img border="0" src="https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nha.jpg"></a> 15-June-2026</p>
+<p align="center"> 15-June-2026</p>
  <div class="tomluoc">
    <p><i> Tây Ban Nha đến nước Phi với khẩu hiệu “Thập tự giá và thanh gươm” (Cruz y Espada). Từ 1565 đến 1898, các tu sĩ dòng tu Augustinians, Dominicans, Jesuits...đóng vai trò chính quyền thực tế. Mục tiêu rõ ràng là thay thế ngôn ngữ, chữ viết, tín ngưỡng, phong tục bằng Kito giáo và văn hóa Tây Ban Nha</i>.</p></div>
   <p align="center"><img src="https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/TONGIAO/IMG/PHI/QUY_donLINHMUC.JPG" width="385" height="262" alt=""></p>

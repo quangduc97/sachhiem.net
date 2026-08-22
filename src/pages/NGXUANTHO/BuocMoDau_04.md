@@ -3,18 +3,17 @@ layout: ../../layouts/Article.astro
 title: "Bước Mở Đầu Của Sự Thiết Lập Hệ Thống Thuộc Địa Pháp Ở Việt Nam"
 author: "TS Nguyễn Xuân Thọ"
 date: 2023-02-13
-source: "https://sachhiem.net/NGXUANTHO/BuocMoDau_04.php"
+source: "/NGXUANTHO/BuocMoDau_04"
 category: "Lịch sử"
 lang: vi
 wordCount: 4925
-image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nha.jpg"
+image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/sqdot.gif"
 ---
 
 <p class="Tuaduoi"><b>Hiệp Ước Sài Gòn (1862)</b></p>
 
 
-  <p align="center"><a href="https://www.sachhiem.net/">
-<img border="0" src="https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nha.jpg"></a>| <a target="_blank" href="https://sachhiem.net/NGXUANTHO/BuocMoDau_Main.php"><span lang="en-us"><b><font face="Symbol">¿</font></b></span> trở ra mục lục</a>| 13-Feb-2023</p> 
+  <p align="center">| <a target="_blank" href="/NGXUANTHO/BuocMoDau_Main"><span lang="en-us"><b><font face="Symbol">¿</font></b></span> trở ra mục lục</a>| 13-Feb-2023</p> 
 <p class="TuaDoLeft"><b>Chương 3 - Việc Chuẩn Bị Và Ký Kết Hiệp Ước Sài Gòn (1862)</b></p>
  <p>Trước sự kiện hầu như bỏ lỡ của đạo quân viễn chinh quá mỏng manh của thiếu tá d’Ariès tại Nam kỳ, triều đình Huế đã có thể nuôi hy vọng rằng, cũng như Tourane, trước sau rồi quân Pháp - Tây Ban Nha cũng sẽ rút đi mà không đánh nhau.</p>
  <p>Khi thấy Đô đốc Charner trở lại với một lực lượng mạnh trong tay, cùng lúc với chiến dịch Trung Hoa kết thúc, làm cho khả năng về quân số cũng như về quân nhu của phía Pháp trở nên dồi dào, rồi lại thấy ông ta tiến lên một cách mạnh mẽ, thì niềm hy vọng đó không thể còn duy trì được nữa.</p>

@@ -2,11 +2,11 @@
 layout: ../../../layouts/Article.astro
 title: "Hành trình giữ nước nghìn năm"
 author: "Tuấn Anh /QDND"
-source: "https://sachhiem.net/null"
+source: "/null"
 category: "Lịch sử"
 lang: vi
 wordCount: 2081
-image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nha.jpg"
+image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/LICHSU/IMG/TRANDANH/2102010huyen31.jpg"
 ---
 
 <div align="center" style="position: relative; left: 0; top: 0">
@@ -25,8 +25,7 @@ image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nha.jpg"
 <div style="padding-left: 50px; padding-right: 50px">
 	<table border="0" cellpadding="10" width="600" cols="3">
 	<tbody><tr>
-		<td width="401"><a href="/index">
-		<img border="0" src="https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nha.jpg"></a></td>
+		<td width="401"></td>
 		<td valign="top" width="191">17 tháng 10, 2010 </td></tr>
 </tbody></table>
 <p>QĐND - Thứ Bẩy, 02/10/2010, 21:1 (GMT+7)</p>

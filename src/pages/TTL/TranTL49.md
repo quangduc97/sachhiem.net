@@ -3,7 +3,7 @@ layout: ../../layouts/Article.astro
 title: "Lỗi Tại Chúng Ta Mọi Đàng"
 author: "Trần Tiên Long"
 date: 2014-03-15
-source: "https://sachhiem.net/TTL/TranTL49.php"
+source: "/TTL/TranTL49"
 category: "Lịch sử"
 lang: vi
 wordCount: 746
@@ -42,7 +42,7 @@ Subject: [tudo-ngonluan] Lỗi Tại Chúng Ta Mọi  Đàng / Cả miền Nam b
 
 
  <p>(Trích từ tác phẩm “Thập giá và Lưỡi gươm”, Chương III&nbsp; -&nbsp; Việt dịch  từ “Dieu et César”) </p>
- <p><a href="https://sachhiem.net/TONGIAO/TTTINH/TTT_30.php">https://sachhiem.net/TONGIAO/TTTINH/TTT_30.php</a></p>
+ <p><a href="/TONGIAO/TTTINH/TTT_30">https://sachhiem.net/TONGIAO/TTTINH/TTT_30.php</a></p>
  <p>_________________</p>
  <p><b>From:</b>&nbsp;GoiDan@yahoogroups.com&nbsp;<b>On  Behalf Of&nbsp;</b>an Do<br>
   <b>Sent:</b>&nbsp;Saturday, March 15, 2014 7:05 PM<br>

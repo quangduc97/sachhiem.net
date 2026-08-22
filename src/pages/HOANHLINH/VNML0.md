@@ -2,7 +2,7 @@
 layout: ../../layouts/Article.astro
 title: "VNMLQHT- Giới Thiệu (Hoành Linh Đỗ Mậu)"
 author: "Hoành Linh Đỗ Mậu"
-source: "https://sachhiem.net/HOANHLINH/VNML0.php"
+source: "/HOANHLINH/VNML0"
 lang: vi
 wordCount: 3290
 image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/HOANHLINH/HINH/Tua.gif"
@@ -283,4 +283,3 @@ image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/HOANHLINH/HINH/Tua.g
      <center>
 
      </center>
-     <p align="center"><a href="/index"><img hspace="20" border="0" src="https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nha.jpg"></a> </p>

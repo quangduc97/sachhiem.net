@@ -3,7 +3,7 @@ layout: ../../../layouts/Article.astro
 title: "Thay lời Phân Ưu đến Tổng Thống Hugo Chavez"
 author: "Huyền Lam"
 date: 2013-03-11
-source: "https://sachhiem.net/THOISU_CT/ChuH/HuyenLam01.php"
+source: "/THOISU_CT/ChuH/HuyenLam01"
 category: "Chính trị"
 lang: vi
 wordCount: 829

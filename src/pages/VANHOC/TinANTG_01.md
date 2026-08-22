@@ -2,7 +2,7 @@
 layout: ../../layouts/Article.astro
 title: "Ở Tây Nguyên Vẫn Còn Có Người Biết"
 date: 2017-06-04
-source: "https://sachhiem.net/VANHOC/TinANTG_01.php"
+source: "/VANHOC/TinANTG_01"
 category: "Văn hóa"
 lang: vi
 wordCount: 52

@@ -3,7 +3,7 @@ layout: ../../layouts/Article.astro
 title: "Thư Kêu Gọi Cứu Trợ Nạn Nhân Bão Lụt Miền Trung 2016"
 author: "Hội Từ Thiện Giao Điểm"
 date: 2016-10-19
-source: "https://sachhiem.net/XAHOI/HoiTuThienGD_01.php"
+source: "/XAHOI/HoiTuThienGD_01"
 category: "Xã hội"
 lang: vi
 wordCount: 449

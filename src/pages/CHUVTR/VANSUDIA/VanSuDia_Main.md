@@ -2,7 +2,7 @@
 layout: ../../../layouts/Article.astro
 title: "Văn Sử Địa"
 author: "Chu văn trình"
-source: "https://sachhiem.net/CHUVTR/VANSUDIA/VanSuDia_Main.php"
+source: "/CHUVTR/VANSUDIA/VanSuDia_Main"
 lang: vi
 wordCount: 4
 image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/CHUVTR/VANSUDIA/VSD_biangoai_O.JPG"
@@ -21,7 +21,7 @@ image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/CHUVTR/VANSUDIA/VSD_
 
 
  </td> </tr>
-<tr><td colspan="2"> <a href="https://sachhiem.net/LICHSU/CHUVTR/AlexDeR_Main.php"> <p class="trang">Trang Chu Văn Trình </p>  </a>
+<tr><td colspan="2"> <a href="/LICHSU/CHUVTR/AlexDeR_Main"> <p class="trang">Trang Chu Văn Trình </p>  </a>
 </td></tr>
 </tbody></table>
 </div>

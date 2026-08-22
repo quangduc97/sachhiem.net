@@ -3,7 +3,7 @@ layout: ../../../layouts/Article.astro
 title: "Đừng Để Mất Gốc!"
 author: "Ngã Thị Dã/ FB TIẾNG TỔ QUỐC"
 date: 2025-10-09
-source: "https://sachhiem.net/XAHOI/FB/TiengToQuoc.php"
+source: "/XAHOI/FB/TiengToQuoc"
 category: "Chính trị"
 lang: vi
 wordCount: 1051

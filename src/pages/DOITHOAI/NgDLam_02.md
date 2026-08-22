@@ -3,7 +3,7 @@ layout: ../../layouts/Article.astro
 title: "Phản Biện Ông Lâm Lễ Trinh Về Tấm Ảnh Ts Thích Nhất Hạnh"
 author: "Nguyễn Đăng Lâm"
 date: 2016-11-19
-source: "https://sachhiem.net/DOITHOAI/NgDLam_02.php"
+source: "/DOITHOAI/NgDLam_02"
 category: "Chính trị"
 lang: vi
 wordCount: 6253
@@ -108,7 +108,7 @@ image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/TONGIAO/IMG/SU/NhatH
   <p class="MUC"><b>Phụ Bản 2: </b></p>
   <p class="Tuaduoi">Vạch mặt tấm hình đánh tráo trong bài của Lữ Giang:</p>
   <p class="Tuaduoi">trong bài "Bị ngược đãi nhất trên hành tinh!"</p>
- <p>(mới đăng ở <a href="https://sachhiem.net/index.php?content=showemail&amp;id=1905">https://sachhiem.net/index.php?content=showemail&amp;id=1905</a>)</p>
+ <p>(mới đăng ở <a href="/hop-thu/1905">https://sachhiem.net/index.php?content=showemail&amp;id=1905</a>)</p>
  <p><i>LTS: Việc xử dụng tấm ảnh người chết vì tai nạn xe chở dầu này đã bị phe Thiên Chúa giáo xử dụng để bôi xấu Hồi giáo, và ông Lữ Giang đã theo luồng thông tin sai lạc đó. Sự gian dối trong việc xử dụng tấm ảnh này mấy năm trước đây đã được chúng tôi khám phá và lên tiếng. Nhưng năm nay, ông Lữ Giang lại cứ xem như không có chuyện gì xảy ra, lại xử dụng tấm hình này vào trong một chiến dịch khác: bêu xấu Phật giáo! (SH)</i> </p>
  <p>From: Tran Quang Dieu &lt;tranquangdieu@hotmail.com&gt;<br>
    Date: Fri, November 18, 2016 8:10 pm</p>

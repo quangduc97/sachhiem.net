@@ -2,16 +2,15 @@
 layout: ../../../layouts/Article.astro
 title: "Đạo Phật Và Tuổi Hoa Niên"
 author: "Đào Văn Bình"
-source: "https://sachhiem.net/DAOVB/TG/DaovBinh3.php"
+source: "/DAOVB/TG/DaovBinh3"
 category: "Tác giả"
 lang: vi
 wordCount: 5844
-image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nha.jpg"
 ---
 
 <table border="0" cellpadding="0" width="250" align="center">
             <tbody><tr>
-              <td width="125"><a href="/index"><img border="0" src="https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nha.jpg"></a></td>
+              <td width="125"></td>
 			<td valign="top">	
 			<p>03 tháng 12,   2010 </p></td>
 		</tr>

@@ -3,7 +3,7 @@ layout: ../../../layouts/Article.astro
 title: "Thầy Nhật Từ"
 author: "Nguyên Ngọc"
 date: 2017-08-04
-source: "https://sachhiem.net/TONGIAO/tgN/Nguyenngoc.php"
+source: "/TONGIAO/tgN/Nguyenngoc"
 category: "Chính trị"
 lang: vi
 wordCount: 1123
@@ -25,7 +25,7 @@ image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/TONGIAO/IMG/SU/Thich
   <p class="TacgiaL"> Nguyên Ngọc</p>
   <p>_____________</p>
   <p><b>Bài liên hệ:</b></p>
-  <p>1.- <a href="https://sachhiem.net/LTX/LyThaiXH31.php">Phật Tử Hải Ngoại, Thầy Nhật Từ  và Khổ Nạn Trên Đường Hoằng Pháp</a> (Lý Thái)</p>
-  <p>2.- <a href="https://sachhiem.net/TONGIAO/tgH/HoangHiepSi01.php">Qủy Phá Nhà Chay </a> (Hoàng Hiệp Sỹ)</p>
-  <p>3.- <a href="https://sachhiem.net/TONGIAO/tgN/Nguyenngoc.php">Thầy Nhật Từ</a> (Nguyên Ngọc) </p>
-  <p>4.- <a href="https://www.sachhiem.net/TONGIAO/tgM/Mucdong3.php">Nhân Đọc Những Bài Tường Thuật Về Chuyến Đi Hoằng Pháp của Thầy Nhật Từ</a> (Mục Đồng)</p>
+  <p>1.- <a href="/LTX/LyThaiXH31">Phật Tử Hải Ngoại, Thầy Nhật Từ  và Khổ Nạn Trên Đường Hoằng Pháp</a> (Lý Thái)</p>
+  <p>2.- <a href="/TONGIAO/tgH/HoangHiepSi01">Qủy Phá Nhà Chay </a> (Hoàng Hiệp Sỹ)</p>
+  <p>3.- <a href="/TONGIAO/tgN/Nguyenngoc">Thầy Nhật Từ</a> (Nguyên Ngọc) </p>
+  <p>4.- <a href="/TONGIAO/tgM/Mucdong3">Nhân Đọc Những Bài Tường Thuật Về Chuyến Đi Hoằng Pháp của Thầy Nhật Từ</a> (Mục Đồng)</p>

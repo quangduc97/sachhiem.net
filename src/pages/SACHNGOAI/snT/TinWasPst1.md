@@ -3,7 +3,7 @@ layout: ../../../layouts/Article.astro
 title: "Linh Mục ở Washington DC Lãnh Án 15 Năm Tù"
 author: "Washington Post"
 date: 2019-11-23
-source: "https://sachhiem.net/SACHNGOAI/snT/TinWasPst1.php"
+source: "/SACHNGOAI/snT/TinWasPst1"
 category: "Chính trị"
 lang: vi
 wordCount: 1116

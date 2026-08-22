@@ -3,7 +3,7 @@ layout: ../../layouts/Article.astro
 title: "Tôi Không Thấy Các Vị Cao Tăng Này Vi Phạm Điểm Nào"
 author: "Diễn Đàn"
 date: 2015-07-22
-source: "https://sachhiem.net/DOITHOAI/Diendan.php"
+source: "/DOITHOAI/Diendan"
 category: "Chính trị"
 lang: vi
 wordCount: 3498
@@ -63,7 +63,7 @@ image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/LICHSU/IMG/SuVN/GMPu
                        <p><img src="https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/LICHSU/IMG/SuVN/GMPuginier.jpg" alt="Giám mục Puginier" width="169" height="215" class="PicLeft"></p>
                        <p>“Vì ông ta (giám  mục Puginier) luôn luôn trở lại vấn đề các sĩ phu, De Lanessan viết, tôi  nghĩ mình được phép hỏi: “<i>theo  ý ông thì nước Pháp phải đối xử với tầng lớp sĩ phu </i>(An Nam - tqd) <i>như thế nào?”</i> Câu trả lời của  ông ta rất rõ ràng và ngắn gọn: “<i>Phải thủ tiêu họ đi</i> !”, ông ta đáp, kèm theo với một điệu bộ làm cho câu trả lời ấy  càng thêm cụ thể hơn.</p>
                        <p> “- Vì sao ?”, viên toàn  quyền hỏi. <i>“Vì các sĩ phu có một ảnh hưởng rất lớn.</i>” Vị giám mục đáp, một uy  tín rất lớn; họ được kính trọng mỗi khi họ ra làm quan, cho nên cần thiết phải  thủ tiêu họ đi. Chừng nào tầng lớp sĩ phu còn, thì chúng ta còn phải lo sợ tất cả,  bởi vì với lòng yêu nước nồng nàn, họ không thể nào chấp nhận nền đô hộ của  chúng ta. Còn điều nữa là chẳng một ai trong họ chịu theo đạo Kitô cả”."</p>
-                       <p> Nguồn: <a href="https://sachhiem.net/TONGIAO/tgT/Tanphap.php" target="_blank">https://sachhiem.net/TONGIAO/tgT/Tanphap.php</a></p>
+                       <p> Nguồn: <a href="/TONGIAO/tgT/Tanphap" target="_blank">https://sachhiem.net/TONGIAO/tgT/Tanphap.php</a></p>
                      </div>
                      <p>Những  ai (tôi hiểu, tuyệt đại đa số bởi những kẻ thống thuộc vào  tâm cảnh là "thần dân của thành Rome" mang hình hài gốc mít - mũi  tẹt da vàng, nhưng thích "làm theo đức vâng lời" ngoại  bang!?) ưa lôi danh từ "PG quốc doanh" ra để chửi rủa các  nhà sư PGVN tại quốc nội (hoặc hải ngoại) thì yêu cầu các vị hãy nên cùng với PGVN kiến tạo nhà thờ thuần túy thuộc  quyền trong tư cách độc lập của người "Công giáo" Việt Nam  nhằm thể hiện "<i>tinh thần yêu nước</i>" (*) của mình như người Phật  giáo đã làm.</p>
                      <p>Chỉ  có&nbsp;điều là nó không dung hàm&nbsp;được yêu cầu thực&nbsp;hiện vị thế&nbsp;độc  lập của "Công giáo" VN&nbsp;đối với nước&nbsp;Vatican.&nbsp; </p>

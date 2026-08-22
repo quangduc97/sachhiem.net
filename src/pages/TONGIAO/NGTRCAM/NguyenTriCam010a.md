@@ -2,15 +2,14 @@
 layout: ../../../layouts/Article.astro
 title: "Cuộc thánh chiến mới nhất của Giáo hoàng"
 author: "Nguyễn Trí Cảm chuyển ngữ"
-source: "https://sachhiem.net/TONGIAO/NGTRCAM/NguyenTriCam010a.php"
+source: "/TONGIAO/NGTRCAM/NguyenTriCam010a"
 category: "Tác giả"
 lang: vi
 wordCount: 648
-image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nha.jpg"
 ---
 
 <table border="0" cellpadding="1" width="250" align="center"><tbody><tr>
-	<td><a href="https://www.sachhiem.net/"><img border="0" src="https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nha.jpg"></a></td>
+	<td></td>
 <td valign="top" width="195"><p> ngày 23 tháng 6, 2009 </p>	</td>
 							</tr>
 						</tbody></table>

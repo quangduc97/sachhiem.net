@@ -3,7 +3,7 @@ layout: ../../../layouts/Article.astro
 title: "ĐƠN TỐ CÁO Số 1: Chủ Chăn Thiếu Trách Nhiệm, Gây Hậu Quả Nghiêm Trọng"
 author: "Phan thị Kim Thoa"
 date: 2024-03-11
-source: "https://sachhiem.net/TONGIAO/FB/FBThoaKimPhan.php"
+source: "/TONGIAO/FB/FBThoaKimPhan"
 category: "Tác giả"
 lang: vi
 wordCount: 2523

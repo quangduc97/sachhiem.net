@@ -2,11 +2,11 @@
 layout: ../../../layouts/Article.astro
 title: "Góp ý với GS Trần Chung Ngọc về việc"
 author: "Nguyễn Thiện Căn"
-source: "https://sachhiem.net/null"
+source: "/null"
 category: "Tác giả"
 lang: vi
 wordCount: 1424
-image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nha.jpg"
+image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/IMG/CHUA/Langmai_tryendang2010.jpg"
 ---
 
 <div align="center">
@@ -26,8 +26,7 @@ image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nha.jpg"
 <tr> <td width="100%"> 
 		<div style="padding-left: 50px; padding-right: 50px">
 <table border="0" cellpadding="10" width="600" cols="2"><tbody><tr>
-<td width="356"><a href="/index">
-		<img border="0" src="https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nha.jpg"></a></td>
+<td width="356"></td>
 	<td valign="top"><p>20 tháng 6,  2010</p>	
 	</td></tr></tbody></table>
 		<div style="border-top: 1px solid #949494; border-bottom: 1px solid #949494; padding: 10px; background-color: #EAEAEB">

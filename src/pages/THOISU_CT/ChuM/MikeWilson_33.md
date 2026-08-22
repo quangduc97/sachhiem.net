@@ -3,7 +3,7 @@ layout: ../../../layouts/Article.astro
 title: "Bàn luận về bản chất của chủ nghĩa xã hội"
 author: "Mike Wilson"
 date: 2023-02-23
-source: "https://sachhiem.net/THOISU_CT/ChuM/MikeWilson_33.php"
+source: "/THOISU_CT/ChuM/MikeWilson_33"
 category: "Chính trị"
 lang: vi
 wordCount: 755

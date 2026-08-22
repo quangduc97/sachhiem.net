@@ -2,16 +2,16 @@
 layout: ../../../layouts/Article.astro
 title: "NHỮNG THẮC MẮC CẦN ĐƯỢC GIẢI ĐÁP"
 author: "Trần Chung Ngọc"
-source: "https://sachhiem.net/TCN/TCNts/TCNts19.php"
+source: "/TCN/TCNts/TCNts19"
 lang: vi
 wordCount: 5366
-image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nha.jpg"
+image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/THOISU_CT/Hinh/CCCB/bieutinhoNY.jpg"
 ---
 
 <p class="Tuaduoi">Thắc Mắc Về Thời Sự: Lá Cờ Vàng Ba Sọc Đỏ</p>
 
   
- <p align="center"><a href="/index"><img hspace="20" border="0" src="https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nha.jpg"></a>ngày 06 tháng 5, 2008</p>
+ <p align="center">ngày 06 tháng 5, 2008</p>
  <p>toàn tập:</p>
  
  <hr align="left" width="60%">

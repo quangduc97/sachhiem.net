@@ -3,7 +3,7 @@ layout: ../../../layouts/Article.astro
 title: "Mục Sư Robert Dell Ở Florida Bị Cáo Buộc Cầm Đầu Đường Dây Trộm Cắp Ở Những Cửa Hàng Bán Lẻ"
 author: "Anh Nguyễn"
 date: 2023-10-09
-source: "https://sachhiem.net/TONGIAO/FB/FBAnhNguyen05.php"
+source: "/TONGIAO/FB/FBAnhNguyen05"
 category: "Chính trị"
 lang: vi
 wordCount: 446

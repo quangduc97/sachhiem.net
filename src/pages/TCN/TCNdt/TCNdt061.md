@@ -3,15 +3,15 @@ layout: ../../../layouts/Article.astro
 title: "Chuyện Vui Trong Tháng:"
 author: "Trần Chung Ngọc"
 date: 2012-06-07
-source: "https://sachhiem.net/TCN/TCNdt/TCNdt061.php"
+source: "/TCN/TCNdt/TCNdt061"
 category: "Đối thoại"
 lang: vi
 wordCount: 7181
-image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nha.jpg"
+image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/TCN/Pict/TCNdt061_Tshirt.jpg"
 ---
 
 <table border="0" width="250" align="center">
-    <tbody><tr><td width="100"><a href="https://sachhiem.net/index.php"><img border="0" src="https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nha.jpg"></a>    </td>   
+    <tbody><tr><td width="100">    </td>   
     <td width="257"></td>
     </tr></tbody></table>
     <p><i>LTS: Thiên Chúa giáo La Mã đã thống trị bằng bạo lực gần như toàn thể
@@ -132,7 +132,7 @@ image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nha.jpg"
     <p>Đây là luận điệu chống Gót hay chỉ là bộ mặt thật của Gót.&nbsp; Chu Tất
       Tiến có đọc Cựu Ước không, chắc là không vì chẳng có mấy con chiên đọc
       Thánh Kinh.&nbsp; Nhưng nếu đã đọc thì phải biết là Richard Dawkins viết rất
-      chính xáxc, không sai một mảy may. Hãy đọc: <a href="https://sachhiem.net/TCN/TCNtg/3NGOI/TCN64_Cha.php">https://sachhiem.net/TCN/TCNtg/3NGOI/TCN64_Cha.php</a>,
+      chính xáxc, không sai một mảy may. Hãy đọc: <a href="/TCN/TCNtg/3NGOI/TCN64_Cha">https://sachhiem.net/TCN/TCNtg/3NGOI/TCN64_Cha.php</a>,
       trong đó tôi đã chứng minh đầy đủ những nhận định của Richard Dawkins về
       Gót bằng cách trích dẫn từng câu, từng chữ trong cuốn Cựu Ước.&nbsp; Có giỏi
       thì Chu Tất Tiến phản biện nhận định của Richard Dawkins xem nào.&nbsp; Nếu
@@ -217,7 +217,7 @@ image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nha.jpg"
         Người trong nước coi tác phẩm của Dương Ngọc Dũng thuộc loại “mì ăn liền”
         và sau khi Dương Ngọc Dũng phê bình một số tác giả viết trong cuốn “<i>Đối
         Thoại với Giáo Hoàng</i>…” và Giao Điểm phản biện bằng một cuốn sách
-        thì Nhà Nước đã bảo ông ta đừng có viết bậy thêm nữa. Xin đọc:&nbsp; <a href="https://sachhiem.net/TCN/TCNdt/TCNdt060.php">https://sachhiem.net/TCN/TCNdt/TCNdt060.php</a>.&nbsp;
+        thì Nhà Nước đã bảo ông ta đừng có viết bậy thêm nữa. Xin đọc:&nbsp; <a href="/TCN/TCNdt/TCNdt060">https://sachhiem.net/TCN/TCNdt/TCNdt060.php</a>.&nbsp;
         Nhưng một bài như vậy lại là bài “giáo dục nặng ký” đối với Chu Tất Tiến
         thì chúng ta biết ngay trình độ của Chu Tất Tiến ở mức nào.&nbsp; Cho nên,
         những từ như <i>"i-tờ-rít", “ngu ngốc” </i>thích hợp với

@@ -3,7 +3,7 @@ layout: ../../layouts/Article.astro
 title: "Ôi Các Trí Thức Dỏm:"
 author: "Trần Khách Quan"
 date: 2015-07-30
-source: "https://sachhiem.net/DOITHOAI/TranKhachQuan_03.php"
+source: "/DOITHOAI/TranKhachQuan_03"
 category: "Chính trị"
 lang: vi
 wordCount: 1056
@@ -39,12 +39,12 @@ image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/MISC/Trithuc.
     <p>_________________________</p>
     <p><b>Ghi chú:</b></p>
     <p><a name="_mot" href="/DOITHOAI/#mot"><b> [1]</b></a> - ĐỌC GIÁO SƯ TIẾN SĨ LỊCH SỬ PHẠM CAO DƯƠNG</p>
-   <p>  (<a href="https://sachhiem.net/THOISU_CT/ChuTr/TranKhachQuan_02.php">https://sachhiem.net/THOISU_CT/ChuTr/TranKhachQuan_02.php</a>) 14-Jul-2015</p>
+   <p>  (<a href="/THOISU_CT/ChuTr/TranKhachQuan_02">https://sachhiem.net/THOISU_CT/ChuTr/TranKhachQuan_02.php</a>) 14-Jul-2015</p>
    <p><a name="_hai" href="/DOITHOAI/#hai"><b> [2]</b></a> - CHÍNH DANH! NÓI VỚI TS LƯU NGUYỄN ĐẠT.</p>
-   <p>  (<a href="https://sachhiem.net/index.php?content=showemail&amp;id=995">https://sachhiem.net/index.php?content=showemail&amp;id=995</a>) 24 June 2015</p>
+   <p>  (<a href="/net/NMQ/NMQ54_VTh">https://sachhiem.net/index.php?content=showemail&amp;id=995</a>) 24 June 2015</p>
    <p class="TacgiaL">Khách Quan</p>
     <p>_________________________</p>
     <p><b>Bài đọc thêm:</b></p>
-    <p>1-&nbsp;<a href="https://sachhiem.net/NMQ/PCD/NMQ053.php">Việt Nam Có Độc Lập Tự Do Từ Chính Quyền Trần Trọng Kim Hay Không?</a>&nbsp; (Nguyễn Mạnh Quang) 18-Mar-2015</p>
+    <p>1-&nbsp;<a href="/NMQ/PCD/NMQ053">Việt Nam Có Độc Lập Tự Do Từ Chính Quyền Trần Trọng Kim Hay Không?</a>&nbsp; (Nguyễn Mạnh Quang) 18-Mar-2015</p>
     <p>2-&nbsp;<a href="https://news.zing.vn/Hinh-anh-ngay-Tet-Doc-lap-dau-tien-cua-Viet-Nam-post452013.html">Hình ảnh ngày Tết Độc lập đầu tiên của Việt Nam</a>&nbsp;-(Nguyễn Vũ, ảnh tư liệu)</p>
-    <p>3- <a href="https://sachhiem.net/NMQ/NMQ54_VTh.php">Vài Điểm Sai Lầm Trong Bài Viết: “CSVN Có Phải Là Một Chinh Quyền Chính Thức, Có Chính Danh Hay Không?” của LS Lưu Nguyễn Đạt"&nbsp;</a>(Nguyễn Mạnh Quang) 31-May-2015  </p>
+    <p>3- <a href="/NMQ/NMQ54_VTh">Vài Điểm Sai Lầm Trong Bài Viết: “CSVN Có Phải Là Một Chinh Quyền Chính Thức, Có Chính Danh Hay Không?” của LS Lưu Nguyễn Đạt"&nbsp;</a>(Nguyễn Mạnh Quang) 31-May-2015  </p>

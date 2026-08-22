@@ -2,7 +2,7 @@
 layout: ../../../layouts/Article.astro
 title: "Tiến trình bị mất đất"
 author: "Lữ Giang"
-source: "https://sachhiem.net/null"
+source: "/null"
 category: "Lịch sử"
 lang: vi
 wordCount: 4337

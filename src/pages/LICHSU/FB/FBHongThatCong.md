@@ -3,7 +3,7 @@ layout: ../../../layouts/Article.astro
 title: "Chủ Nghĩa Thực Dân Đã Truyền Cảm Hứng Cho Chủ Nghĩa Phát Xít Như Thế Nào?"
 author: "FB Hồng Thất Công"
 date: 2025-11-25
-source: "https://sachhiem.net/LICHSU/FB/FBHongThatCong.php"
+source: "/LICHSU/FB/FBHongThatCong"
 category: "Chính trị"
 lang: vi
 wordCount: 1615

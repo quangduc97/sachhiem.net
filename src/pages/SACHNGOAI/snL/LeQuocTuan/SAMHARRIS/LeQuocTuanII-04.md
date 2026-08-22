@@ -2,7 +2,7 @@
 layout: ../../../../../layouts/Article.astro
 title: "Sam Harris: Thư cho một quốc gia Ki-tô giáo"
 author: "Lê Quốc Tuấn chuyển ngữ"
-source: "https://sachhiem.net/null"
+source: "/null"
 category: "Tác giả"
 lang: vi
 wordCount: 7850

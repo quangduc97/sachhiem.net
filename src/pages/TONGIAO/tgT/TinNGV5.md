@@ -3,7 +3,7 @@ layout: ../../../layouts/Article.astro
 title: "Giáo Hoàng Phái Người Đến ChileĐiều Tra Giám Mục Bao Che Ấu Dâm"
 author: "Tin Người Việt"
 date: 2018-02-01
-source: "https://sachhiem.net/TONGIAO/tgT/TinNGV5.php"
+source: "/TONGIAO/tgT/TinNGV5"
 category: "Chính trị"
 lang: vi
 wordCount: 811

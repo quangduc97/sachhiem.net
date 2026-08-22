@@ -2,11 +2,11 @@
 layout: ../../../layouts/Article.astro
 title: "Uỷ ban Công lý và Hoà bình chứa “ẩn ý”?"
 author: "Trần Điều"
-source: "https://sachhiem.net/null"
+source: "/null"
 category: "Tác giả"
 lang: vi
 wordCount: 859
-image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nha.jpg"
+image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/IMG/LINHMUC/GMNguyenThaiHop.jpg"
 ---
 
 <div align="center">
@@ -24,8 +24,7 @@ image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nha.jpg"
 <tr> <td width="100%"> 
 		<div style="padding-left: 40px; padding-right: 40px">
 		<table border="0" cellpadding="10" width="600" cols="2"><tbody><tr>
-		<td width="320"><a href="/index">
-		<img border="0" src="https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nha.jpg"></a></td>
+		<td width="320"></td>
 	<td valign="top">	
 	<p>02 tháng 11, 2010
 	</p></td></tr></tbody></table>

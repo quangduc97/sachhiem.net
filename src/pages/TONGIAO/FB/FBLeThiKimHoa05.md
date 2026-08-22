@@ -3,7 +3,7 @@ layout: ../../../layouts/Article.astro
 title: "Để Công Chúng Có Thể Nhận Diện Nếu Họ Là Tội Phạm Tình Dục."
 author: "James Reynolds/ Lê Thị Kim Hoa"
 date: 2022-12-16
-source: "https://sachhiem.net/TONGIAO/FB/FBLeThiKimHoa05.php"
+source: "/TONGIAO/FB/FBLeThiKimHoa05"
 category: "Tác giả"
 lang: vi
 wordCount: 555

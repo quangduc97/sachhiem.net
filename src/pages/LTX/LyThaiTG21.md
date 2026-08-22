@@ -3,15 +3,13 @@ layout: ../../layouts/Article.astro
 title: "Cha Đẻ Của Chế Độ Ngô Đình Diệm: Giám Mục Ngô Đình Thục"
 author: "Theo Boston Globe"
 date: 1933-08-09
-source: "https://sachhiem.net/LTX/LythaiTG21.php"
+source: "/LTX/LythaiTG21"
 category: "Tác giả"
 lang: vi
 wordCount: 29858
-image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nha.jpg"
+image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/TONGIAO/IMG/NGODTHUC/clip_image002.jpg"
 ---
 
-<p align="center"><a href="https://www.sachhiem.net/">
-<img border="0" src="https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nha.jpg"></a> </p> 
 <p><span class="First">N</span></p>
 <p>1. </p>
 <h1>Phêrô Máctinô Ngô Đình Thục</h1>

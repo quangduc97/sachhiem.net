@@ -3,7 +3,7 @@ layout: ../../../layouts/Article.astro
 title: "Ca Dao, Tục Ngữ Ca-Tô"
 author: "Trần Quang Lộc (sưu tầm)"
 date: 2013-07-04
-source: "https://sachhiem.net/VANHOC/TQLOC/TranQuangLoc3g.php"
+source: "/VANHOC/TQLOC/TranQuangLoc3g"
 category: "Văn hóa"
 lang: vi
 wordCount: 12406

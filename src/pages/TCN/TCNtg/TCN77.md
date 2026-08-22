@@ -2,10 +2,10 @@
 layout: ../../../layouts/Article.astro
 title: "[An index of Catholicism's decline]"
 author: "Người dịch: Trần Chung Ngọc"
-source: "https://sachhiem.net/TCN/TCNtg/TCN77.php"
+source: "/TCN/TCNtg/TCN77"
 lang: en
 wordCount: 2845
-image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nha.jpg"
+image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/SACHNGOAI/Hinhanh/PEOPLE/BUCHANAN.jpg"
 ---
 
 <p class="Tuaduoi">MỘT CHỈ SỐ VỀ SỰ SUY THOÁI CỦA CÔNG GIÁO </p>
@@ -13,7 +13,7 @@ image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nha.jpg"
 		<p class="Tuaduoi">Patrick J. Buchanan</p>
 		
 
-<p align="center"> <a href="/index"><img border="0" src="https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nha.jpg" align="middle" hspace="20"></a>  ngày 10 tháng 7, 2009</p>
+<p align="center">   ngày 10 tháng 7, 2009</p>
 		<p class="TuaDenLeft">Lời Nói Đầu Của Người Dịch:</p>
 		<div style="padding-left: 100px">
 			ÂU CHÂU, TRONG NHIỀU THẾ KỶ LÀ CÁI NÔI CỦA CHƯƠNG TRÌNH TRUYỀN GIÁO 

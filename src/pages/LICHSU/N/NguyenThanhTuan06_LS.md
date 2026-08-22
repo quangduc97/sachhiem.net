@@ -3,7 +3,7 @@ layout: ../../../layouts/Article.astro
 title: "Tuyên ngôn Độc lập – Bản hùng ca bất diệt của dân tộc Việt Nam"
 author: "TT. Nguyễn Thanh Tuấn"
 date: 2025-08-30
-source: "https://sachhiem.net/LICHSU/N/NguyenThanhTuan06_LS.php"
+source: "/LICHSU/N/NguyenThanhTuan06_LS"
 category: "Lịch sử"
 lang: vi
 wordCount: 1350

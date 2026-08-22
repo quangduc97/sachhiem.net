@@ -3,7 +3,7 @@ layout: ../../../layouts/Article.astro
 title: "[VATICANOLOGY] - Hồng Y Nguyễn Văn Thuận, Người Lính Xung Kích Của Chính Quyền Vatican Trên Tuyến Đầu Chống Cộng"
 author: "Minh Thạnh"
 date: 2024-06-03
-source: "https://sachhiem.net/TONGIAO/tgM/MinhThanh37_05_B4.php"
+source: "/TONGIAO/tgM/MinhThanh37_05_B4"
 category: "Chính trị"
 lang: vi
 wordCount: 6233

@@ -3,7 +3,7 @@ layout: ../../../layouts/Article.astro
 title: "Xã Hội Kinh Hoàng"
 author: "Quốc Việt"
 date: 2013-03-26
-source: "https://sachhiem.net/XAHOI/xhQ/QuocViet0.php"
+source: "/XAHOI/xhQ/QuocViet0"
 category: "Chính trị"
 lang: vi
 wordCount: 5156
@@ -13,7 +13,7 @@ image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/XAHOI/IMG/UK/beer_st
 <p class="Tuaduoi">- Gửi Ông Bắc Kỳ  Di Cư CTT</p>
   
   
-  <p><i>LTS:  Xin xem các bài liên hệ liệt kê ở dưới thư của Quốc Việt. Bắt đầu bằng bài của <a href="https://sachhiem.net/index.php?content=showemail&amp;id=260">Võ Khánh Linh viết phản hồi GS Tương Lai (1)</a>, sau đó là <a href="https://sachhiem.net/index.php?content=showemail&amp;id=261">thư của ông Chu Tất Tiến (2)</a>, và cuối cùng là thư Quốc Việt gửi cho ông Chu Tất Tiến (3). (SH)</i></p>
+  <p><i>LTS:  Xin xem các bài liên hệ liệt kê ở dưới thư của Quốc Việt. Bắt đầu bằng bài của <a href="/hop-thu/260">Võ Khánh Linh viết phản hồi GS Tương Lai (1)</a>, sau đó là <a href="/net/XAHOI/xhQ/QuocViet0">thư của ông Chu Tất Tiến (2)</a>, và cuối cùng là thư Quốc Việt gửi cho ông Chu Tất Tiến (3). (SH)</i></p>
   <p> <span class="green"> (3)</span> </p>
   <p><span class="First">C</span>hào ông Chu Tất Tiến,</p>
 <p>
@@ -300,7 +300,7 @@ image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/XAHOI/IMG/UK/beer_st
 <p class="TacgiaL">
  Võ  Khánh Linh </p>
 
-<p> (SH:   có đăng ở <a href="https://vokhanhlinh98.blogspot.com/2013/03/ong-gs-tuong-lai-co-suy-thoai-khong.html">https://vokhanhlinh98.blogspot.com/2013/03/ong-gs-tuong-lai-co-suy-thoai-khong.html</a>, <a href="https://sachhiem.net/index.php?content=showemail&amp;id=260">https://sachhiem.net/index.php?content=showemail&amp;id=260</a>) </p>
+<p> (SH:   có đăng ở <a href="https://vokhanhlinh98.blogspot.com/2013/03/ong-gs-tuong-lai-co-suy-thoai-khong.html">https://vokhanhlinh98.blogspot.com/2013/03/ong-gs-tuong-lai-co-suy-thoai-khong.html</a>, <a href="/hop-thu/260">https://sachhiem.net/index.php?content=showemail&amp;id=260</a>) </p>
 
 <p><b>Tham khảo:</b></p>
 <p> <a name="end1" href="/XAHOI/#one">(1)</a> <a href="https://xuandienhannom.blogspot.com/2013/02/gs-tuong-lai-thu-ngo-gui-ong-tbt-nguyen.html"> GS Tương Lai: Thư Ngỏ Gửi Ông Nguyễn Phú Trọng, Tổng Bí Thư Bch Đảng Cộng Sản VN</a></p>

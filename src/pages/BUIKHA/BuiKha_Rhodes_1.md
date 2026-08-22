@@ -3,7 +3,7 @@ layout: ../../layouts/Article.astro
 title: "ALEXANDRE DE RHODES & VẤN ĐỀ CHỮ QUỐC NGỮ"
 author: "Bùi Kha"
 date: 2018-07-12
-source: "https://sachhiem.net/BUIKHA/BuiKha_Rhodes_1.php"
+source: "/BUIKHA/BuiKha_Rhodes_1"
 category: "Lịch sử"
 lang: vi
 wordCount: 5199

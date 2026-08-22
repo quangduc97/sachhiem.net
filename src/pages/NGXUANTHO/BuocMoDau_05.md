@@ -3,18 +3,17 @@ layout: ../../layouts/Article.astro
 title: "Bước Mở Đầu Của Sự Thiết Lập Hệ Thống Thuộc Địa Pháp Ở Việt Nam"
 author: "TS Nguyễn Xuân Thọ"
 date: 2023-02-13
-source: "https://sachhiem.net/NGXUANTHO/BuocMoDau_05.php"
+source: "/NGXUANTHO/BuocMoDau_05"
 category: "Lịch sử"
 lang: vi
 wordCount: 4077
-image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nha.jpg"
+image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/sqdot.gif"
 ---
 
 <p class="Tuaduoi">Nhận Xét Về <b>Hiệp Ước 1862</b></p>
 
 
-  <p align="center"><a href="https://www.sachhiem.net/">
-<img border="0" src="https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nha.jpg"></a>| <a target="_blank" href="https://sachhiem.net/NGXUANTHO/BuocMoDau_Main.php"><span lang="en-us"><b><font face="Symbol">¿</font></b></span> trở ra mục lục</a>| 13-Feb-2023</p> 
+  <p align="center">| <a target="_blank" href="/NGXUANTHO/BuocMoDau_Main"><span lang="en-us"><b><font face="Symbol">¿</font></b></span> trở ra mục lục</a>| 13-Feb-2023</p> 
 <p class="TuaDoLeft"><b>Chương 4&nbsp;- Hiệp Ước 1862 Dưới Nhận Xét Của Paris, Madrid Và  Huế</b></p>
 <p>Hiệp ước vừa ký kết thừa nhận sự hiện diện của Pháp tại Việt Nam. Chánh phủ đế chế Pháp do dự nhiều về đường lối chính trị nên theo ở Nam kỳ, tham khảo ý kiến của Đô đốc Bonard. Bonard gửi cho chánh phủ một bản tường trình, trong đó ông ta phân tích:</p>
 <div class="indent50">

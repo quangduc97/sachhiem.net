@@ -3,7 +3,7 @@ layout: ../../../layouts/Article.astro
 title: "Một Phúc Trình Mới Cho Thấy Áp Lực Bài Kitô Giáo Ở Nam Và Đông Nam Châu Á Đang Gia Tăng"
 author: "Vũ Văn An/ Vietcatholic News"
 date: 2017-01-13
-source: "https://sachhiem.net/TONGIAO/tgT/TinVietCat_02.php"
+source: "/TONGIAO/tgT/TinVietCat_02"
 category: "Chính trị"
 lang: vi
 wordCount: 1736

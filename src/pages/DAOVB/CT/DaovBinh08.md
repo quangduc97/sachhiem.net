@@ -3,7 +3,7 @@ layout: ../../../layouts/Article.astro
 title: "Những Tình Huống Trung Quốc Tấn Công Việt Nam"
 author: "Đào Văn Bình"
 date: 2013-11-25
-source: "https://sachhiem.net/index.php?content=showrecipe&id=5816"
+source: "/DAOVB/CT/DaovBinh08"
 category: "Chính trị"
 lang: vi
 wordCount: 2707
@@ -57,4 +57,4 @@ image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/THOISU_CT/Hinh/CHINA
 <p>
  <i>(California ngày 22/11/2013)</i></p>
  <p>____________________</p>
-   <p><a href="https://sachhiem.net/LICHSU/H/HoangSa_list.php">Các bài về Hoàng Sa- Trường Sa đăng trên sachhiem.net » </a></p>
+   <p><a href="/LICHSU/H/HoangSa_list">Các bài về Hoàng Sa- Trường Sa đăng trên sachhiem.net » </a></p>

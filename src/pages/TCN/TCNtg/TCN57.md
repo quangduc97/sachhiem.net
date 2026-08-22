@@ -2,13 +2,13 @@
 layout: ../../../layouts/Article.astro
 title: "MỘT BẢN ÁN CHỐNG CÔNG GIÁO"
 author: "Trần Chung Ngọc"
-source: "https://sachhiem.net/TCN/TCNtg/TCN57.php"
+source: "/TCN/TCNtg/TCN57"
 lang: vi
 wordCount: 20356
-image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nha.jpg"
+image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/SACHNGOAI/Hinhanh/BIASACH/DeceptionsMyths.jpg"
 ---
 
-<p align="center"> <a href="/index"><img border="0" src="https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nha.jpg" align="middle" hspace="20"></a> ngày 01 tháng 11, 2008</p>
+<p align="center">  ngày 01 tháng 11, 2008</p>
 	<p class="Tuaduoi">CHÚNG TA CÓ THỂ THA THỨ CHO 7 NÚI TỘI ÁC </p>
 	<p class="Tuaduoi">CỦA GIÁO HỘI CÔNG GIÁO KHÔNG? </p>
 	<p><i>Vài Lời Nói Đầu: </i></p>
@@ -1257,7 +1257,7 @@ image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nha.jpg"
 	<p><b>Những điều khác biệt căn bản giữa hai tôn giáo lớn tại Việt Nam, Phật Giáo và Ki Tô Giáo</b></p>
 	<p>Ngoài ra, tuyệt đại đa số người dân Việt Nam, nhất là các Phật tử, cũng 
 	cần phải biết đến những điều khác biệt căn bản giữa hai tôn giáo lớn tại 
-	Việt Nam, Phật Giáo và Ki Tô Giáo. Xin đọc bài “<a href="https://sachhiem.net/TCN/TCNtg/TCN56.php">PHẬT GIÁO - KI TÔ GIÁO ĐỐI 
+	Việt Nam, Phật Giáo và Ki Tô Giáo. Xin đọc bài “<a href="/TCN/TCNtg/TCN56">PHẬT GIÁO - KI TÔ GIÁO ĐỐI 
 	CHIẾU QUA NHỮNG NHẬN ĐỊNH ĐIỂN HÌNH CỦA MỘT SỐ DANH NHÂN TRÍ THỨC THẾ GIỚI</a>” 
 	[ https://sachhiem.net/TCN/TCNtg/TCN56.php]. Hi vọng những tài liệu này sẽ giúp 
 	cho người dân ít nhiều vốn liếng trong bất cứ một cuộc đối thoại nào với các 
@@ -1319,7 +1319,7 @@ image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nha.jpg"
 	<p>Trái lại, Công Giáo du nhập vào Việt Nam qua giới cùng đinh thất học bằng 
 	những phương pháp truyền đạo xảo quyệt, đượm màu mê tín hoang đường, thí dụ 
 	như của thừa sai Alexandre de Rhodes [Xin đọc bài
-	<a href="https://sachhiem.net/TCN/TCNtg/TCN50.php">Di Hại Của “Nền Đạo Lý 
+	<a href="/TCN/TCNtg/TCN50">Di Hại Của “Nền Đạo Lý 
 	Thiên-La Đắc-Lộ”: Nhân Đọc Cuốn “Hành Trình Và Truyền Giáo” Của Alexandre de 
 	Rhodes</a>” trên https://sachhiem.net/TCN/TCNtg/TCN50.php] xuyên tạc sự thật, và 
 	mạ lỵ, xâm phạm tới toàn bộ tín ngưỡng, đạo đức và cấu trúc văn hóa của xã 

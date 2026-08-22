@@ -26,7 +26,7 @@ image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nhacu.jpg"
 
 <blockquote>
 			<table border="0" cellpadding="10" width="85%" cols="2">
-				<tbody><tr><td valign="top" width="198"><a href="https://sachhiem.net/">
+				<tbody><tr><td valign="top" width="198"><a href="/">
 					<img border="0" src="https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nhacu.jpg" width="49" height="20"></a></td>
 					<td valign="top" style="text-align:right">23 tháng 11, 2008
 					</td></tr>

@@ -6,7 +6,7 @@ source: "https://vovnews.vn/Home/Nhung-viec-lam-xuc-pham-bieu-tuong-thieng-lieng
 category: "Tác giả"
 lang: vi
 wordCount: 3881
-image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nha.jpg"
+image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/IMG/DONGCHM/Choqua.jpg"
 ---
 
 <div align="center" style="position: relative; left: 0; top: 0">
@@ -25,8 +25,7 @@ image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nha.jpg"
 <tr><td width="100%">
 <div style="padding-left: 50px; padding-right: 50px"> 
 	<table border="0" cellpadding="1" width="86%" cols="2"><tbody><tr>
-	<td><a href="/index">
-	<img border="0" src="https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nha.jpg"></a></td>
+	<td></td>
 <td valign="top" width="210"><p>17 tháng 1, 2010	</p>
 			</td></tr></tbody></table>
 			<p><i>LTS:  Những mẫu chuyện "Thập Tự Chinh", chuyện Giáo Hoàng ở La Mã phân chia địa cầu này ra hai, một nửa cho  Bồ Đào Nha  và một nửa cho Tây Ban Nha vào thế kỷ 15, và hai nước này đi đến đâu đều có quyền chiếm hữu đất đai và bắt dân ở đó theo đạo và làm nô lệ,... đáng lẽ chỉ còn lại trong sách sử như những vết nhơ về mặt tôn giáo mà thôi.   
@@ -60,7 +59,7 @@ image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nha.jpg"
 	<a href="https://vietcatholic.net/News/Clients/ReadArticle.aspx?ID=75377">https://vietcatholic.net/News/Clients/ReadArticle.aspx?ID=75377</a>). </i></p>
 	<div style="padding: 10px; float: center;"><iframe style="width: 455px; height: 365px;" marginheight="0" marginwidth="0" src="https://vietcatholic.net/MediaPlayer/ShowVideo.aspx?url=DongChiemBithuKiemDiem.wmv" frameborder="0" scrolling="no"></iframe></div>
 		
-	<p><i>Cảnh tượng này không thấy ở các quốc gia dân chủ tân tiến. Và nếu có, thì người đó bị bắt giam. Xin xem bài "Ngáp ở Tòa Mỹ bị 6 tháng tù," của TS Trần Chung Ngọc: 	<a href="https://sachhiem.net/TCN/TCNts/TCNts043.php">https://sachhiem.net/TCN/TCNts/TCNts043.php</a><span lang="en-us">
+	<p><i>Cảnh tượng này không thấy ở các quốc gia dân chủ tân tiến. Và nếu có, thì người đó bị bắt giam. Xin xem bài "Ngáp ở Tòa Mỹ bị 6 tháng tù," của TS Trần Chung Ngọc: 	<a href="/TCN/TCNts/TCNts043">https://sachhiem.net/TCN/TCNts/TCNts043.php</a><span lang="en-us">
 	</span>&nbsp;</i></p>
 	<div align="center"><i>
 	<table border="0" width="300" id="table4" align="left" cellspacing="10" cellpadding="0">

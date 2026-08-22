@@ -3,7 +3,7 @@ layout: ../../../layouts/Article.astro
 title: "Phim Spotlight giải Oscar: Phát súng đầu tiên"
 author: "FB Du Nguyên"
 date: 2021-09-02
-source: "https://sachhiem.net/TONGIAO/FB/FBDuNguyen.php"
+source: "/TONGIAO/FB/FBDuNguyen"
 category: "Chính trị"
 lang: vi
 wordCount: 931
@@ -51,7 +51,7 @@ image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/TONGIAO/IMG/TINHDUC/
 <p class="indent50">(Show me just what Muhammad brought that was new, and there you will find things only evil and inhuman, such as his command to spread by the sword the faith he preached).  </p>
 <p>Và giáo hoàng JP II phê bình những người truyền giáo Tin Lành là <i>những con chó sói đói mồi</i>.</p>
 <p>Chuyện gần đây: Thủ tướng Canada kêu gọi Giáo Hoàng Francis xin lỗi vụ giáo hội CG trách nhiệm trong chuyện giết hàng ngàn trẻ em trong chính sách tiêu diệt văn hóa người Da Đỏ, nhưng giáo hoàng vẫn chạy tội im re không xin lỗi.</p>
-<p>Nguồn: <a href="https://www.sachhiem.net/TCN/TCNtg/TCN98.php">https://www.sachhiem.net/TCN/TCNtg/TCN98.php</a>;</p>
+<p>Nguồn: <a href="/TCN/TCNtg/TCN98">https://www.sachhiem.net/TCN/TCNtg/TCN98.php</a>;</p>
 <p><a href="https://tinyurl.com/355rh839">https://tinyurl.com/355rh839</a> </p>
 <p><img src="https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/sqdot.gif" width="10" height="10"></p>
 <p class="TacgiaL"> Du Nguyên</p>

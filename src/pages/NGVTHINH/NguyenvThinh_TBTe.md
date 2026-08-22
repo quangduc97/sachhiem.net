@@ -3,7 +3,7 @@ layout: ../../layouts/Article.astro
 title: "Thời Bi Tráng"
 author: "Nguyễn Văn Thịnh"
 date: 2016-12-24
-source: "https://sachhiem.net/NGVTHINH/NguyenvThinh_TBTe.php"
+source: "/NGVTHINH/NguyenvThinh_TBTe"
 category: "Văn hóa"
 lang: vi
 wordCount: 19235
@@ -503,6 +503,6 @@ image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/DECOR/number1
 <p align="center"> (trang 318)</p>
 
 
-  <p align="center"><a href="https://www.sachhiem.net/"> <img border="0" src="https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nha.jpg"></a> ngày 24-Dec-2016</p>
+  <p align="center"> ngày 24-Dec-2016</p>
  <p>_________________ </p>
-<p>•  Các bài của Nguyễn Văn Thịnh: link <a href="https://sachhiem.net/NGVTHINH/ListNVTh.inc.php" target="_blank">https://sachhiem.net/NGVTHINH/ListNVTh.inc.php</a></p>
+<p>•  Các bài của Nguyễn Văn Thịnh: link <a href="/NGVTHINH/ListNVTh.inc" target="_blank">https://sachhiem.net/NGVTHINH/ListNVTh.inc.php</a></p>

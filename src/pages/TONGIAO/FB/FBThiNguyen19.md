@@ -3,7 +3,7 @@ layout: ../../../layouts/Article.astro
 title: "Gương Bất Hiếu Của Giê-Su Trong Kinh Thánh"
 author: "Thi Nguyễn sưu tầm"
 date: 2023-09-17
-source: "https://sachhiem.net/TONGIAO/FB/FBThiNguyen19.php"
+source: "/TONGIAO/FB/FBThiNguyen19"
 category: "Chính trị"
 lang: vi
 wordCount: 1048

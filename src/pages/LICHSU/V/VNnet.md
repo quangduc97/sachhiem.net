@@ -6,7 +6,7 @@ source: "https://vietnamnet.vn/chinhtri/201010/Kham-pha-10-tran-danh-noi-tieng-l
 category: "Lịch sử"
 lang: vi
 wordCount: 1013
-image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nha.jpg"
+image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.devhttps://vietnamnet.vn/common/v3/images/vietnamnet.gif"
 ---
 
 <div align="center" style="position: relative; left: 0; top: 0">
@@ -23,8 +23,7 @@ image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nha.jpg"
 <tr> <td width="100%"> 
 <div style="padding-left: 50px; padding-right: 50px">
 <table border="0" cellpadding="10" width="100%" cols="3"><tbody><tr>
-<td width="389"><a href="/index">
-<img border="0" src="https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nha.jpg"></a></td>
+<td width="389"></td>
 <td valign="top">	17 tháng 10, 2010	</td></tr></tbody></table>
 <div id="date" class="content_date">
 	Cập nhật lúc 05:39, Thứ Ba, 05/10/2010 (GMT+7)</div>

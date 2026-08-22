@@ -3,18 +3,17 @@ layout: ../../layouts/Article.astro
 title: "Bước Mở Đầu Của Sự Thiết Lập Hệ Thống Thuộc Địa Pháp Ở Việt Nam"
 author: "TS Nguyễn Xuân Thọ"
 date: 2023-02-13
-source: "https://sachhiem.net/NGXUANTHO/BuocMoDau_06.php"
+source: "/NGXUANTHO/BuocMoDau_06"
 category: "Lịch sử"
 lang: vi
 wordCount: 7412
-image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nha.jpg"
+image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/LICHSU/IMG/SuVN/VuaTuDuc.jpg"
 ---
 
 <p class="Tuaduoi"> <b>Phản Ứng Của Nhân Dân </b></p>
 
 
-  <p align="center"><a href="https://www.sachhiem.net/">
-<img border="0" src="https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nha.jpg"></a>| <a target="_blank" href="https://sachhiem.net/NGXUANTHO/BuocMoDau_Main.php"><span lang="en-us"><b><font face="Symbol">¿</font></b></span> trở ra mục lục</a>| 13-Feb-2023</p>
+  <p align="center">| <a target="_blank" href="/NGXUANTHO/BuocMoDau_Main"><span lang="en-us"><b><font face="Symbol">¿</font></b></span> trở ra mục lục</a>| 13-Feb-2023</p>
   <div class="tomluoc">
     <p> <i>Các giáo sĩ cho rằng họ phải có mặt ở mọi nơi, họ cần phải nói tiếng nói của họ mọi nơi, họ phải được người ta đặt cho họ lên hàng đầu ở mọi nơi. Thực tế là họ có mặt trong mọi chuyện rối ren phức tạp, trong mọi tình huống căng thẳng giữa nước Pháp với Việt Nam. [Chỉ huy trưởng Bonard]</i></p>
   </div>

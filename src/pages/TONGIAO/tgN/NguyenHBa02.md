@@ -2,14 +2,14 @@
 layout: ../../../layouts/Article.astro
 title: "HÔN NHÂN VÀ TÔN GIÁO"
 author: "Nguyễn Hữu Ba"
-source: "https://sachhiem.net/TONGIAO/tgN/NguyenHBa02.php"
+source: "/TONGIAO/tgN/NguyenHBa02"
 category: "Tác giả"
 lang: vi
 wordCount: 16024
-image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nha.jpg"
+image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/TONGIAO/IMG/Damcuoi.jpg"
 ---
 
-<p align="center"><a href="https://www.sachhiem.net/"> <img border="0" src="https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nha.jpg"></a> 17 tháng 10, 2009	</p>
+<p align="center"> 17 tháng 10, 2009	</p>
  <p><i>LTS: Cho đến ngày nay, vấn đề hôn nhân với người Công giáo vẫn là một việc "không vui" cho những gia đình bên lương người Việt Nam. Thời xưa, ông bà ta vẫn nói "con gái là con người ta, con dâu mới thực mẹ cha mang về". Trong những ngày xưa đó, gả con gái là ngày tiễn biệt con đi xứ lạ, là giao số phận con mình cho gia đình lạ, may thì con nhờ, rủi thì con chịu. Do đó mới có những giọt nước mắt trong ngày Vu Qui. Trái lại, nếu gia đình có con trai thì có thêm người hầu hạ, lo lắng việc nhà. Dù sao, hai việc được mất này cũng quân bình nhau nhất là gia đình có cả trai lẫn gái. Nhưng từ khi có đạo Công Giáo xâm nhập, những gia đình bên lương dù có con gái hay con trai, vẫn là người bị "mất con", mất cả tư tưởng và tập quán, phong tục truyền thống của ông bà. Con gái thì "theo chồng" đi đạo, và con trai thì "theo vợ" đi nhà thờ! Cái tôn giáo trịch thượng này không hề đối xử công bằng với ai cả. 
 		<b>Tự do tôn giáo của họ là "Công Giáo là hơn, Công Giáo phải được độc tôn"</b>. Bài viết này đã được đăng trên tạp chí Giao Điểm số 52, và cũng đã đăng trên giaodiem.com, trang nghiên cứu và đối thoại tháng 1-2004 (nay đã bị xóa). Vì bản chất vấn đề vẫn còn thời sự, sachhiem.net xin được đăng lại nơi đây. Bài được phân mục như sau:<span lang="en-us">
 		</span>-Đôi lời của tác giả.  -  Các nguyên nhân đổi đạo - Giá trị tôn giáo - Những tội ác của Công Giáo đối với nhân loại - Vài Ý kiến đề nghị</i>.</p>
@@ -1177,4 +1177,4 @@ Cải Đạo (Trần Chung Ngọc) </a></p>
 <p><a href="/tgM/MinhThanh04">“Lập lờ đánh lận”… ông trời! (Minh Thạnh)</a></p>
 
 ___________________
-<p>Các bài của Nguyễn Hữu Ba: link <a href="https://sachhiem.net/TONGIAO/tgN/ListNHBa.inc.php" target="_blank">https://sachhiem.net/TONGIAO/tgN/ListNHBa.inc.php</a></p>
+<p>Các bài của Nguyễn Hữu Ba: link <a href="/TONGIAO/tgN/ListNHBa.inc" target="_blank">https://sachhiem.net/TONGIAO/tgN/ListNHBa.inc.php</a></p>

@@ -2,15 +2,14 @@
 layout: ../../../layouts/Article.astro
 title: "Một hoạt cảnh tưởng niệm Chân phước Anrê Phú Yên ngày 27/7/2026"
 author: "Lê thị Kim Hoa"
-source: "https://sachhiem.net/TONGIAO/FB/FBLeThiKimHoa17.php"
+source: "/TONGIAO/FB/FBLeThiKimHoa17"
 category: "Tác giả"
 lang: vi
 wordCount: 774
-image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nha.jpg"
+image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/TONGIAO/IMG/CHONG_CQ/GX_CacThanhTuDao_BinhThuan.jpg"
 ---
 
-<p align="center"><a href="http://www.sachhiem.net/">
-<img border="0" src="https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nha.jpg"></a> 
+<p align="center"> 
 15 Aug 2026</p>
  <div class="tomluoc">
    <p><i>Hoạt cảnh diễn lại cảnh xử lý tôn giáo ở Đàng Trong bởi các chúa Nguyễn, nhưng  binh sĩ thì lại đội nón có hình cờ đỏ sao vàng! </i></p>

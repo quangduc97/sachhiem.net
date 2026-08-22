@@ -3,7 +3,7 @@ layout: ../../../layouts/Article.astro
 title: "Tác Nhân"
 author: "Minh Châu/ Sài Gòn Online"
 date: 2014-09-10
-source: "https://sachhiem.net/THOISU_CT/ChuT/TinSGOL.php"
+source: "/THOISU_CT/ChuT/TinSGOL"
 category: "Chính trị"
 lang: vi
 wordCount: 823

@@ -1,7 +1,7 @@
 ---
 layout: ../../layouts/Article.astro
 title: "Sách ngoại quốc"
-source: "https://sachhiem.net/null"
+source: "/null"
 lang: vi
 wordCount: 2385
 ---

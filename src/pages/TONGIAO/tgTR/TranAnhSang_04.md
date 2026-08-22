@@ -3,7 +3,7 @@ layout: ../../../layouts/Article.astro
 title: "Học Lại Bài Tuyên Ngôn Độc Lập Việt Nam"
 author: "Trần Ánh Sáng"
 date: 2017-12-08
-source: "https://sachhiem.net/TONGIAO/tgTR/TranAnhSang_04.php"
+source: "/TONGIAO/tgTR/TranAnhSang_04"
 category: "Chính trị"
 lang: vi
 wordCount: 2980

@@ -3,7 +3,7 @@ layout: ../../../layouts/Article.astro
 title: "Hồ Sơ Tố Cáo Linh Mục Ở Pennsylvania Xâm Phạm Tình Dục"
 author: "By Trip Gabriel/ NYTimes"
 date: 2014-10-02
-source: "https://sachhiem.net/TONGIAO/tgC/Caohtam17.php"
+source: "/TONGIAO/tgC/Caohtam17"
 category: "Tác giả"
 lang: vi
 wordCount: 1789
@@ -22,7 +22,7 @@ image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/TONGIAO/IMG/TINHDUC/
     <p>Linh mục Maurizio đi thăm  các viện mồ côi hàng chục năm qua cho đến năm 2009 khi tổ chức từ thiện ở bang Virginia tố cáo  Cha Maurizio về tội lạm dụng tình  dục và đã trình lên cho giáo phận Altoona-Johnstown  theo như cáo buộc hình sự của nhóm đó.</p>
     <p>Tuy thế, Cha Maurizio vẫn  làm linh mục của giáo xứ Our Lady Queen of Angels thuộc thành phố Central, Pa., cho đến khi  viên chức liên bang đến khám nhà xứ  của ông ta và nhà thờ của ông ta mang đi máy tính, đĩa cứng và những thíêt bị vi tính.</p>
     <p>Một nhà họat động chuyên về  mạng lưới các cha lạm dụng tình dục đã tố cáo nhiều tháng qua, trước khi ông ta bị bắt, với giám  mục Mark L. Bartchak và người tiền  nhiệm của ông là Joseph V. Aramec, những người đã làm ngơ nhiều năm qua, Bà Anne Barrett, đồng giám đốc  trang mạng BishopAccountability.org&nbsp;cho bíêt <i>"sự  dửng dưng của  họ thật rất đáng buồn.</i>" </p>
-    <p>Sự làm ngơ lâu dài của Giáo hội Công giáo La mã về  tai họa ấu dâm đã dẫn đến việc bắt giữ  đại sứ tòa thánh ở Cộng Hòa Dominican (xem <a href="https://sachhiem.net/index.php?content=showrecipe&amp;id=6110">Cựu Nhân Viên Ngoại Giao Của Vatican Có Thể Bị Xét Xử</a>). Giáo Hoàng Francis đã đổi giọng sẽ không làm ngơ tội lạm dụng tình dục của các tu sĩ đối với trẻ em. </p>
+    <p>Sự làm ngơ lâu dài của Giáo hội Công giáo La mã về  tai họa ấu dâm đã dẫn đến việc bắt giữ  đại sứ tòa thánh ở Cộng Hòa Dominican (xem <a href="/TONGIAO/tgS/SH57">Cựu Nhân Viên Ngoại Giao Của Vatican Có Thể Bị Xét Xử</a>). Giáo Hoàng Francis đã đổi giọng sẽ không làm ngơ tội lạm dụng tình dục của các tu sĩ đối với trẻ em. </p>
     <p>Tối Cáo Pháp Viện ở Pennsylvania đang xem lại vụ án viên chức cao cấp của Giáo Hội La-mã bị kết án liên quan đến vi phạm tình dục với trẻ con, Giám mục William J. Lynn, bản kết án của ông được bãi bỏ năm trước (2012.)</p>
     <p>Cha Maurizio, 69 tuổi, theo như bản tin của tổ chức thiện  nguyện mà ông làm chủ, hàng năm thường đi đến các nước Honuras, Nicaragua và các nước Trung Mỹ để giúp các trẻ em mồ côi. Những nhà điều tra cho biết ông còn có một mục tiêu khác: đó là <b>du lịch tình  dục</b>.</p>
     <p align="center"><iframe width="427" height="255" src="//www.youtube.com/embed/G5rz0yrxqj8" frameborder="0" allowfullscreen=""></iframe></p>

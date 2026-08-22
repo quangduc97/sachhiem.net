@@ -3,7 +3,7 @@ layout: ../../../layouts/Article.astro
 title: "[VATICANOLOGY] Ky Tô Hữu Lại Giết Nhau -"
 author: "Minh Thạnh"
 date: 2022-03-02
-source: "https://sachhiem.net/TONGIAO/tgM/MinhThanh22.php"
+source: "/TONGIAO/tgM/MinhThanh22"
 category: "Chính trị"
 lang: vi
 wordCount: 2363

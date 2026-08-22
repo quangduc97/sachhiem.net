@@ -3,7 +3,7 @@ layout: ../../../layouts/Article.astro
 title: "Bài Học Về Giới Hạn Của Tự Do Ngôn Luận tại Mỹ"
 author: "Stephen Battaglio/ LAT"
 date: 2015-12-09
-source: "https://sachhiem.net/THOISU_CT/SH/HaiAu_03.php"
+source: "/THOISU_CT/SH/HaiAu_03"
 category: "Chính trị"
 lang: vi
 wordCount: 462

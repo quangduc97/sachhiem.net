@@ -2,7 +2,7 @@
 layout: ../../layouts/Article.astro
 title: "CHƯƠNG 2:"
 author: "Cao Huy Thuần"
-source: "https://sachhiem.net/Trích \"Đạo Thiên Chúa và Chủ Nghĩa Thực Dân tại Việt Nam\" nxb. Hương Quê 1988 PHẦN I: Đạo Thiên Chúa Và Sự Xâm Lăng Nam Kỳ - (MT đánh máy gửi SH)."
+source: "/Trích \"Đạo Thiên Chúa và Chủ Nghĩa Thực Dân tại Việt Nam\" nxb. Hương Quê 1988 PHẦN I: Đạo Thiên Chúa Và Sự Xâm Lăng Nam Kỳ - (MT đánh máy gửi SH)."
 category: "Tác giả"
 lang: vi
 wordCount: 26470

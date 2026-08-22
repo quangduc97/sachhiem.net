@@ -7001,7 +7001,7 @@ Gửi bài này cho bạn bè</a></td>
 		<p> Về nguồn gốc của mãnh 
 		đất này, xin bà con đọc thêm các tài liệu chi tiết đã được đăng trên các 
 		trang
-		<a href="https://www.giaodiemonline.com/">www.giaodiemonline.com</a> và &nbsp;<a href="https://www.sachhiem.net/">www.sachhiem.net</a> (hải ngọai) hay
+		<a href="https://www.giaodiemonline.com/">www.giaodiemonline.com</a> và &nbsp;<a href="/">www.sachhiem.net</a> (hải ngọai) hay
 		<a href="https://www.phattuvietnam.net/">www.phattuvietnam.net</a> (quốc nội) để 
 		tận tường; tui khỏi phải nhắc lại ở đây.</p>
 		

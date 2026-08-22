@@ -3,7 +3,7 @@ layout: ../../../layouts/Article.astro
 title: "Cái Nhìn Nhanh Về Ca Nhạc Trước 1975"
 author: "Trần Trọng Sỹ"
 date: 2017-05-08
-source: "https://sachhiem.net/TTS/VH/TranTrongSy_vh3.php"
+source: "/TTS/VH/TranTrongSy_vh3"
 category: "Văn hóa"
 lang: vi
 wordCount: 3350
@@ -77,4 +77,4 @@ image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/VANHOC/Hinh/NHAC/Cas
 <p>     Bài này không có mục đích tán dương chế độ hiện  tại, trước khi mà nạn tham nhũng còn nhan nhãn như cào cào châu chấu bay loạn xạ  khắp đất nước.</p>
  <p class="TacgiaL">Trần Trọng Sỹ </p>
  ___________________
-<p>Các bài của Trần Trọng Sỹ: link <a href="https://sachhiem.net/TTS/ListTTS.inc.php" target="_blank">https://sachhiem.net/TTS/ListTTS.inc.php</a></p>
+<p>Các bài của Trần Trọng Sỹ: link <a href="/TTS/ListTTS.inc" target="_blank">https://sachhiem.net/TTS/ListTTS.inc.php</a></p>

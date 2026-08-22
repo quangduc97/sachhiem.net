@@ -3,7 +3,7 @@ layout: ../../../layouts/Article.astro
 title: "Ủy Ban Công Lý và Hòa Bình"
 author: "Nguyễn Trọng Nghĩa"
 date: 2016-08-19
-source: "https://sachhiem.net/TONGIAO/tgN/NgTnghia_ConglyHB.php"
+source: "/TONGIAO/tgN/NgTnghia_ConglyHB"
 category: "Tác giả"
 lang: vi
 wordCount: 1435

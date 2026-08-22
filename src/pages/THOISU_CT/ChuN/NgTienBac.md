@@ -3,14 +3,14 @@ layout: ../../../layouts/Article.astro
 title: "Cơ Hội Cho Những Con Ngựa Thành Troy"
 author: "Nguyễn Tiến Bắc"
 date: 2015-08-07
-source: "https://sachhiem.net/THOISU_CT/ChuN/NgTienBac.php"
+source: "/THOISU_CT/ChuN/NgTienBac"
 category: "Chính trị"
 lang: vi
 wordCount: 1513
-image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nha.jpg"
+image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/VANHOC/Hinh/TROY/trojan_horse_canakkale_turkey.jpg"
 ---
 
-<p align="center"><a href="https://www.sachhiem.net/"> <img border="0" src="https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nha.jpg"></a> ngày 07-Aug-2015</p>
+<p align="center"> ngày 07-Aug-2015</p>
   <div class="tomluoc">
     <p><i>Trước thềm của Đại hội XII, những người yêu nước-bất đồng chính kiến” tìm cách gây ra nghi ngờ vào tiến trình Đại hội.... Tất cả những gì diễn ra trong cuộc thăm HK của TBT Nguyễn phú Trọng đơn giản chỉ là một sự thật: Hai bên đã thật sự tôn trọng lẫn nhau và vì lợi ích của hai quốc gia, - chẳng có chuyện thưởng phạt gì ở đây cả.</i></p>
   </div>
@@ -42,4 +42,4 @@ image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nha.jpg"
  <p>__________________ </p>
  <p><b>Nhận xét của bạn đọc: </b></p>
  <p>- Xem "Những Con Ngựa Thành Troy" (Mike Wilson)<br>
-<a href="https://sachhiem.net/THOISU_CT/ChuM/MikeWilson_05.php">https://sachhiem.net/THOISU_CT/ChuM/MikeWilson_05.php</a></p>
+<a href="/THOISU_CT/ChuM/MikeWilson_05">https://sachhiem.net/THOISU_CT/ChuM/MikeWilson_05.php</a></p>

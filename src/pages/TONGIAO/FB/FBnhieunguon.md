@@ -3,7 +3,7 @@ layout: ../../../layouts/Article.astro
 title: "Báo Động Đỏ: Đại Hội Giới Trẻ CGLM Hà Nội Xúc Phạm Đền Hùng"
 author: "Nhiều FBs"
 date: 2022-11-25
-source: "https://sachhiem.net/TONGIAO/FB/FBnhieunguon.php"
+source: "/TONGIAO/FB/FBnhieunguon"
 category: "Chính trị"
 lang: vi
 wordCount: 3619

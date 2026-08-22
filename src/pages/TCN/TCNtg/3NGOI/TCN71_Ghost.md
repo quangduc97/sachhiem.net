@@ -2,7 +2,7 @@
 layout: ../../../../layouts/Article.astro
 title: "Đây, Chúa Ma - Ngôi Ba Trong \"Bộ Ba Thiên Chúa (Trần Chung Ngọc)"
 author: "Trần Chung Ngọc"
-source: "https://sachhiem.net/sachhiem@sachhiem.net"
+source: "/sachhiem@sachhiem.net"
 lang: vi
 wordCount: 29
 image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/TONGIAO/IMG/HolySpirit1.jpg"
@@ -16,7 +16,7 @@ image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/TONGIAO/IMG/HolySpir
 <div align="left" id="menu" style="position:absolute; top:60px; left:400px; z-index:3; padding:0px;width:100px">
 								<table class="main_menu" cellspacing="0">
 								<tbody><tr><td class="">
-								<a href="https://sachhiem.net/index.php" title="trang giữa">Trang Bìa</a></td>
+								<a href="/index" title="trang giữa">Trang Bìa</a></td>
 								</tr></tbody></table>
 								</div>
 

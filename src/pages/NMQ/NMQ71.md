@@ -3,7 +3,7 @@ layout: ../../layouts/Article.astro
 title: "Tại Sao Không Có Một Người Nào Dám Nhận"
 author: "Nguyễn Mạnh Quang"
 date: 2016-11-16
-source: "https://sachhiem.net/NMQ/NMQ71.php"
+source: "/NMQ/NMQ71"
 category: "Lịch sử"
 lang: vi
 wordCount: 11112
@@ -122,7 +122,7 @@ image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/LICHSU/IMG/NGODD/1No
   <p>
     <i>(SH không đăng bài viết theo sau thư này, vì nó  không thuộc về chủ đề đe dọa tác giả)</i> </p>
   <p> .....</p>
-  <p>(xem các lá thư theo sau: (<a href="https://sachhiem.net/printemail.php?id=33)">https://sachhiem.net/printemail.php?id=33)</a>.” Nguồn:  (<a href="https://sachhiem.net/printemail.php?id=32">https://sachhiem.net/printemail.php?id=32</a>)</p>
+  <p>(xem các lá thư theo sau: (<a href="/printemail.php?id=33)">https://sachhiem.net/printemail.php?id=33)</a>.” Nguồn:  (<a href="/printemail.php?id=32">https://sachhiem.net/printemail.php?id=32</a>)</p>
     </div>
     <p><strong>7.-/  Biểu tình phá thối các sinh hoạt văn hóa.</strong></p>
  <p> Dưới đây là một số sự kiện trong vô số những  vụ khủng bố  mà các con chiên cuồng tín hô hào là  là "<i>chính nghĩa Quốc Gia</i>" để có thêm  sự ủng hộ của những người cầm cờ vàng ba sọc đỏ. Những chuyện xảy ra này tuy không có báo nào dám đăng nhưng là những sự kiện mà các nạn nhân phải hứng chịu ở hải ngoại:</p>
@@ -149,7 +149,7 @@ image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/LICHSU/IMG/NGODD/1No
 <p align="center">-- o0o -- </p>
 <p>Thực ra, những gì chúng tôi trình bày trên đây  chỉ là một số trong hàng rừng tài liệu nói về các <b>truyền thống trả thù</b> cực kỳ  mạn rợ trong nếp sống văn hóa Ca-tô. Vấn đề này đã được chúng tôi ghi lai được một  phần nào trong: </p>
 <p>1.-/ Sách Nói Chuyện Với Tổ Chức Cộng Hòa Foundation  (Housston, TX: Đa Nguyên, 2004), chúng tôi đã dành toàn bộ Chương 4 với tựa đề  “<i>Những Hành Động Trả Thù Của Giáo Hội La  Mã Ở Âu Châu</i>” (trang 171-212) và Chương 5 có nhan đề là “<i>Những Trả Thù Của Tín Đồ Gia Tô Người Việt  Khi Họ Có Quyền Lực</i>.”</p>
-    <p>2.-/ Sách Tâm Thư  Gửi Nhà Nước Việt Nam, nơi Phần 3 có nhan đề là “<i>Những Hành Động Bạo Ngược Và  Dã Man Của Nhà Thờ Vatican”</i> trong Chương 13 “Những Việc Làm Sáng Danh Chúa Của  Giáo Hội La Mã” (<a href="https://sachhiem.net/NMQ/TAMTHU/NMQtt_13b.php">https://sachhiem.net/NMQ/TAMTHU/NMQtt_13b.php</a>)</p>
+    <p>2.-/ Sách Tâm Thư  Gửi Nhà Nước Việt Nam, nơi Phần 3 có nhan đề là “<i>Những Hành Động Bạo Ngược Và  Dã Man Của Nhà Thờ Vatican”</i> trong Chương 13 “Những Việc Làm Sáng Danh Chúa Của  Giáo Hội La Mã” (<a href="/NMQ/TAMTHU/NMQtt_13b">https://sachhiem.net/NMQ/TAMTHU/NMQtt_13b.php</a>)</p>
     <p>Chính vì nếp sống văn hóa hay truyền thống trả thù như vậy mà trong lịch sử Giáo Hội La Mã  mới có tình trạng gần 20 giáo hoàng bị chết vì bị trả thù. Đáng kể nhất là:</p>
 <p>
       <strong>“<i>Giáo  Hoàng Formosus (891-896) chết</i></strong><i> và đã chôn được hơn 11 tháng rồi. Theo  ý muốn của bà Agiltruda (một bà Hoàng có thế lực trong giáo triều Vatican), tân  Giáo Hoàng Stephen VII (896-897) ra lệnh quật mồ Ngài, lấy xác đem về Dinh  Lateran cho mặc áo choàng của Giáo Hoàng và để ngồi vào chiếc ngai vàng của  giáo triều, rồi cùng các ông hồng y và giám mục trong Tòa Thánh Vatican tiến  hành phiên tòa xử tội. Đây là một phiên tòa lừng danh về việc xử một cái xác  chết của người bị thù ghét. </i>” <a href="/NMQ/#_edn15" name="_ednref15"> <sup>(15)</sup></a></p>
@@ -194,7 +194,7 @@ image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/LICHSU/IMG/NGODD/1No
       18.-/ Giáo  Hoàng John Paul I (1978): Bị đầu  độc chết bằng một ly cà phê vào 11 giờ khuya ngày 28/9/1978. <a href="/NMQ/#_edn19" name="_ednref19"><sup>(19)</sup></a></p>
 <p>
   Ngoài  những giáo hoàng bị trả thù và bị sát hại như đã nói ở trên, sách The Pope Encyclopedia trên đây<i> </i>còn ghi  rõ ở nơi trang 21 danh sách 39 ngụy giáo hoàng (antipopes), nghĩa là có tới 39 lần các Đức Thánh Cha, chia phe, chia  phái, lập đảng chống đối thanh toán và tàn sát lẫn nhau để trả thù và tranh  giành quyền lực. &nbsp;<a href="/NMQ/#_edn20" name="_ednref20"><sup>(20)</sup></a></p>
-    <p>Chuyện các ngài đại diện chúa mà&nbsp;  người Pháp gọi là “bọn quạ đen” (les corbeaux noirs) kèn cựa, ganh ghét,  đố kị, tị hiềm, hãm hại nhau bằng trăm phương ngàn kế để trả thù nhau và để  tranh giành hơn thua hay độc chiếm quyền lực. Vấn đề này đã được chúng tôi  trình bày tương đối khá đầy đủ trong Chương 14 với nhan đề là “<i>Tàn Sát Và Thanh  Toán Lẫn Nhau Để Chiếm Đoạt Quyền Lực</i>” (<a href="https://sachhiem.net/NMQ/HOSOTOIAC/CH14.php">https://sachhiem.net/NMQ/HOSOTOIAC/CH14.php</a>),  sách Lịch Sử và Hồ Sơ Tội Ác Của Giáo hội La Mã. Mời ông Vũ Linh Châu   đọc cho biết.    </p>
+    <p>Chuyện các ngài đại diện chúa mà&nbsp;  người Pháp gọi là “bọn quạ đen” (les corbeaux noirs) kèn cựa, ganh ghét,  đố kị, tị hiềm, hãm hại nhau bằng trăm phương ngàn kế để trả thù nhau và để  tranh giành hơn thua hay độc chiếm quyền lực. Vấn đề này đã được chúng tôi  trình bày tương đối khá đầy đủ trong Chương 14 với nhan đề là “<i>Tàn Sát Và Thanh  Toán Lẫn Nhau Để Chiếm Đoạt Quyền Lực</i>” (<a href="/NMQ/HOSOTOIAC/CH14">https://sachhiem.net/NMQ/HOSOTOIAC/CH14.php</a>),  sách Lịch Sử và Hồ Sơ Tội Ác Của Giáo hội La Mã. Mời ông Vũ Linh Châu   đọc cho biết.    </p>
     <p class="TuaDoLeft"><b>KẾT  LUẬN:</b> </p>
     <p>Phần trình bày trên đây mới chỉ nói về lòng ganh ghét đố kị tị hiềm kèn  cựa lẫn nhau trong các chức vụ, địa vị và quyền lực rồi đi đến “trả thù”&nbsp; thanh toán và tiêu diệt lẫn nhau bằng mọi  thủ đọan hèn hạ nhất và khốn nạn nhất. Những kho tài liệu hùng hậu đã giúp  chúng ta mới biết rõ bộ mặt thật của Giáo Hội La Mã hay đạo Ki-tô chỉ là  một tổ chức tội ác. Vấn đề là họ <b>mượn danh xưng tôn giáo</b> và dùng thuật ngữ cùng với những hoa ngôn mỹ ngữ (Chúa yêu thương nhân loại, công bình, bác ái, lương tâm công giáo,...) làm bức bình phong che đậy cho cái bản chất côn đồ du đãng và những hành động không khác gì những phường lục lâm thảo khấu.&nbsp; </p>
 <p>
@@ -229,8 +229,8 @@ image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/LICHSU/IMG/NGODD/1No
    <p><a href="/NMQ/#_ednref23" name="_edn23">(23) </a> Huỳnh  Văn Cao, <i>Một Kiếp Người</i> (Chantilly,  VA: TXB, 1993), tr 52.&nbsp;</p>
    <p align="center">______________________ </p>
    <p><b>Bài đọc thêm:</b></p>
-   <p>- <a href="https://sachhiem.net/LICHSU/TR/TranKevin.php">Đại Uý Không Quân Huỳnh Minh Đường Có Bay Qua Cambốt Không?</a> Kevin Trần</p>
-   <p>- <a href="https://sachhiem.net/DOITHOAI/Gopgio.php">Ác Đến Độ Khó Tin: Mật Lệnh cho Phi Công Huỳnh Minh Đường</a> - Diễn Đàn Thư Tín</p>
+   <p>- <a href="/LICHSU/TR/TranKevin">Đại Uý Không Quân Huỳnh Minh Đường Có Bay Qua Cambốt Không?</a> Kevin Trần</p>
+   <p>- <a href="/DOITHOAI/Gopgio">Ác Đến Độ Khó Tin: Mật Lệnh cho Phi Công Huỳnh Minh Đường</a> - Diễn Đàn Thư Tín</p>
    <p align="center">_______________________</p>
 <p class="MUC"><b>Phản hồi của bạn đọc:</b></p>
 <p><b>From: Ba Pham</b> phamhba@yahoo.com <br>

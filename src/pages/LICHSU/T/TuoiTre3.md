@@ -2,11 +2,11 @@
 layout: ../../../layouts/Article.astro
 title: "Các Thông Tin Về \"Hà Thành Đầu Độc\""
 author: "(sưu tầm của các bạn đọc)"
-source: "https://sachhiem.net/null"
+source: "/null"
 category: "Lịch sử"
 lang: vi
 wordCount: 4788
-image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nha.jpg"
+image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/LICHSU/IMG/YenThe_3dau-lau.jpg"
 ---
 
 <div align="center" style="position: relative; left: 0; top: 0">
@@ -26,8 +26,7 @@ image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nha.jpg"
 						<div style="padding-left: 50px; padding-right: 50px">
 							<table border="0" cellpadding="1" width="86%" cols="2">
 								<tbody><tr>
-									<td><a href="https://www.sachhiem.net/">
-									<img border="0" src="https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nha.jpg"></a></td>
+									<td></td>
 									<td valign="top" width="330">
 									<p>06 tháng 9, 2009
 	</p></td>

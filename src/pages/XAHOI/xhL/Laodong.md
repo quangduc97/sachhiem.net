@@ -3,7 +3,7 @@ layout: ../../../layouts/Article.astro
 title: "Lời thú tội rùng rợn của tên cai ngục tàn ác bậc nhất lịch sử Việt Nam"
 author: "Báo Lao Động"
 date: 2013-09-01
-source: "https://sachhiem.net/null"
+source: "/null"
 category: "Tác giả"
 lang: vi
 wordCount: 3631
@@ -99,17 +99,17 @@ Có lẽ, chúng tôi sẽ không sợ mình đã hồ đồ, khi  nói: Lao Đ�
  <p>- Côn Đảo: Nơi Lịch Sử Có Thể Khác (Lý Như Thế)</p>
  <p><a href="/LICHSU/L/LyNhuThe01">https://sachhiem.net/LICHSU/L/LyNhuThe01.php</a></p>
  <p>- Chín hầm địa ngục trần gian thời Ngô Đình Diệm (Ngô Diệp)</p>
-<p><a href="https://sachhiem.net/LICHSU/N/NgoDiep.php">https://sachhiem.net/LICHSU/N/NgoDiep.php</a></p>
+<p><a href="/LICHSU/N/NgoDiep">https://sachhiem.net/LICHSU/N/NgoDiep.php</a></p>
 <p>- Nhà lao An Nam ở Guyane (Kỳ 12): Hãy gìn giữ dòng máu Lạc Hồng (Tuổi Trẻ) </p>
-<p><a href="https://sachhiem.net/LICHSU/T/TuoiTre11.php">https://sachhiem.net/LICHSU/T/TuoiTre11.php</a></p>
+<p><a href="/LICHSU/T/TuoiTre11">https://sachhiem.net/LICHSU/T/TuoiTre11.php</a></p>
 <p>- Người tù đàn bà già nhất bị đưa đi Côn Đảo và bị nhốt chuồng cọp là Bà Sáu ...</p>
-<p><a href="https://sachhiem.net/LICHSU/D/Duyensinh02c_aphien.php">https://sachhiem.net/LICHSU/D/Duyensinh02c_aphien.php</a></p>
+<p><a href="/LICHSU/D/Duyensinh02c_aphien">https://sachhiem.net/LICHSU/D/Duyensinh02c_aphien.php</a></p>
 <p>- Khu biệt giam Chín hầm của họ Ngô Đình ở Huế (Nguyễn Đắc Xuân) </p>
-<p><a href="https://sachhiem.net/NDX/NDX013.php">https://sachhiem.net/NDX/NDX013.php</a></p>
+<p><a href="/NDX/NDX013">https://sachhiem.net/NDX/NDX013.php</a></p>
 <p>- Những Tội Ác Tày Trời Của  "Bạo Chúa Miền Trung" Ngô Đình   Cẩn (Phan Bùi Bảo Thy / ANTG)</p>
 <p><a href="/LICHSU/P/PhanBBThy01">https://sachhiem.net/LICHSU/P/PhanBBThy01.php</a></p>
 <p>- Không Thể Chuộc Lỗi (ALLEN HASSAN)</p>
-<p><a href="https://sachhiem.net/SACHNGOAI/E_AllenHassan.php">https://sachhiem.net/SACHNGOAI/E_AllenHassan.php</a></p>
+<p><a href="/SACHNGOAI/E_AllenHassan">https://sachhiem.net/SACHNGOAI/E_AllenHassan.php</a></p>
 <p>- Đòn tra tấn tàn độc triệt đường sinh sản tù nhân cộng sản (CTV Hoàng Anh Sướng/VOV Online)</p>
 <p><a href="https://vov.vn/Home/Don-tra-tan-tan-doc-triet-duong-sinh-san-tu-nhan-cong-san-Phan-3/20122/198753.vov">https://vov.vn/Home/Don-tra-tan-tan-doc-triet-duong-sinh-san-tu-nhan-cong-san-Phan-3/20122/198753.vov</a></p>
 <p>- Chuyện rùng rợn ở Nhà tù Phú Quốc (<i>CTV Hoàng Anh Sướng/VOV Online</i>)</p>

@@ -3,7 +3,7 @@ layout: ../../../layouts/Article.astro
 title: "Người Châm Ngòi Cho Cuộc Thanh Trừng Của Giáo hội Công giáo Hoa Kỳ Về Nạn Lạm Dụng"
 author: "Thi Nguyễn sưu tầm"
 date: 2025-03-16
-source: "https://sachhiem.net/TONGIAO/FB/FBThiNguyen20.php"
+source: "/TONGIAO/FB/FBThiNguyen20"
 category: "Chính trị"
 lang: vi
 wordCount: 1585

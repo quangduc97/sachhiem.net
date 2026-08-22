@@ -3,7 +3,7 @@ layout: ../../../layouts/Article.astro
 title: "“TÌNH YÊU” CỦA THIÊN CHÚA"
 author: "(Tác giả: Louis Clark, Columbus, Ohio)"
 date: 2012-01-18
-source: "https://sachhiem.net/TCN/TCNtg/TCN119a.php"
+source: "/TCN/TCNtg/TCN119a"
 category: "Tác giả"
 lang: vi
 wordCount: 1076
@@ -20,7 +20,7 @@ image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/SACHNGOAI/Hinhanh/BI
   <p>..<i>.Mark Twain
     đã chỉ rõ là không có một người nào đầu óc lành mạnh lại có thể dung thứ
     cho một người cha hành hạ con cái của mình,</i>...</p>
-  <p>LTS: Bài này là Phụ Đính dưới bài gốc <a href="https://sachhiem.net/TCN/TCNtg/TCN119.php">Thiên Chúa Là “Tình Yêu” (!)</a> của Giáo Sư Trần Chung Ngọc đã đăng ngày 18-Jan-2012. Nay đăng lại nhân Noel năm 2021.</p>
+  <p>LTS: Bài này là Phụ Đính dưới bài gốc <a href="/TCN/TCNtg/TCN119">Thiên Chúa Là “Tình Yêu” (!)</a> của Giáo Sư Trần Chung Ngọc đã đăng ngày 18-Jan-2012. Nay đăng lại nhân Noel năm 2021.</p>
 </div>
    <p><span class="First">N</span>gười Do Thái luôn luôn tự coi họ là dân được Thiên Chúa chọn – Tình
      yêu đầu tiên của Thiên Chúa.&nbsp; Nhưng qua nhiều thế kỷ, nhiều thiên niên kỷ, “tình

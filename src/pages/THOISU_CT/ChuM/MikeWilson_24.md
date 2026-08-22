@@ -3,7 +3,7 @@ layout: ../../../layouts/Article.astro
 title: "Tại Sao Hệ Thống Y Tế Mỹ Không Xoay Sở Kịp? Thuốc ngừa Covid-19"
 author: "Mike Wilson"
 date: 2020-04-03
-source: "https://sachhiem.net/THOISU_CT/ChuM/MikeWilson_24.php"
+source: "/THOISU_CT/ChuM/MikeWilson_24"
 category: "Chính trị"
 lang: vi
 wordCount: 772

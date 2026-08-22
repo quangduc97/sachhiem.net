@@ -21,7 +21,7 @@ image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nhacu.jpg"
 <blockquote>
 	<table border="0" cellpadding="10" width="80%" cols="2"><tbody><tr>
 <td>
-<a href="https://www.sachhiem.net/"><img border="0" src="https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nhacu.jpg" width="49" height="20"></a></td>
+<a href="/"><img border="0" src="https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nhacu.jpg" width="49" height="20"></a></td>
 	<td valign="top" style="text-align:right">ngày 12 tháng 5, 2009</td></tr></tbody></table>
 				
 		<p><span class="First">G</span>enerally, we use the term ‘God’ to 

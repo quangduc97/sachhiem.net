@@ -3,7 +3,7 @@ layout: ../../../layouts/Article.astro
 title: "TRANH ĐẤU BẤT BẠO ĐỘNG"
 author: "Lý Nguyên Diệu"
 date: 2013-06-11
-source: "https://sachhiem.net/TONGIAO/tgL/LyNguyenDieu0.php"
+source: "/TONGIAO/tgL/LyNguyenDieu0"
 category: "Tác giả"
 lang: vi
 wordCount: 3338

@@ -2,7 +2,7 @@
 layout: ../../../layouts/Article.astro
 title: "tựa"
 author: "tác giả"
-source: "https://sachhiem.net/null"
+source: "/null"
 lang: vi
 wordCount: 5
 image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/TCN/TCNtg/IMG/TCN99/BichchuongoDenver.jpg"
@@ -19,7 +19,7 @@ image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/TCN/TCNtg/IMG/TCN99/
 	<center>
 	  <img border="0" src="https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/TCN/TCNtg/IMG/TCN99/BichchuongoDenver.jpg" width="240" height="180">
 	  
-	<a href="/index"><img src="https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nha.jpg" border="0"></a>
+	
 	</center>
     
     

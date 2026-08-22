@@ -3,7 +3,7 @@ layout: ../../../layouts/Article.astro
 title: "Chúc Xuân Ất Mùi Đến Tất Cả Bạn Đọc"
 author: "trang nhà SH"
 date: 2015-02-18
-source: "https://sachhiem.net/XAHOI/CHUCTET/AtMui2015.php"
+source: "/XAHOI/CHUCTET/AtMui2015"
 category: "Xã hội"
 lang: vi
 wordCount: 420

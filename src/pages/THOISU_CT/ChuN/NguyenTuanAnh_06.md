@@ -3,7 +3,7 @@ layout: ../../../layouts/Article.astro
 title: "Tấm lòng Bác Hồ với thương binh, liệt sĩ"
 author: "Nguyễn Tuấn Anh"
 date: 2024-07-27
-source: "https://sachhiem.net/THOISU_CT/ChuN/NguyenTuanAnh_06.php"
+source: "/THOISU_CT/ChuN/NguyenTuanAnh_06"
 category: "Chính trị"
 lang: vi
 wordCount: 2763

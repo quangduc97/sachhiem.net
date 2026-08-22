@@ -2,14 +2,13 @@
 layout: ../../../layouts/Article.astro
 title: "Công Giáo Trên Bờ Vực Thẳm"
 author: "Charlie Nguyễn"
-source: "https://sachhiem.net/CHARLIE/CN_CGTBVT/CN_CGTBVT_6.php"
+source: "/CHARLIE/CN_CGTBVT/CN_CGTBVT_6"
 category: "Tác giả"
 lang: vi
 wordCount: 7412
-image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nha.jpg"
 ---
 
-<p align="center"><a href="/index"><img hspace="20" border="0" src="https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nha.jpg"></a><b><font face="Symbol" size="5"><a target="_top" href="/CHARLIE/CN_CGTBVT/CN_CGTBVTdir">¿</a></font></b> trở ra mục lục |  17 Aug 2007 </p>
+<p align="center"><b><font face="Symbol" size="5"><a target="_top" href="/CHARLIE/CN_CGTBVT/CN_CGTBVTdir">¿</a></font></b> trở ra mục lục |  17 Aug 2007 </p>
 		<p class="TuaChuong">Phần I : Ngày Tận Thế của Giáo Hội Satan</p>
 			<p>
 			(tiếp theo)</p>
@@ -632,12 +631,12 @@ image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nha.jpg"
 			Charlie Nguyễn</p>
           <p>___________________ </p>
           <p><b>Mời đọc thêm:</b></p>
-          <p>- <a href="https://sachhiem.net/CHARLIE/CN_CGTBVT/CN_CGTBVT_6.php">Cách Làm Tiền  của Vatican (Charlie Nguyễn)</a></p>
-          <p>- <a href="https://sachhiem.net/NMQ/TAMTHU/NMQtt_13a.php">TT: Sự Giàu Có Của Vatican- Phóng Tay Cướp Đoạt Tài Sản Dân Chúng (Nguyễn Mạnh Quang)</a></p>
-          <p>- <a href="https://sachhiem.net/SACHNGOAI/SH/SH0_Vatican_giau.php">Giáo Hội Thiên Chúa Giáo Giàu Tới Mức Nào? Khó Ai Biết (Emily Stewart/ thestreet.com)</a></p>
-          <p><a href="https://sachhiem.net/LICHSU/P/PhuongHoang00.php">- Những Chuyện Kể Của Phượng Hoàng GV - Tập 1: Vatican Làm Sao Giàu Có ?</a></p>
-          <p>- <a href="https://sachhiem.net/SACHNGOAI/SH/SH0_Vatican_giau.php">Giáo Hội Thiên Chúa Giáo Giàu Tới Mức Nào? Khó Ai Biết Được </a></p>
-          <p>- <a href="https://sachhiem.net/SACHNGOAI/PThanhTam04.php">Cách Làm Tiền Của Vatican</a>          </p>
+          <p>- <a href="/CHARLIE/CN_CGTBVT/CN_CGTBVT_6">Cách Làm Tiền  của Vatican (Charlie Nguyễn)</a></p>
+          <p>- <a href="/NMQ/TAMTHU/NMQtt_13a">TT: Sự Giàu Có Của Vatican- Phóng Tay Cướp Đoạt Tài Sản Dân Chúng (Nguyễn Mạnh Quang)</a></p>
+          <p>- <a href="/SACHNGOAI/SH/SH0_Vatican_giau">Giáo Hội Thiên Chúa Giáo Giàu Tới Mức Nào? Khó Ai Biết (Emily Stewart/ thestreet.com)</a></p>
+          <p><a href="/LICHSU/P/PhuongHoang00">- Những Chuyện Kể Của Phượng Hoàng GV - Tập 1: Vatican Làm Sao Giàu Có ?</a></p>
+          <p>- <a href="/SACHNGOAI/SH/SH0_Vatican_giau">Giáo Hội Thiên Chúa Giáo Giàu Tới Mức Nào? Khó Ai Biết Được </a></p>
+          <p>- <a href="/SACHNGOAI/PThanhTam04">Cách Làm Tiền Của Vatican</a>          </p>
           
           <hr> Các chương khác trong sách:
 <p> <a href="/CHARLIE/CN_CGTBVT_9"> Vài lời tâm huyết - Sách Kinh Công Giáo (Charlie Nguyễn)</a></p>

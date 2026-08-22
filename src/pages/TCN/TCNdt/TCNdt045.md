@@ -2,15 +2,15 @@
 layout: ../../../layouts/Article.astro
 title: "TÔI ĐỌC BÀI:"
 author: "Trần Chung Ngọc"
-source: "https://sachhiem.net/TCN/TCNdt/TCNdt045.php"
+source: "/TCN/TCNdt/TCNdt045"
 category: "Đối thoại"
 lang: vi
 wordCount: 12346
-image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.devhttps://sachhiem.net/images/nha.jpg"
+image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/LICHSU/IMG/ALEX/Alexandre.jpg"
 ---
 
 <table border="0" width="250" align="center">
-    <tbody><tr><td width="106"><a href="https://sachhiem.net/index.php"><img border="0" src="https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.devhttps://sachhiem.net/images/nha.jpg"></a>    </td>
+    <tbody><tr><td width="106">    </td>
 <td valign="top" width="210"><p>31 tháng 3,  2010</p></td></tr></tbody></table>
 	
 		
@@ -86,7 +86,7 @@ image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.devhttps://sachhiem.net/
 	</p><p class="center"><font size="2">Phép giảng 8 ngày của Alexandre De Rhodes</font></p></td></tr></tbody></table><p>Điều đáng trách là TS Phạm Huy Thông đã dùng một tài 
 	liệu từ thế kỷ 17 của tên thừa sai thực dân ngu dốt bịp bợm là Alexandre de 
 	Rhodes. [Xin đọc bài “<i>Di Hại Của Nền Đạo Lý Thiên La Đắc Lộ</i>” trên
-	<a style="color: blue; text-decoration: underline; text-underline: single" href="https://www.sachhiem.net/TCN/TCNtg/TCN50.php">
+	<a style="color: blue; text-decoration: underline; text-underline: single" href="/TCN/TCNtg/TCN50">
 	https://www.sachhiem.net/TCN/TCNtg/TCN50.php</a>]. Cái tên thừa sai Công 
 	giáo ngu dốt này đã viết cuốn “<i>Phép Giảng Tám Ngày</i>” mà nội dung đầy 
 	những điều thuộc loại mê tín, đồng thời còn xuyên tạc hạ thấp Đức Phật và 
@@ -233,7 +233,7 @@ image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.devhttps://sachhiem.net/
 	<p>3) <u>Linh mục Công giáo James Kavanaugh</u> viết về “Huyền Thoại Cứu 
 	Rỗi” trong cuốn <i>Sự Sinh Ra Của Thiên Chúa </i>(The Birth of God),<i> </i>
 	xin đọc:
-	<a style="color: blue; text-decoration: underline; text-underline: single" href="https://sachhiem.net/TCNtg/TCN36.php">
+	<a style="color: blue; text-decoration: underline; text-underline: single" href="/TCNtg/TCN36">
 	https://sachhiem.net/TCNtg/TCN36.php</a> :</p>
 	<p><i> Nhưng đối với con người hiện đại. <u>chuyện hi sinh của Giê-su 
 	chẳng có ý nghĩa gì mấy, trừ khi hắn đã bị reo rắc sự sợ hãi và bị tẩy não 
@@ -272,7 +272,7 @@ image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.devhttps://sachhiem.net/
 	sách thuộc loại bán chạy nhất ở phương trời Âu Mỹ. Những nhận định của 
 	Richard Dawkins như trên không hề sai, chúng đã được chứng minh rất đầy 
 	đủ qua những trích dẫn từ cuốn Thánh Kinh của Công giáo:
-	<a style="color: blue; text-decoration: underline; text-underline: single" href="https://www.sachhiem.net/TCN/TCNtg/3NGOI/TCN64_2.php">
+	<a style="color: blue; text-decoration: underline; text-underline: single" href="/TCN/TCNtg/3NGOI/TCN64_2">
 	https://www.sachhiem.net/TCN/ TCNtg/3NGOI/TCN64_2.php</a>.</p>
 	
 	<p> Như vậy, thần của Công giáo so với các thần cổ xưa 
@@ -661,7 +661,7 @@ image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.devhttps://sachhiem.net/
 	không phải là chỉ có năm thê bảy thiếp, mà còn hoang dâm vô độ, loạn luân, 
 	ngủ cả với mẹ và con, ngoài những chuyện độc ác như giết người v…v…. Xin 
 	đọc trong:
-	<a style="color: blue; text-decoration: underline; text-underline: single" href="https://www.sachhiem.net/TCN/TCNtg/TCN20.php">
+	<a style="color: blue; text-decoration: underline; text-underline: single" href="/TCN/TCNtg/TCN20">
 	https://www.sachhiem.net/TCN/TCNtg/TCN20.php</a>, bài “<i>Đây!! Những “Đức 
 	Thánh Cha”, Đại Diện Của Chúa Trên Trần Và Là Chủa Chăn Của Giáo Hội Công 
 	Giáo “Thiên Khải, Duy Nhất, Thánh Thiện, Tông Truyền</i>”. Sau đây là một 

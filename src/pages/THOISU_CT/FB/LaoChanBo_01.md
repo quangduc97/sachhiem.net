@@ -3,7 +3,7 @@ layout: ../../../layouts/Article.astro
 title: "Truyền Thông Ukraine Xúc Phạm Chủ Tịch Hồ Chí Minh Của Chúng Ta"
 author: "Lão Chăn Bò"
 date: 2022-03-19
-source: "https://sachhiem.net/THOISU_CT/FB/LaoChanBo_01.php"
+source: "/THOISU_CT/FB/LaoChanBo_01"
 category: "Chính trị"
 lang: vi
 wordCount: 2977

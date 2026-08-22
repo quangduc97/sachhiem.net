@@ -3,15 +3,15 @@ layout: ../../layouts/Article.astro
 title: "Tôi Không Lập Lờ Như Pascal -2"
 author: "Thiết Pui"
 date: 2015-02-28
-source: "https://sachhiem.net/VANHOC/ThietPui00.php"
+source: "/VANHOC/ThietPui00"
 category: "Chính trị"
 lang: vi
 wordCount: 1113
 image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/TONGIAO/IMG/TRUYENDAO/ThienLoi13_giangdaochodan.jpg"
 ---
 
-<p> <i>(tiếp theo)</i> <a href="https://sachhiem.net/VANHOC/ThietPui00.php">1</a> &nbsp; <a href="https://sachhiem.net/VANHOC/ThietPui01.php">2</a></p>
-  <p><i>LTS: Một bài rất ngắn của Thiết Pui đã mở thêm các lý luận chắc chắn và căn bản về các tín điều của đạo Chúa.  Chúng tôi khẩn khoản nhắn với ông anh họ của Thiết Pui rằng: nếu các linh mục học nhiều và giỏi hơn người thường, vậy xin trả lời giùm các câu hỏi trong bài dưới đây của Thiết Pui. Nhớ là không được nói kiểu lên đồng, mập mờ khó hiểu để cho qua nhé. Đồng thời, ngoài các câu hỏi này, trang nhà còn rất nhiều câu hỏi các tác giả khác, nhưng chưa thấy các ngài học thần học trả lời được câu nào cả. Tiêu biểu như "<a href="https://sachhiem.net/index.php?content=showrecipe&amp;id=5567">Thư Ngỏ Gửi Hội Đồng Giám Mục Việt Nam và Hội Thánh Tin Lành Việt Nam</a>"
+<p> <i>(tiếp theo)</i> <a href="/VANHOC/ThietPui00">1</a> &nbsp; <a href="/VANHOC/ThietPui01">2</a></p>
+  <p><i>LTS: Một bài rất ngắn của Thiết Pui đã mở thêm các lý luận chắc chắn và căn bản về các tín điều của đạo Chúa.  Chúng tôi khẩn khoản nhắn với ông anh họ của Thiết Pui rằng: nếu các linh mục học nhiều và giỏi hơn người thường, vậy xin trả lời giùm các câu hỏi trong bài dưới đây của Thiết Pui. Nhớ là không được nói kiểu lên đồng, mập mờ khó hiểu để cho qua nhé. Đồng thời, ngoài các câu hỏi này, trang nhà còn rất nhiều câu hỏi các tác giả khác, nhưng chưa thấy các ngài học thần học trả lời được câu nào cả. Tiêu biểu như "<a href="/TONGIAO/tgN/Nguyensam0">Thư Ngỏ Gửi Hội Đồng Giám Mục Việt Nam và Hội Thánh Tin Lành Việt Nam</a>"
 của Nguyễn Sâm chẳng hạn (SH)</i></p>
   <hr>
   
@@ -39,7 +39,7 @@ của Nguyễn Sâm chẳng hạn (SH)</i></p>
 <p>
     <b>4-</b> Mới  phạm tội,  như mụt mới phát. Sao không ra tay chữa ngay? <i>Sao lơ là bỏ mặc những  2000 sau khi tội lỗi nơi loài người đã tràn dầy (đã thành ung thư)  mới cứu chữa</i>? Mà tội có hết đâu! Và những 2000 năm nay: mức tội nơi loài người  nặng cỡ nào?. -Nặng gấp triệu triệu lần so với thời ”Chúa Con” xuống thế đấy!</p>
 <p>
-    Chỉ  với 4 suy tư trên và với những điều tôi đã giải bày ở <a href="https://sachhiem.net/VANHOC/ThietPui00.php">Phần 1</a>. Một lần nữa khẳng  định đạo thờ Yehova (Yave) cuả cổ dân Do thái hoàn toàn là chuyện thần thoại.</p>
+    Chỉ  với 4 suy tư trên và với những điều tôi đã giải bày ở <a href="/VANHOC/ThietPui00">Phần 1</a>. Một lần nữa khẳng  định đạo thờ Yehova (Yave) cuả cổ dân Do thái hoàn toàn là chuyện thần thoại.</p>
 <p align="center"><img src="https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/TONGIAO/IMG/TRUYENDAO/ThienLoi13_giangdaochodan.jpg" width="338" height="206" alt=""></p>
 <p align="center"><i>Các nhà truyền giáo tụ tập dân chúng để nghe truyền đạo <br>
   (dĩ nhiên, chắc chắn có phát thức ăn hoặc thuốc men, người ta mới đến) </i></p>

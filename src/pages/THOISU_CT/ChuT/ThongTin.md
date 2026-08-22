@@ -3,7 +3,7 @@ layout: ../../../layouts/Article.astro
 title: "Báo Chí Vào Cuộc, Vạch Trần Âm Mưu \"Cách Mạng Trắng\""
 author: "SH Sưu Tầm"
 date: 2022-06-25
-source: "https://sachhiem.net/THOISU_CT/ChuT/ThongTin.php"
+source: "/THOISU_CT/ChuT/ThongTin"
 category: "Chính trị"
 lang: vi
 wordCount: 4775

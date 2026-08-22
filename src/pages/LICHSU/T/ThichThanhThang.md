@@ -2,17 +2,17 @@
 layout: ../../../layouts/Article.astro
 title: "Thư ngỏ gửi HĐND, UBND TP. Hà Nội và Hội KHLS VN"
 author: "Thích Thanh Thắng"
-source: "https://www.sachhiem.net/LICHSU/T/ThichThanhThang.php"
+source: "/LICHSU/T/ThichThanhThang"
 category: "Lịch sử"
 lang: vi
 wordCount: 9760
-image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nha.jpg"
+image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/Ykien.jpg"
 ---
 
 <p class="Tuaduoi"> về việc dựng tượng Alexandre Rhodes</p>
 	  
 		
-<p align="center"><a href="https://www.sachhiem.net/"> <img border="0" src="https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nha.jpg"></a>  31 tháng 7, 2009 	</p>
+<p align="center">  31 tháng 7, 2009 	</p>
       <div class="tomluoc">
       <p> <i>...Trong tư tưởng, vẫn có người áp dụng luật mâu thuẫn đối kháng để phủ định 
         cái có trước. Nhưng khi đã đặt tượng Lý Công Uẩn làm biểu tượng cho tinh 
@@ -317,7 +317,7 @@ image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nha.jpg"
 	<a href="https://www.talawas.org/talaDB/showFile.php?res=7309&amp;rb=12">
 	https://www.talawas.org/talaDB/ showFile.php?res=7309&amp;rb=12</a> </p>
 	<p><a name="_edn6" title="" href="/LICHSU/#_ednref6">[6]</a> Đoạn trên dẫn theo Lý Đương Nhiên, Chữ "Plusieurs Soldats" Thời A.D. Rhodes (Kính gửi Viện Sử học), nguồn:
-	<a href="https://www.sachhiem.net/LICHSU/LyDuongNhien1.php">
+	<a href="/LICHSU/LyDuongNhien1">
 	https://www.sachhiem.net/LICHSU/LyDuongNhien1.php</a> </p>
 
 </div>

@@ -3,7 +3,7 @@ layout: ../../../layouts/Article.astro
 title: "PHẬT HỌC VIỆN HẢI ĐỨC NHA TRANG VỚI CUỘC VẬN ĐỘNG CỦA PHẬT GIÁO MIỀN NAM NĂM 1963"
 author: "GS Lê Cung* & Nguyễn Trung Triều**"
 date: 2021-11-15
-source: "https://sachhiem.net/LICHSU/L/LeCung18.php"
+source: "/LICHSU/L/LeCung18"
 category: "Chính trị"
 lang: vi
 wordCount: 4269

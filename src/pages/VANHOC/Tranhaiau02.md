@@ -3,18 +3,17 @@ layout: ../../layouts/Article.astro
 title: "Những Chiếc Lông Ngỗng Cho Pháp"
 author: "Trần Hải Âu"
 date: 2019-03-20
-source: "https://sachhiem.net/VANHOC/Tranhaiau02.php"
+source: "/VANHOC/Tranhaiau02"
 category: "Chính trị"
 lang: vi
 wordCount: 4670
-image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nha.jpg"
+image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/LICHSU/IMG/NHANVAT/GM_Puginier_PaulFrançois1835-1892.jpg"
 ---
 
 <p class="Tuaduoi">(Bài Học Từ Lịch Sử Việt Nam Dành Cho Tín Đồ Công Giáo La Mã)</p>
 
 
- <p align="center"><a href="https://www.sachhiem.net/">
-<img border="0" src="https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nha.jpg"></a> 
+ <p align="center"> 
 ngày 20-Mar-2019 </p> 
 
 <p><b>1)</b> Đất nước Việt Nam tuy nhỏ bé nhưng lại là một nước có “rừng  vàng, biển bạc, đất phì nhiêu” lại nằm trong vị trí chiến lược quan trọng của  Đông Nam Á nên bị các nước lớn luôn nhòm ngó và mong chiếm đoạt.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </p>
@@ -74,5 +73,5 @@ ngày 20-Mar-2019 </p>
 
 <p>_____________</p>
 <p><b>Bài liên quan:</b></p>
-<p>- <a href="https://sachhiem.net/DOITHOAI/Diendan02.php">Phản Ứng Đối Với Bài Viết Về Thư Pestrus Ký Từ Chối Làm Công Dân Pháp</a> (Công Luận) ngày 15-Mar-2019 </p>
+<p>- <a href="/DOITHOAI/Diendan02">Phản Ứng Đối Với Bài Viết Về Thư Pestrus Ký Từ Chối Làm Công Dân Pháp</a> (Công Luận) ngày 15-Mar-2019 </p>
 <p>- Video <a href="https://www.youtube.com/watch?v=bNCbcwtsLxU">Về Lá Thư Pestrus Ký Từ Chối Làm Công Dân Pháp </a>(Đề tài 21)</p>

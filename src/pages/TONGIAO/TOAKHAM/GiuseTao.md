@@ -2,17 +2,17 @@
 layout: ../../../layouts/Article.astro
 title: "Bản Chất Nô Lệ Của Bọn Giáo Hội Công Giáo VN"
 author: "Giuse Phạm Hữu Tạo"
-source: "https://sachhiem.net/TONGIAO/TOAKHAM/.php"
+source: "/TONGIAO/TOAKHAM/"
 category: "Tác giả"
 lang: vi
 wordCount: 3799
-image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nha.jpg"
+image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/Next3.gif"
 ---
 
 <p class="Tuaduoi">Hay Là Đòi Đất Cho Thằng Khâm Sứ		</p>
 
 
-<p align="center"><a href="https://sachhiem.net/index.php"><img border="0" hspace="20" src="https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nha.jpg"></a>14 tháng 1, 2008</p>
+<p align="center">14 tháng 1, 2008</p>
 <p><i><a href="/TONGIAO/LoiDau">Lời đầu của SH <img border="0" src="https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/Next3.gif" width="15" height="6"></a></i></p>
  		<p><i><font size="3">(Trong “Phép Giảng Tám Ngày” <b>
 		thằng</b> Alexandre de Rhodes gọi Đức Phật là thằng)</font></i></p>

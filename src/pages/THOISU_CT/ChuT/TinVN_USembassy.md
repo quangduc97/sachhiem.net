@@ -3,7 +3,7 @@ layout: ../../../layouts/Article.astro
 title: "Bài phát biểu của Tổng Thống Obama trước người dân Việt Nam"
 author: "ĐSQ Hoa Kỳ ở Hà Nội"
 date: 2016-05-27
-source: "https://sachhiem.net/THOISU_CT/ChuT/TinVN_USembassy.php"
+source: "/THOISU_CT/ChuT/TinVN_USembassy"
 category: "Chính trị"
 lang: vi
 wordCount: 10630

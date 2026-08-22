@@ -3,7 +3,7 @@ layout: ../../../layouts/Article.astro
 title: "PHÚC TRÌNH A/5630"
 author: "Tâm Diệu và Nguyễn Kha"
 date: 2017-10-31
-source: "https://sachhiem.net/SACHNGOAI/snT/TamDieu_NgKha.php"
+source: "/SACHNGOAI/snT/TamDieu_NgKha"
 category: "Chính trị"
 lang: vi
 wordCount: 3342

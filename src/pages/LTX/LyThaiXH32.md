@@ -3,7 +3,7 @@ layout: ../../layouts/Article.astro
 title: "Bước Đầu Xa Nhà: Miếng Cơm Cháy Gây Bão!"
 author: "Lý Thái Xuân"
 date: 2018-05-10
-source: "https://sachhiem.net/LTX/LyThaiXH32.php"
+source: "/LTX/LyThaiXH32"
 category: "Xã hội"
 lang: vi
 wordCount: 4702
@@ -70,4 +70,4 @@ image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/LTX/IMG/Comchayduoid
  <p>Tôi bước vào trong để chào Cậu Mợ. Thấy chị Hồng Anh đang chuẩn bị cho bữa cơm, tôi không dám ở lâu, mau kíu từ để còn đi thăm các Dì ở tiệm thuốc. Chị Hồng Anh chạy theo nắm tay tôi  lưu luyến. Đến thăm các Dì ở nhà thuốc là một việc bất tiện, nên tôi cũng không dám nấn ná lâu. Vả lại, tôi không biết trong lòng của Dì Ba và Dì Út nghĩ thế nào đối với sự ra đi của tôi trong thời gian qua. Tôi từ giã mấy Dì trong lúng túng, và cũng không dám nhắc đến Dì Sáu một lời nào.</p>
  <p>___________</p>
  <p><b> </b> <b>Bài liên quan:</b></p>
- <p><a href="https://www.sachhiem.net/LTX/LyThaiXH15.php">- Tâm Sự Nơi Mẹ Ngủ – Lý Thái&nbsp;Xuân</a></p>
+ <p><a href="/LTX/LyThaiXH15">- Tâm Sự Nơi Mẹ Ngủ – Lý Thái&nbsp;Xuân</a></p>

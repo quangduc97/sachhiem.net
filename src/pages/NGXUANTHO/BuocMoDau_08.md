@@ -3,18 +3,17 @@ layout: ../../layouts/Article.astro
 title: "Bước Mở Đầu Của Sự Thiết Lập Hệ Thống Thuộc Địa Pháp Ở Việt Nam"
 author: "TS Nguyễn Xuân Thọ"
 date: 2023-02-13
-source: "https://sachhiem.net/NGXUANTHO/BuocMoDau_08.php"
+source: "/NGXUANTHO/BuocMoDau_08"
 category: "Lịch sử"
 lang: vi
 wordCount: 15710
-image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nha.jpg"
+image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/sqdot.gif"
 ---
 
 <p class="Tuaduoi"><b>Pháp Xâm Nhập Bắc Kỳ</b></p>
 
 
-  <p align="center"><a href="https://www.sachhiem.net/">
-<img border="0" src="https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nha.jpg"></a>| <a target="_blank" href="https://sachhiem.net/NGXUANTHO/BuocMoDau_Main.php"><span lang="en-us"><b><font face="Symbol">¿</font></b></span> trở ra mục lục</a>| 13-Feb-2023</p> 
+  <p align="center">| <a target="_blank" href="/NGXUANTHO/BuocMoDau_Main"><span lang="en-us"><b><font face="Symbol">¿</font></b></span> trở ra mục lục</a>| 13-Feb-2023</p> 
 <p class="TuaDoLeft"><b>Chương 7 - Pháp Xâm Nhập Bắc Kỳ Và Cuộc Thám Hiểm Sông Cửu Long (Mékong) </b></p>
  <div class="indent50">
   <p><i>“Tôi muốn tạo cho đất nước tôi một đế quốc thật sự tại Viễn Đông. Tôi muốn nền văn minh Thiên Chúa giáo của chúng ta có thể tìm thấy trong vùng đất đai mới chinh phục ấy một cơ sở đồ sộ, từ đấy tỏa ánh ra khắp mọi nơi của cái xứ sở tồn tại bao nhiêu tập quán bạo tàn. Nhiều người còn nghi ngờ khả năng đạt tới mục đích, nhiều kẻ khác lại lo về vấn đề kinh phí. Sau cùng, tôi còn nhiều khó khăn phải khắc phục, nhưng tôi có niềm tin. Tôi bước đi như chắc sẽ thành công. Cái lâu đài lộng lẫy mà tôi mơ ước, tôi sẽ không được chứng kiến lúc hoàn thành, nhưng tôi sung sướng đã khai nền đắp móng”</i><a epub:type="noteref" href="https://www.dtv-ebook.com/OEBPS/Text/section_17.htm#n74" title="Georges Taboulet, “La Geste Framcaise en Indochine” (Kỳ tích của nước Pháp tại Đông Dương): tập 2, trang 523.">(1)</a>.</p>

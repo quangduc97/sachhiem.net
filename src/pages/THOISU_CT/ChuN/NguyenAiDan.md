@@ -3,7 +3,7 @@ layout: ../../../layouts/Article.astro
 title: "Một Bài Thơ Đăng Trễ"
 author: "Nguyễn Ái Dân"
 date: 2015-06-25
-source: "https://sachhiem.net/THOISU_CT/ChuN/NguyenAiDan.php"
+source: "/THOISU_CT/ChuN/NguyenAiDan"
 category: "Chính trị"
 lang: vi
 wordCount: 1078

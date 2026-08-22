@@ -3,7 +3,7 @@ layout: ../../layouts/Article.astro
 title: "Bước Đường 150 Năm Và Một Giấc Mơ"
 author: "Lý Thái"
 date: 2008-01-24
-source: "https://sachhiem.net/LTX/LyThaiXH10.php"
+source: "/LTX/LyThaiXH10"
 category: "Xã hội"
 lang: vi
 wordCount: 1206

@@ -3,7 +3,7 @@ layout: ../../../layouts/Article.astro
 title: "Giáo Hoàng Benedict XVI Thú Nhận"
 author: "Ri Nguyễn sưu tầm"
 date: 2018-12-12
-source: "https://sachhiem.net/TONGIAO/tgN/NguyenRi_40.php"
+source: "/TONGIAO/tgN/NguyenRi_40"
 category: "Tác giả"
 lang: vi
 wordCount: 1226
@@ -91,4 +91,4 @@ VÌ CHẲNG AI BIẾT JESUS SINH NGÀY NÀO, Ở ĐÂU</b></p>
 <p>_____________________</p>
   <p>Các bài của Nguyễn Ri: link</p>
 <p>
-<a href="https://sachhiem.net/TONGIAO/tgN/ListRiNguyen.inc.php" target="_blank">https://sachhiem.net/TONGIAO/tgN/ListRiNguyen.inc.php</a></p>
+<a href="/TONGIAO/tgN/ListRiNguyen.inc" target="_blank">https://sachhiem.net/TONGIAO/tgN/ListRiNguyen.inc.php</a></p>

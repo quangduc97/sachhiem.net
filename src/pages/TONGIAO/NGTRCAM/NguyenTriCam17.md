@@ -2,17 +2,16 @@
 layout: ../../../layouts/Article.astro
 title: "Tại Sao Chúa Trời Lại Để Cho Thảm Họa Thiên Nhiên Xảy Ra? (Nguyễn Trí Cảm)"
 author: "Nguyễn Trí Cảm"
-source: "https://sachhiem.net/TONGIAO/NGTRCAM/NguyenTriCam17.php"
+source: "/TONGIAO/NGTRCAM/NguyenTriCam17"
 category: "Tác giả"
 lang: vi
 wordCount: 2949
-image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nha.jpg"
+image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/sqdot.gif"
 ---
 
 <table border="0" cellpadding="0" width="250" align="center"><tbody><tr>
 				<td width="125">
-				<a href="/index">
-				<img border="0" src="https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nha.jpg"></a></td>
+				</td>
 	<td valign="top">25 tháng 1, 2010	</td></tr></tbody></table>
 		
 		

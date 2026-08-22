@@ -3,7 +3,7 @@ layout: ../../layouts/Article.astro
 title: "Máu Thánh Januarius -"
 author: "Lý Thái Xuân"
 date: 2020-12-26
-source: "https://sachhiem.net/LTX/LyThaiKH28a.php"
+source: "/LTX/LyThaiKH28a"
 category: "Khoa học"
 lang: vi
 wordCount: 1037
@@ -14,7 +14,7 @@ image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/TONGIAO/IMG/METIN/PH
   
   
   
-<p>Câu chuyện về "Phép Lạ Máu Thánh Hỏa Lỏng" đã được chúng tôi trình bày một lần trong bài:  <a href="https://sachhiem.net/LTX/LyThaiKH28.php">Chuyện Máu Thánh Januarius Hóa Lỏng - "Phép Lạ" hay "Ảo Thuật"</a> vào tháng 5 vừa qua. Nay đọc Tòa Soạn Báo  Rome, ngày 16 tháng 12 năm 2020 / 12:00 trưa giờ MT (CNA) thấy đăng như sau:</p>
+<p>Câu chuyện về "Phép Lạ Máu Thánh Hỏa Lỏng" đã được chúng tôi trình bày một lần trong bài:  <a href="/LTX/LyThaiKH28">Chuyện Máu Thánh Januarius Hóa Lỏng - "Phép Lạ" hay "Ảo Thuật"</a> vào tháng 5 vừa qua. Nay đọc Tòa Soạn Báo  Rome, ngày 16 tháng 12 năm 2020 / 12:00 trưa giờ MT (CNA) thấy đăng như sau:</p>
 <p> <i>Tại Naples, máu của Thánh Januarius vẫn còn đông đặc vào thứ Tư (tức không hóa lỏng) như đã 2 lần hóa lỏng vào tháng Năm và tháng Chín năm nay</i>.</p>
 <p>Linh mục Vincenzo de Gregorio, chánh sở Nhà nguyện Thánh Januarius ở Nhà thờ Naples cho biết: <i>“Khi chúng tôi lấy thuốc từ két sắt, máu hoàn toàn đặc và vẫn hoàn toàn rắn."</i></p>
 <p>De Gregorio đã trưng bày  giá đựng thánh tích và máu đông đặc bên trong cho những người tụ tập sau Thánh lễ sáng ngày 16 tháng 12 tại Nhà thờ Đức Mẹ Maria.</p>

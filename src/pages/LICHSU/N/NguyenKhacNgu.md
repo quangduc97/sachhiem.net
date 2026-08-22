@@ -3,7 +3,7 @@ layout: ../../../layouts/Article.astro
 title: "Bộ Sưu Tập Bản Đồ Cổ Việt Nam"
 author: "Nguyễn Khắc Ngữ / Nhóm Nghiên Cứu Sử Địa"
 date: 2018-11-22
-source: "https://sachhiem.net/LICHSU/N/NguyenKhacNgu.php"
+source: "/LICHSU/N/NguyenKhacNgu"
 category: "Lịch sử"
 lang: vi
 wordCount: 110

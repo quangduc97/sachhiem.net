@@ -3,7 +3,7 @@ layout: ../../../layouts/Article.astro
 title: "- Kỳ 1: Khởi đầu của chữ quốc ngữ"
 author: "Trần Nhật Vy /Tuổi Trẻ"
 date: 2019-08-03
-source: "https://sachhiem.net/LICHSU/T/TuoiTre_TranNhatVy.php"
+source: "/LICHSU/T/TuoiTre_TranNhatVy"
 category: "Chính trị"
 lang: vi
 wordCount: 1316

@@ -2,10 +2,9 @@
 layout: ../../../layouts/Article.astro
 title: "Vài Nhận Định Khi Đọc Lời Phát Biểu Của Ông Ngô Quang Kiệt (Trần Chung Ngọc)"
 author: "Trần Chung Ngọc"
-source: "https://sachhiem.net/TCN/TCNts/TCNts27.php"
+source: "/TCN/TCNts/TCNts27"
 lang: vi
 wordCount: 3519
-image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nha.jpg"
 ---
 
 <p class="Tuaduoi">VÀI NHẬN ĐỊNH KHI ĐỌC BÀI PHÁT BIỂU</p>
@@ -13,7 +12,7 @@ image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nha.jpg"
 
 
   
- <p align="center"><a href="/index"><img hspace="20" border="0" src="https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nha.jpg"></a>ngày 21 tháng 9, 2008 </p>
+ <p align="center">ngày 21 tháng 9, 2008 </p>
 
 <p> <span class="First">T</span>ôi vừa đọc trên VietCatholic News bài phát biểu của ông Ngô Quang Kiệt 
 trong cuộc họp với UBND TP Hà Nội ngày 20.09.2008. Sau đây tôi có vài nhận định 

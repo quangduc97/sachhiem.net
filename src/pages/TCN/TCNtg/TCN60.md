@@ -2,16 +2,16 @@
 layout: ../../../layouts/Article.astro
 title: "TẢN MẠN VỀ NGÀY"
 author: "Trần Chung Ngọc"
-source: "https://sachhiem.net/TCN/TCNtg/TCN60.php"
+source: "/TCN/TCNtg/TCN60"
 lang: vi
 wordCount: 9904
-image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nha.jpg"
+image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/sqdot.gif"
 ---
 
 <p class="Tuaduoi">“GIÊ-SU SINH RA ĐỜI”</p>
 		
  
-<p align="center"> <a href="/index"><img border="0" src="https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nha.jpg" align="middle" hspace="20"></a>ngày 13 tháng 12, 2008 </p>
+<p align="center"> ngày 13 tháng 12, 2008 </p>
 
 	<p class="CHUONG">PHẦN I</p>
 	<p>

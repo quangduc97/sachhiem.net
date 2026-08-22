@@ -3,7 +3,7 @@ layout: ../../layouts/Article.astro
 title: "Tại Sao Sinh Viên Quốc Tế Du Học Ở Mỹ Không Muốn Trở Về Nước?"
 author: "Nguyễn Mạnh Quang"
 date: 2016-09-21
-source: "https://sachhiem.net/NMQ/NMQ68.php"
+source: "/NMQ/NMQ68"
 category: "Lịch sử"
 lang: vi
 wordCount: 2049
@@ -33,7 +33,7 @@ States]</p>
    <p>Vào thời điểm 1967-1970,  Trường đại Học Ohio (Ohio University) có vào khoảng từ <b>50 đến 60</b> sinh viên Việt Nam  theo học. Con số này được chia ra là hai loại: </p>
    <p><b>Loại thứ nhất là các  sinh viên thuộc diện tự túc</b>. Loại này có vào khoảng hơn 30 sinh viên trẻ,  khoảng 18-19 tuổi mà đa số là nam sinh viên, chỉ có một vài nữ sinh viên. Họ là  những sinh viên tự túc thuộc con các gia đình giầu có. Chủ đích của các nam sinh  viên này là tìm cách thoát khỏi phải “<i>bị gọi nhập ngũ</i>” hay “<i>trốn quân dịch</i>” một  cách hợp pháp. Dĩ nhiên là khi hoàn tất chương trịnh học, họ ở lại ngoại quốc  một cách dễ dàng vì họ là con em của các gia đình giầu có. </p>
    <p>Gia đình các nam sinh  viên &nbsp;này phải chi (tốn phí) ít nhất là 4 khoản tiền rất lớn. Đây là những khoàn<b> tiền “biết điều”</b> để lo lót được (a) Nha Du Học ghi tên trong &nbsp;quyết định  cho sinh viên đi du học ở hải ngọai (b) Bộ Quốc Phòng cấp cho giấy chứng nhận  không kẹt trong vấn đề quân dịch, (c) &nbsp;Tổng Nha Cảnh Sát cấp cho giấy  chứng nhân thông qua vấn đề sưu tra lý lịch, và (d) &nbsp;Bộ Nội Vụ cấp cho sổ  thông hành xuất ngoai. &nbsp;Tục lệ phải nộp 4 khoản tiền này còn được áp dụng  triệt để cho đến cuối tháng 4/1975. &nbsp; </p>
-   <p><b>Loại thứ hai là &nbsp;có  vào khoảng &nbsp;gần 30 sinh viên lớn tuổi hơn</b> là các nhà giáo (trong đó có tôi), và sĩ quan  quân đội (trường hợp Đại Úy Vương Q. H. thuộc binh chủng công binh) được  học bổng USAID. Chi tiết về trường hợp tôi được cấp học bổng du học Hoa kỳ đã được trình bày trong phần đầu cùa bài <a href="https://sachhiem.net/NMQ/PCD/NMQ038.php">"Đánh Lận Danh Nhân"</a>.</p>
+   <p><b>Loại thứ hai là &nbsp;có  vào khoảng &nbsp;gần 30 sinh viên lớn tuổi hơn</b> là các nhà giáo (trong đó có tôi), và sĩ quan  quân đội (trường hợp Đại Úy Vương Q. H. thuộc binh chủng công binh) được  học bổng USAID. Chi tiết về trường hợp tôi được cấp học bổng du học Hoa kỳ đã được trình bày trong phần đầu cùa bài <a href="/NMQ/PCD/NMQ038">"Đánh Lận Danh Nhân"</a>.</p>
    <p>Trong loại này,  &nbsp;khi hoàn tất chương trình học, cũng có &nbsp;khá nhiều người không muốn  về nước để phục vụ cho đất nước vì họ cho rằng: </p>
    <p>a.-/ Chiến trạnh càng  ngày càng khốc liệt hơn, đất nước cũng như nhân dân càng ngày càng điêu đứng,  càng thê thàm hơn, </p>
    <p>b.-/ Sớm hay muộn thi  chính quyền Hoa Kỳ cũng đi đến quyết định rút quân về nước và bỏ rơi miền Nam  vì rằng hồi đó, ở Hoa Kỳ phong trào phản chiến nở rộ. Các phong trào này tổ  chức các cuộc biểu tình rầm rộ nhiều nơi trong các thành phố lớn và các khuôn  viên Đại Học ở Hoa Kỳ. Họ, lên án và đòi chính quyền Hoa Kỳ phải&nbsp; rút quân  về nước. Phong trào phản chiến này càng ngày càng trở nên mãnh liệt hơn. </p>

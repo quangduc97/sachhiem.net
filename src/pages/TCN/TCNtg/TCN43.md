@@ -2,7 +2,7 @@
 layout: ../../../layouts/Article.astro
 title: "VIỆT NAM : VESAK LIÊN HIỆP QUỐC 2008"
 author: "Trần Chung Ngọc"
-source: "https://sachhiem.net/null"
+source: "/null"
 lang: vi
 wordCount: 3124
 image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nhacu.jpg"

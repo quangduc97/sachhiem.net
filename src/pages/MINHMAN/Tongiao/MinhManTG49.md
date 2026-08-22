@@ -3,16 +3,16 @@ layout: ../../../layouts/Article.astro
 title: "Phát Triển Và Truyền Giáo"
 author: "Minh Mẫn"
 date: 2012-06-10
-source: "https://sachhiem.net/value"
+source: "/value"
 category: "Tác giả"
 lang: vi
 wordCount: 3033
-image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nha.jpg"
+image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/TONGIAO/IMG/BIBLE/TCNdt061_bread&bible-distribution.jpg"
 ---
 
 <table border="0" cellpadding="0" width="250" align="center">
             <tbody><tr>
-              <td width="125"><a href="/index"><img border="0" src="https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nha.jpg"></a></td>
+              <td width="125"></td>
               <td valign="middle">10-Jun-2012</td>
             </tr>
           </tbody></table>
@@ -21,7 +21,7 @@ image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nha.jpg"
               bài vi</i><i>ết của một cư sĩ Phật giáo. Cái nhìn</i><i> của ông
               v</i><i>ề sự khác biệt giữa Tin Lành và Thiên Chúa Giáo La Mã không
               nhất thiết chính xác (xem các bài so sánh hai tôn giáo của GS Trần
-              Chung Ngọc <a href="https://www.sachhiem.net/TCN/TCNtg/TCN04.php">https://www.sachhiem.net/TCN/TCNtg/TCN04.php,
+              Chung Ngọc <a href="/TCN/TCNtg/TCN04">https://www.sachhiem.net/TCN/TCNtg/TCN04.php,
               ...TCN05.php, ...TCN06.php</a>), nhưng những thông tin thực tế
               về hiệu quả truyền giáo của họ có thể rất xác thực.  Nhưng GS
               Trần Chung Ngọc cũng đã phân tích vấn đề cải đạo, và ông lại có

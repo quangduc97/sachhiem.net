@@ -3,16 +3,16 @@ layout: ../../../layouts/Article.astro
 title: "Ngày Tận Thế !!!"
 author: "Đào Văn Bình"
 date: 2012-12-22
-source: "https://sachhiem.net/DAOVB/VH/DaovBinh_Tanthe.php"
+source: "/DAOVB/VH/DaovBinh_Tanthe"
 category: "Văn hóa"
 lang: vi
 wordCount: 200
-image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nha.jpg"
+image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/KHOAHOC/IMG/ASTRO/YtheWldDntEysdy_NASA.jpg"
 ---
 
 <table border="0" cellpadding="0" width="250" align="center">
             <tbody><tr>
-              <td width="125"><a href="/index"><img border="0" src="https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nha.jpg"></a></td>
+              <td width="125"></td>
 			<td valign="top">22-Dec-2012</td>
             </tr>
           </tbody></table>

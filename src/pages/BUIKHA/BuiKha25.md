@@ -3,7 +3,7 @@ layout: ../../layouts/Article.astro
 title: "Đắc Lộ, Trương Vĩnh Ký & Chữ Quốc Ngữ"
 author: "Bùi Kha"
 date: 2013-04-16
-source: "https://sachhiem.net/BUIKHA/BuiKha25.php"
+source: "/BUIKHA/BuiKha25"
 category: "Lịch sử"
 lang: vi
 wordCount: 10164
@@ -16,8 +16,8 @@ image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/SACHNGOAI/Hinhanh/BI
      
      <div class="tomluoc">
       <p>Tuần  trước,  do sachhiem.net chuyển thư, tôi mới biết, cách đây 8 tháng, ông Minh Vân Nguyễn Mạnh Hùng có viết  bài “<i>Những Sai Lầm Nghiêm Trọng Của Bộ GD &amp; Đào Tạo, Nhà Nước CHXHCNVN”.</i> Tác giả viết nhiều thông tin  hoàn toàn sai lầm, và cẩu  thả vô trách nhiệm việc tô son điểm phấn cho Linh mục Đắc Lộ (Alexandre de  Rhodes) và Trương Vinh Ký. Vì bài của ông quá dài, gần 300 trang sách, nên tôi  viết hai bài phản biện.</p>
-<p> <b>Bài 1:</b><a href="https://sachhiem.net/BUIKHA/BuiKha25.php"> Giáo Sĩ Đắc Lộ &amp; Chữ Quốc Ngữ </a></p>
-      <p><b>Bài 2:</b><a href="https://sachhiem.net/BUIKHA/BuiKha25a_TVK.php"> Cựu giáo sĩ  Trương Vĩnh Ký</a></p>
+<p> <b>Bài 1:</b><a href="/BUIKHA/BuiKha25"> Giáo Sĩ Đắc Lộ &amp; Chữ Quốc Ngữ </a></p>
+      <p><b>Bài 2:</b><a href="/BUIKHA/BuiKha25a_TVK"> Cựu giáo sĩ  Trương Vĩnh Ký</a></p>
       <p>(Bùi Kha)</p>
      </div>
      <p class="MUC"><b> Bài 1: Phản Biện Tác Giả Minh Vân Về Đắc Lộ &amp; Chữ Quốc Ngữ</b></p>
@@ -225,17 +225,17 @@ image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/SACHNGOAI/Hinhanh/BI
       <p> Nếu còn hình tượng của ông tại Hà Nội và tên đường  tại TP HCM thì chính phủ nên ra lệnh hạ xuống để khỏi nhục quốc thể.</p>
       <p class="TacgiaR">Bùi Kha </p>
      <p class="TacgiaR"> 4.4.2013</p>
-     <p> Kỳ tới, mời quý vị đón đọc bài phản biện số 2: <a href="https://sachhiem.net/BUIKHA/BuiKha25a.php">Cựu giáo sĩ  Trương Vĩnh Ký</a></p>
+     <p> Kỳ tới, mời quý vị đón đọc bài phản biện số 2: <a href="/BUIKHA/BuiKha25a">Cựu giáo sĩ  Trương Vĩnh Ký</a></p>
       
       <p><b><a name="nstar" href="/BUIKHA/#star">(*)</a> Bài liên quan cùng chủ đề </b></p>
      <p>1. <i>“Alexandre de Rhodes &amp; chữ Quốc ngữ, Góp ý       với Gs. Chương Thâu” </i>[Nguyễn Kha, bút hiệu của Bùi Kha, 31.7.1996. Tạp chí <i>Giao       Điểm,</i> Mỹ quốc, số 25, tháng 12.1996].</p>
        <p>2. <i>“Vấn đề Alexandre de Rhodes và chữ Quốc ngữ” </i>[Bùi Phước, bút hiệu của Bùi       Kha. <i>TC Giao Điểm</i>, số 25, sđd].</p>
        <p>3. <i>&nbsp;“A. De Rhodes, Những Thao Tác Sai Lầm Ðể Tái Vinh Danh”,</i> [Bùi Kha,10.4.2007]. </p>
-       <p>4. <i>“Vinh danh Lm. Đắc Lộ Do nhầm lẫn việc dịch       thuật</i>” [30.7.2009, …<a href="https://www.sachhiem.net/BUIKHA/BuiKha5.php" target="_blank">https://www.sachhiem.net/BUIKHA/BuiKha5.php</a>].</p>
+       <p>4. <i>“Vinh danh Lm. Đắc Lộ Do nhầm lẫn việc dịch       thuật</i>” [30.7.2009, …<a href="/BUIKHA/BuiKha5" target="_blank">https://www.sachhiem.net/BUIKHA/BuiKha5.php</a>].</p>
        <p>5. <i>"Giáo Sĩ Đắc-Lộ  &amp; Chữ Quốc Ngữ Của:  Minh Vân"</i> (Trần Chung Ngọc), <a href="/TCN/TCNdt/TCNdt070">[https://sachhiem.net/TCN/TCNdt/TCNdt070.php</a>]</p>
-       <p>6. Trần Charlie "<i>Bức Thư Gửi Nhóm Giao Điểm, Sách Hiếm, Tôn Giáo &amp; Dân Tộc, Chuyển Luân</i>", <a href="https://sachhiem.net//THOISU_CT/ChuTr/TranCharlie.php">https://sachhiem.net//THOISU_CT/ChuTr/TranCharlie.php</a></p>
+       <p>6. Trần Charlie "<i>Bức Thư Gửi Nhóm Giao Điểm, Sách Hiếm, Tôn Giáo &amp; Dân Tộc, Chuyển Luân</i>", <a href="//THOISU_CT/ChuTr/TranCharlie.php">https://sachhiem.net//THOISU_CT/ChuTr/TranCharlie.php</a></p>
        <p>7. Nguyễn Mạnh Quang "<i>Phải Làm Gì Đối Với Tình Trạng
-Vinh Danh Những Việt Gian?</i>",<a href="https://sachhiem.net/NMQ/NMQ040.php"> https://sachhiem.net/NMQ/NMQ040.php</a></p>
+Vinh Danh Những Việt Gian?</i>",<a href="/NMQ/NMQ040"> https://sachhiem.net/NMQ/NMQ040.php</a></p>
  <hr>
      <p><b>Chú Thích</b></p>
      <p><a href="/BUIKHA/#_ftnref1" name="_ftn1" title="">(1) </a> Châu Yến Loan "<i>Tiến Trình Hoàn Thiện Chữ Quốc Ngữ Trong Kinh Lạy Cha,"</i> <br>https://www.anviettoancau.net/anviettc/index.php?option=com_content&amp;task=view&amp;id=2511 </p>
@@ -250,9 +250,9 @@ https://play.google.com/store/books/details?id=R8YCAAAAQAAJ&amp;rdid=book-R8YCAA
      <p><a href="/BUIKHA/#_ftnref9" name="_ftn9" title="">(9) </a> <i>Ảnh phim, Pope Joan,  https://www.eurotv.us/top-10/top-10-most-awesome-movies-with-super-women</i></p>
      <p><a href="/BUIKHA/#_ftnref10" name="_ftn10" title="">(10) </a> <i>"DeIoanne Anglica  Papa", <a href="https://en.wikipedia.org/wiki/Pope_Joan">https://en.wikipedia.org/wiki/Pope_Joan</a></i></p>
      <p><a href="/BUIKHA/#_ftnref11" name="_ftn11" title="">(11) </a> “<i>Dân số ký</i>, chương 31”, chứ không phải tài liệu CS đâu</p>
-     <p><a href="/BUIKHA/#_ftnref12" name="_ftn12" title=""> (12)</a> <i><a href="https://www.sachhiem.net/BUIKHA/BuiKha5.php" target="_blank">https://www.sachhiem.net/BUIKHA/BuiKha5.php</a></i></p>
+     <p><a href="/BUIKHA/#_ftnref12" name="_ftn12" title=""> (12)</a> <i><a href="/BUIKHA/BuiKha5" target="_blank">https://www.sachhiem.net/BUIKHA/BuiKha5.php</a></i></p>
      <p><a href="/BUIKHA/#_ftnref13" name="_ftn13" title=""> (13)</a> Huỳnh Ái Tông <i>"Nguồn Gốc Chữ Quốc ngữ"</i><a href="https://chimviet.free.fr/ngonngu/phuctrun/phul050.htm">https://chimviet.free.fr/ngonngu/phuctrun/phul050.htm, https://www.sachhiem.net/BUIKHA/BuiKha5.php </a></p>
-     <p><a href="/BUIKHA/#_ftnref14" name="_ftn14" title="">(14) </a> Bùi Kha <i>"ALEXANDRE DE RHODES: Công và Tội", <a href="https://www.sachhiem.net/BUIKHA/BuiKha5.php" target="_blank">https://www.sachhiem.net/BUIKHA/BuiKha5.php</a></i></p>
+     <p><a href="/BUIKHA/#_ftnref14" name="_ftn14" title="">(14) </a> Bùi Kha <i>"ALEXANDRE DE RHODES: Công và Tội", <a href="/BUIKHA/BuiKha5" target="_blank">https://www.sachhiem.net/BUIKHA/BuiKha5.php</a></i></p>
      <p><a href="/BUIKHA/#_ftnref15" name="_ftn15" title=""> (15)</a>&nbsp; Hồng Nhuệ dịch “ <i>Hành Trình và Truyền giáo.</i> Tủ sách Đại Kết, Ủy Ban Đoàn Kết Công Giáo, TP Hồ Chí Minh xuất bản năm 1994.</p>
      <p><a href="/BUIKHA/#_ftnref16" name="_ftn16" title="">(16) </a> “<b><i>Lời Thề Dòng Tên”</i></b> trên Internet. Đánh ba chữ:  “The Jesuit Oath”, hoặc theo mạng luới  này:<b> </b>https://www.ianpaisley.org/article.asp?ArtKey=jesuit). </p>
      <p><a href="/BUIKHA/#_ftnref17" name="_ftn17" title="">(17) </a>&nbsp; Nguyễn  Xuân Thọ “<i>Bước Mở Đầu Của Sự Thiết Lập Hệ Thống Thuộc Địa  Pháp Ở Việt Nam (1858-1897)’’, </i>California, 1994.</p>
@@ -261,36 +261,36 @@ https://play.google.com/store/books/details?id=R8YCAAAAQAAJ&amp;rdid=book-R8YCAA
     <p>___________________</p>
        <p> <b>Bài đọc thêm: </b></p>
    <p>-  <a href="https://tongiaovadantoc.com/c0/20111217221441534/gop-y-voi-gs-chuong-thau-ve-van-de-alexandre-de-rhodes-chu-quoc-ngu-bui-kha.htm">Alexandre de Rhodes và Chữ Quốc Ngữ, Biện Chính Với Giáo Sư Chương Thâu</a> (Bùi Kha)</p>
-       <p> - <a href="https://sachhiem.net/BUIKHA/BuiKha25.php">Đắc Lộ, Trương Vĩnh Ký &amp; Chữ Quốc Ngữ của Tác Giả Minh Vân</a> (Bùi Kha)</p>
+       <p> - <a href="/BUIKHA/BuiKha25">Đắc Lộ, Trương Vĩnh Ký &amp; Chữ Quốc Ngữ của Tác Giả Minh Vân</a> (Bùi Kha)</p>
        <p>- <a href="https://tunguyenhoc.wordpress.com/2012/07/20/khong-la-linh-thi-la-gi-nang-luong-moi-so-135-6-7-2012-an-chi-hue-thien/">Không Là Lính Thì Là Gì? </a>(An chi, Huệ Thiên)</p>
        <p>- <a href="https://www.daophatngaynay.com/vn/dien-dan/doi-thoai/5269-Alexandre-de-Rhodes-khong-phai-la-nguoi-sang-tao-ra-chu-Viet-.html">Alexandre de Rhodes không phải là người sáng tạo ra chữ Việt?</a> (An Chi)</p>
        <p>- <a href="https://www.talawas.org/talaDB/showFile.php?res=6987&amp;rb=0302">Alexandre de Rhodes - Đối luận với tác giả Hoàng Hưng</a> (Bùi Kha)</p>
        <p>- <a href="https://tunguyenhoc.wordpress.com/2012/07/16/a-de-rhodes-tra-loi-cac-ong-pham-quang-tuan-va-phong-uyen-bui-kha-talawas/">A. de Rhodes, trả lời các ông Phạm Quang Tuấn và Phong Uyên</a> (Bùi Kha)</p>
        <p>- <a href="https://www.talawas.org/talaDB/showFile.php?res=7095&amp;rb=0505">Alexandre de Rhodes, chữ Quốc ngữ và quan điểm chính trị</a> (Bùi Kha)</p>
        <p>- <a href="https://www.ngheandost.gov.vn/JournalDetail/ar2149_Co_phai_chi_Alexandre_de_Rhodes_la_cha_de_cua_chu_Quoc_ngu.aspx">Có phải chỉ Alexandre de Rhodes là cha đẻ của chữ Quốc ngữ</a> (Đậu Kỷ Luật)</p>
--&nbsp;<a href="https://sachhiem.net/CHARLIE/CN_TTDTG/Alexandre.php">Alexandre De Rhodes và Chữ Quốc Ngữ &nbsp;</a>&nbsp;(Charlie Nguyễn)
-<p>-&nbsp;<a href="https://sachhiem.net/TCN/TCNdt/TCNdt070.php">Giáo Sĩ Đắc-Lộ &amp;Chữ Quốc Ngữ Của Minh Vân</a>&nbsp;(Trần Chung Ngọc)</p>
-<p>-&nbsp;<a href="https://sachhiem.net/BUIKHA/BuiKha25.php">Giáo Sĩ Đắc Lộ &amp;&nbsp; Chữ Quốc Ngữ&nbsp;</a>(Bùi Kha)</p>
-<p>-&nbsp;<a href="https://sachhiem.net/NMQ/NMQ040.php">Phải Làm Gì Đối Với Tình Trạng Vinh Danh Những Việt Gian?</a>&nbsp;(Nguyễn Mạnh Quang)</p>
+-&nbsp;<a href="/CHARLIE/CN_TTDTG/Alexandre">Alexandre De Rhodes và Chữ Quốc Ngữ &nbsp;</a>&nbsp;(Charlie Nguyễn)
+<p>-&nbsp;<a href="/TCN/TCNdt/TCNdt070">Giáo Sĩ Đắc-Lộ &amp;Chữ Quốc Ngữ Của Minh Vân</a>&nbsp;(Trần Chung Ngọc)</p>
+<p>-&nbsp;<a href="/BUIKHA/BuiKha25">Giáo Sĩ Đắc Lộ &amp;&nbsp; Chữ Quốc Ngữ&nbsp;</a>(Bùi Kha)</p>
+<p>-&nbsp;<a href="/NMQ/NMQ040">Phải Làm Gì Đối Với Tình Trạng Vinh Danh Những Việt Gian?</a>&nbsp;(Nguyễn Mạnh Quang)</p>
 <p>-&nbsp;<a href="https://chimviet.free.fr/ngonngu/phuctrun/phul050.htm">Nguồn Gốc Chữ Quốc ngữ</a>&nbsp;(Huỳnh Ái Tông)</p>
-<p>-&nbsp;<a href="https://www.sachhiem.net/BUIKHA/BuiKha5.php">ALEXANDRE DE RHODES, Công và Tội</a>&nbsp;(Bùi Kha)</p>
+<p>-&nbsp;<a href="/BUIKHA/BuiKha5">ALEXANDRE DE RHODES, Công và Tội</a>&nbsp;(Bùi Kha)</p>
 <p>- <a href="https://huongsenviet.blogspot.com/2009/07/chu-quoc-ngu-va-quan-iem-chinh-tri.html">Chữ Quốc Ngữ Và Quan Điểm Chính Trị</a> (Bùi Kha)</p>
-<p>- <a href="https://sachhiem.net/BUIKHA/BuiKha27_Alex.php">Alexandre De Rhodes - Những Nhầm Lẫn Đáng Tiếc</a> (Bùi Kha)</p>
+<p>- <a href="/BUIKHA/BuiKha27_Alex">Alexandre De Rhodes - Những Nhầm Lẫn Đáng Tiếc</a> (Bùi Kha)</p>
 <p>___________________</p>
    <p><b>Những bài cùng đề tài:</b></p>
   <p>- Hành Trình Đi Tìm Ông Trương Vĩnh Ký Nguyễn Thái An)<br>
-<a href="https://sachhiem.net/LICHSU/N/NguyenThaiAn.php">https://sachhiem.net/LICHSU/N/NguyenThaiAn.php</a></p>
+<a href="/LICHSU/N/NguyenThaiAn">https://sachhiem.net/LICHSU/N/NguyenThaiAn.php</a></p>
    <p>- Đắc Lộ, Trương Vĩnh Ký &amp; Chữ Quốc Ngữ của Tác Giả Minh Vân (Bùi Kha)
-<a href="https://sachhiem.net/BUIKHA/BuiKha25a.php">https://sachhiem.net/BUIKHA/BuiKha25a.php</a></p>
+<a href="/BUIKHA/BuiKha25a">https://sachhiem.net/BUIKHA/BuiKha25a.php</a></p>
    <p>- Lá Thư (1) Gửi Quí Vị Cựu Giáo Sư Và Học Sinh Trường Kiểu Mẫu Thủ Đức Hiền tài hay Việt gian? (Nguyễn Mạnh Quang)<br>
-<a href="https://sachhiem.net/NMQ/NMQ011.php">https://sachhiem.net/NMQ/NMQ011.php</a></p>
+<a href="/NMQ/NMQ011">https://sachhiem.net/NMQ/NMQ011.php</a></p>
    <p>- Ngắn Gọn Về Thầy Thông Ngôn Trương Vĩnh Ký (Nguyễn Thái An)
-<a href="https://sachhiem.net/LICHSU/N/NguyenThaiAn04.php">https://sachhiem.net/LICHSU/N/NguyenThaiAn04.php</a></p>
+<a href="/LICHSU/N/NguyenThaiAn04">https://sachhiem.net/LICHSU/N/NguyenThaiAn04.php</a></p>
    <p>- Trương Vĩnh Ký, Yêu Nước? Đối Luận với ông Trần Hữu Tá (Bùi Kha)
-<a href="https://sachhiem.net/BUIKHA/BuiKha19.php">https://sachhiem.net/BUIKHA/BuiKha19.php</a></p>
+<a href="/BUIKHA/BuiKha19">https://sachhiem.net/BUIKHA/BuiKha19.php</a></p>
   <p>- Góp Ý Về Bài Của Ông Đặng Văn Việt Góp Ý Sửa Đổi Hiến Pháp (Nguyễn Mạnh Quang)<br>
-     <a href="https://sachhiem.net/NMQ/NMQ041.php">https://sachhiem.net/NMQ/NMQ041.php</a></p>
+     <a href="/NMQ/NMQ041">https://sachhiem.net/NMQ/NMQ041.php</a></p>
 	<p>- Trương Vĩnh Ký phản bội Tổ quốc, sao lại gọi là yêu nước ? (Bùi Kha) <br>
    <a href="/BUIKHA/BuiKha25b_TVK">https://sachhiem.net/BUIKHA/BuiKha25b_TVK.php</a> </p>
       <p>- Đổi Mới Sử Học Không Có Nghĩa Là Tô Đen Thành Trắng (BS. Nguyễn Văn Thịnh)
-<a href="https://sachhiem.net/VANHOC/N/NguyenvThinh_05.php">https://sachhiem.net/VANHOC/N/NguyenvThinh_05.php</a></p>
+<a href="/VANHOC/N/NguyenvThinh_05">https://sachhiem.net/VANHOC/N/NguyenvThinh_05.php</a></p>

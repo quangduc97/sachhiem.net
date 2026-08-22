@@ -3,7 +3,7 @@ layout: ../../layouts/Article.astro
 title: "Vị Bác Sĩ Đáng Kính Nhất Trong Đời Tôi"
 author: "Lý Thái Xuân"
 date: 2015-09-21
-source: "https://sachhiem.net/LTX/LyThaiXH22.php"
+source: "/LTX/LyThaiXH22"
 category: "Xã hội"
 lang: vi
 wordCount: 312

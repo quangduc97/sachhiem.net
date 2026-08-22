@@ -1,7 +1,7 @@
 ---
 layout: ../../../layouts/Article.astro
 title: "VnExpress - Clip diễu binh của quân đội, công an - Clip dieu binh cua quan doi, cong an"
-source: "https://sachhiem.net/null"
+source: "/null"
 lang: vi
 wordCount: 1067
 image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/LICHSU/VnX/Y-kien-cua-ban.gif"

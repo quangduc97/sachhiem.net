@@ -3,7 +3,7 @@ layout: ../../../layouts/Article.astro
 title: "Quanh Bài Ca “Suy Tôn Ngô Tổng Thống”"
 author: "Tạ Tốn"
 date: 2013-10-29
-source: "https://sachhiem.net/THLOI/CT/Taton.php"
+source: "/THLOI/CT/Taton"
 category: "Tác giả"
 lang: vi
 wordCount: 3702

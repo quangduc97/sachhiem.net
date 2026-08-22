@@ -2,7 +2,7 @@
 layout: ../../../layouts/Article.astro
 title: "Đệ nhị thế chiến"
 author: "Tổng Hợp"
-source: "https://sachhiem.net/null"
+source: "/null"
 lang: vi
 wordCount: 7639
 image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/LICHSU/file:///C:/SACHHIEM/images/mail.gif"
@@ -1465,7 +1465,7 @@ Gửi bài này cho bạn bè</font></a></td>
 
 	
  
-	 <center> <a href="https://sachhiem.net/NVTho/NVThodir.php"><img src="https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/MuclucButton.gif"></a></center>
+	 <center> <a href="/NVTho/NVThodir"><img src="https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/MuclucButton.gif"></a></center>
 
 
 

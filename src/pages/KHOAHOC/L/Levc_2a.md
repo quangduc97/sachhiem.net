@@ -3,21 +3,21 @@ layout: ../../../layouts/Article.astro
 title: "Light Moving in the Space of a Black Hole"
 author: "Lê văn Cường"
 date: 2012-03-18
-source: "https://sachhiem.net/Levc_2a.php"
+source: "/Levc_2a"
 category: "Khoa học"
 lang: en
 wordCount: 1842
-image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nha.jpg"
+image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/KHOAHOC/IMG/LevanCuong2a02.jpg"
 ---
 
 <table border="0" cellpadding="1" align="center" width="250">
-        <tbody><tr><td width="100"><a href="/index"><img border="0" src="https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nha.jpg"></a></td>
+        <tbody><tr><td width="100"></td>
 		<td valign="top" width="198">18-Mar-2012</td>
 	</tr>
 </tbody></table>
     
        
-       <p>►<a href="https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.devhttps://sachhiem.net/KHOAHOC/L/Levc_2.pdf"> See Vietnamese version ☞</a></p>
+       <p>►<a href="https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/KHOAHOC/L/Levc_2.pdf"> See Vietnamese version ☞</a></p>
        <p>We agree with Einstein’s Relativity that
          the space and time are not absolute, and the space and time are distorted
          by the strong gravitational field. It means that when the gravitational

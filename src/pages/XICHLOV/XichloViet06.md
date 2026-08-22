@@ -7,12 +7,11 @@ source: "https://xichloviet.wordpress.com/2012/02/25/c%e1%bb%9d-vang-mach-bu/"
 category: "Đối thoại"
 lang: vi
 wordCount: 3266
-image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nha.jpg"
+image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/machbu.jpg"
 ---
 
 <table border="0" align="center" cellpadding="1" width="250"><tbody><tr>
-	<td width="234"><a href="https://www.sachhiem.net/">
-	<img border="0" src="https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nha.jpg"></a></td>
+	<td width="234"></td>
 <td valign="top" width="356">	</td></tr></tbody></table>
  
  <p><span class="First">B</span>u trong tiếng Việt ở một số vùng quê miền Bắc là tiếng xưng hô chỉ người
@@ -229,6 +228,6 @@ https://www.dongduongthoibao.net/view.php?storyid=371 </p>
    quốc hội và tổng thống Hoa Kỳ)</p>
  <p>(2) Michael Mc Lear. Vietnam, the ten thousand day war. Thames Methuen. London.
    1982. pg. 896</p>
- <p>(3) Trích: <a href="https://sachhiem.net/index.php?content=showrecipe&amp;id=5056">Tâm
+ <p>(3) Trích: <a href="/VANHOC/ThoCautacVW">Tâm
      sự cờ vàng, thơ vô danh, diễn đàn interrnet.</a></p>
  <hr>

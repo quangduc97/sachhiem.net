@@ -3,7 +3,7 @@ layout: ../../../layouts/Article.astro
 title: "Phép Giảng Tám Ngày"
 author: "Trang nhà SH"
 date: 2015-06-30
-source: "https://sachhiem.net/TONGIAO/ADRhodes/8Ngay.php"
+source: "/TONGIAO/ADRhodes/8Ngay"
 category: "Chính trị"
 lang: vi
 wordCount: 12

@@ -3,7 +3,7 @@ layout: ../../../layouts/Article.astro
 title: "Hãy Làm Đẹp Thành Phố"
 author: "Đào Văn Bình"
 date: 2017-03-20
-source: "https://sachhiem.net/DAOVB/VH/DaovBinh_moitruong.php"
+source: "/DAOVB/VH/DaovBinh_moitruong"
 category: "Chính trị"
 lang: vi
 wordCount: 553

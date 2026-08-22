@@ -2,15 +2,13 @@
 layout: ../../layouts/Article.astro
 title: "CHIỀU MƯA BIÊN GIỚI ANH ĐI VỀ ĐÂU"
 author: "Hoàng Nguyên Nhuận"
-source: "https://sachhiem.net/HOANGNN/Hoang16.php"
+source: "/HOANGNN/Hoang16"
 category: "Chính trị"
 lang: vi
 wordCount: 17337
-image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nha.jpg"
 ---
 
-<p align="center"><a href="https://www.sachhiem.net/">
-	<img border="0" src="https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nha.jpg"></a> 29 tháng 10, 2008</p>
+<p align="center"> 29 tháng 10, 2008</p>
 	    
 	<p>Người Miền Nam thuộc thế hệ của Hoàng tôi mấy ai chẳng 
 	một lần lắc lư hụt hẫng khi nghe Nguyễn Văn Đông hỏi <i>Chiều mưa biên giới 

@@ -3,15 +3,15 @@ layout: ../../../layouts/Article.astro
 title: "Bản Shanti Cho Người Vừa Đến"
 author: "Huyền Lam"
 date: 2012-11-26
-source: "https://sachhiem.net/TONGIAO/tgH/HuyenLam01.php"
+source: "/TONGIAO/tgH/HuyenLam01"
 category: "Tác giả"
 lang: vi
 wordCount: 875
-image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nha.jpg"
+image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/TONGIAO/IMG/SU/HuyenLam01_ThichTamMan1.jpg"
 ---
 
 <table border="0" cellpadding="0" width="250" align="center"><tbody><tr>
-	<td width="125"><a href="/index"><img border="0" src="https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nha.jpg"></a></td>
+	<td width="125"></td>
 <td valign="middle">26-Nov-2012</td>
 		</tr></tbody></table>
 <p><span class="First">D</span>ẫu chưa một lần gặp mặt nhưng tôi muốn viết về thầy với tất cả lòng yêu thương,

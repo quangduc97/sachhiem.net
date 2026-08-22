@@ -3,7 +3,7 @@ layout: ../../layouts/Article.astro
 title: "Giáo Hoàng Francis Đòi Hỏi Các linh mục ở Nigeria Sự Vâng Phục Tuyệt Đối"
 author: "Conor Gaffey"
 date: 2017-06-15
-source: "https://sachhiem.net/LTX/LyThaiTG19.php"
+source: "/LTX/LyThaiTG19"
 category: "Tác giả"
 lang: vi
 wordCount: 537

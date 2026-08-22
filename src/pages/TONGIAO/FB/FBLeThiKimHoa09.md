@@ -3,7 +3,7 @@ layout: ../../../layouts/Article.astro
 title: "Các Nhà Phê Bình Thời Khai Sáng Coi Hầu Hết Các Giáo Lý Của Thiên Chúa Giáo Là Mê Tín"
 author: "Lê thị Kim Hoa"
 date: 2025-03-31
-source: "https://sachhiem.net/TONGIAO/FB/FBLeThiKimHoa09.php"
+source: "/TONGIAO/FB/FBLeThiKimHoa09"
 category: "Tác giả"
 lang: vi
 wordCount: 440

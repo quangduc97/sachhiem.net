@@ -3,7 +3,7 @@ layout: ../../../layouts/Article.astro
 title: "Những Chuyện Kể Của PHGV"
 author: "Phượng Hoàng GV"
 date: 2015-11-06
-source: "https://sachhiem.net/LICHSU/P/PhuongHoang08.php"
+source: "/LICHSU/P/PhuongHoang08"
 category: "Lịch sử"
 lang: vi
 wordCount: 2209
@@ -101,9 +101,9 @@ Vì Vua Bảo Đại tánh con  Trâu tuổi Sửu, nên Vua Bảo Đại hiền
 <p><b>Nhận xét bổ túc của  GS Nguyễn Mạnh Quang:</b></p>
 <p><a name="n1" href="/LICHSU/#one">(1)</a> <b>NMQ: </b>Xin nói cho rõ: Chuyện Ngô Đình Diệm phản Pháp theo Nhật (1) manh nha từ cuối năm 1940 sau khi 6 ngàn quân Nhật tiến vào Việt Nam theo Hiệp Đông Kinh ký ngày 30/8/1940 (Nguyễn Mạnh Quang, Đệ Nhị Thế Chiến Và Chiến Tranh Lanh (Tacoma , WA: Tacoma Public Schools, 1994), tr 122), (2) thể hiện ra thành hành động vào thời điểm ngay sau đó không bao lâu, có lẽ vào khoảng năm 1943 hay đầu năm 1944, và  bị Pháp bắt giam vào thời điểm trước tháng 8 năm 1944. </p>
 <p>Lá thư của Giám Mục Ngô Đình Thục gửi  Toàn Quyền Đông Dưiong Jean Decoux để năn nỉ xin tha cho Ngô Đình Diệm đề ngày 21/8/1944. (Đỗ Mậu, Việt Nam Máu Lửa Quê Hương Tôi (Wesminster, CA: Văn Nghệ, 1993),  1042-1045</p>
-<p><a name="n2" href="/LICHSU/#two">(2)</a> Phản trắc là bản chất của  con chiên Ngô Đình Dệm, cho nên sách sử cũng như các chứng nhân đương thời đều  ghi nhận từ ngày bước vào quan trường rồi được Vatican và Hoa Kỳ đưa lên cầm  quyền ở miền Nam cho đến ngày bị quân dân miền Nam lôi ra đập chết vào sáng  ngày 2/11/1963, thành tích phản trắc của Ngô Đình Diệm đối (1) với vua,  (2)&nbsp; với nước (3) với các quan thày  Pháp,&nbsp; MỸ, (4) với bạn bè thân thiết, (5)  với các nhân viên dưới quyền, (6) với các nhà lãnh đạ Phật giáo, (7) với các cÁ  nhân và thế lục đối lập về chính trị, v.v…, phải nói là nhiều lắm. Vấn đề này  đã được chúng tôi nói rõ trong Mục X có nhan đề là “Những Thành Tích Phản Trắc  Của Ngô Đình Diệm” Chương 3, sách Lịch Sử và Hồ Sơ Tội Ác của Giáo Hội La Mã: (<a href="https://sachhiem.net/NMQ/HOSOTOIAC/CH63_1a.php">https://sachhiem.net/NMQ/HOSOTOIAC/CH63_1a.php</a>) </p>
+<p><a name="n2" href="/LICHSU/#two">(2)</a> Phản trắc là bản chất của  con chiên Ngô Đình Dệm, cho nên sách sử cũng như các chứng nhân đương thời đều  ghi nhận từ ngày bước vào quan trường rồi được Vatican và Hoa Kỳ đưa lên cầm  quyền ở miền Nam cho đến ngày bị quân dân miền Nam lôi ra đập chết vào sáng  ngày 2/11/1963, thành tích phản trắc của Ngô Đình Diệm đối (1) với vua,  (2)&nbsp; với nước (3) với các quan thày  Pháp,&nbsp; MỸ, (4) với bạn bè thân thiết, (5)  với các nhân viên dưới quyền, (6) với các nhà lãnh đạ Phật giáo, (7) với các cÁ  nhân và thế lục đối lập về chính trị, v.v…, phải nói là nhiều lắm. Vấn đề này  đã được chúng tôi nói rõ trong Mục X có nhan đề là “Những Thành Tích Phản Trắc  Của Ngô Đình Diệm” Chương 3, sách Lịch Sử và Hồ Sơ Tội Ác của Giáo Hội La Mã: (<a href="/NMQ/HOSOTOIAC/CH63_1a">https://sachhiem.net/NMQ/HOSOTOIAC/CH63_1a.php</a>) </p>
 <div align="center"><div class="fb-share-button" data-layout="button" data-size="large" data-actiob="like" data-show-faces="true" data-share="true" data-mobile-iframe="true"></div>
 </div>
 <hr> 
-<p>Các chuyện kể của Phượng Hoàng Gò Vấp: link <a href="https://sachhiem.net/LICHSU/P/ListPHGV.inc.php" target="_blank">https://sachhiem.net/LICHSU/N/ListPHGV.inc.php</a></p>  
+<p>Các chuyện kể của Phượng Hoàng Gò Vấp: link <a href="/LICHSU/P/ListPHGV.inc" target="_blank">https://sachhiem.net/LICHSU/N/ListPHGV.inc.php</a></p>  
   <hr>

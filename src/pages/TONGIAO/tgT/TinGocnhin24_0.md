@@ -3,7 +3,7 @@ layout: ../../../layouts/Article.astro
 title: "Người Do Thái bị Công giáo hãm hại như thế nào?"
 author: "Góc Nhìn 24"
 date: 2019-04-07
-source: "https://sachhiem.net/TONGIAO/tgT/TinGocnhin24_0.php"
+source: "/TONGIAO/tgT/TinGocnhin24_0"
 category: "Chính trị"
 lang: vi
 wordCount: 4179

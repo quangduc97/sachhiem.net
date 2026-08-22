@@ -3,7 +3,7 @@ layout: ../../../layouts/Article.astro
 title: "Dã Tâm Của Những Kẻ Chuyên Bới Móc Đời Tư"
 author: "Nguyễn Kim Khanh/ KBCHN"
 date: 2015-08-27
-source: "https://sachhiem.net/THOISU_CT/ChuK/KBCHN_TS4.php"
+source: "/THOISU_CT/ChuK/KBCHN_TS4"
 category: "Chính trị"
 lang: vi
 wordCount: 4460
@@ -50,8 +50,8 @@ image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/LICHSU/IMG/HOCHIMINH
 <p class="nguonL">Nguồn <a href="https://kbchn.net/da-tam-cua-nhung-ke-chuyen-boi-moc-lich-su-18944.html">https://kbchn.net/</a>da-tam-cua-nhung-ke-chuyen-boi-moc-lich-su-18944.html</p>
 <p> __________________</p>
 <p><b>Bài liên quan:</b></p>
-<p>- <a href="https://sachhiem.net/NMQ/NMQ020.php">Về Chuyện Đảo Ngược Danh Dự Ông Hồ Chí Minh</a> (Nguyễn Mạnh Quang)</p>
-<p>- <a href="https://sachhiem.net/NMQ/PCD/NMQ038.php">Đánh Lận Danh Nhân</a> (Nguyễn Mạnh Quang)</p>
+<p>- <a href="/NMQ/NMQ020">Về Chuyện Đảo Ngược Danh Dự Ông Hồ Chí Minh</a> (Nguyễn Mạnh Quang)</p>
+<p>- <a href="/NMQ/PCD/NMQ038">Đánh Lận Danh Nhân</a> (Nguyễn Mạnh Quang)</p>
 <p>- <a href="https://www.nguoiduatin.vn/tin-tuc-hinh-anh-lich-su-ve-ngay-cach-mang-thang-81945-o-ha-noi-a144887.html">Hình ảnh lịch sử về ngày Cách mạng tháng 8/1945 ở Hà Nội</a></p>
 <p>___________________</p>
 <p><b>Nhận xét:</b></p>

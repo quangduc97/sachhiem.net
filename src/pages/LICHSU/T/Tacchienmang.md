@@ -3,7 +3,7 @@ layout: ../../../layouts/Article.astro
 title: "Lịch Sử Biển Đảo Việt Nam"
 author: "Trang Tacchienmang"
 date: 2019-09-22
-source: "https://sachhiem.net/LICHSU/T/Tacchienmang.php"
+source: "/LICHSU/T/Tacchienmang"
 category: "Chính trị"
 lang: vi
 wordCount: 1048

@@ -2,7 +2,7 @@
 layout: ../../../layouts/Article.astro
 title: "Một Số Điều Gian Dối Trong Cuốn"
 author: "Nguyễn Mạnh Quang"
-source: "https://sachhiem.net/16 tháng 4, 2011"
+source: "/16 tháng 4, 2011"
 lang: vi
 wordCount: 462
 image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/SACH/HoangNgocThanha.jpg"
@@ -15,7 +15,7 @@ image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/SACH/HoangNgo
   <tbody><tr>
    <td width="250" valign="top"><center>
      <img border="0" src="https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/SACH/HoangNgocThanha.jpg" width="149" height="229">  <br>
-     <a target="_top" href="/index"> <img src="https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nha.jpg" border="0"></a>
+     
     </center>
     <div style="padding-left: 10px; padding-right: 10px; padding-top: 10px; padding-bottom: 10px">
      

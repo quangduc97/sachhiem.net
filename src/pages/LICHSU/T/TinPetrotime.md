@@ -3,7 +3,7 @@ layout: ../../../layouts/Article.astro
 title: "Hai ông Diệm - Nhu và những chiến dịch “phá đám” Sihanouk"
 author: "Ngọc Trí - Lư Trung/ Petrotimes.vn"
 date: 2016-09-27
-source: "https://sachhiem.net/LICHSU/T/TinPetrotime.php"
+source: "/LICHSU/T/TinPetrotime"
 category: "Lịch sử"
 lang: vi
 wordCount: 2738

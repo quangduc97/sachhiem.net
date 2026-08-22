@@ -3,7 +3,7 @@ layout: ../../../layouts/Article.astro
 title: "Những Chuyện Kể Của PHGV"
 author: "Phượng Hoàng GV"
 date: 2022-03-28
-source: "https://sachhiem.net/LICHSU/P/PhuongHoang20.php"
+source: "/LICHSU/P/PhuongHoang20"
 category: "Lịch sử"
 lang: vi
 wordCount: 2160
@@ -100,5 +100,5 @@ Một lãnh thổ băng giá,  hoang vu...lần  lần vào tay Nga Russia ...</
 <p>- <a href="https://en.wikipedia.org/wiki/Kievan_Rus%27">Kievan Rus'</a></p>
 <p>- <a href="https://www.businessinsider.com/map-russian-invasion-ukraine-2014-4">This Is What A Russian Invasion Of Ukraine Could Look Like</a></p>
 <hr> 
-<p>Các chuyện kể của Phượng Hoàng Gò Vấp: link <a href="https://sachhiem.net/LICHSU/P/ListPHGV.inc.php" target="_blank">https://sachhiem.net/LICHSU/P/ListPHGV.inc.php</a></p>  
+<p>Các chuyện kể của Phượng Hoàng Gò Vấp: link <a href="/LICHSU/P/ListPHGV.inc" target="_blank">https://sachhiem.net/LICHSU/P/ListPHGV.inc.php</a></p>  
   <hr>

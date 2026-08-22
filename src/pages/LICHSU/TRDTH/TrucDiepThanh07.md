@@ -3,7 +3,7 @@ layout: ../../../layouts/Article.astro
 title: "Phát Hiện Mới Về Các Di Vật Đời Tây Sơn"
 author: "Trúc Diệp Thanh"
 date: 2015-10-10
-source: "https://sachhiem.net/LICHSU/TRDTH/TrucDiepThanh07.php"
+source: "/LICHSU/TRDTH/TrucDiepThanh07"
 category: "Lịch sử"
 lang: vi
 wordCount: 4327
@@ -14,7 +14,7 @@ image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/LICHSU/TRDTH/IMG/Dan
 		
   
 
-<p><i>&nbsp;&nbsp;&nbsp; Bài “Đã tìm được lai lịch hoàn chỉnh của Đô đốc Đông  Lĩnh hầu Đặng Tiến Giản (<a href="https://sachhiem.net/LICHSU/TRDTH/TrucDiepThanh06.php">https://sachhiem.net/LICHSU/TRDTH/TrucDiepThanh06.php</a>)”  đã xác minh:”Đặng tướng công nêu trong gia phả Đặng tộc và trong các di bản đời  Tây Sơn ở Lương Xá là nhân vật lịch sử có <b>hai tên</b> trải qua hai triều đại: Đô đốc  Đặng Tiến Đông đời Lê Trịnh (1738-1787) và cũng là Đô đốc Đặng Tiến Giản đời Tây  Sơn từ sau năm 1787”. Từ kết quả khám phá lai lịch của Đặng tướng công ở Lương  Xá như trên đã có cơ sở để tìm hiểu thêm về một số tồn tại xung quanh nhân vật  này.  </i></p>
+<p><i>&nbsp;&nbsp;&nbsp; Bài “Đã tìm được lai lịch hoàn chỉnh của Đô đốc Đông  Lĩnh hầu Đặng Tiến Giản (<a href="/LICHSU/TRDTH/TrucDiepThanh06">https://sachhiem.net/LICHSU/TRDTH/TrucDiepThanh06.php</a>)”  đã xác minh:”Đặng tướng công nêu trong gia phả Đặng tộc và trong các di bản đời  Tây Sơn ở Lương Xá là nhân vật lịch sử có <b>hai tên</b> trải qua hai triều đại: Đô đốc  Đặng Tiến Đông đời Lê Trịnh (1738-1787) và cũng là Đô đốc Đặng Tiến Giản đời Tây  Sơn từ sau năm 1787”. Từ kết quả khám phá lai lịch của Đặng tướng công ở Lương  Xá như trên đã có cơ sở để tìm hiểu thêm về một số tồn tại xung quanh nhân vật  này.  </i></p>
 <hr>
  <p><b>I- <u>Về hai pho tượng cùng mang tên Đô đốc Đông Lĩnh  hầu Đặng tiến Đông. </u></b></p>
 <p>  Căn cứ  vào thông tin công bố trên công luận cho thấy từ cuối thế kỷ 18, song song với  việc phát hiện nhân vật Đặng tướng công ở Lương Xá trên gia phả, trên Sắc phong,  văn bia, cũng đã tồn tại hai pho tượng của Đặng tướng công đặt ở hai nơi:một ở  chùa Trăm Gian (Quảng Nghiêm tự thôn Tiên Lữ, xã Tiên Phương, Chương Mỹ), và  một ở chùa Thủy Lâm&nbsp; ở Lương Xá (nay  thuộc xã Lam Điền, huyện Chương Mỹ) đều thuộc tỉnh Hà Tây cũ nay thuộc Hà Nội. Cũng  chưa có bài nghiên cứu nào giải thích vì sao có hai pho tượng cùng một tên nhân  vật nhưng hình thức không giống nhau và được thờ ở hai chùa khác nhau?Với việc  phát hiện lai lịch đầy đủ của Đặng tướng công:là <i>Đô đốc Đặng Tiến Đông đời Lê </i>(1738-1787) và <i>Đô đốc Đặng Tiến Giản đời Tây Sơn</i> (từ sau 1787…) dã giúp sáng tỏ  nghi vấn trên. &nbsp;</p>
@@ -52,9 +52,9 @@ Trăm Gian. [Đô đốc Đặng Tiến  Đông (bên trái) Hà Quận công <b
 <p> (1)  Bức ảnh 2 trước đây TDT đã gửi SHN có kèm chú thích:”<i>Ảnh Đô đốc Đặng Tiến Giản ở chùa Trăm Gian”. </i>Gần đây nghiên cứu ảnh  Đô đốc Đặng Tiến Đông ở chùa Trăm Gian và tìm lại bản gốc bức ảnh đã gửi SHN  cho thấy chú thích dưới ảnh như trên là sai, đúng ra phải chú thích: ”<i>Ảnh Đô đốc Đặng Tiến Giản ở chùa Thủy Lâm”</i>.  Nay xin đính chính và xin lỗi BBT SHN và bạn đọc. TDT. &nbsp;</p>
 <p>__________________&nbsp;&nbsp;&nbsp;</p>
 <p><b>Những bài liên quan:</b></p>
-<p><a href="https://sachhiem.net/LICHSU/TRDTH/TrucDiepThanh06.php"> - Đã tìm được lai lịch hoàn chỉnh của Đô đốc Đông Lĩnh hầu Đặng Tiến </a> (Trúc Diệp Thanh)</p>
-<p><a href="https://sachhiem.net/LICHSU/TRDTH/TrucDiepThanh05.php">- Đâu Là Thông Điệp Đích Thực Từ Các Di Bản Đời Tây Sơn Ở Lương Xá</a>, Hà Nội (Trúc Diệp Thanh) </p>
-<p><a href="https://sachhiem.net/LICHSU/TRDTH/TrucDiepThanh02.php">- Sự thật về “Đô đốc Đặng Tiến Đông” ở Lương Xá! </a>  (Trúc Diệp Thanh) </p>
-<p>- <a href="https://sachhiem.net/LICHSU/TRDTH/TrucDiepThanh.php"> Đông Lĩnh hầu Đặng Tiến Giản, vị đô đốc Tây Sơn qua các di vật ở Lương Xá</a>, Hà Nội 
+<p><a href="/LICHSU/TRDTH/TrucDiepThanh06"> - Đã tìm được lai lịch hoàn chỉnh của Đô đốc Đông Lĩnh hầu Đặng Tiến </a> (Trúc Diệp Thanh)</p>
+<p><a href="/LICHSU/TRDTH/TrucDiepThanh05">- Đâu Là Thông Điệp Đích Thực Từ Các Di Bản Đời Tây Sơn Ở Lương Xá</a>, Hà Nội (Trúc Diệp Thanh) </p>
+<p><a href="/LICHSU/TRDTH/TrucDiepThanh02">- Sự thật về “Đô đốc Đặng Tiến Đông” ở Lương Xá! </a>  (Trúc Diệp Thanh) </p>
+<p>- <a href="/LICHSU/TRDTH/TrucDiepThanh"> Đông Lĩnh hầu Đặng Tiến Giản, vị đô đốc Tây Sơn qua các di vật ở Lương Xá</a>, Hà Nội 
   (Trúc Diệp Thanh), </p>
-<p>- <a href="https://sachhiem.net/LICHSU/TRDTH/TrucDiepThanh07.php"> Phát Hiện Mới Về Các Di Vật Đời Tây Sơn Ở Chùa Thủy Lâm Và Chùa Trăm Gian (Chương Mỹ-H</a></p>
+<p>- <a href="/LICHSU/TRDTH/TrucDiepThanh07"> Phát Hiện Mới Về Các Di Vật Đời Tây Sơn Ở Chùa Thủy Lâm Và Chùa Trăm Gian (Chương Mỹ-H</a></p>

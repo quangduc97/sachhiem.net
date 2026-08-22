@@ -3,7 +3,7 @@ layout: ../../../layouts/Article.astro
 title: "Lấy Dân Làm Gốc"
 author: "Nguyễn Hồng Trân"
 date: 2013-05-19
-source: "https://sachhiem.net/LICHSU/N/NgHgTran_TS03.php"
+source: "/LICHSU/N/NgHgTran_TS03"
 category: "Lịch sử"
 lang: vi
 wordCount: 3568

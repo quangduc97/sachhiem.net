@@ -2,13 +2,12 @@
 layout: ../../../layouts/Article.astro
 title: "PHÁ CHUÀ NAM ĐÀO Q.2 TP HCM"
 author: "CƯỜNG TRIỀU"
-source: "https://sachhiem.net/MINHMAN/Tongiao/MinhManTG1.php"
+source: "/MINHMAN/Tongiao/MinhManTG1"
 lang: vi
 wordCount: 1011
-image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nha.jpg"
 ---
 
-<p align="center"><a href="http://www.sachhiem.net/"> <img border="0" src="https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nha.jpg"> </a> 19 tháng 8, 2007 </p>
+<p align="center"> 19 tháng 8, 2007 </p>
 							
  							<p>Tối 28/8/06, lúc 23 giờ công an vào chùa Nam Đào xét nhân khẩu, một số 
 	khác dùng sơn phủ lấp bản chùa ở cổng Tam Quan.</p>

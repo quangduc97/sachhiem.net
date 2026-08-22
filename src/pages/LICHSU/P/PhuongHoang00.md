@@ -3,7 +3,7 @@ layout: ../../../layouts/Article.astro
 title: "Những Chuyện Kể Của Phượng Hoàng GV"
 author: "Phượng Hoàng GV"
 date: 2015-10-04
-source: "https://sachhiem.net/LICHSU/P/PhuongHoang00.php"
+source: "/LICHSU/P/PhuongHoang00"
 category: "Lịch sử"
 lang: vi
 wordCount: 4571
@@ -18,7 +18,7 @@ image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.devhttps://sachhiem.net/
   <hr>
   <div class="Gry">
     <p><span class="green"> Tập 1:</span> <b>Nhân đọc</b></p>
-    <a href="https://www.sachhiem.net/SACHNGOAI/SH/SH0_Vatican_giau.php" target="_blank" rel="nofollow" shape="rect"> (sachhiem.net)</a></div>
+    <a href="/SACHNGOAI/SH/SH0_Vatican_giau" target="_blank" rel="nofollow" shape="rect"> (sachhiem.net)</a></div>
    
   <p>Date: Sun, 4 Oct 2015 05:06:09 +0000<br>
      From: govap69@yahoo.com<br>
@@ -30,7 +30,7 @@ image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.devhttps://sachhiem.net/
 <p> <b><i>1.-  Chiến tranh gọi là Crusades …</i></b> nhiều trăm nghìn thanh niên Âu Châu nghe theo lệnh Giáo Hoàng Urban  II thánh chiến với Hồi Giáo (Holly War)..</p>
 <p> <a href="https://home.earthlink.net/~charlienguyen/cac_cuoc_thap_tu_chinh_cua_cong_giao_lama.htm">Crusades có nhiều đợt </a> xuất quân từ Âu Châu đánh Trung Đông.   Họ đánh luôn,  chiếm  đóng thành phố Jerusalem (Do Thái)  Họ chiến thắng và cũng  bị thua..nghĩa là có lúc thắng Hồi Giáo,  có lúc thua Hồi Giáo.</p>
 <p align="center"> <img width="317" height="164" src="https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.devhttps://sachhiem.net/TONGIAO/IMG/VATICAN/WORLD/Thanhchien1095-1272.jpg"> <img width="318" height="164" src="https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.devhttps://sachhiem.net/TONGIAO/IMG/VATICAN/WORLD/ChienbinhISIS_TK21.jpg"></p>
-<p align="center"><i>Chín cuộc Thánh chiến (1095-1272) của các Giáo  hoàng Công giáo La Mã,</i> <i>và các chiến binh ISIS (đầu thế kỷ thứ 21).</i><a href="https://sachhiem.net/LICHSU/L/LyNguyenDieu03.php"> Ảnh trích từ bài "<i>Tổng Thống Obama “Sỉ Nhục” Đạo Kitô ?</i>"(Lý Nguyên Diệu) </a> </p>
+<p align="center"><i>Chín cuộc Thánh chiến (1095-1272) của các Giáo  hoàng Công giáo La Mã,</i> <i>và các chiến binh ISIS (đầu thế kỷ thứ 21).</i><a href="/LICHSU/L/LyNguyenDieu03"> Ảnh trích từ bài "<i>Tổng Thống Obama “Sỉ Nhục” Đạo Kitô ?</i>"(Lý Nguyên Diệu) </a> </p>
 <p> Một đạo binh tinh nhuệ  gọi là Knight Templar (Tạm gọi là Kỵ sỉ &nbsp;Ngự Lâm Quân – Vì đạo quân nầy  do Vua Anh quốc lập ra. Y như đạo quân áo đen SS Gestapo của Hitler Đức Quốc Xã  vậy) </p>
 <p align="center"><img src="https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/LICHSU/IMG/DOTHAI/Knight-Templar.jpg" width="188" height="268" alt="Knight Templar"> <a href="https://blogs.telegraph.co.uk/news/dominicselwood/100263362/a-stain-on-history-the-burning-of-jacques-de-molay-grand-master-of-the-mysterious-knights-templar-700-years-ago-today/"><img src="https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/LICHSU/IMG/DOTHAI/Templar_Knights.jpg" width="350" height="243" alt="No one fought more valiantly than the Templars"></a></p>
 <p> Nhóm nầy khi <a href="https://www.pinterest.com/pin/314829830173522934/">chiếm xong  thành phố Jerusalem</a>…là cạo sạch tất cả tài sản,  vàng bạc của dân Do Thái.  Nên nhớ dân Do Thái rất  cuồng tín ….Họ chỉ nghĩ làm sao cho nhiều tiền,  làm sao cho cực giàu (bằng  mọi thủ đoạn) …rồi dâng tài sản,  vàng bạc ấy cho đến thờ Jerusalem.</p>
@@ -84,7 +84,7 @@ Tòa Án Xử Dị Giáo năm 1478 </p>
 <p> Mỗi tuần con chiên phải  vào nhà thờ nghe cha giảng và xưng tội…  Trước khi về phải dâng  cúng Giáo hội một chút ít tiền cho Giáo hội. Nhà thờ nhận tiền mặt hay check cá  nhân…. </p>
 <p>Nhà thờ không nhận credit cards…vì sợ bị lộ bởi sở Thuế.  Tiền mặt tốt nhất.   Tiền ấy gởi về Toà Tổng  Giám Mục,  Toà Tổng Giám Mục gởi về Vatican.  Tổng Giám Mục nào sốt  sắng…thì hy vọng có tên trong bảng Phong Thần (Ý quên ! trong bảng Hồng Y)</p>
 <p> Vậy làm Toán Cộng…. chúng ta thấy Vatican giàu cở nào ? Chục nghìn Trillion Đô la là ít (1 Trillion Đô la = 1000 triệu đô  la) vì từ cả nghìn năm gom  góp mà. </p>
-  <p class="indent50"> [SH- Thật ra Giáo Hội giàu không chỉ do tiền cúng của giáo dân, mà do nhiều việc. .. to tát khác do quyền lực tột đỉnh gây ra. Xin đọc bài <a href="https://www.sachhiem.net/SACHNGOAI/SH/SH0_Vatican_giau.php" target="_blank" rel="nofollow" shape="rect">"<i>Giáo Hội Thiên Chúa Giáo Giàu Tới Mức Nào? Khó Ai Biết Được!</i>"</a>]</p>
+  <p class="indent50"> [SH- Thật ra Giáo Hội giàu không chỉ do tiền cúng của giáo dân, mà do nhiều việc. .. to tát khác do quyền lực tột đỉnh gây ra. Xin đọc bài <a href="/SACHNGOAI/SH/SH0_Vatican_giau" target="_blank" rel="nofollow" shape="rect">"<i>Giáo Hội Thiên Chúa Giáo Giàu Tới Mức Nào? Khó Ai Biết Được!</i>"</a>]</p>
 <p>_____________________</p>
   <p>Subject:  Xin ông Phượng Hoàng Gò Vấp có thể chia sẻ thêm...RE: Giáo Hội Thiên Chúa Giáo  Giàu Tới Mức Nào? Khó Ai Biết Được <br>
 From: "Tran Quang Dieu" &lt;tranquangdieu@hotmail.com&gt;<br>
@@ -184,12 +184,12 @@ Date: 10/4/15 1:46 am </p>
 <p>(xem đón đọc tiếp Tập 2)</p>
 <p>___________________ </p>
 <p><b>Mời đọc thêm:</b></p>
-<p>- <a href="https://sachhiem.net/CHARLIE/CN_CGTBVT/CN_CGTBVT_6.php">Cách Làm Tiền  của Vatican (Charlie Nguyễn)</a></p>
-<p>- <a href="https://sachhiem.net/NMQ/TAMTHU/NMQtt_13a.php">TT: Sự Giàu Có Của Vatican- Phóng Tay Cướp Đoạt Tài Sản Dân Chúng (Nguyễn Mạnh Quang)</a></p>
-<p>- <a href="https://sachhiem.net/SACHNGOAI/SH/SH0_Vatican_giau.php">Giáo Hội Thiên Chúa Giáo Giàu Tới Mức Nào? Khó Ai Biết (Emily Stewart/ thestreet.com)</a></p>
-<p><a href="https://sachhiem.net/LICHSU/P/PhuongHoang00.php">- Những Chuyện Kể Của Phượng Hoàng GV - Tập 1: Vatican Làm Sao Giàu Có ?</a></p>
-<p>- <a href="https://sachhiem.net/SACHNGOAI/SH/SH0_Vatican_giau.php">Giáo Hội Thiên Chúa Giáo Giàu Tới Mức Nào? Khó Ai Biết Được </a></p>
-<p>- <a href="https://sachhiem.net/SACHNGOAI/PThanhTam04.php">Cách Làm Tiền Của Vatican</a></p>
+<p>- <a href="/CHARLIE/CN_CGTBVT/CN_CGTBVT_6">Cách Làm Tiền  của Vatican (Charlie Nguyễn)</a></p>
+<p>- <a href="/NMQ/TAMTHU/NMQtt_13a">TT: Sự Giàu Có Của Vatican- Phóng Tay Cướp Đoạt Tài Sản Dân Chúng (Nguyễn Mạnh Quang)</a></p>
+<p>- <a href="/SACHNGOAI/SH/SH0_Vatican_giau">Giáo Hội Thiên Chúa Giáo Giàu Tới Mức Nào? Khó Ai Biết (Emily Stewart/ thestreet.com)</a></p>
+<p><a href="/LICHSU/P/PhuongHoang00">- Những Chuyện Kể Của Phượng Hoàng GV - Tập 1: Vatican Làm Sao Giàu Có ?</a></p>
+<p>- <a href="/SACHNGOAI/SH/SH0_Vatican_giau">Giáo Hội Thiên Chúa Giáo Giàu Tới Mức Nào? Khó Ai Biết Được </a></p>
+<p>- <a href="/SACHNGOAI/PThanhTam04">Cách Làm Tiền Của Vatican</a></p>
 <p>___________________________________</p>
- <p>Các chuyện kể của Phượng Hoàng Gò Vấp: link <a href="https://sachhiem.net/LICHSU/P/ListPHGV.inc.php" target="_blank">https://sachhiem.net/LICHSU/N/ListPHGV.inc.php</a></p>  
+ <p>Các chuyện kể của Phượng Hoàng Gò Vấp: link <a href="/LICHSU/P/ListPHGV.inc" target="_blank">https://sachhiem.net/LICHSU/N/ListPHGV.inc.php</a></p>  
   <hr>

@@ -3,7 +3,7 @@ layout: ../../../layouts/Article.astro
 title: "Năm 1963, Mỹ Có Gây Ra Sự Tranh Chấp Tôn Giáo, Hay Đã Có Từ Thời Pháp Thuộc?"
 author: "Vũ Quốc Thúc"
 date: 2019-11-04
-source: "https://sachhiem.net/LICHSU/V/VuQuocThuc.php"
+source: "/LICHSU/V/VuQuocThuc"
 category: "Chính trị"
 lang: vi
 wordCount: 1596

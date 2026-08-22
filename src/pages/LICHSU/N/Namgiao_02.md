@@ -3,7 +3,7 @@ layout: ../../../layouts/Article.astro
 title: "Nhân Một Tuyên Bố Lếu Láo Về Miền Nam"
 author: "Nam Giao giới thiệu"
 date: 2015-09-23
-source: "https://sachhiem.net/LICHSU/N/Namgiao_02.php"
+source: "/LICHSU/N/Namgiao_02"
 category: "Chính trị"
 lang: vi
 wordCount: 8373
@@ -520,7 +520,7 @@ image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/THOISU_CT/Hinh/NHANV
     chiêu đãi đến như thế. <br>
     ...
   </p><p align="center"> <img border="0" src="https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/HOANHLINH/HINH/Baochigiano.jpg" width="358" height="232"></p>
-        <p align="center"><font size="2"> <a href="https://www.sachhiem.net/HOANHLINH/VNML4_1.php">Trụ sở Báo chí gia nô của chế độ Ngô Đình Diệm <br>
+        <p align="center"><font size="2"> <a href="/HOANHLINH/VNML4_1">Trụ sở Báo chí gia nô của chế độ Ngô Đình Diệm <br>
           bị dân chúng thủ đô đập phá, và các tàn tích bị quẳng đầy đường phố</a></font></p>
         <p>(Trang 253) Không thoát được công lệ lúc đó để làm cho báo chạy, báo 
           “Dân Chúng” cũng có những bài <i>to tổ bố</i> chửi chế độ Ngô gia và 

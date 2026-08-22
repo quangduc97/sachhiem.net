@@ -3,7 +3,7 @@ layout: ../../../layouts/Article.astro
 title: "Chúc Mừng Ngày Quốc Tế Thiếu Nhi 1/6"
 author: "FB Thi Nguyên"
 date: 2019-06-01
-source: "https://sachhiem.net/TONGIAO/FB/FBThiNguyen04.php"
+source: "/TONGIAO/FB/FBThiNguyen04"
 category: "Tác giả"
 lang: vi
 wordCount: 2007

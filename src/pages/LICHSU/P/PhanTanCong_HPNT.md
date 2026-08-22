@@ -3,7 +3,7 @@ layout: ../../../layouts/Article.astro
 title: "Người Có Ba Nhà @ Tôi"
 author: "Phan Tấn Công"
 date: 2023-07-26
-source: "https://sachhiem.net/LICHSU/P/PhanTanCong_HPNT.php"
+source: "/LICHSU/P/PhanTanCong_HPNT"
 lang: vi
 wordCount: 9533
 image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/TONGIAO/IMG/PHAPNAN/Xe_PhanTanCong.jpg"

@@ -2,7 +2,7 @@
 layout: ../../../layouts/Article.astro
 title: "Thăng Trầm Của “Rồng Phu Nhân” Trần Lệ Xuân"
 author: "Bài viết của PETER BRUSH"
-source: "https://sachhiem.net/LICHSU/P/PeterBrush.php"
+source: "/LICHSU/P/PeterBrush"
 category: "Lịch sử"
 lang: vi
 wordCount: 6244

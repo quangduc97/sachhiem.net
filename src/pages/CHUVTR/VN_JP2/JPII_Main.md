@@ -2,7 +2,7 @@
 layout: ../../../layouts/Article.astro
 title: "Việt Nam Với Cuộc Dấy Loạn Hòa Bình Của JP2 - Tập 1"
 author: "Chu văn trình"
-source: "https://sachhiem.net/null"
+source: "/null"
 lang: vi
 wordCount: 4
 ---
@@ -18,7 +18,7 @@ wordCount: 4
 
 	 <iframe name="JP2" src="/CHUVTR/VN_JP2/JPII_.php" width="100%" height="2400" marginwidth="5" marginheight="5" hspace="0" vspace="0" frameborder="0" scrolling="auto" target="_blank"></iframe> 
  </td> </tr>
-<tr><td colspan="2"> <a href="https://sachhiem.net/LICHSU/CHUVTR/VN_JP2/JPII_Main.php"> <p class="trang">Trang Chu Văn Trình </p>  </a>
+<tr><td colspan="2"> <a href="/LICHSU/CHUVTR/VN_JP2/JPII_Main"> <p class="trang">Trang Chu Văn Trình </p>  </a>
 </td></tr>
 </tbody></table>
 </div>

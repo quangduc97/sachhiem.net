@@ -3,7 +3,7 @@ layout: ../../layouts/Article.astro
 title: "20 Hình Ảnh Độc Đáo Do Mây Tạo Hình"
 author: "Lý Thái Xuân"
 date: 2016-07-15
-source: "https://sachhiem.net/LTX/LyThaiKH21.php"
+source: "/LTX/LyThaiKH21"
 category: "Khoa học"
 lang: vi
 wordCount: 1282

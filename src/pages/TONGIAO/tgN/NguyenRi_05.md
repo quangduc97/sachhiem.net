@@ -3,7 +3,7 @@ layout: ../../../layouts/Article.astro
 title: "Giáo Hoàng Giáng Chức Vị Hồng Y Trực Ngôn Bảo Thủ Người Mỹ"
 author: "Philip Pullella/ Nguyễn Ri dịch"
 date: 2014-10-29
-source: "https://sachhiem.net/TONGIAO/tgN/NguyenRi_05.php"
+source: "/TONGIAO/tgN/NguyenRi_05"
 category: "Tác giả"
 lang: vi
 wordCount: 597
@@ -43,4 +43,4 @@ image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/TONGIAO/IMG/VATICAN/
 <p class="TacgiaL">Nguyễn Ri dịch</p>
 <p class="nguonL">Nguồn  <a href="https://news.yahoo.com/pope-demotes-outspoken-american-conservative-cardinal-133138249.html;_ylt=A0LEV08VZ19UYssAUalXNyoA">https://news.yahoo.com/pope-demotes-outspoken-american-conservative-cardinal-133138249.html;_ylt=A0LEV08VZ19UYssAUalXNyoA </a> &nbsp;&nbsp;</p>
 __________________
- <p>Các bài của Nguyễn Ri: link <a href="https://sachhiem.net/TONGIAO/tgN/ListRiNguyen.inc.php" target="_blank">https://sachhiem.net/TONGIAO/tgN/ListRiNguyen.inc.php</a></p>
+ <p>Các bài của Nguyễn Ri: link <a href="/TONGIAO/tgN/ListRiNguyen.inc" target="_blank">https://sachhiem.net/TONGIAO/tgN/ListRiNguyen.inc.php</a></p>

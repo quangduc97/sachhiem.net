@@ -2,14 +2,14 @@
 layout: ../../../layouts/Article.astro
 title: "Đồng Hành Với Dân Tộc"
 author: "Hoàng Lan"
-source: "https://sachhiem.net/TONGIAO/TOAKHAM/.php"
+source: "/TONGIAO/TOAKHAM/"
 category: "Tác giả"
 lang: vi
 wordCount: 1123
-image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nha.jpg"
+image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/TONGIAO/IMG/Toakham/pagode_PhuNi_pres_de_SonTay.jpg"
 ---
 
-<p align="center"><a href="https://sachhiem.net/index.php"><img border="0" hspace="20" src="https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nha.jpg"></a>01 tháng 3, 2008</p>
+<p align="center">01 tháng 3, 2008</p>
 		 
 			<p class="MsoNormal" style="text-align: center"><img border="0" src="https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/TONGIAO/IMG/Toakham/pagode_PhuNi_pres_de_SonTay.jpg" alt="Chùa Phu-Ni gần Sơn Tây - lời chú của Dr. Hocquard lúc chụp ảnh này khoảng 1884-1885" width="269" height="191"></p>
 		

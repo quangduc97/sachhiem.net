@@ -3,7 +3,7 @@ layout: ../../../layouts/Article.astro
 title: "Giáo Dục – Mặt Trận Không Tiếng Súng"
 author: "Nguyễn Thành Bắc"
 date: 2022-06-12
-source: "https://sachhiem.net/LICHSU/FB/FBNguyenThanhBac.php"
+source: "/LICHSU/FB/FBNguyenThanhBac"
 category: "Văn hóa"
 lang: vi
 wordCount: 1650

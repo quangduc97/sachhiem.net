@@ -3,7 +3,7 @@ layout: ../../layouts/Article.astro
 title: "Tại Sao Các Đụn Cát Biết Hát Trên Sa Mạc?"
 author: "Lý Thái Xuân sưu tầm"
 date: 2016-07-27
-source: "https://sachhiem.net/LTX/LyThaiKH22.php"
+source: "/LTX/LyThaiKH22"
 category: "Khoa học"
 lang: vi
 wordCount: 817

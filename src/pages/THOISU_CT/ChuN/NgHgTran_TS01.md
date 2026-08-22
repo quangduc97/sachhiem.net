@@ -3,7 +3,7 @@ layout: ../../../layouts/Article.astro
 title: "Câu Chuyện Đối Nhân Xử Thế Tài Tình"
 author: "Nguyễn Hồng Trân"
 date: 2012-05-09
-source: "https://sachhiem.net/VANHOC/NgHgTran_TS01.php"
+source: "/VANHOC/NgHgTran_TS01"
 category: "Lịch sử"
 lang: vi
 wordCount: 1133
@@ -12,7 +12,7 @@ image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/LICHSU/IMG/HOCHIMINH
 
 <p class="Tuaduoi">Của Bác Hồ Trong Một Cuộc Đón Khách Quốc Tế </p>
 
-<a href="https://sachhiem.net/VANHOC/NgHgTran_TS01.php">
+<a href="/VANHOC/NgHgTran_TS01">
 </a>
  
 <p align="center">

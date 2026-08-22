@@ -2,10 +2,10 @@
 layout: ../../../layouts/Article.astro
 title: "GIÁNG SINH 2010: NHÌN QUANH KHẮP NƠI."
 author: "Người Săn Tin"
-source: "https://sachhiem.net/null"
+source: "/null"
 lang: vi
 wordCount: 2490
-image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nha.jpg"
+image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/IMG/NOEL/NoelVN.jpg"
 ---
 
 <div align="center" style="position: relative; left: 0; top: 0">
@@ -29,8 +29,7 @@ image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nha.jpg"
 		<div style="padding-left: 50px; padding-right: 50px;">
 		<table border="0" cellpadding="0" width="600"><tbody><tr>
 				<td width="425">
-				<a href="/index">
-				<img border="0" src="https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nha.jpg"></a></td>
+				</td>
 	<td valign="top">	<font size="2">28 tháng 12, 2010
 	</font>
 	</td></tr></tbody></table>

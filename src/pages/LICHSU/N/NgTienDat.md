@@ -3,7 +3,7 @@ layout: ../../../layouts/Article.astro
 title: "Điểm Qua Vài Hình Ảnh Của Dân Chúa Ở Việt Nam"
 author: "Nguyễn Hoàng Cương"
 date: 2013-06-04
-source: "https://sachhiem.net/LICHSU/N/NgTienDat.php"
+source: "/LICHSU/N/NgTienDat"
 category: "Tác giả"
 lang: vi
 wordCount: 914
@@ -31,8 +31,8 @@ Hãy nhớ  nhé mọi người, đây là sự thật lịch sử của bọn b
 Nguyễn  Hoàng Cương </p>
 <hr>
 <p><b>Chú thích:</b></p>
-<p><a name="_edn1" title="" href="/LICHSU/#_ednref1">[1]</a>&nbsp;Loraine Boettner,&nbsp;<i>Roman Catholicism</i>&nbsp;(Phillipsburg, New Jersey: The Presbyterian and Reformed Publishing Company, 1962), tr. 424. Được nhắc lại trong bài <a href="https://sachhiem.net/NMQ/TAMTHU/NMQtt_01.php">"Thiết Lập Bang Giao Với  VATICAN Là Một Trò Chơi Vô Cùng Nguy Hiểm"</a> của GS Nguyễn Mạnh Quang </p>
-<p><a name="edn2" title="" href="/LICHSU/#_ednref2">[2]</a> - <a href="https://sachhiem.net/HOANHLINH/HoanhL_Main.php"> Hoành Linh Đỗ Mậu - VIỆT NAM MÁU LỬA QUÊ HƯƠNG TÔI - Chương XIV: KỲ THỊ TÔN GIÁO</a> :</p>
+<p><a name="_edn1" title="" href="/LICHSU/#_ednref1">[1]</a>&nbsp;Loraine Boettner,&nbsp;<i>Roman Catholicism</i>&nbsp;(Phillipsburg, New Jersey: The Presbyterian and Reformed Publishing Company, 1962), tr. 424. Được nhắc lại trong bài <a href="/NMQ/TAMTHU/NMQtt_01">"Thiết Lập Bang Giao Với  VATICAN Là Một Trò Chơi Vô Cùng Nguy Hiểm"</a> của GS Nguyễn Mạnh Quang </p>
+<p><a name="edn2" title="" href="/LICHSU/#_ednref2">[2]</a> - <a href="/HOANHLINH/HoanhL_Main"> Hoành Linh Đỗ Mậu - VIỆT NAM MÁU LỬA QUÊ HƯƠNG TÔI - Chương XIV: KỲ THỊ TÔN GIÁO</a> :</p>
 <p>"... Tôi còn nhớ nhà văn Chu Tử có kể lại trong tuần báo&nbsp;<i>Đời</i>&nbsp;ở Sài Gòn câu chuyện của một giáo sư Đại học nặng lòng với Quốc Tổ Hùng Vương, đã đề nghị ông Diệm xây đền thờ Quốc Tổ thì bị ông Diệm trỏ mặt nạt lớn: "<b><i>Tổ anh chứ Tổ tôi à!</i></b>" Còn nhà văn Võ Phiến trong tác phẩm "<i>Đất Nước Quê Hương</i>” có cho biết mãi sau khi chế độ Diệm không còn nữa, nhân dân các tỉnh đã hăng say tự động xây đền thờ Quốc Tổ..."&nbsp;</p>
 <p>- <a href="https://www.todinhtudamhaingoai.org/vn/?15659=5&amp;596=21&amp;759=986&amp;59615=4">Huyền thoại về lãnh tụ anh minh Ngô Đình Diệm</a> (Võ Văn Sáu) :</p>
 <p><i>Khi lên làm Tổng Thống, Diệm liền hủy bỏ Ngày Nghỉ Lễ Giỗ Tổ hàng năm, và cấm không cho tổ chức công khai Giỗ Tổ Hùng Vương.</i></p>

@@ -2,15 +2,14 @@
 layout: ../../../layouts/Article.astro
 title: "Thực Hư ĐH Fulbright Là Ổ Nuôi Cấy Việt Gian Tay Sai Cầm Đầu Cách Mạng Màu Tại Việt Nam?"
 author: "Sharma Rachana"
-source: "https://sachhiem.net/XAHOI/S/SharmaRachana_FUV.php"
+source: "/XAHOI/S/SharmaRachana_FUV"
 category: "Xã hội"
 lang: vi
 wordCount: 6421
-image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nha.jpg"
+image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/THOISU_CT/Hinh/FULBRIGHT/Fearless_Commencement2024.jpg"
 ---
 
-<p align="center"><a href="https://www.sachhiem.net/">
-<img border="0" src="https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nha.jpg"></a> 
+<p align="center"> 
 August 20, 2024</p>
 <p>Cách đây mấy ngày Đại học Fulbright đã phải ra Thông cáo lên án những  ý kiến chỉ trích, tẩy chay tổ chức này là "<i>tuyên bố sai lệch và gây kích  động</i>" đồng thời chụp mũ, dán nhãn các chỉ trích là "thông tin sai  lệch với mục đích thao túng."</p>
 <p>  Làn sóng chỉ trích rầm rộ đến mức Fulbright đã phải khóa bình  luận, ẩn số lượng tương tác mà phần lớn là biểu tượng phẫn nộ. Một tổ chức đào  tạo sinh viên theo tư tưởng Mỹ, tôn trọng tự do ngôn luận hơn nữa chủ đề trong  buổi lễ tốt nghiệp mới nhất của Fulbright là "Lớp học không sợ hãi"  lại đi khóa bình luận và ẩn số lượt tương tác vì sợ hãi trước làn sóng chỉ  trích thì quả là điều hết sức kỳ lạ.</p>
@@ -26,7 +25,7 @@ August 20, 2024</p>
 <p align="center"><a href="https://www.facebook.com/FulbrightUniVN/posts/pfbid02Pw3VjtauaqxX4Dv5tZo9sczadd9EVVwyTbjwRvmovKXiy29SfPJYj5wHEyr1djJ5l">Thông cáo của ĐH Fulbright</a> trước làn sóng chỉ trích, tảy chay.</p>
 <p>Theo quan sát của người viết thì các tuyên bố chỉ trích Fulbright đại đa số là các cáo buộc rằng đây là ổ huấn luyện cách mạng màu cho thanh niên và những người đã hoặc có tiềm năng lọt vào bộ máy quyền lực của nhà nước từ đó biến Việt Nam thành một quốc gia chư hầu chịu sự chi phối và sai khiến của Mỹ.</p>
 <p>Nói cách khác thông qua các phần tử tay sai Việt gian đã được huấn luyện kỹ lưỡng, trực tiếp ngay trong nội địa, Mỹ có thể tiến hành thay đổi thể chế, chế độ chính trị tại Việt Nam một cách kín đáo, ít rủi ro và khả năng thành công cao hơn so với một cuộc chiến xâm lược quy mô lớn đã khiến Mỹ nhận lấy sự cay đắng và thất bại ô nhục gần 50 năm trước.</p>
-<p>Các cáo buộc loại này không phải là mới mà nó đã có ngay từ những ngày đầu thành lập cái trường ĐH nhiều tai tiếng này. Một trong số đó là bài viết của Tiến sĩ Nguyễn Kiều Dung tốt nghiệp tại Mỹ với tựa đề “<a href="https://sachhiem.net/THOISU_CT/ChuN/NguyenKieuDung.php" target="_blank" rel="nofollow noopener">Sự thật về Đại học Fulbright</a>” đăng trên thư viện <a href="https://sachhiem.net">sách hiếm</a>.</p>
+<p>Các cáo buộc loại này không phải là mới mà nó đã có ngay từ những ngày đầu thành lập cái trường ĐH nhiều tai tiếng này. Một trong số đó là bài viết của Tiến sĩ Nguyễn Kiều Dung tốt nghiệp tại Mỹ với tựa đề “<a href="/THOISU_CT/ChuN/NguyenKieuDung" target="_blank" rel="nofollow noopener">Sự thật về Đại học Fulbright</a>” đăng trên thư viện <a href="https://sachhiem.net">sách hiếm</a>.</p>
 <p>Làn sóng chỉ trích Fulbright bùng lên gần đây được cho là có ảnh hưởng từ cuộc bạo động tại Bangladesh khiến chính phủ đương nhiệm của bà&nbsp;Sheikh Hasina&nbsp;phải từ chức và thay vào đó là&nbsp;Muhammad Yunus&nbsp;một nhân vật thân Mỹ đặc biệt từng được nhận Huy chương tự do của Tổng thống Mỹ năm 2009 và Huy chương vàng của Quốc hội Mỹ năm 2010. Đặc biệt nhất là Yunus cũng từng nhận được học bổng Fulbright lúc 25 tuổi vào năm 1965.</p>
 <p align="center"><iframe src="https://vk.com/video_ext.php?oid=558874687&amp;id=456239869&amp;hash=529948e0eb6780e1" width="640" height="360" frameborder="0" allowfullscreen="1" allow="autoplay; encrypted-media; fullscreen; picture-in-picture"></iframe></p>
  <p align="center"><i>Cựu tổng thống Mỹ Barak Obama đeo huy chương tự do cho Muhammad Yunus năm 2009 </i></p>
@@ -160,5 +159,5 @@ August 20, 2024</p>
     <p> <b>Bài viết cùng chủ đề: </b></p>
     <p>1.&nbsp;<a href="https://vk.com/@consect-muon-khuat-phuc-ke-thu-hay-nuoi-day-con-cai-cua-chung-phan-1" title="https://sachhiem.net/XAHOI/S/SharmaRachana.php">Muốn Khuất Phục Kẻ Thù Hãy Nuôi Dạy Con Cái Của Chúng, Phần 1: Chiến Tranh Dựa Trên Hành Vi (Sharma Rachana)</a></p>
     <p>2. <a href="/XAHOI/S/SharmaRachana_FUV1">Chương Trình Fulbright Và Ngoại Giao Công Chúng Hoa Kỳ</a> (Sharma Rachana)</p>
-    <p>3. “<a href="https://sachhiem.net/THOISU_CT/ChuN/NguyenKieuDung.php" target="_blank" rel="nofollow noopener">Sự thật về Đại học Fulbright</a>” (TS Nguyễn Kiều Dung) </p>
+    <p>3. “<a href="/THOISU_CT/ChuN/NguyenKieuDung" target="_blank" rel="nofollow noopener">Sự thật về Đại học Fulbright</a>” (TS Nguyễn Kiều Dung) </p>
 <p class="nguonL">Nguồn: <a href="https://www.facebook.com/consect/posts/pfbid02MnmDYVLUwMwPgmmr4fnDZbSZQt9YSZeHYNttmhSrnvdo1V6PNh5MuxUnY5mEHByvl">FB Sharma Rachana</a> ngày 16 Aug 2024 </p>

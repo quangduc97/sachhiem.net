@@ -3,7 +3,7 @@ layout: ../../../layouts/Article.astro
 title: "MƯỜI SỰ KIỆN CÓ Ý NGHĨA LỚN ĐỐI VỚI PHẬT GIÁO"
 author: "Trí Tánh Đỗ Hữu Tài tổng hợp"
 date: 2016-12-10
-source: "https://sachhiem.net/TONGIAO/tgTR/TriTanhDHT04.php"
+source: "/TONGIAO/tgTR/TriTanhDHT04"
 category: "Tác giả"
 lang: vi
 wordCount: 7572

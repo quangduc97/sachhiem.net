@@ -3,7 +3,7 @@ layout: ../../layouts/Article.astro
 title: "Tự Sự Của Con Chiên Cờ Vàng"
 author: "Xích Lô Việt"
 date: 2014-02-25
-source: "https://sachhiem.net/XICHLOV/XichloViet013.php"
+source: "/XICHLOV/XichloViet013"
 category: "Tác giả"
 lang: vi
 wordCount: 2672
@@ -258,12 +258,12 @@ TỰ SỰ CỦA CON CHIÊN CỜ VÀNG</p>
 <p class="TacgiaL">Xích Lô Việt</p>
 _____________________  
 <p>Ghi chú:    </p>
-<p>(1)  <a href="https://sachhiem.net/index.php?content=showrecipe&amp;id=5602"> 
+<p>(1)  <a href="/TCN/TCNdt/TCNdt069"> 
 "Con Chiên" Kiện "Con Người" (Trần Chung Ngọc)</a></p>
-<p>(2) <a href="https://sachhiem.net/TCN/TCNdt/TCNdt042.php"> Chung Quanh Một Cuộc Tranh Luận Hào Hứng
+<p>(2) <a href="/TCN/TCNdt/TCNdt042"> Chung Quanh Một Cuộc Tranh Luận Hào Hứng
 (Trần Chung Ngọc)</a></p>
 <p>(3) Các nhà khoa học đã chứng minh con người là sản phẩm  tiến hóa của loài linh  trưởng do vậy chúa cũng không ngoại lệ.</p>
-<p>(4) <a href="https://sachhiem.net/index.php?content=showrecipe&amp;id=5401">Mảnh Giấy Cói Cổ Gợi Ý -
+<p>(4) <a href="/TONGIAO/tgD/Dehova03">Mảnh Giấy Cói Cổ Gợi Ý -
 Một Số Kitô Hữu Ban Sơ Cho Rằng Chúa Giêsu Đã Có Vợ. (Dê Hô Va chuyển ngữ)
 </a></p>
 <p> (5) Thời của Jesus những người bị án tử hình bằng cách  đóng đinh trên thập giá phải bị cởi bỏ quần áo hoàn toàn không có  ưu tiên được khuyến mãi cái khố như tượng và hình vẽ các con chiên đang  tôn thờ</p>

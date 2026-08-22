@@ -2,15 +2,14 @@
 layout: ../../../layouts/Article.astro
 title: "Báo chí thời Ngô Đình Diệm"
 author: "Vũ Bằng"
-source: "https://sachhiem.net/THOISU_CT/ChuV/VuBang.php"
+source: "/THOISU_CT/ChuV/VuBang"
 category: "Chính trị"
 lang: vi
 wordCount: 7952
-image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nha.jpg"
+image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/THOISU_CT/Hinh/VIETNAM/nhabaoVuBang.jpg"
 ---
 
-<p align="center"><a href="/index">
-		<img border="0" src="https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nha.jpg"></a>	29 tháng 8, 2010		</p>
+<p align="center">	29 tháng 8, 2010		</p>
 	
  		<p class="PicLeft"> <img border="0" src="https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/THOISU_CT/Hinh/VIETNAM/nhabaoVuBang.jpg" width="140" height="217"><br>nhà báo Vũ Bằng - <br>
  		  Ảnh: vi.wikipedia </p> 
@@ -574,7 +573,7 @@ image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nha.jpg"
 		</p><p align="center">
 		<img border="0" src="https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/HOANHLINH/HINH/Baochigiano.jpg" width="358" height="232"></p>
 		<p align="center"><font size="2">
-		<a href="https://www.sachhiem.net/HOANHLINH/VNML4_1.php">Trụ sở Báo chí gia nô của chế độ Ngô Đình Diệm <br>bị dân chúng thủ đô đập phá, và các tàn tích bị quẳng đầy đường phố</a></font></p>
+		<a href="/HOANHLINH/VNML4_1">Trụ sở Báo chí gia nô của chế độ Ngô Đình Diệm <br>bị dân chúng thủ đô đập phá, và các tàn tích bị quẳng đầy đường phố</a></font></p>
 		<p>(Trang 253) Không thoát được công lệ lúc đó để làm cho báo chạy, báo 
 		“Dân Chúng” cũng có những bài <i>to tổ bố</i> chửi chế độ Ngô gia và 
 		đánh đập <i>ra rít</i> bọn mật vụ của chế độ cũ như Dương Văn Hiếu, Lê 

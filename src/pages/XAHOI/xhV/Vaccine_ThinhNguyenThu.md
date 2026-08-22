@@ -2,7 +2,7 @@
 layout: ../../../layouts/Article.astro
 title: "Thỉnh Nguyện Thư gửi Tổng Thống Joe Biden - Vaccine Phòng Chống Covid-19"
 date: 2021-08-19
-source: "https://sachhiem.net/XAHOI/xhV/Vaccine_ThinhNguyenThu.php"
+source: "/XAHOI/xhV/Vaccine_ThinhNguyenThu"
 category: "Chính trị"
 lang: vi
 wordCount: 1865

@@ -3,18 +3,17 @@ layout: ../../layouts/Article.astro
 title: "Bước Mở Đầu Của Sự Thiết Lập Hệ Thống Thuộc Địa Pháp Ở Việt Nam"
 author: "TS Nguyễn Xuân Thọ"
 date: 2023-02-13
-source: "https://sachhiem.net/NGXUANTHO/BuocMoDau_10.php"
+source: "/NGXUANTHO/BuocMoDau_10"
 category: "Lịch sử"
 lang: vi
 wordCount: 7978
-image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nha.jpg"
+image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/sqdot.gif"
 ---
 
 <p class="Tuaduoi"><b>Hiệp Ước 1874</b></p>
 
 
-  <p align="center"><a href="https://www.sachhiem.net/">
-<img border="0" src="https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nha.jpg"></a>| <a target="_blank" href="https://sachhiem.net/NGXUANTHO/BuocMoDau_Main.php"><span lang="en-us"><b><font face="Symbol">¿</font></b></span> trở ra mục lục</a>| 13-Feb-2023</p> 
+  <p align="center">| <a target="_blank" href="/NGXUANTHO/BuocMoDau_Main"><span lang="en-us"><b><font face="Symbol">¿</font></b></span> trở ra mục lục</a>| 13-Feb-2023</p> 
 <p class="TuaDoLeft"><b>Chương 9&nbsp;- Hiệp Ước 1874</b></p>
 <p><i>Năm 1873</i></p>
 <p>Từ năm 1864, việc xem xét lại và thay thế Hiệp ước 1862 đã trở thành nhật lệnh. Mỗi ông thống đốc mới Pháp sang đều mang theo đủ mọi quyền hành; họ đưa ra những đề nghị mới cho chánh phủ Huế với nhiều lời khích lệ. Chánh phủ Huế đáp lại bằng sự chỉ định những đại diện toàn quyền của mình; thế rồi mỗi bên đều tuyên bố không thể nào chấp nhận được những đề nghị của bên kia.</p>

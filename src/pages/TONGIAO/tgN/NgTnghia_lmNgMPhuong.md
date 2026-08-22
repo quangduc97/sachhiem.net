@@ -3,7 +3,7 @@ layout: ../../../layouts/Article.astro
 title: "Linh Mục Đểu JB Nguyễn Minh Phương"
 author: "Nguyễn Trọng Nghĩa"
 date: 2016-07-25
-source: "https://sachhiem.net/TONGIAO/tgN/NgTnghia_lmNgMPhuong.php"
+source: "/TONGIAO/tgN/NgTnghia_lmNgMPhuong"
 category: "Tác giả"
 lang: vi
 wordCount: 1887

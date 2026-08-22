@@ -3,7 +3,7 @@ layout: ../../../layouts/Article.astro
 title: "Sự Thật Về “Người Quốc Gia”"
 author: "Trần Khách Quan"
 date: 2018-02-10
-source: "https://sachhiem.net/THOISU_CT/ChuK/Khachquan_11.php"
+source: "/THOISU_CT/ChuK/Khachquan_11"
 category: "Chính trị"
 lang: vi
 wordCount: 5723

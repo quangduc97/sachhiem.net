@@ -3,7 +3,7 @@ layout: ../../../layouts/Article.astro
 title: "Nguyễn Ánh Tự Thừa Nhận Việc Bán Nước!"
 author: "FB Hồng Thất Công"
 date: 2025-07-03
-source: "https://sachhiem.net/LICHSU/FB/FBHongThatCong01.php"
+source: "/LICHSU/FB/FBHongThatCong01"
 category: "Lịch sử"
 lang: vi
 wordCount: 2336

@@ -3,7 +3,7 @@ layout: ../../layouts/Article.astro
 title: "Tin Mừng Của Cộng Đồng Con Chiên Người Việt"
 author: "Nguyễn Mạnh Quang"
 date: 2016-05-14
-source: "https://sachhiem.net/NMQ/NMQ65.php"
+source: "/NMQ/NMQ65"
 category: "Lịch sử"
 lang: vi
 wordCount: 3385
@@ -29,7 +29,7 @@ image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/TONGIAO/IMG/LINHMUC/
  <p class="sub1">b.-/ "<i>Các Ngài được  đào tạo để làm quan đạo, làm vua đạo, và chưa bao giờ được đào tạo để phục vụ  anh em đồng đạo, đồng bào, mà chỉ được đào tạo để cai trị và để được hầu hạ, ăn  trên ngồi trước, kể từ khi bước chân vào chủng viện. Việc đào tạo này được xuất  phát từ yêu cầu của một tầng lớp xã hội và để phục vụ tầng lớp xã hội ấy</i>”. Nhiều  tác giả, Tại Sao Không Theo Đạo Chúa -Tuyển Tập 2 (Spring, TX:Ban Nghiên Cứu Đạo  Giáo, 1998), tr 117.</p>
  <p class="sub1">c.-/ “<i>Mục tiêu của họ  (giới tu sĩ Da-tô) không phải chỉ nhắm vào những đặc quyền đặc lợi để được sống  trong huy hoàng và buông thả với những thú vui nhục dục. Thực ra, trong giới  người này, cũng có những người sống khắc khổ. Nhưng mỗi người trong họ đều mang  căn bệnh khát vọng quyền lực và tự cho mình là thành phần trong thế lực thống  trị toàn cầu. Vì đã mất đi khả năng của tình yêu, họ tìm đến thú vui trong sự sợ  hãi của những người đồng đạo (đồng bào) và người ta càng hèn hạ sợ hãi họ bao  nhiêu thì họ càng thích thú say mê bấy nhiêu. Đã có người nào đặt ra vấn đề là  phải chăng sự an toàn của giai cấp tu sĩ đòi hỏi phải có một cái hố ngăn cách  không thể nào vượt qua được? Đó là sự cách biệt giữa một bên là những giáo dân  đứng đắn đàng hoàng và một bên là những người có tâm địa của loài chó sói, những  người không có Chúa mà chỉ có Lòng Tham Lam, không có tôn giáo mà chỉ biết đến  Quyền Lực</i>.” (Christian Heritage, May, 1959.) Nguyên văn: “Their objective is  not merely a life of privilege, luxury, an carnal self-indulgence. In fact,  there are among them, men of rigid ascetic character. But each every man of  them is driven by an insatiable lust for power. Each sees himself as a factor  to be reckoned with in a globe dominating force. Having lost the capacity for  love, they seek the fear fellow men – the more abject, the headier. Is it any  wonder that hierarchy’s own security demands an impassable gulf between decent  well-meaning Catholic people and these men with the hearts and spiritual of  wolves, these men with no God but Greed, no religion but Power?” (Christian  Heritage, May, 1959.)” Loraine Boettner, Roman Catholicism (Phillipsburg, New  Jersey Presbyterian and Reformed Publishing Company, 1962), p.64. </p>
  <p><b>KẾT LUẬN: </b></p>
- <p>Từ những dữ kiện được trình bày trên đây, chúng ta có thể đi đến kết luận rằng,  trong một tương lai rất gần, hay không bao lâu nữa, tại Bắc Mỹ cũng như&nbsp; ở Âu Châu và Úc Đại Lợi, sẽ có thêm nhiều tu sĩ áo  chùng đen người Việt được giáo triều Vatican phong cho các tước vị như giám mục,  tổng giám&nbsp; mục và hồng y. Sau đó, có  thể một trong các&nbsp; hồng y người Việt sẽ được  bầu chọn làm giáo hoàng của Giáo Hội La Mã! Và rồi, biết đâu hồng y đó có thể là  tên&nbsp; hắc y dâm tặc Giuse Nguyễn Ngọc Dũng  (Xin đọc bài viết Hồ Sơ LM Giuse Nguyễn Ngọc Dũng: (nguồn:  https://www.bacaytruc.com, <a href="https://sachhiem.net/TONGIAO/tgB/Bacaytruc00.php">https://sachhiem.net/TONGIAO/tgB/Bacaytruc00.php</a>). Và  khi đó cộng đồng Ki-tô người Việt ở hải ngoại cũng như ở trong nước&nbsp; sẽ trở thành một thứ “Kiêu Dân Ki-tô giáo thời Giáo Hoàng Giuse Nguyễn Ngọc Dũng”, như đã từng có <a href="https://sachhiem.net/LICHSU/TR/TranLam3.php">“Kiêu Dân Công Giáo Thời Ngô  Đình Diệm”</a> ở miền Nam Việt Nam trước ngày 30/4/1975 &nbsp;(Xin bấm vào link để xem bài). </p>
+ <p>Từ những dữ kiện được trình bày trên đây, chúng ta có thể đi đến kết luận rằng,  trong một tương lai rất gần, hay không bao lâu nữa, tại Bắc Mỹ cũng như&nbsp; ở Âu Châu và Úc Đại Lợi, sẽ có thêm nhiều tu sĩ áo  chùng đen người Việt được giáo triều Vatican phong cho các tước vị như giám mục,  tổng giám&nbsp; mục và hồng y. Sau đó, có  thể một trong các&nbsp; hồng y người Việt sẽ được  bầu chọn làm giáo hoàng của Giáo Hội La Mã! Và rồi, biết đâu hồng y đó có thể là  tên&nbsp; hắc y dâm tặc Giuse Nguyễn Ngọc Dũng  (Xin đọc bài viết Hồ Sơ LM Giuse Nguyễn Ngọc Dũng: (nguồn:  https://www.bacaytruc.com, <a href="/TONGIAO/tgB/Bacaytruc00">https://sachhiem.net/TONGIAO/tgB/Bacaytruc00.php</a>). Và  khi đó cộng đồng Ki-tô người Việt ở hải ngoại cũng như ở trong nước&nbsp; sẽ trở thành một thứ “Kiêu Dân Ki-tô giáo thời Giáo Hoàng Giuse Nguyễn Ngọc Dũng”, như đã từng có <a href="/LICHSU/TR/TranLam3">“Kiêu Dân Công Giáo Thời Ngô  Đình Diệm”</a> ở miền Nam Việt Nam trước ngày 30/4/1975 &nbsp;(Xin bấm vào link để xem bài). </p>
  
 <hr>
 <p class="CHUONG"><b>Phụ trang:</b></p>
@@ -62,20 +62,20 @@ image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/TONGIAO/IMG/LINHMUC/
 <p align="center"><a href="https://www.bishop-accountability.org/news/2004_08_19_Rowe_AccusedPriests.htm"> Các vụ lạm dụng tình dục của hàng giáo sĩ Công giáo bị tố cáo <br>
   - Bảng phân loại tuổi nạn nhân và nơi chốn.</a></p>
 <p>Xem thêm vài danh sách không đầy đủ:</p>
-<p>- <a href="https://sachhiem.net/TONGIAO/tgS/SH06.php">https://sachhiem.net/TONGIAO/tgS/SH06.php</a></p>
-<p>- <a href="https://sachhiem.net/TONGIAO/tgS/SH26.php">https://sachhiem.net/TONGIAO/tgS/SH26.php</a></p>
+<p>- <a href="/TONGIAO/tgS/SH06">https://sachhiem.net/TONGIAO/tgS/SH06.php</a></p>
+<p>- <a href="/TONGIAO/tgS/SH26">https://sachhiem.net/TONGIAO/tgS/SH26.php</a></p>
 <p>Những danh sách khác:</p>
-<p>-&nbsp;<a href="https://sachhiem.net/EMAILS/SH/Sachhiem42_list.php">Linh Mục Đã Chết Nhưng Vẫn Bị Lôi Ra Tòa</a></p>
-<p>-&nbsp;<a href="https://sachhiem.net/TONGIAO/tgS/SH47.php">Tổng Giáo Phận Minnesota tiết lộ tên của 30 linh mục bị buộc tội lạm dụng trẻ vị thành niên</a></p>
-<p>-&nbsp;<a href="https://sachhiem.net/TONGIAO/tgS/SH39.php">Liệu Giáo Hoàng Benedict XVI Có Bị Ra Tòa Vì Các Vụ Bê Bối Về Lạm Dụng Tình Dục Trong Giáo Hội Không ?</a></p>
-<p>-&nbsp;<a href="https://sachhiem.net/TONGIAO/tgS/SH26_1.php">Trộm $400 ngàn, Bỏ Nghề Linh Mục Cưới Vợ, Bị Tù</a>&nbsp;- Danh Sách Tội Phạm Lê Thê</p>
-<p>-&nbsp;<a href="https://sachhiem.net/TONGIAO/tgS/SH26.php">Quan Tòa Gọi Một Linh Mục Là Tên Côn Đồ</a></p>
+<p>-&nbsp;<a href="/EMAILS/SH/Sachhiem42_list">Linh Mục Đã Chết Nhưng Vẫn Bị Lôi Ra Tòa</a></p>
+<p>-&nbsp;<a href="/TONGIAO/tgS/SH47">Tổng Giáo Phận Minnesota tiết lộ tên của 30 linh mục bị buộc tội lạm dụng trẻ vị thành niên</a></p>
+<p>-&nbsp;<a href="/TONGIAO/tgS/SH39">Liệu Giáo Hoàng Benedict XVI Có Bị Ra Tòa Vì Các Vụ Bê Bối Về Lạm Dụng Tình Dục Trong Giáo Hội Không ?</a></p>
+<p>-&nbsp;<a href="/TONGIAO/tgS/SH26_1">Trộm $400 ngàn, Bỏ Nghề Linh Mục Cưới Vợ, Bị Tù</a>&nbsp;- Danh Sách Tội Phạm Lê Thê</p>
+<p>-&nbsp;<a href="/TONGIAO/tgS/SH26">Quan Tòa Gọi Một Linh Mục Là Tên Côn Đồ</a></p>
 <p class="TuaDenLeft"><b>3. Những nhà thờ đăng bán ở Hoa kỳ</b></p>
 <p align="center"><a href="https://www.google.com/search?q=rate+of+church+for+sale&amp;rlz=1C1LENP_enUS546US547&amp;biw=1128&amp;bih=785&amp;source=lnms&amp;tbm=isch&amp;sa=X&amp;ved=0ahUKEwjJ3PmBmbjNAhVT3WMKHQxUCygQ_AUIBigB#tbm=isch&amp;q=church+property+for+sale&amp;imgrc=_"><img src="https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/TONGIAO/IMG/HOAKY/Churches_sale1.jpg" width="400" height="356" alt=""></a></p>
 <p align="center"><img src="https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/TONGIAO/IMG/HOAKY/Churches_sale.jpg" width="450" height="253" alt=""></p><p align="center"><a href="https://www.economist.com/news/americas/21695932-churches-sell-up-without-completely-selling-out-steeples-sale">Steeples for sale</a></p>
 <p>Một trong những bản tin mà chúng tôi ghi lại:</p>
 <p>Bang Florida -134 nhà thờ rao bán - Thị trường bán nhà thờ đang HOT</p>
-<p><a href="https://sachhiem.net/index.php?content=showemail&amp;id=1383">https://sachhiem.net/index.php?content=showemail&amp;id=1383</a></p>
+<p><a href="/hop-thu/1383">https://sachhiem.net/index.php?content=showemail&amp;id=1383</a></p>
 <p>Sau đây là danh sách Nhà Thờ For Sale thu thập từ các sưu tầm của các bạn trên diễn đàn thư tín đã nói trên..</p>
 <p>
 62<br>

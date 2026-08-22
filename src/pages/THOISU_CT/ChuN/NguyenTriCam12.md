@@ -3,7 +3,7 @@ layout: ../../../layouts/Article.astro
 title: "Rodrigo Duterte: \"Tôi đã đụng chạm với Giáo Hội vì nó không còn thực tế\""
 author: "by Joseph Pelletier/ ChurchMilitant.com"
 date: 2016-06-30
-source: "https://sachhiem.net/THOISU_CT/ChuN/NguyenTriCam10.php"
+source: "/THOISU_CT/ChuN/NguyenTriCam10"
 category: "Chính trị"
 lang: vi
 wordCount: 1579

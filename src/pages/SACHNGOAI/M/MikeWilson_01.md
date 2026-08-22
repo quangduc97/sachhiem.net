@@ -3,7 +3,7 @@ layout: ../../../layouts/Article.astro
 title: "Lịch Sử Mỹ Không Hồn Nhiên Vô Tội Như Bạn Tưởng"
 author: "Brent Staples/ Mike Wilson lược dịch"
 date: 2021-01-15
-source: "https://sachhiem.net/SACHNGOAI/M/MikeWilson_01.php"
+source: "/SACHNGOAI/M/MikeWilson_01"
 category: "Chính trị"
 lang: vi
 wordCount: 932

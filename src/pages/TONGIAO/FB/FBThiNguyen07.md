@@ -3,7 +3,7 @@ layout: ../../../layouts/Article.astro
 title: "Những Gì Của Dê-Xu Hãy Trả Lại Cho Dê-Xu"
 author: "FB Thi Nguyên"
 date: 2019-07-10
-source: "https://sachhiem.net/TONGIAO/FB/FBThiNguyen07.php"
+source: "/TONGIAO/FB/FBThiNguyen07"
 category: "Tác giả"
 lang: vi
 wordCount: 512

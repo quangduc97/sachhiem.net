@@ -2,7 +2,7 @@
 layout: ../../../layouts/Article.astro
 title: "Không gọi là cuồng đạo thì gọi bằng gì ?"
 author: "Nguyễn Trí Cảm"
-source: "https://sachhiem.net/TONGIAO/NGTRCAM/NguyenTriCam04.php"
+source: "/TONGIAO/NGTRCAM/NguyenTriCam04"
 category: "Tác giả"
 lang: vi
 wordCount: 1225

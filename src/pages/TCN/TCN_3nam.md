@@ -3,7 +3,7 @@ layout: ../../layouts/Article.astro
 title: "Năm Mới - Nhớ GS Trần Chung Ngọc và Bài Điếu của Thầy Thích Thiệu Hữu"
 author: "trang nhà SH"
 date: 2017-01-29
-source: "https://sachhiem.net/TCN/TCN_3nam.php"
+source: "/TCN/TCN_3nam"
 category: "Tác giả"
 lang: vi
 wordCount: 858

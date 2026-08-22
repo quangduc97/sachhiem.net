@@ -3,7 +3,7 @@ layout: ../../../layouts/Article.astro
 title: "[VATICANOLOGY] Từ Thiện Và Cải Đạo 200 Ngàn Người Tây Tạng, Gồm 60 Tu Sĩ Phật Giáo"
 author: "Cư sĩ Minh Thạnh"
 date: 2021-10-08
-source: "https://sachhiem.net/TONGIAO/tgM/MinhThanh19_03.php"
+source: "/TONGIAO/tgM/MinhThanh19_03"
 category: "Chính trị"
 lang: vi
 wordCount: 1381
@@ -30,14 +30,14 @@ image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/TONGIAO/IMG/TRUYENDA
 <p align="center"><img src="https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/TONGIAO/IMG/TRUYENDAO/TayTang_Caidao.jpg" width="450" height="340" alt=""></p>
 <p><b><u>PHỤ CHÚ của trang nhà.</u></b></p>
 <p>Trước đây tác giả Minh Thạnh đã có viết vài đề tài liên quan đến vấn đề cải đạo như sau. Xin giới thiệu cho các bạn mở rộng quan điểm:</p>
-<p><span class="First">1</span>.<a href="https://sachhiem.net/TONGIAO/tgM/MinhThanh02.php">Mắt xích cải đạo tu sĩ trong tiến trình cải đạo tín đồ Phật giáo</a>(Minh Thạnh), ngày 02 tháng 01, 2010</p>
+<p><span class="First">1</span>.<a href="/TONGIAO/tgM/MinhThanh02">Mắt xích cải đạo tu sĩ trong tiến trình cải đạo tín đồ Phật giáo</a>(Minh Thạnh), ngày 02 tháng 01, 2010</p>
 <p>... Cải đạo được một tu sĩ Phật giáo là phá hoại thành trì Phật giáo ở những khâu trọng yếu nhất. Một tu sĩ Phật giáo cải đạo sẽ có tác động lớn đối với đông đảo Phật tử mà vị tu sĩ đó đã hóa độ.</p>
 <p>Nếu người tu sĩ đó quay lại làm người xung kích cải đạo tín đồ Phật giáo thì hậu quả thật khôn lường.</p>
 <p>Chính vì vậy, người tu sĩ Phật giáo, đặc biệt là người tu sĩ trẻ, nhạy cảm với những khó khăn trên con đường tu học , dễ va vấp, dao động, là đối tượng số một của việc cải đạo tín đồ Phật giáo. Đây là một hoạt động có kế hoạch tinh vi, nham hiểm. </p>
 <p>Trước hết, người ta khai thác việc dễ tiếp xúc đối với người tu sĩ. Chỉ cần giả vờ khoác lên chiếc áo muốn tìm hiểu Phật học thì những người có khả năng cải đạo lão luyện có thể nói chuyện được ngay đối với tu sĩ Phật giáo trẻ.</p>
 <p>Để rồi, khi trở nên thân mật hơn, đã “lắng nghe” những kiến thức Phật học đủ liều lượng cần thiết cho cuộc nói chuyện, người ta sẽ lái dần những ý kiến trao đổi sang lãnh vực&nbsp; tâm linh để rồi…rao giảng!</p>
-<p>Một lần, điều chắc chắn là chưa đủ, thì nhiều lần gặp gỡ nữa. Sau cuộc tiếp chuyện trên xe lửa, xe đò hay trong lớp học Anh văn, trong nhà sách…, những người, có thể là được phân công, có thể là tự nguyện nhận lấy nhiệm vụ mở rộng cộng đồng dân cư của “nước thiên đàng”, sẵn sàng tìm tới chùa để… “học Phật” thêm nữa... <a href="https://sachhiem.net/TONGIAO/tgM/MinhThanh02.php">(đọc tiếp)..</a></p>
-<p><span class="First">2.</span> <a href="https://sachhiem.net/TONGIAO/tgM/MinhThanh03.php">Tiền và việc cải đạo tín đồ Phật giáo</a> (Minh Thạnh) ngày 02 tháng 01, 2010.</p>
+<p>Một lần, điều chắc chắn là chưa đủ, thì nhiều lần gặp gỡ nữa. Sau cuộc tiếp chuyện trên xe lửa, xe đò hay trong lớp học Anh văn, trong nhà sách…, những người, có thể là được phân công, có thể là tự nguyện nhận lấy nhiệm vụ mở rộng cộng đồng dân cư của “nước thiên đàng”, sẵn sàng tìm tới chùa để… “học Phật” thêm nữa... <a href="/TONGIAO/tgM/MinhThanh02">(đọc tiếp)..</a></p>
+<p><span class="First">2.</span> <a href="/TONGIAO/tgM/MinhThanh03">Tiền và việc cải đạo tín đồ Phật giáo</a> (Minh Thạnh) ngày 02 tháng 01, 2010.</p>
 <p>...Qua bài viết “<em>Thêm vài ví dụ về Tin Lành, nghĩ về Phật giáo Việt Nam</em>”, 
 	vấn đề dùng tiền để cải đạo tín đồ Phật giáo được nhiều bạn đọc quan tâm, 
 	tham gia ý kiến.</p>
@@ -51,9 +51,9 @@ image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/TONGIAO/IMG/TRUYENDA
 <p>Không phải chỉ mỗi một đạo Tin Lành là dùng tiền để cải đạo tín đồ đạo 
   Phật, mà có tôn giáo khác cũng thường xuyên áp dụng phương sách này (xin xem 
   chi tiết các ý kiến trên diễn đàn)....</p>
-<p> <a href="https://sachhiem.net/TONGIAO/tgM/MinhThanh03.php">(đọc tiếp)..</a></p>
+<p> <a href="/TONGIAO/tgM/MinhThanh03">(đọc tiếp)..</a></p>
 <p>_____________________</p>
-<p>(<a href="https://sachhiem.net/TONGIAO/tgM/MinhThanh19_00.php">xem link thông báo về trách nhiệm đối với bài viết</a>) <a href="/TONGIAO/tgM/MinhThanh19_00"></a></p>
+<p>(<a href="/TONGIAO/tgM/MinhThanh19_00">xem link thông báo về trách nhiệm đối với bài viết</a>) <a href="/TONGIAO/tgM/MinhThanh19_00"></a></p>
 <p>  <img src="https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/sqdot.gif" width="10" height="10"></p>
 <p class="TacgiaL">Minh Thạnh </p>
 <p>_____________</p>

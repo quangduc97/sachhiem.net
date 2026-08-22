@@ -2,7 +2,7 @@
 layout: ../../../layouts/Article.astro
 title: "\"Cuộc chiến\" không cân sức giữa giới học giả VN và TQ"
 author: "Đoan Trang"
-source: "https://sachhiem.net/nguồn https://www.tuanvietnam.net/vn/tulieusuyngam/6361/index.aspx"
+source: "/nguồn https://www.tuanvietnam.net/vn/tulieusuyngam/6361/index.aspx"
 category: "Chính trị"
 lang: vi
 wordCount: 3462
@@ -32,7 +32,7 @@ image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nhacu.jpg"
 <tr> <td width="100%" bgcolor="White"> 
 <div style="padding-left: 40px; padding-right: 40px">
 		<table border="0" cellpadding="10" width="700" cols="2"><tbody><tr>
-		<td width="129"><a href="https://sachhiem.net/"><img border="0" src="https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nhacu.jpg" width="49" height="20"></a></td>
+		<td width="129"><a href="/"><img border="0" src="https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nhacu.jpg" width="49" height="20"></a></td>
 				
 	<td valign="top">	<font color="#606060" size="2">18 tháng 3, 2009	</font>
 	</td></tr></tbody></table>

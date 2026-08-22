@@ -2,17 +2,17 @@
 layout: ../../../layouts/Article.astro
 title: "CON NGƯỜI và VŨ TRỤ"
 author: "Trần Chung Ngọc"
-source: "https://sachhiem.net/TCN/TCNkh/TCNkh00b.php"
+source: "/TCN/TCNkh/TCNkh00b"
 category: "Khoa học"
 lang: vi
 wordCount: 1900
-image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nha.jpg"
+image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/Pict/foursuns_spitzer.jpg"
 ---
 
 <p class="Tuaduoi"> Dẫn Nhập và Lời Nói Đầu </p>
 		
 
-<p align="center"><a href="https://sachhiem.net/index.php"><img border="0" src="https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nha.jpg"></a>   06  tháng 9, 2007	</p>
+<p align="center">   06  tháng 9, 2007	</p>
 	<p>Toàn tập:  <a href="/TCN/TCNkh00b">1</a> 
 		<a href="/TCN/TCNkh01">2</a> 
 		<a href="/TCN/TCNkh02">3</a> 

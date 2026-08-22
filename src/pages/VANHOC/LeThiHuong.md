@@ -3,16 +3,16 @@ layout: ../../layouts/Article.astro
 title: "Một Bài Viết Về Ngày 27/7 Gây Xôn Xao Cư Dân Mạng"
 author: "theo Lê Thị Hương"
 date: 2012-07-26
-source: "https://sachhiem.net/value"
+source: "/value"
 category: "Văn hóa"
 lang: vi
 wordCount: 1136
-image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nha.jpg"
+image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/VANHOC/LeThiHuong.jpg"
 ---
 
 <table border="0" cellpadding="0" width="250" align="center">
             <tbody><tr>
-              <td width="125"><a href="/index"><img border="0" src="https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nha.jpg"></a></td>
+              <td width="125"></td>
               <td valign="middle">26-Jul-2012</td>
             </tr>
           </tbody></table>

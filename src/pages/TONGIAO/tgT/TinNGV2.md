@@ -3,7 +3,7 @@ layout: ../../../layouts/Article.astro
 title: "Linh mục ở New York lấy cả triệu đô la"
 author: "Tin Người Việt"
 date: 2013-01-25
-source: "https://sachhiem.net/TONGIAO/tgT/TinNGV2.php"
+source: "/TONGIAO/tgT/TinNGV2"
 category: "Tác giả"
 lang: vi
 wordCount: 576

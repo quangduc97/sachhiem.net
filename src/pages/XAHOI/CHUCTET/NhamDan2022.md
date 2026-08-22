@@ -3,7 +3,7 @@ layout: ../../../layouts/Article.astro
 title: "Chúc Mừng Năm Mới - Nhâm Dần 2022"
 author: "SH và thân hữu"
 date: 2021-12-31
-source: "https://sachhiem.net/XAHOI/CHUCTET/NhamDan2022.php"
+source: "/XAHOI/CHUCTET/NhamDan2022"
 category: "Xã hội"
 lang: vi
 wordCount: 119

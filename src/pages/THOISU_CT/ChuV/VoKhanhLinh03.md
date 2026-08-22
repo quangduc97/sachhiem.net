@@ -3,7 +3,7 @@ layout: ../../../layouts/Article.astro
 title: "Xung quanh chuyến thăm Hoa Kỳ của CTN TTS:"
 author: "Võ Khánh Linh"
 date: 2012-06-29
-source: "https://sachhiem.net/THOISU_CT/ChuV/VoKhanhLinh03.php"
+source: "/THOISU_CT/ChuV/VoKhanhLinh03"
 category: "Chính trị"
 lang: vi
 wordCount: 1884

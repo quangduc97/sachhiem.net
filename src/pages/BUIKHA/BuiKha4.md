@@ -2,16 +2,16 @@
 layout: ../../layouts/Article.astro
 title: "NGÔ ĐÌNH DIỆM"
 author: "Bùi Kha"
-source: "https://www.sachhiem.net/BUIKHA/BuiKha4.php"
+source: "/BUIKHA/BuiKha4"
 lang: vi
 wordCount: 16029
-image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nha.jpg"
+image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/LICHSU/IMG/NGODD/NgoDD.jpg"
 ---
 
 <p class="Tuaduoi"> TẠI SAO ÔNG THẤT BẠI ?</p>
 		
 		
-<p align="center"><a href="https://sachhiem.net/index.php"><img border="0" hspace="20" src="https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nha.jpg"></a>  14 tháng 9, 2007</p>
+<p align="center">  14 tháng 9, 2007</p>
 <p class="Tuaduoi"><i>Ngô Đình Diệm - Bảy Nguyên Nhân Thất Bại </i></p>
 <p align="center"><img border="0" src="https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/LICHSU/IMG/NGODD/NgoDD.jpg" width="402" height="336"></p>
 			<p><b><font fa="" ce="Vladimir Script" size="6">S</font></b>inh ra trong mộtgia đình theo đạo  công Giáo nhiều đời và lớn lên trong hoàn  cảnh đất nước bị ngoại xâm, hai yếu tố  cơ bản và then  chốt đó đã tác động sâu đậm lên  con người và  cuộ c đời  của Tổng Thống Ngô Đình Diệm.</p>
@@ -246,7 +246,7 @@ image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nha.jpg"
  <p>Do đó, tư tưởng và hành động của tất cả mọi người dân phải đặt trên nền tảng “<i>Ta về ta tắm ao ta</i>”. Ta thương ta là tình thương trung thành hơn cả. Nên <i>“Hãy tự mình thắp đuốc lên mà đi”</i> như ông Bụt đã khuyên.</p>
  <p>9. 9. 2003</p>
 		  <p><b>Phụ chú:</b></p>
- <p>(1)<a href="https://sachhiem.net/EMAILS/ToLam.php"> Thư viết tay của Giám mục Ngô Đình Thục gởi Toàn Quyền Decoux &gt;&gt;&gt;</a></p>
+ <p>(1)<a href="/EMAILS/ToLam"> Thư viết tay của Giám mục Ngô Đình Thục gởi Toàn Quyền Decoux &gt;&gt;&gt;</a></p>
 				<hr width="60%" align="left">
 	<p>Những bài viết về Ngô Đình Diệm:</p>
 	<blockquote>

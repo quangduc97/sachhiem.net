@@ -3,7 +3,7 @@ layout: ../../../layouts/Article.astro
 title: "Không Cần Nộp Lễ Cho \"Ông Trời\"!"
 author: "FB Lâm Phú Châu"
 date: 2021-09-08
-source: "https://sachhiem.net/TONGIAO/FB/FBLamPhuChau_09.php"
+source: "/TONGIAO/FB/FBLamPhuChau_09"
 category: "Chính trị"
 lang: vi
 wordCount: 2274
@@ -15,12 +15,12 @@ image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/TONGIAO/FB/OngTroi.J
 <p><i>- Tin Ông Trời, bạn không cần nộp tiền "xin lề"</i></p>
 <p><i>- Tin Thượng Đế, suốt đời bạn mất tiền, mất giờ, và mất luôn cả đất nước.</i></p>
 <p> Trang sachhiem.net đã có đăng những bài tham luận từ nhiều góc nhìn khác nhau. Xin kể ra một số, kèm theo vài câu tiêu biểu trong mỗi bài để bạn đọc có một cái nhìn tổng quát trước khi trở lại xem các nhận xét của bạn đọc Facebook về status trên.</p>
-<p>1- Tác giả Charlie Nguyễn: <a href="https://sachhiem.net/CHARLIE/CN_TTDTG/Ongtroi.php">Quan Niệm Ông  Trời của Người Việt </a> </p>
+<p>1- Tác giả Charlie Nguyễn: <a href="/CHARLIE/CN_TTDTG/Ongtroi">Quan Niệm Ông  Trời của Người Việt </a> </p>
 <p class="indent50">...<i> Đối với Hồi giáo, Do thái giáo và Ki tô giáo, các tín đồ đều được gọi là “những kẻ kính sợ Chúa” (God-fearers). Trái lại, người Việt Nam bình dân không hề “sợ Trời”. Họ tin rằng nếu con người cố gắng phấn đấu cũng có thể “thắng trời” như thường: - Xưa nay nhân định thắng thiên cũng nhiều</i>!...</p>
-<p>2- Tác giả Sơn Dã Bần Phu:   <a href="https://sachhiem.net/TONGIAO/tgS/SonDa.php">Nhân đọc “Ông  Trời trong thi ca Việt-Nam"</a> </p>
+<p>2- Tác giả Sơn Dã Bần Phu:   <a href="/TONGIAO/tgS/SonDa">Nhân đọc “Ông  Trời trong thi ca Việt-Nam"</a> </p>
 <p class="indent50">...Tóm lược những lời dạy của Đức Phật Thích-Ca, không có tính cách thần thánh thiêng liêng trong đó.&nbsp; Điển hình là 14 điều răn của Phật, và 8 con đường tu hành chân chánh (Bát Chánh Đạo) <i>tôi không thấy đã động gì đến tính cách siêu hình, thần thánh, “mầu nhiệm”, “ban ơn”, hay vì Phật gì cả</i>. &nbsp;&nbsp;Đối với Phật giáo, tu là sửa mình để cá nhân người đó được tốt đẹp hơn.&nbsp; Nếu cá nhân tốt đẹp thì đương nhiên xã hội sẽ tốt đẹp hơn.&nbsp;&nbsp; Phật Thích-Ca không bắt ai phải thờ phụng Phật như các tôn giáo thuộc loại thần giáo. &nbsp;&nbsp;<i>“... chiếc áo đen của một người Công-giáo theo đuổi chủ nghĩa&nbsp;<u>Thần quyền lạc hậu</u>&nbsp;không thể nào hòa hợp được….” </i>&nbsp; Lucrèce (triết gia La-Tinh thế kỷ -I) đã nói rằng&nbsp;<i>“Sự sợ hãi tạo nên các thần linh.”&nbsp;&nbsp;</i>Sợ những sức mạnh ẩn náu trong lòng đất, trong cây cối, trong dòng sông… <i>Vậy tôn giáo là để thờ các sức mạnh đó</i>. &nbsp;(Will &amp; Ariel Durant, Bài Học Của Lịch Sử, NHLê dịch, tr.61).&nbsp; Khoa học càng phát triển thì các quốc gia ở Châu-Âu càng ít tín đồ...
   </p>
-<p> 3- Tác giả Thiên Lôi:  <a href="https://www.sachhiem.net/TONGIAO/tgT/ThienLoi.php">Có 
+<p> 3- Tác giả Thiên Lôi:  <a href="/TONGIAO/tgT/ThienLoi">Có 
   Jehovah trong Ca dao Việt ? !! </a></p>
 <p class="indent50">...  Sau khi dẫn 
 chứng vài câu ca dao có chữ “trời”, đại khái như <i>“Lạy Trời mưa xuống, Lấy 
@@ -38,7 +38,7 @@ rains, Jehovah shines hay Jehovah snows</i>” cho đúng văn phạm Vatican n�
 các bố chăn chiên này lại bày trò lôi thôi bói giòi ra bọ? Giả thử các bố vào 
 nhà thờ Mỹ mà giảng bố láo kiểu này thì họ sẽ cho xe chở vào nhà thương điên 
 ngay kẻo để lang thang ngoài xã hội thì thậm chí nguy....</p>
-<p>4- GS Trần Chung Ngọc: <a href="https://sachhiem.net/TCN/TCNtg/TCN89.php">"Ông  Trời" Không Quen Biết "Thượng Đế"! </a></p>
+<p>4- GS Trần Chung Ngọc: <a href="/TCN/TCNtg/TCN89">"Ông  Trời" Không Quen Biết "Thượng Đế"! </a></p>
 <p class="indent50">..Hàng tỷ người trên thế gian không tin có 
 	Thượng đế của Ki Tô Giáo nhưng vẫn có cuộc sống đầy đủ, hạnh phúc, lành 
 	mạnh, đầu óc tỉnh táo không mê mẩn vì một cái bánh vẽ trên trời (điều này 

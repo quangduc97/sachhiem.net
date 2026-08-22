@@ -3,7 +3,7 @@ layout: ../../../layouts/Article.astro
 title: "Chuyện Đặc khu Kinh tế"
 author: "Vũ Ngọc Hoàng/ Kim Dung -Kỳ Duyên"
 date: 2018-08-21
-source: "https://sachhiem.net/THOISU_CT/ChuT/TinKimDungKD.php"
+source: "/THOISU_CT/ChuT/TinKimDungKD"
 category: "Tác giả"
 lang: vi
 wordCount: 4605

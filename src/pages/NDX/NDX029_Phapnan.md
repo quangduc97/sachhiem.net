@@ -3,7 +3,7 @@ layout: ../../layouts/Article.astro
 title: "\"Nước Lũ Đẫm Máu\""
 author: "Nguyễn Đắc Xuân"
 date: 2020-08-20
-source: "https://sachhiem.net/NDX/NDX029_Phapnan.php"
+source: "/NDX/NDX029_Phapnan"
 category: "Chính trị"
 lang: vi
 wordCount: 1388

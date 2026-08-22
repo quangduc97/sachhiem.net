@@ -3,7 +3,7 @@ layout: ../../layouts/Article.astro
 title: "Phản Ứng Của Nhân Dân Thế Giới Đối Với Giáo Hội La Mã"
 author: "Nguyễn Mạnh Quang"
 date: 2024-12-19
-source: "https://sachhiem.net/NMQ/NMQ124_PhanUng.php"
+source: "/NMQ/NMQ124_PhanUng"
 category: "Xã hội"
 lang: vi
 wordCount: 9007
@@ -11,7 +11,7 @@ image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/TONGIAO/IMG/VATICAN/
 ---
 
 <div class="tomluoc">
-   <p>LTS: <i>Đây là một phần trong Chương Dẫn Nhập của Bộ Sách Giáo Hội La Mã: Lịch Sử và Hồ Sơ Tội Ác, đã được đăng cùng trang nhà</i> <a href="https://sachhiem.net/NMQ/HOSOTOIAC/CHdannhap.php">(link)</a> </p>
+   <p>LTS: <i>Đây là một phần trong Chương Dẫn Nhập của Bộ Sách Giáo Hội La Mã: Lịch Sử và Hồ Sơ Tội Ác, đã được đăng cùng trang nhà</i> <a href="/NMQ/HOSOTOIAC/CHdannhap">(link)</a> </p>
    <p><i>Hầu như toàn thể nhân dân thế giới đều đã và phải quyết tâm chống lại Giáo Hội đến cùng. Dưới đây là&nbsp;một số&nbsp;trong những bằng chứng cho sự thật này. </i></p>
  </div>
  <p><i>Vì giới hạn của mục này,&nbsp; những sự kiện lich sử ở đây được thu gọn lại. Những chi tiết về những biến cố lịch sử trong mục này sẽ được trình bày đầy đủ trong phần chót của bộ sách Lịch Sử Và Tội Ác Giáo Hội La Mã.</i></p>

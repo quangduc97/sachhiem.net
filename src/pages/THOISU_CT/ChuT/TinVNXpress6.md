@@ -3,7 +3,7 @@ layout: ../../../layouts/Article.astro
 title: "Bài Phát Biểu Của Obama Trước 2.000 Người Ở Hà Nội"
 author: "VN Express giới thiệu"
 date: 2016-05-24
-source: "https://sachhiem.net/THOISU_CT/ChuT/TinVNXpress6.php"
+source: "/THOISU_CT/ChuT/TinVNXpress6"
 category: "Chính trị"
 lang: vi
 wordCount: 3355
@@ -12,7 +12,7 @@ image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/THOISU_CT/Hinh/VIETN
 
 <div class="tomluoc">
       <p><i>LTS:  Đây là bài diễn văn 30 phút của Tổng Thống Hoa Kỳ Obama, đọc trước 2000 thính giả  tại Trung tâm Hội nghị Quốc gia (Vietnam National Convention Center) vào ngày thứ nhì của ông ở Việt Nam, 24 tháng 5, 2016. Có nhiều bài dịch khác nhau đăng ở các báo chí Việt Nam, nhưng nội dung đều giống nhau. Bài dưới đây được trang nhà chọn đăng lại vì đã có phân chia thành từng tiểu tựa, dễ theo dõi hơn.</i> </p>
-      <p><b>Bổ túc:</b> <i>Sau khi đăng bài này, chúng tôi nhận được bản dịch đầy đủ hơn, có kèm nguyên bản Anh ngữ, của Đại Sứ Quán Hoa Kỳ ở Hà Nội <a href="https://sachhiem.net/THOISU_CT/ChuT/TinVN_USembassy.php">(xem link)</a></i> (SH)</p>
+      <p><b>Bổ túc:</b> <i>Sau khi đăng bài này, chúng tôi nhận được bản dịch đầy đủ hơn, có kèm nguyên bản Anh ngữ, của Đại Sứ Quán Hoa Kỳ ở Hà Nội <a href="/THOISU_CT/ChuT/TinVN_USembassy">(xem link)</a></i> (SH)</p>
       <p align="center"><img src="https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/THOISU_CT/Hinh/VIETNAM/NatConvCtr.jpg" width="332" height="212" alt=""></p>
     </div>
 <p><i>VnExpress giới thiệu  bài phát biểu của ông.</i> </p>

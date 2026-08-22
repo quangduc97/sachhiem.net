@@ -2,7 +2,7 @@
 layout: ../../layouts/Article.astro
 title: "Thơ Xuân Ngoại Ngữ"
 author: "HQ"
-source: "https://sachhiem.net/null"
+source: "/null"
 category: "Xã hội"
 lang: vi
 wordCount: 152

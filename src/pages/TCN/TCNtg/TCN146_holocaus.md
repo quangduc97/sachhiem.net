@@ -3,7 +3,7 @@ layout: ../../../layouts/Article.astro
 title: "Vài Ý Kiến Về Video Vatican Holocaust"
 author: "Trần Chung Ngọc"
 date: 2013-07-23
-source: "https://sachhiem.net/TCN/TCNtg/TCN146_holocaus.php"
+source: "/TCN/TCNtg/TCN146_holocaus"
 lang: vi
 wordCount: 1045
 image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/TONGIAO/IMG/VATICAN/HOLOCAUST/Croatia_Pavelic_catdau.JPG"
@@ -13,7 +13,7 @@ image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/TONGIAO/IMG/VATICAN/
 <p>Cám ơn sachhiem.net đã  đưa lên thư ngắn của Duyên Sinh trong đó có video về <b>những cuộc <i>Tàn Sát  Khủng Khiếp</i></b><i> Của Vatican </i>(The Vatican’s Holocaust). Đây là một tài liệu  lịch sử về <b>chính quyền Ca-tô Pavelic ở Croatia </b>trong thời Đệ Nhị Thế Chiến đã  tàn sát 700.000-800.000 (7 đến 8 trăm ngàn) người Chính Thống Giáo, Do Thái và Gypsies chứ không liên  quan gì đến Hồi giáo (Muslim).</p>
 <div class="tomluoc">
 <p>
-<i><a href="https://sachhiem.net/index.php?content=showemail&amp;id=376">Subject: CHIẾN_TRANH_TÔN_GIÁO_-_CATHOLIC_  VS_MUSLIM </a><br>
+<i><a href="/hop-thu/376">Subject: CHIẾN_TRANH_TÔN_GIÁO_-_CATHOLIC_  VS_MUSLIM </a><br>
 From: DuyenSinh<br>
 Date: Fri, July 19, 2013 4:08 pm <br>
 VATICAN’S HOLOCAUST 
@@ -44,7 +44,7 @@ BẤM VÀO LINK</p>
 <p>
 Video này có thể coi như là <b>một cảnh báo  cho chính quyền Việt Nam.</b> Lịch sử thế giới cho thấy, bất cứ nơi nào  mà chính quyền quốc gia nằm trong tay Ca-tô Rô-maGiáo thì bao giờ ở đó cũng có  những cuộc tàn sát người ngoại đạo, cưỡng bách cải đạo, độc tài văn hóa ngu  dân. Kinh nghiệm về các chính quyền Ca-tô Rô-maGiáo như Franco ở Tây  Ban Nha, Pavelic ở Croatia, Ngô Đình Diệm ở Nam Việt Nam v…v… cho thấy rõ như  vậy.<i> Cho nên, để bảo vệ truyền thống quốc gia, chính quyền phải  ra luật tuyệt đối cấm không để cho người Ca-tô Rô-maGiáo giữ những chức vụ then  chốt có nhiều quyền hành trong chính quyền, khoan nói đến chức vụ nguyên thủ  quốc gia</i>. </p>
 <p class="indent50">(SH - Xin mời xem "<i>Góp Ý Trong Vấn Đề Sửa Đổi Hiến Pháp</i>" của Nguyễn Mạnh Quang: 
-<a href="https://sachhiem.net/NMQ/NMQ038.php">https://sachhiem.net/NMQ/NMQ038.php</a>)</p>
+<a href="/NMQ/NMQ038">https://sachhiem.net/NMQ/NMQ038.php</a>)</p>
 <p>Phòng bệnh bao giờ cũng tốt hơn là chữa bệnh. Kinh  nghiệm Ngô Đình Diệm là một kinh nghiệm đắt giá, và ảnh hưởng của nó còn kéo  dài cho tới ngày nay, ở trong nước cũng như ở hải ngoại.</p>
 <p>
 <span class="First">C</span>òn  nhớ <b>Avro Manhattan</b> đã viết trong cuốn "The Vatican's Holocaust", xuất  bản năm 1986,như sau: </p>

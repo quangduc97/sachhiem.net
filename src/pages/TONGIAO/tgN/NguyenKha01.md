@@ -3,7 +3,7 @@ layout: ../../../layouts/Article.astro
 title: "Ngụy Tạo Và Xuyên Tạc Về Cuộc Tự Thiêu"
 author: "Pháp Lạc và Nguyễn Kha"
 date: 2011-11-18
-source: "https://sachhiem.net/null"
+source: "/null"
 category: "Tác giả"
 lang: vi
 wordCount: 8373
@@ -683,7 +683,7 @@ image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.devhttps://sachhiem.net/
           số thứ tự <b>27</b>, trang <b>1083</b> và <b>1084</b></i></p>
     
     <p>[Nguồn: </p>
-    <p>- <a href="https://www.sachhiem.net/HOANHLINH/VNMLphlucA.php">https://www.sachhiem.net/HOANHLINH/VNMLphlucA.php</a> ; </p>
+    <p>- <a href="/HOANHLINH/VNMLphlucA">https://www.sachhiem.net/HOANHLINH/VNMLphlucA.php</a> ; </p>
     <p>- <a href="https://www.giaodiemonline.com/2008/vnmlqht/phuluca.htm">https://www.giaodiemonline.com/2008/vnmlqht/phuluca.htm</a> và</p>
     <p>- <a href="https://www.chuyenluan.net/index.php?option=com_content&amp;view=article&amp;id=5036:y-kien-nhan-si-ve-hoi-ky-do-mau&amp;catid=2:khaocuu&amp;Itemid=4">https://www.chuyenluan.net/index.php?option=com_content&amp;view=article<br>&amp;id=5036:y-kien-nhan-si-ve-hoi-ky-do-mau&amp;catid=2:khaocuu&amp;Itemid=4</a> ]</p>
      
@@ -811,4 +811,4 @@ image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.devhttps://sachhiem.net/
     
 <p class="nguonL">[Nguồn: https://www.quangduc.com/BoTatQuangDuc/57mothuyenthoai.html#Kỳ_3:_Vị_pháp_thiêu_thân_] </p>
 
-<p><a href="https://sachhiem.net/TONGIAO/tgN/NguyenKha01a.php">(xem tiếp ---&gt;&gt;)</a></p>
+<p><a href="/TONGIAO/tgN/NguyenKha01a">(xem tiếp ---&gt;&gt;)</a></p>

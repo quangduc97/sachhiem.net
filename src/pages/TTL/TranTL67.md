@@ -3,7 +3,7 @@ layout: ../../layouts/Article.astro
 title: "Tính Đạo Đức Giả của Phong Trào Đòi Quyền Sống"
 author: "Trần Tiên Long chuyển dịch"
 date: 2015-08-01
-source: "https://sachhiem.net/TTL/TranTL67.php"
+source: "/TTL/TranTL67"
 category: "Lịch sử"
 lang: vi
 wordCount: 623
@@ -38,6 +38,6 @@ image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/SACHNGOAI/Hinhanh/PE
 
 
  <hr>
-<p><a href="https://sachhiem.net/TTL/List.inc.php">Các bài của Trần Tiên Long » </a></p>
+<p><a href="/TTL/List.inc">Các bài của Trần Tiên Long » </a></p>
 
 <hr>

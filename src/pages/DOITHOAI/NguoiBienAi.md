@@ -3,7 +3,7 @@ layout: ../../layouts/Article.astro
 title: "Trả Lời Cho Những Ai So sánh Việt Nam với Nhật"
 author: "Người Biên Ải"
 date: 2023-09-01
-source: "https://sachhiem.net/DOITHOAI/NguoiBienAi.php"
+source: "/DOITHOAI/NguoiBienAi"
 category: "Chính trị"
 lang: vi
 wordCount: 582

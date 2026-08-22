@@ -3,15 +3,14 @@ layout: ../../../layouts/Article.astro
 title: "Các Linh Mục Châu Phi Và Châu Á Thay Thế Các Linh Mục Phương Tây"
 author: "SSPX (Society of Pius X)"
 date: 2019-09-08
-source: "https://sachhiem.net/TONGIAO/tgT/TinSSPX.php"
+source: "/TONGIAO/tgT/TinSSPX"
 category: "Chính trị"
 lang: vi
 wordCount: 290
-image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nha.jpg"
+image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/TONGIAO/IMG/TRUYENDAO/AfricanPriest_France.jpg"
 ---
 
-<p align="center"><a href="https://www.sachhiem.net/">
-<img border="0" src="https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nha.jpg"></a> 
+<p align="center"> 
 ngày 08-Sep-2019 </p>
  <p align="center"><img src="https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/TONGIAO/IMG/TRUYENDAO/AfricanPriest_France.jpg" width="400" height="225" alt=""></p> 
 <p>Theo Văn phòng Trung ương về Thống kê  của Vatican, các linh mục châu Á và châu Phi có thể thực hiện các chức năng được thực hiện bởi các linh mục ở các lục địa Âu châu và Bắc Mỹ.</p>

@@ -2,7 +2,7 @@
 layout: ../../layouts/Article.astro
 title: "Truy nguyên một bức hình"
 author: "(SH)"
-source: "https://sachhiem.net/null"
+source: "/null"
 category: "Lịch sử"
 lang: vi
 wordCount: 4799
@@ -569,7 +569,7 @@ Trân trọng kính gởi,</p>
 	<p>(tiếng Việt)</p>
 	<ul>
 		<li>
-		<a rel="nofollow" href="https://sachhiem.net/SACHNGOAI/LeHongPhong.php">
+		<a rel="nofollow" href="/SACHNGOAI/LeHongPhong">
 		Chuyện Hoang Đường Vụ “Thảm Sát” ở Huế 1968 – The Myth Of The “Hue 
 		Massacre” 1968</a> Nhà xuất bản Nhân Dân, Noam Chomsky and Edward S. 
 		Herman, Lê Hồng Phong dịch.</li>

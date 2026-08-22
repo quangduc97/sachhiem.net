@@ -2,19 +2,17 @@
 layout: ../../../layouts/Article.astro
 title: "[VATICANOLOGY] - Ky Tô Hữu Lại Giết Nhau -"
 author: "Minh Thạnh"
-source: "https://sachhiem.net/TONGIAO/tgM/MinhThanh35.php"
+source: "/TONGIAO/tgM/MinhThanh35"
 category: "Chính trị"
 lang: vi
 wordCount: 4552
-image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nha.jpg"
+image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/TONGIAO/IMG/UKRAINE/VietCatholicNews.JPG"
 ---
 
 <p class="Tuaduoi">Video Youtube Của  Vietcatholic News Hung Tợn Chưa Từng Có. </p>
  
 
- <p align="center"><a href="https://www.sachhiem.net/">
-<img border="0" src="https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nha.jpg"></a> 
-</p>
+ 
  <p class="Tuaduoi">Chính Quyền Vatican: Vừa Hí Hửng Thúc Đẩy Lật Đổ Giáo Chủ, Vừa Hoan Nghênh Trấn Áp Cơ Đốc Chính Thống Giáo Nga. Có Chăng Hàm Ý Ám Sát.</p><div class="tomluoc">
    <p><i>Mục tiêu Vatican là luôn tìm kiếm quan hệ ngoại giao để can thiệp vào nước sở tại và vỗ ngực xưng tên là cường quốc ngoại giao.
 

@@ -2,7 +2,7 @@
 layout: ../../../layouts/Article.astro
 title: "Thiệp Cảm Ơn Của Gia Đình Cố GS Trần Chung Ngọc"
 date: 2014-02-28
-source: "https://sachhiem.net/TCN/29JAN14/Thankyou.php"
+source: "/TCN/29JAN14/Thankyou"
 lang: vi
 wordCount: 184
 image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/TCN/Pict/Thanhyoucardcvr.jpg"

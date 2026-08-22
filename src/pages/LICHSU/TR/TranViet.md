@@ -3,7 +3,7 @@ layout: ../../../layouts/Article.astro
 title: "Pigneau de Behaine:"
 author: "Trần Việt"
 date: 2013-06-19
-source: "https://sachhiem.net/LICHSU/TR/TranViet.php"
+source: "/LICHSU/TR/TranViet"
 category: "Tác giả"
 lang: en
 wordCount: 3155

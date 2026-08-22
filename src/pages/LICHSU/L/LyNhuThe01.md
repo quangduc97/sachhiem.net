@@ -3,7 +3,7 @@ layout: ../../../layouts/Article.astro
 title: "Côn Đảo: Nơi Lịch Sử Có Thể Khác"
 author: "Lý Như Thế"
 date: 2013-04-27
-source: "https://sachhiem.net/LICHSU/L/LyNhuThe01.php"
+source: "/LICHSU/L/LyNhuThe01"
 category: "Lịch sử"
 lang: vi
 wordCount: 2482
@@ -72,5 +72,5 @@ Ta sẽ có ít nhất là hai khả thể lịch sử:...(Lý Như Thế)</p>
 <p> <span class="nguonL">[<a href="https://hoangnamgiao.blogspot.com/2013/04/con-ao-noi-lich-su-co-khac-ly-nhu-gio_26.html">https://hoangnamgiao.blogspot.com/2013/04/con-ao-noi-lich-su-co-khac-ly-nhu-gio_26.html</a> ]</span></p>
 
      <p><b>Cùng tác giả:</b></p>
-<p> - <a href="https://sachhiem.net/LICHSU/L/LyNhuThe.php">Giới thiệu tác phẩm “Nhúc Nhích Thì Giết” </a></p>
-<p>- <a href="https://sachhiem.net/LICHSU/L/LyNhuThe01.php">Côn Đảo: Nơi Lịch Sử Có Thể Khác</a></p>
+<p> - <a href="/LICHSU/L/LyNhuThe">Giới thiệu tác phẩm “Nhúc Nhích Thì Giết” </a></p>
+<p>- <a href="/LICHSU/L/LyNhuThe01">Côn Đảo: Nơi Lịch Sử Có Thể Khác</a></p>

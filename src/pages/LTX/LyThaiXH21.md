@@ -3,7 +3,7 @@ layout: ../../layouts/Article.astro
 title: "Khi Kỳ Vọng Của Cha Mẹ Không Thể Đạt Tới"
 author: "Lý Thái Xuân"
 date: 2015-07-29
-source: "https://sachhiem.net/LTX/LyThaiXH21.php"
+source: "/LTX/LyThaiXH21"
 category: "Xã hội"
 lang: vi
 wordCount: 2375

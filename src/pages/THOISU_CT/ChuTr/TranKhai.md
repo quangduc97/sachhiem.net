@@ -3,15 +3,15 @@ layout: ../../../layouts/Article.astro
 title: "Obama Theo Hồi Giáo?"
 author: "Trần Khải"
 date: 2012-03-15
-source: "https://sachhiem.net/THOISU_CT/ChuTr/TranKhai.php"
+source: "/THOISU_CT/ChuTr/TranKhai"
 category: "Chính trị"
 lang: vi
 wordCount: 1298
-image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nha.jpg"
+image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/THOISU_CT/Hinh/OBAMA/Obama_inChurch_TranKhai.jpg"
 ---
 
 <table border="0" cellpadding="0" width="250" align="center"><tbody><tr>
-	<td width="125"><a href="/index"><img border="0" src="https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nha.jpg"></a></td>
+	<td width="125"></td>
     <td valign="top">15-Mar-2012</td>
 		</tr></tbody></table>
 			<p class="tomluoc"><br>
@@ -148,4 +148,4 @@ dời được núi? Ai mà biết.. <img src="https://pub-756b239a5ae84d4c8c8ff
 		        v/v…<br>
 		      Xin kính chuyển vào diễn đàn một bài viết rất trung thực.<br>
 		      Trần Tiên Long</p>
-		   <a href="https://sachhiem.net/THOISU_CT/ChuTr/TranKhai.php">  </a>
+		   <a href="/THOISU_CT/ChuTr/TranKhai">  </a>

@@ -3,7 +3,7 @@ layout: ../../../layouts/Article.astro
 title: "Tập Tục Rước Ông Bà Về Ăn Tết Với Con Cháu"
 author: "FB Thi Nguyễn"
 date: 2021-02-14
-source: "https://sachhiem.net/TONGIAO/FB/FBThiNguyen15.php"
+source: "/TONGIAO/FB/FBThiNguyen15"
 category: "Tác giả"
 lang: vi
 wordCount: 669

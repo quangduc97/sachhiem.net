@@ -2,7 +2,7 @@
 layout: ../../../layouts/Article.astro
 title: "Tìm hiểu nhân VN trở thành"
 author: "(Cà Phê Tối)"
-source: "https://sachhiem.net/null"
+source: "/null"
 category: "Chính trị"
 lang: vi
 wordCount: 9160

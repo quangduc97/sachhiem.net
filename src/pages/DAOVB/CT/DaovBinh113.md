@@ -2,7 +2,7 @@
 layout: ../../../layouts/Article.astro
 title: "Nhật Ký Biển Đông: Khi Nào Hoa Lục Dừng Lại Ở Biển Đông?"
 author: "Đào Văn Bình"
-source: "https://sachhiem.net/DAOVB/CT/DaovBinh113.php"
+source: "/DAOVB/CT/DaovBinh113"
 category: "Chính trị"
 lang: vi
 wordCount: 6242

@@ -3,7 +3,7 @@ layout: ../../../layouts/Article.astro
 title: "Cựu Dân Biểu Ron Paul Bênh Vực Nga Sau Vụ Phi Cơ Malaysia Rơi"
 author: "Colin Campbell"
 date: 2014-06-23
-source: "https://sachhiem.net/TONGIAO/tgD/Dehova06.php"
+source: "/TONGIAO/tgD/Dehova06"
 category: "Tác giả"
 lang: vi
 wordCount: 1175

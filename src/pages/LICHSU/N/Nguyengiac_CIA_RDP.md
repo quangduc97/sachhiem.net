@@ -3,7 +3,7 @@ layout: ../../../layouts/Article.astro
 title: "Bản Phúc Trình Của CIA"
 author: "Nguyên Giác dịch"
 date: 2013-06-04
-source: "https://sachhiem.net/LICHSU/N/Nguyengiac_CIA_RDP.php"
+source: "/LICHSU/N/Nguyengiac_CIA_RDP"
 category: "Lịch sử"
 lang: vi
 wordCount: 675

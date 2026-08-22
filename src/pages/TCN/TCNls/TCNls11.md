@@ -2,16 +2,16 @@
 layout: ../../../layouts/Article.astro
 title: "TÔI ĐỌC BÀI CỦA PHẠM CAO DƯƠNG VỀ"
 author: "Trần Chung Ngọc"
-source: "https://sachhiem.net/TCN/TCNls/TCNls11.php"
+source: "/TCN/TCNls/TCNls11"
 lang: vi
 wordCount: 14392
-image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nha.jpg"
+image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/LICHSU/IMG/NHANVAT/VoNguyenGiap.jpg"
 ---
 
 <p class="Tuaduoi">ĐẠI TƯỚNG VÕ NGUYÊN GIÁP</p>
           
           
-          <p align="center"><a href="https://sachhiem.net/index.php"><img border="0" src="https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nha.jpg"></a> 26 tháng 7, 2010 </p>
+          <p align="center"> 26 tháng 7, 2010 </p>
           <p><i>LTS: Hình dạng của vết thương Việt Nam đã rõ rệt như trái đất xoay quanh mặt trời: từ bệnh lý, bệnh trạng, các giai đoạn chữa trị, cho đến tên các loại thuốc trị liệu, thuốc lầm, và thuốc giải,... tất cả đã hiện ra theo dòng lịch sử. Nhưng, hiện tượng "làm da non" đã gây khó chịu không ít. Đó là những bài viết bất chấp sự kiện, bất chấp tình tự dân tộc, và đưa đến bất chấp phải trái. Ắt phải có động lực nào đó để khiến một số những người có học vị đã không còn nhớ đến lương tâm chức nghiệp của mình. Thời hậu Tần Thủy Hoàng của Trung Hoa quốc, dưới sự lộng hành và áp lực của hoạn quan Triệu Cao, tân vương Hồ Hợi đã phải ngượng ngập gọi con nai là "con ngựa". Bên Âu Châu, trong màn đen tăm tối dưới sự thống trị của Giáo Hội La Mã, những khám phá khoa học chứng minh ngược với thánh kinh, như trái đất xoay quanh mặt trời, không được phổ biến. Người khám phá bị bắt nói ngược lại, và thường phải chịu giam cầm, hoặc xử thiêu sống. Ngay cả đến ngày nay ở thế giới được xem là tân tiến, sự phổ biến khoa học hay lịch sử có vẻ bất lợi cho các "niềm tin Thiên Chúa" như "thuyết tiến hóa" cũng vẫn còn bị hạn chế và gặp nhiều gian nan. Dù nói ngược thế nào, trái đất "vẫn xoay quanh mặt trời" mang theo sự "tiến hóa" của muôn loài vạn vật. Dù nhóm người xu thế nào đó tìm cách giảm thiểu công trạng những người đem lại vinh quang cho dân Việt như Hồ Chí Minh, Võ Nguyên Giáp,... rồi tiến đến xóa bỏ hẳn công lao, biến "công" thành "tội" đi nữa, cho đến ngàn năm sau, lịch sử của dân Việt (và cả thế giới gồm các quốc gia chiến bại) vẫn ghi nhớ vị tướng tài xuất chúng của người dân Việt. Đó là niềm tự hào của những người dân vẫn còn biết đến nguồn cội của mình. Máu sẽ chảy về tim, nhưng cũng có những dòng mực xu thời sẽ chảy lạc khỏi con tim dân tộc. (SH)</i></p>
           <hr>
           <p><span class="First">T</span>ôi vừa đọc một bài của ông Phạm Cao Dương trên diễn đàn . DCVonline:</p>

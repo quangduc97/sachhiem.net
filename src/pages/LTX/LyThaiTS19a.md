@@ -3,7 +3,7 @@ layout: ../../layouts/Article.astro
 title: "LETTRE AU Président de La République Française."
 author: "Anh Tuấn Lê"
 date: 2022-12-01
-source: "https://sachhiem.net/LTX/LyThaiTS19a.php"
+source: "/LTX/LyThaiTS19a"
 category: "Chính trị"
 lang: vi
 wordCount: 1219

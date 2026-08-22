@@ -3,7 +3,7 @@ layout: ../../layouts/Article.astro
 title: "Cảnh giác với Trung Quốc-"
 author: "Amari-TX"
 date: 2012-11-24
-source: "https://sachhiem.net/AMARITX/AMI03.php"
+source: "/AMARITX/AMI03"
 category: "Chính trị"
 lang: vi
 wordCount: 1048

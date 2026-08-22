@@ -2,7 +2,7 @@
 layout: ../../layouts/Article.astro
 title: "Tác giả Trần Chung Ngọc"
 author: "Tác giả Trần Chung Ngọc (1931-2014)"
-source: "https://sachhiem.net/null"
+source: "/null"
 lang: vi
 wordCount: 3645
 image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/TCN/Pict/TCN07.jpg"
@@ -10,8 +10,7 @@ image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/TCN/Pict/TCN07.jpg"
 
 <p style="text-align: center"><img border="0" src="https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/TCN/Pict/TCN07.jpg"></p>
 			
-      <p align="center"><a href="https://www.sachhiem.net/">
-	<img border="0" src="https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nha.jpg"></a> </p>
+      
      <p class="TuaChuong"><b>Đôi hàng về tác giả</b></p>
       <p> Sinh năm 1931 tại Hà-Nội.</p>
       <p> 1952: Tốt nghiệp trường Sĩ Quan Trừ Bị Nam Định với cấp bậc 
@@ -58,10 +57,10 @@ image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/TCN/Pict/TCN07.jpg"
       <p align="center"> <img src="https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/TCN/Pict/TCNdiv.gif" alt="" width="450" border="0"></p>
       <p class="TuaDenLeft"><b><u>Tác phẩm đã xuất bản:</u></b></p>
       <ul style="margin-top: 0in; margin-bottom: 0in" type="disc">
-       <li><a href="https://sachhiem.net/TCN/TCNtg/CGchinhsu/CGCS0.php">Công Giáo Chính Sử </a>(1998; Tái bản lần 2: 2000)</li>
-       <li><a href="https://sachhiem.net/TCN/TCNtg/DuctinCG/DuctinCG.php">Đức Tin Công Giáo (2000)</a></li>
-       <li><a href="https://sachhiem.net/TCN/TCNtg/Giesu/Giesulaai.php">Chúa Giê-su Là Ai? Giảng Dạy Những Gì?</a> (2002)</li>
-       <li><a href="https://sachhiem.net/index.php?content=showrecipe&amp;id=350">Con Người Và Vũ Trụ</a>. Phật Giáo Và Khoa Học (sẽ xuất bản)</li>
+       <li><a href="/TCN/TCNtg/CGchinhsu/CGCS0">Công Giáo Chính Sử </a>(1998; Tái bản lần 2: 2000)</li>
+       <li><a href="/TCN/TCNtg/DuctinCG/DuctinCG">Đức Tin Công Giáo (2000)</a></li>
+       <li><a href="/TCN/TCNtg/Giesu/Giesulaai">Chúa Giê-su Là Ai? Giảng Dạy Những Gì?</a> (2002)</li>
+       <li><a href="/TCN/TCNkh/TCNkh00b">Con Người Và Vũ Trụ</a>. Phật Giáo Và Khoa Học (sẽ xuất bản)</li>
        <li><a href="/TCN/TCNtg/CGHS/NCGHS0">Công Giáo Hắc Sử </a>(1998; Tái bản lần 2: 2000)</li>
       </ul>
       
@@ -74,8 +73,8 @@ image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/TCN/Pict/TCN07.jpg"
        <li>Ki Tô Giáo Và Kế Hoạch Cải Đạo Á Châu (2005)</li>
        <li>LM Trần Lục, Thực Chất Con Người Và Sự Nghiệp (1999)</li>
        <li>Nguyễn Trường Tộ, Thực Chất Con Người Và Di Thảo (1998)</li>
-       <li><a href="https://sachhiem.net/BUIKHA/BuiKha02_NTT.php">Nguyễn Trường Tộ Yêu Nước ??</a> (2002)</li>
-       <li><a href="https://sachhiem.net/TCN/TCNtg/DAOGIESU/TCN_NMQ.php">Người Việt Nam &amp; Đạo 
+       <li><a href="/BUIKHA/BuiKha02_NTT">Nguyễn Trường Tộ Yêu Nước ??</a> (2002)</li>
+       <li><a href="/TCN/TCNtg/DAOGIESU/TCN_NMQ">Người Việt Nam &amp; Đạo 
         Giêsu</a> (2007)</li>
        <li>Phật Giáo Trong Thế Kỷ Mới; Tuyển Tập I (1996)</li>
        <li>Phật Giáo Trong Thế Kỷ Mới; Tuyển Tập II (1997)</li>
@@ -99,13 +98,13 @@ image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/TCN/Pict/TCN07.jpg"
       
       <p class="TuaDenLeft"><u>Kho sách nghiên cứu của Giáo Sư Trần Chung Ngọc</u></p>
       <p>Các sách vở của tác giả Trần Chung Ngọc đã tham khảo, giới thiệu đến độc giả để tiện việc nghiên cứu. </p>
- <p>1.-  <a href="https://sachhiem.net/TCN/TCNls/TCNls09.php">Xin bấm vào hàng chữ dưới đây để xem <img src="https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/Next3.gif" alt="" width="15" height="6" border="0"></a></p>
-  <p>2.- <a href="https://sachhiem.net/TCN/TCNdt/TCNdt069.php">Xin xem thêm một số tài liệu khác <img src="https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/Next3.gif" alt="" width="15" height="6" border="0"></a></p>   
+ <p>1.-  <a href="/TCN/TCNls/TCNls09">Xin bấm vào hàng chữ dưới đây để xem <img src="https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/Next3.gif" alt="" width="15" height="6" border="0"></a></p>
+  <p>2.- <a href="/TCN/TCNdt/TCNdt069">Xin xem thêm một số tài liệu khác <img src="https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/Next3.gif" alt="" width="15" height="6" border="0"></a></p>   
    <p class="TuaDenLeft"><u>Trang Bách Khoa Trực Tuyến mở </u></p>
  <p><a href="https://vi.wikipedia.org/wiki/Tr%E1%BA%A7n_Chung_Ng%E1%BB%8Dc">https://vi.wikipedia.org/wiki/Trần_Chung_Ngọc</a></p>
  <p align="center"> <img src="https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/TCN/Pict/TCNdiv.gif" alt="" width="450" border="0"></p>
 <p class="TuaDenLeft"> Các tác phẩm trực tuyến  </p>
-<p> Xin đọc&nbsp;<a href="https://sachhiem.net/PagingTCNsub.inc.php">https://sachhiem.net/PagingTCNsub.inc.php</a>
+<p> Xin đọc&nbsp;<a href="/PagingTCNsub.inc">https://sachhiem.net/PagingTCNsub.inc.php</a>
 </p><hr>			
             
    <p class="TuaDenLeft">Kính Cáo Cùng Đọc Giả Sách Hiếm và Giao
@@ -177,7 +176,7 @@ image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/TCN/Pict/TCN07.jpg"
 			</blockquote>
 			<p align="center"><img border="0" src="https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/TCN/Pict/TCNdiv.gif" width="450"></p>
 <p class="Tuaduoi"><b>Danh sách mới:</b>  </p>
-<p align="center">Xin đọc <a href="https://sachhiem.net/PagingTCNsub.inc.php">https://sachhiem.net/PagingTCNsub.inc.php</a></p>
+<p align="center">Xin đọc <a href="/PagingTCNsub.inc">https://sachhiem.net/PagingTCNsub.inc.php</a></p>
 
 
 <a href="/index"><p class="trang">Trang Sách Hiếm </p></a>

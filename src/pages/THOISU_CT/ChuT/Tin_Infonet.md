@@ -3,7 +3,7 @@ layout: ../../../layouts/Article.astro
 title: "Bật Mí Cuộc Đối Đáp Giữa TBT Nguyễn Phú Trọng Và Hồ Cẩm Đàoo"
 author: "Nguyễn Cường / Infonet"
 date: 2014-07-10
-source: "https://sachhiem.net/THOISU_CT/ChuT/Tin_Infonet.php"
+source: "/THOISU_CT/ChuT/Tin_Infonet"
 category: "Chính trị"
 lang: vi
 wordCount: 570
@@ -32,7 +32,7 @@ Bình luận về lập luận này Trung tướng Dỹ cho rằng đó là th�
     Đến đây, Hồ Cẩm Đào chỉ còn biết im lặng… <img src="https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/sqdot.gif" width="10" height="10"></p>
 <p>______________________  </p>
 <p><b><i>(*) Nhị  thập tứ sử</i></b>: Là&nbsp;bộ chính sử  được các triều đại Trung Quốc thừa nhận. Bộ sử ký này ghi chép từ Thượng cổ đến  thời nhà Thanh. Trong đó các mục Địa lý đều không đề cập đến các hòn đảo ở xa  hơn đảo Hải Nam.</p>
-<p>(SH - xem bài <a href="https://sachhiem.net/THOISU_CT/ChuP/PhamHoangQuan.php">Tây Sa và Nam Sa trong sử liệu Trung Quốc (Phạm Hoàng Quân</a>) </p>
+<p>(SH - xem bài <a href="/THOISU_CT/ChuP/PhamHoangQuan">Tây Sa và Nam Sa trong sử liệu Trung Quốc (Phạm Hoàng Quân</a>) </p>
 <p>
   <b><i>Hoàng triều trực tỉnh địa dư  toàn đồ</i></b>:Tập bản đồ Địa dư toàn  đồ tới các tỉnh của TQ được thực hiện dưới thời nhà Thanh, xuất bản năm 1904  trong đó ghi rõ cực Nam của Trung Quốc là đảo Hải Nam.</p>
 <p class="TacgiaL"> Nguyễn Cường / Infonet </p>

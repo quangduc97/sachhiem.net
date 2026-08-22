@@ -3,7 +3,7 @@ layout: ../../../layouts/Article.astro
 title: "Tay Sai Đi Chầu Ông Chủ"
 author: "FB Anh Nguyên"
 date: 2022-03-28
-source: "https://sachhiem.net/TONGIAO/FB/FBAnhNguyen02.php"
+source: "/TONGIAO/FB/FBAnhNguyen02"
 category: "Chính trị"
 lang: vi
 wordCount: 673
@@ -31,8 +31,8 @@ image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/TONGIAO/IMG/LINHMUC/
 <p class="nguonL">FB <a href="https://www.facebook.com/permalink.php?story_fbid=229507392615440&amp;id=100066685434573">Anh Nguyen</a> 12 Dec, 2021</p>
 <p><b>Tham khảo:</b></p>
 
-<p>1- <a href="https://sachhiem.net/CHARLIE/CN_TTDTG/Hoithuasai.php">Tuyển Tập Độc Thần Giáo</a> của Charlie Nguyễn</p>
-<p>2- <a href="https://sachhiem.net/TONGIAO/tgT/Tanphap.php">Giáo Dân Bất Tuân Luật Pháp Là Trường Hợp Cá Biệt Hay là Truyền Thống Lâu Đời</a>?</p>
+<p>1- <a href="/CHARLIE/CN_TTDTG/Hoithuasai">Tuyển Tập Độc Thần Giáo</a> của Charlie Nguyễn</p>
+<p>2- <a href="/TONGIAO/tgT/Tanphap">Giáo Dân Bất Tuân Luật Pháp Là Trường Hợp Cá Biệt Hay là Truyền Thống Lâu Đời</a>?</p>
 <p>___________</p>
 <p><b>Phụ đính:</b></p>
 <p><a href="https://www.youtube.com/watch?v=i70Vaowmg8c">Theo VietCatholicNews</a> ngày 20 Nov, 2019, khác với chuyến viếng thăm của Giáo Hoàng John Paul II ở 35 năm trước, không có thành viên gia đình Hoàng Gia nào của Thái Lan có mặt tại sân bay đón GH Francis I.</p>

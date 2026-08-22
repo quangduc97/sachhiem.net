@@ -3,16 +3,15 @@ layout: ../../layouts/Article.astro
 title: "Ba Cái Chết, Một Suy Nghĩ"
 author: "Dương Như Tâm"
 date: 2012-04-18
-source: "https://sachhiem.net/XAHOI/DuongnhuTam.php"
+source: "/XAHOI/DuongnhuTam"
 category: "Xã hội"
 lang: vi
 wordCount: 1091
-image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nha.jpg"
+image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/LICHSU/IMG/NGODD/TranLeQuyen.jpg"
 ---
 
 <table border="0" align="center" cellpadding="1" width="250"><tbody><tr>
-	<td width="234"><a href="https://www.sachhiem.net/">
-	<img border="0" src="https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nha.jpg"></a></td>
+	<td width="234"></td>
 <td valign="top" width="356">
 	</td></tr></tbody></table>
 

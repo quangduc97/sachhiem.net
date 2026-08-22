@@ -3,7 +3,7 @@ layout: ../../../layouts/Article.astro
 title: "Những Chính Kiến Khác Biệt"
 author: "Nguyễn Khắc Anh Tâm vs Vũ Linh"
 date: 2013-05-28
-source: "https://sachhiem.net/THOISU_CT/ChuN/NGKAT.php"
+source: "/THOISU_CT/ChuN/NGKAT"
 category: "Tác giả"
 lang: vi
 wordCount: 11452

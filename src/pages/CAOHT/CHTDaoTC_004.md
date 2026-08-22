@@ -2,7 +2,7 @@
 layout: ../../layouts/Article.astro
 title: "CHƯƠNG 3: Nền Tảng Đạo Gia Tô Trong Việc"
 author: "Cao Huy Thuần"
-source: "https://sachhiem.net/CAOHT/CHTDaoTC_004.php"
+source: "/CAOHT/CHTDaoTC_004"
 category: "Tác giả"
 lang: vi
 wordCount: 14875

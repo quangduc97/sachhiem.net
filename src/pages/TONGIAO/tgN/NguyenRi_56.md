@@ -3,7 +3,7 @@ layout: ../../../layouts/Article.astro
 title: "KITO GIÁO Ở MỸ ĐANG TRÊN ĐƯỜNG DIỆT VONG."
 author: "Ri Nguyễn"
 date: 2022-04-27
-source: "https://sachhiem.net/TONGIAO/tgN/NguyenRi_56.php"
+source: "/TONGIAO/tgN/NguyenRi_56"
 category: "Tác giả"
 lang: vi
 wordCount: 1242
@@ -63,4 +63,4 @@ image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/TONGIAO/IMG/CHURCH/E
 
 <p>_____________________</p>
  <p>Các bài của Nguyễn Ri: </p>
- <p> <a href="https://sachhiem.net/TONGIAO/tgN/ListRiNguyen.inc.php" target="_blank">https://sachhiem.net/TONGIAO/tgN/ListRiNguyen.inc.php</a></p>
+ <p> <a href="/TONGIAO/tgN/ListRiNguyen.inc" target="_blank">https://sachhiem.net/TONGIAO/tgN/ListRiNguyen.inc.php</a></p>

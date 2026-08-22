@@ -2,11 +2,10 @@
 layout: ../../../layouts/Article.astro
 title: "QUÉT LÁ KHÔ BAY"
 author: "Minh Mẫn"
-source: "https://sachhiem.net/null"
+source: "/null"
 category: "Văn hóa"
 lang: vi
 wordCount: 2822
-image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nha.jpg"
 ---
 
 <div align="center" style="position: relative; left: 0; top: 0">
@@ -34,7 +33,7 @@ image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nha.jpg"
 	<tbody><tr><td bgcolor="White" align="justify" valign="top">
 	<div style="padding-left: 50px; padding-right: 50px">
   <table border="0" cellpadding="10" width="85%" cols="2"><tbody><tr>
-	<td valign="top"><a href="/index"><img border="0" src="https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nha.jpg"></a></td>
+	<td valign="top"></td>
 	<td valign="top" style="text-align:right">	<i>
 	<font color="#080808" size="2"> 08 tháng 4, 2009
 	</font></i>

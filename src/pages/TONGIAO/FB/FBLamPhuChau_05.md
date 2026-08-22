@@ -3,7 +3,7 @@ layout: ../../../layouts/Article.astro
 title: "Tại Sao Các Tín Đồ Ca-tô Rô-ma Luôn Chống Cộng ?"
 author: "Lâm Phú Châu"
 date: 2020-07-13
-source: "https://sachhiem.net/TONGIAO/FB/FBLamPhuChau_05.php"
+source: "/TONGIAO/FB/FBLamPhuChau_05"
 category: "Tác giả"
 lang: vi
 wordCount: 1197

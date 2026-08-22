@@ -3,7 +3,7 @@ layout: ../../../layouts/Article.astro
 title: "Nhật Ký Biển Đông:"
 author: "Đào Văn Bình/Calitoday thực hiện"
 date: 2014-05-30
-source: "https://sachhiem.net/DAOVB/CT/DaovBinh15.php"
+source: "/DAOVB/CT/DaovBinh15"
 category: "Chính trị"
 lang: vi
 wordCount: 316
@@ -34,4 +34,4 @@ Cập nhật: 28/05/2014 16:02</p>
  <p align="center"><iframe width="450" height="368" src="//www.youtube.com/embed/RCluwVge9eE" frameborder="0" allowfullscreen=""></iframe></p>
  
  <p>____________________</p>
-   <p><a href="https://sachhiem.net/LICHSU/H/HoangSa_list.php">Các bài về Hoàng Sa- Trường Sa đăng trên sachhiem.net » </a></p>
+   <p><a href="/LICHSU/H/HoangSa_list">Các bài về Hoàng Sa- Trường Sa đăng trên sachhiem.net » </a></p>

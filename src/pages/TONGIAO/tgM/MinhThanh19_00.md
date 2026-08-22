@@ -2,7 +2,7 @@
 layout: ../../../layouts/Article.astro
 title: "FACEBOOK MINH THẠNH THÔNG BÁO:"
 author: "Minh Thạnh"
-source: "https://sachhiem.net/TONGIAO/tgM/MinhThanh19_00.php"
+source: "/TONGIAO/tgM/MinhThanh19_00"
 category: "Chính trị"
 lang: vi
 wordCount: 343

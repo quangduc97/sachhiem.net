@@ -2,13 +2,13 @@
 layout: ../../../../layouts/Article.astro
 title: "CÔNG GIÁO CHÍNH SỬ"
 author: "Trần Chung Ngọc"
-source: "https://sachhiem.net/TCN/TCNtg/CGchinhsu/CGCS3.php"
+source: "/TCN/TCNtg/CGchinhsu/CGCS3"
 lang: vi
 wordCount: 63462
-image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nha.jpg"
+image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/TONGIAO/IMG/VATICAN/INQUI/CGHS1.gif"
 ---
 
-<p align="center"><a href="https://www.sachhiem.net/"><img border="0" src="https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nha.jpg"></a>đăng 21 tháng 10, 2007,<br>bổ túc ngày 25 tháng 9, 2009 </p>
+<p align="center">đăng 21 tháng 10, 2007,<br>bổ túc ngày 25 tháng 9, 2009 </p>
 <p>Toàn tập: <a href="/TCN/CGCS0">1</a> <a href="/TCN/CGCS1">2</a> <a href="/TCN/CGCS2">3</a> <a href="/TCN/CGCS3">4</a> <a href="/TCN/CGCS4">5</a> <a href="/TCN/CGCS5">6</a> <a href="/TCN/CGCS6">7</a> <a href="/TCN/CGCS7">8</a> <a href="/TCN/CGCS8">9</a> <a href="/TCN/CGCS9">10</a> <a href="/TCN/CGCS10">11</a> <a href="/TCN/CGCS11">12</a></p> 
 
 <p><i>LTS: Tại sao trong bất kỳ một quốc gia nào cũng có những biện pháp chế tài dành cho những kẻ tôi phạm, nhất là tội sát nhân? Câu trả lời đơn giản là "vì họ không phải là người bình thường." Những người này phải bị kết án, phải bị giam cầm, hay phải bị "khử diệt" để bảo vệ nhân mạng của người khác. Vậy tại sao cái tổ chức như được trình bày dưới đây lại được thao túng làm tội ác giết người hàng ngàn năm? Câu trả lời có thể là: Vì họ có quyền lực bao trùm thế giới, họ lại cứ mở miệng giảng nhân từ, bác ái, công chính. Tay phải họ làm việc từ thiện để cho tay trái rảnh rang làm việc khác, không cho tay phải biết. Khi đọc hết bài này, người ta sẽ tự hỏi: Có nên để cho cái tổ chức này được quyền tư do "hành đạo" như bất kỳ một tôn giáo nào ở Á đông hay không? <b>Họ không phải là những người bình thường. Thật là mâu thuẩn khi họ đòi "tự do tôn giáo", là cái mà họ đã từng dùng tòa án Dị giáo của họ để trấn lột, tùng xẻo, hành hạ, và đốt cháy tất cả những ai không tuân phục theo</b>. Tại sao ta không kết án, không ngăn chận, hay không trừ khử những tội phạm lừng danh thiên kỷ khi cả thế giới đã làm ? </i></p><hr>

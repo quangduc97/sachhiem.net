@@ -3,7 +3,7 @@ layout: ../../../layouts/Article.astro
 title: "Cuộc Tấn Công Vào Giáo Hoàng Là Dấu Hiệu Của"
 author: "(HuffPost Italy)"
 date: 2015-10-16
-source: "https://sachhiem.net/SACHNGOAI/snT/TinHuff01.php"
+source: "/SACHNGOAI/snT/TinHuff01"
 category: "Tác giả"
 lang: vi
 wordCount: 2717

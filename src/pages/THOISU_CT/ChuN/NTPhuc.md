@@ -3,7 +3,7 @@ layout: ../../../layouts/Article.astro
 title: "Thư Gửi Linh Mục Trần Đức Phương,"
 author: "Nguyễn Thị Phúc"
 date: 2016-10-12
-source: "https://sachhiem.net/THOISU_CT/ChuN/NTPhuc.php"
+source: "/THOISU_CT/ChuN/NTPhuc"
 category: "Chính trị"
 lang: vi
 wordCount: 1955
@@ -15,7 +15,7 @@ image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/LICHSU/IMG/NGODD/Gio
     
   
   <div class="tomluoc">
-    <p><i>LTS: Lá thư này được trích từ bài <a href="https://www.sachhiem.net/NMQ/VNCHTT/NMQ11.php"> Đụng Độ Trong Ngày Ra Mắt Sách Ở Seattle (Nguyễn Mạnh Quang)</a>. Cho đến nay, gần 19 năm trôi qua, người viết nói rằng chưa hề nhận được một hồi âm từ Cha Phương hoặc đại diện Cha. Nhà thờ im lặng, và việc gì họ làm vẫn tiếp tục làm, như là họ chưa hề nghe ai than vãn hay kêu nài gì cả. Đó là cách mà các Cha <b>cai trị</b> con chiên! Tức là vẫn ngược với những gì họ giảng hàng ngày.<b> Khi họ giảng "nhân ái"</b> thì họ lãnh đạm với người kêu cứu. <b>Khi họ giảng "công bằng"</b> thì họ cứ giả đui, giả điếc trước sự việc nào cần họ xem xét lại. <b>Khi họ kêu gọi "nhân quyền"</b> thì họ đi tôn thờ Ngô Đình Diệm là một <a href="https://thuvienhoasen.org/a16585/38-ten-ngo-dinh-diem-trong-danh-sach-100-ke-bao-nguoc-trong-lich-su-nhan-loai-nigel-cawthorne">hung thần trong số những nhà độc tài hung ác khét tiếng nhất</a> lịch sử loài người. <b>Khi họ giảng "khiêm nhường"</b> thì họ luôn luôn muốn đòi đứng cao, muốn thống trị. Những vụ việc các linh mục đối với chính quyền Việt Nam gần đây đã chứng tỏ rõ rệt nhất. </i> (SH)</p>
+    <p><i>LTS: Lá thư này được trích từ bài <a href="/NMQ/VNCHTT/NMQ11"> Đụng Độ Trong Ngày Ra Mắt Sách Ở Seattle (Nguyễn Mạnh Quang)</a>. Cho đến nay, gần 19 năm trôi qua, người viết nói rằng chưa hề nhận được một hồi âm từ Cha Phương hoặc đại diện Cha. Nhà thờ im lặng, và việc gì họ làm vẫn tiếp tục làm, như là họ chưa hề nghe ai than vãn hay kêu nài gì cả. Đó là cách mà các Cha <b>cai trị</b> con chiên! Tức là vẫn ngược với những gì họ giảng hàng ngày.<b> Khi họ giảng "nhân ái"</b> thì họ lãnh đạm với người kêu cứu. <b>Khi họ giảng "công bằng"</b> thì họ cứ giả đui, giả điếc trước sự việc nào cần họ xem xét lại. <b>Khi họ kêu gọi "nhân quyền"</b> thì họ đi tôn thờ Ngô Đình Diệm là một <a href="https://thuvienhoasen.org/a16585/38-ten-ngo-dinh-diem-trong-danh-sach-100-ke-bao-nguoc-trong-lich-su-nhan-loai-nigel-cawthorne">hung thần trong số những nhà độc tài hung ác khét tiếng nhất</a> lịch sử loài người. <b>Khi họ giảng "khiêm nhường"</b> thì họ luôn luôn muốn đòi đứng cao, muốn thống trị. Những vụ việc các linh mục đối với chính quyền Việt Nam gần đây đã chứng tỏ rõ rệt nhất. </i> (SH)</p>
    </div>
   <p><i>Tacoma ngày 16 tháng 12 năm 1997</i> </p>
 <p>   <i>Cha Trần  Đức Phương,</i> </p>

@@ -3,7 +3,7 @@ layout: ../../../layouts/Article.astro
 title: "Âu Mỹ Cùng Nhau Bỏ Đạo Chúa - Nhà Thờ Đóng Cửa"
 author: "Du Nguyễn sưu tầm"
 date: 2022-03-23
-source: "https://sachhiem.net/TONGIAO/FB/FBDuNguyen02.php"
+source: "/TONGIAO/FB/FBDuNguyen02"
 category: "Chính trị"
 lang: vi
 wordCount: 683

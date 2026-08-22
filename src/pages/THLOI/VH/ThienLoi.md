@@ -2,19 +2,17 @@
 layout: ../../../layouts/Article.astro
 title: "NHÂN CHUYỆN KHÁM PHÁ"
 author: "Thiên Lôi"
-source: "https://sachhiem.net/THLOI/VH/ThienLoi.php"
+source: "/THLOI/VH/ThienLoi"
 category: "Tác giả"
 lang: vi
 wordCount: 9573
-image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nha.jpg"
 ---
 
 <p align="center" class="Tuaduoi">
 		CÓ JEHOVAH TRONG CA DAO VIỆT</p>
 		
         
- <p align="center"><a href="https://www.sachhiem.net/">
-<img border="0" src="https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nha.jpg"></a> 10 tháng 10, 2007	</p>
+ <p align="center"> 10 tháng 10, 2007	</p>
 
 <p><span class="First">N</span><i>gọc Hoàng Thượng Đế uy nghi ngồi trên ngai kim cương 
 sáng chói (ngai vàng xưa rồi, không ai xài nữa!), hào quang quay tít cứ như đèn 
@@ -790,10 +788,10 @@ Thiên Lôi</p>
 
 	 <hr width="40%" align="left"><p>Các đề tài về Ông Trời trong sachhiem.net:</p>
 <p>- <a href="/TCN/TCNtg/TCN89">"Ông Trời" Không Quen Biết "Thượng Đế"! (Trần Chung Ngọc)</a></p>
-	<p>- <a href="https://www.sachhiem.net/TONGIAO/tgT/ThienLoi.php">Có 
+	<p>- <a href="/TONGIAO/tgT/ThienLoi">Có 
 			Jehovah trong Ca dao Việt ? !! (Thiên Lôi)</a></p>
-	<p>-<a href="https://www.sachhiem.net/THLOI/TG/ThienLoi.php"> Nhân Chuyện Khám Phá Có Jehovah Trong Ca Dao Việt của Thiên Lôi</a></p>
-	<p><a href="https://sachhiem.net/TONGIAO/tgS/SonDa.php">- Nhân đọc “Ông Trời trong thi ca Việt-Nam" (Sơn Dã Bần Phu)</a></p>
+	<p>-<a href="/THLOI/TG/ThienLoi"> Nhân Chuyện Khám Phá Có Jehovah Trong Ca Dao Việt của Thiên Lôi</a></p>
+	<p><a href="/TONGIAO/tgS/SonDa">- Nhân đọc “Ông Trời trong thi ca Việt-Nam" (Sơn Dã Bần Phu)</a></p>
 	<p><a href="/TONGIAO/tgM/MinhThanh04">- “Lập lờ đánh lận”… ông trời! (Minh Thạnh)</a></p>
 	
 	<p class="nguonL">https://giaodiemonline.com/2007/08/nhanchuyen.htm </p>

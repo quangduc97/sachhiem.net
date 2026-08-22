@@ -3,14 +3,14 @@ layout: ../../../layouts/Article.astro
 title: "[VATICANOLOGY] Tiếng Khóc Vang Lên Khắp Các Nhà Thờ Armenia: Hậu Quả Do Chính Quyền Vatican Gây Ra?"
 author: "Minh Thạnh"
 date: 2023-11-17
-source: "https://sachhiem.net/TONGIAO/tgM/MinhThanh19_07a.php"
+source: "/TONGIAO/tgM/MinhThanh19_07a"
 category: "Chính trị"
 lang: vi
 wordCount: 4395
 image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/LICHSU/IMG/DONGAU/Nagorno-Karabakh_Loc.png"
 ---
 
-<p class="Tuaduoi"><b>(tiếp theo <a href="https://sachhiem.net/TONGIAO/tgM/MinhThanh19_07.php">bài trước</a> về Nagorno – Karabakh)</b></p>
+<p class="Tuaduoi"><b>(tiếp theo <a href="/TONGIAO/tgM/MinhThanh19_07">bài trước</a> về Nagorno – Karabakh)</b></p>
 
 
  

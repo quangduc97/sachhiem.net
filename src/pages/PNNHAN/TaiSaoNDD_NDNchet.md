@@ -3,7 +3,7 @@ layout: ../../layouts/Article.astro
 title: "Tại Sao TT Ngô Đình Diệm và Cố Vấn Ngô Đình Nhu Phải Chết"
 author: "Phạm U.B."
 date: 2023-10-29
-source: "https://sachhiem.net/PNNHAN/TaiSaoNDD_NDNchet.php"
+source: "/PNNHAN/TaiSaoNDD_NDNchet"
 category: "Lịch sử"
 lang: vi
 wordCount: 3051
@@ -49,12 +49,12 @@ image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/TONGIAO/IMG/PHAPNAN/
   <p align="right"> PHẠM U.B.</p>
 <p>______________</p>
 <p><b>Đọc thêm:</b></p>
-<p>- <a href="https://sachhiem.net/PNNHAN/Ch21YdidWeGo.php">Cuộc Thương Lượng Bí Mật Giữa Giáo Hoàng Và Cộng Sản Miền Bắc Việt Nam</a> AVRO MANHATTAN / Phạm U.B. 
+<p>- <a href="/PNNHAN/Ch21YdidWeGo">Cuộc Thương Lượng Bí Mật Giữa Giáo Hoàng Và Cộng Sản Miền Bắc Việt Nam</a> AVRO MANHATTAN / Phạm U.B. 
  </p>
 <p>______________</p>
 <p><b>Chú thích</b></p>
 <p>* CETA = Comprehensive Employment and Training Act (Đạo luật toàn diện về việc làm và đào tạo, Dự luật được giới thiệu là S. 1559, do Quốc hội Hoa Kỳ ban hành và được Tổng thống Richard Nixon ký thành luật vào ngày 28 tháng 12 năm 1973 để đào tạo công nhân và cung cấp việc làm cho họ trong khu vực dịch vụ công. Chương trình cung cấp việc làm cho những <i>người có thu nhập thấp và những người thất nghiệp</i> dài hạn cũng như việc làm mùa hè cho học sinh trung học có thu nhập thấp. Việc làm toàn thời gian được cung cấp trong thời gian từ 12 đến 24 tháng trong các cơ quan công cộng hoặc tổ chức tư nhân phi lợi nhuận.) "Tiến sĩ CETA" được dùng như mai mỉa về giá trị thật của chức danh mà ông Cao Thế Dung khoe.</p>
-<p>(1) <a href="https://sachhiem.net/LICHSU/N/Namgiao_10.php">Đảng Cần Lao Nhân Vị Và Các Tổ Chức Ngoại Vi</a> (Trần Văn Đôn)</p>
-<p>(2) <a href="https://sachhiem.net/NMQ/NMQ62.php">Thế Nào Là Viết Sử Trung Thực, Khách Quan?</a> (Nguyễn Mạnh Quang)</p>
-<p>(3) <a href="https://sachhiem.net/SACHNGOAI/snT/TTL_AVR_21.php">Chương 21: Giao Dịch Bí Mật Giữa Giáo Hoàng và Cộng Sản Bắc Việt</a> (Avro Manhattan, Why Did We Go, Chapter 21)</p>
-<p>(4) <a href="https://sachhiem.net/LICHSU/N/NgoDacTriet.php">Tổng thống Diệm và quân đội Mỹ</a> (Ngô Đắc Triết) </p>
+<p>(1) <a href="/LICHSU/N/Namgiao_10">Đảng Cần Lao Nhân Vị Và Các Tổ Chức Ngoại Vi</a> (Trần Văn Đôn)</p>
+<p>(2) <a href="/NMQ/NMQ62">Thế Nào Là Viết Sử Trung Thực, Khách Quan?</a> (Nguyễn Mạnh Quang)</p>
+<p>(3) <a href="/SACHNGOAI/snT/TTL_AVR_21">Chương 21: Giao Dịch Bí Mật Giữa Giáo Hoàng và Cộng Sản Bắc Việt</a> (Avro Manhattan, Why Did We Go, Chapter 21)</p>
+<p>(4) <a href="/LICHSU/N/NgoDacTriet">Tổng thống Diệm và quân đội Mỹ</a> (Ngô Đắc Triết) </p>

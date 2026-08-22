@@ -3,7 +3,7 @@ layout: ../../../layouts/Article.astro
 title: "Lại Bàn Về Yêu Nước"
 author: "Võ Khánh Linh"
 date: 2014-05-24
-source: "https://sachhiem.net/THOISU_CT/ChuV/VoKhanhLinh07.php"
+source: "/THOISU_CT/ChuV/VoKhanhLinh07"
 category: "Chính trị"
 lang: vi
 wordCount: 3469

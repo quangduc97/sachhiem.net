@@ -3,7 +3,7 @@ layout: ../../../layouts/Article.astro
 title: "Chúc Mừng Năm Mới 2018"
 author: "Trang Nhà và Thân Hữu"
 date: 2018-02-07
-source: "https://sachhiem.net/XAHOI/CHUCTET/MauTuat2018.php"
+source: "/XAHOI/CHUCTET/MauTuat2018"
 lang: vi
 wordCount: 676
 image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/CHUCTET/2018/ChucTetMauTuat2018.jpg"

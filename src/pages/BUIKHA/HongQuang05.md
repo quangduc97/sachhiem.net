@@ -2,15 +2,13 @@
 layout: ../../layouts/Article.astro
 title: "Thiền Và Bệnh Viện"
 author: "Hồng Quang"
-source: "https://sachhiem.net/BUIKHA/HongQuang05.php"
+source: "/BUIKHA/HongQuang05"
 lang: vi
 wordCount: 2231
-image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nha.jpg"
+image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/BUIKHA/img/HQ05_02.jpg"
 ---
 
-<p align="center"><a href="https://www.sachhiem.net/">
-	<img border="0" src="https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nha.jpg"></a> </p> 
- <p><span class="First">T</span>hế giới đang sử dụng Thiền  như thức ăn như nguồn sống, mà con người không thể thiếu trong cuộc đời thường.  Bài liên hệ phần lớn đến nước Mỹ, nhưng đây cũng là một quốc gia, được xem như,  tân tiến bậc nhất về khoa học kỷ thuật và ngay cả kinh tế nữa. </p>
+<p><span class="First">T</span>hế giới đang sử dụng Thiền  như thức ăn như nguồn sống, mà con người không thể thiếu trong cuộc đời thường.  Bài liên hệ phần lớn đến nước Mỹ, nhưng đây cũng là một quốc gia, được xem như,  tân tiến bậc nhất về khoa học kỷ thuật và ngay cả kinh tế nữa. </p>
 <p>
  Bài cung cấp thêm thông tin,  vì lợi ích của con người, của bệnh nhân nên lằn ranh tôn giáo được giảm thiểu.  Một số bệnh viện của Cơ đốc giáo và Do thái giáo cũng áp dụng Thiền hoặc một số  phương thức tương tự. </p>
 <p class="PicLeft">

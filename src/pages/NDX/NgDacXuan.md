@@ -2,15 +2,15 @@
 layout: ../../layouts/Article.astro
 title: "thực dân Pháp đánh chiếm Việt Nam thời Nguyễn"
 author: "NGUYỄN ĐẮC XUÂN"
-source: "https://sachhiem.net/NDX/NgDacXuan.php"
+source: "/NDX/NgDacXuan"
 category: "Lịch sử"
 lang: vi
 wordCount: 2322
-image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nha.jpg"
+image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/LICHSU/IMG/Constitution.jpg"
 ---
 
 <table border="0" cellpadding="1" align="center" width="250">
-        <tbody><tr><td width="100"><a href="https://sachhiem.net/index.php"><img border="0" src="https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nha.jpg"></a></td>
+        <tbody><tr><td width="100"></td>
 	<td valign="top">	<font size="2">22 tháng 10, 2008
 	</font>
 	</td></tr></tbody></table>

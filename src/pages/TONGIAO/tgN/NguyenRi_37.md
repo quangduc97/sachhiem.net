@@ -3,7 +3,7 @@ layout: ../../../layouts/Article.astro
 title: "Lịch sử bí mật của Tòa Thánh La Mã (VATICAN)"
 author: "Ri Nguyễn sưu tầm"
 date: 2018-07-02
-source: "https://sachhiem.net/TONGIAO/tgN/NguyenRi_37.php"
+source: "/TONGIAO/tgN/NguyenRi_37"
 category: "Tác giả"
 lang: vi
 wordCount: 3357
@@ -79,4 +79,4 @@ image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/TONGIAO/IMG/VATICAN/
      <p>_____________________</p>
   <p>Các bài của Nguyễn Ri: link</p>
 <p>
-<a href="https://sachhiem.net/TONGIAO/tgN/ListRiNguyen.inc.php" target="_blank">https://sachhiem.net/TONGIAO/tgN/ListRiNguyen.inc.php</a></p>
+<a href="/TONGIAO/tgN/ListRiNguyen.inc" target="_blank">https://sachhiem.net/TONGIAO/tgN/ListRiNguyen.inc.php</a></p>

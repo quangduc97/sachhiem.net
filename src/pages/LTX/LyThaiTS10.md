@@ -3,7 +3,7 @@ layout: ../../layouts/Article.astro
 title: "ITCCS Tuyên Bố: Giáo Hội Ca Tô Rô Ma Là Một Tổ Chức Tội Phạm Quốc Tế"
 author: "Lý Thái tổng hợp"
 date: 2013-08-26
-source: "https://sachhiem.net/LTX/LyThaiTS10.php"
+source: "/LTX/LyThaiTS10"
 category: "Chính trị"
 lang: vi
 wordCount: 1983

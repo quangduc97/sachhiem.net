@@ -3,7 +3,7 @@ layout: ../../../layouts/Article.astro
 title: "Nhật Ký Biển Đông: Chiến Lược Ngoại Giao Đa Phương"
 author: "Đào Văn Bình"
 date: 2018-08-31
-source: "https://sachhiem.net/DAOVB/CT/DaovBinh117.php"
+source: "/DAOVB/CT/DaovBinh117"
 category: "Chính trị"
 lang: vi
 wordCount: 7403

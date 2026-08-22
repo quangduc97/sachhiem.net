@@ -3,7 +3,7 @@ layout: ../../../layouts/Article.astro
 title: "Thiêng Liêng Hai Tiếng Ba-Đình"
 author: "Trần Quang Hà"
 date: 2014-01-17
-source: "https://sachhiem.net/"
+source: "/"
 category: "Tác giả"
 lang: vi
 wordCount: 3415

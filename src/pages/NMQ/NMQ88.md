@@ -3,7 +3,7 @@ layout: ../../layouts/Article.astro
 title: "Trong Ngày Xảy Ra Biến cố Cách Mạng 1/1/1963"
 author: "Nguyễn Mạnh Quang"
 date: 2017-11-04
-source: "https://sachhiem.net/NMQ/NMQ88.php"
+source: "/NMQ/NMQ88"
 category: "Lịch sử"
 lang: vi
 wordCount: 1312

@@ -3,7 +3,7 @@ layout: ../../../layouts/Article.astro
 title: "Hai Người Bị Bắt Trong Vụ Bê Bối Tài Liệu Bị Rò Rỉ Ở Vatican"
 author: "CBS News"
 date: 2015-11-02
-source: "https://sachhiem.net/TONGIAO/tgT/TinCBS.php"
+source: "/TONGIAO/tgT/TinCBS"
 category: "Chính trị"
 lang: vi
 wordCount: 1408
@@ -25,7 +25,7 @@ image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/TONGIAO/IMG/VATICAN/
   <p>Ngoài ra còn có một mối nguy hiểm trong việc truy tố  gắt gao hai người này.  <i>"Sự việc rồi sẽ giống như họ đang bịt miệng người tố cáo ... hơn là truy nã những người tham nhũng,</i>" ông Moss nói. <i>"Sẽ  thêm nhiều chuyện giống nhau thôi."</i></p>
   <p>_____________________</p>
   <p><b>Cùng đề tài:</b></p>
-  <p><a href="https://sachhiem.net//TONGIAO/tgT/TinWaPost.php">-  Tin Washington Post: Vatican Bắt Giữ Hai Cố Vấn Bị Cáo Buộc Có Dính Líu Đến Các Tài Liệu Bị Rò Rỉ  </a></p>
+  <p><a href="//TONGIAO/tgT/TinWaPost.php">-  Tin Washington Post: Vatican Bắt Giữ Hai Cố Vấn Bị Cáo Buộc Có Dính Líu Đến Các Tài Liệu Bị Rò Rỉ  </a></p>
   <hr>
   <p><b>Bản tin:</b></p>
   <p class="TuaDenLeft">Vatican arrests 2 for betraying "Pope's trust"</p>

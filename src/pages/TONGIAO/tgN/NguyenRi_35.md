@@ -3,7 +3,7 @@ layout: ../../../layouts/Article.astro
 title: "Tại Sao Người Do Thái Không Tin Jesus?"
 author: "Ri Nguyễn"
 date: 2017-11-12
-source: "https://sachhiem.net/TONGIAO/tgN/NguyenRi_35.php"
+source: "/TONGIAO/tgN/NguyenRi_35"
 category: "Tác giả"
 lang: vi
 wordCount: 3401
@@ -123,4 +123,4 @@ image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/TONGIAO/IMG/JESUS/Wh
  <p>_____________________</p>
   <p>Các bài của Nguyễn Ri: link</p>
 <p>
-<a href="https://sachhiem.net/TONGIAO/tgN/ListRiNguyen.inc.php" target="_blank">https://sachhiem.net/TONGIAO/tgN/ListRiNguyen.inc.php</a></p>
+<a href="/TONGIAO/tgN/ListRiNguyen.inc" target="_blank">https://sachhiem.net/TONGIAO/tgN/ListRiNguyen.inc.php</a></p>

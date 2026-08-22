@@ -3,7 +3,7 @@ layout: ../../../layouts/Article.astro
 title: "Thư Ngỏ Kính Gửi Ông Nguyễn Phước Tương"
 author: "Nguyễn Thanh Tùng"
 date: 2013-03-26
-source: "https://sachhiem.net/THOISU_CT/ChuN/NgnThhTung0.php"
+source: "/THOISU_CT/ChuN/NgnThhTung0"
 category: "Chính trị"
 lang: vi
 wordCount: 7154
@@ -152,7 +152,7 @@ image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/DECOR/checker
 <p><a href="https://butluan.wordpress.com/2013/02/23/tai-sao-ong-ay-khong-biet-xau-ho-nhay/">- Tại sao ông ấy không biết xấu hổ nhẩy?</a></p>
 <p><a href="https://tumathien.wordpress.com/2012/12/17/phong-van-ong-tuong-lai/">- Phỏng vấn ông Tương Lai về học hàm</a></p>
 <p><a href="https://banconong.blogspot.com/2013/01/lo-thoi-ao-uc-gia-cua-ong-tuong-lai.html">- Lộ thói đạo đức giả của ông Tương Lai </a></p>
-<p><a href="https://sachhiem.net/index.php?content=showrecipe&amp;id=5590#one">- Ông GS Tương Lai có “suy thoái” không?</a></p>
+<p><a href="/XAHOI/xhQ/QuocViet0">- Ông GS Tương Lai có “suy thoái” không?</a></p>
 
 
 <p class="trang"><span class="sub"></span><a href="/indexCT" target="_blank">Trang Thời Sự </a></p>

@@ -3,14 +3,14 @@ layout: ../../../layouts/Article.astro
 title: "Những Sự Thật Đáng Hổ Thẹn Về Hải Chiến Hoàng Sa: Báo Chí Việt Nam “Nối Giáo Cho Giặc”?"
 author: "Nguyễn Thanh Tùng"
 date: 2013-12-28
-source: "https://sachhiem.net/THOISU_CT/ChuN/NgnThhTung02.php"
+source: "/THOISU_CT/ChuN/NgnThhTung02"
 category: "Lịch sử"
 lang: vi
 wordCount: 4443
-image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nha.jpg"
+image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/THOISU_CT/Hinh/QuanheTQ/QuandaoHoangSa.jpg"
 ---
 
-<p align="center"><a href="/index"> <img hspace="20" border="0" src="https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nha.jpg"> </a> 28-Dec-2013, bổ túc ngày 16 Jun 2014</p> 
+<p align="center"> 28-Dec-2013, bổ túc ngày 16 Jun 2014</p> 
   <p class="tomluoc">...Sự  thật là như vậy, không phải không có một kế hoạch tái chiếm Hoàng Sa bằng không  quân. Trung Quốc hiểu điều này, và họ đã rất dè dặt khi có những động thái xâm  lấn chủ quyền biển đảo Việt Nam. Họ sẵn sàng nướng các tàu tiền tiêu cổ lỗ này  và bỏ mồi quay về, hoặc giữ thế cài răng lược mỗi bên giữ một nửa với VNCH.  Song, khi mà tàu HQ-16 bị chính tàu phe mình bắn hỏng, khi mà một trận không  tập nhấn chìm toàn bộ các tàu Trung Quốc không có, thì họ đã chiếm toàn bộ quần  đảo Hoàng Sa.... (Nguyễn Thanh Tùng)</p>
   <p><i>LTS:  Bài này trước đây đã đăng với tựa đề: <b>"Về Hải chiến Hoàng Sa và Báo chí Việt Nam”?</b> Nay đăng lại theo tựa đề gốc của tác giả với nội dung bổ túc ngày 16 tháng 6, 2014. SH kính mời. </i></p>
  <hr>

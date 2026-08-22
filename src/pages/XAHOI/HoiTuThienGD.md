@@ -2,15 +2,15 @@
 layout: ../../layouts/Article.astro
 title: "Kêu Gọi Cứu Trợ"
 author: "Hội Từ Thiện Giao Điểm"
-source: "https://sachhiem.net/XAHOI/HoiTuThienGD.php"
+source: "/XAHOI/HoiTuThienGD"
 category: "Xã hội"
 lang: vi
 wordCount: 711
-image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nha.jpg"
+image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/XAHOI/IMG/DONGDAT/Earthquak_japanMar2011.jpg"
 ---
 
 <table border="0" cellpadding="0" width="250" align="center"><tbody><tr>
-	<td width="125"><a href="/index"><img border="0" src="https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nha.jpg"></a></td>
+	<td width="125"></td>
 	<td valign="top" style="text-align:right"><i>19 tháng 3, 2011	</i>
 	</td></tr></tbody></table>
 <p>	<span class="First">K</span>ính thưa quý Ân nhân, Độc giả, và 

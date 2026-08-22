@@ -3,7 +3,7 @@ layout: ../../../layouts/Article.astro
 title: "Tin Nhanh"
 author: "\\ Ban Biên Tập Sachhiem.net \\"
 date: 2014-01-29
-source: "https://sachhiem.net/null"
+source: "/null"
 lang: en
 wordCount: 298
 image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/CANHDEP/ThuyenvaSong.jpg"
@@ -19,10 +19,10 @@ image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/CANHDEP/Thuye
  <p>Thi hài Giáo sư sẽ được hỏa táng, và tang lễ theo  nghi thức Phật giáo sẽ được cử hành ngày thứ Bảy 01 tháng 2,  2014 trong vòng gia đình. </p>
  <p>Trang nhà sachhiem.net vô cùng đau buồn báo tin cùng các bạn  đọc khắp nơi.</p>
  <div class="indent50">
- <p><b>1.</b><a href="https://sachhiem.net/index.php?content=showrecipe&amp;id=5873"> Bản tin nhanh về sự ra đi của Giáo-sư Trần Chung Ngọc</a></p>
- <p><b>2. </b><a href="https://sachhiem.net/index.php?content=showrecipe&amp;id=5874">Thành kính phân ưu của trang nhà sachhiem.net</a></p>
- <p><b>3.</b> <a href="https://sachhiem.net/XAHOI/CHIABUON/Chiabuon7.php">Phân ưu của trang nhà</a></p>
- <p><b>4.</b> <a href="https://sachhiem.net/XAHOI/CHIABUON/Chiabuon7B.php">Tặng hiện kim cho Hiệp Hội Tim Mạch nhân danh GS Trần Chung Ngọc</a></p>
+ <p><b>1.</b><a href="/XAHOI/CHIABUON/Tinbuon"> Bản tin nhanh về sự ra đi của Giáo-sư Trần Chung Ngọc</a></p>
+ <p><b>2. </b><a href="/XAHOI/CHIABUON/Chiabuon7">Thành kính phân ưu của trang nhà sachhiem.net</a></p>
+ <p><b>3.</b> <a href="/XAHOI/CHIABUON/Chiabuon7">Phân ưu của trang nhà</a></p>
+ <p><b>4.</b> <a href="/XAHOI/CHIABUON/Chiabuon7B">Tặng hiện kim cho Hiệp Hội Tim Mạch nhân danh GS Trần Chung Ngọc</a></p>
 </div>
  
  <p><a href="/XAHOI/CHIABUON/Tinbuon" class="nguonL">https://sachhiem.net/XAHOI/CHIABUON/Tinbuon.php</a></p>

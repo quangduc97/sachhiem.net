@@ -3,7 +3,7 @@ layout: ../../../layouts/Article.astro
 title: "Xếp Kinh Thánh Vào Loại Dâm Thư"
 author: "Tin Fox News"
 date: 2012-12-09
-source: "https://sachhiem.net/TONGIAO/tgT/TinFox.php"
+source: "/TONGIAO/tgT/TinFox"
 lang: vi
 wordCount: 896
 image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/TONGIAO/IMG/BIBLE/HongKongLabelBible.jpg"

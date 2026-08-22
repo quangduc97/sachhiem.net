@@ -3,7 +3,7 @@ layout: ../../layouts/Article.astro
 title: "Đắc Lộ, Trương Vĩnh Ký & Chữ Quốc Ngữ"
 author: "Bùi Kha"
 date: 2013-05-10
-source: "https://sachhiem.net/index.php?content=showrecipe&id=5634"
+source: "/BUIKHA/BuiKha25a_TVK"
 category: "Lịch sử"
 lang: vi
 wordCount: 10200
@@ -16,8 +16,8 @@ image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/TONGIAO/IMG/VATICAN/
      
      <div class="tomluoc">
       <p><i>Trong bài  số 1, tôi đã phản biện một số  luận điểm viết cẩu thả vô trách nhiệm, của ông Minh Vân về Giáo sĩ Đắc Lộ. Vì  có quá nhiều sai phạm, không chứng cớ, không sử liệu, lặp đi lặp lại trong bài  dài lê thê, 90 ngàn chữ (gần 300 trang sách) mà tôi không thể gói ghém phản biện  trong một bài viết khoảng 30 trang. Vì thế, qua bài nầy tôi sẽ phản biện thêm một  số luận điểm về Gs Đắc Lộ, và phần tiếp theo là về ông Trương Vĩnh Ký</i>. (Bùi Kha)</p>
-<p> <b>Bài 1:</b><a href="https://sachhiem.net/BUIKHA/BuiKha25.php"> Giáo Sĩ Đắc Lộ &amp; Chữ Quốc Ngữ </a></p>
-      <p><b>Bài 2:</b><a href="https://sachhiem.net/BUIKHA/BuiKha25a_TVK.php"> Cựu giáo sĩ  Trương Vĩnh Ký</a></p>
+<p> <b>Bài 1:</b><a href="/BUIKHA/BuiKha25"> Giáo Sĩ Đắc Lộ &amp; Chữ Quốc Ngữ </a></p>
+      <p><b>Bài 2:</b><a href="/BUIKHA/BuiKha25a_TVK"> Cựu giáo sĩ  Trương Vĩnh Ký</a></p>
      </div>
      <p class="MUC"><b> Bài 2: Đắc Lộ (tt) Và Trương Vĩnh Ký </b></p>
      <a name="end1" href="/BUIKHA/#1">
@@ -264,18 +264,18 @@ We believe in them and we pray with the Bible in our hands and our  eyes closed.
 </p><p>___________________</p>
    <p><b>Những bài cùng đề tài:</b></p>
   <p>- Hành Trình Đi Tìm Ông Trương Vĩnh Ký Nguyễn Thái An)<br>
-<a href="https://sachhiem.net/LICHSU/N/NguyenThaiAn.php">https://sachhiem.net/LICHSU/N/NguyenThaiAn.php</a></p>
+<a href="/LICHSU/N/NguyenThaiAn">https://sachhiem.net/LICHSU/N/NguyenThaiAn.php</a></p>
    <p>- Đắc Lộ, Trương Vĩnh Ký &amp; Chữ Quốc Ngữ của Tác Giả Minh Vân (Bùi Kha)
-<a href="https://sachhiem.net/BUIKHA/BuiKha25a.php">https://sachhiem.net/BUIKHA/BuiKha25a.php</a></p>
+<a href="/BUIKHA/BuiKha25a">https://sachhiem.net/BUIKHA/BuiKha25a.php</a></p>
    <p>- Lá Thư (1) Gửi Quí Vị Cựu Giáo Sư Và Học Sinh Trường Kiểu Mẫu Thủ Đức Hiền tài hay Việt gian? (Nguyễn Mạnh Quang)<br>
-<a href="https://sachhiem.net/NMQ/NMQ011.php">https://sachhiem.net/NMQ/NMQ011.php</a></p>
+<a href="/NMQ/NMQ011">https://sachhiem.net/NMQ/NMQ011.php</a></p>
    <p>- Ngắn Gọn Về Thầy Thông Ngôn Trương Vĩnh Ký (Nguyễn Thái An)
-<a href="https://sachhiem.net/LICHSU/N/NguyenThaiAn04.php">https://sachhiem.net/LICHSU/N/NguyenThaiAn04.php</a></p>
+<a href="/LICHSU/N/NguyenThaiAn04">https://sachhiem.net/LICHSU/N/NguyenThaiAn04.php</a></p>
    <p>- Trương Vĩnh Ký, Yêu Nước? Đối Luận với ông Trần Hữu Tá (Bùi Kha)
-<a href="https://sachhiem.net/BUIKHA/BuiKha19.php">https://sachhiem.net/BUIKHA/BuiKha19.php</a></p>
+<a href="/BUIKHA/BuiKha19">https://sachhiem.net/BUIKHA/BuiKha19.php</a></p>
   <p>- Góp Ý Về Bài Của Ông Đặng Văn Việt Góp Ý Sửa Đổi Hiến Pháp (Nguyễn Mạnh Quang)<br>
-     <a href="https://sachhiem.net/NMQ/NMQ041.php">https://sachhiem.net/NMQ/NMQ041.php</a></p>
+     <a href="/NMQ/NMQ041">https://sachhiem.net/NMQ/NMQ041.php</a></p>
 	<p>- Trương Vĩnh Ký phản bội Tổ quốc, sao lại gọi là yêu nước ? (Bùi Kha) <br>
    <a href="/BUIKHA/BuiKha25b_TVK">https://sachhiem.net/BUIKHA/BuiKha25b_TVK.php</a> </p>
       <p>- Đổi Mới Sử Học Không Có Nghĩa Là Tô Đen Thành Trắng (BS. Nguyễn Văn Thịnh)
-<a href="https://sachhiem.net/VANHOC/N/NguyenvThinh_05.php">https://sachhiem.net/VANHOC/N/NguyenvThinh_05.php</a></p>
+<a href="/VANHOC/N/NguyenvThinh_05">https://sachhiem.net/VANHOC/N/NguyenvThinh_05.php</a></p>

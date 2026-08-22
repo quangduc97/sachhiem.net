@@ -3,7 +3,7 @@ layout: ../../../layouts/Article.astro
 title: "“Một mảnh quê hương trên đất Phật” Của Nguyễn Gia Kiểng"
 author: "Trần Chung Ngọc"
 date: 2013-12-21
-source: "https://sachhiem.net/TCN/TCNdt/TCNdt073.php"
+source: "/TCN/TCNdt/TCNdt073"
 lang: vi
 wordCount: 7427
 image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/THOISU_CT/Hinh/NHANVAT/NGKieng.jpg"
@@ -136,7 +136,7 @@ khi còn trẻ</p>
 <p class="TacgiaL">Lý Nguyên Diệu</p>
 <p>______________________</p>
      <p><b>Bài cùng đề tài:</b></p>
-     <p>- <i><a href="https://sachhiem.net/LICHSU/TR/TQD34_NGK.php">Ông Nguyễn Gia Kiểng có “mảnh quê hương” gì “trên đất Phật”?</a> (Trần Quang Diệu)</i></p><i>
+     <p>- <i><a href="/LICHSU/TR/TQD34_NGK">Ông Nguyễn Gia Kiểng có “mảnh quê hương” gì “trên đất Phật”?</a> (Trần Quang Diệu)</i></p><i>
  <hr>
  
  </i>

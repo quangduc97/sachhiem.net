@@ -3,7 +3,7 @@ layout: ../../layouts/Article.astro
 title: "Tiến Dâng Người"
 author: "Linh Giang"
 date: 2013-10-11
-source: "https://sachhiem.net/VANHOC/Linhgiang.php"
+source: "/VANHOC/Linhgiang"
 category: "Tác giả"
 lang: vi
 wordCount: 143

@@ -3,7 +3,7 @@ layout: ../../../layouts/Article.astro
 title: "Sự Thật Về Việc Chúa Jesus Kito Chết Trên Thập Giá Để Cứu Chuộc Nhân Loại"
 author: "Lê Văn Phát"
 date: 2019-10-18
-source: "https://sachhiem.net/TONGIAO/tgL/LevanPhat.php"
+source: "/TONGIAO/tgL/LevanPhat"
 category: "Chính trị"
 lang: vi
 wordCount: 1313

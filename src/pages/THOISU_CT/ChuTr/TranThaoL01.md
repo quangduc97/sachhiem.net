@@ -3,16 +3,16 @@ layout: ../../../layouts/Article.astro
 title: "Ngã Tư Quốc Tế Và Cái Chết Của Ông Diệm"
 author: "Trần Thao Lược"
 date: 2012-11-09
-source: "https://sachhiem.net/THOISU_CT/ChuTr/TranThaoL01.php"
+source: "/THOISU_CT/ChuTr/TranThaoL01"
 category: "Chính trị"
 lang: vi
 wordCount: 2358
-image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nha.jpg"
+image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/THOISU_CT/Hinh/VIETNAM/duongBuiVien.jpg"
 ---
 
 <table border="0" cellpadding="0" align="center" width="250">
             <tbody><tr>
-              <td width="100"><a href="/index"><img border="0" src="https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nha.jpg"></a></td>
+              <td width="100"></td>
         	<td valign="top">bổ túc 09-Nov-2012 </td>
             </tr></tbody></table>
 <p> <span class="First">V</span>ướng bức Trường Thành kiên cố phưong bắc, với sức sống mãnh liệt

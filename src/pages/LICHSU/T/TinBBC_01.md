@@ -3,7 +3,7 @@ layout: ../../../layouts/Article.astro
 title: "Cuộc chiến tranh 1954 -1975 là Mỹ xâm lược VN"
 author: "Tin BBC"
 date: 2016-01-28
-source: "https://sachhiem.net/LICHSU/T/TinBBC_01.php"
+source: "/LICHSU/T/TinBBC_01"
 category: "Lịch sử"
 lang: vi
 wordCount: 798

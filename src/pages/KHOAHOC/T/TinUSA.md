@@ -3,7 +3,7 @@ layout: ../../../layouts/Article.astro
 title: "Các nhà khoa học Anh tìm thấy"
 author: "SH sưu tầm"
 date: 2012-01-25
-source: "https://sachhiem.net/null"
+source: "/null"
 category: "Khoa học"
 lang: vi
 wordCount: 1319

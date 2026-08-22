@@ -3,7 +3,7 @@ layout: ../../../layouts/Article.astro
 title: "Chính Người Công Giáo Đã Giết Ngô Đình Diệm"
 author: "Duyên Sinh"
 date: 2014-01-22
-source: "https://sachhiem.net/LICHSU/D/Duyensinh01.php"
+source: "/LICHSU/D/Duyensinh01"
 category: "Lịch sử"
 lang: vi
 wordCount: 1105

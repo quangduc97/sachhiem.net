@@ -3,7 +3,7 @@ layout: ../../../layouts/Article.astro
 title: "Văn Phòng Công Tố Nga Cấm Cơ Sở Soros"
 author: "Tin RT"
 date: 2015-12-01
-source: "https://sachhiem.net/THOISU_CT/SH/HaiAu_02.php"
+source: "/THOISU_CT/SH/HaiAu_02"
 category: "Chính trị"
 lang: vi
 wordCount: 672

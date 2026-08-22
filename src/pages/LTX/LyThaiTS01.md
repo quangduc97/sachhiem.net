@@ -2,7 +2,7 @@
 layout: ../../layouts/Article.astro
 title: "Bài Diễn Văn Nhậm Chức"
 author: "Lý Thái Xuân phỏng dịch"
-source: "https://sachhiem.net/LTX/LyThaiTS01.php"
+source: "/LTX/LyThaiTS01"
 category: "Chính trị"
 lang: vi
 wordCount: 3793

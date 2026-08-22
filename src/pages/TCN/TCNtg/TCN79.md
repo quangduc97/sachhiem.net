@@ -2,17 +2,17 @@
 layout: ../../../layouts/Article.astro
 title: "PHẬT GIÁO VIỆT NAM"
 author: "Trần Chung Ngọc"
-source: "https://sachhiem.net/TCN/TCNtg/TCN79.php"
+source: "/TCN/TCNtg/TCN79"
 lang: vi
 wordCount: 10681
-image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nha.jpg"
+image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/TONGIAO/IMG/PaulBlanshard.jpg"
 ---
 
 <p class="Tuaduoi">GIỮA HAI Ý HỆ CÔNG &amp; CỘNG</p>
 		
 		
 
-<p align="center"> <a href="/index"><img border="0" src="https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nha.jpg" align="middle" hspace="20"></a> 15 tháng 3,  2009</p>
+<p align="center">  15 tháng 3,  2009</p>
 		<p><i>LTS: Bài viết sau đây của tác giả Trần Chung Ngọc viết từ năm 1996, đăng trên
 nguyệt san Giao Điểm số 24.  Nay đã hơn 10 năm, tuy bài viết đã không còn tính cách thời sự nữa, nhưng những vấn đề nghiên cứu trong bài vẫn còn giá trị lịch sử nhân văn trong các giai đoạn đề cập. Sachhiem.net xin ghi lại đây một phần cũng vì muốn chia xẻ với đọc giả để tìm hiểu quan điểm của Giáo sư Trần Chung Ngọc đối với các vấn đề tôn giáo và thời cuộc liên hệ đến Việt Nam (SH).</i></p>
 

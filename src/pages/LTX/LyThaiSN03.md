@@ -3,7 +3,7 @@ layout: ../../layouts/Article.astro
 title: "2 Tác Phẩm Nổi Danh Và Nghị Luận Về Vụ Rò Rỉ Vatileaks II"
 author: "Lý Thái sưu tầm"
 date: 2016-07-18
-source: "https://sachhiem.net/LTX/LyThaiSN03.php"
+source: "/LTX/LyThaiSN03"
 category: "Tác giả"
 lang: vi
 wordCount: 2242
@@ -21,10 +21,10 @@ image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/duskysm.jpg"
             <p>Khá khen cho Các Con Buôn Đền Thờ, ông Nuzzi có nguồn tài liệu đáng kể trong Giáo triều Rôma, cho phép  truy cập "tài liệu  duy nhất chưa bao giờ xuất bản trước đây"  tiết lộ một câu chuyện đáng xấu hổ thực sự gây sốc về sự xa xỉ và tham nhũng trong mạng lưới tài chính rộng lớn của Vatican  . .  . Như Nuzzi đã dũng cảm và  thẳng thắn phác họa, mạng lưới thoái thác   hoang mang, và  Giáo Hoàng Frances khó thể vượt qua các rào cản trong việc minh bạch. Mặc dù nhiều bối cảnh lịch sử hơn sẽ rất hữu ích, nhưng đây là một công việc nghiên cứu điều tra đầy khiêu khích. "- Kirkus</p>
             <p>___________________</p>
            <p><b>Bài đọc thêm:</b></p>
-           <p>- <i>Hai Người Bị Bắt Trong Vụ Bê Bối Tài Liệu Bị Rò Rỉ Ở Vatican</i> (CBS News) <a href="https://sachhiem.net/TONGIAO/tgT/TinCBS.php">https://sachhiem.net/TONGIAO/tgT/TinCBS.php</a></p>
-          <p>- <i>Vatican Bắt Giữ Hai Cố Vấn Bị Cáo Buộc Có Dính Líu Đến Các Tài Liệu Bị Rò Rỉ</i> (Anthony Faiola/ Washington Post) <a href="https://sachhiem.net/TONGIAO/tgT/TinWaPost.php">https://sachhiem.net/TONGIAO/tgT/TinWaPost.php</a></p>
-          <p>- <i>Những rò rỉ tại Vatican đã tiết lộ về “Cuộc nổi loạn của các Đức Ông”</i> (Tin Reuters / Philip Pullela) – 13 tháng Hai, năm 2012 <a href="https://sachhiem.net/TONGIAO/tgR/Reuters03.php">https://sachhiem.net/TONGIAO/tgR/Reuters03.php</a> </p>
-          <p>- Những Chuyện Kể Của PHGV - Tập 6:<i> Hai Quyển Sách Vừa Tung Ra Làm Rung Chuyển Giáo Hội Vatican</i> (<a href="https://sachhiem.net/LICHSU/P/PhuongHoang05.php">https://sachhiem.net/LICHSU/P/PhuongHoang05.php</a>)</p>
+           <p>- <i>Hai Người Bị Bắt Trong Vụ Bê Bối Tài Liệu Bị Rò Rỉ Ở Vatican</i> (CBS News) <a href="/TONGIAO/tgT/TinCBS">https://sachhiem.net/TONGIAO/tgT/TinCBS.php</a></p>
+          <p>- <i>Vatican Bắt Giữ Hai Cố Vấn Bị Cáo Buộc Có Dính Líu Đến Các Tài Liệu Bị Rò Rỉ</i> (Anthony Faiola/ Washington Post) <a href="/TONGIAO/tgT/TinWaPost">https://sachhiem.net/TONGIAO/tgT/TinWaPost.php</a></p>
+          <p>- <i>Những rò rỉ tại Vatican đã tiết lộ về “Cuộc nổi loạn của các Đức Ông”</i> (Tin Reuters / Philip Pullela) – 13 tháng Hai, năm 2012 <a href="/TONGIAO/tgR/Reuters03">https://sachhiem.net/TONGIAO/tgR/Reuters03.php</a> </p>
+          <p>- Những Chuyện Kể Của PHGV - Tập 6:<i> Hai Quyển Sách Vừa Tung Ra Làm Rung Chuyển Giáo Hội Vatican</i> (<a href="/LICHSU/P/PhuongHoang05">https://sachhiem.net/LICHSU/P/PhuongHoang05.php</a>)</p>
           
     <img src="https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/duskysm.jpg" width="100%" height="14" alt="">
            <p class="MUC"><b>Các bản tin Anh ngữ:</b></p>

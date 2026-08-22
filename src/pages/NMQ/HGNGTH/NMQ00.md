@@ -2,18 +2,18 @@
 layout: ../../../layouts/Article.astro
 title: "Một Số Điều Gian Dối Trong Cuốn"
 author: "Nguyễn Mạnh Quang"
-source: "https://sachhiem.net/NMQ/HGNGTH/NMQ00.php"
+source: "/NMQ/HGNGTH/NMQ00"
 category: "Lịch sử"
 lang: vi
 wordCount: 6832
-image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nha.jpg"
+image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/print.gif"
 ---
 
 <p class="Tuaduoi"> Công Và Tội Của CT Hồ Chi Minh Và ĐCSVN 1945-2006</p>
        
        
    
-     <p align="center"><a href="https://sachhiem.net/index.php"><img border="0" hspace="20" src="https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nha.jpg"></a> <a href="/NMQ/HGNGTH/NMQ00"><img border="0" src="https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/print.gif" width="18" height="18"> </a>bản rời |  <a href="/NMQ/HGNGTH/NMQmain"> trở ra mục lục »» </a> |  16 tháng 4, 2011 </p>        <p><i>LTS: Những người chuyên ngành nghiên cứu và biên soạn sách sử  từng so sánh công việc của mình như việc chắp ráp những mảnh vụn của một bức tranh, cố gắng gắn vào bức tranh lớn để có thể nhìn ra được hình ảnh thật của nó. Chắc chắn mỗi nguồn sử liệu không thể tự nó hoàn thành một bức tranh toàn cảnh. (1) Nhưng nếu tác phẩm nghiên cứu nhiều nguồn tài liệu lịch sử khả tín khác nhau sẽ bảo đảm cho bức tranh được trung thực hơn. (2) Quan trọng nhất là mảnh ở giữa bức tranh, cũng như vai chính trong một vỡ tuồng không thể bỏ qua. Do đó không thể không nói đến thế lực quan trọng điều khiển các nhân vật quan trọng nắm vận mệnh nước nhà. (3) Mặt khác, một tác phẩm lịch sử lại chú trọng đến những vấn đề có tính cách cá nhân, không liên hệ đến vai trò chính của một nhân vật chính trị sẽ là một tài liệu tuyên truyền mà thôi. Nó ảnh hưởng độc giả trong việc đánh giá sai lầm về nhân vật chính trị.  (4) Ngoài ra, điều căn bản nhất là vấn đề thành thật, từ ngày tháng, thời điểm, hoàn cảnh, tình thế, cho đến những khát vọng cấp thiết và chính đáng của đại khối dân tộc vào thời điểm đề cập. Tất cả những chi tiết này nếu không đúng hoặc không đủ đều có thể xoay một sự thật thành điều dối trá.</i></p>
+     <p align="center"> <a href="/NMQ/HGNGTH/NMQ00"><img border="0" src="https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/print.gif" width="18" height="18"> </a>bản rời |  <a href="/NMQ/HGNGTH/NMQmain"> trở ra mục lục »» </a> |  16 tháng 4, 2011 </p>        <p><i>LTS: Những người chuyên ngành nghiên cứu và biên soạn sách sử  từng so sánh công việc của mình như việc chắp ráp những mảnh vụn của một bức tranh, cố gắng gắn vào bức tranh lớn để có thể nhìn ra được hình ảnh thật của nó. Chắc chắn mỗi nguồn sử liệu không thể tự nó hoàn thành một bức tranh toàn cảnh. (1) Nhưng nếu tác phẩm nghiên cứu nhiều nguồn tài liệu lịch sử khả tín khác nhau sẽ bảo đảm cho bức tranh được trung thực hơn. (2) Quan trọng nhất là mảnh ở giữa bức tranh, cũng như vai chính trong một vỡ tuồng không thể bỏ qua. Do đó không thể không nói đến thế lực quan trọng điều khiển các nhân vật quan trọng nắm vận mệnh nước nhà. (3) Mặt khác, một tác phẩm lịch sử lại chú trọng đến những vấn đề có tính cách cá nhân, không liên hệ đến vai trò chính của một nhân vật chính trị sẽ là một tài liệu tuyên truyền mà thôi. Nó ảnh hưởng độc giả trong việc đánh giá sai lầm về nhân vật chính trị.  (4) Ngoài ra, điều căn bản nhất là vấn đề thành thật, từ ngày tháng, thời điểm, hoàn cảnh, tình thế, cho đến những khát vọng cấp thiết và chính đáng của đại khối dân tộc vào thời điểm đề cập. Tất cả những chi tiết này nếu không đúng hoặc không đủ đều có thể xoay một sự thật thành điều dối trá.</i></p>
         <p><i>Dựa trên các khái niệm đó, người ta có thể dễ dàng đánh giá các tác phẩm lịch sử. Một số khá nhiều các tác phẩm xuất bản rầm rộ ở hải ngoại, nhất là sách báo, websites, blogs,... hay DVDs, đã có một sự trùng hợp không phải ngẫu nhiên: vi phạm các nguyên tắc căn bản trên. Xin xem đề tài <a href="/TCN/TCNtg/DAOGIESU/TCN_NMQ15">"SỬ LIỆU NHƯ THẾ NÀO MỚI KHẢ TÍN?" trong Chương 10, mục XXI trong Tập sách "NGƯỜI VIỆT NAM &amp; ĐẠO GIÊ-SU”</a> của hai tác giả TCN và NMQ hợp soạn. Giáo sư Trần Chung Ngọc cũng đã phân tích một vài trường hợp "viết láo" như trong các bài viết sau đây:</i> </p>
         <p>- <a href="/TCN/TCNdt/TCNdt007">Lại Chuyện [Bất Đắc Dĩ] Về Tú Gàn</a></p>
         <p>- <a href="/TCN/TCNdt/TCNdt015">Chiến Tranh ... Lại Chuyện Bất Đắc Dĩ </a></p>
@@ -138,4 +138,4 @@ image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nha.jpg"
         <p><a name="_edn7" title="" href="/NMQ/#_ednref7">[7]</a> Nigel Cawthorn, <i>Tyrants History’s 100 Most Evil Despots &amp; Dictators</i> (London: Arcturus, 2004), tr 167-168).,
         </p><p> <a name="_edn8" title="" href="/NMQ/#_ednref8">[8]</a> Trần Tam Tỉnh, Sđd., tr. 54.</p>
 <hr>
-     <p class="trang"><a href="https://sachhiem.net/index.php?content=PagingNMQsub"> Trang Nguyễn Mạnh Quang </a></p>
+     <p class="trang"> Trang Nguyễn Mạnh Quang </p>

@@ -3,7 +3,7 @@ layout: ../../../layouts/Article.astro
 title: "Chỉ thị của Ban Bí Thư TW Đảng ngày 16/04/2009:"
 author: "TT. Nguyễn Thanh Tuấn"
 date: 2023-10-21
-source: "https://sachhiem.net/LICHSU/N/NguyenThanhTuan.php"
+source: "/LICHSU/N/NguyenThanhTuan"
 category: "Chính trị"
 lang: vi
 wordCount: 2714
@@ -15,7 +15,7 @@ image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/LICHSU/IMG/LAT_SU/CV
 
  
  <div class="tomluoc">
-   <p><i>LTS:  Hai năm trước, bài viết này đã từng đăng ở mục <a href="https://sachhiem.net/index.php?content=showemail&amp;id=3312">Thư/Ý Kiến Ngắn ngày 21 tháng 10, năm 2021</a>. Nay việc lật ngược giá trị lịch sử làm xôn xao trong giới người hiểu biết những câu chuyện thời chống ngoại xâm trong thế kỷ 19 đến nay. Xin đăng lại có thêm các Chỉ thị, Nghị Định, Công văn của Ban Bí Thư Trung Ương Đảng (SH)</i></p>
+   <p><i>LTS:  Hai năm trước, bài viết này đã từng đăng ở mục <a href="/hop-thu/3312">Thư/Ý Kiến Ngắn ngày 21 tháng 10, năm 2021</a>. Nay việc lật ngược giá trị lịch sử làm xôn xao trong giới người hiểu biết những câu chuyện thời chống ngoại xâm trong thế kỷ 19 đến nay. Xin đăng lại có thêm các Chỉ thị, Nghị Định, Công văn của Ban Bí Thư Trung Ương Đảng (SH)</i></p>
  </div>
 <p><span class="First">R</span>ất vui khi được nhận hai cuốn sách TRAO ĐỔI SỬ HỌC của Tuần báo Văn nghệ TP Hồ Chí Minh do Nhà Xuất bản Văn học phát hành. Mới chỉ đọc qua Lời nói đầu , tôi đã cảm nhận tính hiện thực phê phán toát ra từ cuốn sách, đây là một hiện tượng đáng lẽ phải phổ biến trên lĩnh vực văn hoá, văn học, lịch sử nhưng những năm gần đây hình như ít được phổ biến, thật trái với những gì của Chủ nghĩa Văn học hiện thực và càng trái với tinh thần biện chứng lịch sử. </p>
 <p>Trở lại với Trao đổi Lịch sử, đây là cuốn sách được Tuần báo Văn nghệ TP Hồ Chí Minh tập hợp các bài viết của cá tác giả đã phát biểu và tham luận tại cuộc Hội thảo tại Thanh Hoá vào ngày 18-19/10/2008 do Hội Khoa học lịch sử Việt Nam tổ chức và do các vị lãnh đạo Hội mà đứng đầu là ông Phản Huy Lê chủ trì cùng một số nhân vật khác và các bài viết phản biện, tranh luận có liên quan đến chủ đề nói về Nhà Nguyễn và Vương triều Nguyễn kể từ thế kỷ XVI đến thế kỷ XX, nhất là bàn về công tội của hai nhân vật mà thời gian gần đây đã dấy lên làn sóng phản ứng mạnh mẽ trên mạng xã hội và trên diễn đàn công luận đó là Phản Thanh Giản và Trương Vĩnh Ký. </p>
@@ -42,8 +42,8 @@ image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/LICHSU/IMG/LAT_SU/CV
  
  <p>------------------</p>
  <p><b>Các bài khác của TT Nguyễn Thanh Tuấn:</b></p>
- <p>- <a href="https://sachhiem.net/LICHSU/N/NguyenThanhTuan01.php ">Vụ Phim Đất Rừng Phương Nam - Mong Thanh Tra Chính Phủ Làm Rõ - Vì Sao Tiền Của NN Lại Đầu Tư Cho Phim Loại Này.</a> (TT. Nguyễn Thanh Tuấn)</p>
- <p>- <a href="https://sachhiem.net/LICHSU/N/NguyenThanhTuan02.php">Buồn - Khi Người Mình Đặt Nhiều Hy Vọng Lại Làm Mình Thất Vọng</a> (TT. Nguyễn Thanh Tuấn)</p>
+ <p>- <a href="/LICHSU/N/NguyenThanhTuan01">Vụ Phim Đất Rừng Phương Nam - Mong Thanh Tra Chính Phủ Làm Rõ - Vì Sao Tiền Của NN Lại Đầu Tư Cho Phim Loại Này.</a> (TT. Nguyễn Thanh Tuấn)</p>
+ <p>- <a href="/LICHSU/N/NguyenThanhTuan02">Buồn - Khi Người Mình Đặt Nhiều Hy Vọng Lại Làm Mình Thất Vọng</a> (TT. Nguyễn Thanh Tuấn)</p>
  
  <p>--------- COMMENTS -----------</p>
  <p>Giang Chu: Hoan hô FB Nguyễn Thanh Tuấn đã giới thiệu với bạn đọc cuốn Trao đổi Sử học. Lâu nay sinh hoạt sử học chỉ có một chiều là tiêng nói của Hội Khls VN qua tạp chí Xưa &amp; Này.đây là tiêng nói phản biện thể hiện tình thần dân chủ học thuật.  </p>
@@ -110,8 +110,8 @@ image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/LICHSU/IMG/LAT_SU/CV
  <p>(xem toàn <a href="https://thuvienphapluat.vn/van-ban/Bat-dong-san/Nghi-dinh-91-2005-ND-CP-Quy-che-dat-ten-doi-ten-duong-pho-cong-trinh-cong-cong-2318.aspx">văn Nghị Định ở link </a>)</p>
  <p>------------------</p>
  <p><b>Các bài khác của TT Nguyễn Thanh Tuấn:</b></p>
- <p>- <a href="https://sachhiem.net/LICHSU/N/NguyenThanhTuan01.php ">Vụ Phim Đất Rừng Phương Nam - Mong Thanh Tra Chính Phủ Làm Rõ - Vì Sao Tiền Của NN Lại Đầu Tư Cho Phim Loại Này.</a></p>
- <p>- <a href="https://sachhiem.net/LICHSU/N/NguyenThanhTuan.php">Chỉ thị của Ban Bí Thư TW Đảng ngày 16/04/2009: Tạm Dừng Các Hoạt Động, Công Trình Liên Quan Đến Phan Thanh Giản </a></p>
- <p>- <a href="https://sachhiem.net/LICHSU/N/NguyenThanhTuan02.php">Buồn - Khi Người Mình Đặt Nhiều Hy Vọng Lại Làm Mình Thất Vọng</a></p>
- <p>- <a href="https://sachhiem.net/LICHSU/N/NguyenThanhTuan03_Vid.php">Chủ Nghĩa Xét Lại Lịch Sử Đã Tác Động Vào Báo Chí?</a> </p>
- <p>-<a href="https://sachhiem.net/LICHSU/N/NguyenThanhTuan04_LS.php"> Thư Ngỏ Của Trung Tướng Nguyễn Thanh Tuấn Gửi Lãnh Đạo Bộ GD - ĐT</a></p>
+ <p>- <a href="/LICHSU/N/NguyenThanhTuan01">Vụ Phim Đất Rừng Phương Nam - Mong Thanh Tra Chính Phủ Làm Rõ - Vì Sao Tiền Của NN Lại Đầu Tư Cho Phim Loại Này.</a></p>
+ <p>- <a href="/LICHSU/N/NguyenThanhTuan">Chỉ thị của Ban Bí Thư TW Đảng ngày 16/04/2009: Tạm Dừng Các Hoạt Động, Công Trình Liên Quan Đến Phan Thanh Giản </a></p>
+ <p>- <a href="/LICHSU/N/NguyenThanhTuan02">Buồn - Khi Người Mình Đặt Nhiều Hy Vọng Lại Làm Mình Thất Vọng</a></p>
+ <p>- <a href="/LICHSU/N/NguyenThanhTuan03_Vid">Chủ Nghĩa Xét Lại Lịch Sử Đã Tác Động Vào Báo Chí?</a> </p>
+ <p>-<a href="/LICHSU/N/NguyenThanhTuan04_LS"> Thư Ngỏ Của Trung Tướng Nguyễn Thanh Tuấn Gửi Lãnh Đạo Bộ GD - ĐT</a></p>

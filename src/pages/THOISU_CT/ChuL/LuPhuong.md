@@ -2,7 +2,7 @@
 layout: ../../../layouts/Article.astro
 title: "Một Chút Tư Liệu"
 author: "Lữ Phương"
-source: "https://sachhiem.net/nguồn: https://www.talawas.org/talaDB/showFile.php?res=13323&amp;rb=0306"
+source: "/nguồn: https://www.talawas.org/talaDB/showFile.php?res=13323&amp;rb=0306"
 category: "Chính trị"
 lang: vi
 wordCount: 3888
@@ -26,7 +26,7 @@ image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nhacu.jpg"
 <tr> <td width="100%" valign="top"> 
 
 		<table border="0" cellpadding="10" width="100%" cols="3"><tbody><tr>
-				<td width="107"><a href="https://sachhiem.net/"><img border="0" src="https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nhacu.jpg"></a></td>
+				<td width="107"><a href="/"><img border="0" src="https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nhacu.jpg"></a></td>
 				<td valign="top" width="232"><a href="/THOISU_CT/#" onclick="location.href='https://sachhiem.net/BIA/sendafriend.php?url='+location.href;">
 				<img src="https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/THOISU_CT/file:///C:/SACHHIEM/images/mail.gif" border="0"> 
 Gửi bài này cho bạn bè</a></td>

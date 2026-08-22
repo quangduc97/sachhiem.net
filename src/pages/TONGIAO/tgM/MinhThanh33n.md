@@ -3,7 +3,7 @@ layout: ../../../layouts/Article.astro
 title: "[VATICANOLOGY] - Chính Quyền Vatican tại Việt Nam Thêm Một Căn Cứ"
 author: "Minh Thạnh"
 date: 2022-07-16
-source: "https://sachhiem.net/TONGIAO/tgM/MinhThanh33n.php"
+source: "/TONGIAO/tgM/MinhThanh33n"
 category: "Tác giả"
 lang: vi
 wordCount: 3084

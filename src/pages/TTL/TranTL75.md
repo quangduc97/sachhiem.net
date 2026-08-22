@@ -3,7 +3,7 @@ layout: ../../layouts/Article.astro
 title: "Về Những Thuyết Âm Mưu"
 author: "Trần Tiên Long"
 date: 2016-09-13
-source: "https://sachhiem.net/TTL/TranTL75.php"
+source: "/TTL/TranTL75"
 category: "Đối thoại"
 lang: vi
 wordCount: 1940
@@ -34,13 +34,13 @@ image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/THOISU_CT/Hinh/HOAKY
   <p>__________________________</p>
   
   <p><b>Các bài liên hệ của cùng tác giả TTL:</b></p>
-  <p>- <a href="https://sachhiem.net/index.php?content=showrecipe&amp;id=6729">Đảng Cộng Hòa Đang Dẫy Chết</a> </p>
-<p>- <a href="https://sachhiem.net/index.php?content=showrecipe&amp;id=6242">Tôi Đọc Vũ Linh: Cái Loa Tuyên Truyền Của Đảng Cộng Hòa</a> </p>
-<p>- <a href="https://sachhiem.net/index.php?content=showrecipe&amp;id=1079">Công Giáo Và Vấn Đề Phá Thai</a> </p>
-<p>- <a href="https://sachhiem.net/index.php?content=showrecipe&amp;id=5396">Dân  Chủ Hay Cộng Hòa, Đảng Nào Chuyên Lo Bảo Vệ Giới Nghèo?</a> </p>
-<p>- <a href="https://sachhiem.net/index.php?content=showrecipe&amp;id=5429">Trò  ảo thuật về bầu cử - Đảng Nào Xài Phung Phí Nhất?</a></p>
+  <p>- <a href="/TTL/TranTL74">Đảng Cộng Hòa Đang Dẫy Chết</a> </p>
+<p>- <a href="/TTL/TranTL60">Tôi Đọc Vũ Linh: Cái Loa Tuyên Truyền Của Đảng Cộng Hòa</a> </p>
+<p>- <a href="/TTL/TranTL32">Công Giáo Và Vấn Đề Phá Thai</a> </p>
+<p>- <a href="/TTL/TranTL31">Dân  Chủ Hay Cộng Hòa, Đảng Nào Chuyên Lo Bảo Vệ Giới Nghèo?</a> </p>
+<p>- <a href="/TTL/TranTL33">Trò  ảo thuật về bầu cử - Đảng Nào Xài Phung Phí Nhất?</a></p>
 
   <hr>
-<p><a href="https://sachhiem.net/TTL/List.inc.php">Các bài của Trần Tiên Long » </a></p>
+<p><a href="/TTL/List.inc">Các bài của Trần Tiên Long » </a></p>
 
 <hr>

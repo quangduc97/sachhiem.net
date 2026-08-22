@@ -2,15 +2,14 @@
 layout: ../../../layouts/Article.astro
 title: "Góp Ý Về Danh Xưng Công Giáo"
 author: "Bảo quốc Kiếm"
-source: "https://sachhiem.net/TONGIAO/BQK/BQK05.php"
+source: "/TONGIAO/BQK/BQK05"
 category: "Đối thoại"
 lang: vi
 wordCount: 4599
-image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nha.jpg"
 ---
 
 <table border="0" cellpadding="0" width="250" align="center"><tbody><tr>
-	<td width="125"><a href="/index"><img border="0" src="https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nha.jpg"></a></td>
+	<td width="125"></td>
 <td valign="top" width="210"><p> 25/06/2011 </p>	</td></tr></tbody></table>
 		 <p><span class="First">K</span>ính thưa quý độc giả,</p>
          <p> Tôi đã tạm khép cửa về chuyện  này, nhưng hằng ngày  ông Vũ Linh

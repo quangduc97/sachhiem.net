@@ -2,7 +2,7 @@
 layout: ../../../layouts/Article.astro
 title: "Suy Ngẫm"
 author: "từ hộp thư: Oanh Lá Thắm"
-source: "https://sachhiem.net/null"
+source: "/null"
 lang: vi
 wordCount: 194
 image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/CANHDEP/Hoadecor.jpg"
@@ -19,7 +19,7 @@ image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/CANHDEP/Hoade
 	<center>
 	<img border="0" src="https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/CANHDEP/Hoadecor.jpg" width="158" height="151"><br>
 	
-	<a href="/XAHOI/index"><img src="https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nha.jpg" border="0"></a></center>
+	</center>
     
 	<p class="Tuaduoi">Để Sống An Vui</p>
 

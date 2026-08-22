@@ -3,7 +3,7 @@ layout: ../../../layouts/Article.astro
 title: "Tìm Hiểu Đạo Tôi:"
 author: "Cao Hữu Tâm"
 date: 2014-03-01
-source: "https://sachhiem.net/TONGIAO/tgC/Caohtam07.php"
+source: "/TONGIAO/tgC/Caohtam07"
 category: "Tác giả"
 lang: vi
 wordCount: 3160
@@ -49,7 +49,7 @@ Repbulic Socialist Of  Viet Nam</p>
  <p>Vì là độc tài đạo phiệt quá lâu, hàng  giám mục ta còn phải vâng lời trong tuân phục, hàng giáo dân ta đâu dám có thái  độ hành xử nào dù chỉ là đối thọai trong lễ phép lịch sự (Đại khái là agree to  disagree). Nhưng kể từ thời làm tay sai nô lệ cho thực dân, rồi sợ hãi hoặc  tránh né trừng phạt của bọn La Mã, nên mãi đến nay, chung chung, hàng giáo dân  vẫn như cũ, ngòai chửi bới, hăm dọa, hầu như đều không ra khỏi sự giận dữ thù  hận. </p>
  <p>Với cụ Lê Trọng Văn, họ (?) đã gởi mấy băng đạn đến nhà ông. Lại còn có cả  cha lên bục giảng tấn công ông, hầu hết đều chẳng có gì là nhân từ khoan  nhượng, hay ai tát má này hãy đưa má kia vv... Vì vậy đa số giáo dân đều là đạo  vỏ, theo đạo số nhiều và chiếu lệ hay bề ngòai, mà cái thật của đạo là  "tại tâm" đều không có. </p>
  <p>Do đó, giám mục Bùi Tuần đã viết trong một  bài giảng là "<i>người Công giáo không bằng người ngòai Công giáo!</i>" Ngay  ở đây, đa số là có đạo hoặc Công giáo, hoặc Tin lành đểu nhan nhản trên bản tin  hàng ngày là bắn giết nhau. Hay bọn linh mục dâm dục (...)  (pedophile), mà giáo xứ, giáo phận, hay tổng giáo phận đểu bưng bít che dấu hay  bỏ tiền ra mua chuộc chạy tội. Nhưng tư pháp Mỹ vẫn không chịu thua. Mới đây  Liên Hiệp Quốc còn đòi giáo hội phải trừng phạt bọn linh mục  dâm dục. Xem thế, rao gảing của nhà thờ cho các giáo dân  là phải thành thật xưng tội, giáo hội lại chạy tội, vậy thử hỏi giáo hội còn  xứng đáng là trong trắng thánh thiện không? Như đã nói, đã là "<i>độc tài đạo  phiệt</i>" thì không thể thẳng thắn hay cởi mở đối thọai được. </p>
- <p><a href="https://sachhiem.net/TONGIAO/tgN/NguyenThanhSon.php">Hai tuyển tập  Tận Thế của linh mục Giuse Nguyễn Thanh Sơn</a> (CSsr) lộ ra hàng giáo phẩm<a href="https://www.giaodiemonline.com/thuvien/doithoai/thanhson-tanthe.htm"> linh  mục Việt Nam có đến 95% dâm dục</a>. Linh mục tổng quản Dòng Chúa Cứu Thế, sau khi  tuyển tập được tung ra là ông hứa sẽ xét xử trong vòng hai năm. </p>
+ <p><a href="/TONGIAO/tgN/NguyenThanhSon">Hai tuyển tập  Tận Thế của linh mục Giuse Nguyễn Thanh Sơn</a> (CSsr) lộ ra hàng giáo phẩm<a href="https://www.giaodiemonline.com/thuvien/doithoai/thanhson-tanthe.htm"> linh  mục Việt Nam có đến 95% dâm dục</a>. Linh mục tổng quản Dòng Chúa Cứu Thế, sau khi  tuyển tập được tung ra là ông hứa sẽ xét xử trong vòng hai năm. </p>
  <p><img src="https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/TONGIAO/IMG/LINHMUC/LMThanhSon.jpg" width="250" height="287" class="PicRgt">Đến nay bao  nhiêu năm qua rồi linh mục Tobin đã không giữ lời hứa. Hoặc ông chối bỏ, hoặc  ông chiêu hồi được linh mục Sơn, dù thế nào ông cũng phải có bổn phận trả lời  và làm rõ, bởi vì đã có <b>buộc tội linh mục Sơn là bị điên</b>. Vậy ông đã điên  trước, sao nhà dòng còn nhận ông vào tu là gì vậy? Còn ông điên sau khi tu  xong, thì ai chịu trách nhiệm về bệnh điên của ông. Ít nhất linh mục Tobin cũng  nên cho biết nhà dòng đã chữa trị cho ông gì không, hay là để mặc ông sẽ in ra  thêm tuyển tập Tận Thế, lại còn điên hơn, hay là ông đã bị kỷ luật phải im  lặng, theo <b>luật Omerta</b> của giáo hội. Nhưng bíêt bao luật cấm nói, từ trứơc đến  nay, vẫn đã có biết bao lộ ra về hành xử bất xứng của giáo hội, và của cá nhân  bọn linh mục phạm tội. </p>
  <p>Giáo hòang Benêdictô từng nói Công giáo là đạo  THẬT, đạo ĐÚNG và đạo NHẤT, vậy ông hay giáo phẩm và giáo dân có thể giải nghĩa  thật bao nhiêu, đúng bao nhiêu và nhất bao nhiêu? Còn nếu chỉ nói để tuyên  truyền hay áp đặt thì truyền thông và trình độ của con người, nói chúng và của  giáo dân nói riêng đã dần dần trút khỏi ách đạo, mà nhà tu chứ chưa hẳn nhà tù  đã còn bao nhiêu tội phạm Công giáo La Mã nữa. </p>
  <p>Nên biết Công giáo đọc tài đạo  phiệt ở nước ta thừơng có đọc kinh chung hay rứơc kiệu ĐM. Nhưng ở Mỹ đã không  còn nữa. Ngay trong khuôn viên nhà thờ cũng không có, nói gì kéo nhau rứơc kiệu  ngòai đường phố mà những tôn giáo khác sẽ phản đối. Như vậy, mọi sinh hoạt tôn  giáo không còn ỷ thời Cần Lao Công Giáo lộng hành được nữa.</p>
@@ -86,4 +86,4 @@ Repbulic Socialist Of  Viet Nam</p>
 <p> <a href="https://www.amazon.fr/Comment-jai-donn%C3%A9-cong%C3%A9-dogmes/dp/B001BNZBH2" target="_blank">https://www.amazon.fr/Comment-jai-donn%C3%A9-cong%C3%A9-dogmes/dp/B001BNZBH2</a></p>
 <hr>
 <p><b>Bài đọc thêm:</b></p>
-<p>- <a href="https://sachhiem.net/TONGIAO/tgC/Caohtam07a.php">Đạo Tà </a></p>
+<p>- <a href="/TONGIAO/tgC/Caohtam07a">Đạo Tà </a></p>

@@ -2,17 +2,16 @@
 layout: ../../../layouts/Article.astro
 title: "LINH MỤC LÀ AI ?"
 author: "Trần Chung Ngọc"
-source: "https://sachhiem.net/TCN/TCNtg/TCN18.php"
+source: "/TCN/TCNtg/TCN18"
 lang: vi
 wordCount: 4579
-image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nha.jpg"
 ---
 
 <p class="Tuaduoi"> MỘT CÂU HỎI ! CÓ BAO NHIÊU TRẢ LỜI ? (Phần 1)</p>
           
           
-          <p align="center"> <a href="/index"><img border="0" src="https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nha.jpg" align="middle" hspace="20"></a> 20 tháng 5, 2007 </p>
-  <p>Toàn bộ: <a href="https://sachhiem.net/TCN/TCNtg/TCN18.php">1</a> <a href="https://sachhiem.net/TCN/TCNtg/TCN19.php">2</a></p>
+          <p align="center">  20 tháng 5, 2007 </p>
+  <p>Toàn bộ: <a href="/TCN/TCNtg/TCN18">1</a> <a href="/TCN/TCNtg/TCN19">2</a></p>
    <p> <b><font size="6" face="Vivaldi">Linh Mục Là Ai?</font></b> Đó là đầu đề một bài  viết trên  tiengnoigiaodan.net. Tác  giả bài viết này là<b> Linh  mục Giuse Vũ Đức </b>ở Detroit. Linh  mục thực sự là ai? Ngày  nay chúng ta không thiếu  gì tài liệu, kể cả tài  liệu của những vị đã ở  trong nghề Linh mục  nhiều chục năm như  Joseph McCabe hay  Charles Chiniqui. Trước  khi đi vào những câu trả  lời của Linh Mục Vũ Đức,  có lẽ chúng ta cũng nên  kể vài nhận xét điển  hình về giới Linh mục  của một số danh nhân,  trí thức trên thế giới.</p>
           <p> <b><u>Hugo Grotius  (1583-1645), Học giả Hòa  Lan:</u></b><i> Người  nào đọc lịch sử giới  Linh mục không đọc gì  khác ngoài sự gian giảo  và điên rồ của các giám  mục và linh mục.</i> (He who reads  eccleciastical history  reads nothing but the  roguery and folly of  bishops and churhmen.)</p>
           <p><b><u>John  Milton (1608-1674), Thi  sĩ Anh:</u></b><i>Công  Giáo La Mã là một tôn  giáo không gì hơn là sự  chuyên chế của giới linh  mục, những người trang  bị với những bổng lộc  của quyền lực dân sự,  với chiêu bài tôn giáo,  đã chiếm lấy quyền của  Chúa</i> (Romanism is  less a religion than a  priestly tyranny armed  with the spoils of civil  power which, on the  pretext of religion, it  hath seized against the  command of Chist  himself.)</p>
@@ -66,8 +65,8 @@ image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nha.jpg"
           <p><i>Trong Giáo Hội  Linh Mục được kêu mời và  tuyển chọn để nối dài sự  hiện diện của Chúa Kitô  và chu toàn sứ mạng đã  nhận trong Giáo Hội <b>bởi sự đặt  tay của Giám Mục trong  thánh lễ phong chức .. để  chuyển ban Thần Khí của  Thiên Chúa. Được  Chúa kêu mời và tuyển chọn </b> nên Linh Mục phải là  người của Chúa, trọn vẹn  thuộc về Chúa và phải  làm việc cho Chúa. Nói  cách khác <b>ưu tư số một của  Chúa là việc  tuyển chọn các Linh Mục</b> để từ đó Linh Mục làm  cho người ta suy nghĩ về  Chúa và tìm gặp Ngài.</i></p>
           <p><i>Do đó Linh Mục có  bổn phận phải thông  truyền chân lý Phúc Âm  nên khi sống đời Linh  Mục là ngài thi hành  việc giảng dậy để loan  truyền giáo thuyết của  Giáo Hội, là giảng lời  Chúa, là mời mọi người  tin và nhận lãnh ơn cứu  rỗi, qua bí tích để cải  thiện và nên thánh, điều  này được lưu ý đặc biệt  trong phần <b>phụng vụ Lời Chúa  khi cử hành phép Thánh  Thể</b>.  Như vậy trong phụng vụ  nhờ bàn tay Linh Mục, <b>phép  Rửa</b> đưa người ta về với  Chúa, Bí Tích Cáo Giải làm hòa tội nhân với Thiên Chúa, Bí Tích Xức  Dầu xoa dịu nỗi đau của  người bệnh…</i> </p>
           <p>Thứ nhất, ai có thể  biết ưu tư của Chúa là  như thế nào?Ngô Triệu  Lịch đã viết rõ nền thần  học Ki Tô Giáo chỉ là  nền thần học đoán mò, vì  hai trong những thuộc  tính mà giáo hội Công  giáo gán cho Thiên Chúa  của họ là <i>“không thể  hiểu được”</i> (incomprehensible), và  “vô hình” (invisible).  Vậy nói về ưu tư của một  đấng không ai thấy được,  không ai hiểu được,  chẳng là đoán mò thì là  gì?Linh mục Vũ Đức đã  coi sự đoán mò của giáo  hộilàm thật và lấy sự  đoán mò đó để uốn nắn  đầu óc các con chiên vốn  không có đầu óc. Hơn nữa  Chúa chết đã gần 2000  năm nay rồi và chưa bao  giờ trở lại, cho nên nói  là Chúa tuyển chọn Linh  Mục cũng lại là nói láo,  đúng như Linh Mục  Chiniqui đã nhận  định.Vì số người vào  nghề Linh mục càng ngày  càng ít, cho nên “Chúa”,  thật ra chỉ là “Giáo  hội”, đã càng ngày càng  phải hạ tiêu chuẩn,  trình độ của những người  muốn vào nghề linh mục,  và ngày nay, hầu hết  những người vào nghề này  là để dễ kiếm ăn chứ  chẳng phải là vì ơn kêu  gọi như chính Giáo hoàng  Benedict XVI đã than  phiền như vậy. Bây giờ  chúng ta hãy đọc Linh  mục Charles Chiniqui  viết về vài vấn đề liên  quan đến chức Linh mục,  trong cuốn “50 Years In  The Church of Rome”,  Chương XVII:</p>
-          <p> <i>(<a href="https://sachhiem.net/TCN/TCNtg/TCN19.php">Xin xem  tiếp Phần 2</a>)</i>  </p>
+          <p> <i>(<a href="/TCN/TCNtg/TCN19">Xin xem  tiếp Phần 2</a>)</i>  </p>
      <p>____________</p>
   <p><b>Bài đọc thêm:</b></p>
-  <p>- <a href="https://sachhiem.net/TONGIAO/tgTR/TranTheTuyen.php">Linh Mục... Người Là Gì? </a>(LM. Trần Tuyên) </p>
+  <p>- <a href="/TONGIAO/tgTR/TranTheTuyen">Linh Mục... Người Là Gì? </a>(LM. Trần Tuyên) </p>
           <hr>

@@ -2,11 +2,10 @@
 layout: ../../../layouts/Article.astro
 title: "Công lý lịch sử của :"
 author: "Ts. Lý Khôi Việt"
-source: "https://sachhiem.net/TONGIAO/TOAKHAM/LyKhoiViet01.php"
+source: "/TONGIAO/TOAKHAM/LyKhoiViet01"
 category: "Tác giả"
 lang: vi
 wordCount: 6962
-image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nha.jpg"
 ---
 
 <p class="Tuaduoi">Chùa Báo Thiên, 
@@ -16,7 +15,7 @@ image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nha.jpg"
 		
 		
 
-<p align="center"><a href="https://sachhiem.net/index.php"><img border="0" hspace="20" src="https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nha.jpg"></a>04 tháng 3, 2008</p>
+<p align="center">04 tháng 3, 2008</p>
 	
 	<p>
 	<i><b>

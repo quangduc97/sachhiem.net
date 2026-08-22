@@ -3,7 +3,7 @@ layout: ../../../layouts/Article.astro
 title: "Chỉ Có Thể Là Những Người Cộng Sản"
 author: "Phạm Tiến Khoa"
 date: 2025-12-12
-source: "https://sachhiem.net/LICHSU/FB/FBPhamTienKhoa.php"
+source: "/LICHSU/FB/FBPhamTienKhoa"
 category: "Chính trị"
 lang: vi
 wordCount: 725

@@ -3,7 +3,7 @@ layout: ../../layouts/Article.astro
 title: "Những Cuộc Tranh Đấu Chống Vatican Của Các Quốc Gia Trên Thế Giới"
 author: "Nguyễn Mạnh Quang"
 date: 2018-02-22
-source: "https://sachhiem.net/NMQ/NMQ93_doc.php"
+source: "/NMQ/NMQ93_doc"
 category: "Lịch sử"
 lang: vi
 wordCount: 4955
@@ -59,7 +59,7 @@ image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/SACHNGOAI/Hinhanh/BI
  <p>Có lẽ "<i>nhu cầu phát sinh sáng kiến</i>," lúc bấy giờ các nhà trí thức Âu Châu lại đua nhau đưa ra các lý  thuyết chính trị để hướng dẫn quần chúng nhìn ra quyền làm người của họ  đang bị Giáo Hội La Mã tước đoạt và che đậy bằng bức màn tôn giáo. Các  nhà trí thức Âu Châu trong các phong trào này đã thành công trong việc: </p>
  <p class="sub">1. Làm cho nhân dân Âu Châu nhận thức được rằng Thượng Đế ban  cho con người những quyền bất khả xâm phạm và bất khả nhượng, và </p>
  <p class="sub">2. Kêu gọi nhân dân thế giới phải vùng lên đạp đổ ách thống trị  bạo tàn của giáo triều Vatican, tức là Giáo Hội La Mã hay đạo Ki-tô La Mã mà  người Việt Nam ta thường gọi là “Đạo Thiên Chúa”.</p>
- <p>Đi tiên phong trong phong trào trên đây là các nhà trí thức của <b>Thời Đại  Khoa Học và Lý Trí </b>(1500 - 1789) như các ông: Thomas Hobbes  (1588-1679),  John Locke (1632-1704),  René Descartes (1596-1650),  Voltaire (1694-1778),  Dennis Diderot (1713-1784), Jean Jacques  Rousseau (1712-1778), Thomas Paine (1737-1809), John Adams (1735-1826),  James Madison (1751-1836), Arthur Schopenhauer (1788-1860), Thomas Jefferson (1743-1826), v.v… (<a href="https://sachhiem.net/NMQ/HOSOTOIAC/CH102.php">https://sachhiem.net/NMQ/HOSOTOIAC/CH102.php</a>)</p>
+ <p>Đi tiên phong trong phong trào trên đây là các nhà trí thức của <b>Thời Đại  Khoa Học và Lý Trí </b>(1500 - 1789) như các ông: Thomas Hobbes  (1588-1679),  John Locke (1632-1704),  René Descartes (1596-1650),  Voltaire (1694-1778),  Dennis Diderot (1713-1784), Jean Jacques  Rousseau (1712-1778), Thomas Paine (1737-1809), John Adams (1735-1826),  James Madison (1751-1836), Arthur Schopenhauer (1788-1860), Thomas Jefferson (1743-1826), v.v… (<a href="/NMQ/HOSOTOIAC/CH102">https://sachhiem.net/NMQ/HOSOTOIAC/CH102.php</a>)</p>
  <p align="center"><img src="https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/SACHNGOAI/Hinhanh/PEOPLE/TrithucLyTri.JPG" width="500" height="222" alt=""></p>
  <p>Các nhà đại trí thức trong các thời kỳ này lần lượt đưa ra những  lý thuyết chính trị làm nền tảng cho các thể chế dân chủ và mở đường cho các cuộc  cách mạng chống lại các chế độ độc tài chuyên chính tại Âu Châu mà thực chất chỉ  là các chế độ đạo phiệt Ca-tô với Giáo Hội La Mã ở hậu trường chỉ đạo.  Trong bất kỳ chế độ đạo phiệt  Ca-tô nào ở bất kỳ nơi nào trên thế giới, Giáo Hội La Mã luôn đóng vai trò chủ chốt, cho nên chủ đích của các cuộc cách mạng  của nhân dân tại các quốc gia đó đều coi Giáo Hội La Mã là đối tượng  chính cần phải thanh toán. Mỗi khi có phong trào phản kháng như vậy  thành công ở một quốc gia nào, thì tân chính quyền phải thẳng tay đối phó với  Giáo Hội La Mã bằng những biện pháp mạnh như:</p>
  <p class="sub">a. Tịch thu toàn bộ tài sản động sản của như bất động sản,</p>

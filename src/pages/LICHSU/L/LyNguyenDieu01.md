@@ -3,7 +3,7 @@ layout: ../../../layouts/Article.astro
 title: "Năm Nhân Vật Trong Đời Tổng Thống Diệm (*)"
 author: "Lý Nguyên Diệu"
 date: 2012-10-24
-source: "https://sachhiem.net/LICHSU/L/LyNguyenDieu01.php"
+source: "/LICHSU/L/LyNguyenDieu01"
 category: "Lịch sử"
 lang: vi
 wordCount: 2515

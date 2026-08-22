@@ -3,7 +3,7 @@ layout: ../../../layouts/Article.astro
 title: "Phải Chấm Dứt Việc Tổ Chức Hoạt Động Mừng Giáng Sinh Ở Các Trường Học"
 author: "Các Thân Hữu FaceBook"
 date: 2021-12-20
-source: "https://sachhiem.net/TONGIAO/FB/FBHoangChi.php"
+source: "/TONGIAO/FB/FBHoangChi"
 category: "Tác giả"
 lang: vi
 wordCount: 5346
@@ -18,7 +18,7 @@ image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/TONGIAO/FB/KhongAnLe
     <p><a href="https://www.facebook.com/permalink.php?story_fbid=2697305347244023&amp;id=100008937524590">FB Nguyễn Kim Khanh</a> 19 Dec 2021</p>
     <p class="Tuaduoi">Bài 1: Sự VÔ DUYÊN khi tổ chức Giáng sinh tại nơi công cộng, trường học là không thể chấp nhận được</p>
     <p>Gần đến ngày lễ Giáng  sinh 24/12 của người công giáo, việc người dân công giáo chuẩn bị cho ngày lễ  này của mình long trọng đó cũng là lẽ đương nhiên, chẳng có gì để bàn cãi, thế  nhưng, có điều lạ là, những năm gần đây, rất nhiều người ngoài công giáo cũng  'vô duyên" đón giáng sinh như ngày quốc lễ của mình, người ta thấy nhiều  cửa hàng bày bán tràn lan ông già Noen, những cây thông giáng sinh treo đầy  những bóng đèn nhấp nháy, có nơi một số cơ quan nhà nước chẳng liên quan đến  công giáo cũng đặt cây thông rất" <i>vô duyên</i>" nơi công quyền, nguy hiểm  hơn, do tò mò hay đơn giản chỉ nghĩ đây là trò chơi con trẻ mà "cây thông  và hình ảnh ông già Noen" xuất hiện ngang nhiên rất nhiều trong các phòng  học, ngay tại sân trường ở các trường học của cả nước, thậm chí người không tôn  giáo cũng vô duyên bày trò thuê ông già Noen đến tặng quà cho con cháu mình,  một sự vô duyên kệch cỡm đến lố bịch......Hình ảnh vô duyên này đã nói lên điều  gì? xin được khẳng định không thể chấp nhận được.</p>
-    <p> Chúng ta, Vẫn còn  nhớ, năm 2018 gần đến ngày chúa giáng sinh, Phòng Giáo dục huyện Nhà bè Tp HCM  ra công văn yêu cầu không được trang trí đón Noen trong các trường học trong  huyện, việc nhắc nhở là rất đúng, bởi, đó là luật, thế nhưng, thật đáng tiếc,  bỏ qua luật, báo chí, nhất là (lều báo) nhâu vào <i>"lên án ầm ĩ</i>" cho đó  là cấm đoán, mất tự do và nhân quyền.... do áp lực của Dư luận, UBND huyện Nhà  Bè đã bỏ luật và dân túy chạy theo dư luận ra công văn yêu cầu P Giáo dục rút  công văn đúng luật kể trên... Đó là điều đáng tiếc. <a href="https://sachhiem.net/TONGIAO/tgM/MinhThanh15.php">(xem bài)</a></p>
+    <p> Chúng ta, Vẫn còn  nhớ, năm 2018 gần đến ngày chúa giáng sinh, Phòng Giáo dục huyện Nhà bè Tp HCM  ra công văn yêu cầu không được trang trí đón Noen trong các trường học trong  huyện, việc nhắc nhở là rất đúng, bởi, đó là luật, thế nhưng, thật đáng tiếc,  bỏ qua luật, báo chí, nhất là (lều báo) nhâu vào <i>"lên án ầm ĩ</i>" cho đó  là cấm đoán, mất tự do và nhân quyền.... do áp lực của Dư luận, UBND huyện Nhà  Bè đã bỏ luật và dân túy chạy theo dư luận ra công văn yêu cầu P Giáo dục rút  công văn đúng luật kể trên... Đó là điều đáng tiếc. <a href="/TONGIAO/tgM/MinhThanh15">(xem bài)</a></p>
     <p align="center"><img src="https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/TONGIAO/FB/IMG/CV1054_Thuhoi[1].jpg" width="400" height="417" alt=""></p>
     <p>Rõ ràng, đến cả cấp huyện  cũng ấu trĩ hiểu sai vấn đề dẫn đến vi phạm luật Giáo dục Trong khi, Điều 20,  Luật Giáo Dục năm 2019, ghi rất rõ không được đem tôn giáo vào trường học. bởi  đơn giản Lễ Noel là Lễ của đạo Thiên Chúa, như vậy đem lễ Noel vào Trường học,  là vi phạm pháp luật không thể chấp nhận được với bất cứ lý do gì.</p>
     <p> Nói đến Công giáo,  Lịch sử đã từng chứng kiến, những cuộc thập tự chinh đẫm máu của thực dân nhân  danh Chúa, tội ác đã được đã được người dân Việt Nam phơi bày trong sử sách  cũng như ký ức của mình đó là tội ác. </p>
@@ -146,16 +146,16 @@ Tuyên truyền đạo giáo tại trường học là sai Pháp luật</p>
 <p><i>Nước ta là một nước bao dung về tôn giáo, từ xưa đã có nhiều tôn giáo trong xã hội truyền thống, cùng sống hài hòa trong xã hội. Nhưng từ khi có Thiên Chúa giáo, những tín đồ của các tôn giáo này luôn lấn lướt dụ dỗ người lương theo tôn giáo của họ  bằng mọi thứ có thể: nhạc Giáng Sinh, đèn giáng sinh, cây thông Giáng sinh,... Người lương cảm thấy rõ ràng là xâm thực văn hóa, và mang lại bất bình đẳng tôn giáo và sẽ là ổn xã hội.</i></p>
 <p>____________</p>
 <p>Các bài liên hệ:</p>
-<p>- <a href="https://sachhiem.net/BUIKHA/BuiKha8.php">NOEL - MỪNG GIÁNG SINH (Bùi Kha)</a></p>
-<p>-<a href="https://sachhiem.net/TONGIAO/FB/FBThiNguyen13.php"> CHUYỆN NOEL: “CỦA CAESAR, TRẢ VỀ CHO CAESAR” (Thi Nguyễn)</a></p>
-<p>-<a href="https://sachhiem.net/CHARLIE/CN_TTDTG/huyenthoai.php"> MỘT SỐ VẤN ĐỀ VỀ HUYỀN THOẠI GIÁNG SINH (Charlie Nguyễn)</a></p>
-<p>- <a href="https://sachhiem.net/index.php?content=showemail&amp;id=2745">Cùng nhau gọi những ngày lễ hội cuối tháng 12 là "Lễ Hội Mùa Đông" (FB Lâm Phú Châu)</a></p>
-<p>- <a href="https://sachhiem.net/TCN/TCNtg/TCN28a.php">Không Có Ngày Sinh Của Jesus (Trần Chung Ngọc)</a></p>
-<p><a href="https://sachhiem.net/TCN/TCNtg/TCN28.php">- Tâm Tình Nhân Dịp Lễ Giáng Sinh Của 4 Linh Mục (Trần Chung Ngọc)</a></p>
-<p>-<a href="https://sachhiem.net/TONGIAO/tgP/PGVN_01.php"> Lễ Hội Mùa Đông - NOEL VÀ "MERRY CHRISTMAS"? (Hoàng Hải Anh)</a></p>
-<p>- <a href="https://sachhiem.net/TONGIAO/NGTRCAM/NguyenTriCam33.php">Lễ Giáng Sinh Đầu Tiên Có Từ Khi Nào ? (D.M. Murdock/Acharya S/ Nguyễn Trí Cảm dịch)</a></p>
-<p><a href="https://sachhiem.net/TTS/TG/TranTrongSy09.php">- LỄ NÔ EN (Trần Trọng Sỹ) </a></p>
-<p>- <a href="https://sachhiem.net/TONGIAO/tgM/MinhThanh15.php">Vụ Phó Chủ tịch UBND huyện Nhà Bè ra lệnh thu hồi Công văn của ông Lê Thanh Hải </a>- Phật Tử và Cộng Đồng Mạng Lên Tiếng</p>
+<p>- <a href="/BUIKHA/BuiKha8">NOEL - MỪNG GIÁNG SINH (Bùi Kha)</a></p>
+<p>-<a href="/TONGIAO/FB/FBThiNguyen13"> CHUYỆN NOEL: “CỦA CAESAR, TRẢ VỀ CHO CAESAR” (Thi Nguyễn)</a></p>
+<p>-<a href="/CHARLIE/CN_TTDTG/huyenthoai"> MỘT SỐ VẤN ĐỀ VỀ HUYỀN THOẠI GIÁNG SINH (Charlie Nguyễn)</a></p>
+<p>- <a href="/net/TCN/TCNdt/TCNdt031">Cùng nhau gọi những ngày lễ hội cuối tháng 12 là "Lễ Hội Mùa Đông" (FB Lâm Phú Châu)</a></p>
+<p>- <a href="/TCN/TCNtg/TCN28a">Không Có Ngày Sinh Của Jesus (Trần Chung Ngọc)</a></p>
+<p><a href="/TCN/TCNtg/TCN28">- Tâm Tình Nhân Dịp Lễ Giáng Sinh Của 4 Linh Mục (Trần Chung Ngọc)</a></p>
+<p>-<a href="/TONGIAO/tgP/PGVN_01"> Lễ Hội Mùa Đông - NOEL VÀ "MERRY CHRISTMAS"? (Hoàng Hải Anh)</a></p>
+<p>- <a href="/TONGIAO/NGTRCAM/NguyenTriCam33">Lễ Giáng Sinh Đầu Tiên Có Từ Khi Nào ? (D.M. Murdock/Acharya S/ Nguyễn Trí Cảm dịch)</a></p>
+<p><a href="/TTS/TG/TranTrongSy09">- LỄ NÔ EN (Trần Trọng Sỹ) </a></p>
+<p>- <a href="/TONGIAO/tgM/MinhThanh15">Vụ Phó Chủ tịch UBND huyện Nhà Bè ra lệnh thu hồi Công văn của ông Lê Thanh Hải </a>- Phật Tử và Cộng Đồng Mạng Lên Tiếng</p>
 <p>_________________</p>
 <p><b>Mai Kim</b></p>
 <p>Tôi đồng ý như vậy .Nó en chỉ là ngày lễ riêng của đạo Cg không phải ngày lễ của toàn dân tộc ,không nên đem vấn đề tâm linh vào nhà trường</p>

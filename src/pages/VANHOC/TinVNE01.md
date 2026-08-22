@@ -5,7 +5,7 @@ source: "https://vnexpress.net/gl/van-hoa/2011/03/hue-co-con-duong-mang-ten-trin
 category: "Văn hóa"
 lang: vi
 wordCount: 1128
-image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nha.jpg"
+image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/VANHOC/Hinh/TCS_street.jpg"
 ---
 
 <div align="center" style="position: relative; left: 0; top: 0">
@@ -24,8 +24,7 @@ image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nha.jpg"
 <tr> <td width="100%"> 
 <div style="padding-left: 50px; padding-right: 50px">
 		<table border="0" cellpadding="10" width="600"><tbody><tr>
-			<td><a href="/index">
-			<img border="0" src="https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nha.jpg"></a></td>				
+			<td></td>				
 	<td valign="top" width="169">	19 tháng 3, 2011
 	</td></tr></tbody></table>
 			<p class="Lead"><b><font color="#333333">Chiều 17/3, Hội động Nhân 

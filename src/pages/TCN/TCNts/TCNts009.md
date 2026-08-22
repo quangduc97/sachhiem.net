@@ -3,7 +3,7 @@ layout: ../../../layouts/Article.astro
 title: "NED VÀ VỤ BẮT GIỮ LÊ QUỐC QUÂN"
 author: "Trần Chung Ngọc"
 date: 2013-07-15
-source: "https://sachhiem.net/index.php?content=showrecipe&id=5705"
+source: "/TCN/TCNts/TCNts009"
 category: "Chính trị"
 lang: vi
 wordCount: 7789
@@ -12,7 +12,7 @@ image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/THOISU_CT/Hinh/NHANV
 
 <p>SH: Đây là bài đã đăng từ năm 2007, nhưng được đăng lại vì việc xét xử Lê Quốc Quân  như Web Đôi Mắt trình bày trong phần giới thiệu.</p>
 <p class="Tuaduoi"><a href="https://www.doimat.cuanhcuem.net/2013/07/le-quoc-quan-nha-dan-chu-made-in-cia.html">Lê Quốc Quân: nhà dân chủ "made in CIA"</a></p>
-<p><i>Vụ xét xử Lê Quốc Quân vốn đang "nóng bỏng" mấy ngày gần đây tạm thời xẹp xuống sau khi có thông báo của Tòa Án nhân dân thành phố Hà Nội về việc tạm hoãn phiên xử. Lý do tòa án đưa ra là thẩm phán Lê Thị Hợp, chủ tọa phiên tòa, bị cảm đột xuất, phải đi cấp cứu. Đây cũng có thể là một "biện pháp kỹ thuật" của tòa án Hà Nội, nhằm làm giảm sự "hưng phấn" đang dâng cao của những kẻ đội lốt tôn giáo, kích động chính trị nhân vụ xét xử này. Trong lúc chờ vụ việc về con chiên Lê Quốc Quân tái khởi động lại, mời các bạn tìm hiểu về bản chất của những thế lực đứng đằng sau Lê Quốc Quân qua&nbsp;<a href="https://sachhiem.net/TCN/TCNts/TCNts009.php" rel="nofollow" target="_blank">bài viết dưới đây</a>&nbsp;của&nbsp;<a href="https://www.doimat.cuanhcuem.net/2012/10/tam-sang-mat-to-noi-mien-vien-xu.html#TranChungNgoc" target="_blank">GS Trần Chung Ngọc</a>. Bài này được GS viết nhân sự kiện Lê Quốc Quân bị bắt lần đầu (2007) nhưng chắc chắn đó vẫn chính là nguyên nhân (ẩn) của việc Lê Quốc Quân bị bắt những lần sau này (dù phiên xét xử tới đây cho tội trốn thuế của Quân).</i></p>
+<p><i>Vụ xét xử Lê Quốc Quân vốn đang "nóng bỏng" mấy ngày gần đây tạm thời xẹp xuống sau khi có thông báo của Tòa Án nhân dân thành phố Hà Nội về việc tạm hoãn phiên xử. Lý do tòa án đưa ra là thẩm phán Lê Thị Hợp, chủ tọa phiên tòa, bị cảm đột xuất, phải đi cấp cứu. Đây cũng có thể là một "biện pháp kỹ thuật" của tòa án Hà Nội, nhằm làm giảm sự "hưng phấn" đang dâng cao của những kẻ đội lốt tôn giáo, kích động chính trị nhân vụ xét xử này. Trong lúc chờ vụ việc về con chiên Lê Quốc Quân tái khởi động lại, mời các bạn tìm hiểu về bản chất của những thế lực đứng đằng sau Lê Quốc Quân qua&nbsp;<a href="/TCN/TCNts/TCNts009" rel="nofollow" target="_blank">bài viết dưới đây</a>&nbsp;của&nbsp;<a href="https://www.doimat.cuanhcuem.net/2012/10/tam-sang-mat-to-noi-mien-vien-xu.html#TranChungNgoc" target="_blank">GS Trần Chung Ngọc</a>. Bài này được GS viết nhân sự kiện Lê Quốc Quân bị bắt lần đầu (2007) nhưng chắc chắn đó vẫn chính là nguyên nhân (ẩn) của việc Lê Quốc Quân bị bắt những lần sau này (dù phiên xét xử tới đây cho tội trốn thuế của Quân).</i></p>
 <p align="center"><img src="https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/THOISU_CT/Hinh/NHANVAT/LeQuocQuan.jpg" width="250" height="253"></p>
 <hr>
 <p>	<img border="0" src="https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/DD.gif" width="63" height="51">ọc tin tức trên Internet tôi thấy có một 

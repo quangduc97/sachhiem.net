@@ -2,15 +2,15 @@
 layout: ../../../layouts/Article.astro
 title: "Vấn Đề Đạo Đức Trong Khoa Học"
 author: "Trần Chung Ngọc"
-source: "https://sachhiem.net/TCN/TCNkh/TCNkh14.php"
+source: "/TCN/TCNkh/TCNkh14"
 category: "Khoa học"
 lang: vi
 wordCount: 6858
-image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nha.jpg"
+image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/KHOAHOC/IMG/blu-118b-warhead-s.jpg"
 ---
 
 <table border="0" width="250" align="center">
-    <tbody><tr><td width="100"><a href="https://sachhiem.net/index.php"><img border="0" src="https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nha.jpg"></a>    </td> 			<td>đăng ngày <span lang="en-us">28</span> tháng <span lang="en-us">9</span>, 2007</td>
+    <tbody><tr><td width="100">    </td> 			<td>đăng ngày <span lang="en-us">28</span> tháng <span lang="en-us">9</span>, 2007</td>
 		</tr>
 	</tbody></table>
 	<p><a href="/TCN/TCNkh13"> &lt;&lt;<span lang="en-us">..</span>Xem bài dẫn nhập

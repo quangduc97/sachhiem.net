@@ -2,13 +2,13 @@
 layout: ../../../layouts/Article.astro
 title: "Tản Mạn Về \"Ngày Lễ Tạ Ơn\""
 author: "Trần Chung Ngọc"
-source: "https://sachhiem.net/TCN/TCNtg/TCN26.php"
+source: "/TCN/TCNtg/TCN26"
 lang: vi
 wordCount: 5698
-image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nha.jpg"
+image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/LICHSU/IMG/HoaKy/Cavalry_and_Indians.jpg"
 ---
 
-<p align="center"> <a href="/index"><img border="0" src="https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nha.jpg" align="middle" hspace="20"></a>  17 tháng 11, 2007	</p>
+<p align="center">   17 tháng 11, 2007	</p>
  <center>
    <p align="center"> <img src="https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/LICHSU/IMG/HoaKy/Cavalry_and_Indians.jpg" alt="" width="300" height="205" border="0"></p>
    <p align="center"><i> Ấn bản màu năm 1899 vẽ lại cảnh kỵ binh
@@ -498,7 +498,7 @@ Deboutish, who made this great day possible.</p>
 			<p>- <a href="/TCN/TCNtg/TCN26">Tản mạn về "NGÀY LỄ TẠ ƠN" (Trần Chung Ngọc)</a></p>
 			<p>- <a href="/TCN/TCNtg/TCN59">Hãy Tạ Ơn Chúa ! (Trần Chung Ngọc)</a></p>
 		 <p>- <a href="/TONGIAO/tgV/VuongVu03">Vài Cảm Nghĩ Về Lễ Tạ Ơn (Vương Vũ)</a></p>
-			<p>- <a href="https://sachhiem.net/LICHSU/DaoVien/DaoVien02.php">Tạ Ơn và Tạ Lỗi - Sự Thật và Huyền Thoại </a>(Đào Viên)</p>
+			<p>- <a href="/LICHSU/DaoVien/DaoVien02">Tạ Ơn và Tạ Lỗi - Sự Thật và Huyền Thoại </a>(Đào Viên)</p>
 	<hr>
 	<a href="/TCN/TCNtongiao">Các bài về tôn giáo cùng tác giả</a> 
 

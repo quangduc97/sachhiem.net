@@ -3,7 +3,7 @@ layout: ../../../layouts/Article.astro
 title: "Xưa Tôi Là Lính Việt Nam Cộng Hòa"
 author: "Phan Tấn Công"
 date: 2026-01-25
-source: "https://sachhiem.net/LICHSU/P/PhanTanCong_01.php"
+source: "/LICHSU/P/PhanTanCong_01"
 category: "Chính trị"
 lang: vi
 wordCount: 44859

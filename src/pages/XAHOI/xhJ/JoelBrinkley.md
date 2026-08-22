@@ -3,17 +3,16 @@ layout: ../../../layouts/Article.astro
 title: "Đơn Yêu Cầu \"Giáo Sư Joel Brinkley"
 author: "Jason Nguyên/SH"
 date: 2013-02-08
-source: "https://sachhiem.net/XAHOI/xhJ/JoelBrinkley.php"
+source: "/XAHOI/xhJ/JoelBrinkley"
 category: "Xã hội"
 lang: vi
 wordCount: 1250
-image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nha.jpg"
+image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/Balance.jpg"
 ---
 
 <table border="0" cellpadding="1" width="250" align="center">
 <tbody><tr>
-<td><a href="/index">
-<img border="0" src="https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nha.jpg"></a></td>
+<td></td>
 <td valign="top">
 </td>
 </tr>

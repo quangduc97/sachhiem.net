@@ -2,7 +2,7 @@
 layout: ../../layouts/Article.astro
 title: "CHƯƠNG 1:"
 author: "Cao Huy Thuần"
-source: "https://sachhiem.net/CAOHT/CHTDaoTC_002.php"
+source: "/CAOHT/CHTDaoTC_002"
 category: "Tác giả"
 lang: vi
 wordCount: 13511

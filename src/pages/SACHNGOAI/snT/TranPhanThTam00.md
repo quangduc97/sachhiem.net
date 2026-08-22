@@ -3,7 +3,7 @@ layout: ../../../layouts/Article.astro
 title: "Tội Tổ Tông Và Phong Trào Phục Hưng"
 author: "Tác giả: Takahiko Soejima"
 date: 2015-03-04
-source: "https://sachhiem.net/SACHNGOAI/snT/TranPhanThTam00.php"
+source: "/SACHNGOAI/snT/TranPhanThTam00"
 category: "Văn hóa"
 lang: vi
 wordCount: 1452

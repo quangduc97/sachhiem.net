@@ -3,7 +3,7 @@ layout: ../../../layouts/Article.astro
 title: "M.Taylor Fravel nói về xung đột Việt-Trung"
 author: "M. Taylor Fravel /Edward Wong thực hiện"
 date: 2014-05-11
-source: "https://sachhiem.net/THOISU_CT/ChuH/HuynhvanHoa.php"
+source: "/THOISU_CT/ChuH/HuynhvanHoa"
 category: "Tác giả"
 lang: vi
 wordCount: 2476

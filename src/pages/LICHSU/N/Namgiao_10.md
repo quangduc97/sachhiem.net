@@ -3,7 +3,7 @@ layout: ../../../layouts/Article.astro
 title: "Đảng Cần Lao Nhân Vị Và Các Tổ Chức Ngoại Vi"
 author: "Trần Văn Đôn"
 date: 2023-11-04
-source: "https://sachhiem.net/LICHSU/N/Namgiao_10.php"
+source: "/LICHSU/N/Namgiao_10"
 category: "Chính trị"
 lang: vi
 wordCount: 1572

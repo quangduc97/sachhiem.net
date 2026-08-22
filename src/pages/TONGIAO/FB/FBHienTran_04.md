@@ -3,7 +3,7 @@ layout: ../../../layouts/Article.astro
 title: "Dùng “Chúa” Để Giải Thích Vũ Trụ là Trốn Tránh Trách Nhiệm Trí Tuệ."
 author: "Hiên Trần"
 date: 2026-04-17
-source: "https://sachhiem.net/TONGIAO/FB/FBHienTran_04.php"
+source: "/TONGIAO/FB/FBHienTran_04"
 category: "Tác giả"
 lang: vi
 wordCount: 1720

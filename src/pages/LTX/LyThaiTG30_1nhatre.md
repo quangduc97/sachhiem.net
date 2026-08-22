@@ -3,7 +3,7 @@ layout: ../../layouts/Article.astro
 title: "Những Bóng Ma Trong Nhà Trẻ St. Joseph ở Burlington P2"
 author: "Lý Thái Xuân"
 date: 2021-05-11
-source: "https://sachhiem.net/LTX/LythaiTG30_1nhatre.php"
+source: "/LTX/LythaiTG30_1nhatre"
 category: "Tác giả"
 lang: vi
 wordCount: 4059
@@ -15,11 +15,11 @@ image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/TONGIAO/IMG/MASOEUR/
      
      
      <div class="tomluoc">
-       <p><i><a href="https://sachhiem.net/LTX/LythaiTG30_1nhatre.php">Bài 2: Luật sư Philip White và người khách "bí ẩn"</a> </i></p>
+       <p><i><a href="/LTX/LythaiTG30_1nhatre">Bài 2: Luật sư Philip White và người khách "bí ẩn"</a> </i></p>
        <p><i>Barquin cho biết anh mới kết hôn và người vợ mới của anh đã bị sốc khi chứng kiến những vết sẹo khủng khiếp trên bộ phận sinh dục của anh</i>.     </p>
      </div>
-         <div class="leftborder"><p><i>Xem lời giới thiệu ở <a href="https://sachhiem.net/LTX/LythaiTG30.php">Bài 1</a></i></p>
-<p><i><a href="https://sachhiem.net/LTX/LythaiTG30.php">Bài 1: Bà Sally Dale tường thuật. </a></i></p>
+         <div class="leftborder"><p><i>Xem lời giới thiệu ở <a href="/LTX/LythaiTG30">Bài 1</a></i></p>
+<p><i><a href="/LTX/LythaiTG30">Bài 1: Bà Sally Dale tường thuật. </a></i></p>
 </div>
       <p align="center"><img src="https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/TONGIAO/IMG/MASOEUR/Conhivien_StJoseph_PhilipWhite_lawyer.jpg" width="300" height="300" alt=""></p>
      <p class="TuaDenLeft">2. Luật sư Philip White và người khách "bí ẩn"</p>
@@ -93,6 +93,6 @@ image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/TONGIAO/IMG/MASOEUR/
   <p>Sally Miller, người phụ nữ đã đề nghị liên hệ với giám mục tại một trong những cuộc họp của những người sống sót của Lật sư White, đã tự đến thăm ông. Cô ấy nói rằng ông ấy đã nói với cô rằng nếu luật pháp thời hiện đại được áp dụng khi ông ấy còn là một đứa trẻ, thì chính cha của ông ấy cũng bị buộc tội lạm dụng trẻ em, nhưng ông ấy đã vượt qua những gì đã xảy ra với ông ấy. Ông ấy không hiểu tại sao những người khác không thể vượt qua những gì đã xảy ra với họ. <i>"Họ chỉ là những đứa trẻ,"</i> Miller sau đó đã làm chứng rằng cô đã nói với ông ta. </p>
   <p><i>Thật ra, những nữ tu này chỉ là những phụ nữ thất vọng,</i> cô ấy đáp. <i>Họ không có con  và họ không biết làm thế nào để xử lý chúng (trẻ con)</i>.</p>
   
-   <p>(xem tiếp, <a href="https://sachhiem.net/LTX/LythaiTG30_2nhatre.php"><i>bài 3: Luật sư Robert Widman vào cuộc </i></a>)</p>
+   <p>(xem tiếp, <a href="/LTX/LythaiTG30_2nhatre"><i>bài 3: Luật sư Robert Widman vào cuộc </i></a>)</p>
      <p class="TacgiaL">Lý Thái Xuân trích dịch</p>
      <p class="nguonL">Nguồn: <a href="https://www.buzzfeednews.com/article/christinekenneally/orphanage-death-catholic-abuse-nuns-st-josephs">https://tinyurl.com/7w5mmtr6</a></p>

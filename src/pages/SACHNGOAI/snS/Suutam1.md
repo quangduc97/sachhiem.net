@@ -2,18 +2,18 @@
 layout: ../../../layouts/Article.astro
 title: "Gíao Hội Công Gíao Mỹ Phát Hành Sách"
 author: "Sưu Tầm Của Pháp Tân"
-source: "https://sachhiem.net/SACHNGOAI/snS/Suutam1.php"
+source: "/SACHNGOAI/snS/Suutam1"
 category: "Tác giả"
 lang: vi
 wordCount: 927
-image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nha.jpg"
+image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/TONGIAO/IMG/CARTOON/Sexualabuse.jpg"
 ---
 
 <p class="Tuaduoi">
 Cảnh Cáo Các Trẻ Em Về Các Linh Mục Ấu Dâm</p>
 
        
-          <p align="center"><a href="/SACHNGOAI/index"><img hspace="20" border="0" src="https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nha.jpg"></a> 10 tháng 12, 2007</p>
+          <p align="center"> 10 tháng 12, 2007</p>
 	
 	<p><b>Gíao hội Công gíao Mỹ phát hành sách, cảnh cáo các trẻ em về các linh 
 	mục ấu dâm.</b></p>

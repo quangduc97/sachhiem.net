@@ -3,7 +3,7 @@ layout: ../../../layouts/Article.astro
 title: "Nghề Đi Tu - Chuyện Gì Mà Om Sòm Thế?"
 author: "Nguyễn Hữu Ba"
 date: 2015-03-30
-source: "https://sachhiem.net/TONGIAO/tgN/NguyenHBa10.php"
+source: "/TONGIAO/tgN/NguyenHBa10"
 category: "Xã hội"
 lang: vi
 wordCount: 3165
@@ -116,4 +116,4 @@ image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/TONGIAO/IMG/TINHDUC/
             <i> </i>______________________ </p>
           <p>Các bài của Nguyễn Hữu Ba: </p>
 <p>
-  link <a href="https://sachhiem.net/TONGIAO/tgN/ListNHBa.inc.php" target="_blank"> https://sachhiem.net/TONGIAO/tgN/ListNHBa.inc.php</a></p>
+  link <a href="/TONGIAO/tgN/ListNHBa.inc" target="_blank"> https://sachhiem.net/TONGIAO/tgN/ListNHBa.inc.php</a></p>

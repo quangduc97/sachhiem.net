@@ -3,7 +3,7 @@ layout: ../../../layouts/Article.astro
 title: "MÙA XUÂN ĐÃ TỚI"
 author: "Nguyễn Công Tiến"
 date: 2018-04-30
-source: "https://sachhiem.net/VANHOC/N/NguyenCongTien.php"
+source: "/VANHOC/N/NguyenCongTien"
 category: "Chính trị"
 lang: vi
 wordCount: 2220

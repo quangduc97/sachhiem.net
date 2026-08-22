@@ -3,7 +3,7 @@ layout: ../../../layouts/Article.astro
 title: "30 Tháng 4 Lại Về"
 author: "Trần Hải Âu"
 date: 2021-04-26
-source: "https://sachhiem.net/THOISU_CT/ChuH/HaiAu02.php"
+source: "/THOISU_CT/ChuH/HaiAu02"
 category: "Chính trị"
 lang: vi
 wordCount: 2403

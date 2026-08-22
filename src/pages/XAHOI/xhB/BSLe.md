@@ -3,7 +3,7 @@ layout: ../../../layouts/Article.astro
 title: "39 Tử Thi Và Những Chuyện Liều Mạng Mong Làm Giàu"
 author: "Bác Sĩ Steven Le"
 date: 2019-11-10
-source: "https://sachhiem.net/XAHOI/xhB/BSLe.php"
+source: "/XAHOI/xhB/BSLe"
 category: "Xã hội"
 lang: vi
 wordCount: 942

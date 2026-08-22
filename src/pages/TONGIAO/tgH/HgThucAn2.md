@@ -2,15 +2,13 @@
 layout: ../../../layouts/Article.astro
 title: "\"Theo Ước Vọng Của Cha Các Ngươi\""
 author: "Hoàng Thục An"
-source: "https://sachhiem.net/TONGIAO/tgH/HgThucAn2.php"
+source: "/TONGIAO/tgH/HgThucAn2"
 category: "Tác giả"
 lang: vi
 wordCount: 4723
-image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nha.jpg"
 ---
 
-<p align="center"><a href="https://www.sachhiem.net/">
-	<img border="0" src="https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nha.jpg"></a> 17 tháng 3, 2009	</p>
+<p align="center"> 17 tháng 3, 2009	</p>
 <p><i>LTS: Bài viết sau đây gồm các tài liệu được tác giả sưu tầm để trao đổi với một loạt các bài giảng  (ở dưới bài viết) mà phuong ngo &lt;tuyphuongngo56@yahoo.com&gt;, mộ con chiên ngoan đạo gửi ra khắp các diễn đàn. Lá thư có nhiều tiểu đề, bài viết chú ý tới một đoạn của "bài giảng" rất đặc biệt mang tiểu đề "NGƯỜI PHỤ NỮ CỦA CHIẾN THẮNG".  Xin mời quí vị cùng đọc. Câu hỏi của tác giả không phải chỉ đặt ra cho người viết "lời Chúa", mà là một câu hỏi lớn cho tất cả những tín hữu Công Giáo Việt Nam chúng ta cùng suy niệm. Ai là Cha của những nhóm người tạo nên lịch sử ô nhục này? (SH đề tựa)</i> </p>
 <hr>
 		<p>Đoạn dẫn: </p>

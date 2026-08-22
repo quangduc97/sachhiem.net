@@ -3,7 +3,7 @@ layout: ../../../layouts/Article.astro
 title: "Vấn Đề: Tế Bào Gốc Trong Cộng Đồng Việt"
 author: "Tiến Sĩ Nguyễn Thượng Vũ"
 date: 2014-09-15
-source: "https://sachhiem.net/XAHOI/xhN/NguyenThgVu.php"
+source: "/XAHOI/xhN/NguyenThgVu"
 category: "Chính trị"
 lang: vi
 wordCount: 5261

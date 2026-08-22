@@ -2,16 +2,16 @@
 layout: ../../layouts/Article.astro
 title: "Biết Chết Liền!"
 author: "Trần Thị Vĩnh Tường"
-source: "https://sachhiem.net/TRTVT/TTVT_CT01.php"
+source: "/TRTVT/TTVT_CT01"
 category: "Chính trị"
 lang: vi
 wordCount: 1973
-image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nha.jpg"
+image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/THOISU_CT/Hinh/CDng/Baucu11_2010.jpg"
 ---
 
 <table border="0" cellpadding="0" width="250" align="center">
             <tbody><tr>
-              <td width="125"><a href="/index"><img border="0" src="https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nha.jpg"></a></td>
+              <td width="125"></td>
 		<td valign="top">	23 tháng 11, 2010
 		</td></tr></tbody></table>
 		<p><span class="First">O</span>range County nơi đông người Việt nhất 

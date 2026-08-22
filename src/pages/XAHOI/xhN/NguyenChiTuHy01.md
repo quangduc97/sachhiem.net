@@ -2,14 +2,14 @@
 layout: ../../../layouts/Article.astro
 title: "Câu Chuyện Lạy Cha"
 author: "Nguyên Chi-Từ Hy Hữu"
-source: "https://sachhiem.net/null"
+source: "/null"
 category: "Văn hóa"
 lang: vi
 wordCount: 4727
-image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nha.jpg"
+image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/sqdot.gif"
 ---
 
-<div align="center" style="position: relative;  left: 0;  top: 0"><table border="2" width="700" bgcolor="#F5F5F5" id="table1"><tbody><tr><td><table id="0" border="0" cellpadding="0" cellspacing="0" width="700" bgcolor="#FDFDFD" bordercolor="#FF9966" bordercolorlight="#FFFFCC" bordercolordark="#606060"><tbody><tr><td></td></tr><tr><td width="100%"><div style="padding-left: 50px;  padding-right: 50px"><table border="0" cellpadding="1" width="600" cols="2"><tbody><tr><td><a href="/index"><img border="0" src="https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nha.jpg"></a></td><td valign="top" width="184"><p>04 tháng 5, 2011 </p></td></tr></tbody></table><p><i>(Lời giới thiệu: Câu chuyện sau đây do một đại tá HO kể trong một buổi hàn huyên thân mật. Tác giả lược đi các chi tiết cá nhân trong khi giữ lại câu chuyện không hư cấu.)</i></p>
+<div align="center" style="position: relative;  left: 0;  top: 0"><table border="2" width="700" bgcolor="#F5F5F5" id="table1"><tbody><tr><td><table id="0" border="0" cellpadding="0" cellspacing="0" width="700" bgcolor="#FDFDFD" bordercolor="#FF9966" bordercolorlight="#FFFFCC" bordercolordark="#606060"><tbody><tr><td></td></tr><tr><td width="100%"><div style="padding-left: 50px;  padding-right: 50px"><table border="0" cellpadding="1" width="600" cols="2"><tbody><tr><td></td><td valign="top" width="184"><p>04 tháng 5, 2011 </p></td></tr></tbody></table><p><i>(Lời giới thiệu: Câu chuyện sau đây do một đại tá HO kể trong một buổi hàn huyên thân mật. Tác giả lược đi các chi tiết cá nhân trong khi giữ lại câu chuyện không hư cấu.)</i></p>
 
 
 <p><span class="First">C</span>ùng tháng 11/1978 ấy, anh Bửu được người cha Cách Mạng đến thăm cỡ hai tuần, sau là Đại tá Lê Đình Luân cũng được người cha Cách Mạng đến thăm. </p>

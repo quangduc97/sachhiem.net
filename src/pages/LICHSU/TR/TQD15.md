@@ -3,15 +3,15 @@ layout: ../../../layouts/Article.astro
 title: "Cám Ơn Thực Dân Pháp?"
 author: "Trần Quang Diệu"
 date: 2012-07-04
-source: "https://sachhiem.net/LICHSU/TR/TQD15.php"
+source: "/LICHSU/TR/TQD15"
 category: "Lịch sử"
 lang: vi
 wordCount: 8357
-image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nha.jpg"
+image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/LICHSU/IMG/SACH/nguyen-xuan-tho.jpg"
 ---
 
 <table border="0" cellpadding="0" width="250" align="center"><tbody><tr>
-	<td width="125"><a href="/index"><img border="0" src="https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nha.jpg"></a></td>
+	<td width="125"></td>
 <td valign="middle">04-Jul-2012 </td>
 		</tr></tbody></table>
         <p><i>LTS: Nếu không được nghe những lá thư phản hồi như của tác giả Trần Quang
@@ -108,7 +108,7 @@ image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nha.jpg"
   4) Nguyễn Mạnh Quang, Việt Nam Đệ Nhất Cộng Hòa Toàn Thư 1954-1963, USA, 1998,
   tr 255, 256. </p><hr>
 <p><b>Phản hồi của độc giả: </b></p>
-<p>2012-07-05 - <a href="/index.php?content=showemail&amp;id=124">Ông chiên Vũ Linh
+<p>2012-07-05 - <a href="/net/LICHSU/TR/TQD15">Ông chiên Vũ Linh
   Châu - các đề nghị - ngưng tranh luận</a> - <i>D.D Ngo - Lien Nguyen </i>- </p><hr>
 <p><span class="green">☞</span> <i><b>From:</b> Tran Quang Dieu [mailto:tranquangdieu@hotmail.com] <br>
     <b>Sent:</b> Tuesday, July 03, 2012 5:32 AM<br>

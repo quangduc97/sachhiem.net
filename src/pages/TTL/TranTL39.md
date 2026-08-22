@@ -3,7 +3,7 @@ layout: ../../layouts/Article.astro
 title: "Người Không Tin Hay Người Vô Thần?"
 author: "Trần Tiên Long"
 date: 2013-02-24
-source: "https://sachhiem.net/TTL/TranTL39.php"
+source: "/TTL/TranTL39"
 category: "Tác giả"
 lang: vi
 wordCount: 3057
@@ -82,8 +82,8 @@ wordCount: 3057
 <p>Câu   kết luận của Bác Sĩ rằng,</p>
 <p><i>“Kết   luận hôm nay của Hoàng là chúng ta chỉ có thể bác bỏ cái thượng đế mà con người   "sáng tạo" ra thôi.”</i></p>
 <p>là   để dành chỗ cho một Thượng đế khác, nhưng bác sĩ lại không cho đọc giả biết là   Thượng đế khác đó như thế nào. Mọi sự đều có thể, nhưng chúng ta cần xác định   tính xác suất của điều có thể đó là cao hay thấp. Cũng có thể có ông kẹ, ông   táo, ông già Noel… bởi lẽ chẳng có ai chứng minh phủ định được những sinh vật   tưởng tưởng này. Thượng đế nào cũng vậy, chẳng khác gì ông táo, ông kẹ, ông già   Noel.. mà đôi khi chúng ta cũng có cảm nghiệm mơ hồ, nhất là khi còn ở tuổi vị   thành niên, chưa đầy đủ trưởng thành. Kết luận của Bác Sĩ chỉ là một kiểu cách   nói để làm vấn đề nhẹ nhàng hơn thôi, chứ trong thực chất thì chúng ta chẳng có   khác gì nhau. </p>
-<p>Bác   Sĩ có bàn sơ qua về <i>thức</i>, nhưng   theo tôi, cái <i>thức</i> đó cũng   tan biến khi con người nằm xuống, bởi vì nó hoàn toàn lệ thuộc vào khối óc của   con người. Cũng có lần Bác Sĩ Nguyễn Hoài Vân bàn về <i>ý thức   (consciousness)  nằm trong </i><i>mọi   vật</i>. Tôi cũng đã có trao đổi trong bài <u><a href="https://sachhiem.net/index.php?content=showrecipe&amp;id=859" target="_blank">Trao đổi với ông   Nguyễn Hoài Vân</a></u>.</p>
-<p>Thường   khi chúng ta bàn về Thượng đế thì trước tiên chúng ta cần phải xác định là   Thượng đế nào. Có đủ thứ hầm bà lằng Thượng đế nên dễ bị lộn tùng phèo, đưa đến   việc ông nói gà, bà nói vịt. Những gì tôi viết và bàn về Thượng đế chính là   Thượng đế của Độc Thần giáo mà người tín hữu Ca-tô gọi là Thiên Chúa. Bài <u><a href="https://sachhiem.net/index.php?content=showrecipe&amp;id=861" target="_blank">Hai Lối Chứng Minh   Không Có Thượng Đế</a></u><i> </i>tôi đưa ra   trong chuỗi điện thư này cũng là về Thượng đế đó. Đó là một Thượng đế toàn năng,   có đầy đủ nhân tính hỉ, nộ, ái, ố của con người trong Thánh Kinh (personal   God).</p>
+<p>Bác   Sĩ có bàn sơ qua về <i>thức</i>, nhưng   theo tôi, cái <i>thức</i> đó cũng   tan biến khi con người nằm xuống, bởi vì nó hoàn toàn lệ thuộc vào khối óc của   con người. Cũng có lần Bác Sĩ Nguyễn Hoài Vân bàn về <i>ý thức   (consciousness)  nằm trong </i><i>mọi   vật</i>. Tôi cũng đã có trao đổi trong bài <u><a href="/TTL/TranTL02" target="_blank">Trao đổi với ông   Nguyễn Hoài Vân</a></u>.</p>
+<p>Thường   khi chúng ta bàn về Thượng đế thì trước tiên chúng ta cần phải xác định là   Thượng đế nào. Có đủ thứ hầm bà lằng Thượng đế nên dễ bị lộn tùng phèo, đưa đến   việc ông nói gà, bà nói vịt. Những gì tôi viết và bàn về Thượng đế chính là   Thượng đế của Độc Thần giáo mà người tín hữu Ca-tô gọi là Thiên Chúa. Bài <u><a href="/TTL/TranTL04" target="_blank">Hai Lối Chứng Minh   Không Có Thượng Đế</a></u><i> </i>tôi đưa ra   trong chuỗi điện thư này cũng là về Thượng đế đó. Đó là một Thượng đế toàn năng,   có đầy đủ nhân tính hỉ, nộ, ái, ố của con người trong Thánh Kinh (personal   God).</p>
 <p>Trân   trọng,</p>
 <p class="TacgiaL">Trần   Tiên Long</p>
 

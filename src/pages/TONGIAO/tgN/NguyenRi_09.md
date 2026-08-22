@@ -3,7 +3,7 @@ layout: ../../../layouts/Article.astro
 title: "Không Chỉ Đặt Câu Hỏi Đối Với 10 Điều Răn,"
 author: "Steve Siebold / Hufington Post"
 date: 2014-12-26
-source: "https://sachhiem.net/TONGIAO/tgN/NguyenRi_09.php"
+source: "/TONGIAO/tgN/NguyenRi_09"
 category: "Tác giả"
 lang: vi
 wordCount: 1176
@@ -45,4 +45,4 @@ ___________________
 <p class="nguonL">Nguồn <a href="https://www.huffingtonpost.com/steve-siebold/dont-just-question-the te_b_6367584.html?ncid=txtlnkusaolp00000592">https://www.huffingtonpost.com/ </a>  2014/12/24&nbsp;&nbsp;</p>
 
 __________________
- <p>Các bài của Nguyễn Ri: link <a href="https://sachhiem.net/TONGIAO/tgN/ListRiNguyen.inc.php" target="_blank">https://sachhiem.net/TONGIAO/tgN/ListRiNguyen.inc.php</a></p>
+ <p>Các bài của Nguyễn Ri: link <a href="/TONGIAO/tgN/ListRiNguyen.inc" target="_blank">https://sachhiem.net/TONGIAO/tgN/ListRiNguyen.inc.php</a></p>

@@ -2,16 +2,16 @@
 layout: ../../../layouts/Article.astro
 title: "BA MƯƠI THÁNG TƯ VÀ TÔI"
 author: "Trần Chung Ngọc"
-source: "https://sachhiem.net/index.php?content=showrecipe&id=404"
+source: "/TCN/TCNts/TCNts040"
 category: "Chính trị"
 lang: vi
 wordCount: 15362
-image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nha.jpg"
+image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/TCN/TCNts/Hinh/ChongTCS.jpg"
 ---
 
 <p class="Tuaduoi">TỪ KIẾN THỨC ĐẾN LẬP TRƯỜNG</p>
 
-<p align="center"><a href="/index"><img hspace="20" border="0" src="https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nha.jpg"></a> 25 tháng 4,  2009</p>
+<p align="center"> 25 tháng 4,  2009</p>
 	<hr>
 	<div style="background-color: #DCDCFF">
 		<i>...Có người chất vấn tôi: tại sao ông không chống Cộng mà lại đi chống Công giáo? 
@@ -221,7 +221,7 @@ kiện củ khoai”.
   <a href="https://www.intellnet.org/resources/american_terrorism/Vietnamesevictims.html">
   https://www.intellnet.org/ </a>. 
   Bài này đã được đăng trên trang nhà Sách Hiếm:
-  <a href="https://www.sachhiem.net/TCN/TCNts/TCNts25.php">
+  <a href="/TCN/TCNts/TCNts25">
     https://www.sachhiem.net/TCN/TCNts/TCNts25.php</a> với nguyên bản bằng tiếng Anh.</p>
 <div class="indent50">
   <p><i>Những tội phạm chiến tranh thuộc Thủy, Lục, Không quân Hoa Kỳ đã tàn 

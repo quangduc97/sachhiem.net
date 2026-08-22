@@ -3,7 +3,7 @@ layout: ../../../layouts/Article.astro
 title: "Các Đại Gia Mỹ Bắt Chẹt Và Trục Lợi Nhân Dân Mỹ"
 author: "Mike Wilson"
 date: 2015-08-21
-source: "https://sachhiem.net/sachhiem/THOISU_CT/ChuM/MikeWilson_06.php"
+source: "/sachhiem/THOISU_CT/ChuM/MikeWilson_06"
 category: "Chính trị"
 lang: vi
 wordCount: 708

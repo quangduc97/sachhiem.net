@@ -3,7 +3,7 @@ layout: ../../../layouts/Article.astro
 title: "Ngô Đình Nhu Thương Thuyết Với Hà Nội"
 author: "GS Howard Jones/ Nguyên Giác dịch"
 date: 2016-09-11
-source: "https://sachhiem.net/SACHNGOAI/snN/Nguyengiac_NDNthuongthuyet.php"
+source: "/SACHNGOAI/snN/Nguyengiac_NDNthuongthuyet"
 category: "Lịch sử"
 lang: vi
 wordCount: 8572
@@ -202,5 +202,5 @@ image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/SACHNGOAI/Hinhanh/BI
 <p><a href="/SACHNGOAI/snN/Nguyengiac_list_local">Các bài liên hệ - <b>Tài Liệu Mật Của Hoa Kỳ </b></a></p>
 <p>__________________</p>
 <p><b>Bài liên hệ cùng đề tài:</b></p>
-<p><a href="https://sachhiem.net/LICHSU/N/NgNgocGiao.php">- "1963: Tìm Hiểu Cuộc “Đi Đêm” Giữa Sài Gòn và Hà Nội" </a>(Nguyễn Ngọc Giao)
+<p><a href="/LICHSU/N/NgNgocGiao">- "1963: Tìm Hiểu Cuộc “Đi Đêm” Giữa Sài Gòn và Hà Nội" </a>(Nguyễn Ngọc Giao)
 </p>

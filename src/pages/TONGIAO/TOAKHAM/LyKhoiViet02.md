@@ -2,18 +2,17 @@
 layout: ../../../layouts/Article.astro
 title: "Chùa Báo Thiên và Nhà thờ Lớn Hà Nội"
 author: "Ts. Lý Khôi Việt"
-source: "https://sachhiem.net/TONGIAO/TOAKHAM/LyKhoiViet02.php"
+source: "/TONGIAO/TOAKHAM/LyKhoiViet02"
 category: "Tác giả"
 lang: vi
 wordCount: 6428
-image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nha.jpg"
 ---
 
 <p class="Tuaduoi">trên phương diện văn hóa, tôn giáo và pháp lý</p> 
 		
 		
 
-<p align="center"><a href="https://sachhiem.net/index.php"><img border="0" hspace="20" src="https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nha.jpg"></a>16 tháng 3, 2008</p>
+<p align="center">16 tháng 3, 2008</p>
 	
 		<p class="Tuaduoi">(Trả lời Giám mục Nguyễn Văn Sang, Linh mục Thiện Cẩm, Linh mục Hoàng Kim 
 	Lĩnh và các ông Mặc Giao, Lữ Giang, Trần Lê Nguyễn)</p>

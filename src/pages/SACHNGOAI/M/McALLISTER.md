@@ -2,11 +2,11 @@
 layout: ../../../layouts/Article.astro
 title: "Thích Trí Quang và Chiến tranh Việt Nam"
 author: "JAMES McALLISTER"
-source: "https://sachhiem.net/SACHNGOAI/M/McALLISTER.php"
+source: "/SACHNGOAI/M/McALLISTER"
 category: "Lịch sử"
 lang: vi
 wordCount: 20520
-image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nha.jpg"
+image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/SACHNGOAI/Hinhanh/PEOPLE/JamesMcCallister.jpg"
 ---
 
 <p class="Tuaduoi"> <font color="#333333">&nbsp;‘Only Religions Count in Vietnam’: Thich Tri Quang and the Vietnam War</font></p>
@@ -15,7 +15,7 @@ image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nha.jpg"
 
 
 
-<p align="center"><a href="/SACHNGOAI/index"><img hspace="20" border="0" src="https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nha.jpg"></a> 21 tháng 8, 2008 </p>
+<p align="center"> 21 tháng 8, 2008 </p>
 <div style="background-color: #CCCCCC; padding-left:10px; padding-right:10px; padding-top:5px; padding-bottom:5px">
 <p class="TuaDenLeft">Tóm tắt </p>
 <p><font size="2" color="#333333">Qua thời gian lâu dài, Thích Trí Quang  vẫn là một trong những nhân vật gây nhiều tranh cãi nhất  trong lịch sử Chiến tranh Việt Nam. Học giả bên cánh hữu thì  cho rằng Trí Quang chắc chắn là tay sai cộng sản hoạt động  theo chỉ thị của Hà Nội. Học giả bên cánh tả thì lí luận  rằng Trí Quang là một lãnh đạo tôn giáo ôn hoà dấn thân cho  dân chủ và quyết tâm đòi chấm dứt chiến cuộc nhanh chóng.  Bài viết này cho rằng cả hai lối lí giải ấy đều không có  tính thuyết phục. Như nhiều giới chức Hoa Kì đã kết luận  đúng đắn ngay trong thời gian cuộc chiến còn diễn ra, không  ai có bằng chứng vững chắc để nói được rằng Trí Quang là một  công cụ của cộng sản hay chí ít là có thiện cảm với những  mục tiêu của Hà Nội hay Mặt trận Dân tộc Gỉải phóng Miền Nam  (MTDTGPMN). Nếu căn cứ vào những bằng chứng được lưu trữ qua  các cuộc đàm thoại của Trí Quang với giới chức Mĩ thì rõ  ràng là, Trí Quang thực sự có thái độ chống cộng mạnh mẽ và  hoàn toàn chấp nhận việc Mĩ dùng sức mạnh quân sự đối với  Bắc Việt và Trung Quốc. Yếu tố chính dẫn đến xung đột giữa  phong trào Phật giáo và chính quyền Johnson là việc Trí  Quang quả quyết rằng các chế độ quân sự tiếp theo Ngô Đình  Diệm có thái độ thù nghịch với Phật giáo và thiếu khả năng  đưa cuộc chiến đấu chống chủ nghĩa Cộng sản đến một kết thúc  thắng lợi. </font> 

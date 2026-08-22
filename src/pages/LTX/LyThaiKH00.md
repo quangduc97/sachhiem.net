@@ -2,7 +2,7 @@
 layout: ../../layouts/Article.astro
 title: "Hào Quang Mặt Trời"
 author: "Lý Thái Xuân sưu tầm"
-source: "https://sachhiem.net/LTX/LyThaiKH00.php"
+source: "/LTX/LyThaiKH00"
 category: "Khoa học"
 lang: vi
 wordCount: 700

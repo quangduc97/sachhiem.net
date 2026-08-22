@@ -3,7 +3,7 @@ layout: ../../../layouts/Article.astro
 title: "Kỷ Niệm 55 Năm Tổng Tiến Công Và Nổi Dậy Xuân Mậu Thân 1968"
 author: "Nguyễn Quang Chánh"
 date: 2023-01-12
-source: "https://sachhiem.net/LICHSU/N/NguyenQuangChanh.php"
+source: "/LICHSU/N/NguyenQuangChanh"
 category: "Chính trị"
 lang: vi
 wordCount: 5526
@@ -106,7 +106,7 @@ image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/LICHSU/IMG/ANHUNG/AH
  <p class="nguonL">Nguồn <a href="https://www.facebook.com/anhphuong.nguyen.71271/posts/pfbid0tCMj5AQQ11VNLJ8q7S7SN9hmRV8UqYJVSzkiVatcJuGeEyABTBrSu1NiBdbNiu4l">FB Nguyễn Quang Chánh</a> ngày 17 tháng 1, 2023</p>
  <p>____________________</p>
  <p><b>Bài khác, cùng tác giả:</b></p>
- <p>-  <a href="https://sachhiem.net/LICHSU/N/NguyenQuangChanh.php">Kỷ Niệm 55 Năm Tổng Tiến Công Và Nổi Dậy Xuân Mậu Thân 1968</a></p>
+ <p>-  <a href="/LICHSU/N/NguyenQuangChanh">Kỷ Niệm 55 Năm Tổng Tiến Công Và Nổi Dậy Xuân Mậu Thân 1968</a></p>
  <p>_____________________</p>
  <p><b>Nhận xét của bạn đọc:</b></p>
  

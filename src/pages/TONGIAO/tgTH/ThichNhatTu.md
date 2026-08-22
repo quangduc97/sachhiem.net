@@ -3,7 +3,7 @@ layout: ../../../layouts/Article.astro
 title: "Phê bình “Thần Học Ky-Tô Giáo Theo Cung Cách Á Châu”"
 author: "Thích Nhật Từ"
 date: 2016-01-25
-source: "https://sachhiem.net/TONGIAO/tgTH/ThichNhatTu.php"
+source: "/TONGIAO/tgTH/ThichNhatTu"
 category: "Chính trị"
 lang: vi
 wordCount: 17816
@@ -14,7 +14,7 @@ image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/SACHNGOAI/Hinhanh/PE
   
   
   
-  <p><a href="https://sachhiem.net/TCN/TCNtg/TCN156_kitohoa.php">(xem Lời Nói Đầu)</a></p>
+  <p><a href="/TCN/TCNtg/TCN156_kitohoa">(xem Lời Nói Đầu)</a></p>
   <div class="tomluoc">
   <p><b>    LỜI  NGỎ</b></p>
   <p>   Tập sách nhỏ  nầy là bài thuyết trình của Đại Đức Thích Nhật Từ tại hai ngày hội thảo  <i>"Thần Học Kitô Giáo theo Cung Cách Châu Á"</i> của Mục Sư Tống Tuyền  Thịnh do Ủy Ban Đoàn Kết Công Giáo Hồ Chí Minh tổ chức với sự tham dự của các  nhà nghiên cứu, Viện Khoa Học Xã Hội Tp. Hồ Chí Minh, quý Đại Đức trẻ của Phật  Giáo, Quý Linh Mục, Mục Sư trong và ngoài nước, quý đại chủng sinh Đại Chủng  Viện Thánh Giuse Tp. Hồ Chí Minh và quý giáo dân trí thức của Thiên Chúa Giáo  tại Tp. Hồ Chí Minh. </p>

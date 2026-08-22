@@ -3,7 +3,7 @@ layout: ../../../layouts/Article.astro
 title: "TÍNH KHÔNG & HƯ VÔ CHỦ NGHĨA (III)"
 author: "Trần Trọng Sỹ"
 date: 2021-05-17
-source: "https://sachhiem.net/TTS/TG/TranTrongSy13_2.php"
+source: "/TTS/TG/TranTrongSy13_2"
 category: "Tác giả"
 lang: vi
 wordCount: 29327
@@ -970,6 +970,6 @@ Từ đó ta là đêm<br>
 
 
 <p><img src="https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/sqdot.gif" width="10" height="10"></p>
-<p><a href="https://sachhiem.net/TTS/TG/TranTrongSy13_3.php">(đón xem phần cuối: Tổng quan)</a></p>
+<p><a href="/TTS/TG/TranTrongSy13_3">(đón xem phần cuối: Tổng quan)</a></p>
 <p class="TacgiaL">Trần Trọng Sỹ </p>
  <p class="nguonL">Nguồn: tác giả gửi cho trang nhà sachhiem.net</p>

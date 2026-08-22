@@ -2,7 +2,7 @@
 layout: ../../../layouts/Article.astro
 title: "VESAK và BỐ ĐẠI HOÀ THƯỢNG"
 author: "Minh Mẫn"
-source: "https://sachhiem.net/null"
+source: "/null"
 lang: vi
 wordCount: 1135
 image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nhacu.jpg"
@@ -165,7 +165,7 @@ Gửi bài này cho bạn bè</font></a></td>
 <tr><td colspan="2"> 
 	<table border="0" cellpadding="0" cellspacing="0" id="bgcolor6" width="100%"> 	<tbody><tr>
 		<td width="100%" bgcolor="White" align="left" valign="top">	
-			<a href="https://sachhiem.net/MINHMAN/MMdir.php"><p class="trang">Trang Minh Mẫn</p></a>
+			<a href="/MINHMAN/MMdir"><p class="trang">Trang Minh Mẫn</p></a>
 		</td>	</tr>
 		</tbody></table>
 	

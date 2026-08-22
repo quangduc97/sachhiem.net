@@ -3,7 +3,7 @@ layout: ../../layouts/Article.astro
 title: "Tam Đoạn Luận - Khi Nào Đúng và Khi Nào Sai?"
 author: "Lý Thái"
 date: 2015-02-24
-source: "https://sachhiem.net/LTX/LyThaiXH19.php"
+source: "/LTX/LyThaiXH19"
 category: "Đối thoại"
 lang: vi
 wordCount: 1634

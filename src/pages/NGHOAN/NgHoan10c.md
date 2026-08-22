@@ -3,7 +3,7 @@ layout: ../../layouts/Article.astro
 title: "Trường Sa Nơi Đầu Sóng Ngọn Gió"
 author: "Nguyễn Hoàn"
 date: 2015-01-24
-source: "https://sachhiem.net/NGHOAN/NgHoan10_TS.php"
+source: "/NGHOAN/NgHoan10_TS"
 category: "Văn hóa"
 lang: vi
 wordCount: 2143
@@ -16,10 +16,10 @@ image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/NGHOAN/IMG/ChiThuong
  
 	<p>  <span class="First">T</span>rong  những ngày ra khơi, đánh vật cùng sóng gió và bao bất trắc khôn lường của biển  cả, những người ngư dân đã có đảo làm chỗ dựa vững chắc để bền lòng, miệt mài  bám biển. Các đảo là cơ sở “hậu cần” cho ngư dân trong khai thác, đánh bắt hải  sản như sửa chữa tàu cho ngư dân, san sẻ nhu yếu phẩm... , đặc biệt, các đảo  còn là nơi khám, điều trị, cấp thuốc, kể cả cấp cứu cho ngư dân khi bị ốm đau  hoặc thương tích, tai nạn trên biển. </p>
 <div class="danbai"><p><b>Xem toàn tập:</b></p>
- <p> <a target="_blank" href="https://sachhiem.net/NGHOAN/NgHoan10_TS.php"> 1 - Đảo Là Nhà, Biển Là Quê Hương</a></p>
- <p> <a target="_blank" href="https://sachhiem.net/NGHOAN/NgHoan10a.php"> 2 - Những Khúc Tưởng Niệm Trên Biển</a> </p>
-  <p> <a target="_blank" href="https://sachhiem.net/NGHOAN/NgHoan10b.php">3 - Lắng Tiếng Chuông Chùa</a> </p>
- <p> <a target="_blank" href="https://sachhiem.net/NGHOAN/NgHoan10c.php"> 4 - Thắm Tình Quân Dân - Những Nụ Mầm Mới </a> </p>
+ <p> <a target="_blank" href="/NGHOAN/NgHoan10_TS"> 1 - Đảo Là Nhà, Biển Là Quê Hương</a></p>
+ <p> <a target="_blank" href="/NGHOAN/NgHoan10a"> 2 - Những Khúc Tưởng Niệm Trên Biển</a> </p>
+  <p> <a target="_blank" href="/NGHOAN/NgHoan10b">3 - Lắng Tiếng Chuông Chùa</a> </p>
+ <p> <a target="_blank" href="/NGHOAN/NgHoan10c"> 4 - Thắm Tình Quân Dân - Những Nụ Mầm Mới </a> </p>
 </div>
 	<p>Đến đảo Trường Sa Đông, tôi đã tỷ tê  chuyện trò khá lâu với anh Ngô Công Tuấn, Bác sĩ Chuyên khoa 1, Bệnh xá trưởng  Bệnh xá Trường Sa Đông và vì vậy ít nhiều hiểu thêm chuyên môn sâu về cấp cứu  ngư dân của quân y trên đảo. Anh kể: <i>“Trong năm qua, chúng tôi đã cấp cứu các  trường hợp ngư dân bị giảm áp do lặn sâu, bị quặn thận do sỏi, bị ruột thừa.  Nặng nhất là ngư dân bị giảm áp, sau khi cấp cứu, các ngư dân đều ổn định sức  khỏe và trở lại tàu”</i>. Phần vì say với chuyện nghề, phần do xúc động nhớ lại  những lúc chứng kiến cơn nguy kịch của ngư dân, phần do tôi hỏi tỉ mẩn, anh  Tuấn nói với tôi mà như thể nói với người có chuyên môn sâu về cấp cứu trong  nghề y vậy:</p>
 	<p> “<i>Khi lặn sâu cứ 10 m thì làm tăng thêm 1 lít khí ni tơ ứ đọng trong  cơ thể. Có người lặn đến 80 m. Có những trường hợp bị liệt nửa người, đau đầu  dữ dội do khí ni tơ ứ đọng, không thoát ra được, chèn mạch máu. Tùy triệu chứng  mà xử lý</i>”. </p>
@@ -44,5 +44,5 @@ image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/NGHOAN/IMG/ChiThuong
 <p class="TacgiaR">&nbsp;NGUYỄN HOÀN</p>
 <p>_________________</p>
 <p><b>Bài đọc thêm:</b></p>
-<p>- <a href="https://sachhiem.net/LICHSU/H/HoangSa_list.php">Những bài về Trường Sa &amp; Hoàng Sa đăng trong sachhiem.net</a> (SH)
+<p>- <a href="/LICHSU/H/HoangSa_list">Những bài về Trường Sa &amp; Hoàng Sa đăng trong sachhiem.net</a> (SH)
 </p>

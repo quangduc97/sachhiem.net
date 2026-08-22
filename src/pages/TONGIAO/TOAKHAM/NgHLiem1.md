@@ -2,17 +2,16 @@
 layout: ../../../layouts/Article.astro
 title: "Một lịch sử đã muộn"
 author: "Nguyễn Hữu Liêm"
-source: "https://sachhiem.net/TONGIAO/TOAKHAM/.php"
+source: "/TONGIAO/TOAKHAM/"
 category: "Tác giả"
 lang: vi
 wordCount: 3680
-image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nha.jpg"
 ---
 
 <p class="Tuaduoi">(Góp ý với Lê Tuấn Huy về vấn đề Phật giáo và Công giáo ở Việt Nam)</p>
 		
 
-<p align="center"><a href="https://sachhiem.net/index.php"><img border="0" hspace="20" src="https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nha.jpg"></a>23 tháng 1, 2008</p>
+<p align="center">23 tháng 1, 2008</p>
 <p><b><font size="5" face="Times New Roman">K</font></b>arl Barth, vào năm 1957, 
 khi viết phần giới thiệu cho cuốn <em>The Essence of Christanity</em> của Ludwig 
 Feuerbach, đã diễn tả tính liên hệ của triết học Feuerbach với thần học Thiên 

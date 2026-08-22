@@ -2,17 +2,16 @@
 layout: ../../../layouts/Article.astro
 title: "Mùa Đông Lại Đến,"
 author: "Thiên Lôi"
-source: "https://sachhiem.net/THLOI/TG/ThienLoi001.php"
+source: "/THLOI/TG/ThienLoi001"
 category: "Tác giả"
 lang: vi
 wordCount: 4217
-image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nha.jpg"
 ---
 
 <p class="Tuaduoi"> Bàn Thêm Về Huyền Thoại Christmas </p>
 		
          
-<p align="center">  <a href="/index"><img border="0" src="https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nha.jpg"></a> 24 tháng 12, 2008	</p>
+<p align="center">   24 tháng 12, 2008	</p>
  <p><span class="First">T</span>hực là chán, trong khi thiên hạ đang trầm cảm 
 vì tình hình chung của thế giới càng ngày càng xám xịt, từ suy thoái kinh tế tài 
 chánh dẫn đến nạn thất nghiệp lên cao, từ chêt chóc tang thương do chiến tranh 

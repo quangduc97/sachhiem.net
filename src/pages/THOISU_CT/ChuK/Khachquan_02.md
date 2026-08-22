@@ -3,7 +3,7 @@ layout: ../../../layouts/Article.astro
 title: "Ông Tiến Sĩ Làm Ơn Cho Biết “Cứu Nước Là Gì”?"
 author: "Trần Khách Quan"
 date: 2014-07-08
-source: "https://sachhiem.net/THOISU_CT/ChuK/Khachquan_02.php"
+source: "/THOISU_CT/ChuK/Khachquan_02"
 category: "Tác giả"
 lang: vi
 wordCount: 1587

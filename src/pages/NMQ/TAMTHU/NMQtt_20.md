@@ -2,16 +2,16 @@
 layout: ../../../layouts/Article.astro
 title: "Tâm Thư Gửi Nhà Nước Việt Nam"
 author: "Nguyễn Mạnh Quang"
-source: "https://sachhiem.net/NMQ/TAMTHU/NMQtt_20.php"
+source: "/NMQ/TAMTHU/NMQtt_20"
 lang: vi
 wordCount: 11240
-image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nha.jpg"
+image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/print.gif"
 ---
 
-<p align="center"><a href="https://www.sachhiem.net/"> <img border="0" src="https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nha.jpg"></a> | 
-<a target="_blank" href="https://sachhiem.net/NMQ/TAMTHU/NMQtt_20.php">
+<p align="center"> | 
+<a target="_blank" href="/NMQ/TAMTHU/NMQtt_20">
 <img border="0" src="https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/print.gif" width="18" height="18"> 
- bản in </a>| <a target="_blank" href="https://sachhiem.net/NMQ/TAMTHU/NMQtt_Main.php"><span lang="en-us"><b>
+ bản in </a>| <a target="_blank" href="/NMQ/TAMTHU/NMQtt_Main"><span lang="en-us"><b>
 <font face="Symbol">¿</font></b></span> trở ra mục lục</a> | 21 tháng 12, 2009 </p>
 <p class="CHUONG">PHẦN III</p>
 <center>

@@ -3,7 +3,7 @@ layout: ../../layouts/Article.astro
 title: "Tại Sao Người Việt Không Thể Ngồi Cùng Nhau?"
 author: "Trần Văn Tuấn (Tuần Việt Nam)"
 date: 2015-01-08
-source: "https://sachhiem.net/XAHOI/TranvTuan.php"
+source: "/XAHOI/TranvTuan"
 category: "Chính trị"
 lang: vi
 wordCount: 1466

@@ -3,7 +3,7 @@ layout: ../../../layouts/Article.astro
 title: "Covid-19: Dân Mỹ Muốn Bảo Vệ Quyền Bỏ Phiếu"
 author: "AUSTIN SARAT- Mike Wilson tóm lược"
 date: 2020-04-20
-source: "https://sachhiem.net/THOISU_CT/ChuM/MikeWilson_25.php"
+source: "/THOISU_CT/ChuM/MikeWilson_25"
 category: "Chính trị"
 lang: vi
 wordCount: 2925

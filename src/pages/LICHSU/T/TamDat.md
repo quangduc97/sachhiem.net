@@ -2,7 +2,7 @@
 layout: ../../../layouts/Article.astro
 title: "Mậu Thân-Hố Chôn Tập Thể"
 author: "Tâm Đạt Trần Thông"
-source: "https://sachhiem.net/nguồn: https://www.nhandanvietnam.org/view.php?storyid=556"
+source: "/nguồn: https://www.nhandanvietnam.org/view.php?storyid=556"
 category: "Lịch sử"
 lang: vi
 wordCount: 10138

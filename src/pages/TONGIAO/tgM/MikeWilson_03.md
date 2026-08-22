@@ -3,14 +3,14 @@ layout: ../../../layouts/Article.astro
 title: "Vấn Đề Việt Hóa Đạo Ki-Tô"
 author: "Mike Wilson"
 date: 2016-04-27
-source: "https://sachhiem.net/TONGIAO/tgM/MikeWilson_03.php"
+source: "/TONGIAO/tgM/MikeWilson_03"
 category: "Tác giả"
 lang: vi
 wordCount: 1280
-image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nha.jpg"
+image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/TONGIAO/IMG/METIN/DongtenVN.jpg"
 ---
 
-<p align="center"><a href="https://www.sachhiem.net/"> <img border="0" src="https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nha.jpg"></a> 27-Apr-2016, bổ túc 02 July 2016</p>
+<p align="center"> 27-Apr-2016, bổ túc 02 July 2016</p>
    <p><i>LTS: Bức thư rất ngắn sau đây bao gồm cả một chương trình hành động  mà tác giả tin rằng sẽ giải quyết các vấn đề gây ra trong nước do những người nô lệ tâm linh vào một đế chế tinh thần ở nước ngoài. Dù vậy, nhiều đề nghị không thể thực hiện do chính bản chất của tôn giáo mà họ theo. </i></p>
    <p><i>Thí dụ, nếu đòi thờ cúng ông bà thì ngược với giáo lý xem tất cả loài người chỉ là tạo vật của Chúa, nên không thể thờ lạy ai, ngoài Chúa. Kế đến, quyền đánh đuổi ngoại xâm đối với các tín đồ bị xem là thứ yếu so với việc tranh đấu giành quyền cai trị trong nước về cho "dân Chúa".  Và, vì thế, các anh hùng dân tộc không là gì trong mắt họ. Tương tự như thế, các điều kiện kế tiếp cũng nghịch với tôn chỉ và giáo lý nhồi sọ trong nhà thờ: "chỉ có một đàng lên thiên đàng rất chính rất thật là đạo Thiên Chúa!" Thế nên, họ không thể xem các tôn giáo ngang tầm với họ! </i></p>
    <p><i>Tất cả những điều này đã được chứng minh trong các tài liệu đã đăng. Tuy nhiên, chúng tôi rất vui mừng chia sẻ những ý nghĩ độc đáo của tác giả. (SH) </i></p>
@@ -65,6 +65,6 @@ image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nha.jpg"
   <p><b>thứ  tư,</b> dùng ánh sáng minh triết tâm linh của dân tộc, bao gồm cả Tam  Giáo, để làm giảm bớt tính độc tôn hạn hẹp trong lối hiểu còn vô minh bất giác  của giáo lý Ki Tô&nbsp; </p>
   <p><b>thứ  năm,</b> kết hợp sự khai phóng giáo lý Ki Tô (cải hóa giáo lý của nó  bằng minh triết tâm linh đại đồng) với công cuộc khai phóng tâm thức chính trị  *** không lệ thuộc vào ý hệ phương  tây ***  mà hoàn toàn độc lập và  siêu ý hệ  để tự định hướng cho  việc phát triển tâm thức độc lập và khai triển chủ quyền Việt Nam cho con người  Việt Nam&nbsp; nth-fl </p>
   <p>&nbsp;__________________   </p>
-  <p><a href="https://sachhiem.net/index.php?content=showemail&amp;id=1581"><b>Vài Câu Hỏi Cho Người Đi  Truyền Đạo Chúa - Phần Cựu Ước</b> https://doimatviet.blogspot.com/2014/02/cau-hoi-cho-nguoi-truyen-giao.html</a></p>
-  <p><a href="https://sachhiem.net/index.php?content=showemail&amp;id=1582">&nbsp;<b>Vài Câu Hỏi Cho Người Đi Truyền Đạo Chúa -  Phần Tân Ước</b> (tiếp theo phần Cựu Ước)  https://sachhiem.net/index.php?content=showemail&amp;id=1581 </a></p>
+  <p><a href="/net/index"><b>Vài Câu Hỏi Cho Người Đi  Truyền Đạo Chúa - Phần Cựu Ước</b> https://doimatviet.blogspot.com/2014/02/cau-hoi-cho-nguoi-truyen-giao.html</a></p>
+  <p><a href="/net/index">&nbsp;<b>Vài Câu Hỏi Cho Người Đi Truyền Đạo Chúa -  Phần Tân Ước</b> (tiếp theo phần Cựu Ước)  https://sachhiem.net/index.php?content=showemail&amp;id=1581 </a></p>
   <p>&nbsp;... (song đó chỉ là chuyện nhỏ  <b>nếu nó không mang tính bành  trướng, bá quyền, độc trị ảnh hưởng đến đời sống chính trị, văn hóa, tâm linh  của cả dân tộc. </b>)</p>

@@ -3,7 +3,7 @@ layout: ../../layouts/Article.astro
 title: "Đối luận với Bà Mai Thị Huyền"
 author: "Bùi Kha"
 date: 2011-12-12
-source: "https://sachhiem.net/BUIKHA/BuiKha17_NTT.php"
+source: "/BUIKHA/BuiKha17_NTT"
 category: "Lịch sử"
 lang: vi
 wordCount: 7012
@@ -160,7 +160,7 @@ image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/print.gif"
     người kháng chiến đó đều được nhân dân ủng hộ nhiệt tình.</i>”</p>
 <p>Đọc  đến đây chắc hẳn độc giả đã thấy rõ rằng, Nguyễn Trường Tộ khuyên nên hợp tác  với Pháp là đi ngược lại ý muốn của toàn dân Việt Nam từ triều đình đến quần  chúng, và rất có lợi cho chương trình ổn định tình hình và kiện toàn guồng máy  cai trị của kẻ xâm lăng.</p>
 <p>Còn 5 điều làm cho dân giàu nước mạnh, Nguyễn Trường Tộ viết hoàn toàn sai
-  sử liệu, sai thực tế. Mời độc giả và bà Mai Thị Huyền đọc tác phẩm “<i><a href="https://sachhiem.net/BUIKHA/BuiKha01_NTT.php">Nguyễn
+  sử liệu, sai thực tế. Mời độc giả và bà Mai Thị Huyền đọc tác phẩm “<i><a href="/BUIKHA/BuiKha01_NTT">Nguyễn
     Trương Tộ   &amp; vấn đề canh tân</a>”,</i> Bùi Kha,<i> </i>SĐD, từ trang 88-112).</p>
    <p> <span class="green"> 3.</span>  </p>
 <p><b><i> Bà Mai Thị Huyền</i></b> viết<i> “theo Nguyễn Trường Tộ chỉ là ta

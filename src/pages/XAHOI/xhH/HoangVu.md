@@ -2,18 +2,17 @@
 layout: ../../../layouts/Article.astro
 title: "Phát Biểu Của TGM Ngô Quang Kiệt"
 author: "Hoàng vũ"
-source: "https://sachhiem.net/XAHOI/xhH/HoangVu1.php"
+source: "/XAHOI/xhH/HoangVu1"
 category: "Xã hội"
 lang: vi
 wordCount: 7300
-image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nha.jpg"
 ---
 
 <p class="Tuaduoi">Đọc Và Nhận Định Toàn Văn </p>
 		
 		
 
-<p align="center"><a href="https://sachhiem.net/index.php"> <img border="0" hspace="20" src="https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nha.jpg"></a>	 19 tháng 10, 2008</p>
+<p align="center">	 19 tháng 10, 2008</p>
 	 		
 			<p><i>LTS: Chuyện Ông Ngô Quang Kiệt phát biểu ngày 20 tháng 9 năm 2008 lẽ ra đã đi vào quá khứ. Nhưng các con chiên đã cực lực bênh vực và kéo dài việc "tố ngược" những thông tin đã chỉ "trích ra câu nói" gây tổn thương cho nhiều người nhất.  Thực ra, ở thời đại này không ai có ý giấu lại bản văn làm gì, khi cuộc nói chuyện đã được công khai diễn ra trong ánh sáng, và sự có mặt của phía Ngài Tổng Kiệt rất đông đảo.   Vì thế đã có nhiều người nghe tới nghe lui "toàn văn" và gửi đến sachhiem.net những nhận xét mới. Kính mời quí đọc giả xem những nhận xét thật xúc tích sau đây của tác giả Hoàng Vũ. (SH)</i>	</p>
 			<hr>

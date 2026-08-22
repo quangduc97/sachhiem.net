@@ -2,7 +2,7 @@
 layout: ../../../layouts/Article.astro
 title: "Nhân Ngày Giới Trẻ [Công Giáo] Thế Giới 2008"
 author: "The Canberra Times, By Dr. Swanton"
-source: "https://sachhiem.net/null"
+source: "/null"
 category: "Tác giả"
 lang: vi
 wordCount: 2541
@@ -26,7 +26,7 @@ image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nhacu.jpg"
 <tr><td bgcolor="#FEFEFE" width="100%">
 <div style="padding-left: 50px; padding-right: 50px"> 
 	<table border="0" cellpadding="10" width="85%" cols="2"><tbody><tr>
-	<td valign="top" width="198"><a href="https://sachhiem.net/"><img border="0" src="https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nhacu.jpg" width="49" height="20"></a></td>
+	<td valign="top" width="198"><a href="/"><img border="0" src="https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nhacu.jpg" width="49" height="20"></a></td>
 	<td valign="top" style="text-align:right">	23 tháng 7, 2008
 	</td></tr></tbody></table>
 	<p class="Tuaduoi">Ngày Giới Trẻ [Công Giáo] Thế Giới, Thời Điểm Để Những Tín Đồ Công Giáo Tìm Kiếm Sự Thật </p>

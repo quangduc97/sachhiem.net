@@ -2,14 +2,14 @@
 layout: ../../../layouts/Article.astro
 title: "Vài Lời Tâm Sự Với Sachhiem"
 author: "Đỗ Minh Hòa"
-source: "https://sachhiem.net/index.php?content=showrecipe&id=5703"
+source: "/TONGIAO/tgD/DoMinhHoa"
 category: "Tác giả"
 lang: vi
 wordCount: 1892
-image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nha.jpg"
+image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/DOITHOAI/IMG/BW_face_opt_illusn.jpg"
 ---
 
-<p align="center"><a href="/index"><img hspace="20" border="0" src="https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nha.jpg"></a>14-July-2013</p>
+<p align="center">14-July-2013</p>
 <p><i>LTS:   Minh Hòa  gần đây có gửi thư cho chúng tôi, trao đổi góp ý về một số   nhu cầu mới của lớp người trẻ. Nhân đó  có mấy lời tâm tình mà chúng tôi cảm thấy cần chia sẻ với các bạn đọc.  Minh Hòa chỉ mới 25 tuổi, vừa là người đã trưởng thành, nhưng cũng là một người thuộc giới trẻ cư ngụ ở Việt Nam. Tuy nhiên những suy nghĩ của Minh Hòa xem ra rất nghiêm túc, xin mời các bạn xem qua. (SH) </i></p>
 <hr>
 <p align="center"><img src="https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/DOITHOAI/IMG/BW_face_opt_illusn.jpg" width="200" height="248"></p>

@@ -2,7 +2,7 @@
 layout: ../../layouts/Article.astro
 title: "Unmasking Catholicism"
 author: "By Mary Ann Collins, a former Catholic nun"
-source: "https://sachhiem.net/nguồn: https://www.unmaskingcatholicism.com/Contents.shtml"
+source: "/nguồn: https://www.unmaskingcatholicism.com/Contents.shtml"
 lang: en
 wordCount: 1272
 image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/SACHNGOAI/file:///C:/SACHHIEM/images/mail.gif"

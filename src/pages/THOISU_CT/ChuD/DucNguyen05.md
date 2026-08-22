@@ -3,7 +3,7 @@ layout: ../../../layouts/Article.astro
 title: "Đừng Sống Trong Ảo Tưởng - Nghe Vậy Mà Không Phải Vậy !"
 author: "Đức Nguyễn"
 date: 2016-11-15
-source: "https://sachhiem.net/THOISU_CT/ChuD/DucNguyen05.php"
+source: "/THOISU_CT/ChuD/DucNguyen05"
 category: "Chính trị"
 lang: vi
 wordCount: 2257
@@ -69,8 +69,8 @@ image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/THOISU_CT/Hinh/VIETN
 <p>- <a href="https://www.baogiaothong.vn/cuu-giam-doc-hilton-hoa-lo-va-chuyen-ve-nhung-tu-binh-my-d155350.html">Cựu giám đốc “Hilton Hỏa Lò” và chuyện về những tù binh Mỹ</a></p>
 <p>____________________</p>
  <p><b>Bài cùng tác giả:</b></p>
- <p><a href="https://sachhiem.net/THOISU_CT/ChuD/DucNguyen03.php">- Chống Cộng Không Phải Chống Nhân Dân Đất Nước </a></p>
- <p><a href="https://sachhiem.net/THOISU_CT/ChuD/DucNguyen02.php">- Tại Sao Nhiều Người Thích Qua Mỹ? </a></p>
- <p><a href="https://sachhiem.net/THOISU_CT/ChuD/DucNguyen.php">- Lý Do Tại Sao Tôi Không Chống Cộng </a></p>
- <p><a href="https://sachhiem.net/THOISU_CT/ChuD/DucNguyen01.php">- Lập Trường và Quan Điểm Của Tôi (Về Lý Do Không Chống Cộng)</a></p>
- <p><a href="https://sachhiem.net/THOISU_CT/ChuD/DucNguyen04.php">- ÔN CỐ TRI TÂN </a></p>
+ <p><a href="/THOISU_CT/ChuD/DucNguyen03">- Chống Cộng Không Phải Chống Nhân Dân Đất Nước </a></p>
+ <p><a href="/THOISU_CT/ChuD/DucNguyen02">- Tại Sao Nhiều Người Thích Qua Mỹ? </a></p>
+ <p><a href="/THOISU_CT/ChuD/DucNguyen">- Lý Do Tại Sao Tôi Không Chống Cộng </a></p>
+ <p><a href="/THOISU_CT/ChuD/DucNguyen01">- Lập Trường và Quan Điểm Của Tôi (Về Lý Do Không Chống Cộng)</a></p>
+ <p><a href="/THOISU_CT/ChuD/DucNguyen04">- ÔN CỐ TRI TÂN </a></p>

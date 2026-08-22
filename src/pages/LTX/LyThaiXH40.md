@@ -3,7 +3,7 @@ layout: ../../layouts/Article.astro
 title: "Nghĩ Về Một Chuyến Qui Cố Hương"
 author: "Lý Thái Xuân"
 date: 2021-01-08
-source: "https://sachhiem.net/LTX/LyThaiXH40.php"
+source: "/LTX/LyThaiXH40"
 category: "Xã hội"
 lang: vi
 wordCount: 1746

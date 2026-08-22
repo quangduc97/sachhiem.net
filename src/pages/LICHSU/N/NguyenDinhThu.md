@@ -3,7 +3,7 @@ layout: ../../../layouts/Article.astro
 title: "Mặt Trận Việt Nam Công Giáo Cứu Quốc"
 author: "Khôi Nguyên Nguyễn Đình Thư"
 date: 2024-03-07
-source: "https://sachhiem.net/LICHSU/N/NguyenDinhThu.php"
+source: "/LICHSU/N/NguyenDinhThu"
 category: "Chính trị"
 lang: vi
 wordCount: 33744
@@ -408,4 +408,4 @@ image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/sqdot.gif"
 </p>
  <p class="nguonL">Nguồn: "<b>Một Thời Tranh Đấu - Hồi ký lịch sử 1942-1954"</b> https://diendan.vnthuquan.net/tm.aspx?&amp;m=904789&amp;mpage=1</p>
  
- <p>(<a href="https://sachhiem.net/printemail.php?id=3736">bấm vào link này để xem toàn mục lục và phần giới thiệu.</a>)</p>
+ <p>(<a href="/printemail.php?id=3736">bấm vào link này để xem toàn mục lục và phần giới thiệu.</a>)</p>

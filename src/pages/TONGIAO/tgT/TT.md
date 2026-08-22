@@ -2,7 +2,7 @@
 layout: ../../../layouts/Article.astro
 title: "Tin Không Nỗi"
 author: "A.L de Silva (T.T. dịch)"
-source: "https://sachhiem.net/null"
+source: "/null"
 category: "Tác giả"
 lang: vi
 wordCount: 2867

@@ -2,7 +2,7 @@
 layout: ../../../layouts/Article.astro
 title: "Tin học cho mọi người"
 author: "Bùi Thế Tâm"
-source: "https://sachhiem.net/null"
+source: "/null"
 category: "Khoa học"
 lang: vi
 wordCount: 1863

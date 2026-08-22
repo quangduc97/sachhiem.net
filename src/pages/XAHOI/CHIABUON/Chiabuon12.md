@@ -3,7 +3,7 @@ layout: ../../../layouts/Article.astro
 title: "Trên Đỉnh Cuộc Đời - Phân Ưu Muộn Đến Chị Lệ Hằng"
 author: "Trịnh thị Minh - Đông Hải"
 date: 2016-08-22
-source: "https://sachhiem.net/XAHOI/CHIABUON/Chiabuon11.php"
+source: "/XAHOI/CHIABUON/Chiabuon11"
 category: "Xã hội"
 lang: vi
 wordCount: 2099
@@ -77,4 +77,4 @@ image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/HOANGNN/Hinh/Hoang.J
 <p>  <b>HOÀNG NGUYÊN NHUẬN:</b></p>
 <p>  <b>Mối Tình Đoàn Hữu Hơn Ba Mươi Năm</b></p>
 <p>  <i>Quán Như</i></p>
-<p>  Link <a href="https://sachhiem.net/TONGIAO/tgQ/QuanNhu03.php">https://sachhiem.net/TONGIAO/tgQ/QuanNhu03.php</a></p>
+<p>  Link <a href="/TONGIAO/tgQ/QuanNhu03">https://sachhiem.net/TONGIAO/tgQ/QuanNhu03.php</a></p>

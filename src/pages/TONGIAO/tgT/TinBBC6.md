@@ -3,7 +3,7 @@ layout: ../../../layouts/Article.astro
 title: "Giáo Hoàng Francis: \"2% Giáo Sỹ Ấu Dâm”?"
 author: "Tin BBC"
 date: 2014-07-19
-source: "https://sachhiem.net/TONGIAO/tgT/TinBBC6.php"
+source: "/TONGIAO/tgT/TinBBC6"
 category: "Tác giả"
 lang: vi
 wordCount: 780
@@ -60,9 +60,9 @@ image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/TONGIAO/IMG/VATICAN/
 <p class="nguonL">nguồn https://www.bbc.co.uk/vietnamese/world/2014/07/140713_pope_on_clergy_paedophiles.shtml Cập nhật: 13:26 GMT - chủ nhật, 13 tháng 7, 2014 </p>
 ____________________
 <p><b>Bài liên quan:</b></p>
-<p>-<a href="https://sachhiem.net/LTX/LyThaiTS10.php"> ITCCS Tuyên Bố: Giáo Hội Ca Tô Rô Ma Là Một Tổ Chức Tội Phạm Quốc Tế </a>(Lý Thái tổng hợp) </p>
-<p>- <a href="https://sachhiem.net/TCN/TCNtg/TCN151_ITCCS.php">Một Văn Kiện Của ITCCS [Tòa Án Quốc Tế Xét Xử Tội Ác Của Giáo Hội và Chính Quyền]</a> - Trần Chung Ngọc dịch </p>
-<p>- <a href="https://sachhiem.net/TONGIAO/tgT/TinBBC4.php">Vatican Sẽ Điều Trần Trước LHQ Về Ấu Dâm</a> (Tin BBC) </p>
-<p>- <a href="https://sachhiem.net/TONGIAO/tgT/TinBBC5.php">LHQ lên án Vatican vì các vụ hiếp trẻ </a>(Tin BBC) </p>
-<p>- <a href="https://sachhiem.net/TONGIAO/tgT/TinBBC6.php">Giáo hoàng Francis: "2% giáo sỹ ấu dâm”</a> (Tin BBC) </p>
+<p>-<a href="/LTX/LyThaiTS10"> ITCCS Tuyên Bố: Giáo Hội Ca Tô Rô Ma Là Một Tổ Chức Tội Phạm Quốc Tế </a>(Lý Thái tổng hợp) </p>
+<p>- <a href="/TCN/TCNtg/TCN151_ITCCS">Một Văn Kiện Của ITCCS [Tòa Án Quốc Tế Xét Xử Tội Ác Của Giáo Hội và Chính Quyền]</a> - Trần Chung Ngọc dịch </p>
+<p>- <a href="/TONGIAO/tgT/TinBBC4">Vatican Sẽ Điều Trần Trước LHQ Về Ấu Dâm</a> (Tin BBC) </p>
+<p>- <a href="/TONGIAO/tgT/TinBBC5">LHQ lên án Vatican vì các vụ hiếp trẻ </a>(Tin BBC) </p>
+<p>- <a href="/TONGIAO/tgT/TinBBC6">Giáo hoàng Francis: "2% giáo sỹ ấu dâm”</a> (Tin BBC) </p>
 <hr>

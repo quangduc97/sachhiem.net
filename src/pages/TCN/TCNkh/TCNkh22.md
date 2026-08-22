@@ -3,7 +3,7 @@ layout: ../../../layouts/Article.astro
 title: "Giải Nobel Vật-Lý Cho “Hạt Gót”"
 author: "Trần Chung Ngọc"
 date: 2012-08-15
-source: "https://sachhiem.net/TCN/TCNkh/TCNkh22.php"
+source: "/TCN/TCNkh/TCNkh22"
 category: "Khoa học"
 lang: vi
 wordCount: 2318
@@ -70,8 +70,8 @@ image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/KHOAHOC/IMG/LAB/Pete
 </div>
 <p>__________________</p>
 <p><b>Bài liên quan:</b></p>
-<p>- "<i>Khoa học thần sầu! 10 bước dễ dàng để tìm hiểu hạt Higgs Boson</i>" (Chris Paine/ Lý Thái lược dịch) <a href="https://sachhiem.net/KHOAHOC/SH/%3Ca%20href=" ..="" khoahoc="" sh="" suutam02.php="suutam02.php">https://sachhiem.net/KHOAHOC/SH/Suutam02.php</a></p>
-<p>- "Hạt Chết Tiệt" (Trần Tiên Long) <a href="https://sachhiem.net/TTL/TranTL23.php">https://sachhiem.net/TTL/TranTL23.php</a></p>
+<p>- "<i>Khoa học thần sầu! 10 bước dễ dàng để tìm hiểu hạt Higgs Boson</i>" (Chris Paine/ Lý Thái lược dịch) <a href="/KHOAHOC/SH/%3Ca%20href=" ..="" khoahoc="" sh="" suutam02.php="suutam02.php">https://sachhiem.net/KHOAHOC/SH/Suutam02.php</a></p>
+<p>- "Hạt Chết Tiệt" (Trần Tiên Long) <a href="/TTL/TranTL23">https://sachhiem.net/TTL/TranTL23.php</a></p>
 <p>- Nhà khoa học Peter Higgs  tuyên bố về việc khám phá thành công hạt Higgs Boson (video tiếng Anh) </p>
 <p align="center"><iframe width="100%" height="270" src="//www.youtube.com/embed/tOhtoi9npw8" frameborder="0" allowfullscreen=""></iframe></p>
 <p>- <a href="https://www.asiantribune.com/news/2012/07/08/higgs-boson-statistical-life-line-elusive-particle"> Higgs boson: Dòng thời gian theo hống kê về một hạt khó nắm bắt.</a></p>

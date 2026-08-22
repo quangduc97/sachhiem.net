@@ -2,7 +2,7 @@
 layout: ../../../layouts/Article.astro
 title: "GIÁO HỘI LA MÃ:"
 author: "- Nguyễn Mạnh Quang -"
-source: "https://sachhiem.net/NMQ/HOSOTOIAC/MucX.php"
+source: "/NMQ/HOSOTOIAC/MucX"
 lang: vi
 wordCount: 5406
 ---

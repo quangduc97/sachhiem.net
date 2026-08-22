@@ -3,7 +3,7 @@ layout: ../../../layouts/Article.astro
 title: "Những Chuyện Kể Của PHGV"
 author: "Phượng Hoàng GV"
 date: 2015-11-06
-source: "https://sachhiem.net/LICHSU/P/PhuongHoang11.php"
+source: "/LICHSU/P/PhuongHoang11"
 category: "Lịch sử"
 lang: vi
 wordCount: 3729
@@ -155,5 +155,5 @@ Nhiều người khen hay, nhưng chưa rành về sự tích Hai Sắc Hoa Ti G
      <p>Còn một điều vô lý cổ điển và hơi buồn cười: Bà vợ ở với chồng đến 4 mặt con rồi mới "<i>thấy gót chân  có vệt chàm đỏ</i>" và nhận ra ông chồng chính là con trai của mình ngày trước!</p>
      <p>Nhưng rốt lại, ấn tượng của câu chuyện này vẫn là lòng hiếu của cô gái út Antigone. Tại sao chúng ta không đem vào <b>dịp lễ Vu Lan sắp tới,</b> trang hoàng một nơi nào đó để nhắc cho nhau nghe câu chuyện cảm động của cô nàng?</p>
      <hr> 
-<p>Các chuyện kể của Phượng Hoàng Gò Vấp: link <a href="https://sachhiem.net/LICHSU/P/ListPHGV.inc.php" target="_blank">https://sachhiem.net/LICHSU/P/ListPHGV.inc.php</a></p>  
+<p>Các chuyện kể của Phượng Hoàng Gò Vấp: link <a href="/LICHSU/P/ListPHGV.inc" target="_blank">https://sachhiem.net/LICHSU/P/ListPHGV.inc.php</a></p>  
   <hr>

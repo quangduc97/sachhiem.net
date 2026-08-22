@@ -3,7 +3,7 @@ layout: ../../../layouts/Article.astro
 title: "Người Việt Hải Ngoại- Bệnh Đói Anh Hùng"
 author: "Cao Hữu Tâm"
 date: 2014-11-09
-source: "https://sachhiem.net/TONGIAO/tgC/Caohtam20.php"
+source: "/TONGIAO/tgC/Caohtam20"
 category: "Tác giả"
 lang: vi
 wordCount: 8567

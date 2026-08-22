@@ -2,17 +2,16 @@
 layout: ../../../layouts/Article.astro
 title: "CON ĐƯỜNG CHUYỂN HÓA"
 author: "Trần Chung Ngọc"
-source: "https://sachhiem.net/TCN/TCNtg/TCN68.php"
+source: "/TCN/TCNtg/TCN68"
 lang: vi
 wordCount: 11255
-image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nha.jpg"
+image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/Next3.gif"
 ---
 
 <p class="Tuaduoi">hay TẢN MẠN VỀ...PHẬT &amp; GIÊSU</p>
 		
 
- <p align="center"><a href="https://www.sachhiem.net/">
-<img border="0" src="https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nha.jpg"></a> ngày 29 tháng 4, 2009</p>
+ <p align="center"> ngày 29 tháng 4, 2009</p>
 <p><b><i>LTS: </i></b><i> Bài viết sau đây tác giả viết vào cuối tháng 11, năm 2007, lúc bài “Phụ Đạo Các Thầy” (<a href="/DOITHOAI/mucdong">https://sachhiem.net/DOITHOAI/mucdong.php</a>) của Mục Đồng được đăng lên. Vì lý do sơ xuất tòa soạn bỏ sót cho đến hôm nay. Nhân có một vài emails bàn tán về một sự liên kết "anh em" gượng gạo giữa Phật và Chúa, tòa soạn bất chợt tìm thấy bài viết này, xin đăng lại muộn màng nhưng chưa mất thời gian tính. </i></p>
 		<p><i>Trong số các độc giả tán thưởng bài viết "Phụ Đạo Các Thầy", có điện thư 
 		của tác giả Trần Chung Ngọc. Ông tỏ ý thích thú trước một bài “viết như đùa 

@@ -1,11 +1,11 @@
 ---
 layout: ../../layouts/Article.astro
 title: "Con gái Thạch Lam về con phố gắn tên cha"
-source: "https://sachhiem.net/nguồn: https://vietbao.vn/Phong-su/Con-gai-Thach-Lam-ve-con-pho-gan-ten-cha/70122535/262/"
+source: "/nguồn: https://vietbao.vn/Phong-su/Con-gai-Thach-Lam-ve-con-pho-gan-ten-cha/70122535/262/"
 category: "Chính trị"
 lang: vi
 wordCount: 1677
-image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nha.jpg"
+image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/VANHOC/file:///C:/SACHHIEM/images/mail.gif"
 ---
 
 <div align="center" style="position: relative; left: 0; top: 0">
@@ -31,7 +31,7 @@ image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nha.jpg"
 	<div style="padding-left: 50px; padding-right: 50px">
 
 		<table border="0" cellpadding="10" width="100%" cols="3"><tbody><tr>
-			<td><a href="/index"><img border="0" src="https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nha.jpg"></a></td>				<td valign="top"><a href="/VANHOC/#" onclick="location.href='https://sachhiem.net/BIA/sendafriend.php?url='+location.href;">
+			<td></td>				<td valign="top"><a href="/VANHOC/#" onclick="location.href='https://sachhiem.net/BIA/sendafriend.php?url='+location.href;">
 				<font size="2"><img src="https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/VANHOC/file:///C:/SACHHIEM/images/mail.gif" border="0"> 
 Gửi bài này cho bạn bè</font></a></td>
 	<td valign="top">	<font size="2">09 tháng 5, 2008

@@ -3,7 +3,7 @@ layout: ../../../layouts/Article.astro
 title: "Nhìn lại sự thật lịch sử để đoàn kết dân tộc Việt Nam"
 author: "Thiếu Long Texas"
 date: 2013-08-25
-source: "https://sachhiem.net/THOISU_CT/ChuTh/ThieuLong03.php"
+source: "/THOISU_CT/ChuTh/ThieuLong03"
 category: "Chính trị"
 lang: vi
 wordCount: 45886

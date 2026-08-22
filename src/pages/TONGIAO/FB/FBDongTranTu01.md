@@ -3,7 +3,7 @@ layout: ../../../layouts/Article.astro
 title: "HỎA THIÊN ĐẠI HỮU"
 author: "Trung Chính"
 date: 2022-02-11
-source: "https://sachhiem.net/TONGIAO/FB/FBDongTranTu01.php"
+source: "/TONGIAO/FB/FBDongTranTu01"
 category: "Tác giả"
 lang: vi
 wordCount: 1428
@@ -34,7 +34,7 @@ image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/TONGIAO/IMG/JESUS/Tr
  <p class="nguonL">Nguồn <a href="https://www.facebook.com/nguyencong.son.3348/posts/1351716658620306">FB Đồng Trần Tử</a> ngày 6 tháng 11, 2021</p>
  <p>______________________________</p>
  <p><b>Các bài khác của Đồng Trần Tử</b>:</p>
- <p>- <a href="https://sachhiem.net/TONGIAO/FB/FBDongTranTu.php">Đổ Máu Chuộc Tội</a></p>
- <p>- <a href="https://sachhiem.net/TONGIAO/FB/FBDongTranTu01.php">Hỏa Thiên Đại Hữu (Muôn vật vui vẻ hướng về Mặt Trời)</a></p>
- <p>- <a href="https://sachhiem.net/TONGIAO/FB/FBDongTranTu02.php">Tôi Quay Lưng Với Nhà Thờ </a></p>
- <p>- <a href="https://sachhiem.net/TONGIAO/FB/FBDongTranTu03.php">Chúa Thánh Thần Chính Là Giáo Hội La Mã </a></p>
+ <p>- <a href="/TONGIAO/FB/FBDongTranTu">Đổ Máu Chuộc Tội</a></p>
+ <p>- <a href="/TONGIAO/FB/FBDongTranTu01">Hỏa Thiên Đại Hữu (Muôn vật vui vẻ hướng về Mặt Trời)</a></p>
+ <p>- <a href="/TONGIAO/FB/FBDongTranTu02">Tôi Quay Lưng Với Nhà Thờ </a></p>
+ <p>- <a href="/TONGIAO/FB/FBDongTranTu03">Chúa Thánh Thần Chính Là Giáo Hội La Mã </a></p>

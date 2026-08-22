@@ -2,14 +2,14 @@
 layout: ../../../layouts/Article.astro
 title: "Lời Khẳng Định Của Một Con Cừu"
 author: "Nguyễn Mạnh Quang"
-source: "https://sachhiem.net/NMQ/NGGKG/NGK2.php"
+source: "/NMQ/NGGKG/NGK2"
 category: "Lịch sử"
 lang: vi
 wordCount: 20993
-image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nha.jpg"
+image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/LICHSU/IMG/HoaKy/north_south_states.gif"
 ---
 
-<p align="center"><a href="/index"> <img hspace="20" border="0" src="https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nha.jpg"> </a> 13 tháng 9, 2010	</p>
+<p align="center"> 13 tháng 9, 2010	</p>
  
 <p class="TuaChuong">PHẦN II</p>
 <p class="center">(Phần này từ đoạn văn số 7 đến đoạn văn số 21)</p>
@@ -101,7 +101,7 @@ nước và bảo vệ sự toàn vẹn lãnh thổ của tổ quốc Hoa Kỳ. 
 đối khá đầy đủ, trong đó có ghi lại bản văn sử nói rõ Vatican và chính 
 quyền Napoléon III xúi giục các tiểu bang miền Nam ly khai và tiến hành 
 chiến tranh chống lại Liên Bang Hoa Kỳ. Xin đọc bài 
-<a href="https://sachhiem.net/NMQ/TT_MY/TongThongMy02.php">"TỔNG THỐNG ABRAHAM LINCOLN" https://sachhiem.net/NMQ/ TT_MY/TongThongMy02.php</a>. </p>
+<a href="/NMQ/TT_MY/TongThongMy02">"TỔNG THỐNG ABRAHAM LINCOLN" https://sachhiem.net/NMQ/ TT_MY/TongThongMy02.php</a>. </p>
 <p class="sub1"><b>
 <img border="0" src="https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/LICHSU/IMG/NHANVAT/GiuseppeGaribaldi.jpg" align="left" hspace="10" alt="Giuseppe Garibaldi (1807-1882)">2.- Ý Đại Lợi</b>: Cho tới 
 năm 1870, quốc gia này vẫn còn là một tập hợp của nhiều tiểu quốc với 
@@ -322,13 +322,13 @@ Hóa, 2000), </p>
 <p> Nói 
 Chuyên Với  Tổ Chức Việt Nam Cộng Hòa Foundation (Houston, TX: Đa 
 Nguyên, 2004),</p>
-<p> Khi Nhà Văn Lạm Bàn Lịch Sử (<a href="https://sachhiem.net/NMQ/KNV/LoiMoDau.php">https://sachhiem.net/NMQ/KNV/LoiMoDau.php</a>),</p>
-<p> Họ Và Chúng Ta (<a href="https://sachhiem.net/NMQ/HOVATA/NMQhvt-2.php">https://sachhiem.net/NMQ/HOVATA/NMQhvt-2.php</a>,)</p>
-<p> Chân Dung Người Việt Quốc Gia (<a href="https://sachhiem.net/NMQ/ChanDungVNCH/QMN07b.php">https://sachhiem.net/NMQ/ChanDungVNCH/QMN07b.php</a>,) </p>
+<p> Khi Nhà Văn Lạm Bàn Lịch Sử (<a href="/NMQ/KNV/LoiMoDau">https://sachhiem.net/NMQ/KNV/LoiMoDau.php</a>),</p>
+<p> Họ Và Chúng Ta (<a href="/NMQ/HOVATA/NMQhvt-2">https://sachhiem.net/NMQ/HOVATA/NMQhvt-2.php</a>,)</p>
+<p> Chân Dung Người Việt Quốc Gia (<a href="/NMQ/ChanDungVNCH/QMN07b">https://sachhiem.net/NMQ/ChanDungVNCH/QMN07b.php</a>,) </p>
 <p>Người Việt Nam &amp; Đạo Giê-su 
-(<a href="https://sachhiem.net/TCN/TCNtg/DAOGIESU/TCN_NMQ5.php,">https://sachhiem.net/TCN/TCNtg/DAOGIESU/TCN_NMQ5.php,</a>) </p>
+(<a href="/TCN/TCNtg/DAOGIESU/TCN_NMQ5.php,">https://sachhiem.net/TCN/TCNtg/DAOGIESU/TCN_NMQ5.php,</a>) </p>
 <p>Tâm Thư 
-Gửi Nhà Nước Việt Nam (<a href="https://sachhiem.net/NMQ/TAMTHU/NMQtt_08.php">https://sachhiem.net/NMQ/TAMTHU/NMQtt_08.php</a>),  v.v... 
+Gửi Nhà Nước Việt Nam (<a href="/NMQ/TAMTHU/NMQtt_08">https://sachhiem.net/NMQ/TAMTHU/NMQtt_08.php</a>),  v.v... 
 </p>
 <p>Xin có lời đề nghị với quí ông, mỗi khi viết hay phát biểu về 
 một vấn đề liên hệ đến lịch sử, các ông nên tham khảo thật nhiều tài liệu lịch sử liên hệ. Có như vậy, chúng ta mới giữ được cái tư cách và lương tri của 
@@ -409,9 +409,9 @@ và thống nhất cho đất nước của đại khối nhân dân ta dưới 
 của cụ Hồ Chí Minh và  Đảng Cộng Sản Việt Nam. Dã tâm này là chính sách 
 cố hữu của Vatican. Chính sách này đã được chúng tôi trình bày rõ rệt 
 qua lọat bài viết “<i>Vatican Và Chủ Trương Hủy Diệt 
-Tôn Giáo và Nếp Sống Văn Hóa Việt Nam</i>” (<a href="https://sachhiem.net/NMQ/NMQ024.php">https://sachhiem.net/NMQ/NMQ024.php</a>)  và “<i>Sách Lược Chống Lại 
+Tôn Giáo và Nếp Sống Văn Hóa Việt Nam</i>” (<a href="/NMQ/NMQ024">https://sachhiem.net/NMQ/NMQ024.php</a>)  và “<i>Sách Lược Chống Lại 
 Truyền Thống Tôn Thờ Anh Hùng Dân Tộc Ta</i>” </p>
-<p>(<a href="https://sachhiem.net/NMQ/NMQ025.php9">https://sachhiem.net/NMQ/NMQ025.php9</a>)
+<p>(<a href="/NMQ/NMQ025.php9">https://sachhiem.net/NMQ/NMQ025.php9</a>)
 </p>
 
 <p><b>IX. NGK viết: </b>“<i>Cần nhấn mạnh là ngay trong 
@@ -420,7 +420,7 @@ chiến là một điều nên tránh và cũng không bao giờ do dự khi có
 dụng bạo lực. Cả Marx lẫn Lenin, đặc biệt là Lenin, đều coi nội chiến 
 như là một bắt buộc.”</i></p>
 <p><b>NHẬN XÉT: </b> Lời tuyên bố trên của NGK đã bị nhà văn Vũ Huy Quang 
-phản đối trong bài <b> <i>Vài góp ý về “Nội chiến"</i> </b>(<a href="https://sachhiem.net/THOISU_CT/ChuV/VHQ/VuHuyQuang01.php">https://sachhiem.net/THOISU_CT/ChuV/VHQ/VuHuyQuang01.php</a>). Xin trích lại một đọan ngắn:<span lang="en-us">
+phản đối trong bài <b> <i>Vài góp ý về “Nội chiến"</i> </b>(<a href="/THOISU_CT/ChuV/VHQ/VuHuyQuang01">https://sachhiem.net/THOISU_CT/ChuV/VHQ/VuHuyQuang01.php</a>). Xin trích lại một đọan ngắn:<span lang="en-us">
 </span> </p>
 <p><i>"Đọc bài Nguyễn Gia Kiểng, “35 sau ngày 30-4-75…” thì 
 tác giả, như mọi lần, lại lên án cả Quốc gia lẫn Cộng sản: Y 
@@ -447,7 +447,7 @@ vậy.</p>
 chính quyền Liên Bang Mỹ và gây nên cuộc nội chiến ở Hoa Kỳ kéo hơn 4 
 năm trời. Vấn đề này đã được chúng tôi trình bày khá rõ ràng trong phần 
 nói về Tổng Thống Abraham Lincoln trong bài viết có tựa đề là “Những Vị 
-Tổng Thống Mỹ Được Dân Chúng Yêu Kính Nhất” (<a href="https://sachhiem.net/NMQ/TT_MY/TongThongMy02.php.">https://sachhiem.net/NMQ/TT_MY/TongThongMy02.php.</a>)</p>
+Tổng Thống Mỹ Được Dân Chúng Yêu Kính Nhất” (<a href="/NMQ/TT_MY/TongThongMy02.php.">https://sachhiem.net/NMQ/TT_MY/TongThongMy02.php.</a>)</p>
 <p><b> Bằng cớ thứ hai</b> là ngày 28/12/1945, 
 chính Vatican đã đề nghị đưa Bảo Đại lên cầm quyền, thành lập cái gọi là 
 “<i>chính quyền Quốc Gia</i>” để đối đầu với chính quyền Việt Nam Dân 
@@ -609,7 +609,7 @@ Ca-tô  này được sách sử gọi là “<i>Cuộc Khủng Bố Trắng</i>
 bày khá đầy đủ trong Chương 4 (nơi các trang 171-212), sách Nói 
 Chuyện Với Tổ Chức Việt Nam Cộng Hòa Foundation (Houston, TX: Đa 
 Nguyên, 2004), và trong Chương 16, sách Tâm Thư Gửi Nhà Nước 
-Việt Nam  (<a href="https://sachhiem.net/NMQ/TAMTHU/NMQtt_Main.php">https://sachhiem.net/NMQ/TAMTHU/NMQtt_Main.php</a>)</p>
+Việt Nam  (<a href="/NMQ/TAMTHU/NMQtt_Main">https://sachhiem.net/NMQ/TAMTHU/NMQtt_Main.php</a>)</p>
 <p>Người viết được biết có rất nhiều cựu sĩ quan 
 thuộc chế độ cũ ở miền Nam (trong những năm 1954-1975) thường nói rằng 
 nếu miền Nam thắng miền Bắc, thì họ sẽ giết hết tất cả những người ủng 
@@ -1038,13 +1038,13 @@ Thiên vị vì rằng ông ta không đả động gì đến việc các chín
 nhìn miền Nam tiếp nhận hơn nửa triệu quân ngoại nhâp được trang bị 
 bằng những vũ khi tối tân nhất và hiện đại nhất của một siêu 
 cường vào bậc nhất trên thế giới. 
-<a href="https://sachhiem.net/THOISU_CT/ChuK/KimJinSun1.php"> 
+<a href="/THOISU_CT/ChuK/KimJinSun1"> 
 <img border="0" src="https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/THOISU_CT/Hinh/VIETNAM/kimjinsunsm.jpg" width="80" height="90" align="right" hspace="10"></a>Ấy là chưa nói đến nhiều sư đoàn thiện 
 chiến Đai Hàn, nhiều tiểu đòan tinh binh Úc Đại Lợi, nhiều đơn vị quân  
 đội của các nước khác gọi là đồng minh của Hoa Kỳ, tất cả đều được trang 
 bị bằng vũ khí hiện đại nhất của Hoa Kỳ cũng đổ bộ vào miền Nam chiến 
 đấu bên cạnh hơn nửa triệu quân Hoa Kỳ. Xin đọc tập Hồi Ký của một cựu chiến binh Hàn Quốc "Kim Jin Sun"</p>
-<p> (<a href="https://sachhiem.net/THOISU_CT/ChuK/KimJinSun1.php">https://sachhiem.net/THOISU_CT/ChuK/KimJinSun1.php</a>) </p>
+<p> (<a href="/THOISU_CT/ChuK/KimJinSun1">https://sachhiem.net/THOISU_CT/ChuK/KimJinSun1.php</a>) </p>
 <p>Trong khi đó thì miền Bắc chỉ sử dụng &nbsp;những vũ khí đánh bộ và vũ khí phòng không của  Liên sô và của Trung Quốc. Tại các chiến trường ở miền Nam vĩ tuyến 17, (không nói chuyện không  chiến ở &nbsp;miền Bắc vĩ tuyến 17, và cũng  không nói việc chính quyền miền Bắc tiếp nhận các chiến đấu có của Liên Sô hay  của Trung Quốc &nbsp;cho đến năm 1975, mà chỉ  nói chiến sự ở miền Nam vĩ tuyến 17, quân đội miền Bắc cũng như quân đội của Mặt  Trận Giải Phóng Miền Nam &nbsp;không hề sử dụng  không quân (không có oanh tạc cơ, không có chiến đấu cơ, không có phi cơ vận tải,  không có phi cơ thám thính), và hầu như không có đủ chiến tầu &nbsp;để đối đàu hải  quân địch. Địch hoàn toàn làm chủ không phận và hải phận Việt Nam, và cũng  không có&nbsp; lính đánh bộ người ngoại quốc. Ấy thế mà họ la lối rùm beng rằng  là miền Bắc được Liên Sô và Trung Quốc viện trợ vũ khí dồi dào hơn miền Nam!  (đoạn này bổ túc ngày 10 July 2013)</p>
 <p>Nêu lên một cách vu vơ một cuốn sách  của một 
 tác giả không mấy ai biết đến mà không trình bày cụ thể có bao nhiêu 
@@ -1181,7 +1181,7 @@ có một mình ông cho chiên Nguyễn Gia Kiểng mới sử dụng  từ ng�
 <span lang="en-us">cưỡng </span>từ đoạt lý như vậy, mà cả Giáo Hội La Mã và hầu như tất cả các ông 
 con chiên ngoan đạo (cuồng tín) người Việt đều như thế cả. Vấn đề này đã 
 được chúng tôi trình bày khá rõ  ràng trong Chương 11, Mục IV, Phần II, 
-sách Lịch Sử và Hồ Sơ Tội Ác của Giáo Hội La Mã.(<a href="https://sachhiem.net/NMQ/HOSOTOIAC/CH11_2.php">https://sachhiem.net/NMQ/HOSOTOIAC/CH11_2.php</a>)</p>
+sách Lịch Sử và Hồ Sơ Tội Ác của Giáo Hội La Mã.(<a href="/NMQ/HOSOTOIAC/CH11_2">https://sachhiem.net/NMQ/HOSOTOIAC/CH11_2.php</a>)</p>
 
 <p><b>XVII.- NGK viết:</b> “<i>Những người lãnh đạo cộng sản 
 chỉ biết có quyền lợi của đảng và chủ nghĩa cộng sản, những người lãnh 
@@ -1573,4 +1573,4 @@ Nam: Nhà Xuất Bản Tự Do), không ghi thành phố xuất bản và cũng
 không ghi năm phát hành.</p><p><a name="_edn15" title="" href="/NMQ/#_ednref15">[xv]</a> Đặng Văn Nhâm,
 <i>Bí Mật Hậu Trường Chính Trị Miền Nam - Quyển Một</i> 
 (California: TXB,  1999), tr. 418. 
-<a href="https://sachhiem.net/NMQ/NMQdir.php"></a></p><p class="trang"><a href="https://sachhiem.net/NMQ/NMQdir.php"> Trang Nguyễn Mạnh Quang</a></p><a href="https://sachhiem.net/NMQ/NMQdir.php"> </a>
+<a href="/NMQ/NMQdir"></a></p><p class="trang"><a href="/NMQ/NMQdir"> Trang Nguyễn Mạnh Quang</a></p><a href="/NMQ/NMQdir"> </a>

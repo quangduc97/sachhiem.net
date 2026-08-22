@@ -3,7 +3,7 @@ layout: ../../../layouts/Article.astro
 title: "*** Cờ Sao - Cờ Sọc ***"
 author: "Duyên Sinh"
 date: 2015-07-07
-source: "https://sachhiem.net/LICHSU/D/Duyensinh10.php"
+source: "/LICHSU/D/Duyensinh10"
 category: "Lịch sử"
 lang: vi
 wordCount: 4879
@@ -121,7 +121,7 @@ image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/LICHSU/IMG/NHANVAT/V
 <h4>A.- Lá cờ vàng ba sọc  đỏ là một biểu tượng cho sự ô nhục <br>
  B.- Lá cờ này cũng  là biểu tượng cho những hành động dã man <br>
  C. Lá cờ vàng ba sọc  đỏ là biểu tượng cho quyền lực của Vatican ở Việt Nam <br>
-  (Đọc chi tiết tại: <a href="https://sachhiem.net/NMQ/ChanDungVNCH/QMN04.php#10"> https://sachhiem.net/NMQ/ChanDungVNCH/QMN04.php#10</a>) </h4>
+  (Đọc chi tiết tại: <a href="/NMQ/ChanDungVNCH/QMN04#10"> https://sachhiem.net/NMQ/ChanDungVNCH/QMN04.php#10</a>) </h4>
 <p>
   Tóm lại, kể từ ngày phân chia giữa những người  “<i>chịu rửa tội</i>” như vua Đồng Khánh và  những người <i>“chống rửa tội”</i> như vua  Hàm Nghi, thì làn ranh “<i>chống</i>” và “<i>chịu</i>” rất phân minh. Tuy nhiên vì thời  gian đã hơn một trăm năm, làn ranh này đã mờ phai. Sự mờ phai đã làm cho một số  người rất nhầm lẫn. Những người nhầm lẫn chỉ cần quay đầu lại là tới được bờ bến.</p>
 <p>...</p>

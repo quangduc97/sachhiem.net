@@ -3,7 +3,7 @@ layout: ../../../layouts/Article.astro
 title: "Nhật Ký Biển Đông:"
 author: "Đào Văn Bình"
 date: 2016-08-03
-source: "https://sachhiem.net/DAOVB/CT/DaovBinh68.php"
+source: "/DAOVB/CT/DaovBinh68"
 category: "Chính trị"
 lang: vi
 wordCount: 4646
@@ -16,7 +16,7 @@ image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/THOISU_CT/Hinh/TURKE
 <div class="tomluoc">
   <p><i> Sự hung hăng bất chấp luật pháp quốc tế của Hoa Lục, việc hợp tác hải quân Nga-Hoa, thái độ dè dặt của Mỹ, sự không thống nhất trong nội bộ ASEAN làm cho tình hình Biển Đông đã phức tạp lại còn phức tạp hơn. Và có thể rồi đây Hoa Lục cũng vẫn tiếp tục theo đuổi con đường bành trướng lãnh thổ..  </i> (ĐVB)</p>
 </div>
- <p><b>Cuộc tranh cử tổng thống Mỹ tiến vào giai đoạn mới.</b> Xin đọc <a href="https://sachhiem.net/index.php?content=showemail&amp;id=1663">https://sachhiem.net/ mục Ý Kiến Ngắn.</a></p>
+ <p><b>Cuộc tranh cử tổng thống Mỹ tiến vào giai đoạn mới.</b> Xin đọc <a href="/hop-thu/1663">https://sachhiem.net/ mục Ý Kiến Ngắn.</a></p>
  <p><span class="First">N</span>hật Ký Biển Đông  :</p>
 <div class="danbai"><p><b>Gồm các mục:</b></p>
 <p><a name="tit1" href="/DAOVB/#n1">A. Tình hình thế giới </a></p>

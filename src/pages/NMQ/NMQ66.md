@@ -3,7 +3,7 @@ layout: ../../layouts/Article.astro
 title: "Chuyện Ông Già Rip Van Winkle - Xưa và Nay"
 author: "Nguyễn Mạnh Quang"
 date: 2016-07-22
-source: "https://sachhiem.net/NMQ/NMQ66.php"
+source: "/NMQ/NMQ66"
 category: "Lịch sử"
 lang: vi
 wordCount: 2178
@@ -54,7 +54,7 @@ image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/VANHOC/Hinh/GiacNamK
  <p><b>Những ông già Rip Van Winkle Việt Nam</b></p>
  <p>Trường hợp   các “xóm đạo” hay “làng đạo” ở Việt Nam cũng tương tự người Amish về phương diện biệt lập văn hóa. Nhưng ngược với người Amish, người trong các xóm đạo rất ham thích theo đuổi văn minh vật chất.  </p>
  <p>Trong khi người Amish kiêng kỵ tánh kiêu ngạo và chủ nghĩa cá nhân thì giáo hội nhà thờ dạy con chiên tánh kiêu ngạo: <i>Chỉ có Chúa là trên hết, chỉ có Chúa là đấng Tối Cao, con chiên là được Chúa chọn, là Dân Chúa</i>,...... cho nên các con chiên luôn cho rằng mình thuộc giai cấp "quí phái"! Thế nhưng họ vẫn luôn quảng cáo rằng họ có đức khiêm nhượng. Thì ra họ chỉ khiêm nhượng khi làm "tôi tớ Chúa" mà thôi, đối với các nhà lãnh đạo đất nước mà không theo Chúa, thì họ không xem ra gì. </p>
- <p>Các xóm đạo chỉ bị cô lập với đồng bào sở tại về văn hóa và giá trị tinh thần truyền thống của đất nước. Thí dụ, truyền thống uống nước nhớ nguồn, tôn thờ các anh hùng bảo vệ đất nước đã bị nhà thờ cho ra rìa.  Họ không xem những vị anh hùng của ta có tí giá trị nào. Ngay cả quốc tổ  Hùng Vương của ta vẫn bị Tổng Thống Con Chiên Ngô Đình Diệm cho vào "Thảo Cầm Viên". Trong quyển <a href="https://sachhiem.net/HOANHLINH/HoanhL_Main.php">Việt Nam Máu Lửa Quê Hương Tôi</a> có kể: một giáo sư Đại học nặng lòng với <i>Quốc Tổ Hùng Vương</i>, đã đề nghị ông Diệm xây đền thờ Quốc Tổ thì bị ông Diệm trỏ mặt nạt lớn: "<i>Tổ anh chứ Tổ tôi à!</i>"</p>  
+ <p>Các xóm đạo chỉ bị cô lập với đồng bào sở tại về văn hóa và giá trị tinh thần truyền thống của đất nước. Thí dụ, truyền thống uống nước nhớ nguồn, tôn thờ các anh hùng bảo vệ đất nước đã bị nhà thờ cho ra rìa.  Họ không xem những vị anh hùng của ta có tí giá trị nào. Ngay cả quốc tổ  Hùng Vương của ta vẫn bị Tổng Thống Con Chiên Ngô Đình Diệm cho vào "Thảo Cầm Viên". Trong quyển <a href="/HOANHLINH/HoanhL_Main">Việt Nam Máu Lửa Quê Hương Tôi</a> có kể: một giáo sư Đại học nặng lòng với <i>Quốc Tổ Hùng Vương</i>, đã đề nghị ông Diệm xây đền thờ Quốc Tổ thì bị ông Diệm trỏ mặt nạt lớn: "<i>Tổ anh chứ Tổ tôi à!</i>"</p>  
  <p align="center"><img src="https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/LICHSU/IMG/VNchuS/VeDenHung.JPG" width="350" height="293" alt="lễ Đền Hùng"> </p>
  <p align="center"><i>Dân tấp nập về lễ Đền Hùng (Phú Thọ)</i> </p>
  <p align="center"><img src="https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/TONGIAO/IMG/METIN/Honnhan.jpg" width="300" height="215" alt="hôn nhẫn cha tây"></p>

@@ -2,7 +2,7 @@
 layout: ../../../layouts/Article.astro
 title: "TƯƠNG LAI GIÁO HỘI CA-TÔ RÔ-MA Ở VIỆT NAM"
 author: "Trần Chung Ngọc"
-source: "https://sachhiem.net/null"
+source: "/null"
 lang: vi
 wordCount: 17980
 image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nhacu.jpg"

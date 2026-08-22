@@ -2,17 +2,17 @@
 layout: ../../../layouts/Article.astro
 title: "Mối Ác Cảm Của Nhân Dân Thế Giới"
 author: "Nguyễn Mạnh Quang"
-source: "https://sachhiem.net/NMQ/MOIACCAM/NMQ_10.php"
+source: "/NMQ/MOIACCAM/NMQ_10"
 category: "Tác giả"
 lang: vi
 wordCount: 9979
-image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nha.jpg"
+image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/print.gif"
 ---
 
 <p class="Tuaduoi">Đối Với Giáo Hội La Mã </p>
      
      
-     <p align="center"><a href="/index"><img hspace="20" border="0" src="https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nha.jpg"></a>   bản rời <a href="/NMQ/MOIACCAM/NMQ_00" target="top"> <img border="0" src="https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/print.gif" width="18" height="18"> </a>    |     toàn tập <a target="_top" href="/NMQ/MOIACCAM/MoiAcCam_Main"> ☞ </a>  | 02 tháng 4, 2010 </p>
+     <p align="center">   bản rời <a href="/NMQ/MOIACCAM/NMQ_00" target="top"> <img border="0" src="https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/print.gif" width="18" height="18"> </a>    |     toàn tập <a target="_top" href="/NMQ/MOIACCAM/MoiAcCam_Main"> ☞ </a>  | 02 tháng 4, 2010 </p>
      <p class="CHUONG"> CHƯƠNG 12</p>
      <p class="TuaChuong"> NGUYÊN NHÂN CỦA NHỮNG HÀNH ĐỘNG VÀ NGÔN TỪ NGƯỢC NGẠO  TRONG ĐẠO KI-TÔ</p>
      <p>Cái tựa đề trên đây của chương sách này mới chỉ nói&nbsp; lên được 3 trong rất  nhiều sự kiện hay vấn đề cực kỳ ghê tởm trong Giáo Hội La Mã đạo Ki-tô La Mã:  Những&nbsp; sự kiện đó là:</p>
@@ -127,7 +127,7 @@ image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nha.jpg"
      <p><i>Bản văn hiến dâng của Constantine (The Donation of Constantine); mục đích  là chứng minh chắc chắn rằng Giáo Hoàng là người kế thừa Phê-rô và Constantine,  do đó có toàn quyền trên trái đất, và đàng sau hậu trường là sự hậu thuẫn của  quyền lực từ trên trời.</i></p>
      <p><i>Ngụy tạo Tân Ước, rằng Giáo hội Công Giáo là do Chúa Giê-su thành lập, trao  quyền cho Phê-rô, và các giáo hoàng đều là những người kế vị Phê-rô để chăn dắt  đạo Chúa.</i></p>
      <p><i>Ngụy tạo lời Giê-su, sau khi đã chết hiện ra dạy các tông đồ phải đi truyền đạo  trên khắp thế giới.”</i></p>
-     <p><i>Quý độc giả có thể đọc chi tiết chứng minh ba sự ngụy tạo chính này trên trang  nhà sachhiem.net: </i> <a href="https://www.sachhiem.net/TCN/TCNtg/Giesu/Giesulaai3.php"> <i>https://www.sachhiem.net/TCN/TCNtg/Giesu/Giesulaai3.php</i></a> .” </p>
+     <p><i>Quý độc giả có thể đọc chi tiết chứng minh ba sự ngụy tạo chính này trên trang  nhà sachhiem.net: </i> <a href="/TCN/TCNtg/Giesu/Giesulaai3"> <i>https://www.sachhiem.net/TCN/TCNtg/Giesu/Giesulaai3.php</i></a> .” </p>
      <p><i>Quý độc giả cũng có thể đọc bài “Những Tài liệu Ngụy Tạo và Quyền Lực Giáo  Hoàng” [Forged Documents and Papal Power] của Nữ Tu Công Giáo Mary Ann Collins  trên </i> <a href="https://www.CatholicConcerns.com"> <i>www.CatholicConcerns.com</i></a><i> , hoặc bài “Ảnh hưởng lịch sử và sự sử dụng những tài liệu ngụy tạo để đẩy mạnh  giáo lý về chế độ Giáo hoàng” [The Historical Influence and Use of Forgeries in  Promotion of the Doctrine of the Papacy<b>] </b>của William Webster trên trang nhà: </i> <a href="https://www.christiantruth.com/articles/forgeries.html"> <i>https://www.christiantruth.com/articles/forgeries.html</i></a><i> để thấy rằng Giáo hội Công giáo đã ngụy tạo ra, không phải là một vài, hay một  vài chục, mà hàng trăm các văn kiện để tạo quyền lực cho chế độ Giáo hoàng và  Giáo hội.” </i> <a name="_ednref77" title="" href="/NMQ/#_edn77"> <i><b> [77]</b></i></a></p>
      <p>Phần trình bày trên đây cho chúng thấy rõ ràng, Giáo Hội La Ma là một tổ chức  tội ác tham tàn, bạo ngược và dã man nhất trong lịch sử nhân loại, và cũng là  một tập đoàn của những tay tổ đại bịp và nói láo chuyên nghiệp, luôn luôn  sử dụng danh xưng tôn giáo bằng những danh xưng tốt đẹp nhất với những phẩm tự  thánh thiện nhất, nhân từ nhất, bác ái nhất, cao cả nhất khiến cho những  người ít học thiếu kinh nghiệm lầm tưởng rằng giáo hội quả thật là “<i>Hội Thánh  duy nhất thánh thiện, công giáo và tông truyề</i>n” đúng như giáo hội thường rao  truyền. Thế nhưng, thức lâu mới biết đêm dài. Có ở trong chăn mới biết chăn có  rận. Tài nghệ nói láo siêu việt của giáo hội được chính người trong Giáo Hội là  ông Phan Đình Diệm, Hội Trưởng Học Hội Đức Ki-tô Phục Sinh ghi nhận như sau:<i> </i></p>
      <p>“<i>Hàng ngàn năm, để bưng bít và che dấu 7 chương tội đối ngọai và 1 chương tội  đối nội là tám, nghệ thuật tuyên truyền của Giáo Hội Roma phải đạt đến chő cực  kỳ ảo diệu, thiên biến vạn hóa, một nghệ thuật tuyên truyền thần thánh, một nghệ  thuật tuyên truyền nhồi sọ tuyệt vời: Giáo Hội là Thánh, Giáo Hội là Mầu Nhiệm,  Giáo Hội là Bí Tích, Giáo Hội là Hiền Thê của Đức Giê-su, Giáo Hội là Duy Nhất,  Thánh Thiện, Công Giáo và Tông Truyền, Giáo Hội là Vương Quốc của Thiên Chúa...  Giáo Hội tự nhận cho mình hết tất cả những khái niệm cao cả thánh thiện, vừa  linh thiêng siêu hình, vừa hữu hình thế tục, chẳng bỏ sót một phạm trù nào!  Ngòai nghệ thuật tuyên truyền, Giáo Hội vẫn phải xây "vạn lý trường thành đức  tin" và buông bức "màn sắt thần học" lên đầu đoàn chiên. Mỗi tòa giảng là một  cái loa tuyên truyền, dựa vào khoa thần học phù phép, ảo thuật "núi tội thành  con chuột" , "kẻ cướp mặc áo thày tu" và "quỷ Satan có diện mạo ông thánh</i>." <a name="_ednref78" title="" href="/NMQ/#_edn78"> [78]</a></p>
@@ -136,7 +136,7 @@ image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nha.jpg"
      <p><a name="_edn68" title="" href="/NMQ/#_ednref68"> [68]</a> Trần Quý, <i>Lòng Tin Âu Mỹ Đấy!</i> (Wextminster: Văn Nghệ, 1996), tr.  124. <i>&nbsp;</i></p>
      <p><a name="_edn69" title="" href="/NMQ/#_ednref69">[69]</a> Trần  Quý, Sđd., tr. 125-126.</p>
      <p><a name="_edn70" title="" href="/NMQ/#_ednref70">[70]</a> Nguyễn Ngọc Ngạn, <i>Xóm Đạo</i> (Đông Kinh, Nhật Bản: Tân Văn, 2003), tr. 320.
-     </p><p><a name="_edn71" title="" href="/NMQ/#_ednref71">[71]</a> Thiên Lôi. “<i>Tiễn Chân Bác  Tổng Kiệt Sớm Hưởng Nhan Thánh… Vaicano</i>.” Ngày 21/5/2010. <a href="https://sachhiem.net/TONGIAO/tgTH/ThienLoi006.php"> https://sachhiem.net/TONGIAO/tgTH/ThienLoi006.php</a>. Ngày 22/5/2010.</p>
+     </p><p><a name="_edn71" title="" href="/NMQ/#_ednref71">[71]</a> Thiên Lôi. “<i>Tiễn Chân Bác  Tổng Kiệt Sớm Hưởng Nhan Thánh… Vaicano</i>.” Ngày 21/5/2010. <a href="/TONGIAO/tgTH/ThienLoi006"> https://sachhiem.net/TONGIAO/tgTH/ThienLoi006.php</a>. Ngày 22/5/2010.</p>
      <p><a name="_edn72" title="" href="/NMQ/#_ednref72">[72]</a> Trần Tam Tỉnh, Sđd.,  tr.53</p>
      <p><a name="_edn73" title="" href="/NMQ/#_ednref73">[73]</a> Nguyễn Mạnh Quang, <i>Việt Nam Đệ Nhất Cộng Hòa Toàn Thư 1954-1953</i> (Houston, TX: Văn Hóa, 2000), tr. 340.</p>
      <p><a name="_edn74" title="" href="/NMQ/#_ednref74"> [74]</a> Charlie Nguyễn.http:/www.giaodiem.com Ngày 23/4/2001 "Góp Ý Với Quý Vị  Trí Thức Ngòai Công Giáo." Ngày 2 tháng 7 nam 2004.</p>

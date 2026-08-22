@@ -3,7 +3,7 @@ layout: ../../../layouts/Article.astro
 title: "Không Có Phước Đức Nào Lớn"
 author: "Đào Văn Bình"
 date: 2014-10-21
-source: "https://sachhiem.net/DAOVB/CT/DaovBinh26.php"
+source: "/DAOVB/CT/DaovBinh26"
 category: "Chính trị"
 lang: vi
 wordCount: 1670

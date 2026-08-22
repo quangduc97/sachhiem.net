@@ -3,7 +3,7 @@ layout: ../../../layouts/Article.astro
 title: "LỄ HỘI MÙA ĐÔNG - NÓI KHÔNG VỚI \"GIÁNG SINH\""
 author: "FB Giuse Nguyễn"
 date: 2025-11-05
-source: "https://sachhiem.net/TONGIAO/FB/FBlinhnguyen.php"
+source: "/TONGIAO/FB/FBlinhnguyen"
 category: "Chính trị"
 lang: vi
 wordCount: 2175

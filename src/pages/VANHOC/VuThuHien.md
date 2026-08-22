@@ -2,11 +2,10 @@
 layout: ../../layouts/Article.astro
 title: "Miền Thơ Ấu"
 author: "Vũ Thư Hiên"
-source: "https://sachhiem.net/Nxb. Văn Nghệ, Califronia, 1988 - bản electronic: Phú Nguyễn soạn"
+source: "/Nxb. Văn Nghệ, Califronia, 1988 - bản electronic: Phú Nguyễn soạn"
 category: "Văn hóa"
 lang: vi
 wordCount: 1291
-image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nha.jpg"
 ---
 
 <div align="center" style="position: relative; left: 0; top: 0">
@@ -34,8 +33,7 @@ image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nha.jpg"
 <blockquote>
 	<table border="0" width="600">
 		<tbody><tr>
-			<td><a href="/index">
-			<img border="0" src="https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nha.jpg"></a></td>
+			<td></td>
 			<td valign="top">17 tháng 10, 2008	</td>
 		</tr>
 	</tbody></table>

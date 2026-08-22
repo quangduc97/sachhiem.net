@@ -3,7 +3,7 @@ layout: ../../../layouts/Article.astro
 title: "LM Nguyễn Đình Thục Kích Động, Giáo Dân Kéo Ra Phản Đối Dự Án Khu Công Nghiệp WHA"
 author: "Nguyễn Tiến Trung"
 date: 2022-03-21
-source: "https://sachhiem.net/TONGIAO/FB/FBNguyenTienTrung.php"
+source: "/TONGIAO/FB/FBNguyenTienTrung"
 category: "Chính trị"
 lang: vi
 wordCount: 1466

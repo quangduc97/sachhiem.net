@@ -3,7 +3,7 @@ layout: ../../../layouts/Article.astro
 title: "Luận Về \"Sử Tặc\"!"
 author: "FB Tiễn Câu"
 date: 2020-07-08
-source: "https://sachhiem.net/LICHSU/F/FB/FBTienCau.php"
+source: "/LICHSU/F/FB/FBTienCau"
 category: "Chính trị"
 lang: vi
 wordCount: 978

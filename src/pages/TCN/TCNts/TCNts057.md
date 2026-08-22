@@ -3,7 +3,7 @@ layout: ../../../layouts/Article.astro
 title: "Thêm Vài Ý Kiến Nhân Đọc Sách Hiếm"
 author: "Trần Chung Ngọc"
 date: 2012-05-13
-source: "https://sachhiem.net/index.php?content=showrecipe&id=5315"
+source: "/TCN/TCNts/TCNts057"
 category: "Chính trị"
 lang: vi
 wordCount: 15724
@@ -18,7 +18,7 @@ image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/LICHSU/IMG/HOCHIMINH
 	    <p>	<b><u>Vài Lời Nói Đầu</u></b>:</p>
 <p>
 	      Giáo sư Nguyễn Mạnh Quang đã trả lời với nhiều chi tiết về 7 câu phỏng
-	      vấn của Sách Hiếm (<a href="https://sachhiem.net/NMQ/NMQ037.php">https://sachhiem.net/NMQ/NMQ037.php</a>).&nbsp; Những chi tiết lịch sử đó tôi nghĩ người dân
+	      vấn của Sách Hiếm (<a href="/NMQ/NMQ037">https://sachhiem.net/NMQ/NMQ037.php</a>).&nbsp; Những chi tiết lịch sử đó tôi nghĩ người dân
 	        Việt Nam cần biết, nhất là đối với những người làm nghề chống Cộng
 	        ở hải ngoại.&nbsp; Những sự thật lịch sử thì không thiên vị, do đó biết đúng
 	        về lịch sử có thể giúp chúng ta thay đổi cách suy nghĩ mà trước đây
@@ -1058,7 +1058,7 @@ image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/LICHSU/IMG/HOCHIMINH
 	      political methods.&nbsp; It is just as effective as colonial imperialism, though
 	      harder to unmask.) </p>
 	    <p><b><u>Vài Lời Kết</u></b>:</p>
-	    <p> <a href="https://sachhiem.net/NMQ/NMQ037.php">Nhân dịp 30/4, Sách Hiếm
+	    <p> <a href="/NMQ/NMQ037">Nhân dịp 30/4, Sách Hiếm
 	        đưa ra 7 điều phỏng vấn Giáo sư Nguyễn Mạnh Quang về Ý Nghĩa Cuộc Chiến
 	        Việt Nam 1954-1975.&nbsp;</a> Đây là một ý kiến
 	      hay để chúng ta nhìn lại lịch sử như nó là như vậy.&nbsp;</p>
@@ -1252,7 +1252,7 @@ image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/LICHSU/IMG/HOCHIMINH
 	      thù hận kéo dài một cách phi lý, cần phải xóa bỏ trước những sự thật
 	      lịch sử.&nbsp; Và đây là mục đích của tôi khi viết bài này. </p>
 <p>
-	      Hi vọng những “đầu bếp cờ vàng” <a href="https://sachhiem.net/XICHLOV/XichloViet09.php">https://sachhiem.net/XICHLOV/XichloViet09.php</a> hãy
+	      Hi vọng những “đầu bếp cờ vàng” <a href="/XICHLOV/XichloViet09">https://sachhiem.net/XICHLOV/XichloViet09.php</a> hãy
 	      tỉnh cơn mê muội, thay đổi món ăn để cho đầu óc của chính con cháu của
 	      họ không còn bị đầu độc, ô nhiễm bởi những mối thù hận một chiếu đã kéo
 	      quá dài và những mưu mô xuyên tạc lịch sử.. </p>

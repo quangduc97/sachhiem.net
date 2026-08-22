@@ -3,7 +3,7 @@ layout: ../../layouts/Article.astro
 title: "Các Câu Chuyện Về Tôn Giáo Lạ ở Mỹ Trong Thế Kỷ 20"
 author: "Lý Thái Xuân"
 date: 2022-12-10
-source: "https://sachhiem.net/LTX/LyThaiTG36A.php"
+source: "/LTX/LyThaiTG36A"
 category: "Tác giả"
 lang: vi
 wordCount: 3414

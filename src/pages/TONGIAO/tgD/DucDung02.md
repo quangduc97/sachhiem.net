@@ -3,7 +3,7 @@ layout: ../../../layouts/Article.astro
 title: "Tình Yêu Thiên Chúa Có Hay Không?"
 author: "Đức Dũng"
 date: 2015-09-25
-source: "https://sachhiem.net/TONGIAO/tgD/DucDung02.php"
+source: "/TONGIAO/tgD/DucDung02"
 category: "Chính trị"
 lang: vi
 wordCount: 2439
@@ -53,16 +53,16 @@ image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/TONGIAO/IMG/LINHMUC/
    <p><b>Ghi chú:</b> Chữ khác màu trong bài là đường link tới bài gốc: (trên bàn phím nhấn CTRL đồng  thời nhấn chuột trái)</p>
   <hr width="40%">
   <p><b>Các bài tham khảo </b></p>
-  <p><a href="https://sachhiem.net/TTS/TG/TranTrongSy03.php">Có Thực Mới Vực Được Đạo của tác giả</a>: <i>Trần Trọng Sỹ</i></p>
+  <p><a href="/TTS/TG/TranTrongSy03">Có Thực Mới Vực Được Đạo của tác giả</a>: <i>Trần Trọng Sỹ</i></p>
 <p>   <a href="https://btgcp.gov.vn/Plus.aspx/vi/News/38/0/240/0/2310/Mot_so_hinh_thuc_ton_giao_nguyen_thuy_pho_bien_trong_lich_su_va_dau_an_cua_no_trong_ton_giao_hien">Một số hình thức tôn giáo nguyên thủy phổ  biến trong lịch sử và dấu ấn của nó trong tôn giáo hiện đại</a></p>
 <p>   <a href="https://maxreading.com/sach-hay/lich-su-tu-tuong-truoc-marx/phan-ba-tu-tuong-nguyen-thuy-van-de-nhan-thuc-cua-loai-nguoi-trong-xa-hoi-nguyen-thuy-37308.html">Tư tưởng nguyên thủy - Vần đề nhận thức  của loài người trong xã hội nguyên thủy</a> </p>
 <p>   <a href="https://forum.kites.vn/thread/-lich-su-xuat-ban-bai-hoc-israel-nguyen-hien-le-hoan--389216-1-1.html">Bài  học Israel - Nguyễn Hiến Lê</a></p>
   <p><a href="https://www.simonhoadalat.com/HOCHOI/GiaoHoiVN/LichSu/LichSuGHCGVN.htm">SỬ LƯỢC GIÁO HỘI CÔNG GIÁO VIỆT NAM (1533 - 2000)</a> </p>
 <p> <a href="https://conggiao.info/news/2131/27909/luoc-su-hoi-thanh-cong-giao-tai-viet-nam.aspx">Lược  Sử Hội Thánh Công Giáo tại Việt Nam</a></p>
-<p>   <a href="https://sachhiem.net/TONGIAO/TTTINH/TTT_01.php">THẬP GIÁ VÀ LƯỠI GƯƠM</a> của Linh Mục Trần Tam  Tĩnh </p>
+<p>   <a href="/TONGIAO/TTTINH/TTT_01">THẬP GIÁ VÀ LƯỠI GƯƠM</a> của Linh Mục Trần Tam  Tĩnh </p>
 <p>   <a href="https://chimviet.free.fr/lichsu/tranxuanan/chieucanvuong/txa_chieucanvuong5.htm">TIẾP  THU SỰ GÓP Ý CỦA ÔNG VƯƠNG ĐÌNH CHỮ&nbsp; VỀ CÁC ÔNG NGUYỄN  HỮU CƯ (THƠ), NGUYỄN HOẰNG (HOÀNG),&nbsp; NGUYỄN HỮU BÀI, THIERRY D'ARGENLIEU</a> </p>
 <p>   Theo Bs Nguyễn Văn Thọ.</p>
-<p> <a href="https://sachhiem.net/NVTho/NVTho00.php">ÍT  NHIỀU NHẬN ĐỊNH VỀ THIÊN CHÚA GIÁO (Phê Bình Giáo  Lý)</a> </p>
+<p> <a href="/NVTho/NVTho00">ÍT  NHIỀU NHẬN ĐỊNH VỀ THIÊN CHÚA GIÁO (Phê Bình Giáo  Lý)</a> </p>
 <p> <a href="https://www.youtube.com/watch?v=u_qLtJccGbQ">Tôi Ác Của Lịch Sử Nhân Loại: Thập Tự Chinh.</a></p>
 
 <p align="center"><b>Phụ Bản:</b></p>

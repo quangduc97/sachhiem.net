@@ -3,7 +3,7 @@ layout: ../../../layouts/Article.astro
 title: "Tựa"
 author: "Đức Nguyễn dịch"
 date: 2021-12-27
-source: "https://sachhiem.net/SACHNGOAI/D/DuNguyen.php"
+source: "/SACHNGOAI/D/DuNguyen"
 category: "Chính trị"
 lang: vi
 wordCount: 4

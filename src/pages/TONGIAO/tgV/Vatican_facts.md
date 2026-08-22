@@ -3,7 +3,7 @@ layout: ../../../layouts/Article.astro
 title: "Vatican: Vài Dữ Kiện"
 author: "Theo Zing.tv"
 date: 2016-07-09
-source: "https://sachhiem.net/TONGIAO/tgV/Vatican_facts.php"
+source: "/TONGIAO/tgV/Vatican_facts"
 category: "Đối thoại"
 lang: vi
 wordCount: 594

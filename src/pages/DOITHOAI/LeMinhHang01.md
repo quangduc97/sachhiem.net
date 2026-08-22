@@ -3,17 +3,17 @@ layout: ../../layouts/Article.astro
 title: "Đáp Thư Bà Bác Sĩ Nguyễn Thị Thanh"
 author: "Bé Hằng"
 date: 2009-03-11
-source: "https://sachhiem.net/DOITHOAI/LeMinhHang01.php"
+source: "/DOITHOAI/LeMinhHang01"
 category: "Đối thoại"
 lang: vi
 wordCount: 9742
-image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nha.jpg"
+image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/TONGIAO/IMG/NANNHAN/WilliamTyndale.jpg"
 ---
 
-<table border="0" align="center" width="250"> <tbody><tr> <td width="100"><a href="https://sachhiem.net/index.php"><img border="0" src="https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nha.jpg"></a></td> 
+<table border="0" align="center" width="250"> <tbody><tr> <td width="100"></td> 
 <td><p>16 tháng 12, 2012</p> </td></tr></tbody></table>
 	<p><i>LTS: Đây là thư của một độc giả có tên Bé Hằng. Trước đây Bé Hằng cũng
-	    đã từng thưa chuyện với người lấy tên BS Nguyễn Thị Thanh (xem <a href="https://sachhiem.net/DOITHOAI/LeMinhHang.php">"Măng
+	    đã từng thưa chuyện với người lấy tên BS Nguyễn Thị Thanh (xem <a href="/DOITHOAI/LeMinhHang">"Măng
 	    Đòi Chống Bão"</a>).  Nhận thấy, dù bài này mang khá nhiều cảm tưởng của
 	    một độc giả đối với các lý luận mê sảng của bà BS Thanh, nhưng cũng là
 	    một công phu không nhỏ, đã trình ra những tài liệu và hình ảnh của người
@@ -60,7 +60,7 @@ nhất là những  "<i>biệu hiệu</i>" mà bà tự đặt cho mình, không
 	  con chiên "tông truyền" của bà cũng có tới 3 biệt hiệu,  "<i>Nguyễn
 	  Cần", "Tú Gàn", "Lữ Giang</i>".</p>
 	<p>Nếu ý bà muốn nói "<i>con Lệ Hằng</i>" là tôi, người đã viết bài
-	  <i><a href="https://sachhiem.net/DOITHOAI/LeMinhHang.php">"Măng Đòi Chống Bão"</a></i>,
+	  <i><a href="/DOITHOAI/LeMinhHang">"Măng Đòi Chống Bão"</a></i>,
 	  thì không phải, tôi là Bé Hằng, và tôi họ Lê; tôi không phải Lệ Hằng đâu.
 	  Theo tôi biết, nữ ca sĩ Lệ Hằng là bà xã của ông nhà báo Nguyễn Phương
 	  Hùng của <a href="https://kbchn.net/" target="_blank">kbchn.net</a>.
@@ -490,7 +490,7 @@ nhất là những  "<i>biệu hiệu</i>" mà bà tự đặt cho mình, không
 	  tự chinh v.v... cho tới ngày nay, bà Mẹ Teressa của CG đã gây nên biết
 	  bao khổ đau và chết chóc cho trẻ em nhiễm bịnh ở Ấn Độ, dùng chỉ có một
 	  mũi kim nhiễm trùng đễ chích kim cho cả trăm trẻ em. Mời bà đọc <a href="https://www.buildupthatwall.com/">Christopher
-	  Hitchens</a> (xem "<a href="https://sachhiem.net/SACHNGOAI/MeTeresa.php">Mẹ
+	  Hitchens</a> (xem "<a href="/SACHNGOAI/MeTeresa">Mẹ
 	  Teresa Từ Lý Thuyết Đến Thực Hành</a>" của GS Trần Chung Ngọc, https://sachhiem.net/SACHNGOAI/MeTeresa.php). Giáo hoàng của bà cũng không khá hơn chút nào, ông ta cấm không
 	  cho sử dụng bao cao su để ngừa bịnh siđa ỡ những nước nghèo bên Phi Châu.
 	  Cho dù có bầu đẻ ra những trẻ em bị bịnh si-đa đói rách chết yểu cũng là
@@ -531,7 +531,7 @@ nhất là những  "<i>biệu hiệu</i>" mà bà tự đặt cho mình, không
 	<p>Đạo CG là "<i>đạo tình thương</i>" sao lại có một tổ chức Dòng
 	  Tên, chuyên môn xâm nhập ám sát đầu độc, với lời thề của họ thật là khủng
 	  khiếp, sẵn sàng giết cả thai nhi và thai phụ. Lịch sử của họ đã nói rất
-	  rõ về những hành vi đại gian ác của CG. (xem "<a href="https://sachhiem.net/SACHNGOAI/HoangKhoi.php">Lật
+	  rõ về những hành vi đại gian ác của CG. (xem "<a href="/SACHNGOAI/HoangKhoi">Lật
 	  Tẩy Lời Thề Dòng Da-tô</a>" https://sachhiem.net/SACHNGOAI/HoangKhoi.php)</p>
 <p><b>☞ Nguyễn Thị Thanh:</b><i> Nếu thật tình tôi muốn đánh lãi bọn TCN, NMQ,
     TQD và GĐ, SH cùng toàn thể đàn em, tôi không thiếu lý luận để phản bác,
@@ -621,7 +621,7 @@ nhất là những  "<i>biệu hiệu</i>" mà bà tự đặt cho mình, không
 	
 	<p class="TacgiaL">	Bé Hằng</p>
 	
-	<p>- Mời đọc thêm <a href="https://sachhiem.net/TCN/TCNdt/TCNdt065.php">"Chiên
+	<p>- Mời đọc thêm <a href="/TCN/TCNdt/TCNdt065">"Chiên
 	    Của Chúa hay Của Linh Mục? Phiền Quá ! Lại Là Bà Đốc Thanh"</a> (Trần
 	  Chung Ngọc) </p>
 	

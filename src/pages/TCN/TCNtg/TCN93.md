@@ -2,17 +2,17 @@
 layout: ../../../layouts/Article.astro
 title: "MỘT VỊ SƯ PHẬT GIÁO CẢM THẤY"
 author: "PL Đánh Máy Và Giới Thiệu"
-source: "https://sachhiem.net/TCN/TCNtg/TCN93.php"
+source: "/TCN/TCNtg/TCN93"
 lang: vi
 wordCount: 2500
-image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nha.jpg"
+image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/TONGIAO/IMG/CHUA/Abhinyana_sm.jpg"
 ---
 
 <p class="Tuaduoi">GẦN GŨI CHÚA GIÊ-SU HƠN LÀ ĐỨC PHẬT
 </p>
 		
 		
-<p align="center"><a href="https://www.sachhiem.net/"> <img border="0" src="https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nha.jpg"></a> 15 tháng 3,  2010</p>
+<p align="center"> 15 tháng 3,  2010</p>
 		<p class="TuaDenLeft">Đôi Lời Giới Thiệu:  </p>
  	<p>Đây là bài “<i>Nghĩ Lại Xem</i>”, một trong số 46 
 	bài ngắn của Tỳ kheo Abhinyana trong cuốn “<i>Về Với Thực Tại</i>”, từ 

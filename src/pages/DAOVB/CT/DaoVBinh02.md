@@ -3,7 +3,7 @@ layout: ../../../layouts/Article.astro
 title: "Cam Ranh: Điểm Tụ Hội Của Quần Hùng?"
 author: "Đào Văn Bình"
 date: 2013-03-06
-source: "https://sachhiem.net/DAOVB/CT/DaovBinh02.php"
+source: "/DAOVB/CT/DaovBinh02"
 category: "Chính trị"
 lang: vi
 wordCount: 2743

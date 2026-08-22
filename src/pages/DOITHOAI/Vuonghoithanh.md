@@ -3,7 +3,7 @@ layout: ../../layouts/Article.astro
 title: "Đọc ‘Tâm Bút Cùng Trà Kiệu’ của Trần Trung Đạo"
 author: "Vương H Thành"
 date: 2015-06-09
-source: "https://sachhiem.net/DOITHOAI/Vuonghoithanh.php"
+source: "/DOITHOAI/Vuonghoithanh"
 category: "Chính trị"
 lang: vi
 wordCount: 1891
@@ -24,7 +24,7 @@ image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/TONGIAO/IMG/CHURCH/G
     <b>Subject:</b> Re: Về: [ChinhNghia] FW: Trần Trung Đạo là chắt đích tôn của Cụ  Sáu Trần Lục. Trần Lục làm tay sai cho thực dân Pháp tiêu diệt các phong trào  yêu nước chống xâm lăng của Văn Thân, Cần Vương, và các vua chúa triều Nguyễn.</p>
    <p>Nếu <i>‘gia nô</i><b>’</b> là danh từ để chỉ cho hạng người chỉ biết cúi đầu làm theo lịnh sai khiến của kẻ  có tiền, và <i>‘bồi bút</i>’ là chuyện viết thuê, viết lời tán tụng vô lối viết  với đạo lý khập khểnh, không chừng mực, đúng đắn của hạng vô liêm sỉ, thì Trần  Trung Đạo (TTĐ) là loại nhà văn thuộc về diện trên. Ngoài tài mô tả lanh quanh, ông  không có khả năng suy luận. <br>
    </p>
-  <p>Qua bài <i>‘Tâm Bút Cùng Trà  Kiệu</i>’ (<a href="https://sachhiem.net/index.php?content=showemail&amp;id=972">xem</a>), TTĐ đã tự chứng minh ông là người rất mâu thuẫn với chính mình. Ông phê  phán nặng nề, lối học xưa ở nước ta thời xưa là hủ nho, một <i>“hệ thống  giáo dục lỗi thời</i>”. Nhưng rồi thật mỉa mai tất cả những sự vô  lý và lỗi thời của ý tưởng, người đọc lại tìm thấy chính ở tác giả Trần Trung Đạo.
+  <p>Qua bài <i>‘Tâm Bút Cùng Trà  Kiệu</i>’ (<a href="/hop-thu/972">xem</a>), TTĐ đã tự chứng minh ông là người rất mâu thuẫn với chính mình. Ông phê  phán nặng nề, lối học xưa ở nước ta thời xưa là hủ nho, một <i>“hệ thống  giáo dục lỗi thời</i>”. Nhưng rồi thật mỉa mai tất cả những sự vô  lý và lỗi thời của ý tưởng, người đọc lại tìm thấy chính ở tác giả Trần Trung Đạo.
 </p>
   <p>Trần Trung Đạo vụng về  khi nêu lên một câu chuyện tranh chấp đến độ phải xảy ra ác chiến với nhau giữa  hai bên, nhưng VÔ LÝ vì nội dung câu chuyện của xóm đạo Trà Kiệu bị tấn công  đánh phá như việc vô duyên, vô cớ! <br>
   </p>
@@ -65,6 +65,6 @@ image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/TONGIAO/IMG/CHURCH/G
     Sent: Wed, Jun 3, 2015 5:57 am</p>
   <p>_____________________</p>
   <p><b>Những bài liên quan:</b></p>
-  <p>- <a href="https://sachhiem.net/index.php?content=showemail&amp;id=972">Bài viết của Trần Trung Đạo - dưới một thư phản hồi</a>  </p>
-  <p>- <a href="https://www.sachhiem.net/index.php?content=showrecipe&amp;id=6341">Im Lặng Và Lên Tiếng (Nguyên Giác)</a>
+  <p>- <a href="/hop-thu/972">Bài viết của Trần Trung Đạo - dưới một thư phản hồi</a>  </p>
+  <p>- <a href="/TONGIAO/tgN/Nguyengiac01">Im Lặng Và Lên Tiếng (Nguyên Giác)</a>
 </p>

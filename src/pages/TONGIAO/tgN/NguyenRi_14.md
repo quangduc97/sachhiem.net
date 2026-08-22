@@ -3,7 +3,7 @@ layout: ../../../layouts/Article.astro
 title: "Ca-tô Rô-ma Giáo: Gian Dối và Tội Ác"
 author: "Nguyễn Ri"
 date: 2015-08-06
-source: "https://sachhiem.net/TONGIAO/tgN/NguyenRi_14.php"
+source: "/TONGIAO/tgN/NguyenRi_14"
 category: "Tác giả"
 lang: vi
 wordCount: 1243
@@ -63,4 +63,4 @@ image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/TONGIAO/IMG/VATICAN/
 <p align="center"><img src="https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/TONGIAO/IMG/VATICAN/INQUI/IrishRebel_1.JPG" alt="cuộc Nổi Loạn ở Ái Nhĩ Lan năm 1641" width="400" height="376"><img src="https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/TONGIAO/IMG/VATICAN/INQUI/IrishRebel_2.JPG" alt="cuộc Nổi Loạn ở Ái Nhĩ Lan năm 1641" width="400" height="331"> <img src="https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/TONGIAO/IMG/VATICAN/INQUI/IrishRebel_3.JPG" alt="cuộc Nổi Loạn ở Ái Nhĩ Lan năm 1641" width="400" height="367"> <img src="https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/TONGIAO/IMG/VATICAN/INQUI/IrishRebel_4.JPG" alt="cuộc Nổi Loạn ở Ái Nhĩ Lan năm 1641" width="400" height="267"> <img src="https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/TONGIAO/IMG/VATICAN/INQUI/IrishRebel_5.JPG" alt="cuộc Nổi Loạn ở Ái Nhĩ Lan năm 1641" width="400" height="352"></p>
 
 __________________
- <p>Các bài của Nguyễn Ri: link <a href="https://sachhiem.net/TONGIAO/tgN/ListRiNguyen.inc.php" target="_blank">https://sachhiem.net/TONGIAO/tgN/ListRiNguyen.inc.php</a></p>
+ <p>Các bài của Nguyễn Ri: link <a href="/TONGIAO/tgN/ListRiNguyen.inc" target="_blank">https://sachhiem.net/TONGIAO/tgN/ListRiNguyen.inc.php</a></p>

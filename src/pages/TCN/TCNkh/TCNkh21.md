@@ -3,7 +3,7 @@ layout: ../../../layouts/Article.astro
 title: "Về Những Luận Cứ Chống"
 author: "Trần Chung Ngọc"
 date: 2012-08-15
-source: "https://sachhiem.net/TCN/TCNkh/TCNkh21.php"
+source: "/TCN/TCNkh/TCNkh21"
 category: "Khoa học"
 lang: vi
 wordCount: 14205
@@ -250,7 +250,7 @@ image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/KHOAHOC/IMG/DarwinDa
       thì “Thiết kế thông minh” thật ra chỉ là cái xác của “sáng tạo ngu đần”
       với bộ mặt “thiết kế” để nghe cho có vẻ khoa học, để xin được dạy trong
       các trường học Mỹ, song song với thuyết khoa học Tiến Hóa, nhưng đã thất
-      bại. Xin đọc: <a href="https://www.sachhiem.net/TCN/TCNkh/TCNkh12.php">https://www.sachhiem.net/TCN/TCNkh/TCNkh12.php</a>.&nbsp;
+      bại. Xin đọc: <a href="/TCN/TCNkh/TCNkh12">https://www.sachhiem.net/TCN/TCNkh/TCNkh12.php</a>.&nbsp;
       Cho nên, các con chiên Việt Nam cứ việc lên tiếng chống thuyết Tiến Hóa
       đi, nhưng thử hỏi có thể thuyết phục được ai trừ những kẻ cũng đần độn
       như mình.&nbsp; Những kẻ đần độn này cũng không đủ trình độ để hiểu rằng, với
@@ -597,7 +597,7 @@ image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/KHOAHOC/IMG/DarwinDa
         dẫn chứng những tài liệu về thái độ của người dân đối với những giáo
         lý và bản chất của Ki Tô Giáo, Công giáo cũng như Tin Lành như thế nào.&nbsp;
         Ở đây tôi muốn nói đến một tài liệu về tỷ lệ dân số tin thuyết Tiến Hóa
-        trong một số nước: <a href="https://www.sachhiem.net/THOISU_CT/ChuT/TinEconom.php">https://www.sachhiem.net/THOISU_CT/ChuT/TinEconom.php</a></p>
+        trong một số nước: <a href="/THOISU_CT/ChuT/TinEconom">https://www.sachhiem.net/THOISU_CT/ChuT/TinEconom.php</a></p>
 
 <p>
       Nhìn vào bảng thống kê này chúng ta thấy tỷ lệ dân số tin thuyết Tiến Hóa

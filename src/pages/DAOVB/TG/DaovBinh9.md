@@ -3,7 +3,7 @@ layout: ../../../layouts/Article.astro
 title: "Tâm Chúng Sinh và Tâm Phật"
 author: "Đào Văn Bình"
 date: 2014-09-10
-source: "https://sachhiem.net/DAOVB/TG/DaovBinh9.php"
+source: "/DAOVB/TG/DaovBinh9"
 category: "Tác giả"
 lang: vi
 wordCount: 1996

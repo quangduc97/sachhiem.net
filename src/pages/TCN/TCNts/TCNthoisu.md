@@ -1,7 +1,7 @@
 ---
 layout: ../../../layouts/Article.astro
 title: "Trần Chung Ngọc Thời Sự"
-source: "https://sachhiem.net/null"
+source: "/null"
 lang: vi
 wordCount: 411
 ---

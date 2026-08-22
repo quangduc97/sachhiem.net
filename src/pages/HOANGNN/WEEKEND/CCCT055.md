@@ -2,7 +2,7 @@
 layout: ../../../layouts/Article.astro
 title: "THẠCH SANH IMF và WORLD BANK"
 author: "Hoàng Nguyên Nhuận"
-source: "https://sachhiem.net/null"
+source: "/null"
 lang: vi
 wordCount: 1725
 ---

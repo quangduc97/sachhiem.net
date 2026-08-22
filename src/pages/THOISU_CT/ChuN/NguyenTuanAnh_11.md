@@ -3,7 +3,7 @@ layout: ../../../layouts/Article.astro
 title: "Cuộc Kháng Chiến Chống Mỹ Cứu Nước"
 author: "Nguyễn Tuấn Anh"
 date: 2025-12-25
-source: "https://sachhiem.net/THOISU_CT/ChuN/NguyenTuanAnh_11.php"
+source: "/THOISU_CT/ChuN/NguyenTuanAnh_11"
 category: "Chính trị"
 lang: vi
 wordCount: 5209
@@ -70,7 +70,7 @@ image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/LICHSU/IMG/30_4_AtMa
       <li>Chiến dịch Lainơbêchcơ (6.4-22.10.1972), sử dụng  không quân, hải quân đánh phá ồ ạt các mục tiêu quân sự, kinh tế, hệ thống giao  thông, đê điều và khu dân cư từ Vĩnh Linh đến Hà Nội, Hải Phòng, Lạng Sơn</li>
       <li>“Lainơbêchcơ  II” (18-30.12.1972), tập trung đánh phá các mục tiêu ở Hà Nội, Hải Phòng và các  vùng phụ cận&nbsp;</li>
     </ul>
-	<p>(6) <a href="https://sachhiem.net/printemail.php?id=2209">[trích từ “Robert S.Mc.Namara: Nhìn lại quá khứ. Tấn thảm kịch và những bài học Việt Nam, Nhà xuất bản Chính trị quốc gia, Hà Nội, 1995, tr.43-44”]</a></p>
+	<p>(6) <a href="/printemail.php?id=2209">[trích từ “Robert S.Mc.Namara: Nhìn lại quá khứ. Tấn thảm kịch và những bài học Việt Nam, Nhà xuất bản Chính trị quốc gia, Hà Nội, 1995, tr.43-44”]</a></p>
 	<p>(7) <a href="https://dantri.com.vn/the-gioi/robert-mcnamara-11-sai-lam-cua-my-trong-chien-tranh-viet-nam-1114080191.htm" style="text-decoration: none; font-family: Roboto, tahoma, arial, verdana, helvetica, 'times new roman'; font-size: 21.296px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: justify; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: normal; background-color: rgb(253, 253, 253);">Robert McNamara: 11 sai lầm của Mỹ trong chiến tranh Việt Nam</a><span style="font-family:Roboto, tahoma, arial, verdana, helvetica, 'times new roman'; font-size:21.296px; color:rgb(34, 34, 34); font-style:normal; font-weight:400; ">&nbsp;(Dân Trí, 22/04/2005)</span></p>
 	<p>(8) Taylor bình luận về sự kiện Sài Gòn thất thủ—và cùng với đó là sự sụp đổ của nền Cộng hòa Việt Nam—trong một cuộc phỏng vấn với UPI vào tháng 5 năm 1975. Trích dẫn từ tác phẩm <i>*General Maxwell Taylor: The Sword and the Pen</i>* (1989), tr. 366: <a href="https://en.wikiquote.org/wiki/Maxwell_D._Taylor#:~:text=Even%20then%2C%20we%20should%20have,unduly%20high%20risks%20of%20failure.&amp;text=The%20acceptance%20of%20the%20legitimacy,full%20scope%20of%20our%20intentions.">[We all have a share in it, and none of it is good. There are no heroes, just bums. I include myself in that.</a>]</p>
 	<p>(9) <a href="https://nhandan.vn/su-that-khong-the-choi-cai-ky-1-post333722.html">Vietnam, The Ten Thousand Day War</a> (Việt Nam, cuộc chiến mười nghìn ngày) xuất bản tại London (Luân Đôn) năm 1982, tác giả M.McLear (M.Mắc-lia)</p>
@@ -84,7 +84,7 @@ image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/LICHSU/IMG/30_4_AtMa
 	<p class="indent50">Sau 1 năm chuẩn bị bao gồm cả việc tuyển mộ, đào tạo điệp viên với sự hợp tác được cho là toàn diện nhất với cơ quan an ninh của chính quyền Ngô Đình Diệm, CIA mới thực hiện được điệp vụ đầu tiên xâm nhập miền Bắc VN qua khu phi quân sự (DMZ) ở hai bên bờ sông Bến Hải. Một nam điệp viên đã bơi qua sông Bến Hải bằng săm ôtô trước nửa đêm <b>5/12/1960</b>. (Trong tài liệu vừa được giải mật, mật danh của điệp viên này vẫn bị bôi đen - PV) ...</p>
 	<p>-  Phát Hiện 7 Tên Biệt Kích VNCH Đổ Bộ Giữa Đêm, Đôi Nam Nữ Báo Động Cả Làng Dậy Bắt - <a href="https://www.youtube.com/watch?v=1Lh8bSaXwaI">Việt Sử Giai Thoại</a> </p>
 	<p>- </p>
-	<p>- <a href="https://sachhiem.net/LICHSU/FB/FBNguyenAlex.php">Không Thể Im Lặng Trước Những Luận Điệu Xuyên Tạc Lịch Sử!</a></p>
+	<p>- <a href="/LICHSU/FB/FBNguyenAlex">Không Thể Im Lặng Trước Những Luận Điệu Xuyên Tạc Lịch Sử!</a></p>
 	<p>- “Xét lại lịch sử” - âm mưu thâm độc (<a href="https://baobinhphuoc.com.vn/news/1/2957/xet-lai-lich-su---am-muu-tham-doc">Bình Phước, 06/10/2019</a>)</p>
 	<p>- <a href="https://www.youtube.com/watch?v=7FsA1KbugVk">Toàn Cảnh Chiến Tranh Việt Nam | Hoa Kỳ Tham Chiến</a></p>
     

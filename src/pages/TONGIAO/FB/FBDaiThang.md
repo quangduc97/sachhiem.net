@@ -3,7 +3,7 @@ layout: ../../../layouts/Article.astro
 title: "Tu Sĩ Ca-tô Lạm Dụng Tình Dục - Giáo Phận Rochester, New York"
 author: "Đại Thắng sưu tầm"
 date: 2022-05-25
-source: "https://sachhiem.net/TONGIAO/FB/FBDaiThang.php"
+source: "/TONGIAO/FB/FBDaiThang"
 category: "Chính trị"
 lang: vi
 wordCount: 1333
@@ -43,23 +43,23 @@ Linh mục trung tâm của vụ án mới nhất, Andrzej Dymer, tuần trướ
     <p>(2)- <a href="https://notesfrompoland.com/2021/02/16/polands-catholic-church-accused-of-failing-to-take-action-against-paedophile-priest-for-25-years/">Poland’s Catholic church accused of failing to take action against paedophile priest for 25 years</a> - FEB 16, 2021</p>
     <p>____________________</p>
     <p><b>Những danh sách khác</b>:</p>
-      <p>-<a href="https://sachhiem.net/EMAILS/SH/Sachhiem42_LongHoang.php"> North Carolina, nhà thờ Charlotte (của người da đen) bị đốt cháy, 24/June/2015</a></p>
-     <p>- <a href="https://sachhiem.net/EMAILS/SH/Sachhiem42_list.php">Linh Mục Đã Chết Nhưng Vẫn Bị Lôi Ra Tòa</a></p>
-    <p>- <a href="https://sachhiem.net/TONGIAO/tgS/SH47.php">Tổng Giáo Phận Minnesota tiết lộ tên của 30 linh mục bị buộc tội lạm dụng trẻ vị thành niên</a></p>
-    <p>- <a href="https://sachhiem.net/TONGIAO/tgS/SH39.php">Liệu Giáo Hoàng Benedict XVI Có Bị Ra Tòa Vì Các Vụ Bê Bối Về Lạm Dụng Tình Dục Trong Giáo Hội Không ? </a></p>
-    <p>- <a href="https://sachhiem.net/TONGIAO/tgS/SH26_1.php">Trộm $400 ngàn, Bỏ Nghề Linh Mục Cưới Vợ, Bị Tù</a> - Danh Sách Tội Phạm Lê Thê </p>
-    <p>- <a href="https://sachhiem.net/TONGIAO/tgS/SH26.php">Quan Tòa Gọi Một Linh Mục Là Tên Côn Đồ </a></p>
+      <p>-<a href="/EMAILS/SH/Sachhiem42_LongHoang"> North Carolina, nhà thờ Charlotte (của người da đen) bị đốt cháy, 24/June/2015</a></p>
+     <p>- <a href="/EMAILS/SH/Sachhiem42_list">Linh Mục Đã Chết Nhưng Vẫn Bị Lôi Ra Tòa</a></p>
+    <p>- <a href="/TONGIAO/tgS/SH47">Tổng Giáo Phận Minnesota tiết lộ tên của 30 linh mục bị buộc tội lạm dụng trẻ vị thành niên</a></p>
+    <p>- <a href="/TONGIAO/tgS/SH39">Liệu Giáo Hoàng Benedict XVI Có Bị Ra Tòa Vì Các Vụ Bê Bối Về Lạm Dụng Tình Dục Trong Giáo Hội Không ? </a></p>
+    <p>- <a href="/TONGIAO/tgS/SH26_1">Trộm $400 ngàn, Bỏ Nghề Linh Mục Cưới Vợ, Bị Tù</a> - Danh Sách Tội Phạm Lê Thê </p>
+    <p>- <a href="/TONGIAO/tgS/SH26">Quan Tòa Gọi Một Linh Mục Là Tên Côn Đồ </a></p>
     <p>_________________</p>
     <p><b>Các bản báo cáo khác:</b></p>
     <p>- Quan Tòa Gọi Một Linh Mục Là Tên Côn Đồ (Hoa Long Vu)<br>
-      <a href="https://sachhiem.net/TONGIAO/tgS/SH26.php">https://sachhiem.net/TONGIAO/tgS/SH26.php</a></p>
+      <a href="/TONGIAO/tgS/SH26">https://sachhiem.net/TONGIAO/tgS/SH26.php</a></p>
     <p>- Xin Đừng Tranh Luận Về Tôn Giáo! (Liên Mạng)<br>
-      <a href="https://sachhiem.net/TONGIAO/tgS/SH28.php">https://sachhiem.net/TONGIAO/tgS/SH28.php</a></p>
+      <a href="/TONGIAO/tgS/SH28">https://sachhiem.net/TONGIAO/tgS/SH28.php</a></p>
     <p>- Những giáo phận ở Mỹ bị phạt trên 25 triệu Dollars vì nạn lạm dụng tình dục (Hoa long Vu)<br>
-      <a href="https://sachhiem.net/TONGIAO/tgS/SH29.php">https://sachhiem.net/TONGIAO/tgS/SH29.php</a></p>
+      <a href="/TONGIAO/tgS/SH29">https://sachhiem.net/TONGIAO/tgS/SH29.php</a></p>
     <p>- Đức Ông Lynn 3 Năm Tù - Những Danh Sách Đen (Minh To)<br>
-      <a href="https://sachhiem.net/EMAILS/MinhTo.php">https://sachhiem.net/EMAILS/MinhTo.php</a></p>
+      <a href="/EMAILS/MinhTo">https://sachhiem.net/EMAILS/MinhTo.php</a></p>
     <p>- Linh mục giết con để thủ tiêu, vì sợ giáo hội biết <br>
-      <a href="https://sachhiem.net/index.php?content=showemail&amp;id=119">https://sachhiem.net/index.php?content=showemail&amp;id=119</a></p>
+      <a href="/hop-thu/119">https://sachhiem.net/index.php?content=showemail&amp;id=119</a></p>
     <p>- 5 linh mục được Tòa vinh danh trong năm 2012 <br>
-      <a href="https://sachhiem.net/index.php?content=showemail&amp;id=118">https://sachhiem.net/index.php?content=showemail&amp;id=118 </a></p>
+      <a href="/com/story">https://sachhiem.net/index.php?content=showemail&amp;id=118 </a></p>

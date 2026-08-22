@@ -3,16 +3,16 @@ layout: ../../layouts/Article.astro
 title: "Việt Nam - Hình Hài Một Chữ S"
 author: "Dương Tố Đào - Đại học Công Nghệ Sài Gòn"
 date: 2013-01-09
-source: "https://sachhiem.net/LICHSU/YoutubeVN.php"
+source: "/LICHSU/YoutubeVN"
 category: "Lịch sử"
 lang: vi
 wordCount: 643
-image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nha.jpg"
+image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/LICHSU/IMG/VNchuS/YoutubeVN_clip_image001.jpg"
 ---
 
 <table border="0" cellpadding="0" width="250" align="center">
       <tbody><tr>
-       <td width="125"><a href="/index"><img border="0" src="https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nha.jpg"></a></td>
+       <td width="125"></td>
        <td valign="middle">09-Jan-2013</td>
       </tr>
      </tbody></table>

@@ -3,7 +3,7 @@ layout: ../../../layouts/Article.astro
 title: "Một Phụ Nữ Tự Thiêu Để Hậu Thuẫn Cho Cảnh Sát Biển Và Ngư Dân Phản Đối Trung Quốc Xâm Lược"
 author: "GGTienLang"
 date: 2014-05-23
-source: "https://sachhiem.net/THOISU_CT/ChuG/GGtienlang03.php"
+source: "/THOISU_CT/ChuG/GGtienlang03"
 category: "Chính trị"
 lang: vi
 wordCount: 1001
@@ -68,4 +68,4 @@ Tại cuộc họp báo diễn ra chiều nay, ông Lê Trương Hải Hiếu - 
   <p class="nguonL">Phỏng theo https://googletienlang2014.blogspot.com/2014/05/ba-le-thi-tuyet-mai-tu-thieu-truoc-dinh.html</p>
     <p>_________________</p>
   <p><b>Bài liên quan:</b></p>
-  <p><a href="https://sachhiem.net/index.php?content=showrecipe&amp;id=5992">- Di Nguyện Ngọn Đuốc Sống</a> (Đức Hoàng / VNE)</p>
+  <p><a href="/THOISU_CT/ChuG/GGtienlang03">- Di Nguyện Ngọn Đuốc Sống</a> (Đức Hoàng / VNE)</p>

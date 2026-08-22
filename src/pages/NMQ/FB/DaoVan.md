@@ -3,7 +3,7 @@ layout: ../../../layouts/Article.astro
 title: "Bênh Vực Kẻ Hạ Giá Cụ Hồ Và Các Giá Trị Tối Cao Của Đất Nước Là Có Lương Tâm Hay Sao?"
 author: "Kênh Youtube MLSCV"
 date: 2020-11-16
-source: "https://sachhiem.net/NMQ/FB/DaoVan.php"
+source: "/NMQ/FB/DaoVan"
 category: "Chính trị"
 lang: vi
 wordCount: 6840
@@ -19,9 +19,9 @@ image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/THOISU_CT/FB/Nguyenk
 <div class="indent50"><p>Ông bà lớn tuổi rồi mà vẫn còn ăn nói hàm hồ thiếu khách quan, lý lịch của ông bà chỉ là giáo viên thời vnch sang mỹ tự phong giáo sư lởm, thật là đáng khinh bỉ phỉ nhổ bẩn thỉu dân VN biết hết.. Còn ông bà muốn biết thì tìm giáo sư hoàng chí bảo phân tích về lịch sử và nghiên cứu bác hồ.. Còn cái mắng lịch sử chưa viết của ông bà thì để cho chó nó nghe.. Làm người phải có lương tâm</p>
 <p><img src="https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/THOISU_CT/FB/MLSCV.JPG" width="199" height="25" alt="">Chúng tôi có lương tâm mới phản biện những người chà đạp Bác Hồ và Bản Tuyên Ngôn Độc Lập Việt Nam.<span dir="auto"> </span><span dir="auto">Còn ai bênh vực kẻ chà đạp hạ giá Bác và Bản Văn tối cao của VN là có lương tâm hay sao?</span> </p>
 <p class="indent50">Ông Nguyễn Mạnh Quang không hề tự xưng. Ông có đến 2 giấy hành nghề ở Việt Nam đề rõ là "Giáo sư". </p>
-<p class="indent50"><a href="https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.devhttps://sachhiem.net/NMQ/IMG/Cert_TheCongVu_b.jpg">https://sachhiem.net/NMQ/IMG/Cert_TheCongVu_b.jpg</a></p>
+<p class="indent50"><a href="https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/NMQ/IMG/Cert_TheCongVu_b.jpg">https://sachhiem.net/NMQ/IMG/Cert_TheCongVu_b.jpg</a></p>
 <p class="indent50">và</p>
-<p class="indent50"><a href="https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.devhttps://sachhiem.net/NMQ/IMG/Cert_TheCongVu_a.jpg">https://sachhiem.net/NMQ/IMG/Cert_TheCongVu_a.jpg</a></p>
+<p class="indent50"><a href="https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/NMQ/IMG/Cert_TheCongVu_a.jpg">https://sachhiem.net/NMQ/IMG/Cert_TheCongVu_a.jpg</a></p>
 <p class="indent50"><span dir="auto">và thêm một thẻ nhận dạng cá nhân do Nha Học Chánh Hoa Kỳ chứng nhận PROFESSIONAL EDUCATION CERTIFICATE (tức là Chứng Nhận Giáo Dục Chuyên Nghiệp)</span></p>
 <p class="indent50"><img src="https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/NMQ/IMG/Certificate1981.jpg" width="400" height="300" alt=""></p>
 <p>[Chú thích của SH: Người ta gọi ông là giáo sư từ thời trước 1975. Thời VNCH, Trung học chỉ có hai cấp: Đệ Nhất cấp từ lớp 6 đến lớp 9, Đệ Nhị Cấp từ lớp 10 đến lớp 12, tương đương với cấp 3 ngày nay. </p>

@@ -3,7 +3,7 @@ layout: ../../../layouts/Article.astro
 title: "Em Để Dành Mùa Xuân, Đợi Anh Về Mới Nở"
 author: "FB Doan Quang Minh"
 date: 2018-10-13
-source: "https://sachhiem.net/XAHOI/FB/DoanQuangMinh.php"
+source: "/XAHOI/FB/DoanQuangMinh"
 category: "Chính trị"
 lang: vi
 wordCount: 303

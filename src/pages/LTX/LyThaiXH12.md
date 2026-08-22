@@ -2,7 +2,7 @@
 layout: ../../layouts/Article.astro
 title: "Ngày Quốc Tế Phụ Nữ"
 author: "Lý Thái lược dịch"
-source: "https://sachhiem.net/LTX/LyThaiXH12.php"
+source: "/LTX/LyThaiXH12"
 category: "Xã hội"
 lang: vi
 wordCount: 1059

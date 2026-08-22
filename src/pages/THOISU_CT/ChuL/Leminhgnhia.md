@@ -2,7 +2,7 @@
 layout: ../../../layouts/Article.astro
 title: "Những vấn đề về chủ quyền lãnh thổ"
 author: "Lê Minh Nghĩa"
-source: "https://sachhiem.net/null"
+source: "/null"
 category: "Chính trị"
 lang: vi
 wordCount: 10302
@@ -32,7 +32,7 @@ image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nhacu.jpg"
 <tr><td width="100%" bgcolor="White"> 
 <blockquote>
 	<table border="0" id="3" cellpadding="10" width="80%" align="center"><tbody><tr>
-				<td valign="top" width="242"><a href="https://sachhiem.net/"><img border="0" src="https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nhacu.jpg" width="49" height="20"></a></td>
+				<td valign="top" width="242"><a href="/"><img border="0" src="https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nhacu.jpg" width="49" height="20"></a></td>
 	<td valign="top">	12 tháng 12, 2007
 	</td></tr></tbody></table>
 	

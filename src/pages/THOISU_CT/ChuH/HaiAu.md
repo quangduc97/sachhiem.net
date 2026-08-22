@@ -3,7 +3,7 @@ layout: ../../../layouts/Article.astro
 title: "Chủ Nghĩa Tư Bản Nông Cạn của Philippines:"
 author: "Richard Javad Heydarian"
 date: 2015-01-13
-source: "https://sachhiem.net/THOISU_CT/ChuH/HaiAu.php"
+source: "/THOISU_CT/ChuH/HaiAu"
 category: "Chính trị"
 lang: vi
 wordCount: 2277

@@ -3,7 +3,7 @@ layout: ../../../layouts/Article.astro
 title: "Kết Quả Bầu Cử - Kịch Bản Chỉ Mới Bắt Đầu"
 author: "Lữ Giang"
 date: 2016-11-17
-source: "https://sachhiem.net/THOISU_CT/ChuL/LuGiang02.php"
+source: "/THOISU_CT/ChuL/LuGiang02"
 category: "Chính trị"
 lang: vi
 wordCount: 2120
@@ -23,7 +23,7 @@ image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/THOISU_CT/Hinh/HOAKY
 <p>Xem ra ở Mỹ và trên thế giới chẳng ai sợ Trump cả,  nhiều người còn coi ông chỉ một <a href="https://presstv.com/Detail/2015/11/22/438759/Donald-Trump-deluded-clown">tên hề đang diễn kịch trên sân khấu.</a></p>
 <p class="TuaDoLeft"><b>MỘT THẢM KỊCH CỦA HOA KỲ?</b> </p>
 <p>Trong khi một số người Việt đấu tranh reo hò điên cuồng khi nghe  tin Donald Trump thắng cử, trong một bài dưới đầu đề “<b><i>Một thảm kịch của Hoa Kỳ</i></b>” (American Tragedy) đăng trên tờ The <a href="https://www.newyorker.com/news/news-desk/an-american-tragedy-2">New Yorker hôm 9.11.2016,</a> bình luận gia David Remnick đã viết: </p>
-<p>“<i>Việc Donald Trump đắc cử Tổng Thống không khác gì một bi  kịch đối với nền cộng hòa Mỹ, một bi kịch đối với Hiến Pháp Mỹ, và một sự chiến thắng đối với các quyền  lực, tại trong nước và hải ngoại, của chủ nghĩa bản địa bài ngoại, chủ nghĩa  chuyên chế, sự kỳ thị nữ giới, và phân biệt chủng tộc.  Chiến thắng chấn động của Trump, việc ông leo  lên ghế Tổng Thống, là một sự kiện đáng thất vọng trong lịch sử nước Mỹ và nền  dân chủ tự do”.</i><a href="https://sachhiem.net/index.php?content=showrecipe&amp;id=6799">(xem nguyên bản bài viết đã được dịch Việt</a> - SH) </p>
+<p>“<i>Việc Donald Trump đắc cử Tổng Thống không khác gì một bi  kịch đối với nền cộng hòa Mỹ, một bi kịch đối với Hiến Pháp Mỹ, và một sự chiến thắng đối với các quyền  lực, tại trong nước và hải ngoại, của chủ nghĩa bản địa bài ngoại, chủ nghĩa  chuyên chế, sự kỳ thị nữ giới, và phân biệt chủng tộc.  Chiến thắng chấn động của Trump, việc ông leo  lên ghế Tổng Thống, là một sự kiện đáng thất vọng trong lịch sử nước Mỹ và nền  dân chủ tự do”.</i><a href="/SACHNGOAI/snT/TheNewYorker">(xem nguyên bản bài viết đã được dịch Việt</a> - SH) </p>
 <p>Còn thế giới nghĩ gì về sự thắng cử của Donald Trump? Trang nhà RFI  của Pháp ngày 9.11.2016, dưới đầu đề “<b><i>Trump đắc cử, thế giới trở nên vô định</i></b>” đã viết như sau: </p>
 <p>“<i>Nếu như việc cử tri Anh Quốc bỏ phiếu thuận cho Brexit đã là  một trận động đất đối với Liên Hiệp Châu Âu, thì <b>việc nhà tỷ phú Donald Trump đắc cử tổng thống  là một trận động đất chính trị còn dữ dội hơn đối với toàn cầu, vì nó đưa Hoa  Kỳ và cả thế giới vào một thời kỳ vô định</b></i>.” </p>
 <p>Kể từ khi Donald Trump thắng cử đến nay, những bài viết như thế  này tràn ngập trên báo chí Mỹ và thế giới. Trong khi đó, các cuộc biểu tình nổi  lên khắp nơi trên nước Mỹ với những khẩu hiệu như “<i>Not my president</i>!”, “<i>Trump  makes America hate</i>”, “<i>Impeach Trump</i>”, “<i>Donald Trump’s a piece of  s****; he is not my president</i>”… Đây là chuyện chưa từng xảy ra trên đất Mỹ  sau các cuộc bầu cử tổng thống. Bản tin của AP ngày 12.11.2016 đã đặt vấn đề:  Trong chuyến công du cuối cùng, Obama phải tìm cách giải thích về Trump như thế  nào? </p>

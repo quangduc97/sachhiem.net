@@ -3,7 +3,7 @@ layout: ../../../layouts/Article.astro
 title: "Rất mong Giáo Hoàng Francis thôi “diễn tuồng”"
 author: "Nguyễn Ri"
 date: 2014-05-06
-source: "https://sachhiem.net/TONGIAO/tgN/NguyenRi_01.php"
+source: "/TONGIAO/tgN/NguyenRi_01"
 category: "Tác giả"
 lang: vi
 wordCount: 1692
@@ -45,7 +45,7 @@ image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/TONGIAO/IMG/VATICAN/
 <p align="center"><img src="https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/TONGIAO/IMG/VATICAN/POPE/Francis-druguser-20mar13.jpg" width="33%"> <img src="https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/TONGIAO/IMG/VATICAN/POPE/Francis-baby-27Mar13.jpg" width="33%"> <img src="https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/TONGIAO/IMG/VATICAN/POPE/Francis-disfigureman-17Nov13.jpg" width="33%"> </p>
  <p>Từ  khi lên nắm lên nắm quyền "Hội Thánh" <sup>*</sup> trên một năm qua, quả đúng là một tu sĩ của “Dòng Tên” <sup>**</sup>, ông ta đã “<u>diễn tuồng</u>” một cách hết sức ngoạn mục như: Rửa chân cho  mấy tên tù, hôn hít trẻ em, ăn ở đơn  giản, tỏ ý lo lắng cho người nghèo, hay nói các lời dễ nghe,... để đánh lạc hướng  dư luận đang soi mói các thối nát của Vatican. Những vấn đề mà ông cố tình tránh né đó có thể kể như nạn lạm dụng tình dục với trẻ  con của các đại diện Chúa, nạn rửa tiền,&nbsp;  nạn nhóm đồng tính gồm Hồng y, tu sĩ và các giáo sĩ khác (cardinals, monks, and other clergy) tại  Vatican. (<a href="https://www.nydailynews.com/news/world/vatican-pope-didn-resign-sex-scandal-article-1.1271641">https://www.nydailynews.com/news/</a>),  hay (<a href="https://www.vanityfair.com/culture/2013/12/gay-clergy-catholic-church-vatican">https://www.vanityfair.com/culture/</a>) &nbsp;v.v..&nbsp; </p>
  <p class="indent50">(*) phải gọi là "Hội Thánh Vật” mới đúng. Người VN chúng ta hay dùng nhóm từ &nbsp;“thánh vật mày”, hay “mấy đứa  thánh vật” để chỉ hay nói đến những kẻ “lưu manh hay mất nết”, &nbsp;ý là “Thánh”  sẽ trừng trị chúng. “Thánh” của người VN như đức Trần Hưng Đạo chứ không phải các “Thánh” được ra lò bởi  xưởng sản xuất “Thánh” Vatican như hai ông “Thánh” (John XXIII và John Paul  II) mới  được ông Giáo Hoàng Francis  cho ra lò mấy tuần vừa qua.</p>
- <p class="indent50">(**) để hiểu rõ về sự gian manh, giảo quyệt, độc ác của các tu sĩ dòng tu này, xin quý&nbsp; vị đọc : <a href="https://sachhiem.net/CHARLIE/CN_CGHT/dongten.php">Công Giáo Huyền Thoại và Tội  Ác - Charlie Nguyễn </a></p>
+ <p class="indent50">(**) để hiểu rõ về sự gian manh, giảo quyệt, độc ác của các tu sĩ dòng tu này, xin quý&nbsp; vị đọc : <a href="/CHARLIE/CN_CGHT/dongten">Công Giáo Huyền Thoại và Tội  Ác - Charlie Nguyễn </a></p>
 
 <p>Nếu Giáo Hoàng Francis thực sự là người <u>lương  thiện và có liêm sỉ</u> ông ta đã làm các điều sau đây: &nbsp;</p>
 <p> ● Giao tất cả các “Chúa Thứ Hai” đã xâm hại tình dục  trẻ con cho chính quyền thế tục xét xử</p>
@@ -57,7 +57,7 @@ image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/TONGIAO/IMG/VATICAN/
 <p><i>Bài viết thể hiện văn phong và quan điểm của tác giả </i></p>
 __________________________
 <p><b>Bài liên quan:</b></p>
-<p><a href="https://sachhiem.net/TONGIAO/tgN/NguyenRi.php">- Xưởng Sản Xuất Thánh</a> (Nguyễn Ri)</p>
-<p><a href="https://sachhiem.net/index.php?content=showrecipe&amp;id=5707">- Kế Sách Phong Thánh Cho Cố H.Y. Nguyễn Văn Thuận</a> (Nguyễn Mạnh Quang)</p>
+<p><a href="/TONGIAO/tgN/NguyenRi">- Xưởng Sản Xuất Thánh</a> (Nguyễn Ri)</p>
+<p><a href="/NMQ/NMQ043">- Kế Sách Phong Thánh Cho Cố H.Y. Nguyễn Văn Thuận</a> (Nguyễn Mạnh Quang)</p>
 __________________
- <p>Các bài của Nguyễn Ri: link <a href="https://sachhiem.net/TONGIAO/tgN/ListRiNguyen.inc.php" target="_blank">https://sachhiem.net/TONGIAO/tgN/ListRiNguyen.inc.php</a></p>
+ <p>Các bài của Nguyễn Ri: link <a href="/TONGIAO/tgN/ListRiNguyen.inc" target="_blank">https://sachhiem.net/TONGIAO/tgN/ListRiNguyen.inc.php</a></p>

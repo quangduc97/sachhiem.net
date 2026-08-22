@@ -3,7 +3,7 @@ layout: ../../../layouts/Article.astro
 title: "Đã Tìm Được Nơi Nhà Thơ Ngô Kha Bị Giết Hại"
 author: "Hồng Hạc"
 date: 2013-02-25
-source: "https://sachhiem.net/VANHOC/N/Ngokha_Honghac.php"
+source: "/VANHOC/N/Ngokha_Honghac"
 category: "Tác giả"
 lang: vi
 wordCount: 1203

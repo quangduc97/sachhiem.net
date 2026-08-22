@@ -2,15 +2,14 @@
 layout: ../../../layouts/Article.astro
 title: "Thêm Một Tiên Đoán Về \"Ngày Tận Thế\"!"
 author: "Trần Chung Ngọc"
-source: "https://sachhiem.net/TCN/TCNtg/TCN95.php"
+source: "/TCN/TCNtg/TCN95"
 category: "Tác giả"
 lang: vi
 wordCount: 11756
-image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nha.jpg"
+image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/TCN/IMG/144000DoThai.jpg"
 ---
 
-<p align="center"><a href="https://www.sachhiem.net/">
-<img border="0" src="https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nha.jpg"></a> 29 tháng 4,  2010</p>
+<p align="center"> 29 tháng 4,  2010</p>
 		
 		<p class="MsoNormal"> <span class="First">G</span>ần đây trên các diễn 
 		đàn truyền thông điện tử và báo chí chúng ta đọc được tin về một cuốn 
@@ -422,7 +421,7 @@ image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nha.jpg"
 	nào. Vì vậy tôi sẽ không trích dẫn thêm từ sách Khải Huyền nữa. Độc giả 
 	nào tò mò muốn biết những chuyện cực kỳ hoang đường trong sách Khải Huyền 
 	xin tìm đọc bài “Ngày Tận Thế Của Ki Tô Giáo” trên
-	<a href="https://www.sachhiem.net/TCN/TCNtg/TCN45.php">
+	<a href="/TCN/TCNtg/TCN45">
 	https://www.sachhiem.net/TCN/TCNtg/TCN45.php</a></p>
 	
 	<p> <u>Niềm tin vào Ngày 

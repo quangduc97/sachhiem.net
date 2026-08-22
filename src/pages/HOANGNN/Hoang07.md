@@ -2,11 +2,10 @@
 layout: ../../layouts/Article.astro
 title: "MỘT ĐÓNG GÓP"
 author: "Hoàng Nguyên Nhuận"
-source: "https://sachhiem.net/HOANGNN/Hoang07.php"
+source: "/HOANGNN/Hoang07"
 category: "Chính trị"
 lang: vi
 wordCount: 6693
-image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nha.jpg"
 ---
 
 <p class="Tuaduoi">CHO HẠNH PHÚC TRONG TỰ DO 
@@ -14,8 +13,7 @@ image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nha.jpg"
 
 
  
-<p align="center"><a href="https://www.sachhiem.net/">
-	<img border="0" src="https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nha.jpg"></a> 01&nbsp; tháng 9, 2007</p>
+<p align="center"> 01&nbsp; tháng 9, 2007</p>
 
 <p class="MsoNormal">‘Tham nhũng không chỉ 
 trở thành "quốc nạn", thành "giặc" mà theo tôi, còn <b>nguy hại gấp ngàn lần 

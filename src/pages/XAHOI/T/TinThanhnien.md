@@ -2,11 +2,11 @@
 layout: ../../../layouts/Article.astro
 title: "\"Đừng Đốt\""
 author: "Lê Quang/Thanh Niên"
-source: "https://sachhiem.net/null"
+source: "/null"
 category: "Chính trị"
 lang: vi
 wordCount: 1037
-image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nha.jpg"
+image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/THOISU_CT/Hinh/VIETNAM/DangTTramoMy.jpg"
 ---
 
 <div align="center" style="position: relative; left: 0; top: 0">
@@ -28,8 +28,7 @@ image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nha.jpg"
 	<div style="padding-left: 40px; padding-right: 40px">
 	
 		<table border="0" cellpadding="10" width="80%" cols="2"><tbody><tr>
-		<td width="326"><a href="/index">
-		<img border="0" src="https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nha.jpg"></a></td>
+		<td width="326"></td>
 		<td valign="top">	14 tháng 11, 2009
 		</td></tr></tbody></table>
 		<pstyle="background: white"=""><b>&nbsp; </b>

@@ -3,7 +3,7 @@ layout: ../../../layouts/Article.astro
 title: "Lịch Sử Chế Độ Ngô Đình Diệm Trong 999 Chữ"
 author: "Sưu tầm và Tổng kết của Kevin Trần"
 date: 2018-01-11
-source: "https://sachhiem.net/LICHSU/N/Namgiao_06.php"
+source: "/LICHSU/N/Namgiao_06"
 category: "Chính trị"
 lang: vi
 wordCount: 1872
@@ -17,7 +17,7 @@ image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/LICHSU/IMG/NGODD/Tra
           <p align="center"><i>Hình bìa số Xuân Canh Tý (1960) của báo Tự Do xuất bản tại Sài Gòn, đăng hình của Họa sĩ Nguyễn Gia Trí, vẽ 5 con chuột gậm nhắm trái dưa hấu, hàm ý tố cáo 4 anh em nhà Ngô (Thục, Diệm, Nhu, Cẩn) và bà Trần Lệ Xuân đang đục khoét miền Nam.  Vừa phát hành, báo tức khắc bị tịch thu, tòa soạn bị đóng cửa và Ban chủ trương bị bắt đi tù</i></p>
           
 <p>&lt;START&gt;"<i>Họ Ngô có 4 gian hùng / Diệm ngu, Nhu ác, Cẩn khùng, Thục điên</i>": Đó là câu vè &nbsp;tại miền Trung vào những năm 1960s của thế kỷ trước. Câu vè đó mô tả nhân cách của 4 người đàn ông dòng họ Ngô&nbsp;Đình đã từng một thời là cấp lãnh đạo chóp bu của miền Nam Việt Nam với ông Ngô Đình Diệm làm Tổng thống. Ông Diệm được Mỹ "bồng" về làm Tổng thống bằng một cuộc bầu cử gian lận năm 1955 (98.2% số phiếu thắng vua Bảo Đại) để biến miền Nam thành&nbsp;tiền đồn&nbsp;chống Cộng cho Tài phiệt Mỹ và để làm công cụ cho Đế quốc Vatican mở mang nước Chúa. </p>
-<p>Bốn “bà mụ” Mỹ đã nuôi và bồng ông Diệm về Việt Nam là Hồng y Spellman, Ngoại trưởng Dulles, Thượng nghị sĩ Mansfield và trùm tình báo Lansdale. Không có họ đỡ đầu và giúp đỡ, ông Diệm đã chỉ là một anh chính khách xa-lông “<i>bao năm từng lê gót nơi quê người</i>” như câu đầu của&nbsp;<a href="https://sachhiem.net/THLOI/CT/Taton.php">bài hát&nbsp;<i>Suy Tôn Ngô Tổng Thống</i></a>&nbsp;mô tả mà thôi. Chính nhờ họ mà kinh viện, quân viện và "cố vấn" Mỹ đổ ào ạt vào miền Nam, giúp chế độ ông Diệm đạt được một số thành quả kinh tế xã hội&nbsp;trong vài năm đầu tiên&nbsp; … </p>
+<p>Bốn “bà mụ” Mỹ đã nuôi và bồng ông Diệm về Việt Nam là Hồng y Spellman, Ngoại trưởng Dulles, Thượng nghị sĩ Mansfield và trùm tình báo Lansdale. Không có họ đỡ đầu và giúp đỡ, ông Diệm đã chỉ là một anh chính khách xa-lông “<i>bao năm từng lê gót nơi quê người</i>” như câu đầu của&nbsp;<a href="/THLOI/CT/Taton">bài hát&nbsp;<i>Suy Tôn Ngô Tổng Thống</i></a>&nbsp;mô tả mà thôi. Chính nhờ họ mà kinh viện, quân viện và "cố vấn" Mỹ đổ ào ạt vào miền Nam, giúp chế độ ông Diệm đạt được một số thành quả kinh tế xã hội&nbsp;trong vài năm đầu tiên&nbsp; … </p>
           <p>Tuy nhiên, đến cuối năm 1959,&nbsp;ông Diệm bắt đầu thiết lập chế độ độc tài với 3 gọng kềm:&nbsp;<i>Gia đình trị, Công giáo trị</i>&nbsp;và&nbsp;<i>Công an trị;</i>&nbsp;và đến năm 1960 thì ông Diệm bắt đầu trở thành bù nhìn, để cho ông bà Nhu thao túng quyền lực quốc gia. Vì vậy mà trong 8 năm bạo trị, quân dân miền Nam đã nổi lên chống đối kịch liệt&nbsp;8 lần, hầu như mỗi năm một lần: Vụ thảm sát Quốc Dân Đảng tại chiến khu&nbsp;<b>Ba Lòng 1955</b>, vụ mưu sát&nbsp;<b>Ban Mê thuột 1957</b>, vụ Tuyên ngôn&nbsp;<b>Caravelle 1960</b>, vụ binh biến của binh chủng&nbsp;<b>Nhảy Dù 1960</b>, vụ ném bom&nbsp;<b>Dinh Độc lập 1962</b>, vụ tự vẫn của văn hào&nbsp;<b>Nhất Linh 1963</b>, vụ đàn áp&nbsp;<b>Phật Giáo 1963</b>. Đó là chưa kể đông đảo nhân dân miền Nam vì bất mãn với chế độ Diệm nên đã theo ủng hộ "Mặt trận Dân tộc Giải phóng Miền Nam" chống lại chính quyền.&nbsp;Cuối cùng, lần thứ 8 vào năm 1963, đã độc tài bạo trị mất lòng dân như thế, Diệm-Nhu lại còn mưu đồ thỏa hiệp với Cộng sản Hà Nội, phản lại&nbsp;<b>Hiến Pháp Việt Nam Cộng hòa</b>, phản lại gần một triệu&nbsp;<b>đồng bào Công giáo</b>&nbsp;Bắc di cư 1954, phản lại chiến lược chống Cộng của&nbsp;<b>chủ nhân Mỹ</b>, và phản lại biết bao&nbsp;hy sinh xương máu của<b> Quân đội VNCH</b>&nbsp;đã bỏ mạng ngoài chiến trường. Phản như thế nên bị lật đổ&nbsp;là đáng rồi, là đúng rồi!</p>
           <p>Thế mà nhóm "hoài Ngô" lại bảo là vì Diệm chống Mỹ đổ quân vào VN nên bị Mỹ lật!!! Thật ra, năm 1963, sau thất bại thê thảm vụ Vịnh Con Heo (1961, Cuba) và trước thềm cuộc tranh cử Tổng thống (1964), Kennedy đã không những không muốn một cuộc phiêu lưu quân sự đầy bất trắc tại Việt Nam (chắc chắn làm mất phiếu) mà còn quyết định, từ tháng 10/1963, sẽ rút hết&nbsp;<a href="https://www.thenation.com/article/jfks-vietnam-withdrawal-plan-fact-not-speculation/">quân Mỹ về nước vào năm 1965</a>, chỉ để lại&nbsp;1,000 “cố vấn” (<a href="https://en.wikipedia.org/wiki/National_Security_Action_Memorandum_263">National Security Action Memorandum số 263</a>, ngày 11-10-1963,&nbsp;Xem thêm&nbsp;<i><a href="https://thuvienhoasen.org/a18578/ho-so-mat-1963">Hồ Sơ Mật 1963</a></i>).&nbsp; Nhà văn Doãn Quốc Sỹ đã gói ghém quan hệ Mỹ-Diệm trong một câu: “<i>Bảo là người Mỹ đã giết Diệm? Không! Diệm đã chết trong lòng dân tộc từ lâu. Mỹ chỉ đến lượm xác chết của y</i>” (<i>Người Việt Đáng Yêu</i>, Sáng Tạo, Sài Gòn, 1965)</p>
           <p align="center"><img src="https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/SACHNGOAI/Hinhanh/BIASACH/NSA_Memo_263.jpg" width="400" alt=""></p>
@@ -53,9 +53,9 @@ image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/LICHSU/IMG/NGODD/Tra
 <p>_________________</p>
 <p><b>Xin mời đọc thêm:</b>   
   </p>
-<p>- <a href="https://sachhiem.net/index.php?content=showemail&amp;id=2442">Tiếp tục phủ nhận sự kiện tự thiêu của HT TQD: bào chữa cho chế độ Ngô Đình Diệm</a> (P. Thanh Duy)</p>
-<p><a href="https://sachhiem.net/index.php?content=showemail&amp;id=2440">- Những xảo biện trong cách viết của ông Bằng Phong Đặng Văn Âu</a> (P. Thanh Duy)</p>
-<p><a href="https://sachhiem.net/index.php?content=showemail&amp;id=2439">- Lưu ý ông Bằng Phong Đặng Văn Âu đừng có gian xảo</a> (Trần Quang Diệu)</p>
+<p>- <a href="/hop-thu/2442">Tiếp tục phủ nhận sự kiện tự thiêu của HT TQD: bào chữa cho chế độ Ngô Đình Diệm</a> (P. Thanh Duy)</p>
+<p><a href="/net/index">- Những xảo biện trong cách viết của ông Bằng Phong Đặng Văn Âu</a> (P. Thanh Duy)</p>
+<p><a href="/com/noidung_detail">- Lưu ý ông Bằng Phong Đặng Văn Âu đừng có gian xảo</a> (Trần Quang Diệu)</p>
 
 <a href="/indexCT">
 <p class="trang">Trang Thời Sự</p>

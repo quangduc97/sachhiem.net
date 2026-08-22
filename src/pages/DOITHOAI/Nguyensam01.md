@@ -3,7 +3,7 @@ layout: ../../layouts/Article.astro
 title: "Qua Ý Kiến Về Thánh Kinh"
 author: "Sâm Nguyễn"
 date: 2013-01-30
-source: "https://sachhiem.net/DOITHOAI/Nguyensam01.php"
+source: "/DOITHOAI/Nguyensam01"
 category: "Đối thoại"
 lang: vi
 wordCount: 1900
@@ -52,6 +52,6 @@ image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/TONGIAO/IMG/BIBLE/co
 
 <p><b>Bài đọc thêm</b></p>
      <p>- <a href="/DOITHOAI/Nguyensam">Thảo Luận: Thánh Kinh Và Giá Trị Đạo Đức -Nhân Lá Thư Của Mục Sư Nguyễn Quang Minh </a></p>
-     <p>- <a href="https://sachhiem.net/TONGIAO/tgT/TinFox.php">Các Nhà Chức Trách Hồng Kông Toan Tính Xếp Kinh Thánh Vào Loại Phi Luân,  https://sachhiem.net/TONGIAO/tgT/TinFox.php</a></p>
+     <p>- <a href="/TONGIAO/tgT/TinFox">Các Nhà Chức Trách Hồng Kông Toan Tính Xếp Kinh Thánh Vào Loại Phi Luân,  https://sachhiem.net/TONGIAO/tgT/TinFox.php</a></p>
 ___________________
-<p>Các bài của Nguyễn Sâm: link <a href="https://sachhiem.net/TONGIAO/tgN/ListNSm.inc.php" target="_blank">https://sachhiem.net/TONGIAO/tgN/ListNSm.inc.php</a></p>
+<p>Các bài của Nguyễn Sâm: link <a href="/TONGIAO/tgN/ListNSm.inc" target="_blank">https://sachhiem.net/TONGIAO/tgN/ListNSm.inc.php</a></p>

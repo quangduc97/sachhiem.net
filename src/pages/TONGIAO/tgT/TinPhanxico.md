@@ -3,7 +3,7 @@ layout: ../../../layouts/Article.astro
 title: "Nhật Báo Vatican Tố Cáo Sự Khai Thác Các Nữ Tu Trong Giáo Hội"
 author: "Phanxico.vn"
 date: 2018-03-04
-source: "https://sachhiem.net/TONGIAO/tgT/TinPhanxico.php"
+source: "/TONGIAO/tgT/TinPhanxico"
 category: "Chính trị"
 lang: vi
 wordCount: 1062

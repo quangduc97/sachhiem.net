@@ -2,7 +2,7 @@
 layout: ../../layouts/Article.astro
 title: "Nghe Ai Hát Kinh \"Hòa Bình\""
 author: "Lý Thái"
-source: "https://sachhiem.net/LTX/LythaiTG04.php"
+source: "/LTX/LythaiTG04"
 category: "Tác giả"
 lang: vi
 wordCount: 1747

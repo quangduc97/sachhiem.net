@@ -3,16 +3,16 @@ layout: ../../../layouts/Article.astro
 title: "Tuyển Tập Độc Thần Giáo"
 author: "Charlie Nguyễn"
 date: 2012-04-04
-source: "https://sachhiem.net/CHARLIE/CN_TTDTG/Loduc.php"
+source: "/CHARLIE/CN_TTDTG/Loduc"
 category: "Tác giả"
 lang: vi
 wordCount: 8477
-image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nha.jpg"
+image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/KHOAHOC/IMG/NHANCHUNG/Homosapien_ProfTimWhite_Berkeley.jpg"
 ---
 
 <table border="0" align="center" width="250">
           <tbody><tr>
-            <td width="75"><a href="https://sachhiem.net/index.php"><img border="0" src="https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nha.jpg"></a>  </td>
+            <td width="75">  </td>
  <td width="141" valign="top">  </td>
 	        </tr>     </tbody></table>
 				<p class="TuaDenLeft"> MÀN KỊCH BỊP BỢM “PHÉP LẠ LỘ ĐỨC” </p>

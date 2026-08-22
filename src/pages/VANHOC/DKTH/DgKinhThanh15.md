@@ -3,7 +3,7 @@ layout: ../../../layouts/Article.astro
 title: "Tổ Lê Khánh Hòa Với Công Cuộc Chấn Hưng Phật Giáo"
 author: "Dương Kinh Thành"
 date: 2017-06-06
-source: "https://sachhiem.net/VANHOC/DKTH/DgKinhThanh15.php"
+source: "/VANHOC/DKTH/DgKinhThanh15"
 category: "Xã hội"
 lang: vi
 wordCount: 4128

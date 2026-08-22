@@ -3,7 +3,7 @@ layout: ../../../layouts/Article.astro
 title: "Mối Liên Hệ Giữa Ngũ Giới, Ngũ Thường, Và Ngũ Hành (Tam giáo quy nguyên)"
 author: "Đồng Trần Tử"
 date: 2025-11-11
-source: "https://sachhiem.net/TONGIAO/FB/FBDongTranTu12.php"
+source: "/TONGIAO/FB/FBDongTranTu12"
 category: "Tác giả"
 lang: vi
 wordCount: 1523

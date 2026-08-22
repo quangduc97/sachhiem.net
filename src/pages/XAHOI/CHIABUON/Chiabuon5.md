@@ -1,15 +1,14 @@
 ---
 layout: ../../../layouts/Article.astro
 title: "Triết gia, thi sĩ Phạm Công Thiện"
-source: "https://sachhiem.net/null"
+source: "/null"
 category: "Xã hội"
 lang: vi
 wordCount: 261
-image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nha.jpg"
 ---
 
 <p class="Tuaduoi">Thành Kính Phân Ưu </p>
-   <p align="center"><a href="https://www.sachhiem.net/"> <img border="0" src="https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nha.jpg"></a> 10/03/2011 </p>
+   <p align="center"> 10/03/2011 </p>
        
        <p class="Tuaduoi">từ trần lúc 6:30 chiều Thứ Ba ngày 08/3/2011 tại Tư Gia       
         thành phố Houston, bang Texas (Mỹ). </p>

@@ -3,7 +3,7 @@ layout: ../../../layouts/Article.astro
 title: "“Kinh Thống Hận” Nhân Lễ Tưởng Niệm Ngày 30 Tháng Tư"
 author: "Mi-Lu Dau"
 date: 2019-04-29
-source: "https://sachhiem.net/THOISU_CT/ChuM/MiLuDau_08.php"
+source: "/THOISU_CT/ChuM/MiLuDau_08"
 category: "Chính trị"
 lang: vi
 wordCount: 1091

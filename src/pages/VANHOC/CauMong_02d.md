@@ -3,7 +3,7 @@ layout: ../../layouts/Article.astro
 title: "Việt Nam Quốc Sử Hùng Ca"
 author: "Cầu Móng NTTTLA"
 date: 2018-02-14
-source: "https://sachhiem.net/VANHOC/CauMong_02d.php"
+source: "/VANHOC/CauMong_02d"
 category: "Chính trị"
 lang: vi
 wordCount: 27

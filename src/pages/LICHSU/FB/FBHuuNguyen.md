@@ -3,7 +3,7 @@ layout: ../../../layouts/Article.astro
 title: "NHÂN 80 NĂM NGÀY CÁCH MẠNG THÁNG 8"
 author: "Nguyễn Hiệp"
 date: 2025-08-19
-source: "https://sachhiem.net/LICHSU/FB/FBHuuNguyen.php.php"
+source: "/LICHSU/FB/FBHuuNguyen.php"
 category: "Chính trị"
 lang: vi
 wordCount: 1721

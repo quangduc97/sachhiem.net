@@ -3,7 +3,7 @@ layout: ../../../layouts/Article.astro
 title: "Những Trụ Cột Chính Trị - Xã Hội Của"
 author: "Phạm Thúc Sơn/ Trường Đại học Thủ Dầu Một"
 date: 2018-10-23
-source: "https://sachhiem.net/LICHSU/P/PhamThucSon.php"
+source: "/LICHSU/P/PhamThucSon"
 category: "Chính trị"
 lang: vi
 wordCount: 5478

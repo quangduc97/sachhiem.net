@@ -3,7 +3,7 @@ layout: ../../../layouts/Article.astro
 title: "SАY МÁU - Drunk With Blооd:"
 author: "Lê thị Kim Hoa"
 date: 2023-08-08
-source: "https://sachhiem.net/TONGIAO/FB/FBLeThiKimHoa06.php"
+source: "/TONGIAO/FB/FBLeThiKimHoa06"
 category: "Tác giả"
 lang: vi
 wordCount: 897

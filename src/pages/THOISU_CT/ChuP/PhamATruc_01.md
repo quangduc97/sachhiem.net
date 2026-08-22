@@ -3,7 +3,7 @@ layout: ../../../layouts/Article.astro
 title: "Vì Sao Tổng thống Mỹ Barack Obama Nên Trả Lại Giải Nobel Hòa Bình?"
 author: "Phạm Anh Trúc"
 date: 2014-11-12
-source: "https://sachhiem.net/THOISU_CT/ChuP/PhamATruc_01.php"
+source: "/THOISU_CT/ChuP/PhamATruc_01"
 category: "Tác giả"
 lang: vi
 wordCount: 1088

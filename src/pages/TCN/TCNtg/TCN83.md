@@ -2,13 +2,13 @@
 layout: ../../../layouts/Article.astro
 title: "Chuyện Năm Người Đàn Bà"
 author: "Trần Chung Ngọc"
-source: "https://sachhiem.net/TCN/TCNtg/TCN83.php"
+source: "/TCN/TCNtg/TCN83"
 lang: vi
 wordCount: 10361
-image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nha.jpg"
+image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/TCN/TCNtg/IMG/TCN83/Judah.jpg"
 ---
 
-<p align="center"> <a href="/index"><img border="0" src="https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nha.jpg" align="middle" hspace="20"></a>13 tháng 11,  2009</p>
+<p align="center"> 13 tháng 11,  2009</p>
 	<p> <span class="First"><b><font size="5">Đ</font></b></span>ây là chuyện về 5 người đàn bà trong gia 
 	phả của Chúa Giê-su. Trong Tân ước, Phúc Âm đầu tiên là Phúc Âm Matthew. 
 	Trong Matthew 1, Matthew viết về gia phả Chúa Giê-su, bắt đầu từ Abraham cho 

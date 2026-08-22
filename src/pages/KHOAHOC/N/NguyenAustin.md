@@ -2,7 +2,7 @@
 layout: ../../../layouts/Article.astro
 title: "Atheism, Theism and Big Bang Cosmology (1991)"
 author: "Nguyễn Austin chuyển ngữ từ"
-source: "https://sachhiem.net/nguồn https://www.qsmithwmu.com/atheism,_theism_and_big_bang_cosmology_(1991).htm"
+source: "/nguồn https://www.qsmithwmu.com/atheism,_theism_and_big_bang_cosmology_(1991).htm"
 category: "Khoa học"
 lang: en
 wordCount: 14404

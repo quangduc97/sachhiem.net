@@ -3,7 +3,7 @@ layout: ../../../layouts/Article.astro
 title: "Công Trạng Chưa Tròn Của Võ Đại Tướng"
 author: "Thiên Lôi"
 date: 2013-10-13
-source: "https://sachhiem.net/THLOI/CT/ThienLoi15.php"
+source: "/THLOI/CT/ThienLoi15"
 category: "Chính trị"
 lang: vi
 wordCount: 5982
@@ -49,7 +49,7 @@ image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/LICHSU/IMG/VNGIAP/Ph
 <p><a href="https://en.wikipedia.org/wiki/Fifty_Bibles_of_Constantine">https://en.wikipedia.org/wiki/Fifty_Bibles_of_Constantine</a></p>
 <p><a href="https://www.gotquestions.org/Constantine-Bible.html">https://www.gotquestions.org/Constantine-Bible.html</a></p>
 <p>Từ đó đạo Ca-tô Rô-ma được xem như là một công cụ chính  trị để xâm lược bành trướng đế quốc La Mã, mà bọn cố đạo lẻo mép bảo là “<i>mở  mang nước Chúa</i>”. Nó có vai trò vô cùng nguy hiểm nhưng hiệu nghiệm là gởi người  dưới dạng giáo sĩ làm do thám tình báo trong vùng đất mới dưới chiêu bài rao giảng  ‘Tin Mừng’. Sau khi quân La Mã chiếm đóng được bằng ‘lưỡi gươm’ thì nó đóng tiếp  vai trò cực kỳ gian tà là dùng ‘thập ác’ (Sword and Cross) và mớ giáo thuyết mê  tín nhảm nhí để xóa sạch nền văn hóa và bản sắc dân tộc bản xứ để thâu về một mối  cho La Mã, được gọi là ‘<i>đem nền văn minh Ki-tô đến cứu chuộc cho dân man di mọi  rợ</i>’.&nbsp; </p>
-<p>Chiến lược này vô cùng lợi hại nên bọn thực dân tây  phương đã rặp khuôn từ thế kỷ  15 về sau, khởi đầu bằng bọn Conquistadors Bồ Đào Nha và Tây Ban Nha đi lấn chiếm  các nước Hồi giáo ở Trung đông, sau những thất bại của các cuộc Thánh chiến từ  thế kỷ 11. Khi bọn chúng đủ mạnh để chiếm đóng Tân thế giới, chúng đã vơ vét  tài nguyên khổng lồ bản xứ đem về châu Âu chia chác với Vatican. Chúng còn thâu  tóm sở hữu khai thác đất đai phì nhiêu vừa chiếm, phá hủy mọi đền đài tín ngưỡng  bản xứ để xây dựng lên đó những nhà thờ mới với thập ác trên đỉnh cao, bắt thổ  dân làm nô lệ cho đến chết để tiêu diệt toàn bộ bản sắc và văn hóa bằng cách  thay tên đổi họ, áp dặt văn tự mới của chúng, học theo những mẫu chuyện gian ác  trong Cựu Ước, trích từ <a href="https://sachhiem.net/TONGIAO/tgN/Nguyensam0.php">https://sachhiem.net/TONGIAO/tgN/Nguyensam0.php</a></p>
+<p>Chiến lược này vô cùng lợi hại nên bọn thực dân tây  phương đã rặp khuôn từ thế kỷ  15 về sau, khởi đầu bằng bọn Conquistadors Bồ Đào Nha và Tây Ban Nha đi lấn chiếm  các nước Hồi giáo ở Trung đông, sau những thất bại của các cuộc Thánh chiến từ  thế kỷ 11. Khi bọn chúng đủ mạnh để chiếm đóng Tân thế giới, chúng đã vơ vét  tài nguyên khổng lồ bản xứ đem về châu Âu chia chác với Vatican. Chúng còn thâu  tóm sở hữu khai thác đất đai phì nhiêu vừa chiếm, phá hủy mọi đền đài tín ngưỡng  bản xứ để xây dựng lên đó những nhà thờ mới với thập ác trên đỉnh cao, bắt thổ  dân làm nô lệ cho đến chết để tiêu diệt toàn bộ bản sắc và văn hóa bằng cách  thay tên đổi họ, áp dặt văn tự mới của chúng, học theo những mẫu chuyện gian ác  trong Cựu Ước, trích từ <a href="/TONGIAO/tgN/Nguyensam0">https://sachhiem.net/TONGIAO/tgN/Nguyensam0.php</a></p>
 <p>- Phải vằm nát và đốt tất cả những nơi thờ tự của những kẻ  ngoại đạo, phá bỏ tất cả những ông Thần mà họ thờ… Phục Truyền luật lệ ký  [Chương12, đoạn 2-7]</p>
 <p>- Phúc cho những ai bắt con trẻ của người Ba-bi-lon mà đập  vào đá cho chết. Thi Thiên [Psalm, 137: 9]:</p>
 <p>- Hãy đánh dân A-me-léc và phải giết mọi súc vật của  chúng, nam nữ giết hết, con trẻ còn bú, bò, chiên, lạc đà phải giết hết. 1  Samuel [15: 2-3]:</p>

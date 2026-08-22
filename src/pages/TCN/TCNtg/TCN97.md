@@ -2,15 +2,15 @@
 layout: ../../../layouts/Article.astro
 title: "Tìm Hiểu Vấn Nạn Linh Mục Loạn Dâm"
 author: "Trần Chung Ngọc"
-source: "https://sachhiem.net/TCN/TCNtg/TCN97.php"
+source: "/TCN/TCNtg/TCN97"
 category: "Tác giả"
 lang: vi
 wordCount: 12241
-image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nha.jpg"
+image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/SACHNGOAI/Hinhanh/PEOPLE/richard_dawkins.jpg"
 ---
 
 <table border="0" cellpadding="1" align="center" width="250" cols="2"><tbody><tr>
-	<td><a href="/index">	<img border="0" src="https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nha.jpg"></a></td>
+	<td></td>
 <td valign="top"><p>07 tháng 5,  2010</p></td></tr></tbody></table>
 	
 	<p> <b>1</b> <span style="background-color: #800000"><a href="/TCN/TCN97_2">&nbsp;<font color="#FFFFFF">2&nbsp;</font></a></span></p>
@@ -576,7 +576,7 @@ sexual abuse" href="https://en.wikipedia.org/wiki/Child_sexual_abuse">
 	<p> Giám Mục 
 	Tin Lành John Shelby Spong đã cho rằng vai trò Chúa Cứu Thế của Chúa Giê-su 
 	cần phải dẹp bỏ, xin đọc:
-	<a href="https://sachhiem.net/TCN/TCNtg/TCN37.php">
+	<a href="/TCN/TCNtg/TCN37">
 	https://sachhiem.net/TCN/TCNtg/TCN37.php</a> : </p>
 	
 	<p><i> “Không 
@@ -588,7 +588,7 @@ sexual abuse" href="https://en.wikipedia.org/wiki/Child_sexual_abuse">
 	<p> Và Linh 
 	mục Công giáo James Kavanaugh cho rằng “ơn cứu rỗi” chỉ là một huyền thoại , 
 	xin đọc:
-	<a href="https://sachhiem.net/TCN/TCNtg/TCN36.php">
+	<a href="/TCN/TCNtg/TCN36">
 	https://sachhiem.net/TCN/TCNtg/TCN36.php</a> :</p>
 	
 	<p><i> “Nhưng 
@@ -620,7 +620,7 @@ sexual abuse" href="https://en.wikipedia.org/wiki/Child_sexual_abuse">
 	Mẹ vô nhiễm nguyên tội” v..v.. cũng chỉ là những mánh mưu thần học của Công 
 	giáo để mê hoặc đám tín đồ vốn không có mấy đầu óc. [Xin đọc loạt bài nghiên 
 	cứu về nhân vật Mary trong Công giáo:
-	<a href="https://www.sachhiem.net/TCN/TCNtg/TCN40.php">
+	<a href="/TCN/TCNtg/TCN40">
 	https://www.sachhiem.net/TCN/TCNtg/TCN40.php</a>]</p>
  <p><i><img border="0" src="https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/SACHNGOAI/Hinhanh/BIASACH/GodDelusion.jpg" width="150" height="229" align="left" hspace="10"></i>Vấn nạn của các tín đồ Ki Tô Giáo Việt Nam là tại sao họ vẫn còn vác cái 
 	gánh nặng Thiên Chúa trên vai, biết rằng một Thiên Chúa như được viết trong 
@@ -645,7 +645,7 @@ sexual abuse" href="https://en.wikipedia.org/wiki/Child_sexual_abuse">
 	<p class="MsoBodyText"> Tất cả những thuộc tính 
 	này đã được tôi chứng minh <u>qua những trích dẫn từ cuốn Cựu Ước của Ki Tô 
 	Giáo</u> trên: 
-	<a href="https://www.sachhiem.net/TCN/TCNtg/3NGOI/TCN64_Cha.php">
+	<a href="/TCN/TCNtg/3NGOI/TCN64_Cha">
 	https://www.sachhiem.net/TCN/TCNtg/3NGOI/TCN64_Cha.php</a>
 	và trên: <a href="https://giaodiemonline.com/2009/03/god.htm">https://giaodiem<span lang="en-us">
 	</span>online.com/2009/03/god.htm</a></p>

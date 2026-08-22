@@ -3,7 +3,7 @@ layout: ../../../layouts/Article.astro
 title: "Những Quan Điểm Sai Trái Trong Nghiên Cứu Lịch Sử"
 author: "Hồ Ngọc Thắng (CHLB Đức)"
 date: 2017-08-25
-source: "https://sachhiem.net/Nguồn: https://www.trelangblog.com/2017/08/nhung-quan-iem-sai-trai-trong-nghien.html"
+source: "/Nguồn: https://www.trelangblog.com/2017/08/nhung-quan-iem-sai-trai-trong-nghien.html"
 category: "Chính trị"
 lang: vi
 wordCount: 1689

@@ -2,11 +2,11 @@
 layout: ../../../layouts/Article.astro
 title: "VỀ VỚI CỘI NGUỒN DÂN TỘC"
 author: "Hạc Hải Cư Sĩ"
-source: "https://sachhiem.net/null"
+source: "/null"
 category: "Lịch sử"
 lang: vi
 wordCount: 2220
-image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nha.jpg"
+image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/TONGIAO/IMG/CHUA/ChuaDau.jpg"
 ---
 
 <div align="center" style="position: relative; left: 0; top: 0">
@@ -28,8 +28,7 @@ image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nha.jpg"
 	<div style="padding-left: 40px; padding-right: 40px">
 	<table border="0" cellpadding="10" width="85%" cols="3">
 		<tbody><tr>
-			<td width="423"><a href="/index">
-			<img border="0" src="https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nha.jpg"></a></td>
+			<td width="423"></td>
 			<td valign="top" width="157">19 tháng 2, 2010
 	</td></tr>
 	</tbody></table>

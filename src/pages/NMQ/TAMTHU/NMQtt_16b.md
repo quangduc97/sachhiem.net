@@ -2,17 +2,17 @@
 layout: ../../../layouts/Article.astro
 title: "Tâm Thư Gửi Nhà Nước Việt Nam"
 author: "Nguyễn Mạnh Quang"
-source: "https://sachhiem.net/NMQ/TAMTHU/NMQtt_16b.php"
+source: "/NMQ/TAMTHU/NMQtt_16b"
 lang: vi
 wordCount: 7289
-image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nha.jpg"
+image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/print.gif"
 ---
 
-<p align="center"><a href="https://www.sachhiem.net/"> <img border="0" src="https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nha.jpg"></a> | 
-<a target="_blank" href="https://sachhiem.net/NMQ/TAMTHU/NMQtt_16b.php">
+<p align="center"> | 
+<a target="_blank" href="/NMQ/TAMTHU/NMQtt_16b">
 <img border="0" src="https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/print.gif" width="18" height="18"> 
   bản in</a> | 
-	<a target="_blank" href="https://sachhiem.net/NMQ/TAMTHU/NMQtt_Main.php"><b><font face="Symbol" size="5"> ¿ </font></b> trở ra mục lục</a>
+	<a target="_blank" href="/NMQ/TAMTHU/NMQtt_Main"><b><font face="Symbol" size="5"> ¿ </font></b> trở ra mục lục</a>
  |   09 tháng 8, 2010</p>
   
 <p class="CHUONG">PHẦN III</p>
@@ -487,7 +487,7 @@ của lừa bịp và gian đối” (The priest is the personification of false
 <p class="sub"><b>D.- Về hành động</b>: Hầu hết người dân Pháp không còn 
 thiết tha với Nhà Thờ nữa<b>. Số người thường xuyên đi dự lễ ở Nhà Thờ chỉ còn 
 khoảng 2%</b>. Sự kiện này được sách sử ghi lại rõ ràng và được Giáo sư Trần 
-Chung Ngọc viết trong bài “<a href="https://www.sachhiem.net/TCN/TCNtg/TCN09.php"><i>Vài nét về sự suy thóai của Ki-tô Giáo ở Tây 
+Chung Ngọc viết trong bài “<a href="/TCN/TCNtg/TCN09"><i>Vài nét về sự suy thóai của Ki-tô Giáo ở Tây 
 Phương</i>”&nbsp; </a> ở https://www.sachhiem.net/TCN/TCNtg/TCN09.php&nbsp; <a name="_ednref50" title="" href="/NMQ/#_edn50">
 [50]</a></p>
 
@@ -506,9 +506,9 @@ Tây phương muốn tống xuất ra khỏi cơ thể của họ</i>.”
 
 
 <p>
-<a target="_blank" href="https://sachhiem.net/NMQ/TAMTHU/NMQtt_16.php"><b><font color="#FFFFFF">
+<a target="_blank" href="/NMQ/TAMTHU/NMQtt_16"><b><font color="#FFFFFF">
 <span style="background-color: #AA0000">&nbsp;1 </span> 
-</font> </b> </a>&nbsp;<a target="_blank" href="https://sachhiem.net/NMQ/TAMTHU/NMQtt_16a.php"><span style="font-weight: 700; background-color: #AA0000"><font color="#FFFFFF"> 2 
+</font> </b> </a>&nbsp;<a target="_blank" href="/NMQ/TAMTHU/NMQtt_16a"><span style="font-weight: 700; background-color: #AA0000"><font color="#FFFFFF"> 2 
 </font></span>&nbsp;</a><b>&nbsp;3 </b> </p>
 <p class="TuaDenLeft">CHÚ THÍCH</p>
 

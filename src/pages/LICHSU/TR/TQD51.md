@@ -3,7 +3,7 @@ layout: ../../../layouts/Article.astro
 title: "Ca Ngợi Kẻ \"Yêu Cầu Tây Vào Chiếm Nước Để Cứu Chiên\""
 author: "Diễn Đàn"
 date: 2016-04-08
-source: "https://sachhiem.net/LICHSU/TR/TQD51.php"
+source: "/LICHSU/TR/TQD51"
 category: "Lịch sử"
 lang: vi
 wordCount: 3721
@@ -123,11 +123,11 @@ Subject: Re: Về Trương Vĩnh Ký? FW: Danh sách 10 Nhân Vật Đa Ngôn Ng
 <p> - Tôn giáo “dạy”, ra lịnh,  hướng dẫn con người phạm tội diệt chủng: </p>
 <p> <a href="https://www.wordproject.org/bibles/vt/04/31.htm" target="_blank">https://www.wordproject.org/bibles/vt/04/31.htm</a></p>
 <p>- Lời thề của các Tu sĩ  Dòng Tên: </p>
-<p><a href="https://sachhiem.net/EMAILS/emailT/TanPhan2.php" target="_blank">https://sachhiem.net/EMAILS/emailT/TanPhan2.php</a></p>
+<p><a href="/EMAILS/emailT/TanPhan2" target="_blank">https://sachhiem.net/EMAILS/emailT/TanPhan2.php</a></p>
 <p>
     - 1000 Năm Tàn Sát &amp;  Man Rợ Nhân Danh Chúa: </p>
 <p>
-  <a href="https://www.sachhiem.net/TONGIAO/tgTH/ThuongDuc.php" target="_blank">https://www.sachhiem.net/TONGIAO/tgTH/ThuongDuc.php</a></p>
+  <a href="/TONGIAO/tgTH/ThuongDuc" target="_blank">https://www.sachhiem.net/TONGIAO/tgTH/ThuongDuc.php</a></p>
 <p>
     - Kiêu dân Công giáo thời  Ngô Đình Diệm: </p>
 <p>
@@ -197,7 +197,7 @@ Subject: Re: Về Trương Vĩnh Ký? FW: Danh sách 10 Nhân Vật Đa Ngôn Ng
   <p>Thưa ông Đặng  Vũ Ái! </p>
   <p>Già rồi? Yêu  cầu ông viết cho đàng hoàng! </p>
   <p>Từ bao lâu nay, tôi,  Trần Quang Diệu, "khen" ai về việc "bán" (?) đất  "bán" đảo thì ông cứ thử chứng minh ra xem! </p>
-  <p>Tôi nói cho ông  biết, rằng: Nếu <i>"Ai cũng có thể vào Google, và tìm "Le Kha  Phieu ban nuoc" là sẽ thấy ngay hàng trăm bài viết</i>(có ông ĐVA ở đó không  vậy?) <i>về tên Viet Gian Ban Nuoc Le Kha Phieu"</i> thì đâu  cần chi đến <a href="https://sachhiem.net/" target="_blank">sachhiem.net</a>?  </p>
+  <p>Tôi nói cho ông  biết, rằng: Nếu <i>"Ai cũng có thể vào Google, và tìm "Le Kha  Phieu ban nuoc" là sẽ thấy ngay hàng trăm bài viết</i>(có ông ĐVA ở đó không  vậy?) <i>về tên Viet Gian Ban Nuoc Le Kha Phieu"</i> thì đâu  cần chi đến <a href="/" target="_blank">sachhiem.net</a>?  </p>
   <p>Tôi thấy rằng, những tác  giả SH người ta chỉ cần nói những gì mà thiên hạ che lấp, không dám nói! <br>
     <br>
     Sách Hiếm cũng đã từng đăng tải về biển đảo (mà trong đấy, <b>tôi  thấy rằng, bài tường thuật về trận hải chiến Hoàng Sa đầu năm 1974 của vị Trung  Tá Hải Quân VNCH Lê Văn Thự là vô cùng giá trị!</b>) như thế này: <br>

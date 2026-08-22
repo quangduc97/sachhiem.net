@@ -3,7 +3,7 @@ layout: ../../../layouts/Article.astro
 title: "NGƯỜI “QUỐC GIA” CŨNG YÊU NƯỚC Ư ?"
 author: "Trần Hải Châu"
 date: 2019-06-01
-source: "https://sachhiem.net/THOISU_CT/FB/HaiChauTran.php"
+source: "/THOISU_CT/FB/HaiChauTran"
 category: "Chính trị"
 lang: vi
 wordCount: 1986

@@ -3,7 +3,7 @@ layout: ../../layouts/Article.astro
 title: "Thao Thức và Thẩn Thờ"
 author: "Đức Dũng"
 date: 2015-05-26
-source: "https://sachhiem.net/VANHOC/DucDung.php"
+source: "/VANHOC/DucDung"
 category: "Tác giả"
 lang: vi
 wordCount: 466

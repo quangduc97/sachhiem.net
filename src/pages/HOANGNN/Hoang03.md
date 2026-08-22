@@ -2,18 +2,16 @@
 layout: ../../layouts/Article.astro
 title: "Giải nghiệp, giải thực, giải hoặc:"
 author: "Hoàng Nguyên Nhuận"
-source: "https://sachhiem.net/HOANGNN/Hoang03.php"
+source: "/HOANGNN/Hoang03"
 category: "Chính trị"
 lang: vi
 wordCount: 2443
-image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nha.jpg"
 ---
 
 <p class="Tuaduoi">Đường đi của Phật tử Việt Nam </p>
 
  
-<p align="center"><a href="https://www.sachhiem.net/">
-	<img border="0" src="https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nha.jpg"></a> 12&nbsp; tháng 9, 2007</p>
+<p align="center"> 12&nbsp; tháng 9, 2007</p>
 <p style="MARGIN: 0cm 0cm 0pt; LINE-HEIGHT: 15pt; TEXT-ALIGN: justify">
 <span class="First">N</span>hìn theo quan điểm lý và sự, đâu là con đường tu hành của Phật tử 
 trong hoàn cảnh hôm nay? </p>

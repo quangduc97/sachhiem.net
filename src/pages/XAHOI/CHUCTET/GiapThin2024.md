@@ -3,7 +3,7 @@ layout: ../../../layouts/Article.astro
 title: "Chúc Mừng Năm Mới - Giáp Thìn 2024"
 author: "SH và thân hữu"
 date: 2024-02-08
-source: "https://sachhiem.net/XAHOI/CHUCTET/GiapThin2024.php"
+source: "/XAHOI/CHUCTET/GiapThin2024"
 category: "Xã hội"
 lang: vi
 wordCount: 68

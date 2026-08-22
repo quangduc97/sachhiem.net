@@ -6,7 +6,7 @@ source: "https://lyhoclythuyet.blogspot.com/"
 category: "Tác giả"
 lang: vi
 wordCount: 17464
-image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nha.jpg"
+image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.devhttps://img2.blogblog.com/img/icon18_edit_allbkg.gif"
 ---
 
 <table border="2" width="700" bgcolor="#F5F5F5" id="table1">
@@ -24,8 +24,7 @@ image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nha.jpg"
 				<div style="padding-left: 50px; padding-right: 50px">
 					<table border="0" cellpadding="1" width="87%" cols="2">
 						<tbody><tr>
-							<td><a href="/index">
-							<img border="0" src="https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nha.jpg"></a></td>
+							<td></td>
 							<td valign="top" width="210">
 							<p>03 tháng 09, 2010</p></td>
 						</tr>

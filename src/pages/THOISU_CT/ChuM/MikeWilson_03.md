@@ -3,7 +3,7 @@ layout: ../../../layouts/Article.astro
 title: "Đôi Điều Ngộ Nhận Về Tự Do Ngôn Luận"
 author: "Mike Wilson"
 date: 2015-06-07
-source: "https://sachhiem.net/THOISU_CT/ChuM/MikeWilson_03.php"
+source: "/THOISU_CT/ChuM/MikeWilson_03"
 category: "Chính trị"
 lang: vi
 wordCount: 780
@@ -19,7 +19,7 @@ image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/DOITHOAI/IMG/Freedom
   <p><span class="First">C</span>ó người lập luận như vầy:</p>
 <p>
 "<i>Nếu ai không ưa Mỹ, chỉ trích Mỹ
-thì nên bỏ nước Mỹ mà dọn về nguyên quán của mình mà sống !</i>" (SH - xin xem  "<a href="https://sachhiem.net/TTL/TranTL57.php"><i>Sao Không Về Việt Nam? - Lằn Ranh Quốc Cộng</i></a>")</p>
+thì nên bỏ nước Mỹ mà dọn về nguyên quán của mình mà sống !</i>" (SH - xin xem  "<a href="/TTL/TranTL57"><i>Sao Không Về Việt Nam? - Lằn Ranh Quốc Cộng</i></a>")</p>
 
 <p>
 Họ không nhớ rằng :</p>
@@ -65,7 +65,7 @@ và lập ra các trang mạng để phổ biến toàn bộ sự thật
   qua các trang mạng như sachhiem.net, giaodiemonline.com , v.v.</p>
 <p>Đây là bảng liên kết của họ :</p>
 <div class="indent50">
-  <p>  <a href="https://sachhiem.net/index.php">https://sachhiem.net/index.php</a></p>
+  <p>  <a href="/index">https://sachhiem.net/index.php</a></p>
   <p><b>Liên  Kết :</b></p>
   <p>&nbsp; ▪ <a href="https://amaritx.wordpress.com/">Amari TX </a></p>
   <p>&nbsp; ▪ <a href="https://home.earthlink.net/~charlienguyen/index.htm">Charlie  Nguyễn: TG&amp;DT </a></p>

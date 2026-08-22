@@ -2,17 +2,16 @@
 layout: ../../../../layouts/Article.astro
 title: "Về Ba Ngôi Thiên Chùa (Trần Chung Ngọc)"
 author: "Trần Chung Ngọc"
-source: "https://sachhiem.net/TCN/TCNtg/3NGOI/TCN72.php"
+source: "/TCN/TCNtg/3NGOI/TCN72"
 lang: vi
 wordCount: 39693
-image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nha.jpg"
+image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/TONGIAO/IMG/Chua3ngoi.jpg"
 ---
 
 <p class="Tuaduoi">CÔNG GIÁO CHÍNH SỬ</p>
 		
  
-<p align="center"><a href="https://www.sachhiem.net/">
-<img border="0" src="https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nha.jpg"></a> 26 tháng 9, 2009	</p>
+<p align="center"> 26 tháng 9, 2009	</p>
 <p>Các bài khác trong tập này: 
   
 <a href="/CGchinhsu/CGCS0">1</a> 
@@ -2239,7 +2238,7 @@ image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nha.jpg"
 	mục. Cũng vì vậy mà ngày nay, hàng trăm ngàn tín đồ Ki Tô Giáo ở Anh đã mở 
 	chiến dịch <i>“Phát giấy chứng chỉ vô hiệu hóa bí tích rửa tội”</i> [Xin 
 	đọc: 
-	<a style="color: blue; text-decoration: underline" href="https://www.sachhiem.net/TCNts/TCNts039.php">
+	<a style="color: blue; text-decoration: underline" href="/TCNts/TCNts039">
 	https://www.sachhiem.net/TCNts/TCNts039.php</a> ], 
 	chiến dịch này cùng chiến dịch dán những tấm bích chương “No God” trên các 
 	xe “bus” công cộng đang lan ra khắp Âu Châu, 

@@ -3,15 +3,14 @@ layout: ../../layouts/Article.astro
 title: "Vài Trang Thơ cho ngày Giỗ Ông Diệm"
 author: "Điền Sơn Nhân: Châu Thúc"
 date: 2022-11-01
-source: "https://sachhiem.net/VANHOC/ThoDienSonNhan.php"
+source: "/VANHOC/ThoDienSonNhan"
 category: "Chính trị"
 lang: vi
 wordCount: 129
-image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nha.jpg"
+image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/LICHSU/IMG/NGODD/Giadinhtri.jpg"
 ---
 
-<p align="center"><a href="https://www.sachhiem.net/">
-<img border="0" src="https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nha.jpg"></a> 
+<p align="center"> 
 ngày 01-Nov-2022</p>
  <div class="tomluoc">
    <p><i>LTS: Trở về sau chuyến nghỉ hè 2 tháng, xin mến chào các bạn đọc. Bất ngờ bắt gặp một bao thơ có 3 trang giấy này gửi cho tòa soạn từ rất lâu đến độ không còn nhớ lúc nào nữa.  Ba trang này rất thích hợp để trình làng hôm nay, ngày mà "hậu duệ hệ lụy" của cố Tổng Thống VNCH I, Ngô Đình Diệm, đang làm mọi cách để tưởng nhớ ông ta trong hy vọng vực dậy xác chết của một chế độ tay sai Mỹ.</i></p>

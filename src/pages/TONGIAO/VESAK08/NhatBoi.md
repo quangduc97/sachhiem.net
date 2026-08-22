@@ -2,7 +2,7 @@
 layout: ../../../layouts/Article.astro
 title: "TT Huế: hàng vạn người tham dự lễ rước Phật"
 author: "Nhất Bối"
-source: "https://sachhiem.net/nguồn: https://www.phattuvietnam.net/index.php?nv=News&amp;at=article&amp;sid=3519"
+source: "/nguồn: https://www.phattuvietnam.net/index.php?nv=News&amp;at=article&amp;sid=3519"
 category: "Tác giả"
 lang: vi
 wordCount: 967
@@ -34,7 +34,7 @@ image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nhacu.jpg"
 <table border="2" cellpadding="50" cellspacing="0" width="100%" topmargin="10"> 
 	<tbody><tr><td bgcolor="White" align="justify" valign="top">
 	<table border="0" cellpadding="10" width="100%" cols="3"><tbody><tr>
-	<td><a href="https://sachhiem.net/"><img src="https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nhacu.jpg"></a></td>
+	<td><a href="/"><img src="https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nhacu.jpg"></a></td>
 	<td valign="top" width="198"><a href="/TONGIAO/#" onclick="location.href='https://sachhiem.net/BIA/sendafriend.php?url='+location.href;"><img src="https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/TONGIAO/file:///C:/SACHHIEM/images/mail.gif" border="0"> 
 	<font size="2">Gửi bài này cho bạn bè</font></a></td>
 	<td valign="top" style="text-align:right">	<font size="2">22 tháng 5, 2008

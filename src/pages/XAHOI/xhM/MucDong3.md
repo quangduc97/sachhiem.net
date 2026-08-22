@@ -2,7 +2,7 @@
 layout: ../../../layouts/Article.astro
 title: "Câu chuyện “vô luân” về cái chết “dại”"
 author: "Mục Đồng"
-source: "https://sachhiem.net/null"
+source: "/null"
 category: "Xã hội"
 lang: vi
 wordCount: 2855

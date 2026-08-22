@@ -3,15 +3,14 @@ layout: ../../../layouts/Article.astro
 title: "Video Clip của PCT UBND TPHCM Lê Thanh Liêm bị cắt ghép thế nào?"
 author: "Lão Chăn Bò"
 date: 2020-03-30
-source: "https://sachhiem.net/THOISU_CT/FB/LaoChanBo.php"
+source: "/THOISU_CT/FB/LaoChanBo"
 category: "Chính trị"
 lang: vi
 wordCount: 1958
-image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nha.jpg"
+image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/THOISU_CT/Hinh/CORONA/TinGia.jpg"
 ---
 
-<p align="center"><a href="https://www.sachhiem.net/">
-<img border="0" src="https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nha.jpg"></a> 
+<p align="center"> 
 ngày 30-Mar-2020</p> 
 <p><span class="First">H</span>iện nay trên không gian mạng, lũ ba que xỏ lá đang lan truyền một đoạn clip dài khoảng gần 3 phút, quay cảnh PCT UBND TP.HCM Lê Thanh Liêm trả lời phỏng vấn, trong đó ông Liêm nói: <i>"Hiện nay là có 43.000 ca mắc bệnh, sáng nay có thêm hơn 100 ca tử vong, nâng tổng số tử vong lên hơn 1.000 ca</i>". Từ đó chúng bịa đặt, xuyên tạc về cái gọi là "Việt Nam giấu dịch", lão chăn bò xin độc thông tin như sau:</p>
 <p align="center"><img src="https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/THOISU_CT/Hinh/CORONA/TinGia.jpg" width="400" height="644" alt=""></p>

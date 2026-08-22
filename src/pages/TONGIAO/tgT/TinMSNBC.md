@@ -2,11 +2,11 @@
 layout: ../../../layouts/Article.astro
 title: "Dòng Tên Đền 166 Triệu Đô Cho Hơn 450 Học Sinh Bị Lạm Dụng Tình Dục"
 author: "Tin MSNBC/AFT"
-source: "https://sachhiem.net/Linh mục John Morse"
+source: "/Linh mục John Morse"
 category: "Tác giả"
 lang: vi
 wordCount: 2077
-image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nha.jpg"
+image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/IMG/TINHDUC/SocietyofJesuit.jpg"
 ---
 
 <div align="center" style="position: relative; left: 0; top: 0">
@@ -21,8 +21,7 @@ image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nha.jpg"
 <div style="padding-left: 50px; padding-right: 50px">
 	<table border="0" cellpadding="1" width="600" cols="2">
 		<tbody><tr>
-			<td><a href="/index">
-			<img border="0" src="https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nha.jpg"></a></td>
+			<td></td>
 			<td valign="top" width="210">
 			<p>02 tháng 4, 2011	</p></td>
 		</tr>

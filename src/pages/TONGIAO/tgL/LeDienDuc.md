@@ -2,7 +2,7 @@
 layout: ../../../layouts/Article.astro
 title: "Bao Cao Su và Giáo Hoàng Benedict XVI"
 author: "Lê Diễn Đức"
-source: "https://sachhiem.net/nguồn https://www.talawas.org/?p=1829"
+source: "/nguồn https://www.talawas.org/?p=1829"
 category: "Tác giả"
 lang: vi
 wordCount: 1574

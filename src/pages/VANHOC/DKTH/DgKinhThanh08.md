@@ -3,7 +3,7 @@ layout: ../../../layouts/Article.astro
 title: "Thi Vương \"Thơ Say\" viết về Phật Đản, Pháp Nạn"
 author: "Dương Kinh Thành"
 date: 2013-04-07
-source: "https://sachhiem.net/VANHOC/DKTH/DgKinhThanh08.php"
+source: "/VANHOC/DKTH/DgKinhThanh08"
 category: "Văn hóa"
 lang: vi
 wordCount: 1825
@@ -18,8 +18,8 @@ image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/VANHOC/Hinh/SACH/Mun
      
       <div class="tomluoc">
 <p><b>tập  sách của tác giả Dương Kinh Thành: </b></p>
-<p><a href="https://sachhiem.net/VANHOC/DgKinhThanh07.php">- bài 1: Bài&nbsp;Thơ “LỬA TỪ BI” Nói&nbsp;Thay Lịch Sử </a></p>
-<p><a href="https://sachhiem.net/VANHOC/DgKinhThanh08.php">-  bài 2: Thi Vương "Thơ Say" viết về&nbsp;Phật Đản, Pháp Nạn </a></p>
+<p><a href="/VANHOC/DgKinhThanh07">- bài 1: Bài&nbsp;Thơ “LỬA TỪ BI” Nói&nbsp;Thay Lịch Sử </a></p>
+<p><a href="/VANHOC/DgKinhThanh08">-  bài 2: Thi Vương "Thơ Say" viết về&nbsp;Phật Đản, Pháp Nạn </a></p>
 <p>- <a href="https://phatgiao.org.vn/tu-lieu/201305/Bai-3-Ky-niem-50-nam-Phap-nan-lich-su-nam-1963-du-so-10-10573/">bài 3: Dụ Số 10 </a> </p>
 <p><a href="/VANHOC/DKTH/DgKinhThanh09">- bài 4: "<i>Lá cờ chỉ là một miếng vải ba xu..</i>."</a></p></div>
      <p>&nbsp;<span class="First"><b>L</b></span>ịch sử luôn  trao tận tay từng số phận thuận nghịch của duyên trần (biệt nghiệp) để từ  đó&nbsp; hòa mình vào&nbsp; vận mạng chung của cộng nghiệp. Nhà thơ Vũ  Hoàng Chuơng là một trong rất nhiều thí dụ điển hình đó mà bài thơ <i>Lửa Từ Bi</i> là điểm son&nbsp;sáng chói nhất.</p>

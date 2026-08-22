@@ -3,7 +3,7 @@ layout: ../../../layouts/Article.astro
 title: "Gặp Nghệ Nhân Thổi Hồn Vào Gáo Dừa"
 author: "Nguyễn Quang Chánh"
 date: 2024-09-06
-source: "https://sachhiem.net/LICHSU/N/NguyenQuangChanh11.php"
+source: "/LICHSU/N/NguyenQuangChanh11"
 category: "Chính trị"
 lang: vi
 wordCount: 930

@@ -2,16 +2,16 @@
 layout: ../../../layouts/Article.astro
 title: "DANH NHÂN TRÍ THỨC ÂU MỸ QUA CÁC THỜI ĐẠI"
 author: "Trần Chung Ngọc"
-source: "https://sachhiem.net/TCN/TCNtg/TCN22.php"
+source: "/TCN/TCNtg/TCN22"
 lang: vi
 wordCount: 5369
-image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nha.jpg"
+image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/TCN/TCNtg/Danhnhan/MicheldeMontaigne.jpg"
 ---
 
 <p class="Tuaduoi">NGHĨ GÌ VỀ THẦN (GOD), KI-TÔ GIÁO? </p>
 		
  
-<p align="center"> <a href="/index"><img border="0" src="https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nha.jpg" align="middle" hspace="20"></a>  21 tháng 11, 2007 </p>
+<p align="center">   21 tháng 11, 2007 </p>
 
 
 <p>Theo tự điển The

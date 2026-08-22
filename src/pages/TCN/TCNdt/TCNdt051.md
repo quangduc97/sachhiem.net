@@ -2,15 +2,15 @@
 layout: ../../../layouts/Article.astro
 title: "Một Kết Quả Bất Ngờ Nhưng Không Lạ"
 author: "Trần Chung Ngọc"
-source: "https://sachhiem.net/TCN/TCNdt/TCNdt051.php"
+source: "/TCN/TCNdt/TCNdt051"
 category: "Đối thoại"
 lang: vi
 wordCount: 14704
-image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.devhttps://sachhiem.net/images/nha.jpg"
+image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/TONGIAO/IMG/METIN/Thongke.jpg"
 ---
 
 <table border="0" width="250" align="center">
-    <tbody><tr><td width="106"><a href="https://sachhiem.net/index.php"><img border="0" src="https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.devhttps://sachhiem.net/images/nha.jpg"></a>    </td>
+    <tbody><tr><td width="106">    </td>
 <td valign="top" width="210"><p>14 tháng 10,  2010</p></td></tr></tbody></table>
 	<p><i>LTS: Ở trong xã hội ảnh hưởng "văn minh" Thiên Chúa Giáo này, có nhiều việc 
 	hiểu không nổi. Các "cán bộ quảng cáo Chúa" (cả chăn chiên lẫn con chiên) ở 
@@ -538,7 +538,7 @@ image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.devhttps://sachhiem.net/
 	chỉ liệt kê những bằng chứng càng ngày càng chứng tỏ tuyết Big Bang là đúng, 
 	ít ra là đúng hơn thuyết Sáng Tạo cả triệu lần. Muốn biết thêm chi tiết về 
 	thuyết Big Bang độc giả có thể đọc trên
-	<a href="https://www.sachhiem.net/TCN/TCNkh/TCNkh00.php">https://www.sachhiem.net/TCN/TCNkh/TCNkh00.php</a></p>
+	<a href="/TCN/TCNkh/TCNkh00">https://www.sachhiem.net/TCN/TCNkh/TCNkh00.php</a></p>
 	<table border="0" width="160" align="left" id="table2">
 		<tbody><tr>
 			<td><img border="0" src="https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/KHOAHOC/IMG/ASTRO/EdwinHubble.jpg"><p class="center">Edwin Hubble<br>(1889-1953)</p>

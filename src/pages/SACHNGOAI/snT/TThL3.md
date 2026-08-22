@@ -2,7 +2,7 @@
 layout: ../../../layouts/Article.astro
 title: "KHÔNG PHẢI LÀ CÁCH TỰ TỬ ĐƯỢC CHỌN"
 author: "by Stephen Kinzer"
-source: "https://sachhiem.net/SACHNGOAI/snT/TThL3.php"
+source: "/SACHNGOAI/snT/TThL3"
 category: "Chính trị"
 lang: vi
 wordCount: 5129
@@ -19,7 +19,7 @@ image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/PDF.JPG"
 <p>(<a href="/SACHNGOAI/snT/TThL2">tiếp theo phần 1</a>) </p>
 <p><span style="font-weight: 700; background-color: #FFECD9"><a href="/SACHNGOAI/snT/TThL2">&nbsp;1 </a></span>&nbsp;2	  </p>
 <div style="border-top: 1px solid #949494; border-bottom: 1px solid #949494; padding-top: 5px; padding-bottom: 5px; background-color: #F2F2F2">
-<p>(<i>xem giới thiệu tác giả ở</i> <a href="https://sachhiem.net/SACHNGOAI/snT/TThL2.php">Kỳ 1</a>)</p>
+<p>(<i>xem giới thiệu tác giả ở</i> <a href="/SACHNGOAI/snT/TThL2">Kỳ 1</a>)</p>
 </div>	
 <p>(Kỳ 2 và Hết)</p>
 <p><span class="First">T</span>rong thực tế, ý tưởng ấy đã nổi lên nhiều lần.<b> Paul Kattenhurg,</b> người đã trở thành chủ tịch của Nhóm Công tác Liên bộ tại Việt Nam của chính  quyền (Kennedy), trở về từ chuyến đi Sài Gòn vào cuối tháng Tám với một quan  điểm rất ảm đạm. Ông kết luận rằng người Việt Nam với tinh thần dân tộc đã trở  nên mạnh mẻ hơn và sẽ không bao giờ chấp nhận một chế độ hậu thuẫn bởi nước  ngoài tại Sài Gòn. Tại một cuộc họp Hội đồng An ninh Quốc gia vào ngày 31 tháng  Tám, ông đề nghị rằng thời gian đã đến "<i>để chúng ta quyết định rút ra trong danh dự</i>."  Các cộng sự đã bác bỏ thẳng thừng (ý kiến ấy).</p>

@@ -2,7 +2,7 @@
 layout: ../../../layouts/Article.astro
 title: "NGUYỄN TRƯỜNG TỘ:"
 author: "Trần Chung Ngọc"
-source: "https://sachhiem.net/TCN/TCNls/TCNls03_NTT.php"
+source: "/TCN/TCNls/TCNls03_NTT"
 lang: vi
 wordCount: 21466
 image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/print.gif"
@@ -1839,9 +1839,9 @@ image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/print.gif"
 		sẻ Ca-Tô đậu trên cành trúc Việt Nam.</p>
 		<hr>
 		<p><span class="First">M</span>ời đọc bài khác về NTT của Trần Chung Ngọc</p>
-		<p>- <a href="https://sachhiem.net/TCN/TCNls/TCNls13_NTT.php">Lại Vẫn Là Huyền
+		<p>- <a href="/TCN/TCNls/TCNls13_NTT">Lại Vẫn Là Huyền
 		    Thoại “Nguyễn Trường Tộ”</a></p>
-		<p>- <a href="https://sachhiem.net/TCN/TCNls/TCNls_NTT.php"> Nhân Đọc Cuốn "Nguyễn Trường Tộ: Thời Thế &amp; Tư Duy Cách Tân"
+		<p>- <a href="/TCN/TCNls/TCNls_NTT"> Nhân Đọc Cuốn "Nguyễn Trường Tộ: Thời Thế &amp; Tư Duy Cách Tân"
 
 Của Hoàng Thanh Đạm</a></p>
 		<hr>

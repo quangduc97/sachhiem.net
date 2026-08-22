@@ -3,7 +3,7 @@ layout: ../../../layouts/Article.astro
 title: "Trao Đổi Về Tro Cốt Của Người Chết"
 author: "Trần Quang Diệu và DĐ"
 date: 2013-07-06
-source: "https://sachhiem.net/LICHSU/TR/TQD30_tro.php"
+source: "/LICHSU/TR/TQD30_tro"
 category: "Đối thoại"
 lang: vi
 wordCount: 4702

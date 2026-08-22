@@ -3,7 +3,7 @@ layout: ../../../layouts/Article.astro
 title: "Những Điều It Dược Biết Trong Cách Mạng Pháp 1789"
 author: "Trần Trọng Sỹ"
 date: 2017-05-15
-source: "https://sachhiem.net/TTS/LS/TranTrongSy_ls.php"
+source: "/TTS/LS/TranTrongSy_ls"
 category: "Văn hóa"
 lang: vi
 wordCount: 3099
@@ -70,7 +70,7 @@ image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/LICHSU/IMG/FRANCE/La
 <p class="TacgiaL">Trần Trọng Sỹ </p>
  <p>__________________</p>
  <p><b>Bài đọc thêm</b>:</p>
- <p>-<a href="https://sachhiem.net/NMQ/NMQ029.php"> Những Vụ Án Lừng Danh Trong Tòa Án Vatican -Khổ Nạn Của Các Nhà Trí Thức Âu Châu Khi Nói Lên Sự Thật </a>(Nguyễn Mạnh Quang)
+ <p>-<a href="/NMQ/NMQ029"> Những Vụ Án Lừng Danh Trong Tòa Án Vatican -Khổ Nạn Của Các Nhà Trí Thức Âu Châu Khi Nói Lên Sự Thật </a>(Nguyễn Mạnh Quang)
 </p>
  <p>___________________ </p>
- <p>Các bài của Trần Trọng Sỹ: link <a href="https://sachhiem.net/TTS/ListTTS.inc.php" target="_blank">https://sachhiem.net/TTS/ListTTS.inc.php</a></p>
+ <p>Các bài của Trần Trọng Sỹ: link <a href="/TTS/ListTTS.inc" target="_blank">https://sachhiem.net/TTS/ListTTS.inc.php</a></p>

@@ -2,7 +2,7 @@
 layout: ../../../layouts/Article.astro
 title: "CÂU CHUYỆN CUỐI TUẦN:"
 author: "Anthony Darlic"
-source: "https://sachhiem.net/HOANGNN/WEEKEND/CCCT027.php"
+source: "/HOANGNN/WEEKEND/CCCT027"
 lang: vi
 wordCount: 2619
 image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/HOANGNN/Hinh/HoangVanGiau.jpg"

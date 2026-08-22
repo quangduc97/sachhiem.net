@@ -3,7 +3,7 @@ layout: ../../../layouts/Article.astro
 title: "Vụ Hồng Y George Pell, Chẳng Lẽ Giáo Hội Không Học Gì Về Các Vụ Tai Tiếng Ấu Dâm Sao?"
 author: "Isabelle de Gaulmyn / Phanxico.vn"
 date: 2017-06-30
-source: "https://sachhiem.net/TONGIAO/tgT/TinVatican01.php"
+source: "/TONGIAO/tgT/TinVatican01"
 category: "Chính trị"
 lang: vi
 wordCount: 857

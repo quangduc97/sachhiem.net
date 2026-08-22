@@ -2,17 +2,17 @@
 layout: ../../../layouts/Article.astro
 title: "20 LÝ DO ĐỂ TỪ BỎ KI-TÔ GIÁO"
 author: "Trần Chung Ngọc dịch và giới thiệu"
-source: "https://sachhiem.net/TCN/TCNtg/TCN78.php"
+source: "/TCN/TCNtg/TCN78"
 lang: vi
 wordCount: 11330
-image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nha.jpg"
+image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/SACHNGOAI/Hinhanh/BIASACH/Missionairies.jpg"
 ---
 
 <p class="Tuaduoi">[20 Reasons To Abandon Christianity]</p>
 		<p class="Tuaduoi">By: Chaz Bufe </p>
 		
 
-<p align="center"> <a href="/index"><img border="0" src="https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nha.jpg" align="middle" hspace="20"></a> 27 tháng 7, 2009</p>
+<p align="center">  27 tháng 7, 2009</p>
 	<b><p class="TuaDoLeft">Trước Khi Vào Đề:</p> 	</b>
 	
 		<div style="border: 1px solid #A6C7CA; padding: 5px; background-color: #EDF3F0">
@@ -404,10 +404,10 @@ image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nha.jpg"
 			bội dân tộc, hi vọng có thể phá đổ được thần tượng Hồ Chí Minh trong 
 			lòng đa số người dân Việt hay không, xin đọc bài nghiên cứu lịch sử 
 			về “Cụ Hồ” trên
-			<a href="https://www.sachhiem.net/TCNls/TCNls04.php">
+			<a href="/TCNls/TCNls04">
 			https://www.sachhiem.net/TCNls/TCNls04.php</a>, qua những nhận định 
 			của một số trí thức Tây phương, hoặc bài <i>Về Chuyện Đảo Ngược Danh 
-			Dự Ông Hồ Chí Minh</i> [<a href="https://www.sachhiem.net/NMQ/NMQ20.php">https://www.sachhiem.net/NMQ/NMQ20.php</a>.] 
+			Dự Ông Hồ Chí Minh</i> [<a href="/NMQ/NMQ20">https://www.sachhiem.net/NMQ/NMQ20.php</a>.] 
 			của Giáo sư Nguyễn Mạnh Quang.LM Lễ định phá đổ thần tượng Hồ Chí 
 			Minh bằng cách đưa ra vài chi tiết lặt vặt về đời tư của ông Hồ như: 
 			ông Hồ có vợ, hút thuốc lá nhiều, ngày sinh không rõ, bán đứng Cụ 
@@ -744,7 +744,7 @@ color:gray">[is an additional indictment of the basic dishonesty of
 	giáo cũng dùng những phương pháp tàn bạo trên đối với những người bị kết án 
 	là lạc đạo.[Muốn biết thêm chi tiết về những phương pháp tàn bạo trên, xin 
 	đọc
-	<a href="https://www.sachhiem.net/TCNtg/CGchinhsu/CGCS3.php">
+	<a href="/TCNtg/CGchinhsu/CGCS3">
 	https://www.sachhiem.net/TCNtg/CGchinhsu/CGCS3.php</a> (Lịch Sử 5 Núi Tội Ác 
 	Của Ca-Tô Rô-MaGiáo)]</p>
 		<p>Trong khi ngày nay chuyện tra tấn và tàn sát những người lạc đạo và phù 

@@ -2,7 +2,7 @@
 layout: ../../../layouts/Article.astro
 title: "VIỆT NAM ĐỆ NHẤT CỘNG HÒA TOÀN THƯ"
 author: "Nguyễn Mạnh Quang"
-source: "https://sachhiem.net/null"
+source: "/null"
 lang: vi
 wordCount: 9
 ---

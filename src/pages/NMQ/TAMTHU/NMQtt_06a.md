@@ -2,15 +2,15 @@
 layout: ../../../layouts/Article.astro
 title: "Tâm Thư Gửi Nhà Nước Việt Nam"
 author: "Nguyễn Mạnh Quang"
-source: "https://sachhiem.net/NMQ/TAMTHU/NMQtt_06a.php"
+source: "/NMQ/TAMTHU/NMQtt_06a"
 lang: vi
 wordCount: 11488
-image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nha.jpg"
+image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/print.gif"
 ---
 
-<p align="center"><a href="https://www.sachhiem.net/"> <img border="0" src="https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nha.jpg"></a> | 
-                                    <a target="_blank" href="https://sachhiem.net/NMQ/TAMTHU/NMQtt_06.php"> 		<img border="0" src="https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/print.gif" width="18" height="18">  bản in</a> | 
-	<a target="_blank" href="https://sachhiem.net/NMQ/TAMTHU/NMQtt_Main.php"><b><font face="Symbol" size="5"> ¿ </font></b> trở ra mục lục</a>
+<p align="center"> | 
+                                    <a target="_blank" href="/NMQ/TAMTHU/NMQtt_06"> 		<img border="0" src="https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/print.gif" width="18" height="18">  bản in</a> | 
+	<a target="_blank" href="/NMQ/TAMTHU/NMQtt_Main"><b><font face="Symbol" size="5"> ¿ </font></b> trở ra mục lục</a>
  |  17 tháng 4, 2009 </p>
  
 <p class="CHUONG">PHẦN II</p>
@@ -20,7 +20,7 @@ image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nha.jpg"
 </center>
 <p class="MUC">CHƯƠNG 6</p>
 <p class="MUC">NHỮNG ĐỘNG LỰC KHIẾN CHO <br>NGƯỜI VIỆT NAM THEO ĐẠO CA-TÔ (*)</p>
-<p align="center"><a target="_blank" href="https://sachhiem.net/NMQ/TAMTHU/NMQtt_06.php">(tiếp theo)</a></p>
+<p align="center"><a target="_blank" href="/NMQ/TAMTHU/NMQtt_06">(tiếp theo)</a></p>
 <a name="n5" href="/NMQ/TAMTHU/NMQtt_06#tit5"></a>
 <p>Giáo dân TCG ở Âu Mỹ nói chung, không cuồng tín như giáo dân ở Việt Nam vì lý do như sau:</p>
 <p> Bên Âu Tây, đế quốc La Mã thống trị toàn vùng rộng lớn, bao gồm từ Bắc Âu tới Bắc Phi, các nước quanh vùng ven biển Địa Trung Hải. Khi Giáo Hội La Mã ra đời thì tất cả mọi người trong vùng đó đều&nbsp;bị cưỡng bách theo đạo Ki-tô La Mã hết, nghĩa là họ không tự nguyện theo. Mọi người chung quanh họ đều như thế cả, cho nên họ không có mặc cảm khác người ta. Họ cũng không có mặc cảm vọng ngoại, hay theo giặc phản quê hương. Vì thế họ không thiết tha bảo vệ đạo như những người ở xứ nghèo có nền văn hóa khác, bị dụ theo đạo như Việt Nam.  </p>

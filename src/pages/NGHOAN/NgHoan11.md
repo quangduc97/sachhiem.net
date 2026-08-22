@@ -3,7 +3,7 @@ layout: ../../layouts/Article.astro
 title: "Trịnh Công Sơn và Bob Dylan, Giống và Khác"
 author: "Nguyễn Hoàn"
 date: 2021-05-15
-source: "https://sachhiem.net/NGHOAN/NgHoan11.php"
+source: "/NGHOAN/NgHoan11"
 category: "Văn hóa"
 lang: vi
 wordCount: 4084

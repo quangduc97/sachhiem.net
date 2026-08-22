@@ -2,15 +2,14 @@
 layout: ../../../../layouts/Article.astro
 title: "Giao Điểm 39-40: Diễn văn của Cựu TT B. Clinton Ở VN"
 author: "TT HK B. Clinton"
-source: "https://sachhiem.net/TONGIAO/GD39_40/Clinton/Clinton.php"
+source: "/TONGIAO/GD39_40/Clinton/Clinton"
 category: "Chính trị"
 lang: vi
 wordCount: 114
-image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nha.jpg"
+image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/TONGIAO/GD39_40/ClintonE/1.jpg"
 ---
 
-<p align="center"><a href="https://www.sachhiem.net/"> <img border="0" src="https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nha.jpg"></a> </p>
- <p><i>LTS: Đây là bài diễn văn của cựu Tổng Thống Hoa kỳ Bill Clinton đọc tại Đại Học Quốc Gia ở Hà Nội khi viếng thăm Việt Nam lần đầu tiên vào năm 2000. Có lẽ đây cũng là lần đầu tiên trong lịch sử, nước Việt Nam được đón tiếp một Tổng Thống đương nhiệm của một quốc gia siêu cường. Bài này đăng từ trang 78 của báo giấy Giao Điểm phát hành mùa đông năm 2000. Bài này có 6 trang tiếng Anh chụp nhỏ bên tay trái. Khi bấm vào trang bên trái sẽ có bảng dịch tiếng Việt để đọc bên phải. SH</i></p>
+<p><i>LTS: Đây là bài diễn văn của cựu Tổng Thống Hoa kỳ Bill Clinton đọc tại Đại Học Quốc Gia ở Hà Nội khi viếng thăm Việt Nam lần đầu tiên vào năm 2000. Có lẽ đây cũng là lần đầu tiên trong lịch sử, nước Việt Nam được đón tiếp một Tổng Thống đương nhiệm của một quốc gia siêu cường. Bài này đăng từ trang 78 của báo giấy Giao Điểm phát hành mùa đông năm 2000. Bài này có 6 trang tiếng Anh chụp nhỏ bên tay trái. Khi bấm vào trang bên trái sẽ có bảng dịch tiếng Việt để đọc bên phải. SH</i></p>
   <table width=" 100%" border=" " cellpadding="10"><tbody><tr><td width="200" valign="top">
   <p>Trang 01 -03:</p>
   <p align="center">

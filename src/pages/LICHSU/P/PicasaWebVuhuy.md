@@ -1,7 +1,7 @@
 ---
 layout: ../../../layouts/Article.astro
 title: "Lịch Sử Cuộc Chiến Việt Nam Qua Hình Ảnh"
-source: "https://sachhiem.net/nguồn https://picasaweb.google.com/vuhuy02"
+source: "/nguồn https://picasaweb.google.com/vuhuy02"
 category: "Lịch sử"
 lang: vi
 wordCount: 591

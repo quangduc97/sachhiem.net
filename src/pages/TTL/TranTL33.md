@@ -3,7 +3,7 @@ layout: ../../layouts/Article.astro
 title: "Đảng Nào Xài Phung Phí Nhất?"
 author: "Lữ Giang, Trần Tiên Long"
 date: 2012-10-28
-source: "https://sachhiem.net/TTL/TranTL33.php"
+source: "/TTL/TranTL33"
 category: "Chính trị"
 lang: vi
 wordCount: 4912
@@ -15,7 +15,7 @@ image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/TTL/IMG/TranTL33_cha
         
       
       
-  <p> <i>LTS: Trong bài <a href="https://sachhiem.net/THOISU_CT/ChuD/Dehova_ts0.php">"Nền
+  <p> <i>LTS: Trong bài <a href="/THOISU_CT/ChuD/Dehova_ts0">"Nền
       Dân Chủ Của Mỹ - Chỉ Rặc Đạo Đức Giả Được Che Đậy?"</a>, Larry Yu quan
       sát các cuộc bầu cử theo nhãn quan quốc tế bằng cặp mắt tiêu cực. Nhìn
       vào quốc nội, những cuộc đấu khẩu giữa hai đảng vẫn luôn gay go, vì ít
@@ -451,7 +451,7 @@ image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/TTL/IMG/TranTL33_cha
           <p><b>Mời đọc thêm:</b></p>
           <p>1.) - <a href="/THOISU_CT/ChuN/NgTienTri02">Ghi tên và Đi
               Bầu Để Bảo Vệ Quyền Lợi Chính Đáng Của Mình</a> - <i>Ng. Tiên Tri</i></p>
-          <p>2.) - <a href="/index.php?content=showemail&amp;id=137">Quan Trọng:
+          <p>2.) - <a href="/hop-thu/137">Quan Trọng:
               Mỹ gốc Việt, trước khi bỏ phiếu </a>- <i>Evelyn Bui </i></p><i>
           <p>3.) - <a href="/TTL/TranTL29">Những Ý Kiến Nghiêm Chỉnh Cho
               Kỳ Bầu Cử Tổng Thống Sắp Tới (2012)</a> (Trần Tiên Long)</p>

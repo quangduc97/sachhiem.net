@@ -3,7 +3,7 @@ layout: ../../../layouts/Article.astro
 title: "Lễ Bách Nhật Trai Tuần Cố Giáo Sư Trần Chung Ngọc Tại Tu viện An-Lạc, Ventura, CA"
 author: "Trang nhà sachhiem.net"
 date: 2014-05-09
-source: "https://sachhiem.net/TCN/29JAN14/ChiabuonA_100.php"
+source: "/TCN/29JAN14/ChiabuonA_100"
 lang: vi
 wordCount: 1582
 image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/TCN/Memo/100/2014-05-09HGas.jpg"
@@ -19,7 +19,7 @@ image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/TCN/Memo/100/2014-05
 <p> BTC đã nhắc đến số lượng (trên 340 bài trực tuyến) và phẩm chất của các tác phẩm của cố GS Trần Chung Ngọc đăng trên hai trang mạng sachhiem.net và giaodiemonline.com. Dẫn chứng về  giá trị các bài viết nầy, BTC đã trích dẫn  các nhận xét của Thượng Tọa Thích Nhật Từ trên trang nhà  Đạo Phật Ngày Nay (<i>"Các dữ liệu được Giáo sư nghiên cứu rất có giá trị về phương diện học thuật, khai thông nhiều vấn đề về lịch sử Việt Nam cận đại"</i>), của báo Việt Weekly (<i>"Với đồ sộ một số lượng bài viết tranh luận nảy lửa, thẳng thừng và không nhân nhượng về những vấn đề xã hội, chính trị, tôn giáo, chưa bao giờ thấy ông bày tỏ một thái độ nao núng"</i>),  cũng như phản ứng sôi động của các độc giả về các bài viết đầy hào hứng của ông. BTC đi đến kết luận rằng việc tưởng niệm cho cố GS Trần Chung Ngọc là  việc  làm  không những rất chính đáng mà còn cần thiết nữa, trên cả hai phương diện đạo lý và nhân văn.</p>
 <p align="center"><img src="https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/TCN/Memo/100/2014-05-09HGds.jpg" width="450" height="230"></p>
 <p>Sau cùng, BTC giới thiệu các trưởng phái đoàn từ các nơi như Santa Ana, Chatsworth. </p>
-<p>Tiếp theo phần giới thiệu, Đại Đức Thích Chúc Hiền đọc tiểu sử&nbsp;Cố  GS Trần Chung Ngọc. Vì bản tiểu sử của Thầy Nhật Từ đăng trên tờ Đạo Phật Ngày Nay được viết với lời nhận định, đánh giá rất chính xác về các công trình nghiên cứu của GS Trần Chung Ngọc, nên BTC đã chọn để đọc cho buổi lễ Bách Nhật này. (Xin xem <a href="https://sachhiem.net/TCN/29JAN14/ChiabuonAA.php">Trang Tưởng Niệm Giáo Sư Trần Chung Ngọc - 2) </a></p>
+<p>Tiếp theo phần giới thiệu, Đại Đức Thích Chúc Hiền đọc tiểu sử&nbsp;Cố  GS Trần Chung Ngọc. Vì bản tiểu sử của Thầy Nhật Từ đăng trên tờ Đạo Phật Ngày Nay được viết với lời nhận định, đánh giá rất chính xác về các công trình nghiên cứu của GS Trần Chung Ngọc, nên BTC đã chọn để đọc cho buổi lễ Bách Nhật này. (Xin xem <a href="/TCN/29JAN14/ChiabuonAA">Trang Tưởng Niệm Giáo Sư Trần Chung Ngọc - 2) </a></p>
 <p class="TuaDenLeft"><b>Nghi lễ cầu siêu chính thức</b>:</p>
 <p>Sau đó, lễ chính thức cầu siêu 100  ngày bắt đầu lúc 5:40PM  tại Chánh Điện và kéo dài hơn nửa giờ với số người tham dự lên đến 50 người.</p>
 <p align="center"><img src="https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/TCN/Memo/100/2014-05-09HGcs.jpg" width="450" height="286"></p>
@@ -68,13 +68,13 @@ image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/TCN/Memo/100/2014-05
 <div class="tomluoc">
   <p class="TuaDenLeft"><b>Những trang liên hệ:</b></p>
 <div class="indent50">
- <p><b>1.</b><a href="https://sachhiem.net/index.php?content=showrecipe&amp;id=5873"> Bản tin nhanh về sự ra đi của Giáo-sư Trần Chung Ngọc</a></p>
- <p><b>2. </b><a href="https://sachhiem.net/index.php?content=showrecipe&amp;id=5874">Thành kính phân ưu của trang nhà sachhiem.net</a></p>
- <p><b>3.</b> <a href="https://sachhiem.net/TCN/29JAN14/ChiabuonA.php"> Trang Tưởng Niệm Giáo Sư Trần Chung Ngọc - 1</a></p>
- <p><b>4.</b> <a href="https://sachhiem.net/TCN/29JAN14/ChiabuonAA.php"> Trang Tưởng Niệm Giáo Sư Trần Chung Ngọc - 2</a></p>
- <p><b>5.</b>  <a href="https://sachhiem.net/TCN/29JAN14/ChiabuonB.php">Danh sách tặng hiện kim cho Hiệp Hội Tim Mạch nhân danh GS Trần Chung Ngọc</a></p>
-  <p><b>6.</b> <a href="https://sachhiem.net/TCN/29JAN14/ChiabuonAAA.php"> Các Lễ Cầu Siêu 49 Ngày cho Giáo Sư Trần Chung Ngọc </a></p>
-   <p><b>7.</b> <a href="https://sachhiem.net/TCN/29JAN14/ChiabuonA_100.php">Lễ Cầu Siêu Bách Nhật cho Giáo Sư Trần Chung Ngọc </a></p>
+ <p><b>1.</b><a href="/XAHOI/CHIABUON/Tinbuon"> Bản tin nhanh về sự ra đi của Giáo-sư Trần Chung Ngọc</a></p>
+ <p><b>2. </b><a href="/XAHOI/CHIABUON/Chiabuon7">Thành kính phân ưu của trang nhà sachhiem.net</a></p>
+ <p><b>3.</b> <a href="/TCN/29JAN14/ChiabuonA"> Trang Tưởng Niệm Giáo Sư Trần Chung Ngọc - 1</a></p>
+ <p><b>4.</b> <a href="/TCN/29JAN14/ChiabuonAA"> Trang Tưởng Niệm Giáo Sư Trần Chung Ngọc - 2</a></p>
+ <p><b>5.</b>  <a href="/TCN/29JAN14/ChiabuonB">Danh sách tặng hiện kim cho Hiệp Hội Tim Mạch nhân danh GS Trần Chung Ngọc</a></p>
+  <p><b>6.</b> <a href="/TCN/29JAN14/ChiabuonAAA"> Các Lễ Cầu Siêu 49 Ngày cho Giáo Sư Trần Chung Ngọc </a></p>
+   <p><b>7.</b> <a href="/TCN/29JAN14/ChiabuonA_100">Lễ Cầu Siêu Bách Nhật cho Giáo Sư Trần Chung Ngọc </a></p>
   
 </div>
   </div>

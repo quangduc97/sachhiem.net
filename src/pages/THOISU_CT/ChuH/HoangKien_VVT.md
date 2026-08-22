@@ -3,7 +3,7 @@ layout: ../../../layouts/Article.astro
 title: "Giải Oan Phản Động - Ai Là \"Trùm Nguỵ Sử?”"
 author: "Hoàng Kiền"
 date: 2024-03-23
-source: "https://sachhiem.net/THOISU_CT/ChuH/HoangKien_VVT.php"
+source: "/THOISU_CT/ChuH/HoangKien_VVT"
 category: "Chính trị"
 lang: vi
 wordCount: 5245
@@ -11,7 +11,7 @@ image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/THOISU_CT/Hinh/DOTLO
 ---
 
 <div class="tomluoc">
-   <p><i><a href="https://sachhiem.net/LICHSU/H/HoangKien.php">Xem đôi dòng về tác giả</a> (SH)</i></p>
+   <p><i><a href="/LICHSU/H/HoangKien">Xem đôi dòng về tác giả</a> (SH)</i></p>
    <p><i>  Tôi đã viết bài Buồn - Vui - "Giải oan" đăng sáng 22/3/2024. Nhiều người ủng hộ, có một số người phản đối do họ cùng phe ông ta hoặc là phàn tử xấu. Hôm nay nhớ lại tất cả những sự kiện suốt từ năm 2018 đến nay đã 6 năm, viết bổ sung thêm cho trọn một hành trình cùng tham gia đấu tranh chống nguỵ sử lật sử. Tuổi cao 74 rồi phải lần trong trí nhớ dần viết ra đăng lại bài hoàn chỉnh, xin mời Bạn Làng Phây quan tâm đọc xem.</i> (Hoàng Kiền)</p>
  </div>
 <p class="Tuaduoi"><b>BUỒN VUI - GIẢI OAN </b></p>
@@ -111,7 +111,7 @@ xin từ chức về vườn. Buồn vui xáo trộn. Với tôi còn là giải
  <p align="center"><img src="https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/THOISU_CT/Hinh/DOTLO/HoangKien_VVT7.jpg" width="400" height="341" alt=""></p>
  <p>_____________</p>
  <p><b>Bài liên quan:</b></p>
- <p>- <a href="https://sachhiem.net/LICHSU/N/NguyenThanhTuan02.php">Buồn - Khi Người Mình Đặt Nhiều Hy Vọng Lại Làm Mình Thất Vọng (TT. Nguyễn Thanh Tuấn)</a></p>
+ <p>- <a href="/LICHSU/N/NguyenThanhTuan02">Buồn - Khi Người Mình Đặt Nhiều Hy Vọng Lại Làm Mình Thất Vọng (TT. Nguyễn Thanh Tuấn)</a></p>
  <p>______________</p>
  <p><b>COMMENTS</b></p>
  <p>Hoàng Hiền</p>

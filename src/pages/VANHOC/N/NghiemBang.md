@@ -3,7 +3,7 @@ layout: ../../../layouts/Article.astro
 title: "Về Tiến Quân Ca"
 author: "Nghiêm Bằng /Tiền Phong"
 date: 2013-02-06
-source: "https://sachhiem.net/VANHOC/N/NghiemBang.php"
+source: "/VANHOC/N/NghiemBang"
 category: "Văn hóa"
 lang: vi
 wordCount: 1888

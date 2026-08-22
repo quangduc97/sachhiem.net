@@ -3,7 +3,7 @@ layout: ../../../layouts/Article.astro
 title: "Chính Sách Của Mỹ Đối Với Chính Quyền Ngô Đình Diệm"
 author: "Lê Cung"
 date: 2021-02-27
-source: "https://sachhiem.net/LICHSU/L/LeCung08.php"
+source: "/LICHSU/L/LeCung08"
 category: "Chính trị"
 lang: vi
 wordCount: 8077

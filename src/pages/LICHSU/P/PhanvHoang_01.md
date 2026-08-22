@@ -3,7 +3,7 @@ layout: ../../../layouts/Article.astro
 title: "Hồi Ký Các Chính Khách Cấp Cao Phương Tây"
 author: "TS Phan Văn Hoàng"
 date: 2014-06-28
-source: "https://sachhiem.net/LICHSU/P/PhanvHoang_01.php"
+source: "/LICHSU/P/PhanvHoang_01"
 category: "Chính trị"
 lang: vi
 wordCount: 5745
@@ -224,5 +224,5 @@ Trong </b></p>
   <p class="nguonL">Nguồn: bản MS-Word của tác giả</p>
   <hr>
   <p><b>Bài khác, cùng tác giả:</b></p>
-  <p>- <a href="https://sachhiem.net/LICHSU/P/PhanvHoang.php">Chào Mừng Kỷ Niệm Lần Thứ 38 Đất Nước Hòa Bình &amp; Thống Nhất</a>
+  <p>- <a href="/LICHSU/P/PhanvHoang">Chào Mừng Kỷ Niệm Lần Thứ 38 Đất Nước Hòa Bình &amp; Thống Nhất</a>
 </p>

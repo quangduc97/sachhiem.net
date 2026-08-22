@@ -2,11 +2,11 @@
 layout: ../../../layouts/Article.astro
 title: "Có phải Thiếu tướng Dương Văn Minh đã"
 author: "Trịnh Bá Lộc"
-source: "https://sachhiem.net/null"
+source: "/null"
 category: "Lịch sử"
 lang: vi
 wordCount: 999
-image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nha.jpg"
+image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/SACH/LamLeTrinh.jpg"
 ---
 
 <div align="center" style="position: relative; left: 0; top: 0">
@@ -20,8 +20,7 @@ image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nha.jpg"
 <tr> <td width="100%" bgcolor="White"> 
 	<div style="padding-left: 40px; padding-right: 40px">
 	<table border="0" cellpadding="10" width="600" cols="2"><tbody><tr>
-		<td width="425"><a href="/index">
-		<img border="0" src="https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nha.jpg"></a></td>
+		<td width="425"></td>
 		<td valign="top">	23 tháng 4, 2011</td></tr></tbody></table>
 		<p><span class="First">K</span>hoảng đầu tháng 4 năm 2007, Giao Chỉ phổ 
 		biến trên Take2Tango, bài viết "<i>Tác giả Lâm Lễ Trinh tại San Jose Từ Về 

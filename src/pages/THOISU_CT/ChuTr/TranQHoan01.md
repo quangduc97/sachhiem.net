@@ -3,7 +3,7 @@ layout: ../../../layouts/Article.astro
 title: "IS, Tòa án dị giáo, Thập Tự Chinh"
 author: "Trần Quốc Hoàn"
 date: 2015-02-21
-source: "https://sachhiem.net/THOISU_CT/ChuTr/TranQHoan01.php"
+source: "/THOISU_CT/ChuTr/TranQHoan01"
 category: "Tác giả"
 lang: vi
 wordCount: 6193
@@ -157,12 +157,12 @@ thành lập (Washington), tăng trưởng (Jefferson),  phát triển (Roosevel
  <p align="right"> <i>Paris, mồng  một tết Ất Mùi 2015</i></p>
      <p>_________</p>
      <p><b>Ghi chú:</b></p>
-     <p><a href="/THOISU_CT/#_ftnref1" name="_ftn1">(1)</a>&nbsp; <a href="https://sachhiem.net/LICHSU/L/LyNguyenDieu03.php">Tổng Thống Obama “Sỉ Nhục” Đạo Kitô ? </a></p>
+     <p><a href="/THOISU_CT/#_ftnref1" name="_ftn1">(1)</a>&nbsp; <a href="/LICHSU/L/LyNguyenDieu03">Tổng Thống Obama “Sỉ Nhục” Đạo Kitô ? </a></p>
      <p><a href="/THOISU_CT/#_ftnref2" name="_ftn2">(2)</a> Linh mục Công giáo người Canada sinh năm 1809 mất năm 1899, cải đạo  sang Tin Lành.</p>
       <p><a href="/THOISU_CT/#_ftnref3" name="_ftn3">(3)</a><i>&nbsp; Fifty Years in the Church of Rome </i>- Charles Chiniquy </p>
       <p><a href="/THOISU_CT/#_ftnref4" name="_ftn4">(4)</a>&nbsp; Mãi cho đến Cọng Đồng Vatican II năm 1965. </p>
       <p><a href="/THOISU_CT/#_ftnref5" name="_ftn5">(5)</a>&nbsp; Sđd Charles Chiniquy </p>
-     <p><a href="/THOISU_CT/#_ftnref6" name="_ftn6">(6)</a> Xem <a href="https://sachhiem.net/TTS/TG/TranTrongSy02.php">https://sachhiem.net/TTS/TG/TranTrongSy02.php</a></p>
+     <p><a href="/THOISU_CT/#_ftnref6" name="_ftn6">(6)</a> Xem <a href="/TTS/TG/TranTrongSy02">https://sachhiem.net/TTS/TG/TranTrongSy02.php</a></p>
      <p><a href="/THOISU_CT/#_ftnref7" name="_ftn7">(7)</a> Tôi xin mượn các cụm từ này của giáo sư sử học  Nguyễn Mạnh Quang.</p>
      <p><a href="/THOISU_CT/#_ftnref8" name="_ftn8">(8)</a>&nbsp;&nbsp;&nbsp; <a href="https://www.washingtonmonthly.com/political-animal-a/2015_02/obamas_fear_of_god_again_anger054048.php">https://www.washingtonmonthly.com/....php</a></p>
     <p><a href="/THOISU_CT/#_ftnref9" name="_ftn9">(9)</a> <a href="https://www.20minutes.fr/monde/1535631-20150207-obama-attaque-avoir-compare-violence-djihadiste-croisades">https://www.20minutes.fr/... croisades</a></p>

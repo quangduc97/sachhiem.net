@@ -2,18 +2,17 @@
 layout: ../../../layouts/Article.astro
 title: "Diện Mạo Kiến Trúc Phật Giáo Cho TPHCM"
 author: "Minh Thạnh"
-source: "https://sachhiem.net/TONGIAO/tgM/MinhThanh10d.php"
+source: "/TONGIAO/tgM/MinhThanh10d"
 category: "Tác giả"
 lang: vi
 wordCount: 2720
-image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nha.jpg"
+image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/TONGIAO/IMG/CHUA/ThichCaPhatDai_Vungtau.jpg"
 ---
 
 <p class="Tuaduoi">Trong Bối Cảnh Đất Nước Độc Lập Thống Nhất? </p>
  
 	 
-<p align="center"><a href="https://www.sachhiem.net/">
-	<img border="0" src="https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nha.jpg"></a>
+<p align="center">
 28-July-2013 </p>
  
 <p align="center" class="TuaChuong"><b> Bài 5-  Trường Hợp Vũng Tàu</b></p>
@@ -106,6 +105,6 @@ Như vậy, thay đổi diện  mạo kiến trúc tôn giáo ở Vũng Tàu, kh
 Chớ nên để đến mức gần  như không thể thay đổi gì hết đối với diện mạo kiến trúc tôn giáo như ở thành  phố Vũng Tàu. Chúng tôi tiếp tục hướng về các vị tu sĩ yêu nước, yêu thành phố  quê hương trong Ban Trị sự GHPGVN TPHCM.</p>
 <p class="TacgiaL">
 MT</p>
-<p><a href="https://sachhiem.net/TONGIAO/tgM/MinhThanh10c.php">&lt;=</a> Loạt bài cùng đề tài <a href="https://sachhiem.net/TONGIAO/tgM/MinhThanh10d.php"> </a></p>
+<p><a href="/TONGIAO/tgM/MinhThanh10c">&lt;=</a> Loạt bài cùng đề tài <a href="/TONGIAO/tgM/MinhThanh10d"> </a></p>
 <p>(Nếu danh sách dưới đây báo lỗi, xin bấm <br><a href="/TONGIAO/tgM/MinhThanh10d">https://sachhiem.net/TONGIAO/tgM/MinhThanh10d.php</a>)</p>
 <hr>

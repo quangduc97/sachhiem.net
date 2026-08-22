@@ -3,7 +3,7 @@ layout: ../../../layouts/Article.astro
 title: "Quá Nhiều Và Không Bao Giờ Đủ:"
 author: "FB Thi Nguyen dịch"
 date: 2019-10-10
-source: "https://sachhiem.net/THOISU_CT/FB/ThiNguyen.php"
+source: "/THOISU_CT/FB/ThiNguyen"
 category: "Chính trị"
 lang: vi
 wordCount: 2036

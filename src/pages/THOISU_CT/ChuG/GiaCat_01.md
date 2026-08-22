@@ -3,7 +3,7 @@ layout: ../../../layouts/Article.astro
 title: "17 Cơ Quan Tạo Ra Mạng Lưới Tình Báo Tinh Vi Nhất Thế Giới"
 author: "Paul Szoldra / Kim Âu chuyển Việt"
 date: 2018-02-18
-source: "https://sachhiem.net/THOISU_CT/ChuG/GiaCat_01.php"
+source: "/THOISU_CT/ChuG/GiaCat_01"
 category: "Chính trị"
 lang: vi
 wordCount: 3652

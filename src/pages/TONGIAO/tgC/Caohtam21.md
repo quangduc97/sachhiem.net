@@ -3,7 +3,7 @@ layout: ../../../layouts/Article.astro
 title: "Người Việt Hải Ngoại - Chia Rẽ, Bế Tắc, Bài Học Đắt Giá"
 author: "Cao Hữu Tâm"
 date: 2015-01-16
-source: "https://sachhiem.net/TONGIAO/tgC/Caohtam21.php"
+source: "/TONGIAO/tgC/Caohtam21"
 category: "Tác giả"
 lang: vi
 wordCount: 4071
@@ -167,5 +167,5 @@ From: "Tam Cao" &lt;caohuutam1939@gmail.com&gt;<br>
 <p>caohuutam 1939@gmail.com</p>
 <p>  _________________________</p>
 <p><b>Bài liên hệ:</b></p>
-<p>1- <a href="https://sachhiem.net/TONGIAO/tgC/Caohtam08.php">Bài góp ý về Bản Lên Tíêng số 3 của báo Saigon Nhỏ - Sự Thật Mất Lòng</a> (Cao Hữu Tâm) </p>
+<p>1- <a href="/TONGIAO/tgC/Caohtam08">Bài góp ý về Bản Lên Tíêng số 3 của báo Saigon Nhỏ - Sự Thật Mất Lòng</a> (Cao Hữu Tâm) </p>
 <p>2- Thư hỏi đáp:</p>

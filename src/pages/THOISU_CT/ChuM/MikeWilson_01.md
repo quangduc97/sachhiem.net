@@ -3,7 +3,7 @@ layout: ../../../layouts/Article.astro
 title: "Quốc Hội Mỹ Tham Ô Như Thế Nào!"
 author: "Mike Wilson"
 date: 2015-04-17
-source: "https://sachhiem.net/THOISU_CT/ChuM/MikeWilson_01.php"
+source: "/THOISU_CT/ChuM/MikeWilson_01"
 category: "Chính trị"
 lang: vi
 wordCount: 789

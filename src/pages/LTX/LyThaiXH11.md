@@ -2,15 +2,14 @@
 layout: ../../layouts/Article.astro
 title: "\"Cãi Nhau Cho Phải Cách\" Với Người Bạn Đời?"
 author: "Lý Thái Xuân"
-source: "https://sachhiem.net/LTX/LyThaiXH11.php"
+source: "/LTX/LyThaiXH11"
 category: "Xã hội"
 lang: vi
 wordCount: 1070
-image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nha.jpg"
+image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/XAHOI/IMG/Couplefight.jpg"
 ---
 
-<p align="center"><a href="https://www.sachhiem.net/">
-<img border="0" src="https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nha.jpg"></a> 03 tháng 3, 2011 </p> 
+<p align="center"> 03 tháng 3, 2011 </p> 
 		<p align="center">
 		<img border="0" src="https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/XAHOI/IMG/Couplefight.jpg" width="231" height="154"></p>
 		

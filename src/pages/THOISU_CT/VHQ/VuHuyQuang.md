@@ -2,15 +2,14 @@
 layout: ../../../layouts/Article.astro
 title: "Đọc \"Tổ Quốc Ăn Năn\" của Nguyễn Gia Kiểng"
 author: "Vũ Huy Quang"
-source: "https://sachhiem.net/THOISU_CT/VHQ/VuHuyQuang.php"
+source: "/THOISU_CT/VHQ/VuHuyQuang"
 category: "Chính trị"
 lang: vi
 wordCount: 4505
-image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nha.jpg"
+image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/SACH/ToQuocAnNan.JPG"
 ---
 
-<p align="center"><a href="https://www.sachhiem.net/">
-<img border="0" src="https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nha.jpg"></a>08 tháng 6, 2007 </p>
+<p align="center">08 tháng 6, 2007 </p>
 <div class="tomluoc">
    <p><i>LTS: Hiện tượng xét lại lịch sử gần đây nổi lên trong nước có thể suy ra từ ảnh hưởng của các quyển sách đầy âm mưu của thế lực nằm trong những người lưu vong ở nước ngoài. Quyển sách Tổ Quốc Ăn Năn của kỷ sư Nguyễn Gia Kiểng bên Pháp đã xuất bản khoảng 20 năm trước, và cũng đã báo động những người ở nước ngoài quan tâm đến vận mệnh nước nhà. Nhưng để phản hồi một quyển sách 600 trang, người đọc cần có nhiều điều kiện như sở hữu được quyển sách, có thời gian nghiên cứu, và có kiến thức về lịch sử, chính trị và xã hội, ...</i></p>
    <p><i>Đợi đến có được một bài phản biện thì ảnh hưởng của nó lên những người đói thông tin trong nước đã không thể ngăn chặn được nữa. Năm nay (15 Nov 2025) chúng tôi cho đăng lại bài này của anh Vũ Huy Quang cũng vì hiện tượng lật sử đã quá lộ liễu trong nước</i>.</p>

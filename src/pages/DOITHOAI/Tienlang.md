@@ -3,16 +3,16 @@ layout: ../../layouts/Article.astro
 title: "Cuộc Tranh Luận Về 258"
 author: "GoogleTienLang.blogpost.com"
 date: 2013-10-02
-source: "https://sachhiem.net/DOITHOAI/Tienlang.php"
+source: "/DOITHOAI/Tienlang"
 category: "Chính trị"
 lang: vi
 wordCount: 27307
-image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nha.jpg"
+image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/THOISU_CT/Hinh/CCCB/258_NgLanThang_QTNQ.jpg"
 ---
 
 <table border="0" cellpadding="0" width="250" align="center">
             <tbody><tr>
-              <td width="125"><a href="/index"><img border="0" src="https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nha.jpg"></a></td>
+              <td width="125"></td>
               <td valign="middle"> 02-Oct-2013</td>
             </tr>
           </tbody></table>
@@ -199,9 +199,9 @@ Tiếc là tôi vẫn chưa biết “cây báo gạo cội” Trịnh Hữu Lon
  Nguồn:&nbsp;<a href="https://donglasg.blogspot.com/2013/09/trinh-huu-long-au-tri-va-ngu-ngo-ve.html">https://donglasg.blogspot.com/2013/09/trinh-huu-long-au-tri-va-ngu-ngo-ve.html </a></p>
 <p> ____________ </p>
 <p><b>Mời  xem thêm: </b></p>
-<p>- <a href="https://sachhiem.net/THOISU_CT/ChuV/VoKhanhLinh05a.php">Hoàng Thị Nhật Lệ "Phỏng Vấn" Nhà Báo RFA???</a> (timlaisuthat.blogspot.com) 
+<p>- <a href="/THOISU_CT/ChuV/VoKhanhLinh05a">Hoàng Thị Nhật Lệ "Phỏng Vấn" Nhà Báo RFA???</a> (timlaisuthat.blogspot.com) 
 </p>
-<p>- <a href="https://sachhiem.net/THOISU_CT/ChuV/VoKhanhLinh05.php">Điều 258, Các Bloggers, Tuyên Bố, Phản Bác, Và Phỏng Vấn RFA </a> (phanbactuyenbo258.blogspot.com) 
+<p>- <a href="/THOISU_CT/ChuV/VoKhanhLinh05">Điều 258, Các Bloggers, Tuyên Bố, Phản Bác, Và Phỏng Vấn RFA </a> (phanbactuyenbo258.blogspot.com) 
 </p>
 
 <p> <img src="https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/DivGold.gif" width="100%" height="3"></p>

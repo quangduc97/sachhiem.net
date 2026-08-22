@@ -3,7 +3,7 @@ layout: ../../../layouts/Article.astro
 title: "Những Điều Dối Trá Và Hoang Đường Trong Kinh Đạo Ki-Tô"
 author: "Lloyd Graham"
 date: 2014-09-04
-source: "https://sachhiem.net/SACHNGOAI/snT/TThL6.php"
+source: "/SACHNGOAI/snT/TThL6"
 category: "Chính trị"
 lang: vi
 wordCount: 3467

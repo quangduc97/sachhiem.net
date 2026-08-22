@@ -3,7 +3,7 @@ layout: ../../../layouts/Article.astro
 title: "Các Giáo Hoàng Roma Đều Có Thủ Đoạn Đối Với Các Quốc Gia Không Theo Họ"
 author: "Hồng Thất Công - TSSH"
 date: 2026-01-14
-source: "https://sachhiem.net/LICHSU/FB/FBHongThatCong03.php"
+source: "/LICHSU/FB/FBHongThatCong03"
 category: "Lịch sử"
 lang: vi
 wordCount: 2685
@@ -93,13 +93,13 @@ image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/TONGIAO/IMG/VATICAN/
  <p>(6) <a href="https://en.wikipedia.org/wiki/Pope_Pius_XII_foreign_relations_after_World_War_II">Pope Pius XII foreign relations after World War II</a> </p>
  <p>(6*) Ba lần Hoàng hậu Nam phương thăm Vatican.<a href="https://www.facebook.com/conggiaovietnam84vn/posts/pfbid02MKKABuBUeHZG3ikYuaCusBxdBo6btgyt5qRX8vxypt5FZgCKvjMywK6JZdsfoCbgl"> (FB Công Giáo Việt Nam) </a></p>
  <p>(7) Bài Giảng Của Đức Thánh Giáo Hoàng Gioan Phaolô Ii Trong Lễ Tuyên Phong 117 Vị Thánh Tử Đạo Việt Nam Ngày 19-6-1988 <a href="https://hdgmvietnam.com/chi-tiet/bai-giang-dgh-gioan-phaolo-ii-trong-le-tuyen-phong-thanh-117-thanh-tu-dao-viet-nam-ngay-19-6-1988-32723">(Hội Đồng Giám Mục VN ngày 13/11/2025)</a></p>
- <p>(8) <a href="https://sachhiem.net/NMQ/MOIACCAM/NMQ_07.php">Mối Ác Cảm Của Nhân Dân Thế Giới Đối Với Giáo Hội La Mã </a>(Nguyễn Mạnh Quang) </p>
- <p>(9) <a href="https://sachhiem.net/SACHNGOAI/FB/FBTuanLe.php">Lộ Trình Giải Thể Cộng Sản Của Giáo Hoàng John Paul II</a> (Seattletimes/ Tuấn Lê)</p>
+ <p>(8) <a href="/NMQ/MOIACCAM/NMQ_07">Mối Ác Cảm Của Nhân Dân Thế Giới Đối Với Giáo Hội La Mã </a>(Nguyễn Mạnh Quang) </p>
+ <p>(9) <a href="/SACHNGOAI/FB/FBTuanLe">Lộ Trình Giải Thể Cộng Sản Của Giáo Hoàng John Paul II</a> (Seattletimes/ Tuấn Lê)</p>
  <p>(10)<a href="https://nhathothaiha.net/duc-giao-hoang-gioan-phaolo-ii-va-su-sup-cua-che-cong-san/"> Đức Giáo Hoàng Gioan Phaolo II và sự sụp đổ của chế độ cộng sản</a> (Lm Chân Tín)</p>
  <p>(11) <a href="https://ewtn.no/vatican-honors-venerable-cardinal-van-thuan-with-new-foundation/">Vatican honors Venerable Cardinal Văn Thuận with new foundation</a> - July 25, 2023 </p>
  <p>(12) <a href="https://vi.wikipedia.org/wiki/Phanxic%C3%B4_Xavi%C3%AA_Nguy%E1%BB%85n_V%C4%83n_Thu%E1%BA%ADn">Phanxicô Xaviê Nguyễn Văn Thuận</a></p>
  <p>(13) <a href="https://catholicnews.sg/2023/09/03/vatican-and-vietnam-take-major-step-forward-in-relations/">GH Francis I - Vatican and Vietnam take major step forward in relations</a> </p>
- <p>(14)  Phân Tích Các Nguồn Thông Tin Quanh Câu Chuyện Về LM Trương Bửu Diệp <a href="https://www.sachhiem.net/LTX/LythaiTG41.php">Thì ra LM Trương Bửu Diệp là mật thám cho Tây giết Việt Minh</a></p>
+ <p>(14)  Phân Tích Các Nguồn Thông Tin Quanh Câu Chuyện Về LM Trương Bửu Diệp <a href="/LTX/LythaiTG41">Thì ra LM Trương Bửu Diệp là mật thám cho Tây giết Việt Minh</a></p>
  <p>(15) Cha Phanxicô Trương Bửu Diệp sẽ được phong Chân phước vào ngày 2/7/2026, (<a href="https://www.vaticannews.va/vi/church/news/2025-12/cha-phanxico-truong-buu-diep-tuyen-phong-chan-phuoc.html"> Vatican News ngày 19 tháng 12 2025</a>) </p>
  
  <p class="PHAN">___________</p>

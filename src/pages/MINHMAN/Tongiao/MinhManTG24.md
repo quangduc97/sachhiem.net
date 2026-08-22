@@ -2,7 +2,7 @@
 layout: ../../../layouts/Article.astro
 title: "Thư của Đức Tổng Giám Mục Ngô Quang Kiệt"
 author: "Minh Mẫn"
-source: "https://sachhiem.net/null"
+source: "/null"
 lang: vi
 wordCount: 2953
 image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nha.gif"
@@ -33,7 +33,7 @@ image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nha.gif"
 <table border="0" cellpadding="50" cellspacing="0" width="100%" topmargin="10"> 
 	<tbody><tr><td bgcolor="White" align="justify" valign="top">
 <table border="0" cellpadding="10" width="100%" cols="2"><tbody><tr>
-	<td valign="top"><a href="https://sachhiem.net/">
+	<td valign="top"><a href="/">
 	<img border="0" src="https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nha.gif" width="47" height="37"></a></td>
 	<td valign="top" style="text-align:right">	<i>
 	<font color="#080808" size="2"> 30 tháng 

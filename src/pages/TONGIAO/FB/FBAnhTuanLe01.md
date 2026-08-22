@@ -3,7 +3,7 @@ layout: ../../../layouts/Article.astro
 title: "Không Có Cha Long, Thì Còn Có Tôi!"
 author: "FB Anh-Tuan LE"
 date: 2019-08-30
-source: "https://sachhiem.net/TONGIAO/FB/FBAnhTuanLe01.php"
+source: "/TONGIAO/FB/FBAnhTuanLe01"
 category: "Chính trị"
 lang: vi
 wordCount: 3393

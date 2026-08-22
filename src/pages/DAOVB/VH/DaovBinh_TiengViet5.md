@@ -3,7 +3,7 @@ layout: ../../../layouts/Article.astro
 title: "Tiếng Việt Kinh Hoàng Ở Trong Nước"
 author: "Đào Văn Bình"
 date: 2016-08-26
-source: "https://sachhiem.net/DAOVB/VH/DaovBinh_TiengViet5.php"
+source: "/DAOVB/VH/DaovBinh_TiengViet5"
 category: "Văn hóa"
 lang: vi
 wordCount: 11474
@@ -160,7 +160,7 @@ image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/PEOPLE/ngacnh
 <p><i>6) <b>Thi công</b>:</i> Công nhân <b><i>đang làm việc</i></b> trong  nhà máy bây giờ được gọi là, “<i>Công nhân <b>đang thi công.</b></i>” Tại  sao công nhân lại phải thi đua với nhau? Trên thế giới này, khắp năm châu bốn  biển, chẳng có chỗ nào công nhân này phải thi đua với công nhân kia. Ai có phận  sự của người nấy. Một công việc phải mất bao nhiêu giờ, cần bao nhiêu nhân  công, kỹ sư… chủ nhân đều biết. Cứ tuần tự mà làm. Bạn là công nhân ở Mỹ mà <b><i>thi  đua</i></b> để làm việc thì đúng là mắc bệnh tâm thần. Nếu công việc phải  8 giờ mới hoàn tất, nay vì muốn “kiểm điểm” cố sống cố chết hoàn tất trong 6  tiếng thì lần sau ông chủ sẽ giao thêm việc cho bạn…tức mình tự giết mình mà  cũng chẳng được khen ngợi hay tăng lương. Ở Mỹ chuyện gì cũng rõ ràng. Công  việc phải hoàn tất trong 8 tiếng mà 10 tiếng mình mới làm xong, người ta đuổi  mình vì mình không có khả năng làm việc. Công việc 8 tiếng mới hoàn thất mà 6  tiếng mình đã làm xong, người ta sẽ đưa thêm việc cho mình làm. Ở Mỹ không có  chuyện ngồi chơi lãnh lương và cũng không có chuyện phải  <b><i>thi đua</i></b>.  Nếu công việc quá nhiều mà phải làm thêm giờ (<i>over time</i>) thì phải trả  lương gấp rưỡi hay gấp đôi. Công nhân làm đúng bổn phận là đáng khen lắm rồi.  Nhiều khi thi đua chỉ là gian dối rồi báo cáo láo. Thi đua nhiều quá công nhân  kiệt sức, lao phổi chết oan mạng! </p>
 <p>7)<b> <i>Phiên bản:</i></b> Trong  nước không hiểu nghĩa “<b><i>phiên bản</i></b>” là gì. Nếu bạn mở cuồn Từ Điển  Anh-Hoa (<i>English-Chinese Dictionary</i>) thì “<b><i>copy</i></b>”   người Tàu dịch là “<i>phiên bản</i>”. Vậy thì “<b><i>phiên bản</i></b>” là bản  sao chép, bản chụp, sao y bản chính…thế mà “<b><i>phiên bản</i></b> “ được  dùng ở khắp mọi nơi, chẳng hạn như “<b><i>báo Nhân Dân phiên bản tiếng Việt</i></b>”,  thật ra nó chỉ là, “<b><i>Báo Nhân Dân, bản tiếng Việt</i></b>” (<i>vì báo Nhân  Dân có thể có bản tiếng Hoa, tiếng Anh, tiếng Nhật</i>). Nếu nó là “<b><i>phiên  bản</i></b>” thì nó phải sao chép lại, hoặc chụp lại từ bản chính. Đúng là điếc  không sợ súng, không hiểu nghĩa mà cứ viết bừa. Thật đáng sợ! Trên đời này  người ta không sợ bậc trí thức mà sợ kẻ ngu dốt, Vì ngu dốt sẽ phá nát mọi thứ.  Hình như Lennin nói rằng “<i>Ngu dốt cộng với nhiệt tình là phá hoại</i>”. </p>
 <p class="TuaDenLeft"> <b>Kết Luận:</b>  </p>
-<p>Tôi xin dùng phần cuối  của bài <a href="https://sachhiem.net/DAOVB/VH/DaovBinh_TiengViet.php">“<b><i>Thế Nào Là Tiếng Việt Trong Sáng</i></b>” phổ biến ngày  24/1/2013 </a>để tạm kết luận cho bài này: </p>
+<p>Tôi xin dùng phần cuối  của bài <a href="/DAOVB/VH/DaovBinh_TiengViet">“<b><i>Thế Nào Là Tiếng Việt Trong Sáng</i></b>” phổ biến ngày  24/1/2013 </a>để tạm kết luận cho bài này: </p>
 <p>“Ngôn ngữ và văn chương  là tài sản vô giá do tiền nhân để lại, chúng ta phải có trách nhiệm bảo tồn và  phát huy cho mỗi ngày thêm sáng đẹp. Do giao tiếp với nhiều nguồn văn hóa ngoại  lai, những chữ nào có thể dịch sang Việt Ngữ thì phải cố mà dịch cho được để  giữ gìn ngôn ngữ và văn chương Việt cho thuần khiết. Chen tiếng ngoại quốc vào  tiếng Việt một cách bừa bãi khiến tiếng Việt trở nên lai căng, hổ lốn. Muốn thế  thì phải học hỏi và nhất là phải cẩn thận và viết với tinh thần trách  nhiệm.Trách nhiệm có nghĩa là hiểu được hậu quả của những gì mình viết ra. Nếu  không giỏi thì cứ học theo người xưa mà viết, cố “<i>sáng chế</i>” tức viết  bậy, viết nhảm. Chúng ta không nên đùa rỡn, nói mạnh hơn là <b><i>phá hoại  ngôn ngữ và chữ viết của dân tộc</i></b>. </p>
 <p>Học tiếng nước ngoài là để giao dịch,  làm ăn buôn bán và nghiên cứu những kiến thức mà sách Việt không có. Học tiếng  nước ngoài không có nghĩa là để hủy hoại tiếng mẹ đẻ hoặc thỉnh thoảng <b><i>“xổ”</i></b> ra  vài tiếng để chứng tỏ mình văn minh hơn đời hoặc có vẻ ta là “Mỹ” đây. Người Mỹ  có bắt chước ai đâu? Họ đứng trên đôi chân của họ. Tại sao ta phải tự ti mặc  cảm về ngôn ngữ của dân tộc mình? Chuyện “<i>nói tiếng Tây ba rọi</i>” đã xưa  lắm rồi và bị mỉa mai suốt thời kỳ Thực Dân Pháp còn đô hộ nước ta. Sau hết,  cũng xin nhớ cho muốn giữ gìn tiếng Việt trong sáng thì tâm hồn mình cũng phải  trong sáng trước đã.<b><i> Tâm hồn trong sáng là tâm hồn của một người yêu nước  Việt và tiếng Việt. </i></b>Khi mình nói mình yêu cha mẹ tức là phải làm  sao cho cha mẹ sung sướng. Còn khi mình nói mình yêu tiếng Việt có nghĩa là  mình phải làm sao cho tiếng Việt mỗi ngày mỗi trở nên sáng đẹp, thanh tao. “ </p>
 <i> </i>
@@ -182,11 +182,11 @@ image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/PEOPLE/ngacnh
      <p>2.  <a href="https://tuoitre.vn/tin/ban-doc/20100827/tranh-dung-tieng-lai/397427.html">  Tránh dùng  “tiếng lai” (Trần Đức Nguyên/Tuổi Trẻ, 27/08/2010 )</a></p>
      <p>3. <a href="https://www.tgn.edu.vn/bai-viet/c63/i104/tieng-viet-co-con-trong-sang-.html">Tiếng Việt Có Còn Trong Sáng? (PGS.TS. Phạm V. Tình/ TGN) </a> </p>
      <p>4. <a href="https://www.facebook.com/notes/i-love-viet-nam/gi%E1%BB%AF-g%C3%ACn-s%E1%BB%B1-trong-s%C3%A1ng-c%E1%BB%A7a-ti%E1%BA%BFng-vi%E1%BB%87t/173847037396">Giữ gìn sự trong sáng của tiếng Việt (Trần Quang Đại)</a></p>
-     <p>5. <a href="https://sachhiem.net/printemail.php?id=31">Ở Giếng Đã Lâu! (Minh Di)</a></p>
+     <p>5. <a href="/printemail.php?id=31">Ở Giếng Đã Lâu! (Minh Di)</a></p>
 <p>6. <a href="https://bloggoldmund.blogspot.com/2011/11/pha-hoai-su-trong-sang-cua-tieng-viet.html">Phá hoại sự trong sáng của tiếng  Việt</a></p>
-<p>7. <a href="https://sachhiem.net/DAOVB/VH/DaovBinh_TiengViet.php">Thế Nào Là Tiếng Việt Trong Sáng? (Đào Văn Bình)</a></p>
-<p>8. <a href="https://sachhiem.net/DAOVB/VH/DaovBinh_TiengViet3.php">Lại Nói Về Tiếng Việt Tệ Hại Của BBC Việt Ngữ (Đào Văn Bình)</a></p>
+<p>7. <a href="/DAOVB/VH/DaovBinh_TiengViet">Thế Nào Là Tiếng Việt Trong Sáng? (Đào Văn Bình)</a></p>
+<p>8. <a href="/DAOVB/VH/DaovBinh_TiengViet3">Lại Nói Về Tiếng Việt Tệ Hại Của BBC Việt Ngữ (Đào Văn Bình)</a></p>
 <p>9. <a href="https://hoamunich.wordpress.com/2013/10/22/nhu-mot-giac-mo/">Trình Độ Việt Ngữ BBC Và VOA (Đào Văn Bình)</a></p>
-<p>10. <a href="https://sachhiem.net/DAOVB/VH/DaovBinh_TiengViet5.php">Thảm họa tiếng Anh “ba rọi” của người Việt bây giờ (Đào Văn Bình)</a></p>
+<p>10. <a href="/DAOVB/VH/DaovBinh_TiengViet5">Thảm họa tiếng Anh “ba rọi” của người Việt bây giờ (Đào Văn Bình)</a></p>
 <hr>
- <p><a href="https://sachhiem.net/DAOVB/DVBdir.php">-- Link các bài viết của tác giả Đào Văn Bình --</a> </p>
+ <p><a href="/DAOVB/DVBdir">-- Link các bài viết của tác giả Đào Văn Bình --</a> </p>

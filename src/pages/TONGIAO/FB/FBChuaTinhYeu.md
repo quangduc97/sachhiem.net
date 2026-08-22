@@ -3,7 +3,7 @@ layout: ../../../layouts/Article.astro
 title: "Bỗng Lễ"
 author: "FB Thiên Chúa Là Tình Yêu"
 date: 2022-11-14
-source: "https://sachhiem.net/TONGIAO/FB/FBChuaTinhYeu.php"
+source: "/TONGIAO/FB/FBChuaTinhYeu"
 category: "Chính trị"
 lang: vi
 wordCount: 1710

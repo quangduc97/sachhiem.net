@@ -3,7 +3,7 @@ layout: ../../../layouts/Article.astro
 title: "Lại Chuyện 50 Năm Trước"
 author: "Trần Chung Ngọc"
 date: 2025-01-29
-source: "https://sachhiem.net/TCN/TCNls/TCNls18_50nam.php"
+source: "/TCN/TCNls/TCNls18_50nam"
 lang: vi
 wordCount: 6070
 image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/SACHNGOAI/Hinhanh/BIASACH/VNahistory.jpg"
@@ -13,7 +13,7 @@ image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/SACHNGOAI/Hinhanh/BI
 <div class="tomluoc">
  <p>Giết ông Diệm và Nhu là quyết định của các  tướng lãnh để trừ hậu hoạn, rút kinh nghiệm từ sự lật lọng của ông Diệm trong  cuộc đảo chính năm 1960.&nbsp; Vì vậy nếu nói  đến “<i>nguyên nhân</i>” của cuộc đảo chánh,  thì “<i>nguyên nhân</i>” đó chính là Ngô  Đình Diệm, hay đúng hơn, nguyên nhân là “<i>tứ đại nhân bang họ Ngô Đình: Ngô Đình  Thục, Ngô Đình Diệm, Ngô Đình Nhu, và Ngô Đình Cẩn</i>” chưa kể đến tập đoàn kiêu  binh Ca-tô, từ linh mục xuống tới giáo dân tác oai tác quái khắp miền Nam, đặc  biệt là ở vùng Hố Nai, Gia Kiệm, Hải yến v…v&nbsp; (TCN) </p>
 </div>
-<p>Bài “<i>Từ Kennedy Đến Ngô Đình Diệm: <a href="https://www.sachhiem.net/THOISU_CT/ChuH/HoangNamGiao.php">Một Huyền Thoại Phải Dẹp Bỏ “ của Hoàng Nam Giao trên&nbsp; https://sachhiem.net/</a></i>  dẫn tôi tìm đọc hai bài của Đinh Từ Thức với  đầu đề: “<i>50 năm sau biến cố 1 tháng 11, 1963: xét lại nguyên nhân và hậu quả</i>”.  Bài được đăng trên Kho lưu trữ của “<i>Tạp chí Da Màu</i>”:</p>
+<p>Bài “<i>Từ Kennedy Đến Ngô Đình Diệm: <a href="/THOISU_CT/ChuH/HoangNamGiao">Một Huyền Thoại Phải Dẹp Bỏ “ của Hoàng Nam Giao trên&nbsp; https://sachhiem.net/</a></i>  dẫn tôi tìm đọc hai bài của Đinh Từ Thức với  đầu đề: “<i>50 năm sau biến cố 1 tháng 11, 1963: xét lại nguyên nhân và hậu quả</i>”.  Bài được đăng trên Kho lưu trữ của “<i>Tạp chí Da Màu</i>”:</p>
      <ul type="disc">
       <li><a href="https://damau.org/archives/29801">https://damau.org/archives/29801</a> (Phần 1, đăng ngày 1-11-2013)</li>
       <li><a href="https://damau.org/archives/29843">https://damau.org/archives/29843</a> (Phần 2, đăng ngày 4-11-2013)</li>
@@ -141,8 +141,8 @@ VIETNAM History in Pictures (1955-1961) </i></p>
 <p>________________</p>
 <p><b>Mời đọc thêm:</b></p>
 <p>1- <i>"Vụ ám sát Ngô Đình Diệm: Vì sao Ngô Đình Diệm Chống Lại Việc Mỹ Can Thiệp Nội Bộ?" </i>- Quốc Việt dịch bài The Assassination of Ngo Dinh Diem
-  by Peter Kross <br><a href="https://www.sachhiem.net/SACHNGOAI/Q/QuocViet02.php">https://sachhiem.net/SACHNGOAI/Q/QuocViet02.php</a></p>
-<p>2- “<i>Từ Kennedy Đến Ngô Đình Diệm:  <a href="https://www.sachhiem.net/THOISU_CT/ChuH/HoangNamGiao.php">Một Huyền Thoại Phải Dẹp Bỏ” của Hoàng Nam Giao trên&nbsp; https://sachhiem.net/</a>.</i>&nbsp; </p>
+  by Peter Kross <br><a href="/SACHNGOAI/Q/QuocViet02">https://sachhiem.net/SACHNGOAI/Q/QuocViet02.php</a></p>
+<p>2- “<i>Từ Kennedy Đến Ngô Đình Diệm:  <a href="/THOISU_CT/ChuH/HoangNamGiao">Một Huyền Thoại Phải Dẹp Bỏ” của Hoàng Nam Giao trên&nbsp; https://sachhiem.net/</a>.</i>&nbsp; </p>
  
      <hr>
      

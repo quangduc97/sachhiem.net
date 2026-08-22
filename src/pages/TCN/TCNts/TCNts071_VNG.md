@@ -3,7 +3,7 @@ layout: ../../../layouts/Article.astro
 title: "Công Nghiệp Cuối Cùng -"
 author: "Trần Chung Ngọc"
 date: 2013-11-04
-source: "https://sachhiem.net/index.php?content=showrecipe&id=5802"
+source: "/LICHSU/N/Nguyenvtran"
 category: "Chính trị"
 lang: vi
 wordCount: 11843

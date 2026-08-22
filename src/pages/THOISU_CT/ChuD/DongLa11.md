@@ -3,7 +3,7 @@ layout: ../../../layouts/Article.astro
 title: "Lê Văn Duyệt Có Bị Oan?"
 author: "Đông La"
 date: 2024-10-29
-source: "https://sachhiem.net/THOISU_CT/ChuD/DongLa11.php"
+source: "/THOISU_CT/ChuD/DongLa11"
 category: "Chính trị"
 lang: vi
 wordCount: 2468
@@ -57,8 +57,8 @@ image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/LICHSU/IMG/SuVN/VuaM
     <p class="nguonL">Nguồn <a href="https://www.facebook.com/donglasg/posts/pfbid02zNeSxZ4wMTu5VfAHQqrA57pcz7DtxXSt2rVewEZaLCAg4N59QN3JvG9XYNN7iWUrl">FB Nguyễn văn Hùng</a> ngày 01 tháng 10, 2024 </p>
     <p>______________</p>
     <p><b>Đọc thêm:</b></p>
-    <p>- <a href="https://sachhiem.net/LICHSU/L/LaoChanBo03.php">Quảng Ngãi Không Thể Đặt Tên Đường Lê Văn Duyệt!</a> (Lão Chăn Bò)</p>
+    <p>- <a href="/LICHSU/L/LaoChanBo03">Quảng Ngãi Không Thể Đặt Tên Đường Lê Văn Duyệt!</a> (Lão Chăn Bò)</p>
     <p>- <a href="/THOISU_CT/achhiem.net/LICHSU/FB/FBNguyenHaLinh">Yêu Cầu Sở Văn Hóa Tp HCM Thu Hồi Giấy Phép Tôn Vinh Lê Văn Duyệt</a> (Nguyễn Hà Linh)</p>
-    <p>- <a href="https://sachhiem.net/LICHSU/D/DongLa_03.php">Công Lao “Mở Cõi” Của Lê Văn Duyệt?</a> (Đông La)</p>
-    <p>-<a href="https://sachhiem.net/LICHSU/D/DongLa_02.php"> Đại Công Của Lê Văn Duyệt Giúp Nguyễn Ánh “Thống Nhất Đất Nước”?</a> (Đông La)</p>
-    <p>- <a href="https://sachhiem.net/LICHSU/D/DongLa_01.php">Về "Bảy Góc Nhìn Hẹp" Quanh Chuyện Tôn Vinh Lê Văn Duyệt </a>(Đông La)</p>
+    <p>- <a href="/LICHSU/D/DongLa_03">Công Lao “Mở Cõi” Của Lê Văn Duyệt?</a> (Đông La)</p>
+    <p>-<a href="/LICHSU/D/DongLa_02"> Đại Công Của Lê Văn Duyệt Giúp Nguyễn Ánh “Thống Nhất Đất Nước”?</a> (Đông La)</p>
+    <p>- <a href="/LICHSU/D/DongLa_01">Về "Bảy Góc Nhìn Hẹp" Quanh Chuyện Tôn Vinh Lê Văn Duyệt </a>(Đông La)</p>

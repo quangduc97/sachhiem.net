@@ -3,7 +3,7 @@ layout: ../../../layouts/Article.astro
 title: "Tính Mong Manh Vô Thường của Luật Pháp Mỹ"
 author: "Mike Wilson"
 date: 2016-11-15
-source: "https://sachhiem.net/THOISU_CT/ChuM/MikeWilson_16.php"
+source: "/THOISU_CT/ChuM/MikeWilson_16"
 category: "Chính trị"
 lang: vi
 wordCount: 1415

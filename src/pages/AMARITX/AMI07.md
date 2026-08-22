@@ -3,7 +3,7 @@ layout: ../../layouts/Article.astro
 title: "Hồn Trương Ba, Da Hàng Thịt"
 author: "AMARI-TX"
 date: 2013-02-26
-source: "https://sachhiem.net/AMARITX/AMI07.php"
+source: "/AMARITX/AMI07"
 category: "Chính trị"
 lang: vi
 wordCount: 2836

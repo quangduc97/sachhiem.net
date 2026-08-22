@@ -2,14 +2,14 @@
 layout: ../../../layouts/Article.astro
 title: "THÊM MỘT NHẬN ĐỊNH VỀ"
 author: "Hoàng Thức Ân"
-source: "https://sachhiem.net/TONGIAO/TOAKHAM/.php"
+source: "/TONGIAO/TOAKHAM/"
 category: "Tác giả"
 lang: vi
 wordCount: 2626
-image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nha.jpg"
+image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/TONGIAO/IMG/Toakham/ChuaBaoAn.jpg"
 ---
 
-<p align="center"><a href="https://sachhiem.net/index.php"><img border="0" hspace="20" src="https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nha.jpg"></a>26 tháng 5, 2008</p>
+<p align="center">26 tháng 5, 2008</p>
 		 
 			<p class="MsoNormal" style="text-align: center"><img border="0" src="https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/TONGIAO/IMG/Toakham/ChuaBaoAn.jpg" width="350" height="245"></p>
 	

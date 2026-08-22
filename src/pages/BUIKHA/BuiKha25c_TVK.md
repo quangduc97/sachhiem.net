@@ -3,7 +3,7 @@ layout: ../../layouts/Article.astro
 title: "Trương Vĩnh Ký, Một Số Ý Kiến Mới"
 author: "Bùi Kha"
 date: 2015-01-16
-source: "https://sachhiem.net/BUIKHA/BuiKha25b_TVK.php"
+source: "/BUIKHA/BuiKha25b_TVK"
 category: "Lịch sử"
 lang: vi
 wordCount: 6138
@@ -27,7 +27,7 @@ image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/LICHSU/IMG/NHANVAT/T
 <p class="sub">  <b>a.</b> Tại sao những thanh niên An Nam  cùng lứa tuổi với Trương Vĩnh Ký thời bấy giờ có thể sống bằng những nghề lương  thiện mà không phải bồi Tây? Họ Trương không những bồi Tây mà lại còn viết thư  năn nĩ Tây đánh chiếm gấp nước ta?</p>
 <p class="sub">  <b>b</b>. Tại sao các tôn giáo cùng thời như  Khổng, Lão, Phật, Hồi giáo, đạo Ông Bà…không bị triều đình làm khó mà chỉ có  đạo Thiên chúa giáo của ông Trương Vĩnh Ký? Về điểm nầy có nhiều ý kiến của các  viên chức chính phủ Thuộc địa Pháp tỏ ra công bằng lúc phê phán nhà Nguyễn mà  chúng ta sẽ thấy trong bài nầy.</p>
 <p class="sub">   <b>c.</b> Một hành động đặc biệt và rất  quan trọng khác là ông Nguyễn Vy Khanh quên viết thời gian nầy (tháng 3. 1859),  Trương Vĩnh Ký 22 tuổi làm nghề nông để sống thì không muốn, nhưng có thể viết  thư kêu gọi Trung Tá Hải Quân Jean Bernard Jaureguiberry, giúp đỡ để tiêu diệt  quân dân Việt Nam mà họ Trương gọi đó là kẻ thù. Thư có đoạn như sau:</p>
-<p>  “... <i>Nhưng  tôi nhân danh là người đại diện cho tín hữu Ki-tô kính dâng lên Ngài lời cầu  xin của chúng tôi...nỗi thống khổ mà chúng tôi hằng gánh chịu dưới bạo quyền của  các quan lại triều đình gây ra...Tất cả chúng tôi chắc sẽ chịu chết nếu Ngài  không kịp đánh đuổi <b>kẻ thù</b>  của chúng ta.</i>..”) [Vui lòng xem thêm Bùi Kha, “Trương Vĩnh  Ký Phản Quốc. Sao gọi là nỗi oan Thế Kỷ”? Nguồn:&nbsp;&nbsp; <a href="https://tongiaovadantoc.com/c1036/20170109104824781/truong-vinh-ky-phan-boi-to-quoc-sao-goi-la-noi-oan-the-ky.htm">https://tongiaovadantoc.com/c1036/20170109104824781/truong-vinh-ky-phan-boi-to-quoc-sao-goi-la-noi-oan-the-ky.htm</a>, <a href="https://sachhiem.net/BUIKHA/BuiKha25b_TVK.php">https://sachhiem.net/BUIKHA/BuiKha25b_TVK.php</a>. </p>
+<p>  “... <i>Nhưng  tôi nhân danh là người đại diện cho tín hữu Ki-tô kính dâng lên Ngài lời cầu  xin của chúng tôi...nỗi thống khổ mà chúng tôi hằng gánh chịu dưới bạo quyền của  các quan lại triều đình gây ra...Tất cả chúng tôi chắc sẽ chịu chết nếu Ngài  không kịp đánh đuổi <b>kẻ thù</b>  của chúng ta.</i>..”) [Vui lòng xem thêm Bùi Kha, “Trương Vĩnh  Ký Phản Quốc. Sao gọi là nỗi oan Thế Kỷ”? Nguồn:&nbsp;&nbsp; <a href="https://tongiaovadantoc.com/c1036/20170109104824781/truong-vinh-ky-phan-boi-to-quoc-sao-goi-la-noi-oan-the-ky.htm">https://tongiaovadantoc.com/c1036/20170109104824781/truong-vinh-ky-phan-boi-to-quoc-sao-goi-la-noi-oan-the-ky.htm</a>, <a href="/BUIKHA/BuiKha25b_TVK">https://sachhiem.net/BUIKHA/BuiKha25b_TVK.php</a>. </p>
 <p>  Thực sự vua Tự Đức có tàn ác với Giáo  dân không? Vui lòng đọc ý kiến của đô đốc Page “…các giáo dân, do các giáo sĩ  lãnh đạo ngày  càng xấc xược ngạo mạn đến mức độ họ không thèm biết đến cả chính quyền địa  phương. Họ công khai nổi loạn, họ tuyên bố người Ki-tô giáo  không thể vâng lời những kẻ theo một tôn giáo khác...”  (Nguyễn Xuân Thọ, “Bước Mở Đầu của Sự Thiết Lập Hệ Thống Thuộc Địa  Pháp ở Việt Nam – 1858-1897”, tác  giả xuất bản, Hoa Kỳ 1995, trang 86.&nbsp; Phần  tiếng Pháp có thể tìm thấy trong Thư khố Pháp, tài liệu Hải Quân số hiệu  BB4-77. Để tránh bài quá dài, nên tôi không ghi phần tiếng Pháp vào đây).</p>
 <p>  Thư đề ngày 29.1.1859.</p>
 <p>  Đô đốc Genouilly cũng viết: </p>
@@ -63,7 +63,7 @@ image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/LICHSU/IMG/NHANVAT/T
 <p>  <i>“Lực lượng chúng ta giảm dần vì chết, vì  bệnh, vì rút quân, đang bị đuối sức từng ngày, rõ ràng không thể tiếp tục trong  sáu tháng một chiến trận như thế này. Chúng ta thiếu Bộ binh, thiếu Hải quân,  thợ máy, phương tiện chuyên chở, tất cả trang bị Hải quân chúng ta hoàn toàn cũ  mèm mà không có phương tiện sửa chữa; sự vận tải trên đất cũng thành vô hiệu,  vì thiếu tài xế cho xe bộ binh, thiếu xe cứu thương, thiếu thực phẩm v.v...”</i> [Notre effectif réduit par les morts, les maladies, les  évacuations est accablé de fatigue; chaque jour il diminue; il est  matériellement impossible de continuer 6 mois une pareille campagne. Nous  manquons d'hommes, de marins, de mécaniciens, de moyens de transport; tout  notre matériel naval est complètement usé, et sans que nous ayons les moyens de  pouvoir les réparer; les transports par terre sont aussi radicalement anéantis,  faute de conducteurs pour le train d'artillerie, les ambulances, les vivres  etc..." (Dépêche du 27-1-1863, fol. 295 et 318, CHT, pp.170 &amp; 171)].</p>
 <p>  Thư đề ngày 21-9-1859, Đô đốc R. de Genouilly cũng viết:</p>
 <p>  <i>“Càng đi sâu vào tình hình  Vương Quốc An Nam, các bức màn càng vén lên, những lời khẳng định dối trá </i>(của các tu sĩ, BK<i>) càng tan biến, không thể không thừa  nhận rằng cuộc chiến tranh chống lại xứ nầy còn khó hơn cuộc chiến tranh chống  lại thiên triều...” </i>[Tài liệu ĐD,  như trên]. </p>
-<p>  Muốn biết thêm tình trạng kiệt quệ của quân Pháp như thế nào, vui lòng  xem tác phẩm của Bùi Kha: «Nguyễn Trường Tộ và Vấn Đề Canh Tân», nxb Văn Học,  2011 (<a href="https://giaodiemonline.com/2008/12/ngtruongto.htm">https://giaodiemonline.com/2008/12/ngtruongto.htm</a>,  <a href="https://sachhiem.net/BUIKHA/BuiKha01_NTT.php">https://sachhiem.net/BUIKHA/BuiKha01_NTT.php</a>). </p>
+<p>  Muốn biết thêm tình trạng kiệt quệ của quân Pháp như thế nào, vui lòng  xem tác phẩm của Bùi Kha: «Nguyễn Trường Tộ và Vấn Đề Canh Tân», nxb Văn Học,  2011 (<a href="https://giaodiemonline.com/2008/12/ngtruongto.htm">https://giaodiemonline.com/2008/12/ngtruongto.htm</a>,  <a href="/BUIKHA/BuiKha01_NTT">https://sachhiem.net/BUIKHA/BuiKha01_NTT.php</a>). </p>
 
 <p><i><b>▪ 8. Nguyễn Vy Khanh:</b> «Trương  Vĩnh Ký đi xa hơn và để lại cho hậu thế một gia tài văn hóa quan trọng mà chúng  ta nên bình tâm luận xét…”</i> </p>
 <p>  <i>“…Trương Vĩnh Ký chỉ  làm báo cho Pháp một thời gian ngắn trong suốt quá trình hoạt động văn hóa của  ông”.</i></p>
@@ -84,7 +84,7 @@ image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/LICHSU/IMG/NHANVAT/T
 <p><i><b>▪ 9. Nguyễn Vy Khanh:</b> «Chữ “soldats” ở đây </i>[trong cuốn <i>“Hành  trình và truyền giáo” </i>của Đắc Lộ trang 263, Bùi Kha chú thích)<i> phải hiểu theo <b>nghĩa thứ nhì</b> là “chiến sĩ” mà phải là “chiến sĩ phúc-âm, nhà truyền  giáo”, thứ nữa không nên quên sinh quán của ngài là đất của giáo hoàng! Lính  Pháp vào năm 1653 chưa lên đường đi chiếm thuộc địa mà Hội Truyền giáo Paris  cũng chỉ được lập sau đó, năm 1661! Những người chỉ tra từ điển thường, đã cố ý  bới móc chi tiết với ý bôi xấu, bẻ quặt lịch sử dễ rơi vào cái bẫy kiến thức chủ  quan, thiên kiến hoặc ám ảnh paranoiac! Cuốn A. de Rhodes Người Đầu Tiên Vận Động  Pháp Chiếm Việt Nam Và Chữ Quốc Ngữ.”</i></p>
 <p>  <b> - Bùi Kha:</b> Nhiều người không muốn lịch sử cho thấy là, mà lịch sử phải là, trong  đó có ông Nguyễn Vy Khanh. <b><i>Nghĩa thứ 2</i></b> là nghĩa&nbsp; phải cưởng từ đoạt ý lúc dịch thuật? Tôi đã  phản biện nhiều người cố tình dịch sai chữ <i>“soldats”</i> để tráo trở lịch sử. Ông Nguyễn Vy Khanh là một trong số đó. </p>
 <p>  Nhân đây, một lần nữa, tôi tóm lược  để ông Khanh không nên lộng ngôn và dịch tùy tiện từ <i>soldat</i>.</p>
-<p>  Dưới đây là sáu luận điểm để cho thấy quý vị có tên tuổi, đã diễn  dịch sai ngữ nghĩa chữ soldat, trong đó có ông Nguyễn Đình Đầu: (Có thể xem  thêm, Bùi Kha <i>Phản Biện Bài Viết của GS. Đinh Xuân Lâm Về Nguyễn Trường Tộ</i>): <a href="https://sachhiem.net/BUIKHA/BuiKha20.php">https://sachhiem.net/BUIKHA/BuiKha20.php</a>)</p>
+<p>  Dưới đây là sáu luận điểm để cho thấy quý vị có tên tuổi, đã diễn  dịch sai ngữ nghĩa chữ soldat, trong đó có ông Nguyễn Đình Đầu: (Có thể xem  thêm, Bùi Kha <i>Phản Biện Bài Viết của GS. Đinh Xuân Lâm Về Nguyễn Trường Tộ</i>): <a href="/BUIKHA/BuiKha20">https://sachhiem.net/BUIKHA/BuiKha20.php</a>)</p>
 <p class="sub">  <b>a. Về Từ Ngữ</b></p>
 <p>  Một danh từ có thể đổi  nghĩa qua thời đại. Do đó, thay vì chỉ sử dụng cuốn <i>Từ điển Larousse</i> để  tra cứu nghĩa của chữ <b><i>SOLDAT</i></b>, tôi xử dụng thêm hai cuốn Từ điển  xuất bản cùng thời mà ông Alexandre de Rhodes còn sinh sống (1591-1660). </p>
 <p> <b>- Cuốn thứ nhất:</b> <i>Dictionnaire, Cotgrave,</i> xuất bản năm 1611, chữ "soldat" có  nghĩa, nguyên văn:</p>
@@ -116,12 +116,12 @@ image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/LICHSU/IMG/NHANVAT/T
 <p>  (…I furthermore promise  and declare that I will, when opportunity present, make and wage relentless  war,...). </p>
 <p>  Sử liệu  cho thấy Linh Mục A. de Rhodes gia nhập Dòng Tên lúc 19 tuổi (1612), ông đến  Macao năm 1623, Nam Kỳ Việt Nam năm 1645. Thời gian 22 năm ở các nước Á Châu,  qua về Âu Châu. Trong suốt thời gian này ông không bị dứt phép Thông Công,  không bị khai trừ ra khỏi Giáo Hội, nghĩa là LM Đắc Lộ vẫn theo Dòng Tên. Với lời  thề của Dòng Tên như chúng ta vừa thấy, LM Đắc Lộ ít nhiều không thể là một người  hiền lương bình thường.  </p>
 <p>   Do vậy, cụm từ <b>Plusieurs soldats, </b>thêm một lý do nữa, phải  được dịch là <b>nhiều binh lính</b>.</p>
-<p>  Cùng lý luận về từ ngữ này, xin đọc thêm bài <b>Chữ "Plusieurs Soldats" Thời A.D. Rhodes </b>Lý Đương Nhiên: <a href="https://sachhiem.net/LICHSU/L/LyDuongNhien1.php"><i>https://sachhiem.net/LICHSU/L/LyDuongNhien1.php</i></a>  </p>
+<p>  Cùng lý luận về từ ngữ này, xin đọc thêm bài <b>Chữ "Plusieurs Soldats" Thời A.D. Rhodes </b>Lý Đương Nhiên: <a href="/LICHSU/L/LyDuongNhien1"><i>https://sachhiem.net/LICHSU/L/LyDuongNhien1.php</i></a>  </p>
 
 <p><i><b>▪ 10. Nguyễn Vy Khanh:</b> «Ngoài  ra lịch sử cũng ghi rằng các sĩ quan hải quân Pháp đã ngần ngại dùng các giáo  sĩ trong việc đánh chiếm Nam-kỳ cũng như Bắc-kỳ!”</i>[sử liệu?].</p>
 <p>  <b> - Bùi Kha:</b> Ông Khanh lại  cũng không có sử liệu. Do vậy, ý kiến của ông không mang tính thuyết phục. Sau  đây là hai trong nhiều sử liệu cho thấy ông Khanh viết sai.</p>
 <p>  - Ngày 16.12.1886… Lm Trần Lục dẫn 5 ngàn  giáo dân giúp Pháp nên hạ được chiến lũy Ba Đình của nhà ái quốc Đinh Công  Tráng (“<b>Thập giá và lưỡi gươm” của Tiến  sĩ Lm Trần Tam Tỉnh</b>). </p>
-<p>  - Câu phát biểu để đời của Gm Puginier cho ta thấy vai trò của giáo sĩ  và giáo dân tại Việt Nam <i>“Không có giáo  sĩ và giáo dân thì người Pháp như cua bị bẻ gãy hết càng”</i> [Sans les  missionnaires et les chrétiens,  écrit Mgr. Puginier, les  Francais seraient comme les crabs auxquels on aurait cassé toutes les pattes].  (trích dẫn trong cuốn  Catholicisme et Sociétes Asiatiques của Alain Forrest và Yoshiharu Tsuboi, xem <a href="https://sachhiem.net/TONGIAO/tgT/Tanphap.php">https://sachhiem.net/TONGIAO/tgT/Tanphap.php</a>). Có thể đọc thêm trong link nầy: <a href="https://giaodiemonline.com/2011/12/truongvinhky.htm">https://giaodiemonline.com/2011/12/truongvinhky.htm</a>,&nbsp; </p>
+<p>  - Câu phát biểu để đời của Gm Puginier cho ta thấy vai trò của giáo sĩ  và giáo dân tại Việt Nam <i>“Không có giáo  sĩ và giáo dân thì người Pháp như cua bị bẻ gãy hết càng”</i> [Sans les  missionnaires et les chrétiens,  écrit Mgr. Puginier, les  Francais seraient comme les crabs auxquels on aurait cassé toutes les pattes].  (trích dẫn trong cuốn  Catholicisme et Sociétes Asiatiques của Alain Forrest và Yoshiharu Tsuboi, xem <a href="/TONGIAO/tgT/Tanphap">https://sachhiem.net/TONGIAO/tgT/Tanphap.php</a>). Có thể đọc thêm trong link nầy: <a href="https://giaodiemonline.com/2011/12/truongvinhky.htm">https://giaodiemonline.com/2011/12/truongvinhky.htm</a>,&nbsp; </p>
 
 <p><i><b>▪ 11. Nguyễn Vy Khanh:</b> «Ông  Mẫn Quốc kết án ông có “nhiệm vụ đặc phái” làm “gián điệp, tình báo, giòi trong  xương giòi ra”. Phạm Long Điền kết: “Chuyến đi Bắc-kỳ của Trương Vĩnh Ký năm  1876 không ngoài mục đích xem xét tình hình để báo cáo tường tận cho Soái phủ  Nam-kỳ và từ đó, Soái phủ Nam-kỳ chuẩn bị tiến quân ra Bắc trong một cuộc xâm  lăng đại qui mô nhằm đặt toàn cõi Đông dương dưới quyền thống trị của thực dân  Pháp”. Có thể Trương Vĩnh Ký ngây thơ vì quá thành thật và tự tin vào vai trò  trung gian của mình mà không thể ngờ là người Pháp lợi dụng ông chăng? “</i></p>
 <p>  <b> - Bùi Kha:</b> Hai  ông Mẫn Quốc và Phạm Long Điền viết rất đúng,<b> </b>ông Khanh không nên nghi vấn mà nên tìm hiểu sử liệu do chính họ  Trương viết. Thư ngày 28.4.1876, gởi cho tướng Pháp, Bossant, trình bày công  tác đi Bắc Kỳ. Trương mô tả sai tình trạng xã hội và phóng đại một nhu cầu cần  cải cách để cố vấn cho thực dân Pháp nên chiếm và cai trị toàn xứ Bắc kỳ. Họ  Trương viết:</p>
@@ -157,21 +157,21 @@ image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/LICHSU/IMG/NHANVAT/T
 <p>___________________</p>
    <p><b>Những bài cùng đề tài:</b></p>
   <p>- Hành Trình Đi Tìm Ông Trương Vĩnh Ký Nguyễn Thái An)<br>
-<a href="https://sachhiem.net/LICHSU/N/NguyenThaiAn.php">https://sachhiem.net/LICHSU/N/NguyenThaiAn.php</a></p>
+<a href="/LICHSU/N/NguyenThaiAn">https://sachhiem.net/LICHSU/N/NguyenThaiAn.php</a></p>
    <p>- Đắc Lộ, Trương Vĩnh Ký &amp; Chữ Quốc Ngữ của Tác Giả Minh Vân (Bùi Kha)
-<a href="https://sachhiem.net/BUIKHA/BuiKha25a.php">https://sachhiem.net/BUIKHA/BuiKha25a.php</a></p>
+<a href="/BUIKHA/BuiKha25a">https://sachhiem.net/BUIKHA/BuiKha25a.php</a></p>
    <p>- Lá Thư (1) Gửi Quí Vị Cựu Giáo Sư Và Học Sinh Trường Kiểu Mẫu Thủ Đức Hiền tài hay Việt gian? (Nguyễn Mạnh Quang)<br>
-<a href="https://sachhiem.net/NMQ/NMQ011.php">https://sachhiem.net/NMQ/NMQ011.php</a></p>
+<a href="/NMQ/NMQ011">https://sachhiem.net/NMQ/NMQ011.php</a></p>
    <p>- Ngắn Gọn Về Thầy Thông Ngôn Trương Vĩnh Ký (Nguyễn Thái An)
-<a href="https://sachhiem.net/LICHSU/N/NguyenThaiAn04.php">https://sachhiem.net/LICHSU/N/NguyenThaiAn04.php</a></p>
+<a href="/LICHSU/N/NguyenThaiAn04">https://sachhiem.net/LICHSU/N/NguyenThaiAn04.php</a></p>
    <p>- Trương Vĩnh Ký, Yêu Nước? Đối Luận với ông Trần Hữu Tá (Bùi Kha)
-<a href="https://sachhiem.net/BUIKHA/BuiKha19.php">https://sachhiem.net/BUIKHA/BuiKha19.php</a></p>
+<a href="/BUIKHA/BuiKha19">https://sachhiem.net/BUIKHA/BuiKha19.php</a></p>
   <p>- Góp Ý Về Bài Của Ông Đặng Văn Việt Góp Ý Sửa Đổi Hiến Pháp (Nguyễn Mạnh Quang) 
-     <a href="https://sachhiem.net/NMQ/NMQ041.php">https://sachhiem.net/NMQ/NMQ041.php</a></p>
+     <a href="/NMQ/NMQ041">https://sachhiem.net/NMQ/NMQ041.php</a></p>
 	<p>- Trương Vĩnh Ký phản bội Tổ quốc, sao lại gọi là yêu nước ? (Bùi Kha) <br>
    <a href="/BUIKHA/BuiKha25b_TVK">https://sachhiem.net/BUIKHA/BuiKha25b_TVK.php</a> </p>
       <p>- Đổi Mới Sử Học Không Có Nghĩa Là Tô Đen Thành Trắng (BS. Nguyễn Văn Thịnh)
-<a href="https://sachhiem.net/VANHOC/N/NguyenvThinh_05.php">https://sachhiem.net/VANHOC/N/NguyenvThinh_05.php</a></p>
+<a href="/VANHOC/N/NguyenvThinh_05">https://sachhiem.net/VANHOC/N/NguyenvThinh_05.php</a></p>
       <p>- Trương Vĩnh Ký: Tư Liệu Viết Tay Còn Tranh Cãi (Bùi Phúc)
-<a href="https://sachhiem.net/DOITHOAI/BuiPhuc.php">https://sachhiem.net/DOITHOAI/BuiPhuc.php</a></p>
+<a href="/DOITHOAI/BuiPhuc">https://sachhiem.net/DOITHOAI/BuiPhuc.php</a></p>
       <p>- </p>

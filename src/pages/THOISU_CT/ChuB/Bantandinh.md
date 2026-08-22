@@ -2,7 +2,7 @@
 layout: ../../../layouts/Article.astro
 title: "Bàn về biên giới Việt Nam – Trung Quốc:"
 author: "Bàn Tân Định"
-source: "https://sachhiem.net/nguồn: https://www.giaodiem.com/doithoai/biengioi_one.htm"
+source: "/nguồn: https://www.giaodiem.com/doithoai/biengioi_one.htm"
 category: "Chính trị"
 lang: vi
 wordCount: 7985
@@ -44,7 +44,7 @@ image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nhacu.jpg"
 		<div style="padding-left: 40px; padding-right: 40px">
 
 		<table border="0" cellpadding="10" width="80%" cols="2"><tbody><tr>
-					<td><a href="https://sachhiem.net/"><img border="0" src="https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nhacu.jpg" width="49" height="20"></a></td>
+					<td><a href="/"><img border="0" src="https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nhacu.jpg" width="49" height="20"></a></td>
 				<td valign="top">&nbsp;</td>
 	<td valign="top">	<font size="2">28 tháng 12, 2007
 	</font>

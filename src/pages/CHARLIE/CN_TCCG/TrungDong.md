@@ -2,14 +2,13 @@
 layout: ../../../layouts/Article.astro
 title: "Thực Chất Đạo Công Giáo và Các Đạo Thờ Chúa"
 author: "Charlie Nguyễn"
-source: "https://sachhiem.net/CHARLIE/CN_TCCG/VNcanthuchien.php"
+source: "/CHARLIE/CN_TCCG/VNcanthuchien"
 category: "Tác giả"
 lang: vi
 wordCount: 7843
-image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nha.jpg"
 ---
 
-<p align="center"><a href="/index"><img hspace="20" border="0" src="https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nha.jpg"></a><b><font face="Symbol" size="5"><a target="_top" href="/CHARLIE/CN_TCCG/CN_TCCGdir">¿</a></font></b> trở ra mục lục | 2-8-2013 </p>
+<p align="center"><b><font face="Symbol" size="5"><a target="_top" href="/CHARLIE/CN_TCCG/CN_TCCGdir">¿</a></font></b> trở ra mục lục | 2-8-2013 </p>
 		<p class="MUC">Thiên 
  Chúa Đang Được Động Viên 
 		Trong Cuộc Thánh Chiến tại 

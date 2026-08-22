@@ -2,7 +2,7 @@
 layout: ../../../layouts/Article.astro
 title: "HÌNH ẢNH QUÝ: NÉT ĐẸP RIÊNG VIỆT NAM XƯA (Dương Trung Quốc)"
 date: 2010-10-11
-source: "https://sachhiem.net/null"
+source: "/null"
 lang: vi
 wordCount: 3842
 image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.devhttps://bee.net.vn/dataimages/201009/original/images478719_a.jpg"

@@ -3,7 +3,7 @@ layout: ../../layouts/Article.astro
 title: "Nhận Thư Người Bạn Trở Thành Mục Sư và Ghi Chú"
 author: "Lý Thái Xuân"
 date: 2025-08-13
-source: "https://sachhiem.net/LTX/LythaiTG43.php"
+source: "/LTX/LythaiTG43"
 category: "Tác giả"
 lang: vi
 wordCount: 3

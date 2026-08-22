@@ -3,7 +3,7 @@ layout: ../../../layouts/Article.astro
 title: "TÍNH KHÔNG & HƯ VÔ CHỦ NGHĨA (I)"
 author: "Trần Trọng Sỹ"
 date: 2021-05-17
-source: "https://sachhiem.net/TTS/TG/TranTrongSy13.php"
+source: "/TTS/TG/TranTrongSy13"
 category: "Tác giả"
 lang: vi
 wordCount: 8990
@@ -132,7 +132,7 @@ image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/DECOR/number1
 <p>Lẽ thực không xa lạ cũng không xa vời. Lẽ thực confond trong chính con người, lẽ thực ấy kinh  khiếp và luôn đeo nhiều chiếc mặt nạ để con người không bao giờ biết chính hắn là ai. Siêu nhân  là kẻ phải luôn so kiếm với siêu nhiên. Dừng lại, chịu khuất phục, thì đó không còn là lịch sử của  nhân loại nữa. </p>
 <p>Hư vô biểu thị một thái độ hoài nghi tuyệt đối, bóc thế giới cũng như cuộc tồn sinh ra khỏi lớp  vỏ bọc ý nghĩa, tri kiến, hay những giá trị tuyệt đối. Do đó, thuyết này từ chối bất kỳ thứ bậc giá  trị nào, bất kỳ đạo đức nào, bất kỳ niềm tin nào, bất kỳ sự siêu việt nào và đặc biệt là sự tồn tại  của Thượng đế. Hư vô chủ nghĩa cố gắng chứng tỏ rằng cuộc sống của con người và những  tuyên bố của con người là phi lý. Friedrich Nietzsche coi đó là cuộc khủng hoảng của nền  văn minh bệnh hoạn vốn là hậu quả của 20 thế kỷ suy đồi ở phương Tây dưới ách thống trị tư  tưởng và chính trị của thần linh. </p>
 <p>Nietzsche là thủ lãnh cho công cuộc cách mạng lật đổ thần quyền. Ông từng nói một câu trứ  danh: Kitô giáo và rượu, hai chất liệu tàn phá nhất. Le christianisme et l'alcool, les deux plus  grands agents de corruption. </p>
-<p>Hư vô chủ nghĩa là một trong những dấu ấn đậm nét của trào lưu nhân bản thế tục (secular  humanist) vào tiền bán thế kỷ XX.  Theo Michael Novak nhận xét, từ năm 1870 đến 1940, cơn gió “hư vô” thổi vào tầng lớp trí   thức Âu châu khởi đầu bằng chủ thuyết hoài nghi (scepticism – mời đọc <a href="https://sachhiem.net/TTS/VH/TranTrongSy_vh7.php">xét lại vụ đánh cuộc của  Pascal</a>), đưa đến không khí buồn nôn về các giá trị được gắn vào thần linh. Và người khắc khoải  suy tư nhiều nhất về hư vô là Jean Paul Sartre với những tác phẩm như la nausée, no exit, tuy  nhiên, phải đợi đến tác phẩn l'Être et le Néant mới khiến Sartre được suy tôn là cha đẻ của triết  lý hiện sinh. </p>
+<p>Hư vô chủ nghĩa là một trong những dấu ấn đậm nét của trào lưu nhân bản thế tục (secular  humanist) vào tiền bán thế kỷ XX.  Theo Michael Novak nhận xét, từ năm 1870 đến 1940, cơn gió “hư vô” thổi vào tầng lớp trí   thức Âu châu khởi đầu bằng chủ thuyết hoài nghi (scepticism – mời đọc <a href="/TTS/VH/TranTrongSy_vh7">xét lại vụ đánh cuộc của  Pascal</a>), đưa đến không khí buồn nôn về các giá trị được gắn vào thần linh. Và người khắc khoải  suy tư nhiều nhất về hư vô là Jean Paul Sartre với những tác phẩm như la nausée, no exit, tuy  nhiên, phải đợi đến tác phẩn l'Être et le Néant mới khiến Sartre được suy tôn là cha đẻ của triết  lý hiện sinh. </p>
 <p>Để trả lời cho bọn “hư vô nửa vời ” (nihilisme incomplet) của truyền thống siêu hình tôn giáo,  đặt trung tâm sự sống không phải ở con người, mà ở “Ơn trên” (Au-delà), hoặc hứa hẹn một “<i>thế  giới hư cấu sau khi chết</i>” (arrière-monde fictif), Nietzsche đã trả lại chân giá trị của con người,  đưa ra một chủ trương “hư vô trọn vẹn” (nihilisme complet), loan báo cái chết của Thượng Đế,  trả lại toàn bộ tự do cho con người. Nietzsche viết trong Ecce Homo rằng <i>“mọi thứ đều có thể  được phép nếu không có Thượng Đế</i>” (tout est permi si Dieu n’existe pas), bởi vì không có  Chúa, con người tạo ra bản chất của mình, con người thấy mình đơn độc, không bị dán nhãn, và  vì chẳng cần ai định đoạt giúp đời mình, nên hoàn toàn tự do. </p>
 <p class="baochi">- Car, en l’absence d’un Dieu  créateur de sa nature, l’homme se retrouve seul, injustifié et, n’étant déterminé par rien, se trouve  être libre de tout.  </p>
 <p>Simon Bouchard của đại học Laval trong cuốn “Sartre le Maître du soupçon, Le Nihilisme est-il  un Humanisme ? ”, trang 598 viết về sự khác biệt giữa Nietzsche và Satre như sau:  </p>
@@ -154,6 +154,6 @@ image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/DECOR/number1
 <p>Thuyết luân hồi cũng đe dọa các nghiệp dữ, cũng đưa ra các phần thưởng cho lẽ thiện, nhưng nó  khoa học hơn là trao vào tay một đấng siêu nhiên làm việc thưởng phạt (déterminisme divin) rất  thường bị bọn buôn thần bán thánh lợi dụng.  Luân hồi là nghiệp, hay nói cách khác là hành động do chính cá nhân hay cộng đồng tạo ra. </p>
 <p>Thuyết luân hồi là một hình ảnh biểu diễn khác đơn giản hơn của thuyết nhân quả.  Nếu Sartre cần một yếu tố dẫn con người đến Chân Thiện Mỹ mà không cần một đấng siêu  nhên, thì không ứng cử viên nào sáng giá hơn thuyết luân hồi. </p>
 <p>Chúng ta không thể bàn về hư vô chủ nghĩa, mà thiếu đi sự hiểu biết về cái chết của Thượng Đế  ở phần sau.<img src="https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/sqdot.gif" width="10" height="10"></p>
-<p>(<a href="https://sachhiem.net/TTS/TG/TranTrongSy13_1.php">đón xem phần II : Thượng Đế Đã Chết</a>)</p>
+<p>(<a href="/TTS/TG/TranTrongSy13_1">đón xem phần II : Thượng Đế Đã Chết</a>)</p>
 <p class="TacgiaL">Trần Trọng Sỹ </p>
  <p class="nguonL">Nguồn: tác giả gửi cho trang nhà sachhiem.net</p>

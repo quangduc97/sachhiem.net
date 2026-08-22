@@ -3,7 +3,7 @@ layout: ../../../layouts/Article.astro
 title: "Thư Gửi Thượng Nghị Sĩ Pam Roach"
 author: "P. Nguyễn"
 date: 2015-08-26
-source: "https://sachhiem.net/THOISU_CT/ChuN/NTPhuc01.php"
+source: "/THOISU_CT/ChuN/NTPhuc01"
 category: "Chính trị"
 lang: vi
 wordCount: 1539

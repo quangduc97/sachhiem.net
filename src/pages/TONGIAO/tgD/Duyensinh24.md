@@ -3,7 +3,7 @@ layout: ../../../layouts/Article.astro
 title: "CA-THÔ-LÍC ĂN THỊT NGƯỜI"
 author: "Duyên Sinh"
 date: 2020-04-22
-source: "https://sachhiem.net/TONGIAO/tgD/Duyensinh24.php"
+source: "/TONGIAO/tgD/Duyensinh24"
 lang: vi
 wordCount: 263
 image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/THOISU_CT/Hinh/CORONA/CaoPho.jpg"

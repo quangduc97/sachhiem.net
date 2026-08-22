@@ -3,15 +3,14 @@ layout: ../../../layouts/Article.astro
 title: "Cựu linh mục ở New Orleans lãnh 25 năm về tội tấn công tình dục và hiếp dâm"
 author: "Joe Bukuras/CNA - Đại Thắng st"
 date: 2023-07-18
-source: "https://sachhiem.net/TONGIAO/FB/FBDaiThang06.php"
+source: "/TONGIAO/FB/FBDaiThang06"
 category: "Chính trị"
 lang: vi
 wordCount: 1001
-image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nha.jpg"
+image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/TONGIAO/IMG/TINHDUC/StephenSauer_NewOrleans.JPG"
 ---
 
-<p align="center"><a href="https://www.sachhiem.net/">
-<img border="0" src="https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nha.jpg"></a> 
+<p align="center"> 
 ngày 18-Jul-2023</p>
  <p align="center"><img src="https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/TONGIAO/IMG/TINHDUC/StephenSauer_NewOrleans.JPG" width="400" height="256" alt=""></p> 
 <p>Boston, Mass., Ngày 12 tháng 7 năm 2023 / 14:15 chiều. (nguồn: <a href="https://www.catholicnewsagency.com/news/254781/former-new-orleans-priest-gets-25-years-on-sexual-assault-and-rape-charges">Catholicnewsagency.com</a>)</p>
@@ -38,4 +37,4 @@ ngày 18-Jul-2023</p>
 <p>Các nhà chức trách ở New York đã chuyển vụ việc đến Văn phòng Cảnh sát trưởng Giáo xứ Jefferson sau khi xác định nguồn gốc của các bức ảnh.</p>
 <p>Nhiều nạn nhân có thể được các thám tử nhận dạng vì Sauer đã chụp ảnh bằng lái xe và các hình thức nhận dạng khác của họ. Khi các thám tử lục soát nhà Sauer, người ta tìm thấy những lọ thuốc theo toa có tên của một tội phạm tình dục ở Missouri. Văn phòng luật sư quận cho biết Zolpidem, một loại thuốc "hiếp dâm", cũng được tìm thấy.  <img src="https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/sqdot.gif" width="10" height="10"></p>
 
- <p><a href="https://sachhiem.net/TONGIAO/ListTinhDuc.inc.php"> Những bài về các tu sĩ TCG lạm dụng tình dục </a> </p>
+ <p><a href="/TONGIAO/ListTinhDuc.inc"> Những bài về các tu sĩ TCG lạm dụng tình dục </a> </p>

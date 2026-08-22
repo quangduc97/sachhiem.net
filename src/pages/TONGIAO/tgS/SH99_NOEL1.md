@@ -3,7 +3,7 @@ layout: ../../../layouts/Article.astro
 title: "Tháng Mười Hai: Nan Giải Cho Các Trường Công Ở Mỹ"
 author: "Trang nhà ADL"
 date: 2024-11-08
-source: "https://sachhiem.net/TONGIAO/tgS/SH99_NOEL1.php"
+source: "/TONGIAO/tgS/SH99_NOEL1"
 category: "Tác giả"
 lang: vi
 wordCount: 3586
@@ -101,6 +101,6 @@ image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/TONGIAO/IMG/NOEL/Dec
  <p class="nguonL">Nguồn: <a href="https://www.adl.org/resources/tools-and-strategies/december-dilemma-december-holiday-guidelines-public-school">Religion as an Educational Lesson - báo ADL, gốc Do Thái</a> ngày 27 tháng 01, 2017</p>
  <p>_____________________</p>
  <p> <b>Bài đọc thêm:</b></p>
- <p>- <a href="https://sachhiem.net/TONGIAO/tgS/SH99_NOEL.php">5 Lý Do Không Trang Hoàng Noel Trong Các Trường Công</a></p>
+ <p>- <a href="/TONGIAO/tgS/SH99_NOEL">5 Lý Do Không Trang Hoàng Noel Trong Các Trường Công</a></p>
  <p>- <a href="https://michigan.adl.org/december-dilemma/">December Dilemma (Lưỡng nan tháng Mười Hai),</a> December 6, 2019 </p>
  <p>- <a href="https://iffp.org/2023/12/12/dilemmas-or-delights-interfaith-december-holiday-stories/">Dilemmas or Delights? Interfaith December Holiday Stories</a>, December 12, 2023</p>

@@ -2,7 +2,7 @@
 layout: ../../../layouts/Article.astro
 title: "CÂU CHUYỆN HÀNG TUẦN:"
 author: "Huỳnh Bất Hoặc"
-source: "https://sachhiem.net/null"
+source: "/null"
 lang: vi
 wordCount: 2239
 image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nhacu.jpg"
@@ -28,7 +28,7 @@ image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nhacu.jpg"
     <table border="0" cellpadding="0" cellspacing="0" topmargin="10"> 
 	<tbody><tr><td align="justify" valign="top">
   <table border="0" cellpadding="10" width="100%" cols="2"><tbody><tr>
-	         <td valign="top"><a href="https://sachhiem.net/">
+	         <td valign="top"><a href="/">
 				<img border="0" src="https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nhacu.jpg" width="49" height="20"></a></td>
 	<td valign="top" style="text-align:right">	ngày 17 tháng 4, 2009	         </td></tr></tbody></table>
 	<p><span class="First">N</span>gày 08-04-2009, trên tờ <b>The Washington Post </b>ký giả Philip Rucker 

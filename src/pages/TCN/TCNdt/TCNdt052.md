@@ -2,15 +2,15 @@
 layout: ../../../layouts/Article.astro
 title: "BÀ ĐỐC THANH:"
 author: "Trần Chung Ngọc"
-source: "https://sachhiem.net/TCN/TCNdt/TCNdt052.php"
+source: "/TCN/TCNdt/TCNdt052"
 category: "Đối thoại"
 lang: vi
 wordCount: 23127
-image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.devhttps://sachhiem.net/images/nha.jpg"
+image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/Pict/PhoOngDo.jpg"
 ---
 
 <table border="0" width="250" align="center">
-    <tbody><tr><td width="106"><a href="https://sachhiem.net/index.php"><img border="0" src="https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.devhttps://sachhiem.net/images/nha.jpg"></a>    </td>
+    <tbody><tr><td width="106">    </td>
 <td valign="top" width="210"><p>16 tháng 12,  2010</p></td></tr></tbody></table>
 	
 	<p> <span class="First">T</span>ôi được trang nhà Sách 
@@ -170,7 +170,7 @@ image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.devhttps://sachhiem.net/
 	<p>
 	<a href="https://giaodiemonline.com/2010/12/cs.htm">
 	https://giaodiemonline.com/2010/12/cs.htm</a>;<br>
-	<a href="https://www.sachhiem.net/TCN/TCNtg/TCN104.php">
+	<a href="/TCN/TCNtg/TCN104">
 	https://www.sachhiem.net/TCN/TCNtg/TCN104.php</a></p>
 	<p><i> Thứ nhì 
 	tôi không phải là một Tỳ Kheo Phật Giáo, tôi có cạo đầu đi tu đâu mà là Tỳ 
@@ -334,7 +334,7 @@ image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.devhttps://sachhiem.net/
 	vâng lời. Bề trên bảo sao làm vậy dù làm bậy cũng cứ làm. Lịch sử CG thế 
 	giới cũng như CG Việt Nam đã chứng tỏ như vậy. Sau đây là một đoạn của Linh 
 	Mục James Kavanaugh viết về thực chất huyền thoại về cái chết của Giê-su để 
-	cứu độ nhân loại trong bài Huyền Thoại Cứu Rỗi<br> [<a href="https://www.sachhiem.net/TCN/TCNtg/TCN36.php">https://www.sachhiem.net/TCN/TCNtg/TCN36.php</a>] 
+	cứu độ nhân loại trong bài Huyền Thoại Cứu Rỗi<br> [<a href="/TCN/TCNtg/TCN36">https://www.sachhiem.net/TCN/TCNtg/TCN36.php</a>] 
 	:</p>
 	
 	<p class="MsoSubtitle">
@@ -370,7 +370,7 @@ image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.devhttps://sachhiem.net/
 	<p> Bà Đốc Thanh cũng nên đọc thêm bài “<i>Giê-su Như Là Đấng Cứu Thế: Một 
 	Hình Ảnh Cần Phải Dẹp Bỏ</i>” (Jesus As Rescuer: An Image That Has To Go) 
 	của Giám Mục John Shelby Spong: 
-	<a href="https://www.sachhiem.net/TCN/TCNtg/TCN37.php">
+	<a href="/TCN/TCNtg/TCN37">
 	https://www.sachhiem.net/TCN/TCNtg/TCN37.php</a>. 
 	Tôi không nghĩ rằng bà Đốc Thanh có thể hiểu đạo hơn Giám Mục Spong hay Linh 
 	Mục Kavanaugh, và đó là sự khác biệt giữa người “tin đạo” và người “hiểu 
@@ -1186,7 +1186,7 @@ image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.devhttps://sachhiem.net/
 	đất mới có 100 năm. Bà hãy đọc lại bài “Những Huyền Thoại Về CS Và Vô Thần” 
 	đăng trên Sách Hiếm và Giao Điểm mà tôi đã dẫn ở trên. Hơn nữa bà cũng nên 
 	đọc bài “<i>Không Thần Và Có Thần: Hai Anh Em Thích Anh Nào?</i>” trên
-	<a href="https://www.sachhiem.net/TCN/TCNtg/TCN11.php">
+	<a href="/TCN/TCNtg/TCN11">
 	https://www.sachhiem.net/TCN/TCNtg/TCN11.php</a>.</p>
 	<p> Bà Đốc Thanh 
 	kể luôn Hitler vào đám người vô thần cho vui thôi. Thực chất Hitler là 

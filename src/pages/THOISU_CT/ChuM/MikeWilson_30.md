@@ -3,7 +3,7 @@ layout: ../../../layouts/Article.astro
 title: "4 Góc Nhìn Thức Tỉnh Về Đối Đầu Mỹ - Nga Tại Ukraine!"
 author: "Mike Wilson"
 date: 2022-04-14
-source: "https://sachhiem.net/THOISU_CT/ChuM/MikeWilson_30.php"
+source: "/THOISU_CT/ChuM/MikeWilson_30"
 category: "Chính trị"
 lang: vi
 wordCount: 2087

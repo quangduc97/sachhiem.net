@@ -3,7 +3,7 @@ layout: ../../../layouts/Article.astro
 title: "Anh Pietro Orlando: \"Vatican không muốn điều tra?\""
 author: "Đức Dũng"
 date: 2023-01-20
-source: "https://sachhiem.net/TONGIAO/tgD/DucDung10.php"
+source: "/TONGIAO/tgD/DucDung10"
 category: "Chính trị"
 lang: vi
 wordCount: 1740

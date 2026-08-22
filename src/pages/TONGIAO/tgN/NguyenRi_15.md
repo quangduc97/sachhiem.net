@@ -3,7 +3,7 @@ layout: ../../../layouts/Article.astro
 title: "10 Nhận Xét Của Người Xưa Về Kitô Giáo"
 author: "Michael Van Duisen"
 date: 2015-08-09
-source: "https://sachhiem.net/TONGIAO/tgN/NguyenRi_15.php"
+source: "/TONGIAO/tgN/NguyenRi_15"
 category: "Tác giả"
 lang: vi
 wordCount: 2310
@@ -62,4 +62,4 @@ image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/SACHNGOAI/Hinhanh/CR
 <p class="TacgiaL"> Ri Nguyễn dịch </p>
  <p> ________________ </p>
  <p>Các bài của Nguyễn Ri: link<br>
-<a href="https://sachhiem.net/TONGIAO/tgN/ListRiNguyen.inc.php" target="_blank">https://sachhiem.net/TONGIAO/tgN/ListRiNguyen.inc.php</a></p>
+<a href="/TONGIAO/tgN/ListRiNguyen.inc" target="_blank">https://sachhiem.net/TONGIAO/tgN/ListRiNguyen.inc.php</a></p>

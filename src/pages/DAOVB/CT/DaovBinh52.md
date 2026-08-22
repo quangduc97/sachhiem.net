@@ -3,7 +3,7 @@ layout: ../../../layouts/Article.astro
 title: "Nhật Ký Biển Đông:"
 author: "Đào Văn Bình"
 date: 2015-12-15
-source: "https://sachhiem.net/DAOVB/CT/DaovBinh52.php"
+source: "/DAOVB/CT/DaovBinh52"
 category: "Chính trị"
 lang: vi
 wordCount: 6512
@@ -76,7 +76,7 @@ Từ ngàn xưa tới giờ “<i>thiên  hạ đại loạn</i>” cũng chỉ 
 Có thể bà hiệu trưởng  này đã viện dẫn điều khoản “tách biệt giữa tôn giáo và quốc gia” <i>(</i><i>separation of church and state)</i> được ghi trong Hiến Pháp Hoa Kỳ. Điều  khoàn này quy định các hoạt động của quốc gia, các cơ sở của quốc gia (công  viên, trường học, dinh thự, trại lính) không được dùng để hỗ trợ, giúp đỡ, xúc  tiến bất cứ tôn giáo nào. </p>
 <p align="center"><a href="https://usatoday30.usatoday.com/news/religion/2011-08-11-Ten-Commandments-God-court_n.htm"> <img src="https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/TONGIAO/IMG/HOAKY/TenCom_rem_Dixie_courthouse2011.jpg" width="400" height="300" alt=""></a></p>
 <p align="center"><i>Tượng Mười Điều Răn ở trước Tòa án Dixie County của thành phố Cross, Fla. Một thẩm phán liên bang đã ra lệnh dời tảng đá hoa cương cao 5-feet ở phía trước của tòa án có khắc các điều răn</i></p>
-<p>Chính vì thế mà vào năm 2006 Quận Hạt Dixie đã phải  tháo gỡ một phiến đá cẩm thạch trên đó có khắc Mười Điều Răn Của Chúa (<i>Ten  Commandments</i>) ra khỏi bậc thềm của tòa thị chính quận hạt (<a href="https://sachhiem.net/TONGIAO/tgS/SH61.php">xem thêm vụ ở Oklahoma</a>). Vào năm 2003,  Chánh Án Roy Moore của Alabama đã bị một hội đồng về đạo đức cách chức vì đã  không tuân lệnh tháo gỡ phiến đá khắc Mười Điều Răn Cúa Chúa ra khỏi trụ sở của  Tòa Án Liên Bang<i>. (MONTGOMERY, Alabama (CNN): Alabama's judicial ethics  panel removed Chief Justice Roy Moore from office Thursday for defying a  federal judge's order to move a Ten Commandments monument from the state  Supreme Court building.)</i></p>
+<p>Chính vì thế mà vào năm 2006 Quận Hạt Dixie đã phải  tháo gỡ một phiến đá cẩm thạch trên đó có khắc Mười Điều Răn Của Chúa (<i>Ten  Commandments</i>) ra khỏi bậc thềm của tòa thị chính quận hạt (<a href="/TONGIAO/tgS/SH61">xem thêm vụ ở Oklahoma</a>). Vào năm 2003,  Chánh Án Roy Moore của Alabama đã bị một hội đồng về đạo đức cách chức vì đã  không tuân lệnh tháo gỡ phiến đá khắc Mười Điều Răn Cúa Chúa ra khỏi trụ sở của  Tòa Án Liên Bang<i>. (MONTGOMERY, Alabama (CNN): Alabama's judicial ethics  panel removed Chief Justice Roy Moore from office Thursday for defying a  federal judge's order to move a Ten Commandments monument from the state  Supreme Court building.)</i></p>
 <p>
 Tự do tôn giáo có cái  lợi mà cũng có cái hại. Mọi tôn giáo đều bình đẳng. Tôn giáo dòng chính /đa số  chiếm 85% cũng ngang bằng với tôn giáo 1%, kể cả đạo thờ Quỷ Sa-tăng (<i>Satanism</i>)  hiện có 100,000 tín đồ trên toàn thế giới. Mới đây các tượng Quỷ Sa-tăng đã  được khánh thành tại Thành Phố Detroit và Oklahoma của Hoa Kỳ. Quán xét vào  lịch sử nhân loại chúng ta thấy, một sự thay đổi tín ngưỡng/tôn giáo sẽ kéo  theo sự thay đổi toàn diện về lịch sử, chính trị, văn hóa, phong tục, lối sống  gia đình, xã hội, luân lý, đạo đức cho nên chiến tranh tôn giáo tức thánh chiến  (<i>Jihad &amp;Crusade</i>) là loại chiến tranh khủng khiếp nhất.</p>
 <p align="center"><iframe width="480" height="270" src="https://www.youtube.com/embed/3UWLMXi5ZkM" frameborder="0" allowfullscreen=""></iframe></p>

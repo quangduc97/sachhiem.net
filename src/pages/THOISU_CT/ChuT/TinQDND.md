@@ -3,7 +3,7 @@ layout: ../../../layouts/Article.astro
 title: "Thiệu cay đắng thừa nhận: Việt Nam Cộng Hòa thực ra là chính phủ đánh thuê cho Mỹ"
 author: "Nguyễn Hương/ QĐND online"
 date: 2015-06-30
-source: "https://sachhiem.net/THOISU_CT/ChuT/TinQDND.php"
+source: "/THOISU_CT/ChuT/TinQDND"
 category: "Lịch sử"
 lang: vi
 wordCount: 1504

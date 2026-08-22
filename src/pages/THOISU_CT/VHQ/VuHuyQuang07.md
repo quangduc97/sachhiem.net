@@ -2,18 +2,16 @@
 layout: ../../../layouts/Article.astro
 title: "vvvvvvvvvvv"
 author: "Vũ Huy Quang"
-source: "https://sachhiem.net/THOISU_CT/VHQ/VuHuyQuang06.php"
+source: "/THOISU_CT/VHQ/VuHuyQuang06"
 category: "Chính trị"
 lang: en
 wordCount: 118
-image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nha.jpg"
 ---
 
 <p class="Tuaduoi">vvvvvvvvvvvvv </p>
  
 
- <p align="center"><a href="https://www.sachhiem.net/">
-<img border="0" src="https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nha.jpg"></a>  tháng  , 2010	</p>
+ <p align="center">  tháng  , 2010	</p>
    
 
 		<p>__________</p>

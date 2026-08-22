@@ -3,7 +3,7 @@ layout: ../../../layouts/Article.astro
 title: "\"Bàn Tay\" của Lm Trần Đình Long ở GĐTM làm \"Nước Cha Trị Đến\"?"
 author: "Trần Quang Diệu"
 date: 2019-08-26
-source: "https://sachhiem.net/LICHSU/TR/TQD_DT59.php"
+source: "/LICHSU/TR/TQD_DT59"
 category: "Đối thoại"
 lang: vi
 wordCount: 5288
@@ -32,7 +32,7 @@ image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/TONGIAO/IMG/LINHMUC/
 <p>Riêng tại đất nước hình cong chữ S thì cũng cái  họa "Nước Cha Trị Đến" mà nó đã từng dìm quyền độc lập tự chủ của xứ  sở nầy xuống tận đáy bùn đen, và xóa tên Việt Nam trên bản đồ thế giới ngót gần  100 năm, chiên Phạm Trung Kiên có biết không?</p>
 <p>Đây là hình ảnh ông "Chúa Cha" mà chiên Phạm Trung Kiên gọi là "Danh Cha Cả Sáng"  (...?):</p>
 
-<p> Mời xem bài "VỀ BA NGÔI THIÊN CHÚA (Một Khảo Luận Trong Ánh Sáng Của Thánh Kinh Và Giáo Lý Công Giáo) <a href="https://www.sachhiem.net/TCN/TCNtg/3NGOI/TCN72.php">  https://www.sachhiem.net/TCN/TCNtg/3NGOI/TCN72.php</a>.</p>
+<p> Mời xem bài "VỀ BA NGÔI THIÊN CHÚA (Một Khảo Luận Trong Ánh Sáng Của Thánh Kinh Và Giáo Lý Công Giáo) <a href="/TCN/TCNtg/3NGOI/TCN72">  https://www.sachhiem.net/TCN/TCNtg/3NGOI/TCN72.php</a>.</p>
 <p>Con chiên Phạm Trung Kiên ơi, sau đây là hai điều mà người Cato Roma giáo đã  làm để gọi là <i>“Danh Cha Cả Sáng, Nước  Cha Trị Đến”</i> : &nbsp;</p>
 <p> <b> <i>1. Danh Cha Cả Sáng:</i></b></p>
   <p>Kinh  Thánh <strong>Malachi, chương 2,</strong> Chúa đã đe dọa thiên hạ như thế  này:  <i>"Nếu ai không nghe lời ta và không làm rạng </i>(sáng  - tqd)<i> danh ta, Chúa Trời sẽ trét phân lên mặt người đó" </i>(If you do  not glorify his name, God will spread dung upon your faces). Nguồn: <a href="https://sachhiem.org/tacgia-thanh-kinh/" target="_blank">https://sachhiem.org/tacgia-thanh-kinh/</a></p>
@@ -77,7 +77,7 @@ image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/TONGIAO/IMG/LINHMUC/
 <p> Sau khi Giám mục Bá Đa Lộc và  Hoàng tử Cảnh yết kiến Pháp hoàng Louis XVI và thương nghị với Bộ Ngoại giao Pháp, ngày  21 tháng 11 năm 1787, Hiệp ước Versailles được ký  bởi Armand Marc, bá tước Montmorin, Bộ trưởng Bộ Ngoại giao và Hải quân, và Bá  Đa Lộc, Đặc sứ Nguyễn vương Ánh. Theo 2 điều khoản chính của  hiệp ước, thì vua Louis XVI hứa sẽ giúp đỡ Nguyễn Ánh để lấy lại ngôi vị,  bằng cách cung cấp 1.650 quân (1.200 lính bộ binh, 200 lính pháo thủ và 250  lính da đen Cafres)<a href="https://vi.wikipedia.org/wiki/B%C3%A1_%C4%90a_L%E1%BB%99c#cite_note-chapuis-11" target="_blank"> </a> và 4 chiến hạm. Đổi lại, Nguyễn vương sẽ  nhường hẳn đảo  Côn Lôn (người  Pháp ghi là Pulo-Condore), đồng thời cho Pháp thuê cảng Đà Nẵng (người  Pháp ghi là Tourane) với giá ưu đãi, kèm theo độc quyền kinh doanh." </p>
 <p> Nguồn: <a href="https://vi.wikipedia.org/wiki/B%C3%A1_%C4%90a_L%E1%BB%99c" target="_blank">https://vi.wikipedia.org/wiki/B%C3%A1_%C4%90a_L%E1%BB%99c</a></p>
 <p><strong><i>"Nước  Cha Trị Đến" </i>đối với quê hương Việt Nam và nhà Nguyễn:</strong> </p>
-<p> <a href="https://sachhiem.net/TONGIAO/tgN/NguyenXTho.php" target="_blank">https://sachhiem.net/TONGIAO/tgN/NguyenXTho.php</a> </p>
+<p> <a href="/TONGIAO/tgN/NguyenXTho" target="_blank">https://sachhiem.net/TONGIAO/tgN/NguyenXTho.php</a> </p>
 <p><strong> "<i>Nước Cha Trị Đến" </i>đối với những anh hùng dân tộc  Việt:</strong> </p>
 <p> "Lịch sử vong quốc  vì biến họa Thiên Chúa giáo bắt đầu từ năm 1858, qua các cuộc khởi nghĩa  của Đinh Công Tráng, Phan Đình Phùng v.v... đều bị  những giáo sĩ và giáo dân miệt thị là "bọn" (thái độ  miệt thị là "bọn" như vậy, sớm nhất là lúc Việt gian Nguyễn Thân và  Ngô Đình Khả vâng lệnh giặc Pháp, tảo thanh tiêu diệt Phong trào Văn  Thân của cụ Phan Đình Phùng và tướng Cao Thắng trong cuộc Khởi Nghĩa Hương  Khê (1885 - 1896). Cho đến tận lúc sau này, những chiếc đầu  của những nghĩa quân Việt Nam Quốc Dân Đảng của Nguyễn Thái Học (1930) bị  giặc kê lên bệ máy chém là những quỉ sứ chứ không là những anh hùng nghĩa sĩ  của đất nước Việt Nam? </p>
 <p> <img border="0" width="178" height="250" src="https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/LICHSU/IMG/SuVN/NgTrPhg_thcs-nguyentriphuong-tthue.edu.vn.jpg" alt="Nguyễn Tri Phương"> </p>
@@ -100,7 +100,7 @@ image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/TONGIAO/IMG/LINHMUC/
 <p> <img border="0" width="200" height="365" src="https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/LICHSU/IMG/NGODD/clip_image006_0000.jpg" alt="https://sachhiem.net/TONGIAO/IMG/MARTYR/ThanhQuy_ThanhPhung.jpg"> </p>
 <p> “5. <strong>Tạ  Văn Phụng</strong>, tức Phêrô Lê Duy Phụng, nguyên chủng sinh tại Penang, lấy danh  nghĩa là con cháu nhà Lê dấy binh “khởi nghĩa” tại Bắc Kỳ chống triều đình Huế  năm 1858. Tạ Văn  Phụng nhờ các giáo sĩ liên lạc với chính phủ Pháp  để xin giúp đỡ. Napoleon III đồng ý, và cử tên gián điệp Duval sang Việt Nam  giúp Phụng với mục đích biến Bắc Kỳ thành một xứ Công giáo với một chính quyền  Công giáo. Duval đi Macao mua vũ khí và giúp Phụng thành lập những đoàn quân  gồm đa số là giáo dân. Trong các tháng 6 và 7 – 1863, Phụng khởi binh đánh  chiếm một vùng rộng lớn ở đồng bằng Bắc bộ gồm 3 tỉnh Quảng Yên, Hải Dương và  Nam Định. Triều đình Huế cử Nguyễn Tri Phương đem quân ra Bắc dẹp loạn. Tạ Văn  Phụng bị bắt đem về Huế xử tử” </p>
 <p> (Charlie  Nguyễn).</p>
-<p> Thế đấy,  cũng như bao nhiêu nét, bao nhiêu vấn đề, bao nhiêu sự kiện có liên  quan đến đạo Thiên Chúa giáo, khi có người đề cập đến  thì liền bị mắng càn không cần lý do, không cần biết đến phải  trái để đi vu chụp cho người ta nào là "vô đạo",  "chống phá tôn giáo", là "Việt cộng vô thần", là "tiêu  diệt tôn giáo", là "ngăn cản sự hành đạo của dân chúng" v.v...  <a href="https://sachhiem.net/index.php?content=showemail&amp;id=49" target="_blank">(SH: xin bấm ở đây hoặc đọc bài dẫn số 2 ở trên)</a></p>
+<p> Thế đấy,  cũng như bao nhiêu nét, bao nhiêu vấn đề, bao nhiêu sự kiện có liên  quan đến đạo Thiên Chúa giáo, khi có người đề cập đến  thì liền bị mắng càn không cần lý do, không cần biết đến phải  trái để đi vu chụp cho người ta nào là "vô đạo",  "chống phá tôn giáo", là "Việt cộng vô thần", là "tiêu  diệt tôn giáo", là "ngăn cản sự hành đạo của dân chúng" v.v...  <a href="/net/index" target="_blank">(SH: xin bấm ở đây hoặc đọc bài dẫn số 2 ở trên)</a></p>
 <p><strong> "<i>Nước Cha Trị Đến" </i>đối với giới Sĩ phu Việt Nam:</strong> </p>
 <p> “Chúng  ta nên nghe cuộc đối thoại giữa ông Toàn quyền de Lanessan và Giám mục Puginier  như sau:</p>
 <p> De  Lanessan: Theo ông thì nước Pháp nên đối xử với tầng lớp sĩ phu như thế nào?</p>
@@ -110,14 +110,14 @@ image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/TONGIAO/IMG/LINHMUC/
 <p> <a href="https://tongiaovadantoc.com/c1053/20140315111107593/cong-giao-viet-nam-co-ho-tro-viec-phap-do-ho-nuoc-ta.htm" target="_blank">https://tongiaovadantoc.com/... cong-giao-viet-nam-co-ho-tro-viec-phap-do-ho-nuoc-ta.htm</a></p>
 <p><strong><i>Nước Cha Trị Đến" </i>đối với Việt Minh và “bọn đi lương” (tức “đạo  thờ ông bà”) -</strong> </p>
 <p> “Có tiếng lao xao của một vài người đàn ông  trong chợ: <i>"Đập bỏ mẹ chúng nó đi</i>". Lại có tiếng hét to: "Cứ  giết hết bọn đi lương".  </p>
-<p> Nguồn: <a href="https://www.sachhiem.net/index.php?content=showrecipe&amp;id=7331" target="_blank">https://sachhiem.net/NMQ/HOSOTOIAC/CH52.php</a></p>
+<p> Nguồn: <a href="/NMQ/HOSOTOIAC/CH52" target="_blank">https://sachhiem.net/NMQ/HOSOTOIAC/CH52.php</a></p>
 <p><strong><i>"Nước Cha Trị Đến" </i></strong>cho nên "những người kháng chiến cũ"  (kháng chiến chống Pháp) đã bị lính của Ngô Đình Diệm Gia Tô giết man  rợ như ở đây: </p>
-<p> <a href="https://www.sachhiem.net/index.php?content=showemail&amp;id=2444" target="_blank">https://www.sachhiem.net/index.php?content=showemail&amp;id=2444</a> </p>
+<p> <a href="/net/LICHSU/N/Namgiao_06" target="_blank">https://www.sachhiem.net/index.php?content=showemail&amp;id=2444</a> </p>
 <p><strong><i>"Nước  Cha Trị Đến"</i> </strong><b>cho nên giáo sĩ gián điệp râu rậm Đắc Lộ  hung dữ đòi <i>“chém thằng Thích Ca cho ngã với…</i>”: </b></p>
-<p> -<a href="https://sachhiem.net/TCN/TCNls/TCNls01.php" target="_blank">https://sachhiem.net/TCN/TCNls/TCNls01.php</a> </p>
-<p> -<a href="https://sachhiem.net/LICHSU/TR/TranDieu.php" target="_blank">https://sachhiem.net/LICHSU/TR/TranDieu.php</a> </p>
-<p> -<a href="https://www.sachhiem.net/index.php?content=showemail&amp;id=2853" target="_blank">https://www.sachhiem.net/index.php?content=showemail&amp;id=2853</a> </p>
-<p> -<a href="https://www.sachhiem.net/index.php?content=showemail&amp;id=2838" target="_blank">https://www.sachhiem.net/index.php?content=showemail&amp;id=2838</a> </p>
+<p> -<a href="/TCN/TCNls/TCNls01" target="_blank">https://sachhiem.net/TCN/TCNls/TCNls01.php</a> </p>
+<p> -<a href="/LICHSU/TR/TranDieu" target="_blank">https://sachhiem.net/LICHSU/TR/TranDieu.php</a> </p>
+<p> -<a href="/hop-thu/2853" target="_blank">https://www.sachhiem.net/index.php?content=showemail&amp;id=2853</a> </p>
+<p> -<a href="/net/index" target="_blank">https://www.sachhiem.net/index.php?content=showemail&amp;id=2838</a> </p>
 <p> <strong><i>"Nước  Cha Trị Đến"</i> cho nên 1/3 "thánh cách"  "Chúa" - tức là bà Maria </strong>(còn 2/3 kia là Jesus và "Chúa Cha" ẩn  mặt đâu trong những hố đen của vũ trụ...?)<strong> vào chùa Lá Vằng ở  Quảng Trị “đánh tứ tung”:</strong> </p>
 <p> <i>“Về nhà nghỉ giấc canh thâu.</i></p>
 <p><i> Tự nhiên mộng mị chiêm bao rập ràng.</i></p>
@@ -131,8 +131,8 @@ image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/TONGIAO/IMG/LINHMUC/
 <p><i> Lư hương bát nước đền đài đều hư.”</i> - </p>
 <p> <a href="https://melavang.info/duc-me-hien-ra-tai-la-vang-nam-1798/" target="_blank">https://melavang.info/duc-me-hien-ra-tai-la-vang-nam-1798/</a> </p>
 <p> <strong> <i>"Nước Cha Trị Đến" </i>bằng hành vi<i> </i>cướp Chùa và Tháp Báo Thiên để xây cơ sở gọi  là "Nhà Thờ Lớn" cho nước Vatican </strong>(Cái ổ tội phạm quốc tế...)<strong>:</strong> </p>
-<p> -<a href="https://sachhiem.net/TONGIAO/TOAKHAM/NguyenAnTiem.php" target="_blank">https://sachhiem.net/TONGIAO/TOAKHAM/NguyenAnTiem.php</a> </p>
-<p> -<a href="https://sachhiem.net/TONGIAO/TOAKHAM/LyKhoiViet01.php" target="_blank">https://phatgiao.org.vn/lich-su-cua-chua-bao-thien -nha-tho-lon-ha-noi-va-toa-kham-su -d23268.html</a> </p>
+<p> -<a href="/TONGIAO/TOAKHAM/NguyenAnTiem" target="_blank">https://sachhiem.net/TONGIAO/TOAKHAM/NguyenAnTiem.php</a> </p>
+<p> -<a href="/TONGIAO/TOAKHAM/LyKhoiViet01" target="_blank">https://phatgiao.org.vn/lich-su-cua-chua-bao-thien -nha-tho-lon-ha-noi-va-toa-kham-su -d23268.html</a> </p>
 <p> <strong><i>"Nước  Cha Trị Đến"</i> phá hủy Chùa Diên Hựu (còn gọi là Chùa Một  Cột):</strong> </p>
 <p> “CHÍNH  SÁCH PHÁ HỦY NỀN VĂN HÓA KHÁC CỦA NGƯỜI GIA-TÔ CUỒNG TÍN: </p>
 <p> Chính sách  hay chủ trương phá hủy nền văn hóa khác (nghĩa là khác với Gia Tô) là một trọng  tội và là một điều rất ngu xuẩn. Tôi muốn nói đến vụ phá hủy Chùa Một Cột của  toán lính Gia Tô. </p>
@@ -140,11 +140,11 @@ image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/TONGIAO/IMG/LINHMUC/
 <p> Ngày 10  tháng 9 năm 1954 toán lính Gia Tô của giám mục Lê Hữu Từ và linh mục Hoàng  Quỳnh đã đặt mìn giật sập Chùa Một Cột. Toán lính Gia Tô nầy từ Bùi Chu – Phát  Diệm lên tạm trú tại trường Thiếu sinh quân Hà Nội để chờ phương tiện di cư vào  Nam. Một nhóm lính Gia Tô trong đó có Cai Long tham dự vào việc đặt mìn giật  sập Chùa Một Cột vào đêm 10.9.1954 do sự chỉ huy của Trần Văn Kính (Sau nầy cựu  Trung tá Kính qua Mỹ và định cư tại California theo diện HO, dưới thời Ngô Đình  Diệm ở trong đơn vị Liên binh Phòng Vệ Phủ Tổng thống dưới quyền Lê Quang  Tung). Cai Long sau nầy là Thượng sĩ thuộc Tiểu Đoàn 3, Trung Đoàn 46, Sư Đoàn  25 Bộ Binh. Thượng sĩ Long là bạn thân từ hồi còn nhỏ với Trung tá Nhảy Dù Đào  Văn Hùng, cựu Tiểu đoàn trưởng, Tiểu đoàn 3 Dù và Trung đoàn trưởng Trung đoàn  46 Bộ binh. <strong>Thượng sĩ Long đã vui miệng khoe thành tích giật sập Chùa  Một Cột trong lúc vui say cùng đồng đội.</strong> Cho tới khoảng tháng 6 năm  1970, Thượng sĩ Long ngà ngà say rượu, lấy súng M.16 tìm bắn Trung úy Phương và  một số đồng ngũ, nên ông bị lính của Bộ Chỉ huy Tiểu đoàn 3, Trung đoàn 46 bắn  chết. Những dữ kiện nầy xảy ra về Thượng sĩ Long có nhiều người được biết hiện  có mặt tại Mỹ như: cựu Chuẩn tướng Lều Thọ Cường, cựu Đại úy Lê Văn Thúy hiện  định cư ở California, cựu Đại úy Trần Ngọc Nhân hiện ở Houston, Texas.” (Trần  Văn Anh, “Tìm Hiểu Hai Bộ Mặt Của Giáo Hội La Mã Qua Nhiều Thế Kỷ”, Mẹ Việt  Nam, USA, 2000,  trang 62, 63). </p>
 <p> <strong><i>"</i><i>Nước Cha Trị Đến" </i>cho nên với cái gọi là “Toàn Niên Kinh Nguyện” và kinh “Nhật Khóa”  đòi "phá tan đạo Phật"</strong>(Như thế, nó xem tổ tiên của chính nó trước năm  1533 là "mọi rợ", là giống trâu bò?)<strong>:</strong> </p>
 <p> “Ông  Thánh Phan-xi-cô phá tan đạo bụt thần... Ông Thánh Phan-xi-cô là lịnh rao tiếng  Đức Chúa Thánh Thần cho những dân mọi rợ" (NK 782-791). Với những câu kinh  nói trên, rõ ràng Giáo hội Công Giáo Việt Nam đã công khai bày tỏ ý muốn  "phá tan đạo Phật" và công khai nhục mạ các dân tộc Đông phương,  trong đó có Việt Nam, Nhật Bản, Trung Quốc, Đại Hàn, Tân Gia Ba, Thái Lan... là  những dân tộc mọi rợ! Quê hương của Phan-xi-cô là Tây Ban Nha so với những con  rồng Châu Á thôi chứ chưa cần phải so sánh với Nhật Bản cũng đủ thấy cách xa  nhau một trời một vực. Nếu dịch các câu kinh này ra tiếng Tây Ban Nha cho họ  đọc, chắc chắn những người Tây Ban Nha có liêm sỉ phải cảm thấy xấu hổ.” - </p>
-<p> <a href="https://sachhiem.net/CHARLIE/CN_CGTBVT/CN_CGTBVT_11.php" target="_blank">https://sachhiem.net/CHARLIE/CN_CGTBVT/CN_CGTBVT_11.php</a> </p>
+<p> <a href="/CHARLIE/CN_CGTBVT/CN_CGTBVT_11" target="_blank">https://sachhiem.net/CHARLIE/CN_CGTBVT/CN_CGTBVT_11.php</a> </p>
 <div class="indent50">
   <p> <strong><i>"</i><i>Nước Cha Trị Đến"</i> thành ra con chiên Ngô Đình Diệm thì cũng ra tay -</strong> <strong>Đàn áp  khốc liệt vào Phật giáo:</strong> </p>
-  <p> <strong>-</strong><a href="https://www.sachhiem.net/index.php?content=showrecipe&amp;id=5002" target="_blank">https://www.sachhiem.net/index.php?content=showrecipe&amp;id=5002</a> </p>
-  <p> -<a href="https://sachhiem.net/LICHSU/TR/TQD33_danap.php" target="_blank">https://sachhiem.net/LICHSU/TR/TQD33_danap.php</a> </p>
+  <p> <strong>-</strong><a href="/LICHSU/TR/TQD03" target="_blank">https://www.sachhiem.net/index.php?content=showrecipe&amp;id=5002</a> </p>
+  <p> -<a href="/LICHSU/TR/TQD33_danap" target="_blank">https://sachhiem.net/LICHSU/TR/TQD33_danap.php</a> </p>
   <p> <strong>- Đàn áp  khốc liệt vào Cao Đài:</strong> </p>
   <p> <a href="https://hoangnamgiao.blogspot.com/2013/02/ao-cao-ai-bi-nha-ngo-ap-ra-sao-tran-van.html" target="_blank">https://hoangnamgiao.blogspot.com/2013/02/ao-cao-ai-bi-nha-ngo-ap-ra-sao-tran-van.html</a> </p>
   <p> <strong>- Đàn áp  khốc liệt vào Hòa Hảo:</strong> </p>

@@ -3,7 +3,7 @@ layout: ../../../layouts/Article.astro
 title: "Hội Đồng Liên Tôn đã xúc phạm Thiên Chúa"
 author: "Nguyễn Trọng Nghĩa"
 date: 2016-08-21
-source: "https://sachhiem.net/TONGIAO/tgN/NgTnghia_HDlienton.php"
+source: "/TONGIAO/tgN/NgTnghia_HDlienton"
 category: "Tác giả"
 lang: vi
 wordCount: 1589

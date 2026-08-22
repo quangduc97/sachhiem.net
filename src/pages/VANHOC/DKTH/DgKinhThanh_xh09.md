@@ -3,7 +3,7 @@ layout: ../../../layouts/Article.astro
 title: "Nhân Mùa World Cup Nhớ Về Một “Hoàng Tử Sĩ-Đạt-Ta” Của Đội Tuyển Italia"
 author: "Dương Kinh Thành"
 date: 2018-06-16
-source: "https://sachhiem.net/VANHOC/DKTH/DgKinhThanh_xh09.php"
+source: "/VANHOC/DKTH/DgKinhThanh_xh09"
 category: "Văn hóa"
 lang: vi
 wordCount: 2206

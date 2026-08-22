@@ -2,7 +2,7 @@
 layout: ../../../layouts/Article.astro
 title: "Ngô Kha và Cuộc chuyện trò cuối năm"
 author: "Chu Sơn"
-source: "https://sachhiem.net/null"
+source: "/null"
 category: "Chính trị"
 lang: vi
 wordCount: 34628

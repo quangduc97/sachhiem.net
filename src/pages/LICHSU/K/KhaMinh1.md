@@ -3,7 +3,7 @@ layout: ../../../layouts/Article.astro
 title: "NGỤC TRUNG NHẬT KÝ (tt)"
 author: "KHẢ MINH"
 date: 2020-05-26
-source: "https://sachhiem.net/LICHSU/K/KhaMinh1.php"
+source: "/LICHSU/K/KhaMinh1"
 category: "Chính trị"
 lang: vi
 wordCount: 5402
@@ -17,7 +17,7 @@ image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/LICHSU/IMG/HOCHIMINH
   
 
 <p align="center"><b><img src="https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/LICHSU/IMG/HOCHIMINH/NgucTrungNhatKy.jpg" width="225" height="225" alt=""></b></p>
- <p align="center"><i>&nbsp;(Tiếp theo<a href="https://sachhiem.net/LICHSU/K/KhaMinh.php"> kỳ trước</a>)</i></p>
+ <p align="center"><i>&nbsp;(Tiếp theo<a href="/LICHSU/K/KhaMinh"> kỳ trước</a>)</i></p>
 <p><span class="First">C</span>ó lẽ không khó để phản bác các luận  điểm của tiến sĩ Lê Hữu Mục.</p>
 <p class="TuaDoLeft"> ☞ <b>Về thời gian sáng tác tập thơ:</b></p>
 <p>Đúng là trang bìa ghi hai hàng số  29.8.1932 / 10.9.1933, nhưng ở cuối bài <i>Kết  luận</i> (bài số 133 ở trang 53, tức bài cuối cùng của tập thơ), tác giả ghi 29.8.1942 / 10.9.1943 trước chữ “Hoàn” <b>完</b><b> </b>(nghĩa là “hết”). Đây mới là ngày  đúng: 29.8.1942 là một ngày sau ngày ông Hồ bị bắt (28.8.1942), còn 10.9.1943  là ngày ông được trả tự do.</p>

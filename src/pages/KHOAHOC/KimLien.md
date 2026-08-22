@@ -2,7 +2,7 @@
 layout: ../../layouts/Article.astro
 title: "Con chuột trong nghiên cứu y học"
 author: "Kim Liên"
-source: "https://sachhiem.net/nguồn https://www.cand.com.vn 4:25, 31/01/2008"
+source: "/nguồn https://www.cand.com.vn 4:25, 31/01/2008"
 category: "Khoa học"
 lang: vi
 wordCount: 452

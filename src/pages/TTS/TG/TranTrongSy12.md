@@ -3,7 +3,7 @@ layout: ../../../layouts/Article.astro
 title: "Nghiên Cứu Về Nagarjuna, Long Thụ 龍樹"
 author: "Trần Trọng Sỹ"
 date: 2021-03-15
-source: "https://sachhiem.net/TTS/TG/TranTrongSy12.php"
+source: "/TTS/TG/TranTrongSy12"
 category: "Chính trị"
 lang: vi
 wordCount: 21101

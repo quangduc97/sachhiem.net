@@ -2,15 +2,15 @@
 layout: ../../../layouts/Article.astro
 title: "Thố lộ những gì trong quyển hồi ký?"
 author: "Nam Hải"
-source: "https://sachhiem.net/LICHSU/N/NamHai.php"
+source: "/LICHSU/N/NamHai"
 category: "Lịch sử"
 lang: vi
 wordCount: 1028
-image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nha.jpg"
+image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/LICHSU/IMG/CaovanVien.jpg"
 ---
 
 <table border="0" cellpadding="1" align="center" width="250">
-        <tbody><tr><td width="100"><a href="/index"><img border="0" src="https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nha.jpg"></a></td>
+        <tbody><tr><td width="100"></td>
 	<td valign="top"><font color="#666666"><i><font size="2">03 tháng 8, 2008
 	</font></i></font>
 	</td></tr></tbody></table>

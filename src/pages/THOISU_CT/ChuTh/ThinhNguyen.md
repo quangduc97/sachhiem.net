@@ -3,7 +3,7 @@ layout: ../../../layouts/Article.astro
 title: "Việc \"Hủy Bỏ\" Kết Nghĩa \"Tỷ Muội\""
 author: "Thinh Nguyễn"
 date: 2014-04-14
-source: "https://sachhiem.net/THOISU_CT/ChuTh/ThinhNguyen.php"
+source: "/THOISU_CT/ChuTh/ThinhNguyen"
 category: "Tác giả"
 lang: vi
 wordCount: 1838

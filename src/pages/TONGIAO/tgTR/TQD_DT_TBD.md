@@ -3,14 +3,14 @@ layout: ../../../layouts/Article.astro
 title: "Không Thể Viện Dẫn \"Bôi Bác Tâm Linh\" Để Đánh Lạc Vấn Đề"
 author: "Trần Quang Diệu"
 date: 2014-04-14
-source: "https://sachhiem.net/TONGIAO/tgTR/TQD_DT_TBD.php"
+source: "/TONGIAO/tgTR/TQD_DT_TBD"
 category: "Đối thoại"
 lang: vi
 wordCount: 3462
 image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/TONGIAO/IMG/ONGBA/DaoOngBa.jpg"
 ---
 
-<p><i> LTS: Nhiều người lương của mình (cho rằng TBD thật là người lương) quá "hiền," không nghĩ trên đời có những chuyện <a href="https://sachhiem.net/index.php?content=showrecipe&amp;id=6148">"ác" đến độ khó tin.</a> Chính vì thế, mới có đến 7% theo cái đạo "tin vô điều kiện", và luôn luôn toan tính nắm quyền của đất nước ta. Hiền thì tốt, nhưng "thiếu thông tin" thì nhất định phải được khai trí, cải hóa, không thì hại cả một tương lai dân tộc. Muốn được mở mang  thì phải đọc nhiều về đề tài mà mình định phán xét. Cần đọc những tài liệu chân thật, có kiểm chứng, xin đừng chỉ nhìn một số người quanh mình hiền lành mà không biết họ sẽ là chiến sĩ cho mỗi mưu đồ của thế lực trên họ. Cũng xin đừng nghe những người nói hùng hồn, hay mê hoặc, không hề có chứng cớ, chỉ là dối lừa mà thôi. </i></p>
+<p><i> LTS: Nhiều người lương của mình (cho rằng TBD thật là người lương) quá "hiền," không nghĩ trên đời có những chuyện <a href="/DOITHOAI/Gopgio">"ác" đến độ khó tin.</a> Chính vì thế, mới có đến 7% theo cái đạo "tin vô điều kiện", và luôn luôn toan tính nắm quyền của đất nước ta. Hiền thì tốt, nhưng "thiếu thông tin" thì nhất định phải được khai trí, cải hóa, không thì hại cả một tương lai dân tộc. Muốn được mở mang  thì phải đọc nhiều về đề tài mà mình định phán xét. Cần đọc những tài liệu chân thật, có kiểm chứng, xin đừng chỉ nhìn một số người quanh mình hiền lành mà không biết họ sẽ là chiến sĩ cho mỗi mưu đồ của thế lực trên họ. Cũng xin đừng nghe những người nói hùng hồn, hay mê hoặc, không hề có chứng cớ, chỉ là dối lừa mà thôi. </i></p>
 <p align="center"><img src="https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/TONGIAO/IMG/ONGBA/DaoOngBa.jpg" width="350" height="262" alt="bàn thờ đạo  ông bà" align="middle">=» <img src="https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/TONGIAO/IMG/CHUA/BanthoChua.JPG" width="250" height="301" alt="bàn thờ Chúa Mẹ" align="middle"></p>
 <p><i>Xin đừng thích nghe lời ngon ngọt, một ngày nào đó, bàn thờ cha mẹ mình, biến thành Cha khác Mẹ khác. Chuyện đó đã xảy ra hơn trăm năm nay rồi. Xin lưu ý tác giả Trần Ba Đàm, những sự kiện được trình bày có minh chứng, có tài liệu không thể gọi là "bôi bác". Đó là một sự vu khống mà những kẻ bệnh vực tội ác thường dùng để phản biện! (SH) </i></p>
 <hr>
@@ -33,10 +33,10 @@ Date: Sat, April 02, 2016 5:52 pm<br>
 <p>Ai mà không biết đến chuyện “ở hiền gặp  lành”? (Phật giáo quy nó vào phạm trù Nhân Quả - Trồng ớt thì trái cay chứ  không thể là quả cam ngọt). </p>
 <p>Còn chuyện <i>“tam giáo đồng nguyên”</i> (Khổng, Phật,  Lão) là không có Kitô giáo. Khi Kitô giáo vào Việt Nam (thuộc hệ sinh sau đẻ  muộn) nhưng nó đã đặt nền móng và ra mặt tiếp tay với ngoại bang làm cho Việt  Nam bị vong quốc. </p>
 <p>Cato Roma giáo sinh sau đẻ muộn trên đất nước Việt Nam nhưng  nó rất là hung dữ chứ không có “tam” hay tự đặt mình để trở thành “tứ giáo đồng  nguyên” được! Bằng cớ?</p>
-<p>- Hãy xem thằng giặc nào bôi bác tâm linh tôn giáo khác, và không biết đó là "<i>bạo thiên nghịch địa</i>" (<a href="https://sachhiem.net/TONGIAO/ADRhodes/8Ngay.php">xin đọc Phép Giảng 8 Ngày của ông Cố đạo Alexandre De Rhodes</a>) </p>
-<p> - Nó đòi “<i>chém thằng Thích Ca cho ngã với</i>” (xin đọc Di Hại Của <a href="https://sachhiem.net/TCN/TCNls/TCNls01.php">“Nền Đạo Lý Thiên-La Đắc-Lộ” Nhân Đọc Cuốn “Hành Trình Và Truyền Giáo”</a> Của Alexandre de Rhodes của GS Trần Chung Ngọc),</p>
-<p>-  Nó vào Chùa Lá  Vằng ở Quảng Trị “đánh tứ tung” để cho <i>“bao nhiêu thần Phật đều tung ra ngoài”</i>,  và dĩ nhiên là <i>“lư hương bát nước đền đài (ở Việt Nam) đều hư”</i> v.v… Chúng tôi đã từng trình bày các bằng chứng về những chuyện này ở các bài trước đây nhiều lần rồi. (xin đọc <a href="https://sachhiem.net/CHARLIE/CN_TTDTG/Quangtri.php">Tuyển Tập Độc Thần Giáo: Trả lời bốn câu hỏi của Giao Điểm, của Charlie Nguyễn</a>)</p>
-<p>Còn Phật, Nho, Lão? Thưa ông Tran Ba Dam! Đỗ Pháp Thuận, Tô Hiến  Thành, Lý Thường Kiệt, Trần Hưng Đạo, Lê Lợi, Quang Trung, Nguyễn Trãi, La Sơn  Phu Tử Nguyễn Thiếp, Ngô Thời Nhậm, Chu Văn An, Ngô Sĩ Liên, Phan Huy Chú v.v…  là Phật, Nho, Lão! - Họ khác hoàn toàn, nếu ta đem đối chiếu với những tên tay  sai ngoại bang như Trần Lục, Trương Vĩnh Ký, Nguyễn Trường Tộ, Ngô Đình Khả,  Nguyễn Bá Tòng, Tạ Văn Phụng, Huỳnh Công Tấn v.v… Xin đọc bài <a href="https://sachhiem.net/LICHSU/TR/TQD38.php">"Thế Nào Là Tội Đồ Dân Tộc ?"</a></p>
+<p>- Hãy xem thằng giặc nào bôi bác tâm linh tôn giáo khác, và không biết đó là "<i>bạo thiên nghịch địa</i>" (<a href="/TONGIAO/ADRhodes/8Ngay">xin đọc Phép Giảng 8 Ngày của ông Cố đạo Alexandre De Rhodes</a>) </p>
+<p> - Nó đòi “<i>chém thằng Thích Ca cho ngã với</i>” (xin đọc Di Hại Của <a href="/TCN/TCNls/TCNls01">“Nền Đạo Lý Thiên-La Đắc-Lộ” Nhân Đọc Cuốn “Hành Trình Và Truyền Giáo”</a> Của Alexandre de Rhodes của GS Trần Chung Ngọc),</p>
+<p>-  Nó vào Chùa Lá  Vằng ở Quảng Trị “đánh tứ tung” để cho <i>“bao nhiêu thần Phật đều tung ra ngoài”</i>,  và dĩ nhiên là <i>“lư hương bát nước đền đài (ở Việt Nam) đều hư”</i> v.v… Chúng tôi đã từng trình bày các bằng chứng về những chuyện này ở các bài trước đây nhiều lần rồi. (xin đọc <a href="/CHARLIE/CN_TTDTG/Quangtri">Tuyển Tập Độc Thần Giáo: Trả lời bốn câu hỏi của Giao Điểm, của Charlie Nguyễn</a>)</p>
+<p>Còn Phật, Nho, Lão? Thưa ông Tran Ba Dam! Đỗ Pháp Thuận, Tô Hiến  Thành, Lý Thường Kiệt, Trần Hưng Đạo, Lê Lợi, Quang Trung, Nguyễn Trãi, La Sơn  Phu Tử Nguyễn Thiếp, Ngô Thời Nhậm, Chu Văn An, Ngô Sĩ Liên, Phan Huy Chú v.v…  là Phật, Nho, Lão! - Họ khác hoàn toàn, nếu ta đem đối chiếu với những tên tay  sai ngoại bang như Trần Lục, Trương Vĩnh Ký, Nguyễn Trường Tộ, Ngô Đình Khả,  Nguyễn Bá Tòng, Tạ Văn Phụng, Huỳnh Công Tấn v.v… Xin đọc bài <a href="/LICHSU/TR/TQD38">"Thế Nào Là Tội Đồ Dân Tộc ?"</a></p>
 <p>
    <b>2. Tran  Ba Dam viết: </b></p>
 <p>

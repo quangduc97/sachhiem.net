@@ -3,7 +3,7 @@ layout: ../../../layouts/Article.astro
 title: "Sự Thật Về Giải Thưởng Magsaysay"
 author: "Lê Xuân Nhuận"
 date: 2013-03-18
-source: "https://sachhiem.net/index.php?content=showrecipe&id=5582"
+source: "/LICHSU/LEXNHUAN/LeXNhuan08"
 category: "Lịch sử"
 lang: vi
 wordCount: 4185

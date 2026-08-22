@@ -3,7 +3,7 @@ layout: ../../../layouts/Article.astro
 title: "Chiêu Thức Mới Của Những Kẻ \"Đồng Hành Cùng Quân Giặc\""
 author: "Trần Đại Linh - DuyênSinh - Trần Quang Diệu - Giác Hạnh"
 date: 2014-04-08
-source: "https://sachhiem.net/LICHSU/D/Duyensinh05.php"
+source: "/LICHSU/D/Duyensinh05"
 category: "Tác giả"
 lang: vi
 wordCount: 9833
@@ -57,8 +57,8 @@ image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/TONGIAO/IMG/GIAOVGIA
    Giang là người “phịa sử.” </p>
  <p class="TacgiaL">Trần Đại Linh</p>
  <p><b>Bài khác của Trần Đại Linh:</b></p>
- <p>- <a href="https://sachhiem.net/DOITHOAI/TranDaiLinh.php">Những Trái Hỏa Mù Của Chu Tất Tiến Trong Bài Viết Đánh Phá Huỳnh Tấn Lê</a> </p>
- <p>- <a href="https://sachhiem.net/DOITHOAI/TranDaiLinh01.php">Lữ Giang: Đứng Ở Đâu Trên Lập Trường Dân Tộc?</a></p>
+ <p>- <a href="/DOITHOAI/TranDaiLinh">Những Trái Hỏa Mù Của Chu Tất Tiến Trong Bài Viết Đánh Phá Huỳnh Tấn Lê</a> </p>
+ <p>- <a href="/DOITHOAI/TranDaiLinh01">Lữ Giang: Đứng Ở Đâu Trên Lập Trường Dân Tộc?</a></p>
 <a name="ntit1" href="/LICHSU/#tit2"> <p class="TuaDenLeft"><span class="green"><b>B. </b></span><b>Bài của Duyên Sinh: </b></p></a>
  
  

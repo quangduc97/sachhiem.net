@@ -3,7 +3,7 @@ layout: ../../../layouts/Article.astro
 title: "SƯ QUỐC DOANH"
 author: "FB Thi Nguyên"
 date: 2020-06-17
-source: "https://sachhiem.net/TONGIAO/FB/FBThiNguyen08.php"
+source: "/TONGIAO/FB/FBThiNguyen08"
 category: "Tác giả"
 lang: vi
 wordCount: 505
@@ -34,5 +34,5 @@ image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/TONGIAO/IMG/SU/SuQuo
 <p>Khác chúa giáo ở chỗ,chúa chỉ chọn nơi đắc địa phố phường để lập nhà thờ</p>
 <p>_______________</p>
 <p><b>Đọc thêm:</b></p>
-    <p><a href="https://sachhiem.net/TONGIAO/tgN/NguyenHBa.php">- Có Giáo Hội Quốc Doanh hay không? (Nguyễn Hữu Ba)</a></p>
-        <p>- <a href="https://sachhiem.net/TCN/TCNts/TCNts23.php">ĐĐ Thích Nhật Từ và Xóm Đạo (Trần Chung Ngọc)</a></p>
+    <p><a href="/TONGIAO/tgN/NguyenHBa">- Có Giáo Hội Quốc Doanh hay không? (Nguyễn Hữu Ba)</a></p>
+        <p>- <a href="/TCN/TCNts/TCNts23">ĐĐ Thích Nhật Từ và Xóm Đạo (Trần Chung Ngọc)</a></p>

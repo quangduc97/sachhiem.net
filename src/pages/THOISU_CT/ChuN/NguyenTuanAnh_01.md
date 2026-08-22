@@ -3,7 +3,7 @@ layout: ../../../layouts/Article.astro
 title: "Tư Tưởng Hồ Chí Minh Về Chống Tham Ô, Tham Nhũng"
 author: "Nguyễn Tuấn Anh"
 date: 2024-06-15
-source: "https://sachhiem.net/THOISU_CT/ChuN/NguyenTuanAnh_01.php"
+source: "/THOISU_CT/ChuN/NguyenTuanAnh_01"
 category: "Chính trị"
 lang: vi
 wordCount: 142

@@ -3,7 +3,7 @@ layout: ../../../layouts/Article.astro
 title: "Tản mạn về năm Dậu - *rơ(ka) - Gà"
 author: "Nguyễn Cung Thông"
 date: 2016-12-06
-source: "https://sachhiem.net/VANHOC/NGCGTHG/NguyenCungThong10.php"
+source: "/VANHOC/NGCGTHG/NguyenCungThong10"
 category: "Văn hóa"
 lang: vi
 wordCount: 3876

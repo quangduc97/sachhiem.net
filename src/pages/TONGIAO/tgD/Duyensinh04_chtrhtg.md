@@ -3,7 +3,7 @@ layout: ../../../layouts/Article.astro
 title: "Chiến Tranh Tôn Giáo Tại Nhật Bản"
 author: "DuyênSinh"
 date: 2013-06-27
-source: "https://sachhiem.net/TONGIAO/tgD/Duyensinh04_chtrhtg.php"
+source: "/TONGIAO/tgD/Duyensinh04_chtrhtg"
 category: "Tác giả"
 lang: vi
 wordCount: 5732

@@ -3,7 +3,7 @@ layout: ../../../layouts/Article.astro
 title: "Hỡi Quê Hương Yêu Dấu !"
 author: "Trần Trọng Sỹ"
 date: 2018-07-31
-source: "https://sachhiem.net/TTS/VH/TranTrongSy_vh5.php"
+source: "/TTS/VH/TranTrongSy_vh5"
 category: "Văn hóa"
 lang: vi
 wordCount: 9160
@@ -104,7 +104,7 @@ image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/THOISU_CT/Hinh/TS_HS
 <p>ĐKKT chỉ nên là sản phẩm để kiến tạo một khu hoang dã thành thị tứ, chứ không  nên đưa ĐKKT vào một nơi đắc địa, đã sẵn có tố chất của một vùng trù phú nếu chỉ  cần khai khác một cách bình thường như Phú Quốc, Bắc Vân Phong và Vân Đồn.</p>
 <p>Hai  siêu cường dẫn đầu thế giới gần như đều nhờ vào các đặc khu kinh tế mà bay bổng,  nên ngày nay, ai ai cũng muốn bay cao bay xa, và do đó, ĐKKT trở thành một  phương án thời thượng để các tay công tử nhà quê xúm nhau mua, bất kể giá cả  bao nhiêu, hòng cầu mong có ngày được dịp bay cao bay xa như cặp rồng phượng Mỹ  Trung trên phim trường hiện đại.</p>
 <p>Đó là lí do vì sao tôi  trễ nãi, dù thư anh viết làm tôi rất cảm động.</p>
-<p>Đọc “<a href="https://sachhiem.net/index.php?content=showemail&amp;id=2576">Thư làm quen với  anh Quý Long</a>” của anh để tìm hiểu đôi nét về anh, tôi ngạc nhiên nhận ra rằng  anh có gốc đạo Công giáo. </p>
+<p>Đọc “<a href="/hop-thu/2576">Thư làm quen với  anh Quý Long</a>” của anh để tìm hiểu đôi nét về anh, tôi ngạc nhiên nhận ra rằng  anh có gốc đạo Công giáo. </p>
 <p>Kế tiếp, anh viết «&nbsp;Mẹ tôi chết lúc tôi được 8 tháng tuổi. Năm 61, khi  tôi đủ mười tuổi thì cha chết. Chị tôi tiếp tục thay cha nuôi tôi. Tôi tiếp tục  học trường La San Kon Tum đến năm 69, vừa xong lớp đệ tứ thì cũng vừa đủ tuổi  lính.&nbsp;» đã cho tôi cái ngạc nhiên thêm là mình có rất nhiều điểm chung. </p>
 <p>Thuở còn bé, nhà tôi cũng rất nghèo, mới sinh ra thì nhà cháy, cha mẹ tôi từ An  Khê, Bình Định ôm tôi di cư lên Pleiku để tìm đất sống, nhưng so với anh, tôi  có nhiều may mắn hơn, vì vào năm 10 tuổi của anh; năm 1961 tôi cũng vừa tròn  10, cha mẹ đầy đủ, học trường Bồ Đề Pleiku và sống cách thành phố Kontum của  anh chừng 50 km&nbsp;! </p>
 <p>Anh Trần Tiên Long nói với anh rằng anh ấy chơi guitar classic của Carulli thì  tôi cũng tập tành cuốn đó khi học đại học SG và bây giờ cũng «&nbsp;cùi sứt  móng&nbsp;» chả chơi được gì nữa, chỉ còn sáng tác vài bản nhạc để nghêu ngao  ngày tháng mà chị Xuân có biết.</p>
@@ -171,4 +171,4 @@ image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/THOISU_CT/Hinh/TS_HS
 <p>Kính yêu.</p>
  
 <p> __________________</p>
-<p>Các bài của Trần Trọng Sỹ: link <a href="https://sachhiem.net/TTS/ListTTS.inc.php" target="_blank">https://sachhiem.net/TTS/ListTTS.inc.php</a></p>
+<p>Các bài của Trần Trọng Sỹ: link <a href="/TTS/ListTTS.inc" target="_blank">https://sachhiem.net/TTS/ListTTS.inc.php</a></p>

@@ -3,7 +3,7 @@ layout: ../../../layouts/Article.astro
 title: "Hoa Lục - Đài Loan Liên Minh Khống Chế Biển Đông"
 author: "Đào Văn Bình"
 date: 2013-03-06
-source: "https://sachhiem.net/DAOVB/CT/DaovBinh03.php"
+source: "/DAOVB/CT/DaovBinh03"
 category: "Chính trị"
 lang: vi
 wordCount: 3602

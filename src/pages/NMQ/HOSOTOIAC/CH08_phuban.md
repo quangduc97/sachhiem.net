@@ -2,16 +2,15 @@
 layout: ../../../layouts/Article.astro
 title: "GIÁO HỘI LA MÃ:"
 author: "- Nguyễn Mạnh Quang -"
-source: "https://sachhiem.net/NMQ/HOSOTOIAC/CH08_phuban.php"
+source: "/NMQ/HOSOTOIAC/CH08_phuban"
 lang: vi
 wordCount: 8862
-image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nha.jpg"
 ---
 
 <p class="Tuaduoi">LỊCH SỬ VÀ HỒ SƠ TỘI ÁC </p>
  
  
- <p align="center"><a href="/NMQ/index"><img hspace="20" border="0" src="https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nha.jpg"></a> 16 Feb, 2008</p> 
+ <p align="center"> 16 Feb, 2008</p> 
  
 <center>
 <p class="CHUONG">CHƯƠNG 8 - Phụ Bản</p><hr width="80%">

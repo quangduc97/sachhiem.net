@@ -3,7 +3,7 @@ layout: ../../../layouts/Article.astro
 title: "Việt Nam Thắng Đại Dịch Covid-19"
 author: "Huê Lộc"
 date: 2020-05-13
-source: "https://sachhiem.net/XAHOI/xhH/HueLoc.php"
+source: "/XAHOI/xhH/HueLoc"
 category: "Chính trị"
 lang: vi
 wordCount: 758

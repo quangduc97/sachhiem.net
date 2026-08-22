@@ -3,7 +3,7 @@ layout: ../../../layouts/Article.astro
 title: "Bình luận về Cộng Sản"
 author: "Thư nhóm Taberd"
 date: 2012-01-14
-source: "https://sachhiem.net/THOISU_CT/ChuTh/Thaoluan00.php"
+source: "/THOISU_CT/ChuTh/Thaoluan00"
 category: "Chính trị"
 lang: vi
 wordCount: 4381

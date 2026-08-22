@@ -2,26 +2,25 @@
 layout: ../../../layouts/Article.astro
 title: "Vạ Tuyệt Thông của Giáo Hội"
 author: "TS Trần An Bài"
-source: "https://sachhiem.net/TONGIAO/tgTR/TranAnBai.php"
+source: "/TONGIAO/tgTR/TranAnBai"
 category: "Chính trị"
 lang: vi
 wordCount: 5091
-image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nha.jpg"
+image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/IMG/CARTOON/Excommunication.jpg"
 ---
 
 <p class="Tuaduoi">dành cho người theo Cộng Sản  </p>
 		
 
- <p align="center"><a href="https://www.sachhiem.net/">
-<img border="0" src="https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nha.jpg"></a> 16 tháng 5, 2010	</p>
+ <p align="center"> 16 tháng 5, 2010	</p>
 		<p><i>LTS:  </i><i>Bài viết của tác giả Trần An Bài vô tình cung ứng dữ kiện chứng minh những bản chất của đạo Công Giáo La Mã (mà Tiến Sĩ Trần Chung Ngọc thường gọi là Ca-tô-Rô-Magiáo) mà các tác giả sachhiem.net nhận xét từ lâu nay. Những "niềm tin" của người đạo Chúa luôn luôn mâu thuẫn nhau. Đọc giả quen thuộc với sachhiem.net từng đọc qua nhiều câu tuyên bố đầy sát khí, tham lam, dâm dục của Chúa Cha, Chúa Con (xin đọc Thánh Kinh Chủ Đề 
-		<a href="https://www.sachhiem.net/TONGIAO/tgB/Bernard1.php">https://www.sachhiem.net/TONGIAO/tgB/Bernard1.php</a>), nhưng lại ba hoa chen vào những câu nói đầy ấn tượng về lòng bác ái và nhân từ ("Ai tát má này, con hãy đưa má kia cho người ta tát") để chiêu dụ "những con chiên yếu đuối". Thế cho nên giáo dân khi thì hiền như cừu non, khi thì như cướp ngày, cho nên BTC mới "yêu cầu giáo dân khi đến dự lễ không nên mang theo bất cứ một thứ gì không phù hợp với thánh lễ mừng Đức Tổng Phó Nguyễn Văn Nhơn."		</i> </p>
+		<a href="/TONGIAO/tgB/Bernard1">https://www.sachhiem.net/TONGIAO/tgB/Bernard1.php</a>), nhưng lại ba hoa chen vào những câu nói đầy ấn tượng về lòng bác ái và nhân từ ("Ai tát má này, con hãy đưa má kia cho người ta tát") để chiêu dụ "những con chiên yếu đuối". Thế cho nên giáo dân khi thì hiền như cừu non, khi thì như cướp ngày, cho nên BTC mới "yêu cầu giáo dân khi đến dự lễ không nên mang theo bất cứ một thứ gì không phù hợp với thánh lễ mừng Đức Tổng Phó Nguyễn Văn Nhơn."		</i> </p>
 	<p><i>Câu tuyên bố đầu tiên trong bài này "Học thuyết Cộng Sản (CS) là một quái thai của nhân loại trong thế kỷ 19 và 20" cho thấy tác giả chỉ biết nói theo thói quen bị nhồi sọ những án lệnh của giáo hội cho "Cộng sản" mà thôi. Tác giả quên rằng ông đang nói ngược với giáo lý Công Giáo: "Yêu người như mình vậy". Ông cũng không dám đọc những quyển sách chỉ trích để biết thế giới đang nhìn vào giáo hội của mình có là Thánh hay Qủy. Tác giả cũng không biết rằng ngày nay những người Vô Thần càng ngày càng đông. Sau Karl Max, Thuyết Tiến Hóa của Darwin, là một học thuyết được các nhà trí giả công nhận và được đưa vào chương trình giáo dục của các nước tân tiến. Học thuyết khoa học này vô tình hỗ trợ cho thuyết vô thần của Marx. Mặc dù ngày nay nhiều nước đã theo chính thể dân chủ Âu châu và Bắc Mỹ, nhưng những nước này cũng triệt để loại bỏ quyền lực của Giáo Hội La Mã.  Mạnh nhất là nước Anh, đứng đầu về thể chế dân chủ, cấm không cho người Công Giáo cầm quyền.  Ở các nước khác như Pháp, Hòa Lan, Ý, Tiệp, Ba Lan, Tây Ban Nha,.. đều tách rời Giáo quyền ra khỏi thế quyền. Ông Tiến Sĩ Bài hoàn toàn không biết những thông tin này. </i>  </p>
 	<p><i>"Ngay khi tà thuyết CS ra đời, Giáo Hội Công Giáo chống lại nó một cách mạnh mẽ nhất" không phải vì thuyết Cộng Sản là "quái thai" hay "để bảo vệ thế giới của con người"  mà vì thuyết này phủ nhận ông Thượng Đế mà Giáo Hội La Mã dạy phải "yêu mến hết linh hồn và hết trí khôn."&nbsp; Lẽ đương nhiên chỉ có những người thờ Thượng Đế mới sợ ông Thượng Đế biến mất vì ảnh hưởng thuyết Vô Thần mà thôi. Đừng vơ các tôn giáo khác vào!</i></p>
 <p>	<i>Ông Tiến Sĩ Bài nói "Chúa Thánh Thần soi sáng hết mọi thành phần dân Chúa", 
 	" không nhất thiết phải là ở các chức sắc cao cấp trong Giáo Hội." cho thấy sự mâu thuẫn trong "niềm tin" về "Chúa Thánh Thần", chưa kể mâu thuẫn giữa "ơn Chúa Thánh Thần" và thuộc tính "Không thể sai lầm" của 
 	Giáo Hoàng.  "Ơn Chúa Thánh Thần" của tiến sĩ Bài còn gặp phải một mâu thuẫn nữa. Khi một con chiên phải yêu Chúa hết trí khôn (xem bài "Phản biện của một giáo dân" 
-    <a href="https://sachhiem.net/EMAILS/emailN/NguyenDinhHao.php">https://sachhiem.net/EMAILS/emailN/NguyenDinhHao.php</a>, nhưng một mặt Chúa Thánh Thẩn cứ "ban trí khôn" cho con chiên. Thế thì làm sao con chiên yêu Chúa đến tận trí khôn được?  Hay là cái trí khôn mà Chúa Thánh Thần ban cho chỉ dành để yêu Chúa mà thôi. Chúa ban cho ta chỉ để ta trả lại Chúa! Vậy thì huề vốn! Chẳng hiểu ta cầu xin để làm gì cho mệt. Đó là chuyện chỉ có thể "nhắm mắt không thấy mà tin" mới xong.</i></p>
+    <a href="/EMAILS/emailN/NguyenDinhHao">https://sachhiem.net/EMAILS/emailN/NguyenDinhHao.php</a>, nhưng một mặt Chúa Thánh Thẩn cứ "ban trí khôn" cho con chiên. Thế thì làm sao con chiên yêu Chúa đến tận trí khôn được?  Hay là cái trí khôn mà Chúa Thánh Thần ban cho chỉ dành để yêu Chúa mà thôi. Chúa ban cho ta chỉ để ta trả lại Chúa! Vậy thì huề vốn! Chẳng hiểu ta cầu xin để làm gì cho mệt. Đó là chuyện chỉ có thể "nhắm mắt không thấy mà tin" mới xong.</i></p>
 	<p><i>Khi Tiến Sĩ Bài kể ra những bản án "Vạ Tuyệt Thông" của Vatican, như lời hăm dọa đối với các chức sắc hay giáo dân trong toàn thể giáo hội, thì ông cũng chứng minh hùng hồn cái bản chất bất nhân, bất hoà, và bất cộng tác của hội "thánh" La Mã. Trong khi chính quyền Cộng Sản chấp nhận cho Công Giáo tự do hành đạo trong khuôn khổ nhà thờ như các đạo khác, thì những người chăn chiên luôn hô hào một mất một còn, đe dọa những ai cộng tác với chính quyền. Như thế thì lấy ở đâu ra một sự bảo đảm rằng khi quyền bính vào tay Công Giáo rồi thì thiên hạ sẽ sống trong hòa bình nếu không chịu theo đạo? (Lịch sử đã chứng minh hai chữ "không thể" rồi). Không biết ai mới là "quái thai" trên trái đất này?  </i></p>
 	<p><i>Hy vọng những người tín hữu để dành một chút trí khôn  do "Chúa Thánh Thần" soi sáng để nhận ra rằng "Vạ Tuyệt Thông" chẳng là cái thá gì. Nếu Giáo Hội tuyệt giao, tuyệt thông, thì ta cứ chào từ biệt và chúc lành cho Giáo hội, thoải mái thôi. </i></p>
 	<p><i><b>Bổ túc 5/16/2010 20:13</b>: Nhận xét của GS Trần Chung Ngọc trong bài "NHÂN ĐỌC VÀI BẢN TIN TRÊN VIETCATHOLIC" 
@@ -288,8 +287,8 @@ image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nha.jpg"
       <a href="https://saigonecho.com/main/tintuc/74-features/18259-vatuyetthongchocongsan.html"> - https://saigonecho.com/main/tintuc/74-features/18259-vatuyetthongchocongsan.html</a> Thứ Sáu, 07 Tháng 5 Năm 2010 03:22	</p>
 		<p>________________</p>
 		<p class="TuaDenLeft">Bài liên quan:</p>
-		<p>- <a href="https://sachhiem.net/DOITHOAI/SH/Diemkenh.php">Lời Nguyền của Giáo Hoàng Pio 12 </a>(BBT SH) </p>
-		<p>- <a href="https://sachhiem.net/SACHNGOAI/SH/SH48.php">Giáo Hoàng Pius XII Và Cộng Sản: Vạ Tuyệt Thông</a> (SH tóm lược)</p>
+		<p>- <a href="/DOITHOAI/SH/Diemkenh">Lời Nguyền của Giáo Hoàng Pio 12 </a>(BBT SH) </p>
+		<p>- <a href="/SACHNGOAI/SH/SH48">Giáo Hoàng Pius XII Và Cộng Sản: Vạ Tuyệt Thông</a> (SH tóm lược)</p>
 <p class="TuaDenLeft">Bài đọc thêm:</p>
 	<p class="nguonL">◄ 
 	<a href="https://vietcatholic.org/News/Clients/ReadArticle.aspx?ID=34488">Những Vụ Vạ Tuyệt Thông Trong Lịch Sử Của Giáo Hội Công Giáo</a> VietCatholic News, 05 May 2006 </p>

@@ -3,7 +3,7 @@ layout: ../../../layouts/Article.astro
 title: "Ernest Medina, nhân vật chủ chốt trong cuộc thảm sát Mỹ Lai, qua đời ở tuổi 81"
 author: "Tin MSN"
 date: 2018-05-14
-source: "https://sachhiem.net/THOISU_CT/ChuT/TinMSN.php"
+source: "/THOISU_CT/ChuT/TinMSN"
 category: "Chính trị"
 lang: vi
 wordCount: 1098

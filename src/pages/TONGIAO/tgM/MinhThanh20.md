@@ -3,7 +3,7 @@ layout: ../../../layouts/Article.astro
 title: "Hoan Nghênh Và Cảm Ơn Trang Mạng “Sách Hiếm” Đăng Bài Từ Facebook “Minh Thạnh”"
 author: "Minh Thạnh"
 date: 2021-10-08
-source: "https://sachhiem.net/TONGIAO/tgM/MinhThanh20.php"
+source: "/TONGIAO/tgM/MinhThanh20"
 category: "Chính trị"
 lang: vi
 wordCount: 617

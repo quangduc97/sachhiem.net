@@ -3,7 +3,7 @@ layout: ../../../layouts/Article.astro
 title: "Tìm Hiểu Xem Ai Phá Rừng?"
 author: "FB Nguyễn Viết Khương"
 date: 2020-10-20
-source: "https://sachhiem.net/TONGIAO/FB/FBNVK.php"
+source: "/TONGIAO/FB/FBNVK"
 category: "Tác giả"
 lang: vi
 wordCount: 181

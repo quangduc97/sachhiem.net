@@ -3,7 +3,7 @@ layout: ../../../layouts/Article.astro
 title: "Việc Đưa Hoàng Sa Ra Trọng Tài Quốc Tế"
 author: "Dương Danh Huy/ BBC"
 date: 2012-04-02
-source: "https://sachhiem.net/THOISU_CT/ChuB/BBC01.php"
+source: "/THOISU_CT/ChuB/BBC01"
 category: "Chính trị"
 lang: vi
 wordCount: 1923

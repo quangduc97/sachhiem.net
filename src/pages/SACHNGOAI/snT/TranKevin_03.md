@@ -3,7 +3,7 @@ layout: ../../../layouts/Article.astro
 title: "Kế Hoạch Rút Quân Khỏi Việt Nam Của Kennedy"
 author: "Kevin Trần dịch"
 date: 2016-06-04
-source: "https://sachhiem.net/SACHNGOAI/snT/TranKevin_03.php"
+source: "/SACHNGOAI/snT/TranKevin_03"
 category: "Chính trị"
 lang: vi
 wordCount: 4037

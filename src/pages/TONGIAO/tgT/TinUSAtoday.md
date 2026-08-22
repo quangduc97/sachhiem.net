@@ -3,7 +3,7 @@ layout: ../../../layouts/Article.astro
 title: "Người đàn ông cầm gạch; Mục sư cầm súng"
 author: "USA Today"
 date: 2015-10-21
-source: "https://sachhiem.net/TONGIAO/tgT/TinUSAtoday.php"
+source: "/TONGIAO/tgT/TinUSAtoday"
 category: "Chính trị"
 lang: vi
 wordCount: 524

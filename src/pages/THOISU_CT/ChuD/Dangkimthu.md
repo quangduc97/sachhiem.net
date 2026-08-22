@@ -3,7 +3,7 @@ layout: ../../../layouts/Article.astro
 title: "Thân Phận Của Đại Tá Cao Văn Viên"
 author: "Đặng Kim Thu"
 date: 2013-04-28
-source: "https://sachhiem.net/THOISU_CT/ChuD/Dangkimthu.php"
+source: "/THOISU_CT/ChuD/Dangkimthu"
 category: "Tác giả"
 lang: vi
 wordCount: 4758

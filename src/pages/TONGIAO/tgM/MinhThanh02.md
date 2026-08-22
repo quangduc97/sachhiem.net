@@ -2,11 +2,11 @@
 layout: ../../../layouts/Article.astro
 title: "cải đạo tín đồ Phật giáo"
 author: "Minh Thạnh"
-source: "https://sachhiem.net/TONGIAO/tgM/MinhThanh02.php"
+source: "/TONGIAO/tgM/MinhThanh02"
 category: "Tác giả"
 lang: vi
 wordCount: 1702
-image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nha.jpg"
+image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/IMG/Caidao.jpg"
 ---
 
 <p class="Tuaduoi">Mắt xích cải đạo tu sĩ trong tiến trình </p>
@@ -14,8 +14,7 @@ image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nha.jpg"
 		
 
 
-<p align="center"><a href="https://www.sachhiem.net/">
-	<img border="0" src="https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nha.jpg"></a> 02 tháng 01, 2010	</p>
+<p align="center"> 02 tháng 01, 2010	</p>
 <div style="border-top: 1px solid #949494; border-bottom: 1px solid #949494; padding-top: 8px; padding-bottom: 8px">
 		<font color="#606060">Cải đạo được một tu sĩ Phật giáo là phá hoại thành trì Phật giáo ở những khâu trọng yếu nhất. Một tu sĩ Phật giáo cải đạo sẽ có tác động lớn đối với đông đảo Phật tử mà vị tu sĩ đó đã hóa độ.</font></div>
 
@@ -145,5 +144,5 @@ chiến dịch cải đạo tín đồ Phật giáo đang bùng phát, có phả
 <p><a href="/tgN/NguyenVPhung">Vì Chúng Sinh - Ngăn Ngừa Việc Cải Đạo (Nguyễn Văn Phụng)</a></p>
 <p><a href="/TONGIAO/MinhNgoc">Đôi Lời Chia Sẻ Về Vấn Đề Hôn Nhân Khác Tôn Giáo (Minh Ngọc)</a></p>
 <p><a href="/TONGIAO/MinhThanh04">“Lập lờ đánh lận”… ông trời! (Minh Thạnh)</a></p>
-<p> <a href="https://sachhiem.net/TONGIAO/tgN/NgHDuc.php">Phật Tử Không
+<p> <a href="/TONGIAO/tgN/NgHDuc">Phật Tử Không
           Bao Giờ Được Nói Câu "Đạo Nào Cũng Tốt" (Nguyễn Hữu Đức)</a></p>

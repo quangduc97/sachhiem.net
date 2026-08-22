@@ -2,11 +2,11 @@
 layout: ../../../layouts/Article.astro
 title: "Cựu tổng thống Mỹ Bill Clinton tới Hà Nội"
 author: "VnExpress"
-source: "https://sachhiem.net/null"
+source: "/null"
 category: "Chính trị"
 lang: vi
 wordCount: 637
-image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nha.jpg"
+image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/Hinh/US-VN/Clintonvisit14-11-2010.JPG"
 ---
 
 <div align="center" style="position: relative; left: 0; top: 0">
@@ -27,8 +27,7 @@ image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nha.jpg"
 	<div style="padding-left: 40px; padding-right: 40px">
 	
 		<table border="0" cellpadding="10" width="600" cols="2"><tbody><tr>
-		<td width="326"><a href="/index">
-		<img border="0" src="https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nha.jpg"></a></td>
+		<td width="326"></td>
 		<td valign="top">	14 tháng 11, 2010		</td></tr></tbody></table>
 		<p> <span class="First">T</span>rưa 14/11, tại Trụ sở Chính phủ, Thủ tướng Nguyễn Tấn Dũng đã có buổi tiếp cựu Tổng thống Hoa Kỳ, ông Bill Clinton đang có chuyến công tác tại Việt Nam.</p>
 		<p class="center">

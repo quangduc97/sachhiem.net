@@ -3,7 +3,7 @@ layout: ../../../layouts/Article.astro
 title: "Chuyện Dặm Trường Mê Mải"
 author: "Trần Khách Quan"
 date: 2017-05-11
-source: "https://sachhiem.net/TONGIAO/tgTR/TranKhachQuan01.php"
+source: "/TONGIAO/tgTR/TranKhachQuan01"
 category: "Chính trị"
 lang: vi
 wordCount: 4640

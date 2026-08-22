@@ -2,15 +2,14 @@
 layout: ../../../layouts/Article.astro
 title: "Vụ Án Đặng Văn Nhâm"
 author: "Minh Mẫn"
-source: "https://sachhiem.net/MINHMAN/Chinhtri/Minhman3.php"
+source: "/MINHMAN/Chinhtri/Minhman3"
 lang: vi
 wordCount: 2157
-image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nha.jpg"
+image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/Hinh/dvn.jpg"
 ---
 
 <table border="0" align="center" cellpadding="1" width="250"><tbody><tr>
-	<td width="110"><a href="https://www.sachhiem.net/">
-	<img border="0" src="https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nha.jpg"></a></td>
+	<td width="110"></td>
 	<td valign="top" style="text-align:right"> 5&nbsp; tháng 8, 2007
 	</td></tr></tbody></table>
 <p><b><font face="Vivaldi" size="6">T</font></b>rên đất nước Hoa Kỳ,việc tố tụng xẩy ra như cơm bữa, nhưng ít có  những vụ liên can đến tôn giáo, để người ta phải quan tâm! vì thế, vụ các đấng chủ chăn lạm dụng tình dục, khuấy rối tình dục, cho đến vụ Đặng văn Nhâm bôi lọ tu sĩ PG mà từ lâu PG vẫn xem đó là chuyện thị phi, chả ai quan tâm và chả cần phải thanh minh, vì thế họ Đặng, người cầm bút đánh mất lương tri và danh dự nghiệp vụ, càng lún sâu vào ác nghiệp, đến khi quả báo đến, một sự phản kháng của giới liễu yếu đào tơ, đã làm Đặng Văn Nhâm gục mặt trốn chạy.

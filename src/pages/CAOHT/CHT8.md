@@ -3,7 +3,7 @@ layout: ../../layouts/Article.astro
 title: "BẠN, THÙ VÀ ĐAM MÊ"
 author: "Cao Huy Thuần"
 date: 2016-09-08
-source: "https://sachhiem.net/CAOHT/CHT8.php"
+source: "/CAOHT/CHT8"
 category: "Tác giả"
 lang: vi
 wordCount: 7820

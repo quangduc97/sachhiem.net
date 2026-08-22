@@ -3,7 +3,7 @@ layout: ../../../layouts/Article.astro
 title: "Tra Tấn, Kiểu Mỹ-"
 author: "Don Luce /Hoài Nam chuyển ngữ"
 date: 2017-05-25
-source: "https://sachhiem.net/SACHNGOAI/H/HoaiNam01.php"
+source: "/SACHNGOAI/H/HoaiNam01"
 category: "Chính trị"
 lang: vi
 wordCount: 2315

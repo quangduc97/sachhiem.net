@@ -3,7 +3,7 @@ layout: ../../../layouts/Article.astro
 title: "Chủ Nghĩa Diệm Mới"
 author: "Minh Thạnh"
 date: 2019-05-05
-source: "https://sachhiem.net/TONGIAO/tgM/MinhThanh16.php"
+source: "/TONGIAO/tgM/MinhThanh16"
 category: "Tác giả"
 lang: vi
 wordCount: 2415
@@ -57,7 +57,7 @@ image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/LICHSU/IMG/NGODD/Gio
 <p>   Phản hồi riêng đối với các bài tranh luận đặc biệt:  vinasat132@yahoo.com,&nbsp;<a href="https://www.facebook.com/cusiminhthanh/?__xts__%5B0%5D=68.ARChwVIaVimBdD2PdL5B_QSYkhFPAgAuqMLSMf1fh6FfmdYjdzFWNvLcbx7idkEBmkCwgbExOV0BszJjKtC_GIovUXDG6jvRmCLh_sjxxl0VWrOcWeprG7KQ5RW-40XN2GGkAcCsKFdF6u1KvL8B7vUGASCJ1kEbhHiXnioDmVvw9p0B-mIUjGaZSdR2CXFCFImiC3sqTOAXRLy9aIsqHhaWoI0EAq2Em8dtmZQcqZJgCaAeI4bb6EUhU4fOH-VlGXHOCErQMCvBsuatbqr5FQu0xDcsAAJh_2KW0zaxAPa5KVSXCDwbeYar_dEQ5VFMqSlPKr0eRaigyz7CAutGKSxKkw&amp;__xts__%5B1%5D=68.ARCVjNC4Uq3KBuEBZSVAQT94cB5PSZuxXM2kCvBunL-o2Nxns6p2XFecYoqMS4LcrOHxWLy7Wf8_EmZQe1-k9bgu53MVC9fItPVgeLXIltXMYjGjh2TSLEtS27IGQBN6cQ9eJnv0xv0nSggV0e786ZSO-iahWlQlrmNJ3jGsTKOpM3xZrshWdh__QgNYezfTZTiAhdlXInog5IgdIFHjWM6IRxt0z9IyhCzGL0AdW_XkZb3tTRGQhEPlXqz14IlS4qDQOqRdiaLU7mlpwJQQEzvztgZabgLQHd23nQP5SVdC4VhZio-7wL2RU5akJ6_-pFCvHKBC8v6MU4G-VVrFVx6OMDAV&amp;__tn__=K-R&amp;eid=ARDW7Gkm1OV02S0ssSQ-bjHKOFncPOw5KzDqlO9OgMVu5WItDg7X5VGqKIy75nH2nEmkWpZf0fKU53rp&amp;fref=mentions" data-hovercard="/ajax/hovercard/page.php?id=1383258865223058&amp;extragetparams=%7B%22__tn__%22%3A%22%2CdK-R-R%22%2C%22eid%22%3A%22ARDW7Gkm1OV02S0ssSQ-bjHKOFncPOw5KzDqlO9OgMVu5WItDg7X5VGqKIy75nH2nEmkWpZf0fKU53rp%22%2C%22fref%22%3A%22mentions%22%7D" data-hovercard-prefer-more-content-show="1">vi-vn.facebook.com/cusiminhthanh</a>, ĐT: 0915553610.</p>
 <p>____________________________</p>
 <p><b>Đọc thêm:</b></p>
-<p><a href="https://sachhiem.net/index.php?content=showemail&amp;id=2852">- Lật tẩy thêm một sự vu khống của truyền thông con chiên</a>- Hình ảnh thật về việc anh Nguyễn Văn Hòe phá máy ảnh của giáo xứ Mỹ Khánh. Tin ngày 6 tháng 5, 2019</p>
+<p><a href="/hop-thu/2852">- Lật tẩy thêm một sự vu khống của truyền thông con chiên</a>- Hình ảnh thật về việc anh Nguyễn Văn Hòe phá máy ảnh của giáo xứ Mỹ Khánh. Tin ngày 6 tháng 5, 2019</p>
 <p>____________________________</p>
 <p><b>NHẬN XÉT:</b></p>
 <p><a href="https://www.facebook.com/profile.php?id=100016275420894"><b>Anh-Tuan  LE</b></a>&nbsp;4 loại truyền thông mà Cư Sĩ  Minh Thạnh nhìn thấy trong chủ trương của Công Giáo Rôma thực chính xác, và là  một nét nhìn khám phá.</p>

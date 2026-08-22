@@ -3,7 +3,7 @@ layout: ../../../layouts/Article.astro
 title: "Tôi Đã Gặp Kẻ Ăn Thịt Người"
 author: "Nguyễn Hồng Hải"
 date: 2014-11-01
-source: "https://sachhiem.net/LICHSU/N/NgHongHai.php"
+source: "/LICHSU/N/NgHongHai"
 category: "Chính trị"
 lang: vi
 wordCount: 580
@@ -12,7 +12,7 @@ image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/TONGIAO/IMG/VATICAN/
 
 <p>From: Nguyễn Hồng Hải &lt; x.hongcon@yahoo.com &gt;
     <br> Date: 9-30-14</p> 
-  <p><span class="First">H</span>ồi còn ở trại tị nạn Ft Chaffee, tôi ở khu B, cạnh giường một ông thượng sĩ già, quen gọi là thượng sĩ Của. Họ thì tôi không biết, ông cho biết hồi ông Diệm còn sống ông là lính của Lê Quang Tung, phòng vệ phủ Tổng Thông. (xem thêm <a href="https://sachhiem.net/NMQ/TAMTHU/NMQtt_13b.php">Những Việc Làm "Sáng Danh Chúa" Của Giáo Hội</a>)</p>
+  <p><span class="First">H</span>ồi còn ở trại tị nạn Ft Chaffee, tôi ở khu B, cạnh giường một ông thượng sĩ già, quen gọi là thượng sĩ Của. Họ thì tôi không biết, ông cho biết hồi ông Diệm còn sống ông là lính của Lê Quang Tung, phòng vệ phủ Tổng Thông. (xem thêm <a href="/NMQ/TAMTHU/NMQtt_13b">Những Việc Làm "Sáng Danh Chúa" Của Giáo Hội</a>)</p>
   <p>Ông kể chuyện cho chúng tôi nghe, khi ông về làm việc ở Bến Tre, ông <b>bắt được một người du kích VC , sau đó mổ bụng người này lấy gan</b> và mang đến một quán nhậu mà chủ quán là con gái ông VC kia , nhờ cô chủ quán xào nấu. </p>
   <p>Sau khi đưa lên bàn nhậu, ông và các chiến hữu chia nhau ăn gan người và không quên mời cô chủ quán một miếng và còn hỏi "<i>gan có ngon không</i>"? Sau khi tính tiền ra đi ông mới cho cô con gái biết là cô vừa ăn thịt cha mình. </p>
   <p>Cô gái nghe xong chết giấc. </p>

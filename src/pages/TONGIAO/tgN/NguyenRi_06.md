@@ -3,7 +3,7 @@ layout: ../../../layouts/Article.astro
 title: "Thăm Dò Ý Kiến: Tín Hữu Ở Châu Mỹ La Tinh Tiếp Tục Rời Bỏ Đức Tin Ca-tô Rô-ma Giáo."
 author: "JENNY BARCHFIELD/ Nguyễn Ri dịch"
 date: 2014-12-06
-source: "https://sachhiem.net/TONGIAO/tgN/NguyenRi_06.php"
+source: "/TONGIAO/tgN/NguyenRi_06"
 category: "Tác giả"
 lang: vi
 wordCount: 778
@@ -26,4 +26,4 @@ image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/TONGIAO/IMG/VATICAN/
 <p class="TacgiaL">Nguyễn Ri dịch</p>
 <p class="nguonL">Nguồn <a href="https://news.yahoo.com/poll-latin-america-catholics-steadily-leave-faith-050615912.html">https://news.yahoo.com/poll-latin-america-catholics-steadily-leave-faith-050615912.html</a>&nbsp;&nbsp;</p>
 __________________
- <p>Các bài của Nguyễn Ri: link <a href="https://sachhiem.net/TONGIAO/tgN/ListRiNguyen.inc.php" target="_blank">https://sachhiem.net/TONGIAO/tgN/ListRiNguyen.inc.php</a></p>
+ <p>Các bài của Nguyễn Ri: link <a href="/TONGIAO/tgN/ListRiNguyen.inc" target="_blank">https://sachhiem.net/TONGIAO/tgN/ListRiNguyen.inc.php</a></p>

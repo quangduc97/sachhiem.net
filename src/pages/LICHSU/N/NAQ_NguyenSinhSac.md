@@ -2,7 +2,7 @@
 layout: ../../../layouts/Article.astro
 title: "Nấm mộ ông Thầy Quảng"
 author: "BS Trần Nguơn Phiêu"
-source: "https://sachhiem.net/LICHSU/N/NAQ_NguyenSinhSac.php"
+source: "/LICHSU/N/NAQ_NguyenSinhSac"
 category: "Lịch sử"
 lang: vi
 wordCount: 2942

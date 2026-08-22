@@ -3,7 +3,7 @@ layout: ../../layouts/Article.astro
 title: "Câu Chuyện Đình Chỉ Giỗ Vua Quang Trung ở Miếu Đôi - Phần 2"
 author: "Nguyễn Đắc Xuân"
 date: 2023-10-02
-source: "https://sachhiem.net/NDX/NDX037a.php"
+source: "/NDX/NDX037a"
 category: "Lịch sử"
 lang: vi
 wordCount: 1569
@@ -11,7 +11,7 @@ image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/LICHSU/IMG/LAT_SU/Qu
 ---
 
 <div class="tomluoc">
-       <p><i><a href="https://sachhiem.net/NDX/NDX037.php">(tiếp theo Phần 1)</a></i></p>
+       <p><i><a href="/NDX/NDX037">(tiếp theo Phần 1)</a></i></p>
        <p><i>Trong lúc chờ kết luận của cuộc hội thảo do Tỉnh tổ chức sắp đến, chúng tôi thực hiện ý kiến của báo Thừa Thiên Huế từ nay “xin tạm dừng cuộc tranh luận, trao đổi tại đây”.</i> (NĐX)</p>
      </div>
      

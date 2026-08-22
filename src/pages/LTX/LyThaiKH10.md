@@ -3,7 +3,7 @@ layout: ../../layouts/Article.astro
 title: "Hành Tinh của Yuri - Nhìn Từ Không Gian"
 author: "Lý Thái sưu tầm"
 date: 2012-04-16
-source: "https://sachhiem.net/LTX/LyThaiKH10.php"
+source: "/LTX/LyThaiKH10"
 category: "Khoa học"
 lang: vi
 wordCount: 183

@@ -3,7 +3,7 @@ layout: ../../../layouts/Article.astro
 title: "John F. Kennedy Và Cuộc Chính Biến 1-11-1963"
 author: "Đỗ Kim Thêm /VietBao"
 date: 2018-11-01
-source: "https://sachhiem.net/LICHSU/T/tinVietBao.php"
+source: "/LICHSU/T/tinVietBao"
 category: "Lịch sử"
 lang: vi
 wordCount: 13996
@@ -119,7 +119,7 @@ image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/LICHSU/IMG/HoaKy/Ken
 <p>  Nội dung của bản Phúc trình gồm có các điểm: Điều 44 Dụ số 10 là nguyên nhân dẫn đến bất bình đẳng tôn giáo, khi tách riêng  Thiên Chúa giáo như một ngoại lệ. Việc bắt giam hàng loạt Tăng ni Phật tử không  chứng cứ là có thật. Chính phủ thừa nhận khoảng 300 người còn bị giam. Lãnh đạo  Phật giáo hoàn toàn hoạt động độc lập, không mang mục đích chính trị và bị Cộng  sản kích động. Những cáo buộc cho là Thượng tọa Thích Trí Quang đã sử dụng phong trào Phật giáo  như một công cụ phục vụ mưu đồ chính trị là việc quy chụp. </p>
 <p align="center"><img src="https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/SACHNGOAI/Hinhanh/BIASACH/DocA-5630.jpg" width="511" height="526" alt=""></p>
 <p align="center"><i>Trang Mục lục của <b>Phúc  trình số A/5630</b> của Phái &nbsp;đòan Liên Hiệp Quốc Điều tra Nam Việt Nam (Report of the United Nations Fact-Finding Mission to South  Viet-Nam).</i></p>
-<p>Xem chi tiết nội dung Phúc  trình nầy <a href="https://sachhiem.net/SACHNGOAI/snT/TamDieu_NgKha.php">tại  đây</a>: </p>
+<p>Xem chi tiết nội dung Phúc  trình nầy <a href="/SACHNGOAI/snT/TamDieu_NgKha">tại  đây</a>: </p>
 <p><a href="https://thuvienhoasen.org/a17701/phuc-trinh-a-5630-da-ket-luan-nhu-the-nao">https://thuvienhoasen.org/a17701/phuc-trinh-a-5630-da-ket-luan-nhu-the-nao</a></p>
 <p class="TuaDenLeft"><b>Tin đồn đảo chính</b></p>
 <p>Do đâu mà có tin đồn đảo chính? Ngày 23 tháng 8 năm 1963, Tướng Lê văn Kim, Tham Mưu Phó của Tướng Đôn, cho  Rufus Phillips, Giám đốc Ủy ban Hoa Kỳ về Bình định và Phát triển Nông thôn, biết là ấn tượng xấu mà  dân chúng gán cho quân đội sẽ làm khó khăn hơn trong việc chống Cộng. Nguyên  nhân mọi biến động là do việc tiếm quyền của ông bà Nhu.  Loại trừ ông bà Nhu ra khỏi guống máy thì quân đội và dân chúng sẽ đoàn kết với chính quyền. Tướng Kim thăm dò phản ứng của Mỹ về việc đảo chính xảy  ra: nếu Mỹ ủng hộ việc giữ lại ông Diệm và bỏ ảnh hưởng của gia đình họ Ngô và  bè phái là tốt.</p>

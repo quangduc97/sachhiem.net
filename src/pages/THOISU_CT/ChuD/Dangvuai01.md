@@ -3,7 +3,7 @@ layout: ../../../layouts/Article.astro
 title: "Không Thể Chấp Nhận Những Luận Cứ Bênh Vực \"Ngài Phản Quốc\" Hoàng Quỳnh"
 author: "BS Đặng Vũ Ái"
 date: 2013-03-10
-source: "https://sachhiem.net/THOISU_CT/ChuD/Dangvuai01.php"
+source: "/THOISU_CT/ChuD/Dangvuai01"
 category: "Chính trị"
 lang: vi
 wordCount: 2210
@@ -17,7 +17,7 @@ image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/TONGIAO/IMG/HoaSen1.
 
 <p><i>LTS: "Hắn không có quyền hành động theo lương tâm của chính mình, hay có quyền chọn lựa những nguyên lý sống có thể giúp hắn.  Hắn là một tín đồ Công giáo, một đứa trẻ đòi người khác chọn lựa thay cho hắn..<br>
    Do đó, người Công giáo không thể biết ý nghĩa thực của sự đối thoại, chỉ biết đưa ra những luận cứ để chống đỡ cái lập trường mà hắn đã thừa hưởng từ khi còn nhỏ...<br> Người Công giáo là một dịch vụ trả lời có tổ chức mà nhiệm vụ đầu tiên của hắn là bảo vệ giáo hội của hắn..."</i></p>
-<p><i>Đó là lời của Linh Mục Kavanaugh (A Modern Priest Looks at his Outdated Church, trg.31) được trích dẫn  trong bài Sự Thật Về Lộ Đức (Lourdes) <a href="https://www.sachhiem.net/TCN/TCNtg/TCN55.php">https://www.sachhiem.net/TCN/TCNtg/TCN55.php</a> của GS Trần Chung Ngọc. Đọc để biết thêm tại sao người Ca-tô luôn luôn ngụy biện để bênh vực những sự sai   trái của những người Ca-tô giáo như Ngô Đình Diệm, Trần Lục,... Họ chỉ thực hành "lương tâm Công Giáo" của họ mà thôi.</i></p>
+<p><i>Đó là lời của Linh Mục Kavanaugh (A Modern Priest Looks at his Outdated Church, trg.31) được trích dẫn  trong bài Sự Thật Về Lộ Đức (Lourdes) <a href="/TCN/TCNtg/TCN55">https://www.sachhiem.net/TCN/TCNtg/TCN55.php</a> của GS Trần Chung Ngọc. Đọc để biết thêm tại sao người Ca-tô luôn luôn ngụy biện để bênh vực những sự sai   trái của những người Ca-tô giáo như Ngô Đình Diệm, Trần Lục,... Họ chỉ thực hành "lương tâm Công Giáo" của họ mà thôi.</i></p>
 <p><i>Ngày nay, nhờ phương tiện truyền thông trở nên hữu hiệu tối đa, một số người Việt bắt đầu tiếp cận được một số tài liệu lịch sử của đạo tự xưng Công Giáo. Những người này khi đọc những bức thư của những người có "lương tâm Công Giáo" đó, thực sự đã không chịu được, và đã phản ứng như thể hiện trong bức thư sau đây. </i> (SH)</p>
  <hr>
 <p><i>Subject: PHẬT TỬ 90 % DÂN SỐ : XIN QUÝ PHẬT TỬ HÃ Y THỰC THI QUYỀN DÂN CHỦ   THEO ĐA SỐ - KHÔNG THỂ CHẤP NHẬN NHỮNG LUẬN CỨ BÊNH VỰC BẰNG MỌI GIÁ   "NGÀI  PHẢN QUỐC HOÀNG QUỲ NH_" <br>
@@ -99,4 +99,4 @@ image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/TONGIAO/IMG/HoaSen1.
 <p>BS DVA</p>
 <p>_________________</p>
 <p><b>Bài khác của BS Đặng Vũ Ái</b></p>
-<p>-<a href="https://sachhiem.net/THOISU_CT/ChuD/Dangvuai02.php">Những Mệnh Đề Rời - Cho Một Việt Nam Đoàn Kết(BS Đặng Vũ Ái)</a></p>
+<p>-<a href="/THOISU_CT/ChuD/Dangvuai02">Những Mệnh Đề Rời - Cho Một Việt Nam Đoàn Kết(BS Đặng Vũ Ái)</a></p>

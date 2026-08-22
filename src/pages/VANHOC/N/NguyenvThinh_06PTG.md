@@ -3,7 +3,7 @@ layout: ../../../layouts/Article.astro
 title: "Xuyên Tạc Lịch Sử Là Mang Tội!"
 author: "BS. Nguyễn Văn Thịnh"
 date: 2015-02-06
-source: "https://sachhiem.net/VANHOC/N/NguyenvThinh_06PTG.php"
+source: "/VANHOC/N/NguyenvThinh_06PTG"
 category: "Lịch sử"
 lang: vi
 wordCount: 7788

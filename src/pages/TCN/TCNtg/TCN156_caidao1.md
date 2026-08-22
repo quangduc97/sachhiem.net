@@ -3,12 +3,12 @@ layout: ../../../layouts/Article.astro
 title: "Kitô Giáo – Công Giáo, Tin Lành Và Sách Lược Cải Đạo Á Châu"
 author: "Trần Chung Ngọc"
 date: 2016-01-25
-source: "https://sachhiem.net/TCN/TCNtg/TCN156_caidao1.php"
+source: "/TCN/TCNtg/TCN156_caidao1"
 lang: vi
 wordCount: 27680
 ---
 
-<p><a href="https://sachhiem.net/TCN/TCNtg/TCN156_caidao.php">(xem Phần Một ---&gt;)</a></p>
+<p><a href="/TCN/TCNtg/TCN156_caidao">(xem Phần Một ---&gt;)</a></p>
  <a class="PHAN" name="end1"> <p> <b><u>PHẦN  HAI</u></b> </p></a>
 <p class="Tuaduoi">  <b>Thần Học Ki Tô Giáo Theo Cung Cách Châu Á</b></p>
 <p class="Tuaduoi">&amp; Những Thủ Đoạn Cải Đạo Á Châu</p>

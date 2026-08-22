@@ -3,7 +3,7 @@ layout: ../../../layouts/Article.astro
 title: "Để Nhớ 147 Năm Ngày Sinh Cụ Huỳnh Thúc Kháng"
 author: "Nguyễn Tuấn Anh*"
 date: 2023-09-19
-source: "https://sachhiem.net/LICHSU/T/TuanAnh01.php"
+source: "/LICHSU/T/TuanAnh01"
 category: "Lịch sử"
 lang: vi
 wordCount: 133

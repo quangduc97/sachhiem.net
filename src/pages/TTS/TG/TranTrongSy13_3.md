@@ -3,7 +3,7 @@ layout: ../../../layouts/Article.astro
 title: "TÍNH KHÔNG & HƯ VÔ CHỦ NGHĨA (IV)"
 author: "Trần Trọng Sỹ"
 date: 2021-05-17
-source: "https://sachhiem.net/TTS/TG/TranTrongSy13_3.php"
+source: "/TTS/TG/TranTrongSy13_3"
 category: "Tác giả"
 lang: vi
 wordCount: 9458

@@ -2,18 +2,18 @@
 layout: ../../../layouts/Article.astro
 title: "Chùa Báo Thiên"
 author: "Phật Tử ViệtNam"
-source: "https://sachhiem.net/LICHSU/P/PTVN.php"
+source: "/LICHSU/P/PTVN"
 category: "Tác giả"
 lang: vi
 wordCount: 2762
-image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nha.jpg"
+image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/LICHSU/IMG/Caigiengco.jpg"
 ---
 
 <p class="Tuaduoi">có bị thực dân Pháp và tay sai phá đi xây Nhà thờ Lớn? </p>
 		
 
 
-<p align="center"><a href="https://sachhiem.net/index.php"><img border="0" hspace="20" src="https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nha.jpg"></a>29 tháng 2, 2008</p>
+<p align="center">29 tháng 2, 2008</p>
 
 <p class="PicLeft"><img src="https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/LICHSU/IMG/Caigiengco.jpg" width="150" border="0"><br>Giếng đá cổ chùa Báo Thiên<br>
 - của báu  còn lại </p>

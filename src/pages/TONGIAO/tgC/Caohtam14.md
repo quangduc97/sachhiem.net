@@ -3,7 +3,7 @@ layout: ../../../layouts/Article.astro
 title: "Quanh Việc Điều Trần Và “Cải Tổ” của Giáo Hoàng"
 author: "Cao Hữu Tâm"
 date: 2014-06-03
-source: "https://sachhiem.net/TONGIAO/tgC/Caohtam14.php"
+source: "/TONGIAO/tgC/Caohtam14"
 category: "Tác giả"
 lang: vi
 wordCount: 3821

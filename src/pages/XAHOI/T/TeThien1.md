@@ -2,14 +2,13 @@
 layout: ../../../layouts/Article.astro
 title: "Những Lời Nói Dối Nặng Ký"
 author: "Tề Thiên"
-source: "https://sachhiem.net/null"
+source: "/null"
 category: "Chính trị"
 lang: vi
 wordCount: 8402
-image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nha.jpg"
 ---
 
-<p align="center"> <a href="https://sachhiem.net/index.php"><img border="0" src="https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nha.jpg" hspace="20"></a>	16 tháng 10, 2008
+<p align="center"> 	16 tháng 10, 2008
 	</p>
 
 			
@@ -55,7 +54,7 @@ image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nha.jpg"
 			chín từng mây, mà chỉ là mối liên hệ riêng tư và sống động giữa cá 
 			nhân của chính con người với Chúa Ba Ngôi</i>." <b>Nguyên văn</b>: 
 			"Heaven is not an abstraction nor a physical place amid the clouds, 
-			but a living personal relationship with the Holy Trinity".<a href="https://www.sachhiem.net/NMQ/NMQ7.php#%5B1%5D">[1]
+			but a living personal relationship with the Holy Trinity".<a href="/NMQ/NMQ7#%5B1%5D">[1]
 			</a></p>
 			<p> b/- <a name="Về_chuyện_địa_ngục">
 			<b>Về chuyện địa ngục</b></a>, cũng chính Giáo Hoàng John Paul II đã 
@@ -68,7 +67,7 @@ image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nha.jpg"
 			<b>Nguyên văn</b>: "Hell is not a punishment imposed extremely by 
 			God, but the condition resulting from attitudes and actions which 
 			people adopt in this life")
-			<a href="https://www.sachhiem.net/NMQ/NMQ7.php#%5B2%5D">
+			<a href="/NMQ/NMQ7#%5B2%5D">
 			[2]</a> </p>
 			<p>3- <a name="Về_việc_che_chở_của_Chúa,">
 			<b>Về "việc Chúa quan phòng</b>".</a> Cũng chính Giáo Hoàng John 
@@ -103,7 +102,7 @@ image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nha.jpg"
 			người dân đóng góp để bảo vệ tính mạng cho Ngài? trong khi Ngài chỉ 
 			đi rao giảng tình thương của Chúa? Phải chăng Ngài đã có nhiều kẻ 
 			thù? Nội thù hay ngoại thù</i>?"
-			<a href="https://www.sachhiem.net/NMQ/NMQ7.php#%5B3%5D">
+			<a href="/NMQ/NMQ7#%5B3%5D">
 			[3] </a></p>
 			
 			<p> Những tín lý 
@@ -422,7 +421,7 @@ image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nha.jpg"
 			<b>Đạo lý</b> và <b>Chánh Danh</b> của những người theo đạo "công 
 			giáo La Mã" hay không?</p>
 			<p> Trong tác phẩm <b><i>Thiên hồ ! Đế 
-			hồ ! </i></b>(<b>Trời ơi! Chúa ơi!</b>)<a href="https://www.sachhiem.net/NMQ/NMQ7.php#%5B2%5D">[4]</a> 
+			hồ ! </i></b>(<b>Trời ơi! Chúa ơi!</b>)<a href="/NMQ/NMQ7#%5B2%5D">[4]</a> 
 			Cụ Phan Bội Châu, đã vạch trần thủ đoạn độc ác tàn nhẫn của bọn thực 
 			dân thời Pháp còn cai trị, về : Giáo dục, Pháp luật, Thuế khóa, 
 			Quan lại…Ngoài ra Cụ Phan còn nêu đích danh những kẻ đội lốt tôn 
@@ -628,7 +627,7 @@ image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nha.jpg"
 			đều do Giáo Hội mà ra cả. Vì giới hạn của bài viết này, chúng tôi sẽ 
 			chỉ đề cập đến phần tội ác do Giáo Hội chủ ý gây ra, mà không đề cập 
 			đến phần tội ác do các tín đồ gây ra</i>."
-			<a href="https://www.sachhiem.net/NMQ/NMQ7.php#%5B2%5D">
+			<a href="/NMQ/NMQ7#%5B2%5D">
 			[7]</a>.</p>
 			
 			<p>Cùng với đa số dân Việt phi công giáo, tôi muốn nhắn 
@@ -649,11 +648,11 @@ image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nha.jpg"
 			<p class="TuaDenLeft">Chú thích <b>
 			:</b></p>
 			<p>
-			<a href="https://www.sachhiem.net/NMQ/NMQ7.php#%5B2%5D">
+			<a href="/NMQ/NMQ7#%5B2%5D">
 			[1]</a>.,
-			<a href="https://www.sachhiem.net/NMQ/NMQ7.php#%5B2%5D">
+			<a href="/NMQ/NMQ7#%5B2%5D">
 			[2]</a>.,
-			<a href="https://www.sachhiem.net/NMQ/NMQ7.php#%5B2%5D">
+			<a href="/NMQ/NMQ7#%5B2%5D">
 			[3]</a>., là phần chú thích của Gs Nguyễn Mạnh Quang trong bài viết 
 			: </p>
 			<p>"Thư Ngỏ Gửi Quý vị Tu sĩ Ca-tô và giáo dân 
@@ -662,19 +661,19 @@ image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nha.jpg"
 			<p>Tôi xin phép Gs Nguyễn Mạnh Quang được trích lại, 
 			để độc giả tiện việc theo dõi, thành thật cám ơn Gs :</p>
 			<p>
-			<a href="https://www.sachhiem.net/NMQ/NMQ7.php#%5B2%5D">
+			<a href="/NMQ/NMQ7#%5B2%5D">
 			[1]</a> : [Phan Đình Diệm (Học Hội Giêsu Kitô Phục Sinh)."Tuyên Cáo 
 			8" tháng 8/1999, (Điều 1, trang 2, ngày 19/9/1999].</p>
 			<p>
-			<a href="https://www.sachhiem.net/NMQ/NMQ7.php#%5B2%5D">
+			<a href="/NMQ/NMQ7#%5B2%5D">
 			[2]</a>: Jude Webber, "No Fire or brimstone, but hell's real, pope 
 			says," Houston Chronicle, July 29, page 26A.</p>
 			<p>
-			<a href="https://www.sachhiem.net/NMQ/NMQ7.php#%5B2%5D">
+			<a href="/NMQ/NMQ7#%5B2%5D">
 			[3]</a>: Tuần Báo Việt Nam Mới Số 345 ra ngày Thứ Sáu, 22/8/1997 - 
 			Phát hành tại Seattle, Washington]</p>
 			<p>
-			<a href="https://www.sachhiem.net/NMQ/NMQ7.php#%5B2%5D">
+			<a href="/NMQ/NMQ7#%5B2%5D">
 			[4]</a> <b><i>Thiên hồ! Đế Hồ!</i></b> tác phẩm của Cụ Phan Bội 
 			Châu, được Gs Chương Thâu sưu tầm và biên dịch, trong sách ghi nhà 
 			xuất bản /KHXH-Hà Nội 1978. Cuối bìa sách ghi : Thiên Hồ! Đế Hồ! Một 
@@ -685,18 +684,18 @@ image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nha.jpg"
 			tôi ngờ rằng bốn chữ đó là một thành ngữ trong sách cổ Trung Hoa nào 
 			đó (ghi chú của Học giả Nguyễn Hiến Lê).</p>
 			<p>
-			<a href="https://www.sachhiem.net/NMQ/NMQ7.php#%5B2%5D">
+			<a href="/NMQ/NMQ7#%5B2%5D">
 			[5]</a>,
-			<a href="https://www.sachhiem.net/NMQ/NMQ7.php#%5B2%5D">
+			<a href="/NMQ/NMQ7#%5B2%5D">
 			[6]</a> trích trong tác phẩm : "Con Đường Hạnh Phúc" của hai tác 
 			giả : Viên Minh và Trần Minh Tài.</p>
 			<p>
-			<a href="https://www.sachhiem.net/NMQ/NMQ7.php#%5B2%5D">
+			<a href="/NMQ/NMQ7#%5B2%5D">
 			[7]</a> Trong bài viết : "Thư Ngỏ Gửi Quý vị Tu sĩ Ca-tô và giáo 
 			dân người Việt" đăng trên trang nhà : www.sachhiem.net ngày : 08 
 			tháng 8, 2007 bổ túc ngày 04 tháng 10, 2008, tôi Kopie lại đoạn văn 
 			trong phần chú thích
-			<a href="https://www.sachhiem.net/NMQ/NMQ7.php#%5B2%5D">
+			<a href="/NMQ/NMQ7#%5B2%5D">
 			[12]</a> của Gs Nguyễn Mạnh Quang.</p>
 						
 			<hr>

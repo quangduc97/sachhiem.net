@@ -3,7 +3,7 @@ layout: ../../../layouts/Article.astro
 title: "“Cuộc Chiến” Giữa Cái “Thâm” Của Người Tầu Với Cái “Khôn” Của Người Việt"
 author: "Đông La"
 date: 2015-11-07
-source: "https://sachhiem.net/THOISU_CT/ChuD/DongLa04.php"
+source: "/THOISU_CT/ChuD/DongLa04"
 category: "Chính trị"
 lang: vi
 wordCount: 3415

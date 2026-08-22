@@ -3,7 +3,7 @@ layout: ../../../layouts/Article.astro
 title: "Việt Nam Trong Cơn Sóng Gió"
 author: "Howard Nguyễn"
 date: 2014-06-06
-source: "https://sachhiem.net/THOISU_CT/ChuH/HowardNguyen01.php"
+source: "/THOISU_CT/ChuH/HowardNguyen01"
 category: "Tác giả"
 lang: vi
 wordCount: 914

@@ -3,7 +3,7 @@ layout: ../../../layouts/Article.astro
 title: "Nọc Độc Của Tư Tưởng Nô Lệ Vọng Ngoại Phi Dân Tộc"
 author: "Kim Âu"
 date: 2018-06-23
-source: "https://sachhiem.net/THOISU_CT/ChuK/KimAu.php"
+source: "/THOISU_CT/ChuK/KimAu"
 category: "Chính trị"
 lang: vi
 wordCount: 5816

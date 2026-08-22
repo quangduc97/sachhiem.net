@@ -2,7 +2,7 @@
 layout: ../../layouts/Article.astro
 title: "Priest and Drugs"
 author: "from ABC - USA Today"
-source: "https://sachhiem.net/nguồn: https://www.giaodiemonline.com/noidung_detail.php?newsid=2784"
+source: "/nguồn: https://www.giaodiemonline.com/noidung_detail.php?newsid=2784"
 lang: en
 wordCount: 899
 image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nhacu.jpg"
@@ -30,7 +30,7 @@ image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nhacu.jpg"
 <table border="1" cellpadding="40" cellspacing="0" width="100%" topmargin="10"> 
 	<tbody><tr><td width="100%" bgcolor="White" align="justify" valign="top">	
   <table border="0" cellpadding="10" width="100%" cols="2"><tbody><tr>
-	<td valign="top"><a href="https://sachhiem.net/"><img border="0" src="https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nhacu.jpg" width="49" height="20"></a></td>
+	<td valign="top"><a href="/"><img border="0" src="https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nhacu.jpg" width="49" height="20"></a></td>
 	<td valign="top" style="text-align:right">	đăng ngày 12 tháng 9, 2008
 	</td></tr></tbody></table>
  

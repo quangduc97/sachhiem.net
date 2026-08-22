@@ -2,7 +2,7 @@
 layout: ../../../layouts/Article.astro
 title: "Chào Thua"
 author: "Anthony Darlic"
-source: "https://sachhiem.net/null"
+source: "/null"
 lang: vi
 wordCount: 2294
 image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/HOANGNN/CCCT056/TedKen_1.jpg"

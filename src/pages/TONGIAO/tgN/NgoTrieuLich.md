@@ -2,20 +2,19 @@
 layout: ../../../layouts/Article.astro
 title: "Nhận Định Về Văn Kiện"
 author: "Ngô triệu Lịch"
-source: "https://sachhiem.net/TONGIAO/tgN/NgoTrieuLich.php"
+source: "/TONGIAO/tgN/NgoTrieuLich"
 category: "Tác giả"
 lang: vi
 wordCount: 35170
-image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nha.jpg"
+image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/TONGIAO/IMG/SACH/TonghuanGHAC.jpg"
 ---
 
 <p class="Tuaduoi"><a href="https://anthanhlinhgiang.blogspot.com/2011/04/tc-gioan-phaolo-ii-tong-huan-ecclesia.html">(Ecclesia In Asia)</a></p>
 		
 		
 
-<p align="center"><a href="https://www.sachhiem.net/">
-	<img border="0" src="https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nha.jpg"></a> 15 tháng 9,  2009 </p>
-	<p>Đây là một trong ba tập viết bởi ba tác giả, cùng in chung trong quyển <a href="https://sachhiem.net/TCN/TCNtg/TCN156_kitohoa.php">"Kitô Giáo – Tuyển Tập Kế Hoạch Cải Đạo Á Châu".</a>)</p>
+<p align="center"> 15 tháng 9,  2009 </p>
+	<p>Đây là một trong ba tập viết bởi ba tác giả, cùng in chung trong quyển <a href="/TCN/TCNtg/TCN156_kitohoa">"Kitô Giáo – Tuyển Tập Kế Hoạch Cải Đạo Á Châu".</a>)</p>
 	<p><b>NỘI DUNG</b></p>
 <div style="border-left: solid thick #933" class="indentLR50">	
 			<p><b>LỜI NGỎ</b></p>
@@ -214,7 +213,7 @@ KHÁI QUÁT VỀ ĐẤT NƯỚC VÀ CON NGƯỜI DO THÁI</b></p>
 	qúy tộc đã được “xức dầu”. “Vị Cứu Tinh” hoặc “Cứu Thế” là vị anh hùng cứu 
 	quốc, mang sứ mạng giải phóng dân tôc Do Thái ra khỏi kiếp nô lệ ngoại 
 	bang. </p>
-	<p><a href="https://sachhiem.net/TONGIAO/tgN/NgoTrieuLich_01.php">3. GIÊSU CÓ PHẢI LÀ MỘT MÊSIA KHÔNG?</a></p>
+	<p><a href="/TONGIAO/tgN/NgoTrieuLich_01">3. GIÊSU CÓ PHẢI LÀ MỘT MÊSIA KHÔNG?</a></p>
 	<p>Giêsu ra đời trong bối cảnh dân Do Thái đang ngưỡng vọng về một anh hùng dân 
 	tộc, vị cứu tinh có khả năng giải phóng đất nước ra khỏi cảnh lầm than, cơ 
 	cực dưới sự thống trị của đế quốc La Mã. Kinh Thánh của Do Thái giáo mô tả 
@@ -1621,7 +1620,7 @@ KHÁI QUÁT VỀ ĐẤT NƯỚC VÀ CON NGƯỜI DO THÁI</b></p>
 	Đạo “Vàng Chứ” của dân tộc Mông ở biên giới phía Bắc và “Nhà nước Tin Lành 
 	ĐêGa” của các sắc tộc Giarai, Bana, Eđê… ở cao nguyên miền Trung là một bài 
 	học mà bất kỳ nhà cầm quyền nào cũng phải đề phòng…. </p>
-	<p><a href="https://sachhiem.net/TONGIAO/tgN/NgoTrieuLich_02.php">8.	VỀ MỘT VẤN 	ĐỀ “GÂY KHÓ CHỊU” CỦA VATICAN NHƯNG KHÔNG PHẢI CHO NGƯỜI CHÂU Á</a></p>
+	<p><a href="/TONGIAO/tgN/NgoTrieuLich_02">8.	VỀ MỘT VẤN 	ĐỀ “GÂY KHÓ CHỊU” CỦA VATICAN NHƯNG KHÔNG PHẢI CHO NGƯỜI CHÂU Á</a></p>
 	<p> <b>	Sự xung đột thần học giữa 
 	những người anh em Hồi giáo, Do Thái giáo với Kitô giáo.</b></p>
 	<p> Đoạn số 12, Tông huấn viết: <i>“Điều gây khó chịu nhất 
@@ -2467,18 +2466,18 @@ KHÁI QUÁT VỀ ĐẤT NƯỚC VÀ CON NGƯỜI DO THÁI</b></p>
 <p>________________ </p>
   <p><b>Cùng đề tài:</b></p>
   <p>- Nhận Định Về Văn Kiện “Tông Huấn Giáo Hội Tại Châu Á” (Ngô triệu Lịch)
-<a href="https://sachhiem.net/TONGIAO/tgN/NgoTrieuLich.php">https://sachhiem.net/TONGIAO/tgN/NgoTrieuLich.php</a></p>
+<a href="/TONGIAO/tgN/NgoTrieuLich">https://sachhiem.net/TONGIAO/tgN/NgoTrieuLich.php</a></p>
   <p>- Vài Ý Kiến Về Vấn Đề Bang Giao Với Vatican (Trần Chung Ngọc)<br>
-    <a href="https://sachhiem.net/TCN/TCNts/TCNts34.php">https://sachhiem.net/TCN/TCNts/TCNts34.php</a></p>
+    <a href="/TCN/TCNts/TCNts34">https://sachhiem.net/TCN/TCNts/TCNts34.php</a></p>
   <p>- Từ Tông Huấn Á Châu Của Giáo Hoàng Gioan Phaolồ II Đến Hịch Xuất Quân Của Vua Quang Trung (Trí Tánh ĐHT)<br>
     <a href="/TONGIAO/tgTR/TriTanhDHT02">https://sachhiem.net/TONGIAO/tgTR/TriTanhDHT02.php</a>  </p>
       <p>- Tâm Thư Gửi Nhà Nước Việt Nam (Nguyễn Mạnh Quang)<br>
-    <a href="https://sachhiem.net/NMQ/TAMTHU/NMQtt_Main.php">https://sachhiem.net/NMQ/TAMTHU/NMQtt_Main.php</a>   </p>
+    <a href="/NMQ/TAMTHU/NMQtt_Main">https://sachhiem.net/NMQ/TAMTHU/NMQtt_Main.php</a>   </p>
   <p>___________</p>
   <p><b>Cùng tác giả:</b></p>
-  <p>- <a href="https://sachhiem.net/TONGIAO/tgN/NgoTrieuLich_02.php">Về Một Vấn Đề “Gây Khó Chịu” Của Vatican Nhưng Không Phải Cho Người Châu Á</a> (Ngô triệu Lịch) </p>
-  <p>- <a href="https://sachhiem.net/TONGIAO/tgN/NgoTrieuLich_01.php">Giêsu Có Phải Là Một Tiên Tri Không? </a> (Ngô triệu Lịch)</p>
-  <p>- <a href="https://sachhiem.net/TONGIAO/tgN/NgoTrieuLich.php">Nhận Định Về Văn Kiện “Tông Huấn Giáo Hội Tại Châu Á”</a> (Ecclesia In Asia) - (Ngô triệu Lịch) </p>
-  <p>- <a href="https://sachhiem.net/TONGIAO/tgN/NgoTrieuLich_03.php">Sách Lược Mục Vụ Của Vatican - Hội Nhập Văn Hóa Hay Xâm Lăng Văn Hóa?</a> (Ngô Triệu Lịch) </p> 		
+  <p>- <a href="/TONGIAO/tgN/NgoTrieuLich_02">Về Một Vấn Đề “Gây Khó Chịu” Của Vatican Nhưng Không Phải Cho Người Châu Á</a> (Ngô triệu Lịch) </p>
+  <p>- <a href="/TONGIAO/tgN/NgoTrieuLich_01">Giêsu Có Phải Là Một Tiên Tri Không? </a> (Ngô triệu Lịch)</p>
+  <p>- <a href="/TONGIAO/tgN/NgoTrieuLich">Nhận Định Về Văn Kiện “Tông Huấn Giáo Hội Tại Châu Á”</a> (Ecclesia In Asia) - (Ngô triệu Lịch) </p>
+  <p>- <a href="/TONGIAO/tgN/NgoTrieuLich_03">Sách Lược Mục Vụ Của Vatican - Hội Nhập Văn Hóa Hay Xâm Lăng Văn Hóa?</a> (Ngô Triệu Lịch) </p> 		
   
 </strong>

@@ -3,7 +3,7 @@ layout: ../../layouts/Article.astro
 title: "Hai Người Ơn Trên Đất Mỹ"
 author: "Lý Thái Xuân"
 date: 2018-11-25
-source: "https://sachhiem.net/LTX/LyThaiXH33.php"
+source: "/LTX/LyThaiXH33"
 category: "Xã hội"
 lang: vi
 wordCount: 2796

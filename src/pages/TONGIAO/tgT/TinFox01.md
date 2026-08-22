@@ -3,7 +3,7 @@ layout: ../../../layouts/Article.astro
 title: "Bồ Câu Hòa Bình Bị Chim Khác Tấn Công"
 author: "Tin FoxNews"
 date: 2014-01-26
-source: "https://sachhiem.net/TONGIAO/tgT/TinFox01.php"
+source: "/TONGIAO/tgT/TinFox01"
 category: "Tác giả"
 lang: vi
 wordCount: 289

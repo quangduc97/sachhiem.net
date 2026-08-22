@@ -3,7 +3,7 @@ layout: ../../../../layouts/Article.astro
 title: "Giao Điểm 39-40: Bài Diễn Văn Hay Nhất Thiên Niên Kỷ"
 author: "Thu Giang"
 date: 2014-07-25
-source: "https://sachhiem.net/TONGIAO/GD39_40/Dienvan/ThuGiang.php"
+source: "/TONGIAO/GD39_40/Dienvan/ThuGiang"
 category: "Văn hóa"
 lang: vi
 wordCount: 29

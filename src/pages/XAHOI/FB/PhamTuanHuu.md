@@ -3,7 +3,7 @@ layout: ../../../layouts/Article.astro
 title: "Không Thể Tin Nổi Những Luận Án Tiến Sỹ Ở \"Lò Ấp\" Mang Tên Viện Hàn Lâm"
 author: "Bác sĩ Lê Hữu Nghị"
 date: 2022-05-05
-source: "https://sachhiem.net/XAHOI/FB/PhamTuanHuu.php"
+source: "/XAHOI/FB/PhamTuanHuu"
 category: "Chính trị"
 lang: vi
 wordCount: 344

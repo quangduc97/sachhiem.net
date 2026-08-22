@@ -2,7 +2,7 @@
 layout: ../../../layouts/Article.astro
 title: "CÂU CHUYỆN CUỐI TUẦN"
 author: "Huỳnh Bất Hoặc"
-source: "https://sachhiem.net/(tặng anh chị Nguyễm Mạnh Quang, đầu bếp của sachhiem.net)"
+source: "/(tặng anh chị Nguyễm Mạnh Quang, đầu bếp của sachhiem.net)"
 lang: vi
 wordCount: 3310
 image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nhacu.jpg"
@@ -29,7 +29,7 @@ image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nhacu.jpg"
 
 	
   <table border="0" cellpadding="10" width="100%" cols="2"><tbody><tr>
-	<td valign="top"><a href="https://sachhiem.net/">
+	<td valign="top"><a href="/">
 	<img border="0" src="https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nhacu.jpg" width="49" height="20"></a></td>
 	<td valign="top" style="text-align:right">	đăng ngày 19&nbsp; tháng 8, 2007
 	</td></tr></tbody></table>

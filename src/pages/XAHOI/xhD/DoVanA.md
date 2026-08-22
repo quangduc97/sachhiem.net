@@ -2,10 +2,10 @@
 layout: ../../../layouts/Article.astro
 title: "CHIẾN TRANH VÀ TÌNH NGƯỜI"
 author: "Đỗ Văn A"
-source: "https://sachhiem.net/Chiến dịch County Fair https://www.historynet.com/the-night-the-viet-cong-stopped-the-war.htm"
+source: "/Chiến dịch County Fair https://www.historynet.com/the-night-the-viet-cong-stopped-the-war.htm"
 lang: vi
 wordCount: 13020
-image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nha.jpg"
+image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/LICHSU/IMG/CountyFair.jpg"
 ---
 
 <div align="center" style="position: relative; left: 0; top: 0">
@@ -19,7 +19,7 @@ image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nha.jpg"
 		<tr><td>
 			<div style="margin-left: 50; margin-right: 50">
 <table border="0" cellpadding="10" width="86%" cols="">
-<tbody><tr><td><a href="/index"><img border="0" src="https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nha.jpg"></a></td>
+<tbody><tr><td></td>
 <td valign="top" style="text-align:right"><i><font size="2">17 tháng 4, 2011	</font></i></td>
 </tr></tbody></table> 
 <p><span class="First">T</span>ờ 

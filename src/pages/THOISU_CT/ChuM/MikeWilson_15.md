@@ -3,7 +3,7 @@ layout: ../../../layouts/Article.astro
 title: "Đọc \"Những Ngày Tháng Tới\" của ông Trần Trung Đạo"
 author: "Mike Wilson"
 date: 2016-11-11
-source: "https://sachhiem.net/THOISU_CT/ChuM/MikeWilson_15.php"
+source: "/THOISU_CT/ChuM/MikeWilson_15"
 category: "Chính trị"
 lang: vi
 wordCount: 4284

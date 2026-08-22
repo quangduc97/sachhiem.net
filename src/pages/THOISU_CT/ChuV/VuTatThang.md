@@ -3,7 +3,7 @@ layout: ../../../layouts/Article.astro
 title: "Kế Sách Đồng Bộ Để Phòng Chống Tham Nhũng"
 author: "Vũ Tất Thắng"
 date: 2015-09-14
-source: "https://sachhiem.net/THOISU_CT/ChuV/VuTatThang.php"
+source: "/THOISU_CT/ChuV/VuTatThang"
 category: "Chính trị"
 lang: vi
 wordCount: 5410

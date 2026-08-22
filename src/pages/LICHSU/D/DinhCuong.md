@@ -3,7 +3,7 @@ layout: ../../../layouts/Article.astro
 title: "Lật Trang Sử Cũ: Cố Du Là Ai?"
 author: "Đinh Cương"
 date: 2016-04-04
-source: "https://sachhiem.net/LICHSU/D/DinhCuong.php"
+source: "/LICHSU/D/DinhCuong"
 category: "Chính trị"
 lang: vi
 wordCount: 2475
@@ -58,7 +58,7 @@ image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/TONGIAO/IMG/TRUYENDA
   <p><b>Bài đọc thêm:</b></p>
   <p> - Kế Hoạch Xâm Nhập Vào Đỉnh Cao Quyền Lực VN Của Vatican
     Võ Đông Cung /KBCHN</p>
-  <p><a href="https://sachhiem.net/LICHSU/K/KBCHN_VDC.php">https://sachhiem.net/LICHSU/K/KBCHN_VDC.php</a></p>
+  <p><a href="/LICHSU/K/KBCHN_VDC">https://sachhiem.net/LICHSU/K/KBCHN_VDC.php</a></p>
   
 <div align="center"><div class="fb-share-button" data-layout="button" data-size="large" data-actiob="like" data-show-faces="true" data-share="true" data-mobile-iframe="true"></div>
 </div>

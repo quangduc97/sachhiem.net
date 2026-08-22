@@ -2,11 +2,11 @@
 layout: ../../../layouts/Article.astro
 title: "Nơi Bản Tuyên Ngôn Độc Lập Được Viết"
 author: "của VNExpress"
-source: "https://sachhiem.net/null"
+source: "/null"
 category: "Chính trị"
 lang: vi
 wordCount: 1587
-image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nha.jpg"
+image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/LICHSU/IMG/INDEPENDANT/TuyenNgon_48PhoHangNgang.jpg"
 ---
 
 <div align="center" style="position: relative; left: 0; top: 0">
@@ -27,8 +27,7 @@ image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nha.jpg"
 <tr> <td width="100%"> 
 <div style="padding-left: 50px; padding-right: 50px; padding-top: 0px; padding-bottom: 0px;">
 		<table border="0" cellpadding="0" cellspacing="0" topmargin="10" width="600"> 
-		<tbody><tr><td valign="top"><a href="/index">
-			<img border="0" src="https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nha.jpg"></a></td>
+		<tbody><tr><td valign="top"></td>
 	<td valign="top" width="260">	<font size="2">02 tháng 9, 2010	</font>	</td></tr></tbody></table>
 		<p><span class="First">Ở</span> tuổi 97, bà Hoàng Thị Minh Hồ vẫn giữ nét đẹp của người phụ nữ Hà 
 		Nội gốc: Gương mặt phúc hậu, nước da trắng, giọng nói ấm áp và thái độ 

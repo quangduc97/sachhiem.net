@@ -2,17 +2,17 @@
 layout: ../../../layouts/Article.astro
 title: "Tâm Thư Gửi Nhà Nước Việt Nam"
 author: "Nguyễn Mạnh Quang"
-source: "https://sachhiem.net/NMQ/TAMTHU/NMQtt_13.php"
+source: "/NMQ/TAMTHU/NMQtt_13"
 lang: vi
 wordCount: 4040
-image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nha.jpg"
+image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/print.gif"
 ---
 
-<p align="center"><a href="https://www.sachhiem.net/"> <img border="0" src="https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nha.jpg"></a> | 
-<a target="_blank" href="https://sachhiem.net/NMQ/TAMTHU/NMQtt_13.php">
+<p align="center"> | 
+<a target="_blank" href="/NMQ/TAMTHU/NMQtt_13">
 <img border="0" src="https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/print.gif" width="18" height="18"> 
   bản in</a> | 
-	<a target="_blank" href="https://sachhiem.net/NMQ/TAMTHU/NMQtt_Main.php"><b><font face="Symbol" size="5"> ¿ </font></b> trở ra mục lục</a>
+	<a target="_blank" href="/NMQ/TAMTHU/NMQtt_Main"><b><font face="Symbol" size="5"> ¿ </font></b> trở ra mục lục</a>
  |  31 tháng 12, 2009 </p>
 <p class="CHUONG">PHẦN III</p>
 <center>◎◎◎</center>
@@ -305,10 +305,10 @@ tuyên cáo "Dictatus papae" mà thôi. Lịch sử loài người chưa hề c�
 nào xấc xược và ngược ngạo như vậy!&nbsp; <img border="0" src="https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/sqdot.gif" width="11" height="7"></p>
 
 <div style="border-top: 1px solid #949494; border-bottom: 1px solid #949494; padding-top: 8px; padding-bottom: 8px; background-color: #F1F1F3">
-	Các bài trong chương 13:<p><a target="_blank" href="https://sachhiem.net/NMQ/TAMTHU/NMQtt_13.php">I.- Vơ Vét Quyền Lực: Bản Tuyên Cáo "Dictatus papae" thời Giáo Hoàng Gregory VII</a>
+	Các bài trong chương 13:<p><a target="_blank" href="/NMQ/TAMTHU/NMQtt_13">I.- Vơ Vét Quyền Lực: Bản Tuyên Cáo "Dictatus papae" thời Giáo Hoàng Gregory VII</a>
 	</p>
-	<p><a target="_blank" href="https://sachhiem.net/NMQ/TAMTHU/NMQtt_13a.php">II.- Sự Giàu Có Của Vatican- Phóng Tay Cướp Đoạt Tài Sản Dân Chúng</a></p>
-	<p><a target="_blank" href="https://sachhiem.net/NMQ/TAMTHU/NMQtt_13b.php">III.- Những Hành Động Bạo Ngược và Dã Man Của Nhà Thờ Vatican Và Tín Đồ Ca-Tô 
+	<p><a target="_blank" href="/NMQ/TAMTHU/NMQtt_13a">II.- Sự Giàu Có Của Vatican- Phóng Tay Cướp Đoạt Tài Sản Dân Chúng</a></p>
+	<p><a target="_blank" href="/NMQ/TAMTHU/NMQtt_13b">III.- Những Hành Động Bạo Ngược và Dã Man Của Nhà Thờ Vatican Và Tín Đồ Ca-Tô 
 	</a></p></div>
 
 <p class="TuaDenLeft">CHÚ THÍCH </p>
