@@ -16,6 +16,9 @@ const OUT_FILE = path.join(SITE_ROOT, 'public/admin/config.yml');
 
 const REPO = 'quangduc97/sachhiem.net'; // dùng cho hướng dẫn/ghi chú; backend là git-gateway
 
+// Site Netlify làm cổng Identity (đổi nếu site bị xóa/đổi tên)
+const NETLIFY_SITE = 'https://monumental-sunburst-4bc155.netlify.app';
+
 const authors = JSON.parse(fs.readFileSync(AUTHORS_META_FILE, 'utf8'));
 const categories = [...new Set(Object.values(CATEGORY_MAP))].sort((a, b) => a.localeCompare(b, 'vi'));
 
@@ -59,8 +62,15 @@ const collections = Object.entries(authors).map(([slug, info]) => ({
 }));
 
 const config = {
-  // git-gateway: đăng nhập qua Netlify Identity (không cần lưu token cá nhân)
-  backend: { name: 'git-gateway', branch: 'main' },
+  // git-gateway: đăng nhập qua Netlify Identity (không cần lưu token cá nhân).
+  // Admin nằm trên GitHub Pages (domain khác) nên phải trỏ URL tuyệt đối —
+  // nếu không Decap sẽ gọi /.netlify/... tương đối và bị 404.
+  backend: {
+    name: 'git-gateway',
+    branch: 'main',
+    gateway_url: `${NETLIFY_SITE}/.netlify/git`,
+    identity_url: `${NETLIFY_SITE}/.netlify/identity`,
+  },
   site_url: 'https://quangduc97.github.io/sachhiem.net/',
   display_url: 'https://quangduc97.github.io/sachhiem.net/',
   locale: 'vi',
