@@ -2,4 +2,4 @@ User-agent: *
 Allow: /
 Disallow: /admin/
 
-Sitemap: https://sachhiem.net/sitemap-index.xml
+Sitemap: https://quangduc97.github.io/sachhiem.net/sitemap-index.xml
