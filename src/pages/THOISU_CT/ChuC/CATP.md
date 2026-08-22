@@ -1,0 +1,52 @@
+---
+layout: ../../../layouts/Article.astro
+title: "Về Quyển Sách “Bên Thắng Cuộc”:"
+author: "Song Huy - Ngọc Điệp"
+date: 2013-01-18
+source: "https://sachhiem.net/CATP.php"
+category: "Chính trị"
+lang: vi
+wordCount: 1964
+image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nha.jpg"
+---
+
+<table border="0" cellpadding="0" width="250" align="center">
+            <tbody><tr>
+              <td width="125"><a href="/index"><img border="0" src="https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nha.jpg"></a></td>
+              <td valign="middle">18-Jan-2013</td>
+            </tr>
+          </tbody></table>
+<p><span class="green">1</span> <a href="/THOISU_CT/ChuC/CATP1"><b> 2 </b></a> </p>
+<p>(CATP)<i> Sau  một tháng ra phần 1 sách “Bên thắng cuộc” (BTC), tác giả (Huy Đức) ngày càng  nhận thêm những “phần quà” cay đắng từ những kẻ chống cộng cực đoan ở hải  ngoại. Dù đã cố lấy lòng nhóm này bằng mọi cách: kể khổ cho họ, tâng bốc các  cấp chỉ huy cũ của họ, “lên án cộng sản” thay họ... Thế nhưng, họ vẫn đăng đàn  chửi tác giả không tiếc lời, vẫn hô hào biểu tình, tẩy chay cuốn sách. Đau hơn,  trên một số diễn đàn, Huy Đức được họ xếp chung vào danh sách “chiêu hồi” như:  Bùi Tín, Dương Thu Hương, Vũ Thư Hiên, Trần Khải Thanh Thủy...  </i></p><hr>
+<div class="tomluoc">
+ <p>Gồm:</p>
+ <p><a name="a1" href="/THOISU_CT/#one">- “Sự thật” hay sự...  giả? </a></p>
+ <p><a name="a2" href="/THOISU_CT/ChuC/CATP1#two">- &nbsp;Phản nhân văn</a></p>
+ <p><a name="a3" href="/THOISU_CT/ChuC/CATP1#three">- Ai tung hê “Bên Thắng Cuộc”? </a></p>
+</div>
+<p class="TuaDenLeft"><a name="one" href="/THOISU_CT/#a1">Kỳ 1: </a> “SỰ THẬT” HAY  SỰ... GIẢ? </p>
+<p>
+ Phần đầu sách BTC giới thiệu dài dòng về hàng trăm người nổi tiếng mà tác giả  đã phỏng vấn, trích nhận xét của những “khoa bảng” ở Mỹ, những nhà văn, học giả  trong nước. Rồi thêm phần mục lục dài như “trường ca”; phần chú thích tài liệu  dày cộp, phần tặng người này, cảm ơn người kia. Tác giả tâm sự rằng: “<i>Đã chuẩn  bị tài liệu hơn 20 năm, viết mất 3 năm. Viết trong ý chí muốn vượt qua nỗi sợ  hãi để nói lên sự thật.</i>..”. Thế nhưng, đọc xong hết cuốn sách nặng trịch về  trọng lượng lẫn những kỳ vọng lớn lao của tác giả, người đọc cũng không biết nó  thuộc loại gì? - văn, báo hay sử? Và cái gọi là “sự thật” trong đó đang được  độc giả chứng minh ngược lại! </p>
+<p>Trong sách, đầu này dẫn nguồn ra vẻ rất khoa học,  đầu kia là những chuyện nhặt nhạnh từ những buổi “trà dư tửu hậu” với ai đó.  Rất nhiều chỗ chép lại nguyên văn trên báo chí, trên mạng hay từ một lời kể  chưa được kiểm chứng nào đó. </p>
+<p>Độc giả “Người lính già Oregon” nhận xét trên một  trang web chống cộng: “<i>Tôi quá lời lắm không nếu đánh giá BTC như những chuyện  ngồi lê đôi mách, ai cũng biết rồi, khổ lắm nói mãi, được tác giả góp nhặt lại  kể và in thành sách bán tại Mỹ để kiếm tiền, kiếm danh là điều chắc chắn và dĩ  nhiên kiếm lợi nào đó về chính trị..</i>.”. Đặng Văn Nhâm - một cây bút thuộc “Bên  thua cuộc” (theo cách gọi của Huy Đức) đang sống ở hải ngoại đánh giá: “<i>Nếu ai  đã dằn lòng chịu khó đọc quyển BTC chẳng cần phải suy nghĩ cũng thừa sức nhận  ra lối viết cóp nhặt, vá víu, manh mún lẫn lộn xuyên qua cả hai phía thắng cuộc  và thua cuộc, để chèn nhét thêm vào đó những chuyện đầu Ngô mình Sở..</i>.”. Tác  giả Việt Sơn viết trên blog Bùi Văn Bồng: “<i>Huy Đức đã kỳ công bới móc lịch sử,  cố tình đánh tráo lịch sử một cách trơ tráo..</i>.”.</p>
+<p align="center"> <img src="https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/SACH/Benthangcuoc.jpg" width="150" height="222"></p>
+<p align="center"><i>Bìa sách “Bên thắng cuộc” tập 1</i> </p>
+<p>
+ Nhiều tình tiết trong sách được tác giả và nhóm “cò mồi chém gió” ra sức quảng  cáo, bình luận và nâng thành “phanh phui bí mật lịch sử”; đã bị nhiều bạn đọc  phổ biến cho nhau để làm trò cười về sự ngây ngô, ấu trĩ! (như phần viết về ông  Lê Duẩn được con rể báo tin quân ta vào Phnom Pênh - Campuchia). Xuất hiện trên  các diễn đàn mạng, nhiều người thuộc “Bên thua cuộc” dù đã được tác giả cuốn  sách “ưu ái” nhưng họ vẫn phản ứng gay gắt. Có người viết: “<i>Chỉ đọc vài chục  trang là không thể đọc được, không thể chịu được sự dối trá</i>”... “Nạn nhân” Phạm  Văn Tiền - cựu sĩ quan chế độ cũ nói thẳng: “<i>Nhìn toàn diện, tác giả dường như  muốn diễn đạt và dẫn chứng những điều thật sự xảy ra sau cuộc chiến. Nhưng sự  thật đó là những điều không thật... Những dẫn chứng bịa đặt</i>”... Đặng Văn Nhâm  cũng chung quan điểm: “S<i>ự thật trong BTC của Huy Đức và cả sự thật mà bọn mặc  áo thụng xanh đứng ngoài thổi ống đu đủ như Nguyễn Mạnh Hùng, Đinh Quang Anh  Thái... chỉ là sự thật của những thằng mù sờ voi..</i>.”. </p>
+<p>Như phần viết về giới văn  nghệ sĩ, tu sĩ, trí thức, tư sản của miền Nam sau 30-4-1975, Huy Đức dùng những  câu như: “Chiến dịch bắt bớ văn nghệ sĩ kéo dài” (trang 64),... “Những cuộc bắt  bớ tương tự kéo dài đến năm 1978”... (trang 67). Rồi Huy Đức trích hồi ký của  nhà văn Duyên Anh cho độc giả thấy không khí nghẹt thở của ngày đó. Người đọc  cảm thấy văn nghệ sĩ Sài Gòn bị chính quyền cách mạng đàn áp rất khốc liệt từ  ngoài đời đến nhà tù. Thế nhưng, nếu đọc hồi ký của Duyên Anh - nguồn trích của  Huy Đức, chúng ta sẽ thấy khác. Duyên Anh nói thẳng, ông ta cũng như các nhà  văn, nhà báo Sài Gòn (trong đó có những người bị Duyên Anh lên án là nhận tiền  của Mỹ để làm báo, làm văn chống cộng sản) bị bắt vì đã thành lập tổ chức đối  kháng với chính quyền và bị bắt là đương nhiên. Huy Đức trích Duyên Anh để kể  khổ về đời sống trong tù; còn Duyên Anh lại chỉ rõ tên tuổi những tù nhân giàu  có ăn gà rôti, thịt bò miếng, phở, bánh cuốn... thoải mái, trong lúc cán bộ  trại giam được Duyên Anh mô tả chỉ có cái xe đạp cùn, bịch thuốc rê và ăn độn  dài dài. Duyên Anh chống cộng sát khí nhưng ít ra vẫn còn giữ được sự ngay  thẳng của ngòi bút. Còn Huy Đức thì ngược lại! </p>
+<p>
+ Ở chương “Cải tạo”, tác giả BTC cũng viết bằng “bút pháp” “Lập lờ” như vậy. Huy  Đức ra sức tô vẽ (có khi sử dụng cả chuyện nhảm nhí như Phan Xuân Huy mô tả  trại cải tạo như trại hè) bi kịch của các gia đình có người đi cải tạo để ngầm  “lên án cộng sản”. Nhưng Huy Đức lại không nói đến những <b>nhóm tàn quân</b> hoạt  động phỉ, <b>hàng trăm tổ chức phản động</b> nhen nhóm hoạt động vũ trang, thậm chí  lập căn cứ ngay trong lòng các đô thị. Huy Đức không nói đến <b>máu của hàng trăm  cán bộ, chiến sĩ, nhân dân </b>vẫn phải đổ tức tưởi sau ngày thống nhất đất nước.  Thậm chí quên luôn <b>một bộ phận của chế độ cũ</b> hồi ấy đã ra sức phá hoại cuộc sống  yên vui của nhân dân sau ngày giải phóng; gây tang tóc cho nhiều gia đình qua  <b>các vụ cướp bằng vũ khí rất dã man</b> để lấy vàng vượt biên. Những vụ cướp như vậy  diễn ra khắp các thành phố miền Nam, nhiều nhất là Sài Gòn sau ngày giải phóng.  Đó cũng là những năm <b>bọn Pônpốt </b>bắt đầu quấy phá, xâm lấn từng phần lãnh thổ  của ta, tàn sát dân ta. </p>
+<p>Trong bối cảnh “thù trong giặc ngoài”, vận mệnh đất  nước lại bị đe dọa như vậy, không lẽ chính quyền cách mạng phải đi năn nỉ hơn  một triệu tay súng chuyên nghiệp của “bên thua cuộc” đừng làm loạn? Nếu không  chọn giải pháp đưa họ vào các lớp, các trại cải tạo thì quản lý đội quân to  lớn, được tổ chức chặt chẽ cùng kinh nghiệm chiến đấu này bằng cách gì? Cũng  cần nhắc lại rằng, nhờ chính sách khoan hồng của cách mạng, hơn một triệu tay  súng “bên thua cuộc” đã trở về trong vòng tay của dân tộc, chứ không phải đối  diện với máy chém như đã từng xảy ra ở miền Nam dưới thời chính quyền do Mỹ  dựng lên! Nếu tác giả BTC đọc thêm vài “Hồi ký cải tạo” được xuất bản ở Mỹ, sẽ  thấy ngay cả những cây bút căm thù cộng sản đến tận xương tủy cũng không viết  về “chương cải tạo” phiến diện, và nịnh “bên thua cuộc” thái quá như Huy Đức! Ở  hải ngoại, trong vài năm gần đây, các loại hồi ký “Cải tạo”, “Vượt biên” đã bị  giới nghiên cứu và bà con Việt kiều chê là luẩn quẩn, mốc meo... thì BTC với  hơn 1/3 toàn chép lại chuyện “mốc meo” đó, có gì để gọi là ghê gớm, bí mật để  tác giả phải ầm ĩ là “vượt qua sự sợ hãi nói lên sự thật”?</p>
+<p>
+ BTC với cách nhìn phiến diện như thế về lịch sử, nhưng lại được ông Trần Hữu  Dũng (Đại học Wright, Ohio, USA) cố thổi lên là “cuốn sách hay nhất về lịch sử  Việt Nam sau 1975” thì đúng là chuyện khôi hài!</p>
+<p>
+ Tác giả khoe chuẩn bị cho sách BTC mất 20 năm. Cái đó làm người ta ngưỡng mộ  lao động miệt mài của tác giả, nhưng “cần cù bù khả năng” không phải là con  đường tất yếu đến với chân lý khoa học. Sự cần cù của Huy Đức không thể bù đắp  cho khả năng tổng hợp, phân tích biện chứng cùng với thế giới quan và phương  pháp luận khoa học của người viết sử. Tác giả như bị mất phương hướng trước  đống tài liệu quá lớn, ngộ nhận và hoang tưởng về khả năng “nổ như trái bom”  của cuốn sách nên mụ mẫm, tự mình làm u mê mình. Tác giả “nhai lại” rằng cuộc  chiến đó là “huynh đệ tương tàn” nên mới đặt cuốn sách là “Bên thắng cuộc”. </p>
+<p>Huy  Đức dùng lại câu của Nguyễn Duy: “<i>Suy cho cùng trong mỗi cuộc chiến tranh bên  nào thắng thì nhân dân đều bại</i>” để mở đầu. Nhưng lịch sử cuộc chiến tranh Việt  Nam không phải như vậy. Sau trận Điện Biên Phủ, Pháp thua, dân Việt Nam <b>chấm  dứt 80 năm nô lệ </b>để trở thành người. Theo Hiệp định Genève, Việt Nam tạm chia  làm hai miền, sau hai năm sẽ tổng tuyển cử thống nhất đất nước. Nhưng <b>Mỹ đã  nhảy vào thay Pháp</b>, biến miền Nam trở thành thuộc địa kiểu mới và tiền đồn  chống cộng nhằm<b> chia cắt vĩnh viễn Tổ quốc Việt Nam</b>. Dân tộc ta không tự vạch  ra vỹ tuyến 17 để đánh nhau thêm 21 năm nữa. </p>
+<p>Với khát vọng “Không có gì quý hơn  độc lập tự do”, dân tộc Việt Nam không có sự lựa chọn nào khác là “đánh cho Mỹ  cút, đánh cho ngụy nhào”. Đánh xong thì phải có chính sách quản lý, bảo vệ và xây  dựng đất nước. Đơn giản và rõ ràng như vậy. Việc gọi cuộc chiến tranh giải  phóng miền Nam, thống nhất đất nước là “huynh đệ tương tàn” hay “chiến tranh  Nam - Bắc” chỉ là lý lẽ ngụy biện của những kẻ quỳ gối, muốn trốn tránh mặc cảm  làm nô bộc cho ngoại bang. Lý lẽ đó bị đào thải rồi, bây giờ Huy Đức xài lại để  được đám cò mồi tung hê là “nhận thức mới”!</p>
+<p>
+ Rõ ràng, cuốn sách BTC đã “chém gió” quá đà, cho nên từ thiếu sót, sai lầm này  dẫn đến thiếu sót, sai lầm lớn hơn là dễ hiểu và nó bị nhiều phản ứng cũng là  lẽ tất nhiên!</p>
+<p><i>(Xem tiếp)</i></p>
+<p><span class="green">1</span> <a href="/THOISU_CT/ChuC/CATP1"><b> 2 </b></a> </p>
+
+<p class="TacgiaL">Song Huy - Ngọc Điệp  </p>
+<p class="nguonL">https://www.congan.com.vn/?mod=detnews&amp;catid=942&amp;p=&amp;id=487794</p>

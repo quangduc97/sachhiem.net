@@ -1,0 +1,125 @@
+---
+import BaseLayout from '../layouts/BaseLayout.astro';
+import index from '../data/articles.json';
+import news from '../data/news.json';
+
+const { articles, authors, categories } = index;
+const sorted = [...articles].sort((a, b) => (b.date ?? '').localeCompare(a.date ?? ''));
+const recent = sorted.slice(0, 9);
+const authorList = Object.entries(authors).sort(([a], [b]) => a.localeCompare(b));
+const newsList = [...(news ?? [])].sort((a, b) => (b.date ?? '').localeCompare(a.date ?? '')).slice(0, 15);
+
+const fmtDate = (iso?: string) =>
+  iso
+    ? new Date(`${iso}T12:00:00`).toLocaleDateString('vi-VN', {
+        day: 'numeric',
+        month: 'long',
+        year: 'numeric',
+      })
+    : '';
+
+// Mỗi chuyên mục: 5 bài gần nhất
+const categorySections = Object.entries(categories)
+  .map(([slug, name]) => ({
+    slug,
+    name,
+    items: sorted.filter((a) => a.category === name).slice(0, 5),
+  }))
+  .filter((c) => c.items.length > 0)
+  .sort((a, b) => b.items.length - a.items.length);
+---
+
+<BaseLayout title="Sách Hiếm" current="/">
+  <section class="hero">
+    <h2>Kho sử liệu &amp; sách hiếm Việt Nam</h2>
+    <p>
+      Tuyển tập các bài nghiên cứu, biện chính và đối thoại về lịch sử cận đại,
+      tôn giáo và văn hóa Việt Nam của nhiều tác giả.
+    </p>
+  </section>
+
+  <h2 class="section-title">Bài mới nhất</h2>
+  <div class="card-grid">
+    {
+      recent.map((a) => (
+        <div class="card">
+          {
+            a.image ? (
+              <a href={a.path} class="card-img-link" tabindex="-1">
+                <img class="card-img" src={a.image} alt={a.title} loading="lazy" />
+              </a>
+            ) : (
+              <a href={a.path} class="card-img-link card-img-fallback" tabindex="-1" aria-hidden="true">Sách Hiếm</a>
+            )
+          }
+          <div class="card-meta">
+            <span class="author">{a.author}</span>
+            {a.category ? ` • ${a.category}` : ''} • {fmtDate(a.date)}
+          </div>
+          <div class="card-title"><a href={a.path}>{a.title}</a></div>
+          {a.excerpt && <div class="card-excerpt">{a.excerpt}</div>}
+        </div>
+      ))
+    }
+  </div>
+
+  <h2 class="section-title">Chuyên mục</h2>
+  <div class="card-grid">
+    {
+      categorySections.map((c) => (
+        <div class="card">
+          <div class="card-title"><a href={`/${c.slug}/`}>{c.name}</a></div>
+          <ul class="article-list">
+            {
+              c.items.map((a) => (
+                <li>
+                  <a href={a.path}>
+                    <span class="t">{a.title}</span>
+                    <span class="d">{fmtDate(a.date)}</span>
+                  </a>
+                </li>
+              ))
+            }
+          </ul>
+          <div class="card-meta"><a href={`/${c.slug}/`}>Xem tất cả →</a></div>
+        </div>
+      ))
+    }
+  </div>
+
+  {
+    newsList.length > 0 && (
+      <>
+        <h2 class="section-title">Tin liên kết</h2>
+        <ul class="article-list news-links">
+          {
+            newsList.map((n) => (
+              <li>
+                <a href={n.link} target="_blank" rel="noopener">
+                  <span class="t">{n.title}</span>
+                  <span class="d">{fmtDate(n.date)}</span>
+                </a>
+              </li>
+            ))
+          }
+        </ul>
+      </>
+    )
+  }
+
+  <h2 class="section-title" id="tac-gia">Tác giả</h2>
+  <ul class="article-list">
+    {
+      authorList.map(([slug, info]) => (
+        <li>
+          <a href={`/${slug}/`}>
+            <span class="t">{info.name}</span>
+            <span class="d">
+              {articles.filter((x) => x.authorSlug === slug).length} bài
+            </span>
+          </a>
+        </li>
+      ))
+    }
+  </ul>
+</BaseLayout>

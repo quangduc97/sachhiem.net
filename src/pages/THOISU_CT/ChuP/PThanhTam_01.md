@@ -1,0 +1,62 @@
+---
+layout: ../../../layouts/Article.astro
+title: "Tại sao Việt Nam cần cảnh giác với Ca tô Rô ma"
+author: "TP Thanh Tâm"
+date: 2015-11-20
+source: "https://sachhiem.net/THOISU_CT/ChuP/PThanhTam_01.php"
+category: "Chính trị"
+lang: vi
+wordCount: 2485
+image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/TONGIAO/IMG/TRUYENDAO/FrancisXavier.jpg"
+---
+
+<div class="tomluoc">
+ <p><i>Trong mối tương quan quốc tế luôn biến động, người dân mong muốn nhà nước Việt Nam -dù dưới bất cứ chính thể nào- với kinh nghiệm lịch sử đau thương mà đất nước đã gánh chịu trong qua khứ, nghiên cứu để thấu hiểu sâu sắc những hiểm họa đang đe dọa tương lai của dân tộc hầu có những đối sách thích nghi bảo vệ đất nước về lâu dài. (TP Thanh Tâm)</i></p>
+ <i>(SH: Giặc Tàu hay giặc Tây, sớm hay muộn, dân Việt Nam cũng vẫn có thể  đánh đuổi được. Nhưng giặc Vatican, một khi đã lọt vào, nó như những giọt mực, sẽ thấm vào len, không thể tẩy sạch được).</i>
+  </div>
+  <p><span class="First">B</span>ài viết  không nhằm chống đối tự do tín ngưỡng hay niềm tin  tôn giáo, mà  chỉ với mục đích đưa ra lời  cảnh giác  trước mưu đồ cố hữu, đã có từ xa xưa và vẫn còn tiếp nối trong tương lai,  của thế lực  Ca tô Rô ma. Hy vọng bài viết này là một đóng góp nhỏ nhoi trong những nỗ lực  không ngừng nghỉ của các bậc đàn anh và nhiều tác giả khác với những bài viết  hoặc dịch, nêu lên mưu đồ và tội ác đẫm máu của &nbsp;giáo hội Vatican từ thời trung cổ cho đến ngày  nay, cũng như những tội ác mả họ đã gây ra trên đất nước Việt Nam của chúng ta  trong thời kỳ bị Pháp đô hộ và dưới chế độ Ngô Đình Diệm. (Xin đọc những tác phẩm  của các tác giả Charlie Nguyễn, Nguyễn Mạnh Quang, Trần Chung Ngọc, Trần Tiên  Long, Duyên Sinh, Trần Quang Diệu, Phượng Hoàng Gò Vấp, Lê Dọn Bàn và nhiều tác  giả khác). </p>
+<p>
+ Đối với dân tộc Việt Nam, hiện tại và về tương  lai dài lâu, ngoài hiểm họa giặc phương bắc Trung Hoa với giấc mộng xâm lăng muôn  đời của họ, thì còn phải kể &nbsp;đến họa dân  tộc bị diệt vong trước mưu đồ Ca tô hóa của Vatican.</p>
+<p align="center"><img src="https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/TONGIAO/IMG/TRUYENDAO/FrancisXavier.jpg" width="174" height="293" alt="truyền giáo"> </p>
+<p>Về  hiểm họa xâm lăng của Trung quốc thì dễ hiểu, dễ thấy và nó đã thấm sâu vào  trong máu xương của người Việt. Tuy nhiên, với hiểm họa của Ca tô Rô ma thì rất  khó nhìn thấy và khó ngăn ngừa vì họ hoạt động dưới danh nghĩa truyền bá tôn  giáo. Cộng thêm với sự hiện diện sẵn có của khoảng trên 6 triệu giáo dân, chiếm  khoảng 7% dân số, có khoảng 6000 nhà thờ, nhà nguyện trên toàn nước là mối đe dọa  thường trực cho sự ổn định, an ninh của xã hội, cho nền độc lập tự chủ của đất  nước về dài lâu. Mối đe dọa này mỗi ngày mỗi gia tăng với chiến lược “từng bước  một, xây dựng hàng ngũ giáo dân cuồng tín tuân phục Vatican, dùng người bản địa  làm nô dịch (không phải là tất cả) này để tiếp tục phát triến thế lực, chống  phá hoặc len lõi vào cơ quan nhà nước, tạo áp lực lên chính sách quốc gia, và  bước tiếp theo là tìm cách thay đổi thể chế chính trị mới tuân thủ theo sự lèo  lái của thế lực Ca tô Rô ma để đạt được mục đích cuối cùng là thành lập đế quốc  Ca tô Rô Ma trên đất nước này”. </p>
+<p>
+   Nếu tham vọng xâm lăng của Trung hoa là hiểm  họa trực diện thì mưu lược &nbsp;bành trướng  kiểu tằm ăn dâu của Ca tô Rô ma có thể coi là hiểm họa tiềm ẩn. Hai hiểm họa  này tuy có khác nhau về tính cách, nhưng đều rất nguy hiểm, đều đe dọa đến nền  độc lập tự chủ, sự sống còn của dân tộc.</p>
+<p>
+   Trước hết, chúng ta tìm hiểu thế lực Ca tô  Rô ma là gì.</p>
+<p>
+   Thành quốc Vatican là một quốc gia nhỏ nhất  hành tinh, với diện tích khoảng 44 hécta, và số dân chỉ trên dưới 800 người , tọa  lạc ở ngoại ô thành phố Rome của nước Ý. Đây cũng là tổng hành dinh của đạo Ca tô Rô ma với số  tín đồ được ước tính khoảng 1 tỉ người trong toàn bộ khoảng 2.2 tỉ tín đồ Ki tô trên toàn thế giới (gồm Ca tô  Rô ma, Tin lành và Chính thống giáo Đông phương).</p>
+<p>
+   Vatican không phải chỉ thuần túy là đoàn  thể tôn giáo hay là một tiểu quốc gia dựa trên thần học Ca tô, mà họ còn là tập  đoàn làm tiền chuyên nghiệp. Ngoài việc thu tiền từ tín đồ trên toàn thế giới, Vatican  còn được gọi là công ty kinh doanh với đủ loại ngành nghề trên toàn cầu. Lãnh vực  kinh doanh của Vatican trải rộng từ việc tham gia vào nhiều công ty ở những  lãnh vực như chế tạo xe hơi, dầu mỏ, lãnh vực IT, bất động sản, ngân hàng, trường  học, bảo hiểm, chứng khoán, khai thác và kinh doanh kim loại, kim cương, đá quí  và cả buôn bán thuốc phiện lậu. Họ đã thu gom một lượng vàng lớn trong thời đệ  nhị thế chiến để sau đó bán lấy lời. Ngoài ra, Vatican còn nhận được tiền thuế  “giáo hội” thu được từ những công dân nước ở Âu Châu như Đức nếu người dân tự  khai báo họ là tín đồ Ca tô.</p>
+<p>
+   Hầu hết số tiền thu được được gởi vào ngân  hàng Vatican. Tuy gọi là ngân hàng nhưng nó không có cơ năng của ngân hàng bình  thường, mà chỉ giữ tiền kín cho Vatican với nhiều ưu đãi đặc biệt như không phải  khai báo hay đóng thuế, không chịu sự kiểm tra của chính phủ Italy, và được nhận  tiền gởi từ khắp thế giới một cách tự do với lý do tôn giáo. Họ dùng số tiền khổng  lồ này vào các hoạt động có tính kinh doanh hoặc trao đổi “lợi ích” chính trị  như cho các xí nghiệp (hợp pháp lẫn bất hợp pháp) , nhân vật chính trị và cả  chính phủ các nước vay mượn hoặc cống hiến có điều kiện.Với sức mạnh về tài chánh,cùng với lượng tín đồ đông đảo trên khắp  thế giới, họ xây dựng nên một thế lực Ca tô Rô ma có tầm ảnh hưởng rất lớn đến tình hình kinh tế, chính trị quốc  tế.</p>
+<p>
+   Tất cả các nhà thờ, tu viện Ca tô Rô ma trên  toàn thế giới không những là cơ quan chiêu dụ và giáo dục con chiên, thu góp tiền  bạc từ giáo dân, mà còn là trung tâm tình báo gián điệp trọng yếu. Vì vậy, tập  đoàn Vatican còn được cho là “quốc gia có mạng lưới tình báo lớn nhất thế giới”.</p>
+<p>
+   Với tài lực dồi dào, với mạng lưới tình báo kháp nơi, với số  tín đồ đông đảo trải rộng toàn cầu, họ âm thầm theo đuổi mưu đồ đen tối là thiết  lập “đế quốc Ca tô” trên các nước bằng bất cứ thủ đoạn nào. “Đế quốc Ca tô” mà Vatican nhắm đến là đế quốc như thế nào?. Đó là những  nước lấy giáo lý thần học Ca tô (Thánh kinh) làm nền tảng, với chủ trương có sự  tồn tại của thiên chúa, sự phục sinh của chúa Jesus và ngày tận thế, v.v… Quốc  gia ấy phải tuân thủ theo ý của người đại diện cho Chúa ở trần gian là ông chủ  Ca tô Rô ma, nên cũng là ý của Chúa.</p>
+<p>
+   Vatican cho rằng  tất cả những đạo khác là tà đạo, người ngoại đạo là kẻ bất lương, những kẻ chống đối họ là kẻ thù của thiên chúa cần phải loại trừ. Họ sẵn sàng  chà đạp, thảm sát những người không theo họ. Lịch sử đẵm máu tàn nhẫn của  Vatican trải qua hàng ngàn năm qua đã chứng minh điều này là có thật. Riêng tại  Việt Nam, họ đã tàn sát không nương tay những vị anh hùng dân tộc, những người&nbsp; không chịu cuối đầu tuân phục theo đạo Ca tô  Rô ma trong suốt những năm tháng dài bị thực dân Pháp đô hộ và tiếp theo là nền  đệ nhất Cộng hòa tại miền Nam chịu ảnh hưởng nặng nề của Hoa Kỳ và Vatican. </p>
+<p>
+   Vào năm 1964, Vatican đã triệu tập hội đồng  Vatican lần thứ hai, tuyên bố chương trình đại cải cách, trong đó thái độ đối với  các tôn giáo khác được họ thay đổi gần như 180 độ. Thay vì vẫn giữ tư thế “độc  thiện,thù địch với ngoại giáo”, thì họ tuyên bố là những tôn giáo khác như Đạo  Hồi, Đạo Phật, Đạo Ấn, v.v… cũng đều có “ánh sáng của Thiên chúa”, và kêu gọi đối  thoại tôn giáo trên thế giới. </p>
+<p>
+   Nhiều  người cho rằng chương trình cải cách này chỉ là lớp vỏ bề ngoài có tính ngoại  giao, sau một loạt những tai tiếng làm chao đảo thành trì của họ. Ngoài ra, nhiều  thành viên của hội kín Tam điển (Freemansonry) mà Vatican đã từng coi là thù địch  đã âm thầm gia nhập sâu rộng vào tầng lớp chỉ đạo và gây ảnh hưởng lên Vatican. </p>
+<p>
+   Trong chiến lược cải cách này, còn có ẩn ý  là để kết hợp những tôn giáo lớn trên thế giới làm vòng đai bao vây chủ nghĩa cộng  sản mà theo họ là chủ nghĩa “vô thần” không thể dung hợp được với tôn giáo “hữu  thần” . Cho đến ngày nay, Vatican  được coi là tiền đồn chống cộng mạnh mẽ. Họ tự xưng là quốc gia có lập trường  chống lại chủ nghĩa cộng sản.</p>
+<p>
+   Tuy nhiên, sau tuyên bố này họ vẫn tiếp tục  giữ thái độ “độc thiện, thù địch” với những tôn giáo khác, mặc dù có phần ôn  hòa hơn với các giáo phái Tin lành hoặc gần đây tỏ thái độ hòa hoãn với đạo Hồi  khi đạo này ngày càng trở nên quyết liệt, là mối đe dọa lớn cho họ. Tín đồ đạo  Ca tô bị các nhóm Hồi giáo (quá khích) truy sát tại các nước vùng Trung Đông và  có thể lan rộng ra nhiều nước. Dù gì đi nữa, thì họ vẫn giữ nguyên mục tiêu là thành  lập đế quốc Ca tô Rô ma tại các nước trên thế giới. </p>
+<p>
+   Nếu Việt Nam bị thế lực Vatican, thông qua nhóm tín đồ cuồng tín  “thà mất nước không thà mất chúa” lũng đoạn, lèo lái thì việc gì sẽ xảy ra? Ở  đây xin nêu lên một vài viễn ảnh dự kiến có thể xảy ra.</p>
+  <ol>
+   <li>Nhà nước  chịu ảnh hưởng của Ca tô Rô ma sẽ có những sách lược nhằm phát triển số tín đồ  Ca tô nhanh chóng, hướng đến một quốc gia lấy đạo Ca tô Rô ma làm quốc giáo. Để  đạt được mục tiêu này,&nbsp; với tư thế &nbsp;“không khoan nhượng với ngoại đạo” mà họ đã từng  hành xử trong quá khứ, thì tất cả những tư tưởng, tôn giáo khác đều bị coi là ngu  dốt, tà đạo cần phải loại trừ. (Một tham khảo thể hiện thái độ cơ bản nhất của  Vatican đối với đất nước mà họ đến “khai hóa” : tác giả Lão Nông; Bài Học Chóng  Quên: Alexandre de Rhodes đã  mang sứ mạng của một giáo sĩ Dòng Tên với lời thề nhập môn trước Giáo Hoàng như  sau: “…<i>Con xin hứa thêm rằng, lúc có cơ hội, con sẽ tạo ra chiến tranh và  tham gia bí mật hay công khai chống lại tất cả những kẻ khác tôn giáo, như con  đã được chỉ thị, để tàn sát và triệt hạ tận gốc những tên này trên khắp mọi miền  của quả đất. Con sẽ không bỏ sót một tên nào; bất kể tuổi tác, giới tính hay  hoàn cảnh, con sẽ treo cổ, đốt sống, bỏ vào nước sôi, lột da, siết cổ hay chôn  sống những kẻ khác tôn giáo, mổ bụng, moi bào thai trong tử cung vợ chúng và đập  đầu những hài nhi vào tường để tiêu diệt vĩnh viển một chủng tộc đáng ghét</i>…”  (<a href="https://sachhiem.net/TONGIAO/tgTH/ThaiVan.php">Lời Thề Dòng Tên</a>) - <a href="https://sachhiem.net/THLOI/CT/LaoNong.php">https://sachhiem.net/THLOI/CT/LaoNong.php</a>).</li>
+   <li>Các chính sách trong nước phải phản ảnh mọi ý đồ hoặc chỉ  thị từ giáo triều Ca tô Rô ma. Một nhà nước thống trị đặt trên nền tảng thần học  Ca tô được hình thành. </li>
+   <li>Những giá trị truyền thống, lịch sử của dân tộc sẽ dần  dần bị chà đạp và hủy diệt để hình thành một quốc gia không còn độc lập, không  còn mang bản sắc Việt nam để trở thành một nước có nền văn hóa lai căng lệ thuộc  giáo triều Ca tô Rô ma. &nbsp; </li>
+  </ol>
+  <p>&nbsp;&nbsp;&nbsp;&nbsp; Trong mối  tương quan quốc tế luôn biến động, người dân mong muốn nhà nước Việt Nam -dù dưới  bất cứ chính thể nào- với kinh nghiệm lịch sử đau thương mà đất nước đã gánh chịu  trong qua khứ, nghiên cứu để thấu hiểu sâu sắc những hiểm họa đang đe dọa tương  lai của dân tộc hầu có những đối sách thích nghi bảo vệ đất nước về lâu dài.</p>
+<p>
+   Ngày nay, nhà nước Việt Nam có mối bang  giao với Vatican. Có thể đây là sách lược cần thiết trong chiến lược tổng thể, trong  &nbsp;bối cảnh quan hệ quốc tế đa chiều phức tạp,  cũng như hiện trạng của đất nước. Nhưng đối với cơ mưu xảo quyệt dài hơi của  Vatican, cùng với sự tiếp tay của đám linh mục và con chiên vong nô cuồng tín (không  phải là tất cả) mà họ đã từng hành xử trong quá khứ, nếu nhà nước không có những  biện pháp nghiêm minh, chặt chẽ không sơ hở, và có tính hiệu quả dài lâu, cũng  như truyền bá rộng rãi để người dân nhận thức rõ về hiểm họa này, thì khó mà  ngăn chận được sự bành trướng của thế lực Vatican trên quê hương. </p>
+<p>
+   Dân tộc Việt Nam nhất quyết phải bảo vệ nền  độc lập tự chủ bằng mọi giá. Dù&nbsp; trăm  năm, ngàn năm sau và vĩnh viễn, Việt Nam không thể trở thành một nước lấy đạo Ca  tô Rô ma làm quốc giáo như Philippine và nhiều quốc gia ở Trung Nam Mỹ. Ngược lại,  chúng ta cần học hỏi ở người Nhật Bản về ý thức tự hào dân tộc, vể tinh thần độc  lập tự chủ của họ trong nỗ lực ngăn chận bành trướng của thế lực Ca tô Rô ma  cũng như những tôn &nbsp;giáoThiên chúa độc thần  (khởi nguồn từ Abrahamic) khác.</p>
+<p>
+   Tháng  11/2015<img src="https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/sqdot.gif" width="10" height="10">  </p>
+  
+  <p class="TacgiaL">TP Thanh Tâm.</p>
+  <p class="nguonL">Nguồn: tác giả thân gửi </p>

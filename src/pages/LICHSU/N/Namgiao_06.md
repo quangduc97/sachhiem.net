@@ -1,0 +1,62 @@
+---
+layout: ../../../layouts/Article.astro
+title: "Lịch Sử Chế Độ Ngô Đình Diệm Trong 999 Chữ"
+author: "Sưu tầm và Tổng kết của Kevin Trần"
+date: 2018-01-11
+source: "https://sachhiem.net/LICHSU/N/Namgiao_06.php"
+category: "Chính trị"
+lang: vi
+wordCount: 1872
+image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/LICHSU/IMG/NGODD/Tranh Chuot_nhaNgo.jpg"
+---
+
+<div class="tomluoc">
+            <p> <i> Hừm! Bàn tay lông lá của Vatican ghê gớm thật, huy động bọn thủ hạ “cán bộ áo đen” lừa bịp được cả đám “sĩ phu Bắc Hà” ở trong nước và bọn “Mỹ con mới lớn” ngoài nước, &nbsp;vốn bị mù về lịch sử nên cả tin về một “lá bài Ngô Đình Diệm” ba đời làm Việt gian theo giặc, nay mong sẽ được Mỹ và Vatican bảo kê lên cầm quyền! (Nam Giao)</i> </p>
+          </div>
+          <p align="center"><img src="https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/LICHSU/IMG/NGODD/Tranh Chuot_nhaNgo.jpg" width="400" height="229" alt=""> </p>
+          <p align="center"><i>Hình bìa số Xuân Canh Tý (1960) của báo Tự Do xuất bản tại Sài Gòn, đăng hình của Họa sĩ Nguyễn Gia Trí, vẽ 5 con chuột gậm nhắm trái dưa hấu, hàm ý tố cáo 4 anh em nhà Ngô (Thục, Diệm, Nhu, Cẩn) và bà Trần Lệ Xuân đang đục khoét miền Nam.  Vừa phát hành, báo tức khắc bị tịch thu, tòa soạn bị đóng cửa và Ban chủ trương bị bắt đi tù</i></p>
+          
+<p>&lt;START&gt;"<i>Họ Ngô có 4 gian hùng / Diệm ngu, Nhu ác, Cẩn khùng, Thục điên</i>": Đó là câu vè &nbsp;tại miền Trung vào những năm 1960s của thế kỷ trước. Câu vè đó mô tả nhân cách của 4 người đàn ông dòng họ Ngô&nbsp;Đình đã từng một thời là cấp lãnh đạo chóp bu của miền Nam Việt Nam với ông Ngô Đình Diệm làm Tổng thống. Ông Diệm được Mỹ "bồng" về làm Tổng thống bằng một cuộc bầu cử gian lận năm 1955 (98.2% số phiếu thắng vua Bảo Đại) để biến miền Nam thành&nbsp;tiền đồn&nbsp;chống Cộng cho Tài phiệt Mỹ và để làm công cụ cho Đế quốc Vatican mở mang nước Chúa. </p>
+<p>Bốn “bà mụ” Mỹ đã nuôi và bồng ông Diệm về Việt Nam là Hồng y Spellman, Ngoại trưởng Dulles, Thượng nghị sĩ Mansfield và trùm tình báo Lansdale. Không có họ đỡ đầu và giúp đỡ, ông Diệm đã chỉ là một anh chính khách xa-lông “<i>bao năm từng lê gót nơi quê người</i>” như câu đầu của&nbsp;<a href="https://sachhiem.net/THLOI/CT/Taton.php">bài hát&nbsp;<i>Suy Tôn Ngô Tổng Thống</i></a>&nbsp;mô tả mà thôi. Chính nhờ họ mà kinh viện, quân viện và "cố vấn" Mỹ đổ ào ạt vào miền Nam, giúp chế độ ông Diệm đạt được một số thành quả kinh tế xã hội&nbsp;trong vài năm đầu tiên&nbsp; … </p>
+          <p>Tuy nhiên, đến cuối năm 1959,&nbsp;ông Diệm bắt đầu thiết lập chế độ độc tài với 3 gọng kềm:&nbsp;<i>Gia đình trị, Công giáo trị</i>&nbsp;và&nbsp;<i>Công an trị;</i>&nbsp;và đến năm 1960 thì ông Diệm bắt đầu trở thành bù nhìn, để cho ông bà Nhu thao túng quyền lực quốc gia. Vì vậy mà trong 8 năm bạo trị, quân dân miền Nam đã nổi lên chống đối kịch liệt&nbsp;8 lần, hầu như mỗi năm một lần: Vụ thảm sát Quốc Dân Đảng tại chiến khu&nbsp;<b>Ba Lòng 1955</b>, vụ mưu sát&nbsp;<b>Ban Mê thuột 1957</b>, vụ Tuyên ngôn&nbsp;<b>Caravelle 1960</b>, vụ binh biến của binh chủng&nbsp;<b>Nhảy Dù 1960</b>, vụ ném bom&nbsp;<b>Dinh Độc lập 1962</b>, vụ tự vẫn của văn hào&nbsp;<b>Nhất Linh 1963</b>, vụ đàn áp&nbsp;<b>Phật Giáo 1963</b>. Đó là chưa kể đông đảo nhân dân miền Nam vì bất mãn với chế độ Diệm nên đã theo ủng hộ "Mặt trận Dân tộc Giải phóng Miền Nam" chống lại chính quyền.&nbsp;Cuối cùng, lần thứ 8 vào năm 1963, đã độc tài bạo trị mất lòng dân như thế, Diệm-Nhu lại còn mưu đồ thỏa hiệp với Cộng sản Hà Nội, phản lại&nbsp;<b>Hiến Pháp Việt Nam Cộng hòa</b>, phản lại gần một triệu&nbsp;<b>đồng bào Công giáo</b>&nbsp;Bắc di cư 1954, phản lại chiến lược chống Cộng của&nbsp;<b>chủ nhân Mỹ</b>, và phản lại biết bao&nbsp;hy sinh xương máu của<b> Quân đội VNCH</b>&nbsp;đã bỏ mạng ngoài chiến trường. Phản như thế nên bị lật đổ&nbsp;là đáng rồi, là đúng rồi!</p>
+          <p>Thế mà nhóm "hoài Ngô" lại bảo là vì Diệm chống Mỹ đổ quân vào VN nên bị Mỹ lật!!! Thật ra, năm 1963, sau thất bại thê thảm vụ Vịnh Con Heo (1961, Cuba) và trước thềm cuộc tranh cử Tổng thống (1964), Kennedy đã không những không muốn một cuộc phiêu lưu quân sự đầy bất trắc tại Việt Nam (chắc chắn làm mất phiếu) mà còn quyết định, từ tháng 10/1963, sẽ rút hết&nbsp;<a href="https://www.thenation.com/article/jfks-vietnam-withdrawal-plan-fact-not-speculation/">quân Mỹ về nước vào năm 1965</a>, chỉ để lại&nbsp;1,000 “cố vấn” (<a href="https://en.wikipedia.org/wiki/National_Security_Action_Memorandum_263">National Security Action Memorandum số 263</a>, ngày 11-10-1963,&nbsp;Xem thêm&nbsp;<i><a href="https://thuvienhoasen.org/a18578/ho-so-mat-1963">Hồ Sơ Mật 1963</a></i>).&nbsp; Nhà văn Doãn Quốc Sỹ đã gói ghém quan hệ Mỹ-Diệm trong một câu: “<i>Bảo là người Mỹ đã giết Diệm? Không! Diệm đã chết trong lòng dân tộc từ lâu. Mỹ chỉ đến lượm xác chết của y</i>” (<i>Người Việt Đáng Yêu</i>, Sáng Tạo, Sài Gòn, 1965)</p>
+          <p align="center"><img src="https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/SACHNGOAI/Hinhanh/BIASACH/NSA_Memo_263.jpg" width="400" alt=""></p>
+          <p align="center"><i>Phóng ảnh Bản Ghi nhớ NSAM 263, ngày 11-10-1963</i></p>
+          <p>Chế độ <i>gia đình trị</i> và <i>Công  giáo trị</i> đã bị nhân dân miền Nam quẳng vào hố rác lịch sử năm 1963. Từ lăng kính văn  hóa dân tộc, dòng họ Ngô Đình còn bị luật nhân quả báo ứng: <b>Ngô  Đình Khôi</b> và <b>Ngô Đình Huân</b> bị Việt Minh thủ tiêu ở Huế, mộ phần <b>Ngô Đình Khả</b> bị sét đánh ở Thừa Thiên, <b>Ngô Đình</b> <b>Diệm </b>và <b>Ngô  Đình Nhu</b> bị bắn chết trong thiết vận xa, <b>Ngô Đình</b> <b>Cẩn</b> bị  hành hình ở pháp trường Sài Gòn, Giám mục <b>Ngô Đình</b> <b>Thục</b> từng  bị Giáo hoàng dứt phép thông công, <b>Ngô Đình Lệ Thủy</b> và <b>Ngô  Đình Lệ Quyên</b> bị tai nạn giao thông chết thảm ở Âu châu, <b>Cha mẹ bà Nhu</b> bị con là Trần  Văn Khiêm hạ thủ giết chết ở Mỹ... Có gia đình dòng họ nào vô phước như thế  không??? Phải là đại gian đại ác, giết người hại dân quá nhiều, theo cái đạo gì mà chối bỏ cả Tổ tiên  và chửi mắng cả Trời Phật  ... mới bị như vậy! </p>
+          <p>Thời gian đã trôi qua hơn nửa thế kỷ, bao nhiêu nước đã chảy qua cầu, bao nhiêu tài liệu đã được giải  mật … thế mà tàn  dư Ngô triều vẫn tìm cách xuyên tạc lịch sử,  mạo hóa chứng cớ để rửa mặt cho một gia  đình nhân bất nhân bất nghĩa. Và nhóm "Cần lao Công giáo"  thì đang dựng lại xác chết Diệm-Nhu để cho Vatican phong Thánh Tử đạo hầu  phục vụ cho những mưu đồ chính trị tương lai… </p>
+          <p>            Hừm! Bàn tay lông lá của Vatican ghê gớm thật, huy động “cán bộ áo đen” lừa bịp được  cả thành phần “sĩ phu Bắc Hà” ở trong nước và lớp “Mỹ con mới lớn” ở ngoài  nước, vốn bị mù về lịch sử nên cả tin về một “lá bài Ngô Đình Diệm” ba đời làm  Việt gian theo giặc, nay mong sẽ được Mỹ và Vatican bảo kê lên cầm quyền!  </p>
+          <p>&lt;END&gt; </p>
+          <p class="TacgiaL">Kevin  Trần sưu tầm và tổng hợp. </p>
+<p> California,  2/2018 </p>
+
+<hr>
+          <p><b>● PHỤ  LỤC MỘT</b>: </p>
+          <p>Bốn “Bà mụ” tôn giáo-chính trị Mỹ nặn ra và  cưu mang chế độ Diệm </p>
+          <p align="center"><a href="https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.devhttps://1.bp.blogspot.com/-bK0a8k_XH6U/WlgivLmxH8I/AAAAAAAAEQI/o0pAURH6DqgPMSUXvpAu29b1O1IIcsEggCLcBGAs/s1600/4BaMu.jpg"><img src="https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/LICHSU/IMG/NGODD/4BaMu_dodauchoDiem.jpg" width="80%" alt=""></a></p>
+          <p>Từ trái:<b><i> </i></b><b>Francis Spellman</b> (1889-1967) Hồng y  trong quân phục Tổng Tuyên úy –  <b>John Foster Dulles</b> (1888-1959),  Ngoại trưởng trong nội các TT Eisenhower – <b>Mike Mansfield</b> (1903-2001),  Chủ tịch khối Đa số Thượng viện – <b>Edward Lansdale</b> (1908-1987),  Đại tá Không quân làm tình báo  bên cạnh CIA<i>.</i></p>
+          <p>● <b>PHỤ  LỤC HAI</b>: </p>
+          <p>Từ năm 1960, bản chất độc tài của chế độ Diệm bắt đầu lên đến đỉnh điểm nên quân  dân miền Nam bắt đầu đáp trả và thách thức quyền lực của gia đình họ Ngô. </p>
+          <p align="center"><a href="https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.devhttps://1.bp.blogspot.com/-Om30JBr4AE0/Wlgi5v289zI/AAAAAAAAEQM/cgebTobXpLg7s0f0sMStCPH9qyquffNIQCLcBGAs/s1600/1960-1961-1962.jpg"><img src="https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/LICHSU/IMG/NGODD/Caravelle.jpg" width="100%" alt=""></a> </p>
+<p>            Từ trái: 26-4-<b>1960</b>, Trang 6 của <a href="https://vi.wikipedia.org/wiki/Nh%C3%B3m_Caravelle">“<i>Tuyên Ngôn Caravelle</i>”</a>, liệt kê tên của 18 nhân sĩ  từ nhiều khuynh hướng chính trị, cảnh báo ông Diệm về tình hình nguy kịch của  miền Nam để đòi cải tổ cấp lãnh đạo –  11-11<b>-1960</b>, dân chúng thủ đô  biểu tình “<i>Đã đảo Chế độ Gia đình trị Ngô Đình Diệm</i>” để ủng hộ <a href="https://vi.wikipedia.org/wiki/%C4%90%E1%BA%A3o_ch%C3%ADnh_Vi%E1%BB%87t_Nam_C%E1%BB%99ng_h%C3%B2a_1960">binh chủng Nhảy Dù làm đảo chánh</a> chế độ Diệm – 27-2-<b>1962</b>,   hai Trung úy Phi công Phạm Phú Quốc và Nguyễn Văn Cử <a href="https://vi.wikipedia.org/wiki/V%E1%BB%A5_%C4%91%C3%A1nh_bom_Dinh_%C4%90%E1%BB%99c_L%E1%BA%ADp_1962">ném bom cánh trái Dinh Độc Lập</a> nhằm mưu sát ông Diệm,  vợ chồng ông Nhu và Giám mục Thục.<i>     </i> </p>
+<p>    ● <b>PHỤ  LỤC BA</b>: </p>
+<p>Năm 1963, năm oan trái của chế độ. </p>
+<p align="center"><img src="https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/LICHSU/IMG/NGODD/1963_cacbienco.jpg" width="100%" alt=""></p>
+
+<p>            Từ trái:  8-5-<b>1963</b>, Hòa thượng Thích Quảng Đức tự  thiêu để phản đối và cảnh tỉnh ông Diệm hầu xin bình đẳng với Công giáo (Một  tôn giáo với số tín đồ gần 80% dân số  lại xin được bình đẳng với một tôn  giáo mà tín đồ không đến 10% dân số!!!) – 7-7-<b>1963</b>, Nhà văn Nhất Linh  Nguyễn Tường Tam uống thuốc độc tự vẩn, để lại chúc thư: “<i>Đời tôi để lịch sử  xử. Tôi không chịu để ai xử tôi cả. Sự bắt bớ và xử tội những phần tử quốc gia  đối lập là một tội nặng, sẽ làm cho nước mất về tay Cộng sản. Vì thế tôi tự hủy  mình cũng như Hòa Thượng <a href="https://vi.wikipedia.org/wiki/Th%C3%ADch_Qu%E1%BA%A3ng_%C4%90%E1%BB%A9c" title="Thích Quảng Đức">Thích Quảng Đức</a> đã tự thiêu là để cảnh cáo  những ai chà đạp mọi thứ tự do." – </i>Tháng 10-<b>1963</b>: Đêm  20-8, Ngô Đình Nhu tung chiến dịch “<i>Nước Lũ</i>”, dùng Cảnh sát Dã chiến  tổng tấn công chùa chiền trên 16 tỉnh miền Nam, bắt giam hơn 1,400 Tăng Ni tại  Sài Gòn. Cấp lãnh đạo Phật giáo hoàn toàn tê liệt nên đến phiên đảng phái chính  trị, trí thức và học sinh sinh viên Sài Gòn thay Phật giáo đồ xuống đường tiếp  tục đấu tranh. Diệm-Nhu điên cuồng cho Mật vụ và Cảnh sát đánh đập, bắt giam và  chở về nhốt tại Quân lao Gò Vấp và Trung tâm Huấn luyện Quang Trung.   </p>
+          <p>● <b>PHỤ  LỤC BỐN</b>: </p>
+          <p>Ngày tàn của một chế độ Ngược Lòng Dân, Phản Thời Đại. </p>
+          <p align="center"><img src="https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/LICHSU/IMG/NGODD/1963-ngaytan.jpg" width="100%" alt=""></p>
+<p>  Từ trái: Chiều 2-11-<b>1963</b>, đông đảo người dân thủ  đô Sài Gòn biểu tình trên đại lộ Thống Nhất (bây giờ là Lê Duẫn) để “… <i>nhiệt  liệt ủng hộ cuộc Cách mạng của Quân Đội</i>” (banderole). –     Sáng 3-11-<b>1963</b>, Dân chúng hân hoan tập hợp đông đảo (<i>Jubiliant  crowds</i>) trước Thương xá Tax hô to các khẩu hiệu (<i>shout slogans</i>) mừng  chiến thắng. – Ngày 3-11-<b>1963</b>, trong lúc chiến hạm HQ401 chở hơn 300 tù  nhân chính trị (bị giam ở nhà tù Côn Sơn) được phóng thích sắp trở về thì tại  Bến Bạch Đắng, sinh viên kéo giựt sập tượng Hai Bà Trưng, vốn bị ra lệnh phải  tạc giống hình hai mẹ con bà Nhu.      </p>
+
+
+<p>Nguồn: <a href="https://hoangnamgiao.blogspot.com/2018/01/lich-su-che-o-ngo-inh-diem-trong-939.html">https://hoangnamgiao.blogspot.com/2018/01/lich-su-che-o-ngo-inh-diem-trong-939.html</a>  </p>
+<p>_________________</p>
+<p><b>Xin mời đọc thêm:</b>   
+  </p>
+<p>- <a href="https://sachhiem.net/index.php?content=showemail&amp;id=2442">Tiếp tục phủ nhận sự kiện tự thiêu của HT TQD: bào chữa cho chế độ Ngô Đình Diệm</a> (P. Thanh Duy)</p>
+<p><a href="https://sachhiem.net/index.php?content=showemail&amp;id=2440">- Những xảo biện trong cách viết của ông Bằng Phong Đặng Văn Âu</a> (P. Thanh Duy)</p>
+<p><a href="https://sachhiem.net/index.php?content=showemail&amp;id=2439">- Lưu ý ông Bằng Phong Đặng Văn Âu đừng có gian xảo</a> (Trần Quang Diệu)</p>
+
+<a href="/indexCT">
+<p class="trang">Trang Thời Sự</p>
+          </a>

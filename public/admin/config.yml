@@ -1,0 +1,407 @@
+backend:
+  name: github
+  repo: d7cky/d7cky.github.io
+  branch: main
+site_url: https://sachhiem.net
+display_url: https://sachhiem.net
+locale: vi
+media_folder: public/uploads
+public_folder: /uploads
+collections:
+  - name: amaritx
+    label: Amari-TX (AMARITX)
+    label_singular: bài của Amari-TX
+    folder: src/pages/AMARITX
+    create: true
+    nested:
+      depth: 100
+    editor:
+      preview: false
+    summary: "{{title}} — {{date}}"
+    fields: &a1
+      - name: layout
+        label: Layout
+        widget: hidden
+        default: ../../layouts/Article.astro
+      - name: title
+        label: Tiêu đề
+        widget: string
+      - name: author
+        label: Tác giả (tên ký trong bài)
+        widget: string
+        required: false
+      - name: date
+        label: Ngày đăng
+        widget: datetime
+        date_format: YYYY-MM-DD
+        time_format: false
+        required: false
+      - name: category
+        label: Chuyên mục
+        widget: select
+        required: false
+        options:
+          - Bài cũ
+          - Chính trị
+          - Đối thoại
+          - Email
+          - Khoa học
+          - Lịch sử
+          - Sách ngoại văn
+          - Sách phê bình
+          - Tác giả
+          - Thời sự
+          - Văn hóa
+          - Xã hội
+      - name: source
+        label: Nguồn (link bài gốc)
+        widget: string
+        required: false
+      - name: lang
+        label: Ngôn ngữ
+        widget: select
+        default: vi
+        options:
+          - label: Tiếng Việt
+            value: vi
+          - label: Tiếng Anh
+            value: en
+      - name: image
+        label: Ảnh thumbnail (URL)
+        widget: string
+        required: false
+        hint: URL đầy đủ (vd https://pub-xxx.r2.dev/images/...) hoặc dùng nút ảnh để
+          upload lên /uploads
+      - name: body
+        label: Nội dung bài viết
+        widget: markdown
+  - name: buikha
+    label: Bùi Kha (BUIKHA)
+    label_singular: bài của Bùi Kha
+    folder: src/pages/BUIKHA
+    create: true
+    nested:
+      depth: 100
+    editor:
+      preview: false
+    summary: "{{title}} — {{date}}"
+    fields: *a1
+  - name: caoht
+    label: Cao Huy Thuần (CAOHT)
+    label_singular: bài của Cao Huy Thuần
+    folder: src/pages/CAOHT
+    create: true
+    nested:
+      depth: 100
+    editor:
+      preview: false
+    summary: "{{title}} — {{date}}"
+    fields: *a1
+  - name: charlie
+    label: Charlie Nguyễn (CHARLIE)
+    label_singular: bài của Charlie Nguyễn
+    folder: src/pages/CHARLIE
+    create: true
+    nested:
+      depth: 100
+    editor:
+      preview: false
+    summary: "{{title}} — {{date}}"
+    fields: *a1
+  - name: chuvtr
+    label: Chu Văn Trình (CHUVTR)
+    label_singular: bài của Chu Văn Trình
+    folder: src/pages/CHUVTR
+    create: true
+    nested:
+      depth: 100
+    editor:
+      preview: false
+    summary: "{{title}} — {{date}}"
+    fields: *a1
+  - name: daovb
+    label: Đào Văn Bình (DAOVB)
+    label_singular: bài của Đào Văn Bình
+    folder: src/pages/DAOVB
+    create: true
+    nested:
+      depth: 100
+    editor:
+      preview: false
+    summary: "{{title}} — {{date}}"
+    fields: *a1
+  - name: doithoai
+    label: nhiều tác giả (DOITHOAI)
+    label_singular: bài của nhiều tác giả
+    folder: src/pages/DOITHOAI
+    create: true
+    nested:
+      depth: 100
+    editor:
+      preview: false
+    summary: "{{title}} — {{date}}"
+    fields: *a1
+  - name: hoangnn
+    label: Huỳnh Bất Hoặc (HOANGNN)
+    label_singular: bài của Huỳnh Bất Hoặc
+    folder: src/pages/HOANGNN
+    create: true
+    nested:
+      depth: 100
+    editor:
+      preview: false
+    summary: "{{title}} — {{date}}"
+    fields: *a1
+  - name: hoanhlinh
+    label: "- Hoành Linh Đỗ Mậu - (HOANHLINH)"
+    label_singular: bài của - Hoành Linh Đỗ Mậu -
+    folder: src/pages/HOANHLINH
+    create: true
+    nested:
+      depth: 100
+    editor:
+      preview: false
+    summary: "{{title}} — {{date}}"
+    fields: *a1
+  - name: khoahoc
+    label: Lê văn Cường (KHOAHOC)
+    label_singular: bài của Lê văn Cường
+    folder: src/pages/KHOAHOC
+    create: true
+    nested:
+      depth: 100
+    editor:
+      preview: false
+    summary: "{{title}} — {{date}}"
+    fields: *a1
+  - name: lichsu
+    label: Trần Quang Diệu (LICHSU)
+    label_singular: bài của Trần Quang Diệu
+    folder: src/pages/LICHSU
+    create: true
+    nested:
+      depth: 100
+    editor:
+      preview: false
+    summary: "{{title}} — {{date}}"
+    fields: *a1
+  - name: ltx
+    label: Lý Thái Xuân (LTX)
+    label_singular: bài của Lý Thái Xuân
+    folder: src/pages/LTX
+    create: true
+    nested:
+      depth: 100
+    editor:
+      preview: false
+    summary: "{{title}} — {{date}}"
+    fields: *a1
+  - name: minhman
+    label: Minh Mẫn (MINHMAN)
+    label_singular: bài của Minh Mẫn
+    folder: src/pages/MINHMAN
+    create: true
+    nested:
+      depth: 100
+    editor:
+      preview: false
+    summary: "{{title}} — {{date}}"
+    fields: *a1
+  - name: ndx
+    label: Nguyễn Đắc Xuân (NDX)
+    label_singular: bài của Nguyễn Đắc Xuân
+    folder: src/pages/NDX
+    create: true
+    nested:
+      depth: 100
+    editor:
+      preview: false
+    summary: "{{title}} — {{date}}"
+    fields: *a1
+  - name: nghoan
+    label: Nguyễn Hoàn (NGHOAN)
+    label_singular: bài của Nguyễn Hoàn
+    folder: src/pages/NGHOAN
+    create: true
+    nested:
+      depth: 100
+    editor:
+      preview: false
+    summary: "{{title}} — {{date}}"
+    fields: *a1
+  - name: ngvthinh
+    label: Nguyễn Văn Thịnh (NGVTHINH)
+    label_singular: bài của Nguyễn Văn Thịnh
+    folder: src/pages/NGVTHINH
+    create: true
+    nested:
+      depth: 100
+    editor:
+      preview: false
+    summary: "{{title}} — {{date}}"
+    fields: *a1
+  - name: ngxuantho
+    label: TS Nguyễn Xuân Thọ (NGXUANTHO)
+    label_singular: bài của TS Nguyễn Xuân Thọ
+    folder: src/pages/NGXUANTHO
+    create: true
+    nested:
+      depth: 100
+    editor:
+      preview: false
+    summary: "{{title}} — {{date}}"
+    fields: *a1
+  - name: nmq
+    label: Nguyễn Mạnh Quang (NMQ)
+    label_singular: bài của Nguyễn Mạnh Quang
+    folder: src/pages/NMQ
+    create: true
+    nested:
+      depth: 100
+    editor:
+      preview: false
+    summary: "{{title}} — {{date}}"
+    fields: *a1
+  - name: nvtho
+    label: Nhân Tử Nguyễn Văn Thọ (NVTho)
+    label_singular: bài của Nhân Tử Nguyễn Văn Thọ
+    folder: src/pages/NVTho
+    create: true
+    nested:
+      depth: 100
+    editor:
+      preview: false
+    summary: "{{title}} — {{date}}"
+    fields: *a1
+  - name: pnnhan
+    label: AVRO MANHATTAN / Phạm U.B. (PNNHAN)
+    label_singular: bài của AVRO MANHATTAN / Phạm U.B.
+    folder: src/pages/PNNHAN
+    create: true
+    nested:
+      depth: 100
+    editor:
+      preview: false
+    summary: "{{title}} — {{date}}"
+    fields: *a1
+  - name: sachngoai
+    label: Trần Thanh Lưu dịch cuốn (SACHNGOAI)
+    label_singular: bài của Trần Thanh Lưu dịch cuốn
+    folder: src/pages/SACHNGOAI
+    create: true
+    nested:
+      depth: 100
+    editor:
+      preview: false
+    summary: "{{title}} — {{date}}"
+    fields: *a1
+  - name: tcn
+    label: Trần Chung Ngọc (TCN)
+    label_singular: bài của Trần Chung Ngọc
+    folder: src/pages/TCN
+    create: true
+    nested:
+      depth: 100
+    editor:
+      preview: false
+    summary: "{{title}} — {{date}}"
+    fields: *a1
+  - name: thloi
+    label: Thiên Lôi (THLOI)
+    label_singular: bài của Thiên Lôi
+    folder: src/pages/THLOI
+    create: true
+    nested:
+      depth: 100
+    editor:
+      preview: false
+    summary: "{{title}} — {{date}}"
+    fields: *a1
+  - name: thoisu_ct
+    label: Mike Wilson (THOISU_CT)
+    label_singular: bài của Mike Wilson
+    folder: src/pages/THOISU_CT
+    create: true
+    nested:
+      depth: 100
+    editor:
+      preview: false
+    summary: "{{title}} — {{date}}"
+    fields: *a1
+  - name: tongiao
+    label: Minh Thạnh (TONGIAO)
+    label_singular: bài của Minh Thạnh
+    folder: src/pages/TONGIAO
+    create: true
+    nested:
+      depth: 100
+    editor:
+      preview: false
+    summary: "{{title}} — {{date}}"
+    fields: *a1
+  - name: trtvt
+    label: Trần Thị Vĩnh Tường (TRTVT)
+    label_singular: bài của Trần Thị Vĩnh Tường
+    folder: src/pages/TRTVT
+    create: true
+    nested:
+      depth: 100
+    editor:
+      preview: false
+    summary: "{{title}} — {{date}}"
+    fields: *a1
+  - name: ttl
+    label: Trần Tiên Long (TTL)
+    label_singular: bài của Trần Tiên Long
+    folder: src/pages/TTL
+    create: true
+    nested:
+      depth: 100
+    editor:
+      preview: false
+    summary: "{{title}} — {{date}}"
+    fields: *a1
+  - name: tts
+    label: Trần Trọng Sỹ (TTS)
+    label_singular: bài của Trần Trọng Sỹ
+    folder: src/pages/TTS
+    create: true
+    nested:
+      depth: 100
+    editor:
+      preview: false
+    summary: "{{title}} — {{date}}"
+    fields: *a1
+  - name: vanhoc
+    label: Nguyễn Văn Thịnh (VANHOC)
+    label_singular: bài của Nguyễn Văn Thịnh
+    folder: src/pages/VANHOC
+    create: true
+    nested:
+      depth: 100
+    editor:
+      preview: false
+    summary: "{{title}} — {{date}}"
+    fields: *a1
+  - name: xahoi
+    label: Sharma Rachana (XAHOI)
+    label_singular: bài của Sharma Rachana
+    folder: src/pages/XAHOI
+    create: true
+    nested:
+      depth: 100
+    editor:
+      preview: false
+    summary: "{{title}} — {{date}}"
+    fields: *a1
+  - name: xichlov
+    label: Xích Lô Việt (XICHLOV)
+    label_singular: bài của Xích Lô Việt
+    folder: src/pages/XICHLOV
+    create: true
+    nested:
+      depth: 100
+    editor:
+      preview: false
+    summary: "{{title}} — {{date}}"
+    fields: *a1

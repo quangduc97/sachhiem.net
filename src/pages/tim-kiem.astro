@@ -1,0 +1,41 @@
+---
+import BaseLayout from '../layouts/BaseLayout.astro';
+---
+
+<BaseLayout title="Tìm kiếm" current="/tim-kiem/">
+  <section class="hero">
+    <h2>Tìm kiếm bài viết</h2>
+    <p>Tìm theo tiêu đề, tác giả hoặc nội dung bài viết trong kho Sách Hiếm.</p>
+  </section>
+  <div id="search"></div>
+</BaseLayout>
+
+<link href="/pagefind/pagefind-ui.css" rel="stylesheet" />
+<script src="/pagefind/pagefind-ui.js" is:inline></script>
+<script>
+  window.addEventListener('DOMContentLoaded', () => {
+    if (!window.PagefindUI) {
+      document.getElementById('search').innerHTML =
+        '<p class="card" style="text-align:center">Chức năng tìm kiếm hoạt động sau khi build (chạy <code>npm run build</code>).</p>';
+      return;
+    }
+    new PagefindUI({
+      element: '#search',
+      showSubResults: false,
+      showImages: false,
+      translations: {
+        placeholder: 'Tìm kiếm bài viết…',
+        clear_search: 'Xóa',
+        load_more: 'Xem thêm kết quả',
+        search_label: 'Tìm kiếm',
+        filters_label: 'Bộ lọc',
+        zero_results: 'Không tìm thấy kết quả cho [SEARCH_TERM]',
+        many_results: '[COUNT] kết quả cho [SEARCH_TERM]',
+        one_result: '[COUNT] kết quả cho [SEARCH_TERM]',
+        alt_search: 'Không tìm thấy kết quả cho [SEARCH_TERM]. Hiển thị kết quả cho [DIFFERENT_TERM]',
+        search_suggestion: 'Không tìm thấy kết quả cho [SEARCH_TERM]. Thử tìm:',
+        searching: 'Đang tìm kiếm [SEARCH_TERM]…',
+      },
+    });
+  });
+</script>

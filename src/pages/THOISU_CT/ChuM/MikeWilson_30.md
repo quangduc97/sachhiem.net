@@ -1,0 +1,61 @@
+---
+layout: ../../../layouts/Article.astro
+title: "4 Góc Nhìn Thức Tỉnh Về Đối Đầu Mỹ - Nga Tại Ukraine!"
+author: "Mike Wilson"
+date: 2022-04-14
+source: "https://sachhiem.net/THOISU_CT/ChuM/MikeWilson_30.php"
+category: "Chính trị"
+lang: vi
+wordCount: 2087
+image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/THOISU_CT/Hinh/UKRAINE/CIA_giamdoc_WilliamJBurns.JPG"
+---
+
+<div class="tomluoc">
+   <p><i>Trong khi hầu hết giới chức Mỹ và phương Tây cố gắng khắc hoạ một hình ảnh Putin khát máu, một nước Nga bành trướng, thì rất nhiều học giả lại có những suy nghĩ khác, khách quan và đúng đắn hơn nhiều, trong đó có cả những học giả nổi tiếng từ chính nước Mỹ. </i> (Mike Wilson)</p>
+ </div>
+<p class="nguonL">From Mike Wilson  on 2022-03-16 13:49</p>
+<p><a href="https://www.youtube.com/watch?v=2p8QJ5cl6Jw"><b>1. Giáo sư Mỹ lấy Việt Nam để cảnh báo Mỹ và Nga. Chỉ trích chính sách của Biden là ngu ngốc. </b>- YouTube</a></p>
+<p>Hoạt động quân sự đặc biệt của Nga tại Ukraine đang là chủ đề nóng nhất trong những ngày này. Trong khi hầu hết giới chức Mỹ và phương Tây cố gắng khắc hoạ một hình ảnh Putin khát máu, một nước Nga bành trướng, thì rất nhiều học giả lại có những suy nghĩ khác, khách quan và đúng đắn hơn nhiều, trong đó có cả những học giả nổi tiếng từ chính nước Mỹ. Họ dùng ngay học thuyết quân sự của người Mỹ để chỉ ra những sai lầm rất lớn của nước này trong cuộc đối đầu với Nga hiện nay.</p>
+<p>Mới đây tạp chí WELT của Đức đã có cuộc phỏng vấn với giáo sư <b>John J. Mearsheimer</b>. Ông được đánh giá là một trong những nhà lý luận chính trị đương đại có ảnh hưởng nhất. Cuốn sách <i><b>"Bi kịch của chính trị cường quốc"</b></i> của ông xuất bản năm 2001 đang được đưa vào chương trình giảng dạy ở nhiều trường đại học trên thế giới. Các bạn có thể tìm đọc cuốn sách nổi tiếng này. <i>Ông hiện là Giáo sư Chính trị Quốc tế tại Đại học Chicago. Ông từng là sĩ quan trong Lực lượng Không quân Hoa Kỳ trước khi theo nghiệp đèn sách</i>.</p>
+<p><iframe width="350" height="197" src="https://www.youtube.com/embed/2p8QJ5cl6Jw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe></p>
+
+<p><a href="https://www.youtube.com/watch?v=Ttc5gvMoFf0"><b>2. "Không thể tin được" một quan chức hàng đầu Mỹ bất ngờ ủng hộ Nga, phản đối chính sách của Mỹ. -</b> YouTube</a></p>
+<p>Ở phương Tây, đặc biệt là ở Hoa Kỳ, cho rằng Nga đã và luôn là một quốc gia theo chủ nghĩa bành trướng, và tổng thống đương nhiệm của nước này, Vladimir Putin, là hiện thân về tham vọng của người Nga: là xây dựng nước Nga thành một đế chế mới.  Ông Biden ngày 24/2 đã có bài phát biểu quan trọng, trong đó chỉ trích Nga rằng "<i>Việc Nga tấn công Ukraina là một cuộc xâm lược trần trụi, đó chính là mong muốn của Putin trong việc xây dựng lại Đế chế Nga bằng mọi cách.</i>"  </p>
+<p>Tuy nhiên, những người theo quan điểm đối lập lại không nghĩ như vậy, họ cho rằng những lo ngại về an ninh của Nga trên thực tế là có thật và việc NATO mở rộng về phía đông được người Nga coi là nhằm vào đất nước của họ. Trong nhiều năm, Putin đã nói rõ ràng rằng nếu NATO tiếp tục việc mở rộng về phía Đông có thể sẽ vấp phải sự phản kháng nghiêm trọng của người Nga, trong đó có cả giải pháp quân sự.  Điều bất ngờ là không chỉ riêng người Nga mới có quan điểm như vậy; một số chuyên gia chính sách đối ngoại có ảnh hưởng của Mỹ cũng có quan điểm tương tự.  </p>
+<p align="center"><img src="https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/THOISU_CT/Hinh/UKRAINE/CIA_giamdoc_WilliamJBurns.JPG" width="400" height="235" alt=""></p>
+<p>Trong số đó, phải kể đến, Giám đốc CIA của Biden, <b>William J. Burns</b>, đã cảnh báo về việc NATO khiêu khích Nga khi cố gắng mở rộng về phía Đông kể từ năm 1995<i><b>.</b></i> Đó là khi William J. Burns, đang là một quan chức trong Đại sứ quán Hoa Kỳ ở Moscow, đã báo cáo với Washington rằng <i><b>"Việc NATO mở rộng tạo ra không khí thù địch hầu như trên toàn bộ hệ thống chính trị ở Nga"</b></i></p>
+<p>Tổ chức Hiệp ước Bắc Đại Tây Dương - NATO, là một liên minh quân sự được thành lập bởi Hoa Kỳ, Canada và một số quốc gia châu Âu vào năm 1949 để ngăn chặn Liên Xô và sự lây lan của chủ nghĩa cộng sản.</p>
+<p><iframe width="350" height="197" src="https://www.youtube.com/embed/Ttc5gvMoFf0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe></p>
+
+<p><a href="https://www.youtube.com/watch?v=MhqGzWlnG-M"><b>3. TT Ukraine Tái Mặt Còn Nga Mừng Thầm Khi Tướng VN Nói 1 Câu Vạch Trần Âm Mưu Của Mỹ Và Đồng Minh</b> - YouTube</a></p>
+<p>Liệu truyền thông quốc tế có đang quá đà khi đồng loạt tuyên truyền Nga âm mưu xâm lược Ukraine? <i><b>Ai là người "đổ thêm dầu vào lửa", khiến xung đột Nga-Ukraine leo thang?</b></i> Giữa loạn lạc mà sao cứ lôi Việt Nam tôi vào làm gì? Câu trả lời cho những thắc mắc này đã được <b>Thượng tướng Nguyễn Chí Vịnh</b> vạch trần cực kỳ đanh thép, những lời lẽ ấy mới đây đã khiến truyền thông Nga dậy sóng, khiến thủ tướng Ukraina giật mình tái mặt. Cụ thể, ông đã phân tích như thế nào, mời các bạn cùng theo dõi ngay sau đây.</p>
+<p><iframe width="350" height="197" src="https://www.youtube.com/embed/MhqGzWlnG-M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe></p>
+
+<p><a href="https://www.youtube.com/watch?v=CLPM9aMokkE"><b>4. Mỹ Tức Điên Còn Putin Thì Nể Phục Khi Tướng Lê Văn Cương Bất Ngờ Vạch Trần Bí Mật Ở Ukraina</b> - YouTube</a></p>
+<p>Trong video trước, chúng tôi đã trích lời <b>Thiếu tướng Lê Văn Cương</b>, vạch trần những toan tính của phương Tây khi bơm cho Ukraina những ảo tưởng hảo huyền. Trong video ngày hôm nay, Thiếu tướng Lê Văn Cương - Phó Giáo sư, Tiến sĩ Triết học, Thiếu tướng Công an nhân dân Việt Nam, nguyên Viện trưởng Viện Nghiên cứu Chiến lược Bộ Công an Việt Nam đã có những đánh giá và nhận định rất chính xác về cuộc chiến này, kịch bản khả quan nhất có thể xảy ra khi 2 nước cùng đạt được một thỏa thuận trên bàn đàm phán thì chiến dịch quân sự đặc biệt sẽ kết thúc sớm. Đây cũng là điều mà cả thế giới mong muốn.</p>
+<p><iframe width="475" height="266" src="https://www.youtube.com/embed/CLPM9aMokkE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe></p>
+<p>_______________</p>
+<p><b>PHỤ LỤC:</b></p>
+<p><b><a href="https://www.facebook.com/nguyen.quoccong.568?__cft__%5b0%5d=AZVHC2OsurJHFjCD5vmA7iEJMImnF0zR63r9PykAVK-a18KI7hMOO0mgxe1sI4Yls0JZtlH-AiHURcLVGlp7wHhgfXMZMDNt_AA2udAs020RvxfZPtXRQkjou71sjX6SQCk&amp;__tn__=-UC%2CP-R">Nguyễn Quốc Công</a></b></p>
+<p>  April 17, 2022
+  &nbsp;&nbsp;·&nbsp;</p>
+<p><img src="https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/THOISU_CT/Hinh/UKRAINE/Busha.jpg" width="450" height="536" alt=""></p>
+<p>  <b>THẾ LÀ ĐÃ RÕ, AI GIẾT NGƯỜI Ở BUCHA?</b></p>
+<p>  NEW YORK, ngày 7 tháng 4 - RIA Novosti. Một nhà phân tích quân  sự người Mỹ, cựu thanh tra vũ khí Liên Hợp Quốc tại Iraq<b> Scott Ritter, </b>cho biết  người dân ở thành phố Bucha gần Kiev đã chết dưới tay quân đội Ukraine.Theo  ông, quân đội Nga tuyên bố rằng quân đội Nga đã ở Bucha trong vài tuần, quân  đội Nga có quan hệ tốt với người dân địa phương.</p>
+<p>  "Họ có một kiểu đổi chác: họ đổi khẩu phần khô của họ lấy  thực phẩm. Cư dân Bucha cho họ trứng, sữa, pho mát, còn người Nga cho khẩu phần  khô, bột mì, muối, đường, thịt của họ. Sau đó, người Nga bỏ đi. Người đã tham  gia vào quá trình tương tác như vậy với người Nga giờ được xem như một cộng tác  viên, "Ritter nói trong hội thảo trên web.</p>
+<p>  "Chúng tôi biết điều này vì Cảnh sát Quốc gia Ukraine đã  công bố thông báo rằng họ sẽ đến Bucha vào ngày 1 tháng 4 để thanh trừng và  loại bỏ những người cộng tác", ông nói thêm.</p>
+<p>  Theo nhà phân tích, điều này hoàn toàn trái ngược với cách tiếp  cận của Nga, đó là đối xử tôn trọng với tất cả cư dân Ukraine , cố gắng không  làm tổn hại đến dân thường.</p>
+<p>  Ukraine nói: Nếu bạn hợp tác với người Nga, bạn sẽ chết. Đừng  hoảng sợ, hãy ở nhà, "Ritter tiếp tục.</p>
+<p>  Theo ý kiến ​​của ông, những kẻ trừng phạt Ukraine đã bắn vào  những người trên đường phố, đập cửa những người hợp tác với quân đội Nga và  giết họ.</p>
+<p>  "Chúng tôi có video quay cảnh cảnh sát Ukraine, cụ thể là  nhóm Azov, tự hào tuyên bố rằng họ đang tham gia một chuyến đi săn. Tên của đơn  vị cảnh sát đặc biệt Ukraine đã vào Bucha là Safari. Và họ đã đi săn để truy  quét các cộng tác viên thân Nga "Thanh trừng có nghĩa là giết người. Không  phải để chiếm đoạt, mà là để giết. Và họ làm điều đó. Sau đó, họ đi bốc xác và  nói rằng người Nga đã làm điều đó", Ritter nói.</p>
+<p>  Ông cũng lưu ý rằng hầu hết các thi thể trong video từ Bucha đều  đeo băng tay màu trắng, "có nghĩa là họ đang nói với người Nga: chúng tôi  đứng về phía các bạn, đừng giết chúng tôi." Nhà phân tích cũng nói rằng  "bên cạnh mỗi thi thể là một hộp màu xanh lá cây từ khẩu phần khô mà họ đã  mang theo khi bị giết."</p>
+<p>  "Trong trường hợp khi họ (những thi thể nằm trong video)  không có băng trắng thì không có, vì họ đã trói tay sau lưng bằng băng đó.</p>
+<p>  Những người này đã bị giết. Không phải người Nga, mà bởi người  Ukraine. Nhưng đây không phải là luận điểm đang được thúc đẩy ở đây (ở Mỹ )  Điều ngược lại đang được tuyên bố ở đây, "Ritter nói.</p>
+<p>  Chuyên gia cũng chỉ ra rằng các thi thể trong video trông không  giống như chúng đã được tìm thấy kể từ khi quân đội Nga rời đi. "Những gì  bạn thấy trên TV là những người vừa bị giết. Và chúng tôi có thêm bằng chứng -  một nhà báo Mexico đã đến Bucha vào đúng ngày mà người Ukraine thông báo về  điều đó. Và anh ta trút bỏ những thi thể máu tươi. Anh ta nói rằng những nhiều  người đã bị giết gần đây, "Ritter nói.</p>
+<p>  “Những người này đã bị cảnh sát quốc gia Ukraine giết vào ngày 1  tháng 4. Sau đó, Tổng thống Mỹ ra mặt và nói rằng đây là tội ác chiến tranh do  người Nga gây ra và Vladimir Putin phải chịu trách nhiệm ở The Hague. Đây là  một cuộc chiến tuyên truyền không giống như bất cứ điều gì khác. những gì chúng  ta đã thấy trong thời đại của chúng ta, "ông kết luận.</p>
+<p>  Trước đó, nhà chức trách Ukraine và giới truyền thông đã phát  tán một đoạn video được cho là quay tại thành phố Bucha , vùng Kiev , nơi thi  thể những người thiệt mạng nằm trên đường. Nhiều người dùng Internet đặt câu  hỏi về tính xác thực của những cáo buộc của Kiev đối với Moscow , lưu ý rằng  không có máu gần các thi thể trên mặt đất và một số người chết có băng tay  trắng trên tay áo và có thể đã bị lực lượng an ninh Ukraine hoặc lực lượng  phòng vệ lãnh thổ giết chết. . Ngoài ra, người dùng còn nhận thấy “tử thần” cử  động tay, và khi nhìn vào gương chiếu hậu của xe người điều khiển, có vẻ như  một trong những “tử thần” thay đổi vị trí ngay khi xe chạy qua.</p>
+<p>  Bộ Ngoại giao kêu gọi điều tra sự hiện diện của các cơ quan tình  báo phương Tây ở Bucha</p>
+<p>  Bộ Quốc phòng Liên bang Nga tuyên bố rằng tất cả các bức ảnh và  video tư liệu do chính quyền Kiev công bố, được cho là bằng chứng cho một số  loại "tội ác" của quân nhân Nga tại thành phố Bucha, khu vực Kiev, là  "một hành động khiêu khích khác." Theo ghi nhận của cơ quan quân sự,  trong thời gian khu định cư này nằm dưới sự kiểm soát của Lực lượng vũ trang  Nga, không một cư dân địa phương nào phải chịu bất kỳ hành động bạo lực nào. Bộ  lưu ý rằng tất cả các đơn vị Nga đã hoàn toàn rời khỏi Bucha vào ngày 30 tháng  3 và các lối ra khỏi thành phố theo hướng bắc không bị phong tỏa, trong khi  vùng ngoại ô phía nam, bao gồm cả các khu dân cư, bị quân đội Ukraine nã pháo  cỡ lớn suốt ngày đêm, xe tăng và nhiều hệ thống tên lửa phóng.</p>
+<p>  Người phát ngôn của Tổng thống Nga Dmitry Peskov hôm thứ Hai cho  biết Nga bác bỏ dứt khoát mọi cáo buộc liên quan đến cái chết ở Bucha và yêu  cầu các nhà lãnh đạo quốc tế không vội vàng đưa ra những cáo buộc chống lại  Nga, mà hãy lắng nghe những lập luận của Moscow.</p>
+<p>  Theo ông, các nhà ngoại giao Nga sẽ tiếp tục thúc đẩy chủ đề về  vụ khiêu khích ở Bucha trong chương trình nghị sự của Hội đồng Bảo an Liên hợp  quốc .</p>
+<p>  St</p>

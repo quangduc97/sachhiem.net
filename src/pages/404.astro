@@ -1,0 +1,44 @@
+---
+import BaseLayout from '../layouts/BaseLayout.astro';
+---
+
+<BaseLayout title="Không tìm thấy trang">
+  <section class="hero">
+    <h2>404 — Không tìm thấy trang</h2>
+    <p>
+      Trang bạn tìm có thể đã đổi địa chỉ khi website chuyển sang nền tảng mới
+      (địa chỉ cũ có đuôi .php). Hãy thử tìm bài viết bên dưới:
+    </p>
+  </section>
+  <div id="search"></div>
+  <p style="text-align:center; margin-top: 2rem;">
+    <a href="/">← Về trang chủ</a>
+  </p>
+</BaseLayout>
+
+<link href="/pagefind/pagefind-ui.css" rel="stylesheet" />
+<script src="/pagefind/pagefind-ui.js" is:inline></script>
+<script>
+  window.addEventListener('DOMContentLoaded', () => {
+    const el = document.getElementById('search');
+    if (!window.PagefindUI) {
+      el.innerHTML = '<p class="card" style="text-align:center">Tìm kiếm hoạt động sau khi build.</p>';
+      return;
+    }
+    new PagefindUI({
+      element: '#search',
+      showSubResults: false,
+      showImages: false,
+      translations: {
+        placeholder: 'Tìm kiếm bài viết…',
+        clear_search: 'Xóa',
+        load_more: 'Xem thêm kết quả',
+        search_label: 'Tìm kiếm',
+        zero_results: 'Không tìm thấy kết quả cho [SEARCH_TERM]',
+        many_results: '[COUNT] kết quả cho [SEARCH_TERM]',
+        one_result: '[COUNT] kết quả cho [SEARCH_TERM]',
+        searching: 'Đang tìm kiếm [SEARCH_TERM]…',
+      },
+    });
+  });
+</script>

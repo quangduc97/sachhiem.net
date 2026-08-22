@@ -1,0 +1,80 @@
+---
+layout: ../../layouts/Article.astro
+title: "Đối Thoại Với Giáo Hoàng John Paul II - Lời Mở Đầu"
+author: "nhiều tác giả"
+date: 2014-08-20
+source: "https://sachhiem.net/DOITHOAI/GiaodiemDT0.php"
+category: "Chính trị"
+lang: vi
+wordCount: 2888
+image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/TONGIAO/IMG/SACH/DoithoaiGH.jpg"
+---
+
+<p><a href="/DOITHOAI/GiaodiemDT1">&nbsp;1</a> <a href="/DOITHOAI/GiaodiemDT2">&nbsp; 2</a> <a href="/DOITHOAI/GiaodiemDT3">&nbsp; 3</a> <a href="/DOITHOAI/GiaodiemDT4">&nbsp; 4</a> <a href="/DOITHOAI/GiaodiemDT5">&nbsp; 5</a> </p>
+  <a name="modau"></a>
+  <div class="tomluoc">
+    <p>&nbsp;Nhân đọc cuốn <b>BƯỚC  QUA NGƯỠNG CỬA HY VỌNG </b></p>
+    <p> với các bài  viết của:&nbsp; </p>
+    <p class="PicLeft"> <img src="https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/TONGIAO/IMG/SACH/DoithoaiGH.jpg" width="150" height="246"> </p>
+ <p class="TacgiaL">Phạm Trọng  Chánh * Minh Chi * Nguyễn Tử Đóa * Phan Quốc Đông * Phan Tấn Hùng * Nguyễn Kết  * Trần Văn Kha * Lê Hiếu Liêm * Vũ Trọng Minh * Trần Chung Ngọc * Hoàng Nguyên  Nhuận * Đặng Nguyên Phả * Vũ Huy Quang * Nguyễn Phúc Bửu Tập * Hoàng Hà Thanh *  Nguyễn Văn Thọ * Nguyễn Hoài Vân * Lý Khôi Việt </p>
+    <p><b>Xuất bản</b>:  Tạp chí Giao Điểm, California Hoa Kỳ</p>
+<p>   Biên tập: Phan Mạnh  Lương và Đỗ Hữu Tài </p>
+<p>   Bìa: Khánh Trường </p>
+<p>   Xuất bản lần thứ  nhất 3000 cuốn, tháng 6-1995 </p>
+<p>   Lần thứ hai 2000  cuốn, tháng 8-1995 </p>
+<p>   Lần thứ ba 2000  cuốn, tháng 1-2000</p>
+<p>   <b>Sửa bản vi  tính lần 4, tháng 2-2005: Nguyên Định </b></p>
+  </div>
+<p> <a href="/DOITHOAI/GiaodiemDT0">- Lời mở đầu sách đối thoại</a> </p>
+<p> - <a href="/DOITHOAI/GiaodiemDT1" target="_blank">Lý Khôi Việt: Phê bình cuốn “<i>Bước qua ngưỡng cửa hy vọng</i>”</a> </p>
+<p> - <a href="/DOITHOAI/GiaodiemDT1#NK" target="_blank">Nguyễn Kết: Ra và vào “<i>ngưỡng cửa hy vọng</i>”- đọc sách của GH Phao-lồ II</a> </p>
+<p> - <a href="/DOITHOAI/GiaodiemDT1#NVT" target="_blank">Nhân Tử Nguyễn Văn Thọ: Vài nhận định về tác phẩm “<i>Bước qua ngưỡng cửa hy  vọng</i>”</a> </p>
+<p>  - <a href="/DOITHOAI/GiaodiemDT2" target="_blank">Hoàng Hà Thanh: Về nỗ lực bào chửa cho GH John Paul II của một tín đồ  Kitô Rôma</a> </p>
+<p>  - <a href="/DOITHOAI/GiaodiemDT2#TCN" target="_blank">Trần Chung Ngọc: Bước qua ngưỡng của vô minh?</a> </p>
+<p>  - <a href="/DOITHOAI/GiaodiemDT2#PTH" target="_blank">Phan Tấn Hùng: Từ trong nhà, ra ngoài chợ</a> </p>
+<p> - <a href="/DOITHOAI/GiaodiemDT3" target="_blank">Trần Văn Kha: Phật giáo và Giáo hoàng</a> </p>
+<p> - <a href="/DOITHOAI/GiaodiemDT3#PTC" target="_blank">Phạm Trọng Chánh: Đối thoại “<i>sở tri chướng</i>” và “<i>kinh tế thị trường</i>”</a> </p>
+<p> - <a href="/DOITHOAI/GiaodiemDT4" target="_blank">Nguyễn Hoài Vân: Đạo nào nhập thế tiêu cực? đạo nào nhập thế tích cực?</a> </p>
+<p> - <a href="/DOITHOAI/GiaodiemDT4#VTM" target="_blank">Vũ Trọng Minh: Thư ngỏ gửi GH John Paul II</a> </p>
+<p> - <a href="/DOITHOAI/GiaodiemDT4#MC" target="_blank">Minh Chi: Phật giáo có phủ định cuộc sống và thế giới hay chăng?</a> </p>
+<p> - <a href="/DOITHOAI/GiaodiemDT4#HNN" target="_blank">Hoàng Nguyên Nhuận: Nói chuyện với ‘nửa phần hồn’ của tôi</a> </p>
+<p> <b>Phần phụ lục :</b> </p>
+<p> - <a href="/DOITHOAI/GiaodiemDT5" target="_blank">Lê Hiếu Liêm: Quan điểm đạo Phật về giải thoát và phụng sự con người</a> </p>
+<p> - <a href="/DOITHOAI/GiaodiemDT5#bNPBT" target="_blank">Nguyễn Phúc Bửu Tập: Giáo lý nhà Phật và phát triển kinh tế</a> </p>
+<p> - <a href="/DOITHOAI/GiaodiemDT5#cNTD" target="_blank">Nguyễn Tử Đóa: Đạo Phật trong mắt tôi</a> </p>
+<p> - <a href="/DOITHOAI/GiaodiemDT5#dPQD" target="_blank">Phan Quang Đông: Nỗi ăn năn thống hối của một người theo “<i>Công giáo</i>”</a> </p>
+<p> - <a href="/DOITHOAI/GiaodiemDT5#eVHQ" target="_blank">Vũ Huy Quang: Về sự chính xác của một danh xưng quan trọng</a></p>
+<hr>
+  
+  <p class="TuaDoLeft"><b>LỜI NÓI ĐẦU</b></p>
+<p> Trong phần  mở đầu của tác phẩm <b><i>Bước Qua Ngưỡng  Cửa Hy Vọng</i> (BQNCHV)</b> mà nguyên bảng là tiếng Ý (với hai bản dịch được  phổ biến rộng rải nhất bằng Pháp ngữ, <i>Entrez  Dans l’Espérance</i>, và Anh ngữ, <i>Crossing</i> <i>The Threshold of Hope</i>), nhà văn Ý  Vittorio Messori, người thực hiện cuốn sách, có viết:</p>
+<p> Bây giờ là  lúc mà những chuyên gia về thần học và phân tích gia về việc hành đạo&nbsp; của Giáo Hoàng phải đương đầu với công việc  phân định thể loại cho quyển sách này,&nbsp;  quyển sách mà thể loại của nó chưa từng có trong lịch sử của Tòa Thánh,  và vì thế quyển&nbsp; sách này đang đặt ra  nhiều khía cạnh khả dĩ mới cho Tòa Thánh.</p>
+<p> Khía cạnh  mới mà ông đề cập ở đây chỉ là khía cạnh hình thức thể loại. Ba điểm “<i>mới</i>” hơn  nhiều về khía cạnh thái độ, mới thật là điều đáng làm cho chúng ta thật sự quan  tâm:</p>
+<p> Thứ nhất là <b>Giáo  Hoàng công khai hóa những tư tưởng chiến lược mà Tòa Thánh đang đối trị với các  cuộc khủng hoảng hiện tại</b>; Thứ hai là thông qua những tư tưởng đó, hiển lộ  lên bản sắc <b>không giấu kín</b> được của lãnh tụ một thế lực tôn giáo lớn; và  thứ ba thái độ gần như thách thức bằng <b>một cuộc đối thoại rộng rãi và trực  tiếp</b>, mà phần tham dự của những nguồn trí tuệ phi-Thiên Chúa giáo không  phải là không quan trọng.</p>
+<p> Mới vì ba  điều này đều không nằm trong truyền thống và lịch sử của Giáo Hội Vatican cũng  như của đại đa số các Giáo Hoàng tiền nhiệm, vốn bảo thủ, kín mật và giáo điều.  Thông cảm và chấp nhận những điều mới đó, <b><i>Giao điểm</i></b> quyết định  hình thành <b><i>Tuyển Tập Đối Thoại</i></b><i> này</i>.</p>
+<p> Chúng ta  đều biết rằng Vatican là một quốc gia rất đặc biệt<b>, nửa đạo nửa đời</b>.  “<i>Công dân</i>” ở khắp nơi và “<i>biên giới</i>” ở khắp chốn. Đặc biệt là mặt tư tưởng, có  những cơ quan cao cấp và uyên bác chuyên nghiên cứu và đối thoại với các trào  lưu học thuật lớn, như Mác-xit, hoặc các tôn giáo Đông phương. Cho nên tư tưởng  mà Giáo Hoàng trình bày trong tác phẩm BQNCHV không phải là ngẫu nhiên, lại  càng không phải là nông nỗi căn cứ trên một số nguồn tài liệu bất khả tin.  Ngược lại, chúng được hình thành bằng một thái độ cẩn trọng, có nghiên cứu sâu  sắc, và quan trọng hơn cả, <b>có dụng ý  chiến lược</b> nhất định. Đó là những luận điểm đã được Giáo Hoàng, trực tiếp  hay gián tiếp, thể hiện thành lập trường, chứng nghiệm bằng chính sách nhiều  lần, cả trước lẫn sau lúc Ngài được bầu làm Giáo Hoàng từ 15 năm trước, vào  ngày 22 tháng 10 năm 1978 (xem thêm <i>Humanae  Vitae, A Sign of the Contradiction, Sollicitudo Rei Socialis, Catechism of the  Catholic Church…</i>). Đặc biệt, chúng đã được xác nhận một cách <b>công khai,  chi tiết và không khoan nhượng</b> trong các bài giảng hoặc diễn văn, đọc trong  hơn 60 chuyến du hành khắp thế giới, tại các điểm “<i>nóng</i>”, nơi mà nền móng tín  lý và cơ cấu tổ chức của Giáo Hội đang bị <b>chao đảo hoặc đang bị đe dọa</b>.</p>
+<p> Từ tháng  10 năm 1993, khi chấp nhận một buổi phỏng vấn trực tiếp truyền hình, cho đến  tháng 4 năm 1994, khi Trưởng phòng Báo chí Tòa Thánh Joaquin Navarro trao lại  cho ông Vitorio thủ bút 35 câu trả lời (với những đoạn cẩn thận gạch dưới để  nhấn mạnh những ý chính), rồi sau đó lại đích thân lược duyệt và chấp thuận bản  in, hẳn Giáo Hoàng cũng đã biết tác dụng to lớn của những điều Ngài phát biểu  trong cuốn sách này.</p>
+<p> Hơn nữa, ở  cương vị của một nhân vật “<i>đại diện cho Thiên Chúa</i>”, chủ chăn của một Giáo Hội,  lãnh đạo một thế lực tôn giáo mà thế quyền nhiều lúc còn mạnh hơn cả giáo quyền  trong các biến động lớn, tác động lên cả toàn thế giới, Giáo Hoàng và những vị  phụ tá chuyên ngành của Ngài chắc chắn đã dự kiến được những chấn động sâu sắc  và lâu dài trên lịch sử Giáo Hội cũng như một phần khá lớn của nhân loại. Tại  vì “<i>khi một con bướm đập cánh ở Cấm thành Bắc Kinh thì nó đã thật sự gây ra  những ảnh hưởng tương tác trên mô hình khí tượng tận xứ Ba Tây</i>” (<i>Theory of Chaos </i>của Lorentz).</p>
+<p> Do đó, dù  đây là một Ex Cathedra, không phải như khi công bố một Giáo điệp (“<i>Đức Mẹ vô  nhiễm nguyên tội</i>” của Giáo Hoàng Piô IX hay “<i>Đức Mẹ lên trời cả hồn lẫn xác</i>”  của Giáo Hoàng Piô XII chẳng hạn), thì tính không sai lầm (<i>infaillibility</i>) của Giáo Hoàng cũng mang sức mạnh áp đảo lên trên  nhận thức - và do đó, lên trên ứng xử - của gần một tỉ tín đồ trực thuộc Giáo  Hội La Mã và rất nhiều thành phần khác xa lạ với những chủ đề mà Giáo Hoàng  Gioan Phao Lồ II đề cập đến. <i>Một trong những chủ đề đó là Đức Phật và đạo  Phật (7 trang của chương 14, và 6 trang khác rải rác trong tác phẩm).</i></p>
+<p> Những chủ  đề khác liên hệ đến ba cuộc <i>khủng  hoảng Giáo lý, khủng hoảng Giáo chế và khủng hoảng Giáo quyền</i> của  Giáo Hội La Mã (minh nhiên đàng sau những câu hỏi hơn là lộ diện trong những  câu trả lời) xin để cho các thức giả về lãnh vực này, hoặc các thành phần liên  hệ trực tiếp đến ba cuộc khủng hoảng đó, góp ý. Riêng tuyển tập này của <b><i>Giao Điểm</i></b>, chúng tôi chỉ giới hạn  trong những nhận thức cá nhân của một số học giả Việt Nam về những quan điểm  của Giáo Hoàng Gioan Phao Lồ II khi đề cập đến đạo Phật mà thôi.</p>
+<p align="center"> * * *</p>
+<p> Có ba lý  do khiến <b><i>Giao Điểm</i></b> cần đối  thoại với Giáo Hoàng Gioan Phao Lồ II:</p>
+<p> Thứ nhất  là về mặt thái độ. Chúng tôi quan niệm rằng đối thoại là bước đầu tiên của cuộc  trường chinh tìm kiếm Hòa Bình và Phát Triển, và chúng ta thật sự đang ở hồi  chung cuộc của một cuộc thách thức lớn, trong đó, nhu cầu, ý chí, và khả năng <i>đối  thoại giữa người với người, giữa quốc gia với quốc gia, giữa trào lưu với trào  lưu, đã cỡi lên được đầu sóng của cơn bùng nổ thông tin để đạt đến mức độ cao  nhất</i>. Thoát ra được những ốc đảo thiên kiến, những ghetto vô minh, chúng ta  sẽ an lạc và tỉnh thức để phát triển trong hòa bình. Không thoát ra được, chúng  ta sẽ <i>trở thành nạn nhân của sự thui chột trí tuệ trong hận thù và thoái hóa</i>.  Giáo Hoàng Gioan Phao Lồ II đã ngoạn mục hé mở cánh cửa đối thoại về đạo Phật,  đã công khai và rộng rãi trình bày những quan điểm của mình về đạo Phật, và cụ  thể và rốt ráo hơn, đã quy định chiến lược đối phó với Đạo Phật cho các tín hữu  Thiên Chúa giáo của Ngài. Do đó, <b><i>Giao  Điểm</i></b>sẽ mở toang cánh cửa đã  mở này và bước vào đối thoại với Ngài. Thái độ này hoàn toàn phù hợp với sự vận  hành của Lý Duyên Sinh và Luật Nhân Quả của Đạo Phật cũng như nhu cầu đối thoại  của thời đại.</p>
+<p> Thứ hai,  mọi cuộc đối thoại là tìm ra chân lý, và, quan trọng hơn cả, vận dụng chân lý  đó vào việc thăng hoa cuộc sống. <b>Chúng tôi cho rằng Giáo Hoàng đã có những  ngộ nhận, thậm chí có những trường hợp còn xuyên tạc, nội dung của Giáo Pháp  đạo Phật</b>. Như đã trình bày ở trên, chúng tôi không nghĩ rằng Ngài và các  phụ tá của Ngài hiểu biết nông cạn về một tôn giáo mà, qua tác phẩm BQNCHV, bị  xem như là đang tranh giành một cách có hiệu quả ảnh hưởng của Tòa Thánh tại  các xã hội Tây phương. Hơn nữa, Gioan Phao Lồ II, ở cương vị giáo chủ một Giáo  Hội, nguyên thủ một siêu quốc gia, dĩ nhiên sẽ không tuyên bố một điều mà mình  không biết rõ. Ngoại trừ Ngài cố tình như vậy.</p>
+<p> Nhưng dù  là ngộ nhận hay xuyên tạc, vô tình hay cố ý, thì cả triệu ấn bản (bằng hơn 20  ngôn ngữ khác nhau) cũng đã được phát hành cho nhiều người đọc trên thế giới  rồi. <b><i>Giao Điểm </i></b>không làm  chuyện giải hoặc luận điệu của Ngài để tranh thủ những người đó. <b><i>Giao Điểm</i></b>chỉ muốn trình bày lại sự thật như nó là thế. Đạo Phật không có  truyền thống tranh thắng, chỉ có nỗ lực đi tìm chân lý. Lời dạy của Đức Phật  vừa khế lý (đúng với chân lý) lại vừa khế cơ (hợp với căn cơ), không phải chỉ  vì một câu nói của một người, dù đó là Giáo Hoàng Thiên Chúa Giáo “<i>đại diện cho  Thiên Chúa</i>” chăng nữa, mà mất tính khế lý và khế cơ của Phật Pháp.</p>
+<p> Thứ ba, và  đây có lẽ là điều thiết thân nhất của <b><i>Giao  Điểm</i></b>, là tình cảm xót xa của những người Việt Nam có sống một phần và  có hiểu biết một cách lương thiện về lịch sử cận đại của đất nước mình. Một  chuỗi lịch sử được nối kết bằng những đợt sóng chống ngoại xâm bi hùng, trong  đó, vai trò của những nhà truyền giáo phương Tây và các sản phẩm bản địa của  họ, tác hại của những chính sách xâm thực văn hóa đến những trung tâm quyền lực  Thiên Chúa Giáo Âu Châu (mà tài liệu chắc chắn còn được lưu trữ trong văn khố  của Tòa Thánh Vatican) đến nay vẫn còn di hại sinh lực của Tổ quốc.</p>
+<p> Trong gần 300 năm  cuồn cuộn đó, <b>đạo Phật và Phật tử chưa bao giờ đứng ở phía cường quyền, lại  càng chưa bao giờ đếm xỉa đến những ân huệ của quân ngoại xâm</b>. Ngược lại,  đạo Phật và Phật tử Việt Nam đã tận tình cống hiến cho sự nghiệp cứu nước và  dựng nước của dân tộc để rồi lại trở thành nạn nhân của những thế lực vừa phi  dân tộc vừa phản dân tộc. Nạn nhân ấy cho đến kể cả giờ phút này, trải dài từ  quảng trường Thánh Phêrô ở Vatican cho đến phố Bolsa của Little Saigon.</p>
+<p> Với tâm  cảnh đó, và trong nổ lực tháo gỡ những gọng kềm oan trái của lịch sử, <b><i>Giao Điểm</i></b>thấy cuốn BQNCHV không những đã không đóng góp gì cho tiến trình  hàn gắn một trong những vết thương chí tử của dân tộc mà lại còn, từ nhân vật  cao cấp nhất và có thẩm quyền nhất của Giáo Hội Thiên Chúa Giáo La Mã, xé nát  thêm tình nghĩa đồng bào trong một quả địa cầu mà biên giới quốc gia và đạo  nghĩa dân tộc càng lúc càng bị mờ nhạt. Vì vậy mà ngoài tư cách Phật tử, <b><i>Giao Điểm</i></b>còn đứng trong vị thế của một người Việt Nam để đối thoại với Giáo  Hoàng Gioan Phao Lồ II nữa.</p>
+<p> Vì hai tư  cách đó quấn quít với nhau như trầu với cau nên bạn đọc sẽ thấy các bài viết  trong <b><i>Tuyển Tập Đối Thoại</i></b>này đan bện cả tình lẫn lý. Cho nên dù  lĩnh vực biện giải là Đạo học hay Sử học, dù hình thức trình bày là thảo luận  hay hồi ức, thì mục đích của những bài viết vẫn là làm sáng tỏ những ngộ nhận,  làm triệt tiêu những xuyên tạc về Đức Phật và Đạo Phật trong tác phẩm BQNCHV.  Lẽ dĩ nhiên, tùy căn cơ và duyên nghiệp, tuy mức độ tu học và kinh nghiệm hành  trì, các tác giả có những phương cách tiếp cận khác nhau và có những cách thế  lý giải khác nhau. <i>Nhưng dù là cách nào, thì cuối cùng đạo Phật cũng sẽ được  hiểu không những khác mà còn ngược lại với cách mà Giáo Hoàng Gioan Phao Lồ II  đã trình bày trong tác phẩm của Ngài</i>. Tính đa diện đó, vì vừa bất biến vừa  tùy duyên, là đặc tính tất yếu của một Đạo Phật, vốn lấy trí tuệ làm rường cột  tu học và lấy tự do độc lập tư duy làm nền móng hành xử.</p>
+<p> Tuyển tập  này, do đó trước hết là để đối thoại với Giáo Hoàng bằng cách gửi đến cá nhân  Ngài một ấn bản để tham cứu và trả lời. Sau đó là chủ yếu nhắm vào thành phần  độc giả muốn có một cái nhìn đối chiếu về Đạo Phật, với tinh thần tư duy độc  lập, làm đối tượng. Đặc biệt nó cũng được trao gửi cho những đồng bào Thiên  Chúa giáo tiến bộ còn quan tâm đến và còn muốn duy trì một bản sắc văn hóa đặc  thù của dân tộc ta. </p>
+<p> Và cuối cùng, là cho những đồng đạo Phật  tử Việt Nam, để được thông tin về một sự cố có liên quan đến tôn giáo của mình,  dù, như <i>Kinh Kim Cương </i>đã biện chứng:  “<i>Phàm sở hữu tướng, giai thị hư vọng</i>”.</p>
+<p> Vào thế kỷ  thứ 13, tại Việt Nam đời nhà Trần, chúng ta có Thiền Sư Tuệ Trung Thượng Sĩ,  người mà tư tưởng hành trạng đã vượt lên trên những kích thước của thời đại  ông, đã đập vỡ những khuôn phép trần thế của chính tôn giáo ông, đã thể hiện  sáng chói <i>tính rỗng không</i> của hai phạm trù đối đãi Xuất thế và Nhập thế.</p>
+<p> Ông có một tài Tụng Cổ mà Huệ Chi đã diễn  ngữ như sau:</p>
+<p>
+  <i>Một  phen phất áo bước thong dong<br> Tháp chủ trừng trừng, giận chẳng  xong<br> Phật, Tổ rốt cùng đều chẳng lễ<br> Ngọc ngân khe sớm, ánh thu trong.</i></p>
+<p> An trụ trong phong thái “<i>phất áo bước  thong dong</i>” đó, <b><i>Giao Điểm</i></b>xin mời độc giả vào cuộc Đối Thoại. <img src="https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/sqdot.gif" width="10" height="10"></p>
+  <p>
+  <b>Giao  Điểm </b></p>
+<p> 31.5.1995 </p>
+  <p class="TacgiaL">nhiều tác giả </p>
+  <p class="nguonL">Nguồn Bản electronic do Hồng Quang gửi cho SH </p>

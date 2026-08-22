@@ -1,0 +1,489 @@
+---
+layout: ../../../layouts/Article.astro
+title: "TÌNH TRẠNG NGU DỐT CỦA ÔNG NGÔ ĐÌNH DIỆM"
+author: "- Nguyễn Mạnh Quang -"
+date: 2023-10-30
+source: "https://sachhiem.net/NMQ/HOSOTOIAC/CH63_1fA.php"
+lang: vi
+wordCount: 4883
+image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/LICHSU/IMG/NGODD/HONHAN/NDD_hySpellman_ksMaryKnoll.png"
+---
+
+<div class="tomluoc">
+  <p><i>LTS: Đây là một phần của Chương 63 trong tập sách GIÁO HỘI LA MÃ: LỊCH SỬ VÀ HỒ SƠ TỘI ÁC cùng tác giả. Chúng tôi trích ra để cống hiến bạn đọc nhân ngày 1 và 2 tháng 11, kỷ niệm 60 năm lật đổ nhà độc tài gia đình trị tam đại Việt gian Ngô Đình Diệm. Xin mời (SH)</i></p>
+</div>
+<p align="center"><img src="https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/LICHSU/IMG/NGODD/HONHAN/NDD_hySpellman_ksMaryKnoll.png" width="400" height="318" alt=""></p>
+<p class="CHUONG">I. QUA   NHỮNG LỜI TUYÊN BỐ CỦA CHÍNH ÔNG TA.</p>
+<p>
+Người ta thường nói “<i><u>Văn 
+tức là người</u></i>”. Văn đây có nghĩa là&nbsp; những lời lẽ hay ngôn tử sử dụng 
+trong việc ứng xử hàng ngày với mọi người hay những lời văn viết trong các tác 
+phẩm của một người nào đó.&nbsp; Ông Ngô Đình Diệm là một chính khách, không phải là 
+một nhà văn, cho nên ông không để lại một lời văn viết nào cả. Nhưng vì là chính 
+khách đã từng nắm giữ chức vụ tổng thống miền Nam hơn chín năm trời, ở vào địa 
+vị này, ông đã tiếp xúc với rất nhiều nhân vật có&nbsp; thế lực ở trong nước cũng như 
+ở nước ngoài, với rất nhiều nhà báo trong các cơ quan truyền thông ở trên thế 
+giới và cũng đã từng đưa ra những lời tuyên bố mà sách sử đã ghi lại. Dưới đây, 
+người viết xin ghi lại những lời tuyên bố của chính ông và những lời 
+nhận xét của các nhà trí thức hay chính khách quốc tế.&nbsp; </p>
+
+<p><b>
+  1.-</b> 
+  Trước hết, chúng ta trở lại chuyện bản văn do nhà viết sử Lương Minh Sơn ghi 
+  nhận lời tuyên bố của ông Diệm trong bữa cơm được tổ chức tại Khách Sạn 
+  Mayflower ở Washington D.C vào tháng 10 năm 1950 để cho các cán bộ của Giáo Hội 
+  La Mã giới thiệu ông ta với các viên chức cao cấp trong Bộ Ngoại Giao Hoa Kỳ mà 
+  người viết đã trích dẫn ở trong chương sách nói về <i>Những Tính Toán Của Vatican 
+  Trong Năm 1950</i> ở trên. </p>
+
+<p><i>
+"...Mục đích của buổi gặp 
+gỡ xã giao này&nbsp; là để chính phủ Hoa Kỳ tìm hiểu về tình hình Việt Nam và để xác 
+định lập trường chính trị của ông Diệm và Đức Cha Thục. Sự kiện 90% người dân 
+Việt Nam không phải là tín đồ Thiên Chúa Giáo không làm ông Diệm quan tâm vì ông 
+đã tuyên bố tối hôm đó rằng ông <b>"tin tưởng vào quyền lực của 
+Vatican và ông chống Cộng&nbsp; một cách cực lực.”</b> … </i></p>
+
+<p>“<i>Điều còn lại sau cùng 
+cho kế hoạch chính trị hỗn hợp này là làm thế nào để giải thích cho Hội Đồng 
+Chính Phủ và Quốc Hội Hoa Kỳ&nbsp; và kinh nghiệm chính trị và khả năng lãnh đạo của 
+ông Ngô Đình Diệm? Tổng Thống Eisenhower cũng chỉ có thể trấn an Hội Đồng Chính 
+Phủ bằng câu nói, “Trong đám mù, thằng chột làm vua,”.[HER]. Điều này cho thấy: 
+một là ông Diệm không có một thành tích chính trị nào đáng kể, hai là ông Diệm 
+không có khả năng lãnh đạo, hoặc ba là người Mỹ hoàn toàn không biết gì về ông 
+Diệm</i>.”<a name="_ednref1" title="" href="/NMQ/#_edn1">[i]</a>&nbsp;
+</p>
+
+<p><b>
+2.-</b> 
+Trong cuốn sách Những Ngày Cuối Cùng Của Tổng Thống Ngô Đình Diệm, tác giả Hoàng 
+Ngọc Thành và Thân Thị Nhân Đức ghi lại lời tuyên bố của ông Ngô Đình Diệm với 
+nguyên như như sau:</p>
+
+<p>
+"<i>Chế độ này còn nhiều 
+khuyết điểm, cũng còn hơn nhiều chế độ khác. Người ta chê là độc tài, nhưng chỉ 
+ngại còn những thứ độc tài khủng khiếp hơn.... Tôi tiến thì theo Tôi, Tôi lùi 
+thì bắn tôi, <u>Tôi chết thì trả thù cho Tôi</u>,</i>.."<a name="_ednref2" title="" href="/NMQ/#_edn2">[ii]</a>
+</p>
+
+<p>
+Là một đồ Da-tô thuộc loại 
+bế ngửa (đạo gốc, rửa tội lúc còn bế ngửa), ông Diệm ít nhất mỗi ngày đến bàn 
+thờ Chúa Jesus cầu nguyện một hai lần (như đã nói ở trên). Ấy thế mà ông&nbsp; vẫn 
+không nhớ được lời Chúa dạy "<i>Ta tha thứ cho kẻ thù của Ta</i>", lúc Ngài bị 
+đóng đinh trên cây thập giá ở Núi Sọ, cho nên ông mới đưa ra lời tuyên bố ngu 
+xuẩn rằng, "<i>Tôi chết thì trả thù cho tôi</i>."&nbsp; Trong khi đó, cũng là tín đồ 
+Da-tô thuộc loại bế ngửa như ông, cũng mang đầy tội ác đối với nhân dân như ông, 
+cũng phải đền tội trước nhân dân như ông, nhưng khi bước lên đoạn đầu&nbsp; đài đền 
+tội vào ngày 21/1/1793, Vua Louis XVI lại nhớ lời dạy trên đây của Chúa Jesus&nbsp; 
+và đã tuyên bố rằng: "<i><u>Tôi tha thứ cho những kẻ thù của tôi</u></i>". Sự 
+kiện này được sách Cách Mạng Và Hành Động ghi lại như sau:</p>
+
+<p>
+"<i>Tới ngày 21/1/1793, 
+Louis XVI lên đoạn đầu đài, theo sau có một tu sĩ không tuyên thệ với Cách Mạng. 
+Nhà vua tự tay cởi áo và cà vạt, rồi yên lặng để người ta trói tay mình. Ông chỉ 
+kêu lên: "Tôi vô tội. Tôi tha thứ cho những kẻ thù của tôi, và tôi cầu Chúa để 
+máu của tôi khỏi gây họa cho dân chúng." Rồi lưỡi dao hạ xuống Louis Carpet rớt 
+xuống thùng vôi...</i>"<a name="_ednref3" title="" href="/NMQ/#_edn3">[iii]</a> 
+.</p>
+<p align="center"><img src="https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/LICHSU/IMG/NGODD/HONHAN/NDD_hyAgagianian.png" width="450" height="340" alt=""></p>
+
+<p><b>
+3.-</b>&nbsp; 
+Trong cuốn Hai Mươi Năm Qua 1945-1964 Việc Từng Ngày, cụ Đoàn Thêm ghi lại lời 
+tuyên bố của ông Ngô Đình Diệm: </p>
+
+<p>
+"<i>Sau lưng Phật Giáo 
+trong nước còn có Hiến Pháp, nghĩa là còn có tôi</i>."<a name="_ednref4" title="" href="/NMQ/#_edn4">[iv]</a>
+</p>
+
+<p>
+Điều khôi hài là chính ông&nbsp; Diệm cũng 
+không biết rằng lời tuyên bố trên đây là ngu xuẩn và ngang nguợc. Người ta bảo 
+rằng nó lú có chú nó khôn, nhưng cái lũ chú của anh em ông Ngô Đình Diệm cũng 
+chẳng khôn chút nào cả. Cái lũ chú này là Giám Mục Ngô Đình Thục, Giám-mục Pham 
+Ngọc Chi, các Linh-mục Nguyễn Văn Thuận (sau này được phong chức giám mục, rồi 
+lại được chức hồng y nữa),&nbsp; Mai Ngọc Khuê, Đinh Xuân Hải, Tô Đình Sơn, Nguyễn 
+Lạc Hóa, Trần Đình Vận, Bửu Dưỡng, Cao Văn Luận, Nguyễn Quang Lãm, Trần Du, 
+Nguyễn Bá Lộc, Thanh Lãng, v v... và một số đông các nhà trí thức Da-tô ngoan 
+đạo có bằng cấp đại học. Vì ngu dốt, cho nên họ không biết rằng ở ngay nước Hoa 
+Kỳ (đã chủ mưu tạo nên miền Nam và chế độ Ngô Đình Diệm), tất cả mọi người đều 
+phải hành xử theo luật pháp và hiến pháp Hoa Kỳ, không có môt người nào, dù là 
+Tổng Thống Hoa Kỳ đi nữa cũng không được đứng trên hay sau lưng Hiến Pháp và 
+luật pháp. "<i>No American is above the law</i>". </p>
+
+<p>
+Điều khôi hài khác nữa là 
+ông Diệm thường huênh hoang khoác lác khoe khoang rằng ông là một nhà Nho đến 
+nỗi một sử gia người ngoại quốc tên là Denis Warner lầm tưởng rằng ông ta là một 
+nhà Nho thật sự cho nên mới viết một cuốn sách nói về ông ta và về chế độ của 
+ông ta với tựa đề là <i>"The Last Confucian"</i> (New York: The Macmillan Company, 
+1963.) Tự xưng là một nhà Nho,&nbsp; nhưng ông Diệm lại không nhớ lời của Thày Mạnh 
+Tử dạy <i>rằng "Dân vi quý, xã tắc thứ chi, quân vi khinh</i>" và “<i>Dân chí sở 
+ố, ố chi; dân chi sở hiếu, hiếu chi;. Thử chi vị dân chi phụ mẫu</i>.” Vì không 
+nhớ (hay không biết) các lời dạy trên đây,&nbsp; cho nên ông mới tuyến bố một cách 
+ngang ngược và ngu xuẩn rằng "<i>Sau lưng Phật Giáo trong nước còn có Hiến Pháp, 
+nghĩa là còn có tôi</i>."</p>
+
+<p class="MUC">
+<a name="VIII.-">II.-</a> QUA
+NHỮNG LỜI NHẬN XÉT CỦA CÁC 
+NHÀ TRÍ THỨC</p>
+<p>
+ Như đã 
+trình bày ở trên, tình trạng ngu đốt của ông Diệm&nbsp; được thể hiện ra vào những 
+dịp như khi tiếp xúc hay nói chuyện với những nhân vật trong Bộ Ngoại Giao Hoa 
+Kỳ vào tháng 10/1950, khi tiếp xúc với các sinh viên Việt Nam đang du học ở Âu 
+Châu trong thời gian 1951-1954 (sẽ nói rõ trong một tiểu mục ở sau), khi làm 
+việc với ông cố vấn đặc biệt của Hoa Kỳ là Đại Tá Edward G. Lansdale, khi tâm 
+tình với những người đồng đạo thân tín như cựu Tướng Hùynh Văn Cao, và những khi 
+phải tuyên bố long trọng với nhân dân. Bất kỳ lúc nào và ở bất kỳ trường hợp 
+nào, ông Diệm cũng để lộ ra tình trạng cuồng tín, ngu xuẩn và dốt nát của mình, và người ta có cơ hội để nhận xét về ông.</p>
+
+<p>
+1.- Trong bài viết “<i>Bài 
+Học Chiến Tranh Việt Nam Nhìn Từ Hậu Trường Chính Trị Hoa Kỳ” </i>đã được trích 
+dẫn&nbsp; ở trên, ông Ngô Đình Diệm bị các nhân việc trong chính phủ chế là thiếu khả 
+năng chính trị (một cách nói ám chỉ sự ngu dốt của một chính khách như ông Diệm) 
+khiến cho Tổng Thống Eisenhower phải trấn an họ bằng câu nói “<i>Trong đám thằng 
+mù, thằng chột làm vua</i>.” </p>
+
+<p>
+2.- Trong cuốn Tôi Làm Cố 
+Vấn Cho Tổng Thống Ngô Đình Diệm, cựu Tướng&nbsp; Edward&nbsp; G. Lansdale kể lại <b>nỗi 
+bực mình của ông về cái ngu của ông Diệm bằng ngôn ngữ ngoại giao</b> là "<i>kém 
+khôn ngoan về chính trị</i>". Nỗi bực mình này của&nbsp; cựu Tướng&nbsp; Edward&nbsp; G. 
+Lansdale&nbsp; quả thật là đúng với thành ngữ "<i>Làm đầy tớ thằng khôn còn hơn là 
+thầy thăng ng</i>u" của người Việt chúng ta. Dưới đây là nguyên văn lời cựu 
+Tướng Edward&nbsp; G. Lansdale: </p>
+<p align="center"><img src="https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/LICHSU/IMG/VNwar/EdwardLansdale.JPG" width="401" height="312" alt=""></p>
+<p><i>
+&nbsp;"Tôi đã đề nghị bên Bình 
+Xuyên hãy đem gươm ra mà đúc lưỡi cày. Quân đội riêng của họ hãy tự giải giới và 
+đem số dung cụ, vật liệu họ thu thập được qua sự kinh doanh của những cơ sở phi 
+pháp ra mà kiến thiết một xa lộ tối tân cần thiết từ Sàigòn đi Vũng Tầu (nơi có 
+nhiều tài sản của Bình Xuyên). Xa lộ ấy vì là tặng vật của Bình Xuyên cho quốc 
+gia, nên sẽ được mang tên của lãnh tụ Bình Xuyên.</i></p>
+<p><i>
+&nbsp;Đề nghị của tôi về việc làm 
+xa lộ khiến cho Bẩy Viễn thích thú. Tôi liền dàn xếp một cuộc gặp gỡ giữa Bảy 
+Viễn và ông Diệm. Sau khi gặp nhau,&nbsp; Bẩy Viễn giận dữ ra về và trút cơn thịnh nộ 
+lên đầu các tay cố vấn. Kết cuộc một người trong số cố vấn nầy bị bắn lủng ngực. 
+Nghe được câu chuyện tai hại ấy, tôi liền tức tối đến gặp ông Diệm để tìm hiểu 
+việc gì đã xẩy ra trong cuộc hội kiến với Bẩy Viễn. Ông Diệm cho tôi biết viên 
+lãnh tụ Bình Xuyên đã đưa ra một đề nghị "tầm bậy" là hắn sẽ chấm dứt những hành 
+vi sai lầm phi pháp và đem tiền của ra để kiến thiết một xa lộ. Tôi nói với ông 
+Diệm rằng: "Đó là lý do khiến tôi xin Thủ Tướng tiếp kiến ông ta. Vậy Thủ Tướng 
+đã trả lời ông ta ra sao? Ông Diệm nói: "Tôi bảo hắn rằng tôi không tin điều đó. 
+Tôi không chấp nhận. Trước sau gì thì hắn cũng chỉ là một tên vô lại". <b>Tôi 
+điếng người vì sự kém khôn ngoan về chính trị của ông Diệm,&nbsp; và nói thẳng với 
+ông Diệm như vậy</b>. <b>Ông ta đã không áp dụng nổi một giải pháp xây dựng cho 
+một&nbsp; vấn đề khó khăn</b>. <b>Bình Xuyên kiểm soát ngành cảnh sát và một đạo 
+quân, được hậu thuẫn bằng tiền bạc của những hoạt động phi pháp. Thay vì khuyến 
+khích họ từ bỏ những hoạt động ấy, ông Diệm lại mua lấy sự oán ghét. Khi kẻ cướp 
+bị khinh bỉ thì chúng nguy hiểm không khác gì một người đàn bà. Một ngày nào đó, 
+ông Diệm sẽ phải trả giá đắt cho sự kém khôn ngoan ấy</b></i><b>.</b>"<a name="_ednref5" title="" href="/NMQ/#_edn5">[v]</a> </p>
+<p><i>
+&nbsp;</i><b>3.</b>- 
+Trong bài "<i>Hoàng Xuân Hãn, Một Nhân Chứng Lịch Sử</i>" đăng trong tờ Hợp Lưu 
+số 29 tháng 6 &amp; 7/1996&nbsp; nơi các trang 74-75, tác giả ghi lại chuyện cụ Hoàng 
+Xuân Hãn cho rằng <b>ông Diệm là hạng người đần độn</b> với nguyên văn như sau:</p>
+
+<p>
+"<i>Hồi ấy, tôi vào chấm 
+thi đấy , tôi có một người bà con rất thân với ông Diệm, có thể nói là thư ký 
+riêng của ông Diệm. Ông Diệm hồi ấy viết cái gì hay nói cái gì thì cũng cậu này 
+làm cho cả. Cậu ta đậu bachot (Baccalauréat - thi tú tài),&nbsp; người đứng đắn và 
+nhiều chính kiến lắm, Cậu ta nói với tôi: "Cụ Diệm muốn gặp - gọi tôi bằng chú - 
+chú lắm. Làm thế nào để cháu đưa chú đến gặp cụ Diệm mà tụi Tây nó không biết." 
+Thế rồi, một tối, cậu ta đến dắt tôi đi qua một cái vườn, rồi qua hàng rào, sang 
+nhà ông ta. Ngồi đợi, tôi còn nhớ có cái đèn manchon sáng, không có điện tuy là 
+ở Huế. Ông cụ này một chốc xuống,&nbsp; mặc khăn áo chỉnh tề, khăn đóng, <u>tôi còn 
+nhớ mặt trắng</u>, người tăng tướng thì không tăng tướng, nhưng người nho nhã 
+lắm. <u>Ông xuống ngồi với tôi một giờ rưỡi đồng hồ,&nbsp; chỉ hỏi một câu thôi:&nbsp; 
+Chào ông, hay cám ơn gì đó. Rồi thì ngồi, tôi ngượng quá, không thấy ông hỏi một 
+cái gì cả</u>, rồi tôi phải gợi câu hỏi để ông ta giả nhời, mà ông ấy giả nhời 
+thì cũng lại vắn vủi. <u>Thôi tôi chán hết sức</u>. Tôi nói rằng từ trước đến 
+giờ nghe về đường réputation (tiếng tăm) người ta nói rằng ông... gì lắm, sao mà 
+ông ấy như thế? Sau tôi hỏi cháu tôi, thì cháu tôi nói: Cụ Diệm ở đây ai cũng 
+trọng cả, chứ mà tính cụ ấy như thế, kín lắm! Thế tôi hỏi: "Đã mời tôi tới thì 
+cũng phải hỏi cái gì cho nó có câu chuyện chứ?" Không! Cái cảm tưởng của tôi về 
+ông Diệm là thế này<b>: "Một người đi tu mà nhiều khi lại đần độn là khác nữa</b></i>."<a name="_ednref6" title="" href="/NMQ/#_edn6">[vi]</a>
+</p>
+
+<p><b>
+4.-</b> 
+Trong cuốn Những Ngày Buồn Nôn, Giáo-sư Lý Chánh Trung, một trí thức Da-tô, nói 
+rõ về tình trạng kém thông minh, dốt nát về chính trị của ông Diệm và tình trạng 
+vừa ngu dốt vừa lưu manh của bọn người đồng đạo bộ hạ của ông ta với nguyên văn 
+như sau:</p>
+
+<p>
+"<i>Ngày 20 tháng 8 năm 
+1963, Phật Giáo bước vào "mùa pháp nạn"&nbsp; và dân chúng miền Nam bắt đầu đếm từng 
+ngày cái chuỗi ngày thật dài, nóng bỏng và nghẹt thở dẫn đến cuộc đảo chánh lật 
+đổ chế độ Ngô Đình Diệm. Một sự dường như mới xẩy ra hôm qua đây, hình ảnh các 
+biến cố còn sáng rực trong ký ức, thế mà anh em Phật tử đã kỷ niệm mùa Pháp nạn 
+đến lần thứ bảy rồi đó.</i></p>
+<p><i>
+&nbsp;Tôi không phải là một Phật 
+tử, cũng không bị ức hiếp điều chi dưới trào ông Diệm, nên không có tư cách gì 
+để nói lên cảm nghĩ của mình nhân ngày kỷ niệm này, mà chỉ có thể&nbsp; chia xẻ phần 
+nào sự đau xót mà chắc số đông đồng bào Phật tử đang cảm thấy trong lòng, khi 
+nhìn lại những thăng trầm biến đổi, những hoạn nạn gian truân mà Phật giáo xứ 
+này đã phải liên tiếp gánh chịu trong bảy năm qua, kể từ mùa Pháp nạn đầu tiên.</i></p>
+
+<p><i>
+Những cảm nghĩ mà tôi có 
+thể nói và thấy cần phải nói, là những cảm nghĩ về ông Diệm,&nbsp; người đồng đạo của 
+tôi và cũng là người chịu trách nhiệm trước lịch sử về cuộc đàn áp Phật Giáo năm 
+1963, dù cho cuộc đàn áp này có thực sự do chính ông quyết định hay không.</i></p>
+
+<p><i>
+Tôi có gặp ông Diệm một 
+lần,&nbsp; khi còn là sinh viên ở Louvain. Lúc ấy, ông đang nằm chờ thời trong một tu 
+viện gần thành Bruges (Bỉ). Nhân dịp ông đến Louvain tiếp xúc với giới Đại Học, 
+Đoàn Sinh Viên Công Giáo Việt Nam có mời ông đến ăn cơm và nói chuyện tại đoàn 
+quán. Sau bữa cơm rất thanh đạm dưới bếp, ông được mời ngồi trên chiếc ghế bành 
+duy nhứt trong phòng khách, chúng tôi quây quần chung quanh.</i></p>
+
+<p><i>
+Ông đã ngồi im như không 
+nhúc nhích trong mấy tiếng đồng hồ, đã hút gần hết bao thuốc lá Belga của chúng 
+tôi, đã nói thật nhiều và phần nhiều là nói một mình. Ông không trả lời thẳng và 
+đích xác một câu hỏi nào của chúng tôi, ngoại trừ một câu: Khi được hỏi ông quan 
+niệm thế nào về dân chủ, <b>ông nói rằng ông không có học nhiều về chính trị nên 
+không được rõ lắm về các lý thuyết dân chủ, nhưng ông vừa đi quan sát nước Mỹ 
+cũng như vài nước Âu Châu và ông thấy nền dân chủ Hoa Kỳ là tốt&nbsp; hơn hết</b>.</i></p>
+
+<p><i>
+Câu trả lời đó đã làm một 
+số anh em chúng tôi thất vọng. Lúc ấy,&nbsp; chúng tôi không có một chút cảm tình đối 
+với Mỹ vì Mỹ giúp tiền cho Pháp trong cuộc chiến tranh Đông Dương và cũng đang 
+nghi ngờ nền dân chủ Mỹ vì cái chính sách chống Cộng ngu xuẩn, đượm nhiều hơi 
+hám phát xít của nhà cầm quyền Mỹ (đặc biệt là cái phong trào "săn bắt Cộng Sản" 
+của Thượng Nghị Sĩ Joseph Mac Carthy) và vì sự can thiệp trơ trẽn của Mỹ vào các 
+nước Châu Mỹ La Tinh như vụ lật đổ Chính Phủ Cấp Tiến Guatemala.</i></p>
+
+<p><i>
+Sau câu chuyên, tôi đã cùng 
+một anh sinh viên khác hộ tống ông Diệm về khách sạn. Đường xa, trời lạnh, <u>
+ông bước thật nhanh theo lối chữ bát và đã im lặng trong suốt quãng đườn</u>g. 
+Không biết trong những câu hỏi của chúng tôi đêm đó,&nbsp; hoặc trên những tờ báo của 
+chúng tôi mà chắc ông có đọc, có điều chi làm ông không vừa lòng, mà ông đã nói 
+với ông viện trưởng Trương Đại Học Louvain rằng sinh viên Việt Nam tại đây "đã 
+bị mác-xít hóa ít nhiều", khiến cho ông viện trưởng phái một người đến để hỏi 
+thăm về việc đó.</i></p>
+
+<p><i>
+Sau này, khi cầm quyền,&nbsp; 
+ông vẫn không ưa "bọn Louvain" và trong một phiên họp chính phủ, ông nói rằng 
+cái bọn Louvain chúng nó "lộn xộn" lắm, các ông bộ trưởng có dùng thì phải coi 
+chừng. Tuy nhiên,&nbsp; ông không có một hành động kỳ thị nào đối với chúng tôi.</i></p>
+
+<p><i>
+Riêng phần tôi,&nbsp; cuộc tiếp 
+xúc đầu tiên với ông Diệm đã không gây được một niềm hứng khởi hay tin tưởng nào 
+mà cũng không giúp tôi hiểu rõ thêm tình hình đất nước<b>. Những ý tưởng của ông 
+rất lù mù mà sự diễn đạt lại càng lù mù hơn.</b></i></p>
+
+<p><i>
+Tôi có cảm tưởng ông là 
+người hiền lành,&nbsp; yêu nước và có đức độ nhưng lại <b>quá thân Mỹ và không am 
+hiểu gì hết về các vấn đề xã hội. Nói chung là tôi thất vọng không những về</b></i><b>
+<i>quan niệm chính trị của ông mà còn vì khuynh hướng độc thoại của ông. Hình 
+như ông chỉ có thể nói một mình, chớ không đối thoại thật sự được với ai.</i></b></p>
+
+<p><i>
+Tuy thất vọng,&nbsp; tôi vẫn có 
+cảm tình đối với ông, vì có một cái gì đáng kính và dễ mến trong cái tác phong 
+đạo mạo, trong cái dáng điệu cứng ngắc và ngượng nghịu của ông. Nhưng thiệt tình 
+lúc ấy, tôi không ngờ rằng ông Diệm sẽ được suy tôn như là lãnh tụ anh minh và 
+cứu tinh của dân tộc.</i></p>
+
+<p><i>
+Tôi đã kể lại dài dòng bữa 
+gặp gỡ đầu tiên với ông Diệm,&nbsp; vì hôm nay tôi nhớ tới ông với thật nhiều thương 
+xót, mà cũng vì tôi muốn cho những phán đoán của tôi về ông được hiểu rõ là 
+không do nơi ác cảm hay một sự bất mãn cá nhân nào đối với ông. </i></p>
+
+<p><i>
+Nhìn lại chín năm cầm 
+quyền, tôi thành thực nghĩ rằng, ông chỉ là một huyền thoại lớn do người Mỹ và 
+một số tay chân bộ hạ tạo ra để lợi dụng. Người Mỹ lợi dụng ông để thực hiện mưu 
+đồ của họ,&nbsp; một số tay chân bộ hạ đã lợi dụng ông để bòn rút những nguồn lợi béo 
+bở của đất nước này và của viện trợ Mỹ.</i></p>
+
+<p><i>
+Cái lỗi căn bản của ông là 
+chính ông đã tin nơi cái huyền thoại “cứu tinh dân tộc,&nbsp; lãnh tụ anh minh” đó. 
+Ông đã tin nơi sứ mạng cứu nước của mình đến nỗi không còn chấp nhận được bất cứ 
+tiếng nói nào khác tiếng nói của ông, ngay cả những tiếng nói thật ôn hòa và 
+“xây dựng” như bức thơ trần tình của nhóm nhân sĩ Caravelle.</i></p>
+
+<p><b><i>
+Cái lỗi&nbsp; căn bản của ông 
+là&nbsp; đã xem người Mỹ cũng như tay chân bộ hạ của ông là những phương tiện để hoàn 
+thành sứ mạng cứu nước trong khi chính ông mới là phương tiện của người Mỹ và 
+một số tay chân bộ hạ</i></b><i>.</i></p>
+
+<p><i>
+Và sứ mạng cứu nước đã được 
+ông đồng hóa sứ mạng chống Cộng, vì đối với ông,&nbsp; Cộng Sản là sư xấu tuyệt đối 
+phải tiêu diệt bằng mọi giá, kể cả cái giá lệ thuộc người Mỹ. Đó là một lỗi căn 
+bản khác và tất cả sự mâu thuẫn của chính sách chống Cộng nằm ở chỗ này. 
+</i></p>
+
+<p><i>
+Tôi được biết ông đã suy 
+nghĩ và do dự rất lâu khi chính chánh phủ Kennedy đề nghị gửi sang đây 14 ngàn 
+quân để thí nghiệm cuộc “chiến tranh đặc biệt”, vì ông thấy rõ nguy cơ mất chủ 
+quyền. Nhưng cuối cùng ông đã nhận vì sự chống cộng đã được ông xem như một cứu 
+cánh tuyệt đối mà đó là cái giá phải trả để chống cộng, một cái giá thật đăt đối 
+với ông vì tôi tin ông yêu nước, dầu<b> yêu&nbsp; nước theo cách của ông</b>.
+</i></p>
+<p><b><i> Ông đã tưởng mình có thể lệ 
+thuộc Mỹ một phần nào thôi,&nbsp; còn phần kia thì vẫn “độc lập”, ông đã tưởng mình 
+có thể nhẩy vào vòng tay người Mỹ trong một giai đoạn ngặt nghèo rồi thoát khỏi 
+vòng tay đó khi tình hình sáng sủa hơn, ông đã tưởng có thể chấp nhận làm con cờ 
+trong một ván cờ rồi ngay trong ván cờ đó, có thể tự động đi một nước cờ riêng 
+của ông.</i></b></p>
+
+<p><b><i>
+Khi ông nhìn thấy đó chỉ là 
+ảo tưởng thì đã quá trễ: Ông đã chết vì ảo tưởng đó. Và cái chết bi thảm của ông 
+cho thấy một sự thật hết sức tầm thường: Không một con cờ nào có thể tự động đi 
+một nước cờ cho riêng nó, dầu con cờ đó mang tên Ngô Đình Diệm, và không một 
+nước&nbsp; nhỏ nào có thể lợi dụng một nước lớn, nhất là nước đó mang tên Hoa Kỳ.</i></b><i> </i></p>
+
+<p><i>
+Bẩy năm đã qua và ngày nay, 
+dư luận quần chúng có vẻ khoan hồng hơn đối với ông Diệm và chế độ cũ của ông, 
+ngay cả những nơi nạn nhân của chế độ ấy.. Lý do giản dị: với thời gian,&nbsp; kỷ 
+niệm đã mờ nhạt, hận thù được xoa dịu, những ẩn ức dồn nén được giải tỏa. Trong 
+khi đó,&nbsp; cái thực trạng của xã hội miền Nam mỗi ngày thêm xấu xa tệ hại, khiến 
+cho người ta có khuynh hướng chỉ nhớ tới những nét tương đối dễ coi của chế độ 
+Ngô Đình Diệm, mỗi khi so sánh thời này với thời trước.</i></p>
+
+<p><b><i>
+Nhưng từ đó mà cho rằng chế 
+độ ông Diệm&nbsp; là một thời đại hoàng kim và chỉ cần bắt chước ông Diệm là có thể 
+giải quyết những vấn đề đất nước, như một số chân tay bộ hạ của ông đang tuyên 
+bố rùm beng thì thật là lố bịch và vô liêm sỉ.</i></b></p>
+
+<p><b><i>
+Những người đang hò hét 
+khóc lóc chung quanh&nbsp; cái tên Ngô Đình Diệm như bầy quạ trên một xác chết. Với 
+cái âm mưu tái lập một chế độ Diệm không Diệm trong đó họ sẽ phè phỡn bòn rút 
+như xưa, xin họ nhớ cho rằng giòng lịch sử không bao giờ chẩy ngược chiều.</i></b></p>
+
+<p><i>
+Và nếu họ không còn một 
+chút tự trọng, xin họ dầu sao cũng thương dùm ông Diệm, Tội nghiệp ông! Tôi ứa 
+nước mắt mà viết câu này, xin họ hiểu cho.”<a name="_ednref7" title="" href="/NMQ/#_edn7"><b>[vii]</b></a>&nbsp;
+</i></p>
+
+<p>
+5.-&nbsp; Trong cuốn Những Ngày 
+Cuối Cùng Của Tổng Thống Ngô Đình Diệm, tác giả&nbsp; ghi lại lời nhận xét của&nbsp; Đại 
+Sứ Cabot Lodge viết trong công điện gửi về chính phủ Hoa Kỳ bằng những lời lẽ 
+nói về tình trạng ngu dốt cũng như não trạng phong kiến lạc hậu lỗi thời, phản 
+tiến hóa của anh em ông Diệm với nguyên văn như sau:</p>
+
+<p>
+"<i>Chủ yếu chúng nó là một 
+chế chuyên chính Á Châu thời Trung Cổ của loại gia đình cổ điển,<b> </b>không 
+hiểu gì cả hay rất ít, về các ngành nghề của chính quyền vì dân. Chúng không thể 
+ăn nói với dân chúng, không thể gây cảm tình với báo chí,&nbsp; chúng không thể ủy 
+thác quyền hành hay tạo ra niềm tin, chúng không thể hiểu được tư tưởng chính 
+phủ là công bộc của dân<b>.</b> Chúng nó chỉ quan tâm đến an ninh vật chất và sự 
+sống còn của chúng,&nbsp; chống lại bất cứ mối đe dọa nào cộng sản hay không cộng sản</i>."<a name="_ednref8" title="" href="/NMQ/#_edn8">[viii]</a>
+</p>
+
+<p><b>
+6.-</b> 
+Trong bài viết “Tôi đọc Truyện Kiều Và Tuổi Trẻ”&nbsp; đăng&nbsp; giaodiem.com, tháng 
+2/2006, Giáo-sư Trần Chung Ngọc ghi nhận lại lời&nbsp; nói về ông Ngô Đình Diệm như 
+sau: </p>
+
+<p>
+“<i>Tôi nhớ đến lời Tổng 
+Thống Lyndon Johnson khen ông Ngô Đình Diệm là Winston Churchill của Đông Nam Á. 
+Khi ký giả Stanley Karnow hỏi Johnson có phải Tổng Thống thực sự nghĩ như vậy 
+không? Johnson đã trả lời thẳng thừng: "<b>Cục cứt!</b> <u>nó là thằng nhóc</u> 
+duy nhất mà chúng ta có ở đó"</i> (Shit, he is the only boy we got there).”<a name="_ednref9" title="" href="/NMQ/#_edn9">[ix]</a>
+</p>
+
+<p>
+Tạm kể ra 6 trường hợp trên 
+đây và 6 trường hợp này đều nằm trong những đặc tính chung của những tín đồ 
+Da-tô cuồng tín mà người viết đã trình bày ở trên.</p>
+
+<p>
+Qua phần trình bày trên 
+đây,&nbsp; chúng ta thấy rằng ông Ngô Đình Diệm quả thật là một tín đồ siêu cuồng tín 
+với đầy đủ 17 đặc tính Da-tô đã nói ở trên và xứng đáng được nhà báo Long Ân xếp 
+loại vào hạng người “<i>đã cúi đầu đi trên bốn chân để 
+từ con người trở về với nguồn gốc của con người súc sinh.”&nbsp; </i>
+Điều đau buồn cho dân tộc Việt Nam <i>là “hạng người 
+súc sinh này</i>” lại được Vatican và siêu cường Hoa Kỳ đưa về Việt Nam cầm 
+quyền ở miền Nam Việt Nam hơn chín năm trời. Quyền hành sinh tội ác. Cũng vì thế 
+mà&nbsp; thằng súc sinh Ngô Đình Diệm đã trở thành thiên cổ tội nhân đối với dân tộc 
+Việt Nam ta và sách sử khẳng định rằng thằng súc sinh này là một trong số 100 
+tên bạo chúa độc ác nhất trong lịch sử nhân loại. </p>
+	<p class="TuaDenLeft">Chú thích<br clear="all">
+	</p>
+	<hr align="left" size="1" width="33%">
+	
+		<p><a name="_edn1" title="" href="/NMQ/#_ednref1">[i]</a> 
+		Lê Hữu Dản, Sự Thật - Đặc San Xuân Đinh Sửu 1997 (Fremont, Calìornia, 
+		1997), trang&nbsp; 23-24.
+		</p><p><a name="_edn2" title="" href="/NMQ/#_ednref2">
+		[ii]</a>Hoàng 
+		Ngọc Thành &amp; Thân Thị Nhân Đức, <i>Những Ngày Cuối Cùng Của&nbsp; Tổng Thống 
+		Ngô Đình Diệm</i> (San Jose, CA:&nbsp; Quang Vinh &amp; Kim Loan &amp; Quang Hiếu, 
+		1999), tr. 405. 
+		</p><p><a name="_edn3" title="" href="/NMQ/#_ednref3">
+		[iii]</a>
+		Nghiêm Xuân Hồng,
+		<i>Cách Mạng Và Hành Động</i> (Sàgòn: Quan Điểm, 1964), tr 70.
+		</p><p><a name="_edn4" title="" href="/NMQ/#_ednref4">
+		[iv]</a>
+		Đoàn Thêm, <i>Hai Mươi Năm Qua 
+		1945-1964 Việc Từng Ngày</i> (Los Alamato CA: Xuân Thu in lại ấn bản 
+		1965), tr. 351.
+		</p><p>
+		<a name="_edn5" title="" href="/NMQ/#_ednref5">
+		[v]</a> 
+		Edward G. Lansdale, Sđd.,&nbsp; tr. 55.
+		</p><p><a name="_edn6" title="" href="/NMQ/#_ednref6">
+		[vi]</a>
+		Chính Đạo, <i>Nhìn Lại Biến Cố 
+		11/11/1960</i> (Houston, Texas: Văn Hóa, 1997), tr. 116-117.
+		</p><p>
+		<a name="_edn7" title="" href="/NMQ/#_ednref7">
+		[vii]</a> 
+		Lý Chánh Trung, <i>Những Ngày Buồn Nôn </i>(Sàigòn: Đối Diện,1972), 
+		trang 133-138.
+		</p><p><a name="_edn8" title="" href="/NMQ/#_ednref8">
+		[viii]</a>
+		Hoàng Ngọc Thành &amp; 
+		Thân Thị Nhân <i>Những Ngày Cuối Cùng Của&nbsp; Tổng Thống Ngô Đình Diệm</i> 
+		(San Jose, CA: Quang Vinh &amp; Kim Loan &amp; Quang Hiếu, 1999) tr. 282.
+	
+		</p><p><a name="_edn9" title="" href="/NMQ/#_ednref9">
+		[ix]</a>
+		Trần Chung Ngọc. “<i>Tôi đọc Truyện 
+		Kiều Và Tuổi Trẻ</i>.”&nbsp; www.giaodiem.com, tháng 2/2006.</p>
+<hr width="60%" align="left">
+	<p>Những bài viết về Ngô Đình Diệm:</p>
+	<blockquote>
+		
+	</blockquote>
+<hr>
+
+
+<a href="/NMQ/Qdir"><p class="trang">Trang Nguyễn Mạnh Quang</p></a>

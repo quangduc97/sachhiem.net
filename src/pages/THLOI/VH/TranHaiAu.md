@@ -1,0 +1,465 @@
+---
+layout: ../../../layouts/Article.astro
+title: "Lại Bàn Về ‘Nhạc Vàng’"
+author: "Trần Hải Âu"
+date: 2012-11-24
+source: "https://sachhiem.net/THLOI/VH/TranHaiAu.php"
+category: "Tác giả"
+lang: vi
+wordCount: 6528
+image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nha.jpg"
+---
+
+<table border="0" cellpadding="0" width="250" align="center"><tbody><tr>
+	<td width="125"><a href="/index"><img border="0" src="https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nha.jpg"></a></td>
+	<td valign="top" style="text-align:right">24-Nov-2012</td>
+		</tr></tbody></table>
+<p><i>LTS: Âm nhạc nếu được quần chúng thưởng thức như một môn nghệ thuật thì
+    nó thuần túy là nghệ thuật. Nhưng nếu bỏ ra các thái độ của người nghe (như
+    là "chảnh" chẳng
+  hạn), khó ai có thể phủ nhận ảnh hưởng của nó đến người nghe về thái độ
+  sống, về nhân sinh quan, tiềm tàng đi vào tâm thức con người và hoàn thành
+    một mô hình văn hóa. Nếu không thế thì tại sao số đông con trẻ lớn lên trong
+    xã hội Âu Mỹ thường cho rằng nhạc Việt Nam xưa, loại nhạc nằm trong chủ đề
+    bàn dưới đây, nói chung, rất "depressive" (trầm
+  cảm).  </i></p>
+<p><i>Quan niệm về nhạc vàng, nhạc mùi, nhạc sến không phải chỉ có ở trong
+  nước, không phải chỉ có mới sau này. Ở hải ngoại, từ lúc có Karaoke, những
+  xu hướng về nhạc cũng được bộc lộ ít nhiều, không chỉ qua một vài cái bĩu
+  môi, hay mĩm cười bí hiểm.  MC Nguyễn Ngọc Ngạn cũng
+  một lần bày tỏ trên Thúy Nga Paris rằng ở miền Nam trước 1975, đã có hai dòng
+  nhạc (vàng) không hề diễn chung một sân khấu.
+Trước đây nhiều năm, trên báo Người Việt, ký mục
+    gia Bùi Bảo Trúc cũng thú nhận đã từ lâu khinh thường "nhạc
+  mùi" cho là "nhạc sến",
+  và mãi sau này, bất chợt được đắm mình trong âm điệu thê lương đó một cách
+  say sưa, nên có lời "xin lỗi nhạc sến".</i></p>
+<p><i>Điều này cho thấy các phê phán về âm nhạc thường có tính cách chủ quan.
+    Dù sao, mỗi chủ quan về một môn nghệ thuật cũng đều lý thú. Trong góc nhìn
+    đó, SH xin gửi các bạn đọc một nhận định khác về nhạc vàng. (SH)</i></p>
+<hr>
+
+<p class="TuaDenLeft"><u>Mở Đầu Câu Chuyện:</u></p>
+<p>Cách đây vài năm trong nước bỗng dậy lên cuộc tranh luận về ‘nhạc sến’ mà
+  có thời còn được gọi là<i> ‘nhạc vàng’, ‘nhạc mùi’, ‘nhạc
+  phản động</i>’ vv… của miền
+  Nam trong cuộc chiến. Có hai phe rõ rệt; phe chê thì dùng lập trường chính
+  trị ‘chuyên chính’ của những thập niên 70s hay 80s lên án là nhạc rẻ tiền hạ
+  cấp, ủy mị bi quan của… ‘ngụy quân, ngụy quyền’ (mà ngày nay, thời hội nhập
+  hòa giải, không tiện gọi như thế nữa), tiêu biểu là ông Nguyễn Lưu, rồi gần
+  đây có người nhắc đến bài viết của ông  Vương Tâm với bài <a href="https://suckhoedoisong.vn/200887165212334p0c15/nhac-sen-bien-di.htm">“<i>Nhạc sến biến dị</i>” xuất hiện trên báo Sức khỏe và Đời sống (1) </a> của Bộ Y tế; phe khen thì hình như là những nhà trí thức, người
+  làm văn học nghệ thuật đã sống vào giai đoạn ấy ở trong Nam và thuộc trường
+  phái ‘xét lại’ (sau khi đã được phép của Nhà Nước) thuộc "<i>Câu
+  lạc bộ Bolero Sài Gòn</i>".</p>
+<p>Sau 1975, trong một thời gian dài<i>‘nhạc vàng’</i> bị cấm triệt để theo chỉ
+  đạo văn hóa chính trị từ Hà Nội, cho mãi đến những năm 1990s khi Việt Nam mở
+  cửa thì nó mới được dần từng bước được cho phép phục hồi. </p>
+<p>Chuyện phân biệt<i>‘nhạc vàng’</i> hay ‘nhạc đỏ’ có thể là để phân biệt theo
+  màu cờ ‘quốc-cộng’ của hai phía lâm chiến từ những năm 1945 kháng chiến chống
+  Pháp và ‘Quốc Gia Việt Nam’ của vua bù nhìn Bảo Đại do Pháp dựng lên chứ không
+  phải đợi về sau có hai chính phủ Nam Bắc vào 1954 khi có Mỹ nhúng tay vào,
+  mà phần lớn <i>‘nhạc vàng’</i> bị lên án đều được sáng tác mạnh theo giai điệu
+  Bolero, Rumba, habanera… ở giai đoạn này. Ngày nay có vị đã hăng say gán thêm
+  cho nó là ‘nhạc sến’ mới rách việc. Hai từ ‘nhạc sến’ và<i>‘nhạc vàng’</i>chỉ
+  xuất hiện càng ngày càng nhiều sau 1975. </p>
+<p>Tôi không phải là một nhạc sĩ và sự hiểu biết về nhạc lý rất hạn chế, nhưng
+  tôi lại là người rất mê nhạc và suốt ngày được vây quanh bởi tiếng nhạc du
+  dương dù khi đang làm việc. Tôi không muốn đi sâu vào phần phân tích chuyên
+  môn về âm nhạc hoặc phân tích tính tuyên truyền chính trị của nội dung các
+  bài nhạc đương thời. Tôi chỉ muốn đóng góp một ít nhận xét vào những cuộc tranh
+  luận ồn ào trên báo chí trong nước bấy lâu nay về ‘nhạc sến’ chỉ vì tôi đã
+  sống trong giai đoạn ấy ở miền Nam lúc tuổi còn xanh để có một cái nhìn tương
+  đối vô tư hơn. Có điều cần được khẳng định: Trước 1975 không ai có khái niệm
+  nhập nhằng đánh đồng<i>‘nhạc vàng’</i>với ‘<i>nhạc sến</i>’. <b>Hơn nữa,
+  từ ‘sến’ không hề được dùng để ám chỉ ‘nhạc vàng’.</b> Chúng là hai phạm trù khác nhau. </p>
+<p align="center"><img src="https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/VANHOC/Hinh/NHAC/TuanVu.jpg" width="200" height="200"> &nbsp; <img src="https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/VANHOC/Hinh/NHAC/Quangdung.jpg" width="250" height="199"></p>
+<p>Hình như chuyện so sánh vớ vẩn về <i>‘nhạc sang’ </i>và<i> ‘nhạc
+    sến</i>’ đã xuất hiện trong
+  bài <a href="https://thethaovanhoa.vn/printer-20110114172440545.htm">“Thánh
+  đường” âm nhạc “dzung dzinh”? của Hữu Trịnh</a> trên báo TT Và VH ngày
+  2/2/2011 nhân sự kiện hai ca sĩ hàng đầu của<i>‘nhạc vàng’</i>Tuấn Vũ, Hương Lan
+  từ hải ngoại trình diễn hơn 10 đêm tại Nhà hát Lớn Hà Nội trước và sau Đại
+  lễ Một Ngàn Năm Thăng Long. Trong bài ấy ông ta đã ‘ta thán’ rằng “<i>…
+  Nhà hát Lớn Hà Nội - nơi được nhiều người xem là “thánh đường” âm nhạc của
+  thủ đô - là nơi đáng lý phải dành cho âm nhạc bác học như giao hưởng, thính
+  phòng, những buổi độc tấu của các nghệ sĩ nhạc hàn lâm chứ không phải là nơi
+  dành cho nhạc “sến”. Mà cũng lạ thay, hàng ngàn người “giàu sang” nối nhau
+  đến nghe Tuấn Vũ hát với giá vé phải mua bằng tiền triệu.</i>”<br>
+  …<br>
+  “<i>Nhạc xưa … là những ca khúc trữ tình cách đây trên 30
+  năm, trên thị trường âm nhạc … được phân thành 2 loại: nhạc “sang” (như của
+  các tác giả Trịnh Công Sơn, Phạm Duy, Dương Thiệu Tước, Đặng Thế Phong…) và
+  nhạc “sến” (của những tác giả như Thanh Sơn, Lam Phương…).</i>”</p>
+<p>“<i>Khi công chúng quay lại với nhạc xưa phải chăng là giới
+    nhạc sĩ hiện nay đã không có được những ca khúc làm thỏa mãn nhu cầu nghe
+    của công chúng. Một thị trường âm nhạc bát nháo với những ca khúc đạo nhạc,
+    ca từ nhảm nhí, gây sốc, giai điệu vô cảm… đã nói lên điều đó?</i>”</p>
+<p>…<br>
+  “<i>Khi Tuấn Vũ và Hương Lan có hơn 10 show diễn cháy vé
+  tại Nhà hát Lớn Hà Nội, nhạc sĩ Đặng Hữu Phúc đã có bài viết Khi Đặng Thái
+  Sơn không thể “địch” lại Hương Lan, Tuấn Vũ.</i>”</p>
+<p>Viết được nhận xét như thế làm tôi có cảm tưởng là nước ta chưa hề trải qua
+  giai đoạn cùng khổ của chiến tranh và thời bao cấp tem phiếu. Sự phân biệt
+  ‘nhạc xưa’ gồm nhạc sang và nhạc sến hơi khập khểnh, bời người yêu nhạc đã
+  biết rõ nhạc của Phạm Duy, Dương Thiệu Tước, Đặng Thế Phong, Văn Cao, Đoàn
+  Chuẩn và Từ Linh trước 1945 là nhạc tiền chiến, và nhạc của Trịnh Công Sơn
+  gồm nhạc tình và nhạc phản chiến…; chẳng ai gọi là ‘nhạc sang’ cả. </p>
+<p class="TuaDenLeft"><u>Bối Cảnh </u></p>
+<p>Theo một bài viết của Hà Đình Nguyên thì ông ta muốn tìm ý nghĩa của từ ‘sến’
+  như thế nào và gán cho “ý kiến của nhiều lão làng trong giới ca nhạc thì "sến" do
+  chữ sen (trong từ con sen: người giúp việc nhà) đọc trại mà ra. Trước 1954,
+  chỉ có ở miền Bắc mới gọi "ô sin" là con sen, trong Nam gọi là "ở
+  đợ"…&nbsp; Do thường giúp việc cho chủ Tây hoặc trong các gia đình theo Tây
+  học nên các cô được các nhà văn, nhà báo có óc hài hước thêm cho cái tên "Marie" phía
+  trước để trở thành Mari-Sến. Sau 1954,  "Mari-Sến" vào Nam. Dạo đó,
+  nước máy chưa được đưa tới từng nhà, chiều chiều các Mari-Sến lại tụ tập quanh
+  cái máy nước (fontaine) để hứng nước gánh về nhà, từ đó lại đẻ thêm cái tên "Mari-Phông
+  ten". Trong khi đứng chờ đầy gánh nước, các cô thường vui miệng hát với
+  nhau (vài câu nhạc vàng)… Thế là thành... nhạc sến! Một sự hình thành quá đỗi "mơ
+  hồ" nên cũng khó mà định nghĩa. Thôi thì, hễ loại nhạc nào mà các chị
+  gánh nước mướn, các anh đạp xích lô, thợ thuyền (gọi chung là giới bình dân)
+  khoái hát thì... đó là “<i>nhạc sến</i>”!”</p>
+<p>Rõ là hơi phiến diện. Thực ra vào khoảng 1954, dưới các thỏa hiệp Geneva Pháp
+  đã từng bước rút ra khỏi Việt Nam để Mỹ vào thay thế. Nam bộ vốn là Nam kỳ
+  quốc nên tên dân thành thị và có quốc tịch Pháp thường có kèm tên tây ví dụ
+  Trần Văn Đôn còn gọi là André Đôn, hoặc Nguyễn Khánh còn gọi là Raymond Khánh
+  hoặc Nicolas Turner Khánh; còn phái nữ thì ố la la, Marie, Thérésa, Yvonne,
+  vv... Lợi dụng có quốc tịch Pháp một số lớn giàu có di dân sang Pháp, số còn
+  lại với tên tây thường bị dân trong nước chế giểu nên mới có những tên như
+  Marỉ-Sến hay Mari-Phông ten; chứ các chị ‘sen’ thời bấy giờ vốn thất học ở
+  quê lên phố kiếm sống làm gì được phong lưu lãng mạn đến thế. “<i>Trước
+  1954, chỉ có ở miền Bắc mới gọi ‘ô sin’ là con sen, trong Nam gọi là ‘ở đợ’</i>"  Trước
+  1954, ngoài Bắc làm gì đã có ‘ô sin’; danh từ ấy chỉ mới xuất hiện gần đây
+  khi sự giao lưu với Hàn quốc gia tăng.</p>
+<p>Trong một bài báo khác của Tuấn Khanh, trên báo Tuổi Trẻ ông cố gắng truy
+  nguyên danh từ Marỉ-Sến. Đúng là từ này phát xuất từ tên nữ tài tử người Áo
+  nổi danh thời ấy ở Hollywood là Maria Schell (1926-2005) và các phim của cô
+  đã được chiếu ở các đô thị miền Nam vào những năm 1950s và 1960s đã làm thổn
+  thức bao trái tim trẻ và tên cô thường được nhắc nhở luôn trong giới trẻ thời
+  ấy và vô tình đi vào… văn học dân gian, chứ thật tình không khởi đi từ chữ
+  ‘sen’, hay ‘con ở’ gì cả; và thế là nhà văn trẻ nổi danh Tuấn Huy đưa luôn
+  vào bài báo của mình. Tôi còn nhớ cuốn tiểu thuyết đầu tay của ông có tựa là
+  “<i>Ngày Vui Qua Mau</i>” vào khoảng 1962, 1963 đã được giới trẻ đón nhận nồng nhiệt
+  vì lối viết bức phá thoát ra khỏi lối viết <i>‘hàn lâm</i>’ của nhóm Tự Lực Văn Đoàn.</p>
+Thời ấy trong giới trẻ chúng tôi hay dùng từ <b>‘sến’ như một
+loại ngôn ngữ chế biến ám chỉ (slang) để tỏ ý chê bai việc gì quê mùa thô kệch,</b> kém phẩm chất,
+không thời thượng cốt chọc quê bạn bè cho vui. Nó chẳng hề mang ác ý mĩa mai
+thành phần giai cấp thấp kém nào, nhất là ‘con sen, người ở’ mà trong Nam thường
+gọi lịch sự hơn là ‘người giúp việc’. Ví dụ <i>‘sao thằng ấy
+ăn mặc sến quá’; ‘bài thơ mày làm sến quá’; ‘mày ca sến quá’</i>…
+<p class="TuaDenLeft"><u>Lịch Sử </u></p>
+<p>Nước ta vốn không có được một nền dân ca đại chúng lâu bền, mà chỉ lưu truyền
+  hạn chế trong vùng miền cục bộ; có lẽ dân tộc nào cũng thế bởi khung cảnh lịch
+  sử xa xưa chưa có các phương tiện truyền tải lan xa như ngày nay. Lại nữa ta
+  cũng chẳng có một điệu nhảy nam nữ cộng đồng tiêu biểu trong các lễ hội như
+  ‘lam-vong’ của các dân tộc bạn Lào, Cam-Bốt, có lẽ vì ảnh hưởng lâu đời của
+  đạo lý cụ Khổng ‘nam nữ thụ thụ bất thân’. </p>
+<p>Trên bước đường Nam tiến, cổ nhạc của ta đã pha trộn, xào nấu với rất nhiều
+  cổ nhạc của dân tộc suy vong nhiều nhất là từ âm nhạc Chăm; từ ca trù hay hát
+  ả đào, chầu văn, quan họ, hát xoan, hát ghẹo, hát chèo v.v. của miền Bắc xuôi
+  xuống trung phần với hò mái đẩy, ca huế hay ca lý, nam ai, nam thương, nam
+  bình rồi đến vào nam bộ có hò nện, hát bộ, hồ quảng, cãi lương… </p>
+<p>Theo một nhà văn hóa Chăm, Inrasara thì ngay các bài ‘Người ơi, người ở đừng
+  về’ hay ‘Bèo dạt mây trôi’ của quan họ Bắc Ninh cũng vướn chút hơi hám Chăm.
+  GS. Trần Văn Khê lại phân biệt ca Huế có hai loại Quan nhạc (mà ta hay gọi
+  cung đình) để phân biệt với Tục nhạc (dân ca hay dân nhạc). Nhưng có tác giả
+  khác nhận xét: “Văn hóa Nghệ thuật của giai cấp nào đều không là là sản phẩm
+  trí tuệ của nhân dân. Khi đã bác học hóa thì trở thành lối chơi của ông hoàng
+  bà chúa, giới quý tộc (nhạc sang?), khi đã dân gian hóa thì vẫn là sản phẩm
+  trong tổng thể văn hóa dân gian (nhạc sến?) mà thôi.” </p>
+<p>Ai cũng đều nhận ra nhạc Huế chịu ảnh hưởng đậm hơn của nhạc Chăm ở vùng đất
+  mới nên nghe có mang một nỗi buồn ai oán dễ khiến người ta chau mày rơi lụy.
+  Hoặc xa hơn nữa vào thời Trịnh Nguyễn, khi chúa Nguyễn Hoàng đem dân vào trấn
+  Thuận Hóa thì vùng này vốn là xa xăm biên địa làm cho lưu dân luôn hoài hương
+  cố quận và tình cảm đã đi sâu vào các ca khúc da diết ấy? Vậy <i>“những… chia
+  ly và mất mát trong tình yêu. Lời hát não nề, than vãn cầu mong được bù đắp
+  … sự lê thê, buồn bã khai thác âm hưởng cổ nhạc theo hướng yếm thế, ru ngủ
+  lòng người tạo nên cảm giác chán chường bế tắc”</i> (theo Vương Tâm, ‘nhạc
+  sến biến dị’) nào phải đợi đến có ‘nhạc vàng’, ‘nhạc sến’ mới hiển lộ?</p>
+<p>Khổ nổi các điệu hát theo ngũ cung này rất khó trình diễn cùng với những nhạc
+  cụ cổ khó chơi như đàn kìm, đàn cò, đàn bầu, đàn tranh… nên hầu như chỉ giành
+  cho những lễ hội, cho các nghệ nhân chuyên nghiệp do đó mà dần thất truyền
+  và mai một vì không được phổ biến rộng rãi trong các thế hệ trẻ, có lẽ vì quan
+  niệm lỗi thời ‘<i>xướng ca vô loại’</i>. Ngày nay cổ nhạc của vùng miền chỉ tồn tại
+  trong các sô trình diễn dân ca cho việc phục vụ du lịch. Thấy mà thương!</p>
+<p class="TuaDenLeft"><u>Tân Nhạc</u></p>
+<p>Khoảng đầu thế kỷ 20, đời sống của giới trẻ trong nước nhất là ở Hà Nội, cái
+  nôi văn học cả nước dù muốn dù không cũng phải chịu ảnh hưởng Âu hóa. Ngoài
+  Bắc Hội Khai Trí Tiến Đức chủ trương "<i>dùng khí cụ
+  và chút ít phương pháp của Âu Tây để hòa những bản đàn cổ"</i> hoặc "<i>bài
+  đàn như trước viết lại cho đúng phương pháp Âu-Tây</i>". Ở Huế thì ảnh hưởng Âu nhạc phát hiện
+  bằng sự thành lập nhóm Tỳ bà với nhạc sư Nguyễn Hữu Ba và trong Nam có nhạc
+  sĩ Trần Quang Quờn đặt bài bản mới phỏng theo cung điệu xưa, sáng chế nhạc
+  khí mới và đặt ra cach chép nhạc riêng; phong trào cải lương làm cho đờn ca
+  tài tử phát triển mạnh theo hướng sân khấu; dùng đàn guitare và violon để đờn
+  Vọng cổ v.v.&nbsp; </p>
+<p>Vào thời kỳ này, cùng với phong trào Âu hóa mọi mặt đời sống trong nước, điệu
+  Bolero đã được phổ biến rộng rãi trên thế giới bắt đầu xâm nhập vào Việt Nam
+  và hưng thịnh dần vào những năm 1940-1950 với nhịp điệu 4/4 chậm rãi và dìu
+  dặt hơn thay cho nhịp ¾, thì nó như cá gặp nước, dễ học, dễ trình diễn, dễ
+  nhớ, đi thẳng vào câu chuyện, hợp với tâm tình giàu thơ nhạc của dân Việt cho
+  nên nó đã được đón nhận nồng nhiệt. Nhạc cụ thì chỉ cần một chiếc guitar cũng
+  đủ nên đã xuật hiện nhiều nhạc sĩ, ca sĩ tài danh đã thổi hồn Việt vào cho
+  nó để rồi nó… định cư và trở thành ‘nhạc đại chúng’ lúc nào không hay. </p>
+<p>Điều đặc biệt ít người để ý đến là điệu Bolero lại dễ ăn khớp với những giòng
+  thơ lục bát của Việt Nam cho nên nhiều bài thơ hay thời tiền chiến đều được
+  phổ nhạc nhuần nhuyển và dễ đi sâu vào lòng đại chúng hơn. Có nhiều bài thơ
+  được quần chúng biết đến rộng rãi đều nhờ các bản ‘<i>nhạc
+  vàng</i>’.</p>
+<p>Thế là nền tân nhạc của Việt Nam đã được thiết lập. Nhạc được sáng tác đa
+  số ở Hà Nội trước thời kháng chiến chống Pháp 1945 được gọi là Nhạc tiền chiến,
+  í tai gọi là ‘nhạc sang’. Loại nhạc này thường theo điệu Slow, Boston hoặc
+  Valse buồn lê thê nhưng thiên về lãng mạn mơ mộng cá nhân.</p>
+<p>Sau Hiệp định Geneva, đất nước bị chia cắt làm hai phần rồi trở thành hai
+  chính thể đối kháng. Trong khoảng thời gian tương đối dài suốt 5 năm, hai bên
+  VNDCCH phía Bắc và VNCH phía Nam trải qua một giai đoạn hòa bình ngưng bắn
+  để tái thiết và chấn chỉnh. Ngoài Bắc thì chịu ảnh hưởng nặng của khối Cộng
+  sản Trung Xô gặp thời chuyên chính sắt máu của Stalin và Mao nên toàn xã hội
+  phải đặt mình dưới sự kềm kẹp gay gắt. Bằng chứng là những bản nhạc được phát
+  trên đài Hà Nội thời bấy giờ chịu ảnh hưởng nặng của nhạc điệu Trung quốc líu
+  la líu lít đến nay chẳng ai còn muốn nghe lại. Trong Nam thì vốn liếng văn
+  học nghệ thuật đã được di tản theo giòng người di cư đông đảo nên nếu nói đến
+ <i>‘nhạc vàng’</i>là phải nói đến cái di sản <i>‘tiểu tư sản thành
+  thị’</i> của thời Pháp
+  thuộc. </p>
+<p class="TuaDenLeft"><u>Nguồn Gốc của Điệu Bolero</u></p>
+<p>Di sản ấy vốn đã chịu ảnh hưởng của nền văn hóa Pháp và nói rộng hơn là văn
+  hóa tây phương Âu Mỹ và của những trào lưu âm nhạc thế giới thời bấy giờ.</p>
+<p>Người ta đã phân biệt <b>nhạc cổ điển Tây phương</b> khởi sự từ 1600 đến 1910 gồm
+  3 giai đoạn:</p>
+<p>1) Giai đoạn Baroque từ 1600 đến 1750, chỉ chuyên trình diễn trong cung đình
+  và nhà thờ. 2) Giai đoạn nhạc cổ điển (1750- 1820), chú trọng đến âm thanh
+  của nhạc cụ hơn là biểu lộ tình cảm nội tâm. 3) Giai đoạn lãng mạn sau cuộc
+  cách mạng Pháp: (1820- 1910), chú trọng về tình cảm cá nhân hay lòng yêu quê
+  hương và điệu Bolero đã xuất hiện trong giai đoạn này. Frédéric Chopin đã để
+  lại một hòa khúc dương cầm trứ danh mang tên ‘Bolero’ Op. 19 viết vào năm 1833
+  sau khi đến nghe ca sĩ Tây Ban Nha Manuel Garcia trình diễn tại Paris lần đầu. </p>
+Như thế Bolero đã khởi đầu trong giai đoạn của giòng nhạc lãng mạn vừa kể, trở
+thành điệu khiêu vũ đại chúng <b>nhịp 3/4 ở Tây Ban Nha do
+vũ sư Sebastian Cerezo</b>,
+với những buổi giới thiệu điệu nhảy này đầu tiên vào năm 1780.
+<p>Đấy là nói theo lối viết lịch sử chiếm đoạt của tây phương, vơ vào những cái
+  hay của người thành của mình. Hình như điệu Bolero bắt nguồn xa hơn nữa từ
+  những di dân nô lệ châu Phi sang các vùng đất mới Mỹ châu và được các nhà thực
+  dân Tây, Bồ du nhập vào mẫu quốc của họ. Bolero dễ bắt nhịp với những thao
+  tác lao động hàng ngày và có thể biến đổi chậm nhanh tùy theo tâm trạng buồn
+  vui của người hát. Bolero truyền thống của Cuba lại phát xuất từ Santiago de
+  Cuba cuối thế kỷ 19 bởi Pepe Sanchez, trở thành điệu Rumba vào năm 1930; và
+  từ đó nẩy thêm các điệu Bolero-Mambo hay nói gọn là&nbsp; Mambo, rồi Bolero-cha
+  hay Cha-cha-cha. </p>
+<p>Âm hưởng của Bolero vì thế đã mang nổi buồn bất hạnh của lưu dân bị chèn ép
+  bóc lột. Nó đã được vài nghệ nhân vô danh nào đó hát lên nổi niềm tâm sự của
+  mình theo nhịp gỏ của vật dụng thô sơ quanh một bếp lửa trại ở một xứ sở xa
+  xăm không còn đường về cố quận, và từ đó được lan xa. Vì vậy Bolero luôn tãi
+  đi một câu chuyện buồn được kể theo vần điệu du dương lên bổng xuống trầm. </p>
+Dân Phi châu vốn sống gần gũi với thiên nhiên, cần có một thể chất khỏe mạnh
+để sinh tồn và nhạy bén học được các nhịp điệu của môi trường hoang dã và phổ
+thành nhạc. Vì thế không lạ gì khi họ rất giỏi về thể thao và âm nhạc. Ngày nay
+nhạc Phi châu đã trở thành gốc nhạc đại chúng của cả thế giới.
+<p>Điệu Tango theo nhịp 2/4 or 4/4 xuất phát từ Nam Mỹ vào khoảng 1911 và dần
+  lan đến Âu Mỹ nhưng rồi bị tàn úa do những cấm cản của các chế độ độc tài quân
+  phiệt đã làm cho Bolero không có đối thủ và lan truyền trên thế giới rộng rãi
+  hơn.</p>
+<p>Ở Việt Nam thì bấy giờ<b> nền tân nhạc chỉ mới tập tễnh </b>đi những bước
+  đầu đời. Đến những năm sau 1954 bỗng trong Nam du nhập rộ lên những bản nhạc
+  Bolero trứ danh như Besame Mucho, Histoire d’un amour, Aime-moi,&nbsp; Ciao ciao
+  Bambina, La chanson d'Orphée vv… do nữ danh ca bất hủ của Pháp Dalida qua những
+  đĩa nhựa Barclay làm cho điệu Bolero càng được mến mộ. <b>Dalida</b> còn đặt
+  chân đến Việt Nam trình diễn vào năm 1961 trong thời vàng son của cô. Nếu có
+  kẻ chê <i>‘nhạc vàng’</i>buồn não nề, thê lương, nghẹn ngào … thì nay ta thử
+  nghe lại các bài Besame Mucho, Historia de un amor theo ngôn ngữ gốc Spanish
+  trình bày bởi Cesaria Evora, Julio Iglesias, Dianna Krall, Layra Fygi ... xem
+  có ngẫn ngơ man mác buồn hay không?</p>
+<p class="TuaDenLeft"><u>Nước Mắt Trong Cuộc Chiến</u></p>
+<p>Thường dân lúc nào cũng đều vô tội và là nạn nhân trong những cuộc chiến tranh
+  tương tàn. Lịch sử Việt Nam nào có khác và trong những cuộc tranh giành quyền
+  lực khi đất nước bị phân chia dân chúng hai phe đều bị bắt buộc phải cuốn vào
+  cuộc chiến và gánh chịu nhiều hậu quả khốc liệt của chết chóc, ly tán, mất
+  mát và đau buồn thì dĩ nhiên những tình tiết than thân trách vận, những nổi
+  niềm u uất buồn thảm là tâm trạng chung đều được các nghệ sĩ có tài đem vào
+  các tác phẩm văn chương nghệ thuật, trong đó có <i>‘nhạc
+  vàng</i>’ thành những bản
+  sầu ca. Nhiều người bảo chỉ có các ca sĩ thời danh cũ trong Nam mới thể hiện
+  tuyệt vời các bản sầu ca ấy. Vì sao? vì họ đã từng sống trong giai đoạn ấy
+  và khi họ trình diễn thì cũng như chính họ kể lại một đoạn đời đắng cay sầu
+  thảm của mình. Họ đã thả hồn vào bài nhạc, và người nghe cảm thấy gần gũi và
+  được vuốt ve vì họ cũng cảm nhận có một phần đời lạc loài của mình trong bài
+  hát. </p>
+<p>Cũng cùng điệu Bolero nhưng các bản nhạc sáng tác sau này trong nước thời
+  hết chiến tranh không hấp dẫn giới trẻ lẫn già nữa vì không có ‘nổi đau đoạn
+  trường’ của giai đoạn chiến tranh như ca sĩ Trà Mi nhận xét: “<i>Nhạc
+  bây giờ cũng là lời nói (kể chuyện), nhưng nghe nó ngang phè phè. Còn lời của
+  nhạc vàng cũng chỉ là lời nói bình thường thôi, nhưng thấy nó khác, nghe nói
+  không chướng tai</i>.” Các ca sĩ trẻ trong nước tuy đã được đào tạo ‘hàn lâm’ nên vững
+  về thanh nhạc và hát rất hay nhưng khi trình bày những ca khúc <i>‘nhạc vàng’ </i>vẫn chưa lột hết được ‘phần hồn’ của nó. </p>
+<p>Điểm khác biệt giữa <i>‘nhạc tiền chiến’</i> và <i>‘nhạc vàng’</i> đậm nét ở chỗ: ‘nhạc
+  tiến chiến’ thì lãng mạn, buồn, tiếc nuối với mơ mộng cá nhân xa vời hảo huyền,
+  không có giới hạn của thời gian, như trong nhạc của Văn Cao với Trương Chi,
+  Thiên Thai... còn<i>‘nhạc vàng’</i>cũng lãng mạn nhưng thấm đẫm u buồn của niềm
+  đau tan thương của quần chúng, mang tính thời sự và ai cũng cảm thấy có tâm
+  sự của mình trong ấy. Vì thế phải cần một thời gian dài suy ngẫm, và khi cơ
+  hội đến đúng lúc các thế hệ trẻ sau chiến tranh và đồng bào ngoài Bắc cùng
+  thế hệ <i>‘nhạc vàng’</i> mới có sự thông cảm và đồng cảm cho giòng nhạc buồn rười
+  rượi này. Mà lạ lắm, đối với con người thì cái gì nghèo, buồn và dang dở thì
+  nhớ da diết; chớ ít ai than vãn khi vui và đời thì khóc nhiều hơn cười. </p>
+Tuy nó có mang đủ thứ âm hưởng buồn não nề, thê lương, nghẹn ngào, đau đớn, tiếc
+nuối, ngầm chan chứa nổi bất hạnh nhưng nó không hề toát ra nổi uất hận người,
+hận đời … Nó vẫn còn ẩn mang một khát khao vượt thoát, một sự khoan thứ cao thượng,
+một sự nâng niu trân trọng tất cả những gì quý giá còn lại, dù là mỏng manh nhất,
+trong những gì bị coi là đổ vỡ, bị coi là thất bại…
+<p>Nên nhớ những bản nhạc Bolero xuất hiện trong Nam vào những năm đầu sau 1954
+  không thê lương như về sau khi chiến tranh mỗi lúc mỗi gia tăng khốc liệt,
+  tràn từ thôn quê về thành phố, thanh niên phải rời ghế học đường đi ra chiến
+  trường sớm mà sống chết chỉ là đường tơ kẻ tóc, để lại bao tình yêu bị đổ vở.
+  có lẽ thanh niên ngoài Bắc cũng thế mà thôi, nhưng tình cảm bị đè nén bởi chính
+  sách kiên quyết tập trung phục vụ cho chiến tranh giải phóng của Đảng. </p>
+<p>Một giòng nhạc, những ca khúc luôn có một dĩ vãng và khi người nghe đã từng
+  trãi nghiệm sống trong giai đoạn ấy thì mối cảm thụ lại càng thêm sâu sắc.
+  Vì thế người ta vẫn còn thích và nhớ nhiều đến <i>‘nhạc vàng’</i>vì nó đã ghi
+  dấu một giai đoạn lịch sử đau thương của đất nước, chập chờn hư ảo với đói
+  khổ, nghèo nàn, chết chóc, chia ly… mà trong văn học vẫn chưa có tác phẩm nào
+  có tầm, vô tư nói lên được nổi khổ đau không thốt được bằng lời của dân tộc
+  mà không bị vướng víu với lập trường chính trị.<i>‘nhạc vàng’</i>hay ‘nhạc
+  sến’ vẫn sống mãi như điệu Bolero là thế. </p>
+<p class="TuaDenLeft"><u>Di Sản Của Nhạc Vàng</u></p>
+<p>Sau 1975 khi Việt Nam được thống nhất, và khi Nhà nước bắt đầu chính sách
+  mở cửa giao lưu với thế giới vào những năm đầu 1990s, đất nước ngày càng thay
+  đổi với thế hệ trẻ sau chiến tranh đang khao khát những hình thái nghệ thuật
+  cởi mở thông thóang hơn. Trong môi trường cung-cầu của thị trường kinh tế mới,
+  khi di sản âm nhạc của miền Bắc sau chiến tranh thật nghèo nàn không đủ cung
+  cho nhu cầu mới nên dần dà người miền Nam sử dụng lại những bản <i>‘nhạc vàng’ </i>gợi
+  nhớ, rồi những băng đĩa từ hải ngoại đua nhau tràn ngập thị trường chui nội
+  địa đã dấy lên một trào lưu <i>‘tìm về dĩ vãng</i>’. Trước sức ép không ngăn
+  cản nỗi, các nhà lãnh đạo đã khôn ngoan nới dần cho phép phổ biến<i> ‘nhạc
+  vàng’</i>.
+  Họ thấy rằng cấm mà nó vẫn được mọi người sính chuộng thì nên cao tay hơn là
+  ‘cho phép’ cho đắc nhân tâm. Cũng may là tầm nhìn của các nhà lãnh đạo văn
+  hóa trong nước không đến nổi chật hẹp như ý kiến của các ông<i> ‘vệ
+  binh đỏ’</i> cở
+  Nguyễn Lưu hay Vương Tâm. Nay với kỷ thuật internet, các trang mạng nổi danh
+  trong nước như NhacCuaTui và Zing đã tải hầu hết những bản nhạc vàng thời danh
+  của miền Nam cũ.</p>
+<p>Các chế độ cũ trong Nam thời chiến tranh đã bị xóa tên nhưng những di sản
+  để lại trong nền văn học, nghệ thuật, văn hóa giáo dục với sự đóng góp của
+  quần chúng trong đó có<i>‘nhạc vàng’</i> không phải là không đáng trân quí.
+  Thói thường xưa nay trong lịch sử nhân loại là dân tộc chiến thắng lại luôn
+  sùng bái những giá trị văn hóa nghệ thuật của kẻ chiến bại; huống chi đây lại
+  là di sản của đồng bào dân tộc. Cho nên cố gán ghép và đánh đồng một giòng
+  nhạc phổ thông đại chúng phát triển mạnh mẽ trong Nam theo trào lưu thế giới
+  vào với những xấu xa của các chế độ chính trị cũ của miền Nam để phê phán bừa
+  bãi là một thái độ kém hiểu biết và thiếu nghiêm túc. Vã lại cái gì tồn tại
+  được lâu dài chắc phải được quần chúng tán thưởng ủng hộ, trong đó có nghệ
+  thuật phi chánh trị; vì thế nên gọi <i>‘nhạc vàng’</i> đúng cách là <i>‘nhạc
+  đại chúng’</i> (pop music) trong thời chiến tranh.</p>
+<p>Trên đời thứ gì cũng đều có hai mặt tương phản hay dở, tồi tốt, đẹp xấu...
+  thì nhạc cũng vậy, có bài làm đắm say lòng người nhưng cũng có bài ‘sến’ hết
+  biết. Hơn nữa mọi sự còn phải tùy duyên gặp thời đúng lúc; ví như có nhiều
+  ca nhạc sĩ tài danh cũ miền Nam khi còn ở trong nước thì phong trào tái diễn
+ <i>‘nhạc vàng’</i> chưa được cho phép như Trần Thiện Thanh, Thanh Lan, Phương
+ Hồng Quế… đành phải sống âm thầm; còn những người đã ra đi và trở về đúng lúc
+ thì được kiệu rước trên vai từ Nam ra Bắc như Hương Lan, Tuấn Vũ, Chế Linh,
+ Tuấn Ngọc… Ôi biết làm sao mà đoán trước được lòng người nhưng dĩ nhiên quần
+ chúng thưởng ngoạn thường rất nhạy bén, cái hay sẽ tồn tài bằng mọi cách và
+ cái dở, sến sẽ đi vào thùng rác; chẳng cần đến cơ quan quản lý văn hóa chỉ đường
+ để ‘<i>giáo dục về thẩm mỹ âm nhạc</i>’ theo lối biện luận dao to búa lớn. </p>
+<p>Hiện nay, khi các giọng ca mùi và muộn của <i>‘nhạc vàng’ </i>đua nhau về
+  nước trình diễn và được đón nhận nồng nhiệt đã không ít người lý giải rằng
+  họ đã gặp may. Thế giới đang bị suy thoái kinh tế, đời sống trong nước thoải
+  mái khá hơn trước nhiều, lại gặp lúc thị trường ca nhạc nội địa đang mệt mỏi
+  giậm chân rại chỗ với các nhạc trẻ và ca sỹ giòng teen chẳng làm nên cơm cháo
+  gì nên họ đã gặp đúng thời vận dù muộn ở buổi xế chiều.</p>
+<p class="TuaDenLeft"><u>Nhạc Sang và Nhạc Sến</u></p>
+<p>Trong bài “Nhạc sến biến dị” của Vương Tâm lại đưa ra lời nhận xét của nhạc
+  sĩ Đỗ Bảo: "<i>Giáo dục về thẩm mỹ âm nhạc ở tự mỗi
+  người nghe là còn hạn chế, chẳng hạn so với phần đông nhân dân lao động, lực
+  lượng trí thức vẫn còn vô số người nghe nhạc Sến, nhạc não nùng</i>".</p>
+<p>Xin ông tha cho nhân dân được nhờ! “<i>Giáo dục về thẩm
+    mỹ âm nhạc ở tự mỗi người nghe là còn hạn chế,</i>” Ai, cơ quan nào giáo dục về thẩm mỹ âm nhạc cho ‘tự mỗi
+  người nghe’? Câu nhận xét sao lủng củng quá.&nbsp; Có vẻ như ông muốn toàn dân phải
+  được được giáo dục để chỉ để thưởng thức nhạc giao hưởng, opera… như ông, mà
+  nay hình như chẳng có mấy ai quan tâm? </p>
+<p>Tính cảm thụ nghệ thuật là đặc tính chung tuy có cao thấp của người thưởng
+  ngoạn, nhưng đều hướng về chân thiện mỹ và do đó mà tạo ra luật đào thải tự
+  nhiên từ quần chúng tiêu dùng. Cái gì hay đẹp phục vụ đời sống thường nhật
+  của quần chúng đều được mọi người yêu chuộng nên trường tồn, cái gì chỉ phục
+  vụ cho chính trị nhất thời đều sớm tàn lụi. Bằng chứng là nhạc đại chúng của
+  miền Nam đến nay vẫn còn được yêu chuộng trong khi ‘nhạc đỏ’ chẳng còn ai nhắc
+  nhở. </p>
+<p>Sang hay sến còn tùy tâm cảm của người thưởng thức; chẳng nên mang nhận xét
+  tính cá mè một lứa đầy phiến diện như của nhạc sĩ Pháp Hector Berlioz khi nói
+  về nhạc Trung Hoa thì cho là giống <i>"chó ngáp mèo mửa</i>"  hay một ông
+  hoàng ở Lahore, Pakistan lại cho nhạc tây phương chỉ là "<i>tiếng
+  sói tru giữa sa mạc</i>". </p>
+<p>Cái thói thượng lưu cung đình mà có lẽ nhiều tác giả tranh luận cho là <i>‘nhạc
+  sang</i>’ vẫn còn đeo đẳng mãi cho đến thời nay, dù thực lố bịch vẫn chưa chịu
+  biến mất. Trong một dịp du lịch châu Âu vào năm 2000, khi đến Vienna thủ đô
+  Áo, trong chương trình tham quan có một buổi nghe nhạc Watlz ở Schoenbrunn
+  Palace Concerts tồn tại từ thời nữ hoàng Maria Theresa của giòng Habsburg,
+  du khách được nhắc nhở phải ăn mặc nghiêm trang chỉnh chu với bộ vét và cà
+  vạt khi đến dự. Có chán không kia chứ! </p>
+<p>Thính phòng rộng im phăng phắt, mọi người ngồi như tượng chỉ thỉnh thoảng
+  có tiếng ho nhẹ cố nén xuống của thính giả; trong khi hôm trước đến dự buổi
+  ca vũ dân gian (theo các tác giả kể trên, chắc là loại ‘sến’) Tyrolean Evenings
+  Family Gundolf Show ở Innsbruck thì du khách ăn mặc thoải mái, nốc bia… vô
+  tư; còn đám vũ công nam trên sân khấu thì chỉ độc quần cộc cao lên tận bẹn
+  tay thì vổ chân liên tục rất vui tai, lạ mắt và… tiền (từ du lịch) thì cứ chảy
+  vào như nước. Mọi người đều hả hê thoải mái chẳng còn biết phân biệt đâu là
+  sang và đâu là sến nữa. Mong các nhà tranh luận kiểu <i>‘vệ
+  binh đỏ’</i> nên đi ra
+  nước ngoài nhiều để có cái nhìn thực dụng thông thoáng hơn.</p>
+<p>Ông Vương Tâm lại thêm “<i>Trước đây ở ta có những lệnh
+    cấm với những bài hát Sến có những lời ca dung tục, bi lụy não nề thì nay
+    càng cần phải làm triệt để hơn. Các cấp các ngành văn hóa có lẽ phải tạo
+    nên nhiều sắc lệnh chặt chẽ hơn để nâng cao chất lượng chương trình biểu
+    diễn hoặc các album được ra đời.</i>”
+  Tôi mong ông sớm được làm quan to về quản lý văn hóa có quyền để ông sớm ra
+  tay quét dọn những tệ nạn vi phạm thuần phong đạo đức, dâm ô trụy lạc, gia
+  tăng bạo lực, giết người bừa bải hiện đang lan tràn trong nước dưới ảnh hưởng
+  của các xã hội bạo lực Âu Mỹ qua internet. Khi nêu ra những đê nghị như trên,
+  không biết ông đã sống vào thời nào? thời chuyên chính vô sản, thời bao cấp
+  tem phiếu hay thời đại điện tử? </p>
+Lời phê bình đề nghị trên làm tôi nhớ lại các cáo buộc thiếu đứng đắn của một
+ông khác Nguyễn Lưu, con của cựu cán bộ cao cấp Nguyễn Xiển, đã viết trên báo
+rằng ca khúc <i>‘Mùa thu chết’</i> của nhạc sĩ Phạm Duy, từng làm bộ trưởng văn hóa
+thời Nguyễn Văn Thiệu, đã xuyên tạc cách mạng tháng 8. Bút sa gà chết, nào có
+rút lại được? Rõ khổ!
+<p class="TuaDenLeft"><u>Kết Luận</u></p>
+<p>Các vụ thảo luận ồn ào về ‘<i>nhạc vàng’, ‘nhạc sến’, ‘nhạc
+    phản động</i>’ vv...
+  ở trong nước cho ta thấy có nhiều yếu tố phủ phàng khó chối cãi là: 1) Thái
+  độ chính trị của Nhà Nước trước chính sách giao lưu cỡi mở với thế giới bất
+  khả phản hồi, cho nên việc cho phép<i>‘nhạc vàng’</i>sống lại chỉ là hệ quả.
+  Chính trị luôn là thành tố quyết định đời sống của xã hội. 2) Một số quan văn
+  hóa ‘<i>bảo hoàng hơn vua</i>’, trước đây đã được đào tạo theo lối hàn lâm,
+  lo sợ cho vị trí và quyền lợi của mình nên đưa ra nhiều đề nghị chống đối <i>‘nhạc
+  vàng’ </i>lỗi thời mang tính phỉ báng thiếu cơ sở. 3) Tình hình yếu kém của
+  nền tân nhạc hiện tại trong nước sau một thời gian dài<i> ‘nhạc vàng’</i> bị
+  cấm vẫn không tìm được lối thoát nên giòng nhạc và nghệ sĩ cũ vẫn được dân
+  chúng đón chào khi tái ngộ, chứng tỏ giá trị nghệ thuật nhất định của <i>‘nhạc
+  vàng’.</i> 4) Với trào lưu ảnh hưởng mạnh mẻ của Âu Mỹ qua internet ngày nay,
+  chưa biết nghệ thuật của ta sẽ được gạn lọc như thế nào và đi về hướng nào
+  trong mai sau. 5) Luật đào thải tự nhiên của người thưởng ngoạn trong thời
+  kinh tế thị trường sẽ là người trọng tài vô tư nhẩt. Tương lai của <i>‘nhạc
+  vàng’</i> cũng
+  sẽ có giới hạn của nó. Que sera, sera.</p>
+Mong các lời luận bàn về <i>‘nhạc vàng’ </i>một cách tiêu cực của các quan văn
+hóa (không chức vụ) nên chấm dứt từ đây; và lối đánh đồng <i>‘nhạc
+sến’</i> với<i>‘nhạc
+vàng’</i>chỉ
+làm cho mọi người cười cho sự hiểu biết nông cạn của mình cũng nên chấm dứt luôn.
+<p><span class="TacgiaL">Trần Hải-Âu</span><br>
+  Mùa Thanksgiving, 2012.</p>
+
+<p><b>Mời đọc thêm:</b></p>
+<p>- <a href="https://vanghe.blogspot.com/2011/07/nhac-sen.html">Nhạc Sến, <i>Nguyễn
+      Văn Tuấn</i>,https://vanghe.blogspot.com/2011/07/nhac-sen.html</a> </p>
+<p>- <a href="https://suckhoedoisong.vn/200887165212334p0c15/nhac-sen-bien-di.htm">Nhạc
+    Sến Biến Dị, <i>Vương Tâm</i></a><br> 
+    https://suckhoedoisong.vn/200887165212334p0c15/nhac-sen-bien-di.htm</p>
+<p>- <a href="https://www.chuyenluan.net/index.php?option=com_content&amp;view=article&amp;id=6110:bolero-lai-sang-den-1-hat-theo-nhip-buon&amp;catid=11:vanhoa&amp;Itemid=15"> Bolero
+    lại sáng đèn (1) Hát theo nhịp buồn </a> </p>
+<p>- <a href="https://www.chuyenluan.net/index.php?option=com_content&amp;view=article&amp;id=6111:bolero-lai-sang-den-2-du-sen-hay-sang&amp;catid=11:vanhoa&amp;Itemid=15"> Bolero
+    lại sáng đèn (2): Dù sến hay sang </a></p>
+<p>- <a href="https://www.chuyenluan.net/index.php?option=com_content&amp;view=article&amp;id=6112:bolero-lai-sang-den-ky-cuoi-sen-ma-song-qua-may-chuc-nam&amp;catid=11:vanhoa&amp;Itemid=15"> Bolero lại sáng đèn (kỳ cuối): Sến mà sống qua mấy chục năm </a></p>
+  
+  <hr width="40%" align="left">

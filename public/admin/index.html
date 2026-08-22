@@ -1,0 +1,23 @@
+<!doctype html>
+<html lang="vi">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <meta name="robots" content="noindex" />
+    <title>Quản trị Sách Hiếm</title>
+    <style>
+      body { margin: 0; background: #16130e; }
+      .loading {
+        position: fixed; inset: 0; display: flex; align-items: center; justify-content: center;
+        color: #b3a88f; font-family: Georgia, serif; font-style: italic;
+      }
+    </style>
+  </head>
+  <body>
+    <div class="loading">Đang tải trang quản trị…</div>
+    <script type="module">
+      import CMS from 'https://unpkg.com/@sveltia/cms@1/dist/sveltia-cms.js';
+      CMS.init({ config: { load_config_file: true } });
+    </script>
+  </body>
+</html>

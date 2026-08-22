@@ -1,0 +1,49 @@
+---
+layout: ../../../layouts/Article.astro
+title: "Có Người Thương Binh Già Với Ngôi Chùa Cách Mạng Ở Quê Hương"
+author: "Nguyễn Quang Chánh"
+date: 2023-07-13
+source: "https://sachhiem.net/LICHSU/N/NguyenQuangChanh06.php"
+category: "Chính trị"
+lang: vi
+wordCount: 1796
+image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/LICHSU/IMG/ANHUNG/ChuTuCang_CuuCTN_NgMTriet_rms10Jun2023.jpg"
+---
+
+<p align="right"><i><b>Viết nhân ngày 27/7 kính nhớ các thương binh liệt sĩ</b></i></p>
+  <div class="tomluoc">
+  <p><i>Gần 80 năm theo cách mạng từ ngày 25/8/1945 tham gia cướp chính quyền ở Bà rịa trong cách mạng tháng Tám, giờ đã ở tuổi 96, chú Tư đang là tượng đài anh hùng của xã Long Phước, người thương binh già lan toả lòng yêu nước, yêu quê hương xóm làng tới người dân nơi đây.</i></p>
+  <p><i>Chú bảo, hãy làm tất cả những gì có thể làm được lúc này để tri  ân các anh hùng liệt sĩ đã hy sinh và đừng để con cháu và các thế hệ kế tiếp  lãng quên xương máu của cha anh đã đổ để dành độc lập và thống nhất đất nước  qua nhiều thập kỷ.</i></p>
+  </div>
+  <p align="center"><img src="https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/LICHSU/IMG/ANHUNG/ChuTuCang_CuuCTN_NgMTriet_rms10Jun2023.jpg" width="400" height="228" alt=""></p>
+  <p align="center"><i>Anh hùng Tư Cang và Cựu Chủ Tịch Nước Nguyễn Minh Triết trong ngày 10 tháng 6, 2023</i> <a href="https://www.sggp.org.vn/ra-mat-sach-ve-cum-tinh-bao-h63-anh-hung-post693180.html">ra mắt sách về Cụm Tình Báo H.63 anh hùng</a></p>
+  <p><span class="First">H</span> ôm rồi, tôi ghé thăm chú Tư Cang , một người thương binh già trong kháng chiến chống Mỹ cứu nước, chú Tư cười khà khà và bảo: </p>
+ <p>- Ngày 27/7 tới đây, con thu xếp về Long Phước với chú dự lễ kỷ niệm ngày thương binh liệt sỹ nghen, tiện thể ghé thăm ngôi chùa Bảo Ân luôn. </p>
+ <p>Chú khoe, mới cho tái bản cuốn sách "<i>Nước mắt ngày gặp mặt</i>", chú sẽ tặng cho mỗi người dân Long Phước quê chú mỗi người một cuốn. Chú ghi lại và bổ sung vào cuốn sách truyền thống của tỉnh nhà, của đội du kích Quang Trung với tư cách là một nhân chứng của lịch sử.</p>
+<p>Long Phước quê chú Tư là xã anh hùng. Năm nào cũng vậy, ngày 27/7 người dân nơi đây về đền thờ của xã để kỷ niệm và tri ân các anh hùng liệt sỹ đã ngã xuống trong hai cuộc kháng chiến chống Pháp và Mỹ. Cái xã nhỏ bé ấy mà có tới 507 liệt sỹ, năm 1994 xã Long Phước được Nhà nước tuyên dương danh hiệu AHLLVTND và có 4 cá nhân được truy tặng và phong tặng danh hiệu AHLLVTND, trong đó có chú Tư. </p>
+<p>Hôm rồi, ở Long Phước vừa khánh thành ngôi chùa cách mạng Bảo Ân trên nền đất cũ, ngôi chùa được xây dựng lại bằng nguồn vốn xã hội hóa, trong đó có sự đóng góp rất lớn của người em gái của chú Tư. Chú kể, mình ra đi kháng chiến từ cái làng này cũng gần 80 năm rồi, khi ấy chỉ là một thanh niên tuổi đời mới 17-18 tuổi. Ngôi chùa Bảo Ân này với dân làng Long Phước rất ý nghĩa.</p>
+<p align="center"><img src="https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/TONGIAO/IMG/CHUA/ChuaBaoAn_langLongPhuoc.jpg" width="400" height="295" alt=""></p>
+<p>Ngược dòng thời gian, chùa Bảo Ân (Bảo Ân Cổ Tự) được hoà thượng Thích Huệ Đăng cùng nhân dân địa phương xây dựng từ những năm 1930 vào giai đoạn của phong trào Cần Vương đánh Pháp. Hoà thượng Thích Huệ Đăng xuất thân là một trí thức Cần Vương tham gia hoạt động tuyên truyền và xây dựng lực lượng chống Pháp. Chùa Bảo Ân được xây dựng để giáo dục tinh thần Phật giáo yêu nước, thực hiện tâm từ bi nhằm giúp đỡ dân nghèo. Ngôi chùa đã trở thành địa điểm hoạt động cách mạng của những người yêu nước chống giặc Pháp.</p>
+<p>Sau khi hòa thượng Thích Huệ Đăng qua đời, kế nhiệm vai trò trụ trì là hoà thượng Thích Pháp Trí, vừa là đệ tử, đồng thời là thành viên của tổ chức Thiên Địa Hội chống Pháp nên hoạt động cách mạng chống giặc trong chùa lúc bấy giờ càng mạnh hơn và để che mắt giặc, sư trụ trì đã cho đào hầm bí mật làm căn cứ, nuôi dấu cán bộ trong chùa. </p>
+<p>Có một sự kiện không thể quên, khi cả Nam Bộ đứng lên kháng chiến chống Pháp theo lời kêu gọi của Hồ Chủ Tịch, vào năm 1946, hòa thượng Thích Pháp Trí đã làm lễ xin Phật, xin Tổ và nhân dân phật tử hiến hai đại hồng chung bằng đồng cho công binh xưởng đúc súng đánh Pháp, nghĩa cử cao cả đó được nhân dân trong vùng ca ngợi và tới nay trong dân chúng còn lưu truyền 2 câu thơ ở xã Long Phước như sau:</p>
+<p class="indent50"><i>Nhà chùa vắng tiếng chuông ngân</i><br>
+  <i>Hiến đúc súng đạn, đánh tan quân thù.</i></p>
+<p>Khi hoà thượng Thích  Pháp Trí qua đời, bà Phạm Bửu Nguyệt (Tự Mười Diệu) là phật tử kế tục quản lý  chùa. Trong kháng chiến chống Mỹ, bà Mười Diệu thoát ly tham gia cách mạng,  ngôi chùa vắng bóng trụ trì nhưng vẫn là cơ sở hoạt động của các chiến sĩ cách mạng.  Hầm ngầm trong chùa được đào dài thêm thành con đường địa đạo ngầm trong lòng  đất từ nhà chùa tới tận chân núi và trở thành căn cứ bí mật của lực lượng điệp  báo Bà rịa -Chợ lớn trong kháng chiến chống Mỹ cứu nước.</p>
+<p>Trước năm 1975, tụi  địch phát hiện ra khu vực hoạt động bí mật của cách mạng, chúng đã dùng bom phá  để san phẳng ngôi chùa. Rất nhiều chiến sĩ cách mạng đã hy sinh ở ngôi chùa này  và trong đường hầm bí mật .</p>
+<p>Sau ngày giải phóng  30/4/2975, đất chùa Bảo Ân cũ là khu vực bỏ hoang. Mãi tới năm 1993, UBND xã  Long Phước mới được giao khu đất này để quản lý và sử dụng vào mục đích văn hóa  và làm khu di tích lịch sử cách mạng. </p>
+<p align="center"><img src="https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/LICHSU/IMG/ANHUNG/ChuaBaoAn_tho_anhhung.jpg" width="400" height="524" alt=""></p>
+<p>Năm 1994, xã Long Phước được Nhà nước  phong tặng danh hiệu AHLLVTND và sự đóng góp của ngôi chùa nhỏ Bảo Ân vào thành  tích của xã Long Phước là một điểm son.</p>
+<p>Chú Tư Cang kể với  tôi, xã Long Phước quê chú nghèo lắm, nhưng lòng dân theo Đảng, theo cụ Hồ đánh  Pháp đuổi Mỹ thật kiên cường. Xã Long Phước là cái nôi của cách mạng tỉnh nhà.  Khi hội CCB kháng chiến Bà rịa-Chợ lớn do chú Tư làm chủ tịch nhóm họp thì mọi  người đều nhắc đến căn cứ bí mật của cách mạng ở ngôi chùa Bảo Ân xưa, ai ai  cũng muốn được phục dựng lại ngôi chùa cách mạng này. Họ đã cử chú Tư làm  trưởng ban xin phép Nhà nước cho xây dựng trùng tu lại ngôi chùa Bảo Ân nhằm  tri ân tiền nhân và làm nơi lưu giữ, giáo dục truyền thống cách mạng cho các  thế hệ mai sau.</p>
+<p align="center"><img src="https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/LICHSU/IMG/ANHUNG/ChuaBaoAn_hop_CCB_BRVT.jpg" width="500" height="369" alt=""></p>
+<p>Sau nhiều năm chờ đợi,  Nhà nước cũng đã chấp thuận cho việc xây dựng lại ngôi chùa Bảo Ân bằng nguồn  vốn xã hội hóa vào năm 2018. Chú Tư Cang có một người em gái thứ 7 tên Nguyễn  Thị Minh Nguyệt, cũng tham gia kháng chiến cùng với người anh của mình trong  quân báo ở tỉnh nhà từ rất sớm. Sau ngày giải phóng, bà công tác ở công an tỉnh  Đồng nai, bà nghỉ hưu với cấp bậc trung tá. Bà Minh Nguyệt cũng rất nặng lòng  với việc xây dựng và trùng tu ngôi chùa Bảo Ân cổ tự này. Bà đã tình nguyện bán  đi căn nhà của mình xây dựng được nhờ tích cóp nhiều năm trời để ủng hộ cho  việc xây chùa. Ban trùng tu ngôi chùa Bảo Ân cố tự do ông Trần Văn Khánh,  nguyên bí thư tỉnh ủy tỉnh Bà rịa-Vũng tàu làm trưởng ban, bà Minh Nguyệt làm  phó trưởng ban thường trực. Chú Tư Cang được mời làm cố vấn của ban này.</p>
+<p align="center"><img src="https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/LICHSU/IMG/ANHUNG/ChuaBaoAn_bantrungtu.jpg" width="400" height="536" alt=""></p>
+<p>Sau gần 5 năm xây  dựng, do ảnh hưởng gần 2 năm của dịch covid-19, hôm nay ngôi chùa Bảo Ân đã  được hoàn thành, khang trang, to đẹp trên diện tích hơn 3000 m2 với chính điện  2 tầng. Trong khuôn viên chùa còn có đền thờ các vua Hùng, thờ Bác Hồ, bác Võ  Nguyên Giáp và các anh hùng liệt sĩ, đặc biệt dưới nền chùa thiết kế lại mô  hình địa đạo, tái hiện hình ảnh hoạt động bí mật của các chiến sĩ cách mạng  trước khi bị bom đạn của giặc tàn phá.</p>
+<p>Hôm nay đứng ở sân  chùa, chú Tư Cang rưng rưng nước mắt hồi tưởng: </p>
+<p>- không bao giờ dám mơ sẽ có  được một ngôi chùa bằng nguồn vốn xã hội hoá khang trang như thế này trên nền  đất xưa chùa Bảo Ân. </p>
+<p>Ngày trước, chú bảo ngôi chùa này bằng gỗ, nhỏ bé. Nhà chú  cách ngôi chùa có hơn một trăm mét. Nghe má kể lại, chú và lũ trẻ trong xã hay  lại chùa chơi. Hồi chú 4 tuổi, thầy trụ trì thường hay đặt cái mõ lên cái đầu  trọc lóc của chú để gõ tụng kinh. </p>
+<p>Năm tháng trôi đi, mới đó giờ chú Tư Cang đã  là một ông già 96 tuổi rồi, bước đi đã chậm, chú tự hào với những gì mà người  dân xã Long Phước của mình đã hy sinh cho cách mạng để bảo vệ Tổ quốc và thống  nhất đất nước. Chú bảo, hãy làm tất cả những gì có thể làm được lúc này để tri  ân các anh hùng liệt sĩ đã hy sinh và đừng để con cháu và các thế hệ kế tiếp  lãng quên xương máu của cha anh đã đổ để dành độc lập và thống nhất đất nước  qua nhiều thập kỷ.</p>
+<p>Chú Tư là thương binh  nặng 2/4, mất 61% sức khỏe là người con nặng lòng với quê hương. Chú nói , mỗi  lần về quê, bà con chòm xóm tới thăm , còn nhớ tới mình, thương yêu là hạnh  phúc nhất rồi. Thương cái xã nghèo ấy thật kiên cường trong bom đạn của kẻ thù.  Gần 80 năm theo cách mạng từ ngày 25/8/1945 tham gia cướp chính quyền ở Bà rịa  trong cách mạng tháng Tám, giờ đã ở tuổi 96, chú Tư đang là tượng đài anh hùng  của xã Long Phước, người thương binh già lan toả lòng yêu nước, yêu quê hương  xóm làng tới người dân nơi đây và chú được sống trong tình yêu thương của dân  làng , họ tự hào về người thương binh nặng 2/4 đã nặng lòng với quê hương , với  nơi mình được sinh ra.</p>
+<p>Chú vẫn nói , mình  phải biết ơn những người đã hy sinh để mình được sống đến ngày hôm nay, ăn quả  nhớ người trồng cây.</p>
+<p>Xin được cám ơn chú  Tư, người thương binh nặng lòng với quê hương !</p>
+<p class="nguonL">Nguồn <a href="https://www.facebook.com/chanh.nguyen.31924/posts/pfbid0bKmBgioEXdKxtjjxr56NMYxcVSLFM2krzVRLFbvq7xuzV5uxWU7e5NhiaJ2krCUil">FB Nguyễn Quang Chánh</a> ngày 17 tháng 7, 2023</p>
+<br>

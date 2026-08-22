@@ -1,0 +1,203 @@
+---
+layout: ../../layouts/Article.astro
+title: "CỦ KHOAI LÙI BẾP TRO"
+author: "Charlie Nguyễn"
+source: "https://sachhiem.net/null"
+lang: vi
+wordCount: 5379
+image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/MuclucButton.gif"
+---
+
+<div align="center" style="position: relative; left: 0; top: 0">
+ 
+		
+  
+	
+<table id="0" border="1" cellpadding="0" cellspacing="0" width="650" topmargin="10" bordercolor="#FF9966" background="../images/starBckgrd.gif" bordercolorlight="#FFFFCC" bordercolordark="#606060"> 
+<tbody><tr><td colspan="2"> 
+	<table border="2" cellspacing="0" width="100%" topmargin="10" colspan="2"> 
+	<tbody><tr><td width="100%" bgcolor="White" align="left" valign="top" colspan="2">	
+		
+		</td>
+	</tr></tbody></table>
+	</td></tr>
+
+
+	
+<tr> <td width="100%"> 
+
+<table border="2" cellpadding="50" cellspacing="0" width="100%" topmargin="10"> 
+	<tbody><tr><td bgcolor="White" align="justify" valign="top">
+	 
+ 
+ 
+ 
+ 
+ <i>Lời Giới Thiệu :
+</i>&nbsp;
+	
+		<p>Bài viết này có thể coi là bài viết đầu tiên trong loạt bài tôi viết về đề tài “Tôn Giáo và Dân Tộc”. Viết xong từ cuối năm 1999 khi sống lang thang ở Virginia và Maryland, nhưng tới nay bài này vẫn chưa bao giờ được đăng trên báo hay tập san nào. Sau khi tôi đã xuất bản được bốn cuốn sách với gần 80 đề mục, bản thảo “Củ Khoai Lùi Bếp Tro” vẫn nằm im trong ngăn kéo. Nay, vì mới thực hiện được webpage “Tôn Giáo và Dân Tộc” của riêng tôi:
+&nbsp;<br>
+- Địa chỉ 1:          https://charlienguyen.com/<br>
+- Địa chỉ 2:          &nbsp;https://home.comcast.net/~charlieng/<br>
+- Địa chỉ 3 :          https://home.earthlink.net/~charlienguyen/<br><br>
+&nbsp;
+tôi muốn đưa bài này lên để chia xẻ với các bạn .</p><p>&nbsp;
+Trước khi vào đọc “Củ Khoai Lùi Bếp Tro”, xin mời các bạn đọc bức thư của tôi gửi hai người bạn thân để giới thiệu bài viết này:<br><br>
+&nbsp;
+- Trước hết là bạn Lư Tấn Hồng, cựu thẩm phán Quân Pháp, bút hiệu Vĩnh Như và Nguyễn Viết Hồng.<br>
+- Sau đó là bạn Nguyễn Anh Tuấn, bút hiệu Thường Nhược Thủy.<br><br>
+&nbsp;
+Cả hai bạn là đồng tác giả của nhiều cuốn sách gíá trị chuyên nghiên cứu về “tinh hoa tư tưởng Việt” “Đạo Sống Việt” và nhất là về văn chương bình dân (ca dao tục ngữ) và về văn hóa cổ truyền của dân tộc.<br><br>
+&nbsp;
+Nhờ đọc các sách của các bạn đó, nên tôi đã có được một số kiến thức cần thiết về văn hóa cổ truyền của dân tộc, và từ đó nảy sinh lòng yêu mến con người và tâm hồn thuần túy Việt Nam.<br><br>
+&nbsp;
+Sau đây là bức thư gửi hai người bạn tôi :<br><br>
+&nbsp;
+Virginia, ngày 28/2/2000<br><br>
+&nbsp;
+Hai bạn Lư Tấn Hồng và Nguyễn Anh Tuấn thân mến,<br><br>
+&nbsp;
+Như các bạn đã biết, tôi sinh ra và lớn lên trong môi trường đậm đặc của Công Giáo LaMã, vốn mang nặng tính chất du mục Babylon và hoàn toàn xa rời văn hóa dân tộc. Có lẽ các bạn cũng nhận thấy rất nhiều người Công giáo trí thức, họ hiểu biết nhiều nhưng tại sao họ vẫn không thoát ra khỏi cái ngục tù tư tưởng của họ? Đó là vì họ đã mắc tròng, tức bị mắc kẹt trong cái thòng lọng của đạo Công Giáo (The Catholic Loop). Cái tròng nặng nhất là cái tròng tình cảm gia đình. Không ai muốn ra mặt công khai chống lại cái tôn giáo lâu đời của gia tộc và gia đình mình, nhất là cái tôn giáo đó lại là thứ tôn giáo cuồng tín như Công giáo LaMã.  Nhiều cha mẹ sẵn sàng từ con hoặc vợ bỏ chồng, chứ không bao giờ chấp nhận bỏ đạo, vì vậy mọi người Công giáo tỉnh ngộ vẫn cứ phải im lặng làm hòa cho yên cửa yên nhà.  Nhiều người lại cho rằng chống lại đạo của cha mẹ ông bà mình là bất hiếu nên họ đã không dám thoát ra khỏi cái tròng của đạo. Bài viết “Củ Khoai Lùi Bếp Tro” tôi đính kèm theo đây nói lên cái hoàn cảnh ấy.  Chính cái tinh thần dân tộc còn sót lại trong tôi đã giúp tôi thoát khỏi cái tròng Công giáo của văn hóa du mục Babylon để trở về với văn hóa dân tộc Việt Nam.<br><br>
+&nbsp;
+Tôi ví cái văn minh Tây phương (trong đó có đạo Công giáo) cũng như món “french fries” hay “smashed potato”, bề ngoài trông có vẻ “văn minh” nhưng không thích hợp với tôi bằng ”củ khoai nướng lùi tro”.  Đối với tôi, củ khoai nướng mộc mạc đơn sơ nhưng bên trong củ khoai là tất cả vị ngon nguyên chất ngọt ngào và mùi thơm của nó đượm cả tình người.<br><br>
+&nbsp;
+Tôi yêu văn hóa dân tộc cũng như yêu củ khoai mà mẹ tôi nướng vùi tro thảy cho tôi ăn hồi còn nhỏ. Tôi bỏ văn hóa ngoại lai để trở về với văn hóa dân tộc đâu có phải là bất hiếu với cha mẹ ông bà đâu. Tôi không chấp nhận tôn giáo không có nghĩa là tôi trở thành kẻ vô thần và vô đạo đức. Tôi chỉ từ bỏ cái quan niệm sai lầm về Chúa (hay Thượng Đế), chứ tôi không chống lại các đấng thiêng liêng. Tôi từ bỏ tôn giáo vì tôn giáo không cần thiết cho con người, chứ không phải vì tôi muốn sống buông thả, vô đạo đức.<br><br>
+&nbsp;
+Đó là nội dung tư tưởng tôi muốn diễn đạt trong bài viết này với ước mong được các bạn giúp thêm ý kiến.<br><br>
+&nbsp;
+Thân ái,</p>
+	
+<p>
+Chấn</p>
+
+		
+	<p class="MUC">CỦ KHOAI LÙI BẾP TRO
+&nbsp; </p>
+	<p class="TacgiaL">Chúng ta đang sống trong thời đại của những cơ hội và những thách thức  không thể tiên đoán. Nền khoa học xuất phát từ văn minh Tây phương không ngừng mở rộng  những chân trời kiến thức khiến con người có thể sáng tạo nên những kỳ quan kỹ thuật không kém gì những phép lạ của Thượng đế. Con người đã thành công sáng tạo ra những con cừu hay những con chuột giống hệt như nhau từ những tế bào sinh vật. Con người  cũng đã thành công trong việc làm những cơn mưa nhân tạo, hoặc trong việc nghiên cứu các “genes” để tạo ra những giống lúa, rau, quả theo ý muốn. Các nhà hóa học đang tìm cách phục chế các loại rác do loài người phế thải mỗi ngày để giảm bớt tối đa sự phung phí nguyên liệu. Giới y khoa đã thành công chế tạo vài loại thuốc chủng ngừa bằng DNA để giúp con người chỉ cần chủng ngừa một lần cũng đủ tránh được một vài thứ bệnh nào đó trong cả cuộc đời. <br><br>
+&nbsp;
+Thế giới khoa học Tây phương vẫn liên tục đóng góp mỗi ngày vào kho dự trữ kiến thức của nhân loại. Chỉ trong phạm vi Anh ngữ không thôi, người ta tính ra có tới 7000 tài liệu được viết ra mỗi ngày về các đề tài khoa học. Không một ai có đủ thỉ giờ và sức lực để đọc, chứ không nói tới chuyện có hiểu hay không.<br><br>
+&nbsp;
+Chúng ta tự hào đang được sống trong thời đại Tin Học (Information Age) nhưng thực sự ra chúng ta đang bị tràn ngập bởi những dữ kiện (data) mà phần lớn đã làm cho chúng ta điên đầu lo lắng và căng thẳng thần kinh. Mọi người Tây phương hầu như đang được sống trong cuộc sống vật chất đầy đủ nhất từ xưa đến nay, nhưng con số những người bị căng thẳng tinh thần, thậm chí là mắc bệnh tâm thần lại có phần gia tăng hơn trước. Rõ ràng cuộc sống vật chất sung mãn không phải là điều kiện cần và đủ cho một cuộc sống hạnh phúc của con người.<br><br>
+&nbsp;
+Nói như vậy không phải chúng ta có ý làm giảm giá trị của khoa học trong nền văn minh Tây phương. Trái lại, chúng ta đánh giá cao những thành tựu của nền khoa học đó và nhân loại phải biết ơn những nhà khoa học Tây phương đã góp công vĩ đại nâng cao mức sống và tầm hiểu biết của toàn thể loài người chúng ta về mọi lãnh vực. Vấn đề cốt lõi là chúng ta không thể quên cái trọng tâm của thế giới này là chính CON NGƯỜI. Chúng ta không thể sống hạnh phúc với thân xác và với thế giới giầu có về vật chất mà không cần một cái gì khác, nhất là không cần để ý tới ai. Để có được một cuộc sống có ý nghĩa và hạnh phúc trọn vẹn thì ngoài cuộc sống vật chất đầy đủ ra chúng ta cần có một tâm hồn ổn định hài hòa với tình thương bao la ràn trải tới mọi đồng loại.<br><br>
+&nbsp;
+Phải chăng lịch sử loài người đã có hoặc sẽ có một “thời đại hoàng kim”, trong đó tập thể con người được sống  trong hòa bình và yêu thương nhau ?  Nói một cách khác, muốn sống có hạnh phúc, chúng ta cần có trước hết là “tình người”. Phải chăng đó là tuyệt đỉnh của văn minh nhân loại ? Phải chăng ngọn đuốc của sự hiểu biết về cái “cùng kỳ lý” đã không được truyền tay từ đời xưa đến đời nay một cách liên tục  và nó đã bị thất lạc trong một chặng nào đó trong chiều dài của những thiên-niên-kỷ ?<br><br>
+&nbsp;
+Nêu lên những câu hỏi này là chúng ta đang rất quan tâm đến những giá trị tinh thần đã bị thất lạc. Có thể những giá trị tinh thần qúi báu đó đã không được các sử gia, các nhà khoa học và các chính trị gia Tây phương để ý tới. Chúng ta có thể qủa quyết một điều là nền văn minh của nhân loại đã không bùng nổ đột biến như hiện tượng “Big Bang”. Nền văn minh đó đã hình thành bằng những bước đi dò dẫm chậm chạp trên đường tiến hóa dài tới cả triệu năm. Khoa học khảo cổ đã đạt những thành tựu lớn lao trong việc khám phá quá khứ của nền văn minh nhân loại, nhưng ánh sáng của ngành khoa học này mới chỉ soi rọi tới cái giới hạn của nó là thời kỳ đồ đá (Stone Age) tức khoảng thời gian từ 25000 đến 4000 năm trước công nguyên (TCN). Người Tây phương đã tìm ra những cái nôi của nền văn minh như Summer, Babylon, Dilmun, Elam, Ai Cập,.... Những cái nôi của nền văn minh ấy đều đã xuất hiện vào cuối thời kỳ đồ đá (8000-4000 TCN) nhưng người ta vẫn chưa hiểu rõ tại sao tất cả những nền văn minh ấy đều đã bị tiêu diệt. Phải chăng sự qúa mê tín vào kiếp sau và lo cho kiếp sau (người Ai Cập lo xây kim tự tháp làm suy sụp kinh tế quốc gia) và chiến tranh tôn giáo đã là những nguyên nhân chính yếu dẫn đến sự hủy diệt những nền văn minh ấy ?<br><br>
+&nbsp;
+Người Tây phương cũng không tránh khỏi những nhận định chủ quan trong sự đánh giá những nền văn minh đó. Từ khi Napoléon kéo quân đến chiếm Ai Cập vào đầu thế kỷ 18, ông ta đã ngỡ ngàng đứng ngắm nhìn những kim tự tháp. Tiếp theo đó là những khám phá thành công của ngành khảo cổ tại vùng Cận Đông với các di vật đã hùng hồn nói lên cái quá khứ đầy huy hoàng tráng lệ của Babylon và đất thánh Jerusalem.<br><br>
+&nbsp;
+Thế giới phương Tây dường như có ấn tượng cho rằng vùng Cận Đông là cái nôi duy nhất của văn minh nhân loại. Những phát minh đầu tiên là những phát minh chưa từng có bao giờ trước đó (The firsts of first time ever) đều được gán cho là của giống dân Sumerians, những người đầu tiên định cư tại Babylon mà người Hy Lạp gọi là Mesopotamia. Mesos là “ở giữa” (Middle); Potamia là “những con sông” (Rivers). Đó là miền châu thổ được tạo nên bởi hai con sông Euphrate và Tigris, người Hoa dịch ra là Lưỡng-Hà-Châu. Hiện nay cả vùng này chỉ là một sa mạc mênh mông cách thủ đô Baghdad của Iraq khoảng 80 dặm về phía Nam. <br><br>
+&nbsp;
+Ngày nay, người ta đã nhận thấy những nhận định trên đây là thiên lệch và chủ quan quá đáng. Bởi lẽ nhiều nền văn minh cổ khác đã được khám phá tại Trung Quốc, Ấn Độ và Mexico (văn minh Maya).<br><br>
+&nbsp;
+Sự thật là thế giới cổ đã xuất hiện  nhiều nền văn minh độc lập  tại nhiều vùng khác nhau, trong số đó tại sao lại không thể có một nền văn minh thuần túy Việt Nam ?<br><br>
+&nbsp;
+Vì một lý do nào đó chưa rõ, tất cả các nền văn minh cổ đều đã tàn lụi, nhưng điều may mắn là các nền văn minh ấy đều để lại những dấu vết trong kho tàng kinh nghiệm của loài người. Không có một nền văn minh nào là kẻ sống sót duy nhất trên hành tinh này !<br><br>
+&nbsp;
+Trong tác phẩm “Truy Tìm Cái Nôi của nền Văn Minh” (In Search of the Craddle of Civilization) của ba tác giả George Feverstein, Subhash Kak và Davis Frawley – Quest Book 1995, nhiều nhà khoa học thuộc ngành khảo cổ đã đưa ra một nhận định mới cho rằng ngoài Babylon ra còn có nhiều cái nôi văn minh khác đã phát sinh một cách riêng biệt tại nhiều vùng khác nhau trong thế giới cổ. Điều nhận xét đặc biệt của họ là những cái nôi của văn minh nhân loại đều nằm trong cái vòng đai chạy quanh trái đất song song với đường xích đạo. Hầu hết đều ở gần Hạ Chí Tuyến (Tropic of Cancer) song song và nằm về hướng Bắc của đường Xích Đạo. Vòng đai này chạy qua Ai Cập, Babylon, Jerusalem, Bắc Ấn và miền Bắc Việt Nam (sách dẫn chiếu, p. XIX).<br><br>
+&nbsp;
+Để góp phần vào việc khôi phục và phát huy nền văn hóa Việt Nam, chúng ta cần phải đi vào trọng tâm của vấn đề là moi tìm những sự hiểu biết khôn ngoan của tổ tiên chúng ta về cái “cùng kỳ lý” của vũ trụ và cuộc sống. Đó là quan niệm của tổ tiên chúng ta về lẽ âm dương trong vạn vật và thái độ ứng xử khôn ngoan của tổ tiên chúng ta là chấp nhận những mặt đối lập để cùng tồn tại và phát triển theo cái lẽ “tương khắc, tương sinh”. Áp dụng sự khôn ngoan của tổ tiên vào thái độ sống của chúng ta hiện nay là: hãy mở rộng con tim và khối óc để đón nhận những dị biệt của các nền văn hóa ngoại lai du nhập với một tinh thần bao dung hài hòa. Tổ tiên chúng ta không dành độc quyền chân lý:<br><br>
+&nbsp;
+“Khôn chẳng qua lẽ, khỏe chẳng qua lời”<br>
+“Rằng trong lẽ phải có người có ta”<br><br>
+&nbsp;
+Biết ta có cái hay của ta, người có cái hay của người. Điều quan trọng là biết học hỏi cái hay của người để bổ túc cho cái thiếu xót của ta và biết dùng cái Đức của ta để cảm hóa cái xấu, cái dở của người.<br><br>
+&nbsp;
+“Có đi có lại mới toại lòng nhau”<br><br>
+&nbsp;
+Nhưng cuối cùng, tổ tiên chúng ta không tranh thắng với ai bằng cái lý, vì thắng bằng cái lý không thôi sẽ làm cho kẻ thua mất mặt và làm mất đi cái tình cảm thương yêu lẫn nhau. Tổ tiên chúng ta rất đau xót nếu có ai làm mất đi cái tình cảm đó.<br><br>
+&nbsp;
+“Một bồ cái lý không bằng một tí cái tình”<br><br>
+&nbsp;
+Chúng ta không kỳ vọng quá cao vào riêng cái kho tàng văn hóa của dân tộc để cho rằng sự hiểu biết khôn ngoan của tổ tiên đủ để giải quyết mọi vấn đề của cuộc sống hôm nay. Thật sự chúng ta cần phải học hỏi Tây phương rất nhiều về phương pháp tổ chức, óc phân tích khoa học, tinh thần trọng sự chính xác và nhất là ý chí phấn đấu liên tục trong học hỏi, tìm hiểu và phát minh để không ngừng tiến bộ mọi mặt.<br><br>
+&nbsp;
+Tuy nhiên, chúng ta phải nhìn nhận rằng cái kho tàng hiểu biết khôn ngoan của tổ tiên chúng ta đã được chắt lọc qua biết bao gian lao thử thách trong cuộc sống của toàn dân, nó là sợi chỉ xuyên suốt của bản sắc dân tộc qua nhiều ngàn năm lịch sử dấu tranh để đất nước ta còn tồn tại đến ngày hôm nay.<br><br>
+&nbsp;
+Hiển nhiên là cái kho tàng hiểu biết khôn ngoan của tổ tiên, tức là cái gốc của nền văn minh Việt Nam, đã được chứng nghiệm qua quá khứ 4000 năm lịch sử. Vậy nó phải có một giá trị nhất định. Ít nhất cái vốn văn hóa dân tộc cũng giúp chúng ta xác định được một thái độ sống dung hòa, lấy tình người làm trọng tâm. Thái độ sống đó hướng dẫn chúng ta cần phải tránh mọi chủ nghĩa  và mọi tôn giáo cực đoan, vì những thứ cực đoan này đã tàn phá thế giới và hủy diệt tình người.
+&nbsp;<br><br>
+Dưới ánh sáng của văn hóa dân tộc, chúng ta hãy bình tâm đánh giá lại mọi chủ nghĩa và mọi tôn giáo mà chúng ta đang theo :<br><br>
+&nbsp;
+Mọi tôn giáo hay mọi chủ nghĩa chỉ có thể là chính đáng nếu nó thực sự phục vụ con người. Bất cứ một thứ chủ nghĩa nào, dù nhân danh quốc gia hay xã hội, mà chà đạp hủy hoại con người đều là những tà thuyết đáng lên án. Mọi thứ tôn giáo dù nhân danh Thượng đế hay hứa hẹn một thiên đàng vĩnh cửu nhưng đã ngăn cách con người với nhau và hủy diệt lẫn nhau vì những tranh chấp thế tục thấp hèn thì đó không phải là những tôn giáo “thật”. Những tôn giáo đó thực chất chỉ là buôn thần bán thánh của những người khoác áo thầy tu để lừa bịp con người và đi ngược lại ý Thượng đế.<br><br>
+&nbsp;
+Phật đã dạy mọi chúng sinh đều có Phật tính. Như vậy Phật đã có sẵn ở trong lòng mỗi người. Muốn tìm Phật thì cứ việc tìm Ngài ở trong lòng mình, không cần phải tới chùa - Phật tại tâm chứ không tại chùa. Hãy tin vào chính mình và nhớ lời ông cha ta dạy rằng: bộ áo khó làm nên thầy tu. Tổ tiên chúng ta dạy chúng ta cái tinh thần đề cao cảnh giác “miệng tụng Nam Mô, bụng bồ dao găm”<br><br>
+&nbsp;
+Chúa Jesus còn dạy kỹ hơn: “Kẻ giàu vào nước thiêng đàng còn khó hơn con lạc đà chui qua lỗ kim”. Ai cũng biết giáo hội Vatican là giáo hội giàu nhất thế giới với tài sản hàng ngàn tỷ Mỹ kim. Vậy cả cái giáo hội Vatican chắc chắn là khó mà chui lọt lỗ kim đó ! Ai muốn lên thiên đàng thì hãy nghe lời Chúa, chứ đừng nghe các vị thừa sai của giáo hội mà phải sa hỏa ngục đời đời. Bao nhiêu công sức bỏ ra để đọc kinh rã họng cả mấy chục năm cũng đều đổ xuống sông xuống biển. Trong Thánh Kinh, Chúa cũng dạy con người hãy tránh xa các nhà thờ, vì Chúa không ở trong đó: “Thánh Linh của Thiên Chúa không ngự trong các đền thờ do bàn tay con người tạo nên” (The Holy Spirit no longer dwelth in temples made by men’s hands – Acts 17:24). Thánh Kinh xác định: “Anh em là đền thờ của Thiên Chúa. Thánh Linh của Thiên Chúa ngự trong anh em” (Ye are the temple of God. The Spirit of God dwelth in you – ICor. 3:16).<br><br>
+&nbsp;
+Rõ ràng một điều là Phật cũng như Chúa đều dạy mọi người hãy quay về với chính nội tâm của mình. Nội tâm của mổi người mới là Chùa thật và đền thờ thật. Mọi thứ nhà thờ, thánh thất hay chùa chiền miếu mạo ta thấy bên ngoài đều là đồ giả. Đó chính là những trung tâm dẫn dắt con người xa rời các lời dạy chân chính của Phật và Chúa. Mái chùa hay mái nhà thờ càng rộng lớn bao nhiêu càng che khuất ánh sáng mặt trời chân lý bấy nhiêu. Bức tường của nhà thờ hay chùa do người ta xây dựng càng cao bao nhiêu thì càng ngăn cách con người với nhau bấy nhiêu. Các tu sĩ giảng giải dông dài chính là những người đầu tiên phản bội lại các giáo chủ của mình, trước khi phản bội đồng đạo nhẹ dạ của họ.<br><br>
+&nbsp;
+Trước khi các đạo du nhập vào đất nước ta, tổ tiên chúng ta đã sống hàng ngàn năm bình yên, hạnh phúc mà không cần tới một đạo nào cả. Tổ tiên chúng ta đã nhận thức rằng: chúng ta đã có sẵn một đạo cao hơn tất cả các tôn giáo, đó là “Đạo Làm Người”.<br><br>
+&nbsp;
+Tổ tiên chúng ta là con Hồng cháu Lạc, chứ không phải là con cháu của Adong-Evà, nên không hề mắc cái “tội tổ tông”. Do đó chúng ta chẳng cần  một thứ chúa Cứu Thế nào cứu chuộc. Vào năm 40 sau Công-nguyên, hai Bà Trưng Trắc và Trưng Nhị đã cứu nước ta thoát ách đô hộ ngoại bang và dành lại độc lập cho tổ quốc. Hai Bà, sấp sỉ bằng tuổi Jesus,  và hai Bà Trưng đã thực sự là Chúa Cứu Thế của dân tộc ta. Jesus lúc đó còn bận giảng đạo ở Jerusalem, chẳng biết cái xứ Giao Chỉ nằm ở nơi nào trên địa cầu làm sao tới cứu? Jesus bị quân La Mã đánh đập tơi bời rồi bị đóng đinh trần truồng trên thập giá về cái tội dám chống lại đế quốc. Jesus là nạn nhân của bọn đế quốc La Mã. Đối đầu với cả một đế quốc hung bạo, Jesus đã không thể tự cứu mình, nên đã phải chết dưới tay chúng.<br><br>
+&nbsp;
+Một người đã không thể cứu nổi chính mình thì làm sao có khả năng làm Chúa Cứu Thế cả thế gian, trong đó có cả những người chủ mưu giết mình ? Học giả Do Thái Leonard Yassen đã viết rất chí lý trong tác phẩm “The Jesus Connection to Triumph over Anti-Semistism” (Crossroad 1995) : “Jesus không hề biết gì về Ki Tô Giáo (Christianity), cũng không chết với danh nghĩa là người dã sáng lập ra đạo này, mà chết vì danh nghĩa một công dân Do Thái”. Ông gọi Ki Tô Giáo là một cái boomerang vĩ đại do đế quốc La Mã tạo ra để khiến cho nó quay lại tiêu diệt tổ quốc của công dân Jesus. Do Thái quả là một một dân tộc được chọn (a chosen people), nhưng người chọn không phải là Thiên Chúa mà là đế quốc La Mã. và họ đã chọn dân tộc Do Thái với mục tiêu rõ rệt là để tiêu diệt dân tộc này.<br><br>
+&nbsp;
+Kẻ viết bài này đã viết trong tinh thần thanh thản, không một chút ác cảm riêng tư nào đối với Công Giáo, vì đạo này là đạo của tổ tiên, gia tộc nội ngoại từ thế kỷ 16. Mọi người thân thiết của đời tôi, tất cả đều là những tín đồ Công Giáo nhiệt thành đến độ sẵn sàng “tử vì đạo” bất cứ lúc nào. Tôi đã sinh ra và lớn lên trong môi trường đậm đặc ấy của Công Giáo miền quê Nam-Định. Nhưng cũng tại nơi miền quê đó, cái bản sắc đặc biệt của dân tộc tính Việt Nam vẫn không phai nhòa trong đáy sâu cùng tận linh hồn của những người nông dân chất phác hiền hòa. Cái ánh sáng của văn hóa dân tộc còn sót lại nơi tôi đã cởi trói cho tôi và giải thoát tôi khỏi “cái tròng Công Giáo” (The Catholic Loop – theo cách nói của bà Joanne H. Meehl, tác giả cuốn Người Công Giáo Tỉnh Ngộ - The Recovering Catholic – Prometheus Books, NY 1995).<br><br>
+&nbsp;
+Đã sống nhiều năm ở hải ngoại, tôi đã ăn nhiều “french fries, baked potatos, smashed potatos”, nhưng tôi vẫn nhớ như in cái hương vị ngọt ngào độc đáo của củ khoai mẹ tôi lùi trong bếp tro rơm rạ. Đã hơn nửa thế kỷ qua rồi mà sao cái hương vị ngọt ngào ấy  vẫn như còn tồn đọng trong đáy sâu tâm hồn tôi. Đặc tính văn hóa dân tộc Việt Nam có lẽ không khác mấy với hình ảnh củ khoai đơn sơ mộc mạc lùi tro trong căn bếp mái tranh vách đất năm xưa. Bề ngoài củ khoai nướng trông đen thui xấu xí, nhưng tất cả hương vị ngọt ngào nguyên chất của nó đã không mất đi đâu chút nào mà đều qui tụ vào trong. Văn hóa dân tộc ta không có cái vẻ kiêu sa lộng lẫy như văn hóa Tây Phương vì nó chìm sâu trong lòng người với tất cả những gì nguyên chất của giá trị CON NGƯỜI. Xét về thực chất giá trị, chưa hẳn nền văn hóa Tây phương đã cao hơn văn hóa Việt Nam. Cũng như hương vị thơm ngon của french fries hay smashed potatos chưa chắc đã bì kịp với hương vị ngọt ngào độc đáo của củ khoai lùi bếp tro.<br><br>
+&nbsp;
+Cái hương vị ngọt lịm nóng hổi của củ khoai nướng thô sơ mộc mạc cũng như lòng thương con chân thật của bà mẹ quê đã thấm sâu vào từng giọt máu, từng đốt xương và từng hơi thở của linh hồn. Tôi vẫn ghi lòng tạc dạ những lời mẹ dặn: “Con hãy sống theo lời Chúa. Thánh Kinh là kho tàng của sự khôn ngoan để cho con học hỏi suốt đời”. Quả thật, chúng ta có thể học hỏi được nhiều điều khôn ngoan tốt lành nơi Thánh Kinh, nhưng không phải mọi điều trong đó đều khôn ngoan và tốt lành cả. Trong Thánh Kinh Cựu Ước cũng như Tân Ước không thiếu gì những điều nhảm nhí, ác độc và vô luân. Vấn đề quan trọng là khi đọc Thánh Kinh, cũng như khi đọc mọi cuốn sách khác, ta cần phải biết phân biệt đâu là điều đúng, đâu là điều sai. Thánh Kinh chẳng phải là cuốn sách thiêng liêng ghi chép những lời của Chúa, vì Chúa là đấng thiêng liêng chẳng nói bao giờ. Tất cả chỉ là những lời của người phàm tục được gán cho Chúa qua cái mà người Công giáo thường gọi là sự “mặc khải”. Cả ba tôn giáo độc thần (Do Thái, Ki Tô, Hồi) đều vin vào sự mặc khải này để buộc tín đồ phải tin Thánh Kinh của mình là chân lý tuyệt đối. Đó là nguyên nhân chính yếu dẫn đến thái độ tự tôn mù quáng và độc quyền chân lý. Cả ba tôn giáo thờ cùng một ông chúa đều muốn dành độc quyền chân lý, nên đã gây thánh chiến với nhau tạo nên cảnh núi xương sông máu trong hơn chục thế kỷ qua. Họ đã biến Thánh Kinh của Tình Yêu (Gospel of Love) thành Thánh Kinh của lòng hận thù (Gospel of Hatred). Vậy Thánh Kinh đã rõ ràng không phải là lời của Chúa. Qủy sứ cũng có thể viện dẫn Thánh Kinh để giải thích cho những việc làm ác độc của chúng. Thánh Kinh chỉ là tấm màn che mỹ miều để những phần tử lợi dụng tôn giáo núp đằng sau tha hồ tác yêu tác quái mà vẫn được các nạn nhân của họ kính trọng như thường!<br><br>
+&nbsp;
+Mỗi khi suy nghĩ về đạo Công giáo là đạo lâu đời của ông bà tổ tiên, tôi thường áy náy trong lòng và tự hỏi mình liệu có phạm tội bất hiếu hay không. Trong những hoàn cảnh ấy tôi thường nghĩ đến mẹ tôi và tâm sự với người trong tư tưởng :<br><br>
+&nbsp;
+Mẹ ơi !  Con cám ơn mẹ đã cho con một trí óc để suy xét, một trái tim để yêu thương và một lương tâm để đón nhận những lời nói chân thật. Con không tin những lời người ta nói trong sách, dù đó là sách Kinh Thánh, nhưng chỉ tin vào những lời nói của lương tâm trong tâm hồn chân thật của con mà thôi.<br><br>
+&nbsp;
+Con kính trọng mẹ là một người phụ nữ Công giáo chân thật, hết lòng mến Chúa, yêu người. Đồng thời mẹ cũng là một người nông dân Việt Nam chân thật, vì mẹ đã sống thật với lòng mình, vốn rất đơn sơ, mộc mạc, hiền hòa. Mẹ không ưa lý luận cao xa, mà chỉ biết yêu thương vô điều kiện. Mẹ đã tìm thấy thiên đàng của Chúa trong tâm hồn bình an của mẹ ngay lúc còn sống trên cõi đời này. Mỗi lần giỗ mẹ, con không cầu xin Chúa cho mẹ được rỗi linh hồn, vì mẹ đã rỗi linh hồn từ khi còn sống. Con không theo một tôn giáo nào, nhưng con tôn kính con người thật của Jesus, cũng như tôn kính con người thật của Thích Ca Mâu Ni. Con tôn kính các Ngài, nhưng chẳng bao giờ muốn mình trở thành công dân Do Thái hay Ấn Độ, và càng không muốn trở thành công dân của Vatican. Tổ Quốc muôn đời của con vẫn là Việt Nam. Cả Jesus lẫn Thích Ca đều là những chân sư của con, vì các Ngài đều là những “ngón tay chỉ trăng” hướng dẫn con trên đường giác ngộ. Các Ngài đều là những trí tuệ bậc cao để cho con từ thấp ngó lên ngưỡng mộ, chứ không phải để tôn thờ. Các Ngài đều đã được sinh ra bởi người, chẳng phải đã sinh ra từ đất bùn cũng chẳng phải đã được sinh ra bởi người mẹ “đồng trinh”. Các Ngài đều đã không thoát được cái qui luật ”sinh, lão, bệnh, tử” và cả Chúa lẫn Phật đều đã trở về với cát bụi vô tri vô giác từ lâu. Như vậy các Ngài chẳng có chút quyền năng nào để ban ơn hay trừng phạt con người. Do đó, việc cầu xin Chúa hay cầu khấn Phật để xin ơn này ơn kia đều là những hành động mê tín nhảm nhí, hoàn toàn vô ích.<br><br>
+Cả Chúa trong nhà thờ lẫn Phật trên chùa đều là những hình tượng do người ta dựng lên. Chẳng có Chúa, Phật nào thưong con thật tình bằng mẹ thương con. <br><br>
+Dù cho thời gian phôi pha và dù sống ở bất cứ nơi nào trên thế giới, hương vị của những củ khoai nướng lùi bếp tro vẫn cứ mãi vấn vương trong lòng con, vì đó chính là biều hiệu tình yêu thương bất diệt của mẹ trong linh hồn con.<br><br>
+&nbsp;
+Mẹ ơi, linh hồn Việt Nam chân thật của mẹ vẫn sống mãi trong con !<br><br>
+&nbsp;
+<br>
+Charlie Nguyễn<br>
+trọng Đông 1999
+
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+		</p><hr align="left" width="30%">
+<p class="TuaDenLeft">Những bài có đề tài về những đợt cải đạo đầu tiên:</p>
+<p><a href="/XAHOI/xhL/LeMinhTuu">- Gốc Gác Lang An Bằng (Lê Minh Tựu)</a> </p>
+<p><a href="/CHARLIE/cukhoai">- Củ Khoai Lùi Bếp Tro (Charlie Nguyễn)</a></p>
+<p>- <a href="/EMAILS/KimPhuong02">Cuộc Cải Đạo Vĩ Đại Đầu Tiên Ở Làng Tôi  (Kim Phượng)</a></p>
+	<hr>
+		<p>Các chương khác 
+																trong sách:</p>
+	
+		
+		<a href="/CHARLIE/CN_TCCG/Chientranh">Bảy Cuộc Chiến Tranh Chống Hồi Giáo ... </a><br><a href="/CHARLIE/CN_TCCG/Thanhkinh">Cuốn Thánh Kinh Ô Nhục Của Đạo Công Giáo</a><br><a href="/CHARLIE/CN_TCCG/Hoigiao">Hỏa Giáo Ba Tư là Tiền Thân ... </a><br><a href="/CHARLIE/CN_TCCG/Giesu">JESUS dưới cái nhìn của Do Thái Giáo và Hồi Giáo </a><br><a href="/CHARLIE/CN_TCCG/Tuochieu">Những tước hiệu bịp bợm của Giáo Hoàng</a><br><a href="/CHARLIE/CN_TCCG/TrungDong">Thiên Chúa Đang Được Động Viên ... </a><br><a href="/CHARLIE/CN_TCCG/ThucChat">Thập Giá và Lưỡi Gươm của Đại đế Constantine</a><br><a href="/CHARLIE/CN_TCCG/Abraham">Truyền Thống Abraham Dưới Ánh Sáng ..</a><br><a href="/CHARLIE/CN_TCCG/Vaitro">Vai trò của chính quyền (Charlie Nguyễn)</a><br><a href="/CHARLIE/CN_TCCG/VNcanthuchien">Việt Nam Cần Thưc Hiện Những Biện Pháp Mạnh.. (Charlie Nguyễn)</a><br><a href="/CHARLIE/CN_TCCG/DaoHoi">Đạo Hồi là Đức Tin của Chiến Tranh và Bạo Lực </a><br><a href="/CHARLIE/CN_TCCG/Daothobo">Đạo Thiên Chúa chỉ là Đạo Thờ Bò Cải Biến</a><br><a href="/CHARLIE/CN_TCCG/Thanhoc">Ảnh Hưởng Thần Học Do Thái Giáo và Kitô Giáo ...</a><br></td></tr>
+</tbody></table>
+</td> </tr>
+	
+<tr> <td align="left" valign="top" height="3" bgcolor="#FEFEDA" colspan="2" background="../images/starBckgrd.gif">
+<center><a href="/CHARLIE/CNdir"><img border="0" src="https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/MuclucButton.gif" alt="Trở ra mục lục"></a></center></td></tr>
+
+
+<tr><td colspan="2"> 
+	<table border="2" cellspacing="0" id="bgcolor05" width="100%" topmargin="10" colspan="2"> 
+	<tbody><tr><td width="100%" bgcolor="White" align="left" valign="top" colspan="2">			
+		
+		<a href="/CHARLIE/CNdir"><p class="trang">Trang Charlie Nguyễn </p> </a>
+
+</td>
+	</tr></tbody></table>
+	</td></tr>
+
+
+</tbody></table>
+
+
+
+
+
+
+</div>

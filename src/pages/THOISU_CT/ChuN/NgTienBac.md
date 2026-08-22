@@ -1,0 +1,45 @@
+---
+layout: ../../../layouts/Article.astro
+title: "Cơ Hội Cho Những Con Ngựa Thành Troy"
+author: "Nguyễn Tiến Bắc"
+date: 2015-08-07
+source: "https://sachhiem.net/THOISU_CT/ChuN/NgTienBac.php"
+category: "Chính trị"
+lang: vi
+wordCount: 1513
+image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nha.jpg"
+---
+
+<p align="center"><a href="https://www.sachhiem.net/"> <img border="0" src="https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nha.jpg"></a> ngày 07-Aug-2015</p>
+  <div class="tomluoc">
+    <p><i>Trước thềm của Đại hội XII, những người yêu nước-bất đồng chính kiến” tìm cách gây ra nghi ngờ vào tiến trình Đại hội.... Tất cả những gì diễn ra trong cuộc thăm HK của TBT Nguyễn phú Trọng đơn giản chỉ là một sự thật: Hai bên đã thật sự tôn trọng lẫn nhau và vì lợi ích của hai quốc gia, - chẳng có chuyện thưởng phạt gì ở đây cả.</i></p>
+  </div>
+  <p><i>"<span class="First">C</span>on  ngựa thành Troy</i>”  là một điển tích văn học. Chuyện kể rằng: sau 10 năm đánh chiếm thành Troy  không thành, quân Hy Lạp dùng kế đưa quân vào thành bằng cách làm một con ngựa gỗ lớn rồi  đưa mấy binh sỹ giỏi vào trong bụng ngựa. Kế đến họ  "tặng cho” nhà cầm quyền  thành Troy.  Quân Troy tưởng ngựa gỗ là món quà của quân Hy Lạp. Trong một đêm no say quân Hy Lạp  trong bụng ngựa đã đi ra, họ mở cổng thành cho quân bên ngoài vào. Nhờ có ngựa  gỗ mà quân Hy Lạp chiếm được thành Troy.</p>
+  <p align="center"> <img src="https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/VANHOC/Hinh/TROY/trojan_horse_canakkale_turkey.jpg" alt="trojan horse, con ngựa thành Troy" width="350" height="231"></p>
+  <p align="center"><a href="https://moco-choco.com/2013/07/30/the-movie-famous-trojan-horse-canakkale-turkey/">  Con ngựa thành Troy ở tỉnh Canakkale, Turkey</a> Đây là con ngựa gỗ đóng trong phim <a href="https://www.youtube.com/watch?v=YbiR6IMf5KQ">Trojan Horse</a> năm 2004</p>
+  <p>Điển tích thú vị này khiến người ta nghĩ đến những kẻ đang  tiếp tay cho các thế lực thù địch ở bên ngoài bằng cách đóng vai người yêu nước  ở bên trong để chống phá chế độ, chống phá Nhà nước ta. </p>
+  <p>Sự kiện  Tổng bí Thư Nguyễn Phú Trọng thăm Hoa Kỳ là một dịp để họ  đánh từ trong” đánh  ra. Có lẽ việc người ta đứng về lợi ích của nhà cầm quyền Bắc Kinh, và cả Hoa Kỳ  để bình luận, gợi ý …tạo dư luận tác động xấu đến xã hội và phá hoại quan hệ quốc  tế của Việt Nam gần đây lag một minh chứng: </p>
+  <p>Có người  dựa vào The Diplomat (ngày 22/7/2015) viết bài post<b><i> lên mạng tán đồng với phát biểu của Ngô Sĩ Tồn, Viện  trưởng Viện Nghiên cứu Nam Hải (Biển Đông), của Trung Quốc</i></b> là một  ví dụ. </p>
+  <p>Tại Hoa Kỳ, Ngô Sĩ Tồn vờ đóng vai nhà khoa học khách quan (khi  phát biểu ở Trung tâm chiến lược và quốc tế Hoa Kỳ) rằng:  Bắc Kinh nên cố gắng  tránh đơn phương tuyên bố áp đặt ADIZ ở Biển Đông… </p>
+  <p>Đối với Hoa Kỳ, Ngô Sĩ Tồn khuyên: <i>Washington không nên cố gắng để  kiềm chế” Trung  Quốc và nên có lập trường thật sự trung lập trong vấn đề này... Người Mỹ nên tiếp  cận với vấn đề Biển Đông một cách  tôn trọng lẫn nhau</i>”...  Hai bên cần tiến lên phía trước và tăng cường  hợp tác quân sự trong tinh thần ấy”. Ông Tồn cũng <i>kiên quyết chống đối những gì ông coi là sự can  thiệp của Nhật Bản trong vấn đề Biển Đông với lập luận rằng sự tham gia ấy  chỉ  làm mọi chuyện xấu đi”?!</i></p>
+  <p>Ai cũng biết việc Hoa Kỳ và Nhận Bản chủ trương hiện diện ở Biển  Đông không chỉ vì lợi ích của họ ở Biển Đông mà các nước ở khu vực này, trong  đó có Việt Nam cũng cần có sự tham gia của hai nước lớn này để hạn chế sự hung  hãn của TQ. Thế nên Trung Quốc đã tìm cách cản trở việc hai quốc gia này hiện  diện ở Biển Đông. Ủng hộ những quan điểm đó chẳng phải là nối giáo cho giặc hay  sao? Chẳng phải là những  con ngựa thành Troy”? </p>
+  <p>Về quan hệ VN-HK, trong chuyến thăm của TBT Nguyễn Phú Trọng, họ lại  đưa thông tin xuyên tạc, bóp méo tình hình nhân quyền VN và bôi nhọ cả Thượng  khách của HK. Họ trích lời TBT:  "<i>Người dân Việt Nam chưa bao giờ được sống  trong bầu không khí dân chủ như hiện nay...  Tôi biết nhân quyền là vấn đề Mỹ  rất quan tâm, đây cũng là vấn đề VN rất coi trọng. Bảo đảm và cải thiện quyền của  công dân là ưu tiên cơ bản và chiến lược của chúng tôi</i>”... (và phán rằng đó) chỉ  là giả dối. </p>
+  <p>Nhằm  "gợi ý” cho các lực lượng chống Cộng ở HK chống lại VN, họ  nói:  Đừng tin những gì mà Việt Nam nói…để được vào TPP, VN sẽ lại  "khất vấn đề  nhân quyền đó thôi…”  Nhân đây xin nói thêm rằng-họ đã <b>tính nhầm rằng Việt Nam có thể sẽ nhân nhượng</b> với (các) cá nhân , tổ chức có hành vi vi phạm pháp luật - sau chuyến thăm Hoa  Kỳ của ông Trọng. </p>
+  <p>Cái mà những người  "yêu nước-bất đồng chính kiến” <b>không bao giờ  quên là đả kích vào hệ tư tưởng,</b> vào Chủ nghĩa Mác-Lênin, vai trò lãnh đạo của  Đảng CS Việt Nam. Lợi dụng những bức xúc của cán bộ, Đảng viên và nhân dân VN  sau vụ việc TQ xâm lấn biển đảo Quốc gia, quan hệ VN- TQ căng thẳng (Giàn khoan  HD 981 hạ đặt tại vùng đặc quyền kinh tế thềm lục địa của VN tháng 4/2014), họ  đẩy tới ý tưởng   "thoát Trung”, với plus value (giá trị  cộng thêm). Họ viết:  "<i>Thoát Trung là một điều tất yếu nếu VN muốn không trở lại thời kỳ  Bắc thuộc</i>”. </p>
+  <p>Song   muốn thoát Trung, thoát giáo điều mác-xít, thoát suy  thoái, thoát bế tắc, chỉ có một con đường là thức tỉnh đại khối dân tộc trong  đó có đại khối đảng viên thường, không có chân trong các nhóm quan chức lợi ích  riêng tư, để họ chung tiếng nói, suy nghĩ và nhất là hành động chung…” Chỉ có bằng  hành động   thì may ra mới có thể chuyển biến, biến đổi, chuyển hóa được họ”. </p>
+  <p align="center"><img src="https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/THOISU_CT/Hinh/REVOL/Berlin1989_JurgenNagel.jpg" alt="Cuộc biểu tình đòi tự do ngôn luận trên Alexanderplatz ở Đông Bá Linh, ngày 04 tháng 11, 1989" width="400" height="276"></p>
+  <p align="center">Jürgen Nagel -
+    Cuộc biểu tình trên Alexanderplatz ở Đông Bá Linh, ngày 04 tháng 11, 1989 <a href="https://www.dhm.de/archiv/ausstellungen/1989/en/friedliche_revolution.html">(DHM)</a></p>
+  <p>Người ta còn trắng trợn kêu gọi: <i>cần thiết là tổ chức xuống đường  đông đảo, trật tự, không bạo lực, như Gandhi đã làm, như Nelson Mendela đã làm,  như dân Đông Đức ở Leipzich, Dresden, Berlin đã làm cuối năm 1989</i>” mới có thể  thay đổi được tình hình. </p>
+  <p>Trước  thềm  của Đại hội XII, những người <i>yêu nước-bất đồng chính kiến</i>” tìm cách  gây ra nghi ngờ vào tiến trình Đại hội. Họ nói: </p>
+  <p> <i>Một  việc cần làm trước mắt là tất cả mọi người Việt Nam yêu nước nên theo dõi chặc  chẽ các cuộc đại hội đảng các cấp, nhất là các đại hội cấp tỉnh, thành phố,  Quân đội, Công an, … có bao nhiêu tỷ lệ đại biểu còn tin thật sự vào chủ nghĩa  Mác- Lênin, bao nhiêu còn tin ở chủ nghĩa xã hội mác-xít, bao nhiêu còn muốn đảng  mang tên Cộng Sản, bao nhiêu còn muốn đảng CS giữ độc quyền lãnh đạo, và bao  nhiêu vẫn còn muốn kinh tế quốc doanh giữ quyền chủ đạo trong nền kinh tế quốc  dân, bịt đường không cho kinh tế tư nhân tự do cạnh tranh phát triển</i>”. </p>
+  <p>Từ  đó họ suy luận vu cáo: <i> Chẳng lẽ đến hôm nay mà đại đa số đảng viên CS, đại đa  số nhân dân vẫn còn mụ mỵ, mù quáng theo Bộ Chính trị, chui đầu vào 4 cái kiên  trì, 4 cái thòng lọng chết người là chủ nghĩa Mác -Lênin, CNXH mác-xít, chế độ  độc đảng phi dân chủ và độc quyền quốc doanh?</i>”. </p>
+  <p>Đối  với chính phủ Hoa Kỳ, tổ chức sân sau của các lực lượng cực hữu- Human Rights  Watch cho rằng, việc Tổng thống Obama tiếp TBT Nguyễn Phú Trọng ở phòng Bầu dục  không chỉ là một sự kiện lạ mà còn là một thông điệp sai lầm. Họ nói:  Cuộc họp  này là một sự kiện kỳ ​​lạ - một phần vì ông Trọng không phải là một người đứng  đầu nhà nước, nhưng lại thay mặt cho người có vị trí cầm quyền cao nhất, theo  Hiến pháp của Việt Nam hiện nay - mà phần kỳ lạ khác do Việt Nam đã nỗ lực rất  ít trong thời gian gần đây để xứng đáng được phần thưởng là một cuộc họp trong  phòng Bầu dục (Oval Office) của Nhà trắng… Và thông điệp đó là:  "<i>Chúng tôi muốn  bạn cải cách, nhưng chúng tôi cũng <b>sẽ tưởng thưởng</b> cho bạn ngay cả  khi bạn không cải cách gì!”</i>. </p>
+  <p>Quả  đúng như tục ngữ Việt Nam có câu: "Trứng khôn hơn vịt”. </p>
+  <p><strong>Tất cả những gì diễn ra trong cuộc thăm HK của TBT  Nguyễn phú Trọng đơn giản chỉ là một sự thật:  Hai bên đã thật sự tôn trọng lẫn nhau và  vì lợi ích của hai quốc gia, - chẳng có chuyện thưởng phạt gì ở đây cả.</strong> <img src="https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/sqdot.gif" width="10" height="10"></p>
+  <p class="TacgiaL">Nguyễn Tiến Bắc</p>
+  <p class="nguonL">Nguồn   <a href="https://kbchn.net/co-hoi-cho-nhung-con-ngua-thanh-troy-17879.html" target="_blank">https://kbchn.net/co-hoi-cho-nhung-con-ngua-thanh-troy-17879.html</a></p>
+ <p>__________________ </p>
+ <p><b>Nhận xét của bạn đọc: </b></p>
+ <p>- Xem "Những Con Ngựa Thành Troy" (Mike Wilson)<br>
+<a href="https://sachhiem.net/THOISU_CT/ChuM/MikeWilson_05.php">https://sachhiem.net/THOISU_CT/ChuM/MikeWilson_05.php</a></p>

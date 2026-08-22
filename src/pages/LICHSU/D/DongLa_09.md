@@ -1,0 +1,66 @@
+---
+layout: ../../../layouts/Article.astro
+title: "BÀI I: Về Chuyện Chống Trung Quốc Qua Dự Thảo \"Luật Đặc Khu\""
+author: "Đông La"
+date: 2025-04-03
+source: "https://sachhiem.net/LICHSU/D/DongLa_09.php"
+category: "Chính trị"
+lang: vi
+wordCount: 2576
+image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/THOISU_CT/Hinh/DACKHUKT/VuongTrong.jpg"
+---
+
+<div class="tomluoc">
+  <p><i> Mọi người đang hiểu sai và có người cố tình hiểu sai. Cái đúng thì các cơ quan phải cầu thị lắng nghe, tiếp thu chỉnh sửa. Cái gì chưa rõ thì giải trình, giải thích. Còn có người cố tình đẩy câu chuyện này lên để phá hoại.</i></p>
+</div>
+
+
+<p>Ngày 8-6-2018, khi ở Los Angeles tôi thấy trelangblog đăng bài:  "<i>Giọng lưỡi cú diều ngu muội của nhà văn Trần Huy Quang</i>" khi  THQ viết bài “NGÀY QUỐC HỘI BẤM NÚT SẼ LÀ NGÀY QUỐC TANG?”</p>
+<p>Trần Huy Quang cho “<i>Luật đặc khu”</i> là “<i>bán đất chiến lược</i>” cho TQ  làm “<i>căn cứ quân sự”</i>, và tuyên bố: “<i>Tôi tuyên bố nếu các vị vì quyền lợi của  nhóm cầm quyền mà bấm nút đồng thuận thì tôi coi Ngày 15/6/2018 là ngày QUỐC  TANG</i>". Trelangblog đã chửi THQ thậm tệ đúng là theo nghĩa đen. THQ cũng  thật liều mạng khi phát tán thông tin bịa đặt do Thuy Trang Nguyen, 6-6-2018,  viết là TQ đã <i>“trả công bán nước”</i> cho NPT 3 tỷ USD, NXP &amp; NTKN 2 tỷ, còn  lại 6,1 tỷ chia cho những người liên quan. </p>
+<p>Như vậy, 28-3-2025, Vương Trọng đăng bài “TIẾN VỀ ĐÂU THẾ HỞ  ÔNG?” hoàn toàn giống giọng điệu trong bài của Trần Huy Quang, cũng có chuyện  “ăn tiền”: “người quyết định ký kết sẽ thu lợi nhuận không lồ… số tiền bằng 30%  giá trị món hàng ký kết!”; cũng có nguy cơ chiến tranh: <i>“khi chiến tranh giữa  ta và họ xẩy ra, ngoài việc quân đội phía ngoài biên giới đánh vào, có hàng  chục sư đoàn của họ từ các đặc khu kinh tế xông ra thì ta chống đỡ bằng cách  nào?</i>”.</p>
+<p align="center">***</p>
+<p>Với lớp người dân ngu cu đen bị dắt mũi là chuyện thường,  còn với Trần Huy Quang và Vương Trọng thì tôi không hiểu sao hai ông lại cũng  có thể bị những thông tin xuyên tạc chống phá VN dễ dàng dắt mũi như vậy. Vì  “<i>Luật đặc khu</i>” không phải là “bán đất”. Theo Dự luật (Điều 57, 58), chính quyền  đặc khu được tổ chức theo mô hình Chính quyền địa phương, sẽ hoàn toàn do người  Việt Nam quản lý, cũng có đầy đủ công an, quân đội được tổ chức theo quy định  của pháp luật để đảm bảo an ninh, trật tự, chủ quyền quốc gia. Người nước ngoài  không có quyền sở hữu mà chỉ có quyền sử dụng đất tại các đặc khu kinh tế; tại  Khoản 5 Điều 32: "Chủ tịch Ủy ban nhân dân đặc khu có quyền quyết định thu  hồi đất để thực hiện các dự án phát triển kinh tế – xã hội vì lợi ích quốc gia,  công cộng"; v.v… </p>
+<p>Hôm nay tôi sẽ đăng lại bài đầu tiên viết năm 2018 khi ỡ Mỹ.</p>
+<p>1-4-2025</p>
+<p>ĐÔNG LA</p>
+<p class="TuaDenLeft"><b>Về Chuyện Chống Trung Quốc Qua Dự Thảo "Luật Đặc Khu"</b></p>
+<p>Khi Dự thảo “Luật đặc khu” đang được thảo luận trên nghị trường  trước khi Quốc hội quyết định có thông qua hay không vào ngày 15-6, dư luận đểu  cả nước lại nổi sóng cuồng lên chống lại dự luật đó vì cho rằng nó là một dự  luật “bán nước” cho Tầu! </p>
+<p>Còn nhớ hồi Trung Quốc đặt giàn khoan xâm phạm vùng biển Việt  Nam, cả nước đã xuống đường biểu tình, tôi đã viết biểu tình để thể hiện thái  độ của dân Việt trước hành động sai trái của Trung Quốc, hỗ trợ cho những người  có trọng trách “nói chuyện” với TQ là tốt, nhưng dư luận lại theo đuôi bọn cơ  hội, phản trắc, lưu manh lợi dụng biểu tình kích động chống Trung Quốc “tiện  thể” chống luôn Nhà nước Việt Nam thì không chỉ là một việc sai trái mà còn là  phạm pháp, ngu si, không hiểu là tự phá hoại cuộc sống của chính mình. Cuộc  biểu tình kéo dài ròng rã hàng mấy tháng, mất trật tự giao thông, sản xuất đình  trệ, đã có những mầm mống biến thành một cuộc bạo loạn, vì vậy lực lượng công  an mới ra tay dẹp loạn.</p>
+<p>Kỳ này, khi dự thảo <i>“Luật đặc khu</i>” được trình để thảo luận thì  việc thảo luận để luật làm sao đó vừa thu được lợi ích kinh tế vừa đảm bảo được  an ninh quốc gia và vẹn toàn lãnh thổ là một việc tất nhiên và tối quan trọng.  Không một người dân Việt nào thực lòng yêu nước mà phản đối chuyện này. Có điều  góp ý bàn luận là việc của các nhà thông thái, hiểu việc chứ không phải tầng  lớp dân ngu cu đen từng bầy đàn biểu tình chống Trung Quốc; cũng không phải đủ  thứ nhà “<i>khoa học, kinh tế, văn, thơ, sử địa, báo chí</i>”, đều nhân danh “nhà yêu  nước”, những người nhờ thể chế này mà thành danh, thành chức, có nhà để ở, có  cơm để ăn. Tiếc là họ có danh rất to nhưng trí rất bé, tưởng lên tiếng sẽ vì  dân vì nước mà không hiểu rằng mình thực sự chỉ góp phần quấy rối, làm loạn mà  thôi!</p>
+<p>Trung Quốc không nhỏ như Cămpuchia để ta có thể làm như khi bọn  Ponpot xua quân xâm phạm biên giới, giết dân ta, đánh cho một trận là “tan tác  chim muông”; chúng ta cũng không thể mang đất nước đi chỗ khác để tránh Trung  Quốc. Trình độ và thực lực mọi mặt VN lại thấp hơn nhiều khi so với Trung Quốc.  Trung Quốc hiện không chỉ giầu thứ 2 thế giới, đuổi sát gáy Mỹ, mà với cả khoa  học và văn chương, họ đã được giải Nobel. Quan hệ ngoại giao giữa các quốc gia  ta không thể khí khái kiểu tiểu nông thích ai thì chơi không thích thì thôi như  quan hệ cá nhân. Bài học sau giải phóng, tưởng thắng được “<i>hai đế quốc to</i>” ta  có thể làm được tất cả; nhưng sự “<i>bế quan toả cảng”</i> và việc coi TQ là kẻ thù số  1” đã đẩy đất nước chúng ta đến tận bờ vực của sụp đổ. Vì vậy ta đã buộc phải  “<i>khép lại quá khứ</i>”, tìm mọi cách chơi với tất cả mọi người, trong đó có việc  xin bình thường hoá với TQ sau Chiến tranh biên giới.</p>
+<p align="center">***</p>
+<p>Trong chiến lược ngoại giao đa phương đó ta phải vì lợi ích đại  cục bỏ qua những tiểu tiết. Mỹ, Anh, Pháp, Đức, v.v… họ quan hệ chính thức với  Nhà nước VN nhưng họ vẫn khuyến khích, ủng hộ, cưu mang những kẻ bất hảo, phản  trắc chống lại thể chế VN, nhưng không vì thế ta cắt quan hệ ngoại giao với họ.  Trung Quốc cũng “<i>kết nghĩa anh em</i>” với VN nhưng vẫn tiến hành những hành động  xâm hại VN. Nhưng để VN phát triển như hôm nay, quan hệ kinh tế với Trung Quốc  lại đóng góp một phần rất lớn. Vì vậy cần hiểu rõ tham vọng của Trung Quốc để  đưa ra những phương án ngăn chặn, phòng thủ, tránh những thiệt hại, trong đó  việc nâng cao tiềm lực quốc phòng là quan trọng nhất. Nhưng có vẻ như nghịch lý  ở chỗ tăng cường quan hệ hữu nghị hợp tác với TQ lại đóng góp phần quan trọng  trong việc nâng cao tiềm lực quốc phòng đó chứ không phải là thái độ chống Tầu,  thùng rỗng kêu to, gào thét trên trang mạng cũng như trên đường phố. Cũng như  thời chống Pháp Kỹ sư Trần Đại Nghĩa đã dùng tri thức học được ở Pháp chế tạo  vũ khí góp phần quan trọng đánh thắng quân Pháp!</p>
+<p align="center">***</p>
+<p>Chuyện “Đặc khu” không phải là phát minh của VN mà ta học hỏi và  chậm chân hơn rất nhiều nước phát triển hơn ta. Nhiều nước trên thế giới đã làm  và thành công với mô hình đặc khu kinh tế. Với đặc khu, điều quan trọng là tạo  cơ chế, tạo môi trường đầu tư kinh doanh thuận lợi chứ những ưu đãi hay đất đai  không phải vấn đề quyết định.</p>
+<p>Theo VietNamNet, trả lời câu hỏi:</p>
+<p><i>“Vấn đề dư luận quan tâm và phản ứng nhiều nhất là việc cho thuê  đất 99 năm gắn với yếu tố Trung Quốc?</i>”</p>
+<p>Bộ trưởng KH-ĐT Nguyễn Chí Dũng trả lời :</p>
+<p>“<i>Trong dự thảo luật không có một chữ nào về Trung Quốc. Luật quy  định bình đẳng trong 1 môi trường chung, với tất cả thành phần kinh tế và với  tất cả các nước. Môi trường hội nhập quốc tế ta đang mở nên bình đẳng hết,  không hạn chế người này người khác.</i></p>
+<p><i>Nhưng dường như dư luận đang hình dung tiêu cực, đẩy thành vấn  đề sợ Trung Quốc, chia rẽ quan hệ giữa ta với Trung Quốc. Nhưng ta bình đẳng,  không phân biệt, không một ai có thể vào đây làm việc gì khi đất nước ta đang  có chủ quyền. Vì vậy ta phải bình tĩnh, xem xét và lắng nghe</i>”.</p>
+<p><b>Hỏi:</b> “<i>Nhưng dư luận phản ứng như vậy thì ban soạn thảo có soát  lại hay có sửa đổi gì để củng cố niềm tin của ĐBQH khi bấm nút thông qua cũng  như để người dân yên tâm?</i>”</p>
+<p>Bộ trưởng Dũng:</p>
+<p>“<i>… Mọi người đang hiểu sai và có người cố tình hiểu sai. Cái  đúng thì các cơ quan phải cầu thị lắng nghe, tiếp thu chỉnh sửa. Cái gì chưa rõ  thì giải trình, giải thích. Còn có người cố tình đẩy câu chuyện này lên để phá  hoại.</i></p>
+<p><i>Chúng ta phải làm khách quan, không sau này lịch sử phải trả lời  lại trong thời khắc lịch sử ai là người phải chịu trách nhiệm, không phải cứ  nói cho sướng mồm không có suy nghĩ, tư duy. Cái gì cũng sợ thì không làm được.</i></p>
+<p><i>Năm 1988, Đặng Tiểu Bình đã nói ở Thẩm Quyến khi có nhiều ý kiến  trái chiều: “Thôi, hãy làm đi, không bàn nữa”. Năm 1992 lại dấy lên trào lưu có  ý kiến, Đặng Tiểu Bình lại nói câu trên. Và bây giờ câu đó được khắc trên bia  đá ở Thẩm Quyến</i>”.</p>
+<p><b>Hỏi:</b> “<i>Có phải do ban soạn thảo hay lấy Thẩm Quyến làm bài học  xây dựng đặc khu nên dư luận gắn việc cho thuê đất 99 năm với Trung Quốc?</i>”</p>
+<p>Bộ trưởng Dũng:</p>
+<p><i>“Cái gì hay mình phải học, bất kể là ai. Trung Quốc hay mình  cũng phải học Trung Quốc. Chúng ta có chủ quyền có độc lập, có trí tuệ thì sao  cái gì cũng sợ. Phải chú ý lắng nghe nhưng đừng quá sợ”.</i></p>
+<p align="center">***</p>
+<p>Về chuyện sợ Dự thảo Luật Đặc khu làm “mất nước”, Bộ trưởng Tài  nguyên Môi trường Trần Hồng Hà nhận được chất vấn về vấn đề mua bán đất đai tại  3 nơi sắp thành đặc khu kinh tế (Vân Đồn, Bắc Vân Phong, Phú Quốc), nhất là có  thông tin người nước ngoài đã mua nhà khu vực này. Theo quy định hiện hành thì  người nước ngoài không có quyền mua đất, chỉ có quyền mua chung cư ở đô thị nên  Bộ trưởng Trần Hồng Hà trả lời:</p>
+<p>"<i>Chính phủ chỉ đạo các cơ quan kiểm tra, qua đó chúng tôi  chưa phát hiện người nước ngoài mua đất, họ chỉ mua các căn hộ chung cư ở các  đô thị";</i></p>
+<p>"<i>đại biểu thấy ở đâu người nước ngoài mua đất thì báo cho  Bộ, cơ quan chức năng sẽ kiểm tra, điều tra xem bằng cách nào họ mua được, vì  như vậy là trái pháp luật Việt Nam</i>".</p>
+<p>Ông Nguyễn Đức Kiên, Phó Chủ nhiệm Ủy ban Kinh tế của Quốc Hội  Việt Nam khi trả lời câu hỏi về an ninh đã nói: “Tại sao cứ sợ ảnh hưởng của  Trung Quốc tại các đặc khu. Tại sao ở Úc, Pháp, Mỹ... đều có Chinatown. Ở  California mình có Little Saigon. Ở đó toàn người Việt, nói bằng tiếng Việt,  thì bang California có lo ngại vấn đề an ninh quốc phòng hay không?”.</p>
+<p>Thực tế lời cái ông Kiên này quá đúng. Ở Cali, cả trung tâm Los  Angeles, có những khu phố không chỉ toàn chữ Tầu mà còn toàn kiến trúc Tầu. Một  hôm vợ chồng tôi được mời ăn giỗ kiểu Mỹ tại một nhà hàng buffet ở Cali, tôi  thấy trẻ con TQ không phải vài đứa theo bố mẹ mà từng đoàn từng đoàn nối tiếp  khoảng 50 đứa theo một người như giáo viên dẫn vào ăn. Thấy họ có ý thức giáo  dục dân tộc thật đáng nể, còn dân mình chiến tranh đã lùi xa gần một nửa thế kỷ  vẫn gâu gâu chửi nhau như chó!</p>
+<p>Không chỉ có chính sách như Dự thảo Luật Đặc Khu ưu tiên cho TQ  cũng như tất cả các nước vào làm ăn mà mỗi năm Cục Nhập cư và Quản lý công dân  Mỹ cấp 10.000 thẻ xanh cho dân nước ngoài với điều kiện đầu tư 500.000 USD vào  những vùng được cho là khó khăn về kinh tế ở nước Mỹ. Những người đầu tư có thể  có được thẻ xanh cho họ và gia đình. Bất kỳ ai có khoản đầu tư tạo ra 10 việc  làm cũng có thể nộp đơn xin giấy vĩnh trú.</p>
+<p>Theo một bài báo, hiện tại đã có rất nhiều đơn chờ duyệt từ  Trung Quốc, đến nỗi theo ước tính sơ bộ 1 nhà đầu tư Trung Quốc nộp đơn bây giờ  sẽ phải chờ tới 10 năm sau khi đầu tư 500.000 USD mới được phê duyệt chuyển tới  Mỹ.</p>
+<p align="center">***</p>
+<p>Việt Nam không lo phát triển, nâng cao tiềm lực quốc phòng, tối  ngày gào thét chống TQ; luật đầu tư không tỉnh táo đưa ra các điều khoản đề  phòng thiệt hại, bị mắc lừa; nếu TQ có dã tâm và thực lực họ có thể lấn át được  cả thế giới thì chỉ cho thuê đặc khu vài năm ta cũng sẽ bị mất nước chứ không  đợi đến 99 năm. Còn thực tế nguy cơ VN bị dân TQ đồng hoá không phải đơn giản  như bọn ngu đần đang gào thét trên mạng. Năm 1671, Mạc Cửu và gia đình đến vùng  đất Mang Khảm (nay là Hà Tiên). Năm 1698, ở vùng Phiên Trấn - Bến Nghé - Sài  Gòn người Hoa đã hình thành nên làng Minh Hương ở Gia Thạnh, Chợ Lớn cũ. Sau  bao đời họ đã sinh con, cháu, chit… Ngày nay cả khu Chợ Lớn rộng lớn, không  phải đặc khu thuê đất làm ăn mà là khu dân cư “Ba Tầu” có quốc tịch VN, toàn  quyền như người Việt Nam, từ bao đời thử hỏi họ có đồng hoá được dân Việt  không, hay chính đất Việt bây giờ đã đồng hoá họ thành người Việt!</p>
+<p>Los Angeles</p>
+<p>6-6-2018</p>
+<p>ĐÔNG LA</p>
+<p align="center"><img src="https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/THOISU_CT/Hinh/DACKHUKT/VuongTrong.jpg" width="100%" alt=""></p>
+<p align="center"><img src="https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/THOISU_CT/Hinh/DACKHUKT/TranHuyQuang.jpg" width="500" height="577" alt=""></p>
+<p align="center"><img src="https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/THOISU_CT/Hinh/DACKHUKT/TranHuyQuang_Bando.jpg" width="100%" alt=""></p>
+
+ <p class="nguonL">Nguồn: <a href="https://www.facebook.com/donglasg/posts/pfbid027H1nQVXFRonqa6t2Vj8PnhMuAdhGb5Q1favcWMwLzhX2MuBHM86Dpax1WAwKGSVEl">FB Nguyễn văn Hùng ngày 31 tháng 3, 2025</a></p>
+ <p>____________________</p>

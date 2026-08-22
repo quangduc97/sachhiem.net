@@ -1,0 +1,28 @@
+---
+layout: ../../../layouts/Article.astro
+title: "Lễ Thượng cờ Việt Nam nhân dịp kỷ niệm Quốc khánh lần thứ 76 tại San Francisco"
+author: "TLSVN_SF"
+date: 2021-09-01
+source: "https://sachhiem.net/LICHSU/S/SH07_DocLap2021.php"
+category: "Chính trị"
+lang: vi
+wordCount: 805
+image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/LICHSU/IMG/VIETNAM/TLS4.jpg"
+---
+
+<p align="center"><img src="https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/LICHSU/IMG/VIETNAM/TLS4.jpg" width="400" height="299" alt=""></p>
+<p><span class="First">V</span>ào 11h00 ngày 31/08/2021 (giờ California), Tổng lãnh sự quán Việt Nam tại TP. San  Francisco, bang California (Mỹ) và chính quyền thành phố San Francisco đã phối hợp tổ chức lễ treo Quốc kỳ nước CHXHCN  Việt Nam nhân dịp kỷ niệm 76 năm ngày thành lập nước&nbsp; CHXHCN Việt Nam (02/09/1945 – 02/09/2021)</p>
+<p align="center"><iframe width="457" height="257" src="https://www.youtube.com/embed/DylOBlthz4s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe></p>
+<p>Trên  nền nhạc hào hùng của Quốc ca Việt Nam và trước sự chứng kiến của quan chức đại diện Bộ Ngoại giao Mỹ, Chính quyền Thành phố San Francisco, Ủy ban Kết nghĩa TP. San Francisco – TP. Hồ Chí Minh và đông đảo đại diện các khối Việt kiều tại  khu vực Bắc California, Tổng lãnh sự Nguyễn Trác  Toàn và Bà  Maron Foster, Trưởng ban Lễ tân cấp cao của TP. San Francisco đã trịnh trọng kéo lá cờ đỏ sao vàng của Việt  Nam treo lên mặt tiền Tòa Thị chính thành phố. </p>
+<p align="center"><img src="https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/LICHSU/IMG/VIETNAM/TLS1.jpg" width="500" height="374" alt=""></p>
+<p>Thay  mặt chính quyền Thành phố San Francisco, ông Mark Chandler, Giám đốc Kinh tế đối ngoại Thành phố San Francisco đã cảm ơn Nhà nước và nhân  dân Việt Nam đã thông qua Tổng lãnh sự quán Việt Nam ủng hộ 10.000 khẩu trang  cho thành phố San Francisco ngay từ những ngày đầu nước Mỹ phải hứng chịu sự  tàn phá của đại dịch Covid, đánh giá cao nghĩa cử hết sức nhân đạo và kịp thời  mà Việt Nam dành cho thành phố, đồng thời, thay  mặt chính quyền Thành phố, Ông đã trao cho ông Nguyễn Trác Toàn bản tuyên bố do Thị trưởng London Breed ký  với nội dung công  bố ngày 2/9/2021 là Ngày Di sản Hữu nghị Việt Nam – Hoa  Kỳ tại thành phố và địa hạt San Francisco  năm 2021. </p>
+<p>Ông Mark Chandler cũng đã điểm lại quá trình 26 năm hai nước bình thường hóa quan hệ, nhắc lại  những kỷ niệm sâu sắc và bày tỏ niềm tự hào tham gia đoàn công tác của TP. San Francisco đã vào Việt  Nam ngay  từ đầu năm 1994 để  thúc đẩy việc thiết lập cơ quan đại  diện ngoại giao tại TP. San Francisco trước cả thời điểm hai nước bình thường hóa  quan hệ. </p>
+<p align="center"> <img src="https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/LICHSU/IMG/VIETNAM/TLS6.jpg" width="500" height="374" alt=""></p>
+<p>Phát  biểu đáp từ trước thiện chí của phía Bạn, TLS Nguyễn Trác Toàn đã bày tỏ sự xúc động khi chứng kiến lá cờ đỏ sao vàng tung bay trên  bầu trời nước Mỹ, đánh giá cao đóng góp có ý nghĩa quan trọng của chính quyền TP. San Francisco vào tiến trình chung thúc  đẩy quan hệ hai nước, nhất là quyết tâm thiết lập quan hệ thành phố kết nghĩa  với TP. Hồ Chí Minh ngay từ trước khi hai nước bình thường hóa quan hệ ngoại  giao; cảm ơn Chính phủ và Bộ  Ngoại giao Mỹ đã tặng cho Việt Nam 6  triệu liều vaccine; cảm ơn Ủy ban kết nghĩa San Francsico – Thành phố Hồ Chí  Minh đang nỗ lực không ngừng thúc đẩy các chương trình quyên góp, cứu trợ giúp  Chính phủ và Nhân dân Việt Nam chống dịch Covid-19. </p>
+<p align="center"><img src="https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/LICHSU/IMG/VIETNAM/TLS3.jpg" width="400" height="299" alt=""></p>
+<p>Trong bối cảnh đại dịch  Covid-19 đang tiếp tục diễn biến phức tạp ở cả Việt Nam và Mỹ, Tổng lãnh sự  Nguyễn Trác Toàn cũng bày tỏ mong muốn Chính phủ và nhân dân Mỹ tiếp tục sát  cánh, hỗ trợ nhân dân Việt Nam sớm vượt qua khó khăn thách thức do đại dịch gây  ra theo phương châm <i>“người bạn lúc khó  khăn là người bạn tốt – friend in need is friend indeed”</i>, qua đó, hỗ trợ  cho bà con kiều bào  tại bang California ổn  định cuộc sống, từ đó không ngừng vun đắp cho  quan hệ hai nước phát triển tốt đẹp hơn nữa. </p>
+<p align="center"><img src="https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/LICHSU/IMG/VIETNAM/TLS2.jpg" width="500" height="374" alt=""></p>
+<p>Lễ  Thượng cờ kỷ niệm Ngày Quốc khánh Việt Nam là sự kiện chính trị thường niên mà  Chính quyền Thành phố San Francisco phối hợp với Tổng Lãnh sự quán Việt Nam tại  San Francisco, đại diện Nhà nước Việt Nam tại khu vực bờ Tây tổ chức. Sự kiện  này ngày càng có ý nghĩa quan trọng khi thời gian qua, Chính quyền Thành phố  San Francisco và Tổng Lãnh sự quán Việt Nam đã tích cực phối hợp, triển khai  nhiều hoạt động gắn kết tương trợ nhau trên nhiều lĩnh vực, nhất là về cứu trợ  khẩn cấp, chính trị, kinh tế, thương mại và ngoại giao nhân dân, từ đó làm cơ  sở cho việc phát huy vai trò là đầu mối tích cực nhằm phát huy mạnh mẽ những  thành quả mà Việt Nam và Mỹ đã đạt được, nhất là sau các chuyến thăm cấp  cao liên tiếp của Phó Tổng thống Kamara Harris, Bộ trưởng Quốc phòng Lloyd  Austin trong tháng 7 và tháng 8/2021 vừa qua./.   <img src="https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/sqdot.gif" width="10" height="10"></p>
+ <p align="center"><iframe width="457" height="257" src="https://www.youtube.com/embed/SwrW_X-CfHE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe></p>
+
+ <p class="nguonL">Nguồn TLSVN _SF</p>

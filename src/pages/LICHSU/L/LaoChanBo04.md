@@ -1,0 +1,48 @@
+---
+layout: ../../../layouts/Article.astro
+title: "Ngày Tri Ân 27/7 - Sao Phải Sợ \"Phía Bên Kia Chạnh Lòng\"?"
+author: "Lão Chăn Bò"
+date: 2023-07-27
+source: "https://sachhiem.net/LICHSU/L/LaoChanBo04.php"
+category: "Lịch sử"
+lang: vi
+wordCount: 1744
+image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/LICHSU/IMG/ANHUNG/HySinh_daukho4.jpg"
+---
+
+<p align="center"><img src="https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/LICHSU/IMG/ANHUNG/HySinh_daukho4.jpg" width="400" height="280" alt=""></p>
+<p>Năm 2019, Bộ Lao động - TBXH đã tham mưu cho Chính phủ đề xuất  Quốc hội cho chọn ngày 27-7 làm ngày nghỉ lễ nhằm tưởng nhớ, tri ân các anh  hùng liệt sĩ hy sinh vì Tổ quốc, các thương bệnh binh, người có công với đất  nước. Rất tiếc là đề xuất này đã không thành hiện thực, vì ý kiến phản đối của  thiểu số Đại biểu Quốc hội. </p>
+<p align="center"><img src="https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/LICHSU/IMG/ANHUNG/HySinh_daukho1.jpg" width="400" height="396" alt=""></p><p>Một số vị Đại biểu Quốc hội cho rằng: với ý  nghĩa như mệnh đề đặt ra của Bộ LĐ-TBXH, bởi lịch sử nước ta có giai đoạn nhạy  cảm, tuy đất nước thống nhất đã hơn 40 năm nhưng trong xã hội vẫn còn nhiều gia  đình "<i>ở phía bên này, bên kia</i>".</p>
+<p align="center"><img src="https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/LICHSU/IMG/ANHUNG/HySinh_daukho3.jpg" width="357" height="360" alt=""></p>
+<p>"<i>Chọn đó là ngày tri ân thì những người từng là cha mẹ, vợ  con của người tử trận trong chiến tranh, nhưng họ ở phía bên kia, thì không  được tri ân? Như vậy, ý nghĩa của tri ân không bao trùm xã hội được</i>", ông Trí  nói. Xin có lời như sau: </p>
+<p>Một số vị cho rằng: "<i>Chọn đó là ngày tri ân thì những người  từng là cha mẹ, vợ con của người tử trận trong chiến tranh, nhưng họ ở phía bên  kia, thì không được tri ân? Như vậy, ý nghĩa của tri ân không bao trùm xã hội  được</i>". Có phải các vị đang nhắc đến cuộc kháng chiến chống Pháp, Mỹ cứu  nước của dân tộc ta? Thật nực cười và xót lòng, đau ruột khi nghe một vị Đại  biểu Quốc hội phát biểu với “<i>tầm nhìn chiến lược</i>” kiểu <i>“loạn ngôn, xảo ngữ</i>” như  thế. </p>
+<p><img src="https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/LICHSU/IMG/ANHUNG/HySinh_daukho2.jpg" width="400" height="400" alt=""></p>
+<p>Thưa với các vị rằng: Từ cổ chí kim dân tộc ta, nhân dân ta luôn  rạch ròi về khái niệm người yêu nước, anh hùng dân tộc với bè lũ phản quốc, làm  tay sai cho ngoại bang để giày xéo dân ta. Trải qua hơn 4000 năm lịch sử dựng  và giữ nước, Quốc sử vẫn còn ghi; nhân dân ta khi nhắc đến Hai Bà Trưng, Bà  Triệu, Lý Nam Đế, Triệu Quang Phục, Đinh Tiên Hoàng, Lê Đại Hành, Lý Thường  Kiệt, Hưng Đạo Vương, Lê Lợi, Quang Trung, Hồ Chí Minh … Tên tuổi của họ và  những anh hùng gắn với thời đại của họ tuy khác nhau về thời điểm lịch sử nhưng  điểm chung là họ đều là những tượng đài, anh hùng dân tộc; dù có trãi qua hàng  ngàn đời đi nữa thì chân lý đó sẽ chẳng thay đổi; nhân dân ta mãi mãi biết ơn,  lấy đó làm tấm gương sáng ngời về chủ nghĩa yêu nước để ngàn đời cháu con tôn  thờ, noi theo. </p>
+<p align="center"><img src="https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/LICHSU/IMG/ANHUNG/HySinh_10cogai.jpg" width="400" height="450" alt=""></p>
+<p>Ngược lại, khi nhắc đến Kiều Công Tiễn, Trần Ích Tắc, Lê Chiêu  Thống, Nguyễn Ánh, Ngô Đình Diệm, Nguyễn Văn Thiệu, Hoàng Văn Hoan… và bè lũ  tay sai, bán nước hoặc vì lợi ích cá nhân mà can tâm, tình nguyện làm ưng  khuyển, làm tôi tớ cho giặc để chống lại đất nước. Là người Việt Nam nhưng lại  chém vào tổ quốc những nhát chém ngang lưng, chí tử. Những người mà các vị cho  là "<i>gia đình họ sẽ chạnh lòng</i>" là những kẻ như thế, muôn đời cháu con  khi nhắc đến tên họ thì không ngừng phỉ nhổ, nguyền rủa; là gương xấu muôn đời  để cho con dân nước Việt nhìn vào đó mà tự răn mình. Và cũng chẳng ai “tri ân”  lũ loạn loạn thần, tặc tử này, điều này là lẽ đương nhiên; các vị không phải  lao tâm, khổ tứ, vắt óc để bàn!</p>
+<p>Mỹ xâm lược nước ta, dựng nên đám bù nhìn tay sai ngụy Sài Gòn;  chúng là lũ phản quốc khi thờ ngoại bang để giết hại, để chống lại Tổ quốc;  chúng theo ngoại bang đi giết người dân của mình và bị người giết; những kẻ đó  chẳng việc gì phải khiến cho một số vị Đại biểu Quốc hội của nước CHXHCNVN phải  động lòng trắc ẩn cả, chẳng có gì để các vị thấy chạnh lòng! Việc gì các vị  phải sợ “<i>ý nghĩa không tri ân được trong toàn xã hội</i>”? </p>
+<p>Hòa hợp dân tộc không  phải là đánh đồng, cào bằng giữa người yêu nước và lũ phản tặc, ai tri ân lũ  bán nước trong lịch sử dân tộc này? Không bao giờ! Đối với ngụy Sài Gòn muôn  đời là giặc của nước Việt chúng ta, không thể rửa mặt cho giặc! Anh hùng và tội  đồ dân tộc phải phân biệt rạch ròi, phải tuyên truyền cho thế hệ sau rõ mà ngày  nghỉ lễ 27/7 là cách tuyên truyền tốt nhất, thiết thực nhất.</p>
+<p>Hãy nhìn ra thế giới, Canada, Pháp chọn ngày 11/11 hằng năm để  tưởng niệm tất cả những người hy sinh vì Tổ quốc, với phương châm tưởng nhớ,  đoàn kết và khoan dung. Nước Mỹ chọn ngày thứ hai cuối cùng của tháng 5 là ngày  tưởng niệm liệt sỹ. </p>
+<p>Nước Nga chọn ngày 9/5 là ngày lễ mừng Chiến thắng phát xít  Đức, trong lễ mừng có tưởng nhớ đến những người đã hy sinh. Hàn Quốc, từ năm  1956 chọn ngày 6/6 là ngày tưởng niệm những người lính Hàn Quốc đã hy sinh.  Indonesia chọn ngày 10/11 là Ngày anh hùng… không lý lịch sử dân tộc ta không đủ  huy hoàng bằng đất nước bạn? Không lẽ những quốc gia đó sợ "chạnh lòng  phía bên kia"?</p>
+<p>Mong một số Đại biểu Quốc hội của nước CHXHCNVN suy nghĩ lại.  Ủng hộ đề xuất của Bộ Lao động - TBXH và đa số Đại biểu Quốc hội./.<img src="https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/sqdot.gif" width="10" height="10"></p>
+<p class="TacgiaL">Lão Chăn Bò </p>
+ <p class="nguonL">Nguồn<a href="https://www.facebook.com/mnq7381/posts/pfbid02dtBTVa4VdQMtx9ohmxA5uGpFLeyFeFHY1UxB1gwve5oYb3EMbBzVjN6jCHu6YGHzl"> FB Lão Chăn Bò</a> ngày 25 tháng 7, 2023 </p>
+ <p>_______________</p>
+ <p><b>Lý Thái Xuân</b></p>
+ <p>Việt Nam đuổi giặc ra khỏi đất nước đã hơn 48 năm rồi, không phải nội chiến. Tại sao một vài "đại biểu" lại còn <i>"sợ bên kia buồn</i>" là <b>sợ ai vậy trời</b>? Còn <b>3/ chỉ là nguỵ, chứ không phải là bên nào nhé.</b></p>
+ <p>LÃO CHĂN BÒ</p>
+ <p>Xin thưa với các vị rằng: ngày 27/7 hàng năm đã từ lâu trở thành ngày mà toàn Đảng, toàn dân và toàn quân ta tri ân những anh hùng, liệt sỹ những thương bệnh binh, những người con hùng anh của nước Việt đã vĩnh viễn ngã xuống hoặc đóng góp một phần&nbsp;máu, xương của mình để “<i>đánh cho Mỹ cút, đánh cho ngụy nhào</i>”, viết nên trang sử hào hùng, viết nên khúc khải hoàn ca đẹp nhất của thế kỷ 20. Công lao, đóng góp vĩ đại đó đã cho chúng ta được hưởng niềm vui trọn vẹn của một dân tộc độc lập, thống nhất và toàn vẹn lãnh thổ như ngày hôm nay. Tri ân các anh hùng liệt sỹ, thương bệnh binh là việc làm thường xuyên của Đảng và nhà nước ta hàng ngày, hàng tháng, hàng năm và là muôn đời, bất diệt trong lòng người dân Việt Nam mãi mãi về sau. Đó là sự ghi lòng, tạc dạ, là sự biết ơn mà các thế hệ mai sau khi nhớ về cội nguồn của chiến thắng, cội nguồn của lòng yêu nước mà hơn ai hết những thương binh, liệt sỹ, người có công là đại biểu ưu tú.</p>
+       <p>Đề xuất nghỉ ngày 27/7 hàng năm là ý tưởng rất nhân văn, thể hiện đạo lý “uống nước nhớ nguồn, ăn quả nhớ người trồng cây” vốn là truyền thống, là cội nguồn sức mạnh của đất nước này’ là dịp để chúng ta có thêm thời gian đi khắp các nghĩa trang liệt sỹ để thắp lên những nén tâm hương thể hiện lòng biết ơn của đồng bào và chiến sỹ cả nước đối với những anh hùng, liệt sỹ hy sinh vì tổ quốc. Là dịp để chúng ta ôn lại những ngày “không thể nào quên” về một thế hệ “mang gươm đi mở cõi” thế hệ “xẻ dọc Trường Sơn đi cứu nước”, thế hệ đã rửa cho dân tộc ta cái nhục mất nước, cái nhục nô lệ; để cho con cháu muôn đời sau hiểu rõ và thêm trân quý giá trị của hòa bình, độc lập được đánh đổi bằng “bể máu, non xương” của tiền nhân…</p>
+       <p>Nguyễn Đình Chinh -&gt;
+LÃO CHĂN BÒ </p>
+       <p>tôi rất đồng tình với ý kiến Chính Phủ nên cho toàn dân nghỉ làm việc ngày 27/7 để có thời gian chúng ta thắp hương tri ân tưởng nhớ đến các anh hùng đã hy sinh vì Tổ Quốc. Đó cũng là bài học mà không một sách vở nào có thể viết được về lòng biết ơn, về lịch sử dân tộc, về sự hy sinh mất mát của cha ông chúng ta để cho chúng ta được sống trong hòa bình của ngày hôm nay, mà những cái đó, lớp trẻ bây giờ đang có phần xao nhãng. Tôi đã đến rất nhiều nghĩa trang liệt sĩ, khi bước chân vào nhìn những hàng mộ của các anh dài với một sự xúc động trào dâng không thể nói thành lời. Cảm ơn các anh, Tổ Quốc này đời đời ghi ơn các anh - CÁC ANH HÙNG LIỆT SĨ</p>
+       <p>Hien Phamthi
+-&gt; LÃO CHĂN BÒ </p>
+       <p>Tôi đồng tình với ý kiến này, cả nước hãy đồng loạt thắp nên tri ân, đây cũng là cách tuyên truyền, giáo dục lớp người sau về lòng yêu nước</p>
+       <p>LÃO CHĂN BÒ</p>
+       <p>Đại biểu Nguyễn Anh Trí là người có tâm huyết, đóng góp nhiều cho ngành y nhưng có lẽ phát biểu này của ông ấy lại thiếu mất nhãn quan và tư duy về chính trị.</p>
+       <p><img src="https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/LICHSU/IMG/LAT_SU/Benkia.jpg" width="450" height="603" alt=""></p>
+       <p>Ngan Vo- &gt; LÃO CHĂN BÒ&nbsp;</p>
+       <p>người thân của phía bên kia chiến tuyến sẽ như thế nào - sám hối - Có CÔNG thì TRI ÂN có TỘI thì SÁM HỐI - như thế là bao trùm cả XH và người thân bên nào cũng được nghỉ để tri ân - sám hối.</p>
+       <p>Quang Vinh Đoàn -&gt; LÃO CHĂN BÒ. </p>
+       <p>Đại biểu này sống ở miền Bắc khi chiến tranh đã kết thúc, không hiểu thế nào là giặc mới phát biểu như vậy, nên truất quyền ĐBQH?</p>

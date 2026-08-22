@@ -1,0 +1,74 @@
+---
+layout: ../../layouts/Article.astro
+title: "NHỚ THẦY"
+author: "Hoàng Nguyên Nhuận"
+date: 2013-06-25
+source: "https://sachhiem.net/HOANGNN/Hoang36_nhothay.php"
+category: "Tác giả"
+lang: vi
+wordCount: 2967
+image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nha.jpg"
+---
+
+<p align="center"><a href="https://www.sachhiem.net/">
+	<img border="0" src="https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nha.jpg"></a> chuyển luân 2007, đăng lại 25-Jun-2013</p> 
+    
+<div class="tomluoc">
+<p><i> </i><b>Năm 2003, trên bàn thờ trong lễ kỷ niệm 40 năm [1963-2003]</b> PG nhập cuộc, người&nbsp;ta thấy có di ảnh của ông bà Trần Văn Chương, nhưng ít ai biết là <b>đầu năm 1980, Bà Ngô Đình Nhu đã sai trưởng nam Ngô Đình Trác qua Mỹ tìm cách tiếp xúc với Thầy,</b> xin Thầy hỷ xả cho cái tội gia đình Bà đã làm khổ mấy Thầy, và xin Thầy nhân lễ Vu Lan gia tâm cầu siêu cho thân sinh và cầu an cho gia đình Bà. (HNN)</p>
+</div>
+<p><span class="First">H</span>ồi còn nằm ăn vạ ở nhà thương tôi đã báo động với anh em vào thăm: "<i>Anh chị em ơi, không khéo tôi mà rời nhà thương là phải đi vào trại học tập với chúa ngục ác ôn côn đồ rồi đó</i>!" &nbsp;Bà LH vừa vào thăm và ra lệnh: giới nghiêm 9 giờ, tắt đèn, tắt computer, không internet, không điện thoại, không mobile phone...Ôi ! thà chết còn hơn anh chị em ơi!&nbsp;</p>
+<p>Tôi đâu ngờ Bà chúa ngục đã thi hành trước lệnh sau! bằng cớ là Thầy Mãn Giác chết đã hai tuần mà tôi mới tình cờ hay. Tình cờ thôi vì nếu không có người anh em tình cờ ghé nhà thăm rồi hay tin tôi vào bệnh viện hắn vội ba chân bốn cẳng bảo bà LH đưa hắn vào thăm. Trong lúc vội vàng bà xã tôi không kịp căn dặn hắn nên hắn vô tình tiết lộ bí mật...Nghe hắn nói em vừa đọc internet nói Thầy MG chết rồi, anh biết chưa...?&nbsp;</p>
+<p>Thế là điều tôi lo bao nhiêu lâu ni đã thành sự thực! Tôi nín thở gật đầu cắn răng không khóc, âm thầm niệm Nam Mô Tiếp Dẫn Đạo Sư A Di Đà Phật cho Thầy.&nbsp;&nbsp;</p>
+<p>Khi bà LH và người anh em về rồi, tôi vội vàng lật cuốn&nbsp;<i>La Révolte Des Écrivains d’Aujourdhui</i>&nbsp;đang dọc dở và hí hoáy ghi nơi trang đầu sách:</p>
+<p>Thầy Mãn Giác chết!</p>
+<p><i>Đêm qua</i></p>
+<p><i>Sân trước một</i></p>
+<p><i>Cành mai...</i></p>
+<p><i>RỤNG !!</i></p>
+<p><i>24/10/2006</i></p>
+<p>Tôi nhại lại câu thơ trong bài kệ thị tịch của Thiền sư Mãn Giác [1052-1096 ] đã để lại: <i>Đình tiền tạc dạ nhất chi mai – Đêm qua - sân trước - một cành mai</i>.</p>
+<p>Rồi nhìn quanh nhìn quất không thấy ai, tôi xả ga khóc ngon lành, như chưa bao giờ được khóc. Khóc ngon khóc lành chẳng kể trời trăng chi nữa. Mấy người y tá quen hoảng hốt, đè ra đo áp huyết, đề nghị cho tôi uống thuốc an thần để nín khóc mà ngủ! Tôi lắc đầu cám ơn khóc mãi, đúng ra là chịu thua không cầm được nước mắt, muốn dừng lại thì dừng không được nên đêm khuya buộc lòng tôi phải gọi điện thoại cho một người em thân thiết.</p>
+<p>Nghe tiếng người đó là tôi phải tự động nín khóc nếu không bị cự nự quê lắm. Bởi khi hắn vào thăm tui, tôi đã lỡ hứa sẽ nghe lời hắn, quyết không để cho tâm động vì bất cứ chuyện gì!</p>
+<p>Hôm đó, hứa xong tôi mới thấy là dại, bởi nói thì dễ nhưng tôi đâu phải là gỗ đá trơ trơ cái chi cũng ngũ uẩn giai không như Bát Nhã Ba La Mật Đa nhắc nhở?! Nhưng đã lỡ hứa thì làm anh làm ả tôi đành cố nín vì sợ nó cự nhoi quê lắm. Tôi đành nhờ hắn mà nín khóc! Cho nên đang đêm tôi gọi hắn và loan tin Thầy Mãn Giác chết khơi khơi vô duyên õm làm như Thầy là bổn sư của hắn vậy đó! Khỏi nói thì hắn bảo tôi đừng khóc nữa! Kỳ lạ là tôi đã nghe lời hắn và cũng không hề cho biết là vì hắn ra lệnh nên tôi nín khóc!</p>
+<p>Cái chết của Thầy MG thật ra chẳng phải là tin sét đánh chi. Tôi đã chuẩn bị tinh thần cho tui, cho Thầy từ mấy tháng nay rồi sau khi nghe tin Thầy phải mỗ não. Nhất là khi Thầy không gọi điện thoại nữa vì phát âm khó khăn.</p>
+<p>Lo Thầy chết, sợ mất Thầy, nhưng nhiều lúc tôi còn nói một đàng làm một nẻo chuẩn bị tinh thần cho Thầy đừng sợ chết, xem chết là trả xong nợ đời để đi làm tiên, sẽ được gặp Thầy Thiện Minh, Thiện Siêu, Quảng Đức, Nhất Chi Mai, Quách Thị Trang , Ngô Kha, Vĩnh Tùng, Ghênh, tha hồ mà hàn huyên..., tôi ba lơn nói với Thầy chết là chuyển nghiệp như xe đang chạy non trớn trên xa lộ và đột ngột đổi&nbsp;<i>lane</i>&nbsp;hay&nbsp;<i>U-turn</i>&nbsp;vậy đó, có chi mô mà sợ... Những lúc điện đàm với Thầy, tôi thường hý lộng với Thầy về sống chết, nghĩ chi nói nấy khiến bà xã tôi có khi đứng bên nghe chướng tai phải bụm miệng tôi lại hay bịt ống điện thoại lại không cho tôi nói tiếp vì sợ Thầy buồn.</p>
+<p>Nhưng Thầy thì hình như cũng lây cái lạc quan sống là trả nợ đời chơ sướng chi mô của tui, tôi vẫn thường nhắc lại câu thơ mà tôi được truyền khi vào tù:</p>
+<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<i>Quán đời rũ mộng tà huy,</i></p>
+<p><i>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Gửi buồn vui lại ra về tay không...</i></p>
+<p>Thầy có vẻ chịu câu thơ đó nhưng tôi lại không biết tên tác giả mà người truyền cho tôi cũng không nhớ tên tác giả nên Thầy cứ nghi là của tôi...</p>
+<p>Có khi tôi còn bày đặt gợi ý Thầy là trong lúc còn tỉnh táo thì nên thanh toán các tài liệu viết tay, cái nào không cần thì hủy đi, cái nào cần thì đóng dấu đánh số. Nói thế khác, cái nào không có dấu và số là ngoại thư, không đáng kể... tôi còn xin Thầy gồng mình viết chúc thư hay kệ thị tịch đi để có nhắn gửi chi cho đệ tử hay hậu thế biết thì nhắn gửi...Hồng Quang bên Giao Điểm đã có hứa với tôi là sẽ lo chuyện đó. Những ngày này tôi không có cơ duyên giao tiếp với Châu văn Thọ nhưng tôi hy vọng anh Thọ và Thầy trụ trì Chùa Việt Nam cũng sẽ chia sẻ những lo âu của tôi để bảo vệ cho Thầy, tránh cho Thầy phải muộn phiền bên kia thế giới...</p>
+<p>Năm ngoái, nhân mùa kỵ Thầy Thiện Minh, tôi có xin phép Thầy viết&nbsp;<i>Ngày Kỵ</i><i>Thầy</i>&nbsp;cho lên chuyenluan.com. Thầy cho phép và khuyên tôi cố gắng làm đi để phục hồi danh dự cho Thầy Thiện Minh. Nghe mấy tiếng ‘ phục hồi danh dự’, tôi sân si cãi lại: Thưa Thầy, đã là nhà tu thì còn kể chi danh dự với không danh dự mà nói chuyện phục với không phục! Lại nữa, nếu danh dự như thế thường hiểu có đi nữa thì cái chết của Thầy Thiện Minh chỉ là tăng chứ đâu có giảm danh dự mà phải lo phục hồi. Bài&nbsp;<i><b>Ngày Kỵ Thầy</b></i>&nbsp;chỉ đặt vấn đề trách nhiệm, chỉ đòi hỏi một sự công chính, làm bậy thì phải sám hối xin chừa, thế thôi...&nbsp;</p>
+<p>Thực ra, điều tôi lo là những gì có thể xảy ra sau khi Thầy khuất bóng, là chuyện Thầy làm Thầy trò đốt sách.</p>
+<p>Bởi tính tôi Tào Tháo thấy chung quanh Thầy, sau cái bình phong Tổng Hội Phật Giáo không thiếu gì những người thương Thầy, hiểu Thầy nhưng cũng không thiếu chi người muốn cải táng Thầy, điểm phấn tô son cho Thầy giống họ, muốn  hóa trang Thầy thành một thánh tử đạo của họ, nhất là với tác phẩm&nbsp;<i>Bão Qua Cổng Chùa...</i></p>
+<p>Thực tế Thầy là nhân vật đại diện chính thống của GHPGVNTN - Ấn Quang, chẳng phải vì Thầy là Phó Viện Trưởng Viện Đại Học Vạn Hạnh mà Thầy còn là Tổng Vụ Trưởng Tổng Vụ Văn Hóa Giáo Dục kiêm Tổng Vụ Trưởng Tổng Vụ Thanh Niên của GHPGVNTN-Ấn Quang trong khi những kẻ ở hải ngoại đang ồn ào đòi phục hoạt GHPGVNTN, phục hoạt Văn Phòng Viện Hoá Đạo trước đây <b>lại chính là những kẻ đã từng xu phụ Mỹ và chính quyền để khai tử GHPGVNTN-Ấn Quang</b> bây giờ lại đòi chính quyền phải phục hoạt GHPGVNTN?!?!</p>
+<p>Thầy Quảng Độ và Thầy Huyền Quang là một chuyện khác, nhưng với hai vị này, tôi nghĩ Thầy Mãn Giác cũng đã làm hết sức Thầy rồi, thành bại không trách Thầy được. <b>Tôi đã cẩn mật chuyển cho Thầy ba bút tích Thầy Quảng Độ đã viết cho chính quyền trước khi ra về trong quá khứ. </b>Nhận được những tài liệu đó, Thầy gọi điện thoại ngay và căn dặn tôi giữ kín đừng để lộ ra ngoài mà... &nbsp;’tội Thầy QĐ!’ Nhiều lúc nghe Thầy QĐ phát ngôn, sân si tôi nổi lên, tôi muốn dùng ba tài liệu đó làm đạn... phản pháo, nhưng có lời Thầy dặn, tôi đành vuốt ve sân si của mình...</p>
+<p>Thầy là người rất cẩn mật. Chuyện gì cần giữ kín là Thầy giữ kín.</p>
+<p>Nhân dịp Thầy tháp tùng Thầy Thiện Minh đi Nhật vận động hòa bình cho Việt Nam nhân Hội-Nghị Quốc-Tế Phật-Giáo ở Kyoto năm 1970, Thầy đã được ủy thác bao nhiêu công việc nặng nhọc, không bao giờ Thầy nói ra.</p>
+<p>Khi Thầy Thiện Minh thọ nạn ở trong tù <b>có tin tung ra là Hà Nội muốn trừng trị Thầy cái tội muốn bắt tay với chính quyền Cách Mạng Lâm Thời Miền Nam VN để chấm dứt chiến tranh</b>.</p>
+<p>Thực hư thế nào, lịch sử còn đó...tôi chỉ nghĩ một điều Thầy Thiện Minh là kẻ kiến trúc kế hoạch lật đổ Đệ Nhất Cộng Hòa. Tàn dư của Đệ Nhất Cộng Hòa sẽ không bao giờ quên điều ấy. Cho nên sau 1975, biết đâu tàn dư của chế độ này khéo chui sâu trèo cao đã mượn tay kẻ thù để trả thù cho cố chủ.&nbsp;</p>
+<p><b>Năm 2003, trên bàn thờ trong lễ kỷ niệm 40 năm [1963-2003]</b> PG nhập cuộc, người&nbsp;ta thấy có di ảnh của ông bà Trần Văn Chương, nhưng ít ai biết là <b>đầu năm 1980, Bà Ngô Đình Nhu đã sai trưởng nam Ngô Đình Trác qua Mỹ tìm cách tiếp xúc với Thầy,</b> xin Thầy hỷ xả cho cái tội gia đình Bà đã làm khổ mấy Thầy, và xin Thầy nhân lễ Vu Lan gia tâm cầu siêu cho thân sinh và cầu an cho gia đình Bà.</p>
+<p><b>Trác vâng lời Mẹ, đến Mỹ, gặp một Đại Tá từng ở trong Quân Ủy Trung Ương của ông Nhu.</b> Có thể, ông Đại Tá này sợ mang tiếng nên thối thác, đùa cho một người khác là một thi sĩ nổi tiếng quen Thầy đem Trác tới gặp Thầy để làm theo lời Mẹ dặn. Đêm đó, chính Thầy khai chuông và niệm hương cho Ngô Đình Trác.</p>
+<p><b>Thấy ý nghĩa chính trị của sự việc đó, tôi xin Thầy phổ biến tin tức </b>thì Thầy không cho, bảo là đợi Bà Nhu hay Thầy không còn tại thế nữa cái đã. Nghe lời Thầy, tôi cũng cố ấm ức quên luôn. Giờ Thầy không còn nữa...xin nói ra đây để thấy rõ tâm địa của Thầy.</p>
+<p>Bởi đang mùa cư tang Thầy, tôi không muốn vọng ngữ thất lễ làm Thầy buồn nên tôi xin miễn nhắc tên những người liên hệ hay những sự việc từng làm Thầy trò tôi lo ngại hay va chạm ý kiến với nhau, nhưng tôi tự biết sức mình sẽ không tránh khỏi phạm sát... giới ngữ một khi những điều tôi nghi ngờ xảy ra thực.</p>
+<p>Khi hay tin Thầy Từ Đàm chết, tôi khóc và&nbsp; hướng về vong linh Thầy thầm nguyện: Con xin hứa sẽ cố học Thầy, ngũ uẩn giai không, thất tình giai không, không hận, không buồn bực, không giận, bất quá tâm có động thì con cũng cố mạc tẩn, tam vô: Không nghĩ đến, không nghe, không nhắc lại...</p>
+<p>Mấy chục năm nay, từ ngày đến trại tỵ nạn Thầy trò liên lạc được với nhau, tôi đã dốc tâm bảo vệ Thầy như trân quý một bảo vật vô giá. Suốt trong chiến dịch vận động cho Thầy Quảng Độ được chuyển từ Thái Bình về phóng thích vào Chùa Quán Sứ và vận động cho qúy Thầy Tuệ Sĩ và Lê Mạnh Thát khỏi án tử hình. Có làm việc với Thầy, tôi mới thấy rõ mức từ nhẫn và ảnh hưởng chính trị của Thầy, mới thấy rõ lý do tại sao người ta cố kéo Thầy về phe họ...biến Thầy thành đồng chí và thánh tử đạo trong chiến dịch vận động tự do tín ngưỡng để làm khó dễ chính quyền Việt Nam của họ.</p>
+<p><b>Năm 1993, nhân mùa kỷ niệm ngày 30 tháng Tư,</b> Thầy bảo tôi viết bài cho tạp chí PGVN của Thầy. Vâng lời Thầy tôi viết&nbsp;<i>Như Chuyện Thần Tiên, Đẫm Máu</i>&nbsp;và trình Thầy duyệt.</p>
+<p>Vài hôm sau Thầy gọi điện thoại cho biết bài viết thiên về thành phần thứ ba và ‘nặng tay’ với hai thành phần kia quá, phải chú trọng hơn yếu tố tình tự dân tộc và triển khai sự đóng góp của PG trong việc duy trì và hiện thực yếu tố đó. Tôi nhận phê bình của Thầy và thưa là thực ra tôi chỉ triển khai ý kiến của Thầy trong quyển&nbsp;<i>Vạn Hạnh, Kẻ Đi Qua Cầu Lịch Sử Mà Vào Niết Bàn</i>&nbsp;thôi. Tôi cũng thưa Thầy cảm nghĩ của tôi khi đọc quyển đó.Thầy hỏi cảm nghĩ thế nào thì tôi tình thực thưa: Thưa Thầy, tôi nghĩ, <b>nếu PG đã đủ khả năng làm lịch sử thì PG cũng phải đặt vấn đề đóng cửa lịch sử chứ không ngồi đó mà nhìn những tác hại của oan nghiệt và hận thù</b>: đóng cửa lịch sử bằng từ nhẫn, hòa hợp hòa giải! bằng cách triển khai Việt tính là điều mà PG đã dùng Phật pháp mà gieo mầm và vun xới từ lúc mới đến phần đất này cho đến ngày nay. Không có mầm mống đó thì, ít nữa cũng sau ngày 30/4/1975, cái họa ‘trăm con’ mạnh đứa nào đứa nấy sống đã biến VN hành một thứ Rwanda hay Yugoslavia hậu Tito rồi! Thầy làm thinh một hồi rồi chẳng nói gì nữa. Mãi về sau, Thầy trò chúng tôi mới có cơ duyên tiến hành hạnh nguyện đóng cửa lịch sử đó...</p>
+<p>Thật vậy, khi được Thầy chuyển cho lá thư viết tay của Thầy Huyền Quang, tôi mới nảy ra ý tưởng vận động Thầy Huyền Quang chịu ra Hà Nội làm hòa với chính quyền.</p>
+<p>Khi trình Thầy ý nghĩ đó, tôi linh cảm Thầy không khứng, xem ra còn bực việc Thầy Thiện Minh chết tôi phải đánh động hồn thơ của Thầy bằng cách đọc cho Thầy nghe mấy câu thơ của Tô Thùy Yên:</p>
+<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<i>Ta về như lá rơi về cội,</i></p>
+<p><i>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Bếp lửa nhân quần ấm tối nay,</i></p>
+<p><i>Chút rượu hồng đây xin rưới xuống,</i></p>
+<p><i>&nbsp;&nbsp;&nbsp;&nbsp; Giải oan cho cuộc biển dâu này.</i></p>
+<p>Tôi loam oam nhớ chi đọc nấy, đến khi Thầy nghe thích quá, bảo tôi chờ Thầy lấy giấy bút đọc cho Thầy chép lại, tôi hoảng quá phải vội vàng xin Thầy chờ máy tôi vội vàng đi lục tìm tập thơ đọc cho Thầy chép để khỏi bị mang tiếng tam sao thất bổn. Chép xong Thầy cẩn thận đọc lại và thú nhận:</p>
+<p>“...Hay quá, nghe xúc động bắt chảy nước mắt G. ơi!”</p>
+<p>Sau này, tôi đã thừa thắng xông lên, dùng mấy câu thơ đó làm chủ điểm để gợi ý Thầy về Việt Nam thực hiện chiến dịch Hòa Hợp Hòa Giải nhân kỷ niệm 30 năm [1975-2005] vãn hồi hòa bình.</p>
+<p>Trong chương trình về quê của Thầy, có chương trình một ngày Hòa Hợp Hòa Giải tương tự như ngày xá tội vong nhân oan hồn tử sĩ như ngày 23 tháng Năm hàng năm ở Huế.</p>
+<p>Theo chương tình đó thì đêm Hóa Giải Hận Thù Oan Nghiệt, Thầy sẽ biến cả nước thành bếp lửa nhân quần sưởi ấm lòng đồng bào khắp nơi bằng những núi lửa trại đồng loạt thắp sáng khi hoàng hôn xuống ở những nơi từng là chiến địa, từng có nạn nhân của cuộc chiến bất kể màu sắc...như Khu Khâm Thiên ở Hà Nội, Điện Biên Phủ, những tụ điểm của Đường Mòn HCM, Khe Sanh, Đường 9 Nam Lào, Cổ thành Quảng Trị, Thành Nội Huế, Đại Lộ Kinh Hoàng, Phước Long, An Lộc, đường di tản Từ Ban Mê Thuột về Long Khánh, những tụ điểm nổi tiếng về vượt biên...</p>
+<p>Những núi lửa trại đó sẽ được đồng loạt thắp lên trong ba hồi chiêng trống Bát Nhã. Mỗi nhánh củi tàn là một vong hồn siêu thoát. Lửa trại sẽ đốt tiêu hận thù. Thầy sẽ là đàn chủ, vận dụng tăng đức của chư tôn tham dự giới đàn, để mở đường siêu sinh tịnh độ cho tất cả oan hồn tử sĩ nạn nhân chiến cuộc 30 năm trời...</p>
+<p>Thầy ngẫm nghĩ nghe rồi phán: Thầy OK tiến hành nếu G. cùng về với Thầy. Dĩ nhiên là tôi không dám chối từ.</p>
+<p>Nhưng sinh lão, bệnh, tử đã ngăn đường về của Thầy trò chúng tôi...</p>
+<p>[xin hẹn số tới]</p>
+<p class="TacgiaL">Hoàng Nguyên Nhuận</p>
+
+    <p class="nguonL">Nguồn <a href="https://chuyenluan.net/_oldcluan/2007/200701/07_02.htm">https://chuyenluan.net/_oldcluan/2007/200701/07_02.htm</a></p>

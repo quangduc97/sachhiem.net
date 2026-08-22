@@ -1,0 +1,61 @@
+---
+layout: ../../../layouts/Article.astro
+title: "Chuyên gia này cần phải học thêm -"
+author: "Mike Wilson"
+date: 2018-05-04
+source: "https://sachhiem.net/THOISU_CT/ChuM/MikeWilson_20.php"
+category: "Chính trị"
+lang: vi
+wordCount: 2257
+image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/SACH/TheGioiPhang.jpg"
+---
+
+<div class="tomluoc">
+   <p> <i>Học cái sai của cộng sản là cần, và ai cũng biết rồi, chính phủ đang sửa  sai rồi! Nhưng học cái sai của tư bản cũng cần, và lại còn cần hơn vì nó  đang độc quyền hiện hữu, và đang lúng túng không giải quyết được mâu thuẫn nội tại. Người thiếu hiểu biết không đáng trách. Người không chịu học -  mới đáng trách! (nth-fl)</i></p>
+ </div>
+<p align="center"><img src="https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/SACH/TheGioiPhang.jpg" width="200" height="284" alt=""></p>
+
+<p><span class="First">N</span>hững nhận định dưới đây  của chuyên gia VN mang tính <i>khoa học và hữu lý</i>, lập  luận có logic. Tuy nhiên, <i>vì VN chưa thoát khỏi </i>các <i>khiếm khuyết</i> của cơ chế XHCN, và,  quan trọng hơn, <i>vì VN chưa đủ thời gian</i> để tiến  đến TBCN quá độ, nên chuyên  gia này <i>chưa nhận định đầy đủ tác hại của những bất công</i> trong xã hội <i>tư  bản,</i> do <i>phân phối kết quả lao động bất công</i>, khiến <i>tài  sản dồn về thượng tầng, </i>và <i>tạo cơ hội cho tầng lớp chóp  bu </i>này <i>dùng tiền để chi phối quyền lực </i>- kinh tế lẫn chính trị  - DẪN  ĐẾN BẤT ỔN KINH  TẾ, CHÍNH TRỊ, XÃ HỘI TOÀN CÕI PHƯƠNG TÂY . </p>
+<p> Chuyên gia này đã  đúng <i>trên phạm vi rất nhỏ hẹp, </i>rằng sự <i>khác  biệt năng lực</i> cá nhân đã tạo ra <i>khác biệt thu nhập</i> giữa  người và người - <i>ai làm được nhiều huởng nhiều, ai làm ít huởng ít.</i></p>
+<p> Tuy nhiên, <i>thực tại nước Mỹ </i>cho thấy: </p>
+<p>  Lương một CEO có thể  cao <i>gấp 20- 30 lần</i> lương một công nhân ! </p>
+<p>  Anh làm CEO, ăn <i>ngày  3 bữa, đêm ngủ 1 giường </i>- là  một <i>cá thể</i> con người, anh cũng như tôi (công  nhân) . </p>
+<p>  Anh tài, anh giỏi - ừ  thì lương anh <i>gấp 3 lần</i> lương tôi đi ! Anh làm 16 tiếng  1 ngày, tôi chỉ làm 8 tiếng, ừ thì - dựa trên số giờ - anh <i>làm  nhiều gấp đôi</i> tôi như vậy lương anh hơn <i>gấp 6 lần</i> (3x2  = 6) lương tôi đi, cũng không sao ... </p>
+<p>  Tại sao anh lại ăn  lương <i>gấp 20- 30 lần</i> lương tôi ? </p>
+<p>  Đó là chưa kể quyền lợi  của anh khi đang <i>làm việc và khi mất việc</i> : </p>
+<p>  Anh được thuởng cổ phiếu,  anh được <i>tiền thuởng khủng, </i>anh được <i>tiền</i> sa  thải chấm dứt giao kèo <i>khủng</i>, trong khi quyền lợi hưu bổng, quyền được bồi thuờng khi sa thải, quyền  ăn lương thất nghiệp <i>của tôi </i>... <i>ngày càng bị cắt giảm !!!</i> </p>
+<p> Anh <i>làm  công</i> cho công ty, tôi cũng <i>làm công</i> cho  công ty, nhưng <i>mục đích</i> của anh là<i> phục  vụ kẻ đầu tư</i> mua cổ phiếu, anh <i>không phục vụ công nhân</i> của công ty (!)- anh chỉ biết <i>làm cho kẻ đầu tư sinh  lời</i> mỗi ngày trên giá trị cổ phiếu, trên tiền chia cổ tức  (dividends), trong khi anh tìm cách <i>kềm kẹp đồng lương và quyền lợi </i>của tôi ... (!) </p>
+<p>  <i>Đồng  tiền không đổ mồ hôi, mà tiền cứ sinh ra tiền cho kẻ giàu,</i>- KẺ GIÀU KHÔNG LÀM MÀ VẪN ĂN TRÊN  LƯNG XÃ  HỘI -<i>tôi đổ mồ hôi</i> cho công ty, tại sao thu nhập của  tôi <i>không song hành</i> cùng thu nhập của anh và lợi nhuận  của công ty ?</p>
+<p> Tại sao anh lại cấm tôi thành lập công đoàn? Tại  sao <i>tập thể công nhân</i> không có quyền trong việc<i> phân  bố kết quả </i>lao động <i>của tập thể</i> ?</p>
+<p>Trong một quốc gia tư  bản, tại sao<i> số cá nhân giàu, triệu phú tỉ phú, ngày  càng tăng </i>... mà <i>số  dân nghèo vẫn tăng, </i>và<i> khoảng  cách</i> giàu nghèo <i>ngày càng tăng?</i> </p>
+<p>  Tại  sao quyền lợi dân giàu<i> ngày càng tăng,</i> mà quyền lợi  công nhân <i>ngày càng giảm ?</i> Tại  sao GDP cả nước<i> ngày càng tăng,</i> mà <i>nợ công</i> cả  nước <i>không  giảm, mà lại tăng,</i> tác hại kinh tế chung ? </p>
+<p> Tại sao các anh chủ trương <i>tư nhân hóa</i> mọi dịch vụ nhà  nước, để đem <i>tiền thuế của dân</i> đóng  góp, <i>đổ  vào túi tư nhân,</i> làm  lợi nhuận cho các công ty tư nhân, (mà điển hình là hệ thống <i>trường tư, nhà tù </i>do  tư nhân cai quản), rồi các anh lại còn định biến cải hệ thống y tế cựu chiến  binh <i>cho tư nhân bòn rút tiền thuế</i> của dân<i> để lấy lời, </i>và ngay đến quĩ hưu an toàn (social security)  của dân các anh cũng định <i>đẩy cho tư nhân quản lý đầu tư</i> để  kiếm lời, <i>bất chấp các bất  trắc </i>(financial risk)<i> cho  quĩ hưu</i> của nhân dân ? </p>
+<p> Tại sao các nước tư bản <i>tập trung vào công nghệ quốc phòng, đi đánh phá các nơi,</i> làm giàu cho công nghệ quốc phòng ?  Tại sao <i>tư bản chủ nghĩa</i> ngày  nay lại <i>độc quyền cộng sinh với chao đảo bất ổn</i> khắp thế giới ?</p>
+<p>Sự <i>chao đảo  bất ổn</i> này là MINH CHỨNG :   <i>Tư bản chủ nghĩa vẫn chưa khắc phục được</i> MÂU THUẪN NỘI TẠI.</p>
+<p>Cộng sản chủ nghĩa <i>có sai trái</i>, nhưng những sai trái ấy có<i> bản chất và cơ  chế hoàn toàn khác, tự chúng không biện minh được</i> cho những BẤT CÔNG MÂU  THUẪN NỘI TẠI của tư bản chủ nghĩa ! </p>
+<p>Sự <i>tàn lụi</i> của  cộng sản chủ nghĩa không có nghĩa là tư bản chủ nghĩa đã được hoàn hảo.</p>
+<p>Chuyên gia này cần phải  học thêm !!!</p>
+<p>nth-fl</p>
+<p>____________________</p>
+
+<p>02/05/2018  10:23<br>
+  <b>(kbchn) - Sự ra đời cuốn sách của Thomas L. Friedman mang tên  “Thế giới phẳng” đã được không ít bạn đọc tán dương. Cụm từ “Thế giới phẳng”  được dùng ở nhiều nơi như mốt thời thượng về một tương lai mà trong đó, xã hội  bình đẳng về mặt cơ hội, khoảng cách giàu nghèo ngày càng ngắn lại.</b></p>
+<p>  Có người còn đề cập tới một xã hội cộng sản,  một thế giới đại đồng mà Marx đã nói đến cách đây hơn một thế kỷ. Có hay không  chuyện “thế giới phẳng” hay “Việt Nam phẳng”?</p>
+<p align="center"><img src="https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/THOISU_CT/Hinh/NHANVAT/NguyenTranBat.jpg" width="350" height="262" alt=""></p>
+<p align="center">Nguyễn Trần Bạt</p>
+<p><b>Chống lại cái nghèo chứ  không chống lại khoảng cách giầu nghèo</b></p>
+<p><i>- Thưa ông, hội nhập  đang tạo ra không ít cơ hội. Điều này làm cho người giầu càng giầu thêm còn  người nghèo càng nghèo, vậy chúng ta có nên bàn đến chuyện làm thế nào để khắc  phục khoảng cách giầu nghèo đó?</i> </p>
+<p>  - Các bạn tưởng rằng khi  nước ta chưa gia nhập WTO thì không có người giầu, người nghèo, không có khoảng  cách giầu nghèo ư? Có chứ. Tôi nghĩ rằng càng phát triển thì khoảng cách giầu  nghèo càng lớn. Phát triển là gì? Phát triển là người ta khai thác các năng lực  tự nhiên của con người một cách có hệ thống và có tính hiệu quả cao nhất, mà  năng lực của con người thì không giống nhau. <i>Một người có hứng thú và có sức để học 20 tiếng một ngày thì không thể  đem so với một người học 2 tiếng đã ngủ gật được. Vào những năm tôi học đại  học, không có đèn điện như bây giờ mà tôi phải học bằng đèn dầu. Số lượng dầu  mà tôi thắp để học bằng tiêu chuẩn của hai gia đình đông con. Ngày xưa một gia  đình đông con được 5 lít dầu/tháng, và tôi đốt 10 lít/tháng để học.</i></p>
+<p><i>Tôi  nghĩ rằng những người học 2 tiếng/ngày không thế đem so với tôi được, vĩnh viễn  không bao giờ so sánh được.</i> <b><i>Khoảng  cách giầu nghèo không chỉ là khoảng cách của sự may mắn mà còn là khoảng cách  của sự phân bố tự nhiên các năng lực của con người</i></b>. Cho nên, chúng ta  phải thừa nhận khoảng cách ấy một cách khách quan mà chúng ta<i> không thể khắc phục triệt để khoảng cách  ấy được</i>. Những nhà lý luận của  CNXH đã từng mơ tưởng đến một sự bình đẳng như vậy và <b><i>các nền kinh  tế ấy đã thất bại bằng sự mơ tưởng</i></b>. Người ta buộc phải phấn đấu và buộc  phải thừa nhận tính khách quan của khoảng cách giầu nghèo nhưng người ta cần  chống lại khái niệm khác chứ không phải khái niệm anh vừa đề cập, đó là khái  niệm nghèo khổ. </p>
+<p>Người ta <b><i>chống  lại sự nghèo khổ chứ không chống lại khoảng cách giầu nghèo</i></b>. Nếu tôi có  1000 đô la/tháng tiền lương mà anh chỉ có 10 đô la/tháng thì anh là người nghèo  khổ, khoảng cách giữa tôi với anh là khoảng cách của sự nghèo khổ. Nhưng nếu  tôi có 10.000 đô la mà anh có 1.000 đô la thì<b><i> anh không nghèo khổ nữa  nhưng anh không giầu bằng tôi.</i></b> Tuy nhiên,<i> khoảng cách giữa 1.000 đô la và 10.000 đô la  vẫn là khoảng cách không thể thay đổi được vì tôi năng động hơn anh, tôi lao  động vất vả hơn anh</i>. </p>
+<p>Tôi vừa viết một công  trình nghiên cứu về tham nhũng, trong đó tôi có nói rằng <i>sự hướng dẫn sai (tham nhũng) về chính trị, kinh tế  và văn hoá trong xã hội đã tạo ra sự mất mát năng lực trên quy mô toàn xã  hội. </i>Khi con người mất mát năng lực thì không có khả năng cung  cấp các dịch vụ trung thực cho xã hội. Để có thể sống được người ta buộc phải  cung cấp các dịch vụ không trung thực. Các dịch vụ không trung thực là bản chất  xã hội học của hiện tượng tham nhũng. Cho nên, để chống tham nhũng, để xoá đói  giảm nghèo chúng ta phải cung cấp các dịch vụ để nâng cao năng lực của con  người. <b><i>Chúng ta phải dứt khoát nhận thức rằng nâng cao năng lực của  con người là biện pháp chủ đạo để chống tham nhũng cũng như để xóa đói giảm  nghèo</i></b>. Ví dụ như ở công ty chúng tôi vẫn thường tiến hành các cuộc điều  tra nghiên cứu xã hội học để cải thiện năng lực xã hội. Nâng cao năng lực là  cách phổ biến nhất để khắc phục hiện tượng nghèo đói, và trong chừng mực nào đó  tạo ra khả năng cảm nhận một cách không đau khổ về khoảng cách giầu nghèo. </p>
+<p>Khi người ta nhận thức  được rằng<i> khoảng cách giầu  nghèo là một tất yếu</i> thì người ta sẽ  không đau khổ, còn nếu khuyến khích người ta <b><i>nhìn nhận một cách sai  lệch về khoảng cách giầu nghèo thì sẽ có đấu tranh giai cấp và sẽ có cách mạng</i></b>và  chúng ta lại cùng nhau nghèo đói. Chúng ta đã đi qua gần nửa thế kỷ cùng nhau  nghèo đói. Người Việt Nam đã có nhiều kinh nghiệm về cái sự thật cùng nhau  nghèo đói. Cho nên, nghĩ ít về khoảng cách giầu nghèo thôi nhưng cần <b><i>phải  làm mọi cách để chống lại sự nghèo đói của bản thân mình.</i></b> </p>
+<p>  ... </p>
+<p><b>Sự  không tương thích của tiền lương</b></p>
+<p><i>- Ông  có thể giải thích tại sao kinh tế Việt Nam vẫn tăng trưởng đều đặn với tốc độ  khá cao nhưng mức lương tăng trưởng chưa tương xứng?</i> </p>
+<p>  - Mức  lương vẫn thấp bởi vì người Việt Nam chưa có văn hoá tiền lương. Chính sách  tiền lương của chúng ta không được dựa trên những tiêu chuẩn đúng đắn của văn  hoá tiền lương. Người Việt Nam chưa ra khỏi mâu thuẫn của quan hệ giữa tiền  lương và năng lực. Bởi vì chúng ta có quá nhiều người được tuyển mộ theo những  quan niệm sai trái, được đào tạo theo những tiêu chuẩn không phù hợp và hiện  nay chúng ta đang giẫm chân tại chỗ trong sự không tương thích giữa năng lực và  tiền lương. Chúng ta cần quan sát một cách cẩn thận để xem hiện tượng đó diễn  biến như thế nào. Tuy nhiên, không phải cả xã hội giẫm chân tại chỗ trong quan hệ  tiền lương thấp, có nhiều bộ phận khác nhau của xã hội đã bắt đầu ra khỏi và  phát triển một nền văn hoá tiền lương khác, không còn giống với mức chung vốn  có. </p>
+<p>Quy  luật của sự phát triển là các bộ phận phát triển một cách khác nhau chứ không  phải tất cả mọi bộ phận đều phát triển đồng đều. Cho nên khi anh nói rằng tìền  lương ở Việt Nam vẫn thấp thì đấy là nói ở mức kết luận chung chung. Nhưng nếu  đi sâu vào các xí nghiệp anh sẽ thấy rằng: <i>vì nhà nước không hỗ trợ một  chính sách thu nhập cao cho nên đại bộ phận các xí nghiệp đã trả lương cao đều  giấu ưu điểm của mình. Nếu không họ sẽ phải mất thêm một lượng chi phí khá lớn  để đóng thuế. Cho nên, vấn đề đặt ra là nhà nước phải ra khỏi nền văn hoá tiền  lương thấp chứ không phải xã hội, bởi vì xã hội đã bắt đầu làm việc ấy rồi.</i> Đây là một vấn đề lý luận  thật sự, lý luận của những người hoạch định chính sách cao nhất chứ không phải  chỉ là lý luận của một trường đại học. </p>
+<p><i>- Trân  trọng cám ơn ông.</i><img src="https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/sqdot.gif" width="10" height="10"></p>
+<p class="TacgiaL">Phan Thế Hải (Thực hiện)
+</p>
+ <p class="nguonL">Nguồn <a href="https://kbchn.net/the-gioi-phang-neu-cung-nhau-ngheo-doi-87342.html">https://kbchn.net/the-gioi-phang-neu-cung-nhau-ngheo-doi-87342.html</a></p>

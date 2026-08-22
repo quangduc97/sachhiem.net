@@ -1,0 +1,46 @@
+---
+layout: ../../../layouts/Article.astro
+title: "Trong Khi GH. Phanxicô thăm Philippines, Căng Thẳng Giữa Giáo Hội và Chính Phủ Lộ Ra."
+author: "Floyd Whaley/ NY Times"
+date: 2015-01-20
+source: "https://sachhiem.net/SACHNGOAI/H/HaiAu02.php"
+category: "Sách ngoại văn"
+lang: vi
+wordCount: 1622
+image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/THOISU_CT/Hinh/PHILIPN/BenignoAquino_Jan2015.JPG"
+---
+
+<p class="Tuaduoi"><b>Những Bài Báo Bị Che Giấu</b></p>
+
+  
+  
+  
+  <div class="tomluoc">
+    <p><i>Ngày nào Philippines còn nằm trong móng vuốt của Vatican thì còn lâu mới thoát khỏi nghèo đói lạc hậu, vì nhà thờ đã cấu kết với một vài gia tộc tiếng tăm địa phương đã làm tay sai từ thời thuộc địa lãnh đạo quốc gia để nhà thờ thêm quyền lực và giàu có. Có khác gì NĐD và NVT ở VN hay các nước Mỹ châu La-tinh. Chỉ là một bọn đạo đức giả. Nhà Nước VN nên quan sát các động thái của Vatican, đang chuyển trục sang Á châu hợp tác và theo chính sách của Anh-Mỹ để có đối sách hiệu quả.(LND)</i></p> </div>
+<p align="center"><img src="https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/THOISU_CT/Hinh/PHILIPN/BenignoAquino_Jan2015.JPG" width="350" height="229"></p>
+<p><span class="First">T</span>ổng Thống Philippines Chỉ Trích Giáo Hội</p>
+<p>Tổng thống Benigno S. Aquino III của Philippines đã khuyến  cáo các giáo sĩ Công giáo trước sự hiện diện của Giáo Hoàng, rằng một số giáo  phẩm đã hay phê phán, và thậm chí còn chỉ trích đầu tóc của ông.</p>
+<p><b>MANILA</b> - Ngày đầu tiên ở Philippines của Giáo hoàng  Francis đã tràn ngập với những hào nhoáng thích đáng với một quốc gia trong đó có hơn 80 phần  trăm người tự nhận mình là người Công giáo La Mã. Nhưng căng thẳng đã làm vẩn đục  mối quan hệ giữa giáo hội và giới lãnh đạo của đất nước trong những năm gần đây  cũng đã được bày ra.</p>
+<p>Tại một cuộc họp với các giới chức hôm thứ Sáu, Tổng thống  Benigno S. Aquino III, người đã thường xuyên va chạm với các nhà lãnh đạo giáo  hội địa phương về chính sách của chính phủ của ông, phàn nàn rằng họ đã chỉ trích ông quá đáng và lại im lặng về những tội tham nhũng của người tiền  nhiệm của ông. Và trong bài phát biểu của mình, Giáo hoàng đã gián tiếp đứng về  phía các giáo sĩ về một vấn đề đã gây căng thẳng với chính phủ: <i>việc ban  hành một đạo luật để cung cấp biện pháp tránh thai miễn phí cho phụ nữ.</i></p>
+<p>Trong một số phát biểu mạnh mẽ nhất của ông về giáo lý  nhà thờ chống ngừa thai nhân tạo, Francis đã hô hào giáo dân đến xem ông phải  "sùng kính tôn trọng sự sống, rao giảng tính thiêng liêng của sự sống con  người từ khi thụ thai cho đến lúc chết tự nhiên." Ông nói thêm, "Sẽ  là một món quà cho xã hội, nếu mỗi gia đình Kitô hữu sống trọn vẹn ơn gọi cao  quý của nó!" </p>
+<p class="indent50">[LND:<i> Hình như Giáo Hoàng chuyên lập lại giáo điều đầu  môi chót lưỡi của nhà thờ mà bỏ qua lịch sử đẫm máu của Giáo Hội từ ngày thành  hình đến nay – nghĩa là giáo dân phải triệt để bảo vệ bào thai bất kể từ đâu và  đẻ cho nhiều để Giáo Hội đông tín đồ (như dùng vào việc đón tiếp Giáo Hoàng);  và để việc giết chóc kẻ khác, kẻ ngoại đạo cho Giáo Hội lo</i>.]</p>
+<p>Các nhà phân tích Vatican giải thích các phát biểu khác về  của Giáo Hoàng - "<i>Hãy coi chừng loại thực dân tư tưởng mới đang cố gắng  tiêu diệt gia đình</i>" – như là một trong những lý lẽ mạnh mẽ nhất của ông hỗ  trợ lập trường truyền thống của giáo hội chống lại hôn nhân đồng tính. Ông cũng  cảnh báo về những nỗ lực để <i>"định nghĩa lại ý nghĩa đích thực của hôn nhân."</i>  Mặc dù Francis đã đưa ra nhiều nhận xét tương tự chống lại hôn nhân đồng tính,  ý kiến của ông hôm thứ sáu, trên một diễn đàn quốc tế như vậy, có lẽ sẽ trấn an  những nhà truyền thống Công giáo đã bị nhiễu loạn bởi lời bình luận của ông về các linh mục đồng tính thường được  trích dẫn, trong đó ông nói, "<i>Tôi là ai  mà phán đoán?</i>"</p>
+<p align="center"> <img src="https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/TONGIAO/IMG/PHI/Francis_Phi_Jan2015visit.jpg" width="400" height="225" longdesc="https://www.nytimes.com/2015/01/17/world/asia/after-meeting-with-pope-francis-philippine-president-criticizes-local-church-leaders.html"></p>
+<p>Ý kiến của ông Aquino tập trung một phần vào mối quan hệ  gần gũi của giáo hội với người tiền nhiệm của ông, Gloria Macapagal Arroyo, người  ủng hộ những nỗ lực của hàng giáo sĩ để ngăn chặn dự luật tránh thai. Chính phủ  của ông Aquino đã tích cực điều tra bà Arroyo, người đã bị bắt vào năm 2011 và  bị buộc tội gian lận bầu cử; sau đó bà đã bị truy tố vì nghi ngờ lạm dụng hơn 8  triệu USD tiền xổ số chính phủ. Nhiều viên chức trong chính quyền của bà cũng bị liên  quan đến nhiều vụ bê bối tham nhũng.</p>
+<p>"<i>Có một thử nghiệm thực sự về đức tin khi nhiều  thành viên của nhà thờ, có lần lên tiếng ủng hộ người nghèo, người thiệt thòi,  và khiếm khuyết, đột nhiên trở nên im lặng khi đối mặt với sự lạm dụng của  chính quyền trước đây, mà chúng tôi cho đến nay vẫn đang cố gắng khắc phục điều  này", </i>ông Aquino nói tại dinh tổng thống trong khi Giáo Hoàng Francis  ngồi nhìn một cách ủ rủ.<i> "Trong những nỗ lực sửa chữa những sai lầm của  quá khứ, người ta cứ  nghĩ rằng giáo hội đáng lẽ  là đồng minh tự nhiên của chúng  tôi.</i>"</p>
+<p align="center"><img src="https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/TONGIAO/IMG/PHI/Church_Gov_tension_2015.JPG" width="350" height="187"></p>
+<p>Ông tiếp tục: <i>"Ngược lại với sự im lặng trước đây của  họ, một số thành viên của các giáo sĩ dường như bây giờ nghĩ rằng con phương cách đúng với đức tin   là tìm một cái gì đó để chỉ trích, thậm chí đến mức mà  một vị giám mục đã khuyên nhủ tôi phải làm một cái gì đó về mái tóc của tôi, làm như thể nó là một tội trọng."</i></p>
+<p>Ông Aquino đã đề cập đến một nhận xét vào năm 2012 bởi một  tổng giám mục, Ramon Arguelles, người đã nói rằng tổng thống hói "nên mang  một bộ tóc giả."</p>
+<p>Trong phát biểu của mình, ông Aquino cũng ca ngợi các nhà  lãnh đạo Giáo hội Công giáo ở Philippines trước đây, những người đã đi đầu  trong việc lật đổ nhà cựu độc tài Ferdinand Marcos, và ông kêu gọi Francis có một  "<i>tiếng nói  thống nhất và hồi sinh</i>" trong nhà thờ.</p>
+<p>Các nhà phê bình  của ông Aquino đã phản ứng  nhanh chóng đối với các ý kiến tiêu cực của ông. Một số nói rằng chúng không thích hợp cho một chuyến  thăm nhằm mục đích chào mừng Giáo Hoàng.</p>
+<p>Ông  Renato Reyes Jr., tổng thư ký của đảng Bayan, một đảng chính trị thiên tả nói "<i>Aquino sử dụng sự kiện này để thảo luận về các vấn  đề của mình với giáo hội.</i>"  "<i>Không thể tự mình vượt qua những mối quan ngại  riêng, ông ta biến sự kiện này thành một phiên họp ngay cả khi ông đã  thuận tiện bỏ sót sự độc đoán và sự bất bình đẳng đang bao trùm đất nước trước  mắt mình</i>."</p>
+<p>Trong một tuyên bố trước khi ông Aquino đưa ra nhận xét,  Francis đã lên tiếng chống lại sự tham nhũng vốn đã bám sát Philippines trong  nhiều thập kỷ, kêu gọi các nhà lãnh đạo chính trị cao cấp <i>"từ bỏ tất cả  các hình thức tham nhũng, đã tướt đi các nguồn lực từ người nghèo, và phải thực  hiện các nỗ lực phối hợp để đảm bảo sự bao gồm tất cả đàn ông, phụ nữ và trẻ  em</i>."</p>
+<p>"<i>Bây giờ, hơn bao giờ hết, các nhà lãnh đạo chính trị  cần làm nổi bật tính trung thực, tính toàn vẹn và sự cam kết cho lợi ích  chung</i>," ông nói thêm. </p>
+<p class="indent50">[LND: <i>Thương thay thân phận lãnh đạo của các nước thuộc địa  của cả thực dân và nhà thờ phải đực mặt chịu sự dạy bảo của hàng giáo phẩm từ  xa đến gần thay cho chủ nhân ông tây phương. Francis nào có dám ngạo mạn như  thế với bọn da trắng! Ngày nào Philippines còn nằm trong móng vuốt của Vatican  thì còn lâu mới thoát khỏi nghèo đói lạc hậu, vì nhà thờ đã cấu kết với một vài  gia tộc tiếng tăm địa phương đã làm tay sai từ thời thuộc địa lãnh đạo quốc  gia để nhà thờ thêm quyền lực và giàu có. Có khác gì NĐD và NVT ở VN hay các nước  Mỹ châu La-tinh. Chỉ là một bọn đạo đức giả. Nhà Nước VN nên quan sát các động  thái của Vatican, đang chuyển trục sang Á châu hợp tác và theo chính sách của  Anh-Mỹ để có đối sách hiệu quả.] Đọc thêm</i> <a href="https://sachhiem.net/index.php?content=showrecipe&amp;id=6236">https://sachhiem.net/index.php?content=showrecipe&amp;id=6236</a></p>
+<p>Ông Aquino đã có những nỗ lực chống tham nhũng, một thành  tích của nhiệm kỳ tổng thống của ông, nhưng chính quyền của ông đã bị ảnh hưởng  bởi nhiều cáo buộc hối lộ trong năm qua.</p>
+<p>Giáo Hoàng đang có một chuyến thăm năm ngày tới  Philippines, quốc gia có dân số Công giáo lớn nhất châu Á. Ông đã được chào đón  với sự nhiệt tình, với hàng ngàn người xếp dọc đường phố để nhìn  thoáng qua khi ông đi qua (LND. trong chiếc popemobile  chống đạn bắn  tĩa).</p>
+<p>Hôm thứ Bảy, Giáo Hoàng đã đến Leyte, hòn đảo ở miền  trung Philippines bị tàn phá bởi cơn bão Haiyan vào tháng 11, 2013. Vào ngày chủ  nhật, ông sẽ cử hành một Thánh lễ công cộng ở Manila mà các quan chức chính phủ nói rằng  có thể thu hút hơn năm triệu người.</p>
+<p>Laurie Goodstein đóng góp báo cáo từ New York.</p>
+<p class="TacgiaL">H.A.</p>
+ 
+ <p><a href="https://www.nytimes.com/2015/01/17/world/asia/after-meeting-with-pope-francis-philippine-president-criticizes-local-church-leaders.html" class="nguonL">https://www.nytimes.com/2015/01....</a> JAN. 16, 2015</p>

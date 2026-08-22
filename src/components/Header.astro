@@ -1,0 +1,24 @@
+---
+interface Props {
+  current?: string;
+}
+const { current } = Astro.props;
+
+const links = [
+  { href: '/', label: 'Trang chủ' },
+  { href: '/tim-kiem/', label: 'Tìm kiếm' },
+  { href: '/#tac-gia', label: 'Tác giả' },
+];
+---
+
+<header class="masthead">
+  <p class="brand"><a href="/">Sách Hiếm</a></p>
+  <p class="tagline">sachhiem.net — thư viện sách hiếm, sử liệu &amp; những cuộc đối thoại lịch sử</p>
+  <nav>
+    {
+      links.map((l) => (
+        <a href={l.href} aria-current={current === l.href ? 'page' : undefined}>{l.label}</a>
+      ))
+    }
+  </nav>
+</header>

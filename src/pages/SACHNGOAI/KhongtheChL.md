@@ -1,0 +1,349 @@
+---
+layout: ../../layouts/Article.astro
+title: "KHÔNG THỂ CHUỘC LỖI"
+author: "ALLEN HASSAN"
+source: "https://sachhiem.net/nguồn: https://giaodiemonline.com/2007/07/chuocloi.htm"
+lang: vi
+wordCount: 8788
+image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/SACHNGOAI/file:///C:/SACHHIEM/images/mail.gif"
+---
+
+<div align="center" style="position: relative; left: 0; top: 0">
+ 
+		
+ 
+ 
+
+<table id="0" border="1" cellpadding="0" cellspacing="0" width="650" topmargin="10" bordercolor="#FF9966" background="../images/BGtopY.gif" bordercolorlight="#FFFFCC" bordercolordark="#606060"> 
+<tbody><tr><td colspan="2"> 
+	<table border="2" cellspacing="0" width="100%" topmargin="10" colspan="2"> 
+	<tbody><tr><td width="100%" bgcolor="White" align="left" valign="top" colspan="2">	<b>
+		
+		</b></td>
+	</tr></tbody></table>
+	</td></tr>
+
+
+	
+<tr> <td width="100%"> 
+
+<table border="1" cellpadding="40" cellspacing="0" width="100%" topmargin="10"> 
+	<tbody><tr><td width="100%" bgcolor="White" align="justify" valign="top">	
+  <table border="0" cellpadding="10" width="100%" cols="2"><tbody><tr>
+	<td valign="top"><a href="/SACHNGOAI/#" onclick="location.href='https://sachhiem.net/BIA/sendafriend.php?url='+location.href;"><img src="https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/SACHNGOAI/file:///C:/SACHHIEM/images/mail.gif" border="0"> 
+Gửi bài này cho bạn bè</a></td>
+	<td valign="top" style="text-align:right">	đăng ngày 17&nbsp; tháng 8, 2007
+	</td></tr></tbody></table>
+ 
+
+
+<p>	
+<img border="0" src="https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/SACHNGOAI/Hinhanh/PEOPLE/FailuretoAtone.jpg" align="left" hspace="20"><br><br><img border="0" src="https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/SACHNGOAI/Hinhanh/PEOPLE/SachKhTCL.jpg" hspace="20"></p>
+
+														
+														
+														
+		
+														<p class="TuaDoLeft">Kỳ 1: Ở tâm điểm cuộc chiến 
+	</p>
+														
+														<p>Đó là năm 1968. Sau vài ngày tập huấn với các đồng nghiệp người Mỹ ở Huế, tôi lên xe Jeep hướng về Bệnh viện tỉnh Quảng Trị. Các đồng nghiệp ở Huế cho là tôi điên nên mới tình nguyện ra Quảng Trị, nơi chiến sự nặng nề vây quanh. Sau khi đặt chân đến Quảng Trị, tôi biết rằng nơi đây có thể là một trong những nơi nguy hiểm nhất trên hành tinh này. 
+</p><h4>“Oanh kích tự do”
+ 
+
+</h4>
+														<p>
+														<img border="0" src="https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/SACHNGOAI/Hinhanh/taithuong.jpg" alt="(Một người mẹ cùng hai đứa con đang giúp tải thương những nạn nhân trúng bom tại Quảng Trị )" align="right" hspace="10"><font color="#008000"><i>(Một người mẹ cùng hai đứa 
+														con đang giúp tải thương 
+														những nạn nhân trúng bom 
+														tại Quảng Trị )</i></font></p>
+														<p>Tôi là vị bác sĩ duy 
+														nhất thường trực tại 
+														Bệnh viện tỉnh Quảng 
+														Trị. Thị xã Quảng Trị có 
+														dân số khoảng 35.000 
+														người khi tôi đến đây, 
+														nhưng có rất nhiều cư 
+														dân sinh sống ở miền 
+														quê, ở các làng mạc xa 
+														xôi hẻo lánh. Trong khu 
+														vực này có đến 87.000 
+														lính thủy quân lục chiến 
+														thuộc Quân đoàn I. Đây 
+														là vùng chiến sự và để 
+														bảo vệ, người ta đã tăng 
+														viện rất nhiều xe tăng, 
+														đặc biệt là những chiếc 
+														xe bọc thép có thiết kế 
+														hai khẩu 40 ly, rất 
+														thích hợp để hoạt động ở 
+														những vùng có rừng nhiệt 
+														đới như ở đây. Xe tăng 
+														và xe bọc thép chở đầy 
+														lính Mỹ và lính Nam VN 
+														chạy suốt ngày trên các 
+														đường phố Quảng Trị. </p>
+														<p>Hầu như mỗi ngày đều có hàng chục binh lính và thường dân chết và bị thương. Chiến trường đẫm máu, trong đó tổn thất nhân mạng nhiều nhất lại xảy ra ở các “vùng oanh kích tự do”, từng là khu vực sinh sống của dân chúng miền quê, nên nạn nhân có thể là những nông dân trở về lo cho đàn trâu, đàn bò của họ; có thể là phụ nữ hoặc trẻ em trở về nhà đốt nhang trên những nấm mồ ông cha. (“Vùng oanh kích tự do” là khu vực mà bất cứ ai hiện diện trong đó cũng bị coi là kẻ địch và là mục tiêu được phép bắn phá tự do của các lực lượng Mỹ. 
+														</p>
+														<p>Một số phi công kể lại rằng sau khi đi bỏ bom vào một mục tiêu mà vì một lý do nào đó không sử dụng hết số bom, trên đường về căn cứ không quân, để chuẩn bị hạ cánh an toàn, họ đã thả hết số bom còn lại xuống “vùng oanh kích tự do” mà không cần biết có gì dưới đất hay không - ND). Mặc dù hầu hết người VN sống quanh quẩn ở làng quê, cả đời ít khi đi xa khỏi bán kính 10 km, nhưng hàng triệu người đã phải chạy loạn khắp nơi trong chiến tranh. 
+</p><p>Tôi đến phục vụ ở Quảng Trị khi mới 32 tuổi, là một bác sĩ còn khá trẻ và chưa có nhiều kinh nghiệm, tuy đã được đào tạo về y khoa tổng quát, nhi khoa và thú y. Một năm làm việc tại các phòng cấp cứu của bệnh viện ở California đã cho tôi một số kinh nghiệm ứng phó với những ca chấn thương. Ngành y ở một nước thuộc thế giới thứ ba hoàn toàn khác biệt với những gì mà nhiều bác sĩ có thể hình dung, nhất là sự thiếu thốn về y cụ hiện đại. Ngay cả “mùi vị” của các bệnh viện ở VN cũng khác hơn so với vẻ sang trọng, sạch sẽ của bệnh viện ở Mỹ. Đó là mùi cồn hăng hăng trộn lẫn mùi khử trùng. 
+</p><h4>Chiến tranh ở trên đầu
+</h4><p>Một trong những ca phẫu thuật đầu tiên của tôi ở Quảng Trị là mổ cho một người đàn ông Việt Nam 44 tuổi bị thương nằm ngoài đồng ruộng suốt cả bốn ngày. Tôi nhận ra ông là người thỉnh thoảng tôi vẫn nhìn thấy trên phố khi đi bộ đến bệnh viện làm việc. Khi tiếp nhận ca bệnh, tôi mới biết là ông bị thương vì mảnh bom. Ông cũng bị bỏng một mảng lớn quanh vết thương khiến lòi cả xương sống ra. Vết thương của ông rất nặng và tôi sợ là ông không thể sống qua vài ngày. Tôi thăm bệnh mỗi ngày, cho ông dùng thuốc chống uốn ván lấy lệ và chích morphine giảm đau. Tôi cố gắng mỉm cười và tỏ vẻ hớn hở khi khám bệnh vì muốn cổ vũ và cho ông hi vọng sống. Đến ngày thứ tám thì bệnh nhân tử vong. Sau khi đã sử dụng hết mọi phương cách, tôi chỉ còn cách gửi cho ông một nụ cười hiền lành, lịch sự và đón nhận lời cuối cùng của người đàn ông: “Cám ơn bác sĩ”.
+</p><p>Bệnh viện của chúng tôi là “con đường duy nhất” đối với dân chúng Quảng Trị chẳng may bị thương vì bom đạn chiến tranh, bởi không còn nơi nào gần hơn để cấp cứu nạn nhân trong tình trạng thập tử nhất sinh. Con số thường dân thương vong dao động tùy theo tình hình chiến sự. Rất nhiều bệnh nhân được chuyển đến Bệnh viện tỉnh Quảng Trị là do các vết thương vì bom, một số do máy bay B-52 thả loại bom khổng lồ 2.000 cân Anh, có sức hủy diệt khủng khiếp. Loại bom này có kích cỡ to bằng chiếc xe Volkswagen Beetle, và chấn động của vụ nổ có thể cảm nhận ở nơi cách xa gần 20 km. Nếu như bạn nằm trong phạm vi 8 km khi bom nổ, bạn sẽ thấy đời mình xem như kết thúc. Mặt đất rung chuyển dữ dội cùng với tiếng ầm ầm như thể bạn đang ở trung tâm của một vụ động đất. Những vụ ném bom như thế gây ra vết thương theo nhiều cấp độ cho rất nhiều người, tùy thuộc khoảng cách từ nạn nhân đến chỗ bom rơi. Nếu ở gần nơi bom nổ, chấn động cực mạnh xuyên qua cơ thể có thể làm tổn thương trầm trọng tim, gan, thận, ruột. Sóng chấn động mạnh cũng có thể thổi bay con người vào tường hoặc một vật cứng nào đó và gây thương vong cho họ. Ở nơi xa hơn trung tâm vụ nổ, sóng mạnh và kéo dài cũng có thể làm rách màng nhĩ (nếu sức nổ tạo nên áp suất 7 cân Anh trên một inch vuông). Còn nếu như có ai đang tiếp xúc với vật thể rắn nào đó thì sóng chấn động của vụ nổ có thể truyền từ vật thể ấy vào cơ thể người, làm chấn thương nhiều hay ít tùy theo sức mạnh của vụ nổ.&nbsp;
+Có những bà mẹ bồng con mình vừa mới đạp phải bẫy mìn với bàn chân bấy nát. Chúng tôi phải chữa trị nhiều người bị thương vì đạn của các loại súng cá nhân, vì mảnh đạn pháo và vì bẫy mìn, trong đó nhiều nhất là thương vong do mảnh bom đạn. Trong một số trường hợp khá hiếm hoi, chúng tôi cũng chữa trị những người bị thương, bị cháy bỏng vì bom napalm. Bom này đốt cháy hoàn toàn cả xương lẫn xác thịt và khi đã dính bom napalm, rất khó để ngăn chặn sự phát cháy nên rất ít người sống sót để được chuyển đến bệnh viện.
+</p><p> <img border="0" src="https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/SACHNGOAI/Hinhanh/PEOPLE/BSHassan2.jpg" width="254" height="334" align="left" hspace="10" alt="Bác sĩ Allen Hassan tại Bệnh viện tỉnh Quảng Trị năm 1968">Chiến tranh ở ngay trên đầu chúng tôi. Bầu trời đen kịt trực thăng quân đội với những tiếng nổ liên tiếp của hỏa tiễn, của đạn pháo. Cũng chẳng có gì báo trước, mặt đất dưới chân tôi bất thần có thể rung lên với những đợt đánh bom của máy bay B-52 ở một nơi khá xa. Tôi có thể ngửi thấy mùi đặc trưng của bom napalm trong không khí. Thường là những khi xuất hiện các sự việc nhắc nhở về cuộc chiến đang tiếp diễn như thế, tôi dễ trở nên chán nản ngay tức khắc. Tôi bất lực tự hỏi sẽ có bao nhiêu người dân vô tội bị kẹt giữa hai làn đạn, bao nhiêu người đang chết vào thời điểm đó, bao nhiêu người bị thương, bao nhiêu cơ thể bị biến dạng vì bom đạn và bao nhiêu người sẽ bò đến hoặc được đưa đến bệnh viện của chúng tôi xin chữa trị trong vài giờ tới.
+</p><p>Càng ngày tôi càng nhận rõ là mình thật sự đang ở vùng tâm điểm của một cuộc chiến. Tỉnh lỵ Quảng Trị chỉ cách vĩ tuyến 17 - tức vùng phi quân sự - chừng 35km. Tất cả chúng tôi hiểu rằng mình đang ở trong vùng chiến sự và rằng chúng tôi nên cùng sẻ chia, giúp đỡ nhau sống sót qua cuộc chiến.
+</p>
+														
+														<h3>Kỳ 2: “Trại cải huấn”
+</h3>
+														<p>Tôi cùng vài y tá hải quân đi đến một xã trong chương trình tiêm chủng và chăm sóc trẻ em định kỳ của chúng tôi ở Quảng Trị. Ở đó, tôi đã chứng kiến những điều còn kinh khủng hơn nữa của chiến tranh. 
+</p><h4> “Chuồng cọp”
+</h4><p>Trong xã này, lần đầu tiên tôi thấy một “trại cải huấn”. Cũng giống như nhiều trại tù tương tự được thiết lập bằng nguồn tài trợ của Mỹ và do chính quyền Nam VN quản lý một cách tồi tệ, “trại cải huấn” trong xã này chật kín hàng ngàn con người gần như trần truồng, gồm cả đàn ông, phụ nữ và trẻ con, bị cho là tù binh chiến tranh. Cái gọi là “trại cải huấn” dùng để giam giữ cư dân địa phương bị vây bắt mà không có chứng cứ xác đáng và đối xử với họ như súc vật. Họ bị buộc phải nhận tội, bị giam cầm mà không có xét xử và bị đối xử một cách tàn nhẫn.
+</p><p>Đây chưa phải là phương cách tồi tệ nhất mà chính quyền Nam VN và Mỹ áp dụng. Những người bị tình nghi có hành động chống đối chính quyền Nam VN còn bị nhốt trong các “chuồng cọp” rất chật hẹp và đầy nghẹt người. Những “chuồng cọp” này được néo chặt bằng những cột tre dày đặc, cách khoảng chưa đầy một tấc. Mỗi “chuồng” dài chừng 6m, rộng 3m và cao khoảng hơn 1m. “Chuồng cọp” rất thấp nên tù nhân không thể đứng dậy được. Mỗi “chuồng” như thế giam đến 20 người. Họ được nuôi ăn thông qua những lát gỗ mỏng và buộc phải sống chung với những thứ cặn bã phân, nước tiểu mà họ thải ra. Tôi cũng thấy cảnh người ta mắng nhiếc, khạc nhổ lên những người bị giam trong “chuồng”.
+</p><p>Khi tôi đi bộ ngang qua những “chuồng cọp”, các tù nhân đã nhận biết tôi là một người Mỹ mặc thường phục. Tôi được biết những du kích cộng sản trung kiên nhất sẽ bị giam cầm rất lâu trong “chuồng cọp”. Những tù nhân bị liệt vào hạng “tội nặng nhất” sẽ bị hành hạ và bỏ lờ đi cho đến chết. Thường thường, các “chuồng” được xây dựng ở những nơi trống trải nên nhiều tù nhân đã chết vì bị mất nước dưới ánh nắng mặt trời chói chang. Họ cũng chết vì đói khát và căng thẳng khi bị giam lâu ngày trong những “chuồng” chật chội, nơi mà đúng ra còn không thích hợp để nhốt súc vật nữa.
+</p><p>Ngoài ra, tôi cũng được biết những tù nhân “ngoan cố” nhất - những nhà cách mạng kiên cường đến cùng -
+ 
+
+ Hai mẹ con trúng bom Mỹ được đưa vào bệnh viện - Ảnh: Honda Katshuishi (Nhật)
+ những người bị xem như không có hứa hẹn “cải hối” được, thì đừng mong ngay cả việc bị đưa vào “trại cải huấn”. Sau này tôi mới biết trong chiến tranh có khoảng 40.000 người Việt bị chính quyền Nam VN và Mỹ sát hại trong các chiến dịch Phượng hoàng của Cục Tình báo trung ương Mỹ (CIA). Chính đây là nơi đề xuất thiết lập các “trại cải huấn”. Theo Stuart Herrington - tác giả của cuốn sách về chiến dịch Phượng hoàng, những thường dân VN bị phát hiện có giữ ảnh Chủ tịch Hồ Chí Minh trong nhà, có radio, có thuốc men nhiều hơn mức cá nhân cần dùng, đều bị qui là Việt cộng và sẽ bị giết ngay tức khắc.
+</p><p>“Trại cải huấn” mà tôi mô tả chỉ là một khía cạnh khác của cuộc chiến tàn bạo, mất nhân tính. Tại VN, có lần tôi đã nghe từ miệng một sĩ quan quân đội rằng cần phải giết cả con cái của những người bị tình nghi là Việt cộng nữa, vì chúng như trứng chấy rận, rồi sẽ lớn lên và trở thành kẻ thù nguy hiểm.
+</p><h4>“Trở về với thế giới”
+</h4><p>Thỉnh thoảng, ngay trong quân đội đã xuất hiện tiếng rì rầm lo sợ hoặc trạng thái tuyệt vọng. Hình như những người lính trẻ đã nghĩ và hi vọng rằng tôi, với tư cách là một bác sĩ có thể có chút ảnh hưởng đối với các nhà lãnh đạo chính trị ở quê nhà trong việc đưa họ trở về nhà sớm hơn. Có lẽ vì tôi là một bác sĩ nên một số quân nhân trông chờ ở nơi tôi nhiều hơn là đối với sĩ quan chỉ huy của họ. Rất bất ngờ, một binh sĩ giãi bày với tôi cảm giác và nỗi sợ hãi của anh ta. Một số quân nhân cố tìm cách làm cho tôi nghe họ nói và giúp họ “trở về với thế giới” - là cách ám chỉ trở về nước Mỹ - càng nhanh càng tốt.
+</p><p> Trong một cuộc viếng thăm quân nhân Mỹ, tôi nghe một lính thủy quân lục chiến trẻ buột miệng: “Mẹ kiếp!
+ 
+
+Một em bé ở Quảng Trị bị mảnh bom làm hỏng mắt nhưng không làm mất được nụ cười của em - Ảnh tư liệu
+ Chúng ta đang thua trận. Mọi thứ đều là đồ chết tiệt. Chúng ta đi hành quân và cố tìm diệt kẻ địch, nhưng không biết kẻ thù của mình ở đâu. Nếu chúng ta chạm trán ngay bây giờ, trận chiến sẽ kết thúc nhanh vì họ đang ở thế thượng phong và chủ động, họ sẽ tấn công chúng ta tả tơi”. Một người lính trẻ khác nói với tôi: “Này bác sĩ! Hãy nói với công chúng là chiến tranh đang hồi bế tắc và không còn lý do biện minh nữa. Các sĩ quan chỉ huy không còn dẫn dắt chúng tôi ra trận, họ cũng không đi theo chúng tôi nữa. Họ sợ bị bắn hoặc hứng chịu mảnh bom đạn, nhưng họ cứ ra lệnh buộc chúng tôi phải ra mặt trận. Chúng tôi nhận lệnh phải đi tuần tra và sẽ chết như ruồi muỗi ấy”.
+</p><p>Là một cựu binh thủy quân lục chiến, khi nghe những lời này từ những quân nhân Mỹ trẻ tuổi hoặc từ những chàng trai thủy quân lục chiến, tôi cảm thấy thật thảm thương và buồn xé ruột. Nhận định của những quân nhân này nhắc nhở tôi hãy đừng hậu thuẫn với chính quyền Mỹ trong việc tiếp tục dính líu vào chiến tranh VN.
+</p>
+														<h3> K ỳ 3: Cuộc hành quân “Ánh cầu vồng”
+ 
+
+</h3>
+														<p> <img border="0" src="https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/SACHNGOAI/Hinhanh/bangca.jpg" align="right" hspace="10" alt="Cảnh thường dân bị thương được chuyển bằng cáng đến Bệnh viện tỉnh Quảng Trị năm 1968">
+														<i>Thời gian trôi đi. Tôi không có nhiều thời gian để suy nghĩ về những thảm kịch mà mình đã trông thấy, hoặc âu lo về những người mà mình sẽ chữa trị trong ngày. Mỗi sáng, tôi lại thả bộ đến bệnh viện. Và thường là ngay khi đến bệnh viện, tôi đã bị ngập đầu vào công việc. Thế nhưng mọi chuyện đổi khác sau một cuộc ném bom rải thảm trong cuộc hành quân có mật danh là “Ánh cầu vồng”</i>. 
+</p><h4>&nbsp;</h4>
+														<h4>Tiếng kêu khóc của dân chúng
+</h4><p>Ở Quảng Trị, chúng tôi từng nghe có những quả bom nặng được máy bay ném bom B-52 thả xuống và nổ ở khoảng cách khá xa - chừng 16km - làm rung chuyển mặt đất dưới chân chúng tôi. 
+</p><p>Căn cứ quân sự ở Khe Sanh bị tấn công, để trả đũa, những quả bom khổng lồ được thả xuống mỗi ngày. Âm thanh và sức mạnh của tiếng nổ làm rung chuyển cả núi đồi và thung lũng. Khi mặt đất rung chuyển, hầu như tôi nghe thấy trong đó tiếng kêu khóc của dân chúng vang vọng trên khắp các nẻo đường Quảng Trị. Chúng tôi thiếu người trợ giúp ở bệnh viện. Tất cả bác sĩ quân y, các kỹ thuật viên vốn thường có thể giúp một tay chữa trị cho dân thường, cùng hầu hết y tá hải quân đều nhận lệnh ra trận tuyến chăm sóc thương binh.
+</p><p>Sau cuộc tấn công bất ngờ bằng bom, hàng đoàn thường dân, trong đó có rất nhiều trẻ em bị thương sắp lớp tại bệnh viện. Tôi là bác sĩ duy nhất lúc đó tại tỉnh Quảng Trị và những người bị thương không còn nơi nào khác để xin cứu chữa ngoài chỗ này. Những trẻ em đến đây phần lớn bị thương vì mảnh bom và nhiều em đã chết trên tay tôi. Những người bị thương nặng qua tay tôi được xử lý nhanh như hình ảnh trôi qua màn hình rađa. Tôi phải làm việc thật nhanh và chỉ được một y tá hải quân duy nhất trợ giúp. Ngay khi anh ta cưa chân các cháu bé và chăm sóc vết thương cho các cháu, tôi lao vào phẫu thuật hết ca này đến ca khác cho các bệnh nhân đang chờ tiếp theo.
+ 
+
+Bác sĩ Allen Hassan
+Bệnh viện trở nên quá tải và chúng tôi phải dùng đến tất cả những cơ sở tạm thời. Đó là hai lều rạp lớn ngoài sân bệnh viện. Điều kiện vệ sinh vì thế càng tệ hại hơn vì những phòng bệnh tạm thời trong lều rạp gồm những chiếc giường sắp thành hàng trên nền đất bẩn. Bệnh nhân cũng như các thành viên trong gia đình họ và những người đến thăm viếng đã tiêu tiểu ngay phía cuối các dãy giường. Một số người đến sau đã đào rãnh cho chất thải chảy vào con suối dẫn ra sông, nhưng chẳng bao lâu các chất cặn bã lại tích dồn thành đống.
+</p><p>Sau mấy ngày làm việc cật lực, số bệnh nhân vẫn tràn ngập bệnh viện. Tôi nằm trên giường nhưng không thể ngủ được. Có quá nhiều thường dân vô tội bị thương. Người già, phụ nữ, trẻ em, những nạn nhân vô tội của các vụ ném bom ồ ạt, tàn nhẫn của Mỹ. Suy tưởng về tất cả những nạn nhân chết và bị thương làm tôi xúc động sâu sắc, âm thầm, lặng lẽ khóc một mình vào những giờ sáng sớm.</p>
+														<p>
+														<img border="0" src="https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/SACHNGOAI/Hinhanh/PEOPLE/BSHassan3.jpg" align="left" hspace="10" alt="Bác sĩ Allen Hassan ">
+</p><h4>Lời thề của tôi
+</h4><p>Có một ca mà tôi không thể nào quên được là trường hợp của một bé trai 8 tuổi tên Thắng. Em bị trúng mảnh bom ở bụng, vùng chậu, chân, tay và nhiều nơi khác trên thân thể. Thắng đã ẩn náu dưới một cái mương với những vết thương như thế trong hai ngày trước khi được chở đến bệnh viện chúng tôi. Mẹ Thắng và nhiều thân nhân khác cùng theo em đến bệnh viện.
+</p><p>Mẹ của Thắng ở lại với em cả ngày lẫn đêm. Sau này tôi mới biết bà mẹ này đã mất ba đứa con khác gần Cam Lộ. Thắng là đứa con duy nhất còn lại nên bà mẹ đau khổ này hết sức mong muốn cứu mạng con mình. Tôi có linh cảm nếu như cậu bé chết thì bà mẹ cũng sẽ chết theo. 
+</p><p>Khi nhập viện, Thắng đang bị sốt cao. Mặc dù bị nhiều thương tích như thế, em vẫn nở được nụ cười yếu ớt khi trông thấy tôi. Đôi mắt nâu của em ánh lên niềm hi vọng. Không một chút do dự, tôi tiến hành ngay thủ thuật cắt khí quản vì một trong những nguyên nhân gây đột tử thông thường nhất là do không thể thở được. Khi chúng tôi cởi quần áo và đặt em nằm trên bàn, dạ dày của em cứng như đá. Chúng tôi đặt ống mút dạ dày thông qua mũi và một ống dẫn nước tiểu vào bọng đái của em.
+</p><p>Khi tôi mổ, bụng của em đầy mủ. Tôi giội rửa thông qua màng bụng, dùng mọi loại thuốc kháng sinh trong khi rửa các vết thương và những túi mủ. Những mảnh bom, mảnh thịt rơi vãi trong bụng, quanh động mạch chủ và găm vào gan. 
+</p><p>Tôi phải thật thận trọng khi gắp những thứ “rác rưởi” này. Cậu bé bị nhiễm trùng máu nhưng may mắn là những chỉ số của sự sống còn rất mạnh. Thân nhiệt ở mức 39,5 OC là một dấu hiệu tốt, chứng tỏ cơ thể của em vẫn đang đề kháng. 
+</p><p>Để những mảnh bom vừa gắp ra vào một chỗ, tôi cắt bỏ một khúc ruột, lấy đi mô chết rồi đóng vết thương. Nhiều đoạn mô ruột quanh đường đi của mảnh bom đã chết và những mô chết này cần phải được cắt bỏ. 
+</p><p>Chúng tôi tiếp tục chăm sóc, ưu ái Thắng với nhiều hi vọng. Đến ngày thứ ba, tôi phẫu thuật lần nữa. Thắng vẫn còn bị xuất huyết mà tôi không tìm được nguyên nhân. Nụ cười của cậu bé yếu ớt hơn. 
+</p><p>Mẹ cậu trở nên mê sảng vì buồn đau và tức giận. Tôi biết hi vọng sống sót của Thắng đang chầm chậm trôi qua. Đôi mắt của cậu bé mê dại đi. Đột nhiên, cậu bé thải ra nửa lít máu đặc sền sệt từ trực tràng. Rồi tia sáng hi vọng từ ánh mắt của cậu tắt hẳn. Cậu bé đã chết trên tay tôi sau tổng cộng 12 giờ phẫu thuật mệt lử.
+ 
+
+</p>
+														<p><img border="0" src="https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/SACHNGOAI/Hinhanh/haichacon.jpg" hspace="10" alt="Hai cha con cùng bị thương tích, áo quần đẫm máu - Ảnh: Vietnam Bilder eines Krieges (Đức)">Sau này, người ta mới cho tôi biết biểu hiện như thế - được xem là “xì hơi” - là một hiện tượng thông thường ở Việt Nam vì không một sự chia buồn, an ủi nào có thể làm giảm nhẹ nỗi thống khổ, sự đau lòng xé ruột xé gan của bà mẹ mất con. Nhưng cũng vào cuối ngày hôm đó, bà mẹ đã trở lại bệnh viện. Bà giúp chăm sóc những người sống sót, những người bị thương nằm trong bệnh viện. Đôi mắt bà trông xa vắng, vô hồn. 
+</p><p>Đối với tôi, đêm hôm đó là một đêm đặc biệt. Tôi lên giường với trạng thái buồn bã và mệt lử. Tôi đã làm hết sức mình. Tôi không cho ai biết rằng tôi đã khóc như một đứa bé. Tôi là một bác sĩ phẫu thuật và tôi không thể để những sự việc như thế tác động đến mình. Nhưng tôi đã không làm được. Đây không phải là lần đầu tiên ở Quảng Trị tôi khóc trong đớn đau và mệt mỏi khi lên giường ngủ.
+</p><p>Thảm kịch thương vong không ngừng của trẻ em đã tác động mạnh đến tôi khiến tôi bị trầm cảm. Tuy thế, tôi vẫn không gột rửa được hình ảnh của đứa bé can đảm đó khỏi trí óc mình. Cái đêm cậu ta chết, tôi hình dung cảnh cậu bé nằm một mình dưới mương trong hai ngày đêm với những mảnh bom đạn trong bụng. 
+</p><p>Vậy mà cậu bé vẫn mỉm cười yếu ớt với tôi khi nhập viện. Tôi đã nhìn vào mắt cậu và cảm nhận vẻ thiết tha yêu cuộc sống trong con người cậu bé. Tôi đã làm mọi cách nhưng không thể cứu mạng cậu. Nhớ đến cảnh cậu bé chết ngay trên tay mình, tôi thề sẽ cố gắng làm mọi cách cho thế giới này tốt hơn, làm mọi thứ để cổ xúy cho hòa bình, chống chiến tranh. 
+</p><p>Đêm đó trong hầm trú ẩn tôi đã tự thề, một lời thề dành cho trẻ em trên toàn thế giới giống như Thắng. Lời thề đó là: “Không bao giờ cho phép lặp lại điều này nữa!”. Trong nhiều năm sau này, khi hồi tưởng lại cái đêm hôm đó, tôi tự nguyện là dù phải sống bất kỳ cuộc sống như thế nào và ở bất cứ nơi đâu, tôi cũng sẽ cố gắng tác động một cách có ý nghĩa lên mọi biến cố.
+</p>
+														
+														<h3>Kỳ 4: Vụ thảm sát tại Quảng Trị
+</h3><p> 
+ 
+
+<i>Một buổi chiều gần cuối tháng 5-1968, tôi đang làm việc tại bệnh viện thì nghe thấy âm thanh quen thuộc whack-whack-whack của chiếc trực thăng tải thương bay ở tầm thấp. Một chiếc trực thăng của lục quân hoặc không quân đang hạ cánh xuống sân cỏ của bệnh viện tỉnh Quảng Trị. 
+</i> 
+</p><h4>
+Những đứa trẻ bị bắn vào đầu
+</h4><p>Ba phi công mặc đồng phục vội vã khiêng một chiếc cáng vào hội trường bệnh viện. Trên cáng chất đầy trẻ em. Các cháu có vẻ sạch sẽ, như thể vừa mới được tắm rửa sáng hôm đó. 
+														<img border="0" src="https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/SACHNGOAI/Hinhanh/thamsatQT.jpg" width="282" height="365" align="right" hspace="10" vspace="8"></p><p>Tôi đứng nhìn các viên phi công khiêng ba hoặc bốn bé chất đống trên cáng xuống, rồi trở ra trực thăng khiêng tiếp. Tôi và các y tá điếng người khi các viên phi công liên tục mang thêm vào bệnh viện hết cáng này đến cáng khác. Tôi chú ý đến những bàn tay ủ rũ dọc theo thành cáng. Những bàn tay đu đưa này như muốn đặt câu hỏi: “Tại sao? Tại sao lại là cháu? Cháu đã làm gì sai nào?”. Không một lời nào, những phi công đặt nạn nhân bé tí cuối cùng xuống nền nhà. “Chúng nó đấy, bác sĩ!”, cuối cùng, một người lên tiếng. Không ai nói thêm một lời nào khác. Rồi chiếc trực thăng cất cánh, mất hút về phía bìa rừng.
+ 
+</p><p>Từng hàng, từng hàng những thân thể đầy thương tích, có lẽ lên đến chừng 40 trẻ em VN từ tuổi còn ẵm ngửa đến khoảng 5 tuổi. Các bé đều có đeo dải băng trên cánh tay và một số các cháu đã chết hẳn. Những cháu còn sống đang cố nhúc nhích chân tay. Ngay lập tức, tôi cố gắng cứu chữa các cháu còn sống. Mỗi một bé trai, bé gái đều bị một viên đạn xuyên qua đầu với vết thương là một lỗ tròn, nhỏ nhưng không thể chữa trị. Máu rỉ ra từ lỗ vết thương trên đầu các cháu. Những đứa trẻ này rõ ràng đã bị bắn ở đầu, kiểu như bị hành hình.
+</p><p>Đây là bệnh viện của tôi. Tôi là bác sĩ duy nhất. Và những em bé này đang chết. Tôi kêu đem Gelfoam, một chất dùng ngăn máu chảy ở phòng cấp cứu. Tôi cố liều nhét đầy Gelfoam vào các lỗ vết thương cho dù đã cảm thấy hoàn toàn vô vọng. Tất cả các bé đều đang chết, không một cháu nào có thể sống sót. Tôi nhận thức điều đó chỉ sau ít phút cố thử cứu chữa. Hai y tá VN bắt đầu quấn chăn cho những cháu đã chết rồi khiêng thi thể các cháu ra khỏi hội trường. Tôi đã trải nghiệm những giây phút hết sức đau lòng, những giây phút mà người bác sĩ cảm nhận sau khi đã dùng hết khả năng của mình mà bệnh nhân vẫn ra đi. Không một lời cảnh báo, tôi đã mất một lần đến 40 sinh mạng.
+</p><p>Tôi chú ý đến những dải băng trên cánh tay các cháu bé. Tôi bị sốc thật sự. Dải băng plastic có dòng chữ: “Thủy quân lục chiến Mỹ thẩm vấn”. Tôi từng là một quân nhân thủy quân lục chiến và từng tự hào về tính cách binh chủng của mình. Nhưng trong khoảnh khắc đó, tôi không còn tự hào là một người lính thủy quân lục chiến nữa. Không ai trong lực lượng thủy quân lục chiến có thể thẩm vấn những trẻ em như thế, nhưng một số người nào đó đã vây bắt các cháu rồi tàn sát tất cả.
+</p><p>Tôi chưa bao giờ hoàn toàn mất bình tĩnh khi ở VN, nhưng lúc đó, toàn thân tôi rúng động. Cảm giác kinh tởm lan tỏa khắp cơ thể. Tôi có cảm giác như thể mình đang hứng chịu một trận đánh, như thể bom đạn đang đổ xuống mái nhà bệnh viện. Hình ảnh hàng chục thi thể trẻ em chết thảm thương ghi sâu vào tâm não tôi. Khi những đứa trẻ này chết một cách lặng lẽ, há hốc miệng ra thở rồi yếu ớt giãy giụa giã từ cuộc đời, hết bé này đến bé khác, tôi đã tự hỏi có thể nào chuộc được lỗi lầm cho một cuộc thảm sát ghê rợn như thế.
+</p><h3>“Vật cầm cố” cho bộ máy chiến tranh
+ 
+
+</h3>
+														<p>Bom Mỹ tạo ra một "trận động đất" với người dân Quảng Trị năm 1972. Ảnh: Vietnam Bilder eines Krieges (Đức)
+Những gì tôi chứng kiến tận mắt chiều hôm đó trong hội trường bệnh viện không phải là tình cờ, ngẫu nhiên. Những đứa bé không phải ngẫu nhiên bị thương vì bom rơi trên xóm làng của chúng. Cũng không phải do các cháu giẫm phải mìn. Một vài nơi xung quanh Quảng Trị, các quân nhân - có lẽ là thuộc thủy quân lục chiến Mỹ - đã bố ráp và bắt giữ những đứa trẻ này. Có thể họ đã giằng kéo các bé từ trong tay những người mẹ. Các em nhỏ chẳng có cách nào để đánh trả, chống cự và cũng chẳng thể hiểu việc gì đang xảy ra. Rồi các em bị giết, bị đập chết giống như những con gián vậy. Không hoàn toàn tin vào những gì mình thấy, tôi lấy kéo cắt hai băng tay trên thi thể các em rồi cho vào túi mình như là chứng cứ trước khi chuyển qua công việc khác.
+														<img border="0" src="https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/SACHNGOAI/Hinhanh/dongdat.jpg" width="400" height="304" alt="Bom Mỹ tạo ra một &quot;trận động đất&quot; với người dân Quảng Trị năm 1972. Ảnh: Vietnam Bilder eines Krieges (Đức)" align="left" hspace="10" vspace="8"></p><p>Dường như phải mất mấy ngày mới tẩy sạch máu của các cháu bé trên nền cẩm thạch và trên tường của hội trường. Trong những ngày tiếp theo, tôi vẫn còn nói với vài y tá hải quân là mình thật sự kinh hồn trước việc tàn sát điên rồ mà tôi đã thấy, và rằng tôi sẽ qui trách nhiệm cho người chỉ huy việc này. Lời nói của tôi như gióng lên tiếng chuông cảnh báo không xa. Tôi không biết đến vụ thảm sát Mỹ Lai đã diễn ra chỉ hai tháng trước đó, tại một nơi chỉ cách Quảng Trị khoảng 200km. Sự khốc liệt và dã man của chiến tranh đang tạo ra hàng đống những tội ác trên nhiều khu vực ở Nam VN.
+</p><p>Sau này, tôi hỏi hai y tá hải quân trực về việc xử lý thi thể các cháu. Tôi muốn biết nơi chôn cất các cháu. “Các y tá VN phụ trách việc đó” - họ trả lời. Tôi đã không bao giờ biết được nơi chôn cất các cháu vì tôi quá bận bịu trong ngày hôm ấy. Tôi nhớ là những ngày tiếp theo sau vụ thảm sát, không khí trong bệnh viện trở nên im lặng một cách kỳ quặc. Bệnh nhân ngưng sắp hàng ngoài cửa bệnh viện. Các y tá không báo cáo công việc. Bệnh viện yên ắng một cách bất thường. Hầu như không một ai nói chuyện với tôi</p>
+														<p>. <img border="0" src="https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/SACHNGOAI/Hinhanh/kemgai.jpg" alt="Trẻ em VN sau hàng rào kẽm gai của một trại tập trung sau trận càn của lính Mỹ. Ảnh: Vietnam Bilder eines Krieges (Đức) " align="middle" hspace="10" vspace="10"></p><p>Tôi cảm thấy đau khổ và đơn độc vô cùng, như thể tôi đang rơi vào tình huống bất lực do hồi ức về sự tàn nhẫn mà tôi đã chứng kiến. Tôi bắt đầu có cảm giác là mình đang bị khai thác, bóc lột. Tôi cảm thấy mình giống như một vật cầm cố cho bộ máy chiến tranh của Mỹ, một trò giải trí về quan hệ công chúng nhằm làm cho hình ảnh quân nhân của chúng tôi trông đẹp đẽ hơn đối với người VN, cũng như đối với công luận ở Hoa Kỳ. Mặc dù tôi đã hăng hái tình nguyện và tôi biết mình đã giúp được nhiều người, cứu sống nhiều sinh mạng, nhưng tất cả niềm vui cùng sự hưng phấn giúp đỡ VN nay không còn nữa. Giờ đây, thay vào tình cảm chứa chan mà tôi từng cảm nhận, bao phủ lấy tôi chỉ còn là nỗi ân hận, buồn chán và căm ghét.
+</p><p>Cảnh tượng hàng chục em bé bị hành quyết ấy mãi mãi in sâu trong tâm khảm tôi. Khi cháu bé cuối cùng lặng lẽ lìa đời, tôi tự nghĩ là sẽ không thể nào chuộc hết tội lỗi cho hành động vô nhân đạo này.
+</p>
+														<h3>Kỳ 5: “Hãy giữ mồm giữ miệng”
+ 
+
+</h3>
+														<p>TT – Một buổi tối nọ, tôi thật sự sửng sốt khi có hai người hoàn toàn xa lạ đến “thăm viếng” nơi cư ngụ của mình. Họ có phong thái của những sĩ quan ở độ tuổi 23 hoặc 24. Sau đó, tôi nhận ra rằng chiến dịch Phượng hoàng của CIA không chỉ thiết lập những “trung tâm cải huấn” trên khắp lãnh thổ Nam VN, mà những người thực hiện chiến dịch Phượng hoàng còn thủ tiêu những ai mà họ xem là “có vấn đề” vào thời điểm đó, ngay cả việc thủ tiêu người Mỹ nếu xét thấy cần thiết.
+														<img border="0" src="https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/SACHNGOAI/Hinhanh/tratan.jpg" width="305" height="405" align="right" hspace="10" vspace="10" alt="Sự tàn bạo: cảnh tra tấn bằng cách nhấn nước - Ảnh: Vietnam Bilder eines Krieges (Đức) "></p>
+														<h4>Hai người lạ mặt
+</h4><p>Sau một hồi trò chuyện vặt, một trong hai người bắt đầu hỏi tôi một số câu có tính dò dẫm: “Bác sĩ! Chúng tôi nghe là ông đang có một số vấn đề ở đây. Một số vụ việc khiến ông đang lo buồn phải không?”. Tôi cảm thấy như mình đang bị thẩm vấn. Bản năng tự vệ nổi dậy. “Tôi là một cựu quân nhân thủy quân lục chiến - Tôi giận dữ trả lời - Và tôi biết rất rõ những người lính thủy quân lục chiến đang đối diện với cái chết trên khắp chiến trường Quảng Trị. Họ đang chết như ruồi nhặng trong cuộc chiến chết tiệt này mà chẳng có lấy một nguyên nhân nào cả. Đây là một cuộc chiến tàn bạo, vô nghĩa, nhưng nếu như có ai đó bị lãnh đạn một lúc nào đó, hoặc những thường dân vô tội bị trúng đạn, đó chỉ là một phần của cái giá vô lý mà chúng ta phải trả khi hiện diện ở VN”. 
+</p><p>
+Trong đêm, đạn pháo cối nổ chẳng xa hầm trú ẩn của tôi là mấy. Đến sáng, họ mặc lại quân phục, lặng lẽ nai nịt gọn gàng cùng khẩu súng ngắn Colt 45 đeo nơi dây nịt gắn đầy lựu đạn. Trước khi giã từ, một người đến gần tôi, tay chỉ vào mặt tôi, ngón cái và ngón trỏ ghép lại như hình khẩu súng ngắn, đe đe cách mặt tôi chừng hơn một phân. “Tối qua ông bạn suýt chết đấy!”, anh ta nói. “Ô! Anh muốn ám chỉ các viên đạn súng cối ấy à?”, tôi hỏi. “Không phải những viên đạn súng cối - Giọng anh ta trở nên lạnh lùng và gằn từng chữ - Và vẫn còn sự chọn lựa cho ông. Chúng tôi đang theo dõi ông về những câu chuyện vô bổ hoặc bất cứ thứ gì đáng ngờ khác”. Rồi họ ra đi. 
+ 
+</p><p>
+<img border="0" src="https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/SACHNGOAI/Hinhanh/PEOPLE/BSHassan1.jpg" width="219" height="287" alt="Bác sĩ Allen Hassan" align="left" hspace="10" vspace="10">Dĩ nhiên là sự nghi ngờ trong tôi tăng lên. Sau cuộc viếng thăm của hai kẻ lạ mặt với lời cảnh báo úp mở là “hãy giữ mồm giữ miệng”, tôi tin chắc mình đang bị theo dõi. Tôi e rằng nếu như mình nói về những hành động tàn nhẫn mà mình đã chứng kiến vài ngày trước đây, thì tôi sẽ dễ dàng bị dẫn đến một nơi hẻo lánh nào đó và bị bắn vào sau sọ theo kiểu bị hành hình giống như trường hợp các cháu bé đã bị sát hại. 
+</p><p>Một trong những quân nhân có nhiều huy chương nhất trong lịch sử quân đội Mỹ là đại tá David Hackworth, người từng ở VN bốn năm. Vì chán ngấy chiến lược cùng những tổn thất nặng nề của Mỹ nên đại tá David Hackworth đã chống đối và công khai trước các phương tiện truyền thông đại chúng về những thất vọng này. Sự kiện này khiến ông trở thành “người không được chấp thuận” trong quân đội Mỹ. Trong tự truyện About Face, đại tá Hackworth kể lại một sự cố khiến ông giật thót mình trong ngày rời VN.
+
+</p>
+<p>
+Hôm ấy, khi kiểm tra xe cộ như thường lệ, ông phát hiện một quả lựu đạn đặt ngay bên dưới ghế ngồi phía trước của chiếc Jeep. Chốt cài lựu đạn đã được tháo ra. Quả lựu đạn được chêm và chỉ cần xe nhún lên nhún xuống ở mức nhẹ nhất là nó sẽ phát nổ ngay lập tức. Ông đã may mắn. Những sự cố kiểu này - người sĩ quan bị ngay chính “người của mình” sát hại như thế - không phải là điều hiếm thấy trong “thế giới ác mộng” ở VN. Và đại tá Hackworth đã viết là sự vượt quá giới hạn của CIA ở các nước thuộc Thế giới thứ ba sau Thế chiến thứ II đã “cạnh tranh” được với những gì mà Đức quốc xã đã làm vào thời điểm cực thịnh của họ.
+</p>
+<h4>
+Những quân nhân không thể trở về
+</h4>
+<p>
+Vài ngày sau cuộc “thẩm vấn” ở hầm trú ẩn, một trung sĩ thủy quân lục chiến mà tôi quen biết vào bệnh viện và nói với tôi: “Này bác sĩ Hassan, ông có thích cùng tôi đi vài kilômet về phía bắc để khám bệnh cho lính thủy quân lục chiến bị thương không? Tất cả đều trong tình trạng khá xấu. Họ có thể được nâng tinh thần lên với những người như ông”. 
+</p>
+<p>
+Đông Hà nằm cách vùng phi quân sự - biên giới giữa Bắc và Nam VN - chừng 12 km. Mặc dù biết đề nghị của viên trung sĩ là khá nguy hiểm nhưng tôi không từ chối. Đó là một ngày nắng chói chang. Khi xe chạy gần đến Đông Hà, những thứ tôi thấy trước tiên ở trại lính là ba chiếc lều bạt lớn và một bảng hiệu ghi “Tổng hành dinh miền của quân đội Mỹ”. Khi viên trung sĩ dẫn tôi vào căn lều trại thứ nhất, tôi thấy nhiều người bị thương nặng nằm bên trong. 
+</p>
+<p>
+Ít nhất 200 lính thủy quân lục chiến bị thương nặng nằm trên những dãy giường được xếp ngăn nắp, gọn gàng. Đi xuyên qua trại, rồi từ trại này qua một trại kế tiếp, tôi thật sự kinh hoàng. Hầu hết thương binh đều bị cụt tay, cụt chân, và cũng giống như những công dân của Hợp chủng quốc Hoa Kỳ, họ gồm nhiều chủng tộc, sắc dân. Tôi bước qua từng hàng thương binh bị cụt cả tay lẫn chân.
+</p>
+<p>
+“Chúng ta có thể làm điều gì đó tốt hơn nhiều cho những thương binh này nếu như chúng ta nhanh chóng đưa họ về nước”, tôi khẩn thiết nói và cảm thấy rất cần một sự chăm sóc y tế khẩn cấp cho cảnh tượng kinh khủng mà tôi đang chứng kiến. Những người y tá quân y im lặng lắng nghe. “Chúng ta không thể đưa những thương binh này về nước được, thưa bác sĩ - Một nhân viên cứu thương trẻ nói - Chúng ta không thể chở họ trở về Mỹ, trừ khi họ nằm trong túi đựng tử thi để không ai nhìn thấy họ”.
+
+</p>
+<p>
+“Cái gì? Tại sao?”. “Tình trạng của họ quá phản cảm - Một nhân viên cứu thương khác giải thích - Người ta sẽ phải ngưng cuộc chiến này ngay giây phút trông thấy cận cảnh tấn thảm kịch thực tế này. Ngay khi chiếc Medevac hạ cánh xuống lãnh thổ Hoa Kỳ và mọi người nhìn thấy những thương binh như thế, họ sẽ bạo loạn và đòi cuộc chiến phải chấm dứt”.
+<img border="0" src="https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/SACHNGOAI/Hinhanh/apchienluoc.jpg" width="268" height="354" align="left" hspace="10" vspace="10" alt="Sau khi phá hủy các ngôi làng, lính Mỹ lùa người dân vào “ấp chiến lược” Ảnh: Vietnam Bilder eines Krieges (Đức) "></p>
+<p>
+Đối với tôi vào thời điểm đó thì việc di tản những thương binh này là việc cần làm. Tôi nhắc lại một lần nữa là tối thiểu, những thương binh nặng này cần được chết tại quê nhà. Một y tá hải quân khác nghe cuộc đối thoại của chúng tôi và tham gia: “Bác sĩ nói đùa à? Chúng ta đã nhận lệnh. Chúng ta không thể đưa những thương binh này về nước. 
+</p>
+<p>
+Chúng ta cần chiến đấu và chiến thắng cuộc chiến tranh này, ông quên điều đó sao? Không thể để họ phơi bày sự thật với thế giới bên ngoài”. Sau cuộc trao đổi này, tôi đi ngang qua các thương binh nặng trong lều trại cuối cùng, cố gắng nói chuyện và động viên họ. Tôi chỉ nhận được có tiếng lầm bầm hoặc vài ánh mắt động đậy như là câu trả lời của họ.
+</p>
+<p>
+Một y tá trẻ với vẻ mặt khá phiền muộn đang dọn dẹp các bô trong lều trại khi tôi đi qua. “Anh đã ở đây bao lâu rồi?”, tôi hỏi người y tá. “Tôi ở Đông Hà đã gần một năm, thưa bác sĩ - Anh ta đáp - Nhưng có lẽ tôi sẽ không thể trở về nhà, cũng giống như những bệnh nhân này thôi. Có lẽ đời tôi sắp kết thúc”. Nghe những lời bi quan của anh chàng này, tôi nhận ra anh ta đang ở trong tình trạng “sắp trở về”, tức là những quân nhân sắp đến hạn kỳ được xuất ngũ và trở về nước. 
+</p>
+<p>
+Người y tá này đang trải qua cái gọi là “hội chứng 30 ngày”: càng gần đến ngày được trở về nước bao nhiêu thì các chiến binh càng sợ chết bấy nhiêu. Được trở về nhà là một giấc mơ mà họ thiết tha mong đợi. Tôi tự hỏi phải chăng việc đưa tôi đến trại thương binh này là một sự sắp đặt của những kẻ lạ mặt đã đến căn hầm trú ẩn của tôi mấy ngày trước đó. Nếu đúng thế thì thông điệp đã khá rõ ràng: ngay cả những thương binh cũng không được phép làm gián đoạn cuộc chiến. 
+
+ 
+</p>
+														
+<h3>
+Kỳ cuối : “Toi rat sin loi”
+
+
+</h3>
+<p> 
+Một người mẹ đang tìm cách bảo vệ con mình trong trận càn của lính Mỹ  Ảnh: Vietnam Bilder eines Krieges (Đức)
+ </p>
+<p>
+TT - Tôi rời Bệnh viện tỉnh Quảng Trị vào ngày 4-7-1968. Tôi cứ mãi suy nghĩ về những con người tàn ác, những ký ức khủng khiếp và những điều tàn khốc, vô nhân đạo mà mình đã chứng kiến ở VN. Cảm giác của tôi khi trở về đời sống dân sự là: đừng có cố thuyết phục tôi chấp nhận những việc không đúng sự thật; đừng có kể cho tôi nghe thế nào là cuộc chiến tranh anh hùng. 
+</p>
+<h4>
+
+Sau 30 năm, tôi vẫn còn mơ
+</h4>
+<p>
+Mặc dù tiếp tục thành công ở phòng mạch và văn phòng luật sư, nhưng tôi vẫn khổ sở với những cơn ác mộng triền miên về VN. Nhiều tháng, nhiều năm sau khi trở về Mỹ, giấc ngủ của tôi vẫn bị gián đoạn vì những hình ảnh hãi hùng. Qua nhiều năm, tôi đã tìm cách kể cho nhiều người biết về chuyện trẻ em bị tàn sát ở VN. Năm 1987, tôi gửi một bức thư cho Bộ Quốc phòng yêu cầu điều tra vụ việc. 
+</p>
+<p>
+Họ trả lời bằng một cuốn sách mỏng cho biết điều luật của quân đội không cho phép một việc tàn bạo với trẻ em như thế. Năm 1989, tôi viết thư cho tướng Colin Powell - chủ tịch hội đồng tham mưu liên quân - và ông ta cũng chẳng thể giúp đỡ gì hơn. 
+</p>
+<p>
+Tướng Powell cho một thuộc cấp viết thư trả lời, đề nghị tôi cung cấp thêm thông tin về vụ thảm sát cho cơ quan thanh tra của binh chủng thủy quân lục chiến ở Washington D.C. Năm 1990, chính tôi lại bị phòng an ninh hải quân điều tra vì những cáo giác của mình. Năm 1991, tôi viết thư cho thượng nghị sĩ John McCain, người chuyển tiếp một báo cáo của an ninh hải quân với nội dung là không có chứng cứ về một vụ thảm sát trẻ em như tôi chứng kiến. Mỗi cơ quan chức năng có liên quan - nơi có thể biết được vụ thảm sát - đều không có hồ sơ lưu trữ về vụ việc, hoặc phủ nhận là không bao giờ có sự việc như vậy xảy ra.
+</p>
+<p>
+Nhiều năm sau khi từ VN trở về, những ký ức và những giấc mơ thỉnh thoảng lại xen vào cuộc sống. Tôi tự hỏi phải chăng cuộc hôn nhân của tôi sẽ không tan vỡ nếu như tôi không có những cơn tỉnh giấc vào lúc nửa đêm, toàn thân ướt đẫm mồ hôi, kinh hãi với những hình ảnh quằn quại đang chết dần của các em bé. 
+</p>
+<p>
+<img border="0" src="https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/SACHNGOAI/Hinhanh/baovecon.jpg" width="305" height="405" align="left" hspace="10" vspace="10" alt="Một người mẹ đang tìm cách bảo vệ con mình trong trận càn của lính Mỹ  Ảnh: Vietnam Bilder eines Krieges (Đức)">Sau 30 năm, tôi vẫn còn nằm mơ thấy mình đang nâng cánh tay rũ rượi của một cháu bé bị bắn một phát đạn ngay vào đầu, đang đọc dòng chữ rõ nét trên dải băng tay “Thủy quân lục chiến Mỹ thẩm vấn”. Tôi không thể lay chuyển ký ức về một hội trường bệnh viện vấy đầy máu, về những điều kinh hoàng và về những cú sốc từ tất cả những gì mình đã chứng kiến...
+</p>
+<h4>
+ 
+
+“Tòa án lương tâm”
+
+
+ </h4>
+<p>
+Nhân dịp bản tiếng Việt của cuốn hồi ký Không thể chuộc lỗi ra mắt độc giả VN, bác sĩ người Mỹ Allen Hassan đã có lá thư gửi tới người dân VN: 
+</p>
+<p>
+“Xin chào những người dân VN,
+</p>
+<p>
+Hôm nay tôi trở lại VN - trở lại với dân tộc mà tôi hằng yêu mến. Trong hai năm 1968-1969, tôi là bác sĩ công tác tại Quảng Trị và một số tỉnh thành khác thuộc miền Nam VN lúc bấy giờ. 
+</p>
+<p>
+Trước khi đến VN, tôi đã không biết tí gì về cái giá nhân mạng phải trả cho cuộc chiến. Là một binh sĩ thủy quân lục chiến trẻ vừa mới rời ghế nhà trường, tôi vô cùng tự hào khi được phục vụ đất nước vĩ đại của mình với những lý tưởng tốt đẹp nhất. 
+</p>
+<p>
+Tôi đã không hiểu về hậu quả kinh hoàng của chiến tranh cho đến khi tôi cùng những đồng nghiệp y tá người Việt vật lộn với tử thần, nỗ lực giành lại sự sống cho phụ nữ, trẻ em và những người già tại VN. Tôi luôn bị ám ảnh trong đầu mình hình ảnh những nạn nhân vô tội này, chết có, bị thương có, những người đã mất mát và bị hủy hoại cuộc đời mình trong chiến tranh. Đây chính là cái giá quá đắt và không thể nào chịu đựng được.
+</p>
+<p>
+Mặc dù đã trông thấy khá nhiều cảnh bi thảm ở đất nước này, nhưng tôi thật sự may mắn khi được đến VN. Và số tôi thật sự may mắn khi được biến cải cuộc đời mình từ một tay được đào tạo bắn giết, một lính thủy quân lục chiến trẻ, trở thành một người theo chủ nghĩa nhân văn và hòa bình - một người được tiếng Việt gọi là “bác sĩ”. Và số tôi cũng thật may mắn khi có thể biến cải cuộc đời mình để nuôi dưỡng và phát triển một triết lý vốn đã ăn sâu vào tâm khảm - triết lý chống lại tất cả các cuộc chiến hung bạo. Chính vì những gì tôi đã chứng kiến tại đây, tại đất nước VN này, mà tôi đã trở thành một người yêu chuộng hòa bình.
+</p>
+<p>
+Chúng ta đã thiết lập một tòa án công lý quốc tế nhưng ít khi sử dụng. Chúng ta phải sử dụng tòa án của lương tâm.
+</p>
+<p>
+Như tôi đã viết trong cuốn sách này - Không thể chuộc lỗi - việc cần kíp và quan trọng nhất đối với sự sinh tồn của chúng ta trong thế giới đang biến đổi này chính là việc chúng ta nên chú ý, quan tâm đến những người nghèo khổ, những người bị tước quyền công dân và những người đang chết đói ở tất cả những quốc gia trên khắp thế giới này. Nếu hàng xóm đang chết đói, chính tất cả chúng ta về mặt nào đó cũng đang chết đói theo. Chúng ta phải tìm cách để giúp đỡ lẫn nhau. 
+</p>
+<p>
+Chỉ ở tuổi 32, người ái quốc vĩ đại của nước Mỹ là Thomas Jefferson đã viết trong Tuyên ngôn độc lập: “Tất cả mọi người sinh ra đều có quyền bình đẳng”. Tôi tin rằng nguyện ước của Thomas Jefferson là tất cả mọi người trên thế giới ai sinh ra cũng đều có quyền bình đẳng. Bình đẳng có nghĩa là tôn trọng nền văn hóa và những thành tựu của các nước và các nền văn minh khác. Bình đẳng nghĩa là chúng ta cam kết không còn gây chiến với bất cứ quốc gia nào trên thế giới. Và bình đẳng có nghĩa là khi một nước lớn áp đặt quan điểm của mình lên một nước khác, điều đó là sai. 
+</p>
+<p>
+<img border="0" src="https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/SACHNGOAI/Hinhanh/PEOPLE/BSHassan4.jpg" width="193" height="251" align="left" hspace="10" vspace="10" alt="Bác sĩ Allen Hassan ">Tôi muốn nói với các bạn, những người bạn VN thân yêu, một điều quan trọng. Các bạn đã là đồng bào của tôi ngay cả khi ở Mỹ chúng tôi gọi là cuộc chiến tranh VN. Và thật quan trọng với tôi khi tôi rũ bỏ được gánh nặng trong lòng mình để nói với các bạn một điều: “Toi rat sin loi” (viết bằng tiếng Việt nghĩa là: Tôi rất xin lỗi).
+</p>
+<p>
+Chúng ta phải phản đối những cuộc chiến tranh tàn bạo được sử dụng như một công cụ chính trị, đồng thời kêu gọi những người khác hành động tương tự chúng ta. Nếu cùng nhau đấu tranh vì sự hài hòa, chúng ta có thể mang đến cho thế giới này sự cao quí mà người Mỹ đã luôn biết rõ.
+</p>
+<p>
+Nhưng mãi cho đến nay, liệu đã có bao nhiêu người từ Mỹ trở lại VN để giúp xây dựng lại trường học, bệnh viện, đường sá? Thật đáng ngạc nhiên, những người này chính là một số cựu chiến binh Mỹ, những người đã chiến đấu trên mảnh đất này chống lại lực lượng mà lúc bấy giờ được gọi là Bắc Việt. Chúng ta đã chứng kiến cảnh chính những người lính mất bạn bè và đồng đội trong cuộc xung đột này trở lại VN để giúp tái thiết đất nước này.
+</p>
+<p>
+Những cựu chiến binh người Mỹ trở lại VN không có nguồn lực của chính phủ, nhưng họ có trái tim, có tấm lòng bao la như đất Mỹ. Những cựu binh này, cả nam lẫn nữ, đều giống như tôi đã trở lại đây bởi vì trong họ đã lớn lên tình yêu với người Việt. Chính những cựu binh trở lại này đã tạo cho tôi một niềm tin với nước Mỹ. Những phẩm chất của họ hoàn toàn đi ngược lại những quyết định mang hậu quả bi thảm mà những nhà lãnh đạo chúng tôi đã gây ra trong cuộc chiến tranh xâm lược với những nước khác, điển hình là Iraq và VN.
+</p>
+<p>Những cựu chiến binh đang trở lại này là đợt sóng đầu tiên khơi mào cho những gì mà tôi hi vọng một ngày nào đó sẽ trở thành một kế hoạch giúp đỡ với VN. 
+</p><p>&nbsp;
+Xin phép được nói lại lần nữa, hỡi những người bạn VN đáng yêu và thân thiết của tôi: Toi rat sin loi! 
+</p><p>&nbsp;
+Quả là một vinh dự lớn đối với tôi khi được trở lại VN.
+</p>
+Ngày 17-4-2007 
+
+Allen Hassan”
+														<p>(First News biên dịch)
+														</p>
+
+														
+														</td>
+			</tr>
+
+
+</tbody></table>
+								  
+</td> </tr>
+
+<tr> <td align="center" valign="top" height="3" bgcolor="#FEFEDA" background="../images/BGtopY.gif"> <center>  <a href="/index"><img src="https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/MuclucButton.gif"> </a>  </center></td></tr>
+
+
+<tr><td colspan="2"> 
+	<table border="2" cellspacing="0" id="bgcolor05" width="100%" topmargin="10" colspan="2"> 
+	<tbody><tr><td width="100%" bgcolor="White" align="left" valign="top" colspan="2">	
+<a href="/SACHNGOAI/Ydidwego_files/SNGOAIdir"></a><p class="trang"><a href="/SACHNGOAI/Ydidwego_files/SNGOAIdir">Trang Sách Nước Ngoài</a>
+					</p></td>
+	</tr></tbody></table>
+</td></tr>
+</tbody></table>
+
+
+
+
+
+</div>

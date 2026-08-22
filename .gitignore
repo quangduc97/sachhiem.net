@@ -1,0 +1,16 @@
+node_modules/
+dist/
+.astro/
+# Media cũ nằm ở Cloudflare R2 — không commit vào repo
+# (dùng /* để ngoại lệ bên dưới hoạt động)
+public/*
+# Ngoại lệ: file tĩnh cần thiết + CMS
+!public/favicon.ico
+!public/favicon.svg
+!public/CNAME
+!public/robots.txt
+!public/admin/
+!public/admin/**
+!public/uploads/
+!public/uploads/**
+.DS_Store

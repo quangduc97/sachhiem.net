@@ -1,0 +1,52 @@
+---
+layout: ../../../layouts/Article.astro
+title: "Vụ Án Đặng Văn Nhâm"
+author: "Minh Mẫn"
+source: "https://sachhiem.net/MINHMAN/Chinhtri/Minhman3.php"
+lang: vi
+wordCount: 2157
+image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nha.jpg"
+---
+
+<table border="0" align="center" cellpadding="1" width="250"><tbody><tr>
+	<td width="110"><a href="https://www.sachhiem.net/">
+	<img border="0" src="https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/nha.jpg"></a></td>
+	<td valign="top" style="text-align:right"> 5&nbsp; tháng 8, 2007
+	</td></tr></tbody></table>
+<p><b><font face="Vivaldi" size="6">T</font></b>rên đất nước Hoa Kỳ,việc tố tụng xẩy ra như cơm bữa, nhưng ít có  những vụ liên can đến tôn giáo, để người ta phải quan tâm! vì thế, vụ các đấng chủ chăn lạm dụng tình dục, khuấy rối tình dục, cho đến vụ Đặng văn Nhâm bôi lọ tu sĩ PG mà từ lâu PG vẫn xem đó là chuyện thị phi, chả ai quan tâm và chả cần phải thanh minh, vì thế họ Đặng, người cầm bút đánh mất lương tri và danh dự nghiệp vụ, càng lún sâu vào ác nghiệp, đến khi quả báo đến, một sự phản kháng của giới liễu yếu đào tơ, đã làm Đặng Văn Nhâm gục mặt trốn chạy.
+
+</p><p><img border="0" src="https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/Hinh/dvn.jpg" width="120" height="151" align="left" hspace="15">Vụ án số 2006 -71920 tại Tòa Án Tư Pháp Sơ- Thẩm, Hạt Harris,Texas đã mở phiên xử bị cáo khiếm diện Đặng Văn Nhâm, do nguyên cáo đứng đơn tên: Trương Thùy Trúc, nạn nhân của vụ mạ lỵ, một trong những nạn nhân PG xuyên suốt ba tập “Giặc Thầy Chùa” của ông ta phát hành.
+
+</p><p>Nhân danh một nhà văn, từng là chủ tịch hội Văn Bút VN tại Hải ngoại, ông ta tự xem mình có quyền mạt sát, vu khống, chụp mũ PG một cách hằn hộc, ác ý như là “cố sát”  các đối tượng bằng ngòi bút nghiệp vụ.
+
+</p><p> Ta không lạ gi, sau đợt di tản 1975, một số  người trong đảng Cần Lao của nhà Ngô, một số gọi là trí thức vong bản, một số tu sĩ cực đoan hận thù tôn giáo, không nương tay xuyên tạc chụp mũ PGVN dưới nhiều hình thức, và bẻ cong lịch sử, chạy tội lịch sử và điều hướng lịch sử để hậu thế có cái nhìn không tốt về PG.  Chẳng những thế, tạo một ấn tượng cho hậu thế thấy rằng, ông cha ta có lỗi trong vấn đề đối ngoại với thế giới qua việc cấm đạo và bế quan tỏa cảng; PG phải chịu trách nhiệm  trong giai đoạn lịch sử hiện nay với dân tộc!
+
+</p><p>Nhà văn Trần Trung Quân lợi dụng việc mô tả cuộc đời của một tình báo cài vào cục R, chứng nhân một số mặt thực của cuộc chiến, để hư cấu và quy chụp những nhà lãnh đạo PG thời bấy giờ đấu tranh vì hoà bình, mục đích giảm bớt xương máu con em nhân dân cả hai miền, tác giả đồng hoá việc Tranh đấu của PG 1963 hoàn toàn do sách lược của miền Bắc chủ đạo qua việc chỉ huy trực tiếp của Nguyễn Chí Thanh, và việc đổ máu trước đài phát thanh Huế là do CS tạo nên chứ không phải Thiếu Tá Đặng Sỹ, nghĩa là PG là nạn nhân của CS chứ không phải do nhà Ngô đàn áp; đây là một vụ gỡ gạt cho chính sách kỳ thị Tôn giáo của Ngô Đình Diệm; Xuyên suốt tập <i><b>Trong lòng Địch </b></i> của Trần Trung Quân do nhà xuất bàn Văn Hữu, hải ngoại, đã kết tội toàn bộ tu sĩ PG lãnh đạo cuộc đấu tranh 1963-1966 là phá hoại đất nước nếu không nói là đâm sau lưng chiến sĩ VNCH
+
+</p><p>Một số Linh Mục theo ngành sử học VN vào thế kỷ 17- 18, như LM Đỗ Quang Chính và một số LM dòng Tên ( JESUS) cố tình chạy tội cho GH Kito giáo khi cấu kết với thực dân xâm lược, kẻ chiếm đất, người chiếm dân, thu vén lợi tức đưa về mẫu quốc và Giáo hội mẹ; chẳng những không nhận lỗi mà con vu vạ cho dân tộc phải nhận lỗi vì đã để cho ngoại nhân xâm chiếm đất nước, buộc dân tộc Việt, là nạn nhân, phải sám hối trước những hành động sai trái của họ! Một LM Trần Tam Tĩnh, tác giả <i>Thập giá và Lưỡi gươm </i>  tương đối trung thực, vì những bằng chứng không thể phủ bác, đành công nhận, nhưng mục đích làm nhẹ tội  mưu đồ cải đạo và che dấu bớt những hành tích gây đau thương cho dân tộc khi bắt tay và nưong tựa thế lực xâm lược.
+
+</p><p>Nhóm trí thức Kito giáo như Phan Thiết, Đổ Mạnh Tri, Lữ Giang, Tú Gàn…luôn xuyên tạc PG dù là Kito giáo đang cần lợi dụng PG để  tiên phong chống Cộng thế họ trong lúc mở đường hay trong một khúc quanh lịch sử; Trong hàng thập niên qua tại hải ngoại, PG đã làm điều đó thế họ, và giờ đây, gặp những lúc khó khăn, họ vẫn đẩy các sư đứng mũi chịu sào để thăm dò phản ứng nhà nước VN;
+
+</p><p>Trong viện nghiên cứu sử học, không thiếu người của họ nằm vùng hoặc mua chuộc thao túng các đồng nghiệp để vinh danh các tội phạm dân tộc như Bùi Kha, Trần Chung Ngọc và một số trí thức đã lên tiếng cảnh giác; mãi đến giờ nầy, một số trí thức trong nước vẫn còn mập mờ giữa công và tội của các cố đạo và tín hữu từng đem lại đau thương cho đất nước chúng ta.
+
+</p><p>Một số  cán bộ chuyên trách văn hoá và lãnh đạo tổng quan, chưa nắm rõ lịch sử dân tộc qua nhiều thời đại, chưa hiểu đúng tư chất của mỗi tôn giáo, chưa phân định công và tội của những giáo điều cực đoan, lại thể hiện tính khách quan và cao thượng như một thiện chí và hiểu biết lại thiếu hiểu biết công trạng đối với nội thân một tôn giáo khác với công trạng của một công dân đối với dân tộc, vội vả vinh danh những kẻ có tội nhiều hơn công trong lòng tổ quốc, vì thế, họ xem Alexandre De Rhodes ngang tầm Pasteur; Trương Vĩnh Ký, Nguyễn Trường Tộ như một Lê Quý Đôn và hơn thế nữa. Bộ Giáo dục của thời Đệ nhất và Đệ nhị Cộng Hòa sai lầm vì bị các cha cố và nhà trí thức Kito giáo khuymh loát văn hoá – giáo dục, khống chế chính trị, điều hành xã hội nên đưa đất nước giới hạn vào tầm nhìn của những sử gia Vatican, rồi sau hơn 30 năm thống nhất đất nước, tầm nhìn  của các sử gia, các nhà nghiên cứu khoa học Xã Hội vẫn tíếp tục bị tròng vào cặp kính màu lỗi thời đó, để thế hệ trẻ sẽ nhận giặc làm cha, lót ổ cho Ác , đất nước tiếp tục lâm vào nội chiến!
+
+</p><p>- Như thế, về mặt chính trị, các sư vẫn khó thoát khỏi sự kích động, chi phối của nhóm dư đảng Cần Lao và kẻ hoạt đầu chính trị.
+</p><p>- Về văn hoá, các nhà biệt kích tôn giáo đã len lỏi chui sâu trong hàng ngũ tu sĩ và trí thức PG, vừa chuyển tải thuật ngữ, tinh thần Thiền học và triết lý PG để làm mầu mỡ thêm cho giáo lý và lý luận vốn khô khốc và phi lý của Thần học; vừa cải sửa lệch hướng những kinh tạng thiếu phổ cập để những thế hệ kế tục đi vào lầm lạc, biến đạo Phật thành tà giáo mang tính thần quyền, cầu đảo và ban phước giáng họa…Đồng thời, mặt khác họ đội lên đầu PG một chiếc nón nặng nợ máu với nhân dân; vu cáo, bôi bẩn hình ảnh các sư, đánh đồng cá mè một lứa để người dân nhìn PG như một tội phạm lừa đảo tín đồ. trước 1975, sinh viên Văn Khoa được dạy thơ châm biếm PG như bài Sãi-Vãi, Ba cô đội gạo lên chùa…
+</p><p>- Về xã hội, họ có mặt trên từng cây số bên cạnh người cùng khổ, một khi các sư tự mình xa rời quần chúng bởi tính hưởng thụ và vị kỷ.
+
+</p><p>Hiện nay, một số vùng xa khi mà Kito giáo chiếm 80% như Long Khánh, Xuân Lộc, các gia đình PG gặp khó khăn không ít, bằng cớ đạo tràng của thầy C.Q và những đệ tử của thầy bị kẻ lạ đến hạch sách chất vấn về sinh hoạt của thầy. Một cô giáo cấp hai tên Linh, trường Nguyễn Trãi, Xuân Thọ, Xụân Lộc, Long Khánh, đọc các sách báo Giao Điểm, cả cô Hà, Hiệu trưởng lẫn cô giáo Linh bị chuyển đi vùng sâu vùng xa mà không nêu một lý do chính đáng; dĩ nhiên cán bộ cấp xã không tránh khỏi bị mua chuộc của những thế lực đen như thế. Trung ương khó nắm vững những hạ tầng nếu không có thanh tra bí mật tại chỗ. Và nơi nào toàn bộ  hoặc phần lớn Kito giáo, nơi đó cán bộ cơ sở đa số là người của họ quản lý, điều hành. PG khó có cửa phát triển, nếu không được tồn tại!
+
+</p><p>Quá khứ đã như thế, hiện tại cũng như vậy thì tương lai ai bảo đảm PG không bị loại khỏi mãnh đất VN nếu Thần học nắm cờ trong tay lần nữa, bởi vì các sư quá thụ động.
+
+</p><p>Tuy những loại xuyên tạc PG rẽ  tiền như những tác phẩm của nhà họ Đặng không gây một sự chú ý trong giới trí thức và quần chúng trong nước như số tiền bồi thường của Vatican trước nạn lạm dụng và quấy nhiễu tình dục của các cha cố, bởi lẽ vụ án bất hảo như thế đã được báo đài quốc tế loan tải rộng rãi, dù muốn hay không, người nghe và đọc vẫn in vào bộ nhớ; Riêng những trang giấy bôi lọ, xuyên tạc, vu khống, bươi móc đống rác góc nhà người khác, chả ai buồn quan tâm, trước nhất người viết đã mang một gương mặt soi móc bẩn thiểu không đúng thiên chức của một người cầm bút, gây một ấn tượng khi nhắc đến tên Đặng Văn Nhâm, người ta liên tưởng đến một khuôn mặt những phần tử bắt cóc tống tiền trong xã hội đen,  những đường gân ngang dọc trên khuôn mặt khuất lấp ánh mắt cú vọ thể hiện từ bản chất bất lương tri thức. Rất tiếc, Thượng đế đã sản sanh ra những con người như vậy; Suốt thời gian dài, với tâm hận thù, họ Đặng liên tục bôi bẩn tu sĩ PG như kẻ múa gậy vườn hoang, cứ nghĩ không ai đủ bản lãnh chống lại ngòi bút của Văn Nhâm, vì thế ông ta xem như việc làm của mình là một thách thức PG, nhưng Đặng Văn Nhâm quên rằng nhục mạ PG như đấm vào hư không, chả ai cần đếm xỉa, ngựa quen đường cũ, cứ ngỡ ai cũng gụuc đầu để cho Nhâm chưởi, thực ra nhân quả công bằng, chuyện làm của Nhâm chỉ đáng để đàn bà lên tiếng, và một khi lên tiếng của đàn bà được công lý thừa nhận, giá trị và nhân cách của người cầm bút như Đặng văn Nhâm không đủ can đảm trực diện trước công lý, hào khí hiên ngang của đấng mày râu bấy giờ thua cơn thịnh nộ của một đàn bà; Đặng văn Nhâm im hơi lặng tiếng khi toà án Hạt Harris tuyên phạt  620.000 USD về tội vu khống nhục mạ người đàn bà. Thế mới biết con người họ Đặng, uy tín danh dự và khả năng cầm bút của Văn Nhâm không bằng tiếng ho khẻ của người đàn bà tên Trương Thùy Trúc. Bồi thường danh dự cho cô Trúc 100.000 USD có nghĩa Đặng Văn Nhâm tự đánh mất giá trị của mình bằng số tiền như thế.
+</p><p>Nếu đây là quả báo nhục mạ, cũng chưa đủ cho Nhâm một bài học nhớ đời, vì kẻ thiếu liêm sĩ thì số tiền truy phạt như thế chưa đủ sức nặng làm tỉnh giác một tâm hồn đen tối và thù hận, nhưng dẫu sao một toà án xử phạt lạm dụng tình dục của cha cố và toà án xử nhục mạ danh dự người khác, trong đó có các sư PG, cũng tạo một thú vị cho kẻ bất lương nhìn lại việc mình đã làm.
+
+</p><p>Phải chăng Đặng Văn Nhâm là một khuôn mặt tiêu biểu chống phá PG dưới dạng rẽ tiền nhất giữa những trào lưu chống phá PG thâm sâu tinh tế nhất? Việc làm bấy lâu của Đặng văn Nhâm có giá trị hay sự phản kháng của người đàn bà có giá trị ? 
+							Nghĩa là danh dự, uy tín và tài năng của Đặng văn Nhâm không xứng với cơn phẩn nộ của một đàn bà như Trương Thùy Trúc, đó là một nhà Văn 
+							?
+
+</p><p> MINH MẪN
+</p><p>03/8/07
+	
+</p><hr>

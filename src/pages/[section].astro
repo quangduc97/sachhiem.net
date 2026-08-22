@@ -1,0 +1,112 @@
+---
+import BaseLayout from '../layouts/BaseLayout.astro';
+import index from '../data/articles.json';
+
+export function getStaticPaths() {
+  const { authors, categories } = index;
+  return [
+    ...Object.keys(authors).map((slug) => ({
+      params: { section: slug },
+      props: { kind: 'author', slug },
+    })),
+    ...Object.keys(categories).map((slug) => ({
+      params: { section: slug },
+      props: { kind: 'category', slug },
+    })),
+  ];
+}
+
+const { kind, slug } = Astro.props as { kind: 'author' | 'category'; slug: string };
+const { authors, categories, articles } = index;
+
+const fmtDate = (iso?: string) =>
+  iso
+    ? new Date(`${iso}T12:00:00`).toLocaleDateString('vi-VN', {
+        day: 'numeric',
+        month: 'long',
+        year: 'numeric',
+      })
+    : '';
+
+const sorted = (list) => [...list].sort((a, b) => (b.date ?? '').localeCompare(a.date ?? ''));
+
+// Chuẩn bị dữ liệu cho từng loại trang
+let pageTitle = slug;
+let groups = null; // trang tác giả: nhóm bài theo tên ký trong bài
+let authorInfo = null;
+let categoryName = null;
+let categoryList = null;
+
+if (kind === 'author') {
+  authorInfo = authors[slug] ?? { name: slug, bio: '' };
+  pageTitle = `Tác giả ${authorInfo.name}`;
+  const mine = sorted(articles.filter((a) => a.authorSlug === slug));
+  const g = new Map();
+  for (const a of mine) {
+    const key = a.author ?? 'Khác';
+    if (!g.has(key)) g.set(key, []);
+    g.get(key).push(a);
+  }
+  groups = [...g.entries()];
+} else {
+  categoryName = categories[slug] ?? slug;
+  pageTitle = categoryName;
+  categoryList = sorted(articles.filter((a) => a.category === categoryName));
+}
+---
+
+{
+  kind === 'author' ? (
+    <BaseLayout title={pageTitle} current={`/${slug}/`}>
+      <header class="author-header">
+        <div class="author-avatar">{authorInfo.name.charAt(0)}</div>
+        <div>
+          <h1 class="name">{authorInfo.name}</h1>
+          {authorInfo.bio && <p class="bio">{authorInfo.bio}</p>}
+          <p class="count">{articles.filter((a) => a.authorSlug === slug).length} bài viết</p>
+        </div>
+      </header>
+      {
+        groups.map(([author, list]) => (
+          <section>
+            <h2 class="section-title">{author}</h2>
+            <ul class="article-list">
+              {
+                list.map((a) => (
+                  <li>
+                    <a href={a.path}>
+                      <span class="t">{a.title}</span>
+                      <span class="d">{fmtDate(a.date)}</span>
+                      {a.category && <span class="a">{a.category}</span>}
+                    </a>
+                  </li>
+                ))
+              }
+            </ul>
+          </section>
+        ))
+      }
+    </BaseLayout>
+  ) : (
+    <BaseLayout title={pageTitle} current={`/${slug}/`}>
+      <header class="category-header">
+        <p class="kicker">Chuyên mục</p>
+        <h1 class="name">{categoryName}</h1>
+        <p class="count">{categoryList.length} bài viết</p>
+      </header>
+      <ul class="article-list">
+        {
+          categoryList.map((a) => (
+            <li>
+              <a href={a.path}>
+                <span class="t">{a.title}</span>
+                <span class="d">{fmtDate(a.date)}</span>
+                <span class="a">{a.author}</span>
+              </a>
+            </li>
+          ))
+        }
+      </ul>
+    </BaseLayout>
+  )
+}

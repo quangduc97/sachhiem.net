@@ -1,0 +1,41 @@
+---
+layout: ../../../layouts/Article.astro
+title: "Cảm Nhận Khi Xem Phim “Chiến Tranh Việt Nam”"
+author: "Trần Khách Quan"
+date: 2017-11-20
+source: "https://sachhiem.net/THOISU_CT/ChuK/Khachquan_09.php"
+category: "Chính trị"
+lang: vi
+wordCount: 1601
+image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/LICHSU/IMG/VNwar/VietnamWar_PBS.jpg"
+---
+
+<div class="tomluoc">
+    <p><i>Việt  Cộng thì tận tụy cho độc lập và chủ quyền của đất nước. Thế còn những người gọi  là “Quốc Gia”, họ có bao giờ chiến đấu cho chủ quyền và độc lập của đất nước Việt  Nam không?  Nên nhớ : Nếu không có độc lập và chủ quyền thì lấy cái gì để có tự do và dân  chủ ?  (Khách Quan)</i></p>
+  </div>
+  <p><span class="First">C</span>húng tôi đã xem gần hết tập 6 trong 10 tập bộ phim “CHIẾN TRANH  VIỆT NAM” do Ken Burns và Lynn Novick làm đạo diễn.</p>
+  <p align="center"><img src="https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/LICHSU/IMG/VNwar/VietnamWar_PBS.jpg" width="400" height="253" alt=""></p>
+<p>Phim hay và hấp dẫn bởi vì: (1) Cảm nhận được tâm lý và tình cảm  của hai dân tộc Việt &amp; Mỹ đều có những điểm chung giống nhau (2) Thấy được  nhiều dữ kiện lịch sử đã từng là bí ẩn tối mật chưa bao giờ biết đến. Thế cho  nên, chúng tôi xem liền một mạch liên tục cho đến khi thấm mệt thì đã gần hết  tập 6.</p>
+<p>Bởi xem gấp trong nhiều giờ liền cho nên chúng tôi chỉ có có thể  nhớ nhớ quên quên. Tuy nhiên, chúng tôi cũng có thể đưa ra một cảm nhận chung  chung đáng nói trong bối cảnh có nhiều người Việt cũng đã xem bộ phim (là một  tài liệu lịch sử liên quan mật thiết với dân tộc mình) nhưng hầu như cũng chỉ  có vài tiếng khen chê khô khốc chẳng có suy nghĩ gì sâu sắc đến nơi đến chốn.</p>
+<p>Bộ phim CHIẾN TRANH VIỆT NAM được nói đã phải làm trong 10 năm  bởi những đạo diễn có kinh nghiệm đã từng thực hiện những bộ phim lịch sử lớn  trước đó như THE CIVIL WAR (Cuộc Nội Chiến Mỹ) và THE WAR (Cuộc Chiến về thế  chiến 2).</p>
+<p>Một công trình 10 năm cho chúng ta thưởng thức mà nếu chúng ta  chỉ xem qua chốc lát rồi phát biểu vài suy nghĩ vẩn vơ thì thật là uổng phí và  tội nghiệp cho tập thể đã tiêu tốn biết bao là công sức và tiền của để thực  hiện nó. Nó cần phải được suy ngẫm nhiều và thường xuyên hơn về sau hầu truyền  đạt cho các thế hệ sau biết tôn trọng hòa bình, độc lập và công lý giữa các  quốc gia.</p>
+ <p>Cảm nhận chung chung đầu tiên qua gần 6 tập phim CHIẾN TRANH  VIỆT NAM:</p>
+<p>Bộ phim cho thấy, CHIẾN TRANH VIỆT NAM <b>đều gây đau đớn cho cả 2  dân tộc Việt và Mỹ</b>. Những người lính và những người thân luôn luôn khổ sở trong  lo âu tột cùng: Những xóm làng bị đốt cháy, những bà mẹ sớm hôm cầu nguyện cho  sự bình an của con trai, hoặc chỉ biết khóc trong cái chết của những đứa con,  hoặcghi dấu từng bước chân di chuyển của đứa con trên bản đồ, hoặc phập phồng  lo sợ tin dữ khi nghe tiếng lạo xạo của bánh xe trên tuyết hay khi nhìn thấy  hình bóng người lính (báo tin) từ xa, …</p>
+<p>Bộ phim cho thấy, bộ chỉ huy quân Mỹ (MACV) chủ trương<b> đo lường  chiến thắng bằng cách đếm xác Việt Cộng</b>. Đó là một quan điểm phi lý và dã man.  Bởi lẽ, hệ lụy tất yếu của quan điểm đếm xác sẽ là: sẽ bắn giết bừa bãi thường  dân vô tội vì mục đích đếm xác và vì không thể phân biệt được ai là dân và ai  là Việt Cộng; sẽ có khuynh hướng báo cáo láo và nâng cao vô tội vạ con số xác  đếm được. Tập 4 của bộ phim đã nêu ra một thí dụ về Tướng Westmoreland đã nói  láo và nâng cao số xác Việt Cộng đếm được với báo chí lên đến 145 xác thay vì  đúng ra chỉ có 9 hay 10. .</p>
+<p>Bộ phim cho thấy, khi Tổng Thống Kennedy bị ám sát chết, Phó  Tổng Thống Lyndon Johnson lên thay và là người đã gởi quân tham chiến và mở  rộng chiến tranh bắt đầu từ giữa năm 1965. Ngay từ khởi đầu, bộ phim cho biết  Tổng Thống Johnson và Bộ Trưởng Quốc Phòng McNamara đã đi từ nghi ngờ đến <b>không  tin vào khả năng chiến thắng</b>. Như vậy, vấn đề đặt ra là: Đã nghi ngờ và không  tin vào chiến thắng nhưng tại sao Tổng Thống Mỹ Johnson vẫn cứ gởi quân và mở  rộng cuộc chiến mà hậu quả có thể thấy trước là làm gia tăng thương vong cho cả  2 dân tộc Việt Mỹ một cách vô lý ? Tại sao ? Phải chăng, đã có những lý do thầm  kín nhằm mục đích phục vụ cho quyền lợi của các tập đoàn vũ khí và cho giới  siêu quyền lực ?</p>
+<p>Mở rộng cuộc chiến và làm gia tăng thương vong được thấy trước  cho cả 2 dân tộc Việt Mỹ vì những mục đích còn mơ hồ thì nó chẳng khác gì là  một tội ác!</p>
+<p>Bộ phim cho thấy, nhịp độ chiến tranh, gia tăng quân số Mỹ đến  bao nhiêu đều do Tổng Thống Mỹ Johnson quyết định, phía “đồng minh” <b>Việt Nam  Cộng Hòa, bao gồm chính quyền và quân đội, chỉ là cái bóng mờ nhạt </b>chẳng có  tiếng nói gì với vận mệnh của đất nước, đúng là bù nhìn tay sai! Thậm chí, Mỹ  cho quân đổ bộ vào Đà Nẵng năm 1965 mà cũng không thèm thông báo hay xin phép  chính phủ Phan Huy Quát. Trong tình trạng đó, có thể nào chính quyền và quân  đội VNCH muốn yêu nước có được không? Và, yêu nước là yêu cái gì trong tình  trạng không có chủ quyền?</p>
+<p>Bộ phim cho thấy, nó đã cố gắng đưa ra những chứng cứ như là  hình ảnh, băng ghi âm, tài liệu đã giải mật, v.v…để chứng thực những sự kiện  lịch sử đã được nêu ra. Nhưng, lồng vào những sự thật có chứng cứ là <b>vài sự  kiện không có chứng cứ</b>. Như vậy, bộ phim đã dùng một kỹ thuật đồng hóa một sự  không thật với sự thật bằng cách bao quanh nó nhiều sự thật khác. Một thí dụ:  Bộ phim nói có 320 ngàn quân Trung Cộng tham chiến ở Việt Nam, nhưng bộ phim  lại không hề đưa ra một chứng cứ nào. Đây là một sự thiếu đứng đắn mà chúng ta  xem phim phải cẩn thận đề phòng lược bỏ.</p>
+<p><b>Về thảm sát Tết Mậu Thân cũng vậy, bộ phim đã mập mờ </b>có chủ ý và  không trung thực giữa hình ảnh của đại pháo cũng như của các phi cơ oanh tạc và  kết luận về họa thảm sát một cách tuyên truyền áp đặt.</p>
+<p>Bộ phim cho thấy, <b>triệt hạ ý chí chiến đấu của nhau </b>mới là mục  tiêu cốt lõi của cách điều hành cuộc chiến. Bởi thế, khi nhìn vào trận đánh Tết  Mậu Thân 1968: Kẻ võ biền và tầm nhìn thấp thì chỉ chỉ biết phân định thắng  thua ở tổn thất nhân mạng. Nhưng, người cao cờ có tầm nhìn xa rộng thì lại thấy  thế thắng thua ở ngay cái ý chí của Tổng Thống Mỹ Johnson đã suy sụp hoàn toàn,  ông đã triệu hồi ông tướng tồi Westmoreland, và cuối cùng là ông đã tuyên bố từ  chối tranh cử Tổng Thống.</p>
+<p>Bởi vậy, chiến thắng Mậu Thân là của Việt Cộng sẽ là điều không  còn khó hiểu.</p>
+<p>Bộ phim cho thấy, thông qua tự thuật của bà Duong Van Mai (con  của một quan chức VNCH, vợ của một người Mỹ, chuyên viên của cơ quan nghiên cứu  RAND thuộc Bộ Quốc Phòng Mỹ) mặc dù được nhồi sọ từ nhỏ “<i>rắng Việt Cộng là bọn  đầu trâu mặt ngựa”</i>, nhưng khi được quyền phỏng vấn tù binh Việt Cộng để nghiên  cứu xem <i>“Việt cộng là ai? Vì cái gì mà họ chiến đấu?</i>” thì bà đã cho biết kết  luận trong các báo cáo của RAND gởi đến Bộ Quốc Phòng như sau: <i>Việt Cộng là  những người tận tụy chiến đấu cho chủ quyền và độc lập của Việt Nam, muốn thắng  họ thì phải trả một cái giá rất lớn.</i></p>
+  <p>Việt  Cộng thì tận tụy cho độc lập và chủ quyền của đất nước. Thế còn những người gọi  là “Quốc Gia”, họ có bao giờ chiến đấu cho chủ quyền và độc lập của đất nước Việt  Nam không?</p>
+  <p>    Nên nhớ : Nếu không có độc lập và chủ quyền thì lấy cái gì để có tự do và dân  chủ ?
+ <img src="https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/sqdot.gif" width="10" height="10"></p>
+  <p class="TacgiaL">Trần Khách Quan </p>
+  <p>_______________________</p>
+  <p><b>Cùng đề tài, mời đọc thêm:</b></p>
+  <p><a href="https://baotreonline.com/the-viet-nam-war/">- The Viet Nam War</a> (báo Tuổi Trẻ)</p>
+  <p>Ngày 17 tháng Chín sắp tới đài TV Public Broadcast System (PBS) sẽ bắt đầu trình chiếu bộ phim tài liệu 10 tập về chiến tranh Việt Nam của nhà làm phim Ken Burns. Bộ phim dài gần 18 tiếng đồng hồ và mất hai tuần lễ mới chiếu xong. Sau đó, PBS sẽ stream phim này trên mạng tại website của mình (pbs.org) cho khán giả khắp nơi trên thế giới cùng xem. Bài viết này giới thiệu sơ lược những điểm chính về bộ phim qua các cuộc phỏng vấn với nhà sản xuất và các bài điểm phim của những tờ báo lớn tại Hoa Kỳ. Một số video clip ngắn cũng đã được post trên trang pbs.org/vietnamwar.</p>
+  <p>... (xem tiếp) -&gt; <a href="https://baotreonline.com/the-viet-nam-war/">https://baotreonline.com/the-viet-nam-war/</a></p>

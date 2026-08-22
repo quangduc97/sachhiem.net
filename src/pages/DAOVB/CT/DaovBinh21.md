@@ -1,0 +1,69 @@
+---
+layout: ../../../layouts/Article.astro
+title: "Nhật Ký Biển Đông:"
+author: "Đào Văn Bình"
+date: 2014-08-02
+source: "https://sachhiem.net/DAOVB/CT/DaovBinh21.php"
+category: "Chính trị"
+lang: vi
+wordCount: 2596
+image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/THOISU_CT/Hinh/CHINA/TQ_hunghang_trenbienJuly14.jpg"
+---
+
+<p class="Tuaduoi"> Rút Giàn Khoan Xong Tập Trận Ra Oai</p>
+
+
+
+ <p><span class="First">N</span>hật Ký Biển Đông hạ tuần Tháng Bảy ghi nhận những chuyển biến quan trọng như sau:</p>
+ <a name="n1" href="/DAOVB/#tit1">
+ <p class="TuaDoLeft">Những chuyển biến quan trọng: </p>
+ </a>
+<div class="danbai"><p><b>Gồm các mục:</b></p>
+ <p>- <a name="tit1" href="/DAOVB/#n1">Những chuyển biến quan trọng: </a></p>
+ <p>- <a name="tit2" href="/DAOVB/#n2"> Nhận Định  </a></p>
+ 
+ </div>
+<p> - Báo Tempo (Phi Luật Tân) ngày 22/7/2014 đưa tin:  “<i>Nga đang thảo luận và có thể cung cấp các hệ thống radar và tên lửa cho  Philippines. Động thái này diễn ra giữa lúc căng thẳng đang gia tăng trên Biển  Đông giữa Phi Luật Tân và Trung Quốc.</i>” Câu hỏi đặt ra ở đây là tại sao Mỹ không  bán vũ khí với giá rẻ cho Phi Luật Tân để đến nỗi Phi Luật Tân phải mua vũ khí  của Nga? Hay Phi Luật Tân bắt chước Việt Nam theo sách lược ngọai giao đa  phương?<b> </b></p>
+<p> -  VOV ngày 23/7/2014:  “Tại Hội Nghị Bộ Trưởng Ngọai Giao ASEAN-EU lần thứ 20 diễn ra tại Bruselles  (Bỉ)&nbsp;các  nước bày tỏ quan tâm và ủng hộ quan điểm của Việt Nam giải quyết tranh chấp  Biển Đông bằng biện pháp hòa bình, tuân thủ luật pháp quốc tế.”<b> </b></p>
+<p> -  VOV  ngày 23/7/2014: “Ủy ban Đối ngoại Thượng viện Mỹ ngày 22/7 đã thông qua thỏa  thuận hợp tác hạt nhân dân sự với Việt Nam. Thỏa thuận sẽ cho phép các công ty  của Mỹ thâm nhập sâu hơn vào thị trường điện hạt nhân đang mở rộng của Việt  Nam. Thỏa thuận này hiện đã được đệ trình lên Thượng viện Mỹ chờ thông qua  trong một phiên họp toàn thể.”<b> </b></p>
+<p> -  BBC  tiếng Việt ngày 24/7/2014: “Cựu  Thủ tướng Anh quốc Tony Blair hiện đang ở Hà Nội trong chuyến thăm  Việt Nam nhằm thúc đẩy đầu tư và phát triển.&nbsp;Chiều thứ Tư 23/7,  ông Blair đã hội kiến Thủ tướng Việt Nam Nguyễn Tấn Dũng.”<b> </b></p>
+<p> - VOV ngày 24/7/2014: “<i>Trung Quốc đang nạo vét các kênh trên đảo Duy  Mộng (Drummond) thuộc quần đảo Hoàng Sa của Việt Nam nhằm tạo điều kiện thuận  tiện cho ngư dân và thuyền cung ứng của Trung Quốc tại đây. Giới quan sát cho  rằng động thái này một lần nữa cho thấy Bắc Kinh tiếp tục nỗ lực xác lập chủ  quyền chủ quyền đối với khu vực này</i>.” </p>
+<p> -  Voice of Russia tiếng  Việt ngày 24/7/2014: “Bộ  Ngoại giao Nga kêu gọi Seoul cân nhắc những tác động an ninh từ việc nước này  cho phép bố trí tổ hợp tên lửa THAAD của Mỹ.&nbsp;Sự phát triển sự kiện như vậy  chắc chắn sẽ tác động tiêu cực đến tình hình chiến lược trong khu vực, kích  động cuộc chạy đua vũ trang ở Đông Bắc Á, tạo ra những biến chứng bổ sung cho  giải pháp của vấn đề hạt nhân trên bán đảo Triều Tiên.” </p>
+<p> -  BBC  tiếng Việt ngày 25/7/2014:&nbsp;<b>“</b><i>Ngoại trưởng Nhật Bản thông báo sẽ có  chuyến thăm Việt Nam từ ngày 31/7 đến 2/8 nhằm đẩy mạnh hợp tác về an ninh trên  biển cũng như trong các lĩnh vực khác.</i>” </p>
+<p> -  VnExpress ngày  27/7/2014: “Trung  Quốc đang tiến hành tập trận bắn đạn thật trên vịnh Bắc Bộ, gần sát Việt Nam và  sẽ bắt đầu tập trận tại biển Hoa Đông vào ngày 29/7 tới.&nbsp;Cả hai cuộc tập trận này được  Bộ Quốc phòng Trung Quốc gọi là huấn luyện thường lệ, theo<i>&nbsp;Bloomberg</i>.  Cuộc tập trận trên Biển Đông sẽ kết thúc vào ngày 1/8, cuộc tập trận trên biển  Hoa Đông sẽ kết thúc ngày 2/8.&nbsp;Cục Hải sự Trung Quốc ra thông báo&nbsp; yêu cầu các loại tàu  thuyền không được đi vào vùng biển có ‘<i>hoạt động quân sự’</i>&nbsp;trong  thời gian nêu trên.” </p>
+<p> -  The  World Post ngày 28/7/2014: “ Artyon Lukin nói rằng chính sách kiềm chế của Hoa  Kỳ đã đẩy Trung Quốc và Nga thành lập một liên minh hùng mạnh chống lại đồng  minh Phương Tây tạo nguy cơ lớn lao bùng nổ Thế Chiến III.”&nbsp;<b><i>(</i></b><i>Artyom Lukin says the U.S.  policy of containment is pushing China and Russia ever closer to forming a  powerful anti-Western alliance, greatly raising the possibility of a Third  World War) (*)</i> </p>
+<p> -  Voice of Russia ngày  28/7/2014: “Ngày 23 tháng 7,  Trung Quốc đã tiến hành một vũ thử tên lửa mới được thiết kế để tiêu diệt các  vệ tinh trên quỹ đạo Trái đất. Đó là tin của Bộ Ngoại giao Mỹ dựa theo các  dữ liệu tình báo. Vào tháng Tư năm nay, trong chuyến đi thị sát một đơn vị không  quân, Chủ tịch Trung Quốc Tập Cận Bình lần đầu tiên tuyên bố rằng, Trung  Quốc phải có khả năng đáp trả quá trình quân sự hóa vũ trụ do các đối thủ  của Trung Quốc, trước hết là Mỹ, thực hiện. Tháng 5 năm 2013, Bắc Kinh  đã thực hiện cuộc thử nghiệm đầu tiên tên lửa tiêu diệt các vệ tinh.&nbsp;Mỹ  lo ngại rằng, Trung Quốc có thể thành lập hệ thống chống vệ tinh có thể  cản trở việc chỉ huy quân đội thông qua các vệ tinh”. </p>
+<p align="center"><img src="https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/THOISU_CT/Hinh/CHINA/TQ_hunghang_trenbienJuly14.jpg" width="350" height="198" longdesc="https://vtc.vn/311-498634/quoc-te/trung-quoc-tap-tran-ban-dan-that-quy-mo-lon-o-bien-dong.htm"></p>
+<p align="center"><i>Trung Quốc bị chỉ trích là hành xử hung hăng trên biển</i></p>
+<p> -  RFI tiếng Việt ngày 30/7/2014: “<i>Tư lệnh lực lượng Mỹ ở Thái Bình Dương cho biết  là Hoa Kỳ cũng sẽ do thám các cuộc tập trận đơn phương của Trung Quốc tại vùng  Biển Đông trong tuần này, với sự tham gia của 20 chiến hạm.</i></p>
+<p><i>
+Theo thông báo của Bộ  Quốc phòng Trung Quốc, các cuộc tập trận kéo dài 5 ngày ở Biển Đông đã bắt đầu  hôm qua, vào lúc hải quân nước này cũng đang tập trận bắn đạn thật ở Vịnh Bắc  Bộ và ở eo biển Bột Hải. Hai cuộc tập trận này sẽ đều kết thúc vào ngày  01/08</i>.”&nbsp;</p>
+<p align="center"><img src="https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/THOISU_CT/Hinh/CHINA/TQtaptran_25July14.jpg" width="350" height="239" longdesc="https://dantri.com.vn/the-gioi/trung-quoc-dien-tap-ban-dan-that-o-4-vung-bien-906472.htm"></p>
+<p align="center"><i>Quân đội Trung Quốc trong một cuộc diễn tập đổ bộ. Ảnh: EpochTimes. Ảnh https://dantri.com.vn/</i></p>
+<p> -  PetroTimes ngày  30/7/2014: “Trong chuyến viếng thăm Phi Luật Tân,&nbsp;Bà Catherine Ashton - phụ trách đối ngọai và an ninh Liên Hiệp Âu Châu  khẳng định, tất cả các nước phải tôn trọng luật pháp quốc tế trong việc giải  quyết các tranh chấp trên Biển Đông. EU kêu gọi các bên tìm kiếm giải pháp hòa  bình thông qua đối thoại và hợp tác với nhau trên tinh thần tôn trọng luật pháp  quốc tế, đặc biệt là Công ước của Liên Hiệp Quốc về Luật Biển năm 1982 (UNCLOS  1982)”.</p>
+<p> -  Tuổi  Trẻ Online ngày 31/7/2014: “<i>Đô Đốc Nguyễn Văn Hiến-Tư Lệnh Quân Chủng Hải Quân  tuyên bố Hải Quân Việt Nam đủ sức đánh bại các cuộc tiến công trên biển</i>.” </p>
+<p> -  VOA  tiếng Việt ngày 31/7/2014: “Tân Đại sứ Trung Quốc tại Việt Nam Hồng Tiểu Dũng  cam kết sẽ làm tất cả để củng cố quan hệ chiến lược toàn diện với Việt Nam  trong nhiệm kỳ của ông ở Hà nội.” </p>
+<p> -  AP ngày 1/8/2014: Trong  cuộc gặp gỡ với ngọai trưởng Việt Nam Phạm Bình Minh ngày 1/8/2014, ngọai  trưởng Nhật Bản tuyên bố sẽ cung cấp cho Việt Nam 06 tàu tuần duyên trị giá 5  triệu đô-la để Việt Nam tăng cường khả năng thi hành luật pháp trên biển giữa  lúc tại Biển Đông căng thẳng lên cao.</p>
+<a name="n2" href="/DAOVB/#tit2">
+<p class="TuaDoLeft"><b>Nhận Định:</b> </p></a>
+<p>Trong khi cuộc đối đầu Nga-Mỹ-NATO mỗi lúc mỗi  căng thẳng vì vụ máy bay MH17 của Mã Lai chở 298 hành khách rớt ở Đông Ukraine  nơi đang diễn ra những cuộc giao tranh giữa quân chính phủ và lực lượng ly khai  thân Nga, thì Do Thái tiến quân, bắn hỏa tiễn vào Gaza khiến hơn 1300 người  chết trong đó hơn hai phần ba là thường dân gây phẫn nộ trên tòan thế giới, rồi  tình hình Libya nát như tương khiến Hoa Kỳ, Pháp phải di tản tòa đại sứ, rồi  giao tranh và tàn sát ở Iraq chưa có dấu hiệu ngưng tay khiến Nga phải đổ vũ  khí vào để cứu nguy chế độ của Ô. Maliki nhưng Mỹ không phản đối vì Ô. Maliki  do Mỹ dựng lên, còn Ô. Kim Jong Un thì dọa cho Tòa Bạch Ốc ăn hỏa tiễn. Trong  khi tình hình thế giới rối bời như thế thì Trung Quốc ung dung tập trận để thị  uy. </p>
+<p> - Cuộc  tập trận bắn đạn thật ở Vịnh Bắc Bộ rõ ràng là để răn đe và khiêu khích Việt  Nam và có thể làm tổn hại đến việc đánh cá của ngư dân Việt Nam ở vùng này. </p>
+<p> - Còn cuộc tập trận ở Biển Đông là để răn đe Việt  Nam, Phi Luật Tân và cảnh cáo Hoa Kỳ. </p>
+<p>
+  Tuy  nhiên Hoa Kỳ cũng chẳng vừa gì. Lấy cớ Hoa Lục gửi tàu tới do thám cuộc tập  trận RIMPAC ở ngòai khơi Hawaii, Hoa Kỳ cũng gửi tàu tới để do thám. Chắc chắn  hành vi này khiến Hoa Lục vô cùng khó chịu - vì do thám còn có nghĩa là “giám  sát” xem anh có làm ẩu không? Biết đâu tập trận chỉ là thủ đọan trá hình để bất  ngờ đành chiếm các đảo của Phi Luật Tân&nbsp; và Việt Nam nếu hai quốc gia này  không phòng bị. </p>
+<p>Đây là phản ứng khá mạnh và linh hoạt của Hoa Kỳ và chứng tỏ  giữ gìn an nguy cho Biển Đông không phải chỉ là mối lo của Việt Nam và Phi Luật  Tân mà nó còn là mối lo của Hoa Kỳ. <b>Nếu Trung Quốc khống chế được Biển Đông,  Hoa Kỳ không còn là cường quốc Thái Bình Dương nữa</b>. Từ siêu cường sẽ rớt xuống  thành cường quốc khu vực (regional power) điều mà Hoa Kỳ không bao giờ chấp  nhận. Ngòai ra, khi hải lộ quốc tế thông quá Biển Đông tắc nghẽn thì Nhật Bản,  Nam Hàn, Đài Loan chết trước, cho nên hợp tác ngọai giao, kinh tế và quân sự  giữa Nhật Bản, Hoa Kỳ, Việt Nam, Phi Luật Tân là xu thế nổi bật trong giai đoạn  hiện tại. </p>
+<p>
+  Hiện nay tại Phi Luật Tân đang hình thành luận  điểm:<i> Liên minh với Mỹ nhưng phải xây dựng quốc phong tự chủ theo đường lối  ngọai giao đa phương</i>. Việc Ô. Abe thăm Phi Luật Tân, Ô. Aquino thăm Nhật Bản và  mới đây nhất Nga đang thảo luận việc cung cấp hệ thống radar và hỏa tiễn phòng  thủ cho Phi Luật Tân đã chứng minh điều này. Cũng như Việt Nam, Phi Luật Tân  nhận thấy ngòai Mỹ thì Nga và Nhật Bản là hai cường quốc có thể làm đối trọng  với Hoa Lục, từ đó có thể cùng Mỹ giữ yên Biển Đông. </p>
+<p>
+  Sau khi rút giàn khoan Haijang 981, không ai biết  Hoa Lục sẽ làm gì. Có lẽ ”tập trận” là việc vừa dễ làm để thị uy vừa để “giữ  lửa” (lửa bành trướng). Nhưng hiện nay Hoa Lục đang phải chịu áp lực nặng nề  của thế giới với hai ràng buộc: </p>
+<p> - Tuân thủ luật pháp quốc tế. </p>
+<p> - Dùng Công Ước Luật Biển 1982 để giải quyết những  tranh chấp chủ quyền ở Biển Đông. </p>
+<p>
+  Nếu Hoa  Lục chịu tuân thủ luật pháp quốc tế thì chẳng khác nào con cọp muốn tung hoành  nơi rừng sâu lại bị nhốt vào trong sở thú. Thế nhưng con hổ Trung Quốc khó lòng  thóat khỏi sợi giây trói này. Bởi vì khi anh tuyên bố “Trỗi dậy trong hòa bình”  thì điều kiện ắt có của hòa bình là tuân thủ luật pháp quốc tế. Nếu không tuân  thủ luật pháp quốc tế mà dùng luật của kẻ mạnh thi không thế nói “Hòa bình”.  Đây là điều Trung Quốc khó ăn khó nói, khó giải thích với thế giới. Trong mấy  tháng qua rất nhiều cuộc hội thảo quốc tế về Biển Đông đã diễn ra với chiều  hướng vô cùng bất lợi cho Trung Quốc. Trung Quốc hiểu điều đó và đây có thể là  lý do rút giàn khoan Haijang 981. Tuy nhiên dù rút giàn khoan nhưng tham vọng  vẫn còn nguyên đó. Chiến thuật có thay đổi nhưng mục tiêu không hề thay đổi cho  đến khi Trung Quốc hủy bỏ Đường Lưỡi Bò và chấp nhận nhờ trọng tài quốc tế phân  xử những tranh chấp chủ quyền biển đảo. </p>
+<p>
+  Về mặt chiến lược mà nói việc hủy bỏ Đường Lưỡi  Bò hòan tòan có lợi cho Trung Quốc vì nó làm an lòng các quốc gia Đông Nam Á.  Sau đó Trung Quốc có thể ngồi vào bàn hội nghị để giải quyết các vùng tranh có  chấp thực sự và cùng khai thác chung ở những vùng chồng lấn…thì tôi nghĩ các  quốc gia Đông Nam Á sẽ chẳng quan tâm đến chuyện Trung Quốc trỗi dậy để tranh  bá đồ vương với Hoa Kỳ. Thế nhưng Hoa Lục lại không làm thế. Việc Trung Quốc  đơn phương và ngang ngược công bố Đuờng Lưỡi Bò gom hết 90% Biển Đông về cho  mình làm cho các quốc gia Đông Nam Á kinh sợ, từ đó rước Mỹ vào chứ thực sự  không quốc gia Đông Nam Á nào muốn Mỹ hiện diện quân sự ở vùng này. Sự hiện  diện quân sự của Mỹ tại Đông Nam Á sẽ là nối nguy về an ninh cho Trung Quốc. Để  sinh tồn, Trung Quốc sẽ lấy cớ “tranh chấp chủ quyền biển đảo” để huy động sức  mạnh hải quân -thông qua tập trận thường xuyên- để đối phó với Mỹ, thị uy với  các quốc gia Đông Nam Á, từ đó Biển Đông sẽ vô cùng căng thẳng. </p>
+<p>Nếu Phi Lụât  Tân không có khả năng tự vệ và các căn cứ Subic Bay, Clark nay thêm Palawan trở  thành các căn cứ khổng lồ của Mỹ xuất phát hàng không mẫu hạm, tàu ngầm, máy  bay B-52 như thời Chiến Tranh Việt Nam thì Biển Đông rồi Đông Nam Á sẽ trở  thành bãi chiến trường. Do đó cuộc tranh chấp chủ quyền ở Biển Đông sẽ còn dai  dẳng cho đến khi Hoa Lục và Mỹ thay đổi chiến lược. Trong khi chờ đợi, các nước  láng giềng với Trung Quốc cần tăng cường sức mạnh quốc phòng tự chủ, đoàn kết  và luôn luôn cảnh giác. Còn ông tân đại sứ Trung Quốc tại Việt Nam hứa, “<b><i>Sẽ  làm tất cả để củng cố quan hệ chiến lược toàn diện với Việt Nam trong nhiệm kỳ  của ông ở Hà Nội</i></b>” thì hãy cứ nghe và để đó. Phải chăng qua cuộc đụng độ  với Việt Nam ở giàn khoan Haijang 981 Trung Quốc đã “<b><i>học được bài học</i></b>”  và thay đổi chiến thuật? Quan hệ chiến lược toàn diện Việt Nam-Trung Quốc không  gì tốt đẹp hơn và cụ thể hơn là hãy trao trả Hoàng Sa lại cho Việt Nam và trước  mắt hãy ngưng húc, bắn hỏa pháo vào tàu đánh cá và bắt giữ trái phép, giết hại  ngư dân Việt Nam làm ăn hợp pháp tại vùng này và xin đừng kéo giàn khoan tới  những vùng còn tranh chấp hay vùng đặc quyền kinh tế của Việt Nam. </p>
+  <p class="TacgiaR">Đào Văn Bình  </p>
+ <p align="right"><i>(California ngày 1/8/2014)</i></p>
+ <p>____________________</p>
+<p> (*) Artyom Lukin&nbsp;là phó giám đốc của Research at  the School of Regional and International Studies, Far Eastern Federal  University (Vladivostok, Russia). </p>

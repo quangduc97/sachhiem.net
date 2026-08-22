@@ -1,0 +1,52 @@
+---
+layout: ../../../layouts/Article.astro
+title: "Giáo Sư Đại Học Notre Dame Xử Trí"
+author: "Liz Goodwin"
+date: 2013-05-08
+source: "https://sachhiem.net/TONGIAO/tgN/Namgiao.php"
+category: "Tác giả"
+lang: vi
+wordCount: 1873
+image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/SACHNGOAI/Hinhanh/PEOPLE/CandidaMoss.jpg"
+---
+
+<p class="Tuaduoi">“Huyền Thoại” Tử Đạo Của Cơ Đốc Giáo<br>
+     (Notre Dame professor tackles ‘myth’ of Christian martyrdom)
+	 </p>
+		
+	 
+ 
+    <div class="tomluoc">
+     <p>Giáo  sư Moss chắc rằng khi tín đồ Cơ đốc bị hành quyết, thường thì không phải vì  niềm tin tôn giáo mà vì họ không chấp hành luật lệ La Mã. Nhiều điều luật  dẫn đến việc hành quyết tín đồ Cơ đốc không đặc biệt nhắm vào họ - như luật  đòi hỏi tất cả các công dân La Mã đều phải tham gia vào lễ tế thần linh công  cộng - nhưng vì họ từ chối tuân thủ các luật nầy và các tập tục xã hội La Mã đã khiến họ bị giết.  </p></div>
+    <p><span class="First">B</span>à  Candida Moss, một giáo sư  chuyên về lịch sử Cơ Đốc giáo thời sơ khai tại Đại  học Notre Dame [một Đại học Công giáo ở tiểu bang Indiana] và là một tín hữu  Công giáo thuần thành, muốn đập tan  điều mà bà gọi là “huyền  thoại” Tử đạo trong niềm tin Cơ Đốc giáo.</p>
+    <p>Trong  một tác phẩm mới đây, bà viết rằng tại các lớp giáo lý dạy vào ngày Chủ nhật,  chuyện kể về các tín đồ Cơ đốc thời sơ khai bị bắt tại các buổi tụ họp trong  các hầm mộ bí mật, và sau đó bị bọn La Mã độc ác ném cho sư tử ăn thịt thì đều <b>chỉ  là chuyện hoang đường.</b> Thật ra, trong 250 năm đầu tiên của lịch sử Cơ Đốc  giáo, người La Mã hầu như chỉ xem các tín đồ tôn giáo nầy như những hội viên  lắm chuyện của <b>một giáo phái mê tín</b>.</p>
+    <p>Giáo  sư Candida Moss cho rằng chính quyền chỉ mạnh tay ngược đãi tín đồ Cơ đốc trong  khoảng 10 năm, mà cũng không ngược đãi liên tục. Bà nói rằng nhiều truyện kể  được biết đến nhiều nhất về các Thánh tử đạo Cơ đốc giáo thì <b>hoàn toàn bịa  đặt </b>(<i>entirely fabricated</i>). </p>
+    <p align="center"> <img border="0" width="320" height="134" src="https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/SACHNGOAI/Hinhanh/PEOPLE/CandidaMoss.jpg" alt="https://2.bp.blogspot.com/-rgtcNpV2bG4/UYcHcak0MAI/AAAAAAAAAaU/mLS6jpRlDRM/s1600/VERRIR~3.jpg"> </p>
+    <p>  Luận  đề gây nhiều tranh cãi nầy được trình bày trong tác phẩm “<i>Huyền thoại bị Ngược  đãi: Những Tín Đồ Cơ Đốc Ban Sơ Đã Phát Minh Ra Chuyện Tử Đạo Như Thế Nào</i>”  ("<i>The Myth of Persecution: How Early Christians Invented a Story of  Martyrdom</i>", HarperCollins, New York, 2013),  đã làm bà nhận được nhiều email với nội dung thù hằn và bị vài đồng nghiệp lườm  nguýt. Nhưng bà Moss vẫn cho rằng Giáo hội Công giáo La Mã và các nhà sữ học từ  nhiều thế kỹ nay đã biết rằng <b>hầu hết truyện tín đồ Cơ đốc tử đạo </b>thì hoặc là <b>bị  cường điệu hoặc là được ngụy tạo ra </b>(<i>exaggerated or invented</i>).</p>
+    <p>Một  nhóm nhỏ các Linh mục học giả ở thế kỹ thứ 17 đã bắt đầu sàng lọc lại các huyền  thoại, hoài nghi  không những các chuyện tô vẽ các vị  Thánh (kể cả chuyện Thánh George đâm chết con rồng) mà còn loại bỏ  luôn những truyện rất phổ biến về các thánh tử đạo Cơ đốc buổi sơ khai. </p>
+    <p>Các  sử gia, kể cả giáo sư Moss, cho rằng chỉ có một nhúm  chuyện tử  đạo trong 300 năm đầu tiên của lịch sử Cơ đốc giáo - gồm cả dưới triều đại vị  vua Nero tàn bạo và ghét tín đồ Cơ đốc - là có thể kiểm chứng được.  </p>
+    <p>Theo giáo sư Moss, <b>hầu hết chuyện Thánh tử đạo là “cường điệu” và “ngụy tạo”</b>, 
+     nhưng chuyện nữ thánh Perpetua, một trong 6 chuyện tử đạo, thì có thật.</p>
+    <p align="center"><a href="https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.devhttps://2.bp.blogspot.com/-rgtcNpV2bG4/UYcHcak0MAI/AAAAAAAAAaU/mLS6jpRlDRM/s1600/VERRIR~3.jpg" target="_blank"><img border="0" width="320" height="134" src="https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/TONGIAO/IMG/NANNHAN/Perpetua_tudao.jpg" alt="https://2.bp.blogspot.com/-rgtcNpV2bG4/UYcHcak0MAI/AAAAAAAAAaU/mLS6jpRlDRM/s320/VERRIR~3.jpg"></a> </p>
+    <p align="center"><i>(Nữ thánh  Perpetua gốc Carthage trong tấm ảnh chụp kiếng cửa sổ nhà thờ trên đây, là một  trong sáu vị tử đạo nổi tiếng thời Cơ đốc sơ khai, mà bà Moss tin rằng đã thật sự  bị giết vì tín ngưỡng của mình)</i>.  </p>
+    <p>Giáo  sư Moss chắc rằng khi tín đồ Cơ đốc bị hành quyết, thường thì <b>không phải vì  niềm tin tôn giáo mà vì họ không chấp hành luật lệ </b>La Mã . Nhiều điều luật  dẫn đến việc hành quyết tín đồ Cơ đốc thì không đặc thù nhắm vào họ - như luật  đòi hỏi tất cả các công dân La Mã đều phải tham gia vào lễ tế thần linh công  cộng - nhưng vì họ <b>từ chối tuân thủ các luật nầy và các tập tục xã hội</b> La Mã đã khiến họ bị giết. </p>
+    <p>Giáo  sư Moss cho rằng những tín đồ Cơ đốc ban sơ thì “<i><b>cộc cằn, âm mưu và vô lễ</b></i>”,  bà nhấn mạnh rằng họ không chịu tuyên thệ, không chịu đi lính hay tham gia vào  bất kỳ sinh hoạt nào khác của xã hội La Mã.</p>
+    <p>Có  lúc, bà Moss khách quan gần như lạnh lùng vô cảm khi cố gắng  phân biệt giữa sự ngược đãi thật sự và có hệ thống những tín đồ Cơ đốc vì lý do  tín ngưỡng, với những hành động bạo lực   liên tục chống  lại họ vì họ không chịu tuân thủ luật lệ.</p>
+    <p>Bà  viết rằng “<i>Nếu ta <b>định nghĩa ngược đãi</b> là hành vi thù địch đối với một nhóm  nào đó vì niềm tin tôn giáo của họ, thì chắc chắn rằng người La Mã thấy thật  quan trọng phải cố tình nhắm vào tín đồ Cơ đốc. Nhưng nếu không định nghĩa như  thế thì đây chỉ là một hành động khởi tố (prosecution) chứ không phải ngược đãi  (persecution)</i>”.</p>
+    <p>Bà  cho rằng với sự ngược đãi thật sự của chính quyền, các nạn nhân sẽ không còn  chỗ để điều đình khi cố gắng thuyết phục chính phủ ngừng nhắm vào họ. Nhưng khi  luật lệ của chính quyền vô tình dẫn đến sự ngược đãi, thì nạn nhân vẫn còn chổ  để đối thoại và thảo luận cách thay đổi những luật nầy.</p>
+    <p>Giáo  sư Moss nói rằng “<i>Lý do tôi phân biệt như thế là để trong trường hợp có  người điểm mặt riêng bạn, tra tấn bạn vì bạn là tín đồ Cơ đốc - chuyện đã thật  sự xảy ra trong một vài năm – thì trong trường hợp đó, bạn không thể điều đình  gì được. Bạn sẽ không có cơ hội để kháng cự hay chống lại. [Tuy nhiên] trong  trường hợp có những bất đồng … thì vẫn có chổ để thảo luận</i>”. </p>
+    <p>Bà  Moss nhắc đến <b>bộ luật Y tế mới của Mỹ</b> [Affordable Care Act of 2010] đòi hỏi các công ty bảo hiểm phải trả chi phí ngừa thai như  là ví dụ về một bộ luật vô tình nhắm vào các tín đồ Cơ đốc nhưng lại<b> bị diễn  giải như một cuộc tấn công trực tiếp vào tín ngưỡng </b>của họ. </p>
+    <p>Rất  giống như sắc lệnh của Hoàng đế Diocletian bắt tất cả công dân La Mã phải tham  dự lễ hy sinh cho thần linh (mà bà Moss mô tả như Lời thề Trung thành “<i>Pledge  of Allegiance</i>” phải đọc trước vài buổi lễ công cộng của Mỹ), bà Moss cho  rằng yêu cầu bảo hiểm trả chi phí ngừa thai <b>không phải được ban hành để nhắm  vào hay để phân biệt đối xữ tín đồ Cơ đốc</b>. (Tín đồ Cơ đốc và các thành phần  dân chúng khác từ chối dự lễ hiến tế vào thế kỷ thứ tư đã bị tàn sát. Còn các tổ  chức Cơ đốc không muốn trả chi phí ngừa thai theo đạo luật của thế kỹ 21 nầy  thì bị phạt) </p>
+    <p>Đại  học Notre Dame là một trong hàng tá đại học tôn giáo đã kiện [chính phủ] về đạo  luật trả tiền kiểm soát sinh đẻ nầy, họ cho rằng cung cấp cho nhân viên và sinh  viên loại bảo hiểm sức khỏe trả tiền các biện pháp ngừa thai thì <b>vi phạm  quyền tự do tôn giáo </b>của đại học. </p>
+    <p>Bà  Moss nói rằng có vài tổ chức trong cộng đồng tôn giáo đã định kiến rằng<b> đạo  luật trả chi phí ngừa thai nầy là một sự cố tình ngược đãi tín đồ Cơ đốc  thay vì xem đó như một chính sách sai lầm</b>, thì điều nầy chỉ làm cho họ khó  điều đình mà thôi.</p>
+    <p>Bà  nói rằng “<i>dán cái nhản hiệu “ngược đãi”[lên đạo luật] thì cũng như nói  “Chúng ta đang bị tấn công, chúng ta đang bị ngược đãi. Phe bên kia không có lý  do để làm điều nầy và chúng ta phải chống lại. Chúng ta không nên đàm phán hoặc  thỏa hiệp</i>”. </p>
+    <p>Giáo  sư Moss cho biết riêng cá nhân bà, bà đã chống lại quyết định của đại học Notre  Dame khi kiện đạo luật nầy. Bà nói “<i>Tôi nghĩ rằng Đại học Notre Dame không  kiểm soát chuyện tôi tiêu pha lương của tôi như thế nào, do đó đòi kiểm soát  loại chăm sóc sức khỏe mà mỗi người chọn lựa thì có lẽ đó không phải là điều  chúng ta nên làm. Tôi nghĩ rằng các định chế Công giáo nên phó thác chuyện đừng  dùng biện pháp ngừa thai cho nhân viên của họ</i>”.</p>
+    <p>Giáo  sư Moss nói rằng cái “mặc cảm ngược đãi” (<i>persecution complex</i>) các tín  đồ Cơ đốc buổi sơ khai đã ảnh hưởng đến cuộc tranh luận chính trị tại Mỹ thời  hiện đại. Bà nói thêm rằng có những đài truyền hình cáp nhai đi nhai lại rằng  tại Mỹ đã cố tình có một “<i>Cuộc chiến chống lại Lễ Giáng sinh</i>” (<i>War on  Christmas</i>) là một ví dụ cụ thể về huyền thoại tử đạo của thời hiện đại. [Bà  Moss muốn nói đến khuynh hướng càng lúc càng lan rộng của người Mỹ và các tập  đoàn kinh doanh đại siêu thị tại Mỹ đã <b>từ từ không dùng cụm từ “<i>Merry  Christmas</i>” nữa </b>mà dùng “<i>Greeting Seasons</i>” để quảng cáo hoặc chúc  tụng nhau vào dịp lễ hội cuối năm dương lịch - LND] </p>
+    <p>Năm  ngoái, trong chiến dịch tranh cử sơ bộ đảng Cọng Hòa, khi vị cựu Chủ tịch Hạ  viện Newt Gingrich biện giải rằng đang có một cuộc chiến tranh “gây hấn” chống  lại Cơ đốc giáo trên toàn lãnh thổ, bà Moss nghe như vang vọng một <b>cuộc thánh  tử đạo ngụy hình </b>(<i>apocryphal martyrdom</i>) </p>
+    <p>Giáo  sư Candida Moss nói bà tin rằng đánh tan những điều hoang đường về tử đạo của  Hội thánh sơ khai  sẽ [không vì thế] mà giảm thiểu tình trạng ngược đãi tôn  giáo đang xảy ra trên thế giới.</p>
+    <p>Bà  nói rằng: “<i>Tôi hoàn toàn thông cảm với mối quan tâm của những người chỉ  trích tôi là khi viết một tác phẩm như thế nầy, có thể tôi sẽ làm cho người ta  bớt chú ý đến tình trạng ngược đãi trên thế giới. Tôi có quan tâm đến tình  trạng nầy chứ. Tôi nghĩ rằng chúng ta phải quan tâm đến những người bị đàn áp.  ..</i>.”<img src="https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/sqdot.gif" width="10" height="10"></p>
+<p class="TacgiaL">Liz Goodwin</p>
+    
+    <p>Dịch từ:<br>
+https://news.yahoo.com/blogs/lookout/notre-dame-professor-tackles-myth-christian-martyrdom-151620492.html </p>
+    <p class="nguonL">[Nguồn: https://hoangnamgiao.blogspot.com/2013/05/giao-suai-hoc-notre-dame-xu-tri-huy-en.html ]</p>

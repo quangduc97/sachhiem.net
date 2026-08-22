@@ -1,0 +1,99 @@
+---
+layout: ../../../layouts/Article.astro
+title: "[VATICANOLOGY] - Tại Sao Chính Quyền Vatican Thèm Khát Quan Hệ Ngoại Giao Và Đưa Giáo Hoàng Đến Việt Nam. - Bài 5"
+author: "Minh Thạnh"
+date: 2022-05-29
+source: "https://sachhiem.net/TONGIAO/tgM/MinhThanh33c.php"
+category: "Chính trị"
+lang: vi
+wordCount: 3659
+image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/TONGIAO/IMG/UKRAINE/VietCatholicNews_bai5_May2022.jpg"
+---
+
+<p class="Tuaduoi">Cách Mà Chính Quyền Vatican Sử Dụng Sứ Thần Cho Hoạt Động Lật Đổ, Trường Hợp Ukraina</p>
+
+
+ 
+ <div class="tomluoc">
+   <p><i>Khi cần kích hoạt hoạt động lật đổ, chính quyền Vatican sẽ sử  dụng đến sứ thần chính quyền Vatican ở nước sở tại.</i></p>
+   <p><i>Chúng ta sẽ thấy một tiến trình như vậy đang diễn ra ở Ukraina,  nhằm trực tiếp vào Đại giáo chủ Kirill, nhằm gián tiếp vào tổng thống Putin.</i>...</p>
+   <p><i>Các quan chức  cao cấp của chính quyền Vatican ở các nước, từ các giám mục, tổng giám mục đều  như là những chiến binh bất khả xâm phạm, là những chuyên gia bạo loạn lật đổ  ngoại hạng có bảo kê mạnh. </i></p>
+   <p><i>Đây là điều các nước đều cần chú ý khi tiến đến quan  hệ ngoại giao với chính quyền Vatican.</i></p>
+ </div>
+ <p>   <strong>Cường Quốc  Ngoại Giao</strong>.</p>
+<p>Khi khoa nghiên cứu quan hệ quốc tế nói đến các cường quốc, thì  chỉ Mỹ, Nga, Anh, Pháp, Trung Quốc, năm quốc gia thành viên thường trực của Hội  đồng Bảo an Liên Hiệp Quốc được nhắc đến, đôi khi có kể thêm Ấn Độ, Nhật Bản.  Cũng có trường hợp một số nước khác trong G7 (bảy nước công nghiệp hóa hàng đầu  thế giới) được kể đến. Tuy nhiên, hầu như nhà nước Vatican không được nhắc qua,  cho dù nước này tự xưng mình là cường quốc ngoại giao, có quan hệ ngoại giao  với 183 nước trên thế giới. Chính quyền Vatican cũng có 1,3 tỷ giáo dân, một hệ  thống chính quyền song song với chính quyền rất nhiều nước trên thế giới.</p>
+<p>Không kể nhà nước Vatican là một cường quốc ngoại giao hàng đầu  thế giới thì sẽ không hiểu được nỗi thèm khát đặt quan hệ ngoại giao với số ít  các quốc gia còn lại mà chính quyền Vatican chưa có quan hệ ngoại giao.</p>
+<p>Do là một cường quốc ngoại giao, chính quyền Vatican sẽ triển  khai sức mạnh của mình, không chỉ sức mạnh mềm mà còn là sức mạnh cứng, kích  động bạo loạn lật đổ nhằm vào các chính quyền mà chính quyền Vatican chỉ không  cần vừa ý, chứ chẳng chờ đến mức coi là kẻ thù, như trường hợp chính quyền  Putin của Liên Bang Nga và Đại giáo chủ Kirill của Tòa thượng phụ Matxcơva,  Giáo hội Cơ đốc Chính thống giáo Nga, kẻ thù của chính quyền Vatican trong cuộc  chiến Ky tô hữu giết nhau đẫm máu.</p>
+<p>Khi cần kích hoạt hoạt động lật đổ, chính quyền Vatican sẽ sử  dụng đến sứ thần chính quyền Vatican ở nước sở tại.</p>
+<p>Chúng ta sẽ thấy một tiến trình như vậy đang diễn ra ở Ukraina,  nhằm trực tiếp vào Đại giáo chủ Kirill, nhằm gián tiếp vào tổng thống Putin.</p>
+<p>Cuộc chiến ở Ukraina là một cuộc Thánh chiến, Ky tô hữu giết  nhau, Thiên Chúa Vatican phía Tây đấu Thiên Chúa Matxcơva phía Đông. Tuy nhiên  các bên tham gia đều ra sức che dấu bản chất Ky tô hữu giết nhau của cuộc chiến.</p>
+<p>Nhưng dần dần chính quyền Vatican và Tòa thượng phụ Matxcơva đều  ra mặt trong cuộc ác chiến với những hành động quyết liệt nhắm vào nhau. Giáo  hoàng Phanxicô và Đại giáo chủ Kirill đều vào trận để công kích nhau. Giáo  hoàng Phanxicô thóa mạ Kirill là cậu bé giúp lễ cho Putin, còn Thượng phụ  Kirill đáp trả bằng những lời gay cấn không kém mà VietCatholic News chỉ dám sơ  lược thông tin, không dám dịch chi tiết.</p>
+<p align="center"><a href="https://www.youtube.com/watch?v=AeMp-JNs-Gk"><img src="https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/TONGIAO/IMG/UKRAINE/VietCatholicNews_bai5_May2022.jpg" width="400" height="480" alt=""></a></p>
+<p>Trong bối cảnh như vậy, xem trên VietCatholic News, chúng ta  thấy sứ thần của chính quyền Vatican tại Ukraina đã được điều ra trận, làm lực  lượng tiến công chủ đạo trước hết nhằm vào Đại giáo chủ Kirill như thế nào.</p>
+<p>Khảo sát trường hợp sứ thần chính quyền Vatican tại Ukraina,  chúng ta sẽ hiểu hơn tại sao chính quyền Vatican thèm khát quan hệ ngoại giao.  Trong trường hợp chỉ cần có mâu thuẫn, chưa xảy ra xung đột, sứ thần chính  quyền Vatican tại nước sở tại sẽ là một thứ vũ khí lợi hại, cực kỳ nguy hiểm  cho đối phương của chính quyền Vatican.</p>
+<p align="center"><img src="https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/TONGIAO/IMG/UKRAINE/UKnew-VaticanAmbassador.PNG" width="400" height="312" alt=""></p>
+<p align="center"><i>Giáo hoàng Francis tiếp đại sứ Vatican mới của Ukraine</i></p>
+ <p class="Tuaduoi"><strong>Sứ Thần Chính  Quyền Vatican Tại Ukraina Đã Vào Cuộc Kích Động Lật Đổ Đại Giáo Chủ Kirill Như  Thế Nào</strong>.</p>
+ <p>Để chống lại chính quyền Nga và Cơ đốc Chính thống giáo Nga,  trong cuộc xung đột ở Ukraina từ năm 2014, có 3 quân cờ mà chính quyền Vatican  có thể sử dụng.</p>
+<p>   Lực lượng chủ yếu tạo nên cuộc đảo chính Euromaidan 2014 là lực  lượng Catholic Action Casaroli miền Tây Ukraina, gốc Ba Lan. Lực lượng này chịu  sự lãnh đạo tinh thần của Tổng giám mục Tổng giáo phận Lvov, tổng giáo phận này  bao gồm phần lớn Tây Ukraina. Sự đối kháng tôn giáo, dân tộc trong cuộc đảo  chính Euromaina rất rõ, nhưng chính quyền Vatican ý thức là không nên cho người  Ukraina, người Nga và thế giới thấy điều này.</p>
+<p>   Ngụy trang là cốt lõi của Học thuyết Casaroli. Trong những cuộc  xung đột, bạo loạn, lật đổ, thậm chí chiến tranh, thì các quan chức chính quyền  Vatican vẫn cố giữ bộ mặt thánh thiêng, che dấu yếu tố tôn giáo, cho dù bản  chất của xung đột hay chiến tranh là từ mâu thuẫn tôn giáo.</p>
+<p>   Khi cuộc chiến Ukraina nổ ra vào tháng 2/2022, về lực lượng tôn  giáo, chính quyền Vatican có trong tay:</p>
+<p>   - Hội đồng giám mục Ukraina, trong đó nổi bật vai trò Tổng giám  mục Lvov.</p>
+<p>   - Tổng giám mục Trưởng Giáo hội Công giáo phương Đông Ukraina.  Tổng giám mục Trưởng này tuy là một giáo hội Công giáo riêng rẽ, nhưng lại  tuyên thệ thần phục Giáo hoàng Tổng giám mục trưởng này (có nơi dịch là Đại  Tổng giám mục) ảnh hưởng đến nhiều triệu tín đồ Công giáo phương Đông tại  Ukraina. Xét về mặt số lượng tín đồ, thì Tổng giám mục Trưởng Công giáo phương  Đông Ukraina có trong tay số giáo dân vượt trội so với Catholic Roma giáo (Tổng  giám mục Tổng giáo phận Lvov), nhưng về mặt thực lực, khó xác định bên nào hơn  bên nào.</p>
+<p>   - Sứ thần chính quyền Vatican tại Ukraina.</p>
+<p>   Thể theo yêu cầu của bạn đọc, để bạn đọc dễ đọc các bài viết  liên hệ đến quan hệ quốc tế, việc đưa các danh từ riêng tiếng nước ngoài sẽ được  hạn chế thay vào đó chỉ nhấn mạnh đến chức vụ, giúp bạn đọc nắm được nội dung  mà không rối rắm, lùng bùng.</p>
+<p>   Trong ba quan chức tôn giáo cao cấp nhất tại Ukraina mà chính  quyền Vatican có thể điều động, nổi bật lên vai trò của Sứ thần chính quyền  Vatican tại Ukraina, dù ông này đến từ nước ngoài.</p>
+<p>   Cái cách chính quyền Vatican sử dụng sứ thần của họ trong trường  hợp này cho thấy ưu thế của siêu đế chế Vatican trên mặt trận ngoại giao, mưu  sâu kế hiểm của chính quyền Vatican khi dùng các quân cờ mà họ có trong tay để  đi những nước cờ tính toán đầy thủ đoạn.</p>
+<p>   Trong số ba quan chức tôn giáo của chính quyền Vatican thì Sứ  thần chính quyền Vatican là quan chức được chính quyền Vatican tin cậy nhất, và  là quan chức có tiếng nói mạnh nhất.</p>
+<p>   Sứ thần chính quyền Vatican là quan chức từ chính quyền Trung  ương Vatican trực tiếp cử đến. Đó là người của đầu não. Tổng giám mục Tổng giáo  phận Lvov là nhân vật quan chức tôn giáo ở Ukraina được chính quyền Vatican tin  cậy thứ hai. Vì đối với chính quyền Vatican hiện nay, việc cử Tổng giám mục,  giám mục đến từ chính quyền Vatican Trung ương ngày càng ít đi. Thay vào đó là  việc tuyển chọn từ các quan chức chính quyền Vatican cấp linh mục ở địa phương  (ở Việt Nam không còn tổng giám mục, giám mục nào từ chính quyền Vatican Trung  ương cử đến.).</p>
+<p>   Còn Tổng giám mục Trưởng Công giáo phương Đông Ukraina là một  quan chức tự trị, tuyên thệ thần phục Giáo hoàng chính quyền Vatican và được  chính quyền Vatican công nhận đáp lại.</p>
+<p>   Cho nên, đối với chính quyền Vatican, Tổng giám mục Trưởng Công  giáo phương Đông Ukraina là quan chức kém tin cậy nhất, cho dù dưới tay ông ta  có một lực lượng giáo dân đông đảo.</p>
+<p>   Do cả Hội đồng Giám mục Ukraina, Tổng giám mục Trưởng Công giáo  phương Đông Ukraina đều công nhận vai trò đại diện Giáo hoàng của Sứ thần chính  quyền Vatican, nên mặc nhiên vị thế của sứ thần chính quyền Vatican trở nên  vượt trội, dù ông này về mặt nguyên tắc chỉ là một quan chức ngoại giao.</p>
+<p>  “Tuyệt kỹ” của nghệ thuật ngoại giao của chính quyền là ở chỗ  này. Sứ thần chính quyền Vatican vừa là một nhà ngoại giao (như các đại sứ khác  của các nước), vừa là lãnh đạo của chính quyền Vatican tại nước sở tại khi cần.  Chính quyền Vatican là chính quyền có thể can thiệp mạnh mẽ vào nội bộ các quốc  gia, vì ở nước nào, chính quyền Vatican đều có lực lượng giáo dân.</p>
+<p>   Khi chính quyền Vatican có đại diện thường trú tại một quốc gia  nào đó, vị trí quan chức lãnh đạo chính quyền Vatican tại nước sở tại đối với người  mà chính quyền Vatican tuyệt đối tin tưởng đã được xác lập. Quan chức từ đại  diện thường trú trở lên của chính quyền Vatican thực chất là một quan thái thú,  quan toàn quyền, không phải là một quan chức ngoại giao bình thường.</p>
+<p>   Đối với đại diện không thường trú của chính quyền Vatican, có  Hội đồng giám mục địa phương còn coi là “đại diện của Đức Thánh Cha”, nữa là  khi hai bên có quan hệ ngoại giao, chính quyền Vatican cử sứ thần, tuyên bố đại  diện của Giáo hoàng một cách chính thức.</p>
+<p>   Ngay khi chiến sự Ukraina nổ ra, Sứ thần chính quyền Vatican tại  Ukraina đã biến văn phòng làm việc của mình thành một studio truyền hình như  kiểu tổng thống Ukraina Zelensky làm. Tuy nhiên, studio của sứ thần chính quyền  Vatican tốt hơn studio của tổng thống Ukraina.</p>
+<p>   Studio của Sứ thần chính quyền Vatican tại Ukraina có trang bị  ánh sáng chuyên nghiệp hơn, thu thanh cũng tốt hơn.</p>
+<p>   Trong khi đó, Tổng giám mục Lvov dường như không thấy xuất hiện.  Tổng giám mục Trưởng Giáo hội Công giáo phương Đông Ukraina thì thỉnh thoảng  đưa lên hình ảnh phát biểu ở nhiều nơi, đứng mà nói từng đoạn ngắn. Chỉ có sứ  thần chính quyền Vatican tại Ukraina ngồi phát biểu kiểu tổng thống Ukraina tại  bàn giấy, đầy quyền uy, trên vị thế đặc biệt của người đứng đầu một chính quyền  song hành.</p>
+<p>   Khi chiến sự Ukraina nổ ra, thì các đại sứ nước ngoài đua nhau  chạy ra khỏi Kiev, tới Lvov đặt tòa đại sứ tạm.</p>
+<p>   Chỉ có sứ thần của chính quyền Vatican ở lại, lên video mạng tại  bàn làm việc xác định tử thủ. Đồng thời với xác định tử thủ, vị tổng giám mục  đại sứ tuyên bố quyền và trách nhiệm lãnh đạo của ông, coi đó là lý do tổng  giám mục sứ thần chính quyền Vatican ở lại Kiev.</p>
+<p>   Sau đó, trong các lần lên video thì sứ thần chính quyền Vatican  đã mạnh mẽ chỉ trích Đại giáo chủ Kirill, đương nhiên nhân danh tiếng nói đại  diện Giáo hoàng (Apostolic Nunciature).</p>
+<p>   Ở đầu kia của Kiev, Tổng thống Zelensky còn phải trốn chui trốn  nhủi, nay thu hình ở chỗ này, mai thu hình ở chỗ kia. Có khi ánh sáng nơi thu  hình mờ mờ không rõ mặt tổng thống.</p>
+<p>   Còn ở bên này Kiev, trong phòng làm việc của Tòa sứ thần, ánh  sáng chất lượng studio, Tổng giám mục sứ thần chính quyền Vatican đường bệ trên  bàn làm việc cố định, đưa ra những phát ngôn y như tổng thống thứ hai của  Ukraina, nhằm vào lãnh đạo tôn giáo của Nga. Tổng thống Zelensky thì hướng  những chỉ trích vào tổng thống Nga, còn Tổng giám mục sứ thần chính quyền  Vatican phụ trách tấn công nhà lãnh đạo Cơ đốc Chính thống giáo Nga.</p>
+<p>   Cái cách mà sứ thần chính quyền Vatican làm, nội dung mà ông ta  nói cho thấy chính quyền Vatican là một bên trong chiến sự Ukraina.</p>
+<p>   Đại sứ Mỹ, đại sứ Anh, đại sứ Ba Lan... tại Ukraina, những nước  đi đầu trên mặt trận chống Nga cũng đều không có được kiểu nói, nội dung nói  như Sứ thần chính quyền Vatican tại Ukraina.</p>
+<p>   Vai trò của chính quyền Vatican trong cuộc chiến hiện rõ qua  hình ảnh trên mạng của Tổng giám mục Sứ thần chính quyền Vatican tại Ukraina.</p>
+<p>   Sứ thần chính quyền Vatican tại Ukraina trong thực tế vừa là  kiểu Giáo hoàng tiền phương, vừa là thống soái Công giáo toàn Ukraina (gồm  Catholic Roma giáo và Catholic phương Đông), tổng số giáo dân ước khoảng 10%  dân số Ukraina, chiếm tỷ lệ khoảng 70% dân số miền Tây Ukraina (khu vực chống  Nga, chống Cơ đốc Chính thống giáo Nga quyết liệt nhất.).</p>
+<p>   Cái hay của chính quyền Vatican ở chỗ, tổng thống Zelensky còn  bị đặc nhiệm Nga giết hụt, còn sứ thần chính quyền Vatican cứ đường hoàng nói  chuyện lật đổ Đại giáo chủ Kirill mà không sợ ai động phạm đến. Không phải Tổng  giám mục sứ thần có phép lạ, mà điều đó như một lẽ đương nhiên. Các quan chức  cao cấp của chính quyền Vatican ở các nước, từ các giám mục, tổng giám mục đều  như là những chiến binh bất khả xâm phạm, là những chuyên gia bạo loạn lật đổ  ngoại hạng có bảo kê mạnh. Đây là điều các nước đều cần chú ý khi tiến đến quan  hệ ngoại giao với chính quyền Vatican.</p>
+ <p><strong>Sứ Thần: Quân  Cờ Có Nước Đi Hậu</strong>.</p>
+ <p>Sứ thần chính quyền Vatican là một quân cờ đặc biệt linh hoạt.</p>
+<p>   Sứ thần chính quyền Vatican có thể theo lệnh chính quyền Vatican  tiến công một cách hết sức bạo liệt, đồng thời có thể rút lui một cách vô cùng  khéo léo.</p>
+<p>   Cách xử trí linh hoạt này của chính quyền Vatican có từ thời  Hồng y Quốc vụ khanh Casaroli, khi hoạt động ngoại giao của chính quyền  Vatican, đặc biệt là với các nước khối xã hội chủ nghĩa, được nâng lên tầm...  nghệ thuật.</p>
+<p>   Ngoại giao của chính quyền Vatican là thứ ngoại giao có tiến, có  thoái, giảo hoạt, sắc sảo.</p>
+<p>   Khi việc tiến công trở nên không phù hợp, không còn cần thiết,  không có lợi chính quyền Vatican có thể thoái lui, thậm chí rút lại những hành  động, lời nói chính thức của chính quyền Vatican. Khi đó, chính quyền Vatican  sẽ đổi sứ thần, như trường hợp cuộc lật đổ bất thành nhằm vào chính quyền của  tổng thống Lukashenko.</p>
+<p>   Không như đối với một Hồng y, một tổng giám mục chủ tịch Hội  đồng Giám mục hoặc tổng giám mục, giám mục các tổng giáo phận, giáo phận khi  chính quyền Vatican muốn rút thì không biết rút đi đâu. Một cách không đẹp mặt  đẹp mày gì là lệnh cho quan chức cao cấp của chính quyền Vatican tự xử (như  kiểu Tổng giám mục Ngô Quang Kiệt ở Việt Nam từ chức vì lý do sức khỏe), hoặc  cho đi lưu vong (như Tổng giám mục Nguyễn Văn Thuận).</p>
+<p>   Đối với một sứ thần, chính quyền Vatican có thể xử lý bằng việc  thay một sứ thần mới. Sứ thần mới của chính quyền Vatican có thể nói hoàn toàn  khác nội dung, giọng điệu của sứ thần cũ. Đó là khi cuộc xung đột diễn tiến  không có lợi cho chính quyền Vatican. Chính quyền Vatican có thể lật ngược thế  cờ giữ thể diện, giữ gìn mối quan hệ, chờ đợi thời cơ, để có thể kích hoạt  những diễn biến kiểu Casaroli.</p>
+<p>   Cho nên, khi đặt sứ thần, chính quyền Vatican mặc nhiên đã ở  “kèo trên” trong mọi cuộc đấu. Sứ thần là đại diện của Giáo hoàng, là quan chức  tuyệt đối tin cậy của chính quyền Vatican, vừa bất khả xâm phạm, vừa bất khả  chiến bại (mới chớm thấy thua thì có thể thay thế ngay). Sứ thần trước có thể  “ăn đàng sóng”, sứ thần sau có thể “nói đàng gió”, triệt để giữ thể diện, vị  thế cho chính quyền Vatican trong mọi trường hợp.</p>
+<p>   Ở rất nhiều nước, đoàn ngoại giao các nước thống nhất nhau cử sứ  thần chính quyền Vatican làm trưởng đoàn đoàn ngoại giao các nước, tức là Sứ  thần chính quyền Vatican có thể đại diện chung cho các đại sứ trong quan hệ với  nước chủ nhà. Dù chỉ là nghi thức, nhưng vai trò trưởng đoàn các đoàn ngoại  giao cũng tạo cho sứ thần chính quyền Vatican vị thế hết sức đặc biệt đối với  nước sở tại (ông Phạm Xuân Chiểu, Đại sứ Việt Nam Cộng Hòa tại Hàn Quốc vào đầu  thập niên 1970 nói chỉ bất tiện một diều là Sứ thần chính quyền Vatican không  có vợ, được hiểu để đại diện cho các phu nhân đại sứ).</p>
+<p>   Hiện nay, chính quyền Vatican vừa cho Sứ thần ở Ukraina nói  chuyệt lật đổ Đại giáo chủ Kirill, nhưng cũng vừa cho Sứ thần chính quyền  Vatican tại Liên Bang Nga làm Lễ Phục sinh với Đại giáo chủ Kirill. Cả hai sứ  thần chính quyền Vatican ở Kiev và ở Matxcơva đều đại diện cho Giáo hoàng.</p>
+<p>  <i>“Rằng hay thì thật là hay” </i>(Kiều).</p>
+<p>   (còn tiếp)</p>
+
+<div class="leftborder">
+  <p>   FACEBOOK MINH THẠNH  THÔNG BÁO. THÔNG BÁO NÀY LÀ MỘT PHẦN NỘI DUNG BÀI VIẾT:</p>
+  <p>   Facebook Minh Thạnh  hoàn toàn không chịu trách nhiệm đối với nội dung các bình luận phản hồi, nội  dung thể hiện ngoài bài viết dưới mọi hình thức: văn bản, âm thanh, hình ảnh,  video gồm cả do bạn đọc gởi đến, hay do Facebook hiển thị từ trích dẫn nguồn trong  bài. </p>
+  <p>   Hoàn toàn không chịu  trách nhiệm đối với mọi hình thức đăng tải lại, khai thác, sử dụng, trích dẫn  bài viết, dù trong những trường hợp không hạn chế những việc trên. </p>
+  <p>   Hoàn toàn không chịu  trách nhiệm đối với những suy đoán, rút ra kết luận, liên hệ chủ quan, riêng  tư, tùy tiện, không căn cứ chính xác vào nội dung ngôn từ bài viết. </p>
+  <p>   Hoàn toàn không chịu  trách nhiệm liên hệ đến những danh từ riêng không được nói đến trong bài. Hoàn  toàn không chịu trách nhiệm về các câu trả lời đối với những câu hỏi được nêu  ra trong bài viết. </p>
+  <p>   Hoàn toàn không chịu  trách nhiệm về những nội dung thông tin, bình luận, số liệu, tư liệu, trích dẫn  nêu trong bài có tựa đề đặt dấu hỏi, hoặc nêu trong câu hỏi, hoặc dưới dạng câu  hỏi hoặc kèm những hình thức thể hiện nghi vấn khác.</p>
+  <p>   Trong tinh thần chặt  chẽ trong việc tự biên tập, tự kiểm duyệt theo hướng những quan điểm của các  quy định mới về an ninh mạng, Facebook Minh Thạnh hạn chế tối đa việc nêu các  danh từ riêng cơ quan, tổ chức, cá nhân; hạn chế tối đa việc đưa đường dẫn, hạn  chế tối đa việc đăng hình, hạn chế tối đa việc đăng lại trực tiếp nội dung cần  trích dẫn mà thay bằng tường thuật gián tiếp (không đòi hỏi tuyệt đối chính  xác)...</p>
+  <p>   Trường hợp Facebook  Minh Thạnh đăng hình ảnh được công bố trên truyền thông đại chúng (internet),  kết quả tìm kiếm của Google, Google thông báo hình ảnh có thể có bản quyền,  không xác định rõ bản quyền có hay không, thì đối với hình ảnh đã đăng có bản  quyền và có điều kiện đăng, xin vui lòng liên hệ riêng để chỉ đăng lại sau khi  đã thỏa thuận. Tất cả hình ảnh được đăng trên Facebook Minh Thạnh đều chỉ có  tính chất minh họa mà thôi. Nếu ảnh không có lời chú thích trong bài viết, ảnh  không liên hệ nội dung bài viết. Hình ảnh luôn luôn được đăng bên ngoài bài  viết.</p>
+  <p>   Cảnh báo có Facebook  Minh Thạnh giả, dùng chân dung của tác giả Minh Thạnh.</p>
+  <p>   Cảnh báo về trường  hợp tấn công tin học vào Facebook Minh Thạnh làm biến động nội dung và kỹ thuật  trình bày như đã xảy ra. Mong bạn đọc hỗ trợ bằng cách thông tin khi phát hiện  những vấn đề bất thường, nhất là ở những bài viết cũ. Trường hợp có tấn công  tin học, tác giả Minh Thạnh không chịu trách nhiệm về những biến động nội dung  (gồm bài viết, hình ảnh, video, âm thanh...). Cá nhân, đơn vị tổ chức tấn công  tin học chịu hoàn toàn trước pháp luật.</p>
+  <p>   Hoan nghênh ý kiến  phê bình, đóng góp từ bạn đọc và tích cực điều chỉnh nếu xét thấy phù hợp.  Thông báo này là một phần của nội dung bài viết, vì vậy tác giả bài viết không  chịu trách nhiệm nếu phát sinh khiếu nại tố cáo đối với bài viết trong những  trường hợp đã nêu ở trên. </p>
+</div>
+<p>Bài viết đến đây là hết.</p>
+<p><span class="TacgiaL">Minh Thạnh </span></p>
+ <p>(vinasat1.132@gmail.com, 0915553610).</p>
+ <p>____________ COMMENTS ____________</p>
+ <p class="nguonL">Nguồn <a href="https://www.facebook.com/cusiminhthanh/posts/pfbid02Ad8FjcLrvCvFJgrnnzcGKVjim4BZeUPDtcQmaQ3SkKwxCMhxTxwEvjT74Wde2xzGl">@cusiminhthanh</a> ngày 12 tháng 5, 2022</p>

@@ -1,0 +1,84 @@
+---
+layout: ../../../layouts/Article.astro
+title: "[VATICANOLOGY] - Đại Hội Giới Trẻ: Phức Cảm Hành Động (Catholic Action)"
+author: "Minh Thạnh"
+date: 2022-12-03
+source: "https://sachhiem.net/TONGIAO/tgM/MinhThanh40_DenHung.php"
+category: "Tác giả"
+lang: vi
+wordCount: 3090
+image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/TONGIAO/IMG/DENHUNG/DaihoiGT25Nov22c.jpg"
+---
+
+<p class="Tuaduoi">Phức Cảm  Chính Trị, Phức Cảm  Biểu Dương Lực Lượng Của Chính Quyền Vatican? </p>
+
+
+ 
+ 
+ <div class="tomluoc">
+   <p><i>Trước lời đề nghị của bạn đọc viết về “Đại hội Giới trẻ giáo tỉnh Hà Nội 2022”, tôi chỉ lấy đó làm gợi ý để viết về lý luận chung ở một số chiều kích ở chính quyền của Chính quyền Vatican, đặc biệt là lực lượng hành động (Catholic action)? Việc liên hệ phần lý luận chung vào bất kỳ trường hợp cụ thể nào, nhất là ở Việt Nam hiện nay, đều do nơi bạn đọc </i>(MT)</p>
+ </div>
+ <p class="Tuaduoi">Phức Cảm Đám Đông Vaticanese.</p>
+ <p><span class="First">T</span>ập trung đám đông là thế mạnh hàng đầu của Chính quyền Vatican?  Đám đông mà Chính quyền Vatican tại Việt Nam hướng tới (dự kiến trong tương lai  là một triệu người tại Trung tâm hành hương Núi Cúi để chào mừng khi Giáo hoàng  đến. Còn các đám đông Vaticanese (giáo dân thuộc Chính quyền Vatican) cở hàng  trăm ngàn người không phải là việc hiếm?</p>
+<p>   Tại miền Nam Việt Nam trước năm 1975, Chính quyền Vatican đã huy  động đám đông khoảng 35 ngàn người để tạo áp lực lật đổ thủ tướng Chính quyền  Sài Gòn là ông Phan Huy Quát?</p>
+<p>   Cho nên, <b>thèm khát đám đông là căn tính </b>(dao hai lưỡi) nó tôn  vinh Chính quyền Vatican và thể hiện sức mạnh đe dọa những chính quyền mà Chính  quyền Vatican không vừa lòng, như trường hợp lật đổ Chính quyền Sài Gòn của thủ  tướng Phan Huy Quát? </p>
+<p>   Đám đông Vaticanese lật đổ tổng thống Phác Cận Huệ (Park  Geun-hye) của Hàn Quốc cử hành thánh lễ nguyền rủa bà tổng thống “tà giáo” (vì  nữ tổng thống lúc đó bị tố cáo theo Shaman giáo, gọi hồn?)? Kết quả là tổng  thống phải từ chức và bị kết án?</p>
+<p>   Phức cảm đám đông Vaticanese kích hoạt ở giáo dân của Chính  quyền Vatican tinh thần “Tổ quốc Vatican” của họ, đưa tinh thần Vaticanese lên  đến mức mãnh liệt? Trong những cuộc tập trung như vậy, nếu cần ngụy trang, mã  hóa, thể hiện một cách mềm dẻo, không gây mâu thuẫn với chính quyền nước sở tại  về sự hiện hữu của hai chính quyền song song, thì các quan chức Chính quyền  Vatican thay vì nhắc đến Chính quyền Vatican hay Catholic, họ sẽ nói nhiều đến  “giáo hoàng”, Đức Thánh Cha, nguyên thủ của Chính quyền Vatican?</p>
+<p>   Hầu hết các cuộc tập trung đám đông Vaticanese cho dù nước sở  tại có quan hệ ngoại giao với Chính quyền Vatican hay không, họ đều dùng hình  thức diễn đạt này? Khi đám đông Vaticanese tập trung, họ sẽ tự thanh tẩy để chỉ  còn là Vaticanese, nghĩa là chỉ là chiên mà thôi, vứt bỏ ý thức dân tộc nguồn  cội bản địa?</p>
+<p>   Phức cảm đám đông tạo nên ở quan chức và giáo dân Chính quyền  Vatican (Vaticanese) một khoái cảm, xúc động mãnh liệt về con người Vaticanese  của họ?</p>
+<p>   Cho nên, có cơ hội là họ tổ chức các đám đông Vaticanese, lợi  dụng cả những lễ hội cận tôn giáo (như Haloween)?</p>
+<p>   <b>Hậu quả tai nạn đám đông vì thế không tránh khỏi.</b></p>
+<p>   Phức cảm đám đông ở Vaticanese còn tạo nên ở họ cảm hứng về sực  mạnh, về lực lượng? Cơ hội tập họp đám đông Vaticanese là cơ hội biểu dương lực  lượng của họ? Chiều kích biểu dương lực lượng này có liên hệ đến phức cảm hành  động (Catholic action) mà chúng ta sẽ nói ở sau?</p>
+<p>   Có thể đi hành lễ chủ nhật, hoặc trong đời sống hàng ngày,  Vaticanese có thể có mặc cảm thiểu số, tự ti bên lề xã hội, mà họ gọi chung là  người lương? Nhưng khi tập trung thành số đông diễn hành trên đường phố, mít  tinh vài chục ngàn đến cả trăm ngàn người, họ trở nên tự tin đa số, nung nóng  động cơ hành động?</p>
+<p>   Đám đông càng lớn thì tác động kích thích (gồm cả khía cạnh kích  thích hành động – Catholic action?) càng mạnh.</p>
+<p>   Đám đông nào đó có thể là những đám đông ô hơp, tứ phương, tứ  xứ, tuy vậy đám đông Vaticanese ở xứ nào thì cũng thống nhất trong “<i>Tổ quốc  Vatican, căn tính Vaticanese</i>” của họ, với “Đức Thánh Cha”?</p>
+<p>   Cho nên tình hình xuất hiện ngày càng nhiều đám đông Vaticanese  thì phải chăng, đó là tình hình đang tự diễn biến, tự diễn hóa? Chính quyền  Vatican nước sở tại muốn làm sao để có được đám đông thường xuyên, nối tiếp,  liên tục hun nóng tinh thần quốc gia Vatican trước đã, rồi cứ như thế mà chờ cơ  hội? Đây chính là học thuyết Casaroli?</p>
+<p>   Trước khi người Ba Lan lên ngôi Giáo hoàng, đám đông Vaticanese  trên quảng trường, trên đường phố... không có? Chỗ của Vaticanese là nhà thờ?</p>
+<p>   Khi Giáo hoàng Gioan Phaolô II người Ba Lan về thăm Ba Lan, Hồng  y Quốc vụ khanh Casaroli hứa với chính quyền Cộng hòa Nhân dân Ba Lan là cuộc  tập trung đám đông giới hạn trong phạm vi tôn giáo, quan hệ giữa quốc gia với  quốc gia? Hồng y Quốc vụ khanh dù thực hiện theo lời hứa, nhưng nội dung mà  Chính quyền Vatican truyền đến giáo dân có nhiều tầng nghĩa (cũng giống như  chúng ta đang chứng kiến, chỉ có khác ở cường độ?)</p>
+<p>   Cách truyền đạt hàm ngôn, ẩn ý, nhiều tầng nghĩa của quan chức  Chính quyền Vatican chúng ta sẽ nghiên cứu sâu hơn trong những phần khác của  loạt bài viết này. Ở đây lý giải một ví dụ như khẩu hiệu “<i>Hãy đến với vùng  ngoại biên” trong đó “vùng ngoại biên” ngoài tầng nghĩa vùng biên giới, còn là  tần</i>g nghĩa vùng hoạt động chính trị, xã hội, giáo dục...?</p>
+<p>   Do đó, từ biên giới không được dùng, mà là từ “<i>ngoại biên</i>”, với  nhiều cách suy luận?</p>
+<p>   Giáo hoàng Gioan Phaolô II đến Ba Lan nói bóng, nói gió như vậy,  rồi tạo ra tiền lệ đám đông Vaticanese ở Ba Lan? Chính quyền Vatican tại Ba Lan  cũng nói bóng, nói gió, trong cái thế đám đông đã có đà tập họp? Sau đó, khi  míttinh, biểu tình chống Chính quyền Cộng hòa Nhân dân Ba Lan, đám đông  Vaticanese tại Ba Lan không có Giáo hoàng Gioan Phaolô II thì họ thay bằng hình  Giáo hoàng? Miễn sao, ở Ba Lan có đám đông Vaticanese thường xuyên, đông đảo là  được? Đó là trận đồ của học thuyết Casaroli? </p>
+<p>   Những năm cuối thập niên 1980, đám đông Vaticanese Ba Lan thay  đổi mục tiêu từ biểu dương lực lượng, tập trung cầu nguyện (như hiện nay ở một  số quốc gia) sang công khai mục tiêu lật đổ chính quyền Cộng hòa Nhân dân Ba  Lan? Phương pháp của Chính quyền Vatican, chính quyền lãnh đạo ý thức hệ Công  đoàn Đoàn kết Ba Lan khôn ngoan hết sức. Chính quyền Vatican chỉ tạo bất ổn áp  lực thay đổi chính quyền, không huy động Vaticanese xông vào Phủ Chủ tịch hay  Phủ Thủ tướng, chờ khi tình hình Đông Âu đã “chín muồi” (từ Hồng y Casaroli  dùng) rồi xuống tay bằng áp lực?</p>
+<p>   Vấn đề Chính quyền Cộng hòa Nhân dân Ba Lan tự chuyển hóa, tự  diễn biến còn ở chỗ này? Những cuộc mít tinh quần chúng đoàn thể xã hội, công  nhân, trí thức mang mục tiêu chính trị do Chính quyền Cộng hòa Nhân dân Ba Lan  tổ chức có số lượng không thể bì được với mít tinh tuần hành, đặc biệt để đón  mừng Giáo hoàng do Chính quyền Vatican tổ chức?</p>
+<p>   Đám đông Vaticanese ở Cộng hòa Nhân dân Ba Lan hình thành do  Chính quyền Cộng hòa Nhân dân Ba Lan tự diễn biến, tự chuyển hóa, đón Giáo  hoàng Gioan Phaolô II người Ba Lan? Khi đám đông Vaticanese bùng lên ở Cộng hòa  Nhân dân Ba Lan, chiếc hộp Pandore được mở để sau đó Chính quyền Cộng hòa Nhân  dân Ba Lan và cả Đông Âu bị nhấn chìm bằng đám đông?</p>
+<p>   Ba Lan Vaticanese chứng tỏ rằng Vaticanese có lực lượng, còn  Chính quyền Ba Lan thì không? Trong thập niên 1980 lực lượng Vaticanese người  Ba Lan càng đông đảo, thì vị thế của Chính quyền Cộng hòa Nhân dân Ba Lan càng  suy yếu.</p>
+<p>   Cho nên, đám đông mà Hồng y Quốc vụ khanh Casaroli chuẩn bị  không phải chờ cơ hội mới phát huy tác dụng, mà nó tạo áp lực hàng ngày, hàng  giờ, chuẩn bị diễn biến hòa bình, tích lũy từng buổi mít tinh một, để tạo nên  sức mạnh tổng hợp, khẳng định uy quyền của Chính quyền Vatican nước sở tại?</p>
+<p>   Ở các lực lượng chính trị mạnh, bên cạnh chính đảng cầm quyền  vẫn thường có tổ chức lực lượng thanh niên xung kích, tập họp lực lượng thanh  niên? Chính quyền Vatican gọi một cách uyển chuyển là “giới trẻ”? Ở các nước  Nam Mỹ chẳng hạn, con số thanh niên Vatican action mỗi lần lên đến cả trăm ngàn  người, không có quảng trường sân vận động nào chứa nổi phải ra bãi biển.</p>
+<p>   Chính quyền Vatican thường có hàm ý thể hiện lực lượng thanh  thiếu niên xung kích, tiên phong của họ đứng đầu, không có lực lượng tương tự  của chính đảng nào bì kịp? Chiều kích này của cuộc tổng biểu dương lực lượng là  hết sức quan trọng. Nó không chỉ là vấn đề số đông, mà liên hệ đến chiều kích  hành động chính trị (Catholic action sẽ được phân tích ở phần sau)</p>
+<p>   Ở một quốc gia, Chính quyền Vatican sở tại liên tục tổ chức đám  đông hàng chục ngàn người hay hơn, hết trên đường phố rồi lên đến trung du,  miền núi... thì phải chăng, không có hàm ý gì.</p>
+<p>   Hình ảnh Vaticanese liên tục là những hình ảnh biển người? Có  tạo vấn đề hay tạo áp lực gì không khi nói đến Vaticanese là người ta liên  tưởng đến những đám đông khổng lồ vượt trội, rước xách mít tinh đầy khí thế.</p>
+<p align="center"><img src="https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/TONGIAO/IMG/DENHUNG/DaihoiGT25Nov22c.jpg" width="450" height="300" alt=""></p>
+<p align="center"><img src="https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/TONGIAO/IMG/DENHUNG/DaihoiGT25Nov22.jpg" width="392" height="272" alt=""></p>
+<p align="center"><img src="https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/TONGIAO/IMG/DENHUNG/DaihoiGT25Nov22a.jpg" width="300" height="168" alt=""></p>
+<p align="center"><img src="https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/TONGIAO/IMG/DENHUNG/DaihoiGT25Nov22b.jpg" width="276" height="183" alt=""></p>
+<p>   (Đón đọc bài tiếp – Không thể có Catholic action nếu không có  đám đông thanh niên Vaticanese)</p>
+
+<div class="leftborder">
+  <p>   FACEBOOK MINH THẠNH  THÔNG BÁO. THÔNG BÁO NÀY LÀ MỘT PHẦN NỘI DUNG BÀI VIẾT:</p>
+  <p>   Facebook Minh Thạnh  hoàn toàn không chịu trách nhiệm đối với nội dung các bình luận phản hồi, nội  dung thể hiện ngoài bài viết dưới mọi hình thức: văn bản, âm thanh, hình ảnh,  video gồm cả do bạn đọc gởi đến, hay do Facebook hiển thị từ trích dẫn nguồn trong  bài. </p>
+  <p>   Hoàn toàn không chịu  trách nhiệm đối với mọi hình thức đăng tải lại, khai thác, sử dụng, trích dẫn  bài viết, dù trong những trường hợp không hạn chế những việc trên. </p>
+  <p>   Hoàn toàn không chịu  trách nhiệm đối với những suy đoán, rút ra kết luận, liên hệ chủ quan, riêng  tư, tùy tiện, không căn cứ chính xác vào nội dung ngôn từ bài viết. </p>
+  <p>   Hoàn toàn không chịu  trách nhiệm liên hệ đến những danh từ riêng không được nói đến trong bài. Hoàn  toàn không chịu trách nhiệm về các câu trả lời đối với những câu hỏi được nêu  ra trong bài viết. </p>
+  <p>   Hoàn toàn không chịu  trách nhiệm về những nội dung thông tin, bình luận, số liệu, tư liệu, trích dẫn  nêu trong bài có tựa đề đặt dấu hỏi, hoặc nêu trong câu hỏi, hoặc dưới dạng câu  hỏi hoặc kèm những hình thức thể hiện nghi vấn khác.</p>
+  <p>Hoàn toàn không chịu trách nhiệm về nội dung sách, tư liệu được Facebook Minh Thạnh đề cập tới trong các bài giới thiệu sách, tư liệu. Nội dung sách và tư liệu gồm văn bản, file âm thanh, file hình ảnh, file video..., nhiều trường hợp là sách và tư liệu được giới thiệu với nội dung phê phán, do tác giả sách, tác giả tư liệu chịu trách nhiệm.</p>
+  <p>Facebook Minh Thạnh sử dụng phương pháp câu hỏi Socrate, nên nội dung câu hỏi giả định, giả thiết có thể được đặt với nội dung sai, nhằm kích thích tư duy phản biện ở bạn đọc. Do sử dụng phương pháp câu hỏi Socrate, Facebook Minh Thạnh không chịu trách nhiệm đối với chính nội dung câu hỏi (có thể là câu hỏi nêu sai một cách cố ý theo phương pháp câu hỏi Socrate).</p>
+  <p>Hoàn toàn không chịu trách nhiệm đối với cách hiểu, cách lý giải từ, câu, đoạn văn có sử dụng các hình thức chuyển việc nhận thức nghĩa cho bạn đọc, không phải có nghĩa theo từ điển (thí dụ dùng dấu ngoặc kép (“), dùng dấu chấm hỏi trong ngoặc đơn (?) hoặc dùng gạch nối giữa các từ, các cụm từ (-), dùng các từ “sáng tạo”, “tự làm phát sinh nghĩa cá biệt”... (như “phó hòa thượng”, “đỏ mắt”...), việc hiểu nghĩa là do riêng từng mỗi bạn đọc.</p>
+  <p>Trong tinh thần chặt chẽ trong việc tự biên tập, tự kiểm duyệt theo hướng tuân thủ những quan điểm của các quy định mới về an ninh mạng, Facebook Minh Thạnh hạn chế tối đa việc nêu các danh từ riêng cơ quan, tổ chức, cá nhân; hạn chế tối đa việc đưa đường dẫn, hạn chế tối đa việc đăng hình, hạn chế tối đa việc đăng lại trực tiếp nội dung cần trích dẫn mà thay bằng tường thuật gián tiếp (không đòi hỏi tuyệt đối chính xác)...</p>
+  <p>Tác giả Minh Thạnh tự xác định là người không tôn giáo. Cho nên, bài đăng trên Facebook Minh Thạnh không phải là bài của người theo tôn giáo này viết về tôn giáo khác, mà là bài nghiên cứu tôn giáo của một người không tôn giáo cố gắng giữ sự khách quan, không phải viết từ điểm nhìn của một tôn giáo nào. Facebook Minh Thạnh không phục vụ cho lợi ích của tôn giáo nào, mà chỉ phục vụ lợi ích của dân tộc và cộng đồng xã hội.</p>
+  <p>Trường hợp Facebook Minh Thạnh thể hiện các danh từ riêng không xác định danh từ riêng cụ thể bằng cách viết tắt bằng chữ cái đầu tiên, hoặc chữ cái bất kỳ là phù hợp với tập quán được các cơ quan bảo vệ pháp luật Việt Nam sử dụng (qua việc viết tắt danh từ riêng khi công bố bản án).</p>
+  <p>Không chịu trách nhiệm liên hệ đến danh từ riêng mà bài viết dùng các ký tự không thể hiện tên người, tên đất như # (dấu thăng), * (dấu hoa thị), ... (dấu ba chấm), x (dấu nhân) ...</p>
+  <p>Các cụm từ như “giáo hội”, “giáo chủ”, “quan chức tôn giáo”, “tôn giáo trị sự”, “tôn giáo chủ tịch”... đề cập đến tôn giáo nói chung, không nói riêng một tôn giáo nào. Cách hiểu riêng liên hệ một tôn giáo nào đó là do nơi bạn đọc, Facebook Minh Thạnh không chịu trách nhiệm.</p>
+  <p>Trường hợp Facebook Minh Thạnh đăng hình ảnh được công bố trên truyền thông đại chúng (internet), kết quả tìm kiếm của Google, Google thông báo hình ảnh có thể có bản quyền, không xác định rõ bản quyền có hay không, thì đối với hình ảnh đã đăng có bản quyền và có điều kiện đăng, xin vui lòng liên hệ riêng để chỉ đăng lại sau khi đã thỏa thuận. Tất cả hình ảnh được đăng trên Facebook Minh Thạnh đều chỉ có tính chất minh họa mà thôi. Nếu ảnh không có lời chú thích trong bài viết, ảnh không liên hệ nội dung bài viết. Hình ảnh luôn luôn được đăng bên ngoài bài viết.</p>
+   <p>   Cảnh báo có Facebook  Minh Thạnh giả, dùng chân dung của tác giả Minh Thạnh.</p>
+  <p>   Cảnh báo về trường  hợp tấn công tin học vào Facebook Minh Thạnh làm biến động nội dung và kỹ thuật  trình bày như đã xảy ra. Mong bạn đọc hỗ trợ bằng cách thông tin khi phát hiện  những vấn đề bất thường, nhất là ở những bài viết cũ. Trường hợp có tấn công  tin học, tác giả Minh Thạnh không chịu trách nhiệm về những biến động nội dung  (gồm bài viết, hình ảnh, video, âm thanh...). Cá nhân, đơn vị tổ chức tấn công  tin học chịu hoàn toàn trước pháp luật.</p>
+  <p>Bài viết có thể có những lỗi chính tả khi đánh máy. Một số lỗi chính tả do đánh máy có thể làm lệch lạc ý nghĩa từ vựng, câu, đoạn văn ngoài ý muốn của tác giả. Sẽ rất cảm ơn nếu được bạn đọc giúp phát hiện, thông tin để kịp thời chỉnh sửa.</p>
+  <p> Đối với những bài Vatican học – Vaticanology, vì Vatican là một nhà nước độc lập, có chủ quyền, có tư cách quốc gia quan sát viên tại Liên hiệp quốc, có quan hệ ngoại giao với 183 quốc gia, nên Vatican được đề cập trước hết và chủ yếu trong tư cách một nhà nước, có từ “chính quyền” trước danh từ riêng Vatican, nếu không có là do thiếu sót, đề nghị bạn đọc luôn luôn hiểu theo nghĩa chính quyền Vatican, tức là theo nghĩa một nhà nước. Nguyên thủ, các quan chức của Chính quyền Vatican đương nhiên được Facebook Minh Thạnh đề cập ở khía cạnh lãnh đạo, quan chức một bộ máy nhà nước xác định, khía cạnh các chính khách.</p>
+  <p> Trong tiến trình nghiên cứu học thuật, trên Facebook Minh Thạnh, một số thuật ngữ được đề xuất. Các thuật ngữ không mang tính chất biểu cảm. Người đề xuất thuật ngữ không chịu trách nhiệm về những cảm nhận chủ quan về thuật ngữ nơi người đọc.</p>
+  <p>   Hoan nghênh ý kiến  phê bình, đóng góp từ bạn đọc và tích cực điều chỉnh nếu xét thấy phù hợp.  Thông báo này là một phần của nội dung bài viết, vì vậy tác giả bài viết không  chịu trách nhiệm nếu phát sinh khiếu nại tố cáo đối với bài viết trong những  trường hợp đã nêu ở trên. </p>
+</div>
+<p>Bài viết đến đây là hết.</p>
+
+<p class="TacgiaL">Minh Thạnh </p>
+ <p>(vinasat1.132@gmail.com, 0915553610).</p>
+ <p>____________ COMMENTS ____________</p>
+ <p class="nguonL">Nguồn <a href="https://www.facebook.com/cusiminhthanh/posts/pfbid0ZKy99QE1y7cvuU5KoVQFErAaW2TFiXkUJhGPWqtGFJwRnG3nBQQNCfYvqka5FiDel">@cusiminhthanh</a> ngày 03/9/2022 </p>

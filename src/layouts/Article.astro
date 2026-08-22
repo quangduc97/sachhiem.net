@@ -1,0 +1,124 @@
+---
+import BaseLayout from './BaseLayout.astro';
+import index from '../data/articles.json';
+
+interface Props {
+  frontmatter?: {
+    title?: string;
+    author?: string;
+    date?: string; // ISO yyyy-mm-dd
+    source?: string;
+    category?: string;
+    excerpt?: string;
+    wordCount?: number;
+  };
+  content?: string;
+  compiledContent?: string; // HTML đã render của body markdown
+}
+// Astro 5: layout của trang .md nhận frontmatter + compiledContent (async fn) qua props
+const { frontmatter, compiledContent } = Astro.props;
+const { title = '', author, date, source, category, excerpt, wordCount } = frontmatter ?? {};
+const bodyHtml = await compiledContent?.();
+const { articles } = index;
+
+// Author slug lấy từ thư mục đầu tiên của URL, vd /BUIKHA/Bai-x -> BUIKHA
+const urlParts = Astro.url.pathname.split('/').filter(Boolean);
+const authorSlug = urlParts[0] ?? '';
+
+const authorArticles = articles
+  .filter((a) => a.authorSlug === authorSlug)
+  .sort((a, b) => (a.date ?? '').localeCompare(b.date ?? ''));
+
+const myPath = Astro.url.pathname.replace(/\/$/, '');
+const myIdx = authorArticles.findIndex((a) => a.path === myPath);
+const prev = myIdx > 0 ? authorArticles[myIdx - 1] : null;
+const next = myIdx >= 0 && myIdx < authorArticles.length - 1 ? authorArticles[myIdx + 1] : null;
+const myMeta = myIdx >= 0 ? authorArticles[myIdx] : null;
+const desc = excerpt ?? myMeta?.excerpt;
+
+const fmtDate = (iso?: string) =>
+  iso
+    ? new Date(`${iso}T12:00:00`).toLocaleDateString('vi-VN', {
+        day: 'numeric',
+        month: 'long',
+        year: 'numeric',
+      })
+    : null;
+
+// Thời lượng đọc: frontmatter → tính từ body → index (bài mới từ CMS có thể thiếu wordCount)
+const bodyWords = bodyHtml ? bodyHtml.replace(/<[^>]+>/g, ' ').split(/\s+/).filter(Boolean).length : 0;
+const wc = Number(wordCount) || bodyWords || myMeta?.wordCount || 0;
+const readMin = wc ? Math.max(1, Math.round(wc / 200)) : null;
+const metaBits = [
+  author ? `<span class="author">${author}</span>` : null,
+  fmtDate(date),
+  readMin ? `${readMin} phút đọc` : null,
+].filter(Boolean);
+---
+
+<BaseLayout title={title} description={desc}>
+  <article class="article">
+    <p class="breadcrumb">
+      <a href="/">Trang chủ</a>
+      <span class="sep">/</span>
+      <a href={`/${authorSlug}/`}>{authorSlug}</a>
+      <span class="sep">/</span>
+      <span>{title.length > 60 ? `${title.slice(0, 60)}…` : title}</span>
+    </p>
+
+    <header class="article-header">
+      {
+        category && (
+          <p class="kicker"><a href={`/${authorSlug}/`}>{category}</a></p>
+        )
+      }
+      <h1>{title}</h1>
+      <div class="article-meta">
+        {metaBits.map((bit, i) => (
+          <>
+            {i > 0 && <span class="dot">•</span>}
+            <span set:html={bit} />
+          </>
+        ))}
+      </div>
+    </header>
+
+    <div class="article-body">
+      <Fragment set:html={bodyHtml ?? ''} />
+    </div>
+
+    <div class="source-block">
+      {
+        source && (
+          <span>
+            Nguồn: <a href={source} rel="noopener" target="_blank">{source}</a>
+          </span>
+        )
+      }
+      <a href={`/${authorSlug}/`}>← Về trang tác giả</a>
+    </div>
+
+    <nav class="article-footer-nav">
+      {
+        prev ? (
+          <a href={prev.path} class="prev">
+            <div class="dir">← Bài trước</div>
+            {prev.title}
+          </a>
+        ) : (
+          <span />
+        )
+      }
+      {
+        next ? (
+          <a href={next.path} class="next">
+            <div class="dir">Bài sau →</div>
+            {next.title}
+          </a>
+        ) : (
+          <span />
+        )
+      }
+    </nav>
+  </article>
+</BaseLayout>

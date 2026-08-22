@@ -1,0 +1,1361 @@
+{
+  "skipped": [
+    {
+      "file": "BIA/2007/Aug07.php",
+      "reason": "trang chỉ mục (gọi DB)"
+    },
+    {
+      "file": "BIA/2007/Dec07.php",
+      "reason": "trang chỉ mục (gọi DB)"
+    },
+    {
+      "file": "BIA/2007/Jul07.php",
+      "reason": "trang chỉ mục (gọi DB)"
+    },
+    {
+      "file": "BIA/2007/Jun07.php",
+      "reason": "trang chỉ mục (gọi DB)"
+    },
+    {
+      "file": "BIA/2007/May07.php",
+      "reason": "trang chỉ mục (gọi DB)"
+    },
+    {
+      "file": "BIA/2007/Nov07.php",
+      "reason": "trang chỉ mục (gọi DB)"
+    },
+    {
+      "file": "BIA/2007/Oct07.php",
+      "reason": "trang chỉ mục (gọi DB)"
+    },
+    {
+      "file": "BIA/2007/Sep07.php",
+      "reason": "trang chỉ mục (gọi DB)"
+    },
+    {
+      "file": "BIA/2008/Apr08.php",
+      "reason": "trang chỉ mục (gọi DB)"
+    },
+    {
+      "file": "BIA/2008/Aug08.php",
+      "reason": "trang chỉ mục (gọi DB)"
+    },
+    {
+      "file": "BIA/2008/Dec08.php",
+      "reason": "trang chỉ mục (gọi DB)"
+    },
+    {
+      "file": "BIA/2008/Feb08.php",
+      "reason": "trang chỉ mục (gọi DB)"
+    },
+    {
+      "file": "BIA/2008/Jan08.php",
+      "reason": "trang chỉ mục (gọi DB)"
+    },
+    {
+      "file": "BIA/2008/Jul08.php",
+      "reason": "trang chỉ mục (gọi DB)"
+    },
+    {
+      "file": "BIA/2008/Jun08.php",
+      "reason": "trang chỉ mục (gọi DB)"
+    },
+    {
+      "file": "BIA/2008/Mar08.php",
+      "reason": "trang chỉ mục (gọi DB)"
+    },
+    {
+      "file": "BIA/2008/May08.php",
+      "reason": "trang lưu trữ/tiện ích"
+    },
+    {
+      "file": "BIA/2008/Nov08.php",
+      "reason": "trang chỉ mục (gọi DB)"
+    },
+    {
+      "file": "BIA/2008/Oct08.php",
+      "reason": "trang chỉ mục (gọi DB)"
+    },
+    {
+      "file": "BIA/2008/Sep08.php",
+      "reason": "trang lưu trữ/tiện ích"
+    },
+    {
+      "file": "BIA/2009/Apr09.php",
+      "reason": "trang lưu trữ/tiện ích"
+    },
+    {
+      "file": "BIA/2009/Aug09.php",
+      "reason": "trang lưu trữ/tiện ích"
+    },
+    {
+      "file": "BIA/2009/Dec09.php",
+      "reason": "trang lưu trữ/tiện ích"
+    },
+    {
+      "file": "BIA/2009/Feb09.php",
+      "reason": "trang lưu trữ/tiện ích"
+    },
+    {
+      "file": "BIA/2009/Jan09.php",
+      "reason": "trang lưu trữ/tiện ích"
+    },
+    {
+      "file": "BIA/2009/Jul09.php",
+      "reason": "trang chỉ mục (gọi DB)"
+    },
+    {
+      "file": "BIA/2009/Jun09.php",
+      "reason": "trang chỉ mục (gọi DB)"
+    },
+    {
+      "file": "BIA/2009/Mar09.php",
+      "reason": "trang chỉ mục (gọi DB)"
+    },
+    {
+      "file": "BIA/2009/May09.php",
+      "reason": "trang lưu trữ/tiện ích"
+    },
+    {
+      "file": "BIA/2009/Nov09.php",
+      "reason": "trang chỉ mục (gọi DB)"
+    },
+    {
+      "file": "BIA/2009/Oct09.php",
+      "reason": "trang chỉ mục (gọi DB)"
+    },
+    {
+      "file": "BIA/2009/Sep09.php",
+      "reason": "trang chỉ mục (gọi DB)"
+    },
+    {
+      "file": "BIA/2010/Apr10.php",
+      "reason": "trang chỉ mục (gọi DB)"
+    },
+    {
+      "file": "BIA/2010/Aug10.php",
+      "reason": "trang chỉ mục (gọi DB)"
+    },
+    {
+      "file": "BIA/2010/Dec10.php",
+      "reason": "trang chỉ mục (gọi DB)"
+    },
+    {
+      "file": "BIA/2010/Feb10.php",
+      "reason": "trang chỉ mục (gọi DB)"
+    },
+    {
+      "file": "BIA/2010/Jan10.php",
+      "reason": "trang chỉ mục (gọi DB)"
+    },
+    {
+      "file": "BIA/2010/Jul10.php",
+      "reason": "trang chỉ mục (gọi DB)"
+    },
+    {
+      "file": "BIA/2010/Jun10.php",
+      "reason": "trang chỉ mục (gọi DB)"
+    },
+    {
+      "file": "BIA/2010/Mar10.php",
+      "reason": "trang chỉ mục (gọi DB)"
+    },
+    {
+      "file": "BIA/2010/May10.php",
+      "reason": "trang chỉ mục (gọi DB)"
+    },
+    {
+      "file": "BIA/2010/Nov10.php",
+      "reason": "trang chỉ mục (gọi DB)"
+    },
+    {
+      "file": "BIA/2010/Oct10.php",
+      "reason": "trang chỉ mục (gọi DB)"
+    },
+    {
+      "file": "BIA/2010/Sep10.php",
+      "reason": "trang chỉ mục (gọi DB)"
+    },
+    {
+      "file": "BIA/2011/Apr11.php",
+      "reason": "trang chỉ mục (gọi DB)"
+    },
+    {
+      "file": "BIA/2011/Aug11.php",
+      "reason": "trang chỉ mục (gọi DB)"
+    },
+    {
+      "file": "BIA/2011/Dec11.php",
+      "reason": "trang chỉ mục (gọi DB)"
+    },
+    {
+      "file": "BIA/2011/Feb11.php",
+      "reason": "trang lưu trữ/tiện ích"
+    },
+    {
+      "file": "BIA/2011/Jan11.php",
+      "reason": "trang chỉ mục (gọi DB)"
+    },
+    {
+      "file": "BIA/2011/Jul11.php",
+      "reason": "trang chỉ mục (gọi DB)"
+    },
+    {
+      "file": "BIA/2011/Jun11.php",
+      "reason": "trang chỉ mục (gọi DB)"
+    },
+    {
+      "file": "BIA/2011/Mar11.php",
+      "reason": "trang chỉ mục (gọi DB)"
+    },
+    {
+      "file": "BIA/2011/May11.php",
+      "reason": "trang chỉ mục (gọi DB)"
+    },
+    {
+      "file": "BIA/2011/Nov11.php",
+      "reason": "trang chỉ mục (gọi DB)"
+    },
+    {
+      "file": "BIA/2011/Oct11.php",
+      "reason": "trang chỉ mục (gọi DB)"
+    },
+    {
+      "file": "BIA/2011/Sep11.php",
+      "reason": "trang chỉ mục (gọi DB)"
+    },
+    {
+      "file": "BIA/2012/Apr12.php",
+      "reason": "trang chỉ mục (gọi DB)"
+    },
+    {
+      "file": "BIA/2012/Aug12.php",
+      "reason": "trang chỉ mục (gọi DB)"
+    },
+    {
+      "file": "BIA/2012/Dec12.php",
+      "reason": "trang chỉ mục (gọi DB)"
+    },
+    {
+      "file": "BIA/2012/Feb12.php",
+      "reason": "trang chỉ mục (gọi DB)"
+    },
+    {
+      "file": "BIA/2012/Jan12.php",
+      "reason": "trang chỉ mục (gọi DB)"
+    },
+    {
+      "file": "BIA/2012/Jul12.php",
+      "reason": "trang chỉ mục (gọi DB)"
+    },
+    {
+      "file": "BIA/2012/Jun12.php",
+      "reason": "trang chỉ mục (gọi DB)"
+    },
+    {
+      "file": "BIA/2012/Mar12.php",
+      "reason": "trang chỉ mục (gọi DB)"
+    },
+    {
+      "file": "BIA/2012/May12.php",
+      "reason": "trang chỉ mục (gọi DB)"
+    },
+    {
+      "file": "BIA/2012/Nov12.php",
+      "reason": "trang chỉ mục (gọi DB)"
+    },
+    {
+      "file": "BIA/2012/Oct12.php",
+      "reason": "trang chỉ mục (gọi DB)"
+    },
+    {
+      "file": "BIA/2012/Sep12.php",
+      "reason": "trang chỉ mục (gọi DB)"
+    },
+    {
+      "file": "BIA/2013/Apr13.php",
+      "reason": "trang chỉ mục (gọi DB)"
+    },
+    {
+      "file": "BIA/2013/Aug13.php",
+      "reason": "trang chỉ mục (gọi DB)"
+    },
+    {
+      "file": "BIA/2013/Dec13.php",
+      "reason": "trang chỉ mục (gọi DB)"
+    },
+    {
+      "file": "BIA/2013/Feb13.php",
+      "reason": "trang chỉ mục (gọi DB)"
+    },
+    {
+      "file": "BIA/2013/Jan13.php",
+      "reason": "trang chỉ mục (gọi DB)"
+    },
+    {
+      "file": "BIA/2013/Jul13.php",
+      "reason": "trang chỉ mục (gọi DB)"
+    },
+    {
+      "file": "BIA/2013/Jun13.php",
+      "reason": "trang chỉ mục (gọi DB)"
+    },
+    {
+      "file": "BIA/2013/Mar13.php",
+      "reason": "trang chỉ mục (gọi DB)"
+    },
+    {
+      "file": "BIA/2013/May13.php",
+      "reason": "trang chỉ mục (gọi DB)"
+    },
+    {
+      "file": "BIA/2013/Nov13.php",
+      "reason": "trang chỉ mục (gọi DB)"
+    },
+    {
+      "file": "BIA/2013/Oct13.php",
+      "reason": "trang chỉ mục (gọi DB)"
+    },
+    {
+      "file": "BIA/2013/Sep13.php",
+      "reason": "trang chỉ mục (gọi DB)"
+    },
+    {
+      "file": "BIA/2014/Apr14.php",
+      "reason": "trang chỉ mục (gọi DB)"
+    },
+    {
+      "file": "BIA/2014/Aug14.php",
+      "reason": "trang chỉ mục (gọi DB)"
+    },
+    {
+      "file": "BIA/2014/Dec14.php",
+      "reason": "trang chỉ mục (gọi DB)"
+    },
+    {
+      "file": "BIA/2014/Feb14.php",
+      "reason": "trang chỉ mục (gọi DB)"
+    },
+    {
+      "file": "BIA/2014/Jan14.php",
+      "reason": "trang chỉ mục (gọi DB)"
+    },
+    {
+      "file": "BIA/2014/Jul14.php",
+      "reason": "trang chỉ mục (gọi DB)"
+    },
+    {
+      "file": "BIA/2014/Jun14.php",
+      "reason": "trang chỉ mục (gọi DB)"
+    },
+    {
+      "file": "BIA/2014/Mar14.php",
+      "reason": "trang chỉ mục (gọi DB)"
+    },
+    {
+      "file": "BIA/2014/May14.php",
+      "reason": "trang chỉ mục (gọi DB)"
+    },
+    {
+      "file": "BIA/2014/Nov14.php",
+      "reason": "trang chỉ mục (gọi DB)"
+    },
+    {
+      "file": "BIA/2014/Oct14.php",
+      "reason": "trang chỉ mục (gọi DB)"
+    },
+    {
+      "file": "BIA/2014/Sep14.php",
+      "reason": "trang chỉ mục (gọi DB)"
+    },
+    {
+      "file": "BIA/2015/Apr15.php",
+      "reason": "trang chỉ mục (gọi DB)"
+    },
+    {
+      "file": "BIA/2015/Aug15.php",
+      "reason": "trang chỉ mục (gọi DB)"
+    },
+    {
+      "file": "BIA/2015/Dec15.php",
+      "reason": "trang chỉ mục (gọi DB)"
+    },
+    {
+      "file": "BIA/2015/Feb15.php",
+      "reason": "trang chỉ mục (gọi DB)"
+    },
+    {
+      "file": "BIA/2015/Jan15.php",
+      "reason": "trang chỉ mục (gọi DB)"
+    },
+    {
+      "file": "BIA/2015/Jul15.php",
+      "reason": "trang chỉ mục (gọi DB)"
+    },
+    {
+      "file": "BIA/2015/Jun15.php",
+      "reason": "trang chỉ mục (gọi DB)"
+    },
+    {
+      "file": "BIA/2015/Mar15.php",
+      "reason": "trang chỉ mục (gọi DB)"
+    },
+    {
+      "file": "BIA/2015/May15.php",
+      "reason": "trang chỉ mục (gọi DB)"
+    },
+    {
+      "file": "BIA/2015/Nov15.php",
+      "reason": "trang chỉ mục (gọi DB)"
+    },
+    {
+      "file": "BIA/2015/Oct15.php",
+      "reason": "trang chỉ mục (gọi DB)"
+    },
+    {
+      "file": "BIA/2015/Sep15.php",
+      "reason": "trang chỉ mục (gọi DB)"
+    },
+    {
+      "file": "BIA/2016/Apr16.php",
+      "reason": "trang chỉ mục (gọi DB)"
+    },
+    {
+      "file": "BIA/2016/Aug16.php",
+      "reason": "trang chỉ mục (gọi DB)"
+    },
+    {
+      "file": "BIA/2016/Dec16.php",
+      "reason": "trang chỉ mục (gọi DB)"
+    },
+    {
+      "file": "BIA/2016/Feb16.php",
+      "reason": "trang chỉ mục (gọi DB)"
+    },
+    {
+      "file": "BIA/2016/Jan16.php",
+      "reason": "trang chỉ mục (gọi DB)"
+    },
+    {
+      "file": "BIA/2016/Jul16.php",
+      "reason": "trang chỉ mục (gọi DB)"
+    },
+    {
+      "file": "BIA/2016/Jun16.php",
+      "reason": "trang chỉ mục (gọi DB)"
+    },
+    {
+      "file": "BIA/2016/Mar16.php",
+      "reason": "trang chỉ mục (gọi DB)"
+    },
+    {
+      "file": "BIA/2016/May16.php",
+      "reason": "trang chỉ mục (gọi DB)"
+    },
+    {
+      "file": "BIA/2016/Nov16.php",
+      "reason": "trang chỉ mục (gọi DB)"
+    },
+    {
+      "file": "BIA/2016/Oct16.php",
+      "reason": "trang chỉ mục (gọi DB)"
+    },
+    {
+      "file": "BIA/2016/Sep16.php",
+      "reason": "trang chỉ mục (gọi DB)"
+    },
+    {
+      "file": "BIA/2017/Apr17.php",
+      "reason": "trang chỉ mục (gọi DB)"
+    },
+    {
+      "file": "BIA/2017/Aug16.php",
+      "reason": "trang chỉ mục (gọi DB)"
+    },
+    {
+      "file": "BIA/2017/Aug17.php",
+      "reason": "trang chỉ mục (gọi DB)"
+    },
+    {
+      "file": "BIA/2017/Dec16.php",
+      "reason": "trang chỉ mục (gọi DB)"
+    },
+    {
+      "file": "BIA/2017/Dec17.php",
+      "reason": "trang chỉ mục (gọi DB)"
+    },
+    {
+      "file": "BIA/2017/Feb17.php",
+      "reason": "trang chỉ mục (gọi DB)"
+    },
+    {
+      "file": "BIA/2017/Jan17.php",
+      "reason": "trang chỉ mục (gọi DB)"
+    },
+    {
+      "file": "BIA/2017/Jul17.php",
+      "reason": "trang chỉ mục (gọi DB)"
+    },
+    {
+      "file": "BIA/2017/Jun17.php",
+      "reason": "trang chỉ mục (gọi DB)"
+    },
+    {
+      "file": "BIA/2017/Mar17.php",
+      "reason": "trang chỉ mục (gọi DB)"
+    },
+    {
+      "file": "BIA/2017/May17.php",
+      "reason": "trang chỉ mục (gọi DB)"
+    },
+    {
+      "file": "BIA/2017/Nov17.php",
+      "reason": "trang chỉ mục (gọi DB)"
+    },
+    {
+      "file": "BIA/2017/Oct17.php",
+      "reason": "trang chỉ mục (gọi DB)"
+    },
+    {
+      "file": "BIA/2017/Sep17.php",
+      "reason": "trang chỉ mục (gọi DB)"
+    },
+    {
+      "file": "BIA/2018/Apr18.php",
+      "reason": "trang chỉ mục (gọi DB)"
+    },
+    {
+      "file": "BIA/2018/Aug18.php",
+      "reason": "trang chỉ mục (gọi DB)"
+    },
+    {
+      "file": "BIA/2018/Dec18.php",
+      "reason": "trang chỉ mục (gọi DB)"
+    },
+    {
+      "file": "BIA/2018/Feb18.php",
+      "reason": "trang chỉ mục (gọi DB)"
+    },
+    {
+      "file": "BIA/2018/Jan18.php",
+      "reason": "trang chỉ mục (gọi DB)"
+    },
+    {
+      "file": "BIA/2018/Jul18.php",
+      "reason": "trang chỉ mục (gọi DB)"
+    },
+    {
+      "file": "BIA/2018/Jun18.php",
+      "reason": "trang chỉ mục (gọi DB)"
+    },
+    {
+      "file": "BIA/2018/Mar18.php",
+      "reason": "trang chỉ mục (gọi DB)"
+    },
+    {
+      "file": "BIA/2018/May18.php",
+      "reason": "trang chỉ mục (gọi DB)"
+    },
+    {
+      "file": "BIA/2018/Nov18.php",
+      "reason": "trang chỉ mục (gọi DB)"
+    },
+    {
+      "file": "BIA/2018/Oct18.php",
+      "reason": "trang chỉ mục (gọi DB)"
+    },
+    {
+      "file": "BIA/2018/Sep18.php",
+      "reason": "trang chỉ mục (gọi DB)"
+    },
+    {
+      "file": "BIA/2019/Apr19.php",
+      "reason": "trang chỉ mục (gọi DB)"
+    },
+    {
+      "file": "BIA/2019/Aug19.php",
+      "reason": "trang chỉ mục (gọi DB)"
+    },
+    {
+      "file": "BIA/2019/Dec19.php",
+      "reason": "trang chỉ mục (gọi DB)"
+    },
+    {
+      "file": "BIA/2019/Feb19.php",
+      "reason": "trang chỉ mục (gọi DB)"
+    },
+    {
+      "file": "BIA/2019/Jan19.php",
+      "reason": "trang chỉ mục (gọi DB)"
+    },
+    {
+      "file": "BIA/2019/Jul19.php",
+      "reason": "trang chỉ mục (gọi DB)"
+    },
+    {
+      "file": "BIA/2019/Jun19.php",
+      "reason": "trang chỉ mục (gọi DB)"
+    },
+    {
+      "file": "BIA/2019/Mar19.php",
+      "reason": "trang chỉ mục (gọi DB)"
+    },
+    {
+      "file": "BIA/2019/May19.php",
+      "reason": "trang chỉ mục (gọi DB)"
+    },
+    {
+      "file": "BIA/2019/Nov19.php",
+      "reason": "trang chỉ mục (gọi DB)"
+    },
+    {
+      "file": "BIA/2019/Oct19.php",
+      "reason": "trang chỉ mục (gọi DB)"
+    },
+    {
+      "file": "BIA/2019/Sep19.php",
+      "reason": "trang chỉ mục (gọi DB)"
+    },
+    {
+      "file": "BIA/2020/Apr20.php",
+      "reason": "trang chỉ mục (gọi DB)"
+    },
+    {
+      "file": "BIA/2020/Aug20.php",
+      "reason": "trang chỉ mục (gọi DB)"
+    },
+    {
+      "file": "BIA/2020/Dec20.php",
+      "reason": "trang chỉ mục (gọi DB)"
+    },
+    {
+      "file": "BIA/2020/Feb20.php",
+      "reason": "trang chỉ mục (gọi DB)"
+    },
+    {
+      "file": "BIA/2020/Jan20.php",
+      "reason": "trang chỉ mục (gọi DB)"
+    },
+    {
+      "file": "BIA/2020/Jul20.php",
+      "reason": "trang chỉ mục (gọi DB)"
+    },
+    {
+      "file": "BIA/2020/Jun20.php",
+      "reason": "trang chỉ mục (gọi DB)"
+    },
+    {
+      "file": "BIA/2020/Mar20.php",
+      "reason": "trang chỉ mục (gọi DB)"
+    },
+    {
+      "file": "BIA/2020/May20.php",
+      "reason": "trang chỉ mục (gọi DB)"
+    },
+    {
+      "file": "BIA/2020/Nov20.php",
+      "reason": "trang chỉ mục (gọi DB)"
+    },
+    {
+      "file": "BIA/2020/Oct20.php",
+      "reason": "trang chỉ mục (gọi DB)"
+    },
+    {
+      "file": "BIA/2020/Sep20.php",
+      "reason": "trang chỉ mục (gọi DB)"
+    },
+    {
+      "file": "BIA/2021/Apr21.php",
+      "reason": "trang chỉ mục (gọi DB)"
+    },
+    {
+      "file": "BIA/2021/Aug21.php",
+      "reason": "trang chỉ mục (gọi DB)"
+    },
+    {
+      "file": "BIA/2021/Dec21.php",
+      "reason": "trang chỉ mục (gọi DB)"
+    },
+    {
+      "file": "BIA/2021/Feb21.php",
+      "reason": "trang chỉ mục (gọi DB)"
+    },
+    {
+      "file": "BIA/2021/Jan21.php",
+      "reason": "trang chỉ mục (gọi DB)"
+    },
+    {
+      "file": "BIA/2021/Jul21.php",
+      "reason": "trang chỉ mục (gọi DB)"
+    },
+    {
+      "file": "BIA/2021/Jun21.php",
+      "reason": "trang chỉ mục (gọi DB)"
+    },
+    {
+      "file": "BIA/2021/Mar21.php",
+      "reason": "trang chỉ mục (gọi DB)"
+    },
+    {
+      "file": "BIA/2021/May21.php",
+      "reason": "trang chỉ mục (gọi DB)"
+    },
+    {
+      "file": "BIA/2021/Nov21.php",
+      "reason": "trang chỉ mục (gọi DB)"
+    },
+    {
+      "file": "BIA/2021/Oct21.php",
+      "reason": "trang chỉ mục (gọi DB)"
+    },
+    {
+      "file": "BIA/2021/Sep21.php",
+      "reason": "trang chỉ mục (gọi DB)"
+    },
+    {
+      "file": "BIA/2022/Apr22.php",
+      "reason": "trang chỉ mục (gọi DB)"
+    },
+    {
+      "file": "BIA/2022/Aug22.php",
+      "reason": "trang chỉ mục (gọi DB)"
+    },
+    {
+      "file": "BIA/2022/Dec22.php",
+      "reason": "trang chỉ mục (gọi DB)"
+    },
+    {
+      "file": "BIA/2022/Feb22.php",
+      "reason": "trang chỉ mục (gọi DB)"
+    },
+    {
+      "file": "BIA/2022/Jan22.php",
+      "reason": "trang chỉ mục (gọi DB)"
+    },
+    {
+      "file": "BIA/2022/Jul22.php",
+      "reason": "trang chỉ mục (gọi DB)"
+    },
+    {
+      "file": "BIA/2022/Jun22.php",
+      "reason": "trang chỉ mục (gọi DB)"
+    },
+    {
+      "file": "BIA/2022/Mar22.php",
+      "reason": "trang chỉ mục (gọi DB)"
+    },
+    {
+      "file": "BIA/2022/May22.php",
+      "reason": "trang chỉ mục (gọi DB)"
+    },
+    {
+      "file": "BIA/2022/Nov22.php",
+      "reason": "trang chỉ mục (gọi DB)"
+    },
+    {
+      "file": "BIA/2022/Oct22.php",
+      "reason": "trang chỉ mục (gọi DB)"
+    },
+    {
+      "file": "BIA/2022/Sep22.php",
+      "reason": "trang chỉ mục (gọi DB)"
+    },
+    {
+      "file": "BIA/2023/Apr23.php",
+      "reason": "trang chỉ mục (gọi DB)"
+    },
+    {
+      "file": "BIA/2023/Aug23.php",
+      "reason": "trang chỉ mục (gọi DB)"
+    },
+    {
+      "file": "BIA/2023/Dec23.php",
+      "reason": "trang chỉ mục (gọi DB)"
+    },
+    {
+      "file": "BIA/2023/Feb23.php",
+      "reason": "trang chỉ mục (gọi DB)"
+    },
+    {
+      "file": "BIA/2023/Jan23.php",
+      "reason": "trang chỉ mục (gọi DB)"
+    },
+    {
+      "file": "BIA/2023/Jul23.php",
+      "reason": "trang chỉ mục (gọi DB)"
+    },
+    {
+      "file": "BIA/2023/Jun23.php",
+      "reason": "trang chỉ mục (gọi DB)"
+    },
+    {
+      "file": "BIA/2023/Mar23.php",
+      "reason": "trang chỉ mục (gọi DB)"
+    },
+    {
+      "file": "BIA/2023/May23.php",
+      "reason": "trang chỉ mục (gọi DB)"
+    },
+    {
+      "file": "BIA/2023/Nov23.php",
+      "reason": "trang chỉ mục (gọi DB)"
+    },
+    {
+      "file": "BIA/2023/Oct23.php",
+      "reason": "trang chỉ mục (gọi DB)"
+    },
+    {
+      "file": "BIA/2023/Sep23.php",
+      "reason": "trang chỉ mục (gọi DB)"
+    },
+    {
+      "file": "BIA/2024/Apr24.php",
+      "reason": "trang chỉ mục (gọi DB)"
+    },
+    {
+      "file": "BIA/2024/Aug24.php",
+      "reason": "trang chỉ mục (gọi DB)"
+    },
+    {
+      "file": "BIA/2024/Dec24.php",
+      "reason": "trang chỉ mục (gọi DB)"
+    },
+    {
+      "file": "BIA/2024/Feb24.php",
+      "reason": "trang chỉ mục (gọi DB)"
+    },
+    {
+      "file": "BIA/2024/Jan24.php",
+      "reason": "trang chỉ mục (gọi DB)"
+    },
+    {
+      "file": "BIA/2024/Jul24.php",
+      "reason": "trang chỉ mục (gọi DB)"
+    },
+    {
+      "file": "BIA/2024/Jun24.php",
+      "reason": "trang chỉ mục (gọi DB)"
+    },
+    {
+      "file": "BIA/2024/Mar24.php",
+      "reason": "trang chỉ mục (gọi DB)"
+    },
+    {
+      "file": "BIA/2024/May24.php",
+      "reason": "trang chỉ mục (gọi DB)"
+    },
+    {
+      "file": "BIA/2024/Nov24.php",
+      "reason": "trang chỉ mục (gọi DB)"
+    },
+    {
+      "file": "BIA/2024/Oct24.php",
+      "reason": "trang chỉ mục (gọi DB)"
+    },
+    {
+      "file": "BIA/2024/Sep24.php",
+      "reason": "trang chỉ mục (gọi DB)"
+    },
+    {
+      "file": "BIA/2025/Apr25.php",
+      "reason": "trang chỉ mục (gọi DB)"
+    },
+    {
+      "file": "BIA/2025/Aug25.php",
+      "reason": "trang chỉ mục (gọi DB)"
+    },
+    {
+      "file": "BIA/2025/Dec25.php",
+      "reason": "trang chỉ mục (gọi DB)"
+    },
+    {
+      "file": "BIA/2025/Feb25.php",
+      "reason": "trang chỉ mục (gọi DB)"
+    },
+    {
+      "file": "BIA/2025/Jan25.php",
+      "reason": "trang chỉ mục (gọi DB)"
+    },
+    {
+      "file": "BIA/2025/Jul25.php",
+      "reason": "trang chỉ mục (gọi DB)"
+    },
+    {
+      "file": "BIA/2025/Jun25.php",
+      "reason": "trang chỉ mục (gọi DB)"
+    },
+    {
+      "file": "BIA/2025/Mar25.php",
+      "reason": "trang chỉ mục (gọi DB)"
+    },
+    {
+      "file": "BIA/2025/May25.php",
+      "reason": "trang chỉ mục (gọi DB)"
+    },
+    {
+      "file": "BIA/2025/Nov25.php",
+      "reason": "trang chỉ mục (gọi DB)"
+    },
+    {
+      "file": "BIA/2025/Oct25.php",
+      "reason": "trang chỉ mục (gọi DB)"
+    },
+    {
+      "file": "BIA/2025/Sep25.php",
+      "reason": "trang chỉ mục (gọi DB)"
+    },
+    {
+      "file": "BIA/2026/Apr26.php",
+      "reason": "trang chỉ mục (gọi DB)"
+    },
+    {
+      "file": "BIA/2026/Aug26.php",
+      "reason": "trang chỉ mục (gọi DB)"
+    },
+    {
+      "file": "BIA/2026/Dec26.php",
+      "reason": "trang chỉ mục (gọi DB)"
+    },
+    {
+      "file": "BIA/2026/Feb26.php",
+      "reason": "trang chỉ mục (gọi DB)"
+    },
+    {
+      "file": "BIA/2026/Jan26.php",
+      "reason": "trang chỉ mục (gọi DB)"
+    },
+    {
+      "file": "BIA/2026/Jul26.php",
+      "reason": "trang chỉ mục (gọi DB)"
+    },
+    {
+      "file": "BIA/2026/Jun26.php",
+      "reason": "trang chỉ mục (gọi DB)"
+    },
+    {
+      "file": "BIA/2026/Mar26.php",
+      "reason": "trang chỉ mục (gọi DB)"
+    },
+    {
+      "file": "BIA/2026/May26.php",
+      "reason": "trang chỉ mục (gọi DB)"
+    },
+    {
+      "file": "BIA/2026/Nov26.php",
+      "reason": "trang chỉ mục (gọi DB)"
+    },
+    {
+      "file": "BIA/2026/Oct26.php",
+      "reason": "trang chỉ mục (gọi DB)"
+    },
+    {
+      "file": "BIA/2026/Sep26.php",
+      "reason": "trang chỉ mục (gọi DB)"
+    },
+    {
+      "file": "BIA/2027/Apr27.php",
+      "reason": "trang chỉ mục (gọi DB)"
+    },
+    {
+      "file": "BIA/2027/Aug27.php",
+      "reason": "trang chỉ mục (gọi DB)"
+    },
+    {
+      "file": "BIA/2027/Dec27.php",
+      "reason": "trang chỉ mục (gọi DB)"
+    },
+    {
+      "file": "BIA/2027/Feb27.php",
+      "reason": "trang chỉ mục (gọi DB)"
+    },
+    {
+      "file": "BIA/2027/Jan27.php",
+      "reason": "trang chỉ mục (gọi DB)"
+    },
+    {
+      "file": "BIA/2027/Jul27.php",
+      "reason": "trang chỉ mục (gọi DB)"
+    },
+    {
+      "file": "BIA/2027/Jun27.php",
+      "reason": "trang chỉ mục (gọi DB)"
+    },
+    {
+      "file": "BIA/2027/Mar27.php",
+      "reason": "trang chỉ mục (gọi DB)"
+    },
+    {
+      "file": "BIA/2027/May27.php",
+      "reason": "trang chỉ mục (gọi DB)"
+    },
+    {
+      "file": "BIA/2027/Nov27.php",
+      "reason": "trang chỉ mục (gọi DB)"
+    },
+    {
+      "file": "BIA/2027/Oct27.php",
+      "reason": "trang chỉ mục (gọi DB)"
+    },
+    {
+      "file": "BIA/2027/Sep27.php",
+      "reason": "trang chỉ mục (gọi DB)"
+    },
+    {
+      "file": "BIA/BaoDoDay.php",
+      "reason": "trang lưu trữ/tiện ích"
+    },
+    {
+      "file": "BIA/Categories.php",
+      "reason": "trang lưu trữ/tiện ích"
+    },
+    {
+      "file": "BIA/ListNDL.php",
+      "reason": "trang chỉ mục (gọi DB)"
+    },
+    {
+      "file": "BIA/Tacgia.php",
+      "reason": "trang lưu trữ/tiện ích"
+    },
+    {
+      "file": "BIA/Thungo.php",
+      "reason": "trang lưu trữ/tiện ích"
+    },
+    {
+      "file": "BIA/sach.php",
+      "reason": "trang lưu trữ/tiện ích"
+    },
+    {
+      "file": "BIA/sendafriend.php",
+      "reason": "trang lưu trữ/tiện ích"
+    },
+    {
+      "file": "BUIKHA/BKdir.php",
+      "reason": "trang chỉ mục (gọi DB)"
+    },
+    {
+      "file": "BUIKHA/BuiKha31.php",
+      "reason": "nội dung rỗng"
+    },
+    {
+      "file": "BUIKHA/ListHQG.php",
+      "reason": "trang chỉ mục (gọi DB)"
+    },
+    {
+      "file": "CAOHT/ListCHT.php",
+      "reason": "trang chỉ mục (gọi DB)"
+    },
+    {
+      "file": "DAOVB/CT/DaovBinh53.php",
+      "reason": "không có tiêu đề"
+    },
+    {
+      "file": "DAOVB/DVBdir.php",
+      "reason": "trang chỉ mục (gọi DB)"
+    },
+    {
+      "file": "DAOVB/VH/DaovBinh_AnhViet1.php",
+      "reason": "không có tiêu đề"
+    },
+    {
+      "file": "LICHSU/H/Hopluu00.php",
+      "reason": "không có tiêu đề"
+    },
+    {
+      "file": "LICHSU/IMG/30_4chayloan/USSMidway19.php",
+      "reason": "không có tiêu đề"
+    },
+    {
+      "file": "LICHSU/N/NguyenThanhTuan03_R.php",
+      "reason": "không có tiêu đề"
+    },
+    {
+      "file": "LICHSU/N/Nguyengiac_list.php",
+      "reason": "trang chỉ mục (gọi DB)"
+    },
+    {
+      "file": "LICHSU/N/Noamchomsky.php",
+      "reason": "không có tiêu đề"
+    },
+    {
+      "file": "LICHSU/TR/TQD29_Hkr.php",
+      "reason": "không có tiêu đề"
+    },
+    {
+      "file": "LICHSU/V/VuAnh.php",
+      "reason": "trang lưu trữ/tiện ích"
+    },
+    {
+      "file": "LTX/LTXdir.php",
+      "reason": "trang chỉ mục (gọi DB)"
+    },
+    {
+      "file": "MINHMAN/MMdir.php",
+      "reason": "trang chỉ mục (gọi DB)"
+    },
+    {
+      "file": "NMQ/HOSOTOIAC/TrangHSTA.php",
+      "reason": "trang lưu trữ/tiện ích"
+    },
+    {
+      "file": "NMQ/ListNMQmisc.php",
+      "reason": "trang chỉ mục (gọi DB)"
+    },
+    {
+      "file": "NMQ/MOIACCAM/MoiAcCam_Main.php",
+      "reason": "không có tiêu đề"
+    },
+    {
+      "file": "NMQ/Qdir.php",
+      "reason": "trang chỉ mục (gọi DB)"
+    },
+    {
+      "file": "SACHNGOAI/snN/Nguyengiac_list.php",
+      "reason": "trang chỉ mục (gọi DB)"
+    },
+    {
+      "file": "SACHNGOAI/snN/Nguyengiac_list_local.php",
+      "reason": "trang chỉ mục (gọi DB)"
+    },
+    {
+      "file": "SACHNGOAI/snT/ListTTLa.php",
+      "reason": "nội dung rỗng"
+    },
+    {
+      "file": "SACHNGOAI/snT/TThLdir.php",
+      "reason": "trang chỉ mục (gọi DB)"
+    },
+    {
+      "file": "TCN/29JAN14/ChiabuonA.php",
+      "reason": "trang lưu trữ/tiện ích"
+    },
+    {
+      "file": "TCN/29JAN14/ChiabuonAA.php",
+      "reason": "trang lưu trữ/tiện ích"
+    },
+    {
+      "file": "TCN/29JAN14/ChiabuonAAA.php",
+      "reason": "trang lưu trữ/tiện ích"
+    },
+    {
+      "file": "TCN/29JAN14/Hoainiem_2015.php",
+      "reason": "trang lưu trữ/tiện ích"
+    },
+    {
+      "file": "TCN/TCNkh/TCNkh20.php",
+      "reason": "không có tiêu đề"
+    },
+    {
+      "file": "THLOI/TLdir.php",
+      "reason": "trang chỉ mục (gọi DB)"
+    },
+    {
+      "file": "THOISU_CT/ChuL/0000.php",
+      "reason": "không có tiêu đề"
+    },
+    {
+      "file": "THOISU_CT/Hinh/CMT/HoangDuyHung.php",
+      "reason": "không có tiêu đề"
+    },
+    {
+      "file": "THOISU_CT/Hinh/HOAKY/imrs[1].php",
+      "reason": "không có tiêu đề"
+    },
+    {
+      "file": "TONGIAO/NGTRCAM/NTCdir.php",
+      "reason": "trang chỉ mục (gọi DB)"
+    },
+    {
+      "file": "TONGIAO/TOAKHAM/ToaKham.php",
+      "reason": "không có tiêu đề"
+    },
+    {
+      "file": "TONGIAO/ThichCQ/TCQ_List.php",
+      "reason": "không có tiêu đề"
+    },
+    {
+      "file": "TONGIAO/tgS/SH105_TCQ_List.php",
+      "reason": "không có tiêu đề"
+    },
+    {
+      "file": "TONGIAO/tgS/SH90_tinhduc.php",
+      "reason": "trang chỉ mục (gọi DB)"
+    },
+    {
+      "file": "TTL/TranTL70.php",
+      "reason": "không có tiêu đề"
+    },
+    {
+      "file": "VANHOC/V/VienNhu_ChuQN01doc.php",
+      "reason": "không có tiêu đề"
+    },
+    {
+      "file": "XAHOI/CHIABUON/Chiabuon7A.php",
+      "reason": "trang lưu trữ/tiện ích"
+    },
+    {
+      "file": "XAHOI/CHIABUON/Chiabuon7AA.php",
+      "reason": "trang lưu trữ/tiện ích"
+    },
+    {
+      "file": "XAHOI/CHIABUON/Chiabuon7AAA.php",
+      "reason": "trang lưu trữ/tiện ích"
+    }
+  ],
+  "warnings": [
+    "BIA/2008/May08.php: dùng cấu trúc fallback (title tag)",
+    "BIA/2008/Sep08.php: dùng cấu trúc fallback (title tag)",
+    "BIA/2009/Apr09.php: dùng cấu trúc fallback (title tag)",
+    "BIA/2009/Aug09.php: dùng cấu trúc fallback (title tag)",
+    "BIA/2009/Dec09.php: dùng cấu trúc fallback (title tag)",
+    "BIA/2009/Feb09.php: dùng cấu trúc fallback (title tag)",
+    "BIA/2009/Jan09.php: dùng cấu trúc fallback (title tag)",
+    "BIA/2009/May09.php: dùng cấu trúc fallback (title tag)",
+    "BIA/2011/Feb11.php: dùng cấu trúc fallback (title tag)",
+    "BIA/BaoDoDay.php: dùng cấu trúc fallback (title tag)",
+    "BIA/Categories.php: dùng cấu trúc fallback (title tag)",
+    "BIA/Thungo.php: dùng cấu trúc fallback (title tag)",
+    "BIA/sach.php: dùng cấu trúc fallback (title tag)",
+    "BIA/sendafriend.php: dùng cấu trúc fallback (title tag)",
+    "CAOHT/CHTDaoTC_000.php: dùng cấu trúc fallback (title tag)",
+    "CAOHT/DaoTC_000.php: dùng cấu trúc fallback (title tag)",
+    "CAOHT/DaoTC_list.php: dùng cấu trúc fallback (title tag)",
+    "CAOHT/DaoTCmain.php: dùng cấu trúc fallback (title tag)",
+    "CHUVTR/AlexDeR_Main.php: dùng cấu trúc fallback (title tag)",
+    "CHUVTR/ROIMATNA/RoiMatNa_Main.php: dùng cấu trúc fallback (title tag)",
+    "CHUVTR/VANSUDIA/VanSuDia_Main.php: dùng cấu trúc fallback (title tag)",
+    "CHUVTR/VN_JP2/JPII_Main.php: dùng cấu trúc fallback (title tag)",
+    "DOITHOAI/Cacbaidoithoai.php: dùng cấu trúc fallback (title tag)",
+    "DOITHOAI/NgVietDac.php: dùng cấu trúc fallback (title tag)",
+    "HOANGNN/WEEKEND/HOANGcuoituan.php: dùng cấu trúc fallback (title tag)",
+    "HOANHLINH/HoanhL_Main.php: dùng cấu trúc fallback (title tag)",
+    "HOANHLINH/VNML0.php: dùng cấu trúc fallback (title tag)",
+    "KHOAHOC/CacbaiKH.php: dùng cấu trúc fallback (title tag)",
+    "KHOAHOC/N/NVTuan.php: dùng cấu trúc fallback (title tag)",
+    "KHOAHOC/N/NgTienDat.php: dùng cấu trúc fallback (title tag)",
+    "KHOAHOC/N/NgTienDat_1.php: dùng cấu trúc fallback (title tag)",
+    "KHOAHOC/N/NguyenvanTuan1.php: dùng cấu trúc fallback (title tag)",
+    "KHOAHOC/N/NguyenvanTuan3.php: dùng cấu trúc fallback (title tag)",
+    "KHOAHOC/N/NguyenvanTuan4.php: dùng cấu trúc fallback (title tag)",
+    "KHOAHOC/N/NguyenvanTuan5.php: dùng cấu trúc fallback (title tag)",
+    "KHOAHOC/N/NguyenvanTuan6.php: dùng cấu trúc fallback (title tag)",
+    "KHOAHOC/N/NguyenvanTuan8.php: dùng cấu trúc fallback (title tag)",
+    "KHOAHOC/V/VNnet.php: dùng cấu trúc fallback (title tag)",
+    "LICHSU/B/BaoMoi_1000TL.php: dùng cấu trúc fallback (title tag)",
+    "LICHSU/CAUMONG/VNQSHC_Main.php: dùng cấu trúc fallback (title tag)",
+    "LICHSU/CacbaiLS.php: dùng cấu trúc fallback (title tag)",
+    "LICHSU/CacbaiNgDD.php: dùng cấu trúc fallback (title tag)",
+    "LICHSU/CacbaiRhodes.php: dùng cấu trúc fallback (title tag)",
+    "LICHSU/IMG/30_4chayloan/USSMidway19.php: nghi encoding (nhiều ký tự lạ)",
+    "LICHSU/IMG/NGODD/DinhDocLap.php: dùng cấu trúc fallback (title tag)",
+    "LICHSU/LEXNHUAN/LXN_main.php: dùng cấu trúc fallback (title tag)",
+    "LICHSU/Mauthan.php: dùng cấu trúc fallback (title tag)",
+    "LICHSU/N/NguyenSinhDuy_Main.php: dùng cấu trúc fallback (title tag)",
+    "LICHSU/N/NguyenThanhTuan03_Vid.php: dùng cấu trúc fallback (title tag)",
+    "LICHSU/P/PGdaichung.php: dùng cấu trúc fallback (title tag)",
+    "LICHSU/QUANGTOAN/QTNH_Main.php: dùng cấu trúc fallback (title tag)",
+    "LICHSU/T/ThethaoVH.php: dùng cấu trúc fallback (title tag)",
+    "LICHSU/T/ThethaoVH1.php: dùng cấu trúc fallback (title tag)",
+    "LICHSU/THTRQuang/TailieuTRQ.php: dùng cấu trúc fallback (title tag)",
+    "LICHSU/TR/TranXuanAn.php: dùng cấu trúc fallback (title tag)",
+    "LICHSU/V/VietThucOrg.php: dùng cấu trúc fallback (title tag)",
+    "LICHSU/V/VnExpDieubinhQuandoi.php: dùng cấu trúc fallback (title tag)",
+    "LICHSU/V/VnExpHaokhi.php: dùng cấu trúc fallback (title tag)",
+    "LICHSU/YoutubeCuHo1.php: dùng cấu trúc fallback (title tag)",
+    "LICHSU/YoutubeCuHo2.php: dùng cấu trúc fallback (title tag)",
+    "LTX/LyThaiTG41_Vid.php: dùng cấu trúc fallback (title tag)",
+    "MINHMAN/Chinhtri/MMlistchinhtri.php: dùng cấu trúc fallback (title tag)",
+    "MINHMAN/Tongiao/MMlist.php: dùng cấu trúc fallback (title tag)",
+    "MINHMAN/Tongiao/MinhManTG32.php: dùng cấu trúc fallback (title tag)",
+    "MINHMAN/Tongiao/MinhManTG6.php: dùng cấu trúc fallback (title tag)",
+    "MINHMAN/Tongiao/MinhManTG7.php: dùng cấu trúc fallback (title tag)",
+    "MINHMAN/Tongiao/MinhManTG8.php: dùng cấu trúc fallback (title tag)",
+    "NDX/NDX017.php: dùng cấu trúc fallback (title tag)",
+    "NDX/ThuguiNMQ.php: dùng cấu trúc fallback (title tag)",
+    "NMQ/HOSOTOIAC/GHLMmucluc.php: dùng cấu trúc fallback (title tag)",
+    "NMQ/HOSOTOIAC/TrangHSTA.php: dùng cấu trúc fallback (title tag)",
+    "NMQ/HOSOTOIAC/VATICAN_Main.php: dùng cấu trúc fallback (title tag)",
+    "NMQ/HOVATA/NMQhvtCover.php: dùng cấu trúc fallback (title tag)",
+    "NMQ/NMQ001.php: dùng cấu trúc fallback (title tag)",
+    "NMQ/ThuDocgia/THU_Main.php: dùng cấu trúc fallback (title tag)",
+    "PNNHAN/Cuocthuongluong.php: dùng cấu trúc fallback (title tag)",
+    "PNNHAN/NHANdir.php: dùng cấu trúc fallback (title tag)",
+    "SACHNGOAI/BEYOND/BYDBLF.php: dùng cấu trúc fallback (title tag)",
+    "SACHNGOAI/ClergyAbuse.php: dùng cấu trúc fallback (title tag)",
+    "SACHNGOAI/SNGOAIautoID.php: dùng cấu trúc fallback (title tag)",
+    "SACHNGOAI/snL/LeQuocTuan/SAMHARRIS/LeQuocTuanII_main.php: dùng cấu trúc fallback (title tag)",
+    "SACHNGOAI/snL/LeQuocTuan/SAMHARRIS/LeQuocTuan_main.php: dùng cấu trúc fallback (title tag)",
+    "SACHNGOAI/snT/ListTTLa.php: dùng cấu trúc fallback (title tag)",
+    "SACHNGOAI/snT/TTL_AVR_BK.php: dùng cấu trúc fallback (title tag)",
+    "SACHNGOAI/snT/TranVKhas.php: dùng cấu trúc fallback (title tag)",
+    "TCN/TCNdt/TCNdoithoai.php: dùng cấu trúc fallback (title tag)",
+    "TCN/TCNkh/TCNkhoahoc.php: dùng cấu trúc fallback (title tag)",
+    "TCN/TCNls/TCNlichsu.php: dùng cấu trúc fallback (title tag)",
+    "TCN/TCNtg/3NGOI/TCN64_Cha.php: dùng cấu trúc fallback (title tag)",
+    "TCN/TCNtg/3NGOI/TCN64_Con.php: dùng cấu trúc fallback (title tag)",
+    "TCN/TCNtg/3NGOI/TCN71_Ghost.php: dùng cấu trúc fallback (title tag)",
+    "TCN/TCNtg/3NGOI/TCN72.php: dùng cấu trúc fallback (title tag)",
+    "TCN/TCNtg/TCN111.php: dùng cấu trúc fallback (title tag)",
+    "TCN/TCNtg/TCN112.php: dùng cấu trúc fallback (title tag)",
+    "TCN/TCNtg/TCN113.php: dùng cấu trúc fallback (title tag)",
+    "TCN/TCNtg/TCN65_Main.php: dùng cấu trúc fallback (title tag)",
+    "TCN/TCNtg/TCN66_Main.php: dùng cấu trúc fallback (title tag)",
+    "TCN/TCNtg/TCN84.php: dùng cấu trúc fallback (title tag)",
+    "TCN/TCNtg/TCN86.php: dùng cấu trúc fallback (title tag)",
+    "TCN/TCNtg/TCN90.php: dùng cấu trúc fallback (title tag)",
+    "TCN/TCNtg/TCN90a.php: dùng cấu trúc fallback (title tag)",
+    "TCN/TCNtg/TCNtongiao.php: dùng cấu trúc fallback (title tag)",
+    "TCN/TCNtg/TinLanh/Hiemhoa1.php: dùng cấu trúc fallback (title tag)",
+    "TCN/TCNtg/TinLanh/Hiemhoa2.php: dùng cấu trúc fallback (title tag)",
+    "TCN/TCNtg/TinLanh/Hiemhoa3.php: dùng cấu trúc fallback (title tag)",
+    "TCN/TCNtg/TinLanh/Hiemhoa4.php: dùng cấu trúc fallback (title tag)",
+    "TCN/TCNts/TCNthoisu.php: dùng cấu trúc fallback (title tag)",
+    "TCN/TCNts/TCNts14.php: dùng cấu trúc fallback (title tag)",
+    "TCN/TCNts/TCNts27.php: dùng cấu trúc fallback (title tag)",
+    "THLOI/ThienloiIndex.php: dùng cấu trúc fallback (title tag)",
+    "THOISU_CT/CacbaiTS.php: dùng cấu trúc fallback (title tag)",
+    "THOISU_CT/ChuM/MikeWilson_03.php: dùng cấu trúc fallback (title tag)",
+    "THOISU_CT/ChuN/NguyenDinhLuan.php: dùng cấu trúc fallback (title tag)",
+    "THOISU_CT/ChuN/NguyenDuyQuy.php: dùng cấu trúc fallback (title tag)",
+    "THOISU_CT/ChuT/TinLienMang.php: dùng cấu trúc fallback (title tag)",
+    "THOISU_CT/ChuT/TinTuanVN1a.php: dùng cấu trúc fallback (title tag)",
+    "THOISU_CT/ChuTr/TranThaoL01.php: dùng cấu trúc fallback (title tag)",
+    "THOISU_CT/Hinh/HOAKY/imrs[1].php: nghi encoding (nhiều ký tự lạ)",
+    "TONGIAO/CacbaiDoiDat.php: dùng cấu trúc fallback (title tag)",
+    "TONGIAO/CacbaiTG.php: dùng cấu trúc fallback (title tag)",
+    "TONGIAO/Caidao.php: dùng cấu trúc fallback (title tag)",
+    "TONGIAO/GIAODIEM/VaticanThuToi_Main.php: dùng cấu trúc fallback (title tag)",
+    "TONGIAO/NGTRCAM/Motdocgia.php: dùng cấu trúc fallback (title tag)",
+    "TONGIAO/NGTRCAM/NguyenTriCam17.php: dùng cấu trúc fallback (title tag)",
+    "TONGIAO/NGTRCAM/NguyenTriCam18.php: dùng cấu trúc fallback (title tag)",
+    "TONGIAO/NGTRCAM/NguyenTriCam19.php: dùng cấu trúc fallback (title tag)",
+    "TONGIAO/TOAKHAM/CacbaiTS.php: dùng cấu trúc fallback (title tag)",
+    "TONGIAO/TOAKHAM/Doidat.php: dùng cấu trúc fallback (title tag)",
+    "TONGIAO/TOAKHAM/GHPG.php: dùng cấu trúc fallback (title tag)",
+    "TONGIAO/TOAKHAM/GHPG1.php: dùng cấu trúc fallback (title tag)",
+    "TONGIAO/TTTINH/TranTamTinhCover.php: dùng cấu trúc fallback (title tag)",
+    "TONGIAO/VESAK08/CacbaiVesak.php: dùng cấu trúc fallback (title tag)",
+    "TONGIAO/tgM/MinhNgoc01.php: dùng cấu trúc fallback (title tag)",
+    "TONGIAO/tgN/NguyenCongChinh.php: dùng cấu trúc fallback (title tag)",
+    "TONGIAO/tgQ/QuangHien.php: dùng cấu trúc fallback (title tag)",
+    "TONGIAO/tgS/SH02.php: dùng cấu trúc fallback (title tag)",
+    "TONGIAO/tgS/SH31.php: dùng cấu trúc fallback (title tag)",
+    "TONGIAO/tgT/Tamdieu01.php: dùng cấu trúc fallback (title tag)",
+    "TONGIAO/tgT/TinAP02.php: dùng cấu trúc fallback (title tag)",
+    "TONGIAO/tgTH/ThichChonTe.php: dùng cấu trúc fallback (title tag)",
+    "TONGIAO/tgV/VuongVu03.php: dùng cấu trúc fallback (title tag)",
+    "TRTVT/TTVT_XH03.php: dùng cấu trúc fallback (title tag)",
+    "VANHOC/CacbaiVH.php: dùng cấu trúc fallback (title tag)",
+    "XAHOI/CHIABUON/Caopho01.php: dùng cấu trúc fallback (title tag)",
+    "XAHOI/CHIABUON/Caopho02.php: dùng cấu trúc fallback (title tag)",
+    "XAHOI/CHIABUON/Chiabuon.php: dùng cấu trúc fallback (title tag)",
+    "XAHOI/CHIABUON/Chiabuon1.php: dùng cấu trúc fallback (title tag)",
+    "XAHOI/CHIABUON/Chiabuon2.php: dùng cấu trúc fallback (title tag)",
+    "XAHOI/CHIABUON/Chiabuon3.php: dùng cấu trúc fallback (title tag)",
+    "XAHOI/CHIABUON/Chiabuon4.php: dùng cấu trúc fallback (title tag)",
+    "XAHOI/CacbaiXH.php: dùng cấu trúc fallback (title tag)",
+    "XAHOI/T/TinICM1.php: dùng cấu trúc fallback (title tag)",
+    "XAHOI/T/TinThosu.php: dùng cấu trúc fallback (title tag)",
+    "XAHOI/TUTHIEN/Chiabuon.php: dùng cấu trúc fallback (title tag)",
+    "XAHOI/xhC/Caopho.php: dùng cấu trúc fallback (title tag)"
+  ]
+}

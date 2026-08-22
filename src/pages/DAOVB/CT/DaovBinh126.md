@@ -1,0 +1,69 @@
+---
+layout: ../../../layouts/Article.astro
+title: "Nhật Ký Biển Đông: Cuộc Chiến Con Tin Đi Về Đâu?"
+author: "Đào Văn Bình"
+date: 2019-01-22
+source: "https://sachhiem.net/DAOVB/CT/DaovBinh126.php"
+category: "Chính trị"
+lang: vi
+wordCount: 2480
+image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/THOISU_CT/Hinh/HOAKY/PaulWhelan_1Jan2019.JPG"
+---
+
+<div class="tomluoc">
+  <p><i> Không biết Gia Nã Đại giải quyết “miếng xương gà mắc trong cổ họng” này như thế nào? Tuy nhiên chìa khóa chính là Hoa Kỳ chứ không phải Gia Nã Đại. Từ xưa tới nay, do là nước nhỏ, kinh tế yếu lại nằm sát một siêu cường khổng lồ, Gia Nã Đại nhũn nhặn giữ vai trò đàn em, bảo sao nghe vậy. Nếu Bộ Tư Pháp Hoa Kỳ hủy bỏ lệnh bắt giam Bà Mạnh Vãn Chu thì mọi chuyện từ từ rồi êm.  (ĐVB)</i></p>
+</div> 
+ <p> <span class="First">N</span>hật Ký Biển  Đông hai tuần đầu Tháng Giêng ghi nhận những biến chuyển quan trọng như sau:  </p>
+ <div class="danbai"><p><b>Gồm các mục:</b></p>
+   <p><a href="/DAOVB/#n1" name="tit1">A. Tình hình Hoa Kỳ</a></p>
+   <p><a href="/DAOVB/#n2" name="tit2">B. Tình hình thê giới </a></p>
+      <p><a href="/DAOVB/#n2a" name="tit3">C. Chiến Tranh Lạnh Mới</a></p>
+<p><a href="/DAOVB/#n3" name="tit4">D. Tình hình Biển Đông </a></p>
+   <p><a href="/DAOVB/#n4" name="tit5">E.  Tình hình Trung Đông  </a></p>
+    <p><a href="/DAOVB/#n5" name="tit6">F. Nhận Định </a></p>
+ </div> 
+ <a name="n1" href="/DAOVB/#tit1"><p class="TuaDoLeft">A. Tình hình Hoa Kỳ: </p></a>
+    <p>- Yahoo News Video ngày 2/1/2019: “Một người đàn ông tên Daniel Taylor đã bị bắt  tại tiệm McDonalds ở Saint Petersburg, Florida vào đêm 30/12/2018, chỉ vì chiếc  ống hút, đã chồm qua quầy tính tiền để hành hung một nữ nhân viên tại đây.” </p>
+  <p>Thật lạ đời ! Thiếu chiếc ống hút để uống nước thì có gì đâu mà phải nổi cáu để  hành hung người ta? Có khi chỉ vì tự ái. Đôi khi con người ta đòi hỏi cái gì đó  dù vô lý mà không được, thì tự ái nổi lên và không còn kiểm soát được mình nữa. </p>
+  <p>- Yahoo News ngày 4/1/2019: “<i>Theo Fox News, chủ nhân của một nhà hàng Pháp-Việt  có tên là Pho  Keene Great (Phở Keene Great) đã phải gỡ bảng hiệu vì quản  trị viên Thành Phố Keene, New Hampshire cho rằng cái tên “Pho” phát âm là “fuh”  có âm thanh xúc phạm. Theo cuộc thăm dò, 3400 thực khách cho rằng cái tên chẳng  có gì xúc phạm, trong khi 117 cho rằng xúc phạm</i>.” </p>
+  <p>Bà quản trị viên (<i>city manager</i>) thành phố này điên khùng quá. Bà ở một  tiểu bang nhỏ, cũng nên qua California để “Đi một ngày đàng, học một sàng khôn”  với người ta. Chữ “phở” làm sao lại phát âm thành “f…ck”. Trước khi quyết định  cũng nên nhờ một người Viêt Nam nói cho bà nghe tiếng “phở” phát âm ra làm sao  chứ. Có lẽ cũng nên mời bà  ăn một tô “tái, nạm, gầu, gân sách + nước béo,  hành trần”. Ăn xong có lẽ bà mê luôn và thay đổi quyết định không biết chừng. </p>
+<a name="n2" href="/DAOVB/#tit2"><p class="TuaDoLeft">B. Tình hình thế giới:</p>
+          </a> 
+  <p>- Reuters ngày 2/1/2019: “Hôm nay, các nhà làm kế hoạch quốc gia Trung Quốc cho  biết họ đã chấp thuận dự án xây đường xe lửa nội thành ở phía đông Tỉnh Giang  Tô và An Huy với tổng số đầu tư khoảng  231.7 tỷ Nguyên (33.82 tỷ Mỹ Kim).  Đường xe lửa nội thành này có chiều dài 1,063 km.” </p>
+  <p>- CNBC ngày 2/1/2018: “Trong một bài diễn văn kỷ niệm 40 năm ngày Thông Điệp Ái  Quốc về Đài Loan <i>(Message of Compatriots in Taiwan 1/1/1979)</i> Chủ  Tịch Tập Cận Bình, qua thông dịch viên tiếng Anh đã nói rằng vấn đề Đài Loan là  chính trị nội bộ của Trung Hoa. Nó là lợi ích cốt lõi/sinh tử, là tình cảm của  người Trung Hoa. Mọi sự can thiệp của ngoại bang đều không thể tha thứ.” Đài  Loan đã tiến hành cuộc tập trận bắn đạn thật để phòng ngừa cuộc tấn công từ Hoa  Lục. </p>
+  <p>- AP ngày 3/1/2019: “Một phi thuyền của Trung Quốc lần đầu tiên đã đáp xuống  phần tối của Mặt Trăng- một thành tựu mới nhất của chương trình phát triển không  gian. Một tấm hình do phi thuyền Hằng Nga 4 (Cheng’ e 4) chụp lúc 11:40 sáng và  được phổ biến trên mạng lưới điện tử bởi Tân Hoa Xã cho thấy hình một hố nhỏ bề  mặt trơ trụi đã được chiếu sáng bởi phi thuyền thăm dò.” </p>
+  <p>- Reuters ngày 5/1/2019: “Tổng Thống  Thái Anh Văn kêu quốc tế hãy hỗ trợ  để bảo vệ nền dân chủ và lối sống của đảo quốc tự trị Đài Loan giữa lúc có sự  đe dọa mới từ Hoa Lục và bác bỏ giải pháp ‘<i>một quốc gia hai thể chế</i> ‘.  Lời của Bà Thái Anh Văn được đưa ra vài ngày sau khi Chủ Tịch Tập Cận Bình nói  rằng không một ai có thể thay đổi sự kiện Đài Loan là một phần lãnh thổ của  Trung Hoa và người dân hai phía nên tìm cách thống nhất.” </p>
+  <p>Việc thống nhất Đài Loan với Hoa Lục là chuyện muôn vàn khó khăn làm chúng ta  nhớ lại cuộc khủng hoảng năm 1958 khiến Hoa Kỳ, dưới thời Tổng Thống Eisenhower đã  phải gửi chiến hạm tới đây để hỗ trợ Đài Loan. Và cuộc khủng hoảng năm 1995  dưới thời Tổng Thống Bill Clinton khiến Hoa Kỳ phải đưa HKMH và tàu chiến tới  đây. </p>
+  <p>- Yahoo News UK ngày 7/1/2019: “<i>Một cụ già 80 tuổi ở Anh khi dẫn chó đi chơi ở  một công viên đã bị phạt 50 bảng Anh đã khóc vì dây xích chó quá dài. Theo  luật, dây xích chó không được dài quá 2 mét</i>.” </p>
+<p>Câu  chuyện tưởng như khôi hài nhưng chính là sự thi hành nghiêm minh luật pháp.  Luật lệ quy định dây xích chó không dài quá để người chủ có thể kiểm soát/kiềm  chế được chó của mình. Biết bao chuyện chó cắn chết người, dù có dây xích,  nhưng chủ nhân vẫn không kiểm soát được khi dây xích quá dài. </p>
+  <p>- Reuters Videos ngày 8/1/2019: “<i>Lãnh tụ Bắc Triều Tiên Kim Jong Un đã thăm  viếng Trung Hoa theo lời mời của Chủ Tịch Tập Cận Bình chỉ vài ngày sau khi  cảnh báo là Bắc Triều Tiên có thể sẽ theo đuổi một hướng khác (về giải trừ  vũ khí nguyên tử) nếu Hoa Kỳ không giảm nhẹ cấm vận và áp lực lên quốc gia  bị cô lập của họ.</i>” Trong khi đó theo báo Time, Tổng Thống Donald Trump đang  thương thảo để có cuộc họp thượng đình thứ hai với Ô. Kim Jong Un. Vào ngày  16/1/2019 giới truyền thông quốc tế lại rộ lên tin đồn là hai Ô. Trump và Kim Jong  Un sẽ chọn Đà Nẵng là địa điểm họp thượng đỉnh với lý do Việt Nam đứng trung  lập và có mối bang giao tốt đẹp với cả Hoa Kỳ lẫn Bắc Triều Tiên. </p>
+ <a name="n3" href="/DAOVB/#tit3">
+<p class="TuaDoLeft">C. Chiến Tranh Lạnh Mới: </p>
+</a>
+  <p>- Reuters ngày 2/1/2019: “<i>Ngoại Trưởng Mike Pompeo kêu gọi Nga thả ngay lập tức  cựu binh sĩ Thủy Quân Lục Chiến Paul Whelan bị bắt giam vì cáo buộc làm gián  điệp và yêu cầu một lời giải thích về lý do bắt giữ. Daniel Joffman- cựu nhân  viên CIA tại Mạc Tư Khoa nói rằng có thể và chắc chắn là Tổng Thống Putin đã ra  lệnh bắt giam Paul Whelan để trao đổi với Maria Butina- một nữ công dân Nga đã  nhận tội hoạt động như là một nhân viên mật vụ qua việc giao thiệp với các viên  chức có thẩm quyền và các nhóm bảo thủ Hoa Kỳ</i>.” Tin mới nhất cho biết Paul  Whelan có cả quốc tịch Anh, Ái Nhĩ Lan và Gia Nã Đại. Theo luật sư người Nga  đại diện cho Paul Whelan, có thể thân chủ của ông bị bắt để trao đổi với cô  Maria Butina. </p>
+  <p align="center"><img src="https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/THOISU_CT/Hinh/HOAKY/PaulWhelan_1Jan2019.JPG" width="253" height="234" alt=""><img src="https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/THOISU_CT/Hinh/NGA/MariaButina_arrestedinUS_Aug2018.jpeg" width="244" height="233" alt=""></p>
+  <p align="center"><i>Paul Whelan (Mỹ) - Maria Butina (Nga)</i></p>
+<a name="n4" href="/DAOVB/#tit4"><p class="TuaDoLeft">D. Tình hình Trung Đông: </p></a>
+  <p>- Reuters ngày 1/1/2019: “<i>Phi cơ chiến đấu của Iraq đã bắn hỏa tiễn vào một cuộc  họp của Nhà Nước Hồi Giáo gần Deir al-Zor, phá hủy tòa nhà mà họ tụ họp. Bản  tin nói rằng phi cơ F-16 đã tiến hành cuộc không kích ở gần làng al-Sousa khi  30 phần tử Daesh (một tên khác của IS) hội họp ở toà nhà này</i>.” Còn AP cho biết,  nhóm phiến quân do Thổ Nhĩ Kỳ hỗ trợ và nhóm có liên hệ với al-Kaida đã đánh  nhau ở Tỉnh Aleppo và Idlib khiến 31 người chết trong đó có 5  thường dân. </p>
+  <p>   Tưởng cũng nên nhắc lại đây, vào ngày 30/12/2018,  Tổng Thống Assad của Syria cho phép Iraq được tiến  hành các cuộc không khích tiêu diệt Nhà Nước Hồi Giáo mà không cần báo trước  khi hai đồng minh cùng phối hợp để chống lại nhóm cực đoan khi Hoa Kỳ dự trù  rút quân khỏi nơi đây. </p>
+<p>- Reuters  ngày 8/1/2019: “Tổng Thống Thổ Nhĩ Kỳ Erdogan nói rằng Thổ không thể nào chấp  nhận lời tuyên bố mới đây của Cố Vấn An Ninh Quốc Gia Hoa Kỳ John Bolton rằng  Thổ phải đồng ý bảo vệ liên minh người Kurd của Hoa Thịnh Đốn. Nói chuyện với  những thành viên Đảng AK của mình tại quốc hội, Ô. Erdogan nói rằng Ô. John  Bolton đã phạm phải lỗi lầm nghiêm trọng khi đặt ra những điều kiện mới cho  việc Hoa Kỳ rút quân khỏi Syria và rằng Thổ không bao giờ thỏa hiệp về vấn đề  lực lượng YPG của người Kurd.” </p>
+<p>- AP  ngày 8/1/2019: “Quân cảnh của Nga bắt đầu tuần tra khu vực bao quanh Manbij ở  bắc Syria do lực lượng người Kurd chiếm giữ vì lo sợ một cuộc tấn công của Thổ  Nhĩ Kỳ.” </p>
+<p>- AP  ngày 11/1/2019: “Vài ngày sau những tuyên bố trái ngược nhau về thời biểu rút  quân ra khỏi Syria của  Tòa Bạch Ốc, Đại Tá Sean Ryan- phát ngôn viên của  liên minh chống Nhà Nước Hồi Giáo do Hoa Kỳ cầm đầu nói rằng cuộc rút quân có  tính toán của chúng tôi đã bắt đầu. Nhưng vì lý do an ninh sẽ không nói rõ nơi  nào và chuyển động của quân đội.” </p>
+<a name="n5" href="/DAOVB/#tit5">
+<p class="TuaDoLeft">E. Tình hình Biển Đông:</p></a> 
+  <p>- Reuters ngày 7/1/2019: “<i>Khu Trục Hạm  McCampbell  trang bị hỏa tiễn đạn đạo  của Hải Quân Hoa Kỳ đã tuần tra gần các đảo đang có tranh chấp ở Biển Đông mà  Trung Quốc gọi đó là hành động khiêu khích. Nữ phát ngôn viên của Hạm Đội Thái  Bình Dương Rachel McMarr cho biết, tàu USS McCampbell đã thực hiện hoạt động  “tự do hàng hải” trong phạm vi 12 hải lý thuộc Quần đảo Hoàng Sa để thách thức  các tuyên bố chủ quyền trên biển quá mức của Hoa Lục</i>.” </p>
+  <p>- Bloomberg News ngày 14/1/2019: “Thủ Tướng Thái Lan Prayuth Chan-Ocha đã khuyến  cáo người dân của thủ đô Bangkok nên ở trong nhà khi không khí ô nhiễm trên  thành phố lên tới mức độ nguy hiểm. Chỉ số không khí an toàn hay AQI đã lên tới  182 lúc 10:14 sáng – cao hơn mức ô nhiễm nổi tiếng ở các khu đô thị như New  Delhi, Bắc Kinh và Jakarta- trước khi hạ xuống mức 138 vào lúc 3 giờ chiều. Chỉ  số an toàn là 50 trong khi 300 là con số gây nguy hiểm.” </p>
+ <p class="TuaDoLeft"><a name="n6" href="/DAOVB/#tit6">F. Nhận Định:  </a></p>
+    <p>Kể từ khi Gia Nã Đai bắt giam Bà Mạnh Vãn Chu – giám đốc tài chính của Huawei  theo yêu cầu của Hoa Kỳ, rồi cho tại ngoại hầu tra, đã nổ ra cuộc chiến bắt giữ  con tin. Trung Quốc đã ra lệnh bắt giữ hai công dân Gia Nã Đại vì cho rằng có  hoạt gián điệp hay nguy hại tới nền an ninh quốc gia. Rồi sau đó đã tái thẩm và  chuyển án 15 năm tù thành án tử hình Robert  Lloyd Schellenberg - công dân Gia Nã Đại thứ ba vì tội buôn bán ma túy.   Hai phía Trung Hoa và Gia Nã Đại đều cho rằng những vụ bắt giữ này không liên  hệ tới vụ Bà Mạnh Vãn Chu nhưng giới quan sát quốc tế nói rằng đây là chiến  dịch bắt giữ để trao đổi con tin. Tình hình ngoại giao giữa Hoa Lục, Gia Nã Đại  và Hoa Kỳ căng thẳng thêm sau khi Hoa Kỳ tuyên bố có thể ban hành lệnh cấm các  công ty Hoa Kỳ bán các linh kiện điện tử cho hãng Huawei. </p>
+    <p align="center"><img src="https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/THOISU_CT/Hinh/VIETNAM/VUONRAU_LH/10719394-3x2-940x627[1].jpg" width="400" alt=""></p>
+    <p align="center"><a href="https://www.nytimes.com/2019/01/14/world/asia/china-canada-schellenberg-retrial.html"><i>Robert Lloyd Schellenberg</i></a></p>
+<p>    Theo Business Insider ngày 3/1/2018, Bộ Ngoại  Giao Hoa Kỳ đã ban hành khuyến cáo du lịch, thúc giục công dân Hoa Kỳ phải gia  tăng thận trọng khi du lịch nước Cộng Hòa Nhân Dân Trung Hoa. Khuyến cáo xuất  phát từ mối lo Trung Quốc có thể ra lệnh cho nhân viên công lực địa phương bắt  giữ công dân Hoa Kỳ mà không cho dời khỏi nước, giam giữ vô thời hạn và phải  chịu sự phiền hà, thẩm vấn. Tin mới nhất cho biết một phụ nữ Gia Nã Đại tên  Ti-Anna Wang đã bị sáu nhân viên công an Trung Quốc lôi ra khỏi máy bay, tách  khỏi người chồng và tạm giữ bà cùng con gái trong hai giờ trong lúc bà chờ  chuyến bay đi Toronto. Người đàn bà này có cha là một nhà chống đối chính quyền  ở Hoa Lục. </p>
+<p align="center"><img src="https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/THOISU_CT/Hinh/CHINA/Ti-Anna_Wang.jpg" width="225" height="224" alt=""></p>
+<p align="center"><a href="https://news.rthk.hk/rthk/en/component/k2/1438589-20190117.htm?spTabChangeable=0"><i>Ti-Anna Wang</i></a></p>
+<p>    Không  biết Gia Nã Đại giải quyết “<i>miếng xương gà mắc trong cổ họng”</i>  này như thế  nào? Tuy nhiên chìa khóa chính là Hoa Kỳ chứ không phải Gia Nã Đại. Từ xưa tới  nay, do là nước nhỏ, kinh tế yếu lại nằm sát một siêu cường khổng lồ, Gia Nã  Đại nhũn nhặn giữ vai trò đàn em, bảo sao nghe vậy. Nếu Bộ Tư Pháp Hoa Kỳ hủy  bỏ lệnh bắt giam Bà Mạnh Vãn Chu thì mọi chuyện từ từ rồi êm. Tuy nhiên Hoa Kỳ  đang đứng trước ba lựa chọn: </p>
+<p>-  Triệt  hạ kinh tế Hoa Lục khiến Hoa Lục phải quỳ gối và lui về vị trí khiêm tốn, bó rọ  trong lục địa. </p>
+<p>-  Chấp  nhận thực tế là không thể kiềm chế <i>“Ông Trời Con</i>” mỗi lúc mỗi vươn lên và cân  bằng lực lượng, thỏa hiệp để cùng chia nhau thiên hạ. </p>
+<p>-  Cả  hai giải pháp này đều khó và theo sách lược thứ ba “<i>đánh đánh-đàm đàm</i>”, vừa hợp  tác vừa kiềm chế…hầu mua thời gian để xem tình hình tới đâu rồi sẽ tính. Xin  nhớ cho trong tình thế hiện tại, bất cứ một cuộc đụng độ quân sự nào giữa Hoa  Kỳ và Trung Quốc đều đưa đến cuộc chiến tranh tổng lực. </p>
+<p>    Chúng  ta chờ xem các chiến lược gia Hoa Kỳ giải quyết cuộc chiến bắt giữ con tin này  như thế nào và mức độ liều lĩnh của Trung Hoa tới đâu? </p>
+<p class="TacgiaR"> Đào Văn Bình </p>
+ <p align="right"><i>(California ngày 17/1/2019)</i></p>

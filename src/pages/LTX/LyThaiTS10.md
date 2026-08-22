@@ -1,0 +1,66 @@
+---
+layout: ../../layouts/Article.astro
+title: "ITCCS Tuyên Bố: Giáo Hội Ca Tô Rô Ma Là Một Tổ Chức Tội Phạm Quốc Tế"
+author: "Lý Thái tổng hợp"
+date: 2013-08-26
+source: "https://sachhiem.net/LTX/LyThaiTS10.php"
+category: "Chính trị"
+lang: vi
+wordCount: 1983
+image: "https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/XAHOI/IMG/ITCCS/KevinAnnett.jpg"
+---
+
+<p> <span class="First"><a href="https://itccs.org/">ITCCS </a></span><a href="https://itccs.org/">(International Tribunal into Crimes of Church and State,</a> Tòa Án Quốc Tế Xét Xử Tội Ác Của Giáo Hội và Chính Quyền) là một Tòa án Lương Tâm của dân chúng, dựa trên các điều luật tự nhiên và luật quốc tế.  Tính hợp pháp của nó được thành lập theo nguyên tắc pháp lý quốc tế của Luật Cần Thiết, theo đó người dân có thể thiết lập một cơ chế tư pháp chân chính bắt nguồn từ Luật chung. </p>
+<p>ITCCS được thành lập vào mùa xuân năm 2010 tại một cuộc họp của những người sống sót sau khi bị tra tấn của nhà thờ ở Dublin, Ái Nhĩ Lan.  Tổ chức này hiện nay bao gồm các tổ chức ở mười lăm quốc gia (United States, Canada, England, Ireland
+Spain, France, Netherlands, Belgium, Denmark, Germany, Italy, 
+Slovenia, Australia, South Africa, Thailand). ITCCS được thành lập vì các Tòa án hiện có và các chính phủ từ chối không truy tố nhà thờ về tội diệt chủng và tội ác chống lại trẻ em, và vì sự đồng lõa tích cực của các cơ quan nhà nước với các tổ chức tội ác của nhà thờ. Văn phòng Trung ương của ITCCS đặt ở Brussels, Bỉ, với các   chi nhánh tại London, Dublin, Rome, New York và Vancouver. Tổng Thư Ký  của ITCCS là mục sư Kevin D. Annett.</p>
+<p align="center"><img src="https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/XAHOI/IMG/ITCCS/KevinAnnett.jpg" width="150" height="199"></p>
+<p align="center"><a href="https://wikispooks.com/wiki/Kevin_Annett">Mục sư Kevin D. Annett</a></p>
+<p>Ngày 12 Tháng Chín năm 2011 tại Luân Đôn, ITCCS đã ban hành một trát tòa gửi đến Joseph Ratzinger (hay còn gọi là "Giáo Hoàng Benedict 16") và sáu hồng y cao cấp trong Tổ Hợp Giáo hội Công Giáo La Mã,  xuất hiện trước phiên họp khai mạc của tòa án ITCCS. </p>
+<p>Ngày 23 tháng 5, 2013, Ông  tới Savona, Ý Đại Lợi, gặp gỡ  diễn giả nổi danh Francesco Zanardi trong một cuộc họp báo lịch sử để phơi bày  việc buôn bán trẻ em khắp nơi trên thế giới, các vụ lạm dụng và ám sát của Vatican. Cũng trong tháng 5 vừa qua, mục sư Kevin Annett được đề cử cho giải Nobel Hòa bình.</p>
+<p align="center"><img src="https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/XAHOI/IMG/ITCCS/KevAnnett_FraNZanardi_Conf_Italy.jpg" width="350" height="272"></p>
+<p>Tiếp đó, một trát tòa đã được ban hành cho Giáo Hoàng Francis 1 ngày 1 tháng 8, 2013. <a href="https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/TONGIAO/IMG/VATICAN/POPE/Trattoa_batgiaohoang.jpg">(Xin bấm vào link để xem ảnh chụp trát tòa)</a></p>
+<p> Sau đây là vài nét   quan trọng trong nội dung 8 bài viết (*) đăng trên <a href="https://itccs.org" target="_blank">https://itccs.org</a> được tóm lược như sau, xin chuyển Việt, hầu bạn đọc những giây phút hào hứng.  </p>
+<p> • Vatican là một tổ chức tội ác đang tiến hành một cuộc chiến  chống  nhân loại, trẻ em, và luật pháp của chính nó.</p>
+<p>• Giáo Hội Rôma và các chính phủ đối  tác của họ đã tấn công, chiếm đóng và phá hủy các quốc gia khác một cách bất  hợp pháp, hãm hiếp trẻ em và làm cạn kiệt đất đai, tài sản và sức sống rộng lớn của các quốc  gia này, tiến hành cuộc chiến tranh xâm lược và  diệt chủng tàn bạo chống lại các dân tộc khác và giết hại hàng triệu  người của họ, hạn chế và phá vỡ quyền lợi và tự do của họ, đánh cắp, tra tấn  vô số trẻ em, và làm cho thế giới ở trong tình trạng sợ hãi, phụ thuộc và  nghèo nàn. Những tội ác đó vẫn còn tiếp  tục đến ngày hôm nay, với sự giúp đỡ của các chính phủ trên khắp thế giới</p>
+<p>• Chính phủ Ý và bất kỳ quốc gia nào  tài trợ hoặc công nhận Vatican có thể bị &nbsp;xem là những  chế độ khủng bố đang đe dọa &nbsp;nhân loại, và có thể bị truy tố trong tất cả các khung pháp lý, áp dụng các hình  thức trừng phạt và bằng các biện pháp thường được sử dụng để chống lại các quốc gia  gây chiến tranh. </p>
+<p>• Ngày 25 Tháng Hai năm 2013, Giáo  hội Công giáo La Mã và các viên chức cao nhất đã  bị kết tội tham dự vào tội ác chống nhân loại và một âm mưu vi phạm hình sự  trên khắp thế giới đã hỗ trợ và &nbsp;tiếp tay buôn  bán trẻ em. Phán quyết này của Tòa án  quốc tế thấy rằng Giáo Hội và  bộ máy cai trị của giáo hội, Tổ hợp Vatican,  &nbsp;&nbsp;tạo thành một bộ máy tội  ác theo luật pháp quốc tế. </p>
+<p>
+• Ngày 11 tháng bảy 2013, Giáo Hoàng  Francis 1, Jorge Bergoglio, xác nhận tình trạng tội phạm trong giáo hội của ông  ta qua việc thiết lập các chính sách đối nội  mới để chỉ đạo và cưỡng bách các tội phạm ở mọi thành phần trong giáo  hội gồm cả &nbsp;hàng giáo phẩm  và  viên chức trong giáo hội. Chính sách mới  này và lời tuyên  bố công khai của Bergoglio đã tái khẳng định  giáo luật hiện hành để bảo vệ các tu sĩ tội đồ hãm  hiếp trẻ em, bằng cách chỉ thị cho tất  cả mọi thành phần giáo dân phải  che giấu các bằng chứng về hiếp dâm và buôn bán trẻ em trong giáo  hội của họ, và đe dọa trừng phạt những người tiết lộ các bằng chứng đó. </p>
+<p>
+• &nbsp;Bằng những chỉ thị  và thông qua các chính sách này, Bergoglio đã không những ra lệnh cho  tất cả các tín đồ cứ vi phạm luật pháp, mà  còn phạm tội phản nghịch chống lại quốc gia của chính  họ bằng cách vi phạm luật bảo vệ trẻ em và chống lại các cơ quan cảnh sát. Nói  vắn tắt, Giáo Hoàng, không những chỉ tạo điều kiện dễ dàng cho việc lạm dụng  trẻ em và buôn người khắp nơi trên quốc tế, mà còn đang  tiến hành một âm mưu tội ác chống lại các luật lệ và chủ quyền của các quốc gia khác. &nbsp;</p>
+<p>
+• Trong một cuộc phỏng vấn độc quyền  vào ngày 4 tháng 7, 2013, bà Nadine Bews, cựu viên chức của bộ tộc Sarcee  Nation mô tả các chi tiết về chiến tranh vi trùng được sử dụng chống lại gia đình gốc thổ dân của bà ở Alberta, và Thượng  nghị sĩ Harry Hays, một chính trị gia thế lực của Canada, đã xác nhận như thế  nào với bà rằng sự diệt chủng ở Canada là một “<i>kế  hoạch tiêu diệt gồm bốn  giai đoạn</i>” phối hợp nhau nhằm vào những dân Da Đỏ nào không chịu bị đồng hóa.  Bà Nadine làm việc cho Thượng nghị sĩ này trong thập niên 1970, sau khi ông  Hays đã phục vụ trong nội các của Thủ tướng Lester Pearson. Ông mô tả một cách chi tiết  với bà ấy về phương cách cố tình làm cho trẻ em Da Đỏ lây nhiễm bệnh lao, vốn là một giai đoạn của kế hoạch rộng lớn hơn do  chính quyền và nhà thờ chủ mưu để diệt hết người Da Đỏ. &nbsp;&nbsp;</p>
+<p class="PicRgt">
+<img src="https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/SACHNGOAI/Hinhanh/BIASACH/Twenty2Faces.jpg" width="150" height="226"></p>
+<p>• Ngày 08 tháng 5 năm 2013 tại Hòa  Lan, ông Kevin Annett phỏng vấn bà Toos  Nijenhuis, một bác sĩ trị liệu tâm lý, là nạn nhân của sự tra tấn theo nghi  thức tương tự như kiểu mà nhân vật Hill giải thích trong tác phẩm "<i>Hai mươi Hai gương mặt</i>."  (Twenty-Two Faces.) Bà Nijenhuis đã thảo  luận về &nbsp;hoàn  cảnh nạn nhân của bà trong mạng lưới buôn bán quốc tế liên quan đến các  chính trị gia nổi tiếng và các Hồng Y Công giáo trong thập  niên 1960, bao gồm cả sự hiểu biết của bà về buổi lễ hiến tế trẻ em đã  xảy ra trong vùng nông thôn ở Hoà Lan vào năm 2010. &nbsp;</p>
+<p>
+• Bà Judy Byington (tác giả quyển Twenty-Two Faces) nói rằng:  "<i>Những người nào trong chúng ta mà biết  đến những người sống  sót sau khi bị lạm dụng tình dục trầm trọng như bà Nijenhuis và Jenny  Hill thì sẽ nhận thức sâu sắc rằng có hàng  ngàn trẻ em giống họ, đã trải qua những nghi thức hiến tế trong suốt thời thơ  ấu do những người thân của các em chủ động.  Không phải chỉ là quyền của chúng ta, mà là nghĩa vụ của chúng ta phải can  thiệp</i>"</p>
+<p align="center"><iframe width="480" height="270" src="https://www.youtube.com/embed/PyrPEu7nk1Q?feature=player_embedded" frameborder="0" allowfullscreen=""></iframe></p>
+
+<p> • Vào ngày 21 tháng sáu năm 1965 khi  còn là một em bé 6 tuổi, cô Hill đã sống sót sau một nghi lễ hiến tế ở Garden  Grove, California. Các thủ phạm hãm hại cô  vẫn chưa bị truy tố mặc dù các cuộc điều tra  của cảnh sát vẫn còn tiếp tục tiến hành ở  California và Pennsylvania, và cô Hill đã  nhận diện được những người tra tấn cô cả ba tháng trường trước khi làm lễ hiến  tế, nơi mà họ đã giết một đứa trẻ khác mà cô Hill nhận  diện được là Kathleen Shea.</p>
+<p>
+• <b>Tại Brussels:</b> Hàng ngàn viên chức  và tu sĩ Công giáo đang được lệnh phải tuân  hành luật bảo vệ trẻ em trong tuần này, luật này đòi hỏi họ phải công khai  tuyên thệ để tuân thủ và không được thông đồng hoặc áp  dụng giáo luật về hình sự gọi là Crimen Sollicitationas.</p>
+<p>
+Vì vậy, để cho mọi người cùng biết và quyết định rằng:</p>
+<p class="sub"> <b>1. Jorge Bergoglio,  Giáo Hoàng của Giáo Hội Rôma, là một  tên tội phạm bị truy nã theo hình luật quốc tế</b>. Mọi người nam cũng như nữ bắt  buộc phải hỗ trợ các cơ quan Cảnh sát và Đại diện của Tòa án tại các địa phương  trong việc truy bắt Bergoglio và đưa ông ta ra Tòa án Quốc-tế về Hình-sự để xét xử.</p>
+<p class="sub"> <b>2. Cho đến hôm nay, Giáo Hội Công giáo La Mã được công bố là một tổ chức tội ác  xuyên quốc gia</b>,  mọi tài sản và quyền lực đều bị truất bỏ, và quyền tồn tại như một &nbsp;tổ hợp cũng  bị tước bỏ. Tổ chức này phải giải thể ngay tức thì, mọi chính sách và luật lệ  của nó đều bị hủy bỏ. Người nào liên kết với cơ quan này cũng như tài trợ cho  tổ chức này, phải chịu phạt và chịu án tù. &nbsp;</p>
+<p class="sub"> <b>3. Mọi công dân của các quốc gia  được quyền hỗ trợ trong việc tích cực giải thể Giáo hội Công giáo La Mã</b>   bằng cách tịch thu một cách êm đẹp các tài  sản, bất động sản của Tổ-hợp Vatican, và bắt giữ các tu sĩ, viên chức của Giáo hội La Mã như bắt giữ những thường dân phạm tội, đặc biệt  là những người đã được biết rõ hoặc bị tình nghi đã hãm hiếp trẻ em. &nbsp;</p>
+<p> Tuyên bố này,  cùng với <a href="https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/TONGIAO/IMG/VATICAN/POPE/Trattoa_batgiaohoang.jpg">trát  tòa ban hành vào ngày 1 tháng 8, năm 2013</a>, ký tên và ghi ngày tháng bởi người sử dụng sẽ được coi là uỷ  quyền hợp pháp để thi hành những hành động trên đây. <img src="https://pub-756b239a5ae84d4c8c8ff709f375d430.r2.dev/images/sqdot.gif" width="10" height="10"></p>
+<p> Xem nguyên văn Anh ngữ: <a href="https://itccs.org/2013/08/03/the-roman-catholic-church-is-declared-a-transnational-criminal-organization/">https://itccs.org/ </a></p>
+<p>_____________________</p>
+<p><b>(*) Tám bài viết của ITCCS:</b></p>
+<p> 08 - 03  ►   <a href="https://itccs.org/2013/08/03/the-roman-catholic-church-is-declared-a-transnational-criminal-organization/" title="Permanent Link to The Roman Catholic Church is Declared a Transnational Criminal Organization">The Roman Catholic Church is Declared a Transnational  Criminal Organization, </a> video: <a href="https://www.youtube.com/watch?v=vzvo7hp0ntY">https://www.youtube.com/watch?v=vzvo7hp0ntY</a></p>
+<p> 07 - 11  ►   <a href="https://itccs.org/2013/07/11/roman-catholic-church-is-declared-a-transnational-criminal-organization/" title="Permanent Link to Roman Catholic Church is declared a Transnational Criminal Organization">Roman Catholic Church is declared a Transnational Criminal  Organization </a></p>
+<p> 07 - 10  ►   <a href="https://itccs.org/2013/07/10/updates-from-the-usa-and-canada/" title="Permanent Link to Updates from the USA and Canada">Updates from the USA and Canada </a></p>
+<p> 06 - 27  ►   <a href="https://itccs.org/2013/06/27/mid-summer-update/" title="Permanent Link to Mid Summer Update">Mid Summer  Update </a></p>
+<p> 06 - 07  ►   <a href="https://itccs.org/2013/06/07/the-return-of-kevin-annett/" title="Permanent Link to The Return of Kevin Annett">The  Return of Kevin Annett </a></p>
+<p> 06 - 04  ►   <a href="https://itccs.org/2013/06/04/vatican-secretary-of-state-set-to-resign-insider/" title="Permanent Link to Vatican Secretary of State Set to Resign: Insider">Vatican Secretary of State Set to Resign: Insider </a></p>
+<p> 05 - 24  ►   <a href="https://itccs.org/2013/05/24/new-alliance-is-forged-in-italy-to-stop-child-rape-and-trafficking/" title="Permanent Link to New Alliance is Forged in Italy to Stop Child Rape and Trafficking">New Alliance is Forged in Italy to Stop Child Rape and  Trafficking </a></p>
+<p> 05 - 24  ►   <a href="https://itccs.org/2013/05/24/media-statement-from-kevin-annett-and-francesco-zanardi-in-todays-italy-press-conference-exposing-vatican-crimes/" title="Permanent Link to Media Statement from Kevin Annett and Francesco Zanardi in today’s Italy Press Conference Exposing Vatican Crimes">Media Statement from Kevin Annett and Francesco Zanardi in  today’s Italy Press Conference Exposing Vatican Crimes </a></p>
+<p> 05 - 18  ►   <a href="https://itccs.org/2013/05/18/historic-press-conference-in-italy/" title="Permanent Link to Historic Press Conference in Italy">Historic Press Conference in Italy </a></p>
+<p> 05 - 08   ►   
+<a href="https://www.salem-news.com/articles/may082013/holland-child-ring.php" title="Permanent Link to Child Sacrifice and Trafficking in Holland, and Abroad: An Eyewitness Comes Forward and Names her Torturers">Child Sacrifice and Trafficking in Holland, and Abroad: An  Eyewitness Comes Forward and Names her Torturers </a>
+</p>
+
+     <hr>
