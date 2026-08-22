@@ -27,6 +27,16 @@ const pageTitle = title === 'Sách Hiếm' ? title : `${title} — Sách Hiếm`
     <meta name="description" content={description ?? 'Thư viện sách hiếm, sử liệu và các bài nghiên cứu lịch sử, tôn giáo, văn hóa Việt Nam.'} />
     <meta name="generator" content={Astro.generator} />
     <link rel="icon" type="image/svg+xml" href="/favicon.svg" />
+    <script is:inline>
+      // Áp theme sớm (trước khi CSS vẽ) để không nháy sáng/tối
+      (function () {
+        var t = localStorage.getItem('sh-theme');
+        if (t !== 'dark' && t !== 'light') {
+          t = window.matchMedia && window.matchMedia('(prefers-color-scheme: dark)').matches ? 'dark' : 'light';
+        }
+        document.documentElement.setAttribute('data-theme', t);
+      })();
+    </script>
   </head>
   <body>
     <Header current={current} />

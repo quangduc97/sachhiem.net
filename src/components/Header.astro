@@ -1,24 +1,67 @@
 ---
+import index from '../data/articles.json';
+
 interface Props {
   current?: string;
 }
 const { current } = Astro.props;
+const { categories } = index;
 
-const links = [
-  { href: '/', label: 'Trang chủ' },
-  { href: '/tim-kiem/', label: 'Tìm kiếm' },
-  { href: '/#tac-gia', label: 'Tác giả' },
-];
+const categoryLinks = Object.entries(categories).sort(([, a], [, b]) => a.localeCompare(b, 'vi'));
 ---
 
 <header class="masthead">
   <p class="brand"><a href="/">Sách Hiếm</a></p>
   <p class="tagline">sachhiem.net — thư viện sách hiếm, sử liệu &amp; những cuộc đối thoại lịch sử</p>
   <nav>
-    {
-      links.map((l) => (
-        <a href={l.href} aria-current={current === l.href ? 'page' : undefined}>{l.label}</a>
-      ))
-    }
+    <a href="/" aria-current={current === '/' ? 'page' : undefined}>Trang chủ</a>
+    <div class="dropdown">
+      <button class="dropbtn" type="button" aria-haspopup="true" aria-expanded="false">
+        Chuyên mục <span class="caret">▾</span>
+      </button>
+      <div class="dropdown-menu" role="menu">
+        {
+          categoryLinks.map(([slug, name]) => (
+            <a href={`/${slug}/`} role="menuitem" aria-current={current === `/${slug}/` ? 'page' : undefined}>
+              {name}
+            </a>
+          ))
+        }
+      </div>
+    </div>
+    <a href="/#tac-gia">Tác giả</a>
+    <a href="/tim-kiem/" class="icon-link" aria-label="Tìm kiếm" title="Tìm kiếm">
+      <svg viewBox="0 0 24 24" width="17" height="17" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" aria-hidden="true">
+        <circle cx="11" cy="11" r="7"></circle>
+        <line x1="16.5" y1="16.5" x2="21" y2="21"></line>
+      </svg>
+    </a>
+    <button id="theme-toggle" class="icon-btn" type="button" aria-label="Chuyển giao diện sáng/tối" title="Sáng / Tối">
+      <svg class="icon-moon" viewBox="0 0 24 24" width="17" height="17" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true">
+        <path d="M21 12.8A9 9 0 1 1 11.2 3a7 7 0 0 0 9.8 9.8z"></path>
+      </svg>
+      <svg class="icon-sun" viewBox="0 0 24 24" width="17" height="17" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" aria-hidden="true">
+        <circle cx="12" cy="12" r="4"></circle>
+        <line x1="12" y1="2" x2="12" y2="5"></line>
+        <line x1="12" y1="19" x2="12" y2="22"></line>
+        <line x1="2" y1="12" x2="5" y2="12"></line>
+        <line x1="19" y1="12" x2="22" y2="12"></line>
+        <line x1="4.9" y1="4.9" x2="7" y2="7"></line>
+        <line x1="17" y1="17" x2="19.1" y2="19.1"></line>
+        <line x1="4.9" y1="19.1" x2="7" y2="17"></line>
+        <line x1="17" y1="7" x2="19.1" y2="4.9"></line>
+      </svg>
+    </button>
   </nav>
 </header>
+
+<script>
+  // Chuyển sáng/tối — trạng thái lưu trong localStorage
+  const btn = document.getElementById('theme-toggle');
+  btn?.addEventListener('click', () => {
+    const cur = document.documentElement.getAttribute('data-theme');
+    const next = cur === 'dark' ? 'light' : 'dark';
+    document.documentElement.setAttribute('data-theme', next);
+    localStorage.setItem('sh-theme', next);
+  });
+</script>

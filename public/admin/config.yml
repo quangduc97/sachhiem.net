@@ -1,8 +1,8 @@
 backend:
-  name: git-gateway
+  name: github
+  repo: quangduc97/sachhiem.net
   branch: main
-  gateway_url: https://monumental-sunburst-4bc155.netlify.app/.netlify/git
-  identity_url: https://monumental-sunburst-4bc155.netlify.app/.netlify/identity
+local_backend: true
 site_url: https://quangduc97.github.io/sachhiem.net/
 display_url: https://quangduc97.github.io/sachhiem.net/
 locale: vi

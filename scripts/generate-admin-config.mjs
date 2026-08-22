@@ -14,9 +14,9 @@ const SITE_ROOT = path.resolve(path.dirname(fileURLToPath(import.meta.url)), '..
 const AUTHORS_META_FILE = path.join(SITE_ROOT, 'src/data/authors-meta.json');
 const OUT_FILE = path.join(SITE_ROOT, 'public/admin/config.yml');
 
-const REPO = 'quangduc97/sachhiem.net'; // dùng cho hướng dẫn/ghi chú; backend là git-gateway
+const REPO = 'quangduc97/sachhiem.net';
 
-// Site Netlify làm cổng Identity (đổi nếu site bị xóa/đổi tên)
+// Site Netlify làm cổng Identity (chỉ dùng nếu quay lại git-gateway)
 const NETLIFY_SITE = 'https://monumental-sunburst-4bc155.netlify.app';
 
 const authors = JSON.parse(fs.readFileSync(AUTHORS_META_FILE, 'utf8'));
@@ -62,15 +62,10 @@ const collections = Object.entries(authors).map(([slug, info]) => ({
 }));
 
 const config = {
-  // git-gateway: đăng nhập qua Netlify Identity (không cần lưu token cá nhân).
-  // Admin nằm trên GitHub Pages (domain khác) nên phải trỏ URL tuyệt đối —
-  // nếu không Decap sẽ gọi /.netlify/... tương đối và bị 404.
-  backend: {
-    name: 'git-gateway',
-    branch: 'main',
-    gateway_url: `${NETLIFY_SITE}/.netlify/git`,
-    identity_url: `${NETLIFY_SITE}/.netlify/identity`,
-  },
+  // Chế độ local: sửa bài ngay trên máy, không cần dịch vụ đăng nhập nào.
+  // decap-server chạy local (npm run cms) nhận lệnh commit qua git local.
+  backend: { name: 'github', repo: REPO, branch: 'main' },
+  local_backend: true,
   site_url: 'https://quangduc97.github.io/sachhiem.net/',
   display_url: 'https://quangduc97.github.io/sachhiem.net/',
   locale: 'vi',
